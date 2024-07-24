@@ -1,0 +1,152 @@
+{
+    "team_view.remove_members_modal.confirmation": {
+        "string": "Remove"
+    },
+    "team_view.pro_member_modal.file_inaccessible_tooltip_warning": {
+        "string": "You don't have access to this file due to its permissions."
+    },
+    "team_view.pro_member_modal.error_on_activity_retrieval_fallback_message": {
+        "string": "An error occurred while fetching latest activity."
+    },
+    "team_view.pro_member_modal.title_with_username": {
+        "string": "{username}'s most recent activity"
+    },
+    "team_view.pro_member_modal.title_without_username": {
+        "string": "Recent Activity"
+    },
+    "team_view.pro_member_modal.no_activity_found": {
+        "string": "No activity found"
+    },
+    "team_view.pro_member_modal.edit_table_product_header": {
+        "string": "Product"
+    },
+    "team_view.pro_member_modal.edit_table_file_header": {
+        "string": "File"
+    },
+    "team_view.pro_member_modal.edit_table_last_active_header": {
+        "string": "Last Active"
+    },
+    "community.deprecate_browse_as_admin_overlay.managing_profiles_link": {
+        "string": "managing profiles"
+    },
+    "community.deprecate_browse_as_admin_overlay.saving_plugins_link": {
+        "string": "saving plugins"
+    },
+    "community.deprecate_browse_as_admin_overlay.title": {
+        "string": "Looking for “Browse as admin”?"
+    },
+    "community.deprecate_browse_as_admin_overlay.body": {
+        "string": "Because of our recent changes for {managingProfilesLink} and {savingPluginsLink}, you no longer need to switch profiles to manage your team’s resources."
+    },
+    "user_notifications.notifications": {
+        "string": "Notifications"
+    },
+    "community.resource_page.media_carousel.restart": {
+        "string": "Restart"
+    },
+    "community.detail_view.made_by_a_figma_partner": {
+        "string": "Made by a Figma Partner"
+    },
+    "community.detail_view.ui_kit": {
+        "string": "UI kit"
+    },
+    "community.detail_view.made_for_codegen": {
+        "string": "Generates code snippets"
+    },
+    "community.landing_page.sort.all_products": {
+        "string": "All products"
+    },
+    "community.view_bar.dev_mode": {
+        "string": "Figma: Dev Mode"
+    },
+    "community.view_bar.figma_prototype": {
+        "string": "Figma prototype"
+    },
+    "community.view_bar.fig_jam": {
+        "string": "FigJam"
+    },
+    "community.view_bar.slides": {
+        "string": "Figma Slides"
+    },
+    "community.view_bar.all_creators": {
+        "string": "All creators"
+    },
+    "community.view_bar.following": {
+        "string": "Following"
+    },
+    "community.view_bar.figma_partners_only": {
+        "string": "Figma Partners only"
+    },
+    "community.landing_page.sort.trending": {
+        "string": "Trending"
+    },
+    "community.curated_page.popular": {
+        "string": "Popular"
+    },
+    "community.landing_page.sort.recent": {
+        "string": "Recent"
+    },
+    "community.landing_page.sort.relevancy": {
+        "string": "Relevancy"
+    },
+    "community.landing_page.sort.price_high_to_low": {
+        "string": "Price: High to low"
+    },
+    "community.landing_page.sort.price_low_to_high": {
+        "string": "Price: Low to high"
+    },
+    "community.detail_view.made_for_dev_mode": {
+        "string": "For Figma: Dev Mode"
+    },
+    "community.detail_view.made_for_figma_design_and_dev_mode": {
+        "string": "For Design and Dev Mode"
+    },
+    "project_creation.step_number_of_max_steps": {
+        "string": "Step {currentStep} of {maxSteps}"
+    },
+    "project_creation.back": {
+        "string": "Back"
+    },
+    "project_creation.create_project": {
+        "string": "Create project"
+    },
+    "project_creation.name": {
+        "string": "Name"
+    },
+    "project_creation.ex_growth_experiments": {
+        "string": "Ex. Growth Experiments"
+    },
+    "project_creation.project_name": {
+        "string": "Project name"
+    },
+    "project_creation.project_name_empty": {
+        "string": "Enter a project name"
+    },
+    "project_creation.add_people_to_project_name": {
+        "string": "Add people to {projectName}"
+    },
+    "rcs.sharing_clarity.project_creation_permissions_title": {
+        "string": "Set permissions that fit your project"
+    },
+    "rcs.sharing_clarity.project_creation_permissions_description": {
+        "string": "You now have more control over who has access to your projects and what they can do. {learnMoreLink}"
+    },
+    "project_creation.invite_only": {
+        "string": "Invite-only"
+    },
+    "project_creation.everyone_at_team_name_can_edit": {
+        "string": "Everyone at {teamName} can edit"
+    },
+    "project_creation.everyone_on_this_team_can_edit": {
+        "string": "Everyone on this team can edit"
+    },
+    "project_creation.everyone_at_team_name_can_view": {
+        "string": "Everyone at {teamName} can view"
+    },
+    "project_creation.everyone_on_this_team_can_view": {
+        "string": "Everyone on this team can view"
+    },
+    "project_creation.invite_only_let_me_choose_who_has_access": {
+        "string": "Invite-only — let me choose who has access"
+    }
+}

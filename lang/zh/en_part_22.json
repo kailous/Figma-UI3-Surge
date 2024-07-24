@@ -1,0 +1,152 @@
+{
+    "collaboration.branching.file_is_in_view_only_state_please_current_refresh_tab_and_try_again": {
+        "string": "File is in view only state - please current refresh tab and try again."
+    },
+    "collaboration.branching.couldn_t_proceed_with_merge_please_accept_updates_from_main_before_merging_your_branch": {
+        "string": "Couldn't proceed with merge. Please accept updates from main before merging your branch."
+    },
+    "file_browser.file_browser_actions.cant_move_published_file": {
+        "string": "You can't move a file that's been published to the Community hub by a team. File {fileName} has been published by team {teamName}"
+    },
+    "file_browser.file_browser_actions.remove_files_from_project_permission": {
+        "string": "You don't have permission to remove files from {projectName}}"
+    },
+    "file_browser.file_browser_actions.remove_files_from_this_project_permission": {
+        "string": "You don't have permission to remove files from this project"
+    },
+    "templates.confirmation.move_to_drafts.title": {
+        "string": "{count, plural, one {Unpublish template?} other {Unpublish templates?}}"
+    },
+    "templates.confirmation.move_to_drafts.description.multiselect_v2": {
+        "string": "Some of these files are templates—moving them to drafts will also remove them from your team’s templates."
+    },
+    "templates.confirmation.move_to_drafts.description": {
+        "string": "Moving this file to drafts will also remove it from your team’s templates."
+    },
+    "templates.confirmation.move_to_drafts.button_v2": {
+        "string": "Move & unpublish"
+    },
+    "file_browser.this_team": {
+        "string": "this team"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_team_multiple_folders": {
+        "string": "Are you sure you want to move these files? Members of {teamName} may lose access to some of them."
+    },
+    "file_browser.file_browser_actions.confirm_move_from_team": {
+        "string": "{numFiles, plural, one {Are you sure you want to move this file? Members of {teamName} may lose access to it.} other {Are you sure you want to move these files? Members of {teamName} may lose access to it.}}"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_shared_project_multiple": {
+        "string": "Are you sure you want to move these files? Members of {projectName} may lose access to some of them"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_shared_project": {
+        "string": "{numFiles, plural, one {Are you sure you want to move this file? Members of {projectName} may lose access to it} other {Are you sure you want to move these files? Members of {projectName} may lose access to them}}"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_project_multiple": {
+        "string": "Are you sure you want to move these files? Members of the previous projects may lose access to them"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_project": {
+        "string": "{numFiles, plural, one {Are you sure you want to move this file? Members of the previous project may lose access to it.} other {Are you sure you want to move these files? Members of the previous project may lose access to them.}}"
+    },
+    "file_browser.file_move.move": {
+        "string": "Move"
+    },
+    "file_restore_from_version_modal.restore": {
+        "string": "Restore"
+    },
+    "file_restore_from_version_modal.restore_from_version_history": {
+        "string": "Restore from version history"
+    },
+    "design_systems.publish_actions.unpublish_success": {
+        "string": "Successfully unpublished library"
+    },
+    "design_systems.publish_actions.publish_success": {
+        "string": "Successfully published library updates"
+    },
+    "design_systems.publish_actions.unpublishing_library": {
+        "string": "Unpublishing library"
+    },
+    "design_systems.publish_actions.publishing_library": {
+        "string": "Publishing library"
+    },
+    "design_systems.publish_actions.cant_unpublish": {
+        "string": "Can't unpublish while offline"
+    },
+    "design_systems.publish_actions.cant_publish": {
+        "string": "Can't publish while offline"
+    },
+    "design_systems.publish_actions.retry": {
+        "string": "Retry"
+    },
+    "check_network_compatibility.error_bell.library_publish.message": {
+        "string": "Publishing failed. Your network settings may need updating."
+    },
+    "design_systems.publish_error.generic": {
+        "string": "Something went wrong while publishing. Please try again"
+    },
+    "design_systems.publish_actions.unpublish_error": {
+        "string": "{numSkipped, plural, one {Unable to unpublish {numSkipped} change from the Team Library} other {Unable to unpublish {numSkipped} changes from the Team Library}}"
+    },
+    "design_systems.publish_actions.publish_error": {
+        "string": "{numSkipped, plural, one {Unable to publish {numSkipped} change to the Team Library} other {Unable to publish {numSkipped} changes to the Team Library}}"
+    },
+    "design_systems.publish_actions.validations_failed": {
+        "string": "Content can't be published—contact Figma for help."
+    },
+    "design_systems.publish_actions.validations_contact": {
+        "string": "Contact"
+    },
+    "design_systems.publish_actions.payload_too_large": {
+        "string": "Your page, frame, or asset name is too long. Please try again with shorter names."
+    },
+    "design_systems.publish_actions.reload": {
+        "string": "Please reload the page to publish."
+    },
+    "design_systems.publish_actions.unpublish_failed": {
+        "string": "Unpublishing failed: {reason}"
+    },
+    "design_systems.publish_actions.publish_failed": {
+        "string": "Publishing failed: {reason}"
+    },
+    "community.eula.license_agreement": {
+        "string": "License Agreement for Apple Design Resources"
+    },
+    "community.eula.disagree": {
+        "string": "Disagree"
+    },
+    "community.eula.agree": {
+        "string": "Agree"
+    },
+    "design_systems.update_actions.updating_assets": {
+        "string": "Updating assets"
+    },
+    "design_systems.update_actions.update_success": {
+        "string": "Successfully updated assets"
+    },
+    "design_systems.update_actions.update_failure": {
+        "string": "Updating failed"
+    },
+    "license_group.an_error_occurred_while_fetching_workspaces": {
+        "string": "An error occurred while fetching workspaces"
+    },
+    "collaboration.branching.an_error_occurred_while_updating_this_file": {
+        "string": "An error occurred while updating this file."
+    },
+    "collaboration.branching.an_error_occurred_while_restoring_these_files": {
+        "string": "An error occurred while restoring these files."
+    },
+    "collaboration.branching.files_restored": {
+        "string": "Files restored"
+    },
+    "save_status.unsaved_changes": {
+        "string": "This file has unsaved changes."
+    },
+    "save_status.learn_more": {
+        "string": "Learn more"
+    },
+    "save_status.changes_saved": {
+        "string": "Changes saved"
+    },
+    "file_browser.file_browser_actions.must_be_online_to_save_version": {
+        "string": "You must be online to save this version."
+    }
+}

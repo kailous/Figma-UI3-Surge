@@ -1,0 +1,152 @@
+{
+    "tsmer_config.modal.levers_label": {
+        "string": "TSMER levers"
+    },
+    "tsmer_config.modal.reset": {
+        "string": "Reset"
+    },
+    "tsmer_config.modal.edit_frame_budget_seconds": {
+        "string": "Edit frame time budget (seconds)"
+    },
+    "tsmer_config.modal.edit_frame_budget_framebuffer_switches": {
+        "string": "Edit frame buffer switch budget"
+    },
+    "tsmer_config.modal.max_edit_frame_time_seconds": {
+        "string": "Max edit frame time"
+    },
+    "asset_suggestions.fragment_inspect_modal_title": {
+        "string": "Fragment Inspection"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.all_pages": {
+        "string": "All pages"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.current_page": {
+        "string": "This page"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.missing_fonts": {
+        "string": "Missing fonts"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.replace_fonts": {
+        "string": "Replace fonts"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.missing_font": {
+        "string": "Missing font"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.replacement": {
+        "string": "Replacement"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.font_name_family_font_name_style": {
+        "string": "{fontFamily}, {fontStyle}"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.close": {
+        "string": "Close"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.cancel": {
+        "string": "Cancel"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.finding_missing_fonts": {
+        "string": "Finding missing fonts"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.fonts_and_font_styles_not_available": {
+        "string": "The following fonts/font styles are not available. Choose replacement fonts in order to edit text."
+    },
+    "fullscreen.toolbar.missing_fonts_modal.fonts_not_available": {
+        "string": "The following fonts are not available. Choose replacement fonts in order to edit text."
+    },
+    "fullscreen.toolbar.missing_fonts_modal.font_styles_not_available": {
+        "string": "The following font styles are not available. Choose replacement fonts in order to edit text."
+    },
+    "fullscreen.toolbar.missing_fonts_modal.select_items_count_using_this_font": {
+        "string": "{numItems, plural, one {Select item using this font} other {Select {numItems} using this font}}"
+    },
+    "fullscreen.color_management.document_modal.title": {
+        "string": "Change color profile to {color_profile}"
+    },
+    "fullscreen.color_management.document_modal.warning.clamp.convert": {
+        "string": "Some colors might be clipped."
+    },
+    "rcs.rcs_shared.learn_more": {
+        "string": "Learn more"
+    },
+    "fullscreen.color_management.document_modal.options.assign.subtitle": {
+        "string": "Keep the same color values, which changes how colors appear."
+    },
+    "fullscreen.color_management.document_modal.confirm.title.convert_display_p3": {
+        "string": "Convert to Display P3"
+    },
+    "fullscreen.color_management.document_modal.confirm.title.assign_display_p3": {
+        "string": "Assign Display P3"
+    },
+    "fullscreen.color_management.document_modal.confirm.title.convert_srgb": {
+        "string": "Convert to sRGB"
+    },
+    "fullscreen.color_management.document_modal.confirm.title.assign_srgb": {
+        "string": "Assign sRGB"
+    },
+    "general.confirm": {
+        "string": "Confirm"
+    },
+    "fullscreen.color_management.document_modal.cancel": {
+        "string": "Keep {color_profile}"
+    },
+    "fullscreen.color_management.file_history.assign-display-p3": {
+        "string": "Assigned Display P3"
+    },
+    "fullscreen.color_management.file_history.assign-srgb": {
+        "string": "Assigned sRGB"
+    },
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.convert": {
+        "string": "Your browser does not support Display P3 but the conversion will be visible to others."
+    },
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.assign": {
+        "string": "Your browser does not support Display P3 but the assignment will be visible to others."
+    },
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.monitor": {
+        "string": "Color profile will be applied even though your display can’t show Display P3 colors."
+    },
+    "fullscreen.color_management.document_modal.options.convert.subtitle.srgb_to_display_p3": {
+        "string": "Change values (like hex codes) to their nearest sRGB equivalent. Colors will appear the same."
+    },
+    "fullscreen.color_management.document_modal.options.convert.subtitle.display_p3_to_srgb": {
+        "string": "Change values (like hex codes) to the nearest Display P3 equivalent. Colors will appear the same."
+    },
+    "fullscreen.color_management.file_history.label": {
+        "string": "Color profile change"
+    },
+    "fullscreen.color_management.document_modal.options.convert.title": {
+        "string": "Keep appearance (Convert)"
+    },
+    "fullscreen.color_management.document_modal.options.assign.title": {
+        "string": "Keep values (Assign)"
+    },
+    "fullscreen.rename_modal.preview": {
+        "string": "Preview"
+    },
+    "fullscreen.rename_modal.learn_more": {
+        "string": "Learn more"
+    },
+    "fullscreen.rename_modal.number": {
+        "string": "Number"
+    },
+    "fullscreen.rename_modal.rename": {
+        "string": "Rename"
+    },
+    "fullscreen.rename_modal.cancel": {
+        "string": "Cancel"
+    },
+    "fullscreen.rename_modal.start_ascending_from": {
+        "string": "Start ascending from"
+    },
+    "fullscreen.rename_modal.start_sequence_from": {
+        "string": "Start sequence from"
+    },
+    "fullscreen.rename_modal.stop_descending_at": {
+        "string": "Stop descending at"
+    },
+    "fullscreen.rename_modal.rename_num_pages_pages": {
+        "string": "Rename {numPages} pages"
+    },
+    "fullscreen.rename_modal.rename_num_layers_layers": {
+        "string": "Rename {numLayers} layers"
+    }
+}

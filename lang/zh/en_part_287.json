@@ -1,0 +1,152 @@
+{
+    "activity_log.table.all": {
+        "string": "All"
+    },
+    "activity_log.table.event_selected": {
+        "string": "Event: {event}"
+    },
+    "activity_log.table.clear": {
+        "string": "Clear"
+    },
+    "activity_log.table.preparing_request_for_csv": {
+        "string": "Preparing request for CSV"
+    },
+    "activity_log.table.activity_log.table.csv_requested_success": {
+        "string": "Your CSV is being generated, which will take a few minutes. We’ll email you when it’s ready."
+    },
+    "activity_log.table.csv_requested_error": {
+        "string": "There was an error"
+    },
+    "activity_log.table.member_email_addresses": {
+        "string": "Member email addresses"
+    },
+    "activity_log.table.events_all": {
+        "string": "Events: All"
+    },
+    "activity_log.table.teams_all": {
+        "string": "Teams: All"
+    },
+    "activity_log.table.team_selected": {
+        "string": "Team: {team}"
+    },
+    "org_admin_settings.billing.billing_groups": {
+        "string": "Billing groups"
+    },
+    "org_admin_settings.cost_breakdown.invoices": {
+        "string": "Invoices"
+    },
+    "org_admin_settings.billing.invoices": {
+        "string": "Invoices"
+    },
+    "admin_dashboard.suggested.tile.subtext.main": {
+        "string": "Assign seats now to restore access, or {dismissalLink}"
+    },
+    "admin_dashboard.suggested.tile.subtext.dismissal_link": {
+        "string": "dismiss this notification"
+    },
+    "org_dashboard.total_teams": {
+        "string": "Total teams"
+    },
+    "org_dashboard.total_members": {
+        "string": "Total members"
+    },
+    "admin_dashboard.suggested.tile.body.dm_not_opted_in": {
+        "string": "Enable Dev Mode to restore access"
+    },
+    "admin_dashboard.suggested.tile.body.dm_not_opted_in_no_beta_users": {
+        "string": "Enable Dev Mode for your team"
+    },
+    "admin_dashboard.suggested.tile.body.dm_opted_in": {
+        "string": "Assign seats now to restore access"
+    },
+    "admin_dashboard.suggested.tile.title": {
+        "string": "Your team’s Dev Mode access ended on {dateObject, date, ::MMMMd}"
+    },
+    "admin_dashboard.suggested.button": {
+        "string": "Assign seats"
+    },
+    "org_dashboard.billing": {
+        "string": "Billing"
+    },
+    "org_dashboard.settings": {
+        "string": "Settings"
+    },
+    "billing_status.tax_id.invalid.v2": {
+        "string": "Your tax ID number couldn’t be verified. Please re-enter this information"
+    },
+    "resources_tab.approved_plugins.actions.plugin": {
+        "string": "Plugin"
+    },
+    "resources_tab.approved_widgets.actions.widget": {
+        "string": "Widget"
+    },
+    "resources_tab.approved_plugins.actions.settings": {
+        "string": "Settings"
+    },
+    "resources_tab.approved_plugins.plugin_approval_banner.open_settings": {
+        "string": "Open settings"
+    },
+    "settings_tab.add_domain_description": {
+        "string": "Allow users from an additional domain to become members of your organization"
+    },
+    "settings_tab.domain_list": {
+        "string": "{numDomains, plural, one {Current domain: {domains}} other {Current domains: {domains}}}"
+    },
+    "settings_tab.discovery.description": {
+        "string": "Extract text-based communication from your organization via downloadable files. {learnMoreLink}"
+    },
+    "resources_tab.libraries.current": {
+        "string": "Current: {setting}"
+    },
+    "settings_tab.data_storage.description": {
+        "string": "Store localization-supported data in the US or EU. To change storage location please contact support."
+    },
+    "settings_tab.data_storage.current_location": {
+        "string": "Current location: {currentLocation}"
+    },
+    "settings_tab.ip_restriction_description": {
+        "string": "Choose if access to Figma on the {orgName} network is only allowed for accounts that have access to the {orgName} organization."
+    },
+    "settings_tab.ip_restriction_range": {
+        "string": "Current IP range(s): {ipRanges}"
+    },
+    "settings_tab.ip_allowlist_description": {
+        "string": "Specify which IP addresses members must use to access your organization"
+    },
+    "settings_tab.ip_allowlist_ranges_list": {
+        "string": "Current IP range(s): {ranges}"
+    },
+    "settings_tab.workspace_selector_description_with_link": {
+        "string": "Show a prompt asking new and unassigned users to select a workspace when they log in"
+    },
+    "settings_table.subscription_renewal": {
+        "string": "Your {frequency} subscription renews on {billing_date}. We'll notify you beforehand. {more}"
+    },
+    "settings_table.billing_date": {
+        "string": "{billing_date}"
+    },
+    "settings_table.learn_more": {
+        "string": "Learn more."
+    },
+    "plan_settings.default_role_description": {
+        "string": "Automatically assign seat types to people when they join your {plan_type}"
+    },
+    "admin_settings.ai.features_toggle.description.org": {
+        "string": "Let your organization use Figma’s AI features. {learnMoreLink}"
+    },
+    "admin_settings.ai.data_sharing.description.org": {
+        "string": "Let Figma use your organization’s content to train AI models. Figma takes steps to de-identify data and protect your privacy. {learnMoreLink}"
+    },
+    "settings_tab.ai_beta.let_users_access_ai_features": {
+        "string": "Let users access AI features. {learnMoreLink}"
+    },
+    "settings_tab.slides.let_users_create_slides": {
+        "string": "Let users create, edit, and view slide decks in Figma Slides. {learnMoreLink}"
+    },
+    "settings_tab.show_more": {
+        "string": "Show more…"
+    },
+    "settings_tab.enabled": {
+        "string": "Enabled"
+    }
+}

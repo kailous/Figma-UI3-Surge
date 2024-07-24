@@ -1,0 +1,152 @@
+{
+    "fullscreen.context_menu.copy_link": {
+        "string": "Copy {editorSpecifierString} link"
+    },
+    "visual_bell.copy_email": {
+        "string": "Copied email {email}"
+    },
+    "visual_bell.copy_phone": {
+        "string": "Copied phone {number}"
+    },
+    "visual_bell.copy_hyperlink": {
+        "string": "Copied link to {hyperlink}"
+    },
+    "fullscreen.ruler_guide_context_menu.hide_rulers": {
+        "string": "Hide rulers"
+    },
+    "fullscreen.context_menu.ungroup": {
+        "string": "Ungroup"
+    },
+    "fullscreen.context_menu.rename": {
+        "string": "Rename"
+    },
+    "fullscreen.context_menu.flatten": {
+        "string": "Flatten"
+    },
+    "fullscreen.context_menu.show_hide": {
+        "string": "Show/Hide"
+    },
+    "spell_check.no_suggestions_found": {
+        "string": "No suggestions found"
+    },
+    "permissions.copy_link_button.visual_bell.copy_summary_link": {
+        "string": "Link copied…"
+    },
+    "dev_handoff.status.copy_summary_link": {
+        "string": "Copy link"
+    },
+    "whiteboard.section_preset_picker.shelf.title": {
+        "string": "Templates"
+    },
+    "comments.download_attachment_success": {
+        "string": "Download complete"
+    },
+    "comments.download_attachment_error": {
+        "string": "An error occurred while downloading the media file"
+    },
+    "comments.copying_attachment": {
+        "string": "Copying media file…"
+    },
+    "comments.copy_attachment_success": {
+        "string": "Media file copied to clipboard"
+    },
+    "comments.copy_attachment_error": {
+        "string": "An error occurred while copying the media file to the clipboard"
+    },
+    "dev_handoff.annotation.number_annotations": {
+        "string": "{count, plural, one {{count} annotation in Dev Mode} other {{count} annotations in Dev Mode}}"
+    },
+    "fullscreen.context_menu.hide_comments": {
+        "string": "Hide comments"
+    },
+    "dev_handoff.status.menu_title_start_handoff_title": {
+        "string": "Start your handoff process"
+    },
+    "dev_handoff.status.menu_title_design_changed_since_completed": {
+        "string": "Design has changed since marked as completed"
+    },
+    "dev_handoff.status.menu_title_design_changed_since_ready": {
+        "string": "Design has changed since marked as ready for dev"
+    },
+    "qa.unavailable": {
+        "string": "Currently unavailable"
+    },
+    "qa.all": {
+        "string": "All"
+    },
+    "qa.assets": {
+        "string": "Assets"
+    },
+    "qa.plugins_widgets": {
+        "string": "Plugins & widgets"
+    },
+    "qa.toast.suggestion": {
+        "string": "Suggestion"
+    },
+    "dev_handoff.paywall.success_modal.grace_period.title": {
+        "string": "Welcome to Dev Mode"
+    },
+    "dev_handoff.configuration_wizard.welcome_step.description_grace_period": {
+        "string": "We’ve sent your request to your admins and will let you know as soon as they approve it. You can use Dev Mode while you wait, for up to {numDays} days."
+    },
+    "dev_handoff.paywall.success_modal.grace_period.button": {
+        "string": "Get started"
+    },
+    "canvas_search.search_placeholder": {
+        "string": "Find…"
+    },
+    "dev_handoff.annotations.pin_properties_label": {
+        "string": "Property"
+    },
+    "dev_handoff.annotations.all_properties_added": {
+        "string": "All properties added"
+    },
+    "dev_handoff.annotations.no_value": {
+        "string": "No value"
+    },
+    "dev_handoff.annotations.add_annotation": {
+        "string": "Add an annotation"
+    },
+    "dev_handoff.annotations.pin_properties_tooltip": {
+        "string": "Pin properties"
+    },
+    "dev_handoff.annotations.delete": {
+        "string": "Delete annotation"
+    },
+    "dev_handoff.annotations.remove_property": {
+        "string": "Remove property"
+    },
+    "canvas_search.results_other_pages": {
+        "string": "See results on other pages"
+    },
+    "canvas_search.results_unavailable_offline": {
+        "string": "Offline—some results may be missing."
+    },
+    "canvas_search.this_page": {
+        "string": "This page"
+    },
+    "canvas_search.all_pages": {
+        "string": "All pages"
+    },
+    "canvas_search.no_results_in_this_deck": {
+        "string": "No results in this deck"
+    },
+    "canvas_search.no_results_on_page": {
+        "string": "No results on this page"
+    },
+    "canvas_search.no_results_in_file": {
+        "string": "No results in this file"
+    },
+    "canvas_search.results_count": {
+        "string": "{total, plural, one {{total} result} other {{total} results}}"
+    },
+    "fullscreen.canvas_search.pages": {
+        "string": "Pages"
+    },
+    "fullscreen.pages_panel.unavailable_offline": {
+        "string": "Offline—page not available"
+    },
+    "sites.panel.see_unsupported_properties": {
+        "string": "See unsupported properties"
+    }
+}

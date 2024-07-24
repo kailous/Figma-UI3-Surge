@@ -1,0 +1,152 @@
+{
+    "proto.scroll_panel.position_dropdown.sticky_stop_at_top_edge": {
+        "string": "Sticky (stop at top edge)"
+    },
+    "proto.scroll_panel.position_dropdown.fixed": {
+        "string": "Fixed"
+    },
+    "proto.scroll_panel.position_dropdown.sticky": {
+        "string": "Sticky"
+    },
+    "proto.scroll_panel.overflow_dropdown.no_scrolling": {
+        "string": "No scrolling"
+    },
+    "proto.scroll_panel.overflow_dropdown.horizontal": {
+        "string": "Horizontal"
+    },
+    "proto.scroll_panel.overflow_dropdown.vertical": {
+        "string": "Vertical"
+    },
+    "proto.scroll_panel.overflow_dropdown.both_directions": {
+        "string": "Both directions"
+    },
+    "sites.panel.position_panel.relative": {
+        "string": "Relative"
+    },
+    "sites.panel.position_panel.absolute": {
+        "string": "Absolute"
+    },
+    "sites.panel.position_panel.fixed": {
+        "string": "Fixed"
+    },
+    "sites.panel.position_panel.sticky": {
+        "string": "Sticky"
+    },
+    "sites.panel.interactions_panel.page_load": {
+        "string": "Page load"
+    },
+    "sites.panel.interactions_panel.this_layer_in_view": {
+        "string": "In view"
+    },
+    "sites.panel.interactions_panel.other_layer_in_view": {
+        "string": "Other layer in view"
+    },
+    "sites.panel.interactions_panel.scroll_direction": {
+        "string": "Scroll direction"
+    },
+    "fullscreen.toolbar.to_save_this_board_create_an_account": {
+        "string": "To save this board, create an account"
+    },
+    "org_user_actions.an_error_occurred_while_fetching_member_counts": {
+        "string": "An error occurred while fetching member counts."
+    },
+    "community.plugins.cancel_review": {
+        "string": "Cancel review"
+    },
+    "community.plugins.edit_resource_details.widget": {
+        "string": "Edit widget details"
+    },
+    "community.plugins.edit_resource_details.plugin": {
+        "string": "Edit plugin details"
+    },
+    "universal_insert.missing_manifest": {
+        "string": "Missing manifest · "
+    },
+    "universal_insert.locate": {
+        "string": "Locate"
+    },
+    "universal_insert.manifest_error": {
+        "string": "Manifest error · "
+    },
+    "universal_insert.manage_permissions": {
+        "string": "Manage permissions"
+    },
+    "universal_insert.remove_local_version": {
+        "string": "Remove local version"
+    },
+    "universal_insert.remove": {
+        "string": "Remove"
+    },
+    "qa.extensions.locate_local_version": {
+        "string": "Locate local version"
+    },
+    "community.actions.an_error_occurred_while_searching_for_plugins": {
+        "string": "An error occurred while searching for plugins"
+    },
+    "community.actions.an_error_occurred_while_searching_for_widgets": {
+        "string": "An error occurred while searching for widgets"
+    },
+    "universal_insert.plugin_not_in_allowlist": {
+        "string": "This plugin is not allowed by your organization"
+    },
+    "whiteboard.inserts.insert_template_failed_v2": {
+        "string": "Couldn’t add template—it may have been deleted or moved."
+    },
+    "pro_cart.review.edit_details.team_name_label": {
+        "string": "Team name"
+    },
+    "pro_cart.review.edit_details.team_name_description": {
+        "string": "This name appears in the file browser, in emails from Figma, and more. "
+    },
+    "pro_cart.review.edit_details.company_name_label": {
+        "string": "Company name"
+    },
+    "pro_cart.review.edit_details.company_name_description": {
+        "string": "If you need to use a different name for your team on invoices, add it here."
+    },
+    "pro_cart.review.edit_details.cancel": {
+        "string": "Cancel"
+    },
+    "pro_cart.review.edit_details.save": {
+        "string": "Save"
+    },
+    "update_company_details_modal.update_display_name.error": {
+        "string": "Team display name could not be updated at this time."
+    },
+    "update_company_details_modal.update_team_name.error": {
+        "string": "Team or team legal name could not be updated at this time."
+    },
+    "community.profiles.your_handle_text": {
+        "string": "Your handle"
+    },
+    "community.publishing.profile_handle_cannot_be_empty": {
+        "string": "{errorStringPrefix} cannot be empty"
+    },
+    "community.profiles.profile_max_15_characters_in_length": {
+        "string": "{errorStringPrefix} can only be up to 15 characters in length"
+    },
+    "community.profiles.profile_cannot_contain_special_characters": {
+        "string": "{errorStringPrefix} cannot contain special characters"
+    },
+    "community.publishing.cover_image_not_found": {
+        "string": "Cover art image not found"
+    },
+    "community.publishing.cover_image_requirements": {
+        "string": "Cover art must be a jpeg, png, svg, or gif"
+    },
+    "community.publishing.cover_image_exceeds_max_size": {
+        "string": "Cover art image exceeds max size of {maxResourceSize}MB"
+    },
+    "community.publishing.tags_can_only_contain_certain_characters": {
+        "string": "Tags can only contain letters, numbers, dashes, underscores, or spaces"
+    },
+    "community.publishing.tags_must_begin_and_end_with_a_letter_or_number": {
+        "string": "Tags must begin and end with a letter or number"
+    },
+    "community.publishing.tags_can_only_contain_lowercase_characters": {
+        "string": "Tags can only contain lowercase characters"
+    },
+    "community.publishing.tags_can_only_have_up_to_25_characters": {
+        "string": "Tags can only have up to 25 characters"
+    }
+}

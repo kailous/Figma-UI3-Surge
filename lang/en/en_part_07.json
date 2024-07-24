@@ -1,0 +1,152 @@
+{
+    "community.sinatra.promo_codes.not_found": {
+        "string": "Promo code not found"
+    },
+    "community.sinatra.promo_codes.used": {
+        "string": "Promo code has already been used"
+    },
+    "community.sinatra.publishers.user_cannot_accept_a_publishing_invite_without_a_public_profile": {
+        "string": "User cannot accept a publishing invite without a public profile"
+    },
+    "community.sinatra.resource_usage.user_already_used_this_resource": {
+        "string": "User already used this resource"
+    },
+    "community.sinatra.resources.feed_price_filter": {
+        "string": "Price must be 'all', 'paid' or 'free'."
+    },
+    "community.sinatra.resources.not_found": {
+        "string": "Resource not found"
+    },
+    "community.sinatra.resources.orgs_cannot_publish_paid_resources": {
+        "string": "Orgs cannot publish paid resources."
+    },
+    "community.sinatra.resources.teams_cannot_publish_paid_resources": {
+        "string": "Teams cannot publish paid resources."
+    },
+    "community.sinatra.resources.type_filter": {
+        "string": "Type must be 'comments' or 'ratings'."
+    },
+    "community.sinatra.search.invalid_search_query_length": {
+        "string": "Search query is too long"
+    },
+    "community.sinatra.seller.cannot_sell_on_community": {
+        "string": "You do not have permission to sell resources on Community"
+    },
+    "community.sinatra.seller.only_accepted_publishers_can_publish_a_paid_resource": {
+        "string": "Only accepted publishers can publish a paid resource"
+    },
+    "community.sinatra.seller.paid_resource_configurations_cannot_be_updated": {
+        "string": "Paid resource configurations cannot be updated"
+    },
+    "community.sinatra.seller.paid_resources_cannot_be_unpublished": {
+        "string": "Paid resources cannot be unpublished at this time. Please contact support@figma.com"
+    },
+    "community.sinatra.seller.paid_resources_cannot_be_updated_to_be_published_privately": {
+        "string": "Paid resources cannot be updated to be published privately"
+    },
+    "community.sinatra.seller.private_resources_cannot_be_monetized": {
+        "string": "Private resources cannot be monetized"
+    },
+    "community.sinatra.setting_already_exists_for_user": {
+        "string": "Setting already exists for user."
+    },
+    "community.sinatra.tags.tag_is_invalid_word": {
+        "string": "{tag} is an invalid word"
+    },
+    "design_systems.component_properties.cycle_causes_ref_deletion": {
+        "string": "A component property link was removed because components can't contain instances of themselves"
+    },
+    "desktop_open_views.open_in_desktop_from_now_on_modal.visual_bell": {
+        "string": "Links will open in the desktop app from now on"
+    },
+    "dev_handoff.visual_bell.annotations_removed_count": {
+        "string": "{count, plural, one {{count} annotation removed } other {{count} annotations removed }}"
+    },
+    "favorited_resources.require_file_view_access_error": {
+        "string": "You don't have permission to view this file."
+    },
+    "file_browser.destination_project_invalid": {
+        "string": "Destination project is invalid"
+    },
+    "file_browser.file_browser_actions.favoriting_error": {
+        "string": "An error occurred while favoriting this item"
+    },
+    "file_browser.file_import_view.import_files": {
+        "string": "Import files"
+    },
+    "file_browser.published_file_move_error": {
+        "string": "Files that have been published to the Community Hub by a team cannot be moved outside of that team"
+    },
+    "file_browser.published_file_move_secret_team_error": {
+        "string": "Files that have been published to the Community Hub cannot be moved into a secret team"
+    },
+    "file_browser.published_monetized_file_move_by_not_owner_error": {
+        "string": "Files that have been published to the Community Hub by a team cannot be moved outside of that team"
+    },
+    "file_browser.sinatra.file_unavailable": {
+        "string": "This file is unavailable"
+    },
+    "org_settings.ai_features_disabled.k12": {
+        "string": "You cannot disable AI features for K-12 organizations."
+    },
+    "org_settings.error.license_seat_count_less_than_expected": {
+        "string": "Requested number of full {licenseType} seats is less than expected. Expected seats: {expectedSeatCount}, Requested seats: {requestedSeatCount}"
+    },
+    "org_settings.rate_limiting.external_content_controls_duration": {
+        "string": "You may only update your external content access setting once every 10 minutes"
+    },
+    "org_settings.rate_limiting.idle_session_timeout_duration": {
+        "string": "You may only update your idle session timeout once every 10 minutes"
+    },
+    "org_settings.sso-requirements.configure-saml": {
+        "string": "You must have SAML configured to require SAML SSO."
+    },
+    "org_settings.sso-requirements.google-to-saml": {
+        "string": "To require SAML SSO, first allow any authentication method. Then log in with SAML to verify your configuration. After that, you may switch to SAML SSO required."
+    },
+    "org_settings.sso-requirements.k12": {
+        "string": "Your authentication setting cannot be changed since K-12 organizations require Google login."
+    },
+    "org_settings.sso-requirements.login-with-google": {
+        "string": "You must log in with Google before requiring members to log in with Google."
+    },
+    "org_settings.sso-requirements.login-with-saml": {
+        "string": "You must log in with SAML SSO before requiring members to log in with SAML SSO."
+    },
+    "agenda.default_agenda_item_title": {
+        "string": "Agenda item"
+    },
+    "collaboration.feedback.compare_changes_affected_label": {
+        "string": "Affected"
+    },
+    "collaboration.feedback.compare_changes_created_label": {
+        "string": "Added"
+    },
+    "collaboration.feedback.compare_changes_edited_label": {
+        "string": "Edited"
+    },
+    "fullscreen.android_code_gen.multiple_dropshadows_not_supported": {
+        "string": "Warning: Using more than one drop shadow effect is not supported, only the last visible one will be used as elevation."
+    },
+    "fullscreen.android_code_gen.translation_y": {
+        "string": "translationY compensates for the line height adjustment of text"
+    },
+    "fullscreen.arc_tool.arc": {
+        "string": "Arc"
+    },
+    "fullscreen.arc_tool.ratio": {
+        "string": "Ratio {number}%"
+    },
+    "fullscreen.arc_tool.start_s": {
+        "string": "Start {number}°"
+    },
+    "fullscreen.arc_tool.sweep_s": {
+        "string": "Sweep {number}%"
+    },
+    "fullscreen.canvas.add_variant": {
+        "string": "Add variant"
+    },
+    "fullscreen.canvas.auto_layout": {
+        "string": "Auto layout"
+    }
+}

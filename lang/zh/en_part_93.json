@@ -1,0 +1,152 @@
+{
+    "fullscreen.grids_panel.grid_settings.bottom": {
+        "string": "Bottom"
+    },
+    "fullscreen.grids_panel.grid_settings.center": {
+        "string": "Center"
+    },
+    "fullscreen.grids_panel.grid_settings.stretch": {
+        "string": "Stretch"
+    },
+    "fullscreen.properties_panel.hint_panel.close": {
+        "string": "Close"
+    },
+    "design_systems.instance_swap_picker.mixed": {
+        "string": "Mixed"
+    },
+    "design_systems.instance_swap_picker.pick_instance": {
+        "string": "Pick instance"
+    },
+    "rcs.mobile_comment_reply_upsell.email_me": {
+        "string": "Email me"
+    },
+    "rcs.mobile_comment_reply_upsell.download_via_qr_code": {
+        "string": "Download via QR Code"
+    },
+    "rcs.mobile_comment_reply_upsell.email_me_instead": {
+        "string": "Email me instead"
+    },
+    "rcs.mobile_comment_reply_upsell.title": {
+        "string": "Get notified of replies on the go"
+    },
+    "rcs.mobile_comment_reply_upsell_page1.description": {
+        "string": "Get the Figma mobile app to access your files, get notified of new comments, and reply on the go."
+    },
+    "rcs.mobile_comment_reply_upsell_page2.description": {
+        "string": "Scan a QR code above to download the Figma mobile app on iOS or Android."
+    },
+    "properties.label.position": {
+        "string": "Position"
+    },
+    "fullscreen.properties_panel.section_stroke.label_weight": {
+        "string": "Weight"
+    },
+    "fullscreen.properties_panel.fill.advanced_stroke_settings": {
+        "string": "Advanced stroke settings"
+    },
+    "fullscreen.properties_panel.borders.border_per_side": {
+        "string": "Strokes per side"
+    },
+    "fullscreen.properties_panel.borders.stroke_width": {
+        "string": "Stroke width"
+    },
+    "fullscreen.properties_panel.section_stroke.label_startPoint": {
+        "string": "Start point"
+    },
+    "fullscreen.properties_panel.section_stroke.label_endPoint": {
+        "string": "End point"
+    },
+    "fullscreen.properties_panel.fill.start_point": {
+        "string": "Start point"
+    },
+    "fullscreen.properties_panel.fill.swap_start_and_end_points": {
+        "string": "Swap start and end points"
+    },
+    "fullscreen.properties_panel.fill.end_point": {
+        "string": "End point"
+    },
+    "proto.prototype_panel.video_error_panel.move_this_file": {
+        "string": "move this file"
+    },
+    "proto.prototype_panel.video_error_panel.move_file_to_pro_team_to_upload_video": {
+        "string": "To add or edit videos, first {moveThisFileLink} to a Professional team."
+    },
+    "proto.prototype_panel.video_error_panel.upgrade_team_to_upload_video": {
+        "string": "You have to be in a Professional team to edit or add videos."
+    },
+    "proto.prototype_panel.video_error_panel.upgrade_to_pro": {
+        "string": "Upgrade to Professional…"
+    },
+    "design_systems.instance_panel.mixed": {
+        "string": "Mixed"
+    },
+    "design_systems.styles.buttons.browse": {
+        "string": "Browse libraries…"
+    },
+    "design_systems.styles.edit_style": {
+        "string": "Edit style"
+    },
+    "design_systems.styles.delete_styles": {
+        "string": "{numStyles, plural, one {Delete style} other {Delete {numStyles} styles}}"
+    },
+    "design_systems.styles.go_to_style_definition": {
+        "string": "Go to style definition"
+    },
+    "design_systems.styles.no_styles_match": {
+        "string": "No styles match this search."
+    },
+    "design_systems.styles.no_specified_style": {
+        "string": "No {kind}."
+    },
+    "design_systems.styles.tooltips.library": {
+        "string": "Team library"
+    },
+    "design_systems.styles.tooltips.show_as_grid": {
+        "string": "Show as grid"
+    },
+    "design_systems.styles.tooltips.show_as_list": {
+        "string": "Show as list"
+    },
+    "design_systems.styles.tooltips.create": {
+        "string": "Create style"
+    },
+    "fullscreen.properties_panel.restore_local_style": {
+        "string": "Restore local style"
+    },
+    "design_systems.styles.clear_overrides_over_text_style": {
+        "string": "Reapply text style"
+    },
+    "variables.invalid.less_than_min_width": {
+        "string": "Less than min width"
+    },
+    "variables.invalid.less_than_min_height": {
+        "string": "Less than min height"
+    },
+    "variables.invalid.greater_than_max_width": {
+        "string": "Exceeds max width"
+    },
+    "variables.invalid.greater_than_max_height": {
+        "string": "Exceeds max height"
+    },
+    "variables.binding_ui.detach_variable_tooltip": {
+        "string": "Detach variable"
+    },
+    "variables.binding_ui.missing_font_family": {
+        "string": "No fonts found for \"{fontFamily}\""
+    },
+    "fullscreen.type_panel.type_or_choose": {
+        "string": "Type or choose…"
+    },
+    "fullscreen.font_settings.byof_bring_your_own_fonts": {
+        "string": "BYOF (Bring your own fonts!)"
+    },
+    "fullscreen.font_settings.figma_comes_preloaded": {
+        "string": "Figma comes preloaded with Google Web Fonts. To use your local fonts as well, you'll need our font installer. Once installed, you'll always have access to your local fonts when working on this computer."
+    },
+    "fullscreen.font_settings.you_can_always_download_the_font_installer_later_from_the_settings_page": {
+        "string": "You can always download the font installer later from the settings page."
+    },
+    "fullscreen.font_settings.do_this_later_in_account_settings": {
+        "string": "Do this later in account settings"
+    }
+}

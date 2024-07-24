@@ -1,0 +1,152 @@
+{
+    "domain_management.add_domain_modal.title": {
+        "string": "Add domain"
+    },
+    "domain_management.add_domain_modal.body_text": {
+        "string": "Enter the domains you want to add to your organization."
+    },
+    "domain_management.modals_shared.cancel_button": {
+        "string": "Cancel"
+    },
+    "domain_management.add_domain_modal.confirm_button_dc_enabled": {
+        "string": "Verify and add"
+    },
+    "domain_management.add_domain_modal.confirm_button": {
+        "string": "Add"
+    },
+    "domain_management.modals_shared.update_dns_record_header": {
+        "string": "Update the DNS records"
+    },
+    "domain_management.add_domain_modal.update_dns_record_sub_text": {
+        "string": "Before you can add a domain, you’ll need to verify ownership by adding this unique code to the DNS records. {learnMoreLink}"
+    },
+    "domain_management.add_domain_modal.next_add_domains_header": {
+        "string": "Next, add domains"
+    },
+    "domain_management.add_domain_modal.next_add_domains_sub_text": {
+        "string": "Once you've updated the DNS records, enter the domains you want to add."
+    },
+    "domain_management.add_domain_modal.input_placeholder_text": {
+        "string": "domain.com"
+    },
+    "domain_management.domain": {
+        "string": "{domainCount, plural, one {Domain} other {Domains}}"
+    },
+    "domain_management.verify_domain": {
+        "string": "Verify domain"
+    },
+    "domain_management.verify_domain_modal.body": {
+        "string": "Add this unique code to the DNS records of the domains you want to verify.{learnMoreLink}"
+    },
+    "domain_management.verify_domain_modal.confirm_button": {
+        "string": "Verify"
+    },
+    "domain_management.error_fetching_domains": {
+        "string": "An error occurred while retrieving your organization's domain information."
+    },
+    "domain_management.domain_verified": {
+        "string": "Verified"
+    },
+    "domain_management.domain_unverified": {
+        "string": "Unverified"
+    },
+    "domain_management.verify_domain_pluralizable": {
+        "string": "{domainCount, plural, one {Verify domain} other {Verify domains}}"
+    },
+    "domain_management.remove_domain": {
+        "string": "Remove"
+    },
+    "domain_management.you_have_no_domains": {
+        "string": "You do not have any domains associated with your organization."
+    },
+    "domain_management.column_header.name": {
+        "string": "Name"
+    },
+    "domain_management.column_header.status": {
+        "string": "Status"
+    },
+    "multi_select_list.selected_count_domain": {
+        "string": "{numSelected, plural, one {{numSelected} domain selected:} other {{numSelected} domains selected:}}"
+    },
+    "domain_management.domain_capture.label": {
+        "string": "Domain capture"
+    },
+    "domain_management.domain_capture.on": {
+        "string": "On"
+    },
+    "domain_management.domain_capture.description": {
+        "string": "Automatically add members to your organization from verified domains."
+    },
+    "domain_management.domain_capture.domain_removal": {
+        "string": "Org domain removal"
+    },
+    "domain_management.domain_capture.support_email": {
+        "string": "admin-support@figma.com"
+    },
+    "domain_management.domain_capture.info_tooltip_text": {
+        "string": "Verify all domains to enable domain capture"
+    },
+    "team_tile.no_teams.empty_workspace": {
+        "string": "It looks like this workspace is still getting set up. Come back later to find teams, projects, and files as they’re added."
+    },
+    "breadcrumbs.unassigned_license_group": {
+        "string": "Other teams"
+    },
+    "breadcrumbs.private_workspace_ellipses": {
+        "string": "…"
+    },
+    "workspace_view.toolbar.solid": {
+        "string": "Solid color"
+    },
+    "workspace_view.toolbar.no_fill": {
+        "string": "No color"
+    },
+    "workspace_view.color.toolbar.cancel": {
+        "string": "Cancel"
+    },
+    "workspace_view.toolbar.workspace_color_updated": {
+        "string": "Workspace color updated"
+    },
+    "workspace_view.toolbar.workspace_color_update_error": {
+        "string": "An error occurred while updating the workspace color."
+    },
+    "workspace_view.color.toolbar.save": {
+        "string": "Save"
+    },
+    "org_view.license_group.member_count": {
+        "string": "{memberCount, plural, one {{memberCount} member} other {{memberCount} members}}"
+    },
+    "org_view.license_group.team_count": {
+        "string": "{teamCount, plural, one {{teamCount} team} other {{teamCount} teams}}"
+    },
+    "org_view.license_group.unassigned_tile.name": {
+        "string": "Other teams"
+    },
+    "org_view.license_group.unassigned_tile.description": {
+        "string": "{teamCount, plural, one {There is {teamCount} team not yet assigned to a workspace} other {There are {teamCount} teams not yet assigned to a workspace}}"
+    },
+    "org_view.your_workspace": {
+        "string": "Your workspace"
+    },
+    "org_view.other_workspaces": {
+        "string": "Other workspaces"
+    },
+    "workspace_view.sidebar.members": {
+        "string": "Members"
+    },
+    "workspace_view.sidebar.see_all_members": {
+        "string": "See all"
+    },
+    "file_browser.pinning.max_files.add_button_tooltip": {
+        "string": "You can pin up to {maxPins} files"
+    },
+    "file_browser.pinning.add_file": {
+        "string": "Add file"
+    },
+    "fig_feed.no_posts_found_title": {
+        "string": "Nothing to see here"
+    },
+    "fig_feed.no_posts_found_description": {
+        "string": "No posts match the selected filters. Try removing or refining filters to see posts."
+    }
+}

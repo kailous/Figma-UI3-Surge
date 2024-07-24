@@ -1,0 +1,152 @@
+{
+    "dev_handoff.dev_handoff_view_selector.untitled": {
+        "string": "Untitled"
+    },
+    "admin_dashboard.requests.sort.newest_first": {
+        "string": "Newest first"
+    },
+    "admin_dashboard.requests.sort.oldest_first": {
+        "string": "Oldest first"
+    },
+    "admin_dashboard.requests.design_seat": {
+        "string": "Design seat"
+    },
+    "admin_dashboard.requests.figjam_seat": {
+        "string": "FigJam seat"
+    },
+    "admin_dashboard.requests.devmode_seat": {
+        "string": "Dev Mode seat"
+    },
+    "navbar.community.admin_label": {
+        "string": "Admin"
+    },
+    "navbar.community.browse_community_workspace_switcher_label": {
+        "string": "Browse Community using…"
+    },
+    "navbar.navbar.guest": {
+        "string": "Guest"
+    },
+    "navbar.workspaces.disabled_by_your_admins": {
+        "string": "Disabled by your admins"
+    },
+    "navbar.community.community_label": {
+        "string": "Community"
+    },
+    "team_view.toolbar.leave_team": {
+        "string": "Leave team…"
+    },
+    "team_view.toolbar.delete_team": {
+        "string": "Delete…"
+    },
+    "file_browser.team.new_project": {
+        "string": "New project"
+    },
+    "file_browser.team.invite": {
+        "string": "Invite"
+    },
+    "team_view.toolbar.rename": {
+        "string": "Rename"
+    },
+    "team_view.toolbar.change_icon": {
+        "string": "Change icon"
+    },
+    "team_tile.members_count": {
+        "string": "{numMembers, plural, one {{numMembers} member} other {{numMembers} members}}"
+    },
+    "file_browser.team_header.closed_team_header": {
+        "string": "This team is visible"
+    },
+    "file_browser.team_header.secret_team_header": {
+        "string": "This team is hidden"
+    },
+    "file_browser.team_tiles.private_team_tooltip": {
+        "string": "Closed team · Only members can view this team's content."
+    },
+    "file_browser.team_tiles.secret_team_tooltip": {
+        "string": "Secret team · Only visible to members, or those invited to join."
+    },
+    "file_browser.team_header.closed_team_subtitle": {
+        "string": "Anyone can find it but needs to request access"
+    },
+    "file_browser.team_header.secret_team_subtitle": {
+        "string": "Only its members can find and access"
+    },
+    "pro_cart.review.start_professional_plan_for_free": {
+        "string": "Start Professional plan for free"
+    },
+    "pro_cart.review.offer_redeem_agree": {
+        "string": "By redeeming this offer, you agree to our {termsOfServiceLink}."
+    },
+    "pro_cart.review.redeem_offer_by": {
+        "string": "Redeem offer by {date}"
+    },
+    "pro_cart.review.complete_upgrade": {
+        "string": "Complete upgrade"
+    },
+    "pro_cart.review.all_editors_on_an_education_team_must_be_verified.seat_rename": {
+        "string": "Everyone with edit access on an Education team must be a verified Education user. You can upgrade to a Professional team at any time to enable non-Education collaborators."
+    },
+    "pro_cart.review.complete_purchase": {
+        "string": "Complete purchase"
+    },
+    "pro_cart.review.your_subscription_will_automatically_renew_without_link.seat_rename": {
+        "string": "Your subscription will automatically renew each year for the annual subscription and each month for any additional paid seats added to the team."
+    },
+    "all_carts.cost_equation_strikethrough_unit_price": {
+        "string": "{strikethroughUnitPrice} {money} × {editors} × {billingTime}"
+    },
+    "all_carts.cost_equation": {
+        "string": "{money} × {editors} × {billingTime}"
+    },
+    "pro_cart.design_billing_cost_per_month.seat_rename": {
+        "string": "{monthlyCostInDollars}/seat"
+    },
+    "pro_cart.whiteboard_billing_cost_per_month.seat_rename": {
+        "string": "{monthlyCostInDollars}/seat"
+    },
+    "edu.cost_per_month": {
+        "string": "{cost}/mo."
+    },
+    "pro_cart.sidebar.annual_savings_percentage": {
+        "string": "{percentage}% off"
+    },
+    "pro_cart.info.figma_design_editors.seat_rename": {
+        "string": "{numEditors, plural, one {# Design seat} other {# Design seats}}"
+    },
+    "pro_cart.review.free_for_days": {
+        "string": "{days, plural, one {Free for # day} other {Free for # days}}"
+    },
+    "pro_cart.info.figjam_editors.seat_rename": {
+        "string": "{numEditors, plural, one {# FigJam seat} other {# FigJam seats}}"
+    },
+    "pro_cart.review.tos": {
+        "string": "Terms of Service"
+    },
+    "all_carts.num_editors.seat_rename": {
+        "string": "{numEditors, plural, one {# seat} other {# seats}}"
+    },
+    "all_carts.plural_months": {
+        "string": "{months, plural, one {# month} other {# months}}"
+    },
+    "footer_banner.sign_up_for_free": {
+        "string": "Sign up for free"
+    },
+    "footer_banner.continue_with_google": {
+        "string": "Continue with Google"
+    },
+    "footer_banner.sign_up_with_email": {
+        "string": "Sign up with email"
+    },
+    "footer_banner.welcome_to_figma": {
+        "string": "Welcome to Figma!"
+    },
+    "footer_banner.create_an_account_to_get_your_own_copy_of_this_file": {
+        "string": "Create an account to get your own copy of this file."
+    },
+    "footer_banner.create_an_account_to_edit_and_collaborate_on_this_file": {
+        "string": "Create an account to edit and collaborate on this file."
+    },
+    "figjam_try_v2.to_save_your_work_create_free_account": {
+        "string": "To save your work, create a free account."
+    }
+}

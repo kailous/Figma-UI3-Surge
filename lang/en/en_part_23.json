@@ -1,0 +1,152 @@
+{
+    "search.invalid_search_endpoint_result": {
+        "string": "Invalid search endpoint result"
+    },
+    "shared_fonts.importing_font_files": {
+        "string": "Importing font files…"
+    },
+    "shared_fonts.uploads_remaining": {
+        "string": "Importing {processedFileCount} of {totalFileCount} font files…"
+    },
+    "shared_fonts.import_complete_with_no_errors": {
+        "string": "Shared font import complete"
+    },
+    "shared_fonts.import_complete_with_errors": {
+        "string": "{unsuccessfulUploadCount, plural, one {Shared font import complete with {unsuccessfulUploadCount} error} other {Shared font import complete with {unsuccessfulUploadCount} errors}}"
+    },
+    "shared_fonts.review_font_upload_errors": {
+        "string": "Review"
+    },
+    "shared_fonts.unsuccessful_deletes": {
+        "string": "{totalDeletes, plural, one {Unable to delete {numUnsuccessfulDeletes} of {totalDeletes} font} other {Unable to delete {numUnsuccessfulDeletes} of {totalDeletes} fonts}}"
+    },
+    "shared_fonts.successful_deletes": {
+        "string": "{totalDeletes, plural, one {Deleted {totalDeletes} font} other {Deleted {totalDeletes} fonts}}"
+    },
+    "fig_feed.too_many_content_items": {
+        "string": "A feed post can have at most {maxNum} content items"
+    },
+    "visual_bell.multiplayer_cursors_hidden": {
+        "string": "Multiplayer cursors hidden"
+    },
+    "visual_bell.multiplayer_cursors_visible": {
+        "string": "Multiplayer cursors visible"
+    },
+    "visual_bell.show_frame_grids_visible": {
+        "string": "Layout grids visible"
+    },
+    "visual_bell.show_frame_grids_hide_button": {
+        "string": "Hide"
+    },
+    "visual_bell.show_frame_grids_hidden": {
+        "string": "Layout grids hidden"
+    },
+    "auth.sign-in-success": {
+        "string": "Authenticated as {email}"
+    },
+    "auth.error.magic-link-server-validation-error": {
+        "string": "Request cannot be validated."
+    },
+    "auth.sso-gate.invalid-session": {
+        "string": "Session expired or invalid"
+    },
+    "auth.reset-password.password-retype-error": {
+        "string": "These passwords don't match. Try again?"
+    },
+    "auth.validate-code.enter-code-message": {
+        "string": "Please enter a code"
+    },
+    "auth.default-error": {
+        "string": "An error occurred"
+    },
+    "auth.validate-code.code-resent-check-email": {
+        "string": "The code has been resent. Please check your email."
+    },
+    "auth.validate-code.code-resend-error": {
+        "string": "An error occurred resending the code"
+    },
+    "auth.sign-up.confirmation-email-error": {
+        "string": "An error occurred while sending the confirmation email."
+    },
+    "desktop_bindings.visual_bell.redeem_app_auth_error": {
+        "string": "An error has occurred. Please try again."
+    },
+    "desktop_bindings.visual_bell.summary_link_copied": {
+        "string": "Link copied…"
+    },
+    "desktop_bindings.interstitial.frame_link_copied": {
+        "string": "Frame link copied to clipboard"
+    },
+    "desktop_bindings.interstitial.section_link_copied": {
+        "string": "Section link copied to clipboard"
+    },
+    "desktop_bindings.interstitial.page_link_copied": {
+        "string": "Page link copied to clipboard"
+    },
+    "copy_to_clipboard.slides.link_to_slide_copied_to_clipboard": {
+        "string": "Link to \"Slide {name}\" copied to clipboard"
+    },
+    "desktop_bindings.visual_bell.slide_deck_link_copied": {
+        "string": "Slide deck link copied to clipboard"
+    },
+    "desktop_bindings.visual_bell.file_link_copied": {
+        "string": "File link copied to clipboard"
+    },
+    "file_browser.file_move.import": {
+        "string": "Import"
+    },
+    "file_browser.file_browser_actions.file_delete_error": {
+        "string": "An error occurred while deleting these files."
+    },
+    "file_browser.file_browser_actions.branch_archived": {
+        "string": "Branch archived"
+    },
+    "general.undo": {
+        "string": "Undo"
+    },
+    "file_browser.file_browser_actions.branch_deleted": {
+        "string": "Branch deleted"
+    },
+    "file_browser.file_browser_actions.files_trashed": {
+        "string": "{numFiles, plural, one {File moved to trash} other {{numFiles} files moved to trash}}"
+    },
+    "file_browser.file_browser_actions.files_deleted": {
+        "string": "{numFiles, plural, one {File deleted} other {{numFiles} files deleted}}"
+    },
+    "file_browser.file_browser_actions.files_deleted_forever": {
+        "string": "{numFiles, plural, one {File deleted forever} other {{numFiles} files deleted forever}}"
+    },
+    "file_browser.file_browser_actions.branch_archive_error": {
+        "string": "An error occurred while archiving this branch"
+    },
+    "file_browser.file_browser_actions.branch_delete_error": {
+        "string": "An error occurred while deleting this branch"
+    },
+    "collaboration.branching.error_restoring_branches": {
+        "string": "{branchCount, plural, one {An error occurred while restoring this branch.} other {An error occurred while restoring these branches.}}"
+    },
+    "file_browser.file_browser_actions.file_restore_error": {
+        "string": "An error occurred while restoring these files."
+    },
+    "file_browser.file_browser_actions.branch_restored": {
+        "string": "Branch restored"
+    },
+    "file_browser.file_browser_actions.files_restored_success": {
+        "string": "{numFiles, plural, one {File restored} other {{numFiles} files restored}}"
+    },
+    "file_browser.file_browser_actions.version_update_error": {
+        "string": "An error occurred while updating this version."
+    },
+    "file_browser.file_browser_actions.version_restore_error": {
+        "string": "An error occurred while restoring this version."
+    },
+    "team_delete_modal.post_delete_flash": {
+        "string": "You have deleted the team {teamName}"
+    },
+    "leave_team_modal.post_leave_flash": {
+        "string": "You have left the {teamName} team"
+    },
+    "api_user.error.an_error_occurred_while_updating_your_information": {
+        "string": "An error occurred while updating your information"
+    }
+}

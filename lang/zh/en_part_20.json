@@ -1,0 +1,152 @@
+{
+    "community.actions.unable_to_add_this_plugin_please_try_again_later": {
+        "string": "Unable to add this plugin. Please try again later."
+    },
+    "community.actions.unable_to_add_private_plugin": {
+        "string": "Unable to add a private plugin to approved plugins"
+    },
+    "community.actions.unable_to_remove_this_plugin_please_try_again_later": {
+        "string": "Unable to remove this plugin. Please try again later."
+    },
+    "community.actions.unable_to_add_this_widget_please_try_again_later": {
+        "string": "Unable to add this widget. Please try again later."
+    },
+    "community.actions.unable_to_add_private_widget": {
+        "string": "Unable to add a private widget to approved widgets"
+    },
+    "community.actions.unable_to_remove_this_widget_please_try_again_later": {
+        "string": "Unable to remove this widget. Please try again later."
+    },
+    "community.actions.unable_to_like_this_plugin_error": {
+        "string": "Unable to like this plugin: {error}"
+    },
+    "community.actions.unable_to_like_this_widget_error": {
+        "string": "Unable to like this widget: {error}"
+    },
+    "community.actions.unable_to_unlike_this_plugin_error": {
+        "string": "Unable to unlike this plugin: {error}"
+    },
+    "community.actions.unable_to_unlike_this_widget_error": {
+        "string": "Unable to unlike this widget: {error}"
+    },
+    "resources_tab.create_team_modal.team_creation_loading": {
+        "string": "Creating your team"
+    },
+    "general.an_error_occurred": {
+        "string": "An error occurred"
+    },
+    "resources_tab.create_team_modal.modal_title": {
+        "string": "Try out {extensionName}"
+    },
+    "resources_tab.create_team_modal.content": {
+        "string": "We need to create a space for you outside of {orgName} to try out this extension."
+    },
+    "general.continue": {
+        "string": "Continue"
+    },
+    "community.logged_out.sign_up_modal_widget_header": {
+        "string": "Sign up to get this widget\n(and much more)"
+    },
+    "community.logged_out.sign_up_modal_plugin_header": {
+        "string": "Sign up to get this plugin\n(and much more)"
+    },
+    "community.actions.your_profile_s_primary_email_was_set_to_email": {
+        "string": "Your profile's primary email was set to {email}"
+    },
+    "community.actions.email_was_removed_from_your_profile": {
+        "string": "{email} was removed from your profile"
+    },
+    "community.actions.new_profile_connection_added": {
+        "string": "New profile connection added!"
+    },
+    "community.actions.failed_to_merge_msg": {
+        "string": "Failed to merge: {msg}"
+    },
+    "community.publishing.publishing_using_our_payments_api": {
+        "string": "Publishing using our Payments API is temporarily disabled while our team verifies your seller status. Please try publishing again in a few days."
+    },
+    "community.publishing.verifying_seller_status": {
+        "string": "Verifying seller status"
+    },
+    "community.publishing.got_it": {
+        "string": "Got it"
+    },
+    "google_contacts.no_google_contacts_found.try_using_their_email_instead": {
+        "string": "No Google contacts found. Try using their email instead."
+    },
+    "proto.status_messages.a_presentation_needs_to_have_at_least_one_slide": {
+        "string": "A presentation needs to have at least one slide."
+    },
+    "proto.status_messages.a_prototype_needs_to_have_at_least_one_frame": {
+        "string": "A prototype needs to have at least one frame."
+    },
+    "proto.status_messages.a_prototype_with_connections_needs_a_valid_top_level_frame_as_the_origin": {
+        "string": "A prototype with connections needs a valid top level frame as the origin."
+    },
+    "whiteboard.embed_actions.embed_failed": {
+        "string": "Couldn't create a preview"
+    },
+    "file_browser.file_browser_actions.file_processing_error": {
+        "string": "An error occurred while processing this file."
+    },
+    "flash.dont_have_permission_permanently_delete_files": {
+        "string": "You don't have permission to permanently delete these files."
+    },
+    "file_browser.confirm_file_delete_modal.num_files": {
+        "string": "{numFiles, plural, one {{numFiles} file} other {{numFiles} files}}"
+    },
+    "file_browser.confirm_file_delete_forever_modal.title": {
+        "string": "{numFiles, plural, one {Permanently delete file} other {Permanently delete {numFiles} files}}"
+    },
+    "file_browser.confirm_file_delete_forever_modal.about_to_delete_online": {
+        "string": "{numFiles, plural, one {You're about to delete the file {fileNameText} forever. You won't be able to restore it.} other {You're about to delete {numFilesText} forever. You won't be able to restore them.}}"
+    },
+    "file_browser.confirm_file_delete_forever_modal.about_to_delete_offline": {
+        "string": "{numFiles, plural, one {You're about to delete the file {fileNameText} forever. Because it's offline and hasn't been synced, you won't be able to restore it.} other {You're about to delete {numFilesText} forever. Because they're offline and haven't been synced, you won't be able to restore them.}}"
+    },
+    "modal.cancel": {
+        "string": "Cancel"
+    },
+    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete": {
+        "string": "Permanently delete"
+    },
+    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete_files": {
+        "string": "{numFiles, plural, one {Permanently delete file} other {Permanently delete files}}"
+    },
+    "file_browser.confirm_file_trash_modal.description_restore": {
+        "string": "{numFiles, plural, one {People with edit access on this file can restore it later from the {trashText} tab.} other {People with edit access on these files can restore them later in the {trashText} tab.}}"
+    },
+    "file_browser.confirm_file_trash_modal.trash_section": {
+        "string": "Trash"
+    },
+    "file_browser.confirm_file_delete_modal.description_restore.seat_rename": {
+        "string": "{numFiles, plural, one {People with edit access on this file can restore it later from the {deletedText} section of the {draftsText} tab.} other {People with edit access on these files can restore them later in the {deletedText} section of the {draftsText} tab.}}"
+    },
+    "file_browser.confirm_file_delete_modal.deleted_tab": {
+        "string": "Deleted"
+    },
+    "file_browser.confirm_file_delete_modal.drafts_tab": {
+        "string": "Drafts"
+    },
+    "file_browser.confirm_file_trash_modal.title": {
+        "string": "{numFiles, plural, one {Move file to trash} other {Move {numFiles} files to trash}}"
+    },
+    "file_browser.confirm_file_delete_modal.title": {
+        "string": "{numFiles, plural, one {Delete file} other {Delete {numFiles} files}}"
+    },
+    "file_browser.confirm_file_trash_modal.confirm_delete_files": {
+        "string": "{numFiles, plural, one {Move file to trash} other {Move files to trash}}"
+    },
+    "file_browser.confirm_file_delete_modal.confirm_delete_files": {
+        "string": "{numFiles, plural, one {Delete file} other {Delete files}}"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_no_warnings": {
+        "string": "{numFiles, plural, one {You're about to move the file {fileNameText} to trash.} other {You're about to move {numFilesText} to trash.}}"
+    },
+    "file_browser.confirm_file_delete_modal.about_to_delete_no_warnings": {
+        "string": "{numFiles, plural, one {You're about to delete the file {fileNameText}.} other {You're about to delete {numFilesText}.}}"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_component_unpublish": {
+        "string": "You're about to move the file {fileNameText} to trash. Any published components will also disappear from your team's libraries."
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "whiteboard.inline_menu.line_shape_straight": {
+        "string": "Straight"
+    },
+    "whiteboard.embeds.inline_menu.maximize": {
+        "string": "Maximize"
+    },
+    "whiteboard.inserts.faces_inline_search_no_results": {
+        "string": "Nothing found for {searchQuery}."
+    },
+    "whiteboard.face_stamps.mixed": {
+        "string": "Mixed"
+    },
+    "whiteboard.inserts.faces_inline_search_image_alt_text": {
+        "string": "Face stamp for {user}."
+    },
+    "whiteboard.face_stamps.enter_name": {
+        "string": "Enter name…"
+    },
+    "whiteboard.inline_menu.start_mind_map": {
+        "string": "Start a mind map"
+    },
+    "whiteboard.inline_menu.washi_tape_pattern": {
+        "string": "Pattern"
+    },
+    "whiteboard.delightful_toolbar.mixed": {
+        "string": "Mixed"
+    },
+    "whiteboard.inline_menu.washi_tape_pattern_selector_label": {
+        "string": "Pattern, {currentPattern}"
+    },
+    "whiteboard.inline_menu.delete": {
+        "string": "Delete"
+    },
+    "whiteboard.inline_menu.duplicate": {
+        "string": "Duplicate"
+    },
+    "whiteboard.inline_menu.show_additional_items": {
+        "string": "Show additional items"
+    },
+    "whiteboard.delightful_toolbar.drawing_tools_label": {
+        "string": "Creation tools"
+    },
+    "rcs.mindmaps_onboarding_step1.description": {
+        "string": "Mind maps let you quickly sketch out ideas—and illustrate the connections betwixt them."
+    },
+    "rcs.mindmaps_onboarding_step2.description": {
+        "string": "To get started, select the mind mapping tool. (Or, check out a nifty example.)"
+    },
+    "rcs.mindmaps_onboarding_step2.see_example": {
+        "string": "See example"
+    },
+    "rcs.mindmaps_onboarding_step1.title": {
+        "string": "Visualize your thinking"
+    },
+    "rcs.mindmaps_onboarding_step1.show_me": {
+        "string": "Show me"
+    },
+    "rcs.mindmaps_onboarding_step2.got_it": {
+        "string": "Got it"
+    },
+    "whiteboard.delightful_toolbar.custom_template_banner.youre_viewing_a_team_template": {
+        "string": "You’re viewing a template, made by {userName}."
+    },
+    "whiteboard.delightful_toolbar.custom_template_banner.youre_viewing_a_template": {
+        "string": "You’re viewing a template."
+    },
+    "whiteboard.delightful_toolbar.custom_template_banner.new_file_button": {
+        "string": "Use in new file"
+    },
+    "whiteboard.delightful_toolbar.version_history_banner_text": {
+        "string": "Use the {selectIcon} Select tool to select and copy objects, and {handIcon} Hand tool to move around the board."
+    },
+    "whiteboard.delightful_toolbar.view_only": {
+        "string": "View-only"
+    },
+    "whiteboard.delightful_toolbar.view_only_banner_text_figjam_disabled_by_org_no_chat": {
+        "string": "FigJam has been disabled by your org. You can still use {commentKey} to comment or {emoteKey} to emote."
+    },
+    "whiteboard.delightful_toolbar.view_only_banner_text_no_chat": {
+        "string": "There’s still fun to be had—use {commentKey} to comment or {emoteKey} to emote."
+    },
+    "whiteboard.delightful_toolbar.view_only_banner_text_figjam_disabled_by_org": {
+        "string": "FigJam has been disabled by your org. You can still use {commentKey} to comment, {chatKey} to chat, or {emoteKey} to emote."
+    },
+    "whiteboard.delightful_toolbar.view_only_banner_text": {
+        "string": "There’s still fun to be had—use {commentKey} to comment, {chatKey} to chat, or {emoteKey} to emote."
+    },
+    "whiteboard.washi_tapes.custom_aria_label": {
+        "string": "Custom washi tape"
+    },
+    "whiteboard.delightful_toolbar.connector": {
+        "string": "Connector"
+    },
+    "whiteboard.delightful_toolbar.straight_line": {
+        "string": "Straight line"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.minimized.complete_text": {
+        "string": "Looks like you know your way around!"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.minimized.move_to_take_a_look_at_this_file": {
+        "string": "Move around to see the rest of the board"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.minimized.show_me_how": {
+        "string": "Show me how"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.zoom_section_title": {
+        "string": "Zoom"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.pinch_tip": {
+        "string": "Pinch"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.scroll_tip": {
+        "string": "Scroll"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.pan_section_title": {
+        "string": "Move"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.swipe_tip": {
+        "string": "Swipe with two fingers"
+    },
+    "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.click_tip": {
+        "string": "Right-click and drag"
+    },
+    "voting.join_bell.message_with_username": {
+        "string": "{name} started a vote"
+    },
+    "voting.join_bell.message_without_username": {
+        "string": "The facilitator started a vote"
+    },
+    "voting.join_bell.cancel": {
+        "string": "Ignore"
+    },
+    "whiteboard.mindmaps.add-sibling-tooltip": {
+        "string": "Add sibling"
+    },
+    "whiteboard.mindmaps.add-child-tooltip": {
+        "string": "Add child"
+    },
+    "whiteboard.mini_home.recents": {
+        "string": "Recents"
+    },
+    "whiteboard.mini_home.favorites": {
+        "string": "Favorited"
+    },
+    "whiteboard.mini_home.recents_emptystate": {
+        "string": "No recent files"
+    },
+    "whiteboard.mini_home.favorites_emptystate": {
+        "string": "No favorited files"
+    }
+}

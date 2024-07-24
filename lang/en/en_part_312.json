@@ -1,0 +1,152 @@
+{
+    "team_join_links.reset_invite_links": {
+        "string": "Reset invite links"
+    },
+    "team_join_links.turn_off_invite_links": {
+        "string": "Turn off invite links"
+    },
+    "team_join_links.copy_link": {
+        "string": "Copy link"
+    },
+    "team_join_links.share_a_secret_link_people_can_use_to_join_your_team": {
+        "string": "Share a secret link people can use to join your team."
+    },
+    "team_join_links.turn_on_invite_links": {
+        "string": "Turn on invite links"
+    },
+    "team_join_links.modal_description": {
+        "string": "People will not be able to use the old invite links to join your team."
+    },
+    "team_join_links.cancel": {
+        "string": "Cancel"
+    },
+    "team_join_links.reset_links": {
+        "string": "Reset links"
+    },
+    "team_join_links.team_invite_link_settings": {
+        "string": "Team invite link settings"
+    },
+    "resource_rename_modal.team.placeholder": {
+        "string": "Enter team name"
+    },
+    "resource_rename_modal.team.submit": {
+        "string": "Rename team"
+    },
+    "search.search_results_for": {
+        "string": "Search results for"
+    },
+    "search.search_results": {
+        "string": "Search results"
+    },
+    "file_browser.tool_bar.trash": {
+        "string": "Trash"
+    },
+    "file_browser.tool_bar.deleted": {
+        "string": "Deleted"
+    },
+    "file_browser.tool_bar.drafts_to_move": {
+        "string": "Drafts to move"
+    },
+    "file_browser.tool_bar.recents": {
+        "string": "Recents"
+    },
+    "internal_profile.profile": {
+        "string": "Profile"
+    },
+    "community.duplicate_modal.youre_all_set": {
+        "string": "You’re all set!"
+    },
+    "community.duplicate_modal.youve_verified_your_email_at": {
+        "string": "You’ve verified your email at {userEmail}."
+    },
+    "community.duplicate_modal.continue_to_file": {
+        "string": "Continue to file"
+    },
+    "community.signed_out_modal.create_an_account_to_join_the_figma_community": {
+        "string": "Create an account to join the Figma Community"
+    },
+    "navbar.navbar.community_title": {
+        "string": "Community"
+    },
+    "team_creation.add_your_collaborators": {
+        "string": "Add your collaborators"
+    },
+    "team_creation.you_can_update_user_permissions_on_the_team_page_after_setting_up": {
+        "string": "You can update user permissions on the team page after setting up."
+    },
+    "team_creation.add_another": {
+        "string": "Add another"
+    },
+    "team_creation.continue": {
+        "string": "Continue"
+    },
+    "team_creation.skip_for_now": {
+        "string": "Skip for now"
+    },
+    "team_creation.email": {
+        "string": "Email"
+    },
+    "autosave.notification.action_review": {
+        "string": "Review"
+    },
+    "autosave.notification.action_open_to_sync": {
+        "string": "Open to sync"
+    },
+    "autosave.notification.action_later": {
+        "string": "Later"
+    },
+    "autosave.notification.message.more_than_one_file": {
+        "string": "You have files with unsynced offline changes."
+    },
+    "autosave.notification.message.one_file": {
+        "string": "Changes you made to {fileName} while offline haven't synced yet."
+    },
+    "edu.almost_done_everything_look_good": {
+        "string": "Almost done! Everything look good?"
+    },
+    "team_creation.create_a_team_title": {
+        "string": "Create a team"
+    },
+    "team_creation.access_within_the_organization": {
+        "string": "Access within the organization:"
+    },
+    "team_creation.after_creating_a_team_you_can_invite_others_to_join": {
+        "string": "After creating a team, you can invite others to join."
+    },
+    "team_creation.create_team_button": {
+        "string": "Create team"
+    },
+    "team_creation.team_name_input_placeholder": {
+        "string": "Add a name"
+    },
+    "team_creation.missing_team_creation_controls": {
+        "string": "You do not have permission to create a team in the workspace."
+    },
+    "team_restore.back": {
+        "string": "Back to files"
+    },
+    "team_restore.expired": {
+        "string": "The period to recover your team’s data has expired."
+    },
+    "team_restore.questions_contact_support": {
+        "string": "If you have any questions, please contact us at {supportEmail}."
+    },
+    "team_restore.confirm_restore": {
+        "string": "Your team’s files, projects, prototypes, and shared components will be available to everyone who previously had access."
+    },
+    "team_restore.confirm_restore_deadline": {
+        "string": "You have until {deleteDeadline, date, long} to recover this data."
+    },
+    "team_restore.restore": {
+        "string": "Restore team"
+    },
+    "team_restore.expired_header": {
+        "string": "Oh no! This link has expired."
+    },
+    "team_restore.ineligible": {
+        "string": "This team is not eligible to be restored."
+    },
+    "team_restore.confirm_restore_header": {
+        "string": "Are you sure you want to restore team \"{teamName}\"?"
+    }
+}

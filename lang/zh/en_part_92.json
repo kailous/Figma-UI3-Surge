@@ -1,0 +1,152 @@
+{
+    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.text": {
+        "string": "Ask an admin to upgrade this plan so you can use shared fonts."
+    },
+    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.cta": {
+        "string": "Got it"
+    },
+    "fullscreen.properties_panel.font_picker.org_upsell": {
+        "string": "Share fonts with everyone on your team with our Organization plan."
+    },
+    "fullscreen.properties_panel.font_picker.no_shared_fonts_orgname": {
+        "string": "Upload a shared font for anyone at {orgName} to use."
+    },
+    "fullscreen.properties_panel.font_picker.no_shared_fonts": {
+        "string": "Upload a shared font for anyone at your organization to use."
+    },
+    "fullscreen.properties_panel.font_picker.org_upsell.cta": {
+        "string": "Upgrade"
+    },
+    "fullscreen.properties_panel.font_picker.no_shared_fonts.cta": {
+        "string": "Learn more"
+    },
+    "fullscreen.properties_panel.font_picker.no_search_results": {
+        "string": "No matching fonts"
+    },
+    "fullscreen.properties_panel.font_picker.no_fonts_in_current_set": {
+        "string": "No fonts found"
+    },
+    "fullscreen.properties_panel.font_picker.title": {
+        "string": "Fonts"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.org": {
+        "string": "Used at {orgName}"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.team": {
+        "string": "Used at {teamName}"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.all_fonts": {
+        "string": "All fonts"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.document_fonts": {
+        "string": "In this file"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.google_fonts": {
+        "string": "Google fonts"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.popular_fonts": {
+        "string": "Popular fonts"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts": {
+        "string": "Shared fonts"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.user_installed_fonts": {
+        "string": "Installed by you"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.variable_fonts": {
+        "string": "Variable fonts"
+    },
+    "fullscreen.properties_panel.font_picker.new_font_badge": {
+        "string": "New"
+    },
+    "fullscreen.properties_panel.font_picker.search_fonts": {
+        "string": "Search fonts"
+    },
+    "fullscreen.properties_panel.apply_variable": {
+        "string": "Apply variable"
+    },
+    "fullscreen.mixed": {
+        "string": "Mixed"
+    },
+    "fullscreen.grid_panel.auto": {
+        "string": " (auto)"
+    },
+    "fullscreen.grid_panel.section_size_px": {
+        "string": "({sectionSize}px)"
+    },
+    "fullscreen.grid_panel.grid_size": {
+        "string": "Grid {sectionSize}px"
+    },
+    "fullscreen.grid_panel.columns": {
+        "string": "Columns {suffix}"
+    },
+    "fullscreen.grid_panel.num_columns": {
+        "string": "{numColumns, plural, one {{numColumns} column {suffix}} other {{numColumns} columns {suffix}}}"
+    },
+    "fullscreen.grid_panel.rows": {
+        "string": "Rows {suffix}"
+    },
+    "fullscreen.grid_panel.num_rows": {
+        "string": "{numRows, plural, one {{numRows} row {suffix}} other {{numRows} rows {suffix}}}"
+    },
+    "fullscreen.grid_panel.layout_grid": {
+        "string": "Layout grid"
+    },
+    "fullscreen.grid_panel.layout_grid_settings": {
+        "string": "Layout grid settings"
+    },
+    "fullscreen.grid_panel.remove_layout_grid": {
+        "string": "Remove layout grid"
+    },
+    "fullscreen.grids_panel.grid_settings.size": {
+        "string": "Size"
+    },
+    "fullscreen.grids_panel.grid_settings.color": {
+        "string": "Color"
+    },
+    "fullscreen.grids_panel.grid_settings.count": {
+        "string": "Count"
+    },
+    "fullscreen.grids_panel.grid_settings.type": {
+        "string": "Type"
+    },
+    "fullscreen.grids_panel.grid_settings.gutter": {
+        "string": "Gutter"
+    },
+    "fullscreen.grid_panel.grid": {
+        "string": "Grid"
+    },
+    "fullscreen.grid_panel.columns_formatter": {
+        "string": "Columns"
+    },
+    "fullscreen.grid_panel.rows_formatter": {
+        "string": "Rows"
+    },
+    "fullscreen.grids_panel.grid_settings.width": {
+        "string": "Width"
+    },
+    "fullscreen.grids_panel.grid_settings.height": {
+        "string": "Height"
+    },
+    "fullscreen.grids_panel.grid_settings.margin": {
+        "string": "Margin"
+    },
+    "fullscreen.grids_panel.grid_settings.offset": {
+        "string": "Offset"
+    },
+    "fullscreen.grids_panel.grid_settings.auto": {
+        "string": "Auto"
+    },
+    "fullscreen.properties_panel.apply_variable_ellipses": {
+        "string": "Apply variable…"
+    },
+    "fullscreen.grids_panel.grid_settings.left": {
+        "string": "Left"
+    },
+    "fullscreen.grids_panel.grid_settings.top": {
+        "string": "Top"
+    },
+    "fullscreen.grids_panel.grid_settings.right": {
+        "string": "Right"
+    }
+}

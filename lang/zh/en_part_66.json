@@ -1,0 +1,152 @@
+{
+    "role_row.you_label": {
+        "string": "(You)"
+    },
+    "community.publishing.publisher_role_can_update": {
+        "string": "Can update"
+    },
+    "community.publishing.need_to_accept_your_invitation": {
+        "string": "They’ll need to accept your invitation before being  added to the resource page."
+    },
+    "community.publishing.copied": {
+        "string": "Copied"
+    },
+    "community.publishing.copy": {
+        "string": "Copy"
+    },
+    "file_browser.modal.are_you_sure_to_transfer_ownership": {
+        "string": "Are you sure you want to make {newOwnerName} the owner of {resourceName}?"
+    },
+    "file_browser.modal.cannot_undo_warning": {
+        "string": "You can't undo this action."
+    },
+    "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.widget": {
+        "string": "Transfer ownership of widget?"
+    },
+    "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.plugin": {
+        "string": "Transfer ownership of plugin?"
+    },
+    "file_browser.modal.transfer_ownership_cta": {
+        "string": "Transfer ownership"
+    },
+    "community.publishing.type_name_or_handle": {
+        "string": "Type name or Community handle to add creator"
+    },
+    "community.detail_view.recent_files": {
+        "string": "Recent files"
+    },
+    "community.using.playground_file": {
+        "string": "Playground file"
+    },
+    "community.using.figjam_board": {
+        "string": "FigJam board"
+    },
+    "community.using.figma_file": {
+        "string": "Figma file"
+    },
+    "community.using.new_file": {
+        "string": "New file"
+    },
+    "community.publishing.publish_tab": {
+        "string": "Publish"
+    },
+    "templates.publishing.restore_default_thumbnail": {
+        "string": "Restore default thumbnail"
+    },
+    "templates.publishing.upload_custom_thumbnail": {
+        "string": "Upload custom thumbnail"
+    },
+    "templates.publishing.thumbnail_size_dimension_spec": {
+        "string": "Size: 1920x960"
+    },
+    "fullscreen.fullscreen_view_selector.untitled": {
+        "string": "Untitled"
+    },
+    "community.publish.modal_error_badge": {
+        "string": "{numErrors, plural, one {{numErrors} error} other {{numErrors} errors}}"
+    },
+    "community.publishing.add_creators": {
+        "string": "Add creators"
+    },
+    "community.seller.by_using_this_feature_you_agree_to_the": {
+        "string": " By using this feature you agree to the {link}."
+    },
+    "community.seller.pricing": {
+        "string": "Pricing"
+    },
+    "community.seller.sell_on_community": {
+        "string": "Sell this on Community"
+    },
+    "community.publishing.upload_at_least_one_image_or_video": {
+        "string": "Upload at least 1 image or video"
+    },
+    "community.publishing.upload_at_least_one_image": {
+        "string": "Upload at least 1 image"
+    },
+    "community.publishing.upload_images_and_videos_to_show_off_your_widget": {
+        "string": "Upload images and videos to show off your widget"
+    },
+    "community.publishing.upload_images_and_videos_to_show_off_your_plugin": {
+        "string": "Upload images and videos to show off your plugin"
+    },
+    "community.publishing.select_up_to_10_images_of_your_file": {
+        "string": "Select up to 10 images of your file"
+    },
+    "community.publishing.upload_instructions": {
+        "string": "Drag and drop, paste, or {chooseFileLink}"
+    },
+    "community.publishing.upload_from_your_computer": {
+        "string": "upload from your computer"
+    },
+    "community.publishing.upload_instructions_recommended_size": {
+        "string": "Recommended size: 1920 x 1080"
+    },
+    "community.publishing.thumbnail": {
+        "string": "Thumbnail"
+    },
+    "community.publishing.restore_default_thumbnail": {
+        "string": "Restore default thumbnail"
+    },
+    "community.publishing.set_as_thumbnail": {
+        "string": "Set as thumbnail"
+    },
+    "community.publishing.some_media_was_deduplicated": {
+        "string": "Duplicate upload detected. Only unique files have been added to your carousel."
+    },
+    "community.publishing.you_can_only_upload_three_videos": {
+        "string": "You can only upload up to 3 videos"
+    },
+    "community.publishing.you_can_only_upload_ten_images_and_videos": {
+        "string": "You can only upload up to 10 images and videos"
+    },
+    "community.publishing.you_can_only_upload_ten_images": {
+        "string": "You can only upload up to 10 images"
+    },
+    "file_browser.modal.this_resource_is_for_sale_on_community_so_you_cant_change_ownership": {
+        "string": "This resource is for sale on Community, so you can't make someone else the owner."
+    },
+    "file_browser.modal.cant_transfer_ownership_title": {
+        "string": "Owner can't be changed"
+    },
+    "file_browser.modal.got_it": {
+        "string": "Got it"
+    },
+    "community.publishing.payee_name_annotation_for_current_owner": {
+        "string": "(you)"
+    },
+    "community.publishing.payee_name_annotation": {
+        "string": "(owner)"
+    },
+    "community.publishing.payee_label": {
+        "string": "Payee"
+    },
+    "community.publishing.category": {
+        "string": "Category"
+    },
+    "community.publishing.select_a_category": {
+        "string": "Select a category"
+    },
+    "community.publishing.subcategory": {
+        "string": "Subcategory"
+    }
+}

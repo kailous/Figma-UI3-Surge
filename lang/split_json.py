@@ -1,7 +1,7 @@
 import json
 import os
 
-def split_json_file(input_file, lines_per_file=1000):
+def split_json_file(input_file, lines_per_file=50):
     with open(input_file, 'r', encoding='utf-8') as f:
         data = json.load(f)
     

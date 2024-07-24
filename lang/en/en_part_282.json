@@ -1,0 +1,152 @@
+{
+    "billing_group_admin.upgrade_request_banner.title": {
+        "string": "{orgName} has {numRequests}"
+    },
+    "billing_group_admin.upgrade_request_banner.title_num_requests": {
+        "string": "{numRequests, plural, one {1 upgrade request} other {{numRequests} upgrade requests}}"
+    },
+    "billing_group_admin.upgrade_request_banner.subtitle": {
+        "string": "Go to the dashboard to review your requests."
+    },
+    "onboarding_pointers.multiple_select_onboarding": {
+        "string": "Quickly select all users in the list or click a row while holding {shiftKey} to select multiple users at once."
+    },
+    "onboarding_pointers.shift_key": {
+        "string": "⇧ shift"
+    },
+    "onboarding_pointers.recent_activity_onboarding.seat_rename": {
+        "string": "Click here to view a user's recent activity and info about how people were upgraded, if available."
+    },
+    "onboarding_pointers.member_upgraded_onboarding": {
+        "string": "Quickly view how a user was upgraded by hovering over their upgrade date."
+    },
+    "onboarding_pointers.account_type_filter_onboarding_for_workspace_admin": {
+        "string": "Filter users by their account type and when their last edit was made."
+    },
+    "onboarding_pointers.account_type_filter_onboarding.seat_rename": {
+        "string": "Filter users by their account type, seat type, when their last edit was made, and paid seats added since your last invoice."
+    },
+    "onboarding_pointers.member_search_onboarding": {
+        "string": "Search for users by typing in a name or email address."
+    },
+    "onboarding_pointers.row_select_onboarding": {
+        "string": "Click another row while holding {shiftKey} to select or de-select multiple users at once."
+    },
+    "members_table.menu_bar_filter.scim_group": {
+        "string": "SCIM group"
+    },
+    "members_table.menu_bar_filter.billing_group": {
+        "string": "Billing group"
+    },
+    "members_table.license_group_cell.unassign": {
+        "string": "Unassign"
+    },
+    "members_table.role_idp_tooltip.seat_rename": {
+        "string": "Seat type is provisioned by your IdP"
+    },
+    "external_collaboration_restricted.members.tooltip.v2": {
+        "string": "This guest can't be upgraded. {eccDomain} has limited their organization's access to external content."
+    },
+    "members_table.dev_mode_cell.beta_user_needs_upgrade": {
+        "string": "This member will need to upgrade to Dev Mode on Jan 31"
+    },
+    "members_table.beta_participant": {
+        "string": "Beta participant"
+    },
+    "members_table.dev_mode.requires_org_admin_opt_in": {
+        "string": "This seat can be upgraded after an org admin enables Dev Mode"
+    },
+    "members_table.badge_new": {
+        "string": "New"
+    },
+    "workspace.unassigned": {
+        "string": "Unassigned"
+    },
+    "members_table.workspace_cell.unassign": {
+        "string": "Unassign"
+    },
+    "add_unassigned_members_modal.add_members_tab": {
+        "string": "Add members"
+    },
+    "add_unassigned_members_modal.invite_users_tab": {
+        "string": "Invite users"
+    },
+    "members_tab.last_edit_modal.no_activity": {
+        "string": "No activity found"
+    },
+    "members_tab.last_edit_modal.product_column_header": {
+        "string": "Product"
+    },
+    "members_tab.last_edit_modal.file_column_header": {
+        "string": "File"
+    },
+    "members_tab.last_edit_modal.last_edit_column_header": {
+        "string": "Last Edit"
+    },
+    "members_tab.last_edit_modal.inaccessible_text": {
+        "string": "You don't have access to this file due to its permissions"
+    },
+    "members_tab.last_edit_modal.error_fetching_edits": {
+        "string": "An error occurred while fetching latest edits."
+    },
+    "members_tab.last_edit_modal.title_with_name": {
+        "string": "{publicName}'s most recent edits"
+    },
+    "members_tab.last_edit_modal.title_generic": {
+        "string": "Recent edit activity"
+    },
+    "members_tab.member_modal.recent_activity_tab": {
+        "string": "Recent activity"
+    },
+    "members_tab.member_modal.guest_access_tab": {
+        "string": "Guest access"
+    },
+    "members_tab.member_modal.remove_user_button": {
+        "string": "Remove user"
+    },
+    "members_tab.member_modal.see_full_activity_button": {
+        "string": "See full activity"
+    },
+    "members_table.true_up.banner.title": {
+        "string": "Finalize your invoice when you're ready"
+    },
+    "members_table.true_up.banner.subtitle": {
+        "string": "Once you've reviewed and confirmed the paid seats in your organization, finalize your invoice."
+    },
+    "members_table.true_up.banner.button": {
+        "string": "Review and finalize invoice"
+    },
+    "members_tab.member_modal.file_count_label": {
+        "string": "{fileCount, plural, one {{fileCount} file} other {{fileCount} files}}"
+    },
+    "members_tab.member_modal.project_count_label": {
+        "string": "{projectCount, plural, one {{projectCount} project} other {{projectCount} projects}}"
+    },
+    "members_tab.member_modal.guest_access.can_also_view_public_links_label": {
+        "string": "{name} can also view any file with public links enabled."
+    },
+    "members_tab.member_modal.guest_access.can_view_public_links_label": {
+        "string": "{name} can view any file with public links enabled."
+    },
+    "members_tab.member_modal.guest_access.no_access_label": {
+        "string": "{name} doesn’t currently have access to any team resources."
+    },
+    "members_tab.member_modal.guest_access.teams_table.team_column": {
+        "string": "Team"
+    },
+    "members_tab.member_modal.guest_access.teams_table.projects_column": {
+        "string": "Projects"
+    },
+    "members_tab.member_modal.guest_access.teams_table.permissions_column": {
+        "string": "Permissions"
+    },
+    "members_tab.member_modal.guest_access.projects_table.project_column": {
+        "string": "Project"
+    },
+    "members_tab.member_modal.guest_access.projects_table.files_column": {
+        "string": "Files"
+    },
+    "members_tab.member_modal.guest_access.projects_table.permissions_column": {
+        "string": "Permissions"
+    }
+}

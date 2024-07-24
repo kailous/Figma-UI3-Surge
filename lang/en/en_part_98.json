@@ -1,0 +1,152 @@
+{
+    "type_settings.open_type_features.stylistic_set": {
+        "string": "Stylistic set {integerArgument, number, integer}"
+    },
+    "type_settings.open_type_features.character_variant": {
+        "string": "Character variant {integerArgument, number, integer}"
+    },
+    "fullscreen.properties_panel.tooltip_hide": {
+        "string": "Hide"
+    },
+    "fullscreen.properties_panel.tooltip_show": {
+        "string": "Show"
+    },
+    "fullscreen.properties_panel.show_hide": {
+        "string": "Show/hide"
+    },
+    "fullscreen_actions.plugin_parameters.tab": {
+        "string": "Tab"
+    },
+    "fullscreen_actions.plugin_parameters.to_enter_optional_parameters": {
+        "string": "to enter optional parameters"
+    },
+    "fullscreen_actions.plugin_parameters.enter": {
+        "string": "Enter"
+    },
+    "fullscreen_actions.plugin_parameters.to_run_plugin": {
+        "string": "to run plugin"
+    },
+    "fullscreen_actions.plugin_parameters.optional_optional_names": {
+        "string": "optional: {optionalNames}"
+    },
+    "qa.parameter.loading.plugin": {
+        "string": "Loading plugin..."
+    },
+    "qa.parameter.loading.suggestions": {
+        "string": "Loading suggestions..."
+    },
+    "qa.go_back": {
+        "string": "Go back"
+    },
+    "qa.ai_beta": {
+        "string": "AI beta"
+    },
+    "qa.learn_more": {
+        "string": "Learn more"
+    },
+    "whiteboard.ai_modal.hint_tab": {
+        "string": "tab"
+    },
+    "first_draft.prompt_history_header": {
+        "string": "Recents"
+    },
+    "first_draft.prompt_history_label": {
+        "string": "Recent prompts"
+    },
+    "search.search_bar.clear": {
+        "string": "Clear"
+    },
+    "fullscreen_actions.ai_content_fill.select_a_stack_of_repeating_frames": {
+        "string": "Select a stack of repeating frames"
+    },
+    "ai.replacing": {
+        "string": "Replacing..."
+    },
+    "fullscreen_actions.ai_content_fill.missing_font": {
+        "string": "Missing a font—couldn’t replace"
+    },
+    "ai.error.content_length_limit": {
+        "string": "Try again, with a smaller selection"
+    },
+    "ai.make_it": {
+        "string": "Make it"
+    },
+    "fullscreen_actions.ai_content_fill.prompt_suggestion": {
+        "string": "Describe your changes"
+    },
+    "assets_in_actions.assets_section.no_results.title": {
+        "string": "No results for \"{query}\""
+    },
+    "assets_in_actions.assets_section.initial_state.title": {
+        "string": "Find assets by name, or simply describe them"
+    },
+    "assets_in_actions.assets_section.error.title": {
+        "string": "Something went wrong"
+    },
+    "assets_in_actions.assets_section.error.description": {
+        "string": "An unexpected error occurred"
+    },
+    "design_systems.assets_panel.insert": {
+        "string": "Insert"
+    },
+    "design_systems.instance_panel.view_library_in_community": {
+        "string": "View library in Community"
+    },
+    "assets_in_actions.fragments_section.no_results.title": {
+        "string": "No results for \"{query}\""
+    },
+    "assets_in_actions.fragments_section.empty_state.header_community": {
+        "string": "Search across community"
+    },
+    "assets_in_actions.fragments_section.empty_state.header_generic": {
+        "string": "Search across your organization"
+    },
+    "assets_in_actions.fragments_section.empty_state.header": {
+        "string": "Search across {orgText}"
+    },
+    "assets_in_actions.fragments_section.empty_state.text_community": {
+        "string": "Now you can find related designs, from all across community."
+    },
+    "assets_in_actions.fragments_section.empty_state.text": {
+        "string": "Now you can find related designs, from all across your organization."
+    },
+    "assets_in_actions.fragments_section.error.title": {
+        "string": "Something went wrong"
+    },
+    "assets_in_actions.fragments_section.error.description": {
+        "string": "An unexpected error occurred"
+    },
+    "asset_suggestions.close_modal": {
+        "string": "Close"
+    },
+    "asset_suggestions.insert_toast_error": {
+        "string": "Failed to insert design"
+    },
+    "assets_in_actions.component_search.placeholder_1": {
+        "string": "Ex: “red circle with an x”"
+    },
+    "assets_in_actions.component_search.placeholder_2": {
+        "string": "Ex: “checkmark icon”"
+    },
+    "assets_in_actions.component_search.placeholder_3": {
+        "string": "Ex: “confirmation dialog”"
+    },
+    "assets_in_actions.component_search.placeholder_4": {
+        "string": "Ex: “blue buttons”"
+    },
+    "assets_in_actions.component_search.placeholder_5": {
+        "string": "Ex: “modal in dark mode”"
+    },
+    "assets_in_actions.component_search.placeholder_6": {
+        "string": "Ex: “chunky toggle”"
+    },
+    "assets_in_actions.component_search.placeholder_7": {
+        "string": "Ex: “help icon”"
+    },
+    "assets_in_actions.component_search.placeholder_8": {
+        "string": "Ex: “error pop-up”"
+    },
+    "assets_in_actions.component_search.placeholder_9": {
+        "string": "Ex: “alert banner”"
+    }
+}

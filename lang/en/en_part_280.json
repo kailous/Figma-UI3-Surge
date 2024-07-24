@@ -1,0 +1,152 @@
+{
+    "org_join_request.cancel_text": {
+        "string": "Dismiss"
+    },
+    "org_join_request.loading_confirmation_button_text": {
+        "string": "Adding…"
+    },
+    "members_table.batch_actions_menu.role_change.seat_rename": {
+        "string": "Change seat"
+    },
+    "members_table.menu_bar_filter.new_since_last_invoice": {
+        "string": "New since last invoice"
+    },
+    "members_table.no_members_to_show": {
+        "string": "No members to show."
+    },
+    "multi_select_list.reset_filters": {
+        "string": "Reset filters"
+    },
+    "members_table.no_members_match_your_search_query": {
+        "string": "No members match your search query. Try your search again."
+    },
+    "members_table.invite_users_button": {
+        "string": "Invite users"
+    },
+    "members_table.add_members_button": {
+        "string": "Add members"
+    },
+    "members_table.csv_export.get_csv": {
+        "string": "Get CSV"
+    },
+    "members_table.change_member_permission.success": {
+        "string": "Selected user's permissions successfully changed"
+    },
+    "members_table.verification_sent": {
+        "string": "Verification sent"
+    },
+    "members_table.cannot_send_verification_email": {
+        "string": "Cannot send verification email to the user. Please try again later."
+    },
+    "confirm_workspace_change.success_message": {
+        "string": "{numUsers, plural, one {{numUsers} person's workspace successfully updated} other {{numUsers} peoples' workspace successfully updated}}"
+    },
+    "members_table.csv_export.preparing_request": {
+        "string": "Preparing request for CSV"
+    },
+    "members_table.csv_export.generating": {
+        "string": "Your CSV is being generated, which will take a few minutes. We’ll email you when it’s ready."
+    },
+    "members_table.csv_export.error": {
+        "string": "There was an error processing your request. Please try again later."
+    },
+    "members_table.copy_emails_button": {
+        "string": "{userCount, plural, one {Copy email} other {Copy emails}}"
+    },
+    "members_table.resend_verification_button": {
+        "string": "Resend verification"
+    },
+    "members_table.remove_users_button": {
+        "string": "{userCount, plural, one {Remove user} other {Remove users}}"
+    },
+    "team_view.search_bar.search_members_with_ellipsis": {
+        "string": "Search members…"
+    },
+    "members_table.menu_bar_filter.product": {
+        "string": "Product"
+    },
+    "members_table.menu_bar_filter.account_type": {
+        "string": "Account type"
+    },
+    "members_table.menu_bar_filter.role.seat_rename": {
+        "string": "Seat type"
+    },
+    "members_table.menu_bar_filter.last_edit": {
+        "string": "Last edit"
+    },
+    "multi_select_list.selected_count_user": {
+        "string": "{numSelected, plural, one {{numSelected} user selected:} other {{numSelected} users selected:}}"
+    },
+    "members_table.user_upgrade_date": {
+        "string": "{upgradeDate, date, medium}"
+    },
+    "members_table.license_group_update_date": {
+        "string": "{updateDate, date, medium}"
+    },
+    "members_table.org_invite_menu.resend_invite": {
+        "string": "Resend invite"
+    },
+    "members_table.org_invite_menu.copy_email": {
+        "string": "Copy email"
+    },
+    "members_table.org_invite_menu.remove": {
+        "string": "Remove"
+    },
+    "members_table.scim_menu.copy_email": {
+        "string": "Copy email"
+    },
+    "members_table.org_user_menu.view_user_activity": {
+        "string": "View user activity"
+    },
+    "members_table.org_user_menu.view_guest_access": {
+        "string": "View guest access"
+    },
+    "members_table.org_user_menu.copy_email": {
+        "string": "Copy email"
+    },
+    "members_table.org_user_menu.resend_verification": {
+        "string": "Resend verification"
+    },
+    "members_table.org_user_menu.revoke_admin_access": {
+        "string": "Revoke admin access"
+    },
+    "members_table.org_user_menu.grant_admin_access": {
+        "string": "Grant admin access"
+    },
+    "members_table.org_user_menu.remove": {
+        "string": "Remove"
+    },
+    "add_unassigned_members_modal.role_column.seat_rename": {
+        "string": "Seat types"
+    },
+    "add_unassigned_members_modal.design_file_icon.tooltip.seat_rename": {
+        "string": "Figma Design seat"
+    },
+    "add_unassigned_members_modal.dev_mode_file_icon.tooltip": {
+        "string": "Dev Mode seat"
+    },
+    "add_unassigned_members_modal.whiteboard_file_icon.tooltip.seat_rename": {
+        "string": "FigJam seat"
+    },
+    "members_table.org_user_name_cell.pending_badge": {
+        "string": "Pending"
+    },
+    "members_table.org_user_name_cell.pending_scim_badge": {
+        "string": "Pending (SCIM)"
+    },
+    "members_table.user_upgrade_reason_and_date.tooltip": {
+        "string": "{upgradeReason} \n {upgradeDate, date, medium}"
+    },
+    "members_table.workspace_update_description.self_selected": {
+        "string": "From workspace selector"
+    },
+    "members_table.workspace_update_description.moved_by_admin": {
+        "string": "Moved by {adminName}"
+    },
+    "members_table.workspace_update_description.moved_by_admin_generic": {
+        "string": "Moved by admin"
+    },
+    "members_table.workspace_update_description.auto_assigned": {
+        "string": "Auto assigned"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "proto.variant_actions.change_to": {
+        "string": "Change to…"
+    },
+    "proto.variant_actions.mixed": {
+        "string": "Mixed"
+    },
+    "proto.prototype_panel.remove_interaction_tooltip": {
+        "string": "Remove interaction"
+    },
+    "proto.menu.show_prototype_settings": {
+        "string": "Show prototype settings"
+    },
+    "proto.onboarding.creating_a_connection": {
+        "string": "Creating a connection"
+    },
+    "proto.onboarding.select_a_frame_or_object_hint": {
+        "string": "Select a frame or object in a frame and use the circular node to drag a connection to another frame."
+    },
+    "proto.onboarding.removing_a_connection": {
+        "string": "Removing a connection"
+    },
+    "proto.onboarding.to_delete_a_connection_click_and_drag_on_either_end": {
+        "string": "To delete a connection, click and drag on either end."
+    },
+    "proto.onboarding.running_your_prototype": {
+        "string": "Running your prototype"
+    },
+    "proto.onboarding.use_the_play_button_hint": {
+        "string": "Use the play button in the toolbar to play your prototype. If there are no connections, the play button can be used to play a presentation of your frames."
+    },
+    "fullscreen.scale_panel.scale": {
+        "string": "Scale"
+    },
+    "fullscreen.scale_panel.close": {
+        "string": "Close"
+    },
+    "fullscreen.scale_panel.anchor_point": {
+        "string": "Anchor point"
+    },
+    "fullscreen.properties_panel.stack_panel.auto_layout": {
+        "string": "Auto layout"
+    },
+    "fullscreen.properties_panel.stack_panel.layout": {
+        "string": "Layout"
+    },
+    "fullscreen.properties_panel.section_autoLayout.label_direction": {
+        "string": "Direction"
+    },
+    "fullscreen.properties_panel.section_autoLayout.label_direction_and_gap": {
+        "string": "Direction + Gap"
+    },
+    "fullscreen.properties_panel.section_autoLayout.label_alignment": {
+        "string": "Alignment"
+    },
+    "fullscreen.properties_panel.section_autoLayout.label_gap": {
+        "string": "Gap"
+    },
+    "fullscreen.properties_panel.stack_panel.auto_layout_updated": {
+        "string": "Auto layout updated"
+    },
+    "fullscreen.properties_panel.stack_panel.undo": {
+        "string": "Undo"
+    },
+    "fullscreen.properties_panel.stack_panel.new_auto_layout_version_available": {
+        "string": "New auto layout version available"
+    },
+    "fullscreen.properties_panel.stack_panel.update": {
+        "string": "Update"
+    },
+    "fullscreen.properties_panel.section_autoLayout.label_padding": {
+        "string": "Padding"
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance_overrides": {
+        "string": "This instance has overrides from an old version of auto layout. Updating will remove the overrides.\\n\\nYou may also need to update the main component."
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance": {
+        "string": "This instance uses an older version of auto layout. You can update it by updating the main component."
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_components": {
+        "string": "Updating might add layers, but designs will look the same. If this main component has instances, check them after updating."
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version": {
+        "string": "Updating might add layers, but designs will look the same."
+    },
+    "fullscreen.properties_panel.stack_panel.vertical_direction": {
+        "string": "Vertical layout"
+    },
+    "fullscreen.properties_panel.stack_panel.horizontal_direction": {
+        "string": "Horizontal layout"
+    },
+    "fullscreen.properties_panel.stack_panel.wrap": {
+        "string": "Wrap"
+    },
+    "fullscreen.properties_panel.stack_panel.independent_paddings": {
+        "string": "Individual padding"
+    },
+    "fullscreen.properties_panel.stack_panel.use_auto_layout": {
+        "string": "Use auto layout"
+    },
+    "design_systems.template_panel.template_controls": {
+        "string": "Template configuration"
+    },
+    "design_systems.component_properties.show_more_properties": {
+        "string": "Show more properties"
+    },
+    "design_systems.component_properties.num_hidden": {
+        "string": "{num} hidden"
+    },
+    "design_systems.component_properties.unbubble_instance": {
+        "string": "Remove instance"
+    },
+    "design_systems.component_properties.show_more_nested_instances_rows": {
+        "string": "Show {count} more instances"
+    },
+    "slides.properties_panel.color_picker.color_toggle": {
+        "string": "Color"
+    },
+    "slides.properties_panel.color_picker.gradient_toggle": {
+        "string": "Gradient"
+    },
+    "slides.properties_panel.blur.label": {
+        "string": "Blur"
+    },
+    "slides.properties_panel.blur.title": {
+        "string": "Layer blur"
+    },
+    "slides.properties_panel.blur.strength": {
+        "string": "Blur strength"
+    },
+    "proto.prototype_panel.replace_mixed_muted_and_loop_video_playback": {
+        "string": "Click {loopSvg} or {speakerSvg} to replace mixed values"
+    },
+    "proto.prototype_panel.replace_mixed_video_playback": {
+        "string": "Click {svg} to replace mixed values"
+    },
+    "slides.properties_panel.text_style.mixed": {
+        "string": "Mixed"
+    },
+    "slides.properties_panel.text_style.edited": {
+        "string": "(edited)"
+    },
+    "slides.properties_panel.text_style.save_button": {
+        "string": "Save"
+    },
+    "slides.properties_panel.text_style.tooltip": {
+        "string": "Text style"
+    },
+    "design_systems.styles.tooltips.create_style_from_section": {
+        "string": "Create {kind}"
+    }
+}

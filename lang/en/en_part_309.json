@@ -1,0 +1,152 @@
+{
+    "community.seller.collect_tax_info_modal.last_name": {
+        "string": "Last name"
+    },
+    "community.detail_view.report_resource": {
+        "string": "Report resource"
+    },
+    "community.buyer.request_refund": {
+        "string": "Request refund"
+    },
+    "community.detail_view.want_to_sell_resources": {
+        "string": "Want to sell resources like this one on Community?"
+    },
+    "community.detail_view.learn_how_to_get_started": {
+        "string": "Learn how to get started."
+    },
+    "community.detail_view.remove_myself_as_creator": {
+        "string": "Remove myself as creator"
+    },
+    "community.detail_view.current_pending_user_profile_name_you": {
+        "string": "{currentProfileName} (You)"
+    },
+    "community.detail_view.creator": {
+        "string": "Creator"
+    },
+    "community.reporting.reporting_an_inappropriate_file": {
+        "string": "Reporting an inappropriate file"
+    },
+    "community.reporting.i_want_to_report_this_file_for_violating_the_community_guidelines_resource_url": {
+        "string": "I want to report this file for violating the Community guidelines: {resourceUrl}"
+    },
+    "community.reporting.reporting_an_inappropriate_widget": {
+        "string": "Reporting an inappropriate widget"
+    },
+    "community.reporting.i_want_to_report_this_widget_for_violating_the_community_guidelines_resource_url": {
+        "string": "I want to report this widget for violating the Community guidelines: {resourceUrl}"
+    },
+    "community.reporting.reporting_an_inappropriate_plugin": {
+        "string": "Reporting an inappropriate plugin"
+    },
+    "community.reporting.i_want_to_report_this_plugin_for_violating_the_plugin_guidelines_resource_url": {
+        "string": "I want to report this plugin for violating the plugin guidelines: {resourceUrl}"
+    },
+    "community.reporting.my_figma_user_id_is_user_id": {
+        "string": "My figma user id is {userId}"
+    },
+    "community.reporting.add_your_description_here": {
+        "string": "(Add your description here)"
+    },
+    "community.buyer.view_order_details": {
+        "string": "View order details"
+    },
+    "community.buyer.manage_subscription": {
+        "string": "Manage subscription"
+    },
+    "navbar.navbar.publish_button_label": {
+        "string": "Publish"
+    },
+    "navbar.navbar.disabled_publish_button_label": {
+        "string": "Only organization admins can publish to the Figma Community."
+    },
+    "file_browser.pinning.update_permissions.content": {
+        "string": "If you pin this file to the {workspaceName} workspace, its permissions will be changed to {permission}. "
+    },
+    "file_browser.pinning.update_permissions.content.permission": {
+        "string": "Anyone at {orgName} with the link can view and discover"
+    },
+    "file_browser.pinning.pin_modal.confirmation_bell": {
+        "string": "Pinned file to workspace"
+    },
+    "file_browser.pinning.pin_modal.pin_file_to_workspace": {
+        "string": "Pin file to workspace"
+    },
+    "file_browser.pinning.pin_file": {
+        "string": "Pin file"
+    },
+    "file_browser.pinning.delete_pin_modal.confirmation_bell": {
+        "string": "Pinned file removed from workspace"
+    },
+    "file_browser.pinning.delete_pin_modal.header": {
+        "string": "Remove from pinned files"
+    },
+    "file_browser.pinning.delete_pin_modal.confirm": {
+        "string": "Remove from pinned"
+    },
+    "file_browser.pinning.delete_pin_modal.content": {
+        "string": "This file will no longer be pinned in the workspace, and the pin description will be deleted. "
+    },
+    "file_browser.pinning.pin_modal.edit.confirmation_bell": {
+        "string": "Updated pinned file"
+    },
+    "file_browser.pinning.pin_modal.edit_pin_description": {
+        "string": "Edit pin description"
+    },
+    "file_browser.pinning.pin_modal.save": {
+        "string": "Save"
+    },
+    "file_browser.pinning.pin_modal.description_textarea_placeholder": {
+        "string": "Add a short description of this file"
+    },
+    "file_browser.pinning.pin_modal.confirmation_bell.view_workspace": {
+        "string": "View workspace"
+    },
+    "pro_cart.payment.sepa_direct_debit_mandate": {
+        "string": "By providing your payment information and confirming this payment, you authorise (A) Figma and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur."
+    },
+    "pro_cart.payment.different_legal_name_or_shipping_address": {
+        "string": "I have a different legal company name or shipping address"
+    },
+    "pro_cart.payment.name_on_payment_method_label": {
+        "string": "Name on payment method"
+    },
+    "pro_cart.payment.name_on_payment_method": {
+        "string": "Name on payment method"
+    },
+    "file_browser.file_move.zero_state": {
+        "string": "You don’t have edit access to any projects, so you can't move this file. Join or create a team and project, then try again."
+    },
+    "search.file_move.no_results_found": {
+        "string": "No results found for {folderSearchQuery}"
+    },
+    "file_browser.file_move.context_menu_rename": {
+        "string": "Rename"
+    },
+    "file_browser.file_move.context_menu_show_in_files": {
+        "string": "Show in files…"
+    },
+    "file_browser.file_move.move_pages_to_new_file": {
+        "string": "Move pages to new file"
+    },
+    "file_browser.file_move.modal_header_import_file": {
+        "string": "Import file {fileName}"
+    },
+    "file_browser.file_move.modal_header_import_files": {
+        "string": "Import files"
+    },
+    "file_browser.file_move.view_workspaces": {
+        "string": "View workspaces"
+    },
+    "file_browser.file_move.view_teams": {
+        "string": "View teams"
+    },
+    "file_browser.shared_projects": {
+        "string": "Shared projects"
+    },
+    "page_move.add_new_file_name": {
+        "string": "Add a new file name"
+    },
+    "file_browser.inline_team_creation.button_text": {
+        "string": "New team"
+    }
+}

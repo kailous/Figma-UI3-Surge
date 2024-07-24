@@ -1,0 +1,152 @@
+{
+    "whiteboard.text_sizes.medium": {
+        "string": "Medium"
+    },
+    "whiteboard.text_sizes.small": {
+        "string": "Small"
+    },
+    "whiteboard.text_sizes.teensy": {
+        "string": "Teensy"
+    },
+    "whiteboard.inline_menu.font_size_input": {
+        "string": "Size"
+    },
+    "whiteboard.inline_menu.font_size": {
+        "string": "Font size"
+    },
+    "whiteboard.inline_menu.font_size_label": {
+        "string": "Font size, {currentFontSize}"
+    },
+    "whiteboard.inline_menu.custom_font_size": {
+        "string": "Custom font size"
+    },
+    "whiteboard.inline_menu.shape_visibility_visible": {
+        "string": "Fill"
+    },
+    "whiteboard.inline_menu.shape_visibility_transparent": {
+        "string": "Transparent"
+    },
+    "whiteboard.inline_menu.shape_visibility_hidden": {
+        "string": "No fill"
+    },
+    "whiteboard.inline_menu.text_background": {
+        "string": "Text background"
+    },
+    "whiteboard.no-edit-hidden-section-tooltip": {
+        "string": "Can't edit while hidden"
+    },
+    "whiteboard.inline_menu.color_list_box": {
+        "string": "Change color"
+    },
+    "fullscreen.context_menu.export_selection": {
+        "string": "Export selection…"
+    },
+    "fullscreen.context_menu.lock_unlock": {
+        "string": "Lock/Unlock"
+    },
+    "fullscreen.context_menu.multiselect": {
+        "string": "Select objects"
+    },
+    "whiteboard.inline_menu.add_connector_text": {
+        "string": "Add text"
+    },
+    "whiteboard.inline_menu.show_hide_author": {
+        "string": "Show/hide author"
+    },
+    "whiteboard.code_blocks.css": {
+        "string": "CSS"
+    },
+    "whiteboard.code_blocks.type_script": {
+        "string": "TypeScript"
+    },
+    "whiteboard.code_blocks.c": {
+        "string": "C++"
+    },
+    "whiteboard.code_blocks.ruby": {
+        "string": "Ruby"
+    },
+    "whiteboard.code_blocks.java_script": {
+        "string": "JavaScript"
+    },
+    "whiteboard.code_blocks.html": {
+        "string": "HTML"
+    },
+    "whiteboard.code_blocks.json": {
+        "string": "JSON"
+    },
+    "whiteboard.code_blocks.graph_ql": {
+        "string": "GraphQL"
+    },
+    "whiteboard.code_blocks.python": {
+        "string": "Python"
+    },
+    "whiteboard.code_blocks.go": {
+        "string": "Go"
+    },
+    "whiteboard.code_blocks.sql": {
+        "string": "SQL"
+    },
+    "whiteboard.code_blocks.swift": {
+        "string": "Swift"
+    },
+    "whiteboard.code_blocks.kotlin": {
+        "string": "Kotlin"
+    },
+    "whiteboard.code_blocks.rust": {
+        "string": "Rust"
+    },
+    "whiteboard.code_blocks.bash": {
+        "string": "Bash"
+    },
+    "whiteboard.code_blocks.plaintext": {
+        "string": "Plain Text"
+    },
+    "whiteboard.code_blocks.mixed": {
+        "string": "Mixed"
+    },
+    "whiteboard.inline_menu.programming_language_label": {
+        "string": "Programming language, {currentLanguage}"
+    },
+    "whiteboard.inline_menu.programming_language": {
+        "string": "Programming language"
+    },
+    "whiteboard.inline_menu.connector_start_point": {
+        "string": "Start point"
+    },
+    "whiteboard.inline_menu.connector_end_point": {
+        "string": "End point"
+    },
+    "whiteboard.inline_menu.connector_start_point_selector_label": {
+        "string": "Start point, {currentStartCap}"
+    },
+    "whiteboard.inline_menu.connector_end_point_selector_label": {
+        "string": "End point, {currentEndCap}"
+    },
+    "whiteboard.connector_caps.solid_arrow": {
+        "string": "Solid arrow"
+    },
+    "whiteboard.connector_caps.line_arrow": {
+        "string": "Line arrow"
+    },
+    "whiteboard.connector_caps.triangle": {
+        "string": "Triangle"
+    },
+    "whiteboard.connector_caps.diamond": {
+        "string": "Diamond"
+    },
+    "whiteboard.connector_caps.circle": {
+        "string": "Circle"
+    },
+    "whiteboard.connector_caps.none": {
+        "string": "None"
+    },
+    "whiteboard.inline_menu.line_shape_selector_label": {
+        "string": "Line shape, {currentLineShape}"
+    },
+    "whiteboard.inline_menu.line_shape": {
+        "string": "Line shape"
+    },
+    "whiteboard.inline_menu.line_shape_elbowed": {
+        "string": "Elbowed"
+    }
+}

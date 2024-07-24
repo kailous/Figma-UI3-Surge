@@ -1,0 +1,152 @@
+{
+    "default_paid_status_modal.updated_default_roles.seat_rename": {
+        "string": "Updated default seat types"
+    },
+    "team_creation.step_number_of_max_steps": {
+        "string": "Step {currentStep} of {maxSteps}"
+    },
+    "team_creation.next": {
+        "string": "Next"
+    },
+    "team_creation.open_team": {
+        "string": "Open team"
+    },
+    "team_creation.open_team_description": {
+        "string": "Anyone at {orgName} can view files and join."
+    },
+    "team_creation.closed_team": {
+        "string": "Closed team"
+    },
+    "team_creation.closed_team_description": {
+        "string": "Only members can view files, and joining requires approval."
+    },
+    "team_creation.secret_team": {
+        "string": "Secret team"
+    },
+    "team_creation.secret_team_description": {
+        "string": "Only visible to people you invite (admins can see your team's name)."
+    },
+    "team_creation.can_edit_description": {
+        "string": "Joining the team lets them create, edit, and delete files."
+    },
+    "team_creation.can_view_description": {
+        "string": "Joining the team lets them view and request to edit files."
+    },
+    "team_creation.unassigned_workspace": {
+        "string": "Other teams"
+    },
+    "team_creation.optional": {
+        "string": "Add an optional description"
+    },
+    "team_creation.team_name_empty": {
+        "string": "Enter a team name"
+    },
+    "team_creation.team_description": {
+        "string": "Description"
+    },
+    "team_creation.workspace": {
+        "string": "Workspace"
+    },
+    "team_creation.access": {
+        "string": "Access"
+    },
+    "team_creation.add_other_members": {
+        "string": "Add other members"
+    },
+    "team_creation.name": {
+        "string": "Name"
+    },
+    "team_creation.who_has_access": {
+        "string": "Who has access"
+    },
+    "team_creation.visibility": {
+        "string": "Visibility"
+    },
+    "team_creation.what_they_can_do": {
+        "string": "What they can do"
+    },
+    "team_creation.can_view_and_comment": {
+        "string": "Can view and comment on files in this team."
+    },
+    "team_creation.can_create_and_edit_files": {
+        "string": "Can create and edit files in this team, add members, and change members’ edit permissions."
+    },
+    "team_creation.add_people_to_team_name": {
+        "string": "Add people to {teamName}"
+    },
+    "team_creation.org_modal_title_sc": {
+        "string": "Create team"
+    },
+    "team_creation.org_modal_title": {
+        "string": "Create a new team"
+    },
+    "file_browser.team_settings_modal.members_tab_header": {
+        "string": "{numMembers, plural, one { · # member} other { · # members}}"
+    },
+    "file_browser.team_settings_modal.members_tab": {
+        "string": "Members"
+    },
+    "file_browser.team_settings_modal.settings_tab": {
+        "string": "Settings"
+    },
+    "file_browser.team.member_list_name": {
+        "string": "Name"
+    },
+    "file_browser.team.member_list_email": {
+        "string": "Email"
+    },
+    "file_browser.team.member_list_permissions": {
+        "string": "Permissions"
+    },
+    "file_browser.team.no_members": {
+        "string": "No members"
+    },
+    "file_browser.team_settings.team_name": {
+        "string": "Team name"
+    },
+    "file_browser.team_settings.change_name": {
+        "string": "Change name"
+    },
+    "file_browser.about": {
+        "string": "About"
+    },
+    "file_browser.team.change_description": {
+        "string": "Change about"
+    },
+    "file_browser.team.add_a_description": {
+        "string": "Add a description"
+    },
+    "file_browser.team_settings_modal.community_profile": {
+        "string": "Community profile"
+    },
+    "file_browser.team_settings.delete_profile": {
+        "string": "Delete profile"
+    },
+    "file_browser.team_settings.manage_restricted_commenters": {
+        "string": "Manage restricted commenters"
+    },
+    "file_browser.team_settings.shared": {
+        "string": "Shared"
+    },
+    "file_browser.team_settings_modal.libraries": {
+        "string": "Libraries"
+    },
+    "file_browser.team_settings.view_team_libraries": {
+        "string": "View team’s libraries"
+    },
+    "file_browser.team_settings.view_team_fonts": {
+        "string": "View team’s fonts"
+    },
+    "file_browser.team_settings.view_team_figjam_palettes": {
+        "string": "View team’s FigJam palettes"
+    },
+    "file_browser.settings.access": {
+        "string": "Access"
+    },
+    "team_view.team_permissions_modal.change": {
+        "string": "Change"
+    },
+    "file_browser.team_settings.access_with_org": {
+        "string": "Access within organization:"
+    }
+}

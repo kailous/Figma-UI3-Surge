@@ -1,0 +1,152 @@
+{
+    "ai.undo": {
+        "string": "Undo"
+    },
+    "ai.review": {
+        "string": "Review"
+    },
+    "ai.keep_it": {
+        "string": "Keep it"
+    },
+    "ai.accept": {
+        "string": "Accept"
+    },
+    "ai.preview": {
+        "string": "Preview"
+    },
+    "ai.stop": {
+        "string": "Stop"
+    },
+    "help_on_hover.select_and_move_objects": {
+        "string": "Select and move objects."
+    },
+    "help_on_hover.proportionally_resize_objects": {
+        "string": "Proportionally resize objects."
+    },
+    "help_on_hover.draw_containers_to_hold_designs": {
+        "string": "Draw containers to hold designs."
+    },
+    "help_on_hover.group_related_designs_to_organize_your_canvas_for_collaborators": {
+        "string": "Group related designs to organize your canvas for collaborators."
+    },
+    "help_on_hover.export_a_specific_part_of_your_design": {
+        "string": "Export a specific part of your design."
+    },
+    "help_on_hover.draw_vector_shapes_like_rectangles_circles_and_more": {
+        "string": "Draw vector shapes like rectangles, circles, and more."
+    },
+    "help_on_hover.draw_lines_between_two_points": {
+        "string": "Draw lines between two points."
+    },
+    "help_on_hover.draw_arrows_between_two_points": {
+        "string": "Draw arrows between two points."
+    },
+    "help_on_hover.add_images_or_video_to_your_design": {
+        "string": "Add images or video to your design."
+    },
+    "help_on_hover.draw_vector_shapes_and_paths": {
+        "string": "Draw vector shapes and paths."
+    },
+    "help_on_hover.draw_freehand_sketches": {
+        "string": "Draw freehand sketches."
+    },
+    "help_on_hover.add_a_text_box": {
+        "string": "Add a text box."
+    },
+    "help_on_hover.run_plugins_and_widgets_or_add_components_from_libraries": {
+        "string": "Run plugins and widgets, or add components from libraries."
+    },
+    "help_on_hover.navigate_the_canvas": {
+        "string": "Navigate the canvas."
+    },
+    "help_on_hover.leave_notes_or_tag_collaborators": {
+        "string": "Leave notes or tag collaborators."
+    },
+    "fullscreen.filename_view.free": {
+        "string": "Free"
+    },
+    "fullscreen.filename_view.pro_trial": {
+        "string": "Pro trial"
+    },
+    "fullscreen.filename_view.trial_expired": {
+        "string": "Trial expired"
+    },
+    "fullscreen.filename_view.locked": {
+        "string": "Locked"
+    },
+    "fullscreen.file_tracker_modal.num_files_of_max_free_files_created": {
+        "string": "{numFiles} of {maxFreeFiles} free files created."
+    },
+    "fullscreen.file_tracker_modal.this_is_your_last_free_file": {
+        "string": "This is your last free file."
+    },
+    "fullscreen.file_tracker_modal.starter_plans_are_free_but_they_limit_you_to_just_max_free_files": {
+        "string": "{maxFreeFiles, plural, one {Starter plans are free but they limit you to just {maxFreeFiles} file. Upgrade for: }other {Starter plans are free but they limit you to just {maxFreeFiles} files. Upgrade for: }}"
+    },
+    "fullscreen.file_tracker_modal.max_free_files_already_you_are_becoming_a_pro": {
+        "string": "{maxFreeFiles, plural, one {{maxFreeFiles} file already? You’re becoming a pro. You’ve hit the limit for free files, but you can upgrade for:} other {{maxFreeFiles} files already? You’re becoming a pro. You’ve hit the limit for free files, but you can upgrade for:}}"
+    },
+    "fullscreen.file_tracker_modal.compare_plans": {
+        "string": "Compare plans"
+    },
+    "fullscreen.file_tracker_modal.unlimited_files_pages": {
+        "string": "Unlimited files, pages"
+    },
+    "fullscreen.file_tracker_modal.audio_conversations_in_files": {
+        "string": "Audio conversations in files"
+    },
+    "fullscreen.file_tracker_modal.unlimited_version_history_and_more": {
+        "string": "Unlimited version history and more…"
+    },
+    "fullscreen.pro_trial_upsell_modal.title": {
+        "string": "{numOfDaysLeft, plural, one {{numOfDaysLeft} day left in your trial} other {{numOfDaysLeft} days left in your trial}}"
+    },
+    "fullscreen.pro_trial_upsell_modal.description": {
+        "string": "Try out all the unlocked features, create lots of free files, and upgrade any time."
+    },
+    "fullscreen.pro_trial_upsell_modal.cta_text": {
+        "string": "Upgrade now"
+    },
+    "fullscreen.filename_view.hub_file_published_at": {
+        "string": "{publish_date, date, medium}"
+    },
+    "community.tooltip.this_community_file_is_currently_blocked": {
+        "string": "This Community file is currently blocked"
+    },
+    "community.tooltip.this_community_file_is_currently_unverified": {
+        "string": "This Community file is in review"
+    },
+    "fullscreen.toolbar.request.request_sent": {
+        "string": "Request sent"
+    },
+    "fullscreen.toolbar.still_waiting_to_edit": {
+        "string": "Still waiting to edit?"
+    },
+    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_this_board": {
+        "string": "Send your admins a reminder to approve your request so you can edit this board."
+    },
+    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_files": {
+        "string": "Send your admins a reminder to approve your request so you can edit files."
+    },
+    "fullscreen.toolbar.send_a_reminder": {
+        "string": "Send a reminder"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_your_admins_we_ll_let_you_know_as_soon_as_they_approve_it": {
+        "string": "We've sent your request to your admins. We'll let you know as soon as they approve it."
+    },
+    "fullscreen.toolbar.we_ve_sent_your_admins_a_reminder_we_ll_let_you_know_as_soon_as_they_respond": {
+        "string": "We've sent your admins a reminder. We'll let you know as soon as they respond."
+    },
+    "admin_dashboard.requests.error_generic": {
+        "string": "Something went wrong"
+    },
+    "admin_dashboard.requests.error_reload": {
+        "string": "Reload"
+    },
+    "fullscreen.toolbar.reminder_sent": {
+        "string": "Reminder sent."
+    },
+    "general.recovery_mode": {
+        "string": "Recovery Mode"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "whiteboard.mini_home.starred_section_title": {
+        "string": "Starred"
+    },
+    "whiteboard.mini_home.starter_files.title": {
+        "string": "Kick off your next FigJam"
+    },
+    "whiteboard.mini_home.starter_files.description": {
+        "string": "Check out the toolkits that we’ve prepared for your next file."
+    },
+    "whiteboard.mini_home.starter_files.diagramming_101.title": {
+        "string": "Diagramming 101"
+    },
+    "whiteboard.mini_home.starter_files.whiteboard_101.title": {
+        "string": "Whiteboard 101"
+    },
+    "whiteboard.mini_home.starter_files.figjam_tips.title": {
+        "string": "FigJam Tips"
+    },
+    "whiteboard.mini_home.file_folder_drafts": {
+        "string": "Drafts"
+    },
+    "whiteboard.editor_file_create_button.back_button_tooltip": {
+        "string": "Back to files"
+    },
+    "whiteboard.editor_file_create_button.back_button_aria_label": {
+        "string": "Editor file create back button"
+    },
+    "whiteboard.starter_kit.close": {
+        "string": "Close"
+    },
+    "whiteboard.starter_kit.title": {
+        "string": "Ahh, a fresh new file!"
+    },
+    "whiteboard.starter_kit.subtitle": {
+        "string": "Use the ↑↓ keys to pick a starting layout."
+    },
+    "whiteboard.starter_kit.options.brainstorm": {
+        "string": "Brainstorm"
+    },
+    "whiteboard.starter_kit.options.agenda": {
+        "string": "Agenda"
+    },
+    "whiteboard.starter_kit.options.flow": {
+        "string": "Flowchart"
+    },
+    "whiteboard.starter_kit.options.bug_bash": {
+        "string": "Bug bash"
+    },
+    "whiteboard.starter_kit.options.design_crit": {
+        "string": "Design crit"
+    },
+    "whiteboard.starter_kit.options.user_journey": {
+        "string": "User journey"
+    },
+    "whiteboard.starter_kit.standup.title": {
+        "string": "Standup"
+    },
+    "whiteboard.starter_kit.options.retro": {
+        "string": "Retrospective"
+    },
+    "whiteboard.starter_kit.options.templates": {
+        "string": "More templates"
+    },
+    "universal_upgrade.select_team.editor_count.seat_rename": {
+        "string": "{editors, plural, one {# seat} other {# seats}}"
+    },
+    "universal_upgrade.select_team.files_per_team_figma_files_used": {
+        "string": "{numFilesUsed} of {numFreeFilesAllowed} Figma files used"
+    },
+    "universal_upgrade.select_team.upgrade": {
+        "string": "Upgrade"
+    },
+    "flash.redeem_promo.success": {
+        "string": "{teamName} successfully upgraded to the Professional plan"
+    },
+    "flash.redeem_promo.failure": {
+        "string": "Unable to redeem the promo code."
+    },
+    "payments.pro_trial.start_pro_trial_success": {
+        "string": "Success! Welcome to your Professional team trial"
+    },
+    "payments.pro_trial.start_pro_trial_error": {
+        "string": "An error occurred while trying to grant this Professional team trial"
+    },
+    "flash.successfully_upgraded_to_a_professional_team": {
+        "string": "Successfully upgraded to a Professional team"
+    },
+    "workspace.you_joined_the_workspace": {
+        "string": "You joined the {groupName} workspace"
+    },
+    "workspace.an_error_occurred_while_submitting_your_workspace_selection": {
+        "string": "An error occurred while submitting your workspace selection"
+    },
+    "workspace.succesfully_updated_default_teams": {
+        "string": "Succesfully updated default teams"
+    },
+    "workspace.failed_to_update_default_teams_please_try_again": {
+        "string": "Failed to update default teams. Please try again."
+    },
+    "org_self_serve.review_step.details": {
+        "string": "Details"
+    },
+    "org_self_serve.review_step.organization_details": {
+        "string": "Organization details"
+    },
+    "org_self_serve.review_step.company_legal_name": {
+        "string": "Company legal name"
+    },
+    "org_self_serve.review_step.company_name": {
+        "string": "Company name"
+    },
+    "org_self_serve.review_step.display_name": {
+        "string": "Display name"
+    },
+    "org_self_serve.review_step.company_display_name": {
+        "string": "Company display name"
+    },
+    "org_self_serve.review_step.domain": {
+        "string": "Domain"
+    },
+    "org_self_serve.review_step.teams": {
+        "string": "Teams"
+    },
+    "org_self_serve.review_step.billing_email": {
+        "string": "Billing email"
+    },
+    "org_self_serve.review_step.edit_organization": {
+        "string": "Edit organization"
+    },
+    "org_self_serve.review_step.billing_address": {
+        "string": "Billing address"
+    },
+    "org_self_serve.review_step.shipping_address": {
+        "string": "Shipping address"
+    },
+    "org_self_serve.review_step.edit_payment": {
+        "string": "Edit payment"
+    },
+    "pro_cart.review.details": {
+        "string": "Details"
+    },
+    "pro_cart.review.team_name": {
+        "string": "Team name"
+    },
+    "pro_cart.review.company_name": {
+        "string": "Company name"
+    },
+    "pro_cart.review.billing_address": {
+        "string": "Billing address"
+    }
+}

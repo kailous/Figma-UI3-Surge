@@ -1,0 +1,152 @@
+{
+    "dev_handoff.configuration_wizard.install_extensions_step.description": {
+        "string": "Integrations keep projects moving, even when you're not in Figma."
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode": {
+        "string": "Figma for VS Code"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode_description": {
+        "string": "Get code suggestions, inspect designs, post comments, and more—all from VS Code."
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode_install": {
+        "string": "Get extension"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging": {
+        "string": "Slack and Microsoft Teams"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_description": {
+        "string": "Stay in the loop on the latest changes to your Figma files and projects."
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install": {
+        "string": "Install"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install.figma_for_slack": {
+        "string": "Figma for Slack"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install.figma_for_teams": {
+        "string": "Figma for Microsoft Teams"
+    },
+    "dev_handoff.configuration_wizard.theme_step.title": {
+        "string": "Set your color theme"
+    },
+    "dev_handoff.configuration_wizard.theme_step.description": {
+        "string": "Light, dark, or let your system decide?"
+    },
+    "dev_handoff.configuration_wizard.welcome_step.title": {
+        "string": "A new home for developers in Figma"
+    },
+    "dev_handoff.configuration_wizard.welcome_step.description": {
+        "string": "Dev Mode makes it easy to find the details you need to start building. We’re so excited to show you around."
+    },
+    "dev_handoff.paywall.toggle_disabled_for_personal_drafts": {
+        "string": "To use Dev Mode in this file, move it to a paid team"
+    },
+    "dev_handoff.paywall.toggle_disabled_go_to_drafts_to_move": {
+        "string": "Visit Drafts to Move"
+    },
+    "dev_handoff.paywall.toggle_disabled_while_file_is_being_moved": {
+        "string": "This file is being moved. Dev Mode will be available soon."
+    },
+    "dev_handoff.paywall.toggle_disabled_for_personal_drafts_pre_ps": {
+        "string": "To use Dev Mode in this file, move it to a paid team"
+    },
+    "dev_handoff.paywall.toggle_disabled_move_link": {
+        "string": "Move file"
+    },
+    "dev_handoff.paywall.toggle_disabled_moving_disabled": {
+        "string": "To use Dev Mode in this file, it needs to be moved to a paid team."
+    },
+    "dev_handoff.paywall.external_content_control_hint": {
+        "string": "Due to policies set by admins, you cannot access Dev Mode in this file"
+    },
+    "dev_handoff.paywall.team_not_member_hint": {
+        "string": "You cannot access Dev Mode in this file without being a member of this team"
+    },
+    "slides.toolbar.view_mode": {
+        "string": "View mode"
+    },
+    "slides.toolbar.single_slide_view_toggle": {
+        "string": "Slide view"
+    },
+    "slides.toolbar.grid_view_toggle": {
+        "string": "Grid view"
+    },
+    "voting.modal.delete_voting_session_modal_header": {
+        "string": "Delete results?"
+    },
+    "voting.modal.delete_voting_session_modal_description": {
+        "string": "The results from this vote will be permanently deleted. This can’t be undone."
+    },
+    "voting.modal.delete_voting_session_modal_confirm_button": {
+        "string": "Delete results"
+    },
+    "voting.modal.delete_voting_session_modal_cancel_button": {
+        "string": "Cancel"
+    },
+    "voting.modal.previous_votes_null_text_title": {
+        "string": "Nothing yet"
+    },
+    "voting.modal.after_you_vote_results_will_show_up_right_here": {
+        "string": "After you vote, results will show up right here."
+    },
+    "voting.modal.voted": {
+        "string": "{numVotes} voted"
+    },
+    "voting.modal.during_voting_no_ones_voted": {
+        "string": "No one’s voted"
+    },
+    "voting.modal.after_voting_no_one_voted": {
+        "string": "No one voted"
+    },
+    "voting.modal.end_for_all": {
+        "string": "End for all"
+    },
+    "voting.modal.end_disabled_logged_out_tooltip": {
+        "string": "To end a vote, you’ll need to sign in"
+    },
+    "dev_handoff.workflows.overview.onboarding.primary_cta": {
+        "string": "Got it"
+    },
+    "dev_handoff.workflows.overview.onboarding.secondary_cta": {
+        "string": "Learn more"
+    },
+    "dev_handoff.workflows.overview.onboarding.first_rfd.title": {
+        "string": "Ready for dev—now all in one place"
+    },
+    "dev_handoff.workflows.overview.onboarding.has_rfd.title": {
+        "string": "Review everything ready for dev"
+    },
+    "dev_handoff.workflows.overview.onboarding.first_rfd.description": {
+        "string": "Manage all designs in this file marked ready for dev in one central view."
+    },
+    "dev_handoff.workflows.overview.onboarding.has_rfd.dev_mode.description": {
+        "string": "Inspect what’s ready, track updates, and get to building—all in one place."
+    },
+    "dev_handoff.workflows.overview.onboarding.has_rfd.design.description": {
+        "string": "Track all designs in this file marked ready for dev in one central view."
+    },
+    "dev_handoff.docs.show_full": {
+        "string": "Show full documentation"
+    },
+    "design_systems.playground.unable_to_load": {
+        "string": "Unable to load"
+    },
+    "design_systems.playground.unable_to_load_while_offline": {
+        "string": "Unable to load while offline"
+    },
+    "design_systems.playground.unable_to_load_thumbnail": {
+        "string": "Unable to load thumbnail"
+    },
+    "design_systems.playground.unable_to_load_help_text": {
+        "string": "Something went wrong. Try closing this window and reselecting the component."
+    },
+    "design_systems.playground.unable_to_load_while_offline_help_text": {
+        "string": "Try reconnecting to view component properties."
+    },
+    "design_systems.playground.unable_to_load_thumbnail_help_hext": {
+        "string": "We sometimes can't display thumbnails for complicated components."
+    },
+    "design_systems.assets_panel.insert_template": {
+        "string": "Insert template"
+    }
+}

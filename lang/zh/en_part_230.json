@@ -1,0 +1,152 @@
+{
+    "variables.create_modal.invalid_variable_name": {
+        "string": "Invalid variable name"
+    },
+    "payments.errors.estimate_calculation_error": {
+        "string": "There was an issue with calculating your estimated total. Please try again."
+    },
+    "pro_cart.add_collaborators.add_collaborators_to_your_team": {
+        "string": "Add collaborators to your team"
+    },
+    "pro_cart.add_collaborators.well_add_them_to_your_team": {
+        "string": "We’ll add them to your team once they sign up"
+    },
+    "pro_cart.add_collaborators.add_another": {
+        "string": "+ Add another"
+    },
+    "pro_cart.add_collaborators.sent_invites": {
+        "string": "Send invites"
+    },
+    "pro_cart.add_collaborators.skip_for_now": {
+        "string": "Skip for now"
+    },
+    "pro_cart.add_collaborators.email": {
+        "string": "Email"
+    },
+    "keyboard_settings.new_keyboard_name_keyboard_shortcuts_are_available": {
+        "string": "{newKeyboardName} keyboard shortcuts are available"
+    },
+    "keyboard_settings.update_keyboard_shortcuts": {
+        "string": "Open keyboard settings"
+    },
+    "keyboard_settings.new_keyboard_name_keyboard_shortcuts_are_now_available": {
+        "string": "{newKeyboardName} keyboard shortcuts are now available"
+    },
+    "keyboard_settings.enable_and_show_new_shortcuts": {
+        "string": "Enable and show new shortcuts"
+    },
+    "whiteboard.open_sessions.expiry_modal_title": {
+        "string": "The {file_name} session is over"
+    },
+    "whiteboard.open_sessions.expiry_modal_subtext": {
+        "string": "Thanks for coming! Want to keep jamming? Sign up and try FigJam for free."
+    },
+    "fullscreen.fullscreen_view.context_menu.aria_label": {
+        "string": "Context menu"
+    },
+    "404.file_no_access.title": {
+        "string": "You don’t have access to this file"
+    },
+    "whiteboard.open_sessions.expiry_banner_title": {
+        "string": "This session is over"
+    },
+    "whiteboard.open_sessions.expiry_banner_prompt": {
+        "string": "Want to keep working? Just click Edit File."
+    },
+    "whiteboard.gif.failed_to_load": {
+        "string": "Could not play this GIF"
+    },
+    "whiteboard.video.failed_to_load": {
+        "string": "Could not play this video"
+    },
+    "whiteboard.video.still_uploading": {
+        "string": "Still uploading—this may take a minute."
+    },
+    "fullscreen.accessibility.main_region": {
+        "string": "Board"
+    },
+    "whiteboard.embeds.tooltip_help_text.video": {
+        "string": "When you click play, the video plays just for you."
+    },
+    "whiteboard.embeds.tooltip_help_text.audio": {
+        "string": "When you click play, the audio plays just for you."
+    },
+    "whiteboard.embeds.tooltip_help_text.file": {
+        "string": "This preview is unique to you. If you play any media, others won't see or hear it."
+    },
+    "whiteboard.embeds.tooltip_help_text.generic": {
+        "string": "This preview is unique to you. If you play any media, others won't see or hear it."
+    },
+    "whiteboard.embeds.embed_overlay_iframe_title": {
+        "string": "Figma embedded content"
+    },
+    "proto.interaction_details.header": {
+        "string": "Interaction"
+    },
+    "proto.prototype_panel.delete": {
+        "string": "Delete"
+    },
+    "proto.interaction_details.visual_bell.selected_n_matching_interactions": {
+        "string": "Selected {total_num_interactions} matching interactions"
+    },
+    "proto.interaction_details.select_n_matching_interactions": {
+        "string": "Select {total_num_interactions} matching interactions"
+    },
+    "whiteboard.inserts.add_template": {
+        "string": "Add template"
+    },
+    "whiteboard.reactive_guidance.view_only": {
+        "string": "Right now, you can only {permission}."
+    },
+    "whiteboard.reactive_guidance.view_only_permission": {
+        "string": "view"
+    },
+    "voting.stamp_tooltip.vote": {
+        "string": "{userName}’s vote"
+    },
+    "whiteboard.stamp.stamped_by_tooltip": {
+        "string": "stamped by {userName}"
+    },
+    "voting.stamp_tooltip.visitor_vote": {
+        "string": "Guest’s vote"
+    },
+    "voting.stamp_tooltip.visitor_with_org": {
+        "string": "Guest of {orgName}"
+    },
+    "voting.stamp_tooltip.visitor_without_org": {
+        "string": "Guest"
+    },
+    "voting.stamp_tooltip.old_stamp": {
+        "string": "Prehistoric stamp"
+    },
+    "upsell.history.upgrade_now": {
+        "string": "Upgrade now"
+    },
+    "whiteboard.paywall_upsell.draft.first.main": {
+        "string": "Invite anyone to jam with {purpleSection}"
+    },
+    "whiteboard.paywall_upsell.draft.first.main.purpleSection": {
+        "string": "open sessions"
+    },
+    "whiteboard.paywall_upsell.draft.second.main": {
+        "string": "{purpleSection} gets everyone on the same page"
+    },
+    "whiteboard.paywall_upsell.draft.second.main.purpleSection": {
+        "string": "Voting"
+    },
+    "whiteboard.paywall_upsell.draft.third.main": {
+        "string": "Talk things out with {purpleSection}"
+    },
+    "whiteboard.paywall_upsell.draft.third.main.purpleSection": {
+        "string": "audio chat"
+    },
+    "whiteboard.paywall_upsell.team.main": {
+        "string": "You've used {fileCount} free files"
+    },
+    "whiteboard.paywall_upsell.team.main.first": {
+        "string": "1 of 3"
+    },
+    "whiteboard.paywall_upsell.team.main.second": {
+        "string": "2 of 3"
+    }
+}

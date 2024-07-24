@@ -1,0 +1,152 @@
+{
+    "presets.mac_book": {
+        "string": "MacBook"
+    },
+    "presets.mac_book_pro": {
+        "string": "MacBook Pro"
+    },
+    "presets.surface_book": {
+        "string": "Surface Book"
+    },
+    "presets.i_mac": {
+        "string": "iMac"
+    },
+    "fullscreen_actions.expand-ui": {
+        "string": "Expand UI"
+    },
+    "fullscreen.menu.remove_mask": {
+        "string": "Remove mask"
+    },
+    "help_widget.menu.ui3_ai_waitlist_already_on": {
+        "string": "You're already on the waitlist"
+    },
+    "help_widget.menu.ui3_ai_waitlist_success": {
+        "string": "You've been added to the waitlist"
+    },
+    "common.close": {
+        "string": "Close"
+    },
+    "common.mixed": {
+        "string": "Mixed"
+    },
+    "community.seller.setup_complete": {
+        "string": "Setup complete"
+    },
+    "community.seller.head_back_to_figma_to_start_selling": {
+        "string": "Head back to Figma to start selling resources"
+    },
+    "community.buyer.return_to_desktop_app": {
+        "string": "Return to desktop app"
+    },
+    "figjam_try.template_creation_failed": {
+        "string": "Unable to duplicate template"
+    },
+    "figjam_try.failed_to_create_file": {
+        "string": "Failed to create file"
+    },
+    "desktop_new_tab.create_file_in": {
+        "string": "Create file in:"
+    },
+    "desktop_new_tab.drafts": {
+        "string": "Drafts"
+    },
+    "locked_org.description_no_other_accounts": {
+        "string": "Your {orgName} admins have started updates that may take a while to complete. Check back soon."
+    },
+    "locked_org.description_no_other_accounts_no_org": {
+        "string": "Your admins have started updates that may take a while to complete. Check back soon."
+    },
+    "locked_org.description": {
+        "string": "Your {orgName} admins have started updates that may take a while to complete. Check back soon, or work from another account in the meantime."
+    },
+    "locked_org.description_no_org": {
+        "string": "Your admins have started updates that may take a while to complete. Check back soon, or work from another account in the meantime."
+    },
+    "locked_org.title": {
+        "string": "Update in progress"
+    },
+    "locked_org.footer": {
+        "string": "Looking for a different account? {addAnotherLink}"
+    },
+    "locked_org.footer_button": {
+        "string": "Add it here"
+    },
+    "locked_org.footer_no_other_accounts": {
+        "string": "Want to work from another account in the meantime? {addAnotherLink}"
+    },
+    "locked_org.footer_no_other_accounts_button": {
+        "string": "Sign in here"
+    },
+    "desktop_new_tab.design_card.title": {
+        "string": "New design file"
+    },
+    "desktop_new_tab.design_card.subtitle": {
+        "string": "Design and prototype"
+    },
+    "desktop_new_tab.figjam_card.title": {
+        "string": "New FigJam board"
+    },
+    "desktop_new_tab.figjam_card.subtitle": {
+        "string": "Whiteboard and diagram"
+    },
+    "desktop_new_tab.slide_card.title": {
+        "string": "New slide deck"
+    },
+    "desktop_new_tab.slide_card.subtitle": {
+        "string": "Present and share"
+    },
+    "desktop_new_tab.sites_card.title": {
+        "string": "New website"
+    },
+    "desktop_new_tab.sites_card.subtitle": {
+        "string": "Build and publish"
+    },
+    "file_browser.creation_buttons.beta": {
+        "string": "Beta"
+    },
+    "file_browser.creation_buttons.alpha": {
+        "string": "Alpha"
+    },
+    "desktop_new_tab.recent_files_header": {
+        "string": "Recent files"
+    },
+    "desktop_new_tab.no_recent_files_header": {
+        "string": "No recent files"
+    },
+    "desktop_new_tab.last_viewed_header": {
+        "string": "Last viewed"
+    },
+    "desktop_new_tab.browser_more_recent_files_link": {
+        "string": "Browse more recent files"
+    },
+    "collaboration.branching.update": {
+        "string": "Update"
+    },
+    "design_systems.updates.publish": {
+        "string": "Publish…"
+    },
+    "collaboration.feedback.compare": {
+        "string": "Compare"
+    },
+    "org_admin_survey.figma_s_billing_model_is_fair": {
+        "string": "Figma's billing model is fair"
+    },
+    "org_admin_survey.figma_makes_it_efficient_to_give_users_the_access_they_need": {
+        "string": "Figma makes it efficient to give users the access they need"
+    },
+    "org_admin_survey.figma_makes_it_easy_to_manage_costs": {
+        "string": "Figma makes it easy to manage costs"
+    },
+    "org_admin_survey.n_a": {
+        "string": "N/A"
+    },
+    "org_admin_survey.strongly_disagree": {
+        "string": "Strongly disagree"
+    },
+    "org_admin_survey.disagree": {
+        "string": "Disagree"
+    },
+    "org_admin_survey.neither_agree_nor_disagree": {
+        "string": "Neither agree nor disagree"
+    }
+}

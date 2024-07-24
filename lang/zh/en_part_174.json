@@ -1,0 +1,152 @@
+{
+    "design_systems.states_panel.some_variants_have_the_same_property_values_applied": {
+        "string": "Some variants have the same property values applied. Change the values of these to resolve this."
+    },
+    "design_systems.states_panel.select_conflicting_variants": {
+        "string": "Select conflicting variants"
+    },
+    "design_systems.states_panel.some_variants_are_missing_properties": {
+        "string": "Some variants are missing properties."
+    },
+    "design_systems.states_panel.components_with_more_than_1000_variants_may_experience_performance_issues": {
+        "string": "Components with more than 1000 variants may experience performance issues. Try breaking out your variants into separate components."
+    },
+    "design_systems.states_panel.layer_has_invalid_name": {
+        "string": "{layers, plural, one {This layer has an invalid name. Make sure that all variant names are of the form:} other {These layers have invalid names. Make sure that all variant names are of the form:}}"
+    },
+    "design_systems.states_panel.the_properties_and_values_of_variant_are_conflicting": {
+        "string": "{variants, plural, one {The properties and values of this variant are conflicting. Change the applied values on this variant to resolve this.} other {The properties and values of these variants are conflicting. Change the applied values on this variant to resolve this.}}"
+    },
+    "design_systems.states_panel.variants_are_missing_one_or_more_properties": {
+        "string": "{variants, plural, one {This variant is missing one or more properties.} other {These variants are missing one or more properties.}}"
+    },
+    "fullscreen.properties_panel.stroke_settings.path_style": {
+        "string": "Path style"
+    },
+    "fullscreen.properties_panel.stroke_settings.stroke_style": {
+        "string": "Stroke style"
+    },
+    "fullscreen.properties_panel.stroke_settings.dash": {
+        "string": "Dash"
+    },
+    "fullscreen.properties_panel.stroke_settings.gap": {
+        "string": "Gap"
+    },
+    "fullscreen.properties_panel.stroke_settings.dashes": {
+        "string": "Dashes"
+    },
+    "fullscreen.properties_panel.stroke_settings.dash_cap": {
+        "string": "Dash cap"
+    },
+    "fullscreen.properties_panel.stroke_settings.join": {
+        "string": "Join"
+    },
+    "fullscreen.properties_panel.stroke_settings.miter_angle": {
+        "string": "Miter angle"
+    },
+    "fullscreen.properties_panel.stroke_settings.solid": {
+        "string": "Solid"
+    },
+    "fullscreen.properties_panel.stroke_settings.simple_dash": {
+        "string": "Dash"
+    },
+    "fullscreen.properties_panel.stroke_settings.custom": {
+        "string": "Custom"
+    },
+    "fullscreen.properties_panel.stroke_settings.none": {
+        "string": "None"
+    },
+    "fullscreen.properties_panel.stroke_settings.square": {
+        "string": "Square"
+    },
+    "fullscreen.properties_panel.stroke_settings.straight": {
+        "string": "Straight"
+    },
+    "fullscreen.properties_panel.stroke_settings.elbowed": {
+        "string": "Elbowed"
+    },
+    "fullscreen.properties_panel.stroke_settings.dash_gap": {
+        "string": "Dash, gap…"
+    },
+    "fullscreen.properties_panel.stroke_settings.line_arrow": {
+        "string": "Line arrow"
+    },
+    "fullscreen.properties_panel.stroke_settings.triangle_arrow": {
+        "string": "Triangle arrow"
+    },
+    "fullscreen.properties_panel.stroke_settings.reversed_triangle": {
+        "string": "Reversed triangle"
+    },
+    "fullscreen.properties_panel.stroke_settings.circle_arrow": {
+        "string": "Circle arrow"
+    },
+    "fullscreen.properties_panel.stroke_settings.diamond_arrow": {
+        "string": "Diamond arrow"
+    },
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_line": {
+        "string": "Line"
+    },
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_triangle": {
+        "string": "Triangle"
+    },
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_reversed": {
+        "string": "Reversed"
+    },
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_circle": {
+        "string": "Circle"
+    },
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_diamond": {
+        "string": "Diamond"
+    },
+    "fullscreen.properties_panel.stroke_settings.end_point": {
+        "string": "End point"
+    },
+    "fullscreen.properties_panel.stroke_settings.end_points": {
+        "string": "End points"
+    },
+    "fullscreen.properties_panel.stroke_settings.round_join": {
+        "string": "Round"
+    },
+    "fullscreen.properties_panel.stroke_settings": {
+        "string": "Stroke settings"
+    },
+    "fullscreen.properties_panel.stroke_settings.advanced_stroke": {
+        "string": "Advanced stroke"
+    },
+    "fullscreen.properties_panel.constraints_resizing_panel.hug": {
+        "string": "Hug"
+    },
+    "fullscreen.properties_panel.stack_panel.al.hug_with_value": {
+        "string": "Hug ({value})"
+    },
+    "fullscreen.properties_panel.constraints_resizing_panel.fill": {
+        "string": "Fill"
+    },
+    "fullscreen.properties_panel.stack_panel.al.fill_with_value": {
+        "string": "Fill ({value})"
+    },
+    "fullscreen.properties_panel.constraints_resizing_panel.hug_contents": {
+        "string": "Hug contents"
+    },
+    "fullscreen.properties_panel.constraints_resizing_panel.fill_container": {
+        "string": "Fill container"
+    },
+    "fullscreen.properties_panel.transform_panel.h": {
+        "string": "H"
+    },
+    "fullscreen.properties_panel.transform_panel.height": {
+        "string": "Height"
+    },
+    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizing": {
+        "string": "Vertical resizing"
+    },
+    "fullscreen.properties_panel.transform_panel.height_min_max": {
+        "string": "Height + min/max height"
+    },
+    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizingMinMaxH": {
+        "string": "Vertical resizing + min/max height"
+    },
+    "fullscreen.properties_panel.transform_panel.height_min": {
+        "string": "Height + min height"
+    }
+}

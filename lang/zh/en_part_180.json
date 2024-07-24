@@ -1,0 +1,152 @@
+{
+    "bug_reporter.modal.title_placeholder": {
+        "string": "A short description of the bug"
+    },
+    "bug_reporter.modal.description_placeholder": {
+        "string": "Provide detailed information about the bug, including steps to reproduce, expected/actual results, links, and screenshots (paste or upload below)."
+    },
+    "bug_reporter.modal.include_filekey": {
+        "string": "Include file URL in bug report"
+    },
+    "bug_reporter.modal.submit": {
+        "string": "Submit bug report"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.label": {
+        "string": "Preferred color profile:"
+    },
+    "fullscreen.color_management.user_color_profile_modal.descriptions.affected_files": {
+        "string": "This preference applies to new Figma files."
+    },
+    "fullscreen.color_management.user_color_profile_modal.info.srgb_supported": {
+        "string": "Your display supports sRGB."
+    },
+    "fullscreen.color_management.user_color_profile_modal.info.display_p3_supported": {
+        "string": "Your display supports Display P3."
+    },
+    "fullscreen.color_management.user_color_profile_modal.client_type.desktop_app": {
+        "string": "client"
+    },
+    "fullscreen.color_management.user_color_profile_modal.client_type.browser": {
+        "string": "browser"
+    },
+    "fullscreen.color_management.beta.warning.desktop_unmanaged": {
+        "string": "As a beta participant, you'll need to restart your desktop app to use this feature."
+    },
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.client": {
+        "string": "Your {client} can’t support Display P3, but you can still export using this profile."
+    },
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.alternative_display": {
+        "string": "Switch to your {displayName} display for Display P3 support."
+    },
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.display": {
+        "string": "Your display can’t support Display P3, but you can still export using this profile."
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.srgb.description": {
+        "string": "sRGB is best when designing for a variety of devices, but has a smaller color spectrum than Display P3."
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.display_p3.description": {
+        "string": "Best for Apple devices, Display P3 has a broader color spectrum—but isn’t recommended for web design."
+    },
+    "fullscreen.color_management.user_color_profile_modal.title": {
+        "string": "Color profile settings"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.srgb.value": {
+        "string": "sRGB"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.display_p3.value": {
+        "string": "Display P3"
+    },
+    "dev_mode_opt_in.modal.header": {
+        "string": "Start managing Dev Mode access"
+    },
+    "dev_mode_opt_in.modal.subheader_with_seats": {
+        "string": "Accept Dev Mode’s updated terms of service to approve requests."
+    },
+    "dev_mode_opt_in.modal.subheader": {
+        "string": "After reviewing this info, you’ll be ready to manage Dev Mode seats in the admin dashboard. Here’s how you can give your teammates access:"
+    },
+    "dev_mode_opt_in.modal.pricing.with_design.main_text": {
+        "string": "A full Design seat"
+    },
+    "dev_mode_opt_in.modal.pricing.with_design.sub_text": {
+        "string": "Figma Design with Dev Mode included for free"
+    },
+    "dev_mode_opt_in.modal.pricing.dev_mode_only.main_text": {
+        "string": "Dev Mode-only seat"
+    },
+    "dev_mode_opt_in.modal.pricing.dev_mode_only.sub_text": {
+        "string": "Full access to Dev Mode for less than a Design seat"
+    },
+    "dev_mode_opt_in.modal.description_question": {
+        "string": "How will my organization be billed for Dev Mode seats?"
+    },
+    "dev_mode_opt_in.modal.description_provision": {
+        "string": "Now that Dev Mode is out of beta, any Dev Mode seats provisioned after today are subject to Dev Mode pricing found at {pricingLink}. You're on an {plan} plan, which means Dev Mode users will cost {price} per Dev Mode user per month. Any new seats will be added to your current subscription, meaning they’ll continue for the duration of your existing contract with Figma and will be subject to the same terms (including any auto-renewal terms). You will be charged a prorated amount applicable to the balance of your current subscription period for any Dev Mode seats in your account on your next billing date. Like your other Figma subscriptions, Dev Mode seats are also subject to true-ups. For more information see our {billingLink}."
+    },
+    "dev_mode_opt_in.modal.agree_with_seats": {
+        "string": "Agree & upgrade"
+    },
+    "dev_mode_opt_in.modal.agree": {
+        "string": "Agree & continue"
+    },
+    "dev_mode_opt_in.modal.not_now": {
+        "string": "Not now"
+    },
+    "dev_mode_opt_in.modal.failed_to_agree_to_opt_in": {
+        "string": "Couldn’t accept terms"
+    },
+    "dev_mode_opt_in.modal.upgrade_seats_error": {
+        "string": "{seatCount, plural, one {Couldn’t upgrade seat} other {Couldn’t upgrade seats}}"
+    },
+    "dev_mode_opt_in.modal.upgraded_seats": {
+        "string": "{seatCount, plural, one { 1 seat upgraded} other {{seatCount} seats upgraded}}"
+    },
+    "dev_mode_opt_in.modal.guide_to_dev_mode_billing": {
+        "string": "guide to Dev Mode billing"
+    },
+    "dev_mode_opt_in.modal.org": {
+        "string": "Organization"
+    },
+    "dev_mode_opt_in.modal.ent": {
+        "string": "Enterprise"
+    },
+    "memory_warning_modal.desktop_app_download_link": {
+        "string": "Figma desktop app"
+    },
+    "memory_warning_modal.old_browser_out_of_memory_modal_content_cta_and_download_desktop": {
+        "string": "Try updating your browser to the latest version or open this file in the {desktopAppLink} to recover content in this file."
+    },
+    "memory_warning_modal.reload_modal_title": {
+        "string": "Reload this file"
+    },
+    "memory_warning_modal.reload_modal_content": {
+        "string": "This file has run out of browser memory. Try reloading the file."
+    },
+    "memory_warning_modal.reload_modal_content_cta": {
+        "string": "If the problem persists, ask the file owner to reduce memory usage by moving some of the content into a new file."
+    },
+    "memory_warning_modal.reload_page_button": {
+        "string": "Reload page"
+    },
+    "memory_warning_modal.learn_more": {
+        "string": "Learn more"
+    },
+    "memory_warning_modal.recovery_mode_modal_title": {
+        "string": "Open this file in recovery mode"
+    },
+    "memory_warning_modal.recovery_mode_modal_out_of_memory": {
+        "string": "This file has run out of browser memory. Your work isn’t lost, but you won’t be able to use this file unless memory usage is reduced."
+    },
+    "memory_warning_modal.recovery_mode_modal_content": {
+        "string": "In recovery mode, you can access tools and tips to reduce memory use and continue using the file safely."
+    },
+    "memory_warning_modal.recovery_mode_button": {
+        "string": "Open in recovery mode"
+    },
+    "memory_warning_modal.old_browser_out_of_memory_modal_title": {
+        "string": "This file has run out of browser memory"
+    },
+    "memory_warning_modal.old_browser_out_of_memory_modal_content": {
+        "string": "Your work isn’t lost, but you won’t be able to edit the file unless memory usage is reduced."
+    }
+}

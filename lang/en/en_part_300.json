@@ -1,0 +1,152 @@
+{
+    "resources_tab.approved_plugins.modal.cancel": {
+        "string": "Cancel"
+    },
+    "resources_tab.approved_plugins.modal.back": {
+        "string": "Back"
+    },
+    "resources_tab.approved_plugins.modal.save_changes": {
+        "string": "Save changes"
+    },
+    "resources_tab.approved_plugins.modal.search_workspaces": {
+        "string": "Search workspaces"
+    },
+    "resources_tab.approved_plugins.modal.individual_workspaces_approval_warning": {
+        "string": "A member requested to use this plugin in a draft file. Approving for individual workspaces will prevent the plugin from being usable in drafts."
+    },
+    "resources_tab.approved_widgets.modal.individual_workspaces_approval_warning": {
+        "string": "A member requested to use this widget in a draft file. Approving for individual workspaces will prevent the widget from being usable in drafts."
+    },
+    "resources_tab.approved_plugins.table.approved_for_all_workspaces": {
+        "string": "Approved for all workspaces"
+    },
+    "resources_tab.approved_plugins.table.approved_for_workspace": {
+        "string": "{numWorkspaces, plural, one  {Approved for {numWorkspaces} workspace} other {Approved for {numWorkspaces} workspaces}}"
+    },
+    "resources_tab.extension_request_sidebar.requests": {
+        "string": "Requests"
+    },
+    "resources_tab.extension_usage_data.usage": {
+        "string": "Usage"
+    },
+    "resources_tab.approved_plugins.modal.user_count": {
+        "string": "{count, plural, one {· {count} user} other {· {count} users}}"
+    },
+    "resources_tab.approved_plugins.modal.attribution_single_creator": {
+        "string": "By {creator}"
+    },
+    "resources_tab.approved_plugins.modal.attribution_two_creators": {
+        "string": "By {creator1} and {creator2}"
+    },
+    "resources_tab.approved_plugins.modal.attribution_multiple_creators": {
+        "string": "By {creator1} and others"
+    },
+    "resources_tab.approved_plugins.modal.security": {
+        "string": "Security"
+    },
+    "resources_tab.approved_plugins.modal.licenses": {
+        "string": "Licenses"
+    },
+    "resources_tab.approved_plugins.modal.show_less": {
+        "string": "Show less"
+    },
+    "resources_tab.approved_plugins.modal.show_more": {
+        "string": "Show more"
+    },
+    "resources_tab.approved_plugins.modal.try_it_out": {
+        "string": "Try it out"
+    },
+    "resources_tab.approved_plugins.modal.try_it_out_ecc_tooltip": {
+        "string": "Access to external files has been disabled for {orgName}."
+    },
+    "resources_tab.extension_revoke_modal.title": {
+        "string": "Revoke access for {extensionName}?"
+    },
+    "resources_tab.extension_revoke_modal.body.widget": {
+        "string": "This widget will no longer be available to everyone in {orgName}."
+    },
+    "resources_tab.extension_revoke_modal.body.plugin": {
+        "string": "This plugin will no longer be available to everyone in {orgName}."
+    },
+    "resources_tab.extension_revoke_modal.confirmation_button": {
+        "string": "Revoke"
+    },
+    "resources_tab.extension_usage_data.past_7_days": {
+        "string": "Past 7 days"
+    },
+    "resources_tab.extension_usage_data.past_30_days": {
+        "string": "Past 30 days"
+    },
+    "resources_tab.extension_usage_data.past_year": {
+        "string": "Past year"
+    },
+    "resources_tab.extension_usage_data.upgrade_enterprise_link": {
+        "string": "Upgrade to Enterprise plan"
+    },
+    "resources_tab.extension_usage_data.upgrade_enterprise_widgets": {
+        "string": "{upgradeLink} to view widget usage analytics"
+    },
+    "resources_tab.extension_usage_data.upgrade_enterprise_plugins": {
+        "string": "{upgradeLink} to view plugin usage analytics"
+    },
+    "resources_tab.extension_usage_data.placeholder_runs": {
+        "string": "-- runs"
+    },
+    "resources_tab.extension_usage_data.runs": {
+        "string": "{numberOfRuns, plural, one {{numberOfRuns} run} other {{numberOfRuns} runs}}"
+    },
+    "resources_tab.extension_usage_data.users": {
+        "string": "Users"
+    },
+    "resources_tab.extension_usage_data.workspaces": {
+        "string": "Workspaces"
+    },
+    "resources_tab.extension_usage_data.total_runs": {
+        "string": "Total Runs"
+    },
+    "extension_decline_modal.approved_access_workspace": {
+        "string": "Approved access to {workspace}"
+    },
+    "extension_decline_modal.approved_access_org": {
+        "string": "Approved access to organization"
+    },
+    "extension_decline_modal.declined_request": {
+        "string": "Declined request"
+    },
+    "extension_decline_modal.revoked_access_workspace": {
+        "string": "Revoked access to {workspace}"
+    },
+    "extension_decline_modal.revoked_access_org": {
+        "string": "Revoked access to organization"
+    },
+    "extension_decline_modal.add_access_workspace": {
+        "string": "Add access to {workspace}"
+    },
+    "extension_decline_modal.add_access_org": {
+        "string": "Add access to organization"
+    },
+    "resources_tab.libraries.no_subscriptions": {
+        "string": "—"
+    },
+    "resources_tab.libraries.two_or_more_workspaces": {
+        "string": "{extraWorkspaceNum, plural, one {{workspaceNames}, +1 other workspace} other {{workspaceNames}, +{extraWorkspaceNum} other workspaces}}"
+    },
+    "resources_tab.libraries.name": {
+        "string": "Library name"
+    },
+    "resources_tab.libraries.enabled_for": {
+        "string": "Enabled for"
+    },
+    "resources_tab.libraries.components": {
+        "string": "Components"
+    },
+    "resources_tab.libraries.styles": {
+        "string": "Styles"
+    },
+    "resources_tab.libraries.search.no_results": {
+        "string": "No libraries match your search query. Try your search again."
+    },
+    "resources_tab.libraries.filter.no_results": {
+        "string": "No libraries match the selected filters."
+    }
+}

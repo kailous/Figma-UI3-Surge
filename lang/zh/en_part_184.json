@@ -1,0 +1,152 @@
+{
+    "sidebar.import": {
+        "string": "Import…"
+    },
+    "file_browser.tool_bar.new_design_file": {
+        "string": "Design file"
+    },
+    "file_browser.tool_bar.new_figjam_board": {
+        "string": "FigJam board"
+    },
+    "file_browser.tool_bar.new_slide_deck": {
+        "string": "Slide deck"
+    },
+    "sites.toolbar.new_site_file": {
+        "string": "Website"
+    },
+    "file_browser.folder.import": {
+        "string": "Import"
+    },
+    "universal_insert.more_options": {
+        "string": "More options"
+    },
+    "community.comments.learn_more_about_managing_comments_on_your_files_and_plugins_in_community": {
+        "string": "{learnMoreLink} about managing comments on your files and plugins in Community"
+    },
+    "community.comments.unrestrict": {
+        "string": "Unrestrict"
+    },
+    "community.comments.restrict": {
+        "string": "Restrict"
+    },
+    "settings_tab.community_commenters_label": {
+        "string": "Restricted commenters"
+    },
+    "community.comments.restricted_this_user_s_comments": {
+        "string": "Restricted this user's comments"
+    },
+    "community.comments.unrestricted_this_user_s_comments": {
+        "string": "Unrestricted this user's comments"
+    },
+    "community.comments.these_people_can_t_comment_on_any_of_profile_handles_community_files_and_plugins": {
+        "string": "These people can’t comment on any of @{profileHandle}'s Community files and plugins"
+    },
+    "community.comments.these_people_can_t_comment_on_any_of_your_community_files_and_plugins": {
+        "string": "These people can’t comment on any of your Community files and plugins"
+    },
+    "favorited_resources.create_a_new_section": {
+        "string": "Create a new section"
+    },
+    "project_menu.description": {
+        "string": "Description"
+    },
+    "project_menu.edit_description": {
+        "string": "Edit description"
+    },
+    "project_menu.add_description": {
+        "string": "Add description"
+    },
+    "sidebar.share": {
+        "string": "Share…"
+    },
+    "sidebar.move_project": {
+        "string": "Move…"
+    },
+    "sidebar.rename": {
+        "string": "Rename"
+    },
+    "sidebar.remove_from_favorites": {
+        "string": "Remove from favorites"
+    },
+    "sidebar.add_to_favorites": {
+        "string": "Add to favorites"
+    },
+    "project_menu.to_another_team_org": {
+        "string": "To another team/org"
+    },
+    "project_menu.ownership": {
+        "string": "Ownership"
+    },
+    "project_menu.copy": {
+        "string": "A copy"
+    },
+    "project_menu.transfer": {
+        "string": "Transfer"
+    },
+    "project_menu.pending_transfer_request": {
+        "string": "Pending transfer request…"
+    },
+    "project_menu.view_transfer_details": {
+        "string": "View details"
+    },
+    "project_menu.delete": {
+        "string": "Delete"
+    },
+    "sidebar.leave_shared_project": {
+        "string": "Leave shared project"
+    },
+    "file_browser.error_on_move_to_personal_project": {
+        "string": "Projects are no longer supported outside of teams, so you can't move a file into a personal project."
+    },
+    "sidebar.new_file": {
+        "string": "New file"
+    },
+    "file_browser.creates_new_file": {
+        "string": "Creates new file"
+    },
+    "swy_tile.shared": {
+        "string": "Shared "
+    },
+    "team_view.folder_list_card.number_of_files": {
+        "string": "{numFiles, plural, one {# file} other {# files}}"
+    },
+    "team_view.folder_list_card.last_updated_at": {
+        "string": " · Updated {lastUpdatedTime}"
+    },
+    "team_view.folder_list_card.owner_handle": {
+        "string": "{folderOwnerName} (owner)"
+    },
+    "org_billing_error_default": {
+        "string": "An error occurred while fetching billing data."
+    },
+    "auth.google-sso.unable-to-get-info": {
+        "string": "Unable to get profile information from Google"
+    },
+    "auth.error.account-not-found": {
+        "string": "Could not find that account; did you mean to sign up?"
+    },
+    "auth.google-sso.unable-to-auth": {
+        "string": "Unable to authenticate"
+    },
+    "recordings.browser_audio_permissions_error": {
+        "string": "Figma needs access to your microphone to create recordings. Please enable microphone access in your browser settings and try again"
+    },
+    "recordings.browser_audio_not_available_error": {
+        "string": "There needs to be at least one audio input device to make a recording"
+    },
+    "recordings.browser_device_general_error": {
+        "string": "There was an error when trying to access your media device"
+    },
+    "recordings.restart_modal_title": {
+        "string": "Restart recording"
+    },
+    "general.restart": {
+        "string": "Restart"
+    },
+    "recordings.restart_modal_confirmation": {
+        "string": "Are you sure you want to restart this recording?"
+    },
+    "recordings.save_recording": {
+        "string": "Save Recording"
+    }
+}

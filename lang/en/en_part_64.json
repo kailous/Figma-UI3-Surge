@@ -1,0 +1,152 @@
+{
+    "community.publishing.playground_file_for_widget": {
+        "string": "Add a playground file to show people how your widget works"
+    },
+    "community.publishing.playground_file_for_plugin": {
+        "string": "Add a playground file to show people how your plugin works"
+    },
+    "community.publishing.playground_file_add_button": {
+        "string": "Add"
+    },
+    "community.publishing.last_published_on_date_time": {
+        "string": "Last published on {dateTime}"
+    },
+    "community.publishing.drop_or_paste_your_icon_image_here_or_choose_a_file_from_your_computer": {
+        "string": "Drop or paste your icon image here, or {chooseFileLink} from your computer"
+    },
+    "community.publishing.choose_a_file": {
+        "string": "choose a file"
+    },
+    "community.publishing.publish_a_new_version": {
+        "string": "Publish a new version"
+    },
+    "community.publishing.submit_a_new_version": {
+        "string": "Submit a new version"
+    },
+    "community.publishing.resubmit_a_new_version": {
+        "string": "Resubmit a new version"
+    },
+    "community.publishing.update_section_label": {
+        "string": "Update"
+    },
+    "community.publishing.whats_changed_in_this_new_version": {
+        "string": "What's changed in this new version?"
+    },
+    "community.publishing.what_can_users_expect_in_this_current_version": {
+        "string": "What can users expect in this current version?"
+    },
+    "community.publishing.version_release_notes": {
+        "string": "Release notes"
+    },
+    "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed_reason": {
+        "string": "You’re about to publish as {newProfileName}. You won’t be able publish as {prevProfileName} again until you are granted permission to do so."
+    },
+    "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed": {
+        "string": "{profileName} profile will be removed"
+    },
+    "community.publishing.confirm_change_plugin_profile_modal.cta": {
+        "string": "Continue anyway"
+    },
+    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.widget": {
+        "string": "You're about to publish as {authorName}. Unless you add them as a member of {orgName} first, {publishers} won't have permission to update this widget going forward."
+    },
+    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.plugin": {
+        "string": "You're about to publish as {authorName}. Unless you add them as a member of {orgName} first, {publishers} won't have permission to update this plugin going forward."
+    },
+    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed": {
+        "string": "Permissions will be removed"
+    },
+    "community.publishing.confirm_remove_non_org_publishers_modal.publish_anyway": {
+        "string": "Publish anyway"
+    },
+    "community.seller.freemium_publishing_temporarily_restricted": {
+        "string": "Updating resources to use the Payments API is currently only enabled for certain resources. Please contact support@figma.com for more information"
+    },
+    "community.seller.publish_disclaimer_for_paid_plugins": {
+        "string": "Payment type can’t be changed after publishing. Also, charging for this resource now means you can't make it free later."
+    },
+    "community.seller.price_can_only_be_increased_by_50_percent_once_every_30_days": {
+        "string": "Price can only be increased by 50% once every 30 days."
+    },
+    "community.publishing.permissions.org_private_info_text": {
+        "string": "Anyone else who can update this resource, like teammates or other developers."
+    },
+    "community.publishing.people_given_update_permissions_are_not_visible_to_the_public": {
+        "string": "Anyone you invite can publish updates to this resource. Want to credit someone as a creator? Just add their name or handle under {createdByLink}."
+    },
+    "community.publishing.created_by_link": {
+        "string": "Created by"
+    },
+    "file_permissions_modal.send_invite": {
+        "string": "Invite"
+    },
+    "community.community": {
+        "string": "Community"
+    },
+    "community.publishing.public_everyone_in_the_world": {
+        "string": "Public: everyone in the world has access"
+    },
+    "community.publishing.private_only_people_at_org_entity": {
+        "string": "Private: only people at {orgName} have access"
+    },
+    "community.publishing.figma_reviews_all_resources_published_to_community_org_private.widget": {
+        "string": "Figma reviews all widgets published to Community. Your widget will stay privately published to {orgName} until it is approved—after that, it will be published to all Figma users and removed from {orgName}."
+    },
+    "community.publishing.figma_reviews_all_resources_published_to_community_org_private.plugin": {
+        "string": "Figma reviews all plugins published to Community. Your plugin will stay privately published to {orgName} until it is approved—after that, it will be published to all Figma users and removed from {orgName}."
+    },
+    "community.publishing.resources_published_to_the_public_will_be_reviewed.widget": {
+        "string": "Widgets published to the public will be reviewed by the Figma team. Once approved, your widget will be available to all Figma users."
+    },
+    "community.publishing.resources_published_to_the_public_will_be_reviewed.plugin": {
+        "string": "Plugins published to the public will be reviewed by the Figma team. Once approved, your plugin will be available to all Figma users."
+    },
+    "community.publishing.publish_to": {
+        "string": "Publish to"
+    },
+    "community.publishing.publish_details": {
+        "string": "Details"
+    },
+    "community.publishing.data_security_tab": {
+        "string": "Data security"
+    },
+    "community.publishing.permissions_tab": {
+        "string": "Permissions"
+    },
+    "community.publishing.publish_plugin": {
+        "string": "Publish plugin"
+    },
+    "community.publishing.created_by": {
+        "string": "Created by"
+    },
+    "community.seller.give_yearly_discount": {
+        "string": "Give yearly discount"
+    },
+    "community.seller.add_percent": {
+        "string": "Add %"
+    },
+    "community.seller.percent_discount": {
+        "string": "% discount"
+    },
+    "community.publishing.data_security.initial": {
+        "string": "Add details that help users understand {buttonText}"
+    },
+    "community.publishing.data_security.opted_out.approved.widget": {
+        "string": "Once you publish this version, these details will be removed from your widget's Figma Community page."
+    },
+    "community.publishing.data_security.opted_out.approved.plugin": {
+        "string": "Once you publish this version, these details will be removed from your plugin's Figma Community page."
+    },
+    "community.publishing.data_security.opted_out.pending_rejected": {
+        "string": "Your submitted answers will be removed from the security self-assessment program."
+    },
+    "community.publishing.data_security.ready_to_submit": {
+        "string": "{buttonText} are complete and will be reviewed by Figma."
+    },
+    "community.publishing.data_security.number_of_errors": {
+        "string": "{num, plural, one {{num} error} other {{num} errors}}"
+    },
+    "community.publishing.data_security.pending": {
+        "string": "{buttonText} were submitted and are currently being reviewed by Figma."
+    }
+}

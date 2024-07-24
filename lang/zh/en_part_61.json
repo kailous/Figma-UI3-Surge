@@ -1,0 +1,152 @@
+{
+    "community.hub_file_viewer.zoom_in": {
+        "string": "Zoom in"
+    },
+    "community.hub_file_viewer.zoom_out": {
+        "string": "Zoom out"
+    },
+    "community.hub_file_viewer.zoom_to_fit": {
+        "string": "Zoom to fit"
+    },
+    "community.hub_file_viewer.zoom_to": {
+        "string": "Zoom to {percent}"
+    },
+    "community.hub_file_viewer.expand_file_preview": {
+        "string": "Expand file preview"
+    },
+    "community.hub_file_viewer.collapse_file_preview": {
+        "string": "Collapse file preview"
+    },
+    "community.hub_file_viewer.page": {
+        "string": "Page"
+    },
+    "community.hub_file_viewer.pages": {
+        "string": "Pages"
+    },
+    "community.hub_file_viewer.view_file_pages": {
+        "string": "View file pages"
+    },
+    "community.hub_file_viewer.select_zoom_level": {
+        "string": "Select zoom level"
+    },
+    "community.hub_file_viewer.zoom": {
+        "string": "Zoom: {percent}"
+    },
+    "community.publishing.you_are_publishing_to_the_org_profile": {
+        "string": "You are publishing as the {orgName} org profile"
+    },
+    "community.publishing.you_are_publishing_to_the_org_profile.fallback": {
+        "string": "You are publishing as the {org} profile"
+    },
+    "community.publishing.you_are_publishing_to_the_team_profile": {
+        "string": "You are publishing as the {teamName} team profile"
+    },
+    "community.publishing.you_are_publishing_to_the_team_profile.fallback": {
+        "string": "You are publishing as the {team} profile"
+    },
+    "community.publishing.you_are_publishing_to_user_profile": {
+        "string": "You are publishing as the {userName} profile"
+    },
+    "community.publish.fix_errors": {
+        "string": "Fix errors before publishing"
+    },
+    "community.seller.only_new_resources_can_be_sold_on_community": {
+        "string": "Only new resources can be sold on Community."
+    },
+    "general.learn_more": {
+        "string": "Learn more"
+    },
+    "community.seller.you_can_only_publish_paid_resources_from_a_personal_profile": {
+        "string": "You can only publish paid resources from a personal profile that is approved to sell on Community. {learnMoreLink}"
+    },
+    "community.seller.pricing_is_disabled_because_your_organization_does_not_allow": {
+        "string": "Pricing is disabled because your organization does not allow admins to publish to personal profiles. You can change this in the Admin settings. {learnMoreLink}"
+    },
+    "community.seller.only_explicit_owner_can_sell": {
+        "string": "You need to be the owner to sell a resource on Community."
+    },
+    "general.back": {
+        "string": "Back"
+    },
+    "community.publishing.our_team_will_review": {
+        "string": "Our team will review your resource in the next 3-7 business days."
+    },
+    "community.publishing.paid_resource_success_info": {
+        "string": "If everything looks good, it’ll go live on Community. We’ll get in touch if there’s an issue."
+    },
+    "community.publishing.your_file_will_soon_be_available_for_everyone_no_remix": {
+        "string": "Your file will soon be available for everyone in the Community to duplicate and share. Thanks for your contribution. You rock."
+    },
+    "community.publishing.feel_free_to_edit_your_page.file": {
+        "string": "In the meantime, feel free to edit your file's Community page. The page is private to you until the file goes live."
+    },
+    "community.publishing.help_people_discover_your_file": {
+        "string": "Help people discover your file:"
+    },
+    "community.publishing.review_our_community_guidelines": {
+        "string": "Review our {communityGuidelinesLink}"
+    },
+    "community.publishing.acceptable_use_policy": {
+        "string": "Acceptable Use Policy"
+    },
+    "community.publishing.community_guidelines": {
+        "string": "Community guidelines"
+    },
+    "community.publishing.changes_saved": {
+        "string": "Changes saved"
+    },
+    "community.error.profile_not_found": {
+        "string": "Profile not found"
+    },
+    "general.fallback_org_name": {
+        "string": "Org"
+    },
+    "general.fallback_user_name": {
+        "string": "User"
+    },
+    "general.save": {
+        "string": "Save"
+    },
+    "community.publishing.submit_for_review": {
+        "string": "Submit for review"
+    },
+    "community.publishing.publish": {
+        "string": "Publish"
+    },
+    "community.publishing.details": {
+        "string": "Details"
+    },
+    "community.publishing.advanced": {
+        "string": "Advanced"
+    },
+    "general.cancel": {
+        "string": "Cancel"
+    },
+    "community.seller.pricing_toggle_text_for_already_paid_resources": {
+        "string": "Once you publish a paid resource, you can't make it free again"
+    },
+    "community.publishing.edit_file_page": {
+        "string": "Edit file page"
+    },
+    "community.publishing.publish_file": {
+        "string": "Publish file"
+    },
+    "community.publishing.create_new_profile": {
+        "string": "Create new profile"
+    },
+    "community.publishing.connect_existing_profile": {
+        "string": "Connect existing profile"
+    },
+    "community.publishing.unable_to_connect_profiles": {
+        "string": "Unable to connect profiles"
+    },
+    "community.publishing.is_under_review.file": {
+        "string": "Your file is in review"
+    },
+    "community.publishing.congratulations": {
+        "string": "Congratulations!"
+    },
+    "community.publishing.view_page": {
+        "string": "View page"
+    }
+}

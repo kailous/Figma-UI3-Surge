@@ -1,0 +1,152 @@
+{
+    "team_view.upgrade.can_view_files_in_folder_view_roles_count_get_plural_or_singular_folder_edit_roles_count_project": {
+        "string": "{folderViewRolesCount, plural, one {Can view files in 1 project} other {Can view files in {folderViewRolesCount} projects}}"
+    },
+    "team_view.upgrade.can_view_viewable_file_count_get_plural_or_singular_viewable_file_count_file": {
+        "string": "{viewableFileCount, plural, one {Can view 1 file} other {Can view {viewableFileCount} files}}"
+    },
+    "team_view.upgrade.can_edit_files_in_folder_edit_roles_count_get_plural_or_singular_folder_edit_roles_count_project": {
+        "string": "{folderEditRolesCount, plural, one {Can edit files in 1 project} other {Can edit files in {folderEditRolesCount} projects}}"
+    },
+    "team_view.upgrade.can_edit_editable_file_count_get_plural_or_singular_editable_file_count_file": {
+        "string": "{editableFileCount, plural, one {Can edit 1 file} other {Can edit {editableFileCount} files}}"
+    },
+    "team_view.upgrade.can_view_files_in_folder_view_roles_count_get_plural_or_singular_folder_view_roles_count_project": {
+        "string": "{folderViewRolesCount, plural, one {Can view files in 1 project} other {Can view files in {folderViewRolesCount} projects}}"
+    },
+    "team_view.settings.see_edit_access": {
+        "string": "See edit access"
+    },
+    "team_view.settings.copy_email": {
+        "string": "Copy email"
+    },
+    "team_view.settings.invite_to_team": {
+        "string": "Invite to team"
+    },
+    "team_view.settings.resend_invite": {
+        "string": "Resend invite"
+    },
+    "team_view.settings.remove": {
+        "string": "Remove"
+    },
+    "team_view.settings.leave_team": {
+        "string": "Leave team"
+    },
+    "team_view.settings.pending": {
+        "string": "Pending"
+    },
+    "team_view.team_members_table.menu_paid_status_filter_selection_editor.seat_rename": {
+        "string": "Full"
+    },
+    "team_view.team_members_table.menu_paid_status_filter_selection_viewer": {
+        "string": "Viewers"
+    },
+    "team_view.team_members_table.member_filter_empty_reset_link": {
+        "string": "Reset filters"
+    },
+    "paid_status.editor.seat_rename": {
+        "string": "Full"
+    },
+    "paid_status.viewer": {
+        "string": "Viewer"
+    },
+    "paid_status.viewer_restricted": {
+        "string": "Viewer-restricted"
+    },
+    "team_view.settings.copy_get_plural_or_singular_selected_members_length_email": {
+        "string": "{numEmails, plural, one {Copy email} other {Copy emails}}"
+    },
+    "team_view.settings.you_can_only_remove_limit_users_at_a_time": {
+        "string": "You can only remove {batchLimit} users at a time."
+    },
+    "team_view.team_members_table.filters.last_active..more_than_7_days_ago": {
+        "string": "More than 7 days ago"
+    },
+    "team_view.team_members_table.filters.last_active..more_than_30_days_ago": {
+        "string": "More than 30 days ago"
+    },
+    "team_view.team_members_table.filters.last_active..more_than_3_months_ago": {
+        "string": "More than 3 months ago"
+    },
+    "team_view.team_members_table.filters.permissions.owner": {
+        "string": "Owner"
+    },
+    "team_view.team_members_table.filters.permissions.admin": {
+        "string": "Admin"
+    },
+    "team_view.team_members_table.filters.permissions.can_edit": {
+        "string": "Can edit"
+    },
+    "team_view.team_members_table.filters.permissions.can_view": {
+        "string": "Can view"
+    },
+    "team_view.team_members_table.filters.permissions.no_team_permissions": {
+        "string": "No team permissions"
+    },
+    "team_view.folder_upsell.professional_plan": {
+        "string": "Professional plan"
+    },
+    "team_view.folder_upsell.upgrade_to_create_more_projects": {
+        "string": "Upgrade to create more projects"
+    },
+    "team_view.folder_upsell.get_unlimited_everything": {
+        "string": "Get unlimited everything on the {professionalPlanLink}."
+    },
+    "navbar.navbar.browse_as_community_profile": {
+        "string": "Browsing as {activeCommunityProfile}"
+    },
+    "navbar.navbar.browse_as_admin": {
+        "string": "Browse as an admin"
+    },
+    "community.collections.frequently_asked_questions": {
+        "string": "Frequently asked questions"
+    },
+    "community.collections.curated_by": {
+        "string": "Curated by"
+    },
+    "community.collections.unpublished_banner.this_page_is_not_published": {
+        "string": "This collection page is not published."
+    },
+    "community.collections.unpublished_banner.only_admins_can_see_this_page": {
+        "string": "Only admins can see this page. To publish this page, use the admin portal"
+    },
+    "community.modal.creator_carousel_nux.add_image_and_video_previews": {
+        "string": "Add image and video previews to your resource pages"
+    },
+    "community.modal.creator_carousel_nux.drive_eyeballs_and_engagement": {
+        "string": "Drive eyeballs and engagement with our new media uploader."
+    },
+    "community.modal.creator_carousel_nux.update_my_resources": {
+        "string": "Update my resources"
+    },
+    "community.detail_view.tags": {
+        "string": "Tags"
+    },
+    "community.detail_view.accepted_creator_invite": {
+        "string": "Creator invite accepted!"
+    },
+    "community.detail_view.declined_creator_invite": {
+        "string": "Creator invite declined!"
+    },
+    "community.detail_view.you_have_been_added_as_a_creator_of_this_resource": {
+        "string": "You have been added as a creator of this resource."
+    },
+    "community.detail_view.accepted_publisher_invite": {
+        "string": "Publisher invite accepted!"
+    },
+    "community.detail_view.declined_publisher_invite": {
+        "string": "Publisher invite declined!"
+    },
+    "community.detail_view.you_have_been_added_as_a_publisher_of_this_resource": {
+        "string": "You have been added as a publisher of this resource."
+    },
+    "community.embed.preview_title_long": {
+        "string": "Community resource preview"
+    },
+    "community.promo.figjam_description_title": {
+        "string": "Made in FigJam"
+    },
+    "community.promo.figma_description_title": {
+        "string": "Made in Figma design"
+    }
+}

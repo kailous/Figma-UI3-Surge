@@ -1,0 +1,152 @@
+{
+    "orgs_middleware.deletion_request_submitted": {
+        "string": "Deletion request submitted"
+    },
+    "orgs_middleware.an_error_occurred_while_enqueeing_deletion_request": {
+        "string": "An error occurred while enqueeing a deletion request."
+    },
+    "orgs_middleware.user_data_deleted": {
+        "string": "User data deleted"
+    },
+    "org_invite.org_invite_update_success": {
+        "string": "Provisional user {email} updated."
+    },
+    "org_invite.org_invite_update_error": {
+        "string": "An error occurred while updating org invites."
+    },
+    "org_invite.invite_resent": {
+        "string": "Invite resent."
+    },
+    "org_invite.new_members_message": {
+        "string": "{numInvites, plural, one {{numInvites} person invited.} other {{numInvites} people invited.}}"
+    },
+    "org_invite.existing_members_message": {
+        "string": "{numExisting, plural, one {{numExisting} person already in the Organization.} other {{numExisting} people already in the Organization.}}"
+    },
+    "org_invite.org_invite_creation_error": {
+        "string": "An error occurred while creating org invites."
+    },
+    "org_invite.org_invite_deletion_success": {
+        "string": "Provisional user {email} removed"
+    },
+    "org_invite.org_invite_deletion_error": {
+        "string": "An error occurred while deleting org invites."
+    },
+    "org_team_actions.an_error_occurred_while_changing_team_s_org_access": {
+        "string": "An error occurred while changing this team's org access."
+    },
+    "org_team_actions.teams_were_unassigned": {
+        "string": "{numTeams, plural, one {1 team was unassigned} other {{numTeams} teams were unassigned}}"
+    },
+    "org_team_actions.an_error_occurred_while_unassigning_team_s_from_a_workspace": {
+        "string": "An error occurred while unassigning team(s) from a workspace."
+    },
+    "org_team_actions.teams_were_assigned_to_workspace": {
+        "string": "{numTeams, plural, one {1 team was assigned to {workspaceName}} other {{numTeams} teams were assigned to {workspaceName}}}"
+    },
+    "org_team_actions.an_error_occurred_while_assigning_team_s_to_a_workspace": {
+        "string": "An error occurred while assigning team(s) to a workspace."
+    },
+    "org_team_actions.an_error_occurred_while_fetching_teams": {
+        "string": "An error occurred while fetching teams."
+    },
+    "org_team_actions.an_error_occurred_while_joining_teams": {
+        "string": "An error occurred while joining teams."
+    },
+    "org_team_actions.an_error_occurred_while_joining": {
+        "string": "An error occurred while joining."
+    },
+    "org_team_actions.an_error_occurred_while_trying_to_fetch_this_team": {
+        "string": "An error occurred while trying to fetch this team."
+    },
+    "org_team_actions.an_error_occurred_while_trying_to_fetch_teams_within_the_organization": {
+        "string": "An error occurred while trying to fetch teams within the organization."
+    },
+    "org_user_actions.an_error_occurred": {
+        "string": "An error occurred."
+    },
+    "org_user_actions.an_error_occurred_closing_onboarding": {
+        "string": "An error occurred closing onboarding."
+    },
+    "org_user_actions.user_upgrade_request_submitted": {
+        "string": "Request submitted—you’ll be notified once an admin has responded."
+    },
+    "org_user_actions.upgrade_request_sent": {
+        "string": "Upgrade request sent."
+    },
+    "org_user_actions.an_error_occurred_requesting_account_type": {
+        "string": "An error occurred while requesting an account type."
+    },
+    "org_user_actions.you_successfully_left_organization": {
+        "string": "You successfully left {orgName} Organization."
+    },
+    "org_user_actions.an_error_occurred_leaving_organization": {
+        "string": "An error occurred while leaving {orgName} Organization."
+    },
+    "org_user_actions.an_error_occurred_updating_org_users": {
+        "string": "An error occurred while updating org users."
+    },
+    "org_user_actions.user_has_been_removed_from_organization": {
+        "string": "{deletedOrgUserCount, plural, one {1 person will be removed from this organization. This may take up to 10 minutes to complete.} other {{deletedOrgUserCount} people will be removed from this organization. This may take up to 10 minutes to complete.}}"
+    },
+    "org_user_actions.an_error_occurred_fetching_org_admins": {
+        "string": "An error occurred while fetching org admins."
+    },
+    "org_user_actions.an_error_occurred_fetching_org_users": {
+        "string": "An error occurred while fetching org users."
+    },
+    "file_browser.file_browser_actions.error_on_team_member_removal": {
+        "string": "An error occurred while removing a team member."
+    },
+    "file_browser.file_browser_actions.restore_team_success": {
+        "string": "Successfully restored team."
+    },
+    "file_browser.file_browser_actions.restore_team_error": {
+        "string": "Could not restore team: {errorMsg}"
+    },
+    "file_browser.file_browser_actions.unknown_error": {
+        "string": "Unknown error"
+    },
+    "file_browser.file_browser_actions.update_description_error": {
+        "string": "Unable to update description"
+    },
+    "settings_tab.ui_kits_disabled": {
+        "string": "UI kits disabled for all users"
+    },
+    "settings_tab.ui_kits_enabled": {
+        "string": "UI kits enabled for all users"
+    },
+    "file_browser.file_browser_actions.team_member_fetch_error": {
+        "string": "An error occurred while fetching the team members list. Please try again later."
+    },
+    "downgrade_member_visual_bell.text": {
+        "string": "{numMembers, plural, one {{userName}’s team permission has been downgraded to ‘can view’} other {{numMembers} users’ team permissions have been downgraded to ‘can view’}}"
+    },
+    "visual_bell.team_billing_contact_updated": {
+        "string": "Billing contact successfully updated."
+    },
+    "payments.change_billing_contact_error": {
+        "string": "An error occurred while updating the billing contact."
+    },
+    "flash.team_invoices_fetching_error": {
+        "string": "An error occurred while retrieving your invoices."
+    },
+    "flash.team_billing_summary_fetching_error": {
+        "string": "An error occurred while retrieving your billing summary."
+    },
+    "settings_table.update_team_profile": {
+        "string": "Update team profile"
+    },
+    "settings_table.edit_names": {
+        "string": "Edit names"
+    },
+    "flash.team_join_link_actions.invite_links_reset": {
+        "string": "Invite links reset"
+    },
+    "team_user.actions.team_members_request_to_upgrade_from_project_view_succeeded": {
+        "string": "Request submitted—you’ll be notified once an admin has responded."
+    },
+    "team_user.actions.team_members_request_to_upgrade_succeeded": {
+        "string": "Upgrade request sent."
+    }
+}

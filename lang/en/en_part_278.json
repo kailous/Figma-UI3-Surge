@@ -1,0 +1,152 @@
+{
+    "billing_group_admin_onboarding.step_one_description": {
+        "string": "Take a look at people who are still unassigned and move them over if they should be in your group."
+    },
+    "billing_group_admin_onboarding.step_two_heading.seat_rename": {
+        "string": "Quickly update people’s seats"
+    },
+    "billing_group_admin_onboarding.step_two_description.seat_rename": {
+        "string": "This is the go-to place for managing seats and tracking the total number of seats for each group."
+    },
+    "sidebar.admin_dashboard": {
+        "string": "Admin"
+    },
+    "onboarding_pointers.teams_access_onboarding": {
+        "string": "Filter teams by organization access, teams you're a member of, and teams without owners."
+    },
+    "workspace_admin.onboarding.step_one_heading": {
+        "string": "Add more teams to this workspace"
+    },
+    "workspace_admin.onboarding.step_one_description": {
+        "string": "Create new teams to keep projects and files organized as your workspace grows."
+    },
+    "workspace_admin.onboarding.step_two_heading": {
+        "string": "Check for unassigned teams"
+    },
+    "workspace_admin.onboarding.step_two_description": {
+        "string": "Some teams that should be in your workspace may be hiding out in the Unassigned tab. Move teams over at any time."
+    },
+    "members_table.idp_user.pending_invite": {
+        "string": "This user has a pending invite"
+    },
+    "members_table.idp_user.user_provisioned": {
+        "string": "This user is provisioned through SCIM. You can manage this user in your IdP."
+    },
+    "org_settings.remove_user_modal.information_text": {
+        "string": "{userCount, plural, one {This user's drafts will now live in {sharedProjects}, and can be moved or deleted by organization admins. } other {These users' drafts will now live in {sharedProjects}, and can be moved or deleted by organization admins. }}"
+    },
+    "org_settings.remove_user_modal.shared_projects": {
+        "string": "Shared projects"
+    },
+    "org_settings.remove_user_modal.downgrade_instead": {
+        "string": "{userCount, plural, one {Not ready to remove this user yet? {viewerRestricted} seats are free and require admin approval to upgrade.} other {Not ready to remove these users yet? {viewerRestricted} seats are free and require admin approval to upgrade.}}"
+    },
+    "org_settings.remove_user_modal.viewer_restricted": {
+        "string": "Viewer-restricted"
+    },
+    "confirm_account_change.upgrade.all_licenses.description_p1.singular": {
+        "string": "Upgrading {userName} to a {seatType} seat"
+    },
+    "confirm_account_change.seat_type.full_seat": {
+        "string": "full"
+    },
+    "confirm_account_change.upgrade.all_licenses.description_p1.singular.no_username": {
+        "string": "Upgrading this person to a {seatType} seat"
+    },
+    "confirm_account_change.upgrade.all_licenses.description_p1.plural": {
+        "string": "Upgrading these {numUsers} people to {seatType} seats"
+    },
+    "confirm_account_change.upgrade.design.description_p2": {
+        "string": "will allow them to:"
+    },
+    "confirm_account_change.generic.design.edit_share_or_create": {
+        "string": "Edit, create, or share design files outside Drafts."
+    },
+    "confirm_account_change.generic.design.give_access_to_drafts": {
+        "string": "Give collaborators access to Figma Design drafts."
+    },
+    "confirm_account_change.generic.design.access_all_templates_and_libraries": {
+        "string": "Access all templates and libraries."
+    },
+    "confirm_account_change.generic.design.free_dev_mode_access": {
+        "string": "Access Dev Mode for free."
+    },
+    "confirm_account_change.generic.design.free_dev_mode_access.learn_more": {
+        "string": "Learn more."
+    },
+    "confirm_account_change.grant_figma_design_access_description_single.seat_rename": {
+        "string": "Upgrading {userName} allows them to create and edit design files outside of the Drafts section."
+    },
+    "confirm_account_change.grant_figma_design_access_description_single_no_username.seat_rename": {
+        "string": "Upgrading this person in Figma Design will allow them to create and edit design files outside of the Drafts section."
+    },
+    "confirm_account_change.grant_figma_design_access_description.seat_rename": {
+        "string": "{numUsers, plural, one {Upgrading {userName}'s seat in Figma Design will allow them to edit or create design files outside of the Drafts section.} other {Upgrading these {numUsers} people in Figma Design will allow them to edit or create design files outside of the Drafts section.}}"
+    },
+    "confirm_account_change.generic.figjam.edit_share_or_create": {
+        "string": "Edit, create, or share FigJam files outside Drafts."
+    },
+    "confirm_account_change.generic.figjam.give_access_to_drafts": {
+        "string": "Give collaborators access to FigJam drafts."
+    },
+    "confirm_account_change.generic.figjam.access_all_templates_and_libraries": {
+        "string": "Access all templates and libraries."
+    },
+    "confirm_account_change.grant_figjam_access_description_single.seat_rename": {
+        "string": "Upgrading {userName} allows them to create and edit FigJam files outside of the Drafts section."
+    },
+    "confirm_account_change.grant_figjam_access_description_single_no_username.seat_rename": {
+        "string": "Upgrading this person in FigJam will allow them to create and edit FigJam files outside of the Drafts section."
+    },
+    "confirm_account_change.grant_figjam_access_description.seat_rename": {
+        "string": "{numUsers, plural, one {Upgrading {userName}'s seat in FigJam will allow them to edit or create FigJam files outside of the Drafts section.} other {Upgrading these {numUsers} people in FigJam will allow them to edit or create FigJam files outside of the Drafts section.}}"
+    },
+    "confirm_account_change.upgrade.dev_mode.another_option.singular": {
+        "string": "Another option is to upgrade {userName} to a full Design seat—then they’ll get Dev Mode for free. "
+    },
+    "confirm_account_change.upgrade.dev_mode.another_option.singular.no_username": {
+        "string": "Another option is to upgrade this person to a full Design seat—then they’ll get Dev Mode for free. "
+    },
+    "confirm_account_change.upgrade.dev_mode.another_option.plural": {
+        "string": "Another option is to upgrade them to a full Design seat—then they’ll get Dev Mode for free. "
+    },
+    "confirm_account_change.upgrade.dev_mode.description_p2": {
+        "string": "will give them access to all Dev Mode features, including:"
+    },
+    "confirm_account_change.generic.dev_mode.advanced_inspect": {
+        "string": "Advanced inspect, with customizable code snippets"
+    },
+    "confirm_account_change.generic.dev_mode.integrations": {
+        "string": "Integrations for tools like Storybook and VS Code"
+    },
+    "confirm_account_change.generic.dev_mode.annotations": {
+        "string": "Annotations, change tracking, and more"
+    },
+    "confirm_account_change.downgrade.all_licenses.description_p1.singular": {
+        "string": "When you downgrade {userName} to a {viewerRestricted} seat,"
+    },
+    "confirm_account_change.seat_type.viewer_restricted": {
+        "string": "viewer-restricted"
+    },
+    "confirm_account_change.downgrade.all_licenses.description_p1.singular.no_username": {
+        "string": "When you downgrade this person to a {viewerRestricted} seat,"
+    },
+    "confirm_account_change.downgrade.all_licenses.description_p1.plural": {
+        "string": "When you downgrade these {numUsers} people to {viewerRestricted} seats,"
+    },
+    "confirm_account_change.downgrade.design.description_p2": {
+        "string": "they can no longer:"
+    },
+    "confirm_account_change.downgrade.design.give_access_to_drafts": {
+        "string": "Upgrade by themselves (admin approval now needed)."
+    },
+    "confirm_account_change.remove_figma_design_access_description_cant_edit_outside_drafts": {
+        "string": "They can't edit or create design files outside of the Drafts section"
+    },
+    "confirm_account_change.remove_figma_design_access_description_cant_share_new_draft_files": {
+        "string": "They can't share new draft design files"
+    },
+    "confirm_account_change.remove_figma_design_access_description_shared_draft_files_no_longer_accessible": {
+        "string": "Any draft design files they've shared before will no longer be accessible to collaborators"
+    }
+}

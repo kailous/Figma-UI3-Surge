@@ -1,0 +1,152 @@
+{
+    "figjam_try_v2.after_that_this_board_will_be_deleted": {
+        "string": "After that, this board will be deleted. To save your work, create a free account ->"
+    },
+    "collaboration.branching_archived_footer.locked": {
+        "string": "Locked"
+    },
+    "collaboration.branching_archived_footer.merged": {
+        "string": "Merged branches cannot be restored."
+    },
+    "collaboration.branching_archived_footer.restore_branch": {
+        "string": "Restore this branch to continue editing"
+    },
+    "collaboration.branching_archived_footer.restore_branch_button": {
+        "string": "Restore"
+    },
+    "collaboration.branching_archived_footer.can_restore_branch": {
+        "string": "Editors can restore this branch to continue editing."
+    },
+    "collaboration.branching_archived_footer.back_to_main_file": {
+        "string": "Back to main file"
+    },
+    "footer_banner.log_in_or_create_an_account_to_get_a_copy_of_file_name": {
+        "string": "Log in or create an account to get a copy of {fileName}"
+    },
+    "figjam_try_v2.timer_hours_left": {
+        "string": "{hoursLeft, plural, one {{hoursLeft, number, integer} hour left to jam.} other {{hoursLeft, number, integer} hours left to jam.}}"
+    },
+    "figjam_try_v2.timer_minutes_left": {
+        "string": "{minutesLeft, plural, one {{minutesLeft, number, integer} minute left to jam.} other {{minutesLeft, number, integer} minutes left to jam.}}"
+    },
+    "fullscreen.accessibility_dom.unlabeled_image": {
+        "string": "Unlabeled image"
+    },
+    "fullscreen.accessibility_dom.unlabeled_video": {
+        "string": "Unlabeled video"
+    },
+    "fullscreen.accessibility.contents_hidden": {
+        "string": "Contents hidden"
+    },
+    "fullscreen.accessibility_dom.num_children": {
+        "string": "{n, plural, one {# item} other {# items}}"
+    },
+    "fullscreen.accessibility_dom.num_stamps": {
+        "string": "{count, plural, one {# {name} stamp} other {# {name} stamps}}"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-diamond": {
+        "string": "Diamond"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-ellipse": {
+        "string": "Ellipse"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-database": {
+        "string": "Cylinder"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-file": {
+        "string": "File"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-folder": {
+        "string": "Folder"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-queue": {
+        "string": "Horizontal cylinder"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-parallelogram-right": {
+        "string": "Parallelogram"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-rounded-rectangle": {
+        "string": "Rounded rectangle"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-square": {
+        "string": "Square"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-triangle-down": {
+        "string": "Triangle"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-trapezoid": {
+        "string": "Trapezoid"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-star": {
+        "string": "Star"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-shield": {
+        "string": "Shield"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-hexagon": {
+        "string": "Hexagon"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-pentagon": {
+        "string": "Pentagon"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-octagon": {
+        "string": "Octagon"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-plus": {
+        "string": "Plus"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-predefined-process": {
+        "string": "Predefined process"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-manual-input": {
+        "string": "Manual input"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-chevron": {
+        "string": "Chevron"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-document-single": {
+        "string": "Document"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-document-multiple": {
+        "string": "Multiple documents"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-arrow-left": {
+        "string": "Arrow left"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-arrow-right": {
+        "string": "Arrow right"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-summing-junction": {
+        "string": "Summing junction"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-or": {
+        "string": "Or"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-speech-bubble": {
+        "string": "Speech bubble"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-internal-storage": {
+        "string": "Internal storage"
+    },
+    "fullscreen.accessibility_dom.node_name_section": {
+        "string": "Section"
+    },
+    "fullscreen.accessibility_dom.node_name_sticky": {
+        "string": "Sticky note"
+    },
+    "fullscreen.accessibility_dom.node_name_shape": {
+        "string": "Shape"
+    },
+    "fullscreen.accessibility_dom.node_name_connector": {
+        "string": "Connector"
+    },
+    "fullscreen.accessibility_dom.node_name_code_block": {
+        "string": "Code block"
+    },
+    "fullscreen.accessibility_dom.node_name_line": {
+        "string": "Line"
+    },
+    "fullscreen.accessibility_dom.node_name_text": {
+        "string": "Text"
+    }
+}

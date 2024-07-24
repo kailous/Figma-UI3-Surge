@@ -1,0 +1,152 @@
+{
+    "slides.templates.publish_actions.toast.long_name_error": {
+        "string": "Your page name is too long. Please try again with a shorter name."
+    },
+    "slides.templates.publish_actions.toasts.publish_error.generic": {
+        "string": "Something went wrong while publishing. Refresh the page and try again."
+    },
+    "slides.templates.publish_actions.toast.unpublish_success": {
+        "string": "Template unpublished"
+    },
+    "slides.templates.publish_actions.toast.unpublish_error": {
+        "string": "Failed to unpublish template"
+    },
+    "slides.properties_panel.theme.dropdown_tooltip": {
+        "string": "Remix template colors"
+    },
+    "slides.properties_panel.theme.generic_theme_name": {
+        "string": "Theme"
+    },
+    "fig_feed.more_actions": {
+        "string": "More actions"
+    },
+    "fig_feed.zoom_pan_preset.custom": {
+        "string": "Custom"
+    },
+    "fig_feed.thumbnail_alt_text": {
+        "string": "The selected image"
+    },
+    "whiteboard.delightful_toolbar.connector_menu_label": {
+        "string": "Connector menu"
+    },
+    "voting.voter_username.visitor": {
+        "string": "Guest"
+    },
+    "voting.voter_username.unavailable": {
+        "string": "Unavailable"
+    },
+    "slides.presenter_view.unknown_error": {
+        "string": "Unable to open audience view."
+    },
+    "slides.presenter_view.open_popup": {
+        "string": "Try again"
+    },
+    "slides.presenter_view.pop_up_error": {
+        "string": "Allow pop-ups in your browser to open your presentation."
+    },
+    "general.okay": {
+        "string": "Okay"
+    },
+    "proto.embeds.loading": {
+        "string": "Loading…"
+    },
+    "viewer.popup.press_key_to_show_ui_again": {
+        "string": "Press {keycommand} to show the Figma UI again"
+    },
+    "viewer.popup.copy_sharing_link": {
+        "string": "Copy sharing link"
+    },
+    "viewer.options.default_keyboard_navigation_disabled": {
+        "string": "Figma shortcuts disabled"
+    },
+    "viewer.options.default_keyboard_navigation_enabled": {
+        "string": "Figma shortcuts enabled"
+    },
+    "viewer.popup.zoom_get_scaling_strings_new_scaling_mode": {
+        "string": "Zoom: {scalingMode}"
+    },
+    "viewer.popup.some_missing_fonts_were_replaced": {
+        "string": "Some missing fonts were replaced"
+    },
+    "viewer.popup.one_or_more_images_in_this_prototype_failed_to_load": {
+        "string": "One or more images in this prototype failed to load"
+    },
+    "viewer.popup.learn_why": {
+        "string": "Learn why"
+    },
+    "viewer.popup.couldn_t_play_interaction_nested_instance_is_swapped_with_its_parent_instance": {
+        "string": "Couldn't play interaction: nested instance is swapped with its parent instance"
+    },
+    "viewer.options_menu.actual_size_100_with_device": {
+        "string": "Show device at {zoomAmount}%"
+    },
+    "viewer.options_menu.actual_size_100": {
+        "string": "Actual size ({zoomAmount}%)"
+    },
+    "viewer.options_menu.fit_to_screen_with_device": {
+        "string": "Fit device on screen"
+    },
+    "viewer.options_menu.fit_width_and_height": {
+        "string": "Fit width and height"
+    },
+    "viewer.options_menu.fit_width": {
+        "string": "Fit width"
+    },
+    "viewer.options_menu.fill_screen_with_device": {
+        "string": "Zoom device to fill screen"
+    },
+    "viewer.options_menu.fill_screen": {
+        "string": "Fill screen"
+    },
+    "viewer.footer.frame_progress": {
+        "string": "{currentFrameIndex} / {frameCount}"
+    },
+    "viewer.footer.restart": {
+        "string": "Restart"
+    },
+    "viewer.footer.r": {
+        "string": "R"
+    },
+    "viewer.footer.accessible_label": {
+        "string": "Pages"
+    },
+    "viewer.footer.previous_frame": {
+        "string": "Previous frame"
+    },
+    "viewer.footer.next_frame": {
+        "string": "Next frame"
+    },
+    "viewer.footer.readable_frame_progress": {
+        "string": "Frame {currentFrameIndex} of {frameCount}"
+    },
+    "slides.flapp.alignment.strongly_disagree_label": {
+        "string": "Strongly disagree"
+    },
+    "slides.flapp.alignment.neutral_label": {
+        "string": "Neutral"
+    },
+    "slides.flapp.alignment.strongly_agree_label": {
+        "string": "Strongly agree"
+    },
+    "slides.flapp.alignment.prompt_placeholder": {
+        "string": "Alignment scale"
+    },
+    "slides.flapp.results.no_votes_yet": {
+        "string": "No votes yet"
+    },
+    "slides.flapp.results.single_self_vote": {
+        "string": "You voted"
+    },
+    "slides.flapp.results.single_other_vote": {
+        "string": "{person} voted"
+    },
+    "slides.flapp.results.multiple_votes_including_user": {
+        "string": "{totalVotes, plural, one {You and {totalVotes} other voted} other {You and {totalVotes} others voted}}"
+    },
+    "slides.flapp.results.multiple_other_votes": {
+        "string": "{totalVotes, plural, one {{totalVotes} person voted} other {{totalVotes} people voted}}"
+    },
+    "slides.flapp.results.results_shown": {
+        "string": "Results revealed"
+    }
+}

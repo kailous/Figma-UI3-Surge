@@ -1,0 +1,152 @@
+{
+    "dev_handoff.figmadoc.beta_badge_tooltip": {
+        "string": "Code Connect surfaces code snippets from your design system"
+    },
+    "dev_handoff.figmadocs.connected": {
+        "string": "Connected"
+    },
+    "dev_handoff.figmadocs.connected_last_published_at": {
+        "string": "Last published: {lastPublishedAt}"
+    },
+    "dev_handoff.figmadocs.manual": {
+        "string": "Manual"
+    },
+    "dev_handoff.figmadocs.manual_code_snippet": {
+        "string": "Manual code snippet"
+    },
+    "dev_handoff.figmadoc.connect_to_code": {
+        "string": "Connect to code"
+    },
+    "dev_handoff.figmadoc.connect_to_code.body": {
+        "string": "Connect Figma with your code repo to show real component code when inspecting designs in Figma"
+    },
+    "dev_handoff.figmadoc.add_manual_snippet": {
+        "string": "Add a manual snippet"
+    },
+    "dev_handoff.code_connect.title": {
+        "string": "Code Connect"
+    },
+    "dev_handoff.code_connect.entrypoint_text": {
+        "string": "Connect to codebase"
+    },
+    "dev_handoff.figmadocs.error_unknown": {
+        "string": "Failed to load Code Connect example"
+    },
+    "dev_handoff.figmadocs.error_property_not_found": {
+        "string": "Property \"{propertyName}\" not found. The design file might not be using the latest version of the design library"
+    },
+    "dev_handoff.figmadocs.error_property_type_mismatch": {
+        "string": "Property \"{propertyName}\" is not a {propertyType}. The design file might not be using the latest version of the design library"
+    },
+    "dev_handoff.figmadocs.error_title": {
+        "string": "Error loading Code Connect"
+    },
+    "dev_handoff.code_connect.entrypoint_title": {
+        "string": "Get started with Code Connect"
+    },
+    "dev_handoff.code_connect.entrypoint_body_text": {
+        "string": "Connect your design system to code for faster and more consistent development."
+    },
+    "dev_handoff.instance_navigation.go_to_main_component": {
+        "string": "Go to main component"
+    },
+    "design_systems.playground.banner_content": {
+        "string": "You’re viewing this in a playground—changes made here won’t affect the actual design."
+    },
+    "design_systems.playground.component_playground": {
+        "string": "Component playground"
+    },
+    "dev_handoff.playground.select_parent_instance": {
+        "string": "Select parent instance"
+    },
+    "design_systems.playground.thumbnail_alt": {
+        "string": "Playground thumbnail"
+    },
+    "design_systems.playground.change_background": {
+        "string": "Change background"
+    },
+    "design_systems.playground.reset_properties": {
+        "string": "Reset properties"
+    },
+    "design_systems.playground.banner_header": {
+        "string": "Feel free to experiment"
+    },
+    "dev_handoff.playground.open_in_playground": {
+        "string": "Open in playground"
+    },
+    "dev_handoff.docs.links_title": {
+        "string": "Component documentation"
+    },
+    "dev_handoff.docs.links_default": {
+        "string": "Documentation"
+    },
+    "dev_handoff.docs.props": {
+        "string": "Props"
+    },
+    "dev_handoff.docs.prop_boolean": {
+        "string": "boolean"
+    },
+    "dev_handoff.docs.prop_boolean_default_true": {
+        "string": "boolean (true)"
+    },
+    "dev_handoff.docs.prop_boolean_default_false": {
+        "string": "boolean (false)"
+    },
+    "dev_handoff.docs.prop_variant": {
+        "string": "variant ({values})"
+    },
+    "dev_handoff.docs.prop_string": {
+        "string": "string ({defaultValue})"
+    },
+    "dev_handoff.docs.prop_instance": {
+        "string": "instance"
+    },
+    "dev_handoff.loading_plugin": {
+        "string": "Loading {pluginName}…"
+    },
+    "dev_handoff.tab.comment": {
+        "string": "Comment"
+    },
+    "dev_handoff.inspect_panel.template": {
+        "string": "Template"
+    },
+    "inspect_panel.copy_as": {
+        "string": "Copy as"
+    },
+    "inspect_panel.copy_variable_name": {
+        "string": "Variable name"
+    },
+    "inspect_panel.copy_variable_content": {
+        "string": "Text content"
+    },
+    "dev_handoff.variables.inferred_text": {
+        "string": "Suggested variable usage based on the text value"
+    },
+    "dev_handoff.developer_related_links.empty_info": {
+        "string": "Add development links to Storybook, GitHub, Jira, and other tools."
+    },
+    "dev_handoff.developer_related_links.component_inherited_links_desc": {
+        "string": "This is a main component, so any links you add will show up on all instances."
+    },
+    "dev_handoff.related_links.plugin.auth_required": {
+        "string": "{button} to show full title"
+    },
+    "dev_handoff.related_links.plugin.connect_to": {
+        "string": "Connect to {pluginName}"
+    },
+    "dev_handoff.developer_related_links.select_frame": {
+        "string": "Select frame"
+    },
+    "dev_handoff.selection_colors.show_colors": {
+        "string": "Show colors"
+    },
+    "dev_handoff.styles.show_more_colors": {
+        "string": "{count, plural, one {Show {count} more color} other {Show {count} more colors}}"
+    },
+    "dev_handoff.inspect_panel.close_plugin": {
+        "string": "Close plugin"
+    },
+    "dev_handoff.inspect_panel.generate_code": {
+        "string": "Close plugin and generate code"
+    }
+}

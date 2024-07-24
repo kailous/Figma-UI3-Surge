@@ -1,0 +1,152 @@
+{
+    "activity_log.filter.fig_file_set_password": {
+        "string": "File password set"
+    },
+    "activity_log.filter.fig_file_unset_password": {
+        "string": "File password unset"
+    },
+    "activity_log.filter.renamed_a_file": {
+        "string": "Renamed a file"
+    },
+    "activity_log.filter.saved_a_file": {
+        "string": "Saved a file"
+    },
+    "activity_log.filter.trashed_a_file": {
+        "string": "Trashed a file"
+    },
+    "activity_log.filter.viewed_a_file": {
+        "string": "Viewed a file"
+    },
+    "activity_log.filter.viewed_a_prototype": {
+        "string": "Viewed a prototype"
+    },
+    "activity_log.filter.open_sessions_start": {
+        "string": "Open session started"
+    },
+    "activity_log.filter.open_sessions_end": {
+        "string": "Open session ended"
+    },
+    "activity_log.filter.projects": {
+        "string": "Projects"
+    },
+    "activity_log.filter.created_a_project": {
+        "string": "Created a project"
+    },
+    "activity_log.filter.deleted_a_project": {
+        "string": "Deleted a project"
+    },
+    "activity_log.filter.project_membership_changed": {
+        "string": "Project membership changed"
+    },
+    "activity_log.filter.moved_a_project": {
+        "string": "Moved a project"
+    },
+    "activity_log.filter.renamed_a_project": {
+        "string": "Renamed a project"
+    },
+    "activity_log.filter.changed_the_team_access_of_a_project": {
+        "string": "Changed the team access of a project"
+    },
+    "activity_log.filter.outgoing_transfers": {
+        "string": "Outgoing transfers"
+    },
+    "activity_log.filter.incoming_transfers": {
+        "string": "Incoming transfers"
+    },
+    "activity_log.filter.teams": {
+        "string": "Teams"
+    },
+    "activity_log.filter.created_a_team": {
+        "string": "Created a team"
+    },
+    "activity_log.filter.deleted_a_team": {
+        "string": "Deleted a team"
+    },
+    "activity_log.filter.restored_a_team": {
+        "string": "Restored a team"
+    },
+    "activity_log.filter.team_membership_changed": {
+        "string": "Team membership changed"
+    },
+    "activity_log.filter.renamed_a_team": {
+        "string": "Renamed a team"
+    },
+    "activity_log.filter.changed_the_org_access_of_a_team": {
+        "string": "Changed the org access of a team"
+    },
+    "activity_log.filter.changed_the_workspace_of_a_team": {
+        "string": "Changed the workspace of a team"
+    },
+    "activity_log.filter.changed_team_creation_controls": {
+        "string": "Changed team creation setting"
+    },
+    "activity_log.filter.organizations": {
+        "string": "Organizations"
+    },
+    "activity_log.filter.org_merged": {
+        "string": "Org merged"
+    },
+    "activity_log.filter.org_membership_changed": {
+        "string": "Org membership changed"
+    },
+    "activity_log.filter.upgrade_requests_and_activity": {
+        "string": "Upgrade requests and activity"
+    },
+    "activity_log.filter.org_role_changed.seat_rename": {
+        "string": "Org seat type changed"
+    },
+    "activity_log.filter.exported_the_members_list": {
+        "string": "Exported the members list"
+    },
+    "activity_log.filter.exported_the_org_team_list": {
+        "string": "Exported the organization team list"
+    },
+    "activity_log.filter.exported_the_workspace_team_list": {
+        "string": "Exported the workspace team list"
+    },
+    "activity_log.filter.org_invite_created": {
+        "string": "Org invite created"
+    },
+    "activity_log.filter.cursor_chat_setting_change": {
+        "string": "Cursor chat enabled/disabled"
+    },
+    "activity_log.filter.idle_timeout_setting_change": {
+        "string": "Idle session timeout changed"
+    },
+    "activity_log.filter.configurable_upgrade_request_flow_changed": {
+        "string": "Upgrade request flow changed"
+    },
+    "activity_log.filter.scim_token_generated_revoked": {
+        "string": "SCIM token generated/revoked"
+    },
+    "activity_log.filter.slides_setting_change": {
+        "string": "Figma Slides enabled/disabled"
+    },
+    "activity_log.filter.changed_workspace_public_link_setting": {
+        "string": "Changed workspace public link setting"
+    },
+    "activity_log.filter.libraries": {
+        "string": "Libraries"
+    },
+    "activity_log.filter.org_library_setting_changed": {
+        "string": "Org library setting changed"
+    },
+    "activity_log.filter.workspace_library_approval_changed": {
+        "string": "Workspace library approval changed"
+    },
+    "activity_log.filter.org_library_approval_changed": {
+        "string": "Org library approval changed"
+    },
+    "activity_log.filter.users": {
+        "string": "Users"
+    },
+    "activity_log.filter.user_session_timed_out": {
+        "string": "Idle session timeouts"
+    },
+    "activity_log.filter.user_signed_in_signed_out": {
+        "string": "User signed in/signed out"
+    },
+    "activity_log.filter.community": {
+        "string": "Community"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "user_notifications.unread_toggle_count": {
+        "string": "Unread ({unreadCount})"
+    },
+    "user_notifications.requests_empty": {
+        "string": "Requests"
+    },
+    "user_notifications.requests_toggle_count": {
+        "string": "Requests ({actionableCount})"
+    },
+    "user_notifications.unread_count": {
+        "string": "{unreadCount} unread"
+    },
+    "user_notification.community_notifications": {
+        "string": "Community notifications"
+    },
+    "user_notification.all": {
+        "string": "All"
+    },
+    "user_notification.all_notifications": {
+        "string": "All notifications"
+    },
+    "fig_feed.no_frames_matching": {
+        "string": "No frames matching {searchQuery}"
+    },
+    "fig_feed.no_top_level_nodes": {
+        "string": "No top-level sections or frames exist."
+    },
+    "fig_feed.search_frames": {
+        "string": "Search frames"
+    },
+    "file_browser.tool_bar.create_new_design_file_in": {
+        "string": "Create new design file in…"
+    },
+    "file_browser.tool_bar.create_new_figjam_board_in": {
+        "string": "Create new FigJam board in…"
+    },
+    "file_browser.tool_bar.create_new_slide_deck_in": {
+        "string": "Create new slide deck in…"
+    },
+    "desktop_new_tab.create_new_file_in": {
+        "string": "Create new file in…"
+    },
+    "file_browser.tool_bar.see_all_editable_projects": {
+        "string": "See all {numberOfEditableProjects} projects"
+    },
+    "file_browser.tool_bar.file_creation_dropdown_display_text": {
+        "string": "Team Project List"
+    },
+    "help_widget.collective_upsells.fullscreen.unlimited_creation": {
+        "string": "Unlimited creation"
+    },
+    "help_widget.collective_upsells.fullscreen.shared_design_systems": {
+        "string": "Shared design systems"
+    },
+    "help_widget.collective_upsells.fullscreen.advanced_prototyping": {
+        "string": "Advanced prototyping"
+    },
+    "help_widget.collective_upsells.fullscreen.enhanced_privacy": {
+        "string": "Enhanced privacy"
+    },
+    "help_widget.collective_upsells.fullscreen.decision_making_tools": {
+        "string": "Decision-making tools"
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.better_organization.title": {
+        "string": "Better organization"
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.better_organization.description": {
+        "string": "Store your work in folders for each of your projects."
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_files.title": {
+        "string": "Unlimited files"
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_files.description": {
+        "string": "Create a new design file for every fresh idea."
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_boards.title": {
+        "string": "Unlimited boards"
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_boards.description": {
+        "string": "Create a new FigJam board for every brainstorm."
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.version_history.title": {
+        "string": "Version history"
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.version_history.description": {
+        "string": "Access old work and see all past versions of your files."
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_pages.title": {
+        "string": "Unlimited pages"
+    },
+    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_pages.description": {
+        "string": "Organize your files by dividing them into pages."
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.title": {
+        "string": "Component libraries"
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.description": {
+        "string": "Quickly reuse components and styles across files."
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variable_modes.title": {
+        "string": "Variable modes"
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variable_modes.description": {
+        "string": "Change up your designs for different contexts."
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variables_in_prototyping.title": {
+        "string": "Variables in prototyping"
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variables_in_prototyping.description": {
+        "string": "Set and modify variables with just a few interactions."
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.title": {
+        "string": "Expressions"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.description": {
+        "string": "Generate dynamic number or string values."
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.title": {
+        "string": "Conditionals"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.description": {
+        "string": "Use if/then formulas for more customized flows."
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.title": {
+        "string": "Multiple actions"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.description": {
+        "string": "Set multiple actions in a single pathway."
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.title": {
+        "string": "Video in prototypes"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.description": {
+        "string": "Add videos for more richness and realism."
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.title": {
+        "string": "Password protection"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.description": {
+        "string": "Control visibility with open or protected files."
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.title": {
+        "string": "Private projects"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.description": {
+        "string": "Create invite-only spaces for private collaboration."
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.title": {
+        "string": "Prototype-only sharing"
+    }
+}

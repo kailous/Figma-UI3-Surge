@@ -1,0 +1,152 @@
+{
+    "auth.error.email_verify_try_again": {
+        "string": "验证您的电子邮件地址，然后重试。"
+    },
+    "auth.error.enter-two-factor-code": {
+        "string": "请输入您的身份验证器代码。"
+    },
+    "auth.error.enter_password": {
+        "string": "请输入密码。"
+    },
+    "auth.error.error_try_again": {
+        "string": "发生错误，请重试。"
+    },
+    "auth.error.figma_does_not_support_names_more_than_70_characters": {
+        "string": "Figma 不支持超过 70 个字符的名称。"
+    },
+    "auth.error.figma_does_not_support_that_color_profile_preference": {
+        "string": "Figma 不支持该颜色配置文件偏好。"
+    },
+    "auth.error.figma_does_not_support_that_keyboard_preference": {
+        "string": "Figma 不支持该键盘偏好。"
+    },
+    "auth.error.figma_does_not_support_that_language": {
+        "string": "Figma 不支持该语言。"
+    },
+    "auth.error.img_url_and_img_url_500_500_must_be_passed_together": {
+        "string": "img_url 和 img_url_500_500 必须一起传递。"
+    },
+    "auth.error.incorrect-email-password": {
+        "string": "该电子邮件和密码组合不正确。"
+    },
+    "auth.error.incorrect_password": {
+        "string": "您输入的密码不正确。"
+    },
+    "auth.error.invalid-password-reset-link": {
+        "string": "此密码重置链接无效。"
+    },
+    "auth.error.invalid_auth_method": {
+        "string": "无效的认证方法：{METHOD}"
+    },
+    "auth.error.invalid_email": {
+        "string": "无效的电子邮件地址。"
+    },
+    "auth.error.invalid_image_url": {
+        "string": "无效的图片URL。"
+    },
+    "auth.error.invalid_session_try_again": {
+        "string": "您的会话无效或已过期，请重试。"
+    },
+    "auth.error.invalid_token_type": {
+        "string": "无效的令牌类型。"
+    },
+    "auth.error.invite_invalid_or_claimed": {
+        "string": "抱歉，该邀请无效或已被领取。"
+    },
+    "auth.error.ip-account-restriction": {
+        "string": "您只能在此网络上登录 {orgName} 账户。"
+    },
+    "auth.error.ip-allowlist-restriction": {
+        "string": "您只能从您的公司网络登录此账户。请重新连接到您的公司网络或使用其他账户登录。"
+    },
+    "auth.error.join_links_disabled_for_team": {
+        "string": "加入链接已被 {TEAM_NAME} 禁用。"
+    },
+    "auth.error.key_data_required": {
+        "string": "需要提供密钥和数据。"
+    },
+    "auth.error.login_google_sso_required": {
+        "string": "您的组织要求您使用 Google 登录。"
+    },
+    "auth.error.max_sessions_exceeded": {
+        "string": "您已超出最大登录账户数量。"
+    },
+    "auth.error.need_verified_password_token": {
+        "string": "您需要提供已验证的密码令牌。"
+    },
+    "auth.error.no-password-sso": {
+        "string": "此账户由您的组织管理，无需密码。"
+    },
+    "auth.error.no_verified_email": {
+        "string": "用户没有验证过的电子邮件。"
+    },
+    "auth.error.non_hd_for_sso_only_org": {
+        "string": "无法使用 Google 登录。请尝试使用您的电子邮件地址和密码登录或联系 Figma 支持。"
+    },
+    "auth.error.not-configured-for-saml-sso": {
+        "string": "您的账户未配置使用 SAML SSO。请使用 Google 或密码登录。"
+    },
+    "auth.error.not-logged-in": {
+        "string": "您未登录。"
+    },
+    "auth.error.only_view_links_enabled_for_team": {
+        "string": "仅启用了 {TEAM_NAME} 的查看链接。"
+    },
+    "auth.error.org_require_google_sso": {
+        "string": "此账户由您的组织管理。请使用 Google 登录。"
+    },
+    "auth.error.password-too-long": {
+        "string": "这个密码太长了，真是搞笑！"
+    },
+    "auth.error.password-too-short": {
+        "string": "请设置一个长度超过七个字符的密码。"
+    },
+    "auth.error.password-too-weak": {
+        "string": "请选择一个更强的密码。"
+    },
+    "auth.error.password_not_set": {
+        "string": "您尚未设置密码。您可以通过点击“重置密码”来设置。"
+    },
+    "auth.error.password_token_invalid": {
+        "string": "无法验证或缺失密码验证令牌。"
+    },
+    "auth.error.please_set_shorter_password": {
+        "string": "请设置一个较短的密码。"
+    },
+    "auth.error.provide-email": {
+        "string": "请提供您的电子邮件地址。"
+    },
+    "auth.error.provide-password": {
+        "string": "请提供您的密码。"
+    },
+    "auth.error.require-phone-number": {
+        "string": "未设置用户电话号码。"
+    },
+    "auth.error.require-two-factor": {
+        "string": "账户未启用双因素认证。"
+    },
+    "auth.error.require-validation": {
+        "string": "无法验证请求。"
+    },
+    "auth.error.require_google_sso": {
+        "string": "请使用 Google 登录或使用“重置密码”重置密码。"
+    },
+    "auth.error.saml_authentication_failed": {
+        "string": "IdP 不允许用户登录 Figma。"
+    },
+    "auth.error.saml_config_error_contact_admin": {
+        "string": "配置错误导致无法登录 Figma。请联系您的组织管理员。错误：{ERROR}"
+    },
+    "auth.error.saml_configuration_error": {
+        "string": "配置错误导致无法登录 Figma。"
+    },
+    "auth.error.saml_email_address_not_in_domain_with_emails": {
+        "string": "您的 SAML SSO 账户没有与以下之一匹配的电子邮件地址，{EMAILS}：{DOMAINS}"
+    },
+    "auth.error.saml_entity_id_does_not_match": {
+        "string": "实体 ID 不匹配。{ERROR}"
+    },
+    "auth.error.saml_invalid_code": {
+        "string": "无效代码。"
+    }
+}

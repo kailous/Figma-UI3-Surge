@@ -1,0 +1,152 @@
+{
+    "dev_handoff.configuration_wizard.title": {
+        "string": "Welcome to Dev Mode"
+    },
+    "dev_handoff.configuration_wizard.subtitle": {
+        "string": "Let’s get things set up for you."
+    },
+    "dev_handoff.configuration_wizard.code_language_step.next_text": {
+        "string": "Next: Theme"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.next_text": {
+        "string": "Next: Integrations"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.next_text": {
+        "string": "Done"
+    },
+    "dev_handoff.configuration_wizard.theme_step.next_text": {
+        "string": "Next: Plugins"
+    },
+    "dev_handoff.configuration_wizard.welcome_step.next_text": {
+        "string": "Next: Platform and units"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.picker_title": {
+        "string": "Choose your platform"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.picker_title": {
+        "string": "Plugins for Dev Mode"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.picker_title": {
+        "string": "Install integrations"
+    },
+    "dev_handoff.configuration_wizard.theme_step.picker_title": {
+        "string": "Set color theme"
+    },
+    "dev_handoff.recenter": {
+        "string": "Re-center"
+    },
+    "dev_handoff.paywall.end_of_beta_modal.description.starter_viewer": {
+        "string": "To keep using Dev Mode, you’ll need to ask your admin for more details."
+    },
+    "dev_handoff.paywall.end_of_beta_modal.description.starter": {
+        "string": "Dev Mode’s beta is over. To keep using it, you’ll need to upgrade your plan."
+    },
+    "dev_handoff.paywall.end_of_beta_modal.description.restricted_grace_period": {
+        "string": "Dev Mode’s beta is over. If you’d like access, ask your admin—you can keep using it while you wait (for up to {numDays} days)."
+    },
+    "dev_handoff.paywall.end_of_beta_modal.description.restricted": {
+        "string": "Dev Mode’s beta is over. If you’d like access, ask your admin—you can keep using it while you wait (for up to 14 days)."
+    },
+    "dev_handoff.paywall.end_of_beta_modal.cta.starter": {
+        "string": "See plans"
+    },
+    "dev_handoff.paywall.end_of_beta_modal.title": {
+        "string": "Thanks for trying out Dev Mode"
+    },
+    "dev_handoff.paywall.hint_in_design_mode": {
+        "string": "Switch into Dev Mode whenever you’re ready to start coding."
+    },
+    "dev_handoff.inspect_mode.switched_to_inspect": {
+        "string": "Switched to Dev Mode"
+    },
+    "dev_handoff.inspect_mode.switched_to_design": {
+        "string": "Switched to design mode"
+    },
+    "dev_handoff.paywall.approved.title": {
+        "string": "You’ve been upgraded to Dev Mode"
+    },
+    "dev_handoff.paywall.approved.description": {
+        "string": "Dev Mode simplifies handoff, speeds up inspection, and integrates with your favorite tools.\n\nTry it out, by clicking this toggle."
+    },
+    "dev_handoff.status.mark_completed": {
+        "string": "Mark as completed"
+    },
+    "dev_handoff.overview_mode.tooltip.upgrade_mark_completed": {
+        "string": "Request Dev Mode access to mark designs as completed"
+    },
+    "dev_handoff.workflows.focus_view.complete_button.status_removed": {
+        "string": "Cannot be marked as completed because status was removed "
+    },
+    "pages_panel.summary_preview.last_updated": {
+        "string": "Updated {time}"
+    },
+    "pages_panel.summary_preview.update_preview": {
+        "string": "Update preview"
+    },
+    "voting.modal.votes": {
+        "string": "{numVotes, plural, one {{numVotesElem} vote} other {{numVotesElem} votes}}"
+    },
+    "voting.modal.voting_results_image_preview_alt": {
+        "string": "Vote object preview image"
+    },
+    "voting.modal.medal_img_alt": {
+        "string": "Most voted medal"
+    },
+    "voting.modal.actions.delete_voting_session": {
+        "string": "Delete"
+    },
+    "voting.modal.actions.export_as_csv": {
+        "string": "Export as CSV"
+    },
+    "meetings_panel.voting.results": {
+        "string": "Results"
+    },
+    "dev_handoff.workflows.overview.banner.title": {
+        "string": "An overview made for developers"
+    },
+    "dev_handoff.workflows.overview.banner.subtitle": {
+        "string": "Find and manage designs ready to inspect and build"
+    },
+    "dev_handoff.workflows.overview.banner.learn_more": {
+        "string": "Learn more"
+    },
+    "dev_handoff.workflows.edit_info.edited": {
+        "string": "{user} made design changes {dateFromNow}"
+    },
+    "dev_handoff.workflows.edit_info.updated_design": {
+        "string": "{user} added a new version of the design · {dateFromNow}"
+    },
+    "dev_handoff.workflows.edit_info.marked": {
+        "string": "{user} marked as {status} {dateFromNow}"
+    },
+    "dev_handoff.paywall.org_not_member_hint": {
+        "string": "You cannot access Dev Mode in this file without being a guest or member of this organization"
+    },
+    "dev_handoff.vscode.zoom_control.zoom_options_actual_size": {
+        "string": "Actual size (100%)"
+    },
+    "dev_handoff.vscode.zoom_control.zoom_options_fit_to_screen": {
+        "string": "Fit to screen"
+    },
+    "dev_handoff.vscode.zoom_control.zoom_options_fit_to_width": {
+        "string": "Fit to width"
+    },
+    "dev_handoff.vscode.zoom_control.zoom_options_fill_screen": {
+        "string": "Fill screen"
+    },
+    "dev_handoff.vscode.zoom_control.zoom_out_button": {
+        "string": "Zoom out"
+    },
+    "dev_handoff.vscode.zoom_control.zoom_in_button": {
+        "string": "Zoom in"
+    },
+    "dev_handoff.inspect_settings": {
+        "string": "Inspect settings"
+    },
+    "dev_handoff.breadcrumbs.hidden_nodes": {
+        "string": "{count} hidden"
+    },
+    "dev_handoff.breadcrumbs.ellipsis": {
+        "string": "…"
+    }
+}

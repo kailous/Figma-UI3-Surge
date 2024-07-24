@@ -1,0 +1,152 @@
+{
+    "permissions.copy_link_button.tooltip.members_of_project_can_access": {
+        "string": "Copy link · Members of {folder} can access"
+    },
+    "whiteboard.open_sessions.start_open_session": {
+        "string": "Start open session"
+    },
+    "whiteboard.open_sessions.remaining_duration": {
+        "string": "{remainingHours, plural, one {Open session ends in {remainingHours} hour and {remainingMinutes} min} other {Open session ends in {remainingHours} hours and {remainingMinutes} min}}"
+    },
+    "whiteboard.open_sessions.start": {
+        "string": "Start"
+    },
+    "whiteboard.open_sessions.end_now": {
+        "string": "End now"
+    },
+    "whiteboard.open_sessions.share_modal_during_the_session_with_link_and_password": {
+        "string": "Anyone with the link and password can edit the file"
+    },
+    "whiteboard.open_sessions.share_modal_during_the_session": {
+        "string": "During the session, anyone with the link can edit the file—even if they don't have an account"
+    },
+    "whiteboard.open_sessions.share_modal_anyone_with_link_and_password_can_edit": {
+        "string": "Anyone with the link and password can edit—no account required. Sessions end automatically after 24 hours."
+    },
+    "whiteboard.open_sessions.share_modal_anyone_can_edit": {
+        "string": "Anyone can edit—no account required. Sessions end automatically after 24 hours."
+    },
+    "file_permissions_modal.google_confirmation_modal.subtext": {
+        "string": "Casting is currently only available to the Series Ones displays. See if your Google Meet device is compatible {link}."
+    },
+    "file_permissions_modal.google_confirmation_modal.here": {
+        "string": "here"
+    },
+    "file_permissions_modal.google_confirmation_modal.subtitle": {
+        "string": "You’re about to start an open session"
+    },
+    "file_permissions_modal.google_confirmation_modal.description": {
+        "string": "Anyone with the link—or looking at the Google Meet device—will be able to view and edit the file. Open sessions end automatically after 24 hours, but you can end it at any time."
+    },
+    "file_permissions_modal.google_confirmation_modal.confirm_text": {
+        "string": "Start an open session"
+    },
+    "file_permissions_modal.google_confirmation_modal.image_alt_text": {
+        "string": "Google Meet device"
+    },
+    "file_permissions_modal.share_as.google_device.enter_code": {
+        "string": "How to cast"
+    },
+    "file_permissions_modal.share_as.google_device.screenshare_code.description": {
+        "string": "Start a meeting on your device, go to {location}, then enter this code. "
+    },
+    "file_permissions_modal.share_as.google_device.screenshare_code.location": {
+        "string": "Apps → Figma → Join existing file"
+    },
+    "file_permissions_modal.share_as.google_device.screenshare_code.description_unique_code": {
+        "string": "Each device will need a unique code. Use the {reset} button to generate a new one, or wait 10 minutes."
+    },
+    "file_permissions_modal.share_as.google_device.reset_code": {
+        "string": "Reset"
+    },
+    "file_permissions_modal.share_as.google_device.open_session_countdown": {
+        "string": "{remainingHours, plural, one {Open session ends in {remainingHours} hour and {remainingMinutes} min. {end_now}} other {Open session ends in {remainingHours} hours and {remainingMinutes} min. {end_now}}}"
+    },
+    "file_permissions_modal.share_as.google_device.end_now": {
+        "string": "End now"
+    },
+    "file_permissions_modal.screenshare_to_google_device.error_generating_code": {
+        "string": "We weren't able to generate a code. Use the Reset button to generate a new one."
+    },
+    "file_permissions_modal.share_as.google_device.open_session_ended": {
+        "string": "Open session ended"
+    },
+    "file_permissions_modal.google_screencast_modal.title": {
+        "string": "Screen cast code"
+    },
+    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_without_team_access": {
+        "string": "You’ll invite all members of {folderNameBolded}. Members will get access to this file and will keep any folder permissions they already had.\n\n You can remove {folderNameBolded}’s access to this file at any time."
+    },
+    "file_permissions.enable_folder_access.folder_name": {
+        "string": "{folderName}"
+    },
+    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_with_team_access": {
+        "string": "You’ll invite all members of {folderNameBolded} as well as members of the {teamNameBolded} team (where {folderNameBolded} lives). Members will get access to this file and will keep any folder permissions they already had.\n\n You can remove {folderNameBolded}’s access to this file at any time."
+    },
+    "file_permissions.enable_folder_access.team_name": {
+        "string": "{teamName}"
+    },
+    "file_permissions.enable_folder_access.cancel": {
+        "string": "Cancel"
+    },
+    "file_permissions.enable_folder_access.give_access": {
+        "string": "Give access"
+    },
+    "file_permissions.disable_folder_access.keep_in_mind_that_member_of_the_folder_name_project_may_lose_access": {
+        "string": "Keep in mind that members of the {folderNameBolded} project may lose access to this file. You can give people access again at any time."
+    },
+    "file_permissions.disable_folder_access.folder_name": {
+        "string": "{folderName}"
+    },
+    "file_permissions.disable_folder_access.cancel": {
+        "string": "Cancel"
+    },
+    "file_permissions.disable_folder_access.remove": {
+        "string": "Remove"
+    },
+    "file_permissions.enable_folder_access.give_access_to_the_folder": {
+        "string": "Give access to the {folderName} folder"
+    },
+    "file_permissions.disable_folder_access.remove_folder_names_access": {
+        "string": "Remove {folderName}'s access"
+    },
+    "folder_access_row.num_people": {
+        "string": "{num, plural, one {{num} person} other {{num} people}}"
+    },
+    "file_permissions_modal.give_them_access": {
+        "string": "Give them access"
+    },
+    "folder_access_row.anyone_in_project_name": {
+        "string": "Anyone in {projectName}"
+    },
+    "file_permissions_modal.file_name_s_project": {
+        "string": "{fileName}'s Project"
+    },
+    "drafts_move_banner.to_add_editors_first_move_this_file_from_drafts_into_a_project.seat_rename": {
+        "string": "To invite people to edit, move this draft into your projects."
+    },
+    "drafts_move_banner.move_file": {
+        "string": "Move file"
+    },
+    "drafts_move_banner.move_and_allow_edits": {
+        "string": "Move and allow edits"
+    },
+    "branch_info_row.link_sharing_is_disabled_when_the_main_file_is_invite_only": {
+        "string": "Link sharing is disabled when the main file is invite-only."
+    },
+    "branch_info_row.link_sharing_outside_of_org_name_is_restricted_by_access_level_of_the_main_file": {
+        "string": "Link sharing outside of {orgName} is restricted by access level of the main file."
+    },
+    "branch_info_row.link_sharing_is_restricted_by_access_level_of_the_main_file": {
+        "string": "Link sharing is restricted by access level of the main file."
+    },
+    "file_audience_row.editors_from_the_main_file_can_also_access": {
+        "string": "Editors from the main file can also access."
+    },
+    "file_audience_row.viewers_and_editors_from_the_main_file_can_also_access": {
+        "string": "Viewers and editors from the main file can also access."
+    },
+    "permissions_modal.file_share_settings.more_minutes": {
+        "string": "{num, plural, one {{num} more minute} other {{num} more minutes}}"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "collaboration.branching_from_source.these_changes_have_been_made_to_the_main_file": {
+        "string": "These changes have been made to the Main file."
+    },
+    "collaboration.branching_from_source.apply_changes": {
+        "string": "Apply changes"
+    },
+    "variables.values.boolean.true": {
+        "string": "True"
+    },
+    "variables.values.boolean.false": {
+        "string": "False"
+    },
+    "collaboration.branching_from_source.preview_unavailable": {
+        "string": "Preview unavailable"
+    },
+    "collaboration.branching_from_source.no_item": {
+        "string": "No item"
+    },
+    "collaboration.branching_from_source.this_style_was_removed": {
+        "string": "This style was removed"
+    },
+    "collaboration.branching_from_source.this_page_was_removed": {
+        "string": "This page was removed"
+    },
+    "collaboration.branching_from_source.this_frame_was_removed": {
+        "string": "This frame was removed"
+    },
+    "collaboration.branching_from_source.this_component_was_removed": {
+        "string": "This component was removed"
+    },
+    "collaboration.branching_from_source.this_layer_was_removed": {
+        "string": "This layer was removed"
+    },
+    "collaboration.branching_from_source.main": {
+        "string": "Main"
+    },
+    "collaboration.branching_from_source.branch": {
+        "string": "Branch"
+    },
+    "collaboration.branching_from_source.keep_main": {
+        "string": "Keep main"
+    },
+    "collaboration.branching_from_source.keep_branch": {
+        "string": "Keep branch"
+    },
+    "collaboration.branching_from_source.confirm_picks": {
+        "string": "Confirm picks"
+    },
+    "collaboration.branching_from_source.next": {
+        "string": "Next"
+    },
+    "variables.authoring_modal.table.name_header": {
+        "string": "Name"
+    },
+    "variables.missing_name": {
+        "string": "(missing name)"
+    },
+    "collaboration.branching_chunk.property_change_node_value_denoter": {
+        "string": "{propertyName}: {propertyValue}"
+    },
+    "collaboration.branching_chunk.property_change_changed_value_denoter": {
+        "string": "→"
+    },
+    "collaboration.branching_chunk.property_change_edited": {
+        "string": "{prevValue} → {newValue}"
+    },
+    "collaboration.branching_chunk.property_change_removed": {
+        "string": "{prevValue} → removed"
+    },
+    "collaboration.branching_chunk.property_change_added": {
+        "string": "→ {newValue}"
+    },
+    "collaboration.branching_chunk.property_change_node_removed_items": {
+        "string": "Removed:"
+    },
+    "collaboration.branching_chunk.property_change_node_added_items": {
+        "string": "Added:"
+    },
+    "collaboration.branching_chunk.property_change_node_removed": {
+        "string": "This node was deleted"
+    },
+    "collaboration.branching_chunk.property_change_non-previewable": {
+        "string": "Non-previewable changes"
+    },
+    "collaboration.branching_chunk.error": {
+        "string": "There was an error rendering detailed property changes. This error has not been reported or recorded."
+    },
+    "collaboration.branching_reviews.send_to_reviewers": {
+        "string": "{numReviewers, plural, one {Send to {numReviewers} reviewer} other {Send to {numReviewers} reviewers}}"
+    },
+    "collaboration.branching_reviews.add_context_optional": {
+        "string": "Add context (optional)…"
+    },
+    "collaboration.branching_reviews.give_reviewers_more_context_for_your_latest_changes": {
+        "string": "Ask reviewers to review your latest updates"
+    },
+    "collaboration.branching_reviews.give_reviewers_more_context_for_your_changes": {
+        "string": "Give reviewers more context for your changes."
+    },
+    "collaboration.branching_reviews.request_review": {
+        "string": "Request review"
+    },
+    "collaboration.branching_from_source.num_unique_items_related_items": {
+        "string": "{numUniqueItems} related items"
+    },
+    "collaboration.branching_from_source.resolve_all": {
+        "string": "Resolve all"
+    },
+    "collaboration.branching_from_source.num_conflicts": {
+        "string": "{conflictCount, plural, one {{pickedCount} / {conflictCount} conflict} other {{pickedCount} / {conflictCount} conflicts}}"
+    },
+    "collaboration.branching_from_source.conflicted": {
+        "string": "Conflicted"
+    },
+    "collaboration.branching_from_source.pick_main_file": {
+        "string": "Pick main file"
+    },
+    "collaboration.branching_from_source.pick_branch": {
+        "string": "Pick branch"
+    },
+    "collaboration.branching_chunk.change_details": {
+        "string": "Change details"
+    },
+    "variables.diff.conflict_collection_name": {
+        "string": "Collection name changed to {collectionName}"
+    },
+    "variables.diff.conflict_modes": {
+        "string": "Modes changed to {modeNames}"
+    },
+    "collaboration.branching_modal.tab_active_empty_state": {
+        "string": "There are no active branches."
+    },
+    "collaboration.branching_modal.tab_yours_empty_state": {
+        "string": "You haven't created any branches."
+    },
+    "collaboration.branching_modal.tab_archived_empty_state": {
+        "string": "There are no archived branches."
+    },
+    "collaboration.branching_modal.title": {
+        "string": "Branches"
+    },
+    "collaboration.branching_modal.tab_active": {
+        "string": "Active"
+    },
+    "collaboration.branching_modal.tab_yours": {
+        "string": "Yours"
+    },
+    "collaboration.branching_modal.tab_archived": {
+        "string": "Archived"
+    }
+}

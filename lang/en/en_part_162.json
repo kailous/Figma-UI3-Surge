@@ -1,0 +1,152 @@
+{
+    "search.search_model_type_header.people": {
+        "string": "People"
+    },
+    "search.search_model_type_header.hub_files": {
+        "string": "Files"
+    },
+    "search.search_model_type_header.public_plugins": {
+        "string": "Plugins"
+    },
+    "search.search_model_type_header.private_plugins": {
+        "string": "Plugins"
+    },
+    "search.search_model_type_header.creators": {
+        "string": "Creators"
+    },
+    "search.search_model_type_header.public_widgets": {
+        "string": "Widgets"
+    },
+    "search.search_model_type_header.private_widgets": {
+        "string": "Widgets"
+    },
+    "file_browser.team": {
+        "string": "team"
+    },
+    "search.preview_section.creator": {
+        "string": "creator"
+    },
+    "search.search_model_type.empty_state_files": {
+        "string": "No files matching"
+    },
+    "search.search_model_type.empty_state_projects": {
+        "string": "No projects matching"
+    },
+    "search.search_model_type.empty_state_teams": {
+        "string": "No teams matching"
+    },
+    "search.search_model_type.empty_state_people": {
+        "string": "No people matching"
+    },
+    "search.search_model_type.empty_state_hub_files": {
+        "string": "No files matching"
+    },
+    "search.search_model_type.empty_state_public_plugins": {
+        "string": "No plugins matching"
+    },
+    "search.search_model_type.empty_state_private_plugins": {
+        "string": "No plugins matching"
+    },
+    "search.search_model_type.empty_state_creators": {
+        "string": "No creators matching"
+    },
+    "search.search_model_type.empty_state_public_widgets": {
+        "string": "No widgets matching"
+    },
+    "search.search_model_type.empty_state_private_widgets": {
+        "string": "No widgets matching"
+    },
+    "search.search_scope.community": {
+        "string": "Community"
+    },
+    "search.search_scope.personal": {
+        "string": "Drafts and teams"
+    },
+    "dev_handoff.autorun_confirm_modal.stop_auto_run_desc": {
+        "string": "This will stop {currentAutoRunPluginName} from running automatically when you open a file."
+    },
+    "dev_handoff.autorun_confirm_modal.enable_auto_run_desc": {
+        "string": "Your {orgName} admin has set {orgPluginName} to run automatically when you open a file. You've turned this setting off. \n Would you like to turn on auto run for {orgPluginName} again?"
+    },
+    "dev_handoff.autorun_confirm_modal.confirm_replace": {
+        "string": "{newPluginName} will replace {orgPluginName} (currently set by your {orgName} admin) to run automatically for all files."
+    },
+    "dev_handoff.autorun_confirm_modal.stop_auto_run_from_org": {
+        "string": "Your {orgName} admin has set {orgPluginName} to auto run. This will stop the plugin from running automatically when you open a file."
+    },
+    "dev_handoff.autorun_confirm_modal.cancel": {
+        "string": "Cancel"
+    },
+    "dev_handoff.autorun_confirm_modal.stop_auto_run": {
+        "string": "Stop auto run"
+    },
+    "dev_handoff.autorun_confirm_modal.dont_enable": {
+        "string": "Don't enable"
+    },
+    "dev_handoff.autorun_confirm_modal.enable_auto_run": {
+        "string": "Enable auto run"
+    },
+    "dev_handoff.autorun_confirm_modal.replace": {
+        "string": "Replace"
+    },
+    "dev_handoff.autorun_confirm_modal.title_stop_auto_run": {
+        "string": "Stop auto run for this plugin?"
+    },
+    "dev_handoff.autorun_confirm_modal.title_replace_auto_run": {
+        "string": "Replace auto run plugin?"
+    },
+    "dev_handoff.autorun_confirm_modal.title_enable_auto_run": {
+        "string": "Enable auto run for {pluginName}?"
+    },
+    "dev_handoff.code.options": {
+        "string": "Options"
+    },
+    "avatar.tooltip.you": {
+        "string": "(You)"
+    },
+    "members_table.org_user_name_cell.scim_badge": {
+        "string": "SCIM"
+    },
+    "avatar_editor.edit": {
+        "string": "Edit"
+    },
+    "banner.shared.close_banner": {
+        "string": "Close banner"
+    },
+    "community.buyer.we_re_sorry_to_hear_resource_name_didnt_work_out": {
+        "string": "We’re sorry to hear {resourceName} didn’t work out, but we’ve got you covered. We’ll go ahead and issue you a refund. Could you let us know what went wrong?"
+    },
+    "community.buyer.need_a_refund": {
+        "string": "Need a refund?"
+    },
+    "community.buyer.keep_an_eye_out": {
+        "string": "Keep an eye out for a refund to your original form of payment. Contact us {here} for further inquiries."
+    },
+    "community.buyer.here": {
+        "string": "here"
+    },
+    "community.buyer.unable_to_process_refund": {
+        "string": "Unable to process refund"
+    },
+    "community.buyer.error_requesting_refund_please_contact_support": {
+        "string": "We’ve encountered an error processing your refund. Contact us for help submitting your request."
+    },
+    "community.buyer.get_support": {
+        "string": "Get support"
+    },
+    "community.buyer.refund_reason.add_additional_details": {
+        "string": "Add additional details"
+    },
+    "community.buyer.refund_requested": {
+        "string": "Refund requested"
+    },
+    "community.universal_posting_modal.recent_editable_files_search.no_files_matching": {
+        "string": "No files matching {searchQuery}"
+    },
+    "community.universal_posting_modal.resource_empty.files_title": {
+        "string": "No files yet"
+    },
+    "community.universal_posting_modal.resource_empty.plugins_title": {
+        "string": "No plugins yet"
+    }
+}

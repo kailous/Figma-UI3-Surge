@@ -1,0 +1,152 @@
+{
+    "categories.presentations.product_roadmap.description": {
+        "string": "Turn customers into believers by sharing your product vision"
+    },
+    "categories.presentations.research_readout": {
+        "string": "Research readout"
+    },
+    "categories.presentations.all_hands_meeting": {
+        "string": "All hands meeting"
+    },
+    "categories.presentations.design_review": {
+        "string": "Design review"
+    },
+    "categories.more_presentations": {
+        "string": "More presentations"
+    },
+    "categories.more_presentations.subheader": {
+        "string": "Mix and match with Figma Slides templates"
+    },
+    "pro_cart.jamboard_offer.modal_offer_badge": {
+        "string": "Free for a year"
+    },
+    "community.profiles.cover_image_must_be_less_than_dimensions": {
+        "string": "Cover image must be less than {PROFILE_COVER_IMAGE_MAX_WIDTH}x{PROFILE_COVER_IMAGE_MAX_HEIGHT}"
+    },
+    "community.profiles.cover_image_must_be_at_least_dimensions": {
+        "string": "Cover image must be at least {PROFILE_COVER_IMAGE_MIN_WIDTH}x{PROFILE_COVER_IMAGE_MIN_HEIGHT}"
+    },
+    "community.seller.profiles.check_out_your_stats": {
+        "string": "Check out your stats"
+    },
+    "community.seller.profiles.added_some_metrics": {
+        "string": "We've added some metrics to this private tab so you can see how your resources are doing."
+    },
+    "community.seller.view_stripe_dashboard": {
+        "string": "View Stripe dashboard"
+    },
+    "community.seller.view_payout_statements": {
+        "string": "View payout statements"
+    },
+    "community.seller.agree_to_figma_terms_of_service": {
+        "string": "By clicking you agree to Figma's {link}."
+    },
+    "community.seller.stripe_loading_text": {
+        "string": "Loading Stripe…"
+    },
+    "community.seller.finish_stripe_setup_button": {
+        "string": "Finish Stripe setup"
+    },
+    "community.seller.resource_metrics_coming_soon": {
+        "string": "Resource metrics coming soon"
+    },
+    "community.seller.working_on_bringing_you_more_in_depth_metrics": {
+        "string": "We're working on bringing you more in depth metrics for all your paid resources. Stay tuned!"
+    },
+    "community.seller.youre_all_set_up_to_sell_on_community": {
+        "string": "You're all set up to sell on Community"
+    },
+    "community.seller.to_publish_your_first_resource": {
+        "string": "To publish your first paid plugin, widget, or file, just click Publish in the top right, add your details, pick your price, then submit it for review!"
+    },
+    "community.seller.resources_youre_selling_will_appear_here": {
+        "string": "Resources you're selling will appear here"
+    },
+    "community.seller.well_show_you_stripe_metrics": {
+        "string": "We'll show you Stripe metrics to give you a glimpse into how each resource is doing."
+    },
+    "community.seller.unable_to_open_stripe_dashboard": {
+        "string": "Unable to open Stripe dashboard"
+    },
+    "community.actions.unable_to_load_creator_stats": {
+        "string": "Unable to load creator stats. Please try again later."
+    },
+    "community.profile.creator_banner.you_can_now_add_image_and_video_previews": {
+        "string": "You can now add image and video previews to your published resources to help them stand out from the crowd. "
+    },
+    "community.profile.creator_banner.lets_spruce_things_up": {
+        "string": "Let's spruce things up"
+    },
+    "community.profiles.profile_actions": {
+        "string": "Profile actions"
+    },
+    "community.profiles.your_profile_is_visible_to_the_public_at": {
+        "string": "Your profile is visible to the public at {link}"
+    },
+    "community.profiles.your_teams_profile_is_visible_to_the_public_at": {
+        "string": "Your team's profile is visible to the public at {link}"
+    },
+    "community.profiles.your_organizations_profile_is_visible_to_the_public_at": {
+        "string": "Your organization's profile is visible to the public at {link}"
+    },
+    "community.seller.total_views": {
+        "string": "Total views"
+    },
+    "community.seller.total_purchases": {
+        "string": "Total purchases"
+    },
+    "community.seller.total_purchases_includes": {
+        "string": "Includes all new subscriptions, renewals, and one-time payments"
+    },
+    "community.seller.total_earned": {
+        "string": "Total earned"
+    },
+    "community.seller.all_sales_before_figmas_fees": {
+        "string": "All sales, before Figma's fees "
+    },
+    "community.seller.last_updated_on": {
+        "string": "Last updated on {date}"
+    },
+    "community.seller.views_label": {
+        "string": "{num, plural, one {View} other {Views}}"
+    },
+    "community.seller.subscribers_label": {
+        "string": "{num, plural, one {Subscriber} other {Subscribers}}"
+    },
+    "community.seller.purchases_label": {
+        "string": "{num, plural, one {Purchase} other {Purchases}}"
+    },
+    "community.seller.earned_this_month": {
+        "string": "Earned this month"
+    },
+    "community.actions.unable_to_load_stats_for_a_resource": {
+        "string": "Unable to load stats for a resource. Please try again later."
+    },
+    "community.seller.resources_for_sale": {
+        "string": "{numResources, plural, one {{numResources} resource for sale} other {{numResources} resources for sale}}"
+    },
+    "file_browser.settings.plugins_published": {
+        "string": "Plugins published to {orgName}"
+    },
+    "payments.learn_more": {
+        "string": "Learn more"
+    },
+    "payments.pending_subscription_modal_description": {
+        "string": "Refresh this page when your verification is complete so you can access your upgraded team."
+    },
+    "payments.pending_subscription_modal_header": {
+        "string": "Your payment verification is in progress"
+    },
+    "payments.got_it": {
+        "string": "Got it"
+    },
+    "tile.file_tile.pinned_by_user": {
+        "string": "Pinned by {name}"
+    },
+    "tile.file_tile.pinned_just_now": {
+        "string": "Pinned just now"
+    },
+    "shared_with_you.filters.all_organizations": {
+        "string": "All organizations"
+    }
+}

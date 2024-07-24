@@ -1,0 +1,152 @@
+{
+    "first_draft.theme_panel.label.fontTitle": {
+        "string": "Title"
+    },
+    "first_draft.theme_panel.label.fontBody": {
+        "string": "Body"
+    },
+    "first_draft.theme_panel.label.fontLabel": {
+        "string": "Labels"
+    },
+    "first_draft.theme_panel.color": {
+        "string": "Color"
+    },
+    "first_draft.theme_panel.font": {
+        "string": "Font"
+    },
+    "first_draft.theme_tool.color.light_mode": {
+        "string": "Light"
+    },
+    "first_draft.theme_tool.color.dark_mode": {
+        "string": "Dark"
+    },
+    "assets_in_actions.detail_view.fragments_tab.designs_title": {
+        "string": "Designs"
+    },
+    "asset_suggestions.visual_search_button": {
+        "string": "Search"
+    },
+    "asset_suggestions.visual_search_image_upload_button": {
+        "string": "Upload"
+    },
+    "asset_suggestions.visual_search_instructions": {
+        "string": "Select a layer, or upload an image"
+    },
+    "asset_suggestions.visual_search_results_title": {
+        "string": "Results for"
+    },
+    "fullscreen.toolbar.approval_pending": {
+        "string": "Approval pending"
+    },
+    "fullscreen.toolbar.approval_pending.dev_mode_grace_period_tooltip": {
+        "string": "{numDays, plural, one {Your admin will need to approve your request within {numDays} day for continued use.} other {Your admin will need to approve your request within {numDays} days for continued use.}}"
+    },
+    "fullscreen.filename_view.file_input_title": {
+        "string": "File name"
+    },
+    "fullscreen.filename_view.branch-count": {
+        "string": "{BRANCHES, plural, one {# branch} other {# branches}}"
+    },
+    "fullscreen.filename_view.drafts_to_move": {
+        "string": "Drafts to move"
+    },
+    "fullscreen.filename_view.edit_file_menu": {
+        "string": "Edit file menu"
+    },
+    "fullscreen.filename_view.duplicate-as-new": {
+        "string": "Duplicate as new file"
+    },
+    "fullscreen.filename_view.duplicate": {
+        "string": "Duplicate"
+    },
+    "fullscreen.filename_view.duplicate-to-drafts": {
+        "string": "Duplicate to your drafts"
+    },
+    "fullscreen.filename_view.version-history-hide": {
+        "string": "Hide version history"
+    },
+    "fullscreen.filename_view.version-history-show": {
+        "string": "Show version history"
+    },
+    "fullscreen.filename_view.publish-styles-and-components": {
+        "string": "Publish library…"
+    },
+    "fullscreen.filename_view.export": {
+        "string": "Export…"
+    },
+    "fullscreen.filename_view.rename-branch": {
+        "string": "Rename branch"
+    },
+    "fullscreen.filename_view.rename": {
+        "string": "Rename"
+    },
+    "fullscreen.filename_view.go_to_project": {
+        "string": "Go to project"
+    },
+    "fullscreen.filename_view.move-to-project": {
+        "string": "Move…"
+    },
+    "fullscreen.filename_view.unfavorite_label": {
+        "string": "Remove from your favorites"
+    },
+    "fullscreen.filename_view.favorite_label": {
+        "string": "Favorite this file"
+    },
+    "fullscreen.filename_view.archive-branch": {
+        "string": "Archive branch"
+    },
+    "fullscreen.filename_view.delete": {
+        "string": "Delete…"
+    },
+    "fullscreen.filename_view.delete-branch": {
+        "string": "Delete forever"
+    },
+    "fullscreen.filename_view.restore_default_thumbnail": {
+        "string": "Restore default thumbnail"
+    },
+    "fullscreen.toolbar.pending-org-join-request-tooltip": {
+        "string": "Editing is disabled until your request to join the {orgName} organization is approved"
+    },
+    "fullscreen.toolbar.edit-file-button-loading-aria-label": {
+        "string": "Loading…"
+    },
+    "fullscreen.toolbar.edit-file-button-hover-tooltip": {
+        "string": "Click to make changes to this file"
+    },
+    "collaboration.spotlight.button.stop": {
+        "string": "Stop spotlight"
+    },
+    "recordings.record_me": {
+        "string": "Record me"
+    },
+    "collaboration.spotlight.tooltip.menu.cancel_ask_to_spotlight": {
+        "string": "Cancel ask to spotlight"
+    },
+    "collaboration.spotlight.menu.search.placeholder": {
+        "string": "Find someone…"
+    },
+    "fullscreen.toolbar.multiplayer.all_users": {
+        "string": "All Multiplayer Users"
+    },
+    "fullscreen.toolbar.multiplayer.multiplayer_tools": {
+        "string": "Multiplayer tools"
+    },
+    "fullscreen.toolbar.multiplayer.more_users": {
+        "string": "More users"
+    },
+    "fullscreen.toolbar.zoom_menu.zoom_to_50": {
+        "string": "Zoom to 50%"
+    },
+    "fullscreen.toolbar.zoom_menu.zoom_to_200": {
+        "string": "Zoom to 200%"
+    },
+    "fullscreen.toolbar.zoom_menu.pixel_preview": {
+        "string": "Pixel preview"
+    },
+    "fullscreen_actions.toggle-show-property-labels": {
+        "string": "Property labels"
+    },
+    "fullscreen.toolbar.zoom_menu.pixel_preview_disabled": {
+        "string": "Disabled"
+    }
+}

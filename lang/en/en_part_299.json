@@ -1,0 +1,152 @@
+{
+    "members_table.true_up.freeze_invoice_new_dev_mode_seat_text": {
+        "string": "{quantity, plural, one {# new Dev Mode seat} other {# new Dev Mode seats}}"
+    },
+    "members_table.true_up.freeze_invoice_new_figjam_editor_text.seat_rename": {
+        "string": "{lockedQuantityFigJamEditors, plural, one {# new FigJam seat} other {# new FigJam seats}}"
+    },
+    "members_table.true_up.freeze_invoice_confirm_title_true_up.template": {
+        "string": "Add {seatsText} to your plan?"
+    },
+    "members_table.true_up.freeze_invoice_confirm_description_true_up.seat_rename": {
+        "string": "Once you confirm, anyone who joins with a full seat will be free until your next invoice. On {date}, you'll be invoiced for {lockedAmountToPay}."
+    },
+    "members_table.true_up.freeze_invoice_checkbox_text": {
+        "string": "I understand that this action isn’t reversible"
+    },
+    "members_table.true_up.freeze_invoice_button_text": {
+        "string": "Confirm and finalize"
+    },
+    "members_table.true_up.freeze_invoice_checkbox_title": {
+        "string": "Finalize invoice?"
+    },
+    "workspace_table.deleting_the_workspaces_will_cause": {
+        "string": "{licenseGroupsCount, plural, one {Deleting the {licenseGroupsNames} workspace will cause all members and teams of the workspace to move to \"Unassigned\".} other {Deleting the {licenseGroupsNames} workspaces will cause all members and teams of the workspaces to move to \"Unassigned\".}}"
+    },
+    "workspace_table.workspaces_deleted_toast": {
+        "string": "{licenseGroupsCount, plural, one {''{licenseGroupName}'' workspace deleted} other {{licenseGroupsCount} workspaces deleted}}"
+    },
+    "workspace_table.an_error_occurred_while_deleting_workspaces": {
+        "string": "An error occurred while deleting workspaces"
+    },
+    "workspace_table.delete_n_workspaces": {
+        "string": "{licenseGroupsCount, plural, one {Delete 1 workspace} other {Delete {licenseGroupsCount} workspaces}}"
+    },
+    "workspace_table.are_you_sure_you_want_to_delete_these_workspaces": {
+        "string": "{licenseGroupsCount, plural, one {Are you sure you want to delete this workspace?} other {Are you sure you want to delete these workspaces?}}"
+    },
+    "workspace.create_confirmation_modal.description.list.section": {
+        "string": "A {workspace} section in the sidebar"
+    },
+    "workspace.create_confirmation_modal.description.list.section.workspace": {
+        "string": "Workspace"
+    },
+    "workspace.create_confirmation_modal.description.list.browsing": {
+        "string": "A browsing experience for discovering workspaces"
+    },
+    "workspace.create_confirmation_modal.description.list.prompt": {
+        "string": "A prompt to choose their workspace (once you enable it)"
+    },
+    "workspace.create_confirmation_modal.description.list.search": {
+        "string": "Search results can be filtered by workspace"
+    },
+    "workspace.create_confirmation_modal.description.list.libraries": {
+        "string": "Libraries are organized by workspace in the Libraries modal"
+    },
+    "workspace.create_confirmation_modal.confirm": {
+        "string": "Create workspace"
+    },
+    "workspace.create_confirmation_modal.title": {
+        "string": "Create this workspace?"
+    },
+    "workspace.create_confirmation_modal.description.intro": {
+        "string": "When you first create a workspace, members of your organization will get the following new features right away:"
+    },
+    "workspace.create_confirmation_modal.description.outro": {
+        "string": "{learnMore} about these features or reach out to your account manager if you have questions."
+    },
+    "org_settings.workspace_controls.remove_custom_settings": {
+        "string": "Remove custom settings…"
+    },
+    "setting_tab.remove_custom_workspace_setting_warning": {
+        "string": "{workspaceName} will go back to using the default settings for public sharing."
+    },
+    "setting_tab.public_sharing.modal.cancel": {
+        "string": "Cancel"
+    },
+    "setting_tab.public_sharing.modal.remove": {
+        "string": "Remove"
+    },
+    "setting_tab.successfully_updated_workspace_public_link_controls": {
+        "string": "Updated workspace's public link setting"
+    },
+    "settings_tab.public_sharing.workspace_public_sharing_label": {
+        "string": "Allow public link sharing"
+    },
+    "settings_tab.public_sharing.workspace_public_sharing_subtext": {
+        "string": "Choose if this workspace's content can be shared publicly."
+    },
+    "settings_tab.public_sharing.remove_custom_workspace_settings": {
+        "string": "Remove custom settings?"
+    },
+    "resources_tab.approved_plugins.modal.approve…": {
+        "string": "Approve…"
+    },
+    "resources_tab.approved_plugins.modal.approve": {
+        "string": "Approve"
+    },
+    "resources_tab.approved_plugins.modal.edit_approvals": {
+        "string": "Edit approvals"
+    },
+    "resources_tab.approved_plugins.modal.remove": {
+        "string": "Remove"
+    },
+    "resources_tab.approved_plugins.modal.open_in_community": {
+        "string": "Open in Community ->"
+    },
+    "resources_tab.approved_plugins.modal.failed_to_update_plugin_approval": {
+        "string": "Failed to update plugin approval"
+    },
+    "resources_tab.approved_plugins.modal.plugin_approved_for": {
+        "string": "Plugin approved for {orgName}"
+    },
+    "resources_tab.approved_plugins.modal.widget_approved_for": {
+        "string": "Plugin approved for {orgName}"
+    },
+    "resources_tab.approved_plugins.modal.plugin_approval_removed_for": {
+        "string": "Plugin approval removed for {orgName}"
+    },
+    "resources_tab.approved_plugins.modal.widget_approval_removed_for": {
+        "string": "Widget approval removed for {orgName}"
+    },
+    "resources_tab.approved_plugins.modal.review_plugin": {
+        "string": "Review plugin"
+    },
+    "resources_tab.approved_plugins.modal.review_widget": {
+        "string": "Review widget"
+    },
+    "resources_tab.approved_plugins.modal.manage_plugin": {
+        "string": "Manage plugin"
+    },
+    "resources_tab.approved_plugins.modal.manage_widget": {
+        "string": "Manage widget"
+    },
+    "resources_tab.approved_plugins.modal.requested_by.one": {
+        "string": "Requested by {requesterName}"
+    },
+    "resources_tab.approved_plugins.modal.requested_by.two": {
+        "string": "Requested by {requesterName1} and {requesterName2}"
+    },
+    "resources_tab.approved_plugins.modal.requested_by.many": {
+        "string": "{numOthers, plural, one {Requested by {requesterName} and {numOthers} other} other {Requested by {requesterName} and {numOthers} others}}"
+    },
+    "resources_tab.approved_plugins.modal.approve_plugin": {
+        "string": "Approve plugin"
+    },
+    "resources_tab.approved_plugins.modal.approve_widget": {
+        "string": "Approve widget"
+    },
+    "resources_tab.approved_plugins.modal.allow_for_all_files_and_drafts_in_org_workspaces": {
+        "string": "Allow for files and drafts in all {orgName} workspaces"
+    }
+}

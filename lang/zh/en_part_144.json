@@ -1,0 +1,152 @@
+{
+    "dev_handoff.status.mark_status_sentence_part.completed": {
+        "string": "Completed"
+    },
+    "avatar_actions.editor_uploaded.an_error_occurred_while_setting_your_profile_photo": {
+        "string": "An error occurred while setting your profile photo."
+    },
+    "avatar_actions.team_icon_updated": {
+        "string": "Team icon updated"
+    },
+    "avatar_actions.an_error_occurred_while_setting_the_team_icon": {
+        "string": "An error occurred while setting the team icon."
+    },
+    "avatar_actions.an_error_occurred": {
+        "string": "An error occurred: "
+    },
+    "avatar_actions.an_error_occurred_while_setting_the_organization_icon": {
+        "string": "An error occurred while setting the organization icon."
+    },
+    "avatar_actions.workspace_icon_updated": {
+        "string": "Workspace icon updated"
+    },
+    "avatar_actions.an_error_occurred_while_setting_the_workspace_icon": {
+        "string": "An error occurred while setting the workspace icon."
+    },
+    "avatar_actions.an_error_occurred_while_uploading_the_image": {
+        "string": "An error occurred while uploading the image"
+    },
+    "community.actions.profile_not_found": {
+        "string": "Profile not found"
+    },
+    "community.actions.unable_to_fetch_comments": {
+        "string": "Unable to fetch comments"
+    },
+    "community.actions.couldnt_restrict_profile_error": {
+        "string": "Couldn't restrict profile: {error}"
+    },
+    "community.actions.couldnt_unrestrict_profile_error": {
+        "string": "Couldn't unrestrict profile: {error}"
+    },
+    "community.actions.error_fetching_profile_information": {
+        "string": "Error fetching profile information."
+    },
+    "community.actions.your_twitter_handle_is_not_valid": {
+        "string": "@{handle} is not a valid twitter handle"
+    },
+    "community.actions.your_instagram_handle_is_not_valid": {
+        "string": "@{handle} is not a valid instagram handle"
+    },
+    "community.actions.your_profile_handle_was_set_to_profile_handle": {
+        "string": "Your profile handle was set to @{profileHandle}"
+    },
+    "community.actions.your_team_s_handle_was_set_to_profile_handle": {
+        "string": "Your team's handle was set to @{profileHandle}"
+    },
+    "community.actions.your_organization_s_handle_was_set_to_profile_handle": {
+        "string": "Your organization's handle was set to @{profileHandle}"
+    },
+    "community.actions.your_twitter_handle_was_updated": {
+        "string": "Your Twitter handle was updated"
+    },
+    "community.actions.your_location_was_updated": {
+        "string": "Your location was updated"
+    },
+    "community.actions.your_instagram_handle_was_updated": {
+        "string": "Your Instagram handle was updated"
+    },
+    "community.actions.your_website_url_was_updated": {
+        "string": "Your website URL was updated"
+    },
+    "community.actions.your_description_was_updated": {
+        "string": "Your description was updated"
+    },
+    "community.actions.profile_deleted": {
+        "string": "Profile deleted."
+    },
+    "community.actions.unable_to_delete_profile_please_try_again_later": {
+        "string": "Unable to delete profile. Please try again later."
+    },
+    "community.actions.an_error_occurred_with_error": {
+        "string": "An error occurred: {error}"
+    },
+    "community.actions.an_error_occurred": {
+        "string": "An error occurred"
+    },
+    "community.actions.followed_profile_name": {
+        "string": "Followed {profileName}"
+    },
+    "community.actions.unable_to_follow_this_profile_profile_name": {
+        "string": "Unable to follow this profile: {profileName}"
+    },
+    "community.actions.unfollowed_profile": {
+        "string": "Unfollowed profile"
+    },
+    "community.actions.failed_to_resolve_comment": {
+        "string": "Failed to resolve comment"
+    },
+    "community.actions.failed_to_unresolve_comment": {
+        "string": "Failed to unresolve comment"
+    },
+    "community.actions.log_in_or_create_an_account_to_duplicate_this_file": {
+        "string": "Log in or create an account to duplicate this file"
+    },
+    "community.actions.failed_to_duplicate_file_error": {
+        "string": "Failed to duplicate file: {error}"
+    },
+    "community.actions.try_again_or_contact_support_figma_com": {
+        "string": "Try again or contact support@figma.com"
+    },
+    "community.actions.failed_to_create_a_new_file_from_hub_file_name": {
+        "string": "Failed to create a new file from {hubFileName}"
+    },
+    "community.actions.retry": {
+        "string": "Retry"
+    },
+    "community.actions.attempting_to_set_both_author_org_id_and_author_team_id_while_publishing": {
+        "string": "Attempting to set both authorOrgId and authorTeamId while publishing"
+    },
+    "community.actions.attempting_to_publish_an_invalid_prototype_as_a_prototype": {
+        "string": "Attempting to publish an invalid prototype as a prototype"
+    },
+    "community.actions.could_not_connect_to_the_server": {
+        "string": "Could not connect to the server."
+    },
+    "community.actions.error_uploading_images_e": {
+        "string": "Error uploading images"
+    },
+    "community.actions.could_not_publish_hub_file": {
+        "string": "Could not publish file: {error}"
+    },
+    "community.actions.error_connecting_to_server_to_upload_file_images": {
+        "string": "Error connecting to server to upload file images."
+    },
+    "community.actions.error_uploading_images_publish_update_from_editor": {
+        "string": "There was an error uploading your images. Please try publishing an update through the editor."
+    },
+    "community.actions.an_error_occurred_while_updating_please_refresh_and_try_again": {
+        "string": "An error occurred while updating. Please refresh and try again."
+    },
+    "community.actions.unable_to_duplicate": {
+        "string": "Unable to duplicate: {error}"
+    },
+    "community.actions.unable_to_like_this_file_error": {
+        "string": "Unable to like this file: {error}"
+    },
+    "community.actions.unable_to_unlike_this_file_error": {
+        "string": "Unable to unlike this file: {error}"
+    },
+    "community.actions.pick_extension_manifest_file": {
+        "string": "Pick extension manifest file"
+    }
+}

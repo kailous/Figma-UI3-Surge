@@ -1,0 +1,152 @@
+{
+    "proto.action_update_media_set_time_interaction": {
+        "string": "Set time interaction"
+    },
+    "proto.action_update_media_play_pause_interaction": {
+        "string": "Play/Pause interaction"
+    },
+    "proto.action_update_media_mute_unmute_interaction": {
+        "string": "Mute/Unmute interaction"
+    },
+    "proto.action_update_media_jump_time_interaction": {
+        "string": "Jump time interaction"
+    },
+    "proto.action_check_if_else_interaction": {
+        "string": "Check if/else interaction"
+    },
+    "proto.action_conditional_interaction": {
+        "string": "Conditional interaction"
+    },
+    "proto.action_update_media_jump": {
+        "string": "Jump"
+    },
+    "proto.action_update_media_set": {
+        "string": "Set"
+    },
+    "proto.interaction.type.mouse_enter_deprecated": {
+        "string": "Mouse move inside"
+    },
+    "proto.interaction.type.mouse_leave_deprecated": {
+        "string": "Mouse move outside"
+    },
+    "proto.interaction.type.none": {
+        "string": "None"
+    },
+    "proto.interaction.type.on_click": {
+        "string": "On click"
+    },
+    "proto.interaction.type.while_hovering": {
+        "string": "While hovering"
+    },
+    "proto.interaction.type.while_pressing": {
+        "string": "While pressing"
+    },
+    "proto.interaction.type.on_drag": {
+        "string": "On drag"
+    },
+    "proto.interaction.type.mouse_enter": {
+        "string": "Mouse enter"
+    },
+    "proto.interaction.type.mouse_leave": {
+        "string": "Mouse leave"
+    },
+    "proto.interaction.type.mouse_down": {
+        "string": "Mouse down"
+    },
+    "proto.interaction.type.mouse_up": {
+        "string": "Mouse up"
+    },
+    "proto.interaction.type.after_delay": {
+        "string": "After delay"
+    },
+    "proto.interaction.type.key_gamepad": {
+        "string": "Key/Gamepad"
+    },
+    "proto.interaction.type.on_voice": {
+        "string": "On voice"
+    },
+    "proto.interaction.type.when_video_hits": {
+        "string": "When video hits"
+    },
+    "proto.interaction.type.when_video_ends": {
+        "string": "When video ends"
+    },
+    "proto.interaction.type.on_tap": {
+        "string": "On tap"
+    },
+    "proto.interaction.type.touch_down": {
+        "string": "Touch down"
+    },
+    "proto.interaction.type.touch_up": {
+        "string": "Touch up"
+    },
+    "proto.interaction.type.click": {
+        "string": "Click"
+    },
+    "proto.interaction.type.hover": {
+        "string": "Hover"
+    },
+    "proto.interaction.type.press": {
+        "string": "Press"
+    },
+    "proto.interaction.type.drag": {
+        "string": "Drag"
+    },
+    "proto.interaction.type.delay": {
+        "string": "Delay"
+    },
+    "proto.interaction.type.key": {
+        "string": "Key"
+    },
+    "proto.interaction.type.voice": {
+        "string": "Voice"
+    },
+    "proto.interaction.type.video_hits": {
+        "string": "Video hits"
+    },
+    "proto.interaction.type.video_ends": {
+        "string": "Video ends"
+    },
+    "proto.interaction.type.tap": {
+        "string": "Tap"
+    },
+    "proto.overlay_position_centered": {
+        "string": "Centered"
+    },
+    "proto.overlay_position_top_left": {
+        "string": "Top left"
+    },
+    "proto.overlay_position_top_center": {
+        "string": "Top center"
+    },
+    "proto.overlay_position_top_right": {
+        "string": "Top right"
+    },
+    "proto.overlay_position_bottom_left": {
+        "string": "Bottom left"
+    },
+    "proto.overlay_position_bottom_center": {
+        "string": "Bottom center"
+    },
+    "proto.overlay_position_bottom_right": {
+        "string": "Bottom right"
+    },
+    "proto.overlay_position_manual": {
+        "string": "Manual"
+    },
+    "whiteboard.shapes.square": {
+        "string": "Square"
+    },
+    "whiteboard.shapes.rounded_rectangle": {
+        "string": "Rounded rectangle"
+    },
+    "whiteboard.shapes.diamond": {
+        "string": "Diamond"
+    },
+    "whiteboard.shapes.ellipse": {
+        "string": "Ellipse"
+    },
+    "whiteboard.shapes.triangle": {
+        "string": "Triangle"
+    }
+}

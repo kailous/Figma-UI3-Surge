@@ -1,0 +1,152 @@
+{
+    "permissions.invites_whitelist.the_following_users_were_not_approved_guests_in_org_name_org_please_request_access_for_them": {
+        "string": "{numEmails, plural, one {{listEmails} isn't an approved guest in the {orgName} organization. Ask your admins to give them access so you can invite them.} other {The following people aren't approved guests in the {orgName} organization. Ask your admins to give them access so you can invite them. {listEmails}}}"
+    },
+    "permissions.deprovisioned_users.these_users_are_no_longer_in_the_org_name_organization_add_them_again_through_SCIM": {
+        "string": "{numEmails, plural, one {{listEmails} is no longer in the {orgName} organization. To send them an invite, ask your admins to add them again through SCIM.} other {The following people are no longer in the {orgName} organization. To send them an invite, ask your admins to add them again through SCIM. {listEmails}}}"
+    },
+    "permissions.org_restricted_invite.these_invites_couldn_t_be_sent_with_org_name.seat_rename": {
+        "string": "{numEmails, plural, one {This invite couldn't be sent: {listEmails}. This file has a setting that doesn't allow people with viewer seats to share outside of the {orgName} organization.} other {These invites couldn't be sent: {listEmails}. This file has a setting that doesn't allow people with viewer seats to share outside of the {orgName} organization.}}"
+    },
+    "permissions.guests_banned.sharing_with_external_users_is_disabled": {
+        "string": "Sharing with external users is disabled"
+    },
+    "permissions.guests_banned.got_it": {
+        "string": "Got it"
+    },
+    "permissions.invites_require_access.almost_there": {
+        "string": "Almost there…"
+    },
+    "permissions.invites_require_access.got_it": {
+        "string": "Got it"
+    },
+    "permissions.invite_error_modal.couldn_t_send_invite": {
+        "string": "Couldn't send invite"
+    },
+    "permissions.invites_whitelist.got_it": {
+        "string": "Got it"
+    },
+    "permissions.deprovisioned_users.got_it": {
+        "string": "Got it"
+    },
+    "permissions.org_restricted_invite.got_it": {
+        "string": "Got it"
+    },
+    "permissions.link_password_set_by_current_user": {
+        "string": "You set the password {relativePasswordSetAt}."
+    },
+    "permissions.link_password_set_by_another_user": {
+        "string": "{userHandle} set the password {relativePasswordSetAt}."
+    },
+    "permissions.link_password_set_without_user": {
+        "string": "The password was set {relativePasswordSetAt}."
+    },
+    "permissions.link_password_reset": {
+        "string": "Reset"
+    },
+    "role_requests.header_text": {
+        "string": "{userName} and {othersText} are asking to {requestType}"
+    },
+    "role_requests.num_pending_requests": {
+        "string": "{numRoleRequests, plural, one {1 other person} other {{numRoleRequests} others}}"
+    },
+    "request_row.user_wants_to_request_type": {
+        "string": "{userHandle} wants to {requestType}"
+    },
+    "permissions_modal.restricted_figjam_disabled_with_product_name": {
+        "string": "Your account has been restricted on {productName} by an admin."
+    },
+    "permissions_modal.restricted_figjam_disabled": {
+        "string": "Your account has been restricted by an admin."
+    },
+    "viewer.accessibilitytree.disabled_placeholder": {
+        "string": "Screenreader support is currently disabled. To enable it, use the Accessibility settings from the Options menu."
+    },
+    "permissions.copy_link_button.visual_bell.see_link_settings": {
+        "string": "See link settings"
+    },
+    "viewer.flows_sidebar.copy_link_to_flow": {
+        "string": "Copy link to flow"
+    },
+    "viewer.menu_bar.open_in_editor": {
+        "string": "Open in editor"
+    },
+    "proto.header.skip_to_content": {
+        "string": "Skip to content"
+    },
+    "viewer.menu_bar.accessible_label": {
+        "string": "Prototype controls"
+    },
+    "proto.options_dropdown": {
+        "string": "Options dropdown"
+    },
+    "viewer.menu_bar.share": {
+        "string": "Share"
+    },
+    "viewer.menu_bar.share_prototype": {
+        "string": "Share prototype"
+    },
+    "viewer.menu_bar.log_in": {
+        "string": "Log in"
+    },
+    "viewer.menu_bar.log_in_or_create_account": {
+        "string": "Log in or create account"
+    },
+    "proto.file_browser": {
+        "string": "File browser"
+    },
+    "viewer.options.accessible_dom_enabled": {
+        "string": "Now adapting content for screen readers"
+    },
+    "viewer.options.accessible_dom_disabled": {
+        "string": "No longer adapting content for screen readers"
+    },
+    "viewer.menu_bar.add_comment": {
+        "string": "Add comment{padding}{shortcut}"
+    },
+    "proto.comment": {
+        "string": "Comment"
+    },
+    "viewer.flows_sidebar.close_sidebar": {
+        "string": "Close sidebar"
+    },
+    "viewer.flows_sidebar.open_sidebar": {
+        "string": "Open sidebar"
+    },
+    "proto.flows": {
+        "string": "Flows"
+    },
+    "viewer.menu_bar.exit_full_screen": {
+        "string": "Exit full screen ({shortcut})"
+    },
+    "viewer.menu_bar.enter_full_screen": {
+        "string": "Enter full screen ({shortcut})"
+    },
+    "viewer.menu_bar.full_screen_is_not_supported_by_this_browser": {
+        "string": "Full screen is not supported by this browser"
+    },
+    "viewer.debug_tools.debug_tools": {
+        "string": "Debug tools"
+    },
+    "viewer.debug_tools.toggle_debug_stats": {
+        "string": "Toggle debug stats"
+    },
+    "viewer.debug_tools.test_fake_web_gl_context_loss": {
+        "string": "Test fake WebGL context loss"
+    },
+    "viewer.debug_tools.test_real_web_gl_context_loss": {
+        "string": "Test real WebGL context loss"
+    },
+    "viewer.debug_tools.take_spector_snapshot": {
+        "string": "Take Spector.js snapshot"
+    },
+    "viewer.debug_tools.clear_tile_caches_and_take_spector_snapshot": {
+        "string": "Clear tile caches and take Spector.js snapshot"
+    },
+    "viewer.debug_tools.render_layer_by_layer": {
+        "string": "Render Layer by Layer"
+    },
+    "viewer.debug_tools.toggle_render_tree_printing": {
+        "string": "Toggle Render Tree Printing"
+    }
+}

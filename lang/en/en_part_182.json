@@ -1,0 +1,152 @@
+{
+    "team_creation.anyone_can_find_this_team": {
+        "string": "Anyone can find and request access to this team."
+    },
+    "team_creation.only_team_members_can_find_and_access": {
+        "string": "Only team members can find and access this team."
+    },
+    "team_view.team_permissions_modal.anyone_in_container_can_edit_this_team": {
+        "string": "Anyone in {containerName} can edit this team"
+    },
+    "folder_access_row.anyone_in_container_can_edit_this_project": {
+        "string": "Anyone in {containerName} can edit this project"
+    },
+    "team_view.team_permissions_modal.anyone_in_container_can_view_this_team": {
+        "string": "Anyone in {containerName} can view this team"
+    },
+    "folder_access_row.anyone_in_container_can_view_this_project": {
+        "string": "Anyone in {containerName} can view this project"
+    },
+    "team_view.team_permissions_modal.only_invited_people_can_access": {
+        "string": "Only invited people can access"
+    },
+    "file_audience_row.anyone_with_password": {
+        "string": "Anyone with password"
+    },
+    "permissions.anyone": {
+        "string": "Anyone"
+    },
+    "permissions.only_those_invited": {
+        "string": "Only those invited"
+    },
+    "permissions.audience_selector.can_only_be_adjusted_in_the_main_file": {
+        "string": "Can only be adjusted in the main file"
+    },
+    "permissions.audience_selector.anyone": {
+        "string": "Anyone"
+    },
+    "permissions.audience_selector.only_invited_people": {
+        "string": "Only invited people"
+    },
+    "permissions.audience_selector.team_resource_name": {
+        "string": "team"
+    },
+    "permissions.audience_selector.project_resource_name": {
+        "string": "project"
+    },
+    "permissions.audience_selector.file_resource_name": {
+        "string": "file"
+    },
+    "permissions.audience_selector.presentation_resource_name": {
+        "string": "presentation"
+    },
+    "permissions.audience_selector.prototype_resource_name": {
+        "string": "prototype"
+    },
+    "permissions.audience_selector.anyone_even_outside_your_org_can_access_this_resource": {
+        "string": "Anyone, even outside your organization, will be able to access this {resourceName}."
+    },
+    "permissions.audience_selector.anyone_even_those_outside_your_org_can_access_this_resource": {
+        "string": "Anyone, even those outside your organization, will be able to access this {resourceName}."
+    },
+    "permissions.audience_selector.audience_can_access_through_search_link_or_file_browser": {
+        "string": "{audience} can access this {resourceName} via search, the file browser, or a link."
+    },
+    "permissions.audience_selector.org_members": {
+        "string": "Org members"
+    },
+    "permissions.audience_selector.audience_can_access_through_link_or_file_browser": {
+        "string": "{audience} can access this {resourceName} via link or through the file browser."
+    },
+    "permissions.audience_selector.workspace_members": {
+        "string": "Workspace members"
+    },
+    "permissions.audience_selector.can_access_through_search_file_browser_link": {
+        "string": "Can access through search, the file browser, or a link."
+    },
+    "permissions.audience_selector.only_people_you_directly_invited_can_access": {
+        "string": "Only people you've directly invited can access this {resourceName}."
+    },
+    "file_access_row.org_name_members_have_emails_at_emails_list_show_less": {
+        "string": "{orgName} members have emails at {emailsList}. {showLess}"
+    },
+    "file_access_row.show_less": {
+        "string": "Show less"
+    },
+    "file_access_row.orgname_members_have_emails_at_first_domain_plus_others": {
+        "string": "{domainCount, plural, one {{orgName} members have emails at {firstDomain}} other {{orgName} members have emails at {firstDomain} {remainingDomainCountLink}}}"
+    },
+    "file_access_row.remaining_domain_count_more": {
+        "string": "+{remainingDomainCount} more"
+    },
+    "file_access_row.only_editors_can_invite_people_to_this_file.seat_rename": {
+        "string": "Only people with edit access can invite people to this file"
+    },
+    "file_access_row.anyone_with_the_link_disabled_by_admin": {
+        "string": "Anyone with the link (disabled by admin)"
+    },
+    "file_access_row.anyone_with_the_link_and_password_disabled_by_admin": {
+        "string": "Anyone with the link and password (disabled by admin)"
+    },
+    "file_access_row.external_users_can_view_this_file_but_need_admin_approval_to_edit": {
+        "string": "External users can view this file, but need admin approval to edit"
+    },
+    "file_permissions_modal.google_classroom_modal.disclaimer": {
+        "string": "Students will need access to this file—you can check or update file permissions in your {link}."
+    },
+    "file_permissions_modal.google_classroom_modal.disclaimer_link": {
+        "string": "share settings"
+    },
+    "file_permissions_modal.google_classroom_modal.editable_option": {
+        "string": "Let students join and edit this file directly"
+    },
+    "file_permissions_modal.google_classroom_modal.editable_option_description": {
+        "string": "They need edit access"
+    },
+    "file_permissions_modal.google_classroom_modal.duplicate_option": {
+        "string": "Make a copy for each student"
+    },
+    "file_permissions_modal.google_classroom_modal.duplicate_option_description": {
+        "string": "They need view or edit access"
+    },
+    "file_permissions_modal.screenshare_to_google_device": {
+        "string": "Cast to a Google Meet device"
+    },
+    "file_permissions_modal.collaborators_row_v2": {
+        "string": "{collaborator_1_name}, {collaborator_2_name} and {remaining_collaborator_text}"
+    },
+    "file_permissions_modal.collaborators_row_v2.num_remaining_collaborators_others": {
+        "string": "{num_remaining_collaborators} others"
+    },
+    "file_permissions_modal.share_as.embed": {
+        "string": "Get embed code"
+    },
+    "file_permissions_modal.share_as.publish.published": {
+        "string": "Update Community file"
+    },
+    "file_permissions_modal.share_as.publish": {
+        "string": "Publish to Community"
+    },
+    "file_permissions_modal.share_as.publish_template.published": {
+        "string": "Update template"
+    },
+    "file_permissions_modal.share_as.publish_template": {
+        "string": "Publish template"
+    },
+    "file_permissions_modal.share_as.copy_dev_mode_link": {
+        "string": "Copy Dev Mode link"
+    },
+    "file_permissions_modal.share_as.open_prototype_settings": {
+        "string": "Open prototype settings"
+    }
+}

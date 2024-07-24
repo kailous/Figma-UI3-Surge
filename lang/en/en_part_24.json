@@ -1,0 +1,152 @@
+{
+    "api_user.error.an_unknown_error_occurred": {
+        "string": "An unknown error occurred"
+    },
+    "fullscreen.file_import.internal_error_please_try_again_later": {
+        "string": "Internal error—wait a bit and try again"
+    },
+    "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit_go_to_drafts": {
+        "string": "{teamName} has reached the FigJam file limit. Try importing to your drafts."
+    },
+    "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit": {
+        "string": "{teamName} has reached the FigJam file limit"
+    },
+    "fullscreen.file_import.team_name_is_at_the_figma_file_limit": {
+        "string": "{teamName} is at the Figma file limit."
+    },
+    "fullscreen.file_import.go_to_drafts": {
+        "string": "Go to Drafts"
+    },
+    "flash.successfully_added_an_annual_plan": {
+        "string": "Successfully added an annual plan."
+    },
+    "flash.updated_annual_seats": {
+        "string": "Updated annual seats."
+    },
+    "flash.successfully_upgraded_to_an_education_team": {
+        "string": "Successfully upgraded to an Education Team"
+    },
+    "flash.successfully_downgraded_to_a_starter_team": {
+        "string": "Successfully downgraded to a Starter team."
+    },
+    "flash.team_will_become_free_starter_team_on_date": {
+        "string": "{teamName} will become a free Starter team on {cancelDate, date}"
+    },
+    "flash.team_will_be_downgraded_at_the_end_of_the_current_subscription_period": {
+        "string": "{teamName} will become a free Starter team at the end of the current subscription period"
+    },
+    "realtime.asset_reload.project_has_been_transferred_redirecting": {
+        "string": "Project has been transferred. Redirecting to new URL."
+    },
+    "realtime.asset_reload.team_has_been_transferred_redirecting": {
+        "string": "Team has been transferred. Redirecting to new URL."
+    },
+    "desktop_open_views.interstitial.opened_in_app": {
+        "string": "Opened “{fileName}” in Figma app"
+    },
+    "desktop_open_views.interstitial.opening_in_app": {
+        "string": "Opening “{fileName}” in Figma app…"
+    },
+    "desktop_open_views.interstitial.opened_link_in_app": {
+        "string": "Opened link in Figma app"
+    },
+    "desktop_open_views.interstitial.opening_link_in_app": {
+        "string": "Opening link in Figma app…"
+    },
+    "desktop_open_views.interstitial.open_here_instead": {
+        "string": "Open here instead"
+    },
+    "desktop_version_support.update_recommended": {
+        "string": "Update recommended"
+    },
+    "desktop_version_support.using_figma_in_japanese": {
+        "string": "Using Figma in Japanese? For full support, get the latest version of our desktop app from our Downloads page."
+    },
+    "desktop_version_support.get_app": {
+        "string": "Get app"
+    },
+    "desktop_version_support.close": {
+        "string": "Close"
+    },
+    "visual_bell.main_component_moved": {
+        "string": "The main component has been moved to {movedToFile}"
+    },
+    "visual_bell.main_component_deleted": {
+        "string": "The main component has been deleted."
+    },
+    "org_view.your_teams": {
+        "string": "Your teams"
+    },
+    "org_view.libraries": {
+        "string": "Libraries"
+    },
+    "org_view.shared_fonts": {
+        "string": "Shared fonts"
+    },
+    "org_view.plugins": {
+        "string": "Plugins"
+    },
+    "org_view.widgets": {
+        "string": "Widgets"
+    },
+    "design_systems.libraries_modal.loading_dsa_message": {
+        "string": "Crunching tons of component data. This might take a minute…"
+    },
+    "design_systems.libraries_modal.total_teams": {
+        "string": "Total teams"
+    },
+    "design_systems.libraries_modal.plural.team": {
+        "string": "{teamCount, plural, one {team} other {teams}}"
+    },
+    "design_systems.libraries_modal.teams_with_libraries": {
+        "string": "Teams with libraries"
+    },
+    "design_systems.libraries_modal.total_libraries": {
+        "string": "Total libraries"
+    },
+    "design_systems.libraries_modal.plural.library": {
+        "string": "{libraryCount, plural, one {library} other {libraries}}"
+    },
+    "design_systems.libraries_modal.total_components": {
+        "string": "Total components"
+    },
+    "design_systems.libraries_modal.plural.component": {
+        "string": "{componentCount, plural, one {component} other {components}}"
+    },
+    "design_systems.libraries_modal.total_styles": {
+        "string": "Total styles"
+    },
+    "design_systems.libraries_modal.plural.style": {
+        "string": "{styleCount, plural, one {style} other {styles}}"
+    },
+    "community.actions.error_fetching_email_notifications_information_error": {
+        "string": "Error fetching email notifications information: {error}"
+    },
+    "community.actions.error_unsubscribing_from_email_error": {
+        "string": "Error unsubscribing from email: {error}"
+    },
+    "community.actions.error_subscribing_to_email_error": {
+        "string": "Error subscribing to email: {error}"
+    },
+    "design_systems.libraries_modal.teams_and_libraries": {
+        "string": "Teams and libraries"
+    },
+    "design_systems.libraries_modal.components": {
+        "string": "Components"
+    },
+    "design_systems.libraries_modal.styles": {
+        "string": "Styles"
+    },
+    "design_systems.libraries_modal.used_by": {
+        "string": "Used by"
+    },
+    "design_systems.libraries_modal.inserts_last_week": {
+        "string": "Inserts last week"
+    },
+    "presets.mac_book_pro_14": {
+        "string": "MacBook Pro 14\""
+    },
+    "presets.mac_book_pro_16": {
+        "string": "MacBook Pro 16\""
+    }
+}

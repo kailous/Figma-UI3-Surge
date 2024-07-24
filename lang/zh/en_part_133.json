@@ -1,0 +1,152 @@
+{
+    "asset_transfers.request_modal.request_transfer": {
+        "string": "Request transfer"
+    },
+    "asset_transfers.request_modal.start_this_transfer": {
+        "string": "Start this transfer"
+    },
+    "asset_transfers.request_modal.once_a_transfer_is_accepted_by_an_external_organization_it_can_t_be_undone": {
+        "string": "Once a transfer is accepted by an external organization, it can't be undone."
+    },
+    "asset_transfers.request_modal.step_1_of_2": {
+        "string": "Step {stepNumber} of 2"
+    },
+    "asset_transfers.request_modal.cancel": {
+        "string": "Cancel"
+    },
+    "asset_transfers.request_modal.back": {
+        "string": "Back"
+    },
+    "asset_transfers.request_modal.web_link": {
+        "string": "Web link"
+    },
+    "asset_transfers.request_modal.email_address": {
+        "string": "Email address"
+    },
+    "asset_transfers.request_modal.add_a_message_if_you_d_like": {
+        "string": "Add a message if you'd like"
+    },
+    "team_view.add_to_favorites": {
+        "string": "Add to your favorites"
+    },
+    "file_browser.folder_list_view.header_name_column": {
+        "string": "Name"
+    },
+    "file_browser.folder_list_view.header_files_column": {
+        "string": "Files"
+    },
+    "file_browser.folder_list_view.header_updated_column": {
+        "string": "Updated"
+    },
+    "file_browser.folder_list_view.header_created_column": {
+        "string": "Created"
+    },
+    "file_browser.folder_list_view.header_shared_at_column": {
+        "string": "Shared at"
+    },
+    "file_browser.folder_list_view.header_shared_by_column": {
+        "string": "Shared by"
+    },
+    "file_browser.folder_list_view.file_singular": {
+        "string": "1 file"
+    },
+    "file_browser.folder_list_view.files": {
+        "string": "{fileCount} files"
+    },
+    "tile.dropdown.no_permission_to_restore_error": {
+        "string": "You don't have permission to restore these files."
+    },
+    "file_browser.file_browser_actions.recently_viewed_error": {
+        "string": "{numFiles, plural, one {An error occurred while removing this file from Recently Viewed.} other {An error occurred while removing these files from Recently Viewed.}}"
+    },
+    "favorited_resources.indicate_section_prefix": {
+        "string": "Sidebar"
+    },
+    "tile.dropdown.copy_link": {
+        "string": "Copy link"
+    },
+    "tile.dropdown.delete_file_and_branches": {
+        "string": "Delete file and branches"
+    },
+    "tile.dropdown.delete_single_tile": {
+        "string": "Delete"
+    },
+    "tile.dropdown.delete_file": {
+        "string": "Delete{objText}"
+    },
+    "tile.dropdown.move_file_and_branches_to_trash": {
+        "string": "Move file and branches to trash"
+    },
+    "tile.dropdown.trash_single_tile": {
+        "string": "Move to trash"
+    },
+    "tile.dropdown.trash_file": {
+        "string": "Trash{objText}"
+    },
+    "tile.dropdown.duplicate_single_tile": {
+        "string": "Duplicate"
+    },
+    "tile.dropdown.duplicate": {
+        "string": "Duplicate{objText}"
+    },
+    "tile.dropdown.duplicate_to_draft_single_file_or_repo": {
+        "string": "Duplicate to drafts"
+    },
+    "tile.dropdown.duplicate_to_draft": {
+        "string": "Duplicate {objText} to drafts"
+    },
+    "tile.dropdown.open": {
+        "string": "Open"
+    },
+    "tile.dropdown.open_new_tab": {
+        "string": "Open in new tab"
+    },
+    "tile.dropdown.pin_to_project": {
+        "string": "Pin to project"
+    },
+    "tile.dropdown.pin_to_workspace": {
+        "string": "Pin to workspace"
+    },
+    "tile.dropdown.remove_from_recent_pluralized": {
+        "string": "{numFiles, plural, one {Remove from recent} other {Remove {numFiles} items from recent}}"
+    },
+    "tile.dropdown.rename": {
+        "string": "Rename"
+    },
+    "tile.dropdown.rename_file": {
+        "string": "Rename file"
+    },
+    "tile.dropdown.move_file": {
+        "string": "Move file…"
+    },
+    "tile.dropdown.restore_from_version": {
+        "string": "Restore from version"
+    },
+    "tile.dropdown.share": {
+        "string": "Share"
+    },
+    "tile.dropdown.show_in_project": {
+        "string": "Show in project"
+    },
+    "tile.dropdown.remove_project_pin": {
+        "string": "Remove project pin"
+    },
+    "tile.dropdown.remove_workspace_pin": {
+        "string": "Remove workspace pin"
+    },
+    "tile.dropdown.edit_workspace_pin": {
+        "string": "Edit workspace pin"
+    },
+    "tile.dropdown.create_new_branch": {
+        "string": "Create new branch"
+    },
+    "tile.dropdown.delete_forever": {
+        "string": "Permanently delete{objectText}"
+    },
+    "tile.dropdown.restore": {
+        "string": "{numFiles, plural, one {Restore} other {Restore {objectText}}}"
+    },
+    "fullscreen.filename_view.file_analytics": {
+        "string": "Library analytics"
+    }
+}

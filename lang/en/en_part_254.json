@@ -1,0 +1,152 @@
+{
+    "cursor_bot.show_me": {
+        "string": "Show me"
+    },
+    "proto.overlay_settings": {
+        "string": "Overlay settings"
+    },
+    "proto.close_when_clicking_outside": {
+        "string": "Close when clicking outside"
+    },
+    "proto.overlay_panel.background": {
+        "string": "Background"
+    },
+    "proto.add_background": {
+        "string": "Add background"
+    },
+    "proto.overlay_panel.position": {
+        "string": "Position"
+    },
+    "proto.background": {
+        "string": "Background"
+    },
+    "proto.tooltip_overlay_position_center": {
+        "string": "Center"
+    },
+    "proto.tooltip_overlay_position_top_left": {
+        "string": "Top left"
+    },
+    "proto.tooltip_overlay_position_bottom_center": {
+        "string": "Bottom center"
+    },
+    "proto.variable": {
+        "string": "Variable"
+    },
+    "proto.variable.value": {
+        "string": "Value"
+    },
+    "proto.select_variable.short": {
+        "string": "Pick variable"
+    },
+    "proto.select_variable": {
+        "string": "Pick target variable"
+    },
+    "proto.state_management.reset_video_state": {
+        "string": "Reset video state"
+    },
+    "proto.animation_panel.reset_video_state": {
+        "string": "Reset video states"
+    },
+    "proto.animation_panel.preserve_scroll_position": {
+        "string": "Preserve scroll position"
+    },
+    "proto.animation_panel.reset_scroll_position": {
+        "string": "Reset scroll position"
+    },
+    "proto.animation_panel.reset_component_state": {
+        "string": "Reset component state"
+    },
+    "proto.state_management": {
+        "string": "State management"
+    },
+    "proto.state_management.mixed_state_update": {
+        "string": "Update to new state management to change mixed content."
+    },
+    "proto.state": {
+        "string": "State"
+    },
+    "proto.video_dropdown.label": {
+        "string": "Video"
+    },
+    "proto.target_video_node_name_formatter.this_video": {
+        "string": "This video"
+    },
+    "proto.action_open_url_in_new_tab": {
+        "string": "Open in new tab"
+    },
+    "proto.open_url.text_input_label": {
+        "string": "Link"
+    },
+    "proto.interaction.example_com": {
+        "string": "example.com"
+    },
+    "proto.scroll_options.scroll_offset.y": {
+        "string": "Y"
+    },
+    "proto.scroll_options.scroll_offset.x": {
+        "string": "X"
+    },
+    "proto.scroll_options.offset": {
+        "string": "Offset"
+    },
+    "proto.trigger.y_offset": {
+        "string": "Y-Offset"
+    },
+    "proto.trigger.x_offset": {
+        "string": "X-Offset"
+    },
+    "proto.video_options.behavior": {
+        "string": "Behavior"
+    },
+    "proto.video_options.direction": {
+        "string": "Direction"
+    },
+    "proto.video_options.offset": {
+        "string": "Offset"
+    },
+    "proto.video_options.timestamp": {
+        "string": "Timestamp"
+    },
+    "proto.trigger.timestamp_to_set_to": {
+        "string": "Timestamp to set to"
+    },
+    "proto.trigger.duration_to_jump_backward": {
+        "string": "Duration to jump backward"
+    },
+    "proto.trigger.duration_to_jump_forward": {
+        "string": "Duration to jump forward"
+    },
+    "proto.prototype_panel.use_the_circular_node_to_connect_the_selected_object_to_another_frame_tooltip": {
+        "string": "Use the circular node to connect the selected object to another frame."
+    },
+    "proto.action_overlay_title": {
+        "string": "Open {overlayFrameName} as Overlay"
+    },
+    "proto.action_set_variable_title": {
+        "string": "Set {variableName} to {variableValue}"
+    },
+    "proto.action_swap_overlay_title": {
+        "string": "Swap overlay to"
+    },
+    "proto.action_url_title": {
+        "string": "Open"
+    },
+    "proto.if": {
+        "string": "if"
+    },
+    "proto.action_conditional_title": {
+        "string": "If"
+    },
+    "proto.keyCapture.press_key_lowercase": {
+        "string": "Press key"
+    },
+    "proto.keyCapture.press_key": {
+        "string": "Press Key"
+    },
+    "proto.keyCapture.click_to_set_key": {
+        "string": "Click to set key"
+    },
+    "proto.keyCapture.click_to_select": {
+        "string": "Click to select"
+    }
+}

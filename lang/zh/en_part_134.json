@@ -1,0 +1,152 @@
+{
+    "tile.dropdown.multiple_file_suffix": {
+        "string": " {totalSelected} files"
+    },
+    "collaboration.branching.updates_available_from_main_file": {
+        "string": "Updates available from main file"
+    },
+    "idle_timeout.warning_modal.body": {
+        "string": "For security, {orgName} accounts are logged out after being inactive for {duration}."
+    },
+    "idle_timeout.warning_modal.button": {
+        "string": "Stay signed in"
+    },
+    "idle_timeout.warning_modal.title": {
+        "string": "Still working?"
+    },
+    "settings_tab.idle_session_timeout.time.days": {
+        "string": "{duration, plural, one {{duration} day} other {{duration} days}}"
+    },
+    "settings_tab.idle_session_timeout.time.hours": {
+        "string": "{duration, plural, one {{duration} hour} other {{duration} hours}}"
+    },
+    "settings_tab.idle_session_timeout.time.minutes": {
+        "string": "{duration, plural, one {{duration} minute} other {{duration} minutes}}"
+    },
+    "auth.extra-info.job-type-badge.education": {
+        "string": "In education"
+    },
+    "auth.extra-info.job-type-badge.software-development": {
+        "string": "Developer"
+    },
+    "auth.extra-info.job-type-badge.user-research": {
+        "string": "User researcher"
+    },
+    "auth.extra-info.job-type-badge.design": {
+        "string": "Designer"
+    },
+    "auth.extra-info.job-type-badge.marketing": {
+        "string": "Marketer"
+    },
+    "auth.extra-info.job-type-badge.product-management": {
+        "string": "Product manager"
+    },
+    "auth.extra-info.job-type-badge.other": {
+        "string": "Other"
+    },
+    "auth.extra-info.job-type.education": {
+        "string": "Student or educator"
+    },
+    "auth.extra-info.job-type.software-development": {
+        "string": "Software development"
+    },
+    "auth.extra-info.job-type.user-research": {
+        "string": "User research"
+    },
+    "auth.extra-info.job-type.design": {
+        "string": "Design"
+    },
+    "auth.extra-info.job-type.marketing": {
+        "string": "Marketing"
+    },
+    "auth.extra-info.job-type.product-management": {
+        "string": "Product management"
+    },
+    "auth.extra-info.job-type.other": {
+        "string": "Other"
+    },
+    "collaboration.spotlight.visual_bell.nominated_user_to_spotlight": {
+        "string": "Asked {userName} to spotlight"
+    },
+    "collaboration.spotlight.visual_bell.stopped_nominating_user_to_spotlight": {
+        "string": "Canceled ask to spotlight"
+    },
+    "search.facets.resource": {
+        "string": "Type"
+    },
+    "search.facets.creator": {
+        "string": "By"
+    },
+    "search.facets.in": {
+        "string": "In"
+    },
+    "search.facets.design_files": {
+        "string": "Design files"
+    },
+    "search.facets.figjam_boards": {
+        "string": "FigJam boards"
+    },
+    "search.facets.slides": {
+        "string": "Slide decks"
+    },
+    "search.facets.sites": {
+        "string": "Websites"
+    },
+    "search.facets.people": {
+        "string": "People"
+    },
+    "search.facets.projects": {
+        "string": "Projects"
+    },
+    "search.facets.teams": {
+        "string": "Teams"
+    },
+    "search.preview_section.all_files": {
+        "string": "All files"
+    },
+    "search.facets.design": {
+        "string": "Design"
+    },
+    "search.facets.figjam": {
+        "string": "FigJam"
+    },
+    "search.facets.name_and_you": {
+        "string": "{name} (You)"
+    },
+    "search.facets.multiple_creators": {
+        "string": "{numCreators, plural, one {{numCreators} person} other {{numCreators} people}}"
+    },
+    "search.facets.multiple_spaces": {
+        "string": "{numSpaces, plural, one {{numSpaces} space} other {{numSpaces} spaces}}"
+    },
+    "search.facets.filter_limit_reached": {
+        "string": "5 filters max per filter type—remove one to add another"
+    },
+    "search.error.max_query_length_exceeded": {
+        "string": "Try a shorter search. A few words or phrases work best"
+    },
+    "search.empty_state.no_results_matching": {
+        "string": "No results matching {searchQuery}"
+    },
+    "search.empty_state.no_results_no_query": {
+        "string": "Type to start searching"
+    },
+    "search.facets.find_someone": {
+        "string": "Find someone…"
+    },
+    "search.preview_section.all_resources": {
+        "string": "All types"
+    },
+    "search.facets.filter_spaces_org": {
+        "string": "Filter by project or team"
+    },
+    "search.facets.filter_spaces_team": {
+        "string": "Filter by project"
+    },
+    "search.facets.projects_teams_orgs": {
+        "string": "Projects, teams, and organizations"
+    },
+    "search.preview_section.projects_capitalized": {
+        "string": "Projects"
+    }
+}

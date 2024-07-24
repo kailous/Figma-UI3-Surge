@@ -1,0 +1,152 @@
+{
+    "pro_trials_v3.pro_trial_initiation_modal.go_back": {
+        "string": "Go back"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.what_type_of_team": {
+        "string": "What type of team is {teamName}?"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.not_being_nosy": {
+        "string": "We’re not just being nosy—this info helps make Figma better."
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.continue": {
+        "string": "Continue"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.pick_a_team": {
+        "string": "Pick a team for your trial"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.everyone_will_be_upgraded": {
+        "string": "Everyone will be upgraded to Professional automatically"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.upgrade_to_pro": {
+        "string": "Upgrade to Professional"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.cancel": {
+        "string": "Cancel"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.editors.seat_rename": {
+        "string": "{numEditors, plural, one {{numEditors} seat} other {{numEditors} seats}}"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.step_counter": {
+        "string": "Step {currentStep} of {totalSteps}"
+    },
+    "sidebar.drafts_to_move": {
+        "string": "Drafts to move"
+    },
+    "file_browser.drafts_to_move.long_running_draft_migration": {
+        "string": "We're working to move your drafts"
+    },
+    "file_browser.drafts_to_move.long_running_draft_migration_learn_more": {
+        "string": "Learn more"
+    },
+    "file_browser.drafts_to_move.long_running_draft_migration_completed": {
+        "string": "Your drafts have been successfully moved"
+    },
+    "navbar.navbar.view_only_plans": {
+        "string": "View-only plans"
+    },
+    "navbar.navbar.disabled_by_your_admins": {
+        "string": "Disabled by your admins"
+    },
+    "navbar.navbar.create_new": {
+        "string": "Create new"
+    },
+    "navbar.navbar.enterprise": {
+        "string": "Enterprise"
+    },
+    "navbar.navbar.org": {
+        "string": "Org"
+    },
+    "navbar.navbar.edu": {
+        "string": "Edu"
+    },
+    "navbar.navbar.trial_expired": {
+        "string": "Trial expired"
+    },
+    "navbar.navbar.locked": {
+        "string": "Locked"
+    },
+    "navbar.navbar.pro_trial": {
+        "string": "Pro trial"
+    },
+    "navbar.navbar.pro": {
+        "string": "Pro"
+    },
+    "navbar.navbar.free": {
+        "string": "Free"
+    },
+    "navbar.settings_dropdown.button_label": {
+        "string": "Open account dropdown"
+    },
+    "navbar.navbar.notifications_disabled_tooltip": {
+        "string": "Notifications temporarily disabled"
+    },
+    "rcs.account_profile_switcher.title": {
+        "string": "Switching in Figma, made easy"
+    },
+    "rcs.account_profile_switcher.description": {
+        "string": "We’ve combined account and profile switching in the top left. You can also switch to other teams and organizations right below in the sidebar."
+    },
+    "navbar.settings_dropdown.profile_label": {
+        "string": "Profile"
+    },
+    "navbar.settings_dropdown.settings": {
+        "string": "Settings"
+    },
+    "navbar.settings_dropdown.theme": {
+        "string": "Theme"
+    },
+    "navbar.profile_switcher.community": {
+        "string": "Community profile"
+    },
+    "navbar.profile_switcher.create_a_community_profile": {
+        "string": "Create a community profile"
+    },
+    "navbar.navbar.logout_button_label": {
+        "string": "Log out"
+    },
+    "navbar.profile_switcher.logout_all_accounts": {
+        "string": "Log out of all accounts"
+    },
+    "navbar.profile_switcher.add_account": {
+        "string": "Add account"
+    },
+    "navbar.settings_dropdown.desktop_app_cta": {
+        "string": "Get desktop app"
+    },
+    "multi-account.max_accounts_body": {
+        "string": "It looks like you're signed in to 10 accounts. You'll need to log out of one of these accounts before you can sign in to another one."
+    },
+    "multi-account.max_accounts_submit": {
+        "string": "Got it"
+    },
+    "multi-account.max_accounts_title": {
+        "string": "You've reached the maximum number of accounts"
+    },
+    "account_switcher.view_community_profile": {
+        "string": "View Community profile"
+    },
+    "account_switcher.view_profile": {
+        "string": "View profile"
+    },
+    "account_switcher.change_photo": {
+        "string": "Change photo"
+    },
+    "dev_handoff.code.settings.language": {
+        "string": "Language"
+    },
+    "dev_handoff.inspect_panel.more_plugins": {
+        "string": "More plugins…"
+    },
+    "variables.create_modal.title": {
+        "string": "Variable"
+    },
+    "variables.create_modal.collection_label": {
+        "string": "Collection"
+    },
+    "variables.create_modal.name_label": {
+        "string": "Name"
+    },
+    "variables.create_modal.create_button": {
+        "string": "Create variable"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "proto.delay": {
+        "string": "Delay"
+    },
+    "proto.key": {
+        "string": "Key"
+    },
+    "proto.time": {
+        "string": "Time"
+    },
+    "proto.trigger.after_delay_timeout": {
+        "string": "After delay timeout"
+    },
+    "proto.trigger.video_hit_time": {
+        "string": "Video hit time"
+    },
+    "proto.trigger.add_delay_placeholder": {
+        "string": "Add delay"
+    },
+    "proto.set_variable_mode.collection_label": {
+        "string": "Collection"
+    },
+    "proto.set_variable_mode.mode_label": {
+        "string": "Mode"
+    },
+    "proto.prototype_panel.edit_set_mode.none": {
+        "string": "None"
+    },
+    "proto.prototype_panel.edit_set_mode.missing_collection": {
+        "string": "(missing collection)"
+    },
+    "proto.prototype_panel.edit_set_mode.missing_mode": {
+        "string": "(missing mode)"
+    },
+    "proto.state_management.revert_controls": {
+        "string": "Revert"
+    },
+    "proto.state_management.update_controls": {
+        "string": "Update"
+    },
+    "proto.state_management.new_controls": {
+        "string": "State management updated. "
+    },
+    "proto.state_management.old_controls": {
+        "string": "Old state management in use. "
+    },
+    "proto.state_management.controls_help_link_new": {
+        "string": "Learn more"
+    },
+    "proto.state_management.controls_help_link": {
+        "string": "Learn more…"
+    },
+    "proto.state_management.visual_bell_updated_message": {
+        "string": "Updated interaction to use new state management"
+    },
+    "proto.state_management.visual_bell_update_all": {
+        "string": "Update all"
+    },
+    "proto.state_management.visual_bell_update_all_message": {
+        "string": "Updated all interactions"
+    },
+    "whiteboard.inserts.see_more_from_community": {
+        "string": "See more from Community"
+    },
+    "whiteboard.inserts.widgets": {
+        "string": "Widgets"
+    },
+    "whiteboard.inserts.plugins": {
+        "string": "Plugins"
+    },
+    "whiteboard.inserts.faces_title": {
+        "string": "Faces"
+    },
+    "whiteboard.inserts.see_more": {
+        "string": "See more…"
+    },
+    "whiteboard.inserts.stickers": {
+        "string": "Stickers"
+    },
+    "whiteboard.inserts.see_num_more_resources": {
+        "string": "{numMoreResources, plural, one {See {numMoreResources} more result} other {See {numMoreResources} more results}}"
+    },
+    "whiteboard.inserts.templates": {
+        "string": "Templates"
+    },
+    "whiteboard.inserts.widgets_subtitle": {
+        "string": "Handy tools you can plop down wherever."
+    },
+    "whiteboard.inserts.plugins_subtitle": {
+        "string": "Do more (much more) with FigJam."
+    },
+    "whiteboard.inserts.stickers_subtitle": {
+        "string": "For voting, reacting, or making things pop."
+    },
+    "whiteboard.inserts.templates_subtitle": {
+        "string": "So you don’t have to start from scratch."
+    },
+    "whiteboard.inserts.more": {
+        "string": "More"
+    },
+    "whiteboard.inserts.stickers_and_components": {
+        "string": "Stickers & components"
+    },
+    "whiteboard.inserts.by_publisher_name": {
+        "string": "by {publisherName}"
+    },
+    "whiteboard.inserts.use_cases_break_the_ice": {
+        "string": "Break the ice"
+    },
+    "whiteboard.inserts.use_cases_brainstorm_together_description": {
+        "string": "Find inspiration, generate ideas, and vote on your favorites."
+    },
+    "whiteboard.inserts.use_cases_run_a_meeting_description": {
+        "string": "Hold syncs, retros, and more, together with your team."
+    },
+    "whiteboard.inserts.use_cases_diagram_anything_description": {
+        "string": "Map out processes, flows, and your most out-there ideas."
+    },
+    "whiteboard.inserts.use_cases_lead_a_workshop_description": {
+        "string": "Remote or not, FigJam makes workshops easy and engaging."
+    },
+    "whiteboard.inserts.use_cases_break_the_ice_description": {
+        "string": "Turn total strangers into slightly-more-talkative total strangers."
+    },
+    "whiteboard.inserts.start_from_a_template": {
+        "string": "Start from a template"
+    },
+    "whiteboard.inserts.try_handmade_templates_created_by_your_team": {
+        "string": "Try handmade templates, created by your team."
+    },
+    "whiteboard.inserts.org_name_templates": {
+        "string": "{orgName} templates"
+    },
+    "whiteboard.inserts.clear": {
+        "string": "Clear"
+    },
+    "whiteboard.inserts.clear_search": {
+        "string": "Clear search"
+    },
+    "whiteboard.inserts.browse_more_in_community": {
+        "string": "Browse more in Community"
+    },
+    "whiteboard.inserts.recents": {
+        "string": "Recents"
+    },
+    "whiteboard.inserts.libraries": {
+        "string": "Libraries"
+    },
+    "whiteboard.inserts.add_your_own": {
+        "string": "Add your own"
+    }
+}

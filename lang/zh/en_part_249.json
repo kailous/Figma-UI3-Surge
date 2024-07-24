@@ -1,0 +1,152 @@
+{
+    "canvas_search.search": {
+        "string": "Find"
+    },
+    "canvas_search.replace": {
+        "string": "Replace"
+    },
+    "canvas_search.filter.all": {
+        "string": "All"
+    },
+    "canvas_search.settings": {
+        "string": "Settings"
+    },
+    "canvas_search.filter.remove": {
+        "string": "Remove"
+    },
+    "canvas_search.filter.text": {
+        "string": "Text"
+    },
+    "canvas_search.filter.frame_or_group": {
+        "string": "Frame / Group"
+    },
+    "canvas_search.filter.component": {
+        "string": "Component"
+    },
+    "canvas_search.filter.instance": {
+        "string": "Instance"
+    },
+    "canvas_search.filter.image": {
+        "string": "Image"
+    },
+    "canvas_search.filter.shape": {
+        "string": "Shape"
+    },
+    "canvas_search.filter.other": {
+        "string": "Other"
+    },
+    "canvas_search.filter.match_case": {
+        "string": "Match case"
+    },
+    "canvas_search.filter.whole_words": {
+        "string": "Whole words"
+    },
+    "whiteboard.timer.unmute_music_message": {
+        "string": "There’s music playing—unmute to bop along."
+    },
+    "whiteboard.timer.unmute_music_button": {
+        "string": "Unmute music"
+    },
+    "whiteboard.music.stop_music_confirmation_prompt": {
+        "string": "Stop the music?"
+    },
+    "whiteboard.music.stop_music_confirmation_subtext": {
+        "string": "This stops the music for everyone, not just you."
+    },
+    "whiteboard.music.stop_music_cancel_button": {
+        "string": "Cancel"
+    },
+    "whiteboard.timer.stop_timer_confirmation_button": {
+        "string": "Stop music"
+    },
+    "whiteboard.music.end_music_tooltip": {
+        "string": "Stop music"
+    },
+    "whiteboard.music.play_music_tooltip": {
+        "string": "Start music"
+    },
+    "whiteboard.timer.min": {
+        "string": "{timeIncrement} min"
+    },
+    "whiteboard.timer.end_timer_confirmation_new": {
+        "string": "Stop the timer?"
+    },
+    "whiteboard.timer.end_timer_confirmation_subtext_new": {
+        "string": "This stops the timer for everyone, not just you."
+    },
+    "whiteboard.timer.end_timer_go_back_new": {
+        "string": "Cancel"
+    },
+    "whiteboard.timer.end_timer_button_new": {
+        "string": "Stop timer"
+    },
+    "whiteboard.timer.start_timer_tooltip": {
+        "string": "Start timer"
+    },
+    "whiteboard.timer.resume_timer_tooltip": {
+        "string": "Resume timer"
+    },
+    "whiteboard.timer.pause_timer_tooltip": {
+        "string": "Pause timer"
+    },
+    "whiteboard.timer.end_timer_tooltip": {
+        "string": "End timer"
+    },
+    "whiteboard.timer.minutes.aria_label": {
+        "string": "Minutes input"
+    },
+    "whiteboard.timer.seconds.aria_label": {
+        "string": "Seconds input"
+    },
+    "meetings_panel.toolbar.aria_label": {
+        "string": "Timer, music, and voting"
+    },
+    "meetings_panel.toolbar.aria_label.no_voting": {
+        "string": "Timer and music"
+    },
+    "meetings_panel.header.overflow_menu_aria_label": {
+        "string": "More options"
+    },
+    "fullscreen.accessibility.view_comments_with_unreads": {
+        "string": "View unread comments"
+    },
+    "whiteboard.ai_modal.generate_handbrake": {
+        "string": "AI features are currently unavailable—mind trying later?"
+    },
+    "whiteboard.ai_summary.nudge.title": {
+        "string": "That’s a lot of stickies!"
+    },
+    "whiteboard.ai_summary.nudge.subtitle": {
+        "string": "Let FigJam AI help you summarize it."
+    },
+    "whiteboard.ai_summary.nudge.disclaimer": {
+        "string": "AI outputs can be misleading or wrong."
+    },
+    "whiteboard.ai_summary.nudge.cta": {
+        "string": "Summarize with AI"
+    },
+    "whiteboard.ai_summary.nudge.too_many_tokens": {
+        "string": "Try with fewer things selected, to start."
+    },
+    "fullscreen.color_management.curator.default_to_p3.user_color_profile.title": {
+        "string": "Display P3 support is finally here"
+    },
+    "fullscreen.color_management.curator.step_1of2": {
+        "string": "1 of 2"
+    },
+    "fullscreen.color_management.curator.change_document_color_profile.title": {
+        "string": "See Display P3 colors in this file"
+    },
+    "general.previous": {
+        "string": "Previous"
+    },
+    "fullscreen.color_management.curator.step_2of2": {
+        "string": "2 of 2"
+    },
+    "fullscreen.color_management.curator.default_to_p3.user_color_profile.content": {
+        "string": "Your preferred color profile for new files is now Display P3. To change this to sRGB, go to {colorProfileSetting}."
+    },
+    "fullscreen.color_management.curator.color_profile_setting": {
+        "string": "Preferences > Color profile"
+    }
+}

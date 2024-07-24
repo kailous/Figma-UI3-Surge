@@ -1,0 +1,152 @@
+{
+    "extension_decline_modal.leave_plugin_note": {
+        "string": "Let members requesting this plugin know why you're declining the plugin request."
+    },
+    "resources_tab.approved_plugins.modal.decline": {
+        "string": "Decline"
+    },
+    "resources_tab.approved_plugins.no_plugins.text": {
+        "string": "Your organization does not have any approved plugins yet."
+    },
+    "resources_tab.approved_widgets.no_widgets.text": {
+        "string": "Your organization does not have any approved widgets yet."
+    },
+    "resources_tab.approved_plugins.no_plugins.add_plugins_button": {
+        "string": "Add approved plugins"
+    },
+    "resources_tab.approved_widgets.no_widgets.add_widgets_button": {
+        "string": "Add approved widgets"
+    },
+    "orgs_middleware.an_error_occurred_while_generating_scim": {
+        "string": "An error occurred while generating scim api token."
+    },
+    "orgs_middleware.an_error_occurred_while_revoking_scim": {
+        "string": "An error occurred while revoking scim api token."
+    },
+    "org_settings.scim.i_understand_that_this_is_the_only_time_i_will_see_this_token": {
+        "string": "I understand that this is the only time I will see this token, and I have copied it to a safe place."
+    },
+    "org_settings.scim.revoke_token_confirmation": {
+        "string": "I understand that any API requests made using the API token {willBeDenied}."
+    },
+    "org_settings.scim.will_be_denied": {
+        "string": "will be denied"
+    },
+    "modal.close": {
+        "string": "Close"
+    },
+    "org_settings.scim.your_provisioning_api_token": {
+        "string": "Your provisioning API token"
+    },
+    "org_settings.scim.revoke_access": {
+        "string": "Revoke access"
+    },
+    "org_settings.scim.revoke_token_access_title": {
+        "string": "Revoke token access"
+    },
+    "org_settings.sso.google": {
+        "string": "Google"
+    },
+    "org_settings.sign_in_method.change_log_in": {
+        "string": "Change log in"
+    },
+    "org_settings.sign_in_method.i_understand_that_members_must_log_in_with_label_after_confirming": {
+        "string": "I understand that members must log in with {label} after confirming."
+    },
+    "org_settings.sso.saml_single_sign_on": {
+        "string": "SAML single sign-on allows you to manage your users with a third-party identity provider (IdP). For more information on where to find this information, view this {helpArticle}."
+    },
+    "org_settings.sso.identity_provider_id_p": {
+        "string": "Identity provider (IdP)"
+    },
+    "org_settings.sso.idp_sso_target_url": {
+        "string": "IdP SSO target URL"
+    },
+    "org_settings.sso.signing_certificate": {
+        "string": "Signing certificate"
+    },
+    "org_settings.sso.id_p_metadata_url": {
+        "string": "IdP metadata URL"
+    },
+    "org_settings.sso.review": {
+        "string": "Review"
+    },
+    "org_settings.sso.please_review_the_information_you_entered": {
+        "string": "Please review the information you entered."
+    },
+    "org_settings.sso.this_information_is_correct": {
+        "string": "This information is correct."
+    },
+    "org_settings.sso.microsoft_azure_active_directory": {
+        "string": "Microsoft Azure Active Directory"
+    },
+    "org_settings.sso.configure_saml_sso": {
+        "string": "Configure SAML SSO"
+    },
+    "org_settings.sso.an_error_occurred_while_configuring_saml_sso": {
+        "string": "An error occurred while configuring SAML SSO."
+    },
+    "org_settings.sso.edit": {
+        "string": "Edit"
+    },
+    "workspace_table.name_input": {
+        "string": "Name"
+    },
+    "workspace_table.admins_input": {
+        "string": "Admins"
+    },
+    "workspace_table.admins_will_manage_input_help_text": {
+        "string": "These people will actively manage this workspace."
+    },
+    "workspace_table.visibility": {
+        "string": "Visibility"
+    },
+    "workspace_table.workspace_name_unassigned_error": {
+        "string": "You cannot name your workspace 'Unassigned'"
+    },
+    "workspace_table.workspace_name_already_exists_error": {
+        "string": "Workspace name already exists, please pick a different name"
+    },
+    "workspace_table.cancel_create_or_edit": {
+        "string": "Cancel"
+    },
+    "workspace_table.workspace_edit_save_changes": {
+        "string": "Save changes"
+    },
+    "workspace_table.create_workspace_button": {
+        "string": "Create workspace"
+    },
+    "workspace_table.workspace_edited_toast": {
+        "string": "Updated ''{workspaceName}'' workspace"
+    },
+    "workspace_table.workspace_created_toast": {
+        "string": "New workspace ''{workspaceName}'' created"
+    },
+    "workspace_table.edit_workspace_title": {
+        "string": "Edit workspace"
+    },
+    "workspace_table.create_workspace_title": {
+        "string": "Create a workspace"
+    },
+    "workspace_table.name_input_placeholder": {
+        "string": "Add the name of a department, business unit, etc."
+    },
+    "workspace_table.admin_input_placeholder": {
+        "string": "Add emails or names"
+    },
+    "workspace_table.make_it_hidden": {
+        "string": "Make it hidden"
+    },
+    "workspace_table.only_members_can_find_and_access": {
+        "string": "Only workspace members can find and access"
+    },
+    "workspace_table.edit_details": {
+        "string": "Edit details"
+    },
+    "workspace_table.empty_state.title": {
+        "string": "Create a workspace and start organizing teams"
+    },
+    "workspace_table.empty_state.subtitle": {
+        "string": "Group teams based on what they work on, who they work with, or just vibes."
+    }
+}

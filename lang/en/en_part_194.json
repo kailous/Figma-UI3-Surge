@@ -1,0 +1,152 @@
+{
+    "whiteboard.clustering.heart_stamp_cluster": {
+        "string": "Heart"
+    },
+    "whiteboard.clustering.dot_stamp_cluster": {
+        "string": "Dot"
+    },
+    "whiteboard.clustering.plus_one_stamp_cluster": {
+        "string": "+1"
+    },
+    "whiteboard.clustering.face_stamp_cluster": {
+        "string": "Face stamps"
+    },
+    "whiteboard.clustering.question_mark_stamp_cluster": {
+        "string": "Question"
+    },
+    "whiteboard.clustering.star_stamp_cluster": {
+        "string": "Star"
+    },
+    "whiteboard.clustering.thumbs_down_stamp_cluster": {
+        "string": "Thumbs down"
+    },
+    "whiteboard.clustering.thumbs_up_stamp_cluster": {
+        "string": "Thumbs up"
+    },
+    "whiteboard.clustering.other_stamp_cluster": {
+        "string": "Other"
+    },
+    "whiteboard.clustering.no_stamps_cluster": {
+        "string": "No stamps"
+    },
+    "whiteboard.ai_cluster.loading_section_base": {
+        "string": "Sorting it out"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_header_text": {
+        "string": "FigJam AI"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer_cta": {
+        "string": "Learn more"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_summarize_button": {
+        "string": "Summarize"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_summarize_disabled_tooltip": {
+        "string": "{minSelectedStickies, plural, one {Select at least {minSelectedStickies} sticky (it can’t be empty, though).} other {Select at least {minSelectedStickies} stickies (they can’t be empty, though).}}"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_button": {
+        "string": "Sort stickies"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_disabled_tooltip": {
+        "string": "{minSelectedStickies, plural, one {Select at least {minSelectedStickies} sticky (it can’t be empty, though).} other {Select at least {minSelectedStickies} stickies (they can’t be empty, though).}}"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_generate_ideas_button": {
+        "string": "Generate ideas"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_generate_ideas_disabled_tooltip": {
+        "string": "Select one element with text"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_options_aria_label": {
+        "string": "options for quick actions"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_button_aria_label": {
+        "string": "quick actions toolbar dropdown button"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_onboarding_badge_2": {
+        "string": "New"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_beta_badge_text": {
+        "string": "Beta"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer": {
+        "string": "AI outputs can be misleading or wrong."
+    },
+    "whiteboard.ai_expand_mindmap.generic_error": {
+        "string": "Couldn’t generate—mind trying again?"
+    },
+    "whiteboard.ai_modal.streaming": {
+        "string": "Perusing possibilities…"
+    },
+    "whiteboard.ai_expand_mindmap.generation_success": {
+        "string": "Here are some ideas!"
+    },
+    "whiteboard.ai_expand_mindmap.retry": {
+        "string": "Try again"
+    },
+    "universal_insert.development": {
+        "string": "Development"
+    },
+    "universal_insert.run": {
+        "string": "Run"
+    },
+    "universal_insert.add": {
+        "string": "Add"
+    },
+    "universal_insert.auto_run": {
+        "string": "Auto run"
+    },
+    "community.error.search_request_failed": {
+        "string": "Search request failed"
+    },
+    "inspect_panel.properties.fill": {
+        "string": "Fill"
+    },
+    "inspect_panel.properties.hug": {
+        "string": "Hug"
+    },
+    "inspect_panel.properties.fixed": {
+        "string": "Fixed"
+    },
+    "dev_handoff.paywall.upsell_modal.advanced_inspection.details": {
+        "string": "Get measurements, specs, layouts, and more—all in a single click. Or generate production-ready code for CSS, iOS, and Android."
+    },
+    "dev_handoff.paywall.upsell_modal.quick_handoff.details": {
+        "string": "New tools, like annotate and measure, make it easy to get the details right. And handoff is as simple as clicking “Ready for dev.”"
+    },
+    "dev_handoff.paywall.upsell_modal.track_changes.details": {
+        "string": "Change tracking helps you quickly spot design tweaks—so you can skip the back-and-forth and focus on building."
+    },
+    "dev_handoff.paywall.upsell_modal.plugins_extensions.details": {
+        "string": "Connect to tools like Jira, Github, Storybook, and VS Code. Or build your own plugins, using our API."
+    },
+    "dev_handoff.paywall.upsell_modal.advanced_inspection.tab_title": {
+        "string": "Advanced inspection"
+    },
+    "dev_handoff.paywall.upsell_modal.quick_handoff.tab_title": {
+        "string": "Quick handoff"
+    },
+    "dev_handoff.paywall.upsell_modal.track_changes.tab_title": {
+        "string": "Track changes"
+    },
+    "dev_handoff.paywall.upsell_modal.plugins_extensions.tab_title": {
+        "string": "Plugins & extensions"
+    },
+    "dev_handoff.paywall.upsell_modal.advanced_inspection.header": {
+        "string": "A powerful inspector, right in Figma"
+    },
+    "dev_handoff.paywall.upsell_modal.quick_handoff.header": {
+        "string": "Design handoff made simple"
+    },
+    "dev_handoff.paywall.upsell_modal.track_changes.header": {
+        "string": "Stay ahead of late-breaking changes"
+    },
+    "dev_handoff.paywall.upsell_modal.plugins_extensions.header": {
+        "string": "Make Figma fit you"
+    },
+    "dev_handoff.paywall.upsell_modal.title": {
+        "string": "Get coding faster, with Dev Mode"
+    },
+    "dev_handoff.paywall.start_dev_mode_starter_trial": {
+        "string": "Start your {numDays}-day free trial"
+    }
+}

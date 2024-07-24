@@ -1,0 +1,152 @@
+{
+    "admin_dashboard.requests.search.placeholder": {
+        "string": "Search"
+    },
+    "admin_dashboard.requests.filter.type": {
+        "string": "Type"
+    },
+    "admin_dashboard.requests.filter.sort": {
+        "string": "Sort"
+    },
+    "admin_dashboard.requests.error_multiple": {
+        "string": "One or more of your requests couldn’t be processed"
+    },
+    "admin_dashboard.requests.error_single": {
+        "string": "Your request couldn’t be processed"
+    },
+    "admin_dashboard.requests.success_approve_multiple": {
+        "string": "{numRequests, plural, one {{numRequests} request approved} other {{numRequests} requests approved}}"
+    },
+    "admin_dashboard.requests.success_deny_multiple": {
+        "string": "{numRequests, plural, one {{numRequests} request declined} other {{numRequests} requests declined}}"
+    },
+    "admin_dashboard.requests.success_approve_multiple_async": {
+        "string": "{numRequests, plural, one {Approved {numRequests} request—changes will appear shortly} other {Approved {numRequests} requests—changes will appear shortly}}"
+    },
+    "admin_dashboard.requests.success_approve_with_name": {
+        "string": "Request from {requesterName} approved"
+    },
+    "admin_dashboard.requests.this_request_has_already_been_handled": {
+        "string": "This request has already been handled"
+    },
+    "admin_dashboard.requests.selected_count_approving": {
+        "string": "{numSelected, plural, one {Approving {numSelected} request} other {Approving {numSelected} requests}}"
+    },
+    "admin_dashboard.requests.columns.request": {
+        "string": "Request"
+    },
+    "admin_dashboard.requests.columns.note": {
+        "string": "Note"
+    },
+    "admin_dashboard.requests.approve": {
+        "string": "Approve"
+    },
+    "admin_dashboard.requests.approve_all": {
+        "string": "Approve all"
+    },
+    "admin_dashboard.requests.selected_count_denying": {
+        "string": "{numSelected, plural, one {Declining {numSelected} request} other {Declining {numSelected} requests}}"
+    },
+    "admin_dashboard.requests.selected_count_request": {
+        "string": "{numSelected, plural, one {{numSelected} request selected} other {{numSelected} requests selected}}"
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.manage_upgrades_title": {
+        "string": "Manage your upgrade requests"
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.manage_billing_group_upgrade_requests_description": {
+        "string": "Upgrade requests from billing groups you manage can be approved from your admin dashboard."
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.manage_upgrades_description": {
+        "string": "Upgrade requests can be approved from your admin dashboard."
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.see_all_org_requests_title": {
+        "string": "See all requests in your organization"
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.see_all_org_requests_description": {
+        "string": "You can also view and manage all of the requests from across {orgName}."
+    },
+    "admin_dashboard.requests.approve_all_modal.body_filtered": {
+        "string": "{numHiddenRequests, plural, one {You’re about to approve {numTotalRequests} requests, including {numHiddenRequests} that is currently hidden by the filters you’ve selected.} other {You’re about to approve {numTotalRequests} requests, including {numHiddenRequests} that are currently hidden by the filters you’ve selected.}}"
+    },
+    "admin_dashboard.requests.approve_all_modal.body": {
+        "string": "You’re about to approve {numRequests} requests."
+    },
+    "admin_dashboard.requests.approve_all_modal.title_filtered": {
+        "string": "Approve all requests"
+    },
+    "admin_dashboard.requests.approve_all_modal.title": {
+        "string": "Are you sure?"
+    },
+    "admin_dashboard.requests.approve_all_modal.confirm_filtered": {
+        "string": "Approve all {numRequests} requests"
+    },
+    "admin_dashboard.requests.approve_all_modal.confirm": {
+        "string": "Approve requests"
+    },
+    "admin_dashboard.requests.truncated_text_more": {
+        "string": "More"
+    },
+    "admin_dashboard.requests.details.reminder_banner": {
+        "string": "{requesterName} sent you a reminder:"
+    },
+    "admin_dashboard.requests.details.title": {
+        "string": "Request details"
+    },
+    "admin_dashboard.requests.details.name": {
+        "string": "Name"
+    },
+    "admin_dashboard.requests.details.billing_groups": {
+        "string": "Billing group"
+    },
+    "admin_dashboard.requests.details.license_type": {
+        "string": "Type"
+    },
+    "admin_dashboard.requests.details.date": {
+        "string": "Date"
+    },
+    "admin_dashboard.requests.details.note": {
+        "string": "Note"
+    },
+    "org_access_strings.public.description_with_org_name": {
+        "string": "Users in the {orgName} organization can find and join this team."
+    },
+    "org_access_strings.closed.description_with_org_name": {
+        "string": "Users in the {orgName} organization can see the name of your team but have to request to join and be approved by an admin."
+    },
+    "org_access_strings.secret.description_with_org_name": {
+        "string": "Users in the {orgName} organization can't see or find this team unless they've been invited to join. {disclaimerLabel} Admins are able to see names of secret teams."
+    },
+    "org_access_strings.secret.description.disclaimer_label": {
+        "string": "Note:"
+    },
+    "default_paid_status_modal_v2.description.seat_rename": {
+        "string": "Choose the type of seat people should get when first joining your {plan_type}."
+    },
+    "default_paid_status_modal.figma_design": {
+        "string": "Figma design:"
+    },
+    "default_paid_status_modal.figjam": {
+        "string": "FigJam:"
+    },
+    "default_paid_status_modal_v2.viewer_restricted_subtext.seat_rename": {
+        "string": "Needs admin approval to upgrade"
+    },
+    "default_paid_status_modal_v2.viewer_subtext.seat_rename": {
+        "string": "Anyone can upgrade them"
+    },
+    "default_paid_status_modal_v2.editor_subtext.seat_rename": {
+        "string": "Will be billed every month"
+    },
+    "default_paid_status_modal_v2.paid": {
+        "string": "Paid"
+    },
+    "default_paid_status_modal_v2.manage_default_roles.seat_rename": {
+        "string": "Manage default seat types"
+    },
+    "default_paid_status_modal_v2.organization": {
+        "string": "organization"
+    },
+    "default_paid_status_modal_v2.team": {
+        "string": "team"
+    }
+}

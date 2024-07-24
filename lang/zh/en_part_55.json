@@ -1,0 +1,152 @@
+{
+    "plan_comparison.chart.password_protection.name": {
+        "string": "Password protection"
+    },
+    "plan_comparison.chart.password_protection.details": {
+        "string": "Set a password on files to control your work’s visibility."
+    },
+    "plan_comparison.chart.default_roles.name": {
+        "string": "Default roles"
+    },
+    "plan_comparison.chart.default_roles.details": {
+        "string": "Set a default role for new team members to control plan costs."
+    },
+    "plan_comparison.chart.open_sessions.name": {
+        "string": "Open sessions"
+    },
+    "plan_comparison.chart.voting.name": {
+        "string": "Voting"
+    },
+    "plan_comparison.chart.custom_templates_v2.name": {
+        "string": "Custom templates"
+    },
+    "plan_comparison.chart.custom_color_palettes.name": {
+        "string": "Custom color palettes"
+    },
+    "plan_comparison.chart.shared_fonts.name": {
+        "string": "Shared fonts"
+    },
+    "plan_comparison.chart.shared_fonts.details": {
+        "string": "Put your organization’s fonts in Figma for everyone to use."
+    },
+    "plan_comparison.chart.centralized_admin.name": {
+        "string": "Centralized admin"
+    },
+    "plan_comparison.chart.centralized_admin.details": {
+        "string": "Bring multiple teams together under one central Figma account; manage users and billing in one place."
+    },
+    "plan_comparison.chart.domain_capture.name": {
+        "string": "Domain capture"
+    },
+    "plan_comparison.chart.domain_capture.details": {
+        "string": "Automatically add anyone with a verified email address to your organization."
+    },
+    "plan_comparison.chart.link_access_control.name": {
+        "string": "Link access control"
+    },
+    "plan_comparison.chart.link_access_control.details": {
+        "string": "Limit sharing files outside your organization."
+    },
+    "plan_comparison.chart.centralized_content_management.name": {
+        "string": "Centralized content management"
+    },
+    "plan_comparison.chart.centralized_content_management.details": {
+        "string": "All files and drafts are owned by your organization and recoverable at any time."
+    },
+    "plan_comparison.chart.activity_logs.name": {
+        "string": "Activity logs"
+    },
+    "plan_comparison.chart.activity_logs.details": {
+        "string": "See how your team is using Figma."
+    },
+    "plan_comparison.chart.plugin_widget_management.name": {
+        "string": "Plugin/widget management"
+    },
+    "plan_comparison.chart.plugin_widget_management.details": {
+        "string": "Approve and manage plugin and widget approval requests from your team."
+    },
+    "plan_comparison.chart.dev_mode_v2.name": {
+        "string": "Dev Mode"
+    },
+    "plan_comparison.chart.dev_mode_v2.details": {
+        "string": "Dev Mode is a new space in Figma for developers with features that help you translate design into code, faster."
+    },
+    "plan_comparison.chart.audio_conversations_v2.name": {
+        "string": "Audio conversation"
+    },
+    "plan_comparison.chart.audio_conversations_v2.details": {
+        "string": "Talk with collaborators about your work while in your files."
+    },
+    "plan_comparison.chart.design_system_analytics_v2.name": {
+        "string": "Design system analytics"
+    },
+    "plan_comparison.chart.design_system_analytics_v2.details": {
+        "string": "Track usage metrics to measure your design system’s impact."
+    },
+    "plan_comparison.chart.single_sign_on_v2.name": {
+        "string": "Single sign-on (SSO)"
+    },
+    "plan_comparison.chart.single_sign_on_v2.details": {
+        "string": "Set up SAML single sign-on, enforce SSO for all team members, and manage provisioning via SCIM."
+    },
+    "plan_comparison.chart.private_plugins_v2.name": {
+        "string": "Private plugins"
+    },
+    "plan_comparison.chart.private_plugins_v2.details": {
+        "string": "Create private plugins for your organization to use."
+    },
+    "plan_comparison.chart.usage_limits.unlimited": {
+        "string": "Unlimited files, pages, and projects"
+    },
+    "plan_comparison.chart.usage_limits_v2.unlimited": {
+        "string": "Unlimited files and projects"
+    },
+    "plan_comparison.chart.libraries.team_wide": {
+        "string": "Team-wide"
+    },
+    "plan_comparison.chart.usage_limits_limited_pages.starter": {
+        "string": "{maxFreeFiles} files, limited pages, and {maxFreeProjects} project"
+    },
+    "plan_comparison.chart.usage_limits.starter": {
+        "string": "{maxFreeFiles} files, {maxFreePages} pages, and {maxFreeProjects} project"
+    },
+    "plan_comparison.chart.version_history.starter": {
+        "string": "30 days only"
+    },
+    "plan_comparison.chart.usage_limits_v2.unlimited_teams": {
+        "string": "Unlimited teams, files, and projects"
+    },
+    "plan_comparison.chart.libraries.org_wide": {
+        "string": "Org-wide"
+    },
+    "plan_comparison.chart.shared_libraries.organization_wide": {
+        "string": "Organization-wide"
+    },
+    "plan_comparison.chart.shared_libraries.company_wide": {
+        "string": "Company-wide"
+    },
+    "plan_comparison.plans.pro.choose_professional": {
+        "string": "Choose Professional"
+    },
+    "plan_comparison.plans.org.choose_organization": {
+        "string": "Choose Organization"
+    },
+    "plan_comparison.chart.custom_color_palettes.details_with_callout": {
+        "string": "Set your brand colors as default when working in a {figJamCallout}."
+    },
+    "plan_comparison.chart.callout.figjam_board": {
+        "string": "FigJam board"
+    },
+    "plan_comparison.chart.custom_templates_v2.details_with_callout": {
+        "string": "Make your own {figJamCallout} templates and share them with your organization."
+    },
+    "plan_comparison.chart.callout.figjam": {
+        "string": "FigJam"
+    },
+    "plan_comparison.chart.open_sessions.details_with_callout": {
+        "string": "Invite anyone to join your {figJamCallout} for 24 hours—with no login needed, and unlimited sessions."
+    },
+    "plan_comparison.chart.voting.details_with_callout": {
+        "string": "Vote on ideas right in your {figJamCallout}."
+    }
+}

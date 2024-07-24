@@ -1,0 +1,152 @@
+{
+    "consumption_paywalls.dev_mode_modal_title": {
+        "string": "Inspect designs with Dev Mode"
+    },
+    "consumption_paywalls.dev_mode_admin_settings_modal_title": {
+        "string": "Dev Mode, fine-tuned for you"
+    },
+    "consumption_paywalls.the_starter_plan_only_comes_with_file_limit_files": {
+        "string": "{file_limit, plural, one {The Starter plan only comes with {file_limit} file, but getting more is easy.} other {The Starter plan only comes with {file_limit} files, but getting more is easy.}}"
+    },
+    "consumption_paywalls.team_name_only_comes_with_file_limit_files": {
+        "string": "{file_limit, plural, one {{teamName} only comes with {file_limit} file, but getting more is easy.} other {{teamName} only comes with {file_limit} files, but getting more is easy.}}"
+    },
+    "consumption_paywalls.the_starter_plan_only_comes_with_project_limit_projects": {
+        "string": "{project_limit, plural, one {The Starter plan only comes with {project_limit} project, but getting more is easy.} other {The Starter plan only comes with {project_limit} projects, but getting more is easy.}}"
+    },
+    "consumption_paywalls.team_name_only_comes_with_project_limit_projects": {
+        "string": "{project_limit, plural, one {{teamName} only comes with {project_limit} project, but getting more is easy.} other {{teamName} only comes with {project_limit} projects, but getting more is easy.}}"
+    },
+    "consumption_paywalls.upgrade_your_plan_to_get_unlimited_pages_in_all_your_figjam_files": {
+        "string": "Upgrade your plan to get unlimited pages in all your FigJam files."
+    },
+    "consumption_paywalls.the_starter_plan_only_comes_with_page_limit_pages": {
+        "string": "{page_limit, plural, one {The Starter plan only comes with {page_limit} page, but getting more is easy.} other {The Starter plan only comes with {page_limit} pages, but getting more is easy.}}"
+    },
+    "consumption_paywalls.team_name_only_comes_with_page_limit_pages": {
+        "string": "{page_limit, plural, one {{teamName} only comes with {page_limit} page, but getting more is easy.} other {{teamName} only comes with {page_limit} pages, but getting more is easy.}}"
+    },
+    "consumption_paywalls.upgrade_to_use_voting_description": {
+        "string": "Upgrade your plan to hold votes in FigJam."
+    },
+    "consumption_paywalls.upgrade_to_have_quick_easy_conversations_right_from_your_file": {
+        "string": "Upgrade to have quick, easy conversations—right from your file."
+    },
+    "consumption_paywalls.open_session.subtitle": {
+        "string": "Upgrade to let anyone edit your file for 24 hours—even if they don’t have an account."
+    },
+    "consumption_paywalls.project_transfer.subtitle": {
+        "string": "Upgrade to transfer your project to another team who can manage it moving forward."
+    },
+    "consumption_paywalls.presentation_sharing.subtitle": {
+        "string": "Upgrade to share slide decks while keeping your file for your eyes only."
+    },
+    "consumption_paywalls.prototype_sharing.subtitle": {
+        "string": "Upgrade to share prototypes while keeping your file for your eyes only."
+    },
+    "consumption_paywalls.password_protection.subtitle": {
+        "string": "Upgrade for added security when you share files in Figma."
+    },
+    "consumption_paywalls.version_history.subtitle": {
+        "string": "Your plan only comes with 30-day version history. Upgrade to view unlimited drafts and edits."
+    },
+    "consumption_paywalls.videos_in_prototypes.subtitle": {
+        "string": "Your plan only comes with basic shape fills. Upgrade to add videos."
+    },
+    "consumption_paywalls.plan_does_not_support_team_libraries": {
+        "string": "Your plan does not support team libraries. Professional lets you share styles, components, and variables."
+    },
+    "consumption_paywalls.on_your_plan_projects_are_public_to_the_whole_team_professional_lets_you_choose_who_sees_what": {
+        "string": "On your plan, projects are public to the whole team. Professional lets you choose who sees what."
+    },
+    "consumption_paywalls.your_plan_only_comes_with_project_limit_projects": {
+        "string": "{project_limit, plural, one {Your plan only comes with {project_limit, number, integer} project, but getting more is easy.} other {Your plan only comes with {project_limit, number, integer} projects, but getting more is easy.}}"
+    },
+    "consumption_paywalls.your_plan_does_not_support_publishing_library_assets": {
+        "string": "Your plan does not support publishing library assets, but getting access is easy."
+    },
+    "consumption_paywalls.you_cannot_create_multiple_actions_with_your_current_plan": {
+        "string": "You cannot create multiple actions with your current plan, but getting access is easy."
+    },
+    "consumption_paywalls.you_cannot_use_variables_in_prototyping_with_your_current_plan": {
+        "string": "You cannot use variables in prototyping with your current plan, but getting access is easy."
+    },
+    "consumption_paywalls.you_cannot_use_conditional_prototyping_with_your_current_plan": {
+        "string": "You cannot use conditional prototyping with your current plan, but getting access is easy."
+    },
+    "consumption_paywalls.variables_modes.subtitle_publishing": {
+        "string": "Upgrade to publish variables and create more modes for your team."
+    },
+    "consumption_paywalls.variables_modes.subtitle_starter": {
+        "string": "Your plan comes with one mode—upgrade to create more."
+    },
+    "consumption_paywalls.variables_modes.subtitle_pro": {
+        "string": "Upgrade to create more and unlock more team features."
+    },
+    "consumption_paywalls.variables_modes.subtitle_org": {
+        "string": "Upgrade to create up to 40 modes and get access to the variables REST API for more automation."
+    },
+    "consumption_paywalls.upgrade_plugin_analytics": {
+        "string": "Upgrade to view plugin usage analytics"
+    },
+    "consumption_paywalls.upgrade_widget_analytics": {
+        "string": "Upgrade to view widget usage analytics"
+    },
+    "consumption_paywalls.shared_fonts.modal_description": {
+        "string": "Upgrade to the Organization plan, and make “missing fonts” a thing of the past."
+    },
+    "consumption_paywalls.plan_does_not_support_dev_mode": {
+        "string": "Your plan does not support Dev Mode. Upgrade to get advanced code, inspection and more."
+    },
+    "consumption_paywalls.dev_mode_admin_settings_modal_subtitle": {
+        "string": "On Enterprise, you can customize Dev Mode to fit your organization's needs."
+    },
+    "design_systems.preset_libraries.tooltip.figma_provided": {
+        "string": "UI kit provided by Figma"
+    },
+    "design_systems.preset_libraries.tooltip.apple_license_link": {
+        "string": "License Agreement for Apple Design Resources"
+    },
+    "design_systems.preset_libraries.tooltip.figma_partner": {
+        "string": "This creator is a Figma partner"
+    },
+    "design_systems.preset_libraries.tooltip.apple_license_info_v3": {
+        "string": "UI kit licensed by Apple under {appleLicenseLink}"
+    },
+    "design_systems.preset_libraries.tooltip.google_license_link": {
+        "string": "CC BY 4.0"
+    },
+    "design_systems.preset_libraries.tooltip.google_license_info_v3": {
+        "string": "UI kit licensed by Google under {googleLicenseLink}"
+    },
+    "file_browser.file_browser_actions.duplicate_file_error": {
+        "string": "An error occurred while duplicating this file."
+    },
+    "general.open": {
+        "string": "Open"
+    },
+    "user_view.file_duplicated_to_your_drafts": {
+        "string": "File duplicated to your Drafts"
+    },
+    "user_view.files_duplicated_to_your_drafts": {
+        "string": "{intArg, number, integer} files duplicated to your Drafts"
+    },
+    "user_view.some_files_duplicated_to_your_drafts": {
+        "string": "Some files duplicated to your Drafts"
+    },
+    "general.show": {
+        "string": "Show"
+    },
+    "user_view.file_duplicated": {
+        "string": "File duplicated"
+    },
+    "user_view.files_duplicated": {
+        "string": "{intArg, number, integer} files duplicated"
+    },
+    "collaboration.branching.files_deleted_forever": {
+        "string": "Files deleted forever"
+    },
+    "collaboration.branching.files_deleted": {
+        "string": "Files deleted"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "edu.offboarding_modal.verify_your_status_to_keep_collaborating_with_your_teams": {
+        "string": "{verifyStatusLink} to keep collaborating with your team(s)."
+    },
+    "edu.offboarding_modal.verify_your_status": {
+        "string": "Verify your status"
+    },
+    "edu.offboarding_modal.to_save_your_work": {
+        "string": "To save your work: "
+    },
+    "edu.offboarding_modal.duplicate_or_move_files_to_your_drafts_to_save_them_for_later_and_consider_transferring_ownership_of_your_team_s": {
+        "string": "Duplicate or move files to your drafts to save them for later, and consider {transferringOwnershipLink} of your team(s)."
+    },
+    "edu.offboarding_modal.transferring_ownership": {
+        "string": "transferring ownership"
+    },
+    "edu.offboarding_modal.duplicate_or_move_files_to_your_drafts_to_save_them_for_later": {
+        "string": "Duplicate or move files to your drafts to save them for later."
+    },
+    "edu.offboarding_modal.upgrade_to_professional": {
+        "string": "Upgrade to Professional"
+    },
+    "edu.offboarding_modal.create_a_new_professional_team_cta": {
+        "string": "Create a new Professional team"
+    },
+    "edu.offboarding_modal.your_education_status": {
+        "string": "Your Education status"
+    },
+    "payments_modal.to_meet_the_limits_for_your_starter_plan": {
+        "string": "To meet the limits for your team’s Starter plan:"
+    },
+    "payments_modal.move_figma_files_to_drafts": {
+        "string": "{numFigmaFiles, plural, one {Move {numFigmaFiles} Figma file to drafts} other {Move {numFigmaFiles} Figma files to drafts}}"
+    },
+    "payments_modal.move_figjam_files_to_drafts": {
+        "string": "{numFigJamFiles, plural, one {Move {numFigJamFiles} FigJam file to drafts} other {Move {numFigJamFiles} FigJam files to drafts}}"
+    },
+    "payments_modal.remove_projects": {
+        "string": "{numProjects, plural, one {Remove {numProjects} project} other {Remove {numProjects} projects}}"
+    },
+    "payments_modal.remove_view_only_permissions_from_all_projects": {
+        "string": "Remove \"view-only\" permissions from all projects"
+    },
+    "payments_modal.remove_invite_only_permissions_from_all_projects": {
+        "string": "Remove \"invite-only\" permissions from all projects"
+    },
+    "payments_modal.if_you_would_rather_keep_the_current_limits": {
+        "string": "If you would rather keep the current limits, {upgradeToProfessional}"
+    },
+    "payments_modal.okay": {
+        "string": "Okay"
+    },
+    "pro_onboarding.welcome_to_professional": {
+        "string": "Welcome to Professional, {userName}!"
+    },
+    "pro_onboarding.unlimited_files_for_all_your_ideas": {
+        "string": "Unlimited files, for all your ideas"
+    },
+    "pro_onboarding.unlimited_projects_to_organize_your_files": {
+        "string": "Unlimited projects, to organize your files"
+    },
+    "pro_onboarding.dev_mode_for_simpler_inspection_and_handoff": {
+        "string": "Dev Mode, for simpler inspection and handoff"
+    },
+    "pro_onboarding.you_successfully_upgraded_team_name_to_a_professional_plan": {
+        "string": "You successfully upgraded {teamName} to a Professional plan. You can now access so many more features, including:"
+    },
+    "pro_onboarding.get_started": {
+        "string": "Get started"
+    },
+    "rcs.new_team_create_pointer.create_teams_to_share_design_libraries_with_collaborators_and_organize_files_into_projects": {
+        "string": "Create teams to share design libraries with collaborators and organize files into projects"
+    },
+    "rcs.redirect_from_mobile_to_desktop.to_use_figjam_head_to_a_desktop_device_we've_sent_you_an_email_with_instructions": {
+        "string": "To use FigJam, head to a desktop device. We’ve sent you an email with instructions."
+    },
+    "rcs.redirect_from_mobile_to_desktop.continue_in_mobile_browser": {
+        "string": "Continue in mobile browser"
+    },
+    "rcs.redirect_from_mobile_to_desktop.continue_in": {
+        "string": "Continue in…"
+    },
+    "rcs.figjam_april_2022_onboarding.new": {
+        "string": "New"
+    },
+    "rcs.figjam_april_2022_onboarding.creative_tools_for_you_built_line_break_with_by_our_community": {
+        "string": "Creative tools for you, built{lineBreak}with ♥︎ by our community"
+    },
+    "rcs.figjam_april_2022_onboarding.figma_community_puts_thousands_of_templates_time_saving_ui_kits_and_powerful_plugins_at_your_fingertips_all_created_by_figma_users_just_like_you": {
+        "string": "Figma Community puts thousands of templates, time-saving UI kits, and powerful plugins at your fingertips. All created by Figma users just like you."
+    },
+    "rcs.figjam_april_2022_onboarding.explore_community": {
+        "string": "Explore Community"
+    },
+    "rcs.upsell_libraries.click_here_to_turn_into_component": {
+        "string": "Select objects and then click up here to turn them into reusable components for this file."
+    },
+    "rcs.upsell_libraries.visual_bell.got_it": {
+        "string": "Got it"
+    },
+    "rcs.figjam_widget_nudge.generic_title": {
+        "string": "Add a bit of magic"
+    },
+    "rcs.figjam_widget_nudge.generic_body": {
+        "string": "Interactive widgets let you track tasks, record voice memos, and even take a selfie."
+    },
+    "rcs.figjam_widget_nudge.pm_title": {
+        "string": "Plan your week, with widgets"
+    },
+    "rcs.figjam_widget_nudge.pm_body": {
+        "string": "Bring tasks from Jira or Asana right into FigJam, so planning ahead is a cinch."
+    },
+    "rcs.figjam_widget_nudge.align_title": {
+        "string": "Decide together, with a widget"
+    },
+    "rcs.figjam_widget_nudge.align_body": {
+        "string": "Use widgets to hold a vote, find alignment, or get a quick gut check."
+    },
+    "rcs.figjam_widget_nudge.fun_title": {
+        "string": "Break the ice with widgets"
+    },
+    "rcs.figjam_widget_nudge.fun_body": {
+        "string": "Play games, take selfies, and get the conversation started with interactive widgets."
+    },
+    "rcs.redirect_from_mobile_to_desktop.open_in_desktop": {
+        "string": "Open in desktop"
+    },
+    "rcs.redirect_from_mobile_to_desktop.for_the_full_figma_experience": {
+        "string": "For the full Figma experience"
+    },
+    "rcs.redirect_from_mobile_to_desktop.email_link": {
+        "string": "Email link"
+    },
+    "rcs.redirect_from_mobile_to_desktop.figma_app": {
+        "string": "Figma app"
+    },
+    "rcs.redirect_from_mobile_to_desktop.for_viewing_and_commenting": {
+        "string": "For viewing and commenting"
+    },
+    "rcs.redirect_from_mobile_to_desktop.get": {
+        "string": "Get"
+    },
+    "rcs.redirect_from_mobile_to_desktop.mobile_browser": {
+        "string": "Mobile browser"
+    },
+    "rcs.redirect_from_mobile_to_desktop.continue": {
+        "string": "Continue"
+    },
+    "team_project_link.overlay.description": {
+        "string": "Access all your team's projects and files right in your sidebar."
+    }
+}

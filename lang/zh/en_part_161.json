@@ -1,0 +1,152 @@
+{
+    "community.publishing.error_icon_image_dimensions": {
+        "string": "Icon image dimensions must be 128×128"
+    },
+    "community.publishing.error_file_not_found": {
+        "string": "File not found"
+    },
+    "community.publishing.please_verify_your_email_address_to_publish": {
+        "string": "Please verify your email address to publish"
+    },
+    "community.publishing.you_must_enable_two_factor_authentication_to_publish": {
+        "string": "You must enable two factor authentication to publish"
+    },
+    "community.publishing.please_enable_two_factor_authentication_to_publish_this_widget": {
+        "string": "Please enable two-factor authentication to publish this widget"
+    },
+    "community.publishing.please_enable_two_factor_authentication_to_publish_this_plugin": {
+        "string": "Please enable two-factor authentication to publish this plugin"
+    },
+    "community.publishing.you_must_verify_your_account_details_to_publish": {
+        "string": "You must verify your account details to publish"
+    },
+    "community.publishing.we_detected_a_change_to_your_account_details_please_contact_support_figma_com_to_publish_this_plugin": {
+        "string": "We detected a change to your account details. Please contact support@figma.com to publish this plugin"
+    },
+    "community.publishing.add_a_tagline": {
+        "string": "Add a tagline"
+    },
+    "community.publishing.add_a_description": {
+        "string": "Add a description"
+    },
+    "community.publishing.icon_cant_be_empty": {
+        "string": "Icon can't be empty"
+    },
+    "community.seller.freemium_required_for_migration": {
+        "string": "Migrating resources are required to have Payments API enabled in manifest permissions."
+    },
+    "community.publishing.playground_file.figma": {
+        "string": "Figma"
+    },
+    "community.publishing.playground_file.figjam": {
+        "string": "FigJam"
+    },
+    "community.publishing.widget_playground_file_editor_type_error": {
+        "string": "Playground file must be a {editorType} file for this widget"
+    },
+    "community.publishing.plugin_playground_file_editor_type_error": {
+        "string": "Playground file must be a {editorType} file for this plugin"
+    },
+    "community.publishing.snapshot_must_not_be_empty": {
+        "string": "Snapshot must not be empty"
+    },
+    "community.seller.price_increase_limit": {
+        "string": "Price increases are limited to 50% per billing cycle"
+    },
+    "community.seller.price_can_only_be_increased_once_every_thirty_days": {
+        "string": "Price can only be increased once every 30 days"
+    },
+    "community.publishing.release_notes_must_be_at_most_10000_characters_long": {
+        "string": "Release notes must be at most 10000 characters long"
+    },
+    "community.publishing.support_contact_must_be_at_most_100_characters_long": {
+        "string": "Support contact must be at most 100 characters long"
+    },
+    "community.publishing.found_multiple_local_widgets_with_the_same_manifest_id": {
+        "string": "Found multiple local widgets with the same \"manifest.id\""
+    },
+    "file_permissions_modal.invite_sent_prefix": {
+        "string": "Invited "
+    },
+    "file_permissions_modal.invite_sent": {
+        "string": "{num_invites, plural, one {1 person} other {{num_invites} people}}"
+    },
+    "org_settings.public_link_sharing.allow_public_links_with_password_protection": {
+        "string": "Allow public links with password protection"
+    },
+    "org_settings.public_link_sharing.dont_allow_public_links": {
+        "string": "Don’t allow public links"
+    },
+    "org_settings.public_link_sharing.allow_public_links": {
+        "string": "Allow public links"
+    },
+    "team_view.team_members_table_column.name": {
+        "string": "Name"
+    },
+    "team_view.team_members_table_column.active_at": {
+        "string": "Last active"
+    },
+    "team_view.team_members_table_column.team_permissions": {
+        "string": "Team permissions"
+    },
+    "team_view.team_members_table_column.design_role.seat_rename": {
+        "string": "Design seat"
+    },
+    "team_view.team_members_table_column.figjam_role.seat_rename": {
+        "string": "FigJam seat"
+    },
+    "team_view.toolbar.projects": {
+        "string": "Projects"
+    },
+    "team_view.toolbar.members": {
+        "string": "Members"
+    },
+    "team_view.toolbar.settings": {
+        "string": "Settings"
+    },
+    "team_view.toolbar.community": {
+        "string": "Community"
+    },
+    "team_view.toolbar.billing": {
+        "string": "Billing"
+    },
+    "team_view.toolbar.dashboard": {
+        "string": "Dashboard"
+    },
+    "collaboration.voice.are_talking_in_this_file": {
+        "string": "{numVoiceUsers, plural, one {{voiceUserNames} is talking in this file. If you want to jump into the conversation, click {joinText}.} other {{voiceUserNames} are talking in this file. If you want to jump into the conversation, click {joinText}.}}"
+    },
+    "collaboration.voice.join_lower": {
+        "string": "join"
+    },
+    "collaboration.voice.n_others": {
+        "string": "{numUsers} others"
+    },
+    "general.dev_mode": {
+        "string": "Dev Mode"
+    },
+    "general.figma_design_short": {
+        "string": "Design"
+    },
+    "search.preview_section.files_capitalized": {
+        "string": "Files"
+    },
+    "search.preview_section.people_capitalized": {
+        "string": "People"
+    },
+    "search.preview_section.plugins_capitalized": {
+        "string": "Plugins"
+    },
+    "search.preview_section.community_capitalized": {
+        "string": "Community"
+    },
+    "search.search_model_type_header.files": {
+        "string": "Files"
+    },
+    "search.search_model_type_header.projects": {
+        "string": "Projects"
+    },
+    "search.search_model_type_header.teams": {
+        "string": "Teams"
+    }
+}

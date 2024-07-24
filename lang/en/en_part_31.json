@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.view_api_documentation": {
+        "string": "View API documentation"
+    },
+    "fullscreen_actions.plugins-run-last": {
+        "string": "Run last plugin"
+    },
+    "fullscreen.plugins.background": {
+        "string": "{plugin} is running in the background"
+    },
+    "fullscreen.plugins.cancel": {
+        "string": "Cancel"
+    },
+    "fullscreen.plugins.inserting": {
+        "string": "Inserting {plugin}"
+    },
+    "fullscreen.plugins.running": {
+        "string": "Running {plugin}"
+    },
+    "fullscreen.plugins.stop": {
+        "string": "Stop"
+    },
+    "fullscreen.plugins.stopped": {
+        "string": "{plugin} stopped running."
+    },
+    "fullscreen_actions.prune_invalid_component_prop_refs": {
+        "string": "Prune invalid component prop refs for selection"
+    },
+    "fullscreen_actions.join-selection": {
+        "string": "Join selection"
+    },
+    "lab.menu.labs": {
+        "string": "Labs"
+    },
+    "lab.enable": {
+        "string": "Enable {labName} lab"
+    },
+    "lab.ui3_enable": {
+        "string": "Use new UI (in beta)"
+    },
+    "lab.menu.reset_all": {
+        "string": "Reset labs to default value"
+    },
+    "fullscreen_actions.leave_edit_mode": {
+        "string": "Done"
+    },
+    "fullscreen_actions.exit_vector_edit_mode_esc": {
+        "string": "Exit vector edit mode (Esc)"
+    },
+    "copy_to_clipboard.link_copied_to_clipboard": {
+        "string": "Link copied to clipboard"
+    },
+    "fullscreen_actions.live-boolean-intersect": {
+        "string": "Intersect selection"
+    },
+    "fullscreen_actions.live-boolean-subtract": {
+        "string": "Subtract selection"
+    },
+    "fullscreen_actions.live-boolean-union": {
+        "string": "Union selection"
+    },
+    "fullscreen_actions.live-boolean-xor": {
+        "string": "Exclude selection"
+    },
+    "fullscreen_actions.mask-selection": {
+        "string": "Use as mask"
+    },
+    "fullscreen_actions.create-comment": {
+        "string": "Create new comment"
+    },
+    "fullscreen_actions.create-diamond": {
+        "string": "Create new diamond"
+    },
+    "fullscreen_actions.create-triangle": {
+        "string": "Create new triangle"
+    },
+    "fullscreen_actions.create-ellipse": {
+        "string": "Create new ellipse"
+    },
+    "fullscreen_actions.create-slide-outline-from-figjam-page": {
+        "string": "Create Figma Slides outline"
+    },
+    "fullscreen_actions.create-responsive-set": {
+        "string": "Create layout set"
+    },
+    "fullscreen_actions.focus-mode-responsive-set": {
+        "string": "Toggle layout set auto focus mode"
+    },
+    "fullscreen_actions.create-rounded-rectangle": {
+        "string": "Create new rounded rectangle"
+    },
+    "fullscreen_actions.create-text-node": {
+        "string": "Create new text"
+    },
+    "fullscreen_actions.create-sticky": {
+        "string": "Create new sticky note"
+    },
+    "fullscreen_actions.create-section": {
+        "string": "Create new section"
+    },
+    "fullscreen_actions.create-slide": {
+        "string": "Create new slide"
+    },
+    "fullscreen_actions.main-component": {
+        "string": "Main component"
+    },
+    "fullscreen_actions.main_menu": {
+        "string": "Main menu"
+    },
+    "comments.mark_as_read": {
+        "string": "Mark as read"
+    },
+    "comments.mark_as_unread": {
+        "string": "Mark as unread"
+    },
+    "fullscreen_actions.measure_to_selection": {
+        "string": "Measure to selection"
+    },
+    "fullscreen_actions.minimize-ui": {
+        "string": "Minimize UI"
+    },
+    "fullscreen.properties_panel.stroke_settings.miter": {
+        "string": "Miter"
+    },
+    "fullscreen_actions.move_while_resizing": {
+        "string": "Move while resizing"
+    },
+    "fullscreen_actions.new-design": {
+        "string": "New design file"
+    },
+    "fullscreen_actions.new-whiteboard": {
+        "string": "New FigJam file"
+    },
+    "fullscreen_actions.new-slides": {
+        "string": "New slide deck"
+    },
+    "fullscreen_actions.new-from-templates": {
+        "string": "Templates"
+    },
+    "fullscreen_actions.new-from-templates-description": {
+        "string": "Ready-to-use boards"
+    },
+    "fullscreen_actions.next-artboard": {
+        "string": "Zoom to next frame"
+    },
+    "fullscreen_actions.next-artboard-same-zoom": {
+        "string": "Find next frame"
+    },
+    "fullscreen_actions.move-table-row-up": {
+        "string": "Move row up"
+    }
+}

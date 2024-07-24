@@ -1,0 +1,152 @@
+{
+    "sessions.session.current_session": {
+        "string": "Current session"
+    },
+    "sessions.session.revoke_session": {
+        "string": "Revoke session"
+    },
+    "sessions.error.logged_out": {
+        "string": "You are not logged in"
+    },
+    "sessions.error.no_sessions": {
+        "string": "Failed to load sessions"
+    },
+    "sessions.header.title": {
+        "string": "Sessions"
+    },
+    "sessions.header.description": {
+        "string": "All of your sessions are listed below. Revoke sessions which you no longer recognize or trust."
+    },
+    "sessions.header.description.viewonly": {
+        "string": "All of your sessions are listed below."
+    },
+    "sessions.column.location": {
+        "string": "Location"
+    },
+    "sessions.column.last_accessed": {
+        "string": "Last accessed"
+    },
+    "sessions.column.os_browser": {
+        "string": "OS & Browser"
+    },
+    "settings.account_settings.upgrade_figma_plan_header": {
+        "string": "Upgrade Figma plan"
+    },
+    "settings.account_settings.upgrade_figma_plan_reason": {
+        "string": "Upgrade plan for unlimited design files in teams."
+    },
+    "settings.account_settings.view_plans": {
+        "string": "View plans"
+    },
+    "settings.account_settings.managed_by_google": {
+        "string": "Managed by Google"
+    },
+    "settings.account_settings.managed_by_your_organization_email": {
+        "string": "Managed by your organization"
+    },
+    "settings.account_settings.name_section_header": {
+        "string": "Name"
+    },
+    "settings.account_settings.change_name_link": {
+        "string": "Change name"
+    },
+    "settings.account_settings.email_section_header": {
+        "string": "Email"
+    },
+    "settings.account_settings.change_email_link": {
+        "string": "Change email"
+    },
+    "settings.account_settings.job_title_section_header": {
+        "string": "Job title"
+    },
+    "settings.account_settings.change_job_title_link": {
+        "string": "Change job title"
+    },
+    "settings.account_settings.job_title_missing": {
+        "string": "You can add a job or role to your profile, so teammates know what you do."
+    },
+    "settings.account_settings.add_job_title": {
+        "string": "Add a title"
+    },
+    "settings.account_settings.password_section_header": {
+        "string": "Password"
+    },
+    "settings.account_settings.change_password_link": {
+        "string": "Change password"
+    },
+    "auth.two-factor-setup.enable_two_factor_authentication": {
+        "string": "Enable two-factor authentication"
+    },
+    "auth.two-factor-setup.two_factor_authentication_is_enabled": {
+        "string": "Two-factor authentication is enabled"
+    },
+    "auth.two-factor-setup.authenticator_apps_are_enabled": {
+        "string": "Authenticator apps are enabled"
+    },
+    "auth.two-factor-setup.disable-authenticator-app": {
+        "string": "Disable"
+    },
+    "auth.two-factor-setup.connected_cell_phone_number_tfa_phone_number": {
+        "string": "Connected cell phone number: {phoneNumber}"
+    },
+    "auth.two-factor-setup.configure-sms": {
+        "string": "Configure"
+    },
+    "auth.two-factor-setup.connect_authenticator_app": {
+        "string": "Connect authenticator app…"
+    },
+    "auth.two-factor-setup.connect_cell_phone_number": {
+        "string": "Connect cell phone number"
+    },
+    "auth.two-factor-setup.show_recovery_codes": {
+        "string": "Show recovery codes"
+    },
+    "settings.account_settings.language": {
+        "string": "Language"
+    },
+    "settings.account_settings.theme_section_header": {
+        "string": "Theme"
+    },
+    "settings.account_settings.library_section_header": {
+        "string": "Library"
+    },
+    "settings.account_settings.enable_libraries_for_drafts": {
+        "string": "{enableLibrariesLink} for all files in your drafts"
+    },
+    "settings.account_settings.enable_libraries_for_drafts_clickable": {
+        "string": "Enable libraries"
+    },
+    "settings.account_settings.account_section_header": {
+        "string": "Account"
+    },
+    "settings.account_settings.delete_account": {
+        "string": "Delete account"
+    },
+    "settings.account_settings.closed_captions": {
+        "string": "Closed captions"
+    },
+    "settings.account_settings.enable_closed_captioning_when_using_audio": {
+        "string": "Enable closed captioning when using audio inside your files."
+    },
+    "settings.account_settings.downloading_speech_files_progress": {
+        "string": "Downloading speech files… {installProgress}%"
+    },
+    "settings.account_settings.learn_more_about_captioning": {
+        "string": "Learn more about captioning {learnMoreLink}"
+    },
+    "settings.account_settings.here": {
+        "string": "here"
+    },
+    "general.beta": {
+        "string": "Beta"
+    },
+    "settings.account_settings.new_features": {
+        "string": "New features"
+    },
+    "settings.account_settings.fonts": {
+        "string": "Fonts"
+    },
+    "settings.account_settings.local_fonts_are_enabled_you_have_local_font_count_fonts_available_in_figma": {
+        "string": "Local fonts are enabled. You have {localFontCount} fonts available in Figma."
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "members_table.workspace_update_description.scim_group": {
+        "string": "[{groupName}] Provisioned by your IDP"
+    },
+    "members_table.billing_group_update_description.self_selected": {
+        "string": "From billing group selector"
+    },
+    "members_table.billing_group_update_description.self_selected_not_listed": {
+        "string": "Billing group not listed"
+    },
+    "members_table.billing_group_update_description.self_selected_dont_know": {
+        "string": "Unsure of billing group"
+    },
+    "members_table.billing_group_update_description.moved_by_admin": {
+        "string": "Moved by {adminName}"
+    },
+    "members_table.billing_group_update_description.moved_by_admin_generic": {
+        "string": "Moved by admin"
+    },
+    "members_table.billing_group_update_description.auto_assigned": {
+        "string": "Auto assigned"
+    },
+    "members_table.billing_group_update_description.scim_group": {
+        "string": "[{groupName}] Provisioned by your IDP"
+    },
+    "add_unassigned_members_modal.no_unassigned_users": {
+        "string": "No unassigned users"
+    },
+    "add_unassigned_members_modal.all_users_have_been_assigned_billing_groups": {
+        "string": "All of {orgName}'s users have been assigned to billing groups"
+    },
+    "add_unassigned_members_modal.all_users_have_been_assigned_workspaces": {
+        "string": "All of {orgName}'s users have been assigned to workspaces"
+    },
+    "add_unassigned_members_modal.no_unassigned_users_found": {
+        "string": "No unassigned users found"
+    },
+    "add_unassigned_members_modal.add_members_button": {
+        "string": "Add members"
+    },
+    "add_unassigned_members_modal.billing_group_description": {
+        "string": "Select unassigned users to add to the {licenseGroupName} billing group."
+    },
+    "add_unassigned_members_modal.workspace_description": {
+        "string": "Select unassigned users to add to the {workspaceName} workspace."
+    },
+    "add_unassigned_members_modal.user_selected": {
+        "string": "{userName}"
+    },
+    "add_unassigned_members_modal.user_a_and_user_b_selected": {
+        "string": "{userName1} and {userName2}"
+    },
+    "add_unassigned_members_modal.user_a_and_user_b_and_n_others_selected": {
+        "string": "{remainingCount, plural, one {{userName1}, {userName2} and {remainingCount} other} other {{userName1}, {userName2} and {remainingCount} others}}"
+    },
+    "add_unassigned_members_modal.workspaces_success_message.instant": {
+        "string": "{numUsers, plural, one {{numUsers} person's workspace successfully updated} other {{numUsers} peoples' workspace successfully updated}}"
+    },
+    "add_unassigned_members_modal.workspaces_success_message": {
+        "string": "{numUsers, plural, one {Updating {numUsers} person's workspace. This may take a few moments.} other {Updating {numUsers} people's workspace. This may take a few moments.}}"
+    },
+    "add_unassigned_members_modal.billing_groups_success_message.instant": {
+        "string": "{numUsers, plural, one {{numUsers} person's billing group successfully updated} other {{numUsers} peoples' billing group successfully updated}}"
+    },
+    "add_unassigned_members_modal.billing_groups_success_message": {
+        "string": "{numUsers, plural, one {Updating {numUsers} person's billing group. This may take a few moments.} other {Updating {numUsers} people's billing group. This may take a few moments.}}"
+    },
+    "add_unassigned_members_modal.search_bar.placeholder": {
+        "string": "Name or email address"
+    },
+    "license_group_admin.billing_banner.review.title.seat_rename": {
+        "string": "Review and then confirm these seats"
+    },
+    "license_group_admin.billing_banner.review.subtitle.seat_rename": {
+        "string": "Make changes if you need to before confirming. Your organization will only be billed for full seats you've confirmed."
+    },
+    "license_group_admin.billing_banner.review.add_members": {
+        "string": "Add members"
+    },
+    "license_group_admin.billing_banner.review.confirm_editors.seat_rename": {
+        "string": "Confirm seats"
+    },
+    "license_group_admin.billing_banner.completed_at_date": {
+        "string": "This billing group was confirmed on {date}."
+    },
+    "license_group_admin.billing_banner.default": {
+        "string": "Your organization’s next invoice will be issued {date}"
+    },
+    "license_group_admin.billing_banner.count_title.design.seat_rename": {
+        "string": "Total Design seats"
+    },
+    "license_group_admin.billing_banner.count_title.figjam.seat_rename": {
+        "string": "Total FigJam seats"
+    },
+    "license_group_admin.billing_banner.count_title.dev_mode": {
+        "string": "Total Dev Mode seats"
+    },
+    "license_group_admin.billing_banner.review.confirmation_modal.body.seat_rename": {
+        "string": "Organization admins will be able to see that this billing group has confirmed its paid seats."
+    },
+    "license_group_admin.billing_banner.review.confirmation_modal.title.seat_rename": {
+        "string": "Confirm {billingGroupName}’s seats?"
+    },
+    "org_invite.email_input_description.billing_group_and_workspace_disclaimer": {
+        "string": "When they join, they'll be added to the {workspaceName} workspace and the {billingGroupName} billing group."
+    },
+    "org_invite.email_input_description.billing_group_disclaimer": {
+        "string": "When they join, they'll be added to the {billingGroupName} billing group."
+    },
+    "org_invite.email_input_description.workspace_disclaimer": {
+        "string": "When they join, they'll be added to the {workspaceName} workspace."
+    },
+    "org_invite.email_input_description.guest_invite_allow_list": {
+        "string": "You can invite people to join the {orgName} organization by adding their email addresses below."
+    },
+    "org_invite.email_input_description.multiple_domains.expanded": {
+        "string": "You can invite members with {domainList} email addresses to join the {orgName} organization."
+    },
+    "org_invite.email_input_description.single_domain": {
+        "string": "You can invite members with {domain} email addresses to join the {orgName} organization."
+    },
+    "org_invite.email_input_description.multiple_domains.with_expand_link": {
+        "string": "You can invite members with {domain} {expandLink} email addresses to join the {orgName} organization."
+    },
+    "org_invite.email_input_description.multiple_domains.expand_link": {
+        "string": "+{remainingDomainCount} more"
+    },
+    "org_invite.email_input_description.invite_allowlist_enforced": {
+        "string": "New users will receive an email invitation to get started with Figma after you upload their information."
+    },
+    "org_invite.pending_guest_confirmation.description": {
+        "string": "{numEmails, plural, one {You are inviting {emailList} who is external to your organization.} other {You are inviting {emailList} who are external to your organization.}}"
+    },
+    "org_invite.pending_guest_confirmation.learn_more_link": {
+        "string": "Learn more"
+    },
+    "org_invite.invite_button": {
+        "string": "Send invite"
+    },
+    "org_invite.invite_users": {
+        "string": "Invite people to {orgName}"
+    },
+    "org_invite.invite_members": {
+        "string": "Invite other members to {orgName}"
+    },
+    "org_invite.pending_guest_confirmation.title": {
+        "string": "Are you sure?"
+    },
+    "org_invite.pending_guest_confirmation.button": {
+        "string": "Invite"
+    }
+}

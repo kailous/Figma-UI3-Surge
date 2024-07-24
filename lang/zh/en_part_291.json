@@ -1,0 +1,152 @@
+{
+    "org_admin_settings.cost_breakdown.paid": {
+        "string": "Paid"
+    },
+    "org_admin_settings.cost_breakdown.view_invoice": {
+        "string": "View invoice"
+    },
+    "org_admin_settings.cost_breakdown.overdue": {
+        "string": "Overdue"
+    },
+    "org_admin_settings.cost_breakdown.pay_invoice": {
+        "string": "Pay invoice"
+    },
+    "org_admin_settings.cost_breakdown.unpaid": {
+        "string": "Unpaid"
+    },
+    "org_admin_settings.cost_breakdown.mmmm_dd_yyyy": {
+        "string": "{date, date, long}"
+    },
+    "org_admin_settings.cost_breakdown.annual_subscription": {
+        "string": "Annual subscription"
+    },
+    "org_admin_settings.cost_breakdown.quarterly_true_up": {
+        "string": "Quarterly true-up"
+    },
+    "org_admin_settings.cost_breakdown.free_for_2021": {
+        "string": "Free for 2021"
+    },
+    "org_admin_settings.billing.no_billing_groups_yet": {
+        "string": "No billing groups yet"
+    },
+    "org_admin_settings.billing.billing_groups_empty_text.seat_rename": {
+        "string": "Easily track costs and assign admins to manage members and seats. {learnMoreLink}"
+    },
+    "billing_groups_table.plus_billing_group": {
+        "string": "Billing group"
+    },
+    "resources_tab.approved_plugins.plugin_approval_banner.text": {
+        "string": "To create a list of approved plugins, first go to settings and turn on {settingName}."
+    },
+    "resources_tab.approved_widgets.widget_approval_banner.text": {
+        "string": "To create a list of approved widgets, first go to settings and turn on {settingName}."
+    },
+    "resources_tab.approved_plugins.plugin_approval_banner.go_to_settings_button": {
+        "string": "Go to settings"
+    },
+    "allowlist_plugins_modals.add_plugin.details": {
+        "string": "To approve a plugin, paste a link to its Figma Community page."
+    },
+    "allowlist_plugins_modals.add_plugin.add_button": {
+        "string": "Add"
+    },
+    "allowlist_widgets_modals.add_widget.details": {
+        "string": "To approve a widget, paste a link to its Figma Community page."
+    },
+    "allowlist_widgets_modals.add_widget.add_button": {
+        "string": "Add"
+    },
+    "allowlist_plugins_modals.msa_amendment_modal.success_notification": {
+        "string": "All plugins are now allowed"
+    },
+    "allowlist_widgets_modals.msa_amendment_modal.success_notification": {
+        "string": "All widgets are now allowed"
+    },
+    "allowlist_plugins_modals.msa_amendment_modal.title": {
+        "string": "Updated license agreement"
+    },
+    "allowlist_plugins_modals.msa_amendment_modal.accept_button": {
+        "string": "Accept and continue"
+    },
+    "allowlist_plugins_modals.add_plugin.invalid_url_notification": {
+        "string": "Invalid plugin URL"
+    },
+    "allowlist_plugins_modals.add_plugin.title": {
+        "string": "Add an approved plugin"
+    },
+    "allowlist_widgets_modals.add_widget.invalid_url_notification": {
+        "string": "Invalid widget URL"
+    },
+    "allowlist_widgets_modals.add_widget.title": {
+        "string": "Add an approved widget"
+    },
+    "settings_tab.enable_plugin_approval_success": {
+        "string": "Plugins are now restricted to the plugins on the approved list"
+    },
+    "settings_tab.disable_plugin_approval_success": {
+        "string": "All plugins are now allowed"
+    },
+    "settings_tab.widget_admin_approval_enabled": {
+        "string": "Widgets are now restricted to the widgets on the approved list"
+    },
+    "settings_tab.widget_admin_approval_disabled": {
+        "string": "All widgets are now allowed"
+    },
+    "resources_tab.approved_plugins.modal.plugin_approval": {
+        "string": "Plugin Approval"
+    },
+    "resources_tab.approved_plugins.modal.org_members_can_use": {
+        "string": "Org members can use"
+    },
+    "resources_tab.approved_plugins.modal.all_plugins": {
+        "string": "All plugins from Figma Community"
+    },
+    "resources_tab.approved_plugins.modal.default": {
+        "string": " (default)"
+    },
+    "resources_tab.approved_plugins.modal.approved_plugins_only": {
+        "string": "Only admin-approved plugins"
+    },
+    "resources_tab.approved_plugins.modal.request_plugins": {
+        "string": "Allow members to request plugins"
+    },
+    "resources_tab.approved_widgets.modal.widget_approval": {
+        "string": "Widget Approval"
+    },
+    "resources_tab.approved_widgets.modal.all_widgets": {
+        "string": "All widgets from Figma Community"
+    },
+    "resources_tab.approved_widgets.modal.default": {
+        "string": " (default)"
+    },
+    "resources_tab.approved_widgets.modal.approved_widgets_only": {
+        "string": "Only admin-approved widgets"
+    },
+    "resources_tab.approved_widgets.modal.request_widgets": {
+        "string": "Allow members to request widgets"
+    },
+    "resources_tab.approved_plugins.table.approved_header": {
+        "string": "Approved"
+    },
+    "resources_tab.approved_plugins.table.plugin_name_column": {
+        "string": "Plugin name"
+    },
+    "resources_tab.approved_plugins.table.widget_name_column": {
+        "string": "Widget name"
+    },
+    "resources_tab.approved_plugins.table.description_column": {
+        "string": "Description"
+    },
+    "resources_tab.approved_plugins.table.approved_column": {
+        "string": "Approved"
+    },
+    "resources_tab.approved_plugins.table.approved_for_column": {
+        "string": "Approved for"
+    },
+    "resources_tab.approved_plugins.table.entire_org": {
+        "string": "Entire org"
+    },
+    "resources_tab.approved_plugins.table.n_workspaces_approved_for": {
+        "string": "{numberOfWorkspaces} workspaces"
+    }
+}

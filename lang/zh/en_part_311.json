@@ -1,0 +1,152 @@
+{
+    "change_annual_plan_modal.contact_support_to_purchase_more_seats_error": {
+        "string": "Please {contactSupportLink} to purchase more than {maxAnnualSubscriptions} seats."
+    },
+    "change_annual_plan_modal.change_annual_plan_grace_period.seat_rename": {
+        "string": "You can change the number of full seats on your annual plan 30 days before each renewal."
+    },
+    "change_annual_plan_modal.cancel_annual_plan_text.seat_rename": {
+        "string": "Figma Design and FigJam seats on your team will be charged monthly at {monthlyEditorCost}/mo and {monthlyFigJamEditorCost}/mo, respectively."
+    },
+    "change_annual_plan_modal.cancel_annual_plan_subtext": {
+        "string": "You can always add an annual plan later, if you change your mind."
+    },
+    "change_annual_plan_modal.invalid_seats_error": {
+        "string": "Please enter a valid number of seats to renew."
+    },
+    "change_annual_plan_modal.contact_support_link": {
+        "string": "contact support"
+    },
+    "change_annual_plan_modal.plan_start_date": {
+        "string": "{startDate, date, medium}"
+    },
+    "change_annual_plan_modal.unknown_start_date": {
+        "string": "an unknown date"
+    },
+    "change_annual_plan_modal.confirmation_header_plan_starting": {
+        "string": "Your annual plan will start on {startDate}"
+    },
+    "change_annual_plan_modal.confirmation_header_plan_started": {
+        "string": "Your annual plan will auto-renew on {startDate}"
+    },
+    "change_annual_plan_modal.confirm_text": {
+        "string": "Update annual plan"
+    },
+    "change_annual_plan_modal.remove_annual_plan": {
+        "string": "Remove my annual plan"
+    },
+    "change_annual_plan_modal.dont_renew_annual_plan": {
+        "string": "Don't renew my annual plan"
+    },
+    "change_annual_plan_modal.cancel_annual_plan_header": {
+        "string": "Cancel your annual plan?"
+    },
+    "change_annual_plan_modal.confirm_cancel_annual_plan": {
+        "string": "Cancel annual plan"
+    },
+    "change_annual_plan_modal.nevermind": {
+        "string": "Nevermind"
+    },
+    "change_payment.cancel": {
+        "string": "Cancel"
+    },
+    "change_payment.save": {
+        "string": "Save"
+    },
+    "change_payment.close_window": {
+        "string": "Close window"
+    },
+    "change_payment.success.successfully_reactivated_subscription": {
+        "string": "Successfully reactivated your subscription."
+    },
+    "change_payment.success.successfully_updated_your_payment_method": {
+        "string": "Successfully updated your payment method."
+    },
+    "change_payment.enter_payment_method": {
+        "string": "Enter your payment details"
+    },
+    "change_vat_gst_id.description": {
+        "string": "If you are paying for this Figma plan as a business, enter your full Value Added Tax (VAT) or Goods and Services Tax (GST) identification number. This helps ensure that your invoices are accurate."
+    },
+    "change_vat_gst_id.save_id": {
+        "string": "Save ID"
+    },
+    "change_vat_gst_id.input_id": {
+        "string": "Add an identification number"
+    },
+    "change_vat_gst_id.tax_id_verification_succeeded": {
+        "string": "Your tax ID number has been verified and added to your invoices."
+    },
+    "change_vat_gst_id.tax_id_verification_failed": {
+        "string": "This tax ID number couldn't be verified. An admin should re-enter the number to keep invoices accurate."
+    },
+    "confirm_downgrade.at_the_end_of_your_current_billing_period_team_name_will_be_downgraded_to_our_free_starter_plan": {
+        "string": "If you choose to cancel, {teamName} will be downgraded to our free Starter plan at the end of your current billing period on {billingEndDate}."
+    },
+    "confirm_downgrade.on_your_next_billing_date_team_name_will_be_downgraded_to_our_free_starter_plan": {
+        "string": "If you choose to cancel, {teamName} will be downgraded to our free Starter plan on your next billing date."
+    },
+    "confirm_downgrade.go_back": {
+        "string": "Go back"
+    },
+    "confirm_downgrade.finish_cancellation": {
+        "string": "Cancel plan"
+    },
+    "confirm_downgrade.cancel_professional_plan": {
+        "string": "Are you sure you want to cancel?"
+    },
+    "org_admin_settings.cost_breakdown.whiteboard_seats_annual_annual_fig_jam_editor_seats.seat_rename": {
+        "string": "{whiteboardSeatsAnnual, plural, one {{whiteboardSeatsAnnual} annual FigJam seat} other {{whiteboardSeatsAnnual} annual FigJam seats}}"
+    },
+    "org_admin_settings.cost_breakdown.cost_breakdown_string_triple": {
+        "string": "{cost} × {seats} × {numMonths}"
+    },
+    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_monthly_fig_jam_editor_seats.seat_rename": {
+        "string": "{whiteboardSeatsMonthly, plural, one {{whiteboardSeatsMonthly} monthly FigJam seat} other {{whiteboardSeatsMonthly} monthly FigJam seats}}"
+    },
+    "org_admin_settings.cost_breakdown.cost_breakdown_string_double": {
+        "string": "{cost} × {seats}"
+    },
+    "org_admin_settings.cost_breakdown.design_seats_annual_annual_design_editor_seats.seat_rename": {
+        "string": "{designSeatsAnnual, plural, one {{designSeatsAnnual} annual Design seat} other {{designSeatsAnnual} annual Design seats}}"
+    },
+    "org_admin_settings.cost_breakdown.design_seats_monthly_monthly_design_editor_seats.seat_rename": {
+        "string": "{designSeatsMonthly, plural, one {{designSeatsMonthly} monthly Design seat} other {{designSeatsMonthly} monthly Design seats}}"
+    },
+    "org_admin_settings.cost_breakdown.design_seats_monthly_cotermed_design_editor_seats.seat_rename": {
+        "string": "{seatsCotermed, plural, one {Upgrade {seatsCotermed} monthly Design seat to annual} other {Upgrade {seatsCotermed} monthly Design seats to annual}}"
+    },
+    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_cotermed_whiteboard_editor_seats.seat_rename": {
+        "string": "{seatsCotermed, plural, one {Upgrade {seatsCotermed} monthly FigJam seat to annual} other {Upgrade {seatsCotermed} monthly FigJam seats to annual}}"
+    },
+    "org_admin_settings.cost_breakdown.total": {
+        "string": "Total"
+    },
+    "org_admin_settings.cost_breakdown.seats": {
+        "string": "{seats, plural, one {{seats} seat} other {{seats} seats}}"
+    },
+    "org_admin_settings.cost_breakdown.12_months": {
+        "string": "12 months"
+    },
+    "team_view.team_permissions_modal.share_this_team": {
+        "string": "Share this team"
+    },
+    "team_view.team_permissions_modal.invite_team_members": {
+        "string": "Invite team members"
+    },
+    "team_view.team_permissions_modal.invite_by_email": {
+        "string": "Invite by email"
+    },
+    "team_view.team_permissions_modal.invite_sent": {
+        "string": "{numInvites, plural, one {# Invite sent} other {# Invites sent.}}"
+    },
+    "team_view.team_permissions_modal.invite": {
+        "string": "Invite"
+    },
+    "team_view.team_permissions_modal.send_invite": {
+        "string": "Send invite"
+    },
+    "team_join_links.invite_link": {
+        "string": "Invite link"
+    }
+}

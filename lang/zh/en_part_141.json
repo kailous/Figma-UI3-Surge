@@ -1,0 +1,152 @@
+{
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.description": {
+        "string": "Share prototypes without the underlying design file."
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.title": {
+        "string": "Project transfer"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.description": {
+        "string": "Transfer your projects to a new person or team."
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.title": {
+        "string": "Audio conversations"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.description": {
+        "string": "Talk about your work directly inside the file."
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.title": {
+        "string": "Voting"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.description": {
+        "string": "Help drive alignment in your FigJam boards."
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.title": {
+        "string": "Open FigJam sessions"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.description": {
+        "string": "Invite anyone to join a board—no login required."
+    },
+    "help_widget.collective_upsells.fullscreen.panel_tab_header": {
+        "string": "With Professional, you get:"
+    },
+    "help_widget.collective_upsells.fullscreen.content_title": {
+        "string": "Design and build better with:"
+    },
+    "help_widget.collective_upsells.fullscreen.upgrade_btn": {
+        "string": "Upgrade to Professional"
+    },
+    "pro_onboarding.pro_feature_modal.as_a_professional_team_you_get": {
+        "string": "As a Professional team, you get:"
+    },
+    "pro_onboarding.pro_feature_modal.got_it": {
+        "string": "Got it"
+    },
+    "help_widget.collective_upsells.fullscreen.price_title.figma_design": {
+        "string": "Figma Design"
+    },
+    "help_widget.collective_upsells.fullscreen.price_title.figjam": {
+        "string": "FigJam"
+    },
+    "help_widget.collective_upsells.fullscreen.price.disclaimer.seat_rename": {
+        "string": "Monthly rate for each full seat, with annual billing"
+    },
+    "permissions_modal.file_share_settings.minute_text": {
+        "string": "{num, plural, one {{num} minute} other {{num} minutes}}"
+    },
+    "permissions_modal.file_share_settings.hour_text": {
+        "string": "{num, plural, one {{num} hour} other {{num} hours}}"
+    },
+    "permissions_modal.file_share_settings.day_text": {
+        "string": "{num, plural, one {{num} day} other {{num} days}}"
+    },
+    "permissions_modal.file_share_settings.week_text": {
+        "string": "{num, plural, one {{num} week} other {{num} weeks}}"
+    },
+    "permissions_modal.file_share_settings.month_text": {
+        "string": "{num, plural, one {{num} month} other {{num} months}}"
+    },
+    "file_access_row.expiration.24_hours.timestamp": {
+        "string": "Tomorrow at {time}"
+    },
+    "file_access_row.expiration.date.timestamp": {
+        "string": "{date} at {time}"
+    },
+    "file_access_row.expiration.past_org_limit_hours": {
+        "string": "{count, plural, one {Your organization has an expiration limit of {count} hour.} other {Your organization has an expiration limit of {count} hours.}}"
+    },
+    "file_access_row.expiration.past_org_limit_days": {
+        "string": "{count, plural, one {Your organization has an expiration limit of {count} day.} other {Your organization has an expiration limit of {count} days.}}"
+    },
+    "file_permissions_modal.secondary_header.go_back": {
+        "string": "Go back"
+    },
+    "fig_feed.discard_draft": {
+        "string": "Discard draft"
+    },
+    "fig_feed.youll_lose_your_post_draft": {
+        "string": "You'll lose your post draft and all of its content. Are you sure?"
+    },
+    "visual_bell.file_move_folder": {
+        "string": "Moved to {folderName}"
+    },
+    "rcs.upsell_libraries.click_in_toolbar_to_turn_into_component": {
+        "string": "Select objects and click {svg} in the toolbar to turn them into components"
+    },
+    "slides.properties_panel.visual_bell.remove_stack": {
+        "string": "Auto layout removed {secondaryText}"
+    },
+    "slides.properties_panel.visual_bell.remove_stack_undo": {
+        "string": "⌘Z to undo"
+    },
+    "rcs.upsell_libraries.upsell_libraries.create_component_icon_title": {
+        "string": "Create component button"
+    },
+    "community.badge.creator_fund": {
+        "string": "Creator Fund"
+    },
+    "community.detail_view.creator_fund_tooltip": {
+        "string": "Made with the support of a Figma Creator Fund grant."
+    },
+    "community.detail_view.figma_partner_this_creator_is": {
+        "string": "This creator is a Figma Partner."
+    },
+    "community.buyer.subscribed_with_price": {
+        "string": "Subscribed · {priceString}"
+    },
+    "community.buyer.subscribed": {
+        "string": "Subscribed"
+    },
+    "community.buyer.purchased": {
+        "string": "Purchased"
+    },
+    "community.detail_view.third_party_badge.off_platform": {
+        "string": "Third-party payment"
+    },
+    "community.buyer.in_app_purchases": {
+        "string": "In-app purchases"
+    },
+    "community.plugins.private_for_your_organization": {
+        "string": "Private for your organization"
+    },
+    "community.like": {
+        "string": "Like"
+    },
+    "community.resource.free_trial_days": {
+        "string": "{days}-day free trial"
+    },
+    "community.resource.includes_free_trial_days": {
+        "string": "Includes {days}-day free trial"
+    },
+    "community.try.people_use_this": {
+        "string": "{numPeople, plural, one {Used by {numPeopleStr} person} other {Used by {numPeopleStr} people}}"
+    },
+    "community.saves.remove_from_saves": {
+        "string": "Remove from saves"
+    },
+    "community.saves.save_for_later": {
+        "string": "Save for later"
+    },
+    "community.saves.save": {
+        "string": "Save"
+    }
+}

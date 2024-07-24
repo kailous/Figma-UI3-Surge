@@ -1,0 +1,152 @@
+{
+    "slides.flapp.results.results_hidden": {
+        "string": "Results hidden"
+    },
+    "slides.flapp.facepile.prompt_placeholder": {
+        "string": "Stamp me if you agree"
+    },
+    "slides.flapp.facepile.tooltip.click_to_remove": {
+        "string": "Click to remove"
+    },
+    "slides.flapp.results.no_stamps_yet": {
+        "string": "No stamps yet"
+    },
+    "slides.flapp.facepile.description_click_to_stamp": {
+        "string": "Click to stamp your face"
+    },
+    "slides.flapp.results.single_self_stamp": {
+        "string": "You stamped"
+    },
+    "slides.flapp.results.single_other_stamp": {
+        "string": "{person} stamped"
+    },
+    "slides.flapp.results.multiple_stamps_including_user": {
+        "string": "{totalStamps, plural, one {You and {totalStamps} other stamped} other {You and {totalStamps} others stamped}}"
+    },
+    "slides.flapp.results.multiple_other_stamps": {
+        "string": "{totalStamps, plural, one {{totalStamps} person stamped} other {{totalStamps} people stamped}}"
+    },
+    "slides.flapp.poll.vote_failure": {
+        "string": "Could not vote on poll. Try logging in and voting again."
+    },
+    "slides.flapp.poll.question_placeholder": {
+        "string": "Ask a question…"
+    },
+    "slides.flapp.poll.option_placeholder": {
+        "string": "Add an option"
+    },
+    "fullscreen_actions.slides-speaker-notes-no-notes-placeholder": {
+        "string": "No notes for this slide"
+    },
+    "slides.presenter_view.decrement_font_size": {
+        "string": "Decrement font size"
+    },
+    "slides.presenter_view.increment_font_size": {
+        "string": "Increment font size"
+    },
+    "slides.presenter_view.visual_bells.opened_audience_view_in_separate_window": {
+        "string": "Opened slide deck in separate window"
+    },
+    "viewer.menu_bar.presenter_view": {
+        "string": "Open audience view"
+    },
+    "file_browser.mobile_prompt.app_title": {
+        "string": "Figma app"
+    },
+    "file_browser.mobile_prompt.app_description_new": {
+        "string": "Design, collaborate, & mirror"
+    },
+    "file_browser.mobile_prompt.app_description": {
+        "string": "For viewing and commenting"
+    },
+    "file_browser.mobile_prompt.app_action": {
+        "string": "Get"
+    },
+    "file_browser.mobile_prompt.browser_title": {
+        "string": "Browser"
+    },
+    "file_browser.mobile_prompt.browser_action": {
+        "string": "Continue"
+    },
+    "file_browser.mobile_prompt.modal_title_blocking": {
+        "string": "Get the Figma app to browse on mobile"
+    },
+    "file_browser.mobile_prompt.modal_title": {
+        "string": "Stay in the loop with the Figma app"
+    },
+    "file_browser.mobile_prompt.modal_body_blocking": {
+        "string": "Browse files, reply to comments, catch up on notifications, and more—all in the Figma mobile app."
+    },
+    "file_browser.mobile_prompt.modal_body": {
+        "string": "Try the Figma mobile app to stay on top of activity like comments, replies, and @mentions on the go."
+    },
+    "file_browser.mobile_prompt.modal_title_compact": {
+        "string": "Try viewing this file in our app"
+    },
+    "file_browser.mobile_prompt.app_image_alt": {
+        "string": "Figma mobile app icon"
+    },
+    "file_browser.mobile_prompt.browser_image_alt": {
+        "string": "Google Chrome logo"
+    },
+    "file_browser.mobile_prompt.image_alt": {
+        "string": "Mobile phone screens showing the file viewing, and commenting features of the Figma mobile app."
+    },
+    "community.plugins.this_resource_is_in_review_by_figma_moderators_and_will_be_available_publicly_once_approved": {
+        "string": "This resource is in review by Figma moderators and will be available publicly once approved."
+    },
+    "community.plugins.you_ll_need_the_link_to_create_and_manage_your_own_plugins": {
+        "string": "You'll need the {link} to create and manage your own plugins"
+    },
+    "community.plugins.publish_new_version": {
+        "string": "Publish new version"
+    },
+    "fullscreen.plugins_menu.new_plugin": {
+        "string": "New plugin…"
+    },
+    "fullscreen.plugins_menu.new_widget": {
+        "string": "New widget…"
+    },
+    "fullscreen.plugins_menu.import_widget_from_manifest": {
+        "string": "Import widget from manifest…"
+    },
+    "fullscreen.plugins_menu.import_plugin_from_manifest": {
+        "string": "Import plugin from manifest…"
+    },
+    "fullscreen.plugins_menu.open_directory_mac": {
+        "string": "Reveal in Finder"
+    },
+    "fullscreen.plugins_menu.open_directory_win": {
+        "string": "Reveal in Explorer"
+    },
+    "community.plugins.desktop_app": {
+        "string": "desktop app"
+    },
+    "community.plugins.options": {
+        "string": "Options"
+    },
+    "community.plugins.plugin_or_widget_issue": {
+        "string": "{resourceType} issue"
+    },
+    "community.plugins.private_for_plugin_org_name": {
+        "string": "Private for {orgName}"
+    },
+    "community.plugins.private_for_plugin_org": {
+        "string": "Private for Org"
+    },
+    "community.plugins.published_to_community": {
+        "string": "Published to Community"
+    },
+    "universal_insert.locate_local_version_text": {
+        "string": "Locate local version"
+    },
+    "community.detail_view.decline": {
+        "string": "Decline"
+    },
+    "community.detail_view.accept": {
+        "string": "Accept"
+    },
+    "universal_insert.invited_you_to_publish": {
+        "string": "{ownerName} invited you to be a publisher of {resourceName}"
+    }
+}

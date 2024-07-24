@@ -1,0 +1,152 @@
+{
+    "dev_handoff.annotations.autolayout_mode": {
+        "string": "Direction"
+    },
+    "dev_handoff.annotations.alignment": {
+        "string": "Alignment"
+    },
+    "dev_handoff.annotations.text_style": {
+        "string": "Text style"
+    },
+    "dev_handoff.annotations.font_size": {
+        "string": "Font size"
+    },
+    "dev_handoff.annotations.text_align": {
+        "string": "Text align"
+    },
+    "dev_handoff.annotations.component": {
+        "string": "Component"
+    },
+    "dev_handoff.annotations.auto": {
+        "string": "Auto"
+    },
+    "dev_handoff.annotations.autolayout_horizontal": {
+        "string": "Horizontal"
+    },
+    "dev_handoff.annotations.autolayout_vertical": {
+        "string": "Vertical"
+    },
+    "dev_handoff.annotations.alignment.top_left": {
+        "string": "Top left"
+    },
+    "dev_handoff.annotations.alignment.left": {
+        "string": "Left"
+    },
+    "dev_handoff.annotations.alignment.bottom_left": {
+        "string": "Bottom left"
+    },
+    "dev_handoff.annotations.alignment.baseline_left": {
+        "string": "Left baseline"
+    },
+    "dev_handoff.annotations.alignment.top_center": {
+        "string": "Top center"
+    },
+    "dev_handoff.annotations.alignment.center": {
+        "string": "Center"
+    },
+    "dev_handoff.annotations.alignment.bottom_center": {
+        "string": "Bottom center"
+    },
+    "dev_handoff.annotations.alignment.baseline_center": {
+        "string": "Center baseline"
+    },
+    "dev_handoff.annotations.alignment.top_right": {
+        "string": "Top right"
+    },
+    "dev_handoff.annotations.alignment.right": {
+        "string": "Right"
+    },
+    "dev_handoff.annotations.alignment.bottom_right": {
+        "string": "Bottom right"
+    },
+    "dev_handoff.annotations.alignment.baseline_right": {
+        "string": "Right baseline"
+    },
+    "dev_handoff.annotations.multiple": {
+        "string": "Multiple"
+    },
+    "dev_handoff.selection_colors.gradient_linear": {
+        "string": "Linear gradient"
+    },
+    "dev_handoff.selection_colors.gradient_angular": {
+        "string": "Angular gradient"
+    },
+    "dev_handoff.selection_colors.gradient_diamond": {
+        "string": "Diamond gradient"
+    },
+    "dev_handoff.selection_colors.gradient_radial": {
+        "string": "Radial gradient"
+    },
+    "dev_handoff.annotations.image": {
+        "string": "Image"
+    },
+    "dev_handoff.annotations.video": {
+        "string": "Video"
+    },
+    "dev_handoff.annotations.shadow": {
+        "string": "Shadow"
+    },
+    "dev_handoff.annotations.align_left": {
+        "string": "Left"
+    },
+    "whiteboard.inserts.couldn_t_find_resource_in_org_allowlist": {
+        "string": "Nothing found in {orgName}’s allowlist for {searchQuery}."
+    },
+    "whiteboard.inserts.couldn_t_find_default_display_string_resource_type_for": {
+        "string": "Couldn’t find {resourceType} for {searchQuery}."
+    },
+    "whiteboard.inserts.custom_display_string_search_result": {
+        "string": "Nothing matching for {searchQuery}."
+    },
+    "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the": {
+        "string": "If you’re still looking, there’s much more to see in the {link}."
+    },
+    "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the_community": {
+        "string": "Community"
+    },
+    "whiteboard.inserts.view_stickers_in_this_set": {
+        "string": "View stickers in this set"
+    },
+    "whiteboard.inserts.all": {
+        "string": "All"
+    },
+    "whiteboard.inserts.plugin_community_disabled": {
+        "string": "Public plugins have been disabled by your organization admin, but you can still use and build {private_plugins}"
+    },
+    "whiteboard.inserts.plugin_community_disabled_private_plugins": {
+        "string": "private plugins."
+    },
+    "whiteboard.inserts.disabled_org_widgets_empty_state_description": {
+        "string": "Widgets have been disabled by your organization admin."
+    },
+    "whiteboard.inserts.development_more_options": {
+        "string": "More options"
+    },
+    "slides.templates.templates_modal.templates_title": {
+        "string": "Templates"
+    },
+    "slides.templates.templates_modal.published_by": {
+        "string": "by {publisherName}"
+    },
+    "slides.templates.back": {
+        "string": "Back"
+    },
+    "slides.templates.search_templates": {
+        "string": "Search templates"
+    },
+    "slides.templates.template_picker.search_templates": {
+        "string": "Search templates..."
+    },
+    "slides.templates.template_picker.title": {
+        "string": "Pick a template for your outline"
+    },
+    "slides.templates.template_picker.subtitle": {
+        "string": "Give your new deck some style and structure."
+    },
+    "slides.templates.recents": {
+        "string": "Recents"
+    },
+    "slides.templates.org_templates": {
+        "string": "Org templates"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "pro_cart.review.lets_make_sure_everything_looks_right": {
+        "string": "Let’s make sure everything looks right"
+    },
+    "pro_cart.add_collaborators.error.email_is_invalid": {
+        "string": "Email {string} is invalid"
+    },
+    "pro_cart.review.extra_validation": {
+        "string": "After you check out, you may be asked for extra verification to complete this payment."
+    },
+    "file_browser.offline_notification.youre_offline_message_body": {
+        "string": "{youreOfflineMessagePrefix} You can keep working in the files you have open, or create a new file."
+    },
+    "file_browser.offline_notification.youre_offline_message_body_no_create": {
+        "string": "{youreOfflineMessagePrefix} You can keep working in the files you have open."
+    },
+    "file_browser.offline_notification.youre_offline_message_prefix": {
+        "string": "You’re offline."
+    },
+    "file_browser.offline_notification.create_file": {
+        "string": "Create file"
+    },
+    "payments.add_annual_plan.title": {
+        "string": "Add an annual plan"
+    },
+    "payments.add_annual_plan.intro.seat_rename": {
+        "string": "Payment for annual seats will be added to your next monthly renewal invoice. Any paid Figma Design and FigJam seats not covered by your annual plan will be charged monthly at {monthlyDesignEditorCost}/mo and {monthlyFigjamEditorCost}/mo, respectively."
+    },
+    "payments.add_annual_plan.auto_renew.seat_rename": {
+        "string": "Your subscription will automatically renew each year for the annual subscription and each month for any additional paid seats added to the team. {cancellingIsEasyLink}."
+    },
+    "payments.add_annual_plan.cancelling_is_easy_link_text": {
+        "string": "Cancelling is easy"
+    },
+    "payments.add_annual_plan.tos": {
+        "string": "By upgrading, you agree to our {tosLink}."
+    },
+    "payments.add_annual_plan.tos_link_text": {
+        "string": "Terms of Service"
+    },
+    "payments.add_annual_plan.cta_text": {
+        "string": "Accept terms and upgrade"
+    },
+    "plan_details.choose_your_team_plan": {
+        "string": "Choose your team plan"
+    },
+    "org_self_serve.billing_items.total_figma_design_editor_with_dev_mode_included.seat_rename": {
+        "string": "{totalDesignSeatsCount, plural, one {{totalDesignSeatsCount} Design (Dev Mode incl.) seat} other {{totalDesignSeatsCount} Design (Dev Mode incl.) seats}}"
+    },
+    "org_self_serve.billing_items.total_figma_design_editor.seat_rename": {
+        "string": "{totalDesignSeatsCount, plural, one {{totalDesignSeatsCount} Design seat} other {{totalDesignSeatsCount} Design seats}}"
+    },
+    "org_self_serve.billing_items.total_figma_design_editor_cost.seat_rename": {
+        "string": "{totalDesignSeatsCount, plural, one {{annualMemberCost} × {totalDesignSeatsCount} Design seat × 12 months (annual only)} other {{annualMemberCost} × {totalDesignSeatsCount} Design seats × 12 months (annual only)}}"
+    },
+    "org_self_serve.headers.total_fig_jam_editor_seats_count.seat_rename": {
+        "string": "{totalFigJamEditorSeatsCount, plural, one {{totalFigJamEditorSeatsCount} FigJam seat} other {{totalFigJamEditorSeatsCount} FigJam seats}}"
+    },
+    "org_self_serve.billing_items.total_figjam_editor_cost.seat_rename": {
+        "string": "{totalFigJamEditorSeatsCount, plural, one {{annualMemberCost} × {totalFigJamEditorSeatsCount} FigJam seat × 12 months (annual only)} other {{annualMemberCost} × {totalFigJamEditorSeatsCount} FigJam seats × 12 months (annual only)}}"
+    },
+    "org_self_serve.billing_items.total_seat_count.dev_mode": {
+        "string": "{totalSeatCount, plural, one {{totalSeatCount} Dev Mode seat} other {{totalSeatCount} Dev Mode seats}}"
+    },
+    "org_self_serve.billing_items.total_seat_cost_for_product": {
+        "string": "{seatCount, plural, one {{annualMemberCost} × {seatCount} seat × 12 months} other {{annualMemberCost} × {seatCount} seats × 12 months}}"
+    },
+    "org_self_serve.payment_step.enter_your_payment_details": {
+        "string": "Enter your payment details"
+    },
+    "org_self_serve.purchase_summary.num_empty_seats": {
+        "string": "{numEmptySeats, plural, one {{numEmptySeats} empty seat} other {{numEmptySeats} empty seats}}"
+    },
+    "org_self_serve.purchase_summary.none": {
+        "string": "None"
+    },
+    "org_self_serve.purchase_summary.added_empty_seats": {
+        "string": "{minCount, plural, one {There's a minimum of {minCount} seat for teams on the Organization plan.} other {There's a minimum of {minCount} seats for teams on the Organization plan.}}"
+    },
+    "org_self_serve.purchase_summary.empty_seats_included": {
+        "string": "{numOfEmptySeats, plural, one {Since you signed up for {numOfSeats} {seatsText}, {numOfEmptySeats} empty seat is included to assign later.} other {Since you signed up for {numOfSeats} {seatsText}, {numOfEmptySeats} empty seats are included to assign later.}}"
+    },
+    "checkout.seats_text": {
+        "string": "{numOfSeats, plural, one {seat} other {seats}}"
+    },
+    "org_self_serve.purchase_summary.the_organization_plan_requires_seats_added_empty_seats.seat_rename": {
+        "string": "The Organization plan needs at least {minCount} full seats. We added an empty seat that you can assign someone to later."
+    },
+    "org_self_serve.purchase_summary.the_organization_plan_requires_at_least_count_editor_seats.seat_rename": {
+        "string": "The Organization plan requires at least {minCount} paid seats."
+    },
+    "org_self_serve.purchase_summary.added_empty_design_seats": {
+        "string": "{minCount, plural, one {There's a minimum of {minCount} full Figma design seat for teams on the Organization plan.} other {There's a minimum of {minCount} full Figma design seats for teams on the Organization plan.}}"
+    },
+    "org_self_serve.purchase_summary.empty_design_seats_included": {
+        "string": "{numOfEmptySeats, plural, one {An empty seat is included that you can assign later.} other {{numOfEmptySeats} empty seats are included that you can assign later.}}"
+    },
+    "org_self_serve.purchase_summary.organization_plan": {
+        "string": "Organization plan"
+    },
+    "org_self_serve.purchase_summary.domain": {
+        "string": "Domain: {domain}"
+    },
+    "org_self_serve.purchase_summary.figma_design_editors.seat_rename": {
+        "string": "Figma Design seats"
+    },
+    "org_self_serve.purchase_summary.fig_jam_editors.seat_rename": {
+        "string": "FigJam seats"
+    },
+    "org_self_serve.purchase_summary.currency_text": {
+        "string": "Currency"
+    },
+    "org_self_serve.purchase_summary.add_additional_editors.seat_rename": {
+        "string": "Add more seats"
+    },
+    "org_self_serve.purchase_summary.have_questions": {
+        "string": "Have questions? {contactSales}"
+    },
+    "org_self_serve.purchase_summary.contact_our_sales_team": {
+        "string": "Contact our sales team"
+    },
+    "org_self_serve.headers.cancel": {
+        "string": "Cancel"
+    },
+    "org_self_serve.confirmation_step.sorry_there_was_an_error_processing_your_request_refresh_and_try_again": {
+        "string": "Sorry, there was an error processing your request. Refresh and try again"
+    },
+    "org_self_serve.create_team_step.next_select_team": {
+        "string": "Next: Select teams"
+    },
+    "org_self_serve.details_step.next_organization_details": {
+        "string": "Next: Organization details"
+    },
+    "org_self_serve.payment_step.next_payment": {
+        "string": "Next: Payment"
+    },
+    "org_self_serve.review_step.next_review": {
+        "string": "Next: Review"
+    },
+    "org_self_serve.payment_step.sorry_please_wait": {
+        "string": "Sorry, please wait."
+    },
+    "org_self_serve.payment_step.name_on_payment_method_is_required": {
+        "string": "Name on payment method is required."
+    },
+    "org_self_serve.payment_step.there_was_an_error_processing_your_payment_please_try_again": {
+        "string": "There was an error processing your payment. Please try again."
+    },
+    "org_self_serve.review_step.sorry_there_was_an_error_please_try_again": {
+        "string": "Sorry, there was an error. Please try again."
+    }
+}

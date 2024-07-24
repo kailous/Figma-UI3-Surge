@@ -1,0 +1,152 @@
+{
+    "fullscreen.canvas.auto_layout_fill": {
+        "string": "Fill"
+    },
+    "fullscreen.canvas.auto_layout_fill_with_value": {
+        "string": "Fill ({value})"
+    },
+    "fullscreen.canvas.auto_layout_hug": {
+        "string": "Hug"
+    },
+    "fullscreen.canvas.auto_layout_hug_with_value": {
+        "string": "Hug ({value})"
+    },
+    "fullscreen.canvas.dimension_max_constrained": {
+        "string": "{value} (max)"
+    },
+    "fullscreen.canvas.dimension_min_constrained": {
+        "string": "{value} (min)"
+    },
+    "fullscreen.canvas.max": {
+        "string": "(max)"
+    },
+    "fullscreen.canvas.min": {
+        "string": "(min)"
+    },
+    "fullscreen.canvas.number_of_variants": {
+        "string": "{variants, plural, one {{variants} Variant} other {{variants} Variants}}"
+    },
+    "fullscreen.canvas.paint_label_GIF": {
+        "string": "GIF"
+    },
+    "fullscreen.canvas.paint_label_Video": {
+        "string": "Video"
+    },
+    "fullscreen.canvas.paint_label_Video_and_GIF": {
+        "string": "Video & GIF"
+    },
+    "fullscreen.canvas.select_all_matching_layers": {
+        "string": "Select all matching layers"
+    },
+    "fullscreen.canvas.select_all_n_matching_layers": {
+        "string": "Select all {total_num_layers} matching layers"
+    },
+    "fullscreen.css_export.auto_layout": {
+        "string": "Auto layout"
+    },
+    "fullscreen.css_export.identical_to_box_height": {
+        "string": "identical to box height"
+    },
+    "fullscreen.css_export.identical_to_box_height_with_alternate": {
+        "string": "identical to box height, or {alternateUnit}"
+    },
+    "fullscreen.css_export.inside_auto_layout": {
+        "string": "Inside auto layout"
+    },
+    "fullscreen.css_export.line_height_alternate": {
+        "string": "or {alternateUnit}"
+    },
+    "fullscreen.css_export.note_backdrop_filter_has_minimal_browser_support": {
+        "string": "Note: backdrop-filter has minimal browser support"
+    },
+    "fullscreen.dropped_file.file_format_not_recognized_or_failed_to_convert": {
+        "string": "File format not recognized or failed to convert\n"
+    },
+    "fullscreen.dropped_file.files_failed_to_import": {
+        "string": "Files failed to import…"
+    },
+    "fullscreen.dropped_file.pdf_import_is_not_supported": {
+        "string": "PDF import is not supported\n"
+    },
+    "fullscreen.dropped_file.psd_import_is_not_supported": {
+        "string": "PSD import is not supported\n"
+    },
+    "fullscreen.export_handler.dimensions_exceeded_and_origin_snapped": {
+        "string": "Dimensions exceeded maximum\nDimensions exceeded {maxDimension}.\nReduced to {reducedX}x{reducedY}px. \n\n Origin not aligned to pixels.\nOrigin snapped to ({snapX}, {snapY}).\nDimensions may expand by a pixel."
+    },
+    "fullscreen.export_handler.dimensions_exceeded_maximum": {
+        "string": "Dimensions exceeded maximum"
+    },
+    "fullscreen.export_handler.dimensions_exceeded_maximum_tooltip": {
+        "string": "Dimensions exceeded maximum\nDimensions exceeded {maxDimension}.\nReduced to {reducedX}x{reducedY}px."
+    },
+    "fullscreen.export_handler.origin_not_aligned_to_pixels": {
+        "string": "Origin not aligned to pixels."
+    },
+    "fullscreen.export_handler.origin_snapped_tooltip": {
+        "string": "Origin not aligned to pixels.\nOrigin snapped to ({snapX}, {snapY}).\nDimensions may expand by a pixel."
+    },
+    "fullscreen.node_transition_behavior.back": {
+        "string": "Back"
+    },
+    "fullscreen.node_transition_behavior.close_overlay": {
+        "string": "Close Overlay"
+    },
+    "fullscreen.node_transition_behavior.open_link": {
+        "string": "Open Link"
+    },
+    "fullscreen.node_transition_behavior.open_overlay": {
+        "string": "Open Overlay"
+    },
+    "fullscreen.node_transition_behavior.swap": {
+        "string": "Swap"
+    },
+    "fullscreen.position_panel.fixed_disabled": {
+        "string": "Can only be applied to the top-most frame."
+    },
+    "fullscreen.position_panel.relative_disabled": {
+        "string": "Can only be applied to layers within an auto layout frame."
+    },
+    "fullscreen.save_status.learn_more": {
+        "string": "Learn more"
+    },
+    "fullscreen.stack_behavior.auto": {
+        "string": "Auto"
+    },
+    "fullscreen.stack_behavior.container": {
+        "string": "Container ({parentName})"
+    },
+    "fullscreen.stack_behavior.contents": {
+        "string": "Contents"
+    },
+    "fullscreen.style_detached_warning": {
+        "string": "Style detached from some text layers"
+    },
+    "fullscreen.table_tool.click_and_drag_to_set_table_size": {
+        "string": "Click and drag to set size"
+    },
+    "fullscreen.table_tool.num_rows_num_columns": {
+        "string": "{numRows} rows, {numColumns} columns"
+    },
+    "fullscreen.visual_bell.missing_font_replaced": {
+        "string": "Missing font replaced"
+    },
+    "fullscreen.visual_bell.view_only_text_too_old": {
+        "string": "Precise text selection is not available"
+    },
+    "fullscreen.widgets.details": {
+        "string": "Details"
+    },
+    "resource_use.click_to_dismiss": {
+        "string": "(Double-click to dismiss)"
+    },
+    "resource_use.memory_allocations": {
+        "string": "Memory allocations/frees"
+    },
+    "resource_use.total_memory": {
+        "string": "Total memory used in GB"
+    },
+    "resource_use.total_number_of_layers": {
+        "string": "Total number of layers"
+    }
+}

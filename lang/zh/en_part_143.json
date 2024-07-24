@@ -1,0 +1,152 @@
+{
+    "dev_handoff.inspect_panel.plugins_hint.title": {
+        "string": "Use your favorite tools right in Figma"
+    },
+    "dev_handoff.inspect_panel.plugins_hint.link": {
+        "string": "Browse plugins"
+    },
+    "dev_handoff.assets.video": {
+        "string": "Video"
+    },
+    "dev_handoff.assets.gif": {
+        "string": "GIF"
+    },
+    "dev_handoff.assets.image": {
+        "string": "Image"
+    },
+    "dev_handoff.assets.icon": {
+        "string": "Icon"
+    },
+    "inspect_panel.property.mixed": {
+        "string": "Mixed"
+    },
+    "inspect_panel.code.code": {
+        "string": "Code"
+    },
+    "fullscreen.properties_panel.properties": {
+        "string": "Properties"
+    },
+    "dev_handoff.alternative_units.only_apply_rem_on_text": {
+        "string": "Only apply {rem} on text properties"
+    },
+    "dev_handoff.alternative_units.rem_unit": {
+        "string": "rem"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_ios": {
+        "string": "Scale factor for scaling dimensions into iOS points"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_android": {
+        "string": "Scale factor for scaling dimensions into Android dp/sp"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_web": {
+        "string": "Root font size for scaling pixels into CSS rems"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_third_party": {
+        "string": "Scale factor for scaling pixels into {unitName} units"
+    },
+    "dev_handoff.alternative_units.unit_settings_modal_title": {
+        "string": "Unit settings"
+    },
+    "dev_handoff.alternative_units.no_scale": {
+        "string": "No scaling"
+    },
+    "dev_handoff.alternative_units.dp_unit": {
+        "string": "dp/sp"
+    },
+    "dev_handoff.alternative_units.pt_unit": {
+        "string": "pt"
+    },
+    "dev_handoff.code.settings.set_as_default": {
+        "string": "Set as default"
+    },
+    "inspect_panel.node_type.detached_component": {
+        "string": "Detached component"
+    },
+    "inspect_panel.node_type.union": {
+        "string": "Union"
+    },
+    "inspect_panel.node_type.intersect": {
+        "string": "Intersect"
+    },
+    "inspect_panel.node_type.subtract": {
+        "string": "Subtract"
+    },
+    "inspect_panel.node_type.exclude": {
+        "string": "Exclude"
+    },
+    "inspect_panel.node_type.vector": {
+        "string": "Vector"
+    },
+    "inspect_panel.node_type.star": {
+        "string": "Star"
+    },
+    "inspect_panel.node_type.line": {
+        "string": "Line"
+    },
+    "inspect_panel.node_type.ellipse": {
+        "string": "Ellipse"
+    },
+    "inspect_panel.node_type.rectangle": {
+        "string": "Rectangle"
+    },
+    "inspect_panel.node_type.polygon": {
+        "string": "Polygon"
+    },
+    "inspect_panel.node_type.text": {
+        "string": "Text"
+    },
+    "inspect_panel.node_type.slice": {
+        "string": "Slice"
+    },
+    "inspect_panel.node_type.main_component_set": {
+        "string": "Component set"
+    },
+    "inspect_panel.node_type.horizontal_al": {
+        "string": "Row layout"
+    },
+    "inspect_panel.node_type.vertical_al": {
+        "string": "Column layout"
+    },
+    "inspect_panel.node_type.group": {
+        "string": "Group"
+    },
+    "inspect_panel.node_type.frame": {
+        "string": "Frame"
+    },
+    "inspect_panel.node_type.main_variant": {
+        "string": "Variant"
+    },
+    "inspect_panel.node_type.main_component": {
+        "string": "Main component"
+    },
+    "inspect_panel.node_type.instance": {
+        "string": "Component instance"
+    },
+    "inspect_panel.node_type.figjam": {
+        "string": "FigJam node"
+    },
+    "inspect_panel.node_type.section": {
+        "string": "Section"
+    },
+    "inspect_panel.node_type.widget": {
+        "string": "Widget"
+    },
+    "inspect_panel.node_type.page": {
+        "string": "Page"
+    },
+    "inspect_panel.node_type.table": {
+        "string": "Table"
+    },
+    "inspect_panel.node_type_tooltip.detached_component": {
+        "string": "This layer was detached from main component"
+    },
+    "dev_handoff.status.ready_for_dev": {
+        "string": "Ready for dev"
+    },
+    "dev_handoff.status.completed": {
+        "string": "Completed"
+    },
+    "dev_handoff.status.mark_status_sentence_part.ready_for_dev": {
+        "string": "Ready for dev"
+    }
+}

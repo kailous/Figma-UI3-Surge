@@ -1,0 +1,152 @@
+{
+    "project_creation.create_new_project": {
+        "string": "Create new project"
+    },
+    "sidebar.new_project": {
+        "string": "New project"
+    },
+    "flash.annual_plan.contact_support_link": {
+        "string": "contact support"
+    },
+    "flash.annual_plan.contact_support": {
+        "string": "Please {contactSupport} to purchase more than {maxAnnualSubscriptions} seats."
+    },
+    "payments.step_pay.add_more_seats": {
+        "string": "Add more seats"
+    },
+    "payments.step_pay.editors_on_annual_plan.seat_rename": {
+        "string": "{numAnnualEditors, plural, one {{numAnnualEditorsNumberOrInput} {productType} seat on an annual plan} other {{numAnnualEditorsNumberOrInput} {productType} seats on an annual plan}}"
+    },
+    "payments.step_pay.add_more_editors": {
+        "string": "Planning ahead? {addMoreSeats}"
+    },
+    "payments.step_pay.subscription": {
+        "string": "Subscription"
+    },
+    "payments.step_pay.plus_sales_tax": {
+        "string": "+ sales tax"
+    },
+    "payments.step_pay.happy_you_want_to_buy_seats": {
+        "string": "We’re happy that you want to buy {numAnnualEditors} total seats, but just want to check that you didn’t make a typo."
+    },
+    "flash.no_negative_seats": {
+        "string": "You can’t have fewer than 0 seats."
+    },
+    "flash.at_least_one_editor.seat_rename": {
+        "string": "You need at least one paid seat."
+    },
+    "payments.step_pay.price_per_editor_12_months": {
+        "string": "{price} × {editorString} × 12 months"
+    },
+    "payments.step_pay.num_editors.seat_rename": {
+        "string": "{numEditors, plural, one {{numEditors} full seat} other {{numEditors} full seats}}"
+    },
+    "payments.step_pay.none_selected": {
+        "string": "None selected"
+    },
+    "payments.step_pay.thats_a_lot_of_seats": {
+        "string": "{numAnnualEditors}? That’s a lot of total seats!"
+    },
+    "payments.step_pay.confirm_seats": {
+        "string": "Confirm seats"
+    },
+    "team_view.downgrade_editor_modal.downgrading_their_team_permission_will_change_all_permissions_to_can_view": {
+        "string": "Downgrading their team permission will change all their project and file permissions on this team to 'can view'."
+    },
+    "team_view.downgrade_editor_modal.downgrade_user_team_permissions": {
+        "string": "Downgrade {username}'s Team Permissions?"
+    },
+    "team_view.downgrade_editor_modal.downgrade_multiple_users_team_permissions": {
+        "string": "Downgrade {numSelectedUsers} users' Team Permissions?"
+    },
+    "team_view.downgrade_editor_modal.downgrade": {
+        "string": "Downgrade"
+    },
+    "team_view.downgrade_editor_modal.are_you_sure_you_want_to_downgrade": {
+        "string": "Are you sure you want to downgrade these {numSelectedUsers} users?"
+    },
+    "team_view.grant_figjam_edit_status.seat_rename": {
+        "string": "Give full access to FigJam?"
+    },
+    "team_view.grant_design_edit_status.seat_rename": {
+        "string": "Give full access to Figma Design?"
+    },
+    "team_view.downgrade_figjam_access_from_viewer_to_viewer_restricted": {
+        "string": "Change FigJam view access?"
+    },
+    "team_view.downgrade_design_access_from_viewer_to_viewer_restricted": {
+        "string": "Change Figma design view access?"
+    },
+    "team_view.remove_figjam_edit_status.seat_rename": {
+        "string": "Downgrade FigJam access?"
+    },
+    "team_view.remove_design_edit_status.seat_rename": {
+        "string": "Downgrade Figma Design access?"
+    },
+    "team_view.downgrade_figjam_from_viewer_to_viewer_restricted_description.seat_rename": {
+        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} in FigJam means they'll need admin approval to upgrade.} other {Downgrading these {numMembers} people in FigJam means they'll need admin approval to upgrade.}}"
+    },
+    "team_view.downgrade_design_from_viewer_to_viewer_restricted_description.seat_rename": {
+        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} from viewer to viewer-restricted in Figma Design won't change their access to files, but it will mean they'll need admin approval to upgrade in the future.} other {Downgrading these {numMembers} people from viewer to viewer-restricted in Figma Design won't change their access to files, but it will mean they'll need admin approval to upgrade in the future.}}"
+    },
+    "team_view.downgrade_figjam_description.seat_rename": {
+        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} in FigJam means they can no longer edit or create FigJam files in this team.} other {Downgrading these {numMembers} people in FigJam means they can no longr edit or create FigJam files in this team.}}"
+    },
+    "team_view.downgrade_design_description.seat_rename": {
+        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} in Figma Design means they can no longer edit or create design files in this team.} other {Downgrading these {numMembers} users in Figma Design means they can no longer edit or create design files in this team.}}"
+    },
+    "team_view.change_to_editor_figjam_description.seat_rename": {
+        "string": "{numMembers, plural, one {Upgrading {memberNameOrEmail} in FigJam will allow them to edit or create FigJam files outside of the Drafts section in this team.} other {Upgrading these {numMembers} people in FigJam will allow them to edit or create FigJam files outside of the Drafts section in this team.}}"
+    },
+    "team_view.change_to_editor_design_description.seat_rename": {
+        "string": "{numMembers, plural, one {Upgrading {memberNameOrEmail} in Figma Design will allow them to edit or create design files outside of the Drafts section in this team.} other {Upgrading these {numMembers} people in Figma Design will allow them to edit or create design files outside of the Drafts section in this team.}}"
+    },
+    "team_view.learn_more.seat_rename": {
+        "string": "Learn more about paid seats"
+    },
+    "team_view.grant.seat_rename": {
+        "string": "Upgrade"
+    },
+    "team_view.change": {
+        "string": "Change"
+    },
+    "team_view.remove.seat_rename": {
+        "string": "Downgrade"
+    },
+    "team_view.member_edit_access_modal.projects_title": {
+        "string": "Projects with edit access"
+    },
+    "team_view.member_edit_access_modal.files_title": {
+        "string": "Files with edit access"
+    },
+    "team_view.member_edit_access_modal.none_files": {
+        "string": "None"
+    },
+    "team_view.member_edit_access_modal.none_projects": {
+        "string": "None"
+    },
+    "team_view.member_edit_access_modal.all_projects": {
+        "string": "All"
+    },
+    "team_view.member_edit_access_modal.all_files": {
+        "string": "All"
+    },
+    "team_view.member_edit_access_modal.all_design_files": {
+        "string": "All design files"
+    },
+    "team_view.member_edit_access_modal.all_figjam_files": {
+        "string": "All FigJam files"
+    },
+    "team_view.member_edit_access_modal.invite_only_projects": {
+        "string": "{numProjects, plural, one {{numProjects} invite-only project} other {{numProjects} invite-only projects}}"
+    },
+    "team_view.member_edit_access_modal.invite_only_files": {
+        "string": "{numFiles, plural, one {{numFiles} invite-only file} other {{numFiles} invite-only files}}"
+    },
+    "team_view.member_edit_access_modal.invite_only_projects_list_end": {
+        "string": "{numProjects, plural, one {and {numProjects} invite-only project} other {and {numProjects} invite-only projects}}"
+    },
+    "team_view.member_edit_access_modal.invite_only_files_list_end": {
+        "string": "{numFiles, plural, one {and {numFiles} invite-only file} other {and {numFiles} invite-only files}}"
+    }
+}

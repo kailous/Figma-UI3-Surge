@@ -1,0 +1,152 @@
+{
+    "workspace_table.empty_state.manage_access_and_plugins": {
+        "string": "Manage access and plugins"
+    },
+    "workspace_table.empty_state.manage_access_and_plugins.subtitle": {
+        "string": "Control how file links can be shared and where plugins can be used for each workspace."
+    },
+    "workspace_table.empty_state.approve_libraries_and_assets": {
+        "string": "Enable libraries and assets"
+    },
+    "workspace_table.empty_state.approve_libraries.subtitle": {
+        "string": "Let members know which libraries work best for each workspace."
+    },
+    "workspace_table.empty_state.let_workspaces_be_unique": {
+        "string": "Let workspaces be unique"
+    },
+    "workspace_table.empty_state.let_workspaces_be_unique.subtitle": {
+        "string": "Admins can use banners, icons, and more to make their workspace’s personality shine."
+    },
+    "tokens.oauth.view_user_activity_in_figma_like_opening_files_creating_projects_and_sharing_resources": {
+        "string": "See user activity in Figma like opening files, creating projects, and sharing resources"
+    },
+    "tokens.oauth.discovery_scope_description": {
+        "string": "See all text communication within Figma files for your organization."
+    },
+    "tokens.oauth.view_basic_information_about_files": {
+        "string": "See the names and thumbnail of files."
+    },
+    "tokens.oauth.manage_related_links_webhooks": {
+        "string": "Set and update webhooks related to related links"
+    },
+    "tokens.oauth.view_basic_information_about_users": {
+        "string": "See basic information about users"
+    },
+    "tokens.oauth.read_files_you_have_access_to": {
+        "string": "Read files you have access to"
+    },
+    "tokens.oauth.read_and_modify_comments_for_files_you_have_access_to": {
+        "string": "Read and modify comments for files you have access to"
+    },
+    "tokens.oauth.read_projects_you_have_access_to": {
+        "string": "Read projects you have access to"
+    },
+    "tokens.oauth.read_components_and_styles_you_have_access_to": {
+        "string": "Read components and styles you have access to"
+    },
+    "tokens.oauth.create_files": {
+        "string": "Create files on your behalf"
+    },
+    "tokens.oauth.enumerate_files": {
+        "string": "View a list of all files you have access to, including recent files"
+    },
+    "tokens.oauth.read_your_name_email_and_profile_image": {
+        "string": "Read your name, email, and profile image"
+    },
+    "tokens.oauth.read_comments_for_files_you_have_access_to": {
+        "string": "Read comments for files you have access to"
+    },
+    "tokens.oauth.modify_comments_for_files_you_have_access_to": {
+        "string": "Modify comments for files you have access to"
+    },
+    "tokens.oauth.read_dev_resources": {
+        "string": "List and read dev resources for files you have access to"
+    },
+    "tokens.oauth.create_and_modify_dev_resources": {
+        "string": "Create and modify dev resources for files you have access to"
+    },
+    "tokens.oauth.read_variables_from_files_you_have_access_to": {
+        "string": "Read variables from files you have access to"
+    },
+    "tokens.oauth.create_and_modify_variables_for_files_you_have_access_to": {
+        "string": "Create and modify variables for files you have access to"
+    },
+    "tokens.oauth.read_library_analytics_data": {
+        "string": "Read library analytics data for files you have access to in your organization"
+    },
+    "tokens.oauth.create_and_modify_webhooks": {
+        "string": "Create and modify webhooks"
+    },
+    "settings_tab.paste_plugin_link": {
+        "string": "Paste a link to a plugin’s resource page from {orgLink} or {communityLink}."
+    },
+    "org_settings.workspace_controls.header_text": {
+        "string": "Custom settings for workspaces"
+    },
+    "org_settings.workspace_controls.sub_header_text": {
+        "string": "Update the default public link settings for individual workspaces."
+    },
+    "org_settings.workspace_controls.has_custom_settings": {
+        "string": "Using custom settings"
+    },
+    "settings_tab.add_workspace_label": {
+        "string": "Add workspace"
+    },
+    "org_settings.workspace_controls.search_placeholder_text": {
+        "string": "Search for a workspace…"
+    },
+    "change_payment.update_payment_details": {
+        "string": "Update payment details"
+    },
+    "change_payment.enter_credit_or_debit_card": {
+        "string": "Enter credit or debit card"
+    },
+    "change_payment.update_payment_details_description": {
+        "string": "Update payment method and address associated with your payment information. This is where we’ll bill your Figma subscription."
+    },
+    "change_payment.use_this_card": {
+        "string": "Use this card"
+    },
+    "change_payment.name_required_on_card_error": {
+        "string": "Please enter a name for this card."
+    },
+    "billing_groups_table.delete_modal.deleting_the_billing_groups_will_cause": {
+        "string": "{licenseGroupsCount, plural, one {Deleting the {licenseGroupsNames} billing group will cause all members of the billing group to move to \"Unassigned\".} other {Deleting the {licenseGroupsNames} billing groups will cause all members of the billing groups to move to \"Unassigned\".}}"
+    },
+    "billing_groups_table.delete_modal.i_understand_that_this_action_isnt_reversible": {
+        "string": "I understand that this action isn't reversible"
+    },
+    "billing_groups_table.billing_groups_deleted_toast": {
+        "string": "{licenseGroupsCount, plural, one {''{licenseGroupName}'' billing group deleted} other {{licenseGroupsCount} billing groups deleted}}"
+    },
+    "billing_groups_table.delete_modal.an_error_occurred_while_deleting_billing_groups": {
+        "string": "An error occurred while deleting billing groups"
+    },
+    "billing_groups_table.delete_n_billing_groups": {
+        "string": "{licenseGroupsCount, plural, one {Delete 1 billing group} other {Delete {licenseGroupsCount} billing groups}}"
+    },
+    "billing_groups_table.delete_modal.are_you_sure_you_want_to_delete_these_billing_groups": {
+        "string": "{licenseGroupsCount, plural, one {Are you sure you want to delete this billing group?} other {Are you sure you want to delete these billing groups?}}"
+    },
+    "members_table.true_up.freeze_invoice_billing_group_info": {
+        "string": "These billing groups have not yet been reviewed by admins:"
+    },
+    "members_table.true_up.freeze_invoice_design_editor_text.seat_rename": {
+        "string": "{lockedQuantityDesignEditors, plural, one {{lockedQuantityDesignEditors} Design seat} other {{lockedQuantityDesignEditors} Design seats}}"
+    },
+    "members_table.true_up.freeze_invoice_dev_mode_seat_text": {
+        "string": "{quantity, plural, one {{quantity} Dev Mode seat} other {{quantity} Dev Mode seats}}"
+    },
+    "members_table.true_up.freeze_invoice_figjam_editor_text.seat_rename": {
+        "string": "{lockedQuantityFigJamEditors, plural, one {# FigJam seat} other {# FigJam seats}}"
+    },
+    "members_table.true_up.freeze_invoice_confirm_title.template": {
+        "string": "Start new subscription with {seatsText}?"
+    },
+    "members_table.true_up.freeze_invoice_confirm_description.seat_rename.template": {
+        "string": "Once you confirm, anyone who joins with a full seat will be free until your next invoice. On {date}, you'll be invoiced {lockedAmountToPay} for {seatsText} on your annual plan."
+    },
+    "members_table.true_up.freeze_invoice_new_design_editor_text.seat_rename": {
+        "string": "{lockedQuantityDesignEditors, plural, one {{lockedQuantityDesignEditors} new Design seat} other {{lockedQuantityDesignEditors} new Design seats}}"
+    }
+}

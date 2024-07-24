@@ -1,0 +1,152 @@
+{
+    "auth.error.email_verify_try_again": {
+        "string": "Verify your email address, then try again."
+    },
+    "auth.error.enter-two-factor-code": {
+        "string": "Please enter your authenticator code"
+    },
+    "auth.error.enter_password": {
+        "string": "Please enter a password."
+    },
+    "auth.error.error_try_again": {
+        "string": "An error occurred, please try again."
+    },
+    "auth.error.figma_does_not_support_names_more_than_70_characters": {
+        "string": "Figma does not support names more than 70 characters."
+    },
+    "auth.error.figma_does_not_support_that_color_profile_preference": {
+        "string": "Figma does not support that color profile preference."
+    },
+    "auth.error.figma_does_not_support_that_keyboard_preference": {
+        "string": "Figma does not support that keyboard preference."
+    },
+    "auth.error.figma_does_not_support_that_language": {
+        "string": "Figma does not support that language."
+    },
+    "auth.error.img_url_and_img_url_500_500_must_be_passed_together": {
+        "string": "img_url and img_url_500_500 must be passed together"
+    },
+    "auth.error.incorrect-email-password": {
+        "string": "That email and password combination is incorrect."
+    },
+    "auth.error.incorrect_password": {
+        "string": "You entered an incorrect password."
+    },
+    "auth.error.invalid-password-reset-link": {
+        "string": "This password reset link is not valid."
+    },
+    "auth.error.invalid_auth_method": {
+        "string": "Invalid authentication method: {METHOD}"
+    },
+    "auth.error.invalid_email": {
+        "string": "Invalid email address."
+    },
+    "auth.error.invalid_image_url": {
+        "string": "Invalid image url"
+    },
+    "auth.error.invalid_session_try_again": {
+        "string": "Your session is invalid or expired, please try again."
+    },
+    "auth.error.invalid_token_type": {
+        "string": "Invalid token_type"
+    },
+    "auth.error.invite_invalid_or_claimed": {
+        "string": "Sorry, that invite is invalid or has already been claimed."
+    },
+    "auth.error.ip-account-restriction": {
+        "string": "You can only log in to {orgName} accounts on this network. "
+    },
+    "auth.error.ip-allowlist-restriction": {
+        "string": "You can only login to this account from your corporate network. Reconnect to your corporate network or login with a different account."
+    },
+    "auth.error.join_links_disabled_for_team": {
+        "string": "Join links have been disabled for {TEAM_NAME}"
+    },
+    "auth.error.key_data_required": {
+        "string": "key and data are required"
+    },
+    "auth.error.login_google_sso_required": {
+        "string": "Your organization requires you to log in with Google."
+    },
+    "auth.error.max_sessions_exceeded": {
+        "string": "You've exceeded the maximum number of logged-in accounts."
+    },
+    "auth.error.need_verified_password_token": {
+        "string": "You need to provide a verified password token."
+    },
+    "auth.error.no-password-sso": {
+        "string": "This account is managed by your organization and has no password."
+    },
+    "auth.error.no_verified_email": {
+        "string": "User does not have verified email"
+    },
+    "auth.error.non_hd_for_sso_only_org": {
+        "string": "Unable to login with Google. Please try signing in with your email address and password or contact Figma Support."
+    },
+    "auth.error.not-configured-for-saml-sso": {
+        "string": "Your account is not configured to use SAML SSO. Please log in with Google or a password."
+    },
+    "auth.error.not-logged-in": {
+        "string": "You are not logged in."
+    },
+    "auth.error.only_view_links_enabled_for_team": {
+        "string": "Only view-level links are enabled for {TEAM_NAME}"
+    },
+    "auth.error.org_require_google_sso": {
+        "string": "This account is managed by your organization. Please log in with Google."
+    },
+    "auth.error.password-too-long": {
+        "string": "Ok, that password is hilariously long!"
+    },
+    "auth.error.password-too-short": {
+        "string": "Please set a password longer than seven characters."
+    },
+    "auth.error.password-too-weak": {
+        "string": "Please choose a stronger password."
+    },
+    "auth.error.password_not_set": {
+        "string": "You have not set a password yet. You can set one by clicking \"Reset password.\""
+    },
+    "auth.error.password_token_invalid": {
+        "string": "Password verification token cannot be validated or is missing"
+    },
+    "auth.error.please_set_shorter_password": {
+        "string": "Please set a shorter password."
+    },
+    "auth.error.provide-email": {
+        "string": "Please provide your email address."
+    },
+    "auth.error.provide-password": {
+        "string": "Please provide your password."
+    },
+    "auth.error.require-phone-number": {
+        "string": "User phone number not set"
+    },
+    "auth.error.require-two-factor": {
+        "string": "Two-factor not enabled on account"
+    },
+    "auth.error.require-validation": {
+        "string": "Unable to validate request."
+    },
+    "auth.error.require_google_sso": {
+        "string": "Log in with Google or reset password with \"Reset password\"."
+    },
+    "auth.error.saml_authentication_failed": {
+        "string": "The IdP does not permit the user to login to Figma."
+    },
+    "auth.error.saml_config_error_contact_admin": {
+        "string": "A configuration error prevented sign-in with Figma. Please contact your Organization administrator. Error: {ERROR}"
+    },
+    "auth.error.saml_configuration_error": {
+        "string": "A configuration error prevented sign-in with Figma."
+    },
+    "auth.error.saml_email_address_not_in_domain_with_emails": {
+        "string": "Your SAML SSO account doesn’t have an email address, {EMAILS}, matching one of the following: {DOMAINS}"
+    },
+    "auth.error.saml_entity_id_does_not_match": {
+        "string": "Entity ID does not match. {ERROR}"
+    },
+    "auth.error.saml_invalid_code": {
+        "string": "Invalid code"
+    }
+}

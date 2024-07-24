@@ -1,0 +1,152 @@
+{
+    "fullscreen.font_settings.enable_local_fonts": {
+        "string": "Enable local fonts"
+    },
+    "fullscreen.type_panel.font_size": {
+        "string": "Font size"
+    },
+    "fullscreen.type_panel.variable_font_axes": {
+        "string": "Variable font axes…"
+    },
+    "fullscreen.type_panel.letter_spacing": {
+        "string": "Letter spacing"
+    },
+    "fullscreen.type_panel.line_height": {
+        "string": "Line height"
+    },
+    "fullscreeen.type_panel.resizing": {
+        "string": "Resizing"
+    },
+    "fullscreen.type_panel.auto_width": {
+        "string": "Auto width"
+    },
+    "fullscreen.type_panel.auto_height": {
+        "string": "Auto height"
+    },
+    "fullscreen.type_panel.fixed_size": {
+        "string": "Fixed size"
+    },
+    "fullscreen.type_panel.update_agent_cta": {
+        "string": "{link} to start using variable fonts and enable future automatic updates"
+    },
+    "fullscreen.type_panel.update_your_font_installer": {
+        "string": "Update your font installer"
+    },
+    "fullscreen.type_panel.properties": {
+        "string": "Properties"
+    },
+    "properties.label.line_height": {
+        "string": "Line height"
+    },
+    "properties.label.letter_spacing": {
+        "string": "Letter spacing"
+    },
+    "fullscreen.type_panel.type_details": {
+        "string": "Type details"
+    },
+    "fullscreen.type_panel.type_settings": {
+        "string": "Type settings"
+    },
+    "fullscreen.type_panel.typography": {
+        "string": "Typography"
+    },
+    "fullscreen.type_panel.text": {
+        "string": "Text"
+    },
+    "fullscreen.type_panel.list_spacing": {
+        "string": "List spacing"
+    },
+    "fullscreen.type_panel.paragraph_spacing": {
+        "string": "Paragraph spacing"
+    },
+    "type_settings.truncate_text": {
+        "string": "Truncate text"
+    },
+    "type_settings.update": {
+        "string": "Update"
+    },
+    "type_settings.new_text_rendering_method_used": {
+        "string": "New text rendering method used."
+    },
+    "type_settings.revert": {
+        "string": "Revert"
+    },
+    "type_settings.bidi_update_desc": {
+        "string": "Update this selection to get bidirectional text support"
+    },
+    "type_settings.explicit_text_layout_update_desc": {
+        "string": "Update for improved paragraph spacing options."
+    },
+    "type_settings.resizing": {
+        "string": "Resizing"
+    },
+    "type_settings.alignment": {
+        "string": "Alignment"
+    },
+    "type_settings.decoration": {
+        "string": "Decoration"
+    },
+    "type_settings.list_style": {
+        "string": "List style"
+    },
+    "type_settings.leading_trim": {
+        "string": "Vertical trim"
+    },
+    "type_settings.case": {
+        "string": "Case"
+    },
+    "type_settings.letter_case": {
+        "string": "Letter case"
+    },
+    "type_settings.numbers": {
+        "string": "Numbers"
+    },
+    "type_settings.numeric.style": {
+        "string": "Style"
+    },
+    "type_settings.position": {
+        "string": "Position"
+    },
+    "type_settings.max_lines": {
+        "string": "Max lines"
+    },
+    "type_settings.older_text_rendering_method_used": {
+        "string": "Older text rendering method used."
+    },
+    "type_settings.older_text_rendering_method_used_for_part_of_the_selection": {
+        "string": "Older text rendering method used for part of the selection."
+    },
+    "type_settings.decoration.none": {
+        "string": "None"
+    },
+    "type_settings.decoration.underline": {
+        "string": "Underline"
+    },
+    "type_settings.decoration.strikethrough": {
+        "string": "Strikethrough"
+    },
+    "type_settings.decoration.paragraph_spacing": {
+        "string": "Paragraph spacing"
+    },
+    "type_settings.decoration.list_spacing": {
+        "string": "List spacing"
+    },
+    "type_settings.leading_trim.font_does_not_support_leading_trim": {
+        "string": "Font doesn't support vertical trim"
+    },
+    "type_settings.leading_trim.none": {
+        "string": "Standard"
+    },
+    "type_settings.leading_trim.cap_height": {
+        "string": "Cap height to baseline"
+    },
+    "type_settings.hanging_punctuation": {
+        "string": "Hanging punctuation"
+    },
+    "type_settings.hanging_lists": {
+        "string": "Hanging lists"
+    },
+    "type_settings.indentation": {
+        "string": "Indentation"
+    }
+}

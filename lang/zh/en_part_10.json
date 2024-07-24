@@ -1,0 +1,152 @@
+{
+    "visual_bell.drag_and_drop_absolute_stack_insertion": {
+        "string": "To ignore auto layout, hold ⌃ Ctrl"
+    },
+    "visual_bell.drag_and_drop_absolute_stack_insertion_windows": {
+        "string": "To ignore auto layout, hold S"
+    },
+    "visual_bell.duplicate_selection": {
+        "string": "Duplicate selection"
+    },
+    "visual_bell.duplicate_selection_exclude_vote_stamp_from_selection": {
+        "string": "Didn’t duplicate votes"
+    },
+    "visual_bell.duplicate_selection_failed_only_vote_stamps": {
+        "string": "Can’t duplicate votes"
+    },
+    "visual_bell.duplicate_styles_pasted": {
+        "string": "{numDuplicateStyles, plural, one {1 duplicate style not pasted} other {{numDuplicateStyles} duplicate styles not pasted}}"
+    },
+    "visual_bell.export_failed": {
+        "string": "Failed to export"
+    },
+    "visual_bell.exporting_slices_to_pdf_is_currently_unsupported": {
+        "string": "Exporting slices to PDF is currently unsupported"
+    },
+    "visual_bell.forced_layout_of_d_text_elements": {
+        "string": "Forced layout of {count} text elements"
+    },
+    "visual_bell.frame_outlines_hidden": {
+        "string": "Frame outlines hidden"
+    },
+    "visual_bell.frame_outlines_visible": {
+        "string": "Frame outlines visible"
+    },
+    "visual_bell.generic_video_upload_error": {
+        "string": "Error uploading video. Please try again."
+    },
+    "visual_bell.hit_table_cell_limit": {
+        "string": "Couldn’t add—tables are limited to 500 cells."
+    },
+    "visual_bell.image_file_name_import_failed": {
+        "string": "Image file {filename} import failed"
+    },
+    "visual_bell.image_fill_not_supported_no_extension": {
+        "string": "This file type can't be used as image fill"
+    },
+    "visual_bell.image_fill_not_supported_with_extension": {
+        "string": "This file type ({extension}) can't be used as image fill"
+    },
+    "visual_bell.invalid_selection_for_tidy_up": {
+        "string": "Could not tidy up selection"
+    },
+    "visual_bell.loading_prototype_try_again": {
+        "string": "Loading prototype. Wait to add another until this one is finished..."
+    },
+    "visual_bell.local_file_key_unknown": {
+        "string": "Local file key unknown"
+    },
+    "visual_bell.mapped_state_groups": {
+        "string": "Mapped {numMappedStateGroups} state group(s), {numMappedSymbols} component(s) and repaired {repairedInstances} instance(s)."
+    },
+    "visual_bell.max_height_removed": {
+        "string": "{nodeCount, plural, one {Max height removed for {nodeName}} other {Max height removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.max_lines_removed": {
+        "string": "{nodeCount, plural, one {Max lines removed for {nodeName}} other {Max lines removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.max_width_height_removed": {
+        "string": "{nodeCount, plural, one {Max width and height removed for {nodeName}} other {Max width and height removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.max_width_removed": {
+        "string": "{nodeCount, plural, one {Max width removed for {nodeName}} other {Max width removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.min_height_removed": {
+        "string": "{nodeCount, plural, one {Min height removed for {nodeName}} other {Min height removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.min_max_height_removed": {
+        "string": "{nodeCount, plural, one {Min and max height removed for {nodeName}} other {Min and max height removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.min_max_width_height_removed": {
+        "string": "{nodeCount, plural, one {Min and max removed for {nodeName}} other {Min and max removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.min_max_width_removed": {
+        "string": "{nodeCount, plural, one {Min and max width removed for {nodeName}} other {Min and max width removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.min_width_height_removed": {
+        "string": "{nodeCount, plural, one {Min width and height removed for {nodeName}} other {Min width and height removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.min_width_removed": {
+        "string": "{nodeCount, plural, one {Min width removed for {nodeName}} other {Min width removed for {nodeCount} nodes}}"
+    },
+    "visual_bell.moved_selection": {
+        "string": "Selection moved to {newPage}"
+    },
+    "visual_bell.no_auto_layout_components_found": {
+        "string": "No Auto Layout components found"
+    },
+    "visual_bell.no_component_prop_refs_to_prune": {
+        "string": "No component prop refs to prune"
+    },
+    "visual_bell.no_components_are_selected": {
+        "string": "No components are selected"
+    },
+    "visual_bell.no_matching_layers_component_set": {
+        "string": "No matching layers to select in this component set"
+    },
+    "visual_bell.no_matching_layers_page": {
+        "string": "No matching layers to select on page"
+    },
+    "visual_bell.no_matching_layers_responsive_set": {
+        "string": "No matching layers to select in this layout set"
+    },
+    "visual_bell.no_matching_layers_section": {
+        "string": "No matching layers to select in this section"
+    },
+    "visual_bell.no_more_children_to_select": {
+        "string": "No more children to select"
+    },
+    "visual_bell.no_text_elements_found_in_current_selection": {
+        "string": "No text elements found in current selection"
+    },
+    "visual_bell.not_enough_memory_to_duplicate_this_page": {
+        "string": "Not enough memory to duplicate this page"
+    },
+    "visual_bell.nothing_in_selection": {
+        "string": "Nothing in selection"
+    },
+    "visual_bell.nothing_is_selected": {
+        "string": "Nothing is selected"
+    },
+    "visual_bell.nothing_to_remove": {
+        "string": "Nothing to remove."
+    },
+    "visual_bell.nothing_to_repair": {
+        "string": "Nothing to repair."
+    },
+    "visual_bell.nothing_to_reresolve": {
+        "string": "Nothing to re-resolve."
+    },
+    "visual_bell.only_editors_of_this_file_can_copy_it": {
+        "string": "Only editors of this file can copy it"
+    },
+    "visual_bell.only_editors_of_this_file_can_export_it": {
+        "string": "Only editors of this file can export it"
+    },
+    "visual_bell.only_editors_of_this_file_can_save_it": {
+        "string": "Only editors of this file can save it"
+    },
+    "visual_bell.opacity_set_to_d": {
+        "string": "Opacity set to {percentage}%"
+    }
+}

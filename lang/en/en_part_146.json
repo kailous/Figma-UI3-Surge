@@ -1,0 +1,152 @@
+{
+    "sidebar.item_added_bell_message": {
+        "string": "Item added to your sidebar"
+    },
+    "sidebar.item_removed_bell_message": {
+        "string": "Item removed from your sidebar"
+    },
+    "file_permissions.generic_error": {
+        "string": "An error occurred while updating this file."
+    },
+    "visual_bell.duplicating": {
+        "string": "Duplicating file…"
+    },
+    "file_browser.file_browser_actions.file_copy_error": {
+        "string": "An error occurred while copying this file."
+    },
+    "whiteboard.open_sessions.open_session_started_notification": {
+        "string": "Open session started"
+    },
+    "whiteboard.open_sessions.open_session_started_notification_copy_link": {
+        "string": "Copy link"
+    },
+    "whiteboard.open_sessions.open_session_start_failed_notification": {
+        "string": "Could not start an open session. Please try again later."
+    },
+    "file_browser.file_browser_actions.thumbnail_set": {
+        "string": "Thumbnail set"
+    },
+    "file_browser.file_browser_actions.default_thumbnail_restored": {
+        "string": "Default thumbnail restored"
+    },
+    "file_browser.file_browser_actions.embed_code_copied": {
+        "string": "Embed code copied to clipboard"
+    },
+    "file_browser.file_browser_actions.embed_code_copy_error": {
+        "string": "An error occurred while copying embed code."
+    },
+    "file_browser.file_browser_actions.error_on_data_update": {
+        "string": "An error occurred while updating user or workspace data"
+    },
+    "file_browser.file_browser_actions.desktop_go_to_your_browser": {
+        "string": "Go to your browser to continue adding account"
+    },
+    "file_browser.file_browser_actions.update_subscription_error": {
+        "string": "Unable to update description"
+    },
+    "file_browser.file_browser_actions.file_unpin_error": {
+        "string": "An error occurred while trying to unpin file."
+    },
+    "file_browser.file_browser_actions.file_pinned_to_project": {
+        "string": "File pinned to project"
+    },
+    "file_browser.file_browser_actions.file_pin_error": {
+        "string": "An error occurred while trying to pin file."
+    },
+    "file_browser.file_browser_actions.create_project_error": {
+        "string": "An error occurred while creating this project."
+    },
+    "file_browser.file_browser_actions.update_project_error": {
+        "string": "An error occurred while updating this project."
+    },
+    "file_browser.file_browser_actions.claim_team_error": {
+        "string": "An error occurred while trying to claim this team."
+    },
+    "community.comments.failed_to_create_comment": {
+        "string": "Failed to create comment: {errorMessage}"
+    },
+    "community.comments.failed_to_edit_comment": {
+        "string": "Failed to edit comment"
+    },
+    "community.comments.comment_deleted": {
+        "string": "Comment deleted"
+    },
+    "community.comments.failed_to_delete_comment": {
+        "string": "Failed to delete comment: {errorMessage}"
+    },
+    "community.comments.comment_reported_and_hidden": {
+        "string": "Comment reported and hidden"
+    },
+    "community.comments.failed_to_report_comment": {
+        "string": "Failed to report comment: {errorMessage}"
+    },
+    "design_systems.subscriptions.this_component_is_not_available": {
+        "string": "This component is not available in your team library"
+    },
+    "design_systems.subscriptions.inserting_instance": {
+        "string": "Inserting instance"
+    },
+    "design_systems.subscriptions.inserting_template": {
+        "string": "Inserting template"
+    },
+    "design_systems.missing_font_cant_make_changes": {
+        "string": "Missing font—can't make changes"
+    },
+    "design_systems.missing_font_learn_more": {
+        "string": "Learn more"
+    },
+    "community.library.error_fetching_subscribed_components": {
+        "string": "An error occurred while retrieving subscribed Community library components."
+    },
+    "design_systems.subscriptions.settings_updated_for": {
+        "string": "\"{libraryName}\" settings updated for {orgOrWorkspaceName}"
+    },
+    "design_systems.subscriptions.unable_to_change_setting": {
+        "string": "Unable to change setting. Please try again later."
+    },
+    "design_systems.subscriptions.remap_connecting_fraction": {
+        "string": "Connecting: {current}/{total}"
+    },
+    "design_systems.subscriptions.remap_connected": {
+        "string": "Connected!"
+    },
+    "design_systems.subscriptions.remap_connection_failed": {
+        "string": "Connection failed"
+    },
+    "design_systems.publish_actions.savepoint_for_unpublish_slides": {
+        "string": "Template Unpublished"
+    },
+    "design_systems.publish_actions.savepoint_for_unpublish": {
+        "string": "Components Unpublished"
+    },
+    "design_systems.publish_actions.savepoint_for_publish_slides": {
+        "string": "Template published"
+    },
+    "design_systems.publish_actions.savepoint_for_publish": {
+        "string": "Components published"
+    },
+    "org_actions.you_ve_requested_to_edit_files_in_this_team": {
+        "string": "You've requested to edit files in this team."
+    },
+    "org_actions.you_ve_requested_to_join_this_team": {
+        "string": "You've requested to join this team."
+    },
+    "org_actions.an_error_occurred": {
+        "string": "An error occurred."
+    },
+    "org_actions.request_withdrawn": {
+        "string": "Request withdrawn"
+    },
+    "org_actions.request_approved": {
+        "string": "Request approved"
+    },
+    "org_actions.request_denied": {
+        "string": "Request denied"
+    },
+    "org_actions.updated_authentication_settings": {
+        "string": "Updated authentication settings"
+    },
+    "org_actions.updated_idle_session_timeout": {
+        "string": "Updated idle session timeout"
+    }
+}

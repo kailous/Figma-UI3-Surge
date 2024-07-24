@@ -1,0 +1,152 @@
+{
+    "ai_text_tools.rewrite.placeholder.shorter": {
+        "string": "Shorter, and more plainspoken"
+    },
+    "ai_text_tools.rewrite.placeholder.bullet_points": {
+        "string": "With key ideas in bullet points"
+    },
+    "ai_text_tools.rewrite.placeholder.email_boss": {
+        "string": "Like an email to my boss"
+    },
+    "ai_text_tools.rewrite.placeholder.sing_songy": {
+        "string": "With a more sing-songy rhythm"
+    },
+    "ai_text_tools.rewrite.placeholder.softer_tone": {
+        "string": "In a softer, more patient tone"
+    },
+    "ai_text_tools.rewrite.placeholder.pop_song": {
+        "string": "Like the chorus of a certain, criminally-underrated Canadian pop star"
+    },
+    "ai_text_tools.rewrite.shorter.label": {
+        "string": "Shorter"
+    },
+    "ai_text_tools.rewrite.shorter.prompt": {
+        "string": "Make this shorter"
+    },
+    "ai_text_tools.rewrite.casual.label": {
+        "string": "More casual"
+    },
+    "ai_text_tools.rewrite.casual.prompt": {
+        "string": "Make this more casual"
+    },
+    "ai_text_tools.rewrite.replace.label": {
+        "string": "Replace with..."
+    },
+    "ai_text_tools.rewrite.replace.prompt": {
+        "string": "Replace this with "
+    },
+    "ai_text_tools.rewrite.tone.label": {
+        "string": "Adjust tone"
+    },
+    "ai_text_tools.select_fewer_characters": {
+        "string": "Select fewer characters"
+    },
+    "ai_text_tools.selected_character_count": {
+        "string": " {currentCharacters} / {maxCharacters}"
+    },
+    "magic_link.tlf_selection_too_large": {
+        "string": "Select 10 or fewer frames"
+    },
+    "magic_link.select_a_set_of_layers": {
+        "string": "Select a set of layers"
+    },
+    "magic_link.select_a_set_of_frames": {
+        "string": "Select a set of frames"
+    },
+    "magic_link.running": {
+        "string": "Noodling..."
+    },
+    "magic_link.rename_layer_suggestion": {
+        "string": "First, give this layer a name"
+    },
+    "magic_link.rename_layers_suggestion": {
+        "string": "First, give these layers names"
+    },
+    "fullscreen.context_menu.auto_rename_layers": {
+        "string": "Rename layers"
+    },
+    "auto_rename_layers.error.no_nameable_items": {
+        "string": "No layers need naming"
+    },
+    "auto_rename_layers.too_many_layers_selected": {
+        "string": "Too many layers selected"
+    },
+    "auto_rename_layers.too_many_layers_count": {
+        "string": "{selected} of {limit}"
+    },
+    "auto_rename_layers.select_some_layers": {
+        "string": "First, select some layers"
+    },
+    "auto_rename_layers.progress": {
+        "string": "{completed} of {total}"
+    },
+    "auto_rename_layers.running": {
+        "string": "Renaming..."
+    },
+    "ai.error.no_layers_selected": {
+        "string": "No layers selected"
+    },
+    "auto_rename_layers.could_not_rename_all_layers": {
+        "string": "Couldn’t rename {count} layers"
+    },
+    "auto_rename_layers.rename_anyway": {
+        "string": "Rename anyway"
+    },
+    "fullscreen.focus_mode.toggle_variants.exit": {
+        "string": "Stop multi-editing"
+    },
+    "fullscreen.focus_mode.toggle_variants.enter": {
+        "string": "Multi-edit variants"
+    },
+    "time_sliced_edit_rendering.active": {
+        "string": "Some changes are rendering slower to keep the application responsive."
+    },
+    "unsaved_changes.disconnected.autosave_disabled": {
+        "string": "The document contains unsaved changes. Changes are not saved locally due to disk error. Closing the tab will lose your data."
+    },
+    "unsaved_changes.disconnected.server_issues": {
+        "string": "We're experiencing server issues. Your changes will be synced once we've resolved the issues."
+    },
+    "unsaved_changes.disconnected.other": {
+        "string": "Offline changes will be synced with Figma when you go online."
+    },
+    "unsaved_changes.syncing.autosave_disabled": {
+        "string": "The document is still saving. Changes are not saved locally due to disk error. Closing the tab will lose your data."
+    },
+    "unsaved_changes.syncing.server_issues": {
+        "string": "We're experiencing some issues syncing your changes. Your changes will be synced once we resolve these issues."
+    },
+    "unsaved_changes.syncing.other": {
+        "string": "This document contains unsaved changes. These changes are saved locally and will sync when Figma reconnects."
+    },
+    "unsaved_changes.disconnected.live_updates": {
+        "string": "Some changes won't be synced until Figma is able to reconnect."
+    },
+    "fullscreen.accessibility.view_comments": {
+        "string": "View comments"
+    },
+    "fullscreen.toolbar.log_in_or_create_an_account_to_get_a_copy_of": {
+        "string": "Log in or create an account to get a copy of { file }"
+    },
+    "fullscreen.toolbar.log_in_or_create_an_account": {
+        "string": "Log in or create an account"
+    },
+    "fullscreen.toolbar.log_in": {
+        "string": "Log in"
+    },
+    "fullscreen.toolbar.missing_fonts": {
+        "string": "Missing fonts"
+    },
+    "tooltips_plus_onboarding.design_panel.title": {
+        "string": "And change properties, too"
+    },
+    "tooltips_plus_onboarding.design_panel.description": {
+        "string": "Take some time to adjust your frame’s size, corner radius, fill—whatever you like."
+    },
+    "tooltips_plus_onboarding.outro.title": {
+        "string": "You’re all set!"
+    },
+    "tooltips_plus_onboarding.outro.practice_more_btn": {
+        "string": "Practice more here"
+    }
+}

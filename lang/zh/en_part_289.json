@@ -1,0 +1,152 @@
+{
+    "plan_settings.billing_section_header": {
+        "string": "Billing"
+    },
+    "org_admin_settings.settings_tab.billing.update_invoice_details.label": {
+        "string": "Invoice details"
+    },
+    "org_admin_settings.settings_tab.billing.update_invoice_details.description": {
+        "string": "Update the shipping address that appears on your invoices."
+    },
+    "settings_tab.vat_gst": {
+        "string": "Value Added Tax / Goods and Services Tax"
+    },
+    "settings_tab.change_vat_gst_id": {
+        "string": "Add a VAT or GST identification number if you are paying for this Figma plan as a business."
+    },
+    "plan_settings.default_role": {
+        "string": "Default seat type"
+    },
+    "settings_table.organization": {
+        "string": "organization"
+    },
+    "settings_tab.configured_upgrade_request_flow.label": {
+        "string": "Reroute upgrade requests"
+    },
+    "settings_tab.configured_upgrade_request_flow.description_members": {
+        "string": "Your organization redirects members to a custom URL to request an upgrade. To change or disable this, please contact support."
+    },
+    "settings_tab.configured_upgrade_request_flow.description_all_users": {
+        "string": "Your organization redirects all users to a custom URL to request an upgrade. To change or disable this, please contact support."
+    },
+    "plan_settings.seat_upgrade_digests": {
+        "string": "Seat upgrade digests"
+    },
+    "plan_settings.seat_upgrade_digests_description": {
+        "string": "Get emailed when members upgrade from a free to a paid seat."
+    },
+    "settings_table.billing_contacts": {
+        "string": "Billing contacts"
+    },
+    "settings_table.billing_contacts_description": {
+        "string": "Choose who gets email notifications about renewals, invoices, and payments."
+    },
+    "settings_tab.section_header.resources": {
+        "string": "Resources"
+    },
+    "settings_tab.section_header.extensions": {
+        "string": "Extensions"
+    },
+    "settings_tab.plugin_approval_label": {
+        "string": "Plugin approval"
+    },
+    "settings_tab.plugin_approval_description": {
+        "string": "Require admin approval for Community plugins"
+    },
+    "settings_tab.widget_admin_approval_label": {
+        "string": "Widget approval"
+    },
+    "settings_tab.widget_admin_approval_description": {
+        "string": "Require admin approval for Community widgets"
+    },
+    "settings_tab.dev_mode_label": {
+        "string": "Dev Mode settings"
+    },
+    "settings_tab.dev_mode_description": {
+        "string": "Customize the experience of all Dev Mode users in your organization"
+    },
+    "settings_tab.ui_kits_toggle_label": {
+        "string": "UI kits"
+    },
+    "settings_tab.ui_kits_toggle_description": {
+        "string": "Enable libraries made by Figma and selected partners to be available by default in design files"
+    },
+    "settings_tab.section_header.ai_beta": {
+        "string": "AI beta"
+    },
+    "admin_settings.ai.data_sharing.disabled_for_orgs": {
+        "string": "For organizations like yours, this can’t be turned on"
+    },
+    "settings_tab.ai_beta.figma_and_figjam_ai": {
+        "string": "Figma and FigJam AI"
+    },
+    "settings_tab.section_header.slides": {
+        "string": "Figma Slides"
+    },
+    "settings_tab.slides.access_to_slides": {
+        "string": "Access to Figma Slides"
+    },
+    "settings_tab.slides.enable_success": {
+        "string": "Figma Slides is now enabled and available for your organization"
+    },
+    "settings_tab.slides.disable_success": {
+        "string": "Figma Slides is now disabled for your organization"
+    },
+    "settings_tab.section_header.other": {
+        "string": "Other"
+    },
+    "settings_tab.audio_label": {
+        "string": "Audio"
+    },
+    "settings_tab.audio_description": {
+        "string": "Enable users to use audio in your organization's files"
+    },
+    "settings_tab.audio_enabled": {
+        "string": "Users may now use audio within your organization's files"
+    },
+    "settings_tab.audio_disabled": {
+        "string": "Audio is disabled within your organization's files"
+    },
+    "settings_tab.custom_templates_label": {
+        "string": "Template publishing"
+    },
+    "settings_tab.custom_templates_description.v2": {
+        "string": "Let users publish FigJam and Figma Slides templates within your organization (if they have access to the tool)."
+    },
+    "settings_tab.custom_templates_description": {
+        "string": "Let users publish FigJam templates within your organization"
+    },
+    "settings_tab.custom_templates_enabled": {
+        "string": "Custom templates are now enabled"
+    },
+    "settings_tab.custom_templates_disabled": {
+        "string": "Custom templates are now disabled"
+    },
+    "settings_tab.cursor_chat_label": {
+        "string": "Cursor chat"
+    },
+    "settings_tab.cursor_chat_description": {
+        "string": "Enable cursor chat for all files in your organization"
+    },
+    "settings_tab.enable_cursor_chat_success": {
+        "string": "Cursor chat enabled"
+    },
+    "settings_tab.disable_cursor_chat_success": {
+        "string": "Cursor chat disabled"
+    },
+    "settings_tab.community_file_publishing_label": {
+        "string": "Community file publishing"
+    },
+    "settings_tab.community_file_publishing_description": {
+        "string": "Allow organization admins to publish files to their personal profiles on Community"
+    },
+    "settings_tab.enable_community_file_publishing_success": {
+        "string": "Community user publishing enabled"
+    },
+    "settings_tab.disable_community_file_publishing_success": {
+        "string": "Community user publishing disabled"
+    },
+    "settings_tab.member_metadata_label": {
+        "string": "Member metadata"
+    }
+}

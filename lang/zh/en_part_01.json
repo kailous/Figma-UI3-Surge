@@ -1,0 +1,152 @@
+{
+    "api_user.error.cant-delete-account-in-organization": {
+        "string": "由于您属于一个组织，无法删除您的账户。请联系支持。"
+    },
+    "api_user.error.please_first_verify_your_email": {
+        "string": "请先验证您的电子邮件。"
+    },
+    "api_user.error.please_provide_a_description": {
+        "string": "请提供一个描述。"
+    },
+    "auth.two-factor-setup.error.incorrect_verification_code": {
+        "string": "验证码不正确。"
+    },
+    "auth.two-factor-setup.error.missing-otp": {
+        "string": "请输入验证码。"
+    },
+    "auth.two-factor-setup.error.missing-phone-number": {
+        "string": "请提供一个电话号码。"
+    },
+    "auth.two-factor-setup.error.missing-token": {
+        "string": "请求无效。"
+    },
+    "auth.two-factor-setup.error.please_enter_a_code": {
+        "string": "请输入验证码。"
+    },
+    "auth.two-factor-setup.error.sms-two-factor-already-enabled": {
+        "string": "SMS 双因素认证已启用。"
+    },
+    "auth.two-factor-setup.error.two-factor-already-enabled": {
+        "string": "双因素认证已启用。"
+    },
+    "auth.two-factor-setup.generic-twilio-error": {
+        "string": "发送验证码时出错。"
+    },
+    "auth.two-factor-setup.invalid_phone_number": {
+        "string": "电话号码无效。"
+    },
+    "auth.two-factor-setup.twilio_unable_to_send_msg": {
+        "string": "由于您的电话号码存在问题，我们无法发送双因素认证（2FA）代码。要登录，请使用恢复代码或从已登录的设备上关闭 2FA。需要帮助？请联系 support@figma.com。"
+    },
+    "comments.ecc_comment_disabled": {
+        "string": "已禁用对此文件的评论。"
+    },
+    "comments.ecc_react_disabled": {
+        "string": "已禁用对此文件添加反应。"
+    },
+    "comments.too_many_replies_in_thread": {
+        "string": "此评论的回复太多。"
+    },
+    "auth.error.access_denied": {
+        "string": "访问被拒绝。"
+    },
+    "auth.error.access_denied_staging": {
+        "string": "访问被拒绝。仅限 @figma 域名。"
+    },
+    "auth.error.account-exists": {
+        "string": "该电子邮件地址的账户已存在。"
+    },
+    "auth.error.account_managed_by_org": {
+        "string": "此账户由您的组织管理。请使用 SAML SSO 登录。"
+    },
+    "auth.error.account_suspended": {
+        "string": "您的账户已被暂停。"
+    },
+    "auth.error.assign_new_admin_for_org_before_changing_email_domain": {
+        "string": "在更改电子邮件域之前，请为 {currentOrgName} 分配新管理员。"
+    },
+    "auth.error.boolean_expected_for_navigation_preference": {
+        "string": "此导航偏好预期为布尔值。"
+    },
+    "auth.error.cannot_change_email_on_account_managed_by_google_sso": {
+        "string": "无法更改由 Google SSO 管理的账户上的电子邮件。"
+    },
+    "auth.error.cannot_change_email_on_account_managed_by_your_org": {
+        "string": "无法更改由您的组织管理的账户上的电子邮件。"
+    },
+    "auth.error.cannot_change_job_title_on_account_managed_by_your_org": {
+        "string": "无法更改由您的组织管理的账户上的职位。"
+    },
+    "auth.error.cannot_change_name_on_account_managed_by_your_org": {
+        "string": "无法更改由您的组织管理的账户上的名称。"
+    },
+    "auth.error.cannot_change_usage_purpose_on_account_managed_by_your_org": {
+        "string": "无法更改由您的组织管理的账户上的用途。"
+    },
+    "auth.error.cannot_create_account_on_admin_domain": {
+        "string": "无法在管理员域上创建新账户。"
+    },
+    "auth.error.cannot_join_org_deprovisioned": {
+        "string": "用户 {EMAIL} 无法加入组织 - 他们已被停用。"
+    },
+    "auth.error.cannot_verify_google": {
+        "string": "无法验证 Google 登录。"
+    },
+    "auth.error.cant_change_email": {
+        "string": "无法更改您的电子邮件地址。"
+    },
+    "auth.error.change_password.current_password_incorrect": {
+        "string": "您输入的密码与当前密码不匹配。"
+    },
+    "auth.error.change_password.no_current_password": {
+        "string": "请提供您的当前密码。"
+    },
+    "auth.error.change_password.no_new_password": {
+        "string": "请提供您的新密码。"
+    },
+    "auth.error.changing_to_figma_email_address_is_forbidden": {
+        "string": "禁止更改为 @figma.com 电子邮件地址。"
+    },
+    "auth.error.changing_to_this_email_domain_is_forbidden": {
+        "string": "禁止更改为此电子邮件域。"
+    },
+    "auth.error.changing_to_this_email_domain_is_forbidden_use_another_email_domain": {
+        "string": "禁止更改为此电子邮件域。请使用其他域的电子邮件。"
+    },
+    "auth.error.domain_mismatch_tf_enabled": {
+        "string": "无法使用 Google 登录此账户。请尝试使用您的电子邮件地址和密码登录。"
+    },
+    "auth.error.downgrade_self_to_member_in_org_before_changing_email_domain": {
+        "string": "在更改您的电子邮件域之前，请将自己降级为 {currentOrgName} 的成员。"
+    },
+    "auth.error.edu_not_allowed": {
+        "string": "此账户未获得 Figma 许可。要更改此设置，您需要与学校管理员联系。"
+    },
+    "auth.error.email-cannot-equal-password": {
+        "string": "您的电子邮件不能与您的密码相同。"
+    },
+    "auth.error.email-resent": {
+        "string": "电子邮件已重新发送！"
+    },
+    "auth.error.email-taken": {
+        "string": "该电子邮件已被占用。请登录。"
+    },
+    "auth.error.email_already_in_use": {
+        "string": "该电子邮件已被使用。"
+    },
+    "auth.error.email_blocked_from_org": {
+        "string": "用户 {EMAIL} 被禁止加入组织。"
+    },
+    "auth.error.email_misformatted": {
+        "string": "提供的电子邮件格式有问题。请检查地址，然后重试。"
+    },
+    "auth.error.email_not_added_to_org": {
+        "string": "看起来 {EMAIL} 尚未添加到 Figma。请联系您的管理员以启动账户创建流程。"
+    },
+    "auth.error.email_required": {
+        "string": "您必须输入一个电子邮件地址。"
+    },
+    "auth.error.email_too_long": {
+        "string": "您的电子邮件真的这么长吗？"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "fig_feed.tab.for_you": {
+        "string": "For you"
+    },
+    "fig_feed.tab.all": {
+        "string": "All"
+    },
+    "file_browser.tool_bar.drafts.aria_label": {
+        "string": "Drafts tab"
+    },
+    "file_browser.tool_bar.deleted.aria_label": {
+        "string": "Deleted tab"
+    },
+    "file_browser.draft_delete_modal.button_delete_files": {
+        "string": "{numFiles, plural, one {Delete file} other {Delete files}}"
+    },
+    "file_browser.draft_delete_modal.you_can_access_drafts_from_deleted_drafts_section": {
+        "string": "{fileCount, plural, one {You can access it later from the Deleted drafts section of the Drafts to move tab.} other {You can access them later from the Deleted drafts section of the Drafts to move tab.}}"
+    },
+    "file_browser.draft_delete_modal.permanently_delete_multiple_drafts_confirmation": {
+        "string": "To continue, please type \"{deletionString}\" to confirm:"
+    },
+    "file_browser.draft_delete_modal.header_multiple_files_delete": {
+        "string": "Delete {fileCount} files forever?"
+    },
+    "file_browser.draft_delete_modal.header_single_file_delete": {
+        "string": "Delete {fileName} forever?"
+    },
+    "file_browser.draft_delete_modal.header_multiple_files_trash": {
+        "string": "Delete {fileCount} files"
+    },
+    "file_browser.draft_delete_modal.header_single_file_trash": {
+        "string": "Delete file"
+    },
+    "file_browser.draft_delete_modal.async_delete_drafts_scheduled": {
+        "string": "Deleting your personal drafts"
+    },
+    "file_browser.draft_delete_modal.async_delete_drafts_scheduled_error": {
+        "string": "Error deleting your personal drafts"
+    },
+    "file_browser.draft_delete_modal.unable_to_delete": {
+        "string": "Unable to delete more than {maxSize} drafts at a time"
+    },
+    "file_browser.draft_delete_modal.button_delete": {
+        "string": "Delete"
+    },
+    "file_browser.draft_delete_modal.permanently_delete_multiple_drafts": {
+        "string": "You're about to permanently delete {fileCount} drafts. This can't be undone."
+    },
+    "file_browser.draft_delete_modal.permanently_delete_one_draft": {
+        "string": "You're about to permanently delete this draft. This can't be undone. To continue, please confirm you want to delete this draft."
+    },
+    "file_browser.draft_delete_modal.you_are_about_to_delete_multiple_drafts": {
+        "string": "You're about to delete {fileCount} drafts."
+    },
+    "file_browser.draft_delete_modal.you_are_about_to_delete_single_draft": {
+        "string": "You're about to delete the file {fileName}."
+    },
+    "file_browser.draft_delete_modal.draft_deletion_tooltip": {
+        "string": "Type \"{deletionString}\" to continue permanently deleting drafts"
+    },
+    "file_browser.draft_delete_modal.button_permanently_delete_files": {
+        "string": "{numFiles, plural, one {Permanently delete file} other {Permanently delete files}}"
+    },
+    "org_view.view_libraries": {
+        "string": "View libraries"
+    },
+    "sidebar.workspaces.main_workspace_empty_state": {
+        "string": "Join teams and projects in this workspace and then find them here for easy access."
+    },
+    "sidebar.workspaces.workspace_section_empty_state": {
+        "string": "Once you're added to a workspace, you'll see it here along with any teams and projects you've joined."
+    },
+    "sidebar.create_new_team": {
+        "string": "Create new team"
+    },
+    "sidebar.your_teams_and_favorited_projects_will_appear_here": {
+        "string": "Your teams and favorited projects will appear here"
+    },
+    "sidebar.browse_org": {
+        "string": "Browse {orgName}"
+    },
+    "sidebar.recents": {
+        "string": "Recents"
+    },
+    "sidebar.admin_console": {
+        "string": "Admin Console"
+    },
+    "team_list.your_team_is_over_the_starter_plan_s_file_limit": {
+        "string": "Your team is over the Starter plan’s file limit"
+    },
+    "team_list.verify_that_youre_a_student_or_educator": {
+        "string": "Verify that you're a student or educator to keep collaborating"
+    },
+    "team_list.pro_trial_expired": {
+        "string": "Trial expired"
+    },
+    "team_list.locked": {
+        "string": "Locked"
+    },
+    "team_list.free": {
+        "string": "Free"
+    },
+    "billing_status.tax_id.invalid": {
+        "string": "Your tax ID number couldn't be verified. An organization admin should re-enter it to keep your invoices accurate"
+    },
+    "sidebar.all_projects": {
+        "string": "All projects"
+    },
+    "sidebar.move_these_starred_items": {
+        "string": "Move these starred items"
+    },
+    "file_browser.planless_favorites.add_to_sidebar": {
+        "string": "Add to sidebar"
+    },
+    "file_browser.planless_favorites.unstar_all": {
+        "string": "Unstar all"
+    },
+    "file_browser.planless_favorites.your_favorited_items_tooltip": {
+        "string": "There’s been some changes to Figma, and we don’t want to lose your important stuff in the shuffle"
+    },
+    "org_home_view_meta.member_count": {
+        "string": "{memberCount, plural, one {{memberCount} member} other {{memberCount} members}}"
+    },
+    "org_home_view_meta.workspace_count": {
+        "string": "{workspaceCount, plural, one {{workspaceCount} workspace} other {{workspaceCount} workspaces}}"
+    },
+    "org_home_view_meta.team_count": {
+        "string": "{teamCount, plural, one {{teamCount} team} other {{teamCount} teams}}"
+    },
+    "payments_modal.guest_permission_disclaimer": {
+        "string": "You are a guest of this organization, so you can only see files and teams which you are explicitly invited to."
+    },
+    "org_home_view_meta.learn_more": {
+        "string": "Learn more…"
+    },
+    "org_home_view_meta.admins": {
+        "string": "Admins"
+    },
+    "org_view.private_plugins_will_appear_here": {
+        "string": "Private plugins will appear here"
+    },
+    "org_view.plugin_tile": {
+        "string": "Plugin Tile"
+    },
+    "org_view.overview": {
+        "string": "Overview"
+    },
+    "org_view.private_widgets_will_appear_here": {
+        "string": "Private widgets will appear here"
+    }
+}

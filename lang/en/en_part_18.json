@@ -1,0 +1,152 @@
+{
+    "community.preset_modal.show_in_figma": {
+        "string": "Show kit in Figma"
+    },
+    "community.preset_modal.make_a_copy": {
+        "string": "Make a new copy"
+    },
+    "community.try.pick_workspace.cancel": {
+        "string": "Cancel"
+    },
+    "community.using.open_in": {
+        "string": "Open in…"
+    },
+    "community.using.open_in_no_ellipses": {
+        "string": "Open in"
+    },
+    "community.plugins.remove": {
+        "string": "Remove"
+    },
+    "community.plugins.approve": {
+        "string": "Approve"
+    },
+    "community.plugins.remove_for_org_tooltip": {
+        "string": "When you remove a resource from your approve list, it’s no longer saved for {orgName}."
+    },
+    "community.plugins.approve_for_org_tooltip": {
+        "string": "Add a resource to your approve list to make it available for everyone at {orgName}."
+    },
+    "community.using.pick_workspace.open_outside_of_org": {
+        "string": "Open outside of {orgName}?"
+    },
+    "community.using.pick_workspace.title": {
+        "string": "Where would you like to open it?"
+    },
+    "community.try.pick_workspace.title": {
+        "string": "Where would you like to try it out?"
+    },
+    "community.try.pick_workspace.org_doesnt_use_figjam": {
+        "string": "{orgName} doesn't use FigJam. You can still try it, if you’d like, by choosing External teams below."
+    },
+    "community.try.pick_workspace.org_doesnt_use_slides": {
+        "string": "{orgName} doesn't use Figma Slides. You can still try it, if you’d like, by choosing a different team below."
+    },
+    "community.try.pick_workspace.widget_isnt_allowed_by_org": {
+        "string": "This widget isn't allowed by {orgName}. You can still try it, if you’d like, by choosing a different team below."
+    },
+    "community.try.pick_workspace.this_widget_isnt_allowed_by_org": {
+        "string": "This widget isn't allowed by {orgName}. You can still try it, if you’d like, by choosing External teams below."
+    },
+    "community.try.pick_workspace.plugin_isnt_allowed_by_org": {
+        "string": "This plugin isn't allowed by {orgName}. You can still try it, if you’d like, by choosing a different team below."
+    },
+    "community.try.pick_workspace.this_plugin_isnt_allowed_by_org": {
+        "string": "This plugin isn't allowed by {orgName}. You can still try it, if you’d like, by choosing External teams below."
+    },
+    "community.try.pick_workspace.subtitle": {
+        "string": "A new file will be added to your drafts."
+    },
+    "community.try.pick_workspace.desc": {
+        "string": "The Community file will be added to your drafts."
+    },
+    "community.try.pick_workspace.approval_pending": {
+        "string": "Approval pending"
+    },
+    "community.try.pick_workspace.request_approval": {
+        "string": "Request approval"
+    },
+    "community.allowlist.choose_an_organization": {
+        "string": "Choose an organization"
+    },
+    "community.allowlist.select_the_organization_you_would_like": {
+        "string": "Select the organization you would like to use to manage the approvals of this resource"
+    },
+    "voting.stamp_tooltip.unavailable": {
+        "string": "Unavailable"
+    },
+    "community.try.org_private_widget_request_disabled": {
+        "string": "Requests for org private widgets aren't allowed"
+    },
+    "community.try.org_private_plugin_request_disabled": {
+        "string": "Requests for org private plugins aren't allowed"
+    },
+    "community.try.widget_requests_disabled_by_your_org": {
+        "string": "{orgName} does not allow widget requests"
+    },
+    "community.try.plugin_requests_disabled_by_your_org": {
+        "string": "{orgName} does not allow plugin requests"
+    },
+    "community.try.figjam_disabled_by_your_org": {
+        "string": "{orgName} has disabled FigJam"
+    },
+    "community.try.slides_disabled_by_admins": {
+        "string": "Figma Slides disabled by admins"
+    },
+    "community.try.presets_disabled_by_admins": {
+        "string": "UI kits disabled by admins"
+    },
+    "community.try.externally_restricted": {
+        "string": "Your organization doesn't allow you to create new files in external spaces."
+    },
+    "community.use_slide_template": {
+        "string": "Use template"
+    },
+    "community.use_slide_template.disabled_tooltip": {
+        "string": "Figma Slides are disabled for your organization"
+    },
+    "community.detail_view.share": {
+        "string": "Share"
+    },
+    "fullscreen_actions.link_copied": {
+        "string": "Link copied"
+    },
+    "community.detail_view.check_out_resource_name_by_publisher_on_figmadesign": {
+        "string": "Check out {resourceName} by {publisherString} on @figma:"
+    },
+    "community.resource.multiple_creators": {
+        "string": "multiple creators"
+    },
+    "community.resource.by_creator": {
+        "string": "{spaceChar}{creator}"
+    },
+    "community.resource.creator": {
+        "string": "{creator}"
+    },
+    "community.resource.2_creators": {
+        "string": "{creator1}{spaceChar}and{spaceChar}{creator2}"
+    },
+    "community.resource.by_2_creators": {
+        "string": "{spaceChar}{creator1}{spaceChar}and{spaceChar}{creator2}"
+    },
+    "community.resource.more_than_2_creators": {
+        "string": "{creator1}{spaceChar}and{spaceChar}{others}"
+    },
+    "community.resource.by_more_than_2_creators": {
+        "string": "{spaceChar}{creator1}{spaceChar}and{spaceChar}{others}"
+    },
+    "community.resource.by_others": {
+        "string": "others"
+    },
+    "community.publisher_with_suffix": {
+        "string": "{publisherName} {publishersSuffix}"
+    },
+    "community.cards.pluralize_num_other_publishers": {
+        "string": "{numOtherPublishers, plural, one {and {numOtherPublishers} other} other {and {numOtherPublishers} others}}"
+    },
+    "dev_handoff.code.lang_ios": {
+        "string": "iOS"
+    },
+    "dev_handoff.code.lang_android": {
+        "string": "Android"
+    }
+}

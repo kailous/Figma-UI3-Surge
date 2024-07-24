@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.text-lower-case": {
+        "string": "Lowercase"
+    },
+    "fullscreen_actions.text-menu": {
+        "string": "Text"
+    },
+    "fullscreen_actions.text-original-case": {
+        "string": "Original case"
+    },
+    "fullscreen_actions.text-relayout": {
+        "string": "Recompute text layout in selection"
+    },
+    "fullscreen_actions.text-toggle-italic": {
+        "string": "Italic"
+    },
+    "fullscreen_actions.bold_and_italic": {
+        "string": "Bold/Italic"
+    },
+    "fullscreen_actions.text-toggle-strikethrough": {
+        "string": "Strikethrough"
+    },
+    "fullscreen_actions.text-toggle-underline": {
+        "string": "Underline"
+    },
+    "fullscreen_actions.text-small-caps": {
+        "string": "Small caps"
+    },
+    "fullscreen_actions.text-title-case": {
+        "string": "Title case"
+    },
+    "fullscreen_actions.text-upper-case": {
+        "string": "Uppercase"
+    },
+    "fullscreen_actions.text-adjust-menu": {
+        "string": "Adjust"
+    },
+    "fullscreen_actions.text-case-menu": {
+        "string": "Case"
+    },
+    "fullscreen_actions.text-set-directionality-ltr": {
+        "string": "Left to right"
+    },
+    "fullscreen_actions.text-set-directionality-rtl": {
+        "string": "Right to left"
+    },
+    "fullscreen_actions.text-set-directionality-ltr-qa": {
+        "string": "Left to right text direction"
+    },
+    "fullscreen_actions.text-set-directionality-rtl-qa": {
+        "string": "Right to left text direction"
+    },
+    "fullscreen_actions.text-directionality-menu": {
+        "string": "Text direction"
+    },
+    "fullscreen_actions.text-toggle-unordered-list": {
+        "string": "Bulleted list"
+    },
+    "fullscreen_actions.text-toggle-ordered-list": {
+        "string": "Numbered list"
+    },
+    "fullscreen_actions.bulleted_and_numbered_list": {
+        "string": "Turn into a list"
+    },
+    "fullscreen_actions.text-indent-list": {
+        "string": "Increase indentation"
+    },
+    "fullscreen_actions.text-dedent-list": {
+        "string": "Decrease indentation"
+    },
+    "fullscreen_actions.text_indent_and_dedent_list": {
+        "string": "Increase and decrease indentation"
+    },
+    "fullscreen_actions.text-upgrade-explicit-layout-version": {
+        "string": "Update to support latest text layout"
+    },
+    "fullscreen_actions.text-upgrade-to-bidi": {
+        "string": "Update to support bidirectional text (RTL)"
+    },
+    "fullscreen_actions.theme.dark": {
+        "string": "Dark"
+    },
+    "fullscreen_actions.theme.use_dark_mode": {
+        "string": "Use dark mode"
+    },
+    "fullscreen_actions.theme.debug": {
+        "string": "Debug"
+    },
+    "fullscreen_actions.theme.use_debug_mode": {
+        "string": "Use debug mode"
+    },
+    "fullscreen_actions.theme.light_legacy": {
+        "string": "Light (Legacy)"
+    },
+    "fullscreen_actions.theme.use_light_legacy_mode": {
+        "string": "Use light (legacy) mode"
+    },
+    "fullscreen_actions.theme.light": {
+        "string": "Light"
+    },
+    "fullscreen_actions.theme.use_light_mode": {
+        "string": "Use light mode"
+    },
+    "fullscreen_actions.theme.system_theme": {
+        "string": "System theme"
+    },
+    "fullscreen_actions.theme.use_system_theme": {
+        "string": "Use system theme"
+    },
+    "fullscreen_actions.theme-wildcard": {
+        "string": "Wildcard (Default)"
+    },
+    "fullscreen_actions.theme-wildcard-quick-command": {
+        "string": "Use wildcard (default) mode"
+    },
+    "fullscreen_actions.theme-menu-option": {
+        "string": "Theme"
+    },
+    "fullscreen_actions.tidy-up": {
+        "string": "Tidy up"
+    },
+    "fullscreen_actions.toggle-annotations": {
+        "string": "Show dimensions on objects"
+    },
+    "fullscreen_actions.toggle-bold": {
+        "string": "Bold"
+    },
+    "fullscreen_actions.toggle-copy-renaming": {
+        "string": "Rename duplicated layers"
+    },
+    "fullscreen_actions.toggle-layers-dom-order": {
+        "string": "Show layers in DOM order"
+    },
+    "fullscreen_actions.toggle-overlay-ui-rendering": {
+        "string": "Toggle overlay UI rendering"
+    },
+    "fullscreen_actions.toggle-allow-time-sliced-edit-rendering-optimization": {
+        "string": "Toggle allow time-sliced edit rendering"
+    },
+    "fullscreen_actions.toggle-similar-highlights": {
+        "string": "Toggle highlights of similar objects"
+    },
+    "fullscreen_actions.toggle-noodles-without-dragging": {
+        "string": "Toggle noodles without dragging"
+    },
+    "fullscreen_actions.toggle-debug-show-magic-link-clustering": {
+        "string": "Highlight Magic Link context"
+    },
+    "fullscreen_actions.toggle-sync-cursor-rendering": {
+        "string": "Toggle sync TSMER cursor rendering"
+    }
+}

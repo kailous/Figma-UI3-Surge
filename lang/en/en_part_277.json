@@ -1,0 +1,152 @@
+{
+    "activity_log.event.library_setting_off_org_setting": {
+        "string": "off (which is the organization setting)"
+    },
+    "activity_log.event.library_setting_all_files": {
+        "string": "all files"
+    },
+    "activity_log.event.library_setting_figjam_files": {
+        "string": "FigJam files"
+    },
+    "activity_log.event.library_setting_figma_files": {
+        "string": "Figma design files"
+    },
+    "activity_log.event.library_setting_off": {
+        "string": "off"
+    },
+    "activity_log.event.billing_group_admins_add": {
+        "string": "{numAdmins, plural, one {Added {adminNames} as an admin of the {billingGroupName} billing group} other {Added {adminNames} as admins of the {billingGroupName} billing group} }"
+    },
+    "activity_log.event.billing_group_admins_remove.v2": {
+        "string": "{numAdmins, plural, one {Removed {adminNames} as an admin of the {billingGroupName} billing group} other {Removed {adminNames} as admins of the {billingGroupName} billing group} }"
+    },
+    "activity_log.event.billing_group_create_with_admins": {
+        "string": "{numAdmins, plural, one {Created a new billing group called {billingGroupName} with {adminNames} as an admin} other {Created a new billing group called {billingGroupName} with {adminNames} as admins} }"
+    },
+    "activity_log.event.billing_group_create": {
+        "string": "Created a new billing group called {billingGroupName}"
+    },
+    "activity_log.event.license_group_create_with_admins": {
+        "string": "{numAdmins, plural, one {Created a new workspace called {workspaceName} with {adminNames} as an admin} other {Created a new workspace called {workspaceName} with {adminNames} as admins} }"
+    },
+    "activity_log.event.billing_group_delete": {
+        "string": "Deleted the {billingGroupName} billing group"
+    },
+    "activity_log.event.billing_group_rename": {
+        "string": " Renamed the {billingGroupName} billing group to {newName}"
+    },
+    "activity_log.event.billing_group_membership_change": {
+        "string": "Moved {userEmail} from the {billingGroupName} billing group to the {newName} billing group"
+    },
+    "activity_log.event.license_group_membership_change": {
+        "string": "Moved {userEmail} from the {workspaceName} workspace to the {newName} workspace"
+    },
+    "activity_log.event.billing_group_membership_self_select": {
+        "string": "Selected the {billingGroupName} billing group"
+    },
+    "activity_log.event.license_group_membership_self_select": {
+        "string": "Selected the {workspaceName} workspace"
+    },
+    "activity_log.event.workspace_admins_add": {
+        "string": "{numAdmins, plural, one {Added {adminNames} as an admin of the {workspaceName} workspace} other {Added {adminNames} as admins of the {workspaceName} workspace} }"
+    },
+    "activity_log.event.workspace_admins_remove.v2": {
+        "string": "{numAdmins, plural, one {Removed {adminNames} as an admin of the {workspaceName} workspace} other {Removed {adminNames} as admins of the {workspaceName} workspace} }"
+    },
+    "activity_log.event.workspace_create": {
+        "string": "Created a new workspace called {workspaceName}"
+    },
+    "activity_log.event.workspace_delete": {
+        "string": "Deleted the {workspaceName} workspace"
+    },
+    "activity_log.event.workspace_rename": {
+        "string": " Renamed the {workspaceName} workspace to {newName}"
+    },
+    "activity_log.event.workspace_members_add": {
+        "string": "{numMembers, plural, one {Added {memberEmails} as a member of the {workspaceName} workspace} other {Added {memberEmails} as members of the {workspaceName} workspace} }"
+    },
+    "activity_log.event.workspace_members_remove": {
+        "string": "{numMembers, plural, one {Removed {memberEmails} as a member of the {workspaceName} workspace} other {Removed {memberEmails} as members of the {workspaceName} workspace} }"
+    },
+    "activity_log.event.workspace_member_add": {
+        "string": "Added {memberEmail} as a member of the {workspaceName} workspace."
+    },
+    "activity_log.event.workspace_member_remove": {
+        "string": "Removed {memberEmail} as a member of the {workspaceName} workspace."
+    },
+    "activity_log.teams.added_team_to_workspace": {
+        "string": "Added the {teamName} team to the {newWorkspaceName} workspace"
+    },
+    "activity_log.teams.added_team_to_workspace_and_removed_from_old_workspace": {
+        "string": "Moved the {teamName} team from the {oldWorkspaceName} workspace to the {newWorkspaceName} workspace"
+    },
+    "activity_log.teams.removed_team_from_workspace": {
+        "string": "Removed {teamName} from the {oldWorkspaceName} workspace"
+    },
+    "activity_log.event.workspace_visibility_setting_changed": {
+        "string": "Changed visibility setting for {workspaceName} from {oldOrgAccess} to {newOrgAccess}"
+    },
+    "org.cost_breakdown.design_seats_figma_design_editor.seat_rename": {
+        "string": "{designSeats, plural, one {{designSeats} Design seat} other {{designSeats} Design seats}}"
+    },
+    "org.cost_breakdown.figjam_seats_fig_jam_editor_seats.seat_rename": {
+        "string": "{figjamSeats, plural, one {{figjamSeats} FigJam seat} other {{figjamSeats} FigJam seats}}"
+    },
+    "org.cost_breakdown.dev_mode_seats": {
+        "string": "{quantity, plural, one {{quantity} Dev Mode seat} other {{quantity} Dev Mode seats}}"
+    },
+    "org.cost_breakdown.price_x_num_seats_x_remaining_months": {
+        "string": "{quantity, plural, one {{price} × {quantity} seat × {remainingMonthsText}} other {{price} × {quantity} seats × {remainingMonthsText}}}"
+    },
+    "org.cost_breakdown.remaining_months_remaining_months": {
+        "string": "{remainingMonths} remaining months"
+    },
+    "org.cost_breakdown.invoice_subtotal": {
+        "string": "Invoice subtotal"
+    },
+    "org.cost_breakdown.projected_subtotal": {
+        "string": "Projected subtotal"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage_title": {
+        "string": "Quickly get to groups you manage"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.workspaces_and_billing": {
+        "string": "Use this menu to navigate to the workspaces and billing groups you help manage."
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.billing_groups": {
+        "string": "Use this menu to navigate to billing groups you help manage."
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_title": {
+        "string": "Manage your upgrade requests"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_description": {
+        "string": "Upgrade requests from members in the billing group(s) you manage can be approved from your admin dashboard."
+    },
+    "license_group_admin.billing_dashboard.billing_banner.review_these_billing_groups": {
+        "string": "You still need to review these billing groups: "
+    },
+    "license_group_admin.billing_dashboard.billing_banner.billing_group_links": {
+        "string": "{billingGroupLinks}"
+    },
+    "license_group_admin.billing_dashboard.billing_banner.billing_group_links_plus": {
+        "string": "{count, plural, one {{billingGroupLinks}, and {count} other} other {{billingGroupLinks}, and {count} others}}"
+    },
+    "license_group_admin.billing_dashboard.billing_banner.review_and_confirm": {
+        "string": "It's time to review and confirm seats"
+    },
+    "license_group_admin.members.no_members_yet": {
+        "string": "No members yet"
+    },
+    "license_group_admin.members.no_members_yet.subtitle": {
+        "string": "Invite people to join or move unassigned people over to this group."
+    },
+    "multi_admin_onboarding.heading": {
+        "string": "Quickly get to groups you manage"
+    },
+    "multi_admin_onboarding.description": {
+        "string": "Use this menu to switch between the workspaces and billing groups you help manage."
+    },
+    "billing_group_admin_onboarding.step_one_heading": {
+        "string": "Get people to the right billing group"
+    }
+}

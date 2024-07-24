@@ -1,0 +1,152 @@
+{
+    "community.seller.good_news": {
+        "string": "Good news!"
+    },
+    "community.seller.set_up_stripe": {
+        "string": "Set up Stripe"
+    },
+    "community.seller.finish_set_up": {
+        "string": "Finish setup"
+    },
+    "community.seller.finish_stripe_setup": {
+        "string": "Finish Stripe setup."
+    },
+    "community.seller.few_steps_left_stripe": {
+        "string": "Looks like you still have a few steps left before you can sell resources on Community. Jump back in?"
+    },
+    "community.seller.visit_stripe": {
+        "string": "Visit Stripe"
+    },
+    "community.seller.stripe_needs_your_attention": {
+        "string": "Stripe needs your attention."
+    },
+    "community.seller.you_can_resolve": {
+        "string": "You can resolve the issue through your Stripe dashboard."
+    },
+    "community.resource.delisted_stripe_issues": {
+        "string": "Looks like there's an issue with your Stripe account. Head to the Stripe dashboard to get things working again."
+    },
+    "community.resource.delisted_prev_purchasers_can_still_access__subscription": {
+        "string": "Anyone who bought it will still have access until the end of their billing cycle."
+    },
+    "community.resource.delisted_prev_purchasers_can_still_access": {
+        "string": "Anyone who bought it will still have access to it."
+    },
+    "community.resource.delisted_you_ll_continue_to_have_access_until": {
+        "string": "You'll continue to have access until {dateString}."
+    },
+    "community.resource.delisted_you_ll_continue_to_have_access_to_it": {
+        "string": "You'll continue to have access to it."
+    },
+    "community.resource.if_you_have_questions_reach_out_to_creator": {
+        "string": "If you have questions, please reach out to the creator."
+    },
+    "community.seller.only_you_can_see_your_file": {
+        "string": "Only you can see it while your file is in review."
+    },
+    "community.seller.only_you_can_see_your_plugin": {
+        "string": "Only you can see it while your plugin is in review."
+    },
+    "community.seller.only_you_can_see_your_widget": {
+        "string": "Only you can see it while your widget is in review."
+    },
+    "community.seller.this_page_is_private": {
+        "string": "This page is private for now"
+    },
+    "community.resource.unpublished_banner.only_you_can_see_this_page.hub_file": {
+        "string": "Only you can see this page. To republish this resource, publish a new version using the original file."
+    },
+    "community.resource.unpublished_banner.only_you_can_see_this_page.plugin": {
+        "string": "Only you can see this page. To republish this resource, publish a new version using a plugin with the same id"
+    },
+    "community.resource.unpublished_banner.only_you_can_see_this_page.widget": {
+        "string": "Only you can see this page. To republish this resource, publish a new version using a widget with the same id"
+    },
+    "community.resource.unpublished_banner.your_resource_is_unpublished": {
+        "string": "Your resource is unpublished"
+    },
+    "community.resource.admin_blocked_resource_banner.you_can_only_view_this_page_as_an_admin": {
+        "string": "You are viewing this page as a Community admin."
+    },
+    "community.resource.edit_this_page": {
+        "string": "Edit this page"
+    },
+    "community.hub_files.open_original_file": {
+        "string": "Open original file"
+    },
+    "community.hub_files.delisting_this_resource_will_prevent_people_from_discovering_or_purchasing_this_resource": {
+        "string": "Delisting this resource will prevent people from discovering or purchasing this resource on Community. Existing purchasers will continue to be able to use this resource."
+    },
+    "community.resource.manage_resource": {
+        "string": "Manage resource"
+    },
+    "community.resource.your_resource_is_live": {
+        "string": "Your resource is live"
+    },
+    "community.resource.next_we_recommend_adding_more_images": {
+        "string": "Next, we recommend adding more images to give users a preview of your file."
+    },
+    "community.resource.next_we_recommend_adding_more_images_and_videos": {
+        "string": "Next, we recommend adding more images and videos to give users a preview of your {resourceType}."
+    },
+    "community.collections.this_feature_isnt_available": {
+        "string": "This feature isn't available"
+    },
+    "community.collections.this_feature_isnt_available_body": {
+        "string": "FigJam AI features aren’t currently enabled for your team or organization."
+    },
+    "community.collections.learn_more": {
+        "string": "Learn more"
+    },
+    "community.collections.generate": {
+        "string": "Generate"
+    },
+    "community.comments.load_more_comments": {
+        "string": "Load more comments"
+    },
+    "community.comments.pluralize_comments": {
+        "string": "{numComments, plural, one {{numComments} comment} other {{numComments} comments}}"
+    },
+    "community.comments.all": {
+        "string": "All"
+    },
+    "community.comments.your_comments": {
+        "string": "Your comments"
+    },
+    "community.comments.comments_only": {
+        "string": "Comments only"
+    },
+    "community.comments.reviews_only": {
+        "string": "Reviews only"
+    },
+    "community.comments.show_resolved": {
+        "string": "Show resolved"
+    },
+    "community.comments.to_comment_switch_to_your_personal_profile": {
+        "string": "To comment, switch to your personal profile"
+    },
+    "community.comments.your_kudos_and_feedback_are_welcome": {
+        "string": "Your kudos and feedback are welcome!"
+    },
+    "community.comments.share_your_thoughts_using_the_comment_box_above": {
+        "string": "Share your thoughts using the comment box above."
+    },
+    "community.comments.comment_actions": {
+        "string": "Comment actions"
+    },
+    "community.comments.new_comments": {
+        "string": "New comments!"
+    },
+    "community.comments.refresh": {
+        "string": "Refresh"
+    },
+    "community.comments.creator": {
+        "string": "Creator"
+    },
+    "community.comments.copy_link": {
+        "string": "Copy link"
+    },
+    "community.comments.edit": {
+        "string": "Edit"
+    }
+}

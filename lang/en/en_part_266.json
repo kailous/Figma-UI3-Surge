@@ -1,0 +1,152 @@
+{
+    "community.badge.extension_security_updated_on": {
+        "string": "Data security info updated on {date, date, medium}"
+    },
+    "community.badge.extension_security_approved": {
+        "string": "Data security info available"
+    },
+    "community.badge.extension_security_pending": {
+        "string": "Data security info in review"
+    },
+    "community.detail_view.data_security_modal_badge_info_widget": {
+        "string": "Based on the creator’s answers, this widget follows Figma’s data security best practices."
+    },
+    "community.detail_view.data_security_modal_badge_info_plugin": {
+        "string": "Based on the creator’s answers, this plugin follows Figma’s data security best practices."
+    },
+    "community.detail_view.data_security_modal_assessment_link": {
+        "string": "security self-assessment program"
+    },
+    "community.detail_view.data_security_modal_explanation_widget": {
+        "string": "As part of Figma’s {assessmentProgramLink}, the creator has voluntarily answered a survey and shared how this widget handles and stores data."
+    },
+    "community.detail_view.data_security_modal_explanation_plugin": {
+        "string": "As part of Figma’s {assessmentProgramLink}, the creator has voluntarily answered a survey and shared how this plugin handles and stores data."
+    },
+    "community.detail_view.data_security_modal_pending": {
+        "string": "The creator updated these details on {date, date, long}, which Figma is currently reviewing for data security best practices."
+    },
+    "community.detail_view.data_security_modal_rejected": {
+        "string": "The creator updated these details. After review, on {date, date, long}, Figma determined that these updates do not follow data security best practices."
+    },
+    "community.detail_view.data_security": {
+        "string": "Data security"
+    },
+    "rcs.sharing_clarity.team_creation_modal_title": {
+        "string": "Simpler, clearer access settings"
+    },
+    "rcs.sharing_clarity.team_creation_modal_description": {
+        "string": "Now when you manage your team’s access and permissions, simply pick an option for 1) who can access it and 2) what they’re allowed to do."
+    },
+    "admin_dashboard.requests.details.display_date": {
+        "string": "{dateObject, date, ::yMMMMd}"
+    },
+    "admin_dashboard.suggested.empty.primary_text": {
+        "string": "No users to upgrade"
+    },
+    "admin_dashboard.requests.empty.secondary_text": {
+        "string": "Go grab some coffee—we’ll let you know when new upgrade requests come in."
+    },
+    "admin_dashboard.suggested.title": {
+        "string": "Restore Dev Mode access"
+    },
+    "admin_dashboard.suggested.body_v2": {
+        "string": "Now that Dev Mode is out of beta, using it requires a paid seat. Who would you like to upgrade for continued use?"
+    },
+    "admin_dashboard.requests.no_name": {
+        "string": "<no name>"
+    },
+    "admin_dashboard.requests.columns.name": {
+        "string": "Name"
+    },
+    "admin_dashboard.requests.details.job_title": {
+        "string": "Job title"
+    },
+    "admin_dashboard.requests.columns.last_used_dev_mode": {
+        "string": "Last used Dev Mode"
+    },
+    "admin_dashboard.suggested.bell.assigned_org": {
+        "string": "{numSeats, plural, one {1 Dev Mode seat assigned} other {{numSeats} Dev Mode seats assigned}}"
+    },
+    "admin_dashboard.suggested.bell.assigned_team": {
+        "string": "{numSeats, plural, one {1 Design seat assigned} other {{numSeats} Design seats assigned}}"
+    },
+    "admin_dashboard.suggested.bell.declined_org": {
+        "string": "{numSeats, plural, one {1 Dev Mode seat declined} other {{numSeats} Dev Mode seats declined}}"
+    },
+    "admin_dashboard.suggested.bell.declined_team": {
+        "string": "{numSeats, plural, one {1 Design seat declined} other {{numSeats} Design seats declined}}"
+    },
+    "admin_dashboard.requests.decline": {
+        "string": "Decline"
+    },
+    "admin_dashboard.suggested.upgrade": {
+        "string": "Upgrade"
+    },
+    "admin_dashboard.requests.billing_groups": {
+        "string": "Billing groups"
+    },
+    "admin_dashboard.requests.your_billing_groups": {
+        "string": "Your billing groups"
+    },
+    "admin_dashboard.requests.filter.user_type": {
+        "string": "User type: {selectedUserTypeFilter}"
+    },
+    "admin_dashboard.requests.filter.from": {
+        "string": "From: {selectedBillingGroupFilter}"
+    },
+    "admin_dashboard.requests.empty.configurable_upgrade_requests": {
+        "string": "No requests"
+    },
+    "admin_dashboard.requests.empty.primary_text": {
+        "string": "No requests right now"
+    },
+    "admin_dashboard.requests.empty.no_search_results": {
+        "string": "No requests match your search query. Try your search again."
+    },
+    "admin_dashboard.requests.empty.no_filter_results": {
+        "string": "No requests to show. {resetFiltersLink}"
+    },
+    "admin_dashboard.requests.empty.reset_filters": {
+        "string": "Reset filters"
+    },
+    "admin_dashboard.configured_upgrade_request_banner.members": {
+        "string": "Your organization redirects members to a custom URL to request an upgrade. Old member requests and new guest requests will show up here."
+    },
+    "admin_dashboard.configured_upgrade_request_empty_state.members": {
+        "string": "Your organization redirects members to a custom URL to request an upgrade. New guest upgrade requests will show up here."
+    },
+    "admin_dashboard.configured_upgrade_request_banner.all_users": {
+        "string": "Your organization redirects all users to a custom URL to request an upgrade. Requests made before this setting was enabled will still show up here."
+    },
+    "admin_dashboard.configured_upgrade_request_empty_state.all_users": {
+        "string": "Your organization redirects all users to a custom URL to request an upgrade."
+    },
+    "admin_dashboard.managed_org_requests.title": {
+        "string": "Your requests"
+    },
+    "admin_dashboard.requests.title": {
+        "string": "Upgrade requests"
+    },
+    "admin_dashboard.all_org_requests.title": {
+        "string": "All {orgName} requests"
+    },
+    "admin_dashboard.requests.view_history": {
+        "string": "View history"
+    },
+    "admin_dashboard.requests.from_all": {
+        "string": "All"
+    },
+    "admin_dashboard.requests.from_unassigned": {
+        "string": "Unassigned users"
+    },
+    "admin_dashboard.requests.guests": {
+        "string": "Guests"
+    },
+    "admin_dashboard.requests.members": {
+        "string": "Members"
+    },
+    "admin_dashboard.requests.all_users": {
+        "string": "All"
+    }
+}

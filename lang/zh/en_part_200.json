@@ -1,0 +1,152 @@
+{
+    "design_systems.component_panel.simplify_instances": {
+        "string": "Simplify all instances"
+    },
+    "design_systems.component_panel.component_documentation": {
+        "string": "Component documentation"
+    },
+    "design_systems.component_panel.component_controls": {
+        "string": "Component configuration"
+    },
+    "design_systems.component_properties.instance_property_preview": {
+        "string": "Instance property preview"
+    },
+    "design_systems.component_panel.select_component": {
+        "string": "Select component"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.left": {
+        "string": "Left"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.top": {
+        "string": "Top"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.right": {
+        "string": "Right"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.bottom": {
+        "string": "Bottom"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.left_and_right": {
+        "string": "Left and right"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.top_and_bottom": {
+        "string": "Top and bottom"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.center": {
+        "string": "Center"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.scale": {
+        "string": "Scale"
+    },
+    "design_systems.component_panel.parent_component": {
+        "string": "Parent component"
+    },
+    "design_systems.component_panel.description": {
+        "string": "Description"
+    },
+    "proto.frame_preset_panel.frame": {
+        "string": "Frame"
+    },
+    "proto.frame_preset_panel.phone": {
+        "string": "Phone"
+    },
+    "proto.frame_preset_panel.tablet": {
+        "string": "Tablet"
+    },
+    "proto.frame_preset_panel.desktop": {
+        "string": "Desktop"
+    },
+    "proto.frame_preset_panel.presentation": {
+        "string": "Presentation"
+    },
+    "proto.frame_preset_panel.watch": {
+        "string": "Watch"
+    },
+    "proto.frame_preset_panel.paper": {
+        "string": "Paper"
+    },
+    "proto.frame_preset_panel.social_media": {
+        "string": "Social media"
+    },
+    "proto.frame_preset_panel.figma_community": {
+        "string": "Figma Community"
+    },
+    "proto.frame_preset_panel.archive": {
+        "string": "Archive"
+    },
+    "viewer.options_menu.frame": {
+        "string": "Frame"
+    },
+    "viewer.options_menu.group": {
+        "string": "Group"
+    },
+    "viewer.options_menu.section": {
+        "string": "Section"
+    },
+    "design_systems.instance_panel.reset_all_changes": {
+        "string": "Reset all changes"
+    },
+    "design_systems.instance_panel.restore_variant": {
+        "string": "Restore Variant"
+    },
+    "design_systems.instance_panel.reset_property_assignment": {
+        "string": "Reset {assignmentName} property"
+    },
+    "design_systems.instance_panel.no_changes_to_reset": {
+        "string": "No changes to reset"
+    },
+    "design_systems.instance_panel.update_available": {
+        "string": "Update available"
+    },
+    "design_systems.instance_panel.instance_options": {
+        "string": "Instance options"
+    },
+    "design_systems.instance_panel.update_selected": {
+        "string": "{numSelectedInstancesToUpdate, plural, one {Update selected instance} other {Update selected instances}}"
+    },
+    "design_systems.instance_panel.review_update": {
+        "string": "Review update"
+    },
+    "design_systems.instance_panel.restore_component": {
+        "string": "Restore Component"
+    },
+    "design_systems.instance_panel.the_selected_variant_is_missing_in_the_component": {
+        "string": "The selected variant is missing in the component."
+    },
+    "design_systems.instance_panel.reset_to_default": {
+        "string": "Reset to default"
+    },
+    "design_systems.instance_panel.show_more": {
+        "string": "Show more"
+    },
+    "design_systems.instance_panel.select_instance": {
+        "string": "Select instance"
+    },
+    "design_systems.instance_panel.swap_instance": {
+        "string": "Swap instance"
+    },
+    "properties_panel.plugin.mixed_descriptions": {
+        "string": "Mixed descriptions"
+    },
+    "properties_panel.plugin.title": {
+        "string": "Plugin"
+    },
+    "properties_panel.plugin.remove_tooltip": {
+        "string": "Remove"
+    },
+    "proto.curve": {
+        "string": "Curve"
+    },
+    "proto.duration": {
+        "string": "Duration"
+    },
+    "proto.animation": {
+        "string": "Animation"
+    },
+    "proto.direction": {
+        "string": "Direction"
+    },
+    "proto.animation_panel.animate_matching_layers": {
+        "string": "Animate matching layers"
+    }
+}

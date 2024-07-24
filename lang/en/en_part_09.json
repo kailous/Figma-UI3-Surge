@@ -1,0 +1,152 @@
+{
+    "sites.breakpoint_bar.main": {
+        "string": "Main"
+    },
+    "spell_check.spell_check_disabled": {
+        "string": "Spell check disabled"
+    },
+    "spell_check.spell_check_enabled": {
+        "string": "Spell check enabled"
+    },
+    "unsaved_changes.prompt.changes_may_not_be_saved": {
+        "string": "Changes you made may not be saved."
+    },
+    "variables.token_name_invalid_chars": {
+        "string": "Dev name can only include letters, numbers, and the following symbols: _ $ -"
+    },
+    "variables.variable_limit_in_collection_reached": {
+        "string": "Collections can't have more than {variableLimit} variables"
+    },
+    "variables.variable_name_duplicate_name": {
+        "string": "Variable names must be unique within a collection"
+    },
+    "variables.variable_name_invalid_chars": {
+        "string": "Variable name cannot include the following symbols: '{ }' . $"
+    },
+    "variables.variables_detached": {
+        "string": "Detached {numDetached} consumptions. {numRemaining} deleted variable consumptions remain."
+    },
+    "visual_bell.add_file_failure_mobile_plural": {
+        "string": "{failedFileCount} files could not be added"
+    },
+    "visual_bell.add_file_failure_mobile_singular": {
+        "string": "{failedFileCount} file could not be added"
+    },
+    "visual_bell.all_objects_unlocked": {
+        "string": "All objects unlocked"
+    },
+    "visual_bell.alu_hints_off": {
+        "string": "ALU hints off"
+    },
+    "visual_bell.alu_hints_on": {
+        "string": "ALU hints on"
+    },
+    "visual_bell.alu_visual_indicators_off": {
+        "string": "ALU visual indicators off"
+    },
+    "visual_bell.alu_visual_indicators_on": {
+        "string": "ALU visual indicators on"
+    },
+    "visual_bell.an_invalid_image_or_thumbnail_was_removed": {
+        "string": "An invalid image or thumbnail was removed"
+    },
+    "visual_bell.an_invalid_video_was_removed": {
+        "string": "An invalid video was removed"
+    },
+    "visual_bell.annotations_hidden": {
+        "string": "Annotations hidden"
+    },
+    "visual_bell.annotations_visible": {
+        "string": "Annotations visible"
+    },
+    "visual_bell.auto_fill_full_width_children_off": {
+        "string": "Auto-fill full-width children off"
+    },
+    "visual_bell.auto_fill_full_width_children_on": {
+        "string": "Auto-fill full-width children on"
+    },
+    "visual_bell.auto_layout_added": {
+        "string": "Auto layout added"
+    },
+    "visual_bell.auto_layout_added_partial": {
+        "string": "Could not add auto layout to all selected objects"
+    },
+    "visual_bell.can_t_paste_between_fig_jam_and_editor_files": {
+        "string": "Can't paste between FigJam and Editor files"
+    },
+    "visual_bell.can_t_paste_flapps_into_design_files": {
+        "string": "Can't paste Figma Slides widgets into Figma"
+    },
+    "visual_bell.can_t_paste_flapps_into_figjam_files": {
+        "string": "Can't paste Figma Slides widgets into FigJam"
+    },
+    "visual_bell.can_t_paste_ss_from_fig_jam_to_design_files": {
+        "string": "Can't paste {typeName} from FigJam to Design files"
+    },
+    "visual_bell.can_t_paste_this_data_between_different_file_versions_please_refresh_file_and_retry": {
+        "string": "Can't paste this data between different file versions. Please refresh file and retry"
+    },
+    "visual_bell.cannot_create_symbol_from_non_matching_selection": {
+        "string": "Could not create component and instances from non-matching selection"
+    },
+    "visual_bell.cant_export_empty_or_hidden_layers_to_pdf": {
+        "string": "Can't export empty or hidden layers to PDF"
+    },
+    "visual_bell.comments_hidden": {
+        "string": "Comments hidden"
+    },
+    "visual_bell.comments_visible": {
+        "string": "Comments visible"
+    },
+    "visual_bell.component_prop_refs_have_been_pruned": {
+        "string": "Component prop refs have been pruned"
+    },
+    "visual_bell.component_props_have_been_regenerated": {
+        "string": "Component props have been regenerated"
+    },
+    "visual_bell.component_props_in_selection_have_been_cleared": {
+        "string": "Component props in selection have been cleared"
+    },
+    "visual_bell.components_are_either_private_or_already_published": {
+        "string": "Components are either private or already published"
+    },
+    "visual_bell.components_can_t_contain_instances_of_themselves": {
+        "string": "Components can't contain instances of themselves"
+    },
+    "visual_bell.converting_to_stickies": {
+        "string": "Converting to stickies…"
+    },
+    "visual_bell.copied_as_png": {
+        "string": "Copied as PNG"
+    },
+    "visual_bell.copied_as_svg": {
+        "string": "Copied as SVG"
+    },
+    "visual_bell.copied_color_to_clipboard": {
+        "string": "Copied color to clipboard"
+    },
+    "visual_bell.copy_as_file_type_failed_try_again": {
+        "string": "Copy as {fileType} failed | Try again"
+    },
+    "visual_bell.copy_as_png.retry": {
+        "string": "Retry"
+    },
+    "visual_bell.copy_as_png_failed": {
+        "string": "Failed to copy as PNG"
+    },
+    "visual_bell.copy_exclude_vote_stamp_from_selection": {
+        "string": "Didn’t copy votes"
+    },
+    "visual_bell.copy_failed": {
+        "string": "Copy failed. Your selection might be too large for the clipboard."
+    },
+    "visual_bell.copy_failed_only_vote_stamps": {
+        "string": "Can’t copy votes"
+    },
+    "visual_bell.copy_mobile": {
+        "string": "Copied to clipboard"
+    },
+    "visual_bell.cut_mobile": {
+        "string": "Cut to clipboard"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "community.actions.manifest_name_has_been_imported": {
+        "string": "{manifestName} has been imported"
+    },
+    "community.actions.widget_has_been_imported": {
+        "string": "Widget has been imported"
+    },
+    "community.actions.plugin_has_been_imported": {
+        "string": "Plugin has been imported"
+    },
+    "community.actions.an_error_occurred_while_trying_to_fetch_the_org_widgets_list": {
+        "string": "An error occurred while trying to fetch the organization's widgets list."
+    },
+    "community.actions.resource_is_invalid": {
+        "string": "Resource is invalid"
+    },
+    "community.actions.error_uploading_widget_icon_error": {
+        "string": "Error uploading widget icon: {error}"
+    },
+    "community.actions.error_uploading_plugin_icon_error": {
+        "string": "Error uploading plugin icon: {error}"
+    },
+    "community.actions.error_uploading_widget_artwork_image_error": {
+        "string": "Error uploading widget artwork image: {error}"
+    },
+    "community.actions.error_uploading_plugin_artwork_image_error": {
+        "string": "Error uploading plugin artwork image: {error}"
+    },
+    "community.actions.error_uploading_widget_snapshot_image_error": {
+        "string": "Error uploading widget snapshot image: {error}"
+    },
+    "community.actions.error_uploading_plugin_video_error": {
+        "string": "Error uploading plugin video: {error}"
+    },
+    "community.actions.error_finalizing_plugin_error": {
+        "string": "Error finalizing plugin: {error}"
+    },
+    "community.actions.the_published_resource_i_ds_do_not_match": {
+        "string": "The published resource IDs do not match"
+    },
+    "community.actions.plugin_id_is_invalid": {
+        "string": "plugin id is invalid"
+    },
+    "community.actions.file_too_large": {
+        "string": "File too large"
+    },
+    "community.actions.error_uploading_widget_code_error": {
+        "string": "Error uploading widget code: {error}"
+    },
+    "community.actions.error_uploading_plugin_code_error": {
+        "string": "Error uploading plugin code: {error}"
+    },
+    "community.actions.error_finalizing_widget_error": {
+        "string": "Error finalizing widget: {error}"
+    },
+    "community.actions.could_not_publish_plugin_error": {
+        "string": "Could not publish plugin: {error}"
+    },
+    "check_network_compatibility.error_bell.video_upload.message": {
+        "string": "Importing failed. Your network settings may need updating."
+    },
+    "community.publishing.could_not_publish_plugin_error": {
+        "string": "Could not publish plugin: {error}"
+    },
+    "community.actions.could_not_publish_widget_error": {
+        "string": "Could not publish widget: {error}"
+    },
+    "community.saves.plugin_saved": {
+        "string": "Plugin saved"
+    },
+    "community.saves.widget_saved": {
+        "string": "Widget saved"
+    },
+    "community.saves.plugin_saved_for_everyone_at": {
+        "string": "Plugin saved for everyone at {orgName}"
+    },
+    "community.saves.widget_saved_for_everyone_at": {
+        "string": "Widget saved for everyone at {orgName}"
+    },
+    "community.saves.plugin_saved_for_your_account_and_profile": {
+        "string": "Plugin saved to your Figma account and Community profile"
+    },
+    "community.saves.widget_saved_for_your_account_and_profile": {
+        "string": "Widget saved to your Figma account and Community profile"
+    },
+    "community.saves.plugin_saved_for_your_account": {
+        "string": "Plugin saved to your Figma account"
+    },
+    "community.saves.widget_saved_for_your_account": {
+        "string": "Widget saved to your Figma account"
+    },
+    "community.actions.unable_to_save_plugin_error": {
+        "string": "Unable to save plugin: {error}"
+    },
+    "community.actions.unable_to_save_widget_error": {
+        "string": "Unable to save widget: {error}"
+    },
+    "community.actions.unable_to_save_plugin_please_try_again": {
+        "string": "Unable to save plugin. Please try again."
+    },
+    "community.actions.unable_to_save_widget_please_try_again": {
+        "string": "Unable to save widget. Please try again."
+    },
+    "community.saves.plugin_removed_from_your_account": {
+        "string": "Plugin removed from your Figma account"
+    },
+    "community.saves.widget_removed_from_your_account": {
+        "string": "Widget removed from your Figma account"
+    },
+    "community.saves.plugin_removed_for_everyone_at": {
+        "string": "Plugin removed for everyone at {orgName}"
+    },
+    "community.saves.widget_removed_for_everyone_at": {
+        "string": "Widget removed for everyone at {orgName}"
+    },
+    "community.saves.plugin_removed_from_your_account_and_profile": {
+        "string": "Plugin removed from your Figma account and Community profile"
+    },
+    "community.saves.widget_removed_from_your_account_and_profile": {
+        "string": "Widget removed from your Figma account and Community profile"
+    },
+    "community.actions.an_error_occurred_accepting_invite_please_refresh_and_try_again": {
+        "string": "An error occurred accepting invite. Please refresh and try again."
+    },
+    "community.actions.an_error_occurred_while_removing_publisher_please_refresh_and_try_again": {
+        "string": "An error occurred while removing publisher. Please refresh and try again."
+    },
+    "fullscreen_actions.copied_to_clipboard": {
+        "string": "Copied to clipboard"
+    },
+    "copy_to_clipboard.emails_copied_to_clipboard": {
+        "string": "{numEmails, plural, one {{emailText} copied to your clipboard} other {{numEmails, number, integer} emails copied to your clipboard}}"
+    },
+    "copy_to_clipboard.link_to_selection_copied_to_clipboard": {
+        "string": "Link to selection copied to clipboard"
+    },
+    "whiteboard.timer.song_not_available_error": {
+        "string": "Looks like that song isn’t available. Try another!"
+    },
+    "tile.favoriting.file_removed_from_sidebar": {
+        "string": "File removed from your sidebar"
+    },
+    "tile.favoriting.file_removed_from_favorites": {
+        "string": "File removed from your favorites"
+    },
+    "tile.favoriting.file_added_to_sidebar": {
+        "string": "File added to your sidebar"
+    },
+    "tile.favoriting.file_added_to_favorites": {
+        "string": "File added to your favorites"
+    }
+}

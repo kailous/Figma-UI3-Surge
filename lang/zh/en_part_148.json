@@ -1,0 +1,152 @@
+{
+    "team_user.actions.team_members_request_to_upgrade_failed": {
+        "string": "An error occurred submitting a request to upgrade."
+    },
+    "general.figjam": {
+        "string": "FigJam"
+    },
+    "general.figma_design": {
+        "string": "Figma Design"
+    },
+    "team_user.actions.team_members_upgraded.seat_rename": {
+        "string": "{numTeamMembers, plural, one {{nameOrEmail}’s {productName} seat has been upgraded} other {{numTeamMembers} users’ {productName} seats have been upgraded}}"
+    },
+    "team_user.actions.team_members_downgraded_to_viewer.seat_rename": {
+        "string": "{numTeamMembers, plural, one {{nameOrEmail}’s {productName} seat has been downgraded to viewer} other {{numTeamMembers} users’ {productName} seats have been downgraded to viewer}}"
+    },
+    "team_user.actions.team_members_downgraded_to_viewer_restricted.seat_rename": {
+        "string": "{numTeamMembers, plural, one {{nameOrEmail}’s {productName} seat has been downgraded to viewer-restricted} other {{numTeamMembers} users’ {productName} seats have been downgraded to viewer-restricted}}"
+    },
+    "team_user.actions.an_error_occurred_while_changing_a_team_member_s_billing_status": {
+        "string": "An error occurred while changing a team member's billing status."
+    },
+    "team_user.actions.an_error_occurred_while_retrieving_fetching_the_list_of_users_on_this_team": {
+        "string": "An error occurred while fetching the list of users on this team."
+    },
+    "file_browser.file_browser_actions.logout_error_without_email": {
+        "string": "An error occurred while logging out"
+    },
+    "file_browser.file_browser_actions.successfully_logged_out": {
+        "string": "Successfully logged out of {emailAddress}"
+    },
+    "file_browser.file_browser_actions.logout_error_with_email": {
+        "string": "An error occurred while logging out of {emailAddress}"
+    },
+    "community.actions.unable_to_mark_all_as_read_error_message": {
+        "string": "Unable to mark all as read: {error}"
+    },
+    "comments.you_will_be_notified_about_file_comments": {
+        "string": "You will be notified about all new comments in this file."
+    },
+    "comments.you_will_be_notified_about_replies_and_at_mentions": {
+        "string": "You will be notified about replies and @mentions"
+    },
+    "comments.turn_on": {
+        "string": "Turn on"
+    },
+    "comments.get_notified_about_all_comments_prompt": {
+        "string": "Turn on notifications for all comments in this file?"
+    },
+    "dev_mode.you_will_be_notified_about_status_changes": {
+        "string": "You will be notified about status changes"
+    },
+    "voting.csv_export.filename_with_session_title": {
+        "string": "Vote on {date} — {votingSessionTitle}"
+    },
+    "voting.csv_export.filename_no_session_title": {
+        "string": "Vote on {date}"
+    },
+    "voting.visual_bell.end_voting_session_failed": {
+        "string": "Couldn’t end vote. Try again?"
+    },
+    "voting.visual_bell.start_voting_session_failed": {
+        "string": "Couldn’t start vote. Try again?"
+    },
+    "voting.modal.delete_voting_session_error": {
+        "string": "An error occurred while attempting to delete a voting session."
+    },
+    "voting.modal.delete_voting_session_visual_bell": {
+        "string": "Results deleted"
+    },
+    "presets.i_phone_14_and_15_pro_max": {
+        "string": "iPhone 14 & 15 Pro Max"
+    },
+    "presets.i_phone_14_and_15_pro": {
+        "string": "iPhone 14 & 15 Pro"
+    },
+    "presets.i_phone_13_and_14": {
+        "string": "iPhone 13 & 14"
+    },
+    "presets.desktop": {
+        "string": "Desktop"
+    },
+    "community.categories.wireframe": {
+        "string": "Wireframe"
+    },
+    "presets.slide_16_9": {
+        "string": "Slide 16:9"
+    },
+    "presets.slide_4_3": {
+        "string": "Slide 4:3"
+    },
+    "presets.twitter_post": {
+        "string": "Twitter post"
+    },
+    "presets.twitter_header": {
+        "string": "Twitter header"
+    },
+    "presets.facebook_post": {
+        "string": "Facebook post"
+    },
+    "presets.facebook_cover": {
+        "string": "Facebook cover"
+    },
+    "presets.instagram_post": {
+        "string": "Instagram post"
+    },
+    "presets.instagram_story": {
+        "string": "Instagram story"
+    },
+    "presets.dribbble_shot": {
+        "string": "Dribbble shot"
+    },
+    "presets.dribbble_shot_hd": {
+        "string": "Dribbble shot HD"
+    },
+    "presets.linked_in_cover": {
+        "string": "LinkedIn cover"
+    },
+    "presets.a_4": {
+        "string": "A4"
+    },
+    "presets.a_5": {
+        "string": "A5"
+    },
+    "presets.a_6": {
+        "string": "A6"
+    },
+    "presets.letter": {
+        "string": "Letter"
+    },
+    "presets.tabloid": {
+        "string": "Tabloid"
+    },
+    "presets.plugin_icon": {
+        "string": "Plugin icon"
+    },
+    "presets.profile_banner": {
+        "string": "Profile banner"
+    },
+    "presets.plugin_file_cover": {
+        "string": "Plugin / file cover"
+    },
+    "presets.i_phone_13_13_pro": {
+        "string": "iPhone 13 / 13 Pro"
+    },
+    "presets.i_phone_11_pro_x": {
+        "string": "iPhone 11 Pro / X"
+    },
+    "presets.i_pad_mini_5": {
+        "string": "iPad mini 5"
+    }
+}

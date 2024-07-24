@@ -1,0 +1,152 @@
+{
+    "team_view.add_annual_seats_modal.num_monthly_editor_seats.seat_rename": {
+        "string": "{designQuantity, plural, one {{productName} monthly seat} other {{productName} monthly seats}}"
+    },
+    "team_view.add_annual_seats_modal.billing_breakdown": {
+        "string": "{cost} × {seatsText} × {remainingMonthsText}"
+    },
+    "team_view.add_annual_seats_modal.billing_breakdown.remaining_months": {
+        "string": "{numMonths, plural, one {{numMonths} remaining month} other {{numMonths} remaining months}}"
+    },
+    "team_view.add_annual_seats_modal.billing_breakdown.seats": {
+        "string": "{seats, plural, one {{seats} seat} other {{seats} seats}}"
+    },
+    "team_view.add_annual_seats_modal.unused_seats_will_be_added": {
+        "string": "{unusedSeats, plural, one {{unusedSeats} unused {productName} seat will be added} other {{unusedSeats} unused {productName} seats will be added}}"
+    },
+    "settings_table.upgrade_to_the_professional_plan_or_to_an_organization_and_get_access_to_shared_team_libraries_advanced_security_features_and_more": {
+        "string": "Upgrade to the Professional plan or to an Organization and get access to shared team libraries, advanced security features and {more}"
+    },
+    "settings_table.more": {
+        "string": "more…"
+    },
+    "settings_table.to_keep_using_paid_features_like_unlimited_team_figma_files_projects_and_team_libraries_after_your_free_professional_plan_expires_on_date_purchase_the_professional_plan_for_your_team": {
+        "string": "To keep using paid features like unlimited team Figma files, projects, and team libraries after your free Professional plan expires on {date, date, long}, purchase the Professional plan for your team."
+    },
+    "settings_table.consolidate_your_teams_access_shared_libraries_enable_advanced_security_features_and_more": {
+        "string": "Consolidate your teams, access shared libraries, enable advanced security features, and {more}"
+    },
+    "team_view.settings_table.multiple_subscription_renewal": {
+        "string": "Your monthly subscription renews on {monthly_billing_date} and your annual subscription renews on {annual_billing_date}. We'll notify you beforehand."
+    },
+    "team_view.settings_table.billing_date": {
+        "string": "{billing_date}"
+    },
+    "team_view.settings_table.single_subscription_renewal_annual": {
+        "string": "Your annual subscription renews on {billing_date}. We'll notify you beforehand."
+    },
+    "team_view.settings_table.single_subscription_renewal_monthly": {
+        "string": "Your monthly subscription renews on {billing_date}. We'll notify you beforehand."
+    },
+    "team_view.settings_table.renewal_information_canceled_team_annual_and_monthly": {
+        "string": "Your monthly and annual Professional subscriptions have been canceled."
+    },
+    "team_view.settings_table.renewal_information_canceled_team_annual": {
+        "string": "Your annual Professional subscription has been canceled."
+    },
+    "team_view.settings_table.renewal_information_canceled_team_monthly": {
+        "string": "Your monthly Professional subscription has been canceled."
+    },
+    "settings_table.team_profile": {
+        "string": "Team Profile"
+    },
+    "settings_table.plan": {
+        "string": "Plan"
+    },
+    "settings_table.resources": {
+        "string": "Resources"
+    },
+    "settings_table.purchase_professional_plan": {
+        "string": "Purchase Professional plan"
+    },
+    "settings_table.upgrade_your_plan": {
+        "string": "Upgrade your plan"
+    },
+    "settings_table.reactivate_plan": {
+        "string": "Reactivate plan"
+    },
+    "settings_table.reactivate_your_subscription_of_professional": {
+        "string": "Reactivate your subscription of Professional"
+    },
+    "settings_table.add_annual_seats": {
+        "string": "Add annual seats"
+    },
+    "settings_table.you_can_simplify_your_billing_by_converting_your_monthly_seats_to_annual": {
+        "string": "You can simplify your billing by converting your monthly seats to annual"
+    },
+    "settings_table.change_annual_plan": {
+        "string": "Change annual plan"
+    },
+    "settings_table.you_can_change_the_number_of_seats_on_your_annual_plan_before_it_renews": {
+        "string": "You can change the number of seats on your annual plan before it renews"
+    },
+    "team_view.settings_table.add_annual_seats": {
+        "string": "Add additional seats"
+    },
+    "team_view.settings_table.add_annual_seats_description": {
+        "string": "Add additional annual seats for Figma design and FigJam"
+    },
+    "settings_table.cancel_plan": {
+        "string": "Cancel plan"
+    },
+    "settings_table.cancel_your_subscription_of_professional": {
+        "string": "Cancel your subscription of Professional"
+    },
+    "settings_table.change_payment_method": {
+        "string": "Change payment method"
+    },
+    "settings_table.change_and_update_the_payment_method_on_file": {
+        "string": "Change and update the payment method on file"
+    },
+    "settings_table.vat_gst": {
+        "string": "Value Added Tax / Goods and Services Tax"
+    },
+    "settings_table.change_vat_gst_id": {
+        "string": "Add a VAT or GST identification number if you are paying for this Figma plan as a business."
+    },
+    "settings_table.display_name.label": {
+        "string": "Display name"
+    },
+    "settings_table.names": {
+        "string": "Names"
+    },
+    "settings_table.change_display_name": {
+        "string": "Choose how your team’s name is displayed in Figma"
+    },
+    "settings_table.change_names": {
+        "string": "Choose how your team’s name is displayed in Figma and on invoices"
+    },
+    "team_view.settings_table.update_payment_details.payment_details": {
+        "string": "Payment details"
+    },
+    "team_view.settings_table.update_payment_details.update_payment_method": {
+        "string": "Update the payment method and billing address on file."
+    },
+    "team_view.settings_table.update_invoice_details.invoice_details": {
+        "string": "Invoice details"
+    },
+    "team_view.settings_table.update_invoice_details.update_invoice_details": {
+        "string": "Update the legal company name and shipping address to appear on your invoices."
+    },
+    "settings_table.team": {
+        "string": "team"
+    },
+    "checkout.tax_disclaimer": {
+        "string": "See your total (including taxes) in "
+    },
+    "checkout.review_in_tax_disclaimer": {
+        "string": "Review"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.design_editors": {
+        "string": "{numEditors, plural, one {# Figma design editor} other {# Figma design editors}}"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.figjam_editors": {
+        "string": "{numEditors, plural, one {# FigJam editor} other {# FigJam editors}}"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.subtotal_per_year": {
+        "string": "Subtotal (per year)"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.subtotal_per_month": {
+        "string": "Subtotal (per month)"
+    }
+}

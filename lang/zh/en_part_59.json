@@ -1,0 +1,152 @@
+{
+    "community.buyer.couldnt_fetch_existing_payment_method": {
+        "string": "Couldn't fetch existing payment method"
+    },
+    "community.buyer.couldnt_process_tax_information": {
+        "string": "Couldn't process tax information"
+    },
+    "community.buyer.purchase_complete": {
+        "string": "Purchase complete!"
+    },
+    "community.buyer.couldnt_complete_purchase": {
+        "string": "Couldn't complete purchase"
+    },
+    "community.buyer.hold_tight_while_we_process_your_payment": {
+        "string": "Hold tight while we process your payment"
+    },
+    "community.buyer.couldnt_process_payment_through_stripe": {
+        "string": "Couldn't process payment through Stripe"
+    },
+    "community.buyer.error_stripe": {
+        "string": "Error from Stripe: {message}"
+    },
+    "community.buyer.please_remain_on_the_page": {
+        "string": "Please remain on the page while your payment is processing"
+    },
+    "community.buyer.couldnt_remove_existing_payment_method": {
+        "string": "Couldn't remove existing payment method"
+    },
+    "general.edit": {
+        "string": "Edit"
+    },
+    "community.buyer.sub_percent_off__forever": {
+        "string": "{percent_off}% off forever"
+    },
+    "community.buyer.sub_percent_off": {
+        "string": "{duration, plural, one {{percent_off}% off for {duration} month} other {{percent_off}% off for {duration} months}}"
+    },
+    "community.buyer.otp_percent_off": {
+        "string": "{percent_off}% off"
+    },
+    "community.buyer.apply": {
+        "string": "Apply"
+    },
+    "community.buyer.enter_valid_promo_code": {
+        "string": "Enter valid promo code"
+    },
+    "community.buyer.promo_code": {
+        "string": "Promo code"
+    },
+    "community.buyer.complete_purchase": {
+        "string": "Complete purchase"
+    },
+    "community.buyer.by_purchasing_you_agree_to_the_terms_of_service": {
+        "string": "By purchasing, you agree to the {termsOfServiceLink}."
+    },
+    "general.terms_of_service": {
+        "string": "Terms of Service"
+    },
+    "community.buyer.sales_tax": {
+        "string": "Sales tax"
+    },
+    "community.buyer.jct": {
+        "string": "JCT"
+    },
+    "community.buyer.vat_gst": {
+        "string": "VAT/GST"
+    },
+    "community.buyer.price_x_month": {
+        "string": "{priceString} x 1 month"
+    },
+    "community.buyer.price_x_year": {
+        "string": "{priceString} x 1 year"
+    },
+    "community.buyer.subtotal": {
+        "string": "Subtotal"
+    },
+    "community.buyer.to_be_calculated": {
+        "string": "To be calculated"
+    },
+    "community.buyer.to_be_charged_on_date": {
+        "string": "To be charged on {date}"
+    },
+    "community.buyer.total_due_today": {
+        "string": "Total due today"
+    },
+    "community.buyer.total": {
+        "string": "Total"
+    },
+    "community.seller.usd": {
+        "string": "USD"
+    },
+    "community.buyer.tbd": {
+        "string": "TBD"
+    },
+    "community.buyer.payment_details": {
+        "string": "Payment details"
+    },
+    "community.buyer.add_new_card": {
+        "string": "Add new card"
+    },
+    "community.buyer.save_my_payment_info": {
+        "string": "Save my payment info"
+    },
+    "community.buyer.billing": {
+        "string": "Billing"
+    },
+    "community.buyer.monthly": {
+        "string": "Monthly"
+    },
+    "community.buyer.yearly": {
+        "string": "Yearly"
+    },
+    "community.buyer.save_percent": {
+        "string": "Save {discountPercentage}%"
+    },
+    "community.buyer.free_trial_then_price_month": {
+        "string": "{freeTrialDays} day free trial then {priceString}/month"
+    },
+    "community.buyer.free_trial_then_price_year": {
+        "string": "{freeTrialDays} day free trial then {priceString}/year"
+    },
+    "community.buyer.price_per_month_subscription": {
+        "string": "{priceString}/month subscription"
+    },
+    "community.buyer.price_per_year_subscription": {
+        "string": "{priceString}/year subscription"
+    },
+    "community.buyer.price_one_time_payment": {
+        "string": "{priceString} one-time payment"
+    },
+    "community.publishing.resource_by_author": {
+        "string": "{resourceName} by {authorName}"
+    },
+    "community.buyer.price_and_payment_cadence_will_appear_here": {
+        "string": "Price and payment cadence will appear here"
+    },
+    "community.buyer.you": {
+        "string": "you"
+    },
+    "community.buyer.ending_in": {
+        "string": "Ending in {last4}"
+    },
+    "community.buyer.exp": {
+        "string": "Exp. {expMonth}/{expYear}"
+    },
+    "general.remove": {
+        "string": "Remove"
+    },
+    "community.community_account_settings.vat_gst_id": {
+        "string": "VAT/GST ID: {vatGstId}"
+    }
+}

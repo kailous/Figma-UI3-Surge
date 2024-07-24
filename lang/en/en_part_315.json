@@ -1,0 +1,152 @@
+{
+    "file_browser.drafts_to_move.empty_header": {
+        "string": "All done. Nice job!"
+    },
+    "file_browser.drafts_to_move.empty_body_text": {
+        "string": "Feel free to hop around Figma—we'll get rid of this page for you."
+    },
+    "file_browser.drafts_to_move.empty_content_description": {
+        "string": "Let's head over to your {tab}."
+    },
+    "file_browser.drafts_to_move.bulk_delete_drafts_button": {
+        "string": "Delete forever"
+    },
+    "file_browser.drafts_to_move.bulk_trash_drafts_button": {
+        "string": "Delete"
+    },
+    "file_browser.drafts_to_move.bulk_move_drafts_button": {
+        "string": "{numSelected, plural, one {Move file} other {Move {numSelected} files}}"
+    },
+    "file_browser.drafts_to_move.viewbar_heading": {
+        "string": "Move these drafts to a new private space"
+    },
+    "file_browser.drafts_to_move.move_drafts_below": {
+        "string": "Move the drafts below into the new drafts section of one of your teams. Drafts will stay private to you and whoever you share them with."
+    },
+    "file_browser.drafts_to_move.drafts_for_personal_work": {
+        "string": "You can continue to create drafts for free. If you’re using drafts for personal work, you can move them to a free Starter plan you create for personal work."
+    },
+    "file_browser.drafts_to_move.access_to_drafts": {
+        "string": "No one will lose access to these files. Collaborators from outside your team will be reset to viewers so you have control over who gets an editor role on your team."
+    },
+    "file_browser.drafts_to_move.move_all_drafts_button": {
+        "string": "Move all drafts"
+    },
+    "file_browser.drafts_to_move.viewbar_learn_more_link": {
+        "string": "Learn more"
+    },
+    "file_browser.drafts_to_move.drafts": {
+        "string": "Drafts"
+    },
+    "file_browser.drafts_to_move.deleted_drafts": {
+        "string": "Deleted drafts"
+    },
+    "file_browser.drafts_to_move.table_header_name": {
+        "string": "Name"
+    },
+    "file_browser.drafts_to_move.table_header_last_modified": {
+        "string": "Last modified"
+    },
+    "file_browser.drafts_to_move.table_header_created": {
+        "string": "Created"
+    },
+    "file_browser.drafts_to_move.selected_count_files": {
+        "string": "{numSelected, plural, one {{numSelected} file selected} other {{numSelected} files selected}}"
+    },
+    "sidebar.browse.all_workspaces": {
+        "string": "All workspaces"
+    },
+    "sidebar.browse.all_teams": {
+        "string": "All teams"
+    },
+    "favorited_resources.custom_sections_banner_header": {
+        "string": "Customize your sidebar"
+    },
+    "favorited_resources.custom_sections_banner_body": {
+        "string": "Start by creating your first new section, or by clicking and dragging items between the default sections below"
+    },
+    "favorited_resources.custom_sections_banner_create_new_section_button": {
+        "string": "Create a new section"
+    },
+    "sidebar.workspaces": {
+        "string": "Workspaces"
+    },
+    "sidebar.teams": {
+        "string": "Teams"
+    },
+    "license_group_view.toolbar.create_team_disabled": {
+        "string": "Creating teams has been disabled by an admin"
+    },
+    "internal_profile.view_community_profile": {
+        "string": "View Community profile"
+    },
+    "file_browser.tool_bar.recently_viewed_empty_state": {
+        "string": "Files you have recently viewed will appear here."
+    },
+    "file_browser.team.no_permissions_message": {
+        "string": "Only members of {teamName} can see its projects and files."
+    },
+    "file_browser.team.please_join_team": {
+        "string": "For access, please join the team."
+    },
+    "file_browser.team.please_request_to_join_team": {
+        "string": "For access, please request to join the team."
+    },
+    "file_browser.team.request_to_join_team_is_pending": {
+        "string": "Your request to join {teamName} is pending."
+    },
+    "join_team_flash.auto_accept_team_invite_modal": {
+        "string": "You now have {inviteType} access to {teamName}."
+    },
+    "team_view.request_upgrade.request_already_sent": {
+        "string": "Request to upgrade already sent"
+    },
+    "file_browser.team_header.private_team_can_edit": {
+        "string": "Closed team · You can edit projects and files"
+    },
+    "file_browser.team_header.private_team_can_view": {
+        "string": "Closed team · You can view projects and files"
+    },
+    "file_browser.team_header.secret_team_can_edit": {
+        "string": "Secret team · You can edit projects and files"
+    },
+    "file_browser.team_header.secret_team_can_view": {
+        "string": "Secret team · You can view projects and files"
+    },
+    "team_view.settings.view_settings": {
+        "string": "View settings"
+    },
+    "team_view.settings.view_admin_console": {
+        "string": "Go to admin view"
+    },
+    "team_view.page_header_dropdown_label": {
+        "string": "Open team dropdown"
+    },
+    "file_browser.tool_bar.deleted_empty_state": {
+        "string": "You don't have any deleted files."
+    },
+    "file_browser.unavailable_view_resource_not_found": {
+        "string": "{capitalizedResourceNoun} not found"
+    },
+    "file_browser.unavailable_view_text": {
+        "string": "Either this {resourceNoun} doesn't exist or you don't have permission to view it. Ask the {resourceNoun} owner to verify the link and/or update permissions."
+    },
+    "file_browser.project": {
+        "string": "project"
+    },
+    "file_browser.workspace": {
+        "string": "workspace"
+    },
+    "file_browser.billing_group": {
+        "string": "billing group"
+    },
+    "file_browser.unavailable_view_resource": {
+        "string": "resource"
+    },
+    "file_browser.project_capitalized": {
+        "string": "Project"
+    },
+    "file_browser.team_capitalized": {
+        "string": "Team"
+    }
+}

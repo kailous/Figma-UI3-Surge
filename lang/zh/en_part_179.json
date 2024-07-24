@@ -1,0 +1,152 @@
+{
+    "whiteboard.inserts.widget_development_import_manifest": {
+        "string": "Import manifest"
+    },
+    "whiteboard.inserts.widget_development_error_modal_close": {
+        "string": "Close"
+    },
+    "universal_insert.in_development_version": {
+        "string": "In-development version"
+    },
+    "universal_insert.published_version": {
+        "string": "Published version"
+    },
+    "dev_handoff.inspect_panel.unpin": {
+        "string": "Unpin from top"
+    },
+    "dev_handoff.inspect_panel.pin": {
+        "string": "Pin to top"
+    },
+    "dev_handoff.inspect_panel.auto_run": {
+        "string": "Run automatically for all files"
+    },
+    "universal_insert.copy_link": {
+        "string": "Copy link"
+    },
+    "universal_insert.view_details": {
+        "string": "View details"
+    },
+    "universal_insert.locate_local_version": {
+        "string": "Locate local version…"
+    },
+    "browse_templates_modal_sidebar.get_started": {
+        "string": "Get started"
+    },
+    "browse_templates_modal.context_menu.copy_link": {
+        "string": "Copy link"
+    },
+    "browse_templates_modal.context_menu.view_original_file": {
+        "string": "View original file"
+    },
+    "browse_templates_modal_content.see_more_in_community": {
+        "string": "See more in Community"
+    },
+    "browse_templates_modal.view_details": {
+        "string": "View details"
+    },
+    "browse_templates_modal.my_teams_only": {
+        "string": "My teams only"
+    },
+    "browse_templates_modal.other_teams": {
+        "string": "Other teams"
+    },
+    "browse_templates_modal.my_teams": {
+        "string": "My teams"
+    },
+    "browse_templates_modal.all_others": {
+        "string": "All others"
+    },
+    "browse_templates_modal.published_from": {
+        "string": "Published from:"
+    },
+    "browse_templates_modal.published_by_current_org_name": {
+        "string": "Published by {orgName}"
+    },
+    "browse_templates_modal.none_selected": {
+        "string": "None selected"
+    },
+    "browse_templates_modal.all_workspaces": {
+        "string": "All workspaces"
+    },
+    "browse_templates_modal.all_teams": {
+        "string": "All teams"
+    },
+    "browse_templates_modal.first_name_count_more": {
+        "string": "{firstName} + {count} more"
+    },
+    "browse_templates_modal.subcategory.activity": {
+        "string": "By activity"
+    },
+    "browse_templates_modal.subcategory.role": {
+        "string": "By role"
+    },
+    "bug_reporter.warning_asana_board": {
+        "string": "Bug Reporter testing board"
+    },
+    "bug_reporter.modal.loading": {
+        "string": "Loading…"
+    },
+    "bug_reporter.drop_attachments": {
+        "string": "Drag and drop to add images, videos, or GIFs."
+    },
+    "bug_reporter.asana_hint": {
+        "string": "If you already have an Asana task for your bug, paste the link to attach environment metadata to the report."
+    },
+    "bug_reporter.modal.title": {
+        "string": "Title"
+    },
+    "bug_reporter.modal.severity": {
+        "string": "Severity"
+    },
+    "bug_reporter.modal.product_area": {
+        "string": "Product area"
+    },
+    "bug_reporter.modal.description": {
+        "string": "Description"
+    },
+    "bug_reporter.modal.images_and_videos": {
+        "string": "Images and videos"
+    },
+    "bug_reporter.profiler.title": {
+        "string": "Record a performance profile"
+    },
+    "bug_reporter.profiler.profile_attached": {
+        "string": "Profile attached"
+    },
+    "bug_reporter.modal.include_filekey_info": {
+        "string": "Uncheck this if your file contains private or sensitive content"
+    },
+    "bug_reporter.modal.cancel": {
+        "string": "Cancel"
+    },
+    "bug_reporter.success_message": {
+        "string": "Thanks for filing!"
+    },
+    "bug_reporter.asana_link": {
+        "string": "Open in Asana"
+    },
+    "bug_reporter.copy_link": {
+        "string": "Copy link"
+    },
+    "bug_reporter.urgent_bug_info": {
+        "string": "If this is an urgent bug please {notifyTheRelevantOncall}"
+    },
+    "bug_reporter.notify_oncall": {
+        "string": "notify the relevant oncall"
+    },
+    "bug_reporter.open_slack_discussion": {
+        "string": "Open Slack discussion"
+    },
+    "bug_reporter.error_invalid_asana_url": {
+        "string": "Invalid Asana URL"
+    },
+    "bug_reporter.submitting_visual_bell": {
+        "string": "Submitting…"
+    },
+    "bug_reporter.long_submitting_visual_bell": {
+        "string": "This may take a while. You may continue to work in the background."
+    },
+    "bug_reporter.modal.asana_link_placeholder": {
+        "string": "Asana link"
+    }
+}

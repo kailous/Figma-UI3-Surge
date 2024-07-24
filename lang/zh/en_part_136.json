@@ -1,0 +1,152 @@
+{
+    "search.search_filter.non_org_teams": {
+        "string": "External teams"
+    },
+    "rcs.search_workspace_onboarding_modal.title": {
+        "string": "Filter results by workspace"
+    },
+    "rcs.search_workspace_onboarding_modal.text": {
+        "string": "Get more refined search results for teams, projects, and files when you filter by workspace."
+    },
+    "search.facets.workspaces": {
+        "string": "Workspaces"
+    },
+    "fullscreen.view_mode.show_as_grid": {
+        "string": "Show as grid"
+    },
+    "fullscreen.view_mode.show_as_list": {
+        "string": "Show as list"
+    },
+    "auth.team_join_link.error_on_redeem": {
+        "string": "An error occurred while redeeming the invite link"
+    },
+    "auth.two-factor.sms-hint": {
+        "string": "SMS sent to number ending in {phoneNumber}"
+    },
+    "auth.input-validation.no-email": {
+        "string": "Please provide your email."
+    },
+    "auth.input-validation.invalid-email": {
+        "string": "Hmm, that email address doesn't look right."
+    },
+    "auth.input-validation.no-password": {
+        "string": "Please provide your password."
+    },
+    "auth.input-validation.long-password": {
+        "string": "OK, that password is hilariously long!"
+    },
+    "auth.input-validation.short-password": {
+        "string": "Please set a password longer than seven characters."
+    },
+    "auth.input-validation.email-is-password": {
+        "string": "Your email cannot be the same as your password."
+    },
+    "auth.input-validation.name-is-password": {
+        "string": "Your name cannot be the same as your password."
+    },
+    "auth.two-factor.code-hint-confirmation": {
+        "string": "Code was sent to number ending in {phoneNumber}"
+    },
+    "auth.add-another-account-with-link": {
+        "string": "If you don't see the account you want to use, you can {addAnotherLink}."
+    },
+    "auth.add-another-no-punctuation": {
+        "string": "add another one"
+    },
+    "user_onboarding_signals.answer.educator": {
+        "string": "Educator"
+    },
+    "user_onboarding_signals.answer.student": {
+        "string": "Student"
+    },
+    "new_user_experience.user_onboarding_signals.answer.student_or_educator": {
+        "string": "Student or educator"
+    },
+    "auth.extra-info.what-kind-of-work": {
+        "string": "What kind of work do you do?"
+    },
+    "auth.extra-info.what-kind-of-work-required": {
+        "string": "What kind of work do you do? (required)"
+    },
+    "checkout.dev_mode_included_text_formatted.dev_mode": {
+        "string": "Dev Mode"
+    },
+    "checkout.dev_mode_included_text_formatted.included": {
+        "string": "included"
+    },
+    "collaboration.branching.side_by_side": {
+        "string": "Side by side"
+    },
+    "collaboration.branching.overlay": {
+        "string": "Overlay"
+    },
+    "collaboration.branching.overlay_hide_after_image": {
+        "string": "Hide after-image"
+    },
+    "collaboration.branching.overlay_show_after_image": {
+        "string": "Show after-image"
+    },
+    "design_systems.instance_swap_picker.no_results": {
+        "string": "No results for ''{query}''"
+    },
+    "general.root_error_boundary_title_figjam": {
+        "string": "FigJam ran into a problem"
+    },
+    "general.time.just_now_past": {
+        "string": "just now"
+    },
+    "modal.are_you_sure": {
+        "string": "Are you sure?"
+    },
+    "community.change_profile_handle_modal.profile_handle_requirements": {
+        "string": "Up to 15 characters (letters, numbers, or _)"
+    },
+    "community.change_profile_handle_modal.review_our_community_guidelines_link": {
+        "string": "Review our Community guidelines"
+    },
+    "community.change_profile_handle_modal.profile_handle_is_available": {
+        "string": "''{profileHandle}'' is available!"
+    },
+    "community.change_profile_handle_modal.profile_handle_taken": {
+        "string": "''{profileHandle}'' is taken. Please choose another."
+    },
+    "tile.offline_file_tile.offline_created_file": {
+        "string": "Offline created file"
+    },
+    "general.an_error_occurred_while_performing_that_action": {
+        "string": "An error occurred while performing that action."
+    },
+    "viewer.menu_bar.open_in_figma_slides": {
+        "string": "Open in Figma Slides"
+    },
+    "slides.templates.modal.theme_picker.body": {
+        "string": "To ensure your template is simple to use, please select one theme to keep."
+    },
+    "slides.templates.modal.theme_picker.header": {
+        "string": "Let’s keep your template to a single style"
+    },
+    "slides.templates.modal.theme_picker.choose_theme_button": {
+        "string": "Select"
+    },
+    "slides.templates.publish_actions.toast.update_success": {
+        "string": "Template updates published"
+    },
+    "slides.templates.publish_actions.toast.publish_success": {
+        "string": "Template published"
+    },
+    "slides.templates.publish_actions.toast.publish_error": {
+        "string": "Failed to publish template"
+    },
+    "slides.templates.publish_actions.unpublishing": {
+        "string": "Unpublishing template"
+    },
+    "slides.templates.publish_actions.publishing": {
+        "string": "Publishing template"
+    },
+    "slides.templates.publish_actions.toast.offline_error": {
+        "string": "Can’t publish or update templates while offline"
+    },
+    "slides.templates.publish_actions.toast.no_items_error": {
+        "string": "Can’t publish empty template. Add at least one slide."
+    }
+}

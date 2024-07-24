@@ -1,0 +1,152 @@
+{
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_paid_design_and_figjam_seats_org": {
+        "string": "Moving a draft will change you to paid Figma design and FigJam seats in {planName}. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_design_seat_org": {
+        "string": "Moving a draft will change you to a paid Figma design seat in {planName}. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_figjam_seat_org": {
+        "string": "Moving a draft will change you to a paid FigJam seat in {planName}. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_paid_design_and_figjam_seats_in_your_team": {
+        "string": "Moving a draft will change you to paid Figma design and FigJam seats in your team. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_design_seat_in_your_team": {
+        "string": "Moving a draft will change you to a paid Figma design seat in your team. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_figjam_seat_in_your_team": {
+        "string": "Moving a draft will change you to a paid FigJam seat in your team. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_paid_design_and_figjam_seats_team": {
+        "string": "Moving a draft will change you to paid Figma design and FigJam seats in {planName}. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_design_seat_team": {
+        "string": "Moving a draft will change you to a paid Figma design seat in {planName}. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_figjam_seat_team": {
+        "string": "Moving a draft will change you to a paid FigJam seat in {planName}. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    },
+    "viewer_upgrade_awareness.creating_and_editing_a_board_will_move_you_to_a_paid_seat_org": {
+        "string": "Creating and editing a board will move you to a paid seat. Your organization won't be charged right away, and your admin can move you back to a free seat any time."
+    },
+    "viewer_upgrade_awareness.creating_and_editing_a_file_will_move_you_to_a_paid_seat_org": {
+        "string": "Creating and editing a file will move you to a paid seat. Your organization won't be charged right away, and your admin can move you back to a free seat any time."
+    },
+    "viewer_upgrade_awareness.creating_and_editing_a_board_will_move_you_to_a_paid_seat_team": {
+        "string": "Creating and editing a board will move you to a paid seat. Your team won't be charged right away, and your admin can move you back to a free seat any time."
+    },
+    "viewer_upgrade_awareness.creating_and_editing_a_file_will_move_you_to_a_paid_seat_team": {
+        "string": "Creating and editing a file will move you to a paid seat. Your team won't be charged right away, and your admin can move you back to a free seat any time."
+    },
+    "viewer_upgrade_awareness.continue": {
+        "string": "Continue"
+    },
+    "viewer_upgrade_awareness.go_back": {
+        "string": "Go back"
+    },
+    "fullscreen.filename_view.zoom-integration-popup-header-with-name": {
+        "string": "You joined {hostName}'s collaboration"
+    },
+    "fullscreen.filename_view.zoom-integration-popup-header": {
+        "string": "You joined the host's collaboration."
+    },
+    "fullscreen.filename_view.zoom-integration-popup-body": {
+        "string": "You can now use Figma app independently from others."
+    },
+    "org_guest_identifier.guest": {
+        "string": "{userName} (guest)"
+    },
+    "role_row.invite_sent": {
+        "string": "(Invite sent)"
+    },
+    "pro_cart.payment.dont_see_your_country": {
+        "string": "Don’t see your country?"
+    },
+    "pro_cart.payment.state": {
+        "string": "State"
+    },
+    "pro_cart.payment.street_address": {
+        "string": "Street address"
+    },
+    "pro_cart.payment.billing_address": {
+        "string": "Billing address"
+    },
+    "pro_cart.payment.shipping_address": {
+        "string": "Shipping address"
+    },
+    "pro_cart.payment.street_address_label": {
+        "string": "Address line 1"
+    },
+    "pro_cart.payment.street_address_line_2_label": {
+        "string": "Address line 2"
+    },
+    "pro_cart.payment.street_address_line_2": {
+        "string": "Apt, unit, suite, etc. (optional)"
+    },
+    "payments.united_states": {
+        "string": "United States"
+    },
+    "pro_cart.payment.city": {
+        "string": "City"
+    },
+    "pro_cart.payment.zip_code": {
+        "string": "Zip code"
+    },
+    "pro_cart.payment.province": {
+        "string": "Province"
+    },
+    "pro_cart.payment.postal_code": {
+        "string": "Postal code"
+    },
+    "pro_cart.payment.city_town_or_village": {
+        "string": "City / town / village"
+    },
+    "pro_cart.payment.province_or_region": {
+        "string": "Province / region"
+    },
+    "payments.file_limit_paywall_header_figjam": {
+        "string": "{maxFreeFiles, plural, one {{teamName} already has {maxFreeFiles} FigJam file.} other {{teamName} already has {maxFreeFiles} FigJam files.}}"
+    },
+    "payments.file_limit_paywall_header_figma": {
+        "string": "{maxFreeFiles, plural, one {{teamName} already has {maxFreeFiles} Figma file} other {{teamName} already has {maxFreeFiles} Figma files}}"
+    },
+    "payments.file_limit_paywall_text_figjam": {
+        "string": "{maxFreeFiles, plural, one {On the Starter plan, you’re limited to {maxFreeFiles} FigJam file for collaborating with your team.} other {On the Starter plan, you’re limited to {maxFreeFiles} FigJam files for collaborating with your team.}}"
+    },
+    "payments.file_limit_paywall_text_figma": {
+        "string": "{maxFreeFiles, plural, one {On the Starter plan, you’re limited to {maxFreeFiles} Figma file for collaborating with your team.} other {On the Starter plan, you’re limited to {maxFreeFiles} Figma files for collaborating with your team.}}"
+    },
+    "payments.file_limit_paywall_cta": {
+        "string": "If you’d like, you can always {createThisFile} instead. Or, {checkOutPaidPlans}."
+    },
+    "payments.file_limit_paywall_cta_create_this_file": {
+        "string": "create this file in your drafts"
+    },
+    "payments.file_limit_paywall_cta_check_out_paid_plans": {
+        "string": "check out our paid plans"
+    },
+    "payments.file_limit_cancel": {
+        "string": "Cancel"
+    },
+    "payments.file_limit_upgrade": {
+        "string": "Upgrade"
+    },
+    "org_self_serve.payment_step.different_shipping_address": {
+        "string": "I have a different shipping address"
+    },
+    "org_self_serve.payment_step.name_on_payment_method_label": {
+        "string": "Name on payment method"
+    },
+    "org_self_serve.payment_step.name_on_payment_method": {
+        "string": "Name on payment method"
+    },
+    "file_permissions_modal.invite_user_sharing_restricted": {
+        "string": "Figma has restricted you from sharing this file. Please email {supportSharingRestrictedEmail} for help."
+    },
+    "folder_permissions_modal.invite_user_sharing_restricted": {
+        "string": "Figma has restricted you from sharing this project. Please email {supportSharingRestrictedEmail} for help."
+    },
+    "team_view.team_permissions_modal.invite_user_sharing_restricted": {
+        "string": "Figma has restricted you from sending invites for this team. Please email {supportSharingRestrictedEmail} for help."
+    }
+}

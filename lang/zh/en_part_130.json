@@ -1,0 +1,152 @@
+{
+    "avatar.tooltip.other_user_handle": {
+        "string": "{handle}{roleName}"
+    },
+    "collaboration.voice.check_your_microphone_permissions_to_start_chatting": {
+        "string": "Check your microphone permissions to start chatting."
+    },
+    "collaboration.voice.click_to_unmute": {
+        "string": "Click to unmute"
+    },
+    "collaboration.voice.click_to_mute": {
+        "string": "Click to mute"
+    },
+    "fullscreen.toolbar.mute-audio-button": {
+        "string": "Mute audio"
+    },
+    "collaboration.voice.start_conversation": {
+        "string": "Start conversation"
+    },
+    "collaboration.voice.join": {
+        "string": "Join"
+    },
+    "collaboration.voice.join_conversation": {
+        "string": "Join conversation"
+    },
+    "collaboration.voice.audio_has_been_disabled_by_your_organization": {
+        "string": "Audio has been disabled by your organization"
+    },
+    "collaboration.voice.to_use_audio_in_this_file_move_it_to_a_team_on_one_of_our_paid_plans": {
+        "string": "To use audio in this file, move it to a team on one of our paid plans."
+    },
+    "file_browser.file_move.no_suggestions_yet_try_moving_your_files": {
+        "string": "No suggestions yet.{lineBreak}For now, try moving your files into the projects or teams you're most active in."
+    },
+    "file_browser.file_move.modal_header_move_file": {
+        "string": "Move file {fileName}"
+    },
+    "file_browser.file_move.no_project_or_team_results_matching_query": {
+        "string": "No project or team results matching"
+    },
+    "file_browser.file_move.drafts": {
+        "string": "Drafts"
+    },
+    "visual_bell.files_moved_to_folder": {
+        "string": "{fileCount, plural, one {{fileCount} file moved to {folderName}} other {{fileCount} files moved to {folderName}}}"
+    },
+    "file_browser.file_move.files_can_only_be_moved_within_the_same_organization": {
+        "string": "Files can only be moved within the same organization"
+    },
+    "file_browser.file_move.search_placeholder": {
+        "string": "Search"
+    },
+    "file_browser.file_move.no_folders_yet": {
+        "string": "No folders yet"
+    },
+    "file_browser.file_move.cant_move_a_file_into_another_file": {
+        "string": "Can’t move to a file into another file"
+    },
+    "sidebar.starred": {
+        "string": "Starred"
+    },
+    "file_browser.file_move.file_count": {
+        "string": "{fileCount, plural, one {1 file} other {{fileCount} files}}"
+    },
+    "file_browser.file_move.you_dont_have_edit_access_to_this_project": {
+        "string": "You don’t have edit access to this project"
+    },
+    "file_browser.file_move.current_location": {
+        "string": "Current location"
+    },
+    "file_browser.file_move.new_team": {
+        "string": "New team"
+    },
+    "file_browser.file_move.create_team": {
+        "string": "Create team"
+    },
+    "team_creation.create_team": {
+        "string": "Create team"
+    },
+    "team_creation.team_name_label": {
+        "string": "Team name"
+    },
+    "team_creation.writer_s_guild_placeholder": {
+        "string": "Ex. Writer's Guild"
+    },
+    "file_browser.file_move.you_dont_have_edit_access_to_this_team": {
+        "string": "You don’t have edit access to this team"
+    },
+    "file_browser.file_move.new_project": {
+        "string": "New project"
+    },
+    "view_selectors.file_browser.feed": {
+        "string": "Feed"
+    },
+    "view_selectors.file_browser.resource_unavailable": {
+        "string": "Resource unavailable"
+    },
+    "view_selectors.file_browser.recently_viewed": {
+        "string": "Recents and Sharing"
+    },
+    "view_selectors.file_browser.trash": {
+        "string": "Trash"
+    },
+    "view_selectors.file_browser.deleted_files": {
+        "string": "Deleted files"
+    },
+    "view_selectors.file_browser.create_new_team": {
+        "string": "Create new team"
+    },
+    "view_selectors.file_browser.add_an_annual_plan": {
+        "string": "Add an annual plan"
+    },
+    "view_selectors.file_browser.add_collaborators": {
+        "string": "Add collaborators"
+    },
+    "view_selectors.file_browser.org_domain_management": {
+        "string": "Org domain management"
+    },
+    "view_selectors.file_browser.org_admin": {
+        "string": "Org admin"
+    },
+    "view_selectors.file_browser.user": {
+        "string": "User"
+    },
+    "view_selectors.file_browser.recents_and_sharing": {
+        "string": "Recents and Sharing"
+    },
+    "view_selectors.file_browser.drafts_to_move": {
+        "string": "Drafts to move"
+    },
+    "view_selectors.file_browser.team": {
+        "string": "Team"
+    },
+    "view_selectors.file_browser.team_admin_console_with_name": {
+        "string": "{adminTeamName} Admin Console"
+    },
+    "view_selectors.file_browser.team_admin_console_generic": {
+        "string": "Team Admin Console"
+    },
+    "view_selectors.file_browser.team_upgrade_with_name": {
+        "string": "Upgrade {teamName}"
+    },
+    "view_selectors.file_browser.team_upgrade_generic": {
+        "string": "Upgrade Team"
+    },
+    "view_selectors.file_browser.search_results_with_query": {
+        "string": "Search results for ’{query}’"
+    },
+    "view_selectors.file_browser.search_results_generic": {
+        "string": "Search"
+    }
+}

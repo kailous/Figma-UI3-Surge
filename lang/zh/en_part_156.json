@@ -1,0 +1,152 @@
+{
+    "community.publishing.tags_cannot_have_consecutive_dashes_underscores_or_spaces": {
+        "string": "Tags cannot have consecutive dashes, underscores, or spaces"
+    },
+    "community.publishing.tags_cannot_be_longer_than_3_words": {
+        "string": "Tags cannot be longer than 3 words"
+    },
+    "community.publishing.tag_is_repeated_more_than_once": {
+        "string": "{tag} tag is repeated more than once"
+    },
+    "community.publishing.cannot_have_more_than_12_tags": {
+        "string": "Cannot have more than 12 tags"
+    },
+    "community.publishing.tagline_must_be_at_most_100_characters_long": {
+        "string": "Tagline must be at most 100 characters long"
+    },
+    "community.publishing.cannot_have_more_than_max_publishers": {
+        "string": "Cannot have more than {MAX_PUBLISHERS_PER_RESOURCE} creators"
+    },
+    "community.resource.by_x_others": {
+        "string": "{numPublishers} others"
+    },
+    "community.publishing.error_thumbnail_image_not_found": {
+        "string": "{filename} not found"
+    },
+    "community.publishing.error_thumbnail_image_wrong_format": {
+        "string": "{filename} must be a jpeg or png"
+    },
+    "community.publishing.error_thumbnail_image_too_large": {
+        "string": "{filename} exceeds max size of {max_size}MB"
+    },
+    "community.publishing.error_video_wrong_format": {
+        "string": "{filename} must be mp4, webm, or quicktime"
+    },
+    "community.publishing.error_thumbnail_image_not_found_no_filename": {
+        "string": "File not found"
+    },
+    "community.publishing.thumbnail_image": {
+        "string": "Thumbnail image"
+    },
+    "community.publishing.carousel_media_image": {
+        "string": "Carousel media image"
+    },
+    "community.publishing.error_video_too_long": {
+        "string": "{filename} exceeds max length of {max_length} seconds"
+    },
+    "community.publishing.error_video_thumbnail_not_found": {
+        "string": "Video thumbnail not found"
+    },
+    "community.actions.error_uploading_carousel_image_error": {
+        "string": "Error uploading carousel image: {error}"
+    },
+    "fullscreen.toolbar.log_in_to_do_more_with_figjam": {
+        "string": "Log in to do more with FigJam"
+    },
+    "slides.general.presenter": {
+        "string": "Presenter"
+    },
+    "slides.general.slide_deck": {
+        "string": "Audience"
+    },
+    "slides.general.slides": {
+        "string": "Figma Slides"
+    },
+    "file_browser.api_folder.an_error_occurred_while_renaming_this_project": {
+        "string": "An error occurred while renaming this project."
+    },
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_access": {
+        "string": "An error while updating the project's access."
+    },
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_sharing_audience_control": {
+        "string": "An error while updating the project's sharing audience control."
+    },
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_team_access": {
+        "string": "An error while updating the project's team access."
+    },
+    "file_browser.folder_move.project_moved_toast": {
+        "string": "The project {folderName} has been moved to {teamName}"
+    },
+    "file_browser.api_folder.an_error_occurred_while_moving_this_project": {
+        "string": "An error occurred while moving this project."
+    },
+    "file_browser.api_folder.no_create_permissions_team_name": {
+        "string": "You don't have permission to create projects in {teamName}."
+    },
+    "file_browser.api_folder.no_create_permissions_this_team": {
+        "string": "You don't have permission to create projects in this team."
+    },
+    "team_creation.an_error_occurred_while_creating_this_team": {
+        "string": "An error occurred while creating this team."
+    },
+    "team_creation.you_have_created_a_new_team": {
+        "string": "You have created a new team."
+    },
+    "change_team_name_visual_bell.text": {
+        "string": "{oldTeamName} has been renamed to {newTeamName}"
+    },
+    "change_team_name_visual_bell.undo": {
+        "string": "Undo"
+    },
+    "file_browser.team_settings.an_error_occurred_while_changing_default_permission": {
+        "string": "An error occurred while changing the default permission of this team."
+    },
+    "join_team_flash.as_owner.text": {
+        "string": "You're now the owner of {teamName}"
+    },
+    "join_team_flash.as_admin.text": {
+        "string": "You're now an admin of {teamName}"
+    },
+    "join_team_flash.text": {
+        "string": "You're now a member of {teamName}"
+    },
+    "join_team_batch_flash.as_owner.text": {
+        "string": "{teamCount, plural, one {You're now the owner of {teamCount} team} other {You're now the owner of {teamCount} teams}}"
+    },
+    "join_team_batch_flash.as_admin.text": {
+        "string": "{teamCount, plural, one {You're now an admin of {teamCount} team} other {You're now an admin of {teamCount} teams}}"
+    },
+    "join_team_batch_flash.text": {
+        "string": "{teamCount, plural, one {You're now a member of {teamCount} team} other {You're now a member of {teamCount} teams}}"
+    },
+    "navbar.workspaces.default_workspace_name": {
+        "string": "Figma"
+    },
+    "navbar.workspaces.default_org_workspace_name": {
+        "string": "Organization workspace"
+    },
+    "navbar.workspaces.default_team_workspace_name": {
+        "string": "Team workspace"
+    },
+    "navbar.profile_switcher.external_teams": {
+        "string": "External teams"
+    },
+    "navbar.profile_switcher.your_teams": {
+        "string": "Your teams"
+    },
+    "navbar.workspaces.notifications_label": {
+        "string": "Notifications"
+    },
+    "navbar.workspaces.community_notifications_label": {
+        "string": "Community notifications"
+    },
+    "user_notifications.org_notifications": {
+        "string": "{orgName} notifications"
+    },
+    "navbar.workspaces.external_teams_notifications_label": {
+        "string": "External team notifications"
+    },
+    "permissions.copy_link_button.visual_bell.copy_prototype_link_name": {
+        "string": "{name} prototype link copied"
+    }
+}

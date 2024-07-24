@@ -1,0 +1,152 @@
+{
+    "community.saves.save_this_resource_for_yourself": {
+        "string": "Save this resource for yourself"
+    },
+    "community.saves.save_for_everyone_at": {
+        "string": "Save for everyone at {orgName}"
+    },
+    "community.saves.remove_this_resource_for_everyone_at": {
+        "string": "Remove this resource for everyone at {orgName}"
+    },
+    "community.saves.save_this_resource_for_everyone_at": {
+        "string": "Save this resource for everyone at {orgName}"
+    },
+    "community.saves.file_saved_for_your_profile": {
+        "string": "File saved to your Community profile"
+    },
+    "community.saves.file_removed_from_your_profile": {
+        "string": "File removed from your Community profile"
+    },
+    "community.profiles.follower_count": {
+        "string": "{followerCount, plural, one {{formattedFollowerCount} follower} other {{formattedFollowerCount} followers}}"
+    },
+    "community.resource_tiles.by_author": {
+        "string": "by {author}"
+    },
+    "community.try.used_by_n_people": {
+        "string": "{num, plural, one {Used by {num} person} other {Used by {num} people}}"
+    },
+    "community.view_bar.updated_date": {
+        "string": "Updated {date}"
+    },
+    "community.profiles.no_resources_published_yet": {
+        "string": "No resources published yet"
+    },
+    "community.view": {
+        "string": "View"
+    },
+    "community.detail_view.resource_outside_of_figma": {
+        "string": "You'll need to pay for this resource outside of Figma."
+    },
+    "community.detail_view.bullet_point": {
+        "string": "•"
+    },
+    "community.detail_view.number_of_users": {
+        "string": "{numberOfUsers, plural, one {{numberOfUsers} user} other {{numberOfUsers} users}}"
+    },
+    "whiteboard.video.minimize_tooltip": {
+        "string": "Minimize"
+    },
+    "whiteboard.video.fullscreen_tooltip": {
+        "string": "Fullscreen"
+    },
+    "whiteboard.video.unmute_tooltip": {
+        "string": "Unmute"
+    },
+    "whiteboard.video.mute_tooltip": {
+        "string": "Mute"
+    },
+    "community.detail_view.figjam_board": {
+        "string": "FigJam board"
+    },
+    "community.detail_view.design_file": {
+        "string": "Design file"
+    },
+    "community.detail_view.prototype": {
+        "string": "Prototype"
+    },
+    "community.detail_view.slide_template": {
+        "string": "Figma Slides"
+    },
+    "community.detail_view.plugin": {
+        "string": "Plugin"
+    },
+    "community.detail_view.widget": {
+        "string": "Widget"
+    },
+    "community.buyer.price_per_year": {
+        "string": "{priceString}/yr"
+    },
+    "community.buyer.price_per_month": {
+        "string": "{priceString}/mo"
+    },
+    "community.buyer.refund_reason.doesnt_meet_needs": {
+        "string": "Didn’t do what I wanted it to"
+    },
+    "community.buyer.refund_reason.technical_issues": {
+        "string": "Technical issues"
+    },
+    "community.buyer.refund_reason.too_expensive": {
+        "string": "Too expensive"
+    },
+    "community.buyer.refund_reason.found_alternative": {
+        "string": "I found an alternative"
+    },
+    "community.buyer.refund_reason.other": {
+        "string": "Other"
+    },
+    "dev_handoff.code.lang_figma": {
+        "string": "Figma"
+    },
+    "dev_handoff.onboarding.pointer_modal.title": {
+        "string": "Hello, Dev Mode"
+    },
+    "dev_handoff.onboarding.pointer_modal.description": {
+        "string": "Taking ideas from design to development is now easier than ever. Introducing new ways to curate files for production and Dev Mode, a new space in Figma that makes dev work easier."
+    },
+    "dev_handoff.onboarding.pointer_modal.not_now_button": {
+        "string": "Not now"
+    },
+    "dev_handoff.onboarding.pointer_modal.primary_button": {
+        "string": "Try Dev Mode"
+    },
+    "dev_handoff.assets.instance": {
+        "string": "Component instance"
+    },
+    "fullscreen.properties_panel.export_disabled": {
+        "string": "Export disabled"
+    },
+    "fullscreen.export.export": {
+        "string": "Export"
+    },
+    "fullscreen.export.source": {
+        "string": "Source image file"
+    },
+    "fullscreen.export.layer_export": {
+        "string": "Layer export"
+    },
+    "dev_handoff.library.view": {
+        "string": "View in library"
+    },
+    "design_systems.instance_panel.go_to_main_component": {
+        "string": "Go to main component"
+    },
+    "dev_handoff.assets.show_more": {
+        "string": "{count, plural, one {Show {count} more asset} other {Show {count} more assets}}"
+    },
+    "dev_handoff.assets": {
+        "string": "Assets"
+    },
+    "dev_handoff.inspect_panel.plugins_hint": {
+        "string": "Plugins for Dev Mode let you customize Figma with new languages, enhanced inspection, and more."
+    },
+    "dev_handoff.vscode.hint.title": {
+        "string": "Figma for VS Code"
+    },
+    "dev_handoff.vscode.hint": {
+        "string": "Get code suggestions, inspect designs, and post comments—right from your IDE."
+    },
+    "dev_handoff.vscode.hint.link": {
+        "string": "Get extension"
+    }
+}

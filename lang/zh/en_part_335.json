@@ -1,0 +1,152 @@
+{
+    "community.promo.figjam_description_body": {
+        "string": "FigJam is a free collaborative whiteboarding tool. People share FigJam files like this one so you can copy, riff, and enjoy."
+    },
+    "community.promo.figma_description_body": {
+        "string": "Figma is a free collaborative design tool. People share Figma designs like this one so you can copy, riff, and enjoy."
+    },
+    "community.detail_view.in_app_purchases": {
+        "string": "In-app purchases: {priceString}"
+    },
+    "community.detail_view.last_updated_at_time_stamp": {
+        "string": "Last updated {timeStamp}"
+    },
+    "community.detail_view.support_contact": {
+        "string": "Support: {supportContact}"
+    },
+    "community.detail_view.creator_policy": {
+        "string": "Creator Policy"
+    },
+    "community.detail_view.creator_policy_publisher_name": {
+        "string": "From {publisherName}:"
+    },
+    "community.related_content.more_by_these_creators": {
+        "string": "More by these creators"
+    },
+    "community.related_content.more_by_this_creator": {
+        "string": "More by this creator"
+    },
+    "community.related_content.more_like_this": {
+        "string": "More like this"
+    },
+    "community.plugins.version_history": {
+        "string": "Version history"
+    },
+    "community.plugins.version_version_on_date": {
+        "string": "Version {versionName} on {createdAt}"
+    },
+    "community.plugins.see_all": {
+        "string": "See all"
+    },
+    "community.landing_page.devmode_filter_tooltip.title": {
+        "string": "Now available: Plugins for Dev Mode"
+    },
+    "community.landing_page.devmode_filter_tooltip.description": {
+        "string": "Find plugins that make it easier to turn Figma designs into code."
+    },
+    "community.landing_page.dropdown_filter__editor": {
+        "string": "Editor"
+    },
+    "community.landing_page.dropdown_filter__creators": {
+        "string": "Creators"
+    },
+    "community.landing_page.dropdown_filter__paid": {
+        "string": "Paid"
+    },
+    "community.landing_page.sort.paid_and_free": {
+        "string": "Paid + free"
+    },
+    "community.landing_page.sort.paid": {
+        "string": "Paid"
+    },
+    "community.landing_page.sort.free": {
+        "string": "Free"
+    },
+    "community.landing_page.dropdown_filter__resource_type": {
+        "string": "Resource type"
+    },
+    "community.curated_page.sort": {
+        "string": "Sort"
+    },
+    "community.seller.no_payout_statements_yet": {
+        "string": "You have no payment statements yet. Payout statements are generated on a monthly cadence. Please check back later."
+    },
+    "community.seller.click_to_download_statements": {
+        "string": "Click to download CSVs of your monthly statements"
+    },
+    "community.seller.payout_statement_error": {
+        "string": "Unable to get payout statements. Please try again later or contact support"
+    },
+    "community.seller.community_payout_statements": {
+        "string": "Community payout statements"
+    },
+    "community.profiles.copy_profile_link": {
+        "string": "Copy profile link"
+    },
+    "community.profiles.restrict_user": {
+        "string": "Restrict user"
+    },
+    "community.profiles.unrestrict_user": {
+        "string": "Unrestrict user"
+    },
+    "workspace_view.description_modal.subtitle": {
+        "string": "Descriptions can be seen from {allWorkspacesText} in your sidebar."
+    },
+    "workspace_view.description_modal.title": {
+        "string": "Edit this description"
+    },
+    "workspace_view.description.placeholder": {
+        "string": "Add details about this workspace"
+    },
+    "workspace_view.description.save": {
+        "string": "Save"
+    },
+    "workspace_view.description_update_updated": {
+        "string": "Workspace description updated"
+    },
+    "workspace_view.description_update_error": {
+        "string": "An error occurred while updating the workspace description."
+    },
+    "file_browser.choose_file_modal.no_files_matching_query": {
+        "string": "No files matching {searchQuery} in this workspace"
+    },
+    "file_browser.choose_file_modal.no_files_found": {
+        "string": "No files found"
+    },
+    "file_browser.pinning.no_pinned_files": {
+        "string": "No pinned files, yet."
+    },
+    "tile.file_tile.pin_opens": {
+        "string": "{numOpens, plural, one {{numOpens} open} other {{numOpens} opens}}"
+    },
+    "sidebar.delete": {
+        "string": "Delete"
+    },
+    "file_browser.copy_link_to_team": {
+        "string": "Copy link to team"
+    },
+    "file_browser.copy_link_to_workspace": {
+        "string": "Copy link to workspace"
+    },
+    "file_browser.copy_link_to_project": {
+        "string": "Copy link to project"
+    },
+    "sidebar.if_you_delete_section_the_section": {
+        "string": "The {count} {item} in {section} will be removed from your sidebar, but you can always re-add {pronoun} later."
+    },
+    "sidebar.items": {
+        "string": "items"
+    },
+    "sidebar.item": {
+        "string": "item"
+    },
+    "sidebar.them": {
+        "string": "them"
+    },
+    "sidebar.it": {
+        "string": "it"
+    },
+    "org_upgrade.multi_team.bring_your_teams_together_with_the_figma_organization_plan": {
+        "string": "Bring your teams together with the Figma Organization plan"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "slides.properties_panel.link_panel.placeholder": {
+        "string": "Add URL or slide number"
+    },
+    "slides.properties_panel.opacity": {
+        "string": "Opacity"
+    },
+    "slides.properties_panel.shadow": {
+        "string": "Shadow"
+    },
+    "slides.properties_panel.shadow_style": {
+        "string": "Style"
+    },
+    "slides.properties_panel.shadow_style_none": {
+        "string": "No shadow"
+    },
+    "slides.properties_panel.shadow_style_light": {
+        "string": "Low"
+    },
+    "slides.properties_panel.shadow_style_medium": {
+        "string": "Medium"
+    },
+    "slides.properties_panel.shadow_style_strong": {
+        "string": "High"
+    },
+    "slides.properties_panel.shadow_opacity": {
+        "string": "Shadow weight"
+    },
+    "slides.properties_panel.theme.panel_title": {
+        "string": "Template style"
+    },
+    "slides.properties_panel.theme.shuffle_no_change_visual_bell": {
+        "string": "Nothing on this slide uses template colors"
+    },
+    "slides.properties_panel.theme.no_swap_available": {
+        "string": "Remix options exhausted"
+    },
+    "slides.properties_panel.text.show_details": {
+        "string": "Show details"
+    },
+    "slides.properties_panel.text.weight_label": {
+        "string": "Weight"
+    },
+    "slides.properties_panel.text.font_size_label": {
+        "string": "Size"
+    },
+    "slides.properties_panel.text.bold": {
+        "string": "Bold"
+    },
+    "slides.properties_panel.text.italic": {
+        "string": "Italic"
+    },
+    "slides.properties_panel.text.underline": {
+        "string": "Underline"
+    },
+    "slides.properties_panel.text.unordered_list": {
+        "string": "Bulleted list"
+    },
+    "design_systems.create_style.new_folder": {
+        "string": "New folder"
+    },
+    "design_systems.create_style.untitled_folder": {
+        "string": "Untitled"
+    },
+    "variables.local_variables_panel.local_variables_title": {
+        "string": "Local variables"
+    },
+    "variables.local_variables_panel.open_variables_button_tooltip": {
+        "string": "Open variables"
+    },
+    "fullscreen.properties_panel.page": {
+        "string": "Page"
+    },
+    "fullscreen.properties_panel.show_in_exports": {
+        "string": "Show in exports"
+    },
+    "fullscreen.properties_panel.include_the_canvas_or_group_background_in_exports": {
+        "string": "Include the canvas or group background in exports"
+    },
+    "fullscreen.properties_panel.background": {
+        "string": "Background"
+    },
+    "fullscreen.properties_panel.go_to_style_definition_to_edit": {
+        "string": "Go to style definition to edit"
+    },
+    "fullscreen.appearance_panel.appearance": {
+        "string": "Appearance"
+    },
+    "fullscreen.properties_panel.section_appearance.label_opacity": {
+        "string": "Opacity"
+    },
+    "fullscreen.layer_panel.layer": {
+        "string": "Layer"
+    },
+    "fullscreen.layer_panel.replace_mixed_visibility": {
+        "string": "Click {svg} to replace mixed visibility"
+    },
+    "fullscreen.mask_panel.mask": {
+        "string": "Mask"
+    },
+    "fullscreen.mask_panel.alpha": {
+        "string": "Alpha"
+    },
+    "fullscreen.mask_panel.vector": {
+        "string": "Vector"
+    },
+    "fullscreen.mask_panel.luminance": {
+        "string": "Luminance"
+    },
+    "fullscreen.mask_panel.alpha_extended": {
+        "string": "Alpha (use transparency)"
+    },
+    "fullscreen.mask_panel.vector_extended": {
+        "string": "Vector (use shape outlines)"
+    },
+    "fullscreen.mask_panel.luminance_extended": {
+        "string": "Luminance (use brightness)"
+    },
+    "fullscreen.remove_group_fill_and_stroke.background_color_group_unsupported": {
+        "string": "Background colors on groups are no longer supported. Convert the group to a frame to change the color."
+    },
+    "fullscreen.properties_panel.section_stroke.label_end_cap": {
+        "string": "End Cap"
+    },
+    "fullscreen.pencil_tool.advanced_stroke_settings": {
+        "string": "Advanced stroke settings"
+    },
+    "fullscreen.pencil_tool.stroke": {
+        "string": "Stroke"
+    },
+    "fullscreen.pencil_tool.hold_shift_to_draw_straight_lines": {
+        "string": "Hold Shift to draw straight lines"
+    },
+    "fullscreen.pencil_tool.now_vertical_horizontal_and_diagonal_lines_are_a_breeze": {
+        "string": "Now vertical, horizontal, and diagonal lines are a breeze."
+    },
+    "proto.interaction_list.variant_interactions": {
+        "string": "Variant interactions"
+    },
+    "proto.title_interactions": {
+        "string": "Interactions"
+    },
+    "proto.prototype_panel.this_interaction_must_swap_from_a_variant_to_another_variant_within_the_same_component_set_tooltip": {
+        "string": "This interaction must swap from a variant to another variant within the same component set."
+    },
+    "proto.prototype_panel.prototype_multiple_interactions_mouse_and_hover_tooltip": {
+        "string": "This interaction will not be triggered as another one will be triggered first."
+    },
+    "proto.prototype_panel.this_interaction_will_not_be_triggered_as_interactions_on_instances_are_triggered_before_inherited_internal_interactions_tooltip": {
+        "string": "This interaction will not be triggered as interactions on instances are triggered before inherited internal interactions."
+    }
+}

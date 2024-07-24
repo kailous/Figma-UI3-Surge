@@ -1,0 +1,152 @@
+{
+    "help_widget.pro_trials.stack_of_cards_widget.pro.title": {
+        "string": "Welcome to your trial"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.pro.description": {
+        "string": "You have some excellent features at your service. "
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.password.title": {
+        "string": "Add a password"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.password.description": {
+        "string": "Make sure only certain people can access your files."
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.password.hover_text": {
+        "string": "Set a password"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.library.title": {
+        "string": "Create a library"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.library.description": {
+        "string": "Create a component library to quickly re-use UI and styles."
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.library.hover_text": {
+        "string": "Team libraries"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.audio.title": {
+        "string": "Talk it out"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.audio.description": {
+        "string": "Start an audio chat to hold meetings right in your file."
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.audio.hover_text": {
+        "string": "Audio chat"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.jam.title": {
+        "string": "Jam openly"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.jam.description": {
+        "string": "Invite people to your FigJams without requiring signup."
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.jam.hover_text": {
+        "string": "Open sessions"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.unlimited_pages.title": {
+        "string": "Unlimited everything"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.unlimited_pages.description": {
+        "string": "You can create unlimited files and pages on your Professional trial."
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.unlimited_pages.hover_text": {
+        "string": "Unlimited pages"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.video.title": {
+        "string": "Add videos to your design"
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.video.description": {
+        "string": "Make your designs more realistic by adding videos to your prototypes."
+    },
+    "help_widget.pro_trials.stack_of_cards_widget.video.hover_text": {
+        "string": "Prototype with videos"
+    },
+    "quick_reply.unable_to_load_thread": {
+        "string": "Unable to load comment thread"
+    },
+    "community.universal_posting_modal.desktop_callout.plugins": {
+        "string": "To view plugins, use the desktop app."
+    },
+    "community.universal_posting_modal.desktop_callout.widgets": {
+        "string": "To view widgets, use the desktop app."
+    },
+    "community.universal_posting_modal.desktop_open": {
+        "string": "Open desktop app"
+    },
+    "community.universal_posting_modal.desktop_get": {
+        "string": "Get desktop app"
+    },
+    "community.universal_posting_modal.plugin_info.unavailable": {
+        "string": "Plugins unavailable."
+    },
+    "community.universal_posting_modal.plugin_info.available": {
+        "string": "{numPlugins, plural, one {{numPlugins} plugin available.} other {{numPlugins} plugins available.}}"
+    },
+    "community.universal_posting_modal.widget_info.unavailable": {
+        "string": "Widgets unavailable."
+    },
+    "community.universal_posting_modal.widget_info.available": {
+        "string": "{numWidgets, plural, one {{numWidgets} widget available.} other {{numWidgets} widgets available.}}"
+    },
+    "community.universal_posting_modal.file_info.available": {
+        "string": "{numFiles, plural, one {{numFiles} file available.} other {{numFiles} files available.}}"
+    },
+    "community.view_bar.files": {
+        "string": "Files"
+    },
+    "community.view_bar.plugins": {
+        "string": "Plugins"
+    },
+    "community.view_bar.widgets": {
+        "string": "Widgets"
+    },
+    "community.universal_posting_modal.footer.choose_resource": {
+        "string": "Choose a resource to publish to Community. Prototypes can only be published from the file editor. "
+    },
+    "community.universal_posting_modal.footer.learn_more": {
+        "string": "Learn more."
+    },
+    "general.next": {
+        "string": "Next"
+    },
+    "user_notifications.today": {
+        "string": "Today"
+    },
+    "user_notifications.yesterday": {
+        "string": "Yesterday"
+    },
+    "user_notifications.last_7_days": {
+        "string": "Last 7 days"
+    },
+    "user_notifications.older": {
+        "string": "Older"
+    },
+    "user_notifications.pending": {
+        "string": "Pending"
+    },
+    "user_notifications.done": {
+        "string": "Done"
+    },
+    "user_notification.an_error_occurred_while_clicking_this_notification": {
+        "string": "An error occurred while clicking this notification."
+    },
+    "user_notification.an_error_occurred_while_removing_this_notification": {
+        "string": "An error occurred while removing this notification."
+    },
+    "user_notifications.dropdown.no_notifications": {
+        "string": "You don't have any notifications."
+    },
+    "user_notifications.dropdown.mark_all_as_read": {
+        "string": "Mark all as read"
+    },
+    "user_notification.an_error_occurred_while_fetching_your_community_notifications": {
+        "string": "An error occurred while fetching your community notifications"
+    },
+    "user_notification.an_error_occurred_while_fetching_your_notifications": {
+        "string": "An error occurred while fetching your notifications"
+    },
+    "user_notification.an_error_occurred_marking_all_as_read": {
+        "string": "An error occurred while marking all the notifications as read."
+    },
+    "user_notifications.unread_empty": {
+        "string": "Unread"
+    }
+}

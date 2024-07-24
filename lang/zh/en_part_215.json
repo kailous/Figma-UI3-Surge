@@ -1,0 +1,152 @@
+{
+    "new_user_experience.choose_plan_card.org.everything_in_teams_plus": {
+        "string": "Everything in Professional, plus..."
+    },
+    "new_user_experience.choose_plan_card.org.unlimited_teams": {
+        "string": "✓ Unlimited teams"
+    },
+    "new_user_experience.choose_plan_card.org.single_sign_on": {
+        "string": "✓ Single sign-on"
+    },
+    "new_user_experience.choose_plan_card.org.libraries": {
+        "string": "✓ Org-wide libraries"
+    },
+    "new_user_experience.choose_plan_card.org.design_system_analytics": {
+        "string": "✓ Design system analytics"
+    },
+    "new_user_experience.choose_plan_card.org.branching_and_merging": {
+        "string": "✓ Branching and merging"
+    },
+    "new_user_experience.choose_plan_card.org.admin_and_billing": {
+        "string": "✓ Unified admin and billing"
+    },
+    "new_user_experience.choose_product.title": {
+        "string": "What would you like to do first?"
+    },
+    "new_user_experience.choose_product.title.figma": {
+        "string": "Design with Figma"
+    },
+    "new_user_experience.choose_product.description.figma": {
+        "string": "Design, prototype, and hand off to developers"
+    },
+    "new_user_experience.choose_product.title.figjam": {
+        "string": "Whiteboard in FigJam"
+    },
+    "new_user_experience.choose_product.description.figjam": {
+        "string": "Whiteboard, brainstorm, and diagram together"
+    },
+    "new_user_experience.choose_product.title.slides": {
+        "string": "Present with Figma Slides"
+    },
+    "new_user_experience.choose_product.description.slides": {
+        "string": "Co-create and share stunning presentations"
+    },
+    "new_user_experience.user_onboarding_signals.figjam_whiteboard.title.creative_brief": {
+        "string": "Creative Brief"
+    },
+    "new_user_experience.user_onboarding_signals.figjam_whiteboard.title.pitch_file": {
+        "string": "Pitch File"
+    },
+    "new_user_experience.user_onboarding_signals.whiteboard.title.assignment": {
+        "string": "Assignment"
+    },
+    "new_user_experience.user_onboarding_signals.whiteboard.title.agency_project": {
+        "string": "Agency Project"
+    },
+    "new_user_experience.user_onboarding_signals.whiteboard.title.founding_file": {
+        "string": "Founding File"
+    },
+    "new_user_experience.user_onboarding_signals.whiteboard.title.freelance_file": {
+        "string": "Freelance File"
+    },
+    "new_user_experience.user_onboarding_signals.whiteboard.title.work_project": {
+        "string": "Work Project"
+    },
+    "new_user_experience.user_onboarding_signals.whiteboard.title.bootcamp": {
+        "string": "Boot Camp Project"
+    },
+    "new_user_experience.username_file_type": {
+        "string": "{userName}'s {type}"
+    },
+    "new_user_experience.first_username_file_type": {
+        "string": "{userName}'s First {type}"
+    },
+    "new_user_experience.first_file_username": {
+        "string": "{userName}'s First File"
+    },
+    "new_user_experience.first_file_type": {
+        "string": "My First {type}"
+    },
+    "new_user_experience.my_first_file": {
+        "string": "My First File"
+    },
+    "new_user_experience.choose_plan_selected.free": {
+        "string": "Free"
+    },
+    "new_user_experience.choose_plan_selected.pro": {
+        "string": "Pro"
+    },
+    "rcs.team_welcome.send_invites": {
+        "string": "Send invites"
+    },
+    "new_user_experience.finish": {
+        "string": "Finish"
+    },
+    "new_user_experience.button.continue": {
+        "string": "Continue"
+    },
+    "rcs.team_welcome.invite_sent": {
+        "string": "{numInvites, plural, one {Invite sent.} other {Invites sent.}}"
+    },
+    "new_user_experience.button.skip": {
+        "string": "Skip"
+    },
+    "new_user_experience.what_is_your_name.title": {
+        "string": "What is your name?"
+    },
+    "new_user_experience.what_is_your_name.description": {
+        "string": "This is how you'll show up in Figma files"
+    },
+    "rcs.team_welcome.not_a_valid_address": {
+        "string": "Not a valid address"
+    },
+    "new_user_experience.invite_your_collaborators.title": {
+        "string": "Want to invite some collaborators?"
+    },
+    "new_user_experience.invite_your_collaborators.description": {
+        "string": "Invite them to your team to design, brainstorm, and build together"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.fun": {
+        "string": "Woooo!"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.starting_new_job_project": {
+        "string": "Here we go!"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.looking_for_tool": {
+        "string": "Taking care of business"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.setting_up_for_team": {
+        "string": "Hey everyone!"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.just_checking_things_out": {
+        "string": "¯\\_(ツ)_/¯"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.using_it_for_school": {
+        "string": "Ready for class!"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.brainstorms": {
+        "string": "The more brains the better!"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.diagramming": {
+        "string": "Here we go!"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.learning": {
+        "string": "Creativity unlocked"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.meetings": {
+        "string": "First order of business..."
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.projects": {
+        "string": "Let's get down to business"
+    }
+}

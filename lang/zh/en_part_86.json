@@ -1,0 +1,152 @@
+{
+    "design_systems.libraries_modal.choose_library": {
+        "string": "Choose library"
+    },
+    "design_systems.libraries_modal.back_to_library": {
+        "string": "Back to library"
+    },
+    "design_systems.libraries_modal.swap_asset": {
+        "string": "Swap asset"
+    },
+    "design_systems.libraries_modal.this_action_will_remove_all_of_the_components_in_this_file_from_the_library": {
+        "string": "This action will remove all of the components in this file from the library."
+    },
+    "design_systems.internal_community_library_unpublish": {
+        "string": "(Internal) Unpublish community library"
+    },
+    "design_systems.libraries_modal.remove_library": {
+        "string": "Remove"
+    },
+    "design_systems.libraries_modal.remove_library_modal_title": {
+        "string": "Remove from library?"
+    },
+    "design_systems.libraries_modal.unpublishing": {
+        "string": "Unpublishing"
+    },
+    "design_systems.libraries_modal.publishing": {
+        "string": "Publishing"
+    },
+    "design_systems.internal_community_unpublish_warning": {
+        "string": "Unpublishing the Community library will prevent its assets from being seen in all asset consumption surfaces! If this is a UI kit, it will impact all Figma users. Be sure you want to do this."
+    },
+    "design_systems.shared_fonts.apply_to_all_remaining_uploads": {
+        "string": "{numRemainingUploads, plural, one {Apply to 1 remaining upload} other {Apply to {numRemainingUploads} remaining uploads}}"
+    },
+    "design_systems.shared_fonts.don_t_replace": {
+        "string": "Don't replace"
+    },
+    "design_systems.shared_fonts.replace": {
+        "string": "Replace"
+    },
+    "design_systems.shared_fonts.family_info_with_version": {
+        "string": "{fontFamily}, {fontStyle} v{fontVersion}"
+    },
+    "design_systems.shared_fonts.family_info_without_version": {
+        "string": "{fontFamily}, {fontStyle}"
+    },
+    "design_systems.shared_fonts.updated_at_date": {
+        "string": "{updatedAt, date, short}"
+    },
+    "design_systems.shared_fonts.just_now": {
+        "string": "Just now"
+    },
+    "design_systems.shared_fonts.team_fonts_override_warning_1": {
+        "string": "{fontFamily} {fontStyle} has already been added to {listOfTeams}. In new text objects, the font shared with the organization will be used instead of fonts uploaded to teams."
+    },
+    "design_systems.shared_fonts.team_fonts_override_warning_2": {
+        "string": "Organization fonts take precedence over fonts uploaded to individual teams; any text objects created using this font will use the organization-shared font."
+    },
+    "design_systems.shared_fonts.team_fonts_override_warning_3": {
+        "string": "To use the team version of the font, you will need to remove the font from the organization."
+    },
+    "design_systems.shared_fonts.okay": {
+        "string": "Okay"
+    },
+    "design_systems.shared_fonts.are_you_sure_you_want_to_delete": {
+        "string": "{numFonts, plural, one {Are you sure you want to delete 1 font?} other {Are you sure you want to delete {numFonts} fonts?}}"
+    },
+    "design_systems.shared_fonts.confirm": {
+        "string": "Confirm"
+    },
+    "design_systems.shared_fonts.cancel": {
+        "string": "Cancel"
+    },
+    "design_systems.shared_fonts.replacing_fonts_modal_title": {
+        "string": "Replacing fonts"
+    },
+    "design_systems.shared_fonts.you_already_have_a_font_with_this_name": {
+        "string": "You already have a font with this name."
+    },
+    "design_systems.shared_fonts.team_fonts_will_be_overridden": {
+        "string": "Team fonts will be overridden"
+    },
+    "design_systems.shared_fonts.i_own_the_fonts_i_am_uploading_or_have_the_right_to_distribute_copies_to_others_and_to_authorize_the_use_of_copies_with_figma": {
+        "string": "I own the fonts I am uploading, or have the right to distribute copies to others and to authorize the use of copies with Figma."
+    },
+    "design_systems.shared_fonts.upload": {
+        "string": "Upload"
+    },
+    "design_systems.shared_fonts.uploading_n_fonts": {
+        "string": "{numFonts, plural, one {Upload Font} other {Upload {numFonts} Fonts}}"
+    },
+    "design_systems.shared_fonts.confirm_delete": {
+        "string": "Confirm delete"
+    },
+    "design_systems.shared_fonts.replace_warning_new_variable_font_all_collsions_variable": {
+        "string": "{numCollisions, plural, one {Do you want to replace the existing variable font with the new font?} other {Do you want to replace the existing variable fonts with the new font?}}"
+    },
+    "design_systems.shared_fonts.replace_warning_new_variable_font_all_collisions_non_variable": {
+        "string": "{numCollisions, plural, one {Do you want to replace the existing non-variable font with the new variable font? Variable fonts will give editors more options for text styles.} other {Do you want to replace the existing non-variable fonts with the new variable font? Variable fonts will give editors more options for text styles.}}"
+    },
+    "design_systems.shared_fonts.replace_warning_new_variable_font": {
+        "string": "{numCollisions, plural, one {Do you want to replace the existing font with the new font? Variable fonts will give editors more options for text styles.} other {Do you want to replace the existing fonts with the new font? Variable fonts will give editors more options for text styles.}}"
+    },
+    "design_systems.shared_fonts.replace_warning_not_all_collsions_variable": {
+        "string": "{numCollisions, plural, one {Do you want to replace the existing font with the new non-variable font?} other {Do you want to replace the existing fonts with the new non-variable font?}}"
+    },
+    "design_systems.shared_fonts.replace_warning": {
+        "string": "{numCollisions, plural, one {Do you want to replace the existing font with the new font?} other {Do you want to replace the existing fonts with the new font?}}"
+    },
+    "design_systems.shared_fonts.existing_fonts": {
+        "string": "Existing fonts"
+    },
+    "design_systems.shared_fonts.new_font": {
+        "string": "New font"
+    },
+    "design_systems.shared_fonts.some_of_the_existing_styles_will_become_unavailable": {
+        "string": "Some of the existing styles will become unavailable:"
+    },
+    "design_systems.shared_fonts.replace_variable_font_error": {
+        "string": "You're about to replace a variable font with a non-variable font. People who used custom variation values in the variable font will see missing font warnings."
+    },
+    "design_systems.shared_fonts.view_shared_fonts_from_organization": {
+        "string": "{action} from {orgName} organization"
+    },
+    "design_systems.shared_fonts.view_shared_fonts_from_organization_action": {
+        "string": "{numOrgFonts, plural, one {view 1 shared font} other {view {numOrgFonts} shared fonts}}"
+    },
+    "design_systems.shared_fonts.upload_fonts": {
+        "string": "Upload Fonts"
+    },
+    "design_systems.shared_fonts.num_fonts_selected": {
+        "string": "{numFontsSelected, plural, one {1 font selected} other {{numFontsSelected} fonts selected}}"
+    },
+    "design_systems.shared_fonts.delete": {
+        "string": "Delete"
+    },
+    "design_systems.shared_fonts.upload_footer_message": {
+        "string": "{linkText} available to this team from {orgName} Organization."
+    },
+    "design_systems.shared_fonts.upload_footer_message_link": {
+        "string": "{numFonts, plural, one {View 1 shared font} other {View {numFonts} shared fonts}}"
+    },
+    "design_systems.shared_fonts.upload_progress": {
+        "string": "Importing {current}/{total} font files…"
+    },
+    "design_systems.shared_fonts.import_complete_with_error_count": {
+        "string": "{numErrors, plural, one {Import complete with 1 error} other {Import complete with {numErrors} errors}}"
+    },
+    "design_systems.shared_fonts.import_complete_with_errors_review": {
+        "string": "{numErrors, plural, one {Review error} other {Review errors}}"
+    }
+}

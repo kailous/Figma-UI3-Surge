@@ -1,0 +1,152 @@
+{
+    "file_browser.starter_limit.your_starter_team_overview": {
+        "string": "Your Starter team overview"
+    },
+    "file_browser.starter_limit.running_out_of_files": {
+        "string": "You’re running out of files and projects in your free team. Take the next step with our Professional plan."
+    },
+    "file_browser.starter_limit.enough_for_you_to_get_started": {
+        "string": "This team has just enough for you to get started. Take the next step with our Professional plan."
+    },
+    "file_browser.starter_limit.trying_things_out": {
+        "string": "Starter plans are great for trying things out—from whiteboarding and designing to organizing your work."
+    },
+    "file_browser.starter_limit.projects": {
+        "string": "Projects"
+    },
+    "file_browser.starter_limit.projects.tooltip": {
+        "string": "Folders to organize your work"
+    },
+    "file_browser.starter_limit.design_files": {
+        "string": "Design files"
+    },
+    "file_browser.starter_limit.design_files.tooltip": {
+        "string": "Canvases for design work"
+    },
+    "file_browser.starter_limit.figjam_boards": {
+        "string": "FigJam boards"
+    },
+    "file_browser.starter_limit.figjam_boards.tooltip": {
+        "string": "Whiteboards and brainstorms"
+    },
+    "workspace_view.toolbar.admin_settings": {
+        "string": "Admin settings"
+    },
+    "license_group_view.toolbar.change_icon": {
+        "string": "Change icon"
+    },
+    "workspace_view.toolbar.change_color": {
+        "string": "Change workspace color"
+    },
+    "workspace_view.description.title": {
+        "string": "Edit description"
+    },
+    "workspace_view.members_modal.no_members": {
+        "string": "0 members in {workspaceName}"
+    },
+    "workspace_view.members_modal.no_admins": {
+        "string": "0 admins in {workspaceName}"
+    },
+    "workspace_view.members_modal.no_results": {
+        "string": "No results for \"{query}\""
+    },
+    "workspace_view.members_modal.members": {
+        "string": "Members"
+    },
+    "workspace_view.members_modal.admins": {
+        "string": "Admins"
+    },
+    "workspace_view.members_modal.search_placeholder": {
+        "string": "Search members"
+    },
+    "shared_with_you.filters.org_deleted_drafts.all": {
+        "string": "All projects"
+    },
+    "shared_with_you.filters.org_deleted_drafts.shared": {
+        "string": "Shared projects"
+    },
+    "shared_with_you.filters.org_deleted_drafts.deleted_user_drafts": {
+        "string": "Deleted user drafts"
+    },
+    "rcs.shared_with_you.shared_files_title": {
+        "string": "Find all the files that get sent your way"
+    },
+    "rcs.shared_with_you.shared_files_description": {
+        "string": "All files and projects shared with you have their own spot in {recents}. Quickly find what you need—even stuff from outside companies—with filters. "
+    },
+    "rcs.shared_with_you.recents": {
+        "string": "Recents"
+    },
+    "file_browser.team.view_members": {
+        "string": "View members"
+    },
+    "domain_management.remove_domain_modal.body_title": {
+        "string": "Are you sure you want to remove this domain?"
+    },
+    "domain_management.remove_domain_modal.body_text_with_mfa": {
+        "string": "All members from this domain will become guests in your organization. Users without MFA set up will no longer be able to view org content."
+    },
+    "domain_management.remove_domain_modal.body_text": {
+        "string": "All members from this domain will become guests in your organization."
+    },
+    "domain_management.remove_domain_modal.cancel_button": {
+        "string": "Cancel"
+    },
+    "domain_management.remove_domain_modal.remove_button": {
+        "string": "Remove"
+    },
+    "domain_management.domain_capture_modal.title": {
+        "string": "Domain capture"
+    },
+    "domain_management.domain_capture_modal.body_title": {
+        "string": "Enable domain capture"
+    },
+    "domain_management.domain_capture_modal.body_text": {
+        "string": "Automatically add users from your domains to your organization. Any new users who create accounts will be added to your organization moving forward."
+    },
+    "domain_management.domain_capture_modal.adding_users_note": {
+        "string": "Note: Existing users on your domains will be added immediately when you save this setting."
+    },
+    "domain_management.domain_capture_modal.cancel_button": {
+        "string": "Cancel"
+    },
+    "domain_management.domain_capture_modal.save_button": {
+        "string": "Save"
+    },
+    "team_tile.guest.no_teams.info": {
+        "string": "You’re not a member of any teams at {orgName}."
+    },
+    "team_tile.no_teams.title": {
+        "string": "No teams yet"
+    },
+    "team_tile.no_teams.info": {
+        "string": "Already have collaborators or projects in progress? Create a team to help you organize your files and share work easily."
+    },
+    "team_tile.no_teams.create_team_button": {
+        "string": "New team"
+    },
+    "file_browser.team_overview.num_others": {
+        "string": "{numMembers, plural, one {# other} other {# others}}"
+    },
+    "file_browser.team_overview.member_label": {
+        "string": "Members"
+    },
+    "file_browser.pinning.choose_file_to_pin_modal.file_not_workspace_visible.tooltip": {
+        "string": "Only files set to Anyone at {orgName} with the link can view and discover can be pinned to a workspace."
+    },
+    "file_browser.choose_file_modal.search_for_a_file": {
+        "string": "Search for a file"
+    },
+    "file_browser.pinning.suggested": {
+        "string": "Suggested"
+    },
+    "fig_feed.new_posts": {
+        "string": "New posts"
+    },
+    "fig_feed.add_comment": {
+        "string": "Add comment"
+    },
+    "fig_feed.youre_all_caught_up": {
+        "string": "You're all caught up!"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "dev_handoff.paywall.get_dev_mode": {
+        "string": "Get Dev Mode"
+    },
+    "dev_handoff.paywall.blocking_modal.button.request_access": {
+        "string": "Request access"
+    },
+    "figjam_try.this_file_has_been_saved_to_drafts": {
+        "string": "Saved to your drafts"
+    },
+    "figjam_try.this_file_has_been_saved_to_folder_name": {
+        "string": "Saved to {folder_name}"
+    },
+    "figjam_try.default_filename": {
+        "string": "{userName}’s board"
+    },
+    "design_systems.component_properties.cant_show_values": {
+        "string": "Can't show values from other libraries"
+    },
+    "design_systems.component_properties.trying": {
+        "string": "Trying…"
+    },
+    "design_systems.component_properties.try_again": {
+        "string": "Try again"
+    },
+    "design_systems.component_properties.show_more_property_rows": {
+        "string": "Show {count} more properties"
+    },
+    "design_systems.component_properties.delete_property": {
+        "string": "{numSelected, plural, one {Delete property} other {Delete properties}}"
+    },
+    "design_systems.component_properties.mixed": {
+        "string": "Mixed"
+    },
+    "design_systems.component_properties.property_icon_tooltip": {
+        "string": "{propertyType} property"
+    },
+    "design_systems.component_properties.variant_property_values_delimiter": {
+        "string": ", "
+    },
+    "design_systems.component_properties.edit_property": {
+        "string": "Edit property"
+    },
+    "proto.assign_variant": {
+        "string": "Assign variable…"
+    },
+    "design_systems.component_properties.invalid_variant_binding": {
+        "string": "Variable value doesn't map to variant"
+    },
+    "design_systems.component_properties.invalid_variant_binding_state": {
+        "string": "Value overruled by another setting"
+    },
+    "design_systems.component_properties.rename_prompt": {
+        "string": "Rename…"
+    },
+    "design_systems.component_properties.add_new_prompt": {
+        "string": "Add new…"
+    },
+    "design_systems.component_properties.new_value": {
+        "string": "New value"
+    },
+    "design_systems.component_properties.missing_property": {
+        "string": "Missing property"
+    },
+    "design_systems.component_properties.values": {
+        "string": "Values"
+    },
+    "design_systems.component_properties.choose_default_instance_value": {
+        "string": "Choose instance"
+    },
+    "design_systems.component_properties.edit_component_property": {
+        "string": "Edit {propType} property"
+    },
+    "design_systems.component_properties.select_variants_with_property_value": {
+        "string": "{numVariants, plural, one {Select {numVariants} variant} other {Select {numVariants} variants}}"
+    },
+    "design.starting_points.import_a_website_tooltip.import_your_website": {
+        "string": "Import your website"
+    },
+    "design.starting_points.import_a_website_tooltip.description": {
+        "string": "The {pluginName} plugin brings your website into Figma. Plugins are built by the community and can help you jumpstart your design."
+    },
+    "design.starting_points.import_a_website_tooltip.html_to_design": {
+        "string": "html.to.design"
+    },
+    "design.starting_points.import_a_website_tooltip.got_it": {
+        "string": "Got it"
+    },
+    "design.starting_points.recent_plugin_tooltip.your_recents": {
+        "string": "Your recent plugins"
+    },
+    "design.starting_points.recent_plugin_tooltip.description": {
+        "string": "Find your most recently used plugins here, whenever you need them."
+    },
+    "design.starting_points.recent_plugin_tooltip.done": {
+        "string": "Done"
+    },
+    "design.starting_points.welcome_to_figma": {
+        "string": "Welcome to Figma"
+    },
+    "design.starting_points.how_would_you_like_to_get_started": {
+        "string": "How would you like to get started?"
+    },
+    "design.starting_points.learn_the_basics": {
+        "string": "Learn the basics"
+    },
+    "design.starting_points.learn_the_basics_description": {
+        "string": "Learn basics about Figma with an example file"
+    },
+    "design.starting_points.import_a_website": {
+        "string": "Import a website"
+    },
+    "design.starting_points.import_a_website_description": {
+        "string": "Use a plugin to import an existing website into a design file"
+    },
+    "design.starting_points.start_from_a_blank_file": {
+        "string": "Start from a blank file"
+    },
+    "design.starting_points.start_from_a_blank_file_description": {
+        "string": "Start from scratch and see where it goes"
+    },
+    "rcs.ui_kits.explore_ui_kits_to_find_assets_you_like": {
+        "string": "Explore UI kits to find assets you like—then just drag onto canvas to start designing."
+    },
+    "fullscreen.flyout.move_tools": {
+        "string": "Move tools"
+    },
+    "fullscreen.flyout.region_tools": {
+        "string": "Region tools"
+    },
+    "fullscreen.flyout.drawing_tools": {
+        "string": "Creation tools"
+    },
+    "fullscreen.flyout.shape_tools": {
+        "string": "Shape tools"
+    },
+    "fullscreen.flyout.boolean_groups": {
+        "string": "Boolean groups"
+    },
+    "fullscreen.flyout.styles": {
+        "string": "Styles"
+    },
+    "fullscreen.flyout.components": {
+        "string": "Components"
+    },
+    "fullscreen.flyout.prototype_view": {
+        "string": "Prototype view"
+    },
+    "fullscreen_actions.ai_content_fill.magic_handle_hover_tooltip": {
+        "string": "Duplicate, with new content"
+    }
+}

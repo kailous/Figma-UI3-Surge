@@ -1,0 +1,152 @@
+{
+    "visual_bell.style_s_spread_field_no_longer_applies_when_converting_to_vector_type": {
+        "string": "Style's spread field no longer applies when converting to vector type"
+    },
+    "visual_bell.symbol_observer_is_not_running": {
+        "string": "SymbolObserver is not running"
+    },
+    "visual_bell.template_insert_multipage": {
+        "string": "Inserted Multi-page template"
+    },
+    "visual_bell.text_copy_restricted": {
+        "string": "Only editors of this file can copy text"
+    },
+    "visual_bell.there_are_no_nodes_to_export": {
+        "string": "There are no nodes to export"
+    },
+    "visual_bell.there_are_no_stickies_to_export": {
+        "string": "There are no stickies to export"
+    },
+    "visual_bell.there_are_no_tables_to_export": {
+        "string": "There are no tables to export"
+    },
+    "visual_bell.there_are_no_top_level_frames_on_the_current_page_to_export": {
+        "string": "There are no top-level frames on the current page to export"
+    },
+    "visual_bell.there_are_no_votes_to_export": {
+        "string": "No votes to export"
+    },
+    "visual_bell.unsafe_with_unsaved_content": {
+        "string": "This action is unsafe to perform with unsaved content. Allow document saving to complete, then try again"
+    },
+    "visual_bell.unset_align_content": {
+        "string": "{nodeCount, plural, one {Removed auto vertical gap between rows for {nodeName}} other {Removed auto vertical gap between rows for {nodeCount} nodes}}"
+    },
+    "visual_bell.updated_num_state_groups_repaired_state_group_s": {
+        "string": "Updated {numStateGroupsRepaired} state group(s)."
+    },
+    "visual_bell.variables_infinite_loop": {
+        "string": "Invalid — that selection would create an infinite loop of variables."
+    },
+    "visual_bell.variables_self_referential": {
+        "string": "Invalid — a variable can't equal itself."
+    },
+    "visual_bell.video_must_be_less_than_100mb": {
+        "string": "Video file must be less than 100MB."
+    },
+    "visual_bell.video_must_be_less_than_30mb": {
+        "string": "Video file must be less than 30MB."
+    },
+    "visual_bell.video_no_edit_permissions": {
+        "string": "Uploading videos only works for files in a paid Pro team that are not in your Drafts."
+    },
+    "visual_bell.video_resource_creation_error": {
+        "string": "Error uploading video: invalid video data."
+    },
+    "visual_bell.video_type_must_be_mp4_mov_webm": {
+        "string": "Video file type must be MP4, MOV, or WebM."
+    },
+    "visual_bell.vote_stamp_moved_to_nonvoteable_area_warning": {
+        "string": "This vote didn’t count. Make sure you’ve placed it properly."
+    },
+    "visual_bell.vote_stamp_out_of_votes": {
+        "string": "You’re out of votes"
+    },
+    "visual_bell.vote_stamp_placed_on_nonvoteable_area_error": {
+        "string": "Try voting on a sticky, shape, image, or some text"
+    },
+    "visual_bell.zoom-to-100": {
+        "string": "Zoom to 100%"
+    },
+    "visual_bell.zoom-to-fit": {
+        "string": "Zoom to fit"
+    },
+    "visual_bell.zoom-to-selection": {
+        "string": "Zoom to selection"
+    },
+    "voting.csv_export.header.content": {
+        "string": "Content"
+    },
+    "voting.csv_export.header.creator": {
+        "string": "Created by"
+    },
+    "voting.csv_export.header.votes": {
+        "string": "Votes"
+    },
+    "whiteboard.csv.csv_input_too_large": {
+        "string": "CSV input is too large"
+    },
+    "whiteboard.csv.file_empty": {
+        "string": "CSV file is empty"
+    },
+    "whiteboard.csv.html_input_too_large": {
+        "string": "HTML input is too large"
+    },
+    "whiteboard.csv.parse_failed": {
+        "string": "Parse failed"
+    },
+    "whiteboard.csv.too_many_cells": {
+        "string": "CSV input limited to {maximumCells} cells at a time"
+    },
+    "whiteboard.csv_export.content": {
+        "string": "Content"
+    },
+    "whiteboard.csv_export.created_by": {
+        "string": "Created by"
+    },
+    "whiteboard.immutable_frame.add_code": {
+        "string": "Add code"
+    },
+    "whiteboard.immutable_frame.add_text": {
+        "string": "Add text"
+    },
+    "whiteboard.immutable_frame.add_text_cta": {
+        "string": "Type anything, @mention anyone"
+    },
+    "whiteboard.immutable_frame.table_limit_reached": {
+        "string": "Paste partially succeeded—table size limit reached."
+    },
+    "whiteboard.jamboard_importer.numbered_frame_section_name": {
+        "string": "Frame {number}"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_1_description": {
+        "string": "Too simple."
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_1_text": {
+        "string": "PB&J"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_2_description": {
+        "string": "Food coma!"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_2_text": {
+        "string": "Burrito"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_text": {
+        "string": "Sandwich 🥪"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_1_description": {
+        "string": "Feels like dinner."
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_1_text": {
+        "string": "Chili"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_2_description": {
+        "string": "Same as above!"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_2_text": {
+        "string": "Ramen"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_text": {
+        "string": "Soup 🍜"
+    }
+}

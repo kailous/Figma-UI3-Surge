@@ -1,0 +1,152 @@
+{
+    "shared_fonts.error_message_for_upload_failure_429": {
+        "string": "This file is too big. Files must be less than 20 MB."
+    },
+    "shared_fonts.error_message_for_upload_failure_default_with_help_center": {
+        "string": "The font could not be uploaded. Figma supports .TTF and .OTF fonts. For more information, visit our {helpCenterLink}."
+    },
+    "help_widget.menu.help_center": {
+        "string": "Help Center"
+    },
+    "community.publishing.name_must_not_be_empty": {
+        "string": "Name must not be empty"
+    },
+    "community.publishing.name_must_be_at_most_100_characters_long": {
+        "string": "Name must be at most 100 characters long"
+    },
+    "community.publishing.description_must_be_at_most_10000_characters_long": {
+        "string": "Description must be at most 10000 characters long"
+    },
+    "templates.actions.error_connecting_to_server_to_upload_file_thumbnail": {
+        "string": "Error connecting to server to upload file thumbnail."
+    },
+    "community.actions.error_uploading_plugin_video_thumbnail_error": {
+        "string": "Error uploading plugin video thumbnail: {error}"
+    },
+    "community.try.plugin_name_with_community": {
+        "string": "{pluginName} (Community)"
+    },
+    "fullscreen.filename_view.title_placeholder": {
+        "string": "Untitled"
+    },
+    "flash.unable_to_try_resource": {
+        "string": "Unable to try plugin or widget."
+    },
+    "webgl_error.message.we_cant_open_this_file_webgl_trouble": {
+        "string": "We can't open this file because we're having trouble with WebGL. Please try restarting the desktop app."
+    },
+    "webgl_error.message.if_this_problem_persists": {
+        "string": "If this problem persists, your graphics card or driver may not be supported."
+    },
+    "webgl_error.message.webgl_disabled": {
+        "string": "We can't open this file because WebGL isn't supported, or is disabled, in your browser. If your browser supports WebGL, check out {helpArticleLink} to find out how to enable it."
+    },
+    "webgl_error.message.this_help_article_link": {
+        "string": "this help article"
+    },
+    "webgl_error.message.browser_bug": {
+        "string": "We can't open this file because of a bug present in your browser. Older Windows video cards encounter rendering errors on Chrome, Opera, and Firefox. Using another browser like Edge or IE, or updating to the latest or pre-release browser may fix this bug."
+    },
+    "webgl_error.message.figma_is_working_with_the_browser_developers": {
+        "string": "Figma is working with the browser developers and a fix is pending."
+    },
+    "webgl_error.message.we_cant_open_that_file_header": {
+        "string": "Uh oh… we can't open that file"
+    },
+    "webgl_error.message.got_it": {
+        "string": "Got it"
+    },
+    "sidebar.drafts": {
+        "string": "Drafts"
+    },
+    "general.editor.seat_rename": {
+        "string": "Full"
+    },
+    "general.viewer": {
+        "string": "Viewer"
+    },
+    "general.viewer_restricted": {
+        "string": "Viewer-restricted"
+    },
+    "general.guest": {
+        "string": "Guest"
+    },
+    "general.member": {
+        "string": "Member"
+    },
+    "general.admin": {
+        "string": "Admin"
+    },
+    "plan_comparison.plans.most_popular": {
+        "string": "Most popular"
+    },
+    "plan_comparison.plans.recommended": {
+        "string": "Recommended"
+    },
+    "plan_comparison.plans.most_valued": {
+        "string": "Best Value"
+    },
+    "plan_details.professional": {
+        "string": "Professional"
+    },
+    "plan_comparison.plans.pro.description": {
+        "string": "For you and your team, with unlimited files and all the pro features."
+    },
+    "plan_comparison.plans.pro.choose_button": {
+        "string": "Upgrade to Professional"
+    },
+    "plan_details.starter": {
+        "string": "Starter"
+    },
+    "plan_comparison.plans.starter.description": {
+        "string": "Free, for trying things out."
+    },
+    "plan_comparison.plans.starter.choose_button": {
+        "string": "Choose Starter"
+    },
+    "plan_details.organization": {
+        "string": "Organization"
+    },
+    "plan_comparison.plans.org.description": {
+        "string": "For bringing teams together, sharing an org-wide design system, and more."
+    },
+    "plan_comparison.plans.org.choose_button": {
+        "string": "Upgrade to Organization"
+    },
+    "plan_details.enterprise": {
+        "string": "Enterprise"
+    },
+    "plan_comparison.plans.ent.description": {
+        "string": "For scaling company processes with custom workspaces and advanced security."
+    },
+    "plan_comparison.plans.ent.choose_button": {
+        "string": "Contact Sales"
+    },
+    "plan_details.free_for_students_and_educators": {
+        "string": "Free for students and educators"
+    },
+    "plan_comparison.chart.usage_limits.name": {
+        "string": "Usage limits"
+    },
+    "plan_comparison.chart.usage_limits.details": {
+        "string": "Create and manage multiple projects and files."
+    },
+    "plan_comparison.chart.version_history.name": {
+        "string": "Version history"
+    },
+    "plan_comparison.chart.version_history.details": {
+        "string": "Figma auto-saves and creates versions of your file every 30 minutes. You can name a version at any time and link to past versions."
+    },
+    "plan_comparison.chart.libraries.name": {
+        "string": "Libraries"
+    },
+    "plan_comparison.chart.libraries.details": {
+        "string": "Create design systems with shared UI components for your team to use."
+    },
+    "plan_comparison.chart.shared_libraries.name": {
+        "string": "Shared libraries"
+    },
+    "plan_comparison.chart.shared_libraries.details": {
+        "string": "Create design systems with shared UI components for your teams to use."
+    }
+}

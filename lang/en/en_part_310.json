@@ -1,0 +1,152 @@
+{
+    "flash.team_name_cannot_be_empty": {
+        "string": "Your team name cannot be empty"
+    },
+    "file_browser.inline_team_creation.placeholder": {
+        "string": "Team name"
+    },
+    "file_browser.draft_to_project.body.plan_spaces": {
+        "string": "If you'd like to invite people to edit this file with you, first move it to a project that's in a team."
+    },
+    "file_browser.draft_to_project.body.seat_rename": {
+        "string": "Drafts is your personal space to work and share drafts with viewers. Move this file to a team project to add unlimited collaborators."
+    },
+    "file_browser.draft_to_project.move": {
+        "string": "Move"
+    },
+    "file_browser.draft_to_project.title.plan_spaces": {
+        "string": "Move this file to a project to add collaborators"
+    },
+    "file_browser.draft_to_project.title.seat_rename": {
+        "string": "To invite people to edit your file, move it to a team project first"
+    },
+    "edu.upgrade_teams.body": {
+        "string": "Education teams get all the {link} for free."
+    },
+    "edu.upgrade_teams.body_link_text": {
+        "string": "perks of the Professional plan"
+    },
+    "edu.upgrade_teams.body_multiple_teams": {
+        "string": "You can upgrade several teams — just do them one at a time."
+    },
+    "edu.or_create_a_new_team": {
+        "string": "Or, create a new team"
+    },
+    "edu.upgrade_teams.headline": {
+        "string": "Choose a team to upgrade for free"
+    },
+    "downgrade_survey.go_back": {
+        "string": "Go back"
+    },
+    "downgrade_survey.do_not_leave_team": {
+        "string": "Cancel, do not leave team"
+    },
+    "downgrade_survey.what_made_you_cancel_your_plan": {
+        "string": "What made you cancel your plan? Check all that apply."
+    },
+    "downgrade_survey.select_one": {
+        "string": "Select at least one reason for cancelling to continue"
+    },
+    "downgrade_survey.research_contact": {
+        "string": "Can our research team reach out to learn more about how we could have been better for your needs? (This is not a sales call, we promise.)"
+    },
+    "downgrade_survey.continue": {
+        "string": "Continue"
+    },
+    "downgrade_survey.header": {
+        "string": "Before you go, please let us know why"
+    },
+    "downgrade_survey.survey_option.accidental_upgrade": {
+        "string": "Did not mean to upgrade"
+    },
+    "downgrade_survey.survey_option.billing_structure_unclear": {
+        "string": "Billing structure is unclear"
+    },
+    "downgrade_survey.survey_option.no_longer_using_figma_products": {
+        "string": "No longer using Figma's products"
+    },
+    "downgrade_survey.survey_option.no_longer_using_figma_products.other_products": {
+        "string": "What products will you be using instead, if any?"
+    },
+    "downgrade_survey.survey_option.no_longer_using_figma_products.text_area": {
+        "string": "List any products"
+    },
+    "downgrade_survey.survey_option.other": {
+        "string": "Other"
+    },
+    "downgrade_survey.survey_option.other.text_area": {
+        "string": "Tell us more"
+    },
+    "downgrade_survey.survey_option.project_inactive": {
+        "string": "Project is over or no longer active"
+    },
+    "downgrade_survey.survey_option.switching_plans": {
+        "string": "Switching to a different plan"
+    },
+    "downgrade_survey.survey_option.switching_plans.education_plan": {
+        "string": "Education plan"
+    },
+    "downgrade_survey.survey_option.switching_plans.enterprise_plan": {
+        "string": "Enterprise plan"
+    },
+    "downgrade_survey.survey_option.switching_plans.organization_plan": {
+        "string": "Organization plan"
+    },
+    "downgrade_survey.survey_option.switching_plans.starter_plan": {
+        "string": "Starter plan"
+    },
+    "downgrade_survey.survey_option.too_expensive": {
+        "string": "Too expensive"
+    },
+    "downgrade_survey.survey_option.too_expensive.brl": {
+        "string": "Brazilian Real"
+    },
+    "downgrade_survey.survey_option.too_expensive.cad": {
+        "string": "Canadian Dollar"
+    },
+    "downgrade_survey.survey_option.too_expensive.currency_conversion": {
+        "string": "Currency conversion is too costly"
+    },
+    "downgrade_survey.survey_option.too_expensive.currency_selector": {
+        "string": "Select your currency"
+    },
+    "downgrade_survey.survey_option.too_expensive.eur": {
+        "string": "Euro"
+    },
+    "downgrade_survey.survey_option.too_expensive.gbp": {
+        "string": "Pound Sterling"
+    },
+    "downgrade_survey.survey_option.too_expensive.jpy": {
+        "string": "Japanese Yen"
+    },
+    "downgrade_survey.survey_option.too_expensive.other_currency": {
+        "string": "Other"
+    },
+    "downgrade_survey.survey_option.too_expensive.specify_currency": {
+        "string": "Please specify"
+    },
+    "downgrade_survey.allow_research_contact": {
+        "string": "Yes, I'm fine with that"
+    },
+    "file_browser.folder_move.move_project_no_edit_access_warning": {
+        "string": "You'll need edit access for this team before you can move projects into it."
+    },
+    "file_browser.folder_move.view_team": {
+        "string": "View team"
+    },
+    "file_browser.folder_move.move_project": {
+        "string": "Move project"
+    },
+    "sidebar.workspaces.other_teams": {
+        "string": "Other teams"
+    },
+    "file_browser.folder_move.modal_header": {
+        "string": "Move project {folderName}"
+    },
+    "change_annual_plan_modal.number_of_editors.seat_rename": {
+        "string": "Number of {productType} seats on annual plan:"
+    },
+    "change_annual_plan_modal.instructions.seat_rename": {
+        "string": "Any seats not covered by your annual plan will be charged monthly at {monthlyEditorCost}/mo. for {editorProduct} and {monthlyFigjamCost}/mo. for {figJamProduct}"
+    }
+}
