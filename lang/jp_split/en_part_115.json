@@ -1,0 +1,152 @@
+{
+    "fullscreen.filename_view.drafts": {
+        "string": "下書き"
+    },
+    "fullscreen.filename_view.drafts_to_move": {
+        "string": "移動が必要なドラフト"
+    },
+    "fullscreen.filename_view.duplicate": {
+        "string": "複製"
+    },
+    "fullscreen.filename_view.duplicate-as-new": {
+        "string": "新しいファイルとして複製"
+    },
+    "fullscreen.filename_view.duplicate-to-drafts": {
+        "string": "ドラフトに複製"
+    },
+    "fullscreen.filename_view.edit_file_menu": {
+        "string": "ファイル編集メニュー"
+    },
+    "fullscreen.filename_view.export": {
+        "string": "エクスポート…"
+    },
+    "fullscreen.filename_view.favorite_label": {
+        "string": "このファイルをお気に入りに追加"
+    },
+    "fullscreen.filename_view.file_analytics": {
+        "string": "ライブラリアナリティクス"
+    },
+    "fullscreen.filename_view.file_input_title": {
+        "string": "ファイル名"
+    },
+    "fullscreen.filename_view.free": {
+        "string": "無料"
+    },
+    "fullscreen.filename_view.go_to_project": {
+        "string": "プロジェクトに行く"
+    },
+    "fullscreen.filename_view.hub_file_published_at": {
+        "string": "{publish_date, date, medium}"
+    },
+    "fullscreen.filename_view.locked": {
+        "string": "ロックされています"
+    },
+    "fullscreen.filename_view.move-to-project": {
+        "string": "移動…"
+    },
+    "fullscreen.filename_view.pro_trial": {
+        "string": "プロトライアル"
+    },
+    "fullscreen.filename_view.publish-styles-and-components": {
+        "string": "ライブラリを公開..."
+    },
+    "fullscreen.filename_view.rename": {
+        "string": "名前を変更"
+    },
+    "fullscreen.filename_view.rename-branch": {
+        "string": "ブランチ名を変更"
+    },
+    "fullscreen.filename_view.restore_default_thumbnail": {
+        "string": "デフォルトのサムネイルを復元"
+    },
+    "fullscreen.filename_view.title_placeholder": {
+        "string": "無題"
+    },
+    "fullscreen.filename_view.trial_expired": {
+        "string": "トライアル期間終了"
+    },
+    "fullscreen.filename_view.unfavorite_label": {
+        "string": "お気に入りから削除"
+    },
+    "fullscreen.filename_view.version-history-hide": {
+        "string": "バージョン履歴を非表示"
+    },
+    "fullscreen.filename_view.version-history-show": {
+        "string": "バージョン履歴を表示"
+    },
+    "fullscreen.filename_view.view-only": {
+        "string": "表示のみ"
+    },
+    "fullscreen.filename_view.viewers-cannot-copy-or-share": {
+        "string": "閲覧者はこのファイルをコピーまたは共有できません。"
+    },
+    "fullscreen.filename_view.zoom-integration-popup-body": {
+        "string": "Figmaアプリを他から独立して使用できるようになりました。"
+    },
+    "fullscreen.filename_view.zoom-integration-popup-header": {
+        "string": "開催者のコラボレーションに参加しました。"
+    },
+    "fullscreen.filename_view.zoom-integration-popup-header-with-name": {
+        "string": "{hostName}のコラボレーションに参加しました"
+    },
+    "fullscreen.flyout.boolean_groups": {
+        "string": "ブーリアングループ"
+    },
+    "fullscreen.flyout.components": {
+        "string": "コンポーネント"
+    },
+    "fullscreen.flyout.drawing_tools": {
+        "string": "作成ツール"
+    },
+    "fullscreen.flyout.move_tools": {
+        "string": "移動ツール"
+    },
+    "fullscreen.flyout.prototype_view": {
+        "string": "プロトタイプビュー"
+    },
+    "fullscreen.flyout.region_tools": {
+        "string": "リージョンツール"
+    },
+    "fullscreen.flyout.shape_tools": {
+        "string": "シェイプツール"
+    },
+    "fullscreen.flyout.styles": {
+        "string": " スタイル"
+    },
+    "fullscreen.focus_mode.toggle_variants.enter": {
+        "string": "バリアントのマルチ編集"
+    },
+    "fullscreen.focus_mode.toggle_variants.exit": {
+        "string": "マルチ編集を停止"
+    },
+    "fullscreen.font_settings.byof_bring_your_own_fonts": {
+        "string": "BYOF (独自のフォントの導入)"
+    },
+    "fullscreen.font_settings.do_this_later_in_account_settings": {
+        "string": "アカウント設定で後で行う"
+    },
+    "fullscreen.font_settings.enable_local_fonts": {
+        "string": "ローカルフォントを有効にする"
+    },
+    "fullscreen.font_settings.figma_comes_preloaded": {
+        "string": "FigmaにはGoogle Web Fontsがプリロードされています。ローカルフォントも使用するには、フォントインストーラーが必要です。インストールすると、このコンピューターで作業しているときに、いつでもローカルフォントにアクセスできるようになります。"
+    },
+    "fullscreen.font_settings.got_it": {
+        "string": "了解"
+    },
+    "fullscreen.font_settings.if_you_ever_change_your_mind_you_can_easily_uninstall_the_process": {
+        "string": "プロセスは、後でいつでも簡単にアンインストールできます。"
+    },
+    "fullscreen.font_settings.local_font_explainer": {
+        "string": "最終的には、ユーザーはシングルクリックでFigmaにフォントへのアクセスを許可できるようになります。しかし、ChromeとFirefoxがその機能を実装するまで、回避策を使用せざるを得ません。セキュリティを念頭に置いてソリューションをデザインし、セットアップを簡単にしました。"
+    },
+    "fullscreen.font_settings.local_font_process_explainer": {
+        "string": "インストーラーを実行すると、コンピューターのフォントフォルダを監視し、ツールをフォントで最新の状態に保つプロセスがインストールされます。"
+    },
+    "fullscreen.font_settings.local_font_process_explainer_part_2": {
+        "string": "Webブラウザは、ドメインからの要求にのみ応答するプロセスと通信します。1つ覚えておくべきことは、停止するように指示するまで、プロセスはバックグラウンドで実行されるということです。プログラムは非常に軽いため、コンピューターのリソースを消費しません。"
+    },
+    "fullscreen.font_settings.what_s_going_on": {
+        "string": "どうしましたか?"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "collaboration.branching_from_source.pick_main_file": {
+        "string": "メインファイルの選択"
+    },
+    "collaboration.branching_from_source.preview_unavailable": {
+        "string": "プレビューは利用できません"
+    },
+    "collaboration.branching_from_source.resolve_all": {
+        "string": "すべてを解決"
+    },
+    "collaboration.branching_from_source.review_changes": {
+        "string": "変更のレビュー"
+    },
+    "collaboration.branching_from_source.these_changes_have_been_made_to_the_main_file": {
+        "string": "これらの変更はメインファイルに加えられています。"
+    },
+    "collaboration.branching_from_source.this_component_was_removed": {
+        "string": "このコンポーネントは削除されました"
+    },
+    "collaboration.branching_from_source.this_frame_was_removed": {
+        "string": "このフレームは削除されました"
+    },
+    "collaboration.branching_from_source.this_layer_was_removed": {
+        "string": "このレイヤーは削除されました"
+    },
+    "collaboration.branching_from_source.this_page_was_removed": {
+        "string": "このページは削除されました"
+    },
+    "collaboration.branching_from_source.this_style_was_removed": {
+        "string": "このスタイルは削除されました"
+    },
+    "collaboration.branching_from_source.you_chose_to_keep_all_changes_from_the_branch_for_conflicts": {
+        "string": "競合のためにブランチからのすべての変更を保持することを選択しました。"
+    },
+    "collaboration.branching.applying_update": {
+        "string": "更新を適用中"
+    },
+    "collaboration.branching.checking_for_changes": {
+        "string": "変更を確認中"
+    },
+    "collaboration.branching.checking_for_conflicts": {
+        "string": "競合を確認中"
+    },
+    "collaboration.branching.generating_changed_items": {
+        "string": "変更されたアイテムを生成中"
+    },
+    "collaboration.branching.pulling_it_all_together": {
+        "string": "すべてをまとめています"
+    },
+    "collaboration.branching_merge_modal.banner_resolve_conflicts": {
+        "string": "前回のマージまたは更新が失敗しました。再試行する前に、以下の競合を確認します"
+    },
+    "collaboration.branching_merge_modal.banner_review_conflicts": {
+        "string": "前回のマージまたは更新が失敗しました。マージの前に競合を確認します。"
+    },
+    "collaboration.branching_merge_modal.button_review_conflicts": {
+        "string": "競合を確認"
+    },
+    "collaboration.branching_merge_modal.calculating_conflicts": {
+        "string": "競合の計算中..."
+    },
+    "collaboration.branching_merge_modal.figma_support": {
+        "string": "Figmaサポート"
+    },
+    "collaboration.branching_merge_modal.for_help_please_contact_figma_support": {
+        "string": "ページを更新してもう一度お試しください。それでもうまくいかない場合は、{supportEmailLink}にご連絡ください。"
+    },
+    "collaboration.branching_merge_modal.no_update_and_no_conflicts_from_main": {
+        "string": "競合は検出されませんでした。 自由にマージしてください。"
+    },
+    "collaboration.branching_merge_modal.refresh_required_action": {
+        "string": "再読み込み"
+    },
+    "collaboration.branching_merge_modal.resolve_conflicts": {
+        "string": "競合を解決する"
+    },
+    "collaboration.branching_merge_modal.this_branch_has_conflicts_with_the_main_file": {
+        "string": "{numConflicts, plural, other {このブランチには、マージする前に解決する必要があるメインファイルとの{numConflicts}の競合があります。}}"
+    },
+    "collaboration.branching_merge_modal.title_merge_from_source": {
+        "string": "メインファイルから更新"
+    },
+    "collaboration.branching_merge_modal.title_merge_from_source_version": {
+        "string": "メインファイルのバージョンから更新"
+    },
+    "collaboration.branching_merge_modal.title_merge_to_source": {
+        "string": "ブランチを確認"
+    },
+    "collaboration.branching_merge_modal.unexpected_error_from_source": {
+        "string": "メインからの更新時に予期しないエラーが発生しました"
+    },
+    "collaboration.branching_merge_modal.unexpected_error_to_source": {
+        "string": "ブランチのレビュー時に予期しないエラーが発生しました"
+    },
+    "collaboration.branching_merge_modal.update_from_main_file": {
+        "string": "メインファイルから更新"
+    },
+    "collaboration.branching_merge_modal.updates_are_available_for_this_branch_but_you_can_merge_without_updating": {
+        "string": "このブランチの更新は利用可能ですが、更新せずにマージできます。"
+    },
+    "collaboration.branching_merge_modal.updates_from_main_file_must_be_applied_before_merging": {
+        "string": "マージする前に、メインファイルからの更新を適用する必要があります。"
+    },
+    "collaboration.branching_merge_modal.updates_from_main_file_must_be_applied_before_submitting_a_merge_request": {
+        "string": "マージリクエストを送信する前に、メインファイルからの更新を適用する必要があります。"
+    },
+    "collaboration.branching_merge_modal.you_have_unread_comments_on_this_branch": {
+        "string": "{unreadCommentCount, plural, other {このブランチに{unreadCommentCount}件の未読コメントがあります。}}"
+    },
+    "collaboration.branching_modal.tab_active_empty_state": {
+        "string": "有効なブランチがありません。"
+    },
+    "collaboration.branching_modal.tab_yours_empty_state": {
+        "string": "ブランチが作成されていません。"
+    },
+    "collaboration.branching_modal.tab_archived_empty_state": {
+        "string": "アーカイブされたブランチがありません。"
+    },
+    "collaboration.branching_modal.title": {
+        "string": "ブランチ"
+    },
+    "collaboration.branching_modal.tab_active": {
+        "string": "有効"
+    },
+    "collaboration.branching_modal.tab_yours": {
+        "string": "ユーザー"
+    },
+    "collaboration.branching_modal.tab_archived": {
+        "string": "アーカイブ済み"
+    },
+    "collaboration.branching_modal.create_branch_tooltip": {
+        "string": "ブランチを作成"
+    },
+    "collaboration.branching_node_treatments.property.accessible_label": {
+        "string": "アクセス可能なラベル"
+    },
+    "collaboration.branching_node_treatments.property.added_node": {
+        "string": "追加済み"
+    },
+    "collaboration.branching_node_treatments.property.align_items": {
+        "string": "アイテムを揃える"
+    },
+    "collaboration.branching_node_treatments.property.aria_attributes": {
+        "string": "ARIA属性"
+    },
+    "collaboration.branching_node_treatments.property.aria_role": {
+        "string": "ARIAの役割"
+    },
+    "collaboration.branching_node_treatments.property.auto_layout_details": {
+        "string": "オートレイアウト詳細"
+    }
+}

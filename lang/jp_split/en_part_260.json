@@ -1,0 +1,152 @@
+{
+    "pro_cart.payment.state": {
+        "string": "都道府県"
+    },
+    "pro_cart.payment.street_address": {
+        "string": "番地"
+    },
+    "pro_cart.payment.street_address_label": {
+        "string": "住所1"
+    },
+    "pro_cart.payment.street_address_line_2": {
+        "string": "アパート名、部屋番号など(省略可)"
+    },
+    "pro_cart.payment.street_address_line_2_label": {
+        "string": "住所2"
+    },
+    "pro_cart.payment.zip_code": {
+        "string": "郵便番号"
+    },
+    "pro_cart.review.agree_with_privacy_and_cancellation": {
+        "string": "Figmaの{termsOfServiceLink}、{privacyLink}、{cancellationLink}に同意します。"
+    },
+    "pro_cart.review.all_editors_on_an_education_team_must_be_verified.seat_rename": {
+        "string": "エデュケーションチームの編集アクセス権のあるユーザーはすべて、確認済みのエデュケーションユーザーである必要があります。エデュケーションユーザー以外のコラボレーターを有効にするには、いつでもプロフェッショナルチームにアップグレードできます。"
+    },
+    "pro_cart.review.billing_address": {
+        "string": "請求先住所"
+    },
+    "pro_cart.review.cancellation_policy": {
+        "string": "キャンセルポリシー"
+    },
+    "pro_cart.review.company_name": {
+        "string": "会社名"
+    },
+    "pro_cart.review.complete_purchase": {
+        "string": "購入手続きを完了"
+    },
+    "pro_cart.review.complete_upgrade": {
+        "string": "アップグレードを完了"
+    },
+    "pro_cart.review.details": {
+        "string": "詳細"
+    },
+    "pro_cart.review.edit_all_details": {
+        "string": "詳細をすべて編集"
+    },
+    "pro_cart.review.edit_details": {
+        "string": "詳細を編集"
+    },
+    "pro_cart.review.edit_details.cancel": {
+        "string": "キャンセル"
+    },
+    "pro_cart.review.edit_details.company_name_description": {
+        "string": "請求書で異なるチーム名を使用する場合は、ここに入力してください。"
+    },
+    "pro_cart.review.edit_details.company_name_label": {
+        "string": "会社名"
+    },
+    "pro_cart.review.edit_details.save": {
+        "string": "保存"
+    },
+    "pro_cart.review.edit_details.team_name_description": {
+        "string": "この名前は、ファイルブラウザ、Figmaからのメール、その他に表示されます。"
+    },
+    "pro_cart.review.edit_details.team_name_label": {
+        "string": "チーム名"
+    },
+    "pro_cart.review.edit_details_modal_header": {
+        "string": "会社に関する情報を入力してください"
+    },
+    "pro_cart.review.exp_sticker_shock.upgrade_team_name_to_a_professional_team_monthly": {
+        "string": "{teamName}のプロフェッショナルプラン(月払い)"
+    },
+    "pro_cart.review.exp_sticker_shock.upgrade_team_name_to_a_professional_team_yearly": {
+        "string": "{teamName}のプロフェッショナルプラン(年払い)"
+    },
+    "pro_cart.review.extra_validation": {
+        "string": "お手続き後、この支払いを完了するために追加の確認を求められることがあります。"
+    },
+    "pro_cart.review.free_for_days": {
+        "string": "{days, plural, other {無料期間の残り日数}}"
+    },
+    "pro_cart.review.lets_make_sure_everything_looks_right": {
+        "string": "請求情報を確認する"
+    },
+    "pro_cart.review.offer_redeem_agree": {
+        "string": "このオファーを利用すると、{termsOfServiceLink}に同意したこととなります。"
+    },
+    "pro_cart.review.privacy_policy": {
+        "string": "プライバシーポリシー"
+    },
+    "pro_cart.review.redeem_offer_by": {
+        "string": "オファー利用期限は{date}です"
+    },
+    "pro_cart.review.shipping_address": {
+        "string": "配送先住所"
+    },
+    "pro_cart.review.start_professional_plan_for_free": {
+        "string": "プロフェッショナルプランを無料で利用開始"
+    },
+    "pro_cart.review.tax": {
+        "string": "税"
+    },
+    "pro_cart.review.tax_percent": {
+        "string": "{taxPercent, number, .0}%"
+    },
+    "pro_cart.review.team_name": {
+        "string": "チーム名"
+    },
+    "pro_cart.review.tos": {
+        "string": "サービス利用規約"
+    },
+    "pro_cart.review.total": {
+        "string": "合計"
+    },
+    "pro_cart.review.total_due_today": {
+        "string": "本日期限の合計額"
+    },
+    "pro_cart.review.upgrade_team_name_to_a_professional_team": {
+        "string": "{teamName}をプロフェッショナルチームにアップグレードする"
+    },
+    "pro_cart.review.you_will_not_be_charged_during_the_free_period": {
+        "string": "{days, plural, other {{days}日間の無料期間中は課金されません}}"
+    },
+    "pro_cart.review.your_subscription_will_automatically_renew_without_link.seat_rename": {
+        "string": "サブスクリプションは、年間サブスクリプションについては毎年自動更新され、チームに後から追加した有料シートについては毎月自動更新されます。"
+    },
+    "pro_cart.sidebar.annual": {
+        "string": "年間"
+    },
+    "pro_cart.sidebar.annual_savings_percentage": {
+        "string": "{percentage}%オフ"
+    },
+    "pro_cart.sidebar.billing_cycle": {
+        "string": "請求サイクル"
+    },
+    "pro_cart.sidebar.currency": {
+        "string": "通貨"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.by_paying_annually": {
+        "string": "年払いの場合は{saveAmountText}"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.cost_per_editor_per_month": {
+        "string": "{cost}/編集者/月"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.design": {
+        "string": "Figmaデザイン"
+    },
+    "pro_cart.sidebar.exp_sticker_shock.design_editors": {
+        "string": "{numEditors, plural, other {Figmaデザイン編集者数}}"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "auth.input-validation.email-is-password": {
+        "string": "メールはパスワードと同じにできません。"
+    },
+    "auth.input-validation.invalid-email": {
+        "string": "そのメールアドレスは正しくないようです。"
+    },
+    "auth.input-validation.long-password": {
+        "string": "そのパスワードは長すぎます!"
+    },
+    "auth.input-validation.name-is-password": {
+        "string": "名前はパスワードと同じにできません。"
+    },
+    "auth.input-validation.no-email": {
+        "string": "メールを入力してください。"
+    },
+    "auth.input-validation.no-password": {
+        "string": "パスワードを入力してください。"
+    },
+    "auth.input-validation.short-password": {
+        "string": "8文字以上のパスワードを設定してください。"
+    },
+    "auth.log-in-with-account": {
+        "string": "{email}としてログイン"
+    },
+    "auth.log-in-with-browser": {
+        "string": "ブラウザでログイン"
+    },
+    "auth.log-in-with-other-account": {
+        "string": "{email}ではないですか? {logInLink}"
+    },
+    "auth.log-in-with-other-account-link": {
+        "string": "別のアカウントでログイン"
+    },
+    "auth.log_in_to_collaborate_on_display_name": {
+        "string": "{displayName}でコラボレーションするにはログインしてください"
+    },
+    "auth.log_in_to_collaborate_on_this_file": {
+        "string": "このファイルでコラボレーションするにはログインしてください"
+    },
+    "auth.magic_link_check_email.body_login_v2": {
+        "string": "{emailAddress}に送信したリンクを5分以内にクリックして、ログインしてください。"
+    },
+    "auth.magic_link_check_email.body_signup_v2": {
+        "string": "{emailAddress}に送信したリンクを5分以内にクリックして、アカウントのセットアップを完了してください。"
+    },
+    "auth.magic_link_check_email.check_your_inbox": {
+        "string": "受信ボックスを確認"
+    },
+    "auth.magic_link_check_email.go_back": {
+        "string": "戻る"
+    },
+    "auth.magic_link_check_email.open_gmail": {
+        "string": "Gmailを開く"
+    },
+    "auth.magic_link_check_email.open_outlook": {
+        "string": "Outlookを開く"
+    },
+    "auth.magic_link_check_email.wrong_address_go_back": {
+        "string": "アドレスが間違っていますか?{goBackLink}"
+    },
+    "auth.mirror-app": {
+        "string": "ミラー"
+    },
+    "auth.mobile-app": {
+        "string": "モバイル"
+    },
+    "auth.no-account": {
+        "string": "アカウントを持っていませんか?"
+    },
+    "auth.not-seeing-the-browser-tab": {
+        "string": "ブラウザタブが表示されませんか?"
+    },
+    "auth.open-figma-for-vs-code": {
+        "string": "VS Code連携を開きます"
+    },
+    "auth.open-specific-app": {
+        "string": "{appDescriptor}アプリを開いてください"
+    },
+    "auth.password-input-placeholder": {
+        "string": "パスワード"
+    },
+    "auth.password-reset.back-to-log-in": {
+        "string": "ログインに戻る"
+    },
+    "auth.password-reset.cancel": {
+        "string": "キャンセル"
+    },
+    "auth.password-reset.choose-a-new-password": {
+        "string": "新しいパスワードの選択"
+    },
+    "auth.password-reset.confirmation-text": {
+        "string": "{email}のアカウントがある場合、パスワードのリセット手順についてのメールが送信されます。送信されないときは、スパムフォルダを確認してください。"
+    },
+    "auth.password-reset.enter-email-header": {
+        "string": "メールアドレスを入力してパスワードをリセット"
+    },
+    "auth.password-reset.placeholder.confirm-password": {
+        "string": "パスワードを確認"
+    },
+    "auth.password-reset.placeholder.password": {
+        "string": "パスワード"
+    },
+    "auth.password-reset.reset-password-button": {
+        "string": "パスワードをリセット"
+    },
+    "auth.password-reset.submit": {
+        "string": "送信"
+    },
+    "auth.reset-password.password-retype-error": {
+        "string": "パスワードが一致しません。もう一度試しますか?"
+    },
+    "auth.saml-start.header": {
+        "string": "SAML SSOでFigmaにログイン"
+    },
+    "auth.saml-start.log-in-google-or-password": {
+        "string": "Googleまたはパスワードでログイン"
+    },
+    "auth.saml-start.log-in-plain": {
+        "string": "ログイン"
+    },
+    "auth.sign-in-google-text": {
+        "string": "Googleで続行"
+    },
+    "auth.sign-in-submit-text": {
+        "string": "ログイン"
+    },
+    "auth.sign-in-success": {
+        "string": "{email}として認証済みです"
+    },
+    "auth.sign-in.privacy-policy": {
+        "string": "プライバシーポリシー"
+    },
+    "auth.sign-in.tos-long": {
+        "string": "Figma TOS"
+    },
+    "auth.sign-up-google-text": {
+        "string": "Googleで続行"
+    },
+    "auth.sign-up-submit-text": {
+        "string": "アカウントを作成"
+    },
+    "auth.sign-up.auto-marketing-email-opt-in-additional-terms": {
+        "string": "Figmaから製品、サービス、イベントに関する情報をEメールで受け取ることができ、いつでも配信停止できます。"
+    },
+    "auth.sign-up.confirmation-email-error": {
+        "string": "確認メールの送信中にエラーが発生しました。"
+    },
+    "auth.sign_in_to_figma": {
+        "string": "Figmaにサインイン"
+    }
+}

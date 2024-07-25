@@ -1,0 +1,152 @@
+{
+    "activity_log.filter.billing_group.membership_changed": {
+        "string": "ユーザーの請求グループ変更"
+    },
+    "activity_log.filter.billing_group.renamed": {
+        "string": "請求グループ名変更"
+    },
+    "activity_log.filter.billing_group.self_select": {
+        "string": "ユーザー自身による請求グループ選択"
+    },
+    "activity_log.filter.branches": {
+        "string": "ブランチ"
+    },
+    "activity_log.filter.changed_a_user_s_workspace": {
+        "string": "ユーザーのワークスペースの変更"
+    },
+    "activity_log.filter.changed_autogen_password_controls_setting": {
+        "string": "パスワード保護設定の変更"
+    },
+    "activity_log.filter.changed_default_role.seat_rename": {
+        "string": "デフォルトのシートタイプの変更"
+    },
+    "activity_log.filter.changed_guest_invite_setting": {
+        "string": "ゲスト招待設定の変更"
+    },
+    "activity_log.filter.changed_open_sessions_setting": {
+        "string": "オープンセッション設定の変更"
+    },
+    "activity_log.filter.changed_public_link_setting": {
+        "string": "公開リンク設定の変更"
+    },
+    "activity_log.filter.changed_team_creation_controls": {
+        "string": "チーム作成設定の変更"
+    },
+    "activity_log.filter.changed_the_org_access_of_a_team": {
+        "string": "チームの組織アクセス権の変更"
+    },
+    "activity_log.filter.changed_the_team_access_of_a_project": {
+        "string": "プロジェクトのチームアクセス権の変更"
+    },
+    "activity_log.filter.changed_the_workspace_of_a_team": {
+        "string": "チームのワークスペースの変更"
+    },
+    "activity_log.filter.changed_workspace_public_link_setting": {
+        "string": "ワークスペースの公開リンク設定の変更"
+    },
+    "activity_log.filter.community": {
+        "string": "コミュニティ"
+    },
+    "activity_log.filter.configurable_upgrade_request_flow_changed": {
+        "string": "アップグレード申請フローの変更"
+    },
+    "activity_log.filter.created_a_branch": {
+        "string": "ブランチ作成"
+    },
+    "activity_log.filter.created_a_file": {
+        "string": "ファイル作成"
+    },
+    "activity_log.filter.created_a_project": {
+        "string": "プロジェクト作成"
+    },
+    "activity_log.filter.created_a_team": {
+        "string": "チーム作成"
+    },
+    "activity_log.filter.created_a_workspace": {
+        "string": "ワークスペース作成"
+    },
+    "activity_log.filter.cursor_chat_setting_change": {
+        "string": "カーソルチャット有効/無効"
+    },
+    "activity_log.filter.custom": {
+        "string": "カスタム"
+    },
+    "activity_log.filter.default_role.seat_rename": {
+        "string": "デフォルトのシートタイプ"
+    },
+    "activity_log.filter.deleted_a_branch": {
+        "string": "ブランチ削除"
+    },
+    "activity_log.filter.deleted_a_project": {
+        "string": "プロジェクト削除"
+    },
+    "activity_log.filter.deleted_a_team": {
+        "string": "チーム削除"
+    },
+    "activity_log.filter.deleted_a_workspace": {
+        "string": "ワークスペース削除"
+    },
+    "activity_log.filter.duplicated_a_file": {
+        "string": "ファイル複製"
+    },
+    "activity_log.filter.exported_a_file": {
+        "string": "ファイルのエクスポート"
+    },
+    "activity_log.filter.exported_the_members_list": {
+        "string": "メンバーリストのエクスポート"
+    },
+    "activity_log.filter.exported_the_org_team_list": {
+        "string": "組織のチームリストのエクスポート"
+    },
+    "activity_log.filter.exported_the_workspace_team_list": {
+        "string": "ワークスペースのチームリストのエクスポート"
+    },
+    "activity_log.filter.external_access": {
+        "string": "外部アクセス"
+    },
+    "activity_log.filter.external_org_membership_changed": {
+        "string": "外部組織のメンバーシップ変更"
+    },
+    "activity_log.filter.external_team_membership_changed": {
+        "string": "外部チームのメンバーシップ変更"
+    },
+    "activity_log.filter.fig_file_set_password": {
+        "string": "ファイルパスワード設定"
+    },
+    "activity_log.filter.fig_file_unset_password": {
+        "string": "ファイルパスワード設定解除"
+    },
+    "activity_log.filter.file_link_access_changed": {
+        "string": "ファイルリンクアクセスを変更"
+    },
+    "activity_log.filter.file_link_expiration_changed": {
+        "string": "ファイルリンクの有効期間変更"
+    },
+    "activity_log.filter.file_membership_changed": {
+        "string": "ファイルメンバーシップ変更"
+    },
+    "activity_log.filter.file_published_updated_deleted": {
+        "string": "ファイル発行/更新/削除"
+    },
+    "activity_log.filter.file_repo_membership_changed": {
+        "string": "ブランチメンバーシップ変更"
+    },
+    "activity_log.filter.files": {
+        "string": "ファイル"
+    },
+    "activity_log.filter.google_sso_auth": {
+        "string": "Google SSO認証変更"
+    },
+    "activity_log.filter.idle_timeout_setting_change": {
+        "string": "アイドルセッションタイムアウト変更"
+    },
+    "activity_log.filter.incoming_transfers": {
+        "string": "着信移転"
+    },
+    "activity_log.filter.install_plugins_org_wide": {
+        "string": "組織でのプラグインのインストール"
+    },
+    "activity_log.filter.install_widgets_org_wide": {
+        "string": "組織でのウィジェットのインストール"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "visual_bell.style_s_spread_field_no_longer_applies_when_converting_to_vector_type": {
+        "string": "ベクタータイプへの変換時に、スタイルの広がりフィールドは適用されなくなりました"
+    },
+    "visual_bell.symbol_observer_is_not_running": {
+        "string": "SymbolObserverが実行されていません"
+    },
+    "visual_bell.template_insert_multipage": {
+        "string": "マルチページテンプレートを挿入しました"
+    },
+    "visual_bell.text_copy_restricted": {
+        "string": "このファイルの編集者だけがテキストをコピーできます"
+    },
+    "visual_bell.there_are_no_nodes_to_export": {
+        "string": "エクスポートするノードがありません"
+    },
+    "visual_bell.there_are_no_stickies_to_export": {
+        "string": "エクスポートする付箋がありません"
+    },
+    "visual_bell.there_are_no_tables_to_export": {
+        "string": "エクスポートするテーブルはありません"
+    },
+    "visual_bell.there_are_no_top_level_frames_on_the_current_page_to_export": {
+        "string": "現在のページに、エクスポートする最上位フレームがありません"
+    },
+    "visual_bell.there_are_no_votes_to_export": {
+        "string": "エクスポートする投票がありません"
+    },
+    "visual_bell.unsafe_with_unsaved_content": {
+        "string": "このアクションは、コンテンツが保存されていない状態では安全に実行できません。ドキュメントを保存してから、もう一度お試しください。"
+    },
+    "visual_bell.unset_align_content": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの行間の自動設定を解除しました}}"
+    },
+    "visual_bell.updated_num_state_groups_repaired_state_group_s": {
+        "string": "{numStateGroupsRepaired}状態グループを更新しました。"
+    },
+    "visual_bell.variables_infinite_loop": {
+        "string": "無効 — その選択をすることで、バリアブルの無限ループが作成されます。"
+    },
+    "visual_bell.variables_self_referential": {
+        "string": "無効 — バリアブルはそれ自体と等しくなりません。"
+    },
+    "visual_bell.video_must_be_less_than_100mb": {
+        "string": "動画ファイルは100 MB未満にしてください。"
+    },
+    "visual_bell.video_must_be_less_than_30mb": {
+        "string": "動画ファイルは30 MB未満にしてください。"
+    },
+    "visual_bell.video_no_edit_permissions": {
+        "string": "動画のアップロードは、ドラフトに無い有料のプロチームのファイルのみで有効です。"
+    },
+    "visual_bell.video_resource_creation_error": {
+        "string": "動画アップロードエラー: 動画データが無効です。"
+    },
+    "visual_bell.video_type_must_be_mp4_mov_webm": {
+        "string": "動画ファイルの種類はMP4、MOV、またはWebMにする必要があります。"
+    },
+    "visual_bell.vote_stamp_moved_to_nonvoteable_area_warning": {
+        "string": "この投票はカウントされません。投票を正しく配置していることを確認してください。"
+    },
+    "visual_bell.vote_stamp_out_of_votes": {
+        "string": "投票できません"
+    },
+    "visual_bell.vote_stamp_placed_on_nonvoteable_area_error": {
+        "string": "付箋、シェイプ、イメージ、または何らかのテキストへの投票を試行"
+    },
+    "visual_bell.zoom-to-100": {
+        "string": "100%にズーム"
+    },
+    "visual_bell.zoom-to-fit": {
+        "string": "自動ズーム調整します"
+    },
+    "visual_bell.zoom-to-selection": {
+        "string": "選択範囲に合わせてズーム"
+    },
+    "voting.csv_export.header.content": {
+        "string": "コンテンツ"
+    },
+    "voting.csv_export.header.creator": {
+        "string": "作成者"
+    },
+    "voting.csv_export.header.votes": {
+        "string": "投票"
+    },
+    "whiteboard.csv.csv_input_too_large": {
+        "string": "CSV入力が大きすぎます"
+    },
+    "whiteboard.csv.file_empty": {
+        "string": "CSVファイルが空です"
+    },
+    "whiteboard.csv.html_input_too_large": {
+        "string": "HTML入力が大きすぎます"
+    },
+    "whiteboard.csv.parse_failed": {
+        "string": "解析が失敗しました"
+    },
+    "whiteboard.csv.too_many_cells": {
+        "string": "CSV入力は一度に{maximumCells}セルまでに制限されています"
+    },
+    "whiteboard.csv_export.content": {
+        "string": "コンテンツ"
+    },
+    "whiteboard.csv_export.created_by": {
+        "string": "作成者"
+    },
+    "whiteboard.immutable_frame.add_code": {
+        "string": "コードを追加"
+    },
+    "whiteboard.immutable_frame.add_text": {
+        "string": "テキストを追加"
+    },
+    "whiteboard.immutable_frame.add_text_cta": {
+        "string": "メッセージを入力(@でメンバーをメンション)"
+    },
+    "whiteboard.immutable_frame.table_limit_reached": {
+        "string": "部分的な貼り付けに成功—テーブルサイズの上限に到達しました。"
+    },
+    "whiteboard.jamboard_importer.numbered_frame_section_name": {
+        "string": "フレーム{number}"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_1_description": {
+        "string": "あまりにもシンプル。"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_1_text": {
+        "string": "PB&Jサンドイッチ"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_2_description": {
+        "string": "食後の眠気!"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_child_2_text": {
+        "string": "ブリトー"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_1_text": {
+        "string": "サンドイッチ 🥪"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_1_description": {
+        "string": "ディナーの気分。"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_1_text": {
+        "string": "チリ"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_2_description": {
+        "string": "上と同じ!"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_child_2_text": {
+        "string": "ラーメン"
+    },
+    "whiteboard.mindmaps_onboarding_template.category_2_text": {
+        "string": "スープ🍜"
+    }
+}

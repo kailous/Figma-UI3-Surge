@@ -1,0 +1,152 @@
+{
+    "browse_templates_modal.search_templates": {
+        "string": "テンプレートを検索"
+    },
+    "browse_templates_modal.see_all": {
+        "string": "すべて表示"
+    },
+    "browse_templates_modal.see_more_details_in_community": {
+        "string": "コミュニティで詳細を確認する"
+    },
+    "browse_templates_modal.subcategory.activity": {
+        "string": "アクティビティ別"
+    },
+    "browse_templates_modal.subcategory.role": {
+        "string": "役割別"
+    },
+    "browse_templates_modal.use_template": {
+        "string": "テンプレートを使用"
+    },
+    "browse_templates_modal.view_details": {
+        "string": "詳細を表示"
+    },
+    "browse_templates_modal_content.see_more_in_community": {
+        "string": "コミュニティで詳細を表示する"
+    },
+    "browse_templates_modal_sidebar.get_started": {
+        "string": "開始"
+    },
+    "browse_templates_modal_sidebar.see_more_in_community": {
+        "string": "コミュニティで詳細を表示する"
+    },
+    "figjam_try.already_claimed_modal.continue": {
+        "string": "続行"
+    },
+    "figjam_try.already_claimed_modal.description": {
+        "string": "現時点で、まだこのファイルにアクセスできます。アカウントにコピーを追加するには、{file_duplicate}を実行してください。"
+    },
+    "figjam_try.already_claimed_modal.file_duplicate": {
+        "string": "[ファイル名]→[複製]"
+    },
+    "figjam_try.already_claimed_modal.header": {
+        "string": "このボードは、すでにほかのユーザーのアカウントに保存されたようです。"
+    },
+    "figjam_try.already_have_an_account": {
+        "string": "アカウントを既にお持ちですか? {log_in}"
+    },
+    "figjam_try.already_have_an_account_log_in": {
+        "string": "ログイン"
+    },
+    "figjam_try.claim_banner_title_1_hour_or_less": {
+        "string": "ジャムセッションの残り時間は1時間未満です"
+    },
+    "figjam_try.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "figjam_try.default_filename": {
+        "string": "{userName}のボード"
+    },
+    "figjam_try.drafts_banner_description": {
+        "string": "他のユーザーが作業を続けられるようにするため、このファイルをドラフトフォルダから移動してください。"
+    },
+    "figjam_try.drafts_banner_title_1_hour_or_less": {
+        "string": "他のユーザーが編集できるのはあと1時間です"
+    },
+    "figjam_try.drafts_banner_title_more_time": {
+        "string": "他のユーザーが編集できるのはあと{num_hours}時間です。"
+    },
+    "figjam_try.failed_to_create_file": {
+        "string": "ファイルの作成に失敗しました"
+    },
+    "figjam_try.google_meet_user_name": {
+        "string": "Googleデバイス"
+    },
+    "figjam_try.link_copied": {
+        "string": "リンクがコピーされました"
+    },
+    "figjam_try.meet_hardware.board_deletion_disclaimer": {
+        "string": "その後、このボードは削除されます。"
+    },
+    "figjam_try.meet_hardware.timer_hours_left": {
+        "string": "{hoursLeft, plural, other {{hoursLeft, number, integer}時間後に保存されます}}"
+    },
+    "figjam_try.meet_hardware.timer_less_than_ten_minutes_left": {
+        "string": "10分以内に保存されます。"
+    },
+    "figjam_try.meet_hardware.timer_minutes_left": {
+        "string": "{minutesLeft, plural, other {{minutesLeft, number, integer}分後に保存されます}}"
+    },
+    "figjam_try.move_file": {
+        "string": "ファイルを移動"
+    },
+    "figjam_try.name_input_placeholder": {
+        "string": "例: Nathalie"
+    },
+    "figjam_try.onboarding_disclaimer": {
+        "string": "[続行]をクリックすると、当社の{tos}および{privacy_policy}に同意したことになります"
+    },
+    "figjam_try.onboarding_disclaimer_privacy_policy": {
+        "string": "プライバシーポリシー"
+    },
+    "figjam_try.onboarding_disclaimer_tos": {
+        "string": "サービス利用規約"
+    },
+    "figjam_try.onboarding_name_validation_error": {
+        "string": "名前を入力してください"
+    },
+    "figjam_try.onboarding_submit": {
+        "string": "続行"
+    },
+    "figjam_try.onboarding_subtext": {
+        "string": "優れたプランも、画期的なアイデアも、効率的なチームコラボレーションから生まれます。"
+    },
+    "figjam_try.onboarding_title": {
+        "string": "FigJamへようこそ"
+    },
+    "figjam_try.save_board": {
+        "string": "ボードを保存"
+    },
+    "figjam_try.save_modal.cta": {
+        "string": "ボードを保存"
+    },
+    "figjam_try.save_modal.file_duplicates": {
+        "string": "[ファイル名]→[複製]"
+    },
+    "figjam_try.save_modal.headline": {
+        "string": "よろしいですか?"
+    },
+    "figjam_try.save_modal.new_team": {
+        "string": "下のボタンをクリックしてください。このFigJamボードが新しいチームに保存されます。"
+    },
+    "figjam_try.save_modal.save_one_team": {
+        "string": "このボードは1つのアカウントにのみ保存されますが、ボードを複製({file_duplicate})するか、リンクを{share}することによって、ほかのユーザーによるアクセスを許可することができます。"
+    },
+    "figjam_try.save_modal.share": {
+        "string": "共有"
+    },
+    "figjam_try.share_link_modal.cta": {
+        "string": "無料アカウントを作成する"
+    },
+    "figjam_try.share_link_modal.cta_description": {
+        "string": "このボードの閲覧のみのユーザーと編集できるユーザーを管理したいですか?"
+    },
+    "figjam_try.share_link_modal.title": {
+        "string": "このリンクを共有して他のユーザーと作業"
+    },
+    "figjam_try.template_creation_failed": {
+        "string": "テンプレートを複製できません"
+    },
+    "figjam_try.this_file_has_been_saved_to_drafts": {
+        "string": "ドラフトに保存しました"
+    }
+}

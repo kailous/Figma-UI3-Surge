@@ -1,0 +1,152 @@
+{
+    "settings_tab.section_header.login_and_provisioning": {
+        "string": "ログインとプロビジョニング"
+    },
+    "settings_tab.section_header.other": {
+        "string": "その他"
+    },
+    "settings_tab.section_header.profile": {
+        "string": "組織プロフィール"
+    },
+    "settings_tab.section_header.resources": {
+        "string": "リソース"
+    },
+    "settings_tab.section_header.slides": {
+        "string": "Figma Slides"
+    },
+    "settings_tab.section_header.team_management": {
+        "string": "チーム管理"
+    },
+    "settings_tab.section_header.user_data": {
+        "string": "ユーザーデータ"
+    },
+    "settings_tab.show_more": {
+        "string": "詳細表示...."
+    },
+    "settings_tab.slides.access_to_slides": {
+        "string": "Figma Slidesへのアクセス"
+    },
+    "settings_tab.slides.disable_success": {
+        "string": "Figma Slidesは組織で無効になっています"
+    },
+    "settings_tab.slides.enable_success": {
+        "string": "組織でFigma Slidesが有効になり、利用可能になりました"
+    },
+    "settings_tab.slides.let_users_create_slides": {
+        "string": "ユーザーがFigma Slidesでスライドデッキを作成、編集、表示できるようにします。{learnMoreLink}"
+    },
+    "settings_tab.sso_method.any_method": {
+        "string": "すべての方法"
+    },
+    "settings_tab.sso_method.google_only": {
+        "string": "Googleのみ"
+    },
+    "settings_tab.sso_method.saml_only": {
+        "string": "SAMLのみ"
+    },
+    "settings_tab.team_creation_description": {
+        "string": "この組織でチームを作成できるユーザーを変更します"
+    },
+    "settings_tab.team_creation_label": {
+        "string": "チームを作成"
+    },
+    "settings_tab.ui_kits_disabled": {
+        "string": "UIキットはすべてのユーザーで無効です"
+    },
+    "settings_tab.ui_kits_enabled": {
+        "string": "UIキットはすべてのユーザーで有効です"
+    },
+    "settings_tab.ui_kits_toggle_description": {
+        "string": "Figmaや選択されたパートナーによって作成されたライブラリを、デザインファイルでデフォルトで利用できるようにします。"
+    },
+    "settings_tab.ui_kits_toggle_label": {
+        "string": "UIキット"
+    },
+    "settings_tab.upgrade_to_enterprise_learn_more_link": {
+        "string": "詳細情報"
+    },
+    "settings_tab.upgrade_to_enterprise_plan_text": {
+        "string": "エンタープライズプランでは、組織のニーズに合わせて開発モードを微調整できます。"
+    },
+    "settings_tab.vat_gst": {
+        "string": "付加価値税 / 商品サービス税"
+    },
+    "settings_tab.widget_admin_approval_description": {
+        "string": "管理者によるコミュニティのウィジェットの承認を必須にします"
+    },
+    "settings_tab.widget_admin_approval_disabled": {
+        "string": "すべてのウィジェットが許可されました"
+    },
+    "settings_tab.widget_admin_approval_enabled": {
+        "string": "ウィジェットは、承認済みリストのウィジェットに制限されました"
+    },
+    "settings_tab.widget_admin_approval_label": {
+        "string": "ウィジェットの承認"
+    },
+    "settings_tab.workspace_selector_description_with_link": {
+        "string": "新規および未割り当てのユーザーのログイン時にワークスペースを選択するように求めるプロンプトを表示します"
+    },
+    "settings_tab.workspace_selector_label": {
+        "string": "ワークスペース選択機能"
+    },
+    "shared_fonts.error_message_for_upload_failure_400": {
+        "string": "無効なフォントです。"
+    },
+    "shared_fonts.error_message_for_upload_failure_403": {
+        "string": "このアクションを実行する権限がありません。"
+    },
+    "shared_fonts.error_message_for_upload_failure_409": {
+        "string": "このフォントは既に組織にアップロードされています。このフォントはフォント選択機能からアクセスできます。"
+    },
+    "shared_fonts.error_message_for_upload_failure_422": {
+        "string": "このファイルには欠落しているフィールドまたは無効なフィールドがあります。"
+    },
+    "shared_fonts.error_message_for_upload_failure_429": {
+        "string": "このファイルは大きすぎます。ファイルは20 MB未満にしてください。"
+    },
+    "shared_fonts.error_message_for_upload_failure_default_with_help_center": {
+        "string": "フォントをアップロードできませんでした。Figmaは.TTFおよび.OTFフォントをサポートしています。詳細については、当社の{helpCenterLink}にアクセスしてください。"
+    },
+    "shared_fonts.import_complete_with_errors": {
+        "string": "{unsuccessfulUploadCount, plural, other {共有フォントのインポートが完了しましたが、{unsuccessfulUploadCount}件のエラーが発生しました}}"
+    },
+    "shared_fonts.import_complete_with_no_errors": {
+        "string": "共有フォントのインポートが完了しました"
+    },
+    "shared_fonts.importing_font_files": {
+        "string": "フォントファイルをインポート中..."
+    },
+    "shared_fonts.review_font_upload_errors": {
+        "string": "確認"
+    },
+    "shared_fonts.successful_deletes": {
+        "string": "{totalDeletes, plural, other {{totalDeletes}個のフォントが削除されました}}"
+    },
+    "shared_fonts.unsuccessful_deletes": {
+        "string": "{totalDeletes, plural, other {{totalDeletes}個中{numUnsuccessfulDeletes}個のフォントを削除できませんでした}}"
+    },
+    "shared_fonts.upload_error_modal.error": {
+        "string": "エラー"
+    },
+    "shared_fonts.upload_error_modal.font": {
+        "string": "フォント"
+    },
+    "shared_fonts.upload_error_modal.okay": {
+        "string": "OK"
+    },
+    "shared_fonts.upload_error_modal.title": {
+        "string": "{unsuccessfulUploads, plural, other {フォントアップロードエラー}}"
+    },
+    "shared_fonts.uploads_remaining": {
+        "string": "{totalFileCount}個中{processedFileCount}個のフォントファイルをインポート中..."
+    },
+    "teams_table.ask_to_join": {
+        "string": "参加を依頼"
+    },
+    "teams_table.assign_teams": {
+        "string": "チームを割り当てる"
+    },
+    "teams_table.cancel_join_request": {
+        "string": "参加リクエストをキャンセル"
+    }
+}

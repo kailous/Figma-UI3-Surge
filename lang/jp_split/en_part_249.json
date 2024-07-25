@@ -1,0 +1,152 @@
+{
+    "file_permissions_modal.a_password_was_set_on_the_main_file_people_will_need_to_enter_that_password_to_access_any_branches": {
+        "string": "メインファイルにパスワードが設定されました。ブランチにアクセスするユーザーは、そのパスワードを入力する必要があります。"
+    },
+    "file_permissions_modal.advanced_options": {
+        "string": "詳細オプション"
+    },
+    "file_permissions_modal.allow_viewers_to_copy_share_and_export_from_this_file": {
+        "string": "閲覧者にこのファイルのコピー、共有、エクスポートを許可する"
+    },
+    "file_permissions_modal.collaborators_row_v2": {
+        "string": "{collaborator_1_name}、{collaborator_2_name}、{remaining_collaborator_text}"
+    },
+    "file_permissions_modal.collaborators_row_v2.num_remaining_collaborators_others": {
+        "string": "他{num_remaining_collaborators}人"
+    },
+    "file_permissions_modal.collaborators_sub_tab_title": {
+        "string": "このファイルの作業者は{num_collaborators}人です"
+    },
+    "file_permissions_modal.copy_audience_link": {
+        "string": "オーディエンスのリンクをコピー"
+    },
+    "file_permissions_modal.copy_file_link": {
+        "string": "リンクをコピー"
+    },
+    "file_permissions_modal.copy_folder_link": {
+        "string": "リンクをコピー"
+    },
+    "file_permissions_modal.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "file_permissions_modal.file_name_s_project": {
+        "string": "{fileName}のプロジェクト"
+    },
+    "file_permissions_modal.file_name_s_team": {
+        "string": "{fileName}のチーム"
+    },
+    "file_permissions_modal.folder_name": {
+        "string": "{folderName}"
+    },
+    "file_permissions_modal.give_them_access": {
+        "string": "アクセスを許可"
+    },
+    "file_permissions_modal.google_classroom_modal.disclaimer": {
+        "string": "生徒/学生はこのファイルへのアクセス権が必要になります。ファイルの権限の確認や更新は{link}で行うことができます。"
+    },
+    "file_permissions_modal.google_classroom_modal.disclaimer_link": {
+        "string": "共有設定"
+    },
+    "file_permissions_modal.google_classroom_modal.duplicate_option": {
+        "string": "生徒/学生ごとにコピーを作成"
+    },
+    "file_permissions_modal.google_classroom_modal.duplicate_option_description": {
+        "string": "閲覧アクセス権または編集アクセス権が必要です"
+    },
+    "file_permissions_modal.google_classroom_modal.editable_option": {
+        "string": "生徒/学生にこのファイルへの直接の参加と編集を許可"
+    },
+    "file_permissions_modal.google_classroom_modal.editable_option_description": {
+        "string": "編集アクセス権が必要です"
+    },
+    "file_permissions_modal.google_classroom_modal.title": {
+        "string": "このファイルの共有方法"
+    },
+    "file_permissions_modal.google_confirmation_modal.confirm_text": {
+        "string": "オープンセッションを開始"
+    },
+    "file_permissions_modal.google_confirmation_modal.description": {
+        "string": "このリンクを知っている、すなわちGoogle Meetデバイスを見ている誰でも、ファイルの閲覧と編集を行うことができます。オープンセッションはいつでも終了できます。また、24時間後に自動的に終了します。"
+    },
+    "file_permissions_modal.google_confirmation_modal.here": {
+        "string": "こちら"
+    },
+    "file_permissions_modal.google_confirmation_modal.image_alt_text": {
+        "string": "Google Meetデバイス"
+    },
+    "file_permissions_modal.google_confirmation_modal.subtext": {
+        "string": "現在、キャストできるのはSeries Onesディスプレイのみです。お使いのGoogle Meetデバイスに互換性があるかどうかご確認ください{link}。"
+    },
+    "file_permissions_modal.google_confirmation_modal.subtitle": {
+        "string": "オープンセッションを開始しようとしています"
+    },
+    "file_permissions_modal.google_screencast_modal.title": {
+        "string": "スクリーンキャストコード"
+    },
+    "file_permissions_modal.invite": {
+        "string": "招待"
+    },
+    "file_permissions_modal.invite_sent": {
+        "string": "{num_invites, plural, other {{num_invites}人のユーザー}}"
+    },
+    "file_permissions_modal.invite_sent_prefix": {
+        "string": "招待済み"
+    },
+    "file_permissions_modal.invite_user_sharing_restricted": {
+        "string": "Figmaではこのファイルの共有を制限しています。{supportSharingRestrictedEmail}までメールでお問い合わせください。"
+    },
+    "file_permissions_modal.link_copied": {
+        "string": "リンクをコピーしました"
+    },
+    "file_permissions_modal.link_has_been_sent": {
+        "string": "リンクを送信しました"
+    },
+    "file_permissions_modal.move_and_allow_edits": {
+        "string": "移動して編集を許可"
+    },
+    "file_permissions_modal.pending_user_comment_visual_bell_multiple": {
+        "string": "確認してほしい場所をチームのメンバーにコメントで示します。"
+    },
+    "file_permissions_modal.pending_user_comment_visual_bell_singular": {
+        "string": "確認してほしい場所を{email}にコメントで示します。"
+    },
+    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file": {
+        "string": "ブランチに招待されているユーザーは、常にメインファイルを閲覧できます。"
+    },
+    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration": {
+        "string": "ブランチに招待されたユーザーはメインファイルを常に閲覧できます。メインファイルへのリンクには有効期限が設定されており、有効期限はこのブランチに適用されます。"
+    },
+    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration_and_password": {
+        "string": "ブランチに招待されたユーザーはメインファイルを常に閲覧できます。メインファイルへのリンクには有効期限とパスワードがあり、このブランチに適用されます。"
+    },
+    "file_permissions_modal.screenshare_to_google_device": {
+        "string": "Google Meetデバイスにキャストする"
+    },
+    "file_permissions_modal.screenshare_to_google_device.aria_label": {
+        "string": "ツールチップ"
+    },
+    "file_permissions_modal.screenshare_to_google_device.error_generating_code": {
+        "string": "コードを生成できませんでした。新しいコードを生成するには、[リセット]ボタンを使用してください。"
+    },
+    "file_permissions_modal.screenshare_to_google_device.generic_error": {
+        "string": "Google Meetデバイスにキャストできません。後でもう一度お試しください。"
+    },
+    "file_permissions_modal.screenshare_to_google_device.only_admins": {
+        "string": "上記のユーザーのみがキャストできます"
+    },
+    "file_permissions_modal.screenshare_to_google_device.only_pro_teams": {
+        "string": "キャストを行うには、有料プランへのアップグレードが必要です"
+    },
+    "file_permissions_modal.screenshare_to_google_device.open_sessions_disabled": {
+        "string": "組織により、キャストが必要なオープンセッションは無効です。"
+    },
+    "file_permissions_modal.secondary_header.go_back": {
+        "string": "戻る"
+    },
+    "file_permissions_modal.send": {
+        "string": "送信"
+    },
+    "file_permissions_modal.send_invite": {
+        "string": "招待"
+    }
+}

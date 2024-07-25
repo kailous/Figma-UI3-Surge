@@ -1,0 +1,152 @@
+{
+    "file_browser.drafts_to_move.file_last_modified_at_label": {
+        "string": "{timeDifference}に最終変更"
+    },
+    "file_browser.drafts_to_move.file_transfer_deletion_type": {
+        "string": "削除中"
+    },
+    "file_browser.drafts_to_move.file_transfer_description": {
+        "string": "処理にはしばらく時間がかかる場合があります。その間、このページに留まる必要はありません。すべての処理が終わったらお知らせします。"
+    },
+    "file_browser.drafts_to_move.file_transfer_header": {
+        "string": "多くのドラフトを{transferType}..."
+    },
+    "file_browser.drafts_to_move.file_transfer_migration_type": {
+        "string": "移動中"
+    },
+    "file_browser.drafts_to_move.long_running_draft_migration": {
+        "string": "ドラフトを移動中"
+    },
+    "file_browser.drafts_to_move.long_running_draft_migration_completed": {
+        "string": "ドラフトの移動が完了しました"
+    },
+    "file_browser.drafts_to_move.long_running_draft_migration_learn_more": {
+        "string": "詳細情報"
+    },
+    "file_browser.drafts_to_move.move_all_drafts_button": {
+        "string": "ドラフトをすべて移動"
+    },
+    "file_browser.drafts_to_move.move_draft_button": {
+        "string": "移動"
+    },
+    "file_browser.drafts_to_move.move_drafts_below": {
+        "string": "下のドラフトをチームの1つに移動してください。ドラフトは、作成者と共有メンバー以外には非公開のままとなります。"
+    },
+    "file_browser.drafts_to_move.open_draft_button": {
+        "string": "開く"
+    },
+    "file_browser.drafts_to_move.org_restriction_text_orgs_remaining": {
+        "string": "{numRemainingOrgs, plural, other {他{numRemainingOrgs}個の組織}}"
+    },
+    "file_browser.drafts_to_move.selected_count_files": {
+        "string": "{numSelected, plural, other {{numSelected}ファイル選択済み}}"
+    },
+    "file_browser.drafts_to_move.table_header_created": {
+        "string": "作成"
+    },
+    "file_browser.drafts_to_move.table_header_last_modified": {
+        "string": "最終更新"
+    },
+    "file_browser.drafts_to_move.table_header_name": {
+        "string": "名前"
+    },
+    "file_browser.drafts_to_move.viewbar_heading": {
+        "string": "ドラフトをチームに移動してください"
+    },
+    "file_browser.drafts_to_move.viewbar_learn_more_link": {
+        "string": "詳細情報"
+    },
+    "file_browser.error_on_move_to_personal_project": {
+        "string": "プロジェクトがチーム以外ではサポートされなくなったため、ファイルを個人のプロジェクトに移動することはできません。"
+    },
+    "file_browser.error_try_again": {
+        "string": "エラーが発生しました。もう一度お試しください"
+    },
+    "file_browser.file_browser_actions.branch_archive_error": {
+        "string": "これらのブランチのアクティブ化中にエラーが発生しました"
+    },
+    "file_browser.file_browser_actions.branch_archived": {
+        "string": "ブランチがアーカイブされました"
+    },
+    "file_browser.file_browser_actions.branch_delete_error": {
+        "string": "このブランチの削除中にエラーが発生しました"
+    },
+    "file_browser.file_browser_actions.branch_deleted": {
+        "string": "ブランチが削除されました"
+    },
+    "file_browser.file_browser_actions.branch_restored": {
+        "string": "ブランチが復元されました"
+    },
+    "file_browser.file_browser_actions.cant_move_published_file": {
+        "string": "チームによってコミュニティハブに公開されたファイルを移動することはできません。ファイル{fileName}は、チーム{teamName}によって公開されました。"
+    },
+    "file_browser.file_browser_actions.claim_team_error": {
+        "string": "このチームに要求しようとしているときにエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_project": {
+        "string": "{numFiles, plural, other {これらのファイルを移動しますか? 前のプロジェクトのメンバーがそれらにアクセスできなくなる場合があります。}}"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_project_multiple": {
+        "string": "これらのファイルを移動しますか? 前のプロジェクトのメンバーがそれらにアクセスできなくなる場合があります"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_shared_project": {
+        "string": "{numFiles, plural, other {これらのファイルを移動しますか? {projectName}のメンバーがそれらにアクセスできなくなる場合があります}}"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_shared_project_multiple": {
+        "string": "これらのファイルを移動しますか? {projectName}のメンバーがそれらの一部にアクセスできなくなる場合があります"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_team": {
+        "string": "{numFiles, plural, other {これらのファイルを移動しますか? {teamName}のメンバーがそれにアクセスできなくなる場合があります。}}"
+    },
+    "file_browser.file_browser_actions.confirm_move_from_team_multiple_folders": {
+        "string": "これらのファイルを移動しますか? {teamName}のメンバーがそれらの一部にアクセスできなくなる場合があります。"
+    },
+    "file_browser.file_browser_actions.create_project_error": {
+        "string": "このプロジェクトの作成中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.default_thumbnail_restored": {
+        "string": "デフォルトのサムネイルが復元されました"
+    },
+    "file_browser.file_browser_actions.desktop_go_to_your_browser": {
+        "string": "アカウントの追加を続行するには、ブラウザに移動してください"
+    },
+    "file_browser.file_browser_actions.duplicate_file_error": {
+        "string": "このファイルの複製中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.embed_code_copied": {
+        "string": "埋め込みコードがクリップボードにコピーされました"
+    },
+    "file_browser.file_browser_actions.embed_code_copy_error": {
+        "string": "埋め込みコードのコピー中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.error_on_data_update": {
+        "string": "ユーザーまたはワークスペースデータの更新中にエラーが発生しました"
+    },
+    "file_browser.file_browser_actions.error_on_team_member_removal": {
+        "string": "チームメンバーの削除中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.file_copy_error": {
+        "string": "このファイルのコピー中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.file_delete_error": {
+        "string": "これらのファイルの削除中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.file_pin_error": {
+        "string": "このファイルのピン留め中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.file_pinned_to_project": {
+        "string": "ファイルがプロジェクトにピン留めされました"
+    },
+    "file_browser.file_browser_actions.file_processing_error": {
+        "string": "このファイルの処理中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.file_restore_error": {
+        "string": "これらのファイルの復元中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.file_unpin_error": {
+        "string": "このファイルのピン留め解除中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.files_deleted": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルが削除されました}}"
+    }
+}

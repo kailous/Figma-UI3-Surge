@@ -1,0 +1,152 @@
+{
+    "link_expired.description": {
+        "string": "このファイルはこのリンクで利用できなくなりました。誤りと思う場合は、ファイルのオーナーに連絡してください。"
+    },
+    "link_expired.go_back_to_figma": {
+        "string": "Figmaに戻る"
+    },
+    "link_expired.header": {
+        "string": "このリンクは非公開になりました"
+    },
+    "link_expired_overlay.body": {
+        "string": "{formattedTimestamp}現在、このファイルのオーディエンスは、「{audience}」です。"
+    },
+    "link_expired_overlay.different_branch_permissions_body": {
+        "string": "{formattedTimestamp}現在、このブランチのメインファイルのオーディエンスは「{audience}」です。"
+    },
+    "link_expired_overlay.different_branch_permissions_header": {
+        "string": "メインファイルのリンクは非公開になりました"
+    },
+    "link_expired_overlay.header": {
+        "string": "このリンクは非公開になりました"
+    },
+    "link_expired_overlay.same_branch_permissions_body": {
+        "string": "{formattedTimestamp}現在、このブランチとそのメインファイルのオーディエンスは「{audience}」です。"
+    },
+    "link_pwd_input.a_password_is_needed_to_access_the_figjam_file": {
+        "string": "FigJamファイルを使用するにはパスワードが必要です"
+    },
+    "link_pwd_input.a_password_is_needed_to_access_the_file": {
+        "string": "ファイルにアクセスするにはパスワードが必要です"
+    },
+    "link_pwd_input.a_password_is_needed_to_access_the_prototype": {
+        "string": "プロトタイプにアクセスするにはパスワードが必要です"
+    },
+    "link_pwd_input.already_have_a_figma_account": {
+        "string": "Figmaアカウントを既にお持ちですか? {loginLink}"
+    },
+    "link_pwd_input.continue": {
+        "string": "続行"
+    },
+    "link_pwd_input.enter_password": {
+        "string": "パスワードを入力"
+    },
+    "link_pwd_input.fig_jam_is_an_online_whiteboard_for_teams_learn_more_link": {
+        "string": "FigJamはチームが利用できるオンラインホワイトボードです。{learnMoreLink}"
+    },
+    "link_pwd_input.figma_is_a_design_platform_for_teams_learn_more_link": {
+        "string": "Figmaはチームが利用できるデザインプラットフォームです。{learnMoreLink}"
+    },
+    "link_pwd_input.learn_more": {
+        "string": "詳細情報"
+    },
+    "link_pwd_input.log_in": {
+        "string": "ログイン"
+    },
+    "link_pwd_input.password_required": {
+        "string": "パスワードが必要です"
+    },
+    "link_pwd_input.please_enter_a_valid_password": {
+        "string": "有効なパスワードを入力してください"
+    },
+    "locked_org.description": {
+        "string": "{orgName}の管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認するか、アップデートが完了するまで別のアカウントで作業してください。"
+    },
+    "locked_org.description_no_org": {
+        "string": "管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認するか、アップデートが完了するまで別のアカウントで作業してください。"
+    },
+    "locked_org.description_no_other_accounts": {
+        "string": "{orgName}の管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認してください。"
+    },
+    "locked_org.description_no_other_accounts_no_org": {
+        "string": "管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認してください。"
+    },
+    "locked_org.footer": {
+        "string": "別のアカウントをお探しですか? {addAnotherLink}"
+    },
+    "locked_org.footer_button": {
+        "string": "ここに追加します"
+    },
+    "locked_org.footer_no_other_accounts": {
+        "string": "しばらく別のアカウントで作業をしますか? {addAnotherLink}"
+    },
+    "locked_org.footer_no_other_accounts_button": {
+        "string": "ここにサインインします"
+    },
+    "locked_org.title": {
+        "string": "アップデート中"
+    },
+    "locked_team.banner.all_of_this_teams_work_is_currently_view_only": {
+        "string": "現在、このチームの作業はすべて閲覧のみです。チームのロックが解除されると、もう一度編集できます。{learnMoreLink}"
+    },
+    "locked_team.banner.all_of_this_teams_work_is_currently_view_only_dev_mode": {
+        "string": "現在このチームの作業はすべて閲覧のみです。チームのロックが解除されると、開発モードをもう一度使用できます。{learnMoreLink}"
+    },
+    "locked_team.banner.learn_more": {
+        "string": "詳細情報"
+    },
+    "locked_team.banner.reactivate_professional": {
+        "string": "プロフェッショナルを再度有効にする"
+    },
+    "locked_team.banner.this_board_is_part_of_a_locked_team": {
+        "string": "このボードはロックされているチームの一部です。"
+    },
+    "locked_team.banner.this_file_is_part_of_a_locked_team": {
+        "string": "このファイルはロックされているチームの一部です。"
+    },
+    "locked_team.banner.upgrade_to_professional": {
+        "string": "プロフェッショナルにアップグレード"
+    },
+    "locked_team.card.change_permissions_from_invite_only": {
+        "string": "{numInviteOnlyProjects, plural, other {{numInviteOnlyProjects}件のプロジェクトの権限を「招待のみ」から「リンクを知っているユーザー全員」に変更します}}"
+    },
+    "locked_team.card.change_permissions_from_view_only": {
+        "string": "{numViewOnlyProjects, plural, other {{numViewOnlyProjects}件のプロジェクトの権限を「閲覧のみ」から「編集」に変更します}}"
+    },
+    "locked_team.card.delete_figjam_boards": {
+        "string": "{numFigjamFiles, plural, other {{numFigjamFiles}個のFigJamボードを削除します}}"
+    },
+    "locked_team.card.delete_figma_design_files": {
+        "string": "{numDesignFiles, plural, other {{numDesignFiles}個のFigmaデザインファイルを削除します}}"
+    },
+    "locked_team.card.delete_projects": {
+        "string": "{numProjects, plural, other {{numProjects}件のプロジェクトを削除します}}"
+    },
+    "locked_team.card.editor_previously_on_trial_cta": {
+        "string": "プロフェッショナルプランにアップグレードしてください"
+    },
+    "locked_team.card.editor_previously_on_trial_description": {
+        "string": "プロフェッショナルのトライアルが終了しました。スタータープランの上限に合わせて作品を削除するか、プロフェッショナルプランにアップグレードしてチームを有効にしてください。"
+    },
+    "locked_team.card.editor_previously_paid_cta": {
+        "string": "プロフェッショナルプランを再度有効にしてください"
+    },
+    "locked_team.card.editor_previously_paid_description": {
+        "string": "チームはスタータープランの上限を超えました。ロック解除するには、プロフェッショナルプランを再度有効にするか、作品をいくつか削除してください。"
+    },
+    "locked_team.card.title": {
+        "string": "チームはロックされています"
+    },
+    "locked_team.card.title_viewer": {
+        "string": "このチームはロックされています"
+    },
+    "locked_team.card.view_only_description": {
+        "string": "スタータープランの上限を超えたため、このチームはロックされています。ご不明な点は、管理者にお問い合わせください。"
+    },
+    "locked_team.label.tooltip": {
+        "string": "このチームは現在ロックされています。"
+    },
+    "locked_team.label.view_only": {
+        "string": "閲覧のみ"
+    }
+}

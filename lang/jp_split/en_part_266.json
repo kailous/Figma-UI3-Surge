@@ -1,0 +1,152 @@
+{
+    "proto.action_update_media_play_pause": {
+        "string": "再生/一時停止"
+    },
+    "proto.action_update_media_play_pause_interaction": {
+        "string": "「再生/一時停止」インタラクション"
+    },
+    "proto.action_update_media_play_pause_video": {
+        "string": "動画を再生/一時停止"
+    },
+    "proto.action_update_media_set": {
+        "string": "設定"
+    },
+    "proto.action_update_media_set_time": {
+        "string": "時間を設定"
+    },
+    "proto.action_update_media_set_time_interaction": {
+        "string": "「時間を設定」インタラクション"
+    },
+    "proto.action_update_media_set_to_specific_time": {
+        "string": "特定の時間に設定"
+    },
+    "proto.action_update_media_toggle": {
+        "string": "切り替え"
+    },
+    "proto.action_update_media_toggle_interaction": {
+        "string": "「切り替え」インタラクション"
+    },
+    "proto.action_update_media_unmute": {
+        "string": "ミュート解除"
+    },
+    "proto.action_update_media_unmute_interaction": {
+        "string": "「ミュート解除」インタラクション"
+    },
+    "proto.action_update_media_unmute_only": {
+        "string": "ミュート解除のみ"
+    },
+    "proto.action_url_title": {
+        "string": "開く"
+    },
+    "proto.add_background": {
+        "string": "背景を追加"
+    },
+    "proto.animation": {
+        "string": "アニメーション"
+    },
+    "proto.animation_panel.animate_matching_layers": {
+        "string": "マッチングレイヤーをアニメーション化"
+    },
+    "proto.animation_panel.easing_duration_tooltip": {
+        "string": "イージングの所要時間"
+    },
+    "proto.animation_panel.preserve_scroll_position": {
+        "string": "スクロール位置を保持する"
+    },
+    "proto.animation_panel.reset_component_state": {
+        "string": "コンポーネントの状態をリセット"
+    },
+    "proto.animation_panel.reset_scroll_position": {
+        "string": "スクロール位置をリセット"
+    },
+    "proto.animation_panel.reset_video_state": {
+        "string": "動画の状態をリセット"
+    },
+    "proto.animation_panel.smart_animate_matching_layers_tooltip": {
+        "string": "上の遷移を使用せずに同名のレイヤーでアニメーションを実行"
+    },
+    "proto.assign_variant": {
+        "string": "バリアブルの割り当て..."
+    },
+    "proto.background": {
+        "string": "背景"
+    },
+    "proto.close_when_clicking_outside": {
+        "string": "外部をクリックしたときに閉じる"
+    },
+    "proto.comment": {
+        "string": "コメント"
+    },
+    "proto.condition": {
+        "string": "条件"
+    },
+    "proto.curve": {
+        "string": "曲線"
+    },
+    "proto.delay": {
+        "string": "遅延"
+    },
+    "proto.destination": {
+        "string": "移動先"
+    },
+    "proto.device_panel.height": {
+        "string": "H"
+    },
+    "proto.device_panel.width": {
+        "string": "W"
+    },
+    "proto.direction": {
+        "string": "方向"
+    },
+    "proto.duration": {
+        "string": "所要時間"
+    },
+    "proto.easing_behavior.bezier": {
+        "string": "ベジェ"
+    },
+    "proto.easing_behavior.bezier_custom": {
+        "string": "カスタムベジエ"
+    },
+    "proto.easing_behavior.bezier_custom_short": {
+        "string": "カスタム"
+    },
+    "proto.easing_behavior.bezier_ease_in": {
+        "string": "イーズイン"
+    },
+    "proto.easing_behavior.bezier_ease_in_and_out": {
+        "string": "イーズイン/イーズアウト"
+    },
+    "proto.easing_behavior.bezier_ease_in_and_out_back": {
+        "string": "イーズイン/イーズアウトバック"
+    },
+    "proto.easing_behavior.bezier_ease_in_back": {
+        "string": "イーズインバック"
+    },
+    "proto.easing_behavior.bezier_ease_out": {
+        "string": "イーズアウト"
+    },
+    "proto.easing_behavior.bezier_ease_out_back": {
+        "string": "イーズアウトバック"
+    },
+    "proto.easing_behavior.linear": {
+        "string": "リニア"
+    },
+    "proto.easing_behavior.spring_bouncy": {
+        "string": "バウンス"
+    },
+    "proto.easing_behavior.spring_custom": {
+        "string": "カスタムスプリング"
+    },
+    "proto.easing_behavior.spring_custom_short": {
+        "string": "カスタム"
+    },
+    "proto.easing_behavior.spring_gentle": {
+        "string": "なめらか"
+    },
+    "proto.easing_behavior.spring_quick": {
+        "string": "速い"
+    },
+    "proto.easing_behavior.spring_slow": {
+        "string": "遅い"
+    }
+}

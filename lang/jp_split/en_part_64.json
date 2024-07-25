@@ -1,0 +1,152 @@
+{
+    "community.search.empty_state_public_plugins": {
+        "string": "{query}に一致するプラグインがありません"
+    },
+    "community.search.empty_state_public_plugins_free": {
+        "string": "{query}に一致する無料プラグインがありません"
+    },
+    "community.search.empty_state_public_plugins_paid": {
+        "string": "{query}に一致する有料プラグインがありません"
+    },
+    "community.search.empty_state_public_widgets": {
+        "string": "{query}に一致するウィジェットがありません"
+    },
+    "community.search.empty_state_public_widgets_free": {
+        "string": "{query}に一致する無料ウィジェットがありません"
+    },
+    "community.search.empty_state_public_widgets_paid": {
+        "string": "{query}に一致する有料ウィジェットがありません"
+    },
+    "community.search.no_resources_matching": {
+        "string": "{query}に一致するリソースがありません"
+    },
+    "community.search.no_resources_matching_free": {
+        "string": "{query}に一致する無料リソースがありません"
+    },
+    "community.search.no_resources_matching_paid": {
+        "string": "{query}に一致する有料リソースがありません"
+    },
+    "community.search.placeholder": {
+        "string": "検索"
+    },
+    "community.search.placeholder.search_for_a_resource": {
+        "string": "「ポートフォリオ」など、検索するリソースを入力"
+    },
+    "community.search.search_community": {
+        "string": "コミュニティ内で検索"
+    },
+    "community.search.search_everything_in_community": {
+        "string": "コミュニティ内のすべてを検索"
+    },
+    "community.search.show_all_creators": {
+        "string": "作成者をすべて表示"
+    },
+    "community.search.show_all_search_results": {
+        "string": "検索結果をすべて表示"
+    },
+    "community.shelves.all_collections": {
+        "string": "すべてのコレクション"
+    },
+    "community.shelves.show_more": {
+        "string": "さらに表示"
+    },
+    "community.signed_out_modal.log_in": {
+        "string": "ログイン"
+    },
+    "community.signed_out_modal.sign_up": {
+        "string": "サインアップ"
+    },
+    "community.star_ratings.i_dont_like_it": {
+        "string": "好きではない"
+    },
+    "community.star_ratings.i_like_it": {
+        "string": "好き"
+    },
+    "community.star_ratings.i_love_it": {
+        "string": "とても好き"
+    },
+    "community.star_ratings.i_really_dont_like_it": {
+        "string": "まったく好きではない"
+    },
+    "community.star_ratings.its_okay": {
+        "string": "まあまあ"
+    },
+    "community.star_ratings.you_can_rate_this_resource_after_purchasing_and_trying": {
+        "string": "購入して試した後、このリソースを評価できます。"
+    },
+    "community.star_ratings.you_can_rate_this_resource_after_you_try_it_out": {
+        "string": "試用後、このリソースを評価できます。"
+    },
+    "community.star_ratings.you_need_a_community_profile_to_leave_a_rating": {
+        "string": "評価を残すには、コミュニティプロフィールが必要です。"
+    },
+    "community.tooltip.duplicated_from_community": {
+        "string": "コミュニティから複製済み"
+    },
+    "community.tooltip.is_currently_in_review": {
+        "string": "このコミュニティファイルは現在確認中です"
+    },
+    "community.tooltip.this_community_file_is_currently_blocked": {
+        "string": "このコミュニティファイルは現在ブロックされています"
+    },
+    "community.tooltip.this_community_file_is_currently_unverified": {
+        "string": "このコミュニティファイルは現在レビュー中です"
+    },
+    "community.tooltip.view_original_in_community": {
+        "string": "コミュニティのオリジナルを表示"
+    },
+    "community.try.discard_file": {
+        "string": "ファイルを破棄"
+    },
+    "community.try.externally_restricted": {
+        "string": "外部スペースにファイルを新規作成することは組織で許可されていません。"
+    },
+    "community.try.figjam_disabled_by_admins": {
+        "string": "FigJamは管理者によって無効にされています"
+    },
+    "community.try.figjam_disabled_by_your_org": {
+        "string": "{orgName}はFigJamを無効にしました"
+    },
+    "community.try.not_allowed": {
+        "string": "許可されていません"
+    },
+    "community.try.org_private_plugin_request_disabled": {
+        "string": "組織のプライベートプラグインのリクエストは許可されていません"
+    },
+    "community.try.org_private_widget_request_disabled": {
+        "string": "組織のプライベートウィジェットのリクエストは許可されていません"
+    },
+    "community.try.people_like_this": {
+        "string": "{numPeople, plural, other {{numPeopleStr}人が「いいね」を付けています}}"
+    },
+    "community.try.people_use_this": {
+        "string": "{numPeople, plural, other {使用者: {numPeopleStr}人}}"
+    },
+    "community.try.pick_workspace.approval_pending": {
+        "string": "承認待ちです"
+    },
+    "community.try.pick_workspace.cancel": {
+        "string": "キャンセル"
+    },
+    "community.try.pick_workspace.desc": {
+        "string": "コミュニティファイルがドラフトに追加されます。"
+    },
+    "community.try.pick_workspace.org_doesnt_use_figjam": {
+        "string": "{orgName}ではFigJamを使用していません。希望する場合は、以下の外部チームを選択して試用を継続することができます。"
+    },
+    "community.try.pick_workspace.org_doesnt_use_slides": {
+        "string": "{orgName}ではFigma Slidesを使用していません。よろしければ、以下の別のチームを選択して試用することができます。"
+    },
+    "community.try.pick_workspace.plugin_isnt_allowed_by_org": {
+        "string": "このプラグインは{orgName}で許可されていません。希望する場合は、以下の別のチームを選択して試用できます。"
+    },
+    "community.try.pick_workspace.request_approval": {
+        "string": "承認を申請"
+    },
+    "community.try.pick_workspace.subtitle": {
+        "string": "新規ファイルはドラフトに追加されます。"
+    },
+    "community.try.pick_workspace.this_plugin_isnt_allowed_by_org": {
+        "string": "このプラグインは{orgName}では許可されていません。希望する場合は、以下の外部チームを選択して試用を継続することができます。"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "resources_tab.approved_plugins.table.already_approved": {
+        "string": "{numWorkspaces, plural, other {{numWorkspaces}個のワークスペースで承認済み}}"
+    },
+    "resources_tab.approved_plugins.table.approved_column": {
+        "string": "承認済み"
+    },
+    "resources_tab.approved_plugins.table.approved_for_all_workspaces": {
+        "string": "すべてのワークスペースで承認済み"
+    },
+    "resources_tab.approved_plugins.table.approved_for_column": {
+        "string": "承認対象"
+    },
+    "resources_tab.approved_plugins.table.approved_for_workspace": {
+        "string": "{numWorkspaces, plural, other {{numWorkspaces}個のワークスペースで承認済み}}"
+    },
+    "resources_tab.approved_plugins.table.approved_header": {
+        "string": "承認済み"
+    },
+    "resources_tab.approved_plugins.table.description_column": {
+        "string": "説明"
+    },
+    "resources_tab.approved_plugins.table.entire_org": {
+        "string": "組織全体"
+    },
+    "resources_tab.approved_plugins.table.last_requested_column": {
+        "string": "最終リクエスト"
+    },
+    "resources_tab.approved_plugins.table.members": {
+        "string": "{numberOfMembers, plural, other {{numberOfMembers}人のメンバー}}"
+    },
+    "resources_tab.approved_plugins.table.n_workspaces_approved_for": {
+        "string": "{numberOfWorkspaces}個のワークスペース"
+    },
+    "resources_tab.approved_plugins.table.plugin_name_column": {
+        "string": "プラグイン名"
+    },
+    "resources_tab.approved_plugins.table.requested_by_column": {
+        "string": "リクエスト者"
+    },
+    "resources_tab.approved_plugins.table.requested_header": {
+        "string": "リクエスト済み"
+    },
+    "resources_tab.approved_plugins.table.review_button": {
+        "string": "確認"
+    },
+    "resources_tab.approved_plugins.table.widget_name_column": {
+        "string": "ウィジェット名"
+    },
+    "resources_tab.approved_widgets": {
+        "string": "承認済みウィジェット"
+    },
+    "resources_tab.approved_widgets.actions.widget": {
+        "string": "ウィジェット"
+    },
+    "resources_tab.approved_widgets.modal.all_widgets": {
+        "string": "Figmaコミュニティのすべてのウィジェット"
+    },
+    "resources_tab.approved_widgets.modal.approved_widgets_only": {
+        "string": "管理者に承認されたウィジェットのみ"
+    },
+    "resources_tab.approved_widgets.modal.default": {
+        "string": "(デフォルト)"
+    },
+    "resources_tab.approved_widgets.modal.individual_workspaces_approval_warning": {
+        "string": "メンバーの1人がこのウィジェットのドラフトファイルでの使用をリクエストしました。個人のワークスペースでの使用を承認すると、このウィジェットはドラフト内で使用できなくなります。"
+    },
+    "resources_tab.approved_widgets.modal.request_widgets": {
+        "string": "メンバーによるウィジェットのリクエストを許可する"
+    },
+    "resources_tab.approved_widgets.modal.widget_approval": {
+        "string": "ウィジェットの承認"
+    },
+    "resources_tab.approved_widgets.no_widgets.add_widgets_button": {
+        "string": "承認済みウィジェットを追加"
+    },
+    "resources_tab.approved_widgets.no_widgets.text": {
+        "string": "組織には承認済みウィジェットがまだありません。"
+    },
+    "resources_tab.approved_widgets.widget_approval_banner.text": {
+        "string": "承認済みウィジェットのリストを作成するには、設定に移動して{settingName}をオンにします。"
+    },
+    "resources_tab.create_team_modal.content": {
+        "string": "この拡張機能を試すには、{orgName}の外にスペースを作成する必要があります。"
+    },
+    "resources_tab.create_team_modal.modal_title": {
+        "string": "{extensionName}を試す"
+    },
+    "resources_tab.create_team_modal.team_creation_loading": {
+        "string": "チームを作成しています"
+    },
+    "resources_tab.extension_request_sidebar.requests": {
+        "string": "リクエスト"
+    },
+    "resources_tab.extension_revoke_modal.body.plugin": {
+        "string": "このプラグインは、{orgName}の全員が使用できなくなりました。"
+    },
+    "resources_tab.extension_revoke_modal.body.widget": {
+        "string": "このウィジェットは、{orgName}の全員が使用できなくなりました。"
+    },
+    "resources_tab.extension_revoke_modal.confirmation_button": {
+        "string": "取り消す"
+    },
+    "resources_tab.extension_revoke_modal.title": {
+        "string": "{extensionName}のアクセスを取り消しますか?"
+    },
+    "resources_tab.extension_usage_data.past_30_days": {
+        "string": "過去30日間"
+    },
+    "resources_tab.extension_usage_data.past_7_days": {
+        "string": "過去7日間"
+    },
+    "resources_tab.extension_usage_data.past_year": {
+        "string": "過去1年"
+    },
+    "resources_tab.extension_usage_data.placeholder_runs": {
+        "string": "-- 回使用"
+    },
+    "resources_tab.extension_usage_data.runs": {
+        "string": "{numberOfRuns, plural, other {{numberOfRuns}回使用}}"
+    },
+    "resources_tab.extension_usage_data.total_runs": {
+        "string": "総使用回数"
+    },
+    "resources_tab.extension_usage_data.upgrade_enterprise_link": {
+        "string": "エンタープライズプランへのアップグレードで"
+    },
+    "resources_tab.extension_usage_data.upgrade_enterprise_plugins": {
+        "string": "{upgradeLink}プラグインの利用状況分析を表示できます"
+    },
+    "resources_tab.extension_usage_data.upgrade_enterprise_widgets": {
+        "string": "{upgradeLink}ウィジェットの利用状況分析を表示できます"
+    },
+    "resources_tab.extension_usage_data.usage": {
+        "string": "利用状況"
+    },
+    "resources_tab.extension_usage_data.users": {
+        "string": "ユーザー"
+    },
+    "resources_tab.extension_usage_data.workspaces": {
+        "string": "ワークスペース"
+    },
+    "resources_tab.fonts": {
+        "string": "フォント"
+    },
+    "resources_tab.libraries": {
+        "string": "ライブラリ"
+    },
+    "resources_tab.libraries.changing_permissions_warning": {
+        "string": "ライブラリの表示/非表示を変更すると、ライブラリの権限も「{currentPermissions}」から「{resultingPermissions}」に変更されます。"
+    }
+}

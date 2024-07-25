@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.replace-selected-frame-with-section": {
+        "string": "セクションに変換"
+    },
+    "fullscreen_actions.replace-selected-section-with-frame": {
+        "string": "フレームに変換"
+    },
+    "fullscreen_actions.republish-auto-layout-components": {
+        "string": "オートレイアウトコンポーネントの再公開"
+    },
+    "fullscreen_actions.republish-selected-components": {
+        "string": "選択されているコンポーネントを更新して公開"
+    },
+    "fullscreen_actions.reresolve-variable-references": {
+        "string": "バリアブル参照を再解決"
+    },
+    "fullscreen_actions.reset-changes": {
+        "string": "すべての変更をリセット"
+    },
+    "fullscreen_actions.reset-transform": {
+        "string": "壊れた変換を修復"
+    },
+    "fullscreen_actions.reset-variable-modes": {
+        "string": "選択中のバリアブルモードをリセット"
+    },
+    "fullscreen_actions.resize-to-fit": {
+        "string": "サイズ自動調整"
+    },
+    "fullscreen_actions.resize_from_center": {
+        "string": "中央からサイズ調整"
+    },
+    "fullscreen_actions.resize_proportionally": {
+        "string": "縦横比を維持してサイズ調整"
+    },
+    "fullscreen_actions.resources": {
+        "string": "リソース"
+    },
+    "fullscreen_actions.restart-desktop-app-color-space-managed": {
+        "string": "デスクトップアプリを「管理された」色空間で再起動する"
+    },
+    "fullscreen_actions.restart-desktop-app-color-space-unmanaged": {
+        "string": "デスクトップアプリを「管理されていない」色空間で再起動する"
+    },
+    "fullscreen_actions.restore-autolayout-position": {
+        "string": "オートレイアウトポジションを復元"
+    },
+    "fullscreen_actions.restore-soft-deleted-selection": {
+        "string": "論理削除された選択部分を復元"
+    },
+    "fullscreen_actions.restore-soft-deleted-variable-sets": {
+        "string": "論理削除されたバリアブルセットを復元"
+    },
+    "fullscreen_actions.restore-symbol-or-state-group": {
+        "string": "メインコンポーネントを復元"
+    },
+    "fullscreen_actions.restore_default_thumbnail": {
+        "string": "デフォルトのサムネイルを復元"
+    },
+    "fullscreen_actions.retina_mode": {
+        "string": "Retinaモード"
+    },
+    "fullscreen_actions.review_and_merge_changes": {
+        "string": "変更をレビューしてマージ…"
+    },
+    "fullscreen_actions.review_changes": {
+        "string": "変更をレビュー…"
+    },
+    "fullscreen_actions.rotate-180": {
+        "string": "180˚回転"
+    },
+    "fullscreen_actions.rotate-90-clockwise": {
+        "string": "右90˚回転"
+    },
+    "fullscreen_actions.rotate-90-counterclockwise": {
+        "string": "左90˚回転"
+    },
+    "fullscreen_actions.round-to-pixels": {
+        "string": "ピクセル単位に四捨五入"
+    },
+    "fullscreen_actions.run-multi-stack-auto-layout": {
+        "string": "オートレイアウトを提案"
+    },
+    "fullscreen_actions.save-as": {
+        "string": "ローカルコピーを保存..."
+    },
+    "fullscreen_actions.search": {
+        "string": "検索"
+    },
+    "fullscreen_actions.search_menus_commands_and_plugins": {
+        "string": "メニュー、コマンド、プラグインを検索"
+    },
+    "fullscreen_actions.search_or_ask_for_anything": {
+        "string": "何でも検索または質問..."
+    },
+    "fullscreen_actions.see-all-branches": {
+        "string": "すべてのブランチを表示"
+    },
+    "fullscreen_actions.select-all": {
+        "string": "すべて選択"
+    },
+    "fullscreen_actions.select-all-slides": {
+        "string": "すべてのスライドを選択"
+    },
+    "fullscreen_actions.select-all-text": {
+        "string": "すべてのテキストレイヤーを選択"
+    },
+    "fullscreen_actions.select-all-widgets": {
+        "string": "すべてのウィジェットを選択"
+    },
+    "fullscreen_actions.select-all-with-menu-options": {
+        "string": "次のオプションですべて選択"
+    },
+    "fullscreen_actions.select-broken-fixed-scrolling-nodes": {
+        "string": "壊れた固定スクロールレイヤーをデバッグ"
+    },
+    "fullscreen_actions.select-child": {
+        "string": "子を選択"
+    },
+    "fullscreen_actions.select-inverse": {
+        "string": "選択範囲を反転"
+    },
+    "fullscreen_actions.select-matching": {
+        "string": "マッチングレイヤーを選択"
+    },
+    "fullscreen_actions.select-next-sibling": {
+        "string": "次の兄弟を選択"
+    },
+    "fullscreen_actions.select-node": {
+        "string": "{name}"
+    },
+    "fullscreen_actions.select-node-menu": {
+        "string": "レイヤーを選択"
+    },
+    "fullscreen_actions.select-parent": {
+        "string": "親を選択"
+    },
+    "fullscreen_actions.select-previous-sibling": {
+        "string": "前の兄弟を選択"
+    },
+    "fullscreen_actions.select-same-effect": {
+        "string": "同じエフェクトで選択"
+    },
+    "fullscreen_actions.select-same-fill": {
+        "string": "同じ塗りで選択"
+    },
+    "fullscreen_actions.select-same-font": {
+        "string": "同じフォントで選択"
+    },
+    "fullscreen_actions.select-same-instance": {
+        "string": "同じインスタンスで選択"
+    }
+}

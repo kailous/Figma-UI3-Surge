@@ -1,0 +1,152 @@
+{
+    "activity_log.repo.merged_branch_name": {
+        "string": "ブランチ{name}をマージしました"
+    },
+    "activity_log.repo.merged_branch_name_into_file_name": {
+        "string": "ブランチ{name}を{fileName}にマージしました"
+    },
+    "activity_log.repo.unarchived_branch_name": {
+        "string": "ブランチ{name}をアーカイブ解除しました"
+    },
+    "activity_log.repo.unarchived_branch_name_from_file": {
+        "string": "ブランチ{name}を{fileName}からアーカイブ解除しました"
+    },
+    "activity_log.repo.updated_branch_name": {
+        "string": "ブランチ{name}を更新しました"
+    },
+    "activity_log.repo.updated_branch_name_from_file_name": {
+        "string": "ブランチ{name}を{fileName}から更新しました"
+    },
+    "activity_log.resource.file": {
+        "string": "ファイル"
+    },
+    "activity_log.resource.project": {
+        "string": "プロジェクト"
+    },
+    "activity_log.table.activity_log.table.csv_requested_success": {
+        "string": "CSVを生成中です。これには数分かかります。準備完了時にメールを送信します。"
+    },
+    "activity_log.table.all": {
+        "string": "すべて"
+    },
+    "activity_log.table.clear": {
+        "string": "クリア"
+    },
+    "activity_log.table.csv_requested_error": {
+        "string": "エラーが発生しました"
+    },
+    "activity_log.table.date": {
+        "string": "日付"
+    },
+    "activity_log.table.event": {
+        "string": "イベント"
+    },
+    "activity_log.table.event_selected": {
+        "string": "イベント:{event}"
+    },
+    "activity_log.table.events_all": {
+        "string": "イベント:すべて"
+    },
+    "activity_log.table.get_csv": {
+        "string": "CSVを取得"
+    },
+    "activity_log.table.ip_address": {
+        "string": "IPアドレス"
+    },
+    "activity_log.table.load_more": {
+        "string": "さらに読み込み"
+    },
+    "activity_log.table.member_email_addresses": {
+        "string": "メンバーのメールアドレス"
+    },
+    "activity_log.table.no_results_were_found": {
+        "string": "結果がありません。"
+    },
+    "activity_log.table.preparing_request_for_csv": {
+        "string": "CSVの要求を準備しています"
+    },
+    "activity_log.table.product": {
+        "string": "製品"
+    },
+    "activity_log.table.team": {
+        "string": "チーム"
+    },
+    "activity_log.table.team_member": {
+        "string": "チームメンバー"
+    },
+    "activity_log.table.team_selected": {
+        "string": "チーム:{team}"
+    },
+    "activity_log.table.teams_all": {
+        "string": "チーム:すべて"
+    },
+    "activity_log.teams.added_team_to_workspace": {
+        "string": "{teamName}チームを{newWorkspaceName}ワークスペースに追加しました"
+    },
+    "activity_log.teams.added_team_to_workspace_and_removed_from_old_workspace": {
+        "string": "{teamName}チームを{oldWorkspaceName}ワークスペースから{newWorkspaceName}ワークスペースに移動しました"
+    },
+    "activity_log.teams.added_user_email_to_the_resource": {
+        "string": "{userEmail}を{resourceName} {resourceType}に{level}として追加しました"
+    },
+    "activity_log.teams.approver_name_approved_the_transfer_of_team_name_team": {
+        "string": "{approverName}が組織への{teamName}チームの移転を承認しました"
+    },
+    "activity_log.teams.changed_team_creation_controls_to_admins_only": {
+        "string": "管理者のみに対するチーム作成設定を変更しました"
+    },
+    "activity_log.teams.changed_team_creation_controls_to_anyone": {
+        "string": "全ユーザーに対するチーム作成設定を変更しました"
+    },
+    "activity_log.teams.changed_the__team_from_old_access": {
+        "string": "チームを{oldAccess}から{newAccess}に変更しました"
+    },
+    "activity_log.teams.changed_user_email": {
+        "string": "{userEmail}を{resourceName} {resourceType}の{oldPermission}から{newPermission}に変更しました"
+    },
+    "activity_log.teams.created_the_team_name_team_with": {
+        "string": "{teamName}チームを{orgAccess}アクセスで作成しました"
+    },
+    "activity_log.teams.deleted_the_team_name_team": {
+        "string": "{teamName}チームを削除しました"
+    },
+    "activity_log.teams.exported_the_members_list_to_csv": {
+        "string": "メンバーリストをCSVにエクスポートしました"
+    },
+    "activity_log.teams.exported_the_org_team_list_to_csv": {
+        "string": "組織のチームリストをCSVにエクスポートしました"
+    },
+    "activity_log.teams.exported_the_team_name_team_out": {
+        "string": "{teamName}チームを組織外にエクスポートしました"
+    },
+    "activity_log.teams.exported_the_workspace_team_list_to_csv": {
+        "string": "ワークスペース{workspaceName}のチームリストをCSVにエクスポートしました"
+    },
+    "activity_log.teams.imported_the_team_name_team_int": {
+        "string": "{teamName}チームを組織にインポートしました"
+    },
+    "activity_log.teams.joined_the_resource_name_resource": {
+        "string": "{resourceName} {resourceType}に参加しました"
+    },
+    "activity_log.teams.left_the_resource_name_resource": {
+        "string": "{resourceName} {resourceType}を退出しました"
+    },
+    "activity_log.teams.org_name_wants_to_transfer_team_name": {
+        "string": "{orgName}が組織への{teamName}の移転を希望しています"
+    },
+    "activity_log.teams.removed_team_from_workspace": {
+        "string": "{teamName}を{oldWorkspaceName}ワークスペースから削除しました"
+    },
+    "activity_log.teams.removed_user_email_from_org_draft": {
+        "string": "組織のドラフトから{userEmail}を削除しました"
+    },
+    "activity_log.teams.removed_user_email_from_the_resource": {
+        "string": "{userEmail}を{resourceName} {resourceType}から削除しました"
+    },
+    "activity_log.teams.renamed_the_old_name_team": {
+        "string": "{oldName}チームの名前を{teamName}に変更しました"
+    },
+    "activity_log.teams.requested_to_transfer_the_team": {
+        "string": "{teamName}チームを{destinationOrg}に移転するリクエストをしました"
+    }
+}

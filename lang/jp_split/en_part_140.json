@@ -1,0 +1,152 @@
+{
+    "community.sinatra.plugins.weve_run_into_an_error_while_publishing_this_please_contact_supportfigmacom_if_you_need_help": {
+        "string": "この{resourceClassName}を公開中にエラーが発生しています。サポートが必要な場合は、support@figma.comに連絡してください。"
+    },
+    "community.sinatra.plugins.weve_run_into_an_error_while_publishing_this_plugin_please_contact_supportfigmacom_if_you_need_help": {
+        "string": "このプラグインの公開中にエラーが発生しました。サポートが必要な場合は、support@figma.comに連絡してください。"
+    },
+    "community.sinatra.plugins.you_cannot_use_paid_files_as_playground_files": {
+        "string": "有料ファイルをプレイグラウンドファイルとして使用することはできません"
+    },
+    "community.sinatra.plugins.you_cannot_whitelist_this": {
+        "string": "この{resourceType}は、承認リストに追加できません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permission_to_fetch_plugins_in_this_org": {
+        "string": "この組織でプラグインを取得する権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permission_to_install_plugins_for_this_org": {
+        "string": "この組織でプラグインをインストールする権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permission_to_install_this_resource": {
+        "string": "このリソースをインストールする権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permission_to_uninstall_plugins_for_this_org": {
+        "string": "この組織でプラグインをアンインストールする権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permission_to_use_this_file_as_your_playground_file": {
+        "string": "このファイルをプレイグラウンドファイルとして使用する権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permissions_to_access_this_resource": {
+        "string": "このリソースにアクセスする権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permissions_to_modify_this_orgs_whitelist": {
+        "string": "この組織の承認リストを修正する権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permissions_to_modify_this_request": {
+        "string": "このリクエストを修正する権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permissions_to_run_this_plugin": {
+        "string": "このプラグインを実行する権限がありません"
+    },
+    "community.sinatra.plugins.you_do_not_have_permissions_to_see_status_for_this_org": {
+        "string": "この組織で{resourceClassName}ステータスを表示する権限がありません。"
+    },
+    "community.sinatra.plugins.you_have_already_installed_this_plugin": {
+        "string": "このプラグインを既にインストールしています"
+    },
+    "community.sinatra.plugins.you_must_enable_two_factor_authentication_to_publish": {
+        "string": "公開するために2要素認証を有効にする必要があります"
+    },
+    "community.sinatra.plugins.you_must_have_a_public_profile": {
+        "string": "公開プロフィールが必要です"
+    },
+    "community.sinatra.plugins.you_must_verify_your_account_details_to_publish": {
+        "string": "公開するためにアカウントの詳細を確認する必要があります"
+    },
+    "community.sinatra.plugins.your_supplied_plugin_version_must_correspond_to_the_plugin_to_be_installed": {
+        "string": "指定するプラグインバージョンは、インストールするプラグインと一致する必要があります"
+    },
+    "community.sinatra.posts.parent_with_id_does_not_exist_2": {
+        "string": "IDが{parentID}の親は存在しません。"
+    },
+    "community.sinatra.posts.some_referenced_profiles_are_not_valid": {
+        "string": "参照しているプロフィールの一部が無効です。"
+    },
+    "community.sinatra.posts.there_was_a_problem_creating_your_post_please_try_again_at_a_later_time": {
+        "string": "投稿の作成中に問題が発生しました。後でもう一度お試しください。"
+    },
+    "community.sinatra.price.annual_discount_is_invalid": {
+        "string": "年間割引は、{minPercentage}と{maxPercentage}の間でなければなりません"
+    },
+    "community.sinatra.price.price_is_invalid": {
+        "string": "価格が無効です"
+    },
+    "community.sinatra.profile_merge_lib.general_error": {
+        "string": "プロフィールのマージが突然失敗しました。support@figma.comに連絡してください"
+    },
+    "community.sinatra.profile_merge_lib.user_needs_public_profile": {
+        "string": "プライマリーユーザーは公開プロフィールが必要です"
+    },
+    "community.sinatra.profile_merge_lib.user_not_profile_owner": {
+        "string": "プライマリーユーザーはプライマリープロフィールオーナーではありません"
+    },
+    "community.sinatra.profile_merge_lib.users_already_merged_error": {
+        "string": "ユーザーは既にマージされています"
+    },
+    "community.sinatra.profiles.cannot_change_primary_user_if_is_community_seller": {
+        "string": "プライマリーアカウントがコミュニティの販売者のため、プロファイルのプライマリーアカウントを変更できません。"
+    },
+    "community.sinatra.profiles.cannot_delete_the_primary_user_of_this_profile": {
+        "string": "このプロフィールのプライマリーユーザーを削除できません"
+    },
+    "community.sinatra.profiles.cannot_delete_user_if_they_are_community_seller": {
+        "string": "コミュニティの販売者であるユーザーは削除できません"
+    },
+    "community.sinatra.profiles.cannot_merge_seller_account": {
+        "string": "販売者のアカウントとはマージできません"
+    },
+    "community.sinatra.profiles.cant_get_liked_community_files_for_this_profile": {
+        "string": "このプロフィールのコミュニティファイルにいいねを付けてもらうことはできません"
+    },
+    "community.sinatra.profiles.handle_already_taken": {
+        "string": "ハンドルは既に取得されています。"
+    },
+    "community.sinatra.profiles.must_be_signed_into_primary_email_account": {
+        "string": "プライマリーメールアカウントにサインインしている必要があります"
+    },
+    "community.sinatra.profiles.must_be_signed_into_secondary_email_account": {
+        "string": "セカンダリーメールアカウントにサインインしている必要があります"
+    },
+    "community.sinatra.profiles.must_have_public_profile": {
+        "string": "公開プロフィールが必要です"
+    },
+    "community.sinatra.profiles.new_primary_user_user_not_found": {
+        "string": "新しいプライマリーユーザーが見つかりません"
+    },
+    "community.sinatra.profiles.not_valid_instagram_handle": {
+        "string": "Instagramハンドルが有効ではありません"
+    },
+    "community.sinatra.profiles.not_valid_twitter_handle": {
+        "string": "Twitterハンドルが有効ではありません"
+    },
+    "community.sinatra.profiles.permission_denied": {
+        "string": "許可されていません"
+    },
+    "community.sinatra.profiles.please_provide_a_primary_email": {
+        "string": "プライマリーメールアドレスを入力してください"
+    },
+    "community.sinatra.profiles.please_provide_a_secondary_email": {
+        "string": "セカンダリーメールアドレスを入力してください"
+    },
+    "community.sinatra.profiles.please_provide_the_email_of_the_new_primary_user": {
+        "string": "新しいプライマリーユーザーのメールアドレスを入力してください"
+    },
+    "community.sinatra.profiles.primary_user_does_not_have_a_profile": {
+        "string": "プライマリーユーザーにプロフィールがありません"
+    },
+    "community.sinatra.profiles.primary_user_not_found": {
+        "string": "プライマリーユーザーが見つかりません"
+    },
+    "community.sinatra.profiles.profile_already_exists": {
+        "string": "プロフィールは既に存在しています"
+    },
+    "community.sinatra.profiles.profile_does_not_belong_to_current_user": {
+        "string": "プロフィールは現在のユーザーのものではありません"
+    },
+    "community.sinatra.profiles.profile_not_found": {
+        "string": "プロフィールが見つかりません"
+    },
+    "community.sinatra.profiles.secondary_user_not_found": {
+        "string": "セカンダリーユーザーが見つかりません"
+    }
+}

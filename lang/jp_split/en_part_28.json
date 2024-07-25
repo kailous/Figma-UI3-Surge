@@ -1,0 +1,152 @@
+{
+    "bug_reporter.modal.severity": {
+        "string": "重大度"
+    },
+    "bug_reporter.modal.submit": {
+        "string": "バグレポートを送信"
+    },
+    "bug_reporter.modal.title": {
+        "string": "タイトル"
+    },
+    "bug_reporter.modal.title_placeholder": {
+        "string": "バグの簡潔な説明"
+    },
+    "bug_reporter.notify_oncall": {
+        "string": "該当するオンコールに通知してください"
+    },
+    "bug_reporter.open_slack_discussion": {
+        "string": "Slackディスカッションを開く"
+    },
+    "bug_reporter.profiler.collecting_profile": {
+        "string": "プロファイルを収集しています..."
+    },
+    "bug_reporter.profiler.profile_attached": {
+        "string": "プロファイル添付"
+    },
+    "bug_reporter.profiler.start": {
+        "string": "プロファイル収集を開始"
+    },
+    "bug_reporter.profiler.stop": {
+        "string": "完了"
+    },
+    "bug_reporter.profiler.title": {
+        "string": "パフォーマンスプロファイルを記録"
+    },
+    "bug_reporter.submitting_visual_bell": {
+        "string": "送信中..."
+    },
+    "bug_reporter.success_message": {
+        "string": "ご協力ありがとうございました。"
+    },
+    "bug_reporter.urgent_bug_info": {
+        "string": "緊急性のあるバグの場合は{notifyTheRelevantOncall}"
+    },
+    "bug_reporter.warning_asana_board": {
+        "string": "バグレポートテスティングボード"
+    },
+    "canvas_search.all_pages": {
+        "string": "すべてのページ"
+    },
+    "canvas_search.close": {
+        "string": "閉じる"
+    },
+    "canvas_search.filter.all": {
+        "string": "すべて"
+    },
+    "canvas_search.filter.component": {
+        "string": "コンポーネント"
+    },
+    "canvas_search.filter.frame_or_group": {
+        "string": "フレーム/グループ"
+    },
+    "canvas_search.filter.image": {
+        "string": "画像"
+    },
+    "canvas_search.filter.instance": {
+        "string": "インスタンス"
+    },
+    "canvas_search.filter.match_case": {
+        "string": "大文字と小文字を区別"
+    },
+    "canvas_search.filter.other": {
+        "string": "その他"
+    },
+    "canvas_search.filter.remove": {
+        "string": "削除"
+    },
+    "canvas_search.filter.shape": {
+        "string": "シェイプ"
+    },
+    "canvas_search.filter.text": {
+        "string": "テキスト"
+    },
+    "canvas_search.filter.whole_words": {
+        "string": "すべて一致"
+    },
+    "canvas_search.missing_fonts": {
+        "string": "フォントがないため、テキストを置換できません"
+    },
+    "canvas_search.next": {
+        "string": "次の結果"
+    },
+    "canvas_search.no_results": {
+        "string": "結果なし"
+    },
+    "canvas_search.no_results_in_file": {
+        "string": "このファイルに結果なし"
+    },
+    "canvas_search.no_results_in_this_deck": {
+        "string": "このデッキには結果がありません"
+    },
+    "canvas_search.no_results_on_page": {
+        "string": "このページには結果がありません"
+    },
+    "canvas_search.previous": {
+        "string": "前の結果"
+    },
+    "canvas_search.replace": {
+        "string": "置換"
+    },
+    "canvas_search.replace_all": {
+        "string": "すべて置換"
+    },
+    "canvas_search.replace_all_message": {
+        "string": "{count, plural, other {このページの{count}件の結果を置き換えました}}"
+    },
+    "canvas_search.replace_all_message_all_pages": {
+        "string": "{count, plural, other {このファイルの{count}件の結果を置き換えました}}"
+    },
+    "canvas_search.replace_all_message_figjam": {
+        "string": "{count, plural, other {{count}件の結果を置き換えました}}"
+    },
+    "canvas_search.replace_one": {
+        "string": "置換"
+    },
+    "canvas_search.replace_placeholder": {
+        "string": "置換後の文字列..."
+    },
+    "canvas_search.results_count": {
+        "string": "{total, plural, other {合計{total}件の結果}}"
+    },
+    "canvas_search.results_index_count": {
+        "string": "{index}/{total}"
+    },
+    "canvas_search.results_other_pages": {
+        "string": "他のページの結果を見る"
+    },
+    "canvas_search.results_unavailable_offline": {
+        "string": "オフライン - 結果の一部が反映されていない場合があります。"
+    },
+    "canvas_search.search": {
+        "string": "検索"
+    },
+    "canvas_search.search_placeholder": {
+        "string": "検索…"
+    },
+    "canvas_search.settings": {
+        "string": "設定"
+    },
+    "canvas_search.show_missing_fonts": {
+        "string": "不足しているフォントを表示"
+    }
+}

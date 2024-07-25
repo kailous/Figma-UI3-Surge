@@ -1,0 +1,152 @@
+{
+    "community.publishing.unable_to_connect_profiles": {
+        "string": "プロフィールを接続できません"
+    },
+    "community.publishing.update": {
+        "string": "更新"
+    },
+    "community.publishing.update_section_label": {
+        "string": "更新"
+    },
+    "community.publishing.upload_at_least_one_image": {
+        "string": "画像を1つ以上アップロードしてください"
+    },
+    "community.publishing.upload_at_least_one_image_or_video": {
+        "string": "画像または動画を1つ以上アップロードしてください"
+    },
+    "community.publishing.upload_from_your_computer": {
+        "string": "コンピューターからアップロード"
+    },
+    "community.publishing.upload_images_and_videos_to_show_off_your_plugin": {
+        "string": "プラグインを引き立たせる画像や動画をアプロードします"
+    },
+    "community.publishing.upload_images_and_videos_to_show_off_your_widget": {
+        "string": "ウィジェットを引き立たせる画像や動画をアプロードします"
+    },
+    "community.publishing.upload_instructions": {
+        "string": "ドラッグアンドドロップ、貼り付け、または{chooseFileLink}"
+    },
+    "community.publishing.upload_instructions_recommended_size": {
+        "string": "推奨サイズ: 1920 x 1080"
+    },
+    "community.publishing.use_a_prototype_preview": {
+        "string": "プロトタイププレビューを使用"
+    },
+    "community.publishing.use_our_template": {
+        "string": "テンプレートを利用することもできます→"
+    },
+    "community.publishing.verifying_seller_status": {
+        "string": "販売者ステータスを確認中"
+    },
+    "community.publishing.version": {
+        "string": "バージョン"
+    },
+    "community.publishing.version_release_notes": {
+        "string": "リリースノート"
+    },
+    "community.publishing.view_page": {
+        "string": "ページを表示"
+    },
+    "community.publishing.we_detected_a_change_to_your_account_details_please_contact_support_figma_com_to_publish_this_plugin": {
+        "string": "ご利用のアカウント詳細の変更が検出されました。support@figma.comに連絡して、このプラグインを公開してください"
+    },
+    "community.publishing.what_can_users_expect_in_this_current_version": {
+        "string": "このバージョンでユーザーが期待できることは何ですか?"
+    },
+    "community.publishing.whats_changed_in_this_new_version": {
+        "string": "この新パージョンでの変更点は?"
+    },
+    "community.publishing.when_you_change_the_price_of_a_subscription": {
+        "string": "サブスクリプションの価格を変更すると、新しい価格が1時間以内にコミュニティに表示されて使用できます。しばらくしてからもう一度確認してください。"
+    },
+    "community.publishing.widget_missing_network_access": {
+        "string": "この省略可能なフィールドを{filename}ファイルに追加してテストしてください。「...」をウィジェットのアクセス先のドメインに置き換えます。ウィジェットにネットワークアクセスが不要な場合は、「none」に置き換えます。"
+    },
+    "community.publishing.widget_playground_file_editor_type_error": {
+        "string": "このウィジェットのプレイグラウンドファイルは{editorType}にする必要があります"
+    },
+    "community.publishing.widget_snapshot": {
+        "string": "ウィジェットのスナップショット"
+    },
+    "community.publishing.widget_tagline_input_placeholder": {
+        "string": "ウィジェットの短い説明を入力"
+    },
+    "community.publishing.you_are_publishing_to_the_org_profile": {
+        "string": "{orgName}組織プロフィールとして公開しています"
+    },
+    "community.publishing.you_are_publishing_to_the_org_profile.fallback": {
+        "string": "{org}プロフィールとして公開しています"
+    },
+    "community.publishing.you_are_publishing_to_the_team_profile": {
+        "string": "{teamName}チームプロフィールとして公開しています"
+    },
+    "community.publishing.you_are_publishing_to_the_team_profile.fallback": {
+        "string": "{team}プロフィールとして公開しています"
+    },
+    "community.publishing.you_are_publishing_to_user_profile": {
+        "string": "{userName}プロフィールとして公開しています"
+    },
+    "community.publishing.you_can_also_invite_other_people_to_update": {
+        "string": "このリソースを更新するために、{inviteOtherPeopleLink}を — チームメイトまたはコラボレーターのように — 招待することもできます。"
+    },
+    "community.publishing.you_can_only_upload_ten_images": {
+        "string": "アップロードできる画像は10個までです"
+    },
+    "community.publishing.you_can_only_upload_ten_images_and_videos": {
+        "string": "アップロードできる画像と動画は10個までです"
+    },
+    "community.publishing.you_can_only_upload_three_videos": {
+        "string": "アップロードできる動画は3個までです"
+    },
+    "community.publishing.you_must_enable_two_factor_authentication_to_publish": {
+        "string": "公開するために2要素認証を有効にする必要があります"
+    },
+    "community.publishing.you_must_verify_your_account_details_to_publish": {
+        "string": "公開するためにアカウントの詳細を確認する必要があります"
+    },
+    "community.publishing.your_file_will_soon_be_available_for_everyone_no_remix": {
+        "string": "ファイルは、すぐにコミュニティの全ユーザーが複製、共有できるようになります。ありがとうございました。"
+    },
+    "community.publishing.your_update_is_being_published": {
+        "string": "更新した内容が公開されます"
+    },
+    "community.seller.add_percent": {
+        "string": "%を追加"
+    },
+    "community.seller.agree_to_figma_terms_of_service": {
+        "string": "クリックすることで、Figmaの{link}に同意したものとみなされます。"
+    },
+    "community.seller.all_sales_before_figmas_fees": {
+        "string": "総売上(Figma手数料差引前)"
+    },
+    "community.seller.by_using_this_feature_you_agree_to_the": {
+        "string": "この機能を使用するには{link}に同意する必要があります。"
+    },
+    "community.seller.click_to_download_statements": {
+        "string": "クリックすると、毎月の明細書のCSVがダウンロードされます"
+    },
+    "community.seller.collect_tax_info_modal.body": {
+        "string": "税務情報を準備しましょう。この情報は次のステップでStripeに渡されます。"
+    },
+    "community.seller.collect_tax_info_modal.continue_to_stripe": {
+        "string": "Stripeに進む"
+    },
+    "community.seller.collect_tax_info_modal.enter_a_first_name": {
+        "string": "名を入力してください"
+    },
+    "community.seller.collect_tax_info_modal.enter_a_last_name": {
+        "string": "姓を入力してください"
+    },
+    "community.seller.collect_tax_info_modal.enter_a_valid_address": {
+        "string": "住所を正しく入力してください"
+    },
+    "community.seller.collect_tax_info_modal.enter_a_valid_vat_id": {
+        "string": "有効なVAT/GST IDを入力してください"
+    },
+    "community.seller.collect_tax_info_modal.first_name": {
+        "string": "名"
+    },
+    "community.seller.collect_tax_info_modal.last_name": {
+        "string": "姓"
+    }
+}

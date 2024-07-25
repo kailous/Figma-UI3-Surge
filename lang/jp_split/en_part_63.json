@@ -1,0 +1,152 @@
+{
+    "community.resource.delisting_this_resource_will_prevent_people_from_discovering_or_purchasing_this_resource": {
+        "string": "このリソースをリストから除外すると、ユーザーがコニュニティでこのリソースを検索または購入できなくなります。すでに購入済みのユーザーは、請求サイクルが終了するまで引き続きアクセスできます。"
+    },
+    "community.resource.edit_this_page": {
+        "string": "このページを編集する"
+    },
+    "community.resource.free_trial_days": {
+        "string": "{days}日間の無料体験"
+    },
+    "community.resource.if_you_have_questions_reach_out_to_creator": {
+        "string": "不明な点がある場合は、作成者に問い合わせてください。"
+    },
+    "community.resource.includes_free_trial_days": {
+        "string": "{days}日間の無料体験を含みます"
+    },
+    "community.resource.manage_resource": {
+        "string": "リソースを管理"
+    },
+    "community.resource.more_than_2_creators": {
+        "string": "{creator1}{spaceChar}{spaceChar}{others}"
+    },
+    "community.resource.multiple_creators": {
+        "string": "複数のクリエイター"
+    },
+    "community.resource.next_we_recommend_adding_more_images": {
+        "string": "さらに、ファイルのプレビュー画像を追加することをお勧めします。"
+    },
+    "community.resource.next_we_recommend_adding_more_images_and_videos": {
+        "string": "さらに、{resourceType}のプレビュー画像や動画を追加することをお勧めします。"
+    },
+    "community.resource.publish": {
+        "string": "公開"
+    },
+    "community.resource.unpublish": {
+        "string": "公開を取り消す"
+    },
+    "community.resource.unpublished_banner.only_you_can_see_this_page.hub_file": {
+        "string": "このページは他のユーザーには表示されません。このリソースを再公開するには、オリジナルのファイルを使って新しいバージョンを公開してください。"
+    },
+    "community.resource.unpublished_banner.only_you_can_see_this_page.plugin": {
+        "string": "このページは他のユーザーには表示されません。このリソースを再公開するには、同じIDのプラグインを使って新しいバージョンを公開してください。"
+    },
+    "community.resource.unpublished_banner.only_you_can_see_this_page.widget": {
+        "string": "このページは他のユーザーには表示されません。このリソースを再公開するには、同じIDのウィジェットを使って新しいバージョンを公開してください。"
+    },
+    "community.resource.unpublished_banner.your_resource_is_unpublished": {
+        "string": "リソースは非公開です。"
+    },
+    "community.resource.your_resource_is_live": {
+        "string": "リソースが公開されています"
+    },
+    "community.resource_page.about": {
+        "string": "概要"
+    },
+    "community.resource_page.comments": {
+        "string": "コメント {numComments}"
+    },
+    "community.resource_page.media_carousel.restart": {
+        "string": "最初から"
+    },
+    "community.resource_tiles.by_author": {
+        "string": "{author}が作成"
+    },
+    "community.saves.file_removed_from_your_profile": {
+        "string": "コミュニティプロフィールからファイルを削除しました"
+    },
+    "community.saves.file_saved_for_your_profile": {
+        "string": "コミュニティプロフィールにファイルを保存しました"
+    },
+    "community.saves.no_saves_subtitle": {
+        "string": "便利なリソースを保存しておき、後で見つけやすくしておきましょう。"
+    },
+    "community.saves.no_saves_title": {
+        "string": "保存されているリソースはありません(...今のところ)"
+    },
+    "community.saves.plugin_removed_for_everyone_at": {
+        "string": "{orgName}の全員からプラグインを削除しました"
+    },
+    "community.saves.plugin_removed_from_your_account": {
+        "string": "Figmaアカウントからプラグインを削除しました"
+    },
+    "community.saves.plugin_removed_from_your_account_and_profile": {
+        "string": "Figmaアカウントとコミュニティプロフィールからプラグインを削除しました"
+    },
+    "community.saves.plugin_saved": {
+        "string": "プラグインを保存しました"
+    },
+    "community.saves.plugin_saved_for_everyone_at": {
+        "string": "{orgName}の全員にプラグインを保存しました"
+    },
+    "community.saves.plugin_saved_for_your_account": {
+        "string": "Figmaアカウントにプラグインを保存しました"
+    },
+    "community.saves.plugin_saved_for_your_account_and_profile": {
+        "string": "Figmaアカウントとコミュニティプロフィールにプラグインを保存しました"
+    },
+    "community.saves.remove_from_saves": {
+        "string": "保存場所から削除"
+    },
+    "community.saves.remove_this_resource_for_everyone_at": {
+        "string": "{orgName}の全員からこのリソースを削除します"
+    },
+    "community.saves.save": {
+        "string": "保存"
+    },
+    "community.saves.save_for_everyone_at": {
+        "string": "{orgName}の全員のために保存します"
+    },
+    "community.saves.save_for_later": {
+        "string": "保存して後で確認"
+    },
+    "community.saves.save_this_resource_for_everyone_at": {
+        "string": "このリソースを{orgName}の全員に保存"
+    },
+    "community.saves.save_this_resource_for_yourself": {
+        "string": "このリソースを自分用に保存します"
+    },
+    "community.saves.widget_removed_for_everyone_at": {
+        "string": "{orgName}の全員からウィジェットを削除しました"
+    },
+    "community.saves.widget_removed_from_your_account": {
+        "string": "Figmaアカウントからウィジェットを削除しました"
+    },
+    "community.saves.widget_removed_from_your_account_and_profile": {
+        "string": "Figmaアカウントとコミュニティプロフィールからウィジェットを削除しました"
+    },
+    "community.saves.widget_saved": {
+        "string": "ウィジェットを保存しました"
+    },
+    "community.saves.widget_saved_for_everyone_at": {
+        "string": "{orgName}の全員にウィジェットを保存しました"
+    },
+    "community.saves.widget_saved_for_your_account": {
+        "string": "Figmaアカウントにウィジェットを保存しました"
+    },
+    "community.saves.widget_saved_for_your_account_and_profile": {
+        "string": "Figmaアカウントとコミュニティプロフィールにウィジェットを保存しました"
+    },
+    "community.search.empty_state_creators": {
+        "string": "{query}に一致する作成者がいません"
+    },
+    "community.search.empty_state_hub_files": {
+        "string": "{query}に一致するファイルがありません"
+    },
+    "community.search.empty_state_hub_files_free": {
+        "string": "{query}に一致する無料ファイルがありません"
+    },
+    "community.search.empty_state_hub_files_paid": {
+        "string": "{query}に一致する有料ファイルがありません"
+    }
+}

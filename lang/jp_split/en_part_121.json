@@ -1,0 +1,152 @@
+{
+    "fullscreen.properties_panel.document_colors": {
+        "string": "ドキュメントの色"
+    },
+    "fullscreen.properties_panel.effects.background_blur": {
+        "string": "背景のぼかし"
+    },
+    "fullscreen.properties_panel.effects.blur": {
+        "string": "ぼかし範囲"
+    },
+    "fullscreen.properties_panel.effects.drop_shadow": {
+        "string": "ドロップシャドウ"
+    },
+    "fullscreen.properties_panel.effects.inner_shadow": {
+        "string": "インナーシャドウ"
+    },
+    "fullscreen.properties_panel.effects.layer_blur": {
+        "string": "レイヤーブラー"
+    },
+    "fullscreen.properties_panel.effects.position": {
+        "string": "位置"
+    },
+    "fullscreen.properties_panel.effects.spread": {
+        "string": "広がり"
+    },
+    "fullscreen.properties_panel.export": {
+        "string": "エクスポート"
+    },
+    "fullscreen.properties_panel.export_disabled": {
+        "string": "エクスポートが無効"
+    },
+    "fullscreen.properties_panel.export_layer_names_using_id_attributes": {
+        "string": "id属性を使用してレイヤー名をエクスポート"
+    },
+    "fullscreen.properties_panel.export_settings_color_profile": {
+        "string": "カラープロファイル"
+    },
+    "fullscreen.properties_panel.export_settings_color_profile.display_p3": {
+        "string": "Display P3"
+    },
+    "fullscreen.properties_panel.export_settings_color_profile.document": {
+        "string": "ファイルと同じ({documentColorProfile})"
+    },
+    "fullscreen.properties_panel.export_settings_color_profile.p3": {
+        "string": "P3"
+    },
+    "fullscreen.properties_panel.export_settings_color_profile.srgb": {
+        "string": "sRGB"
+    },
+    "fullscreen.properties_panel.export_settings_quality": {
+        "string": "クオリティ"
+    },
+    "fullscreen.properties_panel.export_settings_quality.high": {
+        "string": "高"
+    },
+    "fullscreen.properties_panel.export_settings_quality.low": {
+        "string": "低"
+    },
+    "fullscreen.properties_panel.export_settings_quality.medium": {
+        "string": "中"
+    },
+    "fullscreen.properties_panel.export_stroke_as_inlined_path_element": {
+        "string": "線をインライン<path>要素としてエクスポートする"
+    },
+    "fullscreen.properties_panel.export_suffix": {
+        "string": "サフィックス"
+    },
+    "fullscreen.properties_panel.export_suffix_label": {
+        "string": "サフィックス"
+    },
+    "fullscreen.properties_panel.export_suffix_placeholder": {
+        "string": "サフィックスを追加"
+    },
+    "fullscreen.properties_panel.export_text_as_outlined_path_element": {
+        "string": "テキストをアウトライン<path>要素としてエクスポートする"
+    },
+    "fullscreen.properties_panel.export_this_props_num_selected_layers": {
+        "string": "{numSelected}レイヤーをエクスポート"
+    },
+    "fullscreen.properties_panel.export_title": {
+        "string": "{title}をエクスポート"
+    },
+    "fullscreen.properties_panel.exposure": {
+        "string": "露出"
+    },
+    "fullscreen.properties_panel.fill.advanced_stroke_settings": {
+        "string": "線の詳細設定"
+    },
+    "fullscreen.properties_panel.fill.detach_style": {
+        "string": "スタイルを解除"
+    },
+    "fullscreen.properties_panel.fill.detach_variable": {
+        "string": "バリアブルを切り離す"
+    },
+    "fullscreen.properties_panel.fill.end_point": {
+        "string": "終了点"
+    },
+    "fullscreen.properties_panel.fill.fill": {
+        "string": "塗り"
+    },
+    "fullscreen.properties_panel.fill.include_the_canvas_or_group_background_in_exports": {
+        "string": "エクスポートにキャンバスまたはグループの背景を含める"
+    },
+    "fullscreen.properties_panel.fill.remove": {
+        "string": "削除"
+    },
+    "fullscreen.properties_panel.fill.see_all_x_colors": {
+        "string": "{number}色すべてを表示"
+    },
+    "fullscreen.properties_panel.fill.see_all_x_library_colors": {
+        "string": "{number}ライブラリの色をすべて表示"
+    },
+    "fullscreen.properties_panel.fill.selection_colors": {
+        "string": "選択範囲の色"
+    },
+    "fullscreen.properties_panel.fill.show_in_exports": {
+        "string": "エクスポートに含める"
+    },
+    "fullscreen.properties_panel.fill.show_selection_colors": {
+        "string": "選択範囲の色を表示"
+    },
+    "fullscreen.properties_panel.fill.start_point": {
+        "string": "開始点"
+    },
+    "fullscreen.properties_panel.fill.stroke": {
+        "string": "線"
+    },
+    "fullscreen.properties_panel.fill.stroke_width": {
+        "string": "線幅"
+    },
+    "fullscreen.properties_panel.fill.swap_start_and_end_points": {
+        "string": "開始点と終了点を入れ替える"
+    },
+    "fullscreen.properties_panel.flip_gradient": {
+        "string": "グラデーションを反転"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.all_fonts": {
+        "string": "すべてのフォント"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.document_fonts": {
+        "string": "このファイル内"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.google_fonts": {
+        "string": "Googleフォント"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.popular_fonts": {
+        "string": "人気のフォント"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts": {
+        "string": "共有フォント"
+    }
+}

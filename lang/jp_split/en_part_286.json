@@ -1,0 +1,152 @@
+{
+    "search.sidebar_search_placeholder": {
+        "string": "検索"
+    },
+    "search.sort_option.created_at": {
+        "string": "作成日時"
+    },
+    "search.sort_option.creator": {
+        "string": "作成者"
+    },
+    "search.sort_option.email": {
+        "string": "メール"
+    },
+    "search.sort_option.last_active_at": {
+        "string": "最後にアクティブだった時点"
+    },
+    "search.sort_option.last_updated": {
+        "string": "最終更新"
+    },
+    "search.sort_option.members": {
+        "string": "メンバー"
+    },
+    "search.sort_option.name": {
+        "string": "名前"
+    },
+    "search.sort_option.name_grid": {
+        "string": "名前(グリッド)"
+    },
+    "search.sort_option.name_list": {
+        "string": "名前(リスト)"
+    },
+    "search.sort_option.owner": {
+        "string": "オーナー"
+    },
+    "search.sort_option.relevance": {
+        "string": "関連度"
+    },
+    "search.sort_option.relevancy": {
+        "string": "関連度"
+    },
+    "search.sort_option.saves": {
+        "string": "保存数"
+    },
+    "search.sort_option.touched_at": {
+        "string": "最終変更"
+    },
+    "search.sort_option.used_by": {
+        "string": "使用者"
+    },
+    "search.user_view.last_active": {
+        "string": "直前のアクティブな{relativeTimeString}"
+    },
+    "search.user_view.not_active_yet": {
+        "string": "まだアクティブではありません"
+    },
+    "search.zero_state.empty_state": {
+        "string": "結果が見つかりません。フィルターを削除してみてください"
+    },
+    "sessions.column.created": {
+        "string": "作成日時"
+    },
+    "sessions.column.last_accessed": {
+        "string": "最終アクセス"
+    },
+    "sessions.column.location_ip": {
+        "string": "場所とIP"
+    },
+    "sessions.column.os_browser": {
+        "string": "OSとブラウザ"
+    },
+    "sessions.column.type": {
+        "string": "タイプ"
+    },
+    "sessions.error.logged_out": {
+        "string": "ログインしていません"
+    },
+    "sessions.error.no_sessions": {
+        "string": "セッションの読み込みに失敗しました"
+    },
+    "sessions.header.description": {
+        "string": "すべてのセッションが下にリストアップされています。認識できない、または信頼できないセッションを取り消してください。"
+    },
+    "sessions.header.description.viewonly": {
+        "string": "すべてのセッションが下にリストアップされています。"
+    },
+    "sessions.header.title": {
+        "string": "セッション"
+    },
+    "sessions.row.location": {
+        "string": "{country}、{city}"
+    },
+    "sessions.session.current_session": {
+        "string": "現在"
+    },
+    "sessions.session.revoke_session": {
+        "string": "取り消す"
+    },
+    "sessions.session.revoked": {
+        "string": "取り消しました"
+    },
+    "sessions.unknown": {
+        "string": "不明"
+    },
+    "settings.account_setting.account": {
+        "string": "アカウント"
+    },
+    "settings.account_setting.change_email_confirm_password_placeholder": {
+        "string": "Figmaパスワードを確認"
+    },
+    "settings.account_setting.change_email_context": {
+        "string": "新しいメールアドレスに変更完了の手順を記載したメールをお送りします。"
+    },
+    "settings.account_setting.change_email_context_org_warning": {
+        "string": "新しいメールアドレスのドメインが@{orgDomain}ではない場合、組織のファイルの一部もしくは全てにアクセスできなくなる可能性があります。"
+    },
+    "settings.account_setting.change_email_input_placeholder": {
+        "string": "メールを新規作成"
+    },
+    "settings.account_setting.change_password_confirm_password_placeholder": {
+        "string": "パスワードを確認"
+    },
+    "settings.account_setting.change_password_current_password_placeholder": {
+        "string": "現在のパスワード"
+    },
+    "settings.account_setting.change_password_modal_header": {
+        "string": "パスワードを変更"
+    },
+    "settings.account_setting.change_password_new_password_placeholder": {
+        "string": "新しいパスワード"
+    },
+    "settings.account_setting.comments_from_other_users": {
+        "string": "他のユーザーからのコメント"
+    },
+    "settings.account_setting.community": {
+        "string": "コミュニティ"
+    },
+    "settings.account_setting.forgot_password": {
+        "string": "パスワードを忘れた場合"
+    },
+    "settings.account_setting.inactive": {
+        "string": "無効"
+    },
+    "settings.account_setting.notifications": {
+        "string": "通知"
+    },
+    "settings.account_setting.purchases": {
+        "string": "購入"
+    },
+    "settings.account_setting.sessions": {
+        "string": "セッション"
+    }
+}

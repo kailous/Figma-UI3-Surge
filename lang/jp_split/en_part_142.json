@@ -1,0 +1,152 @@
+{
+    "fullscreen.canvas.auto_layout_fill": {
+        "string": "塗り"
+    },
+    "fullscreen.canvas.auto_layout_fill_with_value": {
+        "string": "塗り({value})"
+    },
+    "fullscreen.canvas.auto_layout_hug": {
+        "string": "内包"
+    },
+    "fullscreen.canvas.auto_layout_hug_with_value": {
+        "string": "内包({value})"
+    },
+    "fullscreen.canvas.dimension_max_constrained": {
+        "string": "{value}(最大)"
+    },
+    "fullscreen.canvas.dimension_min_constrained": {
+        "string": "{value}(最小)"
+    },
+    "fullscreen.canvas.max": {
+        "string": "(最大)"
+    },
+    "fullscreen.canvas.min": {
+        "string": "(最小)"
+    },
+    "fullscreen.canvas.number_of_variants": {
+        "string": "{variants, plural, other {{variants}バリアント}}"
+    },
+    "fullscreen.canvas.paint_label_GIF": {
+        "string": "GIF"
+    },
+    "fullscreen.canvas.paint_label_Video": {
+        "string": "動画"
+    },
+    "fullscreen.canvas.paint_label_Video_and_GIF": {
+        "string": "動画とGIF"
+    },
+    "fullscreen.canvas.select_all_matching_layers": {
+        "string": "マッチングレイヤーを選択"
+    },
+    "fullscreen.canvas.select_all_n_matching_layers": {
+        "string": "{total_num_layers}個のマッチングレイヤーを選択"
+    },
+    "fullscreen.css_export.auto_layout": {
+        "string": "オートレイアウト"
+    },
+    "fullscreen.css_export.identical_to_box_height": {
+        "string": "ボックスの高さと同一"
+    },
+    "fullscreen.css_export.identical_to_box_height_with_alternate": {
+        "string": "ボックスの高さと同一、または{alternateUnit}"
+    },
+    "fullscreen.css_export.inside_auto_layout": {
+        "string": "オートレイアウト内部"
+    },
+    "fullscreen.css_export.line_height_alternate": {
+        "string": "または{alternateUnit}"
+    },
+    "fullscreen.css_export.note_backdrop_filter_has_minimal_browser_support": {
+        "string": "注: backdrop-filterのブラウザサポートは最小限です"
+    },
+    "fullscreen.dropped_file.file_format_not_recognized_or_failed_to_convert": {
+        "string": "ファイル形式が認識されないか変換できませんでした\n"
+    },
+    "fullscreen.dropped_file.files_failed_to_import": {
+        "string": "ファイルをインポートできませんでした…"
+    },
+    "fullscreen.dropped_file.pdf_import_is_not_supported": {
+        "string": "PDFのインポートはサポートされていません\n"
+    },
+    "fullscreen.dropped_file.psd_import_is_not_supported": {
+        "string": "PSDのインポートはサポートされていません\n"
+    },
+    "fullscreen.export_handler.dimensions_exceeded_and_origin_snapped": {
+        "string": "寸法が最大値を超えました\n寸法が{maxDimension}を超えました。\n{reducedX}x{reducedY}pxに減らしました。\n\n 基点がピクセルに位置合わせされていません。\n基点が({snapX}, {snapY})にスナップされました。\n寸法はピクセル単位で拡大できます。"
+    },
+    "fullscreen.export_handler.dimensions_exceeded_maximum": {
+        "string": "寸法が最大値を超えました"
+    },
+    "fullscreen.export_handler.dimensions_exceeded_maximum_tooltip": {
+        "string": "寸法が最大値を超えました\n寸法が{maxDimension}を超えました。\n{reducedX}x{reducedY}pxに減らしました。"
+    },
+    "fullscreen.export_handler.origin_not_aligned_to_pixels": {
+        "string": "基点がピクセルに位置合わせされていません。"
+    },
+    "fullscreen.export_handler.origin_snapped_tooltip": {
+        "string": "基点がピクセルに位置合わせされていません。\n基点が({snapX}, {snapY})にスナップされました。\n寸法はピクセル単位で拡大できます。"
+    },
+    "fullscreen.node_transition_behavior.back": {
+        "string": "戻る"
+    },
+    "fullscreen.node_transition_behavior.close_overlay": {
+        "string": "オーバーレイを閉じる"
+    },
+    "fullscreen.node_transition_behavior.open_link": {
+        "string": "リンクを開く"
+    },
+    "fullscreen.node_transition_behavior.open_overlay": {
+        "string": "オーバーレイを開く"
+    },
+    "fullscreen.node_transition_behavior.swap": {
+        "string": "入れ替え"
+    },
+    "fullscreen.position_panel.fixed_disabled": {
+        "string": "最上位のフレームにのみ適用できます。"
+    },
+    "fullscreen.position_panel.relative_disabled": {
+        "string": "オートレイアウトフレーム内のレイヤーにのみ適用できます。"
+    },
+    "fullscreen.save_status.learn_more": {
+        "string": "詳細情報"
+    },
+    "fullscreen.stack_behavior.auto": {
+        "string": "自動"
+    },
+    "fullscreen.stack_behavior.container": {
+        "string": "コンテナ({parentName})"
+    },
+    "fullscreen.stack_behavior.contents": {
+        "string": "コンテンツ"
+    },
+    "fullscreen.style_detached_warning": {
+        "string": "一部のテキストレイヤーのスタイルをデタッチしました"
+    },
+    "fullscreen.table_tool.click_and_drag_to_set_table_size": {
+        "string": "設定サイズのクリックとドラッグ"
+    },
+    "fullscreen.table_tool.num_rows_num_columns": {
+        "string": "{numRows} 行×{numColumns}列"
+    },
+    "fullscreen.visual_bell.missing_font_replaced": {
+        "string": "欠落しているフォントが置き換えられました"
+    },
+    "fullscreen.visual_bell.view_only_text_too_old": {
+        "string": "正確な選択テキストがありません"
+    },
+    "fullscreen.widgets.details": {
+        "string": "詳細"
+    },
+    "resource_use.click_to_dismiss": {
+        "string": "(ダブルクリックで閉じる)"
+    },
+    "resource_use.memory_allocations": {
+        "string": "メモリ割り当て/空き容量"
+    },
+    "resource_use.total_memory": {
+        "string": "使用済みメモリ合計 (GB)"
+    },
+    "resource_use.total_number_of_layers": {
+        "string": "レイヤー総数"
+    }
+}

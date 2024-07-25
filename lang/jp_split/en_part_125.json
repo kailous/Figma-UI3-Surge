@@ -1,0 +1,152 @@
+{
+    "fullscreen.properties_panel.transform_panel.y": {
+        "string": "Y"
+    },
+    "fullscreen.properties_panel.video": {
+        "string": "動画"
+    },
+    "fullscreen.properties_panel.video_time": {
+        "string": "動画内の時間"
+    },
+    "fullscreen.properties_panel.volume": {
+        "string": "音量"
+    },
+    "fullscreen.reaction_wheel": {
+        "string": "リアクションツール"
+    },
+    "fullscreen.remove_group_fill_and_stroke.background_color_group_unsupported": {
+        "string": "グループの背景色はサポートされなくなりました。色を変更するには、グループをフレームに変換してください。"
+    },
+    "fullscreen.rename_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "fullscreen.rename_modal.current_match": {
+        "string": "現在の一致"
+    },
+    "fullscreen.rename_modal.current_name": {
+        "string": "現在の名前"
+    },
+    "fullscreen.rename_modal.learn_more": {
+        "string": "詳細情報"
+    },
+    "fullscreen.rename_modal.match_optional": {
+        "string": "一致するテキスト(省略可)"
+    },
+    "fullscreen.rename_modal.number": {
+        "string": "番号"
+    },
+    "fullscreen.rename_modal.preview": {
+        "string": "プレビュー"
+    },
+    "fullscreen.rename_modal.rename": {
+        "string": "名前を変更"
+    },
+    "fullscreen.rename_modal.rename_num_layers_layers": {
+        "string": "{numLayers}レイヤーの名前を変更"
+    },
+    "fullscreen.rename_modal.rename_num_pages_pages": {
+        "string": "{numPages}ページの名前を変更"
+    },
+    "fullscreen.rename_modal.rename_to": {
+        "string": "変更後の名前"
+    },
+    "fullscreen.rename_modal.replace_with": {
+        "string": "置換後の名前"
+    },
+    "fullscreen.rename_modal.start_ascending_from": {
+        "string": "昇順開始位置"
+    },
+    "fullscreen.rename_modal.start_sequence_from": {
+        "string": "シーケンス開始位置"
+    },
+    "fullscreen.rename_modal.stop_descending_at": {
+        "string": "降順終了位置"
+    },
+    "fullscreen.ruler_guide_context_menu.hide_rulers": {
+        "string": "定規を非表示"
+    },
+    "fullscreen.savepoint_modal.give_this_merge_a_description": {
+        "string": "このマージの説明を入力"
+    },
+    "fullscreen.savepoint_modal.show_full_version_history": {
+        "string": "バージョン履歴全体を表示"
+    },
+    "fullscreen.savepoint_modal.title": {
+        "string": "タイトル"
+    },
+    "fullscreen.scale_panel.anchor_point": {
+        "string": "アンカーポイント"
+    },
+    "fullscreen.scale_panel.close": {
+        "string": "閉じる"
+    },
+    "fullscreen.scale_panel.scale": {
+        "string": "拡大縮小"
+    },
+    "fullscreen.scrubbable.opacity": {
+        "string": "不透明度"
+    },
+    "fullscreen.scrubbable.percent": {
+        "string": "%"
+    },
+    "fullscreen.spell-check-menu-add-word": {
+        "string": "辞書に追加"
+    },
+    "fullscreen.stamp_wheel": {
+        "string": "スタンプツール"
+    },
+    "fullscreen.stamp_wheel.dot": {
+        "string": "ドットスタンプ"
+    },
+    "fullscreen.stamp_wheel.heart": {
+        "string": "ハートスタンプ"
+    },
+    "fullscreen.stamp_wheel.plus_one": {
+        "string": "+1スタンプ"
+    },
+    "fullscreen.stamp_wheel.profile": {
+        "string": "プロフィールスタンプ"
+    },
+    "fullscreen.stamp_wheel.question": {
+        "string": "質問スタンプ"
+    },
+    "fullscreen.stamp_wheel.star": {
+        "string": "星スタンプ"
+    },
+    "fullscreen.stamp_wheel.thumbs_down": {
+        "string": "サムダウンスタンプ"
+    },
+    "fullscreen.stamp_wheel.thumbs_up": {
+        "string": "サムアップスタンプ"
+    },
+    "fullscreen.starter_team_edit_modal.open_this_link": {
+        "string": "このリンクを開きますか?"
+    },
+    "fullscreen.starter_team_edit_modal.when_you_open_this_link_your_email_may_be_visible": {
+        "string": "このリンクを開くと、ファイルへのアクセス権を持つ他の人にメールアドレス{email}が見えることがあります"
+    },
+    "fullscreen.toolbar.approval_pending": {
+        "string": "承認待ち"
+    },
+    "fullscreen.toolbar.approval_pending.dev_mode_grace_period_tooltip": {
+        "string": "{numDays, plural, other {使用を継続するには、{numDays}日以内に管理者に申請して承認を受ける必要があります。}}"
+    },
+    "fullscreen.toolbar.back-to-files-button": {
+        "string": "ファイルに戻る"
+    },
+    "fullscreen.toolbar.create_an_account_to_do_more_with_fig_jam": {
+        "string": "FigJamで作業するためのアカウントを作成"
+    },
+    "fullscreen.toolbar.done": {
+        "string": "完了"
+    },
+    "fullscreen.toolbar.edit-file-button": {
+        "string": "ファイルを編集"
+    },
+    "fullscreen.toolbar.edit-file-button-hover-tooltip": {
+        "string": "クリックしてこのファイルを変更"
+    },
+    "fullscreen.toolbar.edit-file-button-loading-aria-label": {
+        "string": "読み込み中…"
+    }
+}

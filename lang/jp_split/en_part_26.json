@@ -1,0 +1,152 @@
+{
+    "banner.free_limit_locked.locked": {
+        "string": "ロック済み"
+    },
+    "banner.free_limit_locked.team_locked_over_starter_limits": {
+        "string": "スタータープランの上限を超えたため、{teamName}がロックされました。"
+    },
+    "banner.free_limit_locked.upgrade_now": {
+        "string": "今すぐアップグレード"
+    },
+    "banner.free_limit_locked.upgrade_team_or_lower_usage": {
+        "string": "今すぐ{teamName}をアップグレードしてファイルの編集を続けるか、使用量を減らしてください。{learnMoreLink}"
+    },
+    "banner.freemium_preview.buy_the_resource": {
+        "string": "このファイルを購入"
+    },
+    "banner.freemium_preview.get_the_full_file_on_community": {
+        "string": "コミュニティでファイル全体を入手"
+    },
+    "banner.freemium_preview.open_in_community": {
+        "string": "コミュニティページを開く"
+    },
+    "banner.freemium_preview.this_is_just_a_preview": {
+        "string": "プレビューを表示中"
+    },
+    "banner.freemium_preview.this_is_just_a_preview_of_the_file_you_can_buy_on_community": {
+        "string": "これはコミュニティで購入可能なファイルのプレビューです。"
+    },
+    "banner.freemium_preview.you_purchased_this_file_already": {
+        "string": "このファイルは購入済みです。"
+    },
+    "banner.multiplayer_session_upgrade.out_of_date.connected": {
+        "string": "作業内容を保存します。他のユーザーの編集内容を見るには再度読み込む必要があります。"
+    },
+    "banner.multiplayer_session_upgrade.out_of_date.not_connected": {
+        "string": "作業内容を保存します。他のユーザーの編集内容を見るには再度読み込む必要があります。"
+    },
+    "banner.multiplayer_session_upgrade.page_out_of_date": {
+        "string": "Figmaの新しいバージョンが利用できます。"
+    },
+    "banner.multiplayer_session_upgrade.reload": {
+        "string": "再読み込み"
+    },
+    "banner.multiplayer_session_upgrade.save_and_reload": {
+        "string": "保存して再読み込み"
+    },
+    "banner.orphaned_projects.back_to_files": {
+        "string": "ファイルに戻る"
+    },
+    "banner.orphaned_projects.file_in_an_abandoned_project": {
+        "string": "ファイルは、破棄されたプロジェクトにあります"
+    },
+    "banner.orphaned_projects.move_to_project": {
+        "string": "このファイルを編集または共有するには、別のプロジェクトに移動してください。"
+    },
+    "banner.personal_projects.back_to_files": {
+        "string": "ファイルに戻る"
+    },
+    "banner.personal_projects.deprecation_message": {
+        "string": "チーム外ではプロジェクトがサポートされていません。編集を続けるには、このファイルをチームまたは下書きに移動してください。{learnMoreLink}"
+    },
+    "banner.personal_projects.learn_more": {
+        "string": "詳細を表示します。"
+    },
+    "banner.personal_projects.locked": {
+        "string": "ロック済み"
+    },
+    "banner.pro_team_charge_failed.payment_failed": {
+        "string": "お支払いを確認できません"
+    },
+    "banner.pro_team_charge_failed.unsuccessful_team_charge.can_admin": {
+        "string": "{teamName}のお支払いをご指定の方法で完了できませんでした。お支払い情報を早急に更新してください。3回失敗すると、ファイルの編集がロックされます。"
+    },
+    "banner.pro_team_charge_failed.unsuccessful_team_charge.no_admin": {
+        "string": "{teamName}のお支払いをご指定の方法で完了できませんでした。管理者に連絡してお支払い情報を早急に更新してください。3回失敗すると、ファイルの編集がロックされます。"
+    },
+    "banner.pro_team_charge_failed.update_payment": {
+        "string": "支払い情報を更新"
+    },
+    "banner.pro_team_no_monthly_sub.contact_support": {
+        "string": "サポートにお問い合わせください"
+    },
+    "banner.pro_team_no_monthly_sub.locked": {
+        "string": "ロック済み"
+    },
+    "banner.pro_team_no_monthly_sub.manage_plan": {
+        "string": "プランを管理"
+    },
+    "banner.pro_team_no_monthly_sub.over_limit_as_admin.seat_rename": {
+        "string": "Figmaサブスクリプションをキャンセルした後に、チームが有料シートを追加しました。アクセスを復元するには、サブスクリプションを再度有効にするか、シートをダウングレードしてください。サポートが必要ですか? {contactSupportLink}"
+    },
+    "banner.pro_team_no_monthly_sub.over_team_limit_without_admin.seat_rename": {
+        "string": "サブスクリプションのキャンセル後に、{teamName}に新しい有料シートが追加されました。アクセスを復元するには、チームの管理者に、サブスクリプションを再度有効にするか、他の編集者を限定閲覧者にダウングレードするよう依頼してください。"
+    },
+    "banner.pro_team_past_due.locked": {
+        "string": "ロック済み"
+    },
+    "banner.pro_team_past_due.update_payment": {
+        "string": "支払い情報を更新"
+    },
+    "banner.pro_team_past_due.update_payment_source.can_admin": {
+        "string": "お支払いを3回続けて確認できませんでした。{teamName}でファイルの編集を続けるには、お支払い情報を更新してください。"
+    },
+    "banner.pro_team_past_due.update_payment_source.no_admin": {
+        "string": "お支払いを3回続けて確認できませんでした。{teamName}でファイルの編集を続けるには、お支払方法をを更新してください。管理者に連絡して支払い情報を更新してください。"
+    },
+    "banner.pro_trial_expiry.expiry_description": {
+        "string": "{teamName}はスタータープランに戻りましたが、いつでもアップグレードできます。"
+    },
+    "banner.pro_trial_expiry.locked_description": {
+        "string": "チームのファイルは、{lowerUsageLink}スターターの制限内にするか、{upgradeLink}するまで、読み取り専用となります。"
+    },
+    "banner.pro_trial_expiry.locked_description_for_viewer_on_team": {
+        "string": "{teamName}のファイルは一時的に閲覧限定です。詳細はチームの管理者にお問い合わせください。"
+    },
+    "banner.pro_trial_expiry.lower_usage": {
+        "string": "使用量を減らして"
+    },
+    "banner.pro_trial_expiry.move_this_file_cta": {
+        "string": "このファイルを移動"
+    },
+    "banner.pro_trial_expiry.title": {
+        "string": "プロフェッショナルのトライアルが終了しました。"
+    },
+    "banner.pro_trial_expiry.upgrade": {
+        "string": "アップグレード"
+    },
+    "banner.pro_trial_upgrade_cta.upgrade_to_professional": {
+        "string": "プロフェッショナルにアップグレード"
+    },
+    "banner.shared.close_banner": {
+        "string": "バナーを閉じる"
+    },
+    "base_notifications.dismiss": {
+        "string": "無視"
+    },
+    "billing_emails_modal.billing_emails_info.about_billing_emails": {
+        "string": "更新、請求書、その他に関してすべての管理者と請求連絡先にお知らせいたします。"
+    },
+    "billing_emails_modal.billing_emails_info.annual_subscription_renews_on_description": {
+        "string": "この年間サブスクリプションは{date}に更新され、以降は毎年同じ日に更新されます。更新の14日前と5日前に、すべての管理者にリマインダーをお送りいたします。"
+    },
+    "billing_emails_modal.billing_emails_info.annual_subscriptions_and_renewals": {
+        "string": "年間サブスクリプションと更新"
+    },
+    "billing_emails_modal.billing_emails_info.close": {
+        "string": "了解"
+    },
+    "billing_emails_modal.billing_emails_info.more": {
+        "string": "詳細情報"
+    }
+}

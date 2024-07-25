@@ -1,0 +1,152 @@
+{
+    "proto.action_check_if_else": {
+        "string": "if/elseをチェック"
+    },
+    "proto.action_check_if_else_interaction": {
+        "string": "「if/elseをチェック」インタラクション"
+    },
+    "proto.action_close_overlay": {
+        "string": "オーバーレイを閉じる"
+    },
+    "proto.action_close_overlay_interaction": {
+        "string": "「オーバーレイを閉じる」インタラクション"
+    },
+    "proto.action_conditional": {
+        "string": "条件付きアクション"
+    },
+    "proto.action_conditional_interaction": {
+        "string": "条件付きインタラクション"
+    },
+    "proto.action_conditional_title": {
+        "string": "If"
+    },
+    "proto.action_navigate_to": {
+        "string": "次に移動"
+    },
+    "proto.action_navigate_to_interaction": {
+        "string": "「次に移動」インタラクション"
+    },
+    "proto.action_navigate_to_layer": {
+        "string": "{layerName}に移動"
+    },
+    "proto.action_none": {
+        "string": "なし"
+    },
+    "proto.action_none_interaction": {
+        "string": "「なし」インタラクション"
+    },
+    "proto.action_open_link": {
+        "string": "リンクを開く"
+    },
+    "proto.action_open_link_interaction": {
+        "string": "「リンクを開く」インタラクション"
+    },
+    "proto.action_open_overlay": {
+        "string": "オーバーレイを開く"
+    },
+    "proto.action_open_overlay_interaction": {
+        "string": "「オーバーレイを開く」インタラクション"
+    },
+    "proto.action_open_url_in_new_tab": {
+        "string": "新しいタブで開く"
+    },
+    "proto.action_overlay_title": {
+        "string": "{overlayFrameName}をオーバーレイとして開く"
+    },
+    "proto.action_scroll_to": {
+        "string": "次にスクロール"
+    },
+    "proto.action_scroll_to_interaction": {
+        "string": "「次にスクロール」インタラクション"
+    },
+    "proto.action_set_variable": {
+        "string": "バリアブルを設定"
+    },
+    "proto.action_set_variable_interaction": {
+        "string": "「バリアブルを設定」インタラクション"
+    },
+    "proto.action_set_variable_mode": {
+        "string": "バリアブルモードを設定"
+    },
+    "proto.action_set_variable_mode_interaction": {
+        "string": "「バリアブルモードを設定」インタラクション"
+    },
+    "proto.action_set_variable_title": {
+        "string": "{variableName}を{variableValue}に設定"
+    },
+    "proto.action_swap_overlay": {
+        "string": "オーバーレイの入れ替え"
+    },
+    "proto.action_swap_overlay_interaction": {
+        "string": "「オーバーレイの入れ替え」インタラクション"
+    },
+    "proto.action_swap_overlay_title": {
+        "string": "オーバーレイを次に入れ替える"
+    },
+    "proto.action_update_media_backward": {
+        "string": "後ろへ"
+    },
+    "proto.action_update_media_backward_interaction": {
+        "string": "「後ろへ」インタラクション"
+    },
+    "proto.action_update_media_forward": {
+        "string": "前へ"
+    },
+    "proto.action_update_media_forward_interaction": {
+        "string": "「前へ」インタラクション"
+    },
+    "proto.action_update_media_jump": {
+        "string": "ジャンプ"
+    },
+    "proto.action_update_media_jump_backward": {
+        "string": "後へジャンプ"
+    },
+    "proto.action_update_media_jump_forward": {
+        "string": "前へジャンプ"
+    },
+    "proto.action_update_media_jump_forward_backward": {
+        "string": "前/後へジャンプ"
+    },
+    "proto.action_update_media_jump_time": {
+        "string": "時間"
+    },
+    "proto.action_update_media_jump_time_interaction": {
+        "string": "「時間」インタラクション"
+    },
+    "proto.action_update_media_mute": {
+        "string": "ミュート"
+    },
+    "proto.action_update_media_mute_interaction": {
+        "string": "「ミュート」インタラクション"
+    },
+    "proto.action_update_media_mute_only": {
+        "string": "ミュートのみ"
+    },
+    "proto.action_update_media_mute_unmute": {
+        "string": "ミュート/ミュート解除"
+    },
+    "proto.action_update_media_mute_unmute_interaction": {
+        "string": "「ミュート/ミュート解除」インタラクション"
+    },
+    "proto.action_update_media_mute_unmute_video": {
+        "string": "動画をミュート/ミュート解除"
+    },
+    "proto.action_update_media_pause": {
+        "string": "一時停止"
+    },
+    "proto.action_update_media_pause_interaction": {
+        "string": "「一時停止」インストラクション"
+    },
+    "proto.action_update_media_pause_only": {
+        "string": "一時停止のみ"
+    },
+    "proto.action_update_media_play": {
+        "string": "再生"
+    },
+    "proto.action_update_media_play_interaction": {
+        "string": "「再生」インタラクション"
+    },
+    "proto.action_update_media_play_only": {
+        "string": "再生のみ"
+    }
+}

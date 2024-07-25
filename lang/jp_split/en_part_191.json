@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.suggested-actions": {
+        "string": "候補"
+    },
+    "fullscreen_actions.swap-fill-and-stroke": {
+        "string": "塗と線の色を入れ替える"
+    },
+    "fullscreen_actions.swap-nodes": {
+        "string": "レイヤーを交換"
+    },
+    "fullscreen_actions.swap_component_instance": {
+        "string": "コンポーネントインスタンスを切り替える"
+    },
+    "fullscreen_actions.swap_instance": {
+        "string": "インスタンスの入れ替え"
+    },
+    "fullscreen_actions.tab": {
+        "string": "Tab"
+    },
+    "fullscreen_actions.team_library": {
+        "string": "チームライブラリ"
+    },
+    "fullscreen_actions.test-action": {
+        "string": "Test action"
+    },
+    "fullscreen_actions.test-independent-layer-animation": {
+        "string": "独立レイヤーアニメーションをテスト"
+    },
+    "fullscreen_actions.test-independent-layer-animation-eased": {
+        "string": "イージングされた独立レイヤーアニメーションをテスト"
+    },
+    "fullscreen_actions.test-independent-layer-animation-opacity": {
+        "string": "不透明度の独立レイヤーアニメーションをテスト"
+    },
+    "fullscreen_actions.test-multiplayer-reject-invalid-permissions": {
+        "string": "Test multiplayer 'Invalid permissions'"
+    },
+    "fullscreen_actions.test-multiplayer-reject-not-logged-in": {
+        "string": "Test multiplayer 'Not logged in'"
+    },
+    "fullscreen_actions.test-multiplayer-reject-too-many-connections": {
+        "string": "Test multiplayer 'Too many connections'"
+    },
+    "fullscreen_actions.test-multiplayer-reject-too-old": {
+        "string": "Test multiplayer 'Client too old'"
+    },
+    "fullscreen_actions.test-multiplayer-upgrade": {
+        "string": "Test multiplayer upgrade protocol"
+    },
+    "fullscreen_actions.test-non-independent-layer-animation": {
+        "string": "非独立レイヤーアニメーションをテスト"
+    },
+    "fullscreen_actions.text-adjust-menu": {
+        "string": "調整"
+    },
+    "fullscreen_actions.text-align-bottom": {
+        "string": "テキスト下揃え"
+    },
+    "fullscreen_actions.text-align-center": {
+        "string": "テキスト中央揃え"
+    },
+    "fullscreen_actions.text-align-justified": {
+        "string": "テキスト両端揃え"
+    },
+    "fullscreen_actions.text-align-left": {
+        "string": "テキスト左揃え"
+    },
+    "fullscreen_actions.text-align-menu": {
+        "string": "配置"
+    },
+    "fullscreen_actions.text-align-middle": {
+        "string": "テキスト上下中央揃え"
+    },
+    "fullscreen_actions.text-align-right": {
+        "string": "テキスト右揃え"
+    },
+    "fullscreen_actions.text-align-top": {
+        "string": "テキスト上揃え"
+    },
+    "fullscreen_actions.text-bold-decrease": {
+        "string": "フォントを細くする"
+    },
+    "fullscreen_actions.text-bold-increase": {
+        "string": "フォントを太くする"
+    },
+    "fullscreen_actions.text-case-menu": {
+        "string": "大文字と小文字の設定"
+    },
+    "fullscreen_actions.text-dedent-list": {
+        "string": "インデントを減らす"
+    },
+    "fullscreen_actions.text-directionality-menu": {
+        "string": "テキストの方向"
+    },
+    "fullscreen_actions.text-edit-hyperlink": {
+        "string": "リンクの作成"
+    },
+    "fullscreen_actions.text-font-size-decrease": {
+        "string": "フォントサイズを小さくする"
+    },
+    "fullscreen_actions.text-font-size-increase": {
+        "string": "フォントサイズを大きくする"
+    },
+    "fullscreen_actions.text-forced-small-caps": {
+        "string": "強制スモールキャップス"
+    },
+    "fullscreen_actions.text-indent-list": {
+        "string": "インデントを増やす"
+    },
+    "fullscreen_actions.text-letter-spacing-decrease": {
+        "string": "文字間隔を詰める"
+    },
+    "fullscreen_actions.text-letter-spacing-increase": {
+        "string": "文字間隔を広げる"
+    },
+    "fullscreen_actions.text-line-height-decrease": {
+        "string": "行間を詰める"
+    },
+    "fullscreen_actions.text-line-height-increase": {
+        "string": "行間を広げる"
+    },
+    "fullscreen_actions.text-lower-case": {
+        "string": "小文字"
+    },
+    "fullscreen_actions.text-menu": {
+        "string": "テキスト"
+    },
+    "fullscreen_actions.text-original-case": {
+        "string": "元の大文字/小文字"
+    },
+    "fullscreen_actions.text-relayout": {
+        "string": "選択範囲のテキストレイアウトの再計算"
+    },
+    "fullscreen_actions.text-set-directionality-ltr": {
+        "string": "左から右"
+    },
+    "fullscreen_actions.text-set-directionality-ltr-qa": {
+        "string": "テキストの方向: 左から右"
+    },
+    "fullscreen_actions.text-set-directionality-rtl": {
+        "string": "右から左"
+    },
+    "fullscreen_actions.text-set-directionality-rtl-qa": {
+        "string": "テキストの方向: 右から左"
+    },
+    "fullscreen_actions.text-small-caps": {
+        "string": "スモールキャップス"
+    },
+    "fullscreen_actions.text-title-case": {
+        "string": "各単語の先頭文字を大文字にする"
+    }
+}

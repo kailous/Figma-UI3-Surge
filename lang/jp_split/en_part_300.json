@@ -1,0 +1,152 @@
+{
+    "fullscreen.properties_panel.stack_panel.preview": {
+        "string": "プレビュー"
+    },
+    "fullscreen.properties_panel.stack_panel.remove_auto_layout": {
+        "string": "オートレイアウトを削除"
+    },
+    "fullscreen.properties_panel.stack_panel.remove_baseline_align": {
+        "string": "ベースライン揃えを削除"
+    },
+    "fullscreen.properties_panel.stack_panel.remove_max": {
+        "string": "最大幅・高さを削除"
+    },
+    "fullscreen.properties_panel.stack_panel.remove_min": {
+        "string": "最小幅・高さを削除"
+    },
+    "fullscreen.properties_panel.stack_panel.remove_min_and_max": {
+        "string": "最小と最大を削除"
+    },
+    "fullscreen.properties_panel.stack_panel.right_padding": {
+        "string": "右パディング"
+    },
+    "fullscreen.properties_panel.stack_panel.sizing_disabled.no_fill_component": {
+        "string": "塗りは、コンポーネントには適用できません。インスタンスにのみ適用できます"
+    },
+    "fullscreen.properties_panel.stack_panel.sizing_disabled.select_all_fill": {
+        "string": "すべての子を選択して塗りに設定"
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version": {
+        "string": "更新によりレイヤーが追加されることがありますが、表示されるデザインは変わりません。"
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_components": {
+        "string": "更新によりレイヤーが追加されることがありますが、表示されるデザインは変わりません。このメインコンポーネントにインスタンスが含まれている場合は、更新後にインスタンスを確認してください。"
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance": {
+        "string": "このインスタンスは古いバージョンのオートレイアウトを使用しています。オートレイアウトを更新するには、メインコンポーネントを更新します。"
+    },
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance_overrides": {
+        "string": "このインスタンスには、古いバージョンのオートレイアウトからのオーバーライドがあります。更新すると、オーバーライドが削除されます。\\n\\nメインコンポーネントの更新が必要な場合もあります。"
+    },
+    "fullscreen.properties_panel.stack_panel.top_padding": {
+        "string": "上パディング"
+    },
+    "fullscreen.properties_panel.stack_panel.undo": {
+        "string": "元に戻す"
+    },
+    "fullscreen.properties_panel.stack_panel.update": {
+        "string": "更新"
+    },
+    "fullscreen.properties_panel.stack_panel.use_auto_layout": {
+        "string": "オートレイアウトを使用"
+    },
+    "fullscreen.properties_panel.stack_panel.vertical_direction": {
+        "string": "縦に並べる"
+    },
+    "fullscreen.properties_panel.stack_panel.vertical_padding": {
+        "string": "垂直パディング"
+    },
+    "fullscreen.properties_panel.stack_panel.wrap": {
+        "string": "折り返す"
+    },
+    "fullscreen.visual_bell.could_not_suggest_auto_layout": {
+        "string": "オートレイアウトを提案できません"
+    },
+    "fullscreen.visual_bell.try_again_msal": {
+        "string": "選択範囲を小さくして、もう一度お試しください"
+    },
+    "tax.example_vat_format_placeholder": {
+        "string": "例: {exampleFormat}"
+    },
+    "tax.optional_vat_gst_id.input_label": {
+        "string": "{taxType} ID (オプション)"
+    },
+    "tax.vat.input_tooltip": {
+        "string": "付加価値税(VAT)や物品サービス税(GST)のIDをお客様の税務状況の確認に使用します。"
+    },
+    "tax.vat.vat_gst_validation_failed": {
+        "string": "VAT/GST IDの確認中にエラーが発生しました。"
+    },
+    "change_annual_plan_modal.cancel_annual_plan_header": {
+        "string": "年間プランをキャンセルしますか?"
+    },
+    "change_annual_plan_modal.cancel_annual_plan_subtext": {
+        "string": "年間プランは後でいつでも追加できます。"
+    },
+    "change_annual_plan_modal.cancel_annual_plan_text.seat_rename": {
+        "string": "チーム内のFigmaデザインシートとFigJamシートについては、それぞれ{monthlyEditorCost}/月、{monthlyFigJamEditorCost}/月が毎月請求されます。"
+    },
+    "change_annual_plan_modal.change_annual_plan_grace_period.seat_rename": {
+        "string": "年間プランのフルシートの数は、更新の30日前まで変更できます。"
+    },
+    "change_annual_plan_modal.confirm_cancel_annual_plan": {
+        "string": "年間プランをキャンセル"
+    },
+    "change_annual_plan_modal.confirm_text": {
+        "string": "年間プランを更新"
+    },
+    "change_annual_plan_modal.confirmation_header_plan_started": {
+        "string": "年間プランは{startDate}に自動更新されます"
+    },
+    "change_annual_plan_modal.confirmation_header_plan_starting": {
+        "string": "年間プランは{startDate}に開始されます"
+    },
+    "change_annual_plan_modal.contact_support_link": {
+        "string": "サポートにお問い合わせください"
+    },
+    "change_annual_plan_modal.contact_support_to_purchase_more_seats_error": {
+        "string": "購入するシート数が{maxAnnualSubscriptions}を超える場合は、{contactSupportLink}してください。"
+    },
+    "change_annual_plan_modal.dont_renew_annual_plan": {
+        "string": "年間プランを更新しない"
+    },
+    "change_annual_plan_modal.instructions.seat_rename": {
+        "string": "年間プランに含まれていないシートについては、{monthlyEditorCost}/月({editorProduct}の場合)、{monthlyFigjamCost}/月({figJamProduct}の場合)が毎月請求されます"
+    },
+    "change_annual_plan_modal.invalid_seats_error": {
+        "string": "更新する有効なシート数を入力してください。"
+    },
+    "change_annual_plan_modal.nevermind": {
+        "string": "キャンセルしない"
+    },
+    "change_annual_plan_modal.number_of_editors.seat_rename": {
+        "string": "年間プランの{productType}シートの数:"
+    },
+    "change_annual_plan_modal.plan_start_date": {
+        "string": "{startDate, date, medium}"
+    },
+    "change_annual_plan_modal.remove_annual_plan": {
+        "string": "年間プランを削除する"
+    },
+    "change_annual_plan_modal.unknown_start_date": {
+        "string": "不明な日付"
+    },
+    "change_team_name_visual_bell.text": {
+        "string": "{oldTeamName}の名前が{newTeamName}に変更されました"
+    },
+    "change_team_name_visual_bell.undo": {
+        "string": "元に戻す"
+    },
+    "downgrade_member_visual_bell.text": {
+        "string": "{numMembers, plural, other {{numMembers}ユーザーのチームの権限は、「閲覧のみ」にダウングレードされました}}"
+    },
+    "flash.team_billing_summary_fetching_error": {
+        "string": "請求の概要の取得中にエラーが発生しました。"
+    },
+    "flash.team_deletion_file_count_fetching_error": {
+        "string": "チーム削除のためのファイル数の取得中にエラーが発生しました。"
+    },
+    "flash.team_invoices_fetching_error": {
+        "string": "請求書の取得中にエラーが発生しました。"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "design_systems.component_properties.boolean_false": {
+        "string": "False"
+    },
+    "design_systems.component_properties.boolean_property_default_name": {
+        "string": "{selectedNodeName}を表示"
+    },
+    "design_systems.component_properties.boolean_property_default_name_fallback": {
+        "string": "{numSelected, plural, other {レイヤーを表示}}"
+    },
+    "design_systems.component_properties.boolean_true": {
+        "string": "True"
+    },
+    "design_systems.component_properties.bubbled_instances": {
+        "string": "ネストされたインスタンス"
+    },
+    "design_systems.component_properties.cant_show_values": {
+        "string": "他のライブラリの値を表示できません"
+    },
+    "design_systems.component_properties.choose_default_instance_value": {
+        "string": "インスタンスの選択"
+    },
+    "design_systems.component_properties.choose_default_instance_value_cycle": {
+        "string": "コンポーネントにそれ自体のインスタンスを含めることはできません"
+    },
+    "design_systems.component_properties.choose_instance": {
+        "string": "インスタンスの選択"
+    },
+    "design_systems.component_properties.choose_instances": {
+        "string": "ネストされたインスタンス"
+    },
+    "design_systems.component_properties.create_component_property": {
+        "string": "コンポーネントプロパティを作成"
+    },
+    "design_systems.component_properties.create_component_property_of_type": {
+        "string": "{propType}プロパティを作成"
+    },
+    "design_systems.component_properties.create_new_property": {
+        "string": "新しいプロパティの作成"
+    },
+    "design_systems.component_properties.create_property": {
+        "string": "プロパティを作成"
+    },
+    "design_systems.component_properties.create_property_menu_option": {
+        "string": "プロパティを作成…"
+    },
+    "design_systems.component_properties.default_value": {
+        "string": "値"
+    },
+    "design_systems.component_properties.delete_property": {
+        "string": "{numSelected, plural, other {プロパティの削除}}"
+    },
+    "design_systems.component_properties.detach_property": {
+        "string": "プロパティの切り離し"
+    },
+    "design_systems.component_properties.edit_component_property": {
+        "string": "{propType}プロパティの編集"
+    },
+    "design_systems.component_properties.edit_property": {
+        "string": "プロパティを編集"
+    },
+    "design_systems.component_properties.error_conflicting_name": {
+        "string": "プロパティ名が競合しています"
+    },
+    "design_systems.component_properties.error_unused_property": {
+        "string": "コンポーネント内で使用されていません"
+    },
+    "design_systems.component_properties.expose_nested_instances": {
+        "string": "プロパティの公開元"
+    },
+    "design_systems.component_properties.go_to_property": {
+        "string": "プロパティに移動"
+    },
+    "design_systems.component_properties.has_unpublished_preferred_values": {
+        "string": "非公開の優先値があります"
+    },
+    "design_systems.component_properties.instance_property_preview": {
+        "string": "インスタンスのプロパティのプレビュー"
+    },
+    "design_systems.component_properties.instance_swap": {
+        "string": "インスタンスの入れ替え"
+    },
+    "design_systems.component_properties.instance_swap_property_default_name": {
+        "string": "インスタンス"
+    },
+    "design_systems.component_properties.invalid_variant_binding": {
+        "string": "バリアブル値はバリアントにマップしません"
+    },
+    "design_systems.component_properties.invalid_variant_binding_state": {
+        "string": "別の設定によって値が取り消されました"
+    },
+    "design_systems.component_properties.link_unlinked_property": {
+        "string": "コンポーネントにプロパティを追加"
+    },
+    "design_systems.component_properties.link_unlinked_property_help_text": {
+        "string": "プロパティがコンポーネントで見つかりません。プロパティを追加してインスタンスのコントロールを提供します。"
+    },
+    "design_systems.component_properties.missing_property": {
+        "string": "プロパティがありません"
+    },
+    "design_systems.component_properties.mixed": {
+        "string": "混合"
+    },
+    "design_systems.component_properties.name": {
+        "string": "名前"
+    },
+    "design_systems.component_properties.new_value": {
+        "string": "新しい値"
+    },
+    "design_systems.component_properties.num_hidden": {
+        "string": "{num}個が非表示"
+    },
+    "design_systems.component_properties.preferred_values": {
+        "string": "優先する値"
+    },
+    "design_systems.component_properties.properties": {
+        "string": "プロパティ"
+    },
+    "design_systems.component_properties.property_icon_tooltip": {
+        "string": "{propertyType}プロパティ"
+    },
+    "design_systems.component_properties.publish_preferred_values": {
+        "string": "すべての優先値を公開..."
+    },
+    "design_systems.component_properties.remove_value": {
+        "string": "値を削除"
+    },
+    "design_systems.component_properties.rename_prompt": {
+        "string": "名前を変更…"
+    },
+    "design_systems.component_properties.see_all_layers": {
+        "string": "すべてのレイヤーを表示"
+    },
+    "design_systems.component_properties.select_preferred_values": {
+        "string": "優先する値を選択"
+    },
+    "design_systems.component_properties.select_variants_with_property_value": {
+        "string": "{numVariants, plural, other {{numVariants}個のバリアントを選択}}"
+    },
+    "design_systems.component_properties.show_more_nested_instances_rows": {
+        "string": "さらに{count}個のインスタンスを表示"
+    },
+    "design_systems.component_properties.show_more_properties": {
+        "string": "プロパティをさらに表示"
+    },
+    "design_systems.component_properties.show_more_property_rows": {
+        "string": "さらに{count}個のプロパティを表示"
+    },
+    "design_systems.component_properties.text": {
+        "string": "テキスト"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "design_systems.updates.publish": {
+        "string": "公開..."
+    },
+    "design_systems.updates.published": {
+        "string": "{relativeTimeStr}に公開"
+    },
+    "design_systems.updates.publishedByHandle": {
+        "string": "{publishUserHandle}が{relativeTimeStr}に公開"
+    },
+    "design_systems.updates.review_updates": {
+        "string": "更新を確認"
+    },
+    "design_systems.updates.show_updates_for_all_pages": {
+        "string": "すべてのページの更新内容を表示"
+    },
+    "design_systems.updates.styleName": {
+        "string": "{assetName}のスタイル"
+    },
+    "design_systems.updates.this_file": {
+        "string": "このファイル"
+    },
+    "design_systems.updates.this_instance_is_hidden": {
+        "string": "このインスタンスは非表示です"
+    },
+    "design_systems.updates.to_move_pasted_components_to_this_file_publish_a_library_update": {
+        "string": "貼り付けたコンポーネントをこのファイルに移動するには、ライブラリの更新を公開してください"
+    },
+    "design_systems.updates.to_move_pasted_styles_to_this_file_publish_a_library_update": {
+        "string": "貼り付けたスタイルをこのファイルに移動するには、ライブラリの更新を公開してください"
+    },
+    "design_systems.updates.update": {
+        "string": "更新"
+    },
+    "design_systems.updates.update_all": {
+        "string": "すべて更新"
+    },
+    "design_systems.updates.update_instance": {
+        "string": "インスタンスを更新"
+    },
+    "design_systems.updates.update_style": {
+        "string": "スタイルを更新"
+    },
+    "design_systems.updates.updated": {
+        "string": "更新済み"
+    },
+    "design_systems.updates.updates_from": {
+        "string": "{fileName}からの更新"
+    },
+    "design_systems.updates.updates_taking_longer_than_expected": {
+        "string": "予想以上に時間がかかっています..."
+    },
+    "design_systems.updates.updates_to_components_or_styles": {
+        "string": "コンポーネント、スタイル、バリアブルが利用可能になると{lineBreak}ここに表示されます。"
+    },
+    "design_systems.updates.view_all_pages": {
+        "string": "すべてのページを見る"
+    },
+    "desktop_bindings.interstitial.frame_link_copied": {
+        "string": "フレームリンクがクリップボードにコピーされました"
+    },
+    "desktop_bindings.interstitial.page_link_copied": {
+        "string": "ページリンクがクリップボードにコピーされました"
+    },
+    "desktop_bindings.interstitial.section_link_copied": {
+        "string": "セクションリンクをクリップボードにコピーしました"
+    },
+    "desktop_bindings.visual_bell.file_link_copied": {
+        "string": "ファイルリンクがクリップボードにコピーされました"
+    },
+    "desktop_bindings.visual_bell.redeem_app_auth_error": {
+        "string": "エラーが発生しました。もう一度お試しください。"
+    },
+    "desktop_bindings.visual_bell.slide_deck_link_copied": {
+        "string": "スライドデッキへのリンクがクリップボードにコピーされました"
+    },
+    "desktop_bindings.visual_bell.summary_link_copied": {
+        "string": "リンクがコピーされました..."
+    },
+    "desktop_download_modal_prompt.download_the_figma_desktop_app": {
+        "string": "Figmaデスクトップアプリをダウンロード"
+    },
+    "desktop_download_modal_prompt.get_the_desktop_app": {
+        "string": "デスクトップアプリを入手"
+    },
+    "desktop_download_modal_prompt.learn_more": {
+        "string": "詳細情報"
+    },
+    "desktop_download_modal_prompt.level_up_your_workflow_with_tabs": {
+        "string": "Figmaデスクトップアプリのタブ、ファイルへのクイックアクセス、新規ファイル作成、専用のデスクトップ通知を利用して、ワークフローをさらに向上させましょう。"
+    },
+    "desktop_new_tab.browser_more_recent_files_link": {
+        "string": "最近のファイルをもっと見る"
+    },
+    "desktop_new_tab.create_file_in": {
+        "string": "次の場所にファイルを作成:"
+    },
+    "desktop_new_tab.create_new_file_in": {
+        "string": "場所を指定してファイルを新規作成..."
+    },
+    "desktop_new_tab.design_card.subtitle": {
+        "string": "デザインとプロトタイプ"
+    },
+    "desktop_new_tab.design_card.title": {
+        "string": "デザインファイルを新規作成"
+    },
+    "desktop_new_tab.drafts": {
+        "string": "ドラフト"
+    },
+    "desktop_new_tab.edited_at_time_stamp": {
+        "string": "{relativeTime}に編集済み"
+    },
+    "desktop_new_tab.figjam_card.subtitle": {
+        "string": "ホワイトボードと図表"
+    },
+    "desktop_new_tab.figjam_card.title": {
+        "string": "新規FigJamボード"
+    },
+    "desktop_new_tab.last_viewed_header": {
+        "string": "最終閲覧時刻"
+    },
+    "desktop_new_tab.no_recent_files_header": {
+        "string": "最近使用したファイルはありません"
+    },
+    "desktop_new_tab.recent_files_header": {
+        "string": "最近のファイル"
+    },
+    "desktop_new_tab.search.no_file_results_matching": {
+        "string": "{searchQuery}に一致するファイル検索結果はありません"
+    },
+    "desktop_new_tab.search.search_files_placeholder": {
+        "string": "すべてのファイルから検索"
+    },
+    "desktop_new_tab.sites_card.subtitle": {
+        "string": "構築と公開"
+    },
+    "desktop_new_tab.sites_card.title": {
+        "string": "新規Webサイト"
+    },
+    "desktop_new_tab.slide_card.subtitle": {
+        "string": "プレゼンテーションと共有"
+    },
+    "desktop_new_tab.slide_card.title": {
+        "string": "新規スライドデッキ"
+    },
+    "desktop_new_tab.tab_title": {
+        "string": "新しいファイル"
+    },
+    "desktop_open_views.interstitial.open_here_instead": {
+        "string": "代わりにここで開く"
+    }
+}

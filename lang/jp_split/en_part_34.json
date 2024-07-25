@@ -1,0 +1,152 @@
+{
+    "collaboration.branching_chunk.property_change_node_removed": {
+        "string": "このノードは削除されました"
+    },
+    "collaboration.branching_chunk.property_change_node_removed_items": {
+        "string": "削除済み:"
+    },
+    "collaboration.branching_chunk.property_change_node_value_denoter": {
+        "string": "{propertyName}: {propertyValue}"
+    },
+    "collaboration.branching_chunk.property_change_non-previewable": {
+        "string": "プレビューできない変更"
+    },
+    "collaboration.branching_chunk.property_change_removed": {
+        "string": "{prevValue} → 削除済み"
+    },
+    "collaboration.branching_chunk.section_file_optimization": {
+        "string": "ファイルの最適化"
+    },
+    "collaboration.branching_chunk.section_file_optimization_tooltip": {
+        "string": "Figmaではパフォーマンス向上のためにメインファイルが最適化されました"
+    },
+    "collaboration.branching_chunk.section_see_more": {
+        "string": "{remainingChanges, plural, other {{remainingChanges}でその他の変更を確認}}"
+    },
+    "collaboration.branching_chunk.section_system_improvement": {
+        "string": "前回のマージまたは更新の試行からの復旧"
+    },
+    "collaboration.branching_chunk.section_system_improvement_tooltip": {
+        "string": "両方のファイルで検出された同じ変更を解決済み"
+    },
+    "collaboration.branching_chunk.side_by_side_left_label": {
+        "string": "以前"
+    },
+    "collaboration.branching_chunk.side_by_side_right_label": {
+        "string": "最新"
+    },
+    "collaboration.branching_chunk.tile_affected_items": {
+        "string": "{affectedCount, plural, other {{affectedCount}アイテムに影響}}"
+    },
+    "collaboration.branching_chunk.tile_empty_page_fallback": {
+        "string": "空のページ"
+    },
+    "collaboration.branching_chunk.tile_preview_node_fallback": {
+        "string": "プレビューは利用できません"
+    },
+    "collaboration.branching_chunk.tile_variants": {
+        "string": "{variantCount, plural, other {{variantCount}のバリアント}}"
+    },
+    "collaboration.branching_chunk.tile_variants_and_affected_items_separator": {
+        "string": " · "
+    },
+    "collaboration.branching_chunk.tile_variants_changed": {
+        "string": "{variantCount, plural, other {{variantCount}個の変更済みバリアント}}"
+    },
+    "collaboration.branching_create.title": {
+        "string": "ブランチを作成"
+    },
+    "collaboration.branching_create.create_button": {
+        "string": "作成"
+    },
+    "collaboration.branching_create.cancel_button": {
+        "string": "キャンセル"
+    },
+    "collaboration.branching_force.merge_to_source_title": {
+        "string": "確認なしでマージを承認"
+    },
+    "collaboration.branching_force.merge_to_source_confirm": {
+        "string": "メインへのマージを強制"
+    },
+    "collaboration.branching_force.merge_to_source_description": {
+        "string": "すべてのブランチの変更を、ブランチの確認手順なしでメインにマージします。"
+    },
+    "collaboration.branching_force.merge_to_source_blocked_description": {
+        "string": "このブランチをマージするには、メインファイルとの競合を解決する必要があります"
+    },
+    "collaboration.branching_force.merge_from_source_title": {
+        "string": "メインからの更新の強制を承認する"
+    },
+    "collaboration.branching_force.merge_from_source_confirm": {
+        "string": "メインからの更新を強制"
+    },
+    "collaboration.branching_force.merge_from_source_description": {
+        "string": "競合の確認手順なしで、メインからのすべての変更の更新をこのブランチに強制します。"
+    },
+    "collaboration.branching_force.merge_from_source_merge_conflict_label": {
+        "string": "更新の競合管理のユーザー設定を選択する:"
+    },
+    "collaboration.branching_force.merge_from_source_merge_conflict_radio_label": {
+        "string": "すべての競合の{option}変更を選ぶ"
+    },
+    "collaboration.branching_force.merge_from_source_merge_conflict_radio_option_main": {
+        "string": "メイン"
+    },
+    "collaboration.branching_force.merge_from_source_merge_conflict_radio_option_branch": {
+        "string": "ブランチ"
+    },
+    "collaboration.branching_from_source.apply_changes": {
+        "string": "変更を適用"
+    },
+    "collaboration.branching_from_source.applying_changes_from_main_file": {
+        "string": "メインファイルから変更を適用中"
+    },
+    "collaboration.branching_from_source.branch": {
+        "string": "ブランチ"
+    },
+    "collaboration.branching_from_source.changes_applied": {
+        "string": "変更が適用されました"
+    },
+    "collaboration.branching_from_source.changes_kept": {
+        "string": "変更が保持されます"
+    },
+    "collaboration.branching_from_source.confirm_picks": {
+        "string": "選択を確認"
+    },
+    "collaboration.branching_from_source.confirm_your_picks_as_well_as_additional_changes_that_may_be_pulled_into_your_file": {
+        "string": "選択内容およびファイルに取り込まれる可能性がある追加の変更を確認してください。"
+    },
+    "collaboration.branching_from_source.conflicted": {
+        "string": "競合あり"
+    },
+    "collaboration.branching_from_source.continue_to_apply_non_conflicting_changes": {
+        "string": "{changeCount, plural, other {メインファイルからの{changeCount}個の競合しない変更の適用を続行します。}}"
+    },
+    "collaboration.branching_from_source.keep_branch": {
+        "string": "ブランチを保持"
+    },
+    "collaboration.branching_from_source.keep_main": {
+        "string": "メインを保持"
+    },
+    "collaboration.branching_from_source.keeping_changes_on_branch": {
+        "string": "ブランチの変更を保持します"
+    },
+    "collaboration.branching_from_source.main": {
+        "string": "メイン"
+    },
+    "collaboration.branching_from_source.next": {
+        "string": "次へ"
+    },
+    "collaboration.branching_from_source.no_item": {
+        "string": "アイテムがありません"
+    },
+    "collaboration.branching_from_source.num_conflicts": {
+        "string": "{conflictCount, plural, other {{pickedCount}/{conflictCount}の競合}}"
+    },
+    "collaboration.branching_from_source.num_unique_items_related_items": {
+        "string": "{numUniqueItems}個の関連アイテム"
+    },
+    "collaboration.branching_from_source.pick_branch": {
+        "string": "ブランチの選択"
+    }
+}

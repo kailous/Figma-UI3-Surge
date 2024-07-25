@@ -1,0 +1,152 @@
+{
+    "google_device_try_file_modal.got_mail.email_not_received.send_again": {
+        "string": "もう一度送信"
+    },
+    "google_device_try_file_modal.got_mail.wrong_address": {
+        "string": "アドレスに誤りがある場合{use_different_email_link}"
+    },
+    "google_device_try_file_modal.got_mail.wrong_address.use_different_email": {
+        "string": "別のメールアドレスを使用"
+    },
+    "google_device_try_file_modal.onboarding_disclaimer_privacy_policy": {
+        "string": "プライバシーポリシー"
+    },
+    "google_device_try_file_modal.onboarding_disclaimer_tos": {
+        "string": "サービス利用規約"
+    },
+    "google_device_try_file_modal.resent_email.email_resent": {
+        "string": "メール再送信!"
+    },
+    "google_device_try_file_modal.resent_email.visual_bell": {
+        "string": "メールを再送信しました"
+    },
+    "hardware_acceleration_detector.message": {
+        "string": "ハードウェアアクセラレーションを有効にしてパフォーマンスを向上させる"
+    },
+    "hardware_acceleration_detector.learn_more": {
+        "string": "詳細情報"
+    },
+    "help_on_hover.add_a_text_box": {
+        "string": "テキストボックスを追加します。"
+    },
+    "help_on_hover.add_images_or_video_to_your_design": {
+        "string": "画像または動画をデザインに追加します。"
+    },
+    "help_on_hover.draw_arrows_between_two_points": {
+        "string": "2つの点を矢印で結びます。"
+    },
+    "help_on_hover.draw_containers_to_hold_designs": {
+        "string": "デザインを入れるコンテナを描きます。"
+    },
+    "help_on_hover.draw_freehand_sketches": {
+        "string": "フリーハンドでスケッチを描きます。"
+    },
+    "help_on_hover.draw_lines_between_two_points": {
+        "string": "2つの点を直線で結びますす。"
+    },
+    "help_on_hover.draw_vector_shapes_and_paths": {
+        "string": "ベクターシェイプとベクターパスを描きます。"
+    },
+    "help_on_hover.draw_vector_shapes_like_rectangles_circles_and_more": {
+        "string": "長方形、円、その他のベクトルシェイプを描きます。"
+    },
+    "help_on_hover.export_a_specific_part_of_your_design": {
+        "string": "デザインの特定の部分をエクスポートします。"
+    },
+    "help_on_hover.group_related_designs_to_organize_your_canvas_for_collaborators": {
+        "string": "コラボレーターのために、関連するデザインをグループ化してキャンバスを整理します。"
+    },
+    "help_on_hover.leave_notes_or_tag_collaborators": {
+        "string": "メモを残したり、コラボレーターをタグ付けしたりします。"
+    },
+    "help_on_hover.navigate_the_canvas": {
+        "string": "キャンバスを移動します。"
+    },
+    "help_on_hover.proportionally_resize_objects": {
+        "string": "縦横比を維持したままオブジェクトのサイズを変更します。"
+    },
+    "help_on_hover.run_plugins_and_widgets_or_add_components_from_libraries": {
+        "string": "プラグインやウィジェットを実行したり、ライブラリからコンポーネントを追加したりします。"
+    },
+    "help_on_hover.select_and_move_objects": {
+        "string": "オブジェクトを選択して移動します。"
+    },
+    "help_widget.collective_upsells.fullscreen.advanced_prototyping": {
+        "string": "高度なプロトタイピング"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.description": {
+        "string": "if/then式を使用してフローをさらにカスタマイズできます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.title": {
+        "string": "条件付きアクション"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.description": {
+        "string": "動的な数値や文字列値を生成できます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.title": {
+        "string": "式"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.description": {
+        "string": "1つの経路に複数のアクションを設定できます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.title": {
+        "string": "複数アクション"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.description": {
+        "string": "動画を追加して、表現の豊かさとリアリティを加えることができます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.title": {
+        "string": "プロトタイプ内の動画"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.description": {
+        "string": "自分の作業について、ファイル内で直接話すことができます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.title": {
+        "string": "音声会話"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.description": {
+        "string": "ボードに誰でも招待できます。ログインは不要です。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.title": {
+        "string": "FigJamオープンセッション"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.description": {
+        "string": "FigJamボード内での意思統一に役立てることができます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.title": {
+        "string": "投票"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.description": {
+        "string": "オープンファイルと保護されたファイルを使って、可視性をコントロールできます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.title": {
+        "string": "パスワードによる保護"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.description": {
+        "string": "非公開でコラボレーションするための招待専用スペースを作成できます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.title": {
+        "string": "プライベートプロジェクト"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.description": {
+        "string": "新しい人またはチームにプロジェクトを引き継ぎます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.title": {
+        "string": "プロジェクト移転"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.description": {
+        "string": "プロトタイプのみ共有し、その基礎となるデザインファイルは共有しません。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.title": {
+        "string": "プロトタイプのみの共有"
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.description": {
+        "string": "ファイル間でコンポーネントやスタイルをすばやく再利用できます。"
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.title": {
+        "string": "コンポーネントライブラリ"
+    },
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variable_modes.description": {
+        "string": "様々なコンテキストに応じてデザインを変更します。"
+    }
+}

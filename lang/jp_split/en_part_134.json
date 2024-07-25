@@ -1,0 +1,152 @@
+{
+    "edu.what_is_your_school_s_website": {
+        "string": "学校のWebサイトを入力してください。"
+    },
+    "edu.what_is_your_schools_name": {
+        "string": "学校の名前を入力してください。"
+    },
+    "edu.what_type_of_institution_do_you_attend_or_work_for": {
+        "string": "通っている、または勤務している教育機関の種類は?"
+    },
+    "edu.why_are_you_applying_for_a_free_figma_education_plan": {
+        "string": "無料のFigmaエデュケーションプランに申し込む理由を入力してください。"
+    },
+    "edu.year": {
+        "string": "年"
+    },
+    "edu.you_re_currently_signed_in_as_user_login": {
+        "string": "現在、{userLogin}としてサインインしています"
+    },
+    "edu.you_re_in": {
+        "string": "加入しています。"
+    },
+    "edu.you_ve_already_used_up_your_one_time_free_figma_education_plan": {
+        "string": "Figmaエデュケーションプランへの無料アクセスはすでにご利用いただいています。"
+    },
+    "edu.your_use_of_and_access_to_the_figma_education_plan_is_governed_by_our_tos": {
+        "string": "ここから送信した情報や、Figmaエデュケーションプランの使用およびアクセスは、Figmaの{tos}および{privacy_policy}で管理されます。"
+    },
+    "emoji_mart.categories_activity": {
+        "string": "アクティビティー"
+    },
+    "emoji_mart.categories_flags": {
+        "string": "フラグ"
+    },
+    "emoji_mart.categories_foods": {
+        "string": "食べ物と飲み物"
+    },
+    "emoji_mart.categories_frequent": {
+        "string": "よく使うもの"
+    },
+    "emoji_mart.categories_nature": {
+        "string": "動物と自然"
+    },
+    "emoji_mart.categories_objects": {
+        "string": "物"
+    },
+    "emoji_mart.categories_people": {
+        "string": "顔文字と人物"
+    },
+    "emoji_mart.categories_places": {
+        "string": "旅行と場所"
+    },
+    "emoji_mart.categories_search": {
+        "string": "検索結果"
+    },
+    "emoji_mart.categories_symbols": {
+        "string": "記号"
+    },
+    "emoji_mart.search": {
+        "string": "検索"
+    },
+    "emoji_mart.search_no_results": {
+        "string": "その絵文字は見つかりませんでした"
+    },
+    "emoji_mart.skins_1": {
+        "string": "デフォルト"
+    },
+    "emoji_mart.skins_2": {
+        "string": "ライト"
+    },
+    "emoji_mart.skins_3": {
+        "string": "ミディアムライト"
+    },
+    "emoji_mart.skins_4": {
+        "string": "ミディアム"
+    },
+    "emoji_mart.skins_5": {
+        "string": "ミディアムダーク"
+    },
+    "emoji_mart.skins_6": {
+        "string": "ダーク"
+    },
+    "emoji_mart.skins_choose": {
+        "string": "デフォルトのスキントーンを選択"
+    },
+    "extension_decline_modal.decline_plugin_request": {
+        "string": "プラグイン承認申請を承認しない"
+    },
+    "extension_decline_modal.decline_widget_request": {
+        "string": "ウィジェット承認申請を承認しない"
+    },
+    "extension_decline_modal.leave_plugin_note": {
+        "string": "このプラグインの承認申請を行ったメンバーに、プラグイン承認申請を承認しない理由を伝えましょう。"
+    },
+    "extension_decline_modal.leave_widget_note": {
+        "string": "このウィジェットの承認申請を行ったメンバーに、ウィジェット承認申請を承認しない理由を伝えましょう。"
+    },
+    "extension_request_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "extension_request_modal.error_requesting_approval": {
+        "string": "承認リクエストでエラーが発生しました"
+    },
+    "extension_request_modal.leave_plugin_note": {
+        "string": "このプラグインが必要な理由を管理者に伝える短いメモを残します。"
+    },
+    "extension_request_modal.leave_plugin_rerequest_note": {
+        "string": "このプラグインをもう一度申請したい場合は、このプラグインが必要な理由を管理者に伝えてください。"
+    },
+    "extension_request_modal.leave_widget_note": {
+        "string": "このウィジェットが必要な理由を管理者に伝える短いメモを残します。"
+    },
+    "extension_request_modal.leave_widget_rerequest_note": {
+        "string": "このウィジェットをもう一度申請したい場合は、このウィジェットが必要な理由を管理者に伝えてください。"
+    },
+    "extension_request_modal.plugin_approval_requested": {
+        "string": "プラグインの承認をリクエストしました"
+    },
+    "extension_request_modal.plugin_approved": {
+        "string": "{numWorkspacesApproved, plural, other {このプラグインは、ワークスペース{workspaceList}のファイルに対して承認されています。}}"
+    },
+    "extension_request_modal.plugin_declined_on_string": {
+        "string": "プラグインの申請が拒否された日"
+    },
+    "extension_request_modal.plugin_file_details": {
+        "string": "このプラグインを{fileLink}で使用するには、事前に承認を得る必要があります。"
+    },
+    "extension_request_modal.plugin_workspace_details": {
+        "string": "このプラグインは、{fileLink}およびワークスペース{workspace}の他のファイルで使用する前に、承認を受ける必要があります。"
+    },
+    "extension_request_modal.request": {
+        "string": "リクエスト"
+    },
+    "extension_request_modal.request_placeholder": {
+        "string": "必要な理由..."
+    },
+    "extension_request_modal.request_plugin_approval": {
+        "string": "プラグインの承認をリクエスト"
+    },
+    "extension_request_modal.request_widget_approval": {
+        "string": "ウィジェットの承認をリクエスト"
+    },
+    "extension_request_modal.widget_approval_requested": {
+        "string": "ウィジェットの承認をリクエストしました"
+    },
+    "extension_request_modal.widget_approved": {
+        "string": "{numWorkspacesApproved, plural, other {このウィジェットは、ワークスペース{workspaceList}のファイルに対して承認されています。}}"
+    },
+    "extension_request_modal.widget_declined_on_string": {
+        "string": "ウィジェットの申請が拒否された日"
+    }
+}

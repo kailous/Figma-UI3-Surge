@@ -1,0 +1,152 @@
+{
+    "whiteboard.inline_menu.connector_end_point_selector_label": {
+        "string": "終点、{currentEndCap}"
+    },
+    "whiteboard.inline_menu.connector_start_point": {
+        "string": "開始点"
+    },
+    "whiteboard.inline_menu.connector_start_point_selector_label": {
+        "string": "開始点、{currentStartCap}"
+    },
+    "whiteboard.inline_menu.create_slides_outline": {
+        "string": "Figma Slidesをオンラインで作成"
+    },
+    "whiteboard.inline_menu.crop_image": {
+        "string": "画像をトリミング"
+    },
+    "whiteboard.inline_menu.custom_font_size": {
+        "string": "カスタムフォントサイズ"
+    },
+    "whiteboard.inline_menu.delete": {
+        "string": "削除"
+    },
+    "whiteboard.inline_menu.duplicate": {
+        "string": "複製"
+    },
+    "whiteboard.inline_menu.edit_image_description": {
+        "string": "説明を編集"
+    },
+    "whiteboard.inline_menu.finish_image_editing": {
+        "string": "編集を終了"
+    },
+    "whiteboard.inline_menu.font_family": {
+        "string": "タイプフェース"
+    },
+    "whiteboard.inline_menu.font_family_label": {
+        "string": "タイプフェース({currentFont})"
+    },
+    "whiteboard.inline_menu.font_size": {
+        "string": "フォントサイズ"
+    },
+    "whiteboard.inline_menu.font_size_input": {
+        "string": "サイズ"
+    },
+    "whiteboard.inline_menu.font_size_label": {
+        "string": "フォントサイズ({currentFontSize})"
+    },
+    "whiteboard.inline_menu.font_size_mixed": {
+        "string": "混合サイズ"
+    },
+    "whiteboard.inline_menu.image_border": {
+        "string": "画像のボーダー"
+    },
+    "whiteboard.inline_menu.image_description_explanation": {
+        "string": "より多くの人が画像にアクセスできるようになります。"
+    },
+    "whiteboard.inline_menu.image_description_placeholder": {
+        "string": "説明を追加します"
+    },
+    "whiteboard.inline_menu.inline_menu_label": {
+        "string": "選択範囲のプロパティメニュー"
+    },
+    "whiteboard.inline_menu.inline_menu_label_with_selected_node": {
+        "string": "{selectedNodeAriaLabel}の選択プロパティメニュー"
+    },
+    "whiteboard.inline_menu.line_shape": {
+        "string": "線の形状"
+    },
+    "whiteboard.inline_menu.line_shape_elbowed": {
+        "string": "カギ線"
+    },
+    "whiteboard.inline_menu.line_shape_selector_label": {
+        "string": "線の形状、{currentLineShape}"
+    },
+    "whiteboard.inline_menu.line_shape_straight": {
+        "string": "直線"
+    },
+    "whiteboard.inline_menu.line_style": {
+        "string": "線のスタイル"
+    },
+    "whiteboard.inline_menu.line_style_label_both": {
+        "string": "ラインスタイル({currentStrokeWeight}{currentStrokeStyle})"
+    },
+    "whiteboard.inline_menu.line_style_label_singular": {
+        "string": "ラインスタイル({currentLineStyle})"
+    },
+    "whiteboard.inline_menu.organize_button_text": {
+        "string": "整理"
+    },
+    "whiteboard.inline_menu.organize_dropdown_button_aria_label": {
+        "string": "ドロップダウンボタンを整理"
+    },
+    "whiteboard.inline_menu.organize_dropdown_options_aria_label": {
+        "string": "整理オプションのリスト"
+    },
+    "whiteboard.inline_menu.organize_quick_actions_button_beta_badge_text": {
+        "string": "AIベータ版"
+    },
+    "whiteboard.inline_menu.programming_language": {
+        "string": "プログラミング言語"
+    },
+    "whiteboard.inline_menu.programming_language_label": {
+        "string": "プログラミング言語({currentLanguage})"
+    },
+    "whiteboard.inline_menu.replace_image": {
+        "string": "画像を置換"
+    },
+    "whiteboard.inline_menu.rotate_image": {
+        "string": "画像を回転"
+    },
+    "whiteboard.inline_menu.scale_image": {
+        "string": "画像を拡大縮小"
+    },
+    "whiteboard.inline_menu.see_variants": {
+        "string": "バリアントを確認"
+    },
+    "whiteboard.inline_menu.shape_visibility_hidden": {
+        "string": "塗りなし"
+    },
+    "whiteboard.inline_menu.shape_visibility_transparent": {
+        "string": "透明"
+    },
+    "whiteboard.inline_menu.shape_visibility_visible": {
+        "string": "塗り"
+    },
+    "whiteboard.inline_menu.show_additional_items": {
+        "string": "他のアイテムを表示"
+    },
+    "whiteboard.inline_menu.show_hide_author": {
+        "string": "作成者を表示/非表示"
+    },
+    "whiteboard.inline_menu.sort_by_dropdown_button_text": {
+        "string": "付箋を並び替える"
+    },
+    "whiteboard.inline_menu.sort_by_dropdown_button_text_2": {
+        "string": "付箋の並び替え基準"
+    },
+    "whiteboard.inline_menu.start_mind_map": {
+        "string": "マインドマップを開始"
+    },
+    "whiteboard.inline_menu.stroke_dashed": {
+        "string": "破線"
+    },
+    "whiteboard.inline_menu.stroke_none": {
+        "string": "なし"
+    },
+    "whiteboard.inline_menu.stroke_solid": {
+        "string": "実線"
+    },
+    "whiteboard.inline_menu.text_alignment": {
+        "string": "テキストの配置"
+    }
+}

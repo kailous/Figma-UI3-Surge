@@ -1,0 +1,152 @@
+{
+    "whiteboard.ai_modal.usecase.plan.prompt": {
+        "string": "プラン"
+    },
+    "whiteboard.ai_modal.usecase.team_retro": {
+        "string": "チームの振り返り"
+    },
+    "whiteboard.ai_modal.usecase.team_retro.prompt": {
+        "string": "チームの振り返り"
+    },
+    "whiteboard.ai_modal.usecase.timeline": {
+        "string": "タイムライン"
+    },
+    "whiteboard.ai_modal.usecase.timeline.prompt": {
+        "string": "タイムライン"
+    },
+    "whiteboard.ai_modal.usecase.weekly_sync": {
+        "string": "毎週の調整会議"
+    },
+    "whiteboard.ai_modal.usecase.weekly_sync.prompt": {
+        "string": "毎週の調整会議"
+    },
+    "whiteboard.community_prompt.suggestion.1:1": {
+        "string": "1on1"
+    },
+    "whiteboard.community_prompt.suggestion.1:1.subtitle_1": {
+        "string": "メンターとともにデザイナーとしてのキャリア目標を戦略化するためのテンプレート"
+    },
+    "whiteboard.community_prompt.suggestion.brainstorm.subtitle_1.part_1": {
+        "string": "個人のビジョン"
+    },
+    "whiteboard.community_prompt.suggestion.brainstorm.subtitle_1.part_2": {
+        "string": "ブレインストーミング"
+    },
+    "whiteboard.community_prompt.suggestion.brainstorm.subtitle_1.part_3": {
+        "string": "および2024年の目標トラッカー"
+    },
+    "whiteboard.community_prompt.suggestion.family_tree": {
+        "string": "家系図"
+    },
+    "whiteboard.community_prompt.suggestion.family_tree.subtitle_1": {
+        "string": "4世代が含まれます"
+    },
+    "whiteboard.community_prompt.suggestion.gantt_chart": {
+        "string": "ガントチャート"
+    },
+    "whiteboard.community_prompt.suggestion.gantt_chart.subtitle_1": {
+        "string": "リサーチ、デザイン、開発、ローンチ計画の行が含まれます"
+    },
+    "whiteboard.community_prompt.suggestion.mind_map": {
+        "string": "マインドマップ"
+    },
+    "whiteboard.community_prompt.suggestion.mind_map.subtitle_1": {
+        "string": "パシフィックコーストハイウェイ(Pacific Coast Highway)を行くロードトリップの旅程"
+    },
+    "whiteboard.community_prompt.suggestion.org_chart": {
+        "string": "組織図"
+    },
+    "whiteboard.community_prompt.suggestion.org_chart.subtitle_1": {
+        "string": "製品、運用、マーケティングに分かれた20人の技術系スタートアップ"
+    },
+    "whiteboard.community_prompt.suggestion.process_flow": {
+        "string": "プロセスフロー"
+    },
+    "whiteboard.community_prompt.suggestion.process_flow.subtitle_1": {
+        "string": "ITヘルプデスクチケットの割り当て"
+    },
+    "whiteboard.community_prompt.suggestion.team_retro": {
+        "string": "チームの振り返り"
+    },
+    "whiteboard.community_prompt.suggestion.team_retro.subtitle_1": {
+        "string": "セキュリティエンジニアリングチームの最近の重大インシデントについて"
+    },
+    "whiteboard.community_prompt.suggestion.timeline": {
+        "string": "タイムライン"
+    },
+    "whiteboard.community_prompt.suggestion.timeline.subtitle_1": {
+        "string": "6か月後のハワイでの結婚式を計画するためのステップ"
+    },
+    "whiteboard.community_prompt.suggestion.timeline.subtitle_2": {
+        "string": "8週間で製品ロードマップを作成して調整するために必要なこと"
+    },
+    "whiteboard.community_prompt.suggestion.user_flow": {
+        "string": "ユーザーフロー"
+    },
+    "whiteboard.community_prompt.suggestion.user_flow.subtitle_1": {
+        "string": "フードデリバリーアプリのショッピングカートでの決済手続きを加える"
+    },
+    "whiteboard.community_prompt.suggestion.weekly_sync": {
+        "string": "毎週の調整会議"
+    },
+    "whiteboard.community_prompt.suggestion.weekly_sync.subtitle_1": {
+        "string": "グロースチームがKPI、プロジェクトのステータス、次のステップを確認できるようにする"
+    },
+    "whiteboard.ai_onboarding.ai_templates_toolbar.description": {
+        "string": "いつでも必要なときに、すぐにボードを生成できます。"
+    },
+    "whiteboard.ai_onboarding.ai_templates_toolbar.title": {
+        "string": "いつでも呼び出せるFigJam AI"
+    },
+    "whiteboard.ai_onboarding.file_browser.placeholder": {
+        "string": "例: 毎週のチームミーティング、アイスブレーカーで開始"
+    },
+    "whiteboard.ai_onboarding.new_file_modal.footer": {
+        "string": "カスタムボードを生成 - 必要なことを入力するか、提案を選択して、後はFigJam AIにお任せ。"
+    },
+    "whiteboard.ai_onboarding.new_file_modal.title": {
+        "string": "入力、クリック、コラボレーション - FigJam AIなら簡単"
+    },
+    "whiteboard.ai.summary.summary_footer_disclaimer": {
+        "string": "注意: AIの出力は誤解を招くことや、完全に間違っていることがあります。"
+    },
+    "whiteboard.ai.summary.summary_header_disclaimer": {
+        "string": "AIを使って要約 - {summaryGenerationDate, date, long}"
+    },
+    "whiteboard.ai.summary.summary_header_disclaimer_no_date": {
+        "string": "AIを使って要約"
+    },
+    "whiteboard.ai_summary.content_length_limit_exceeded_error": {
+        "string": "要約できませんでした。選択範囲を小さくしてみてください。"
+    },
+    "whiteboard.ai_summary.copied_link_to_clipboard": {
+        "string": "要約へのリンクをコピーしました"
+    },
+    "whiteboard.ai_summary.copy_button_text": {
+        "string": "コピー"
+    },
+    "whiteboard.ai_summary.copy_button_tooltip": {
+        "string": "テキストとしてコピー"
+    },
+    "whiteboard.ai_summary.copy_link_button_text": {
+        "string": "リンク"
+    },
+    "whiteboard.ai_summary.copy_link_button_tooltip": {
+        "string": "要約へのリンクをコピー"
+    },
+    "whiteboard.ai_summary.copy_text_to_clipboard": {
+        "string": "要約をコピーしました"
+    },
+    "whiteboard.ai_summary.generic_error": {
+        "string": "要約できませんでした。もう一度試しますか?"
+    },
+    "whiteboard.ai_summary.loading_text": {
+        "string": "要約しています"
+    },
+    "whiteboard.ai_summary.nudge.cta": {
+        "string": "AIを使って要約"
+    },
+    "whiteboard.ai_summary.nudge.disclaimer": {
+        "string": "AIの出力は、誤解を招くことや、間違っていることがあります。"
+    }
+}

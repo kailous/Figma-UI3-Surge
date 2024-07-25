@@ -1,0 +1,152 @@
+{
+    "team_creation.closed_team_description": {
+        "string": "メンバーのみがファイルを表示できます。参加するには承認が必要です。"
+    },
+    "team_creation.continue": {
+        "string": "続行"
+    },
+    "team_creation.create_a_team_title": {
+        "string": "チームを作成しましょう"
+    },
+    "team_creation.create_team": {
+        "string": "チームを作成"
+    },
+    "team_creation.create_team_button": {
+        "string": "チームを作成"
+    },
+    "team_creation.edit": {
+        "string": "編集"
+    },
+    "team_creation.email": {
+        "string": "メール"
+    },
+    "team_creation.finish_setup": {
+        "string": "セットアップの完了"
+    },
+    "team_creation.hidden": {
+        "string": "非表示"
+    },
+    "team_creation.missing_team_creation_controls": {
+        "string": "このワークスペースにチームを作成する権限がありません。"
+    },
+    "team_creation.name": {
+        "string": "名前"
+    },
+    "team_creation.name_your_team": {
+        "string": "チーム名の指定"
+    },
+    "team_creation.next": {
+        "string": "次へ"
+    },
+    "team_creation.only_team_members_can_find_and_access": {
+        "string": "チームの検索とアクセスは同じチームのメンバーのみが可能です。"
+    },
+    "team_creation.open_team": {
+        "string": "公開チーム"
+    },
+    "team_creation.open_team_description": {
+        "string": "{orgName}のユーザー全員がファイルを表示し、参加できます。"
+    },
+    "team_creation.optional": {
+        "string": "必要に応じて説明を追加"
+    },
+    "team_creation.org_modal_title": {
+        "string": "チームを新規作成"
+    },
+    "team_creation.org_modal_title_sc": {
+        "string": "チームを作成"
+    },
+    "team_creation.secret_team": {
+        "string": "シークレットチーム"
+    },
+    "team_creation.secret_team_description": {
+        "string": "招待したユーザーのみに表示されます(管理者にはチームの名前が表示されます)。"
+    },
+    "team_creation.skip_for_now": {
+        "string": "今は行わない"
+    },
+    "team_creation.step_number_of_max_steps": {
+        "string": "ステップ{currentStep}/{totalSteps}"
+    },
+    "team_creation.team_description": {
+        "string": "説明"
+    },
+    "team_creation.team_name_empty": {
+        "string": "チーム名を入力"
+    },
+    "team_creation.team_name_input_placeholder": {
+        "string": "名前を追加"
+    },
+    "team_creation.team_name_label": {
+        "string": "チーム名"
+    },
+    "team_creation.unassigned_workspace": {
+        "string": "他のチーム"
+    },
+    "team_creation.view": {
+        "string": "閲覧"
+    },
+    "team_creation.visibility": {
+        "string": "表示"
+    },
+    "team_creation.visible": {
+        "string": "表示"
+    },
+    "team_creation.what_they_can_do": {
+        "string": "権限"
+    },
+    "team_creation.who_has_access": {
+        "string": "アクセス可能なユーザー"
+    },
+    "team_creation.workspace": {
+        "string": "ワークスペース"
+    },
+    "team_creation.writer_s_guild_placeholder": {
+        "string": "例: 脚本家協会"
+    },
+    "team_creation.you_can_update_user_permissions_on_the_team_page_after_setting_up": {
+        "string": "ユーザーの権限はセットアップ完了後にチームページで更新できます。"
+    },
+    "team_creation.you_have_created_a_new_team": {
+        "string": "新しいチームが作成されました。"
+    },
+    "team_creation.your_team_name_cannot_be_empty": {
+        "string": "チーム名は空にできません。"
+    },
+    "team_list.free": {
+        "string": "無料"
+    },
+    "team_list.locked": {
+        "string": "ロック"
+    },
+    "team_list.org_join_status_joined": {
+        "string": "参加済み"
+    },
+    "team_list.org_join_status_leave": {
+        "string": "退会"
+    },
+    "team_list.pro_trial": {
+        "string": "プロトライアル"
+    },
+    "team_list.pro_trial_expired": {
+        "string": "トライアル期間終了"
+    },
+    "team_list.pro_trial_expired_tooltip": {
+        "string": "ファイルの数がスターターの上限に収まるように管理してください"
+    },
+    "team_list.pro_trial_time_left": {
+        "string": "あと{daysLeftText}でプロトライアルの期限が切れます。"
+    },
+    "team_list.pro_trial_time_left_days": {
+        "string": "{daysLeft, plural, other {#日}}"
+    },
+    "team_list.verify_that_youre_a_student_or_educator": {
+        "string": "コラボレーションを続けるには、学生または教師であることを確認してください"
+    },
+    "team_list.your_team_is_over_the_starter_plan_s_file_limit": {
+        "string": "チームのファイル数がスタータープランの上限を超えています。"
+    },
+    "team_restore.back": {
+        "string": "ファイルに戻る"
+    }
+}

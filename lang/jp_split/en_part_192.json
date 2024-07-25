@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.text-toggle-italic": {
+        "string": "斜体"
+    },
+    "fullscreen_actions.text-toggle-ordered-list": {
+        "string": "番号付きリスト"
+    },
+    "fullscreen_actions.text-toggle-strikethrough": {
+        "string": "取り消し線"
+    },
+    "fullscreen_actions.text-toggle-underline": {
+        "string": "下線"
+    },
+    "fullscreen_actions.text-toggle-unordered-list": {
+        "string": "箇条書きリスト"
+    },
+    "fullscreen_actions.text-upgrade-explicit-layout-version": {
+        "string": "更新して最新のテキストレイアウトに対応"
+    },
+    "fullscreen_actions.text-upgrade-to-bidi": {
+        "string": "更新して双方向テキスト(RTL)に対応"
+    },
+    "fullscreen_actions.text-upper-case": {
+        "string": "大文字"
+    },
+    "fullscreen_actions.text_indent_and_dedent_list": {
+        "string": "インデントの増減"
+    },
+    "fullscreen_actions.text_style_h1": {
+        "string": "特大"
+    },
+    "fullscreen_actions.text_style_h2": {
+        "string": "大"
+    },
+    "fullscreen_actions.text_style_h3": {
+        "string": "中"
+    },
+    "fullscreen_actions.text_style_normal": {
+        "string": "小"
+    },
+    "fullscreen_actions.text_style_title": {
+        "string": "超特大"
+    },
+    "fullscreen_actions.theme-menu-option": {
+        "string": "テーマ"
+    },
+    "fullscreen_actions.theme-wildcard": {
+        "string": "ワイルドカード(デフォルト)"
+    },
+    "fullscreen_actions.theme-wildcard-quick-command": {
+        "string": "ワイルドカード(デフォルト)モードの使用"
+    },
+    "fullscreen_actions.theme.dark": {
+        "string": "ダーク"
+    },
+    "fullscreen_actions.theme.debug": {
+        "string": "デバッグ"
+    },
+    "fullscreen_actions.theme.light": {
+        "string": "ライト"
+    },
+    "fullscreen_actions.theme.light_legacy": {
+        "string": "ライト (レガシー)"
+    },
+    "fullscreen_actions.theme.system_theme": {
+        "string": "システム"
+    },
+    "fullscreen_actions.theme.use_dark_mode": {
+        "string": "ダークモードの使用"
+    },
+    "fullscreen_actions.theme.use_debug_mode": {
+        "string": "デバッグモードの使用"
+    },
+    "fullscreen_actions.theme.use_light_legacy_mode": {
+        "string": "ライト (レガシー) モードの使用"
+    },
+    "fullscreen_actions.theme.use_light_mode": {
+        "string": "ライトモードの使用"
+    },
+    "fullscreen_actions.theme.use_system_theme": {
+        "string": "システムのテーマを使用"
+    },
+    "fullscreen_actions.tidy-up": {
+        "string": "均等配置"
+    },
+    "fullscreen_actions.to_edit": {
+        "string": "編集"
+    },
+    "fullscreen_actions.toggle-actions-menu": {
+        "string": "アクション..."
+    },
+    "fullscreen_actions.toggle-allow-time-sliced-edit-rendering-optimization": {
+        "string": "Toggle allow time-sliced edit rendering"
+    },
+    "fullscreen_actions.toggle-animate-info": {
+        "string": "アニメーションパネルの切り替え"
+    },
+    "fullscreen_actions.toggle-annotations": {
+        "string": "オブジェクトにサイズを表示"
+    },
+    "fullscreen_actions.toggle-auto-fill-full-width-children": {
+        "string": "子要素の幅を親要素に合わせるかどうかを切り替える"
+    },
+    "fullscreen_actions.toggle-bold": {
+        "string": "太字"
+    },
+    "fullscreen_actions.toggle-copy-renaming": {
+        "string": "複製したレイヤーの名前を変更"
+    },
+    "fullscreen_actions.toggle-ctrl-click-context-menu": {
+        "string": "Ctrlキーを押しながらクリックして、右クリックメニューを開く"
+    },
+    "fullscreen_actions.toggle-cursor-high-five-wiggle": {
+        "string": "カーソルをシェイクしてハイタッチ"
+    },
+    "fullscreen_actions.toggle-custom-cursor": {
+        "string": "カスタムカーソルの切り替え"
+    },
+    "fullscreen_actions.toggle-debug-doc-sync-logs": {
+        "string": "Toggle multiplayer doc logs"
+    },
+    "fullscreen_actions.toggle-debug-layout-logs": {
+        "string": "Toggle logging text and IF layouts"
+    },
+    "fullscreen_actions.toggle-debug-page-sync-logs": {
+        "string": "Toggle multiplayer query logs"
+    },
+    "fullscreen_actions.toggle-debug-show-magic-link-clustering": {
+        "string": "Highlight Magic Link context"
+    },
+    "fullscreen_actions.toggle-debug-user-sync-logs": {
+        "string": "Toggle multiplayer user logs"
+    },
+    "fullscreen_actions.toggle-display-cpu-timer-tree": {
+        "string": "リアルタイムCPUタイマーツリーを表示"
+    },
+    "fullscreen_actions.toggle-display-dirty-rects": {
+        "string": "再描画が必要な四角形を表示"
+    },
+    "fullscreen_actions.toggle-display-dirty-tiles": {
+        "string": "再描画が必要なタイルを表示"
+    },
+    "fullscreen_actions.toggle-display-gpu-metrics": {
+        "string": "GPUメトリクスを表示"
+    },
+    "fullscreen_actions.toggle-dropper": {
+        "string": "色の選択"
+    },
+    "fullscreen_actions.toggle-dynamic-insertion-points": {
+        "string": "オートレイアウトフレームへのドラッグ時に動的スタック挿入ポイントを表示する"
+    }
+}

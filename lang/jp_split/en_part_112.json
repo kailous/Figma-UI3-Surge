@@ -1,0 +1,152 @@
+{
+    "fullscreen.accessibility_dom.node_name_whiteboard-speech-bubble": {
+        "string": "吹き出し"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-square": {
+        "string": "正方形"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-star": {
+        "string": "星"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-summing-junction": {
+        "string": "和接合"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-trapezoid": {
+        "string": "台形"
+    },
+    "fullscreen.accessibility_dom.node_name_whiteboard-triangle-down": {
+        "string": "三角形"
+    },
+    "fullscreen.accessibility_dom.node_name_widget": {
+        "string": "ウィジェット"
+    },
+    "fullscreen.accessibility_dom.num_children": {
+        "string": "{n, plural, other {#アイテム}}"
+    },
+    "fullscreen.accessibility_dom.num_stamps": {
+        "string": "{count, plural, other {#個の{name}スタンプ}}"
+    },
+    "fullscreen.accessibility_dom.pos_in_set": {
+        "string": "{i}/{size}"
+    },
+    "fullscreen.accessibility_dom.primary_toolbar_label": {
+        "string": "メインツールバー"
+    },
+    "fullscreen.accessibility_dom.unattached_comments": {
+        "string": "固定されていないコメント"
+    },
+    "fullscreen.accessibility_dom.unlabeled_image": {
+        "string": "ラベルなしの画像"
+    },
+    "fullscreen.accessibility_dom.unlabeled_video": {
+        "string": "ラベルなしの動画"
+    },
+    "fullscreen.accessibility_settings.dialog_title": {
+        "string": "アクセシビリティの設定"
+    },
+    "fullscreen.accessibility_settings.enable_screenreader_description_figjam_beta": {
+        "string": "有効にすると、FigmaプロトタイプとFigJamホワイトボードによってスクリーンリーダーなどの補助テクノロジーのためのテキストと構造が提供されます。"
+    },
+    "fullscreen.accessibility_settings.enable_screenreader_label": {
+        "string": "コンテンツをスクリーンリーダーに適応させる"
+    },
+    "fullscreen.appearance_panel.appearance": {
+        "string": "外見"
+    },
+    "fullscreen.appearance_panel.position": {
+        "string": "位置"
+    },
+    "fullscreen.auto": {
+        "string": "自動"
+    },
+    "fullscreen.auto_layout_hints.force_insertion": {
+        "string": "より深くネスト"
+    },
+    "fullscreen.auto_layout_hints.ignore_auto_layout": {
+        "string": "オートレイアウトを無視"
+    },
+    "fullscreen.auto_layout_hints.prevent_nesting": {
+        "string": "ネストの禁止"
+    },
+    "fullscreen.auto_layout_hints.space_key": {
+        "string": "スペース"
+    },
+    "fullscreen.color_controls.blue": {
+        "string": "青"
+    },
+    "fullscreen.color_controls.brightness": {
+        "string": "明度"
+    },
+    "fullscreen.color_controls.eyedropper": {
+        "string": "スポイト"
+    },
+    "fullscreen.color_controls.green": {
+        "string": "緑"
+    },
+    "fullscreen.color_controls.hue": {
+        "string": "色相"
+    },
+    "fullscreen.color_controls.lightness": {
+        "string": "輝度"
+    },
+    "fullscreen.color_controls.red": {
+        "string": "赤"
+    },
+    "fullscreen.color_controls.saturation": {
+        "string": "彩度"
+    },
+    "fullscreen.color_management.beta.warning.desktop_unmanaged": {
+        "string": "あなたはベータ版のユーザーです。この機能を使用するには、デスクトップアプリを再起動する必要があります。"
+    },
+    "fullscreen.color_management.curator.change_document_color_profile.content": {
+        "string": "ファイル名{fileColorProfile}の隣のメニューを開きます。"
+    },
+    "fullscreen.color_management.curator.change_document_color_profile.title": {
+        "string": "このファイルのDisplay P3カラーを見る"
+    },
+    "fullscreen.color_management.curator.color_profile_setting": {
+        "string": "[基本設定] > [カラープロファイル]"
+    },
+    "fullscreen.color_management.curator.default_to_p3.user_color_profile.content": {
+        "string": "新規ファイルの優先カラープロファイルがDisplay P3になりました。これをsRGBに変更するには、{colorProfileSetting}に移動してください。"
+    },
+    "fullscreen.color_management.curator.default_to_p3.user_color_profile.title": {
+        "string": "Display P3がついにサポートされました"
+    },
+    "fullscreen.color_management.curator.file_color_profile": {
+        "string": "> [ファイルのカラープロファイル]"
+    },
+    "fullscreen.color_management.curator.step_1of2": {
+        "string": "1/2"
+    },
+    "fullscreen.color_management.curator.step_2of2": {
+        "string": "2/2"
+    },
+    "fullscreen.color_management.document_modal.cancel": {
+        "string": "{color_profile}を保持"
+    },
+    "fullscreen.color_management.document_modal.confirm.title.assign_display_p3": {
+        "string": "Display P3を割り当てる"
+    },
+    "fullscreen.color_management.document_modal.confirm.title.assign_srgb": {
+        "string": "sRGBを割り当てる"
+    },
+    "fullscreen.color_management.document_modal.confirm.title.convert_display_p3": {
+        "string": "Display P3に変換"
+    },
+    "fullscreen.color_management.document_modal.confirm.title.convert_srgb": {
+        "string": "sRGBに変換"
+    },
+    "fullscreen.color_management.document_modal.options.assign.subtitle": {
+        "string": "同じカラー値を保持します。色の見え方が変わります。"
+    },
+    "fullscreen.color_management.document_modal.options.assign.title": {
+        "string": "値を保持(割り当て)"
+    },
+    "fullscreen.color_management.document_modal.options.convert.subtitle.display_p3_to_srgb": {
+        "string": "値(Hexコードのような値)を最も近いDisplay P3値に変更します。色の見え方は変わりません"
+    },
+    "fullscreen.color_management.document_modal.options.convert.subtitle.srgb_to_display_p3": {
+        "string": "値(Hexコードのような値)を最も近いsRGB値に変更します。色の見え方は変わりません"
+    }
+}

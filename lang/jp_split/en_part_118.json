@@ -1,0 +1,152 @@
+{
+    "fullscreen.pages_panel.all_n_free_pages_used": {
+        "string": "無料の{maxFreePages}ページはすべて使用済みです。"
+    },
+    "fullscreen.pages_panel.assets_tab": {
+        "string": "アセット"
+    },
+    "fullscreen.pages_panel.design_page": {
+        "string": "デザインページ"
+    },
+    "fullscreen.pages_panel.figjam_page": {
+        "string": "FigJamページ"
+    },
+    "fullscreen.pages_panel.file_tab": {
+        "string": "ファイル"
+    },
+    "fullscreen.pages_panel.get_unlimited_pages_and_more": {
+        "string": "無制限のページ、その他を入手"
+    },
+    "fullscreen.pages_panel.layers_tab": {
+        "string": "レイヤー"
+    },
+    "fullscreen.pages_panel.memory_usage": {
+        "string": "メモリ使用量"
+    },
+    "fullscreen.pages_panel.memory_usage_almost_out_of_memory": {
+        "string": "利用可能なメモリーがほとんどありません"
+    },
+    "fullscreen.pages_panel.memory_usage_error_contact_file_owner": {
+        "string": "オーナーに連絡してください。メモリーの使用量を管理するには、編集権限が必要です。"
+    },
+    "fullscreen.pages_panel.memory_usage_error_edit_view_version_history": {
+        "string": "現在のバージョンに戻り、メモリーの使用量を減らしてください。ファイルにアクセスできなくなる可能性があります。"
+    },
+    "fullscreen.pages_panel.memory_usage_learn_more": {
+        "string": "詳細情報"
+    },
+    "fullscreen.pages_panel.memory_usage_memory_running_low": {
+        "string": "メモリーが残り少なくなっています"
+    },
+    "fullscreen.pages_panel.memory_usage_read_only_view_version_history": {
+        "string": "このファイルのメモリー使用量を管理するには、編集権限が必要です。"
+    },
+    "fullscreen.pages_panel.memory_usage_recovery_mode_exit": {
+        "string": "復元モードを終了"
+    },
+    "fullscreen.pages_panel.memory_usage_recovery_mode_high": {
+        "string": "復元モード"
+    },
+    "fullscreen.pages_panel.memory_usage_recovery_mode_high_content": {
+        "string": "不要なレイヤーとコンポーネントを削除してファイルのメモリー使用率を削減します。"
+    },
+    "fullscreen.pages_panel.memory_usage_recovery_mode_low": {
+        "string": "準備ができました"
+    },
+    "fullscreen.pages_panel.memory_usage_recovery_mode_low_content": {
+        "string": "このファイルをスムーズに実行するための十分なメモリーが確保されました。復元モードを終了できます。"
+    },
+    "fullscreen.pages_panel.memory_usage_this_file_has_enough_memory": {
+        "string": "十分なメモリがあるため、このファイルをスムーズに実行できます。このパネルを閉じることができます。"
+    },
+    "fullscreen.pages_panel.memory_usage_to_avoid_losing_file_access": {
+        "string": "ファイルへのアクセスを失わないために、一部のページを別のファイルに移動するか、不要なコンテンツを削除してください。"
+    },
+    "fullscreen.pages_panel.memory_usage_try_removing_unneeded_content": {
+        "string": "不要なコンテンツを削除して利用可能なメモリー領域を増やし、作業が円滑に進むようにしてください。"
+    },
+    "fullscreen.pages_panel.memory_usage_warning_edit_access_needed": {
+        "string": "このファイルのメモリー使用量を減らすには、編集権限が必要です。"
+    },
+    "fullscreen.pages_panel.memory_usage_warning_edit_view_version_history": {
+        "string": "メモリーの空き容量を増やすには、このファイルの現在のバージョンに戻ってください。"
+    },
+    "fullscreen.pages_panel.memory_usage_youre_good_to_go": {
+        "string": "準備ができました"
+    },
+    "fullscreen.pages_panel.n_free_pages_left": {
+        "string": "{ numPagesRemaining, plural, other {無料の{numPagesRemaining}ページが残っています。} }"
+    },
+    "fullscreen.pages_panel.page_dropdown_new": {
+        "string": "新規"
+    },
+    "fullscreen.pages_panel.pages": {
+        "string": "ページ"
+    },
+    "fullscreen.pages_panel.resources_tab": {
+        "string": "挿入"
+    },
+    "fullscreen.pages_panel.see_plans_that_offer_more": {
+        "string": "より多くのリソースを利用できるプランを見る"
+    },
+    "fullscreen.pages_panel.slide_deck": {
+        "string": "スライドデッキ"
+    },
+    "fullscreen.pages_panel.unavailable_offline": {
+        "string": "オフライン - ページを利用できません"
+    },
+    "fullscreen.pencil_tool.advanced_stroke_settings": {
+        "string": "線の詳細設定"
+    },
+    "fullscreen.pencil_tool.hold_shift_to_draw_straight_lines": {
+        "string": "Shiftキーを押しながら直線を描画"
+    },
+    "fullscreen.pencil_tool.now_vertical_horizontal_and_diagonal_lines_are_a_breeze": {
+        "string": "縦線、横線、対角線を簡単に描画できます。"
+    },
+    "fullscreen.pencil_tool.stroke": {
+        "string": "線"
+    },
+    "fullscreen.plugins.background": {
+        "string": "{plugin}がバックグラウンドで実行されています"
+    },
+    "fullscreen.plugins.cancel": {
+        "string": "キャンセル"
+    },
+    "fullscreen.plugins.inserting": {
+        "string": "{plugin}を挿入しています"
+    },
+    "fullscreen.plugins.running": {
+        "string": "{plugin}を実行しています"
+    },
+    "fullscreen.plugins.stop": {
+        "string": "停止"
+    },
+    "fullscreen.plugins.stopped": {
+        "string": "{plugin}の実行を停止しました。"
+    },
+    "fullscreen.plugins_menu.import_plugin_from_manifest": {
+        "string": "マニフェストからプラグインをインポート…"
+    },
+    "fullscreen.plugins_menu.import_widget_from_manifest": {
+        "string": "マニフェストからウィジェットをインポート…"
+    },
+    "fullscreen.plugins_menu.new_plugin": {
+        "string": "プラグインの新規作成..."
+    },
+    "fullscreen.plugins_menu.new_widget": {
+        "string": "ウィジェットの新規作成..."
+    },
+    "fullscreen.plugins_menu.open_directory_mac": {
+        "string": "Finderで表示"
+    },
+    "fullscreen.plugins_menu.open_directory_vscode": {
+        "string": "VS Codeで開く"
+    },
+    "fullscreen.plugins_menu.open_directory_win": {
+        "string": "エクスプローラーで表示"
+    },
+    "fullscreen.pro_trial_upsell_modal.cta_text": {
+        "string": "今すぐアップグレード"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "design_systems.publishing_modal.invalid_components_with_count": {
+        "string": "無効なアセット{countString}"
+    },
+    "design_systems.publishing_modal.list_item_changed_variable_count": {
+        "string": "{count, plural, other {{count}個の変更済みバリアブル}}"
+    },
+    "design_systems.publishing_modal.marked_for_publish_header_with_count": {
+        "string": "公開用にマーク済み{countString}"
+    },
+    "design_systems.publishing_modal.missing_properties": {
+        "string": "プロパティの欠落"
+    },
+    "design_systems.publishing_modal.modal_header": {
+        "string": "ライブラリを公開"
+    },
+    "design_systems.publishing_modal.modal_header_community_library": {
+        "string": "コミュニティライブラリを公開"
+    },
+    "design_systems.publishing_modal.modified": {
+        "string": "変更済み"
+    },
+    "design_systems.publishing_modal.move_components_warning": {
+        "string": "コンポーネントの移動と変更の両方を行うと、ライブラリの更新を承認するユーザーはそのコンポーネントに行った上書きを失う可能性があります。{helpArticle}"
+    },
+    "design_systems.publishing_modal.move_to_this_file": {
+        "string": "このファイルに移動"
+    },
+    "design_systems.publishing_modal.moved_to_this_file": {
+        "string": "このファイルに移動しました"
+    },
+    "design_systems.publishing_modal.multiple_paste": {
+        "string": "このコンポーネントは繰り返し貼り付けられました。これは新しいコンポーネントとして公開され、既存のコンポーネントのインスタンスは影響を受けません。"
+    },
+    "design_systems.publishing_modal.multiple_paste_style": {
+        "string": "このスタイルは繰り返し貼り付けられました。これは新しいスタイルとして公開され、既存のスタイルのインスタンスは影響を受けません。"
+    },
+    "design_systems.publishing_modal.no_changes": {
+        "string": "変更なし"
+    },
+    "design_systems.publishing_modal.org_access_false_with_team_access": {
+        "string": "{teamName}のすべてのユーザー"
+    },
+    "design_systems.publishing_modal.org_access_false_without_team_access": {
+        "string": "このファイルに招待されているすべてのユーザー"
+    },
+    "design_systems.publishing_modal.org_access_true": {
+        "string": "{orgName}のすべてのユーザー"
+    },
+    "design_systems.publishing_modal.publish_as_copy": {
+        "string": "コピーとして公開"
+    },
+    "design_systems.publishing_modal.publish_as_move_info_component": {
+        "string": "このコンポーネントは、{fileName}からこのファイルに移動され、そのインスタンスは、今後このファイルに接続されます。"
+    },
+    "design_systems.publishing_modal.publish_as_move_info_style": {
+        "string": "このスタイルは{fileName}からこのファイルに移動されます。今後、このスタイルの使用はすべてこのファイルに影響します。"
+    },
+    "design_systems.publishing_modal.publish_button_text": {
+        "string": "公開"
+    },
+    "design_systems.publishing_modal.publish_destination_as_copy_info": {
+        "string": "この新しいコピーを公開しても、インスタンスコネクションは移動されません。"
+    },
+    "design_systems.publishing_modal.publish_source_component_as_copy_info": {
+        "string": "このコンポーネントは{fileName}に移動されました。この新しいコピーを公開しても、他のファイルのインスタンスは更新されません。"
+    },
+    "design_systems.publishing_modal.publish_source_style_as_copy_info": {
+        "string": "このスタイルは{fileName}に移動されました。この新しいコピーを公開しても、他のファイルのインスタンスは更新されません。"
+    },
+    "design_systems.publishing_modal.publish_styles": {
+        "string": "スタイルを公開"
+    },
+    "design_systems.publishing_modal.publish_to": {
+        "string": "公開対象ユーザー: {audienceDropdown}"
+    },
+    "design_systems.publishing_modal.publish_to_community": {
+        "string": "コミュニティに公開"
+    },
+    "design_systems.publishing_modal.publishing_took_too_long": {
+        "string": "公開に時間がかかりすぎています。公開するスタイルとコンポーネントの数を減らして再試行してください。"
+    },
+    "design_systems.publishing_modal.read_the_help_article": {
+        "string": "詳細を表示 →"
+    },
+    "design_systems.publishing_modal.removed": {
+        "string": "削除済み"
+    },
+    "design_systems.publishing_modal.reordered": {
+        "string": "並べ替え済み"
+    },
+    "design_systems.publishing_modal.search_placeholder": {
+        "string": "検索"
+    },
+    "design_systems.publishing_modal.secret_publish_warning": {
+        "string": "{orgName}の全員に公開すると、シークレットチームの名前を見られる可能性があります。それを避けるには、ファイルを公開チームまたは限定チームに移動してから公開します。"
+    },
+    "design_systems.publishing_modal.secret_publish_warning_orgname": {
+        "string": "組織"
+    },
+    "design_systems.publishing_modal.see_variables": {
+        "string": "バリアブルを表示"
+    },
+    "design_systems.publishing_modal.select_component": {
+        "string": "コンポーネントを選択"
+    },
+    "design_systems.publishing_modal.show_when_publishing": {
+        "string": "公開時に表示"
+    },
+    "design_systems.publishing_modal.standard_upsell": {
+        "string": "{numComponents, plural, other {{numComponents}個のコンポーネントが公開されません。共有ライブラリにコンポーネントを公開できるのは、プロフェッショナルチームのメンバーだけです。この機能を使用するには、{teamUpsellLink}するか、既存のチームに参加してください。}}"
+    },
+    "design_systems.publishing_modal.starter_library_upsell": {
+        "string": "{numComponents, plural, other {{numComponents}件のコンポーネント変更は公開されません。カスタムコンポーネントは、エデュケーション、プロフェッショナル、およびビジネスのチームでのみ公開できます。}}"
+    },
+    "design_systems.publishing_modal.styles": {
+        "string": "スタイル"
+    },
+    "design_systems.publishing_modal.templates": {
+        "string": "テンプレート"
+    },
+    "design_systems.publishing_modal.these_wont_be_published": {
+        "string": "これらは公開されません。"
+    },
+    "design_systems.publishing_modal.too_many_modes_error": {
+        "string": "40モードを超えています"
+    },
+    "design_systems.publishing_modal.too_many_variables_error": {
+        "string": "バリアブルが多すぎます"
+    },
+    "design_systems.publishing_modal.unchanged_header_with_count": {
+        "string": "未変更{countString}"
+    },
+    "design_systems.publishing_modal.unmovable_state_group_with_movable_state": {
+        "string": "このコンポーネントには、以前に他のファイルのコンポーネントとして公開されたバリアントが含まれています。公開するとインスタンスコネクションがこのファイルに移動されます。"
+    },
+    "design_systems.publishing_modal.unused_def_error": {
+        "string": "未使用のプロパティ"
+    },
+    "design_systems.publishing_modal.upgrade_team": {
+        "string": "チームをアップグレードする"
+    },
+    "design_systems.publishing_modal.variable_collections": {
+        "string": "バリアブルコレクション"
+    },
+    "design_systems.shared_fonts.apply_to_all_remaining_uploads": {
+        "string": "{numRemainingUploads, plural, other {残り{numRemainingUploads}個のアップロードに適用する}}"
+    },
+    "design_systems.shared_fonts.are_you_sure_you_want_to_delete": {
+        "string": "{numFonts, plural, other {{numFonts}個のフォントを削除してよろしいですか?}}"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "confirm_workspace_change.unassigned": {
+        "string": "未割り当て"
+    },
+    "org_invite.email_input_description.billing_group_and_workspace_disclaimer": {
+        "string": "参加すると、ワークスペース{workspaceName}と請求グループ{billingGroupName}に追加されます。"
+    },
+    "org_invite.email_input_description.billing_group_disclaimer": {
+        "string": "参加すると、請求グループ{billingGroupName}に追加されます。"
+    },
+    "org_invite.email_input_description.guest_invite_allow_list": {
+        "string": "{orgName}組織にユーザーを招待するには、以下でメールアドレスを追加します。"
+    },
+    "org_invite.email_input_description.invite_allowlist_enforced": {
+        "string": "新しいユーザーの情報をアップロードすると、Figmaを使い始めるための招待メールが新しいユーザーに送信されます。"
+    },
+    "org_invite.email_input_description.multiple_domains.expand_link": {
+        "string": "+残り{remainingDomainCount}"
+    },
+    "org_invite.email_input_description.multiple_domains.expanded": {
+        "string": "メールアドレスのドメインが{domainList}のメンバーを{orgName}組織に招待できます。"
+    },
+    "org_invite.email_input_description.multiple_domains.with_expand_link": {
+        "string": "メールアドレスのドメインが{domain} {expandLink}のメンバーを{orgName}組織に招待できます。"
+    },
+    "org_invite.email_input_description.single_domain": {
+        "string": "メールアドレスのドメインが{domain}のメンバーを{orgName}組織に招待できます。"
+    },
+    "org_invite.email_input_description.workspace_disclaimer": {
+        "string": "参加したメンバーは、{workspaceName}ワークスペースに追加されます。"
+    },
+    "org_invite.existing_members_message": {
+        "string": "{numExisting, plural, other {{numExisting}人が既に組織に含まれています。}}"
+    },
+    "org_invite.invite_button": {
+        "string": "招待を送信"
+    },
+    "org_invite.invite_members": {
+        "string": "他のメンバーを{orgName}に招待"
+    },
+    "org_invite.invite_resent": {
+        "string": "招待が再送信されました。"
+    },
+    "org_invite.invite_users": {
+        "string": "{orgName}にユーザーを招待"
+    },
+    "org_invite.new_members_message": {
+        "string": "{numInvites, plural, other {{numInvites}名を招待しました。}}"
+    },
+    "org_invite.org_invite_creation_error": {
+        "string": "組織の招待の作成中にエラーが発生しました。"
+    },
+    "org_invite.org_invite_deletion_error": {
+        "string": "組織の招待の削除中にエラーが発生しました。"
+    },
+    "org_invite.org_invite_deletion_success": {
+        "string": "暫定ユーザー{email}が削除されました"
+    },
+    "org_invite.org_invite_update_error": {
+        "string": "組織の招待の更新中にエラーが発生しました。"
+    },
+    "org_invite.org_invite_update_success": {
+        "string": "暫定ユーザー{email}が更新されました。"
+    },
+    "org_invite.pending_guest_confirmation.button": {
+        "string": "招待"
+    },
+    "org_invite.pending_guest_confirmation.description": {
+        "string": "{numEmails, plural, other {組織外部のユーザー({emailList})を招待します。}}"
+    },
+    "org_invite.pending_guest_confirmation.learn_more_link": {
+        "string": "詳細情報"
+    },
+    "org_invite.pending_guest_confirmation.title": {
+        "string": "よろしいですか?"
+    },
+    "org_join_request.add_to_org_confirmation_button_text": {
+        "string": "組織に追加"
+    },
+    "org_join_request.approve_error": {
+        "string": "組織参加リクエストを承認中にエラーが発生しました"
+    },
+    "org_join_request.cancel_text": {
+        "string": "却下"
+    },
+    "org_join_request.deprovisioned_confirmation_button_text": {
+        "string": "了解"
+    },
+    "org_join_request.description_edit_file": {
+        "string": "{inviterName}が{resourceName}を編集するユーザーを招待しましたが、ユーザーがファイルにアクセスできるようにするには、ユーザーを追加する必要があります。"
+    },
+    "org_join_request.description_edit_folder": {
+        "string": "{inviterName}が{resourceName}を編集するユーザーを招待しましたが、ユーザーがフォルダにアクセスできるようにするには、ユーザーを追加する必要があります。"
+    },
+    "org_join_request.description_edit_team": {
+        "string": "{inviterName}が{resourceName}を編集するユーザーを招待しましたが、ユーザーがチームにアクセスできるようにするには、ユーザーを追加する必要があります。"
+    },
+    "org_join_request.description_view_file": {
+        "string": "{inviterName}が、{resourceName}を閲覧するユーザーを招待しましたが、ユーザーがファイルにアクセスできるようにするには、ユーザーを追加する必要があります。"
+    },
+    "org_join_request.description_view_folder": {
+        "string": "{inviterName}が{resourceName}を閲覧するユーザーを招待しましたが、ユーザーがフォルダにアクセスできるようにするには、ユーザーを追加する必要があります。"
+    },
+    "org_join_request.description_view_team": {
+        "string": "{inviterName}が{resourceName}を閲覧するユーザーを招待しましたが、ユーザーがチームにアクセスできるようにするには、ユーザーを追加する必要があります。"
+    },
+    "org_join_request.description_would_like_to_join": {
+        "string": "{requesterNameAndEmail}が{orgName}組織への参加を希望しています。"
+    },
+    "org_join_request.generic_fetch_error": {
+        "string": "組織参加リクエストの取得中にエラーが発生しました"
+    },
+    "org_join_request.loading_confirmation_button_text": {
+        "string": "追加中..."
+    },
+    "org_join_request.modal_title": {
+        "string": "組織に{requesterName}を追加しますか?"
+    },
+    "org_join_request.request_approved_message": {
+        "string": "{requesterName}が組織に追加されました"
+    },
+    "org_join_request.scim_enabled_banner": {
+        "string": "IDプロバイダーを使用している場合は、次に進んでこのリクエストを無視し、プロバイダーで追加してください。"
+    },
+    "org_join_request.user_deprovisioned_warning": {
+        "string": "このユーザーは組織のIDプロバイダーで以前にプロビジョニング解除されているため、FigmaへのアクセスをIDプロバイダーから管理する必要があります。"
+    },
+    "org_upgrade.action_text.configurable_request_upgrade_instructions": {
+        "string": "以下の管理者の指示に従ってください"
+    },
+    "org_upgrade.action_text.create_branch": {
+        "string": "ブランチを作成するには、{requestUpgradeInstructions}。"
+    },
+    "org_upgrade.action_text.create_edit_import_design_files": {
+        "string": "Figmaデザインファイルを作成、編集、インポートするには、{requestUpgradeInstructions}。"
+    },
+    "org_upgrade.action_text.create_edit_import_figjam_boards": {
+        "string": "FigJamボードを作成、編集、インポートするには、{requestUpgradeInstructions}。"
+    },
+    "org_upgrade.action_text.create_file": {
+        "string": "ファイルを作成するには、{requestUpgradeInstructions}。"
+    },
+    "org_upgrade.action_text.drafts": {
+        "string": "{boldedDrafts}からファイルを共有するには、{requestUpgradeInstructions}。"
+    },
+    "org_upgrade.action_text.edit_files": {
+        "string": "この組織のファイルを編集するには、{requestUpgradeInstructions}。"
+    },
+    "org_upgrade.action_text.plugin": {
+        "string": "プラグインを実行するには、{requestUpgradeInstructions}。"
+    }
+}

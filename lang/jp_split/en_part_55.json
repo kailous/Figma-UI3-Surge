@@ -1,0 +1,152 @@
+{
+    "community.detail_view.plugin_open_devmode": {
+        "string": "開発モードで開く"
+    },
+    "community.detail_view.prototype": {
+        "string": "プロトタイプ"
+    },
+    "community.detail_view.ratings": {
+        "string": "{totalRatings, plural, other {{totalRatings}件の評価}}"
+    },
+    "community.detail_view.read_more": {
+        "string": "さらに読む"
+    },
+    "community.detail_view.recent_files": {
+        "string": "最近のファイル"
+    },
+    "community.detail_view.remove_myself_as_creator": {
+        "string": "作成者としての自分を削除する"
+    },
+    "community.detail_view.report_resource": {
+        "string": "リソースを報告する"
+    },
+    "community.detail_view.resource_outside_of_figma": {
+        "string": "このリソースは、Figmaの外で決済する必要があります。"
+    },
+    "community.detail_view.restricted_network_access": {
+        "string": "ネットワークアクセス制限あり"
+    },
+    "community.detail_view.restricted_plugin_network_access": {
+        "string": "このプラグインは、次のドメインにのみアクセスできます。"
+    },
+    "community.detail_view.restricted_widget_network_access": {
+        "string": "このウィジェットは、次のドメインにのみアクセスできます。"
+    },
+    "community.detail_view.see_all": {
+        "string": "すべて表示({ratingCount})"
+    },
+    "community.detail_view.share": {
+        "string": "共有"
+    },
+    "community.detail_view.show_less": {
+        "string": "簡易表示"
+    },
+    "community.detail_view.slide_template": {
+        "string": "Figma Slides"
+    },
+    "community.detail_view.star": {
+        "string": "{starCount}つ星"
+    },
+    "community.detail_view.support_contact": {
+        "string": "サポート: {supportContact}"
+    },
+    "community.detail_view.tags": {
+        "string": "タグ"
+    },
+    "community.detail_view.third_party_badge.figma_partner": {
+        "string": "Figmaパートナー"
+    },
+    "community.detail_view.third_party_badge.figma_partner_tooltip": {
+        "string": "個別のログインが必要です"
+    },
+    "community.detail_view.third_party_badge.off_platform": {
+        "string": "サードパーティ決済"
+    },
+    "community.detail_view.third_party_badge.off_platform_purchase_tooltip": {
+        "string": "このリソースは、ユーザーにFigmaの外部で購入してもらう必要があります。"
+    },
+    "community.detail_view.to_calculate_ratings": {
+        "string": "評価の計算では、確認済みカスタマーレビューをすべて考慮に入れます。確認できないレビューは、リソースの平均評価の計算に入れません。"
+    },
+    "community.detail_view.try_it_out": {
+        "string": "使ってみる"
+    },
+    "community.detail_view.ui_kit": {
+        "string": "UIキット"
+    },
+    "community.detail_view.universal": {
+        "string": "すべての製品とモード向け"
+    },
+    "community.detail_view.unknown_network_access": {
+        "string": "不明なネットワークアクセス"
+    },
+    "community.detail_view.unrestricted_network_access": {
+        "string": "ネットワークアクセス制限なし"
+    },
+    "community.detail_view.unrestricted_plugin_network_access": {
+        "string": "このドメインは、どのドメインにもアクセスできます。"
+    },
+    "community.detail_view.unrestricted_widget_network_access": {
+        "string": "このウィジェットは、どのドメインにもアクセスできます。"
+    },
+    "community.detail_view.unspecified_plugin_network_access": {
+        "string": "この作成者は、このプラグインのネットワークアクセス方法を指定していません。"
+    },
+    "community.detail_view.unspecified_widget_network_access": {
+        "string": "この作成者は、このウィジェットのネットワークアクセス方法を指定していません。"
+    },
+    "community.detail_view.want_to_sell_resources": {
+        "string": "コミュニティにあるこちらのようなリソースを販売しますか?"
+    },
+    "community.detail_view.widget": {
+        "string": "ウィジェット"
+    },
+    "community.detail_view.you_have_been_added_as_a_creator_of_this_resource": {
+        "string": "このリソースの作成者として追加されました。"
+    },
+    "community.detail_view.you_have_been_added_as_a_publisher_of_this_resource": {
+        "string": "このリソースの公開者として追加されました。"
+    },
+    "community.duplicate.duplicate": {
+        "string": "複製"
+    },
+    "community.duplicate.open": {
+        "string": "開く"
+    },
+    "community.duplicate.open_in_figjam": {
+        "string": "FigJamで開く"
+    },
+    "community.duplicate.open_in_figma": {
+        "string": "Figmaで開く"
+    },
+    "community.duplicate.to_duplicate_switch_to_your_personal_profile": {
+        "string": "複製するには、自分のパーソナルプロフィールに切り替えます"
+    },
+    "community.duplicate_modal.continue_to_file": {
+        "string": "ファイルに進む"
+    },
+    "community.duplicate_modal.youre_all_set": {
+        "string": "設定が完了しました!"
+    },
+    "community.duplicate_modal.youve_verified_your_email_at": {
+        "string": "{userEmail}でメールを確認しました。"
+    },
+    "community.embed.preview_title": {
+        "string": "プレビュー"
+    },
+    "community.embed.preview_title_long": {
+        "string": "コミュニティリソースのプレビュー"
+    },
+    "community.error.an_error_has_occurred_please_refresh_the_page_and_try_again": {
+        "string": "エラーが発生しました。ページを更新してもう一度お試しください。"
+    },
+    "community.error.could_not_complete_search": {
+        "string": "検索を完了できませんでした。{error}"
+    },
+    "community.error.profile_not_found": {
+        "string": "プロフィールが見つかりません"
+    },
+    "community.error.search_request_failed": {
+        "string": "検索に失敗しました"
+    }
+}

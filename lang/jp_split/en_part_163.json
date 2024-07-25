@@ -1,0 +1,152 @@
+{
+    "file_browser.folder_list_view.header_files_column": {
+        "string": "ファイル"
+    },
+    "file_browser.folder_list_view.header_name_column": {
+        "string": "名前"
+    },
+    "file_browser.folder_list_view.header_shared_at_column": {
+        "string": "共有日時"
+    },
+    "file_browser.folder_list_view.header_shared_by_column": {
+        "string": "共有者"
+    },
+    "file_browser.folder_list_view.header_updated_column": {
+        "string": "更新"
+    },
+    "file_browser.folder_move.modal_header": {
+        "string": "プロジェクト{folderName}を移動する"
+    },
+    "file_browser.folder_move.move_project": {
+        "string": "プロジェクトを移動"
+    },
+    "file_browser.folder_move.move_project_no_edit_access_warning": {
+        "string": "プロジェクトをこのチーム移動する前に、このチームの編集アクセス権を編集する必要があります。"
+    },
+    "file_browser.folder_move.project_moved_toast": {
+        "string": "プロジェクト{folderName}は{teamName}に移動されています"
+    },
+    "file_browser.folder_move.view_team": {
+        "string": "チームを表示"
+    },
+    "file_browser.folder_settings.change_team_access": {
+        "string": "アクセス権を変更"
+    },
+    "file_browser.folder_settings.change_team_access_team_name": {
+        "string": "{teamName}のアクセス権を変更"
+    },
+    "file_browser.folder_settings.change_team_access_title": {
+        "string": "{teamName}のメンバー"
+    },
+    "file_browser.folder_settings.revoke": {
+        "string": "取り消す"
+    },
+    "file_browser.folder_settings.team_access_disable": {
+        "string": "無効"
+    },
+    "file_browser.folder_settings.team_access_disabled_subtitle": {
+        "string": "このプロジェクトでのグループのデフォルトアクセス権を削除"
+    },
+    "file_browser.folder_settings.team_access_same_as_team": {
+        "string": "チームと同じ"
+    },
+    "file_browser.folder_settings.team_access_same_as_team_subtitle": {
+        "string": "編集可か閲覧のみかは、現在のチームの役割によります"
+    },
+    "file_browser.folder_settings.team_access_view_only": {
+        "string": "閲覧のみ"
+    },
+    "file_browser.folder_settings.team_access_view_only_subtitle": {
+        "string": "現在のチームの役割にかかわらず、閲覧とコメントだけが可能です"
+    },
+    "file_browser.folder_settings.team_can_access_tooltip": {
+        "string": "アクセス権はチームレベルの権限と一致するようになります。"
+    },
+    "file_browser.hybrid_templates_shelf.for_des": {
+        "string": "デザイナー向けのテンプレート"
+    },
+    "file_browser.hybrid_templates_shelf.for_eng": {
+        "string": "開発者向けのテンプレート"
+    },
+    "file_browser.hybrid_templates_shelf.for_mkt": {
+        "string": "マーケター向けのテンプレート"
+    },
+    "file_browser.hybrid_templates_shelf.for_pm": {
+        "string": "PM向けのテンプレート"
+    },
+    "file_browser.hybrid_templates_shelf.for_ur": {
+        "string": "ユーザーリサーチャー向けのテンプレート"
+    },
+    "file_browser.hybrid_templates_shelf.generate_button": {
+        "string": "生成"
+    },
+    "file_browser.inline_team_creation.button_text": {
+        "string": "チームを新規作成"
+    },
+    "file_browser.inline_team_creation.placeholder": {
+        "string": "チーム名"
+    },
+    "file_browser.mobile_prompt.app_action": {
+        "string": "入手"
+    },
+    "file_browser.mobile_prompt.app_description": {
+        "string": "閲覧とコメント投稿を行うには"
+    },
+    "file_browser.mobile_prompt.app_description_new": {
+        "string": "デザイン、コラボレーション、ミラーリング"
+    },
+    "file_browser.mobile_prompt.app_image_alt": {
+        "string": "Figmaモバイルアプリのアイコン"
+    },
+    "file_browser.mobile_prompt.app_title": {
+        "string": "Figmaアプリ"
+    },
+    "file_browser.mobile_prompt.browser_action": {
+        "string": "続行"
+    },
+    "file_browser.mobile_prompt.browser_image_alt": {
+        "string": "Google Chromeのロゴ"
+    },
+    "file_browser.mobile_prompt.browser_title": {
+        "string": "ブラウザ"
+    },
+    "file_browser.mobile_prompt.image_alt": {
+        "string": "Figmaモバイルアプリでファイルの閲覧とコメントの投稿をしているスマートフォンの画面。"
+    },
+    "file_browser.mobile_prompt.modal_body": {
+        "string": "外出中にもコメント、返信、@メンションなどができるFigmaモバイルアプリをお試しください。"
+    },
+    "file_browser.mobile_prompt.modal_body_blocking": {
+        "string": "ファイルの閲覧、コメントへの返信、通知の確認など、すべてFigmaモバイルアプリで行うことができます。"
+    },
+    "file_browser.mobile_prompt.modal_title": {
+        "string": "Figmaアプリでいつでも最新情報を"
+    },
+    "file_browser.mobile_prompt.modal_title_blocking": {
+        "string": "Figmaアプリを入手してモバイルで閲覧"
+    },
+    "file_browser.mobile_prompt.modal_title_compact": {
+        "string": "このファイルをアプリで閲覧してみる"
+    },
+    "file_browser.modal.are_you_sure_to_transfer_ownership": {
+        "string": "{newOwnerName}を{resourceName}のオーナーにしてよろしいですか?"
+    },
+    "file_browser.modal.cannot_undo_warning": {
+        "string": "このアクションは元に戻すことができません。"
+    },
+    "file_browser.modal.cant_transfer_ownership_title": {
+        "string": "オーナーは変更できません"
+    },
+    "file_browser.modal.got_it": {
+        "string": "了解"
+    },
+    "file_browser.modal.this_resource_is_for_sale_on_community_so_you_cant_change_ownership": {
+        "string": "このリソースはコミュニティで販売されているため、別のユーザーをオーナーにすることはできません。"
+    },
+    "file_browser.modal.transfer_ownership_cta": {
+        "string": "オーナーシップを移転"
+    },
+    "file_browser.modal.transfer_ownership_title": {
+        "string": "オーナーシップを移転"
+    }
+}

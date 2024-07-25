@@ -1,0 +1,152 @@
+{
+    "inspect_panel.typography.align_center": {
+        "string": "中央揃え"
+    },
+    "inspect_panel.typography.align_justified": {
+        "string": "両端揃え"
+    },
+    "inspect_panel.typography.align_right": {
+        "string": "右揃え"
+    },
+    "inspect_panel.typography.cap_height": {
+        "string": "キャップハイト"
+    },
+    "inspect_panel.typography.font": {
+        "string": "フォント"
+    },
+    "inspect_panel.typography.hanging_list": {
+        "string": "リスト"
+    },
+    "inspect_panel.typography.hanging_punctuation": {
+        "string": "ぶら下げ"
+    },
+    "inspect_panel.typography.leading_trim": {
+        "string": "上下トリミング"
+    },
+    "inspect_panel.typography.letter": {
+        "string": "文字"
+    },
+    "inspect_panel.typography.line_height": {
+        "string": "行間"
+    },
+    "inspect_panel.typography.name": {
+        "string": "名前"
+    },
+    "inspect_panel.typography.optical_size": {
+        "string": "オプティカルサイズ"
+    },
+    "inspect_panel.typography.paragraph_indent": {
+        "string": "インデント"
+    },
+    "inspect_panel.typography.paragraph_spacing": {
+        "string": "段落"
+    },
+    "inspect_panel.typography.punctuation": {
+        "string": "句読点"
+    },
+    "inspect_panel.typography.size": {
+        "string": "サイズ"
+    },
+    "inspect_panel.typography.span": {
+        "string": "span"
+    },
+    "inspect_panel.typography.span_contents": {
+        "string": "span ({contents})"
+    },
+    "inspect_panel.typography.span_whitespace": {
+        "string": "空白"
+    },
+    "inspect_panel.typography.style": {
+        "string": "スタイル"
+    },
+    "inspect_panel.typography.title": {
+        "string": "タイポグラフィー"
+    },
+    "inspect_panel.typography.too_many_selected": {
+        "string": "⚠️  {numSelected}個のタイポグラフィーを選択しましたが、そのうちの一部だけが表示されています"
+    },
+    "inspect_panel.typography.variation": {
+        "string": "バリエーション"
+    },
+    "inspect_panel.typography.weight": {
+        "string": "太さ"
+    },
+    "inspect_panel.videos.title_plural": {
+        "string": "動画"
+    },
+    "inspect_panel.videos.title_singular": {
+        "string": "動画"
+    },
+    "ip_restriction.add_another": {
+        "string": "別のアカウントを追加"
+    },
+    "ip_restriction.add_more_accounts": {
+        "string": "使用するアカウントが表示されない場合は、{addAnotherButton}できます。"
+    },
+    "ip_restriction.explanation_login_many_domains": {
+        "string": "このネットワークのFigmaにアクセスするには、次のドメインのアカウントでログインするか、{orgName}組織へのアクセス権のある別のアカウントでログインします。 "
+    },
+    "ip_restriction.explanation_login_one_domain": {
+        "string": "このネットワークでFigmaにアクセスするには、{domain}アカウントまたは{orgName}組織へのアクセスを持つ他のアカウントでログインします。"
+    },
+    "ip_restriction.explanation_switch": {
+        "string": "このネットワークのFigmaにアクセスする場合は、ログイン済みの{orgName}アカウントに切り替えてください。"
+    },
+    "ip_restriction.ip_allowlist_explanation": {
+        "string": "このアカウントでFigmaにアクセスするには、企業ネットワークからログインする必要があります。"
+    },
+    "ip_restriction.ip_allowlist_explanation_switch_accounts": {
+        "string": "このアカウントでFigmaにアクセスするには、企業ネットワークからログインするか、すでにログイン済みの別のアカウントへの切り替えが必要です。"
+    },
+    "ip_restriction.ip_allowlist_reload_page": {
+        "string": "このページを再度読み込んでください"
+    },
+    "ip_restriction.ip_allowlist_reload_page_on_authorized_network": {
+        "string": "許可されていないネットワークはもう使用していませんね?{reloadPage}"
+    },
+    "ip_restriction.ip_allowlist_title": {
+        "string": "企業ネットワークからログインしてください"
+    },
+    "ip_restriction.login": {
+        "string": "ログイン"
+    },
+    "ip_restriction.logout": {
+        "string": "このページにログインできない場合は、{logOutOfAllAccounts}して、このページから離れてください"
+    },
+    "ip_restriction.logout_of_all_accounts": {
+        "string": "すべてのアカウントからログアウト"
+    },
+    "ip_restriction.reload_page": {
+        "string": "もう{orgName}のネットワークからではありませんね? {reloadPage}ことができます"
+    },
+    "ip_restriction.reload_this_page": {
+        "string": "このページを再度読み込む"
+    },
+    "ip_restriction.title_login_no_org": {
+        "string": "許可済みのアカウントでログイン"
+    },
+    "ip_restriction.title_switch": {
+        "string": "{orgName}アカウントに切り替えてください"
+    },
+    "lab.disabled": {
+        "string": "{labName}ラボを無効にしました"
+    },
+    "lab.enable": {
+        "string": "{labName}を有効にする"
+    },
+    "lab.enabled": {
+        "string": "{labName}ラボを有効にしました"
+    },
+    "lab.figjam_ui3": {
+        "string": "FigJam UI3"
+    },
+    "lab.figjam_ui3_colors": {
+        "string": "FigJam UI3: on-canvas colors"
+    },
+    "lab.fpl.components": {
+        "string": "FPLコンポーネント: エディターでFPLコンポーネントを使用"
+    },
+    "lab.inset_editor": {
+        "string": "インセットエディター"
+    }
+}

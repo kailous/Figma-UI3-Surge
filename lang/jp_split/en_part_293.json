@@ -1,0 +1,152 @@
+{
+    "slides.flapp.embed.widget_alignment": {
+        "string": "意見の一致度"
+    },
+    "slides.flapp.embed.widget_modal_description": {
+        "string": "プレゼンテーションの際に、簡単な投票やインタラクティブなプロトタイプなど、オーディエンスとやり取りができるようにします。"
+    },
+    "slides.flapp.embed.widget_modal_title": {
+        "string": "ライブインタラクション"
+    },
+    "slides.flapp.embed.widget_poll": {
+        "string": "投票"
+    },
+    "slides.flapp.embed.widget_prototype": {
+        "string": "プロトタイプ"
+    },
+    "slides.flapp.embed.widget_stamps": {
+        "string": "スタンプ"
+    },
+    "slides.flapp.embed.widget_youtube": {
+        "string": "YouTube"
+    },
+    "slides.flapp.facepile.description_click_to_stamp": {
+        "string": "クリックしてフェイススタンプを押します"
+    },
+    "slides.flapp.facepile.prompt_placeholder": {
+        "string": "賛成ならスタンプを押してください"
+    },
+    "slides.flapp.facepile.tooltip.click_to_remove": {
+        "string": "クリックして削除"
+    },
+    "slides.flapp.poll.option_placeholder": {
+        "string": "選択肢を追加"
+    },
+    "slides.flapp.poll.question_placeholder": {
+        "string": "質問を入力..."
+    },
+    "slides.flapp.poll.vote_failure": {
+        "string": "投票できませんでした。ログインしてもう一度投票してみてください。"
+    },
+    "slides.flapp.results.multiple_other_stamps": {
+        "string": "{totalStamps, plural, other {{totalStamps}人がスタンプを押しました}}"
+    },
+    "slides.flapp.results.multiple_other_votes": {
+        "string": "{totalVotes, plural, other {{totalVotes}人が投票しました}}"
+    },
+    "slides.flapp.results.multiple_stamps_including_user": {
+        "string": "{totalStamps, plural, other {あなたと他{totalStamps}人がスタンプを押しました}}"
+    },
+    "slides.flapp.results.multiple_votes_including_user": {
+        "string": "{totalVotes, plural, other {あなたと他{totalVotes}人が投票しました}}"
+    },
+    "slides.flapp.results.no_stamps_yet": {
+        "string": "スタンプはまだありません"
+    },
+    "slides.flapp.results.no_votes_yet": {
+        "string": "投票はまだありません"
+    },
+    "slides.flapp.results.results_hidden": {
+        "string": "結果 - 非表示"
+    },
+    "slides.flapp.results.results_shown": {
+        "string": "結果 - 表示中"
+    },
+    "slides.flapp.results.single_other_stamp": {
+        "string": "{person}人がスタンプを押しました"
+    },
+    "slides.flapp.results.single_other_vote": {
+        "string": "{person}人が投票しました"
+    },
+    "slides.flapp.results.single_self_stamp": {
+        "string": "スタンプを押しました"
+    },
+    "slides.flapp.results.single_self_vote": {
+        "string": "投票しました"
+    },
+    "slides.general.presenter": {
+        "string": "発表者"
+    },
+    "slides.general.slide_deck": {
+        "string": "オーディエンス"
+    },
+    "slides.general.slides": {
+        "string": "Figma Slides"
+    },
+    "slides.inserting_embed.visual_bell": {
+        "string": "プロトタイプを読み込んでいます..."
+    },
+    "slides.inserts_menu.assets": {
+        "string": "アセット"
+    },
+    "slides.inserts_menu.design": {
+        "string": "デザインモード"
+    },
+    "slides.inserts_menu.design_mode_upsell": {
+        "string": "デザインモードにはFigmaデザインプランが必要です。"
+    },
+    "slides.inserts_menu.image_video": {
+        "string": "画像/動画"
+    },
+    "slides.inserts_menu.interaction": {
+        "string": "ライブインタラクション"
+    },
+    "slides.inserts_menu.shapes": {
+        "string": "シェイプ"
+    },
+    "slides.inserts_menu.slides": {
+        "string": "スライドモードに戻る"
+    },
+    "slides.onboarding.callout.close": {
+        "string": "閉じる"
+    },
+    "slides.onboarding.callout.done": {
+        "string": "完了"
+    },
+    "slides.onboarding.callout.next": {
+        "string": "次へ"
+    },
+    "slides.onboarding.designer.tools.description": {
+        "string": "最初はスライドモードを使用し、デザインモードに切り替えてデッキの完成度を高め、さらに洗練させます。"
+    },
+    "slides.onboarding.designer.tools.title": {
+        "string": "モードを使い分ける"
+    },
+    "slides.onboarding.learn_more": {
+        "string": "詳細情報"
+    },
+    "slides.onboarding.new_slide.description": {
+        "string": "すべてを備えたデッキからシンプルなスタイルまで、何十ものテンプレートから選択できます。⇧Sを押すことで、新しいスライドをすばやく追加できます。"
+    },
+    "slides.onboarding.new_slide.title": {
+        "string": "状況に合ったスライドを見つける"
+    },
+    "slides.onboarding.nondesigner.tools.description": {
+        "string": "シンプルなスライドツールのほか、投票の実行、プロトタイプの埋め込み、魅力を加えるためのアセットの追加を行うことができます。"
+    },
+    "slides.onboarding.nondesigner.tools.title": {
+        "string": "作業に合ったツールを選択"
+    },
+    "slides.onboarding.services_agreement": {
+        "string": "ソフトウェアサービス契約"
+    },
+    "slides.onboarding.share.description": {
+        "string": "準備ができたら、別のタブのメモを読みながら1つのタブでデッキをプレゼンテーションできます。"
+    },
+    "slides.onboarding.share.title": {
+        "string": "発表する"
+    },
+    "slides.onboarding.subprocessors": {
+        "string": "サブプロセッサー"
+    }
+}

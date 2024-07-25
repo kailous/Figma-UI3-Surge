@@ -1,0 +1,152 @@
+{
+    "org_upgrade.action_text.request_upgrade_instructions": {
+        "string": "管理者に依頼してアカウントをアップグレードする必要があります"
+    },
+    "org_upgrade.action_text.request_upgrade_instructions_from_project_view": {
+        "string": "有料シートへのアップグレードを管理者に依頼してください"
+    },
+    "org_upgrade.action_text.teams": {
+        "string": "チームを作成するには、{requestUpgradeInstructions}。"
+    },
+    "org_upgrade.drafts": {
+        "string": "下書き"
+    },
+    "org_upgrade.request_upgrade": {
+        "string": "アップグレードを申請"
+    },
+    "request_upgrade.action_text.dev_mode_need_request": {
+        "string": "開発モードシートのアクセス権の申請が必要になります。申請を審査する管理者:"
+    },
+    "request_upgrade.action_text.dev_mode_need_request_admin": {
+        "string": "開発モードシートが必要になります。"
+    },
+    "request_upgrade.admin_names_list": {
+        "string": "{numRestOfAdmins, plural, other {{firstAdminName}、{secondAdminName}、その他{numRestOfAdmins}人の管理者}}"
+    },
+    "request_upgrade.as_an_admin_you_can_upgrade_yourself": {
+        "string": "管理者は、自分でアップグレードができます。"
+    },
+    "request_upgrade.bolded_instructions": {
+        "string": "メモを追加"
+    },
+    "request_upgrade.cancel_button": {
+        "string": "キャンセル"
+    },
+    "request_upgrade.description_dev_mode_grace_period": {
+        "string": "開発モード申請をチーム管理者に送信します。承認を待つ間は、最大{numDays}日間無料で、開発モードで作業できます。"
+    },
+    "request_upgrade.done": {
+        "string": "完了"
+    },
+    "request_upgrade.instruction_all_admins": {
+        "string": "{boldedRequestUpgrade}をクリックすると、組織の管理者に申請が送信されます。"
+    },
+    "request_upgrade.instruction_selectable_admins": {
+        "string": "以下で1人以上の管理者を選択してから、{boldedRequestUpgrade}をクリックしてください。"
+    },
+    "request_upgrade.instruction_single_admin": {
+        "string": "{boldedRequestUpgrade}をクリックすると、以下の管理者に申請が送信されます。"
+    },
+    "request_upgrade.instruction_text_header": {
+        "string": "{boldedInstructions}(オプション)"
+    },
+    "request_upgrade.message_input_placeholder_instructions": {
+        "string": "アップグレードが必要な理由を管理者に伝えましょう。"
+    },
+    "request_upgrade.message_input_placeholder_instructions_single_admin": {
+        "string": "アップグレードが必要な理由を管理者に伝えましょう。"
+    },
+    "request_upgrade.modal.error": {
+        "string": "アップグレード申請モーダルの表示中にエラーが発生しました。"
+    },
+    "request_upgrade.no_admins_selected_error": {
+        "string": "1人以上の管理者を選択してください"
+    },
+    "request_upgrade.reminder_sent": {
+        "string": "リマインダー送信済み"
+    },
+    "request_upgrade.request_submitted": {
+        "string": "申請が送信されました"
+    },
+    "request_upgrade.select_all": {
+        "string": "すべて選択"
+    },
+    "request_upgrade.send_request_button": {
+        "string": "申請を送信"
+    },
+    "request_upgrade.send_request_button_already_requested": {
+        "string": "申請済み"
+    },
+    "request_upgrade.title_admin_dev_mode": {
+        "string": "開発モードシートを自分でアップグレード"
+    },
+    "request_upgrade.title_admin_figjam": {
+        "string": "FigJamシートを自分でアップグレード"
+    },
+    "request_upgrade.title_admin_figma": {
+        "string": "Figmaデザインシートを自分でアップグレード"
+    },
+    "request_upgrade.title_figjam": {
+        "string": "FigJamのアップグレードを申請"
+    },
+    "request_upgrade.title_figma": {
+        "string": "Figmaデザインのアップグレードを申請"
+    },
+    "request_upgrade.title_request_access_to_dev": {
+        "string": "開発モードへのアクセス権を申請"
+    },
+    "request_upgrade.upgrade_button": {
+        "string": "アップグレード"
+    },
+    "request_upgrade.we_ve_send_a_reminder_to_your_admins_we_ll_let_you_know_when_your_upgrade_request_is_approved": {
+        "string": "管理者にリマインダーを送信しました。アップグレード申請が承認されたらお知らせします。"
+    },
+    "request_upgrade.we_ve_submitted_your_request_for_a_full_paid_seat_to_your_admins_and_will_notify_you_when_it_s_approved": {
+        "string": "有料フルシートの申請を管理者に送信しました。承認され次第お知らせします。"
+    },
+    "request_upgrade.which_admin_prompt": {
+        "string": "この申請の送信先の管理者を選択してください"
+    },
+    "org_self_serve.billing_items.total_figjam_editor_cost.seat_rename": {
+        "string": "{totalFigJamEditorSeatsCount, plural, other {{annualMemberCost} × {totalFigJamEditorSeatsCount}人分のFigJamシート × 12か月(年間のみ)}}"
+    },
+    "org_self_serve.billing_items.total_figma_design_editor_cost.seat_rename": {
+        "string": "{totalDesignSeatsCount, plural, other {{annualMemberCost} × {totalDesignSeatsCount}人分のデザインシート × 12か月(年間のみ)}}"
+    },
+    "org_self_serve.billing_items.total_figma_design_editor_with_dev_mode_included.seat_rename": {
+        "string": "{totalDesignSeatsCount, plural, other {デザイン(開発モードを含む)シート: {totalDesignSeatsCount}}}"
+    },
+    "org_self_serve.billing_items.total_seat_cost_for_product": {
+        "string": "{seatCount, plural, other {{annualMemberCost} × {seatCount}シート × 12か月}}"
+    },
+    "org_self_serve.billing_items.total_seat_count.dev_mode": {
+        "string": "{totalSeatCount, plural, other {開発モードシート: {totalSeatCount}}}"
+    },
+    "org_self_serve.confirmation_step.go_to_the_file_browser": {
+        "string": "ファイルブラウザへ移動"
+    },
+    "org_self_serve.confirmation_step.order_confirmation_message": {
+        "string": "Figmaビジネスの注文が受け付けられ、現在処理中です。この処理には数分間かかります。移行が完了すると、Figmaは自動的に更新され、そのことを通知するメールが送信されます。"
+    },
+    "org_self_serve.confirmation_step.sorry_there_was_an_error_processing_your_request_refresh_and_try_again": {
+        "string": "リクエストを処理中にエラーが発生しました。更新してもう一度お試しください"
+    },
+    "org_self_serve.confirmation_step.total_amount_to_be_charged_to_card_ending_in_last4": {
+        "string": "末尾の番号が{last4}のカードへの請求合計額"
+    },
+    "org_self_serve.confirmation_step.we_re_setting_up_your_organization": {
+        "string": "組織を設定しています..."
+    },
+    "org_self_serve.confirmation_step.you_re_all_set": {
+        "string": "設定が完了しました!"
+    },
+    "org_self_serve.create_team_step.create_an_org_team": {
+        "string": "組織の新しいチームを作成する"
+    },
+    "org_self_serve.create_team_step.enter_a_name_for_your_team": {
+        "string": "チームの名前を入力"
+    },
+    "org_self_serve.create_team_step.itll_have_unlimited_files_and_advanced_security": {
+        "string": "ファイル数無制限、高度なセキュリティ、その他のメリットがあります"
+    }
+}

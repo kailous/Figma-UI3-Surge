@@ -1,0 +1,152 @@
+{
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.org": {
+        "string": "{orgName}で使用"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.team": {
+        "string": "{teamName}で使用"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.summer_new": {
+        "string": "この夏に追加"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.summer_updated": {
+        "string": "この夏に更新"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.user_installed_fonts": {
+        "string": "自分がインストール"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.variable_fonts": {
+        "string": "バリアブルフォント"
+    },
+    "fullscreen.properties_panel.font_picker.new_font_badge": {
+        "string": "新規"
+    },
+    "fullscreen.properties_panel.font_picker.no_fonts_in_current_set": {
+        "string": "フォントが見つかりません"
+    },
+    "fullscreen.properties_panel.font_picker.no_search_results": {
+        "string": "一致するフォントがありません"
+    },
+    "fullscreen.properties_panel.font_picker.no_shared_fonts": {
+        "string": "組織の誰でも使用できる共有フォントをアップロードしてください。"
+    },
+    "fullscreen.properties_panel.font_picker.no_shared_fonts.cta": {
+        "string": "詳細情報"
+    },
+    "fullscreen.properties_panel.font_picker.no_shared_fonts_orgname": {
+        "string": "{orgName}の誰でも使用できる共有フォントをアップロードしてください。"
+    },
+    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.cta": {
+        "string": "了解"
+    },
+    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.text": {
+        "string": "共有プランを使用できるように、このプランのアップグレードを管理者に依頼してください。"
+    },
+    "fullscreen.properties_panel.font_picker.org_upsell": {
+        "string": "ビジネスプランでは、チームの全員とフォントを共有できます。"
+    },
+    "fullscreen.properties_panel.font_picker.org_upsell.cta": {
+        "string": "アップグレード"
+    },
+    "fullscreen.properties_panel.font_picker.search_fonts": {
+        "string": "フォントを検索"
+    },
+    "fullscreen.properties_panel.font_picker.title": {
+        "string": "フォント"
+    },
+    "fullscreen.properties_panel.gif": {
+        "string": "GIF"
+    },
+    "fullscreen.properties_panel.gif_frame": {
+        "string": "gifフレーム"
+    },
+    "fullscreen.properties_panel.gifs_in_figma_prototypes": {
+        "string": "FigmaプロトタイプのGIF"
+    },
+    "fullscreen.properties_panel.go_to_style_definition_to_edit": {
+        "string": "編集するスタイル定義に移動"
+    },
+    "fullscreen.properties_panel.gradient": {
+        "string": "グラデーション"
+    },
+    "fullscreen.properties_panel.gradient_picker.add_stop": {
+        "string": "グラデーション停止を追加"
+    },
+    "fullscreen.properties_panel.gradient_picker.delete_stop": {
+        "string": "グラデーション停止を削除"
+    },
+    "fullscreen.properties_panel.gradient_picker.rotate_90": {
+        "string": "グラデーションを回転"
+    },
+    "fullscreen.properties_panel.gradient_picker.stop_position": {
+        "string": "グラデーション停止位置"
+    },
+    "fullscreen.properties_panel.gradient_picker.stops": {
+        "string": "ストップ"
+    },
+    "fullscreen.properties_panel.highlights": {
+        "string": "ハイライト"
+    },
+    "fullscreen.properties_panel.hint_panel.close": {
+        "string": "閉じる"
+    },
+    "fullscreen.properties_panel.ignore_overlapping_layers": {
+        "string": "重なり合うレイヤーを無視する"
+    },
+    "fullscreen.properties_panel.image": {
+        "string": "画像"
+    },
+    "fullscreen.properties_panel.image_scale.crop": {
+        "string": "トリミング"
+    },
+    "fullscreen.properties_panel.image_scale.fill": {
+        "string": "拡大"
+    },
+    "fullscreen.properties_panel.image_scale.fit": {
+        "string": "サイズに合わせて調整"
+    },
+    "fullscreen.properties_panel.image_scale.tile": {
+        "string": "タイル"
+    },
+    "fullscreen.properties_panel.image_settings.generate_new": {
+        "string": "新規生成"
+    },
+    "fullscreen.properties_panel.image_settings.swap_image": {
+        "string": "画像を入れ替える"
+    },
+    "fullscreen.properties_panel.image_settings.upload_new": {
+        "string": "新規アップロード"
+    },
+    "fullscreen.properties_panel.include_bounding_box": {
+        "string": "バウンディングボックスを含める"
+    },
+    "fullscreen.properties_panel.include_id_attribute": {
+        "string": "\"id\"属性を含める"
+    },
+    "fullscreen.properties_panel.include_the_canvas_or_group_background_in_exports": {
+        "string": "エクスポートにキャンバスまたはグループの背景を含める"
+    },
+    "fullscreen.properties_panel.interactive": {
+        "string": "インタラクション"
+    },
+    "fullscreen.properties_panel.linear": {
+        "string": "線形"
+    },
+    "fullscreen.properties_panel.local_colors": {
+        "string": "ローカルの色"
+    },
+    "fullscreen.properties_panel.make_a_picture": {
+        "string": "画像を作成"
+    },
+    "fullscreen.properties_panel.migration_tooltip_learn_more": {
+        "string": "詳細を表示"
+    },
+    "fullscreen.properties_panel.orientation.landscape": {
+        "string": "横"
+    },
+    "fullscreen.properties_panel.orientation.portrait": {
+        "string": "縦"
+    },
+    "fullscreen.properties_panel.outline_text": {
+        "string": "テキストをアウトライン化する"
+    }
+}

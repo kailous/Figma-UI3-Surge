@@ -1,0 +1,152 @@
+{
+    "comments.pinning.feedback_giver_callout": {
+        "string": "前または次のピン留めされたコメントに移動します"
+    },
+    "comments.pinning.pin_comment": {
+        "string": "コメントをピン留めします"
+    },
+    "comments.pinning.pinned_comments_always_show_up_first_great_for_a_project_intro_or_important_info": {
+        "string": "ピン留めされたコメントが常に先頭に表示されます。プロジェクトの概要や重要な情報をピン留めしておくと便利です。"
+    },
+    "comments.pinning.unpin_comment": {
+        "string": "コメントのピン留めを外します"
+    },
+    "comments_suggestions.pending_user_invite_suggestions.id_love_your_feedback_about": {
+        "string": "フィードバックをお願いします..."
+    },
+    "comments_suggestions.pending_user_invite_suggestions.insert_id_love_your_feedback_about": {
+        "string": "についてのフィードバックをお願いします"
+    },
+    "comments_suggestions.pending_user_invite_suggestions.take_a_look_here": {
+        "string": "こちらをご覧ください。"
+    },
+    "comments_suggestions.pending_user_invite_suggestions.what_do_you_think": {
+        "string": "感想は?"
+    },
+    "common.close": {
+        "string": "閉じる"
+    },
+    "common.mixed": {
+        "string": "混在"
+    },
+    "community.change_profile_handle_modal.change_handle": {
+        "string": "ハンドルを変更"
+    },
+    "community.change_profile_handle_modal.change_your_unique_profile_handle": {
+        "string": "一意のプロフィールハンドルを変更"
+    },
+    "community.change_profile_handle_modal.check_your_email": {
+        "string": "メールを確認してください"
+    },
+    "community.change_profile_handle_modal.create_a_community_profile_to_publish_publicly_as_your_org_or_team": {
+        "string": "組織またはチームとして一般に公開するためにコミュニティプロフィールを作成する"
+    },
+    "community.change_profile_handle_modal.create_profile": {
+        "string": "プロフィールの作成"
+    },
+    "community.change_profile_handle_modal.new_profile_link": {
+        "string": "新しいコミュニティプロフィールが有効です。プロフィールを表示して、これをカスタマイズします。{url}で誰でも自分を検索できます。"
+    },
+    "community.change_profile_handle_modal.new_verification_email_sent": {
+        "string": "新しい確認メールを送信しました"
+    },
+    "community.change_profile_handle_modal.no_email_check_spam_or_click_resend_email_below": {
+        "string": "メールが見つからない場合は、迷惑メールをチェックするか、以下の[メールを再送信]をクリックします。"
+    },
+    "community.change_profile_handle_modal.profile_handle_is_available": {
+        "string": "''{profileHandle}''は利用可能です!"
+    },
+    "community.change_profile_handle_modal.profile_handle_requirements": {
+        "string": "最大15文字(アルファベット・数字・_)"
+    },
+    "community.change_profile_handle_modal.profile_handle_taken": {
+        "string": "''{profileHandle}''は使用されています。別のものを選択してください。"
+    },
+    "community.change_profile_handle_modal.resend_email": {
+        "string": "メールを再送信"
+    },
+    "community.change_profile_handle_modal.review_our_community_guidelines_link": {
+        "string": "コミュニティガイドラインを確認する"
+    },
+    "community.change_profile_handle_modal.sent_email": {
+        "string": "{email}にリンクを送信しました。リンクをクリックしてから、ここに戻ってプロフィールハンドルを要求してください!"
+    },
+    "community.change_profile_handle_modal.to_like_comment_follow_or_publish_please_create_a_community_profile": {
+        "string": "いいね、コメント、フォロー、公開するには、コミュニティプロフィールを作成してください。"
+    },
+    "community.change_profile_handle_modal.verify_email_prompt": {
+        "string": "Figmaのコミュニティに参加するには、最初にメールを確認する必要があります。"
+    },
+    "community.change_profile_handle_modal.view_profile": {
+        "string": "プロフィールを表示"
+    },
+    "community.change_profile_handle_modal.welcome_to_figma_community": {
+        "string": "Figmaコミュニティへようこそ!"
+    },
+    "community.community_account_settings.address_details_error": {
+        "string": "住所の詳細をアップロードするときに問題が発生しました。ページの再読み込みをして、もう一度お試しください。"
+    },
+    "community.community_account_settings.address_details_success": {
+        "string": "住所の詳細を更新しました"
+    },
+    "community.community_account_settings.change_address": {
+        "string": "住所を変更"
+    },
+    "community.community_account_settings.change_handle": {
+        "string": "ハンドルを変更"
+    },
+    "community.community_account_settings.claim_your_handle": {
+        "string": "ハンドルを要求"
+    },
+    "community.community_account_settings.create_your_public_profile_title": {
+        "string": "公開プロフィールの作成"
+    },
+    "community.community_account_settings.delete_public_profile": {
+        "string": "公開プロフィールを削除"
+    },
+    "community.community_account_settings.display_name": {
+        "string": "表示名"
+    },
+    "community.community_account_settings.join_text": {
+        "string": "Figmaコミュニティに参加して、ファイルとプラグインを公開し、コメントし、メンバーをフォローし、メンバーの投稿にいいねを付けましょう。"
+    },
+    "community.community_account_settings.profile": {
+        "string": "プロフィール"
+    },
+    "community.community_account_settings.public_profile": {
+        "string": "公開プロフィール:"
+    },
+    "community.community_account_settings.unique_handle": {
+        "string": "一意のハンドル"
+    },
+    "community.community_account_settings.vat_gst_id": {
+        "string": "VAT/GST ID: {vatGstId}"
+    },
+    "community.delete_profile_modal.delete_profile_info": {
+        "string": "プロフィールを削除すると、公開しているファイル、プラグイン、いいね、フォローのデータがFigmaコミュニティから削除され、プロフィールハンドルが放棄されます。このアクションは元に戻せません。"
+    },
+    "community.delete_profile_modal.delete_profile_title": {
+        "string": "コミュニティプロフィールを削除"
+    },
+    "community.email_settings.comments_left_on_my_published_resources": {
+        "string": "公開のリソースに残されたコメント"
+    },
+    "community.email_settings.comments_that_mention_me": {
+        "string": "自分をメンションしているコメント"
+    },
+    "community.email_settings.replies_to_my_comments": {
+        "string": "コメントに回答する"
+    },
+    "community.email_settings.weekly_summary_of_community_engagement_with_my_profile_and_my_published_resources": {
+        "string": "自分のプロフィールと公開リソースに関するコミュニティ参加の毎週の概要"
+    },
+    "community.merge_profile_modal.add_an_account_to_connect": {
+        "string": "アカウントを追加して接続"
+    },
+    "community.merge_profile_modal.cannot_connect_approved_sellers": {
+        "string": "このアカウントはコミュニティでの販売が承認されているため、接続できません。"
+    },
+    "community.merge_profile_modal.choose_your_new_profile_handle": {
+        "string": "新しいプロフィールハンドルを選択"
+    }
+}

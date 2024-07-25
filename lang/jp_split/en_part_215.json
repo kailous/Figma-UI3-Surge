@@ -1,0 +1,152 @@
+{
+    "billing_status.review.org_admin": {
+        "string": "現在{dueDate, date, ::MMMMd}に発行される請求書のレビュー期間中です"
+    },
+    "billing_status.review.workspace_admin.seat_rename": {
+        "string": "{dueDate, date, ::MMMMd}までにシート数をご確認ください"
+    },
+    "billing_status.tax_id.invalid": {
+        "string": "納税者番号を確認できませんでした。請求書を正確に保つため、組織の管理者が納税者番号を再入力する必要があります。"
+    },
+    "billing_status.tax_id.invalid.v2": {
+        "string": "納税者番号を確認できませんでした。この情報を再入力してください。"
+    },
+    "billing_status.unpaid": {
+        "string": "請求書の期限は{dueDate, date, ::MMMMd}です。請求を処理する管理者がすぐに支払う必要があります。"
+    },
+    "default_paid_status_modal.figjam": {
+        "string": "FigJam:"
+    },
+    "default_paid_status_modal.figma_design": {
+        "string": "Figmaデザイン:"
+    },
+    "default_paid_status_modal.updated_default_roles.seat_rename": {
+        "string": "デフォルトのシートタイプを更新しました"
+    },
+    "dev_mode_opt_in.modal.agree": {
+        "string": "同意して続行"
+    },
+    "dev_mode_opt_in.modal.agree_with_seats": {
+        "string": "同意してアップグレード"
+    },
+    "dev_mode_opt_in.modal.description_provision": {
+        "string": "開発モードのベータ期間が終了したため、本日以降、プロビジョニングされる開発者モードシートには{pricingLink}に記載されている開発モードの料金が適用されます。ご利用中の{plan}プランでは、開発モードのユーザーに毎月1人あたり{price}のコストが発生します。シートを新たに追加する場合、それらはすべて現在のサブスクリプションに追加され、Figmaとの現在の契約期間中は継続され、同じ条件(自動更新の条件も含む)が適用されます。次の請求日に、現在のサブスクリプション期間の残りに応じて、アカウントのすべての開発モードの比例配分額が請求されます。他のFigmaサブスクリプションと同様、開発モードシートもトゥルーアップの対象になります。詳細は、{billingLink}をご覧ください。"
+    },
+    "dev_mode_opt_in.modal.description_question": {
+        "string": "開発モードシートはどのようにして請求されますか?"
+    },
+    "dev_mode_opt_in.modal.ent": {
+        "string": "エンタープライズ"
+    },
+    "dev_mode_opt_in.modal.failed_to_agree_to_opt_in": {
+        "string": "条件に同意できませんでした"
+    },
+    "dev_mode_opt_in.modal.guide_to_dev_mode_billing": {
+        "string": "開発モードの料金に関するガイド"
+    },
+    "dev_mode_opt_in.modal.header": {
+        "string": "開発モードのアクセス権の管理を開始"
+    },
+    "dev_mode_opt_in.modal.not_now": {
+        "string": "今はしない"
+    },
+    "dev_mode_opt_in.modal.org": {
+        "string": "ビジネス"
+    },
+    "dev_mode_opt_in.modal.pricing.dev_mode_only.main_text": {
+        "string": "開発モード専用シート"
+    },
+    "dev_mode_opt_in.modal.pricing.dev_mode_only.sub_text": {
+        "string": "開発モードのフルアクセスの権限はデザインシートより小さくなります"
+    },
+    "dev_mode_opt_in.modal.pricing.with_design.main_text": {
+        "string": "フルデザインシート"
+    },
+    "dev_mode_opt_in.modal.pricing.with_design.sub_text": {
+        "string": "Figmaデザインには開発モードが含まれています(追加料金なし)"
+    },
+    "dev_mode_opt_in.modal.subheader": {
+        "string": "この情報の確認後、管理ダッシュボードで開発モードシートを管理できます。チームメンバーへのアクセス権の付与は、次のようにして行うことができます。"
+    },
+    "dev_mode_opt_in.modal.subheader_with_seats": {
+        "string": "開発モードの更新されたサービス利用条件に同意して、申請を承認します。"
+    },
+    "dev_mode_opt_in.modal.upgrade_seats_error": {
+        "string": "{seatCount, plural, other {シートをアップグレードできませんでした}}"
+    },
+    "dev_mode_opt_in.modal.upgraded_seats": {
+        "string": "{seatCount, plural, other {{seatCount}シートをアップグレードしました}}"
+    },
+    "domain_management.add_domain_modal.body_text": {
+        "string": "組織に追加するドメインを入力してください。"
+    },
+    "domain_management.add_domain_modal.confirm_button": {
+        "string": "追加"
+    },
+    "domain_management.add_domain_modal.confirm_button_dc_enabled": {
+        "string": "確認して追加"
+    },
+    "domain_management.add_domain_modal.input_placeholder_text": {
+        "string": "ドメインをコンマで区切って入力します"
+    },
+    "domain_management.add_domain_modal.next_add_domains_header": {
+        "string": "次に、ドメインを追加します"
+    },
+    "domain_management.add_domain_modal.next_add_domains_sub_text": {
+        "string": "DNSレコードの更新が終わったら、追加するドメインを入力します。"
+    },
+    "domain_management.add_domain_modal.title": {
+        "string": "ドメインを追加"
+    },
+    "domain_management.add_domain_modal.update_dns_record_sub_text": {
+        "string": "ドメインを追加するには、事前にこの一意のコードをDNSレコードに追加して所有権を確認する必要があります。{learnMoreLink}"
+    },
+    "domain_management.adding_domains": {
+        "string": "{domainCount, plural, other {ドメインを追加中}}"
+    },
+    "domain_management.column_header.name": {
+        "string": "名前"
+    },
+    "domain_management.column_header.status": {
+        "string": "ステータス"
+    },
+    "domain_management.copy_domains.failed_to_copy": {
+        "string": "ドメインをコピーするには、クリップボードへのアクセス権が必要です"
+    },
+    "domain_management.copy_domains.label": {
+        "string": "{domainCount, plural, other {ドメインをコピー}}"
+    },
+    "domain_management.copy_domains.success": {
+        "string": "{domainCount, plural, other {{domainCount}個のドメインがクリップボードにコピーされました}}"
+    },
+    "domain_management.dns_token.copied": {
+        "string": "コピーしました"
+    },
+    "domain_management.dns_token.copy": {
+        "string": "コピー"
+    },
+    "domain_management.dns_token.failed_to_copy": {
+        "string": "DNSトークンをコピーするためにクリップボードへのアクセスが必要です。"
+    },
+    "domain_management.domain": {
+        "string": "{domainCount, plural, other {ドメイン}}"
+    },
+    "domain_management.domain_capture.body": {
+        "string": "ドメインの既存のFigmaユーザーを{orgName}に自動的に追加します。{learnMoreLink}"
+    },
+    "domain_management.domain_capture.disable_domain_capture": {
+        "string": "ドメインキャプチャーを無効にする"
+    },
+    "domain_management.domain_capture.domain_in_use": {
+        "string": "現在、1つ以上の{orgName}ドメインがすでに別の組織に関連付けられているため、ドメインキャプチャーを有効にできません。サポートが必要な場合は、admin-support@figma.comにご連絡ください。"
+    },
+    "domain_management.domain_capture.enabled_label": {
+        "string": "ドメインキャプチャー:"
+    },
+    "domain_management.domain_capture.enabled_status": {
+        "string": "有効"
+    },
+    "domain_management.domain_capture.error_enabling": {
+        "string": "この組織ではドメインキャプチャーを有効にできません。"
+    }
+}

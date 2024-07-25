@@ -1,0 +1,152 @@
+{
+    "onboarding_pointers.activity_filter_onboarding": {
+        "string": "個々のユーザーのアクティビティーを検索し、日付範囲、イベントタイプ、チームで絞り込みます。"
+    },
+    "onboarding_pointers.got_it": {
+        "string": "了解"
+    },
+    "onboarding_pointers.manage_billing_group_overlay.description": {
+        "string": "ドロップダウンメニューから[{optionName}]を選択し、この請求グループにメンバーを追加します。"
+    },
+    "onboarding_pointers.manage_billing_group_overlay.title": {
+        "string": "請求グループにメンバーを追加"
+    },
+    "onboarding_pointers.member_search_onboarding": {
+        "string": "ユーザーを検索するには、名前またはメールアドレスを入力します。"
+    },
+    "onboarding_pointers.member_upgraded_onboarding": {
+        "string": "ユーザーのアップグレード日をポイントすると、ユーザーのアップグレード方法を簡単に確認できます。"
+    },
+    "onboarding_pointers.multiple_select_onboarding": {
+        "string": "リストですべてのユーザーを選択するか、または{shiftKey}キーを押しながら行をクリックして複数のユーザーを一括で選択します。"
+    },
+    "onboarding_pointers.recent_activity_onboarding.seat_rename": {
+        "string": "ユーザーの最近のアクティビティーと、ユーザーのアップグレード方法(利用可能な場合)を確認するには、ここをクリックします。"
+    },
+    "onboarding_pointers.row_select_onboarding": {
+        "string": "複数のユーザーを同時に選択または選択解除するには、{shiftKey}キーを押しながら別の行をクリックします。"
+    },
+    "onboarding_pointers.shift_key": {
+        "string": "⇧ シフト"
+    },
+    "onboarding_pointers.step_progress": {
+        "string": "{currentStep}/{totalSteps}"
+    },
+    "onboarding_pointers.teams_access_onboarding": {
+        "string": "組織のアクセス権、メンバーであるチーム、オーナーがいないチームに基づいてチームを絞り込みます。"
+    },
+    "org.cost_breakdown.design_seats_figma_design_editor.seat_rename": {
+        "string": "{designSeats, plural, other {デザインシート: {designSeats}}}"
+    },
+    "org.cost_breakdown.dev_mode_seats": {
+        "string": "{quantity, plural, other {開発モード{quantity}シート}}"
+    },
+    "org.cost_breakdown.figjam_seats_fig_jam_editor_seats.seat_rename": {
+        "string": "{figjamSeats, plural, other {FigJamシート: {figjamSeats}}}"
+    },
+    "org.cost_breakdown.invoice_subtotal": {
+        "string": "請求書小計額"
+    },
+    "org.cost_breakdown.price_x_num_seats_x_remaining_months": {
+        "string": "{quantity, plural, other {{price} × {quantity}シート × {remainingMonthsText}}}"
+    },
+    "org.cost_breakdown.projected_subtotal": {
+        "string": "推定小計額"
+    },
+    "org.cost_breakdown.remaining_months_remaining_months": {
+        "string": "残り{remainingMonths}か月"
+    },
+    "org_admin_authority_overlay.description": {
+        "string": "管理者として行うすべての変更が組織全体に適用されます。あなたは、組織を代表して行動する権限があることを表明および保証するものとします。"
+    },
+    "org_admin_authority_overlay.title": {
+        "string": "管理者への注: "
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.button.billing_groups": {
+        "string": "請求書の確認と確定"
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.button.manage_seats": {
+        "string": "シートを管理"
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.button.review_and_finalize_invoice": {
+        "string": "請求書の確認と確定"
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.subtitle": {
+        "string": "[メンバー]タブに移動して新しい有料シートを確認してください"
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.contact_account_manager": {
+        "string": "アカウントマネージャーにお問い合わせください。"
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.renewal.actionable": {
+        "string": "年間更新の請求書が{date}に発行される予定です。"
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.renewal.due": {
+        "string": "組織は、{date}に更新期限を迎えます。"
+    },
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.true_up": {
+        "string": "{date}のトゥルーアップ期間中です"
+    },
+    "org_admin_details.billing_banner.upcoming_invoice.subtitle.true_up.billing_groups.seat_rename": {
+        "string": "請求グループのシートを確認し、確定した後、請求書を確定してください。"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in.enable_button": {
+        "string": "開発モードを有効にする"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in.secondary_text_no_requests": {
+        "string": "メンバーからのアップグレード申請を管理するには、開発モードを有効にしてください。"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in.secondary_text_with_requests": {
+        "string": "開発モードの無料ベータ期間は終了しました。申請を管理するには、組織の開発モードを有効にしてください。"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in.title_no_requests": {
+        "string": "開発モードの無料ベータ期間は終了しました。"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in.title_with_99_plus_requests": {
+        "string": "開発モードの使用を99人以上が申請中"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in.title_with_requests": {
+        "string": "{requestsCount, plural, other {開発モードの使用を{requestsCount}人が申請中}}"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in_success.secondary_text": {
+        "string": "開発モードのアップグレード申請の承認が可能になりました。"
+    },
+    "org_admin_settings.banners.dev_mode_opt_in_success.title": {
+        "string": "開発モードが利用可能です"
+    },
+    "org_admin_settings.billing.billing_groups": {
+        "string": "請求グループ"
+    },
+    "org_admin_settings.billing.billing_groups_empty_text.seat_rename": {
+        "string": "費用を簡単に追跡して管理者を割り当て、メンバーとシートを管理します。{learnMoreLink}"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.badge.new_seats": {
+        "string": "新規: {seats}"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.badge.not_yet_filled": {
+        "string": "空き: {seats}"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.button.cancel": {
+        "string": "キャンセル"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.button.finalize_invoice": {
+        "string": "請求書を確定"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.checkbox": {
+        "string": "確定後は変更できないことを理解しています。確定後に追加するシートは、次の請求書で支払います。"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.disclaimer_minimum_seats": {
+        "string": "契約書で支払うことに同意いただいた最少シート数分をお支払いいただきます。"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.invoice_total": {
+        "string": "請求書合計額"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.num_seats.design": {
+        "string": "{seats, plural, other {デザインシート: {seats}}}"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.num_seats.dev_mode": {
+        "string": "{seats, plural, other {開発モードシート: {seats}}}"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.num_seats.figjam": {
+        "string": "{seats, plural, other {FigJamシート: {seats}}}"
+    }
+}

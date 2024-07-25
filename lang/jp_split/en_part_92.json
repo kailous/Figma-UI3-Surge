@@ -1,0 +1,152 @@
+{
+    "design_systems.libraries_modal.teams_with_libraries": {
+        "string": "ライブラリがあるチーム"
+    },
+    "design_systems.libraries_modal.there_are_no_published_components_or_styles_in_your_team": {
+        "string": "チームに公開済みのコンポーネントまたはスタイルがありません。"
+    },
+    "design_systems.libraries_modal.there_are_no_published_styles_in_your_drafts": {
+        "string": "ドラフトに公開済みのスタイルがありません。"
+    },
+    "design_systems.libraries_modal.this_action_will_remove_all_of_the_components_in_this_file_from_the_library": {
+        "string": "このアクションを実行すると、このファイルのすべてのコンポーネントがライブラリから削除されます。"
+    },
+    "design_systems.libraries_modal.top_teams": {
+        "string": "最も利用しているチーム"
+    },
+    "design_systems.libraries_modal.total": {
+        "string": "合計"
+    },
+    "design_systems.libraries_modal.total_components": {
+        "string": "コンポーネント総数"
+    },
+    "design_systems.libraries_modal.total_instances": {
+        "string": "インスタンス総数"
+    },
+    "design_systems.libraries_modal.total_libraries": {
+        "string": "ライブラリ総数"
+    },
+    "design_systems.libraries_modal.total_styles": {
+        "string": "スタイル総数"
+    },
+    "design_systems.libraries_modal.total_teams": {
+        "string": "チーム総数"
+    },
+    "design_systems.libraries_modal.total_variants": {
+        "string": "バリアント総数"
+    },
+    "design_systems.libraries_modal.ui_kits": {
+        "string": "UIキット"
+    },
+    "design_systems.libraries_modal.unpublish": {
+        "string": "公開を取り消す"
+    },
+    "design_systems.libraries_modal.unpublishing": {
+        "string": "公開を取り消し中"
+    },
+    "design_systems.libraries_modal.updates": {
+        "string": "更新"
+    },
+    "design_systems.libraries_modal.upgrade_to_professional_plan": {
+        "string": "プロフェッショナルプランにアップグレードする"
+    },
+    "design_systems.libraries_modal.used_by": {
+        "string": "使用先"
+    },
+    "design_systems.libraries_modal.used_component": {
+        "string": "使用コンポーネント"
+    },
+    "design_systems.libraries_modal.used_in": {
+        "string": "使用先"
+    },
+    "design_systems.libraries_modal.used_in_this_file": {
+        "string": "このファイルで使用"
+    },
+    "design_systems.libraries_modal.used_style": {
+        "string": "使用されているスタイル"
+    },
+    "design_systems.libraries_modal.user_account_settings": {
+        "string": "ユーザーアカウントの設定"
+    },
+    "design_systems.libraries_modal.variant_name": {
+        "string": "バリアント名"
+    },
+    "design_systems.libraries_modal.workspaces": {
+        "string": "ワークスペース"
+    },
+    "design_systems.libraries_modal.x_changes": {
+        "string": "{numChanges, plural, other {{numChanges}箇所の変更}}"
+    },
+    "design_systems.libraries_modal.x_files_shown_open_teams_and_teams_you_re_on": {
+        "string": "{fileCount, plural, other {{fileCount}ファイルが表示されています(オープンチームおよび参加しているチーム)。}}"
+    },
+    "design_systems.libraries_modal.year": {
+        "string": "年"
+    },
+    "design_systems.libraries_modal.you_can_t_publish_from_branches": {
+        "string": "ブランチからは公開できません。変更を公開するには、最初に変更をメインファイルにマージし、メインファイルから公開します。"
+    },
+    "design_systems.libraries_modal.your_teams": {
+        "string": "自分のチーム"
+    },
+    "design_systems.playground.banner_content": {
+        "string": "現在、プレイグランドで表示しています。ここで変更した内容は、実際のデザインに影響しません。"
+    },
+    "design_systems.playground.banner_header": {
+        "string": "自由にお試しください"
+    },
+    "design_systems.playground.change_background": {
+        "string": "背景を変更"
+    },
+    "design_systems.playground.component_playground": {
+        "string": "コンポーネントのプレイグラウンド"
+    },
+    "design_systems.playground.open_component_in_library": {
+        "string": "ライブラリのコンポーネントに移動"
+    },
+    "design_systems.playground.open_variant_in_library": {
+        "string": "ライブラリのバリアントに移動"
+    },
+    "design_systems.playground.reset_properties": {
+        "string": "プロパティをリセット"
+    },
+    "design_systems.playground.thumbnail_alt": {
+        "string": "プレイグラウンドのサムネイル"
+    },
+    "design_systems.playground.unable_to_load": {
+        "string": "読み込みません"
+    },
+    "design_systems.playground.unable_to_load_help_text": {
+        "string": "問題が発生しました。このウィンドウを閉じ、コンポーネントをもう一度選択してみてください。"
+    },
+    "design_systems.playground.unable_to_load_thumbnail": {
+        "string": "サムネイルを読み込めません"
+    },
+    "design_systems.playground.unable_to_load_thumbnail_help_hext": {
+        "string": "複雑なコンポーネントのサムネイルは表示できないことがあります。"
+    },
+    "design_systems.playground.unable_to_load_while_offline": {
+        "string": "オフラインのときは読み込めません"
+    },
+    "design_systems.playground.unable_to_load_while_offline_help_text": {
+        "string": "コンポーネントのプロパティを表示するには、再接続してください。"
+    },
+    "design_systems.playground.variable_modes_title": {
+        "string": "バリアブルモード"
+    },
+    "design_systems.preset_libraries.tooltip.apple_license_info_v3": {
+        "string": "{appleLicenseLink}に基づいてAppleによりライセンス供与されているUIキット"
+    },
+    "design_systems.preset_libraries.tooltip.apple_license_link": {
+        "string": "Appleデザインリソースの使用許諾契約"
+    },
+    "design_systems.preset_libraries.tooltip.figma_partner": {
+        "string": "この作成者はFigmaパートナーです"
+    },
+    "design_systems.preset_libraries.tooltip.figma_provided": {
+        "string": "Figma提供のUIキットです"
+    },
+    "design_systems.preset_libraries.tooltip.google_license_info_v3": {
+        "string": "{googleLicenseLink}に基づいてGoogleによりライセンス供与されているUIキット"
+    }
+}

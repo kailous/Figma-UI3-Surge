@@ -1,0 +1,152 @@
+{
+    "file_browser.creation_buttons.bring_in_files": {
+        "string": "外部ファイルを取り込む"
+    },
+    "file_browser.creation_buttons.build_and_publish": {
+        "string": "構築と公開"
+    },
+    "file_browser.creation_buttons.design_and_prototype": {
+        "string": "デザインとプロトタイプ"
+    },
+    "file_browser.creation_buttons.disabled_by_organization": {
+        "string": "組織により無効にされています"
+    },
+    "file_browser.creation_buttons.import": {
+        "string": "インポート"
+    },
+    "file_browser.creation_buttons.new_design_file": {
+        "string": "デザインファイルを新規作成"
+    },
+    "file_browser.creation_buttons.new_fig_jam_board": {
+        "string": "FigJamボードを新規作成"
+    },
+    "file_browser.creation_buttons.new_slide_deck": {
+        "string": "スライドデッキを新規作成"
+    },
+    "file_browser.creation_buttons.new_website": {
+        "string": "Webサイトを新規作成"
+    },
+    "file_browser.creation_buttons.present_and_share": {
+        "string": "プレゼンテーションと共有"
+    },
+    "file_browser.creation_buttons.whiteboard_and_jam": {
+        "string": "ホワイトボードと図表"
+    },
+    "file_browser.delete_branch_forever.confirm_text": {
+        "string": "ブランチを完全に削除"
+    },
+    "file_browser.delete_branch_forever.title": {
+        "string": "ブランチを完全に削除しますか?"
+    },
+    "file_browser.delete_forever.warning": {
+        "string": "{fileName}を完全に削除してもよろしいですか?"
+    },
+    "file_browser.delete_project.generic_confirm_label": {
+        "string": "プロジェクトを削除"
+    },
+    "file_browser.delete_project.generic_confirm_text": {
+        "string": "プロジェクト{folderName}とそのファイルが削除されます。プロジェクトは完全に削除されますが、ファイルは、ドラフトの[削除済み]タブから復元できます。"
+    },
+    "file_browser.delete_project.one_file_confirm_label": {
+        "string": "プロジェクトと1ファイルを削除"
+    },
+    "file_browser.delete_project.one_file_confirm_text": {
+        "string": "プロジェクト{folderName}と1つのファイルが削除されます。プロジェクトは完全に削除されますが、ファイルは、ドラフトの[削除済み]タブから復元できます。"
+    },
+    "file_browser.delete_project.plural_files_confirm_label": {
+        "string": "プロジェクトと{numFiles}ファイルを削除"
+    },
+    "file_browser.delete_project.plural_files_confirm_text": {
+        "string": "プロジェクト{folderName}とその{numFiles}ファイルがすべて削除されます。プロジェクトは完全に削除されますが、ファイルは、ドラフトの[削除済み]タブから復元できます。"
+    },
+    "file_browser.delete_project.title": {
+        "string": "プロジェクトとファイルを削除"
+    },
+    "file_browser.draft_delete_modal.async_delete_drafts_scheduled": {
+        "string": "個人のドラフトを削除しています"
+    },
+    "file_browser.draft_delete_modal.async_delete_drafts_scheduled_error": {
+        "string": "個人のドラフトの削除中にエラーが発生しました"
+    },
+    "file_browser.draft_delete_modal.button_delete": {
+        "string": "削除"
+    },
+    "file_browser.draft_delete_modal.button_delete_files": {
+        "string": "{numFiles, plural, other {ファイルを削除}}"
+    },
+    "file_browser.draft_delete_modal.button_permanently_delete_files": {
+        "string": "{numFiles, plural, other {ファイルを完全に削除}}"
+    },
+    "file_browser.draft_delete_modal.draft_deletion_tooltip": {
+        "string": "ドラフトを完全に削除するには、「{deletionString}」を使用します"
+    },
+    "file_browser.draft_delete_modal.header_multiple_files_delete": {
+        "string": "{fileCount}ファイルを完全に削除しますか?"
+    },
+    "file_browser.draft_delete_modal.header_multiple_files_trash": {
+        "string": "{fileCount}個のファイルを削除"
+    },
+    "file_browser.draft_delete_modal.header_single_file_delete": {
+        "string": "{fileName}を完全に削除しますか?"
+    },
+    "file_browser.draft_delete_modal.header_single_file_trash": {
+        "string": "ファイルを削除"
+    },
+    "file_browser.draft_delete_modal.permanently_delete_multiple_drafts": {
+        "string": "{fileCount}個のドラフトを完全に削除しようとしています。この操作を取り消すことはできません。"
+    },
+    "file_browser.draft_delete_modal.permanently_delete_multiple_drafts_confirmation": {
+        "string": "続行するには、「{deletionString}」を使用します。"
+    },
+    "file_browser.draft_delete_modal.permanently_delete_one_draft": {
+        "string": "このドラフトを完全に削除しようとしています。この操作は元に戻せません。続行するには、このドラフトを削除することを確認してください。"
+    },
+    "file_browser.draft_delete_modal.unable_to_delete": {
+        "string": "{maxSize}個を超えるドラフトを同時に削除することはできません"
+    },
+    "file_browser.draft_delete_modal.you_are_about_to_delete_multiple_drafts": {
+        "string": "{fileCount}個のドラフトを削除しようとしています。"
+    },
+    "file_browser.draft_delete_modal.you_are_about_to_delete_single_draft": {
+        "string": "ファイル{fileName}を削除しようとしています。"
+    },
+    "file_browser.draft_delete_modal.you_can_access_drafts_from_deleted_drafts_section": {
+        "string": "{fileCount, plural, other {[移動が必要なドラフト]の[削除済みのドラフト]セクションから後でアクセスできます。}}"
+    },
+    "file_browser.draft_move_confirmation_modal.board": {
+        "string": "ボード"
+    },
+    "file_browser.draft_move_confirmation_modal.file": {
+        "string": "ファイル"
+    },
+    "file_browser.draft_move_confirmation_modal.move_drafts_team_member_substring": {
+        "string": "チームはすぐには請求されません。管理者がいつでも無料シートに戻すことができます。"
+    },
+    "file_browser.draft_move_confirmation_modal.move_drafts_team_owner_substring": {
+        "string": "チームはすぐには請求されません。いつでも自分で無料シートに戻すことができます。"
+    },
+    "file_browser.draft_move_confirmation_modal.move_multiple_drafts_dual_upgrade": {
+        "string": "ドラフトから{draftName}と{pluralizedDraftsRemainingString}を移動すると、{teamName}の有料Figmaデザインシートと有料FigJamシートに変更されます。{roleContextSubstring}"
+    },
+    "file_browser.draft_move_confirmation_modal.move_multiple_drafts_singular_upgrade": {
+        "string": "ドラフトから{draftName}と{pluralizedDraftsRemainingString}を移動すると、{teamName}の有料{seatType}シートに変更されます。{roleContextSubstring}"
+    },
+    "file_browser.draft_move_confirmation_modal.move_one_draft_singular": {
+        "string": "ドラフトからこの{fileTypeMoniker}を移動すると、{teamName}の有料{seatType}シートに変更されます。{roleContextSubstring}"
+    },
+    "file_browser.draft_move_confirmation_modal.pluralized_remaining_drafts": {
+        "string": "{remainingDraftCount, plural, other {他の{remainingDraftCount}ファイル }}"
+    },
+    "file_browser.draft_move_confirmation_modal.seat_type_design": {
+        "string": "Figmaデザイン"
+    },
+    "file_browser.draft_move_confirmation_modal.seat_type_figjam": {
+        "string": "FigJam"
+    },
+    "file_browser.draft_move_modal.a_new_starter_team": {
+        "string": "新規スターターチーム"
+    },
+    "file_browser.draft_move_modal.async_draft_move_scheduled": {
+        "string": "ドラフトを移動しています"
+    }
+}

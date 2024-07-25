@@ -1,0 +1,152 @@
+{
+    "admin_settings.ai.enable_success": {
+        "string": "AI機能をオンにしました"
+    },
+    "admin_settings.ai.features_toggle.description.org": {
+        "string": "組織でのFigmaのAI機能の利用を許可します。{learnMoreLink}"
+    },
+    "admin_settings.ai.features_toggle.description.team": {
+        "string": "チームでのFigmaのAI機能の利用を許可します。{learnMoreLink}"
+    },
+    "admin_settings.ai.features_toggle.label": {
+        "string": "AI機能"
+    },
+    "admin_settings.ai.manage_settings_link": {
+        "string": "AI設定を管理"
+    },
+    "admin_settings.ai.section_title": {
+        "string": "AI"
+    },
+    "admin_settings.ai.section_title.free_in_beta": {
+        "string": "FigmaのAI機能は、ベータ期間中は無料で使用できます"
+    },
+    "whiteboard.ai_cluster.loading_section_base": {
+        "string": "整理しています"
+    },
+    "fullscreen_actions.ai_content_fill.content_generated": {
+        "string": "コンテンツが生成されました(AIベータ)"
+    },
+    "fullscreen_actions.ai_content_fill.generic_error": {
+        "string": "テキストコンテンツを再生成できませんでした。もう一度お試しください。"
+    },
+    "fullscreen_actions.ai_content_fill.magic_handle_hover_tooltip": {
+        "string": "新しいコンテンツで複製します"
+    },
+    "fullscreen_actions.ai_content_fill.magic_handle_hover_tooltip_all_dupes": {
+        "string": "複製"
+    },
+    "fullscreen_actions.ai_content_fill.missing_font": {
+        "string": "フォントがありません。置換できませんでした"
+    },
+    "fullscreen_actions.ai_content_fill.missing_font_visual_bell": {
+        "string": "フォントがないため、テキストの一部を更新できませんでした"
+    },
+    "fullscreen_actions.ai_content_fill.private_beta.share_feedback": {
+        "string": "フィードバックを共有"
+    },
+    "fullscreen_actions.ai_content_fill.prompt_suggestion": {
+        "string": "変更内容の説明を入力します"
+    },
+    "fullscreen_actions.ai_content_fill.replace_content": {
+        "string": "コンテンツを置換"
+    },
+    "fullscreen_actions.ai_content_fill.rewrite_duplicates": {
+        "string": "複製したテキストをリライトしますか"
+    },
+    "fullscreen_actions.ai_content_fill.select_a_stack_of_repeating_frames": {
+        "string": "繰り返し使用されるフレームのスタックを選択してください"
+    },
+    "fullscreen_actions.ai_content_fill.visual_bell_suggestion": {
+        "string": "候補"
+    },
+    "ai.accept": {
+        "string": "承諾"
+    },
+    "ai.cancel": {
+        "string": "キャンセル"
+    },
+    "ai.done": {
+        "string": "完了!"
+    },
+    "ai.error.content_length_limit": {
+        "string": "選択範囲を小さくして、もう一度お試しください"
+    },
+    "ai.error.generic": {
+        "string": "問題が発生しました"
+    },
+    "ai.error.no_layers_selected": {
+        "string": "レイヤーが選択されていません"
+    },
+    "ai.error.offline": {
+        "string": "接続できませんでした"
+    },
+    "ai.error.rate_limited": {
+        "string": "時間あたりの使用回数制限を超えました"
+    },
+    "ai.error.unsafe_or_harmful": {
+        "string": "ブロックされました。入力内容を変えてお試しください。"
+    },
+    "ai.go_back": {
+        "string": "戻る"
+    },
+    "ai.keep_it": {
+        "string": "変更を採用"
+    },
+    "ai.learn_more": {
+        "string": "詳細情報"
+    },
+    "ai.limit_reached": {
+        "string": "{resetDate, date, medium}まで利用できません"
+    },
+    "ai.make_changes": {
+        "string": "変更する"
+    },
+    "ai.make_it": {
+        "string": "実行する"
+    },
+    "ai.n_selected": {
+        "string": "{n}個選択済み"
+    },
+    "ai.ok": {
+        "string": "OK"
+    },
+    "ai.preview": {
+        "string": "プレビュー"
+    },
+    "ai.replacing": {
+        "string": "置き換えています..."
+    },
+    "ai.review": {
+        "string": "確認"
+    },
+    "ai.rewrite": {
+        "string": "リライト"
+    },
+    "ai.rewriting": {
+        "string": "リライトしています..."
+    },
+    "ai.stop": {
+        "string": "停止"
+    },
+    "ai.try_again": {
+        "string": "もう一度試す"
+    },
+    "ai.undo": {
+        "string": "元に戻す"
+    },
+    "ai.working": {
+        "string": "作業中..."
+    },
+    "ai_iamge_tools.generate.placeholder.sushi": {
+        "string": "接近して: 完璧な巻き方のすし"
+    },
+    "ai_image_tools.blocked": {
+        "string": "著作権で保護されたコンテンツのためブロックされました。"
+    },
+    "ai_image_tools.generate.label.abstract": {
+        "string": "抽象的"
+    },
+    "ai_image_tools.generate.label.architecture": {
+        "string": "建造物"
+    }
+}

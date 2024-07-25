@@ -1,0 +1,152 @@
+{
+    "org_settings.public_link_sharing.dont_allow_public_links": {
+        "string": "公開リンクを許可しない"
+    },
+    "org_settings.public_link_sharing.success": {
+        "string": "公開リンク共有設定を更新しました"
+    },
+    "org_settings.remove_user_modal.button": {
+        "string": "削除"
+    },
+    "org_settings.remove_user_modal.confirmation_checkbox_text": {
+        "string": "このアクションは元に戻せないことを理解しています"
+    },
+    "org_settings.remove_user_modal.downgrade_instead": {
+        "string": "{userCount, plural, other {これらのユーザーはまだ削除できませんか? {viewerRestricted}シートが空いていますが、アップグレードには管理者の承認が必要です。}}"
+    },
+    "org_settings.remove_user_modal.information_text": {
+        "string": "{userCount, plural, other {これらのユーザーのドラフトは{sharedProjects}にあり、移動や削除は組織管理者が行うことができます。}}"
+    },
+    "org_settings.remove_user_modal.shared_projects": {
+        "string": "共有プロジェクト"
+    },
+    "org_settings.remove_user_modal.title.guests_only_text": {
+        "string": "{userCount, plural, other {組織からこれらのゲストを削除しますか?}}"
+    },
+    "org_settings.remove_user_modal.title.users_only_text": {
+        "string": "{userCount, plural, other {組織からこれらのユーザーを削除しますか?}}"
+    },
+    "org_settings.remove_user_modal.users_and_guests_text": {
+        "string": "{userCount, plural, other {組織からこれらのユーザーとゲストを削除しますか?}}"
+    },
+    "org_settings.remove_user_modal.viewer_restricted": {
+        "string": "限定閲覧者"
+    },
+    "org_settings.remove_user_modal.warning_no_username_text": {
+        "string": "{userCount, plural, other {これらのユーザーを削除すると、{orgName}組織内のチーム、プロジェクト、ファイルにアクセスできなくなります。この操作は元に戻せません。}}"
+    },
+    "org_settings.remove_user_modal.warning_text": {
+        "string": "{userCount, plural, other {これらのユーザーを削除すると、{orgName}組織内のチーム、プロジェクト、ファイルにアクセスできなくなります。この操作は元に戻せません。}}"
+    },
+    "org_settings.scim.api_token": {
+        "string": "APIトークン"
+    },
+    "org_settings.scim.api_token_generated_at": {
+        "string": "{timestamp}に生成"
+    },
+    "org_settings.scim.generate_api_token": {
+        "string": "APIトークンを生成"
+    },
+    "org_settings.scim.i_understand_that_this_is_the_only_time_i_will_see_this_token": {
+        "string": "以後はトークンが表示されないことを理解し、トークンを安全な場所にコピーしました。"
+    },
+    "org_settings.scim.revoke_access": {
+        "string": "アクセスを取り消す"
+    },
+    "org_settings.scim.revoke_token_access": {
+        "string": "トークンへのアクセスを取り消す.."
+    },
+    "org_settings.scim.revoke_token_access_title": {
+        "string": "トークンへのアクセスを取り消す"
+    },
+    "org_settings.scim.revoke_token_confirmation": {
+        "string": "APIトークンを使用して実行されるAPIリクエストはすべて{willBeDenied}ことを理解しています。"
+    },
+    "org_settings.scim.saml_sso_must_be_configured": {
+        "string": "SAML SSOを設定する必要があります"
+    },
+    "org_settings.scim.scim_description": {
+        "string": "SCIMにより、ユーザーを自動的に更新、プロビジョニング、プロビジョニング解除できます。詳しくは{helpArticle}を参照してください。"
+    },
+    "org_settings.scim.scim_group_description": {
+        "string": "SCIMを使用すると、ユーザーの更新、プロビジョニング、プロビジョニング解除を自動で行うことができます。SCIMを使って、請求グループやワークスペースへのユーザー割り当て、ユーザーのライセンスの管理を行います。詳細は、こちらの{helpArticle}を参照してください。"
+    },
+    "org_settings.scim.scim_provisioning": {
+        "string": "SCIMプロビジョニング"
+    },
+    "org_settings.scim.will_be_denied": {
+        "string": "拒否されます"
+    },
+    "org_settings.scim.your_provisioning_api_token": {
+        "string": "プロビジョニングAPIトークン"
+    },
+    "org_settings.sign_in_method.any": {
+        "string": "メンバーは、メールとパスワード{default}などの利用可能な方法を使ってログインできます"
+    },
+    "org_settings.sign_in_method.authentication": {
+        "string": "認証"
+    },
+    "org_settings.sign_in_method.change_log_in": {
+        "string": "ログインを変更"
+    },
+    "org_settings.sign_in_method.default": {
+        "string": "(デフォルト)"
+    },
+    "org_settings.sign_in_method.done": {
+        "string": "完了"
+    },
+    "org_settings.sign_in_method.i_understand_that_members_must_log_in_with_label_after_confirming": {
+        "string": "確認後はメンバーが{label}を使用してログインする必要があることを理解しています。"
+    },
+    "org_settings.sign_in_method.members_must_log_in_with_a_google_account": {
+        "string": "メンバーはGoogleアカウントでログインする必要があります"
+    },
+    "org_settings.sign_in_method.members_must_log_in_with_saml_sso": {
+        "string": "メンバーはSAML SSOでログインする必要があります"
+    },
+    "org_settings.sign_in_method.you_need_to_configure_saml_sso_first": {
+        "string": "最初にSAML SSOを設定する必要があります"
+    },
+    "org_settings.sso.an_error_occurred_while_configuring_saml_sso": {
+        "string": "SAML SSOの設定中にエラーが発生しました。"
+    },
+    "org_settings.sso.azure": {
+        "string": "Azure"
+    },
+    "org_settings.sso.configure_saml_sso": {
+        "string": "SAML SSOを設定"
+    },
+    "org_settings.sso.contact_support": {
+        "string": "サポートにお問い合わせください"
+    },
+    "org_settings.sso.copied": {
+        "string": "コピーされました!"
+    },
+    "org_settings.sso.copy": {
+        "string": "コピー"
+    },
+    "org_settings.sso.domain_requirement": {
+        "string": "SAML SSOユーザーのメールドメインは{domains}と一致している必要があります。別のドメインを追加するには、{contactSupport}してください。"
+    },
+    "org_settings.sso.done": {
+        "string": "完了"
+    },
+    "org_settings.sso.edit": {
+        "string": "編集"
+    },
+    "org_settings.sso.edit_configuration": {
+        "string": "設定を編集"
+    },
+    "org_settings.sso.google": {
+        "string": "Google"
+    },
+    "org_settings.sso.help_article": {
+        "string": "ヘルプ記事"
+    },
+    "org_settings.sso.id_p_metadata_url": {
+        "string": "IdPメタデータURL"
+    },
+    "org_settings.sso.identity_provider_id_p": {
+        "string": "IDプロバイダー(IdP)"
+    }
+}

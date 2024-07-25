@@ -1,0 +1,152 @@
+{
+    "collaboration.voice.new_transcripts": {
+        "string": "↓ 新しいトランスクリプト"
+    },
+    "collaboration.voice.playback_device_not_found": {
+        "string": "再生デバイスが見つかりません"
+    },
+    "collaboration.voice.poor_connection_warning": {
+        "string": "接続状態が良くありません。インターネット接続をチェックするか、会議からいったん離れて、参加しなおしてください。"
+    },
+    "collaboration.voice.setting_up_closed_captions_install_progress": {
+        "string": "クローズドキャプションを設定中... {installProgress}% "
+    },
+    "collaboration.voice.settings": {
+        "string": "設定"
+    },
+    "collaboration.voice.small": {
+        "string": "小"
+    },
+    "collaboration.voice.something_went_wrong_try_again": {
+        "string": "問題が発生しました。もう一度お試しください。"
+    },
+    "collaboration.voice.speaker_volume_too_low_warning": {
+        "string": "スピーカーまたはヘッドフォンのボリュームが小さくなっています。デバイスを切り替えてみてください。"
+    },
+    "collaboration.voice.speakers": {
+        "string": "スピーカー"
+    },
+    "collaboration.voice.start_conversation": {
+        "string": "会話を開始"
+    },
+    "collaboration.voice.text_size": {
+        "string": "テキストサイズ"
+    },
+    "collaboration.voice.things_got_quiet_for_awhile_so_we_ended_the_conversation": {
+        "string": "しばらく発言がなかったので、会話を終了しました。"
+    },
+    "collaboration.voice.to_use_audio_in_this_file_move_it_to_a_team_on_one_of_our_paid_plans": {
+        "string": "このファイルの音声を使用するには、いずれかの有料プランでチームに移動します。"
+    },
+    "collaboration.voice.want_to_unmute_click_the_mic": {
+        "string": "ミュート解除しますか? マイクをクリックしてください。"
+    },
+    "collaboration.voice.x_large": {
+        "string": "特大"
+    },
+    "collaboration.voice.you": {
+        "string": "あなた"
+    },
+    "comments.accessibility_reply_added": {
+        "string": "返信が追加されました"
+    },
+    "comments.add_a_comment": {
+        "string": "コメントを追加"
+    },
+    "comments.add_description": {
+        "string": "説明を追加"
+    },
+    "comments.add_emoji": {
+        "string": "絵文字を追加"
+    },
+    "comments.add_mention": {
+        "string": "メンションを追加"
+    },
+    "comments.add_reaction": {
+        "string": "リアクションを追加"
+    },
+    "comments.alt_text": {
+        "string": "altテキスト"
+    },
+    "comments.alt_text_label": {
+        "string": "altテキスト:"
+    },
+    "comments.an_error_occurred": {
+        "string": "エラーが発生しました"
+    },
+    "comments.an_error_occurred_while_adding_a_comment_reaction": {
+        "string": "コメントリアクションの追加中にエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_deleting_this_comment": {
+        "string": "このコメントの削除中にエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_editing_this_comment": {
+        "string": "このコメントの編集中にエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_marking_a_comment_as_read": {
+        "string": "コメントを既読としてマークしているときにエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_marking_a_comment_as_unread": {
+        "string": "コメントを未読としてマークしているときにエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_moving_this_comment": {
+        "string": "このコメントの移動中にエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_removing_a_comment_reaction": {
+        "string": "コメントリアクションの削除中にエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_resolving_this_comment": {
+        "string": "このコメントの解決中にエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_toggling_a_comment_reaction": {
+        "string": "コメントリアクションの切り替え中にエラーが発生しました。"
+    },
+    "comments.an_error_occurred_while_unresolving_this_comment": {
+        "string": "このコメントの解決中にエラーが発生しました。"
+    },
+    "comments.are_you_sure_you_want_to_delete_this_comment_this_action_cannot_be_undone": {
+        "string": "このコメントを削除しますか? このアクションは元に戻せません。"
+    },
+    "comments.aria_label_select_comment": {
+        "string": "コメントを選択"
+    },
+    "comments.at_mention": {
+        "string": "@"
+    },
+    "comments.attachment_count": {
+        "string": "{attachmentCount, plural, other {{attachmentCount}個の画像}}"
+    },
+    "comments.attachment_default_name": {
+        "string": "attachment.{fileExtension}"
+    },
+    "comments.attachment_thumbnail_alt_text_default": {
+        "string": "アップロードしたメディアファイルのサムネイル"
+    },
+    "comments.cancel": {
+        "string": "キャンセル"
+    },
+    "comments.cancel_post_and_share": {
+        "string": "キャンセル"
+    },
+    "comments.cant_view_this_comment": {
+        "string": "{numUsers, plural, other {{numUsers}人がこのコメントを表示できません}}"
+    },
+    "comments.close": {
+        "string": "コメントを閉じる"
+    },
+    "comments.close_sidebar": {
+        "string": "コメントサイドバーを閉じる"
+    },
+    "comments.comment_actions": {
+        "string": "コメントのアクション"
+    },
+    "comments.comment_n": {
+        "string": "コメント"
+    },
+    "comments.comment_notifications": {
+        "string": "コメント通知"
+    },
+    "comments.comment_resolved": {
+        "string": "コメントを解決しました"
+    }
+}

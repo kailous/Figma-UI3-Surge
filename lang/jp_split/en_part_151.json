@@ -1,0 +1,152 @@
+{
+    "subscription.error.team_is_not_subscribed": {
+        "string": "チームのサブスクリプションがありません"
+    },
+    "subscription.error.team_not_paid_team": {
+        "string": "このチームは有料チームではありません。"
+    },
+    "subscription.error.the_currency_entered_is_not_supported": {
+        "string": "入力した通貨はサポートされていません"
+    },
+    "subscription.error.this_cards_currency_isnt_in_please_choose_a_new_payment_method": {
+        "string": "このカードの通貨は{selected_currency}ではありません。新しい支払い方法を選ぶか、通貨を切り替えてください。"
+    },
+    "subscription.error.upgrade_team_must_have_at_least_one_editor": {
+        "string": "チームをアップグレードするには1人以上の編集者が必要です"
+    },
+    "subscription.error.upgrade_team_must_have_at_least_one_editor.seat_rename": {
+        "string": "チームをアップグレードするには、1人分以上の有料シートを追加してください"
+    },
+    "subscription.error.you_can_only_reactive_your_team_subscription_in": {
+        "string": "{currency}でのみチームのサブスクリプションを再度アクティブにすることができます。{currency}であなたの支払情報が機能することを確認してください。"
+    },
+    "subscription.error.you_cannot_change_your_card_at_this_time_please_contact_support": {
+        "string": "現在、カードを変更できません。サポートにお問い合わせください。"
+    },
+    "subscription.error.your_payment_method_address_cant_pay_selected_currency": {
+        "string": "支払い方法の住所の国は{selected_currency}でのお支払いができません。別の支払い方法を使用するか、米ドルに切り替えてください。"
+    },
+    "subscription.error.your_payment_method_address_is_different_from_your_location": {
+        "string": "支払い方法の住所の国が所在地と異なります。別の支払い方法を使用してください。"
+    },
+    "sites.new-layout-set-name": {
+        "string": "Webページ"
+    },
+    "design_systems.states_panel.default_property_name": {
+        "string": "プロパティ{index}"
+    },
+    "design_systems.states_panel.default_property_value_indexed": {
+        "string": "バリアント{index}"
+    },
+    "design_systems.states_panel.custom_property_value_indexed": {
+        "string": "{propertyName}{index}"
+    },
+    "tax.vat.invalid_vat_gst": {
+        "string": "VAT/GST IDが無効です"
+    },
+    "tax.vat.invalid_vat_gst_format": {
+        "string": "VAT/GST IDの形式が無効です"
+    },
+    "tax.vat.unsupported_vat_gst_country": {
+        "string": "VAT/GSTがサポートされていない国です"
+    },
+    "templates.sinatra.file.template_image_not_found": {
+        "string": "テンプレート画像が見つかりません"
+    },
+    "templates.sinatra.file.template_image_too_large": {
+        "string": "テンプレート画像が最大サイズを超えています"
+    },
+    "templates.sinatra.invalid_signature": {
+        "string": "無効な署名です"
+    },
+    "external_collaboration_restricted.banner.export_file": {
+        "string": "ファイルをエクスポート"
+    },
+    "external_collaboration_restricted.banner.restriction_description": {
+        "string": "管理者設定により、{organizationName}の外部からファイル(外部チーム内のファイルを含む)を編集することはできません。編集を続行するには、ファイルを別のアカウントにエクスポートしてください。"
+    },
+    "external_collaboration_restricted.banner.restriction_description.no_org": {
+        "string": "管理者設定により、組織の外部からファイル(外部チーム内のファイルを含む)を編集することはできません。編集を続行するには、ファイルを別のアカウントにエクスポートしてください。"
+    },
+    "external_collaboration_restricted.banner.title": {
+        "string": "編集はロックされています"
+    },
+    "external_collaboration_restricted.description": {
+        "string": "組織のメンバーが{orgName}以外のファイル、プロジェクト、チーム、組織への招待を承諾することは許可されていません。ご質問がございましたら、組織の管理者にお問い合わせください。"
+    },
+    "external_collaboration_restricted.go_back": {
+        "string": "メインページに移動"
+    },
+    "external_collaboration_restricted.header": {
+        "string": "このコンテンツは利用できません"
+    },
+    "external_collaboration_restricted.members.tooltip.v2": {
+        "string": "このゲストはアップグレードできません。{eccDomain}では、組織のアクセスを外部コンテンツに限定しています。"
+    },
+    "external_page.try_figjam.blog": {
+        "string": "ブログ"
+    },
+    "external_page.try_figjam.careers": {
+        "string": "採用情報"
+    },
+    "external_page.try_figjam.contact": {
+        "string": "お問い合わせ"
+    },
+    "external_page.try_figjam.developers": {
+        "string": "開発者"
+    },
+    "external_page.try_figjam.downloads": {
+        "string": "ダウンロード"
+    },
+    "external_page.try_figjam.education": {
+        "string": "エデュケーション"
+    },
+    "external_page.try_figjam.enterprise": {
+        "string": "エンタープライズ"
+    },
+    "external_page.try_figjam.fig_jam": {
+        "string": "FigJam"
+    },
+    "external_page.try_figjam.learn": {
+        "string": "調べる"
+    },
+    "external_page.try_figjam.legal": {
+        "string": "法的通知"
+    },
+    "external_page.try_figjam.pricing": {
+        "string": "価格"
+    },
+    "external_page.try_figjam.releases": {
+        "string": "リリース"
+    },
+    "external_page.try_figjam.security": {
+        "string": "セキュリティ"
+    },
+    "fake_mp.modal.apply": {
+        "string": "適用"
+    },
+    "fake_mp.modal.center": {
+        "string": "中央"
+    },
+    "fake_mp.modal.center_x": {
+        "string": "X"
+    },
+    "fake_mp.modal.center_y": {
+        "string": "Y"
+    },
+    "fake_mp.modal.clients": {
+        "string": "クライアント数"
+    },
+    "fake_mp.modal.cursors": {
+        "string": "カーソルの移動"
+    },
+    "fake_mp.modal.frequency": {
+        "string": "更新の頻度"
+    },
+    "fake_mp.modal.reset": {
+        "string": "リセット"
+    },
+    "fake_mp.modal.steps": {
+        "string": "アニメーションのコマ数"
+    }
+}

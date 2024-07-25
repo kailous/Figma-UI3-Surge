@@ -1,0 +1,152 @@
+{
+    "org_admin_settings.billing.finalize_invoice_modal.subtitle": {
+        "string": "誤りがないことをご確認ください"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.title.annual": {
+        "string": "年間請求書を確定"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.title.true_up": {
+        "string": "トゥルーアップ請求書を確定"
+    },
+    "org_admin_settings.billing.invoices": {
+        "string": "請求書"
+    },
+    "org_admin_settings.billing.no_billing_groups_yet": {
+        "string": "請求グループはまだありません"
+    },
+    "org_admin_settings.billing_banner.details.upcoming_invoice": {
+        "string": "次の請求書の発行日は{date}です"
+    },
+    "org_admin_settings.billing_banner.details.upcoming_invoice.not_actionable": {
+        "string": "次の請求書は{date}のトゥルーアップ期間に基づいて発行されます。"
+    },
+    "org_admin_settings.billing_banner.finalized_invoice.design_seat_quantity": {
+        "string": "{quantityAdded, plural, other {デザインシート: {quantityAdded}}}"
+    },
+    "org_admin_settings.billing_banner.finalized_invoice.dev_mode_seat_quantity": {
+        "string": "{quantityAdded, plural, other {開発モードシート: {quantityAdded}}}"
+    },
+    "org_admin_settings.billing_banner.finalized_invoice.figjam_seat_quantity": {
+        "string": "{quantityAdded, plural, other {FigJamシート: {quantityAdded}}}"
+    },
+    "org_admin_settings.billing_banner_figjam.due_date_message": {
+        "string": "{dueDate}の請求書が発行されました。この請求書の支払期限は、{pastDueDate}までの{differenceDays}日間です。{payInvoiceLink}"
+    },
+    "org_admin_settings.billing_banner_figjam.finalized_renewal.template": {
+        "string": "{seatCountsText}で更新を確定しました。"
+    },
+    "org_admin_settings.billing_banner_figjam.finalized_trueup_invoice.seat_rename.template": {
+        "string": "{seatCountsText}で{date}付の請求書を確定しました。"
+    },
+    "org_admin_settings.billing_banner_figjam.invoice_overdue": {
+        "string": "{dueDate}の請求書(金額: {amount})の支払期限を超過しています。支払手続きを行ってください。{payInvoiceLink}"
+    },
+    "org_admin_settings.billing_banner_figjam.pay_invoice": {
+        "string": "請求書を支払う"
+    },
+    "org_admin_settings.billing_banner_figjam.you_have_a_credit_amount": {
+        "string": "{accountCredit}クレジットが次の請求に適用されます。"
+    },
+    "org_admin_settings.billing_details.billing_contact_updated": {
+        "string": "請求連絡先が更新されました"
+    },
+    "org_admin_settings.billing_details.successfully_updated_your_payment_source": {
+        "string": "支払い元が更新されました。"
+    },
+    "org_admin_settings.compliance_center_description": {
+        "string": "管理者はFigmaコンプライアンスハブにアクセスして、Figmaのコンプライアンス文書やよくある質問に対する回答にアクセスできます。"
+    },
+    "org_admin_settings.compliance_center_label": {
+        "string": "コンプライアンスハブ"
+    },
+    "org_admin_settings.cost_breakdown.12_months": {
+        "string": "12か月"
+    },
+    "org_admin_settings.cost_breakdown.annual_subscription": {
+        "string": "年間サブスクリプション"
+    },
+    "org_admin_settings.cost_breakdown.cost_breakdown_string_double": {
+        "string": "{cost} × {seats}"
+    },
+    "org_admin_settings.cost_breakdown.cost_breakdown_string_triple": {
+        "string": "{cost} × {seats} × {numMonths}"
+    },
+    "org_admin_settings.cost_breakdown.date": {
+        "string": "日付"
+    },
+    "org_admin_settings.cost_breakdown.description": {
+        "string": "説明"
+    },
+    "org_admin_settings.cost_breakdown.design_editor_seats.seat_rename": {
+        "string": "デザインシート"
+    },
+    "org_admin_settings.cost_breakdown.design_seats_annual_annual_design_editor_seats.seat_rename": {
+        "string": "{designSeatsAnnual, plural, other {{designSeatsAnnual}人分の年間デザインシート}}"
+    },
+    "org_admin_settings.cost_breakdown.design_seats_monthly_cotermed_design_editor_seats.seat_rename": {
+        "string": "{seatsCotermed, plural, other {{seatsCotermed}人分の月間デザインシートを年間シートにアップグレード}}"
+    },
+    "org_admin_settings.cost_breakdown.design_seats_monthly_monthly_design_editor_seats.seat_rename": {
+        "string": "{designSeatsMonthly, plural, other {{designSeatsMonthly}人分の月間デザインシート}}"
+    },
+    "org_admin_settings.cost_breakdown.fig_jam_editor_seats.seat_rename": {
+        "string": "FigJamシート"
+    },
+    "org_admin_settings.cost_breakdown.free_for_2021": {
+        "string": "2021年は無料"
+    },
+    "org_admin_settings.cost_breakdown.invoices": {
+        "string": "請求書"
+    },
+    "org_admin_settings.cost_breakdown.mmmm_dd_yyyy": {
+        "string": "{date, date, long}"
+    },
+    "org_admin_settings.cost_breakdown.overdue": {
+        "string": "期限超過"
+    },
+    "org_admin_settings.cost_breakdown.paid": {
+        "string": "支払い済み"
+    },
+    "org_admin_settings.cost_breakdown.pay_invoice": {
+        "string": "請求書を支払う"
+    },
+    "org_admin_settings.cost_breakdown.quarterly_true_up": {
+        "string": "四半期のトゥルーアップ"
+    },
+    "org_admin_settings.cost_breakdown.seats": {
+        "string": "{seats, plural, other {{seats}シート}}"
+    },
+    "org_admin_settings.cost_breakdown.status": {
+        "string": "ステータス"
+    },
+    "org_admin_settings.cost_breakdown.subtotal": {
+        "string": "小計"
+    },
+    "org_admin_settings.cost_breakdown.total": {
+        "string": "合計"
+    },
+    "org_admin_settings.cost_breakdown.unpaid": {
+        "string": "未払い"
+    },
+    "org_admin_settings.cost_breakdown.view_invoice": {
+        "string": "請求書を表示"
+    },
+    "org_admin_settings.cost_breakdown.whiteboard_seats_annual_annual_fig_jam_editor_seats.seat_rename": {
+        "string": "{whiteboardSeatsAnnual, plural, other {{whiteboardSeatsAnnual}人分の年間FigJamシート}}"
+    },
+    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_cotermed_whiteboard_editor_seats.seat_rename": {
+        "string": "{seatsCotermed, plural, other {{seatsCotermed}人分の月間FigJamシートを年間シートにアップグレード}}"
+    },
+    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_monthly_fig_jam_editor_seats.seat_rename": {
+        "string": "{whiteboardSeatsMonthly, plural, other {{whiteboardSeatsMonthly}人分の月間FigJamシート}}"
+    },
+    "org_admin_settings.enterprise_installer_confirmation": {
+        "string": "ダウンロード"
+    },
+    "org_admin_settings.enterprise_installer_description": {
+        "string": "FigmaのWindows PC用インストーラー(MSI)をダウンロード"
+    },
+    "org_admin_settings.enterprise_installer_description_mac": {
+        "string": "FigmaのmacOS用インストーラー(PKG)をダウンロード"
+    }
+}

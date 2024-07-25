@@ -1,0 +1,152 @@
+{
+    "design_systems.preset_libraries.tooltip.google_license_link": {
+        "string": "CC BY 4.0"
+    },
+    "design_systems.internal_community_library_mode_label": {
+        "string": "(Internal) Community library mode"
+    },
+    "design_systems.internal_community_library_unpublish": {
+        "string": "(Internal) Unpublish community library"
+    },
+    "design_systems.internal_community_unpublish_warning": {
+        "string": "Unpublishing the Community library will prevent its assets from being seen in all asset consumption surfaces! If this is a UI kit, it will impact all Figma users. Be sure you want to do this."
+    },
+    "design_systems.publish_actions.cant_publish": {
+        "string": "オフラインでは公開できません"
+    },
+    "design_systems.publish_actions.cant_unpublish": {
+        "string": "オフラインでは公開取り消しできません"
+    },
+    "design_systems.publish_actions.payload_too_large": {
+        "string": "ページ、フレーム、またはアセットの名前が長すぎます。短い名前でやり直してください。"
+    },
+    "design_systems.publish_actions.publish_error": {
+        "string": "{numSkipped, plural, other {チームライブラリに{numSkipped}件の変更を公開できませんでした}}"
+    },
+    "design_systems.publish_actions.publish_failed": {
+        "string": "公開できませんでした: {reason}"
+    },
+    "design_systems.publish_actions.publish_success": {
+        "string": "ライブラリの更新が公開されました"
+    },
+    "design_systems.publish_actions.publishing_library": {
+        "string": "ライブラリを公開中"
+    },
+    "design_systems.publish_actions.reload": {
+        "string": "公開するにはページを再読み込みしてください。"
+    },
+    "design_systems.publish_actions.retry": {
+        "string": "再試行"
+    },
+    "design_systems.publish_actions.savepoint_for_publish": {
+        "string": "コンポーネント公開"
+    },
+    "design_systems.publish_actions.savepoint_for_publish_slides": {
+        "string": "テンプレート公開"
+    },
+    "design_systems.publish_actions.savepoint_for_unpublish": {
+        "string": "コンポーネント公開取り消し"
+    },
+    "design_systems.publish_actions.savepoint_for_unpublish_slides": {
+        "string": "テンプレート公開取り消し"
+    },
+    "design_systems.publish_actions.unpublish_error": {
+        "string": "{numSkipped, plural, other {チームライブラリから{numSkipped}件の変更の公開を取り消すことができませんでした}}"
+    },
+    "design_systems.publish_actions.unpublish_failed": {
+        "string": "公開取り消しできませんでした: {reason}"
+    },
+    "design_systems.publish_actions.unpublish_success": {
+        "string": "ライブラリの公開が取り消されました"
+    },
+    "design_systems.publish_actions.unpublishing_library": {
+        "string": "ライブラリの公開を取り消し中"
+    },
+    "design_systems.publish_actions.validations_contact": {
+        "string": "お問い合わせ"
+    },
+    "design_systems.publish_actions.validations_failed": {
+        "string": "コンテンツを公開できません。Figmaにお問い合わせください。"
+    },
+    "design_systems.publish_error.generic": {
+        "string": "公開処理中に問題が発生しました。もう一度お試しください"
+    },
+    "design_systems.publishing_modal.added": {
+        "string": "追加済み"
+    },
+    "design_systems.publishing_modal.assembling_components_styles_and_variables": {
+        "string": "コンポーネント、スタイル、バリアブルを準備しています"
+    },
+    "design_systems.publishing_modal.asset_cannot_be_published": {
+        "string": "アセットは公開できません"
+    },
+    "design_systems.publishing_modal.back": {
+        "string": "戻る"
+    },
+    "design_systems.publishing_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "design_systems.publishing_modal.changes_header_with_count": {
+        "string": "変更{countString}"
+    },
+    "design_systems.publishing_modal.components": {
+        "string": "コンポーネント"
+    },
+    "design_systems.publishing_modal.conflicting_property_names": {
+        "string": "プロパティ名が競合しています"
+    },
+    "design_systems.publishing_modal.conflicting_property_values": {
+        "string": "プロパティ値が競合しています"
+    },
+    "design_systems.publishing_modal.corrupt_layer_names": {
+        "string": "レイヤー名が壊れています"
+    },
+    "design_systems.publishing_modal.count": {
+        "string": "({count})"
+    },
+    "design_systems.publishing_modal.count_with_total": {
+        "string": "({count}/{total})"
+    },
+    "design_systems.publishing_modal.create_a_professional_team": {
+        "string": "プロフェッショナルチームを作成する"
+    },
+    "design_systems.publishing_modal.description_placeholder": {
+        "string": "変更内容の説明(オプション)"
+    },
+    "design_systems.publishing_modal.empty_search_result": {
+        "string": "''{assetQuery}''に一致する結果がありません"
+    },
+    "design_systems.publishing_modal.example_conversion_warning": {
+        "string": "コンポーネントは使用例に変換できません。公開前に examples/ の接頭辞を削除してください。"
+    },
+    "design_systems.publishing_modal.exclude_from_publish": {
+        "string": "{assetName}を公開対象から除外する"
+    },
+    "design_systems.publishing_modal.filename_fallback": {
+        "string": "別のファイル"
+    },
+    "design_systems.publishing_modal.header_changed_variable_count": {
+        "string": "{count, plural, other {({count}個の非表示のバリアブル)}}"
+    },
+    "design_systems.publishing_modal.header_changed_variable_count_no_parentheses": {
+        "string": "{count, plural, other {{count}個の変更済みバリアブル}}"
+    },
+    "design_systems.publishing_modal.hidden_header_with_count": {
+        "string": "非表示{countString}"
+    },
+    "design_systems.publishing_modal.hidden_variable_count": {
+        "string": "{count, plural, other {({count}個の非表示のバリアブル)}}"
+    },
+    "design_systems.publishing_modal.hidden_variable_count_no_parentheses": {
+        "string": "{count, plural, other {{count}個の非表示のバリアブル}}"
+    },
+    "design_systems.publishing_modal.hidden_variable_count_within_collection": {
+        "string": "{count, plural, other {{count}個の非表示のバリアブル}}"
+    },
+    "design_systems.publishing_modal.hide_when_publishing": {
+        "string": "公開時に非表示にする"
+    },
+    "design_systems.publishing_modal.include_in_publish": {
+        "string": "{assetName}を公開対象に含める"
+    }
+}

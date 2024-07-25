@@ -1,0 +1,152 @@
+{
+    "teams_table.this_action_cannot_be_applied_to_all_selected_teams": {
+        "string": "このアクションは選択したチームすべてには適用できません"
+    },
+    "teams_table.transfer": {
+        "string": "移転"
+    },
+    "teams_table.transfer_team": {
+        "string": "チームを移転"
+    },
+    "teams_table.view_projects": {
+        "string": "プロジェクトを表示する"
+    },
+    "teams_table.view_settings": {
+        "string": "設定を表示"
+    },
+    "teams_table.view_team_members": {
+        "string": "メンバーを表示する"
+    },
+    "teams_table.your_organization_does_not_have_any_teams_yet": {
+        "string": "組織にはチームがまだありません。"
+    },
+    "update_company_details_modal.update_display_name.error": {
+        "string": "現在、チームの表示名を更新できません"
+    },
+    "update_company_details_modal.update_legal_name_and_shipping_address.error": {
+        "string": "現在、配送先住所または正式名を更新できません。配送先住所を確認し、必要な場合はもう一度お試しください。"
+    },
+    "update_company_details_modal.update_legal_name_and_shipping_address.success": {
+        "string": "配送先住所と正式名の更新が完了しました。"
+    },
+    "update_company_details_modal.update_team_name.error": {
+        "string": "現在、チーム名またはチームの正式名を更新できません"
+    },
+    "update_company_details_modal.update_team_name.success": {
+        "string": "チームとチームの正式名の更新が完了しました。"
+    },
+    "update_company_details_modal.updateshipping_address.error": {
+        "string": "現在、配送先住所を更新できません"
+    },
+    "workspace.create_confirmation_modal.confirm": {
+        "string": "ワークスペースを作成"
+    },
+    "workspace.create_confirmation_modal.description.intro": {
+        "string": "ワークスペースを初めて作成すると、組織のメンバーは次の新機能がすぐに使えるようになります。"
+    },
+    "workspace.create_confirmation_modal.description.list.browsing": {
+        "string": "ワークスペースを見つけるためのブラウジング体験"
+    },
+    "workspace.create_confirmation_modal.description.list.libraries": {
+        "string": "ライブラリモーダルでライブラリがワークスペース別に整理されます"
+    },
+    "workspace.create_confirmation_modal.description.list.prompt": {
+        "string": "ワークスペースを選択するプロンプト(有効にしている場合)"
+    },
+    "workspace.create_confirmation_modal.description.list.search": {
+        "string": "検索結果をワークスペースでフィルタリングできます"
+    },
+    "workspace.create_confirmation_modal.description.list.section": {
+        "string": "サイドバーの{workspace}セクション"
+    },
+    "workspace.create_confirmation_modal.description.list.section.workspace": {
+        "string": "ワークスペース"
+    },
+    "workspace.create_confirmation_modal.description.outro": {
+        "string": "これらの機能に関する{learnMore}するか、ご不明な点がございましたら、アカウントマネージャーにお問い合わせください。"
+    },
+    "workspace.create_confirmation_modal.description.outro.learn_more": {
+        "string": "詳細を表示"
+    },
+    "workspace.create_confirmation_modal.title": {
+        "string": "このワークスペースを作成しますか?"
+    },
+    "workspace_table.admin_input_placeholder": {
+        "string": "メールアドレスまたは名前を追加"
+    },
+    "workspace_table.admins": {
+        "string": "管理者"
+    },
+    "workspace_table.admins_input": {
+        "string": "管理者"
+    },
+    "workspace_table.admins_will_manage_input_help_text": {
+        "string": "これらのユーザーがワークスペースを積極的に管理することになります。"
+    },
+    "workspace_table.an_error_occurred_while_deleting_workspaces": {
+        "string": "ワークスペースの削除中にエラーが発生しました"
+    },
+    "workspace_table.are_you_sure_you_want_to_delete_these_workspaces": {
+        "string": "{licenseGroupsCount, plural, other {これらのワークスペースを削除しますか?}}"
+    },
+    "workspace_table.cancel_create_or_edit": {
+        "string": "キャンセル"
+    },
+    "workspace_table.create_workspace_button": {
+        "string": "ワークスペースを作成"
+    },
+    "workspace_table.create_workspace_title": {
+        "string": "ワークスペースを作成"
+    },
+    "workspace_table.delete_n_workspaces": {
+        "string": "{licenseGroupsCount, plural, other {{licenseGroupsCount}件のワークスペースを削除}}"
+    },
+    "workspace_table.deleting_the_workspaces_will_cause": {
+        "string": "{licenseGroupsCount, plural, other {{licenseGroupsNames}ワークスペースを削除すると、ワークスペースのすべてのメンバーとチームが「未割り当て」に移動します。}}"
+    },
+    "workspace_table.edit_details": {
+        "string": "詳細を編集"
+    },
+    "workspace_table.edit_workspace_title": {
+        "string": "ワークスペースを編集"
+    },
+    "workspace_table.empty_state.approve_libraries.subtitle": {
+        "string": "各ワークスペースに最適なライブラリをメンバーに知らせましょう。"
+    },
+    "workspace_table.empty_state.approve_libraries_and_assets": {
+        "string": "ライブラリとアセットを利用可能にする"
+    },
+    "workspace_table.empty_state.let_workspaces_be_unique": {
+        "string": "ワークスペースに独自性を出す"
+    },
+    "workspace_table.empty_state.let_workspaces_be_unique.subtitle": {
+        "string": "管理者はバナー、アイコンなどを使用して自分のワークスペースの独自性を出すことができます。"
+    },
+    "workspace_table.empty_state.manage_access_and_plugins": {
+        "string": "アクセスとプラグインを管理"
+    },
+    "workspace_table.empty_state.manage_access_and_plugins.subtitle": {
+        "string": "各ワークスペースのファイルリンクの共有方法とプラグインを使用できる場所を制御します。"
+    },
+    "workspace_table.empty_state.subtitle": {
+        "string": "作業内容、共同作業者や雰囲気などに応じてチームをグループ化します。"
+    },
+    "workspace_table.empty_state.title": {
+        "string": "ワークスペースを作成してチームの整理を開始"
+    },
+    "workspace_table.make_it_hidden": {
+        "string": "非表示にする"
+    },
+    "workspace_table.members": {
+        "string": "メンバー"
+    },
+    "workspace_table.n_members": {
+        "string": "{count, plural, other {{count}人のメンバー}}"
+    },
+    "workspace_table.n_teams": {
+        "string": "{count, plural, other {{count}チーム}}"
+    },
+    "workspace_table.name": {
+        "string": "名前"
+    }
+}

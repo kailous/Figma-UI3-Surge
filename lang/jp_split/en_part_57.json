@@ -1,0 +1,152 @@
+{
+    "community.homepage.widgets.browse_all": {
+        "string": "すべてのウィジェットを見る"
+    },
+    "community.homepage.widgets.sub_header": {
+        "string": "FigmaファイルとFigJamボードで使用するコラボーレーションツール。"
+    },
+    "community.hub_file_viewer.collapse_file_preview": {
+        "string": "ファイルプレビューを折りたたむ"
+    },
+    "community.hub_file_viewer.expand_file_preview": {
+        "string": "ファイルプレビューを展開する"
+    },
+    "community.hub_file_viewer.page": {
+        "string": "ページ"
+    },
+    "community.hub_file_viewer.page_name": {
+        "string": "{pageHeader}: {pageName}"
+    },
+    "community.hub_file_viewer.pages": {
+        "string": "ページ"
+    },
+    "community.hub_file_viewer.select_zoom_level": {
+        "string": "ズームレベルの選択"
+    },
+    "community.hub_file_viewer.view_file_pages": {
+        "string": "ファイルページを表示する"
+    },
+    "community.hub_file_viewer.zoom": {
+        "string": "ズーム: {percent}"
+    },
+    "community.hub_file_viewer.zoom_in": {
+        "string": "ズームイン"
+    },
+    "community.hub_file_viewer.zoom_out": {
+        "string": "ズームアウト"
+    },
+    "community.hub_file_viewer.zoom_percent": {
+        "string": "{zoomPercent}%"
+    },
+    "community.hub_file_viewer.zoom_to": {
+        "string": "{percent}にズーム"
+    },
+    "community.hub_file_viewer.zoom_to_fit": {
+        "string": "画面に合わせて調整"
+    },
+    "community.hub_files.by_author": {
+        "string": "作成者 {author}"
+    },
+    "community.hub_files.delist_file_from_community_hub": {
+        "string": "コミュニティのファイルをリストから除外"
+    },
+    "community.hub_files.delisting_this_resource_will_prevent_people_from_discovering_or_purchasing_this_resource": {
+        "string": "このリソースをリストから除外すると、ユーザーがコニュニティでこのリソースを検索または購入できなくなります。すでに購入済みのユーザーは、引き続きこのリソースを使用できます。"
+    },
+    "community.hub_files.open_original_file": {
+        "string": "元のファイルを開く"
+    },
+    "community.hub_files.remove_file_from_community_hub": {
+        "string": "コミュニティハブからファイルを削除"
+    },
+    "community.hub_files.unpublishing_this_file_will_remove_it_from_the_community_hub_and_prevent_people_from_finding_and_using_this_file": {
+        "string": "このファイルの公開を取り消すと、ファイルがコミュニティハブから削除され、検索と使用ができなくなります"
+    },
+    "community.insert_modal.codegen_plugin_icon_tooltip": {
+        "string": "コードスニペットを生成します"
+    },
+    "community.landing_page.devmode_filter_tooltip.description": {
+        "string": "Figmaデザインからコードへの変換を容易にするプラグインを検索します。"
+    },
+    "community.landing_page.devmode_filter_tooltip.title": {
+        "string": "新登場: 開発モード向けプラグイン"
+    },
+    "community.landing_page.dropdown_filter__creators": {
+        "string": "作成者"
+    },
+    "community.landing_page.dropdown_filter__editor": {
+        "string": "編集者"
+    },
+    "community.landing_page.dropdown_filter__paid": {
+        "string": "有料"
+    },
+    "community.landing_page.dropdown_filter__resource_type": {
+        "string": "リソースタイプ"
+    },
+    "community.landing_page.explore": {
+        "string": "さがす"
+    },
+    "community.landing_page.load_more": {
+        "string": "さらに読み込む"
+    },
+    "community.landing_page.query_header": {
+        "string": "{query}の結果"
+    },
+    "community.landing_page.query_header__files": {
+        "string": "{query}に一致するファイル"
+    },
+    "community.landing_page.query_header__mixed": {
+        "string": "{query}の結果"
+    },
+    "community.landing_page.query_header__plugins": {
+        "string": "{query}に一致するプラグイン"
+    },
+    "community.landing_page.query_header__profiles": {
+        "string": "{query}に一致する作成者"
+    },
+    "community.landing_page.query_header__widgets": {
+        "string": "{query}に一致するウィジェット"
+    },
+    "community.landing_page.sort.all_products": {
+        "string": "すべての製品"
+    },
+    "community.landing_page.sort.free": {
+        "string": "無料"
+    },
+    "community.landing_page.sort.paid": {
+        "string": "有料"
+    },
+    "community.landing_page.sort.paid_and_free": {
+        "string": "有料 + 無料"
+    },
+    "community.landing_page.sort.price_high_to_low": {
+        "string": "価格: 高い順"
+    },
+    "community.landing_page.sort.price_low_to_high": {
+        "string": "価格: 低い順"
+    },
+    "community.landing_page.sort.recent": {
+        "string": "新着順"
+    },
+    "community.landing_page.sort.relevancy": {
+        "string": "関連度"
+    },
+    "community.landing_page.sort.trending": {
+        "string": "人気上昇中"
+    },
+    "community.learn_more": {
+        "string": "詳細情報"
+    },
+    "community.library.error_fetching_subscribed_components": {
+        "string": "コミュニティの登録しているライブラリコンポーネントの取得中にエラーが発生しました"
+    },
+    "community.like": {
+        "string": "「いいね」を付けます"
+    },
+    "community.likes.to_like_switch_to_your_personal_profile": {
+        "string": "「いいね」を付けるには、自分のパーソナルプロフィールに切り替えます"
+    },
+    "community.logged_out.sign_up_modal_body": {
+        "string": "豊富なプラグイン、ウィジェット、ファイルを利用するには、コミュニティに参加してください。"
+    }
+}

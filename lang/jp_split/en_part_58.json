@@ -1,0 +1,152 @@
+{
+    "community.logged_out.sign_up_modal_plugin_header": {
+        "string": "このプラグインのほか、豊富なリソースを\n入手するにはサインアップしてください"
+    },
+    "community.logged_out.sign_up_modal_widget_header": {
+        "string": "このウィジェットのほか、豊富なリソースを\n入手するにはサインアップしてください"
+    },
+    "community.modal.creator_carousel_nux.add_image_and_video_previews": {
+        "string": "リソースページに画像や動画のプレビューを追加"
+    },
+    "community.modal.creator_carousel_nux.drive_eyeballs_and_engagement": {
+        "string": "新しいメディアアップローダーを使って、注目度やエンゲージメントを高めましょう。"
+    },
+    "community.modal.creator_carousel_nux.update_my_resources": {
+        "string": "リソースを更新"
+    },
+    "community.monetization.address": {
+        "string": "住所"
+    },
+    "community.monetization.tax_id_couldnt_be_verified": {
+        "string": "納税者番号を確認できませんでした。請求書を正確に保つため、納税者番号を再入力してください。"
+    },
+    "community.monetization.your_address_is_used": {
+        "string": "住所は、税額の計算に使用されます"
+    },
+    "community.onboarding.be_respectful": {
+        "string": "礼儀正しい態度を保つ"
+    },
+    "community.onboarding.change_your_photo_or_name_in_your_settings": {
+        "string": "設定で写真や名前を変更します。"
+    },
+    "community.onboarding.follow_our_guidelines": {
+        "string": "ガイドラインを遵守する"
+    },
+    "community.onboarding.got_it": {
+        "string": "了解"
+    },
+    "community.onboarding.guidelines": {
+        "string": "ガイドライン"
+    },
+    "community.onboarding.here_s_how_you_ll_look_when_using_the_figma_community": {
+        "string": "Figmaコミュニティを使用するときの表示内容です。"
+    },
+    "community.onboarding.looks_good": {
+        "string": "確認済み"
+    },
+    "community.onboarding.read_our_guidelines": {
+        "string": "{guidelinesLink}を読む"
+    },
+    "community.onboarding.saved_in_editor_subtitle": {
+        "string": "プラグインやウィジェットをツールバーから保存できるようになりました"
+    },
+    "community.onboarding.saved_in_editor_title": {
+        "string": "お気に入りを保存"
+    },
+    "community.onboarding.see_more_of_what_you_love": {
+        "string": "お気に入りをさらに表示"
+    },
+    "community.onboarding.stay_on_topic": {
+        "string": "トピックにとどまる"
+    },
+    "community.onboarding.switch_to_browsing_community_as_an_admin_to_save_plugins_and_manage_content_published_by_your_org_or_team": {
+        "string": "管理者としてコミュニティの参照に切り替え、プラグインを保存して自分の組織やチームが公開したコンテンツを管理します。"
+    },
+    "community.onboarding.use_community_as_an_org_or_team": {
+        "string": "組織またはチームとしてコミュニティを使用"
+    },
+    "community.onboarding.when_leaving_comments_we_ask_that_you": {
+        "string": "コメントを残す場合のお願い…"
+    },
+    "community.onboarding.whether_you_want_to_focus_on_creators_you_follow_discover_new_files_and_plugins_or_find_out_what_s_trending_you_can_customize_your_feed_here": {
+        "string": "フォローしているクリエイターに注目する、新しいファイルとプラグインを見つける、人気上昇中のコンテンツを調べる、などの目的に応じてフィードをカスタマイズできます。"
+    },
+    "community.only_visible_to_you": {
+        "string": "ユーザーにのみ表示"
+    },
+    "community.permissions_modal_publish_tab.footer.cannot_publish_default_file": {
+        "string": "これはFigmaサンプルファイルのため、公開できません。別のファイルを選択してください。"
+    },
+    "community.permissions_modal_publish_tab.footer.cannot_publish_remix": {
+        "string": "コミュニティから複製されたファイルを再公開することはできません。"
+    },
+    "community.permissions_modal_publish_tab.footer.cannot_publish_remix_from_paid_file": {
+        "string": "有料ファイルを再公開することはできません。"
+    },
+    "community.permissions_modal_publish_tab.footer.last_published": {
+        "string": "最後の公開"
+    },
+    "community.permissions_modal_publish_tab.footer.learn_more": {
+        "string": "詳細情報"
+    },
+    "community.permissions_modal_publish_tab.footer.make_changes": {
+        "string": "変更を実施"
+    },
+    "community.permissions_modal_publish_tab.footer.publish_admins_only": {
+        "string": "組織とチームでは、管理者のみがFigmaコミュニティに公開できます。"
+    },
+    "community.permissions_modal_publish_tab.footer.publish_file_version_no_remix": {
+        "string": "このファイルのバージョンの1つをコミュニティに公開して、一般のユーザーが複製できるようにします。"
+    },
+    "community.permissions_modal_publish_tab.footer.publish_remix": {
+        "string": "コミュニティにリミックスを公開して、独自の解釈を共有します。"
+    },
+    "community.permissions_modal_publish_tab.footer.publish_update": {
+        "string": "更新を公開…"
+    },
+    "community.permissions_modal_publish_tab.footer.publish_user_sharing_restricted": {
+        "string": "Figmaではお使いのアカウントの問題により公開を制限しています。{supportSharingRestrictedEmail}までメールでお問い合わせください。"
+    },
+    "community.permissions_modal_publish_tab.footer.published_at_timestamp": {
+        "string": "{publish_date, date, medium}"
+    },
+    "community.permissions_modal_publish_tab.footer.remove": {
+        "string": "削除"
+    },
+    "community.permissions_modal_publish_tab.footer.submitted": {
+        "string": "送信しました"
+    },
+    "community.permissions_modal_publish_tab.footer.view_community_page": {
+        "string": "コミュニティページを表示する"
+    },
+    "community.permissions_modal_publish_tab.footer.view_private_community_page": {
+        "string": "プライベートコミュニティページを表示"
+    },
+    "community.permissions_modal_publish_tab.footer.your_file_has_not_been_published": {
+        "string": "ファイルは審査中のため、公開されていません"
+    },
+    "community.plugin_development.connect_with_other_plugin_developers": {
+        "string": "他のプラグイン開発者とつながるために、{joinOurDiscordLink}しましょう。"
+    },
+    "community.plugin_development.connect_with_other_widget_developers": {
+        "string": "他のウィジェット開発者とつながるために、{joinOurDiscordLink}しましょう。"
+    },
+    "community.plugin_development.create_plugin": {
+        "string": "プラグインの作成"
+    },
+    "community.plugin_development.create_widget": {
+        "string": "ウィジェットの作成"
+    },
+    "community.plugin_development.follow_our_setup_guide_plugin": {
+        "string": "{setupGuideLink}に従い、プラグインをビルドして実行します。"
+    },
+    "community.plugin_development.follow_our_setup_guide_widget": {
+        "string": "{setupGuideLink}に従い、ウィジェットをビルドして実行します。"
+    },
+    "community.plugin_development.join_our_discord": {
+        "string": "Discordに参加"
+    },
+    "community.plugin_development.new_plugin_created": {
+        "string": "新しいプラグインが作成されました!"
+    }
+}

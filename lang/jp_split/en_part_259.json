@@ -1,0 +1,152 @@
+{
+    "pro_cart.add_collaborators.error.email_is_invalid": {
+        "string": "メールアドレス{string}は無効です"
+    },
+    "pro_cart.add_collaborators.sent_invites": {
+        "string": "招待を送信"
+    },
+    "pro_cart.add_collaborators.skip_for_now": {
+        "string": "今は行わない"
+    },
+    "pro_cart.add_collaborators.well_add_them_to_your_team": {
+        "string": "登録完了後にチームに追加されます"
+    },
+    "pro_cart.adjust_editors.add_additional_editors.seat_rename": {
+        "string": "シートをさらに追加"
+    },
+    "pro_cart.adjust_editors.at_least_one_editor.seat_rename": {
+        "string": "1人分以上の有料シートが必要です"
+    },
+    "pro_cart.adjust_editors.checkbox_toggle_explanation.seat_rename": {
+        "string": "有料シートを割り当てるにはボックスにチェックを入れます"
+    },
+    "pro_cart.adjust_editors.choose_your_figma_design_and_figjam_editors.seat_rename": {
+        "string": "FigmaデザインシートとFigJamシートの選択"
+    },
+    "pro_cart.adjust_editors.choose_your_figma_design_and_figjam_editors.seat_rename_dev_mode": {
+        "string": "チームのシートを選択"
+    },
+    "pro_cart.adjust_editors.empty_seats": {
+        "string": "{numEmptySeats, plural, other {空きシート数}}"
+    },
+    "pro_cart.adjust_editors.figma_design_column_title": {
+        "string": "Figmaデザイン"
+    },
+    "pro_cart.adjust_editors.subtitle": {
+        "string": "選択されていないユーザーは、今後もファイルを閲覧してコメントを投稿できます"
+    },
+    "pro_cart.adjust_editors.to_uncheck_first_check_another": {
+        "string": "チェックを外すには、最初に別のボックスにチェックを入れます"
+    },
+    "pro_cart.adjust_editors.will_become_design_editor.seat_rename": {
+        "string": "チームをアップグレードすると、{email}に有料の Figmaデザインシートが付与されます"
+    },
+    "pro_cart.adjust_editors.will_become_design_viewer": {
+        "string": "アップグレード後には{email}がFigmaデザインの閲覧者になります"
+    },
+    "pro_cart.adjust_editors.will_become_figjam_editor.seat_rename": {
+        "string": "チームをアップグレードすると、{email}に有料のFigjamシートが付与されます"
+    },
+    "pro_cart.adjust_editors.will_become_figjam_viewer": {
+        "string": "アップグレード後には{email}がFigJamの閲覧者になります"
+    },
+    "pro_cart.breadcrumbs.add_team_members": {
+        "string": "チームメンバーを追加"
+    },
+    "pro_cart.breadcrumbs.adjust_editors.seat_rename": {
+        "string": "シートの調整"
+    },
+    "pro_cart.breadcrumbs.cancel": {
+        "string": "キャンセル"
+    },
+    "pro_cart.breadcrumbs.choose_plan": {
+        "string": "プランを選ぶ"
+    },
+    "pro_cart.breadcrumbs.create_team": {
+        "string": "チームを作成する"
+    },
+    "pro_cart.breadcrumbs.payment_information": {
+        "string": "支払い情報"
+    },
+    "pro_cart.breadcrumbs.review": {
+        "string": "確認"
+    },
+    "pro_cart.breadcrumbs.set_editors.seat_rename": {
+        "string": "シートの選択"
+    },
+    "pro_cart.choose_plan.choose_a_plan_for_your_new_team": {
+        "string": "新しいチームのプランを選ぶ"
+    },
+    "pro_cart.create_team.create_a_professional_team": {
+        "string": "プロフェッショナルチームを作成する"
+    },
+    "pro_cart.create_team.enter_a_name_for_your_working_group": {
+        "string": "作業グループの名前を入力"
+    },
+    "pro_cart.create_team.itll_have_unlimited_files_and_collaborative_features": {
+        "string": "無制限のファイルと最新のコラボレーション機能を利用できるようになります"
+    },
+    "pro_cart.create_team.next_set_editors.seat_rename": {
+        "string": "次へ: シートの選択"
+    },
+    "pro_cart.create_team.upgrade_an_existing_team_instead": {
+        "string": "代わりに既存のチームをアップグレードしますか?"
+    },
+    "pro_cart.design_billing_cost_per_month.seat_rename": {
+        "string": "{monthlyCostInDollars}/シート"
+    },
+    "pro_cart.info.figjam_editors.seat_rename": {
+        "string": "{numEditors, plural, other {#人分のFigJamシート}}"
+    },
+    "pro_cart.info.figma_design_editors.seat_rename": {
+        "string": "{numEditors, plural, other {#人分のデザインシート}}"
+    },
+    "pro_cart.info.subtotal": {
+        "string": "小計"
+    },
+    "pro_cart.payment.billing_address": {
+        "string": "請求先住所"
+    },
+    "pro_cart.payment.city": {
+        "string": "市区町村"
+    },
+    "pro_cart.payment.city_town_or_village": {
+        "string": "市区町村"
+    },
+    "pro_cart.payment.different_legal_name_or_shipping_address": {
+        "string": "会社名または配送先住所が異なる"
+    },
+    "pro_cart.payment.dont_see_your_country": {
+        "string": "国が表示されませんか?"
+    },
+    "pro_cart.payment.enter_payment_details_title": {
+        "string": "支払い情報を入力する"
+    },
+    "pro_cart.payment.legal_company_name_label": {
+        "string": "法人名"
+    },
+    "pro_cart.payment.legal_company_name_placeholder": {
+        "string": "法人名"
+    },
+    "pro_cart.payment.name_on_payment_method": {
+        "string": "支払い方法の氏名"
+    },
+    "pro_cart.payment.name_on_payment_method_label": {
+        "string": "支払い方法の氏名"
+    },
+    "pro_cart.payment.postal_code": {
+        "string": "郵便番号"
+    },
+    "pro_cart.payment.province": {
+        "string": "州"
+    },
+    "pro_cart.payment.province_or_region": {
+        "string": "都道府県"
+    },
+    "pro_cart.payment.sepa_direct_debit_mandate": {
+        "string": "お客様は、お支払い情報を提供し、このお支払いを確認することで、(A) FigmaおよびFigmaの決済サービスプロバイダーであるStripeがお客様の銀行にお客様の口座から引き落としを行うよう指示すること、および(B)銀行がその指示に従って口座から引き落としを行うことを認めるものとします。お客様は、お客様の権利の一部として、お客様の銀行との契約の条件に基づいて、お客様の銀行から払い戻しを受けることができます。 払い戻しは、お客様の口座から引き落としが行われた日から8週間以内に請求する必要があります。 お客様の権利については、銀行から入手できる明細書に記載されています。 お客様は、引き落としが発生する最大2日前に通知を受け取ることに同意するものとします。 "
+    },
+    "pro_cart.payment.shipping_address": {
+        "string": "配送先住所"
+    }
+}

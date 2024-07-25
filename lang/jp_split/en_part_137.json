@@ -1,0 +1,152 @@
+{
+    "auth.error.signup_google_sso_required": {
+        "string": "組織はGoogleでサインアップすることを要求しています。"
+    },
+    "auth.error.team_at_editor_limit": {
+        "string": "{TEAM_NAME}に編集者制限があります"
+    },
+    "auth.error.team_at_editor_limit.seat_rename": {
+        "string": "{TEAM_NAME}の有料シートの上限に達しました"
+    },
+    "auth.error.type-new-password": {
+        "string": "新しいパスワードを入力してください。"
+    },
+    "auth.error.unable-to-send-email": {
+        "string": "メールを送信できません。数分間後にもう一度お試しください。"
+    },
+    "auth.error.use-shorter-email": {
+        "string": "より短いメールを使用してください"
+    },
+    "auth.error.use-shorter-name": {
+        "string": "より短い名前を使用してください"
+    },
+    "auth.error.user_not_found": {
+        "string": "ユーザーが見つかりません"
+    },
+    "auth.error.we_couldn_t_find_an_account_with_that_email_try_signing_up_instead": {
+        "string": "そのEメールのアカウントを見つけることができませんでした。代わりにサインアップしてみてください。"
+    },
+    "auth.error.wrong_password": {
+        "string": "パスワードが正しくありません"
+    },
+    "auth.your_account_deletion_is_being_processed": {
+        "string": "アカウントの削除が完了するまで少々お時間をいただきます。すべて完了後に、メールでお知らせいたします。"
+    },
+    "auth.your_changes_have_been_saved": {
+        "string": "変更が保存されました。"
+    },
+    "auth.two-factor-setup.error.incorrect_verification_code": {
+        "string": "確認コードが正しくありません"
+    },
+    "auth.two-factor-setup.error.missing-otp": {
+        "string": "コードを入力してください"
+    },
+    "auth.two-factor-setup.error.missing-phone-number": {
+        "string": "電話番号を入力してください"
+    },
+    "auth.two-factor-setup.error.missing-token": {
+        "string": "無効な要求です"
+    },
+    "auth.two-factor-setup.error.please_enter_a_code": {
+        "string": "コードを入力してください"
+    },
+    "auth.two-factor-setup.error.sms-two-factor-already-enabled": {
+        "string": "SMSの2要素認証は既に有効です"
+    },
+    "auth.two-factor-setup.error.two-factor-already-enabled": {
+        "string": "2要素認証は既に有効です"
+    },
+    "auth.two-factor-setup.generic-twilio-error": {
+        "string": "確認コードの送信エラーです"
+    },
+    "auth.two-factor-setup.invalid_phone_number": {
+        "string": "無効な電話番号です"
+    },
+    "auth.two-factor-setup.twilio_unable_to_send_msg": {
+        "string": "お客様の電話番号に問題があるため、2要素認証(2FA)コードを送信できませんでした。ログインするには、復旧コードを使用するか、ログインしているデバイスから2FAをオフにしてください。サポートが必要な場合は、support@figma.comにご連絡ください。"
+    },
+    "comments.ecc_comment_disabled": {
+        "string": "このファイルへのコメント入力は無効にされました。"
+    },
+    "comments.ecc_react_disabled": {
+        "string": "このファイルへのリアクションの追加は無効にされました。"
+    },
+    "comments.too_many_replies_in_thread": {
+        "string": "このコメントに対する返信が多過ぎます"
+    },
+    "comments.pinning.err.already_pinned": {
+        "string": "コメントはすでにピン留めされています"
+    },
+    "comments.pinning.err.cannot_pin_resolved_comment": {
+        "string": "解決済みのコメントはピン留めできません"
+    },
+    "comments.pinning.err.disabled_feature": {
+        "string": "コメントのピン留め機能はオフです"
+    },
+    "comments.pinning.err.fallback": {
+        "string": "コメントのピン留めに失敗しました"
+    },
+    "comments.pinning.err.not_allowed": {
+        "string": "このコメントのピン留めは許可されていません"
+    },
+    "comments.pinning.err.only_threads": {
+        "string": "コメントの返信はピン留めできません"
+    },
+    "community.search.generic_search_error": {
+        "string": "検索で問題がありました。後でもう一度お試しください。"
+    },
+    "community.buyer.annual_subscription_is_unavailable": {
+        "string": "年間サブスクリプションは現在ご購入いただけません。ご不便をおかけし申し訳ございません。"
+    },
+    "community.buyer.block_indian_customers": {
+        "string": "Figmaコミュニティマーケットプレイスは、現時点で、インドを拠点とするクレジットカードからのお支払いを受け付けていません。"
+    },
+    "community.buyer.block_russian_customers": {
+        "string": "Figmaコミュニティマーケットプレイスは、現時点で、ロシア在住のお客様からのお支払いを受け付けていません。"
+    },
+    "community.buyer.purchasing_is_temporarily_unavailable": {
+        "string": "購入は現在一時的にご利用いただけません。ご不便をおかけしまして申し訳ございません。"
+    },
+    "community.buyer.subscription_interval_required_for_purchasing_subscription": {
+        "string": "サブスクリプションを購入する際は、サブスクリプション期間が必要です。"
+    },
+    "community.buyer.valid_subscription_interval_required_for_purchasing_subscription": {
+        "string": "サブスクリプションを購入する際は、有効なサブスクリプション期間が必要です。"
+    },
+    "community.seller.cannot_transfer_file_ownership_of_paid_file": {
+        "string": "有料ファイルとリンクされているため、このファイルのオーナーシップを移転できません。"
+    },
+    "community.sinatra.blocks.block_type_not_supported": {
+        "string": "ブロックタイプ\"{blockType}\"はサポートされていません"
+    },
+    "community.sinatra.blocks.cannot_block_yourself": {
+        "string": "自分をブロックすることはできません"
+    },
+    "community.sinatra.blocks.profile_is_community_blocked": {
+        "string": "プロファイルはコミュニティによってブロックされています"
+    },
+    "community.sinatra.blocks.profile_not_found": {
+        "string": "プロフィールが見つかりません"
+    },
+    "community.sinatra.blocks.you_havent_blocked_this_user": {
+        "string": "このユーザーをブロックしていません"
+    },
+    "community.sinatra.blocks.youve_already_blocked_this_user": {
+        "string": "このユーザーは既にブロックしています"
+    },
+    "community.sinatra.categories.category_not_found": {
+        "string": "カテゴリーが見つかりません"
+    },
+    "community.sinatra.categories.invalid_editor_types": {
+        "string": "無効な編集者タイプです"
+    },
+    "community.sinatra.comments.comment_contains_too_many_mentions": {
+        "string": "コメントのメンションが多すぎます"
+    },
+    "community.sinatra.comments.comment_must_be_less_than_characters": {
+        "string": "コメントは{humanReadableLength}文字以内でなければなりません。"
+    },
+    "community.sinatra.comments.file_does_not_allow_canvas_comments": {
+        "string": "ファイルはキャンバスコメントを許可していません"
+    }
+}

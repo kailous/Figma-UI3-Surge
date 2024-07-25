@@ -1,0 +1,152 @@
+{
+    "members_table.csv_export.preparing_request": {
+        "string": "CSVリクエストを準備中"
+    },
+    "members_table.dev_mode.requires_org_admin_opt_in": {
+        "string": "このシートをアップグレードするには、事前に組織管理者が開発モードを有効にする必要があります"
+    },
+    "members_table.dev_mode_cell.beta_user_needs_upgrade": {
+        "string": "このメンバーは1月31日に開発モードにアップグレードする必要があります"
+    },
+    "members_table.dev_mode_cell.included_with_design_tooltip": {
+        "string": "フルデザインシートに含まれます"
+    },
+    "members_table.idp_user.pending_invite": {
+        "string": "このユーザーには保留中の招待があります"
+    },
+    "members_table.idp_user.user_provisioned": {
+        "string": "このユーザーはSCIMでプロビジョニングされています。お使いのIdPでこのユーザーを管理できます。"
+    },
+    "members_table.invite_users_button": {
+        "string": "ユーザーを招待"
+    },
+    "members_table.last_active_filter.more_than_a_year_ago": {
+        "string": "1年以上前"
+    },
+    "members_table.last_active_filter.more_than_six_months_ago": {
+        "string": "6か月以上前"
+    },
+    "members_table.last_active_filter.more_than_three_months_ago": {
+        "string": "3か月以上前"
+    },
+    "members_table.last_edit_filter.more_than_a_year_ago": {
+        "string": "1年以上前"
+    },
+    "members_table.last_edit_filter.more_than_six_months_ago": {
+        "string": "6か月以上前"
+    },
+    "members_table.last_edit_filter.more_than_three_months_ago": {
+        "string": "3か月以上前"
+    },
+    "members_table.license_group_cell.unassign": {
+        "string": "割り当て解除"
+    },
+    "members_table.license_group_update_date": {
+        "string": "{updateDate, date, medium}"
+    },
+    "members_table.menu_bar_filter.account_type": {
+        "string": "アカウントの種類"
+    },
+    "members_table.menu_bar_filter.billing_group": {
+        "string": "請求グループ"
+    },
+    "members_table.menu_bar_filter.last_active": {
+        "string": "最後にアクティブだった日"
+    },
+    "members_table.menu_bar_filter.last_edit": {
+        "string": "最終編集日"
+    },
+    "members_table.menu_bar_filter.new_since_last_invoice": {
+        "string": "最終請求後に追加"
+    },
+    "members_table.menu_bar_filter.product": {
+        "string": "製品"
+    },
+    "members_table.menu_bar_filter.role.seat_rename": {
+        "string": "シートタイプ"
+    },
+    "members_table.menu_bar_filter.scim_group": {
+        "string": "SCIMグループ"
+    },
+    "members_table.menu_bar_filter.workspace": {
+        "string": "ワークスペース"
+    },
+    "members_table.no_members_match_your_search_query": {
+        "string": "検索条件に一致するメンバーが見つかりませんでした。検索をやり直してください。"
+    },
+    "members_table.no_members_to_show": {
+        "string": "表示するメンバーがありません。"
+    },
+    "members_table.org_invite_menu.copy_email": {
+        "string": "メールのコピー"
+    },
+    "members_table.org_invite_menu.remove": {
+        "string": "削除"
+    },
+    "members_table.org_invite_menu.resend_invite": {
+        "string": "招待を再送信"
+    },
+    "members_table.org_permission_filter.admin": {
+        "string": "管理者"
+    },
+    "members_table.org_permission_filter.guest": {
+        "string": "ゲスト"
+    },
+    "members_table.org_permission_filter.member": {
+        "string": "メンバー"
+    },
+    "members_table.org_permission_filter.pending": {
+        "string": "保留中"
+    },
+    "members_table.org_permission_filter.unverified": {
+        "string": "未確認"
+    },
+    "members_table.org_user_menu.copy_email": {
+        "string": "メールのコピー"
+    },
+    "members_table.org_user_menu.grant_admin_access": {
+        "string": "管理者アクセス権の付与"
+    },
+    "members_table.org_user_menu.remove": {
+        "string": "削除"
+    },
+    "members_table.org_user_menu.resend_verification": {
+        "string": "確認メールの再送信"
+    },
+    "members_table.org_user_menu.revoke_admin_access": {
+        "string": "管理者アクセス権の取り消し"
+    },
+    "members_table.org_user_menu.view_guest_access": {
+        "string": "ゲストアクセス権の表示"
+    },
+    "members_table.org_user_menu.view_user_activity": {
+        "string": "ユーザーアクティビティーの表示"
+    },
+    "members_table.org_user_name_cell.pending_badge": {
+        "string": "保留中"
+    },
+    "members_table.org_user_name_cell.pending_scim_badge": {
+        "string": "保留中(SCIM)"
+    },
+    "members_table.org_user_name_cell.scim_badge": {
+        "string": "SCIM"
+    },
+    "members_table.remove_users_button": {
+        "string": "{userCount, plural, other {ユーザーを削除}}"
+    },
+    "members_table.resend_verification_button": {
+        "string": "確認メールを再送信"
+    },
+    "members_table.role_filter.dev_mode_only": {
+        "string": "開発モードのみ"
+    },
+    "members_table.role_idp_tooltip.seat_rename": {
+        "string": "シートタイプがお使いのIdPでプロビジョニングされています"
+    },
+    "members_table.scim_menu.copy_email": {
+        "string": "メールのコピー"
+    },
+    "members_table.true_up.banner.button": {
+        "string": "請求書の確認と確定"
+    }
+}

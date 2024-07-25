@@ -1,0 +1,152 @@
+{
+    "org_self_serve.purchase_summary.the_organization_plan_requires_at_least_count_editor_seats.seat_rename": {
+        "string": "ビジネスプランでは、有料シートが{minCount}人分以上必要です。"
+    },
+    "org_self_serve.purchase_summary.the_organization_plan_requires_seats_added_empty_seats.seat_rename": {
+        "string": "ビジネスプランには、{minCount}人以上のフルシートが必要です。後でユーザーを割り当てることができる空のシートを追加しました。"
+    },
+    "org_self_serve.review_step.add_additional_editors.seat_rename": {
+        "string": "シートをさらに追加"
+    },
+    "org_self_serve.review_step.annual_renewal_description.seat_rename": {
+        "string": "毎年、サブスクリプションをキャンセルするまでは、以下の合計額とトゥルーアップによって組織に追加された有料シートの金額との合計が請求されます。"
+    },
+    "org_self_serve.review_step.annual_renewal_on_date": {
+        "string": "年間プランの更新日: {renewalDate, date, long}"
+    },
+    "org_self_serve.review_step.billing_address": {
+        "string": "請求先住所"
+    },
+    "org_self_serve.review_step.billing_email": {
+        "string": "請求先メールアドレス"
+    },
+    "org_self_serve.review_step.card_ending_in_last4": {
+        "string": "末尾の番号が{last4}のカード"
+    },
+    "org_self_serve.review_step.company_display_name": {
+        "string": "会社の表示名"
+    },
+    "org_self_serve.review_step.company_legal_name": {
+        "string": "法人名"
+    },
+    "org_self_serve.review_step.company_name": {
+        "string": "会社名"
+    },
+    "org_self_serve.review_step.complete_purchase": {
+        "string": "購入手続きを完了"
+    },
+    "org_self_serve.review_step.details": {
+        "string": "詳細"
+    },
+    "org_self_serve.review_step.display_name": {
+        "string": "表示名"
+    },
+    "org_self_serve.review_step.domain": {
+        "string": "ドメイン"
+    },
+    "org_self_serve.review_step.edit_organization": {
+        "string": "組織を編集する"
+    },
+    "org_self_serve.review_step.edit_payment": {
+        "string": "支払い情報を編集する"
+    },
+    "org_self_serve.review_step.i_agree_to_msa_and_renewal_links": {
+        "string": "Figmaの{msaLink}に同意して{renewalLink}"
+    },
+    "org_self_serve.review_step.learn_more_about_true_ups": {
+        "string": "トゥルーアップについての詳細を読む"
+    },
+    "org_self_serve.review_step.lets_make_sure_everythings_right": {
+        "string": "購入内容を確認する"
+    },
+    "org_self_serve.review_step.next_quarterly_true_up_on_date": {
+        "string": "次の四半期のトゥルーアップは{trueUpDate, date, long}です"
+    },
+    "org_self_serve.review_step.next_review": {
+        "string": "次: 確認"
+    },
+    "org_self_serve.review_step.organization_details": {
+        "string": "組織の詳細情報"
+    },
+    "org_self_serve.review_step.renewal_and_cancellation_terms": {
+        "string": "更新とキャンセルに関する規約"
+    },
+    "org_self_serve.review_step.shipping_address": {
+        "string": "配送先住所"
+    },
+    "org_self_serve.review_step.software_services_agreement": {
+        "string": "ソフトウェアサービス契約"
+    },
+    "org_self_serve.review_step.sorry_there_was_an_error_please_try_again": {
+        "string": "エラーが発生しました。もう一度お試しください。"
+    },
+    "org_self_serve.review_step.subtotal": {
+        "string": "小計"
+    },
+    "org_self_serve.review_step.tax": {
+        "string": "税"
+    },
+    "org_self_serve.review_step.tax_rate": {
+        "string": "{taxRate}％"
+    },
+    "org_self_serve.review_step.teams": {
+        "string": "チーム"
+    },
+    "org_self_serve.review_step.total_due_today": {
+        "string": "本日期限の合計額"
+    },
+    "org_self_serve.review_step.true_up_description.seat_rename": {
+        "string": "トゥルーアップは3か月ごとに実施されます。最終請求期間以降に組織に新たに追加された有料シートについては、2週間前にメールでご連絡します。"
+    },
+    "org_self_serve.review_step.true_up_description_2.seat_rename": {
+        "string": "ユーザーは自分自身または他のユーザーによってアップグレードが可能なため、新しいフルシートの料金はトゥルーアップ後まで発生しません。"
+    },
+    "org_self_serve.review_step.true_up_description_3.seat_rename": {
+        "string": "管理者はトゥルーアップまでに新しい有料シートを確認し、有料シートとして維持するか、無料の閲覧限定シートにダウングレードするか選択できます。"
+    },
+    "org_self_serve.review_step.true_up_description_4.seat_rename": {
+        "string": "トゥルーアップ日には、維持するフルシートの比例配分額が請求されます。"
+    },
+    "org_self_serve.review_step.what_is_a_true_up": {
+        "string": "トゥルーアップについて"
+    },
+    "org_self_serve.team_step.editor.seat_rename": {
+        "string": "{editorCount, plural, other {{editorCount}人分のシート}}"
+    },
+    "org_self_serve.team_step.guest_checkout_tooltip": {
+        "string": "ゲストは、組織のドメインのメールアドレスを持っていないユーザーであり、コンテンツへのアクセスが制限されます。"
+    },
+    "org_self_serve.team_step.header": {
+        "string": "組織にアップグレードするチームを選択してください"
+    },
+    "org_self_serve.team_step.more_teams": {
+        "string": "その他のチーム"
+    },
+    "org_self_serve.team_step.on_teams": {
+        "string": "所属チーム:"
+    },
+    "org_self_serve.team_step.team_creation_header": {
+        "string": "アップグレードするチームを選択してください"
+    },
+    "org_self_serve.team_step.team_creation_teams_shown_description": {
+        "string": "あなたは以下のチームの管理者またはオーナーです。必要なだけ選択できます。"
+    },
+    "org_self_serve.team_step.teams_shown_description": {
+        "string": "表示されているのは、あなたが管理者またはオーナーのチームです"
+    },
+    "org_settings.autogen_password_controls.autogen_passwords_button": {
+        "string": "自動生成パスワードのみ"
+    },
+    "org_settings.autogen_password_controls.autogen_passwords_description": {
+        "string": "使用できるのは自動生成パスワードのみです。"
+    },
+    "org_settings.autogen_password_controls.banner": {
+        "string": "注: セキュリティを最も重視する組織には、自動生成パスワードの使用を推奨します。自動生成パスワードはランダムに選んだ4つの単語を組み合わせて作成されるため、常に強力かつユニークです。"
+    },
+    "org_settings.autogen_password_controls.cancel": {
+        "string": "キャンセル"
+    },
+    "org_settings.autogen_password_controls.custom_passwords_button": {
+        "string": "カスタムパスワード"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "community.sinatra.comments.file_does_not_allow_comments": {
+        "string": "ファイルはコメントを許可していません"
+    },
+    "community.sinatra.comments.invalid_profiles_mentioned": {
+        "string": "無効なプロフィールがメンションされました"
+    },
+    "community.sinatra.comments.invalid_rating_edit_action": {
+        "string": "編集時に評価を追加または削除することはできません"
+    },
+    "community.sinatra.comments.invalid_rating_value": {
+        "string": "無効な評価の値"
+    },
+    "community.sinatra.comments.invalid_resource_type": {
+        "string": "無効なリソースタイプです"
+    },
+    "community.sinatra.comments.must_include_a_resource": {
+        "string": "リソースを含む必要があります"
+    },
+    "community.sinatra.comments.one_of_message_or_message_meta_is_required": {
+        "string": "メッセージまたはメッセージ_メタの1つが必要です"
+    },
+    "community.sinatra.comments.one_of_message_or_message_meta_or_rating_value_is_required": {
+        "string": "message、message_meta、rating_valueのいずれかが必要です"
+    },
+    "community.sinatra.comments.plugin_does_not_allow_comments": {
+        "string": "プラグインはコメントを許可していません"
+    },
+    "community.sinatra.comments.unable_to_create_comment": {
+        "string": "コメントを作成できません: {message}"
+    },
+    "community.sinatra.comments.widget_does_not_allow_comments": {
+        "string": "ウィジェットはコメントを許可していません"
+    },
+    "community.sinatra.comments.you_are_not_allowed_to_leave_comments": {
+        "string": "コメントを残すことは許可されていません。"
+    },
+    "community.sinatra.comments.you_are_not_allowed_to_leave_comments_on_this_resource": {
+        "string": "このリソースでコメントを残すことは許可されていません"
+    },
+    "community.sinatra.comments.you_cannot_admin_this_resource": {
+        "string": "このリソースを管理することはできません"
+    },
+    "community.sinatra.comments.you_must_be_the_author_of_the_comment": {
+        "string": "コメントの作成者である必要があります"
+    },
+    "community.sinatra.comments.youve_already_reported_this_comment": {
+        "string": "このコメントは既にレポートしています。"
+    },
+    "community.sinatra.community_shelves.you_do_not_have_permission_to_preview_community_shelves": {
+        "string": "コミュニティシェルフをプレビューする権限がありません"
+    },
+    "community.sinatra.follows.cannot_follow_yourself": {
+        "string": "自分をフォローすることはできません"
+    },
+    "community.sinatra.follows.profile_not_found": {
+        "string": "プロフィールが見つかりません"
+    },
+    "community.sinatra.follows.youre_already_following_this_user": {
+        "string": "このユーザーは既にフォローしています"
+    },
+    "community.sinatra.free_to_freemium_migrating_blocked": {
+        "string": "Payments APIを使用するためのリソースの更新は、現在、特定のリソースのみ可能です。詳細は、support@figma.comにお問い合わせください。"
+    },
+    "community.sinatra.free_to_freemium_resource_owner_required": {
+        "string": "リソースのオーナーだけが、Payments APIを使用するようにリソースを更新できます。"
+    },
+    "community.sinatra.free_to_freemium_visual_compliance": {
+        "string": "当社のチームがお客様の販売者ステータスを確認しています。販売者として承認されるまで、Payments APIを使用した公開はできません。数日後、もう一度公開してみてください。"
+    },
+    "community.sinatra.hub_files.a_default_file_cannot_be_published": {
+        "string": "デフォルトのファイルは公開できません。"
+    },
+    "community.sinatra.hub_files.a_file_in_a_secret_team_cannot_be_published": {
+        "string": "シークレットチーム内のファイルは公開できません"
+    },
+    "community.sinatra.hub_files.cannot_republish_a_monetized_resource": {
+        "string": "既存のコミュニティリソースを有料リソースとして再公開することはできません"
+    },
+    "community.sinatra.hub_files.community_file_checkpoint_not_found": {
+        "string": "コミュニティファイルのチェックポイントが見つかりません"
+    },
+    "community.sinatra.hub_files.community_file_not_found": {
+        "string": "コミュニティファイルが見つかりません"
+    },
+    "community.sinatra.hub_files.cover_image_carousel_image_not_found": {
+        "string": "カバー画像のカルーセル画像が見つかりません"
+    },
+    "community.sinatra.hub_files.duplicate_failed": {
+        "string": "複製に失敗しました: {e}"
+    },
+    "community.sinatra.hub_files.file_must_belong_to_author_org": {
+        "string": "ファイルは作成者組織に属している必要があります"
+    },
+    "community.sinatra.hub_files.file_must_belong_to_author_team": {
+        "string": "ファイルは作成者チームに属している必要があります"
+    },
+    "community.sinatra.hub_files.hub_file_image_exceeds_max_size_of_bytes": {
+        "string": "ハブファイル画像が{limit}バイトの最大サイズを超えています"
+    },
+    "community.sinatra.hub_files.hub_file_image_not_found": {
+        "string": "ハブファイル画像が見つかりません"
+    },
+    "community.sinatra.hub_files.invalid_author_org_id": {
+        "string": "無効なauthor_org_idです"
+    },
+    "community.sinatra.hub_files.invalid_team_id": {
+        "string": "無効なauthor_team_idです"
+    },
+    "community.sinatra.hub_files.invalid_template_type": {
+        "string": "無効なテンプレートタイプです"
+    },
+    "community.sinatra.hub_files.missing_required_parameter": {
+        "string": "必要なパラメーター{p}がありません"
+    },
+    "community.sinatra.hub_files.missing_thumbnail_image": {
+        "string": "サムネイル画像を選択してください"
+    },
+    "community.sinatra.hub_files.name_is_too_long": {
+        "string": "ファイル名の長さが上限の{limit}文字を超えています"
+    },
+    "community.sinatra.hub_files.number_of_requested_files_too_large": {
+        "string": "要求したファイルの数が多すぎます"
+    },
+    "community.sinatra.hub_files.only_allow_paid_files_from_personal_drafts_folder": {
+        "string": "支払い済みファイルは、個人の[ドラフト]フォルダーからのみ公開できます"
+    },
+    "community.sinatra.hub_files.only_editors_of_this_file_may_publish_it": {
+        "string": "このファイルの編集者だけが公開できます"
+    },
+    "community.sinatra.hub_files.template_files_not_configured": {
+        "string": "テンプレートファイルが設定されていません"
+    },
+    "community.sinatra.hub_files.template_insertion_failed": {
+        "string": "テンプレートの挿入に失敗しました: {e}"
+    },
+    "community.sinatra.hub_files.this_file_has_already_been_published": {
+        "string": "このファイルは既に公開されています"
+    },
+    "community.sinatra.hub_files.this_file_version_has_already_been_published": {
+        "string": "このファイルバージョンは既に公開されています"
+    },
+    "community.sinatra.hub_files.user_must_accept_community_terms_of_service": {
+        "string": "ユーザーはコミュニティのサービス利用規約に同意する必要があります"
+    },
+    "community.sinatra.hub_files.you_can_only_publish_files_you_own_as_paid_files": {
+        "string": "有料ファイルとして所有しているファイルのみ公開できます"
+    },
+    "community.sinatra.hub_files.you_do_not_have_permission_to_access_this_hub_file": {
+        "string": "このハブファイルにアクセスする権限がありません"
+    }
+}

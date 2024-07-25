@@ -1,0 +1,152 @@
+{
+    "admin_dashboard.requests.filter.from": {
+        "string": "申請者: {selectedBillingGroupFilter}"
+    },
+    "admin_dashboard.requests.filter.sort": {
+        "string": "並べ替え"
+    },
+    "admin_dashboard.requests.filter.type": {
+        "string": "タイプ"
+    },
+    "admin_dashboard.requests.filter.user_type": {
+        "string": "ユーザータイプ: {selectedUserTypeFilter}"
+    },
+    "admin_dashboard.requests.from_all": {
+        "string": "すべて"
+    },
+    "admin_dashboard.requests.from_unassigned": {
+        "string": "未割り当てのユーザー"
+    },
+    "admin_dashboard.requests.guests": {
+        "string": "ゲスト"
+    },
+    "admin_dashboard.requests.members": {
+        "string": "メンバー"
+    },
+    "admin_dashboard.requests.no_name": {
+        "string": "<no name>"
+    },
+    "admin_dashboard.requests.search.placeholder": {
+        "string": "検索"
+    },
+    "admin_dashboard.requests.selected_count_approving": {
+        "string": "{numSelected, plural, other {{numSelected}件の申請を承認します}}"
+    },
+    "admin_dashboard.requests.selected_count_denying": {
+        "string": "{numSelected, plural, other {{numSelected}件の申請を却下します}}"
+    },
+    "admin_dashboard.requests.selected_count_request": {
+        "string": "{numSelected, plural, other {{numSelected}件の申請が選択されました}}"
+    },
+    "admin_dashboard.requests.sort.newest_first": {
+        "string": "新しい順"
+    },
+    "admin_dashboard.requests.sort.oldest_first": {
+        "string": "古い順"
+    },
+    "admin_dashboard.requests.success_approve_multiple": {
+        "string": "{numRequests, plural, other {{numRequests}件の申請が承認されました}}"
+    },
+    "admin_dashboard.requests.success_approve_multiple_async": {
+        "string": "{numRequests, plural, other {{numRequests}件の申請を承認しました。変更内容がまもなく表示されます。}}"
+    },
+    "admin_dashboard.requests.success_approve_with_name": {
+        "string": "{requesterName}からの申請が承認されました"
+    },
+    "admin_dashboard.requests.success_deny_multiple": {
+        "string": "{numRequests, plural, other {{numRequests}件の申請が却下されました}}"
+    },
+    "admin_dashboard.requests.this_request_has_already_been_handled": {
+        "string": "申請はすでに処理されています"
+    },
+    "admin_dashboard.requests.title": {
+        "string": "アップグレード申請"
+    },
+    "admin_dashboard.requests.truncated_text_more": {
+        "string": "さらに表示"
+    },
+    "admin_dashboard.requests.view_history": {
+        "string": "履歴を表示"
+    },
+    "admin_dashboard.requests.your_billing_groups": {
+        "string": "自分の請求グループ"
+    },
+    "admin_dashboard.suggested.bell.assigned_org": {
+        "string": "{numSeats, plural, other {{numSeats}個の開発モードシートを割り当てました}}"
+    },
+    "admin_dashboard.suggested.bell.assigned_team": {
+        "string": "{numSeats, plural, other {{numSeats}個のデザインシートを割り当てました}}"
+    },
+    "admin_dashboard.suggested.bell.declined_org": {
+        "string": "{numSeats, plural, other {{numSeats}個の開発モードシートを拒否しました}}"
+    },
+    "admin_dashboard.suggested.bell.declined_team": {
+        "string": "{numSeats, plural, other {{numSeats}個のデザインシートを拒否しました}}"
+    },
+    "admin_dashboard.suggested.body_v2": {
+        "string": "開発モードのベータ期間が終了したため、使用するには有料シートが必要です。使用を継続するためにアップグレードするメンバーを選んでください。"
+    },
+    "admin_dashboard.suggested.button": {
+        "string": "シートを割り当てる"
+    },
+    "admin_dashboard.suggested.empty.primary_text": {
+        "string": "アップグレードするユーザーはいません"
+    },
+    "admin_dashboard.suggested.tile.body.dm_not_opted_in": {
+        "string": "開発モードを有効にしてアクセス権を回復する"
+    },
+    "admin_dashboard.suggested.tile.body.dm_not_opted_in_no_beta_users": {
+        "string": "チームで開発モードを有効にする"
+    },
+    "admin_dashboard.suggested.tile.body.dm_opted_in": {
+        "string": "今すぐシートを割り当ててアクセス権を回復する"
+    },
+    "admin_dashboard.suggested.tile.subtext.dismissal_link": {
+        "string": "この通知を閉じます"
+    },
+    "admin_dashboard.suggested.tile.subtext.main": {
+        "string": "今すぐシートを割り当ててアクセス権を回復するか、{dismissalLink}"
+    },
+    "admin_dashboard.suggested.tile.title": {
+        "string": "チームの開発モードへのアクセス権は{dateObject, date, ::MMMMd}に終了しました。"
+    },
+    "admin_dashboard.suggested.title": {
+        "string": "開発モードへのアクセス権を回復する"
+    },
+    "admin_dashboard.suggested.upgrade": {
+        "string": "アップグレード"
+    },
+    "admin_settings.ai.data_sharing.description.org": {
+        "string": "Figmaが組織のコンテンツをAIモデルのトレーニングに利用することを許可します。Figmaでは、データの匿名化とお客様のプライバシー保護のための措置を講じています。{learnMoreLink}"
+    },
+    "admin_settings.ai.data_sharing.description.team": {
+        "string": "FigmaがチームのコンテンツをAIモデルのトレーニングに利用することを許可します。Figmaでは、データの匿名化とお客様のプライバシー保護のための措置を講じています。{learnMoreLink}"
+    },
+    "admin_settings.ai.data_sharing.disabled_for_orgs": {
+        "string": "貴社のような組織ではオンにできません"
+    },
+    "admin_settings.ai.data_sharing.disabled_for_student_teams": {
+        "string": "所属するチームや同じようなチームでは、オンにできません"
+    },
+    "admin_settings.ai.data_sharing.label": {
+        "string": "コンテンツのトレーニング"
+    },
+    "admin_settings.ai.data_sharing.takes_effect.description": {
+        "string": "お決めいただくまでには十分な時間があります。ご不明な点がございましたら、{helpCenterLink}を参照してください。"
+    },
+    "admin_settings.ai.data_sharing.takes_effect.help_center_link": {
+        "string": "FigmaのAIに対するアプローチ"
+    },
+    "admin_settings.ai.data_sharing.takes_effect.title": {
+        "string": "コンテンツを使用したトレーニングは、{date, date, ::dMMMM}まで始まりません"
+    },
+    "admin_settings.ai.data_sharing.update_error": {
+        "string": "コンテンツを使用したAIトレーニングの設定を更新できませんでした"
+    },
+    "admin_settings.ai.data_sharing.update_success": {
+        "string": "コンテンツを使用したAIトレーニングの設定を更新しました"
+    },
+    "admin_settings.ai.disable_success": {
+        "string": "AI機能をオフにしました"
+    }
+}

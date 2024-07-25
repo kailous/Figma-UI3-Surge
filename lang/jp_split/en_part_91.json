@@ -1,0 +1,152 @@
+{
+    "design_systems.libraries_modal.open_in_file": {
+        "string": "ファイルで開く"
+    },
+    "design_systems.libraries_modal.other_libraries": {
+        "string": "他のライブラリ"
+    },
+    "design_systems.libraries_modal.other_teams": {
+        "string": "その他のチーム"
+    },
+    "design_systems.libraries_modal.overview": {
+        "string": "概要"
+    },
+    "design_systems.libraries_modal.plural.component": {
+        "string": "{componentCount, plural, other {コンポーネント}}"
+    },
+    "design_systems.libraries_modal.plural.file": {
+        "string": "{fileCount, plural, other {ファイル}}"
+    },
+    "design_systems.libraries_modal.plural.includes_missing_library": {
+        "string": "{missingLibCount, plural, other {{missingLibCount}個の欠落したライブラリが含まれます}}"
+    },
+    "design_systems.libraries_modal.plural.insert": {
+        "string": "{insertCount, plural, other {挿入}}"
+    },
+    "design_systems.libraries_modal.plural.instance": {
+        "string": "{instanceCount, plural, other {インスタンス}}"
+    },
+    "design_systems.libraries_modal.plural.library": {
+        "string": "{libraryCount, plural, other {ライブラリ}}"
+    },
+    "design_systems.libraries_modal.plural.missing_library": {
+        "string": "{missingLibCount, plural, other {ライブラリがありません}}"
+    },
+    "design_systems.libraries_modal.plural.num_component": {
+        "string": "{numComponents, plural, other {{numComponents}個のコンポーネント}}"
+    },
+    "design_systems.libraries_modal.plural.num_component_match": {
+        "string": "{numComponents, plural, other {{numComponents}個のコンポーネントが一致します}}"
+    },
+    "design_systems.libraries_modal.plural.num_components_shown": {
+        "string": "{numComponents, plural, other {{numComponents}個のライブラリコンポーネントが表示されています。現在スタイルの使用は追跡されていません。}}"
+    },
+    "design_systems.libraries_modal.plural.num_library": {
+        "string": "{count, plural, other {{count}個のライブラリ}}"
+    },
+    "design_systems.libraries_modal.plural.num_style": {
+        "string": "{numStyles, plural, other {{numStyles}個のスタイル}}"
+    },
+    "design_systems.libraries_modal.plural.num_style_match": {
+        "string": "{numStyles, plural, other {{numStyles}個のスタイルが一致します}}"
+    },
+    "design_systems.libraries_modal.plural.num_teams_total": {
+        "string": "{teamCount, plural, other {合計{teamCount}チーム}}"
+    },
+    "design_systems.libraries_modal.plural.num_templates": {
+        "string": "{numTemplates, plural, other {{numTemplates}個のテンプレート}}"
+    },
+    "design_systems.libraries_modal.plural.num_templates_match": {
+        "string": "{numTemplates, plural, other {{numTemplates}個のテンプレートが一致します}}"
+    },
+    "design_systems.libraries_modal.plural.num_variable_collection_match": {
+        "string": "{numVariableCollections, plural, other {{numVariableCollections}個のバリアブルコレクションが一致します}}"
+    },
+    "design_systems.libraries_modal.plural.num_variable_match": {
+        "string": "{numVariables, plural, other {{numVariables}個のバリアブルが一致します}}"
+    },
+    "design_systems.libraries_modal.plural.num_variables": {
+        "string": "{numVariables, plural, other {{numVariables}個のバリアブル}}"
+    },
+    "design_systems.libraries_modal.plural.style": {
+        "string": "{styleCount, plural, other { スタイル}}"
+    },
+    "design_systems.libraries_modal.plural.team": {
+        "string": "{teamCount, plural, other {チーム}}"
+    },
+    "design_systems.libraries_modal.plural.variable_collections": {
+        "string": "{numVariableCollections, plural, other {{numVariableCollections}個のバリアブルコレクション}}"
+    },
+    "design_systems.libraries_modal.presets.explore_presets": {
+        "string": "Figmaと提携先が作成したUIキットをご確認ください。"
+    },
+    "design_systems.libraries_modal.presets.start_browsing": {
+        "string": "閲覧を開始"
+    },
+    "design_systems.libraries_modal.publish": {
+        "string": "公開..."
+    },
+    "design_systems.libraries_modal.publish_changes": {
+        "string": "変更を公開"
+    },
+    "design_systems.libraries_modal.publish_components_as_a_library": {
+        "string": "コンポーネントをライブラリとして公開します"
+    },
+    "design_systems.libraries_modal.publishing": {
+        "string": "公開中"
+    },
+    "design_systems.libraries_modal.remove": {
+        "string": "削除"
+    },
+    "design_systems.libraries_modal.remove_library": {
+        "string": "削除"
+    },
+    "design_systems.libraries_modal.remove_library_modal_title": {
+        "string": "ライブラリから削除しますか?"
+    },
+    "design_systems.libraries_modal.search_query_best_matches": {
+        "string": "''{searchQuery}''の最適な一致"
+    },
+    "design_systems.libraries_modal.searching": {
+        "string": "検索中..."
+    },
+    "design_systems.libraries_modal.select_library": {
+        "string": "ライブラリの選択"
+    },
+    "design_systems.libraries_modal.share_components_on_new_plan": {
+        "string": "{upgradePlanText}と、コンポーネントをチームと共有できます。"
+    },
+    "design_systems.libraries_modal.shared_fonts": {
+        "string": "共有フォント"
+    },
+    "design_systems.libraries_modal.show_enabled_libraries_filter": {
+        "string": "有効なライブラリのみ表示"
+    },
+    "design_systems.libraries_modal.showing_x_variant": {
+        "string": "{variantCount, plural, other {このコンポーネントの{variantCount}個のバリアントを表示しています。特定のバリアントを選択し、詳細を表示して使用場所を確認します。}}"
+    },
+    "design_systems.libraries_modal.slides": {
+        "string": "スライドデッキ"
+    },
+    "design_systems.libraries_modal.styles": {
+        "string": " スタイル"
+    },
+    "design_systems.libraries_modal.swap_asset": {
+        "string": "アセットの入れ替え"
+    },
+    "design_systems.libraries_modal.swap_default_styles_in_instances": {
+        "string": "インスタンスのデフォルトスタイルを入れ替えます。"
+    },
+    "design_systems.libraries_modal.swap_library": {
+        "string": "ライブラリの入れ替え"
+    },
+    "design_systems.libraries_modal.team": {
+        "string": "チーム"
+    },
+    "design_systems.libraries_modal.team_settings": {
+        "string": "チーム設定"
+    },
+    "design_systems.libraries_modal.teams_and_libraries": {
+        "string": "チームとライブラリ"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "org_settings.sso.idp": {
+        "string": "IdP"
+    },
+    "org_settings.sso.idp_entity_id": {
+        "string": "IdPエンティティ―ID"
+    },
+    "org_settings.sso.idp_sso_target_url": {
+        "string": "IdP SSOターゲットURL"
+    },
+    "org_settings.sso.idp_sso_url": {
+        "string": "IdP SSO URL"
+    },
+    "org_settings.sso.microsoft_azure_active_directory": {
+        "string": "Microsoft Azure Active Directory"
+    },
+    "org_settings.sso.not_configured": {
+        "string": "未設定"
+    },
+    "org_settings.sso.okta": {
+        "string": "Okta"
+    },
+    "org_settings.sso.one_login": {
+        "string": "OneLogin"
+    },
+    "org_settings.sso.other": {
+        "string": "その他"
+    },
+    "org_settings.sso.please_review_the_information_you_entered": {
+        "string": "入力した情報を確認してください。"
+    },
+    "org_settings.sso.review": {
+        "string": "確認"
+    },
+    "org_settings.sso.saml_single_sign_on": {
+        "string": "SAMLシングルサインオンを使用すると、サードパーティーのIDプロバイダー(IdP)を使用してユーザーを管理できます。この情報の参照先については、この{helpArticle}をご覧ください。"
+    },
+    "org_settings.sso.saml_sso": {
+        "string": "SAML SSO"
+    },
+    "org_settings.sso.saml_sso_description": {
+        "string": "SAMLシングルサインオンを使用すると、サードパーティーのIDプロバイダー(IdP)を使用してユーザーを管理できます。詳細については、この{helpArticle}を参照してください。"
+    },
+    "org_settings.sso.signing_certificate": {
+        "string": "署名証明書"
+    },
+    "org_settings.sso.sp_acs_url": {
+        "string": "SP ACS URL"
+    },
+    "org_settings.sso.sp_entity_id": {
+        "string": "SPエンティティーID"
+    },
+    "org_settings.sso.tenant_id": {
+        "string": "テナントID"
+    },
+    "org_settings.sso.this_information_is_correct": {
+        "string": "これは正しい情報です。"
+    },
+    "org_settings.sso.you_must_use_a_web_browser": {
+        "string": "認証設定を変更するにはWebブラウザを使用してください"
+    },
+    "org_settings.sso.your_configuration_details": {
+        "string": "設定の詳細は次のとおりです:"
+    },
+    "org_settings.team_creation.admin_only.description.no_workspaces": {
+        "string": "組織管理者だけがチームを作成できます"
+    },
+    "org_settings.team_creation.admin_only.description.workspaces": {
+        "string": "組織管理者とワークスペース管理者だけがチームを作成できます"
+    },
+    "org_settings.team_creation.admin_only.title": {
+        "string": "管理者のみ"
+    },
+    "org_settings.team_creation.any.description": {
+        "string": "この組織のメンバー全員がチームを作成できます"
+    },
+    "org_settings.team_creation.any.title": {
+        "string": "ユーザー全員"
+    },
+    "org_settings.team_creation.modal": {
+        "string": "{organization}でチームを作成できるユーザー"
+    },
+    "org_settings.team_creation.save_button": {
+        "string": "保存"
+    },
+    "org_settings.team_creation.success": {
+        "string": "チーム作成の設定を更新しました"
+    },
+    "org_settings.workspace_controls.edit_custom_settings": {
+        "string": "カスタム設定を編集"
+    },
+    "org_settings.workspace_controls.has_custom_settings": {
+        "string": "カスタム設定を使用中"
+    },
+    "org_settings.workspace_controls.header_text": {
+        "string": "ワークスペースのカスタム設定"
+    },
+    "org_settings.workspace_controls.public_link_controls_setting_allowed": {
+        "string": "オン"
+    },
+    "org_settings.workspace_controls.public_link_controls_setting_banned": {
+        "string": "オフ"
+    },
+    "org_settings.workspace_controls.public_link_controls_setting_expiration_required": {
+        "string": "(有効期間必須)"
+    },
+    "org_settings.workspace_controls.public_link_controls_setting_password_and_expiration_required": {
+        "string": "(パスワード、有効期間必須)"
+    },
+    "org_settings.workspace_controls.public_link_controls_setting_password_required": {
+        "string": "(パスワード必須)"
+    },
+    "org_settings.workspace_controls.remove_custom_settings": {
+        "string": "カスタム設定を削除..."
+    },
+    "org_settings.workspace_controls.search_placeholder_text": {
+        "string": "ワークスペースを検索..."
+    },
+    "org_settings.workspace_controls.sub_header_text": {
+        "string": "個々のワークスペースのデフォルト公開リンク設定を更新します。"
+    },
+    "org_team_actions.an_error_occurred_while_assigning_team_s_to_a_workspace": {
+        "string": "ワークスペースへのチームの割り当て中にエラーが発生しました。"
+    },
+    "org_team_actions.an_error_occurred_while_changing_team_s_org_access": {
+        "string": "このチームの組織へのアクセス権を変更しているときにエラーが発生しました。"
+    },
+    "org_team_actions.an_error_occurred_while_fetching_teams": {
+        "string": "チームの取得中にエラーが発生しました。"
+    },
+    "org_team_actions.an_error_occurred_while_joining": {
+        "string": "参加中にエラーが発生しました。"
+    },
+    "org_team_actions.an_error_occurred_while_joining_teams": {
+        "string": "チームへの参加中にエラーが発生しました。"
+    },
+    "org_team_actions.an_error_occurred_while_trying_to_fetch_teams_within_the_organization": {
+        "string": "組織内のチームの取得中にエラーが発生しました。"
+    },
+    "org_team_actions.an_error_occurred_while_trying_to_fetch_this_team": {
+        "string": "このチームの取得中にエラーが発生しました。"
+    },
+    "org_team_actions.an_error_occurred_while_unassigning_team_s_from_a_workspace": {
+        "string": "ワークスペースからのチームの割り当て解除中にエラーが発生しました。"
+    },
+    "org_team_actions.teams_were_assigned_to_workspace": {
+        "string": "{numTeams, plural, other {{workspaceName}に{numTeams}チームを割り当てました}}"
+    },
+    "org_team_actions.teams_were_unassigned": {
+        "string": "{numTeams, plural, other {{numTeams}チームの割り当てを解除しました}}"
+    }
+}

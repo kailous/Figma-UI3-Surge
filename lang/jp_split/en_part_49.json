@@ -1,0 +1,152 @@
+{
+    "comments.comments_can_only_be_placed_on_slides": {
+        "string": "コメントはスライドにのみ追加できます"
+    },
+    "comments.comments_cannot_be_placed_in_this_area": {
+        "string": "この領域にはコメントを追加できません"
+    },
+    "comments.copy_attachment": {
+        "string": "PNGとしてコピー"
+    },
+    "comments.copy_attachment_error": {
+        "string": "クリップボードへのメディアファイルのコピー中にエラーが発生しました"
+    },
+    "comments.copy_attachment_success": {
+        "string": "メディアファイルをクリップボードにコピーしました"
+    },
+    "comments.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "comments.copying_attachment": {
+        "string": "メディアファイルをコピーしています..."
+    },
+    "comments.couldn_t_post_your_comment": {
+        "string": "コメントを投稿できませんでした"
+    },
+    "comments.delete_comment": {
+        "string": "コメントを削除"
+    },
+    "comments.delete_confirmation_reply": {
+        "string": "このコメントを削除しますか?"
+    },
+    "comments.delete_confirmation_thread": {
+        "string": "このスレッドを削除しますか? 返信もすべて削除されます。"
+    },
+    "comments.delete_thread": {
+        "string": "スレッドを削除"
+    },
+    "comments.dev_mode_notifications": {
+        "string": "開発モードの通知"
+    },
+    "comments.discard": {
+        "string": "破棄"
+    },
+    "comments.dock_to_side": {
+        "string": "端に固定"
+    },
+    "comments.download_attachment": {
+        "string": "メディアファイルをダウンロード"
+    },
+    "comments.download_attachment_error": {
+        "string": "メディアファイルのダウンロード中にエラーが発生しました"
+    },
+    "comments.download_attachment_success": {
+        "string": "ダウンロード完了"
+    },
+    "comments.edit": {
+        "string": "編集…"
+    },
+    "comments.edit_alt_text": {
+        "string": "編集"
+    },
+    "comments.edited": {
+        "string": "(編集済み)"
+    },
+    "comments.error_loading_notification_preferences": {
+        "string": "通知基本設定のロード中にエラーが発生しました"
+    },
+    "comments.everything_option": {
+        "string": "すべて"
+    },
+    "comments.failed_to_load": {
+        "string": "コメントのエディターを利用できません"
+    },
+    "comments.failed_to_update_alt_text": {
+        "string": "代替テキストを更新できませんでした"
+    },
+    "comments.finish_or_clear_your_active_comment_then_hit_view": {
+        "string": "アクティブなコメントを終了またはクリアしてから、[表示]をクリックしてください"
+    },
+    "comments.get_notified_about_all_comments_prompt": {
+        "string": "このファイル内のすべてのコメントで通知をオンにしますか?"
+    },
+    "comments.give_feedback_ask_a_question_or_just_leave_a_note_of_appreciation_click_anywhere_in_the_file_to_leave_a_comment": {
+        "string": "フィードバックや質問を書いたり、感謝の言葉を伝えましょう。ファイルの任意の場所をクリックして、コメントを残します。"
+    },
+    "comments.hide_comments": {
+        "string": "コメントを非表示"
+    },
+    "comments.in_a_moment": {
+        "string": "投稿中..."
+    },
+    "comments.invited": {
+        "string": "招待済み"
+    },
+    "comments.just_mentions_and_replies_option": {
+        "string": "メンションと返信のみ"
+    },
+    "comments.learn_more": {
+        "string": "詳細情報"
+    },
+    "comments.manage": {
+        "string": "管理"
+    },
+    "comments.mark_all_as_read": {
+        "string": "すべて既読にする"
+    },
+    "comments.mark_as_read": {
+        "string": "既読にする"
+    },
+    "comments.mark_as_resolved": {
+        "string": "解決済みにする"
+    },
+    "comments.mark_as_unread": {
+        "string": "未読にする"
+    },
+    "comments.mark_as_unresolved": {
+        "string": "未解決にする"
+    },
+    "comments.mention_confirm_warning": {
+        "string": "{numUsers, plural, other {{mentionedUsers}はこのファイルにアクセスできません。このコメントを投稿すると、このユーザーに閲覧限定アクセス権が与えられます。}}"
+    },
+    "comments.more_actions": {
+        "string": "その他のアクション"
+    },
+    "comments.name_and_you": {
+        "string": "{name} (あなた)"
+    },
+    "comments.next": {
+        "string": "次へ"
+    },
+    "comments.no_comments_matched_your_search": {
+        "string": "検索条件に一致するコメントはありません。"
+    },
+    "comments.no_users_matched_your_search": {
+        "string": "{searchQuery}に一致するユーザーが見つかりません"
+    },
+    "comments.nothing_option": {
+        "string": "なし"
+    },
+    "comments.num_hidden_more": {
+        "string": "{numHidden, plural, other {さらに{numHidden}件}}"
+    },
+    "comments.number_only": {
+        "string": "#{commentNumber}"
+    },
+    "comments.only_comments": {
+        "string": "コメントのみ"
+    },
+    "comments.only_current_page": {
+        "string": "現在のページのみ"
+    }
+}

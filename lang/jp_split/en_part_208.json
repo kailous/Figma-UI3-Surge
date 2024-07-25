@@ -1,0 +1,152 @@
+{
+    "mobile_download_prompts.play_mobile_prototypes": {
+        "string": "Figmaモバイルアプリを使って、スマートフォンでの快適なモバイルプロトタイプの再生をお試しください。"
+    },
+    "mobile_download_prompts.run_prototypes_from_your_phone": {
+        "string": "スマートフォンでプロトタイプを実行"
+    },
+    "mobile_download_prompts.run_your_mobile_prototypes": {
+        "string": "モバイルプロトタイプをスマートフォンで直接実行することで、その実際の動きを確認できます。QRコードをスキャンして、Figmaモバイルアプリを入手してください。"
+    },
+    "mobile_download_prompts.scan_the_qr_code": {
+        "string": "QRコードをスキャンしてFigmaモバイルアプリをダウンロードし、投稿されたばかりのチームの最新のコメントをチェックしてください。"
+    },
+    "embed.footer.figma_logo_aria_label": {
+        "string": "Figmaで開く"
+    },
+    "embed.footer.menu.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "embed.footer.menu.open_in_figma": {
+        "string": "Figmaで開く"
+    },
+    "embed.footer.toggle_embed_settings_aria_label": {
+        "string": "埋め込み設定を切り替える"
+    },
+    "mobile_file_viewer.offline_err": {
+        "string": "オフライン"
+    },
+    "mobile_file_viewer_iframe.page_dropdown": {
+        "string": "ページ: {pageName}"
+    },
+    "mobile_file_viewer_iframe.page_dropdown_aria_label": {
+        "string": "ファイルのページを表示"
+    },
+    "mobile_file_viewer_iframe.page_none_selected_dropdown": {
+        "string": "ページ"
+    },
+    "mobile_file_viewer_iframe.zoom_percent": {
+        "string": "{zoomPercent}%"
+    },
+    "mobile_file_viewer_menu.account_settings_action": {
+        "string": "アカウントの設定"
+    },
+    "mobile_file_viewer_menu.back_to_files_action": {
+        "string": "ファイルに戻る"
+    },
+    "mobile_file_viewer_menu.log_in_or_create_account_action": {
+        "string": "ログインまたはアカウントの作成"
+    },
+    "mobile_file_viewer_menu.log_out_action": {
+        "string": "ログアウト"
+    },
+    "mobile_file_viewer_menu.pages_section": {
+        "string": "ページ"
+    },
+    "mobile_toolbars.connector": {
+        "string": "コネクター"
+    },
+    "mobile_toolbars.shape": {
+        "string": "シェイプ"
+    },
+    "mobile_toolbars.universal_insert": {
+        "string": "その他..."
+    },
+    "mouse_controls_modal.new_user.description": {
+        "string": "設定変更はFigmaとFigJamの両方に適用されます。"
+    },
+    "mouse_controls_modal.new_user.title": {
+        "string": "ズームとパンの設定"
+    },
+    "mouse_navigation_preferences.existing_user.body.preferences": {
+        "string": "基本設定"
+    },
+    "mouse_navigation_preferences_modal.existing_user.body": {
+        "string": "お試しください。Figmaアイコンをクリックし、{filePref}に移動することで、元に戻すことができます。"
+    },
+    "mouse_navigation_preferences_modal.existing_user.dismiss_button": {
+        "string": "あとで"
+    },
+    "mouse_navigation_preferences_modal.existing_user.header": {
+        "string": "ズームやパンを簡単に実行できます"
+    },
+    "mouse_navigation_preferences_modal.existing_user.right-click_to_pan": {
+        "string": "右クリック+ドラッグでパン"
+    },
+    "mouse_navigation_preferences_modal.existing_user.scroll_to_zoom": {
+        "string": "スクロールホイールでズーム"
+    },
+    "mouse_navigation_preferences_modal.existing_user.try_it": {
+        "string": "使ってみる"
+    },
+    "mouse_navigation_preferences_tooltip.existing_user.body": {
+        "string": "Figmaアイコンに移動し、{filePref}をクリックすることで、いつでも変更できます。"
+    },
+    "mouse_navigation_preferences_tooltip.existing_user.header": {
+        "string": "ズームとパンの設定を更新しました"
+    },
+    "multiplayer_connection_error.dismiss_button": {
+        "string": "閉じる"
+    },
+    "multiplayer_connection_error.too_many_connections.content": {
+        "string": "このファイルで作業中のユーザーが多すぎるため、現在、処理速度が低下している可能性があります。スムーズな処理を維持するために編集機能と他のユーザーのカーソルを表示する機能が一時的にオフになっています。"
+    },
+    "multiplayer_connection_error.too_many_connections.title": {
+        "string": "ファイルは一時的に閲覧限定になっています"
+    },
+    "multiplayer_connection_error.too_many_connections.view_only_button": {
+        "string": "閲覧限定で開く"
+    },
+    "multiplayer_limit.cursor_limit_modal_content": {
+        "string": "このファイルでカーソルの最大数に達しました。他のユーザーに対してカーソルが非表示になりました。他のユーザーから監視される場合、または他のユーザーがファイルの使用を終了した場合に、再びカーソルが他のユーザーに対して表示されます。"
+    },
+    "multiplayer_limit.cursor_limit_modal_title": {
+        "string": "カーソル制限について"
+    },
+    "multiplayer_limit.done_button": {
+        "string": "完了"
+    },
+    "multiplayer_limit.editor_limit_modal_content.seat_rename": {
+        "string": "このファイルは、編集できるユーザーの最大数に達しています。数名のユーザーがこのファイルの使用を終了すると、再度編集が可能になります。"
+    },
+    "multiplayer_limit.editor_limit_modal_title.seat_rename": {
+        "string": "編集できる人数の制限"
+    },
+    "multiplayer_limit.help_center": {
+        "string": "ヘルプセンター"
+    },
+    "multiplayer_limit.more_info": {
+        "string": "詳しくは、{moreInfoLink}を参照してください。"
+    },
+    "multiplayer_upgrade_modal.content": {
+        "string": "作業内容を保存します。他のユーザーの編集内容を見るには再度読み込む必要があります。"
+    },
+    "multiplayer_upgrade_modal.content_offline": {
+        "string": "サーバーに接続できません。インターネットに接続していることを確認し、再読み込みしてください。"
+    },
+    "multiplayer_upgrade_modal.content_reloading": {
+        "string": "ページを再読み込み中..."
+    },
+    "multiplayer_upgrade_modal.content_saving": {
+        "string": "変更を保存中..."
+    },
+    "multiplayer_upgrade_modal.employee_text_explanation": {
+        "string": "このファイルは、作業中の最新のコミットとの後方互換性がありません。"
+    },
+    "multiplayer_upgrade_modal.employee_text_new_file": {
+        "string": "新しいファイルを作成してみてください"
+    },
+    "multiplayer_upgrade_modal.reload_button": {
+        "string": "保存"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "visual_bell.drag_and_drop_absolute_stack_insertion": {
+        "string": "オートレイアウトを無視する場合は、⌃ Ctrlを押したままにします"
+    },
+    "visual_bell.drag_and_drop_absolute_stack_insertion_windows": {
+        "string": "オートレイアウトを無視するには、Sを押したままにします"
+    },
+    "visual_bell.duplicate_selection": {
+        "string": "選択範囲が複製されます"
+    },
+    "visual_bell.duplicate_selection_exclude_vote_stamp_from_selection": {
+        "string": "票は複製されませんでした"
+    },
+    "visual_bell.duplicate_selection_failed_only_vote_stamps": {
+        "string": "票を複製することはできません"
+    },
+    "visual_bell.duplicate_styles_pasted": {
+        "string": "{numDuplicateStyles, plural, other {重複した{numDuplicateStyles}個のスタイルは貼り付けられませんでした}}"
+    },
+    "visual_bell.export_failed": {
+        "string": "エクスポートできませんでした"
+    },
+    "visual_bell.exporting_slices_to_pdf_is_currently_unsupported": {
+        "string": "PDFへのスライスのエクスポートは現在サポートされていません"
+    },
+    "visual_bell.forced_layout_of_d_text_elements": {
+        "string": "{count}個のテキスト要素のレイアウトが強制的に適用されました"
+    },
+    "visual_bell.frame_outlines_hidden": {
+        "string": "フレームアウトラインが非表示になりました"
+    },
+    "visual_bell.frame_outlines_visible": {
+        "string": "フレームアウトラインが表示されました"
+    },
+    "visual_bell.generic_video_upload_error": {
+        "string": "動画のアップロード中にエラーが発生しました。もう一度試してください。"
+    },
+    "visual_bell.hit_table_cell_limit": {
+        "string": "追加できません—テーブルは最大500セルに制限されています。"
+    },
+    "visual_bell.image_file_name_import_failed": {
+        "string": "画像ファイル{filename}のインポートに失敗しました"
+    },
+    "visual_bell.image_fill_not_supported_no_extension": {
+        "string": "このファイル形式は画像の塗りとして使用できません"
+    },
+    "visual_bell.image_fill_not_supported_with_extension": {
+        "string": "このファイル形式({extension})は画像の塗りとして使用できません"
+    },
+    "visual_bell.invalid_selection_for_tidy_up": {
+        "string": "選択範囲を均等配置できませんでした"
+    },
+    "visual_bell.loading_prototype_try_again": {
+        "string": "プロトタイプの読み込み中。この読み込みが終わったら、別のプロタイプを追加してください..."
+    },
+    "visual_bell.local_file_key_unknown": {
+        "string": "ローカルファイルキーが不明です"
+    },
+    "visual_bell.mapped_state_groups": {
+        "string": "マッピングされた{numMappedStateGroups}状態グループ、 {numMappedSymbols}コンポーネント、および修復された{repairedInstances}インスタンス。"
+    },
+    "visual_bell.max_height_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最大高さが削除されました}}"
+    },
+    "visual_bell.max_lines_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最大行数が削除されました}}"
+    },
+    "visual_bell.max_width_height_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最大幅と最大高さが削除されました}}"
+    },
+    "visual_bell.max_width_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最大幅が削除されました}}"
+    },
+    "visual_bell.min_height_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最小高さが削除されました}}"
+    },
+    "visual_bell.min_max_height_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最小高さと最大高さが削除されました}}"
+    },
+    "visual_bell.min_max_width_height_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最小値と最大値が削除されました}}"
+    },
+    "visual_bell.min_max_width_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最小幅と最大幅が削除されました}}"
+    },
+    "visual_bell.min_width_height_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最小幅と最小高さが削除されました}}"
+    },
+    "visual_bell.min_width_removed": {
+        "string": "{nodeCount, plural, other {{nodeCount}ノードの最小幅が削除されました}}"
+    },
+    "visual_bell.moved_selection": {
+        "string": "選択されているオブジェクトは{newPage}に移動されました"
+    },
+    "visual_bell.no_auto_layout_components_found": {
+        "string": "オートレイアウトコンポーネントが見つかりません"
+    },
+    "visual_bell.no_component_prop_refs_to_prune": {
+        "string": "削除するコンポーネントプロパティ参照はありません"
+    },
+    "visual_bell.no_components_are_selected": {
+        "string": "コンポーネントが選択されていません"
+    },
+    "visual_bell.no_matching_layers_component_set": {
+        "string": "このコンポーネントセットには選択できるマッチングレイヤーがありません"
+    },
+    "visual_bell.no_matching_layers_page": {
+        "string": "ページには選択できるマッチングレイヤーがありません"
+    },
+    "visual_bell.no_matching_layers_responsive_set": {
+        "string": "このレイヤーセットには、選択できるマッチングレイヤーがありません"
+    },
+    "visual_bell.no_matching_layers_section": {
+        "string": "このセクションには選択できるマッチングレイヤーがありません"
+    },
+    "visual_bell.no_more_children_to_select": {
+        "string": "選択できる子はありません"
+    },
+    "visual_bell.no_text_elements_found_in_current_selection": {
+        "string": "現在の選択範囲にはテキスト要素がありません"
+    },
+    "visual_bell.not_enough_memory_to_duplicate_this_page": {
+        "string": "このページを複製するための十分なメモリーがありません"
+    },
+    "visual_bell.nothing_in_selection": {
+        "string": "何も選択されていません"
+    },
+    "visual_bell.nothing_is_selected": {
+        "string": "何も選択されていません"
+    },
+    "visual_bell.nothing_to_remove": {
+        "string": "削除するものはありません。"
+    },
+    "visual_bell.nothing_to_repair": {
+        "string": "修復するものがありません。"
+    },
+    "visual_bell.nothing_to_reresolve": {
+        "string": "再解決するものはありません。"
+    },
+    "visual_bell.only_editors_of_this_file_can_copy_it": {
+        "string": "このファイルをコピーできるのは、このファイルの編集者だけです"
+    },
+    "visual_bell.only_editors_of_this_file_can_export_it": {
+        "string": "このファイルをエクスポートできるのは、このファイルの編集者だけです"
+    },
+    "visual_bell.only_editors_of_this_file_can_save_it": {
+        "string": "このファイルを保存できるのは、このファイルの編集者だけです"
+    },
+    "visual_bell.opacity_set_to_d": {
+        "string": "不透明度が{percentage}%に設定されました"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "dev_handoff.code_connect.entrypoint_text": {
+        "string": "コードベースに接続"
+    },
+    "dev_handoff.code_connect.entrypoint_title": {
+        "string": "Code Connectを利用する"
+    },
+    "dev_handoff.code_connect.modal_github_button": {
+        "string": "GitHubでドキュメントを表示"
+    },
+    "dev_handoff.code_connect.modal_install": {
+        "string": "Code Connectをプロジェクトにインストールします"
+    },
+    "dev_handoff.code_connect.modal_install_package": {
+        "string": "Code Connectのパッケージをプロジェクトにインストールします"
+    },
+    "dev_handoff.code_connect.modal_publish": {
+        "string": "コネクションをFigmaに公開します"
+    },
+    "dev_handoff.code_connect.modal_run_command": {
+        "string": "以下のコマンドを実行して、コードの接続を開始します"
+    },
+    "dev_handoff.code_connect.modal_text": {
+        "string": "コード上のコンポーネントをFigmaのデザインシステムに接続すると、コードスニペットに常に十分な安定性と信頼性を持たせることができます。"
+    },
+    "dev_handoff.code_connect.swift.add_snippet": {
+        "string": "Package.swiftファイルの依存関係に以下のスニペットを追加します"
+    },
+    "dev_handoff.code_connect.title": {
+        "string": "Code Connect"
+    },
+    "dev_handoff.code_language.add": {
+        "string": "プラグインを追加..."
+    },
+    "dev_handoff.code_language.browse": {
+        "string": "コード生成プラグインを参照…"
+    },
+    "dev_handoff.code_language.development": {
+        "string": "開発"
+    },
+    "dev_handoff.comments_panel.slack_teams_hint": {
+        "string": "{figmaForSlackLink}または{figmaForTeamsLink}をインストールして、Figmaのファイル、プロジェクト、その他の最新情報を入手しましょう。"
+    },
+    "dev_handoff.comments_panel.slack_teams_hint.slack_link": {
+        "string": "Slack連携"
+    },
+    "dev_handoff.comments_panel.slack_teams_hint.teams_link": {
+        "string": "Microsoft Teams連携"
+    },
+    "dev_handoff.comments_panel.slack_teams_hint.title": {
+        "string": "FigmaとSlack/Microsoft Teamsの連携"
+    },
+    "dev_handoff.compare_changes.banner.added_layer": {
+        "string": "このレイヤーが追加されました"
+    },
+    "dev_handoff.compare_changes.banner.no_changes": {
+        "string": "選択したコード言語で表示できない変更があります。"
+    },
+    "dev_handoff.compare_changes.banner.no_changes_link": {
+        "string": "プロパティビューに切り替える"
+    },
+    "dev_handoff.compare_changes.banner.removed_layer": {
+        "string": "このレイヤーは削除されました"
+    },
+    "dev_handoff.compare_changes.entrypoint.compare_main_component": {
+        "string": "メインコンポーネントと比較"
+    },
+    "dev_handoff.compare_changes.entrypoint.compare_versions": {
+        "string": "以前のバージョンと比較"
+    },
+    "dev_handoff.compare_changes.entrypoint.multiselect_comparison_hint": {
+        "string": "Shiftキーを押しながらクリックするかドラッグして、比較する2つのオブジェクトを選択します。"
+    },
+    "dev_handoff.compare_changes.layers": {
+        "string": "レイヤー"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_body": {
+        "string": "カスタムコード生成プラグインを作成することで、Figmaのネイティブコードスニペットを拡張して、Figmaでサポートされていない言語またはフレームワークのコードを生成します"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_link": {
+        "string": "ドキュメントを表示"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_title": {
+        "string": "カスタムコード生成プラグインを作成"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.description": {
+        "string": "いずれも後で変更できます。これらの設定は、デザインには影響しません。"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.next_text": {
+        "string": "次: テーマ"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.option_android": {
+        "string": "Android"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.option_ios": {
+        "string": "iOS"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.option_other": {
+        "string": "その他"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.other_description": {
+        "string": "プラグインで、コードスニペットを選択した言語で取得します。"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.other_title": {
+        "string": "コードスニペットを拡張するプラグイン"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.picker_title": {
+        "string": "プラットフォームを選択"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.title": {
+        "string": "まず、プラットフォームと単位を選びます"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.what_framework": {
+        "string": "フレームワーク"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.what_platform": {
+        "string": "プラットフォーム"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.what_units": {
+        "string": "単位"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.description": {
+        "string": "プラグインを使って、言語の追加、タスクのトラッキングなどが可能です。今すぐいくつかピン留めして、後で確認しましょう。"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.next_text": {
+        "string": "次: 統合 "
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.picker_title": {
+        "string": "開発モード用プラグイン"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.title": {
+        "string": "Figmaで自分のお気に入りのツールを使用する"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.description": {
+        "string": "統合機能を使えば、Figmaを使用していないときでも、プロジェクトの作業を継続できます。"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging": {
+        "string": "SlackとMicrosoft Teams"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_description": {
+        "string": "Figmaのファイルやプロジェクトの最新の変更を常に把握します。"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install": {
+        "string": "インストール"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install.figma_for_slack": {
+        "string": "Slack連携"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install.figma_for_teams": {
+        "string": "Microsoft Teams連携"
+    }
+}

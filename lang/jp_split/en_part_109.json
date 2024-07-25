@@ -1,0 +1,152 @@
+{
+    "dev_handoff.workflows.edit_info.updated_design": {
+        "string": "{user}が{dateFromNow}に新しいバージョンのデザインを追加しました"
+    },
+    "dev_handoff.workflows.focus_view.activity.activity_row": {
+        "string": "{versionText}{activityTime}"
+    },
+    "dev_handoff.workflows.focus_view.activity.activity_row_latest_part": {
+        "string": "· 最新"
+    },
+    "dev_handoff.workflows.focus_view.activity.activity_row_with_latest": {
+        "string": "{versionText} {activityTime} {latest}"
+    },
+    "dev_handoff.workflows.focus_view.activity.compare_previous": {
+        "string": "以前のバージョンと比較"
+    },
+    "dev_handoff.workflows.focus_view.activity.latest": {
+        "string": "最新"
+    },
+    "dev_handoff.workflows.focus_view.activity.versions": {
+        "string": "バージョン"
+    },
+    "dev_handoff.workflows.focus_view.activity_status_completed": {
+        "string": "完了済み"
+    },
+    "dev_handoff.workflows.focus_view.activity_status_ready": {
+        "string": "開発準備完了"
+    },
+    "dev_handoff.workflows.focus_view.activity_status_removed": {
+        "string": "ステータス削除済み"
+    },
+    "dev_handoff.workflows.focus_view.back_link_tooltip": {
+        "string": "フォーカスビューを閉じる"
+    },
+    "dev_handoff.workflows.focus_view.back_to_current": {
+        "string": "現在のバージョンに戻る"
+    },
+    "dev_handoff.workflows.focus_view.comments": {
+        "string": "フォーカスされているデザインでのみコメントを残すことができます"
+    },
+    "dev_handoff.workflows.focus_view.compare_latest": {
+        "string": "最新バージョンと比較"
+    },
+    "dev_handoff.workflows.focus_view.complete_button.status_removed": {
+        "string": "ステータスが削除されたため、完了にすることはできません"
+    },
+    "dev_handoff.workflows.focus_view.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "dev_handoff.workflows.focus_view.copy_link_to_version": {
+        "string": "リンクをコピー"
+    },
+    "dev_handoff.workflows.focus_view.inspect_version": {
+        "string": "このバージョンをインスペクト"
+    },
+    "dev_handoff.workflows.focus_view.multiple_layers_selected": {
+        "string": "{count}個のレイヤーが選択されました"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.back.description": {
+        "string": "開発準備完了になっている項目の一覧に戻ります。"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.back.title": {
+        "string": "開発準備完了ビューに戻る"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.completed.description": {
+        "string": "完了済みにして、チームにこのデザインが構築されたことを知らせます。"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.completed.title": {
+        "string": "完了した作業のステータスを変更する"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.last_primary_cta_label": {
+        "string": "閉じる"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.secondary_cta_label": {
+        "string": "キャンセル"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.versions.description": {
+        "string": "デザインが開発準備完了になると、新しいバージョンのすべてがここに表示され、変更点のレビューと比較ができるようになります。"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.versions.title": {
+        "string": "各バージョンの変更点を表示"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.viewing.description": {
+        "string": "他のすべてのデザインが非表示になっていますが、引き続き同じツールにアクセスできます。"
+    },
+    "dev_handoff.workflows.focus_view.onboarding.viewing.title": {
+        "string": "フォーカスビューでのデザインの表示"
+    },
+    "dev_handoff.workflows.focus_view.show_canvas": {
+        "string": "ページで表示"
+    },
+    "dev_handoff.workflows.more_actions_tooltip": {
+        "string": "その他のアクション"
+    },
+    "dev_handoff.workflows.overview.banner.learn_more": {
+        "string": "詳細情報"
+    },
+    "dev_handoff.workflows.overview.banner.subtitle": {
+        "string": "インスペクトと構築の準備ができたデザインの検索と管理を行います"
+    },
+    "dev_handoff.workflows.overview.banner.title": {
+        "string": "開発者向けの概要"
+    },
+    "dev_handoff.workflows.overview.card_hover_expand_tooltip": {
+        "string": "フォーカスビューでインスペクト"
+    },
+    "dev_handoff.workflows.overview.clear_search": {
+        "string": "検索をクリア"
+    },
+    "dev_handoff.workflows.overview.empty_message_search": {
+        "string": "検索条件に一致する結果はありません"
+    },
+    "dev_handoff.workflows.overview.feedback": {
+        "string": "フィードバック"
+    },
+    "dev_handoff.workflows.overview.frames_count": {
+        "string": "{count, plural, other {{count}個のフレーム}}"
+    },
+    "dev_handoff.workflows.overview.learn_more": {
+        "string": "詳細情報"
+    },
+    "dev_handoff.workflows.overview.no_designs": {
+        "string": "{status}になっているデザインはありません。{link}"
+    },
+    "dev_handoff.workflows.overview.no_designs_completed": {
+        "string": "完了済み"
+    },
+    "dev_handoff.workflows.overview.no_designs_ready": {
+        "string": "開発準備完了"
+    },
+    "dev_handoff.workflows.overview.onboarding.first_rfd.description": {
+        "string": "このファイルの開発準備完了になっているすべてのデザインを1つのビューで管理します。"
+    },
+    "dev_handoff.workflows.overview.onboarding.first_rfd.title": {
+        "string": "開発準備完了のすべてを一元管理"
+    },
+    "dev_handoff.workflows.overview.onboarding.has_rfd.design.description": {
+        "string": "このファイルの開発準備完了になっているすべてのデザインを1つのビューで追跡します。"
+    },
+    "dev_handoff.workflows.overview.onboarding.has_rfd.dev_mode.description": {
+        "string": "準備ができたものをインスペクトする、更新内容を追跡する、構築に移る。すべてが1箇所で完結します。"
+    },
+    "dev_handoff.workflows.overview.onboarding.has_rfd.title": {
+        "string": "開発準備完了項目をすべてレビュー"
+    },
+    "dev_handoff.workflows.overview.onboarding.primary_cta": {
+        "string": "了解"
+    },
+    "dev_handoff.workflows.overview.onboarding.secondary_cta": {
+        "string": "詳細情報"
+    }
+}

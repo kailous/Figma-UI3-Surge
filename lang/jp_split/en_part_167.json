@@ -1,0 +1,152 @@
+{
+    "file_browser.team_settings.team_community_handle": {
+        "string": "@{communityProfileHandle}"
+    },
+    "file_browser.team_settings.team_name": {
+        "string": "チーム名"
+    },
+    "file_browser.team_settings.transfer": {
+        "string": "移転"
+    },
+    "file_browser.team_settings.transfer_team": {
+        "string": "チームを移転"
+    },
+    "file_browser.team_settings.transfer_team_link_to_an_external_organization": {
+        "string": "外部組織に{transferTeamLink}"
+    },
+    "file_browser.team_settings.view_team_figjam_palettes": {
+        "string": "チームのFigJamパレットを表示"
+    },
+    "file_browser.team_settings.view_team_fonts": {
+        "string": "チームのフォントを表示"
+    },
+    "file_browser.team_settings.view_team_libraries": {
+        "string": "チームのライブラリを表示"
+    },
+    "file_browser.team_settings_modal.admin_console_billing_button": {
+        "string": "請求に移動"
+    },
+    "file_browser.team_settings_modal.admin_console_billing_nudge": {
+        "string": "ご利用のプラン、請求の詳細、その他を管理します。"
+    },
+    "file_browser.team_settings_modal.community_profile": {
+        "string": "コミュニティプロフィール"
+    },
+    "file_browser.team_settings_modal.libraries": {
+        "string": "ライブラリ"
+    },
+    "file_browser.team_settings_modal.members_tab": {
+        "string": "メンバー"
+    },
+    "file_browser.team_settings_modal.members_tab_header": {
+        "string": "{numMembers, plural, other { · #人のメンバー}}"
+    },
+    "file_browser.team_settings_modal.settings_tab": {
+        "string": "設定"
+    },
+    "file_browser.team_settings_modal.upgrade": {
+        "string": "アップグレード"
+    },
+    "file_browser.team_settings_modal.upgrade_to_organization": {
+        "string": "ビジネスにアップグレードすると、チーム横断型デザインライブラリ、SSO、管理者コントロールを利用できます。"
+    },
+    "file_browser.team_tiles.private_team_tooltip": {
+        "string": "限定チーム · メンバーのみがこのチームのコンテンツを閲覧できます。"
+    },
+    "file_browser.team_tiles.secret_team_tooltip": {
+        "string": "シークレットチーム · メンバーまたは招待されたユーザーのみに見えます。"
+    },
+    "file_browser.teams": {
+        "string": "チーム"
+    },
+    "file_browser.templates_shelf.search_tooltip": {
+        "string": "すべてのテンプレートから検索"
+    },
+    "file_browser.templates_shelf.see_all": {
+        "string": "すべてのテンプレート"
+    },
+    "file_browser.templates_shelf.see_more": {
+        "string": "その他のテンプレート"
+    },
+    "file_browser.templates_shelf.title": {
+        "string": "FigJamテンプレート"
+    },
+    "file_browser.this_team": {
+        "string": "このチーム"
+    },
+    "file_browser.tool_bar.create_new": {
+        "string": "新規作成"
+    },
+    "file_browser.tool_bar.create_new_design_file_in": {
+        "string": "場所を指定してデザインファイルを新規作成..."
+    },
+    "file_browser.tool_bar.create_new_figjam_board_in": {
+        "string": "場所を指定してFigJamボードを新規作成..."
+    },
+    "file_browser.tool_bar.create_new_slide_deck_in": {
+        "string": "場所を指定してスライドデッキを新規作成..."
+    },
+    "file_browser.tool_bar.deleted": {
+        "string": "削除済み"
+    },
+    "file_browser.tool_bar.deleted.aria_label": {
+        "string": "削除済みタブ"
+    },
+    "file_browser.tool_bar.deleted_empty_state": {
+        "string": "削除済みのファイルはありません。"
+    },
+    "file_browser.tool_bar.drafts": {
+        "string": "下書き"
+    },
+    "file_browser.tool_bar.drafts.aria_label": {
+        "string": "ドラフトタブ"
+    },
+    "file_browser.tool_bar.drafts_to_move": {
+        "string": "移動が必要なドラフト"
+    },
+    "file_browser.tool_bar.file_creation_dropdown_display_text": {
+        "string": "チームプロジェクトリスト"
+    },
+    "file_browser.tool_bar.new": {
+        "string": "新規作成"
+    },
+    "file_browser.tool_bar.new_design_file": {
+        "string": "デザインファイル"
+    },
+    "file_browser.tool_bar.new_figjam_board": {
+        "string": "FigJamボード"
+    },
+    "file_browser.tool_bar.new_slide_deck": {
+        "string": "スライド"
+    },
+    "file_browser.tool_bar.recently_viewed_empty_state": {
+        "string": "最近表示したファイルがここに表示されます。"
+    },
+    "file_browser.tool_bar.recents": {
+        "string": "最近"
+    },
+    "file_browser.tool_bar.request_sent": {
+        "string": "申請中"
+    },
+    "file_browser.tool_bar.request_sent_tooltip": {
+        "string": "{editorString}のフルシートを申請中です"
+    },
+    "file_browser.tool_bar.request_sent_tooltip_figjam": {
+        "string": "FigJam"
+    },
+    "file_browser.tool_bar.request_sent_tooltip_figma_design": {
+        "string": "Figmaデザイン"
+    },
+    "file_browser.tool_bar.request_sent_tooltip_figma_design_and_figjam": {
+        "string": "FigmaデザインとFigJam"
+    },
+    "file_browser.tool_bar.see_all_editable_projects": {
+        "string": "{numberOfEditableProjects}件のプロジェクトをすべて表示"
+    },
+    "file_browser.tool_bar.trash": {
+        "string": "ごみ箱"
+    },
+    "file_browser.unavailable_view_resource": {
+        "string": "リソース"
+    }
+}

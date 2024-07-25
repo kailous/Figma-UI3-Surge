@@ -1,0 +1,152 @@
+{
+    "dev_handoff.annotations.alignment.top_left": {
+        "string": "左上"
+    },
+    "dev_handoff.annotations.alignment.top_right": {
+        "string": "右上"
+    },
+    "dev_handoff.annotations.all_properties_added": {
+        "string": "すべてのプロパティを追加済み"
+    },
+    "dev_handoff.annotations.auto": {
+        "string": "自動"
+    },
+    "dev_handoff.annotations.autolayout_horizontal": {
+        "string": "水平"
+    },
+    "dev_handoff.annotations.autolayout_mode": {
+        "string": "方向"
+    },
+    "dev_handoff.annotations.autolayout_vertical": {
+        "string": "垂直"
+    },
+    "dev_handoff.annotations.component": {
+        "string": "コンポーネント"
+    },
+    "dev_handoff.annotations.delete": {
+        "string": "アノテーションを削除"
+    },
+    "dev_handoff.annotations.font_size": {
+        "string": "フォントサイズ"
+    },
+    "dev_handoff.annotations.image": {
+        "string": "画像"
+    },
+    "dev_handoff.annotations.multiple": {
+        "string": "複数"
+    },
+    "dev_handoff.annotations.no_value": {
+        "string": "値なし"
+    },
+    "dev_handoff.annotations.pin_properties_label": {
+        "string": "プロパティ"
+    },
+    "dev_handoff.annotations.pin_properties_tooltip": {
+        "string": "プロパティをピン留めする"
+    },
+    "dev_handoff.annotations.remove_property": {
+        "string": "プロパティを削除"
+    },
+    "dev_handoff.annotations.shadow": {
+        "string": "シャドウ"
+    },
+    "dev_handoff.annotations.text_align": {
+        "string": "テキスト配置"
+    },
+    "dev_handoff.annotations.text_style": {
+        "string": "テキストスタイル"
+    },
+    "dev_handoff.annotations.video": {
+        "string": "動画"
+    },
+    "dev_handoff.annotations_introduction_overlay.description": {
+        "string": "開発モードでデザインにアノテーションやサイズを追加することで、何を作ろうとしているか明確に伝えることができます。"
+    },
+    "dev_handoff.annotations_introduction_overlay.image_alt": {
+        "string": "デザインに添付されているサイズとアノテーションテキスト。"
+    },
+    "dev_handoff.annotations_introduction_overlay.primary_cta": {
+        "string": "表示"
+    },
+    "dev_handoff.annotations_introduction_overlay.title": {
+        "string": "開発モードのアノテーション"
+    },
+    "dev_handoff.annotations_tools_overlay.annotations.description": {
+        "string": "重要なプロパティにタグを付けたり、レイヤーにメモを添付して詳しい説明を加えたりできます。"
+    },
+    "dev_handoff.annotations_tools_overlay.annotations.title": {
+        "string": "メモとプロパティのアノテーションを付ける"
+    },
+    "dev_handoff.annotations_tools_overlay.measurements.description": {
+        "string": "測定ツールで点と点の間をドラッグすることで、キャンパス上に重要なサイズを表示できます。"
+    },
+    "dev_handoff.annotations_tools_overlay.measurements.title": {
+        "string": "重要なサイズをハイライト"
+    },
+    "dev_handoff.annotations_upsell_overlay.description": {
+        "string": "このファイルにはアノテーションが含まれています。アノテーションは、詳細を簡単に確認できる開発モードの機能です。"
+    },
+    "dev_handoff.annotations_upsell_overlay.primary_cta": {
+        "string": "開発モードを開く"
+    },
+    "dev_handoff.annotations_upsell_overlay.secondary_cta": {
+        "string": "今はしない"
+    },
+    "dev_handoff.annotations_upsell_overlay.title": {
+        "string": "アノテーション"
+    },
+    "dev_handoff.assets": {
+        "string": "アセット"
+    },
+    "dev_handoff.assets.gif": {
+        "string": "GIF"
+    },
+    "dev_handoff.assets.icon": {
+        "string": "アイコン"
+    },
+    "dev_handoff.assets.image": {
+        "string": "画像"
+    },
+    "dev_handoff.assets.instance": {
+        "string": "コンポーネントインスタンス"
+    },
+    "dev_handoff.assets.show_more": {
+        "string": "{count, plural, other {さらに{count}個のアセットを表示}}"
+    },
+    "dev_handoff.assets.video": {
+        "string": "動画"
+    },
+    "dev_handoff.autorun_confirm_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "dev_handoff.autorun_confirm_modal.confirm_replace": {
+        "string": "({orgName}の管理者によって現在設定されている){orgPluginName}に代わり、すべてのファイルで{newPluginName}が自動的に実行されます。"
+    },
+    "dev_handoff.autorun_confirm_modal.dont_enable": {
+        "string": "有効にしない"
+    },
+    "dev_handoff.autorun_confirm_modal.enable_auto_run": {
+        "string": "自動実行を有効にする"
+    },
+    "dev_handoff.autorun_confirm_modal.enable_auto_run_desc": {
+        "string": "{orgName}の管理者がファイルを開くときに{orgPluginName}を自動実行するように設定していますが、その設定が無効になりました。\nもう一度{orgPluginName}の自動実行を有効にしますか?"
+    },
+    "dev_handoff.autorun_confirm_modal.replace": {
+        "string": "置き換える"
+    },
+    "dev_handoff.autorun_confirm_modal.stop_auto_run": {
+        "string": "自動実行を停止"
+    },
+    "dev_handoff.autorun_confirm_modal.stop_auto_run_desc": {
+        "string": "ファイルを開くときに{currentAutoRunPluginName}が自動的に実行されなくなります。"
+    },
+    "dev_handoff.autorun_confirm_modal.stop_auto_run_from_org": {
+        "string": "{orgName}の管理者が{orgPluginName}を自動実行するように設定していますが、ファイルを開くときにそのプラグインが自動実行されなくなります。"
+    },
+    "dev_handoff.autorun_confirm_modal.title_enable_auto_run": {
+        "string": "{pluginName}の自動実行を有効にしますか?"
+    },
+    "dev_handoff.autorun_confirm_modal.title_replace_auto_run": {
+        "string": "自動実行するプラグインを置き換えますか?"
+    }
+}

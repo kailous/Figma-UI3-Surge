@@ -1,0 +1,152 @@
+{
+    "community.actions.error_uploading_widget_artwork_image_error": {
+        "string": "ウィジェットアートワーク画像のアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_widget_code_error": {
+        "string": "ウィジェットコードのアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_widget_icon_error": {
+        "string": "ウィジェットアイコンのアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_widget_snapshot_image_error": {
+        "string": "ウィジェットスナップショット画像のアップロードエラー: {error}"
+    },
+    "community.actions.failed_to_create_a_new_file_from_hub_file_name": {
+        "string": "{hubFileName}からの新しいファイルの作成に失敗しました"
+    },
+    "community.actions.failed_to_duplicate_file_error": {
+        "string": "ファイルの複製に失敗しました: {error}"
+    },
+    "community.actions.failed_to_merge_msg": {
+        "string": "マージに失敗しました: {msg}"
+    },
+    "community.actions.failed_to_resolve_comment": {
+        "string": "コメントの解決に失敗しました"
+    },
+    "community.actions.failed_to_unresolve_comment": {
+        "string": "コメントの解消に失敗しました"
+    },
+    "community.actions.file_too_large": {
+        "string": "ファイルが大きすぎます"
+    },
+    "community.actions.followed_profile_name": {
+        "string": "{profileName}をフォローしました"
+    },
+    "community.actions.log_in_or_create_an_account_to_duplicate_this_file": {
+        "string": "ログインまたはアカウントを作成してこのファイルを複製"
+    },
+    "community.actions.manifest_name_has_been_imported": {
+        "string": "{manifestName}はインポートされています"
+    },
+    "community.actions.new_profile_connection_added": {
+        "string": "新しいプロフィールのコネクションを追加しました!"
+    },
+    "community.actions.pick_extension_manifest_file": {
+        "string": "拡張機能のマニフェストファイルを選ぶ"
+    },
+    "community.actions.plugin_has_been_imported": {
+        "string": "プラグインがインポートされました"
+    },
+    "community.actions.plugin_id_is_invalid": {
+        "string": "プラグインIDが無効です"
+    },
+    "community.actions.profile_deleted": {
+        "string": "プロフィールが削除されました。"
+    },
+    "community.actions.profile_not_found": {
+        "string": "プロフィールが見つかりません"
+    },
+    "community.actions.resource_is_invalid": {
+        "string": "リソースが無効です"
+    },
+    "community.actions.retry": {
+        "string": "再試行"
+    },
+    "community.actions.the_published_resource_i_ds_do_not_match": {
+        "string": "公開されているリソースIDが一致しません"
+    },
+    "community.actions.try_again_or_contact_support_figma_com": {
+        "string": "もう一度試すか、support@figma.comに連絡してください"
+    },
+    "community.actions.unable_to_delete_profile_please_try_again_later": {
+        "string": "プロフィールを削除できません。後でもう一度お試しください。"
+    },
+    "community.actions.unable_to_duplicate": {
+        "string": "複製できません: {error}"
+    },
+    "community.actions.unable_to_fetch_comments": {
+        "string": "コメントを取得できません"
+    },
+    "community.actions.unable_to_follow_this_profile_profile_name": {
+        "string": "このプロフィールはフォローできません: {profileName}"
+    },
+    "community.actions.unable_to_like_this_file_error": {
+        "string": "このファイルに「いいね」を付けることができません: {error}"
+    },
+    "community.actions.unable_to_like_this_plugin_error": {
+        "string": "このプラグインに「いいね」を付けることができません: {error}"
+    },
+    "community.actions.unable_to_like_this_widget_error": {
+        "string": "このウィジェットに「いいね」を付けることができません: {error}"
+    },
+    "community.actions.unable_to_load_creator_stats": {
+        "string": "作成者の統計情報を読み込めません。後でもう一度お試しください。"
+    },
+    "community.actions.unable_to_load_stats_for_a_resource": {
+        "string": "リソースの統計情報を読み込めません。後でもう一度お試しください。"
+    },
+    "community.actions.unable_to_mark_all_as_read_error_message": {
+        "string": "すべてを既読としてマークすることができません: {error}"
+    },
+    "community.actions.unable_to_save_plugin_error": {
+        "string": "プラグインを保存できません: {error}"
+    },
+    "community.actions.unable_to_save_plugin_please_try_again": {
+        "string": "プラグインを保存できません。もう一度お試しください。"
+    },
+    "community.actions.unable_to_save_widget_error": {
+        "string": "ウィジェットを保存できません: {error}"
+    },
+    "community.actions.unable_to_save_widget_please_try_again": {
+        "string": "ウィジェットを保存できません。もう一度お試しください。"
+    },
+    "community.actions.unable_to_unlike_this_file_error": {
+        "string": "このファイルの「いいね」を取り消すことができません: {error}"
+    },
+    "community.actions.unable_to_unlike_this_plugin_error": {
+        "string": "このプラグインの「いいね」を取り消すことができません: {error}"
+    },
+    "community.actions.unable_to_unlike_this_widget_error": {
+        "string": "このウィジェットの「いいね」を取り消すことができません: {error}"
+    },
+    "community.actions.unfollowed_profile": {
+        "string": "プロフィールのフォローを解除しました"
+    },
+    "community.actions.widget_has_been_imported": {
+        "string": "ウィジェットがインポートされました"
+    },
+    "community.actions.your_description_was_updated": {
+        "string": "説明が更新されました"
+    },
+    "community.actions.your_instagram_handle_is_not_valid": {
+        "string": "@{handle}は有効なInstagramハンドルではありません"
+    },
+    "community.actions.your_instagram_handle_was_updated": {
+        "string": "Instagramハンドルが更新されました"
+    },
+    "community.actions.your_location_was_updated": {
+        "string": "場所が更新されました"
+    },
+    "community.actions.your_organization_s_handle_was_set_to_profile_handle": {
+        "string": "組織のハンドルが@{profileHandle}に設定されました"
+    },
+    "community.actions.your_profile_handle_was_set_to_profile_handle": {
+        "string": "プロフィールハンドルが@{profileHandle}に設定されました"
+    },
+    "community.actions.your_profile_s_primary_email_was_set_to_email": {
+        "string": "プロフィールのプライマリーメールが{email}に設定されました"
+    },
+    "community.actions.your_team_s_handle_was_set_to_profile_handle": {
+        "string": "チームのハンドルが@{profileHandle}に設定されました"
+    }
+}

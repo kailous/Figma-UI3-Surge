@@ -1,0 +1,152 @@
+{
+    "payments_modal.learn_more_about_our_paid_plans": {
+        "string": "有料プランの詳細を参照してください"
+    },
+    "payments_modal.learn_more_about_team_plans": {
+        "string": "チームプランの詳細情報"
+    },
+    "payments_modal.more_files": {
+        "string": "他のファイル"
+    },
+    "payments_modal.move": {
+        "string": "移動"
+    },
+    "payments_modal.move_figjam_files_to_drafts": {
+        "string": "{numFigJamFiles, plural, other {{numFigJamFiles}個のFigJamファイルをドラフトに移動します}}"
+    },
+    "payments_modal.move_figma_files_to_drafts": {
+        "string": "{numFigmaFiles, plural, other {{numFigmaFiles}個のFigmaファイルをドラフトに移動します}}"
+    },
+    "payments_modal.okay": {
+        "string": "OK"
+    },
+    "payments_modal.on_the_starter_plan_your_team_is_limited": {
+        "string": "{maxFreeFiles, plural, other {スタータープランのチームの上限は、{maxFreeFiles}Figmaファイル、{maxFreeFiles}FigJamファイル、{maxFreeFolders}プロジェクトです。}}"
+    },
+    "payments_modal.org_trial.enterprise": {
+        "string": "エンタープライズ"
+    },
+    "payments_modal.org_trial.organization": {
+        "string": "ビジネス"
+    },
+    "payments_modal.org_trial.switch_my_workspace": {
+        "string": "ワークスペースを切り替える"
+    },
+    "payments_modal.org_trial_expired.description": {
+        "string": "このプランを継続する場合は、Figmaの営業担当にご連絡ください。"
+    },
+    "payments_modal.org_trial_expired.title": {
+        "string": "Figma{planText}のトライアルが終了しました"
+    },
+    "payments_modal.org_trial_pending.by_clicking_agree": {
+        "string": "「{agreeText}」をクリックすることで、上記の条項およびFigmaの{ssaLink}に同意します。"
+    },
+    "payments_modal.org_trial_pending.editor_count.seat_rename": {
+        "string": "この{planText}トライアルの有料シートの見積数は{editorCount}です。トライアル中はさらにシートを追加しても料金は請求されません"
+    },
+    "payments_modal.org_trial_pending.error": {
+        "string": "トライアル検証エラー。再読み込みをするか、Figmaにサポートを依頼してください"
+    },
+    "payments_modal.org_trial_pending.expiration_date": {
+        "string": "Figmaの{planText}プランのトライアルが本日スタートし、{endDate}に自動的に終了します"
+    },
+    "payments_modal.org_trial_pending.i_agree": {
+        "string": "同意する"
+    },
+    "payments_modal.org_trial_pending.make_sure_things_look_right": {
+        "string": "内容をご確認ください。同意いただくと、トライアル期間中、チームは{planText}プランのすべての機能にアクセスできます。"
+    },
+    "payments_modal.org_trial_pending.no_obligation_to_purchase": {
+        "string": "チームは、貴社とFigmaとがその後の最終的な商業契約を結ぶまで、Figma{planText}プランへのアクセス権を購入する義務を負いません。"
+    },
+    "payments_modal.org_trial_pending.ssa_link": {
+        "string": "ソフトウェアサービス契約"
+    },
+    "payments_modal.org_trial_pending.success": {
+        "string": "成功! トライアルへようこそ"
+    },
+    "payments_modal.org_trial_pending.terms_and_conditions": {
+        "string": "このトライアルには、Figmaの{ssaLink}(「SSA」)に「早期アクセス機能」として記載されている条件が適用されます。"
+    },
+    "payments_modal.org_trial_pending.trial_still_needs_admin_approval": {
+        "string": "このトライアルは、管理者にまだ承認されていないようです。Figma{planText}プランの利用を開始するには、管理者に連絡してください。"
+    },
+    "payments_modal.org_trial_pending.welcome_to_your_figma_trial": {
+        "string": "Figma{planText}のトライアルへようこそ"
+    },
+    "payments_modal.org_trial_pending.your_trial_is_almost_ready": {
+        "string": "トライアルをまもなく利用できます"
+    },
+    "payments_modal.pay_invoice": {
+        "string": "請求書の代金を支払う"
+    },
+    "payments_modal.pay_overdue_invoice_to_regain_access": {
+        "string": "期限の過ぎた請求書の代金を支払ってアクセス権を回復します"
+    },
+    "payments_modal.please_reach_out_to_b_class_name_styles_bold_support_figma_com_b_to_resolve_the_issue": {
+        "string": "この問題を解決するには、{supportEmail}までご連絡ください。"
+    },
+    "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue": {
+        "string": "この請求の問題を解決するには、組織管理者に連絡してください。"
+    },
+    "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue_thank_you": {
+        "string": "この請求の問題を解決するには、組織の管理者にご連絡ください。よろしくお願いいたします。"
+    },
+    "payments_modal.remove_invite_only_permissions_from_all_projects": {
+        "string": "\"招待限定\"権限をすべてのプロジェクトから削除"
+    },
+    "payments_modal.remove_projects": {
+        "string": "{numProjects, plural, other {{numProjects}個のプロジェクトを削除します}}"
+    },
+    "payments_modal.remove_view_only_permissions_from_all_projects": {
+        "string": "\"閲覧限定\"権限をすべてのプロジェクトから削除する"
+    },
+    "payments_modal.restore": {
+        "string": "復元"
+    },
+    "payments_modal.switch_organization_or_account": {
+        "string": "組織またはアカウントを切り替え"
+    },
+    "payments_modal.switch_workspaces_to_continue_using_figma": {
+        "string": "Figmaを引き続き使用するには、ワークスペースを切り替えてください。"
+    },
+    "payments_modal.team_name_is_currently_locked_please_update_your_payment_source_to_unlock_team_name_and_modify_team_members": {
+        "string": "{teamName}は現在ロックされています。{teamName}のロックを解除してチームメンバーを変更するには、支払い元を更新してください。"
+    },
+    "payments_modal.thank_you": {
+        "string": "どうぞよろしくお願いいたします。"
+    },
+    "payments_modal.these_files": {
+        "string": "これらのファイル"
+    },
+    "payments_modal.this_file": {
+        "string": "このファイル"
+    },
+    "payments_modal.this_project": {
+        "string": "このプロジェクト"
+    },
+    "payments_modal.to_meet_the_limits_for_your_starter_plan": {
+        "string": "チームのスタータープランの制限を守るには:"
+    },
+    "payments_modal.update_payment": {
+        "string": "支払い情報を更新"
+    },
+    "payments_modal.update_your_payment": {
+        "string": "支払い情報を更新"
+    },
+    "payments_modal.upgrade": {
+        "string": "アップグレード"
+    },
+    "payments_modal.upgrade_to_professional": {
+        "string": "プロフェッショナルにアップグレード"
+    },
+    "payments_modal.upgrade_to_verb_resource_name": {
+        "string": "{resourceName}を{verb}するには、アップグレードしてください"
+    },
+    "payments_modal.you_may_give_them_edit_access_later_if_you_upgrade_to_the_professional_plan_or_downgrade_other_editors_on_your_team_to_viewers.seat_rename": {
+        "string": "プロフェッショナルプランにアップグレードするか、チームの他のシートをダウングレードすると、後でこれらのメンバーに編集アクセス権を付与できます。"
+    },
+    "payments_modal.you_no_longer_have_access_to_this_organization": {
+        "string": "この組織にはアクセスできなくなりました"
+    }
+}

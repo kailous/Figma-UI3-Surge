@@ -1,0 +1,152 @@
+{
+    "permissions.audience_selector.project_resource_name": {
+        "string": "プロジェクト"
+    },
+    "permissions.audience_selector.prototype_resource_name": {
+        "string": "プロトタイプ"
+    },
+    "permissions.audience_selector.team_resource_name": {
+        "string": "チーム"
+    },
+    "permissions.audience_selector.workspace_members": {
+        "string": "ワークスペースメンバー"
+    },
+    "permissions.can_still_edit_allow_edit_anybody_with_link": {
+        "string": "{noun}ではリンクを知っている組織メンバーによる編集が許可されているため、このユーザーは{noun}を引き続き閲覧できます。"
+    },
+    "permissions.can_still_edit_allow_view_anybody_with_link": {
+        "string": "{noun}ではリンクを知っているすべてのユーザーに閲覧が許可されているため、このユーザーは{noun}を引き続き閲覧できます。"
+    },
+    "permissions.can_still_edit_anybody_with_the_link": {
+        "string": "{noun}ではリンクを知っているすべてのユーザーに編集が許可されているため、このユーザーは引き続き編集できます。"
+    },
+    "permissions.can_still_edit_edit_permissions": {
+        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き編集できます。"
+    },
+    "permissions.can_still_edit_folder_permissions": {
+        "string": "このユーザーにはこのファイルが含まれているプロジェクトの編集権限があるため、引き続き編集できます。"
+    },
+    "permissions.can_still_edit_org_member_with_link": {
+        "string": "{noun}ではリンクを知っているすべての組織メンバーに編集が許可されているため、このユーザーは引き続き編集できます。"
+    },
+    "permissions.can_still_edit_team_permissions": {
+        "string": "このユーザーにはこのファイルが含まれているチームの編集権限があるため、引き続き編集できます。"
+    },
+    "permissions.can_still_edit_team_project_is_in": {
+        "string": "このユーザーにはこのプロジェクトが含まれているチームの編集権限があるため、引き続き編集できます。"
+    },
+    "permissions.can_still_see_and_edit_allow_editing_by_org_members_with_link": {
+        "string": "{noun}ではリンクを知っている社内のメンバーに編集が許可されているため、このユーザーは{noun}を引き続き閲覧および編集できます。"
+    },
+    "permissions.can_still_see_and_edit_anybody_with_the_link_noun": {
+        "string": "{noun}ではリンクを知っているすべてのユーザーに編集が許可されているため、このユーザーは{noun}を引き続き閲覧および編集できます。"
+    },
+    "permissions.can_still_see_and_edit_permission_main_file": {
+        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
+    },
+    "permissions.can_still_see_and_edit_permission_team_file_is_in": {
+        "string": "このユーザーにはファイルが含まれているチームの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
+    },
+    "permissions.can_still_see_and_edit_permission_team_project_is_in": {
+        "string": "このユーザーにはファイルが含まれているプロジェクトの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
+    },
+    "permissions.can_still_see_edit_permission_on_main_file": {
+        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き{noun}を閲覧できます。"
+    },
+    "permissions.can_still_see_permission_project_file_is_on": {
+        "string": "このユーザーにはファイルが含まれているプロジェクトの権限があるため、引き続き{noun}を閲覧できます。"
+    },
+    "permissions.can_still_see_permission_team_file_is_on": {
+        "string": "このユーザーにはファイルが含まれているチームの権限があるため、引き続き{noun}を閲覧できます。"
+    },
+    "permissions.confirm_guest_invite.external_to_org_warning": {
+        "string": "{numEmails, plural, other {{emails}は組織{orgName}の一部でないということを覚えておいてください。{learnMore}}}"
+    },
+    "permissions.confirm_guest_invite.learn_more": {
+        "string": "詳細情報"
+    },
+    "permissions.confirm_guest_invite.send_invite": {
+        "string": "招待を送信"
+    },
+    "permissions.confirm_guest_invite.share_externally": {
+        "string": "この組織の外で共有しますか?"
+    },
+    "permissions.copy_link_button.tooltip.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "permissions.copy_link_button.tooltip.copy_link_prototype": {
+        "string": "プロトタイプリンクをコピー"
+    },
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_access": {
+        "string": "リンクをコピー・{org}の全員がアクセス可"
+    },
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_access_no_name": {
+        "string": "リンクをコピー・この組織の全員がアクセス可"
+    },
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_view_no_name_prototype": {
+        "string": "プロトタイプリンクをコピー・この組織の全員が閲覧可"
+    },
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・{org}の全員が閲覧可"
+    },
+    "permissions.copy_link_button.tooltip.everyone_at_team_can_access": {
+        "string": "リンクをコピー・{team}の全員がアクセス可"
+    },
+    "permissions.copy_link_button.tooltip.everyone_at_team_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・{team}の全員が閲覧可"
+    },
+    "permissions.copy_link_button.tooltip.members_of_project_can_access": {
+        "string": "リンクをコピー・{folder}のメンバーはアクセス可"
+    },
+    "permissions.copy_link_button.tooltip.members_of_project_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・{folder}のメンバーが閲覧可"
+    },
+    "permissions.copy_link_button.tooltip.members_of_project_or_team_can_access": {
+        "string": "リンクをコピー・このプロジェクトまたはチームのメンバーはアクセス可"
+    },
+    "permissions.copy_link_button.tooltip.members_of_project_or_team_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・このプロジェクトまたはチームのメンバーが閲覧可"
+    },
+    "permissions.copy_link_button.tooltip.people_invited_can_access": {
+        "string": "リンクをコピー・招待されたユーザーはアクセス可"
+    },
+    "permissions.copy_link_button.tooltip.people_invited_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・招待されたユーザーが閲覧可"
+    },
+    "permissions.copy_link_button.visual_bell.copy_prototype_link": {
+        "string": "プロトタイプリンクがコピーされました"
+    },
+    "permissions.copy_link_button.visual_bell.copy_prototype_link_name": {
+        "string": "{name}プロトタイプリンクがコピーされました"
+    },
+    "permissions.copy_link_button.visual_bell.copy_summary_link": {
+        "string": "リンクがコピーされました..."
+    },
+    "permissions.copy_link_button.visual_bell.see_link_settings": {
+        "string": "リンク設定を参照"
+    },
+    "permissions.deprovisioned_users.got_it": {
+        "string": "了解"
+    },
+    "permissions.deprovisioned_users.these_users_are_no_longer_in_the_org_name_organization_add_them_again_through_SCIM": {
+        "string": "{numEmails, plural, other {以下の人たちは組織{orgName}内のユーザーではなくなっています。招待を送信したい人がいる場合は、SCIMを通じてその人を組織に改めて登録するよう管理者に依頼してください。{listEmails}}}"
+    },
+    "permissions.embed.cancel_embed": {
+        "string": "キャンセル"
+    },
+    "permissions.embed.copy_embed_code": {
+        "string": "コピー"
+    },
+    "permissions.embed.copy_public_embed_code": {
+        "string": "公開埋め込みコードをコピー"
+    },
+    "permissions.embed.embed_page_name_in_your_webpage": {
+        "string": "Webページに{pageName}を埋め込みます"
+    },
+    "permissions.guests_banned.got_it": {
+        "string": "了解"
+    },
+    "permissions.guests_banned.invite_wasnt_sent_org_name": {
+        "string": "{numEmails, plural, other {{listEmails}に招待が送信されませんでした。組織{orgName}では外部ユーザーとの共有が許可されていません。}}"
+    }
+}

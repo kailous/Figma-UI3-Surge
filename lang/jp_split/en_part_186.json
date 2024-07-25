@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.publish-changes-to-library": {
+        "string": "変更をライブラリに公開"
+    },
+    "fullscreen_actions.publish-selection": {
+        "string": "選択されているコンポーネントの公開"
+    },
+    "fullscreen_actions.purge-all-memory": {
+        "string": "Purge all non-essential memory"
+    },
+    "fullscreen_actions.push-changes-to-main": {
+        "string": "変更をメインコンポーネントにプッシュ"
+    },
+    "fullscreen_actions.quick_actions.add-interactions": {
+        "string": "プロトタイプを作成"
+    },
+    "fullscreen_actions.quick_actions.auto-rename-layers": {
+        "string": "レイヤー名を変更"
+    },
+    "fullscreen_actions.quick_actions.find-assets-matching": {
+        "string": "{searchQuery}と一致するアセットを検索"
+    },
+    "fullscreen_actions.quick_actions.find-community-matching": {
+        "string": "{searchQuery}と一致するコミュニティを検索"
+    },
+    "fullscreen_actions.quick_actions.find-components-matching": {
+        "string": "{searchQuery}と一致するコンポーネントを検索"
+    },
+    "fullscreen_actions.quick_actions.find-extensions-matching": {
+        "string": "{searchQuery}と一致するプラグインとウィジェットを検索"
+    },
+    "fullscreen_actions.quick_actions.find-files-matching": {
+        "string": "「{searchQuery}」と一致するファイルを検索"
+    },
+    "fullscreen_actions.quick_actions.first-draft": {
+        "string": "デザインを作成"
+    },
+    "fullscreen_actions.quick_actions.first-draft-debug": {
+        "string": "ファーストドラフトデバッグツール"
+    },
+    "fullscreen_actions.quick_actions.first-draft-linting": {
+        "string": "最初のドラフトキットをLintでチェック"
+    },
+    "fullscreen_actions.quick_actions.first-draft-make-changes": {
+        "string": "変更を適用"
+    },
+    "fullscreen_actions.quick_actions.go-to-page": {
+        "string": "{pageName}に移動"
+    },
+    "fullscreen_actions.quick_actions.name-all-layers": {
+        "string": "レイヤー名を変更"
+    },
+    "fullscreen_actions.quick_actions.rewrite-this": {
+        "string": "リライト..."
+    },
+    "fullscreen_actions.quick_actions.shorten-text": {
+        "string": "短くする"
+    },
+    "fullscreen_actions.quick_actions.translate-text": {
+        "string": "翻訳..."
+    },
+    "fullscreen_actions.quick_create_immutable_frame": {
+        "string": "新しいシェイプまたは付箋"
+    },
+    "fullscreen_actions.ready-status-add": {
+        "string": "開発準備完了にする"
+    },
+    "fullscreen_actions.ready-status-remove": {
+        "string": "準備完了状態を削除"
+    },
+    "fullscreen_actions.recents": {
+        "string": "最近使ったプラグイン"
+    },
+    "fullscreen_actions.rectangle_tool": {
+        "string": "長方形ツール"
+    },
+    "fullscreen_actions.redo": {
+        "string": "やり直す"
+    },
+    "fullscreen_actions.redo-spell-checking": {
+        "string": "スペルチェックをやり直す"
+    },
+    "fullscreen_actions.reflow-immutable-frames": {
+        "string": "Reflow immutable frames"
+    },
+    "fullscreen_actions.regenerate-all-instances": {
+        "string": "すべてのインスタンスを再生成(低速)"
+    },
+    "fullscreen_actions.regenerate-component-props": {
+        "string": "選択範囲のコンポーネントプロパティを再生成"
+    },
+    "fullscreen_actions.regenerate-missing-thumbnails": {
+        "string": "欠落しているサムネイルを再生成(低速)"
+    },
+    "fullscreen_actions.relink-instances-to-local-component": {
+        "string": "ローカルコンポーネントにインスタンスを再リンク"
+    },
+    "fullscreen_actions.remove-annotations": {
+        "string": "アノテーションを削除"
+    },
+    "fullscreen_actions.remove-fill": {
+        "string": "塗りを削除"
+    },
+    "fullscreen_actions.remove-guide": {
+        "string": "ガイドを削除"
+    },
+    "fullscreen_actions.remove-horizontal-guides": {
+        "string": "水平ガイドをすべて削除"
+    },
+    "fullscreen_actions.remove-interactions-on-page": {
+        "string": "すべてのインタラクションの削除"
+    },
+    "fullscreen_actions.remove-interactions-on-selection": {
+        "string": "インタラクションの削除"
+    },
+    "fullscreen_actions.remove-orphaned-variables": {
+        "string": "孤立バリアブルを削除"
+    },
+    "fullscreen_actions.remove-platform-shape-definition": {
+        "string": "Remove Platform Shape Definition"
+    },
+    "fullscreen_actions.remove-stroke": {
+        "string": "線の削除"
+    },
+    "fullscreen_actions.remove-vertical-guides": {
+        "string": "垂直ガイドをすべて削除"
+    },
+    "fullscreen_actions.rename-section": {
+        "string": "セクション名の変更"
+    },
+    "fullscreen_actions.rename-selection": {
+        "string": "選択範囲の名前を変更"
+    },
+    "fullscreen_actions.repair-corrupt-override-keys-for-selected": {
+        "string": "選択されているインスタンスのオーバーライドを修復"
+    },
+    "fullscreen_actions.repair-missing-override-keys": {
+        "string": "インスタンスオーバーライドの修正"
+    },
+    "fullscreen_actions.repair-selected-instances": {
+        "string": "コンポーネントコネクションの修復"
+    },
+    "fullscreen_actions.repair-state-group-versions": {
+        "string": "コンポーネントセットバージョンの修復"
+    },
+    "fullscreen_actions.repair-variable-connections": {
+        "string": "バリアブルコレクションを修復"
+    },
+    "fullscreen_actions.repair-variable-mode-values": {
+        "string": "バリアブルモードの値を修復"
+    }
+}

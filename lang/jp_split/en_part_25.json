@@ -1,0 +1,152 @@
+{
+    "avatar_actions.an_error_occurred_while_setting_the_organization_icon": {
+        "string": "組織アイコンの設定中にエラーが発生しました。"
+    },
+    "avatar_actions.an_error_occurred_while_setting_the_team_icon": {
+        "string": "チームアイコンの設定中にエラーが発生しました。"
+    },
+    "avatar_actions.an_error_occurred_while_setting_the_workspace_icon": {
+        "string": "ワークスペースアイコンの設定中にエラーが発生しました。"
+    },
+    "avatar_actions.an_error_occurred_while_uploading_the_image": {
+        "string": "画像のアップロード中にエラーが発生しました"
+    },
+    "avatar_actions.editor_uploaded.an_error_occurred_while_setting_your_profile_photo": {
+        "string": "プロフィールの写真の設定中にエラーが発生しました。"
+    },
+    "avatar_actions.team_icon_updated": {
+        "string": "チームアイコンが更新されました"
+    },
+    "avatar_actions.workspace_icon_updated": {
+        "string": "ワークスペースアイコンを更新しました"
+    },
+    "avatar_editor.an_error_occurred_while_loading_the_image": {
+        "string": "画像の読み込み中にエラーが発生しました。"
+    },
+    "avatar_editor.edit": {
+        "string": "編集"
+    },
+    "avatar_editor.modal_title": {
+        "string": "アバターを編集"
+    },
+    "avatar_editor.save_image": {
+        "string": "画像を保存"
+    },
+    "avatar_editor.scale": {
+        "string": "アバターの拡大縮小"
+    },
+    "avatar_editor.your_profile_image_must_be_at_least_500_x500_px": {
+        "string": "プロフィール画像は500x500px以上である必要があります"
+    },
+    "avatar.tooltip.current_user_handle": {
+        "string": "{handle} (あなた){roleName}"
+    },
+    "avatar.tooltip.edit_name": {
+        "string": "名前を編集"
+    },
+    "avatar.tooltip.other_user_handle": {
+        "string": "{handle}{roleName}"
+    },
+    "avatar.tooltip.spotlight_user_handle": {
+        "string": "{handle}にスポットライト中"
+    },
+    "avatar.tooltip.view_profile": {
+        "string": "プロフィールを表示"
+    },
+    "avatar.tooltip.you": {
+        "string": "(あなた)"
+    },
+    "banner.browser_deprecation.description": {
+        "string": "Figmaを引き続きご利用いただくため、{deprecationDate, date, ::MMMMd}までにお使いのブラウザを最新版にアップグレードしてください"
+    },
+    "banner.browser_deprecation.description_now": {
+        "string": "Figmaを引き続きご利用いただくため、お使いのブラウザを最新版にアップグレードしてください"
+    },
+    "banner.browser_deprecation.learn_more": {
+        "string": "詳細はこちらをご覧ください。"
+    },
+    "banner.browser_deprecation.title": {
+        "string": "お使いのブラウザは、まもなくサポートが終了します"
+    },
+    "banner.config_2024_apac_promo.title": {
+        "string": "Config APACまもなく開催"
+    },
+    "banner.config_2024_promo.primary_cta": {
+        "string": "詳細はこちら"
+    },
+    "banner.config_2024_promo.secondary_cta": {
+        "string": "閉じる"
+    },
+    "banner.config_2024_virtual_promo.primary_cta": {
+        "string": "登録"
+    },
+    "banner.config_2024_virtual_promo.title": {
+        "string": "6月26日～27日のConfigライブ配信にご登録ください"
+    },
+    "banner.desktop_app_deprecation.description": {
+        "string": "Figmaを引き続きご利用いただくため、{deprecationDate, date, ::MMMMd}までに新しいバージョンにアップグレードしてください"
+    },
+    "banner.desktop_app_deprecation.learn_more": {
+        "string": "ダウンロード"
+    },
+    "banner.desktop_app_deprecation.title": {
+        "string": "お使いのデスクトップアプリは、まもなくサポートが終了します"
+    },
+    "banner.desktop_download_button": {
+        "string": "デスクトップアプリを入手"
+    },
+    "banner.desktop_download_description": {
+        "string": "タブ、ファイルへのクイックアクセス、新規ファイル作成、専用のデスクトップ通知を利用して、ワークフローをさらに向上しましょう。"
+    },
+    "banner.desktop_download_title": {
+        "string": "Figmaデスクトップアプリをダウンロード"
+    },
+    "banner.edu_grace_period.editing_restricted_on_file": {
+        "string": "{teamName}のこのエデュケーションチームファイルを編集するには、学生または教職員であることを確認してください。"
+    },
+    "banner.edu_grace_period.education_team_members_need_to_verify_their_education_status": {
+        "string": "エデュケーションチームのメンバーが引き続きコラボレーションするためには、それぞれのエデュケーションプラン利用資格を確認する必要があります。"
+    },
+    "banner.edu_grace_period.grace_period_team_reminder": {
+        "string": "これは、エデュケーションチーム{teamName}のファイルです。このファイルを{endDate, date, ::MMMMd}以降も編集する場合は、学生または教職員であることを確認してください。"
+    },
+    "banner.edu_grace_period.move_or_duplicate_files_to_another_location_to_save_your_work": {
+        "string": "ファイルを別の場所に移動または複製して、作業内容を保存してください。"
+    },
+    "banner.edu_grace_period.only_edu_grace_period_days_left": {
+        "string": "{daysLeft, plural, other {学生か教育者であることを確認するための残り日数は{daysLeft}日です}}"
+    },
+    "banner.edu_grace_period.team_is_now_view_only_for_all_members": {
+        "string": "{teamName}はすべてのメンバーが閲覧限定になりました。"
+    },
+    "banner.edu_grace_period.to_keep_collaborating_on_figma_s_education_plan_please_verify_your_status_soon": {
+        "string": "Figmaのエデュケーションプランでコラボレーションを続けるために、ステータスをすぐに確認してください。"
+    },
+    "banner.edu_grace_period.verification_required": {
+        "string": "確認が必要です"
+    },
+    "banner.edu_grace_period.verify_status_button": {
+        "string": "ステータスを確認"
+    },
+    "banner.edu_grace_period.you_can_no_longer_edit_files_in_team": {
+        "string": "{teamName}のファイルを編集できなくなりました。"
+    },
+    "banner.edu_grace_period.your_education_plan_has_expired": {
+        "string": "エデュケーションプランが終了しました"
+    },
+    "banner.edu_grace_period.your_education_plan_has_expired.is_member": {
+        "string": "{teamName}のエデュケーションプランが終了しました"
+    },
+    "banner.file_creation_failure.description": {
+        "string": "このオフラインファイルを同期できませんでした。内容を新しいファイルにコピーして、作業を保存してください。"
+    },
+    "banner.file_creation_failure.title": {
+        "string": "ファイルをオフラインで利用できません"
+    },
+    "banner.free_limit_locked.ask_your_team_admin_for_details": {
+        "string": "詳細はチームの管理者にお問い合わせください。"
+    },
+    "banner.free_limit_locked.learn_more": {
+        "string": "詳細を表示"
+    }
+}

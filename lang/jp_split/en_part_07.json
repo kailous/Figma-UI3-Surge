@@ -1,0 +1,152 @@
+{
+    "activity_log.filter.integrations": {
+        "string": "統合"
+    },
+    "activity_log.filter.last_month": {
+        "string": "過去30日間"
+    },
+    "activity_log.filter.last_week": {
+        "string": "過去7日間"
+    },
+    "activity_log.filter.libraries": {
+        "string": "ライブラリ"
+    },
+    "activity_log.filter.merged_a_branch": {
+        "string": "ブランチのマージ"
+    },
+    "activity_log.filter.moved_a_file": {
+        "string": "ファイル移動"
+    },
+    "activity_log.filter.moved_a_project": {
+        "string": "プロジェクト移動"
+    },
+    "activity_log.filter.network_restriction_change": {
+        "string": "ネットワークアクセス設定の変更"
+    },
+    "activity_log.filter.oauth_token_grant_revoke": {
+        "string": "アプリ接続/切断"
+    },
+    "activity_log.filter.open_sessions_end": {
+        "string": "オープンセッションの終了"
+    },
+    "activity_log.filter.open_sessions_start": {
+        "string": "オープンセッションの開始"
+    },
+    "activity_log.filter.org_domain_added": {
+        "string": "ドメインの追加"
+    },
+    "activity_log.filter.org_domain_capture_changed": {
+        "string": "ドメインキャプチャーの更新"
+    },
+    "activity_log.filter.org_domain_management_group_header": {
+        "string": "ドメイン管理"
+    },
+    "activity_log.filter.org_domain_removed": {
+        "string": "ドメインの削除"
+    },
+    "activity_log.filter.org_domain_verified": {
+        "string": "ドメインの確認"
+    },
+    "activity_log.filter.org_invite_created": {
+        "string": "組織の招待の作成"
+    },
+    "activity_log.filter.org_join_request_approved": {
+        "string": "組織参加申請の承認"
+    },
+    "activity_log.filter.org_library_approval_changed": {
+        "string": "組織のライブラリ承認変更"
+    },
+    "activity_log.filter.org_library_setting_changed": {
+        "string": "組織のライブラリ設定変更"
+    },
+    "activity_log.filter.org_membership_changed": {
+        "string": "組織メンバーシップ変更"
+    },
+    "activity_log.filter.org_merged": {
+        "string": "組織のマージ"
+    },
+    "activity_log.filter.org_role_changed.seat_rename": {
+        "string": "組織のシートタイプの変更"
+    },
+    "activity_log.filter.organizations": {
+        "string": "組織"
+    },
+    "activity_log.filter.outgoing_transfers": {
+        "string": "外部への移転"
+    },
+    "activity_log.filter.permanently_deleted_a_file": {
+        "string": "ファイルの完全な削除"
+    },
+    "activity_log.filter.personal_access_token_create_delete": {
+        "string": "個人アクセストークン作成/削除"
+    },
+    "activity_log.filter.plugin_approve_list_requested": {
+        "string": "プラグイン承認申請"
+    },
+    "activity_log.filter.plugin_approve_list_setting_changed": {
+        "string": "プラグイン承認設定変更"
+    },
+    "activity_log.filter.plugin_deleted": {
+        "string": "プラグイン削除"
+    },
+    "activity_log.filter.plugin_management": {
+        "string": "プラグイン管理"
+    },
+    "activity_log.filter.plugin_ownership_transfer": {
+        "string": "プラグインオーナーシップ移転"
+    },
+    "activity_log.filter.plugin_published": {
+        "string": "プラグイン公開"
+    },
+    "activity_log.filter.plugin_published_updated_deleted": {
+        "string": "プラグイン公開/更新/削除"
+    },
+    "activity_log.filter.plugin_publisher_accept_remove_invite": {
+        "string": "プラグイン公開者招待の同意/削除"
+    },
+    "activity_log.filter.plugin_publisher_invite": {
+        "string": "プラグイン公開者招待"
+    },
+    "activity_log.filter.plugin_publisher_remove": {
+        "string": "プラグイン公開者削除"
+    },
+    "activity_log.filter.plugin_publishers": {
+        "string": "プラグイン公開者"
+    },
+    "activity_log.filter.plugin_updated": {
+        "string": "プラグイン更新"
+    },
+    "activity_log.filter.private_plugins": {
+        "string": "プライベートプラグイン"
+    },
+    "activity_log.filter.private_widgets": {
+        "string": "プライベートウィジェット"
+    },
+    "activity_log.filter.project_membership_changed": {
+        "string": "プロジェクトメンバーシップ変更"
+    },
+    "activity_log.filter.projects": {
+        "string": "プロジェクト"
+    },
+    "activity_log.filter.removed_workspace_admins": {
+        "string": "ワークスペース管理者の削除"
+    },
+    "activity_log.filter.renamed_a_file": {
+        "string": "ファイル名変更"
+    },
+    "activity_log.filter.renamed_a_project": {
+        "string": "プロジェクト名変更"
+    },
+    "activity_log.filter.renamed_a_team": {
+        "string": "チーム名変更"
+    },
+    "activity_log.filter.renamed_a_workspace": {
+        "string": "ワークスペース名変更"
+    },
+    "activity_log.filter.requested_to_join_the_org": {
+        "string": "組織への参加申請"
+    },
+    "activity_log.filter.restored_a_file": {
+        "string": "ファイル復元"
+    }
+}

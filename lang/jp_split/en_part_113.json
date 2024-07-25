@@ -1,0 +1,152 @@
+{
+    "fullscreen.color_management.document_modal.options.convert.title": {
+        "string": "外観を保持(変換)"
+    },
+    "fullscreen.color_management.document_modal.title": {
+        "string": "カラープロファイルを{color_profile}に変更"
+    },
+    "fullscreen.color_management.document_modal.warning.clamp.convert": {
+        "string": "一部の色が失われる場合があります。"
+    },
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.assign": {
+        "string": "お使いのブラウザはDisplay P3をサポートしていませんが、他のユーザーは割り当て後の表示を確認できます。"
+    },
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.convert": {
+        "string": "お使いのブラウザはDisplay P3をサポートしていませんが、他のユーザーは変換後の表示を確認できます。"
+    },
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.monitor": {
+        "string": "カラープロファイルは、ディスプレイがDisplay P3カラーの表示に対応していない場合でも適用されます。"
+    },
+    "fullscreen.color_management.file_history.assign-display-p3": {
+        "string": "Display P3を割り当てました"
+    },
+    "fullscreen.color_management.file_history.assign-srgb": {
+        "string": "sRGBを割り当てました"
+    },
+    "fullscreen.color_management.file_history.label": {
+        "string": "カラープロファイル変更"
+    },
+    "fullscreen.color_management.user_color_profile.menu_item": {
+        "string": "カラープロファイル..."
+    },
+    "fullscreen.color_management.user_color_profile.quick_action": {
+        "string": "カラープロファイルの設定を開く"
+    },
+    "fullscreen.color_management.user_color_profile_modal.client_type.browser": {
+        "string": "ブラウザ"
+    },
+    "fullscreen.color_management.user_color_profile_modal.client_type.desktop_app": {
+        "string": "クライアント"
+    },
+    "fullscreen.color_management.user_color_profile_modal.descriptions.affected_files": {
+        "string": "この基本設定は、新しいFigmaファイルに適用されます。"
+    },
+    "fullscreen.color_management.user_color_profile_modal.info.display_p3_supported": {
+        "string": "お使いのディスプレイはDisplay P3をサポートしています。"
+    },
+    "fullscreen.color_management.user_color_profile_modal.info.srgb_supported": {
+        "string": "お使いのディスプレイはsRGBをサポートしています。"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.display_p3.description": {
+        "string": "Appleデバイスに最適なDisplay P3は、より広いカラースペクトルを備えていますが、ウェブデザインにはお勧めできません。"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.display_p3.value": {
+        "string": "Display P3"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.label": {
+        "string": "優先カラープロファイル:"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.srgb.description": {
+        "string": "sRGBは、さまざまなデバイス向けにデザインを行う場合に最適ですが、Display P3よりもカラースペクトルは狭くなります。"
+    },
+    "fullscreen.color_management.user_color_profile_modal.options.srgb.value": {
+        "string": "sRGB"
+    },
+    "fullscreen.color_management.user_color_profile_modal.title": {
+        "string": "カラープロファイル設定"
+    },
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.alternative_display": {
+        "string": "Display P3をサポートしている{displayName}ディスプレイに切り替えてください。"
+    },
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.client": {
+        "string": "{client}はDisplay P3をサポートできませんが、このプロファイルを使用してエクスポートすることは可能です。"
+    },
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.display": {
+        "string": "お使いのディスプレイはDisplay P3をサポートできませんが、このプロファイルを使用してエクスポートすることは可能です。"
+    },
+    "fullscreen.color_palette.apply_palette_failure": {
+        "string": "カラーパレットを変更できませんでした"
+    },
+    "fullscreen.color_palette.delete_failure": {
+        "string": "パレットを削除できませんでした"
+    },
+    "fullscreen.color_palette.delete_success": {
+        "string": "パレットを削除しました"
+    },
+    "fullscreen.color_palette.saved_failure": {
+        "string": "パレットに保存できませんでした"
+    },
+    "fullscreen.color_palette.saved_success": {
+        "string": "パレットを保存しました"
+    },
+    "fullscreen.color_picker.effect_color": {
+        "string": "エフェクトカラー"
+    },
+    "fullscreen.context_menu.auto_rename_layers": {
+        "string": "レイヤー名を変更"
+    },
+    "fullscreen.context_menu.copy_link": {
+        "string": "{editorSpecifierString}リンクをコピー"
+    },
+    "fullscreen.context_menu.export_selected_video": {
+        "string": "動画をエクスポート"
+    },
+    "fullscreen.context_menu.export_selection": {
+        "string": "選択内容をエクスポート..."
+    },
+    "fullscreen.context_menu.flatten": {
+        "string": "統合"
+    },
+    "fullscreen.context_menu.hide_comments": {
+        "string": "コメントを非表示"
+    },
+    "fullscreen.context_menu.lock_unlock": {
+        "string": "ロック/ロック解除"
+    },
+    "fullscreen.context_menu.multiselect": {
+        "string": "オブジェクトを選択"
+    },
+    "fullscreen.context_menu.rename": {
+        "string": "名前を変更"
+    },
+    "fullscreen.context_menu.show_hide": {
+        "string": "表示/非表示"
+    },
+    "fullscreen.context_menu.show_hide_comments": {
+        "string": "コメントを表示/非表示"
+    },
+    "fullscreen.context_menu.ungroup": {
+        "string": "グループ解除"
+    },
+    "fullscreen.draggable_list.add": {
+        "string": "追加"
+    },
+    "fullscreen.draggable_list.remove": {
+        "string": "削除"
+    },
+    "fullscreen.draggable_list.scroll_behavior": {
+        "string": "スクロールの操作"
+    },
+    "fullscreen.export.cancel": {
+        "string": "キャンセル"
+    },
+    "fullscreen.export.downloading": {
+        "string": "画像のダウンロード中…"
+    },
+    "fullscreen.export.downloading_progress": {
+        "string": "{downloadingProgress}/{downloadingTotal}の画像をダウンロード中…"
+    },
+    "fullscreen.export.export": {
+        "string": "エクスポート"
+    }
+}

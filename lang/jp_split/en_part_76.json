@@ -1,0 +1,152 @@
+{
+    "community.publishing.security_form.opt_out_button": {
+        "string": "セキュリティの詳細情報を削除"
+    },
+    "community.publishing.security_form.opt_out_confirmation": {
+        "string": "削除"
+    },
+    "community.publishing.security_form.opt_out_title": {
+        "string": "セキュリティの詳細情報を削除しますか?"
+    },
+    "community.publishing.security_form.pending_rejected.opt_out_desc": {
+        "string": "このバージョンを公開すると、送信済みの回答がセキュリティ自己評価プログラムから削除されます。"
+    },
+    "community.publishing.security_form.plugin_description": {
+        "string": "以下のすべての質問に回答して、ユーザーや企業の管理者との信頼関係を築き、プラグインによるデータの取り扱い方法を共有してください。プラグインがFigmaのデータセキュリティのベストプラクティスに従っている場合、この情報はプラグインのコミュニティページに表示されます。"
+    },
+    "community.publishing.security_form.plugin_sharing_description": {
+        "string": "この情報の共有は任意です。情報を提供しなくても、プラグインを公開できます。"
+    },
+    "community.publishing.security_form.widget_description": {
+        "string": "以下のすべての質問に回答して、ユーザーや企業の管理者との信頼関係を築き、ウィジェットによるデータの取り扱い方法を共有してください。ウィジェットがFigmaのデータセキュリティのベストプラクティスに従っている場合、この情報はウィジェットのコミュニティページに表示されます。"
+    },
+    "community.publishing.security_form.widget_sharing_description": {
+        "string": "この情報の共有は任意です。情報を提供しなくても、ウィジェットを公開できます。"
+    },
+    "community.publishing.see_our_guidelines_here": {
+        "string": "ここでガイドラインを参照する"
+    },
+    "community.publishing.select_a_category": {
+        "string": "カテゴリーを選択"
+    },
+    "community.publishing.select_a_subcategory": {
+        "string": "サブカテゴリーを選択"
+    },
+    "community.publishing.select_up_to_10_images_of_your_file": {
+        "string": "ファイルの最大10個の画像を選択します"
+    },
+    "community.publishing.set_a_unique_handle_for_your_new_personal_community_profile": {
+        "string": "新しい個人コミュニティプロフィール用の一意のハンドルを設定します"
+    },
+    "community.publishing.set_a_unique_handle_for_your_organization_org_name_s_new_community_profile": {
+        "string": "組織{orgName}の新しいコミュニティプロフィール用の一意のハンドルを設定します"
+    },
+    "community.publishing.set_a_unique_handle_for_your_team_team_name_s_new_community_profile": {
+        "string": "チーム{teamName}の新しいコミュニティプロフィール用の一意のハンドルを設定します"
+    },
+    "community.publishing.set_as_thumbnail": {
+        "string": "サムネイルとして設定"
+    },
+    "community.publishing.snapshot_must_not_be_empty": {
+        "string": "スナップショットは、空にできません。"
+    },
+    "community.publishing.some_media_was_deduplicated": {
+        "string": "アップロードしようとしているファイルは既に存在します。カルーセルには、他と重複しないファイルのみが追加されています。"
+    },
+    "community.publishing.subcategory": {
+        "string": "サブカテゴリー"
+    },
+    "community.publishing.submit_a_new_version": {
+        "string": "新しいバージョンを送信"
+    },
+    "community.publishing.submit_for_review": {
+        "string": "レビュー用に送信"
+    },
+    "community.publishing.submitted_with_date": {
+        "string": "{date}に提出済み"
+    },
+    "community.publishing.success_your_resource_has_been_published.plugin": {
+        "string": "成功しました!プラグインが公開されました。"
+    },
+    "community.publishing.success_your_resource_has_been_published.plugin.to_organization": {
+        "string": "成功しました!プラグインが組織に公開されました。"
+    },
+    "community.publishing.success_your_resource_has_been_published.widget": {
+        "string": "成功しました!ウィジェットが公開されました。"
+    },
+    "community.publishing.success_your_resource_has_been_published.widget.to_organization": {
+        "string": "成功しました!ウィジェットが組織に公開されました。"
+    },
+    "community.publishing.success_your_resource_has_been_submitted_for_review.plugin": {
+        "string": "成功しました!プラグインがレビューのために送信されました。"
+    },
+    "community.publishing.success_your_resource_has_been_submitted_for_review.widget": {
+        "string": "成功しました!ウィジェットがレビューのために送信されました。"
+    },
+    "community.publishing.support_contact": {
+        "string": "サポート連絡先"
+    },
+    "community.publishing.support_contact_must_be_a_valid_email_or_url": {
+        "string": "サポート連絡先は、有効なメールかURLでなければなりません"
+    },
+    "community.publishing.support_contact_must_be_at_most_100_characters_long": {
+        "string": "サポート連絡先は100文字以内にする必要があります"
+    },
+    "community.publishing.support_contact_must_not_be_empty": {
+        "string": "サポート連絡先は空にできません"
+    },
+    "community.publishing.tag_is_repeated_more_than_once": {
+        "string": "{tag}タグは複数回繰り返されます"
+    },
+    "community.publishing.tag_not_in_category": {
+        "string": "{tag}は、リストの有効な値ではありません。"
+    },
+    "community.publishing.tagline_must_be_at_most_100_characters_long": {
+        "string": "タグラインは100文字以内にする必要があります"
+    },
+    "community.publishing.tags": {
+        "string": "タグ"
+    },
+    "community.publishing.tags_can_only_contain_certain_characters": {
+        "string": "タグでは文字、数字、ダッシュ、アンダースコア、スペースのみを使用できます"
+    },
+    "community.publishing.tags_can_only_contain_lowercase_characters": {
+        "string": "タグには小文字のみを使用できます"
+    },
+    "community.publishing.tags_can_only_have_up_to_25_characters": {
+        "string": "タグは最大25文字です。"
+    },
+    "community.publishing.tags_cannot_be_longer_than_3_words": {
+        "string": "タグは3ワード以内にしてください"
+    },
+    "community.publishing.tags_cannot_have_consecutive_dashes_underscores_or_spaces": {
+        "string": "タグに連続したダッシュ、アンダースコア、スペースを含めることはできません。"
+    },
+    "community.publishing.tags_must_begin_and_end_with_a_letter_or_number": {
+        "string": "タグの先頭と末尾は、文字か数字にする必要があります"
+    },
+    "community.publishing.tags_out_of_tags": {
+        "string": "{num}/{max}"
+    },
+    "community.publishing.team_name": {
+        "string": "{team} (チーム)"
+    },
+    "community.publishing.tell_us_more": {
+        "string": "説明を入力"
+    },
+    "community.publishing.this_editor_is_being_published_as_a_file": {
+        "string": "このリソースはファイルとして公開されます。プロトタイプとして公開するには、{fileEditorLink}に移動します。"
+    },
+    "community.publishing.this_file_has_been_published_to_community_as_a_library": {
+        "string": "このファイルは、ライブラリとしてコミュニティに公開されています。ファイル内から更新を公開してください。"
+    },
+    "community.publishing.thumbnail": {
+        "string": "サムネイル"
+    },
+    "community.publishing.thumbnail_image": {
+        "string": "サムネイル画像"
+    },
+    "community.publishing.type_name_or_handle": {
+        "string": "追加するタイプ名またはコミュニティハンドル"
+    }
+}

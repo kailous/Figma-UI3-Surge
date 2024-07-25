@@ -1,0 +1,152 @@
+{
+    "fullscreen.libraries_button.tooltip.no_updates": {
+        "string": "ライブラリ"
+    },
+    "fullscreen.libraries_button.tooltip.updates_to_pull": {
+        "string": "ライブラリの更新を確認"
+    },
+    "fullscreen.libraries_button.tooltip.updates_to_push": {
+        "string": "未公開の変更を確認"
+    },
+    "fullscreen.link_shortcuts_onboarding.create_link": {
+        "string": "リンクを作成"
+    },
+    "fullscreen.link_shortcuts_onboarding.description": {
+        "string": "テキストにリンクを追加するためのショートカットを変更しました:"
+    },
+    "fullscreen.link_shortcuts_onboarding.got_it": {
+        "string": "了解"
+    },
+    "fullscreen.link_shortcuts_onboarding.show_actions_updated": {
+        "string": "{actionsKeyCommand}でアクションを開けるようになりました"
+    },
+    "fullscreen.link_shortcuts_onboarding.show_links_updated": {
+        "string": "「{link}」のショートカットが{linkKeyCommand}に変更されました"
+    },
+    "fullscreen.link_shortcuts_onboarding.title": {
+        "string": "新しいキーボードショートカット"
+    },
+    "fullscreen.live_object_panel.detach_from_live": {
+        "string": "インスタンスを切り離す"
+    },
+    "fullscreen.live_object_panel.go_to_original": {
+        "string": "オリジナルを表示"
+    },
+    "fullscreen.live_object_panel.live_object": {
+        "string": "ライブオブジェクト"
+    },
+    "fullscreen.live_object_panel.live_object_options": {
+        "string": "ライブオブジェクトのオプション"
+    },
+    "fullscreen.live_object_panel.live_update_error": {
+        "string": "更新できません。後でもう一度お試しください"
+    },
+    "fullscreen.live_object_panel.live_update_success": {
+        "string": "ライブオブジェクトを更新しました"
+    },
+    "fullscreen.live_object_panel.reset_all_changes": {
+        "string": "すべての変更をリセット"
+    },
+    "fullscreen.live_object_panel.update_live_object": {
+        "string": "最新版に更新"
+    },
+    "fullscreen.mask_panel.alpha": {
+        "string": "アルファ"
+    },
+    "fullscreen.mask_panel.alpha_extended": {
+        "string": "アルファ(透明度使用)"
+    },
+    "fullscreen.mask_panel.luminance": {
+        "string": "ルミナンス"
+    },
+    "fullscreen.mask_panel.luminance_extended": {
+        "string": "ルミナンス(輝度使用)"
+    },
+    "fullscreen.mask_panel.mask": {
+        "string": "マスク"
+    },
+    "fullscreen.mask_panel.vector": {
+        "string": "ベクター"
+    },
+    "fullscreen.mask_panel.vector_extended": {
+        "string": "ベクトル(シェイプアウトライン使用)"
+    },
+    "fullscreen.menu.help_menu": {
+        "string": "ヘルプ"
+    },
+    "fullscreen.menu.remove_mask": {
+        "string": "マスクの削除"
+    },
+    "fullscreen.mixed": {
+        "string": "混在"
+    },
+    "fullscreen.more_tracks_title": {
+        "string": "サウンドエフェクト"
+    },
+    "fullscreen.msal_onboarding.body": {
+        "string": "オートレイアウトなので、すばやく終わります。Figmaが必要なフレームを判断し、ユーザーの代わりに作成します。"
+    },
+    "fullscreen.msal_onboarding.header_with_shortcut": {
+        "string": "次回は、{msalShortcut}をお試しください"
+    },
+    "fullscreen.notification.clipboard_data_available": {
+        "string": "別のデバイスの選択内容をコピーしました。貼り付けますか?"
+    },
+    "fullscreen.nudge.big_nudge": {
+        "string": "大きな調整"
+    },
+    "fullscreen.nudge.nudge_amount": {
+        "string": "ナッジ"
+    },
+    "fullscreen.nudge.small_nudge": {
+        "string": "小さな調整"
+    },
+    "fullscreen.object_row.file_thumbnail": {
+        "string": "ファイルのサムネイル"
+    },
+    "fullscreen.outline_shortcuts_onboarding.changed_outline_shortcuts": {
+        "string": "アウトラインに関連する以下のショートカットを変更しました。"
+    },
+    "fullscreen.outline_shortcuts_onboarding.changed_shortcuts": {
+        "string": "以下のショートカットを変更しました。"
+    },
+    "fullscreen.outline_shortcuts_onboarding.got_it": {
+        "string": "了解"
+    },
+    "fullscreen.outline_shortcuts_onboarding.keep_old_shortcuts": {
+        "string": "古いショートカットを維持"
+    },
+    "fullscreen.outline_shortcuts_onboarding.opt_out_options": {
+        "string": "古いショートカットをそのまま使い続けることもできます。基本設定でいつでも新しいショートカットに変更できます。"
+    },
+    "fullscreen.outline_shortcuts_onboarding.outline_stroke": {
+        "string": "線のアウトライン化"
+    },
+    "fullscreen.outline_shortcuts_onboarding.outline_stroke_updated": {
+        "string": "{outlineStroke}のショートカットが{outlineStrokeKeyCommand}に変更されました"
+    },
+    "fullscreen.outline_shortcuts_onboarding.show_outlines": {
+        "string": "アウトラインの表示"
+    },
+    "fullscreen.outline_shortcuts_onboarding.show_outlines_updated": {
+        "string": "{showOutlines}のショートカットが{showOutlinesKeyCommand}に変更されました"
+    },
+    "fullscreen.outline_shortcuts_onboarding.team_library": {
+        "string": "チームライブラリ"
+    },
+    "fullscreen.outline_shortcuts_onboarding.team_library_updated": {
+        "string": "{teamLibrary}は{teamLibraryKeyCommand}だけになりました"
+    },
+    "fullscreen.outline_shortcuts_onboarding.title": {
+        "string": "新しいキーボードショートカット"
+    },
+    "fullscreen.pages_panel.add_new_page": {
+        "string": "新しいページを追加"
+    },
+    "fullscreen.pages_panel.add_new_page_dropdown": {
+        "string": "新しいページの種類を選択"
+    },
+    "fullscreen.pages_panel.all_free_pages_used": {
+        "string": "無料ページはすべて使用済みです。"
+    }
+}

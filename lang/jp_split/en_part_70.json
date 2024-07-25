@@ -1,0 +1,152 @@
+{
+    "community.buyer.you": {
+        "string": "あなた"
+    },
+    "community.buyer.you_can_keep_using_plugin": {
+        "string": "今すぐ購入すれば、{pluginName}を引き続き使用して、仕事熱心なクリエイターをサポートできます。"
+    },
+    "community.buyer.your_trial_has_ended": {
+        "string": "トライアル期間が終了しました"
+    },
+    "community.comments.add_a_comment": {
+        "string": "コメントを追加する"
+    },
+    "community.comments.all": {
+        "string": "すべて"
+    },
+    "community.comments.comment_actions": {
+        "string": "コメントアクション"
+    },
+    "community.comments.comment_author_will_not_be_notified": {
+        "string": "{authorName}には通知されません。"
+    },
+    "community.comments.comment_deleted": {
+        "string": "コメントを削除しました"
+    },
+    "community.comments.comment_reported_and_hidden": {
+        "string": "コメントを報告して非表示しました"
+    },
+    "community.comments.comments_only": {
+        "string": "コメントのみ"
+    },
+    "community.comments.copy_link": {
+        "string": "リンクのコピー"
+    },
+    "community.comments.creator": {
+        "string": "作成者"
+    },
+    "community.comments.delete": {
+        "string": "削除"
+    },
+    "community.comments.delete_thread": {
+        "string": "スレッドの削除"
+    },
+    "community.comments.edit": {
+        "string": "編集"
+    },
+    "community.comments.failed_to_create_comment": {
+        "string": "コメントの作成に失敗しました:{errorMessage}"
+    },
+    "community.comments.failed_to_delete_comment": {
+        "string": "コメントの削除に失敗しました:{errorMessage}"
+    },
+    "community.comments.failed_to_edit_comment": {
+        "string": "コメントの編集に失敗しました"
+    },
+    "community.comments.failed_to_report_comment": {
+        "string": "コメントの報告に失敗しました:{errorMessage}"
+    },
+    "community.comments.learn_more": {
+        "string": "詳細情報"
+    },
+    "community.comments.learn_more_about_managing_comments_on_your_files_and_plugins_in_community": {
+        "string": "コミュニティにおける自分のファイルとプラグインについてのコメントの管理に関する{learnMoreLink}"
+    },
+    "community.comments.link_about_managing_restricted_commenters": {
+        "string": "制限されているコメント投稿者の管理に関する{link}。"
+    },
+    "community.comments.load_more_comments": {
+        "string": "コメントをさらに読み込み"
+    },
+    "community.comments.new_comments": {
+        "string": "新しいコメントです!"
+    },
+    "community.comments.please_read_our_link_before_reporting": {
+        "string": "報告する前に{link}をお読みください"
+    },
+    "community.comments.pluralize_comments": {
+        "string": "{numComments, plural, other {{numComments}件のコメント}}"
+    },
+    "community.comments.post": {
+        "string": "投稿"
+    },
+    "community.comments.refresh": {
+        "string": "更新"
+    },
+    "community.comments.remove_and_restrict": {
+        "string": "削除して制限する"
+    },
+    "community.comments.remove_comment_and_restrict_user": {
+        "string": "コメントを削除してユーザーを制限しますか?"
+    },
+    "community.comments.reply": {
+        "string": "返信"
+    },
+    "community.comments.report": {
+        "string": "報告"
+    },
+    "community.comments.report_and_hide_author_name_s_comment": {
+        "string": "{authorName}のコメントを報告して非表示にしますか?"
+    },
+    "community.comments.report_author_name_s_comment": {
+        "string": "{authorName}のコメントを報告しますか?"
+    },
+    "community.comments.report_comment": {
+        "string": "報告"
+    },
+    "community.comments.restrict": {
+        "string": "制限"
+    },
+    "community.comments.restrict_user_s_comments": {
+        "string": "ユーザーのコメントの制限"
+    },
+    "community.comments.restricted_this_user_s_comments": {
+        "string": "このユーザーのコメントを制限しました"
+    },
+    "community.comments.reviews_only": {
+        "string": "レビューのみ"
+    },
+    "community.comments.save": {
+        "string": "保存"
+    },
+    "community.comments.share_your_thoughts_using_the_comment_box_above": {
+        "string": "上のコメントボックスで自分の考えを共有します。"
+    },
+    "community.comments.show_resolved": {
+        "string": "解決済みを表示"
+    },
+    "community.comments.these_people_can_t_comment_on_any_of_profile_handles_community_files_and_plugins": {
+        "string": "これらのユーザーは、@{profileHandle}のコミュニティのファイルにもプラグインにもコメントできません"
+    },
+    "community.comments.these_people_can_t_comment_on_any_of_your_community_files_and_plugins": {
+        "string": "これらのユーザーは、コミュニティのファイルにもプラグインにもコメントできません"
+    },
+    "community.comments.this_will_flag_the_comment_for_review": {
+        "string": "コメントに確認用のフラグが設定されます。"
+    },
+    "community.comments.this_will_flag_the_comment_for_review_and_hide_it_for_everyone": {
+        "string": "コメントに確認用のフラグが設定され、全員に対して非表示になります。"
+    },
+    "community.comments.this_will_remove_their_comments_from_all_your_community_files_and_plugins_it_also_prevents_them_from_leaving_comments_on_your_resources_or_mentioning_you_in_the_future": {
+        "string": "コミュニティのすべてのファイルとプラグインから、ユーザーのコメントが削除されます。またこれらのユーザーが今後、リソースにコメントを残したり、メンションしたりすることはできません。"
+    },
+    "community.comments.to_comment_switch_to_your_personal_profile": {
+        "string": "コメントするには、自分のパーソナルプロフィールに切り替えます"
+    },
+    "community.comments.undo": {
+        "string": "元に戻す"
+    },
+    "community.comments.unrestrict": {
+        "string": "制限解除"
+    }
+}

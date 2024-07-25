@@ -1,0 +1,152 @@
+{
+    "design.starting_points.recent_plugin_tooltip.your_recents": {
+        "string": "最近使用したプラグイン"
+    },
+    "design.starting_points.start_from_a_blank_file": {
+        "string": "空白のファイルから始める"
+    },
+    "design.starting_points.start_from_a_blank_file_description": {
+        "string": "とりあえずゼロからスタートして確認しましょう。"
+    },
+    "design.starting_points.welcome_to_figma": {
+        "string": "Figmaへようこそ"
+    },
+    "design_systems.assets_panel.add_library": {
+        "string": "ライブラリを追加"
+    },
+    "design_systems.assets_panel.add_more_libraries": {
+        "string": "ライブラリをさらに追加"
+    },
+    "design_systems.assets_panel.assets": {
+        "string": "アセット"
+    },
+    "design_systems.assets_panel.back": {
+        "string": "戻る"
+    },
+    "design_systems.assets_panel.clear_search": {
+        "string": "検索をクリア"
+    },
+    "design_systems.assets_panel.components": {
+        "string": "コンポーネント"
+    },
+    "design_systems.assets_panel.create_a_component": {
+        "string": "コンポーネントを作成するには、レイヤーを選択して、ツールバーの[コンポーネントを作成]ボタンをクリックします。"
+    },
+    "design_systems.assets_panel.created_by_figma": {
+        "string": "Figmaにより作成済み"
+    },
+    "design_systems.assets_panel.curated_libraries": {
+        "string": "厳選ライブラリ"
+    },
+    "design_systems.assets_panel.details": {
+        "string": "詳細"
+    },
+    "design_systems.assets_panel.drag_drop_component": {
+        "string": "アセットパネルからコンポーネントをドラッグアンドドロップすると、このファイルで再利用できます。"
+    },
+    "design_systems.assets_panel.drag_drop_component_draft": {
+        "string": "アセットパネルからコンポーネントをドラッグアンドドロップすると、このドラフトで再利用できます。"
+    },
+    "design_systems.assets_panel.dropdown_curated_libraries": {
+        "string": "厳選ライブラリ"
+    },
+    "design_systems.assets_panel.dropdown_libraries": {
+        "string": "ライブラリ"
+    },
+    "design_systems.assets_panel.dropdown_org_libraries": {
+        "string": "{orgName}のライブラリ"
+    },
+    "design_systems.assets_panel.dropdown_type_all_libraries": {
+        "string": "すべてのライブラリ"
+    },
+    "design_systems.assets_panel.dropdown_type_local": {
+        "string": "ローカルコンポーネント"
+    },
+    "design_systems.assets_panel.dropdown_type_local_assets": {
+        "string": "ローカルアセット"
+    },
+    "design_systems.assets_panel.dropdown_type_recents": {
+        "string": "最近"
+    },
+    "design_systems.assets_panel.empty_state_cta_ui3": {
+        "string": "チームライブラリを参照"
+    },
+    "design_systems.assets_panel.empty_state_subtitle_ui3": {
+        "string": "チームが作成したアセットを見つけて追加し、このファイルで使用します。"
+    },
+    "design_systems.assets_panel.empty_state_title_ui3": {
+        "string": "ここには、まだライブラリはありません"
+    },
+    "design_systems.assets_panel.error": {
+        "string": "読み込み中にエラーが発生しました。ページを更新してみてください。"
+    },
+    "design_systems.assets_panel.examples": {
+        "string": "使用例"
+    },
+    "design_systems.assets_panel.explore_libraries": {
+        "string": "ライブラリを参照…"
+    },
+    "design_systems.assets_panel.frames": {
+        "string": "フレーム"
+    },
+    "design_systems.assets_panel.go_to_library": {
+        "string": "ライブラリに移動"
+    },
+    "design_systems.assets_panel.go_to_main": {
+        "string": "メインコンポーネントに移動"
+    },
+    "design_systems.assets_panel.go_to_main_template": {
+        "string": "メインテンプレートに移動"
+    },
+    "design_systems.assets_panel.go_to_page": {
+        "string": "ページに移動"
+    },
+    "design_systems.assets_panel.got_it": {
+        "string": "了解"
+    },
+    "design_systems.assets_panel.hidden": {
+        "string": "非表示"
+    },
+    "design_systems.assets_panel.insert": {
+        "string": "挿入"
+    },
+    "design_systems.assets_panel.insert_instance": {
+        "string": "インスタンスを挿入"
+    },
+    "design_systems.assets_panel.insert_template": {
+        "string": "テンプレートを挿入"
+    },
+    "design_systems.assets_panel.learn_more": {
+        "string": "詳細情報"
+    },
+    "design_systems.assets_panel.library_upsell_body": {
+        "string": "{upgradeToProfessionalPlanLink}と、コンポーネントをチームに共有できます。"
+    },
+    "design_systems.assets_panel.library_upsell_header": {
+        "string": "同じコンポーネントを複数のファイルで利用"
+    },
+    "design_systems.assets_panel.library_upsell_upgrade": {
+        "string": "プロフェッショナルプランにアップグレードする"
+    },
+    "design_systems.assets_panel.local_assets": {
+        "string": "ローカルアセット"
+    },
+    "design_systems.assets_panel.local_components": {
+        "string": "ローカルコンポーネント"
+    },
+    "design_systems.assets_panel.local_templates": {
+        "string": "ローカルテンプレート"
+    },
+    "design_systems.assets_panel.more_results_in_all_libraries": {
+        "string": "{results, plural, other {すべてのライブラリでさらに{results}件の結果}}"
+    },
+    "design_systems.assets_panel.no_results_for_query": {
+        "string": "''{searchQuery}''に一致する結果はありません"
+    },
+    "design_systems.assets_panel.no_results_for_query_in_library": {
+        "string": "{libraryName}には\"{searchQuery}\"に一致する結果はありません"
+    },
+    "design_systems.assets_panel.num_components": {
+        "string": "{numComponents, plural, other {{numComponents}個のコンポーネント}}"
+    }
+}

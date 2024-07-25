@@ -1,0 +1,152 @@
+{
+    "auth.error.figma_does_not_support_names_more_than_70_characters": {
+        "string": "Figmaは70文字を超える名前をサポートしていません。"
+    },
+    "auth.error.figma_does_not_support_that_color_profile_preference": {
+        "string": "Figmaはこのカラープロファイル設定をサポートしていません。"
+    },
+    "auth.error.figma_does_not_support_that_keyboard_preference": {
+        "string": "Figmaはこのキーボード設定をサポートしていません。"
+    },
+    "auth.error.figma_does_not_support_that_language": {
+        "string": "Figmaはその言語をサポートしていません。"
+    },
+    "auth.error.img_url_and_img_url_500_500_must_be_passed_together": {
+        "string": "img_urlとimg_url_500_500が一緒に受け渡される必要があります"
+    },
+    "auth.error.incorrect-email-password": {
+        "string": "メールとパスワードの組み合わせが正しくありません。"
+    },
+    "auth.error.incorrect_password": {
+        "string": "正しくないパスワードを入力しました。"
+    },
+    "auth.error.invalid-password-reset-link": {
+        "string": "このパスワードリセットリンクは無効です。"
+    },
+    "auth.error.invalid_auth_method": {
+        "string": "無効な認証方法です:{METHOD}"
+    },
+    "auth.error.invalid_email": {
+        "string": "無効なメールアドレスです。"
+    },
+    "auth.error.invalid_image_url": {
+        "string": "無効な画像URLです"
+    },
+    "auth.error.invalid_session_try_again": {
+        "string": "セッションが無効または期限切れです。もう一度お試しください。"
+    },
+    "auth.error.invalid_token_type": {
+        "string": "無効なtoken_typeです"
+    },
+    "auth.error.invite_invalid_or_claimed": {
+        "string": "申し訳ありません。その招待は無効であるか、既に取得されています。"
+    },
+    "auth.error.ip-account-restriction": {
+        "string": "このネットワークでは、{orgName}のアカウント以外にはログインできません。"
+    },
+    "auth.error.ip-allowlist-restriction": {
+        "string": "このアカウントには、企業ネットワークからしかログインできません。企業ネットワークに再接続するか、別のアカウントでログインしてください。"
+    },
+    "auth.error.join_links_disabled_for_team": {
+        "string": "{TEAM_NAME}の参加リンクは現在無効です"
+    },
+    "auth.error.key_data_required": {
+        "string": "キーとデータが必要です"
+    },
+    "auth.error.login_google_sso_required": {
+        "string": "組織はGoogleでログインすることを要求しています。"
+    },
+    "auth.error.max_sessions_exceeded": {
+        "string": "ログインアカウントの最大数を超えました。"
+    },
+    "auth.error.need_verified_password_token": {
+        "string": "確認済みのパスワードトークンを入力する必要があります。"
+    },
+    "auth.error.no-password-sso": {
+        "string": "このアカウントは組織が管理しており、パスワードはありません。"
+    },
+    "auth.error.no_verified_email": {
+        "string": "ユーザーの確認済みメールアドレスがありません。"
+    },
+    "auth.error.non_hd_for_sso_only_org": {
+        "string": "Googleでログインできません。自分のメールアドレスとパスワードでサインインを試すか、Figmaサポートに連絡してください。"
+    },
+    "auth.error.not-configured-for-saml-sso": {
+        "string": "アカウントは、SAML SSOを使用するように設定されていません。Googleまたはパスワードでログインしてください。"
+    },
+    "auth.error.not-logged-in": {
+        "string": "ログインしていません。"
+    },
+    "auth.error.only_view_links_enabled_for_team": {
+        "string": "{TEAM_NAME}では、ビューレベルリンクのみが有効です"
+    },
+    "auth.error.org_require_google_sso": {
+        "string": "このアカウントは組織が管理しています。Googleでログインしてください。"
+    },
+    "auth.error.password-too-long": {
+        "string": "そのパスワードは長すぎます!"
+    },
+    "auth.error.password-too-short": {
+        "string": "8文字以上のパスワードを設定してください。"
+    },
+    "auth.error.password-too-weak": {
+        "string": "より強力なパスワードを選択してください。"
+    },
+    "auth.error.password_not_set": {
+        "string": "パスワードが設定されていません。設定するには、[パスワードをリセット]をクリックしてください。"
+    },
+    "auth.error.password_token_invalid": {
+        "string": "パスワード確認トークンを検証できないか、トークンがありません"
+    },
+    "auth.error.please_set_shorter_password": {
+        "string": "より短いパスワードを設定してください。"
+    },
+    "auth.error.provide-email": {
+        "string": "メールアドレスを入力してください。"
+    },
+    "auth.error.provide-password": {
+        "string": "パスワードを入力してください。"
+    },
+    "auth.error.require-phone-number": {
+        "string": "ユーザーの電話番号が設定されていません"
+    },
+    "auth.error.require-two-factor": {
+        "string": "2要素がアカウントで有効ではありません"
+    },
+    "auth.error.require-validation": {
+        "string": "要求を検証できません。"
+    },
+    "auth.error.require_google_sso": {
+        "string": "Googleでログインするか、「パスワードをリセット」でパスワードをリセットしてください。"
+    },
+    "auth.error.saml_authentication_failed": {
+        "string": "IdPはユーザーがFigmaにログインすることを許可していません。"
+    },
+    "auth.error.saml_config_error_contact_admin": {
+        "string": "設定エラーによりFigmaにサインインできません。組織管理者に連絡してください。エラー: {ERROR}"
+    },
+    "auth.error.saml_configuration_error": {
+        "string": "設定エラーによりFigmaにサインインできません。"
+    },
+    "auth.error.saml_email_address_not_in_domain_with_emails": {
+        "string": "お使いのSAML SSOアカウントには、次のドメインのいずれかに一致するメールアドレス{EMAILS}がありません: {DOMAINS}"
+    },
+    "auth.error.saml_entity_id_does_not_match": {
+        "string": "エンティティIDが一致しません。{ERROR}"
+    },
+    "auth.error.saml_invalid_code": {
+        "string": "無効なコードです"
+    },
+    "auth.error.saml_invalid_name_id": {
+        "string": "IdPが入力するNameIDは、urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddressの形式にする必要があります"
+    },
+    "auth.error.saml_invalid_signature": {
+        "string": "Figmaで設定された証明書が、IdPの署名証明書と一致しません。"
+    },
+    "auth.error.session_expired_or_invalid": {
+        "string": "セッションが期限切れまたは無効です"
+    },
+    "auth.error.set-password": {
+        "string": "パスワードを設定してください。"
+    }
+}

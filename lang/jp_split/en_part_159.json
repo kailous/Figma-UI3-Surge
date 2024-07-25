@@ -1,0 +1,152 @@
+{
+    "file_browser.draft_move_modal.async_draft_move_scheduling_error": {
+        "string": "個人のドラフトの移動中にエラーが発生しました"
+    },
+    "file_browser.draft_move_modal.back": {
+        "string": "戻る"
+    },
+    "file_browser.draft_move_modal.before_we_move_your_drafts": {
+        "string": "新規の無料スターターチームに名前を付けてください。"
+    },
+    "file_browser.draft_move_modal.confirmation_modal_header": {
+        "string": "{fileCount, plural, other {以下のドラフトを{teamName}に移動しますか?}}"
+    },
+    "file_browser.draft_move_modal.confirmation_modal_move_file": {
+        "string": "ファイルを別のチームに移動できます。無料のスターターチームを作成してそこに移動することもできます。"
+    },
+    "file_browser.draft_move_modal.confirmation_modal_move_file_multiple": {
+        "string": "これらのファイルを別のチームに移動できます。無料のスターターチームを作成してそこに移動することもできます。"
+    },
+    "file_browser.draft_move_modal.confirmation_modal_upgrade": {
+        "string": "移動後のファイルをコラボレーターが表示または編集すると、チームでの無料シートが有料シートにアップグレードされます。"
+    },
+    "file_browser.draft_move_modal.confirmation_modal_upgrade_multiple": {
+        "string": "移動後のファイルをコラボレーターが表示または編集すると、チームでの無料シートが有料シートにアップグレードされます。"
+    },
+    "file_browser.draft_move_modal.continue": {
+        "string": "続行"
+    },
+    "file_browser.draft_move_modal.create_and_move_drafts": {
+        "string": "チームを作成"
+    },
+    "file_browser.draft_move_modal.create_new_plan_button_text": {
+        "string": "チームまたは組織を新規作成"
+    },
+    "file_browser.draft_move_modal.create_new_plan_link": {
+        "string": "個人の作業用に無料のスターターチームを作成"
+    },
+    "file_browser.draft_move_modal.creating_your_new_team_header": {
+        "string": "新規チームの名前を入力"
+    },
+    "file_browser.draft_move_modal.destination_description_access_will_become_view_only": {
+        "string": "コラボレーターには閲覧限定のアクセス権が付与されます"
+    },
+    "file_browser.draft_move_modal.destination_description_badge_edu": {
+        "string": "エデュケーション"
+    },
+    "file_browser.draft_move_modal.destination_description_badge_ent": {
+        "string": "エンタープライズ"
+    },
+    "file_browser.draft_move_modal.destination_description_badge_free": {
+        "string": "無料"
+    },
+    "file_browser.draft_move_modal.destination_description_badge_guest": {
+        "string": "ゲスト"
+    },
+    "file_browser.draft_move_modal.destination_description_badge_locked": {
+        "string": "ロックされています"
+    },
+    "file_browser.draft_move_modal.destination_description_badge_org": {
+        "string": "組織"
+    },
+    "file_browser.draft_move_modal.destination_description_badge_pro": {
+        "string": "プロフェッショナル"
+    },
+    "file_browser.draft_move_modal.destination_description_cannot_be_moved_here": {
+        "string": "ここに移動できません。{learnMoreLink}"
+    },
+    "file_browser.draft_move_modal.destination_description_collaborator_access_may_change": {
+        "string": "このプランにより、コラボレーターの編集アクセス権が変更される場合があります"
+    },
+    "file_browser.draft_move_modal.drafts_cannot_be_moved_to_organizations": {
+        "string": "インポートの制約により、これらのドラフトは{userOrgNames}などの組織には移動できません。{learnMoreLink}"
+    },
+    "file_browser.draft_move_modal.files_will_remain_private_wherever_you_go": {
+        "string": "ファイルはどこに移動しても非公開のままとなります。適切なチームがない場合は、{createNewTeamLink}することもできます。"
+    },
+    "file_browser.draft_move_modal.header_multiple_files_move": {
+        "string": "{fileCount}ファイルをドラフトに移動..."
+    },
+    "file_browser.draft_move_modal.header_single_file_move": {
+        "string": "{fileName}をドラフトに移動..."
+    },
+    "file_browser.draft_move_modal.learn_more_link": {
+        "string": "詳細情報"
+    },
+    "file_browser.draft_move_modal.none_of_these_teams_feel_right": {
+        "string": "以下に適切なチームがない場合は、無料で新規に作成できます。"
+    },
+    "file_browser.draft_move_modal.org_restriction_text_multiple_orgs": {
+        "string": "{orgName1}、{orgName2}、{orgName3}、または{numRemainingOrgsSubstring}"
+    },
+    "file_browser.draft_move_modal.org_restriction_text_three_orgs": {
+        "string": "{orgName1}、 {orgName2}、または{orgName3}"
+    },
+    "file_browser.draft_move_modal.org_restriction_text_two_orgs": {
+        "string": "{orgName1}または{orgName2}"
+    },
+    "file_browser.draft_move_modal.team_creation_placeholder": {
+        "string": "例: ターニャのデザインカンパニー"
+    },
+    "file_browser.draft_move_modal.team_name": {
+        "string": "チーム名"
+    },
+    "file_browser.draft_to_project.body.plan_spaces": {
+        "string": "他のユーザーを招待してこのファイルを一緒に編集したい場合は、先にチーム内のプロジェクトにファイルを移動してください。"
+    },
+    "file_browser.draft_to_project.body.seat_rename": {
+        "string": "ドラフトは、ドラフトを作成し、閲覧者に共有するための個人的なスペースです。このファイルをチームプロジェクトに移動することで、コラボレーターを無制限に追加できます。"
+    },
+    "file_browser.draft_to_project.move": {
+        "string": "移動"
+    },
+    "file_browser.draft_to_project.title.plan_spaces": {
+        "string": "このファイルをプロジェクトに移動して、コラボレーターを追加します"
+    },
+    "file_browser.draft_to_project.title.seat_rename": {
+        "string": "ファイルを編集するユーザーを招待するには、ファイルをチームプロジェクトに移動します"
+    },
+    "file_browser.drafts_to_move.access_to_drafts": {
+        "string": "これらのファイルへのアクセス権を失うメンバーはいません。チーム外のコラボレーターは閲覧者にリセットされるため、チーム内で編集者の役割を持つメンバーをコントロールできます。"
+    },
+    "file_browser.drafts_to_move.bulk_delete_drafts_button": {
+        "string": "完全に削除"
+    },
+    "file_browser.drafts_to_move.bulk_move_drafts_button": {
+        "string": "{numSelected, plural, other {{numSelected}個のファイルを移動}}"
+    },
+    "file_browser.drafts_to_move.bulk_trash_drafts_button": {
+        "string": "削除"
+    },
+    "file_browser.drafts_to_move.deleted_drafts": {
+        "string": "削除済みのドラフト"
+    },
+    "file_browser.drafts_to_move.drafts": {
+        "string": "ドラフト"
+    },
+    "file_browser.drafts_to_move.drafts_for_personal_work": {
+        "string": "引き続きドラフトを無制限に持つことができます。個人的な作業でドラフトを使用している場合は、新しい無料のスターターチームに移動することができます。"
+    },
+    "file_browser.drafts_to_move.empty_body_text": {
+        "string": "このページから移動してください。ページは削除されます。"
+    },
+    "file_browser.drafts_to_move.empty_content_description": {
+        "string": "{tab}に移動しましょう。"
+    },
+    "file_browser.drafts_to_move.empty_header": {
+        "string": "作業が完了しました。"
+    },
+    "file_browser.drafts_to_move.file_created_at_label": {
+        "string": "{timeDifference}に作成"
+    }
+}

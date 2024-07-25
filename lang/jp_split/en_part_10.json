@@ -1,0 +1,152 @@
+{
+    "activity_log.teams.restored_the_team_name_team": {
+        "string": "{teamName}チームを復元しました"
+    },
+    "activity_log.teams.team_name_wants_to_transfer_their_team": {
+        "string": "{teamName}がチームの組織への移転を希望しています"
+    },
+    "activity_log.upgrade.added_to_resource.seat_rename": {
+        "string": "{actor_name}が{upgrader_name}を有料シートで{resource_name}に追加しました"
+    },
+    "activity_log.upgrade.added_to_resource_with_product.seat_rename": {
+        "string": "{actor_name}が{upgrader_name}を{product}有料シートで{resource_name}に追加しました"
+    },
+    "activity_log.upgrade.admin_upgrade.seat_rename": {
+        "string": "{actor_name}が{upgrader_name}をアップグレードしました"
+    },
+    "activity_log.upgrade.admin_upgrade_with_product.seat_rename": {
+        "string": "{actor_name}が{product}で{upgrader_name}をアップグレードしました"
+    },
+    "activity_log.upgrade.create_file": {
+        "string": "{upgrader_name}がファイル{resource_name}を作成しました"
+    },
+    "activity_log.upgrade.create_team": {
+        "string": "{upgrader_name}が{resource_name}を作成しました"
+    },
+    "activity_log.upgrade.default_paid_status.seat_rename": {
+        "string": "{upgrader_name}が組織のデフォルトの役割の有料シートで参加しました"
+    },
+    "activity_log.upgrade.default_paid_status_with_product.seat_rename": {
+        "string": "{upgrader_name}が組織のデフォルトの役割の{product}有料シートで参加しました"
+    },
+    "activity_log.upgrade.depart_team": {
+        "string": "オーナーがチームを脱退したときに、{upgrader_name}がアップグレードされました"
+    },
+    "activity_log.upgrade.dev_mode_pre_commit_beta_use": {
+        "string": "組織の契約に基づき、{upgrader_name}が開発モードのベータ版からアップグレードされました"
+    },
+    "activity_log.upgrade.drafts_share": {
+        "string": "{upgrader_name}が、ドラフトフォルダから{resource_name}を{actor_name}に共有しました"
+    },
+    "activity_log.upgrade.drafts_share_anonymous": {
+        "string": "匿名ユーザー"
+    },
+    "activity_log.upgrade.edit_action": {
+        "string": "{upgrader_name}が{resource_name}を編集しました"
+    },
+    "activity_log.upgrade.edit_button": {
+        "string": "{upgrader_name}が、{resource_name}の[ファイルを編集]ボタンをクリックしました"
+    },
+    "activity_log.upgrade.edit_request_approval": {
+        "string": "{upgrader_name}がファイル{resource_name}の編集要求を承認させました"
+    },
+    "activity_log.upgrade.figjam_ga_reupgrade": {
+        "string": "{upgrader_name}がファイル{resource_name}のアカウントを再アップグレードしました"
+    },
+    "activity_log.upgrade.figma_admin": {
+        "string": "Figmaサポートが{resource_name}の{upgrader_name}をアップグレードしました"
+    },
+    "activity_log.upgrade.join_team.seat_rename": {
+        "string": "{upgrader_name}が有料シートで{resource_name}に参加しました"
+    },
+    "activity_log.upgrade.join_team_with_product.seat_rename": {
+        "string": "{upgrader_name}が{product}有料シートで{resource_name}に参加しました"
+    },
+    "activity_log.upgrade.org_merge.seat_rename": {
+        "string": "組織{child_org}がこの組織にマージされた後、{upgrader_name}がアップグレードされました"
+    },
+    "activity_log.upgrade.paid_status_on_org_creation": {
+        "string": "組織の作成時、{upgrader_name}が{resource_name}の有料シートを取得しました。"
+    },
+    "activity_log.upgrade.redeem_invite_to_org": {
+        "string": "{upgrader_name}さんが組織への招待を承諾しました"
+    },
+    "activity_log.upgrade.resource_move.seat_rename": {
+        "string": "アップグレードにより、{upgrader_name}は{resource_name}の有料シートを取得しました"
+    },
+    "activity_log.upgrade.resource_move_with_product.seat_rename": {
+        "string": "アップグレードにより、{upgrader_name}は{resource_name}の{product}有料シートを取得しました"
+    },
+    "activity_log.upgrade.resource_moved_from_drafts": {
+        "string": "{resource_name}のチームへの移動により、{upgrader_name}がアップグレードされました"
+    },
+    "activity_log.upgrade.resource_moved_to_org": {
+        "string": "{resource_name}が組織に移動したことにより、{upgrader_name}がそのリソースの編集者になりました。"
+    },
+    "activity_log.upgrade.run_plugin": {
+        "string": "{upgrader_name}がプラグインを実行しました"
+    },
+    "activity_log.upgrade.scim.seat_rename": {
+        "string": "{upgrader_name}がSCIMによって有料シートでプロビジョニングされました"
+    },
+    "activity_log.upgrade.scim_with_product.seat_rename": {
+        "string": "{upgrader_name}がSCIMによって{product}有料シートでプロビジョニングされました"
+    },
+    "activity_log.users.session_timed_out": {
+        "string": "アイドルセッションタイムアウトの設定により、サインアウトしました"
+    },
+    "activity_log.users.signed_in": {
+        "string": "サインインしました"
+    },
+    "activity_log.users.signed_in_app_auth": {
+        "string": "Figma VS Code拡張機能でサインイン"
+    },
+    "activity_log.users.signed_in_google": {
+        "string": "Googleでサインイン"
+    },
+    "activity_log.users.signed_in_password": {
+        "string": "ユーザー名とパスワードでサインインしました"
+    },
+    "activity_log.users.signed_in_saml": {
+        "string": "SAMLでサインインしました"
+    },
+    "activity_log.users.signed_out": {
+        "string": "サインアウトしました"
+    },
+    "activity_log.voice.joined_call_on_file_fig_file_key": {
+        "string": "ファイル{figFileKey}の通話に参加しました"
+    },
+    "activity_log.webhooks.webhooks_created": {
+        "string": "イベント{webhookEvent}のエンドポイント{webhookEndpoint}のWebフックを作成しました"
+    },
+    "activity_log.webhooks.webhooks_deleted": {
+        "string": "イベント{webhookEvent}のエンドポイント{webhookEndpoint}のWebフックを削除しました"
+    },
+    "activity_log.webhooks.webhooks_updated": {
+        "string": "イベント{webhookEvent}のエンドポイント{webhookEndpoint}のWebフックを更新しました"
+    },
+    "add_unassigned_teams_modal.assign_n_teams": {
+        "string": "{count, plural, other {{count}チームを割り当てる}}"
+    },
+    "add_unassigned_teams_modal.assign_teams": {
+        "string": "チームを割り当てる"
+    },
+    "add_unassigned_teams_modal.description": {
+        "string": "{workspaceName}ワークスペースに追加する未割り当てのチームを選択します。"
+    },
+    "add_unassigned_teams_modal.member_count": {
+        "string": "{memberCount, plural, other {メンバー{memberCount}人}}"
+    },
+    "add_unassigned_teams_modal.no_owner": {
+        "string": "—"
+    },
+    "add_unassigned_teams_modal.no_teams_found": {
+        "string": "チームが見つかりません"
+    },
+    "add_unassigned_teams_modal.org_access.private": {
+        "string": "限定チーム"
+    },
+    "add_unassigned_teams_modal.org_access.public": {
+        "string": "公開チーム"
+    }
+}

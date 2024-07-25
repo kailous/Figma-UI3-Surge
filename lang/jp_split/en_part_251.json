@@ -1,0 +1,152 @@
+{
+    "folder_access_row.num_people": {
+        "string": "{num, plural, other {{num}人}}"
+    },
+    "folder_access_row.remove": {
+        "string": "削除"
+    },
+    "folder_access_row.team_access_disabled": {
+        "string": "チームアクセスは無効です"
+    },
+    "folder_permissions.confirm_enable_team_access.add": {
+        "string": "追加"
+    },
+    "folder_permissions.confirm_enable_team_access.add_team_name": {
+        "string": "{teamName}を追加"
+    },
+    "folder_permissions.confirm_enable_team_access.this_will_directly_invite_members_of_the_team_name_team": {
+        "string": "これにより、{teamName}チームのメンバーが直接招待され、このプロジェクトのアクセス権が付与されます。この操作はいつでも取り消すことができます。"
+    },
+    "folder_permissions.confirm_remove_team_access.remove": {
+        "string": "削除"
+    },
+    "folder_permissions.confirm_remove_team_access.remove_team_name": {
+        "string": "{teamName}を削除"
+    },
+    "folder_permissions.confirm_remove_team_access.the_members_of_team_name_will_lose_access": {
+        "string": "{teamName}チームのメンバーは、このプロジェクトへのアクセス権を失う可能性があるため、この操作は慎重に行ってください。アクセス権を失っても、このチームのアクセス権をいつでも追加し直すことができます。"
+    },
+    "folder_permissions.team_access_modals.cancel": {
+        "string": "キャンセル"
+    },
+    "folder_permissions_modal.copy_link": {
+        "string": "リンクをコピーする"
+    },
+    "folder_permissions_modal.email_comma_separated": {
+        "string": "メールアドレスをコンマで区切って指定"
+    },
+    "folder_permissions_modal.invite_user_sharing_restricted": {
+        "string": "Figmaではこのプロジェクトの共有を制限しています。{supportSharingRestrictedEmail}までメールでお問い合わせください。"
+    },
+    "folder_permissions_modal.project_name_s_team": {
+        "string": "{projectName}のチーム"
+    },
+    "folder_permissions_modal.send_invite": {
+        "string": "招待を送信"
+    },
+    "folder_permissions_modal.share_folder_name": {
+        "string": "{folderName}を共有"
+    },
+    "folder_permissions_modal.share_this_project": {
+        "string": "このプロジェクトを共有"
+    },
+    "folder_permissions_modal.what_can_they_do": {
+        "string": "権限"
+    },
+    "folder_permissions_modal.what_team_members_can_do_project": {
+        "string": "{teamName}のメンバーのアクセス権オプション"
+    },
+    "folder_permissions_modal.what_they_can_do": {
+        "string": "権限"
+    },
+    "folder_permissions_modal.who_can_access": {
+        "string": "アクセス可能なユーザー"
+    },
+    "folder_share_settings.the_following_people_have_access": {
+        "string": "以下のメンバーは、このファイルが存在するプロジェクト{projectName}のメンバーのため、このファイルにアクセスできます。"
+    },
+    "folder_share_settings.the_following_people_have_access_remove_their_access_at_any_time": {
+        "string": "以下のユーザーは、このファイルが存在するプロジェクト{projectName}のメンバーのため、このファイルにアクセスできます。ユーザーのアクセス権はいつでも削除できます。"
+    },
+    "folder_share_settings.the_following_people_have_access_team": {
+        "string": "{teamName}のメンバーは、チームの役割に応じたデフォルトのアクセス権を持っています。これはいつでも変更することができます。"
+    },
+    "folder_share_settings.the_following_people_have_access_team_view_only": {
+        "string": "{teamName}のメンバーはこのプロジェクトへのアクセス権がありますが、できるのは閲覧のみです。これはいつでも変更することができます。"
+    },
+    "org_access_strings.anyone_at": {
+        "string": "{orgName}の全員"
+    },
+    "org_access_strings.closed": {
+        "string": "限定"
+    },
+    "org_access_strings.closed.description_with_org_name": {
+        "string": "チームの名前が組織{orgName}内のユーザーに表示されます。ユーザーがチームに参加するには、それぞれがリクエストを送信して管理者の承認を得る必要があります。"
+    },
+    "org_access_strings.hidden": {
+        "string": "非表示"
+    },
+    "org_access_strings.invite_only": {
+        "string": "招待のみ"
+    },
+    "org_access_strings.open": {
+        "string": "オープン"
+    },
+    "org_access_strings.public.description_with_org_name": {
+        "string": "組織{orgName}内のユーザーがこのチームを見つけて参加できます。"
+    },
+    "org_access_strings.secret": {
+        "string": "シークレット"
+    },
+    "org_access_strings.secret.description.disclaimer_label": {
+        "string": "注:"
+    },
+    "org_access_strings.secret.description_with_org_name": {
+        "string": "組織{orgName}内のユーザーは、参加の招待を受けている場合を除き、このチームを表示したり見つけたりすることはできません。{disclaimerLabel}管理者はシークレットチームの名前を確認できます。"
+    },
+    "org_guest_identifier.guest": {
+        "string": "{userName} (ゲスト)"
+    },
+    "permissions.anyone": {
+        "string": "全員"
+    },
+    "permissions.anyone_in_container_name": {
+        "string": "{containerName}の全員"
+    },
+    "permissions.audience_selector.anyone": {
+        "string": "ユーザー全員"
+    },
+    "permissions.audience_selector.anyone_even_outside_your_org_can_access_this_resource": {
+        "string": "組織外のユーザーを含む全員がこの{resourceName}にアクセスできるようになります。"
+    },
+    "permissions.audience_selector.anyone_even_those_outside_your_org_can_access_this_resource": {
+        "string": "組織外のユーザーを含む全員がこの{resourceName}にアクセスできるようになります。"
+    },
+    "permissions.audience_selector.audience_can_access_through_link_or_file_browser": {
+        "string": "{audience}は、この{resourceName}にリンク経由でまたはファイルブラウザからアクセスできます。"
+    },
+    "permissions.audience_selector.audience_can_access_through_search_link_or_file_browser": {
+        "string": "{audience}は、この{resourceName}に検索、ファイルブラウザ、またはリンクによってアクセスできます。"
+    },
+    "permissions.audience_selector.can_access_through_search_file_browser_link": {
+        "string": "検索、ファイルブラウザ、リンクによってアクセスできます。"
+    },
+    "permissions.audience_selector.can_only_be_adjusted_in_the_main_file": {
+        "string": "メインファイルでのみ調整可能です"
+    },
+    "permissions.audience_selector.file_resource_name": {
+        "string": "ファイル"
+    },
+    "permissions.audience_selector.only_invited_people": {
+        "string": "招待された人のみ"
+    },
+    "permissions.audience_selector.only_people_you_directly_invited_can_access": {
+        "string": "この{resourceName}にアクセスできるのは、直接招待したユーザーだけです。"
+    },
+    "permissions.audience_selector.org_members": {
+        "string": "組織メンバー"
+    },
+    "permissions.audience_selector.presentation_resource_name": {
+        "string": "プレゼンテーション"
+    }
+}

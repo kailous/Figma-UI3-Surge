@@ -1,0 +1,152 @@
+{
+    "sites.lint.opacity-layer": {
+        "string": "レイヤーに不透明度を直接適用する"
+    },
+    "sites.lint.remove-action": {
+        "string": "アクションを削除"
+    },
+    "sites.lint.remove-alignment": {
+        "string": "位置揃えを削除"
+    },
+    "sites.lint.remove-blend-mode": {
+        "string": "ブレンドモードを削除"
+    },
+    "sites.lint.remove-effect": {
+        "string": "エフェクトを削除"
+    },
+    "sites.lint.remove-filters": {
+        "string": "フィルターをリセット"
+    },
+    "sites.lint.remove-gradient": {
+        "string": "グラデーションを削除"
+    },
+    "sites.lint.remove-image": {
+        "string": "画像を削除"
+    },
+    "sites.lint.remove-opacity": {
+        "string": "不透明度を削除"
+    },
+    "sites.lint.remove-rotation": {
+        "string": "回転を削除"
+    },
+    "sites.lint.remove-trigger": {
+        "string": "トリガーを削除"
+    },
+    "sites.lint.remove-vertical-trim": {
+        "string": "上下トリミングをオフにする"
+    },
+    "sites.lint.remove-video": {
+        "string": "動画を削除"
+    },
+    "sites.lint.reset-to-default": {
+        "string": "デフォルトにリセット"
+    },
+    "sites.lint.reset-transform": {
+        "string": "変換をリセット"
+    },
+    "sites.lint.rotate-layer": {
+        "string": "レイヤー自体を回転"
+    },
+    "sites.lint.scrolling/scrolling-enabled-with-clipped-content": {
+        "string": "コンテンツの表示によるスクロールのオーバーフロー"
+    },
+    "sites.lint.set-clip-content": {
+        "string": "「コンテンツを隠す」に設定"
+    },
+    "sites.lint.set-corner-smoothing-zero": {
+        "string": "「0%」に設定"
+    },
+    "sites.lint.set-spacing-auto": {
+        "string": "「自動」に設定"
+    },
+    "sites.lint.shadows-may-look-different": {
+        "string": "シャドウがプレビューで異なって見える場合があります"
+    },
+    "sites.lint.stroke-dash-may-look-different": {
+        "string": "破線がプレビューで異なって見える場合があります"
+    },
+    "sites.lint.strokes/corner-smoothing": {
+        "string": "角のスムージング"
+    },
+    "sites.lint.styles/autolayout-baseline-alignment": {
+        "string": "テキストがベースライン揃えに設定されているオートテキスト。位置揃えがされているテキストレイヤーの1つがフレーム内でネストされています"
+    },
+    "sites.lint.styles/diamond-gradient-fills": {
+        "string": "変換を含むひし形グラデーション"
+    },
+    "sites.lint.styles/image-filters": {
+        "string": "画像フィルター"
+    },
+    "sites.lint.styles/shadow-blend-mode": {
+        "string": "ブレンドモードを含むシャドウ"
+    },
+    "sites.lint.styles/strokes-blend-mode": {
+        "string": "ブレンドモードを含む線"
+    },
+    "sites.lint.styles/strokes-dash-pattern": {
+        "string": "破線"
+    },
+    "sites.lint.styles/strokes-gradient": {
+        "string": "グラデーションを含む線"
+    },
+    "sites.lint.styles/strokes-image": {
+        "string": "画像を含む線"
+    },
+    "sites.lint.styles/strokes-join-miter": {
+        "string": "特殊結合を含む線"
+    },
+    "sites.lint.styles/text-background-blur": {
+        "string": "背景にぼかしを含むテキスト"
+    },
+    "sites.lint.styles/text-inner-shadows": {
+        "string": "内側にシャドウを含むテキスト"
+    },
+    "sites.lint.styles/video": {
+        "string": "動画"
+    },
+    "sites.lint.text/vertical-trim": {
+        "string": "上下トリミング"
+    },
+    "sites.lint.use-frame-rectangle-vector-gradient": {
+        "string": "グラデーションを含むフレーム、長方形、またはベクターシェイプを使用する"
+    },
+    "sites.lint.use-frame-rectangle-vector-image": {
+        "string": "画像を含むフレーム、長方形、またはベクターシェイプを使用する"
+    },
+    "sites.lint.use-multiply": {
+        "string": "乗算を使用"
+    },
+    "sites.lint.use-vector-shape": {
+        "string": "ベクターシェイプまたはマスクを使用する"
+    },
+    "sites.modal.open-full-preview": {
+        "string": "フルプレビューを開く"
+    },
+    "sites.modal.reload": {
+        "string": "プレビューの再読み込み"
+    },
+    "sites.preview.layouts": {
+        "string": "レイアウト"
+    },
+    "sites.preview.scale": {
+        "string": "拡大縮小"
+    },
+    "sites.alpha_cta.be_careful_when_others_can_see_your_screen_and_only_share_feedback_below": {
+        "string": "他の人に画面が見えるときには注意し、フィードバックは以下でのみ共有してください。"
+    },
+    "sites.alpha_cta.share_feedback": {
+        "string": "フィードバックを共有"
+    },
+    "sites.alpha_cta.sites_is_still_under_wraps": {
+        "string": "サイトはまだ非公開です"
+    },
+    "sites.panel.accessibility_alt_text_label": {
+        "string": "altテキスト"
+    },
+    "sites.panel.accessibility_aria_label_label": {
+        "string": "ラベル(ARIA)"
+    },
+    "sites.panel.accessibility_header": {
+        "string": "アクセシビリティ"
+    }
+}

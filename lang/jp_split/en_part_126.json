@@ -1,0 +1,152 @@
+{
+    "fullscreen.toolbar.integ_zoom.beta": {
+        "string": "ベータ"
+    },
+    "fullscreen.toolbar.log_in": {
+        "string": "ログイン"
+    },
+    "fullscreen.toolbar.log_in_or_create_an_account": {
+        "string": "ログインするかアカウントを作成してください"
+    },
+    "fullscreen.toolbar.log_in_or_create_an_account_to_get_a_copy_of": {
+        "string": "{ file }のコピーを作成するには、ログインするかアカウントを作成してください"
+    },
+    "fullscreen.toolbar.log_in_to_do_more_with_figjam": {
+        "string": "FigJamで作業するにはログインしてください"
+    },
+    "fullscreen.toolbar.missing_fonts": {
+        "string": "フォントが欠落"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.all_pages": {
+        "string": "すべてのページ"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.close": {
+        "string": "閉じる"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.current_page": {
+        "string": "このページ"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.finding_missing_fonts": {
+        "string": "不足しているフォントを探しています"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.font_name_family_font_name_style": {
+        "string": "{fontFamily}、{fontStyle}"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.font_styles_not_available": {
+        "string": "次のフォントスタイルは使用できません。テキストを編集するため、代替フォントを選んでください。"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.fonts_and_font_styles_not_available": {
+        "string": "次のフォント/フォントスタイルは使用できません。テキストを編集するため、代替フォントを選んでください。"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.fonts_not_available": {
+        "string": "次のフォントは使用できません。テキストを編集するため、代替フォントを選んでください。"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.missing_font": {
+        "string": "欠落しているフォント"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.missing_fonts": {
+        "string": "欠落しているフォント"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.admin.link": {
+        "string": "アップグレード"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.admin.text": {
+        "string": "ビジネスプランの場合、フォントはすべてのチームで共有できます。{upgradeLink}"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.nonadmin.link": {
+        "string": "詳細情報"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.nonadmin.text": {
+        "string": "ビジネスプランにアップグレードすると、すべてのチームとフォントを共有できます。{learnMoreLink}"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.replace_fonts": {
+        "string": "フォントを置換"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.replacement": {
+        "string": "代替フォント"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.select_items_count_using_this_font": {
+        "string": "{numItems, plural, other {このフォントを使用している{numItems}個を選択}}"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.download": {
+        "string": "AppleからSF Proフォントをダウンロードして、コンピューターにインストールしてください。"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.download_action": {
+        "string": "SF Proをダウンロード"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.learn_more": {
+        "string": "詳細情報"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.learn_more_help": {
+        "string": "ヘルプセンターで詳細を見る"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.refresh_page": {
+        "string": "SF Proフォントをインストールしたら、フォントの使用を開始するには、このページの再読み込みをします。"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.refresh_page_action": {
+        "string": "ページの再読み込み"
+    },
+    "fullscreen.toolbar.multiplayer.all_users": {
+        "string": "すべてのマルチプレイヤーユーザー"
+    },
+    "fullscreen.toolbar.multiplayer.enter_a_name": {
+        "string": "名前を入力"
+    },
+    "fullscreen.toolbar.multiplayer.follow_a_name": {
+        "string": "{name}をフォロー"
+    },
+    "fullscreen.toolbar.multiplayer.more_options": {
+        "string": "その他のオプション"
+    },
+    "fullscreen.toolbar.multiplayer.more_users": {
+        "string": "その他のユーザー"
+    },
+    "fullscreen.toolbar.multiplayer.multiplayer_tools": {
+        "string": "マルチプレイヤーツール"
+    },
+    "fullscreen.toolbar.multiplayer.open_session_in_progress": {
+        "string": "進行中のオープンセッション"
+    },
+    "fullscreen.toolbar.multiplayer.share": {
+        "string": "共有"
+    },
+    "fullscreen.toolbar.multiplayer.sharing_disabled_for_personal_drafts": {
+        "string": "共有するには、このファイルを新しいホームに移動してください。"
+    },
+    "fullscreen.toolbar.multiplayer.sharing_disabled_visit_drafts_to_move_link": {
+        "string": "「移動が必要なドラフト」にアクセス"
+    },
+    "fullscreen.toolbar.multiplayer.sharing_disabled_while_file_is_being_moved": {
+        "string": "このファイルは移動中です。まもなく共有設定を利用できます。"
+    },
+    "fullscreen.toolbar.multiplayer.sharing_fig_jam_files_disabled_by_your_organization": {
+        "string": "FigJamファイルの共有は組織によって無効にされています"
+    },
+    "fullscreen.toolbar.multiplayer.sharing_sites_files_disabled_in_alpha": {
+        "string": "アルファ期間中、サイトのファイルを共有することはできません"
+    },
+    "fullscreen.toolbar.multiplayer.sharing_slides_files_disabled_by_your_organization": {
+        "string": "Figma Slidesでのデッキの共有は組織により無効になっています"
+    },
+    "fullscreen.toolbar.mute-audio-button": {
+        "string": "音声をミュート"
+    },
+    "fullscreen.toolbar.pending-edit-request-tooltip": {
+        "string": "このファイルの編集者のいずれかがアクセス権を付与できます"
+    },
+    "fullscreen.toolbar.pending-org-join-request-tooltip": {
+        "string": "{orgName}組織への参加リクエストが承認されるまで、編集は無効です"
+    },
+    "fullscreen.toolbar.prototyping-add-interactions-tooltip": {
+        "string": "プロトタイプを作成(AIベータ)"
+    },
+    "fullscreen.toolbar.prototyping-visibility": {
+        "string": "プロトタイピングの表示"
+    },
+    "fullscreen.toolbar.reminder_sent": {
+        "string": "リマインダーが送信されました。"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "layer_icon.tooltip.table": {
+        "string": "テーブル"
+    },
+    "layer_icon.tooltip.template": {
+        "string": "テンプレート"
+    },
+    "layer_icon.tooltip.text": {
+        "string": "テキスト"
+    },
+    "layer_icon.tooltip.union": {
+        "string": "結合"
+    },
+    "layer_icon.tooltip.variant": {
+        "string": "バリアント"
+    },
+    "layer_icon.tooltip.vector": {
+        "string": "ベクター"
+    },
+    "layer_icon.tooltip.video": {
+        "string": "動画"
+    },
+    "layer_icon.tooltip.webpage": {
+        "string": "Webページ"
+    },
+    "layer_icon.tooltip.widget": {
+        "string": "ウィジェット"
+    },
+    "license_group.an_error_occurred_fetching_license_group_counts": {
+        "string": "ライセンスグループ数の取得中にエラーが発生しました"
+    },
+    "license_group.an_error_occurred_while_fetching_workspaces": {
+        "string": "ワークスペースの取得中にエラーが発生しました"
+    },
+    "license_group.unassigned": {
+        "string": "未割り当て"
+    },
+    "license_group.workspace_selector_is_hidden": {
+        "string": "ワークスペース選択機能は非表示です"
+    },
+    "license_group.workspace_selector_is_visible": {
+        "string": "ワークスペース選択機能は表示されています"
+    },
+    "billing_group_admin.upgrade_request_banner.subtitle": {
+        "string": "ダッシュボードに移動して申請を確認してください。"
+    },
+    "billing_group_admin.upgrade_request_banner.title": {
+        "string": "{orgName}には{numRequests}があります"
+    },
+    "billing_group_admin.upgrade_request_banner.title_num_requests": {
+        "string": "{numRequests, plural, other {{numRequests}件のアップグレード申請}}"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.billing_groups": {
+        "string": "このメニューから管理する請求グループに進みます。"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.workspaces_and_billing": {
+        "string": "このメニューから管理するワークスペースと請求グループに進みます。"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage_title": {
+        "string": "管理するグループにすばやく移動"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_description": {
+        "string": "管理する請求グループのメンバーからのアップグレード申請は、管理ダッシュボードから承認できます。"
+    },
+    "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_title": {
+        "string": "アップグレード申請を管理する"
+    },
+    "billing_group_admin_onboarding.step_one_description": {
+        "string": "まだどのグループにも所属していないユーザーを確認し、必要に応じて自分のグループに移動します。"
+    },
+    "billing_group_admin_onboarding.step_one_heading": {
+        "string": "ユーザーを適切なグループに移動する"
+    },
+    "billing_group_admin_onboarding.step_two_description.seat_rename": {
+        "string": "ここは、各グループのシートを管理し、シートの総数を追跡するための場所です。"
+    },
+    "billing_group_admin_onboarding.step_two_heading.seat_rename": {
+        "string": "ユーザーのシートを迅速に更新する"
+    },
+    "license_group_admin.billing_banner.completed_at_date": {
+        "string": "この請求グループは{date}に確認されました。"
+    },
+    "license_group_admin.billing_banner.count_title.design.seat_rename": {
+        "string": "デザインシートの総数"
+    },
+    "license_group_admin.billing_banner.count_title.dev_mode": {
+        "string": "開発モードシートの総数"
+    },
+    "license_group_admin.billing_banner.count_title.figjam.seat_rename": {
+        "string": "FigJamシートの総数"
+    },
+    "license_group_admin.billing_banner.default": {
+        "string": "組織の次回の請求書発行日は{date}です"
+    },
+    "license_group_admin.billing_banner.review.add_members": {
+        "string": "メンバーを追加"
+    },
+    "license_group_admin.billing_banner.review.confirm_editors.seat_rename": {
+        "string": "シートを確定"
+    },
+    "license_group_admin.billing_banner.review.confirmation_modal.body.seat_rename": {
+        "string": "組織の管理者は、この請求グループの有料シートが確定済みであることを確認できます。"
+    },
+    "license_group_admin.billing_banner.review.confirmation_modal.title.seat_rename": {
+        "string": "{billingGroupName}のシートを確定しますか?"
+    },
+    "license_group_admin.billing_banner.review.subtitle.seat_rename": {
+        "string": "確定前に必要に応じて変更を行ってください。組織への請求は、確定されたフルシートに対してのみ行われます。"
+    },
+    "license_group_admin.billing_banner.review.title.seat_rename": {
+        "string": "次のシートの確認と確定"
+    },
+    "license_group_admin.billing_dashboard.billing_banner.billing_group_links": {
+        "string": "{billingGroupLinks}"
+    },
+    "license_group_admin.billing_dashboard.billing_banner.billing_group_links_plus": {
+        "string": "{count, plural, other {{billingGroupLinks}とその他{count}グループ}}"
+    },
+    "license_group_admin.billing_dashboard.billing_banner.review_and_confirm": {
+        "string": "シートを確認、確定しましょう"
+    },
+    "license_group_admin.billing_dashboard.billing_banner.review_these_billing_groups": {
+        "string": "これらの請求グループを確認する必要があります:"
+    },
+    "license_group_admin.members.no_members_yet": {
+        "string": "まだメンバーはいません"
+    },
+    "license_group_admin.members.no_members_yet.subtitle": {
+        "string": "どのグループにも所属していないユーザーをこのグループに参加または移動するよう招待します。"
+    },
+    "license_group_admin_tab.members": {
+        "string": "メンバー"
+    },
+    "multi_admin_onboarding.description": {
+        "string": "管理するワークスペースと請求グループとを切り替えるには、このメニューを使用します。"
+    },
+    "multi_admin_onboarding.heading": {
+        "string": "管理するグループにすばやく切り替える"
+    },
+    "license_group_view.meta.unassigned_title": {
+        "string": "{orgName}のその他のチーム"
+    },
+    "license_group_view.toolbar.change_icon": {
+        "string": "アイコンを変更"
+    },
+    "license_group_view.toolbar.create_team_disabled": {
+        "string": "チームの作成は管理者によって無効にされています"
+    },
+    "license_group_view.toolbar.new_team_button": {
+        "string": "チーム"
+    }
+}

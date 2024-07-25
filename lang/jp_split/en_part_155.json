@@ -1,0 +1,152 @@
+{
+    "figjam_try.this_file_has_been_saved_to_folder_name": {
+        "string": "{folder_name}に保存しました"
+    },
+    "figjam_try.timed_tooltip_body": {
+        "string": "アカウントを作成すれば、このボードをいつでも(無料で!)保存できます。"
+    },
+    "figjam_try.timed_tooltip_cta": {
+        "string": "アカウントを作成"
+    },
+    "figjam_try.timed_tooltip_headline": {
+        "string": "使用期間終了まであと24時間"
+    },
+    "figjam_try.timer_hours_left": {
+        "string": "{hoursLeft, plural, other {残り時間は{hoursLeft, number, integer}時間です}}"
+    },
+    "figjam_try.timer_less_than_ten_minutes_left": {
+        "string": "残り時間は10分未満です"
+    },
+    "figjam_try.timer_minutes_left": {
+        "string": "{minutesLeft, plural, other {残り時間は{minutesLeft, number, integer}分です}}"
+    },
+    "figjam_try.timer_tooltip_anonymous": {
+        "string": "このボードを保存するにはアカウントを作成してください"
+    },
+    "figjam_try.timer_tooltip_logged_in": {
+        "string": "このファイルは1日後に削除されます (ただし必要な場合は保存できます)"
+    },
+    "figjam_try_v2.after_that_this_board_will_be_deleted": {
+        "string": "その後、このボードは削除されます。手間を省くには、無料アカウントを作成します ->"
+    },
+    "figjam_try_v2.claim_file_logged_in": {
+        "string": "ファイルを要求"
+    },
+    "figjam_try_v2.logged_in.after_that_this_board_will_be_deleted": {
+        "string": "その後、このボードは削除されます。作品を保存するには、ファイルを下書きに保存してください。"
+    },
+    "figjam_try_v2.timer_hours_left": {
+        "string": "{hoursLeft, plural, other {ジャムセッションは残り{hoursLeft, number, integer}時間です。}}"
+    },
+    "figjam_try_v2.timer_minutes_left": {
+        "string": "{minutesLeft, plural, other {ジャムセッションは残り{minutesLeft, number, integer}分です。}}"
+    },
+    "figjam_try_v2.to_save_your_work_create_free_account": {
+        "string": "作業を保存するには、無料のアカウントを作成します。"
+    },
+    "account_switcher.change_photo": {
+        "string": "写真を変更"
+    },
+    "account_switcher.view_community_profile": {
+        "string": "コミュニティプロフィールを表示"
+    },
+    "account_switcher.view_profile": {
+        "string": "プロフィールを表示"
+    },
+    "beta": {
+        "string": "ベータ版"
+    },
+    "breadcrumbs.private_workspace_ellipses": {
+        "string": "…"
+    },
+    "breadcrumbs.unassigned_license_group": {
+        "string": "その他のチーム"
+    },
+    "change_payment.cancel": {
+        "string": "キャンセル"
+    },
+    "change_payment.close_window": {
+        "string": "ウィンドウを閉じる"
+    },
+    "change_payment.enter_credit_or_debit_card": {
+        "string": "クレジットカードまたはデビットカードを入力"
+    },
+    "change_payment.enter_payment_method": {
+        "string": "お支払い情報を入力"
+    },
+    "change_payment.name_required_on_card_error": {
+        "string": "このカードの名前を入力してください。"
+    },
+    "change_payment.save": {
+        "string": "保存"
+    },
+    "change_payment.success.successfully_reactivated_subscription": {
+        "string": "サブスクリプションを再度有効にしました。"
+    },
+    "change_payment.success.successfully_updated_your_payment_method": {
+        "string": "お支払方法を更新しました。"
+    },
+    "change_payment.update_payment_details": {
+        "string": "支払いの詳細を更新"
+    },
+    "change_payment.update_payment_details_description": {
+        "string": "支払い情報に含まれる支払い方法と住所を更新します。これは、Figmaのサブスクリプションの請求先になります。"
+    },
+    "change_payment.use_this_card": {
+        "string": "このカードを使う"
+    },
+    "change_vat_gst_id.description": {
+        "string": "法人としてFigmaプランを支払う場合は、完全な付加価値税(VAT)または商品サービス税(GST)識別番号を入力します。これは、請求書が正確であることを確認するのに役立ちます。"
+    },
+    "change_vat_gst_id.input_id": {
+        "string": "識別番号を追加"
+    },
+    "change_vat_gst_id.save_id": {
+        "string": "IDを保存"
+    },
+    "change_vat_gst_id.tax_id_verification_failed": {
+        "string": "この納税者番号を確認できませんでした。請求書を正確に保つため、管理者が納税者番号を再入力する必要があります。"
+    },
+    "change_vat_gst_id.tax_id_verification_succeeded": {
+        "string": "納税者番号が確認され、請求書に追加されました。"
+    },
+    "confirm_downgrade.at_the_end_of_your_current_billing_period_team_name_will_be_downgraded_to_our_free_starter_plan": {
+        "string": "キャンセルすると、現在の請求期間の終了日である{billingEndDate}に、{teamName}は無料のスタータープランにダウングレードされます。"
+    },
+    "confirm_downgrade.cancel_professional_plan": {
+        "string": "キャンセルしてよろしいですか?"
+    },
+    "confirm_downgrade.finish_cancellation": {
+        "string": "プランをキャンセル"
+    },
+    "confirm_downgrade.go_back": {
+        "string": "戻る"
+    },
+    "confirm_downgrade.on_your_next_billing_date_team_name_will_be_downgraded_to_our_free_starter_plan": {
+        "string": "キャンセルを選ぶと、{teamName}は次の請求日に無料のスタータープランにダウングレードされます。"
+    },
+    "contact_sales.phone_number_optional": {
+        "string": "電話番号(省略可)"
+    },
+    "contact_sales.product.all_products": {
+        "string": "すべての製品"
+    },
+    "contact_sales.product.design": {
+        "string": "Figma - デザインとプロトタイピング"
+    },
+    "contact_sales.product.dev_mode": {
+        "string": "開発モード - ハンドオフと開発"
+    },
+    "contact_sales.product.figjam": {
+        "string": "FigJam - ホワイトボーディング"
+    },
+    "contact_sales.topic.billing_and_invoicing": {
+        "string": "請求とインボイス作成"
+    },
+    "contact_sales.topic.educators_and_students": {
+        "string": "教職員と学生"
+    },
+    "contact_sales.topic.request_a_sales_demo_or_talk_to_sales": {
+        "string": "営業担当にデモを依頼する/問い合わせる"
+    }
+}

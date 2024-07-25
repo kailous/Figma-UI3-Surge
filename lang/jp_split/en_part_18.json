@@ -1,0 +1,152 @@
+{
+    "asset_transfers.request_modal.learn_how_to_find_the_link": {
+        "string": "リンクの入手方法はこちらをご確認ください"
+    },
+    "asset_transfers.request_modal.learn_more": {
+        "string": "詳細を表示"
+    },
+    "asset_transfers.request_modal.next": {
+        "string": "次へ"
+    },
+    "asset_transfers.request_modal.next_steps": {
+        "string": "次のステップ"
+    },
+    "asset_transfers.request_modal.note_that_file_branches_wont_be_transferred": {
+        "string": "ブランチは移転しないことにご注意ください"
+    },
+    "asset_transfers.request_modal.once_a_transfer_is_accepted_by_an_external_organization_it_can_t_be_undone": {
+        "string": "外部の組織が移転を承認した後は、取り消すことはできません。"
+    },
+    "asset_transfers.request_modal.once_a_transfer_is_accepted_by_an_external_team_it_can_t_be_undone": {
+        "string": "外部のチームが移転を承認した後は、取り消すことはできません。"
+    },
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_copy_will_be_transferred": {
+        "string": "管理者が同意すると、プロジェクトのコピーが移転します。このコピーには、移転先のチームまたは組織のメンバーのみがアクセスできます。{learnMore}"
+    },
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred": {
+        "string": "管理者が承認すると、プロジェクトが移転します。"
+    },
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred_some_of_your_members_may_still_have_access_to_the_project": {
+        "string": "管理者が同意すると、プロジェクトが移転します。一部のメンバーは、引き続きプロジェクトにアクセスできます。{learnMore}"
+    },
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred_some_of_your_team_may_still_have_access_to_the_project": {
+        "string": "管理者が承認すると、プロジェクトが移転します。一部のチームメンバーは、引き続きプロジェクトにアクセスできます。{learnMore}"
+    },
+    "asset_transfers.request_modal.once_an_admin_accepts_the_team_will_be_transferred": {
+        "string": "管理者が承認すると、チームが移転します。"
+    },
+    "asset_transfers.request_modal.once_an_admin_accepts_the_team_will_be_transferred_some_of_your_members_may_still_have_access_to_the_team": {
+        "string": "管理者が同意すると、チームが移転します。一部のメンバーは、引き続きチームにアクセスできます。{learnMore}"
+    },
+    "asset_transfers.request_modal.pro_enterprise_or_organization_plan": {
+        "string": "プロフェッショナルプラン、ビジネスプラン、またはエンタープライズプラン。"
+    },
+    "asset_transfers.request_modal.request_transfer": {
+        "string": "移転をリクエスト"
+    },
+    "asset_transfers.request_modal.start_this_transfer": {
+        "string": "この移転を開始"
+    },
+    "asset_transfers.request_modal.step_1_of_2": {
+        "string": "ステップ{stepNumber}/2"
+    },
+    "asset_transfers.request_modal.team_verified": {
+        "string": "チームが確認されました"
+    },
+    "asset_transfers.request_modal.transfer_a_copy": {
+        "string": "コピーを移転"
+    },
+    "asset_transfers.request_modal.web_link": {
+        "string": "Webリンク"
+    },
+    "asset_transfers.request_modal.when_you_send_your_request_the_contact_person_and_their_admins_will_be_notified": {
+        "string": "リクエストを送信すると、連絡担当者と管理者に通知されます。"
+    },
+    "asset_transfers.request_modal.when_you_send_your_request_the_contact_person_and_their_organization_admins_will_be_notified": {
+        "string": "リクエストを送信すると、連絡先担当者と組織管理者に通知されます。"
+    },
+    "asset_transfers.request_modal.who_to_notify": {
+        "string": "通知先"
+    },
+    "asset_transfers.request_modal.you_can_transfer_a_copy_of_this_project_and_its_content_to_another_organization": {
+        "string": "このプロジェクトのコピーとそのコンテンツを別の組織に移転し、その組織が自分たちのアーティファクトを保持できるようにすることができます。"
+    },
+    "asset_transfers.request_modal.you_can_transfer_a_copy_of_this_project_and_its_content_to_another_team": {
+        "string": "このプロジェクトのコピーとそのコンテンツを別のチームに移転し、そのチームに管理を引き継ぐことができます。"
+    },
+    "asset_transfers.request_modal.you_can_transfer_this_project_and_its_content_to_another_organization": {
+        "string": "このプロジェクトとそのコンテンツを別の組織に移転し、その組織に管理を引き継ぐことができます。"
+    },
+    "asset_transfers.request_modal.you_can_transfer_this_project_and_its_content_to_another_team": {
+        "string": "このプロジェクトとそのコンテンツを別のチームに移転し、そのチームに管理を引き継ぐことができます。"
+    },
+    "asset_transfers.request_modal.you_can_transfer_this_team_and_its_content_to_another_organization": {
+        "string": "このチームとそのコンテンツを別の組織に移転し、その組織に管理を引き継ぐことができます。"
+    },
+    "asset_transfers.request_modal.you_ll_need_the_email_address_of_a_contact_person": {
+        "string": "もう一方の組織の連絡担当者のメールアドレスが必要です。また、その組織は、{strongPlan}に加入している必要があります。{learnMore}"
+    },
+    "asset_transfers.request_modal.you_ll_need_the_email_address_of_a_contact_person_on_that_other_team": {
+        "string": "もう一方のチームの連絡担当者のメールアドレスが必要になります。また、そのチームは、{strongPlan}に加入している必要があります。 {learnMore}"
+    },
+    "asset_transfers.revoke.transfer_revoked": {
+        "string": "移転が取り消されました。"
+    },
+    "assets_in_actions.assets_section.error.description": {
+        "string": "予期しないエラーが発生しました"
+    },
+    "assets_in_actions.assets_section.error.title": {
+        "string": "問題が発生しました"
+    },
+    "assets_in_actions.assets_section.initial_state.title": {
+        "string": "アセットを、名前または簡潔な説明で検索します"
+    },
+    "assets_in_actions.assets_section.no_results.title": {
+        "string": "「{query}」に一致する結果はありません"
+    },
+    "assets_in_actions.assets_section.title": {
+        "string": "コンポーネント"
+    },
+    "assets_in_actions.component_search.placeholder_1": {
+        "string": "例: 「丸で囲まれた×」"
+    },
+    "assets_in_actions.component_search.placeholder_10": {
+        "string": "例: 「写真グリッド」"
+    },
+    "assets_in_actions.component_search.placeholder_11": {
+        "string": "例: 「ラジオボタン」"
+    },
+    "assets_in_actions.component_search.placeholder_12": {
+        "string": "例: 「丸で囲まれた?アイコン」"
+    },
+    "assets_in_actions.component_search.placeholder_13": {
+        "string": "例: 「中央に!アイコンがある三角形」"
+    },
+    "assets_in_actions.component_search.placeholder_2": {
+        "string": "例: 「チェックマークアイコン」"
+    },
+    "assets_in_actions.component_search.placeholder_3": {
+        "string": "例: 「確認ダイアログ」"
+    },
+    "assets_in_actions.component_search.placeholder_4": {
+        "string": "例: 「青いボタン」"
+    },
+    "assets_in_actions.component_search.placeholder_5": {
+        "string": "例: 「ダークモードのモーダル」"
+    },
+    "assets_in_actions.component_search.placeholder_6": {
+        "string": "例: 「大きめのトグル」"
+    },
+    "assets_in_actions.component_search.placeholder_7": {
+        "string": "例: 「ヘルプアイコン」"
+    },
+    "assets_in_actions.component_search.placeholder_8": {
+        "string": "例: 「エラーポップアップ」"
+    },
+    "assets_in_actions.component_search.placeholder_9": {
+        "string": "例: 「アラートバナー」"
+    },
+    "assets_in_actions.detail_view.community_tab.title": {
+        "string": "コミュニティ"
+    }
+}

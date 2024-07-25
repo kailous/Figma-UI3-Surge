@@ -1,0 +1,152 @@
+{
+    "community.view_bar.creators": {
+        "string": "作成者"
+    },
+    "community.view_bar.curated_by": {
+        "string": "管理者"
+    },
+    "community.view_bar.dev_mode": {
+        "string": "Figma: 開発モード"
+    },
+    "community.view_bar.fig_jam": {
+        "string": "FigJam"
+    },
+    "community.view_bar.figma": {
+        "string": "Figma"
+    },
+    "community.view_bar.figma_partners_only": {
+        "string": "Figmaパートナーのみ"
+    },
+    "community.view_bar.figma_prototype": {
+        "string": "Figmaプロトタイプ"
+    },
+    "community.view_bar.files": {
+        "string": "ファイル"
+    },
+    "community.view_bar.files_and_templates": {
+        "string": "ファイル + テンプレート"
+    },
+    "community.view_bar.following": {
+        "string": "フォロー中"
+    },
+    "community.view_bar.home": {
+        "string": "ホーム"
+    },
+    "community.view_bar.plugins": {
+        "string": "プラグイン"
+    },
+    "community.view_bar.slides": {
+        "string": "Figma Slides"
+    },
+    "community.view_bar.updated_date": {
+        "string": "更新日 {date}"
+    },
+    "community.view_bar.widgets": {
+        "string": "ウィジェット"
+    },
+    "community_detail_view.creators_note": {
+        "string": "作成者のメモ:"
+    },
+    "community_detail_view.learn_more_network_access": {
+        "string": "詳細情報"
+    },
+    "community.actions.an_error_occured_while_trying_to_purchase_please_contact_support": {
+        "string": "このリソースを購入しようとしてエラーが発生しました。support@figma.comまでお問い合わせください。"
+    },
+    "community.actions.an_error_occurred": {
+        "string": "エラーが発生しました"
+    },
+    "community.actions.an_error_occurred_accepting_invite_please_refresh_and_try_again": {
+        "string": "招待の受諾中にエラーが発生しました。更新してもう一度お試しください。"
+    },
+    "community.actions.an_error_occurred_while_removing_publisher_please_refresh_and_try_again": {
+        "string": "公開者の削除中にエラーが発生しました。更新してもう一度お試しください。"
+    },
+    "community.actions.an_error_occurred_while_searching_for_plugins": {
+        "string": "プラグインの検索中にエラーが発生しました"
+    },
+    "community.actions.an_error_occurred_while_searching_for_widgets": {
+        "string": "ウィジェットの検索中にエラーが発生しました"
+    },
+    "community.actions.an_error_occurred_while_trying_to_fetch_the_org_widgets_list": {
+        "string": "組織のウィジェットリストの取得中にエラーが発生しました。"
+    },
+    "community.actions.an_error_occurred_while_updating_please_refresh_and_try_again": {
+        "string": "更新中にエラーが発生しました。更新してもう一度お試しください。"
+    },
+    "community.actions.an_error_occurred_with_error": {
+        "string": "エラーが発生しました: {error}"
+    },
+    "community.actions.attempting_to_publish_an_invalid_prototype_as_a_prototype": {
+        "string": "無効なプロトタイプをプロトタイプとして公開しようとしています"
+    },
+    "community.actions.attempting_to_set_both_author_org_id_and_author_team_id_while_publishing": {
+        "string": "公開中にauthorOrgIdとauthorTeamIdの両方を設定しようとしています"
+    },
+    "community.actions.could_not_connect_to_the_server": {
+        "string": "サーバーに接続できませんでした。"
+    },
+    "community.actions.could_not_publish_hub_file": {
+        "string": "ファイルを公開できませんでした: {error}"
+    },
+    "community.actions.could_not_publish_plugin_error": {
+        "string": "プラグインを公開できませんでした: {error}"
+    },
+    "community.actions.could_not_publish_widget_error": {
+        "string": "ウィジェットを公開できませんでした: {error}"
+    },
+    "community.actions.couldnt_restrict_profile_error": {
+        "string": "プロフィールを制限できませんでした: {error}"
+    },
+    "community.actions.couldnt_unrestrict_profile_error": {
+        "string": "プロフィールを制限解除できませんでした: {error}"
+    },
+    "community.actions.email_was_removed_from_your_profile": {
+        "string": "{email}がプロフィールから削除されました"
+    },
+    "community.actions.error_connecting_to_server_to_upload_file_images": {
+        "string": "ファイルの画像をアップロードするためのサーバー接続でエラーが発生しました。"
+    },
+    "community.actions.error_fetching_email_notifications_information_error": {
+        "string": "メール通知情報の取得中にエラーが発生しました: {error}"
+    },
+    "community.actions.error_fetching_profile_information": {
+        "string": "プロフィール情報の取得中にエラーが発生しました。"
+    },
+    "community.actions.error_finalizing_plugin_error": {
+        "string": "プラグインの最終処理でエラーが発生しました:{error}"
+    },
+    "community.actions.error_finalizing_widget_error": {
+        "string": "ウィジェットの最終処理でエラーが発生しました: {error}"
+    },
+    "community.actions.error_subscribing_to_email_error": {
+        "string": "メールのサブスクライブ中にエラーが発生しました: {error}"
+    },
+    "community.actions.error_unsubscribing_from_email_error": {
+        "string": "メールのサブスクライブ解除中にエラーが発生しました: {error}"
+    },
+    "community.actions.error_uploading_carousel_image_error": {
+        "string": "カルーセル画像のアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_images_e": {
+        "string": "画像のアップロードエラー"
+    },
+    "community.actions.error_uploading_images_publish_update_from_editor": {
+        "string": "画像のアップロード中にエラーが発生しました。エディターを使ってアップデートを公開してみてください。"
+    },
+    "community.actions.error_uploading_plugin_artwork_image_error": {
+        "string": "プラグインアートワーク画像のアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_plugin_code_error": {
+        "string": "プラグインコードのアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_plugin_icon_error": {
+        "string": "プラグインアイコンのアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_plugin_video_error": {
+        "string": "プラグイン動画のアップロードエラー: {error}"
+    },
+    "community.actions.error_uploading_plugin_video_thumbnail_error": {
+        "string": "プラグイン動画のサムネイルのアップロードエラー: {error}"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "universal_insert.organization_has_no_approved_community_widgets": {
+        "string": "組織には承認済みのコミュニティウィジェットがありません"
+    },
+    "universal_insert.plugin": {
+        "string": "プラグイン"
+    },
+    "universal_insert.plugin_not_in_allowlist": {
+        "string": "このプラグインは、組織が許可していません"
+    },
+    "universal_insert.published_version": {
+        "string": "公開バージョン"
+    },
+    "universal_insert.recents": {
+        "string": "最近使用したリソース"
+    },
+    "universal_insert.recents_and_saved": {
+        "string": "最近使用および保存"
+    },
+    "universal_insert.remove": {
+        "string": "削除"
+    },
+    "universal_insert.remove_local_version": {
+        "string": "ローカルのバージョンを削除"
+    },
+    "universal_insert.request": {
+        "string": "リクエスト"
+    },
+    "universal_insert.request_approval": {
+        "string": "承認を申請..."
+    },
+    "universal_insert.run": {
+        "string": "実行"
+    },
+    "universal_insert.saved": {
+        "string": "保存済み"
+    },
+    "universal_insert.saved_empty_state": {
+        "string": "何も試していないか、保存していません"
+    },
+    "universal_insert.saved_for_quick_access_plugins": {
+        "string": "保存してお気に入りのプラグインにすばやくアクセス"
+    },
+    "universal_insert.saved_for_quick_access_widgets": {
+        "string": "保存してお気に入りのウィジェットにすばやくアクセス"
+    },
+    "universal_insert.saved_from_community": {
+        "string": "コミュニティから保存済み"
+    },
+    "universal_insert.search_all_extensions": {
+        "string": "すべての拡張機能を検索"
+    },
+    "universal_insert.search_all_plugins": {
+        "string": "すべてのプラグインを検索"
+    },
+    "universal_insert.search_all_widgets": {
+        "string": "すべてのウィジェットを検索"
+    },
+    "universal_insert.see_details": {
+        "string": "詳細を見る"
+    },
+    "universal_insert.see_more_details_in_community": {
+        "string": "コミュニティで詳細を確認する"
+    },
+    "universal_insert.show_all_saved_plugins": {
+        "string": "保存済みプラグインをすべて表示"
+    },
+    "universal_insert.show_all_saved_widgets": {
+        "string": "保存済みウィジェットをすべて表示"
+    },
+    "universal_insert.show_in_explorer": {
+        "string": "Explorerで表示"
+    },
+    "universal_insert.show_in_finder": {
+        "string": "Finderで表示"
+    },
+    "universal_insert.view_details": {
+        "string": "詳細の表示"
+    },
+    "universal_insert.widget": {
+        "string": "ウィジェット"
+    },
+    "plan_comparison.billing_toggle.monthly_billing": {
+        "string": "月払い"
+    },
+    "plan_comparison.billing_toggle.yearly_billing": {
+        "string": "年払い{saveMessage}"
+    },
+    "plan_comparison.billing_toggle.yearly_billing_save_message": {
+        "string": "(最大{saveAmount}%お得)"
+    },
+    "plan_comparison.chart.activity_logs.details": {
+        "string": "チームのFigmaの使用状況を確認します。"
+    },
+    "plan_comparison.chart.activity_logs.name": {
+        "string": "アクティビティーログ"
+    },
+    "plan_comparison.chart.advanced_prototyping.details": {
+        "string": "式や条件付きロジックなどを使用して、よりリアルなプロトタイプを作成します。"
+    },
+    "plan_comparison.chart.advanced_prototyping.name": {
+        "string": "高度なプロトタイピング"
+    },
+    "plan_comparison.chart.audio_conversations.details": {
+        "string": "FigmaまたはFigJamのファイル内から音声を使ってチームメートと直接会話できます。"
+    },
+    "plan_comparison.chart.audio_conversations.name": {
+        "string": "音声会話"
+    },
+    "plan_comparison.chart.audio_conversations_v2.details": {
+        "string": "ファイルで作業中にコラボレーターと作業内容について話し合います。"
+    },
+    "plan_comparison.chart.audio_conversations_v2.name": {
+        "string": "音声会話"
+    },
+    "plan_comparison.chart.branching_and_merging.details": {
+        "string": "別のブランチで作業し、準備ができたら、変更内容をメインファイルにマージします。"
+    },
+    "plan_comparison.chart.branching_and_merging.name": {
+        "string": "分岐とマージ"
+    },
+    "plan_comparison.chart.callout.figjam": {
+        "string": "FigJam"
+    },
+    "plan_comparison.chart.callout.figjam_board": {
+        "string": "FigJamボード"
+    },
+    "plan_comparison.chart.centralized_admin.details": {
+        "string": "複数のチームが1つのFigmaアカウントで連携します。ユーザーと請求を1箇所で管理できます。"
+    },
+    "plan_comparison.chart.centralized_admin.name": {
+        "string": "一元管理"
+    },
+    "plan_comparison.chart.centralized_content_management.details": {
+        "string": "ファイルとドラフトはすべて組織が所有し、いつでも復元できます。"
+    },
+    "plan_comparison.chart.centralized_content_management.name": {
+        "string": "一元的なコンテンツ管理"
+    },
+    "plan_comparison.chart.custom_color_palettes.details_with_callout": {
+        "string": "ブランドカラーを{figJamCallout}での作業時のデフォルトに設定します。"
+    },
+    "plan_comparison.chart.custom_color_palettes.name": {
+        "string": "カスタムカラーパレット"
+    },
+    "plan_comparison.chart.custom_permissions.details": {
+        "string": "チームが非公開で作業できるように招待専用スペースを作成します。"
+    },
+    "plan_comparison.chart.custom_permissions.name": {
+        "string": "ファイルとユーザーの権限の独自設定"
+    }
+}

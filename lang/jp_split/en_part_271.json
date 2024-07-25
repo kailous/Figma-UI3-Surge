@@ -1,0 +1,152 @@
+{
+    "proto.starting_points.description_strikethrough_tooltip": {
+        "string": "取り消し線"
+    },
+    "proto.starting_points.edit_description": {
+        "string": "説明を編集"
+    },
+    "proto.starting_points.flow_starting_point_title": {
+        "string": "フローの開始点"
+    },
+    "proto.state": {
+        "string": "状態"
+    },
+    "proto.state_management": {
+        "string": "状態管理"
+    },
+    "proto.state_management.controls_help_link": {
+        "string": "詳細はこちら..."
+    },
+    "proto.state_management.controls_help_link_new": {
+        "string": "詳細情報"
+    },
+    "proto.state_management.info_tooltip": {
+        "string": "最上位のフレームの名前が同じか、プリフィックスが一致すると、{PreserveScrollPositionBold}が自動的に適用されます。"
+    },
+    "proto.state_management.info_tooltip_learn_more": {
+        "string": "詳細情報"
+    },
+    "proto.state_management.mixed_state_update": {
+        "string": "混合コンテンツを変更するには、新しい状態管理にアップデートしてください。"
+    },
+    "proto.state_management.new_controls": {
+        "string": "状態管理を更新しました。"
+    },
+    "proto.state_management.old_controls": {
+        "string": "古い状態管理を使用中です。"
+    },
+    "proto.state_management.reset_video_state": {
+        "string": "動画の状態をリセット"
+    },
+    "proto.state_management.revert_controls": {
+        "string": "戻す"
+    },
+    "proto.state_management.update_controls": {
+        "string": "更新"
+    },
+    "proto.state_management.visual_bell_update_all": {
+        "string": "すべて更新"
+    },
+    "proto.state_management.visual_bell_update_all_message": {
+        "string": "すべてのインタラクションを更新済み"
+    },
+    "proto.state_management.visual_bell_updated_message": {
+        "string": "新しい状態管理を使用するためインタラクションを更新済み"
+    },
+    "proto.status_messages.a_presentation_needs_to_have_at_least_one_slide": {
+        "string": "プレゼンテーションにはスライドが1枚以上必要です。"
+    },
+    "proto.status_messages.a_prototype_needs_to_have_at_least_one_frame": {
+        "string": "プロトタイプにはフレームが1つ以上必要です。"
+    },
+    "proto.status_messages.a_prototype_with_connections_needs_a_valid_top_level_frame_as_the_origin": {
+        "string": "コネクションが含まれているプロトタイプでは、有効な最上位フレームが基点として必要です。"
+    },
+    "proto.target_video_node_name_formatter.this_video": {
+        "string": "この動画"
+    },
+    "proto.time": {
+        "string": "時間"
+    },
+    "proto.title_interactions": {
+        "string": "インタラクション"
+    },
+    "proto.tooltip_overlay_position_bottom_center": {
+        "string": "中央下"
+    },
+    "proto.tooltip_overlay_position_center": {
+        "string": "中央"
+    },
+    "proto.tooltip_overlay_position_top_left": {
+        "string": "左上"
+    },
+    "proto.transition_behavior.animate": {
+        "string": "アニメーション"
+    },
+    "proto.transition_behavior.dissolve": {
+        "string": "ディゾルブ"
+    },
+    "proto.transition_behavior.instant": {
+        "string": "即時"
+    },
+    "proto.transition_behavior.move_in": {
+        "string": "ムーブイン"
+    },
+    "proto.transition_behavior.move_out": {
+        "string": "ムーブアウト"
+    },
+    "proto.transition_behavior.push": {
+        "string": "プッシュ"
+    },
+    "proto.transition_behavior.slide_in": {
+        "string": "スライドイン"
+    },
+    "proto.transition_behavior.slide_out": {
+        "string": "スライドアウト"
+    },
+    "proto.transition_behavior.smart_animate": {
+        "string": "スマートアニメート"
+    },
+    "proto.trigger": {
+        "string": "トリガー"
+    },
+    "proto.trigger.add_delay_placeholder": {
+        "string": "遅延を追加"
+    },
+    "proto.trigger.after_delay_timeout": {
+        "string": "ディレイタイムアウト後"
+    },
+    "proto.trigger.duration_to_jump_backward": {
+        "string": "ジャンプして戻る時間"
+    },
+    "proto.trigger.duration_to_jump_forward": {
+        "string": "ジャンプして進む時間"
+    },
+    "proto.trigger.timestamp_to_set_to": {
+        "string": "設定後のタイムスタンプ"
+    },
+    "proto.trigger.video_hit_time": {
+        "string": "アクションを実行する動画内の時間"
+    },
+    "proto.trigger.x_offset": {
+        "string": "Xオフセット"
+    },
+    "proto.trigger.y_offset": {
+        "string": "Yオフセット"
+    },
+    "proto.unpublished_variables_localized": {
+        "string": "{numberOfVariables, plural, other {このファイルに{numberOfVariables}個のバリアブルを作成しました}}"
+    },
+    "proto.variable": {
+        "string": "バリアブル"
+    },
+    "proto.variable.value": {
+        "string": "値"
+    },
+    "proto.variable_debugger.live_preview_indicator": {
+        "string": "ライブプレビュー"
+    },
+    "proto.variant_actions.change_to": {
+        "string": "次に変更…"
+    }
+}

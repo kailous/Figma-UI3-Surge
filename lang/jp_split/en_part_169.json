@@ -1,0 +1,152 @@
+{
+    "org_home_view_meta.admins": {
+        "string": "管理者"
+    },
+    "org_home_view_meta.learn_more": {
+        "string": "詳細はこちら..."
+    },
+    "org_home_view_meta.member_count": {
+        "string": "{memberCount, plural, other {{memberCount}人のメンバー}}"
+    },
+    "org_home_view_meta.team_count": {
+        "string": "{teamCount, plural, other {{teamCount}チーム}}"
+    },
+    "org_home_view_meta.workspace_count": {
+        "string": "{workspaceCount, plural, other {{workspaceCount}個のワークスペース}}"
+    },
+    "project_creation.add_people_to_project_name": {
+        "string": "{projectName}にユーザーを追加"
+    },
+    "project_creation.back": {
+        "string": "戻る"
+    },
+    "project_creation.can_create_and_edit_files": {
+        "string": "このプロジェクトのファイルの作成と編集、メンバーの追加、メンバーの編集権限の変更が可能です。"
+    },
+    "project_creation.can_view_and_comment": {
+        "string": "このプロジェクトのファイルの閲覧とコメントが可能です。"
+    },
+    "project_creation.cancel": {
+        "string": "キャンセル"
+    },
+    "project_creation.create_new_project": {
+        "string": "プロジェクトの新規作成"
+    },
+    "project_creation.create_project": {
+        "string": "プロジェクトを作成"
+    },
+    "project_creation.everyone_at_team_name_can_edit": {
+        "string": "{teamName}のすべてのメンバーが編集できます"
+    },
+    "project_creation.everyone_at_team_name_can_view": {
+        "string": "{teamName}のすべてのメンバーが閲覧できます"
+    },
+    "project_creation.everyone_on_this_team_can_edit": {
+        "string": "このチームのすべてのメンバーが編集できます"
+    },
+    "project_creation.everyone_on_this_team_can_view": {
+        "string": "このチームのすべてのメンバーが閲覧できます"
+    },
+    "project_creation.ex_growth_experiments": {
+        "string": "例: グロースエクスペリメント(成長実験)"
+    },
+    "project_creation.invite_only": {
+        "string": "招待のみ"
+    },
+    "project_creation.invite_only_let_me_choose_who_has_access": {
+        "string": "招待限定—アクセスできるユーザーを選択する"
+    },
+    "project_creation.name": {
+        "string": "名前"
+    },
+    "project_creation.project_name": {
+        "string": "プロジェクト名"
+    },
+    "project_creation.project_name_empty": {
+        "string": "プロジェクト名を入力"
+    },
+    "project_creation.step_number_of_max_steps": {
+        "string": "ステップ{currentStep}/{totalSteps}"
+    },
+    "project_creation.who_has_access": {
+        "string": "アクセス可能なユーザー"
+    },
+    "project_menu.add_description": {
+        "string": "説明を追加"
+    },
+    "project_menu.copy": {
+        "string": "コピー"
+    },
+    "project_menu.delete": {
+        "string": "削除"
+    },
+    "project_menu.description": {
+        "string": "説明"
+    },
+    "project_menu.edit_description": {
+        "string": "説明を編集"
+    },
+    "project_menu.ownership": {
+        "string": "オーナーシップ"
+    },
+    "project_menu.pending_transfer_request": {
+        "string": "移転をリクエストしました..."
+    },
+    "project_menu.to_another_team_org": {
+        "string": "他のチーム/組織へ"
+    },
+    "project_menu.transfer": {
+        "string": "移転"
+    },
+    "project_menu.view_transfer_details": {
+        "string": "詳細を表示"
+    },
+    "realtime.asset_reload.project_has_been_transferred_redirecting": {
+        "string": "プロジェクトが移転しました。新しいURLにリダイレクトしています。"
+    },
+    "realtime.asset_reload.team_has_been_transferred_redirecting": {
+        "string": "チームが移転しました。新しいURLにリダイレクトしています。"
+    },
+    "revoke_transfer_modal.function_explanation": {
+        "string": "このリクエストを取り消すと、保留中の移転がキャンセルされます。"
+    },
+    "revoke_transfer_modal.go_back": {
+        "string": "戻る"
+    },
+    "revoke_transfer_modal.header_title": {
+        "string": "移転リクエストを保留中"
+    },
+    "revoke_transfer_modal.revoke": {
+        "string": "リクエストを取り消す"
+    },
+    "revoke_transfer_modal.transfer_copy_details": {
+        "string": "{sourceUserEmail}がこのプロジェクトのコピーの移転を{destinationUserEmail}にリクエストしました"
+    },
+    "revoke_transfer_modal.transfer_details": {
+        "string": "{sourceUserEmail}がこのプロジェクトの移転を{destinationUserEmail}にリクエストしました"
+    },
+    "settings_table.add_annual_seats": {
+        "string": "年間シートを追加"
+    },
+    "settings_table.billing_contacts": {
+        "string": "請求連絡先"
+    },
+    "settings_table.billing_contacts_description": {
+        "string": "更新、請求書、支払いに関するメール通知を受け取る人を選択します。"
+    },
+    "settings_table.billing_date": {
+        "string": "{billing_date}"
+    },
+    "settings_table.cancel_plan": {
+        "string": "プランをキャンセル"
+    },
+    "settings_table.cancel_your_subscription_of_professional": {
+        "string": "プロフェッショナルプランのサブスクリプションをキャンセル"
+    },
+    "settings_table.change_and_update_the_payment_method_on_file": {
+        "string": "お支払方法の変更または更新"
+    },
+    "settings_table.change_annual_plan": {
+        "string": "年間プランを変更"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "tile.empty.join_as_owner": {
+        "string": "オーナーとして参加"
+    },
+    "tile.error.permission_error_delete_file": {
+        "string": "{selectedCount, plural, other {削除する権限のないファイルが含まれています。}}"
+    },
+    "tile.error.permission_error_trash_file": {
+        "string": "{selectedCount, plural, other {ごみ箱に移動する権限のないファイルが含まれています。}}"
+    },
+    "tile.favoriting.add_to_favorites": {
+        "string": "お気に入りに追加"
+    },
+    "tile.favoriting.file_added_to_favorites": {
+        "string": "お気に入りにファイルが追加されました"
+    },
+    "tile.favoriting.file_added_to_sidebar": {
+        "string": "サイドバーにファイルが追加されました"
+    },
+    "tile.favoriting.file_removed_from_favorites": {
+        "string": "お気に入りからファイルが削除されました"
+    },
+    "tile.favoriting.file_removed_from_sidebar": {
+        "string": "サイドバーからファイルが削除されました"
+    },
+    "tile.favoriting.max_favorites": {
+        "string": "使用できるお気に入りの最大数は{maxFavorites}です。お気に入りを1つ追加するには、1つを削除してください。"
+    },
+    "tile.favoriting.remove_from_favorites": {
+        "string": "お気に入りから削除"
+    },
+    "tile.file_tile.branch_count": {
+        "string": "{branchCount, plural, other {{branchCount}ブランチ} }"
+    },
+    "tile.file_tile.deleted_by_other_user": {
+        "string": "{userHandle}が{time}に削除"
+    },
+    "tile.file_tile.deleted_by_you": {
+        "string": "自分が{time}に削除"
+    },
+    "tile.file_tile.deleted_generic": {
+        "string": "{time}に削除"
+    },
+    "tile.file_tile.edited_time": {
+        "string": "編集済み: {time}"
+    },
+    "tile.file_tile.edited_time_with_separator": {
+        "string": " · 編集済み: {time}"
+    },
+    "tile.file_tile.password_protected": {
+        "string": "パスワードで保護されたファイル"
+    },
+    "tile.file_tile.password_protected_prototype": {
+        "string": "このプロトタイプは、パスワードで保護されています"
+    },
+    "tile.file_tile.password_protected_shorter": {
+        "string": "パスワードで保護されています"
+    },
+    "tile.file_tile.pinned_by_user": {
+        "string": "{name}がピン留め"
+    },
+    "tile.file_tile.pinned_just_now": {
+        "string": "たった今ピン留め"
+    },
+    "tile.file_tile.published_as_library": {
+        "string": "ライブラリとして公開\n{time}"
+    },
+    "tile.file_tile.trashed_by_other_user": {
+        "string": "{userHandle}が{time}にごみ箱に移動"
+    },
+    "tile.file_tile.trashed_by_you": {
+        "string": "自分が{time}にごみ箱に移動"
+    },
+    "tile.file_tile.trashed_generic": {
+        "string": "{time}にごみ箱に移動"
+    },
+    "tile.file_tile.unsynced_changes": {
+        "string": "未同期の変更"
+    },
+    "tile.offline_file_tile.offline_created_file": {
+        "string": "オフラインで作成されたファイル"
+    },
+    "tile.offline_file_tile.offline_upload_tooltip": {
+        "string": "オフラインファイルは、インターネットに再接続すると同期されます。"
+    },
+    "tile.sort_filter.created_by_anyone": {
+        "string": "作成者: 任意のユーザー"
+    },
+    "tile.sort_filter.created_by_others": {
+        "string": "作成者: 自分以外のユーザー"
+    },
+    "tile.sort_filter.created_by_you": {
+        "string": "作成者: 自分"
+    },
+    "tile.sort_filter.date_shared": {
+        "string": "共有日"
+    },
+    "tile.sort_filter.filter_by_all_files": {
+        "string": "すべてのファイル"
+    },
+    "tile.sort_filter.filter_by_design_files": {
+        "string": "デザインファイル"
+    },
+    "tile.sort_filter.filter_by_figjam_files": {
+        "string": "FigJamボード"
+    },
+    "tile.sort_filter.filter_by_prototype_files": {
+        "string": "プロトタイプ"
+    },
+    "tile.sort_filter.filter_by_sites_files": {
+        "string": "Webサイト"
+    },
+    "tile.sort_filter.filter_by_slides_files": {
+        "string": "スライドデッキ"
+    },
+    "tile.sort_filter.filter_label": {
+        "string": "フィルター:"
+    },
+    "tile.sort_filter.from": {
+        "string": "共有者:"
+    },
+    "tile.sort_filter.order_label": {
+        "string": "順序"
+    },
+    "tile.sort_filter.org_deleted_drafts": {
+        "string": "表示:"
+    },
+    "tile.sort_filter.owner": {
+        "string": "オーナー"
+    },
+    "tile.sort_filter.plan": {
+        "string": "チーム/組織:"
+    },
+    "tile.sort_filter.recent": {
+        "string": "最近"
+    },
+    "tile.sort_filter.sort_alphabetical": {
+        "string": "アルファベット順"
+    },
+    "tile.sort_filter.sort_by_label": {
+        "string": "並べ替え基準"
+    },
+    "tile.sort_filter.sort_date_created": {
+        "string": "作成日"
+    },
+    "tile.sort_filter.sort_date_deleted": {
+        "string": "削除日"
+    },
+    "tile.sort_filter.sort_date_trashed": {
+        "string": "ごみ箱への移動日"
+    }
+}

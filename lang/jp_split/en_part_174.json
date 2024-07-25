@@ -1,0 +1,152 @@
+{
+    "upgrade.ready_to_go_beyond_free_plan_upgrade_for_premium_features": {
+        "string": "この無料プランからのアップグレードを検討しませんか? アップグレードにより、より高度な機能を利用できます。"
+    },
+    "upgrade.running_out_of_files_in_your_free_team": {
+        "string": "無料のチームでは、ファイルが不足しようとしています。"
+    },
+    "upgrade.try_the_professional_plan": {
+        "string": "プロフェッショナルプランを試す"
+    },
+    "upgrade.upgrade_to_give_your_ideas_and_designs_room_to_grow_without_limits": {
+        "string": "アップグレードすると、アイデアやデザインのファイルを無制限に作成できるようになります。"
+    },
+    "upgrade.upgrade_to_professional": {
+        "string": "プロフェッショナルにアップグレード"
+    },
+    "upgrade.view_plans": {
+        "string": "プランを表示"
+    },
+    "upgrade.your_trial_has_ended": {
+        "string": "現在はスタータープランです。プロフェッショナルプランで作成したファイルやプロジェクトを編集するには、アップグレードしてください。"
+    },
+    "user_view.disabled_by_your_organization": {
+        "string": "組織により無効にされています"
+    },
+    "user_view.file_duplicated": {
+        "string": "ファイルが複製されました"
+    },
+    "user_view.file_duplicated_to_your_drafts": {
+        "string": "ファイルがドラフトに複製されました"
+    },
+    "user_view.files_duplicated": {
+        "string": "{intArg, number, integer}ファイルが複製されました"
+    },
+    "user_view.files_duplicated_to_your_drafts": {
+        "string": "{intArg, number, integer}ファイルがドラフトに複製されました"
+    },
+    "user_view.some_files_duplicated_to_your_drafts": {
+        "string": "一部のファイルがドラフトに複製されました"
+    },
+    "visual_bell.error_finding_destination_folder": {
+        "string": "ファイルの移動時、移動先プロジェクトを特定するときにエラーが発生しました。"
+    },
+    "visual_bell.file_move_folder": {
+        "string": "{folderName}に移動しました"
+    },
+    "visual_bell.files_moved_to_folder": {
+        "string": "{fileCount, plural, other {{fileCount}ファイルを{folderName}に移動しました}}"
+    },
+    "navbar.community.admin_label": {
+        "string": "管理者"
+    },
+    "navbar.community.browse_community_workspace_switcher_label": {
+        "string": "次のアカウントを使用してコミュニティを参照..."
+    },
+    "navbar.community.community_label": {
+        "string": "コミュニティ"
+    },
+    "navbar.navbar.community_search_placeholder": {
+        "string": "コミュニティ内を検索"
+    },
+    "navbar.navbar.create_new": {
+        "string": "新規作成"
+    },
+    "navbar.navbar.disabled_by_your_admins": {
+        "string": "管理者が無効にしています"
+    },
+    "navbar.navbar.disabled_publish_button_label": {
+        "string": "組織の管理者だけがFigmaコミュニティに公開できます。"
+    },
+    "navbar.navbar.edu": {
+        "string": "エデュケーション"
+    },
+    "navbar.navbar.enterprise": {
+        "string": "エンタープライズ"
+    },
+    "navbar.navbar.everything_else_title": {
+        "string": "その他すべて"
+    },
+    "navbar.navbar.favorites_title": {
+        "string": "お気に入り"
+    },
+    "navbar.navbar.figmascope_button_label": {
+        "string": "FigmaScope"
+    },
+    "navbar.navbar.file_browser_search_placeholder": {
+        "string": "ファイル、チーム、ユーザーを検索"
+    },
+    "navbar.navbar.free": {
+        "string": "無料"
+    },
+    "navbar.navbar.guest": {
+        "string": "ゲスト"
+    },
+    "navbar.navbar.locked": {
+        "string": "ロックされています"
+    },
+    "navbar.navbar.logout_button_label": {
+        "string": "ログアウト"
+    },
+    "navbar.navbar.notifications_disabled_tooltip": {
+        "string": "通知は一時的に無効になっています"
+    },
+    "navbar.navbar.org": {
+        "string": "ビジネス"
+    },
+    "navbar.navbar.pro": {
+        "string": "プロフェッショナル"
+    },
+    "navbar.navbar.pro_trial": {
+        "string": "プロトライアル"
+    },
+    "navbar.navbar.publish_button_label": {
+        "string": "公開"
+    },
+    "navbar.navbar.refresh_permissions_groups_label": {
+        "string": "権限の更新"
+    },
+    "navbar.navbar.storybook_button_label": {
+        "string": "ストーリーブック"
+    },
+    "navbar.navbar.trial_expired": {
+        "string": "トライアル期間終了"
+    },
+    "navbar.navbar.view_only_plans": {
+        "string": "閲覧専用プラン"
+    },
+    "navbar.profile_switcher.add_account": {
+        "string": "アカウントの追加"
+    },
+    "navbar.profile_switcher.community": {
+        "string": "コミュニティプロフィール"
+    },
+    "navbar.profile_switcher.create_a_community_profile": {
+        "string": "コミュニティプロフィールの作成"
+    },
+    "navbar.profile_switcher.external_teams": {
+        "string": "外部チーム"
+    },
+    "navbar.profile_switcher.logout_all_accounts": {
+        "string": "すべてのアカウントからログアウト"
+    },
+    "navbar.profile_switcher.your_teams": {
+        "string": "自分のチーム"
+    },
+    "navbar.settings_dropdown.button_label": {
+        "string": "アカウントのドロップダウンを開く"
+    },
+    "navbar.settings_dropdown.desktop_app_cta": {
+        "string": "デスクトップアプリを入手"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "inspect_panel.history.no_changes": {
+        "string": "比較する変更なし"
+    },
+    "inspect_panel.images.file_name": {
+        "string": "ファイル名"
+    },
+    "inspect_panel.images.image_type": {
+        "string": "画像"
+    },
+    "inspect_panel.images.opacity": {
+        "string": "不透明度"
+    },
+    "inspect_panel.images.scale": {
+        "string": "拡大縮小"
+    },
+    "inspect_panel.images.scale_mode": {
+        "string": "拡大縮小モード"
+    },
+    "inspect_panel.images.title_plural": {
+        "string": "画像"
+    },
+    "inspect_panel.images.title_singular": {
+        "string": "画像"
+    },
+    "inspect_panel.instance.title": {
+        "string": "インスタンス"
+    },
+    "inspect_panel.interactions.animate": {
+        "string": "アニメーション"
+    },
+    "inspect_panel.interactions.curve": {
+        "string": "曲線"
+    },
+    "inspect_panel.interactions.damping": {
+        "string": "減衰"
+    },
+    "inspect_panel.interactions.delay": {
+        "string": "ディレイ"
+    },
+    "inspect_panel.interactions.duration": {
+        "string": "所要時間"
+    },
+    "inspect_panel.interactions.mass": {
+        "string": "質量"
+    },
+    "inspect_panel.interactions.phrase": {
+        "string": "フレーズ"
+    },
+    "inspect_panel.interactions.return_to_node": {
+        "string": "`{previous}に戻る`"
+    },
+    "inspect_panel.interactions.stiffness": {
+        "string": "剛性"
+    },
+    "inspect_panel.interactions.title": {
+        "string": "インタラクション"
+    },
+    "inspect_panel.interactions.trigger": {
+        "string": "トリガー"
+    },
+    "inspect_panel.node_type.detached_component": {
+        "string": "切り離されたコンポーネント"
+    },
+    "inspect_panel.node_type.ellipse": {
+        "string": "楕円"
+    },
+    "inspect_panel.node_type.exclude": {
+        "string": "除外"
+    },
+    "inspect_panel.node_type.figjam": {
+        "string": "FigJamノード"
+    },
+    "inspect_panel.node_type.frame": {
+        "string": "フレーム"
+    },
+    "inspect_panel.node_type.group": {
+        "string": "グループ"
+    },
+    "inspect_panel.node_type.horizontal_al": {
+        "string": "行のレイアウト"
+    },
+    "inspect_panel.node_type.instance": {
+        "string": "コンポーネントインスタンス"
+    },
+    "inspect_panel.node_type.intersect": {
+        "string": "交差"
+    },
+    "inspect_panel.node_type.line": {
+        "string": "直線"
+    },
+    "inspect_panel.node_type.main_component": {
+        "string": "メインコンポーネント"
+    },
+    "inspect_panel.node_type.main_component_set": {
+        "string": "コンポーネントセット"
+    },
+    "inspect_panel.node_type.main_variant": {
+        "string": "バリアント"
+    },
+    "inspect_panel.node_type.page": {
+        "string": "ページ"
+    },
+    "inspect_panel.node_type.polygon": {
+        "string": "多角形"
+    },
+    "inspect_panel.node_type.rectangle": {
+        "string": "長方形"
+    },
+    "inspect_panel.node_type.section": {
+        "string": "セクション"
+    },
+    "inspect_panel.node_type.slice": {
+        "string": "スライス"
+    },
+    "inspect_panel.node_type.star": {
+        "string": "星"
+    },
+    "inspect_panel.node_type.subtract": {
+        "string": "減算"
+    },
+    "inspect_panel.node_type.table": {
+        "string": "テーブル"
+    },
+    "inspect_panel.node_type.text": {
+        "string": "テキスト"
+    },
+    "inspect_panel.node_type.union": {
+        "string": "結合"
+    },
+    "inspect_panel.node_type.vector": {
+        "string": "ベクター"
+    },
+    "inspect_panel.node_type.vertical_al": {
+        "string": "列のレイアウト"
+    },
+    "inspect_panel.node_type.widget": {
+        "string": "ウィジェット"
+    },
+    "inspect_panel.node_type_tooltip.detached_component": {
+        "string": "このレイヤーはメインコンポーネントからデタッチされました"
+    },
+    "inspect_panel.parent.title": {
+        "string": "親コンポーネント"
+    },
+    "inspect_panel.properties.border": {
+        "string": "ボーダー"
+    },
+    "inspect_panel.properties.code_and_measurements_hint_title": {
+        "string": "コードと測定"
+    }
+}

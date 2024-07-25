@@ -1,0 +1,152 @@
+{
+    "ai_image_tools.generate.label.black_and_white": {
+        "string": "モノクロ"
+    },
+    "ai_image_tools.generate.label.cinematic": {
+        "string": "映画風"
+    },
+    "ai_image_tools.generate.label.delicious": {
+        "string": "おいしい物"
+    },
+    "ai_image_tools.generate.label.film_grain": {
+        "string": "フィルムの粒子ノイズ"
+    },
+    "ai_image_tools.generate.label.inspiring": {
+        "string": "心を動かす"
+    },
+    "ai_image_tools.generate.label.landscape": {
+        "string": "風景"
+    },
+    "ai_image_tools.generate.label.long_exposure": {
+        "string": "長時間露光"
+    },
+    "ai_image_tools.generate.label.macro_shot": {
+        "string": "マクロ撮影"
+    },
+    "ai_image_tools.generate.label.nostalgic": {
+        "string": "ノスタルジック"
+    },
+    "ai_image_tools.generate.label.painting_of": {
+        "string": "...の絵"
+    },
+    "ai_image_tools.generate.label.product_photo": {
+        "string": "商品の写真"
+    },
+    "ai_image_tools.generate.label.professional": {
+        "string": "プロフェッショナル"
+    },
+    "ai_image_tools.generate.label.profile_pic": {
+        "string": "プロフィール写真"
+    },
+    "ai_image_tools.generate.label.sketch_of": {
+        "string": "...のスケッチ"
+    },
+    "ai_image_tools.generate.label.texture": {
+        "string": "テクスチャー"
+    },
+    "ai_image_tools.generate.label.woodcut": {
+        "string": "木版"
+    },
+    "ai_image_tools.generate.placeholder.a_quiet_ramen_shop_on_a_rainy_evening": {
+        "string": "雨が降る夜の、静かなラーメン店"
+    },
+    "ai_image_tools.generate.placeholder.a_sweeping_cinematic_shot_of_the_wild_west": {
+        "string": "映画で見るような、広大なアメリカ西部のショット"
+    },
+    "ai_image_tools.generate.placeholder.abstract_gradient": {
+        "string": "滑らかで抽象的なグラデーションの背景"
+    },
+    "ai_image_tools.generate.placeholder.abstract_northern_lights": {
+        "string": "オーロラのような抽象的な背景"
+    },
+    "ai_image_tools.generate.placeholder.billboard": {
+        "string": "モックアップ: 原宿の看板"
+    },
+    "ai_image_tools.generate.placeholder.black_and_white_parisian_alleys_at_night": {
+        "string": "モノクロ: 夜のパリ風の路地"
+    },
+    "ai_image_tools.generate.placeholder.brightly_lit_photo_of_a_potted_cactus": {
+        "string": "明るい画面の、鉢植えのサボテンの写真"
+    },
+    "ai_image_tools.generate.placeholder.cinque_terre_sunset_on_a_grainy_film_stock": {
+        "string": "粒子の粗いフィルムに写された、夕暮れの、チンクエテッレ"
+    },
+    "ai_image_tools.generate.placeholder.claymation": {
+        "string": "ユーザーのプロフィール写真、クレイアニメ風"
+    },
+    "ai_image_tools.generate.placeholder.ink": {
+        "string": "ユーザーのプロフィール写真、インクイラスト風"
+    },
+    "ai_image_tools.generate.placeholder.interior_of_a_beautiful_house_in_liguria_italy": {
+        "string": "イタリア、リグーリアにある美しい家の室内"
+    },
+    "ai_image_tools.generate.placeholder.light_refracting": {
+        "string": "プールの中で屈折する光"
+    },
+    "ai_image_tools.generate.placeholder.linen": {
+        "string": "灰青色のリネン、クラシックな生地"
+    },
+    "ai_image_tools.generate.placeholder.long_exposure_of_a_bustling_city": {
+        "string": "長時間露光した街の雑踏"
+    },
+    "ai_image_tools.generate.placeholder.macro_shot_of_a_lovely_ladybug": {
+        "string": "かわいいテントウムシのマクロ写真"
+    },
+    "ai_image_tools.generate.placeholder.painting_of_a_sun_dappled_pond": {
+        "string": "木漏れ日が差す池の絵"
+    },
+    "ai_image_tools.generate.placeholder.poster": {
+        "string": "壁に貼られたポスターのモックアップ"
+    },
+    "ai_image_tools.generate.placeholder.professional_headshot_of_an_office_worker": {
+        "string": "事務職員の仕事用顔写真"
+    },
+    "ai_image_tools.generate.placeholder.quick_sketch_of_a_quiet_borough": {
+        "string": "静かな町の簡単なスケッチ"
+    },
+    "ai_image_tools.generate.placeholder.smoothie": {
+        "string": "ヘルシースムージー: ナッツ、バナナなど全部"
+    },
+    "ai_image_tools.generate.placeholder.sneakers": {
+        "string": "ハイカットのスニーカー、白い背景"
+    },
+    "ai_image_tools.generate.placeholder.stock_photo_of_a_bright_rolling_landscape": {
+        "string": "なだらかに起伏する晴れ渡った見晴らしのよい風景の写真"
+    },
+    "ai_image_tools.generate.placeholder.the_arduous_everyday_journey_of_a_snail": {
+        "string": "毎日根気よく続けられるカタツムリの旅"
+    },
+    "ai_image_tools.generate.placeholder.woodcut_print_of_a_fox_in_a_forest": {
+        "string": "森のキツネの木版画"
+    },
+    "ai_text_tools.content_length_exceeded": {
+        "string": "テキストを少し短くして、もう一度お試しください"
+    },
+    "ai_text_tools.missing_fonts": {
+        "string": "フォントが不足しています"
+    },
+    "ai_text_tools.rewrite.casual.label": {
+        "string": "もっとカジュアルにする"
+    },
+    "ai_text_tools.rewrite.casual.prompt": {
+        "string": "これをもっとカジュアルにする"
+    },
+    "ai_text_tools.rewrite.couldnt_count": {
+        "string": "{total}個中{failed}個をリライトできませんでした"
+    },
+    "ai_text_tools.rewrite.placeholder.bullet_points": {
+        "string": "重要なアイデアを箇条書きに"
+    },
+    "ai_text_tools.rewrite.placeholder.email_boss": {
+        "string": "上司へのメールのように"
+    },
+    "ai_text_tools.rewrite.placeholder.marketing": {
+        "string": "マーケティングページのトーンで"
+    },
+    "ai_text_tools.rewrite.placeholder.pop_song": {
+        "string": "ある過小評価されているカナダのポップスターのコーラスのように"
+    },
+    "ai_text_tools.rewrite.placeholder.shorter": {
+        "string": "もっと短く、率直に"
+    }
+}

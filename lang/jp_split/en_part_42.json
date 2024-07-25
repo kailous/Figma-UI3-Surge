@@ -1,0 +1,152 @@
+{
+    "collaboration.branching_to_source.other_team_member": {
+        "string": "他のチームメンバー"
+    },
+    "collaboration.branching_to_source.placeholder_for_non_previewable_changes": {
+        "string": "プレビューできない変更のプレースホルダー"
+    },
+    "collaboration.branching_to_source.request_review": {
+        "string": "リクエストをレビュー"
+    },
+    "collaboration.branching_to_source.requested_a_review": {
+        "string": "がレビューをリクエストしました"
+    },
+    "collaboration.branching_to_source.resend_review_request": {
+        "string": "レビューを再リクエスト"
+    },
+    "collaboration.branching_to_source.review_again": {
+        "string": "もう一度レビュー"
+    },
+    "collaboration.branching_to_source.review_request": {
+        "string": "レビューリクエスト"
+    },
+    "collaboration.branching_to_source.reviewed_older_version_of_branch": {
+        "string": "レビューされた古いリクエスト"
+    },
+    "collaboration.branching_to_source.reviewer_description": {
+        "string": "{reviewerName}{requestFragment}"
+    },
+    "collaboration.branching_to_source.reviewers": {
+        "string": "レビュー担当者"
+    },
+    "collaboration.branching_to_source.save": {
+        "string": "保存"
+    },
+    "collaboration.branching_to_source.search_suggested": {
+        "string": "メインの編集者"
+    },
+    "collaboration.branching_to_source.suggest_changes": {
+        "string": "変更を提案"
+    },
+    "collaboration.branching_to_source.suggested": {
+        "string": "メインの編集者"
+    },
+    "collaboration.branching_to_source.this_branch_was_merged_into": {
+        "string": "このブランチは{sourceFileName} {relativeTimestamp}にマージされました"
+    },
+    "collaboration.branching_to_source.this_repository": {
+        "string": "このリポジトリ"
+    },
+    "collaboration.branching_to_source.unmodified_variants": {
+        "string": "{variantCount, plural, other {{variantCount}個のバリアントの変更が取り消されました}}"
+    },
+    "collaboration.branching_to_source.you": {
+        "string": "(あなた)"
+    },
+    "collaboration.branching_to_source.you_are_able_to_merge_this_branch_along_with_other_editors_of": {
+        "string": "{sourceFileName}の他の編集者とともにこのブランチをマージすることはできません"
+    },
+    "collaboration.feedback.add_to_version_history_tooltip": {
+        "string": "バージョン履歴に追加"
+    },
+    "collaboration.feedback.all_filter_text": {
+        "string": "すべて"
+    },
+    "collaboration.feedback.autosave_count": {
+        "string": "{count, plural, other {{count}個の自動保存バージョン}}"
+    },
+    "collaboration.feedback.branch": {
+        "string": "ブランチ"
+    },
+    "collaboration.feedback.branch_archived": {
+        "string": "ブランチがアーカイブされました"
+    },
+    "collaboration.feedback.branch_child_create": {
+        "string": "新しいブランチ{link}が作成されました"
+    },
+    "collaboration.feedback.branch_child_update": {
+        "string": "ブランチ{link}がメインファイルから更新されました"
+    },
+    "collaboration.feedback.branch_created": {
+        "string": "ブランチが作成されました"
+    },
+    "collaboration.feedback.branch_merge": {
+        "string": "ブランチが{link}にマージされ、アーカイブされました"
+    },
+    "collaboration.feedback.branch_merged": {
+        "string": "ブランチがマージされました"
+    },
+    "collaboration.feedback.branch_merged_into_main_and_archived": {
+        "string": "ブランチがメインにマージされ、アーカイブされました"
+    },
+    "collaboration.feedback.branch_restored": {
+        "string": "ブランチが復元されました"
+    },
+    "collaboration.feedback.branch_updated_from": {
+        "string": "ブランチが{link}から更新されました"
+    },
+    "collaboration.feedback.branch_updated_from_main_file": {
+        "string": "ブランチがメインファイルから更新されました"
+    },
+    "collaboration.feedback.change_count": {
+        "string": "{changeCount, plural, other {{changeCount}件の変更}}"
+    },
+    "collaboration.feedback.close_tooltip": {
+        "string": "閉じる"
+    },
+    "collaboration.feedback.compare": {
+        "string": "比較"
+    },
+    "collaboration.feedback.compare_changes_m2": {
+        "string": "変更"
+    },
+    "collaboration.feedback.compare_changes_modal.action_button": {
+        "string": "変更内容を確認"
+    },
+    "collaboration.feedback.compare_changes_modal.action_text": {
+        "string": "{lastEditedBy}が{lastEditedAt}に編集済み"
+    },
+    "collaboration.feedback.compare_changes_modal.current_image_header": {
+        "string": "現在のバージョン"
+    },
+    "collaboration.feedback.compare_changes_modal.error": {
+        "string": "変更を読み込むことができませんでした。ファイルを再読み込みしてもう一度お試しください。"
+    },
+    "collaboration.feedback.compare_changes_modal.frame_created": {
+        "string": "フレーム作成"
+    },
+    "collaboration.feedback.compare_changes_modal.header": {
+        "string": "変更内容を比較"
+    },
+    "collaboration.feedback.compare_changes_modal.historic_image_header": {
+        "string": "前"
+    },
+    "collaboration.feedback.compare_changes_modal.history": {
+        "string": "履歴"
+    },
+    "collaboration.feedback.compare_changes_modal.last_viewed_by_you": {
+        "string": "自分の最終閲覧"
+    },
+    "collaboration.feedback.compare_changes_modal.layer_name_header": {
+        "string": "{layerName}"
+    },
+    "collaboration.feedback.compare_changes_modal.no_changes": {
+        "string": "比較対象の変更がありません"
+    },
+    "collaboration.feedback.compare_changes_modal.no_changes_between_versions": {
+        "string": "バージョン間の変更はありません"
+    },
+    "collaboration.feedback.compare_changes_modal.no_image_found": {
+        "string": "画像なし"
+    }
+}

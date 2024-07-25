@@ -1,0 +1,152 @@
+{
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_des": {
+        "string": "デザイナー向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_des_badge": {
+        "string": "新着デザイナー向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_eng": {
+        "string": "開発者向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_eng_badge": {
+        "string": "新着開発者向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_mkt": {
+        "string": "マーケター向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_mkt_badge": {
+        "string": "新着マーケター向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_pm": {
+        "string": "PM向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_pm_badge": {
+        "string": "新着PM向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_ur": {
+        "string": "リサーチャー向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_ur_badge": {
+        "string": "新着リサーチャー向けテンプレート"
+    },
+    "file_browser.new_file_creation_topbar.use_templates": {
+        "string": "テンプレートを使用"
+    },
+    "file_browser.offline_notification.create_file": {
+        "string": "ファイルを作成"
+    },
+    "file_browser.offline_notification.youre_offline_message_body": {
+        "string": "{youreOfflineMessagePrefix}開いているファイルで作業を続けることも、新しいファイルを作成することもできます。"
+    },
+    "file_browser.offline_notification.youre_offline_message_body_no_create": {
+        "string": "{youreOfflineMessagePrefix}開いているファイルで作業を続けることができます。"
+    },
+    "file_browser.offline_notification.youre_offline_message_prefix": {
+        "string": "オフラインになっています。"
+    },
+    "file_browser.open_in_new_tab": {
+        "string": "新しいタブで開く"
+    },
+    "file_browser.pinning.add_file": {
+        "string": "ファイルを追加"
+    },
+    "file_browser.pinning.add_pin_error_max_pins": {
+        "string": "{maxNumWorkspacePins}個を超えるファイルはピン留めできません"
+    },
+    "file_browser.pinning.choose_file_to_pin_modal.file_not_workspace_visible.tooltip": {
+        "string": "ワークスペースにピン留めすることができるのは、リンクを知っている{orgName}のユーザー全員が閲覧と検索ができるように設定されているファイルだけです。"
+    },
+    "file_browser.pinning.delete_pin_modal.confirm": {
+        "string": "ピン留めから削除"
+    },
+    "file_browser.pinning.delete_pin_modal.confirmation_bell": {
+        "string": "ピン留めされたファイルをワークスペースから削除しました"
+    },
+    "file_browser.pinning.delete_pin_modal.content": {
+        "string": "このファイルはワークスペースにピン留めされず、説明は削除されます。"
+    },
+    "file_browser.pinning.delete_pin_modal.error": {
+        "string": "ピンを削除できませんでした。もう一度試しますか?"
+    },
+    "file_browser.pinning.delete_pin_modal.header": {
+        "string": "ピン留めされたファイルから削除"
+    },
+    "file_browser.pinning.max_files.add_button_tooltip": {
+        "string": "最大{maxPins}ファイルまでピン留めできます"
+    },
+    "file_browser.pinning.no_pinned_files": {
+        "string": "ピン留めされたファイルはまだありません。"
+    },
+    "file_browser.pinning.pin_file": {
+        "string": "ファイルをピン留め"
+    },
+    "file_browser.pinning.pin_modal.confirmation_bell": {
+        "string": "ファイルをワークスペースにピン留めしました"
+    },
+    "file_browser.pinning.pin_modal.confirmation_bell.view_workspace": {
+        "string": "ワークスペースを表示"
+    },
+    "file_browser.pinning.pin_modal.description_textarea_placeholder": {
+        "string": "このファイルの簡潔な説明を追加します"
+    },
+    "file_browser.pinning.pin_modal.edit.confirmation_bell": {
+        "string": "ピン留めしたファイルを更新しました"
+    },
+    "file_browser.pinning.pin_modal.edit.error": {
+        "string": "ピンを更新できませんでした。もう一度試しますか?"
+    },
+    "file_browser.pinning.pin_modal.edit_pin_description": {
+        "string": "ピン留めしたファイルの説明を編集"
+    },
+    "file_browser.pinning.pin_modal.error": {
+        "string": "ファイルをピン留めできませんでした。もう一度試しますか?"
+    },
+    "file_browser.pinning.pin_modal.pin_file_to_workspace": {
+        "string": "ファイルをワークスペースにピン留め"
+    },
+    "file_browser.pinning.pin_modal.save": {
+        "string": "保存"
+    },
+    "file_browser.pinning.pinned_files": {
+        "string": "ピン留めされたファイル"
+    },
+    "file_browser.pinning.suggested": {
+        "string": "候補"
+    },
+    "file_browser.pinning.update_permissions.content": {
+        "string": "このファイルをワークスペース{workspaceName}にピン留めすると、その権限が{permission}に変わります。"
+    },
+    "file_browser.pinning.update_permissions.content.permission": {
+        "string": "リンクを知っている{orgName}の全員が閲覧・検索可能"
+    },
+    "file_browser.planless_favorites.add_favorites_to_modal_title": {
+        "string": "これらのアイテムの追加先..."
+    },
+    "file_browser.planless_favorites.add_to_sidebar": {
+        "string": "サイドバーに追加"
+    },
+    "file_browser.planless_favorites.unstar_all": {
+        "string": "すべての星を取る"
+    },
+    "file_browser.planless_favorites.your_favorited_items_tooltip": {
+        "string": "Figmaに変更がありました。それによって、皆さんの大切なものを見失いたくありません"
+    },
+    "file_browser.project": {
+        "string": "プロジェクト"
+    },
+    "file_browser.project_capitalized": {
+        "string": "プロジェクト"
+    },
+    "file_browser.recents_and_sharing_view.recent_files_tab_name": {
+        "string": "最近閲覧"
+    },
+    "file_browser.recents_and_sharing_view.shared_files_tab_name": {
+        "string": "共有ファイル"
+    },
+    "file_browser.recents_and_sharing_view.shared_projects_tab_name": {
+        "string": "共有プロジェクト"
+    },
+    "file_browser.request_access_modal.can_edit": {
+        "string": "編集可"
+    }
+}

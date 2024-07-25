@@ -1,0 +1,152 @@
+{
+    "checkout.empty_seats": {
+        "string": "{numOfEmptySeats, plural, other {空いているシート: {numOfEmptySeats}}}"
+    },
+    "checkout.enabled_devmode": {
+        "string": "このユーザーはファイルを編集できなくなります。開発モードのインスペクトのみ可能です"
+    },
+    "checkout.paranthesis": {
+        "string": "({content})"
+    },
+    "checkout.review_in_tax_disclaimer": {
+        "string": "確認"
+    },
+    "checkout.seats": {
+        "string": "{numOfSeats, plural, other {{numOfSeats}シート}}"
+    },
+    "checkout.seats_text": {
+        "string": "{numOfSeats, plural, other {シート}}"
+    },
+    "checkout.subtotal": {
+        "string": "小計"
+    },
+    "checkout.switch_seat_from_design_to_devmode": {
+        "string": "このユーザーはファイルを編集できなくなりました。開発モードのインスペクトのみ可能です"
+    },
+    "checkout.tax_disclaimer": {
+        "string": "次で合計金額(税込)をご覧ください: "
+    },
+    "checkout.update_seats": {
+        "string": "シートを更新"
+    },
+    "churn_friction.modal.advanced_prototyping": {
+        "string": "高度なプロトタイピング"
+    },
+    "churn_friction.modal.audio_conversations": {
+        "string": "音声会話"
+    },
+    "churn_friction.modal.converted_to_view_only": {
+        "string": "プロジェクトとファイルが閲覧限定に切り替わります。"
+    },
+    "churn_friction.modal.cta.continue": {
+        "string": "続行"
+    },
+    "churn_friction.modal.cta.keep_plan": {
+        "string": "プロフェッショナルプランを維持"
+    },
+    "churn_friction.modal.cta.see_everything_youll_lose": {
+        "string": "使えなくなるすべての機能を確認 ->"
+    },
+    "churn_friction.modal.design_file_count": {
+        "string": "{designFileCount, plural, other {{designFileCount}個のファイル}}"
+    },
+    "churn_friction.modal.design_file_subtitle": {
+        "string": "は閲覧限定になります"
+    },
+    "churn_friction.modal.editor_count.seat_rename": {
+        "string": "{editorCount, plural, other {{editorCount}人分の有料シート}}"
+    },
+    "churn_friction.modal.editor_subtitle": {
+        "string": "はファイル全体でアクティブになります"
+    },
+    "churn_friction.modal.feature_examples": {
+        "string": "ライブラリ、高度なプロトタイピング、その他。"
+    },
+    "churn_friction.modal.learn_more": {
+        "string": "詳細情報"
+    },
+    "churn_friction.modal.private_projects_and_prototypes": {
+        "string": "プライベートのプロジェクトとプロトタイプ"
+    },
+    "churn_friction.modal.project_count": {
+        "string": "{projectCount, plural, other {{projectCount}個のプロジェクト}}"
+    },
+    "churn_friction.modal.project_subtitle": {
+        "string": "はロックされた状態になります"
+    },
+    "churn_friction.modal.team_libraries": {
+        "string": "チームライブラリ"
+    },
+    "churn_friction.modal.title": {
+        "string": "キャンセルすると..."
+    },
+    "churn_friction.modal.your_team_will_lose": {
+        "string": "チームはプロフェッショナルの機能を利用できなくなります。"
+    },
+    "collaboration.branching.a_merge_request_is_already_open_for_this_branch": {
+        "string": "このブランチのマージリクエストが既に開かれています"
+    },
+    "collaboration.branching.an_error_occurred_while_deleting_these_files": {
+        "string": "これらのファイルの削除中にエラーが発生しました。"
+    },
+    "collaboration.branching.an_error_occurred_while_renaming_this_file": {
+        "string": "このファイルの名前の変更中にエラーが発生しました。"
+    },
+    "collaboration.branching.an_error_occurred_while_restoring_these_files": {
+        "string": "これらのファイルの復元中にエラーが発生しました。"
+    },
+    "collaboration.branching.an_error_occurred_while_updating_this_file": {
+        "string": "このファイルの更新中にエラーが発生しました。"
+    },
+    "collaboration.branching.approved": {
+        "string": "承認済み"
+    },
+    "collaboration.branching.approved_review": {
+        "string": "レビューが承認されました"
+    },
+    "collaboration.branching.archive": {
+        "string": "アーカイブ"
+    },
+    "collaboration.branching.archived": {
+        "string": "アーカイブ済み"
+    },
+    "collaboration.branching.archived_v2": {
+        "string": "{userHandle} · アーカイブ済み{relativeTimestamp}"
+    },
+    "collaboration.branching.branch_archived": {
+        "string": "ブランチがアーカイブされました"
+    },
+    "collaboration.branching.branch_deleted": {
+        "string": "ブランチが削除されました"
+    },
+    "collaboration.branching.branches_restored": {
+        "string": "{branchCount, plural, other {ブランチが復元されました}}"
+    },
+    "collaboration.branching.changes_suggested": {
+        "string": "変更提案あり"
+    },
+    "collaboration.branching.closing_other_tabs_and_reloading_figma_may_reduce_browser_memory_and_allow_you_to_continue_reviewing_and_merging_this_branch": {
+        "string": "他のタブを閉じてFigmaを再読み込みすると、ブラウザメモリーの使用率が減り、このブランチのレビューとマージを続行できる可能性があります。"
+    },
+    "collaboration.branching.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "collaboration.branching.couldn_t_proceed_with_merge_please_accept_updates_from_main_before_merging_your_branch": {
+        "string": "マージを続行できませんでした。ブランチをマージする前にメインからの更新を受け入れてください。"
+    },
+    "collaboration.branching.current_branch": {
+        "string": "(現在のブランチ)"
+    },
+    "collaboration.branching.delete": {
+        "string": "削除"
+    },
+    "collaboration.branching.edit_merge_description": {
+        "string": "マージの説明を編集する"
+    },
+    "collaboration.branching.edited": {
+        "string": "{userHandle} · 編集済み{relativeTimestamp}"
+    },
+    "collaboration.branching.error_approving": {
+        "string": "承認中にエラーが発生しました"
+    }
+}

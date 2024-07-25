@@ -1,0 +1,152 @@
+{
+    "settings.account_setting.submit_button": {
+        "string": "送信"
+    },
+    "settings.account_settings.account_section_header": {
+        "string": "アカウント"
+    },
+    "settings.account_settings.add_job_title": {
+        "string": "役職名を追加"
+    },
+    "settings.account_settings.change_email_link": {
+        "string": "メールアドレスを変更"
+    },
+    "settings.account_settings.change_email_modal_title": {
+        "string": "メールアドレスを変更"
+    },
+    "settings.account_settings.change_job_title_link": {
+        "string": "役職名を変更"
+    },
+    "settings.account_settings.change_job_title_modal_title": {
+        "string": "どのような仕事をしていますか?"
+    },
+    "settings.account_settings.change_languages": {
+        "string": "言語を変更"
+    },
+    "settings.account_settings.change_name_link": {
+        "string": "名前を変更"
+    },
+    "settings.account_settings.change_name_modal_input_placeholder": {
+        "string": "新しい名前"
+    },
+    "settings.account_settings.change_name_modal_title": {
+        "string": "名前を変更"
+    },
+    "settings.account_settings.change_password_link": {
+        "string": "パスワードを変更"
+    },
+    "settings.account_settings.closed_captions": {
+        "string": "クローズドキャプション"
+    },
+    "settings.account_settings.delete_account": {
+        "string": "アカウントを削除"
+    },
+    "settings.account_settings.dev_mode_seat": {
+        "string": "開発モードシート"
+    },
+    "settings.account_settings.download_installer": {
+        "string": "インストーラーをダウンロード"
+    },
+    "settings.account_settings.downloading_speech_files_progress": {
+        "string": "スピーチファイルをダウンロード中... {installProgress}%"
+    },
+    "settings.account_settings.email_section_header": {
+        "string": "メール"
+    },
+    "settings.account_settings.enable_closed_captioning_when_using_audio": {
+        "string": "ファイル内で音声を使用する場合は、クローズドキャプションを有効にします。"
+    },
+    "settings.account_settings.enable_libraries_for_drafts": {
+        "string": "ドラフトのすべてのファイルに対する{enableLibrariesLink}"
+    },
+    "settings.account_settings.enable_libraries_for_drafts_clickable": {
+        "string": "ライブラリを有効にする"
+    },
+    "settings.account_settings.figjam_role.seat_rename": {
+        "string": "FigJamシート"
+    },
+    "settings.account_settings.figma_design_role.seat_rename": {
+        "string": "デザインシート"
+    },
+    "settings.account_settings.fonts": {
+        "string": "フォント"
+    },
+    "settings.account_settings.help_article": {
+        "string": "ヘルプ記事"
+    },
+    "settings.account_settings.here": {
+        "string": "こちら"
+    },
+    "settings.account_settings.install_font_service_for_local": {
+        "string": "現在、ローカルフォントは有効になっていません。フォントサービスをインストールして、ローカルフォントを有効にします。{learnMoreLink}"
+    },
+    "settings.account_settings.job_title_missing": {
+        "string": "仕事または役割をプロフィールに追加することで、自分が何をしているかをチームメートに伝えることができます。"
+    },
+    "settings.account_settings.job_title_section_header": {
+        "string": "役職名"
+    },
+    "settings.account_settings.language": {
+        "string": "言語"
+    },
+    "settings.account_settings.learn_more_about_captioning": {
+        "string": "キャプション{learnMoreLink}の詳細"
+    },
+    "settings.account_settings.leave": {
+        "string": "退会"
+    },
+    "settings.account_settings.library_section_header": {
+        "string": "ライブラリ"
+    },
+    "settings.account_settings.local_fonts_are_currently_not_supported_for_this_operating_system": {
+        "string": "現在、このオペレーティングシステムではローカルフォントはサポートされていません。"
+    },
+    "settings.account_settings.local_fonts_are_enabled_you_have_local_font_count_fonts_available_in_figma": {
+        "string": "ローカルフォントが有効になっています。Figmaでは{localFontCount}個のフォントを使用できます。"
+    },
+    "settings.account_settings.managed_by_google": {
+        "string": "Googleによって管理"
+    },
+    "settings.account_settings.managed_by_your_organization_email": {
+        "string": "組織によって管理"
+    },
+    "settings.account_settings.name_section_header": {
+        "string": "名前"
+    },
+    "settings.account_settings.new_features": {
+        "string": "新機能"
+    },
+    "settings.account_settings.organizations": {
+        "string": "組織"
+    },
+    "settings.account_settings.password_section_header": {
+        "string": "パスワード"
+    },
+    "settings.account_settings.request_upgrade": {
+        "string": "アップグレードをリクエスト"
+    },
+    "settings.account_settings.theme_section_header": {
+        "string": "テーマ"
+    },
+    "settings.account_settings.to_disable_local_fonts_follow_the_uninstall_steps_in_the": {
+        "string": "ローカルフォントを無効にするには、{helpCenterLink}のアンインストール手順に従います"
+    },
+    "settings.account_settings.upgrade_figma_plan_header": {
+        "string": "Figmaプランをアップグレード"
+    },
+    "settings.account_settings.upgrade_figma_plan_reason": {
+        "string": "プランをアップグレードすると、チームのデザインファイル数が無制限になります"
+    },
+    "settings.account_settings.upgrade_request_sent": {
+        "string": "申請を送信しました"
+    },
+    "settings.account_settings.use_a_verified_work_email_address_to_become_a_full_member": {
+        "string": "確認済みの仕事用メールアドレスを使用して正会員になります"
+    },
+    "settings.account_settings.view_plans": {
+        "string": "プランを表示"
+    },
+    "settings.any_resources_you_have_marked_for_sale": {
+        "string": "{creatorAgreement}により、販売中のリソースがすべて販売停止になります。ただし、リソースの購入者は引き続きそのリソースを利用できます。"
+    }
+}

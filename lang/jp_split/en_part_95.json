@@ -1,0 +1,152 @@
+{
+    "design_systems.shared_fonts.cancel": {
+        "string": "キャンセル"
+    },
+    "design_systems.shared_fonts.confirm": {
+        "string": "確認"
+    },
+    "design_systems.shared_fonts.confirm_delete": {
+        "string": "削除を確認"
+    },
+    "design_systems.shared_fonts.delete": {
+        "string": "削除"
+    },
+    "design_systems.shared_fonts.dismiss_errors": {
+        "string": "無視"
+    },
+    "design_systems.shared_fonts.don_t_replace": {
+        "string": "置換しない"
+    },
+    "design_systems.shared_fonts.error_table_header_error": {
+        "string": "エラー"
+    },
+    "design_systems.shared_fonts.error_table_header_file": {
+        "string": "ファイル"
+    },
+    "design_systems.shared_fonts.existing_fonts": {
+        "string": "既存のフォント"
+    },
+    "design_systems.shared_fonts.family_info_with_version": {
+        "string": "{fontFamily}、{fontStyle} v{fontVersion}"
+    },
+    "design_systems.shared_fonts.family_info_without_version": {
+        "string": "{fontFamily}、{fontStyle}"
+    },
+    "design_systems.shared_fonts.font": {
+        "string": "フォント"
+    },
+    "design_systems.shared_fonts.font_family_and_style": {
+        "string": "{fontFamily} {fontStyle}"
+    },
+    "design_systems.shared_fonts.i_own_the_fonts_i_am_uploading_or_have_the_right_to_distribute_copies_to_others_and_to_authorize_the_use_of_copies_with_figma": {
+        "string": "アップロードするフォントのオーナーであるか、またはコピーを他のユーザーに配布し、Figmaでのコピーの使用を許可する権限があります。"
+    },
+    "design_systems.shared_fonts.import_complete_with_error_count": {
+        "string": "{numErrors, plural, other {インポートが完了しましたが{numErrors}件のエラーがあります}}"
+    },
+    "design_systems.shared_fonts.import_complete_with_errors_ok": {
+        "string": "OK"
+    },
+    "design_systems.shared_fonts.import_complete_with_errors_review": {
+        "string": "{numErrors, plural, other {エラーを確認}}"
+    },
+    "design_systems.shared_fonts.just_now": {
+        "string": "たった今"
+    },
+    "design_systems.shared_fonts.list_of_variations_for_font": {
+        "string": "{numVariations, plural, other {{numVariations}インスタンス: {listOfVariations}}}"
+    },
+    "design_systems.shared_fonts.list_separator": {
+        "string": "、"
+    },
+    "design_systems.shared_fonts.new_font": {
+        "string": "新しいフォント"
+    },
+    "design_systems.shared_fonts.no_fonts_have_been_uploaded_to_this_organization": {
+        "string": "この組織にはフォントがアップロードされていません。"
+    },
+    "design_systems.shared_fonts.no_fonts_have_been_uploaded_to_this_team": {
+        "string": "このチームにはフォントがアップロードされていません。"
+    },
+    "design_systems.shared_fonts.no_results_for_query": {
+        "string": "{query}に一致する結果はありません"
+    },
+    "design_systems.shared_fonts.num_fonts_selected": {
+        "string": "{numFontsSelected, plural, other {{numFontsSelected}個のフォントが選択されています}}"
+    },
+    "design_systems.shared_fonts.okay": {
+        "string": "OK"
+    },
+    "design_systems.shared_fonts.only_organization_admins_have_permission_to_upload_fonts": {
+        "string": "フォントをアップロードする権限があるのは組織管理者だけです。"
+    },
+    "design_systems.shared_fonts.only_team_admins_have_permission_to_upload_fonts": {
+        "string": "フォントをアップロードする権限があるのはチームの管理者だけです。"
+    },
+    "design_systems.shared_fonts.replace": {
+        "string": "置換"
+    },
+    "design_systems.shared_fonts.replace_variable_font_error": {
+        "string": "バリアブルフォントを非バリアブルフォントに置き換えようとしています。バリアブルフォントでカスタムバリエーション値を使用していたユーザーに対し、フォントが欠落していることを示す警告が表示されます。"
+    },
+    "design_systems.shared_fonts.replace_warning": {
+        "string": "{numCollisions, plural, other {既存のフォントを新しいフォントに置き換えますか?}}"
+    },
+    "design_systems.shared_fonts.replace_warning_new_variable_font": {
+        "string": "{numCollisions, plural, other {既存のフォントを新しいフォントに置き換えますか? バリアブルフォントを使用すると、編集者が利用できるテキストスタイルのオプションが増えます。}}"
+    },
+    "design_systems.shared_fonts.replace_warning_new_variable_font_all_collisions_non_variable": {
+        "string": "{numCollisions, plural, other {既存の非バリアブルフォントを新しいバリアブルフォントに置き換えますか? バリアブルフォントを使用すると、編集者が利用できるテキストスタイルのオプションが増えます。}}"
+    },
+    "design_systems.shared_fonts.replace_warning_new_variable_font_all_collsions_variable": {
+        "string": "{numCollisions, plural, other {既存のバリアブルフォントを新しいフォントに置き換えますか?}}"
+    },
+    "design_systems.shared_fonts.replace_warning_not_all_collsions_variable": {
+        "string": "{numCollisions, plural, other {既存のフォントを新しい非バリアブルフォントに置き換えますか?}}"
+    },
+    "design_systems.shared_fonts.replacing_fonts_modal_title": {
+        "string": "代替フォント"
+    },
+    "design_systems.shared_fonts.sample": {
+        "string": "サンプル"
+    },
+    "design_systems.shared_fonts.some_of_the_existing_styles_will_become_unavailable": {
+        "string": "既存のスタイルの一部が使用できなくなります。"
+    },
+    "design_systems.shared_fonts.team_fonts_override_warning_1": {
+        "string": "{fontFamily} {fontStyle}は既に{listOfTeams}に追加されています。新しいテキストオブジェクトでは、チームにアップロードされたフォントの代わりに、組織と共有しているフォントが使用されます。"
+    },
+    "design_systems.shared_fonts.team_fonts_override_warning_2": {
+        "string": "組織のフォントは、各チームにアップロードされたフォントよりも優先されます。このフォントを使用して作成されたすべてのテキストオブジェクトでは、組織で共有されているフォントが使用されます。"
+    },
+    "design_systems.shared_fonts.team_fonts_override_warning_3": {
+        "string": "フォントのチームバージョンを使用するには、組織からフォントを削除する必要があります。"
+    },
+    "design_systems.shared_fonts.team_fonts_will_be_overridden": {
+        "string": "チームフォントはオーバーライドされます"
+    },
+    "design_systems.shared_fonts.this_font_style_was_uploaded_to_your_organization_any_new_text_objects_will_use_the_organization_font": {
+        "string": "このフォントスタイルは組織にアップロードされています。新しいテキストオブジェクトでは組織のフォントが使用されます。"
+    },
+    "design_systems.shared_fonts.updated_at_date": {
+        "string": "{updatedAt, date, short}"
+    },
+    "design_systems.shared_fonts.upload": {
+        "string": "アップロード"
+    },
+    "design_systems.shared_fonts.upload_fonts": {
+        "string": "フォントをアップロード"
+    },
+    "design_systems.shared_fonts.upload_fonts_you_own_to_share_with_your_organization": {
+        "string": "所有するフォントをアップロードして組織と共有してください。"
+    },
+    "design_systems.shared_fonts.upload_fonts_you_own_to_share_with_your_team": {
+        "string": "所有するフォントをアップロードしてチームと共有してください。"
+    },
+    "design_systems.shared_fonts.upload_footer_message": {
+        "string": "{orgName}組織から、このチームが使用できる{linkText}。"
+    },
+    "design_systems.shared_fonts.upload_footer_message_link": {
+        "string": "{numFonts, plural, other {{numFonts}個の共有フォントを表示します}}"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "workspace_table.name_input": {
+        "string": "名前"
+    },
+    "workspace_table.name_input_placeholder": {
+        "string": "部門、事業単位などの名前を追加"
+    },
+    "workspace_table.only_members_can_find_and_access": {
+        "string": "ワークスペースのメンバーのみ検索とアクセスが可能です"
+    },
+    "workspace_table.search.no_results": {
+        "string": "検索条件に一致するワークスペースが見つかりませんでした。検索をやり直してください。"
+    },
+    "workspace_table.search.placeholder": {
+        "string": "ワークスペースを検索…"
+    },
+    "workspace_table.secret_workspace_lock_tooltip": {
+        "string": "このワークスペースは非表示です"
+    },
+    "workspace_table.secret_workspace_lock_tooltip_subtext": {
+        "string": "そのメンバーと管理者のみ検索とアクセスが可能です"
+    },
+    "workspace_table.teams": {
+        "string": "チーム"
+    },
+    "workspace_table.unassigned": {
+        "string": "未割り当て"
+    },
+    "workspace_table.unassigned_row_default": {
+        "string": "(デフォルト)"
+    },
+    "workspace_table.visibility": {
+        "string": "表示"
+    },
+    "workspace_table.workspace": {
+        "string": "ワークスペース"
+    },
+    "workspace_table.workspace_created_toast": {
+        "string": "新しいワークスペース\"{workspaceName}\"が作成されました"
+    },
+    "workspace_table.workspace_edit_save_changes": {
+        "string": "変更を保存"
+    },
+    "workspace_table.workspace_edited_toast": {
+        "string": "更新済みの「{workspaceName}」ワークスペース"
+    },
+    "workspace_table.workspace_name_already_exists_error": {
+        "string": "ワークスペース名は既に使用されています。別の名前を選択してください"
+    },
+    "workspace_table.workspace_name_unassigned_error": {
+        "string": "ワークスペースに'Unassigned'という名前を付けることはできません"
+    },
+    "workspace_table.workspaces_deleted_toast": {
+        "string": "{licenseGroupsCount, plural, other {{licenseGroupsCount}個のワークスペースを削除しました}}"
+    },
+    "org_admin_survey.agree": {
+        "string": "そう思う"
+    },
+    "org_admin_survey.can_you_tell_us_about_your_experience_using_figma": {
+        "string": "Figmaを使用した感想をお聞かせください"
+    },
+    "org_admin_survey.disagree": {
+        "string": "そう思わない"
+    },
+    "org_admin_survey.figma_makes_it_easy_to_manage_costs": {
+        "string": "Figmaではコストを容易に管理できる"
+    },
+    "org_admin_survey.figma_makes_it_efficient_to_give_users_the_access_they_need": {
+        "string": "Figmaではユーザーに必要なアクセス権を効率的に付与できる"
+    },
+    "org_admin_survey.figma_s_billing_model_is_fair": {
+        "string": "Figmaの請求モデルは公正である"
+    },
+    "org_admin_survey.n_a": {
+        "string": "該当なし"
+    },
+    "org_admin_survey.neither_agree_nor_disagree": {
+        "string": "どちらとも言えない"
+    },
+    "org_admin_survey.not_answered": {
+        "string": "'未回答'"
+    },
+    "org_admin_survey.rate_your_level_of_agreement_with_the_following_statements": {
+        "string": "次の文について、最もあてはまるものを選んでください。"
+    },
+    "org_admin_survey.strongly_agree": {
+        "string": "とてもそう思う"
+    },
+    "org_admin_survey.strongly_disagree": {
+        "string": "まったくそう思わない"
+    },
+    "org_admin_survey.what_would_improve_your_experience": {
+        "string": "使いやすさを向上させるため、お客様のご意見をお聞かせください。"
+    },
+    "orgs_middleware.an_error_occurred_while_generating_scim": {
+        "string": "SCIM APIトークンの生成中にエラーが発生しました。"
+    },
+    "orgs_middleware.an_error_occurred_while_enqueeing_deletion_request": {
+        "string": "削除リクエストをキューに登録しているときにエラーが発生しました"
+    },
+    "orgs_middleware.an_error_occurred_while_revoking_scim": {
+        "string": "SCIM APIトークンの取り消し中にエラーが発生しました。"
+    },
+    "orgs_middleware.user_data_deleted": {
+        "string": "ユーザーデータが削除されました"
+    },
+    "orgs_middleware.deletion_request_submitted": {
+        "string": "削除リクエストが送信されました"
+    },
+    "configured_upgrade_request_modal.from_the_admins": {
+        "string": "{orgName}の管理者からの指示:"
+    },
+    "confirm_account_change.account_type_successfully_updated.seat_rename": {
+        "string": "{numUsers, plural, other {{numUsers}人のシートが更新されました}}"
+    },
+    "confirm_account_change.downgrade.all_licenses.description_p1.plural": {
+        "string": "この{numUsers}人のメンバーを{viewerRestricted}シートにダウングレードすると、"
+    },
+    "confirm_account_change.downgrade.all_licenses.description_p1.singular": {
+        "string": "{userName}を{viewerRestricted}シートにダウングレードすると、"
+    },
+    "confirm_account_change.downgrade.all_licenses.description_p1.singular.no_username": {
+        "string": "このメンバーを{viewerRestricted}シートにダウングレードすると、"
+    },
+    "confirm_account_change.downgrade.design.description_p2": {
+        "string": "次の操作ができなくなります。"
+    },
+    "confirm_account_change.downgrade.design.give_access_to_drafts": {
+        "string": "自分でアップグレードする(管理者の承認が必要になります)"
+    },
+    "confirm_account_change.downgrade.dev_mode.description_p2": {
+        "string": "開発モードとそのすべての機能を利用できなくなります。以下の機能が含まれます。"
+    },
+    "confirm_account_change.generic.design.access_all_templates_and_libraries": {
+        "string": "すべてのテンプレートとライブラリへのアクセス"
+    },
+    "confirm_account_change.generic.design.edit_share_or_create": {
+        "string": "ドラフトの外でのデザインファイルの編集、作成、共有"
+    },
+    "confirm_account_change.generic.design.free_dev_mode_access": {
+        "string": "開発モードへの無料アクセス"
+    },
+    "confirm_account_change.generic.design.free_dev_mode_access.learn_more": {
+        "string": "詳細はこちらをご覧ください。"
+    },
+    "confirm_account_change.generic.design.give_access_to_drafts": {
+        "string": "コラボレーターへのFigmaデザインドラフトへのアクセス権の付与"
+    },
+    "confirm_account_change.generic.dev_mode.advanced_inspect": {
+        "string": "コードの部分的なカスタマイズが可能なコードな高度なインスペクト"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "community.detail_view.creator": {
+        "string": "作成者"
+    },
+    "community.detail_view.creator_fund_tooltip": {
+        "string": "Figmaクリエーター基金の支援を受けて作成されました。"
+    },
+    "community.detail_view.creator_policy": {
+        "string": "作成者のポリシー"
+    },
+    "community.detail_view.creator_policy_publisher_name": {
+        "string": "{publisherName}より:"
+    },
+    "community.detail_view.current_pending_user_profile_name_you": {
+        "string": "{currentProfileName} (あなた)"
+    },
+    "community.detail_view.data_security": {
+        "string": "データセキュリティ"
+    },
+    "community.detail_view.data_security_modal_assessment_link": {
+        "string": "セキュリティ自己評価プログラム"
+    },
+    "community.detail_view.data_security_modal_badge_info_plugin": {
+        "string": "このプラグインは作成者の回答に基づいて、Figmaのデータセキュリティのベストプラクティスに準拠していまます。"
+    },
+    "community.detail_view.data_security_modal_badge_info_widget": {
+        "string": "このウィジェットは作成者の回答に基づいて、Figmaのデータセキュリティのベストプラクティスに準拠していまます。"
+    },
+    "community.detail_view.data_security_modal_explanation_plugin": {
+        "string": "Figmaの{assessmentProgramLink}の一環として、作成者が自発的に調査に回答し、このプラグインによるデータの取り扱いと保存の方法について共有しています。"
+    },
+    "community.detail_view.data_security_modal_explanation_widget": {
+        "string": "Figmaの{assessmentProgramLink}の一環として、作成者が自ら調査に回答し、このウィジェットによるデータの取り扱いと保存の方法について共有しています。"
+    },
+    "community.detail_view.data_security_modal_pending": {
+        "string": "作成者が{date, date, long}に詳細情報を更新したため、更新された情報がデータセキュリティのベストプラクティスに従っているかFigmaが現在審査中です。"
+    },
+    "community.detail_view.data_security_modal_rejected": {
+        "string": "作成者が詳細情報を更新しました。審査の結果、{date, date, long}にFigmaはこれらの更新がデータセキュリティのベストプラクティスに従っていないと判断しました。"
+    },
+    "community.detail_view.data_security_modal_rejected_tooltip": {
+        "string": "Figmaはこれらの更新がデータセキュリティのベストプラクティスに従っていないと判断しました。"
+    },
+    "community.detail_view.decline": {
+        "string": "辞退する"
+    },
+    "community.detail_view.declined_creator_invite": {
+        "string": "作成者の招待が拒否されました。"
+    },
+    "community.detail_view.declined_publisher_invite": {
+        "string": "公開者の招待が拒否されました。"
+    },
+    "community.detail_view.design_file": {
+        "string": "デザインファイル"
+    },
+    "community.detail_view.dev_mode_only": {
+        "string": "Figma向け: 開発モード"
+    },
+    "community.detail_view.edit_rating": {
+        "string": "評価を編集"
+    },
+    "community.detail_view.empty_star": {
+        "string": "塗りつぶされていない星"
+    },
+    "community.detail_view.figjam_board": {
+        "string": "FigJamボード"
+    },
+    "community.detail_view.figma_design_and_dev_mode": {
+        "string": "デザインおよび開発モード向け"
+    },
+    "community.detail_view.figma_partner_this_creator_is": {
+        "string": "この作成者はFigmaパートナーです。"
+    },
+    "community.detail_view.free_plugin_license": {
+        "string": "コミュニティ無料リソースライセンス"
+    },
+    "community.detail_view.full_star": {
+        "string": "塗りつぶされた星"
+    },
+    "community.detail_view.half_star": {
+        "string": "半分塗りつぶされた星"
+    },
+    "community.detail_view.how_reviews_and_ratings_work": {
+        "string": "レビューと評価の取り扱い"
+    },
+    "community.detail_view.in_app_purchases": {
+        "string": "アプリ内課金: {priceString}"
+    },
+    "community.detail_view.invitations": {
+        "string": "招待"
+    },
+    "community.detail_view.last_updated_at_time_stamp": {
+        "string": "最終更新 {timeStamp}"
+    },
+    "community.detail_view.learn_how_to_get_started": {
+        "string": "利用方法についてご確認ください。"
+    },
+    "community.detail_view.leave_a_rating": {
+        "string": "評価する"
+    },
+    "community.detail_view.licensed_under_license_type": {
+        "string": "{licenseType}のライセンスを保持"
+    },
+    "community.detail_view.made_by_a_figma_partner": {
+        "string": "Figmaパートナーが作成"
+    },
+    "community.detail_view.made_for_codegen": {
+        "string": "コードスニペットを生成します"
+    },
+    "community.detail_view.made_for_dev_mode": {
+        "string": "Figma向け: 開発モード"
+    },
+    "community.detail_view.made_for_fig_jam": {
+        "string": "FigJam向け"
+    },
+    "community.detail_view.made_for_fig_jam_and_dev_mode": {
+        "string": "FigJamおよびFigma向け: 開発モード"
+    },
+    "community.detail_view.made_for_figma_design": {
+        "string": "Figma向け"
+    },
+    "community.detail_view.made_for_figma_design_and_dev_mode": {
+        "string": "デザインおよび開発モード向け"
+    },
+    "community.detail_view.made_for_figma_design_and_figjam": {
+        "string": "FigmaおよびFigJam向け"
+    },
+    "community.detail_view.made_for_slides": {
+        "string": "Figma Slides向け"
+    },
+    "community.detail_view.no_network_access": {
+        "string": "ネットワークにアクセスできません"
+    },
+    "community.detail_view.no_plugin_network_access": {
+        "string": "プラグインはどのドメインにもアクセスできません。"
+    },
+    "community.detail_view.no_widget_network_access": {
+        "string": "ウェジェットはどのドメインにもアクセスできません。"
+    },
+    "community.detail_view.number_of_users": {
+        "string": "{numberOfUsers, plural, other {{numberOfUsers}人のユーザー}}"
+    },
+    "community.detail_view.paid_resource_license": {
+        "string": "コミュニティ有料リソースライセンス"
+    },
+    "community.detail_view.plugin": {
+        "string": "プラグイン"
+    },
+    "community.detail_view.plugin_license": {
+        "string": "コミュニティリソースライセンス"
+    }
+}

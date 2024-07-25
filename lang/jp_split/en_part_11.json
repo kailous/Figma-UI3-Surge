@@ -1,0 +1,152 @@
+{
+    "add_unassigned_teams_modal.org_access.secret": {
+        "string": "シークレットチーム"
+    },
+    "add_unassigned_teams_modal.project_count": {
+        "string": "{projectCount, plural, other {プロジェクト{projectCount}件}}"
+    },
+    "add_unassigned_teams_modal.search_for_teams": {
+        "string": "チームを検索..."
+    },
+    "add_unassigned_teams_modal.team_metadata": {
+        "string": "{memberCountInfo} · {projectCountInfo}"
+    },
+    "add_unassigned_teams_modal.team_metadata.with_access_setting": {
+        "string": "{accessSettingInfo} · {memberCountInfo} · {projectCountInfo}"
+    },
+    "add_unassigned_teams_modal.title": {
+        "string": "チームを{workspaceName}に割り当てる"
+    },
+    "add_unassigned_teams_modal.without_owners": {
+        "string": "オーナーなし"
+    },
+    "admin_dashboard.all_org_requests.title": {
+        "string": "{orgName}のすべての申請"
+    },
+    "admin_dashboard.configured_upgrade_request_banner.all_users": {
+        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。この設定を有効にする前の申請は引き続きここに表示されます。"
+    },
+    "admin_dashboard.configured_upgrade_request_banner.members": {
+        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。古いメンバーの申請および新しいゲストの申請はここに表示されます。"
+    },
+    "admin_dashboard.configured_upgrade_request_empty_state.all_users": {
+        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。"
+    },
+    "admin_dashboard.configured_upgrade_request_empty_state.members": {
+        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。新しいゲストのアップグレードの申請はここに表示されます。"
+    },
+    "admin_dashboard.managed_org_requests.title": {
+        "string": "自分の申請"
+    },
+    "admin_dashboard.requests.all_users": {
+        "string": "すべて"
+    },
+    "admin_dashboard.requests.approve": {
+        "string": "承認"
+    },
+    "admin_dashboard.requests.approve_all": {
+        "string": "すべて承認"
+    },
+    "admin_dashboard.requests.approve_all_modal.body": {
+        "string": "{numRequests}件の申請を承認しようとしています。"
+    },
+    "admin_dashboard.requests.approve_all_modal.body_filtered": {
+        "string": "{numHiddenRequests, plural, other {{numTotalRequests}件の申請を承認しようとしています。これには、選択中のフィルターによって現在非表示になっている{numHiddenRequests}件が含まれます。}}"
+    },
+    "admin_dashboard.requests.approve_all_modal.confirm": {
+        "string": "申請を承認"
+    },
+    "admin_dashboard.requests.approve_all_modal.confirm_filtered": {
+        "string": "{numRequests}件の申請をすべて承認"
+    },
+    "admin_dashboard.requests.approve_all_modal.title": {
+        "string": "よろしいですか?"
+    },
+    "admin_dashboard.requests.approve_all_modal.title_filtered": {
+        "string": "申請をすべて承認"
+    },
+    "admin_dashboard.requests.billing_groups": {
+        "string": "請求グループ"
+    },
+    "admin_dashboard.requests.columns.last_used_dev_mode": {
+        "string": "開発モードの最後の使用"
+    },
+    "admin_dashboard.requests.columns.name": {
+        "string": "名前"
+    },
+    "admin_dashboard.requests.columns.note": {
+        "string": "メモ"
+    },
+    "admin_dashboard.requests.columns.request": {
+        "string": "申請"
+    },
+    "admin_dashboard.requests.decline": {
+        "string": "承認しない"
+    },
+    "admin_dashboard.requests.design_seat": {
+        "string": "デザインシート"
+    },
+    "admin_dashboard.requests.details.billing_groups": {
+        "string": "請求グループ"
+    },
+    "admin_dashboard.requests.details.date": {
+        "string": "日付"
+    },
+    "admin_dashboard.requests.details.display_date": {
+        "string": "{dateObject, date, ::yMMMMd}"
+    },
+    "admin_dashboard.requests.details.job_title": {
+        "string": "職名"
+    },
+    "admin_dashboard.requests.details.license_type": {
+        "string": "種類"
+    },
+    "admin_dashboard.requests.details.name": {
+        "string": "名前"
+    },
+    "admin_dashboard.requests.details.note": {
+        "string": "メモ"
+    },
+    "admin_dashboard.requests.details.reminder_banner": {
+        "string": "{requesterName}がリマインダーを送信しました:"
+    },
+    "admin_dashboard.requests.details.title": {
+        "string": "申請の詳細"
+    },
+    "admin_dashboard.requests.devmode_seat": {
+        "string": "開発モードシート"
+    },
+    "admin_dashboard.requests.empty.configurable_upgrade_requests": {
+        "string": "リクエストがありません"
+    },
+    "admin_dashboard.requests.empty.no_filter_results": {
+        "string": "表示する申請はありません。{resetFiltersLink}"
+    },
+    "admin_dashboard.requests.empty.no_search_results": {
+        "string": "検索条件に一致する申請が見つかりませんでした。条件を変えて検索してください。"
+    },
+    "admin_dashboard.requests.empty.primary_text": {
+        "string": "現在申請はありません"
+    },
+    "admin_dashboard.requests.empty.reset_filters": {
+        "string": "フィルターをリセット"
+    },
+    "admin_dashboard.requests.empty.secondary_text": {
+        "string": "ひと休みしてください。新規のアップグレード申請が届いたらお知らせいたします。"
+    },
+    "admin_dashboard.requests.error_generic": {
+        "string": "問題が発生しました"
+    },
+    "admin_dashboard.requests.error_multiple": {
+        "string": "処理できなかった申請があります"
+    },
+    "admin_dashboard.requests.error_reload": {
+        "string": "再読み込み"
+    },
+    "admin_dashboard.requests.error_single": {
+        "string": "申請を処理できませんでした"
+    },
+    "admin_dashboard.requests.figjam_seat": {
+        "string": "FigJamシート"
+    }
+}

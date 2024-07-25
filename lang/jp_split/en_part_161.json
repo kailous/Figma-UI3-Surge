@@ -1,0 +1,152 @@
+{
+    "file_browser.file_browser_actions.files_deleted_forever": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルが完全に削除されました}}"
+    },
+    "file_browser.file_browser_actions.files_restored_success": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルが復元されました}}"
+    },
+    "file_browser.file_browser_actions.files_trashed": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルがごみ箱に移動しました}}"
+    },
+    "file_browser.file_browser_actions.logout_error_with_email": {
+        "string": "{emailAddress}のログアウト中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.logout_error_without_email": {
+        "string": "ログアウト中にエラーが発生しました"
+    },
+    "file_browser.file_browser_actions.must_be_online_to_save_version": {
+        "string": "このバージョンを保存するにはオンラインになっている必要があります。"
+    },
+    "file_browser.file_browser_actions.recently_viewed_error": {
+        "string": "{numFiles, plural, other {[最近表示したファイル] からこれらのファイルを削除しているときにエラーが発生しました。}}"
+    },
+    "file_browser.file_browser_actions.remove_files_from_project_permission": {
+        "string": "{projectName}からファイルを削除する権限がありません"
+    },
+    "file_browser.file_browser_actions.remove_files_from_this_project_permission": {
+        "string": "このプロジェクトからファイルを削除する権限がありません"
+    },
+    "file_browser.file_browser_actions.restore_team_error": {
+        "string": "チームを復元できませんでした: {errorMsg}"
+    },
+    "file_browser.file_browser_actions.restore_team_success": {
+        "string": "チームが復元されました。"
+    },
+    "file_browser.file_browser_actions.successfully_logged_out": {
+        "string": "{emailAddress}からログアウトしました"
+    },
+    "file_browser.file_browser_actions.team_member_fetch_error": {
+        "string": "チームメンバーリストの取得中にエラーが発生しました。しばらくしてから、もう一度お試しください。"
+    },
+    "file_browser.file_browser_actions.team_update_error": {
+        "string": "設定を更新できません"
+    },
+    "file_browser.file_browser_actions.thumbnail_set": {
+        "string": "サムネイルセット"
+    },
+    "file_browser.file_browser_actions.unknown_error": {
+        "string": "不明なエラー"
+    },
+    "file_browser.file_browser_actions.update_description_error": {
+        "string": "説明を更新できません"
+    },
+    "file_browser.file_browser_actions.update_project_error": {
+        "string": "このプロジェクトの更新中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.update_subscription_error": {
+        "string": "説明を更新できません"
+    },
+    "file_browser.file_browser_actions.version_restore_error": {
+        "string": "このバージョンの復元中にエラーが発生しました。"
+    },
+    "file_browser.file_browser_actions.version_update_error": {
+        "string": "このバージョンの更新中にエラーが発生しました。"
+    },
+    "file_browser.file_import_view.add_from_jamboard": {
+        "string": "Jamboardファイルを追加"
+    },
+    "file_browser.file_import_view.cancel": {
+        "string": "キャンセル"
+    },
+    "file_browser.file_import_view.done": {
+        "string": "完了"
+    },
+    "file_browser.file_import_view.failed_to_retrieve_file": {
+        "string": "Google Driveからファイルを取得できません"
+    },
+    "file_browser.file_import_view.file_import_cancel": {
+        "string": "インポートがキャンセルされました。"
+    },
+    "file_browser.file_import_view.file_import_failure_all": {
+        "string": "{failedFiles, plural, other {ファイルをインポートできません。}}"
+    },
+    "file_browser.file_import_view.file_import_failure_partial": {
+        "string": "インポートできないファイルがあります。"
+    },
+    "file_browser.file_import_view.file_import_partial_success": {
+        "string": "{totalFiles}個中{importedFiles}個のファイルがインポートされました"
+    },
+    "file_browser.file_import_view.file_import_progress": {
+        "string": "{totalFiles}個中の{processedFiles}個のファイル"
+    },
+    "file_browser.file_import_view.file_import_success": {
+        "string": "{totalFiles, plural, other {{totalFiles}個のファイルが正常にインポートされました}}"
+    },
+    "file_browser.file_import_view.file_row_import_cancel": {
+        "string": "キャンセルされました"
+    },
+    "file_browser.file_import_view.google_drive_access_expired": {
+        "string": "Google Driveへのアクセス期限が切れています。もう一度インポートしてみてください"
+    },
+    "file_browser.file_import_view.google_picker_select_files_title": {
+        "string": "インポートするファイルを選択"
+    },
+    "file_browser.file_import_view.import": {
+        "string": "インポート"
+    },
+    "file_browser.file_import_view.import_description": {
+        "string": "画像、Sketchファイル、LucidやMiro、MuralからエクスポートしたPDFをインポートします。"
+    },
+    "file_browser.file_import_view.import_from_computer": {
+        "string": "コンピューターからインポート"
+    },
+    "file_browser.file_import_view.import_header": {
+        "string": "作品をFigmaやFigJamに取り組む"
+    },
+    "file_browser.file_import_view.import_to_folder": {
+        "string": "{folderName}にインポートしています"
+    },
+    "file_browser.file_import_view.next": {
+        "string": "次へ"
+    },
+    "file_browser.file_import_view.open_a_new_tab_link": {
+        "string": "新しいタブを開きます"
+    },
+    "file_browser.file_import_view.select_pdf_source_description": {
+        "string": "{pdfCount, plural, other {1つ選択してください。PDFをより正確にFigJamファイルに変換できるようになります。より良い結果を得るために、PDFのインポートは作成元の製品ごとに分けて行ってください。}}"
+    },
+    "file_browser.file_import_view.select_pdf_source_description_within_figjam": {
+        "string": "{pdfCount, plural, other {1つ選択してください。PDFをより正確に変換できるようになります。より良い結果を得るために、PDFのインポートは作成元の製品ごとに分けて行ってください。}}"
+    },
+    "file_browser.file_import_view.select_pdf_source_header": {
+        "string": "ファイルの元はどれですか?"
+    },
+    "file_browser.file_import_view.select_pdf_source_input_legend": {
+        "string": "PDFの入手元"
+    },
+    "file_browser.file_import_view.select_pdf_source_input_unknown_disclaimer": {
+        "string": "その他のPDFも追加できますが、正確にインポートされない場合があります。"
+    },
+    "file_browser.file_import_view.select_pdf_source_input_unknown_value": {
+        "string": "その他"
+    },
+    "file_browser.file_import_view.to_continue_working": {
+        "string": "作業を続けるには、 {openANewTabLink}"
+    },
+    "file_browser.file_list_view.header_created_column": {
+        "string": "作成"
+    },
+    "file_browser.file_list_view.header_last_modified_column": {
+        "string": "最終更新"
+    }
+}

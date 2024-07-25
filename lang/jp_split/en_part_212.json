@@ -1,0 +1,152 @@
+{
+    "404.not_found.no_account": {
+        "string": "アカウントをお持ちではありませんか? {create_one}"
+    },
+    "404.not_found.password_required": {
+        "string": "パスワードが必要です"
+    },
+    "404.not_found.title": {
+        "string": "見つかりません"
+    },
+    "404.page_no_access.description": {
+        "string": "組織管理者に権限の更新を依頼してください。"
+    },
+    "404.page_no_access.title": {
+        "string": "このページにアクセスできません"
+    },
+    "404.page_not_found.description": {
+        "string": "このページが存在していないか、このページを表示する権限がありません。許可されたユーザーとしてログインするか、組織管理者に連絡してください。"
+    },
+    "404.page_not_found.title": {
+        "string": "ページが見つかりません"
+    },
+    "404.prototype_no_access.description": {
+        "string": "プロトタイプを表示するには、プロトタイプのオーナーに権限の更新を依頼してください。"
+    },
+    "404.prototype_no_access.title": {
+        "string": "このプロトタイプにアクセスできません"
+    },
+    "404.prototype_not_found.title": {
+        "string": "プロトタイプが見つかりません"
+    },
+    "404.slide_deck_no_access.description": {
+        "string": "スライドデッキを表示するには、デッキのオーナーに権限の更新を依頼してください。"
+    },
+    "404.slide_deck_no_access.title": {
+        "string": "このスライドデッキにアクセスできません。"
+    },
+    "404.slide_deck_not_found.title": {
+        "string": "スライドデッキが見つかりません"
+    },
+    "drafts_copy_link_exp.404.defaultV2.title": {
+        "string": "ファイルを開けません"
+    },
+    "drafts_copy_link_exp.404.file_no_access.owner_viewer_restricted_sharing_draft.description": {
+        "string": "このファイルの共有設定に問題があるようです。オーナーにメールで通知しました。"
+    },
+    "notification_settings_modal.desktop_notifications": {
+        "string": "デスクトップ通知"
+    },
+    "notification_settings_modal.email_notifications": {
+        "string": "メール通知"
+    },
+    "notification_settings_modal.error_changing_setting_errorMessageString": {
+        "string": "エラー変更設定: {errorMessageString}"
+    },
+    "notification_settings_modal.privacy_policy": {
+        "string": "プライバシーポリシー"
+    },
+    "notification_settings_modal.product_tips_and_news": {
+        "string": "製品のヒントと最新情報"
+    },
+    "notification_settings_modal.send_me_desktop_push_notifications": {
+        "string": "通知を自分のコンピューターに送信します"
+    },
+    "notification_settings_modal.send_me_notifications_by_email": {
+        "string": "通知をメールで送信します"
+    },
+    "notification_settings_modal.send_me_occasional_emails_with_updates_and_promotions": {
+        "string": "Figmaから最新情報やプロモーションのメールを受け取る"
+    },
+    "notification_settings_modal.unsubscribe_from_figma_emails_disclaimer": {
+        "string": "Figmaからのメールの配信登録はいつでも解除できます。詳細は、{privacy_policy}をご確認ください。"
+    },
+    "notification_settings_modal.you_ll_still_get_emails_from_Figma_about_your_account": {
+        "string": "アカウントやご請求に関する重要な情報など、Figmaからの他のメールは引き続き届きます。"
+    },
+    "request_org_access_app_entry.ask_to_be_added": {
+        "string": "追加を依頼する"
+    },
+    "request_org_access_app_entry.hmm_looks_like_this_file_is_restricted": {
+        "string": "このファイルは制限されているようです"
+    },
+    "request_org_access_app_entry.hmm_looks_like_this_project_is_restricted": {
+        "string": "このプロジェクトは制限されているようです"
+    },
+    "request_org_access_app_entry.hmm_looks_like_this_resource_is_restricted": {
+        "string": "このリソースは制限されているようです"
+    },
+    "request_org_access_app_entry.hmm_looks_like_this_team_is_restricted": {
+        "string": "このチームは制限されているようです"
+    },
+    "request_org_access_app_entry.request_sent": {
+        "string": "リクエストが送信されました"
+    },
+    "request_org_access_app_entry.switch_accounts": {
+        "string": "アカウントを切り替える"
+    },
+    "request_org_access_app_entry.to_access_it_you_ll_need_to_join_the_org_name_organization_first_do_you_want_to_ask_a_org_name_admin_to_add_you_to_the_organization": {
+        "string": "アクセスするには、最初に{orgName}組織に参加する必要があります。{orgName}の管理者に組織への追加を依頼しますか?"
+    },
+    "request_org_access_app_entry.you_are_requesting_to_be_added_as_user_email": {
+        "string": "{email}としての追加をリクエストします"
+    },
+    "org_actions.an_error_occurred": {
+        "string": "エラーが発生しました。"
+    },
+    "org_actions.request_approved": {
+        "string": "リクエストが承認されました"
+    },
+    "org_actions.request_denied": {
+        "string": "リクエストが拒否されました"
+    },
+    "org_actions.request_withdrawn": {
+        "string": "リクエストは取り消されました"
+    },
+    "org_actions.updated_authentication_settings": {
+        "string": "認証設定を更新しました"
+    },
+    "org_actions.updated_idle_session_timeout": {
+        "string": "アイドルセッションタイムアウトを更新しました"
+    },
+    "org_actions.you_ve_requested_to_edit_files_in_this_team": {
+        "string": "このチームでのファイルの編集をリクエストしました。"
+    },
+    "org_actions.you_ve_requested_to_join_this_team": {
+        "string": "このチームへの参加をリクエストしました。"
+    },
+    "org_admin_onboarding.billing_groups.tooltip.add_admins.description.seat_rename": {
+        "string": "組織の管理者はすべての請求グループにアクセスでき、各グループのコストの追跡とシートの管理を担当する管理者を追加できます。"
+    },
+    "org_admin_onboarding.billing_groups.tooltip.add_admins.title": {
+        "string": "請求グループの管理を手伝ってもらう"
+    },
+    "org_admin_onboarding.billing_groups.tooltip.create.description.seat_rename": {
+        "string": "ユーザーを請求グループに分類することで、シートの管理とコストの追跡を迅速に行うことができます。ヒント: 請求グループは、会社のコストセンターをモデルにして作成します。"
+    },
+    "org_admin_onboarding.billing_groups.tooltip.create.title": {
+        "string": "新しい請求グループを作成する"
+    },
+    "org_admin_onboarding.billing_groups.tooltip.edit.description": {
+        "string": "請求グループは、コストの追跡方法に応じて、いつでも名前の変更、メンバーの変更、削除を行うことができます。"
+    },
+    "org_admin_onboarding.billing_groups.tooltip.edit.title": {
+        "string": "請求グループに変更を加える"
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.manage_billing_group_upgrade_requests_description": {
+        "string": "管理している請求グループからのアップグレード申請は、管理ダッシュボードから承認できます。"
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.manage_upgrades_description": {
+        "string": "アップグレード申請は、管理ダッシュボードから承認できます。"
+    }
+}

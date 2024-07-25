@@ -1,0 +1,152 @@
+{
+    "community.profiles.add_website_url": {
+        "string": "WebサイトURLを追加"
+    },
+    "community.profiles.add_x_handle": {
+        "string": "X (旧Twitter)ハンドルを追加"
+    },
+    "community.profiles.boosted_by_the_figma_team": {
+        "string": "Figmaチームによってプロモーション済み"
+    },
+    "community.profiles.contact_creator_support": {
+        "string": "作成者サポートに問い合わせる"
+    },
+    "community.profiles.copy_profile_link": {
+        "string": "プロフィールリンクのコピー"
+    },
+    "community.profiles.cover_image_must_be_at_least_dimensions": {
+        "string": "カバー画像は{PROFILE_COVER_IMAGE_MIN_WIDTH}x{PROFILE_COVER_IMAGE_MIN_HEIGHT}以上にする必要があります"
+    },
+    "community.profiles.cover_image_must_be_less_than_dimensions": {
+        "string": "カバー画像は{PROFILE_COVER_IMAGE_MAX_WIDTH}x{PROFILE_COVER_IMAGE_MAX_HEIGHT}未満にする必要があります"
+    },
+    "community.profiles.email": {
+        "string": "メール"
+    },
+    "community.profiles.explore": {
+        "string": "さがす"
+    },
+    "community.profiles.fig_pick": {
+        "string": "Figmaのおすすめ"
+    },
+    "community.profiles.follower_count": {
+        "string": "{followerCount, plural, other {{formattedFollowerCount}人のフォロワー}}"
+    },
+    "community.profiles.following_count": {
+        "string": "{followingCount}人がフォロー中"
+    },
+    "community.profiles.following_count_alt_plural": {
+        "string": "{followingCount}人のフォロワー"
+    },
+    "community.profiles.following_count_alt_singular": {
+        "string": "{followingCount}人のフォロワー"
+    },
+    "community.profiles.follows_you": {
+        "string": "自分をフォロー"
+    },
+    "community.profiles.interested_in_selling_your_resources": {
+        "string": "リソースの販売にご興味がありますか?"
+    },
+    "community.profiles.made_in_fig_jam": {
+        "string": "FigJamで作成"
+    },
+    "community.profiles.new": {
+        "string": "新規"
+    },
+    "community.profiles.no_resources_published_yet": {
+        "string": "公開されているリソースはまだありません"
+    },
+    "community.profiles.nothing_liked_yet": {
+        "string": "いいねはまだ付けていません"
+    },
+    "community.profiles.nothing_published_yet": {
+        "string": "まだ何も公開していません"
+    },
+    "community.profiles.or": {
+        "string": "または"
+    },
+    "community.profiles.profile_actions": {
+        "string": "プロフィールのアクション"
+    },
+    "community.profiles.profile_cannot_contain_special_characters": {
+        "string": "{errorStringPrefix}に特殊文字を含めることはできません"
+    },
+    "community.profiles.profile_max_15_characters_in_length": {
+        "string": "{errorStringPrefix}は15文字以内です"
+    },
+    "community.profiles.remove_from_saved_plugins": {
+        "string": "保存済みプラグインから削除"
+    },
+    "community.profiles.removed_from_saved_plugins": {
+        "string": "保存済みプラグインから削除済み"
+    },
+    "community.profiles.resources": {
+        "string": "リソース"
+    },
+    "community.profiles.restrict_user": {
+        "string": "ユーザーを制限"
+    },
+    "community.profiles.save_this_plugin_to_give_you_and_figma_a_boost": {
+        "string": "このプラグインを保存して自分とFigmaの生産性を向上"
+    },
+    "community.profiles.saved": {
+        "string": "保存済み"
+    },
+    "community.profiles.see_whats_being_created_in_figma": {
+        "string": "Figmaで作成中のコンテンツを表示"
+    },
+    "community.profiles.unrestrict_user": {
+        "string": "ユーザーを制限しない"
+    },
+    "community.profiles.your_handle_text": {
+        "string": "自分のハンドル"
+    },
+    "community.profiles.your_organizations_profile_is_visible_to_the_public_at": {
+        "string": "組織のプロフィールは、{link}で一般ユーザーでも閲覧できます"
+    },
+    "community.profiles.your_profile_is_visible_to_the_public_at": {
+        "string": "プロフィールは、{link}で一般ユーザーでも閲覧できます"
+    },
+    "community.profiles.your_teams_profile_is_visible_to_the_public_at": {
+        "string": "チームのプロフィールは、{link}で一般ユーザーでも閲覧できます"
+    },
+    "community.promo.figjam_description_body": {
+        "string": "FigJamは、コラボレーションが可能な無料ホワイトボードツールです。このようなFigJamファイルを共有し、互いにコピーしたり、意見を出し合ったり、みんなで編集したりできます。"
+    },
+    "community.promo.figjam_description_title": {
+        "string": "FigJamで作成"
+    },
+    "community.promo.figma_description_body": {
+        "string": "Figmaは、コラボレーションが可能なデザインツールです。このようなFigmaデザインを共有し、互いにコピーしたり、意見を出し合ったり、みんなで編集したりできます。"
+    },
+    "community.promo.figma_description_title": {
+        "string": "Figmaデザインで作成"
+    },
+    "community.publish.fix_errors": {
+        "string": "公開する前にエラーを修正"
+    },
+    "community.publish.modal_error_badge": {
+        "string": "{numErrors, plural, other {{numErrors}個のエラー}}"
+    },
+    "community.publish.pending": {
+        "string": "(保留中)"
+    },
+    "community.publisher_with_suffix": {
+        "string": "{publisherName} {publishersSuffix}"
+    },
+    "community.purchase_home.by_purchasing_resources_you_agree": {
+        "string": "Figmaコミュニティからリソースを購入することで、{paidResourceLicense}および{termsOfService}に同意したものとみなされます。"
+    },
+    "community.purchase_home.cancelled_and_inactive": {
+        "string": "{date}に終了しました"
+    },
+    "community.purchase_home.cancelled_but_active": {
+        "string": "{date}に終了します"
+    },
+    "community.purchase_home.community_purchases": {
+        "string": "コミュニティでの購入"
+    },
+    "community.purchase_home.community_terms_of_service": {
+        "string": "サービス利用規約"
+    }
+}

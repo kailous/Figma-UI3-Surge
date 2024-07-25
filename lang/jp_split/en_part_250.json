@@ -1,0 +1,152 @@
+{
+    "file_permissions_modal.share_as.copy_dev_mode_link": {
+        "string": "開発モードへのリンクをコピー"
+    },
+    "file_permissions_modal.share_as.copy_prototype_link": {
+        "string": "プロトタイプへのリンクをコピー"
+    },
+    "file_permissions_modal.share_as.dev_mode.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "file_permissions_modal.share_as.dev_mode.learn_more": {
+        "string": "詳細情報"
+    },
+    "file_permissions_modal.share_as.dev_mode.open_dev_mode": {
+        "string": "開発モードを開く"
+    },
+    "file_permissions_modal.share_as.embed": {
+        "string": "埋め込みコードを取得"
+    },
+    "file_permissions_modal.share_as.google_classroom": {
+        "string": "Google Classroomに共有"
+    },
+    "file_permissions_modal.share_as.google_device": {
+        "string": "Google Meetデバイスにキャストする"
+    },
+    "file_permissions_modal.share_as.google_device.end_now": {
+        "string": "今すぐ終了"
+    },
+    "file_permissions_modal.share_as.google_device.enter_code": {
+        "string": "キャストの方法"
+    },
+    "file_permissions_modal.share_as.google_device.open_session_countdown": {
+        "string": "{remainingHours, plural, other {オープンセッション終了まで{remainingHours}時間{remainingMinutes}分です。{end_now}}}"
+    },
+    "file_permissions_modal.share_as.google_device.open_session_ended": {
+        "string": "オープンセッションを終了しました"
+    },
+    "file_permissions_modal.share_as.google_device.reset_code": {
+        "string": "リセット"
+    },
+    "file_permissions_modal.share_as.google_device.screenshare_code.description": {
+        "string": "デバイスでミーティングを開始し、{location}に移動して、このコードを入力します。"
+    },
+    "file_permissions_modal.share_as.google_device.screenshare_code.description_unique_code": {
+        "string": "デバイスごとに異なるコードが必要です。{reset}ボタンを使って新しいコードを生成するか、10分間待機してください。"
+    },
+    "file_permissions_modal.share_as.google_device.screenshare_code.location": {
+        "string": "アプリ → Figma → 既存ファイルを結合"
+    },
+    "file_permissions_modal.share_as.link_copied": {
+        "string": "リンクをコピーしました"
+    },
+    "file_permissions_modal.share_as.more": {
+        "string": "その他"
+    },
+    "file_permissions_modal.share_as.open_prototype_settings": {
+        "string": "プロトタイプの設定を開く"
+    },
+    "file_permissions_modal.share_as.publish": {
+        "string": "コミュニティに公開"
+    },
+    "file_permissions_modal.share_as.publish.published": {
+        "string": "コミュニティファイルを更新"
+    },
+    "file_permissions_modal.share_as.publish_template": {
+        "string": "テンプレートを公開"
+    },
+    "file_permissions_modal.share_as.publish_template.published": {
+        "string": "テンプレートを更新"
+    },
+    "file_permissions_modal.share_as.share_a_dev_mode_link": {
+        "string": "開発モードへのリンクを共有"
+    },
+    "file_permissions_modal.share_as.share_settings": {
+        "string": "設定を共有"
+    },
+    "file_permissions_modal.share_as.share_this_dev_mode_link": {
+        "string": "この開発モードへのリンクを共有することで、コレボレーターがデザインの検査やコードのコピーをしたり、プラグインを使って有用なツールに接続したりできるようにします。{learnMore}"
+    },
+    "file_permissions_modal.share_as.will_open_in_new_tab": {
+        "string": "新しいタブで開きます"
+    },
+    "file_permissions_modal.share_in_dev_mode": {
+        "string": "開発モードで共有"
+    },
+    "file_permissions_modal.share_link": {
+        "string": "リンクを共有"
+    },
+    "file_permissions_modal.share_these_slides": {
+        "string": "これらのスライドを共有"
+    },
+    "file_permissions_modal.share_this_board": {
+        "string": "このボードを共有"
+    },
+    "file_permissions_modal.share_this_branch": {
+        "string": "このブランチを共有"
+    },
+    "file_permissions_modal.share_this_file": {
+        "string": "このファイルを共有"
+    },
+    "file_permissions_modal.share_this_prototype": {
+        "string": "このプロトタイプを共有"
+    },
+    "file_permissions_modal.share_to_selection_no_name": {
+        "string": "選択範囲まで共有"
+    },
+    "file_permissions_modal.share_to_selection_selection_name": {
+        "string": "選択範囲「{selectionName}」まで共有"
+    },
+    "file_permissions_modal.tab.publish": {
+        "string": "公開"
+    },
+    "file_permissions_modal.viewer_permission_changed": {
+        "string": "閲覧者権限が変更されました"
+    },
+    "file_permissions_modal.who_has_access": {
+        "string": "アクセス権を持つユーザー"
+    },
+    "folder_access_row.anyone_in_container_can_edit_this_project": {
+        "string": "{containerName}の誰でもこのプロジェクトを編集できます"
+    },
+    "folder_access_row.anyone_in_container_can_view_this_project": {
+        "string": "{containerName}の誰でもこのプロジェクトを閲覧できます"
+    },
+    "folder_access_row.anyone_in_project_name": {
+        "string": "{projectName}の全員"
+    },
+    "folder_access_row.enable_team_access": {
+        "string": "チームアクセスを有効にする"
+    },
+    "folder_access_row.everyone_at_team_name_can_access_this_project": {
+        "string": "{teamName}のすべてのメンバーがこのプロジェクトにアクセスできます。"
+    },
+    "folder_access_row.everyone_at_this_team_can_access_this_project": {
+        "string": "このチームのすべてのメンバーがこのプロジェクトにアクセスできます。"
+    },
+    "folder_access_row.give_access": {
+        "string": "アクセスを許可"
+    },
+    "folder_access_row.invite_only_members_of_team_name_cannot_access": {
+        "string": "招待限定 – {teamName}のメンバーはアクセスできません。"
+    },
+    "folder_access_row.invite_only_members_of_this_team_cannot_access": {
+        "string": "招待限定 – このチームのメンバーはアクセスできません。"
+    },
+    "folder_access_row.members_of_team_name": {
+        "string": "{teamName}のメンバー"
+    },
+    "folder_access_row.members_of_this_team": {
+        "string": "このチームのメンバー"
+    }
+}

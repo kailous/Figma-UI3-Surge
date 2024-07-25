@@ -1,0 +1,152 @@
+{
+    "activity_log.event.fig_file_create_folder_name": {
+        "string": "在{folder}项目中创建了新文件"
+    },
+    "activity_log.event.fig_file_duplicate": {
+        "string": "复制了文件{name}"
+    },
+    "activity_log.event.fig_file_export": {
+        "string": "导出了文件{name}的内容"
+    },
+    "activity_log.event.fig_file_link_access_change.edit": {
+        "string": "更改了{name}以允许所有有链接的人编辑"
+    },
+    "activity_log.event.fig_file_link_access_change.inherit": {
+        "string": "删除了{name}的链接访问"
+    },
+    "activity_log.event.fig_file_link_access_change.org_edit": {
+        "string": "更改了{name}以允许{orgName}的所有人编辑"
+    },
+    "activity_log.event.fig_file_link_access_change.org_edit.link": {
+        "string": "更改了{name}以允许有链接的{orgName}的所有人编辑"
+    },
+    "activity_log.event.fig_file_link_access_change.org_view": {
+        "string": "更改了{name}以允许{orgName}的所有人查看"
+    },
+    "activity_log.event.fig_file_link_access_change.org_view.link": {
+        "string": "更改了{name}以允许有链接的{orgName}的所有人查看"
+    },
+    "activity_log.event.fig_file_link_access_change.view": {
+        "string": "更改了{name}以允许所有有链接的人查看"
+    },
+    "activity_log.event.fig_file_link_expiration_change.add_expiration": {
+        "string": "设置了文件{name}的公开链接有效期"
+    },
+    "activity_log.event.fig_file_link_expiration_change.change_expiration": {
+        "string": "更新了文件{name}的公开链接有效期"
+    },
+    "activity_log.event.fig_file_link_expiration_change.remove_expiration": {
+        "string": "删除了文件{name}的公开链接有效期"
+    },
+    "activity_log.event.fig_file_move": {
+        "string": "将文件{name}移到了草稿文件夹"
+    },
+    "activity_log.event.fig_file_move_folder_name": {
+        "string": "将文件{name}移到了{folder}项目"
+    },
+    "activity_log.event.fig_file_permanent_delete": {
+        "string": "永久删除了{name}"
+    },
+    "activity_log.event.fig_file_permanent_undelete": {
+        "string": "恢复了{name}"
+    },
+    "activity_log.event.fig_file_proto_link_access_change.inherit": {
+        "string": "删除了{name}的原型链接访问"
+    },
+    "activity_log.event.fig_file_proto_link_access_change.null": {
+        "string": "禁用了{name}的单独原型链接访问"
+    },
+    "activity_log.event.fig_file_proto_link_access_change.org_view": {
+        "string": "更改了{name}以允许{orgName}的所有人查看原型链接"
+    },
+    "activity_log.event.fig_file_proto_link_access_change.view": {
+        "string": "更改了{name}以允许所有有原型链接的人查看"
+    },
+    "activity_log.event.fig_file_rename": {
+        "string": "将文件名从{oldName}更改为{name}"
+    },
+    "activity_log.event.fig_file_restore": {
+        "string": "从回收站恢复了{name}"
+    },
+    "activity_log.event.fig_file_save_as": {
+        "string": "将{name}保存为.fig文件"
+    },
+    "activity_log.event.fig_file_set_password.file": {
+        "string": "设置了文件{name}的密码"
+    },
+    "activity_log.event.fig_file_set_password.prototype": {
+        "string": "设置了{name}的原型链接访问密码"
+    },
+    "activity_log.event.fig_file_trash": {
+        "string": "将{name}移到了回收站"
+    },
+    "activity_log.event.fig_file_unset_password": {
+        "string": "取消了文件{name}的密码"
+    },
+    "activity_log.event.fig_file_view": {
+        "string": "查看了{name}"
+    },
+    "activity_log.event.fig_file_view.embedded": {
+        "string": "查看了嵌入在{location}的{name}"
+    },
+    "activity_log.event.fig_file_view_external": {
+        "string": "查看了公开的外部文件"
+    },
+    "activity_log.event.fig_file_view_external.org": {
+        "string": "查看了外部组织{orgName}的公开文件"
+    },
+    "activity_log.event.fig_file_view_external.team": {
+        "string": "查看了外部团队{teamName}的公开文件"
+    },
+    "activity_log.event.fig_file_view_prototype": {
+        "string": "查看了{name}的原型"
+    },
+    "activity_log.event.fig_file_view_prototype.embedded": {
+        "string": "查看了嵌入在{location}的{name}原型"
+    },
+    "activity_log.event.fig_file_view_prototype_external": {
+        "string": "查看了公开的外部原型文件"
+    },
+    "activity_log.event.fig_file_view_prototype_external.org": {
+        "string": "查看了外部组织{orgName}的公开原型文件"
+    },
+    "activity_log.event.fig_file_view_prototype_external.team": {
+        "string": "查看了外部团队{teamName}的公开原型文件"
+    },
+    "activity_log.event.fig_file_viewer_access_change": {
+        "string": "更改了{name}以允许查看者复制、共享和导出文件"
+    },
+    "activity_log.event.fig_file_viewer_access_change.restricted": {
+        "string": "更改了{name}以不允许查看者复制、共享和导出文件"
+    },
+    "activity_log.event.folder_create": {
+        "string": "在{teamName}团队中创建了{folderName}项目"
+    },
+    "activity_log.event.folder_delete": {
+        "string": "删除了项目{folderName}"
+    },
+    "activity_log.event.folder_export": {
+        "string": "将项目{folderName}导出了组织外部"
+    },
+    "activity_log.event.folder_import": {
+        "string": "将项目{folderName}导入了组织"
+    },
+    "activity_log.event.folder_move": {
+        "string": "将项目{folderName}移到了{teamName}团队"
+    },
+    "activity_log.event.folder_rename": {
+        "string": "将项目名从{oldName}更改为{folderName}"
+    },
+    "activity_log.event.folder_team_access_change.edit": {
+        "string": "更改了{folderName}项目以编辑团队访问"
+    },
+    "activity_log.event.folder_team_access_change.invite_only": {
+        "string": "删除了{folderName}项目的团队访问"
+    },
+    "activity_log.event.folder_team_access_change.view_only": {
+        "string": "更改了{folderName}项目以查看团队访问"
+    },
+    "activity_log.event.folder_transfer_approved": {
+        "string": "批准了将项目{folderName}转移到组织"
+    }
+}

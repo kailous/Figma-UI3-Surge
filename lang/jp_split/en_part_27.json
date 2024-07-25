@@ -1,0 +1,152 @@
+{
+    "billing_emails_modal.billing_emails_info.quarterly_true_ups": {
+        "string": "四半期のトゥルーアップ"
+    },
+    "billing_emails_modal.billing_emails_info.quarterly_true_ups_description_1.seat_rename": {
+        "string": "トゥルーアップでは、次回の請求時にお支払いいただくフルシート数をご確認いただけます。"
+    },
+    "billing_emails_modal.billing_emails_info.quarterly_true_ups_description_2": {
+        "string": "トゥルーアップは、サブスクリプションの開始日から3か月ごとにメールで通知されます。また、それぞれのトゥルーアップの28日前、2週間前、3日前にリマインダーが送信されます。"
+    },
+    "billing_emails_modal.billing_emails_info.subscription_date": {
+        "string": "{subscriptionStart}"
+    },
+    "billing_emails_modal.billing_emails_info.what_billing_emails": {
+        "string": "どのような請求メールを受け取りますか?"
+    },
+    "bindings.create_a_figjam_account": {
+        "string": "FigJamで作業するためのアカウントを作成してください"
+    },
+    "bindings.embed_paste_notice": {
+        "string": "埋め込みをFigmaに貼り付けられません"
+    },
+    "bindings.gif_resized_and_converted_to_static_image": {
+        "string": "GIFが大きすぎます。画像はサイズ変更されて静的画像に変換されました。"
+    },
+    "bindings.gif_resized_and_converted_to_static_image_learn_more": {
+        "string": "詳細情報"
+    },
+    "bindings.hyperlink_popup_link_to_deleted_object": {
+        "string": "削除されたオブジェクトへのリンク"
+    },
+    "bindings.hyperlink_popup_link_to_unloaded_from_in_this_file": {
+        "string": "このファイルのフレーム"
+    },
+    "bindings.image_resized_message": {
+        "string": "画像をサイズ変更済み"
+    },
+    "bindings.image_resized_message_learn_more": {
+        "string": "詳細情報"
+    },
+    "bindings.link_preview_paste_notice": {
+        "string": "リンクプレビューをFigmaに貼り付けられません"
+    },
+    "bindings.new_local_font_visual_bell": {
+        "string": "{totalFonts, plural, other {新しいフォント: {firstFont}、その他{numAdditionalFonts}種類}}"
+    },
+    "bindings.no_file_access": {
+        "string": "このファイルにはアクセスできません"
+    },
+    "bindings.paste_as_layers": {
+        "string": "レイヤーとして貼り付け"
+    },
+    "bindings.revert": {
+        "string": "戻す"
+    },
+    "bindings.stack_shortcut_slides_mode_toggle": {
+        "string": "オートレイアウトを管理するためにデザインモードに切り替えました"
+    },
+    "bindings.stack_shortcut_slides_mode_toggle_return": {
+        "string": "スライドモードに戻る"
+    },
+    "bindings.undo": {
+        "string": "元に戻す"
+    },
+    "bindings.widget_paste_notice": {
+        "string": "ウィジェットをFigmaに貼り付けることはできません"
+    },
+    "bindings.widget_paste_notice_slides": {
+        "string": "ウィジェットをFigma Slidesに貼り付けることはできません"
+    },
+    "branching.chunk_details.added": {
+        "string": "追加済み"
+    },
+    "branching.chunk_details.component_set_properties_changed": {
+        "string": "コンポーネントセットプロパティを変更済み"
+    },
+    "branching.chunk_details.no_changes": {
+        "string": "変更なし"
+    },
+    "branching.chunk_details.property_removed": {
+        "string": "プロパティを削除済み"
+    },
+    "branching.chunk_details.property_added": {
+        "string": "プロパティを追加済み"
+    },
+    "branching.chunk_details.guid_property_applied": {
+        "string": "{propertyLabel}を適用しました"
+    },
+    "branching.chunk_details.property_changed": {
+        "string": "プロパティを変更済み"
+    },
+    "branching.chunk_details.guid_property_modified": {
+        "string": "{propertyLabel}を変更済み"
+    },
+    "branching.chunk_details.guid_property_removed": {
+        "string": "{propertyLabel}を削除しました"
+    },
+    "branching.chunk_details.removed": {
+        "string": "削除済み"
+    },
+    "bug_reporter.announcement.content": {
+        "string": "このメニューまたはクイックアクションの「問題を報告」で、問題を報告できるようになりました。"
+    },
+    "bug_reporter.announcement.title": {
+        "string": "バグが見つかりましたか?"
+    },
+    "bug_reporter.asana_hint": {
+        "string": "バグにすでにAsanaタスクがある場合は、レポートにリンクを貼り付けて環境メタデータを添付します。"
+    },
+    "bug_reporter.asana_link": {
+        "string": "Asanaで開く"
+    },
+    "bug_reporter.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "bug_reporter.drop_attachments": {
+        "string": "画像、動画、GIFをドラッグアンドドロップして追加します。"
+    },
+    "bug_reporter.error_invalid_asana_url": {
+        "string": "無効なAsana URLです"
+    },
+    "bug_reporter.long_submitting_visual_bell": {
+        "string": "この処理には時間がかかることがあります。バックグラウンドで作業を継続できます。"
+    },
+    "bug_reporter.modal.asana_link_placeholder": {
+        "string": "Asanaリンク"
+    },
+    "bug_reporter.modal.cancel": {
+        "string": "キャンセル"
+    },
+    "bug_reporter.modal.description": {
+        "string": "説明"
+    },
+    "bug_reporter.modal.description_placeholder": {
+        "string": "再現手順、期待される結果と実際の結果、リンク、スクリーンショット(貼り付けるか、以下にアップロードしてください)を含め、バグの詳細情報をご提供ください。"
+    },
+    "bug_reporter.modal.images_and_videos": {
+        "string": "画像と動画"
+    },
+    "bug_reporter.modal.include_filekey": {
+        "string": "バグレポートにファイルのURLを含める"
+    },
+    "bug_reporter.modal.include_filekey_info": {
+        "string": "ファイルにプライベートまたはセンシティブな内容が含まれている場合にチェックマークを外します"
+    },
+    "bug_reporter.modal.loading": {
+        "string": "読み込んでいます..."
+    },
+    "bug_reporter.modal.product_area": {
+        "string": "製品分野"
+    }
+}

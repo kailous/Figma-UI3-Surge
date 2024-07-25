@@ -1,0 +1,152 @@
+{
+    "community.seller.resource_is_private": {
+        "string": "このリソースは非公開なようです。販売するには、コミュニティのすべてのユーザーに公開する必要があります。"
+    },
+    "community.seller.resource_metrics_coming_soon": {
+        "string": "リソースメトリクスは近日公開"
+    },
+    "community.seller.resources_for_sale": {
+        "string": "{numResources, plural, other {{numResources}個のリソースを販売中}}"
+    },
+    "community.seller.resources_youre_selling_will_appear_here": {
+        "string": "販売中のリソースがここに表示されます"
+    },
+    "community.seller.sell_on_community": {
+        "string": "これをコミュニティで販売"
+    },
+    "community.seller.sell_on_community_v2": {
+        "string": "コミュニティで販売"
+    },
+    "community.seller.set_up_stripe": {
+        "string": "Stripeをセットアップ"
+    },
+    "community.seller.setup_complete": {
+        "string": "セットアップ完了"
+    },
+    "community.seller.stripe_loading_text": {
+        "string": "Stripeを読み込んでいます..."
+    },
+    "community.seller.stripe_needs_your_attention": {
+        "string": "Stripeの確認が必要です。"
+    },
+    "community.seller.subscribers_label": {
+        "string": "{num, plural, other {サブスクライバー数}}"
+    },
+    "community.seller.teams_cannot_sell": {
+        "string": "チームとして公開しようとしているため、価格設定は無効です。このリソースを販売するには、ドラフトから公開してください。"
+    },
+    "community.seller.this_page_is_private": {
+        "string": "このページは現在非公開です"
+    },
+    "community.seller.to_publish_your_first_resource": {
+        "string": "最初に支払ったプラグインやウィジェット、ファイルを公開するには、右上の[公開]をクリックして、詳細を追加し、価格を選択してから、確認用に送信します。"
+    },
+    "community.seller.total_earned": {
+        "string": "総収益額"
+    },
+    "community.seller.total_purchases": {
+        "string": "合計購入回数"
+    },
+    "community.seller.total_purchases_includes": {
+        "string": "新しいサブスクリプション、更新、1回払いのすべてを含んでいます。"
+    },
+    "community.seller.total_views": {
+        "string": "総閲覧数"
+    },
+    "community.seller.unable_to_launch_stripe_onboarding_please_check_your_details": {
+        "string": "Stripeのオンボーディングを開始できません。詳細を確認し、もう一度お試しください。"
+    },
+    "community.seller.unable_to_open_stripe_dashboard": {
+        "string": "Stripeダッシュボードが開けません"
+    },
+    "community.seller.usd": {
+        "string": "米ドル"
+    },
+    "community.seller.view_payout_statements": {
+        "string": "支払明細書を表示"
+    },
+    "community.seller.view_stripe_dashboard": {
+        "string": "Stripeダッシュボードを表示"
+    },
+    "community.seller.views_label": {
+        "string": "{num, plural, other {閲覧数}}"
+    },
+    "community.seller.visit_stripe": {
+        "string": "Stripeにアクセス"
+    },
+    "community.seller.well_show_you_stripe_metrics": {
+        "string": "各リソースの状態が分かるStripeメトリックスを示します。"
+    },
+    "community.seller.what_are_the_fees": {
+        "string": "いくら課金されますか?"
+    },
+    "community.seller.when_you_publish_a_paid_resource_you_cant_make_it_free_again": {
+        "string": "このリソースをいま課金すると、後で無料にすることはできません。"
+    },
+    "community.seller.why_link": {
+        "string": "その理由は?"
+    },
+    "community.seller.working_on_bringing_you_more_in_depth_metrics": {
+        "string": "支払い済みリソースについてさらに深くお届けする方法に取り組んでいます。ご期待ください。"
+    },
+    "community.seller.you_can_only_publish_paid_resources_from_a_personal_profile": {
+        "string": "有料リソースは、コミュニティで販売が承認されているパーソナルプロフィールからのみ公開できます。{learnMoreLink}"
+    },
+    "community.seller.you_can_resolve": {
+        "string": "Stripeダッシュボードから問題を解決できます。"
+    },
+    "community.seller.you_may_be_eligible_with_link": {
+        "string": "コミュニティでプラグインやウィジェットを販売できる可能性があります。販売を始めるには、Stripeアカウントをセットアップしてください。{learnMoreLink}"
+    },
+    "community.seller.youre_all_set_up_to_sell_on_community": {
+        "string": "コミュニティで販売できる準備が整いました"
+    },
+    "config_feature_announcement.add_auto_layout_to_full_design_elements_with_a_single_click_plus_auto_layout_properties_are_now_more_responsive_by_default": {
+        "string": "ワンクリックでデザイン要素全体にオートレイアウトを追加できます。加えて、デフォルトで、オートレイアウトプロパティの応答性がさらに良くなりました。"
+    },
+    "config_feature_announcement.and_much_more": {
+        "string": "さらに多くの機能が..."
+    },
+    "config_feature_announcement.auto_layout_playground": {
+        "string": "オートレイアウトプレイグランド"
+    },
+    "config_feature_announcement.bridge_the_designer_developer_gap_with_new_tools": {
+        "string": "開発者は、新しいビューやステータスによって、開発の準備ができているもの、変更されているもの、完了したものを明確に区別できます。さらに、ベータ期間が終了したCode Connectによって、独自のコードをFigmaに取り込むことができます。"
+    },
+    "config_feature_announcement.click_to_learn_more": {
+        "string": "クリックして詳細を表示→"
+    },
+    "config_feature_announcement.co_create_dynamic_slide_decks_that_spark_conversation_in_our_new_presentation_tool_for_teams": {
+        "string": "Figma Slidesの高度な編集ツールとその双方向性により、プレゼンテーションのデザインと共同制作が簡単になります。"
+    },
+    "config_feature_announcement.dev_mode_playground": {
+        "string": "開発モードプレイグラウンド"
+    },
+    "config_feature_announcement.everything_we_launched_at_config": {
+        "string": "Config 2024での発表のすべて"
+    },
+    "config_feature_announcement.experience_a_more_fluid_and_consistent_workflow_with_our_newly_redesigned_user_interface_now_everything_you_need_is_right_where_you_expect_it_across_figma_products": {
+        "string": "人間工学に基づいて再編され、より使いやすくなったインターフェイスにより、作業により集中できます。"
+    },
+    "config_feature_announcement.figma_redesigned": {
+        "string": "Figma、デザインを一新"
+    },
+    "config_feature_announcement.get_organized_with_pages_in_fig_jam": {
+        "string": "FigJamのページを使って整理をする"
+    },
+    "config_feature_announcement.introducing_figma_slides": {
+        "string": "Figma Slidesによるプレゼンテーション"
+    },
+    "config_feature_announcement.join_the_waitlist": {
+        "string": "待機リストに登録する"
+    },
+    "config_feature_announcement.joined": {
+        "string": "登録済み"
+    },
+    "config_feature_announcement.jumpstart_designs_with_ui_kits": {
+        "string": "UIキットでデザインをすばやくスタート"
+    },
+    "config_feature_announcement.meet_a_more_intuitive_auto_layout": {
+        "string": "さらに直感的になったオートレイアウトを紹介します"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "org_admin_settings.enterprise_installer_label": {
+        "string": "Windows版企業向けインストーラー"
+    },
+    "org_admin_settings.enterprise_installer_label_mac": {
+        "string": "macOS版企業向けインストーラー"
+    },
+    "org_admin_settings.enterprise_installer_modal_copy": {
+        "string": "エンタープライズプランのユーザー向けに、FigmaはWindows PC用のMSIインストーラーを提供しています。このMSIを使うと、特定のコンピューターの全ユーザーのProgram FilesフォルダーにFigmaがインストールされますが、自動アップデートは行われません。"
+    },
+    "org_admin_settings.enterprise_installer_modal_copy_mac": {
+        "string": "エンタープライズプランのユーザー向けに、FigmaはmacOS用のPKGインストーラーを提供しています。"
+    },
+    "org_admin_settings.enterprise_installer_modal_link": {
+        "string": "詳細は、ヘルプセンターをご覧ください。"
+    },
+    "org_admin_settings.enterprise_installer_modal_release_date": {
+        "string": "リリース日: {releaseDate}"
+    },
+    "org_admin_settings.enterprise_installer_modal_release_version": {
+        "string": "バージョン: {version}"
+    },
+    "org_admin_settings.invoice_table.dev_mode_seats": {
+        "string": "開発モードシート数"
+    },
+    "org_admin_settings.settings_tab.billing.change_payment_method.description": {
+        "string": "登録済み支払い方法の変更と更新"
+    },
+    "org_admin_settings.settings_tab.billing.change_payment_method.label": {
+        "string": "支払い方法を変更"
+    },
+    "org_admin_settings.settings_tab.billing.payment_details.description": {
+        "string": "登録されている支払い方法と請求先住所を更新します。"
+    },
+    "org_admin_settings.settings_tab.billing.payment_details.label": {
+        "string": "支払い情報"
+    },
+    "org_admin_settings.settings_tab.billing.update_invoice_details.description": {
+        "string": "請求書に表示される配送先住所を更新します。"
+    },
+    "org_admin_settings.settings_tab.billing.update_invoice_details.label": {
+        "string": "請求書の詳細"
+    },
+    "org_admin_settings.settings_tab.billing.update_invoice_details.shipping_address_required_error": {
+        "string": "配送先住所が必要です。"
+    },
+    "org_admin_settings.settings_tab.billing.update_invoice_details.success": {
+        "string": "配送先住所の更新が完了しました。"
+    },
+    "org_admin_tab.abandoned_drafts": {
+        "string": "破棄されたドラフト"
+    },
+    "org_admin_tab.activity": {
+        "string": "アクティビティー"
+    },
+    "org_admin_tab.billing": {
+        "string": "請求"
+    },
+    "org_admin_tab.content": {
+        "string": "コンテンツ"
+    },
+    "org_admin_tab.dashboard": {
+        "string": "ダッシュボード"
+    },
+    "org_admin_tab.members": {
+        "string": "メンバー"
+    },
+    "org_admin_tab.resources": {
+        "string": "リソース"
+    },
+    "org_admin_tab.settings": {
+        "string": "設定"
+    },
+    "org_admin_tab.teams": {
+        "string": "チーム"
+    },
+    "org_admin_tab.workspaces": {
+        "string": "ワークスペース"
+    },
+    "org_dashboard.billing": {
+        "string": "請求"
+    },
+    "org_dashboard.settings": {
+        "string": "設定"
+    },
+    "org_dashboard.total_members": {
+        "string": "メンバー総数"
+    },
+    "org_dashboard.total_teams": {
+        "string": "チーム総数"
+    },
+    "resource_rename_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "resource_rename_modal.edit_description": {
+        "string": "説明を編集"
+    },
+    "resource_rename_modal.lengthCount": {
+        "string": "{currentLength}/{maxLength}"
+    },
+    "resource_rename_modal.project.placeholder": {
+        "string": "プロジェクト名を入力"
+    },
+    "resource_rename_modal.project.submit": {
+        "string": "プロジェクト名を変更"
+    },
+    "resource_rename_modal.save": {
+        "string": "保存"
+    },
+    "resource_rename_modal.team.placeholder": {
+        "string": "チーム名を入力"
+    },
+    "resource_rename_modal.team.submit": {
+        "string": "チーム名を変更"
+    },
+    "resource_rename_modal.team_description.placeholder": {
+        "string": "チームの説明を入力"
+    },
+    "resource_rename_modal.team_description.submit": {
+        "string": "完了"
+    },
+    "resource_rename_modal.team_description.title": {
+        "string": "説明を変更"
+    },
+    "resource_rename_modal.title": {
+        "string": "{initialName}の名前を変更"
+    },
+    "resources_tab.approved_libraries.library_already_approved_by_org_admin": {
+        "string": "{orgName}の管理者が承認済み"
+    },
+    "resources_tab.approved_libraries.library_approved_by_org_admin": {
+        "string": "{orgName}の管理者が承認"
+    },
+    "resources_tab.approved_libraries.library_approved_by_workspace_admin": {
+        "string": "ワークスペース{workspaceName}の管理者が承認"
+    },
+    "resources_tab.approved_libraries.set_as_approved": {
+        "string": "承認済みライブラリとして設定"
+    },
+    "resources_tab.approved_libraries_toggle.mark_as_approved_error": {
+        "string": "{resourceName}で「{libraryName}」を承認済みにするときにエラーが発生しました"
+    },
+    "resources_tab.approved_libraries_toggle.mark_as_approved_success": {
+        "string": "{resourceName}で{libraryName}を承認済みにするときにエラーが発生しました"
+    },
+    "resources_tab.approved_libraries_toggle.unmark_as_approved_error": {
+        "string": "{resourceName}で「{libraryName}」を未承認にするときにエラーが発生しました"
+    },
+    "resources_tab.approved_libraries_toggle.unmark_as_approved_success": {
+        "string": "{resourceName}で{libraryName}が未承認になりました"
+    }
+}

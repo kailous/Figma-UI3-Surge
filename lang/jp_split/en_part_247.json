@@ -1,0 +1,152 @@
+{
+    "payments_modal.you_no_longer_have_access_to_your_organization": {
+        "string": "組織にアクセスできなくなりました"
+    },
+    "payments_modal.you_ve_reached_your_plan_s_m_a_x_f_r_e_e_editors_editor_limit_user_text_you_ve_invited_will_be_granted_view_access_but_they_won_t_be_able_to_edit.seat_rename": {
+        "string": "トライアルには、フル編集アクセス権のあるシートが最大{maxFreeEditors}人分含まれています。{userText}もファイルを表示し、コメントすることはできますが、編集はできません。"
+    },
+    "payments_modal.your_files_are_safe_but_youll_need_to_pay": {
+        "string": "ファイルは安全ですが、{orgName}に再度アクセスするには、{dueDate}が期限の請求書の代金をお支払いいただく必要があります。"
+    },
+    "payments_modal.your_professional_team_plan_is_no_longer_active_please": {
+        "string": "プロフェッショナルチームプランが有効ではなくなりました。引き続き{teamName}でファイルを編集するには、請求情報を更新してください。"
+    },
+    "payments_modal.your_team": {
+        "string": "チーム"
+    },
+    "payments_modal.your_team_is_locked": {
+        "string": "チームがロックされています"
+    },
+    "branch_info_row.link_sharing_is_disabled_when_the_main_file_is_invite_only": {
+        "string": "メインファイルが招待限定の場合、リンク共有は無効です。"
+    },
+    "branch_info_row.link_sharing_is_restricted_by_access_level_of_the_main_file": {
+        "string": "リンク共有は、メインファイルのアクセスレベルにより制限されています。"
+    },
+    "branch_info_row.link_sharing_outside_of_org_name_is_restricted_by_access_level_of_the_main_file": {
+        "string": "{orgName}外部でのリンク共有は、メインファイルのアクセスレベルにより制限されています。"
+    },
+    "confirm_reduce_link_access.are_you_sure_you_want_to_change_the_public_link_access_of_this_file_you_ll_no_longer_be_able_to_edit_this_file_or_change_this_back": {
+        "string": "このファイルの公開リンクアクセスを変更してよろしいですか? 変更すると、このファイルの編集と、編集を元に戻す操作を実行できなくなります。"
+    },
+    "confirm_reduce_link_access.change_settings": {
+        "string": "設定を変更"
+    },
+    "confirm_reduce_link_access.change_sharing_settings_for_this_file": {
+        "string": "このファイルの共有設定を変更しますか?"
+    },
+    "confirm_reduce_link_access.continue": {
+        "string": "続行"
+    },
+    "confirm_reduce_link_access.learn_more": {
+        "string": "詳細情報"
+    },
+    "confirm_reduce_link_access.modal_body_text": {
+        "string": "このファイルにはブランチがあることに注意してください。メインファイルの共有設定をより厳しく制限した場合、その変更は、ファイル内のすべてのブランチにも適用されます。"
+    },
+    "confirm_remove_expiration_modal.body.set_by_missing_user": {
+        "string": "有効期限は、一時的なアクセスのみを許可するこのパブリックリンクに設定されています。削除する前にユーザーに通知できます。"
+    },
+    "confirm_remove_expiration_modal.body.set_by_valid_user": {
+        "string": "{name}さんが一時的なアクセスのみを許可するこのパブリックリンクを設定しました。削除する前にユーザーに通知できます。"
+    },
+    "confirm_remove_expiration_modal.confirmation": {
+        "string": "有効期限を削除"
+    },
+    "confirm_remove_expiration_modal.header": {
+        "string": "この有効期限を削除しますか?"
+    },
+    "confirm_remove_role.are_you_sure_you_want_to_leave_file_name_you_may_not_be_able_to_access_this_file_anymore": {
+        "string": "{fileName}の使用を終了してよろしいですか? 今後はこのファイルにアクセスできなくなります。"
+    },
+    "confirm_remove_role.are_you_sure_you_want_to_leave_folder_name_you_may_not_be_able_to_access_files_in_this_project_anymore": {
+        "string": "{folderName}の使用を終了してよろしいですか? 今後はこのプロジェクトのファイルにアクセスできなくなります。"
+    },
+    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_files_in_this_project_anymore": {
+        "string": "{userHandle}を削除してよろしいですか? 今後はこのプロジェクトのファイルにアクセスできなくなります。"
+    },
+    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_file_anymore": {
+        "string": "このまま続けると、{userHandle}は直ちにこのファイルへの直接アクセス権を失います。"
+    },
+    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_main_file_and_the_branches_anymore": {
+        "string": "このまま続けると、{userHandle}は直ちにこのファイルおよびブランチへの直接アクセス権を失います。"
+    },
+    "confirm_remove_role.confirm_title_file": {
+        "string": "ファイルへのアクセス権を削除"
+    },
+    "confirm_remove_role.leave": {
+        "string": "使用終了"
+    },
+    "confirm_remove_role.remove": {
+        "string": "削除"
+    },
+    "drafts_edit_education_banner.description": {
+        "string": "他のユーザーはドラフトを編集できません。{nameToDisplay}がこのファイルを編集できるようにするには、ファイルを以下のプロジェクトに移動してください。"
+    },
+    "drafts_edit_education_banner.others": {
+        "string": "その他"
+    },
+    "drafts_move_banner.move_and_allow_edits": {
+        "string": "移動して編集を許可する"
+    },
+    "drafts_move_banner.move_file": {
+        "string": "ファイルを移動する"
+    },
+    "drafts_move_banner.to_add_editors_first_move_this_file_from_drafts_into_a_project.seat_rename": {
+        "string": "メンバーを編集者として招待するには、このドラフトをプロジェクトに移動します。"
+    },
+    "file_access_row.add_expiration_for_link_access": {
+        "string": "リンクの有効期間を追加"
+    },
+    "file_access_row.anyone_at_org_name": {
+        "string": "{orgName}のユーザー全員"
+    },
+    "file_access_row.anyone_at_org_name_with_the_link": {
+        "string": "{orgName}のリンクを知っているユーザー全員"
+    },
+    "file_access_row.anyone_else_with_a_prototype_link": {
+        "string": "プロトタイプリンクを知っているユーザー全員"
+    },
+    "file_access_row.anyone_with_the_link": {
+        "string": "リンクを知っているユーザー全員"
+    },
+    "file_access_row.anyone_with_the_link_and_password": {
+        "string": "リンクとパスワードを知っているユーザー全員"
+    },
+    "file_access_row.anyone_with_the_link_and_password_disabled_by_admin": {
+        "string": "リンクとパスワードを知っているユーザー全員(管理者により無効にされています)"
+    },
+    "file_access_row.anyone_with_the_link_disabled_by_admin": {
+        "string": "リンクを知っているユーザー全員(管理者により無効にされています)"
+    },
+    "file_access_row.can_access": {
+        "string": "アクセス可"
+    },
+    "file_access_row.can_edit": {
+        "string": "編集可"
+    },
+    "file_access_row.can_view": {
+        "string": "閲覧のみ"
+    },
+    "file_access_row.can_view_prototypes": {
+        "string": "プロトタイプの閲覧のみ"
+    },
+    "file_access_row.cannot_access": {
+        "string": "アクセス不可"
+    },
+    "file_access_row.expiration.24_hours": {
+        "string": "24時間"
+    },
+    "file_access_row.expiration.24_hours.timestamp": {
+        "string": "明日{time}"
+    },
+    "file_access_row.expiration.7_days": {
+        "string": "7日間"
+    },
+    "file_access_row.expiration.access_ends": {
+        "string": "アクセス期限"
+    },
+    "file_access_row.expiration.cancel": {
+        "string": "キャンセル"
+    }
+}

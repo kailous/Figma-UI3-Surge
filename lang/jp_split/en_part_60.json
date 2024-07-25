@@ -1,0 +1,152 @@
+{
+    "community.plugins.edit_resource_details.plugin": {
+        "string": "プラグインの詳細を編集"
+    },
+    "community.plugins.edit_resource_details.widget": {
+        "string": "ウィジェットの詳細を編集"
+    },
+    "community.plugins.in_review": {
+        "string": "確認中"
+    },
+    "community.plugins.learn_more_about_plugin_development": {
+        "string": "プラグイン開発の詳細情報"
+    },
+    "community.plugins.learn_more_about_widget_development": {
+        "string": "ウィジェット開発の詳細情報"
+    },
+    "community.plugins.new": {
+        "string": "新規作成"
+    },
+    "community.plugins.no_plugins_created_yet": {
+        "string": "プラグインはまだ作成されていません。"
+    },
+    "community.plugins.no_widgets_created_yet": {
+        "string": "ウィジェットはまだ作成されていません。"
+    },
+    "community.plugins.options": {
+        "string": "オプション"
+    },
+    "community.plugins.pin": {
+        "string": "ピン留めする"
+    },
+    "community.plugins.pinned": {
+        "string": "ピン留め済み"
+    },
+    "community.plugins.plugin": {
+        "string": "プラグイン"
+    },
+    "community.plugins.plugin_or_widget_issue": {
+        "string": "{resourceType}の問題"
+    },
+    "community.plugins.plugins_and_widgets_are_made_by_third_party_developers_by_using_plugins_and_widgets_you_accept_the_potential_risks_you_won_t_see_this_message_again": {
+        "string": "プラグインとウィジェットはサードパーティー開発者によって作られています。このプラグインとウィジェットを使用すると、その潜在的なリスクを受け入れることになります。このメッセージは再び表示されることはありません。"
+    },
+    "community.plugins.private_for_plugin_org": {
+        "string": "組織専用"
+    },
+    "community.plugins.private_for_plugin_org_name": {
+        "string": "{orgName}専用"
+    },
+    "community.plugins.private_for_your_organization": {
+        "string": "自分の組織専用"
+    },
+    "community.plugins.publish_new_version": {
+        "string": "新しいバージョンを公開"
+    },
+    "community.plugins.published_to_community": {
+        "string": "コミュニティに公開"
+    },
+    "community.plugins.remove": {
+        "string": "削除"
+    },
+    "community.plugins.remove_for_org_tooltip": {
+        "string": "承認リストからリソースを削除すると、{orgName}に保存できなくなります。"
+    },
+    "community.plugins.save_plugin": {
+        "string": "プラグインを保存"
+    },
+    "community.plugins.save_widget": {
+        "string": "ウィジェットを保存"
+    },
+    "community.plugins.saved": {
+        "string": "保存済み"
+    },
+    "community.plugins.saving_third_party_plugin": {
+        "string": "サードパーティプラグインを保存中"
+    },
+    "community.plugins.saving_third_party_widget": {
+        "string": "サードパーティウィジェットを保存中"
+    },
+    "community.plugins.see_all": {
+        "string": "すべて表示"
+    },
+    "community.plugins.select": {
+        "string": "選択"
+    },
+    "community.plugins.selected": {
+        "string": "選択済み"
+    },
+    "community.plugins.this_action_will_cause_your_resource_type_to_disappear_current_users_will_lose_access_to_your_resource_type_immediately_you_cannot_undo_this_action_however_if_you_publish_your_resource_type_again_later_it_will_keep_its_url": {
+        "string": "このアクションにより、{resourceType}は表示されなくなります。現在のユーザーはただちに{resourceType}にアクセスできなくなります。このアクションを元に戻すことはできません。ただし、後で{resourceType}をもう一度公開すると、そのURLは維持されます。"
+    },
+    "community.plugins.this_action_will_remove_your_public_resource_type_review_submission": {
+        "string": "このアクションを実行すると、公開{resourceType}のレビュー申請が削除されます。"
+    },
+    "community.plugins.this_action_will_remove_your_public_resource_type_review_submission_your_resource_type_will_still_be_available_to_members_of_org_name": {
+        "string": "このアクションで、公開{resourceType}確認申請が削除されます。{resourceType}は、引き続き{orgName}のメンバーにより利用可能です。"
+    },
+    "community.plugins.this_resource_is_in_review_by_figma_moderators_and_will_be_available_publicly_once_approved": {
+        "string": "このリソースはFigmaモデレーターが確認中です。承認されると公開されます。"
+    },
+    "community.plugins.try_it_out_mobile_not_supported": {
+        "string": "この機能は現時点でモバイルに対応していません。"
+    },
+    "community.plugins.unpublish_resource_type": {
+        "string": "{resourceType}の公開を取り消す"
+    },
+    "community.plugins.version_history": {
+        "string": "バージョン履歴"
+    },
+    "community.plugins.version_version_on_date": {
+        "string": "{createdAt}のバージョン{versionName}"
+    },
+    "community.plugins.widget": {
+        "string": "ウィジェット"
+    },
+    "community.plugins.withdraw": {
+        "string": "取り消す"
+    },
+    "community.plugins.withdraw_from_review": {
+        "string": "レビューを取り消す"
+    },
+    "community.plugins.you_ll_need_the_link_to_create_and_manage_your_own_plugins": {
+        "string": "自分のプラグインを作成して管理するには、{link}が必要です。"
+    },
+    "community.preset_modal.description": {
+        "string": "どのデザインファイルのアセットパネルでも、見つけることができます。"
+    },
+    "community.preset_modal.header": {
+        "string": "このUIキットは、Figma内ですでに利用できます。"
+    },
+    "community.preset_modal.make_a_copy": {
+        "string": "新しいコピーを作成"
+    },
+    "community.preset_modal.show_in_figma": {
+        "string": "Figmaでキットを表示"
+    },
+    "community.profile.creator_banner.lets_spruce_things_up": {
+        "string": "自分のリソースをアピールしましょう"
+    },
+    "community.profile.creator_banner.you_can_now_add_image_and_video_previews": {
+        "string": "他の多くのリソースの中で自分のリソースが目立つように、プレビュー画像や動画を追加できるようになりました。"
+    },
+    "community.profiles.add_a_description": {
+        "string": "説明を追加"
+    },
+    "community.profiles.add_a_location": {
+        "string": "場所を追加"
+    },
+    "community.profiles.add_instagram_handle": {
+        "string": "Instagramハンドルの追加"
+    }
+}

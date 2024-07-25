@@ -1,0 +1,152 @@
+{
+    "activity_log.filter.restored_a_team": {
+        "string": "チーム復元"
+    },
+    "activity_log.filter.saml_sso_auth": {
+        "string": "SAML SSO認証変更"
+    },
+    "activity_log.filter.saved_a_file": {
+        "string": "ファイル保存"
+    },
+    "activity_log.filter.scim_token_generated_revoked": {
+        "string": "SCIMトークン生成/取り消し"
+    },
+    "activity_log.filter.slides_setting_change": {
+        "string": "Figma Slidesの有効/無効"
+    },
+    "activity_log.filter.sso_auth": {
+        "string": "SSO認証"
+    },
+    "activity_log.filter.team_membership_changed": {
+        "string": "チームメンバーシップ変更"
+    },
+    "activity_log.filter.teams": {
+        "string": "チーム"
+    },
+    "activity_log.filter.today": {
+        "string": "今日"
+    },
+    "activity_log.filter.trashed_a_file": {
+        "string": "ファイルのごみ箱への移動"
+    },
+    "activity_log.filter.unarchived_a_branch": {
+        "string": "ブランチのアーカイブ解除"
+    },
+    "activity_log.filter.updated_a_branch": {
+        "string": "ブランチ更新"
+    },
+    "activity_log.filter.upgrade_requests_and_activity": {
+        "string": "アップグレード申請とアクティビティー"
+    },
+    "activity_log.filter.user_joined_audio_call": {
+        "string": "ユーザーの音声通話への参加"
+    },
+    "activity_log.filter.user_selected_their_own_workspace": {
+        "string": "ユーザー自身のワークスペース選択"
+    },
+    "activity_log.filter.user_session_timed_out": {
+        "string": "アイドルセッションタイムアウト"
+    },
+    "activity_log.filter.user_signed_in_signed_out": {
+        "string": "ユーザーのサインイン/サインアウト"
+    },
+    "activity_log.filter.users": {
+        "string": "ユーザー"
+    },
+    "activity_log.filter.viewed_a_file": {
+        "string": "ファイル表示"
+    },
+    "activity_log.filter.viewed_a_prototype": {
+        "string": "プロトタイプ表示"
+    },
+    "activity_log.filter.viewed_external_file": {
+        "string": "外部ファイル表示"
+    },
+    "activity_log.filter.viewed_external_prototype": {
+        "string": "外部プロトタイプ表示"
+    },
+    "activity_log.filter.viewer_permissions_changed": {
+        "string": "閲覧者権限変更"
+    },
+    "activity_log.filter.webhook_group_header": {
+        "string": "Webフック"
+    },
+    "activity_log.filter.webhooks_created": {
+        "string": "Webフック作成"
+    },
+    "activity_log.filter.webhooks_deleted": {
+        "string": "Webフック削除"
+    },
+    "activity_log.filter.webhooks_updated": {
+        "string": "Webフック更新"
+    },
+    "activity_log.filter.widget_approve_list_requested": {
+        "string": "ウィジェット承認申請"
+    },
+    "activity_log.filter.widget_approve_list_setting_changed": {
+        "string": "ウィジェット承認設定変更"
+    },
+    "activity_log.filter.widget_deleted": {
+        "string": "ウィジェット削除"
+    },
+    "activity_log.filter.widget_management": {
+        "string": "ウィジェット管理"
+    },
+    "activity_log.filter.widget_ownership_transfer": {
+        "string": "ウィジェットオーナーシップ移転"
+    },
+    "activity_log.filter.widget_published": {
+        "string": "ウィジェット公開"
+    },
+    "activity_log.filter.widget_published_updated_deleted": {
+        "string": "ウィジェット発行/更新/削除"
+    },
+    "activity_log.filter.widget_publisher_accept_remove_invite": {
+        "string": "ウィジェット公開者招待同意/削除"
+    },
+    "activity_log.filter.widget_publisher_invite": {
+        "string": "ウィジェット公開者招待"
+    },
+    "activity_log.filter.widget_publisher_remove": {
+        "string": "ウィジェット公開者削除"
+    },
+    "activity_log.filter.widget_publishers": {
+        "string": "ウィジェット公開者"
+    },
+    "activity_log.filter.widget_updated": {
+        "string": "ウィジェット更新"
+    },
+    "activity_log.filter.workspace_library_approval_changed": {
+        "string": "ワークスペースライブラリ承認変更"
+    },
+    "activity_log.filter.workspace_library_setting_changed": {
+        "string": "ワークスペースライブラリ設定変更"
+    },
+    "activity_log.filter.workspace_visibility_setting_changed": {
+        "string": "ワークスペース表示設定変更"
+    },
+    "activity_log.filter.workspaces": {
+        "string": "ワークスペース"
+    },
+    "activity_log.filter.yesterday": {
+        "string": "昨日"
+    },
+    "activity_log.repo.archived_branch_name": {
+        "string": "ブランチ{name}をアーカイブしました"
+    },
+    "activity_log.repo.archived_branch_name_from_file_name": {
+        "string": "ブランチ{name}を{fileName}からアーカイブしました"
+    },
+    "activity_log.repo.created_branch_name": {
+        "string": "ブランチ{name}を作成しました"
+    },
+    "activity_log.repo.created_branch_name_from_file_name": {
+        "string": "ブランチ{name}を{fileName}から作成しました"
+    },
+    "activity_log.repo.deleted_branch_name": {
+        "string": "ブランチ{name}を削除しました"
+    },
+    "activity_log.repo.deleted_branch_name_from_file_name": {
+        "string": "ブランチ{name}を{fileName}から削除しました"
+    }
+}

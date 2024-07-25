@@ -1,0 +1,152 @@
+{
+    "visual_bell.page_converted": {
+        "string": "ページを変換しました"
+    },
+    "visual_bell.page_deleted": {
+        "string": "ページが削除されました"
+    },
+    "visual_bell.page_deleted_problem": {
+        "string": "ページの削除中に問題が発生しました。もう一度お試しください。"
+    },
+    "visual_bell.page_duplicated": {
+        "string": "ページが複製されました"
+    },
+    "visual_bell.page_duplicated_problem": {
+        "string": "ページの複製中に問題が発生しました。もう一度お試しください。"
+    },
+    "visual_bell.pages_deleted": {
+        "string": "{pageCount, plural, other {{pageCount}ページを削除しました}}"
+    },
+    "visual_bell.parent_num_instances_detached": {
+        "string": "{numInstances, plural, other {親インスタンスが切り離されました}}"
+    },
+    "visual_bell.paste_absolute_position": {
+        "string": "{layerName}が絶対位置に設定されました"
+    },
+    "visual_bell.paste_from_clipboard_failed": {
+        "string": "クリップボードからの貼り付けが失敗しました。"
+    },
+    "visual_bell.paste_mobile": {
+        "string": "クリップボードの内容を貼り付けました"
+    },
+    "visual_bell.pasting": {
+        "string": "貼り付け中…"
+    },
+    "visual_bell.pasting_inside_the_current_selection_is_not_possible": {
+        "string": "現在の選択範囲内での貼り付けは実行できません。"
+    },
+    "visual_bell.please_remove_component_symbol_name_from_this_selection": {
+        "string": "コンポーネント{symbolName}をこの選択範囲から削除してください"
+    },
+    "visual_bell.property_defaults_updated": {
+        "string": "プロパティのデフォルトが更新されました"
+    },
+    "visual_bell.prototype_flows_hidden": {
+        "string": "プロトタイプフローが非表示になりました"
+    },
+    "visual_bell.prototype_flows_visible": {
+        "string": "プロトタイプフローが表示されました"
+    },
+    "visual_bell.prototyping_failed_to_load": {
+        "string": "プロトタイプを読み込むことができませんでした"
+    },
+    "visual_bell.prototyping_hidden": {
+        "string": "プロトタイプ作成非表示"
+    },
+    "visual_bell.prototyping_visible": {
+        "string": "プロトタイプ作成表示中"
+    },
+    "visual_bell.removed_orphaned_variables": {
+        "string": "{totalOrphanedVariables}個の孤立バリアブルを削除しました。"
+    },
+    "visual_bell.repaired_instance_overrides": {
+        "string": "インスタンスオーバーライドが修正されました!"
+    },
+    "visual_bell.repaired_nested_instance_bindings": {
+        "string": "ネストされたインスタンスからバリアントのバインドを削除しました"
+    },
+    "visual_bell.repaired_variables": {
+        "string": "{totalRepairedVariableCollections}個のバリアブルコレクションと{totalRepairedVariables}個のバリアブルを修復しました。"
+    },
+    "visual_bell.reresolved_variable_references": {
+        "string": "{totalReresolvedNodes}のバリアブル参照を再解決しました。"
+    },
+    "visual_bell.reset_variable_modes": {
+        "string": "選択範囲のすべてのバリアブルモードが自動に設定されています"
+    },
+    "visual_bell.restored_main_component": {
+        "string": "メインコンポーネントが復元されました"
+    },
+    "visual_bell.rulers_hidden": {
+        "string": "定規が非表示になりました"
+    },
+    "visual_bell.rulers_visible": {
+        "string": "定規が表示されました"
+    },
+    "visual_bell.sections_aren_t_quite_ready_for_figma_just_yet_we_pasted_your_section_as_a_group": {
+        "string": "Figmaでのセクションの貼り付けはサポートされていません。セクションはグループとして貼り付けられました"
+    },
+    "visual_bell.select_single_state_group": {
+        "string": "コンポーネントを1つだけ選択してください"
+    },
+    "visual_bell.set_default_emoji_skin_tone_1": {
+        "string": "👍絵文字の肌の色を更新するには、絵文字を選択するときにクリックしたままにします。"
+    },
+    "visual_bell.set_default_emoji_skin_tone_2": {
+        "string": "👍🏻絵文字の肌の色を更新するには、絵文字を選択するときにクリックしたままにします。"
+    },
+    "visual_bell.set_default_emoji_skin_tone_3": {
+        "string": "👍🏼絵文字の肌の色を更新するには、絵文字を選択するときにクリックしたままにします。"
+    },
+    "visual_bell.set_default_emoji_skin_tone_4": {
+        "string": "👍🏽絵文字の肌の色を更新するには、絵文字を選択するときにクリックしたままにします。"
+    },
+    "visual_bell.set_default_emoji_skin_tone_5": {
+        "string": "👍🏾絵文字の肌の色を更新するには、絵文字を選択するときにクリックしたままにします。"
+    },
+    "visual_bell.set_default_emoji_skin_tone_6": {
+        "string": "👍🏿絵文字の肌の色を更新するには、絵文字を選択するときにクリックしたままにします。"
+    },
+    "visual_bell.shadow_spread_is_not_supported_for_vector_type": {
+        "string": "ベクタータイプではシャドウの広がりはサポートされていません"
+    },
+    "visual_bell.sites.cant_delete_homepage": {
+        "string": "削除する前に新しいホームページを設定してください"
+    },
+    "visual_bell.slices_hidden": {
+        "string": "スライス: 表示オフ"
+    },
+    "visual_bell.slices_visible": {
+        "string": " スライス: 表示オン"
+    },
+    "visual_bell.some_components_were_reparented_to_avoid_a_dependency_cycle": {
+        "string": "依存サイクルを回避するため、一部のコンポーネントの親が再設定されました。"
+    },
+    "visual_bell.some_objects_could_not_be_replaced": {
+        "string": "一部のオブジェクトを置換できませんでした"
+    },
+    "visual_bell.stack_debug_mode_hidden": {
+        "string": "スタックデバッグモード: 表示オフ"
+    },
+    "visual_bell.stack_debug_mode_visible": {
+        "string": "スタックデバッグモード: 表示オン"
+    },
+    "visual_bell.stack_dynamic_insertion_hidden": {
+        "string": "オートレイアウト動的挿入ポイント: 表示オフ"
+    },
+    "visual_bell.stack_dynamic_insertion_visible": {
+        "string": "オートレイアウト動的挿入ポイント: 表示オン"
+    },
+    "visual_bell.stack_shadows_hidden": {
+        "string": "オートレイアウトシャドウ: 表示オフ"
+    },
+    "visual_bell.stack_shadows_visible": {
+        "string": "オートレイアウトシャドウ: 表示オン"
+    },
+    "visual_bell.starting_points_removed": {
+        "string": "{removedCount, plural, other {{removedCount}個の開始点が削除されました}}"
+    },
+    "visual_bell.status.node_marked_ready": {
+        "string": "開発準備完了にしました"
+    }
+}

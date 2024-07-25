@@ -1,0 +1,152 @@
+{
+    "fullscreen.export.exporting": {
+        "string": "エクスポートデータの準備中…"
+    },
+    "fullscreen.export.layer_export": {
+        "string": "レイヤーエクスポート"
+    },
+    "fullscreen.export.no_selected_layers_with_export": {
+        "string": "選択したレイヤーにエクスポート設定がありません。プロパティパネルのエクスポートセクションで[+]をクリックして追加してください。"
+    },
+    "fullscreen.export.num_selected_of_total_selected": {
+        "string": "{numSelected}/{total}が選択されています"
+    },
+    "fullscreen.export.preparing_exporting_progress_of_exporting_total": {
+        "string": "{exportingProgress}/{exportingTotal}をエクスポート中…"
+    },
+    "fullscreen.export.source": {
+        "string": "ソース画像ファイル"
+    },
+    "fullscreen.export_panel.export_settings": {
+        "string": "エクスポートの詳細設定"
+    },
+    "fullscreen.file_import.could_not_convert_file": {
+        "string": "ファイルを変換できません"
+    },
+    "fullscreen.file_import.fig_jam_has_been_disabled_by_your_organization": {
+        "string": "FigJamは組織によって無効にされています"
+    },
+    "fullscreen.file_import.file_contains_text_either_too_big_or_too_small": {
+        "string": "フォントサイズが大きすぎるか小さすぎるか、あるいはその両方であるため、正しくインポートできません"
+    },
+    "fullscreen.file_import.file_timed_out": {
+        "string": "ファイルのインポートに時間がかかりすぎました"
+    },
+    "fullscreen.file_import.go_to_drafts": {
+        "string": "ドラフトに移動"
+    },
+    "fullscreen.file_import.import_invalid_images": {
+        "string": "{invalidFiles, plural, other {{invalidFiles}個の画像が無効です}}"
+    },
+    "fullscreen.file_import.import_lucid_pdf_failed": {
+        "string": " Lucid PDFをインポートできません"
+    },
+    "fullscreen.file_import.import_miro_pdf_failed": {
+        "string": "Miro PDFをインポートできません"
+    },
+    "fullscreen.file_import.import_mural_pdf_failed": {
+        "string": "Mural PDFをインポートできません"
+    },
+    "fullscreen.file_import.import_unknown_pdf_failed": {
+        "string": "PDFをインポートできません"
+    },
+    "fullscreen.file_import.internal_error_please_try_again_later": {
+        "string": "内部エラーです。少ししてから、もう一度お試しください"
+    },
+    "fullscreen.file_import.jamboard_supported_only_via_separate_import": {
+        "string": "個別にインポートする必要があります。Jamboardファイルに追加するには、インポートを新たに開始してください。"
+    },
+    "fullscreen.file_import.jamboard_warning_element_parse_failed": {
+        "string": "注: このファイルの一部をインポートできませんでした。"
+    },
+    "fullscreen.file_import.jamboard_warning_image_download_failed": {
+        "string": "一部の画像をダウンロードできませんでした。"
+    },
+    "fullscreen.file_import.oops_this_service_is_temporarily_unavailable": {
+        "string": "サーバーが一時的に使用できなくなっています。少ししてから、もう一度お試しください"
+    },
+    "fullscreen.file_import.oversized_files_images_exceeded_max_size": {
+        "string": "{oversizedFiles, plural, other {{oversizedFiles}個の画像が最大サイズ(64MB)を超えています}}"
+    },
+    "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit": {
+        "string": "{teamName}はFigJamのファイル数の上限に達しました"
+    },
+    "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit_go_to_drafts": {
+        "string": "{teamName}はFigJamのファイル数の上限に達しました。ドラフトへのインポートをお試しください。"
+    },
+    "fullscreen.file_import.team_name_is_at_the_figma_file_limit": {
+        "string": "{teamName}はFigmaファイルの制限にあります。"
+    },
+    "fullscreen.file_import.to_import_an_svg_drag_it_directly_into_an_open_figma_file": {
+        "string": "SVGをインポートするには、開いているFigmaファイルに直接追加します。"
+    },
+    "fullscreen.file_import.unable_to_import": {
+        "string": "インポートできません"
+    },
+    "fullscreen.file_import.user_externally_restricted": {
+        "string": "外部のスペースにファイルをインポートする権限がありません"
+    },
+    "fullscreen.file_import.you_don_t_have_permissions_to_import": {
+        "string": "この種類のファイルをインポートする権限がありません"
+    },
+    "fullscreen.file_import.you_don_t_have_permissions_to_import_in_folder_name": {
+        "string": "この種類のファイルを{folderName}にインポートする権限がありません"
+    },
+    "fullscreen.file_import.your_pdf_is_larger_than_50mb": {
+        "string": "このファイルは最大サイズ(50MB)を超えています。ファイルを小さく分割してそれぞれを個別にインポートしてください。"
+    },
+    "fullscreen.file_tracker_modal.audio_conversations_in_files": {
+        "string": "ファイル内の音声会話"
+    },
+    "fullscreen.file_tracker_modal.compare_plans": {
+        "string": "プランを比較"
+    },
+    "fullscreen.file_tracker_modal.max_free_files_already_you_are_becoming_a_pro": {
+        "string": "{maxFreeFiles, plural, other {すでに{maxFreeFiles}ファイルですか? プロフェッショナルプランに近づきつつあります。無料ファイルの上限に達していますが、次のアップグレードができます。}}"
+    },
+    "fullscreen.file_tracker_modal.num_files_of_max_free_files_created": {
+        "string": "無料ファイル{maxFreeFiles}個のうち{numFiles}個が作成されました。"
+    },
+    "fullscreen.file_tracker_modal.starter_plans_are_free_but_they_limit_you_to_just_max_free_files": {
+        "string": "{maxFreeFiles, plural, other {スタータープランは無料ですが、{maxFreeFiles}ファイルに制限されています。アップグレードすると次のことが可能です。 }}"
+    },
+    "fullscreen.file_tracker_modal.this_is_your_last_free_file": {
+        "string": "これが最後の無料ファイルです。"
+    },
+    "fullscreen.file_tracker_modal.unlimited_files_pages": {
+        "string": "ファイル、ページ数無制限"
+    },
+    "fullscreen.file_tracker_modal.unlimited_version_history_and_more": {
+        "string": "バージョン履歴無制限など..."
+    },
+    "fullscreen.filename_view.archive-branch": {
+        "string": "ブランチのアーカイブ"
+    },
+    "fullscreen.filename_view.branch-count": {
+        "string": "{BRANCHES, plural, other {ブランチ数}}"
+    },
+    "fullscreen.filename_view.color_management.color_profile_display_p3": {
+        "string": "Display P3"
+    },
+    "fullscreen.filename_view.color_management.color_profile_srgb": {
+        "string": "sRGB"
+    },
+    "fullscreen.filename_view.color_management.file_color_profile": {
+        "string": "ファイルのカラープロファイル"
+    },
+    "fullscreen.filename_view.color_management.menu_item_title": {
+        "string": "{color_profile}に変更..."
+    },
+    "fullscreen.filename_view.color_management.menu_item_title.legacy.assign": {
+        "string": "{color_profile}に割り当てる"
+    },
+    "fullscreen.filename_view.color_management.menu_item_title.legacy_file": {
+        "string": "優先プロファイル({colorProfile})と同じ"
+    },
+    "fullscreen.filename_view.delete": {
+        "string": "削除…"
+    },
+    "fullscreen.filename_view.delete-branch": {
+        "string": "完全に削除"
+    }
+}

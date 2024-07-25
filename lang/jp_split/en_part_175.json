@@ -1,0 +1,152 @@
+{
+    "navbar.settings_dropdown.profile_label": {
+        "string": "プロファイル"
+    },
+    "navbar.settings_dropdown.settings": {
+        "string": "設定"
+    },
+    "navbar.settings_dropdown.theme": {
+        "string": "テーマ"
+    },
+    "navbar.workspaces.default_org_workspace_name": {
+        "string": "組織ワークスペース"
+    },
+    "navbar.workspaces.default_team_workspace_name": {
+        "string": "チームのワークスペース"
+    },
+    "navbar.workspaces.default_workspace_name": {
+        "string": "Figma"
+    },
+    "navbar.workspaces.disabled_by_your_admins": {
+        "string": "管理者により無効にされています"
+    },
+    "onboarding.skip": {
+        "string": "スキップ"
+    },
+    "onboarding.workspace_step.join": {
+        "string": "参加"
+    },
+    "onboarding.workspace_step.subtitle_v2": {
+        "string": "{orgName}のワークスペースを選びましょう。{tipText}: 自分に最も近い、日ごろ一緒に作業するユーザーがいる場所を選びます。"
+    },
+    "onboarding.workspace_step.tip": {
+        "string": "ヒント"
+    },
+    "onboarding.workspace_step.title": {
+        "string": "ようこそ!"
+    },
+    "file_migration.updating.title": {
+        "string": "ファイルを更新中"
+    },
+    "file_migration.updating.message": {
+        "string": "このファイルは現在新しいファイル形式へ更新中です。この処理にはしばらく時間がかかります。更新中にタブを閉じることができます。"
+    },
+    "file_migration.update_needed.copy_paste.title": {
+        "string": "ファイルを貼り付ける前に更新してください"
+    },
+    "file_migration.update_needed.copy_paste.message": {
+        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、もう一度貼り付けてください。"
+    },
+    "file_migration.update_needed.component_import.title": {
+        "string": "コンポーネントを挿入する前にファイルを更新してください"
+    },
+    "file_migration.update_needed.component_import.message": {
+        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、コンポーネントの挿入操作を再試行してください。"
+    },
+    "file_migration.update_needed.state_group_import.title": {
+        "string": "状態グループを挿入する前にファイルを更新してください"
+    },
+    "file_migration.update_needed.state_group_import.message": {
+        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、状態グループの挿入操作を再試行してください。"
+    },
+    "file_migration.update_needed.style_import.title": {
+        "string": "スタイルを挿入する前にファイルを更新してください"
+    },
+    "file_migration.update_needed.style_import.message": {
+        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、スタイルの挿入操作を再試行してください。"
+    },
+    "file_migration.update_needed.merge.title": {
+        "string": "マージ操作の前にファイルを更新してください"
+    },
+    "file_migration.update_needed.merge.message": {
+        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、マージ操作を再試行してください。"
+    },
+    "file_migration.update_needed.template_insertion.title": {
+        "string": "テンプレートを挿入する前にファイルを更新してください"
+    },
+    "file_migration.update_needed.template_insertion.message": {
+        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、テンプレートの挿入操作を再試行してください。"
+    },
+    "file_migration.update_needed.cancel": {
+        "string": "キャンセル"
+    },
+    "file_migration.update_needed.update": {
+        "string": "更新"
+    },
+    "finish_embed_login_app.close": {
+        "string": "閉じる"
+    },
+    "finish_embed_login_app.successful_log_in": {
+        "string": "Figmaへのログインが完了しました"
+    },
+    "finish_embed_login_app.successful_log_out": {
+        "string": "Figmaからのログアウトが完了しました"
+    },
+    "finish_embed_login_app.this_window_will_automatically_close_in_seconds": {
+        "string": "このウィンドウは{secondsRemaining}秒後に自動的に閉じます"
+    },
+    "first_draft.current_file": {
+        "string": "現在のファイル"
+    },
+    "first_draft.detect_via_prompt": {
+        "string": "プロンプトによって検出"
+    },
+    "first_draft.done_theming": {
+        "string": "完了"
+    },
+    "first_draft.generate": {
+        "string": "生成"
+    },
+    "first_draft.kits_loading": {
+        "string": "キットを読み込んでいます..."
+    },
+    "first_draft.library_placeholder": {
+        "string": "ライブラリ"
+    },
+    "first_draft.made_by_figma": {
+        "string": "Figmaが作成"
+    },
+    "first_draft.make_changes": {
+        "string": "変更を適用"
+    },
+    "first_draft.make_changes.i_cant_do_this": {
+        "string": "フォント、色、レイアウトを調整してみて"
+    },
+    "first_draft.make_changes.prompt_labels.add": {
+        "string": "追加..."
+    },
+    "first_draft.make_changes.prompt_labels.change_font": {
+        "string": "フォントを変更"
+    },
+    "first_draft.make_changes.prompt_labels.colors": {
+        "string": "色"
+    },
+    "first_draft.make_changes.prompt_labels.imagery": {
+        "string": "画像"
+    },
+    "first_draft.make_changes.prompt_labels.replace": {
+        "string": "置換..."
+    },
+    "first_draft.make_changes.prompt_labels.rewrite": {
+        "string": "リライト..."
+    },
+    "first_draft.make_changes.prompt_labels.round_corners": {
+        "string": "丸角"
+    },
+    "first_draft.make_changes.prompts.add_another_section": {
+        "string": "セクションをもう1つ追加して。内容は..."
+    },
+    "first_draft.make_changes.prompts.calming_colors": {
+        "string": "もっと落ち着いた色に替えて"
+    }
+}

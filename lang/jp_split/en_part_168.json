@@ -1,0 +1,152 @@
+{
+    "file_browser.unavailable_view_resource_capitalized": {
+        "string": "リソース"
+    },
+    "file_browser.unavailable_view_resource_not_found": {
+        "string": "{capitalizedResourceNoun}が見つかりません"
+    },
+    "file_browser.unavailable_view_text": {
+        "string": "この{resourceNoun}が存在しないか、表示する権限がありません。{resourceNoun}オーナーに、リンクの確認または権限の更新を依頼してください。"
+    },
+    "file_browser.view_mode_toggle.show_as_grid": {
+        "string": "グリッド表示"
+    },
+    "file_browser.view_mode_toggle.show_as_list": {
+        "string": "リスト表示"
+    },
+    "file_browser.workspace": {
+        "string": "ワークスペース"
+    },
+    "file_browser.workspace_capitalized": {
+        "string": "ワークスペース"
+    },
+    "file_browser.workspace_pinning.no_files_matching_query": {
+        "string": "このワークスペースには、{searchQuery}に一致するファイルはありません"
+    },
+    "file_browser.workspace_pinning.no_suggested_files": {
+        "string": "検索を使用し、デザインライブラリやテンプレートなどのファイルを見つけてピン留めすることで、ワークスペースで簡単に参照できるようになります。"
+    },
+    "file_restore_from_version_modal.restore": {
+        "string": "復元"
+    },
+    "file_restore_from_version_modal.restore_from_version_history": {
+        "string": "バージョン履歴から復元"
+    },
+    "internal_profile.add_a_description": {
+        "string": "説明を追加"
+    },
+    "internal_profile.an_error_occurred": {
+        "string": "エラーが発生しました"
+    },
+    "internal_profile.change_job_title": {
+        "string": "変更"
+    },
+    "internal_profile.file_contributions": {
+        "string": "ファイルのコントリビューター"
+    },
+    "internal_profile.file_name": {
+        "string": "ファイル名"
+    },
+    "internal_profile.job_title_nudge.text": {
+        "string": "仕事または役割をプロフィールに追加することで、自分が何をしているかをチームメートに伝えることができます。"
+    },
+    "internal_profile.job_title_nudge.title": {
+        "string": "タイトルを選択"
+    },
+    "internal_profile.last_activity": {
+        "string": "最後のアクティビティー"
+    },
+    "internal_profile.no_teams_in_common": {
+        "string": "共通のチームがありません"
+    },
+    "internal_profile.posts": {
+        "string": "投稿"
+    },
+    "internal_profile.profile": {
+        "string": "プロフィール"
+    },
+    "internal_profile.profile_image_nudge.action": {
+        "string": "写真を更新"
+    },
+    "internal_profile.profile_image_nudge.text": {
+        "string": "ファイルやコメントなどでアバターとして使用する写真を選択します。"
+    },
+    "internal_profile.profile_image_nudge.title": {
+        "string": "プロフィール写真を追加"
+    },
+    "internal_profile.project": {
+        "string": "プロジェクト"
+    },
+    "internal_profile.recent_projects": {
+        "string": "最近開いたプロジェクト"
+    },
+    "internal_profile.teams": {
+        "string": "チーム"
+    },
+    "internal_profile.their_recent_projects_will_appear_here": {
+        "string": "最近編集したプロジェクトがここに表示されます。"
+    },
+    "internal_profile.title": {
+        "string": "{orgName}の{userName}"
+    },
+    "internal_profile.view_community_profile": {
+        "string": "コミュニティプロフィールを表示"
+    },
+    "internal_profile.you_must_be_a_member_of_team_name": {
+        "string": "{teamName}のメンバーでなければなりません"
+    },
+    "internal_profile.you_re_not_a_member_of_this_team": {
+        "string": "このチームのメンバーではありません。"
+    },
+    "internal_profile.your_recent_projects_will_appear_here": {
+        "string": "最近編集したプロジェクトがここに表示されます。"
+    },
+    "interstitial.comment_activity_digest": {
+        "string": "コメントダイジェスト"
+    },
+    "interstitial.done": {
+        "string": "完了"
+    },
+    "interstitial.feed_weekly_digest": {
+        "string": "フィードウィークリーダイジェスト"
+    },
+    "interstitial.open_notifications_settings": {
+        "string": "通知設定を開く"
+    },
+    "interstitial.team_comment_digest": {
+        "string": "チームコメントダイジェスト"
+    },
+    "interstitial.unsubscribe_success_header": {
+        "string": "登録を取り消しました"
+    },
+    "interstitial.unsubscribe_success_subheader_with_address": {
+        "string": "今後、{emailName}のメールが{emailAddress}に送信されることはありません。"
+    },
+    "interstitial.workspace_activity": {
+        "string": "ワークスペースのアクティビティ"
+    },
+    "mobile_tool_bar.hide_navigation": {
+        "string": "ナビゲーションを非表示"
+    },
+    "mobile_tool_bar.more_options": {
+        "string": "その他のオプション"
+    },
+    "mobile_tool_bar.show_navigation": {
+        "string": "ナビゲーションを表示"
+    },
+    "modal.are_you_sure": {
+        "string": "よろしいですか?"
+    },
+    "modal.cancel": {
+        "string": "キャンセル"
+    },
+    "modal.close": {
+        "string": "閉じる"
+    },
+    "modal.confirm": {
+        "string": "確認"
+    },
+    "org_billing_error_default": {
+        "string": "請求データの取得中にエラーが発生しました。"
+    }
+}

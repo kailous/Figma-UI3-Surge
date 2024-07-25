@@ -1,0 +1,152 @@
+{
+    "community.seller.collect_tax_info_modal.title": {
+        "string": "はじめましょう"
+    },
+    "community.seller.community_payout_statements": {
+        "string": "コミュニティの支払明細書"
+    },
+    "community.seller.currency_symbol": {
+        "string": "$"
+    },
+    "community.seller.discount_must_follow_format": {
+        "string": "整数でなければなりません"
+    },
+    "community.seller.earned_this_month": {
+        "string": "今月の達成額"
+    },
+    "community.seller.email_where_users_can_contact_you": {
+        "string": "ユーザーから連絡できるメールアドレス"
+    },
+    "community.seller.few_steps_left_stripe": {
+        "string": "コミュニティでリソースを販売するために必要なステップがまだ残っているようです。再開しますか?"
+    },
+    "community.seller.finish_set_up": {
+        "string": "セットアップを完了"
+    },
+    "community.seller.finish_stripe_setup": {
+        "string": "Stripeのセットアップを完了します。"
+    },
+    "community.seller.finish_stripe_setup_button": {
+        "string": "Stripeのセットアップを完了"
+    },
+    "community.seller.freemium_file_publish_info_banner": {
+        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページをプレビューできます。"
+    },
+    "community.seller.freemium_file_publish_info_banner_with_page_name": {
+        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。"
+    },
+    "community.seller.freemium_file_publish_warning_with_page_name": {
+        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。このファイルに課金する場合は、ページを追加することをお勧めします。"
+    },
+    "community.seller.freemium_publishing_temporarily_restricted": {
+        "string": "Payments APIを使用するためのリソースの更新は、現在、特定のリソースのみ可能です。詳細は、support@figma.comにお問い合わせください。"
+    },
+    "community.seller.freemium_required_for_migration": {
+        "string": "リソースを移行するには、マニフェスト権限でPayments APIを有効にする必要があります。"
+    },
+    "community.seller.give_yearly_discount": {
+        "string": "年間割引を指定"
+    },
+    "community.seller.good_news": {
+        "string": "嬉しいお知らせです!"
+    },
+    "community.seller.head_back_to_figma_to_start_selling": {
+        "string": "Figmaに戻り、リソースの販売を開始します"
+    },
+    "community.seller.last_updated_on": {
+        "string": "前回は{date}に更新しました"
+    },
+    "community.seller.monthly_subscription": {
+        "string": "月間サブスクリプション"
+    },
+    "community.seller.no_payout_statements_yet": {
+        "string": "支払明細書はまだありません。支払明細書は月ごとに作成されます。後でもう一度確認してください。"
+    },
+    "community.seller.one_time_payment": {
+        "string": "1回払い"
+    },
+    "community.seller.only_explicit_owner_can_sell": {
+        "string": "コミュニティでリソースを販売するにはオーナーである必要があります。"
+    },
+    "community.seller.only_new_resources_can_be_sold_on_community": {
+        "string": "コミュニティでは新しいリソースのみ販売できます。"
+    },
+    "community.seller.only_you_can_see_your_file": {
+        "string": "ファイルのレビュー中は、あなただけが表示できます。"
+    },
+    "community.seller.only_you_can_see_your_plugin": {
+        "string": "プラグインのレビュー中は、あなただけが表示できます。"
+    },
+    "community.seller.only_you_can_see_your_widget": {
+        "string": "ウィジェットのレビュー中は、あなただけが表示できます。"
+    },
+    "community.seller.orgs_cannot_sell": {
+        "string": "組織として公開しようとしているため、価格設定は無効です。このリソースを販売するには、外部チームから公開してください。"
+    },
+    "community.seller.paid_hub_file_publish_info_banner": {
+        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページをプレビューできます。また、課金されたファイルは、後で無料にすることができません。"
+    },
+    "community.seller.paid_hub_file_publish_info_banner_with_page_name": {
+        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。また、課金されたファイルは、後で無料にすることができません。"
+    },
+    "community.seller.paid_hub_file_publish_warning_with_page_name": {
+        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。このファイルに課金する場合は、ページを追加することをお勧めします。なお、ここでこのリソースに課金すると、後で無料にすることはできません。"
+    },
+    "community.seller.paid_resource_maximum_err": {
+        "string": "価格が$999を超えることはできません"
+    },
+    "community.seller.paid_resource_minimum_err": {
+        "string": "価格は$2以上にしてください"
+    },
+    "community.seller.payment_type": {
+        "string": "支払いタイプ"
+    },
+    "community.seller.payout_statement_error": {
+        "string": "支払明細書を取得できません。後でもう一度試すか、サポートに問い合わせてください"
+    },
+    "community.seller.percent_discount": {
+        "string": "%割引"
+    },
+    "community.seller.price": {
+        "string": "価格"
+    },
+    "community.seller.price_can_only_be_increased_by_50_percent_once_every_30_days": {
+        "string": "価格は30日ごとに1回のみ50％引き上げることができます。"
+    },
+    "community.seller.price_can_only_be_increased_once_every_thirty_days": {
+        "string": "価格は30日ごとに1回しか増やせません。"
+    },
+    "community.seller.price_increase_limit": {
+        "string": "価格の増加は請求サイクルごとに50%に制限されています。"
+    },
+    "community.seller.prices_must_follow_format": {
+        "string": "価格は整数でなければなりません"
+    },
+    "community.seller.pricing": {
+        "string": "価格設定"
+    },
+    "community.seller.pricing_is_disabled_because_your_organization_does_not_allow": {
+        "string": "組織で管理者によるパーソナルプロフィールの公開が許可されていないため、価格設定は無効になっています。これは管理者設定で変更できます。{learnMoreLink}"
+    },
+    "community.seller.pricing_toggle_text_for_already_paid_resources": {
+        "string": "有料で公開したリソースを無料に戻すことはできません。"
+    },
+    "community.seller.pricing_using_payments_api": {
+        "string": "このリソースはPayments APIを使用しているため、価格をオフにできません"
+    },
+    "community.seller.profiles.added_some_metrics": {
+        "string": "この非公開タブに対するメトリクスを追加したため、リソースの状況を確認できます。"
+    },
+    "community.seller.profiles.check_out_your_stats": {
+        "string": "統計を確認"
+    },
+    "community.seller.profiles.metrics": {
+        "string": "メトリクス"
+    },
+    "community.seller.publish_disclaimer_for_paid_plugins": {
+        "string": "公開後は支払いタイプを変更できません。また、このリソースをいま課金すると、後で無料にすることはできません。"
+    },
+    "community.seller.purchases_label": {
+        "string": "{num, plural, other {購入数}}"
+    }
+}

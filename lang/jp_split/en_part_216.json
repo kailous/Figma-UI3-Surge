@@ -1,0 +1,152 @@
+{
+    "domain_management.domain_capture.info_tooltip_text": {
+        "string": "ドメインキャプチャーを有効にするには、すべてのドメインを確認してください"
+    },
+    "domain_management.domain_capture.label": {
+        "string": "ドメインキャプチャー"
+    },
+    "domain_management.domain_capture.some_domains_unverified": {
+        "string": "ドメインキャプチャーを有効にできません。一部のドメインが未確認です"
+    },
+    "domain_management.domain_capture.support_email": {
+        "string": "admin-support@figma.com"
+    },
+    "domain_management.domain_capture_modal.body": {
+        "string": "ドメインの既存のFigmaユーザーを{orgName}に自動的に追加します。今後、ドメインで新たにアカウントを作成するユーザーも組織に追加されます。{learnMoreLink}"
+    },
+    "domain_management.domain_capture_modal.body_title": {
+        "string": "ドメインキャプチャーを有効にする"
+    },
+    "domain_management.domain_capture_modal.cancel_button": {
+        "string": "キャンセル"
+    },
+    "domain_management.domain_capture_modal.save_button": {
+        "string": "保存"
+    },
+    "domain_management.domain_capture_modal.success_message": {
+        "string": "ドメインキャプチャー有効"
+    },
+    "domain_management.domain_capture_modal.title": {
+        "string": "ドメインキャプチャー"
+    },
+    "domain_management.domain_unverified": {
+        "string": "未確認"
+    },
+    "domain_management.domain_verified": {
+        "string": "確認済み"
+    },
+    "domain_management.error_domain_is_invalid": {
+        "string": "ドメインが無効です。"
+    },
+    "domain_management.error_fetching_domains": {
+        "string": "組織のドメイン情報の取得中にエラーが発生しました。"
+    },
+    "domain_management.error_modal.body_adding": {
+        "string": "{domainCount, plural, other {次のドメインを追加できませんでした。}}"
+    },
+    "domain_management.error_modal.body_verifying": {
+        "string": "{domainCount, plural, other {次のドメインを確認できませんでした。}}"
+    },
+    "domain_management.error_modal.got_it_button": {
+        "string": "了解"
+    },
+    "domain_management.error_modal.header_adding": {
+        "string": "{domainCount, plural, other {ドメインを追加できません}}"
+    },
+    "domain_management.error_modal.header_verifying": {
+        "string": "{domainCount, plural, other {ドメインを確認できません}}"
+    },
+    "domain_management.modals_shared.cancel_button": {
+        "string": "キャンセル"
+    },
+    "domain_management.modals_shared.update_dns_record_header": {
+        "string": "DNSレコードを更新してください"
+    },
+    "domain_management.remove_domain": {
+        "string": "削除"
+    },
+    "domain_management.remove_domain_modal.attempted_domain_removal": {
+        "string": "メールアドレスに関連付けられているドメインを削除することはできません。"
+    },
+    "domain_management.remove_domain_modal.body_text": {
+        "string": "このドメインのすべてのメンバーが組織のゲストになります。"
+    },
+    "domain_management.remove_domain_modal.body_text_with_mfa": {
+        "string": "このドメインのすべてのメンバーが組織のゲストになります。MFAが設定されていないユーザーは、組織のコンテンツを閲覧できなくなります。"
+    },
+    "domain_management.remove_domain_modal.body_title": {
+        "string": "このドメインを削除しますか"
+    },
+    "domain_management.remove_domain_modal.cancel_button": {
+        "string": "キャンセル"
+    },
+    "domain_management.remove_domain_modal.error_removing_domain": {
+        "string": "ドメインの削除中にエラーが発生しました"
+    },
+    "domain_management.remove_domain_modal.remove_button": {
+        "string": "削除"
+    },
+    "domain_management.remove_domain_modal.success_message": {
+        "string": "ドメインを削除しました"
+    },
+    "domain_management.successfully_added_domains": {
+        "string": "{domainCount, plural, other {{domainCount}個のドメインを追加しました}}"
+    },
+    "domain_management.successfully_verified_domains": {
+        "string": "{domainCount, plural, other {{domainCount}個のドメインを確認しました}}"
+    },
+    "domain_management.verify_domain": {
+        "string": "ドメインを確認"
+    },
+    "domain_management.verify_domain_modal.body": {
+        "string": "確認したいドメインのDNSレコードに、この一意のコードを追加してください。{learnMoreLink}"
+    },
+    "domain_management.verify_domain_modal.confirm_button": {
+        "string": "確認"
+    },
+    "domain_management.verify_domain_pluralizable": {
+        "string": "{domainCount, plural, other {ドメインを確認}}"
+    },
+    "domain_management.verifying_domains": {
+        "string": "{domainCount, plural, other {ドメインを確認中}}"
+    },
+    "domain_management.you_have_no_domains": {
+        "string": "組織に関連付けられているドメインはありません。"
+    },
+    "members_tab.last_edit_modal.error_fetching_edits": {
+        "string": "最新の編集内容の取得中にエラーが発生しました。"
+    },
+    "members_tab.last_edit_modal.file_column_header": {
+        "string": "ファイル"
+    },
+    "members_tab.last_edit_modal.inaccessible_text": {
+        "string": "ファイルの権限が原因でこのファイルにアクセスできません"
+    },
+    "members_tab.last_edit_modal.last_edit_column_header": {
+        "string": "最終編集"
+    },
+    "members_tab.last_edit_modal.no_activity": {
+        "string": "アクティビティーが見つかりません"
+    },
+    "members_tab.last_edit_modal.product_column_header": {
+        "string": "製品"
+    },
+    "members_tab.last_edit_modal.title_generic": {
+        "string": "最近の編集アクティビティー"
+    },
+    "members_tab.last_edit_modal.title_with_name": {
+        "string": "{publicName}の最近の編集"
+    },
+    "members_tab.member_modal.file_count_label": {
+        "string": "{fileCount, plural, other {{fileCount}ファイル}}"
+    },
+    "members_tab.member_modal.file_no_access_tooltip": {
+        "string": "ファイルの権限が原因でこのファイルにアクセスできません"
+    },
+    "members_tab.member_modal.guest_access.can_also_view_public_links_label": {
+        "string": "{name}は公開リンクが有効なすべてのファイルも閲覧できます。"
+    },
+    "members_tab.member_modal.guest_access.can_view_public_links_label": {
+        "string": "{name}は公開リンクが有効なすべてのファイルを閲覧できます。"
+    }
+}

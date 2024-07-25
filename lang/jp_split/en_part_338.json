@@ -1,0 +1,152 @@
+{
+    "whiteboard.fonts.simple": {
+        "string": "シンプル"
+    },
+    "whiteboard.fonts.technical": {
+        "string": "テクニカル"
+    },
+    "whiteboard.google_classroom.onboarding.body": {
+        "string": "FigJamで作成している教材をGoogle Classroom (や生徒/学生)に簡単に共有できます。"
+    },
+    "whiteboard.google_classroom.onboarding.header": {
+        "string": "Google Classroomに共有"
+    },
+    "whiteboard.google_classroom.onboarding.image_alt": {
+        "string": "「Google Classroomに共有」機能のイラスト"
+    },
+    "whiteboard.google_classroom.onboarding.new_user.body": {
+        "string": "FigJamで作成している教材を生徒/学生に簡単に共有できるようになりました。"
+    },
+    "whiteboard.google_classroom.onboarding.new_user.header": {
+        "string": "Google Classroomに共有"
+    },
+    "whiteboard.google_classroom.onboarding.show_me": {
+        "string": "見る"
+    },
+    "whiteboard.google_classroom.pointer.body": {
+        "string": "FigJamから離れることなく、このボードをGoogle Classroomに直接共有できます。"
+    },
+    "whiteboard.inline_menu.add_connector_text": {
+        "string": "テキストを追加"
+    },
+    "whiteboard.inline_menu.add_image_description": {
+        "string": "説明を追加"
+    },
+    "whiteboard.inline_menu.add_same_shape": {
+        "string": "もう1つ追加"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_beta_badge_text": {
+        "string": "ベータ"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_button_aria_label": {
+        "string": "クイックアクションツールバーのドロップダウンボタン"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_button_text": {
+        "string": "FigJam AI"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_disabled_header": {
+        "string": "FigJam AIにアクセスできません。"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_disabled_try_again_later": {
+        "string": "しばらくしてからお試しください。"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer": {
+        "string": "AIの出力は、誤解を招くことや、間違っていることがあります。"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer_cta": {
+        "string": "詳細情報"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_mobile_disclaimer": {
+        "string": "FigJam AI (ベータ)。注：AIの出力は、誤解を招くことや、間違っていることがあります。"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_options_aria_label": {
+        "string": "クイックアクションのオプション"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_generate_ideas_button": {
+        "string": "アイデアを生成"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_generate_ideas_disabled_tooltip": {
+        "string": "テキストを含む要素を1つ選択します"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_header_text": {
+        "string": "FigJam AI"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_onboarding_badge_2": {
+        "string": "新機能"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_button": {
+        "string": "付箋を並び替える"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author": {
+        "string": "作者"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author_2": {
+        "string": "作成者"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color": {
+        "string": "色"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color_2": {
+        "string": "色"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count": {
+        "string": "スタンプの数"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count_2": {
+        "string": "スタンプの数"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type": {
+        "string": "スタンプの種類"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type_2": {
+        "string": "スタンプの種類"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic": {
+        "string": "トピック"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic_2": {
+        "string": "トピック"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_disabled_tooltip": {
+        "string": "{minSelectedStickies, plural, other {付箋を{minSelectedStickies}個以上選択してください(何も書かれていない付箋を除きます)。}}"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_summarize_button": {
+        "string": "要約"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_summarize_disabled_tooltip": {
+        "string": "{minSelectedStickies, plural, other {付箋を{minSelectedStickies}個以上選択してください(何も書かれていない付箋を除きます)。}}"
+    },
+    "whiteboard.inline_menu.alignment_button": {
+        "string": "配置"
+    },
+    "whiteboard.inline_menu.alt_text": {
+        "string": "altテキスト"
+    },
+    "whiteboard.inline_menu.arrange_stickies_dropdown_button_aria_label": {
+        "string": "付箋の並べ替えサブメニューボタン"
+    },
+    "whiteboard.inline_menu.aspect_ratio": {
+        "string": "アスペクト比"
+    },
+    "whiteboard.inline_menu.change_shape": {
+        "string": "シェイプ"
+    },
+    "whiteboard.inline_menu.change_shape_label": {
+        "string": "シェイプ、{currentShape}"
+    },
+    "whiteboard.inline_menu.change_shape_search": {
+        "string": "シェイプを検索"
+    },
+    "whiteboard.inline_menu.color": {
+        "string": "色"
+    },
+    "whiteboard.inline_menu.color_list_box": {
+        "string": "色を変更"
+    },
+    "whiteboard.inline_menu.color_selector_label": {
+        "string": "色、{currentColor}"
+    },
+    "whiteboard.inline_menu.connector_end_point": {
+        "string": "終了点"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "fullscreen.toolbar.request.ask_to_edit": {
+        "string": "編集を依頼"
+    },
+    "fullscreen.toolbar.request.request_sent": {
+        "string": "申請が送信されました"
+    },
+    "fullscreen.toolbar.screenreader_notice": {
+        "string": "Figmaエディターは現在スクリーンリーダー向けに最適化されていません。このデザインをより良いスクリーンリーダーで表示することをご検討ください。その場合、キーボードのショートカット{shortcut}を使用してください。"
+    },
+    "fullscreen.toolbar.screenreader_notice_figjam": {
+        "string": "ボードのスクリーンリーダーのサポートは現在無効です。この設定を[アクセシビリティの設定]で有効にするには、{quickActionsShortcut}を押し、「アクセシビリティの設定」と入力し、Enterキーを押します。使用可能なキーボードショートカットを確認するには、{shortcut}を入力します。"
+    },
+    "fullscreen.toolbar.secondary_toolbar.close": {
+        "string": "閉じる"
+    },
+    "fullscreen.toolbar.send_a_reminder": {
+        "string": "リマインダーを送る"
+    },
+    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_files": {
+        "string": "ファイルを編集するための申請の承認を求めるリマインダーを管理者に送信します。"
+    },
+    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_this_board": {
+        "string": "このボードを編集するための申請の承認を求めるリマインダーを管理者に送信します。"
+    },
+    "fullscreen.toolbar.still_waiting_to_edit": {
+        "string": "編集するのを待っていますか？"
+    },
+    "fullscreen.toolbar.to_save_this_board_create_an_account": {
+        "string": "このボードを保存するには、アカウントを作成してください"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_admins_a_reminder_we_ll_let_you_know_as_soon_as_they_respond": {
+        "string": "管理者にリマインダーを送信しました。応答があり次第お知らせします。"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_your_admins_we_ll_let_you_know_as_soon_as_they_approve_it": {
+        "string": "管理者にリクエストを送信しました。承認され次第お知らせします。"
+    },
+    "fullscreen.toolbar.zoom_menu.pixel_preview": {
+        "string": "ピクセルプレビュー"
+    },
+    "fullscreen.toolbar.zoom_menu.pixel_preview_1x": {
+        "string": "1x"
+    },
+    "fullscreen.toolbar.zoom_menu.pixel_preview_2x": {
+        "string": "2x"
+    },
+    "fullscreen.toolbar.zoom_menu.pixel_preview_disabled": {
+        "string": "無効"
+    },
+    "fullscreen.toolbar.zoom_menu.zoom_to_200": {
+        "string": "200%ズーム"
+    },
+    "fullscreen.toolbar.zoom_menu.zoom_to_50": {
+        "string": "50%ズーム"
+    },
+    "fullscreen.type_panel.align_bottom": {
+        "string": "下揃え"
+    },
+    "fullscreen.type_panel.align_center": {
+        "string": "中央揃え"
+    },
+    "fullscreen.type_panel.align_horizontal": {
+        "string": "左右"
+    },
+    "fullscreen.type_panel.align_left": {
+        "string": "左揃え"
+    },
+    "fullscreen.type_panel.align_middle": {
+        "string": "上下中央揃え"
+    },
+    "fullscreen.type_panel.align_right": {
+        "string": "右揃え"
+    },
+    "fullscreen.type_panel.align_top": {
+        "string": "上揃え"
+    },
+    "fullscreen.type_panel.align_vertical": {
+        "string": "上下"
+    },
+    "fullscreen.type_panel.auto_height": {
+        "string": "高さの自動調整"
+    },
+    "fullscreen.type_panel.auto_width": {
+        "string": "幅の自動調整"
+    },
+    "fullscreen.type_panel.bulleted_list": {
+        "string": "箇条書きリスト"
+    },
+    "fullscreen.type_panel.fixed_size": {
+        "string": "固定サイズ"
+    },
+    "fullscreen.type_panel.font_size": {
+        "string": "フォントサイズ"
+    },
+    "fullscreen.type_panel.letter_spacing": {
+        "string": "文字間隔"
+    },
+    "fullscreen.type_panel.line_height": {
+        "string": "行間"
+    },
+    "fullscreen.type_panel.list_spacing": {
+        "string": "リスト間隔"
+    },
+    "fullscreen.type_panel.no_list": {
+        "string": "リストなし"
+    },
+    "fullscreen.type_panel.numbered_list": {
+        "string": "番号付きリスト"
+    },
+    "fullscreen.type_panel.paragraph_spacing": {
+        "string": "段落間隔"
+    },
+    "fullscreen.type_panel.properties": {
+        "string": "プロパティ"
+    },
+    "fullscreen.type_panel.switch_text_direction": {
+        "string": "テキスト方向の切り替え"
+    },
+    "fullscreen.type_panel.text": {
+        "string": "テキスト"
+    },
+    "fullscreen.type_panel.type_details": {
+        "string": "タイプの詳細"
+    },
+    "fullscreen.type_panel.type_or_choose": {
+        "string": "入力または選択してください…"
+    },
+    "fullscreen.type_panel.type_settings": {
+        "string": "タイプの設定"
+    },
+    "fullscreen.type_panel.typography": {
+        "string": "タイポグラフィー"
+    },
+    "fullscreen.type_panel.update_agent_cta": {
+        "string": "バリアブルフォントを使用し、今後の自動更新を有効にするには、{link}"
+    },
+    "fullscreen.type_panel.update_your_font_installer": {
+        "string": "フォントインストーラーを更新してください"
+    },
+    "fullscreen.type_panel.variable_font_axes": {
+        "string": "バリアブルフォントの軸..."
+    },
+    "fullscreen.type_settings.basic_tab": {
+        "string": "基本設定"
+    },
+    "fullscreen.type_settings.details_tab": {
+        "string": "詳細設定"
+    },
+    "fullscreen.type_settings.variable_tab": {
+        "string": "バリアブル"
+    }
+}

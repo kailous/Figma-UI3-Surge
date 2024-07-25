@@ -1,0 +1,152 @@
+{
+    "community.plugin_development.new_widget_created": {
+        "string": "新しいウィジェットが作成されました!"
+    },
+    "community.plugin_development.open_folder": {
+        "string": "フォルダを開く"
+    },
+    "community.plugin_development.please_add_some_alphanumeric_text_to_your_resource_name": {
+        "string": "英数字テキストをリソース名に追加してください"
+    },
+    "community.plugin_development.plugin_creation_editor_option_figjam": {
+        "string": "FigJam"
+    },
+    "community.plugin_development.plugin_creation_editor_option_figjam_description": {
+        "string": "他のツールにつないだり、独自のツールを作成することで、FigJamの可能性を広げることができます。"
+    },
+    "community.plugin_development.plugin_creation_editor_option_figma_design": {
+        "string": "Figmaデザイン"
+    },
+    "community.plugin_development.plugin_creation_editor_option_figma_design_and_figjam": {
+        "string": "Figmaデザイン + FigJam"
+    },
+    "community.plugin_development.plugin_creation_editor_option_figma_design_and_figjam_description": {
+        "string": "FigmaデザインとFigJamの両方で機能するプラグインを作成します。"
+    },
+    "community.plugin_development.plugin_creation_editor_option_figma_design_description": {
+        "string": "作業の自動化、実データの取り込みなどで、次のレベルのデザインプロセスが実現します。"
+    },
+    "community.plugin_development.plugin_creation_template_option_codegen": {
+        "string": "コード生成"
+    },
+    "community.plugin_development.plugin_creation_template_option_codegen_description": {
+        "string": "自分好みの言語でコードを生成するプラグインを作成します。"
+    },
+    "community.plugin_development.plugin_creation_template_option_default": {
+        "string": "デフォルト"
+    },
+    "community.plugin_development.plugin_creation_template_option_default_description": {
+        "string": "イマジネーションのための「空白の石版」"
+    },
+    "community.plugin_development.plugin_creation_template_option_run_once": {
+        "string": "1回実行する"
+    },
+    "community.plugin_development.plugin_creation_template_option_run_once_description": {
+        "string": "実行後に入力が不要なプラグインを作成します。最も手軽な方法です。"
+    },
+    "community.plugin_development.plugin_creation_template_option_tab": {
+        "string": "インスペクト"
+    },
+    "community.plugin_development.plugin_creation_template_option_tab_description": {
+        "string": "デザインが実現可能かどうか詳しくチェックするためのプラグインを作成します。これらのプラグインは、他のツールから得られる関連性の高いコンテキストなど、デザインの文脈に関する付加的な情報を示すことができます。"
+    },
+    "community.plugin_development.plugin_creation_template_option_with_ui": {
+        "string": "カスタムUI"
+    },
+    "community.plugin_development.plugin_creation_template_option_with_ui_description": {
+        "string": "独自のUIを持つプラグインを作成します。ブラウザベースのAPIを最大限利用できます。"
+    },
+    "community.plugin_development.plugin_issue": {
+        "string": "プラグインの問題"
+    },
+    "community.plugin_development.plugin_name": {
+        "string": "プラグイン名"
+    },
+    "community.plugin_development.save_as": {
+        "string": "名前を付けて保存"
+    },
+    "community.plugin_development.setup_guide": {
+        "string": "セットアップガイド"
+    },
+    "community.plugin_development.unable_to_generate_resource_id": {
+        "string": "リソースIDを生成できません。後でもう一度お試しください。"
+    },
+    "community.plugin_development.unable_to_write_resource_to_disk": {
+        "string": "リソースをディスクに書き込むことができません。後でもう一度お試しください。"
+    },
+    "community.plugin_development.widget_creation_editor_option_figjam": {
+        "string": "FigJam"
+    },
+    "community.plugin_development.widget_creation_editor_option_figjam_description": {
+        "string": "作業の自動化、実データの取り込みなどで、次のレベルのデザインプロセスが実現します。"
+    },
+    "community.plugin_development.widget_creation_editor_option_figma_design": {
+        "string": "Figmaデザイン"
+    },
+    "community.plugin_development.widget_creation_editor_option_figma_design_and_figjam": {
+        "string": "Figmaデザイン + FigJam"
+    },
+    "community.plugin_development.widget_creation_editor_option_figma_design_and_figjam_description": {
+        "string": "FigmaデザインとFigJamの両方で機能するウィジェットを作成できます。"
+    },
+    "community.plugin_development.widget_creation_editor_option_figma_design_description": {
+        "string": "他のツールにつないだり、独自のツールを作成することで、FigJamの可能性を広げることができます。"
+    },
+    "community.plugin_development.widget_creation_option_default": {
+        "string": "デフォルト"
+    },
+    "community.plugin_development.widget_creation_option_default_description": {
+        "string": "イマジネーションのための「空白の石版」。"
+    },
+    "community.plugin_development.widget_creation_option_simple": {
+        "string": "シンプル"
+    },
+    "community.plugin_development.widget_creation_option_simple_description": {
+        "string": "ユーザーがキャンバス上で直接やり取りできるシンプルなウィジェットを作成します。"
+    },
+    "community.plugin_development.widget_creation_option_with_iframe": {
+        "string": "iFrame"
+    },
+    "community.plugin_development.widget_creation_option_with_iframe_description": {
+        "string": "iFlameウィンドウを開くことができるウィジェットを作成します。ブラウザベースのAPIを使ったさまざま機能を実装できます。"
+    },
+    "community.plugin_development.widget_issue": {
+        "string": "ウィジェットの問題"
+    },
+    "community.plugin_development.widget_name": {
+        "string": "ウィジェット名"
+    },
+    "community.plugin_development.you_must_provide_a_name_for_your_plugin": {
+        "string": "プラグインの名前を入力する必要があります"
+    },
+    "community.plugin_development.you_must_provide_a_name_for_your_widget": {
+        "string": "ウィジェットの名前を入力する必要があります。"
+    },
+    "community.plugin_development.your_figma_plugin": {
+        "string": "自分のFigmaプラグイン"
+    },
+    "community.plugins.approve": {
+        "string": "承認"
+    },
+    "community.plugins.approve_ellipsis": {
+        "string": "承認..."
+    },
+    "community.plugins.approve_for_org_tooltip": {
+        "string": "リソースを承認リストに追加し、{orgName}のすべてのユーザーが使用できるようにします。"
+    },
+    "community.plugins.cancel_review": {
+        "string": "確認をキャンセルする"
+    },
+    "community.plugins.create_new_plugin": {
+        "string": "新しいプラグインの作成"
+    },
+    "community.plugins.create_new_widget": {
+        "string": "新しいウィジェットを作成"
+    },
+    "community.plugins.delist_your_resource_type": {
+        "string": "{resourceType}をリストから除外"
+    },
+    "community.plugins.desktop_app": {
+        "string": "デスクトップアプリ"
+    }
+}

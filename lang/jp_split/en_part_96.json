@@ -1,0 +1,152 @@
+{
+    "design_systems.shared_fonts.upload_new_shared_font": {
+        "string": "新しい共有フォントをアップロード"
+    },
+    "design_systems.shared_fonts.upload_progress": {
+        "string": "{current}/{total}個のフォントファイルをインポート中..."
+    },
+    "design_systems.shared_fonts.uploading_n_fonts": {
+        "string": "{numFonts, plural, other {{numFonts}個のフォントをアップロード}}"
+    },
+    "design_systems.shared_fonts.variable": {
+        "string": "バリアブル"
+    },
+    "design_systems.shared_fonts.version": {
+        "string": "バージョン"
+    },
+    "design_systems.shared_fonts.view_shared_fonts_from_organization": {
+        "string": "{orgName}組織の{action} "
+    },
+    "design_systems.shared_fonts.view_shared_fonts_from_organization_action": {
+        "string": "{numOrgFonts, plural, other {{numOrgFonts}個のフォントを表示します}}"
+    },
+    "design_systems.shared_fonts.you_already_have_a_font_with_this_name": {
+        "string": "この名前のフォントは既に存在しています。"
+    },
+    "design_systems.states_panel.combine_as_variants": {
+        "string": "バリアントとして結合"
+    },
+    "design_systems.states_panel.components": {
+        "string": "コンポーネント"
+    },
+    "design_systems.states_panel.components_with_more_than_1000_variants_may_experience_performance_issues": {
+        "string": "含まれるバリアント数が1000を超えるコンポーネントでは、パフォーマンスの問題が発生する可能性があります。バリアントを個別のコンポーネントに分割してみてください。"
+    },
+    "design_systems.states_panel.default_property_value": {
+        "string": "デフォルト"
+    },
+    "design_systems.states_panel.layer_has_invalid_name": {
+        "string": "{layers, plural, other {これらのレイヤーの名前が無効です。すべてのバリアント名が次の形式であることを確認してください:}}"
+    },
+    "design_systems.states_panel.prop_value_prop_value": {
+        "string": "Prop=Value、Prop=Value、..."
+    },
+    "design_systems.states_panel.select_conflicting_variants": {
+        "string": "競合するバリアントを選択する"
+    },
+    "design_systems.states_panel.select_invalid_variants": {
+        "string": "無効なバリアントを選択する"
+    },
+    "design_systems.states_panel.some_layers_have_invalid_names": {
+        "string": "一部のレイヤーの名前が無効です。"
+    },
+    "design_systems.states_panel.some_variants_are_missing_properties": {
+        "string": "一部のバリアントでプロパティが欠落しています。"
+    },
+    "design_systems.states_panel.some_variants_have_the_same_property_values_applied": {
+        "string": "一部のバリアントに同じプロパティ値が適用されています。この問題を解決するには、これらの値を変更してください。"
+    },
+    "design_systems.states_panel.the_properties_and_values_of_variant_are_conflicting": {
+        "string": "{variants, plural, other {これらのバリアントのプロパティと値が競合しています。この問題を解決するには、このバリアントに適用されている値を変更してください。}}"
+    },
+    "design_systems.states_panel.variants_are_missing_one_or_more_properties": {
+        "string": "{variants, plural, other {これらのバリアントで1つ以上のプロパティが欠落しています。}}"
+    },
+    "design_systems.missing_font_cant_make_changes": {
+        "string": "フォントが見つからないため、変更できません"
+    },
+    "design_systems.missing_font_learn_more": {
+        "string": "詳細情報"
+    },
+    "design_systems.styles.add_new_folder": {
+        "string": "新しいフォルダの追加"
+    },
+    "design_systems.styles.buttons.browse": {
+        "string": "ライブラリを参照..."
+    },
+    "design_systems.styles.clear_overrides_over_text_style": {
+        "string": "テキストスタイルを再度適用"
+    },
+    "design_systems.styles.color_style": {
+        "string": "{numStyles, plural, other {色スタイル}}"
+    },
+    "design_systems.styles.custom": {
+        "string": "カスタム"
+    },
+    "design_systems.styles.cut_styles": {
+        "string": "{numStyles, plural, other {{numStyles}個のスタイルをカット}}"
+    },
+    "design_systems.styles.delete_styles": {
+        "string": "{numStyles, plural, other {{numStyles}個のスタイルを削除}}"
+    },
+    "design_systems.styles.detach_style": {
+        "string": "スタイルを解除"
+    },
+    "design_systems.styles.dropdown.effect": {
+        "string": "エフェクト"
+    },
+    "design_systems.styles.dropdown.fill": {
+        "string": "色"
+    },
+    "design_systems.styles.dropdown.grid": {
+        "string": "グリッド"
+    },
+    "design_systems.styles.dropdown.text": {
+        "string": "テキスト"
+    },
+    "design_systems.styles.edit_color_style": {
+        "string": "色スタイルを編集"
+    },
+    "design_systems.styles.edit_effect_style": {
+        "string": "エフェクトスタイルを編集"
+    },
+    "design_systems.styles.edit_grid_style": {
+        "string": "グリッドスタイルを編集"
+    },
+    "design_systems.styles.edit_style": {
+        "string": "スタイルを編集"
+    },
+    "design_systems.styles.edit_text_style": {
+        "string": "テキストスタイルを編集"
+    },
+    "design_systems.styles.effect_style": {
+        "string": "{numStyles, plural, other {エフェクトスタイル}}"
+    },
+    "design_systems.styles.export_style": {
+        "string": "エクスポートスタイル"
+    },
+    "design_systems.styles.fill_color_style": {
+        "string": "塗り色スタイル"
+    },
+    "design_systems.styles.go_to_style_definition": {
+        "string": "スタイル定義に移動"
+    },
+    "design_systems.styles.grid_style": {
+        "string": "{numStyles, plural, other {グリッドスタイル}}"
+    },
+    "design_systems.styles.local_styles": {
+        "string": "ローカルスタイル"
+    },
+    "design_systems.styles.no_specified_style": {
+        "string": "{kind}がありません。"
+    },
+    "design_systems.styles.no_styles_match": {
+        "string": "この検索条件に一致するスタイルはありません。"
+    },
+    "design_systems.styles.paste_styles": {
+        "string": "{numStyles, plural, other {{numStyles}個のスタイルを貼り付け}}"
+    },
+    "design_systems.styles.properties": {
+        "string": "プロパティ"
+    }
+}

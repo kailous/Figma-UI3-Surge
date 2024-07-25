@@ -1,0 +1,152 @@
+{
+    "collaboration.branching_node_treatments.value.text_truncation.disabled": {
+        "string": "無効"
+    },
+    "collaboration.branching_node_treatments.value.text_truncation.ending": {
+        "string": "有効"
+    },
+    "collaboration.branching_node_treatments.value.true": {
+        "string": "True"
+    },
+    "collaboration.branching_node_treatments.value.type_details_edited": {
+        "string": "タイプの詳細を編集済み"
+    },
+    "collaboration.branching_node_treatments.value.video": {
+        "string": "動画"
+    },
+    "collaboration.branching_node_treatments.value.widget_metadata_edited": {
+        "string": "ウィジェットのメタデータを編集済み"
+    },
+    "collaboration.branching_reviews.add_context_optional": {
+        "string": "コンテキストの追加 (オプション) ..."
+    },
+    "collaboration.branching_reviews.approve": {
+        "string": "承認"
+    },
+    "collaboration.branching_reviews.finish_your_review": {
+        "string": "レビューを終了する"
+    },
+    "collaboration.branching_reviews.give_reviewers_more_context_for_your_changes": {
+        "string": "レビュー担当者に変更のコンテキストを提供します。"
+    },
+    "collaboration.branching_reviews.give_reviewers_more_context_for_your_latest_changes": {
+        "string": "レビュー担当者に、最新の更新のレビューを依頼します"
+    },
+    "collaboration.branching_reviews.leave_a_comment": {
+        "string": "コメントを残す (オプション)"
+    },
+    "collaboration.branching_reviews.leave_a_comment_for_owner": {
+        "string": "{ownerHandle}にコメントを残す (オプション)"
+    },
+    "collaboration.branching_reviews.leave_a_comment_for_owner_and_other_reviewers": {
+        "string": "{ownerHandle}および他のレビュー担当者にコメントを残す (オプション)"
+    },
+    "collaboration.branching_reviews.request_review": {
+        "string": "レビューをリクエスト"
+    },
+    "collaboration.branching_reviews.send_to_reviewers": {
+        "string": "{numReviewers, plural, other {{numReviewers}人のレビュー担当者に送信}}"
+    },
+    "collaboration.branching_reviews.submit": {
+        "string": "送信"
+    },
+    "collaboration.branching_reviews.suggest_changes": {
+        "string": "変更を提案"
+    },
+    "collaboration.branching_to_source.add": {
+        "string": "追加"
+    },
+    "collaboration.branching_to_source.add_a_comment": {
+        "string": "コメントを追加"
+    },
+    "collaboration.branching_to_source.add_comment": {
+        "string": "コメントの追加"
+    },
+    "collaboration.branching_to_source.add_context": {
+        "string": "レビュー担当者向けのコメントを追加"
+    },
+    "collaboration.branching_to_source.add_people_to_approve_or_provide_feedback_on_your_changes_they_ll_get_notified_when_you_add_them": {
+        "string": "変更を承認するかフィードバックを提供するためのユーザーを追加します。追加するとこれらのユーザーに通知されます。"
+    },
+    "collaboration.branching_to_source.add_title": {
+        "string": "タイトルを追加"
+    },
+    "collaboration.branching_to_source.add_your_review": {
+        "string": "レビューを追加"
+    },
+    "collaboration.branching_to_source.affected_items": {
+        "string": "影響を受けるアイテム"
+    },
+    "collaboration.branching_to_source.all_variants_were_removed": {
+        "string": "すべてのバリアントが削除されました"
+    },
+    "collaboration.branching_to_source.an_error_occurred_fetching_your_contacts": {
+        "string": "連絡先の取得中にエラーが発生しました"
+    },
+    "collaboration.branching_to_source.branch_merged": {
+        "string": "ブランチをマージしました"
+    },
+    "collaboration.branching_to_source.branch_was_archived": {
+        "string": "ブランチ{branchFileName}が{relativeTimestamp}にアーカイブされました"
+    },
+    "collaboration.branching_to_source.cancel": {
+        "string": "キャンセル"
+    },
+    "collaboration.branching_to_source.change": {
+        "string": "{numChanges, plural, other {{numChanges}個の変更}}"
+    },
+    "collaboration.branching_to_source.clear": {
+        "string": "クリア"
+    },
+    "collaboration.branching_to_source.confirm_cancel_review_request": {
+        "string": "レビューリクエストがキャンセルされ、レビューがドラフトに変換されます。ブランチ{branchName}は影響を受けません。"
+    },
+    "collaboration.branching_to_source.conflicts_must_be_resolved_to_merge_this_branch": {
+        "string": "このブランチをマージするには、{sourceFileName}との競合を解決する必要があります"
+    },
+    "collaboration.branching_to_source.convert_to_draft": {
+        "string": "ドラフトに変換する"
+    },
+    "collaboration.branching_to_source.convert_to_draft_title": {
+        "string": "ドラフトに変換する"
+    },
+    "collaboration.branching_to_source.edit_comment": {
+        "string": "コメントの編集"
+    },
+    "collaboration.branching_to_source.edit_description": {
+        "string": "説明の編集"
+    },
+    "collaboration.branching_to_source.group_m_of_n": {
+        "string": "{groupIndex}/{numGroups}"
+    },
+    "collaboration.branching_to_source.instances_affected": {
+        "string": "{chunkCount, plural, other {このブランチの{chunkCount}個のインスタンス}}"
+    },
+    "collaboration.branching_to_source.merge_branch": {
+        "string": "ブランチをマージ"
+    },
+    "collaboration.branching_to_source.merging_branch_name_changes": {
+        "string": "{branchName}個の変更をマージ中"
+    },
+    "collaboration.branching_to_source.modified_variants": {
+        "string": "{variantCount, plural, other {{variantCount}個のバリアントが変更されました}}"
+    },
+    "collaboration.branching_to_source.no_changes_to_merge": {
+        "string": "マージする変更がありません"
+    },
+    "collaboration.branching_to_source.no_results_matching_query": {
+        "string": "\"{query}\"と一致する結果がありません"
+    },
+    "collaboration.branching_to_source.no_reviewers_add_no_suggestions.seat_rename": {
+        "string": "{fileName}での編集権限がないため、自分でマージすることはできません。編集権限を持つユーザーをこのファイルに追加してください。"
+    },
+    "collaboration.branching_to_source.no_reviewers_add_suggestions.seat_rename": {
+        "string": "{fileName}での編集権限がないため、自分でマージすることはできません。編集権限のある次のいずれかのユーザーを追加してください。"
+    },
+    "collaboration.branching_to_source.no_reviewers_added": {
+        "string": "レビュー担当者が追加されていません"
+    },
+    "collaboration.branching_to_source.only_editors_of_file_can_merge_this_branch": {
+        "string": "{sourceFileName}の編集者だけがこのブランチをマージできます"
+    }
+}

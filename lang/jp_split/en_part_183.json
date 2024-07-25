@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.focus-mode-component-set-toggle": {
+        "string": "マルチ編集を切り替える"
+    },
+    "fullscreen_actions.focus-mode-exit": {
+        "string": "フレームのフォーカスを解除"
+    },
+    "fullscreen_actions.focus-mode-responsive-set": {
+        "string": "レイアウトのオートフォーカス設定モードの切り替え"
+    },
+    "fullscreen_actions.focus_next_area": {
+        "string": "次のエリアにフォーカス"
+    },
+    "fullscreen_actions.focus_previous_area": {
+        "string": "前のエリアにフォーカス"
+    },
+    "fullscreen_actions.follow_presenter": {
+        "string": "プレゼンターをフォロー"
+    },
+    "fullscreen_actions.force-publish-state-group": {
+        "string": "選択されているコンポーネントを再公開"
+    },
+    "fullscreen_actions.force_merge_branch": {
+        "string": "ブランチのマージを強制"
+    },
+    "fullscreen_actions.force_update_from_main": {
+        "string": "メインからの更新を強制"
+    },
+    "fullscreen_actions.frame-selection": {
+        "string": "選択範囲のフレーム化"
+    },
+    "fullscreen_actions.frame_tool": {
+        "string": "フレームツール"
+    },
+    "fullscreen_actions.get_desktop_app": {
+        "string": "デスクトップアプリを入手"
+    },
+    "fullscreen_actions.group-selection": {
+        "string": "選択範囲のグループ化"
+    },
+    "fullscreen_actions.hide-section": {
+        "string": "セクションを非表示"
+    },
+    "fullscreen_actions.hide-sibling-layers": {
+        "string": "その他のレイヤーを非表示"
+    },
+    "fullscreen_actions.hide-sidebar": {
+        "string": "左サイドバーを隠す"
+    },
+    "fullscreen_actions.hide_help_ui": {
+        "string": "ヘルプUIを非表示"
+    },
+    "fullscreen_actions.hide_selection": {
+        "string": "選択内容を非表示"
+    },
+    "fullscreen_actions.hot_reload_plugin": {
+        "string": "プラグインをホットリロード"
+    },
+    "fullscreen_actions.ignore_constraints": {
+        "string": "制約を無視"
+    },
+    "fullscreen_actions.ignore_constraints_frames_only": {
+        "string": "トリミング(画像)/制約を無視(フレーム)"
+    },
+    "fullscreen_actions.import": {
+        "string": "インポート…"
+    },
+    "fullscreen_actions.import-from-csv": {
+        "string": "CSVからインポート..."
+    },
+    "fullscreen_actions.insert-component-right-text": {
+        "string": "from {name}"
+    },
+    "fullscreen_actions.inspect-fragment": {
+        "string": "フラグメントをインスペクト"
+    },
+    "fullscreen_actions.join-selection": {
+        "string": "選択範囲を結合"
+    },
+    "fullscreen_actions.keyboard_shortcuts_panel.component-search": {
+        "string": "コンポーネント検索"
+    },
+    "fullscreen_actions.keyboard_shortcuts_panel.insert": {
+        "string": "挿入"
+    },
+    "fullscreen_actions.leave_edit_mode": {
+        "string": "完了"
+    },
+    "fullscreen_actions.line_tool": {
+        "string": "線ツール"
+    },
+    "fullscreen_actions.link_copied": {
+        "string": "リンクをコピーしました"
+    },
+    "fullscreen_actions.live-boolean-intersect": {
+        "string": "選択範囲の交差"
+    },
+    "fullscreen_actions.live-boolean-subtract": {
+        "string": "選択範囲の型抜き"
+    },
+    "fullscreen_actions.live-boolean-union": {
+        "string": "選択範囲の結合"
+    },
+    "fullscreen_actions.live-boolean-xor": {
+        "string": "選択範囲の中マド"
+    },
+    "fullscreen_actions.main-component": {
+        "string": "メインコンポーネント"
+    },
+    "fullscreen_actions.main_menu": {
+        "string": "メインメニュー"
+    },
+    "fullscreen_actions.manage-plugins": {
+        "string": "プラグインを管理..."
+    },
+    "fullscreen_actions.manage-widgets": {
+        "string": "ウィジェットを管理..."
+    },
+    "fullscreen_actions.manage_plugins_in_development": {
+        "string": "開発中のプラグインを管理"
+    },
+    "fullscreen_actions.manage_widgets_in_development": {
+        "string": "開発中のウィジェットを管理"
+    },
+    "fullscreen_actions.mask-selection": {
+        "string": "マスクとして使用"
+    },
+    "fullscreen_actions.measure_to_selection": {
+        "string": "選択範囲までの距離の測定"
+    },
+    "fullscreen_actions.minimize-ui": {
+        "string": "UIを最小化"
+    },
+    "fullscreen_actions.missing-plugin": {
+        "string": "{pluginCommand} ({pluginName}を実行)"
+    },
+    "fullscreen_actions.move-table-column-left": {
+        "string": "列を左へ"
+    },
+    "fullscreen_actions.move-table-column-right": {
+        "string": "列を右へ"
+    },
+    "fullscreen_actions.move-table-row-down": {
+        "string": "行を下へ"
+    },
+    "fullscreen_actions.move-table-row-up": {
+        "string": "行を上へ"
+    },
+    "fullscreen_actions.move_down": {
+        "string": "下に移動"
+    }
+}

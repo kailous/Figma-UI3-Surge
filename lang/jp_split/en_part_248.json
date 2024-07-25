@@ -1,0 +1,152 @@
+{
+    "file_access_row.expiration.custom_expiration_options_for_org_enforcement_24hrs": {
+        "string": "{num, plural, other {{num}時間}}"
+    },
+    "file_access_row.expiration.custom_expiration_options_for_org_enforcement_24hrs_label": {
+        "string": "{num, plural, other {{num}時間後}}"
+    },
+    "file_access_row.expiration.custom_time": {
+        "string": "時間を指定"
+    },
+    "file_access_row.expiration.date.timestamp": {
+        "string": "{date}{time}"
+    },
+    "file_access_row.expiration.invalid_options": {
+        "string": "時間を設定するには、後の日付を選択してください。"
+    },
+    "file_access_row.expiration.org_enforcement_message_v2": {
+        "string": "{orgName}の設定により、{time}前にアクセスを終了する必要があります。"
+    },
+    "file_access_row.expiration.past_date": {
+        "string": "まだ過ぎていない日付を入力してください。"
+    },
+    "file_access_row.expiration.past_max": {
+        "string": "1年を超える有効期間は設定できません。"
+    },
+    "file_access_row.expiration.past_org_limit_days": {
+        "string": "{count, plural, other {組織で設定されている有効期間は最長{count}日間です。}}"
+    },
+    "file_access_row.expiration.past_org_limit_hours": {
+        "string": "{count, plural, other {組織で設定されている有効期間は最長{count}時間です。}}"
+    },
+    "file_access_row.expiration.prototype_access_ends": {
+        "string": "他のすべてのユーザーのプロトタイプへのアクセス期限"
+    },
+    "file_access_row.expiration.remove": {
+        "string": "有効期限を削除"
+    },
+    "file_access_row.expiration.set": {
+        "string": "設定"
+    },
+    "file_access_row.expiration.set_link_access": {
+        "string": "リンクのアクセス権を設定"
+    },
+    "file_access_row.expiration.testing": {
+        "string": "20秒(テストのみ)"
+    },
+    "file_access_row.external_users_can_view_this_file_but_need_admin_approval_to_edit": {
+        "string": "外部ユーザーはこのファイルを閲覧できますが、編集するには管理者の承認が必要です"
+    },
+    "file_access_row.only_editors_can_invite_people_to_this_file.seat_rename": {
+        "string": "このファイルにユーザーを招待できるのは、編集アクセス権のあるユーザーだけです"
+    },
+    "file_access_row.only_people_invited_to_this_noun": {
+        "string": "この{noun}に招待されたユーザーのみ"
+    },
+    "file_access_row.org_name_members_have_emails_at_emails_list_show_less": {
+        "string": "{orgName}のメンバーは{emailsList}のメールアドレスを持っています。{showLess}"
+    },
+    "file_access_row.orgname_members_have_emails_at_first_domain_plus_others": {
+        "string": "{domainCount, plural, other {{orgName}のメンバーは、{firstDomain}のメールアドレスを持っています。{remainingDomainCountLink}}}"
+    },
+    "file_access_row.passwords.add_a_password": {
+        "string": "パスワードを追加"
+    },
+    "file_access_row.passwords.copied": {
+        "string": "コピーされました!"
+    },
+    "file_access_row.passwords.generate": {
+        "string": "生成"
+    },
+    "file_access_row.remaining_domain_count_more": {
+        "string": "+ 他{remainingDomainCount}個"
+    },
+    "file_access_row.show_less": {
+        "string": "表示数を減らす"
+    },
+    "file_audience_row.anyone_with_password": {
+        "string": "パスワードを知っている全員"
+    },
+    "file_audience_row.editors_from_the_main_file_can_also_access": {
+        "string": "メインファイルの編集者もアクセス可能"
+    },
+    "file_audience_row.settings_are_managed_in_the_main_file": {
+        "string": "設定はメインファイルで管理されています"
+    },
+    "file_audience_row.viewers_and_editors_from_the_main_file_can_also_access": {
+        "string": "メインファイルの閲覧者と編集者もアクセス可能"
+    },
+    "file_info_row.anyone_with_access_to_the_main_file_can_access_this_branch": {
+        "string": "メインファイルへのアクセス権があるすべてのユーザーが、このブランチにアクセスできます。"
+    },
+    "file_info_row.branch": {
+        "string": "ブランチ"
+    },
+    "file_info_row.everyone_at_team_name_can_access_this_noun": {
+        "string": "{teamName}のすべてのメンバーが、この{noun}にアクセスできます。"
+    },
+    "file_info_row.file": {
+        "string": "ファイル"
+    },
+    "file_info_row.invite_only_members_of_team_name_cannot_view_this_noun": {
+        "string": "招待限定 – {teamName}のメンバーは、この{noun}を閲覧できません。"
+    },
+    "file_info_row.members_of_folder_name_can_access_this_noun": {
+        "string": "{folderName}のメンバーは、この{noun}にアクセスできます。"
+    },
+    "file_info_row.members_of_this_project_or_team_can_access_this_noun": {
+        "string": "このプロジェクトまたはチームのメンバーは、この{noun}にアクセスできます。"
+    },
+    "file_permissions.disable_folder_access.cancel": {
+        "string": "キャンセル"
+    },
+    "file_permissions.disable_folder_access.folder_name": {
+        "string": "{folderName}"
+    },
+    "file_permissions.disable_folder_access.keep_in_mind_that_member_of_the_folder_name_project_may_lose_access": {
+        "string": "{folderNameBolded}プロジェクトのメンバーがこのファイルへのアクセス権を失う場合があります。いつでも、もう一度アクセスを許可できます。"
+    },
+    "file_permissions.disable_folder_access.remove": {
+        "string": "削除"
+    },
+    "file_permissions.disable_folder_access.remove_access": {
+        "string": "アクセス権を削除"
+    },
+    "file_permissions.disable_folder_access.remove_folder_names_access": {
+        "string": "{folderName}のアクセス権を削除"
+    },
+    "file_permissions.enable_folder_access.cancel": {
+        "string": "キャンセル"
+    },
+    "file_permissions.enable_folder_access.folder_name": {
+        "string": "{folderName}"
+    },
+    "file_permissions.enable_folder_access.give_access": {
+        "string": "アクセスを許可"
+    },
+    "file_permissions.enable_folder_access.give_access_to_the_folder": {
+        "string": "{folderName}フォルダへのアクセスを許可"
+    },
+    "file_permissions.enable_folder_access.team_name": {
+        "string": "{teamName}"
+    },
+    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_with_team_access": {
+        "string": "{folderNameBolded}の全メンバーと{teamNameBolded}チーム({folderNameBolded}が存在)のメンバーを招待します。メンバーはこのファイルへのアクセス権を取得し、すでに持っているフォルダ権限をすべて保持します。\n\nこのファイルへの{folderNameBolded}のアクセス権はいつでも削除できます。"
+    },
+    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_without_team_access": {
+        "string": "{folderNameBolded}の全メンバーを招待します。メンバーはこのファイルへのアクセス権を取得し、すでに持っているフォルダ権限をすべて保持します。\n\nこのファイルへの{folderNameBolded}のアクセス権はいつでも削除できます。"
+    },
+    "file_permissions.generic_error": {
+        "string": "このファイルの更新中にエラーが発生しました。"
+    }
+}

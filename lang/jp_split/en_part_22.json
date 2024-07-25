@@ -1,0 +1,152 @@
+{
+    "auth.sign_up_for_figma": {
+        "string": "Figmaにサインアップ"
+    },
+    "auth.sso-gate.back-with-session": {
+        "string": "キャンセルして、{orgName}に参加しない"
+    },
+    "auth.sso-gate.back-without-session": {
+        "string": "メールアドレスの変更に戻る"
+    },
+    "auth.sso-gate.google": {
+        "string": "Google"
+    },
+    "auth.sso-gate.header": {
+        "string": "続行するために、{ssoName}でログインして{orgName}に参加する"
+    },
+    "auth.sso-gate.invalid-session": {
+        "string": "セッションが期限切れまたは無効です"
+    },
+    "auth.sso-gate.log-in-google": {
+        "string": "Googleで続行"
+    },
+    "auth.sso-gate.log-in-saml": {
+        "string": "SAMLでログイン"
+    },
+    "auth.sso-gate.saml-sso": {
+        "string": "SAML SSO"
+    },
+    "auth.team_join_link.error_on_redeem": {
+        "string": "招待リンクの使用中にエラーが発生しました"
+    },
+    "auth.tell_us_about_yourself": {
+        "string": "ご自身の情報を入力してください"
+    },
+    "auth.terms-and-conditions-2nd-person": {
+        "string": "「{callToActionText}」と「{googleText}」をクリックすることで、{termsOfService}と{privacyPolicy}に同意したものとみなされます。"
+    },
+    "auth.try-again-in-figma-for-vs-code": {
+        "string": "VS Code連携でもう一度試します"
+    },
+    "auth.try-again-on-specific-app": {
+        "string": "{appDescriptor}アプリでもう一度試してください"
+    },
+    "auth.try_again": {
+        "string": "もう一度試す"
+    },
+    "auth.two-factor.authentication-code": {
+        "string": "認証コード"
+    },
+    "auth.two-factor.back": {
+        "string": "戻る"
+    },
+    "auth.two-factor.code-hint-confirmation": {
+        "string": "末尾に{phoneNumber}が付く番号にコードを送信しました"
+    },
+    "auth.two-factor.header": {
+        "string": "認証コードか復旧コードを入力してください"
+    },
+    "auth.two-factor.log-in": {
+        "string": "ログイン"
+    },
+    "auth.two-factor.resend-sms-code": {
+        "string": "SMSコードを再送する"
+    },
+    "auth.two-factor.send-sms-code": {
+        "string": "SMSコードを再送する"
+    },
+    "auth.two-factor.sms-hint": {
+        "string": "末尾に{phoneNumber}が付く番号にSMSを送信しました"
+    },
+    "auth.validate-code.code-resend-error": {
+        "string": "コードの再送中にエラーが発生しました"
+    },
+    "auth.validate-code.code-resent-check-email": {
+        "string": "コードを再送しました。メールを確認してください。"
+    },
+    "auth.validate-code.enter-code-message": {
+        "string": "コードを入力してください"
+    },
+    "auth.validate-code.header": {
+        "string": "アカウントの確認"
+    },
+    "auth.validate-code.primary-description": {
+        "string": "メールアドレス{email}にコードを送信しました。"
+    },
+    "auth.validate-code.resend-button": {
+        "string": "再送信"
+    },
+    "auth.validate-code.resend-helper-text": {
+        "string": "コードを受信していませんか? {cta}"
+    },
+    "auth.validate-code.secondary-description": {
+        "string": "以下にコードを入力して確認します。"
+    },
+    "auth.validate-code.submit-button": {
+        "string": "送信"
+    },
+    "auth.validate-email.click_the_link": {
+        "string": "{emailAddress}に届いたリンクをクリックして、アカウントのセットアップを完了してください。"
+    },
+    "auth.validate-email.log-out-link": {
+        "string": "ログアウト"
+    },
+    "auth.validate-email.log-out-only": {
+        "string": "アドレスが間違っていますか? {logOutLink}して別のメールアドレスでサインインしてください。"
+    },
+    "auth.validate-email.resend-email": {
+        "string": "受信ボックスにも、迷惑メールフォルダにも届いていない場合: {resendEmailLink}"
+    },
+    "auth.validate-email.resend-email-link": {
+        "string": "再送信"
+    },
+    "auth.validate-email.resend-email-text": {
+        "string": "メールの再送信"
+    },
+    "auth.welcome-to-figma": {
+        "string": "Figmaへようこそ"
+    },
+    "auth.your-login-session-has-expired": {
+        "string": "ログインセッションの期限が切れました。"
+    },
+    "multi-account.max_accounts_body": {
+        "string": "10のアカウントにサインインしたようです。別のアカウントにサインインするには、サインイン中のいずれかのアカウントでログアウトする必要があります。"
+    },
+    "multi-account.max_accounts_submit": {
+        "string": "了解"
+    },
+    "multi-account.max_accounts_title": {
+        "string": "アカウントの最大数に達しました"
+    },
+    "auth.two-factor-setup.a_verified_email_is_required": {
+        "string": "認証済みメールが必要です"
+    },
+    "auth.two-factor-setup.are_you_sure": {
+        "string": "よろしいですか?"
+    },
+    "auth.two-factor-setup.authenticator-app-needed": {
+        "string": "このプロセスを完了するには、次のようなオーセンティケーターモバイルアプリが必要です:"
+    },
+    "auth.two-factor-setup.authenticator_apps_are_enabled": {
+        "string": "オーセンティケーターアプリが有効になります"
+    },
+    "auth.two-factor-setup.authy": {
+        "string": "Authy"
+    },
+    "auth.two-factor-setup.cancel": {
+        "string": "キャンセル"
+    },
+    "auth.two-factor-setup.click_here_to_manually_type_the_code_instead": {
+        "string": "ここをクリックして、代わりに手動でコードを入力します。"
+    }
+}

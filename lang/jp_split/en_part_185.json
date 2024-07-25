@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.page-duplicate": {
+        "string": "ページを複製"
+    },
+    "fullscreen_actions.page-move-to": {
+        "string": "{name}"
+    },
+    "fullscreen_actions.page-move-to-menu": {
+        "string": "ページに移動"
+    },
+    "fullscreen_actions.page-move-to-new-file": {
+        "string": "新しいファイルに移動..."
+    },
+    "fullscreen_actions.page-navigate-fail": {
+        "string": "そのページを読み込むことができませんでした。もう一度お試しください。"
+    },
+    "fullscreen_actions.page-next": {
+        "string": "次のページ"
+    },
+    "fullscreen_actions.page-previous": {
+        "string": "前のページ"
+    },
+    "fullscreen_actions.page-rename": {
+        "string": "ページ名を変更"
+    },
+    "fullscreen_actions.pages-delete": {
+        "string": "{pageCount, plural, other {{pageCount}ページを削除}}"
+    },
+    "fullscreen_actions.pages-rename": {
+        "string": "{pageCount, plural, other {{pageCount} ページの名前を変更}}"
+    },
+    "fullscreen_actions.pan": {
+        "string": "パン"
+    },
+    "fullscreen_actions.panels-menu": {
+        "string": "パネル"
+    },
+    "fullscreen_actions.paste": {
+        "string": "貼り付け"
+    },
+    "fullscreen_actions.paste-and-match-style": {
+        "string": "貼り付けてスタイルを適用"
+    },
+    "fullscreen_actions.paste-as-live-object": {
+        "string": "ライブオブジェクトとして貼り付ける"
+    },
+    "fullscreen_actions.paste-here": {
+        "string": "ここに貼り付け"
+    },
+    "fullscreen_actions.paste-over-selection": {
+        "string": "選択範囲の上に貼り付け"
+    },
+    "fullscreen_actions.paste-properties": {
+        "string": "プロパティの貼り付け"
+    },
+    "fullscreen_actions.paste-to-replace": {
+        "string": "貼り付けて置換"
+    },
+    "fullscreen_actions.pen_tool": {
+        "string": "ペンツール"
+    },
+    "fullscreen_actions.pencil_tool": {
+        "string": "鉛筆ツール"
+    },
+    "fullscreen_actions.place": {
+        "string": "画像/動画を配置..."
+    },
+    "fullscreen_actions.place_all_images": {
+        "string": "すべて配置"
+    },
+    "fullscreen_actions.place_image": {
+        "string": "画像を配置..."
+    },
+    "fullscreen_actions.place_image_or_video": {
+        "string": "画像/動画..."
+    },
+    "fullscreen_actions.plugin_parameters.enter": {
+        "string": "Enter"
+    },
+    "fullscreen_actions.plugin_parameters.optional_optional_names": {
+        "string": "オプション: {optionalNames}"
+    },
+    "fullscreen_actions.plugin_parameters.tab": {
+        "string": "Tab"
+    },
+    "fullscreen_actions.plugin_parameters.to_enter_optional_parameters": {
+        "string": "オプションのパラメーターを入力するには"
+    },
+    "fullscreen_actions.plugin_parameters.to_run_plugin": {
+        "string": "プラグインを実行するには"
+    },
+    "fullscreen_actions.plugins-menu": {
+        "string": "プラグイン"
+    },
+    "fullscreen_actions.plugins-menu-browse": {
+        "string": "コミュニティでプラグインを探す"
+    },
+    "fullscreen_actions.plugins-menu-internal-dev-modal": {
+        "string": "内部開発..."
+    },
+    "fullscreen_actions.plugins-menu-manage": {
+        "string": "プラグインを管理..."
+    },
+    "fullscreen_actions.plugins-menu-saved-plugins": {
+        "string": "保存済みプラグイン"
+    },
+    "fullscreen_actions.plugins-run-last": {
+        "string": "最後のプラグインを実行"
+    },
+    "fullscreen_actions.preferences-menu": {
+        "string": "基本設定"
+    },
+    "fullscreen_actions.present-as-prototype": {
+        "string": "新しいタブに表示"
+    },
+    "fullscreen_actions.present-sites-full-preview": {
+        "string": "フルプレビュー"
+    },
+    "fullscreen_actions.present-slides-audience-view": {
+        "string": "プレゼンテーション"
+    },
+    "fullscreen_actions.present-slides-description": {
+        "string": "スライドを順番に1つずつ再生します。デッキの共有に最適です。"
+    },
+    "fullscreen_actions.present-slides-flyout-icon-alt": {
+        "string": "現在のスライドのサムネイル"
+    },
+    "fullscreen_actions.present-slides-presenter-view": {
+        "string": "プレゼンテーション+メモ"
+    },
+    "fullscreen_actions.present-slides-presenter-view-description": {
+        "string": "2つのビューを開きます。ひとつはデッキ用、もうひとつはメモ用です。"
+    },
+    "fullscreen_actions.previous-artboard": {
+        "string": "前のフレームにズーム"
+    },
+    "fullscreen_actions.previous-artboard-same-zoom": {
+        "string": "前のフレームの検出"
+    },
+    "fullscreen_actions.print-image-diagnostics": {
+        "string": "Print image diagnostics"
+    },
+    "fullscreen_actions.print-render-tree": {
+        "string": "Print render tree"
+    },
+    "fullscreen_actions.prototype": {
+        "string": "プロトタイプ"
+    },
+    "fullscreen_actions.prune_invalid_component_prop_refs": {
+        "string": "選択範囲の無効なコンポーネントプロパティ参照を削除します"
+    }
+}

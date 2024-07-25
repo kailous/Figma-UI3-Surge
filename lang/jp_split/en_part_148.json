@@ -1,0 +1,152 @@
+{
+    "whiteboard.starter_kit.sections.retro.first_activity": {
+        "string": "最初のアクティビティー"
+    },
+    "whiteboard.starter_kit.sections.retro.second_activity": {
+        "string": "2番目のアクティビティー"
+    },
+    "whiteboard.starter_kit.sections.retro.start_here": {
+        "string": "ここから開始(賞賛の場合)"
+    },
+    "whiteboard.starter_kit.sections.retro.third_activity": {
+        "string": "3番目のアクティビティー"
+    },
+    "whiteboard.starter_kit.standup.last_week": {
+        "string": "先週"
+    },
+    "whiteboard.starter_kit.standup.section_title": {
+        "string": "{person_num}人"
+    },
+    "whiteboard.starter_kit.standup.subtitle": {
+        "string": "{date}日の週"
+    },
+    "whiteboard.starter_kit.standup.this_week": {
+        "string": "今週"
+    },
+    "whiteboard.starter_kit.subheadings.agenda.first_topic": {
+        "string": "今日のトークテーマ..."
+    },
+    "whiteboard.starter_kit.subheadings.agenda.icebreakers": {
+        "string": "今日の質問..."
+    },
+    "whiteboard.starter_kit.subheadings.agenda.intros": {
+        "string": "今日の議題…"
+    },
+    "whiteboard.starter_kit.subheadings.brainstorm.prompt1": {
+        "string": "プロンプト1"
+    },
+    "whiteboard.starter_kit.subheadings.brainstorm.prompt2": {
+        "string": "プロンプト2"
+    },
+    "whiteboard.starter_kit.subheadings.bug_bash.instructions": {
+        "string": "エピック縦横比の手順はこちらです。"
+    },
+    "whiteboard.starter_kit.subheadings.design_crit.concepts": {
+        "string": "コンセプト1"
+    },
+    "whiteboard.starter_kit.subheadings.design_crit.feedback": {
+        "string": "探しているフィードバック: "
+    },
+    "whiteboard.starter_kit.subheadings.design_crit.problems": {
+        "string": "解決しようとしている問題: "
+    },
+    "whiteboard.starter_kit.subheadings.presentation.slide_1": {
+        "string": "スライドタイトル"
+    },
+    "whiteboard.starter_kit.subheadings.presentation.slide_2": {
+        "string": "今年は売り上げが増加"
+    },
+    "whiteboard.starter_kit.subheadings.presentation.timeline": {
+        "string": "タイムライン"
+    },
+    "whiteboard.starter_kit.subheadings.presentation.title": {
+        "string": "プレゼンテーションタイトル"
+    },
+    "whiteboard.starter_kit.subheadings.user_journey.actions": {
+        "string": "アクション"
+    },
+    "whiteboard.starter_kit.subheadings.user_journey.cell_helper": {
+        "string": "セルをクリックしてテキストを追加します!"
+    },
+    "whiteboard.starter_kit.subheadings.user_journey.opportunities": {
+        "string": "機会"
+    },
+    "whiteboard.starter_kit.subheadings.user_journey.phase": {
+        "string": "フェーズ{phase_num}"
+    },
+    "whiteboard.starter_kit.subheadings.user_journey.questions": {
+        "string": "抱えている問題"
+    },
+    "whiteboard.starter_kit.subheadings.user_journey.sentiment": {
+        "string": "所感"
+    },
+    "whiteboard.starter_mindmap.child_1": {
+        "string": "コンセプト"
+    },
+    "whiteboard.starter_mindmap.child_2": {
+        "string": "アイデア"
+    },
+    "whiteboard.starter_mindmap.child_3": {
+        "string": "考え"
+    },
+    "whiteboard.starter_mindmap.root_text": {
+        "string": "質問またはトピック"
+    },
+    "org_settings.ai_features_disabled.k12": {
+        "string": "K-12組織のAI機能を無効にすることはできません。"
+    },
+    "org_settings.error.license_seat_count_less_than_expected": {
+        "string": "申請されたフル{licenseType}シートの数が予想より少なくなっています。予想シート数は {expectedSeatCount}、申請シート数は{requestedSeatCount}です"
+    },
+    "org_settings.rate_limiting.external_content_controls_duration": {
+        "string": "外部コンテンツへのアクセスの設定は10分に1回のみ更新できます"
+    },
+    "org_settings.rate_limiting.idle_session_timeout_duration": {
+        "string": "アイドルセッションタイムアウトは10分に1回のみ更新できます"
+    },
+    "org_settings.sso-requirements.configure-saml": {
+        "string": "SAML SSOを必須とするSAMLを構成する必要があります。"
+    },
+    "org_settings.sso-requirements.google-to-saml": {
+        "string": "SAML SSOを必須にするには、まずすべての認証方法を許可します。次に、SAMLにログインして構成を確認します。これにより、SAML SSO必須に切り替えることができます。"
+    },
+    "org_settings.sso-requirements.k12": {
+        "string": "お使いの認証設定は、K-12組織でGoogleログインが必要なため変更できません。"
+    },
+    "org_settings.sso-requirements.login-with-google": {
+        "string": "メンバーにGoogleでのログインを要求する前に、Googleにログインする必要があります。"
+    },
+    "org_settings.sso-requirements.login-with-saml": {
+        "string": "メンバーにSAML SSOでのログインを要求する前に、SAML SSOにログインする必要があります。"
+    },
+    "permissions.error_move_files_into_project": {
+        "string": "このプロジェクトにファイルを移動する権限がありません。"
+    },
+    "permissions.sinatra.cant_use_file_as_template": {
+        "string": "このファイルをテンプレートとして使う権限がありません。"
+    },
+    "permissions.sinatra.cant_use_files_as_templates": {
+        "string": "これらのファイルをテンプレートとして使う権限がありません。"
+    },
+    "permissions.sinatra.cant_view_file": {
+        "string": "このファイルを表示する権限がありません。"
+    },
+    "permissions.sinatra.generic": {
+        "string": "この操作を行う権限がないようです。"
+    },
+    "permissions.sinatra.invalid_file_access_setting": {
+        "string": "社内で参照可能なファイルのファイルアクセス設定{accessLevel}が無効です"
+    },
+    "permissions.sinatra.invite_only_project_paywall": {
+        "string": "「招待限定」プロジェクトを有効にするには、有料チームにアップグレードしてください。"
+    },
+    "permissions.sinatra.may_not_delete_root_project": {
+        "string": "ルートプロジェクトを削除することはできません"
+    },
+    "permissions.sinatra.move_to_deleted_team": {
+        "string": "{teamName}は削除されたチームです"
+    },
+    "permissions.sinatra.no_globally_editable_drafts": {
+        "string": "下書きファイルをグローバル編集可にすることはできません"
+    }
+}

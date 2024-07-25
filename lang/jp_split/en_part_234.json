@@ -1,0 +1,152 @@
+{
+    "confirm_account_change.generic.dev_mode.annotations": {
+        "string": "アノテーション、変更履歴、その他"
+    },
+    "confirm_account_change.generic.dev_mode.integrations": {
+        "string": "StorybookやVS Codeなどのツールとの連携"
+    },
+    "confirm_account_change.generic.figjam.access_all_templates_and_libraries": {
+        "string": "すべてのテンプレートとライブラリへのアクセス"
+    },
+    "confirm_account_change.generic.figjam.edit_share_or_create": {
+        "string": "ドラフトの外でのFigJamファイルの編集、作成、共有"
+    },
+    "confirm_account_change.generic.figjam.give_access_to_drafts": {
+        "string": "コラボレーターへのFigJamドラフトへのアクセス権の付与"
+    },
+    "confirm_account_change.grant_edit_access_confirm_text": {
+        "string": "アップグレード"
+    },
+    "confirm_account_change.grant_edit_access_link.seat_rename": {
+        "string": "有料シートの詳細情報"
+    },
+    "confirm_account_change.grant_figjam_access_description.seat_rename": {
+        "string": "{numUsers, plural, other {FigJamでこれら{numUsers}人のシートをアップグレードすると、ドラフトセクション以外でFigJamファイルの編集や作成が可能になります。}}"
+    },
+    "confirm_account_change.grant_figjam_access_description_single.seat_rename": {
+        "string": "{userName}をアップグレードすると、[ドラフト]セクションの外でFigJamファイルを作成し、編集できるようになります。"
+    },
+    "confirm_account_change.grant_figjam_access_description_single_no_username.seat_rename": {
+        "string": "このユーザーをFigJamでアップグレードすると、[ドラフト]セクションの外でFigJamファイルを作成し、編集できるようになります。"
+    },
+    "confirm_account_change.grant_figjam_access_title.seat_rename": {
+        "string": "{numUsers, plural, other {これらのFigJamシートをアップグレードしますか?}}"
+    },
+    "confirm_account_change.grant_figma_design_access_description.seat_rename": {
+        "string": "{numUsers, plural, other {この{numUsers}人のユーザーをFigmaデザインでアップグレードすると、[ドラフト]セクションの外でデザインファイルを編集し、作成できるようになります。}}"
+    },
+    "confirm_account_change.grant_figma_design_access_description_single.seat_rename": {
+        "string": "{userName}をアップグレードすると、[ドラフト]セクションの外でデザインファイルを作成し、編集できるようになります。"
+    },
+    "confirm_account_change.grant_figma_design_access_description_single_no_username.seat_rename": {
+        "string": "このユーザーをFigmaデザインでアップグレードすると、[ドラフト]セクションの外でデザインファイルを作成し、編集できるようになります。"
+    },
+    "confirm_account_change.grant_figma_design_access_title.seat_rename": {
+        "string": "{numUsers, plural, other {これらのFigmaデザインシートをアップグレードしますか?}}"
+    },
+    "confirm_account_change.remove_dev_mode_access_title": {
+        "string": "{numUsers, plural, other {これらの開発者シートをダウングレードしますか?}}"
+    },
+    "confirm_account_change.remove_edit_access_confirm_text": {
+        "string": "ダウングレード"
+    },
+    "confirm_account_change.remove_edit_access_description.seat_rename": {
+        "string": "{numUsers, plural, other {この{numUsers}人のユーザーを{viewerRestricted}シートにダウングレードする場合:}}"
+    },
+    "confirm_account_change.remove_edit_access_description_single.seat_rename": {
+        "string": "{userName}を{viewerRestricted}シートにダウングレードする場合:"
+    },
+    "confirm_account_change.remove_edit_access_description_single_no_username.seat_rename": {
+        "string": "このメンバーを{viewerRestricted}シートにダウングレードする場合:"
+    },
+    "confirm_account_change.remove_figjam_access_description_cant_edit_outside_drafts": {
+        "string": "[ドラフト]セクションの外部でFigmaファイルを編集または作成できなくなります"
+    },
+    "confirm_account_change.remove_figjam_access_description_cant_share_new_draft_files": {
+        "string": "新しいドラフトFigJamファイルを共有できなくなります"
+    },
+    "confirm_account_change.remove_figjam_access_description_shared_draft_files_no_longer_accessible": {
+        "string": "コラボレーターは、以前に共有していたすべてのドラフトFigJamファイルにアクセスできなくなります"
+    },
+    "confirm_account_change.remove_figjam_access_title.seat_rename": {
+        "string": "{numUsers, plural, other {これらのFigJamシートをダウングレードしますか?}}"
+    },
+    "confirm_account_change.remove_figma_design_access_description_cant_edit_outside_drafts": {
+        "string": "[ドラフト]セクションの外部でデザインファイルを編集または作成できなくなります"
+    },
+    "confirm_account_change.remove_figma_design_access_description_cant_share_new_draft_files": {
+        "string": "新しいドラフトデザインファイルを共有できなくなります"
+    },
+    "confirm_account_change.remove_figma_design_access_description_shared_draft_files_no_longer_accessible": {
+        "string": "コラボレーターは、以前に共有していたすべてのドラフトデザインファイルにアクセスできなくなります"
+    },
+    "confirm_account_change.remove_figma_design_access_title.seat_rename": {
+        "string": "{numUsers, plural, other {これらのデザインシートをダウングレードしますか?}}"
+    },
+    "confirm_account_change.seat_type.full_seat": {
+        "string": "フル"
+    },
+    "confirm_account_change.seat_type.viewer_restricted": {
+        "string": "限定閲覧"
+    },
+    "confirm_account_change.upgrade.all_licenses.description_p1.plural": {
+        "string": "この{numUsers}人のメンバーを{seatType}シートにアップグレードすると、"
+    },
+    "confirm_account_change.upgrade.all_licenses.description_p1.singular": {
+        "string": "{userName}を{seatType}シートにアップグレードすると、"
+    },
+    "confirm_account_change.upgrade.all_licenses.description_p1.singular.no_username": {
+        "string": "このメンバーを{seatType}シートにアップグレードすると、"
+    },
+    "confirm_account_change.upgrade.design.description_p2": {
+        "string": "次のことができるようになります。"
+    },
+    "confirm_account_change.upgrade.dev_mode.another_option.plural": {
+        "string": "フルデザインシートにアップグレードする方法もあります。そうすれば、開発モードを無料で利用できるようになります。"
+    },
+    "confirm_account_change.upgrade.dev_mode.another_option.singular": {
+        "string": "{userName}をフルデザインシートにアップグレードする方法もあります。そうすれば、開発モードを無料で利用できるようになります。"
+    },
+    "confirm_account_change.upgrade.dev_mode.another_option.singular.no_username": {
+        "string": "このメンバーをフルデザインシートにアップグレードする方法もあります。そうすれば、開発モードを無料で利用できるようになります。"
+    },
+    "confirm_account_change.upgrade.dev_mode.description_p2": {
+        "string": "開発モードとそのすべての機能を利用できるようになります。以下の機能が含まれます。"
+    },
+    "confirm_account_change.upgrade.dev_mode.title": {
+        "string": "{numUsers, plural, other {これらの開発モードシートをアップグレードしますか?}}"
+    },
+    "confirm_account_change.viewer_restricted": {
+        "string": "限定閲覧者"
+    },
+    "confirm_billing_group_change.confirm_button": {
+        "string": "請求グループを変更"
+    },
+    "confirm_billing_group_change.confirmation_description_with_billing_group_admin_warning": {
+        "string": "{numUsers, plural, other {この{numUsers}人を{billingGroupName}に移動すると、請求グループの管理者({listOfBillingGroupAdmins})によって管理されるようになります。}}"
+    },
+    "confirm_billing_group_change.confirmation_description_with_billing_group_admin_warning_no_username": {
+        "string": "{numUsers, plural, other {この{numUsers}人を{billingGroupName}に移動すると、請求グループの管理者({listOfBillingGroupAdmins})によって管理されるようになります。}}"
+    },
+    "confirm_billing_group_change.success_message": {
+        "string": "{numUsers, plural, other {{numUsers}人の請求グループを更新しました}}"
+    },
+    "confirm_billing_group_change.title": {
+        "string": "請求グループを変更しますか?"
+    },
+    "confirm_workspace_change.confirmation_description": {
+        "string": "{numUsers, plural, other {{numUsers}人のユーザーを{workspaceName}に移動してよろしいですか?}}"
+    },
+    "confirm_workspace_change.confirmation_description_no_username": {
+        "string": "{numUsers, plural, other {これらの{numUsers}人のユーザーを{workspaceName}に移動しますか?}}"
+    },
+    "confirm_workspace_change.confirmation_description_with_organization_admin_warning": {
+        "string": "{numUsers, plural, other {{numUsers}人のユーザーを{workspaceName}に移動すると、この組織の管理者がこれらのユーザーを管理できるようになります}}"
+    },
+    "confirm_workspace_change.confirmation_description_with_organization_admin_warning_no_username": {
+        "string": "{numUsers, plural, other {これらの{numUsers}人のユーザーを{workspaceName}に移動すると、組織の管理者がこれらのユーザーの管理者になります。}}"
+    },
+    "confirm_workspace_change.success_message": {
+        "string": "{numUsers, plural, other {{numUsers}人のユーザーのワークスペースが更新されました}}"
+    }
+}

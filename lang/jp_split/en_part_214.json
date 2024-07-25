@@ -1,0 +1,152 @@
+{
+    "allowlist_plugins_modals.add_plugin.title": {
+        "string": "承認済みプラグインを追加"
+    },
+    "allowlist_plugins_modals.msa_amendment_modal.accept_button": {
+        "string": "同意して続行"
+    },
+    "allowlist_plugins_modals.msa_amendment_modal.success_notification": {
+        "string": "すべてのプラグインが許可されました"
+    },
+    "allowlist_plugins_modals.msa_amendment_modal.title": {
+        "string": "更新されたライセンス契約"
+    },
+    "allowlist_widgets_modals.add_widget.add_button": {
+        "string": "追加"
+    },
+    "allowlist_widgets_modals.add_widget.details": {
+        "string": "ウィジェットを承認するには、そのウィジェットのFigmaコミュニティページへのリンクを貼り付けてください。"
+    },
+    "allowlist_widgets_modals.add_widget.invalid_url_notification": {
+        "string": "無効なウィジェットURLです"
+    },
+    "allowlist_widgets_modals.add_widget.title": {
+        "string": "承認済みウィジェットを追加"
+    },
+    "allowlist_widgets_modals.msa_amendment_modal.success_notification": {
+        "string": "すべてのウィジェットが許可されました"
+    },
+    "billing_groups_table.admin_input_placeholder": {
+        "string": "名前またはメールアドレスを追加"
+    },
+    "billing_groups_table.admins_input": {
+        "string": "管理者"
+    },
+    "billing_groups_table.admins_input_help_text": {
+        "string": "この請求グループの管理を担当する組織のメンバーを選択してください。"
+    },
+    "billing_groups_table.billing_group_created_toast": {
+        "string": "新しい請求グループ「{workspaceName}」が作成されました"
+    },
+    "billing_groups_table.billing_group_edit_save_changes": {
+        "string": "変更を保存"
+    },
+    "billing_groups_table.billing_group_edited_toast": {
+        "string": "「{workspaceName}」請求グループを更新しました"
+    },
+    "billing_groups_table.billing_group_name_already_exists_error": {
+        "string": "この請求グループ名は既に存在します。別の名前を選択してください。"
+    },
+    "billing_groups_table.billing_group_name_unassigned_error": {
+        "string": "請求グループに「Unassigned」という名前を付けることはできません。"
+    },
+    "billing_groups_table.billing_groups_deleted_toast": {
+        "string": "{licenseGroupsCount, plural, other {{licenseGroupsCount}請求グループが削除されました}}"
+    },
+    "billing_groups_table.column_header.admins": {
+        "string": "管理者"
+    },
+    "billing_groups_table.column_header.design_editors.seat_rename": {
+        "string": "デザインシート"
+    },
+    "billing_groups_table.column_header.dev_mode_seats": {
+        "string": "開発モードシート"
+    },
+    "billing_groups_table.column_header.figjam_editors.seat_rename": {
+        "string": "FigJamシート"
+    },
+    "billing_groups_table.column_header.members": {
+        "string": "メンバー"
+    },
+    "billing_groups_table.column_header.name": {
+        "string": "名前"
+    },
+    "billing_groups_table.confirmed": {
+        "string": "確認済み"
+    },
+    "billing_groups_table.create_billing_group_button": {
+        "string": "請求グループを作成"
+    },
+    "billing_groups_table.create_billing_group_title": {
+        "string": "請求グループを1グループ作成"
+    },
+    "billing_groups_table.delete_modal.an_error_occurred_while_deleting_billing_groups": {
+        "string": "請求グループの削除中にエラーが発生しました"
+    },
+    "billing_groups_table.delete_modal.are_you_sure_you_want_to_delete_these_billing_groups": {
+        "string": "{licenseGroupsCount, plural, other {これらの請求グループを削除しますか?}}"
+    },
+    "billing_groups_table.delete_modal.deleting_the_billing_groups_will_cause": {
+        "string": "{licenseGroupsCount, plural, other {{licenseGroupsNames}請求グループを削除すると、請求グループのすべてのメンバーが「未割り当て」に移動します。}}"
+    },
+    "billing_groups_table.delete_modal.i_understand_that_this_action_isnt_reversible": {
+        "string": "このアクションは元に戻せないことを理解しています"
+    },
+    "billing_groups_table.delete_n_billing_groups": {
+        "string": "{licenseGroupsCount, plural, other {{licenseGroupsCount}請求グループを削除}}"
+    },
+    "billing_groups_table.edit_billing_group_modal.add_people_to_a_billing_group.seat_rename": {
+        "string": "請求グループにユーザーを追加すると、それぞれのシートを容易に追跡および管理できます。"
+    },
+    "billing_groups_table.edit_billing_group_title": {
+        "string": "請求グループを編集"
+    },
+    "billing_groups_table.edit_details": {
+        "string": "詳細を編集"
+    },
+    "billing_groups_table.filter.no_results": {
+        "string": "選択したフィルターと一致する請求グループはありません。"
+    },
+    "billing_groups_table.manage": {
+        "string": "管理"
+    },
+    "billing_groups_table.n_editors.seat_rename": {
+        "string": "{count, plural, other {{count}シート}}"
+    },
+    "billing_groups_table.n_members": {
+        "string": "{count, plural, other {{count}人のメンバー}}"
+    },
+    "billing_groups_table.name_input": {
+        "string": "請求グループの名前"
+    },
+    "billing_groups_table.name_input_placeholder": {
+        "string": "コストセンター、事業単位、その他"
+    },
+    "billing_groups_table.plus_billing_group": {
+        "string": "請求グループ"
+    },
+    "billing_groups_table.search.no_results": {
+        "string": "検索条件と一致する請求グループはありません。別の条件で検索してみてください。"
+    },
+    "billing_groups_table.search.placeholder": {
+        "string": "請求グループを検索..."
+    },
+    "billing_groups_table.unconfirmed": {
+        "string": "未確認"
+    },
+    "billing_groups_table.unconfirmed_billing_groups": {
+        "string": "未確認の請求グループ"
+    },
+    "billing_status.default": {
+        "string": "次の請求書は{dueDate, date, ::MMMMd}に発行されます"
+    },
+    "billing_status.locked": {
+        "string": "次の請求書は確定され、{dueDate, date, ::MMMMd}に発行されます"
+    },
+    "billing_status.overdue": {
+        "string": "請求書の期限は{dueDate, date, ::MMMMd}でした。請求を処理する管理者がすぐに支払う必要があります。"
+    },
+    "billing_status.review.auto_renewal_off": {
+        "string": "{renewalDate, date, ::MMMMd}が組織の更新期限です。アカウントマネージャーにお問い合わせください。"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "design_systems.styles.rename_folder": {
+        "string": "フォルダ名を変更"
+    },
+    "design_systems.styles.review_updates": {
+        "string": "更新の確認"
+    },
+    "design_systems.styles.stroke_color_style": {
+        "string": "線色スタイル"
+    },
+    "design_systems.styles.stroke_style": {
+        "string": "線スタイル"
+    },
+    "design_systems.styles.style": {
+        "string": "スタイル"
+    },
+    "design_systems.styles.style_name_tooltip": {
+        "string": "保存先: {fileName}"
+    },
+    "design_systems.styles.styles": {
+        "string": "{numStyles, plural, other {スタイル}}"
+    },
+    "design_systems.styles.text_style": {
+        "string": "{numStyles, plural, other {テキストスタイル}}"
+    },
+    "design_systems.styles.tooltips.create": {
+        "string": "スタイルを作成"
+    },
+    "design_systems.styles.tooltips.create_style_from_section": {
+        "string": "{kind}を作成"
+    },
+    "design_systems.styles.tooltips.library": {
+        "string": "チームライブラリ"
+    },
+    "design_systems.styles.tooltips.show_as_grid": {
+        "string": "グリッドとして表示"
+    },
+    "design_systems.styles.tooltips.show_as_list": {
+        "string": "リストとして表示"
+    },
+    "design_systems.styles.update_available": {
+        "string": "使用可能な更新あり"
+    },
+    "design_systems.styles.update_selected_style": {
+        "string": "選択したスタイルの更新"
+    },
+    "design_systems.styles.view_color_style": {
+        "string": "色スタイルを表示"
+    },
+    "design_systems.styles.view_effect_style": {
+        "string": "エフェクトスタイルを表示"
+    },
+    "design_systems.styles.view_grid_style": {
+        "string": "グリッドスタイルを表示"
+    },
+    "design_systems.styles.view_style": {
+        "string": "スタイルの表示"
+    },
+    "design_systems.styles.view_text_style": {
+        "string": "テキストスタイルを表示"
+    },
+    "design_systems.styles_and_variables": {
+        "string": "スタイルとバリアブル"
+    },
+    "design_systems.subscriptions.inserting_instance": {
+        "string": "インスタンスを挿入しています"
+    },
+    "design_systems.subscriptions.inserting_template": {
+        "string": "テンプレートを挿入しています"
+    },
+    "design_systems.subscriptions.remap_connected": {
+        "string": "接続しました!"
+    },
+    "design_systems.subscriptions.remap_connecting_fraction": {
+        "string": "接続中: {current}/{total}"
+    },
+    "design_systems.subscriptions.remap_connection_failed": {
+        "string": "コネクションが失敗しました"
+    },
+    "design_systems.subscriptions.settings_updated_for": {
+        "string": "{orgOrWorkspaceName}の「{libraryName}」の設定が更新されました"
+    },
+    "design_systems.subscriptions.this_component_is_not_available": {
+        "string": "このコンポーネントはチームライブラリにありません"
+    },
+    "design_systems.subscriptions.unable_to_change_setting": {
+        "string": "設定を変更できません。しばらくしてからもう一度お試しください。"
+    },
+    "design_systems.template_panel.template_controls": {
+        "string": "テンプレートの設定"
+    },
+    "design_systems.template_panel.template_placeholder": {
+        "string": "このテンプレートの使い方"
+    },
+    "design_systems.update_actions.update_failure": {
+        "string": "更新できませんでした"
+    },
+    "design_systems.update_actions.update_success": {
+        "string": "アセットの更新が完了しました"
+    },
+    "design_systems.update_actions.updating_assets": {
+        "string": "アセットを更新しています"
+    },
+    "design_systems.updates.all_pages": {
+        "string": "すべてのページ"
+    },
+    "design_systems.updates.back_to_all_updates": {
+        "string": "すべての更新に戻る"
+    },
+    "design_systems.updates.couldn_t_load_update_descriptions_please_try_again_later": {
+        "string": "更新の説明を読み込めませんでした。しばらくしてからもう一度お試しください。"
+    },
+    "design_systems.updates.current": {
+        "string": "現在"
+    },
+    "design_systems.updates.current_page": {
+        "string": "現在のページ"
+    },
+    "design_systems.updates.go_to_current_instance": {
+        "string": "インスタンスに移動"
+    },
+    "design_systems.updates.instanceIndexOfTotal": {
+        "string": "{overallItemIndex}/{totalNumItems}インスタンス"
+    },
+    "design_systems.updates.instanceName": {
+        "string": "{assetName}のインスタンス"
+    },
+    "design_systems.updates.maybe_updates_other_pages": {
+        "string": "他のページに更新がある場合があります。"
+    },
+    "design_systems.updates.moved_from": {
+        "string": "{movedFromFileName}から移動しました"
+    },
+    "design_systems.updates.next_instance": {
+        "string": "次のインスタンス"
+    },
+    "design_systems.updates.no_updates_available": {
+        "string": "更新はありません"
+    },
+    "design_systems.updates.no_updates_available_page": {
+        "string": "このページに更新はありません"
+    },
+    "design_systems.updates.num_outdated_instances": {
+        "string": "{numOutdatedInstances, plural, other {{numOutdatedInstances}インスタンス }}"
+    },
+    "design_systems.updates.preview_unavailable": {
+        "string": "プレビューは利用できません"
+    },
+    "design_systems.updates.previous_instance": {
+        "string": "前のインスタンス"
+    }
+}

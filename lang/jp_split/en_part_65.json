@@ -1,0 +1,152 @@
+{
+    "community.try.pick_workspace.this_widget_isnt_allowed_by_org": {
+        "string": "このウィジェットは{orgName}では許可されていません。希望する場合は、以下の外部チームを選択して試用を継続することができます。"
+    },
+    "community.try.pick_workspace.title": {
+        "string": "どこで試しますか?"
+    },
+    "community.try.pick_workspace.widget_isnt_allowed_by_org": {
+        "string": "このウィジェットは{orgName}で許可されていません。希望する場合は、以下の別のチームを選択して試用できます。"
+    },
+    "community.try.plugin_name_with_community": {
+        "string": "{pluginName} (コミュニティ)"
+    },
+    "community.try.plugin_requests_disabled_by_your_org": {
+        "string": "{orgName}はプラグインのリクエストを許可していません"
+    },
+    "community.try.presets_disabled_by_admins": {
+        "string": "UIキットは管理者によって無効にされています"
+    },
+    "community.try.save_file": {
+        "string": "ファイルを保存"
+    },
+    "community.try.slides_disabled_by_admins": {
+        "string": "Figma Slidesは管理者によって無効にされています"
+    },
+    "community.try.temporary_file_has_unsaved_changes_description": {
+        "string": "この一時ファイルに未保存の変更があります。作業内容を保護するには、今すぐ保存してください。"
+    },
+    "community.try.unavailable": {
+        "string": "使用できません"
+    },
+    "community.try.used_by_n_people": {
+        "string": "{num, plural, other {{num}人が使用}}"
+    },
+    "community.try.widget_requests_disabled_by_your_org": {
+        "string": "{orgName}はウィジェットのリクエストを許可していません"
+    },
+    "community.try.you_have_unsaved_changes": {
+        "string": "未保存の変更があります"
+    },
+    "community.undo": {
+        "string": "元に戻す"
+    },
+    "community.universal_posting_modal.desktop_callout.plugins": {
+        "string": "プラグインを表示するために、デスクトップアプリを使用します。"
+    },
+    "community.universal_posting_modal.desktop_callout.widgets": {
+        "string": "ウィジェットを表示するために、デスクトップアプリを使用します。"
+    },
+    "community.universal_posting_modal.desktop_get": {
+        "string": "デスクトップアプリを取得"
+    },
+    "community.universal_posting_modal.desktop_open": {
+        "string": "デスクトップアプリを開く"
+    },
+    "community.universal_posting_modal.file_info.available": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルが利用可能です。}}"
+    },
+    "community.universal_posting_modal.footer.choose_resource": {
+        "string": "リソースを選択してコミュニティに公開します。プロトタイプは、ファイル編集者からのみ公開できます。"
+    },
+    "community.universal_posting_modal.footer.learn_more": {
+        "string": "詳細情報"
+    },
+    "community.universal_posting_modal.plugin_info.available": {
+        "string": "{numPlugins, plural, other {{numPlugins}プラグインは利用可能です。}}"
+    },
+    "community.universal_posting_modal.plugin_info.unavailable": {
+        "string": "プラグインは使用できません。"
+    },
+    "community.universal_posting_modal.recent_editable_files_search.no_files_matching": {
+        "string": "{searchQuery}に一致するファイルはありません"
+    },
+    "community.universal_posting_modal.resource_empty.files_subtitle": {
+        "string": "作成するファイルがここに表示され、数回クリックするだけでコミュニティに公開できます。"
+    },
+    "community.universal_posting_modal.resource_empty.files_title": {
+        "string": "まだファイルがありません"
+    },
+    "community.universal_posting_modal.resource_empty.plugins_subtitle": {
+        "string": "作成するプラグインがここに表示され、数回クリックするだけでコミュニティに公開できます。"
+    },
+    "community.universal_posting_modal.resource_empty.plugins_title": {
+        "string": "まだプラグインがありません"
+    },
+    "community.universal_posting_modal.resource_empty.widgets_subtitle": {
+        "string": "作成するウィジェットがここに表示され、数回クリックするだけでコミュニティに公開できます。"
+    },
+    "community.universal_posting_modal.resource_empty.widgets_title": {
+        "string": "まだウィジェットがありません"
+    },
+    "community.universal_posting_modal.search_bar.placeholder": {
+        "string": "公開するファイルを検索"
+    },
+    "community.universal_posting_modal.widget_info.available": {
+        "string": "{numWidgets, plural, other {{numWidgets}個のウィジェットが利用可能です。}}"
+    },
+    "community.universal_posting_modal.widget_info.unavailable": {
+        "string": "ウィジェットは利用できません。"
+    },
+    "community.use_slide_template": {
+        "string": "テンプレートを使用"
+    },
+    "community.use_slide_template.disabled_tooltip": {
+        "string": "Figma Slidesは組織で無効になっています"
+    },
+    "community.using.figjam_board": {
+        "string": "FigJamボード"
+    },
+    "community.using.figma_file": {
+        "string": "Figmaファイル"
+    },
+    "community.using.new_file": {
+        "string": "新しいファイル"
+    },
+    "community.using.open_in": {
+        "string": "場所を指定して開く..."
+    },
+    "community.using.open_in_no_ellipses": {
+        "string": "次で開く"
+    },
+    "community.using.pick_workspace.open_outside_of_org": {
+        "string": "{orgName}の外で開きますか?"
+    },
+    "community.using.pick_workspace.title": {
+        "string": "どこで開きますか?"
+    },
+    "community.using.playground_file": {
+        "string": "プレイグラウンドファイル"
+    },
+    "community.view": {
+        "string": "表示"
+    },
+    "community.view_bar.all": {
+        "string": "すべて"
+    },
+    "community.view_bar.all_creators": {
+        "string": "すべての作成者"
+    },
+    "community.view_bar.all_resources": {
+        "string": "すべてのリソース"
+    },
+    "community.view_bar.browse": {
+        "string": "参照"
+    },
+    "community.view_bar.copied": {
+        "string": "コピー済み"
+    },
+    "community.view_bar.copy_link": {
+        "string": "リンクをコピー"
+    }
+}

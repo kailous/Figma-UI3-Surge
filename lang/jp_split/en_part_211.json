@@ -1,0 +1,152 @@
+{
+    "new_user_experience.user_onboarding_signals.whiteboard.title.freelance_file": {
+        "string": "フリーランサーのファイル"
+    },
+    "new_user_experience.user_onboarding_signals.whiteboard.title.work_project": {
+        "string": "作業プロジェクト"
+    },
+    "new_user_experience.username_file_type": {
+        "string": "{userName}の{type}"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.fun": {
+        "string": "趣味"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.just_checking_things_out": {
+        "string": "確認のみ"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.looking_for_tool": {
+        "string": "ツールを検討中"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.setting_up_for_team": {
+        "string": "チームの準備中"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.starting_new_job_project": {
+        "string": "新しい仕事やプロジェクトに使用"
+    },
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.using_it_for_school": {
+        "string": "授業の準備完了!"
+    },
+    "new_user_experience.what_do_you_do.cursor_chat.designer": {
+        "string": "枠にとらわれずに考えよう..."
+    },
+    "new_user_experience.what_do_you_do.cursor_chat.developer": {
+        "string": "ハンドオフを準備中..."
+    },
+    "new_user_experience.what_do_you_do.cursor_chat.marketer": {
+        "string": "...にふさわしい"
+    },
+    "new_user_experience.what_do_you_do.cursor_chat.other": {
+        "string": "私の仕事を見ればわかるはず。"
+    },
+    "new_user_experience.what_do_you_do.cursor_chat.product_manager": {
+        "string": "...と連携しています"
+    },
+    "new_user_experience.what_do_you_do.cursor_chat.student_or_educator": {
+        "string": "授業の後で会いましょう..."
+    },
+    "new_user_experience.what_do_you_do.cursor_chat.user_researcher": {
+        "string": "調査によると..."
+    },
+    "new_user_experience.what_do_you_do.sticky_note.developer": {
+        "string": "私のマシンでは動作しています"
+    },
+    "new_user_experience.what_do_you_do.sticky_note.educator": {
+        "string": "今日、学ぶのは...."
+    },
+    "new_user_experience.what_do_you_do.sticky_note.other": {
+        "string": "悪いアイデアというものはありません"
+    },
+    "new_user_experience.what_do_you_do.sticky_note.student": {
+        "string": "授業の準備完了"
+    },
+    "new_user_experience.what_is_your_name.description": {
+        "string": "Figmaファイルに次のように表示されます"
+    },
+    "new_user_experience.what_is_your_name.title": {
+        "string": "お名前を教えてください。"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.brainstorms": {
+        "string": "アイデアは多ければ多いほど良い"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.diagramming": {
+        "string": "さあ、始めましょう"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.learning": {
+        "string": "創造性の解放"
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.meetings": {
+        "string": "最初の仕事は..."
+    },
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.projects": {
+        "string": "仕事に取り掛かりましょう"
+    },
+    "404.default.not_found.description": {
+        "string": "ここにファイルが表示されない場合は、ファイルへのアクセス権限がない可能性があります。オーナーにファイルの権限の更新を依頼してください。オーナーは{help}で詳細を確認するか、不明な点がある場合には{email}までメールで問い合わせることができます。"
+    },
+    "404.default.not_found.lively_title": {
+        "string": "見つかりませんでした。"
+    },
+    "404.default.not_found.title": {
+        "string": "お探しのページは見つかりませんでした。"
+    },
+    "404.defaultV2.description": {
+        "string": "このファイルは削除されたか、移動されたか、使用できなくなった可能性があります。ファイルオーナーに連絡してみてください。"
+    },
+    "404.defaultV2.return": {
+        "string": "Figmaに戻る"
+    },
+    "404.defaultV2.title": {
+        "string": "それを見つけることはできませんでした"
+    },
+    "404.embed.allow_embedded_content": {
+        "string": "埋め込みコンテンツを許可"
+    },
+    "404.embed.storage_access_blocked.description": {
+        "string": "まだ、ストレージのアクセス権限がないようです。ブラウザ設定を確認し、もう一度お試しください。"
+    },
+    "404.embed.storage_access_request.title": {
+        "string": "このFigma埋め込みを表示するには、追加のアクセス権が必要です。"
+    },
+    "404.file_no_access.description": {
+        "string": "ファイルを表示するには、ファイルオーナーに権限の更新を依頼してください。"
+    },
+    "404.file_no_access.owner_viewer_restricted_sharing_draft.description": {
+        "string": "このファイルは管理者がオーナーを制限しているため、共有することはできません。"
+    },
+    "404.file_no_access.title": {
+        "string": "このファイルにアクセスできません"
+    },
+    "404.file_not_found.description": {
+        "string": "このファイルが存在していないか、ファイルを表示するための権限がありません。ファイルオーナーに、リンクの確認または権限の更新を依頼してください。"
+    },
+    "404.file_not_found.title": {
+        "string": "ファイルが見つかりません"
+    },
+    "404.iframe.not_found.description": {
+        "string": "ファイルが表示されない場合は、ファイルが公開アクセス可能ではない可能性があります。Figmaでは、セキュリティ上の理由から、公開アクセス可能なファイルのみを他のWebサイト内部に組み込むことができます。オーナーにファイル権限の更新を依頼してください。オーナーは{help}で詳細を確認するか、不明な点がある場合には{email}までメールで問い合わせることができます。"
+    },
+    "404.not_found.create_one": {
+        "string": "アカウントを作成してください"
+    },
+    "404.not_found.enter_password": {
+        "string": "パスワードを入力"
+    },
+    "404.not_found.help_article": {
+        "string": "ヘルプ記事"
+    },
+    "404.not_found.login": {
+        "string": "ログイン"
+    },
+    "404.not_found.login_as_multiple": {
+        "string": "次のメールアドレスでログインしています:"
+    },
+    "404.not_found.login_as_single": {
+        "string": "次のメールアドレスでログインしています:"
+    },
+    "404.not_found.login_to_another": {
+        "string": "別のアカウントにログインしてください"
+    },
+    "404.not_found.login_to_figma": {
+        "string": "このファイルを表示するには、Figmaにログインしてください"
+    }
+}

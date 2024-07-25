@@ -1,0 +1,152 @@
+{
+    "design_systems.component_properties.try_again": {
+        "string": "もう一度お試しください"
+    },
+    "design_systems.component_properties.trying": {
+        "string": "再試行しています..."
+    },
+    "design_systems.component_properties.unbubble_instance": {
+        "string": "インスタンスを削除"
+    },
+    "design_systems.component_properties.unlinked_property_help_text": {
+        "string": "このレイヤーはコンポーネントから取得したものであり、このプロパティが含まれていました。"
+    },
+    "design_systems.component_properties.unpublished_preferred_values": {
+        "string": "一部の優先値は公開されていないため、インスタンスに表示されません。"
+    },
+    "design_systems.component_properties.values": {
+        "string": "値"
+    },
+    "design_systems.component_properties.variant": {
+        "string": "バリアント"
+    },
+    "design_systems.component_properties.variant_property_default_name": {
+        "string": "プロパティ"
+    },
+    "design_systems.component_properties.variant_property_values_delimiter": {
+        "string": "、"
+    },
+    "design_systems.create_style.an_error_occurred_while_creating_the_style": {
+        "string": "スタイルの作成中にエラーが発生しました。"
+    },
+    "design_systems.create_style.cancel": {
+        "string": "キャンセル"
+    },
+    "design_systems.create_style.color": {
+        "string": "新しい色のスタイルを作成"
+    },
+    "design_systems.create_style.color_conflict": {
+        "string": "色の競合"
+    },
+    "design_systems.create_style.conflict": {
+        "string": "{conflictNodesCount, plural, other {この色を他の色と組み合わせて使用している{conflictNodesCount}個のオブジェクトがあります。他の色は削除されます。}}"
+    },
+    "design_systems.create_style.create_new_color_style": {
+        "string": "新しい色のスタイルを作成"
+    },
+    "design_systems.create_style.create_new_color_styles": {
+        "string": "新しい色のスタイルを作成"
+    },
+    "design_systems.create_style.create_new_style_generic": {
+        "string": "新しいスタイルを作成"
+    },
+    "design_systems.create_style.create_style": {
+        "string": "スタイルの作成"
+    },
+    "design_systems.create_style.create_styles": {
+        "string": "スタイルの作成"
+    },
+    "design_systems.create_style.description": {
+        "string": "説明"
+    },
+    "design_systems.create_style.effect": {
+        "string": "新しいエフェクトのスタイルを作成"
+    },
+    "design_systems.create_style.error_applying_style": {
+        "string": "スタイルの適用中にエラーが発生しました。"
+    },
+    "design_systems.create_style.error_creating_style": {
+        "string": "スタイルの作成中にエラーが発生しました。"
+    },
+    "design_systems.create_style.export": {
+        "string": "新しいエクスポートスタイルを作成"
+    },
+    "design_systems.create_style.grid": {
+        "string": "新しいグリッドスタイルを作成"
+    },
+    "design_systems.create_style.hide_options": {
+        "string": "オプションを非表示"
+    },
+    "design_systems.create_style.name": {
+        "string": "名前"
+    },
+    "design_systems.create_style.new_folder": {
+        "string": "新しいフォルダー"
+    },
+    "design_systems.create_style.placeholder_description": {
+        "string": "何のために使用しますか?"
+    },
+    "design_systems.create_style.placeholder_name_color": {
+        "string": "新しい色のスタイル"
+    },
+    "design_systems.create_style.placeholder_name_create_new_style_generic": {
+        "string": "新しいスタイル"
+    },
+    "design_systems.create_style.placeholder_name_effect": {
+        "string": "新しいエフェクトスタイル"
+    },
+    "design_systems.create_style.placeholder_name_grid": {
+        "string": "新しいグリッドスタイル"
+    },
+    "design_systems.create_style.placeholder_name_text": {
+        "string": "新しいテキストスタイル"
+    },
+    "design_systems.create_style.show_me": {
+        "string": "見る"
+    },
+    "design_systems.create_style.show_more_options": {
+        "string": "その他のオプションを表示"
+    },
+    "design_systems.create_style.style": {
+        "string": "スタイル"
+    },
+    "design_systems.create_style.text": {
+        "string": "新しいテキストのスタイルを作成"
+    },
+    "design_systems.create_style.untitled_folder": {
+        "string": "無題"
+    },
+    "design_systems.create_style.untitled_with_count": {
+        "string": "{index, plural, other {無題{index}}}"
+    },
+    "design_systems.create_style.use_style": {
+        "string": "スタイルを使用"
+    },
+    "design_systems.actions.return_to_instance": {
+        "string": "インスタンスに戻る"
+    },
+    "design_systems.actions.return_to_variant": {
+        "string": "最初のバリアントに戻る"
+    },
+    "design_systems.actions.variant_changed": {
+        "string": "バリアントが変更されました"
+    },
+    "design_systems.dsa.files": {
+        "string": "ファイル"
+    },
+    "design_systems.dsa.instances_all_time": {
+        "string": "インスタンス(全期間)"
+    },
+    "design_systems.dsa.learn_more": {
+        "string": "詳細情報"
+    },
+    "design_systems.dsa.not_visible": {
+        "string": "非表示"
+    },
+    "design_systems.dsa.not_visible_help": {
+        "string": "アクセス権限のため、表示されていないチームやファイルがあります。"
+    },
+    "design_systems.dsa.teams": {
+        "string": "チーム"
+    }
+}

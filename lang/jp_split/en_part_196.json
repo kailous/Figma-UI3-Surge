@@ -1,0 +1,152 @@
+{
+    "general.figma_design": {
+        "string": "Figmaデザイン"
+    },
+    "general.figma_design_short": {
+        "string": "デザイン"
+    },
+    "general.figma_design_short_lower": {
+        "string": "デザイン"
+    },
+    "general.figma_slides": {
+        "string": "Figma Slides"
+    },
+    "general.go_back": {
+        "string": "戻る"
+    },
+    "general.got_it": {
+        "string": "了解"
+    },
+    "general.guest": {
+        "string": "ゲスト"
+    },
+    "general.ignore": {
+        "string": "無視"
+    },
+    "general.learn_more": {
+        "string": "詳細情報"
+    },
+    "general.member": {
+        "string": "メンバー"
+    },
+    "general.next": {
+        "string": "次へ"
+    },
+    "general.ok": {
+        "string": "OK"
+    },
+    "general.okay": {
+        "string": "OK"
+    },
+    "general.open": {
+        "string": "開く"
+    },
+    "general.previous": {
+        "string": "前"
+    },
+    "general.privacy_policy": {
+        "string": "プライバシーポリシー"
+    },
+    "general.question_mark": {
+        "string": "疑問符"
+    },
+    "general.recovery_mode": {
+        "string": "復元モード"
+    },
+    "general.remove": {
+        "string": "削除"
+    },
+    "general.restart": {
+        "string": "再起動"
+    },
+    "general.root_error_boundary_description": {
+        "string": "現在、当社のチームが調査しています。再読み込みをしてもページが正しく表示されない場合は、{status_page}で最新情報をご確認ください。"
+    },
+    "general.root_error_boundary_refresh": {
+        "string": "再読み込み"
+    },
+    "general.root_error_boundary_status_page": {
+        "string": "ステータスページ"
+    },
+    "general.root_error_boundary_title": {
+        "string": "Figmaで問題が発生しました"
+    },
+    "general.root_error_boundary_title_figjam": {
+        "string": "FigJamで問題が発生しました"
+    },
+    "general.save": {
+        "string": "保存"
+    },
+    "general.search": {
+        "string": "検索"
+    },
+    "general.show": {
+        "string": "表示"
+    },
+    "general.terms_of_service": {
+        "string": "サービス利用規約"
+    },
+    "general.time.just_now_past": {
+        "string": "たった今"
+    },
+    "general.undo": {
+        "string": "元に戻す"
+    },
+    "general.view_license": {
+        "string": "ライセンスを表示"
+    },
+    "general.viewer": {
+        "string": "閲覧者"
+    },
+    "general.viewer_restricted": {
+        "string": "限定閲覧者"
+    },
+    "google_device_try_file.save_board.generic_error": {
+        "string": "このボードをアカウントに保存できませんでした。メールのリンクを使用して、後でもう一度お試しください。"
+    },
+    "google_device_try_file_modal.claim_success.button": {
+        "string": "続行"
+    },
+    "google_device_try_file_modal.claim_success.description": {
+        "string": "24時間の制限がなくなり、ジャムセッション(アイデアの共有やブレインストーミング)を好きなだけ続けられるようになりました。セッション中のすべての変更が保存されます。"
+    },
+    "google_device_try_file_modal.claim_success.header": {
+        "string": "このボードは保存されました"
+    },
+    "google_device_try_file_modal.disclaimer": {
+        "string": "メールアドレスをお知らせいただくことで、当社の{tos}および{privacy_policy}に同意いただいたことになります"
+    },
+    "google_device_try_file_modal.enter_email": {
+        "string": "メールアドレスを入力"
+    },
+    "google_device_try_file_modal.enter_email.button": {
+        "string": "続行"
+    },
+    "google_device_try_file_modal.enter_email.description": {
+        "string": "すでにFigJamアカウントをご利用の場合は、そのアカウントに登録されたアドレスを使用してください。"
+    },
+    "google_device_try_file_modal.enter_email.error_message": {
+        "string": "有効なメールアドレスを入力してください"
+    },
+    "google_device_try_file_modal.enter_email.failed_to_send": {
+        "string": "メールを送信できませんでした。しばらくしてから、もう一度お試しください。"
+    },
+    "google_device_try_file_modal.enter_email.placeholder_email": {
+        "string": "name@example.com"
+    },
+    "google_device_try_file_modal.error_saving_board": {
+        "string": "ボードを保存するときにエラーが発生しました"
+    },
+    "google_device_try_file_modal.got_mail": {
+        "string": "メールを確認してください"
+    },
+    "google_device_try_file_modal.got_mail.close": {
+        "string": "了解"
+    },
+    "google_device_try_file_modal.got_mail.description": {
+        "string": "{email}に送信されたリンクを使用して、ファイルを保存してください。"
+    },
+    "google_device_try_file_modal.got_mail.email_not_received": {
+        "string": "少し時間がかかる場合があります。まだ表示されない場合は、{send_again_link}してみてください。"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "file_browser.request_access_modal.can_view": {
+        "string": "閲覧のみ"
+    },
+    "file_browser.request_access_modal.request_access_reason_placeholder": {
+        "string": "リクエストに関するメッセージを追加 (オプション)"
+    },
+    "file_browser.request_access_modal.request_edit_access": {
+        "string": "編集アクセス権限をリクエストする"
+    },
+    "file_browser.request_access_modal.request_to_join_team": {
+        "string": "チームへの参加をリクエスト"
+    },
+    "file_browser.request_access_modal.request_view_access": {
+        "string": "閲覧アクセス権限をリクエストする"
+    },
+    "file_browser.request_access_modal.send_a_request_to_join_team": {
+        "string": "{teamName}に参加するためのリクエストを送信します。"
+    },
+    "file_browser.request_access_modal.you": {
+        "string": "{username} (あなた)"
+    },
+    "file_browser.settings.access": {
+        "string": "アクセス権限"
+    },
+    "file_browser.settings.plugins_published": {
+        "string": "{orgName}に公開されたプラグイン"
+    },
+    "file_browser.share_modal.everyone_at_org_can_access_this_file": {
+        "string": "{orgName}のすべてのユーザーがこのファイルにアクセスできます。"
+    },
+    "file_browser.share_modal.everyone_at_this_org_can_access_this_file": {
+        "string": "この組織のすべてのユーザーがこのファイルにアクセスできます。"
+    },
+    "file_browser.shared_projects": {
+        "string": "共有プロジェクト"
+    },
+    "file_browser.starter_folder.folder_upgrade_info": {
+        "string": "有料プランではさらに多くの機能を利用できます。ファイルの数に制限はなく、作業をプロジェクトにまとめ、チーム向けにコンポーネントの共有ライブラリを作成できます。"
+    },
+    "file_browser.starter_folder.ready_for_an_upgrade": {
+        "string": "アップグレードしますか?"
+    },
+    "file_browser.starter_limit.design_files": {
+        "string": "デザインファイル"
+    },
+    "file_browser.starter_limit.design_files.tooltip": {
+        "string": "デザイン用キャンバス"
+    },
+    "file_browser.starter_limit.enough_for_you_to_get_started": {
+        "string": "初めはこのチームで十分ですが、次のステップに進むために、プロフェッショナルプランをご検討ください。"
+    },
+    "file_browser.starter_limit.figjam_boards": {
+        "string": "FigJamボード"
+    },
+    "file_browser.starter_limit.figjam_boards.tooltip": {
+        "string": "ホワイトボードとブレインストーミング"
+    },
+    "file_browser.starter_limit.projects": {
+        "string": "プロジェクト"
+    },
+    "file_browser.starter_limit.projects.tooltip": {
+        "string": "作業を整理するフォルダ"
+    },
+    "file_browser.starter_limit.running_out_of_files": {
+        "string": "無料チームではファイルやプロジェクトが不足します。プロフェッショナルプランで次のステップに進みましょう。"
+    },
+    "file_browser.starter_limit.trying_things_out": {
+        "string": "スタータープランは、ホワイトボードでのアイデア出しからデザイン、仕事の整理に至るまで、さまざまなことを試すのに最適です。"
+    },
+    "file_browser.starter_limit.your_starter_team_overview": {
+        "string": "スターターチームの概要"
+    },
+    "file_browser.starter_team.project_limit_info": {
+        "string": "{upgradeLink}すると、ファイルを無制限に作成し、作業をプロジェクトごとに整理し、コンポーネントのライブラリを作成してチーム内で共有することができます。"
+    },
+    "file_browser.starter_team.project_limit_warning": {
+        "string": "プロジェクト数の上限({maxProjects}/{maxProjects})に達しました"
+    },
+    "file_browser.starter_team.project_limit_warning_over_max_projects": {
+        "string": "プロジェクトの上限に達しました"
+    },
+    "file_browser.starter_team.upgrade_link": {
+        "string": "有料プランにアップグレード"
+    },
+    "file_browser.starter_team.view_plans": {
+        "string": "プランを表示"
+    },
+    "file_browser.team": {
+        "string": "チーム"
+    },
+    "file_browser.team.add_a_description": {
+        "string": "説明を追加"
+    },
+    "file_browser.team.add_project": {
+        "string": "プロジェクト"
+    },
+    "file_browser.team.approve": {
+        "string": "承認"
+    },
+    "file_browser.team.cancel_request": {
+        "string": "リクエストをキャンセル"
+    },
+    "file_browser.team.cannot_leave_secret_team_as_last_team_member": {
+        "string": "シークレットチームの最後のメンバーであり、このチームにプロジェクトが含まれている場合は、シークレットチームを脱退できません。これはデータがアクセス不可にならないようにするためです。"
+    },
+    "file_browser.team.change_access_level_or_move_or_delete_resources_to_leave_team": {
+        "string": "このチームを脱退する場合は、アクセスレベルを変更するか、すべてのプロジェクトとファイルを移動または削除してください。"
+    },
+    "file_browser.team.change_description": {
+        "string": "説明を変更"
+    },
+    "file_browser.team.change_to_secret_team_confirm": {
+        "string": "シークレットに変更"
+    },
+    "file_browser.team.change_to_secret_team_confirmation_title": {
+        "string": "{teamName}をシークレットチームに変更しますか。"
+    },
+    "file_browser.team.dismiss": {
+        "string": "却下"
+    },
+    "file_browser.team.invite": {
+        "string": "招待"
+    },
+    "file_browser.team.join_team": {
+        "string": "チームに参加"
+    },
+    "file_browser.team.leave_confirm": {
+        "string": "退会"
+    },
+    "file_browser.team.member_list_email": {
+        "string": "メール"
+    },
+    "file_browser.team.member_list_name": {
+        "string": "名前"
+    },
+    "file_browser.team.member_list_permissions": {
+        "string": "権限"
+    },
+    "file_browser.team.move_files_out_of_team": {
+        "string": "チームから退出する前に、個人用のドラフトは他のチームに移動してください。"
+    },
+    "file_browser.team.new_project": {
+        "string": "プロジェクトの新規作成"
+    },
+    "file_browser.team.no_members": {
+        "string": "メンバーなし"
+    },
+    "file_browser.team.no_permissions_message": {
+        "string": "{teamName}のプロジェクトとファイルは、このチームのメンバーだけに表示されます。"
+    }
+}

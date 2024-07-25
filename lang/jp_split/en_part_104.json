@@ -1,0 +1,152 @@
+{
+    "dev_handoff.docs.props": {
+        "string": "プロパティ"
+    },
+    "dev_handoff.docs.show_full": {
+        "string": "ドキュメント全体を表示"
+    },
+    "dev_handoff.figmadoc.add_manual_snippet": {
+        "string": "マニュアルスニペットを追加"
+    },
+    "dev_handoff.figmadoc.beta_badge_tooltip": {
+        "string": "Code Connectはデザインシステムからコードスニペットを取り出します"
+    },
+    "dev_handoff.figmadoc.connect_to_code": {
+        "string": "コードに接続"
+    },
+    "dev_handoff.figmadoc.connect_to_code.body": {
+        "string": "Figmaでのデザインのインスペクト時に、Figmaをコードリポジトリに接続して実際のコンポーネントコードを表示します"
+    },
+    "dev_handoff.figmadocs.connected": {
+        "string": "接続"
+    },
+    "dev_handoff.figmadocs.connected_last_published_at": {
+        "string": "最新版公開日時: {lastPublishedAt}"
+    },
+    "dev_handoff.figmadocs.edit_sample_code": {
+        "string": "サンプルコードを編集"
+    },
+    "dev_handoff.figmadocs.error_property_not_found": {
+        "string": "プロパティ「{propertyName}」が見つかりません。デザインファイルが最新バージョンのデザインライブラリを使用していない可能性があります。"
+    },
+    "dev_handoff.figmadocs.error_property_type_mismatch": {
+        "string": "プロパティ「{propertyName}」は{propertyType}ではありません。デザインファイルが最新バージョンのデザインライブラリを使用していない可能性があります。"
+    },
+    "dev_handoff.figmadocs.error_title": {
+        "string": "Code Connectの読み込みでエラーが発生しました"
+    },
+    "dev_handoff.figmadocs.error_unknown": {
+        "string": "Code Connectの例を読み込めませんでした"
+    },
+    "dev_handoff.figmadocs.manual": {
+        "string": "手動"
+    },
+    "dev_handoff.figmadocs.manual_code_snippet": {
+        "string": "手動コードスニペット"
+    },
+    "dev_handoff.inspect_mode.switched_to_design": {
+        "string": "デザインモードに切り替えました"
+    },
+    "dev_handoff.inspect_mode.switched_to_inspect": {
+        "string": "開発モードに切り替えました"
+    },
+    "dev_handoff.inspect_panel.auto_run": {
+        "string": "すべてのファイルに対して自動的に実行"
+    },
+    "dev_handoff.inspect_panel.block_suggestions.body": {
+        "string": "カーソル位置をもとに、複数行のコードブロックの案を取得します。"
+    },
+    "dev_handoff.inspect_panel.block_suggestions.title": {
+        "string": "ブロック案(試験)"
+    },
+    "dev_handoff.inspect_panel.close_plugin": {
+        "string": "プラグインを閉じる"
+    },
+    "dev_handoff.inspect_panel.component": {
+        "string": "コンポーネント"
+    },
+    "dev_handoff.inspect_panel.create_first_here": {
+        "string": "最初の開発モードのプラグインをこちらに作成しましょう。"
+    },
+    "dev_handoff.inspect_panel.fills.background": {
+        "string": "背景色"
+    },
+    "dev_handoff.inspect_panel.fills.text": {
+        "string": "文字色"
+    },
+    "dev_handoff.inspect_panel.generate_code": {
+        "string": "プラグインを閉じてコードを生成"
+    },
+    "dev_handoff.inspect_panel.inspect_nested_component": {
+        "string": "ネストされたコンポーネントをインスペクト"
+    },
+    "dev_handoff.inspect_panel.inspect_plugins_go_here": {
+        "string": "開発モードが有効になると、開発モードのプラグインがここに表示されます。"
+    },
+    "dev_handoff.inspect_panel.learn_more_link": {
+        "string": "{learnMoreLink}"
+    },
+    "dev_handoff.inspect_panel.learn_more_plugin_development": {
+        "string": "プラグイン開発の詳細情報"
+    },
+    "dev_handoff.inspect_panel.more_plugins": {
+        "string": "その他のプラグイン..."
+    },
+    "dev_handoff.inspect_panel.new_plugin": {
+        "string": "新規"
+    },
+    "dev_handoff.inspect_panel.open_in_vs_code.link": {
+        "string": "VS Codeで開く"
+    },
+    "dev_handoff.inspect_panel.open_setting": {
+        "string": "設定を開く"
+    },
+    "dev_handoff.inspect_panel.pin": {
+        "string": "上部にピン留め"
+    },
+    "dev_handoff.inspect_panel.plugins_hint": {
+        "string": "開発モード用のプラグインを使用すると、新しい言語、拡張インスペクションなどでFigmaをカスタマイズできます。"
+    },
+    "dev_handoff.inspect_panel.plugins_hint.link": {
+        "string": "プラグインを参照"
+    },
+    "dev_handoff.inspect_panel.plugins_hint.title": {
+        "string": "Figmaで自分のお気に入りのツールを使用する"
+    },
+    "dev_handoff.inspect_panel.property_suggestions.body": {
+        "string": "バリアブル、色、サイズなど、行ごとにプロパティの案を取得します。"
+    },
+    "dev_handoff.inspect_panel.property_suggestions.title": {
+        "string": "プロパティ案"
+    },
+    "dev_handoff.inspect_panel.search_bar_filter": {
+        "string": "フィルター"
+    },
+    "dev_handoff.inspect_panel.search_bar_filter_codegen_option": {
+        "string": "コード生成プラグインのみ"
+    },
+    "dev_handoff.inspect_panel.show_more_properties": {
+        "string": "インスペクトレイヤーのプロパティ"
+    },
+    "dev_handoff.inspect_panel.template": {
+        "string": "テンプレート"
+    },
+    "dev_handoff.inspect_panel.unpin": {
+        "string": "上部へのピンを外す"
+    },
+    "dev_handoff.inspect_panel.use_desktop_to_develop": {
+        "string": "デスクトップアプリを使用して開発モード用のプラグインを開発します。"
+    },
+    "dev_handoff.inspect_settings": {
+        "string": "インスペクトの設定"
+    },
+    "dev_handoff.instance_navigation.go_to_main_component": {
+        "string": "メインコンポーネントに移動"
+    },
+    "dev_handoff.layers.add_annotation": {
+        "string": "アノテーションを追加"
+    },
+    "dev_handoff.layers.collapse_all_layers": {
+        "string": "すべてのレイヤーを折りたたむ"
+    }
+}

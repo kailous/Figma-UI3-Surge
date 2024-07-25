@@ -1,0 +1,152 @@
+{
+    "lab.menu.changed_to_default": {
+        "string": "{count, plural, other {{count}個のラボをデフォルト値に戻しました}}"
+    },
+    "lab.menu.labs": {
+        "string": "ラボ"
+    },
+    "lab.menu.reset_all": {
+        "string": "ラボをデフォルト値にリセット"
+    },
+    "lab.sites_responsive_scaling": {
+        "string": "サイト: レスポンシブスケーリング"
+    },
+    "lab.trackable_debug": {
+        "string": "追跡可能デバッグモード"
+    },
+    "lab.ui3": {
+        "string": "UI3"
+    },
+    "lab.ui3.canvas_color_theme_sync": {
+        "string": "UI3: ライト/ダークテーマをキャンバスの色に反映する"
+    },
+    "lab.ui3.clip_content_segmented_control": {
+        "string": "UI3: クリップコンテンツをセグメント化されたコントロールとしてレンダリング"
+    },
+    "lab.ui3.experimental_non_design": {
+        "string": "UI3エクスペリメント: グローバルスタイル"
+    },
+    "lab.ui3.experimental_prototype_as_a_tool": {
+        "string": "UI3エクスペリメント: ツールとしてのプロトタイプ"
+    },
+    "lab.ui3.properties_dev": {
+        "string": "UI3プロパティ開発: 開発中の作業を表示"
+    },
+    "lab.ui3_disable": {
+        "string": "以前のUIに戻る"
+    },
+    "lab.ui3_disabled_message": {
+        "string": "Figmaの以前のデザインに戻しました"
+    },
+    "lab.ui3_enable": {
+        "string": "新しいUIを使用する(ベータ版)"
+    },
+    "lab.ui3_enabled_message": {
+        "string": "Figmaの新しいデザインを使用しています"
+    },
+    "lab.ui3_figjam_colors_disabled_message": {
+        "string": "FigJamの以前の色に戻しました"
+    },
+    "lab.ui3_figjam_colors_enabled_message": {
+        "string": "FigJamの新しい色を使用しています"
+    },
+    "lab.ui3_figjam_disable": {
+        "string": "FigJamの以前のデザインに戻る"
+    },
+    "lab.ui3_figjam_disabled_message": {
+        "string": "FigJamの以前のデザインに戻しました"
+    },
+    "lab.ui3_figjam_enable": {
+        "string": "FigJamの新しいデザインを使用"
+    },
+    "lab.ui3_figjam_enabled_message": {
+        "string": "FigJamの新しいデザインを使用しています"
+    },
+    "layer_icon.tooltip.auto_layout": {
+        "string": "オートレイアウト"
+    },
+    "layer_icon.tooltip.canvas": {
+        "string": "キャンバス"
+    },
+    "layer_icon.tooltip.component": {
+        "string": "コンポーネント"
+    },
+    "layer_icon.tooltip.connector": {
+        "string": "コネクター"
+    },
+    "layer_icon.tooltip.ellipse": {
+        "string": "楕円"
+    },
+    "layer_icon.tooltip.embed": {
+        "string": "埋め込み"
+    },
+    "layer_icon.tooltip.exclude": {
+        "string": "除外"
+    },
+    "layer_icon.tooltip.frame": {
+        "string": "フレーム"
+    },
+    "layer_icon.tooltip.group": {
+        "string": "グループ"
+    },
+    "layer_icon.tooltip.home": {
+        "string": "ホーム"
+    },
+    "layer_icon.tooltip.image": {
+        "string": "画像"
+    },
+    "layer_icon.tooltip.instance": {
+        "string": "インスタンス"
+    },
+    "layer_icon.tooltip.intersect": {
+        "string": "交差"
+    },
+    "layer_icon.tooltip.layout": {
+        "string": "レイアウト"
+    },
+    "layer_icon.tooltip.line": {
+        "string": "線"
+    },
+    "layer_icon.tooltip.link_preview": {
+        "string": "リンクプレビュー"
+    },
+    "layer_icon.tooltip.live_object": {
+        "string": "ライブオブジェクト"
+    },
+    "layer_icon.tooltip.mask": {
+        "string": "マスク"
+    },
+    "layer_icon.tooltip.module": {
+        "string": "モジュール"
+    },
+    "layer_icon.tooltip.polygon": {
+        "string": "多角形"
+    },
+    "layer_icon.tooltip.rectangle": {
+        "string": "長方形"
+    },
+    "layer_icon.tooltip.section": {
+        "string": "セクション"
+    },
+    "layer_icon.tooltip.shape_with_text": {
+        "string": "テキスト付きのシェイプ"
+    },
+    "layer_icon.tooltip.slice": {
+        "string": "スライス"
+    },
+    "layer_icon.tooltip.slide": {
+        "string": "スライド"
+    },
+    "layer_icon.tooltip.stamp": {
+        "string": "スタンプ"
+    },
+    "layer_icon.tooltip.star": {
+        "string": "星"
+    },
+    "layer_icon.tooltip.sticky": {
+        "string": "付箋"
+    },
+    "layer_icon.tooltip.subtract": {
+        "string": "減算"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "desktop_open_views.interstitial.opened_in_app": {
+        "string": "“{fileName}”をFigmaアプリで開きました"
+    },
+    "desktop_open_views.interstitial.opened_link_in_app": {
+        "string": "リンクをFigmaアプリで開きました"
+    },
+    "desktop_open_views.interstitial.opening_in_app": {
+        "string": "“{fileName}”をFigmaアプリで開いています…"
+    },
+    "desktop_open_views.interstitial.opening_link_in_app": {
+        "string": "リンクをFigmaアプリで開いています..."
+    },
+    "desktop_open_views.modal.dismiss_button": {
+        "string": "閉じる"
+    },
+    "desktop_open_views.open_in_desktop_from_now_on_modal.always_open_in_app_button": {
+        "string": "常にデスクトップアプリで開く"
+    },
+    "desktop_open_views.open_in_desktop_from_now_on_modal.preferences_message": {
+        "string": "この設定はいつでも基本設定で変更できます。"
+    },
+    "desktop_open_views.open_in_desktop_from_now_on_modal.title": {
+        "string": "今後はデスクトップアプリでファイルを開きますか?"
+    },
+    "desktop_open_views.open_in_desktop_modal.always_open_in_app_checkbox": {
+        "string": "常にアプリで開く"
+    },
+    "desktop_open_views.open_in_desktop_modal.open_in_app_button": {
+        "string": "アプリで開く"
+    },
+    "desktop_open_views.open_in_desktop_modal.title": {
+        "string": "デスクトップアプリでこのファイルを開きますか?"
+    },
+    "desktop_update_modal.desktop_update.title": {
+        "string": "Figmaデスクトップアプリが最新ではありません!"
+    },
+    "desktop_update_modal.desktop_update.description": {
+        "string": "作業を続けるには、Figmaデスクトップアプリを更新する必要があります。最新バージョンを{downloadsPageLink}からダウンロードしてください。"
+    },
+    "desktop_update_modal.desktop_update.link": {
+        "string": "ダウンロードページ"
+    },
+    "desktop_version_support.close": {
+        "string": "閉じる"
+    },
+    "desktop_version_support.get_app": {
+        "string": "アプリを入手"
+    },
+    "desktop_version_support.update_recommended": {
+        "string": "アップデートを推奨"
+    },
+    "desktop_version_support.using_figma_in_japanese": {
+        "string": "日本語版のFigmaを使用していますか? フルサポートを受けるには、ダウンロードページからデスクトップアプリの最新バージョンを入手してください。"
+    },
+    "dev_handoff.add_dev_resource": {
+        "string": "開発リソースを追加"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_android": {
+        "string": "サイズをAndroidのdp/spに変換するための変換率"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_ios": {
+        "string": "サイズをiOSのポイントに変換するための変換率"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_third_party": {
+        "string": "ピクセルを{unitName}単位に変換するための変換率"
+    },
+    "dev_handoff.alternative_units.description_scale_factor_web": {
+        "string": "ピクセルをCSSのremに変換するときのルート要素のフォントサイズ"
+    },
+    "dev_handoff.alternative_units.dimension_unit": {
+        "string": "単位"
+    },
+    "dev_handoff.alternative_units.dp_unit": {
+        "string": "dp/sp"
+    },
+    "dev_handoff.alternative_units.inspection_scale_factor": {
+        "string": "縮尺"
+    },
+    "dev_handoff.alternative_units.no_scale": {
+        "string": "拡大縮小無し"
+    },
+    "dev_handoff.alternative_units.only_apply_rem_on_text": {
+        "string": "{rem}をテキストプロパティにのみ適用する"
+    },
+    "dev_handoff.alternative_units.pixel_unit": {
+        "string": "px"
+    },
+    "dev_handoff.alternative_units.pt_unit": {
+        "string": "pt"
+    },
+    "dev_handoff.alternative_units.rem_unit": {
+        "string": "rem"
+    },
+    "dev_handoff.alternative_units.unit_settings_menu_option": {
+        "string": "単位を設定..."
+    },
+    "dev_handoff.alternative_units.unit_settings_modal_title": {
+        "string": "単位の設定"
+    },
+    "dev_handoff.alternative_units.use_pixel_unit": {
+        "string": "pxを使用"
+    },
+    "dev_handoff.alternative_units.use_scaled_unit": {
+        "string": "{scaledUnit}を使用"
+    },
+    "dev_handoff.annotation.number_annotations": {
+        "string": "{count, plural, other {{count}件の開発モードのアノテーション}}"
+    },
+    "dev_handoff.annotation.view_annotations": {
+        "string": "開発モードでアノテーションを表示"
+    },
+    "dev_handoff.annotations.add_annotation": {
+        "string": "アノテーションを追加してください"
+    },
+    "dev_handoff.annotations.align_left": {
+        "string": "左"
+    },
+    "dev_handoff.annotations.alignment": {
+        "string": "配置"
+    },
+    "dev_handoff.annotations.alignment.baseline_center": {
+        "string": "ベースライン中央"
+    },
+    "dev_handoff.annotations.alignment.baseline_left": {
+        "string": "ベースライン左"
+    },
+    "dev_handoff.annotations.alignment.baseline_right": {
+        "string": "ベースライン右"
+    },
+    "dev_handoff.annotations.alignment.bottom_center": {
+        "string": "ベースライン下"
+    },
+    "dev_handoff.annotations.alignment.bottom_left": {
+        "string": "左下"
+    },
+    "dev_handoff.annotations.alignment.bottom_right": {
+        "string": "右下"
+    },
+    "dev_handoff.annotations.alignment.center": {
+        "string": "中央"
+    },
+    "dev_handoff.annotations.alignment.left": {
+        "string": "左"
+    },
+    "dev_handoff.annotations.alignment.right": {
+        "string": "右"
+    },
+    "dev_handoff.annotations.alignment.top_center": {
+        "string": "上中央"
+    }
+}

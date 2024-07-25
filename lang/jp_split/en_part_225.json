@@ -1,0 +1,152 @@
+{
+    "resources_tab.libraries.clear_all": {
+        "string": "すべて消去"
+    },
+    "resources_tab.libraries.components": {
+        "string": "コンポーネント"
+    },
+    "resources_tab.libraries.couldnt_load_library_information": {
+        "string": "ライブラリ情報を読み込めませんでした。数分後にもう一度お試しください。"
+    },
+    "resources_tab.libraries.current": {
+        "string": "現在: {setting}"
+    },
+    "resources_tab.libraries.default_modes": {
+        "string": "デフォルトのモードを管理"
+    },
+    "resources_tab.libraries.enabled_for": {
+        "string": "対象"
+    },
+    "resources_tab.libraries.file_has_no_owner": {
+        "string": "ファイルにオーナーが設定されていません"
+    },
+    "resources_tab.libraries.filter.no_results": {
+        "string": "選択したフィルターと一致するライブラリはありません。"
+    },
+    "resources_tab.libraries.filters": {
+        "string": "フィルター"
+    },
+    "resources_tab.libraries.filters_applied": {
+        "string": "{numActiveFilters, plural, other {{numActiveFilters}個のフィルターを適用済み}}"
+    },
+    "resources_tab.libraries.last_published": {
+        "string": "最新の公開"
+    },
+    "resources_tab.libraries.library_name": {
+        "string": "ライブラリ名"
+    },
+    "resources_tab.libraries.library_owner": {
+        "string": "ライブラリオーナー"
+    },
+    "resources_tab.libraries.manage_library_for": {
+        "string": "{orgOrWorkspaceName}のライブラリを管理"
+    },
+    "resources_tab.libraries.manage_this_library": {
+        "string": "このライブラリを管理"
+    },
+    "resources_tab.libraries.name": {
+        "string": "ライブラリ名"
+    },
+    "resources_tab.libraries.no_libraries_text": {
+        "string": "組織には承認済みライブラリがまだありません。"
+    },
+    "resources_tab.libraries.no_subscriptions": {
+        "string": "—"
+    },
+    "resources_tab.libraries.none": {
+        "string": "なし"
+    },
+    "resources_tab.libraries.on": {
+        "string": "対象"
+    },
+    "resources_tab.libraries.open_library_file": {
+        "string": "ライブラリファイルを開く"
+    },
+    "resources_tab.libraries.organization": {
+        "string": "組織"
+    },
+    "resources_tab.libraries.search.label_with_ellipsis": {
+        "string": "ライブラリを検索..."
+    },
+    "resources_tab.libraries.search.no_results": {
+        "string": "検索条件に一致するライブラリが見つかりませんでした。検索をやり直してください。"
+    },
+    "resources_tab.libraries.show_all_libraries_button": {
+        "string": "すべてのライブラリを表示"
+    },
+    "resources_tab.libraries.styles": {
+        "string": "スタイル"
+    },
+    "resources_tab.libraries.subscription.all_files": {
+        "string": "すべてのファイル"
+    },
+    "resources_tab.libraries.subscription.custom": {
+        "string": "ユーザー設定"
+    },
+    "resources_tab.libraries.subscription.design_files": {
+        "string": "デザインファイル"
+    },
+    "resources_tab.libraries.subscription.figjam_files": {
+        "string": "FigJamボード"
+    },
+    "resources_tab.libraries.subscription.off": {
+        "string": "オフ"
+    },
+    "resources_tab.libraries.subscription.slides_files": {
+        "string": "スライドデッキ"
+    },
+    "resources_tab.libraries.two_or_more_workspaces": {
+        "string": "{extraWorkspaceNum, plural, other {{workspaceNames}、他{extraWorkspaceNum}個のワークスペース}}"
+    },
+    "resources_tab.libraries.use_orgs_setting": {
+        "string": "{orgName}の設定を使用する"
+    },
+    "resources_tab.libraries.visibility_settings": {
+        "string": "このライブラリをデフォルトで有効にする"
+    },
+    "resources_tab.libraries.workspaces": {
+        "string": "ワークスペース"
+    },
+    "resources_tab.shared_fonts_table.bulk_delete_fonts": {
+        "string": "{selectedFontsCount, plural, other {フォントを削除}}"
+    },
+    "resources_tab.shared_fonts_table.delete_font": {
+        "string": "フォントを削除"
+    },
+    "resources_tab.shared_fonts_table.embedded_upload_fonts_link": {
+        "string": "フォントをアップロード"
+    },
+    "resources_tab.shared_fonts_table.font": {
+        "string": "フォント"
+    },
+    "resources_tab.shared_fonts_table.font_button_in_menu_bar": {
+        "string": "フォント"
+    },
+    "resources_tab.shared_fonts_table.list_of_styles": {
+        "string": "{numberOfStyles, plural, other {{numberOfStyles}スタイル: {instancesString}}}"
+    },
+    "resources_tab.shared_fonts_table.no_fonts_match_your_search_query": {
+        "string": "検索条件に一致するフォントが見つかりませんでした。検索をやり直すか、{uploadFontsLink}してください。"
+    },
+    "resources_tab.shared_fonts_table.no_shared_fonts_yet": {
+        "string": "組織には共有フォントがまだありません。"
+    },
+    "resources_tab.shared_fonts_table.sample": {
+        "string": "サンプル"
+    },
+    "resources_tab.shared_fonts_table.search_fonts_placeholder_text_with_ellipsis": {
+        "string": "フォントを検索..."
+    },
+    "resources_tab.shared_fonts_table.upload_fonts_link": {
+        "string": "フォントをアップロード"
+    },
+    "resources_tab.shared_fonts_table.variable_font_badge": {
+        "string": "バリアブル"
+    },
+    "resources_tab.shared_fonts_table.version": {
+        "string": "バージョン"
+    },
+    "scim_metadata_display_text.cost_center": {
+        "string": "コストセンター"
+    }
+}

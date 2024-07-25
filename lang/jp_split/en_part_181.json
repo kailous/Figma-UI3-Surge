@@ -1,0 +1,152 @@
+{
+    "fullscreen_actions.create-ellipse": {
+        "string": "楕円を新規作成"
+    },
+    "fullscreen_actions.create-module": {
+        "string": "テンプレートを作成"
+    },
+    "fullscreen_actions.create-multiple-symbols": {
+        "string": "複数のコンポーネントを作成"
+    },
+    "fullscreen_actions.create-multiple-symbols-and-state-group": {
+        "string": "コンポーネントセットを作成"
+    },
+    "fullscreen_actions.create-responsive-set": {
+        "string": "レイアウトセットを作成"
+    },
+    "fullscreen_actions.create-rounded-rectangle": {
+        "string": "角が丸い長方形を新規作成"
+    },
+    "fullscreen_actions.create-savepoint": {
+        "string": "バージョン履歴に保存..."
+    },
+    "fullscreen_actions.create-section": {
+        "string": "セクションを新規作成"
+    },
+    "fullscreen_actions.create-section-from-selection": {
+        "string": "新しいセクションで囲む"
+    },
+    "fullscreen_actions.create-slide": {
+        "string": "新しいスライドを作成"
+    },
+    "fullscreen_actions.create-slide-outline-from-figjam-page": {
+        "string": "Figma Slidesをオンラインで作成"
+    },
+    "fullscreen_actions.create-sticky": {
+        "string": "付箋を新規作成"
+    },
+    "fullscreen_actions.create-symbol": {
+        "string": "コンポーネントの作成"
+    },
+    "fullscreen_actions.create-template": {
+        "string": "テンプレートを作成"
+    },
+    "fullscreen_actions.create-text-node": {
+        "string": "テキストを新規作成"
+    },
+    "fullscreen_actions.create-triangle": {
+        "string": "三角形を新規作成"
+    },
+    "fullscreen_actions.create_variant": {
+        "string": "バリアントの作成"
+    },
+    "fullscreen_actions.crop-image": {
+        "string": "画像のトリミング"
+    },
+    "fullscreen_actions.cut": {
+        "string": "切り取り"
+    },
+    "fullscreen_actions.debug-incremental-loading-all-pages": {
+        "string": "Incremental loading: Load all pages"
+    },
+    "fullscreen_actions.debug-incremental-loading-current-only": {
+        "string": "Incremental loading: Reset to current page only"
+    },
+    "fullscreen_actions.debug-inspect-layer-figma-scope": {
+        "string": "FigmaScopeのインスペクト"
+    },
+    "fullscreen_actions.debug-print-as-test-code": {
+        "string": "Print as generated test code"
+    },
+    "fullscreen_actions.debug-print-vector-network-as-test-code": {
+        "string": "Print vector networks as generated test code"
+    },
+    "fullscreen_actions.debug-selection": {
+        "string": "Debug log selection"
+    },
+    "fullscreen_actions.debug-toggle-figma-scope": {
+        "string": "Show FigmaScope"
+    },
+    "fullscreen_actions.debug-toggle-show-canvas-axis": {
+        "string": "Show canvas x and y axis"
+    },
+    "fullscreen_actions.debug-toggle-show-mouse-position": {
+        "string": "Show mouse position"
+    },
+    "fullscreen_actions.debug-toggle-whiteboard-pdf-import-node-replacement": {
+        "string": "PDF Import: Enable node replacement"
+    },
+    "fullscreen_actions.deep_select": {
+        "string": "ネスト選択"
+    },
+    "fullscreen_actions.deep_select_within_rectangle": {
+        "string": "長方形内部でネスト選択"
+    },
+    "fullscreen_actions.delete-and-heal-selection": {
+        "string": "選択対象を削除して補完"
+    },
+    "fullscreen_actions.delete-current-table-column": {
+        "string": "列を削除"
+    },
+    "fullscreen_actions.delete-current-table-row": {
+        "string": "行を削除"
+    },
+    "fullscreen_actions.delete-prototype-starting-point": {
+        "string": "開始点を削除"
+    },
+    "fullscreen_actions.delete-selection": {
+        "string": "削除"
+    },
+    "fullscreen_actions.delete-table-contents": {
+        "string": "コンテンツを削除"
+    },
+    "fullscreen_actions.deselect-all": {
+        "string": "選択を解除"
+    },
+    "fullscreen_actions.destroy-all-auto-layout": {
+        "string": "オートレイアウトをすべて削除"
+    },
+    "fullscreen_actions.destroy-all-auto-layout-result-visual-bell-toast": {
+        "string": "{numAutoLayoutsRemoved, plural, other {{numAutoLayoutsRemoved}個のフレームから削除されました}}"
+    },
+    "fullscreen_actions.destroy-all-auto-layout-result-visual-bell-toast-zero": {
+        "string": "オートレイアウトが見つかりません"
+    },
+    "fullscreen_actions.detach-all-instances": {
+        "string": "ネストされたインスタンスをすべて切り離す"
+    },
+    "fullscreen_actions.detach-deleted-variables": {
+        "string": "削除されたバリアブルを切り離す"
+    },
+    "fullscreen_actions.detach-instance": {
+        "string": "インスタンスの切り離し"
+    },
+    "fullscreen_actions.dev-handoff-focus-next": {
+        "string": "次の開発者ハンドオフノードへ"
+    },
+    "fullscreen_actions.dev-handoff-focus-previous": {
+        "string": "前の開発者ハンドオフノードへ"
+    },
+    "fullscreen_actions.development": {
+        "string": "開発"
+    },
+    "fullscreen_actions.disable-all-unframed-masks": {
+        "string": "フレームのないマスクをすべて無効にする"
+    },
+    "fullscreen_actions.disable-cursor-chat": {
+        "string": "カーソルチャットは組織によって無効にされています"
+    },
+    "fullscreen_actions.disable-image-color-management": {
+        "string": "画像の色管理を無効にする"
+    }
+}

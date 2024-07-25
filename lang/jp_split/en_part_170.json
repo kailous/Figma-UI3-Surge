@@ -1,0 +1,152 @@
+{
+    "settings_table.change_display_name": {
+        "string": "Figmaでのチームの表示名を選択"
+    },
+    "settings_table.change_names": {
+        "string": "Figmaや請求書でのチーム名の表示方法を選択"
+    },
+    "settings_table.change_payment_method": {
+        "string": "支払い方法を変更"
+    },
+    "settings_table.change_vat_gst_id": {
+        "string": "法人としてFigmaプランを支払う場合は、VATまたはGST識別番号を追加します。"
+    },
+    "settings_table.consolidate_your_teams_access_shared_libraries_enable_advanced_security_features_and_more": {
+        "string": "チームの統合、共有ライブラリへのアクセス、高度なセキュリティ機能の有効化、{more}"
+    },
+    "settings_table.display_name.label": {
+        "string": "表示名"
+    },
+    "settings_table.edit_names": {
+        "string": "名前を編集"
+    },
+    "settings_table.learn_more": {
+        "string": "詳細はこちらをご覧ください。"
+    },
+    "settings_table.more": {
+        "string": "その他..."
+    },
+    "settings_table.names": {
+        "string": "名前"
+    },
+    "settings_table.organization": {
+        "string": "組織"
+    },
+    "settings_table.plan": {
+        "string": "プラン"
+    },
+    "settings_table.plan_and_billing": {
+        "string": "プランと請求"
+    },
+    "settings_table.purchase_professional_plan": {
+        "string": "プロフェッショナルプランを購入"
+    },
+    "settings_table.reactivate_plan": {
+        "string": "プランを再度有効にする"
+    },
+    "settings_table.reactivate_your_subscription_of_professional": {
+        "string": "プロフェッショナルプランのサブスクリプションを再度有効にする"
+    },
+    "settings_table.resources": {
+        "string": "リソース"
+    },
+    "settings_table.subscription_renewal": {
+        "string": "{frequency}サブスクリプションが{billing_date}に更新されます。更新前に改めてお知らせいたします。{more}"
+    },
+    "settings_table.team": {
+        "string": "チーム"
+    },
+    "settings_table.team_profile": {
+        "string": "チームプロフィール"
+    },
+    "settings_table.to_keep_using_paid_features_like_unlimited_team_figma_files_projects_and_team_libraries_after_your_free_professional_plan_expires_on_date_purchase_the_professional_plan_for_your_team": {
+        "string": "無料のプロフェッショナルプランが{date, date, long}で期限切れになった後も数量無制限のチームFigmaファイル、プロジェクト、チームライブラリなどの有料機能を利用するには、チームのプロフェッショナルプランを購入してください。"
+    },
+    "settings_table.update_team_profile": {
+        "string": "チームプロフィールを更新"
+    },
+    "settings_table.upgrade_to_the_professional_plan_or_to_an_organization_and_get_access_to_shared_team_libraries_advanced_security_features_and_more": {
+        "string": "プロフェッショナルプランまたはビジネスプランにアップグレードして、共有チームライブラリ、高度なセキュリティ機能などを利用しましょう。{more}"
+    },
+    "settings_table.upgrade_your_plan": {
+        "string": "プランをアップグレード"
+    },
+    "settings_table.vat_gst": {
+        "string": "付加価値税 / 商品サービス税"
+    },
+    "settings_table.you_can_change_the_number_of_seats_on_your_annual_plan_before_it_renews": {
+        "string": "年間プランの更新前にシート数を変更できます"
+    },
+    "settings_table.you_can_simplify_your_billing_by_converting_your_monthly_seats_to_annual": {
+        "string": "月間シート数から年間シート数に変換して請求を簡素化できます"
+    },
+    "sidebar.add_to_favorites": {
+        "string": "お気に入りに追加"
+    },
+    "sidebar.admin_console": {
+        "string": "管理者用コンソール"
+    },
+    "sidebar.admin_dashboard": {
+        "string": "管理者"
+    },
+    "sidebar.all_projects": {
+        "string": "すべてのプロジェクト"
+    },
+    "sidebar.browse_org": {
+        "string": "{orgName}を参照"
+    },
+    "sidebar.browse_org_custom_sections": {
+        "string": "組織のページへ → "
+    },
+    "sidebar.community": {
+        "string": "コミュニティ"
+    },
+    "sidebar.create_new_team": {
+        "string": "チームを新規作成"
+    },
+    "sidebar.delete": {
+        "string": "削除"
+    },
+    "sidebar.delete_section": {
+        "string": "セクションを削除"
+    },
+    "sidebar.design_file": {
+        "string": "デザインファイル"
+    },
+    "sidebar.disabled_by_your_organization": {
+        "string": "組織により無効にされています"
+    },
+    "sidebar.drafts": {
+        "string": "下書き"
+    },
+    "sidebar.drafts_to_move": {
+        "string": "移動が必要なドラフト"
+    },
+    "sidebar.explore_community": {
+        "string": "コミュニティを見る"
+    },
+    "sidebar.favorite_files": {
+        "string": "お気に入りのファイル"
+    },
+    "sidebar.fig_jam_file": {
+        "string": "FigJamファイル"
+    },
+    "sidebar.if_you_delete_section_the_section": {
+        "string": "サイドバーから{section}の{count}個の{item}が削除されます。{pronoun}はいつでも戻すことができます。"
+    },
+    "sidebar.import": {
+        "string": "インポート…"
+    },
+    "sidebar.it": {
+        "string": "それ"
+    },
+    "sidebar.item": {
+        "string": "アイテム"
+    },
+    "sidebar.item_added_bell_message": {
+        "string": "サイドバーにアイテムが追加されました"
+    },
+    "sidebar.item_removed_bell_message": {
+        "string": "サイドバーからアイテムが削除されました"
+    }
+}

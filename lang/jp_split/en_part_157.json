@@ -1,0 +1,152 @@
+{
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_sharing_audience_control": {
+        "string": "プロジェクトの共有オーディエンスコントロールの更新中にエラーが発生しました。"
+    },
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_team_access": {
+        "string": "プロジェクトのチームアクセス権の更新中にエラーが発生しました。"
+    },
+    "file_browser.api_folder.error_when_deleting": {
+        "string": "このプロジェクトの削除中にエラーが発生しました。"
+    },
+    "file_browser.api_folder.no_create_permissions_team_name": {
+        "string": "{teamName}にはプロジェクトを作成する権限がありません。"
+    },
+    "file_browser.api_folder.no_create_permissions_this_team": {
+        "string": "このチームにプロジェクトを作成する権限がありません。"
+    },
+    "file_browser.auto_accept_project_invite_modal": {
+        "string": "{projectName}への{inviteType}アクセス権を取得しました。"
+    },
+    "file_browser.badge_label.admin": {
+        "string": "管理者"
+    },
+    "file_browser.billing_group": {
+        "string": "請求グループ"
+    },
+    "file_browser.billing_group_capitalized": {
+        "string": "請求グループ"
+    },
+    "file_browser.block_project_move.context_invite_only": {
+        "string": "招待専用として設定されたプロジェクトは、チーム間で移動できません。 この操作を完了するには、{projectName}のチームアクセスを有効にして、再試行してください"
+    },
+    "file_browser.block_project_move.context_view_only": {
+        "string": "表示専用として設定されたプロジェクトは、チーム間で移動できません。 この操作を完了するには、{projectName}のチーム編集アクセスを有効にして、再試行してください"
+    },
+    "file_browser.block_project_move.title": {
+        "string": "プロジェクトを移動できません"
+    },
+    "file_browser.cant_undo": {
+        "string": "元に戻すことはできません。"
+    },
+    "file_browser.choose_file_modal.search_for_a_file": {
+        "string": "ファイルを検索"
+    },
+    "file_browser.confirm_file_delete_forever_modal.about_to_delete_offline": {
+        "string": "{numFiles, plural, other {{numFilesText}を完全に削除しようとしています。これらのファイルはオフラインでかつ同期されていないため、復元することはできません。}}"
+    },
+    "file_browser.confirm_file_delete_forever_modal.about_to_delete_online": {
+        "string": "{numFiles, plural, other {{numFilesText}を完全に削除しようとしています。これらのファイルは復元できません。}}"
+    },
+    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete": {
+        "string": "完全に削除"
+    },
+    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete_files": {
+        "string": "{numFiles, plural, other {ファイルを完全に削除}}"
+    },
+    "file_browser.confirm_file_delete_forever_modal.title": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルを完全に削除}}"
+    },
+    "file_browser.confirm_file_delete_modal.about_to_delete_component_unpublish": {
+        "string": "ファイル{fileNameText}を削除しようとしています。公開されているコンポーネントもすべてチームのライブラリに表示されなくなります。"
+    },
+    "file_browser.confirm_file_delete_modal.about_to_delete_multiple_warnings": {
+        "string": "{numFilesText}を削除しようとしています。以下が含まれます。"
+    },
+    "file_browser.confirm_file_delete_modal.about_to_delete_no_warnings": {
+        "string": "{numFiles, plural, other {{numFilesText}を削除しようとしています。}}"
+    },
+    "file_browser.confirm_file_delete_modal.about_to_delete_team_template": {
+        "string": "ファイル{fileNameText}を削除しようとしています。チームのテンプレートからも削除されます。"
+    },
+    "file_browser.confirm_file_delete_modal.components": {
+        "string": "コンポーネント"
+    },
+    "file_browser.confirm_file_delete_modal.confirm_delete_files": {
+        "string": "{numFiles, plural, other {ファイルを削除}}"
+    },
+    "file_browser.confirm_file_delete_modal.deleted_tab": {
+        "string": "削除済み"
+    },
+    "file_browser.confirm_file_delete_modal.description_restore.seat_rename": {
+        "string": "{numFiles, plural, other {これらのファイルの編集アクセス権を持つ人は、後で[{draftsText}]タブの[{deletedText}]セクションからファイルを復元できます。}}"
+    },
+    "file_browser.confirm_file_delete_modal.drafts_tab": {
+        "string": "ドラフト"
+    },
+    "file_browser.confirm_file_delete_modal.num_files": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイル}}"
+    },
+    "file_browser.confirm_file_delete_modal.offline_files": {
+        "string": "オフラインファイル"
+    },
+    "file_browser.confirm_file_delete_modal.templates": {
+        "string": "テンプレート"
+    },
+    "file_browser.confirm_file_delete_modal.title": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルを削除}}"
+    },
+    "file_browser.confirm_file_delete_modal.warning_component_unpublish": {
+        "string": "{componentsText}。これらは公開されているため、チームのライブラリに表示されなくなります。"
+    },
+    "file_browser.confirm_file_delete_modal.warning_team_template": {
+        "string": "{templatesText}。これらは公開されているため、チームはアクセス権を失います。"
+    },
+    "file_browser.confirm_file_delete_modal.warning_unsynced_file": {
+        "string": "{offlineFilesText}。これらは同期されていないため、完全に削除されます。"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_component_unpublish": {
+        "string": "ファイル{fileNameText}をごみ箱に移動しようとしています。公開されているコンポーネントもすべてチームのライブラリに表示されなくなります。"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_multiple_warnings": {
+        "string": "{numFilesText}をごみ箱に移動しようとしています。以下が含まれます。"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_no_warnings": {
+        "string": "{numFiles, plural, other {{numFilesText}をごみ箱に移動しようとしています。}}"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_team_template": {
+        "string": "ファイル{fileNameText}をごみ箱に移動しようとしています。チームのテンプレートからも削除されます。"
+    },
+    "file_browser.confirm_file_trash_modal.confirm_delete_files": {
+        "string": "{numFiles, plural, other {ファイルをごみ箱に移動}}"
+    },
+    "file_browser.confirm_file_trash_modal.description_restore": {
+        "string": "{numFiles, plural, other {これらのファイルの編集アクセス権を持つ人は、後で[{trashText}]タブからファイルを復元できます。}}"
+    },
+    "file_browser.confirm_file_trash_modal.title": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイルをごみ箱に移動}}"
+    },
+    "file_browser.confirm_file_trash_modal.trash_section": {
+        "string": "ごみ箱"
+    },
+    "file_browser.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "file_browser.copy_link_to_project": {
+        "string": "プロジェクトへのリンクをコピー"
+    },
+    "file_browser.copy_link_to_team": {
+        "string": "チームへのリンクをコピー"
+    },
+    "file_browser.copy_link_to_workspace": {
+        "string": "ワークスペースへのリンクをコピー"
+    },
+    "file_browser.creates_new_file": {
+        "string": "新規ファイルの作成"
+    },
+    "file_browser.creation_buttons.alpha": {
+        "string": "アルファ"
+    },
+    "file_browser.creation_buttons.beta": {
+        "string": "ベータ"
+    }
+}

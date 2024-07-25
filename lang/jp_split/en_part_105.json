@@ -1,0 +1,152 @@
+{
+    "dev_handoff.layers.edit_annotation": {
+        "string": "アノテーションを編集"
+    },
+    "dev_handoff.layers.expand_children": {
+        "string": "子をすべて展開"
+    },
+    "dev_handoff.library.view": {
+        "string": "ライブラリで表示"
+    },
+    "dev_handoff.loading_plugin": {
+        "string": "{pluginName}を読み込み中…"
+    },
+    "dev_handoff.nodes_panel.created": {
+        "string": "{at}に作成"
+    },
+    "dev_handoff.nodes_panel.edited": {
+        "string": "{at}に編集済み"
+    },
+    "dev_handoff.nodes_panel.thumbnail_alt_text": {
+        "string": "サムネイル"
+    },
+    "dev_handoff.onboarding.pointer_modal.description": {
+        "string": "デザインから開発へのアイデアの移行がこれまで以上に簡単になりました。本番用のファイルを選定する新しい方法と、開発作業がもっと簡単になるFigmaの新しいスペース、開発モードを導入しました。"
+    },
+    "dev_handoff.onboarding.pointer_modal.not_now_button": {
+        "string": "今は使用しない"
+    },
+    "dev_handoff.onboarding.pointer_modal.primary_button": {
+        "string": "開発モードを試す"
+    },
+    "dev_handoff.onboarding.pointer_modal.title": {
+        "string": "こんにちは、開発モード"
+    },
+    "dev_handoff.open_in_figma": {
+        "string": "Figmaで開く"
+    },
+    "dev_handoff.overrides.border": {
+        "string": "ボーダー"
+    },
+    "dev_handoff.overrides.color": {
+        "string": "色"
+    },
+    "dev_handoff.overrides.effect": {
+        "string": "エフェクト"
+    },
+    "dev_handoff.overrides.hint": {
+        "string": "この{layerType}の{properties}はメインコンポーネントと異なります。"
+    },
+    "dev_handoff.overrides.hint_one": {
+        "string": "この{layerType}の{property}はメインコンポーネントと異なります。"
+    },
+    "dev_handoff.overrides.instance": {
+        "string": "インスタンス"
+    },
+    "dev_handoff.overrides.layer": {
+        "string": "レイヤー"
+    },
+    "dev_handoff.overrides.layout": {
+        "string": "レイアウト"
+    },
+    "dev_handoff.overrides.properties2": {
+        "string": "{prop1}および{prop2}"
+    },
+    "dev_handoff.overrides.properties3": {
+        "string": "{prop1}、{prop2}、および{prop3}"
+    },
+    "dev_handoff.overrides.properties_more": {
+        "string": "{count, plural, other {{prop1}、{prop2}、{prop3}、その他{count}個のプロパティ}}"
+    },
+    "dev_handoff.overrides.shape": {
+        "string": "シェイプ"
+    },
+    "dev_handoff.overrides.style": {
+        "string": " スタイル"
+    },
+    "dev_handoff.overrides.text": {
+        "string": "テキスト"
+    },
+    "dev_handoff.overview_mode.design_status": {
+        "string": "{status} · {fromNow}"
+    },
+    "dev_handoff.overview_mode.empty_page": {
+        "string": "このページに表示するフレームはありません"
+    },
+    "dev_handoff.overview_mode.no_status": {
+        "string": "ステータスなし"
+    },
+    "dev_handoff.overview_mode.open_in_figma": {
+        "string": "Figmaで開く"
+    },
+    "dev_handoff.overview_mode.page_picker": {
+        "string": "ページ: "
+    },
+    "dev_handoff.overview_mode.ready_for_dev": {
+        "string": "開発準備完了"
+    },
+    "dev_handoff.overview_mode.tooltip.upgrade_mark_completed": {
+        "string": "開発モードへのアクセス権を申請してデザインのステータスを完了にします"
+    },
+    "dev_handoff.pages.hide_other": {
+        "string": "他のページを非表示"
+    },
+    "dev_handoff.pages.show_all": {
+        "string": "すべてのページを表示"
+    },
+    "dev_handoff.pages_list": {
+        "string": "このファイルのページ"
+    },
+    "dev_handoff.paywall.annotations.upsell": {
+        "string": "開発モードでは、アノテーションから詳しい情報を得ることができます"
+    },
+    "dev_handoff.paywall.approved.description": {
+        "string": "開発モードにより、シンプルなハンドオフ、迅速なインスペクション、お気に入りのツールの統合が実現します。\n\nこのトグルをクリックして、お試しください。"
+    },
+    "dev_handoff.paywall.approved.title": {
+        "string": "開発モードにアップグレードされました"
+    },
+    "dev_handoff.paywall.banner.description": {
+        "string": "{title}開発モードにより、ハンドオフの簡略化、インスペクションのスピードアップ、VS CodeやStorybookなどのツールとの連携が可能です。"
+    },
+    "dev_handoff.paywall.banner.description_in_trial": {
+        "string": "{title}承認を待つ間、開発モードの使用を継続できます(最大{numDays}日間)。"
+    },
+    "dev_handoff.paywall.banner.description_pending": {
+        "string": "{title}開発モードを使用する必要がある場合は、管理者に相談してください"
+    },
+    "dev_handoff.paywall.banner.description_starter_viewer": {
+        "string": "{title}開発モードにより、ハンドオフがシンプルになり、インスペクションも迅速に行えます。試用するには、管理者に連絡してください。"
+    },
+    "dev_handoff.paywall.banner.title": {
+        "string": "コーディングをもっと迅速に"
+    },
+    "dev_handoff.paywall.blocking_modal.button.back_to_design": {
+        "string": "デザインモードに戻る"
+    },
+    "dev_handoff.paywall.blocking_modal.button.back_to_summary": {
+        "string": "開発準備完了ビューに戻る"
+    },
+    "dev_handoff.paywall.blocking_modal.button.learn_more": {
+        "string": "詳細情報"
+    },
+    "dev_handoff.paywall.blocking_modal.button.locked.reactivate": {
+        "string": "プロフェッショナルを再度有効にする"
+    },
+    "dev_handoff.paywall.blocking_modal.button.not_now": {
+        "string": "今はしない"
+    },
+    "dev_handoff.paywall.blocking_modal.button.request_access": {
+        "string": "アクセス権を申請"
+    }
+}

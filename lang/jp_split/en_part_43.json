@@ -1,0 +1,152 @@
+{
+    "collaboration.feedback.compare_changes_modal.section_created": {
+        "string": "セクション作成済み"
+    },
+    "collaboration.feedback.compare_changes_modal.select_a_layer": {
+        "string": "変更内容を表示するには、編集したレイヤーを選択します"
+    },
+    "collaboration.feedback.compare_changes_overflow_editors": {
+        "string": "+{numAddlEditors}人以上"
+    },
+    "collaboration.feedback.comparing": {
+        "string": "比較中"
+    },
+    "collaboration.feedback.comparing_changes_toast": {
+        "string": "{fromVersionLabel}との比較"
+    },
+    "collaboration.feedback.context_menu.compare_version": {
+        "string": "現在のバージョンと比較"
+    },
+    "collaboration.feedback.context_menu.copy_link": {
+        "string": "リンクをコピー"
+    },
+    "collaboration.feedback.context_menu.delete_version_info": {
+        "string": "バージョン情報を削除"
+    },
+    "collaboration.feedback.context_menu.duplicate": {
+        "string": "複製"
+    },
+    "collaboration.feedback.context_menu.edit_version_info": {
+        "string": "バージョン情報を編集"
+    },
+    "collaboration.feedback.context_menu.name_this_version": {
+        "string": "このバージョンの名前を指定"
+    },
+    "collaboration.feedback.context_menu.restore_this_version": {
+        "string": "このバージョンを復元"
+    },
+    "collaboration.feedback.current_file": {
+        "string": "現在"
+    },
+    "collaboration.feedback.current_version": {
+        "string": "現在のバージョン"
+    },
+    "collaboration.feedback.date": {
+        "string": "{time, date, medium}"
+    },
+    "collaboration.feedback.done_version_history": {
+        "string": "完了"
+    },
+    "collaboration.feedback.filter_tooltip": {
+        "string": "フィルター"
+    },
+    "collaboration.feedback.get_version_text_linked_version_linked_version": {
+        "string": "{versionText} (リンクされたバージョン)"
+    },
+    "collaboration.feedback.incremental_update_modal.confirm": {
+        "string": "確認"
+    },
+    "collaboration.feedback.incremental_update_modal.latest_version": {
+        "string": "最新のバージョン"
+    },
+    "collaboration.feedback.incremental_update_modal.title": {
+        "string": "メインのバージョンから更新"
+    },
+    "collaboration.feedback.main_branch_name": {
+        "string": "メイン"
+    },
+    "collaboration.feedback.merged": {
+        "string": "{link}がマージされました"
+    },
+    "collaboration.feedback.more_options": {
+        "string": "その他のオプション"
+    },
+    "collaboration.feedback.new_branch_created": {
+        "string": "新しいブランチが作成されました"
+    },
+    "collaboration.feedback.next_change": {
+        "string": "次の変更"
+    },
+    "collaboration.feedback.no_visible_changes": {
+        "string": "これらのバージョン間に目に見える変更はありません"
+    },
+    "collaboration.feedback.num_editors_number_editor_count_more": {
+        "string": "+{numEditors}名の編集者"
+    },
+    "collaboration.feedback.num_editors_of_changes": {
+        "string": "{numEditors, plural, other {{numEditors}名を編集しました。}}"
+    },
+    "collaboration.feedback.only_yours_filter": {
+        "string": "自分のもののみ"
+    },
+    "collaboration.feedback.press_shortcut_to_add_to_version_history_while_editing": {
+        "string": "編集中にバージョン履歴を追加するには、{shortcut}を押します。"
+    },
+    "collaboration.feedback.previous_change": {
+        "string": "以前の変更"
+    },
+    "collaboration.feedback.save_modal.add_to_version_history": {
+        "string": "バージョン履歴に追加"
+    },
+    "collaboration.feedback.save_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "collaboration.feedback.save_modal.description_placeholder": {
+        "string": "変更の内容を説明"
+    },
+    "collaboration.feedback.save_modal.edit_merge_details": {
+        "string": "マージの詳細を編集"
+    },
+    "collaboration.feedback.save_modal.edit_version_information": {
+        "string": "バージョン情報を編集"
+    },
+    "collaboration.feedback.save_modal.merge_name_placeholder": {
+        "string": "名前"
+    },
+    "collaboration.feedback.save_modal.save": {
+        "string": "保存"
+    },
+    "collaboration.feedback.shortcut": {
+        "string": "Ctrl + Alt + S"
+    },
+    "collaboration.feedback.shortcut_mac": {
+        "string": "⌘ + ⌥ + S"
+    },
+    "collaboration.feedback.show_autosave_versions": {
+        "string": "自動保存バージョンを表示"
+    },
+    "collaboration.feedback.show_less": {
+        "string": "簡易表示"
+    },
+    "collaboration.feedback.show_more": {
+        "string": "詳細表示"
+    },
+    "collaboration.feedback.show_older": {
+        "string": "古いものを表示"
+    },
+    "collaboration.feedback.time_date_minutes": {
+        "string": "{time, date, medium}{time, date, ::hmma}"
+    },
+    "collaboration.feedback.time_date_minutes_without_year": {
+        "string": "{time, date, ::MMMdhmma}"
+    },
+    "collaboration.feedback.time_hour_minutes": {
+        "string": "{time, date, ::hmma}"
+    },
+    "collaboration.feedback.updated_from_main": {
+        "string": "メインから更新"
+    },
+    "collaboration.feedback.version_history": {
+        "string": "バージョン履歴"
+    }
+}

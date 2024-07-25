@@ -1,0 +1,152 @@
+{
+    "whiteboard.inline_menu.text_alignment_label": {
+        "string": "テキストの配置({currentTextAlignment})"
+    },
+    "whiteboard.inline_menu.text_background": {
+        "string": "テキストの背景"
+    },
+    "whiteboard.inline_menu.unlock": {
+        "string": "ロック解除"
+    },
+    "whiteboard.inline_menu.variants": {
+        "string": "バリアント"
+    },
+    "whiteboard.inline_menu.washi_tape_pattern": {
+        "string": "パターン"
+    },
+    "whiteboard.inline_menu.washi_tape_pattern_selector_label": {
+        "string": "パターン、{currentPattern}"
+    },
+    "whiteboard.inserts.add_template": {
+        "string": "テンプレートを追加"
+    },
+    "whiteboard.inserts.add_widget": {
+        "string": "追加"
+    },
+    "whiteboard.inserts.add_your_own": {
+        "string": "自分のライブラリを追加"
+    },
+    "whiteboard.inserts.all": {
+        "string": "すべて"
+    },
+    "whiteboard.inserts.and_others": {
+        "string": "およびその他"
+    },
+    "whiteboard.inserts.browse_more_in_community": {
+        "string": "コミュニティで探す"
+    },
+    "whiteboard.inserts.by_publisher": {
+        "string": "{numPublishers, plural, other {公開者: {firstPublisherName} {multiplePublisherSuffix}}}"
+    },
+    "whiteboard.inserts.by_publisher_name": {
+        "string": "公開者: {publisherName}"
+    },
+    "whiteboard.inserts.clear": {
+        "string": "クリア"
+    },
+    "whiteboard.inserts.clear_search": {
+        "string": "検索をクリア"
+    },
+    "whiteboard.inserts.code_block_description": {
+        "string": "構文ハイライトを使用してスニペットを作成します。"
+    },
+    "whiteboard.inserts.code_block_title": {
+        "string": "コードブロック"
+    },
+    "whiteboard.inserts.couldn_t_find_default_display_string_resource_type_for": {
+        "string": "{searchQuery}に一致する{resourceType}が見つかりませんでした。"
+    },
+    "whiteboard.inserts.couldn_t_find_resource_in_org_allowlist": {
+        "string": "{orgName}の許可リストには{searchQuery}が見つかりません"
+    },
+    "whiteboard.inserts.custom_display_string_search_result": {
+        "string": "{searchQuery}に一致するものが見つかりませんでした。"
+    },
+    "whiteboard.inserts.custom_templates_description": {
+        "string": "お気に入りのファイルをテンプレートにすると、あなたやあなたのチームがワンクリックで再利用できます。"
+    },
+    "whiteboard.inserts.custom_templates_header": {
+        "string": "カスタムテンプレートを作成"
+    },
+    "whiteboard.inserts.development": {
+        "string": "開発中"
+    },
+    "whiteboard.inserts.development_more_options": {
+        "string": "その他のオプション"
+    },
+    "whiteboard.inserts.development_options_import": {
+        "string": "マニフェストからインポート…"
+    },
+    "whiteboard.inserts.disabled_org_widgets_empty_state_description": {
+        "string": "ウィジェットは組織の管理者によって無効にされています。"
+    },
+    "whiteboard.inserts.dismiss": {
+        "string": "閉じる"
+    },
+    "whiteboard.inserts.dismiss_updates": {
+        "string": "アップデートを無視"
+    },
+    "whiteboard.inserts.dock_to_side": {
+        "string": "端に固定"
+    },
+    "whiteboard.inserts.faces_description": {
+        "string": "チームのフェイススタンプを押します。"
+    },
+    "whiteboard.inserts.faces_inline_search_image_alt_text": {
+        "string": "{user}のフェイススタンプ。"
+    },
+    "whiteboard.inserts.faces_inline_search_no_results": {
+        "string": "{searchQuery}の検索結果はありません。"
+    },
+    "whiteboard.inserts.faces_search_placeholder": {
+        "string": "フェイスを検索"
+    },
+    "whiteboard.inserts.faces_title": {
+        "string": "フェイス"
+    },
+    "whiteboard.inserts.from_community": {
+        "string": "コミュニティ"
+    },
+    "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the": {
+        "string": "お探しの場合は、{link}にも多数あります。"
+    },
+    "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the_community": {
+        "string": "コミュニティ"
+    },
+    "whiteboard.inserts.in_development_version_dropdown": {
+        "string": "開発中バージョン"
+    },
+    "whiteboard.inserts.in_development_version_error_dropdown": {
+        "string": "⚠ 開発中バージョン"
+    },
+    "whiteboard.inserts.insert_template_failed_v2": {
+        "string": "テンプレートを追加できませんでした。削除されたか、移動された可能性があります。"
+    },
+    "whiteboard.inserts.learn_more": {
+        "string": "詳細情報"
+    },
+    "whiteboard.inserts.libraries": {
+        "string": "ライブラリ"
+    },
+    "whiteboard.inserts.links_description": {
+        "string": "Webからメディアを追加できます。"
+    },
+    "whiteboard.inserts.links_title": {
+        "string": "リンク"
+    },
+    "whiteboard.inserts.log_in_or_sign_up_to_use": {
+        "string": "{resourceType}を使用するには、ログインまたはサインアップしてください"
+    },
+    "whiteboard.inserts.media_description": {
+        "string": "動画、GIF、JPEGなどをアップロードします。"
+    },
+    "whiteboard.inserts.media_title": {
+        "string": "メディア"
+    },
+    "whiteboard.inserts.mind_map_description": {
+        "string": "思考パターンを視覚化します。"
+    },
+    "whiteboard.inserts.mind_map_title": {
+        "string": "マインドマップ"
+    }
+}

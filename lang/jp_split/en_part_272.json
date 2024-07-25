@@ -1,0 +1,152 @@
+{
+    "proto.variant_actions.mixed": {
+        "string": "混合"
+    },
+    "proto.video_dropdown.label": {
+        "string": "動画"
+    },
+    "proto.video_options.behavior": {
+        "string": "ビヘイビア"
+    },
+    "proto.video_options.direction": {
+        "string": "方向"
+    },
+    "proto.video_options.offset": {
+        "string": "オフセット"
+    },
+    "proto.video_options.timestamp": {
+        "string": "タイムスタンプ"
+    },
+    "viewer.accessibilitytree.disabled_placeholder": {
+        "string": "スクリーンリーダーのサポートは現在無効です。有効にするには、オプションメニューのアクセシビリティの設定を使用してください。"
+    },
+    "viewer.debug_tools.clear_tile_caches_and_take_spector_snapshot": {
+        "string": "タイルキャッシュをクリアして、Spector.jsスナップショットを取得する"
+    },
+    "viewer.debug_tools.debug_tools": {
+        "string": "デバッグツール"
+    },
+    "viewer.debug_tools.disconnect_from_multiplayer": {
+        "string": "マルチプレイヤーから切断"
+    },
+    "viewer.debug_tools.reconnect_to_multiplayer": {
+        "string": "マルチプレイヤーに再接続"
+    },
+    "viewer.debug_tools.render_layer_by_layer": {
+        "string": "レイヤー単位でレンダリング"
+    },
+    "viewer.debug_tools.take_spector_snapshot": {
+        "string": "Spector.jsスナップショットを取得"
+    },
+    "viewer.debug_tools.test_fake_web_gl_context_loss": {
+        "string": "偽のWebGLコンテキストの損失をテスト"
+    },
+    "viewer.debug_tools.test_real_web_gl_context_loss": {
+        "string": "実際のWebGLコンテキストの損失をテスト"
+    },
+    "viewer.debug_tools.toggle_debug_stats": {
+        "string": "デバッグ統計の切り替え"
+    },
+    "viewer.debug_tools.toggle_render_tree_printing": {
+        "string": "レンダーツリープリントを切り替える"
+    },
+    "viewer.flows_sidebar.close_sidebar": {
+        "string": "サイドバーを閉じる"
+    },
+    "viewer.flows_sidebar.copy_link_to_flow": {
+        "string": "フローへのリンクをコピー"
+    },
+    "viewer.flows_sidebar.flows": {
+        "string": "フロー"
+    },
+    "viewer.flows_sidebar.no_description": {
+        "string": "説明なし"
+    },
+    "viewer.flows_sidebar.open_sidebar": {
+        "string": "サイドバーを開く"
+    },
+    "viewer.footer.accessible_label": {
+        "string": "ページ"
+    },
+    "viewer.footer.frame_progress": {
+        "string": "{currentFrameIndex}/{frameCount}"
+    },
+    "viewer.footer.next_frame": {
+        "string": "次のフレーム"
+    },
+    "viewer.footer.previous_frame": {
+        "string": "前のフレーム"
+    },
+    "viewer.footer.r": {
+        "string": "R"
+    },
+    "viewer.footer.readable_frame_progress": {
+        "string": "フレーム{currentFrameIndex}/{frameCount}"
+    },
+    "viewer.footer.restart": {
+        "string": "再起動"
+    },
+    "viewer.loading_overlay.can_t_connect_to_the_internet": {
+        "string": "インターネットに接続できません"
+    },
+    "viewer.loading_overlay.check_your_connection_to_continue_with_the_prototype": {
+        "string": "プロトタイプを使用して続行するには、コネクションを確認してください。"
+    },
+    "viewer.loading_overlay.reload": {
+        "string": "再読み込み"
+    },
+    "viewer.loading_overlay.this_is_taking_some_time_hang_on_while_this_finishes_loading": {
+        "string": "少し時間がかかります... 読み込みが終了するまでお待ちください。"
+    },
+    "viewer.loading_overlay.try_again": {
+        "string": "もう一度試す"
+    },
+    "viewer.menu_bar.accessible_label": {
+        "string": "プロトタイプ管理"
+    },
+    "viewer.menu_bar.add_comment": {
+        "string": "コメントを追加{padding}{shortcut}"
+    },
+    "viewer.menu_bar.enter_full_screen": {
+        "string": "全画面を開始({shortcut})"
+    },
+    "viewer.menu_bar.exit_full_screen": {
+        "string": "全画面を終了({shortcut})"
+    },
+    "viewer.menu_bar.full_screen_is_not_supported_by_this_browser": {
+        "string": "全画面は、このブラウザーではサポートされていません"
+    },
+    "viewer.menu_bar.log_in": {
+        "string": "ログイン"
+    },
+    "viewer.menu_bar.log_in_or_create_account": {
+        "string": "ログインまたはアカウントの作成"
+    },
+    "viewer.menu_bar.open_in_editor": {
+        "string": "エディターで開く"
+    },
+    "viewer.menu_bar.open_in_figma_slides": {
+        "string": "Figma Slidesで開く"
+    },
+    "viewer.menu_bar.presenter_view": {
+        "string": "オーディエンスビューを開く"
+    },
+    "viewer.menu_bar.share": {
+        "string": "共有"
+    },
+    "viewer.menu_bar.share_presentation": {
+        "string": "プレゼンテーションを共有"
+    },
+    "viewer.menu_bar.share_prototype": {
+        "string": "プロトタイプを共有"
+    },
+    "viewer.options.accessible_dom_disabled": {
+        "string": "コンテンツをスクリーンリーダーに適応させていません"
+    },
+    "viewer.options.accessible_dom_enabled": {
+        "string": "コンテンツをスクリーンリーダーに適応させています"
+    },
+    "viewer.options.default_keyboard_navigation_disabled": {
+        "string": "Figmaショートカット無効"
+    }
+}

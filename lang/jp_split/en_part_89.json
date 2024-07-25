@@ -1,0 +1,152 @@
+{
+    "design_systems.instance_swap_picker.search_preferred": {
+        "string": "優先値を検索"
+    },
+    "design_systems.instance_swap_picker.show_as_grid": {
+        "string": "グリッドで表示"
+    },
+    "design_systems.instance_swap_picker.show_as_list": {
+        "string": "リストで表示"
+    },
+    "design_systems.libraries_modal.30_days": {
+        "string": "30日"
+    },
+    "design_systems.libraries_modal.60_days": {
+        "string": "60日"
+    },
+    "design_systems.libraries_modal.90_days": {
+        "string": "90日"
+    },
+    "design_systems.libraries_modal.activity_this_week": {
+        "string": "今週のアクティビティー"
+    },
+    "design_systems.libraries_modal.add_to_file": {
+        "string": "ファイルに追加"
+    },
+    "design_systems.libraries_modal.added": {
+        "string": "追加済み"
+    },
+    "design_systems.libraries_modal.admin_list_1": {
+        "string": "チーム管理者は{adminHandle}です。"
+    },
+    "design_systems.libraries_modal.admin_list_2": {
+        "string": "チーム管理者は、{adminHandle1}と{adminHandle2}です。"
+    },
+    "design_systems.libraries_modal.admin_list_3": {
+        "string": "チーム管理者は、{adminHandle1}、{adminHandle2}、{adminHandle3}です。"
+    },
+    "design_systems.libraries_modal.admin_list_many": {
+        "string": "チーム管理者は、{adminHandle1}、{adminHandle2}、{numAdditionalAdmins}などです。"
+    },
+    "design_systems.libraries_modal.all_files": {
+        "string": "すべてのファイル"
+    },
+    "design_systems.libraries_modal.all_variants": {
+        "string": "すべてのバリアント"
+    },
+    "design_systems.libraries_modal.analytics": {
+        "string": "アナリティクス"
+    },
+    "design_systems.libraries_modal.back": {
+        "string": "戻る"
+    },
+    "design_systems.libraries_modal.back_to_library": {
+        "string": "ライブラリに戻る"
+    },
+    "design_systems.libraries_modal.branch_of": {
+        "string": "{repoName}のブランチ"
+    },
+    "design_systems.libraries_modal.choose_library": {
+        "string": "ライブラリを選択"
+    },
+    "design_systems.libraries_modal.compare_with": {
+        "string": "比較"
+    },
+    "design_systems.libraries_modal.component_insertions": {
+        "string": "コンポーネントの挿入"
+    },
+    "design_systems.libraries_modal.component_name": {
+        "string": "コンポーネント名"
+    },
+    "design_systems.libraries_modal.component_statistics": {
+        "string": "コンポーネントの統計"
+    },
+    "design_systems.libraries_modal.components": {
+        "string": "コンポーネント"
+    },
+    "design_systems.libraries_modal.confirm_override.button_cancel": {
+        "string": "キャンセル"
+    },
+    "design_systems.libraries_modal.confirm_override.button_confirm": {
+        "string": "更新"
+    },
+    "design_systems.libraries_modal.confirm_override.description_org": {
+        "string": "この設定を変更すると、組織の管理者が設定したデフォルトが上書きされます。変更が管理者に通知されます。"
+    },
+    "design_systems.libraries_modal.confirm_override.description_workspace": {
+        "string": "この設定を変更すると、ワークスペースの管理者が設定したデフォルトが上書きされます。変更が管理者に通知されます。"
+    },
+    "design_systems.libraries_modal.confirm_override.title": {
+        "string": "この設定を更新しますか?"
+    },
+    "design_systems.libraries_modal.contact_a_team_admin": {
+        "string": "チーム管理者に連絡して、チームのデフォルトのライブラリを有効にします。"
+    },
+    "design_systems.libraries_modal.curated_libraries": {
+        "string": "厳選ライブラリ"
+    },
+    "design_systems.libraries_modal.current_file": {
+        "string": "現在のファイル"
+    },
+    "design_systems.libraries_modal.current_file_has_x_changes": {
+        "string": "現在のファイルには{numChangesText}"
+    },
+    "design_systems.libraries_modal.current_file_is_published": {
+        "string": "現在のファイルは公開されています"
+    },
+    "design_systems.libraries_modal.default_library_for_all_files": {
+        "string": "すべてのファイルのデフォルトのライブラリ"
+    },
+    "design_systems.libraries_modal.default_library_for_design_files": {
+        "string": "デザインファイルのデフォルトのライブラリ"
+    },
+    "design_systems.libraries_modal.default_library_for_fig_jam_files": {
+        "string": " 'FigJamファイルのデフォルトのライブラリ'"
+    },
+    "design_systems.libraries_modal.description": {
+        "string": "説明"
+    },
+    "design_systems.libraries_modal.design": {
+        "string": "デザインファイル"
+    },
+    "design_systems.libraries_modal.detaches_last_duration": {
+        "string": "切り離し回数({duration})"
+    },
+    "design_systems.libraries_modal.don_t_show_again": {
+        "string": "再び表示しない"
+    },
+    "design_systems.libraries_modal.download_csv": {
+        "string": "CSVをダウンロードする"
+    },
+    "design_systems.libraries_modal.draft_libraries": {
+        "string": "ドラフトのライブラリ"
+    },
+    "design_systems.libraries_modal.dsa_csv_file_name": {
+        "string": "{libraryName}-team-usage.csv"
+    },
+    "design_systems.libraries_modal.dsa_csv_num_insertions": {
+        "string": "挿入"
+    },
+    "design_systems.libraries_modal.dsa_csv_percent_insertions": {
+        "string": "挿入%"
+    },
+    "design_systems.libraries_modal.dsa_csv_team_id": {
+        "string": "チームID"
+    },
+    "design_systems.libraries_modal.dsa_csv_team_name": {
+        "string": "チーム名"
+    },
+    "design_systems.libraries_modal.dsa_graph_tooltip": {
+        "string": "{numInsertions, plural, other {{numInsertions}個の挿入}}"
+    }
+}

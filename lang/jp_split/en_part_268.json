@@ -1,0 +1,152 @@
+{
+    "proto.interaction.type.key_gamepad": {
+        "string": "キー/ゲームパッド"
+    },
+    "proto.interaction.type.mouse_down": {
+        "string": "マウスダウン"
+    },
+    "proto.interaction.type.mouse_enter": {
+        "string": "マウスエンター"
+    },
+    "proto.interaction.type.mouse_enter_deprecated": {
+        "string": "マウスイン"
+    },
+    "proto.interaction.type.mouse_leave": {
+        "string": "マウスリーブ"
+    },
+    "proto.interaction.type.mouse_leave_deprecated": {
+        "string": "マウスアウト"
+    },
+    "proto.interaction.type.mouse_up": {
+        "string": "マウスアップ"
+    },
+    "proto.interaction.type.none": {
+        "string": "なし"
+    },
+    "proto.interaction.type.on_click": {
+        "string": "クリック時"
+    },
+    "proto.interaction.type.on_drag": {
+        "string": "ドラッグ時"
+    },
+    "proto.interaction.type.on_tap": {
+        "string": "タップ時"
+    },
+    "proto.interaction.type.on_voice": {
+        "string": "音声"
+    },
+    "proto.interaction.type.press": {
+        "string": "押す"
+    },
+    "proto.interaction.type.tap": {
+        "string": "タップ"
+    },
+    "proto.interaction.type.touch_down": {
+        "string": "タッチダウン"
+    },
+    "proto.interaction.type.touch_up": {
+        "string": "タッチアップ"
+    },
+    "proto.interaction.type.video_ends": {
+        "string": "動画終了"
+    },
+    "proto.interaction.type.video_hits": {
+        "string": "動画到達"
+    },
+    "proto.interaction.type.voice": {
+        "string": "音声"
+    },
+    "proto.interaction.type.when_video_ends": {
+        "string": "動画終了時"
+    },
+    "proto.interaction.type.when_video_hits": {
+        "string": "動画到達時"
+    },
+    "proto.interaction.type.while_hovering": {
+        "string": "マウスオーバー"
+    },
+    "proto.interaction.type.while_pressing": {
+        "string": "押下中"
+    },
+    "proto.interaction_details.header": {
+        "string": "インタラクション"
+    },
+    "proto.interaction_details.select_n_matching_interactions": {
+        "string": "一致するインタラクションを{total_num_interactions}個選択します"
+    },
+    "proto.interaction_details.visual_bell.selected_n_matching_interactions": {
+        "string": "一致するインタラクションを{total_num_interactions}個選択しました"
+    },
+    "proto.interaction_list.variant_interactions": {
+        "string": "バリアントインタラクション"
+    },
+    "proto.key": {
+        "string": "キー"
+    },
+    "proto.keyCapture.click_to_select": {
+        "string": "クリックして選択"
+    },
+    "proto.keyCapture.click_to_set_key": {
+        "string": "クリックしてキーを設定"
+    },
+    "proto.keyCapture.press_key": {
+        "string": "キーを押す"
+    },
+    "proto.keyCapture.press_key_lowercase": {
+        "string": "キーを押す"
+    },
+    "proto.lib.device_low_memory": {
+        "string": "デバイスのメモリーが不足しているため、一部の操作が機能しない可能性があります。"
+    },
+    "proto.menu.background": {
+        "string": "背景"
+    },
+    "proto.menu.show_prototype_settings": {
+        "string": "プロトタイプの設定を表示"
+    },
+    "proto.mirror.are_you_sure": {
+        "string": "よろしいですか?"
+    },
+    "proto.mirror.authentication_code": {
+        "string": "認証コード"
+    },
+    "proto.mirror.cancel": {
+        "string": "キャンセル"
+    },
+    "proto.mirror.connected_through_cellular_data": {
+        "string": "モバイルデータ通信で接続しています"
+    },
+    "proto.mirror.connected_through_wi_fi": {
+        "string": "WiFiで接続しています"
+    },
+    "proto.mirror.continue_with_google": {
+        "string": "Googleでログイン"
+    },
+    "proto.mirror.email_address": {
+        "string": "メールアドレス"
+    },
+    "proto.mirror.figma_com": {
+        "string": "figma.com"
+    },
+    "proto.mirror.figma_mirror_can_t_run_because_web_gl_isn_t_supported_or_is_disabled_on_your_device": {
+        "string": "Figma Mirrorを実行できません。ご使用のデバイスでWebGLがサポートされていないか、無効になっています。"
+    },
+    "proto.mirror.figma_mirror_is_not_restricted_to_local_wi_fi": {
+        "string": "Figma MirrorはローカルWiFiネットワークに制限されていません。モバイルデータ通信プランが心配な場合は、ご使用のデバイスをWiFi経由でインターネットに接続してください。"
+    },
+    "proto.mirror.forgot_password": {
+        "string": "パスワードを忘れた場合"
+    },
+    "proto.mirror.go_back_and_try_again": {
+        "string": "戻ってやり直す"
+    },
+    "proto.mirror.go_to_the_browser_to_complete_log_in": {
+        "string": "ブラウザに移動してログインしてください"
+    },
+    "proto.mirror.log_in": {
+        "string": "ログイン"
+    },
+    "proto.mirror.log_in_with_google_or_a_password": {
+        "string": "Googleまたはパスワードでログイン"
+    }
+}

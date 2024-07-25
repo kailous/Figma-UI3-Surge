@@ -1,0 +1,152 @@
+{
+    "resources_tab.approved_plugins": {
+        "string": "承認済みプラグイン"
+    },
+    "resources_tab.approved_plugins.actions.plugin": {
+        "string": "プラグイン"
+    },
+    "resources_tab.approved_plugins.actions.settings": {
+        "string": "設定"
+    },
+    "resources_tab.approved_plugins.modal.all_plugins": {
+        "string": "Figmaコミュニティのすべてのプラグイン"
+    },
+    "resources_tab.approved_plugins.modal.allow_for_all_files_and_drafts_in_org_workspaces": {
+        "string": "{orgName}のすべてのワークスペースのファイルとドラフトを許可する"
+    },
+    "resources_tab.approved_plugins.modal.approve": {
+        "string": "承認"
+    },
+    "resources_tab.approved_plugins.modal.approve_plugin": {
+        "string": "プラグインを承認"
+    },
+    "resources_tab.approved_plugins.modal.approve_widget": {
+        "string": "ウィジェットを承認"
+    },
+    "resources_tab.approved_plugins.modal.approved_plugins_only": {
+        "string": "管理者に承認されたプラグインのみ"
+    },
+    "resources_tab.approved_plugins.modal.approve…": {
+        "string": "承認..."
+    },
+    "resources_tab.approved_plugins.modal.attribution_multiple_creators": {
+        "string": "{creator1}、その他が作成"
+    },
+    "resources_tab.approved_plugins.modal.attribution_single_creator": {
+        "string": "{creator}が作成"
+    },
+    "resources_tab.approved_plugins.modal.attribution_two_creators": {
+        "string": "{creator1}と{creator2}が作成"
+    },
+    "resources_tab.approved_plugins.modal.back": {
+        "string": "戻る"
+    },
+    "resources_tab.approved_plugins.modal.cancel": {
+        "string": "キャンセル"
+    },
+    "resources_tab.approved_plugins.modal.decline": {
+        "string": "承認しない"
+    },
+    "resources_tab.approved_plugins.modal.default": {
+        "string": "(デフォルト)"
+    },
+    "resources_tab.approved_plugins.modal.edit_approvals": {
+        "string": "承認を編集"
+    },
+    "resources_tab.approved_plugins.modal.failed_to_update_plugin_approval": {
+        "string": "プラグイン承認の更新に失敗しました"
+    },
+    "resources_tab.approved_plugins.modal.individual_workspaces_approval_warning": {
+        "string": "メンバーの1人がこのプラグインのドラフトファイルでの使用をリクエストしました。個人のワークスペースでの使用を承認すると、このプラグインはドラフト内で使用できなくなります。"
+    },
+    "resources_tab.approved_plugins.modal.licenses": {
+        "string": "ライセンス"
+    },
+    "resources_tab.approved_plugins.modal.manage_plugin": {
+        "string": "プラグインを管理"
+    },
+    "resources_tab.approved_plugins.modal.manage_widget": {
+        "string": "ウィジェットを管理"
+    },
+    "resources_tab.approved_plugins.modal.open_in_community": {
+        "string": "コミュニティで開く ->"
+    },
+    "resources_tab.approved_plugins.modal.org_members_can_use": {
+        "string": "組織のメンバーが使用可能"
+    },
+    "resources_tab.approved_plugins.modal.plugin_approval": {
+        "string": "プラグインの承認"
+    },
+    "resources_tab.approved_plugins.modal.plugin_approval_removed_for": {
+        "string": "{orgName}のプラグイン承認を削除しました"
+    },
+    "resources_tab.approved_plugins.modal.plugin_approved_for": {
+        "string": "{orgName}のプラグインを承認しました"
+    },
+    "resources_tab.approved_plugins.modal.remove": {
+        "string": "削除"
+    },
+    "resources_tab.approved_plugins.modal.request_plugins": {
+        "string": "メンバーによるプラグインのリクエストを許可する"
+    },
+    "resources_tab.approved_plugins.modal.requested_by.many": {
+        "string": "{numOthers, plural, other {{requesterName}とその他{numOthers}名がリクエストしました}}"
+    },
+    "resources_tab.approved_plugins.modal.requested_by.one": {
+        "string": "{requesterName}がリクエストしました"
+    },
+    "resources_tab.approved_plugins.modal.requested_by.two": {
+        "string": "{requesterName1}と{requesterName2}がリクエストしました"
+    },
+    "resources_tab.approved_plugins.modal.review_plugin": {
+        "string": "プラグインを確認"
+    },
+    "resources_tab.approved_plugins.modal.review_widget": {
+        "string": "ウィジェットを確認"
+    },
+    "resources_tab.approved_plugins.modal.save_changes": {
+        "string": "変更を保存"
+    },
+    "resources_tab.approved_plugins.modal.search_workspaces": {
+        "string": "ワークスペースを検索"
+    },
+    "resources_tab.approved_plugins.modal.security": {
+        "string": "セキュリティ"
+    },
+    "resources_tab.approved_plugins.modal.show_less": {
+        "string": "表示を減らす"
+    },
+    "resources_tab.approved_plugins.modal.show_more": {
+        "string": "さらに表示"
+    },
+    "resources_tab.approved_plugins.modal.try_it_out": {
+        "string": "使ってみる"
+    },
+    "resources_tab.approved_plugins.modal.try_it_out_ecc_tooltip": {
+        "string": "{orgName}の外部ファイルへのアクセスは無効になりました。"
+    },
+    "resources_tab.approved_plugins.modal.user_count": {
+        "string": "{count, plural, other {· {count}人のユーザー}}"
+    },
+    "resources_tab.approved_plugins.modal.widget_approval_removed_for": {
+        "string": "{orgName}のウィジェット承認を削除しました"
+    },
+    "resources_tab.approved_plugins.modal.widget_approved_for": {
+        "string": "{orgName}のプラグインを承認しました"
+    },
+    "resources_tab.approved_plugins.no_plugins.add_plugins_button": {
+        "string": "承認済みプラグインを追加"
+    },
+    "resources_tab.approved_plugins.no_plugins.text": {
+        "string": "組織には承認済みプラグインがまだありません。"
+    },
+    "resources_tab.approved_plugins.plugin_approval_banner.go_to_settings_button": {
+        "string": "設定に移動"
+    },
+    "resources_tab.approved_plugins.plugin_approval_banner.open_settings": {
+        "string": "設定を開く"
+    },
+    "resources_tab.approved_plugins.plugin_approval_banner.text": {
+        "string": "承認済みプラグインのリストを作成するには、設定に移動して{settingName}をオンにします。"
+    }
+}

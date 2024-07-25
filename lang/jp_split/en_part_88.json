@@ -1,0 +1,152 @@
+{
+    "design_systems.instance_panel.component_missing": {
+        "string": "コンポーネントがありません"
+    },
+    "design_systems.instance_panel.component_removed": {
+        "string": "コンポーネントがライブラリから削除されました"
+    },
+    "design_systems.instance_panel.deleted_source_component_message": {
+        "string": "共有コンポーネントのインスタンスは、元のコンポーネントが削除された場合、その共有コンポーネントの公開元のドキュメントに追加することはできません。"
+    },
+    "design_systems.instance_panel.go_to_main_component": {
+        "string": "メインコンポーネントに移動"
+    },
+    "design_systems.instance_panel.go_to_main_component_nin_library": {
+        "string": "ライブラリで\nメインコンポーネントに移動"
+    },
+    "design_systems.instance_panel.instance_options": {
+        "string": "インスタンスオプション"
+    },
+    "design_systems.instance_panel.mixed": {
+        "string": "混合"
+    },
+    "design_systems.instance_panel.no_changes_to_reset": {
+        "string": "リセットする変更なし"
+    },
+    "design_systems.instance_panel.ok": {
+        "string": "OK"
+    },
+    "design_systems.instance_panel.oops": {
+        "string": "ご注意ください"
+    },
+    "design_systems.instance_panel.reset_all_changes": {
+        "string": "すべての変更をリセット"
+    },
+    "design_systems.instance_panel.reset_effects": {
+        "string": "エフェクトのリセット"
+    },
+    "design_systems.instance_panel.reset_exports": {
+        "string": "エクスポートのリセット"
+    },
+    "design_systems.instance_panel.reset_fill": {
+        "string": "塗りのリセット"
+    },
+    "design_systems.instance_panel.reset_interactions": {
+        "string": "インタラクションのリセット"
+    },
+    "design_systems.instance_panel.reset_name": {
+        "string": "名前のリセット"
+    },
+    "design_systems.instance_panel.reset_others": {
+        "string": "その他をリセット"
+    },
+    "design_systems.instance_panel.reset_overlay": {
+        "string": "オーバーレイのリセット"
+    },
+    "design_systems.instance_panel.reset_property_assignment": {
+        "string": "{assignmentName}プロパティのリセット"
+    },
+    "design_systems.instance_panel.reset_size": {
+        "string": "サイズのリセット"
+    },
+    "design_systems.instance_panel.reset_stroke": {
+        "string": "線のリセット"
+    },
+    "design_systems.instance_panel.reset_text": {
+        "string": "テキストのリセット"
+    },
+    "design_systems.instance_panel.reset_text_style": {
+        "string": "テキストスタイルのリセット"
+    },
+    "design_systems.instance_panel.reset_to_default": {
+        "string": "デフォルトにリセット"
+    },
+    "design_systems.instance_panel.reset_visibility": {
+        "string": "表示のリセット"
+    },
+    "design_systems.instance_panel.restore_component": {
+        "string": "コンポーネントを復元"
+    },
+    "design_systems.instance_panel.restore_variant": {
+        "string": "バリアントを復元"
+    },
+    "design_systems.instance_panel.review_update": {
+        "string": "更新の確認"
+    },
+    "design_systems.instance_panel.select_instance": {
+        "string": "インスタンスを選択"
+    },
+    "design_systems.instance_panel.show_more": {
+        "string": "詳細を表示"
+    },
+    "design_systems.instance_panel.swap_instance": {
+        "string": "インスタンスの入れ替え"
+    },
+    "design_systems.instance_panel.the_selected_variant_is_missing_in_the_component": {
+        "string": "選択したバリアントがコンポーネントにありません。"
+    },
+    "design_systems.instance_panel.update_available": {
+        "string": "更新プログラムあり"
+    },
+    "design_systems.instance_panel.update_selected": {
+        "string": "{numSelectedInstancesToUpdate, plural, other {選択したインスタンスの更新}}"
+    },
+    "design_systems.instance_panel.variant_missing": {
+        "string": "バリアントがありません"
+    },
+    "design_systems.instance_panel.view_library_in_community": {
+        "string": "ライブラリをコミュニティで表示"
+    },
+    "design_systems.instance_swap_picker.all_libraries": {
+        "string": "すべてのライブラリ"
+    },
+    "design_systems.instance_swap_picker.browse_libraries": {
+        "string": "ライブラリを参照..."
+    },
+    "design_systems.instance_swap_picker.enabled_libraries": {
+        "string": "ライブラリを有効にする"
+    },
+    "design_systems.instance_swap_picker.go_to_main_component": {
+        "string": "メインコンポーネントに移動"
+    },
+    "design_systems.instance_swap_picker.local_components": {
+        "string": "ローカルコンポーネント"
+    },
+    "design_systems.instance_swap_picker.mixed": {
+        "string": "混合"
+    },
+    "design_systems.instance_swap_picker.no_components": {
+        "string": "コンポーネントなし"
+    },
+    "design_systems.instance_swap_picker.no_results": {
+        "string": "''{query}''に一致する結果はありません"
+    },
+    "design_systems.instance_swap_picker.pick_instance": {
+        "string": "インスタンスを選ぶ"
+    },
+    "design_systems.instance_swap_picker.preferred": {
+        "string": "優先"
+    },
+    "design_systems.instance_swap_picker.recently_used": {
+        "string": "最近使用したコンポーネント"
+    },
+    "design_systems.instance_swap_picker.search": {
+        "string": "検索"
+    },
+    "design_systems.instance_swap_picker.search_all_libraries": {
+        "string": "すべてのライブラリを検索"
+    },
+    "design_systems.instance_swap_picker.search_filename": {
+        "string": "{filename}を検索"
+    }
+}

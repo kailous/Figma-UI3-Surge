@@ -1,0 +1,152 @@
+{
+    "qa.feeback_thank_you": {
+        "string": "フィードバックありがとうございます!"
+    },
+    "qa.filter.all": {
+        "string": "すべて"
+    },
+    "qa.filter.development": {
+        "string": "開発"
+    },
+    "qa.filter.from_org_name": {
+        "string": "{org_name}関連"
+    },
+    "qa.filter.plugins": {
+        "string": "プラグイン"
+    },
+    "qa.filter.widgets": {
+        "string": "ウィジェット"
+    },
+    "qa.from_community": {
+        "string": "コミュニティのアイテム"
+    },
+    "qa.from_org_name": {
+        "string": "{org_name}のアイテム"
+    },
+    "qa.go_back": {
+        "string": "戻る"
+    },
+    "qa.how_was_your_experience": {
+        "string": "ご意見をお聞かせください。"
+    },
+    "qa.learn_more": {
+        "string": "詳細情報"
+    },
+    "qa.no_ai.subtitle.org_disabled": {
+        "string": "AI機能をオンにするには管理者に依頼してください。各機能が公開され次第、ここに表示されます。"
+    },
+    "qa.no_ai.subtitle.personal_draft": {
+        "string": "ただし、このファイルでFigma AIを使用するには、ファイルをドラフトから移動する必要があります。"
+    },
+    "qa.no_ai.subtitle.rolling_out": {
+        "string": "Figmaの新しいAI機能が、今後数週間にわたって順次公開されます。このスペースから目を離さないでください。"
+    },
+    "qa.no_ai.subtitle.team_or_org_user_no_access": {
+        "string": "{orgOrTeamName}のメンバーではないようです。Figma AIへのアクセス権がありません"
+    },
+    "qa.no_ai.title": {
+        "string": "Figma AIがまもなく登場"
+    },
+    "qa.no_ai.title.not_available_here": {
+        "string": "AI機能は利用できません"
+    },
+    "qa.no_ai.title.org_disabled": {
+        "string": "まもなく、FIgma AIがここに表示されます"
+    },
+    "qa.no_ai.title.personal_draft": {
+        "string": "AI機能がここに表示されます"
+    },
+    "qa.no_ai.title.rolling_out": {
+        "string": "まもなく、FIgma AIがここに表示されます"
+    },
+    "qa.no_plugins_widgets_found": {
+        "string": "プラグインまたはウィジェットが見つかりません"
+    },
+    "qa.other_extensions_from_org": {
+        "string": "{org_name}のその他のプラグインとウィジェット"
+    },
+    "qa.parameter.loading.plugin": {
+        "string": "プラグインを読み込んでいます..."
+    },
+    "qa.parameter.loading.suggestions": {
+        "string": "候補を読み込んでいます..."
+    },
+    "qa.plugins_widgets": {
+        "string": "プラグインとウィジェット"
+    },
+    "qa.rate_output": {
+        "string": "これはいかがでしょうか?"
+    },
+    "qa.submit_feedback": {
+        "string": "フィードバックを送信"
+    },
+    "qa.submit_feedback_placeholder": {
+        "string": "簡単なフィードバックをお願いします"
+    },
+    "qa.suggested": {
+        "string": "候補"
+    },
+    "qa.thumbs_down": {
+        "string": "サムダウンアクション"
+    },
+    "qa.thumbs_up": {
+        "string": "サムアップアクション"
+    },
+    "qa.toast.suggestion": {
+        "string": "候補"
+    },
+    "qa.unavailable": {
+        "string": "現在利用できません"
+    },
+    "qa.we_use_this_to_improve": {
+        "string": "私たちのAI機能の向上に役立てます。"
+    },
+    "qa.extensions.approval_pending": {
+        "string": "承認待ち"
+    },
+    "qa.extensions.development": {
+        "string": "開発"
+    },
+    "qa.extensions.in_review": {
+        "string": "レビュー中"
+    },
+    "qa.extensions.locate_local_version": {
+        "string": "ローカルのバージョンを探す"
+    },
+    "qa.extensions.needs_approval": {
+        "string": "承認が必要"
+    },
+    "qa.extensions.num_users": {
+        "string": "{numUsers, plural, other {ユーザー{numUsersStr}人}}"
+    },
+    "qa.extensions.open_in_community": {
+        "string": "コミュニティで開く"
+    },
+    "qa.extensions.plugin": {
+        "string": "プラグイン"
+    },
+    "qa.extensions.request_approval": {
+        "string": "承認を申請"
+    },
+    "qa.extensions.run": {
+        "string": "実行"
+    },
+    "qa.extensions.run_with_parameters": {
+        "string": "パラメーターを指定して実行"
+    },
+    "qa.extensions.tooltip_actions": {
+        "string": "アクション"
+    },
+    "qa.extensions.update_payment": {
+        "string": "支払いを更新"
+    },
+    "qa.extensions.view_details": {
+        "string": "詳細を表示"
+    },
+    "qa.extensions.widget": {
+        "string": "ウィジェット"
+    },
+    "quick_reply.unable_to_load_thread": {
+        "string": "コメントスレッドを読み込めません"
+    }
+}

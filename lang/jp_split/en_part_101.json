@@ -1,0 +1,152 @@
+{
+    "dev_handoff.autorun_confirm_modal.title_stop_auto_run": {
+        "string": "このプラグインの自動実行を停止しますか?"
+    },
+    "dev_handoff.box_model.border": {
+        "string": "ボーダー"
+    },
+    "dev_handoff.box_model.border-box": {
+        "string": "border-box"
+    },
+    "dev_handoff.box_model.border-box-tooltip": {
+        "string": "box-sizing: border-boxの使い方"
+    },
+    "dev_handoff.box_model.padding": {
+        "string": "パディング"
+    },
+    "dev_handoff.breadcrumbs.ellipsis": {
+        "string": "…"
+    },
+    "dev_handoff.breadcrumbs.hidden_nodes": {
+        "string": "{count}個の非表示"
+    },
+    "dev_handoff.code.hints.absolute_position": {
+        "string": "値は、親({name})からの相対値です。"
+    },
+    "dev_handoff.code.hints.background_blend_mode_plus_lighter_darker": {
+        "string": "{value}は通常iOSで使用され、ブラウザではまだ利用できません。より多くのブラウザとの互換性のため、別の方法を検討してください。"
+    },
+    "dev_handoff.code.hints.borders_dont_take_up_space": {
+        "string": "このデザインではボーダーはスペースをとりません。CSSで「border」を使用するときは、デザインに合わせてサイズやパディングを適宜調整してください。"
+    },
+    "dev_handoff.code.hints.color_missing_style": {
+        "string": "この色は、デザインのスタイルやバリアブルと結びついていません"
+    },
+    "dev_handoff.code.hints.compose_blur_tip": {
+        "string": ".blur()修飾子は親のビューに適用する必要があります。"
+    },
+    "dev_handoff.code.hints.compose_separate_border_width": {
+        "string": "デザインではボーダーエッジごとに線の幅が異なっていますが、Composeではデフォルトで1つの幅しかサポートされません"
+    },
+    "dev_handoff.code.hints.compose_shadow_incompatibility": {
+        "string": ".shadow()修飾子は、このデザインと完全な互換性がありません。"
+    },
+    "dev_handoff.code.hints.display_p3_fallback": {
+        "string": "これは、P3カラーをサポートしていないブラウザ用のsRGBフォールバック値です。"
+    },
+    "dev_handoff.code.hints.leading_trim": {
+        "string": "leading-trimとtext-edgeはドラフトのCSSプロパティです"
+    },
+    "dev_handoff.code.hints.multiple_variables": {
+        "string": "この値({value})と複数のバリアブルが一致します"
+    },
+    "dev_handoff.code.hints.plus_darker": {
+        "string": "plus-darkerは通常iOSアプリで使用され、現時点ではSafariでのみサポートされています。より多くのブラウザとの互換性のため、別の方法を検討してください。"
+    },
+    "dev_handoff.code.hints.single_paint": {
+        "string": "デザインで複数の色が指定されていますが、ここでは1色しかサポートされません。"
+    },
+    "dev_handoff.code.hints.swift_ui_blur_no_spread": {
+        "string": "デザインではシャドウのスプレッドが指定されていますが、SwiftUIではデフォルトで個別のスプレッドパラメーターがサポートされません"
+    },
+    "dev_handoff.code.hints.swift_ui_only_single_fill_for_shapes": {
+        "string": "デザインでは複数の背景色が指定されていますが、SwiftUIでは単色の塗りしかサポートされません"
+    },
+    "dev_handoff.code.hints.swift_ui_separate_border_width": {
+        "string": "デザインではボーダーエッジごとに線の幅が異なっていますが、SwiftUIではデフォルトで1つの幅しかサポートされません"
+    },
+    "dev_handoff.code.hints.swift_ui_separate_corner_radius": {
+        "string": "デザインでは複数の角の半径の値が指定されていますが、SwiftUIでは角の半径の値は1つしかサポートされません"
+    },
+    "dev_handoff.code.hints.swift_ui_spacers_for_space_between": {
+        "string": "スペーサーにより、コンテンツを持たず、可能な範囲で拡張できる適応型のビューが生成されます。"
+    },
+    "dev_handoff.code.hints.unsupported_gradient_paint": {
+        "string": "デザインでグラデーションが使用されていますが、ここではサポートされません。グラデーションの最初の色が表示されます。"
+    },
+    "dev_handoff.code.hints.unsupported_paint": {
+        "string": "ここでサポートされない色がデザインで使用されています。プレースホルダーの黒が代わりに表示されます。"
+    },
+    "dev_handoff.code.hints.variable_not_resolved": {
+        "string": "このプロパティで使用されているバリアブルが見つかりませんでした"
+    },
+    "dev_handoff.code.lang_android": {
+        "string": "Android"
+    },
+    "dev_handoff.code.lang_android_xml": {
+        "string": "XML"
+    },
+    "dev_handoff.code.lang_compose": {
+        "string": "Compose"
+    },
+    "dev_handoff.code.lang_css": {
+        "string": "CSS"
+    },
+    "dev_handoff.code.lang_figma": {
+        "string": "Figma"
+    },
+    "dev_handoff.code.lang_ios": {
+        "string": "iOS"
+    },
+    "dev_handoff.code.lang_react": {
+        "string": "React"
+    },
+    "dev_handoff.code.lang_swiftui": {
+        "string": "SwiftUI"
+    },
+    "dev_handoff.code.lang_uikit": {
+        "string": "UIKit"
+    },
+    "dev_handoff.code.language": {
+        "string": "言語"
+    },
+    "dev_handoff.code.options": {
+        "string": "オプション"
+    },
+    "dev_handoff.code.settings": {
+        "string": "コード設定"
+    },
+    "dev_handoff.code.settings.language": {
+        "string": "言語"
+    },
+    "dev_handoff.code.settings.set_as_default": {
+        "string": "デフォルトとして設定"
+    },
+    "dev_handoff.code.show_more": {
+        "string": "{count, plural, other {コードをさらに{count}行表示}}"
+    },
+    "dev_handoff.code.snippet_docs": {
+        "string": "コードスニペットAPIドキュメント"
+    },
+    "dev_handoff.code.submit": {
+        "string": "送信"
+    },
+    "dev_handoff.code.update_prompt": {
+        "string": "このレイヤーは、コードの生成後に編集されています。"
+    },
+    "dev_handoff.code.update_prompt_action": {
+        "string": "コードを再生成"
+    },
+    "dev_handoff.code.update_prompt_title": {
+        "string": "レイヤーの変更"
+    },
+    "dev_handoff.code.usage": {
+        "string": "使用状況"
+    },
+    "dev_handoff.code_connect.compose.add_plugin_snippet": {
+        "string": "Code Connectファイルの追加先モジュールのbuild.gradle.ktsファイルに、以下のスニペットを加えます。"
+    },
+    "dev_handoff.code_connect.entrypoint_body_text": {
+        "string": "デザインシステムをコードに接続して、開発の速度と一貫性を高めます。"
+    }
+}

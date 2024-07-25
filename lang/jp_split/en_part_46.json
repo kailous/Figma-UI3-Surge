@@ -1,0 +1,152 @@
+{
+    "fig_feed.time_ago_to_container": {
+        "string": "{timeAgo}に{container}宛"
+    },
+    "fig_feed.title_input_placeholder": {
+        "string": "何の作業をしていますか?"
+    },
+    "fig_feed.too_many_content_items": {
+        "string": "フィード投稿には最大{maxNum}件のコンテンツアイテムを含むことができます"
+    },
+    "fig_feed.tooltip.posted_to_members_of_container": {
+        "string": "{containerName}のメンバーに投稿済み"
+    },
+    "fig_feed.transcode_after_submit": {
+        "string": "フィード投稿が送信されると、動画はブラウザ再生にコード変換されます"
+    },
+    "fig_feed.unsupported_file_types_were_not_uploaded": {
+        "string": "ファイルは、PNG、JPEG、GIF、MP4、WebM、MOVのいずれかでなければなりません。"
+    },
+    "fig_feed.untitled_post": {
+        "string": "無題のポスト"
+    },
+    "fig_feed.update_preview_image": {
+        "string": "プレビュー画像を更新"
+    },
+    "fig_feed.upload_files": {
+        "string": "ファイルをアップロード"
+    },
+    "fig_feed.video": {
+        "string": "動画"
+    },
+    "fig_feed.video_file_size_limit_MB": {
+        "string": "動画ファイルは{maxFileSizeMB}MB未満でなければなりません。"
+    },
+    "fig_feed.view_all": {
+        "string": "すべて表示"
+    },
+    "fig_feed.view_post": {
+        "string": "投稿を表示"
+    },
+    "fig_feed.youll_lose_your_post_draft": {
+        "string": "投稿の下書きと内容がすべて削除されます。よろしいですか？"
+    },
+    "fig_feed.your_recent_spaces": {
+        "string": "最近投稿した自分のスペース"
+    },
+    "fig_feed.your_spaces": {
+        "string": "所属するスペース"
+    },
+    "fig_feed.youre_all_caught_up": {
+        "string": "すべて確認済みです。"
+    },
+    "fig_feed.zoom_pan_preset.actual_size": {
+        "string": "実際のサイズ"
+    },
+    "fig_feed.zoom_pan_preset.custom": {
+        "string": "カスタム"
+    },
+    "fig_feed.zoom_pan_preset.default": {
+        "string": "デフォルト"
+    },
+    "fig_feed.zoom_pan_preset.tooltip": {
+        "string": "ズームレベルを設定"
+    },
+    "collaboration.spotlight.2_0.nudge_spotlight.description": {
+        "string": "ドロップダウンで[{spotlightMeButtonText}] をクリックすると、チームメートに注目してもらうことができます。"
+    },
+    "collaboration.spotlight.2_0.onboarding_spotlight.description_with_spotlight_arg": {
+        "string": "ドロップダウンで[{spotlightMeButtonText}]をクリックすると、 チームメートをファイルに誘導できます。"
+    },
+    "collaboration.spotlight.bell.dismiss": {
+        "string": "閉じる"
+    },
+    "collaboration.spotlight.bell.explainer": {
+        "string": "全員にフォローしてもらいます"
+    },
+    "collaboration.spotlight.bell.explainer.takeover": {
+        "string": "{currentPresenter}からスポットライトを引き継ぎます"
+    },
+    "collaboration.spotlight.bell.follower.follow": {
+        "string": "フォロー"
+    },
+    "collaboration.spotlight.bell.follower.following_non_presenter": {
+        "string": "{observedUserName}をフォロー中"
+    },
+    "collaboration.spotlight.bell.follower.nominated": {
+        "string": "{nominatorName}がスポットライトを要求しています"
+    },
+    "collaboration.spotlight.bell.follower.not_now": {
+        "string": "今はしない"
+    },
+    "collaboration.spotlight.bell.follower.reprompt_spotlight_on_presenter": {
+        "string": "{presenterUserName}にスポットライト中"
+    },
+    "collaboration.spotlight.bell.follower.spotlight_on_presenter": {
+        "string": "{observedUserName}にスポットライト中"
+    },
+    "collaboration.spotlight.bell.follower.spotlighting_presenter_alternate_copy": {
+        "string": "{presenterName}にスポットライトを設定し、フォローします..."
+    },
+    "collaboration.spotlight.bell.follower.switching_to_new_presenter": {
+        "string": "{presenterName}に切り替えています…"
+    },
+    "collaboration.spotlight.bell.presenter.cancel": {
+        "string": "キャンセル"
+    },
+    "collaboration.spotlight.bell.presenter.follower_count": {
+        "string": "{followerCount, plural, other {{followerCount}のフォロワー}}"
+    },
+    "collaboration.spotlight.bell.presenter.stop": {
+        "string": "停止"
+    },
+    "collaboration.spotlight.bell.presenter.waiting_for_followers": {
+        "string": "フォロワーを待機中…"
+    },
+    "collaboration.spotlight.bell.stop": {
+        "string": "停止"
+    },
+    "collaboration.spotlight.bell.stop_following": {
+        "string": "フォローを停止"
+    },
+    "collaboration.spotlight.button.stop": {
+        "string": "スポットライトを停止"
+    },
+    "collaboration.spotlight.menu.search.placeholder": {
+        "string": "ユーザーを検索..."
+    },
+    "collaboration.spotlight.nudge_spotlight.got_it": {
+        "string": "了解"
+    },
+    "collaboration.spotlight.nudge_spotlight.title": {
+        "string": "ミーティングを主導しますか?"
+    },
+    "collaboration.spotlight.onboarding.done": {
+        "string": "完了"
+    },
+    "collaboration.spotlight.onboarding.next": {
+        "string": "次へ"
+    },
+    "collaboration.spotlight.onboarding_observation.description": {
+        "string": "チームメートのアバターをクリックすると、そのカーソルを追跡できます。あちこち動き回ることなく、注目し、耳を傾けることができます。"
+    },
+    "collaboration.spotlight.onboarding_observation.title": {
+        "string": "自分から動かずに追いかける"
+    },
+    "collaboration.spotlight.onboarding_spotlight.title": {
+        "string": "スポットライト機能で共有"
+    },
+    "collaboration.spotlight.tooltip.ask_to_spotlight": {
+        "string": "スポットライトを依頼"
+    }
+}

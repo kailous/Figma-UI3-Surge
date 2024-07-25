@@ -1,0 +1,152 @@
+{
+    "fullscreen.font_settings.you_can_always_download_the_font_installer_later_from_the_settings_page": {
+        "string": "フォントインストーラーは、後で設定ページからいつでもダウンロードできます。"
+    },
+    "fullscreen.fullscreen_view.attempted_sketch_import.do_it_later": {
+        "string": "後で"
+    },
+    "fullscreen.fullscreen_view.attempted_sketch_import.go_to_file_space": {
+        "string": "ファイルスペースに移動"
+    },
+    "fullscreen.fullscreen_view.attempted_sketch_import.import_from_sketch": {
+        "string": "Sketchからインポート"
+    },
+    "fullscreen.fullscreen_view.attempted_sketch_import.to_import_your_sketch_files_please_drag_them_into_your_file_space": {
+        "string": "Sketchファイルをインポートするには、ファイルスペースにドラッグしてください。"
+    },
+    "fullscreen.fullscreen_view.context_menu.aria_label": {
+        "string": "コンテキストメニュー"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.accept_component_updates": {
+        "string": "インスタンスのコンポーネント更新を新たに移動したコンポーネントに接続するために、それらの更新を受け入れます。"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.another_file": {
+        "string": "別のファイル"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.restore": {
+        "string": "復元"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.restore_component": {
+        "string": "コンポーネントの復元"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.restore_the_main_component_to_continue_making_edits_to_it": {
+        "string": "編集を続行するにはメインコンポーネントを復元します。"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.restoring_will_allow": {
+        "string": "今すぐ復元すると、コピーを公開できますが、インスタンスコネクションはこのファイルに戻りません。インスタンスコネクションを戻すには、コンポーネントを切り取り、このファイルに貼り付けて公開します。"
+    },
+    "fullscreen.fullscreen_view.restore_component_modal.this_component_was_moved": {
+        "string": "このコンポーネントは{otherFile}に移動しました。"
+    },
+    "fullscreen.fullscreen_view_selector.untitled": {
+        "string": "無題"
+    },
+    "fullscreen.grid_panel.auto": {
+        "string": "(自動)"
+    },
+    "fullscreen.grid_panel.columns": {
+        "string": "列{suffix}"
+    },
+    "fullscreen.grid_panel.columns_formatter": {
+        "string": "列"
+    },
+    "fullscreen.grid_panel.grid": {
+        "string": "グリッド"
+    },
+    "fullscreen.grid_panel.grid_size": {
+        "string": "グリッド{sectionSize}px"
+    },
+    "fullscreen.grid_panel.layout_grid": {
+        "string": "レイアウトグリッド"
+    },
+    "fullscreen.grid_panel.layout_grid_settings": {
+        "string": "レイアウトグリッドの設定"
+    },
+    "fullscreen.grid_panel.num_columns": {
+        "string": "{numColumns, plural, other {{numColumns}列{suffix}}}"
+    },
+    "fullscreen.grid_panel.num_rows": {
+        "string": "{numRows, plural, other {{numRows}行{suffix}}}"
+    },
+    "fullscreen.grid_panel.remove_layout_grid": {
+        "string": "レイアウトグリッドを削除"
+    },
+    "fullscreen.grid_panel.rows": {
+        "string": "行{suffix}"
+    },
+    "fullscreen.grid_panel.rows_formatter": {
+        "string": "行"
+    },
+    "fullscreen.grid_panel.section_size_px": {
+        "string": "({sectionSize}ピクセル)"
+    },
+    "fullscreen.grids_panel.grid_settings.auto": {
+        "string": "自動"
+    },
+    "fullscreen.grids_panel.grid_settings.bottom": {
+        "string": "下揃え"
+    },
+    "fullscreen.grids_panel.grid_settings.center": {
+        "string": "中央揃え"
+    },
+    "fullscreen.grids_panel.grid_settings.color": {
+        "string": "色"
+    },
+    "fullscreen.grids_panel.grid_settings.count": {
+        "string": "数"
+    },
+    "fullscreen.grids_panel.grid_settings.gutter": {
+        "string": "ガター"
+    },
+    "fullscreen.grids_panel.grid_settings.height": {
+        "string": "高さ"
+    },
+    "fullscreen.grids_panel.grid_settings.left": {
+        "string": "左揃え"
+    },
+    "fullscreen.grids_panel.grid_settings.margin": {
+        "string": "余白"
+    },
+    "fullscreen.grids_panel.grid_settings.offset": {
+        "string": "オフセット"
+    },
+    "fullscreen.grids_panel.grid_settings.right": {
+        "string": "右揃え"
+    },
+    "fullscreen.grids_panel.grid_settings.size": {
+        "string": "サイズ"
+    },
+    "fullscreen.grids_panel.grid_settings.stretch": {
+        "string": "ストレッチ"
+    },
+    "fullscreen.grids_panel.grid_settings.top": {
+        "string": "上揃え"
+    },
+    "fullscreen.grids_panel.grid_settings.type": {
+        "string": "タイプ"
+    },
+    "fullscreen.grids_panel.grid_settings.width": {
+        "string": "幅"
+    },
+    "fullscreen.keyboard_shortcuts_panel.component_insert_description": {
+        "string": "フローを失うことなくコンポーネントを検索して挿入します。"
+    },
+    "fullscreen.keyboard_shortcuts_panel.toggle_dropper_description": {
+        "string": "フローを失うことなく、任意の場所から色を選択します"
+    },
+    "fullscreen.keyboard_shortcuts_panel.toggle_menu_description": {
+        "string": "メニュー、コマンド、プラグインを検索します"
+    },
+    "fullscreen.keyboard_shortcuts_panel.toggle_ui_description": {
+        "string": "これを押すと、ペインを非表示にして作業に集中できます"
+    },
+    "fullscreen.layer_panel.layer": {
+        "string": "レイヤー"
+    },
+    "fullscreen.layer_panel.replace_mixed_visibility": {
+        "string": "混合表示設定を置き換えるには、{svg}をクリックします"
+    }
+}

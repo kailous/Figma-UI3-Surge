@@ -1,0 +1,152 @@
+{
+    "dev_handoff.workflows.overview.pages_count": {
+        "string": "{count, plural, other {デザインが存在するページ数: {count}}}"
+    },
+    "dev_handoff.workflows.overview.search_placeholder": {
+        "string": "検索"
+    },
+    "dev_handoff.workflows.overview.sections_count": {
+        "string": "{count, plural, other {{count}個のセクション}}"
+    },
+    "dev_handoff.workflows.overview.show_on_page_action": {
+        "string": "ページで表示"
+    },
+    "dev_handoff.workflows.overview.sort_alphabetical": {
+        "string": "名前(A-Z)"
+    },
+    "dev_handoff.workflows.overview.sort_by": {
+        "string": "並べ替えの基準"
+    },
+    "dev_handoff.workflows.overview.sort_pages": {
+        "string": "ページ"
+    },
+    "dev_handoff.workflows.overview.sort_recent": {
+        "string": "最近のアクティビティー"
+    },
+    "dev_handoff.workflows.overview.tab_all": {
+        "string": "すべて"
+    },
+    "dev_handoff.workflows.overview.tab_completed": {
+        "string": "完了済み"
+    },
+    "dev_handoff.workflows.overview.tab_ready": {
+        "string": "準備完了"
+    },
+    "dev_handoff.workflows.overview.tab_recent": {
+        "string": "最近表示"
+    },
+    "dev_handoff.workflows.overview.title": {
+        "string": "開発準備完了"
+    },
+    "dev_mode.you_will_be_notified_about_status_changes": {
+        "string": "ステータスの変更について通知されます"
+    },
+    "developer_app_docs.an_array_with_the_same_number_of_elements_as_lines_in_the_text_box_each_element_corresponds_to_that_line_s_list_type_list_types_are_string_enums_with_the_following_values": {
+        "string": "テキストノードの行数と同じ数の要素を含む配列。テキストノードでは行が改行文字または段落区切り文字で区切られています。配列の各要素は、特定の行のリストタイプに対応しています。リストタイプは、次のいずれかの値をとる文字列列挙として表されます。"
+    },
+    "developer_app_docs.an_array_with_the_same_number_of_elements_as_lines_in_the_text_node_each_element_in_the_array_corresponds_to_the_indentation_level_of_a_specific_line": {
+        "string": "テキストノードの行数と同じ数の要素を含む配列。テキストノードでは、行は改行文字または段落区切り文字で区切られています。配列の各要素は、特定の行のインデントレベルに対応しています。"
+    },
+    "developer_app_docs.text_is_an_ordered_list_numbered": {
+        "string": "テキストは番号付きリストです"
+    },
+    "developer_app_docs.text_is_an_unordered_list_bulleted": {
+        "string": "テキストは番号のないリスト(箇条書き)です"
+    },
+    "developer_app_docs.text_is_plain_text_and_not_part_of_any_list": {
+        "string": "テキストは書式なしテキストであり、リストの一部ではありません"
+    },
+    "fullscreeen.type_panel.resizing": {
+        "string": "サイズ変更"
+    },
+    "fullscreen.accessibility.author": {
+        "string": "作成者: {authorName}"
+    },
+    "fullscreen.accessibility.comment_thread_label": {
+        "string": "現在展開されているコメントスレッド。ボードに戻るには、このダイアログを閉じます。"
+    },
+    "fullscreen.accessibility.comments_sidebar": {
+        "string": "コメントパネル"
+    },
+    "fullscreen.accessibility.contents_hidden": {
+        "string": "コンテンツ非表示"
+    },
+    "fullscreen.accessibility.dom_error": {
+        "string": "コンテンツをスクリーンリーダーに適応させることができませんでした。しばらくしてから、もう一度お試しください"
+    },
+    "fullscreen.accessibility.main_region": {
+        "string": "ボード"
+    },
+    "fullscreen.accessibility.multi_select": {
+        "string": "{n}個のアイテムを選択済み"
+    },
+    "fullscreen.accessibility.multiple_node_deleted_announcement": {
+        "string": "選択内容を削除しました"
+    },
+    "fullscreen.accessibility.next_comment": {
+        "string": "次のコメントスレッド"
+    },
+    "fullscreen.accessibility.next_table_cell_announcement": {
+        "string": "テーブルセル行{r}列{c}を編集"
+    },
+    "fullscreen.accessibility.next_text_node_announcement": {
+        "string": "次の{nodeType}を編集"
+    },
+    "fullscreen.accessibility.node_created_announcement": {
+        "string": "{node_type}が作成されました"
+    },
+    "fullscreen.accessibility.node_deleted_announcement": {
+        "string": "{node_type}が削除されました"
+    },
+    "fullscreen.accessibility.node_movement_bidirectional": {
+        "string": "{nodeType}が{nodeDirectionX}へ{nodePositionXDelta}、{nodeDirectionY}へ{nodePositionYDelta}移動しました "
+    },
+    "fullscreen.accessibility.node_movement_down": {
+        "string": "下"
+    },
+    "fullscreen.accessibility.node_movement_left": {
+        "string": "左"
+    },
+    "fullscreen.accessibility.node_movement_right": {
+        "string": "右"
+    },
+    "fullscreen.accessibility.node_movement_unidirectional": {
+        "string": "{nodePositionDelta, plural, other {{nodeType}が{nodeDirection}へ#単位移動しました}}"
+    },
+    "fullscreen.accessibility.node_movement_up": {
+        "string": "上"
+    },
+    "fullscreen.accessibility.node_resize_bidirectional": {
+        "string": "{nodeType}のサイズが横に{nodeResizeXDelta}{resizedComparisonX}、縦に{nodeResizeYDelta}{resizedComparisonY}なりました"
+    },
+    "fullscreen.accessibility.node_resize_decrease": {
+        "string": "小さく"
+    },
+    "fullscreen.accessibility.node_resize_horizontal": {
+        "string": "横に"
+    },
+    "fullscreen.accessibility.node_resize_increase": {
+        "string": "大きく"
+    },
+    "fullscreen.accessibility.node_resize_none": {
+        "string": "なし"
+    },
+    "fullscreen.accessibility.node_resize_unidirectional": {
+        "string": "{nodeSizeDelta, plural, other {{nodeType}のサイズが{nodeDirection}#単位{resizeComparison}なりました}}"
+    },
+    "fullscreen.accessibility.node_resize_vertical": {
+        "string": "縦に"
+    },
+    "fullscreen.accessibility.node_unit": {
+        "string": "{numUnits, plural, other {#単位}}"
+    },
+    "fullscreen.accessibility.num_items_selected": {
+        "string": "{num_selected, plural, other {#アイテム選択しました}}"
+    },
+    "fullscreen.accessibility.platform_error": {
+        "string": "スクリーンリーダーを使用するには、FigJamをデスクトップアプリまたはブラウザで開いてください。モバイルではまだサポートされていません。"
+    },
+    "fullscreen.accessibility.previous_comment": {
+        "string": "前のコメントスレッド"
+    }
+}

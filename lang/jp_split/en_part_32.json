@@ -1,0 +1,152 @@
+{
+    "collaboration.branching.error_archiving_branches": {
+        "string": "{branchCount, plural, other {これらのブランチのアーカイブ中にエラーが発生しました。}}"
+    },
+    "collaboration.branching.error_converting_merge_request_to_draft": {
+        "string": "リクエストをドラフトにマージしているときにエラーが発生しました"
+    },
+    "collaboration.branching.error_creating_image_usages": {
+        "string": "画像の使用方法の作成中にエラーが発生しました"
+    },
+    "collaboration.branching.error_deleting_branches": {
+        "string": "{branchCount, plural, other {これらのブランチの削除中にエラーが発生しました。}}"
+    },
+    "collaboration.branching.error_generic": {
+        "string": "エラーが発生しました"
+    },
+    "collaboration.branching.error_leaving_review": {
+        "string": "レビューの終了中にエラーが発生しました"
+    },
+    "collaboration.branching.error_merging": {
+        "string": "マージ中にエラーが発生しました"
+    },
+    "collaboration.branching.error_re_sending_merge_request": {
+        "string": "マージリクエストの再送信中にエラーが発生しました"
+    },
+    "collaboration.branching.error_removing_approval": {
+        "string": "承認の削除中にエラーが発生しました"
+    },
+    "collaboration.branching.error_restoring_branches": {
+        "string": "{branchCount, plural, other {これらのブランチの復元中にエラーが発生しました。}}"
+    },
+    "collaboration.branching.error_saving_file": {
+        "string": "ファイルの保存中にエラーが発生しました"
+    },
+    "collaboration.branching.error_submitting_merge_request": {
+        "string": "マージリクエストの送信中にエラーが発生しました"
+    },
+    "collaboration.branching.error_updating_merge_request": {
+        "string": "マージリクエストの更新中にエラーが発生しました"
+    },
+    "collaboration.branching.error_updating_reviewer_comment": {
+        "string": "レビュー担当者のコメントの更新中にエラーが発生しました"
+    },
+    "collaboration.branching.file_is_in_view_only_state_please_current_refresh_tab_and_try_again": {
+        "string": "ファイルは閲覧限定状態です - 現在のタブを更新して、もう一度お試しください。"
+    },
+    "collaboration.branching.file_out_of_memory": {
+        "string": "ファイルに使用できるメモリーがありません"
+    },
+    "collaboration.branching.files_deleted": {
+        "string": "ファイルを削除しました"
+    },
+    "collaboration.branching.files_deleted_forever": {
+        "string": "ファイルを完全に削除しました"
+    },
+    "collaboration.branching.files_restored": {
+        "string": "ファイルを復元しました"
+    },
+    "collaboration.branching.fit": {
+        "string": "自動調整"
+    },
+    "collaboration.branching.for_more_help_visit_our_help_center": {
+        "string": "詳細情報については、{helpCenterLink}にアクセスしてください。"
+    },
+    "collaboration.branching.help_center": {
+        "string": "ヘルプセンター"
+    },
+    "collaboration.branching.in_review": {
+        "string": "レビュー中"
+    },
+    "collaboration.branching.merge_error.branch_already_updated_description": {
+        "string": "ブランチは既にこれらの変更で更新されています。変更を表示するには、このウィンドウを再読み込みしてください。"
+    },
+    "collaboration.branching.merge_error.branch_archived_description": {
+        "string": "このブランチは他のユーザーによってマージ済みまたはアーカイブ済みとなっており、マージまたは更新できません。"
+    },
+    "collaboration.branching.merge_error.cancel": {
+        "string": "キャンセル"
+    },
+    "collaboration.branching.merge_error.cancel_merge_pending": {
+        "string": "マージをキャンセルしています..."
+    },
+    "collaboration.branching.merge_error.cancel_merge_success": {
+        "string": "マージをキャンセルしました"
+    },
+    "collaboration.branching.merge_error.cancel_previous_merge_pending": {
+        "string": "直前のマージをキャンセルしています…"
+    },
+    "collaboration.branching.merge_error.cancel_previous_merge_success": {
+        "string": "直前のマージをキャンセルしました"
+    },
+    "collaboration.branching.merge_error.cancel_previous_update_pending": {
+        "string": "直前の更新をキャンセルしています…"
+    },
+    "collaboration.branching.merge_error.cancel_previous_update_success": {
+        "string": "直前の更新をキャンセルしました"
+    },
+    "collaboration.branching.merge_error.cancel_update_pending": {
+        "string": "更新をキャンセルしています..."
+    },
+    "collaboration.branching.merge_error.cancel_update_success": {
+        "string": "更新をキャンセルしました"
+    },
+    "collaboration.branching.merge_error.confirm": {
+        "string": "確定"
+    },
+    "collaboration.branching.merge_error.confirm_merge_pending": {
+        "string": "マージを確定しています..."
+    },
+    "collaboration.branching.merge_error.confirm_merge_success": {
+        "string": "マージを確定しました"
+    },
+    "collaboration.branching.merge_error.confirm_update_pending": {
+        "string": "マージを確定しています..."
+    },
+    "collaboration.branching.merge_error.confirm_update_success": {
+        "string": "マージを確定しました"
+    },
+    "collaboration.branching.merge_error.contact_support": {
+        "string": "Figmaに問い合わせる"
+    },
+    "collaboration.branching.merge_error.could_not_start_merge": {
+        "string": "マージを開始できませんでした"
+    },
+    "collaboration.branching.merge_error.could_not_start_merge_description": {
+        "string": "マージの準備中に問題が発生しました。もう一度試すか、ステータスページを確認してください。"
+    },
+    "collaboration.branching.merge_error.could_not_start_update": {
+        "string": "更新を開始できませんでした"
+    },
+    "collaboration.branching.merge_error.could_not_start_update_description": {
+        "string": "更新の準備中に問題が発生しました。もう一度試すか、ステータスページを確認してください。"
+    },
+    "collaboration.branching.merge_error.merge_in_progress": {
+        "string": "マージできませんでした。サポートにお問い合わせください"
+    },
+    "collaboration.branching.merge_error.merge_in_progress_description": {
+        "string": "マージを完了できませんでした。マージをもう一度試すか、サポートにお問い合わせください。"
+    },
+    "collaboration.branching.merge_error.reload": {
+        "string": "再読み込み"
+    },
+    "collaboration.branching.merge_error.retry_merge": {
+        "string": "もう一度試す"
+    },
+    "collaboration.branching.merge_error.review_and_confirm": {
+        "string": "変更の確認と確定"
+    },
+    "collaboration.branching.merge_error.review_and_confirm_merge_description": {
+        "string": "マージの実行中に問題が発生した可能性があります。ファイルに変更が反映されていることを確認してください。反映されていない場合は、マージをキャンセルしてもう一度試してください。"
+    }
+}

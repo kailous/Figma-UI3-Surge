@@ -1,0 +1,152 @@
+{
+    "payments.pro_enter_an_email_address": {
+        "string": "更新のリマインダー、お支払いの確認など、請求関連のメールを受け取る管理者以外のユーザーやメールアドレスを選択できます。管理者は、これらのメールを常に受け取ります。"
+    },
+    "payments.pro_plan_ends_button": {
+        "string": "プロフェッショナルプランを購入"
+    },
+    "payments.pro_plan_ends_for_team_description": {
+        "string": "数に制限がないチームのFigmaファイル、プロジェクト、チームライブラリなどの有料の機能を引き続き利用するには、{teamName}のプロフェッショナルプランを購入してください。"
+    },
+    "payments.pro_plan_ends_on_date": {
+        "string": "プロフェッショナルプランは{end_date}に終了します"
+    },
+    "payments.pro_plan_ends_relative_time_string": {
+        "string": "プロフェッショナルプランは{relative_time_string}に終了します"
+    },
+    "payments.pro_trial.start_pro_trial_error": {
+        "string": "このプロフェッショナルチームへのトライアルの付与中にエラーが発生しました"
+    },
+    "payments.pro_trial.start_pro_trial_success": {
+        "string": "処理が正常に終了しました。プロフェッショナルチームトライアルへようこそ"
+    },
+    "payments.pro_trial.trial_ended_banner_message": {
+        "string": "{teamName}はスタータープランに戻りましたが、いつでもアップグレードできます"
+    },
+    "payments.pro_trial.trial_ended_banner_message.no_name": {
+        "string": "チームはスタータープランに戻りましたが、いつでもアップグレードできます。"
+    },
+    "payments.pro_trial.trial_ended_banner_title": {
+        "string": "プロフェッショナルのトライアルが終了しました。"
+    },
+    "payments.pro_trial.trial_ended_banner_upgrade_cta": {
+        "string": "プロフェッショナルにアップグレード"
+    },
+    "payments.pro_trial_expiry.locked_description_for_viewer_on_team": {
+        "string": "{teamName}のファイルは一時的に閲覧限定です。詳細はチームの管理者にお問い合わせください。"
+    },
+    "payments.pro_trial_expiry.locked_description_on_team": {
+        "string": "{teamName}ファイルは、{lowerUsageLink}スターターの制限内にするかアップグレードするまで、閲覧限定になります。"
+    },
+    "payments.pro_trial_expiry.lower_usage": {
+        "string": "使用量を減らして"
+    },
+    "payments.pro_trial_upgrade_cta.upgrade": {
+        "string": "アップグレード"
+    },
+    "payments.projects_deprecated": {
+        "string": "チーム外部ではプロジェクトがサポートされていません。編集を続けるには、このプロジェクトをチームに移動するか、これらのファイルをドラフトに移動してください。"
+    },
+    "payments.save": {
+        "string": "保存"
+    },
+    "payments.step_pay.add_more_editors": {
+        "string": "事前に準備しておきますか?{addMoreSeats}"
+    },
+    "payments.step_pay.add_more_seats": {
+        "string": "シートを追加する"
+    },
+    "payments.step_pay.confirm_seats": {
+        "string": "シートを確認する"
+    },
+    "payments.step_pay.editors_on_annual_plan.seat_rename": {
+        "string": "{numAnnualEditors, plural, other {年間プランで{numAnnualEditorsNumberOrInput}人分の{productType}シート}}"
+    },
+    "payments.step_pay.happy_you_want_to_buy_seats": {
+        "string": "購入総シート数は{numAnnualEditors}シートです。入力に間違いがないか、ご確認ください。"
+    },
+    "payments.step_pay.none_selected": {
+        "string": "選択されていません"
+    },
+    "payments.step_pay.num_editors.seat_rename": {
+        "string": "{numEditors, plural, other {{numEditors}人分のフルシート}}"
+    },
+    "payments.step_pay.plus_sales_tax": {
+        "string": "+ 消費税"
+    },
+    "payments.step_pay.price_per_editor_12_months": {
+        "string": "{price} × {editorString} × 12か月"
+    },
+    "payments.step_pay.subscription": {
+        "string": "サブスクリプション"
+    },
+    "payments.step_pay.thats_a_lot_of_seats": {
+        "string": "{numAnnualEditors}シートですか? かなりの数ですね!"
+    },
+    "payments.team_over_starter_team_limit": {
+        "string": "スタータープランの上限を超えたため、{teamName}がロックされました。詳細はチームの管理者にお問い合わせください。"
+    },
+    "payments.team_over_starter_team_limit_lower_your_usage": {
+        "string": "使用量を減らして"
+    },
+    "payments.team_over_starter_team_limit_title": {
+        "string": "スタータープランの上限に達しました"
+    },
+    "payments.team_over_starter_team_limit_upgrade": {
+        "string": "{teamName}をアップグレードしてファイルの編集を続けるか、{lowerYourUsage}ください。"
+    },
+    "payments.team_over_starter_team_limit_with_button.legacy_team": {
+        "string": "スタータープランでは、{fileLimitString}に制限されています。ファイルの制限をなくし、もっと多くのことを行うには、{checkoutOurPlans}して{teamName}をアップグレードしてください。"
+    },
+    "payments.team_over_starter_team_limit_with_button.no_legacy_team_present": {
+        "string": "スタータープランでは、{fileLimitString}に制限されています。ファイルの制限をなくし、もっと多くのことを行うには、{checkoutOurPlans}してチームをアップグレードしてください。"
+    },
+    "payments.united_states": {
+        "string": "米国"
+    },
+    "payments.update_payment": {
+        "string": "支払い情報を更新する"
+    },
+    "payments.upgrade_now": {
+        "string": "今すぐアップグレードする"
+    },
+    "payments.view_only_projects": {
+        "string": "閲覧限定プロジェクト"
+    },
+    "payments_modal.account_switcher_and_support_cta": {
+        "string": "{switchAccountLink}てFigmaの使用を継続するか、詳細をサポートにお問い合わせください。"
+    },
+    "payments_modal.account_switcher_cta": {
+        "string": "Figmaを引き続き使用するには、{switchAccountLink}。"
+    },
+    "payments_modal.add": {
+        "string": "追加"
+    },
+    "payments_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "payments_modal.contact_an_admin_of_team_name_to_upgrade": {
+        "string": "アップグレードするには、{teamName}の管理者に連絡してください。"
+    },
+    "payments_modal.contact_an_admin_to_update_your_payment_source": {
+        "string": "支払い元を更新するには、管理者に連絡してください。"
+    },
+    "payments_modal.contact_support": {
+        "string": "サポートにお問い合わせください"
+    },
+    "payments_modal.duplicate": {
+        "string": "複製"
+    },
+    "payments_modal.guest_permission_disclaimer": {
+        "string": "組織のゲストであるため、招待されたチームとファイルのみを閲覧できます。"
+    },
+    "payments_modal.if_you_d_like_you_can_upgrade_your_plan_now_or_learn_more_about_our_paid_plans": {
+        "string": "ご希望される場合、今すぐプランをアップグレードできます。または{learnMoreAboutOurPaidPlans}をご覧ください。"
+    },
+    "payments_modal.if_you_would_rather_keep_the_current_limits": {
+        "string": "現在の制限を引き続き維持する場合は、{upgradeToProfessional}します"
+    },
+    "payments_modal.import": {
+        "string": "インポート"
+    }
+}

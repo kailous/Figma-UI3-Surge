@@ -1,0 +1,152 @@
+{
+    "fig_feed.from_file": {
+        "string": "{fileComponent}より"
+    },
+    "fig_feed.gif": {
+        "string": "GIF"
+    },
+    "fig_feed.give_your_post_a_title": {
+        "string": "投稿のタイトル"
+    },
+    "fig_feed.image_file_size_limit_MB": {
+        "string": "画像ファイルは{maxFileSizeMB}MB未満でなければなりません。"
+    },
+    "fig_feed.indicator_for_new_feed_posts": {
+        "string": "新しいフィード投稿とアクティビティのインジケーターを表示する"
+    },
+    "fig_feed.invalid_prototype_permission": {
+        "string": "フィードへのプロトタイプの共有には、組織レベルまたはパブリックのパスワードなしの権限が必要です。このプロトタイプをフィードに共有するには、ファイルの権限を更新してください。"
+    },
+    "fig_feed.invalid_prototype_permission_warning": {
+        "string": "権限がプライベートの間、このファイルのプロトタイプのフィード投稿にはアクセスできません。"
+    },
+    "fig_feed.label.by": {
+        "string": "投稿者"
+    },
+    "fig_feed.label.in": {
+        "string": "コンテナ:"
+    },
+    "fig_feed.link_figma_file": {
+        "string": "Figmaファイルをリンク"
+    },
+    "fig_feed.more_actions": {
+        "string": "その他のアクション"
+    },
+    "fig_feed.new_default_container_has_been_set": {
+        "string": "新しいデフォルトのコンテナが設定されました"
+    },
+    "fig_feed.new_post": {
+        "string": "新しい投稿"
+    },
+    "fig_feed.new_posts": {
+        "string": "新しい投稿"
+    },
+    "fig_feed.no_frames_matching": {
+        "string": "{searchQuery}と一致するフレームがありません"
+    },
+    "fig_feed.no_matching_results": {
+        "string": "一致する結果はありません"
+    },
+    "fig_feed.no_posts_found_description": {
+        "string": "選択したフィルターに一致する投稿はありません。フィルターを削除するか別のフィルターを試してください。"
+    },
+    "fig_feed.no_posts_found_title": {
+        "string": "ここに表示するものがありません"
+    },
+    "fig_feed.no_top_level_nodes": {
+        "string": "最上位のセクションまたはフレームが存在しません"
+    },
+    "fig_feed.num_comments": {
+        "string": "{numComments, plural, other {{numComments}件のコメント}}"
+    },
+    "fig_feed.num_members": {
+        "string": "{numMembers, plural, other {{numMembers}人のメンバー}}"
+    },
+    "fig_feed.other_recent_spaces": {
+        "string": "最近投稿したその他のスペース"
+    },
+    "fig_feed.other_spaces": {
+        "string": "その他のスペース"
+    },
+    "fig_feed.placeholder.container_search": {
+        "string": "スペースを検索"
+    },
+    "fig_feed.placeholder.user_search": {
+        "string": "ユーザーを検索"
+    },
+    "fig_feed.post": {
+        "string": "投稿"
+    },
+    "fig_feed.post_dne": {
+        "string": "投稿はありません"
+    },
+    "fig_feed.post_edited": {
+        "string": "投稿を編集しました"
+    },
+    "fig_feed.post_submission_pending": {
+        "string": "投稿は正常に送信され、現在処理中です。まもなく表示されます"
+    },
+    "fig_feed.post_to": {
+        "string": "投稿先:"
+    },
+    "fig_feed.post_to_feed": {
+        "string": "フィードに投稿"
+    },
+    "fig_feed.post_to_feed_ellipsis": {
+        "string": "フィードに投稿..."
+    },
+    "fig_feed.post_to_org_feed": {
+        "string": "{orgName}のフィードに投稿"
+    },
+    "fig_feed.posted_to_feed": {
+        "string": "フィードに投稿しました"
+    },
+    "fig_feed.posted_to_org_feed": {
+        "string": "{orgName}のフィードに投稿しました"
+    },
+    "fig_feed.posting": {
+        "string": "投稿しています..."
+    },
+    "fig_feed.prototype_badge": {
+        "string": "プロトタイプ"
+    },
+    "fig_feed.recents": {
+        "string": "最近"
+    },
+    "fig_feed.reset": {
+        "string": "リセット"
+    },
+    "fig_feed.reset.tooltip": {
+        "string": "このプレビューをオリジナルにリセット"
+    },
+    "fig_feed.saving": {
+        "string": "保存中"
+    },
+    "fig_feed.search_files": {
+        "string": "ファイルを検索"
+    },
+    "fig_feed.search_frames": {
+        "string": "フレームを検索"
+    },
+    "fig_feed.secret_team_tooltip": {
+        "string": "この投稿は{containerName}のメンバーにしか表示されません"
+    },
+    "fig_feed.see_more": {
+        "string": "さらに表示"
+    },
+    "fig_feed.set_as_default": {
+        "string": "デフォルトとして設定"
+    },
+    "fig_feed.share_something_from_figjam": {
+        "string": "このFigJamボード内の要素を共有します。"
+    },
+    "fig_feed.tab.all": {
+        "string": "すべて"
+    },
+    "fig_feed.tab.for_you": {
+        "string": "自分向け"
+    },
+    "fig_feed.thumbnail_alt_text": {
+        "string": "選択した画像"
+    }
+}

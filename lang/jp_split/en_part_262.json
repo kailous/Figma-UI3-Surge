@@ -1,0 +1,152 @@
+{
+    "pro_trials_v3.downgrade_modal.feature_downgrade.consumption_limit.description": {
+        "string": "どのファイルをドラフトに移し、どのファイルを残すかを決めるまで、ファイルは閲覧のみになります。"
+    },
+    "pro_trials_v3.downgrade_modal.feature_downgrade.consumption_limit.title": {
+        "string": "チームで使用するファイルとプロジェクトの数をそれぞれ{maxNumOfFiles}と{maxNumOfProjects}に減らす必要があります。"
+    },
+    "pro_trials_v3.downgrade_modal.feature_downgrade.other.description": {
+        "string": "オープンセッション、ファイルのパスワード保護、自動会話など、プロフェッショナルプランの機能をすべて利用できなくなります。"
+    },
+    "pro_trials_v3.downgrade_modal.feature_downgrade.other.title": {
+        "string": "利用できるのは、スタータープランの限られた機能だけになります。"
+    },
+    "pro_trials_v3.downgrade_modal.feature_downgrade.team_library.description": {
+        "string": "プロフェッショナルプランをお試しいただき、ありがとうございます。更新または編集なしで継続して利用できます。"
+    },
+    "pro_trials_v3.downgrade_modal.feature_downgrade.team_library.title": {
+        "string": "デザインライブラリに変更内容を公開できなくなります。"
+    },
+    "pro_trials_v3.downgrade_modal.text_cta.text": {
+        "string": "気が変わりました"
+    },
+    "pro_trials_v3.downgrade_modal.title": {
+        "string": "スタータープランに戻る"
+    },
+    "pro_trials_v3.entry_modal_bullet_pt_1": {
+        "string": "プロフェッショナルプランのすべての機能とツールを利用可能"
+    },
+    "pro_trials_v3.entry_modal_bullet_pt_2": {
+        "string": "ファイルとFigJamの数が無制限"
+    },
+    "pro_trials_v3.entry_modal_bullet_pt_3": {
+        "string": "お支払方法不要"
+    },
+    "pro_trials_v3.entry_modal_cta_text": {
+        "string": "プロフェッショナルのトライアルを開始"
+    },
+    "pro_trials_v3.entry_modal_explanation": {
+        "string": "あなたとチームがFigmaのプロフェッショナルプランの無料トライアルの資格を獲得しました。14 日間、以下の体験ができます。"
+    },
+    "pro_trials_v3.entry_modal_title": {
+        "string": "ファイルの数が無制限"
+    },
+    "pro_trials_v3.expiry_modal_cta_text": {
+        "string": "プランをアップグレード"
+    },
+    "pro_trials_v3.expiry_modal_explanation": {
+        "string": "プロフェッショナルプランを継続することも、スターターに戻ることもできます。"
+    },
+    "pro_trials_v3.expiry_modal_secondary_cta_text": {
+        "string": "スターターに戻る"
+    },
+    "pro_trials_v3.expiry_modal_title": {
+        "string": "トライアル期間が終了しました"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.agency": {
+        "string": "代理店"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.cancel": {
+        "string": "キャンセル"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.component_libraries": {
+        "string": "コンポーネントライブラリの作成"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.continue": {
+        "string": "続行"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.editors.seat_rename": {
+        "string": "{numEditors, plural, other {{numEditors}シート}}"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.everyone_will_be_upgraded": {
+        "string": "全員がプロフェッショナルに自動的にアップグレードされます"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.finish": {
+        "string": "完了"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.freelancer": {
+        "string": "フリーランサー"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.go_back": {
+        "string": "戻る"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.inviting_visitors": {
+        "string": "ファイルに参加するようビジターを招待する"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.not_being_nosy": {
+        "string": "ただのお節介ではありません。この情報でFigmaをさらに便利に利用できます。"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.organizing_files": {
+        "string": "ファイルとプロジェクトを詳細に整理する"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.other_team_type": {
+        "string": "全く別のもの"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.pick_a_team": {
+        "string": "トライアル対象のチームを選択します"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.playing_videos": {
+        "string": "ファイル内で動画を再生する"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.product": {
+        "string": "製品またはブランド"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.sharing_files": {
+        "string": "ファイルを柔軟に共有する"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.step_counter": {
+        "string": "ステップ{currentStep}/{totalSteps}"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.unlimited_files": {
+        "string": "ファイルとボードを制限なく作成する"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.upgrade_to_pro": {
+        "string": "プロフェッショナルにアップグレード"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.using_audio": {
+        "string": "ファイル内で音声を使用する"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.voting_workshopping": {
+        "string": "投票とワークショップを実施する"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.what_are_you_excited": {
+        "string": "どの機能を試してみたいですか?"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.what_type_of_team": {
+        "string": "{teamName}はどんなチームですか?"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.you_have_14_days": {
+        "string": "{proTrialDuration}日間のトライアルとサンプルを数多くご用意しています。ご興味のあるものをお知らせください。"
+    },
+    "pro_trials_v3.pro_trial_initiation_modal.your_team": {
+        "string": "自分のチーム"
+    },
+    "pro_trials_v3.team_welcome_modal_cta": {
+        "string": "開始"
+    },
+    "pro_trials_v3.team_welcome_modal_explanation": {
+        "string": "チームがFigmaプロフェッショナルプラン無料トライアルにアップグレードされました。トライアルの残り期間、以下の体験ができます。"
+    },
+    "pro_trials_v3.team_welcome_modal_title": {
+        "string": "無料のプロフェッショナルトライアルへようこそ"
+    },
+    "flash.redeem_promo.failure": {
+        "string": "プロモーションコードを使用できません、"
+    },
+    "flash.redeem_promo.success": {
+        "string": "{teamName}は、プロフェッショナルプランに正常にアップグレードされました"
+    },
+    "promo.promo_review.any_additional_editors_invited_to_selected_view_team_name_will_also_be_free_of_charge_for_the_next_days.seat_rename": {
+        "string": "{days, plural, other {{teamName}のメンバーで編集アクセス権を付与されたユーザーは、今後{days}日間無料になります}}"
+    }
+}

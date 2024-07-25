@@ -1,0 +1,152 @@
+{
+    "org_admin_onboarding.request_dashboard.tooltip.manage_upgrades_title": {
+        "string": "アップグレード申請を管理する"
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.see_all_org_requests_description": {
+        "string": "{orgName}全体からの申請をすべて表示し、管理することもできます。"
+    },
+    "org_admin_onboarding.request_dashboard.tooltip.see_all_org_requests_title": {
+        "string": "組織のすべての申請を表示する"
+    },
+    "org_admin_onboarding.tooltip.create_first_billing_group.description": {
+        "string": "予算に応じてメンバーとゲストを整理する場合は、このタブに移動し、最初の請求グループを作成してください。"
+    },
+    "org_admin_onboarding.tooltip.create_first_billing_group.title": {
+        "string": "請求グループの作成を開始"
+    },
+    "org_admin_onboarding.tooltip.create_first_workspace.description": {
+        "string": "ワークスペースでチームとプロジェクトを整理する準備ができたら、このタブに移動して始めましょう。"
+    },
+    "org_admin_onboarding.tooltip.create_first_workspace.title": {
+        "string": "最初のワークスペースを作成"
+    },
+    "org_admin_onboarding.tooltip.workspace_add_teams.description": {
+        "string": "まだどのワークスペースにも所属していないチームを確認し、必要に応じて自分のワークスペースに移動します。"
+    },
+    "org_admin_onboarding.tooltip.workspace_add_teams.title": {
+        "string": "このワークスペースにチームを追加する"
+    },
+    "abandoned_drafts_table.created_at": {
+        "string": "作成"
+    },
+    "abandoned_drafts_table.file_count": {
+        "string": "{numFiles, plural, other {{numFiles}個のファイル}}"
+    },
+    "abandoned_drafts_table.file_name": {
+        "string": "名前"
+    },
+    "abandoned_drafts_table.files": {
+        "string": "ファイル"
+    },
+    "abandoned_drafts_table.folder_name": {
+        "string": "名前"
+    },
+    "abandoned_drafts_table.modified_at": {
+        "string": "最終更新"
+    },
+    "abandoned_drafts_table.no_drafts": {
+        "string": "表示するドラフトはありません。"
+    },
+    "abandoned_drafts_table.removed_at": {
+        "string": "削除済み"
+    },
+    "abandoned_drafts_table.search.placeholder": {
+        "string": "ドラフトを検索..."
+    },
+    "add_unassigned_members_modal.add_members_button": {
+        "string": "メンバーを追加"
+    },
+    "add_unassigned_members_modal.add_members_tab": {
+        "string": "メンバーの追加"
+    },
+    "add_unassigned_members_modal.all_users_have_been_assigned_billing_groups": {
+        "string": "{orgName}のユーザー全員が請求グループに割り当てられました"
+    },
+    "add_unassigned_members_modal.all_users_have_been_assigned_workspaces": {
+        "string": "{orgName}のユーザー全員がワークスペースに割り当てられました"
+    },
+    "add_unassigned_members_modal.billing_group_description": {
+        "string": "未割り当てのユーザーを選択し、{licenseGroupName}請求グループに追加します。"
+    },
+    "add_unassigned_members_modal.billing_groups_success_message": {
+        "string": "{numUsers, plural, other {{numUsers}人の請求グループを更新しています。これには、しばらく時間がかかる場合があります。}}"
+    },
+    "add_unassigned_members_modal.billing_groups_success_message.instant": {
+        "string": "{numUsers, plural, other {{numUsers}人の請求グループを更新しました}}"
+    },
+    "add_unassigned_members_modal.design_file_icon.tooltip.seat_rename": {
+        "string": "Figmaデザインシート"
+    },
+    "add_unassigned_members_modal.dev_mode_file_icon.tooltip": {
+        "string": "開発モードシート"
+    },
+    "add_unassigned_members_modal.invite_users_tab": {
+        "string": "ユーザーの招待"
+    },
+    "add_unassigned_members_modal.no_unassigned_users": {
+        "string": "未割当てのユーザーはいません"
+    },
+    "add_unassigned_members_modal.no_unassigned_users_found": {
+        "string": "未割当のユーザーが見つかりません"
+    },
+    "add_unassigned_members_modal.role_column.seat_rename": {
+        "string": "シートタイプ"
+    },
+    "add_unassigned_members_modal.search_bar.placeholder": {
+        "string": "名前またはメールアドレス"
+    },
+    "add_unassigned_members_modal.user_a_and_user_b_and_n_others_selected": {
+        "string": "{remainingCount, plural, other {{userName1}、{userName2}、他{remainingCount}名}}"
+    },
+    "add_unassigned_members_modal.user_a_and_user_b_selected": {
+        "string": "{userName1}と{userName2}"
+    },
+    "add_unassigned_members_modal.user_selected": {
+        "string": "{userName}"
+    },
+    "add_unassigned_members_modal.whiteboard_file_icon.tooltip.seat_rename": {
+        "string": "FigJamシート"
+    },
+    "add_unassigned_members_modal.workspace_description": {
+        "string": "未割り当てのユーザーを選択し、{workspaceName}ワークスペースに追加します。"
+    },
+    "add_unassigned_members_modal.workspaces_success_message": {
+        "string": "{numUsers, plural, other {{numUsers}人のワークスペースを更新しています。これには、しばらく時間がかかる場合があります。}}"
+    },
+    "add_unassigned_members_modal.workspaces_success_message.instant": {
+        "string": "{numUsers, plural, other {{numUsers}人のワークスペースが更新されました}}"
+    },
+    "admin_settings_selector.dropdown_title.billing_groups": {
+        "string": "請求グループ"
+    },
+    "admin_settings_selector.dropdown_title.dashboard": {
+        "string": "ダッシュボード"
+    },
+    "admin_settings_selector.dropdown_title.organization": {
+        "string": "組織"
+    },
+    "admin_settings_selector.dropdown_title.workspaces": {
+        "string": "ワークスペース"
+    },
+    "admin_settings_selector.name.billing_group_fallback": {
+        "string": "請求グループ"
+    },
+    "admin_settings_selector.name.dashboard": {
+        "string": "ダッシュボード"
+    },
+    "admin_settings_selector.name.organization_fallback": {
+        "string": "組織"
+    },
+    "admin_settings_selector.name.workspace_fallback": {
+        "string": "ワークスペース"
+    },
+    "allowlist_plugins_modals.add_plugin.add_button": {
+        "string": "追加"
+    },
+    "allowlist_plugins_modals.add_plugin.details": {
+        "string": "プラグインを承認するには、そのプラグインのFigmaコミュニティページへのリンクを貼り付けてください。"
+    },
+    "allowlist_plugins_modals.add_plugin.invalid_url_notification": {
+        "string": "無効なプラグインURLです"
+    }
+}

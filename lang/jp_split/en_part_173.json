@@ -1,0 +1,152 @@
+{
+    "team_restore.confirm_restore": {
+        "string": "チームのファイル、プロジェクト、プロトタイプ、および共有コンポーネントは、以前にアクセスできたすべてのユーザーに対して使用可能になります。"
+    },
+    "team_restore.confirm_restore_deadline": {
+        "string": " このデータは{deleteDeadline, date, long}まで復元可能です。"
+    },
+    "team_restore.confirm_restore_header": {
+        "string": "チーム\"{teamName}\"を復元しますか?"
+    },
+    "team_restore.expired": {
+        "string": "チームのデータを復元できる期間は終了しています。"
+    },
+    "team_restore.expired_header": {
+        "string": "このリンクは期限切れです。"
+    },
+    "team_restore.ineligible": {
+        "string": "このチームは復元できません。"
+    },
+    "team_restore.questions_contact_support": {
+        "string": "ご不明な点などがございましたら、{supportEmail}までご連絡ください。"
+    },
+    "team_restore.restore": {
+        "string": "チームを復元"
+    },
+    "universal_upgrade.100_k": {
+        "string": "10万+"
+    },
+    "universal_upgrade.10_k_50_k": {
+        "string": "1万～5万"
+    },
+    "universal_upgrade.11_50": {
+        "string": "11～50"
+    },
+    "universal_upgrade.1_10": {
+        "string": "1～10"
+    },
+    "universal_upgrade.1_k_5_k": {
+        "string": "1,000～5,000"
+    },
+    "universal_upgrade.251_1_k": {
+        "string": "251～1,000"
+    },
+    "universal_upgrade.50_k_100_k": {
+        "string": "5万～10万"
+    },
+    "universal_upgrade.51_250": {
+        "string": "51～250"
+    },
+    "universal_upgrade.5_k_10_k": {
+        "string": "5000～1万"
+    },
+    "universal_upgrade.company_name": {
+        "string": "会社名"
+    },
+    "universal_upgrade.company_size": {
+        "string": "会社の規模"
+    },
+    "universal_upgrade.contact_sales_title": {
+        "string": "お問い合わせ"
+    },
+    "universal_upgrade.e_g_i_m_looking_to_set_up_a_demo_of_figma": {
+        "string": "例: Figmaのデモを準備したい"
+    },
+    "universal_upgrade.email_address": {
+        "string": "メールアドレス"
+    },
+    "universal_upgrade.full_name": {
+        "string": "氏名"
+    },
+    "universal_upgrade.how_can_we_help_optional": {
+        "string": "お問い合わせの内容(省略可)"
+    },
+    "universal_upgrade.job_title": {
+        "string": "役職名"
+    },
+    "universal_upgrade.please_provide_a_valid_email_address": {
+        "string": "有効なメールアドレスを入力してください"
+    },
+    "universal_upgrade.submit": {
+        "string": "送信"
+    },
+    "universal_upgrade.there_was_an_error_processing_your_information_please_try_again": {
+        "string": "お客様の情報を処理中にエラーが発生しました。もう一度お試しください。"
+    },
+    "universal_upgrade.this_field_is_required": {
+        "string": "このフィールドは必須です"
+    },
+    "universal_upgrade_sequence.close_modal": {
+        "string": "閉じる"
+    },
+    "universal_upgrade_sequence.error": {
+        "string": "お客様の情報を処理中にエラーが発生しました。もう一度お試しください。"
+    },
+    "universal_upgrade_sequence.next": {
+        "string": "次へ"
+    },
+    "universal_upgrade_sequence.subtitle": {
+        "string": "または新しいチームを作成してアップグレード"
+    },
+    "universal_upgrade_sequence.team_name.placeholder": {
+        "string": "チーム名(例: プロダクトデザイン)"
+    },
+    "universal_upgrade_sequence.title": {
+        "string": "アップグレードするチームを選択"
+    },
+    "upgrade": {
+        "string": "アップグレード"
+    },
+    "upgrade.access_cross_team_design_libraries_sso_and_more": {
+        "string": "ビジネスプランにアップグレードすると、チーム横断型デザインライブラリ、SSOなどを利用できます"
+    },
+    "upgrade.centralize_your_teams_and_share_design_libraries": {
+        "string": "ビジネスプランにアップグレードすると、チームを一元管理し、デザインライブラリを共有できます"
+    },
+    "upgrade.currently_on_starter_plan": {
+        "string": "トライアル期間終了"
+    },
+    "upgrade.days_left_in_trial": {
+        "string": "{days, plural, other {日後にトライアルが終了します}}"
+    },
+    "upgrade.enjoy_our_best_design_features_for_14_days": {
+        "string": "優れたデザイン機能とファイル制限なしのメリットを14日間お試しください。"
+    },
+    "upgrade.free_professional_team_trial": {
+        "string": "プロフェッショナルチーム無料トライアル"
+    },
+    "upgrade.more_features": {
+        "string": "アップグレードすると、チームライブラリ、高度なセキュリティ機能、その他のプレミアム機能を利用できるようになります。"
+    },
+    "upgrade.pro_trial_inline_upgrade_cta": {
+        "string": "アップグレード"
+    },
+    "upgrade.pro_trial_uub_countdown.if_you_are_enjoying_your_trial": {
+        "string": "トライアル期間中、チームのメンバーを無料で招待できます。(今すぐ{upgrade})"
+    },
+    "upgrade.pro_trial_uub_countdown.just_a_memory": {
+        "string": "今すぐアップグレードすると、プロフェッショナルプランのすべての機能を引き続き利用できます。"
+    },
+    "upgrade.pro_trial_uub_countdown.this_counter_will_help_you_keep_track": {
+        "string": "このカウンターは、トライアルの残り日数や不定期のヒントの確認、そして{upgrade}に役立ちます。"
+    },
+    "upgrade.pro_trial_uub_countdown.try_out_these_features": {
+        "string": "無制限の機能を全部試し、多くのファイルを作成して、アップグレードをご検討ください。"
+    },
+    "upgrade.pro_trial_uub_countdown.you_will_miss_these_files": {
+        "string": "すべての機能を維持するために、今すぐアップグレードしましょう(作成した多くのファイルを失わないためにも)。"
+    },
+    "upgrade.ready_to_go_beyond_free_plan": {
+        "string": "この無料プランからアップグレードしませんか?"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "publishing.community.menu.description.unpublished_no_remix": {
+        "string": "世界中の誰でもFigmaコミュニティからこのファイルを複製できます。"
+    },
+    "publishing.community.menu.title.published": {
+        "string": "コミュニティに公開済み"
+    },
+    "publishing.community.menu.title.unpublished": {
+        "string": "コミュニティファイル"
+    },
+    "publishing.community.menu.title.unpublished_remix": {
+        "string": "コミュニティリミックス"
+    },
+    "publishing.templates.header": {
+        "string": "テンプレートを更新"
+    },
+    "publishing.templates.menu.description.disabled": {
+        "string": "組織がテンプレートの公開をオフにしています。{link}"
+    },
+    "publishing.templates.menu.description.disabled.link": {
+        "string": "詳細情報"
+    },
+    "publishing.templates.menu.description.disabled_delete_permissions": {
+        "string": "このボードをテンプレートとして公開できるのはオーナーのみです。{link}"
+    },
+    "publishing.templates.menu.description.disabled_edit_permissions": {
+        "string": "このボードをテンプレートとして公開するには編集権限が必要です。{link}"
+    },
+    "publishing.templates.menu.description.published.v2": {
+        "string": "{name}が{time}に最終更新しました。"
+    },
+    "publishing.templates.menu.description.published_no_name": {
+        "string": "{time}に最終更新されました。"
+    },
+    "publishing.templates.menu.description.unpublished": {
+        "string": "チームメートがこのボードをもとに新しいFigJamファイルを作成できるようにします。"
+    },
+    "publishing.templates.menu.title.published_to_org_name": {
+        "string": "{orgName}に公開済み"
+    },
+    "publishing.templates.menu.title.unpublished": {
+        "string": "テンプレート"
+    },
+    "repo_password_confirmation_modal.any_password_you_set_for_this_main_file_will_also_apply_to_its_branches": {
+        "string": "このメインファイルに設定するパスワードはそのブランチにも適用されます。"
+    },
+    "repo_password_confirmation_modal.set_a_password_for_this_file": {
+        "string": "このファイルのパスワードを設定しますか?"
+    },
+    "repo_password_confirmation_modal.set_password": {
+        "string": "パスワードを設定"
+    },
+    "request_row.approve": {
+        "string": "承認"
+    },
+    "request_row.deny": {
+        "string": "拒否"
+    },
+    "request_row.user_wants_to_request_type": {
+        "string": "{userHandle}が{requestType}を希望しています"
+    },
+    "role_request.edit_request_tooltip.othersText": {
+        "string": "{numOthers, plural, other {他{numOthers}名}}"
+    },
+    "role_request.edit_request_tooltip.user1_and_user2_request_access": {
+        "string": "{userHandle1}と{userHandle2}がアクセスをリクエストしています"
+    },
+    "role_request.edit_request_tooltip.user_and_others_request_access": {
+        "string": "{userHandle}、{othersText}がアクセスをリクエストしています"
+    },
+    "role_request.edit_request_tooltip.user_wants_to_request_type": {
+        "string": "{userHandle}が{requestType}を希望しています"
+    },
+    "role_request.edit_request_tooltip.view_button_text": {
+        "string": "表示"
+    },
+    "role_request_row.request_approved_for_user_props_handle_to_edit_file": {
+        "string": "ユーザー{userHandle}によるファイルの{requestType}リクエストが承認されました。"
+    },
+    "role_request_row.request_denied_for_user_props_handle_to_edit_file": {
+        "string": "ユーザー{userHandle}によるファイルの{requestType}リクエストが却下されました。"
+    },
+    "role_requests.edit": {
+        "string": "編集"
+    },
+    "role_requests.header_text": {
+        "string": "{userName}、{othersText}が{requestType}をリクエストしています"
+    },
+    "role_requests.num_pending_requests": {
+        "string": "{numRoleRequests, plural, other {他{numRoleRequests}件}}"
+    },
+    "role_requests.view": {
+        "string": "閲覧"
+    },
+    "role_row.invite_sent": {
+        "string": "(招待済み)"
+    },
+    "role_row.resend_invite": {
+        "string": "招待を再送信"
+    },
+    "role_row.you": {
+        "string": "{name}{you}"
+    },
+    "role_row.you_label": {
+        "string": "(あなた)"
+    },
+    "role_row.you_label_lowercase": {
+        "string": " (あなた)"
+    },
+    "view_restricted_file_modal.drafts": {
+        "string": "下書き"
+    },
+    "view_restricted_file_modal.file_cannot_be_opened_description": {
+        "string": "このファイルは、{restricted}ユーザーの{drafts}にあるので、開くことはできません。 組織の管理者にお問い合わせください。"
+    },
+    "view_restricted_file_modal.file_cannot_be_opened_title": {
+        "string": "ファイルを開くことができません"
+    },
+    "view_restricted_file_modal.file_cannot_be_shared_description": {
+        "string": "このファイルは、{restricted}ユーザーの{drafts}にあるので、共有できません。 組織の管理者にお問い合わせください。"
+    },
+    "view_restricted_file_modal.file_cannot_be_shared_title": {
+        "string": "ファイルを共有できません"
+    },
+    "view_restricted_file_modal.ok_button": {
+        "string": "OK"
+    },
+    "view_restricted_file_modal.restricted": {
+        "string": "制限中"
+    },
+    "plan_settings.billing_section_header": {
+        "string": "請求"
+    },
+    "plan_settings.default_role": {
+        "string": "デフォルトのシートタイプ"
+    },
+    "plan_settings.default_role_description": {
+        "string": "{plan_type}に参加する人にシートタイプを自動的に割り当てます"
+    },
+    "plan_settings.seat_upgrade_digests": {
+        "string": "シートアップグレードの概要"
+    },
+    "plan_settings.seat_upgrade_digests_description": {
+        "string": "メンバーが無料シートから有料シートにアップグレードしたときにメールが送信されます。"
+    },
+    "plugins.cancel_loading_pages": {
+        "string": "キャンセル"
+    },
+    "plugins.cannot_run_plugin_logged_out": {
+        "string": "ログアウト中は、プラグインを実行できません"
+    }
+}

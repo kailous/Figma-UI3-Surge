@@ -1,0 +1,152 @@
+{
+    "error.not_found": {
+        "string": "見つかりません。"
+    },
+    "error.only_available_to_select_users": {
+        "string": "アクセスが拒否されました: このエンドポイントは選択されたユーザーのみが使用できます。"
+    },
+    "error.payment_error": {
+        "string": "支払いエラー: {error}"
+    },
+    "error.prototype_not_found": {
+        "string": "このプロトタイプは使用できません。"
+    },
+    "error.prototype_org_not_found": {
+        "string": "そのような組織はありません。"
+    },
+    "error.prototype_team_not_found": {
+        "string": "そのようなチームはありません。"
+    },
+    "error.service_unavailable": {
+        "string": "サービスを利用できません"
+    },
+    "error.source_token_invalid": {
+        "string": "source_tokenが無効です。"
+    },
+    "error.source_token_required": {
+        "string": "source_tokenは必須です。"
+    },
+    "error.team_not_found": {
+        "string": "チームが見つかりません。"
+    },
+    "error.too_many_requests": {
+        "string": "試行した回数が多すぎます。後でもう一度やり直してください。"
+    },
+    "error.unexpected_error": {
+        "string": "予期しないエラーが発生しました。"
+    },
+    "error.unknown_contact_support": {
+        "string": "予期しないエラーが発生しました。サポートにお問い合わせください。"
+    },
+    "error.wrong_credentials": {
+        "string": "使用している資格情報が正しくないようです。"
+    },
+    "invites.error.an_email_has_an_invalid_encoding": {
+        "string": "メールのエンコーディングが無効です"
+    },
+    "invites.error.too_many_email_addresses": {
+        "string": "指定されたメールアドレスが多すぎます。100未満にしてください。"
+    },
+    "invites.error.user_can_only_send_link_access_invites": {
+        "string": "ユーザーはリンクアクセス招待の送信のみ可能です"
+    },
+    "invites.error.user_cannot_access_or_share_this_file": {
+        "string": "ユーザーはこのファイルへのアクセスや共有はできません"
+    },
+    "org.error.error_fetching_billing_information_please_try_again_later": {
+        "string": "請求情報の取得中にエラーが発生しました。しばらくしてからもう一度お試しください。"
+    },
+    "payment.error.currency_not_supported_for_address": {
+        "string": "この通貨はお住いの地域/住所でサポートされていません"
+    },
+    "payment.error.something_went_wrong_while_saving_your_payment_method": {
+        "string": "お支払方法の保存中に問題が発生しました。もう一度お試しください。"
+    },
+    "payment.error.unsupported_currency": {
+        "string": "この通貨はサポートされていません。"
+    },
+    "payment.success.successfully_reactivated_subscription": {
+        "string": "サブスクリプションを再度有効にしました。"
+    },
+    "payment.success.successfully_updated_your_payment_method": {
+        "string": "お支払方法を更新しました。"
+    },
+    "search.invalid_search_query_length": {
+        "string": "検索文字列を短くしてみてください。ワードやフレーズを少なくすると最適な結果が得られます。"
+    },
+    "subscription.error.billing_contact_must_be_valid_email": {
+        "string": "請求連絡先は有効なメールアドレスでなければなりません。"
+    },
+    "subscription.error.browser_needs_refresh": {
+        "string": "ブラウザの内容が更新されていません。ブラウザを更新してもう一度お試しください。"
+    },
+    "subscription.error.can_only_add_seats_not_in_last_month": {
+        "string": "年間サブスクリプション期間の先月に含まれていないシートであるため、追加のみ可能です。"
+    },
+    "subscription.error.cannot_upgrade_and_downgrade_user": {
+        "string": "同じファイルタイプのユーザーはアップグレードまたはダウングレードできません"
+    },
+    "subscription.error.contact_support_to_purchase_more_than_max_sub": {
+        "string": "購入シート数が{MAX_ANNUAL_SUBSCRIPTIONS}を超える場合は、'{CUSTOMER_SUPPORT_EMAIL}'までメールでご連絡ください。"
+    },
+    "subscription.error.editors_have_joined_team_please_reload": {
+        "string": "チームを最初に開いた後に、編集者がチームに追加されています。再読み込みしてください。"
+    },
+    "subscription.error.editors_have_joined_team_please_reload.seat_rename": {
+        "string": "最初に開いた後に、フルシートがチームに追加されています。再読み込みしてください。"
+    },
+    "subscription.error.enter_address": {
+        "string": "住所を正しく入力してください"
+    },
+    "subscription.error.enter_apartment_unit_suite": {
+        "string": "建物名、部屋番号などを正しく入力してください"
+    },
+    "subscription.error.enter_city_town_village": {
+        "string": "市区町村名を正しく入力してください"
+    },
+    "subscription.error.enter_country": {
+        "string": "国・地域の名前を正しく入力してください。"
+    },
+    "subscription.error.enter_pin_code": {
+        "string": "有効なPINコードを入力してください"
+    },
+    "subscription.error.enter_province_region": {
+        "string": "都道府県名を正しく入力してください"
+    },
+    "subscription.error.enter_state": {
+        "string": "州の名前を正しく入力してください"
+    },
+    "subscription.error.enter_street_address": {
+        "string": "住所(後半)を正しく入力してください"
+    },
+    "subscription.error.enter_zip_postal_code": {
+        "string": "郵便番号を正しく入力してください"
+    },
+    "subscription.error.expected_term_monthly_or_annual": {
+        "string": "設定できる期間は\"月間\"または\"年間\"です。"
+    },
+    "subscription.error.incomplete_team_must_have_incomplete_subscription": {
+        "string": "未完了のチームは、未完了の状態のStripeサブスクリプション、またはアクションが必要な支払いインテントのある未完了の請求書が必要です。"
+    },
+    "subscription.error.incomplete_team_must_have_stripe_customer_id": {
+        "string": "未完了のチームには、Stripe顧客が関連付けられている必要があります。"
+    },
+    "subscription.error.invalid_editor_amount": {
+        "string": "有効なシート数を入力してください。"
+    },
+    "subscription.error.invalid_promo_code": {
+        "string": "プロモーションコードを顧客に適用できませんでした"
+    },
+    "subscription.error.need_to_setup_payment_source_before_subscription": {
+        "string": "サブスクリプションを作成する前に、支払い元を設定する必要があります。"
+    },
+    "subscription.error.no_permission_contact_team_admin": {
+        "string": "その操作を行う権限がありません。チーム管理者に連絡してください。"
+    },
+    "subscription.error.payment_method_billing_address_cant_pay_selected_currency": {
+        "string": "支払い方法に設定されている請求先住所の国では、{selected_currency}でのお支払いができません。別の支払い方法をご利用ください。"
+    },
+    "subscription.error.team_already_has_monthly_sub_reload": {
+        "string": "チームには月間サブスクリプションが既にあります。このページを再読み込みしてください。"
+    }
+}

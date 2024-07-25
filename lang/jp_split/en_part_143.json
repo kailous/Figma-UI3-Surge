@@ -1,0 +1,152 @@
+{
+    "sites.breakpoint_bar.main": {
+        "string": "メイン"
+    },
+    "spell_check.spell_check_disabled": {
+        "string": "スペルチェックは無効です"
+    },
+    "spell_check.spell_check_enabled": {
+        "string": "スペルチェックは有効です"
+    },
+    "unsaved_changes.prompt.changes_may_not_be_saved": {
+        "string": "行った変更は保存されない可能性があります。"
+    },
+    "variables.token_name_invalid_chars": {
+        "string": "Dev名には、文字、数字、および次のシンボルのみ含むことができます: _ $ -"
+    },
+    "variables.variable_limit_in_collection_reached": {
+        "string": "コレクションに{variableLimit}個より多くのバリアブルを追加することはできません"
+    },
+    "variables.variable_name_duplicate_name": {
+        "string": "バリアブル名はコレクション内の他と重複しないようにしてください"
+    },
+    "variables.variable_name_invalid_chars": {
+        "string": "バリアブル名に次のシンボルを含むことはできません: { }' . $"
+    },
+    "variables.variables_detached": {
+        "string": "使用中の{numDetached}個のバリアブルを切り離しました。削除されたバリアブルがまだ{numRemaining}個使用されています。"
+    },
+    "visual_bell.add_file_failure_mobile_plural": {
+        "string": "{failedFileCount}ファイルを追加できませんでした"
+    },
+    "visual_bell.add_file_failure_mobile_singular": {
+        "string": "{failedFileCount}ファイルを追加できませんでした"
+    },
+    "visual_bell.all_objects_unlocked": {
+        "string": "すべてのオブジェクトがロック解除されました"
+    },
+    "visual_bell.alu_hints_off": {
+        "string": "ALUヒントはオフです"
+    },
+    "visual_bell.alu_hints_on": {
+        "string": "ALUヒントはオンです"
+    },
+    "visual_bell.alu_visual_indicators_off": {
+        "string": "ALUビジュアルインジケーター: オフ"
+    },
+    "visual_bell.alu_visual_indicators_on": {
+        "string": "ALUビジュアルインジケーター: オン"
+    },
+    "visual_bell.an_invalid_image_or_thumbnail_was_removed": {
+        "string": "無効な画像またはサムネイルが削除されました"
+    },
+    "visual_bell.an_invalid_video_was_removed": {
+        "string": "無効なビデオが削除されました"
+    },
+    "visual_bell.annotations_hidden": {
+        "string": "アノテーション非表示"
+    },
+    "visual_bell.annotations_visible": {
+        "string": "アノテーション表示中"
+    },
+    "visual_bell.auto_fill_full_width_children_off": {
+        "string": "子要素を親要素の幅に自動的に広げる: オフ"
+    },
+    "visual_bell.auto_fill_full_width_children_on": {
+        "string": "子要素を親要素の幅に自動的に広げる: オン"
+    },
+    "visual_bell.auto_layout_added": {
+        "string": "オートレイアウトが追加されました"
+    },
+    "visual_bell.auto_layout_added_partial": {
+        "string": "選択したすべてのオブジェクトにオートレイアウトを追加できませんでした"
+    },
+    "visual_bell.can_t_paste_between_fig_jam_and_editor_files": {
+        "string": "FigJamファイルとエディターファイルの間での貼り付けはできません"
+    },
+    "visual_bell.can_t_paste_flapps_into_design_files": {
+        "string": "Figma SlidesのウィジェットをFigmaに貼り付けることはできません"
+    },
+    "visual_bell.can_t_paste_flapps_into_figjam_files": {
+        "string": "Figma SlidesのウィジェットをFigJamに貼り付けることはできません"
+    },
+    "visual_bell.can_t_paste_ss_from_fig_jam_to_design_files": {
+        "string": "FigJamファイルからデザインファイルに{typeName}を貼り付けることはできません"
+    },
+    "visual_bell.can_t_paste_this_data_between_different_file_versions_please_refresh_file_and_retry": {
+        "string": "異なるバージョンのファイル間でこのデータを貼り付けることはできません。ファイルを更新してから、もう一度お試しください"
+    },
+    "visual_bell.cannot_create_symbol_from_non_matching_selection": {
+        "string": "選択内容が一致していないため、コンポーネントとインスタンスを作成できませんでした"
+    },
+    "visual_bell.cant_export_empty_or_hidden_layers_to_pdf": {
+        "string": "空または非表示のレイヤーをPDFにエクスポートできません"
+    },
+    "visual_bell.comments_hidden": {
+        "string": "コメントが非表示になりました"
+    },
+    "visual_bell.comments_visible": {
+        "string": "コメントが表示されました"
+    },
+    "visual_bell.component_prop_refs_have_been_pruned": {
+        "string": "コンポーネントプロパティ参照が削除されました"
+    },
+    "visual_bell.component_props_have_been_regenerated": {
+        "string": "コンポーネントプロパティが再生成されました"
+    },
+    "visual_bell.component_props_in_selection_have_been_cleared": {
+        "string": "選択範囲からコンポーネントプロパティが消去されました"
+    },
+    "visual_bell.components_are_either_private_or_already_published": {
+        "string": "コンポーネントがプライベートであるか、または既に公開されています"
+    },
+    "visual_bell.components_can_t_contain_instances_of_themselves": {
+        "string": "コンポーネントにそれ自体のインスタンスを含めることはできません"
+    },
+    "visual_bell.converting_to_stickies": {
+        "string": "付箋に変換しています…"
+    },
+    "visual_bell.copied_as_png": {
+        "string": "PNGとしてコピーされました"
+    },
+    "visual_bell.copied_as_svg": {
+        "string": "SVGとしてコピーされました"
+    },
+    "visual_bell.copied_color_to_clipboard": {
+        "string": "色がクリップボードにコピーされました"
+    },
+    "visual_bell.copy_as_file_type_failed_try_again": {
+        "string": "{fileType}としてコピーが失敗しました | もう一度お試しください"
+    },
+    "visual_bell.copy_as_png.retry": {
+        "string": "再試行"
+    },
+    "visual_bell.copy_as_png_failed": {
+        "string": "PNGとしてコピーできませんでした"
+    },
+    "visual_bell.copy_exclude_vote_stamp_from_selection": {
+        "string": "票はコピーされませんでした"
+    },
+    "visual_bell.copy_failed": {
+        "string": "コピーできませんでした。クリップボードに対して選択範囲が大きすぎる可能性があります。"
+    },
+    "visual_bell.copy_failed_only_vote_stamps": {
+        "string": "票をコピーすることはできません"
+    },
+    "visual_bell.copy_mobile": {
+        "string": "クリップボードにコピーしました"
+    },
+    "visual_bell.cut_mobile": {
+        "string": "カットしてクリップボードにコピーしました"
+    }
+}

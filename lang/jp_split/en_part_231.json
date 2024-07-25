@@ -1,0 +1,152 @@
+{
+    "teams_table.closed_team_tooltip_header": {
+        "string": "このチームは表示されます"
+    },
+    "teams_table.closed_team_tooltip_subtitle": {
+        "string": "誰でも見つけることができますが、アクセス権を申請する必要があります"
+    },
+    "teams_table.create_one": {
+        "string": "新規作成"
+    },
+    "teams_table.csv_export.error": {
+        "string": "リクエストの処理中にエラーが発生しました。後でもう一度お試しください。"
+    },
+    "teams_table.csv_export.generating": {
+        "string": "CSVの生成には数分かかります。完了したらメールでお知らせします。"
+    },
+    "teams_table.csv_export.get_csv": {
+        "string": "CSVを取得"
+    },
+    "teams_table.csv_export.preparing_request": {
+        "string": "CSVのリクエストを準備中"
+    },
+    "teams_table.default_workspace_team.invite_only": {
+        "string": "招待のみ"
+    },
+    "teams_table.default_workspace_team.visible": {
+        "string": "表示"
+    },
+    "teams_table.delete": {
+        "string": "削除"
+    },
+    "teams_table.delete_team": {
+        "string": "チームを削除"
+    },
+    "teams_table.discoverability_filter.all": {
+        "string": "アクセス: すべて"
+    },
+    "teams_table.discoverability_filter.hidden": {
+        "string": "アクセス: 非表示"
+    },
+    "teams_table.discoverability_filter.visible": {
+        "string": "アクセス: 表示"
+    },
+    "teams_table.enterprise.edit_default_teams": {
+        "string": "デフォルトチームを編集"
+    },
+    "teams_table.enterprise.workspace": {
+        "string": "ワークスペース"
+    },
+    "teams_table.join": {
+        "string": "参加"
+    },
+    "teams_table.join_team": {
+        "string": "チームに参加"
+    },
+    "teams_table.join_team_as_admin": {
+        "string": "チームに参加"
+    },
+    "teams_table.join_team_as_owner": {
+        "string": "オーナーとして参加"
+    },
+    "teams_table.leave": {
+        "string": "脱退"
+    },
+    "teams_table.leave_team": {
+        "string": "チームを脱退"
+    },
+    "teams_table.manage_access_setting": {
+        "string": "アクセス設定を管理"
+    },
+    "teams_table.member_count": {
+        "string": "{numMembers, plural, other {{numMembers}メンバー}}"
+    },
+    "teams_table.members": {
+        "string": "メンバー"
+    },
+    "teams_table.membership_filter.all": {
+        "string": "チーム: すべて"
+    },
+    "teams_table.membership_filter.my_teams_label": {
+        "string": "メンバーになっているチーム"
+    },
+    "teams_table.membership_filter.my_teams_option": {
+        "string": "メンバーになっているチーム"
+    },
+    "teams_table.membership_filter.not_my_teams_label": {
+        "string": "メンバーになっていないチーム"
+    },
+    "teams_table.membership_filter.not_my_teams_option": {
+        "string": "メンバーになっていないチーム"
+    },
+    "teams_table.no_search_results": {
+        "string": "検索条件に一致するチームが見つかりませんでした。検索をやり直してください。"
+    },
+    "teams_table.no_teams_to_show": {
+        "string": "表示するチームがありません。"
+    },
+    "teams_table.org_access": {
+        "string": "組織アクセス:"
+    },
+    "teams_table.org_access_filter.all": {
+        "string": "組織アクセス: すべて"
+    },
+    "teams_table.org_access_filter.closed": {
+        "string": "組織アクセス: 限定"
+    },
+    "teams_table.org_access_filter.open": {
+        "string": "組織アクセス: オープン"
+    },
+    "teams_table.org_access_filter.secret": {
+        "string": "組織アクセス: シークレット"
+    },
+    "teams_table.owner": {
+        "string": "オーナー"
+    },
+    "teams_table.project_count": {
+        "string": "{numProjects, plural, other {{numProjects}個のプロジェクト}}"
+    },
+    "teams_table.projects": {
+        "string": "プロジェクト"
+    },
+    "teams_table.rename": {
+        "string": "名前を変更"
+    },
+    "teams_table.rename_team": {
+        "string": "チーム名を変更する"
+    },
+    "teams_table.request_to_join": {
+        "string": "参加をリクエストする"
+    },
+    "teams_table.revoke_transfer_request": {
+        "string": "移転リクエストを取り消す"
+    },
+    "teams_table.search_teams_with_ellipsis": {
+        "string": "チームを検索..."
+    },
+    "teams_table.secret_team_tooltip_header": {
+        "string": "このチームは非表示です"
+    },
+    "teams_table.secret_team_tooltip_subtitle": {
+        "string": "メンバーのみ検索とアクセスが可能です"
+    },
+    "teams_table.team": {
+        "string": "チーム"
+    },
+    "teams_table.team_name": {
+        "string": "名前"
+    },
+    "teams_table.teams_without_owners": {
+        "string": "オーナーがいないチーム"
+    }
+}

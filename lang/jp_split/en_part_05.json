@@ -1,0 +1,152 @@
+{
+    "activity_log.event.saml_sso_auth_enable": {
+        "string": "SAML SSO認証を有効にしました"
+    },
+    "activity_log.event.scim_token_generate": {
+        "string": "SCIMトークンを生成しました"
+    },
+    "activity_log.event.scim_token_revoke": {
+        "string": "SCIMトークンを取り消しました"
+    },
+    "activity_log.event.team_member_add_external": {
+        "string": "外部チーム{teamName}が参加しました"
+    },
+    "activity_log.event.team_member_remove_external": {
+        "string": "外部チーム{teamName}が脱退しました"
+    },
+    "activity_log.event.widget_approvelist_add_org": {
+        "string": "ウィジェット{widgetName}の{org}での使用を承認しました"
+    },
+    "activity_log.event.widget_approvelist_add_workspace": {
+        "string": "ウィジェット{widgetName}のワークスペース{workspace}での使用を承認しました"
+    },
+    "activity_log.event.widget_approvelist_disable_org": {
+        "string": "{org}でのウィジェットの承認を不要にしました"
+    },
+    "activity_log.event.widget_approvelist_enable_org": {
+        "string": "{org}でのウィジェットの承認を必須にしました"
+    },
+    "activity_log.event.widget_approvelist_remove_org": {
+        "string": "ウィジェット{widgetName}の{org}での承認を取り消しました"
+    },
+    "activity_log.event.widget_approvelist_remove_workspace": {
+        "string": "ウィジェット{widgetName}のワークスペース{workspace}での承認を取り消しました"
+    },
+    "activity_log.event.widget_approvelist_request_approve_org": {
+        "string": "{requesterName}が申請したウィジェット{widgetName}の{org}での使用を承認しました"
+    },
+    "activity_log.event.widget_approvelist_request_approve_workspace": {
+        "string": "{requesterName}から申請があったワークスペース{workspace}でのウィジェット{widgetName}の使用を承認しました"
+    },
+    "activity_log.event.widget_approvelist_request_org": {
+        "string": "ウィジェット{widget}の{org}での使用の承認申請がありました"
+    },
+    "activity_log.event.widget_approvelist_request_reject_org": {
+        "string": "{requesterName}が申請したウィジェット{widgetName}の{org}での使用を拒否しました。"
+    },
+    "activity_log.event.widget_approvelist_request_reject_workspace": {
+        "string": "{requesterName}から申請があったワークスペース{workspace}でのウィジェット{widgetName}の使用を拒否しました"
+    },
+    "activity_log.event.widget_install": {
+        "string": "全員向けのウィジェット{widgetName}をインストールしました"
+    },
+    "activity_log.event.widget_ownership_transfer": {
+        "string": "コミュニティウィジェット {widgetName}のオーナーシップを{userEmail}さんに移転しました"
+    },
+    "activity_log.event.widget_publisher_accept_invite": {
+        "string": "ウィジェット{widgetName}の公開者としての招待に同意しました"
+    },
+    "activity_log.event.widget_publisher_invite": {
+        "string": " {userEmail}さんをウィジェット{widgetName}の公開者として招待しました"
+    },
+    "activity_log.event.widget_publisher_remove": {
+        "string": "{userEmail}さんをウィジェット{widgetName}の公開者から削除しました"
+    },
+    "activity_log.event.widget_publisher_remove_invite": {
+        "string": "{userEmail}さんの公開者招待をウィジェット{widgetName}から削除しました"
+    },
+    "activity_log.event.widget_uninstall": {
+        "string": "全員向けのウィジェット{widgetName}をアンインストールしました"
+    },
+    "activity_log.event.workspace_admins_add": {
+        "string": "{numAdmins, plural, other {{workspaceName}ワークスペースの管理者として{adminNames}を追加しました} }"
+    },
+    "activity_log.event.workspace_admins_remove.v2": {
+        "string": "{numAdmins, plural, other {{workspaceName}ワークスペースの管理者から{adminNames}を削除しました} }"
+    },
+    "activity_log.event.workspace_changed_library_setting": {
+        "string": "{workspaceName}の{libraryName}のデフォルトライブラリ設定を{oldLibrarySetting}から{newLibrarySetting}に変更しました"
+    },
+    "activity_log.event.workspace_create": {
+        "string": "{workspaceName}という新しいワークスペースを作成しました"
+    },
+    "activity_log.event.workspace_delete": {
+        "string": "{workspaceName}ワークスペースを削除しました"
+    },
+    "activity_log.event.workspace_library_approved": {
+        "string": "ワークスペース{workspaceName}で{libraryName}を承認済みにしました"
+    },
+    "activity_log.event.workspace_library_unapproved": {
+        "string": "ワークスペース{workspaceName}で{libraryName}を未承認にしました"
+    },
+    "activity_log.event.workspace_member_add": {
+        "string": "ワークスペース「{workspaceName}」のメンバーに{memberEmail}を追加しました"
+    },
+    "activity_log.event.workspace_member_remove": {
+        "string": "ワークスペース「{workspaceName}」のメンバーから{memberEmail}を削除しました"
+    },
+    "activity_log.event.workspace_members_add": {
+        "string": "{numMembers, plural, other {{workspaceName}ワークスペースのメンバーとして{memberEmails}を追加しました} }"
+    },
+    "activity_log.event.workspace_members_remove": {
+        "string": "{numMembers, plural, other {{workspaceName}ワークスペースのメンバーから{memberEmails}を削除しました} }"
+    },
+    "activity_log.event.workspace_new_library_setting_off": {
+        "string": "{workspaceName}のデフォルトライブラリとして{libraryName}をオフに設定しました"
+    },
+    "activity_log.event.workspace_rename": {
+        "string": "{workspaceName}ワークスペースの名前を{newName}に変更しました"
+    },
+    "activity_log.event.workspace_visibility_setting_changed": {
+        "string": "{workspaceName}の表示設定を{oldOrgAccess}から{newOrgAccess}に変更しました"
+    },
+    "activity_log.filter.added_workspace_admins": {
+        "string": "ワークスペース管理者の追加"
+    },
+    "activity_log.filter.ai_content_training_setting_change": {
+        "string": "AIコンテンツトレーニングの有効化/無効化"
+    },
+    "activity_log.filter.ai_features_setting_change": {
+        "string": "AI機能の有効化/無効化"
+    },
+    "activity_log.filter.all": {
+        "string": "すべて"
+    },
+    "activity_log.filter.approve_list_plugins_reviewed": {
+        "string": "プラグイン審査"
+    },
+    "activity_log.filter.approve_list_widgets_reviewed": {
+        "string": "ウィジェット審査"
+    },
+    "activity_log.filter.archived_a_branch": {
+        "string": "ブランチのアーカイブ"
+    },
+    "activity_log.filter.audio": {
+        "string": "オーディオ"
+    },
+    "activity_log.filter.billing_group.admins_added": {
+        "string": "請求グループ管理者追加"
+    },
+    "activity_log.filter.billing_group.admins_removed": {
+        "string": "請求グループ管理者削除"
+    },
+    "activity_log.filter.billing_group.created": {
+        "string": "請求グループ作成"
+    },
+    "activity_log.filter.billing_group.deleted": {
+        "string": "請求グループ削除"
+    },
+    "activity_log.filter.billing_group.header": {
+        "string": "請求グループ"
+    }
+}

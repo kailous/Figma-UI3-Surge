@@ -1,0 +1,152 @@
+{
+    "activity_log.event.folder_transfer_copy_approved": {
+        "string": "批准了{folderName}项目副本的组织迁移"
+    },
+    "activity_log.event.folder_transfer_copy_received": {
+        "string": "组织{orgName}的{teamName}希望将{folderName}项目副本迁移到组织"
+    },
+    "activity_log.event.folder_transfer_copy_received_no_source_org": {
+        "string": "{teamName}希望将{folderName}项目副本迁移到组织"
+    },
+    "activity_log.event.folder_transfer_copy_received_no_source_team": {
+        "string": "组织{orgName}的团队希望将{folderName}项目副本迁移到组织"
+    },
+    "activity_log.event.folder_transfer_copy_sent": {
+        "string": "请求将{folderName}项目副本迁移到组织{destinationOrg}的{destinationTeam}"
+    },
+    "activity_log.event.folder_transfer_copy_sent_pro_team": {
+        "string": "请求将{folderName}项目副本迁移到{destinationTeam}"
+    },
+    "activity_log.event.folder_transfer_copy_sent_secret_teams": {
+        "string": "请求将{folderName}项目副本迁移到组织{destinationOrg}的团队"
+    },
+    "activity_log.event.folder_transfer_received": {
+        "string": "组织{orgName}的{teamName}希望将{folderName}项目迁移到组织"
+    },
+    "activity_log.event.folder_transfer_received_no_source_org": {
+        "string": "{teamName}希望将{folderName}项目迁移到组织"
+    },
+    "activity_log.event.folder_transfer_received_no_source_team": {
+        "string": "组织{orgName}的团队希望将{folderName}项目迁移到组织"
+    },
+    "activity_log.event.folder_transfer_sent": {
+        "string": "请求将{folderName}项目迁移到{destinationOrg}组织的{destinationTeam}"
+    },
+    "activity_log.event.folder_transfer_sent_pro_team": {
+        "string": "请求将{folderName}项目迁移到{destinationTeam}"
+    },
+    "activity_log.event.folder_transfer_sent_secret_teams": {
+        "string": "请求将{folderName}项目迁移到组织{destinationOrg}的团队"
+    },
+    "activity_log.event.google_sso_auth_disable": {
+        "string": "禁用了Google SSO认证"
+    },
+    "activity_log.event.google_sso_auth_enable": {
+        "string": "启用了Google SSO认证"
+    },
+    "activity_log.event.idle_timeout_setting_change": {
+        "string": "将空闲会话超时从{oldDuration}更改为{newDuration}"
+    },
+    "activity_log.event.idle_timeout_setting_disable": {
+        "string": "禁用了空闲会话超时"
+    },
+    "activity_log.event.idle_timeout_setting_enable": {
+        "string": "启用了{duration}的空闲会话超时"
+    },
+    "activity_log.event.internal_admin_event_not_configured": {
+        "string": "由于管理员配置，无法查看{eventName}类型的事件。请在#feat-support-activity-logs请求支持。"
+    },
+    "activity_log.event.ip_allowlist_range_create": {
+        "string": "将IP范围{ip_address}添加到允许列表"
+    },
+    "activity_log.event.ip_allowlist_range_delete": {
+        "string": "从允许列表中删除了IP范围{ip_address}"
+    },
+    "activity_log.event.ip_allowlist_setting_disabled": {
+        "string": "禁用了IP允许列表设置"
+    },
+    "activity_log.event.ip_allowlist_setting_enabled": {
+        "string": "启用了IP允许列表设置"
+    },
+    "activity_log.event.ip_network_access_restriction_range_create": {
+        "string": "添加了IP范围{ip_address}的网络访问限制（尚未生效）"
+    },
+    "activity_log.event.ip_network_access_restriction_range_delete": {
+        "string": "删除了IP范围{ip_address}的网络访问限制"
+    },
+    "activity_log.event.ip_network_access_restriction_range_disable": {
+        "string": "禁用了IP范围{ip_address}的网络访问限制"
+    },
+    "activity_log.event.ip_network_access_restriction_range_enable": {
+        "string": "启用了IP范围{ip_address}的网络访问限制"
+    },
+    "activity_log.event.ip_restriction_disable": {
+        "string": "禁用了网络访问限制设置"
+    },
+    "activity_log.event.ip_restriction_enable": {
+        "string": "启用了网络访问限制设置"
+    },
+    "activity_log.event.library_setting_all_files": {
+        "string": "所有文件"
+    },
+    "activity_log.event.library_setting_all_files_org_setting": {
+        "string": "所有文件（组织设置）"
+    },
+    "activity_log.event.library_setting_figjam_files": {
+        "string": "FigJam文件"
+    },
+    "activity_log.event.library_setting_figjam_files_org_setting": {
+        "string": "FigJam文件（组织设置）"
+    },
+    "activity_log.event.library_setting_figma_files": {
+        "string": "Figma设计文件"
+    },
+    "activity_log.event.library_setting_figma_files_org_setting": {
+        "string": "Figma设计文件（组织设置）"
+    },
+    "activity_log.event.library_setting_off": {
+        "string": "关闭"
+    },
+    "activity_log.event.library_setting_off_org_setting": {
+        "string": "关闭（组织设置）"
+    },
+    "activity_log.event.license_group_create_with_admins": {
+        "string": "创建了新的工作区{workspaceName}并指定{adminNames}为管理员"
+    },
+    "activity_log.event.license_group_membership_change": {
+        "string": "将{userEmail}从{workspaceName}工作区移到{newName}工作区"
+    },
+    "activity_log.event.license_group_membership_self_select": {
+        "string": "选择了{workspaceName}工作区"
+    },
+    "activity_log.event.oauth_token_grant": {
+        "string": "连接到了{appName}"
+    },
+    "activity_log.event.oauth_token_grant_unknown": {
+        "string": "连接到了未知应用"
+    },
+    "activity_log.event.oauth_token_revoke": {
+        "string": "断开了与{appName}的连接"
+    },
+    "activity_log.event.oauth_token_revoke_unknown": {
+        "string": "断开了与未知应用的连接"
+    },
+    "activity_log.event.open_sessions_end": {
+        "string": "结束了{name}的开放会话"
+    },
+    "activity_log.event.open_sessions_start": {
+        "string": "开始了{name}的开放会话"
+    },
+    "activity_log.event.org_changed_library_setting": {
+        "string": "将{orgName}的{libraryName}默认库设置从{oldLibrarySetting}更改为{newLibrarySetting}"
+    },
+    "activity_log.event.org_default_license_type_change.seat_rename": {
+        "string": "将{product}的默认座位类型更改为{role}"
+    },
+    "activity_log.event.org_domain_add": {
+        "string": "将域{domain}添加到组织{orgName}"
+    },
+    "activity_log.event.org_domain_capture_disable": {
+        "string": "禁用了组织{orgName}的域捕获"
+    }
+}

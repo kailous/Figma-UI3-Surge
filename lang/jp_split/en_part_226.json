@@ -1,0 +1,152 @@
+{
+    "scim_metadata_display_text.department": {
+        "string": "部門"
+    },
+    "scim_metadata_display_text.division": {
+        "string": "課"
+    },
+    "scim_metadata_display_text.organization": {
+        "string": "組織"
+    },
+    "setting_tab.public_sharing.modal.cancel": {
+        "string": "キャンセル"
+    },
+    "setting_tab.public_sharing.modal.days": {
+        "string": "日"
+    },
+    "setting_tab.public_sharing.modal.days_error": {
+        "string": "小数点や英字を含まない、1から31の間の数字を追加してください"
+    },
+    "setting_tab.public_sharing.modal.description": {
+        "string": "組織のコンテンツの公開共有の方法を選択します。"
+    },
+    "setting_tab.public_sharing.modal.expiration_description": {
+        "string": "Figmaデザインリンクの外部アクセス可能期間を選択します。"
+    },
+    "setting_tab.public_sharing.modal.expiration_required": {
+        "string": "デザインファイルのリンクの有効期間を設定"
+    },
+    "setting_tab.public_sharing.modal.hours": {
+        "string": "時間"
+    },
+    "setting_tab.public_sharing.modal.hours_error": {
+        "string": "小数点や英字を含まない、1から24の間の数字を追加してください"
+    },
+    "setting_tab.public_sharing.modal.open_sessions_header": {
+        "string": "FigJamオープンセッション"
+    },
+    "setting_tab.public_sharing.modal.open_sessions_toggle": {
+        "string": "すべてのユーザーがFigJamファイルの編集と操作を24時間できるようにします。"
+    },
+    "setting_tab.public_sharing.modal.password_required": {
+        "string": "パスワードを要求する"
+    },
+    "setting_tab.public_sharing.modal.public_link_sharing_header": {
+        "string": "公開リンク共有"
+    },
+    "setting_tab.public_sharing.modal.public_link_sharing_toggle": {
+        "string": "組織外の誰とでもリンクを共有できるようにします。"
+    },
+    "setting_tab.public_sharing.modal.remove": {
+        "string": "削除"
+    },
+    "setting_tab.public_sharing.modal.save": {
+        "string": "保存"
+    },
+    "setting_tab.remove_custom_workspace_setting_warning": {
+        "string": "{workspaceName}の公開共有の設定がデフォルトに戻ります。"
+    },
+    "setting_tab.successfully_updated_workspace_public_link_controls": {
+        "string": "ワークスペースの公開リンク設定を更新しました"
+    },
+    "settings_tab.add_domain_description": {
+        "string": "追加するドメインのユーザーを組織のメンバーにできます"
+    },
+    "settings_tab.add_domain_label": {
+        "string": "組織にドメインを追加"
+    },
+    "settings_tab.add_workspace_label": {
+        "string": "ワークスペースを追加"
+    },
+    "settings_tab.ai_beta.figma_and_figjam_ai": {
+        "string": "FigmaおよびFigJam AI"
+    },
+    "settings_tab.ai_beta.let_users_access_ai_features": {
+        "string": "AI機能にユーザーがアクセスできるようにします。 {learnMoreLink}"
+    },
+    "settings_tab.audio_description": {
+        "string": "ユーザーが組織のファイルで音声を使用できるようにします"
+    },
+    "settings_tab.audio_disabled": {
+        "string": "組織のファイルで音声が無効になっています"
+    },
+    "settings_tab.audio_enabled": {
+        "string": "ユーザーが組織のファイル内で音声を使用できるようになりました"
+    },
+    "settings_tab.audio_label": {
+        "string": "音声"
+    },
+    "settings_tab.authentication_description": {
+        "string": "ユーザーのFigmaへのログインと認証の方法を変更します"
+    },
+    "settings_tab.authentication_label": {
+        "string": "認証"
+    },
+    "settings_tab.auto_run_description": {
+        "string": "ファイルを開いたら自動的に実行するようにプラグインを設定します。"
+    },
+    "settings_tab.auto_run_label": {
+        "string": "プラグインの自動実行"
+    },
+    "settings_tab.auto_run_remove_plugin": {
+        "string": "プラグインを削除"
+    },
+    "settings_tab.change_vat_gst_id": {
+        "string": "法人としてFigmaプランを支払う場合は、VATまたはGST識別番号を追加します。"
+    },
+    "settings_tab.codegen_language_description": {
+        "string": "開発モードのデフォルトのコーディング言語を選択します。"
+    },
+    "settings_tab.codegen_language_dropdown_label": {
+        "string": "言語"
+    },
+    "settings_tab.codegen_language_label": {
+        "string": "デフォルトのコーディング言語"
+    },
+    "settings_tab.codegen_language_unit_dropdown_label": {
+        "string": "単位"
+    },
+    "settings_tab.community_commenters_description": {
+        "string": "組織のリソースへのコメント投稿が制限されているコミュニティメンバーを管理します"
+    },
+    "settings_tab.community_commenters_label": {
+        "string": "制限されているコメント投稿者"
+    },
+    "settings_tab.community_file_publishing_description": {
+        "string": "組織管理者がコミュニティのパーソナルプロフィールにファイルを公開することを許可"
+    },
+    "settings_tab.community_file_publishing_label": {
+        "string": "コミュニティファイル公開"
+    },
+    "settings_tab.configured_upgrade_request_flow.description_all_users": {
+        "string": "お客様の組織では、アップグレードを申請するすべてのユーザーが独自のURLにリダイレクトされます。これを変更するか、無効にするには、サポートに連絡してください。"
+    },
+    "settings_tab.configured_upgrade_request_flow.description_members": {
+        "string": "お客様の組織では、アップグレードを申請するメンバーが独自のURLにリダイレクトされます。これを変更するか、無効にするには、サポートに連絡してください。"
+    },
+    "settings_tab.configured_upgrade_request_flow.label": {
+        "string": "アップグレード申請の宛先変更"
+    },
+    "settings_tab.connected_apps": {
+        "string": "接続しているアプリ"
+    },
+    "settings_tab.connected_apps.an_error_occurred_while_deleting_the_token": {
+        "string": "トークンの削除中にエラーが発生しました。"
+    },
+    "settings_tab.connected_apps.are_you_sure": {
+        "string": "{appName}は{orgName}組織にアクセスできなくなります。"
+    },
+    "settings_tab.connected_apps.connected_since": {
+        "string": "アクセスが許可された日: {date}"
+    }
+}

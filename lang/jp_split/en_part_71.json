@@ -1,0 +1,152 @@
+{
+    "community.comments.unrestrict_user_s_comments": {
+        "string": "ユーザーのコメントを制限しない"
+    },
+    "community.comments.unrestricted_this_user_s_comments": {
+        "string": "このユーザーのコメントを制限しません"
+    },
+    "community.comments.write_a_reply": {
+        "string": "返信内容"
+    },
+    "community.comments.your_comments": {
+        "string": "自分のコメント"
+    },
+    "community.comments.your_kudos_and_feedback_are_welcome": {
+        "string": "応援やフィードバックをお寄せください!"
+    },
+    "community.publishing.acceptable_use_policy": {
+        "string": "利用規定"
+    },
+    "community.publishing.add_a_description": {
+        "string": "説明を追加"
+    },
+    "community.publishing.add_a_tagline": {
+        "string": "タグラインを追加"
+    },
+    "community.publishing.add_additional_creators_using_their_community_handle": {
+        "string": "コミュニティハンドルを使用するその他の作成者を追加"
+    },
+    "community.publishing.add_creators": {
+        "string": "作成者を追加"
+    },
+    "community.publishing.add_this_id_to_your_file": {
+        "string": "このIDを{filename}ファイルに追加してください"
+    },
+    "community.publishing.add_up_to_n_creators": {
+        "string": "その他の作成者を{maxCreatorsPerResource}名まで追加"
+    },
+    "community.publishing.add_up_to_n_tags": {
+        "string": "最大{maxTagsPerResource}個のタグを、コンマまたはタブで区切って追加"
+    },
+    "community.publishing.add_your_policy_for_the_usage_of_this.plugin": {
+        "string": "このプラグインの使用方法に関するポリシーを追加"
+    },
+    "community.publishing.add_your_policy_for_the_usage_of_this.widget": {
+        "string": "このウィジェットの使用方法に関するポリシーを追加"
+    },
+    "community.publishing.add_your_policy_for_the_usage_of_this_resource": {
+        "string": "このリソースの使用方法に関するポリシーを追加"
+    },
+    "community.publishing.advanced": {
+        "string": "高度"
+    },
+    "community.publishing.allow_comments_from_community_members": {
+        "string": "コミュニティメンバーからのコメントを許可する"
+    },
+    "community.publishing.allowed_domains_reasoning_not_specified": {
+        "string": "Allowed domainsに「*」が含まれていますが、reasoningが指定されていません。"
+    },
+    "community.publishing.awaiting_review": {
+        "string": "Figmaで審査中"
+    },
+    "community.publishing.below_is_your_resources_url.plugin": {
+        "string": "あなたのプラグインの一意のURLは以下のとおりです。自由に共有してください!"
+    },
+    "community.publishing.below_is_your_resources_url.plugin.once_approved": {
+        "string": "あなたのプラグインの一意のURLは以下のとおりです。承認されたら自由に共有してください。"
+    },
+    "community.publishing.below_is_your_resources_url.plugin.with_your_teammates": {
+        "string": "あなたのプラグインの一意のURLは以下のとおりです。チームメイトと自由に共有してください!"
+    },
+    "community.publishing.below_is_your_resources_url.widget": {
+        "string": "あなたのウィジェットの一意のURLは以下のとおりです。自由に共有してください!"
+    },
+    "community.publishing.below_is_your_resources_url.widget.once_approved": {
+        "string": "あなたのウィジェットの一意のURLは以下のとおりです。承認されたら自由に共有してください!"
+    },
+    "community.publishing.below_is_your_resources_url.widget.with_your_teammates": {
+        "string": "あなたのウィジェットの一意のURLは以下のとおりです。チームメートと自由に共有してください!"
+    },
+    "community.publishing.cannot_have_more_than_12_tags": {
+        "string": "タグの最大数は12個です"
+    },
+    "community.publishing.cannot_have_more_than_max_publishers": {
+        "string": "作成者の最大数は{MAX_PUBLISHERS_PER_RESOURCE}名です"
+    },
+    "community.publishing.cannot_publish_using_enableProposedApi.plugin": {
+        "string": "マニフェストでenableProposedApiを使用してプラグインを公開することはできません"
+    },
+    "community.publishing.cannot_publish_using_enableProposedApi.widget": {
+        "string": "マニフェストでenableProposedApiを使用してウィジェットを公開することはできません"
+    },
+    "community.publishing.cannot_publish_with_inspect_editor_type": {
+        "string": "editorTypeの「inspect」は公開用に使用されなくなりました。manifest.jsonのeditorTypeには「dev」を使用してください。"
+    },
+    "community.publishing.cannot_publish_without_document_access": {
+        "string": "manifest.jsonに\"documentAccess\": \"dynamic-page\"を追加してください"
+    },
+    "community.publishing.cannot_use_payments_api_if_non_approved": {
+        "string": "Payments APIを使用するリソースを公開するには、コミュニティでの販売承認を得る必要があります。"
+    },
+    "community.publishing.carousel_media_image": {
+        "string": "カルーセルメディア画像"
+    },
+    "community.publishing.category": {
+        "string": "カテゴリー"
+    },
+    "community.publishing.category_cant_be_empty": {
+        "string": "カテゴリーを空にすることはできません"
+    },
+    "community.publishing.category_sub_cant_be_empty": {
+        "string": "サブカテゴリーを空にすることはできません"
+    },
+    "community.publishing.changes_saved": {
+        "string": "変更を保存しました"
+    },
+    "community.publishing.choose_a_file": {
+        "string": "ファイルを選択してください"
+    },
+    "community.publishing.close_confirmation_modal.data_security_body_1.plugin": {
+        "string": "このプラグインへの変更をまだ保存していません。データセキュリティの詳細に加えた変更がすべて失われます。"
+    },
+    "community.publishing.close_confirmation_modal.data_security_body_1.widget": {
+        "string": "このウィジェットへの変更をまだ保存していません。データセキュリティの詳細に加えた変更がすべて失われます。"
+    },
+    "community.publishing.close_confirmation_modal.data_security_body_2.plugin": {
+        "string": "データセキュリティに関する回答を送信するには、戻って、このプラグインへの変更を保存してください。"
+    },
+    "community.publishing.close_confirmation_modal.data_security_body_2.widget": {
+        "string": "データセキュリティに関する回答を送信するには、戻って、このウィジェットへの変更を保存してください。"
+    },
+    "community.publishing.close_confirmation_modal.title": {
+        "string": "公開しないで閉じますか?"
+    },
+    "community.publishing.cocreators": {
+        "string": "共同作成者"
+    },
+    "community.publishing.comments": {
+        "string": "コメント"
+    },
+    "community.publishing.community_free_resource_license": {
+        "string": "コミュニティ無料リソースライセンス{learnMoreLink}"
+    },
+    "community.publishing.community_guidelines": {
+        "string": "コミュニティガイドライン"
+    },
+    "community.publishing.community_paid_resource_license": {
+        "string": "コミュニティ有料リソースライセンス{learnMoreLink}"
+    },
+    "community.publishing.community_terms_of_service": {
+        "string": "コミュニティのサービス利用規約"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "templates.banner.made_by_you": {
+        "string": "あなたが作成しました。"
+    },
+    "templates.banner.republish.made_by_publisher_name": {
+        "string": "{publisherName}が作成した"
+    },
+    "templates.banner.republish.primary_text": {
+        "string": "未公開の変更"
+    },
+    "templates.banner.republish.republish_action": {
+        "string": "変更を公開"
+    },
+    "templates.banner.republish.secondary_text": {
+        "string": "これらの変更を公開してテンプレートを更新します。"
+    },
+    "templates.banner.republish.secondary_text_not_owner": {
+        "string": "このテンプレートの古いバージョンを引き続き使用できます。"
+    },
+    "templates.banner.republish.you_re_viewing_a_template": {
+        "string": "表示しているのはテンプレートです。"
+    },
+    "templates.banner.republish.you_re_viewing_a_template_made_by_publisher_name": {
+        "string": "表示しているテンプレートは、{madeByPublisherName}"
+    },
+    "templates.confirmation.move_from_drafts.button": {
+        "string": "ファイルを移動"
+    },
+    "templates.confirmation.move_from_drafts.description": {
+        "string": "このファイルをテンプレートとして公開するには、ドラフトから移動する必要があります。"
+    },
+    "templates.confirmation.move_from_drafts.title": {
+        "string": "ドラフトから移動"
+    },
+    "templates.confirmation.move_to_drafts.button_v2": {
+        "string": "移動と公開取り消し"
+    },
+    "templates.confirmation.move_to_drafts.description": {
+        "string": "このファイルをドラフトに移動すると、チームのテンプレートから削除されます。"
+    },
+    "templates.confirmation.move_to_drafts.description.multiselect_v2": {
+        "string": "ファイルの一部はテンプレートです。ドラフトに移動すると、チームのテンプレートから削除されます。"
+    },
+    "templates.confirmation.move_to_drafts.title": {
+        "string": "{count, plural, other {テンプレートを非公開にしますか?}}"
+    },
+    "templates.confirmation.publish.secret.confirm.publish_anyway": {
+        "string": "公開"
+    },
+    "templates.confirmation.publish.secret.description": {
+        "string": "{teamName}はシークレットチームです。このテンプレートを公開すると、{orgName}のメンバーがこのチームの名前を見ることができます。"
+    },
+    "templates.confirmation.publish.secret.title_v2": {
+        "string": "シークレットチームの名前が明かされます"
+    },
+    "templates.confirmation.unpublish.description_v2": {
+        "string": "{templateName}がチームのテンプレートから削除されますが、ファイルそのものは削除されません。"
+    },
+    "templates.confirmation.unpublish.title": {
+        "string": "テンプレートの公開を取り消しますか?"
+    },
+    "templates.detail.publish_button": {
+        "string": "更新内容を公開"
+    },
+    "templates.detail.published_time": {
+        "string": "{time}に更新済み"
+    },
+    "templates.detail.unpublish_button": {
+        "string": "公開を取り消す"
+    },
+    "templates.move_from_drafts.bell.action": {
+        "string": "テンプレートを公開"
+    },
+    "templates.publishing.bell.failure": {
+        "string": "テンプレートの公開に失敗しました"
+    },
+    "templates.publishing.bell.success": {
+        "string": "テンプレートを公開済み"
+    },
+    "templates.publishing.bell.updated": {
+        "string": "テンプレートを更新済み"
+    },
+    "templates.publishing.description.placeholder": {
+        "string": "このテンプレートの目的は?"
+    },
+    "templates.publishing.header": {
+        "string": "テンプレートを公開"
+    },
+    "templates.publishing.header.updates": {
+        "string": "更新を公開"
+    },
+    "templates.publishing.publish": {
+        "string": "公開"
+    },
+    "templates.publishing.publish.updates": {
+        "string": "更新を公開"
+    },
+    "templates.publishing.restore_default_thumbnail": {
+        "string": "デフォルトのサムネイルを復元"
+    },
+    "templates.publishing.scope.label": {
+        "string": "公開先"
+    },
+    "templates.publishing.scope.organization": {
+        "string": "組織全体"
+    },
+    "templates.publishing.scope.team": {
+        "string": "現在のチーム"
+    },
+    "templates.publishing.thumbnail_size_dimension_spec": {
+        "string": "サイズ: 1920x960"
+    },
+    "templates.publishing.upload_custom_thumbnail": {
+        "string": "カスタムサムネイルをアップロード"
+    },
+    "templates.unpublishing.bell.failure": {
+        "string": "テンプレートの公開を取り消せませんでした"
+    },
+    "templates.unpublishing.bell.success": {
+        "string": "テンプレートの公開を取り消しました"
+    },
+    "textreview.also_turn_off_figma_spell_check": {
+        "string": "Figmaのスペルチェックもオフにする"
+    },
+    "textreview.as_you_type_plugin_name_will_review_your_text_and_provide_suggestions": {
+        "string": " 入力中に、{pluginName}はテキストを確認して入力候補を表示します。"
+    },
+    "textreview.use_plugin_name_confirm": {
+        "string": "{pluginName}を使用"
+    },
+    "textreview.use_plugin_name_confirm_default": {
+        "string": "プラグインを使用"
+    },
+    "textreview.use_plugin_name_title": {
+        "string": "{pluginName}を使用しますか?"
+    },
+    "textreview.use_plugin_name_title_default": {
+        "string": "プラグインを使用しますか?"
+    },
+    "swy_tile.shared": {
+        "string": "共有済み"
+    },
+    "swy_tile.shared_date": {
+        "string": "{shared_date}に共有"
+    },
+    "team_tile.guest.no_teams.info": {
+        "string": "{orgName}のどのチームのメンバーでもありません。"
+    },
+    "team_tile.members_count": {
+        "string": "{numMembers, plural, other {{numMembers}メンバー}}"
+    }
+}

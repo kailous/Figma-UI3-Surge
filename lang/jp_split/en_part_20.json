@@ -1,0 +1,152 @@
+{
+    "auth.document_title.sign_up_for_figma": {
+        "string": "Figmaにサインアップ"
+    },
+    "auth.email-domain-suggestion-prompt": {
+        "string": "{domainSuggestion}ですか?"
+    },
+    "auth.email-input-aria-label": {
+        "string": "メールテキスト入力"
+    },
+    "auth.email-input-placeholder": {
+        "string": "メール"
+    },
+    "auth.email-only.header": {
+        "string": "Figmaにログインして続行"
+    },
+    "auth.email-only.log-in": {
+        "string": "ログイン"
+    },
+    "auth.error.account-not-found": {
+        "string": "そのアカウントは見つかりませんでした。サインアップしますか?"
+    },
+    "auth.error.enter-two-factor-code-client": {
+        "string": "確認コードを入力してください"
+    },
+    "auth.error.magic-link-server-validation-error": {
+        "string": "リクエストを検証できません。"
+    },
+    "auth.error.wrong_code": {
+        "string": "コードが正しくありません"
+    },
+    "auth.extra-info.create-account": {
+        "string": "アカウントを作成"
+    },
+    "auth.extra-info.errors.please-provide-job-function": {
+        "string": "職務権限を入力してください"
+    },
+    "auth.extra-info.how-will-you-use": {
+        "string": "Figmaの使用目的"
+    },
+    "auth.extra-info.job-type-badge.design": {
+        "string": "デザイナー"
+    },
+    "auth.extra-info.job-type-badge.education": {
+        "string": "学生・教育関係"
+    },
+    "auth.extra-info.job-type-badge.marketing": {
+        "string": "マーケター"
+    },
+    "auth.extra-info.job-type-badge.other": {
+        "string": "その他"
+    },
+    "auth.extra-info.job-type-badge.product-management": {
+        "string": "プロダクトマネージャー"
+    },
+    "auth.extra-info.job-type-badge.software-development": {
+        "string": "開発者"
+    },
+    "auth.extra-info.job-type-badge.user-research": {
+        "string": "ユーザーリサーチャー"
+    },
+    "auth.extra-info.job-type.design": {
+        "string": "デザイン"
+    },
+    "auth.extra-info.job-type.education": {
+        "string": "学生または教師"
+    },
+    "auth.extra-info.job-type.marketing": {
+        "string": "マーケティング"
+    },
+    "auth.extra-info.job-type.other": {
+        "string": "その他"
+    },
+    "auth.extra-info.job-type.product-management": {
+        "string": "製品管理"
+    },
+    "auth.extra-info.job-type.software-development": {
+        "string": "ソフトウェア開発"
+    },
+    "auth.extra-info.job-type.user-research": {
+        "string": "ユーザーのリサーチ"
+    },
+    "auth.extra-info.subscribe-to-figma-tips-and-updates": {
+        "string": "Figmaのヒントと更新のメールを受け取る*"
+    },
+    "auth.extra-info.subscribe-to-figma-tips-and-updates-terms": {
+        "string": "*チェックボックスにチェックを入れると、Figmaから製品やサービス、イベントについての最新情報を受け取ることに同意したことになります。メールの送信は、いつでも停止できます。"
+    },
+    "auth.extra-info.tell-us-about-yourself": {
+        "string": "自分の情報"
+    },
+    "auth.extra-info.usage-purpose.edu": {
+        "string": "授業を教える、または受けるため"
+    },
+    "auth.extra-info.usage-purpose.personal": {
+        "string": "個人的に使用するため"
+    },
+    "auth.extra-info.usage-purpose.work": {
+        "string": "仕事のため"
+    },
+    "auth.extra-info.what-kind-of-work": {
+        "string": "どのような仕事ですか?"
+    },
+    "auth.extra-info.what-kind-of-work-required": {
+        "string": "職業(必須)"
+    },
+    "auth.extra-info.your-name": {
+        "string": "自分の名前"
+    },
+    "auth.figma-file": {
+        "string": "Figmaファイル"
+    },
+    "auth.footer-forgot-password": {
+        "string": "パスワードをリセット"
+    },
+    "auth.footer-saml-link": {
+        "string": "シングルサインオンを使用"
+    },
+    "auth.footer-sign-in-switch-form-link": {
+        "string": "作成する"
+    },
+    "auth.footer-sign-in-switch-form-text": {
+        "string": "アカウントを持っていませんか?"
+    },
+    "auth.footer-sign-up-switch-form-link": {
+        "string": "ログイン"
+    },
+    "auth.footer-sign-up-switch-form-text": {
+        "string": "アカウントをお持ちですか?"
+    },
+    "auth.generic-app-auth-error": {
+        "string": "エラーが発生しました。もう一度お試しください。"
+    },
+    "auth.generic-go-back-and-try-again": {
+        "string": "戻ってもう一度お試しください"
+    },
+    "auth.generic-loading": {
+        "string": "読み込んでいます..."
+    },
+    "auth.generic-or": {
+        "string": "または"
+    },
+    "auth.go-to-browser-to-complete-login": {
+        "string": "ブラウザに進んでログインを完了してください"
+    },
+    "auth.google-sso.unable-to-auth": {
+        "string": "認証できません"
+    },
+    "auth.google-sso.unable-to-get-info": {
+        "string": "Googleからプロフィール情報を取得できません。"
+    }
+}

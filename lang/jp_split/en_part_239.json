@@ -1,0 +1,152 @@
+{
+    "org_settings.autogen_password_controls.custom_passwords_description": {
+        "string": "パスワードは手動で作成することも自動的に生成することもできます。"
+    },
+    "org_settings.autogen_password_controls.default": {
+        "string": "(デフォルト)"
+    },
+    "org_settings.autogen_password_controls.description": {
+        "string": "ファイルのパスワードの作成方法を選択してください。"
+    },
+    "org_settings.autogen_password_controls.save": {
+        "string": "保存"
+    },
+    "org_settings.autogen_password_controls.success": {
+        "string": "パスワード保護の設定を更新しました"
+    },
+    "org_settings.autogen_password_controls.title": {
+        "string": "パスワード保護オプション"
+    },
+    "org_settings.external_collaboration_controls.accept_invites": {
+        "string": "他のチームと組織からの招待を承諾して、ファイル、プロジェクト、チームに参加します"
+    },
+    "org_settings.external_collaboration_controls.banner": {
+        "string": "この設定は、コンテンツにユーザーがアクセスできるかどうかに影響します。設定を変更する前に{let_org_know}ください。"
+    },
+    "org_settings.external_collaboration_controls.cancel": {
+        "string": "キャンセル"
+    },
+    "org_settings.external_collaboration_controls.cannot": {
+        "string": "不可"
+    },
+    "org_settings.external_collaboration_controls.create": {
+        "string": "他のチームまたは組織にドラフト、ファイル、またはプロジェクトを作成する"
+    },
+    "org_settings.external_collaboration_controls.disable": {
+        "string": "無効にする"
+    },
+    "org_settings.external_collaboration_controls.enable": {
+        "string": "有効にする(デフォルト)"
+    },
+    "org_settings.external_collaboration_controls.header": {
+        "string": "外部コンテンツへのアクセス"
+    },
+    "org_settings.external_collaboration_controls.let_org_know": {
+        "string": "組織に知らせて"
+    },
+    "org_settings.external_collaboration_controls.list_header_setting_off": {
+        "string": "メンバーに{orgName}以外からのコンテンツへのアクセスを許可すると、次のことができるようになります:"
+    },
+    "org_settings.external_collaboration_controls.list_header_setting_on": {
+        "string": "メンバーに{orgName}以外からのアクセスを制限すると、次のことが{cannot}なります:"
+    },
+    "org_settings.external_collaboration_controls.note": {
+        "string": "注:"
+    },
+    "org_settings.external_collaboration_controls.open_sessions": {
+        "string": "以下にログイン中は、他のチームまたは組織のオープンセッションでの編集アクセス権があります:"
+    },
+    "org_settings.external_collaboration_controls.save": {
+        "string": "保存"
+    },
+    "org_settings.external_collaboration_controls.setting_header": {
+        "string": "メンバーは{orgName}以外からコンテンツにアクセスできます"
+    },
+    "org_settings.external_collaboration_controls.success": {
+        "string": "コンテンツアクセス設定を変更しました。更新には最大10分かかります。"
+    },
+    "org_settings.external_collaboration_controls.view_only": {
+        "string": "他のチームおよび組織と共有しているファイルとドラフトのコメントを編集します({note}ファイルは閲覧限定になります)"
+    },
+    "org_settings.external_collaboration_controls.view_or_edit_files": {
+        "string": "他のチームおよび組織と共有しているファイルとドラフトの表示、コメント、編集"
+    },
+    "org_settings.guest_control.banned": {
+        "string": "外部ユーザーは組織に参加できません"
+    },
+    "org_settings.guest_control.confirm_button": {
+        "string": "確認"
+    },
+    "org_settings.guest_control.confirm_title": {
+        "string": "確認"
+    },
+    "org_settings.guest_control.default": {
+        "string": "(デフォルト)"
+    },
+    "org_settings.guest_control.enabled": {
+        "string": "有効"
+    },
+    "org_settings.guest_control.guest_definition": {
+        "string": "ゲストとは、組織に参加する、{domains}のメールアドレスを持たない外部ユーザーです。"
+    },
+    "org_settings.guest_control.guest_membership": {
+        "string": "ゲストメンバーシップ"
+    },
+    "org_settings.guest_control.guest_question": {
+        "string": "どのようなユーザーを組織にメンバーとして参加できるようにしますか?"
+    },
+    "org_settings.guest_control.link_sharing_on": {
+        "string": "現在、組織で公開リンク共有が{enabled}になっています。個々のファイルの権限で許可されている場合には、外部ユーザーはリンクからコンテンツを閲覧できます。この設定は、{publicLinkSharingSettings}でオフにできます。"
+    },
+    "org_settings.guest_control.no_guest_confirmation": {
+        "string": "ユーザーは、\"編集可\"権限が設定されている公開リンクを共有できなくなります。\"編集可\"権限が設定されている既存の公開リンクはすべて\"閲覧限定\"権限にダウングレードされます。"
+    },
+    "org_settings.guest_control.null": {
+        "string": "外部ユーザーは組織に参加できます"
+    },
+    "org_settings.guest_control.public_link_sharing_settings": {
+        "string": "公開リンク共有設定"
+    },
+    "org_settings.guest_control.require_approval": {
+        "string": "外部ユーザーは管理者の承認を得た場合にのみ参加できます"
+    },
+    "org_settings.guest_control.save_button": {
+        "string": "保存"
+    },
+    "org_settings.leave_org.confirm_modal_button": {
+        "string": "{orgName}を脱退"
+    },
+    "org_settings.leave_org.confirm_modal_message": {
+        "string": "現在、{orgName}組織の{guest}です。この組織を脱退すると、共有されていたすべてのコンテンツにアクセスできなくなります。この操作は元に戻せません。"
+    },
+    "org_settings.leave_org.confirm_modal_title": {
+        "string": "{orgName}組織を脱退"
+    },
+    "org_settings.leave_org.guest": {
+        "string": "ゲスト"
+    },
+    "org_settings.library_subscription_confirm.already_browsable": {
+        "string": "このライブラリは、デフォルトですべての組織ファイルに表示されます。"
+    },
+    "org_settings.library_subscription_confirm.already_browsable.enable_button": {
+        "string": "ライブラリを有効にする"
+    },
+    "org_settings.library_subscription_confirm.cancel_button": {
+        "string": "キャンセル"
+    },
+    "org_settings.library_subscription_confirm.not_yet_browsable": {
+        "string": "組織でこのライブラリを有効にするには、このライブラリへのアクセス権をすべてのユーザーに付与する必要があります。{lineBreak}これにより、\"{fileName}\"のプライバシーが[{orgName}のすべてのユーザーが閲覧できます]に変更されます。"
+    },
+    "org_settings.library_subscription_confirm.not_yet_browsable.enable_button": {
+        "string": "プライバシーを変更して有効にする"
+    },
+    "org_settings.library_subscription_confirm.title": {
+        "string": "組織でライブラリを有効にしますか?"
+    },
+    "org_settings.public_link_sharing.allow_public_links": {
+        "string": "公開リンクを許可"
+    },
+    "org_settings.public_link_sharing.allow_public_links_with_password_protection": {
+        "string": "パスワードで保護された公開リンクを許可"
+    }
+}

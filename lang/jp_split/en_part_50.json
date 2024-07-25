@@ -1,0 +1,152 @@
+{
+    "comments.only_current_slide": {
+        "string": "現在のスライドのみ"
+    },
+    "comments.only_posts": {
+        "string": "投稿のみ"
+    },
+    "comments.only_your_threads": {
+        "string": "自分のスレッドのみ"
+    },
+    "comments.oops_one_of_your_comments_never_posted": {
+        "string": "おっと! コメントの1つが投稿されていません"
+    },
+    "comments.parent_name_and_number": {
+        "string": "#{commentNumber} · {parentName}"
+    },
+    "comments.please_note_that_is_external_to_your_organization": {
+        "string": "{numUsers, plural, other {{userNames}は組織外のユーザーである点にご注意ください。{learnMore}}}"
+    },
+    "comments.please_note_that_some_of_these_users_are_external_to_your_organization": {
+        "string": "{numUsers, plural, other {組織外のユーザーが含まれている点にご注意ください。{learnMore}}}"
+    },
+    "comments.post": {
+        "string": "投稿"
+    },
+    "comments.post_anyway": {
+        "string": "投稿を続ける"
+    },
+    "comments.post_comment_and_share_file": {
+        "string": "コメントを投稿し、ファイルを共有しますか?"
+    },
+    "comments.post_share": {
+        "string": "投稿して共有"
+    },
+    "comments.preview_reply_count": {
+        "string": "{replyCount, plural, other {{ new, select, true {{replyCount}件の新しい返信} other {{replyCount}件の返信}}}}"
+    },
+    "comments.previous": {
+        "string": "前へ"
+    },
+    "comments.re_enable": {
+        "string": "再度有効にする"
+    },
+    "comments.reply": {
+        "string": "返信"
+    },
+    "comments.reply_count": {
+        "string": "{replyCount, plural, other {{replyCount}件の返信}}"
+    },
+    "comments.retry": {
+        "string": "再試行"
+    },
+    "comments.save": {
+        "string": "保存"
+    },
+    "comments.settings": {
+        "string": "設定"
+    },
+    "comments.show_resolved_comments": {
+        "string": "解決済みコメントを表示"
+    },
+    "comments.slide": {
+        "string": "スライド"
+    },
+    "comments.slide_number": {
+        "string": "スライド{orderNum}"
+    },
+    "comments.sort_by_date": {
+        "string": "日付で並べ替え"
+    },
+    "comments.sort_by_last_action": {
+        "string": "最後のアクションで並べ替え"
+    },
+    "comments.sort_by_slide": {
+        "string": "スライドで並べ替え"
+    },
+    "comments.sort_by_unread": {
+        "string": "未読で並べ替え"
+    },
+    "comments.sort_filter": {
+        "string": "並べ替え/フィルター"
+    },
+    "comments.status_changes": {
+        "string": "ステータス変更"
+    },
+    "comments.submit": {
+        "string": "送信"
+    },
+    "comments.turn_on": {
+        "string": "オンにする"
+    },
+    "comments.unattached": {
+        "string": "未添付"
+    },
+    "comments.unavailable_offline": {
+        "string": "このコメントはオフラインでは開けません"
+    },
+    "comments.undo": {
+        "string": "元に戻す"
+    },
+    "comments.upload_error.already_uploaded_items": {
+        "string": "{numFiles, plural, other {既に追加されているファイル:{fileNames}}}"
+    },
+    "comments.upload_error.failed_to_upload": {
+        "string": "{numFiles, plural, other {ファイルをアップロードできませんでした}}"
+    },
+    "comments.upload_error.media_file_maximum": {
+        "string": "コメントに追加できるメディアファイルは{maxNum}個までです"
+    },
+    "comments.upload_error.media_file_size_limit_MB": {
+        "string": "メディファイルは{maxFileSizeMB}MB未満でなければなりません"
+    },
+    "comments.upload_error.media_file_types": {
+        "string": "メディアファイルの形式はPNG、JPEG、GIFのいずれかでなければなりません"
+    },
+    "comments.upload_images": {
+        "string": "最大5個の画像およびGIFをアップロードできます"
+    },
+    "comments.view": {
+        "string": "表示"
+    },
+    "comments.when_you_leave_a_comment_or_get_mentioned_in_one_it_ll_show_up_here": {
+        "string": "コメントを残した場合、またはコメントでメンションされている場合、ここに表示されます。"
+    },
+    "comments.with_access": {
+        "string": "アクセス権あり"
+    },
+    "comments.wont_be_able_to_view_your_comments_because_they_dont_have_access_to_this_file": {
+        "string": "{mentionedUsers}はこのファイルへのアクセス権がないため、コメントを表示できません。"
+    },
+    "comments.you": {
+        "string": "あなた"
+    },
+    "comments.you_have_disabled_the_comments_sidebar_via_the_debug_menu": {
+        "string": "デバッグメニューでコメントのサイドバーを無効にしました。"
+    },
+    "comments.you_will_be_notified_about_file_comments": {
+        "string": "このファイルに新たに追加されるすべてのコメントについて通知されます。"
+    },
+    "comments.you_will_be_notified_about_replies": {
+        "string": "返信について通知されます"
+    },
+    "comments.you_will_be_notified_about_replies_and_at_mentions": {
+        "string": "返信と@メンションの通知を受け取ります"
+    },
+    "comments.pinning.cannot_resolve": {
+        "string": "ピン留めされたコメントを解決済みにできません"
+    },
+    "comments.pinning.cannot_unresolve": {
+        "string": "ピン留めされたコメントを未解決にできません"
+    }
+}

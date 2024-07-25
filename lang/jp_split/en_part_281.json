@@ -1,0 +1,152 @@
+{
+    "rcs.sharing_clarity.prototype_modal.title": {
+        "string": "プロトタイプへのアクセス権の個別設定"
+    },
+    "rcs.sharing_clarity.team_creation_modal_description": {
+        "string": "チームのアクセスと権限を管理するときに、オプションを選ぶだけで、1)アクセス可能なユーザーと2)ユーザーの権限を設定できるようになりました。"
+    },
+    "rcs.sharing_clarity.team_creation_modal_title": {
+        "string": "よりシンプルで分かりやすいアクセス設定"
+    },
+    "rcs.signal_collection.continue": {
+        "string": "続行"
+    },
+    "rcs.signal_collection.skip": {
+        "string": "スキップ"
+    },
+    "rcs.surveys.abandoned_org_upgrade_question": {
+        "string": "アップグレードしない理由を選択してください。"
+    },
+    "rcs.surveys.abandoned_org_upgrade_reason_annual_billing": {
+        "string": "年単位ではなく月単位で支払いたい"
+    },
+    "rcs.surveys.abandoned_org_upgrade_reason_billing_complexity": {
+        "string": "トゥルーアップの請求方式が複雑すぎる"
+    },
+    "rcs.surveys.abandoned_org_upgrade_reason_cost": {
+        "string": "費用の増加に見合う十分な価値がない"
+    },
+    "rcs.surveys.abandoned_org_upgrade_reason_just_looking": {
+        "string": "Figmaを単に試してみたかった"
+    },
+    "rcs.surveys.abandoned_org_upgrade_reason_other": {
+        "string": "その他"
+    },
+    "rcs.surveys.abandoned_pro_upgrade_question": {
+        "string": "Figmaプランをアップグレードしない理由をお聞かせください"
+    },
+    "rcs.surveys.close": {
+        "string": "閉じる"
+    },
+    "rcs.surveys.next": {
+        "string": "次へ"
+    },
+    "rcs.surveys.question_counter": {
+        "string": "質問 {currentStep}/{totalSteps}"
+    },
+    "rcs.surveys.submit": {
+        "string": "送信"
+    },
+    "rcs.surveys.submit_free_form": {
+        "string": "自由形式のアンケート回答を送信"
+    },
+    "rcs.surveys.submit_opinions": {
+        "string": "選択形式のアンケート回答を送信"
+    },
+    "rcs.surveys.thanks_for_your_feedback": {
+        "string": "フィードバックをお送りいただきありがとうございます"
+    },
+    "rcs.surveys.this_field_is_required": {
+        "string": "このフィールドは必須です"
+    },
+    "rcs.surveys.very_dissatisfied": {
+        "string": "かなり不満足である"
+    },
+    "rcs.surveys.very_satisfied": {
+        "string": "かなり満足している"
+    },
+    "rcs.surveys.would_love_to_know": {
+        "string": "ご意見をお聞かせください..."
+    },
+    "rcs.take_tour.let_s_go": {
+        "string": "始める"
+    },
+    "rcs.take_tour.no_thanks": {
+        "string": "閉じる"
+    },
+    "rcs.take_tour.see_how_to_create_files_learn_about_drafts_and_teams_ways_to_access_community_and_more": {
+        "string": "ファイルの作成方法、ドラフトとチームの概要、コミュニティへのアクセス方法などをご覧ください。"
+    },
+    "rcs.take_tour.take_a_quick_tour_of_the_file_browser": {
+        "string": "ファイルブラウザのクイックツアーを開始しますか?"
+    },
+    "rcs.team_files.create_a_team_to_co_edit_files_with_your_teammates": {
+        "string": "チームを作成し、チームメイトとファイルを共同で編集できます。"
+    },
+    "rcs.team_files.files_in_teams_are_accessible_by_team_members_and_shareable_with_other_editors.seat_rename": {
+        "string": "チーム内のファイルはチームメンバーがアクセスでき、編集アクセス権のあるユーザーと共有できます。"
+    },
+    "rcs.team_library.enable_quick_access_to_other_libraries_in_this_file": {
+        "string": "このファイルの他のライブラリに簡単にアクセスできます。"
+    },
+    "rcs.team_library.share_components_and_styles_across_your_team_by_publishing_them": {
+        "string": "コンポーネントとスタイルをチームライブラリに公開することで、チーム全体でコンポーネントとスタイルを共有できます。"
+    },
+    "rcs.team_library.team_library": {
+        "string": "チームライブラリ"
+    },
+    "rcs.team_welcome.choose_a_plan_for_your_team": {
+        "string": "チームのプランを選んでください"
+    },
+    "rcs.team_welcome.copy_to_invite": {
+        "string": "招待リンクをコピー"
+    },
+    "rcs.team_welcome.do_this_later": {
+        "string": "後で"
+    },
+    "rcs.team_welcome.emails": {
+        "string": "メール"
+    },
+    "rcs.team_welcome.figma": {
+        "string": "Figma"
+    },
+    "rcs.team_welcome.invite_sent": {
+        "string": "{numInvites, plural, other {招待が送信されました。}}"
+    },
+    "rcs.team_welcome.invite_your_collaborators": {
+        "string": "コラボレーターを招待"
+    },
+    "rcs.team_welcome.not_a_valid_address": {
+        "string": "有効なアドレスではありません"
+    },
+    "rcs.team_welcome.send_invites": {
+        "string": "招待を送信"
+    },
+    "rcs.team_welcome.tell_us_a_little_about_yourself": {
+        "string": "ご自身についてもう少し教えてください"
+    },
+    "rcs.team_welcome.tell_us_about_yourself": {
+        "string": "ご自身の情報を入力してください"
+    },
+    "rcs.team_welcome.welcome_to_figjam": {
+        "string": "FigJamへようこそ"
+    },
+    "rcs.team_welcome.welcome_to_figma": {
+        "string": "{Figma}へようこそ"
+    },
+    "rcs.template_picker.i_ll_get_started_on_my_own": {
+        "string": "テンプレートを使用しない"
+    },
+    "rcs.ui_kits.explore_ui_kits_to_find_assets_you_like": {
+        "string": "UIキットを検索して好みのアセットを見つけ、キャンバスにドラッグしてデザインをスタートします。"
+    },
+    "rcs.ui_kits.grab_pre_built_ui": {
+        "string": "[{strongAssets}]タブで、Apple、Google、Figma(当社)の構築済みUIを活用し、ブランクページから短時間で磨き上げられたデザインを作成しましょう。"
+    },
+    "rcs.ui_kits.jump_start_your_designs_with_ui_kits": {
+        "string": "UIキットを使ってすばやくデザインを始める"
+    },
+    "rcs.universal_inserts.find_components_plugins_and_widgets": {
+        "string": "コンポーネント、プラグイン、ウィジェットを検索"
+    }
+}

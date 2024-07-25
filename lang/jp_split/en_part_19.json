@@ -1,0 +1,152 @@
+{
+    "assets_in_actions.detail_view.components_tab.title": {
+        "string": "コンポーネント"
+    },
+    "assets_in_actions.detail_view.fragments_tab.designs_title": {
+        "string": "デザイン"
+    },
+    "assets_in_actions.detail_view.fragments_tab.title": {
+        "string": "他のデザイン"
+    },
+    "assets_in_actions.error.description": {
+        "string": "予期しないエラーが発生しました"
+    },
+    "assets_in_actions.error.title": {
+        "string": "問題が発生しました"
+    },
+    "assets_in_actions.fragment_search.placeholder_1": {
+        "string": "例: 「決済画面」"
+    },
+    "assets_in_actions.fragment_search.placeholder_10": {
+        "string": "例: 「...と表示するツールチップ」"
+    },
+    "assets_in_actions.fragment_search.placeholder_11": {
+        "string": "例: 「CRJプロジェクトのモーダルを表示」"
+    },
+    "assets_in_actions.fragment_search.placeholder_12": {
+        "string": "例: 「ようこそ画面」"
+    },
+    "assets_in_actions.fragment_search.placeholder_13": {
+        "string": "例: 「問題が発生しましたダイアログ」"
+    },
+    "assets_in_actions.fragment_search.placeholder_2": {
+        "string": "例: 「プロジェクトZのためのオンボーディング」"
+    },
+    "assets_in_actions.fragment_search.placeholder_3": {
+        "string": "例: 「支払いが完了しました」"
+    },
+    "assets_in_actions.fragment_search.placeholder_4": {
+        "string": "例: 「CRJプロジェクトのスプラッシュ画面」"
+    },
+    "assets_in_actions.fragment_search.placeholder_5": {
+        "string": "例: 「パスワードを忘れた場合」"
+    },
+    "assets_in_actions.fragment_search.placeholder_6": {
+        "string": "例: 「年末商戦マーケティングサイトのデザイン変更」"
+    },
+    "assets_in_actions.fragment_search.placeholder_7": {
+        "string": "例: 「iOS用の設定ページ」"
+    },
+    "assets_in_actions.fragment_search.placeholder_8": {
+        "string": "例: 「アカウント作成、ダークモード」"
+    },
+    "assets_in_actions.fragment_search.placeholder_9": {
+        "string": "例: 「ゲスト用のログイン画面」"
+    },
+    "assets_in_actions.fragments.fragment_search_sugggestion": {
+        "string": "{boldText} 関連するデザインを{orgText}で検索"
+    },
+    "assets_in_actions.fragments.fragment_search_sugggestion_bold_text": {
+        "string": "まだお探しですか?"
+    },
+    "assets_in_actions.fragments.fragment_search_sugggestion_hint": {
+        "string": "その他のデザインを見る"
+    },
+    "assets_in_actions.fragments_section.empty_state.header": {
+        "string": "{orgText}で検索"
+    },
+    "assets_in_actions.fragments_section.empty_state.header_community": {
+        "string": "コミュニティ全体で検索"
+    },
+    "assets_in_actions.fragments_section.empty_state.header_generic": {
+        "string": "組織全体で検索"
+    },
+    "assets_in_actions.fragments_section.empty_state.text": {
+        "string": "関連するデザインを組織全体で検索できるようになりました。"
+    },
+    "assets_in_actions.fragments_section.empty_state.text_community": {
+        "string": "関連するデザインをコミュニティ全体で検索できるようになりました。"
+    },
+    "assets_in_actions.fragments_section.error.description": {
+        "string": "予期しないエラーが発生しました"
+    },
+    "assets_in_actions.fragments_section.error.title": {
+        "string": "問題が発生しました"
+    },
+    "assets_in_actions.fragments_section.no_results.title": {
+        "string": "「{query}」に一致する結果はありません"
+    },
+    "assets_in_actions.fragments_section.title": {
+        "string": "他のデザイン"
+    },
+    "assets_in_actions.no_results.title": {
+        "string": "「{query}」に一致する結果はありません"
+    },
+    "assets_in_actions.see_more_button": {
+        "string": "さらに表示"
+    },
+    "auth.account-picker": {
+        "string": "アクセス権をリクエストするアカウントを選択します"
+    },
+    "auth.account-picker-join-text": {
+        "string": "{destination}に参加するアカウントを選択"
+    },
+    "auth.account-picker-open-text": {
+        "string": "{destination}を開くアカウントを選択"
+    },
+    "auth.add-another-account-with-link": {
+        "string": "使いたいアカウントが表示されない場合は、{addAnotherLink}できます。"
+    },
+    "auth.add-another-no-punctuation": {
+        "string": "別のアカウントを追加"
+    },
+    "auth.choose-account-to-add-to-figma-for-vs-code": {
+        "string": "VS Code連携に追加するアカウントを選択します"
+    },
+    "auth.choose-account-to-add-to-specific-app": {
+        "string": "Figma {appDescriptor}アプリに追加するアカウントを選択"
+    },
+    "auth.claim-invite.header": {
+        "string": "ログインまたはアカウントを作成してコラボレート"
+    },
+    "auth.claim-invite.header-file": {
+        "string": "ログインまたはアカウントを作成してこのファイルでコラボレート"
+    },
+    "auth.continue-with-the-specific-app": {
+        "string": "{appDescriptor}アプリを続行"
+    },
+    "auth.cookies_are_disabled": {
+        "string": "Cookieは無効になっています"
+    },
+    "auth.cookies_are_required_to_use_figma": {
+        "string": "ログインしてFigmaをご利用になるにはCookieが必要です。お使いのブラウザの設定でCookieを有効にして、ページを更新してください。"
+    },
+    "auth.create-one": {
+        "string": "作成する"
+    },
+    "auth.create_an_account_to_collaborate_on_display_name": {
+        "string": "{displayName}でコラボレーションするにはアカウントを作成してください"
+    },
+    "auth.create_an_account_to_collaborate_on_this_file": {
+        "string": "このファイルでコラボレーションするにはアカウントを作成してください"
+    },
+    "auth.default-error": {
+        "string": "エラーが発生しました"
+    },
+    "auth.desktop-app": {
+        "string": "デスクトップ"
+    },
+    "auth.document_title.login_figma": {
+        "string": "ログイン | Figma"
+    }
+}

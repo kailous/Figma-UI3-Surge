@@ -1,0 +1,152 @@
+{
+    "community.publishing.is_under_review.file": {
+        "string": "ファイルは現在レビュー中です"
+    },
+    "community.publishing.is_under_review.plugin": {
+        "string": "プラグインは現在レビュー中です"
+    },
+    "community.publishing.is_under_review.widget": {
+        "string": "ウィジェットは現在レビュー中です"
+    },
+    "community.publishing.last_published_on_date_time": {
+        "string": "{dateTime}に最後に公開されました"
+    },
+    "community.publishing.license": {
+        "string": "ライセンス"
+    },
+    "community.publishing.made_for_all_product_types": {
+        "string": "すべての製品とモードに対応"
+    },
+    "community.publishing.made_for_figjam": {
+        "string": "FigJam用に作成"
+    },
+    "community.publishing.made_for_figjam_and_dev": {
+        "string": "FigJam+開発モードに対応"
+    },
+    "community.publishing.made_for_figma_design": {
+        "string": "Figmaデザイン用に作成"
+    },
+    "community.publishing.made_for_figma_design_and_figjam": {
+        "string": "Figmaデザイン+FigJam用に作成"
+    },
+    "community.publishing.made_for_figma_design_and_inspect": {
+        "string": "Figmaデザイン+開発モード用に作成"
+    },
+    "community.publishing.made_for_inspect": {
+        "string": "開発モード用に作成"
+    },
+    "community.publishing.name_must_be_4_characters_long": {
+        "string": "名前は4文字以上にしなければなりません。"
+    },
+    "community.publishing.name_must_be_at_most_100_characters_long": {
+        "string": "名前は100文字以下にする必要があります"
+    },
+    "community.publishing.name_must_not_be_empty": {
+        "string": "名前は空にできません"
+    },
+    "community.publishing.need_to_accept_your_invitation": {
+        "string": "作成者をリソースページに追加するには、その作成者が招待を受諾する必要があります。"
+    },
+    "community.publishing.network": {
+        "string": "ネットワーク"
+    },
+    "community.publishing.new_price_will_appear_within_an_hour_on_Community": {
+        "string": "新しい価格が1時間以内にコミュニティに表示されます"
+    },
+    "community.publishing.number_of_resources": {
+        "string": "{num, plural, other {{num}個のリソース}}"
+    },
+    "community.publishing.org_name": {
+        "string": "{org} (組織)"
+    },
+    "community.publishing.our_team_will_review": {
+        "string": "チームはあなたのリソースを3～7営業日以内にレビューします。"
+    },
+    "community.publishing.paid_resource_success_info": {
+        "string": "問題がない場合は、コミュニティに公開されます。何かあればご連絡いたします。"
+    },
+    "community.publishing.payee_label": {
+        "string": "受取人"
+    },
+    "community.publishing.payee_name_annotation": {
+        "string": "(オーナー)"
+    },
+    "community.publishing.payee_name_annotation_for_current_owner": {
+        "string": "(あなた)"
+    },
+    "community.publishing.people_given_update_permissions_are_not_visible_to_the_public": {
+        "string": "招待する全員がこのリソースへの更新を公開できます。誰かを作成者として認める場合は、その人の名前またはハンドルを{createdByLink}に追加します。"
+    },
+    "community.publishing.permissions.org_private_info_text": {
+        "string": "チームのメンバーやほかの開発者など、このリソースを更新できる全員"
+    },
+    "community.publishing.permissions_tab": {
+        "string": "権限"
+    },
+    "community.publishing.playground_file": {
+        "string": "プレイグラウンドファイル"
+    },
+    "community.publishing.playground_file.dropdown.open_file": {
+        "string": "ソースファイルを開く"
+    },
+    "community.publishing.playground_file.dropdown.remove": {
+        "string": "削除"
+    },
+    "community.publishing.playground_file.dropdown.update_to_latest_version": {
+        "string": "最新バージョンに更新"
+    },
+    "community.publishing.playground_file.figjam": {
+        "string": "FigJam"
+    },
+    "community.publishing.playground_file.figma": {
+        "string": "Figma"
+    },
+    "community.publishing.playground_file.tooltip": {
+        "string": "プレイグラウンドファイルのオプション"
+    },
+    "community.publishing.playground_file.updated_version_confirmation": {
+        "string": "最新版にアップデート済み • {undoButton}"
+    },
+    "community.publishing.playground_file_add_button": {
+        "string": "追加"
+    },
+    "community.publishing.playground_file_for_plugin": {
+        "string": "プラグインの機能を示すプレイグラウンドファイルを追加します"
+    },
+    "community.publishing.playground_file_for_widget": {
+        "string": "ウィジェットの機能を示すプレイグラウンドファイルを追加します"
+    },
+    "community.publishing.please_add_this_to_your_manifest": {
+        "string": "これを{filename}ファイルに追加してください"
+    },
+    "community.publishing.please_add_this_to_your_manifest_period": {
+        "string": "これを{filename}ファイルに追加してください。"
+    },
+    "community.publishing.please_enable_two_factor_authentication_to_publish_this_plugin": {
+        "string": "2要素認証を有効にして、このプラグインを公開してください"
+    },
+    "community.publishing.please_enable_two_factor_authentication_to_publish_this_widget": {
+        "string": "2要素認証を有効にして、このウィジェットを公開してください"
+    },
+    "community.publishing.please_verify_your_email_address_to_publish": {
+        "string": "メールアドレスを確認して公開してください"
+    },
+    "community.publishing.plugin_missing_network_access": {
+        "string": "この省略可能なフィールドを{filename}ファイルに追加してテストしてください。「...」をプラグインのアクセス先のドメインに置き換えます。プラグインにネットワークアクセスが不要な場合は、「none」に置き換えます。"
+    },
+    "community.publishing.plugin_playground_file_editor_type_error": {
+        "string": "このプラグインのプレイグラウンドファイルは{editorType}にする必要があります"
+    },
+    "community.publishing.plugin_playground_file_help_text_new": {
+        "string": "プレイグラウンドファイルで皆にリソースを試してもらいましょう。リソースは、独自に作成することも、{useTemplateLink}"
+    },
+    "community.publishing.plugin_tagline_input_placeholder": {
+        "string": "プラグインの短い説明を入力"
+    },
+    "community.publishing.preview_as": {
+        "string": "プレビューの方法"
+    },
+    "community.publishing.price_is_required_for_paid_resources": {
+        "string": "有料リソースの場合は金額を入力してください"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "org_self_serve.create_team_step.next_select_team": {
+        "string": "次: チームを選択"
+    },
+    "org_self_serve.details_step.company_display_name": {
+        "string": "会社の表示名"
+    },
+    "org_self_serve.details_step.company_display_name__different_from_company_name_sub_text": {
+        "string": "Figmaでの名称を表示(商号が異なる場合)"
+    },
+    "org_self_serve.details_step.company_display_name_sub_text": {
+        "string": "使用したい会社の表示名(上記と異なる場合)"
+    },
+    "org_self_serve.details_step.email_address": {
+        "string": "メールアドレス"
+    },
+    "org_self_serve.details_step.legal_company_name": {
+        "string": "法人名"
+    },
+    "org_self_serve.details_step.next_organization_details": {
+        "string": "次: 組織の詳細情報"
+    },
+    "org_self_serve.details_step.tell_us_about_your_organization": {
+        "string": "組織に関する情報を入力してください"
+    },
+    "org_self_serve.details_step.your_full_name": {
+        "string": "氏名"
+    },
+    "org_self_serve.headers.add_team_members": {
+        "string": "チームメンバーを追加"
+    },
+    "org_self_serve.headers.cancel": {
+        "string": "キャンセル"
+    },
+    "org_self_serve.headers.choose_plan": {
+        "string": "プランを選ぶ"
+    },
+    "org_self_serve.headers.create_team": {
+        "string": "チームを作成"
+    },
+    "org_self_serve.headers.organization_details": {
+        "string": "組織の詳細情報"
+    },
+    "org_self_serve.headers.payment": {
+        "string": "支払い"
+    },
+    "org_self_serve.headers.review": {
+        "string": "確認"
+    },
+    "org_self_serve.headers.teams_to_upgrade": {
+        "string": "アップグレードするチーム"
+    },
+    "org_self_serve.headers.total_fig_jam_editor_seats_count.seat_rename": {
+        "string": "{totalFigJamEditorSeatsCount, plural, other {{totalFigJamEditorSeatsCount}人分のFigJamシート}}"
+    },
+    "org_self_serve.modals.existing_org_admin.contact_sales": {
+        "string": "営業担当にお問い合わせください"
+    },
+    "org_self_serve.modals.existing_org_admin.figma_organization_already_purchased": {
+        "string": "Figmaビジネスは購入済みです"
+    },
+    "org_self_serve.modals.existing_org_admin.go_to_the_file_browser": {
+        "string": "ファイルブラウザへ移動"
+    },
+    "org_self_serve.modals.existing_org_admin.if_you_need_another_organization": {
+        "string": "既にFigmaビジネスプランの管理者になっています。別のビジネスプランが必要な場合は、{contactSales}してください。"
+    },
+    "org_self_serve.modals.invalid_email.change_email_address_to_proceed": {
+        "string": "Figmaビジネスへのアップグレードを続行するには、勤務先のメールアドレスを使用する必要があります。続行するには、アカウントのメールアドレスを変更してください。"
+    },
+    "org_self_serve.modals.invalid_email.figma_organization_only_allows_work_emails": {
+        "string": "Figmaビジネスでは勤務先のメールアドレスだけを使用できます"
+    },
+    "org_self_serve.modals.invalid_email.go_to_the_file_browser": {
+        "string": "ファイルブラウザへ移動"
+    },
+    "org_self_serve.modals.true_up_edu.figma_grows_with_your_team": {
+        "string": "Figmaはお客様のチームの規模に合わせて拡大できます"
+    },
+    "org_self_serve.modals.true_up_edu.members_can_add_new_editors.seat_rename": {
+        "string": "組織のメンバーは、コラボレーションや共同編集が必要になった時点でいつでもユーザーをアップグレードできます。トゥルーアップまでは、新規追加のフルシートは無料です。組織で今後も維持するフルシートについてのみ請求が発生し、請求額は年間契約の残り期間での比例配分額になります。"
+    },
+    "org_self_serve.modals.true_up_edu.see_full_details": {
+        "string": "詳しい情報を読む"
+    },
+    "org_self_serve.modals.true_up_edu.true_up_explanation.seat_rename": {
+        "string": "トゥルーアップは、組織の作成日から3か月ごとに実施されます。トゥルーアップ前に、組織に新しく追加された有料シートの確認をお願いする通知を数回お送りします。これにより、シートを維持するかどうかをご判断いただけます。{seeFullDetails}"
+    },
+    "org_self_serve.modals.true_up_edu.what_to_expect_at_true_up": {
+        "string": "トゥルーアップで行う作業"
+    },
+    "org_self_serve.payment_step.different_shipping_address": {
+        "string": "配送先住所が異なる"
+    },
+    "org_self_serve.payment_step.enter_your_payment_details": {
+        "string": "支払い情報を入力"
+    },
+    "org_self_serve.payment_step.name_on_payment_method": {
+        "string": "支払い方法の名称"
+    },
+    "org_self_serve.payment_step.name_on_payment_method_is_required": {
+        "string": "支払い方法の名称は必須です。"
+    },
+    "org_self_serve.payment_step.name_on_payment_method_label": {
+        "string": "支払い方法の名称"
+    },
+    "org_self_serve.payment_step.next_payment": {
+        "string": "次へ: 支払い"
+    },
+    "org_self_serve.payment_step.sorry_please_wait": {
+        "string": "申し訳ございません。しばらくお待ちください。"
+    },
+    "org_self_serve.payment_step.there_was_an_error_processing_your_payment_please_try_again": {
+        "string": "支払いの処理中にエラーが発生しました。もう一度お試しください。"
+    },
+    "org_self_serve.purchase_summary.added_empty_design_seats": {
+        "string": "{minCount, plural, other {ビジネスプランのチームのフルFigmaデザインシートは、{minCount}シートからになります。}}"
+    },
+    "org_self_serve.purchase_summary.added_empty_seats": {
+        "string": "{minCount, plural, other {ビジネスプランのチームは、{minCount}シートからになります。}}"
+    },
+    "org_self_serve.purchase_summary.contact_our_sales_team": {
+        "string": "セールスチームにお問い合わせください"
+    },
+    "org_self_serve.purchase_summary.currency_text": {
+        "string": "通貨"
+    },
+    "org_self_serve.purchase_summary.domain": {
+        "string": "ドメイン: {domain}"
+    },
+    "org_self_serve.purchase_summary.empty_design_seats_included": {
+        "string": "{numOfEmptySeats, plural, other {割り当て可能な{numOfEmptySeats}シートが含まれています。}}"
+    },
+    "org_self_serve.purchase_summary.empty_seats_included": {
+        "string": "{numOfEmptySeats, plural, other {ご契約の{seatsText}のシート数は{numOfSeats}です。割り当て可能な{numOfEmptySeats}シートが含まれています。}}"
+    },
+    "org_self_serve.purchase_summary.guest": {
+        "string": "ゲスト"
+    },
+    "org_self_serve.purchase_summary.have_questions": {
+        "string": "ご質問がありましたら、{contactSales}してください"
+    },
+    "org_self_serve.purchase_summary.none": {
+        "string": "なし"
+    },
+    "org_self_serve.purchase_summary.num_empty_seats": {
+        "string": "{numEmptySeats, plural, other {空のシート数: {numEmptySeats}}}"
+    },
+    "org_self_serve.purchase_summary.organization_plan": {
+        "string": "ビジネスプラン"
+    }
+}

@@ -1,0 +1,152 @@
+{
+    "variables.mode_properties_panel.local_variables.subheading": {
+        "string": "ローカルバリアブル"
+    },
+    "variables.mode_properties_panel.select.option.auto": {
+        "string": "自動"
+    },
+    "variables.mode_properties_panel.select.option.auto_with_name": {
+        "string": "自動({modeName})"
+    },
+    "variables.mode_properties_panel.select.option.default_with_name": {
+        "string": "デフォルト({modeName})"
+    },
+    "variables.mode_properties_panel.select.option.deleted": {
+        "string": "削除されたモード"
+    },
+    "variables.mode_properties_panel.select.option.mixed": {
+        "string": "混合"
+    },
+    "variables.mode_properties_panel.used_variables.subheading": {
+        "string": "使用バリアブル"
+    },
+    "variables.modes.option.learn_more": {
+        "string": "詳細情報"
+    },
+    "variables.modes.option.review_updates": {
+        "string": "更新を確認"
+    },
+    "variables.scopes.all_fills": {
+        "string": "塗り"
+    },
+    "variables.scopes.all_properties": {
+        "string": "サポートされているプロパティのすべてで表示"
+    },
+    "variables.scopes.all_properties_color_description": {
+        "string": "「すべてで表示」を選択すると、今後公開されるものも含め、すべてのカラープロパティでこのバリアブルが表示されます。"
+    },
+    "variables.scopes.all_properties_number_description": {
+        "string": "「すべてで表示」を選択すると、今後公開されるものを含め、すべての数字プロパティでこのバリアブルが表示されます。"
+    },
+    "variables.scopes.all_properties_string_description": {
+        "string": "「すべてで表示」を選択すると、今後公開されるものを含め、すべての文字列プロパティにこのバリアブルが表示されます"
+    },
+    "variables.scopes.auto_layout": {
+        "string": "(オートレイアウト)"
+    },
+    "variables.scopes.color_scoping_header": {
+        "string": "カラーの適用範囲"
+    },
+    "variables.scopes.corner_radius": {
+        "string": "角の半径"
+    },
+    "variables.scopes.effects": {
+        "string": "エフェクト"
+    },
+    "variables.scopes.font_family": {
+        "string": "フォントファミリー"
+    },
+    "variables.scopes.font_size": {
+        "string": "フォントサイズ"
+    },
+    "variables.scopes.font_weight": {
+        "string": "フォントの太さ"
+    },
+    "variables.scopes.font_weight_or_style": {
+        "string": "フォントの太さまたはスタイル"
+    },
+    "variables.scopes.frame_fill": {
+        "string": "フレーム"
+    },
+    "variables.scopes.gap": {
+        "string": "間隔"
+    },
+    "variables.scopes.layer_opacity": {
+        "string": "レイヤー不透明度"
+    },
+    "variables.scopes.letter_spacing": {
+        "string": "文字間隔"
+    },
+    "variables.scopes.line_height": {
+        "string": "行間"
+    },
+    "variables.scopes.number_scoping_header": {
+        "string": "数字の適用範囲"
+    },
+    "variables.scopes.paragraph_indent": {
+        "string": "段落インデント"
+    },
+    "variables.scopes.paragraph_spacing": {
+        "string": "段落間隔"
+    },
+    "variables.scopes.shape_fill": {
+        "string": "シェイプ"
+    },
+    "variables.scopes.string_scoping_header": {
+        "string": "文字列のスコープ設定"
+    },
+    "variables.scopes.stroke": {
+        "string": "線"
+    },
+    "variables.scopes.text_content": {
+        "string": "テキストコンテンツ"
+    },
+    "variables.scopes.text_fill": {
+        "string": "テキスト"
+    },
+    "variables.scopes.width_height": {
+        "string": "幅と高さ"
+    },
+    "variables.type.boolean": {
+        "string": "ブーリアン"
+    },
+    "variables.type.color": {
+        "string": "カラー"
+    },
+    "variables.type.font_style": {
+        "string": "フォントスタイル"
+    },
+    "variables.type.map": {
+        "string": "マップ"
+    },
+    "variables.type.number": {
+        "string": "数値"
+    },
+    "variables.type.string": {
+        "string": "文字列"
+    },
+    "variables.type.string.default_value": {
+        "string": "文字列値"
+    },
+    "variables.type.symbolid": {
+        "string": "コンポーネント"
+    },
+    "variables.type.text_data": {
+        "string": "テキストデータ"
+    },
+    "variables.values.boolean.false": {
+        "string": "False"
+    },
+    "variables.values.boolean.true": {
+        "string": "True"
+    },
+    "variables.variable_collection": {
+        "string": "バリアブルコレクション"
+    },
+    "variables.variable_collection_default_name": {
+        "string": "コレクション"
+    },
+    "variables.variable_collection_extension_default_name": {
+        "string": "拡張コレクション"
+    }
+}

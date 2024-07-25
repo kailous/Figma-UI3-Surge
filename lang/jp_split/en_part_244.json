@@ -1,0 +1,152 @@
+{
+    "payments.check_out_our_paid_plans": {
+        "string": "有料プランを確認する"
+    },
+    "payments.complete_payment": {
+        "string": "支払いを完了する"
+    },
+    "payments.complete_payment_cta": {
+        "string": "支払いを確認"
+    },
+    "payments.complete_team_payment_description": {
+        "string": "追加の確認が必要なため、お支払いはまだ完了していません。24時間以内に確認して、{teamName}のアップグレードを終了してください。"
+    },
+    "payments.complete_team_renewal_payment_description": {
+        "string": "追加の確認が必要なため、お支払いはまだ完了していません。確認を行い、更新を完了してください。"
+    },
+    "payments.contact_admin": {
+        "string": "管理者に連絡して支払い情報を更新する"
+    },
+    "payments.contact_admin_for_details": {
+        "string": "詳細についてはチームの管理者にお問い合わせください。"
+    },
+    "payments.contact_support": {
+        "string": "サポートにお問い合わせください"
+    },
+    "payments.errors.confirm_setup_error": {
+        "string": "支払い方法を保存できません。再読み込みしてからもう一度お試しください。"
+    },
+    "payments.errors.currency_ip_mismatch_error": {
+        "string": "支払い方法の住所の国が所在地と異なります。別の支払い方法を使用してください。"
+    },
+    "payments.errors.currency_mismatch_error": {
+        "string": "支払い方法の住所の国は{selected_currency}でのお支払いができません。別の支払い方法を使用するか、米ドルに切り替えてください。"
+    },
+    "payments.errors.currency_mismatch_with_country_error": {
+        "string": "支払い方法に設定されている住所の国では、{selected_currency}でのお支払いができません。別の支払い方法をご利用ください。"
+    },
+    "payments.errors.error_loading_payment_form": {
+        "string": "支払いフォームの読み込み中に問題が発生しました。更新してからもう一度お試しください。"
+    },
+    "payments.errors.estimate_calculation_error": {
+        "string": "見積総額の計算中に問題が発生しました。もう一度お試しください。"
+    },
+    "payments.file_limit_cancel": {
+        "string": "キャンセル"
+    },
+    "payments.file_limit_figjam": {
+        "string": "{figjamFiles}個のFigJamファイル"
+    },
+    "payments.file_limit_figma": {
+        "string": "{figmaFiles}個のFigma ファイル"
+    },
+    "payments.file_limit_paywall_cta": {
+        "string": "必要に応じて、代わりに{createThisFile}できます。または{checkOutPaidPlans}してください。"
+    },
+    "payments.file_limit_paywall_cta_check_out_paid_plans": {
+        "string": "有料プランを確認する"
+    },
+    "payments.file_limit_paywall_cta_create_this_file": {
+        "string": "ドラフトにこのファイルを作成する"
+    },
+    "payments.file_limit_paywall_header_figjam": {
+        "string": "{maxFreeFiles, plural, other {{teamName}にはFigJamファイルがすでに{maxFreeFiles}ファイルあります。}}"
+    },
+    "payments.file_limit_paywall_header_figma": {
+        "string": "{maxFreeFiles, plural, other {{teamName}にはFigmaファイルがすでに{maxFreeFiles}ファイルあります}}"
+    },
+    "payments.file_limit_paywall_text_figjam": {
+        "string": "{maxFreeFiles, plural, other {スタータープランでチームとコラボレートできるFigJamファイルは{maxFreeFiles}ファイルだけです。}}"
+    },
+    "payments.file_limit_paywall_text_figma": {
+        "string": "{maxFreeFiles, plural, other { スタータープランでチームとコラボレートできるFigmaファイルは{maxFreeFiles}ファイルだけです。}}"
+    },
+    "payments.file_limit_unified": {
+        "string": "{figmaFiles}個のFigmaファイルと{figjamFiles}個のFigJamファイル"
+    },
+    "payments.file_limit_upgrade": {
+        "string": "アップグレード"
+    },
+    "payments.folder_locked": {
+        "string": "フォルダはロックされています"
+    },
+    "payments.folder_locked_description": {
+        "string": "{projectType}はスターターチームでは使用できません。引き続き、このプロジェクトでファイルを編集するには、{teamName}にアップグレードしてください。"
+    },
+    "payments.got_it": {
+        "string": "了解"
+    },
+    "payments.invalid_billing_contact_error": {
+        "string": "請求連絡先が無効です"
+    },
+    "payments.invite_only_projects": {
+        "string": "招待限定プロジェクト"
+    },
+    "payments.learn_more": {
+        "string": "詳細情報"
+    },
+    "payments.locked": {
+        "string": "このチームはロックされています。"
+    },
+    "payments.locked_description": {
+        "string": "{teamName}内のファイルの編集を続けるには、支払い方法を更新してください。"
+    },
+    "payments.manage_plan": {
+        "string": "プランを管理"
+    },
+    "payments.missing_billing_contact_error": {
+        "string": "請求連絡先が1つ以上必要です"
+    },
+    "payments.no_monthly_sub_over_editor_limit.seat_rename": {
+        "string": "Figmaサブスクリプションがキャンセルされた後、チームが有料シートを追加しました。アクセスを復元するには、サブスクリプションを再度有効にするか、シートをダウングレードするようにチーム管理者に依頼してください。"
+    },
+    "payments.no_monthly_sub_over_editor_limit_admin.seat_rename": {
+        "string": "Figmaサブスクリプションをキャンセルした後に、チームが有料シートを追加しました。アクセスを復元するには、サブスクリプションを再度有効にするか、シートをダウングレードしてください。サポートが必要ですか? {contactSupport}"
+    },
+    "payments.org_change_billing_contact": {
+        "string": "請求連絡先を管理"
+    },
+    "payments.org_enter_an_email_address": {
+        "string": "請求関連のメール(請求書、更新のリマインダー、お支払いの確認など)を他の人やメールアドレスにも送ることができます。管理者は、これらのメールを常に受け取ります。"
+    },
+    "payments.org_past_due_on_payment": {
+        "string": "この請求期間のお支払いをお客様の組織から受けていません。{orgName}に引き続きアクセスするには、{invoice}のお支払いを完了してください。"
+    },
+    "payments.org_past_due_on_payment_invoiced": {
+        "string": "この請求期間のお支払いをお客様の組織から受けていません。{orgName}に引き続きアクセスするには、{email}まで早急にご連絡ください。"
+    },
+    "payments.outstanding_invoice": {
+        "string": "未払いの請求書"
+    },
+    "payments.payment_failed": {
+        "string": "お支払いが失敗しました"
+    },
+    "payments.payment_failed_explanation": {
+        "string": "前回の請求は失敗しました。支払い方法を早急に更新してください。請求が3回失敗すると、ファイルの編集がロックされます。"
+    },
+    "payments.payment_not_received": {
+        "string": "お支払いを完了いただいていません"
+    },
+    "payments.pending_subscription_modal_description": {
+        "string": "確認が終わったら、アップグレードされたチームにアクセスできるように、このページを更新してください。"
+    },
+    "payments.pending_subscription_modal_header": {
+        "string": "お支払いの確認を行っています"
+    },
+    "payments.please_reach_out_to_org_admins": {
+        "string": "{numAdmins, plural, other {{orgName}の請求に関して問題があります。詳細については、組織管理者{admins}までお問合せください。}}"
+    },
+    "payments.pro_change_billing_contact": {
+        "string": "請求連絡先を更新"
+    }
+}

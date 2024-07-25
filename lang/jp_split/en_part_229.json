@@ -1,0 +1,152 @@
+{
+    "settings_tab.modify_community_handle_description": {
+        "string": "組織のハンドル"
+    },
+    "settings_tab.modify_community_handle_label": {
+        "string": "組織の公開プロフィールハンドルを追加または変更"
+    },
+    "settings_tab.network_access_restriction_label": {
+        "string": "このネットワークでの個人アクセスを制限"
+    },
+    "settings_tab.password_controls_settings_description": {
+        "string": "ファイルに追加できるパスワードのタイプを選択します"
+    },
+    "settings_tab.password_controls_settings_label": {
+        "string": "パスワード保護オプション"
+    },
+    "settings_tab.paste_plugin_link": {
+        "string": "{orgLink}または{communityLink}から、プラグインのリソースページへのリンクを貼り付けます。"
+    },
+    "settings_tab.pinned_plugins_add": {
+        "string": "追加"
+    },
+    "settings_tab.pinned_plugins_add_label": {
+        "string": "ピン留めされたプラグインを追加"
+    },
+    "settings_tab.pinned_plugins_description": {
+        "string": "プラグインをピン留めしてインスペクトパネルの上部に表示します。"
+    },
+    "settings_tab.pinned_plugins_dowgrade_warning.note": {
+        "string": "注:"
+    },
+    "settings_tab.pinned_plugins_downgrade_warning": {
+        "string": "{noteLabel}ピン留めされたプラグインは、エンタープライズプランの機能になりました。下のリストにあるプラグインの順序を変更することやプラグインを削除することはできますが、プラグインを追加するにはプランのアップグレードが必要です。"
+    },
+    "settings_tab.pinned_plugins_inspect": {
+        "string": "インスペクト"
+    },
+    "settings_tab.pinned_plugins_invalid_url": {
+        "string": "これは有効な開発モードプラグインではありません。"
+    },
+    "settings_tab.pinned_plugins_invalid_url_codegen": {
+        "string": "コード生成プラグインはピン留めできません。"
+    },
+    "settings_tab.pinned_plugins_label": {
+        "string": "ピン留めしたプラグイン"
+    },
+    "settings_tab.pinned_plugins_plugins": {
+        "string": "プラグイン"
+    },
+    "settings_tab.pinned_plugins_remove": {
+        "string": "削除"
+    },
+    "settings_tab.plugin_approval_description": {
+        "string": "管理者によるコミュニティのプラグインの承認を必須にします"
+    },
+    "settings_tab.plugin_approval_label": {
+        "string": "プラグインの承認"
+    },
+    "settings_tab.plugin_invalid_err": {
+        "string": "無効なプラグインを取得しました"
+    },
+    "settings_tab.plugin_not_autorun_err": {
+        "string": "インスペクトパネルでプラグインを自動実行することはできません。"
+    },
+    "settings_tab.plugin_not_codegen_err": {
+        "string": "プラグインがコード生成をサポートしていません"
+    },
+    "settings_tab.plugin_not_enterprise_err": {
+        "string": "組織はエンタープライズプランではありません"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_links_description": {
+        "string": "公開リンクの共有をオフにすると、自分の組織のメンバーだけがFigmaデザインファイルのリンクにアクセスできます。パスワードを要求することで、より安全に公開リンクを共有できます。"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_links_submit": {
+        "string": "公開リンクを無効にする"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_links_title": {
+        "string": "公開リンクをオフにしますか?"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figjam": {
+        "string": "FigJamでは、Figmaアカウントを持っている人だけがリンクにアクセスできます"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figma_design": {
+        "string": "Figmaデザインでは、組織のメンバーだけがリンクにアクセスできます"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.main": {
+        "string": "FigmaデザインとFigJamの公開共有をオフにすると、特定のオーディエンスにのみリンクを共有できます。"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_submit": {
+        "string": "公開共有を無効にする"
+    },
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_title": {
+        "string": "公開共有をオフにしますか?"
+    },
+    "settings_tab.public_sharing.modal.open_sessions_note": {
+        "string": "注: オープンセッションには、独自の有効期間は設定されません。また、パスワードが設定されないセッションもあります。必要に応じて、オープンセッションをオフにしてください。"
+    },
+    "settings_tab.public_sharing.remove_custom_workspace_settings": {
+        "string": "カスタム設定を削除しますか?"
+    },
+    "settings_tab.public_sharing.workspace_public_sharing_label": {
+        "string": "公開リンク共有を許可"
+    },
+    "settings_tab.public_sharing.workspace_public_sharing_subtext": {
+        "string": "このワークスペースのコンテンツを公開して共有するかどうかを選択します。"
+    },
+    "settings_tab.public_sharing_description": {
+        "string": "メンバーが組織外でリンクを共有できるようにします"
+    },
+    "settings_tab.public_sharing_title": {
+        "string": "公開共有"
+    },
+    "settings_tab.saml_description": {
+        "string": "組織のSAML SSOを有効にして設定します"
+    },
+    "settings_tab.saml_label": {
+        "string": "SAML SSO"
+    },
+    "settings_tab.scim_description": {
+        "string": "組織のSCIMを有効にして設定します"
+    },
+    "settings_tab.scim_group_description": {
+        "string": "ライセンスの管理、請求グループとワークスペースのメンバーの割り当てに、IDPを使用します"
+    },
+    "settings_tab.scim_label": {
+        "string": "SCIMプロビジョニング"
+    },
+    "settings_tab.scim_metadata_modal.change_which_scim_metadata_shows_on_the_members_tab": {
+        "string": "[メンバー]タブに表示するSCIMメタデータを変更します"
+    },
+    "settings_tab.scim_metadata_modal.done": {
+        "string": "完了"
+    },
+    "settings_tab.scim_metadata_modal.member_metadata": {
+        "string": "メンバーのメタデータ"
+    },
+    "settings_tab.section_header.ai_beta": {
+        "string": "AIベータ版"
+    },
+    "settings_tab.section_header.data": {
+        "string": "データ"
+    },
+    "settings_tab.section_header.domains": {
+        "string": "ドメイン"
+    },
+    "settings_tab.section_header.extensions": {
+        "string": "拡張機能"
+    },
+    "settings_tab.section_header.external_access": {
+        "string": "外部アクセス"
+    }
+}

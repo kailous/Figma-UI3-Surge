@@ -1,0 +1,152 @@
+{
+    "magic_link.remove": {
+        "string": "削除"
+    },
+    "magic_link.rename_layer_suggestion": {
+        "string": "最初にこのレイヤーに名前を付けます"
+    },
+    "magic_link.rename_layers_suggestion": {
+        "string": "最初にこれらのレイヤーに名前を付けます"
+    },
+    "magic_link.running": {
+        "string": "実行中..."
+    },
+    "magic_link.select_a_set_of_frames": {
+        "string": "フレームのセットを選択してください"
+    },
+    "magic_link.select_a_set_of_layers": {
+        "string": "レイヤーのセットを選択してください"
+    },
+    "magic_link.tlf_selection_too_large": {
+        "string": "選択するフレームは10個までです"
+    },
+    "manage_memory_modal.imported_components": {
+        "string": "インポートされたコンポーネント"
+    },
+    "manage_memory_modal.manage_memory_button": {
+        "string": "メモリーを管理"
+    },
+    "manage_memory_modal.manage_memory_modal_title": {
+        "string": "メモリーを管理"
+    },
+    "manage_memory_modal.page_content": {
+        "string": "ページコンテンツ"
+    },
+    "manage_memory_modal.show_memory_in_layers_panel": {
+        "string": "メモリーの使用率をレイヤーパネルに表示"
+    },
+    "manage_memory_modal.show_memory_in_layers_panel_warning": {
+        "string": "表示すると、ファイルの速度が低下する場合があります。"
+    },
+    "manage_memory_modal.total_layers": {
+        "string": "レイヤーの総数"
+    },
+    "manage_memory_modal.total_memory_used": {
+        "string": "メモリー使用量の合計"
+    },
+    "memory_warning_banner.100_of_memory_used": {
+        "string": "メモリー使用率が100%です"
+    },
+    "memory_warning_banner.this_file_has_run_out_of_browser_memory": {
+        "string": "このファイルに使用できるブラウザメモリーがありません。"
+    },
+    "memory_warning_modal.desktop_app_download_link": {
+        "string": "Figmaデスクトップアプリ"
+    },
+    "memory_warning_modal.help_center": {
+        "string": "ヘルプセンター記事"
+    },
+    "memory_warning_modal.help_center_resource_and_link": {
+        "string": "その他のヒントについては、{helpCenterLink}をご覧ください。"
+    },
+    "memory_warning_modal.learn_more": {
+        "string": "詳細情報"
+    },
+    "memory_warning_modal.memory_reduction_tips_break_files": {
+        "string": "数ページを新しいファイルに移動するか、大きなライブラリを複数の小さなライブラリに分割します。"
+    },
+    "memory_warning_modal.memory_reduction_tips_break_files_header": {
+        "string": "サイズの大きなファイルを複数の小さなファイルに分割します。"
+    },
+    "memory_warning_modal.memory_reduction_tips_clean_layers": {
+        "string": "特にコンポーネント内の必要のない非表示のレイヤーを削除し、ネストしたレイヤーを減らします。"
+    },
+    "memory_warning_modal.memory_reduction_tips_clean_layers_header": {
+        "string": "レイヤーとコンポーネントを整理します。"
+    },
+    "memory_warning_modal.memory_reduction_tips_flatten_shapes": {
+        "string": "これによりレイヤーの数が減り、結果としてメモリー使用量が減ります。"
+    },
+    "memory_warning_modal.memory_reduction_tips_flatten_shapes_header": {
+        "string": "複雑なSVGやベクターシェイプをシンプルにします。"
+    },
+    "memory_warning_modal.memory_reduction_tips_modal_title": {
+        "string": "メモリー使用量を減らすためのヒント"
+    },
+    "memory_warning_modal.memory_reduction_tips_trim_components": {
+        "string": "バリアントをコンポーネントプロパティに置き換えます。"
+    },
+    "memory_warning_modal.memory_reduction_tips_trim_components_header": {
+        "string": "コンポーネントのバリアントの数を減らします。"
+    },
+    "memory_warning_modal.old_browser_out_of_memory_modal_content": {
+        "string": "作業内容は失われていませんが、メモリーの使用量が減るまでファイルを編集することはできません。"
+    },
+    "memory_warning_modal.old_browser_out_of_memory_modal_content_cta_and_download_desktop": {
+        "string": "このファイルのコンテンツを復元するには、ブラウザを最新版にアップデートするか、このファイルを{desktopAppLink}で開いてみてください。"
+    },
+    "memory_warning_modal.old_browser_out_of_memory_modal_content_cta_and_open_in_desktop": {
+        "string": "このファイルのコンテンツを復元するには、ブラウザーを最新版にアップデートするか、ファイルをFigmaデスクトップアプリで開いてみてください。"
+    },
+    "memory_warning_modal.old_browser_out_of_memory_modal_title": {
+        "string": "このファイルに使用できるブラウザメモリーがありません"
+    },
+    "memory_warning_modal.old_browser_primary_button_cta": {
+        "string": "ブラウザーをアップグレード"
+    },
+    "memory_warning_modal.open_in_desktop": {
+        "string": "デスクトップアプリで開く"
+    },
+    "memory_warning_modal.recovery_mode_button": {
+        "string": "復旧モードで開く"
+    },
+    "memory_warning_modal.recovery_mode_modal_content": {
+        "string": "復元モードでは、メモリーの使用を減らしてファイルを安全に使い続けるためのツールやチップを利用できます。"
+    },
+    "memory_warning_modal.recovery_mode_modal_out_of_memory": {
+        "string": "このファイルに使用できるブラウザメモリーがありません。作業内容は失われていませんが、メモリーの使用量が減るまでこのファイルを使用することはできません。"
+    },
+    "memory_warning_modal.recovery_mode_modal_title": {
+        "string": "このファイルを復元モードで開く"
+    },
+    "memory_warning_modal.reload_modal_content": {
+        "string": "このファイルに使用できるブラウザメモリーがありません。ファイルをもう一度読み込んでください。"
+    },
+    "memory_warning_modal.reload_modal_content_cta": {
+        "string": "問題が解決しない場合は、コンテンツの一部を新しいファイルに移動することでメモリーの使用量を減らすようファイルのオーナーに依頼してください。"
+    },
+    "memory_warning_modal.reload_modal_title": {
+        "string": "このファイルをもう一度読み込む"
+    },
+    "memory_warning_modal.reload_page_button": {
+        "string": "ページを再読み込み"
+    },
+    "mobile_download_prompts.email_me": {
+        "string": "自分にメールを送信"
+    },
+    "mobile_download_prompts.join_team_conversations": {
+        "string": "Figmaモバイルアプリをダウンロードすれば、どこにいてもチームの会話に参加できます。QRコードをスキャンしてスタートしましょう。"
+    },
+    "mobile_download_prompts.learn_more": {
+        "string": "詳細を表示"
+    },
+    "mobile_download_prompts.meet_your_team": {
+        "string": "スマートフォンでチームミーティング"
+    },
+    "mobile_download_prompts.mobile_interactions": {
+        "string": "モバイルでの動作確認"
+    },
+    "mobile_download_prompts.never_miss_a_comment": {
+        "string": "コメントを見逃さない"
+    }
+}

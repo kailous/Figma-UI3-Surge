@@ -1,0 +1,152 @@
+{
+    "permissions.sinatra.no_main_branch_rename": {
+        "string": "ファイルのメインブランチの名前を変更することはできません"
+    },
+    "permissions.sinatra.no_permission_to_delete_project": {
+        "string": "このプロジェクトを削除する権限がありません。"
+    },
+    "permissions.sinatra.no_permission_to_delete_projects_from_team": {
+        "string": "このチームからプロジェクトを削除する権限がありません。"
+    },
+    "permissions.sinatra.no_permission_to_delete_view_only_project": {
+        "string": "この閲覧限定のプロジェクトを削除する権限がありません。"
+    },
+    "permissions.sinatra.org_browsable_not_in_org": {
+        "string": "このファイルは組織に含まれていないため、組織参照可に設定することはできません"
+    },
+    "permissions.sinatra.view_only_project_paywall": {
+        "string": "「閲覧限定」プロジェクトを有効にするには、有料チームにアップグレードしてください。"
+    },
+    "permissions.sinatra.workshop_mode_cannot_change": {
+        "string": "このファイルはワークショップモードではないため、権限を変更できません"
+    },
+    "request_to_join_team.could_not_approve_request_to_join_team": {
+        "string": "チームへの参加リクエストを承認できませんでした: {message}"
+    },
+    "request_to_join_team.could_not_deny_request": {
+        "string": "チームへの参加リクエストを拒否できませんでした: {message}"
+    },
+    "request_to_join_team.permission_error_must_have_edit_privileges": {
+        "string": "権限エラー: チームの権限を編集する必要があります"
+    },
+    "request_to_join_team.request_approved_for_user_to_join_team": {
+        "string": "ユーザー{user}の次のチームへの参加リクエストが承認されました: {team}"
+    },
+    "request_to_join_team.team_join_request_not_found": {
+        "string": "チームへの参加リクエストが見つからないか、すでに処理されています"
+    },
+    "request_to_join_team.you_denied_the_request": {
+        "string": "ユーザー{user}の次のチームへの参加リクエストが拒否されました: {team}"
+    },
+    "session.dev_mode_status.success": {
+        "string": "開発モードのステータス通知をオフにしました"
+    },
+    "session.email_update.cannot_update": {
+        "string": "メールを更新できません"
+    },
+    "session.email_update.expired": {
+        "string": "申し訳ありません。リンクの期限が切れているか、形式に誤りがあります。"
+    },
+    "session.email_update.missing_secret_code": {
+        "string": "申し訳ありません。リンクにシークレットコードがありません。"
+    },
+    "session.email_update.success": {
+        "string": "メールアドレスが更新されました。"
+    },
+    "session.email_update.token_taken": {
+        "string": "メールを更新できません - \"{tokenId}\" は既に使用されています"
+    },
+    "session.email_validation.different_account": {
+        "string": "確認に失敗しました。クリックした確認メールは別のアカウント宛です。"
+    },
+    "session.email_validation.expired_or_malformed": {
+        "string": "申し訳ありません。メール検証リンクの期限が切れているか、形式が間違っています。"
+    },
+    "session.email_validation.invalid_session": {
+        "string": "セッションが無効になっているか、期限が切れています。もう一度お試しください。"
+    },
+    "session.email_validation.logged_out": {
+        "string": "Figmaにログインしてから、メールアドレスの確認を行ってください。"
+    },
+    "session.email_validation.missing_secret_code": {
+        "string": "申し訳ありません。メール検証リンクにシークレットコードがありません。"
+    },
+    "session.email_validation.success": {
+        "string": "メールが確認されました!"
+    },
+    "session.expired_magic_link": {
+        "string": "クリックしたリンクは期限切れです。もう一度ログインしてみてください。"
+    },
+    "session.log_out.success": {
+        "string": "ログアウトしました。"
+    },
+    "session.password_recover.expired": {
+        "string": "申し訳ありません。パスワード変更リクエストの期限が切れています。もう一度お試しください。"
+    },
+    "session.set_mentions_and_replies_only.success": {
+        "string": "コメント通知をメンションと返信に設定しました"
+    },
+    "session.unfollow_file.success": {
+        "string": "コメント通知をオフにしました"
+    },
+    "analytics.error.no_data": {
+        "string": "組織のアナリティクスデータが見つかりません"
+    },
+    "billing.org.stripe_required": {
+        "string": "この組織の請求が設定されていません。"
+    },
+    "error.bad_request": {
+        "string": "リクエストが正しくありません。"
+    },
+    "error.changing_payment_outside_unpaid_timeout_both_subscription": {
+        "string": "支払い方法を更新できませんでした。期日が21日以上前の未払い請求書があるため、チームはスタータープランにダウングレードされます。いつでもチームをアップグレードできます。ご不便をおかけして申し訳ございません。"
+    },
+    "error.changing_payment_outside_unpaid_timeout_single_subscription": {
+        "string": "支払い方法を更新できませんでした。期日が21日以上前の未払い請求書があるサブスクリプションがあるため、そのサブスクリプションはキャンセルされます。サブスクリプションはいつでもアップグレードできます。アクティブなサブスクリプションの支払い方法を再度更新することもできます。ご不便をおかけして申し訳ございません。"
+    },
+    "error.conflict": {
+        "string": "競合しています"
+    },
+    "error.expected_incomplete_team": {
+        "string": "エンドポイントは、状態が「未完了」のチームのみ使用できます。"
+    },
+    "error.figma_has_been_upgraded": {
+        "string": "Figmaがアップグレードされています。ブラウザウィンドウを更新してアップデートを入手してから、もう一度お試しください。"
+    },
+    "error.internal_server_error": {
+        "string": "内部サーバーエラー"
+    },
+    "error.invalid_address": {
+        "string": "この住所を確認できませんでした。住所が正しいことを確認し、もう一度お試しください。"
+    },
+    "error.invalid_address_billing": {
+        "string": "この請求先住所を確認できませんでした。住所が正しいことを確認し、もう一度お試しください。"
+    },
+    "error.invalid_address_billing_and_shipping": {
+        "string": "請求先住所と配送先住所を確認できませんでした。住所が正しいことを確認し、もう一度お試しください。"
+    },
+    "error.invalid_address_billing_postal_code": {
+        "string": "請求先住所の郵便番号を確認できませんでした。住所が正しいことを確認し、もう一度お試しください。"
+    },
+    "error.invalid_address_shipping": {
+        "string": "この配送先住所を確認できませんでした。住所が正しいことを確認し、もう一度お試しください。"
+    },
+    "error.invalid_payment_method": {
+        "string": "支払い方法が無効です"
+    },
+    "error.login_session_expired": {
+        "string": "セキュリティのため、ログインセッションは期限切れになりました。もう一度ログインしてください。"
+    },
+    "error.needs_upgrade": {
+        "string": "アップグレードが必要です。"
+    },
+    "error.no_permission": {
+        "string": "この操作を実行する権限がないようです。"
+    },
+    "error.no_permission_contact_org_admin": {
+        "string": "この操作を実行する権限がありません。所属する組織の管理者にお問い合わせください。"
+    },
+    "error.no_permission_contact_support_to_unquarantine": {
+        "string": "ご使用のアカウントに問題があるため、Figmaではこの操作が制限されています。support+restricted@figma.comにメールでお問い合わせください。"
+    }
+}

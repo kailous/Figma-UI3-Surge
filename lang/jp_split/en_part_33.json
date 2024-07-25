@@ -1,0 +1,152 @@
+{
+    "collaboration.branching.merge_error.review_and_confirm_update_description": {
+        "string": "更新の実行中に問題が発生した可能性があります。ファイルに変更が反映されていることを確認してください。反映されていない場合は、更新をキャンセルしてもう一度試してください。"
+    },
+    "collaboration.branching.merge_pending": {
+        "string": "マージ中…"
+    },
+    "collaboration.branching.merge_success": {
+        "string": "ブランチをマージしました"
+    },
+    "collaboration.branching.merged": {
+        "string": "マージ済み"
+    },
+    "collaboration.branching.merged_v2": {
+        "string": "{userHandle} · マージ済み{relativeTimestamp}"
+    },
+    "collaboration.branching.merging": {
+        "string": "マージ中…"
+    },
+    "collaboration.branching.open": {
+        "string": "開く"
+    },
+    "collaboration.branching.options": {
+        "string": "オプション"
+    },
+    "collaboration.branching.overlay": {
+        "string": "オーバーレイ"
+    },
+    "collaboration.branching.overlay_hide_after_image": {
+        "string": "残像を表示しない"
+    },
+    "collaboration.branching.overlay_show_after_image": {
+        "string": "残像を表示"
+    },
+    "collaboration.branching.reload_page": {
+        "string": "ページを再読み込み"
+    },
+    "collaboration.branching.rename": {
+        "string": "名前を変更"
+    },
+    "collaboration.branching.request_submitted": {
+        "string": "リクエストが送信されました"
+    },
+    "collaboration.branching.restore": {
+        "string": "復元"
+    },
+    "collaboration.branching.review_requested": {
+        "string": "レビューがリクエストされました"
+    },
+    "collaboration.branching.saving_file": {
+        "string": "ファイルを保存中"
+    },
+    "collaboration.branching.side_by_side": {
+        "string": "並べて表示"
+    },
+    "collaboration.branching.submitting_request": {
+        "string": "リクエストの送信中"
+    },
+    "collaboration.branching.submitting_review": {
+        "string": "レビューの送信中"
+    },
+    "collaboration.branching.suggested_changes_on_review": {
+        "string": "レビューで変更を提案しました"
+    },
+    "collaboration.branching.title_missing_from_merge_request": {
+        "string": "マージリクエストのタイトルがありません"
+    },
+    "collaboration.branching.undo_archive": {
+        "string": "元に戻す"
+    },
+    "collaboration.branching.undo_delete": {
+        "string": "元に戻す"
+    },
+    "collaboration.branching.update": {
+        "string": "更新"
+    },
+    "collaboration.branching.update_pending": {
+        "string": "メインファイルから変更を適用中…"
+    },
+    "collaboration.branching.update_success": {
+        "string": "ブランチを更新しました"
+    },
+    "collaboration.branching.updates_available_from_main_file": {
+        "string": "メインファイルに更新があります"
+    },
+    "collaboration.branching.zoom_in": {
+        "string": "ズームイン"
+    },
+    "collaboration.branching.zoom_out": {
+        "string": "ズームアウト"
+    },
+    "collaboration.branching_archived_footer.merged": {
+        "string": "マージされたブランチは復元できません。"
+    },
+    "collaboration.branching_archived_footer.restore_branch": {
+        "string": "このブランチを復元して編集を続行"
+    },
+    "collaboration.branching_archived_footer.restore_branch_button": {
+        "string": "復元"
+    },
+    "collaboration.branching_archived_footer.can_restore_branch": {
+        "string": "編集者はこのブランチを復元して編集を続行できます。"
+    },
+    "collaboration.branching_archived_footer.back_to_main_file": {
+        "string": "メインファイルに戻る"
+    },
+    "collaboration.branching_archived_footer.locked": {
+        "string": "ロック済み"
+    },
+    "collaboration.branching_chunk.change_details": {
+        "string": "変更の詳細"
+    },
+    "collaboration.branching_chunk.error": {
+        "string": "詳細なプロパティ変更のレンダリングエラーが発生しました。このエラーは報告または記録されていません。"
+    },
+    "collaboration.branching_chunk.fallback_missing_preview": {
+        "string": "プレビューは利用できません"
+    },
+    "collaboration.branching_chunk.fallback_no_item": {
+        "string": "アイテムがありません"
+    },
+    "collaboration.branching_chunk.non_visible_updates": {
+        "string": "メインには見えない更新があります"
+    },
+    "collaboration.branching_chunk.non_visible_updates_description": {
+        "string": "メインと同期することで、全体の一貫性を確保します。これらの更新にはシステムの更新、ファイルへの見えない変更、ブランチへの変更と同一の変更が含まれます。"
+    },
+    "collaboration.branching_chunk.phase_created": {
+        "string": "追加済み"
+    },
+    "collaboration.branching_chunk.phase_removed": {
+        "string": "削除済み"
+    },
+    "collaboration.branching_chunk.phase_updated": {
+        "string": "編集済み"
+    },
+    "collaboration.branching_chunk.phase_updated_library": {
+        "string": "更新済み"
+    },
+    "collaboration.branching_chunk.property_change_added": {
+        "string": "→ {newValue}"
+    },
+    "collaboration.branching_chunk.property_change_changed_value_denoter": {
+        "string": "→"
+    },
+    "collaboration.branching_chunk.property_change_edited": {
+        "string": "{prevValue} → {newValue}"
+    },
+    "collaboration.branching_chunk.property_change_node_added_items": {
+        "string": "追加済み:"
+    }
+}

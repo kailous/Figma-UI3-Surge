@@ -1,0 +1,152 @@
+{
+    "org_upgrade.multi_team.acme_inc": {
+        "string": "Acme Inc."
+    },
+    "org_upgrade.multi_team.annual_billing_only": {
+        "string": "年次請求のみ"
+    },
+    "org_upgrade.multi_team.billing_cost_per_month.seat_rename": {
+        "string": "{monthlyCostInDollars}/シート/月"
+    },
+    "org_upgrade.multi_team.bring_your_teams_together_with_the_figma_organization_plan": {
+        "string": "Figmaビジネスプランでチーム間のコラボレーションを実現"
+    },
+    "org_upgrade.multi_team.continue": {
+        "string": "続行"
+    },
+    "org_upgrade.multi_team.dev_mode": {
+        "string": "開発モード専用"
+    },
+    "org_upgrade.multi_team.fig_jam": {
+        "string": "FigJam"
+    },
+    "org_upgrade.multi_team.figma": {
+        "string": "Figmaデザイン"
+    },
+    "org_upgrade.multi_team.plan_items.centralized_billing_and_admin_controls": {
+        "string": "請求と管理のコントロールを一元化"
+    },
+    "org_upgrade.multi_team.plan_items.shared_design_libraries": {
+        "string": "デザインライブラリの共有"
+    },
+    "org_upgrade.multi_team.plan_items.shared_fonts_and_styles": {
+        "string": "フォントとスタイルの共有"
+    },
+    "org_upgrade.multi_team.plan_items.single_sign_on_sso_integrations": {
+        "string": "シングルサインオン(SSO)の統合"
+    },
+    "org_upgrade.multi_team.see_all_features": {
+        "string": "すべての機能を見る"
+    },
+    "org_upgrade.single_team.annual_billing_only": {
+        "string": "年次請求のみ"
+    },
+    "org_upgrade.single_team.audio_conversations_in_files": {
+        "string": "ファイルに音声会話を追加する"
+    },
+    "org_upgrade.single_team.control_file_sharing_inside_and_outside_of_your_organization": {
+        "string": "組織内外でのファイル共有を管理"
+    },
+    "org_upgrade.single_team.cross_team_design_libraries_and_fonts": {
+        "string": "チーム間でデザインライブラリとフォントを共有"
+    },
+    "org_upgrade.single_team.design_library_within_one_team": {
+        "string": "1つのチーム内でライブラリをデザイン"
+    },
+    "org_upgrade.single_team.everything_in_professional_plus": {
+        "string": "プロフェッショナルプランのすべての機能と次の機能"
+    },
+    "org_upgrade.single_team.full_content_ownership": {
+        "string": "すべてのコンテンツを所有"
+    },
+    "org_upgrade.single_team.get_more_out_of_figma_as_you_grow": {
+        "string": "組織の拡大に合わせてFigmaの機能をさらに活用しましょう"
+    },
+    "org_upgrade.single_team.organization_plan": {
+        "string": "ビジネスプラン"
+    },
+    "org_upgrade.single_team.price_when_billed_annually": {
+        "string": "年次請求の場合の価格"
+    },
+    "org_upgrade.single_team.private_plugins_and_plugin_management": {
+        "string": "プライベートプラグインとプラグイン管理"
+    },
+    "org_upgrade.single_team.professional_plan": {
+        "string": "プロフェッショナルプラン"
+    },
+    "org_upgrade.single_team.see_all_features": {
+        "string": "すべての機能を見る"
+    },
+    "org_upgrade.single_team.single_sign_on_sso_integration": {
+        "string": "シングルサインオン(SSO)統合"
+    },
+    "org_upgrade.single_team.unlimited_design_files_and_projects_in_one_team": {
+        "string": "1チームのデザインファイルとプロジェクトの数に制限なし"
+    },
+    "org_upgrade.single_team.unlimited_teams_and_unlimited_projects": {
+        "string": "チームとプロジェクトの数に制限なし"
+    },
+    "org_upgrade.single_team.upgrade_to_an_organization": {
+        "string": "ビジネスにアップグレード"
+    },
+    "org_user_actions.an_error_occurred": {
+        "string": "エラーが発生しました。"
+    },
+    "org_user_actions.an_error_occurred_closing_onboarding": {
+        "string": "オンボーディングの終了中にエラーが発生しました。"
+    },
+    "org_user_actions.an_error_occurred_fetching_org_admins": {
+        "string": "組織管理者の取得中にエラーが発生しました。"
+    },
+    "org_user_actions.an_error_occurred_fetching_org_users": {
+        "string": "組織ユーザーの取得中にエラーが発生しました。"
+    },
+    "org_user_actions.an_error_occurred_leaving_organization": {
+        "string": "{orgName}組織からの脱退中にエラーが発生しました。"
+    },
+    "org_user_actions.an_error_occurred_requesting_account_type": {
+        "string": "アカウントタイプのリクエスト中にエラーが発生しました。"
+    },
+    "org_user_actions.an_error_occurred_updating_org_users": {
+        "string": "組織ユーザーの更新中にエラーが発生しました。"
+    },
+    "org_user_actions.an_error_occurred_while_fetching_member_counts": {
+        "string": "メンバー数の取得中にエラーが発生しました。"
+    },
+    "org_user_actions.upgrade_request_sent": {
+        "string": "アップグレード申請を送信しました。"
+    },
+    "org_user_actions.user_has_been_removed_from_organization": {
+        "string": "{deletedOrgUserCount, plural, other {{deletedOrgUserCount}人のユーザーがこの組織から削除されます。完了まで最大10分かかります。}}"
+    },
+    "org_user_actions.user_upgrade_request_submitted": {
+        "string": "申請を送信しました。管理者から応答があると通知されます。"
+    },
+    "org_user_actions.you_successfully_left_organization": {
+        "string": "{orgName}組織を正常に脱退しました。"
+    },
+    "org_view.libraries": {
+        "string": "ライブラリ"
+    },
+    "org_view.license_group.member_count": {
+        "string": "{memberCount, plural, other {{memberCount}人のメンバー}}"
+    },
+    "org_view.license_group.team_count": {
+        "string": "{teamCount, plural, other {{teamCount}チーム}}"
+    },
+    "org_view.license_group.unassigned_tile.description": {
+        "string": "{teamCount, plural, other {{teamCount}チームがワークスペースに割り当てられていません}}"
+    },
+    "org_view.license_group.unassigned_tile.name": {
+        "string": "その他のチーム"
+    },
+    "org_view.new_team": {
+        "string": "チームを新規作成"
+    },
+    "org_view.other_workspaces": {
+        "string": "その他のワークスペース"
+    },
+    "org_view.overview": {
+        "string": "概要"
+    }
+}
