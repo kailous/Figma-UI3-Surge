@@ -1,152 +1,152 @@
 {
     "asset_transfers.handle_request_modal.accept_transfer": {
-        "string": "移転を承認"
+        "string": "接受转移"
     },
     "asset_transfers.handle_request_modal.admin_settings": {
-        "string": "管理者設定"
+        "string": "管理员设置"
     },
     "asset_transfers.handle_request_modal.an_admin_from_org_name_wants_to_transfer_copy_of_the_project_to_the_team_name_team_in_your_organization": {
-        "string": "{orgName}の管理者がプロジェクト{projectName}のコピーをあなたの組織の{teamName}チームに移転することを希望しています。 同意すると、あなたとあなたの他の管理者がこのプロジェクトとそのコンテンツの管理を引き継ぎます。{learnMore}"
+        "string": "{orgName}的管理员希望将项目{projectName}的副本转移到您组织的{teamName}团队。批准后，您和您的其他管理员将接管该项目及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.an_admin_from_org_name_wants_to_transfer_the_copy_project_to_the_team": {
-        "string": "{orgName}の管理者がプロジェクト{projectName}のコピーを{teamName}チームに移転することを希望しています。 承認すると、コピーされたプロジェクトとそのコンテンツの管理をあなたとあなたの他の管理者が引き継ぎます。{learnMore}"
+        "string": "{orgName}的管理员希望将项目{projectName}的副本转移到{teamName}团队。批准后，您和您的其他管理员将接管该项目及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.an_admin_from_org_name_wants_to_transfer_the_project_to_the_team": {
-        "string": "{orgName}の管理者がプロジェクト{projectName}の{teamName}チームへの移転を希望しています。 承認すると、あなたとあなたの他の管理者がこのプロジェクトとそのコンテンツの管理を引き継ぎます。{learnMore}"
+        "string": "{orgName}的管理员希望将项目{projectName}转移到{teamName}团队。批准后，您和您的其他管理员将接管该项目及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.an_admin_from_org_name_wants_to_transfer_the_project_to_the_team_name_team_in_your_organization": {
-        "string": "{orgName}の管理者がプロジェクト{projectName}をあなたの組織の{teamName}チームに移転することを希望しています。 同意すると、あなたとあなたの他の管理者がこのプロジェクトとそのコンテンツの管理を引き継ぎます。{learnMore}"
+        "string": "{orgName}的管理员希望将项目{projectName}转移到您组织的{teamName}团队。批准后，您和您的其他管理员将接管该项目及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.an_admin_from_org_name_wants_to_transfer_the_team_name_to_your_organization": {
-        "string": "{orgName}の管理者が{teamName}チームをあなたの組織に移転することを希望しています。同意すると、あなたとあなたの他の管理者がこのチームとそのコンテンツの管理を引き継ぎます。{learnMore}"
+        "string": "{orgName}的管理员希望将{teamName}团队转移到您的组织。批准后，您和您的其他管理员将接管该团队及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.based_on_your_settings_everyone_transferring_over_with_this_project_will_have_role_text_roles_in_figma_design_and_fig_jam_once_they_join_your_organization.seat_rename": {
-        "string": "設定に基づき、このプロジェクトを担当する全員が組織に参加するときにFigmaデザインとFigJamの{roleText}シートを取得します。"
+        "string": "根据您的设置，随此项目转移的所有人将在加入您的组织时获得Figma设计和FigJam中的{roleText}角色。"
     },
     "asset_transfers.handle_request_modal.based_on_your_settings_everyone_transferring_over_with_this_team_will_have_role_text_roles_in_figma_design_and_fig_jam_once_they_join_your_organization.seat_rename": {
-        "string": "設定に基づき、このプロジェクトを担当する全員が組織に参加するときにFigmaデザインとFigJamの{roleText}シートを取得します。"
+        "string": "根据您的设置，随此团队转移的所有人将在加入您的组织时获得Figma设计和FigJam中的{roleText}角色。"
     },
     "asset_transfers.handle_request_modal.contact_figma_support": {
-        "string": "Figmaサポートに問い合わせる"
+        "string": "联系Figma支持"
     },
     "asset_transfers.handle_request_modal.if_you_accept": {
-        "string": "承認する場合..."
+        "string": "如果您接受..."
     },
     "asset_transfers.handle_request_modal.it_looks_like_approver_name_approver_email_has_already_accepted_this_transfer": {
-        "string": "{approverName} ({approverEmail})は、この移転をすでに承認しているようです。現在、アクセスできるはずです。"
+        "string": "看起来{approverName} ({approverEmail})已经接受了此次转移。现在您应该可以访问了。"
     },
     "asset_transfers.handle_request_modal.it_looks_like_this_project_has_already_been_transferred_to_your_organization": {
-        "string": "このプロジェクトはすでにあなたの組織に移転済みのようです。Figmaで表示できるはずです。"
+        "string": "看起来此项目已经转移到您的组织。您应该可以在Figma中查看。"
     },
     "asset_transfers.handle_request_modal.it_looks_like_this_project_has_already_been_transferred_to_your_team": {
-        "string": "このプロジェクトはすでにあなたのチームに移転済みのようです。Figmaで表示できるはずです。"
+        "string": "看起来此项目已经转移到您的团队。您应该可以在Figma中查看。"
     },
     "asset_transfers.handle_request_modal.it_looks_like_this_team_has_already_been_transferred_to_your_organization": {
-        "string": "このチームはすでにあなたの組織に移転済みのようです。Figmaで表示できるはずです。"
+        "string": "看起来此团队已经转移到您的组织。您应该可以在Figma中查看。"
     },
     "asset_transfers.handle_request_modal.libraries_shared_fonts_and_other_resources_that_this_project_used_to_be_connected_to_may_be_unavailable_after_this_transfer_learn_more": {
-        "string": "このプロジェクトが接続されていたライブラリや共有フォントなどのリソースは、移転後は使用できなくなることがあります。{learnMore}"
+        "string": "此项目之前连接的库、共享字体和其他资源在转移后可能无法使用。{learnMore}"
     },
     "asset_transfers.handle_request_modal.libraries_shared_fonts_and_other_resources_that_this_team_used_to_be_connected_to_may_be_unavailable_after_this_transfer_learn_more": {
-        "string": "この移転の後、このチームが接続されていたライブラリ、共有フォントなどのリソースを使用できなくなる場合があります。{learnMore}"
+        "string": "此团队之前连接的库、共享字体和其他资源在转移后可能无法使用。{learnMore}"
     },
     "asset_transfers.handle_request_modal.manage_this_transfer": {
-        "string": "この移転を管理"
+        "string": "管理此转移"
     },
     "asset_transfers.handle_request_modal.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "asset_transfers.handle_request_modal.once_you_accept_a_transfer_it_can_t_be_undone": {
-        "string": "移転を承認すると、取り消すことはできません。"
+        "string": "一旦您接受转移，便无法撤销。"
     },
     "asset_transfers.handle_request_modal.people_who_aren_t_currently_on_your_organization_s_member_allowlist_won_t_transfer_over_you_ll_need_to_manually_add_them_to_your_organization_or_supportlink_for_help": {
-        "string": "組織のメンバー許可リストに追加されていないメンバーは移転しません。組織に手動で追加するか、{supportLink}必要があります。"
+        "string": "不在您组织成员允许列表中的人不会转移。您需要手动将他们添加到您的组织，或{supportLink}获取帮助。"
     },
     "asset_transfers.handle_request_modal.the_project_will_transfer_along_with_its_current_files_and_members_which_may_add_more_editors_to_your_billing_plan_manage_these_roles_in_the_members_tab_in_admin_settings.seat_rename": {
-        "string": "プロジェクトは現在のファイルやメンバーとともに移転され、請求プランに有料シートを追加できます。これらのシートは、[{adminSettings}]の[{members}]タブで管理します。"
+        "string": "项目将与其当前文件和成员一起转移，这可能会增加您的账单计划中的编辑席位。您可以在管理员设置中的[成员]选项卡管理这些角色。"
     },
     "asset_transfers.handle_request_modal.the_team_will_transfer_along_with_its_current_projects_files_and_members_which_may_add_more_editors_to_your_billing_plan_manage_these_roles_in_the_members_tab_in_admin_settings.seat_rename": {
-        "string": "チームは現在のプロジェクト、ファイル、メンバーとともに移転され、請求プランに有料シートを追加できます。これらのシートは、[{adminSettings}]の[{members}]タブで管理します。"
+        "string": "团队将与其当前项目、文件和成员一起转移，这可能会增加您的账单计划中的编辑席位。您可以在管理员设置中的[成员]选项卡管理这些角色。"
     },
     "asset_transfers.handle_request_modal.the_transfer_request_you_received_has_been_cancelled_by_the_team_or_organization_that_sent_it": {
-        "string": "受け取った移転リクエストは依頼元のチームまたは組織によってキャンセルされたため、利用できなくなりました。"
+        "string": "您收到的转移请求已被发送的团队或组织取消，因此不再有效。"
     },
     "asset_transfers.handle_request_modal.this_project_has_guest_accounts_if_you_want_them_to_transfer_over_temporarily_change_your_admin_setting_to_allow_guests_before_accepting_learn_more": {
-        "string": "このプロジェクトには、ゲストアカウントがあります。ゲストアカウントを移転する場合は、承認する前に、ゲストを許可するように管理者設定を一時的に変更してください。{learnMore}"
+        "string": "此项目有访客账户。如果您希望他们转移，请在接受前暂时更改管理员设置以允许访客。{learnMore}"
     },
     "asset_transfers.handle_request_modal.this_team_has_guest_accounts_if_you_want_them_to_transfer_over_temporarily_change_your_admin_setting_to_allow_guests_before_accepting_learn_more": {
-        "string": "このチームには、ゲストアカウントがあります。ゲストアカウントを移転する場合は、承認する前に、ゲストを許可するように管理者設定を一時的に変更してください。{learnMore}"
+        "string": "此团队有访客账户。如果您希望他们转移，请在接受前暂时更改管理员设置以允许访客。{learnMore}"
     },
     "asset_transfers.handle_request_modal.viewer_restricted": {
-        "string": "限定閲覧者"
+        "string": "受限查看者"
     },
     "asset_transfers.handle_request_modal.you_ll_see_this_project_in_your_team_and_you_can_edit_its_settings_description_and_more_at_any_time": {
-        "string": "このプロジェクトがあなたのチームに表示されるようになり、その設定、説明などはいつでも編集可能です。"
+        "string": "您将会在您的团队中看到此项目，并且可以随时编辑其设置、描述等。"
     },
     "asset_transfers.handle_request_modal.you_ll_see_this_team_when_you_re_in_figma_and_you_can_edit_its_settings_description_and_more_at_any_time": {
-        "string": "Figmaにいるときはこのチームが表示されるようになり、設定、説明などはいつでも編集可能です。"
+        "string": "当您在Figma中时，您将会看到此团队，并且可以随时编辑其设置、描述等。"
     },
     "asset_transfers.request_modal.add_a_link": {
-        "string": "リンクを追加する"
+        "string": "添加链接"
     },
     "asset_transfers.request_modal.add_a_message_if_you_d_like": {
-        "string": "必要な場合はメッセージを入力"
+        "string": "如有需要，请添加消息"
     },
     "asset_transfers.request_modal.add_link_here_description": {
-        "string": "連絡先担当者がFigma {destinationType}へのウェブリンクをあなたと共有して、ここに追加します。{learnMore}"
+        "string": "联系人将与您共享Figma {destinationType}的网络链接，请在此处添加。{learnMore}"
     },
     "asset_transfers.request_modal.ask_the_other_organization_to_invite_back_members_due_to_external_collaboration_controls_for_project": {
-        "string": "このプロジェクトの移転後は、設定に基づき、移転元の組織のメンバーは、プロジェクトのファイルに対して閲覧のみのアクセスが可能です。編集が必要な場合は、移転先の組織に招待してもらう必要があります。ただし、移転元の組織にアクセスするために使用していたアカウントとは別のアカウントを使用する必要があります。"
+        "string": "根据设置，转移后原组织的成员对项目文件只有查看权限。如果需要编辑权限，请让接收组织邀请他们，但需使用不同的帐户。"
     },
     "asset_transfers.request_modal.ask_the_other_organization_to_invite_back_members_due_to_external_collaboration_controls_for_project_v2": {
-        "string": "管理者が承認するとプロジェクトが移転します。組織の設定に基づいて、メンバーは、プロジェクトのファイルに対して閲覧のみのアクセスが可能です。編集アクセス権を取得するには、プロジェクトの新しいオーナーから招待を受ける必要があります。その場合、別のアカウント(この組織と関連付けられていないアカウント)を使用する必要があります。"
+        "string": "管理员批准后项目将被转移。根据组织设置，成员对项目文件只有查看权限。要获得编辑权限，需接受项目新所有者的邀请，且使用与原组织不同的帐户。"
     },
     "asset_transfers.request_modal.ask_the_other_organization_to_invite_back_members_due_to_external_collaboration_controls_for_team": {
-        "string": "このチームの移転後は、設定に基づき、移転元の組織のメンバーは、チームのファイルに対して閲覧のみのアクセスが可能です。編集が必要な場合は、移転先の組織に招待してもらう必要があります。ただし、移転元の組織にアクセスするために使用していたアカウントとは別のアカウントを使用する必要があります。"
+        "string": "根据设置，转移后原组织的成员对团队文件只有查看权限。如果需要编辑权限，请让接收组织邀请他们，但需使用不同的帐户。"
     },
     "asset_transfers.request_modal.ask_them_for_a_link_to_their_team": {
-        "string": "プロジェクトを適切な場所に移転するため、チームへのリンクを依頼します。{learnMore}"
+        "string": "请求对方提供其团队的链接以正确转移项目。{learnMore}"
     },
     "asset_transfers.request_modal.ask_your_contact_person_for_a_link_to_a_team_in_their_figma_org": {
-        "string": "プロジェクトを適切な場所に移転するため、Figma組織のチームへのリンクを連絡担当者に依頼します。{learnMore}"
+        "string": "请求联系人提供其Figma组织中团队的链接以正确转移项目。{learnMore}"
     },
     "asset_transfers.request_modal.ask_your_contact_person_for_a_link_to_their_figma_organization_so_the_team_transfers_to_the_right_place": {
-        "string": "チームを適切な場所に移転するため、Figma組織へのリンクを連絡担当者に依頼します。{learnMore}"
+        "string": "请求联系人提供其Figma组织的链接以正确转移团队。{learnMore}"
     },
     "asset_transfers.request_modal.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "asset_transfers.request_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "asset_transfers.request_modal.data_meta_verified": {
-        "string": "{assetName}を確認しました"
+        "string": "已验证{assetName}"
     },
     "asset_transfers.request_modal.email_address": {
-        "string": "メールアドレス"
+        "string": "电子邮件地址"
     },
     "asset_transfers.request_modal.enterprise_or_organization_plan": {
-        "string": "エンタープライズプランまたはビジネスプラン"
+        "string": "企业或组织计划"
     },
     "asset_transfers.request_modal.errors.please_use_a_valid_email_format": {
-        "string": "有効な形式のメールアドレスを使用してください"
+        "string": "请使用有效的电子邮件格式"
     },
     "asset_transfers.request_modal.errors.this_email_isn_t_associated_with_the_destination_linked_above": {
-        "string": " このメールアドレスは、上記のリンク先の{destinationType}に関連付けられていません。メールアドレスが正しいことを確認してください。"
+        "string": "此电子邮件地址与上述{destinationType}不关联。请确认电子邮件地址正确。"
     },
     "asset_transfers.request_modal.errors.this_link_isn_t_valid": {
-        "string": "このリンクは有効ではありません。相手の組織にURLが正しいことを確認してください。"
+        "string": "此链接无效。请确认对方的组织提供了正确的URL。"
     },
-    "asset_transfers.request_modal.errors.this_links_to_a_team_that_isn't_able_to_receive_transfers": {
-        "string": "リンク先のチームが移転を受け入れることができません。"
+    "asset_transfers.request_modal.errors.this_links_to_a_team_that_isn’t_able_to_receive_transfers": {
+        "string": "此链接指向的团队无法接收转移。"
     },
     "asset_transfers.request_modal.errors.you_don_t_need_a_transfer_to_move_projects_within_your_own_organization": {
-        "string": "自分の組織内でプロジェクトを移動する場合は、移転は必要ありません。"
+        "string": "在您自己的组织内移动项目不需要转移。"
     },
     "asset_transfers.request_modal.errors.you_don_t_need_a_transfer_to_move_projects_within_your_own_team": {
-        "string": "自分のチーム内でプロジェクトを移動する場合は、移転は必要ありません。"
+        "string": "在您自己的团队内移动项目不需要转移。"
     },
     "asset_transfers.request_modal.errors.you_don_t_need_a_transfer_to_move_teams_within_your_own_organization": {
-        "string": "自分の組織内でチームを移動する場合は、移転は必要ありません。"
+        "string": "在您自己的组织内移动团队不需要转移。"
     }
 }

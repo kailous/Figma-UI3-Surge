@@ -1,152 +1,152 @@
 {
     "avatar_actions.an_error_occurred_while_setting_the_organization_icon": {
-        "string": "組織アイコンの設定中にエラーが発生しました。"
+        "string": "设置组织图标时发生错误。"
     },
     "avatar_actions.an_error_occurred_while_setting_the_team_icon": {
-        "string": "チームアイコンの設定中にエラーが発生しました。"
+        "string": "设置团队图标时发生错误。"
     },
     "avatar_actions.an_error_occurred_while_setting_the_workspace_icon": {
-        "string": "ワークスペースアイコンの設定中にエラーが発生しました。"
+        "string": "设置工作区图标时发生错误。"
     },
     "avatar_actions.an_error_occurred_while_uploading_the_image": {
-        "string": "画像のアップロード中にエラーが発生しました"
+        "string": "上传图片时发生错误。"
     },
     "avatar_actions.editor_uploaded.an_error_occurred_while_setting_your_profile_photo": {
-        "string": "プロフィールの写真の設定中にエラーが発生しました。"
+        "string": "设置个人资料照片时发生错误。"
     },
     "avatar_actions.team_icon_updated": {
-        "string": "チームアイコンが更新されました"
+        "string": "团队图标已更新。"
     },
     "avatar_actions.workspace_icon_updated": {
-        "string": "ワークスペースアイコンを更新しました"
+        "string": "工作区图标已更新。"
     },
     "avatar_editor.an_error_occurred_while_loading_the_image": {
-        "string": "画像の読み込み中にエラーが発生しました。"
+        "string": "加载图片时发生错误。"
     },
     "avatar_editor.edit": {
-        "string": "編集"
+        "string": "编辑"
     },
     "avatar_editor.modal_title": {
-        "string": "アバターを編集"
+        "string": "编辑头像"
     },
     "avatar_editor.save_image": {
-        "string": "画像を保存"
+        "string": "保存图片"
     },
     "avatar_editor.scale": {
-        "string": "アバターの拡大縮小"
+        "string": "缩放头像"
     },
     "avatar_editor.your_profile_image_must_be_at_least_500_x500_px": {
-        "string": "プロフィール画像は500x500px以上である必要があります"
+        "string": "个人资料图片必须至少为500x500像素。"
     },
     "avatar.tooltip.current_user_handle": {
-        "string": "{handle} (あなた){roleName}"
+        "string": "{handle}（您）{roleName}"
     },
     "avatar.tooltip.edit_name": {
-        "string": "名前を編集"
+        "string": "编辑名称"
     },
     "avatar.tooltip.other_user_handle": {
         "string": "{handle}{roleName}"
     },
     "avatar.tooltip.spotlight_user_handle": {
-        "string": "{handle}にスポットライト中"
+        "string": "正在聚焦{handle}"
     },
     "avatar.tooltip.view_profile": {
-        "string": "プロフィールを表示"
+        "string": "查看个人资料"
     },
     "avatar.tooltip.you": {
-        "string": "(あなた)"
+        "string": "（您）"
     },
     "banner.browser_deprecation.description": {
-        "string": "Figmaを引き続きご利用いただくため、{deprecationDate, date, ::MMMMd}までにお使いのブラウザを最新版にアップグレードしてください"
+        "string": "为继续使用Figma，请在{deprecationDate, date, ::MMMMd}之前升级浏览器到最新版本。"
     },
     "banner.browser_deprecation.description_now": {
-        "string": "Figmaを引き続きご利用いただくため、お使いのブラウザを最新版にアップグレードしてください"
+        "string": "为继续使用Figma，请升级浏览器到最新版本。"
     },
     "banner.browser_deprecation.learn_more": {
-        "string": "詳細はこちらをご覧ください。"
+        "string": "了解更多"
     },
     "banner.browser_deprecation.title": {
-        "string": "お使いのブラウザは、まもなくサポートが終了します"
+        "string": "您的浏览器即将停止支持。"
     },
     "banner.config_2024_apac_promo.title": {
-        "string": "Config APACまもなく開催"
+        "string": "Config APAC即将开始"
     },
     "banner.config_2024_promo.primary_cta": {
-        "string": "詳細はこちら"
+        "string": "了解更多"
     },
     "banner.config_2024_promo.secondary_cta": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "banner.config_2024_virtual_promo.primary_cta": {
-        "string": "登録"
+        "string": "注册"
     },
     "banner.config_2024_virtual_promo.title": {
-        "string": "6月26日～27日のConfigライブ配信にご登録ください"
+        "string": "请注册参加6月26日至27日的Config直播"
     },
     "banner.desktop_app_deprecation.description": {
-        "string": "Figmaを引き続きご利用いただくため、{deprecationDate, date, ::MMMMd}までに新しいバージョンにアップグレードしてください"
+        "string": "为继续使用Figma，请在{deprecationDate, date, ::MMMMd}之前升级到新版本。"
     },
     "banner.desktop_app_deprecation.learn_more": {
-        "string": "ダウンロード"
+        "string": "下载"
     },
     "banner.desktop_app_deprecation.title": {
-        "string": "お使いのデスクトップアプリは、まもなくサポートが終了します"
+        "string": "您的桌面应用即将停止支持。"
     },
     "banner.desktop_download_button": {
-        "string": "デスクトップアプリを入手"
+        "string": "获取桌面应用"
     },
     "banner.desktop_download_description": {
-        "string": "タブ、ファイルへのクイックアクセス、新規ファイル作成、専用のデスクトップ通知を利用して、ワークフローをさらに向上しましょう。"
+        "string": "利用标签页、文件快速访问、新建文件和专用桌面通知功能，进一步提升您的工作流程。"
     },
     "banner.desktop_download_title": {
-        "string": "Figmaデスクトップアプリをダウンロード"
+        "string": "下载Figma桌面应用"
     },
     "banner.edu_grace_period.editing_restricted_on_file": {
-        "string": "{teamName}のこのエデュケーションチームファイルを編集するには、学生または教職員であることを確認してください。"
+        "string": "要编辑{teamName}的此教育团队文件，请确认您是学生或教职员工。"
     },
     "banner.edu_grace_period.education_team_members_need_to_verify_their_education_status": {
-        "string": "エデュケーションチームのメンバーが引き続きコラボレーションするためには、それぞれのエデュケーションプラン利用資格を確認する必要があります。"
+        "string": "教育团队的成员需要验证其教育计划资格才能继续合作。"
     },
     "banner.edu_grace_period.grace_period_team_reminder": {
-        "string": "これは、エデュケーションチーム{teamName}のファイルです。このファイルを{endDate, date, ::MMMMd}以降も編集する場合は、学生または教職員であることを確認してください。"
+        "string": "这是{teamName}的教育团队文件。若要在{endDate, date, ::MMMMd}之后继续编辑此文件，请确认您是学生或教职员工。"
     },
     "banner.edu_grace_period.move_or_duplicate_files_to_another_location_to_save_your_work": {
-        "string": "ファイルを別の場所に移動または複製して、作業内容を保存してください。"
+        "string": "将文件移动或复制到其他位置以保存您的工作。"
     },
     "banner.edu_grace_period.only_edu_grace_period_days_left": {
-        "string": "{daysLeft, plural, other {学生か教育者であることを確認するための残り日数は{daysLeft}日です}}"
+        "string": "剩余{daysLeft}天，请确认您是学生或教育者。"
     },
     "banner.edu_grace_period.team_is_now_view_only_for_all_members": {
-        "string": "{teamName}はすべてのメンバーが閲覧限定になりました。"
+        "string": "{teamName}现在对所有成员仅限查看。"
     },
     "banner.edu_grace_period.to_keep_collaborating_on_figma_s_education_plan_please_verify_your_status_soon": {
-        "string": "Figmaのエデュケーションプランでコラボレーションを続けるために、ステータスをすぐに確認してください。"
+        "string": "请尽快验证您的身份以继续在Figma的教育计划中合作。"
     },
     "banner.edu_grace_period.verification_required": {
-        "string": "確認が必要です"
+        "string": "需要验证"
     },
     "banner.edu_grace_period.verify_status_button": {
-        "string": "ステータスを確認"
+        "string": "验证身份"
     },
     "banner.edu_grace_period.you_can_no_longer_edit_files_in_team": {
-        "string": "{teamName}のファイルを編集できなくなりました。"
+        "string": "您无法再编辑{teamName}的文件。"
     },
     "banner.edu_grace_period.your_education_plan_has_expired": {
-        "string": "エデュケーションプランが終了しました"
+        "string": "您的教育计划已到期"
     },
     "banner.edu_grace_period.your_education_plan_has_expired.is_member": {
-        "string": "{teamName}のエデュケーションプランが終了しました"
+        "string": "{teamName}的教育计划已到期"
     },
     "banner.file_creation_failure.description": {
-        "string": "このオフラインファイルを同期できませんでした。内容を新しいファイルにコピーして、作業を保存してください。"
+        "string": "无法同步此离线文件。请将内容复制到新文件中以保存工作。"
     },
     "banner.file_creation_failure.title": {
-        "string": "ファイルをオフラインで利用できません"
+        "string": "无法使用离线文件"
     },
     "banner.free_limit_locked.ask_your_team_admin_for_details": {
-        "string": "詳細はチームの管理者にお問い合わせください。"
+        "string": "有关详细信息，请联系您的团队管理员。"
     },
     "banner.free_limit_locked.learn_more": {
-        "string": "詳細を表示"
+        "string": "了解更多"
     }
 }

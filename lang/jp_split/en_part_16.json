@@ -1,152 +1,152 @@
 {
     "all_carts.editor_table.multiple_teams": {
-        "string": "複数のチーム"
+        "string": "多个团队"
     },
     "all_carts.figjam_editors.seat_rename": {
-        "string": "FigJamシート数"
+        "string": "FigJam席位"
     },
     "all_carts.figma_design_editors.seat_rename": {
-        "string": "Figmaデザインシート数"
+        "string": "Figma设计席位"
     },
     "all_carts.minimum_seats": {
-        "string": "チームには、{minTotalSeats}シート以上の{seatsText}と{minDesignSeats}シートのフルFigmaデザイン{designSeatsText}が必要です。"
+        "string": "团队需要至少{minTotalSeats}个{seatsText}席位和{minDesignSeats}个完整Figma设计{designSeatsText}席位。"
     },
     "all_carts.new_total": {
-        "string": "新しい合計: {total}"
+        "string": "新总计: {total}"
     },
     "all_carts.save": {
         "string": "保存"
     },
     "all_carts.you_need_a_minimum_n_design_editors.seat_rename": {
-        "string": "{minSeatsCount, plural, other {#人分以上のデザインシートが必要です。}}"
+        "string": "需要至少{minSeatsCount, plural, other {#个设计席位。}}"
     },
     "all_carts.you_need_a_minimum_n_dev_mode_seats": {
-        "string": "{minSeatsCount, plural, other {#個以上の開発モードシートが必要です。}}"
+        "string": "需要至少{minSeatsCount, plural, other {#个开发模式席位。}}"
     },
     "all_carts.you_need_a_minimum_n_editors.seat_rename": {
-        "string": "{minSeatsCount, plural, other {#人分以上のシートが必要です}}"
+        "string": "需要至少{minSeatsCount, plural, other {#个席位。}}"
     },
     "all_carts.you_need_a_minimum_n_whiteboard_editors.seat_rename": {
-        "string": "{minSeatsCount, plural, other {#人分以上のFigJamシートが必要です。}}"
+        "string": "需要至少{minSeatsCount, plural, other {#个FigJam席位。}}"
     },
     "api_user.account_deleted_redirecting": {
-        "string": "アカウントを削除しました!リダイレクトしています..."
+        "string": "账户已删除！正在重定向..."
     },
     "api_user.confirmation-email": {
-        "string": "確認メールを{email}に送信しました!"
+        "string": "确认邮件已发送到{email}！"
     },
     "api_user.error.an_error_occurred_while_attempting_to_delete_your_account": {
-        "string": "アカウントの削除中にエラーが発生しました。"
+        "string": "尝试删除您的账户时发生错误。"
     },
     "api_user.error.an_error_occurred_while_resetting_your_password": {
-        "string": "パスワードのリセット中にエラーが発生しました。"
+        "string": "重置密码时发生错误。"
     },
     "api_user.error.an_error_occurred_while_sending_the_confirmation_email": {
-        "string": "確認メールの送信中にエラーが発生しました。"
+        "string": "发送确认邮件时发生错误。"
     },
     "api_user.error.an_error_occurred_while_updating_your_information": {
-        "string": "情報の更新中にエラーが発生しました"
+        "string": "更新信息时发生错误。"
     },
     "api_user.error.an_unknown_error_occurred": {
-        "string": "不明なエラーが発生しました"
+        "string": "发生未知错误。"
     },
     "api_user.error.generic-verify-password": {
-        "string": "パスワードの確認中にエラーが発生しました。"
+        "string": "验证密码时发生错误。"
     },
     "api_user.error.please_retype_your_new_password_they_don_t_match": {
-        "string": "新しいパスワードを再度入力してください。パスワードが一致しません。"
+        "string": "请重新输入新密码，两次密码不匹配。"
     },
     "api_user.error.too-long-since-password-checked": {
-        "string": "パスワードを入力してから所定の時間が経過しました。再度入力してください。"
+        "string": "距离上次输入密码的时间过长，请重新输入密码。"
     },
     "api_user.one_moment": {
-        "string": "少しお待ちください..."
+        "string": "请稍候..."
     },
     "api_user.password_changed": {
-        "string": "パスワードが変更されました!"
+        "string": "密码已更改！"
     },
     "api_user.reset-password-instructions": {
-        "string": "パスワードのリセット手順についてのメールを{email}に送信しました!"
+        "string": "已将密码重置指令发送到{email}！"
     },
     "api_user.verify-email-message": {
-        "string": "確認メールを{email}に送信しました。チェックして新しいメールを確認してください。"
+        "string": "确认邮件已发送到{email}，请检查新邮件。"
     },
     "asset_suggestions.close_modal": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "asset_suggestions.community_file_label_with_separator": {
-        "string": " · コミュニティファイル"
+        "string": " · 社区文件"
     },
     "asset_suggestions.community_file_label_without_separator": {
-        "string": "コミュニティファイル"
+        "string": "社区文件"
     },
     "asset_suggestions.fragment_inspect_modal_title": {
-        "string": "フラグメントのインスペクト"
+        "string": "碎片检查"
     },
     "asset_suggestions.image_upload_tooltip": {
-        "string": "画像をアップロードして類似したデザインを検索"
+        "string": "上传图片以搜索相似设计"
     },
     "asset_suggestions.insert_toast_error": {
-        "string": "デザインを挿入できませんでした"
+        "string": "无法插入设计"
     },
     "asset_suggestions.last.edited_time_with_separator": {
-        "string": " · {time}に編集"
+        "string": " · {time}编辑"
     },
     "asset_suggestions.last.edited_time_without_separator": {
-        "string": "{time}に編集"
+        "string": "{time}编辑"
     },
     "asset_suggestions.sort_by": {
-        "string": "並び替え基準"
+        "string": "排序依据"
     },
     "asset_suggestions.sort_last_modified": {
-        "string": "最新の変更"
+        "string": "最后修改"
     },
     "asset_suggestions.sort_percent_match": {
-        "string": "関連度"
+        "string": "匹配度"
     },
     "asset_suggestions.visual_search_button": {
-        "string": "検索"
+        "string": "搜索"
     },
     "asset_suggestions.visual_search_icon_button_tooltip": {
-        "string": "ビジュアル検索(AIベータ版)"
+        "string": "视觉搜索（AI测试版）"
     },
     "asset_suggestions.visual_search_image_upload_button": {
-        "string": "アップロード"
+        "string": "上传"
     },
     "asset_suggestions.visual_search_instructions": {
-        "string": "レイヤーを選択または画像をアップロード"
+        "string": "选择图层或上传图片"
     },
     "asset_suggestions.visual_search_results_title": {
-        "string": "次の検索結果:"
+        "string": "以下是搜索结果："
     },
     "asset_transfers.editor_admin_list_modal.admins_at_entity": {
-        "string": "{entity}の管理者"
+        "string": "{entity}的管理员"
     },
     "asset_transfers.editor_admin_list_modal.any_of_these_admins_can_transfer_this_project_to_an_external_organization": {
-        "string": "これらの管理者のいずれも、このプロジェクトを外部組織に移転できます。開始するには、その組織の連絡先担当者または管理者のメールアドレスが必要です。"
+        "string": "这些管理员中的任何一个都可以将此项目转移到外部组织。开始时需要该组织的联系人或管理员的电子邮件地址。"
     },
     "asset_transfers.editor_admin_list_modal.any_of_these_admins_can_transfer_this_team_to_an_external_organization": {
-        "string": "これらの管理者のいずれも、このチームを外部組織に移転できます。開始するには、その組織の連絡先担当者または管理者のメールアドレスが必要です。"
+        "string": "这些管理员中的任何一个都可以将此团队转移到外部组织。开始时需要该组织的联系人或管理员的电子邮件地址。"
     },
     "asset_transfers.error_message.something_went_wrong_check_your_connection": {
-        "string": "問題が発生しました - 接続を確認し、もう一度お試しください"
+        "string": "出现问题 - 请检查连接，然后重试"
     },
     "asset_transfers.handle_request_modal.a_source_user_email_wants_to_transfer_the_project_copy_to_the_team_name_team_in_your_organization": {
-        "string": "{sourceUserName} ({sourceUserEmail}) がプロジェクト {projectName} のコピーをあなたの組織の{teamName}チームに移転することを希望しています。同意すると、あなたとあなたの他の管理者がこのプロジェクトとそのコンテンツの管理を引き継ぎます。{learnMore}"
+        "string": "{sourceUserName}（{sourceUserEmail}）希望将项目{projectName}的副本转移到您组织的{teamName}团队。批准后，您和您的其他管理员将接管该项目及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.a_source_user_email_wants_to_transfer_the_project_name_to_the_team_name_team": {
-        "string": "{sourceUserName} ({sourceUserEmail}) がプロジェクト{projectName}の{teamName}チームへの移転を希望しています。承認すると、あなたとあなたの他の管理者がこのプロジェクトとそのコンテンツの管理を引き継ぎます。{learnMore}"
+        "string": "{sourceUserName}（{sourceUserEmail}）希望将项目{projectName}转移到{teamName}团队。批准后，您和您的其他管理员将接管该项目及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.a_source_user_email_wants_to_transfer_the_project_name_to_the_team_name_team_in_your_organization": {
-        "string": "{sourceUserName} ({sourceUserEmail}) がプロジェクト {projectName} をあなたの組織の{teamName}チームに移転することを希望しています。同意すると、あなたとあなたの他の管理者がこのプロジェクトとそのコンテンツの管理を引き継ぎます。{learnMore}"
+        "string": "{sourceUserName}（{sourceUserEmail}）希望将项目{projectName}转移到您组织的{teamName}团队。批准后，您和您的其他管理员将接管该项目及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.a_source_user_email_wants_to_transfer_the_team_name_to_your_organization": {
-        "string": "{sourceUserName} ({sourceUserEmail})が{teamName}チームをあなたの組織に移転しようと考えています。同意すると、あなたとあなたの他の管理者がこのチームとそのコンテンツを管理することになります。{learnMore}"
+        "string": "{sourceUserName}（{sourceUserEmail}）希望将{teamName}团队转移到您的组织。批准后，您和您的其他管理员将接管该团队及其内容的管理。{learnMore}"
     },
     "asset_transfers.handle_request_modal.about_this_project": {
-        "string": "このプロジェクトについて"
+        "string": "关于此项目"
     },
     "asset_transfers.handle_request_modal.about_this_team": {
-        "string": "このチームについて"
+        "string": "关于此团队"
     }
 }

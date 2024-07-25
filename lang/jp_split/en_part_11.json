@@ -1,12 +1,12 @@
 {
     "add_unassigned_teams_modal.org_access.secret": {
-        "string": "シークレットチーム"
+        "string": "秘密团队"
     },
     "add_unassigned_teams_modal.project_count": {
-        "string": "{projectCount, plural, other {プロジェクト{projectCount}件}}"
+        "string": "{projectCount}个项目"
     },
     "add_unassigned_teams_modal.search_for_teams": {
-        "string": "チームを検索..."
+        "string": "搜索团队..."
     },
     "add_unassigned_teams_modal.team_metadata": {
         "string": "{memberCountInfo} · {projectCountInfo}"
@@ -15,138 +15,138 @@
         "string": "{accessSettingInfo} · {memberCountInfo} · {projectCountInfo}"
     },
     "add_unassigned_teams_modal.title": {
-        "string": "チームを{workspaceName}に割り当てる"
+        "string": "将团队分配到{workspaceName}"
     },
     "add_unassigned_teams_modal.without_owners": {
-        "string": "オーナーなし"
+        "string": "无所有者"
     },
     "admin_dashboard.all_org_requests.title": {
-        "string": "{orgName}のすべての申請"
+        "string": "{orgName}的所有请求"
     },
     "admin_dashboard.configured_upgrade_request_banner.all_users": {
-        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。この設定を有効にする前の申請は引き続きここに表示されます。"
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。启用此设置之前的请求将继续显示在此处。"
     },
     "admin_dashboard.configured_upgrade_request_banner.members": {
-        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。古いメンバーの申請および新しいゲストの申請はここに表示されます。"
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。旧成员的请求和新访客的请求将显示在此处。"
     },
     "admin_dashboard.configured_upgrade_request_empty_state.all_users": {
-        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。"
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。"
     },
     "admin_dashboard.configured_upgrade_request_empty_state.members": {
-        "string": "お客様の組織では、アップグレードを申請するメンバーはカスタムURLにリダイレクトされます。新しいゲストのアップグレードの申請はここに表示されます。"
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。新访客的请求将显示在此处。"
     },
     "admin_dashboard.managed_org_requests.title": {
-        "string": "自分の申請"
+        "string": "我的请求"
     },
     "admin_dashboard.requests.all_users": {
-        "string": "すべて"
+        "string": "所有"
     },
     "admin_dashboard.requests.approve": {
-        "string": "承認"
+        "string": "批准"
     },
     "admin_dashboard.requests.approve_all": {
-        "string": "すべて承認"
+        "string": "批准所有"
     },
     "admin_dashboard.requests.approve_all_modal.body": {
-        "string": "{numRequests}件の申請を承認しようとしています。"
+        "string": "您即将批准{numRequests}个请求。"
     },
     "admin_dashboard.requests.approve_all_modal.body_filtered": {
-        "string": "{numHiddenRequests, plural, other {{numTotalRequests}件の申請を承認しようとしています。これには、選択中のフィルターによって現在非表示になっている{numHiddenRequests}件が含まれます。}}"
+        "string": "您即将批准{numTotalRequests}个请求，其中包含根据当前筛选器隐藏的{numHiddenRequests}个请求。"
     },
     "admin_dashboard.requests.approve_all_modal.confirm": {
-        "string": "申請を承認"
+        "string": "批准请求"
     },
     "admin_dashboard.requests.approve_all_modal.confirm_filtered": {
-        "string": "{numRequests}件の申請をすべて承認"
+        "string": "批准所有{numRequests}个请求"
     },
     "admin_dashboard.requests.approve_all_modal.title": {
-        "string": "よろしいですか?"
+        "string": "您确定吗？"
     },
     "admin_dashboard.requests.approve_all_modal.title_filtered": {
-        "string": "申請をすべて承認"
+        "string": "批准所有请求"
     },
     "admin_dashboard.requests.billing_groups": {
-        "string": "請求グループ"
+        "string": "账单组"
     },
     "admin_dashboard.requests.columns.last_used_dev_mode": {
-        "string": "開発モードの最後の使用"
+        "string": "最后使用的开发模式"
     },
     "admin_dashboard.requests.columns.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "admin_dashboard.requests.columns.note": {
-        "string": "メモ"
+        "string": "备注"
     },
     "admin_dashboard.requests.columns.request": {
-        "string": "申請"
+        "string": "请求"
     },
     "admin_dashboard.requests.decline": {
-        "string": "承認しない"
+        "string": "拒绝"
     },
     "admin_dashboard.requests.design_seat": {
-        "string": "デザインシート"
+        "string": "设计座位"
     },
     "admin_dashboard.requests.details.billing_groups": {
-        "string": "請求グループ"
+        "string": "账单组"
     },
     "admin_dashboard.requests.details.date": {
-        "string": "日付"
+        "string": "日期"
     },
     "admin_dashboard.requests.details.display_date": {
         "string": "{dateObject, date, ::yMMMMd}"
     },
     "admin_dashboard.requests.details.job_title": {
-        "string": "職名"
+        "string": "职位"
     },
     "admin_dashboard.requests.details.license_type": {
-        "string": "種類"
+        "string": "类型"
     },
     "admin_dashboard.requests.details.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "admin_dashboard.requests.details.note": {
-        "string": "メモ"
+        "string": "备注"
     },
     "admin_dashboard.requests.details.reminder_banner": {
-        "string": "{requesterName}がリマインダーを送信しました:"
+        "string": "{requesterName}发送了提醒："
     },
     "admin_dashboard.requests.details.title": {
-        "string": "申請の詳細"
+        "string": "请求详情"
     },
     "admin_dashboard.requests.devmode_seat": {
-        "string": "開発モードシート"
+        "string": "开发模式座位"
     },
     "admin_dashboard.requests.empty.configurable_upgrade_requests": {
-        "string": "リクエストがありません"
+        "string": "没有请求"
     },
     "admin_dashboard.requests.empty.no_filter_results": {
-        "string": "表示する申請はありません。{resetFiltersLink}"
+        "string": "没有显示的请求。{resetFiltersLink}"
     },
     "admin_dashboard.requests.empty.no_search_results": {
-        "string": "検索条件に一致する申請が見つかりませんでした。条件を変えて検索してください。"
+        "string": "没有符合搜索条件的请求，请更改条件重试。"
     },
     "admin_dashboard.requests.empty.primary_text": {
-        "string": "現在申請はありません"
+        "string": "当前没有请求"
     },
     "admin_dashboard.requests.empty.reset_filters": {
-        "string": "フィルターをリセット"
+        "string": "重置筛选器"
     },
     "admin_dashboard.requests.empty.secondary_text": {
-        "string": "ひと休みしてください。新規のアップグレード申請が届いたらお知らせいたします。"
+        "string": "休息一下吧。当有新的升级请求时，我们会通知您。"
     },
     "admin_dashboard.requests.error_generic": {
-        "string": "問題が発生しました"
+        "string": "发生问题"
     },
     "admin_dashboard.requests.error_multiple": {
-        "string": "処理できなかった申請があります"
+        "string": "有些请求无法处理"
     },
     "admin_dashboard.requests.error_reload": {
-        "string": "再読み込み"
+        "string": "重新加载"
     },
     "admin_dashboard.requests.error_single": {
-        "string": "申請を処理できませんでした"
+        "string": "无法处理请求"
     },
     "admin_dashboard.requests.figjam_seat": {
-        "string": "FigJamシート"
+        "string": "FigJam座位"
     }
 }

@@ -1,152 +1,152 @@
 {
     "auth.document_title.sign_up_for_figma": {
-        "string": "Figmaにサインアップ"
+        "string": "注册Figma"
     },
     "auth.email-domain-suggestion-prompt": {
-        "string": "{domainSuggestion}ですか?"
+        "string": "是{domainSuggestion}吗？"
     },
     "auth.email-input-aria-label": {
-        "string": "メールテキスト入力"
+        "string": "邮件文本输入"
     },
     "auth.email-input-placeholder": {
-        "string": "メール"
+        "string": "邮件"
     },
     "auth.email-only.header": {
-        "string": "Figmaにログインして続行"
+        "string": "登录Figma以继续"
     },
     "auth.email-only.log-in": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "auth.error.account-not-found": {
-        "string": "そのアカウントは見つかりませんでした。サインアップしますか?"
+        "string": "未找到该账户。要注册吗？"
     },
     "auth.error.enter-two-factor-code-client": {
-        "string": "確認コードを入力してください"
+        "string": "请输入验证码"
     },
     "auth.error.magic-link-server-validation-error": {
-        "string": "リクエストを検証できません。"
+        "string": "无法验证请求。"
     },
     "auth.error.wrong_code": {
-        "string": "コードが正しくありません"
+        "string": "验证码错误"
     },
     "auth.extra-info.create-account": {
-        "string": "アカウントを作成"
+        "string": "创建账户"
     },
     "auth.extra-info.errors.please-provide-job-function": {
-        "string": "職務権限を入力してください"
+        "string": "请输入职务"
     },
     "auth.extra-info.how-will-you-use": {
-        "string": "Figmaの使用目的"
+        "string": "您将如何使用Figma"
     },
     "auth.extra-info.job-type-badge.design": {
-        "string": "デザイナー"
+        "string": "设计师"
     },
     "auth.extra-info.job-type-badge.education": {
-        "string": "学生・教育関係"
+        "string": "学生/教育工作者"
     },
     "auth.extra-info.job-type-badge.marketing": {
-        "string": "マーケター"
+        "string": "市场人员"
     },
     "auth.extra-info.job-type-badge.other": {
-        "string": "その他"
+        "string": "其他"
     },
     "auth.extra-info.job-type-badge.product-management": {
-        "string": "プロダクトマネージャー"
+        "string": "产品经理"
     },
     "auth.extra-info.job-type-badge.software-development": {
-        "string": "開発者"
+        "string": "开发人员"
     },
     "auth.extra-info.job-type-badge.user-research": {
-        "string": "ユーザーリサーチャー"
+        "string": "用户研究员"
     },
     "auth.extra-info.job-type.design": {
-        "string": "デザイン"
+        "string": "设计"
     },
     "auth.extra-info.job-type.education": {
-        "string": "学生または教師"
+        "string": "学生或教师"
     },
     "auth.extra-info.job-type.marketing": {
-        "string": "マーケティング"
+        "string": "市场营销"
     },
     "auth.extra-info.job-type.other": {
-        "string": "その他"
+        "string": "其他"
     },
     "auth.extra-info.job-type.product-management": {
-        "string": "製品管理"
+        "string": "产品管理"
     },
     "auth.extra-info.job-type.software-development": {
-        "string": "ソフトウェア開発"
+        "string": "软件开发"
     },
     "auth.extra-info.job-type.user-research": {
-        "string": "ユーザーのリサーチ"
+        "string": "用户研究"
     },
     "auth.extra-info.subscribe-to-figma-tips-and-updates": {
-        "string": "Figmaのヒントと更新のメールを受け取る*"
+        "string": "订阅Figma的提示和更新*"
     },
     "auth.extra-info.subscribe-to-figma-tips-and-updates-terms": {
-        "string": "*チェックボックスにチェックを入れると、Figmaから製品やサービス、イベントについての最新情報を受け取ることに同意したことになります。メールの送信は、いつでも停止できます。"
+        "string": "*选中复选框，即表示您同意从Figma接收关于产品、服务和活动的最新信息。您可以随时取消订阅。"
     },
     "auth.extra-info.tell-us-about-yourself": {
-        "string": "自分の情報"
+        "string": "告诉我们关于您的信息"
     },
     "auth.extra-info.usage-purpose.edu": {
-        "string": "授業を教える、または受けるため"
+        "string": "教学或学习"
     },
     "auth.extra-info.usage-purpose.personal": {
-        "string": "個人的に使用するため"
+        "string": "个人使用"
     },
     "auth.extra-info.usage-purpose.work": {
-        "string": "仕事のため"
+        "string": "工作用途"
     },
     "auth.extra-info.what-kind-of-work": {
-        "string": "どのような仕事ですか?"
+        "string": "哪种工作？"
     },
     "auth.extra-info.what-kind-of-work-required": {
-        "string": "職業(必須)"
+        "string": "职业（必填）"
     },
     "auth.extra-info.your-name": {
-        "string": "自分の名前"
+        "string": "您的名字"
     },
     "auth.figma-file": {
-        "string": "Figmaファイル"
+        "string": "Figma文件"
     },
     "auth.footer-forgot-password": {
-        "string": "パスワードをリセット"
+        "string": "重置密码"
     },
     "auth.footer-saml-link": {
-        "string": "シングルサインオンを使用"
+        "string": "使用单点登录"
     },
     "auth.footer-sign-in-switch-form-link": {
-        "string": "作成する"
+        "string": "创建"
     },
     "auth.footer-sign-in-switch-form-text": {
-        "string": "アカウントを持っていませんか?"
+        "string": "没有账户？"
     },
     "auth.footer-sign-up-switch-form-link": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "auth.footer-sign-up-switch-form-text": {
-        "string": "アカウントをお持ちですか?"
+        "string": "已有账户？"
     },
     "auth.generic-app-auth-error": {
-        "string": "エラーが発生しました。もう一度お試しください。"
+        "string": "发生错误。请重试。"
     },
     "auth.generic-go-back-and-try-again": {
-        "string": "戻ってもう一度お試しください"
+        "string": "返回并重试"
     },
     "auth.generic-loading": {
-        "string": "読み込んでいます..."
+        "string": "加载中..."
     },
     "auth.generic-or": {
-        "string": "または"
+        "string": "或"
     },
     "auth.go-to-browser-to-complete-login": {
-        "string": "ブラウザに進んでログインを完了してください"
+        "string": "请前往浏览器完成登录"
     },
     "auth.google-sso.unable-to-auth": {
-        "string": "認証できません"
+        "string": "无法进行认证"
     },
     "auth.google-sso.unable-to-get-info": {
-        "string": "Googleからプロフィール情報を取得できません。"
+        "string": "无法从Google获取个人信息"
     }
 }

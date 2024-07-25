@@ -1,152 +1,152 @@
 {
     "auth.two-factor-setup.type_the_text_code_into_your_app": {
-        "string": "テキストコードをアプリに入力します。"
+        "string": "将文本代码输入到您的应用程序中。"
     },
     "auth.two-factor-setup.unregister_sms_number": {
-        "string": "SMS番号の登録を解除する"
+        "string": "取消注册短信号码"
     },
     "auth.two-factor-setup.use_an_authenticator_app_instead": {
-        "string": "代わりにオーセンティケーターアプリを使用する"
+        "string": "改用身份验证器应用"
     },
     "auth.two-factor-setup.verify": {
-        "string": "確認"
+        "string": "验证"
     },
     "auth.two-factor-setup.verify-before-enabling": {
-        "string": "2要素認証を有効にする前に、メールアドレスを確認します。"
+        "string": "启用两因素认证前请先验证电子邮件地址。"
     },
     "auto_rename_layers.could_not_rename_all_layers": {
-        "string": "{count}個のレイヤーの名前を変更できませんでした"
+        "string": "无法重命名{count}个图层"
     },
     "auto_rename_layers.error.no_nameable_items": {
-        "string": "ネーミングが必要なレイヤーはありません"
+        "string": "没有需要命名的图层"
     },
     "auto_rename_layers.progress": {
         "string": "{completed} / {total}"
     },
     "auto_rename_layers.rename_anyway": {
-        "string": "名前の変更を実行"
+        "string": "仍然重命名"
     },
     "auto_rename_layers.running": {
-        "string": "名前を変更しています..."
+        "string": "正在重命名..."
     },
     "auto_rename_layers.select_some_layers": {
-        "string": "最初にレイヤーを選択してください"
+        "string": "请先选择图层"
     },
     "auto_rename_layers.too_many_layers_count": {
-        "string": "{limit}個中の{selected}個"
+        "string": "{selected}个中的{limit}个"
     },
     "auto_rename_layers.too_many_layers_selected": {
-        "string": "選択したレイヤーが多すぎます"
+        "string": "选择的图层过多"
     },
     "autosave.file_already_open_modal.body": {
-        "string": "{fileName}はすでに別のタブで開いています。そのタブで編集を続けるか、ファイルをいったん閉じてから、ここで開いてください。"
+        "string": "{fileName}已经在另一个标签页中打开。请在那个标签页继续编辑，或者先关闭那个文件再在这里打开。"
     },
     "autosave.file_already_open_modal.title": {
-        "string": "ファイルは既に開いています"
+        "string": "文件已打开"
     },
     "autosave.has_changes.dismiss.later": {
-        "string": "あとで"
+        "string": "稍后"
     },
     "autosave.has_changes.expiry_text_days": {
-        "string": "{days, plural, other {同期されていない変更は、{days}日後に期限切れになります。}}"
+        "string": "{days, plural, other {未同步的更改将在{days}天后过期。}}"
     },
     "autosave.has_changes.expiry_text_shortly": {
-        "string": "同期されていない変更は、まもなく期限切れになります。"
+        "string": "未同步的更改即将过期。"
     },
     "autosave.has_changes.open_to_sync": {
-        "string": "開いて同期"
+        "string": "打开以同步"
     },
     "autosave.has_changes.sync_offline_changes": {
-        "string": "オフライン変更を同期"
+        "string": "同步离线更改"
     },
     "autosave.has_changes.unsaved_changes_to_file": {
-        "string": "オフラインの時から同期されなかった{fileName}の変更があります。ファイルを開いて変更を同期します。"
+        "string": "自离线以来，{fileName}有未同步的更改。请打开文件以同步更改。"
     },
     "autosave.has_changes.unsynced_changes_offline": {
-        "string": "オフラインの時から同期されなかった変更があります。ファイルを開いて変更を同期します。"
+        "string": "自离线以来有未同步的更改。请打开文件以同步更改。"
     },
     "autosave.learn_more.body_save_pending_changes": {
-        "string": "オフラインであってもブラウザで保留中の変更は保存されます。オンラインに戻ると、タブが閉じられていても、これらの変更がファイルに適用されます。"
+        "string": "即使离线，浏览器中仍会保存待处理的更改。重新联网时，这些更改将应用到文件中，即使标签页已关闭。"
     },
     "autosave.learn_more.body_use_version_history": {
-        "string": "バージョン履歴を使用して変更を確認できます。"
+        "string": "可以使用版本历史记录查看更改。"
     },
     "autosave.learn_more.done_button": {
-        "string": "完了"
+        "string": "完成"
     },
     "autosave.learn_more.title": {
-        "string": "未保存の変更について"
+        "string": "关于未保存的更改"
     },
     "autosave.logout.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "autosave.logout.discard": {
-        "string": "変更を破棄"
+        "string": "丢弃更改"
     },
     "autosave.logout.discard_and_logout": {
-        "string": "破棄してログアウト"
+        "string": "丢弃并退出"
     },
     "autosave.logout.log_out": {
-        "string": "ログアウト"
+        "string": "退出登录"
     },
     "autosave.logout.log_out_text.desktop": {
-        "string": "ログアウトするとオフライン変更が破棄されます。ログアウトする前に、[変更を表示]を選択して同期します。"
+        "string": "退出登录将丢弃离线更改。请在退出前选择“查看更改”以同步。"
     },
     "autosave.logout.log_out_text.web": {
-        "string": "変更は次回のサインイン時に同期できます。共用のデバイスや共有のデバイスを使用している場合は、[破棄してログアウト]を選択して同期されていない変更を破棄できます。"
+        "string": "更改将在下次登录时同步。如果您使用的是共享设备，可以选择“丢弃并退出”以丢弃未同步的更改。"
     },
     "autosave.logout.offline_changes": {
-        "string": "オフライン変更"
+        "string": "离线更改"
     },
     "autosave.logout.offline_changes_discarded": {
-        "string": "オフラインでの変更が破棄されました。"
+        "string": "离线更改已被丢弃。"
     },
     "autosave.logout.offline_changes_synced": {
-        "string": "すべてのオフライン変更が同期されました。"
+        "string": "所有离线更改已同步。"
     },
     "autosave.logout.show_changes": {
-        "string": "変更を表示"
+        "string": "查看更改"
     },
     "autosave.logout.sync_changes": {
-        "string": "変更を同期"
+        "string": "同步更改"
     },
     "autosave.notification.action_later": {
-        "string": "あとで"
+        "string": "稍后"
     },
     "autosave.notification.action_open_to_sync": {
-        "string": "開いて同期する"
+        "string": "打开以同步"
     },
     "autosave.notification.action_review": {
-        "string": "確認する"
+        "string": "查看"
     },
     "autosave.notification.message.more_than_one_file": {
-        "string": "同期されていないオフライン変更を含むファイルがあります。"
+        "string": "有多个文件包含未同步的离线更改。"
     },
     "autosave.notification.message.one_file": {
-        "string": "オフライン作業時に{fileName}に加えた変更がまだ同期されていません。"
+        "string": "{fileName}有离线时的未同步更改。"
     },
     "autosave.unable_to_leave_document.ok_button": {
-        "string": "OK"
+        "string": "确定"
     },
     "autosave.unable_to_leave_document.pending_changes": {
-        "string": "このファイルには、保留中のオフライン変更があります。オフライン変更はオンラインになったときにFigmaで同期されます。"
+        "string": "此文件有待处理的离线更改。离线更改将在重新联网时同步。"
     },
     "autosave.unable_to_leave_document.title": {
-        "string": "ドキュメントを終了できません"
+        "string": "无法离开文档"
     },
     "autosave.unable_to_leave_document.unsaved_changes_save_in_background": {
-        "string": "現在のドキュメントに未保存の変更があります。バックグラウンドで引き続き保存が試行されます。後でもう一度お試しください。"
+        "string": "当前文档有未保存的更改。保存尝试将继续在后台进行。请稍后再试。"
     },
     "autosave.visual_bell.offline": {
-        "string": "オフラインです。インターネットに再接続すると、自動保存が再開されます。"
+        "string": "您处于离线状态。重新连接到互联网后将恢复自动保存。"
     },
     "autosave.visual_bell.unsaved_changes": {
-        "string": "ドキュメントに未保存の変更があります。引き続き、作業の自動保存が試行されます。"
+        "string": "文档有未保存的更改。将继续尝试自动保存您的工作。"
     },
     "autosave.you_dont_need_to_save_reminder": {
-        "string": "作業は自動保存されます"
+        "string": "您的工作将自动保存"
     },
     "avatar_actions.an_error_occurred": {
-        "string": "エラーが発生しました。"
+        "string": "发生错误。"
     }
 }

@@ -1,152 +1,152 @@
 {
     "assets_in_actions.detail_view.components_tab.title": {
-        "string": "コンポーネント"
+        "string": "组件"
     },
     "assets_in_actions.detail_view.fragments_tab.designs_title": {
-        "string": "デザイン"
+        "string": "设计"
     },
     "assets_in_actions.detail_view.fragments_tab.title": {
-        "string": "他のデザイン"
+        "string": "其他设计"
     },
     "assets_in_actions.error.description": {
-        "string": "予期しないエラーが発生しました"
+        "string": "发生意外错误"
     },
     "assets_in_actions.error.title": {
-        "string": "問題が発生しました"
+        "string": "出现问题"
     },
     "assets_in_actions.fragment_search.placeholder_1": {
-        "string": "例: 「決済画面」"
+        "string": "例如：“结算页面”"
     },
     "assets_in_actions.fragment_search.placeholder_10": {
-        "string": "例: 「...と表示するツールチップ」"
+        "string": "例如：“显示...的工具提示”"
     },
     "assets_in_actions.fragment_search.placeholder_11": {
-        "string": "例: 「CRJプロジェクトのモーダルを表示」"
+        "string": "例如：“显示CRJ项目的模态”"
     },
     "assets_in_actions.fragment_search.placeholder_12": {
-        "string": "例: 「ようこそ画面」"
+        "string": "例如：“欢迎页面”"
     },
     "assets_in_actions.fragment_search.placeholder_13": {
-        "string": "例: 「問題が発生しましたダイアログ」"
+        "string": "例如：“发生问题的对话框”"
     },
     "assets_in_actions.fragment_search.placeholder_2": {
-        "string": "例: 「プロジェクトZのためのオンボーディング」"
+        "string": "例如：“项目Z的入职培训”"
     },
     "assets_in_actions.fragment_search.placeholder_3": {
-        "string": "例: 「支払いが完了しました」"
+        "string": "例如：“付款完成”"
     },
     "assets_in_actions.fragment_search.placeholder_4": {
-        "string": "例: 「CRJプロジェクトのスプラッシュ画面」"
+        "string": "例如：“CRJ项目的启动画面”"
     },
     "assets_in_actions.fragment_search.placeholder_5": {
-        "string": "例: 「パスワードを忘れた場合」"
+        "string": "例如：“忘记密码时”"
     },
     "assets_in_actions.fragment_search.placeholder_6": {
-        "string": "例: 「年末商戦マーケティングサイトのデザイン変更」"
+        "string": "例如：“年末营销网站设计变更”"
     },
     "assets_in_actions.fragment_search.placeholder_7": {
-        "string": "例: 「iOS用の設定ページ」"
+        "string": "例如：“iOS设置页面”"
     },
     "assets_in_actions.fragment_search.placeholder_8": {
-        "string": "例: 「アカウント作成、ダークモード」"
+        "string": "例如：“创建帐户，深色模式”"
     },
     "assets_in_actions.fragment_search.placeholder_9": {
-        "string": "例: 「ゲスト用のログイン画面」"
+        "string": "例如：“访客登录页面”"
     },
     "assets_in_actions.fragments.fragment_search_sugggestion": {
-        "string": "{boldText} 関連するデザインを{orgText}で検索"
+        "string": "{boldText} 在{orgText}中搜索相关设计"
     },
     "assets_in_actions.fragments.fragment_search_sugggestion_bold_text": {
-        "string": "まだお探しですか?"
+        "string": "还在找吗？"
     },
     "assets_in_actions.fragments.fragment_search_sugggestion_hint": {
-        "string": "その他のデザインを見る"
+        "string": "查看其他设计"
     },
     "assets_in_actions.fragments_section.empty_state.header": {
-        "string": "{orgText}で検索"
+        "string": "在{orgText}中搜索"
     },
     "assets_in_actions.fragments_section.empty_state.header_community": {
-        "string": "コミュニティ全体で検索"
+        "string": "在整个社区中搜索"
     },
     "assets_in_actions.fragments_section.empty_state.header_generic": {
-        "string": "組織全体で検索"
+        "string": "在整个组织中搜索"
     },
     "assets_in_actions.fragments_section.empty_state.text": {
-        "string": "関連するデザインを組織全体で検索できるようになりました。"
+        "string": "您现在可以在整个组织中搜索相关设计。"
     },
     "assets_in_actions.fragments_section.empty_state.text_community": {
-        "string": "関連するデザインをコミュニティ全体で検索できるようになりました。"
+        "string": "您现在可以在整个社区中搜索相关设计。"
     },
     "assets_in_actions.fragments_section.error.description": {
-        "string": "予期しないエラーが発生しました"
+        "string": "发生意外错误"
     },
     "assets_in_actions.fragments_section.error.title": {
-        "string": "問題が発生しました"
+        "string": "出现问题"
     },
     "assets_in_actions.fragments_section.no_results.title": {
-        "string": "「{query}」に一致する結果はありません"
+        "string": "没有找到与“{query}”匹配的结果"
     },
     "assets_in_actions.fragments_section.title": {
-        "string": "他のデザイン"
+        "string": "其他设计"
     },
     "assets_in_actions.no_results.title": {
-        "string": "「{query}」に一致する結果はありません"
+        "string": "没有找到与“{query}”匹配的结果"
     },
     "assets_in_actions.see_more_button": {
-        "string": "さらに表示"
+        "string": "查看更多"
     },
     "auth.account-picker": {
-        "string": "アクセス権をリクエストするアカウントを選択します"
+        "string": "选择要请求访问的帐户"
     },
     "auth.account-picker-join-text": {
-        "string": "{destination}に参加するアカウントを選択"
+        "string": "选择加入{destination}的帐户"
     },
     "auth.account-picker-open-text": {
-        "string": "{destination}を開くアカウントを選択"
+        "string": "选择打开{destination}的帐户"
     },
     "auth.add-another-account-with-link": {
-        "string": "使いたいアカウントが表示されない場合は、{addAnotherLink}できます。"
+        "string": "如果没有显示您要使用的帐户，您可以{addAnotherLink}。"
     },
     "auth.add-another-no-punctuation": {
-        "string": "別のアカウントを追加"
+        "string": "添加另一个帐户"
     },
     "auth.choose-account-to-add-to-figma-for-vs-code": {
-        "string": "VS Code連携に追加するアカウントを選択します"
+        "string": "选择要添加到VS Code集成的帐户"
     },
     "auth.choose-account-to-add-to-specific-app": {
-        "string": "Figma {appDescriptor}アプリに追加するアカウントを選択"
+        "string": "选择要添加到Figma {appDescriptor}应用的帐户"
     },
     "auth.claim-invite.header": {
-        "string": "ログインまたはアカウントを作成してコラボレート"
+        "string": "登录或创建帐户以进行协作"
     },
     "auth.claim-invite.header-file": {
-        "string": "ログインまたはアカウントを作成してこのファイルでコラボレート"
+        "string": "登录或创建帐户以在此文件中进行协作"
     },
     "auth.continue-with-the-specific-app": {
-        "string": "{appDescriptor}アプリを続行"
+        "string": "继续使用{appDescriptor}应用"
     },
     "auth.cookies_are_disabled": {
-        "string": "Cookieは無効になっています"
+        "string": "Cookie已禁用"
     },
     "auth.cookies_are_required_to_use_figma": {
-        "string": "ログインしてFigmaをご利用になるにはCookieが必要です。お使いのブラウザの設定でCookieを有効にして、ページを更新してください。"
+        "string": "要登录并使用Figma，需要启用Cookie。请在浏览器设置中启用Cookie并刷新页面。"
     },
     "auth.create-one": {
-        "string": "作成する"
+        "string": "创建一个"
     },
     "auth.create_an_account_to_collaborate_on_display_name": {
-        "string": "{displayName}でコラボレーションするにはアカウントを作成してください"
+        "string": "创建帐户以在{displayName}上协作"
     },
     "auth.create_an_account_to_collaborate_on_this_file": {
-        "string": "このファイルでコラボレーションするにはアカウントを作成してください"
+        "string": "创建帐户以在此文件上协作"
     },
     "auth.default-error": {
-        "string": "エラーが発生しました"
+        "string": "发生错误"
     },
     "auth.desktop-app": {
-        "string": "デスクトップ"
+        "string": "桌面应用"
     },
     "auth.document_title.login_figma": {
-        "string": "ログイン | Figma"
+        "string": "登录 | Figma"
     }
 }

@@ -1,152 +1,152 @@
 {
     "activity_log.repo.merged_branch_name": {
-        "string": "ブランチ{name}をマージしました"
+        "string": "合并了分支{name}"
     },
     "activity_log.repo.merged_branch_name_into_file_name": {
-        "string": "ブランチ{name}を{fileName}にマージしました"
+        "string": "将分支{name}合并到{fileName}"
     },
     "activity_log.repo.unarchived_branch_name": {
-        "string": "ブランチ{name}をアーカイブ解除しました"
+        "string": "取消存档分支{name}"
     },
     "activity_log.repo.unarchived_branch_name_from_file": {
-        "string": "ブランチ{name}を{fileName}からアーカイブ解除しました"
+        "string": "取消存档分支{name}从文件{fileName}"
     },
     "activity_log.repo.updated_branch_name": {
-        "string": "ブランチ{name}を更新しました"
+        "string": "更新了分支{name}"
     },
     "activity_log.repo.updated_branch_name_from_file_name": {
-        "string": "ブランチ{name}を{fileName}から更新しました"
+        "string": "更新了分支{name}从文件{fileName}"
     },
     "activity_log.resource.file": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "activity_log.resource.project": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "activity_log.table.activity_log.table.csv_requested_success": {
-        "string": "CSVを生成中です。これには数分かかります。準備完了時にメールを送信します。"
+        "string": "CSV生成中。这可能需要几分钟，准备就绪时会发送邮件通知。"
     },
     "activity_log.table.all": {
-        "string": "すべて"
+        "string": "所有"
     },
     "activity_log.table.clear": {
-        "string": "クリア"
+        "string": "清除"
     },
     "activity_log.table.csv_requested_error": {
-        "string": "エラーが発生しました"
+        "string": "发生错误"
     },
     "activity_log.table.date": {
-        "string": "日付"
+        "string": "日期"
     },
     "activity_log.table.event": {
-        "string": "イベント"
+        "string": "事件"
     },
     "activity_log.table.event_selected": {
-        "string": "イベント:{event}"
+        "string": "事件:{event}"
     },
     "activity_log.table.events_all": {
-        "string": "イベント:すべて"
+        "string": "事件:所有"
     },
     "activity_log.table.get_csv": {
-        "string": "CSVを取得"
+        "string": "获取CSV"
     },
     "activity_log.table.ip_address": {
-        "string": "IPアドレス"
+        "string": "IP地址"
     },
     "activity_log.table.load_more": {
-        "string": "さらに読み込み"
+        "string": "加载更多"
     },
     "activity_log.table.member_email_addresses": {
-        "string": "メンバーのメールアドレス"
+        "string": "成员邮箱地址"
     },
     "activity_log.table.no_results_were_found": {
-        "string": "結果がありません。"
+        "string": "未找到结果。"
     },
     "activity_log.table.preparing_request_for_csv": {
-        "string": "CSVの要求を準備しています"
+        "string": "正在准备CSV请求"
     },
     "activity_log.table.product": {
-        "string": "製品"
+        "string": "产品"
     },
     "activity_log.table.team": {
-        "string": "チーム"
+        "string": "团队"
     },
     "activity_log.table.team_member": {
-        "string": "チームメンバー"
+        "string": "团队成员"
     },
     "activity_log.table.team_selected": {
-        "string": "チーム:{team}"
+        "string": "团队:{team}"
     },
     "activity_log.table.teams_all": {
-        "string": "チーム:すべて"
+        "string": "团队:所有"
     },
     "activity_log.teams.added_team_to_workspace": {
-        "string": "{teamName}チームを{newWorkspaceName}ワークスペースに追加しました"
+        "string": "将团队{teamName}添加到工作区{newWorkspaceName}"
     },
     "activity_log.teams.added_team_to_workspace_and_removed_from_old_workspace": {
-        "string": "{teamName}チームを{oldWorkspaceName}ワークスペースから{newWorkspaceName}ワークスペースに移動しました"
+        "string": "将团队{teamName}从工作区{oldWorkspaceName}移到工作区{newWorkspaceName}"
     },
     "activity_log.teams.added_user_email_to_the_resource": {
-        "string": "{userEmail}を{resourceName} {resourceType}に{level}として追加しました"
+        "string": "将{userEmail}作为{level}添加到{resourceName} {resourceType}"
     },
     "activity_log.teams.approver_name_approved_the_transfer_of_team_name_team": {
-        "string": "{approverName}が組織への{teamName}チームの移転を承認しました"
+        "string": "{approverName}批准了将团队{teamName}移到组织"
     },
     "activity_log.teams.changed_team_creation_controls_to_admins_only": {
-        "string": "管理者のみに対するチーム作成設定を変更しました"
+        "string": "将团队创建控制更改为仅管理员"
     },
     "activity_log.teams.changed_team_creation_controls_to_anyone": {
-        "string": "全ユーザーに対するチーム作成設定を変更しました"
+        "string": "将团队创建控制更改为任何人"
     },
     "activity_log.teams.changed_the__team_from_old_access": {
-        "string": "チームを{oldAccess}から{newAccess}に変更しました"
+        "string": "将团队从{oldAccess}更改为{newAccess}"
     },
     "activity_log.teams.changed_user_email": {
-        "string": "{userEmail}を{resourceName} {resourceType}の{oldPermission}から{newPermission}に変更しました"
+        "string": "将{userEmail}的权限从{oldPermission}更改为{newPermission}在{resourceName} {resourceType}"
     },
     "activity_log.teams.created_the_team_name_team_with": {
-        "string": "{teamName}チームを{orgAccess}アクセスで作成しました"
+        "string": "创建了团队{teamName}并赋予{orgAccess}访问权限"
     },
     "activity_log.teams.deleted_the_team_name_team": {
-        "string": "{teamName}チームを削除しました"
+        "string": "删除了团队{teamName}"
     },
     "activity_log.teams.exported_the_members_list_to_csv": {
-        "string": "メンバーリストをCSVにエクスポートしました"
+        "string": "将成员列表导出为CSV"
     },
     "activity_log.teams.exported_the_org_team_list_to_csv": {
-        "string": "組織のチームリストをCSVにエクスポートしました"
+        "string": "将组织团队列表导出为CSV"
     },
     "activity_log.teams.exported_the_team_name_team_out": {
-        "string": "{teamName}チームを組織外にエクスポートしました"
+        "string": "将团队{teamName}导出到组织外部"
     },
     "activity_log.teams.exported_the_workspace_team_list_to_csv": {
-        "string": "ワークスペース{workspaceName}のチームリストをCSVにエクスポートしました"
+        "string": "将工作区{workspaceName}的团队列表导出为CSV"
     },
     "activity_log.teams.imported_the_team_name_team_int": {
-        "string": "{teamName}チームを組織にインポートしました"
+        "string": "将团队{teamName}导入组织"
     },
     "activity_log.teams.joined_the_resource_name_resource": {
-        "string": "{resourceName} {resourceType}に参加しました"
+        "string": "加入了{resourceName} {resourceType}"
     },
     "activity_log.teams.left_the_resource_name_resource": {
-        "string": "{resourceName} {resourceType}を退出しました"
+        "string": "退出了{resourceName} {resourceType}"
     },
     "activity_log.teams.org_name_wants_to_transfer_team_name": {
-        "string": "{orgName}が組織への{teamName}の移転を希望しています"
+        "string": "{orgName}希望将团队{teamName}转移到组织"
     },
     "activity_log.teams.removed_team_from_workspace": {
-        "string": "{teamName}を{oldWorkspaceName}ワークスペースから削除しました"
+        "string": "从工作区{oldWorkspaceName}删除了团队{teamName}"
     },
     "activity_log.teams.removed_user_email_from_org_draft": {
-        "string": "組織のドラフトから{userEmail}を削除しました"
+        "string": "从组织草稿中删除了{userEmail}"
     },
     "activity_log.teams.removed_user_email_from_the_resource": {
-        "string": "{userEmail}を{resourceName} {resourceType}から削除しました"
+        "string": "将{userEmail}从{resourceName} {resourceType}中删除"
     },
     "activity_log.teams.renamed_the_old_name_team": {
-        "string": "{oldName}チームの名前を{teamName}に変更しました"
+        "string": "将团队{oldName}重命名为{teamName}"
     },
     "activity_log.teams.requested_to_transfer_the_team": {
-        "string": "{teamName}チームを{destinationOrg}に移転するリクエストをしました"
+        "string": "请求将团队{teamName}转移到{destinationOrg}"
     }
 }

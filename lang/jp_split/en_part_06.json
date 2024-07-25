@@ -1,152 +1,152 @@
 {
     "activity_log.filter.billing_group.membership_changed": {
-        "string": "ユーザーの請求グループ変更"
+        "string": "用户账单组更改"
     },
     "activity_log.filter.billing_group.renamed": {
-        "string": "請求グループ名変更"
+        "string": "账单组名称更改"
     },
     "activity_log.filter.billing_group.self_select": {
-        "string": "ユーザー自身による請求グループ選択"
+        "string": "用户自行选择账单组"
     },
     "activity_log.filter.branches": {
-        "string": "ブランチ"
+        "string": "分支"
     },
     "activity_log.filter.changed_a_user_s_workspace": {
-        "string": "ユーザーのワークスペースの変更"
+        "string": "用户工作区更改"
     },
     "activity_log.filter.changed_autogen_password_controls_setting": {
-        "string": "パスワード保護設定の変更"
+        "string": "密码保护设置更改"
     },
     "activity_log.filter.changed_default_role.seat_rename": {
-        "string": "デフォルトのシートタイプの変更"
+        "string": "默认座位类型更改"
     },
     "activity_log.filter.changed_guest_invite_setting": {
-        "string": "ゲスト招待設定の変更"
+        "string": "来宾邀请设置更改"
     },
     "activity_log.filter.changed_open_sessions_setting": {
-        "string": "オープンセッション設定の変更"
+        "string": "开放会话设置更改"
     },
     "activity_log.filter.changed_public_link_setting": {
-        "string": "公開リンク設定の変更"
+        "string": "公开链接设置更改"
     },
     "activity_log.filter.changed_team_creation_controls": {
-        "string": "チーム作成設定の変更"
+        "string": "团队创建设置更改"
     },
     "activity_log.filter.changed_the_org_access_of_a_team": {
-        "string": "チームの組織アクセス権の変更"
+        "string": "团队组织访问权限更改"
     },
     "activity_log.filter.changed_the_team_access_of_a_project": {
-        "string": "プロジェクトのチームアクセス権の変更"
+        "string": "项目团队访问权限更改"
     },
     "activity_log.filter.changed_the_workspace_of_a_team": {
-        "string": "チームのワークスペースの変更"
+        "string": "团队工作区更改"
     },
     "activity_log.filter.changed_workspace_public_link_setting": {
-        "string": "ワークスペースの公開リンク設定の変更"
+        "string": "工作区公开链接设置更改"
     },
     "activity_log.filter.community": {
-        "string": "コミュニティ"
+        "string": "社区"
     },
     "activity_log.filter.configurable_upgrade_request_flow_changed": {
-        "string": "アップグレード申請フローの変更"
+        "string": "升级请求流程更改"
     },
     "activity_log.filter.created_a_branch": {
-        "string": "ブランチ作成"
+        "string": "创建分支"
     },
     "activity_log.filter.created_a_file": {
-        "string": "ファイル作成"
+        "string": "创建文件"
     },
     "activity_log.filter.created_a_project": {
-        "string": "プロジェクト作成"
+        "string": "创建项目"
     },
     "activity_log.filter.created_a_team": {
-        "string": "チーム作成"
+        "string": "创建团队"
     },
     "activity_log.filter.created_a_workspace": {
-        "string": "ワークスペース作成"
+        "string": "创建工作区"
     },
     "activity_log.filter.cursor_chat_setting_change": {
-        "string": "カーソルチャット有効/無効"
+        "string": "光标聊天启用/禁用"
     },
     "activity_log.filter.custom": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "activity_log.filter.default_role.seat_rename": {
-        "string": "デフォルトのシートタイプ"
+        "string": "默认座位类型"
     },
     "activity_log.filter.deleted_a_branch": {
-        "string": "ブランチ削除"
+        "string": "删除分支"
     },
     "activity_log.filter.deleted_a_project": {
-        "string": "プロジェクト削除"
+        "string": "删除项目"
     },
     "activity_log.filter.deleted_a_team": {
-        "string": "チーム削除"
+        "string": "删除团队"
     },
     "activity_log.filter.deleted_a_workspace": {
-        "string": "ワークスペース削除"
+        "string": "删除工作区"
     },
     "activity_log.filter.duplicated_a_file": {
-        "string": "ファイル複製"
+        "string": "复制文件"
     },
     "activity_log.filter.exported_a_file": {
-        "string": "ファイルのエクスポート"
+        "string": "导出文件"
     },
     "activity_log.filter.exported_the_members_list": {
-        "string": "メンバーリストのエクスポート"
+        "string": "导出成员列表"
     },
     "activity_log.filter.exported_the_org_team_list": {
-        "string": "組織のチームリストのエクスポート"
+        "string": "导出组织团队列表"
     },
     "activity_log.filter.exported_the_workspace_team_list": {
-        "string": "ワークスペースのチームリストのエクスポート"
+        "string": "导出工作区团队列表"
     },
     "activity_log.filter.external_access": {
-        "string": "外部アクセス"
+        "string": "外部访问"
     },
     "activity_log.filter.external_org_membership_changed": {
-        "string": "外部組織のメンバーシップ変更"
+        "string": "外部组织成员更改"
     },
     "activity_log.filter.external_team_membership_changed": {
-        "string": "外部チームのメンバーシップ変更"
+        "string": "外部团队成员更改"
     },
     "activity_log.filter.fig_file_set_password": {
-        "string": "ファイルパスワード設定"
+        "string": "设置文件密码"
     },
     "activity_log.filter.fig_file_unset_password": {
-        "string": "ファイルパスワード設定解除"
+        "string": "取消文件密码"
     },
     "activity_log.filter.file_link_access_changed": {
-        "string": "ファイルリンクアクセスを変更"
+        "string": "文件链接访问更改"
     },
     "activity_log.filter.file_link_expiration_changed": {
-        "string": "ファイルリンクの有効期間変更"
+        "string": "文件链接有效期更改"
     },
     "activity_log.filter.file_membership_changed": {
-        "string": "ファイルメンバーシップ変更"
+        "string": "文件成员更改"
     },
     "activity_log.filter.file_published_updated_deleted": {
-        "string": "ファイル発行/更新/削除"
+        "string": "文件发布/更新/删除"
     },
     "activity_log.filter.file_repo_membership_changed": {
-        "string": "ブランチメンバーシップ変更"
+        "string": "分支成员更改"
     },
     "activity_log.filter.files": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "activity_log.filter.google_sso_auth": {
-        "string": "Google SSO認証変更"
+        "string": "Google SSO认证更改"
     },
     "activity_log.filter.idle_timeout_setting_change": {
-        "string": "アイドルセッションタイムアウト変更"
+        "string": "空闲会话超时设置更改"
     },
     "activity_log.filter.incoming_transfers": {
-        "string": "着信移転"
+        "string": "接收的传输"
     },
     "activity_log.filter.install_plugins_org_wide": {
-        "string": "組織でのプラグインのインストール"
+        "string": "在整个组织中安装插件"
     },
     "activity_log.filter.install_widgets_org_wide": {
-        "string": "組織でのウィジェットのインストール"
+        "string": "在整个组织中安装小部件"
     }
 }

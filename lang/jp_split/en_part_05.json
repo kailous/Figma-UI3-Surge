@@ -1,152 +1,152 @@
 {
     "activity_log.event.saml_sso_auth_enable": {
-        "string": "SAML SSO認証を有効にしました"
+        "string": "启用了SAML SSO认证"
     },
     "activity_log.event.scim_token_generate": {
-        "string": "SCIMトークンを生成しました"
+        "string": "生成了SCIM令牌"
     },
     "activity_log.event.scim_token_revoke": {
-        "string": "SCIMトークンを取り消しました"
+        "string": "撤销了SCIM令牌"
     },
     "activity_log.event.team_member_add_external": {
-        "string": "外部チーム{teamName}が参加しました"
+        "string": "加入了外部团队{teamName}"
     },
     "activity_log.event.team_member_remove_external": {
-        "string": "外部チーム{teamName}が脱退しました"
+        "string": "退出了外部团队{teamName}"
     },
     "activity_log.event.widget_approvelist_add_org": {
-        "string": "ウィジェット{widgetName}の{org}での使用を承認しました"
+        "string": "批准在{org}中使用小部件{widgetName}"
     },
     "activity_log.event.widget_approvelist_add_workspace": {
-        "string": "ウィジェット{widgetName}のワークスペース{workspace}での使用を承認しました"
+        "string": "批准在工作区{workspace}中使用小部件{widgetName}"
     },
     "activity_log.event.widget_approvelist_disable_org": {
-        "string": "{org}でのウィジェットの承認を不要にしました"
+        "string": "在{org}中不再需要小部件批准"
     },
     "activity_log.event.widget_approvelist_enable_org": {
-        "string": "{org}でのウィジェットの承認を必須にしました"
+        "string": "在{org}中启用小部件批准"
     },
     "activity_log.event.widget_approvelist_remove_org": {
-        "string": "ウィジェット{widgetName}の{org}での承認を取り消しました"
+        "string": "撤销在{org}中批准的小部件{widgetName}"
     },
     "activity_log.event.widget_approvelist_remove_workspace": {
-        "string": "ウィジェット{widgetName}のワークスペース{workspace}での承認を取り消しました"
+        "string": "撤销在工作区{workspace}中批准的小部件{widgetName}"
     },
     "activity_log.event.widget_approvelist_request_approve_org": {
-        "string": "{requesterName}が申請したウィジェット{widgetName}の{org}での使用を承認しました"
+        "string": "批准了{requesterName}请求的在{org}中使用小部件{widgetName}"
     },
     "activity_log.event.widget_approvelist_request_approve_workspace": {
-        "string": "{requesterName}から申請があったワークスペース{workspace}でのウィジェット{widgetName}の使用を承認しました"
+        "string": "批准了{requesterName}请求的在工作区{workspace}中使用小部件{widgetName}"
     },
     "activity_log.event.widget_approvelist_request_org": {
-        "string": "ウィジェット{widget}の{org}での使用の承認申請がありました"
+        "string": "请求在{org}中批准使用小部件{widget}"
     },
     "activity_log.event.widget_approvelist_request_reject_org": {
-        "string": "{requesterName}が申請したウィジェット{widgetName}の{org}での使用を拒否しました。"
+        "string": "拒绝了{requesterName}请求的在{org}中使用小部件{widgetName}"
     },
     "activity_log.event.widget_approvelist_request_reject_workspace": {
-        "string": "{requesterName}から申請があったワークスペース{workspace}でのウィジェット{widgetName}の使用を拒否しました"
+        "string": "拒绝了{requesterName}请求的在工作区{workspace}中使用小部件{widgetName}"
     },
     "activity_log.event.widget_install": {
-        "string": "全員向けのウィジェット{widgetName}をインストールしました"
+        "string": "为所有人安装了小部件{widgetName}"
     },
     "activity_log.event.widget_ownership_transfer": {
-        "string": "コミュニティウィジェット {widgetName}のオーナーシップを{userEmail}さんに移転しました"
+        "string": "将社区小部件{widgetName}的所有权转移给{userEmail}"
     },
     "activity_log.event.widget_publisher_accept_invite": {
-        "string": "ウィジェット{widgetName}の公開者としての招待に同意しました"
+        "string": "接受了作为小部件{widgetName}发布者的邀请"
     },
     "activity_log.event.widget_publisher_invite": {
-        "string": " {userEmail}さんをウィジェット{widgetName}の公開者として招待しました"
+        "string": "邀请{userEmail}作为小部件{widgetName}的发布者"
     },
     "activity_log.event.widget_publisher_remove": {
-        "string": "{userEmail}さんをウィジェット{widgetName}の公開者から削除しました"
+        "string": "将{userEmail}从小部件{widgetName}的发布者中移除"
     },
     "activity_log.event.widget_publisher_remove_invite": {
-        "string": "{userEmail}さんの公開者招待をウィジェット{widgetName}から削除しました"
+        "string": "撤销了{userEmail}作为小部件{widgetName}发布者的邀请"
     },
     "activity_log.event.widget_uninstall": {
-        "string": "全員向けのウィジェット{widgetName}をアンインストールしました"
+        "string": "为所有人卸载了小部件{widgetName}"
     },
     "activity_log.event.workspace_admins_add": {
-        "string": "{numAdmins, plural, other {{workspaceName}ワークスペースの管理者として{adminNames}を追加しました} }"
+        "string": "添加了{adminNames}作为{workspaceName}工作区的管理员"
     },
     "activity_log.event.workspace_admins_remove.v2": {
-        "string": "{numAdmins, plural, other {{workspaceName}ワークスペースの管理者から{adminNames}を削除しました} }"
+        "string": "从{workspaceName}工作区的管理员中移除了{adminNames}"
     },
     "activity_log.event.workspace_changed_library_setting": {
-        "string": "{workspaceName}の{libraryName}のデフォルトライブラリ設定を{oldLibrarySetting}から{newLibrarySetting}に変更しました"
+        "string": "将{workspaceName}的{libraryName}默认库设置从{oldLibrarySetting}更改为{newLibrarySetting}"
     },
     "activity_log.event.workspace_create": {
-        "string": "{workspaceName}という新しいワークスペースを作成しました"
+        "string": "创建了新的工作区{workspaceName}"
     },
     "activity_log.event.workspace_delete": {
-        "string": "{workspaceName}ワークスペースを削除しました"
+        "string": "删除了工作区{workspaceName}"
     },
     "activity_log.event.workspace_library_approved": {
-        "string": "ワークスペース{workspaceName}で{libraryName}を承認済みにしました"
+        "string": "在工作区{workspaceName}中批准了{libraryName}"
     },
     "activity_log.event.workspace_library_unapproved": {
-        "string": "ワークスペース{workspaceName}で{libraryName}を未承認にしました"
+        "string": "在工作区{workspaceName}中未批准{libraryName}"
     },
     "activity_log.event.workspace_member_add": {
-        "string": "ワークスペース「{workspaceName}」のメンバーに{memberEmail}を追加しました"
+        "string": "添加了{memberEmail}到工作区{workspaceName}的成员"
     },
     "activity_log.event.workspace_member_remove": {
-        "string": "ワークスペース「{workspaceName}」のメンバーから{memberEmail}を削除しました"
+        "string": "从工作区{workspaceName}的成员中移除了{memberEmail}"
     },
     "activity_log.event.workspace_members_add": {
-        "string": "{numMembers, plural, other {{workspaceName}ワークスペースのメンバーとして{memberEmails}を追加しました} }"
+        "string": "添加了{memberEmails}到{workspaceName}工作区的成员"
     },
     "activity_log.event.workspace_members_remove": {
-        "string": "{numMembers, plural, other {{workspaceName}ワークスペースのメンバーから{memberEmails}を削除しました} }"
+        "string": "从{workspaceName}工作区的成员中移除了{memberEmails}"
     },
     "activity_log.event.workspace_new_library_setting_off": {
-        "string": "{workspaceName}のデフォルトライブラリとして{libraryName}をオフに設定しました"
+        "string": "将{libraryName}设置为{workspaceName}的默认库并关闭"
     },
     "activity_log.event.workspace_rename": {
-        "string": "{workspaceName}ワークスペースの名前を{newName}に変更しました"
+        "string": "将工作区{workspaceName}重命名为{newName}"
     },
     "activity_log.event.workspace_visibility_setting_changed": {
-        "string": "{workspaceName}の表示設定を{oldOrgAccess}から{newOrgAccess}に変更しました"
+        "string": "将{workspaceName}的显示设置从{oldOrgAccess}更改为{newOrgAccess}"
     },
     "activity_log.filter.added_workspace_admins": {
-        "string": "ワークスペース管理者の追加"
+        "string": "添加了工作区管理员"
     },
     "activity_log.filter.ai_content_training_setting_change": {
-        "string": "AIコンテンツトレーニングの有効化/無効化"
+        "string": "启用/禁用AI内容训练"
     },
     "activity_log.filter.ai_features_setting_change": {
-        "string": "AI機能の有効化/無効化"
+        "string": "启用/禁用AI功能"
     },
     "activity_log.filter.all": {
-        "string": "すべて"
+        "string": "所有"
     },
     "activity_log.filter.approve_list_plugins_reviewed": {
-        "string": "プラグイン審査"
+        "string": "插件审查"
     },
     "activity_log.filter.approve_list_widgets_reviewed": {
-        "string": "ウィジェット審査"
+        "string": "小部件审查"
     },
     "activity_log.filter.archived_a_branch": {
-        "string": "ブランチのアーカイブ"
+        "string": "存档分支"
     },
     "activity_log.filter.audio": {
-        "string": "オーディオ"
+        "string": "音频"
     },
     "activity_log.filter.billing_group.admins_added": {
-        "string": "請求グループ管理者追加"
+        "string": "添加了账单组管理员"
     },
     "activity_log.filter.billing_group.admins_removed": {
-        "string": "請求グループ管理者削除"
+        "string": "移除了账单组管理员"
     },
     "activity_log.filter.billing_group.created": {
-        "string": "請求グループ作成"
+        "string": "创建了账单组"
     },
     "activity_log.filter.billing_group.deleted": {
-        "string": "請求グループ削除"
+        "string": "删除了账单组"
     },
     "activity_log.filter.billing_group.header": {
-        "string": "請求グループ"
+        "string": "账单组"
     }
 }

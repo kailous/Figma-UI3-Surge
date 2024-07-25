@@ -1,152 +1,152 @@
 {
     "activity_log.teams.restored_the_team_name_team": {
-        "string": "{teamName}チームを復元しました"
+        "string": "恢复了团队{teamName}"
     },
     "activity_log.teams.team_name_wants_to_transfer_their_team": {
-        "string": "{teamName}がチームの組織への移転を希望しています"
+        "string": "{teamName}希望将团队转移到组织"
     },
     "activity_log.upgrade.added_to_resource.seat_rename": {
-        "string": "{actor_name}が{upgrader_name}を有料シートで{resource_name}に追加しました"
+        "string": "{actor_name}将{upgrader_name}添加为{resource_name}的付费座位"
     },
     "activity_log.upgrade.added_to_resource_with_product.seat_rename": {
-        "string": "{actor_name}が{upgrader_name}を{product}有料シートで{resource_name}に追加しました"
+        "string": "{actor_name}将{upgrader_name}添加为{product}的付费座位在{resource_name}"
     },
     "activity_log.upgrade.admin_upgrade.seat_rename": {
-        "string": "{actor_name}が{upgrader_name}をアップグレードしました"
+        "string": "{actor_name}升级了{upgrader_name}"
     },
     "activity_log.upgrade.admin_upgrade_with_product.seat_rename": {
-        "string": "{actor_name}が{product}で{upgrader_name}をアップグレードしました"
+        "string": "{actor_name}用{product}升级了{upgrader_name}"
     },
     "activity_log.upgrade.create_file": {
-        "string": "{upgrader_name}がファイル{resource_name}を作成しました"
+        "string": "{upgrader_name}创建了文件{resource_name}"
     },
     "activity_log.upgrade.create_team": {
-        "string": "{upgrader_name}が{resource_name}を作成しました"
+        "string": "{upgrader_name}创建了团队{resource_name}"
     },
     "activity_log.upgrade.default_paid_status.seat_rename": {
-        "string": "{upgrader_name}が組織のデフォルトの役割の有料シートで参加しました"
+        "string": "{upgrader_name}以组织默认角色的付费座位加入"
     },
     "activity_log.upgrade.default_paid_status_with_product.seat_rename": {
-        "string": "{upgrader_name}が組織のデフォルトの役割の{product}有料シートで参加しました"
+        "string": "{upgrader_name}以组织默认角色的{product}付费座位加入"
     },
     "activity_log.upgrade.depart_team": {
-        "string": "オーナーがチームを脱退したときに、{upgrader_name}がアップグレードされました"
+        "string": "当所有者离开团队时，{upgrader_name}被升级了"
     },
     "activity_log.upgrade.dev_mode_pre_commit_beta_use": {
-        "string": "組織の契約に基づき、{upgrader_name}が開発モードのベータ版からアップグレードされました"
+        "string": "{upgrader_name}根据组织协议从开发模式beta版升级"
     },
     "activity_log.upgrade.drafts_share": {
-        "string": "{upgrader_name}が、ドラフトフォルダから{resource_name}を{actor_name}に共有しました"
+        "string": "{upgrader_name}从草稿文件夹中将{resource_name}共享给{actor_name}"
     },
     "activity_log.upgrade.drafts_share_anonymous": {
-        "string": "匿名ユーザー"
+        "string": "匿名用户"
     },
     "activity_log.upgrade.edit_action": {
-        "string": "{upgrader_name}が{resource_name}を編集しました"
+        "string": "{upgrader_name}编辑了{resource_name}"
     },
     "activity_log.upgrade.edit_button": {
-        "string": "{upgrader_name}が、{resource_name}の[ファイルを編集]ボタンをクリックしました"
+        "string": "{upgrader_name}点击了{resource_name}的[编辑文件]按钮"
     },
     "activity_log.upgrade.edit_request_approval": {
-        "string": "{upgrader_name}がファイル{resource_name}の編集要求を承認させました"
+        "string": "{upgrader_name}批准了文件{resource_name}的编辑请求"
     },
     "activity_log.upgrade.figjam_ga_reupgrade": {
-        "string": "{upgrader_name}がファイル{resource_name}のアカウントを再アップグレードしました"
+        "string": "{upgrader_name}重新升级了文件{resource_name}的账户"
     },
     "activity_log.upgrade.figma_admin": {
-        "string": "Figmaサポートが{resource_name}の{upgrader_name}をアップグレードしました"
+        "string": "Figma支持升级了{resource_name}的{upgrader_name}"
     },
     "activity_log.upgrade.join_team.seat_rename": {
-        "string": "{upgrader_name}が有料シートで{resource_name}に参加しました"
+        "string": "{upgrader_name}以付费座位加入{resource_name}"
     },
     "activity_log.upgrade.join_team_with_product.seat_rename": {
-        "string": "{upgrader_name}が{product}有料シートで{resource_name}に参加しました"
+        "string": "{upgrader_name}以{product}的付费座位加入{resource_name}"
     },
     "activity_log.upgrade.org_merge.seat_rename": {
-        "string": "組織{child_org}がこの組織にマージされた後、{upgrader_name}がアップグレードされました"
+        "string": "在组织{child_org}合并到本组织后，{upgrader_name}被升级"
     },
     "activity_log.upgrade.paid_status_on_org_creation": {
-        "string": "組織の作成時、{upgrader_name}が{resource_name}の有料シートを取得しました。"
+        "string": "在创建组织时，{upgrader_name}获得了{resource_name}的付费座位"
     },
     "activity_log.upgrade.redeem_invite_to_org": {
-        "string": "{upgrader_name}さんが組織への招待を承諾しました"
+        "string": "{upgrader_name}接受了组织的邀请"
     },
     "activity_log.upgrade.resource_move.seat_rename": {
-        "string": "アップグレードにより、{upgrader_name}は{resource_name}の有料シートを取得しました"
+        "string": "由于升级，{upgrader_name}获得了{resource_name}的付费座位"
     },
     "activity_log.upgrade.resource_move_with_product.seat_rename": {
-        "string": "アップグレードにより、{upgrader_name}は{resource_name}の{product}有料シートを取得しました"
+        "string": "由于升级，{upgrader_name}获得了{resource_name}的{product}付费座位"
     },
     "activity_log.upgrade.resource_moved_from_drafts": {
-        "string": "{resource_name}のチームへの移動により、{upgrader_name}がアップグレードされました"
+        "string": "{upgrader_name}被升级，因为{resource_name}被移到团队"
     },
     "activity_log.upgrade.resource_moved_to_org": {
-        "string": "{resource_name}が組織に移動したことにより、{upgrader_name}がそのリソースの編集者になりました。"
+        "string": "{resource_name}被移到组织后，{upgrader_name}成为该资源的编辑者"
     },
     "activity_log.upgrade.run_plugin": {
-        "string": "{upgrader_name}がプラグインを実行しました"
+        "string": "{upgrader_name}运行了插件"
     },
     "activity_log.upgrade.scim.seat_rename": {
-        "string": "{upgrader_name}がSCIMによって有料シートでプロビジョニングされました"
+        "string": "{upgrader_name}通过SCIM被分配了付费座位"
     },
     "activity_log.upgrade.scim_with_product.seat_rename": {
-        "string": "{upgrader_name}がSCIMによって{product}有料シートでプロビジョニングされました"
+        "string": "{upgrader_name}通过SCIM被分配了{product}的付费座位"
     },
     "activity_log.users.session_timed_out": {
-        "string": "アイドルセッションタイムアウトの設定により、サインアウトしました"
+        "string": "由于空闲会话超时设置，已注销"
     },
     "activity_log.users.signed_in": {
-        "string": "サインインしました"
+        "string": "已登录"
     },
     "activity_log.users.signed_in_app_auth": {
-        "string": "Figma VS Code拡張機能でサインイン"
+        "string": "通过Figma VS Code扩展登录"
     },
     "activity_log.users.signed_in_google": {
-        "string": "Googleでサインイン"
+        "string": "通过Google登录"
     },
     "activity_log.users.signed_in_password": {
-        "string": "ユーザー名とパスワードでサインインしました"
+        "string": "通过用户名和密码登录"
     },
     "activity_log.users.signed_in_saml": {
-        "string": "SAMLでサインインしました"
+        "string": "通过SAML登录"
     },
     "activity_log.users.signed_out": {
-        "string": "サインアウトしました"
+        "string": "已注销"
     },
     "activity_log.voice.joined_call_on_file_fig_file_key": {
-        "string": "ファイル{figFileKey}の通話に参加しました"
+        "string": "加入了文件{figFileKey}的通话"
     },
     "activity_log.webhooks.webhooks_created": {
-        "string": "イベント{webhookEvent}のエンドポイント{webhookEndpoint}のWebフックを作成しました"
+        "string": "为事件{webhookEvent}创建了Web钩子到端点{webhookEndpoint}"
     },
     "activity_log.webhooks.webhooks_deleted": {
-        "string": "イベント{webhookEvent}のエンドポイント{webhookEndpoint}のWebフックを削除しました"
+        "string": "删除了事件{webhookEvent}的Web钩子从端点{webhookEndpoint}"
     },
     "activity_log.webhooks.webhooks_updated": {
-        "string": "イベント{webhookEvent}のエンドポイント{webhookEndpoint}のWebフックを更新しました"
+        "string": "更新了事件{webhookEvent}的Web钩子到端点{webhookEndpoint}"
     },
     "add_unassigned_teams_modal.assign_n_teams": {
-        "string": "{count, plural, other {{count}チームを割り当てる}}"
+        "string": "分配{count}个团队"
     },
     "add_unassigned_teams_modal.assign_teams": {
-        "string": "チームを割り当てる"
+        "string": "分配团队"
     },
     "add_unassigned_teams_modal.description": {
-        "string": "{workspaceName}ワークスペースに追加する未割り当てのチームを選択します。"
+        "string": "选择未分配的团队以添加到工作区{workspaceName}。"
     },
     "add_unassigned_teams_modal.member_count": {
-        "string": "{memberCount, plural, other {メンバー{memberCount}人}}"
+        "string": "成员{memberCount}"
     },
     "add_unassigned_teams_modal.no_owner": {
         "string": "—"
     },
     "add_unassigned_teams_modal.no_teams_found": {
-        "string": "チームが見つかりません"
+        "string": "未找到团队"
     },
     "add_unassigned_teams_modal.org_access.private": {
-        "string": "限定チーム"
+        "string": "私有团队"
     },
     "add_unassigned_teams_modal.org_access.public": {
-        "string": "公開チーム"
+        "string": "公开团队"
     }
 }

@@ -1,152 +1,152 @@
 {
     "admin_settings.ai.enable_success": {
-        "string": "AI機能をオンにしました"
+        "string": "已启用AI功能"
     },
     "admin_settings.ai.features_toggle.description.org": {
-        "string": "組織でのFigmaのAI機能の利用を許可します。{learnMoreLink}"
+        "string": "允许组织使用Figma的AI功能。{learnMoreLink}"
     },
     "admin_settings.ai.features_toggle.description.team": {
-        "string": "チームでのFigmaのAI機能の利用を許可します。{learnMoreLink}"
+        "string": "允许团队使用Figma的AI功能。{learnMoreLink}"
     },
     "admin_settings.ai.features_toggle.label": {
-        "string": "AI機能"
+        "string": "AI功能"
     },
     "admin_settings.ai.manage_settings_link": {
-        "string": "AI設定を管理"
+        "string": "管理AI设置"
     },
     "admin_settings.ai.section_title": {
         "string": "AI"
     },
     "admin_settings.ai.section_title.free_in_beta": {
-        "string": "FigmaのAI機能は、ベータ期間中は無料で使用できます"
+        "string": "Figma的AI功能在测试期间免费"
     },
     "whiteboard.ai_cluster.loading_section_base": {
-        "string": "整理しています"
+        "string": "正在整理"
     },
     "fullscreen_actions.ai_content_fill.content_generated": {
-        "string": "コンテンツが生成されました(AIベータ)"
+        "string": "内容已生成（AI测试版）"
     },
     "fullscreen_actions.ai_content_fill.generic_error": {
-        "string": "テキストコンテンツを再生成できませんでした。もう一度お試しください。"
+        "string": "无法重新生成文本内容，请重试。"
     },
     "fullscreen_actions.ai_content_fill.magic_handle_hover_tooltip": {
-        "string": "新しいコンテンツで複製します"
+        "string": "用新内容复制"
     },
     "fullscreen_actions.ai_content_fill.magic_handle_hover_tooltip_all_dupes": {
-        "string": "複製"
+        "string": "复制"
     },
     "fullscreen_actions.ai_content_fill.missing_font": {
-        "string": "フォントがありません。置換できませんでした"
+        "string": "缺少字体，无法替换"
     },
     "fullscreen_actions.ai_content_fill.missing_font_visual_bell": {
-        "string": "フォントがないため、テキストの一部を更新できませんでした"
+        "string": "缺少字体，部分文本未更新"
     },
     "fullscreen_actions.ai_content_fill.private_beta.share_feedback": {
-        "string": "フィードバックを共有"
+        "string": "分享反馈"
     },
     "fullscreen_actions.ai_content_fill.prompt_suggestion": {
-        "string": "変更内容の説明を入力します"
+        "string": "输入更改说明"
     },
     "fullscreen_actions.ai_content_fill.replace_content": {
-        "string": "コンテンツを置換"
+        "string": "替换内容"
     },
     "fullscreen_actions.ai_content_fill.rewrite_duplicates": {
-        "string": "複製したテキストをリライトしますか"
+        "string": "重写重复文本？"
     },
     "fullscreen_actions.ai_content_fill.select_a_stack_of_repeating_frames": {
-        "string": "繰り返し使用されるフレームのスタックを選択してください"
+        "string": "选择一组重复的框架"
     },
     "fullscreen_actions.ai_content_fill.visual_bell_suggestion": {
-        "string": "候補"
+        "string": "建议"
     },
     "ai.accept": {
-        "string": "承諾"
+        "string": "接受"
     },
     "ai.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "ai.done": {
-        "string": "完了!"
+        "string": "完成！"
     },
     "ai.error.content_length_limit": {
-        "string": "選択範囲を小さくして、もう一度お試しください"
+        "string": "选择范围太大，请减少选择范围重试"
     },
     "ai.error.generic": {
-        "string": "問題が発生しました"
+        "string": "发生问题"
     },
     "ai.error.no_layers_selected": {
-        "string": "レイヤーが選択されていません"
+        "string": "未选择任何图层"
     },
     "ai.error.offline": {
-        "string": "接続できませんでした"
+        "string": "无法连接"
     },
     "ai.error.rate_limited": {
-        "string": "時間あたりの使用回数制限を超えました"
+        "string": "已超过每小时使用限制"
     },
     "ai.error.unsafe_or_harmful": {
-        "string": "ブロックされました。入力内容を変えてお試しください。"
+        "string": "输入内容被屏蔽，请更改输入内容重试。"
     },
     "ai.go_back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "ai.keep_it": {
-        "string": "変更を採用"
+        "string": "保留更改"
     },
     "ai.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "ai.limit_reached": {
-        "string": "{resetDate, date, medium}まで利用できません"
+        "string": "直到{resetDate}无法使用"
     },
     "ai.make_changes": {
-        "string": "変更する"
+        "string": "进行更改"
     },
     "ai.make_it": {
-        "string": "実行する"
+        "string": "执行"
     },
     "ai.n_selected": {
-        "string": "{n}個選択済み"
+        "string": "已选择{n}个"
     },
     "ai.ok": {
-        "string": "OK"
+        "string": "确定"
     },
     "ai.preview": {
-        "string": "プレビュー"
+        "string": "预览"
     },
     "ai.replacing": {
-        "string": "置き換えています..."
+        "string": "正在替换..."
     },
     "ai.review": {
-        "string": "確認"
+        "string": "查看"
     },
     "ai.rewrite": {
-        "string": "リライト"
+        "string": "重写"
     },
     "ai.rewriting": {
-        "string": "リライトしています..."
+        "string": "重写中..."
     },
     "ai.stop": {
         "string": "停止"
     },
     "ai.try_again": {
-        "string": "もう一度試す"
+        "string": "重试"
     },
     "ai.undo": {
-        "string": "元に戻す"
+        "string": "撤销"
     },
     "ai.working": {
-        "string": "作業中..."
+        "string": "处理中..."
     },
     "ai_iamge_tools.generate.placeholder.sushi": {
-        "string": "接近して: 完璧な巻き方のすし"
+        "string": "近距离拍摄：完美的寿司卷"
     },
     "ai_image_tools.blocked": {
-        "string": "著作権で保護されたコンテンツのためブロックされました。"
+        "string": "由于受版权保护的内容被屏蔽。"
     },
     "ai_image_tools.generate.label.abstract": {
         "string": "抽象的"
     },
     "ai_image_tools.generate.label.architecture": {
-        "string": "建造物"
+        "string": "建筑"
     }
 }
