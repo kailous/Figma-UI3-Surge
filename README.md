@@ -65,3 +65,5 @@ Figma-UI3 = type=http-response,pattern=https:\/\/.*figma_app-.*\.min\.js\.br$,re
 
 当前进度：
 25/364 ｜ 6.87%
+
+![image](https://github.com/kailous/Figma-UI3-Surge/blob/main/img/%E6%B1%89%E5%8C%96%E8%BF%87%E7%A8%8B.png?raw=true)
