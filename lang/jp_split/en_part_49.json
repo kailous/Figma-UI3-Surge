@@ -1,152 +1,152 @@
 {
     "comments.comments_can_only_be_placed_on_slides": {
-        "string": "コメントはスライドにのみ追加できます"
+        "string": "评论只能添加到幻灯片上"
     },
     "comments.comments_cannot_be_placed_in_this_area": {
-        "string": "この領域にはコメントを追加できません"
+        "string": "无法在此区域添加评论"
     },
     "comments.copy_attachment": {
-        "string": "PNGとしてコピー"
+        "string": "复制为PNG"
     },
     "comments.copy_attachment_error": {
-        "string": "クリップボードへのメディアファイルのコピー中にエラーが発生しました"
+        "string": "将媒体文件复制到剪贴板时发生错误"
     },
     "comments.copy_attachment_success": {
-        "string": "メディアファイルをクリップボードにコピーしました"
+        "string": "媒体文件已复制到剪贴板"
     },
     "comments.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "comments.copying_attachment": {
-        "string": "メディアファイルをコピーしています..."
+        "string": "正在复制媒体文件..."
     },
     "comments.couldn_t_post_your_comment": {
-        "string": "コメントを投稿できませんでした"
+        "string": "无法发布您的评论"
     },
     "comments.delete_comment": {
-        "string": "コメントを削除"
+        "string": "删除评论"
     },
     "comments.delete_confirmation_reply": {
-        "string": "このコメントを削除しますか?"
+        "string": "您确定要删除此评论吗？"
     },
     "comments.delete_confirmation_thread": {
-        "string": "このスレッドを削除しますか? 返信もすべて削除されます。"
+        "string": "您确定要删除此线程吗？所有回复也将被删除。"
     },
     "comments.delete_thread": {
-        "string": "スレッドを削除"
+        "string": "删除线程"
     },
     "comments.dev_mode_notifications": {
-        "string": "開発モードの通知"
+        "string": "开发模式通知"
     },
     "comments.discard": {
-        "string": "破棄"
+        "string": "放弃"
     },
     "comments.dock_to_side": {
-        "string": "端に固定"
+        "string": "固定到侧边"
     },
     "comments.download_attachment": {
-        "string": "メディアファイルをダウンロード"
+        "string": "下载媒体文件"
     },
     "comments.download_attachment_error": {
-        "string": "メディアファイルのダウンロード中にエラーが発生しました"
+        "string": "下载媒体文件时发生错误"
     },
     "comments.download_attachment_success": {
-        "string": "ダウンロード完了"
+        "string": "下载完成"
     },
     "comments.edit": {
-        "string": "編集…"
+        "string": "编辑..."
     },
     "comments.edit_alt_text": {
-        "string": "編集"
+        "string": "编辑"
     },
     "comments.edited": {
-        "string": "(編集済み)"
+        "string": "（已编辑）"
     },
     "comments.error_loading_notification_preferences": {
-        "string": "通知基本設定のロード中にエラーが発生しました"
+        "string": "加载通知首选项时发生错误"
     },
     "comments.everything_option": {
-        "string": "すべて"
+        "string": "全部"
     },
     "comments.failed_to_load": {
-        "string": "コメントのエディターを利用できません"
+        "string": "无法加载评论编辑器"
     },
     "comments.failed_to_update_alt_text": {
-        "string": "代替テキストを更新できませんでした"
+        "string": "无法更新替代文本"
     },
     "comments.finish_or_clear_your_active_comment_then_hit_view": {
-        "string": "アクティブなコメントを終了またはクリアしてから、[表示]をクリックしてください"
+        "string": "请完成或清除您的活动评论，然后点击查看"
     },
     "comments.get_notified_about_all_comments_prompt": {
-        "string": "このファイル内のすべてのコメントで通知をオンにしますか?"
+        "string": "要开启此文件中所有评论的通知吗？"
     },
     "comments.give_feedback_ask_a_question_or_just_leave_a_note_of_appreciation_click_anywhere_in_the_file_to_leave_a_comment": {
-        "string": "フィードバックや質問を書いたり、感謝の言葉を伝えましょう。ファイルの任意の場所をクリックして、コメントを残します。"
+        "string": "提供反馈、提问或留下感谢的话。在文件中的任意位置点击以留下评论。"
     },
     "comments.hide_comments": {
-        "string": "コメントを非表示"
+        "string": "隐藏评论"
     },
     "comments.in_a_moment": {
-        "string": "投稿中..."
+        "string": "正在发布..."
     },
     "comments.invited": {
-        "string": "招待済み"
+        "string": "已邀请"
     },
     "comments.just_mentions_and_replies_option": {
-        "string": "メンションと返信のみ"
+        "string": "仅提及和回复"
     },
     "comments.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "comments.manage": {
         "string": "管理"
     },
     "comments.mark_all_as_read": {
-        "string": "すべて既読にする"
+        "string": "全部标为已读"
     },
     "comments.mark_as_read": {
-        "string": "既読にする"
+        "string": "标为已读"
     },
     "comments.mark_as_resolved": {
-        "string": "解決済みにする"
+        "string": "标为已解决"
     },
     "comments.mark_as_unread": {
-        "string": "未読にする"
+        "string": "标为未读"
     },
     "comments.mark_as_unresolved": {
-        "string": "未解決にする"
+        "string": "标为未解决"
     },
     "comments.mention_confirm_warning": {
-        "string": "{numUsers, plural, other {{mentionedUsers}はこのファイルにアクセスできません。このコメントを投稿すると、このユーザーに閲覧限定アクセス権が与えられます。}}"
+        "string": "{numUsers, plural, other {提及的{mentionedUsers}无法访问此文件。发布此评论将给予该用户查看权限。}}"
     },
     "comments.more_actions": {
-        "string": "その他のアクション"
+        "string": "更多操作"
     },
     "comments.name_and_you": {
-        "string": "{name} (あなた)"
+        "string": "{name}（你）"
     },
     "comments.next": {
-        "string": "次へ"
+        "string": "下一个"
     },
     "comments.no_comments_matched_your_search": {
-        "string": "検索条件に一致するコメントはありません。"
+        "string": "没有匹配您的搜索条件的评论。"
     },
     "comments.no_users_matched_your_search": {
-        "string": "{searchQuery}に一致するユーザーが見つかりません"
+        "string": "没有与{searchQuery}匹配的用户"
     },
     "comments.nothing_option": {
-        "string": "なし"
+        "string": "无"
     },
     "comments.num_hidden_more": {
-        "string": "{numHidden, plural, other {さらに{numHidden}件}}"
+        "string": "{numHidden, plural, other {另外{numHidden}条}}"
     },
     "comments.number_only": {
         "string": "#{commentNumber}"
     },
     "comments.only_comments": {
-        "string": "コメントのみ"
+        "string": "仅评论"
     },
     "comments.only_current_page": {
-        "string": "現在のページのみ"
+        "string": "仅当前页面"
     }
 }

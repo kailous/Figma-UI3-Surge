@@ -1,152 +1,152 @@
 {
     "community.purchase_home.contact_creator": {
-        "string": "作成者に問い合わせる"
+        "string": "联系创建者"
     },
     "community.purchase_home.free_trial_ended": {
-        "string": "無料トライアルは{date}に終了しました"
+        "string": "免费试用已于{date}结束"
     },
     "community.purchase_home.free_trial_ends": {
-        "string": "無料トライアルは{date}に終了します"
+        "string": "免费试用将于{date}结束"
     },
     "community.purchase_home.get_support": {
-        "string": "サポートを依頼"
+        "string": "获取支持"
     },
     "community.purchase_home.inactive": {
-        "string": "無効"
+        "string": "无效"
     },
     "community.purchase_home.manage_subscription": {
-        "string": "サブスクリプションを管理"
+        "string": "管理订阅"
     },
     "community.purchase_home.purchased": {
-        "string": " {date}に購入済み"
+        "string": "已于{date}购买"
     },
     "community.purchase_home.refunded": {
-        "string": " {date}に返金済み"
+        "string": "已于{date}退款"
     },
     "community.purchase_home.reload": {
-        "string": "再読み込み"
+        "string": "重新加载"
     },
     "community.purchase_home.renews": {
-        "string": " {date}に更新"
+        "string": "将于{date}续订"
     },
     "community.purchase_home.request_refund": {
-        "string": "返金をリクエスト"
+        "string": "请求退款"
     },
     "community.purchase_home.resource_title": {
-        "string": "{resource_publisher}による{resource_name}"
+        "string": "{resource_publisher}发布的{resource_name}"
     },
     "community.purchase_home.see_order_details": {
-        "string": "注文の詳細を見る"
+        "string": "查看订单详情"
     },
     "community.purchase_home.server_could_not_load_resources": {
-        "string": "サーバーがリソースを読み込めませんでした。{reload}"
+        "string": "服务器无法加载资源。{reload}"
     },
     "community.purchase_home.show_more": {
-        "string": "詳細を表示"
+        "string": "显示更多"
     },
     "community.purchase_home.this_resource_is_no_longer_available": {
-        "string": "このリソースは利用できなくなっています"
+        "string": "此资源不再可用"
     },
     "community.purchase_home.update_payment_details": {
-        "string": "支払いの詳細を更新"
+        "string": "更新支付详情"
     },
     "community.rating_review.not_rated": {
-        "string": "評価されていません"
+        "string": "未评分"
     },
     "community.rating_review.optional": {
-        "string": "オプション"
+        "string": "可选"
     },
     "community.rating_review.ratings_not_available": {
-        "string": "評価はありません"
+        "string": "暂无评分"
     },
     "community.related_content.more_by_these_creators": {
-        "string": "これらの作成者のコンテンツをさらに表示"
+        "string": "这些创作者的更多内容"
     },
     "community.related_content.more_by_this_creator": {
-        "string": "この作成者のコンテンツをさらに表示"
+        "string": "此创作者的更多内容"
     },
     "community.related_content.more_like_this": {
-        "string": "類似のコンテンツをさらに表示"
+        "string": "更多类似内容"
     },
     "community.reporting.add_your_description_here": {
-        "string": "(ここに説明を追加する)"
+        "string": "（在此添加描述）"
     },
     "community.reporting.i_want_to_report_this_file_for_violating_the_community_guidelines_resource_url": {
-        "string": "このファイルはコミュニティガイドラインに違反するため、報告します: {resourceUrl}"
+        "string": "我想举报此文件违反社区指南：{resourceUrl}"
     },
     "community.reporting.i_want_to_report_this_plugin_for_violating_the_plugin_guidelines_resource_url": {
-        "string": "このプラグインはプラグインガイドラインに違反するため、報告します: {resourceUrl}"
+        "string": "我想举报此插件违反插件指南：{resourceUrl}"
     },
     "community.reporting.i_want_to_report_this_widget_for_violating_the_community_guidelines_resource_url": {
-        "string": "このウィジェットはコミュニティガイドラインに違反するため、報告します: {resourceUrl}"
+        "string": "我想举报此小部件违反社区指南：{resourceUrl}"
     },
     "community.reporting.my_figma_user_id_is_user_id": {
-        "string": "私のfigmaユーザーIDは{userId}です"
+        "string": "我的Figma用户ID是{userId}"
     },
     "community.reporting.reporting_an_inappropriate_file": {
-        "string": "不適切なファイルの報告"
+        "string": "报告不适当的文件"
     },
     "community.reporting.reporting_an_inappropriate_plugin": {
-        "string": "不適切なプラグインの報告"
+        "string": "报告不适当的插件"
     },
     "community.reporting.reporting_an_inappropriate_widget": {
-        "string": "不適切なウィジェットの報告"
+        "string": "报告不适当的小部件"
     },
     "community.resource.2_creators": {
-        "string": "{creator1}{spaceChar}と{spaceChar}{creator2}"
+        "string": "{creator1}和{creator2}"
     },
     "community.resource.admin_blocked_resource_banner.this_resource_is_blocked": {
-        "string": "このリソースはブロックされています"
+        "string": "此资源已被阻止"
     },
     "community.resource.admin_blocked_resource_banner.you_can_only_view_this_page_as_an_admin": {
-        "string": "このページをコミュニティの管理者として表示しています。"
+        "string": "你只能以管理员身份查看此页面。"
     },
     "community.resource.admin_bypass_payment_banner.viewing_as_community_reviewer_admin": {
-        "string": "コミュニティレビュー担当者の管理者として表示中"
+        "string": "作为社区审核管理员查看"
     },
     "community.resource.admin_bypass_payment_banner.you_are_viewing_this_page_as_an_admin_reviewer": {
-        "string": "このページをコミュニティレビュー担当者の管理者リソースとして表示しています。このバナーのCTAを使用して支払い要求をスキップできます。"
+        "string": "你正以社区审核管理员身份查看此页面。可以使用此横幅的CTA跳过支付要求。"
     },
     "community.resource.by_2_creators": {
-        "string": "{spaceChar}{creator1}{spaceChar}および{spaceChar}{creator2}"
+        "string": "{creator1}和{creator2}"
     },
     "community.resource.by_creator": {
-        "string": "{spaceChar}{creator}"
+        "string": "由{creator}发布"
     },
     "community.resource.by_more_than_2_creators": {
-        "string": "{spaceChar}{creator1}{spaceChar}{spaceChar}{others}"
+        "string": "{creator1}等"
     },
     "community.resource.by_others": {
-        "string": "その他"
+        "string": "其他"
     },
     "community.resource.by_x_others": {
-        "string": "他{numPublishers}名"
+        "string": "其他{numPublishers}名"
     },
     "community.resource.creator": {
         "string": "{creator}"
     },
     "community.resource.delist": {
-        "string": "リストから除外"
+        "string": "取消上架"
     },
     "community.resource.delisted": {
-        "string": "リストから除外済み"
+        "string": "已取消上架"
     },
     "community.resource.delisted_prev_purchasers_can_still_access": {
-        "string": "すでに購入済みのユーザーは、引き続きアクセスすることができます。"
+        "string": "之前已购买的用户仍可访问。"
     },
     "community.resource.delisted_prev_purchasers_can_still_access__subscription": {
-        "string": "すでに購入済みのユーザーは、請求サイクルが終了するまでアクセスすることができます。"
+        "string": "之前已购买的用户在账单周期结束前仍可访问。"
     },
     "community.resource.delisted_stripe_issues": {
-        "string": "Stripeアカウントに問題があるようです。 Stripeダッシュボードに移動してもう一度動作させます。"
+        "string": "似乎你的Stripe账户有问题。请前往Stripe仪表盘修复问题。"
     },
     "community.resource.delisted_title": {
-        "string": "このリソースはもう販売されていません"
+        "string": "此资源不再出售"
     },
     "community.resource.delisted_you_ll_continue_to_have_access_to_it": {
-        "string": "引き続きアクセスできます。"
+        "string": "你将继续有权访问。"
     },
     "community.resource.delisted_you_ll_continue_to_have_access_until": {
-        "string": "{dateString}まで引き続きアクセスできます。"
+        "string": "你将继续有权访问直到{dateString}。"
     }
 }

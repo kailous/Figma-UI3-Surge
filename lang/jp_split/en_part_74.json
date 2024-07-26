@@ -1,99 +1,99 @@
 {
     "community.publishing.is_under_review.file": {
-        "string": "ファイルは現在レビュー中です"
+        "string": "文件正在审核中"
     },
     "community.publishing.is_under_review.plugin": {
-        "string": "プラグインは現在レビュー中です"
+        "string": "插件正在审核中"
     },
     "community.publishing.is_under_review.widget": {
-        "string": "ウィジェットは現在レビュー中です"
+        "string": "小部件正在审核中"
     },
     "community.publishing.last_published_on_date_time": {
-        "string": "{dateTime}に最後に公開されました"
+        "string": "最后发布于{dateTime}"
     },
     "community.publishing.license": {
-        "string": "ライセンス"
+        "string": "许可证"
     },
     "community.publishing.made_for_all_product_types": {
-        "string": "すべての製品とモードに対応"
+        "string": "适用于所有产品和模式"
     },
     "community.publishing.made_for_figjam": {
-        "string": "FigJam用に作成"
+        "string": "为FigJam制作"
     },
     "community.publishing.made_for_figjam_and_dev": {
-        "string": "FigJam+開発モードに対応"
+        "string": "适用于FigJam+开发模式"
     },
     "community.publishing.made_for_figma_design": {
-        "string": "Figmaデザイン用に作成"
+        "string": "为Figma设计制作"
     },
     "community.publishing.made_for_figma_design_and_figjam": {
-        "string": "Figmaデザイン+FigJam用に作成"
+        "string": "为Figma设计+FigJam制作"
     },
     "community.publishing.made_for_figma_design_and_inspect": {
-        "string": "Figmaデザイン+開発モード用に作成"
+        "string": "为Figma设计+开发模式制作"
     },
     "community.publishing.made_for_inspect": {
-        "string": "開発モード用に作成"
+        "string": "为开发模式制作"
     },
     "community.publishing.name_must_be_4_characters_long": {
-        "string": "名前は4文字以上にしなければなりません。"
+        "string": "名称必须至少4个字符"
     },
     "community.publishing.name_must_be_at_most_100_characters_long": {
-        "string": "名前は100文字以下にする必要があります"
+        "string": "名称必须最多100个字符"
     },
     "community.publishing.name_must_not_be_empty": {
-        "string": "名前は空にできません"
+        "string": "名称不能为空"
     },
     "community.publishing.need_to_accept_your_invitation": {
-        "string": "作成者をリソースページに追加するには、その作成者が招待を受諾する必要があります。"
+        "string": "要将创作者添加到资源页面，创作者需要接受邀请。"
     },
     "community.publishing.network": {
-        "string": "ネットワーク"
+        "string": "网络"
     },
     "community.publishing.new_price_will_appear_within_an_hour_on_Community": {
-        "string": "新しい価格が1時間以内にコミュニティに表示されます"
+        "string": "新价格将在1小时内显示在社区"
     },
     "community.publishing.number_of_resources": {
-        "string": "{num, plural, other {{num}個のリソース}}"
+        "string": "{num, plural, other {{num}个资源}}"
     },
     "community.publishing.org_name": {
-        "string": "{org} (組織)"
+        "string": "{org}（组织）"
     },
     "community.publishing.our_team_will_review": {
-        "string": "チームはあなたのリソースを3～7営業日以内にレビューします。"
+        "string": "我们的团队将在3-7个工作日内审核您的资源。"
     },
     "community.publishing.paid_resource_success_info": {
-        "string": "問題がない場合は、コミュニティに公開されます。何かあればご連絡いたします。"
+        "string": "如果没有问题，将在社区中发布。如果有任何问题，我们将与您联系。"
     },
     "community.publishing.payee_label": {
-        "string": "受取人"
+        "string": "收款人"
     },
     "community.publishing.payee_name_annotation": {
-        "string": "(オーナー)"
+        "string": "（所有者）"
     },
     "community.publishing.payee_name_annotation_for_current_owner": {
-        "string": "(あなた)"
+        "string": "（你）"
     },
     "community.publishing.people_given_update_permissions_are_not_visible_to_the_public": {
-        "string": "招待する全員がこのリソースへの更新を公開できます。誰かを作成者として認める場合は、その人の名前またはハンドルを{createdByLink}に追加します。"
+        "string": "所有被邀请的用户都可以公开更新此资源。如果要认可某人为创作者，请将其姓名或用户名添加到{createdByLink}。"
     },
     "community.publishing.permissions.org_private_info_text": {
-        "string": "チームのメンバーやほかの開発者など、このリソースを更新できる全員"
+        "string": "团队成员和其他开发者等，可以更新此资源的所有人"
     },
     "community.publishing.permissions_tab": {
-        "string": "権限"
+        "string": "权限"
     },
     "community.publishing.playground_file": {
-        "string": "プレイグラウンドファイル"
+        "string": "Playground文件"
     },
     "community.publishing.playground_file.dropdown.open_file": {
-        "string": "ソースファイルを開く"
+        "string": "打开源文件"
     },
     "community.publishing.playground_file.dropdown.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "community.publishing.playground_file.dropdown.update_to_latest_version": {
-        "string": "最新バージョンに更新"
+        "string": "更新到最新版本"
     },
     "community.publishing.playground_file.figjam": {
         "string": "FigJam"
@@ -102,51 +102,51 @@
         "string": "Figma"
     },
     "community.publishing.playground_file.tooltip": {
-        "string": "プレイグラウンドファイルのオプション"
+        "string": "Playground文件选项"
     },
     "community.publishing.playground_file.updated_version_confirmation": {
-        "string": "最新版にアップデート済み • {undoButton}"
+        "string": "已更新到最新版本 • {undoButton}"
     },
     "community.publishing.playground_file_add_button": {
-        "string": "追加"
+        "string": "添加"
     },
     "community.publishing.playground_file_for_plugin": {
-        "string": "プラグインの機能を示すプレイグラウンドファイルを追加します"
+        "string": "添加展示插件功能的Playground文件"
     },
     "community.publishing.playground_file_for_widget": {
-        "string": "ウィジェットの機能を示すプレイグラウンドファイルを追加します"
+        "string": "添加展示小部件功能的Playground文件"
     },
     "community.publishing.please_add_this_to_your_manifest": {
-        "string": "これを{filename}ファイルに追加してください"
+        "string": "请将此添加到您的{filename}文件中"
     },
     "community.publishing.please_add_this_to_your_manifest_period": {
-        "string": "これを{filename}ファイルに追加してください。"
+        "string": "请将此添加到您的{filename}文件中。"
     },
     "community.publishing.please_enable_two_factor_authentication_to_publish_this_plugin": {
-        "string": "2要素認証を有効にして、このプラグインを公開してください"
+        "string": "请启用双因素身份验证以发布此插件"
     },
     "community.publishing.please_enable_two_factor_authentication_to_publish_this_widget": {
-        "string": "2要素認証を有効にして、このウィジェットを公開してください"
+        "string": "请启用双因素身份验证以发布此小部件"
     },
     "community.publishing.please_verify_your_email_address_to_publish": {
-        "string": "メールアドレスを確認して公開してください"
+        "string": "请验证您的电子邮件地址以发布"
     },
     "community.publishing.plugin_missing_network_access": {
-        "string": "この省略可能なフィールドを{filename}ファイルに追加してテストしてください。「...」をプラグインのアクセス先のドメインに置き換えます。プラグインにネットワークアクセスが不要な場合は、「none」に置き換えます。"
+        "string": "请将此可选字段添加到{filename}文件中进行测试。将“...”替换为插件需要访问的域名。如果插件不需要网络访问，请将其替换为“none”。"
     },
     "community.publishing.plugin_playground_file_editor_type_error": {
-        "string": "このプラグインのプレイグラウンドファイルは{editorType}にする必要があります"
+        "string": "此插件的Playground文件必须是{editorType}"
     },
     "community.publishing.plugin_playground_file_help_text_new": {
-        "string": "プレイグラウンドファイルで皆にリソースを試してもらいましょう。リソースは、独自に作成することも、{useTemplateLink}"
+        "string": "使用Playground文件让所有人试用您的资源。您可以自己创建资源，也可以{useTemplateLink}"
     },
     "community.publishing.plugin_tagline_input_placeholder": {
-        "string": "プラグインの短い説明を入力"
+        "string": "输入插件的简短描述"
     },
     "community.publishing.preview_as": {
-        "string": "プレビューの方法"
+        "string": "预览方式"
     },
     "community.publishing.price_is_required_for_paid_resources": {
-        "string": "有料リソースの場合は金額を入力してください"
+        "string": "有偿资源需要输入价格"
     }
 }

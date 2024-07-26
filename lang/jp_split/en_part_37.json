@@ -1,96 +1,96 @@
 {
     "collaboration.branching_node_treatments.property.image_filter": {
-        "string": "画像フィルター"
+        "string": "图像滤镜"
     },
     "collaboration.branching_node_treatments.property.instance_simplification": {
-        "string": "インスタンスの簡素化"
+        "string": "实例简化"
     },
     "collaboration.branching_node_treatments.property.layout_grid": {
-        "string": "レイアウトグリッド"
+        "string": "布局网格"
     },
     "collaboration.branching_node_treatments.property.layout_grid_details": {
-        "string": "レイアウトグリッドの詳細"
+        "string": "布局网格详情"
     },
     "collaboration.branching_node_treatments.property.leading_trim": {
-        "string": "上下トリミング"
+        "string": "行距修剪"
     },
     "collaboration.branching_node_treatments.property.letter_spacing": {
-        "string": "文字間隔"
+        "string": "字间距"
     },
     "collaboration.branching_node_treatments.property.line_height": {
-        "string": "行間"
+        "string": "行高"
     },
     "collaboration.branching_node_treatments.property.link_preview_data": {
-        "string": "リンクプレビューデータ"
+        "string": "链接预览数据"
     },
     "collaboration.branching_node_treatments.property.list_spacing": {
-        "string": "リスト間隔"
+        "string": "列表间距"
     },
     "collaboration.branching_node_treatments.property.locked": {
-        "string": "ロック済み"
+        "string": "已锁定"
     },
     "collaboration.branching_node_treatments.property.mask": {
-        "string": "マスク"
+        "string": "遮罩"
     },
     "collaboration.branching_node_treatments.property.mask_is_outline": {
-        "string": "マスクアウトライン"
+        "string": "遮罩轮廓"
     },
     "collaboration.branching_node_treatments.property.mask_type": {
-        "string": "マスクの種類"
+        "string": "遮罩类型"
     },
     "collaboration.branching_node_treatments.property.max_lines": {
         "string": "最大行数"
     },
     "collaboration.branching_node_treatments.property.mention": {
-        "string": "メンション"
+        "string": "提及"
     },
     "collaboration.branching_node_treatments.property.miter_limit": {
-        "string": "マイターリミット"
+        "string": "斜接限制"
     },
     "collaboration.branching_node_treatments.property.node_name": {
-        "string": "名前"
+        "string": "名称"
     },
     "collaboration.branching_node_treatments.property.offset": {
-        "string": "オフセット"
+        "string": "偏移量"
     },
     "collaboration.branching_node_treatments.property.opacity": {
         "string": "不透明度"
     },
     "collaboration.branching_node_treatments.property.order": {
-        "string": "順序"
+        "string": "顺序"
     },
     "collaboration.branching_node_treatments.property.padding": {
-        "string": "パディング"
+        "string": "填充"
     },
     "collaboration.branching_node_treatments.property.paragraph_indent": {
-        "string": "段落インデント"
+        "string": "段落缩进"
     },
     "collaboration.branching_node_treatments.property.paragraph_spacing": {
-        "string": "段落間隔"
+        "string": "段落间距"
     },
     "collaboration.branching_node_treatments.property.parent": {
-        "string": "親"
+        "string": "父级"
     },
     "collaboration.branching_node_treatments.property.phase": {
-        "string": "フェーズ"
+        "string": "阶段"
     },
     "collaboration.branching_node_treatments.property.plugin_data": {
-        "string": "プラグインデータ"
+        "string": "插件数据"
     },
     "collaboration.branching_node_treatments.property.position": {
         "string": "位置"
     },
     "collaboration.branching_node_treatments.property.position_rotation_or_scale": {
-        "string": "位置、回転、または拡大縮小"
+        "string": "位置、旋转或缩放"
     },
     "collaboration.branching_node_treatments.property.properties": {
-        "string": "プロパティ"
+        "string": "属性"
     },
     "collaboration.branching_node_treatments.property.props_are_bubbled": {
-        "string": "コンポーネントプロパティが吹き出し化済み"
+        "string": "组件属性已冒泡"
     },
     "collaboration.branching_node_treatments.property.prototype": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "collaboration.branching_node_treatments.property.radii": {
         "string": "半径"
@@ -99,54 +99,54 @@
         "string": "左上、右上、右下、左下"
     },
     "collaboration.branching_node_treatments.property.rectangle_radii_independent": {
-        "string": "長方形の角半径に依存しない"
+        "string": "独立于矩形角半径"
     },
     "collaboration.branching_node_treatments.property.removed_node": {
-        "string": "削除済み"
+        "string": "已删除"
     },
     "collaboration.branching_node_treatments.property.resize_behavior": {
-        "string": "サイズ変更動作"
+        "string": "调整大小行为"
     },
     "collaboration.branching_node_treatments.property.resize_to_fit": {
-        "string": "サイズ自動調整"
+        "string": "调整大小以适应"
     },
     "collaboration.branching_node_treatments.property.rich_media_data": {
-        "string": "リッチメディアデータ"
+        "string": "富媒体数据"
     },
     "collaboration.branching_node_treatments.property.rotation": {
-        "string": "回転"
+        "string": "旋转"
     },
     "collaboration.branching_node_treatments.property.scale": {
-        "string": "拡大縮小"
+        "string": "缩放"
     },
     "collaboration.branching_node_treatments.property.section_contents_hidden": {
-        "string": "セクションコンテンツを表示しない"
+        "string": "隐藏部分内容"
     },
     "collaboration.branching_node_treatments.property.shape_truncates": {
-        "string": "シェイプの切り捨て"
+        "string": "形状截断"
     },
     "collaboration.branching_node_treatments.property.shape_user_height": {
-        "string": "シェイプユーザー高さ"
+        "string": "形状用户高度"
     },
     "collaboration.branching_node_treatments.property.size": {
-        "string": "サイズ"
+        "string": "大小"
     },
     "collaboration.branching_node_treatments.property.spread": {
-        "string": "スプレッド"
+        "string": "扩展"
     },
     "collaboration.branching_node_treatments.property.stack_counter_spacing": {
-        "string": "スタックカウンターの間隔"
+        "string": "堆栈计数器间距"
     },
     "collaboration.branching_node_treatments.property.stack_spacing": {
-        "string": "スタック間隔"
+        "string": "堆栈间距"
     },
     "collaboration.branching_node_treatments.property.stamp_data": {
-        "string": "スタンプデータ"
+        "string": "印记数据"
     },
     "collaboration.branching_node_treatments.property.star_inner_scale": {
-        "string": "星の内径スケール"
+        "string": "星形内部比例"
     },
     "collaboration.branching_node_treatments.property.stroke_align": {
-        "string": "線の配置"
+        "string": "描边对齐"
     }
 }

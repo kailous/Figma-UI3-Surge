@@ -1,152 +1,152 @@
 {
     "community.publishing.confirm_change_plugin_profile_modal.cta": {
-        "string": "続行する"
+        "string": "继续"
     },
     "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed": {
-        "string": "{profileName}プロフィールは削除されます"
+        "string": "{profileName}的个人资料将被删除"
     },
     "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed_reason": {
-        "string": "{newProfileName}として公開しようとしています。公開する権限が付与されるまで、再度{prevProfileName}として公開できません。"
+        "string": "你正在尝试以{newProfileName}身份发布。在获得发布权限之前，不能再以{prevProfileName}身份发布。"
     },
     "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.plugin": {
-        "string": "プラグインのオーナーシップを移転しますか?"
+        "string": "要转移插件所有权吗？"
     },
     "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.widget": {
-        "string": "ウィジェットのオーナーシップを移転しますか?"
+        "string": "要转移小部件所有权吗？"
     },
     "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed": {
-        "string": "権限が削除されます"
+        "string": "权限将被删除"
     },
     "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.plugin": {
-        "string": "{authorName}として公開しようとしています。最初に{orgName}のメンバーとして追加しないと、{publishers}はこのプラグインを今後更新する権限を持てません。"
+        "string": "你正在尝试以{authorName}身份发布。如果没有先将其添加为{orgName}的成员，{publishers}将没有权限更新此插件。"
     },
     "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.widget": {
-        "string": "{authorName}として公開しようとしています。最初に{orgName}のメンバーとして追加しないと、{publishers}はこのウィジェットを今後更新する権限を持てません。"
+        "string": "你正在尝试以{authorName}身份发布。如果没有先将其添加为{orgName}的成员，{publishers}将没有权限更新此小部件。"
     },
     "community.publishing.confirm_remove_non_org_publishers_modal.publish_anyway": {
-        "string": "とにかく公開"
+        "string": "仍然发布"
     },
     "community.publishing.congratulations": {
-        "string": "おめでとうございます!"
+        "string": "恭喜！"
     },
     "community.publishing.connect_existing_profile": {
-        "string": "既存のプロフィールを接続"
+        "string": "连接现有的个人资料"
     },
     "community.publishing.connect_or_create_a_public_community_profile_to_publish": {
-        "string": "公開コミュニティプロフィールを接続または作成して公開します"
+        "string": "连接或创建公开的社区个人资料以发布"
     },
     "community.publishing.copied": {
-        "string": "コピー済み"
+        "string": "已复制"
     },
     "community.publishing.copy": {
-        "string": "コピー"
+        "string": "复制"
     },
     "community.publishing.could_not_publish_plugin_error": {
-        "string": "プラグインを公開できませんでした: {error}"
+        "string": "无法发布插件：{error}"
     },
     "community.publishing.cover_image_exceeds_max_size": {
-        "string": "カバーアートの画像が{maxResourceSize} MBの最大サイズを超えています"
+        "string": "封面图像超过最大大小{maxResourceSize} MB"
     },
     "community.publishing.cover_image_not_found": {
-        "string": "カバーアートの画像が見つかりません"
+        "string": "未找到封面图像"
     },
     "community.publishing.cover_image_requirements": {
-        "string": "カバーアートはjpeg、png、svg、またはgifである必要があります"
+        "string": "封面图像应为jpeg、png、svg或gif格式"
     },
     "community.publishing.create_new_profile": {
-        "string": "新しいプロフィールの作成"
+        "string": "创建新个人资料"
     },
     "community.publishing.created_by": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "community.publishing.created_by_link": {
-        "string": "作成者"
+        "string": "由...创建"
     },
     "community.publishing.creative_commons_license": {
-        "string": "クリエイティブ・コモンズBY 4.0 {learnMoreLink}"
+        "string": "Creative Commons BY 4.0 {learnMoreLink}"
     },
     "community.publishing.creator_policy": {
-        "string": "作成者のポリシー"
+        "string": "创建者政策"
     },
     "community.publishing.creator_policy_must_be_at_most_10000_characters_long": {
-        "string": "作成者のポリシーは、10,000文字以内にする必要があります"
+        "string": "创建者政策最多应为10,000字符"
     },
     "community.publishing.creators": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "community.publishing.currently_you_don_t_have_a_personal_community_profile_associated_with_a_different_figma_account_if_you_do_connect_it_now_and_publish_to_your_existing_profile_without_having_to_switch_accounts": {
-        "string": "現在、別のFigmaアカウントに関連付けられている個人のコミュニティプロフィールがありません。ある場合は接続して、アカウントを切り替えずに既存のプロフィールに公開します。"
+        "string": "当前没有与其他Figma账户关联的个人社区资料。如果有，请立即连接并发布到现有个人资料，无需切换账户。"
     },
     "community.publishing.data_security": {
-        "string": "データセキュリティ"
+        "string": "数据安全"
     },
     "community.publishing.data_security.approved": {
-        "string": "{buttonText}は、Figmaによって審査され、承認されました。"
+        "string": "{buttonText}已通过Figma的审核并获得批准。"
     },
     "community.publishing.data_security.details_are_missing": {
-        "string": "詳細情報が不足しています->"
+        "string": "缺少详细信息 ->"
     },
     "community.publishing.data_security.errors": {
-        "string": "データセキュリティフォームにエラーがあります"
+        "string": "数据安全表单中存在错误"
     },
     "community.publishing.data_security.incomplete_multi_select": {
-        "string": "少なくとも1つ選択してください"
+        "string": "请至少选择一个选项"
     },
     "community.publishing.data_security.incomplete_single_select": {
-        "string": "選択してください"
+        "string": "请选择一个选项"
     },
     "community.publishing.data_security.incomplete_text": {
-        "string": "より詳細な情報が必要です"
+        "string": "需要更详细的信息"
     },
     "community.publishing.data_security.initial": {
-        "string": "ユーザーが{buttonText}を理解するのに役立つ詳細情報を追加します"
+        "string": "添加帮助用户了解{buttonText}的数据处理详细信息"
     },
     "community.publishing.data_security.initial_button.plugin": {
-        "string": "プラグインによるデータの取り扱い ->"
+        "string": "插件的数据处理 ->"
     },
     "community.publishing.data_security.initial_button.widget": {
-        "string": "ウィジェットによるデータの取り扱い ->"
+        "string": "小部件的数据处理 ->"
     },
     "community.publishing.data_security.number_of_errors": {
-        "string": "{num, plural, other {{num}個のエラー}}"
+        "string": "{num, plural, other {{num}个错误}}"
     },
     "community.publishing.data_security.opted_out.approved.plugin": {
-        "string": "このバージョンを公開すると、プラグインのFigmaコミュニティページからこれらの詳細情報が削除されます。"
+        "string": "发布此版本将从插件的Figma社区页面中删除这些详细信息。"
     },
     "community.publishing.data_security.opted_out.approved.widget": {
-        "string": "このバージョンを公開すると、ウィジェットのFigmaコミュニティページからこれらの詳細情報が削除されます。"
+        "string": "发布此版本将从小部件的Figma社区页面中删除这些详细信息。"
     },
     "community.publishing.data_security.opted_out.pending_rejected": {
-        "string": "送信済みの回答がセキュリティ自己評価プログラムから削除されます。"
+        "string": "已提交的回答将从安全自我评估程序中删除。"
     },
     "community.publishing.data_security.pending": {
-        "string": "{buttonText}は送信され、現在、Figmaが審査しています。"
+        "string": "{buttonText}已提交，当前正在Figma审核中。"
     },
     "community.publishing.data_security.ready_to_submit": {
-        "string": "{buttonText}の入力が終わりました。入力した情報がFigmaによって審査されます。"
+        "string": "{buttonText}填写完毕。填写的信息将由Figma审核。"
     },
     "community.publishing.data_security.rejected": {
-        "string": "セキュリティ情報がFigmaのセキュリティのベストプラクティスに準拠していません。{buttonText}"
+        "string": "安全信息不符合Figma的安全最佳实践。{buttonText}"
     },
     "community.publishing.data_security.security_details_button": {
-        "string": "セキュリティの詳細情報"
+        "string": "安全详细信息"
     },
     "community.publishing.data_security_tab": {
-        "string": "データセキュリティ"
+        "string": "数据安全"
     },
     "community.publishing.describe_exactly_what_users_can_expect.plugin": {
-        "string": "ユーザーがプラグインで期待できること(何をするか、使い方、関連制限事項)を具体的に説明してください。"
+        "string": "具体描述用户可以在插件中期待的内容（做什么、如何使用、相关限制）。"
     },
     "community.publishing.describe_exactly_what_users_can_expect.widget": {
-        "string": "ユーザーがウィジェットで期待できること(何をするか、使い方、関連制限事項)を具体的に説明してください。"
+        "string": "具体描述用户可以在小部件中期待的内容（做什么、如何使用、相关限制）。"
     },
     "community.publishing.describe_your_file": {
-        "string": "このファイルから何を発見したり、学んだりできるでしょうか? 具体的に書くことによって、何を期待できるかをコミュニティに知ってもらうことができます。"
+        "string": "这个文件中可以发现或学习到什么？具体描述以便让社区了解他们可以期待什么。"
     },
     "community.publishing.describe_your_plugin": {
-        "string": "このプラグインから何を発見したり、学んだりできるでしょうか? 具体的に書くことによって、何を期待できるかをコミュニティに知ってもらうことができます。"
+        "string": "这个插件中可以发现或学习到什么？具体描述以便让社区了解他们可以期待什么。"
     },
     "community.publishing.describe_your_widget": {
-        "string": "このウィジェットら何を発見したり、学んだりできるでしょうか? 具体的に書くことによって、何を期待できるかをコミュニティに知ってもらうことができます。"
+        "string": "这个小部件中可以发现或学习到什么？具体描述以便让社区了解他们可以期待什么。"
     }
 }

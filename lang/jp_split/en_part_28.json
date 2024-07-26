@@ -1,152 +1,152 @@
 {
     "bug_reporter.modal.severity": {
-        "string": "重大度"
+        "string": "严重程度"
     },
     "bug_reporter.modal.submit": {
-        "string": "バグレポートを送信"
+        "string": "提交错误报告"
     },
     "bug_reporter.modal.title": {
-        "string": "タイトル"
+        "string": "标题"
     },
     "bug_reporter.modal.title_placeholder": {
-        "string": "バグの簡潔な説明"
+        "string": "简要描述错误"
     },
     "bug_reporter.notify_oncall": {
-        "string": "該当するオンコールに通知してください"
+        "string": "通知相关值班人员"
     },
     "bug_reporter.open_slack_discussion": {
-        "string": "Slackディスカッションを開く"
+        "string": "打开Slack讨论"
     },
     "bug_reporter.profiler.collecting_profile": {
-        "string": "プロファイルを収集しています..."
+        "string": "正在收集性能配置文件..."
     },
     "bug_reporter.profiler.profile_attached": {
-        "string": "プロファイル添付"
+        "string": "已附加配置文件"
     },
     "bug_reporter.profiler.start": {
-        "string": "プロファイル収集を開始"
+        "string": "开始收集配置文件"
     },
     "bug_reporter.profiler.stop": {
-        "string": "完了"
+        "string": "完成"
     },
     "bug_reporter.profiler.title": {
-        "string": "パフォーマンスプロファイルを記録"
+        "string": "记录性能配置文件"
     },
     "bug_reporter.submitting_visual_bell": {
-        "string": "送信中..."
+        "string": "正在提交..."
     },
     "bug_reporter.success_message": {
-        "string": "ご協力ありがとうございました。"
+        "string": "感谢您的合作。"
     },
     "bug_reporter.urgent_bug_info": {
-        "string": "緊急性のあるバグの場合は{notifyTheRelevantOncall}"
+        "string": "如果是紧急错误，请{notifyTheRelevantOncall}"
     },
     "bug_reporter.warning_asana_board": {
-        "string": "バグレポートテスティングボード"
+        "string": "错误报告测试板"
     },
     "canvas_search.all_pages": {
-        "string": "すべてのページ"
+        "string": "所有页面"
     },
     "canvas_search.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "canvas_search.filter.all": {
-        "string": "すべて"
+        "string": "所有"
     },
     "canvas_search.filter.component": {
-        "string": "コンポーネント"
+        "string": "组件"
     },
     "canvas_search.filter.frame_or_group": {
-        "string": "フレーム/グループ"
+        "string": "框架/组"
     },
     "canvas_search.filter.image": {
-        "string": "画像"
+        "string": "图像"
     },
     "canvas_search.filter.instance": {
-        "string": "インスタンス"
+        "string": "实例"
     },
     "canvas_search.filter.match_case": {
-        "string": "大文字と小文字を区別"
+        "string": "区分大小写"
     },
     "canvas_search.filter.other": {
-        "string": "その他"
+        "string": "其他"
     },
     "canvas_search.filter.remove": {
-        "string": "削除"
+        "string": "移除"
     },
     "canvas_search.filter.shape": {
-        "string": "シェイプ"
+        "string": "形状"
     },
     "canvas_search.filter.text": {
-        "string": "テキスト"
+        "string": "文本"
     },
     "canvas_search.filter.whole_words": {
-        "string": "すべて一致"
+        "string": "全词匹配"
     },
     "canvas_search.missing_fonts": {
-        "string": "フォントがないため、テキストを置換できません"
+        "string": "缺少字体，无法替换文本"
     },
     "canvas_search.next": {
-        "string": "次の結果"
+        "string": "下一个结果"
     },
     "canvas_search.no_results": {
-        "string": "結果なし"
+        "string": "无结果"
     },
     "canvas_search.no_results_in_file": {
-        "string": "このファイルに結果なし"
+        "string": "此文件中无结果"
     },
     "canvas_search.no_results_in_this_deck": {
-        "string": "このデッキには結果がありません"
+        "string": "此幻灯片中无结果"
     },
     "canvas_search.no_results_on_page": {
-        "string": "このページには結果がありません"
+        "string": "此页面中无结果"
     },
     "canvas_search.previous": {
-        "string": "前の結果"
+        "string": "上一个结果"
     },
     "canvas_search.replace": {
-        "string": "置換"
+        "string": "替换"
     },
     "canvas_search.replace_all": {
-        "string": "すべて置換"
+        "string": "全部替换"
     },
     "canvas_search.replace_all_message": {
-        "string": "{count, plural, other {このページの{count}件の結果を置き換えました}}"
+        "string": "{count, plural, other {已替换此页面上的{count}个结果}}"
     },
     "canvas_search.replace_all_message_all_pages": {
-        "string": "{count, plural, other {このファイルの{count}件の結果を置き換えました}}"
+        "string": "{count, plural, other {已替换此文件中的{count}个结果}}"
     },
     "canvas_search.replace_all_message_figjam": {
-        "string": "{count, plural, other {{count}件の結果を置き換えました}}"
+        "string": "{count, plural, other {已替换{count}个结果}}"
     },
     "canvas_search.replace_one": {
-        "string": "置換"
+        "string": "替换"
     },
     "canvas_search.replace_placeholder": {
-        "string": "置換後の文字列..."
+        "string": "替换文本..."
     },
     "canvas_search.results_count": {
-        "string": "{total, plural, other {合計{total}件の結果}}"
+        "string": "{total, plural, other {共{total}个结果}}"
     },
     "canvas_search.results_index_count": {
         "string": "{index}/{total}"
     },
     "canvas_search.results_other_pages": {
-        "string": "他のページの結果を見る"
+        "string": "查看其他页面的结果"
     },
     "canvas_search.results_unavailable_offline": {
-        "string": "オフライン - 結果の一部が反映されていない場合があります。"
+        "string": "离线状态 - 结果可能不完整。"
     },
     "canvas_search.search": {
-        "string": "検索"
+        "string": "搜索"
     },
     "canvas_search.search_placeholder": {
-        "string": "検索…"
+        "string": "搜索..."
     },
     "canvas_search.settings": {
-        "string": "設定"
+        "string": "设置"
     },
     "canvas_search.show_missing_fonts": {
-        "string": "不足しているフォントを表示"
+        "string": "显示缺少的字体"
     }
 }

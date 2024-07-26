@@ -1,152 +1,152 @@
 {
     "community.detail_view.creator": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "community.detail_view.creator_fund_tooltip": {
-        "string": "Figmaクリエーター基金の支援を受けて作成されました。"
+        "string": "由Figma创作者基金支持。"
     },
     "community.detail_view.creator_policy": {
-        "string": "作成者のポリシー"
+        "string": "创作者政策"
     },
     "community.detail_view.creator_policy_publisher_name": {
-        "string": "{publisherName}より:"
+        "string": "{publisherName}的政策:"
     },
     "community.detail_view.current_pending_user_profile_name_you": {
-        "string": "{currentProfileName} (あなた)"
+        "string": "{currentProfileName} (你)"
     },
     "community.detail_view.data_security": {
-        "string": "データセキュリティ"
+        "string": "数据安全"
     },
     "community.detail_view.data_security_modal_assessment_link": {
-        "string": "セキュリティ自己評価プログラム"
+        "string": "数据安全自评计划"
     },
     "community.detail_view.data_security_modal_badge_info_plugin": {
-        "string": "このプラグインは作成者の回答に基づいて、Figmaのデータセキュリティのベストプラクティスに準拠していまます。"
+        "string": "根据创作者的回答，此插件符合Figma的数据安全最佳实践。"
     },
     "community.detail_view.data_security_modal_badge_info_widget": {
-        "string": "このウィジェットは作成者の回答に基づいて、Figmaのデータセキュリティのベストプラクティスに準拠していまます。"
+        "string": "根据创作者的回答，此小部件符合Figma的数据安全最佳实践。"
     },
     "community.detail_view.data_security_modal_explanation_plugin": {
-        "string": "Figmaの{assessmentProgramLink}の一環として、作成者が自発的に調査に回答し、このプラグインによるデータの取り扱いと保存の方法について共有しています。"
+        "string": "作为Figma的{assessmentProgramLink}的一部分，创作者自愿回答调查，并分享此插件的数据处理和存储方法。"
     },
     "community.detail_view.data_security_modal_explanation_widget": {
-        "string": "Figmaの{assessmentProgramLink}の一環として、作成者が自ら調査に回答し、このウィジェットによるデータの取り扱いと保存の方法について共有しています。"
+        "string": "作为Figma的{assessmentProgramLink}的一部分，创作者自愿回答调查，并分享此小部件的数据处理和存储方法。"
     },
     "community.detail_view.data_security_modal_pending": {
-        "string": "作成者が{date, date, long}に詳細情報を更新したため、更新された情報がデータセキュリティのベストプラクティスに従っているかFigmaが現在審査中です。"
+        "string": "创作者于{date, date, long}更新了详细信息，Figma正在审核这些更新是否符合数据安全最佳实践。"
     },
     "community.detail_view.data_security_modal_rejected": {
-        "string": "作成者が詳細情報を更新しました。審査の結果、{date, date, long}にFigmaはこれらの更新がデータセキュリティのベストプラクティスに従っていないと判断しました。"
+        "string": "创作者更新了详细信息，Figma在{date, date, long}的审核中发现这些更新不符合数据安全最佳实践。"
     },
     "community.detail_view.data_security_modal_rejected_tooltip": {
-        "string": "Figmaはこれらの更新がデータセキュリティのベストプラクティスに従っていないと判断しました。"
+        "string": "Figma认为这些更新不符合数据安全最佳实践。"
     },
     "community.detail_view.decline": {
-        "string": "辞退する"
+        "string": "拒绝"
     },
     "community.detail_view.declined_creator_invite": {
-        "string": "作成者の招待が拒否されました。"
+        "string": "已拒绝创作者邀请。"
     },
     "community.detail_view.declined_publisher_invite": {
-        "string": "公開者の招待が拒否されました。"
+        "string": "已拒绝发布者邀请。"
     },
     "community.detail_view.design_file": {
-        "string": "デザインファイル"
+        "string": "设计文件"
     },
     "community.detail_view.dev_mode_only": {
-        "string": "Figma向け: 開発モード"
+        "string": "仅限Figma: 开发模式"
     },
     "community.detail_view.edit_rating": {
-        "string": "評価を編集"
+        "string": "编辑评分"
     },
     "community.detail_view.empty_star": {
-        "string": "塗りつぶされていない星"
+        "string": "空星"
     },
     "community.detail_view.figjam_board": {
-        "string": "FigJamボード"
+        "string": "FigJam白板"
     },
     "community.detail_view.figma_design_and_dev_mode": {
-        "string": "デザインおよび開発モード向け"
+        "string": "适用于设计和开发模式"
     },
     "community.detail_view.figma_partner_this_creator_is": {
-        "string": "この作成者はFigmaパートナーです。"
+        "string": "此创作者是Figma合作伙伴。"
     },
     "community.detail_view.free_plugin_license": {
-        "string": "コミュニティ無料リソースライセンス"
+        "string": "社区免费资源许可证"
     },
     "community.detail_view.full_star": {
-        "string": "塗りつぶされた星"
+        "string": "实星"
     },
     "community.detail_view.half_star": {
-        "string": "半分塗りつぶされた星"
+        "string": "半星"
     },
     "community.detail_view.how_reviews_and_ratings_work": {
-        "string": "レビューと評価の取り扱い"
+        "string": "评价和评分的工作原理"
     },
     "community.detail_view.in_app_purchases": {
-        "string": "アプリ内課金: {priceString}"
+        "string": "应用内购买: {priceString}"
     },
     "community.detail_view.invitations": {
-        "string": "招待"
+        "string": "邀请"
     },
     "community.detail_view.last_updated_at_time_stamp": {
-        "string": "最終更新 {timeStamp}"
+        "string": "最后更新 {timeStamp}"
     },
     "community.detail_view.learn_how_to_get_started": {
-        "string": "利用方法についてご確認ください。"
+        "string": "了解如何开始使用。"
     },
     "community.detail_view.leave_a_rating": {
-        "string": "評価する"
+        "string": "留下评分"
     },
     "community.detail_view.licensed_under_license_type": {
-        "string": "{licenseType}のライセンスを保持"
+        "string": "持有{licenseType}许可证"
     },
     "community.detail_view.made_by_a_figma_partner": {
-        "string": "Figmaパートナーが作成"
+        "string": "由Figma合作伙伴制作"
     },
     "community.detail_view.made_for_codegen": {
-        "string": "コードスニペットを生成します"
+        "string": "生成代码片段"
     },
     "community.detail_view.made_for_dev_mode": {
-        "string": "Figma向け: 開発モード"
+        "string": "适用于Figma: 开发模式"
     },
     "community.detail_view.made_for_fig_jam": {
-        "string": "FigJam向け"
+        "string": "适用于FigJam"
     },
     "community.detail_view.made_for_fig_jam_and_dev_mode": {
-        "string": "FigJamおよびFigma向け: 開発モード"
+        "string": "适用于FigJam和Figma: 开发模式"
     },
     "community.detail_view.made_for_figma_design": {
-        "string": "Figma向け"
+        "string": "适用于Figma"
     },
     "community.detail_view.made_for_figma_design_and_dev_mode": {
-        "string": "デザインおよび開発モード向け"
+        "string": "适用于设计和开发模式"
     },
     "community.detail_view.made_for_figma_design_and_figjam": {
-        "string": "FigmaおよびFigJam向け"
+        "string": "适用于Figma和FigJam"
     },
     "community.detail_view.made_for_slides": {
-        "string": "Figma Slides向け"
+        "string": "适用于Figma Slides"
     },
     "community.detail_view.no_network_access": {
-        "string": "ネットワークにアクセスできません"
+        "string": "无法访问网络"
     },
     "community.detail_view.no_plugin_network_access": {
-        "string": "プラグインはどのドメインにもアクセスできません。"
+        "string": "插件无法访问任何域名。"
     },
     "community.detail_view.no_widget_network_access": {
-        "string": "ウェジェットはどのドメインにもアクセスできません。"
+        "string": "小部件无法访问任何域名。"
     },
     "community.detail_view.number_of_users": {
-        "string": "{numberOfUsers, plural, other {{numberOfUsers}人のユーザー}}"
+        "string": "{numberOfUsers, plural, other {{numberOfUsers}位用户}}"
     },
     "community.detail_view.paid_resource_license": {
-        "string": "コミュニティ有料リソースライセンス"
+        "string": "社区付费资源许可证"
     },
     "community.detail_view.plugin": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "community.detail_view.plugin_license": {
-        "string": "コミュニティリソースライセンス"
+        "string": "社区资源许可证"
     }
 }

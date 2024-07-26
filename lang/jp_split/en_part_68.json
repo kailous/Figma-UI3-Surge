@@ -1,152 +1,152 @@
 {
     "community.actions.your_twitter_handle_is_not_valid": {
-        "string": "@{handle}は有効なTwitterハンドルではありません"
+        "string": "@{handle}不是有效的Twitter用户名"
     },
     "community.actions.your_twitter_handle_was_updated": {
-        "string": "Twitterハンドルが更新されました"
+        "string": "Twitter用户名已更新"
     },
     "community.actions.your_website_url_was_updated": {
-        "string": "WebサイトのURLが更新されました"
+        "string": "网站URL已更新"
     },
     "community.buyer.add_new_card": {
-        "string": "新しいカードを追加"
+        "string": "添加新卡"
     },
     "community.buyer.apply": {
-        "string": "適用"
+        "string": "应用"
     },
     "community.buyer.billing": {
-        "string": "請求"
+        "string": "账单"
     },
     "community.buyer.buy": {
-        "string": "購入"
+        "string": "购买"
     },
     "community.buyer.buy_now": {
-        "string": "今すぐ購入"
+        "string": "立即购买"
     },
     "community.buyer.by_purchasing_you_agree_to_the_terms_of_service": {
-        "string": "購入すると、{termsOfServiceLink}に同意することになります"
+        "string": "购买即表示您同意{termsOfServiceLink}"
     },
     "community.buyer.cannot_make_purchase_on_behalf_of_team_or_org": {
-        "string": "購入するには、自分のパーソナルプロフィールに切り替えます"
+        "string": "要进行购买，请切换到您的个人资料"
     },
     "community.buyer.complete_purchase": {
-        "string": "購入手続きを完了"
+        "string": "完成购买"
     },
     "community.buyer.confirm_account": {
-        "string": "アカウントを確定"
+        "string": "确认账户"
     },
     "community.buyer.couldnt_complete_purchase": {
-        "string": "購入を完了できませんでした"
+        "string": "无法完成购买"
     },
     "community.buyer.couldnt_fetch_existing_payment_method": {
-        "string": "既存の支払い方法を取得できませんでした"
+        "string": "无法获取现有支付方式"
     },
     "community.buyer.couldnt_process_payment_through_stripe": {
-        "string": "Stripeでの決済を処理できませんでした"
+        "string": "无法通过Stripe处理付款"
     },
     "community.buyer.couldnt_process_tax_information": {
-        "string": "税務情報を処理できませんでした"
+        "string": "无法处理税务信息"
     },
     "community.buyer.couldnt_remove_existing_payment_method": {
-        "string": "既存の支払い方法を削除できませんでした"
+        "string": "无法删除现有支付方式"
     },
     "community.buyer.development": {
-        "string": "開発"
+        "string": "开发"
     },
     "community.buyer.ending_in": {
-        "string": "下4桁: {last4}"
+        "string": "末尾数字：{last4}"
     },
     "community.buyer.enter_valid_promo_code": {
-        "string": "有効なプロモーションコードを入力"
+        "string": "请输入有效的促销代码"
     },
     "community.buyer.error_requesting_refund_please_contact_support": {
-        "string": "ご返金処理中にエラーが発生しました。お手続き方法につきましては、弊社までお問い合わせください。"
+        "string": "请求退款时发生错误，请联系支持"
     },
     "community.buyer.error_stripe": {
-        "string": "Stripeからのエラー: {message}"
+        "string": "Stripe错误：{message}"
     },
     "community.buyer.exp": {
-        "string": "有効期限:  {expMonth}/{expYear}"
+        "string": "有效期：{expMonth}/{expYear}"
     },
     "community.buyer.free_trial_then_price_month": {
-        "string": "{freeTrialDays}日間の無料トライアル後{priceString}/月"
+        "string": "免费试用{freeTrialDays}天后每月{priceString}"
     },
     "community.buyer.free_trial_then_price_year": {
-        "string": "{freeTrialDays}日間の無料トライアル後は{priceString}/年"
+        "string": "免费试用{freeTrialDays}天后每年{priceString}"
     },
     "community.buyer.get_free_preview": {
-        "string": "無料プレビューを入手"
+        "string": "获取免费预览"
     },
     "community.buyer.get_support": {
-        "string": "サポートを依頼"
+        "string": "获取支持"
     },
     "community.buyer.go_to_stripe": {
-        "string": "Stripeに移動"
+        "string": "前往Stripe"
     },
     "community.buyer.here": {
-        "string": "こちら"
+        "string": "这里"
     },
     "community.buyer.hold_tight_while_we_process_your_payment": {
-        "string": "お支払いの処理中です。しばらくお待ちください"
+        "string": "请稍等，我们正在处理您的付款"
     },
     "community.buyer.in_app_purchases": {
-        "string": "アプリ内課金"
+        "string": "应用内购买"
     },
     "community.buyer.jct": {
-        "string": "消費税"
+        "string": "消费税"
     },
     "community.buyer.keep_an_eye_out": {
-        "string": "元の支払い方法で返金いたしますので必ずご確認ください。ご不明な点は{here}よりお問い合わせください。"
+        "string": "请留意原支付方式的退款。任何疑问请{here}联系我们"
     },
     "community.buyer.log_in_to_get_everything": {
-        "string": "{pluginName}のすべての機能と作成者のサポートを得るには、今すぐログインして購入してください。"
+        "string": "登录并购买以获取{pluginName}的所有功能和创建者支持"
     },
     "community.buyer.manage_subscription": {
-        "string": "サブスクリプションを管理"
+        "string": "管理订阅"
     },
     "community.buyer.maybe_later": {
-        "string": "後で"
+        "string": "以后再说"
     },
     "community.buyer.monthly": {
-        "string": "毎月"
+        "string": "每月"
     },
     "community.buyer.need_a_refund": {
-        "string": "返金をご希望ですか?"
+        "string": "需要退款？"
     },
     "community.buyer.no_you_cannot_buy_your_own_resource": {
-        "string": "自分のリソースを購入することはできません。"
+        "string": "您不能购买自己的资源"
     },
     "community.buyer.otp_percent_off": {
-        "string": "{percent_off}%割引"
+        "string": "{percent_off}%折扣"
     },
     "community.buyer.paid_plugins_cannot_be_run_before_purchase": {
-        "string": "有料プラグインを購入前に実行することはできません。"
+        "string": "付费插件在购买前无法运行"
     },
     "community.buyer.paid_widgets_cannot_be_added_to_the_canvas_before_purchase": {
-        "string": "有料ウィジェットを購入前にキャンバスに追加することはできません。"
+        "string": "付费小部件在购买前无法添加到画布"
     },
     "community.buyer.payment_details": {
-        "string": "支払い情報"
+        "string": "支付详情"
     },
     "community.buyer.payment_for_this_resource_is_moving_over_to_figma": {
-        "string": "このリソースのお支払いはFigmaのプラットフォームに移行します。"
+        "string": "此资源的支付正在转移到Figma平台"
     },
     "community.buyer.payment_updates": {
-        "string": "お支払いの更新"
+        "string": "支付更新"
     },
     "community.buyer.please_remain_on_the_page": {
-        "string": "お支払い処理が完了するまでページを離れないでください"
+        "string": "请保持在页面上，直到支付完成"
     },
     "community.buyer.price_and_payment_cadence_will_appear_here": {
-        "string": "価格と支払いのケイデンスがここに表示されます"
+        "string": "价格和支付节奏将显示在此"
     },
     "community.buyer.price_one_time_payment": {
-        "string": "{priceString}の1回払い"
+        "string": "一次性支付{priceString}"
     },
     "community.buyer.price_per_month": {
-        "string": "{priceString}/月"
+        "string": "每月{priceString}"
     },
     "community.buyer.price_per_month_subscription": {
-        "string": "月額{priceString}のサブスクリプション"
+        "string": "每月{priceString}的订阅"
     }
 }

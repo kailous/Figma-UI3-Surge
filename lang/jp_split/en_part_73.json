@@ -1,129 +1,129 @@
 {
     "community.publishing.describe_your_work": {
-        "string": "公開するリソースについて説明"
+        "string": "描述你的工作"
     },
     "community.publishing.description": {
-        "string": "説明"
+        "string": "描述"
     },
     "community.publishing.description_must_be_at_most_10000_characters_long": {
-        "string": "説明は10000文字以内にする必要があります"
+        "string": "描述必须最多10000个字符"
     },
     "community.publishing.details": {
-        "string": "詳細"
+        "string": "详情"
     },
     "community.publishing.dimensions": {
         "string": "{width}x{height}"
     },
     "community.publishing.documentAccess": {
-        "string": "ドキュメントアクセス"
+        "string": "文档访问"
     },
     "community.publishing.drop_or_paste_your_icon_image_here_or_choose_a_file_from_your_computer": {
-        "string": "アイコン画像をここにドロップするか、貼り付けるか、またはコンピュータから{chooseFileLink}"
+        "string": "将图标图像拖放到这里或粘贴，或从计算机{chooseFileLink}"
     },
     "community.publishing.edit_file_page": {
-        "string": "ファイルページを編集"
+        "string": "编辑文件页面"
     },
     "community.publishing.editor_or_viewer_not_found": {
-        "string": "編集者または閲覧者が見つかりません"
+        "string": "未找到编辑者或查看者"
     },
     "community.publishing.editor_type": {
-        "string": "編集者タイプ"
+        "string": "编辑器类型"
     },
     "community.publishing.editor_type_figma": {
         "string": "\"editorType\": [\"figma\"]"
     },
     "community.publishing.error_file_not_found": {
-        "string": "ファイルが見つかりません"
+        "string": "未找到文件"
     },
     "community.publishing.error_icon_image_dimensions": {
-        "string": "アイコン画像寸法128×128にする必要があります"
+        "string": "图标图像尺寸必须为128x128"
     },
     "community.publishing.error_id_identifier_is_invalid": {
-        "string": "ID識別子が無効です"
+        "string": "ID标识符无效"
     },
     "community.publishing.error_one_or_more_creators_are_invalid_profiles": {
-        "string": "1つまたは複数の作成者のコミュニティプロフィールが無効です。"
+        "string": "一个或多个创建者的社区资料无效"
     },
     "community.publishing.error_please_upload_with_transparent_background": {
-        "string": "ウィジェットのスナップショットは透過を含むPNGにする必要があります。"
+        "string": "小部件的快照必须为包含透明背景的PNG"
     },
     "community.publishing.error_thumbnail_image_not_found": {
-        "string": "{filename}が見つかりません"
+        "string": "未找到缩略图{filename}"
     },
     "community.publishing.error_thumbnail_image_not_found_no_filename": {
-        "string": "ファイルが見つかりません"
+        "string": "未找到缩略图文件"
     },
     "community.publishing.error_thumbnail_image_too_large": {
-        "string": "{filename}が{max_size}MBの最大サイズを超えています"
+        "string": "缩略图{filename}超过了最大尺寸{max_size}MB"
     },
     "community.publishing.error_thumbnail_image_wrong_format": {
-        "string": "{filename}はjpegまたはpngでなければなりません"
+        "string": "缩略图{filename}必须为jpeg或png格式"
     },
     "community.publishing.error_video_thumbnail_not_found": {
-        "string": "動画のサムネイルが見つかりません"
+        "string": "未找到视频缩略图"
     },
     "community.publishing.error_video_too_long": {
-        "string": "{filename}が上限の{max_length}秒を超えています"
+        "string": "视频{filename}超过了最大长度{max_length}秒"
     },
     "community.publishing.error_video_wrong_format": {
-        "string": "{filename}は、mp4、webm、またはQuickTimeでなければなりません"
+        "string": "视频{filename}必须为mp4、webm或QuickTime格式"
     },
     "community.publishing.error_we_could_not_load_your_development_resource.plugin": {
-        "string": "開発プラグインを現時点で読み込めませんでした。{filename}ファイルが存在することを確認して、もう一度お試しください。"
+        "string": "目前无法加载开发插件。请确认{filename}文件存在，然后再试一次。"
     },
     "community.publishing.error_we_could_not_load_your_development_resource.widget": {
-        "string": "開発ウィジェットを、現時点で読み込めませんでした。{filename}ファイルが存在することを確認して、もう一度お試しください。"
+        "string": "目前无法加载开发小部件。请确认{filename}文件存在，然后再试一次。"
     },
     "community.publishing.failed_to_read_file": {
-        "string": "{filename}を読み取れませんでした。"
+        "string": "无法读取文件{filename}"
     },
     "community.publishing.feel_free_to_edit_your_page.file": {
-        "string": "それまでの間、ファイルのコミュニティページはいつでも編集できます。このページはファイルが公開されるまで、ほかの人には表示されません。"
+        "string": "在此期间，你可以随时编辑文件的社区页面。此页面在文件发布之前对其他人不可见。"
     },
     "community.publishing.feel_free_to_edit_your_page.plugin": {
-        "string": "それまでの間、プラグインのコミュニティページはいつでも編集できます。このページはプラグインが公開されるまで、ほかの人には表示されません。"
+        "string": "在此期间，你可以随时编辑插件的社区页面。此页面在插件发布之前对其他人不可见。"
     },
     "community.publishing.feel_free_to_edit_your_page.widget": {
-        "string": "それまでの間、ウィジェットのコミュニティページはいつでも編集できます。このページはウィジェットが公開されるまで、ほかの人には表示されません。"
+        "string": "在此期间，你可以随时编辑小部件的社区页面。此页面在小部件发布之前对其他人不可见。"
     },
     "community.publishing.figma_reviews_all_resources_published_to_community_org_private.plugin": {
-        "string": "Figmaでは、コミュニティに公開されたすべてのプラグインをレビューしています。プラグインは承認されるまで{orgName}だけに公開されます。承認後は、すべてのFigmaユーザーに公開されて{orgName}から削除されます。"
+        "string": "Figma审查所有发布到社区的插件。在批准之前，插件仅对{orgName}可见。批准后，插件将对所有Figma用户可见，并从{orgName}中删除。"
     },
     "community.publishing.figma_reviews_all_resources_published_to_community_org_private.widget": {
-        "string": "Figmaでは、コミュニティに公開されたすべてのウィジェットをレビューしています。ウィジェットは承認されるまで{orgName}だけに公開されます。承認後は、すべてのFigmaユーザーに公開されて{orgName}から削除されます。"
+        "string": "Figma审查所有发布到社区的小部件。在批准之前，小部件仅对{orgName}可见。批准后，小部件将对所有Figma用户可见，并从{orgName}中删除。"
     },
     "community.publishing.file": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "community.publishing.file_editor": {
-        "string": "ファイル編集者"
+        "string": "文件编辑者"
     },
     "community.publishing.file_preview": {
-        "string": "ファイルプレビュー"
+        "string": "文件预览"
     },
     "community.publishing.found_multiple_local_widgets_with_the_same_manifest_id": {
-        "string": "同じ\"manifest.id\"の複数のローカルウィジェットが見つかりました"
+        "string": "找到多个具有相同\"manifest.id\"的本地小部件"
     },
     "community.publishing.generate_id": {
-        "string": "IDを生成…"
+        "string": "生成ID..."
     },
     "community.publishing.give_up_to_n_creators_credit": {
-        "string": "作成者の氏名または@ユーザーネームを{maxCreatorsPerResource}名まで指定できます。"
+        "string": "最多可以为{maxCreatorsPerResource}个创作者提供姓名或@用户名的信用。"
     },
     "community.publishing.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "community.publishing.help_people_discover_your_file": {
-        "string": "自分のファイルをユーザーが見つけやすくする:"
+        "string": "帮助人们发现你的文件："
     },
     "community.publishing.i_agree_to_the_terms_of_service": {
-        "string": "{termsOfService}に同意します"
+        "string": "我同意{termsOfService}"
     },
     "community.publishing.icon": {
-        "string": "アイコン"
+        "string": "图标"
     },
     "community.publishing.icon_cant_be_empty": {
-        "string": "アイコンを空にすることはできません"
+        "string": "图标不能为空"
     },
     "community.publishing.id": {
         "string": "ID"
@@ -132,21 +132,21 @@
         "string": "\"id\": \"{pendingId}\""
     },
     "community.publishing.if_you_don_t_have_an_existing_community_profile_you_can_create_one_now": {
-        "string": "既存のコミュニティプロフィールがない場合は、今作成できます。"
+        "string": "如果你没有现有的社区个人资料，现在可以创建一个。"
     },
     "community.publishing.if_you_have_a_personal_community_profile_associated_with_a_different_figma_account_connect_it_now_and_publish_to_your_existing_profile_without_having_to_switch_accounts": {
-        "string": "別のFigmaアカウントに関連付けられている個人のコミュニティプロフィールがある場合は、接続して、アカウントを切り替えずに既存のプロフィールに公開します。"
+        "string": "如果你有一个与其他Figma账户关联的个人社区资料，现在连接它并发布到现有的资料中，无需切换账户。"
     },
     "community.publishing.instead_of_images_your_resource_will_display_as_a_prototype": {
-        "string": "リソースは、画像ではなくプロトタイプとして表示されます。"
+        "string": "你的资源将显示为原型，而不是图像。"
     },
     "community.publishing.invalid_id_in_manifest": {
-        "string": "{filename}のIDが無効です"
+        "string": "{filename}中的ID无效"
     },
     "community.publishing.invite_creators_to_the_file_to_give_credit_creators_must_have_community_profiles": {
-        "string": "ファイルに作成者を招待してクレジットを提供します。作成者にはコミュニティプロフィールが必要です。"
+        "string": "邀请创作者到文件中以提供信用。创作者必须有社区资料。"
     },
     "community.publishing.invite_other_people_link": {
-        "string": "他のユーザーを招待"
+        "string": "邀请其他人"
     }
 }

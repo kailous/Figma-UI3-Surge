@@ -1,152 +1,152 @@
 {
     "checkout.empty_seats": {
-        "string": "{numOfEmptySeats, plural, other {空いているシート: {numOfEmptySeats}}}"
+        "string": "{numOfEmptySeats, plural, other {空座位数: {numOfEmptySeats}}}"
     },
     "checkout.enabled_devmode": {
-        "string": "このユーザーはファイルを編集できなくなります。開発モードのインスペクトのみ可能です"
+        "string": "该用户将无法编辑文件。仅可在开发模式下进行检查。"
     },
     "checkout.paranthesis": {
         "string": "({content})"
     },
     "checkout.review_in_tax_disclaimer": {
-        "string": "確認"
+        "string": "查看"
     },
     "checkout.seats": {
-        "string": "{numOfSeats, plural, other {{numOfSeats}シート}}"
+        "string": "{numOfSeats, plural, other {{numOfSeats}个座位}}"
     },
     "checkout.seats_text": {
-        "string": "{numOfSeats, plural, other {シート}}"
+        "string": "{numOfSeats, plural, other {座位}}"
     },
     "checkout.subtotal": {
-        "string": "小計"
+        "string": "小计"
     },
     "checkout.switch_seat_from_design_to_devmode": {
-        "string": "このユーザーはファイルを編集できなくなりました。開発モードのインスペクトのみ可能です"
+        "string": "该用户将无法编辑文件。仅可在开发模式下进行检查。"
     },
     "checkout.tax_disclaimer": {
-        "string": "次で合計金額(税込)をご覧ください: "
+        "string": "请查看以下的总金额（含税）："
     },
     "checkout.update_seats": {
-        "string": "シートを更新"
+        "string": "更新座位"
     },
     "churn_friction.modal.advanced_prototyping": {
-        "string": "高度なプロトタイピング"
+        "string": "高级原型制作"
     },
     "churn_friction.modal.audio_conversations": {
-        "string": "音声会話"
+        "string": "语音对话"
     },
     "churn_friction.modal.converted_to_view_only": {
-        "string": "プロジェクトとファイルが閲覧限定に切り替わります。"
+        "string": "项目和文件将切换为仅查看。"
     },
     "churn_friction.modal.cta.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "churn_friction.modal.cta.keep_plan": {
-        "string": "プロフェッショナルプランを維持"
+        "string": "保持专业计划"
     },
     "churn_friction.modal.cta.see_everything_youll_lose": {
-        "string": "使えなくなるすべての機能を確認 ->"
+        "string": "查看所有将失去的功能 ->"
     },
     "churn_friction.modal.design_file_count": {
-        "string": "{designFileCount, plural, other {{designFileCount}個のファイル}}"
+        "string": "{designFileCount, plural, other {{designFileCount}个文件}}"
     },
     "churn_friction.modal.design_file_subtitle": {
-        "string": "は閲覧限定になります"
+        "string": "将变为仅查看"
     },
     "churn_friction.modal.editor_count.seat_rename": {
-        "string": "{editorCount, plural, other {{editorCount}人分の有料シート}}"
+        "string": "{editorCount, plural, other {{editorCount}个付费座位}}"
     },
     "churn_friction.modal.editor_subtitle": {
-        "string": "はファイル全体でアクティブになります"
+        "string": "将在所有文件中激活"
     },
     "churn_friction.modal.feature_examples": {
-        "string": "ライブラリ、高度なプロトタイピング、その他。"
+        "string": "库、高级原型制作等。"
     },
     "churn_friction.modal.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "churn_friction.modal.private_projects_and_prototypes": {
-        "string": "プライベートのプロジェクトとプロトタイプ"
+        "string": "私有项目和原型"
     },
     "churn_friction.modal.project_count": {
-        "string": "{projectCount, plural, other {{projectCount}個のプロジェクト}}"
+        "string": "{projectCount, plural, other {{projectCount}个项目}}"
     },
     "churn_friction.modal.project_subtitle": {
-        "string": "はロックされた状態になります"
+        "string": "将被锁定"
     },
     "churn_friction.modal.team_libraries": {
-        "string": "チームライブラリ"
+        "string": "团队库"
     },
     "churn_friction.modal.title": {
-        "string": "キャンセルすると..."
+        "string": "取消后..."
     },
     "churn_friction.modal.your_team_will_lose": {
-        "string": "チームはプロフェッショナルの機能を利用できなくなります。"
+        "string": "您的团队将无法使用专业功能。"
     },
     "collaboration.branching.a_merge_request_is_already_open_for_this_branch": {
-        "string": "このブランチのマージリクエストが既に開かれています"
+        "string": "该分支的合并请求已经开启"
     },
     "collaboration.branching.an_error_occurred_while_deleting_these_files": {
-        "string": "これらのファイルの削除中にエラーが発生しました。"
+        "string": "删除这些文件时发生错误。"
     },
     "collaboration.branching.an_error_occurred_while_renaming_this_file": {
-        "string": "このファイルの名前の変更中にエラーが発生しました。"
+        "string": "重命名该文件时发生错误。"
     },
     "collaboration.branching.an_error_occurred_while_restoring_these_files": {
-        "string": "これらのファイルの復元中にエラーが発生しました。"
+        "string": "恢复这些文件时发生错误。"
     },
     "collaboration.branching.an_error_occurred_while_updating_this_file": {
-        "string": "このファイルの更新中にエラーが発生しました。"
+        "string": "更新该文件时发生错误。"
     },
     "collaboration.branching.approved": {
-        "string": "承認済み"
+        "string": "已批准"
     },
     "collaboration.branching.approved_review": {
-        "string": "レビューが承認されました"
+        "string": "审查已批准"
     },
     "collaboration.branching.archive": {
-        "string": "アーカイブ"
+        "string": "存档"
     },
     "collaboration.branching.archived": {
-        "string": "アーカイブ済み"
+        "string": "已存档"
     },
     "collaboration.branching.archived_v2": {
-        "string": "{userHandle} · アーカイブ済み{relativeTimestamp}"
+        "string": "{userHandle} · 已存档{relativeTimestamp}"
     },
     "collaboration.branching.branch_archived": {
-        "string": "ブランチがアーカイブされました"
+        "string": "分支已存档"
     },
     "collaboration.branching.branch_deleted": {
-        "string": "ブランチが削除されました"
+        "string": "分支已删除"
     },
     "collaboration.branching.branches_restored": {
-        "string": "{branchCount, plural, other {ブランチが復元されました}}"
+        "string": "{branchCount, plural, other {分支已恢复}}"
     },
     "collaboration.branching.changes_suggested": {
-        "string": "変更提案あり"
+        "string": "建议的更改"
     },
     "collaboration.branching.closing_other_tabs_and_reloading_figma_may_reduce_browser_memory_and_allow_you_to_continue_reviewing_and_merging_this_branch": {
-        "string": "他のタブを閉じてFigmaを再読み込みすると、ブラウザメモリーの使用率が減り、このブランチのレビューとマージを続行できる可能性があります。"
+        "string": "关闭其他标签页并重新加载Figma可能会减少浏览器内存使用，并允许您继续审查和合并该分支。"
     },
     "collaboration.branching.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "collaboration.branching.couldn_t_proceed_with_merge_please_accept_updates_from_main_before_merging_your_branch": {
-        "string": "マージを続行できませんでした。ブランチをマージする前にメインからの更新を受け入れてください。"
+        "string": "无法继续合并。在合并您的分支之前，请接受主分支的更新。"
     },
     "collaboration.branching.current_branch": {
-        "string": "(現在のブランチ)"
+        "string": "(当前分支)"
     },
     "collaboration.branching.delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "collaboration.branching.edit_merge_description": {
-        "string": "マージの説明を編集する"
+        "string": "编辑合并描述"
     },
     "collaboration.branching.edited": {
-        "string": "{userHandle} · 編集済み{relativeTimestamp}"
+        "string": "{userHandle} · 编辑于{relativeTimestamp}"
     },
     "collaboration.branching.error_approving": {
-        "string": "承認中にエラーが発生しました"
+        "string": "批准时发生错误"
     }
 }

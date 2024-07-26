@@ -1,152 +1,152 @@
 {
     "categories.navbar.wireframes.subtitle": {
-        "string": "ローファイフレームで初期のアイデアを探す"
+        "string": "使用低保真框架探索初步想法"
     },
     "categories.plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "categories.portfolios": {
-        "string": "ポートフォリオテンプレート"
+        "string": "作品集模板"
     },
     "categories.presentations": {
-        "string": "プレゼンテーション"
+        "string": "演示文稿"
     },
     "categories.presentations.all_hands_meeting": {
-        "string": "全社会議"
+        "string": "全体会议"
     },
     "categories.presentations.design_review": {
-        "string": "デザインレビュー"
+        "string": "设计评审"
     },
     "categories.presentations.pitch_deck": {
-        "string": "スタートアップのピッチ"
+        "string": "创业展示"
     },
     "categories.presentations.pitch_deck.description": {
-        "string": "ビッグアイデアの背景にあるストーリーを共有します"
+        "string": "分享大创意背后的故事"
     },
     "categories.presentations.product_roadmap": {
-        "string": "プロダクトロードマップ"
+        "string": "产品路线图"
     },
     "categories.presentations.product_roadmap.description": {
-        "string": "プロダクトビジョンを共有することで、顧客を信奉者に変えます"
+        "string": "通过分享产品愿景，将客户变成信徒"
     },
     "categories.presentations.research_readout": {
-        "string": "リサーチ報告"
+        "string": "研究报告"
     },
     "categories.prototyping_animation": {
-        "string": "プロトタイピングとアニメーション"
+        "string": "原型制作与动画"
     },
     "categories.resumes": {
-        "string": "履歴書テンプレート"
+        "string": "简历模板"
     },
     "categories.shapes_colors": {
-        "string": "シェイプとカラー"
+        "string": "形状与颜色"
     },
     "categories.stock_photography": {
-        "string": "ストックフォト"
+        "string": "库存摄影"
     },
     "categories.strategic_planning": {
-        "string": "戦略策定"
+        "string": "战略规划"
     },
     "categories.team_meetings": {
-        "string": "チームミーティング"
+        "string": "团队会议"
     },
     "categories.tutorials": {
-        "string": "チュートリアル"
+        "string": "教程"
     },
     "categories.ui_kits": {
-        "string": "UIキット"
+        "string": "UI工具包"
     },
     "categories.visual_assets": {
-        "string": "ビジュアルアセット"
+        "string": "视觉资产"
     },
     "categories.whiteboarding": {
-        "string": "ホワイトボーディング"
+        "string": "白板工具"
     },
     "categories.widgets": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "categories.wireframes": {
-        "string": "ワイヤーフレーム"
+        "string": "线框图"
     },
     "check_network_compatibility.available": {
-        "string": "利用可能"
+        "string": "可用"
     },
     "check_network_compatibility.blocked": {
-        "string": "ブロックされています"
+        "string": "被阻止"
     },
     "check_network_compatibility.checking_network_settings": {
-        "string": "ネットワーク設定をチェックしています..."
+        "string": "正在检查网络设置..."
     },
     "check_network_compatibility.close": {
-        "string": "完了"
+        "string": "完成"
     },
     "check_network_compatibility.copied_to_clipboard": {
-        "string": "URLをクリップボードにコピーしました"
+        "string": "已复制到剪贴板"
     },
     "check_network_compatibility.description": {
-        "string": "これらの機能は、ネットワークでブロックされている可能性のあるドメインへのアクセスが必要です。"
+        "string": "这些功能需要访问可能在您的网络中被阻止的域。"
     },
     "check_network_compatibility.description_cta": {
-        "string": "ネットワーク管理者に連絡し、ブロックされている以下のドメインからのリクエストを許可するよう依頼してください。"
+        "string": "请联系您的网络管理员，允许从以下被阻止的域请求访问。"
     },
     "check_network_compatibility.dropdown_title": {
-        "string": "ネットワーク設定をチェック"
+        "string": "检查网络设置"
     },
     "check_network_compatibility.error": {
-        "string": "ネットワーク設定のチェック中にエラーが発生しました。しばらくしてからもう一度お試しください。"
+        "string": "检查网络设置时出错。请稍后再试。"
     },
     "check_network_compatibility.error_bell.comment_attachments.message": {
-        "string": "アップロードに失敗しました。ネットワーク設定の更新が必要な可能性があります。"
+        "string": "上传失败。可能需要更新网络设置。"
     },
     "check_network_compatibility.error_bell.fetch_font_list.message": {
-        "string": "フォントリストの取得に失敗しました。ネットワーク設定の更新が必要な可能性があります。"
+        "string": "获取字体列表失败。可能需要更新网络设置。"
     },
     "check_network_compatibility.error_bell.library_publish.message": {
-        "string": "公開に失敗しました。ネットワーク設定の更新が必要な可能性があります。"
+        "string": "发布失败。可能需要更新网络设置。"
     },
     "check_network_compatibility.error_bell.video_upload.message": {
-        "string": "インポートに失敗しました。ネットワーク設定の更新が必要な可能性があります。"
+        "string": "导入失败。可能需要更新网络设置。"
     },
     "check_network_compatibility.error_bell.view_settings": {
-        "string": "設定を表示"
+        "string": "查看设置"
     },
     "check_network_compatibility.feature.comment_attachment": {
-        "string": "コメントへのメディアの追加"
+        "string": "添加评论媒体"
     },
     "check_network_compatibility.feature.font_list": {
-        "string": "フォントリストを取得しています"
+        "string": "获取字体列表"
     },
     "check_network_compatibility.feature.extension_publish": {
-        "string": "プラグインまたはウィジェットの公開"
+        "string": "发布插件或小部件"
     },
     "check_network_compatibility.feature.library_publish": {
-        "string": "ライブラリの公開"
+        "string": "发布库"
     },
     "check_network_compatibility.feature.video": {
-        "string": "コンテンツのインポート"
+        "string": "导入内容"
     },
     "check_network_compatibility.network_settings_compatible": {
-        "string": "ネットワークは、Figmaの実行に必要なドメインにアクセスできます。"
+        "string": "网络可访问Figma运行所需的域。"
     },
     "check_network_compatibility.title": {
-        "string": "ネットワーク設定"
+        "string": "网络设置"
     },
     "check_network_compatibility.view_help_center": {
-        "string": "詳細情報"
+        "string": "查看帮助中心"
     },
     "checkout.add_additional_seats": {
-        "string": "別のシートを追加"
+        "string": "添加更多席位"
     },
     "checkout.add_or_remove_editors": {
-        "string": "編集者の追加または削除"
+        "string": "添加或删除编辑者"
     },
     "checkout.design_with_dev_mode_included": {
-        "string": "デザイン(開発モードを含む)"
+        "string": "设计（包括开发模式）"
     },
     "checkout.dev_mode_included_text_formatted.dev_mode": {
-        "string": "開発モード"
+        "string": "开发模式"
     },
     "checkout.dev_mode_included_text_formatted.included": {
-        "string": "が含まれています"
+        "string": "已包含"
     }
 }

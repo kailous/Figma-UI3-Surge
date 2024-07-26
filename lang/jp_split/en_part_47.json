@@ -1,152 +1,152 @@
 {
     "collaboration.spotlight.tooltip.cancel_ask_to_spotlight": {
-        "string": "スポットライト依頼済み"
+        "string": "取消聚光灯请求"
     },
     "collaboration.spotlight.tooltip.click_to_follow": {
-        "string": "クリックしてフォロー"
+        "string": "点击跟随"
     },
     "collaboration.spotlight.tooltip.click_to_unfollow": {
-        "string": "クリックしてフォロー解除"
+        "string": "点击取消跟随"
     },
     "collaboration.spotlight.tooltip.legacy.click_to_observe_user": {
-        "string": "クリックしてユーザーを注目する"
+        "string": "点击观察用户"
     },
     "collaboration.spotlight.tooltip.legacy.click_to_stop_observing_user": {
-        "string": "クリックしてユーザーの注目を停止する"
+        "string": "点击停止观察用户"
     },
     "collaboration.spotlight.tooltip.menu.cancel_ask_to_spotlight": {
-        "string": "スポットライト依頼をキャンセル"
+        "string": "取消聚光灯请求"
     },
     "collaboration.spotlight.tooltip.spotlight_me": {
-        "string": "自分にスポットライトを当てる"
+        "string": "给我聚光灯"
     },
     "collaboration.spotlight.tooltip.stop_presenting": {
-        "string": "クリックしてスポットライト停止"
+        "string": "点击停止演示"
     },
     "collaboration.spotlight.visual_bell.nominated_user_to_spotlight": {
-        "string": "{userName}にスポットライトを依頼しました"
+        "string": "已请求给{userName}聚光灯"
     },
     "collaboration.spotlight.visual_bell.stopped_nominating_user_to_spotlight": {
-        "string": "スポットライトの依頼をキャンセルしました"
+        "string": "已取消聚光灯请求"
     },
     "collaboration.spotlight.visual_bell.the_presenter_left_the_spotlight": {
-        "string": "発表者がスポットライトから離れました"
+        "string": "演示者已离开聚光灯"
     },
     "collaboration.spotlight.visual_bell.user_left_the_spotlight": {
-        "string": "{userName}がスポットライトから離れました"
+        "string": "{userName}已离开聚光灯"
     },
     "collaboration.voice.are_talking_in_this_file": {
-        "string": "{numVoiceUsers, plural, other {このファイルでは、{voiceUserNames}が話しています。会話に参加する場合は、[{joinText}] をクリックしてください。}}"
+        "string": "在此文件中，{voiceUserNames}正在讲话。要加入对话，请点击[{joinText}]。"
     },
     "collaboration.voice.attempting_to_reconnect": {
-        "string": "再接続しようとしています..."
+        "string": "正在尝试重新连接..."
     },
     "collaboration.voice.audio_has_been_disabled_by_your_organization": {
-        "string": "音声は組織によって無効にされています"
+        "string": "音频已被您的组织禁用"
     },
     "collaboration.voice.audio_has_timed_out_click_to_rejoin": {
-        "string": "音声がタイムアウトになりました。再び参加するにはクリックしてください。"
+        "string": "音频已超时。点击重新加入。"
     },
     "collaboration.voice.audio_input_too_low_warning": {
-        "string": "マイクのボリュームが小さくなっています。デバイスを切り替えてみてください。"
+        "string": "麦克风音量太低。请尝试切换设备。"
     },
     "collaboration.voice.audio_settings": {
-        "string": "自動設定"
+        "string": "自动设置"
     },
     "collaboration.voice.beta": {
-        "string": "ベータ版"
+        "string": "测试版"
     },
     "collaboration.voice.check_your_microphone_permissions_to_start_chatting": {
-        "string": "チャットを開始するにはマイクの権限を確認してください。"
+        "string": "请检查麦克风权限以开始聊天。"
     },
     "collaboration.voice.click_to_mute": {
-        "string": "クリックしてミュート"
+        "string": "点击静音"
     },
     "collaboration.voice.click_to_unmute": {
-        "string": "クリックしてミュート解除"
+        "string": "点击取消静音"
     },
     "collaboration.voice.closed_captioning": {
-        "string": "クローズドキャプション"
+        "string": "隐藏字幕"
     },
     "collaboration.voice.closed_captions": {
-        "string": "クローズドキャプション"
+        "string": "隐藏字幕"
     },
     "collaboration.voice.connected": {
-        "string": "接続しました"
+        "string": "已连接"
     },
     "collaboration.voice.connected_check_your_microphone_permissions_to_start_chatting": {
-        "string": "接続しました。チャットを開始するにはマイクの権限を確認してください。"
+        "string": "已连接。请检查麦克风权限以开始聊天。"
     },
     "collaboration.voice.connecting": {
-        "string": "接続中…"
+        "string": "正在连接…"
     },
     "collaboration.voice.couldn_t_leave_please_try_again": {
-        "string": "退出できませんでした。もう一度お試しください。"
+        "string": "无法退出。请重试。"
     },
     "collaboration.voice.enable_mic_access_for_the_figma_app_to_join": {
-        "string": "参加するには、Figmaアプリのマイクアクセスを有効にします"
+        "string": "请启用Figma应用的麦克风访问权限以加入"
     },
     "collaboration.voice.enable_mic_access_in_your_browser_to_join": {
-        "string": "参加するには、ブラウザでマイクアクセスを有効にします"
+        "string": "请在浏览器中启用麦克风访问权限以加入"
     },
     "collaboration.voice.error_fetching_devices": {
-        "string": "デバイスの取得中にエラーが発生しました"
+        "string": "获取设备时出错"
     },
     "collaboration.voice.error_selecting_device": {
-        "string": "デバイスの選択中にエラーが発生しました"
+        "string": "选择设备时出错"
     },
     "collaboration.voice.figma_audio_won_t_work_on_your_device_learn_why": {
-        "string": "Figmaの音声がデバイスで機能しません。理由を確認してください"
+        "string": "Figma音频无法在您的设备上工作。了解原因"
     },
     "collaboration.voice.file_owner": {
-        "string": "ファイルオーナー"
+        "string": "文件所有者"
     },
     "collaboration.voice.it_s_been_quiet_for_a_while_so_we_ll_end_the_conversation_in_20_seconds_n_click_to_stay_on": {
-        "string": "しばらく発言がなかったので、20秒後に会話を終了します。\n続行するにはクリックしてください。"
+        "string": "已经安静了一段时间，因此我们将在20秒内结束对话。\n点击以继续。"
     },
     "collaboration.voice.join": {
-        "string": "参加"
+        "string": "加入"
     },
     "collaboration.voice.join_conversation": {
-        "string": "会話に参加"
+        "string": "加入对话"
     },
     "collaboration.voice.join_lower": {
-        "string": "参加"
+        "string": "加入"
     },
     "collaboration.voice.join_the_conversation": {
-        "string": "会話に参加"
+        "string": "加入对话"
     },
     "collaboration.voice.joined": {
-        "string": "参加済み"
+        "string": "已加入"
     },
     "collaboration.voice.large": {
         "string": "大"
     },
     "collaboration.voice.learn_how_to_turn_on_closed_captioning": {
-        "string": "クローズドキャプションをオンにする方法はこちら"
+        "string": "了解如何开启隐藏字幕"
     },
     "collaboration.voice.learn_more": {
-        "string": "詳細を表示"
+        "string": "了解更多"
     },
     "collaboration.voice.leave": {
-        "string": "退出"
+        "string": "离开"
     },
     "collaboration.voice.left": {
-        "string": "脱退済み"
+        "string": "已离开"
     },
     "collaboration.voice.medium": {
         "string": "中"
     },
     "collaboration.voice.microphone": {
-        "string": "マイク"
+        "string": "麦克风"
     },
     "collaboration.voice.microphone_not_found": {
-        "string": "マイクが見つかりません"
+        "string": "未找到麦克风"
     },
     "collaboration.voice.minimize": {
         "string": "最小化"
     },
     "collaboration.voice.n_others": {
-        "string": "他{numUsers}人"
+        "string": "其他{numUsers}人"
     }
 }

@@ -1,152 +1,152 @@
 {
     "banner.free_limit_locked.locked": {
-        "string": "ロック済み"
+        "string": "已锁定"
     },
     "banner.free_limit_locked.team_locked_over_starter_limits": {
-        "string": "スタータープランの上限を超えたため、{teamName}がロックされました。"
+        "string": "由于超过了Starter计划的限制，{teamName}已被锁定。"
     },
     "banner.free_limit_locked.upgrade_now": {
-        "string": "今すぐアップグレード"
+        "string": "立即升级"
     },
     "banner.free_limit_locked.upgrade_team_or_lower_usage": {
-        "string": "今すぐ{teamName}をアップグレードしてファイルの編集を続けるか、使用量を減らしてください。{learnMoreLink}"
+        "string": "立即升级{teamName}以继续编辑文件或减少使用量。{learnMoreLink}"
     },
     "banner.freemium_preview.buy_the_resource": {
-        "string": "このファイルを購入"
+        "string": "购买此文件"
     },
     "banner.freemium_preview.get_the_full_file_on_community": {
-        "string": "コミュニティでファイル全体を入手"
+        "string": "在社区获取完整文件"
     },
     "banner.freemium_preview.open_in_community": {
-        "string": "コミュニティページを開く"
+        "string": "打开社区页面"
     },
     "banner.freemium_preview.this_is_just_a_preview": {
-        "string": "プレビューを表示中"
+        "string": "这是一个预览"
     },
     "banner.freemium_preview.this_is_just_a_preview_of_the_file_you_can_buy_on_community": {
-        "string": "これはコミュニティで購入可能なファイルのプレビューです。"
+        "string": "这是可以在社区购买的文件预览。"
     },
     "banner.freemium_preview.you_purchased_this_file_already": {
-        "string": "このファイルは購入済みです。"
+        "string": "您已购买此文件。"
     },
     "banner.multiplayer_session_upgrade.out_of_date.connected": {
-        "string": "作業内容を保存します。他のユーザーの編集内容を見るには再度読み込む必要があります。"
+        "string": "保存您的工作。要查看其他用户的编辑内容，请重新加载。"
     },
     "banner.multiplayer_session_upgrade.out_of_date.not_connected": {
-        "string": "作業内容を保存します。他のユーザーの編集内容を見るには再度読み込む必要があります。"
+        "string": "保存您的工作。要查看其他用户的编辑内容，请重新加载。"
     },
     "banner.multiplayer_session_upgrade.page_out_of_date": {
-        "string": "Figmaの新しいバージョンが利用できます。"
+        "string": "Figma的新版本可用。"
     },
     "banner.multiplayer_session_upgrade.reload": {
-        "string": "再読み込み"
+        "string": "重新加载"
     },
     "banner.multiplayer_session_upgrade.save_and_reload": {
-        "string": "保存して再読み込み"
+        "string": "保存并重新加载"
     },
     "banner.orphaned_projects.back_to_files": {
-        "string": "ファイルに戻る"
+        "string": "返回文件"
     },
     "banner.orphaned_projects.file_in_an_abandoned_project": {
-        "string": "ファイルは、破棄されたプロジェクトにあります"
+        "string": "文件在一个被遗弃的项目中"
     },
     "banner.orphaned_projects.move_to_project": {
-        "string": "このファイルを編集または共有するには、別のプロジェクトに移動してください。"
+        "string": "要编辑或共享此文件，请将其移动到另一个项目中。"
     },
     "banner.personal_projects.back_to_files": {
-        "string": "ファイルに戻る"
+        "string": "返回文件"
     },
     "banner.personal_projects.deprecation_message": {
-        "string": "チーム外ではプロジェクトがサポートされていません。編集を続けるには、このファイルをチームまたは下書きに移動してください。{learnMoreLink}"
+        "string": "不再支持团队外的项目。要继续编辑，请将此文件移动到团队或草稿中。{learnMoreLink}"
     },
     "banner.personal_projects.learn_more": {
-        "string": "詳細を表示します。"
+        "string": "了解更多"
     },
     "banner.personal_projects.locked": {
-        "string": "ロック済み"
+        "string": "已锁定"
     },
     "banner.pro_team_charge_failed.payment_failed": {
-        "string": "お支払いを確認できません"
+        "string": "无法验证您的付款"
     },
     "banner.pro_team_charge_failed.unsuccessful_team_charge.can_admin": {
-        "string": "{teamName}のお支払いをご指定の方法で完了できませんでした。お支払い情報を早急に更新してください。3回失敗すると、ファイルの編集がロックされます。"
+        "string": "无法通过指定的方法完成{teamName}的付款。请尽快更新付款信息。如果失败三次，文件编辑将被锁定。"
     },
     "banner.pro_team_charge_failed.unsuccessful_team_charge.no_admin": {
-        "string": "{teamName}のお支払いをご指定の方法で完了できませんでした。管理者に連絡してお支払い情報を早急に更新してください。3回失敗すると、ファイルの編集がロックされます。"
+        "string": "无法通过指定的方法完成{teamName}的付款。请联系管理员尽快更新付款信息。如果失败三次，文件编辑将被锁定。"
     },
     "banner.pro_team_charge_failed.update_payment": {
-        "string": "支払い情報を更新"
+        "string": "更新付款信息"
     },
     "banner.pro_team_no_monthly_sub.contact_support": {
-        "string": "サポートにお問い合わせください"
+        "string": "联系支持"
     },
     "banner.pro_team_no_monthly_sub.locked": {
-        "string": "ロック済み"
+        "string": "已锁定"
     },
     "banner.pro_team_no_monthly_sub.manage_plan": {
-        "string": "プランを管理"
+        "string": "管理计划"
     },
     "banner.pro_team_no_monthly_sub.over_limit_as_admin.seat_rename": {
-        "string": "Figmaサブスクリプションをキャンセルした後に、チームが有料シートを追加しました。アクセスを復元するには、サブスクリプションを再度有効にするか、シートをダウングレードしてください。サポートが必要ですか? {contactSupportLink}"
+        "string": "在取消Figma订阅后，团队添加了付费席位。要恢复访问，请重新激活订阅或降级席位。需要帮助吗？{contactSupportLink}"
     },
     "banner.pro_team_no_monthly_sub.over_team_limit_without_admin.seat_rename": {
-        "string": "サブスクリプションのキャンセル後に、{teamName}に新しい有料シートが追加されました。アクセスを復元するには、チームの管理者に、サブスクリプションを再度有効にするか、他の編集者を限定閲覧者にダウングレードするよう依頼してください。"
+        "string": "在取消订阅后，{teamName}添加了新的付费席位。要恢复访问，请联系团队管理员重新激活订阅或将其他编辑者降级为受限查看者。"
     },
     "banner.pro_team_past_due.locked": {
-        "string": "ロック済み"
+        "string": "已锁定"
     },
     "banner.pro_team_past_due.update_payment": {
-        "string": "支払い情報を更新"
+        "string": "更新付款信息"
     },
     "banner.pro_team_past_due.update_payment_source.can_admin": {
-        "string": "お支払いを3回続けて確認できませんでした。{teamName}でファイルの編集を続けるには、お支払い情報を更新してください。"
+        "string": "我们连续三次无法验证您的付款。要继续在{teamName}中编辑文件，请更新付款信息。"
     },
     "banner.pro_team_past_due.update_payment_source.no_admin": {
-        "string": "お支払いを3回続けて確認できませんでした。{teamName}でファイルの編集を続けるには、お支払方法をを更新してください。管理者に連絡して支払い情報を更新してください。"
+        "string": "我们连续三次无法验证您的付款。要继续在{teamName}中编辑文件，请更新付款方式。请联系管理员更新付款信息。"
     },
     "banner.pro_trial_expiry.expiry_description": {
-        "string": "{teamName}はスタータープランに戻りましたが、いつでもアップグレードできます。"
+        "string": "{teamName}已回到Starter计划，但您可以随时升级。"
     },
     "banner.pro_trial_expiry.locked_description": {
-        "string": "チームのファイルは、{lowerUsageLink}スターターの制限内にするか、{upgradeLink}するまで、読み取り専用となります。"
+        "string": "团队文件将变为只读，直到您将其{lowerUsageLink}到Starter限制范围内或{upgradeLink}。"
     },
     "banner.pro_trial_expiry.locked_description_for_viewer_on_team": {
-        "string": "{teamName}のファイルは一時的に閲覧限定です。詳細はチームの管理者にお問い合わせください。"
+        "string": "{teamName}的文件暂时仅供查看。有关详细信息，请联系团队管理员。"
     },
     "banner.pro_trial_expiry.lower_usage": {
-        "string": "使用量を減らして"
+        "string": "减少使用量"
     },
     "banner.pro_trial_expiry.move_this_file_cta": {
-        "string": "このファイルを移動"
+        "string": "移动此文件"
     },
     "banner.pro_trial_expiry.title": {
-        "string": "プロフェッショナルのトライアルが終了しました。"
+        "string": "专业试用已结束。"
     },
     "banner.pro_trial_expiry.upgrade": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "banner.pro_trial_upgrade_cta.upgrade_to_professional": {
-        "string": "プロフェッショナルにアップグレード"
+        "string": "升级到专业版"
     },
     "banner.shared.close_banner": {
-        "string": "バナーを閉じる"
+        "string": "关闭横幅"
     },
     "base_notifications.dismiss": {
-        "string": "無視"
+        "string": "忽略"
     },
     "billing_emails_modal.billing_emails_info.about_billing_emails": {
-        "string": "更新、請求書、その他に関してすべての管理者と請求連絡先にお知らせいたします。"
+        "string": "我们将就更新、发票和其他事宜通知所有管理员和账单联系人。"
     },
     "billing_emails_modal.billing_emails_info.annual_subscription_renews_on_description": {
-        "string": "この年間サブスクリプションは{date}に更新され、以降は毎年同じ日に更新されます。更新の14日前と5日前に、すべての管理者にリマインダーをお送りいたします。"
+        "string": "此年度订阅将在{date}续订，之后每年在同一天续订。我们将在续订前14天和5天向所有管理员发送提醒。"
     },
     "billing_emails_modal.billing_emails_info.annual_subscriptions_and_renewals": {
-        "string": "年間サブスクリプションと更新"
+        "string": "年度订阅和续订"
     },
     "billing_emails_modal.billing_emails_info.close": {
         "string": "了解"
     },
     "billing_emails_modal.billing_emails_info.more": {
-        "string": "詳細情報"
+        "string": "更多信息"
     }
 }

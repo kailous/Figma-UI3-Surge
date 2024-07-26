@@ -1,152 +1,152 @@
 {
     "community.merge_profile_modal.combine_all_profile_resources_info": {
-        "string": "これで両方のアカウントで使用されているすべてのリソース、フォローリスト、いいね、通知が1つのプロフィールに結合されます。"
+        "string": "这将把两个账户使用的所有资源、关注列表、点赞和通知合并到一个资料中。"
     },
     "community.merge_profile_modal.community_avatar_info": {
-        "string": "コミュニティアバターと表示名は、プライマリーとして設定したアカウントによって決定されます。これらは、コミュニティ設定からいつでも変更できます。"
+        "string": "社区头像和显示名称由设置为主账户的账户决定。这些可以随时从社区设置中更改。"
     },
     "community.merge_profile_modal.confirm_your_new_profile_details_next": {
-        "string": "次に新しいプロフィール詳細を確認します"
+        "string": "接下来确认你的新资料详情"
     },
     "community.merge_profile_modal.connect": {
-        "string": "接続"
+        "string": "连接"
     },
     "community.merge_profile_modal.existing_community_profile_merge_info": {
-        "string": "接続しようとしているアカウントには既にコミュニティプロフィールがあります。2つのプロフィールをマージしてアカウントを接続してください。"
+        "string": "你尝试连接的账户已经有社区资料。请合并两个资料来连接账户。"
     },
     "community.merge_profile_modal.handle_selection_info": {
-        "string": "マージするプロフィールで次に進むときに使用するプロフィールハンドルを選択してください。選択しないユーザーハンドルは失われます。"
+        "string": "请选择在合并资料后使用的资料用户名。未选择的用户名将会丢失。"
     },
     "community.merge_profile_modal.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "community.merge_profile_modal.merge_profiles": {
-        "string": "プロフィールをマージ"
+        "string": "合并资料"
     },
     "community.merge_profile_modal.merge_profiles_to_connect_accounts": {
-        "string": "プロフィールをマージしてアカウントを接続"
+        "string": "合并资料以连接账户"
     },
     "community.merge_profile_modal.merging_profiles_cant_be_undone": {
-        "string": "マージ中のプロフィールは元に戻せません。"
+        "string": "合并资料无法撤销。"
     },
     "community.merge_profile_modal.missing_account_try_again": {
-        "string": "希望する内容が表示されない場合は、このポップアップを閉じて、最初にアカウントスイッチャーからアカウントを追加し、その後でもう一度お試しください。"
+        "string": "如果未显示所需内容，请关闭此弹出窗口，从账户切换器添加账户，然后再次尝试。"
     },
     "community.merge_profile_modal.no_accounts_found": {
-        "string": "別のアカウントになっています!このポップアップを閉じて、最初にアカウントスイッチャーからアカウントを追加し、その後でもう一度お試しください。"
+        "string": "未找到其他账户！请关闭此弹出窗口，从账户切换器添加账户，然后再次尝试。"
     },
     "community.merge_profile_modal.not_allowed": {
-        "string": "許可されていません"
+        "string": "不允许"
     },
     "community.merge_profile_modal.pick_the_account_you_want_to_connect": {
-        "string": "接続するアカウントの選択"
+        "string": "选择要连接的账户"
     },
     "community.profile_connections.add_profile_connection_cta": {
-        "string": "プロフィールのコネクションを追加"
+        "string": "添加资料连接"
     },
     "community.profile_connections.info": {
-        "string": "複数のFigmaアカウントを接続し、1つのコミュニティプロフィールを使用して複数のプロフィールを1つにマージします。コンテンツの公開、作成者のフォロー、いいねの保存、通知の受信のためにアカウントを切り替える必要はありません。"
+        "string": "连接多个Figma账户，使用一个社区资料合并多个资料。发布内容、关注创作者、保存点赞、接收通知时无需切换账户。"
     },
     "community.profile_connections.primary_email": {
-        "string": "プライマリーメール"
+        "string": "主要邮箱"
     },
     "community.profile_connections.primary_email_info": {
-        "string": "プライマリーメールはすべてのコミュニティ通知用に使用されます。"
+        "string": "主要邮箱用于所有社区通知。"
     },
     "community.profile_connections.primary_email_info__disable_switching_for_primary_monetized_creator": {
-        "string": "すべてのコミュニティ通知、表示名、アバターに使用されます。プライマリアカウントは、有料コミュニティリソースの指定支払先のため、変更はできません。ユーザーアカウントのメールアドレスは、「アカウント」タブで変更できます。"
+        "string": "用于所有社区通知、显示名称和头像。主要账户用于付费社区资源的指定支付，无法更改。可以在“账户”标签中更改用户账户邮箱地址。"
     },
     "community.profile_connections.profile_connections_title": {
-        "string": "プロフィールのコネクション"
+        "string": "资料连接"
     },
     "community.admin.switch_workspaces_to_edit": {
-        "string": "編集するワークスペースを切り替えます。"
+        "string": "切换工作区进行编辑。"
     },
     "community.admin.you_can_edit_this_entity_type_as_an_admin_of_admin_profile_name": {
-        "string": "この{entityType}を{adminProfileName}の管理者として編集できます。"
+        "string": "你可以作为{adminProfileName}的管理员编辑此{entityType}。"
     },
     "community.allowlist.choose_an_organization": {
-        "string": "組織を選択"
+        "string": "选择一个组织"
     },
     "community.allowlist.select_the_organization_you_would_like": {
-        "string": "このリソースの承認の管理に使用する組織を選択します"
+        "string": "选择要用于管理此资源批准的组织"
     },
     "community.auth_modal.header": {
-        "string": "Figmaに参加して無料のデザインツール、テンプレートなどをご利用ください"
+        "string": "加入Figma，使用免费设计工具、模板等"
     },
     "community.badge.creator_fund": {
-        "string": "クリエーターファンド"
+        "string": "创作者基金"
     },
     "community.badge.extension_security_approved": {
-        "string": "データセキュリティ情報があります"
+        "string": "有数据安全信息"
     },
     "community.badge.extension_security_pending": {
-        "string": "データセキュリティ情報審査中"
+        "string": "数据安全信息待审查"
     },
     "community.badge.extension_security_updated_on": {
-        "string": "データセキュリティ情報更新日: {date, date, medium}"
+        "string": "数据安全信息更新于：{date, date, medium}"
     },
     "community.badge.new": {
-        "string": "新着"
+        "string": "新"
     },
     "community.banner.a_space_for_figma_users_to_share_things_they_create": {
-        "string": "Figmaユーザーが作成内容を共有するスペース。"
+        "string": "Figma用户分享创作内容的空间。"
     },
     "community.banner.browsing_community_as_the_current_profile_name_organization": {
-        "string": "{profileName}組織としてコミュニティを参照する"
+        "string": "作为{profileName}组织浏览社区"
     },
     "community.banner.browsing_community_as_the_current_profile_name_team": {
-        "string": "{profileName}チームとしてコミュニティを参照する"
+        "string": "作为{profileName}团队浏览社区"
     },
     "community.banner.check_out_more_fig_jam_resources_in_the_community": {
-        "string": "コミュニティのその他のFigJamリソースを調査する"
+        "string": "查看社区中的更多FigJam资源"
     },
     "community.banner.community_is_a_space_for_figma_users_to_share_things_they_create": {
-        "string": "コミュニティは、Figmaユーザーが作成内容を共有するスペースです。"
+        "string": "社区是Figma用户分享创作内容的空间。"
     },
     "community.banner.create_your_own_profile": {
-        "string": "自身のプロフィールを作成する"
+        "string": "创建自己的资料"
     },
     "community.banner.get_started_with_a_free_account": {
-        "string": "無料アカウントで開始する"
+        "string": "使用免费账户开始"
     },
     "community.banner.this_is_a_figma_community_file": {
-        "string": "これはFigmaコミュニティファイルです。"
+        "string": "这是一个Figma社区文件。"
     },
     "community.banner.this_is_a_figma_community_plugin": {
-        "string": "これはFigmaコミュニティプラグインです。"
+        "string": "这是一个Figma社区插件。"
     },
     "community.banner.this_is_a_figma_community_profile": {
-        "string": "これはFigmaコミュニティプロフィールです。"
+        "string": "这是一个Figma社区资料。"
     },
     "community.banner.this_is_a_figma_community_widget": {
-        "string": "これはFigmaコミュニティウィジェットです。"
+        "string": "这是一个Figma社区小部件。"
     },
     "community.banner.this_is_the_figma_community": {
-        "string": "これはFigmaコミュニティです。"
+        "string": "这是Figma社区。"
     },
     "community.banner.this_is_your_figma_community_profile": {
-        "string": "これは自分のFigmaコミュニティプロフィールです。"
+        "string": "这是你的Figma社区资料。"
     },
     "community.banner.this_was_made_in_fig_jam_figma_s_new_online_whiteboard": {
-        "string": "これはFigJam (Figmaの新しいオンラインホワイトボード)で作成されました。"
+        "string": "这是用FigJam（Figma的新在线白板）制作的。"
     },
     "community.banner.to_create_your_own_plugin": {
-        "string": "自分のプラグインを作成するには、{link}"
+        "string": "要创建自己的插件，请{link}"
     },
     "community.banner.to_follow_creators_and_like_resources": {
-        "string": "作成者のフォローとリソースにいいねを付けるには、{link}"
+        "string": "要关注创作者并点赞资源，请{link}"
     },
     "community.banner.visit_the_docs": {
-        "string": "ドキュメントを参照する"
+        "string": "查看文档"
     },
     "community.by_publisher": {
-        "string": "公開元: {publisher}"
+        "string": "发布者：{publisher}"
     },
     "community.by_publisher_with_suffix": {
-        "string": "作成者 {publisherName} {publishersSuffix}"
+        "string": "创作者 {publisherName} {publishersSuffix}"
     },
     "community.cards.by": {
-        "string": "作成者"
+        "string": "创作者"
     }
 }

@@ -1,152 +1,152 @@
 {
     "comments.pinning.feedback_giver_callout": {
-        "string": "前または次のピン留めされたコメントに移動します"
+        "string": "移动到上一个或下一个固定的评论"
     },
     "comments.pinning.pin_comment": {
-        "string": "コメントをピン留めします"
+        "string": "固定评论"
     },
     "comments.pinning.pinned_comments_always_show_up_first_great_for_a_project_intro_or_important_info": {
-        "string": "ピン留めされたコメントが常に先頭に表示されます。プロジェクトの概要や重要な情報をピン留めしておくと便利です。"
+        "string": "固定的评论始终显示在最前面。适用于项目介绍或重要信息的固定。"
     },
     "comments.pinning.unpin_comment": {
-        "string": "コメントのピン留めを外します"
+        "string": "取消固定评论"
     },
     "comments_suggestions.pending_user_invite_suggestions.id_love_your_feedback_about": {
-        "string": "フィードバックをお願いします..."
+        "string": "请提供反馈..."
     },
     "comments_suggestions.pending_user_invite_suggestions.insert_id_love_your_feedback_about": {
-        "string": "についてのフィードバックをお願いします"
+        "string": "请提供关于...的反馈"
     },
     "comments_suggestions.pending_user_invite_suggestions.take_a_look_here": {
-        "string": "こちらをご覧ください。"
+        "string": "请看这里。"
     },
     "comments_suggestions.pending_user_invite_suggestions.what_do_you_think": {
-        "string": "感想は?"
+        "string": "你怎么看？"
     },
     "common.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "common.mixed": {
-        "string": "混在"
+        "string": "混合"
     },
     "community.change_profile_handle_modal.change_handle": {
-        "string": "ハンドルを変更"
+        "string": "更改用户名"
     },
     "community.change_profile_handle_modal.change_your_unique_profile_handle": {
-        "string": "一意のプロフィールハンドルを変更"
+        "string": "更改你的唯一用户名"
     },
     "community.change_profile_handle_modal.check_your_email": {
-        "string": "メールを確認してください"
+        "string": "检查你的邮件"
     },
     "community.change_profile_handle_modal.create_a_community_profile_to_publish_publicly_as_your_org_or_team": {
-        "string": "組織またはチームとして一般に公開するためにコミュニティプロフィールを作成する"
+        "string": "创建社区资料以作为你的组织或团队公开发布"
     },
     "community.change_profile_handle_modal.create_profile": {
-        "string": "プロフィールの作成"
+        "string": "创建资料"
     },
     "community.change_profile_handle_modal.new_profile_link": {
-        "string": "新しいコミュニティプロフィールが有効です。プロフィールを表示して、これをカスタマイズします。{url}で誰でも自分を検索できます。"
+        "string": "新的社区资料已生效。查看并自定义你的资料。任何人都可以在{url}上找到你。"
     },
     "community.change_profile_handle_modal.new_verification_email_sent": {
-        "string": "新しい確認メールを送信しました"
+        "string": "新的验证邮件已发送"
     },
     "community.change_profile_handle_modal.no_email_check_spam_or_click_resend_email_below": {
-        "string": "メールが見つからない場合は、迷惑メールをチェックするか、以下の[メールを再送信]をクリックします。"
+        "string": "找不到邮件，请检查垃圾邮件或点击下方的[重新发送邮件]。"
     },
     "community.change_profile_handle_modal.profile_handle_is_available": {
-        "string": "''{profileHandle}''は利用可能です!"
+        "string": "“{profileHandle}”可用！"
     },
     "community.change_profile_handle_modal.profile_handle_requirements": {
-        "string": "最大15文字(アルファベット・数字・_)"
+        "string": "最多15个字符（字母、数字、下划线）"
     },
     "community.change_profile_handle_modal.profile_handle_taken": {
-        "string": "''{profileHandle}''は使用されています。別のものを選択してください。"
+        "string": "“{profileHandle}”已被占用，请选择另一个。"
     },
     "community.change_profile_handle_modal.resend_email": {
-        "string": "メールを再送信"
+        "string": "重新发送邮件"
     },
     "community.change_profile_handle_modal.review_our_community_guidelines_link": {
-        "string": "コミュニティガイドラインを確認する"
+        "string": "查看我们的社区指南"
     },
     "community.change_profile_handle_modal.sent_email": {
-        "string": "{email}にリンクを送信しました。リンクをクリックしてから、ここに戻ってプロフィールハンドルを要求してください!"
+        "string": "已将链接发送到{email}。点击链接后返回此处请求资料用户名！"
     },
     "community.change_profile_handle_modal.to_like_comment_follow_or_publish_please_create_a_community_profile": {
-        "string": "いいね、コメント、フォロー、公開するには、コミュニティプロフィールを作成してください。"
+        "string": "要点赞、评论、关注或发布，请创建社区资料。"
     },
     "community.change_profile_handle_modal.verify_email_prompt": {
-        "string": "Figmaのコミュニティに参加するには、最初にメールを確認する必要があります。"
+        "string": "加入Figma社区前，请先验证邮箱。"
     },
     "community.change_profile_handle_modal.view_profile": {
-        "string": "プロフィールを表示"
+        "string": "查看资料"
     },
     "community.change_profile_handle_modal.welcome_to_figma_community": {
-        "string": "Figmaコミュニティへようこそ!"
+        "string": "欢迎加入Figma社区！"
     },
     "community.community_account_settings.address_details_error": {
-        "string": "住所の詳細をアップロードするときに問題が発生しました。ページの再読み込みをして、もう一度お試しください。"
+        "string": "上传地址详细信息时出现问题。请刷新页面再试一次。"
     },
     "community.community_account_settings.address_details_success": {
-        "string": "住所の詳細を更新しました"
+        "string": "地址详细信息已更新"
     },
     "community.community_account_settings.change_address": {
-        "string": "住所を変更"
+        "string": "更改地址"
     },
     "community.community_account_settings.change_handle": {
-        "string": "ハンドルを変更"
+        "string": "更改用户名"
     },
     "community.community_account_settings.claim_your_handle": {
-        "string": "ハンドルを要求"
+        "string": "请求用户名"
     },
     "community.community_account_settings.create_your_public_profile_title": {
-        "string": "公開プロフィールの作成"
+        "string": "创建公开资料"
     },
     "community.community_account_settings.delete_public_profile": {
-        "string": "公開プロフィールを削除"
+        "string": "删除公开资料"
     },
     "community.community_account_settings.display_name": {
-        "string": "表示名"
+        "string": "显示名称"
     },
     "community.community_account_settings.join_text": {
-        "string": "Figmaコミュニティに参加して、ファイルとプラグインを公開し、コメントし、メンバーをフォローし、メンバーの投稿にいいねを付けましょう。"
+        "string": "加入Figma社区，发布文件和插件，评论，关注成员并点赞他们的帖子。"
     },
     "community.community_account_settings.profile": {
-        "string": "プロフィール"
+        "string": "资料"
     },
     "community.community_account_settings.public_profile": {
-        "string": "公開プロフィール:"
+        "string": "公开资料："
     },
     "community.community_account_settings.unique_handle": {
-        "string": "一意のハンドル"
+        "string": "唯一用户名"
     },
     "community.community_account_settings.vat_gst_id": {
-        "string": "VAT/GST ID: {vatGstId}"
+        "string": "VAT/GST ID：{vatGstId}"
     },
     "community.delete_profile_modal.delete_profile_info": {
-        "string": "プロフィールを削除すると、公開しているファイル、プラグイン、いいね、フォローのデータがFigmaコミュニティから削除され、プロフィールハンドルが放棄されます。このアクションは元に戻せません。"
+        "string": "删除资料后，所有发布的文件、插件、点赞和关注数据将从Figma社区中删除，用户名将被释放。此操作不可撤销。"
     },
     "community.delete_profile_modal.delete_profile_title": {
-        "string": "コミュニティプロフィールを削除"
+        "string": "删除社区资料"
     },
     "community.email_settings.comments_left_on_my_published_resources": {
-        "string": "公開のリソースに残されたコメント"
+        "string": "发布的资源上的评论"
     },
     "community.email_settings.comments_that_mention_me": {
-        "string": "自分をメンションしているコメント"
+        "string": "提及我的评论"
     },
     "community.email_settings.replies_to_my_comments": {
-        "string": "コメントに回答する"
+        "string": "对我的评论的回复"
     },
     "community.email_settings.weekly_summary_of_community_engagement_with_my_profile_and_my_published_resources": {
-        "string": "自分のプロフィールと公開リソースに関するコミュニティ参加の毎週の概要"
+        "string": "我的资料和发布的资源的社区参与每周摘要"
     },
     "community.merge_profile_modal.add_an_account_to_connect": {
-        "string": "アカウントを追加して接続"
+        "string": "添加账户以连接"
     },
     "community.merge_profile_modal.cannot_connect_approved_sellers": {
-        "string": "このアカウントはコミュニティでの販売が承認されているため、接続できません。"
+        "string": "由于此账户已获得社区销售许可，因此无法连接。"
     },
     "community.merge_profile_modal.choose_your_new_profile_handle": {
-        "string": "新しいプロフィールハンドルを選択"
+        "string": "选择新资料用户名"
     }
 }

@@ -1,152 +1,152 @@
 {
     "community.publishing.private_only_people_at_org_entity": {
-        "string": "非公開: {orgName}のユーザーのみがアクセスできます"
+        "string": "非公开：仅{orgName}的用户可访问"
     },
     "community.publishing.profile_handle_cannot_be_empty": {
-        "string": "{errorStringPrefix}は空にできません"
+        "string": "{errorStringPrefix}不能为空"
     },
     "community.publishing.prototype": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "community.publishing.prototype_preview": {
-        "string": "プロトタイププレビュー"
+        "string": "原型预览"
     },
     "community.publishing.public_everyone_in_the_world": {
-        "string": "公開:誰でもアクセスできます"
+        "string": "公开：任何人都可以访问"
     },
     "community.publishing.publish": {
-        "string": "公開"
+        "string": "发布"
     },
     "community.publishing.publish_a_new_version": {
-        "string": "新しいバージョンを公開"
+        "string": "发布新版本"
     },
     "community.publishing.publish_details": {
-        "string": "詳細"
+        "string": "发布详情"
     },
     "community.publishing.publish_file": {
-        "string": "ファイルを公開"
+        "string": "发布文件"
     },
     "community.publishing.publish_first_to_invite": {
-        "string": "更新する他のユーザーを招待する前に、{publishThisResourceLink}してください。"
+        "string": "在邀请其他用户更新前，请{publishThisResourceLink}"
     },
     "community.publishing.publish_new_version": {
-        "string": "新しいバージョンを公開"
+        "string": "发布新版本"
     },
     "community.publishing.publish_plugin": {
-        "string": "プラグインを公開"
+        "string": "发布插件"
     },
     "community.publishing.publish_tab": {
-        "string": "公開"
+        "string": "发布"
     },
     "community.publishing.publish_this_resource": {
-        "string": "このリソースを公開"
+        "string": "发布此资源"
     },
     "community.publishing.publish_to": {
-        "string": "公開先"
+        "string": "发布到"
     },
     "community.publishing.publish_to_the_figma_community": {
-        "string": "{lineBreak} Figmaコミュニティに公開"
+        "string": "{lineBreak} 发布到Figma社区"
     },
     "community.publishing.publish_widget": {
-        "string": "ウィジェットを公開"
+        "string": "发布小部件"
     },
     "community.publishing.publish_your_remix_of": {
-        "string": "リミックスを公開"
+        "string": "发布你的改编版本"
     },
     "community.publishing.publisher_role_can_update": {
-        "string": "更新可能"
+        "string": "可更新"
     },
     "community.publishing.publisher_role_owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "community.publishing.publishing_using_our_payments_api": {
-        "string": "当社のチームがお客様の販売者ステータスを確認しています。販売者として承認されるまで、Payments APIを使用した公開はできません。数日後、もう一度公開してみてください。"
+        "string": "我们的团队正在审核你的销售者状态。未获得销售者批准之前，无法使用Payments API发布。请几天后再试。"
     },
     "community.publishing.release_notes_must_be_at_most_10000_characters_long": {
-        "string": "リリースノートは10000文字以内にする必要があります"
+        "string": "发布说明最多10000个字符"
     },
     "community.publishing.resource_by_author": {
-        "string": "{authorName}による{resourceName}"
+        "string": "{authorName}发布的{resourceName}"
     },
     "community.publishing.resource_id.plugin": {
-        "string": "プラグインID"
+        "string": "插件ID"
     },
     "community.publishing.resource_id.widget": {
-        "string": "ウィジェットID"
+        "string": "小部件ID"
     },
     "community.publishing.resource_info.plugin": {
-        "string": "プラグインの情報"
+        "string": "插件信息"
     },
     "community.publishing.resource_info.widget": {
-        "string": "ウィジェットの情報"
+        "string": "小部件信息"
     },
     "community.publishing.resource_is_now_available_to_members_of_org": {
-        "string": "{resourceName}を{orgName}のメンバーが利用できます"
+        "string": "{resourceName}现已对{orgName}的成员开放"
     },
     "community.publishing.resource_is_now_available_to_the_entire_community": {
-        "string": "{resourceName}をFigmaコミュニティの全員が利用できます"
+        "string": "{resourceName}现已对Figma社区的所有用户开放"
     },
     "community.publishing.resource_will_now_be_reviewed_by_the_figma_team": {
-        "string": "{resourceName}は現在、Figmaチームにより確認中です。5～10営業日後にステータスに関するメールを送信します。このリソースが承認されると、Figmaコミュニティの全ユーザーが利用できるようになります。{seeOurGuidelinesLink}"
+        "string": "{resourceName}正在由Figma团队审核。我们将在5-10个工作日内通过电子邮件发送状态更新。资源通过审核后，将对Figma社区的所有用户开放。{seeOurGuidelinesLink}"
     },
     "community.publishing.resources_published_to_the_public_will_be_reviewed.plugin": {
-        "string": "公開されるプラグインはFigmaチームによって確認されます。承認されると、このプラグインはすべてのFigmaユーザーが利用できるようになります。"
+        "string": "发布到社区的插件将由Figma团队审核。通过审核后，插件将对所有Figma用户开放。"
     },
     "community.publishing.resources_published_to_the_public_will_be_reviewed.widget": {
-        "string": "公開されるウィジェットはFigmaチームによって確認されます。承認されると、このウィジェットはすべてのFigmaユーザーが利用できるようになります。"
+        "string": "发布到社区的小部件将由Figma团队审核。通过审核后，小部件将对所有Figma用户开放。"
     },
     "community.publishing.restore_default_thumbnail": {
-        "string": "デフォルトのサムネイルを復元"
+        "string": "恢复默认缩略图"
     },
     "community.publishing.resubmit_a_new_version": {
-        "string": "新しいバージョンを再送信"
+        "string": "重新提交新版本"
     },
     "community.publishing.resubmit_for_review": {
-        "string": "レビュー用に再送信"
+        "string": "重新提交审核"
     },
     "community.publishing.review_our_community_guidelines": {
-        "string": "{communityGuidelinesLink}を確認する"
+        "string": "查看我们的{communityGuidelinesLink}"
     },
     "community.publishing.save_changes": {
-        "string": "変更を保存"
+        "string": "保存更改"
     },
     "community.publishing.security_banner.approved.description": {
-        "string": "以下の詳細情報がプラグインのコミュニティページに掲載されています。回答を更新すると、審査のために再送信されます。"
+        "string": "以下详细信息已在插件的社区页面上发布。更新回答将重新提交审核。"
     },
     "community.publishing.security_banner.approved.title": {
-        "string": "プラグインはFigmaのセキュリティのベストプラクティスに準拠しています"
+        "string": "插件符合Figma的安全最佳实践"
     },
     "community.publishing.security_banner.pending.description": {
-        "string": "メールで次のステップを確認してください。回答を更新すると、審査のために再送信されます。"
+        "string": "请查看电子邮件中的后续步骤。更新回答将重新提交审核。"
     },
     "community.publishing.security_banner.pending.title": {
-        "string": "Figmaがプラグインのデータセキュリティの詳細情報を審査しています。"
+        "string": "Figma正在审核插件的数据安全详细信息。"
     },
     "community.publishing.security_banner.rejected.description": {
-        "string": "データセキュリティの詳細情報をFigmaが審査した結果、プラグインはベストプラクティスに準拠していないと判断されました。"
+        "string": "Figma已审核数据安全详细信息，发现插件不符合最佳实践。"
     },
     "community.publishing.security_banner.rejected.description.check_email": {
-        "string": "メールで次のステップを確認してください。その間、詳細情報はプラグインのコミュニティページに追加されません。"
+        "string": "请查看电子邮件中的后续步骤。期间，详细信息将不会添加到插件的社区页面。"
     },
     "community.publishing.security_banner.rejected.title": {
-        "string": "データセキュリティの更新"
+        "string": "数据安全更新"
     },
     "community.publishing.security_form.approved.opt_out_desc.plugin": {
-        "string": "このプラグインの新しいバージョンを公開すると、プラグインのFigmaコミュニティページからこれらの詳細情報が削除されます。"
+        "string": "发布此插件的新版本将从插件的Figma社区页面中删除这些详细信息。"
     },
     "community.publishing.security_form.approved.opt_out_desc.widget": {
-        "string": "このウィジェットの新しいバージョンを公開すると、ウィジェットのFigmaコミュニティページからこれらの詳細情報が削除されます。"
+        "string": "发布此小部件的新版本将从小部件的Figma社区页面中删除这些详细信息。"
     },
     "community.publishing.security_form.discard_changes": {
-        "string": "変更を破棄"
+        "string": "放弃更改"
     },
     "community.publishing.security_form.header": {
-        "string": "Figmaコミュニティのデータセキュリティプラクティスの向上にご協力ください"
+        "string": "帮助提升Figma社区的数据安全实践"
     },
     "community.publishing.security_form.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "community.publishing.security_form.learn_more_arrow": {
-        "string": "詳細情報 →"
+        "string": "了解更多 →"
     }
 }

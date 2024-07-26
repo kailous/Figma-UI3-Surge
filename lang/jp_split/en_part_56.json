@@ -1,152 +1,152 @@
 {
     "community.eula.agree": {
-        "string": "同意する"
+        "string": "同意"
     },
     "community.eula.disagree": {
-        "string": "同意しない"
+        "string": "不同意"
     },
     "community.eula.license_agreement": {
-        "string": "Appleデザインリソースの使用許諾契約"
+        "string": "Apple设计资源使用许可协议"
     },
     "community.eula.license_agreement_preamble": {
-        "string": "Appleから提供されるアセットを利用してデザインする前に、この使用許諾契約を確認する必要があります。"
+        "string": "在使用Apple提供的资源进行设计之前，请阅读此使用许可协议。"
     },
     "community.eula.license_agreement_v2": {
-        "string": "Appleデザインリソースを使用するには、契約条項を読んで同意してください"
+        "string": "使用Apple设计资源，请阅读并同意条款。"
     },
     "community.explore_resources": {
-        "string": "リソースを探す"
+        "string": "探索资源"
     },
     "community.follow.follow": {
-        "string": "フォロー"
+        "string": "关注"
     },
     "community.follow.follow_profile_name_to_keep_up_with_what_they_publish": {
-        "string": "{profileName}をフォローして公開内容を追跡する"
+        "string": "关注{profileName}以跟进他们发布的内容"
     },
     "community.follow.follow_this_profile_to_keep_up_with_what_they_publish": {
-        "string": "このプロフィールをフォローして公開内容を追跡する"
+        "string": "关注此个人资料以跟进他们发布的内容"
     },
     "community.follow.followers": {
-        "string": "フォロワー"
+        "string": "关注者"
     },
     "community.follow.following": {
-        "string": "フォロー中"
+        "string": "已关注"
     },
     "community.follow.no_followers_yet": {
-        "string": "フォロワーはまだいません"
+        "string": "还没有关注者"
     },
     "community.follow.not_following_anyone_yet": {
-        "string": "まだだれもフォローしていません"
+        "string": "尚未关注任何人"
     },
     "community.follow.org_and_team_profiles_cannot_follow_other_profiles": {
-        "string": "組織とチームのプロフィールは他のプロフィールをフォローできません"
+        "string": "组织和团队个人资料不能关注其他个人资料"
     },
     "community.follow.unfollow": {
-        "string": "フォロー取り消し"
+        "string": "取消关注"
     },
     "community.footer.community_guidelines": {
-        "string": "コミュニティガイドライン"
+        "string": "社区指南"
     },
     "community.footer.copyright": {
         "string": "© 2024 Figma, Inc."
     },
     "community.footer.mobile_apps": {
-        "string": "モバイルアプリ"
+        "string": "移动应用"
     },
     "community.footer.most_used": {
-        "string": "最も使用"
+        "string": "最常使用"
     },
     "community.footer.popular_searches": {
-        "string": "人気の検索"
+        "string": "热门搜索"
     },
     "community.footer.presentations": {
-        "string": "プレゼンテーションテンプレート"
+        "string": "演示文稿模板"
     },
     "community.footer.resume": {
-        "string": "履歴書テンプレート"
+        "string": "简历模板"
     },
     "community.footer.site_map": {
-        "string": "サイトマップ"
+        "string": "网站地图"
     },
     "community.footer.standup_template": {
-        "string": "スタンドアップテンプレート"
+        "string": "站会模板"
     },
     "community.footer.terms_of_service": {
-        "string": "サービス利用規約"
+        "string": "服务条款"
     },
     "community.footer.top_categories": {
-        "string": "トップカテゴリー"
+        "string": "热门类别"
     },
     "community.footer.top_collections": {
-        "string": "トップコレクション"
+        "string": "热门收藏"
     },
     "community.footer.ui_kits": {
-        "string": "UIキット"
+        "string": "UI工具包"
     },
     "community.general.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "community.general.tagline": {
-        "string": "タグライン"
+        "string": "标语"
     },
     "community.homepage.categories_section.header": {
-        "string": "人気のカテゴリー"
+        "string": "热门类别"
     },
     "community.homepage.categories_section.sub_header": {
-        "string": "コミュニティリソースを使ってデザインを改善するいくつかの方法を見てみましょう。"
+        "string": "看看如何利用社区资源改善设计。"
     },
     "community.homepage.figjam_section.browse_all": {
-        "string": "すべてのFigJamアセットを見る"
+        "string": "查看所有FigJam资源"
     },
     "community.homepage.figjam_section.header": {
-        "string": "FigJamアセット"
+        "string": "FigJam资源"
     },
     "community.homepage.figjam_section.sub_header": {
-        "string": "FigJamボードは、プランニング、ブレインストーミング、チームミーティングの開催に役立ちます。"
+        "string": "FigJam白板有助于规划、头脑风暴和团队会议。"
     },
     "community.homepage.figma_section.browse_all": {
-        "string": "すべてのデザインリソースを見る"
+        "string": "查看所有设计资源"
     },
     "community.homepage.figma_section.header": {
-        "string": "デザインリソース"
+        "string": "设计资源"
     },
     "community.homepage.figma_section.sub_header": {
-        "string": "モバイルおよびウェブ、UIライブラリ用などのテンプレート。"
+        "string": "用于移动和网页、UI库等的模板。"
     },
     "community.homepage.header": {
-        "string": "コミュニティ内で作られた{librariesLink}、{pluginsLink}、{iconSetsLink}などを探す"
+        "string": "在社区中寻找{librariesLink}、{pluginsLink}、{iconSetsLink}等"
     },
     "community.homepage.header_icon_sets": {
-        "string": "アイコンセット"
+        "string": "图标集"
     },
     "community.homepage.header_libraries": {
-        "string": "ライブラリ"
+        "string": "库"
     },
     "community.homepage.header_plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "community.homepage.mobile_header": {
-        "string": "コミュニティ内で作られたリソースとプラグインを探しましょう"
+        "string": "探索社区中的资源和插件"
     },
     "community.homepage.mobile_subheader": {
-        "string": "デザイナーによって作られたテンプレート、デザインツール、および役立つリソース。"
+        "string": "由设计师创建的模板、设计工具和有用的资源。"
     },
     "community.homepage.plugins_section.browse_all": {
-        "string": "すべてのプラグインを見る"
+        "string": "查看所有插件"
     },
     "community.homepage.plugins_section.sub_header": {
-        "string": "プロセスを加速し自動化するためのツール。"
+        "string": "加速和自动化流程的工具。"
     },
     "community.homepage.slides_promo_banner": {
-        "string": "Figma Slidesのご紹介: デザイナーとそのチームメイトのために作られた初めてのプレゼンテーションツール"
+        "string": "介绍Figma Slides：为设计师及其团队打造的首款演示工具"
     },
     "community.homepage.slides_section.browse_all": {
-        "string": "すべてのプレゼンテーションを見る"
+        "string": "查看所有演示文稿"
     },
     "community.homepage.slides_section.header": {
-        "string": "素晴らしいプレゼンテーションを作成"
+        "string": "创建精彩的演示文稿"
     },
     "community.homepage.slides_section.sub_header": {
-        "string": "デッキで自分のアイデアをすばやくデザインします。初心者でも熟練者でも簡単に使用できます。"
+        "string": "在演示文稿中快速设计你的想法。无论是初学者还是熟练者都能轻松使用。"
     }
 }

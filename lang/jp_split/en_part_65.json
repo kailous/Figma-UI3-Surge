@@ -1,152 +1,152 @@
 {
     "community.try.pick_workspace.this_widget_isnt_allowed_by_org": {
-        "string": "このウィジェットは{orgName}では許可されていません。希望する場合は、以下の外部チームを選択して試用を継続することができます。"
+        "string": "此小部件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     },
     "community.try.pick_workspace.title": {
-        "string": "どこで試しますか?"
+        "string": "选择试用位置"
     },
     "community.try.pick_workspace.widget_isnt_allowed_by_org": {
-        "string": "このウィジェットは{orgName}で許可されていません。希望する場合は、以下の別のチームを選択して試用できます。"
+        "string": "此小部件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     },
     "community.try.plugin_name_with_community": {
-        "string": "{pluginName} (コミュニティ)"
+        "string": "{pluginName}（社区）"
     },
     "community.try.plugin_requests_disabled_by_your_org": {
-        "string": "{orgName}はプラグインのリクエストを許可していません"
+        "string": "{orgName}不允许请求插件"
     },
     "community.try.presets_disabled_by_admins": {
-        "string": "UIキットは管理者によって無効にされています"
+        "string": "UI工具包已被管理员禁用"
     },
     "community.try.save_file": {
-        "string": "ファイルを保存"
+        "string": "保存文件"
     },
     "community.try.slides_disabled_by_admins": {
-        "string": "Figma Slidesは管理者によって無効にされています"
+        "string": "Figma Slides已被管理员禁用"
     },
     "community.try.temporary_file_has_unsaved_changes_description": {
-        "string": "この一時ファイルに未保存の変更があります。作業内容を保護するには、今すぐ保存してください。"
+        "string": "此临时文件有未保存的更改。为了保护你的工作，请立即保存。"
     },
     "community.try.unavailable": {
-        "string": "使用できません"
+        "string": "不可用"
     },
     "community.try.used_by_n_people": {
-        "string": "{num, plural, other {{num}人が使用}}"
+        "string": "{num, plural, other {{num}人使用}}"
     },
     "community.try.widget_requests_disabled_by_your_org": {
-        "string": "{orgName}はウィジェットのリクエストを許可していません"
+        "string": "{orgName}不允许请求小部件"
     },
     "community.try.you_have_unsaved_changes": {
-        "string": "未保存の変更があります"
+        "string": "你有未保存的更改"
     },
     "community.undo": {
-        "string": "元に戻す"
+        "string": "撤销"
     },
     "community.universal_posting_modal.desktop_callout.plugins": {
-        "string": "プラグインを表示するために、デスクトップアプリを使用します。"
+        "string": "使用桌面应用程序查看插件"
     },
     "community.universal_posting_modal.desktop_callout.widgets": {
-        "string": "ウィジェットを表示するために、デスクトップアプリを使用します。"
+        "string": "使用桌面应用程序查看小部件"
     },
     "community.universal_posting_modal.desktop_get": {
-        "string": "デスクトップアプリを取得"
+        "string": "获取桌面应用程序"
     },
     "community.universal_posting_modal.desktop_open": {
-        "string": "デスクトップアプリを開く"
+        "string": "打开桌面应用程序"
     },
     "community.universal_posting_modal.file_info.available": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイルが利用可能です。}}"
+        "string": "{numFiles, plural, other {{numFiles}个文件可用}}"
     },
     "community.universal_posting_modal.footer.choose_resource": {
-        "string": "リソースを選択してコミュニティに公開します。プロトタイプは、ファイル編集者からのみ公開できます。"
+        "string": "选择要发布到社区的资源。只有文件的编辑者才能发布原型。"
     },
     "community.universal_posting_modal.footer.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "community.universal_posting_modal.plugin_info.available": {
-        "string": "{numPlugins, plural, other {{numPlugins}プラグインは利用可能です。}}"
+        "string": "{numPlugins, plural, other {{numPlugins}个插件可用}}"
     },
     "community.universal_posting_modal.plugin_info.unavailable": {
-        "string": "プラグインは使用できません。"
+        "string": "插件不可用"
     },
     "community.universal_posting_modal.recent_editable_files_search.no_files_matching": {
-        "string": "{searchQuery}に一致するファイルはありません"
+        "string": "没有与{searchQuery}匹配的文件"
     },
     "community.universal_posting_modal.resource_empty.files_subtitle": {
-        "string": "作成するファイルがここに表示され、数回クリックするだけでコミュニティに公開できます。"
+        "string": "你创建的文件会显示在这里，几次点击即可发布到社区。"
     },
     "community.universal_posting_modal.resource_empty.files_title": {
-        "string": "まだファイルがありません"
+        "string": "尚无文件"
     },
     "community.universal_posting_modal.resource_empty.plugins_subtitle": {
-        "string": "作成するプラグインがここに表示され、数回クリックするだけでコミュニティに公開できます。"
+        "string": "你创建的插件会显示在这里，几次点击即可发布到社区。"
     },
     "community.universal_posting_modal.resource_empty.plugins_title": {
-        "string": "まだプラグインがありません"
+        "string": "尚无插件"
     },
     "community.universal_posting_modal.resource_empty.widgets_subtitle": {
-        "string": "作成するウィジェットがここに表示され、数回クリックするだけでコミュニティに公開できます。"
+        "string": "你创建的小部件会显示在这里，几次点击即可发布到社区。"
     },
     "community.universal_posting_modal.resource_empty.widgets_title": {
-        "string": "まだウィジェットがありません"
+        "string": "尚无小部件"
     },
     "community.universal_posting_modal.search_bar.placeholder": {
-        "string": "公開するファイルを検索"
+        "string": "搜索要发布的文件"
     },
     "community.universal_posting_modal.widget_info.available": {
-        "string": "{numWidgets, plural, other {{numWidgets}個のウィジェットが利用可能です。}}"
+        "string": "{numWidgets, plural, other {{numWidgets}个小部件可用}}"
     },
     "community.universal_posting_modal.widget_info.unavailable": {
-        "string": "ウィジェットは利用できません。"
+        "string": "小部件不可用"
     },
     "community.use_slide_template": {
-        "string": "テンプレートを使用"
+        "string": "使用模板"
     },
     "community.use_slide_template.disabled_tooltip": {
-        "string": "Figma Slidesは組織で無効になっています"
+        "string": "Figma Slides在你的组织中已被禁用"
     },
     "community.using.figjam_board": {
-        "string": "FigJamボード"
+        "string": "FigJam白板"
     },
     "community.using.figma_file": {
-        "string": "Figmaファイル"
+        "string": "Figma文件"
     },
     "community.using.new_file": {
-        "string": "新しいファイル"
+        "string": "新文件"
     },
     "community.using.open_in": {
-        "string": "場所を指定して開く..."
+        "string": "在以下位置打开..."
     },
     "community.using.open_in_no_ellipses": {
-        "string": "次で開く"
+        "string": "在以下位置打开"
     },
     "community.using.pick_workspace.open_outside_of_org": {
-        "string": "{orgName}の外で開きますか?"
+        "string": "在{orgName}外打开？"
     },
     "community.using.pick_workspace.title": {
-        "string": "どこで開きますか?"
+        "string": "选择打开位置"
     },
     "community.using.playground_file": {
-        "string": "プレイグラウンドファイル"
+        "string": "Playground文件"
     },
     "community.view": {
-        "string": "表示"
+        "string": "查看"
     },
     "community.view_bar.all": {
-        "string": "すべて"
+        "string": "全部"
     },
     "community.view_bar.all_creators": {
-        "string": "すべての作成者"
+        "string": "所有创建者"
     },
     "community.view_bar.all_resources": {
-        "string": "すべてのリソース"
+        "string": "所有资源"
     },
     "community.view_bar.browse": {
-        "string": "参照"
+        "string": "浏览"
     },
     "community.view_bar.copied": {
-        "string": "コピー済み"
+        "string": "已复制"
     },
     "community.view_bar.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     }
 }

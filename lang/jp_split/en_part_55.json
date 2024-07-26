@@ -1,152 +1,152 @@
 {
     "community.detail_view.plugin_open_devmode": {
-        "string": "開発モードで開く"
+        "string": "在开发模式中打开"
     },
     "community.detail_view.prototype": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "community.detail_view.ratings": {
-        "string": "{totalRatings, plural, other {{totalRatings}件の評価}}"
+        "string": "{totalRatings, plural, other {{totalRatings}条评价}}"
     },
     "community.detail_view.read_more": {
-        "string": "さらに読む"
+        "string": "阅读更多"
     },
     "community.detail_view.recent_files": {
-        "string": "最近のファイル"
+        "string": "最近文件"
     },
     "community.detail_view.remove_myself_as_creator": {
-        "string": "作成者としての自分を削除する"
+        "string": "将自己移除为创建者"
     },
     "community.detail_view.report_resource": {
-        "string": "リソースを報告する"
+        "string": "报告资源"
     },
     "community.detail_view.resource_outside_of_figma": {
-        "string": "このリソースは、Figmaの外で決済する必要があります。"
+        "string": "此资源需要在Figma外结算。"
     },
     "community.detail_view.restricted_network_access": {
-        "string": "ネットワークアクセス制限あり"
+        "string": "受限的网络访问"
     },
     "community.detail_view.restricted_plugin_network_access": {
-        "string": "このプラグインは、次のドメインにのみアクセスできます。"
+        "string": "此插件仅能访问以下域名。"
     },
     "community.detail_view.restricted_widget_network_access": {
-        "string": "このウィジェットは、次のドメインにのみアクセスできます。"
+        "string": "此小部件仅能访问以下域名。"
     },
     "community.detail_view.see_all": {
-        "string": "すべて表示({ratingCount})"
+        "string": "查看全部({ratingCount})"
     },
     "community.detail_view.share": {
-        "string": "共有"
+        "string": "分享"
     },
     "community.detail_view.show_less": {
-        "string": "簡易表示"
+        "string": "显示较少"
     },
     "community.detail_view.slide_template": {
         "string": "Figma Slides"
     },
     "community.detail_view.star": {
-        "string": "{starCount}つ星"
+        "string": "{starCount}星"
     },
     "community.detail_view.support_contact": {
-        "string": "サポート: {supportContact}"
+        "string": "支持: {supportContact}"
     },
     "community.detail_view.tags": {
-        "string": "タグ"
+        "string": "标签"
     },
     "community.detail_view.third_party_badge.figma_partner": {
-        "string": "Figmaパートナー"
+        "string": "Figma合作伙伴"
     },
     "community.detail_view.third_party_badge.figma_partner_tooltip": {
-        "string": "個別のログインが必要です"
+        "string": "需要单独登录"
     },
     "community.detail_view.third_party_badge.off_platform": {
-        "string": "サードパーティ決済"
+        "string": "第三方结算"
     },
     "community.detail_view.third_party_badge.off_platform_purchase_tooltip": {
-        "string": "このリソースは、ユーザーにFigmaの外部で購入してもらう必要があります。"
+        "string": "此资源需要用户在Figma外部购买。"
     },
     "community.detail_view.to_calculate_ratings": {
-        "string": "評価の計算では、確認済みカスタマーレビューをすべて考慮に入れます。確認できないレビューは、リソースの平均評価の計算に入れません。"
+        "string": "评价计算会考虑所有已验证的客户评论。无法验证的评论不会纳入资源的平均评分计算。"
     },
     "community.detail_view.try_it_out": {
-        "string": "使ってみる"
+        "string": "试用"
     },
     "community.detail_view.ui_kit": {
-        "string": "UIキット"
+        "string": "UI套件"
     },
     "community.detail_view.universal": {
-        "string": "すべての製品とモード向け"
+        "string": "适用于所有产品和模式"
     },
     "community.detail_view.unknown_network_access": {
-        "string": "不明なネットワークアクセス"
+        "string": "未知的网络访问"
     },
     "community.detail_view.unrestricted_network_access": {
-        "string": "ネットワークアクセス制限なし"
+        "string": "无限制的网络访问"
     },
     "community.detail_view.unrestricted_plugin_network_access": {
-        "string": "このドメインは、どのドメインにもアクセスできます。"
+        "string": "此插件可以访问任何域名。"
     },
     "community.detail_view.unrestricted_widget_network_access": {
-        "string": "このウィジェットは、どのドメインにもアクセスできます。"
+        "string": "此小部件可以访问任何域名。"
     },
     "community.detail_view.unspecified_plugin_network_access": {
-        "string": "この作成者は、このプラグインのネットワークアクセス方法を指定していません。"
+        "string": "创建者未指定此插件的网络访问方式。"
     },
     "community.detail_view.unspecified_widget_network_access": {
-        "string": "この作成者は、このウィジェットのネットワークアクセス方法を指定していません。"
+        "string": "创建者未指定此小部件的网络访问方式。"
     },
     "community.detail_view.want_to_sell_resources": {
-        "string": "コミュニティにあるこちらのようなリソースを販売しますか?"
+        "string": "想在社区中出售这样的资源吗？"
     },
     "community.detail_view.widget": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "community.detail_view.you_have_been_added_as_a_creator_of_this_resource": {
-        "string": "このリソースの作成者として追加されました。"
+        "string": "你已被添加为此资源的创建者。"
     },
     "community.detail_view.you_have_been_added_as_a_publisher_of_this_resource": {
-        "string": "このリソースの公開者として追加されました。"
+        "string": "你已被添加为此资源的发布者。"
     },
     "community.duplicate.duplicate": {
-        "string": "複製"
+        "string": "复制"
     },
     "community.duplicate.open": {
-        "string": "開く"
+        "string": "打开"
     },
     "community.duplicate.open_in_figjam": {
-        "string": "FigJamで開く"
+        "string": "在FigJam中打开"
     },
     "community.duplicate.open_in_figma": {
-        "string": "Figmaで開く"
+        "string": "在Figma中打开"
     },
     "community.duplicate.to_duplicate_switch_to_your_personal_profile": {
-        "string": "複製するには、自分のパーソナルプロフィールに切り替えます"
+        "string": "要复制，请切换到个人资料"
     },
     "community.duplicate_modal.continue_to_file": {
-        "string": "ファイルに進む"
+        "string": "继续到文件"
     },
     "community.duplicate_modal.youre_all_set": {
-        "string": "設定が完了しました!"
+        "string": "一切就绪！"
     },
     "community.duplicate_modal.youve_verified_your_email_at": {
-        "string": "{userEmail}でメールを確認しました。"
+        "string": "已在{userEmail}验证了你的邮箱。"
     },
     "community.embed.preview_title": {
-        "string": "プレビュー"
+        "string": "预览"
     },
     "community.embed.preview_title_long": {
-        "string": "コミュニティリソースのプレビュー"
+        "string": "社区资源预览"
     },
     "community.error.an_error_has_occurred_please_refresh_the_page_and_try_again": {
-        "string": "エラーが発生しました。ページを更新してもう一度お試しください。"
+        "string": "发生错误。请刷新页面并重试。"
     },
     "community.error.could_not_complete_search": {
-        "string": "検索を完了できませんでした。{error}"
+        "string": "无法完成搜索。{error}"
     },
     "community.error.profile_not_found": {
-        "string": "プロフィールが見つかりません"
+        "string": "未找到资料"
     },
     "community.error.search_request_failed": {
-        "string": "検索に失敗しました"
+        "string": "搜索请求失败"
     }
 }

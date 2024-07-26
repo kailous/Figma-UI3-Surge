@@ -1,152 +1,152 @@
 {
     "collaboration.branching_node_treatments.value.text_truncation.disabled": {
-        "string": "無効"
+        "string": "禁用"
     },
     "collaboration.branching_node_treatments.value.text_truncation.ending": {
-        "string": "有効"
+        "string": "启用"
     },
     "collaboration.branching_node_treatments.value.true": {
-        "string": "True"
+        "string": "是"
     },
     "collaboration.branching_node_treatments.value.type_details_edited": {
-        "string": "タイプの詳細を編集済み"
+        "string": "类型详细信息已编辑"
     },
     "collaboration.branching_node_treatments.value.video": {
-        "string": "動画"
+        "string": "视频"
     },
     "collaboration.branching_node_treatments.value.widget_metadata_edited": {
-        "string": "ウィジェットのメタデータを編集済み"
+        "string": "小部件元数据已编辑"
     },
     "collaboration.branching_reviews.add_context_optional": {
-        "string": "コンテキストの追加 (オプション) ..."
+        "string": "添加上下文（可选）..."
     },
     "collaboration.branching_reviews.approve": {
-        "string": "承認"
+        "string": "批准"
     },
     "collaboration.branching_reviews.finish_your_review": {
-        "string": "レビューを終了する"
+        "string": "完成审查"
     },
     "collaboration.branching_reviews.give_reviewers_more_context_for_your_changes": {
-        "string": "レビュー担当者に変更のコンテキストを提供します。"
+        "string": "为您的更改提供更多的上下文给审查者。"
     },
     "collaboration.branching_reviews.give_reviewers_more_context_for_your_latest_changes": {
-        "string": "レビュー担当者に、最新の更新のレビューを依頼します"
+        "string": "为您的最新更改提供更多的上下文给审查者。"
     },
     "collaboration.branching_reviews.leave_a_comment": {
-        "string": "コメントを残す (オプション)"
+        "string": "留下评论（可选）"
     },
     "collaboration.branching_reviews.leave_a_comment_for_owner": {
-        "string": "{ownerHandle}にコメントを残す (オプション)"
+        "string": "给{ownerHandle}留下评论（可选）"
     },
     "collaboration.branching_reviews.leave_a_comment_for_owner_and_other_reviewers": {
-        "string": "{ownerHandle}および他のレビュー担当者にコメントを残す (オプション)"
+        "string": "给{ownerHandle}和其他审查者留下评论（可选）"
     },
     "collaboration.branching_reviews.request_review": {
-        "string": "レビューをリクエスト"
+        "string": "请求审查"
     },
     "collaboration.branching_reviews.send_to_reviewers": {
-        "string": "{numReviewers, plural, other {{numReviewers}人のレビュー担当者に送信}}"
+        "string": "发送给{numReviewers}位审查者"
     },
     "collaboration.branching_reviews.submit": {
-        "string": "送信"
+        "string": "提交"
     },
     "collaboration.branching_reviews.suggest_changes": {
-        "string": "変更を提案"
+        "string": "建议更改"
     },
     "collaboration.branching_to_source.add": {
-        "string": "追加"
+        "string": "添加"
     },
     "collaboration.branching_to_source.add_a_comment": {
-        "string": "コメントを追加"
+        "string": "添加评论"
     },
     "collaboration.branching_to_source.add_comment": {
-        "string": "コメントの追加"
+        "string": "添加评论"
     },
     "collaboration.branching_to_source.add_context": {
-        "string": "レビュー担当者向けのコメントを追加"
+        "string": "为审查者添加评论"
     },
     "collaboration.branching_to_source.add_people_to_approve_or_provide_feedback_on_your_changes_they_ll_get_notified_when_you_add_them": {
-        "string": "変更を承認するかフィードバックを提供するためのユーザーを追加します。追加するとこれらのユーザーに通知されます。"
+        "string": "添加人员以批准或提供对您的更改的反馈。添加后他们将收到通知。"
     },
     "collaboration.branching_to_source.add_title": {
-        "string": "タイトルを追加"
+        "string": "添加标题"
     },
     "collaboration.branching_to_source.add_your_review": {
-        "string": "レビューを追加"
+        "string": "添加您的审查"
     },
     "collaboration.branching_to_source.affected_items": {
-        "string": "影響を受けるアイテム"
+        "string": "受影响的项目"
     },
     "collaboration.branching_to_source.all_variants_were_removed": {
-        "string": "すべてのバリアントが削除されました"
+        "string": "所有变体已删除"
     },
     "collaboration.branching_to_source.an_error_occurred_fetching_your_contacts": {
-        "string": "連絡先の取得中にエラーが発生しました"
+        "string": "获取联系人时发生错误"
     },
     "collaboration.branching_to_source.branch_merged": {
-        "string": "ブランチをマージしました"
+        "string": "分支已合并"
     },
     "collaboration.branching_to_source.branch_was_archived": {
-        "string": "ブランチ{branchFileName}が{relativeTimestamp}にアーカイブされました"
+        "string": "分支{branchFileName}已于{relativeTimestamp}存档"
     },
     "collaboration.branching_to_source.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "collaboration.branching_to_source.change": {
-        "string": "{numChanges, plural, other {{numChanges}個の変更}}"
+        "string": "{numChanges}个更改"
     },
     "collaboration.branching_to_source.clear": {
-        "string": "クリア"
+        "string": "清除"
     },
     "collaboration.branching_to_source.confirm_cancel_review_request": {
-        "string": "レビューリクエストがキャンセルされ、レビューがドラフトに変換されます。ブランチ{branchName}は影響を受けません。"
+        "string": "审查请求将被取消，审查将转换为草稿。分支{branchName}不会受到影响。"
     },
     "collaboration.branching_to_source.conflicts_must_be_resolved_to_merge_this_branch": {
-        "string": "このブランチをマージするには、{sourceFileName}との競合を解決する必要があります"
+        "string": "需要解决与{sourceFileName}的冲突才能合并此分支"
     },
     "collaboration.branching_to_source.convert_to_draft": {
-        "string": "ドラフトに変換する"
+        "string": "转换为草稿"
     },
     "collaboration.branching_to_source.convert_to_draft_title": {
-        "string": "ドラフトに変換する"
+        "string": "转换为草稿"
     },
     "collaboration.branching_to_source.edit_comment": {
-        "string": "コメントの編集"
+        "string": "编辑评论"
     },
     "collaboration.branching_to_source.edit_description": {
-        "string": "説明の編集"
+        "string": "编辑描述"
     },
     "collaboration.branching_to_source.group_m_of_n": {
         "string": "{groupIndex}/{numGroups}"
     },
     "collaboration.branching_to_source.instances_affected": {
-        "string": "{chunkCount, plural, other {このブランチの{chunkCount}個のインスタンス}}"
+        "string": "此分支的{chunkCount}个实例"
     },
     "collaboration.branching_to_source.merge_branch": {
-        "string": "ブランチをマージ"
+        "string": "合并分支"
     },
     "collaboration.branching_to_source.merging_branch_name_changes": {
-        "string": "{branchName}個の変更をマージ中"
+        "string": "正在合并分支{branchName}的更改"
     },
     "collaboration.branching_to_source.modified_variants": {
-        "string": "{variantCount, plural, other {{variantCount}個のバリアントが変更されました}}"
+        "string": "已修改的{variantCount}个变体"
     },
     "collaboration.branching_to_source.no_changes_to_merge": {
-        "string": "マージする変更がありません"
+        "string": "无更改可合并"
     },
     "collaboration.branching_to_source.no_results_matching_query": {
-        "string": "\"{query}\"と一致する結果がありません"
+        "string": "无与\"{query}\"匹配的结果"
     },
     "collaboration.branching_to_source.no_reviewers_add_no_suggestions.seat_rename": {
-        "string": "{fileName}での編集権限がないため、自分でマージすることはできません。編集権限を持つユーザーをこのファイルに追加してください。"
+        "string": "由于您没有{fileName}的编辑权限，无法自行合并。请添加具有编辑权限的用户。"
     },
     "collaboration.branching_to_source.no_reviewers_add_suggestions.seat_rename": {
-        "string": "{fileName}での編集権限がないため、自分でマージすることはできません。編集権限のある次のいずれかのユーザーを追加してください。"
+        "string": "由于您没有{fileName}的编辑权限，无法自行合并。请添加以下具有编辑权限的用户之一。"
     },
     "collaboration.branching_to_source.no_reviewers_added": {
-        "string": "レビュー担当者が追加されていません"
+        "string": "未添加审查者"
     },
     "collaboration.branching_to_source.only_editors_of_file_can_merge_this_branch": {
-        "string": "{sourceFileName}の編集者だけがこのブランチをマージできます"
+        "string": "只有{sourceFileName}的编辑者可以合并此分支"
     }
 }

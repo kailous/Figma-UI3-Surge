@@ -1,152 +1,152 @@
 {
     "community.resource.delisting_this_resource_will_prevent_people_from_discovering_or_purchasing_this_resource": {
-        "string": "このリソースをリストから除外すると、ユーザーがコニュニティでこのリソースを検索または購入できなくなります。すでに購入済みのユーザーは、請求サイクルが終了するまで引き続きアクセスできます。"
+        "string": "取消列出此资源将使用户无法在社区中发现或购买此资源。已购买的用户可以在账单周期结束前继续访问。"
     },
     "community.resource.edit_this_page": {
-        "string": "このページを編集する"
+        "string": "编辑此页面"
     },
     "community.resource.free_trial_days": {
-        "string": "{days}日間の無料体験"
+        "string": "{days}天免费试用"
     },
     "community.resource.if_you_have_questions_reach_out_to_creator": {
-        "string": "不明な点がある場合は、作成者に問い合わせてください。"
+        "string": "如果有疑问，请联系创建者。"
     },
     "community.resource.includes_free_trial_days": {
-        "string": "{days}日間の無料体験を含みます"
+        "string": "包含{days}天免费试用"
     },
     "community.resource.manage_resource": {
-        "string": "リソースを管理"
+        "string": "管理资源"
     },
     "community.resource.more_than_2_creators": {
         "string": "{creator1}{spaceChar}{spaceChar}{others}"
     },
     "community.resource.multiple_creators": {
-        "string": "複数のクリエイター"
+        "string": "多个创建者"
     },
     "community.resource.next_we_recommend_adding_more_images": {
-        "string": "さらに、ファイルのプレビュー画像を追加することをお勧めします。"
+        "string": "接下来，建议添加更多的文件预览图片。"
     },
     "community.resource.next_we_recommend_adding_more_images_and_videos": {
-        "string": "さらに、{resourceType}のプレビュー画像や動画を追加することをお勧めします。"
+        "string": "接下来，建议添加更多的{resourceType}预览图片和视频。"
     },
     "community.resource.publish": {
-        "string": "公開"
+        "string": "发布"
     },
     "community.resource.unpublish": {
-        "string": "公開を取り消す"
+        "string": "取消发布"
     },
     "community.resource.unpublished_banner.only_you_can_see_this_page.hub_file": {
-        "string": "このページは他のユーザーには表示されません。このリソースを再公開するには、オリジナルのファイルを使って新しいバージョンを公開してください。"
+        "string": "此页面对其他用户不可见。要重新发布此资源，请使用原始文件发布新版本。"
     },
     "community.resource.unpublished_banner.only_you_can_see_this_page.plugin": {
-        "string": "このページは他のユーザーには表示されません。このリソースを再公開するには、同じIDのプラグインを使って新しいバージョンを公開してください。"
+        "string": "此页面对其他用户不可见。要重新发布此资源，请使用相同ID的插件发布新版本。"
     },
     "community.resource.unpublished_banner.only_you_can_see_this_page.widget": {
-        "string": "このページは他のユーザーには表示されません。このリソースを再公開するには、同じIDのウィジェットを使って新しいバージョンを公開してください。"
+        "string": "此页面对其他用户不可见。要重新发布此资源，请使用相同ID的小部件发布新版本。"
     },
     "community.resource.unpublished_banner.your_resource_is_unpublished": {
-        "string": "リソースは非公開です。"
+        "string": "资源未发布。"
     },
     "community.resource.your_resource_is_live": {
-        "string": "リソースが公開されています"
+        "string": "资源已上线"
     },
     "community.resource_page.about": {
-        "string": "概要"
+        "string": "关于"
     },
     "community.resource_page.comments": {
-        "string": "コメント {numComments}"
+        "string": "评论 {numComments}"
     },
     "community.resource_page.media_carousel.restart": {
-        "string": "最初から"
+        "string": "重新开始"
     },
     "community.resource_tiles.by_author": {
-        "string": "{author}が作成"
+        "string": "由{author}创建"
     },
     "community.saves.file_removed_from_your_profile": {
-        "string": "コミュニティプロフィールからファイルを削除しました"
+        "string": "文件已从你的社区资料中移除"
     },
     "community.saves.file_saved_for_your_profile": {
-        "string": "コミュニティプロフィールにファイルを保存しました"
+        "string": "文件已保存到你的社区资料中"
     },
     "community.saves.no_saves_subtitle": {
-        "string": "便利なリソースを保存しておき、後で見つけやすくしておきましょう。"
+        "string": "保存有用的资源，以便日后轻松找到它们。"
     },
     "community.saves.no_saves_title": {
-        "string": "保存されているリソースはありません(...今のところ)"
+        "string": "没有保存的资源（...暂时）"
     },
     "community.saves.plugin_removed_for_everyone_at": {
-        "string": "{orgName}の全員からプラグインを削除しました"
+        "string": "插件已从{orgName}的所有用户中移除"
     },
     "community.saves.plugin_removed_from_your_account": {
-        "string": "Figmaアカウントからプラグインを削除しました"
+        "string": "插件已从你的Figma账户中移除"
     },
     "community.saves.plugin_removed_from_your_account_and_profile": {
-        "string": "Figmaアカウントとコミュニティプロフィールからプラグインを削除しました"
+        "string": "插件已从你的Figma账户和社区资料中移除"
     },
     "community.saves.plugin_saved": {
-        "string": "プラグインを保存しました"
+        "string": "插件已保存"
     },
     "community.saves.plugin_saved_for_everyone_at": {
-        "string": "{orgName}の全員にプラグインを保存しました"
+        "string": "插件已保存到{orgName}的所有用户"
     },
     "community.saves.plugin_saved_for_your_account": {
-        "string": "Figmaアカウントにプラグインを保存しました"
+        "string": "插件已保存到你的Figma账户"
     },
     "community.saves.plugin_saved_for_your_account_and_profile": {
-        "string": "Figmaアカウントとコミュニティプロフィールにプラグインを保存しました"
+        "string": "插件已保存到你的Figma账户和社区资料"
     },
     "community.saves.remove_from_saves": {
-        "string": "保存場所から削除"
+        "string": "从保存中移除"
     },
     "community.saves.remove_this_resource_for_everyone_at": {
-        "string": "{orgName}の全員からこのリソースを削除します"
+        "string": "从{orgName}的所有用户中移除此资源"
     },
     "community.saves.save": {
         "string": "保存"
     },
     "community.saves.save_for_everyone_at": {
-        "string": "{orgName}の全員のために保存します"
+        "string": "保存给{orgName}的所有用户"
     },
     "community.saves.save_for_later": {
-        "string": "保存して後で確認"
+        "string": "保存以备后用"
     },
     "community.saves.save_this_resource_for_everyone_at": {
-        "string": "このリソースを{orgName}の全員に保存"
+        "string": "将此资源保存给{orgName}的所有用户"
     },
     "community.saves.save_this_resource_for_yourself": {
-        "string": "このリソースを自分用に保存します"
+        "string": "将此资源保存给自己"
     },
     "community.saves.widget_removed_for_everyone_at": {
-        "string": "{orgName}の全員からウィジェットを削除しました"
+        "string": "小部件已从{orgName}的所有用户中移除"
     },
     "community.saves.widget_removed_from_your_account": {
-        "string": "Figmaアカウントからウィジェットを削除しました"
+        "string": "小部件已从你的Figma账户中移除"
     },
     "community.saves.widget_removed_from_your_account_and_profile": {
-        "string": "Figmaアカウントとコミュニティプロフィールからウィジェットを削除しました"
+        "string": "小部件已从你的Figma账户和社区资料中移除"
     },
     "community.saves.widget_saved": {
-        "string": "ウィジェットを保存しました"
+        "string": "小部件已保存"
     },
     "community.saves.widget_saved_for_everyone_at": {
-        "string": "{orgName}の全員にウィジェットを保存しました"
+        "string": "小部件已保存到{orgName}的所有用户"
     },
     "community.saves.widget_saved_for_your_account": {
-        "string": "Figmaアカウントにウィジェットを保存しました"
+        "string": "小部件已保存到你的Figma账户"
     },
     "community.saves.widget_saved_for_your_account_and_profile": {
-        "string": "Figmaアカウントとコミュニティプロフィールにウィジェットを保存しました"
+        "string": "小部件已保存到你的Figma账户和社区资料"
     },
     "community.search.empty_state_creators": {
-        "string": "{query}に一致する作成者がいません"
+        "string": "没有找到与{query}匹配的创建者"
     },
     "community.search.empty_state_hub_files": {
-        "string": "{query}に一致するファイルがありません"
+        "string": "没有找到与{query}匹配的文件"
     },
     "community.search.empty_state_hub_files_free": {
-        "string": "{query}に一致する無料ファイルがありません"
+        "string": "没有找到与{query}匹配的免费文件"
     },
     "community.search.empty_state_hub_files_paid": {
-        "string": "{query}に一致する有料ファイルがありません"
+        "string": "没有找到与{query}匹配的付费文件"
     }
 }

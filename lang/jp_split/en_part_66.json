@@ -1,12 +1,12 @@
 {
     "community.view_bar.creators": {
-        "string": "作成者"
+        "string": "创作者"
     },
     "community.view_bar.curated_by": {
         "string": "管理者"
     },
     "community.view_bar.dev_mode": {
-        "string": "Figma: 開発モード"
+        "string": "Figma：开发模式"
     },
     "community.view_bar.fig_jam": {
         "string": "FigJam"
@@ -15,138 +15,138 @@
         "string": "Figma"
     },
     "community.view_bar.figma_partners_only": {
-        "string": "Figmaパートナーのみ"
+        "string": "仅限Figma合作伙伴"
     },
     "community.view_bar.figma_prototype": {
-        "string": "Figmaプロトタイプ"
+        "string": "Figma原型"
     },
     "community.view_bar.files": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "community.view_bar.files_and_templates": {
-        "string": "ファイル + テンプレート"
+        "string": "文件和模板"
     },
     "community.view_bar.following": {
-        "string": "フォロー中"
+        "string": "关注中"
     },
     "community.view_bar.home": {
-        "string": "ホーム"
+        "string": "主页"
     },
     "community.view_bar.plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "community.view_bar.slides": {
-        "string": "Figma Slides"
+        "string": "Figma幻灯片"
     },
     "community.view_bar.updated_date": {
-        "string": "更新日 {date}"
+        "string": "更新日期 {date}"
     },
     "community.view_bar.widgets": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "community_detail_view.creators_note": {
-        "string": "作成者のメモ:"
+        "string": "创作者备注："
     },
     "community_detail_view.learn_more_network_access": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "community.actions.an_error_occured_while_trying_to_purchase_please_contact_support": {
-        "string": "このリソースを購入しようとしてエラーが発生しました。support@figma.comまでお問い合わせください。"
+        "string": "尝试购买此资源时发生错误。请联系support@figma.com获取支持。"
     },
     "community.actions.an_error_occurred": {
-        "string": "エラーが発生しました"
+        "string": "发生错误"
     },
     "community.actions.an_error_occurred_accepting_invite_please_refresh_and_try_again": {
-        "string": "招待の受諾中にエラーが発生しました。更新してもう一度お試しください。"
+        "string": "接受邀请时发生错误。请刷新并重试。"
     },
     "community.actions.an_error_occurred_while_removing_publisher_please_refresh_and_try_again": {
-        "string": "公開者の削除中にエラーが発生しました。更新してもう一度お試しください。"
+        "string": "删除发布者时发生错误。请刷新并重试。"
     },
     "community.actions.an_error_occurred_while_searching_for_plugins": {
-        "string": "プラグインの検索中にエラーが発生しました"
+        "string": "搜索插件时发生错误"
     },
     "community.actions.an_error_occurred_while_searching_for_widgets": {
-        "string": "ウィジェットの検索中にエラーが発生しました"
+        "string": "搜索小部件时发生错误"
     },
     "community.actions.an_error_occurred_while_trying_to_fetch_the_org_widgets_list": {
-        "string": "組織のウィジェットリストの取得中にエラーが発生しました。"
+        "string": "尝试获取组织的小部件列表时发生错误。"
     },
     "community.actions.an_error_occurred_while_updating_please_refresh_and_try_again": {
-        "string": "更新中にエラーが発生しました。更新してもう一度お試しください。"
+        "string": "更新时发生错误。请刷新并重试。"
     },
     "community.actions.an_error_occurred_with_error": {
-        "string": "エラーが発生しました: {error}"
+        "string": "发生错误：{error}"
     },
     "community.actions.attempting_to_publish_an_invalid_prototype_as_a_prototype": {
-        "string": "無効なプロトタイプをプロトタイプとして公開しようとしています"
+        "string": "尝试将无效原型作为原型发布"
     },
     "community.actions.attempting_to_set_both_author_org_id_and_author_team_id_while_publishing": {
-        "string": "公開中にauthorOrgIdとauthorTeamIdの両方を設定しようとしています"
+        "string": "发布时尝试同时设置authorOrgId和authorTeamId"
     },
     "community.actions.could_not_connect_to_the_server": {
-        "string": "サーバーに接続できませんでした。"
+        "string": "无法连接到服务器。"
     },
     "community.actions.could_not_publish_hub_file": {
-        "string": "ファイルを公開できませんでした: {error}"
+        "string": "无法发布文件：{error}"
     },
     "community.actions.could_not_publish_plugin_error": {
-        "string": "プラグインを公開できませんでした: {error}"
+        "string": "无法发布插件：{error}"
     },
     "community.actions.could_not_publish_widget_error": {
-        "string": "ウィジェットを公開できませんでした: {error}"
+        "string": "无法发布小部件：{error}"
     },
     "community.actions.couldnt_restrict_profile_error": {
-        "string": "プロフィールを制限できませんでした: {error}"
+        "string": "无法限制个人资料：{error}"
     },
     "community.actions.couldnt_unrestrict_profile_error": {
-        "string": "プロフィールを制限解除できませんでした: {error}"
+        "string": "无法解除限制个人资料：{error}"
     },
     "community.actions.email_was_removed_from_your_profile": {
-        "string": "{email}がプロフィールから削除されました"
+        "string": "{email}已从你的个人资料中删除"
     },
     "community.actions.error_connecting_to_server_to_upload_file_images": {
-        "string": "ファイルの画像をアップロードするためのサーバー接続でエラーが発生しました。"
+        "string": "连接服务器上传文件图像时发生错误。"
     },
     "community.actions.error_fetching_email_notifications_information_error": {
-        "string": "メール通知情報の取得中にエラーが発生しました: {error}"
+        "string": "获取电子邮件通知信息时发生错误：{error}"
     },
     "community.actions.error_fetching_profile_information": {
-        "string": "プロフィール情報の取得中にエラーが発生しました。"
+        "string": "获取个人资料信息时发生错误。"
     },
     "community.actions.error_finalizing_plugin_error": {
-        "string": "プラグインの最終処理でエラーが発生しました:{error}"
+        "string": "最终处理插件时发生错误：{error}"
     },
     "community.actions.error_finalizing_widget_error": {
-        "string": "ウィジェットの最終処理でエラーが発生しました: {error}"
+        "string": "最终处理小部件时发生错误：{error}"
     },
     "community.actions.error_subscribing_to_email_error": {
-        "string": "メールのサブスクライブ中にエラーが発生しました: {error}"
+        "string": "订阅电子邮件时发生错误：{error}"
     },
     "community.actions.error_unsubscribing_from_email_error": {
-        "string": "メールのサブスクライブ解除中にエラーが発生しました: {error}"
+        "string": "取消订阅电子邮件时发生错误：{error}"
     },
     "community.actions.error_uploading_carousel_image_error": {
-        "string": "カルーセル画像のアップロードエラー: {error}"
+        "string": "上传轮播图像时发生错误：{error}"
     },
     "community.actions.error_uploading_images_e": {
-        "string": "画像のアップロードエラー"
+        "string": "上传图像时发生错误"
     },
     "community.actions.error_uploading_images_publish_update_from_editor": {
-        "string": "画像のアップロード中にエラーが発生しました。エディターを使ってアップデートを公開してみてください。"
+        "string": "上传图像时发生错误。请尝试使用编辑器发布更新。"
     },
     "community.actions.error_uploading_plugin_artwork_image_error": {
-        "string": "プラグインアートワーク画像のアップロードエラー: {error}"
+        "string": "上传插件艺术作品图像时发生错误：{error}"
     },
     "community.actions.error_uploading_plugin_code_error": {
-        "string": "プラグインコードのアップロードエラー: {error}"
+        "string": "上传插件代码时发生错误：{error}"
     },
     "community.actions.error_uploading_plugin_icon_error": {
-        "string": "プラグインアイコンのアップロードエラー: {error}"
+        "string": "上传插件图标时发生错误：{error}"
     },
     "community.actions.error_uploading_plugin_video_error": {
-        "string": "プラグイン動画のアップロードエラー: {error}"
+        "string": "上传插件视频时发生错误：{error}"
     },
     "community.actions.error_uploading_plugin_video_thumbnail_error": {
-        "string": "プラグイン動画のサムネイルのアップロードエラー: {error}"
+        "string": "上传插件视频缩略图时发生错误：{error}"
     }
 }

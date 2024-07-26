@@ -1,117 +1,117 @@
 {
     "collaboration.feedback.compare_changes_modal.section_created": {
-        "string": "セクション作成済み"
+        "string": "已创建部分"
     },
     "collaboration.feedback.compare_changes_modal.select_a_layer": {
-        "string": "変更内容を表示するには、編集したレイヤーを選択します"
+        "string": "选择一个已编辑的图层以查看更改"
     },
     "collaboration.feedback.compare_changes_overflow_editors": {
-        "string": "+{numAddlEditors}人以上"
+        "string": "超过{numAddlEditors}位"
     },
     "collaboration.feedback.comparing": {
-        "string": "比較中"
+        "string": "比较中"
     },
     "collaboration.feedback.comparing_changes_toast": {
-        "string": "{fromVersionLabel}との比較"
+        "string": "正在与{fromVersionLabel}比较"
     },
     "collaboration.feedback.context_menu.compare_version": {
-        "string": "現在のバージョンと比較"
+        "string": "与当前版本比较"
     },
     "collaboration.feedback.context_menu.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "collaboration.feedback.context_menu.delete_version_info": {
-        "string": "バージョン情報を削除"
+        "string": "删除版本信息"
     },
     "collaboration.feedback.context_menu.duplicate": {
-        "string": "複製"
+        "string": "复制"
     },
     "collaboration.feedback.context_menu.edit_version_info": {
-        "string": "バージョン情報を編集"
+        "string": "编辑版本信息"
     },
     "collaboration.feedback.context_menu.name_this_version": {
-        "string": "このバージョンの名前を指定"
+        "string": "命名此版本"
     },
     "collaboration.feedback.context_menu.restore_this_version": {
-        "string": "このバージョンを復元"
+        "string": "恢复此版本"
     },
     "collaboration.feedback.current_file": {
-        "string": "現在"
+        "string": "当前"
     },
     "collaboration.feedback.current_version": {
-        "string": "現在のバージョン"
+        "string": "当前版本"
     },
     "collaboration.feedback.date": {
         "string": "{time, date, medium}"
     },
     "collaboration.feedback.done_version_history": {
-        "string": "完了"
+        "string": "完成"
     },
     "collaboration.feedback.filter_tooltip": {
-        "string": "フィルター"
+        "string": "筛选器"
     },
     "collaboration.feedback.get_version_text_linked_version_linked_version": {
-        "string": "{versionText} (リンクされたバージョン)"
+        "string": "{versionText}（链接的版本）"
     },
     "collaboration.feedback.incremental_update_modal.confirm": {
-        "string": "確認"
+        "string": "确认"
     },
     "collaboration.feedback.incremental_update_modal.latest_version": {
-        "string": "最新のバージョン"
+        "string": "最新版本"
     },
     "collaboration.feedback.incremental_update_modal.title": {
-        "string": "メインのバージョンから更新"
+        "string": "从主版本更新"
     },
     "collaboration.feedback.main_branch_name": {
-        "string": "メイン"
+        "string": "主"
     },
     "collaboration.feedback.merged": {
-        "string": "{link}がマージされました"
+        "string": "已合并{link}"
     },
     "collaboration.feedback.more_options": {
-        "string": "その他のオプション"
+        "string": "更多选项"
     },
     "collaboration.feedback.new_branch_created": {
-        "string": "新しいブランチが作成されました"
+        "string": "已创建新分支"
     },
     "collaboration.feedback.next_change": {
-        "string": "次の変更"
+        "string": "下一更改"
     },
     "collaboration.feedback.no_visible_changes": {
-        "string": "これらのバージョン間に目に見える変更はありません"
+        "string": "这些版本之间没有可见的更改"
     },
     "collaboration.feedback.num_editors_number_editor_count_more": {
-        "string": "+{numEditors}名の編集者"
+        "string": "超过{numEditors}位编辑者"
     },
     "collaboration.feedback.num_editors_of_changes": {
-        "string": "{numEditors, plural, other {{numEditors}名を編集しました。}}"
+        "string": "{numEditors, plural, other {编辑了{numEditors}位}}"
     },
     "collaboration.feedback.only_yours_filter": {
-        "string": "自分のもののみ"
+        "string": "仅显示自己的"
     },
     "collaboration.feedback.press_shortcut_to_add_to_version_history_while_editing": {
-        "string": "編集中にバージョン履歴を追加するには、{shortcut}を押します。"
+        "string": "在编辑时按{shortcut}以添加到版本历史记录"
     },
     "collaboration.feedback.previous_change": {
-        "string": "以前の変更"
+        "string": "上一更改"
     },
     "collaboration.feedback.save_modal.add_to_version_history": {
-        "string": "バージョン履歴に追加"
+        "string": "添加到版本历史记录"
     },
     "collaboration.feedback.save_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "collaboration.feedback.save_modal.description_placeholder": {
-        "string": "変更の内容を説明"
+        "string": "描述更改的内容"
     },
     "collaboration.feedback.save_modal.edit_merge_details": {
-        "string": "マージの詳細を編集"
+        "string": "编辑合并详情"
     },
     "collaboration.feedback.save_modal.edit_version_information": {
-        "string": "バージョン情報を編集"
+        "string": "编辑版本信息"
     },
     "collaboration.feedback.save_modal.merge_name_placeholder": {
-        "string": "名前"
+        "string": "名称"
     },
     "collaboration.feedback.save_modal.save": {
         "string": "保存"
@@ -123,16 +123,16 @@
         "string": "⌘ + ⌥ + S"
     },
     "collaboration.feedback.show_autosave_versions": {
-        "string": "自動保存バージョンを表示"
+        "string": "显示自动保存版本"
     },
     "collaboration.feedback.show_less": {
-        "string": "簡易表示"
+        "string": "简易显示"
     },
     "collaboration.feedback.show_more": {
-        "string": "詳細表示"
+        "string": "显示更多"
     },
     "collaboration.feedback.show_older": {
-        "string": "古いものを表示"
+        "string": "显示更早的"
     },
     "collaboration.feedback.time_date_minutes": {
         "string": "{time, date, medium}{time, date, ::hmma}"
@@ -144,9 +144,9 @@
         "string": "{time, date, ::hmma}"
     },
     "collaboration.feedback.updated_from_main": {
-        "string": "メインから更新"
+        "string": "从主版本更新"
     },
     "collaboration.feedback.version_history": {
-        "string": "バージョン履歴"
+        "string": "版本历史记录"
     }
 }

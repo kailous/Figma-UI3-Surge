@@ -1,152 +1,152 @@
 {
     "community.search.empty_state_public_plugins": {
-        "string": "{query}に一致するプラグインがありません"
+        "string": "没有与{query}匹配的插件"
     },
     "community.search.empty_state_public_plugins_free": {
-        "string": "{query}に一致する無料プラグインがありません"
+        "string": "没有与{query}匹配的免费插件"
     },
     "community.search.empty_state_public_plugins_paid": {
-        "string": "{query}に一致する有料プラグインがありません"
+        "string": "没有与{query}匹配的付费插件"
     },
     "community.search.empty_state_public_widgets": {
-        "string": "{query}に一致するウィジェットがありません"
+        "string": "没有与{query}匹配的小部件"
     },
     "community.search.empty_state_public_widgets_free": {
-        "string": "{query}に一致する無料ウィジェットがありません"
+        "string": "没有与{query}匹配的免费小部件"
     },
     "community.search.empty_state_public_widgets_paid": {
-        "string": "{query}に一致する有料ウィジェットがありません"
+        "string": "没有与{query}匹配的付费小部件"
     },
     "community.search.no_resources_matching": {
-        "string": "{query}に一致するリソースがありません"
+        "string": "没有与{query}匹配的资源"
     },
     "community.search.no_resources_matching_free": {
-        "string": "{query}に一致する無料リソースがありません"
+        "string": "没有与{query}匹配的免费资源"
     },
     "community.search.no_resources_matching_paid": {
-        "string": "{query}に一致する有料リソースがありません"
+        "string": "没有与{query}匹配的付费资源"
     },
     "community.search.placeholder": {
-        "string": "検索"
+        "string": "搜索"
     },
     "community.search.placeholder.search_for_a_resource": {
-        "string": "「ポートフォリオ」など、検索するリソースを入力"
+        "string": "输入要搜索的资源，如“作品集”"
     },
     "community.search.search_community": {
-        "string": "コミュニティ内で検索"
+        "string": "搜索社区"
     },
     "community.search.search_everything_in_community": {
-        "string": "コミュニティ内のすべてを検索"
+        "string": "搜索社区中的所有内容"
     },
     "community.search.show_all_creators": {
-        "string": "作成者をすべて表示"
+        "string": "显示所有创作者"
     },
     "community.search.show_all_search_results": {
-        "string": "検索結果をすべて表示"
+        "string": "显示所有搜索结果"
     },
     "community.shelves.all_collections": {
-        "string": "すべてのコレクション"
+        "string": "所有收藏"
     },
     "community.shelves.show_more": {
-        "string": "さらに表示"
+        "string": "显示更多"
     },
     "community.signed_out_modal.log_in": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "community.signed_out_modal.sign_up": {
-        "string": "サインアップ"
+        "string": "注册"
     },
     "community.star_ratings.i_dont_like_it": {
-        "string": "好きではない"
+        "string": "不喜欢"
     },
     "community.star_ratings.i_like_it": {
-        "string": "好き"
+        "string": "喜欢"
     },
     "community.star_ratings.i_love_it": {
-        "string": "とても好き"
+        "string": "非常喜欢"
     },
     "community.star_ratings.i_really_dont_like_it": {
-        "string": "まったく好きではない"
+        "string": "非常不喜欢"
     },
     "community.star_ratings.its_okay": {
-        "string": "まあまあ"
+        "string": "还行"
     },
     "community.star_ratings.you_can_rate_this_resource_after_purchasing_and_trying": {
-        "string": "購入して試した後、このリソースを評価できます。"
+        "string": "购买并尝试后，你可以对此资源进行评分。"
     },
     "community.star_ratings.you_can_rate_this_resource_after_you_try_it_out": {
-        "string": "試用後、このリソースを評価できます。"
+        "string": "试用后，你可以对此资源进行评分。"
     },
     "community.star_ratings.you_need_a_community_profile_to_leave_a_rating": {
-        "string": "評価を残すには、コミュニティプロフィールが必要です。"
+        "string": "留下评分需要社区个人资料。"
     },
     "community.tooltip.duplicated_from_community": {
-        "string": "コミュニティから複製済み"
+        "string": "从社区复制"
     },
     "community.tooltip.is_currently_in_review": {
-        "string": "このコミュニティファイルは現在確認中です"
+        "string": "此社区文件正在审核中"
     },
     "community.tooltip.this_community_file_is_currently_blocked": {
-        "string": "このコミュニティファイルは現在ブロックされています"
+        "string": "此社区文件已被阻止"
     },
     "community.tooltip.this_community_file_is_currently_unverified": {
-        "string": "このコミュニティファイルは現在レビュー中です"
+        "string": "此社区文件未验证"
     },
     "community.tooltip.view_original_in_community": {
-        "string": "コミュニティのオリジナルを表示"
+        "string": "查看社区中的原件"
     },
     "community.try.discard_file": {
-        "string": "ファイルを破棄"
+        "string": "丢弃文件"
     },
     "community.try.externally_restricted": {
-        "string": "外部スペースにファイルを新規作成することは組織で許可されていません。"
+        "string": "组织不允许在外部空间创建新文件。"
     },
     "community.try.figjam_disabled_by_admins": {
-        "string": "FigJamは管理者によって無効にされています"
+        "string": "FigJam已被管理员禁用"
     },
     "community.try.figjam_disabled_by_your_org": {
-        "string": "{orgName}はFigJamを無効にしました"
+        "string": "{orgName}已禁用FigJam"
     },
     "community.try.not_allowed": {
-        "string": "許可されていません"
+        "string": "不允许"
     },
     "community.try.org_private_plugin_request_disabled": {
-        "string": "組織のプライベートプラグインのリクエストは許可されていません"
+        "string": "组织不允许请求私有插件"
     },
     "community.try.org_private_widget_request_disabled": {
-        "string": "組織のプライベートウィジェットのリクエストは許可されていません"
+        "string": "组织不允许请求私有小部件"
     },
     "community.try.people_like_this": {
-        "string": "{numPeople, plural, other {{numPeopleStr}人が「いいね」を付けています}}"
+        "string": "{numPeople}人喜欢"
     },
     "community.try.people_use_this": {
-        "string": "{numPeople, plural, other {使用者: {numPeopleStr}人}}"
+        "string": "{numPeople}人使用"
     },
     "community.try.pick_workspace.approval_pending": {
-        "string": "承認待ちです"
+        "string": "待批准"
     },
     "community.try.pick_workspace.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "community.try.pick_workspace.desc": {
-        "string": "コミュニティファイルがドラフトに追加されます。"
+        "string": "社区文件将添加到草稿中。"
     },
     "community.try.pick_workspace.org_doesnt_use_figjam": {
-        "string": "{orgName}ではFigJamを使用していません。希望する場合は、以下の外部チームを選択して試用を継続することができます。"
+        "string": "{orgName}不使用FigJam。你可以选择以下外部团队继续试用。"
     },
     "community.try.pick_workspace.org_doesnt_use_slides": {
-        "string": "{orgName}ではFigma Slidesを使用していません。よろしければ、以下の別のチームを選択して試用することができます。"
+        "string": "{orgName}不使用Figma Slides。你可以选择以下外部团队继续试用。"
     },
     "community.try.pick_workspace.plugin_isnt_allowed_by_org": {
-        "string": "このプラグインは{orgName}で許可されていません。希望する場合は、以下の別のチームを選択して試用できます。"
+        "string": "此插件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     },
     "community.try.pick_workspace.request_approval": {
-        "string": "承認を申請"
+        "string": "请求批准"
     },
     "community.try.pick_workspace.subtitle": {
-        "string": "新規ファイルはドラフトに追加されます。"
+        "string": "新文件将添加到草稿中。"
     },
     "community.try.pick_workspace.this_plugin_isnt_allowed_by_org": {
-        "string": "このプラグインは{orgName}では許可されていません。希望する場合は、以下の外部チームを選択して試用を継続することができます。"
+        "string": "此插件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     }
 }

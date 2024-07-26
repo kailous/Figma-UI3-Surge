@@ -1,152 +1,152 @@
 {
     "community.actions.error_uploading_widget_artwork_image_error": {
-        "string": "ウィジェットアートワーク画像のアップロードエラー: {error}"
+        "string": "上传小部件艺术作品图像时发生错误：{error}"
     },
     "community.actions.error_uploading_widget_code_error": {
-        "string": "ウィジェットコードのアップロードエラー: {error}"
+        "string": "上传小部件代码时发生错误：{error}"
     },
     "community.actions.error_uploading_widget_icon_error": {
-        "string": "ウィジェットアイコンのアップロードエラー: {error}"
+        "string": "上传小部件图标时发生错误：{error}"
     },
     "community.actions.error_uploading_widget_snapshot_image_error": {
-        "string": "ウィジェットスナップショット画像のアップロードエラー: {error}"
+        "string": "上传小部件快照图像时发生错误：{error}"
     },
     "community.actions.failed_to_create_a_new_file_from_hub_file_name": {
-        "string": "{hubFileName}からの新しいファイルの作成に失敗しました"
+        "string": "从{hubFileName}创建新文件失败"
     },
     "community.actions.failed_to_duplicate_file_error": {
-        "string": "ファイルの複製に失敗しました: {error}"
+        "string": "复制文件失败：{error}"
     },
     "community.actions.failed_to_merge_msg": {
-        "string": "マージに失敗しました: {msg}"
+        "string": "合并失败：{msg}"
     },
     "community.actions.failed_to_resolve_comment": {
-        "string": "コメントの解決に失敗しました"
+        "string": "解决评论失败"
     },
     "community.actions.failed_to_unresolve_comment": {
-        "string": "コメントの解消に失敗しました"
+        "string": "取消解决评论失败"
     },
     "community.actions.file_too_large": {
-        "string": "ファイルが大きすぎます"
+        "string": "文件太大"
     },
     "community.actions.followed_profile_name": {
-        "string": "{profileName}をフォローしました"
+        "string": "已关注{profileName}"
     },
     "community.actions.log_in_or_create_an_account_to_duplicate_this_file": {
-        "string": "ログインまたはアカウントを作成してこのファイルを複製"
+        "string": "登录或创建帐户以复制此文件"
     },
     "community.actions.manifest_name_has_been_imported": {
-        "string": "{manifestName}はインポートされています"
+        "string": "{manifestName}已导入"
     },
     "community.actions.new_profile_connection_added": {
-        "string": "新しいプロフィールのコネクションを追加しました!"
+        "string": "已添加新个人资料连接！"
     },
     "community.actions.pick_extension_manifest_file": {
-        "string": "拡張機能のマニフェストファイルを選ぶ"
+        "string": "选择扩展名清单文件"
     },
     "community.actions.plugin_has_been_imported": {
-        "string": "プラグインがインポートされました"
+        "string": "插件已导入"
     },
     "community.actions.plugin_id_is_invalid": {
-        "string": "プラグインIDが無効です"
+        "string": "插件ID无效"
     },
     "community.actions.profile_deleted": {
-        "string": "プロフィールが削除されました。"
+        "string": "个人资料已删除。"
     },
     "community.actions.profile_not_found": {
-        "string": "プロフィールが見つかりません"
+        "string": "未找到个人资料"
     },
     "community.actions.resource_is_invalid": {
-        "string": "リソースが無効です"
+        "string": "资源无效"
     },
     "community.actions.retry": {
-        "string": "再試行"
+        "string": "重试"
     },
     "community.actions.the_published_resource_i_ds_do_not_match": {
-        "string": "公開されているリソースIDが一致しません"
+        "string": "发布的资源ID不匹配"
     },
     "community.actions.try_again_or_contact_support_figma_com": {
-        "string": "もう一度試すか、support@figma.comに連絡してください"
+        "string": "请重试或联系support@figma.com"
     },
     "community.actions.unable_to_delete_profile_please_try_again_later": {
-        "string": "プロフィールを削除できません。後でもう一度お試しください。"
+        "string": "无法删除个人资料。请稍后再试。"
     },
     "community.actions.unable_to_duplicate": {
-        "string": "複製できません: {error}"
+        "string": "无法复制：{error}"
     },
     "community.actions.unable_to_fetch_comments": {
-        "string": "コメントを取得できません"
+        "string": "无法获取评论"
     },
     "community.actions.unable_to_follow_this_profile_profile_name": {
-        "string": "このプロフィールはフォローできません: {profileName}"
+        "string": "无法关注此个人资料：{profileName}"
     },
     "community.actions.unable_to_like_this_file_error": {
-        "string": "このファイルに「いいね」を付けることができません: {error}"
+        "string": "无法点赞此文件：{error}"
     },
     "community.actions.unable_to_like_this_plugin_error": {
-        "string": "このプラグインに「いいね」を付けることができません: {error}"
+        "string": "无法点赞此插件：{error}"
     },
     "community.actions.unable_to_like_this_widget_error": {
-        "string": "このウィジェットに「いいね」を付けることができません: {error}"
+        "string": "无法点赞此小部件：{error}"
     },
     "community.actions.unable_to_load_creator_stats": {
-        "string": "作成者の統計情報を読み込めません。後でもう一度お試しください。"
+        "string": "无法加载创建者统计信息。请稍后再试。"
     },
     "community.actions.unable_to_load_stats_for_a_resource": {
-        "string": "リソースの統計情報を読み込めません。後でもう一度お試しください。"
+        "string": "无法加载资源的统计信息。请稍后再试。"
     },
     "community.actions.unable_to_mark_all_as_read_error_message": {
-        "string": "すべてを既読としてマークすることができません: {error}"
+        "string": "无法将所有标记为已读：{error}"
     },
     "community.actions.unable_to_save_plugin_error": {
-        "string": "プラグインを保存できません: {error}"
+        "string": "无法保存插件：{error}"
     },
     "community.actions.unable_to_save_plugin_please_try_again": {
-        "string": "プラグインを保存できません。もう一度お試しください。"
+        "string": "无法保存插件。请重试。"
     },
     "community.actions.unable_to_save_widget_error": {
-        "string": "ウィジェットを保存できません: {error}"
+        "string": "无法保存小部件：{error}"
     },
     "community.actions.unable_to_save_widget_please_try_again": {
-        "string": "ウィジェットを保存できません。もう一度お試しください。"
+        "string": "无法保存小部件。请重试。"
     },
     "community.actions.unable_to_unlike_this_file_error": {
-        "string": "このファイルの「いいね」を取り消すことができません: {error}"
+        "string": "无法取消点赞此文件：{error}"
     },
     "community.actions.unable_to_unlike_this_plugin_error": {
-        "string": "このプラグインの「いいね」を取り消すことができません: {error}"
+        "string": "无法取消点赞此插件：{error}"
     },
     "community.actions.unable_to_unlike_this_widget_error": {
-        "string": "このウィジェットの「いいね」を取り消すことができません: {error}"
+        "string": "无法取消点赞此小部件：{error}"
     },
     "community.actions.unfollowed_profile": {
-        "string": "プロフィールのフォローを解除しました"
+        "string": "已取消关注个人资料"
     },
     "community.actions.widget_has_been_imported": {
-        "string": "ウィジェットがインポートされました"
+        "string": "小部件已导入"
     },
     "community.actions.your_description_was_updated": {
-        "string": "説明が更新されました"
+        "string": "描述已更新"
     },
     "community.actions.your_instagram_handle_is_not_valid": {
-        "string": "@{handle}は有効なInstagramハンドルではありません"
+        "string": "@{handle}不是有效的Instagram用户名"
     },
     "community.actions.your_instagram_handle_was_updated": {
-        "string": "Instagramハンドルが更新されました"
+        "string": "Instagram用户名已更新"
     },
     "community.actions.your_location_was_updated": {
-        "string": "場所が更新されました"
+        "string": "位置已更新"
     },
     "community.actions.your_organization_s_handle_was_set_to_profile_handle": {
-        "string": "組織のハンドルが@{profileHandle}に設定されました"
+        "string": "你的组织的用户名已设置为@{profileHandle}"
     },
     "community.actions.your_profile_handle_was_set_to_profile_handle": {
-        "string": "プロフィールハンドルが@{profileHandle}に設定されました"
+        "string": "你的个人资料用户名已设置为@{profileHandle}"
     },
     "community.actions.your_profile_s_primary_email_was_set_to_email": {
-        "string": "プロフィールのプライマリーメールが{email}に設定されました"
+        "string": "你的个人资料主邮箱已设置为{email}"
     },
     "community.actions.your_team_s_handle_was_set_to_profile_handle": {
-        "string": "チームのハンドルが@{profileHandle}に設定されました"
+        "string": "你的团队的用户名已设置为@{profileHandle}"
     }
 }

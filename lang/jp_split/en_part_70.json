@@ -1,152 +1,152 @@
 {
     "community.buyer.you": {
-        "string": "あなた"
+        "string": "你"
     },
     "community.buyer.you_can_keep_using_plugin": {
-        "string": "今すぐ購入すれば、{pluginName}を引き続き使用して、仕事熱心なクリエイターをサポートできます。"
+        "string": "现在购买，继续使用{pluginName}，并支持勤奋的创作者。"
     },
     "community.buyer.your_trial_has_ended": {
-        "string": "トライアル期間が終了しました"
+        "string": "试用期已结束"
     },
     "community.comments.add_a_comment": {
-        "string": "コメントを追加する"
+        "string": "添加评论"
     },
     "community.comments.all": {
-        "string": "すべて"
+        "string": "全部"
     },
     "community.comments.comment_actions": {
-        "string": "コメントアクション"
+        "string": "评论操作"
     },
     "community.comments.comment_author_will_not_be_notified": {
-        "string": "{authorName}には通知されません。"
+        "string": "{authorName}将不会收到通知。"
     },
     "community.comments.comment_deleted": {
-        "string": "コメントを削除しました"
+        "string": "评论已删除"
     },
     "community.comments.comment_reported_and_hidden": {
-        "string": "コメントを報告して非表示しました"
+        "string": "评论已报告并隐藏"
     },
     "community.comments.comments_only": {
-        "string": "コメントのみ"
+        "string": "仅评论"
     },
     "community.comments.copy_link": {
-        "string": "リンクのコピー"
+        "string": "复制链接"
     },
     "community.comments.creator": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "community.comments.delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "community.comments.delete_thread": {
-        "string": "スレッドの削除"
+        "string": "删除线程"
     },
     "community.comments.edit": {
-        "string": "編集"
+        "string": "编辑"
     },
     "community.comments.failed_to_create_comment": {
-        "string": "コメントの作成に失敗しました:{errorMessage}"
+        "string": "创建评论失败：{errorMessage}"
     },
     "community.comments.failed_to_delete_comment": {
-        "string": "コメントの削除に失敗しました:{errorMessage}"
+        "string": "删除评论失败：{errorMessage}"
     },
     "community.comments.failed_to_edit_comment": {
-        "string": "コメントの編集に失敗しました"
+        "string": "编辑评论失败"
     },
     "community.comments.failed_to_report_comment": {
-        "string": "コメントの報告に失敗しました:{errorMessage}"
+        "string": "报告评论失败：{errorMessage}"
     },
     "community.comments.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "community.comments.learn_more_about_managing_comments_on_your_files_and_plugins_in_community": {
-        "string": "コミュニティにおける自分のファイルとプラグインについてのコメントの管理に関する{learnMoreLink}"
+        "string": "了解更多关于在社区中管理你的文件和插件评论的信息：{learnMoreLink}"
     },
     "community.comments.link_about_managing_restricted_commenters": {
-        "string": "制限されているコメント投稿者の管理に関する{link}。"
+        "string": "关于管理受限制评论者的{link}。"
     },
     "community.comments.load_more_comments": {
-        "string": "コメントをさらに読み込み"
+        "string": "加载更多评论"
     },
     "community.comments.new_comments": {
-        "string": "新しいコメントです!"
+        "string": "新评论！"
     },
     "community.comments.please_read_our_link_before_reporting": {
-        "string": "報告する前に{link}をお読みください"
+        "string": "在报告前请阅读{link}"
     },
     "community.comments.pluralize_comments": {
-        "string": "{numComments, plural, other {{numComments}件のコメント}}"
+        "string": "{numComments, plural, other {{numComments}条评论}}"
     },
     "community.comments.post": {
-        "string": "投稿"
+        "string": "发布"
     },
     "community.comments.refresh": {
-        "string": "更新"
+        "string": "刷新"
     },
     "community.comments.remove_and_restrict": {
-        "string": "削除して制限する"
+        "string": "删除并限制"
     },
     "community.comments.remove_comment_and_restrict_user": {
-        "string": "コメントを削除してユーザーを制限しますか?"
+        "string": "删除评论并限制用户？"
     },
     "community.comments.reply": {
-        "string": "返信"
+        "string": "回复"
     },
     "community.comments.report": {
-        "string": "報告"
+        "string": "报告"
     },
     "community.comments.report_and_hide_author_name_s_comment": {
-        "string": "{authorName}のコメントを報告して非表示にしますか?"
+        "string": "报告并隐藏{authorName}的评论？"
     },
     "community.comments.report_author_name_s_comment": {
-        "string": "{authorName}のコメントを報告しますか?"
+        "string": "报告{authorName}的评论？"
     },
     "community.comments.report_comment": {
-        "string": "報告"
+        "string": "报告"
     },
     "community.comments.restrict": {
-        "string": "制限"
+        "string": "限制"
     },
     "community.comments.restrict_user_s_comments": {
-        "string": "ユーザーのコメントの制限"
+        "string": "限制用户的评论"
     },
     "community.comments.restricted_this_user_s_comments": {
-        "string": "このユーザーのコメントを制限しました"
+        "string": "已限制此用户的评论"
     },
     "community.comments.reviews_only": {
-        "string": "レビューのみ"
+        "string": "仅评论"
     },
     "community.comments.save": {
         "string": "保存"
     },
     "community.comments.share_your_thoughts_using_the_comment_box_above": {
-        "string": "上のコメントボックスで自分の考えを共有します。"
+        "string": "使用上面的评论框分享你的想法。"
     },
     "community.comments.show_resolved": {
-        "string": "解決済みを表示"
+        "string": "显示已解决"
     },
     "community.comments.these_people_can_t_comment_on_any_of_profile_handles_community_files_and_plugins": {
-        "string": "これらのユーザーは、@{profileHandle}のコミュニティのファイルにもプラグインにもコメントできません"
+        "string": "这些人不能对@{profileHandle}的社区文件和插件发表评论"
     },
     "community.comments.these_people_can_t_comment_on_any_of_your_community_files_and_plugins": {
-        "string": "これらのユーザーは、コミュニティのファイルにもプラグインにもコメントできません"
+        "string": "这些人不能对你的社区文件和插件发表评论"
     },
     "community.comments.this_will_flag_the_comment_for_review": {
-        "string": "コメントに確認用のフラグが設定されます。"
+        "string": "这将标记评论以供审核。"
     },
     "community.comments.this_will_flag_the_comment_for_review_and_hide_it_for_everyone": {
-        "string": "コメントに確認用のフラグが設定され、全員に対して非表示になります。"
+        "string": "这将标记评论以供审核并对所有人隐藏。"
     },
     "community.comments.this_will_remove_their_comments_from_all_your_community_files_and_plugins_it_also_prevents_them_from_leaving_comments_on_your_resources_or_mentioning_you_in_the_future": {
-        "string": "コミュニティのすべてのファイルとプラグインから、ユーザーのコメントが削除されます。またこれらのユーザーが今後、リソースにコメントを残したり、メンションしたりすることはできません。"
+        "string": "这将从你的所有社区文件和插件中删除他们的评论，并且防止他们在将来对你的资源发表评论或提及你。"
     },
     "community.comments.to_comment_switch_to_your_personal_profile": {
-        "string": "コメントするには、自分のパーソナルプロフィールに切り替えます"
+        "string": "要发表评论，请切换到你的个人资料"
     },
     "community.comments.undo": {
-        "string": "元に戻す"
+        "string": "撤销"
     },
     "community.comments.unrestrict": {
-        "string": "制限解除"
+        "string": "取消限制"
     }
 }

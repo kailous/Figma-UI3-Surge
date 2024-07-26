@@ -1,152 +1,152 @@
 {
     "collaboration.feedback.viewing_version": {
-        "string": "{label}を表示中"
+        "string": "正在查看{label}"
     },
     "fig_feed.add_a_comment": {
-        "string": "コメントを追加"
+        "string": "添加评论"
     },
     "fig_feed.add_comment": {
-        "string": "コメントを追加"
+        "string": "添加评论"
     },
     "fig_feed.add_frames": {
-        "string": "Figmaファイルの1つからフレームを追加します。"
+        "string": "从其中一个Figma文件中添加框架。"
     },
     "fig_feed.add_frames_from_this_figma_file": {
-        "string": "このFigmaファイルからフレームを追加します。"
+        "string": "从此Figma文件中添加框架。"
     },
     "fig_feed.add_images_or_videos": {
-        "string": "デバイスから画像または動画を追加します。"
+        "string": "从设备添加图片或视频。"
     },
     "fig_feed.add_to_post": {
-        "string": "投稿に追加"
+        "string": "添加到帖子"
     },
     "fig_feed.all_spaces": {
-        "string": "すべてのスペース"
+        "string": "所有空间"
     },
     "fig_feed.all_users": {
-        "string": "すべてのユーザー"
+        "string": "所有用户"
     },
     "fig_feed.already_uploaded_items": {
-        "string": "{numFiles, plural, other {既に追加されているファイル:{fileNames}}}"
+        "string": "{numFiles, plural, other {已添加的文件：{fileNames}}}"
     },
     "fig_feed.apply_to_all": {
-        "string": "すべてに適用"
+        "string": "应用到全部"
     },
     "fig_feed.apply_to_all.tooltip": {
-        "string": "すべてのプレビューに書式を適用"
+        "string": "将格式应用于所有预览"
     },
     "fig_feed.background_color.tooltip": {
-        "string": "背景色を設定"
+        "string": "设置背景颜色"
     },
     "fig_feed.button.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "fig_feed.choose_a_file": {
-        "string": "ファイルを選択"
+        "string": "选择文件"
     },
     "fig_feed.choose_file": {
-        "string": "ファイルを選択"
+        "string": "选择文件"
     },
     "fig_feed.choose_frames": {
-        "string": "フレームを選択"
+        "string": "选择框架"
     },
     "fig_feed.come_back_later_for_more_posts": {
-        "string": "投稿の詳細について後で確認"
+        "string": "稍后查看更多帖子详情"
     },
     "fig_feed.copy_link_to_post": {
-        "string": "投稿へのリンクをコピー"
+        "string": "复制帖子链接"
     },
     "fig_feed.could_not_load_preview_image": {
-        "string": "画像プレビューを読み込めませんでした"
+        "string": "无法加载图片预览"
     },
     "fig_feed.create_tag": {
-        "string": "{tag}を作成"
+        "string": "创建{tag}"
     },
     "fig_feed.default_in_parens": {
-        "string": "(デフォルト)"
+        "string": "(默认)"
     },
     "fig_feed.delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "fig_feed.delete_admin_ellipsis": {
-        "string": "削除... (管理者)"
+        "string": "删除...（管理员）"
     },
     "fig_feed.delete_confirmation": {
-        "string": "この投稿と内容がすべて完全に削除されます。"
+        "string": "这篇帖子及其所有内容将被永久删除。"
     },
     "fig_feed.delete_confirmation_with_comments": {
-        "string": "{numComments, plural, other {{numComments}件のコメントを含め、この投稿と内容がすべて完全に削除されます。}}"
+        "string": "{numComments, plural, other {这篇帖子及其所有内容，包括{numComments}条评论，将被永久删除。}}"
     },
     "fig_feed.delete_confirmation_with_comments_and_reactions": {
-        "string": "{numComments}件のコメントとリアクションを含め、この投稿と内容がすべて完全に削除されます。"
+        "string": "这篇帖子及其所有内容，包括{numComments}条评论和{numReactions}个反应，将被永久删除。"
     },
     "fig_feed.delete_confirmation_with_reactions": {
-        "string": "{numReactions, plural, other {{numComments}件のリアクションを含め、この投稿と内容がすべて完全に削除されます。}}"
+        "string": "{numReactions, plural, other {这篇帖子及其所有内容，包括{numReactions}个反应，将被永久删除。}}"
     },
     "fig_feed.delete_ellipsis": {
-        "string": "削除…"
+        "string": "删除..."
     },
     "fig_feed.delete_post": {
-        "string": "投稿を削除"
+        "string": "删除帖子"
     },
     "fig_feed.description_placeholder.any_new_ideas": {
-        "string": "みんなに伝えたい新しいアイデアはありますか?"
+        "string": "有什么新的想法要分享吗？"
     },
     "fig_feed.description_placeholder.bop_it": {
-        "string": "ひねって、たたいて、投稿。"
+        "string": "旋转、敲击、发布。"
     },
     "fig_feed.description_placeholder.make_this_week": {
-        "string": "今週は何を作ろうと思っていますか?"
+        "string": "本周计划制作什么？"
     },
     "fig_feed.description_placeholder.need_feedback": {
-        "string": "本日、何かのフィードバックが必要ですか?"
+        "string": "今天需要任何反馈吗？"
     },
     "fig_feed.description_placeholder.no_idea_too_small": {
-        "string": "どんな小さなアイデアも共有"
+        "string": "没有任何想法太小不能分享。"
     },
     "fig_feed.description_placeholder.noodles": {
-        "string": "何について考えていますか?"
+        "string": "在想些什么？"
     },
     "fig_feed.description_placeholder.post_something": {
-        "string": "何か投稿して、反応を見ましょう"
+        "string": "发布点东西，看看大家的反应。"
     },
     "fig_feed.description_placeholder.share_crit_repeat": {
-        "string": "共有、批判、反復、繰り返し。"
+        "string": "分享、批评、重复。"
     },
     "fig_feed.description_placeholder.show_and_tell": {
-        "string": "みんなに何かを示して、説明しましょう"
+        "string": "展示并讲解。"
     },
     "fig_feed.description_placeholder.watcha_got_there": {
-        "string": "何を手に入れましたか? それをみんなに伝えますか?"
+        "string": "你有什么好东西？要不要分享一下？"
     },
     "fig_feed.details": {
-        "string": "詳細"
+        "string": "详情"
     },
     "fig_feed.discard_draft": {
-        "string": "下書きを破棄"
+        "string": "丢弃草稿"
     },
     "fig_feed.discard_edit": {
-        "string": "編集を破棄"
+        "string": "取消编辑"
     },
     "fig_feed.dive_into_the_details": {
-        "string": "詳細を入力"
+        "string": "深入了解详情"
     },
     "fig_feed.draft": {
-        "string": "(ドラフト)"
+        "string": "(草稿)"
     },
     "fig_feed.edit": {
-        "string": "編集"
+        "string": "编辑"
     },
     "fig_feed.edit_post": {
-        "string": "投稿を編集"
+        "string": "编辑帖子"
     },
     "fig_feed.edit_preview": {
-        "string": "プレビューを編集"
+        "string": "编辑预览"
     },
     "fig_feed.error_on_feed_post_creation": {
-        "string": "フィード投稿の保存中にエラーが発生しました"
+        "string": "保存帖子时出错"
     },
     "fig_feed.feed": {
-        "string": "フィード"
+        "string": "动态"
     }
 }

@@ -1,152 +1,152 @@
 {
     "comments.only_current_slide": {
-        "string": "現在のスライドのみ"
+        "string": "仅当前幻灯片"
     },
     "comments.only_posts": {
-        "string": "投稿のみ"
+        "string": "仅帖子"
     },
     "comments.only_your_threads": {
-        "string": "自分のスレッドのみ"
+        "string": "仅你的线程"
     },
     "comments.oops_one_of_your_comments_never_posted": {
-        "string": "おっと! コメントの1つが投稿されていません"
+        "string": "糟糕！你的评论之一未能发布"
     },
     "comments.parent_name_and_number": {
         "string": "#{commentNumber} · {parentName}"
     },
     "comments.please_note_that_is_external_to_your_organization": {
-        "string": "{numUsers, plural, other {{userNames}は組織外のユーザーである点にご注意ください。{learnMore}}}"
+        "string": "{numUsers, plural, other {{userNames}是组织外部的用户，请注意。{learnMore}}}"
     },
     "comments.please_note_that_some_of_these_users_are_external_to_your_organization": {
-        "string": "{numUsers, plural, other {組織外のユーザーが含まれている点にご注意ください。{learnMore}}}"
+        "string": "{numUsers, plural, other {请注意，其中一些用户是组织外部的。{learnMore}}}"
     },
     "comments.post": {
-        "string": "投稿"
+        "string": "发布"
     },
     "comments.post_anyway": {
-        "string": "投稿を続ける"
+        "string": "继续发布"
     },
     "comments.post_comment_and_share_file": {
-        "string": "コメントを投稿し、ファイルを共有しますか?"
+        "string": "发布评论并分享文件？"
     },
     "comments.post_share": {
-        "string": "投稿して共有"
+        "string": "发布并分享"
     },
     "comments.preview_reply_count": {
-        "string": "{replyCount, plural, other {{ new, select, true {{replyCount}件の新しい返信} other {{replyCount}件の返信}}}}"
+        "string": "{replyCount, plural, other {{ new, select, true {{replyCount}条新回复} other {{replyCount}条回复}}}}"
     },
     "comments.previous": {
-        "string": "前へ"
+        "string": "上一个"
     },
     "comments.re_enable": {
-        "string": "再度有効にする"
+        "string": "重新启用"
     },
     "comments.reply": {
-        "string": "返信"
+        "string": "回复"
     },
     "comments.reply_count": {
-        "string": "{replyCount, plural, other {{replyCount}件の返信}}"
+        "string": "{replyCount, plural, other {{replyCount}条回复}}"
     },
     "comments.retry": {
-        "string": "再試行"
+        "string": "重试"
     },
     "comments.save": {
         "string": "保存"
     },
     "comments.settings": {
-        "string": "設定"
+        "string": "设置"
     },
     "comments.show_resolved_comments": {
-        "string": "解決済みコメントを表示"
+        "string": "显示已解决评论"
     },
     "comments.slide": {
-        "string": "スライド"
+        "string": "幻灯片"
     },
     "comments.slide_number": {
-        "string": "スライド{orderNum}"
+        "string": "幻灯片{orderNum}"
     },
     "comments.sort_by_date": {
-        "string": "日付で並べ替え"
+        "string": "按日期排序"
     },
     "comments.sort_by_last_action": {
-        "string": "最後のアクションで並べ替え"
+        "string": "按最后操作排序"
     },
     "comments.sort_by_slide": {
-        "string": "スライドで並べ替え"
+        "string": "按幻灯片排序"
     },
     "comments.sort_by_unread": {
-        "string": "未読で並べ替え"
+        "string": "按未读排序"
     },
     "comments.sort_filter": {
-        "string": "並べ替え/フィルター"
+        "string": "排序/过滤"
     },
     "comments.status_changes": {
-        "string": "ステータス変更"
+        "string": "状态更改"
     },
     "comments.submit": {
-        "string": "送信"
+        "string": "提交"
     },
     "comments.turn_on": {
-        "string": "オンにする"
+        "string": "开启"
     },
     "comments.unattached": {
-        "string": "未添付"
+        "string": "未附加"
     },
     "comments.unavailable_offline": {
-        "string": "このコメントはオフラインでは開けません"
+        "string": "此评论在离线时不可用"
     },
     "comments.undo": {
-        "string": "元に戻す"
+        "string": "撤销"
     },
     "comments.upload_error.already_uploaded_items": {
-        "string": "{numFiles, plural, other {既に追加されているファイル:{fileNames}}}"
+        "string": "{numFiles, plural, other {已添加的文件：{fileNames}}}"
     },
     "comments.upload_error.failed_to_upload": {
-        "string": "{numFiles, plural, other {ファイルをアップロードできませんでした}}"
+        "string": "{numFiles, plural, other {未能上传文件}}"
     },
     "comments.upload_error.media_file_maximum": {
-        "string": "コメントに追加できるメディアファイルは{maxNum}個までです"
+        "string": "评论中最多可添加{maxNum}个媒体文件"
     },
     "comments.upload_error.media_file_size_limit_MB": {
-        "string": "メディファイルは{maxFileSizeMB}MB未満でなければなりません"
+        "string": "媒体文件必须小于{maxFileSizeMB}MB"
     },
     "comments.upload_error.media_file_types": {
-        "string": "メディアファイルの形式はPNG、JPEG、GIFのいずれかでなければなりません"
+        "string": "媒体文件必须是PNG、JPEG、GIF格式之一"
     },
     "comments.upload_images": {
-        "string": "最大5個の画像およびGIFをアップロードできます"
+        "string": "最多可上传5个图片和GIF"
     },
     "comments.view": {
-        "string": "表示"
+        "string": "查看"
     },
     "comments.when_you_leave_a_comment_or_get_mentioned_in_one_it_ll_show_up_here": {
-        "string": "コメントを残した場合、またはコメントでメンションされている場合、ここに表示されます。"
+        "string": "当你留下评论或被提及时，它会显示在这里。"
     },
     "comments.with_access": {
-        "string": "アクセス権あり"
+        "string": "有访问权限"
     },
     "comments.wont_be_able_to_view_your_comments_because_they_dont_have_access_to_this_file": {
-        "string": "{mentionedUsers}はこのファイルへのアクセス権がないため、コメントを表示できません。"
+        "string": "{mentionedUsers}无法查看你的评论，因为他们没有该文件的访问权限。"
     },
     "comments.you": {
-        "string": "あなた"
+        "string": "你"
     },
     "comments.you_have_disabled_the_comments_sidebar_via_the_debug_menu": {
-        "string": "デバッグメニューでコメントのサイドバーを無効にしました。"
+        "string": "你已通过调试菜单禁用了评论侧栏。"
     },
     "comments.you_will_be_notified_about_file_comments": {
-        "string": "このファイルに新たに追加されるすべてのコメントについて通知されます。"
+        "string": "你将收到关于此文件中所有新评论的通知。"
     },
     "comments.you_will_be_notified_about_replies": {
-        "string": "返信について通知されます"
+        "string": "你将收到回复的通知"
     },
     "comments.you_will_be_notified_about_replies_and_at_mentions": {
-        "string": "返信と@メンションの通知を受け取ります"
+        "string": "你将收到回复和@提及的通知"
     },
     "comments.pinning.cannot_resolve": {
-        "string": "ピン留めされたコメントを解決済みにできません"
+        "string": "无法解决置顶的评论"
     },
     "comments.pinning.cannot_unresolve": {
-        "string": "ピン留めされたコメントを未解決にできません"
+        "string": "无法取消解决置顶的评论"
     }
 }

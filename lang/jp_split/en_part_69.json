@@ -3,150 +3,150 @@
         "string": "{priceString}/年"
     },
     "community.buyer.price_per_year_subscription": {
-        "string": "{priceString}/年のサブスクリプション"
+        "string": "{priceString}/年的订阅"
     },
     "community.buyer.price_x_month": {
-        "string": "{priceString} x 1か月"
+        "string": "{priceString} x 1个月"
     },
     "community.buyer.price_x_year": {
-        "string": "{priceString}x 1年"
+        "string": "{priceString} x 1年"
     },
     "community.buyer.promo_code": {
-        "string": "プロモーションコード"
+        "string": "促销代码"
     },
     "community.buyer.purchase_complete": {
-        "string": "購入が完了しました!"
+        "string": "购买已完成！"
     },
     "community.buyer.purchase_resource": {
-        "string": "リソースを購入"
+        "string": "购买资源"
     },
     "community.buyer.purchase_resource_name": {
-        "string": "{resourceName}を購入"
+        "string": "购买{resourceName}"
     },
     "community.buyer.purchase_this_feature_today": {
-        "string": "この機能を今すぐ購入すると、{pluginName}が提供するすべての機能を使用できます。"
+        "string": "立即购买此功能以使用{pluginName}提供的所有功能。"
     },
     "community.buyer.purchased": {
-        "string": "購入済み"
+        "string": "已购买"
     },
     "community.buyer.redirecting_to_stripe": {
-        "string": "Stripeにリダイレクトしています..."
+        "string": "正在重定向到Stripe..."
     },
     "community.buyer.refund_reason.add_additional_details": {
-        "string": "具体的な理由を入力"
+        "string": "添加更多详情"
     },
     "community.buyer.refund_reason.doesnt_meet_needs": {
-        "string": "期待していたものと違った"
+        "string": "不符合需求"
     },
     "community.buyer.refund_reason.found_alternative": {
-        "string": "別のリソースが見つかった"
+        "string": "找到替代资源"
     },
     "community.buyer.refund_reason.other": {
-        "string": "その他"
+        "string": "其他"
     },
     "community.buyer.refund_reason.technical_issues": {
-        "string": "技術的な問題"
+        "string": "技术问题"
     },
     "community.buyer.refund_reason.too_expensive": {
-        "string": "価格が高い"
+        "string": "太贵了"
     },
     "community.buyer.refund_requested": {
-        "string": "返金がリクエストされました"
+        "string": "退款已请求"
     },
     "community.buyer.request_refund": {
-        "string": "返金をリクエスト"
+        "string": "请求退款"
     },
     "community.buyer.return_to_desktop_app": {
-        "string": "デスクトップアプリに戻る"
+        "string": "返回桌面应用"
     },
     "community.buyer.sales_tax": {
-        "string": "消費税"
+        "string": "销售税"
     },
     "community.buyer.save_my_payment_info": {
-        "string": "支払い情報を保存"
+        "string": "保存我的支付信息"
     },
     "community.buyer.save_percent": {
-        "string": "{discountPercentage}％OFF"
+        "string": "节省{discountPercentage}%"
     },
     "community.buyer.seller_switching_to_figma_payment_platform": {
-        "string": "{name}はFigmaの決済プラットフォームに切り替わります。サブスクリプションを移行するには、お支払い情報を更新するか、プロモーションコードを追加してください。"
+        "string": "{name}正在切换到Figma支付平台。要迁移订阅，请更新支付信息或添加促销代码。"
     },
     "community.buyer.sorry_there_was_an_error_processing_your_request_refresh_and_try_again": {
-        "string": "リクエストを処理中にエラーが発生しました。更新してもう一度お試しください"
+        "string": "处理您的请求时出错。请刷新并重试。"
     },
     "community.buyer.sub_percent_off": {
-        "string": "{duration, plural, other {{percent_off}%割引({duration}か月)}}"
+        "string": "{duration, plural, other {{percent_off}%折扣({duration}个月)}}"
     },
     "community.buyer.sub_percent_off__forever": {
-        "string": "{percent_off}%割引(永久)"
+        "string": "{percent_off}%折扣（永久）"
     },
     "community.buyer.subscribe": {
-        "string": "購入:"
+        "string": "订阅："
     },
     "community.buyer.subscribe_to_resource_name": {
-        "string": "{resourceName}のサブスクリプションを購入"
+        "string": "订阅{resourceName}"
     },
     "community.buyer.subscribed": {
-        "string": "購入済み"
+        "string": "已订阅"
     },
     "community.buyer.subscribed_with_price": {
-        "string": "購入済み · {priceString}"
+        "string": "已订阅 · {priceString}"
     },
     "community.buyer.subtotal": {
-        "string": "小計"
+        "string": "小计"
     },
     "community.buyer.tbd": {
-        "string": "未定"
+        "string": "待定"
     },
     "community.buyer.this_account_has_already_purchased": {
-        "string": "このアカウントはすでにこのリソースを購入しています"
+        "string": "此账户已购买此资源"
     },
     "community.buyer.this_resource_will_only_be_accesible": {
-        "string": "このリソースには、このアカウントのみがアクセスできます。"
+        "string": "此资源仅限此账户访问。"
     },
     "community.buyer.to_be_calculated": {
-        "string": "計算されます"
+        "string": "待计算"
     },
     "community.buyer.to_be_charged_on_date": {
-        "string": "{date}の請求額"
+        "string": "将在{date}收费"
     },
     "community.buyer.total": {
-        "string": "合計"
+        "string": "总计"
     },
     "community.buyer.total_due_today": {
-        "string": "本日期限の合計額"
+        "string": "今日应付款总额"
     },
     "community.buyer.unable_to_process_refund": {
-        "string": "返金を処理できません"
+        "string": "无法处理退款"
     },
     "community.buyer.unlock_this_feature": {
-        "string": "この機能をロック解除しますか?"
+        "string": "解锁此功能？"
     },
     "community.buyer.update": {
         "string": "更新"
     },
     "community.buyer.update_payment": {
-        "string": "支払いを更新"
+        "string": "更新支付信息"
     },
     "community.buyer.update_payment_info": {
-        "string": "支払い情報を更新"
+        "string": "更新支付信息"
     },
     "community.buyer.update_payment_info_to_retain_access": {
-        "string": "支払い情報を更新してアクセスを保持"
+        "string": "更新支付信息以保持访问"
     },
     "community.buyer.user_is_a_publisher": {
-        "string": "ユーザーはリソースの公開者です"
+        "string": "用户是资源的发布者"
     },
     "community.buyer.vat_gst": {
-        "string": "VAT/GST"
+        "string": "增值税/商品及服务税"
     },
     "community.buyer.view_order_details": {
-        "string": "注文の詳細を表示"
+        "string": "查看订单详情"
     },
     "community.buyer.we_re_sorry_to_hear_resource_name_didnt_work_out": {
-        "string": "{resourceName}に問題が発生したことにつきまして、大変申し訳ございませんでした。返金させていただきます。問題についてご説明いただけますでしょうか?"
+        "string": "很遗憾{resourceName}没有奏效。我们将处理您的退款。请告知我们问题所在？"
     },
     "community.buyer.yearly": {
-        "string": "毎年"
+        "string": "每年"
     }
 }
