@@ -1,152 +1,152 @@
 {
     "members_table.true_up.banner.free_period_zero.tooltip.design": {
-        "string": "組織の今回のトゥルーアップに新規デザインシートは含まれません。"
+        "string": "此次True Up中不包括组织的新设计席位。"
     },
     "members_table.true_up.banner.free_period_zero.tooltip.dev_mode": {
-        "string": "組織の今回のトゥルーアップに新規開発モードシートは含まれません。"
+        "string": "此次True Up中不包括组织的新开发模式席位。"
     },
     "members_table.true_up.banner.free_period_zero.tooltip.figjam": {
-        "string": "組織の今回のトゥルーアップに新規FigJamシートは含まれません。"
+        "string": "此次True Up中不包括组织的新FigJam席位。"
     },
     "members_table.true_up.banner.new_seats.design": {
-        "string": "新規デザインシート"
+        "string": "新设计席位"
     },
     "members_table.true_up.banner.new_seats.dev_mode": {
-        "string": "新規開発モードシート"
+        "string": "新开发模式席位"
     },
     "members_table.true_up.banner.new_seats.figjam": {
-        "string": "新規FigJamシート"
+        "string": "新FigJam席位"
     },
     "members_table.true_up.banner.projected_total": {
-        "string": "推定合計額"
+        "string": "预计总额"
     },
     "members_table.true_up.banner.seat_floor.tooltip.design": {
-        "string": "契約で支払いに同意した最低金額を満たすデザインシートの数"
+        "string": "根据合同同意支付的最低金额所涵盖的设计席位数量"
     },
     "members_table.true_up.banner.seat_floor.tooltip.dev_mode": {
-        "string": "契約で支払いに同意した最低金額を満たす開発モードシートの数"
+        "string": "根据合同同意支付的最低金额所涵盖的开发模式席位数量"
     },
     "members_table.true_up.banner.seat_floor.tooltip.figjam": {
-        "string": "契約で支払いに同意した最低金額を満たすFigJamシートの数"
+        "string": "根据合同同意支付的最低金额所涵盖的FigJam席位数量"
     },
     "members_table.true_up.banner.see_breakdown": {
-        "string": "明細を表示"
+        "string": "查看明细"
     },
     "members_table.true_up.banner.subtitle": {
-        "string": "組織の有料シートを確認して確定すると、請求書が確定されます。"
+        "string": "确认并锁定组织的付费席位后，将生成发票。"
     },
     "members_table.true_up.banner.title": {
-        "string": "準備ができたら請求書を確定"
+        "string": "准备就绪后确认发票"
     },
     "members_table.true_up.banner.total_seats": {
-        "string": "{numSeats, plural, other {合計{numSeats}シート}}"
+        "string": "共{numSeats}个席位"
     },
     "members_table.true_up.freeze_invoice_billing_group_info": {
-        "string": "以下の請求グループは管理者がまだ確認していません。"
+        "string": "以下账单组尚未由管理员确认。"
     },
     "members_table.true_up.freeze_invoice_button_text": {
-        "string": "確認と確定"
+        "string": "确认并锁定"
     },
     "members_table.true_up.freeze_invoice_checkbox_text": {
-        "string": "このアクションは取り消せないことを理解しました"
+        "string": "我理解此操作不可撤销"
     },
     "members_table.true_up.freeze_invoice_checkbox_title": {
-        "string": "請求書を確定しますか?"
+        "string": "确认锁定发票？"
     },
     "members_table.true_up.freeze_invoice_confirm_description.seat_rename.template": {
-        "string": "確定後に参加するフルシートのユーザーはすべて、次回の請求までは無料です。{date}付で、年間プランの{seatsText}に対して{lockedAmountToPay}が請求されます。"
+        "string": "锁定后，所有新增的全席位用户在下次计费前将免费。截止到{date}，将对年度计划中的{seatsText}收取{lockedAmountToPay}。"
     },
     "members_table.true_up.freeze_invoice_confirm_description_true_up.seat_rename": {
-        "string": "確定後に参加するフルシートのユーザーはすべて、次回の請求までは無料です。{date}付けで{lockedAmountToPay}が請求されます。"
+        "string": "锁定后，所有新增的全席位用户在下次计费前将免费。截止到{date}，将收取{lockedAmountToPay}。"
     },
     "members_table.true_up.freeze_invoice_confirm_title.template": {
-        "string": "{seatsText}で新しいサブスクリプションを開始しますか?"
+        "string": "是否开始{seatsText}的新订阅？"
     },
     "members_table.true_up.freeze_invoice_confirm_title_true_up.template": {
-        "string": "プランに{seatsText}を追加しますか?"
+        "string": "是否将{seatsText}添加到计划中？"
     },
     "members_table.true_up.freeze_invoice_design_editor_text.seat_rename": {
-        "string": "{lockedQuantityDesignEditors, plural, other {デザインシート{lockedQuantityDesignEditors}人分}}"
+        "string": "设计席位共{lockedQuantityDesignEditors}个"
     },
     "members_table.true_up.freeze_invoice_dev_mode_seat_text": {
-        "string": "{quantity, plural, other {開発モードシート{quantity}人分}}"
+        "string": "开发模式席位共{quantity}个"
     },
     "members_table.true_up.freeze_invoice_figjam_editor_text.seat_rename": {
-        "string": "{lockedQuantityFigJamEditors, plural, other {#人分のFigJamシート}}"
+        "string": "FigJam席位共{lockedQuantityFigJamEditors}个"
     },
     "members_table.true_up.freeze_invoice_new_design_editor_text.seat_rename": {
-        "string": "{lockedQuantityDesignEditors, plural, other {新規デザインシート{lockedQuantityDesignEditors}人分}}"
+        "string": "新增设计席位共{lockedQuantityDesignEditors}个"
     },
     "members_table.true_up.freeze_invoice_new_dev_mode_seat_text": {
-        "string": "{quantity, plural, other {新規開発モードシート#人分}}"
+        "string": "新增开发模式席位共{quantity}个"
     },
     "members_table.true_up.freeze_invoice_new_figjam_editor_text.seat_rename": {
-        "string": "{lockedQuantityFigJamEditors, plural, other {新規FigJamシート#人分}}"
+        "string": "新增FigJam席位共{lockedQuantityFigJamEditors}个"
     },
     "members_table.user_upgrade_date": {
         "string": "{upgradeDate, date, medium}"
     },
     "members_table.user_upgrade_reason_and_date.tooltip": {
-        "string": "{upgradeReason} \n {upgradeDate, date, medium}"
+        "string": "{upgradeReason}\n{upgradeDate, date, medium}"
     },
     "members_table.verification_sent": {
-        "string": "確認メールが送信されました"
+        "string": "确认邮件已发送"
     },
     "members_table.workspace_cell.unassign": {
-        "string": "割り当て解除"
+        "string": "取消分配"
     },
     "members_table.workspace_update_description.auto_assigned": {
-        "string": "自動割り当て"
+        "string": "自动分配"
     },
     "members_table.workspace_update_description.moved_by_admin": {
-        "string": "{adminName}が移動"
+        "string": "由{adminName}移动"
     },
     "members_table.workspace_update_description.moved_by_admin_generic": {
-        "string": "管理者が移動"
+        "string": "由管理员移动"
     },
     "members_table.workspace_update_description.scim_group": {
-        "string": "[{groupName}] IDPによってプロビジョニングされています"
+        "string": "[{groupName}]由IDP配置"
     },
     "members_table.workspace_update_description.self_selected": {
-        "string": "ワークスペース選択機能で選択"
+        "string": "通过工作区选择功能选择"
     },
     "multi_select_list.filter_default": {
-        "string": "すべて"
+        "string": "全部"
     },
     "multi_select_list.reset_filters": {
-        "string": "フィルターをリセット"
+        "string": "重置过滤器"
     },
     "multi_select_list.selected_count_billing_groups": {
-        "string": "{numSelected, plural, other {{numSelected}個の請求グループを選択中:}}"
+        "string": "已选择{numSelected}个账单组："
     },
     "multi_select_list.selected_count_domain": {
-        "string": "{numSelected, plural, other {{numSelected}個のドメインを選択中:}}"
+        "string": "已选择{numSelected}个域名："
     },
     "multi_select_list.selected_count_file": {
-        "string": "{numSelected, plural, other {{numSelected}個のファイルを選択中:}}"
+        "string": "已选择{numSelected}个文件："
     },
     "multi_select_list.selected_count_folder": {
-        "string": "{numSelected, plural, other {{numSelected}個のフォルダを選択:}}"
+        "string": "已选择{numSelected}个文件夹："
     },
     "multi_select_list.selected_count_font": {
-        "string": "{numSelected, plural, other {{numSelected}個のフォントを選択中:}}"
+        "string": "已选择{numSelected}个字体："
     },
     "multi_select_list.selected_count_team": {
-        "string": "{numSelected, plural, other {{numSelected}チームを選択中:}}"
+        "string": "已选择{numSelected}个团队："
     },
     "multi_select_list.selected_count_user": {
-        "string": "{numSelected, plural, other {{numSelected}人のユーザーを選択中:}}"
+        "string": "已选择{numSelected}个用户："
     },
     "multi_select_list.selected_count_workspace": {
-        "string": "{numSelected, plural, other {{numSelected}個のワークスペースを選択中:}}"
+        "string": "已选择{numSelected}个工作区："
     },
     "onboarding_pointers.account_type_filter_onboarding.seat_rename": {
-        "string": "アカウントの種類、シートタイプ、最終編集時刻、最終請求以降に追加された有料シートでユーザーを絞り込みます。"
+        "string": "通过账户类型、席位类型、最后编辑时间和自上次计费以来新增的付费席位筛选用户。"
     },
     "onboarding_pointers.account_type_filter_onboarding_for_workspace_admin": {
-        "string": "アカウントの種類および最終編集日時でユーザーを絞り込みます。"
+        "string": "通过账户类型和最后编辑时间筛选用户。"
     },
     "onboarding_pointers.activity_csv_onboarding": {
-        "string": "組織内の全アクティビティーを含む完全なCSVエクスポートのメール送信をリクエストします。"
+        "string": "请求发送包含组织中所有活动的完整CSV导出文件的邮件。"
     }
 }

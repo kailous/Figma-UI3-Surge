@@ -1,152 +1,152 @@
 {
     "magic_link.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "magic_link.rename_layer_suggestion": {
-        "string": "最初にこのレイヤーに名前を付けます"
+        "string": "首先给这个图层命名"
     },
     "magic_link.rename_layers_suggestion": {
-        "string": "最初にこれらのレイヤーに名前を付けます"
+        "string": "首先给这些图层命名"
     },
     "magic_link.running": {
-        "string": "実行中..."
+        "string": "正在运行..."
     },
     "magic_link.select_a_set_of_frames": {
-        "string": "フレームのセットを選択してください"
+        "string": "请选择一组框架"
     },
     "magic_link.select_a_set_of_layers": {
-        "string": "レイヤーのセットを選択してください"
+        "string": "请选择一组图层"
     },
     "magic_link.tlf_selection_too_large": {
-        "string": "選択するフレームは10個までです"
+        "string": "选择的框架不能超过10个"
     },
     "manage_memory_modal.imported_components": {
-        "string": "インポートされたコンポーネント"
+        "string": "导入的组件"
     },
     "manage_memory_modal.manage_memory_button": {
-        "string": "メモリーを管理"
+        "string": "管理内存"
     },
     "manage_memory_modal.manage_memory_modal_title": {
-        "string": "メモリーを管理"
+        "string": "管理内存"
     },
     "manage_memory_modal.page_content": {
-        "string": "ページコンテンツ"
+        "string": "页面内容"
     },
     "manage_memory_modal.show_memory_in_layers_panel": {
-        "string": "メモリーの使用率をレイヤーパネルに表示"
+        "string": "在图层面板中显示内存使用情况"
     },
     "manage_memory_modal.show_memory_in_layers_panel_warning": {
-        "string": "表示すると、ファイルの速度が低下する場合があります。"
+        "string": "显示此信息可能会降低文件速度。"
     },
     "manage_memory_modal.total_layers": {
-        "string": "レイヤーの総数"
+        "string": "图层总数"
     },
     "manage_memory_modal.total_memory_used": {
-        "string": "メモリー使用量の合計"
+        "string": "内存总使用量"
     },
     "memory_warning_banner.100_of_memory_used": {
-        "string": "メモリー使用率が100%です"
+        "string": "内存使用率达到100%"
     },
     "memory_warning_banner.this_file_has_run_out_of_browser_memory": {
-        "string": "このファイルに使用できるブラウザメモリーがありません。"
+        "string": "此文件已耗尽浏览器内存。"
     },
     "memory_warning_modal.desktop_app_download_link": {
-        "string": "Figmaデスクトップアプリ"
+        "string": "Figma桌面应用"
     },
     "memory_warning_modal.help_center": {
-        "string": "ヘルプセンター記事"
+        "string": "帮助中心文章"
     },
     "memory_warning_modal.help_center_resource_and_link": {
-        "string": "その他のヒントについては、{helpCenterLink}をご覧ください。"
+        "string": "有关更多提示，请参阅{helpCenterLink}。"
     },
     "memory_warning_modal.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "memory_warning_modal.memory_reduction_tips_break_files": {
-        "string": "数ページを新しいファイルに移動するか、大きなライブラリを複数の小さなライブラリに分割します。"
+        "string": "将一些页面移动到新文件中，或将大型库拆分为多个小型库。"
     },
     "memory_warning_modal.memory_reduction_tips_break_files_header": {
-        "string": "サイズの大きなファイルを複数の小さなファイルに分割します。"
+        "string": "将大文件拆分为多个小文件。"
     },
     "memory_warning_modal.memory_reduction_tips_clean_layers": {
-        "string": "特にコンポーネント内の必要のない非表示のレイヤーを削除し、ネストしたレイヤーを減らします。"
+        "string": "删除不必要的隐藏图层，尤其是在组件内，并减少嵌套图层。"
     },
     "memory_warning_modal.memory_reduction_tips_clean_layers_header": {
-        "string": "レイヤーとコンポーネントを整理します。"
+        "string": "整理图层和组件。"
     },
     "memory_warning_modal.memory_reduction_tips_flatten_shapes": {
-        "string": "これによりレイヤーの数が減り、結果としてメモリー使用量が減ります。"
+        "string": "这将减少图层数量，从而减少内存使用量。"
     },
     "memory_warning_modal.memory_reduction_tips_flatten_shapes_header": {
-        "string": "複雑なSVGやベクターシェイプをシンプルにします。"
+        "string": "简化复杂的SVG和矢量形状。"
     },
     "memory_warning_modal.memory_reduction_tips_modal_title": {
-        "string": "メモリー使用量を減らすためのヒント"
+        "string": "减少内存使用的提示"
     },
     "memory_warning_modal.memory_reduction_tips_trim_components": {
-        "string": "バリアントをコンポーネントプロパティに置き換えます。"
+        "string": "用组件属性替换变体。"
     },
     "memory_warning_modal.memory_reduction_tips_trim_components_header": {
-        "string": "コンポーネントのバリアントの数を減らします。"
+        "string": "减少组件变体数量。"
     },
     "memory_warning_modal.old_browser_out_of_memory_modal_content": {
-        "string": "作業内容は失われていませんが、メモリーの使用量が減るまでファイルを編集することはできません。"
+        "string": "您的工作未丢失，但在减少内存使用量之前，您将无法编辑此文件。"
     },
     "memory_warning_modal.old_browser_out_of_memory_modal_content_cta_and_download_desktop": {
-        "string": "このファイルのコンテンツを復元するには、ブラウザを最新版にアップデートするか、このファイルを{desktopAppLink}で開いてみてください。"
+        "string": "要恢复此文件内容，请更新浏览器到最新版本，或尝试在{desktopAppLink}中打开此文件。"
     },
     "memory_warning_modal.old_browser_out_of_memory_modal_content_cta_and_open_in_desktop": {
-        "string": "このファイルのコンテンツを復元するには、ブラウザーを最新版にアップデートするか、ファイルをFigmaデスクトップアプリで開いてみてください。"
+        "string": "要恢复此文件内容，请更新浏览器到最新版本，或在Figma桌面应用中打开此文件。"
     },
     "memory_warning_modal.old_browser_out_of_memory_modal_title": {
-        "string": "このファイルに使用できるブラウザメモリーがありません"
+        "string": "此文件已耗尽可用的浏览器内存"
     },
     "memory_warning_modal.old_browser_primary_button_cta": {
-        "string": "ブラウザーをアップグレード"
+        "string": "升级浏览器"
     },
     "memory_warning_modal.open_in_desktop": {
-        "string": "デスクトップアプリで開く"
+        "string": "在桌面应用中打开"
     },
     "memory_warning_modal.recovery_mode_button": {
-        "string": "復旧モードで開く"
+        "string": "在恢复模式下打开"
     },
     "memory_warning_modal.recovery_mode_modal_content": {
-        "string": "復元モードでは、メモリーの使用を減らしてファイルを安全に使い続けるためのツールやチップを利用できます。"
+        "string": "在恢复模式下，您可以使用工具和提示来减少内存使用量，以便继续安全地使用文件。"
     },
     "memory_warning_modal.recovery_mode_modal_out_of_memory": {
-        "string": "このファイルに使用できるブラウザメモリーがありません。作業内容は失われていませんが、メモリーの使用量が減るまでこのファイルを使用することはできません。"
+        "string": "此文件已耗尽浏览器内存。您的工作未丢失，但在减少内存使用量之前，您将无法使用此文件。"
     },
     "memory_warning_modal.recovery_mode_modal_title": {
-        "string": "このファイルを復元モードで開く"
+        "string": "在恢复模式下打开此文件"
     },
     "memory_warning_modal.reload_modal_content": {
-        "string": "このファイルに使用できるブラウザメモリーがありません。ファイルをもう一度読み込んでください。"
+        "string": "此文件已耗尽浏览器内存。请重新加载文件。"
     },
     "memory_warning_modal.reload_modal_content_cta": {
-        "string": "問題が解決しない場合は、コンテンツの一部を新しいファイルに移動することでメモリーの使用量を減らすようファイルのオーナーに依頼してください。"
+        "string": "如果问题未解决，请请求文件所有者通过将部分内容移至新文件来减少内存使用量。"
     },
     "memory_warning_modal.reload_modal_title": {
-        "string": "このファイルをもう一度読み込む"
+        "string": "重新加载此文件"
     },
     "memory_warning_modal.reload_page_button": {
-        "string": "ページを再読み込み"
+        "string": "重新加载页面"
     },
     "mobile_download_prompts.email_me": {
-        "string": "自分にメールを送信"
+        "string": "给我发邮件"
     },
     "mobile_download_prompts.join_team_conversations": {
-        "string": "Figmaモバイルアプリをダウンロードすれば、どこにいてもチームの会話に参加できます。QRコードをスキャンしてスタートしましょう。"
+        "string": "下载Figma移动应用程序，无论您身在何处，都可以加入团队对话。扫描二维码开始吧。"
     },
     "mobile_download_prompts.learn_more": {
-        "string": "詳細を表示"
+        "string": "了解更多"
     },
     "mobile_download_prompts.meet_your_team": {
-        "string": "スマートフォンでチームミーティング"
+        "string": "在手机上与团队见面"
     },
     "mobile_download_prompts.mobile_interactions": {
-        "string": "モバイルでの動作確認"
+        "string": "在移动设备上进行交互检查"
     },
     "mobile_download_prompts.never_miss_a_comment": {
-        "string": "コメントを見逃さない"
+        "string": "不漏掉任何评论"
     }
 }

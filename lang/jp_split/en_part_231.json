@@ -1,152 +1,152 @@
 {
     "teams_table.closed_team_tooltip_header": {
-        "string": "このチームは表示されます"
+        "string": "此团队已公开"
     },
     "teams_table.closed_team_tooltip_subtitle": {
-        "string": "誰でも見つけることができますが、アクセス権を申請する必要があります"
+        "string": "任何人都可以找到此团队，但需要申请访问权限"
     },
     "teams_table.create_one": {
-        "string": "新規作成"
+        "string": "新建"
     },
     "teams_table.csv_export.error": {
-        "string": "リクエストの処理中にエラーが発生しました。後でもう一度お試しください。"
+        "string": "处理请求时发生错误，请稍后再试。"
     },
     "teams_table.csv_export.generating": {
-        "string": "CSVの生成には数分かかります。完了したらメールでお知らせします。"
+        "string": "生成CSV可能需要几分钟，完成后会通知您。"
     },
     "teams_table.csv_export.get_csv": {
-        "string": "CSVを取得"
+        "string": "获取CSV"
     },
     "teams_table.csv_export.preparing_request": {
-        "string": "CSVのリクエストを準備中"
+        "string": "准备CSV请求中"
     },
     "teams_table.default_workspace_team.invite_only": {
-        "string": "招待のみ"
+        "string": "仅限邀请"
     },
     "teams_table.default_workspace_team.visible": {
-        "string": "表示"
+        "string": "公开"
     },
     "teams_table.delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "teams_table.delete_team": {
-        "string": "チームを削除"
+        "string": "删除团队"
     },
     "teams_table.discoverability_filter.all": {
-        "string": "アクセス: すべて"
+        "string": "访问：所有"
     },
     "teams_table.discoverability_filter.hidden": {
-        "string": "アクセス: 非表示"
+        "string": "访问：隐藏"
     },
     "teams_table.discoverability_filter.visible": {
-        "string": "アクセス: 表示"
+        "string": "访问：公开"
     },
     "teams_table.enterprise.edit_default_teams": {
-        "string": "デフォルトチームを編集"
+        "string": "编辑默认团队"
     },
     "teams_table.enterprise.workspace": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "teams_table.join": {
-        "string": "参加"
+        "string": "加入"
     },
     "teams_table.join_team": {
-        "string": "チームに参加"
+        "string": "加入团队"
     },
     "teams_table.join_team_as_admin": {
-        "string": "チームに参加"
+        "string": "作为管理员加入团队"
     },
     "teams_table.join_team_as_owner": {
-        "string": "オーナーとして参加"
+        "string": "作为所有者加入团队"
     },
     "teams_table.leave": {
-        "string": "脱退"
+        "string": "离开"
     },
     "teams_table.leave_team": {
-        "string": "チームを脱退"
+        "string": "离开团队"
     },
     "teams_table.manage_access_setting": {
-        "string": "アクセス設定を管理"
+        "string": "管理访问设置"
     },
     "teams_table.member_count": {
-        "string": "{numMembers, plural, other {{numMembers}メンバー}}"
+        "string": "{numMembers, plural, other {{numMembers}名成员}}"
     },
     "teams_table.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "teams_table.membership_filter.all": {
-        "string": "チーム: すべて"
+        "string": "团队：所有"
     },
     "teams_table.membership_filter.my_teams_label": {
-        "string": "メンバーになっているチーム"
+        "string": "我的团队"
     },
     "teams_table.membership_filter.my_teams_option": {
-        "string": "メンバーになっているチーム"
+        "string": "我的团队"
     },
     "teams_table.membership_filter.not_my_teams_label": {
-        "string": "メンバーになっていないチーム"
+        "string": "非我的团队"
     },
     "teams_table.membership_filter.not_my_teams_option": {
-        "string": "メンバーになっていないチーム"
+        "string": "非我的团队"
     },
     "teams_table.no_search_results": {
-        "string": "検索条件に一致するチームが見つかりませんでした。検索をやり直してください。"
+        "string": "未找到符合搜索条件的团队，请重新搜索。"
     },
     "teams_table.no_teams_to_show": {
-        "string": "表示するチームがありません。"
+        "string": "没有可显示的团队。"
     },
     "teams_table.org_access": {
-        "string": "組織アクセス:"
+        "string": "组织访问："
     },
     "teams_table.org_access_filter.all": {
-        "string": "組織アクセス: すべて"
+        "string": "组织访问：所有"
     },
     "teams_table.org_access_filter.closed": {
-        "string": "組織アクセス: 限定"
+        "string": "组织访问：受限"
     },
     "teams_table.org_access_filter.open": {
-        "string": "組織アクセス: オープン"
+        "string": "组织访问：公开"
     },
     "teams_table.org_access_filter.secret": {
-        "string": "組織アクセス: シークレット"
+        "string": "组织访问：秘密"
     },
     "teams_table.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "teams_table.project_count": {
-        "string": "{numProjects, plural, other {{numProjects}個のプロジェクト}}"
+        "string": "{numProjects, plural, other {{numProjects}个项目}}"
     },
     "teams_table.projects": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "teams_table.rename": {
-        "string": "名前を変更"
+        "string": "重命名"
     },
     "teams_table.rename_team": {
-        "string": "チーム名を変更する"
+        "string": "重命名团队"
     },
     "teams_table.request_to_join": {
-        "string": "参加をリクエストする"
+        "string": "请求加入"
     },
     "teams_table.revoke_transfer_request": {
-        "string": "移転リクエストを取り消す"
+        "string": "撤销转移请求"
     },
     "teams_table.search_teams_with_ellipsis": {
-        "string": "チームを検索..."
+        "string": "搜索团队..."
     },
     "teams_table.secret_team_tooltip_header": {
-        "string": "このチームは非表示です"
+        "string": "此团队已隐藏"
     },
     "teams_table.secret_team_tooltip_subtitle": {
-        "string": "メンバーのみ検索とアクセスが可能です"
+        "string": "只有成员可以搜索和访问"
     },
     "teams_table.team": {
-        "string": "チーム"
+        "string": "团队"
     },
     "teams_table.team_name": {
-        "string": "名前"
+        "string": "名称"
     },
     "teams_table.teams_without_owners": {
-        "string": "オーナーがいないチーム"
+        "string": "没有所有者的团队"
     }
 }

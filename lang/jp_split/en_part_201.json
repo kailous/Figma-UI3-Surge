@@ -1,152 +1,152 @@
 {
     "inspect_panel.history.no_changes": {
-        "string": "比較する変更なし"
+        "string": "无可比较的更改"
     },
     "inspect_panel.images.file_name": {
-        "string": "ファイル名"
+        "string": "文件名"
     },
     "inspect_panel.images.image_type": {
-        "string": "画像"
+        "string": "图像"
     },
     "inspect_panel.images.opacity": {
         "string": "不透明度"
     },
     "inspect_panel.images.scale": {
-        "string": "拡大縮小"
+        "string": "缩放"
     },
     "inspect_panel.images.scale_mode": {
-        "string": "拡大縮小モード"
+        "string": "缩放模式"
     },
     "inspect_panel.images.title_plural": {
-        "string": "画像"
+        "string": "图像"
     },
     "inspect_panel.images.title_singular": {
-        "string": "画像"
+        "string": "图像"
     },
     "inspect_panel.instance.title": {
-        "string": "インスタンス"
+        "string": "实例"
     },
     "inspect_panel.interactions.animate": {
-        "string": "アニメーション"
+        "string": "动画"
     },
     "inspect_panel.interactions.curve": {
-        "string": "曲線"
+        "string": "曲线"
     },
     "inspect_panel.interactions.damping": {
-        "string": "減衰"
+        "string": "阻尼"
     },
     "inspect_panel.interactions.delay": {
-        "string": "ディレイ"
+        "string": "延迟"
     },
     "inspect_panel.interactions.duration": {
-        "string": "所要時間"
+        "string": "持续时间"
     },
     "inspect_panel.interactions.mass": {
-        "string": "質量"
+        "string": "质量"
     },
     "inspect_panel.interactions.phrase": {
-        "string": "フレーズ"
+        "string": "短语"
     },
     "inspect_panel.interactions.return_to_node": {
-        "string": "`{previous}に戻る`"
+        "string": "返回到`{previous}`"
     },
     "inspect_panel.interactions.stiffness": {
-        "string": "剛性"
+        "string": "刚度"
     },
     "inspect_panel.interactions.title": {
-        "string": "インタラクション"
+        "string": "交互"
     },
     "inspect_panel.interactions.trigger": {
-        "string": "トリガー"
+        "string": "触发器"
     },
     "inspect_panel.node_type.detached_component": {
-        "string": "切り離されたコンポーネント"
+        "string": "分离的组件"
     },
     "inspect_panel.node_type.ellipse": {
-        "string": "楕円"
+        "string": "椭圆"
     },
     "inspect_panel.node_type.exclude": {
-        "string": "除外"
+        "string": "排除"
     },
     "inspect_panel.node_type.figjam": {
-        "string": "FigJamノード"
+        "string": "FigJam节点"
     },
     "inspect_panel.node_type.frame": {
-        "string": "フレーム"
+        "string": "框架"
     },
     "inspect_panel.node_type.group": {
-        "string": "グループ"
+        "string": "组"
     },
     "inspect_panel.node_type.horizontal_al": {
-        "string": "行のレイアウト"
+        "string": "行布局"
     },
     "inspect_panel.node_type.instance": {
-        "string": "コンポーネントインスタンス"
+        "string": "组件实例"
     },
     "inspect_panel.node_type.intersect": {
-        "string": "交差"
+        "string": "相交"
     },
     "inspect_panel.node_type.line": {
-        "string": "直線"
+        "string": "直线"
     },
     "inspect_panel.node_type.main_component": {
-        "string": "メインコンポーネント"
+        "string": "主组件"
     },
     "inspect_panel.node_type.main_component_set": {
-        "string": "コンポーネントセット"
+        "string": "组件集"
     },
     "inspect_panel.node_type.main_variant": {
-        "string": "バリアント"
+        "string": "变体"
     },
     "inspect_panel.node_type.page": {
-        "string": "ページ"
+        "string": "页面"
     },
     "inspect_panel.node_type.polygon": {
-        "string": "多角形"
+        "string": "多边形"
     },
     "inspect_panel.node_type.rectangle": {
-        "string": "長方形"
+        "string": "矩形"
     },
     "inspect_panel.node_type.section": {
-        "string": "セクション"
+        "string": "部分"
     },
     "inspect_panel.node_type.slice": {
-        "string": "スライス"
+        "string": "切片"
     },
     "inspect_panel.node_type.star": {
-        "string": "星"
+        "string": "星形"
     },
     "inspect_panel.node_type.subtract": {
-        "string": "減算"
+        "string": "减去"
     },
     "inspect_panel.node_type.table": {
-        "string": "テーブル"
+        "string": "表格"
     },
     "inspect_panel.node_type.text": {
-        "string": "テキスト"
+        "string": "文本"
     },
     "inspect_panel.node_type.union": {
-        "string": "結合"
+        "string": "联合"
     },
     "inspect_panel.node_type.vector": {
-        "string": "ベクター"
+        "string": "矢量"
     },
     "inspect_panel.node_type.vertical_al": {
-        "string": "列のレイアウト"
+        "string": "列布局"
     },
     "inspect_panel.node_type.widget": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "inspect_panel.node_type_tooltip.detached_component": {
-        "string": "このレイヤーはメインコンポーネントからデタッチされました"
+        "string": "此图层已从主组件分离"
     },
     "inspect_panel.parent.title": {
-        "string": "親コンポーネント"
+        "string": "父组件"
     },
     "inspect_panel.properties.border": {
-        "string": "ボーダー"
+        "string": "边框"
     },
     "inspect_panel.properties.code_and_measurements_hint_title": {
-        "string": "コードと測定"
+        "string": "代码和测量"
     }
 }

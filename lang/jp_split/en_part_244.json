@@ -1,152 +1,152 @@
 {
     "payments.check_out_our_paid_plans": {
-        "string": "有料プランを確認する"
+        "string": "查看我们的付费计划"
     },
     "payments.complete_payment": {
-        "string": "支払いを完了する"
+        "string": "完成支付"
     },
     "payments.complete_payment_cta": {
-        "string": "支払いを確認"
+        "string": "确认支付"
     },
     "payments.complete_team_payment_description": {
-        "string": "追加の確認が必要なため、お支払いはまだ完了していません。24時間以内に確認して、{teamName}のアップグレードを終了してください。"
+        "string": "由于需要额外的确认，您的支付尚未完成。请在24小时内确认，以完成{teamName}的升级。"
     },
     "payments.complete_team_renewal_payment_description": {
-        "string": "追加の確認が必要なため、お支払いはまだ完了していません。確認を行い、更新を完了してください。"
+        "string": "由于需要额外的确认，您的支付尚未完成。请确认以完成续订。"
     },
     "payments.contact_admin": {
-        "string": "管理者に連絡して支払い情報を更新する"
+        "string": "联系管理员更新支付信息"
     },
     "payments.contact_admin_for_details": {
-        "string": "詳細についてはチームの管理者にお問い合わせください。"
+        "string": "有关详细信息，请联系团队管理员。"
     },
     "payments.contact_support": {
-        "string": "サポートにお問い合わせください"
+        "string": "联系支持"
     },
     "payments.errors.confirm_setup_error": {
-        "string": "支払い方法を保存できません。再読み込みしてからもう一度お試しください。"
+        "string": "无法保存支付方式。请重新加载后再试一次。"
     },
     "payments.errors.currency_ip_mismatch_error": {
-        "string": "支払い方法の住所の国が所在地と異なります。別の支払い方法を使用してください。"
+        "string": "支付方式地址的国家与您的所在地不同。请使用其他支付方式。"
     },
     "payments.errors.currency_mismatch_error": {
-        "string": "支払い方法の住所の国は{selected_currency}でのお支払いができません。別の支払い方法を使用するか、米ドルに切り替えてください。"
+        "string": "支付方式地址的国家无法使用{selected_currency}支付。请使用其他支付方式或切换到美元。"
     },
     "payments.errors.currency_mismatch_with_country_error": {
-        "string": "支払い方法に設定されている住所の国では、{selected_currency}でのお支払いができません。別の支払い方法をご利用ください。"
+        "string": "支付方式设置的地址国家无法使用{selected_currency}支付。请使用其他支付方式。"
     },
     "payments.errors.error_loading_payment_form": {
-        "string": "支払いフォームの読み込み中に問題が発生しました。更新してからもう一度お試しください。"
+        "string": "加载支付表单时出现问题。请刷新后再试一次。"
     },
     "payments.errors.estimate_calculation_error": {
-        "string": "見積総額の計算中に問題が発生しました。もう一度お試しください。"
+        "string": "计算估算总额时出现问题。请再试一次。"
     },
     "payments.file_limit_cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "payments.file_limit_figjam": {
-        "string": "{figjamFiles}個のFigJamファイル"
+        "string": "{figjamFiles}个FigJam文件"
     },
     "payments.file_limit_figma": {
-        "string": "{figmaFiles}個のFigma ファイル"
+        "string": "{figmaFiles}个Figma文件"
     },
     "payments.file_limit_paywall_cta": {
-        "string": "必要に応じて、代わりに{createThisFile}できます。または{checkOutPaidPlans}してください。"
+        "string": "如有需要，您可以{createThisFile}，或者{checkOutPaidPlans}。"
     },
     "payments.file_limit_paywall_cta_check_out_paid_plans": {
-        "string": "有料プランを確認する"
+        "string": "查看付费计划"
     },
     "payments.file_limit_paywall_cta_create_this_file": {
-        "string": "ドラフトにこのファイルを作成する"
+        "string": "在草稿中创建此文件"
     },
     "payments.file_limit_paywall_header_figjam": {
-        "string": "{maxFreeFiles, plural, other {{teamName}にはFigJamファイルがすでに{maxFreeFiles}ファイルあります。}}"
+        "string": "{maxFreeFiles, plural, other {{teamName}已经有{maxFreeFiles}个FigJam文件。}}"
     },
     "payments.file_limit_paywall_header_figma": {
-        "string": "{maxFreeFiles, plural, other {{teamName}にはFigmaファイルがすでに{maxFreeFiles}ファイルあります}}"
+        "string": "{maxFreeFiles, plural, other {{teamName}已经有{maxFreeFiles}个Figma文件。}}"
     },
     "payments.file_limit_paywall_text_figjam": {
-        "string": "{maxFreeFiles, plural, other {スタータープランでチームとコラボレートできるFigJamファイルは{maxFreeFiles}ファイルだけです。}}"
+        "string": "{maxFreeFiles, plural, other {在起步计划中，团队最多可协作{maxFreeFiles}个FigJam文件。}}"
     },
     "payments.file_limit_paywall_text_figma": {
-        "string": "{maxFreeFiles, plural, other { スタータープランでチームとコラボレートできるFigmaファイルは{maxFreeFiles}ファイルだけです。}}"
+        "string": "{maxFreeFiles, plural, other {在起步计划中，团队最多可协作{maxFreeFiles}个Figma文件。}}"
     },
     "payments.file_limit_unified": {
-        "string": "{figmaFiles}個のFigmaファイルと{figjamFiles}個のFigJamファイル"
+        "string": "{figmaFiles}个Figma文件和{figjamFiles}个FigJam文件"
     },
     "payments.file_limit_upgrade": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "payments.folder_locked": {
-        "string": "フォルダはロックされています"
+        "string": "文件夹已锁定"
     },
     "payments.folder_locked_description": {
-        "string": "{projectType}はスターターチームでは使用できません。引き続き、このプロジェクトでファイルを編集するには、{teamName}にアップグレードしてください。"
+        "string": "{projectType}在起步团队中不可用。要继续编辑此项目中的文件，请将{teamName}升级。"
     },
     "payments.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "payments.invalid_billing_contact_error": {
-        "string": "請求連絡先が無効です"
+        "string": "无效的账单联系人"
     },
     "payments.invite_only_projects": {
-        "string": "招待限定プロジェクト"
+        "string": "仅限邀请的项目"
     },
     "payments.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "payments.locked": {
-        "string": "このチームはロックされています。"
+        "string": "此团队已锁定。"
     },
     "payments.locked_description": {
-        "string": "{teamName}内のファイルの編集を続けるには、支払い方法を更新してください。"
+        "string": "要继续编辑{teamName}中的文件，请更新支付方式。"
     },
     "payments.manage_plan": {
-        "string": "プランを管理"
+        "string": "管理计划"
     },
     "payments.missing_billing_contact_error": {
-        "string": "請求連絡先が1つ以上必要です"
+        "string": "需要一个或多个账单联系人"
     },
     "payments.no_monthly_sub_over_editor_limit.seat_rename": {
-        "string": "Figmaサブスクリプションがキャンセルされた後、チームが有料シートを追加しました。アクセスを復元するには、サブスクリプションを再度有効にするか、シートをダウングレードするようにチーム管理者に依頼してください。"
+        "string": "取消Figma订阅后，团队增加了付费席位。要恢复访问，请重新启用订阅或请求团队管理员降级席位。"
     },
     "payments.no_monthly_sub_over_editor_limit_admin.seat_rename": {
-        "string": "Figmaサブスクリプションをキャンセルした後に、チームが有料シートを追加しました。アクセスを復元するには、サブスクリプションを再度有効にするか、シートをダウングレードしてください。サポートが必要ですか? {contactSupport}"
+        "string": "取消Figma订阅后，团队增加了付费席位。要恢复访问，请重新启用订阅或降级席位。需要帮助吗？{contactSupport}"
     },
     "payments.org_change_billing_contact": {
-        "string": "請求連絡先を管理"
+        "string": "管理账单联系人"
     },
     "payments.org_enter_an_email_address": {
-        "string": "請求関連のメール(請求書、更新のリマインダー、お支払いの確認など)を他の人やメールアドレスにも送ることができます。管理者は、これらのメールを常に受け取ります。"
+        "string": "您可以将账单相关的电子邮件（账单、续订提醒、支付确认等）发送给其他人或邮件地址。管理员始终会收到这些邮件。"
     },
     "payments.org_past_due_on_payment": {
-        "string": "この請求期間のお支払いをお客様の組織から受けていません。{orgName}に引き続きアクセスするには、{invoice}のお支払いを完了してください。"
+        "string": "本账单期内您的组织未完成支付。要继续访问{orgName}，请完成{invoice}的支付。"
     },
     "payments.org_past_due_on_payment_invoiced": {
-        "string": "この請求期間のお支払いをお客様の組織から受けていません。{orgName}に引き続きアクセスするには、{email}まで早急にご連絡ください。"
+        "string": "本账单期内您的组织未完成支付。要继续访问{orgName}，请尽快联系{email}。"
     },
     "payments.outstanding_invoice": {
-        "string": "未払いの請求書"
+        "string": "未付账单"
     },
     "payments.payment_failed": {
-        "string": "お支払いが失敗しました"
+        "string": "支付失败"
     },
     "payments.payment_failed_explanation": {
-        "string": "前回の請求は失敗しました。支払い方法を早急に更新してください。請求が3回失敗すると、ファイルの編集がロックされます。"
+        "string": "上次账单支付失败。请尽快更新支付方式。支付失败三次后，文件编辑将被锁定。"
     },
     "payments.payment_not_received": {
-        "string": "お支払いを完了いただいていません"
+        "string": "未收到支付"
     },
     "payments.pending_subscription_modal_description": {
-        "string": "確認が終わったら、アップグレードされたチームにアクセスできるように、このページを更新してください。"
+        "string": "确认完成后，请刷新此页面以访问升级后的团队。"
     },
     "payments.pending_subscription_modal_header": {
-        "string": "お支払いの確認を行っています"
+        "string": "支付确认中"
     },
     "payments.please_reach_out_to_org_admins": {
-        "string": "{numAdmins, plural, other {{orgName}の請求に関して問題があります。詳細については、組織管理者{admins}までお問合せください。}}"
+        "string": "{numAdmins, plural, other {{orgName}的账单有问题。有关详细信息，请联系组织管理员{admins}。}}"
     },
     "payments.pro_change_billing_contact": {
-        "string": "請求連絡先を更新"
+        "string": "更新账单联系人"
     }
 }

@@ -1,152 +1,152 @@
 {
     "resources_tab.libraries.clear_all": {
-        "string": "すべて消去"
+        "string": "清除全部"
     },
     "resources_tab.libraries.components": {
-        "string": "コンポーネント"
+        "string": "组件"
     },
     "resources_tab.libraries.couldnt_load_library_information": {
-        "string": "ライブラリ情報を読み込めませんでした。数分後にもう一度お試しください。"
+        "string": "无法加载库信息。请稍后再试。"
     },
     "resources_tab.libraries.current": {
-        "string": "現在: {setting}"
+        "string": "当前：{setting}"
     },
     "resources_tab.libraries.default_modes": {
-        "string": "デフォルトのモードを管理"
+        "string": "管理默认模式"
     },
     "resources_tab.libraries.enabled_for": {
-        "string": "対象"
+        "string": "启用对象"
     },
     "resources_tab.libraries.file_has_no_owner": {
-        "string": "ファイルにオーナーが設定されていません"
+        "string": "文件没有设置所有者"
     },
     "resources_tab.libraries.filter.no_results": {
-        "string": "選択したフィルターと一致するライブラリはありません。"
+        "string": "没有符合选择过滤条件的库。"
     },
     "resources_tab.libraries.filters": {
-        "string": "フィルター"
+        "string": "过滤器"
     },
     "resources_tab.libraries.filters_applied": {
-        "string": "{numActiveFilters, plural, other {{numActiveFilters}個のフィルターを適用済み}}"
+        "string": "{numActiveFilters, plural, other {已应用{numActiveFilters}个过滤器}}"
     },
     "resources_tab.libraries.last_published": {
-        "string": "最新の公開"
+        "string": "最后发布"
     },
     "resources_tab.libraries.library_name": {
-        "string": "ライブラリ名"
+        "string": "库名称"
     },
     "resources_tab.libraries.library_owner": {
-        "string": "ライブラリオーナー"
+        "string": "库所有者"
     },
     "resources_tab.libraries.manage_library_for": {
-        "string": "{orgOrWorkspaceName}のライブラリを管理"
+        "string": "管理{orgOrWorkspaceName}的库"
     },
     "resources_tab.libraries.manage_this_library": {
-        "string": "このライブラリを管理"
+        "string": "管理此库"
     },
     "resources_tab.libraries.name": {
-        "string": "ライブラリ名"
+        "string": "库名称"
     },
     "resources_tab.libraries.no_libraries_text": {
-        "string": "組織には承認済みライブラリがまだありません。"
+        "string": "组织中尚无已批准的库。"
     },
     "resources_tab.libraries.no_subscriptions": {
         "string": "—"
     },
     "resources_tab.libraries.none": {
-        "string": "なし"
+        "string": "无"
     },
     "resources_tab.libraries.on": {
-        "string": "対象"
+        "string": "启用"
     },
     "resources_tab.libraries.open_library_file": {
-        "string": "ライブラリファイルを開く"
+        "string": "打开库文件"
     },
     "resources_tab.libraries.organization": {
-        "string": "組織"
+        "string": "组织"
     },
     "resources_tab.libraries.search.label_with_ellipsis": {
-        "string": "ライブラリを検索..."
+        "string": "搜索库..."
     },
     "resources_tab.libraries.search.no_results": {
-        "string": "検索条件に一致するライブラリが見つかりませんでした。検索をやり直してください。"
+        "string": "没有找到符合搜索条件的库。请重新搜索。"
     },
     "resources_tab.libraries.show_all_libraries_button": {
-        "string": "すべてのライブラリを表示"
+        "string": "显示所有库"
     },
     "resources_tab.libraries.styles": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "resources_tab.libraries.subscription.all_files": {
-        "string": "すべてのファイル"
+        "string": "所有文件"
     },
     "resources_tab.libraries.subscription.custom": {
-        "string": "ユーザー設定"
+        "string": "自定义"
     },
     "resources_tab.libraries.subscription.design_files": {
-        "string": "デザインファイル"
+        "string": "设计文件"
     },
     "resources_tab.libraries.subscription.figjam_files": {
-        "string": "FigJamボード"
+        "string": "FigJam文件"
     },
     "resources_tab.libraries.subscription.off": {
-        "string": "オフ"
+        "string": "关闭"
     },
     "resources_tab.libraries.subscription.slides_files": {
-        "string": "スライドデッキ"
+        "string": "幻灯片文件"
     },
     "resources_tab.libraries.two_or_more_workspaces": {
-        "string": "{extraWorkspaceNum, plural, other {{workspaceNames}、他{extraWorkspaceNum}個のワークスペース}}"
+        "string": "{extraWorkspaceNum, plural, other {{workspaceNames}和其他{extraWorkspaceNum}个工作区}}"
     },
     "resources_tab.libraries.use_orgs_setting": {
-        "string": "{orgName}の設定を使用する"
+        "string": "使用{orgName}的设置"
     },
     "resources_tab.libraries.visibility_settings": {
-        "string": "このライブラリをデフォルトで有効にする"
+        "string": "默认启用此库"
     },
     "resources_tab.libraries.workspaces": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "resources_tab.shared_fonts_table.bulk_delete_fonts": {
-        "string": "{selectedFontsCount, plural, other {フォントを削除}}"
+        "string": "删除{selectedFontsCount, plural, other {字体}}"
     },
     "resources_tab.shared_fonts_table.delete_font": {
-        "string": "フォントを削除"
+        "string": "删除字体"
     },
     "resources_tab.shared_fonts_table.embedded_upload_fonts_link": {
-        "string": "フォントをアップロード"
+        "string": "上传字体"
     },
     "resources_tab.shared_fonts_table.font": {
-        "string": "フォント"
+        "string": "字体"
     },
     "resources_tab.shared_fonts_table.font_button_in_menu_bar": {
-        "string": "フォント"
+        "string": "字体"
     },
     "resources_tab.shared_fonts_table.list_of_styles": {
-        "string": "{numberOfStyles, plural, other {{numberOfStyles}スタイル: {instancesString}}}"
+        "string": "{numberOfStyles, plural, other {{numberOfStyles}种样式：{instancesString}}}"
     },
     "resources_tab.shared_fonts_table.no_fonts_match_your_search_query": {
-        "string": "検索条件に一致するフォントが見つかりませんでした。検索をやり直すか、{uploadFontsLink}してください。"
+        "string": "没有找到符合搜索条件的字体。请重新搜索或{uploadFontsLink}。"
     },
     "resources_tab.shared_fonts_table.no_shared_fonts_yet": {
-        "string": "組織には共有フォントがまだありません。"
+        "string": "组织中尚无共享字体。"
     },
     "resources_tab.shared_fonts_table.sample": {
-        "string": "サンプル"
+        "string": "示例"
     },
     "resources_tab.shared_fonts_table.search_fonts_placeholder_text_with_ellipsis": {
-        "string": "フォントを検索..."
+        "string": "搜索字体..."
     },
     "resources_tab.shared_fonts_table.upload_fonts_link": {
-        "string": "フォントをアップロード"
+        "string": "上传字体"
     },
     "resources_tab.shared_fonts_table.variable_font_badge": {
-        "string": "バリアブル"
+        "string": "可变字体"
     },
     "resources_tab.shared_fonts_table.version": {
-        "string": "バージョン"
+        "string": "版本"
     },
     "scim_metadata_display_text.cost_center": {
-        "string": "コストセンター"
+        "string": "成本中心"
     }
 }

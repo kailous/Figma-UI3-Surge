@@ -1,152 +1,152 @@
 {
     "fullscreen_actions.focus-mode-component-set-toggle": {
-        "string": "マルチ編集を切り替える"
+        "string": "切换多重编辑"
     },
     "fullscreen_actions.focus-mode-exit": {
-        "string": "フレームのフォーカスを解除"
+        "string": "退出框架聚焦"
     },
     "fullscreen_actions.focus-mode-responsive-set": {
-        "string": "レイアウトのオートフォーカス設定モードの切り替え"
+        "string": "切换布局自动聚焦设置模式"
     },
     "fullscreen_actions.focus_next_area": {
-        "string": "次のエリアにフォーカス"
+        "string": "聚焦到下一个区域"
     },
     "fullscreen_actions.focus_previous_area": {
-        "string": "前のエリアにフォーカス"
+        "string": "聚焦到上一个区域"
     },
     "fullscreen_actions.follow_presenter": {
-        "string": "プレゼンターをフォロー"
+        "string": "跟随演示者"
     },
     "fullscreen_actions.force-publish-state-group": {
-        "string": "選択されているコンポーネントを再公開"
+        "string": "重新发布所选组件"
     },
     "fullscreen_actions.force_merge_branch": {
-        "string": "ブランチのマージを強制"
+        "string": "强制合并分支"
     },
     "fullscreen_actions.force_update_from_main": {
-        "string": "メインからの更新を強制"
+        "string": "强制从主分支更新"
     },
     "fullscreen_actions.frame-selection": {
-        "string": "選択範囲のフレーム化"
+        "string": "框架化选择"
     },
     "fullscreen_actions.frame_tool": {
-        "string": "フレームツール"
+        "string": "框架工具"
     },
     "fullscreen_actions.get_desktop_app": {
-        "string": "デスクトップアプリを入手"
+        "string": "获取桌面应用"
     },
     "fullscreen_actions.group-selection": {
-        "string": "選択範囲のグループ化"
+        "string": "群组选择"
     },
     "fullscreen_actions.hide-section": {
-        "string": "セクションを非表示"
+        "string": "隐藏部分"
     },
     "fullscreen_actions.hide-sibling-layers": {
-        "string": "その他のレイヤーを非表示"
+        "string": "隐藏其他图层"
     },
     "fullscreen_actions.hide-sidebar": {
-        "string": "左サイドバーを隠す"
+        "string": "隐藏左侧边栏"
     },
     "fullscreen_actions.hide_help_ui": {
-        "string": "ヘルプUIを非表示"
+        "string": "隐藏帮助UI"
     },
     "fullscreen_actions.hide_selection": {
-        "string": "選択内容を非表示"
+        "string": "隐藏选择"
     },
     "fullscreen_actions.hot_reload_plugin": {
-        "string": "プラグインをホットリロード"
+        "string": "热重载插件"
     },
     "fullscreen_actions.ignore_constraints": {
-        "string": "制約を無視"
+        "string": "忽略约束"
     },
     "fullscreen_actions.ignore_constraints_frames_only": {
-        "string": "トリミング(画像)/制約を無視(フレーム)"
+        "string": "裁剪（图像）/忽略约束（框架）"
     },
     "fullscreen_actions.import": {
-        "string": "インポート…"
+        "string": "导入..."
     },
     "fullscreen_actions.import-from-csv": {
-        "string": "CSVからインポート..."
+        "string": "从CSV导入..."
     },
     "fullscreen_actions.insert-component-right-text": {
-        "string": "from {name}"
+        "string": "来自 {name}"
     },
     "fullscreen_actions.inspect-fragment": {
-        "string": "フラグメントをインスペクト"
+        "string": "检查片段"
     },
     "fullscreen_actions.join-selection": {
-        "string": "選択範囲を結合"
+        "string": "合并选择"
     },
     "fullscreen_actions.keyboard_shortcuts_panel.component-search": {
-        "string": "コンポーネント検索"
+        "string": "组件搜索"
     },
     "fullscreen_actions.keyboard_shortcuts_panel.insert": {
-        "string": "挿入"
+        "string": "插入"
     },
     "fullscreen_actions.leave_edit_mode": {
-        "string": "完了"
+        "string": "完成"
     },
     "fullscreen_actions.line_tool": {
-        "string": "線ツール"
+        "string": "线条工具"
     },
     "fullscreen_actions.link_copied": {
-        "string": "リンクをコピーしました"
+        "string": "链接已复制"
     },
     "fullscreen_actions.live-boolean-intersect": {
-        "string": "選択範囲の交差"
+        "string": "交叉选择"
     },
     "fullscreen_actions.live-boolean-subtract": {
-        "string": "選択範囲の型抜き"
+        "string": "减去选择"
     },
     "fullscreen_actions.live-boolean-union": {
-        "string": "選択範囲の結合"
+        "string": "联合选择"
     },
     "fullscreen_actions.live-boolean-xor": {
-        "string": "選択範囲の中マド"
+        "string": "异或选择"
     },
     "fullscreen_actions.main-component": {
-        "string": "メインコンポーネント"
+        "string": "主组件"
     },
     "fullscreen_actions.main_menu": {
-        "string": "メインメニュー"
+        "string": "主菜单"
     },
     "fullscreen_actions.manage-plugins": {
-        "string": "プラグインを管理..."
+        "string": "管理插件..."
     },
     "fullscreen_actions.manage-widgets": {
-        "string": "ウィジェットを管理..."
+        "string": "管理小部件..."
     },
     "fullscreen_actions.manage_plugins_in_development": {
-        "string": "開発中のプラグインを管理"
+        "string": "管理开发中的插件"
     },
     "fullscreen_actions.manage_widgets_in_development": {
-        "string": "開発中のウィジェットを管理"
+        "string": "管理开发中的小部件"
     },
     "fullscreen_actions.mask-selection": {
-        "string": "マスクとして使用"
+        "string": "使用为蒙版"
     },
     "fullscreen_actions.measure_to_selection": {
-        "string": "選択範囲までの距離の測定"
+        "string": "测量到选择"
     },
     "fullscreen_actions.minimize-ui": {
-        "string": "UIを最小化"
+        "string": "最小化UI"
     },
     "fullscreen_actions.missing-plugin": {
-        "string": "{pluginCommand} ({pluginName}を実行)"
+        "string": "{pluginCommand}（运行{pluginName}）"
     },
     "fullscreen_actions.move-table-column-left": {
-        "string": "列を左へ"
+        "string": "向左移动列"
     },
     "fullscreen_actions.move-table-column-right": {
-        "string": "列を右へ"
+        "string": "向右移动列"
     },
     "fullscreen_actions.move-table-row-down": {
-        "string": "行を下へ"
+        "string": "向下移动行"
     },
     "fullscreen_actions.move-table-row-up": {
-        "string": "行を上へ"
+        "string": "向上移动行"
     },
     "fullscreen_actions.move_down": {
-        "string": "下に移動"
+        "string": "向下移动"
     }
 }

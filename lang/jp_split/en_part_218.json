@@ -1,152 +1,152 @@
 {
     "members_table.csv_export.preparing_request": {
-        "string": "CSVリクエストを準備中"
+        "string": "正在准备CSV请求"
     },
     "members_table.dev_mode.requires_org_admin_opt_in": {
-        "string": "このシートをアップグレードするには、事前に組織管理者が開発モードを有効にする必要があります"
+        "string": "要升级此席位，组织管理员需要先启用开发模式"
     },
     "members_table.dev_mode_cell.beta_user_needs_upgrade": {
-        "string": "このメンバーは1月31日に開発モードにアップグレードする必要があります"
+        "string": "该成员需要在1月31日升级到开发模式"
     },
     "members_table.dev_mode_cell.included_with_design_tooltip": {
-        "string": "フルデザインシートに含まれます"
+        "string": "包含在完整设计席位中"
     },
     "members_table.idp_user.pending_invite": {
-        "string": "このユーザーには保留中の招待があります"
+        "string": "此用户有一个待处理的邀请"
     },
     "members_table.idp_user.user_provisioned": {
-        "string": "このユーザーはSCIMでプロビジョニングされています。お使いのIdPでこのユーザーを管理できます。"
+        "string": "此用户通过SCIM配置。可以在您的IdP中管理此用户。"
     },
     "members_table.invite_users_button": {
-        "string": "ユーザーを招待"
+        "string": "邀请用户"
     },
     "members_table.last_active_filter.more_than_a_year_ago": {
-        "string": "1年以上前"
+        "string": "一年多前"
     },
     "members_table.last_active_filter.more_than_six_months_ago": {
-        "string": "6か月以上前"
+        "string": "六个月多前"
     },
     "members_table.last_active_filter.more_than_three_months_ago": {
-        "string": "3か月以上前"
+        "string": "三个月多前"
     },
     "members_table.last_edit_filter.more_than_a_year_ago": {
-        "string": "1年以上前"
+        "string": "一年多前"
     },
     "members_table.last_edit_filter.more_than_six_months_ago": {
-        "string": "6か月以上前"
+        "string": "六个月多前"
     },
     "members_table.last_edit_filter.more_than_three_months_ago": {
-        "string": "3か月以上前"
+        "string": "三个月多前"
     },
     "members_table.license_group_cell.unassign": {
-        "string": "割り当て解除"
+        "string": "取消分配"
     },
     "members_table.license_group_update_date": {
         "string": "{updateDate, date, medium}"
     },
     "members_table.menu_bar_filter.account_type": {
-        "string": "アカウントの種類"
+        "string": "账户类型"
     },
     "members_table.menu_bar_filter.billing_group": {
-        "string": "請求グループ"
+        "string": "账单组"
     },
     "members_table.menu_bar_filter.last_active": {
-        "string": "最後にアクティブだった日"
+        "string": "最后活跃时间"
     },
     "members_table.menu_bar_filter.last_edit": {
-        "string": "最終編集日"
+        "string": "最后编辑时间"
     },
     "members_table.menu_bar_filter.new_since_last_invoice": {
-        "string": "最終請求後に追加"
+        "string": "上次账单后新增"
     },
     "members_table.menu_bar_filter.product": {
-        "string": "製品"
+        "string": "产品"
     },
     "members_table.menu_bar_filter.role.seat_rename": {
-        "string": "シートタイプ"
+        "string": "席位类型"
     },
     "members_table.menu_bar_filter.scim_group": {
-        "string": "SCIMグループ"
+        "string": "SCIM组"
     },
     "members_table.menu_bar_filter.workspace": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "members_table.no_members_match_your_search_query": {
-        "string": "検索条件に一致するメンバーが見つかりませんでした。検索をやり直してください。"
+        "string": "未找到符合搜索条件的成员，请重试。"
     },
     "members_table.no_members_to_show": {
-        "string": "表示するメンバーがありません。"
+        "string": "没有成员可显示。"
     },
     "members_table.org_invite_menu.copy_email": {
-        "string": "メールのコピー"
+        "string": "复制邮箱"
     },
     "members_table.org_invite_menu.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "members_table.org_invite_menu.resend_invite": {
-        "string": "招待を再送信"
+        "string": "重新发送邀请"
     },
     "members_table.org_permission_filter.admin": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "members_table.org_permission_filter.guest": {
-        "string": "ゲスト"
+        "string": "访客"
     },
     "members_table.org_permission_filter.member": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "members_table.org_permission_filter.pending": {
-        "string": "保留中"
+        "string": "待处理"
     },
     "members_table.org_permission_filter.unverified": {
-        "string": "未確認"
+        "string": "未验证"
     },
     "members_table.org_user_menu.copy_email": {
-        "string": "メールのコピー"
+        "string": "复制邮箱"
     },
     "members_table.org_user_menu.grant_admin_access": {
-        "string": "管理者アクセス権の付与"
+        "string": "授予管理员权限"
     },
     "members_table.org_user_menu.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "members_table.org_user_menu.resend_verification": {
-        "string": "確認メールの再送信"
+        "string": "重新发送验证邮件"
     },
     "members_table.org_user_menu.revoke_admin_access": {
-        "string": "管理者アクセス権の取り消し"
+        "string": "撤销管理员权限"
     },
     "members_table.org_user_menu.view_guest_access": {
-        "string": "ゲストアクセス権の表示"
+        "string": "查看访客访问权限"
     },
     "members_table.org_user_menu.view_user_activity": {
-        "string": "ユーザーアクティビティーの表示"
+        "string": "查看用户活动"
     },
     "members_table.org_user_name_cell.pending_badge": {
-        "string": "保留中"
+        "string": "待处理"
     },
     "members_table.org_user_name_cell.pending_scim_badge": {
-        "string": "保留中(SCIM)"
+        "string": "待处理（SCIM）"
     },
     "members_table.org_user_name_cell.scim_badge": {
         "string": "SCIM"
     },
     "members_table.remove_users_button": {
-        "string": "{userCount, plural, other {ユーザーを削除}}"
+        "string": "删除{userCount}个用户"
     },
     "members_table.resend_verification_button": {
-        "string": "確認メールを再送信"
+        "string": "重新发送验证邮件"
     },
     "members_table.role_filter.dev_mode_only": {
-        "string": "開発モードのみ"
+        "string": "仅开发模式"
     },
     "members_table.role_idp_tooltip.seat_rename": {
-        "string": "シートタイプがお使いのIdPでプロビジョニングされています"
+        "string": "席位类型通过您的IdP配置"
     },
     "members_table.scim_menu.copy_email": {
-        "string": "メールのコピー"
+        "string": "复制邮箱"
     },
     "members_table.true_up.banner.button": {
-        "string": "請求書の確認と確定"
+        "string": "查看并确认账单"
     }
 }

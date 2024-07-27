@@ -1,152 +1,152 @@
 {
     "teams_table.this_action_cannot_be_applied_to_all_selected_teams": {
-        "string": "このアクションは選択したチームすべてには適用できません"
+        "string": "此操作无法应用于所有选定的团队"
     },
     "teams_table.transfer": {
-        "string": "移転"
+        "string": "转移"
     },
     "teams_table.transfer_team": {
-        "string": "チームを移転"
+        "string": "转移团队"
     },
     "teams_table.view_projects": {
-        "string": "プロジェクトを表示する"
+        "string": "查看项目"
     },
     "teams_table.view_settings": {
-        "string": "設定を表示"
+        "string": "查看设置"
     },
     "teams_table.view_team_members": {
-        "string": "メンバーを表示する"
+        "string": "查看成员"
     },
     "teams_table.your_organization_does_not_have_any_teams_yet": {
-        "string": "組織にはチームがまだありません。"
+        "string": "组织中还没有团队。"
     },
     "update_company_details_modal.update_display_name.error": {
-        "string": "現在、チームの表示名を更新できません"
+        "string": "目前无法更新团队的显示名称"
     },
     "update_company_details_modal.update_legal_name_and_shipping_address.error": {
-        "string": "現在、配送先住所または正式名を更新できません。配送先住所を確認し、必要な場合はもう一度お試しください。"
+        "string": "目前无法更新配送地址或法定名称。请检查配送地址并重试。"
     },
     "update_company_details_modal.update_legal_name_and_shipping_address.success": {
-        "string": "配送先住所と正式名の更新が完了しました。"
+        "string": "配送地址和法定名称已更新。"
     },
     "update_company_details_modal.update_team_name.error": {
-        "string": "現在、チーム名またはチームの正式名を更新できません"
+        "string": "目前无法更新团队名称或法定团队名称"
     },
     "update_company_details_modal.update_team_name.success": {
-        "string": "チームとチームの正式名の更新が完了しました。"
+        "string": "团队名称和法定团队名称已更新。"
     },
     "update_company_details_modal.updateshipping_address.error": {
-        "string": "現在、配送先住所を更新できません"
+        "string": "目前无法更新配送地址"
     },
     "workspace.create_confirmation_modal.confirm": {
-        "string": "ワークスペースを作成"
+        "string": "创建工作区"
     },
     "workspace.create_confirmation_modal.description.intro": {
-        "string": "ワークスペースを初めて作成すると、組織のメンバーは次の新機能がすぐに使えるようになります。"
+        "string": "第一次创建工作区后，组织成员将立即可以使用以下新功能。"
     },
     "workspace.create_confirmation_modal.description.list.browsing": {
-        "string": "ワークスペースを見つけるためのブラウジング体験"
+        "string": "浏览以查找工作区"
     },
     "workspace.create_confirmation_modal.description.list.libraries": {
-        "string": "ライブラリモーダルでライブラリがワークスペース別に整理されます"
+        "string": "在库模式中按工作区组织的库"
     },
     "workspace.create_confirmation_modal.description.list.prompt": {
-        "string": "ワークスペースを選択するプロンプト(有効にしている場合)"
+        "string": "选择工作区的提示（如果已启用）"
     },
     "workspace.create_confirmation_modal.description.list.search": {
-        "string": "検索結果をワークスペースでフィルタリングできます"
+        "string": "按工作区筛选搜索结果"
     },
     "workspace.create_confirmation_modal.description.list.section": {
-        "string": "サイドバーの{workspace}セクション"
+        "string": "侧边栏中的{workspace}部分"
     },
     "workspace.create_confirmation_modal.description.list.section.workspace": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "workspace.create_confirmation_modal.description.outro": {
-        "string": "これらの機能に関する{learnMore}するか、ご不明な点がございましたら、アカウントマネージャーにお問い合わせください。"
+        "string": "有关这些功能的更多信息，请{learnMore}，如有任何疑问，请联系客户经理。"
     },
     "workspace.create_confirmation_modal.description.outro.learn_more": {
-        "string": "詳細を表示"
+        "string": "了解更多"
     },
     "workspace.create_confirmation_modal.title": {
-        "string": "このワークスペースを作成しますか?"
+        "string": "确定要创建此工作区吗？"
     },
     "workspace_table.admin_input_placeholder": {
-        "string": "メールアドレスまたは名前を追加"
+        "string": "添加电子邮件或姓名"
     },
     "workspace_table.admins": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "workspace_table.admins_input": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "workspace_table.admins_will_manage_input_help_text": {
-        "string": "これらのユーザーがワークスペースを積極的に管理することになります。"
+        "string": "这些用户将积极管理工作区。"
     },
     "workspace_table.an_error_occurred_while_deleting_workspaces": {
-        "string": "ワークスペースの削除中にエラーが発生しました"
+        "string": "删除工作区时发生错误"
     },
     "workspace_table.are_you_sure_you_want_to_delete_these_workspaces": {
-        "string": "{licenseGroupsCount, plural, other {これらのワークスペースを削除しますか?}}"
+        "string": "确定要删除这些工作区吗？"
     },
     "workspace_table.cancel_create_or_edit": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "workspace_table.create_workspace_button": {
-        "string": "ワークスペースを作成"
+        "string": "创建工作区"
     },
     "workspace_table.create_workspace_title": {
-        "string": "ワークスペースを作成"
+        "string": "创建工作区"
     },
     "workspace_table.delete_n_workspaces": {
-        "string": "{licenseGroupsCount, plural, other {{licenseGroupsCount}件のワークスペースを削除}}"
+        "string": "删除{licenseGroupsCount}个工作区"
     },
     "workspace_table.deleting_the_workspaces_will_cause": {
-        "string": "{licenseGroupsCount, plural, other {{licenseGroupsNames}ワークスペースを削除すると、ワークスペースのすべてのメンバーとチームが「未割り当て」に移動します。}}"
+        "string": "删除{licenseGroupsNames}工作区将导致工作区的所有成员和团队移至“未分配”。"
     },
     "workspace_table.edit_details": {
-        "string": "詳細を編集"
+        "string": "编辑详细信息"
     },
     "workspace_table.edit_workspace_title": {
-        "string": "ワークスペースを編集"
+        "string": "编辑工作区"
     },
     "workspace_table.empty_state.approve_libraries.subtitle": {
-        "string": "各ワークスペースに最適なライブラリをメンバーに知らせましょう。"
+        "string": "让成员知道每个工作区最适合的库。"
     },
     "workspace_table.empty_state.approve_libraries_and_assets": {
-        "string": "ライブラリとアセットを利用可能にする"
+        "string": "启用库和资产"
     },
     "workspace_table.empty_state.let_workspaces_be_unique": {
-        "string": "ワークスペースに独自性を出す"
+        "string": "让工作区独一无二"
     },
     "workspace_table.empty_state.let_workspaces_be_unique.subtitle": {
-        "string": "管理者はバナー、アイコンなどを使用して自分のワークスペースの独自性を出すことができます。"
+        "string": "管理员可以使用横幅、图标等使其工作区独一无二。"
     },
     "workspace_table.empty_state.manage_access_and_plugins": {
-        "string": "アクセスとプラグインを管理"
+        "string": "管理访问和插件"
     },
     "workspace_table.empty_state.manage_access_and_plugins.subtitle": {
-        "string": "各ワークスペースのファイルリンクの共有方法とプラグインを使用できる場所を制御します。"
+        "string": "控制如何共享每个工作区的文件链接以及在哪里可以使用插件。"
     },
     "workspace_table.empty_state.subtitle": {
-        "string": "作業内容、共同作業者や雰囲気などに応じてチームをグループ化します。"
+        "string": "根据工作内容、协作者和氛围对团队进行分组。"
     },
     "workspace_table.empty_state.title": {
-        "string": "ワークスペースを作成してチームの整理を開始"
+        "string": "创建工作区并开始整理团队"
     },
     "workspace_table.make_it_hidden": {
-        "string": "非表示にする"
+        "string": "设为隐藏"
     },
     "workspace_table.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "workspace_table.n_members": {
-        "string": "{count, plural, other {{count}人のメンバー}}"
+        "string": "{count}个成员"
     },
     "workspace_table.n_teams": {
-        "string": "{count, plural, other {{count}チーム}}"
+        "string": "{count}个团队"
     },
     "workspace_table.name": {
-        "string": "名前"
+        "string": "名称"
     }
 }

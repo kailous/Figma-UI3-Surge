@@ -1,152 +1,152 @@
 {
     "settings_tab.disabled": {
-        "string": "無効"
+        "string": "禁用"
     },
     "settings_tab.discovery.description": {
-        "string": "ダウンロード可能なファイルによって、組織からのテキストベースのコミュニケーションを抽出します。{learnMoreLink}"
+        "string": "通过可下载文件提取来自组织的基于文本的通信。{learnMoreLink}"
     },
     "settings_tab.discovery.label": {
-        "string": "ディスカバリーAPI"
+        "string": "发现API"
     },
     "settings_tab.domain_capture_contact_support_tooltip_copy": {
-        "string": "ドメインキャプチャーを有効にしてこの設定を更新する必要があります。開始するには、admin-support@figma.comにメールを送信してください。"
+        "string": "您需要启用域捕获以更新此设置。要开始，请发送电子邮件至admin-support@figma.com。"
     },
     "settings_tab.domain_list": {
-        "string": "{numDomains, plural, other {現在のドメイン: {domains}}}"
+        "string": "{numDomains, plural, other {当前域名: {domains}}}"
     },
     "settings_tab.domain_management_description": {
-        "string": "組織に関連付けるドメインを管理します。"
+        "string": "管理与组织关联的域名。"
     },
     "settings_tab.domain_management_label": {
-        "string": "ドメインの管理"
+        "string": "域名管理"
     },
     "settings_tab.enable_community_file_publishing_success": {
-        "string": "コミュニティユーザー公開が有効です"
+        "string": "社区用户发布已启用"
     },
     "settings_tab.enable_cursor_chat_success": {
-        "string": "カーソルチャット有効"
+        "string": "光标聊天已启用"
     },
     "settings_tab.enable_plugin_approval_success": {
-        "string": "プラグインは、承認済みリストのプラグインに制限されました"
+        "string": "插件已限制为批准的列表插件"
     },
     "settings_tab.enabled": {
-        "string": "有効"
+        "string": "启用"
     },
     "settings_tab.external_collaboration_controls_description": {
-        "string": "メンバーが{orgName}以外からファイル、プロジェクト、チームにアクセスする方法を選択"
+        "string": "选择成员从{orgName}以外访问文件、项目和团队的方式"
     },
     "settings_tab.external_collaboration_controls_label": {
-        "string": "外部コンテンツへのアクセス"
+        "string": "外部内容访问"
     },
     "settings_tab.guest_membership_description": {
-        "string": "外部ユーザーが組織にゲストとして参加する方法を制御します。"
+        "string": "控制外部用户作为客人加入组织的方式。"
     },
     "settings_tab.guest_membership_label": {
-        "string": "ゲストメンバーシップ"
+        "string": "访客会员"
     },
     "settings_tab.idle_session_timeout.configured_time_description.maximum": {
-        "string": "最大{duration}まで選択できます。"
+        "string": "最多可选择{duration}。"
     },
     "settings_tab.idle_session_timeout.configured_time_description.minimum": {
-        "string": "最小{duration}まで選択できます。"
+        "string": "最少可选择{duration}。"
     },
     "settings_tab.idle_session_timeout.time.days": {
-        "string": "{duration, plural, other {{duration}日}}"
+        "string": "{duration, plural, other {{duration}天}}"
     },
     "settings_tab.idle_session_timeout.time.hours": {
-        "string": "{duration, plural, other {{duration}時間}}"
+        "string": "{duration, plural, other {{duration}小时}}"
     },
     "settings_tab.idle_session_timeout.time.minutes": {
-        "string": "{duration, plural, other {{duration}分}}"
+        "string": "{duration, plural, other {{duration}分钟}}"
     },
     "settings_tab.idle_session_timeout_default_duration": {
-        "string": "既定値(21日間)"
+        "string": "默认值（21天）"
     },
     "settings_tab.idle_session_timeout_description": {
-        "string": "何も操作が行われていなアカウントを自動的にログアウトする時間を選択します"
+        "string": "选择在账户闲置多长时间后自动注销账户"
     },
     "settings_tab.idle_session_timeout_label": {
-        "string": "アイドルセッションタイムアウト"
+        "string": "闲置会话超时"
     },
     "settings_tab.idle_session_timeout_settings_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "settings_tab.idle_session_timeout_settings_modal.configured_choice_description": {
-        "string": "カスタムタイムアウト"
+        "string": "自定义超时"
     },
     "settings_tab.idle_session_timeout_settings_modal.configured_choice_subtitle": {
-        "string": "以前に何も操作が行われていないアカウントをログアウト"
+        "string": "在账户闲置一段时间后自动注销"
     },
     "settings_tab.idle_session_timeout_settings_modal.days": {
-        "string": "{timeAmount, plural, other {日}}"
+        "string": "{timeAmount, plural, other {天}}"
     },
     "settings_tab.idle_session_timeout_settings_modal.default_choice_description": {
-        "string": "デフォルトタイムアウト"
+        "string": "默认超时"
     },
     "settings_tab.idle_session_timeout_settings_modal.default_choice_timeframe": {
-        "string": "21日間何も操作が行われないと、ログアウトします。"
+        "string": "在21天内闲置将自动注销。"
     },
     "settings_tab.idle_session_timeout_settings_modal.description": {
-        "string": "一定期間何も操作が行われないと、組織のアカウントを自動的にログアウトします。"
+        "string": "在一段时间内没有活动后，自动注销组织账户。"
     },
     "settings_tab.idle_session_timeout_settings_modal.header": {
-        "string": "アイドルセッションタイムアウト"
+        "string": "闲置会话超时"
     },
     "settings_tab.idle_session_timeout_settings_modal.hours": {
-        "string": "{timeAmount, plural, other {時間}}"
+        "string": "{timeAmount, plural, other {小时}}"
     },
     "settings_tab.idle_session_timeout_settings_modal.minutes": {
-        "string": "{timeAmount, plural, other {分}}"
+        "string": "{timeAmount, plural, other {分钟}}"
     },
     "settings_tab.idle_session_timeout_settings_modal.save": {
         "string": "保存"
     },
     "settings_tab.idle_session_timeout_settings_modal.warning_description": {
-        "string": "新しい制限がただちに有効になります。使用されていないアカウントはすべてログアウトされます。"
+        "string": "新限制将立即生效。所有未使用的账户将被注销。"
     },
     "settings_tab.invalid_url_allowlist": {
-        "string": "このプラグインは組織の許可リストにありません"
+        "string": "此插件不在组织的允许列表中"
     },
     "settings_tab.ip_allowlist_description": {
-        "string": "組織にアクセスする際にメンバーが使用するIPアドレスを指定します"
+        "string": "指定成员在访问组织时使用的IP地址"
     },
     "settings_tab.ip_allowlist_domain_capture_tooltip": {
-        "string": "IP許可リストを有効にするにはドメインキャプチャーが必要です。ドメインキャプチャーをオンにするには、サポートに連絡してください。"
+        "string": "启用IP允许列表需要域捕获。请联系支持启用域捕获。"
     },
     "settings_tab.ip_allowlist_label": {
-        "string": "IP許可リストの設定"
+        "string": "IP允许列表设置"
     },
     "settings_tab.ip_allowlist_modal.allowed_ranges": {
-        "string": "許可されているIP範囲"
+        "string": "允许的IP范围"
     },
     "settings_tab.ip_allowlist_modal.enable": {
-        "string": "IP許可リストを有効にする"
+        "string": "启用IP允许列表"
     },
     "settings_tab.ip_allowlist_modal.enable_description": {
-        "string": "指定したIPアドレスからの組織へのログインだけをメンバーに許可します"
+        "string": "仅允许成员从指定的IP地址登录组织"
     },
     "settings_tab.ip_allowlist_modal.input_instructions": {
-        "string": "IPv4アドレスをコンマで区切って入力します"
+        "string": "用逗号分隔输入IPv4地址"
     },
     "settings_tab.ip_allowlist_modal.not_applied_to_guests": {
-        "string": "注: このポリシーは、組織のゲストには適用されません。"
+        "string": "注意：此策略不适用于组织的访客。"
     },
     "settings_tab.ip_allowlist_modal.save": {
         "string": "保存"
     },
     "settings_tab.ip_allowlist_ranges_list": {
-        "string": "現在のIP範囲: {ranges}"
+        "string": "当前IP范围：{ranges}"
     },
     "settings_tab.ip_restriction_description": {
-        "string": "{orgName}ネットワークでのFigmaへのアクセスを{orgName}組織へのアクセス権のあるアカウントにのみ許可する場合に選択します。"
+        "string": "如果希望Figma在{orgName}网络上仅允许访问{orgName}组织的账户，请选择此选项。"
     },
     "settings_tab.ip_restriction_range": {
-        "string": "現在のIP範囲: {ipRanges}"
+        "string": "当前IP范围：{ipRanges}"
     },
     "settings_tab.member_metadata_description": {
-        "string": "[メンバー]タブに表示するSCIMメタデータを変更します"
+        "string": "更改[成员]选项卡中显示的SCIM元数据"
     },
     "settings_tab.member_metadata_label": {
-        "string": "メンバーのメタデータ"
+        "string": "成员元数据"
     }
 }

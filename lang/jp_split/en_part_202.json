@@ -1,75 +1,75 @@
 {
     "inspect_panel.properties.copy_code_hint_menu_path": {
-        "string": "コピー/貼り付けオプション->コードとしてコピー"
+        "string": "复制/粘贴选项->复制为代码"
     },
     "inspect_panel.properties.copy_code_hint_message": {
-        "string": "コードスニペットが必要な場合は、対象部分を右クリックし、{menu_path}の順に選択します"
+        "string": "如果需要代码片段，请右键点击所选部分，然后选择{menu_path}"
     },
     "inspect_panel.properties.dev_mode_upsell_message": {
-        "string": "開発モードにより、ハンドオフの簡略化、インスペクションのスピードアップ、VS CodeやStorybookなどのツールとの連携が可能です。"
+        "string": "开发模式可以简化交接，加快检查速度，并与VS Code和Storybook等工具集成。"
     },
     "inspect_panel.properties.fill": {
-        "string": "塗り"
+        "string": "填充"
     },
     "inspect_panel.properties.fixed": {
         "string": "固定"
     },
     "inspect_panel.properties.gap": {
-        "string": "間隔"
+        "string": "间距"
     },
     "inspect_panel.properties.height": {
-        "string": "高さ"
+        "string": "高度"
     },
     "inspect_panel.properties.hug": {
-        "string": "内包"
+        "string": "包裹"
     },
     "inspect_panel.properties.justify": {
-        "string": "両端揃え"
+        "string": "两端对齐"
     },
     "inspect_panel.properties.layout": {
-        "string": "レイアウト"
+        "string": "布局"
     },
     "inspect_panel.properties.left": {
         "string": "左"
     },
     "inspect_panel.properties.measurements_hint_message": {
-        "string": "距離を測定するには、対象を選択し、Option/Altを押したままカーソルを合わせるとその距離が表示されます。"
+        "string": "要测量距离，请选择对象并按住Option/Alt键，将光标悬停在目标上即可显示距离。"
     },
     "inspect_panel.properties.opacity": {
         "string": "不透明度"
     },
     "inspect_panel.properties.padding": {
-        "string": "パディング"
+        "string": "内边距"
     },
     "inspect_panel.properties.radius": {
         "string": "半径"
     },
     "inspect_panel.properties.rotation": {
-        "string": "回転"
+        "string": "旋转"
     },
     "inspect_panel.properties.top": {
         "string": "上"
     },
     "inspect_panel.properties.width": {
-        "string": "幅"
+        "string": "宽度"
     },
     "inspect_panel.property.content": {
-        "string": "コンテンツ"
+        "string": "内容"
     },
     "inspect_panel.property.effect_background_blur": {
-        "string": "背景のぼかし"
+        "string": "背景模糊"
     },
     "inspect_panel.property.effect_drop_shadow": {
-        "string": "ドロップシャドウ"
+        "string": "投影"
     },
     "inspect_panel.property.effect_inner_shadow": {
-        "string": "インナーシャドウ"
+        "string": "内阴影"
     },
     "inspect_panel.property.effect_layer_blur": {
-        "string": "レイヤーブラー"
+        "string": "图层模糊"
     },
     "inspect_panel.property.missing": {
-        "string": "(見つかりません)"
+        "string": "(未找到)"
     },
     "inspect_panel.property.mixed": {
         "string": "混合"
@@ -78,22 +78,22 @@
         "string": "(混合)"
     },
     "inspect_panel.property.remaining_more": {
-        "string": "残り{remaining}"
+        "string": "剩余{remaining}"
     },
     "inspect_panel.property.selected": {
-        "string": "{numberOfItems}個を選択"
+        "string": "已选择{numberOfItems}个"
     },
     "inspect_panel.property.text": {
-        "string": "テキスト"
+        "string": "文本"
     },
     "inspect_panel.shadows.blur": {
-        "string": "ぼかし範囲"
+        "string": "模糊范围"
     },
     "inspect_panel.shadows.spread_tooltip": {
-        "string": "広がり"
+        "string": "扩展"
     },
     "inspect_panel.shadows.title": {
-        "string": "シャドウ"
+        "string": "阴影"
     },
     "inspect_panel.shadows.x": {
         "string": "X"
@@ -102,51 +102,51 @@
         "string": "Y"
     },
     "inspect_panel.strokes.all_sides": {
-        "string": "すべてのスライド"
+        "string": "所有边"
     },
     "inspect_panel.strokes.bottom_side": {
         "string": "下"
     },
     "inspect_panel.strokes.cap_line_arrow": {
-        "string": "線矢印"
+        "string": "线条箭头"
     },
     "inspect_panel.strokes.cap_none": {
-        "string": "なし"
+        "string": "无"
     },
     "inspect_panel.strokes.cap_round": {
-        "string": "丸形"
+        "string": "圆形"
     },
     "inspect_panel.strokes.cap_square": {
-        "string": "正方形"
+        "string": "方形"
     },
     "inspect_panel.strokes.cap_triangle_arrow": {
-        "string": "三角形矢印"
+        "string": "三角箭头"
     },
     "inspect_panel.strokes.center_border": {
-        "string": "中央に配置"
+        "string": "居中边框"
     },
     "inspect_panel.strokes.inner_border": {
-        "string": "内側に配置"
+        "string": "内边框"
     },
     "inspect_panel.strokes.left_side": {
         "string": "左"
     },
     "inspect_panel.strokes.outer_border": {
-        "string": "外側に配置"
+        "string": "外边框"
     },
     "inspect_panel.strokes.right_side": {
         "string": "右"
     },
     "inspect_panel.strokes.title": {
-        "string": "ボーダー"
+        "string": "边框"
     },
     "inspect_panel.strokes.top_side": {
         "string": "上"
     },
     "inspect_panel.templates.no_templates_description": {
-        "string": "テンプレートの説明がありません"
+        "string": "没有模板描述"
     },
     "inspect_panel.typography.align": {
-        "string": "配置"
+        "string": "对齐"
     }
 }

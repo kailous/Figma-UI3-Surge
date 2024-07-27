@@ -1,152 +1,152 @@
 {
     "scim_metadata_display_text.department": {
-        "string": "部門"
+        "string": "部门"
     },
     "scim_metadata_display_text.division": {
-        "string": "課"
+        "string": "课"
     },
     "scim_metadata_display_text.organization": {
-        "string": "組織"
+        "string": "组织"
     },
     "setting_tab.public_sharing.modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "setting_tab.public_sharing.modal.days": {
-        "string": "日"
+        "string": "天"
     },
     "setting_tab.public_sharing.modal.days_error": {
-        "string": "小数点や英字を含まない、1から31の間の数字を追加してください"
+        "string": "请添加一个不含小数点或字母的1到31之间的数字"
     },
     "setting_tab.public_sharing.modal.description": {
-        "string": "組織のコンテンツの公開共有の方法を選択します。"
+        "string": "选择组织内容的公开共享方式。"
     },
     "setting_tab.public_sharing.modal.expiration_description": {
-        "string": "Figmaデザインリンクの外部アクセス可能期間を選択します。"
+        "string": "选择Figma设计链接的外部访问期限。"
     },
     "setting_tab.public_sharing.modal.expiration_required": {
-        "string": "デザインファイルのリンクの有効期間を設定"
+        "string": "设置设计文件链接的有效期限"
     },
     "setting_tab.public_sharing.modal.hours": {
-        "string": "時間"
+        "string": "小时"
     },
     "setting_tab.public_sharing.modal.hours_error": {
-        "string": "小数点や英字を含まない、1から24の間の数字を追加してください"
+        "string": "请添加一个不含小数点或字母的1到24之间的数字"
     },
     "setting_tab.public_sharing.modal.open_sessions_header": {
-        "string": "FigJamオープンセッション"
+        "string": "FigJam开放会话"
     },
     "setting_tab.public_sharing.modal.open_sessions_toggle": {
-        "string": "すべてのユーザーがFigJamファイルの編集と操作を24時間できるようにします。"
+        "string": "允许所有用户在24小时内编辑和操作FigJam文件。"
     },
     "setting_tab.public_sharing.modal.password_required": {
-        "string": "パスワードを要求する"
+        "string": "需要密码"
     },
     "setting_tab.public_sharing.modal.public_link_sharing_header": {
-        "string": "公開リンク共有"
+        "string": "公开链接共享"
     },
     "setting_tab.public_sharing.modal.public_link_sharing_toggle": {
-        "string": "組織外の誰とでもリンクを共有できるようにします。"
+        "string": "允许与组织外的任何人共享链接。"
     },
     "setting_tab.public_sharing.modal.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "setting_tab.public_sharing.modal.save": {
         "string": "保存"
     },
     "setting_tab.remove_custom_workspace_setting_warning": {
-        "string": "{workspaceName}の公開共有の設定がデフォルトに戻ります。"
+        "string": "{workspaceName}的公开共享设置将恢复为默认值。"
     },
     "setting_tab.successfully_updated_workspace_public_link_controls": {
-        "string": "ワークスペースの公開リンク設定を更新しました"
+        "string": "已更新工作区的公开链接设置"
     },
     "settings_tab.add_domain_description": {
-        "string": "追加するドメインのユーザーを組織のメンバーにできます"
+        "string": "将要添加的域名用户设置为组织成员"
     },
     "settings_tab.add_domain_label": {
-        "string": "組織にドメインを追加"
+        "string": "向组织添加域名"
     },
     "settings_tab.add_workspace_label": {
-        "string": "ワークスペースを追加"
+        "string": "添加工作区"
     },
     "settings_tab.ai_beta.figma_and_figjam_ai": {
-        "string": "FigmaおよびFigJam AI"
+        "string": "Figma和FigJam AI"
     },
     "settings_tab.ai_beta.let_users_access_ai_features": {
-        "string": "AI機能にユーザーがアクセスできるようにします。 {learnMoreLink}"
+        "string": "允许用户访问AI功能。 {learnMoreLink}"
     },
     "settings_tab.audio_description": {
-        "string": "ユーザーが組織のファイルで音声を使用できるようにします"
+        "string": "允许用户在组织文件中使用音频"
     },
     "settings_tab.audio_disabled": {
-        "string": "組織のファイルで音声が無効になっています"
+        "string": "音频在组织文件中已禁用"
     },
     "settings_tab.audio_enabled": {
-        "string": "ユーザーが組織のファイル内で音声を使用できるようになりました"
+        "string": "用户现在可以在组织文件中使用音频"
     },
     "settings_tab.audio_label": {
-        "string": "音声"
+        "string": "音频"
     },
     "settings_tab.authentication_description": {
-        "string": "ユーザーのFigmaへのログインと認証の方法を変更します"
+        "string": "更改用户登录和认证Figma的方法"
     },
     "settings_tab.authentication_label": {
-        "string": "認証"
+        "string": "认证"
     },
     "settings_tab.auto_run_description": {
-        "string": "ファイルを開いたら自動的に実行するようにプラグインを設定します。"
+        "string": "设置插件在打开文件时自动运行。"
     },
     "settings_tab.auto_run_label": {
-        "string": "プラグインの自動実行"
+        "string": "自动运行插件"
     },
     "settings_tab.auto_run_remove_plugin": {
-        "string": "プラグインを削除"
+        "string": "删除插件"
     },
     "settings_tab.change_vat_gst_id": {
-        "string": "法人としてFigmaプランを支払う場合は、VATまたはGST識別番号を追加します。"
+        "string": "如果以法人名义支付Figma计划，请添加VAT或GST识别号。"
     },
     "settings_tab.codegen_language_description": {
-        "string": "開発モードのデフォルトのコーディング言語を選択します。"
+        "string": "选择开发模式的默认编码语言。"
     },
     "settings_tab.codegen_language_dropdown_label": {
-        "string": "言語"
+        "string": "语言"
     },
     "settings_tab.codegen_language_label": {
-        "string": "デフォルトのコーディング言語"
+        "string": "默认编码语言"
     },
     "settings_tab.codegen_language_unit_dropdown_label": {
-        "string": "単位"
+        "string": "单位"
     },
     "settings_tab.community_commenters_description": {
-        "string": "組織のリソースへのコメント投稿が制限されているコミュニティメンバーを管理します"
+        "string": "管理在组织资源上发表评论受限的社区成员"
     },
     "settings_tab.community_commenters_label": {
-        "string": "制限されているコメント投稿者"
+        "string": "受限评论者"
     },
     "settings_tab.community_file_publishing_description": {
-        "string": "組織管理者がコミュニティのパーソナルプロフィールにファイルを公開することを許可"
+        "string": "允许组织管理员在社区的个人资料中发布文件"
     },
     "settings_tab.community_file_publishing_label": {
-        "string": "コミュニティファイル公開"
+        "string": "社区文件发布"
     },
     "settings_tab.configured_upgrade_request_flow.description_all_users": {
-        "string": "お客様の組織では、アップグレードを申請するすべてのユーザーが独自のURLにリダイレクトされます。これを変更するか、無効にするには、サポートに連絡してください。"
+        "string": "在您的组织中，申请升级的所有用户都会被重定向到一个自定义URL。若要更改或禁用此功能，请联系支持。"
     },
     "settings_tab.configured_upgrade_request_flow.description_members": {
-        "string": "お客様の組織では、アップグレードを申請するメンバーが独自のURLにリダイレクトされます。これを変更するか、無効にするには、サポートに連絡してください。"
+        "string": "在您的组织中，申请升级的成员会被重定向到一个自定义URL。若要更改或禁用此功能，请联系支持。"
     },
     "settings_tab.configured_upgrade_request_flow.label": {
-        "string": "アップグレード申請の宛先変更"
+        "string": "更改升级请求目标"
     },
     "settings_tab.connected_apps": {
-        "string": "接続しているアプリ"
+        "string": "已连接的应用"
     },
     "settings_tab.connected_apps.an_error_occurred_while_deleting_the_token": {
-        "string": "トークンの削除中にエラーが発生しました。"
+        "string": "删除令牌时发生错误。"
     },
     "settings_tab.connected_apps.are_you_sure": {
-        "string": "{appName}は{orgName}組織にアクセスできなくなります。"
+        "string": "{appName}将不再访问{orgName}组织。"
     },
     "settings_tab.connected_apps.connected_since": {
-        "string": "アクセスが許可された日: {date}"
+        "string": "访问授权日期：{date}"
     }
 }

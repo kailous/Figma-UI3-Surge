@@ -1,152 +1,152 @@
 {
     "link_expired.description": {
-        "string": "このファイルはこのリンクで利用できなくなりました。誤りと思う場合は、ファイルのオーナーに連絡してください。"
+        "string": "此文件通过此链接已不可用。如果您认为这是错误，请联系文件所有者。"
     },
     "link_expired.go_back_to_figma": {
-        "string": "Figmaに戻る"
+        "string": "返回Figma"
     },
     "link_expired.header": {
-        "string": "このリンクは非公開になりました"
+        "string": "此链接已被取消公开"
     },
     "link_expired_overlay.body": {
-        "string": "{formattedTimestamp}現在、このファイルのオーディエンスは、「{audience}」です。"
+        "string": "截至{formattedTimestamp}，此文件的观众是“{audience}”。"
     },
     "link_expired_overlay.different_branch_permissions_body": {
-        "string": "{formattedTimestamp}現在、このブランチのメインファイルのオーディエンスは「{audience}」です。"
+        "string": "截至{formattedTimestamp}，此分支的主文件的观众是“{audience}”。"
     },
     "link_expired_overlay.different_branch_permissions_header": {
-        "string": "メインファイルのリンクは非公開になりました"
+        "string": "主文件的链接已被取消公开"
     },
     "link_expired_overlay.header": {
-        "string": "このリンクは非公開になりました"
+        "string": "此链接已被取消公开"
     },
     "link_expired_overlay.same_branch_permissions_body": {
-        "string": "{formattedTimestamp}現在、このブランチとそのメインファイルのオーディエンスは「{audience}」です。"
+        "string": "截至{formattedTimestamp}，此分支及其主文件的观众是“{audience}”。"
     },
     "link_pwd_input.a_password_is_needed_to_access_the_figjam_file": {
-        "string": "FigJamファイルを使用するにはパスワードが必要です"
+        "string": "访问FigJam文件需要密码"
     },
     "link_pwd_input.a_password_is_needed_to_access_the_file": {
-        "string": "ファイルにアクセスするにはパスワードが必要です"
+        "string": "访问此文件需要密码"
     },
     "link_pwd_input.a_password_is_needed_to_access_the_prototype": {
-        "string": "プロトタイプにアクセスするにはパスワードが必要です"
+        "string": "访问原型需要密码"
     },
     "link_pwd_input.already_have_a_figma_account": {
-        "string": "Figmaアカウントを既にお持ちですか? {loginLink}"
+        "string": "已有Figma账户？{loginLink}"
     },
     "link_pwd_input.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "link_pwd_input.enter_password": {
-        "string": "パスワードを入力"
+        "string": "输入密码"
     },
     "link_pwd_input.fig_jam_is_an_online_whiteboard_for_teams_learn_more_link": {
-        "string": "FigJamはチームが利用できるオンラインホワイトボードです。{learnMoreLink}"
+        "string": "FigJam是一个供团队使用的在线白板。{learnMoreLink}"
     },
     "link_pwd_input.figma_is_a_design_platform_for_teams_learn_more_link": {
-        "string": "Figmaはチームが利用できるデザインプラットフォームです。{learnMoreLink}"
+        "string": "Figma是一个供团队使用的设计平台。{learnMoreLink}"
     },
     "link_pwd_input.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "link_pwd_input.log_in": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "link_pwd_input.password_required": {
-        "string": "パスワードが必要です"
+        "string": "需要密码"
     },
     "link_pwd_input.please_enter_a_valid_password": {
-        "string": "有効なパスワードを入力してください"
+        "string": "请输入有效的密码"
     },
     "locked_org.description": {
-        "string": "{orgName}の管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認するか、アップデートが完了するまで別のアカウントで作業してください。"
+        "string": "{orgName}的管理员已启动更新。这可能需要一些时间。请稍后再检查，或在更新完成之前使用其他账户工作。"
     },
     "locked_org.description_no_org": {
-        "string": "管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認するか、アップデートが完了するまで別のアカウントで作業してください。"
+        "string": "管理员已启动更新。这可能需要一些时间。请稍后再检查，或在更新完成之前使用其他账户工作。"
     },
     "locked_org.description_no_other_accounts": {
-        "string": "{orgName}の管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認してください。"
+        "string": "{orgName}的管理员已启动更新。这可能需要一些时间。请稍后再检查。"
     },
     "locked_org.description_no_other_accounts_no_org": {
-        "string": "管理者がアップデートを開始しました。完了までに少し時間がかかる場合があります。しばらくしてからもう一度確認してください。"
+        "string": "管理员已启动更新。这可能需要一些时间。请稍后再检查。"
     },
     "locked_org.footer": {
-        "string": "別のアカウントをお探しですか? {addAnotherLink}"
+        "string": "找不到其他账户？{addAnotherLink}"
     },
     "locked_org.footer_button": {
-        "string": "ここに追加します"
+        "string": "在这里添加"
     },
     "locked_org.footer_no_other_accounts": {
-        "string": "しばらく別のアカウントで作業をしますか? {addAnotherLink}"
+        "string": "要暂时使用其他账户工作吗？{addAnotherLink}"
     },
     "locked_org.footer_no_other_accounts_button": {
-        "string": "ここにサインインします"
+        "string": "在这里登录"
     },
     "locked_org.title": {
-        "string": "アップデート中"
+        "string": "更新中"
     },
     "locked_team.banner.all_of_this_teams_work_is_currently_view_only": {
-        "string": "現在、このチームの作業はすべて閲覧のみです。チームのロックが解除されると、もう一度編集できます。{learnMoreLink}"
+        "string": "目前，此团队的所有工作均为只读模式。当团队解锁后，您将可以再次进行编辑。{learnMoreLink}"
     },
     "locked_team.banner.all_of_this_teams_work_is_currently_view_only_dev_mode": {
-        "string": "現在このチームの作業はすべて閲覧のみです。チームのロックが解除されると、開発モードをもう一度使用できます。{learnMoreLink}"
+        "string": "目前，此团队的所有工作均为只读模式。当团队解锁后，您将可以再次使用开发模式。{learnMoreLink}"
     },
     "locked_team.banner.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "locked_team.banner.reactivate_professional": {
-        "string": "プロフェッショナルを再度有効にする"
+        "string": "重新激活专业版"
     },
     "locked_team.banner.this_board_is_part_of_a_locked_team": {
-        "string": "このボードはロックされているチームの一部です。"
+        "string": "此白板属于一个已锁定的团队。"
     },
     "locked_team.banner.this_file_is_part_of_a_locked_team": {
-        "string": "このファイルはロックされているチームの一部です。"
+        "string": "此文件属于一个已锁定的团队。"
     },
     "locked_team.banner.upgrade_to_professional": {
-        "string": "プロフェッショナルにアップグレード"
+        "string": "升级到专业版"
     },
     "locked_team.card.change_permissions_from_invite_only": {
-        "string": "{numInviteOnlyProjects, plural, other {{numInviteOnlyProjects}件のプロジェクトの権限を「招待のみ」から「リンクを知っているユーザー全員」に変更します}}"
+        "string": "将{numInviteOnlyProjects}个项目的权限从“仅限邀请”更改为“知道链接的所有人”"
     },
     "locked_team.card.change_permissions_from_view_only": {
-        "string": "{numViewOnlyProjects, plural, other {{numViewOnlyProjects}件のプロジェクトの権限を「閲覧のみ」から「編集」に変更します}}"
+        "string": "将{numViewOnlyProjects}个项目的权限从“只读”更改为“编辑”"
     },
     "locked_team.card.delete_figjam_boards": {
-        "string": "{numFigjamFiles, plural, other {{numFigjamFiles}個のFigJamボードを削除します}}"
+        "string": "删除{numFigjamFiles}个FigJam白板"
     },
     "locked_team.card.delete_figma_design_files": {
-        "string": "{numDesignFiles, plural, other {{numDesignFiles}個のFigmaデザインファイルを削除します}}"
+        "string": "删除{numDesignFiles}个Figma设计文件"
     },
     "locked_team.card.delete_projects": {
-        "string": "{numProjects, plural, other {{numProjects}件のプロジェクトを削除します}}"
+        "string": "删除{numProjects}个项目"
     },
     "locked_team.card.editor_previously_on_trial_cta": {
-        "string": "プロフェッショナルプランにアップグレードしてください"
+        "string": "升级到专业版"
     },
     "locked_team.card.editor_previously_on_trial_description": {
-        "string": "プロフェッショナルのトライアルが終了しました。スタータープランの上限に合わせて作品を削除するか、プロフェッショナルプランにアップグレードしてチームを有効にしてください。"
+        "string": "专业版试用已结束。删除部分项目以符合入门计划的限制，或升级到专业版以重新启用团队。"
     },
     "locked_team.card.editor_previously_paid_cta": {
-        "string": "プロフェッショナルプランを再度有効にしてください"
+        "string": "重新激活专业版"
     },
     "locked_team.card.editor_previously_paid_description": {
-        "string": "チームはスタータープランの上限を超えました。ロック解除するには、プロフェッショナルプランを再度有効にするか、作品をいくつか削除してください。"
+        "string": "团队已超出入门计划的限制。要解锁团队，请重新激活专业版或删除一些项目。"
     },
     "locked_team.card.title": {
-        "string": "チームはロックされています"
+        "string": "团队已锁定"
     },
     "locked_team.card.title_viewer": {
-        "string": "このチームはロックされています"
+        "string": "此团队已锁定"
     },
     "locked_team.card.view_only_description": {
-        "string": "スタータープランの上限を超えたため、このチームはロックされています。ご不明な点は、管理者にお問い合わせください。"
+        "string": "由于超出入门计划的限制，此团队已被锁定。如有疑问，请联系管理员。"
     },
     "locked_team.label.tooltip": {
-        "string": "このチームは現在ロックされています。"
+        "string": "此团队目前已被锁定。"
     },
     "locked_team.label.view_only": {
-        "string": "閲覧のみ"
+        "string": "只读"
     }
 }

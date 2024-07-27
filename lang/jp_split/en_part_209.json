@@ -1,108 +1,108 @@
 {
     "multiplayer_upgrade_modal.save_and_reload_button": {
-        "string": "保存して再読み込み"
+        "string": "保存并重新加载"
     },
     "multiplayer_upgrade_modal.title": {
-        "string": "Figmaの新しいバージョンが利用できます。"
+        "string": "Figma的新版本可用"
     },
     "new_editor_notifications_modal.all_admins": {
-        "string": "すべての管理者"
+        "string": "所有管理员"
     },
     "new_editor_notifications_modal.confirmation_v2": {
-        "string": "シートアップグレードの概要が更新されました"
+        "string": "席位升级摘要已更新"
     },
     "new_editor_notifications_modal.daily": {
-        "string": "毎日"
+        "string": "每日"
     },
     "new_editor_notifications_modal.daily_description": {
-        "string": "アップグレードが発生した日に、アップグレードの要約を取得します。"
+        "string": "升级发生的当天，您将收到升级摘要。"
     },
     "new_editor_notifications_modal.disclaimer_for_orgs": {
-        "string": "これらのメールは、トゥルーアップまたはトゥルーアップのリマインダーの送信日には受け取りませんのでご了承ください。"
+        "string": "请注意，您不会在True-Up或True-Up提醒发送当天收到这些电子邮件。"
     },
     "new_editor_notifications_modal.error_message_for_empty_admins": {
-        "string": "1人以上の管理者の名前を追加してください"
+        "string": "请添加至少一个管理员的名称"
     },
     "new_editor_notifications_modal.get_emailed_when_members_upgrade_from_free_to_paid": {
-        "string": "メンバーが無料シートから有料シートにアップグレードしたときに、メールが送信されます。"
+        "string": "当成员从免费席位升级到付费席位时，您将收到电子邮件。"
     },
     "new_editor_notifications_modal.header": {
-        "string": "シートアップグレード概要"
+        "string": "席位升级摘要"
     },
     "new_editor_notifications_modal.how_often_would_you_like_receive_emails": {
-        "string": "メールをどのような頻度で受信しますか?"
+        "string": "您希望多长时间收到一次电子邮件？"
     },
     "new_editor_notifications_modal.monthly": {
-        "string": "毎月"
+        "string": "每月"
     },
     "new_editor_notifications_modal.monthly_description": {
-        "string": "月の最初に、アップグレードの要約を取得します。"
+        "string": "每月初，您将收到升级摘要。"
     },
     "new_editor_notifications_modal.specific_admins": {
-        "string": "特定の管理者"
+        "string": "特定管理员"
     },
     "new_editor_notifications_modal.turn_off_notifications_subtext": {
-        "string": "シートアップグレード概要の受信を停止するには、以下のすべてのボックスのチェックを外します。"
+        "string": "要停止接收席位升级摘要，请取消选中以下所有框。"
     },
     "new_editor_notifications_modal.we_recommend_only_adding": {
-        "string": "シートを定期的に管理する管理者のみ追加することをお勧めします。"
+        "string": "我们建议只添加那些定期管理席位的管理员。"
     },
     "new_editor_notifications_modal.weekly": {
-        "string": "毎週"
+        "string": "每周"
     },
     "new_editor_notifications_modal.weekly_description": {
-        "string": "毎週月曜日に、アップグレードの要約を取得します。"
+        "string": "每周一，您将收到升级摘要。"
     },
     "new_editor_notifications_modal.who_should_get_them": {
-        "string": "誰が取得しますか?"
+        "string": "谁应该接收这些摘要？"
     },
     "new_user_experience.button.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "new_user_experience.button.skip": {
-        "string": "スキップ"
+        "string": "跳过"
     },
     "new_user_experience.choose_plan.title": {
-        "string": "どのプランをご希望ですか?"
+        "string": "您希望选择哪种计划？"
     },
     "new_user_experience.choose_plan_card.free.pages": {
-        "string": "✓ ファイル内のページ数無制限"
+        "string": "✓ 文件中的页面数不限"
     },
     "new_user_experience.choose_plan_card.free.project": {
-        "string": "✓ 1プロジェクトと3ファイル"
+        "string": "✓ 1个项目和3个文件"
     },
     "new_user_experience.choose_plan_card.free.version_history": {
-        "string": "✓ 30日間のバージョン履歴"
+        "string": "✓ 30天版本历史记录"
     },
     "new_user_experience.choose_plan_card.org": {
-        "string": "組織"
+        "string": "组织"
     },
     "new_user_experience.choose_plan_card.org.admin_and_billing": {
-        "string": "✓ 統一された管理と請求"
+        "string": "✓ 统一的管理和计费"
     },
     "new_user_experience.choose_plan_card.org.branching_and_merging": {
-        "string": "✓ 分岐とマージ"
+        "string": "✓ 分支和合并"
     },
     "new_user_experience.choose_plan_card.org.description": {
-        "string": "チームをひとつにするために"
+        "string": "为了将团队聚集在一起"
     },
     "new_user_experience.choose_plan_card.org.design_system_analytics": {
-        "string": "✓ デザインシステムアナリティクス"
+        "string": "✓ 设计系统分析"
     },
     "new_user_experience.choose_plan_card.org.education_cta": {
-        "string": "教育目的の場合は無料"
+        "string": "教育用途免费"
     },
     "new_user_experience.choose_plan_card.org.education_cta_verified": {
-        "string": "要確認"
+        "string": "需要验证"
     },
     "new_user_experience.choose_plan_card.org.everything_in_teams_plus": {
-        "string": "プロフェッショナルのすべての機能と次の機能..."
+        "string": "包括专业版的所有功能以及以下功能..."
     },
     "new_user_experience.choose_plan_card.org.libraries": {
-        "string": "✓組織全体のライブラリ"
+        "string": "✓ 组织范围的库"
     },
     "new_user_experience.choose_plan_card.org.single_sign_on": {
-        "string": "✓ シングルサインオン"
+        "string": "✓ 单点登录"
     },
     "new_user_experience.choose_plan_card.org.title.Figjam.cost": {
         "string": "$5 "
@@ -114,28 +114,28 @@
         "string": "$45 "
     },
     "new_user_experience.choose_plan_card.org.unlimited_teams": {
-        "string": "✓ チーム数無制限"
+        "string": "✓ 团队数量不限"
     },
     "new_user_experience.choose_plan_card.professional": {
-        "string": "プロフェッショナル"
+        "string": "专业版"
     },
     "new_user_experience.choose_plan_card.professional.description": {
-        "string": "プロフェッショナルチーム向け"
+        "string": "适用于专业团队"
     },
     "new_user_experience.choose_plan_card.professional.files": {
-        "string": "✓ ファイル数の制限なし"
+        "string": "✓ 文件数量不限"
     },
     "new_user_experience.choose_plan_card.professional.libraries": {
-        "string": "✓ 共有可能なチームライブラリ"
+        "string": "✓ 可共享的团队库"
     },
     "new_user_experience.choose_plan_card.professional.pages": {
-        "string": "✓ ページ数の制限なし"
+        "string": "✓ 页面数量不限"
     },
     "new_user_experience.choose_plan_card.professional.permissions": {
-        "string": "✓ 権限のカスタマイズ"
+        "string": "✓ 自定义权限"
     },
     "new_user_experience.choose_plan_card.professional.projects": {
-        "string": "✓ プロジェクト数の制限なし"
+        "string": "✓ 项目数量不限"
     },
     "new_user_experience.choose_plan_card.professional.title.Figjam": {
         "string": "FigJam"

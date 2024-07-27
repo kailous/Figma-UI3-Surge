@@ -1,152 +1,152 @@
 {
     "404.not_found.no_account": {
-        "string": "アカウントをお持ちではありませんか? {create_one}"
+        "string": "没有账户吗? {create_one}"
     },
     "404.not_found.password_required": {
-        "string": "パスワードが必要です"
+        "string": "需要密码"
     },
     "404.not_found.title": {
-        "string": "見つかりません"
+        "string": "未找到"
     },
     "404.page_no_access.description": {
-        "string": "組織管理者に権限の更新を依頼してください。"
+        "string": "请联系组织管理员以更新权限。"
     },
     "404.page_no_access.title": {
-        "string": "このページにアクセスできません"
+        "string": "无法访问此页面"
     },
     "404.page_not_found.description": {
-        "string": "このページが存在していないか、このページを表示する権限がありません。許可されたユーザーとしてログインするか、組織管理者に連絡してください。"
+        "string": "该页面不存在或您无权查看此页面。请以授权用户身份登录或联系组织管理员。"
     },
     "404.page_not_found.title": {
-        "string": "ページが見つかりません"
+        "string": "页面未找到"
     },
     "404.prototype_no_access.description": {
-        "string": "プロトタイプを表示するには、プロトタイプのオーナーに権限の更新を依頼してください。"
+        "string": "要查看此原型，请联系原型所有者以更新权限。"
     },
     "404.prototype_no_access.title": {
-        "string": "このプロトタイプにアクセスできません"
+        "string": "无法访问此原型"
     },
     "404.prototype_not_found.title": {
-        "string": "プロトタイプが見つかりません"
+        "string": "未找到原型"
     },
     "404.slide_deck_no_access.description": {
-        "string": "スライドデッキを表示するには、デッキのオーナーに権限の更新を依頼してください。"
+        "string": "要查看此幻灯片，请联系幻灯片所有者以更新权限。"
     },
     "404.slide_deck_no_access.title": {
-        "string": "このスライドデッキにアクセスできません。"
+        "string": "无法访问此幻灯片"
     },
     "404.slide_deck_not_found.title": {
-        "string": "スライドデッキが見つかりません"
+        "string": "未找到幻灯片"
     },
     "drafts_copy_link_exp.404.defaultV2.title": {
-        "string": "ファイルを開けません"
+        "string": "无法打开文件"
     },
     "drafts_copy_link_exp.404.file_no_access.owner_viewer_restricted_sharing_draft.description": {
-        "string": "このファイルの共有設定に問題があるようです。オーナーにメールで通知しました。"
+        "string": "此文件的共享设置存在问题，已通知所有者。"
     },
     "notification_settings_modal.desktop_notifications": {
-        "string": "デスクトップ通知"
+        "string": "桌面通知"
     },
     "notification_settings_modal.email_notifications": {
-        "string": "メール通知"
+        "string": "邮件通知"
     },
     "notification_settings_modal.error_changing_setting_errorMessageString": {
-        "string": "エラー変更設定: {errorMessageString}"
+        "string": "更改设置时出错: {errorMessageString}"
     },
     "notification_settings_modal.privacy_policy": {
-        "string": "プライバシーポリシー"
+        "string": "隐私政策"
     },
     "notification_settings_modal.product_tips_and_news": {
-        "string": "製品のヒントと最新情報"
+        "string": "产品提示和新闻"
     },
     "notification_settings_modal.send_me_desktop_push_notifications": {
-        "string": "通知を自分のコンピューターに送信します"
+        "string": "向我的电脑发送通知"
     },
     "notification_settings_modal.send_me_notifications_by_email": {
-        "string": "通知をメールで送信します"
+        "string": "通过邮件发送通知"
     },
     "notification_settings_modal.send_me_occasional_emails_with_updates_and_promotions": {
-        "string": "Figmaから最新情報やプロモーションのメールを受け取る"
+        "string": "接收来自Figma的最新信息和促销邮件"
     },
     "notification_settings_modal.unsubscribe_from_figma_emails_disclaimer": {
-        "string": "Figmaからのメールの配信登録はいつでも解除できます。詳細は、{privacy_policy}をご確認ください。"
+        "string": "您可以随时取消Figma邮件的订阅。有关详细信息，请参阅{privacy_policy}。"
     },
     "notification_settings_modal.you_ll_still_get_emails_from_Figma_about_your_account": {
-        "string": "アカウントやご請求に関する重要な情報など、Figmaからの他のメールは引き続き届きます。"
+        "string": "您仍会收到有关您的账户和账单的重要信息邮件。"
     },
     "request_org_access_app_entry.ask_to_be_added": {
-        "string": "追加を依頼する"
+        "string": "请求添加"
     },
     "request_org_access_app_entry.hmm_looks_like_this_file_is_restricted": {
-        "string": "このファイルは制限されているようです"
+        "string": "此文件似乎受到限制"
     },
     "request_org_access_app_entry.hmm_looks_like_this_project_is_restricted": {
-        "string": "このプロジェクトは制限されているようです"
+        "string": "此项目似乎受到限制"
     },
     "request_org_access_app_entry.hmm_looks_like_this_resource_is_restricted": {
-        "string": "このリソースは制限されているようです"
+        "string": "此资源似乎受到限制"
     },
     "request_org_access_app_entry.hmm_looks_like_this_team_is_restricted": {
-        "string": "このチームは制限されているようです"
+        "string": "此团队似乎受到限制"
     },
     "request_org_access_app_entry.request_sent": {
-        "string": "リクエストが送信されました"
+        "string": "请求已发送"
     },
     "request_org_access_app_entry.switch_accounts": {
-        "string": "アカウントを切り替える"
+        "string": "切换账户"
     },
     "request_org_access_app_entry.to_access_it_you_ll_need_to_join_the_org_name_organization_first_do_you_want_to_ask_a_org_name_admin_to_add_you_to_the_organization": {
-        "string": "アクセスするには、最初に{orgName}組織に参加する必要があります。{orgName}の管理者に組織への追加を依頼しますか?"
+        "string": "要访问此内容，您需要先加入{orgName}组织。是否请求{orgName}的管理员将您添加到组织中?"
     },
     "request_org_access_app_entry.you_are_requesting_to_be_added_as_user_email": {
-        "string": "{email}としての追加をリクエストします"
+        "string": "请求以{email}身份添加"
     },
     "org_actions.an_error_occurred": {
-        "string": "エラーが発生しました。"
+        "string": "发生错误。"
     },
     "org_actions.request_approved": {
-        "string": "リクエストが承認されました"
+        "string": "请求已批准"
     },
     "org_actions.request_denied": {
-        "string": "リクエストが拒否されました"
+        "string": "请求已拒绝"
     },
     "org_actions.request_withdrawn": {
-        "string": "リクエストは取り消されました"
+        "string": "请求已撤回"
     },
     "org_actions.updated_authentication_settings": {
-        "string": "認証設定を更新しました"
+        "string": "更新了认证设置"
     },
     "org_actions.updated_idle_session_timeout": {
-        "string": "アイドルセッションタイムアウトを更新しました"
+        "string": "更新了空闲会话超时设置"
     },
     "org_actions.you_ve_requested_to_edit_files_in_this_team": {
-        "string": "このチームでのファイルの編集をリクエストしました。"
+        "string": "您已请求在此团队中编辑文件。"
     },
     "org_actions.you_ve_requested_to_join_this_team": {
-        "string": "このチームへの参加をリクエストしました。"
+        "string": "您已请求加入此团队。"
     },
     "org_admin_onboarding.billing_groups.tooltip.add_admins.description.seat_rename": {
-        "string": "組織の管理者はすべての請求グループにアクセスでき、各グループのコストの追跡とシートの管理を担当する管理者を追加できます。"
+        "string": "组织管理员可以访问所有账单组，并添加负责每个组成本追踪和座位管理的管理员。"
     },
     "org_admin_onboarding.billing_groups.tooltip.add_admins.title": {
-        "string": "請求グループの管理を手伝ってもらう"
+        "string": "邀请他人协助管理账单组"
     },
     "org_admin_onboarding.billing_groups.tooltip.create.description.seat_rename": {
-        "string": "ユーザーを請求グループに分類することで、シートの管理とコストの追跡を迅速に行うことができます。ヒント: 請求グループは、会社のコストセンターをモデルにして作成します。"
+        "string": "通过将用户分类到账单组中，可以快速进行座位管理和成本追踪。提示：创建账单组时，以公司的成本中心为模型。"
     },
     "org_admin_onboarding.billing_groups.tooltip.create.title": {
-        "string": "新しい請求グループを作成する"
+        "string": "创建新账单组"
     },
     "org_admin_onboarding.billing_groups.tooltip.edit.description": {
-        "string": "請求グループは、コストの追跡方法に応じて、いつでも名前の変更、メンバーの変更、削除を行うことができます。"
+        "string": "您可以随时根据成本追踪方式来更改账单组名称、成员或删除账单组。"
     },
     "org_admin_onboarding.billing_groups.tooltip.edit.title": {
-        "string": "請求グループに変更を加える"
+        "string": "更改账单组"
     },
     "org_admin_onboarding.request_dashboard.tooltip.manage_billing_group_upgrade_requests_description": {
-        "string": "管理している請求グループからのアップグレード申請は、管理ダッシュボードから承認できます。"
+        "string": "您可以在管理仪表板中批准来自您管理的账单组的升级请求。"
     },
     "org_admin_onboarding.request_dashboard.tooltip.manage_upgrades_description": {
-        "string": "アップグレード申請は、管理ダッシュボードから承認できます。"
+        "string": "您可以在管理仪表板中批准升级请求。"
     }
 }

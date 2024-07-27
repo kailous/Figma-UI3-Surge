@@ -1,152 +1,152 @@
 {
     "domain_management.domain_capture.info_tooltip_text": {
-        "string": "ドメインキャプチャーを有効にするには、すべてのドメインを確認してください"
+        "string": "要启用域名捕获，请验证所有域名"
     },
     "domain_management.domain_capture.label": {
-        "string": "ドメインキャプチャー"
+        "string": "域名捕获"
     },
     "domain_management.domain_capture.some_domains_unverified": {
-        "string": "ドメインキャプチャーを有効にできません。一部のドメインが未確認です"
+        "string": "无法启用域名捕获。一些域名尚未验证"
     },
     "domain_management.domain_capture.support_email": {
         "string": "admin-support@figma.com"
     },
     "domain_management.domain_capture_modal.body": {
-        "string": "ドメインの既存のFigmaユーザーを{orgName}に自動的に追加します。今後、ドメインで新たにアカウントを作成するユーザーも組織に追加されます。{learnMoreLink}"
+        "string": "自动将域名的现有Figma用户添加到{orgName}。未来在该域名下创建新账户的用户也将被添加到组织中。{learnMoreLink}"
     },
     "domain_management.domain_capture_modal.body_title": {
-        "string": "ドメインキャプチャーを有効にする"
+        "string": "启用域名捕获"
     },
     "domain_management.domain_capture_modal.cancel_button": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "domain_management.domain_capture_modal.save_button": {
         "string": "保存"
     },
     "domain_management.domain_capture_modal.success_message": {
-        "string": "ドメインキャプチャー有効"
+        "string": "域名捕获已启用"
     },
     "domain_management.domain_capture_modal.title": {
-        "string": "ドメインキャプチャー"
+        "string": "域名捕获"
     },
     "domain_management.domain_unverified": {
-        "string": "未確認"
+        "string": "未验证"
     },
     "domain_management.domain_verified": {
-        "string": "確認済み"
+        "string": "已验证"
     },
     "domain_management.error_domain_is_invalid": {
-        "string": "ドメインが無効です。"
+        "string": "域名无效。"
     },
     "domain_management.error_fetching_domains": {
-        "string": "組織のドメイン情報の取得中にエラーが発生しました。"
+        "string": "获取组织域名信息时出错。"
     },
     "domain_management.error_modal.body_adding": {
-        "string": "{domainCount, plural, other {次のドメインを追加できませんでした。}}"
+        "string": "无法添加以下域名："
     },
     "domain_management.error_modal.body_verifying": {
-        "string": "{domainCount, plural, other {次のドメインを確認できませんでした。}}"
+        "string": "无法验证以下域名："
     },
     "domain_management.error_modal.got_it_button": {
-        "string": "了解"
+        "string": "知道了"
     },
     "domain_management.error_modal.header_adding": {
-        "string": "{domainCount, plural, other {ドメインを追加できません}}"
+        "string": "无法添加域名"
     },
     "domain_management.error_modal.header_verifying": {
-        "string": "{domainCount, plural, other {ドメインを確認できません}}"
+        "string": "无法验证域名"
     },
     "domain_management.modals_shared.cancel_button": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "domain_management.modals_shared.update_dns_record_header": {
-        "string": "DNSレコードを更新してください"
+        "string": "请更新DNS记录"
     },
     "domain_management.remove_domain": {
-        "string": "削除"
+        "string": "删除"
     },
     "domain_management.remove_domain_modal.attempted_domain_removal": {
-        "string": "メールアドレスに関連付けられているドメインを削除することはできません。"
+        "string": "无法删除与电子邮件地址关联的域名。"
     },
     "domain_management.remove_domain_modal.body_text": {
-        "string": "このドメインのすべてのメンバーが組織のゲストになります。"
+        "string": "此域名的所有成员将成为组织的访客。"
     },
     "domain_management.remove_domain_modal.body_text_with_mfa": {
-        "string": "このドメインのすべてのメンバーが組織のゲストになります。MFAが設定されていないユーザーは、組織のコンテンツを閲覧できなくなります。"
+        "string": "此域名的所有成员将成为组织的访客。未设置多因素认证（MFA）的用户将无法访问组织的内容。"
     },
     "domain_management.remove_domain_modal.body_title": {
-        "string": "このドメインを削除しますか"
+        "string": "确定要删除此域名吗？"
     },
     "domain_management.remove_domain_modal.cancel_button": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "domain_management.remove_domain_modal.error_removing_domain": {
-        "string": "ドメインの削除中にエラーが発生しました"
+        "string": "删除域名时出错"
     },
     "domain_management.remove_domain_modal.remove_button": {
-        "string": "削除"
+        "string": "删除"
     },
     "domain_management.remove_domain_modal.success_message": {
-        "string": "ドメインを削除しました"
+        "string": "域名已删除"
     },
     "domain_management.successfully_added_domains": {
-        "string": "{domainCount, plural, other {{domainCount}個のドメインを追加しました}}"
+        "string": "已添加{domainCount, plural, other {{domainCount}个域名}}"
     },
     "domain_management.successfully_verified_domains": {
-        "string": "{domainCount, plural, other {{domainCount}個のドメインを確認しました}}"
+        "string": "已验证{domainCount, plural, other {{domainCount}个域名}}"
     },
     "domain_management.verify_domain": {
-        "string": "ドメインを確認"
+        "string": "验证域名"
     },
     "domain_management.verify_domain_modal.body": {
-        "string": "確認したいドメインのDNSレコードに、この一意のコードを追加してください。{learnMoreLink}"
+        "string": "请将此唯一代码添加到您要验证的域名的DNS记录中。{learnMoreLink}"
     },
     "domain_management.verify_domain_modal.confirm_button": {
-        "string": "確認"
+        "string": "验证"
     },
     "domain_management.verify_domain_pluralizable": {
-        "string": "{domainCount, plural, other {ドメインを確認}}"
+        "string": "验证域名"
     },
     "domain_management.verifying_domains": {
-        "string": "{domainCount, plural, other {ドメインを確認中}}"
+        "string": "正在验证域名"
     },
     "domain_management.you_have_no_domains": {
-        "string": "組織に関連付けられているドメインはありません。"
+        "string": "没有与组织关联的域名。"
     },
     "members_tab.last_edit_modal.error_fetching_edits": {
-        "string": "最新の編集内容の取得中にエラーが発生しました。"
+        "string": "获取最新编辑内容时出错。"
     },
     "members_tab.last_edit_modal.file_column_header": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "members_tab.last_edit_modal.inaccessible_text": {
-        "string": "ファイルの権限が原因でこのファイルにアクセスできません"
+        "string": "由于文件权限，无法访问此文件"
     },
     "members_tab.last_edit_modal.last_edit_column_header": {
-        "string": "最終編集"
+        "string": "最后编辑"
     },
     "members_tab.last_edit_modal.no_activity": {
-        "string": "アクティビティーが見つかりません"
+        "string": "未找到活动记录"
     },
     "members_tab.last_edit_modal.product_column_header": {
-        "string": "製品"
+        "string": "产品"
     },
     "members_tab.last_edit_modal.title_generic": {
-        "string": "最近の編集アクティビティー"
+        "string": "最近的编辑活动"
     },
     "members_tab.last_edit_modal.title_with_name": {
-        "string": "{publicName}の最近の編集"
+        "string": "{publicName}的最近编辑"
     },
     "members_tab.member_modal.file_count_label": {
-        "string": "{fileCount, plural, other {{fileCount}ファイル}}"
+        "string": "{fileCount, plural, other {{fileCount}个文件}}"
     },
     "members_tab.member_modal.file_no_access_tooltip": {
-        "string": "ファイルの権限が原因でこのファイルにアクセスできません"
+        "string": "由于文件权限，无法访问此文件"
     },
     "members_tab.member_modal.guest_access.can_also_view_public_links_label": {
-        "string": "{name}は公開リンクが有効なすべてのファイルも閲覧できます。"
+        "string": "{name}还可以查看所有启用公开链接的文件。"
     },
     "members_tab.member_modal.guest_access.can_view_public_links_label": {
-        "string": "{name}は公開リンクが有効なすべてのファイルを閲覧できます。"
+        "string": "{name}可以查看所有启用公开链接的文件。"
     }
 }

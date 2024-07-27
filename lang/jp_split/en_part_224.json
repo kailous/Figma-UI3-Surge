@@ -1,152 +1,152 @@
 {
     "resources_tab.approved_plugins.table.already_approved": {
-        "string": "{numWorkspaces, plural, other {{numWorkspaces}個のワークスペースで承認済み}}"
+        "string": "{numWorkspaces, plural, other {{numWorkspaces}个工作区已批准}}"
     },
     "resources_tab.approved_plugins.table.approved_column": {
-        "string": "承認済み"
+        "string": "已批准"
     },
     "resources_tab.approved_plugins.table.approved_for_all_workspaces": {
-        "string": "すべてのワークスペースで承認済み"
+        "string": "已批准所有工作区"
     },
     "resources_tab.approved_plugins.table.approved_for_column": {
-        "string": "承認対象"
+        "string": "批准对象"
     },
     "resources_tab.approved_plugins.table.approved_for_workspace": {
-        "string": "{numWorkspaces, plural, other {{numWorkspaces}個のワークスペースで承認済み}}"
+        "string": "{numWorkspaces, plural, other {{numWorkspaces}个工作区已批准}}"
     },
     "resources_tab.approved_plugins.table.approved_header": {
-        "string": "承認済み"
+        "string": "已批准"
     },
     "resources_tab.approved_plugins.table.description_column": {
-        "string": "説明"
+        "string": "描述"
     },
     "resources_tab.approved_plugins.table.entire_org": {
-        "string": "組織全体"
+        "string": "整个组织"
     },
     "resources_tab.approved_plugins.table.last_requested_column": {
-        "string": "最終リクエスト"
+        "string": "最后请求"
     },
     "resources_tab.approved_plugins.table.members": {
-        "string": "{numberOfMembers, plural, other {{numberOfMembers}人のメンバー}}"
+        "string": "{numberOfMembers, plural, other {{numberOfMembers}名成员}}"
     },
     "resources_tab.approved_plugins.table.n_workspaces_approved_for": {
-        "string": "{numberOfWorkspaces}個のワークスペース"
+        "string": "{numberOfWorkspaces}个工作区"
     },
     "resources_tab.approved_plugins.table.plugin_name_column": {
-        "string": "プラグイン名"
+        "string": "插件名称"
     },
     "resources_tab.approved_plugins.table.requested_by_column": {
-        "string": "リクエスト者"
+        "string": "请求者"
     },
     "resources_tab.approved_plugins.table.requested_header": {
-        "string": "リクエスト済み"
+        "string": "已请求"
     },
     "resources_tab.approved_plugins.table.review_button": {
-        "string": "確認"
+        "string": "查看"
     },
     "resources_tab.approved_plugins.table.widget_name_column": {
-        "string": "ウィジェット名"
+        "string": "小部件名称"
     },
     "resources_tab.approved_widgets": {
-        "string": "承認済みウィジェット"
+        "string": "已批准的小部件"
     },
     "resources_tab.approved_widgets.actions.widget": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "resources_tab.approved_widgets.modal.all_widgets": {
-        "string": "Figmaコミュニティのすべてのウィジェット"
+        "string": "Figma社区的所有小部件"
     },
     "resources_tab.approved_widgets.modal.approved_widgets_only": {
-        "string": "管理者に承認されたウィジェットのみ"
+        "string": "仅管理员批准的小部件"
     },
     "resources_tab.approved_widgets.modal.default": {
-        "string": "(デフォルト)"
+        "string": "(默认)"
     },
     "resources_tab.approved_widgets.modal.individual_workspaces_approval_warning": {
-        "string": "メンバーの1人がこのウィジェットのドラフトファイルでの使用をリクエストしました。個人のワークスペースでの使用を承認すると、このウィジェットはドラフト内で使用できなくなります。"
+        "string": "有成员请求在草稿文件中使用此小部件。批准在个人工作区中使用此小部件将使其在草稿中不可用。"
     },
     "resources_tab.approved_widgets.modal.request_widgets": {
-        "string": "メンバーによるウィジェットのリクエストを許可する"
+        "string": "允许成员请求小部件"
     },
     "resources_tab.approved_widgets.modal.widget_approval": {
-        "string": "ウィジェットの承認"
+        "string": "小部件批准"
     },
     "resources_tab.approved_widgets.no_widgets.add_widgets_button": {
-        "string": "承認済みウィジェットを追加"
+        "string": "添加已批准的小部件"
     },
     "resources_tab.approved_widgets.no_widgets.text": {
-        "string": "組織には承認済みウィジェットがまだありません。"
+        "string": "组织中尚无已批准的小部件。"
     },
     "resources_tab.approved_widgets.widget_approval_banner.text": {
-        "string": "承認済みウィジェットのリストを作成するには、設定に移動して{settingName}をオンにします。"
+        "string": "要创建已批准的小部件列表，请前往设置并启用{settingName}。"
     },
     "resources_tab.create_team_modal.content": {
-        "string": "この拡張機能を試すには、{orgName}の外にスペースを作成する必要があります。"
+        "string": "要试用此扩展，需要在{orgName}外创建一个空间。"
     },
     "resources_tab.create_team_modal.modal_title": {
-        "string": "{extensionName}を試す"
+        "string": "试用{extensionName}"
     },
     "resources_tab.create_team_modal.team_creation_loading": {
-        "string": "チームを作成しています"
+        "string": "正在创建团队"
     },
     "resources_tab.extension_request_sidebar.requests": {
-        "string": "リクエスト"
+        "string": "请求"
     },
     "resources_tab.extension_revoke_modal.body.plugin": {
-        "string": "このプラグインは、{orgName}の全員が使用できなくなりました。"
+        "string": "此插件将不再供{orgName}的所有人使用。"
     },
     "resources_tab.extension_revoke_modal.body.widget": {
-        "string": "このウィジェットは、{orgName}の全員が使用できなくなりました。"
+        "string": "此小部件将不再供{orgName}的所有人使用。"
     },
     "resources_tab.extension_revoke_modal.confirmation_button": {
-        "string": "取り消す"
+        "string": "撤销"
     },
     "resources_tab.extension_revoke_modal.title": {
-        "string": "{extensionName}のアクセスを取り消しますか?"
+        "string": "撤销{extensionName}的访问权限？"
     },
     "resources_tab.extension_usage_data.past_30_days": {
-        "string": "過去30日間"
+        "string": "过去30天"
     },
     "resources_tab.extension_usage_data.past_7_days": {
-        "string": "過去7日間"
+        "string": "过去7天"
     },
     "resources_tab.extension_usage_data.past_year": {
-        "string": "過去1年"
+        "string": "过去一年"
     },
     "resources_tab.extension_usage_data.placeholder_runs": {
-        "string": "-- 回使用"
+        "string": "-- 次使用"
     },
     "resources_tab.extension_usage_data.runs": {
-        "string": "{numberOfRuns, plural, other {{numberOfRuns}回使用}}"
+        "string": "{numberOfRuns, plural, other {{numberOfRuns}次使用}}"
     },
     "resources_tab.extension_usage_data.total_runs": {
-        "string": "総使用回数"
+        "string": "总使用次数"
     },
     "resources_tab.extension_usage_data.upgrade_enterprise_link": {
-        "string": "エンタープライズプランへのアップグレードで"
+        "string": "升级到企业计划"
     },
     "resources_tab.extension_usage_data.upgrade_enterprise_plugins": {
-        "string": "{upgradeLink}プラグインの利用状況分析を表示できます"
+        "string": "{upgradeLink}查看插件使用情况分析"
     },
     "resources_tab.extension_usage_data.upgrade_enterprise_widgets": {
-        "string": "{upgradeLink}ウィジェットの利用状況分析を表示できます"
+        "string": "{upgradeLink}查看小部件使用情况分析"
     },
     "resources_tab.extension_usage_data.usage": {
-        "string": "利用状況"
+        "string": "使用情况"
     },
     "resources_tab.extension_usage_data.users": {
-        "string": "ユーザー"
+        "string": "用户"
     },
     "resources_tab.extension_usage_data.workspaces": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "resources_tab.fonts": {
-        "string": "フォント"
+        "string": "字体"
     },
     "resources_tab.libraries": {
-        "string": "ライブラリ"
+        "string": "库"
     },
     "resources_tab.libraries.changing_permissions_warning": {
-        "string": "ライブラリの表示/非表示を変更すると、ライブラリの権限も「{currentPermissions}」から「{resultingPermissions}」に変更されます。"
+        "string": "更改库的可见性将把其权限从“{currentPermissions}”更改为“{resultingPermissions}”。"
     }
 }

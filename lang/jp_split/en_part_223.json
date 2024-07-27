@@ -1,152 +1,152 @@
 {
     "resources_tab.approved_plugins": {
-        "string": "承認済みプラグイン"
+        "string": "已批准的插件"
     },
     "resources_tab.approved_plugins.actions.plugin": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "resources_tab.approved_plugins.actions.settings": {
-        "string": "設定"
+        "string": "设置"
     },
     "resources_tab.approved_plugins.modal.all_plugins": {
-        "string": "Figmaコミュニティのすべてのプラグイン"
+        "string": "Figma社区的所有插件"
     },
     "resources_tab.approved_plugins.modal.allow_for_all_files_and_drafts_in_org_workspaces": {
-        "string": "{orgName}のすべてのワークスペースのファイルとドラフトを許可する"
+        "string": "允许{orgName}所有工作区中的文件和草稿"
     },
     "resources_tab.approved_plugins.modal.approve": {
-        "string": "承認"
+        "string": "批准"
     },
     "resources_tab.approved_plugins.modal.approve_plugin": {
-        "string": "プラグインを承認"
+        "string": "批准插件"
     },
     "resources_tab.approved_plugins.modal.approve_widget": {
-        "string": "ウィジェットを承認"
+        "string": "批准小部件"
     },
     "resources_tab.approved_plugins.modal.approved_plugins_only": {
-        "string": "管理者に承認されたプラグインのみ"
+        "string": "仅管理员批准的插件"
     },
     "resources_tab.approved_plugins.modal.approve…": {
-        "string": "承認..."
+        "string": "批准..."
     },
     "resources_tab.approved_plugins.modal.attribution_multiple_creators": {
-        "string": "{creator1}、その他が作成"
+        "string": "由{creator1}和其他人创建"
     },
     "resources_tab.approved_plugins.modal.attribution_single_creator": {
-        "string": "{creator}が作成"
+        "string": "由{creator}创建"
     },
     "resources_tab.approved_plugins.modal.attribution_two_creators": {
-        "string": "{creator1}と{creator2}が作成"
+        "string": "由{creator1}和{creator2}创建"
     },
     "resources_tab.approved_plugins.modal.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "resources_tab.approved_plugins.modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "resources_tab.approved_plugins.modal.decline": {
-        "string": "承認しない"
+        "string": "不批准"
     },
     "resources_tab.approved_plugins.modal.default": {
-        "string": "(デフォルト)"
+        "string": "（默认）"
     },
     "resources_tab.approved_plugins.modal.edit_approvals": {
-        "string": "承認を編集"
+        "string": "编辑批准"
     },
     "resources_tab.approved_plugins.modal.failed_to_update_plugin_approval": {
-        "string": "プラグイン承認の更新に失敗しました"
+        "string": "更新插件批准失败"
     },
     "resources_tab.approved_plugins.modal.individual_workspaces_approval_warning": {
-        "string": "メンバーの1人がこのプラグインのドラフトファイルでの使用をリクエストしました。個人のワークスペースでの使用を承認すると、このプラグインはドラフト内で使用できなくなります。"
+        "string": "有成员请求在草稿文件中使用此插件。批准在个人工作区中使用此插件将使其在草稿中不可用。"
     },
     "resources_tab.approved_plugins.modal.licenses": {
-        "string": "ライセンス"
+        "string": "许可证"
     },
     "resources_tab.approved_plugins.modal.manage_plugin": {
-        "string": "プラグインを管理"
+        "string": "管理插件"
     },
     "resources_tab.approved_plugins.modal.manage_widget": {
-        "string": "ウィジェットを管理"
+        "string": "管理小部件"
     },
     "resources_tab.approved_plugins.modal.open_in_community": {
-        "string": "コミュニティで開く ->"
+        "string": "在社区中打开 ->"
     },
     "resources_tab.approved_plugins.modal.org_members_can_use": {
-        "string": "組織のメンバーが使用可能"
+        "string": "组织成员可用"
     },
     "resources_tab.approved_plugins.modal.plugin_approval": {
-        "string": "プラグインの承認"
+        "string": "插件批准"
     },
     "resources_tab.approved_plugins.modal.plugin_approval_removed_for": {
-        "string": "{orgName}のプラグイン承認を削除しました"
+        "string": "已删除{orgName}的插件批准"
     },
     "resources_tab.approved_plugins.modal.plugin_approved_for": {
-        "string": "{orgName}のプラグインを承認しました"
+        "string": "已批准{orgName}的插件"
     },
     "resources_tab.approved_plugins.modal.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "resources_tab.approved_plugins.modal.request_plugins": {
-        "string": "メンバーによるプラグインのリクエストを許可する"
+        "string": "允许成员请求插件"
     },
     "resources_tab.approved_plugins.modal.requested_by.many": {
-        "string": "{numOthers, plural, other {{requesterName}とその他{numOthers}名がリクエストしました}}"
+        "string": "{numOthers, plural, other {{requesterName}和其他{numOthers}人请求}}"
     },
     "resources_tab.approved_plugins.modal.requested_by.one": {
-        "string": "{requesterName}がリクエストしました"
+        "string": "{requesterName}请求"
     },
     "resources_tab.approved_plugins.modal.requested_by.two": {
-        "string": "{requesterName1}と{requesterName2}がリクエストしました"
+        "string": "{requesterName1}和{requesterName2}请求"
     },
     "resources_tab.approved_plugins.modal.review_plugin": {
-        "string": "プラグインを確認"
+        "string": "查看插件"
     },
     "resources_tab.approved_plugins.modal.review_widget": {
-        "string": "ウィジェットを確認"
+        "string": "查看小部件"
     },
     "resources_tab.approved_plugins.modal.save_changes": {
-        "string": "変更を保存"
+        "string": "保存更改"
     },
     "resources_tab.approved_plugins.modal.search_workspaces": {
-        "string": "ワークスペースを検索"
+        "string": "搜索工作区"
     },
     "resources_tab.approved_plugins.modal.security": {
-        "string": "セキュリティ"
+        "string": "安全"
     },
     "resources_tab.approved_plugins.modal.show_less": {
-        "string": "表示を減らす"
+        "string": "显示更少"
     },
     "resources_tab.approved_plugins.modal.show_more": {
-        "string": "さらに表示"
+        "string": "显示更多"
     },
     "resources_tab.approved_plugins.modal.try_it_out": {
-        "string": "使ってみる"
+        "string": "试用"
     },
     "resources_tab.approved_plugins.modal.try_it_out_ecc_tooltip": {
-        "string": "{orgName}の外部ファイルへのアクセスは無効になりました。"
+        "string": "{orgName}的外部文件访问已禁用。"
     },
     "resources_tab.approved_plugins.modal.user_count": {
-        "string": "{count, plural, other {· {count}人のユーザー}}"
+        "string": "{count, plural, other {· {count}个用户}}"
     },
     "resources_tab.approved_plugins.modal.widget_approval_removed_for": {
-        "string": "{orgName}のウィジェット承認を削除しました"
+        "string": "已删除{orgName}的小部件批准"
     },
     "resources_tab.approved_plugins.modal.widget_approved_for": {
-        "string": "{orgName}のプラグインを承認しました"
+        "string": "已批准{orgName}的小部件"
     },
     "resources_tab.approved_plugins.no_plugins.add_plugins_button": {
-        "string": "承認済みプラグインを追加"
+        "string": "添加已批准的插件"
     },
     "resources_tab.approved_plugins.no_plugins.text": {
-        "string": "組織には承認済みプラグインがまだありません。"
+        "string": "组织中尚无已批准的插件。"
     },
     "resources_tab.approved_plugins.plugin_approval_banner.go_to_settings_button": {
-        "string": "設定に移動"
+        "string": "前往设置"
     },
     "resources_tab.approved_plugins.plugin_approval_banner.open_settings": {
-        "string": "設定を開く"
+        "string": "打开设置"
     },
     "resources_tab.approved_plugins.plugin_approval_banner.text": {
-        "string": "承認済みプラグインのリストを作成するには、設定に移動して{settingName}をオンにします。"
+        "string": "要创建已批准的插件列表，请前往设置并启用{settingName}。"
     }
 }

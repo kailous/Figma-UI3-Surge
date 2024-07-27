@@ -1,152 +1,152 @@
 {
     "layer_icon.tooltip.table": {
-        "string": "テーブル"
+        "string": "表格"
     },
     "layer_icon.tooltip.template": {
-        "string": "テンプレート"
+        "string": "模板"
     },
     "layer_icon.tooltip.text": {
-        "string": "テキスト"
+        "string": "文本"
     },
     "layer_icon.tooltip.union": {
-        "string": "結合"
+        "string": "联合"
     },
     "layer_icon.tooltip.variant": {
-        "string": "バリアント"
+        "string": "变体"
     },
     "layer_icon.tooltip.vector": {
-        "string": "ベクター"
+        "string": "矢量"
     },
     "layer_icon.tooltip.video": {
-        "string": "動画"
+        "string": "视频"
     },
     "layer_icon.tooltip.webpage": {
-        "string": "Webページ"
+        "string": "网页"
     },
     "layer_icon.tooltip.widget": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "license_group.an_error_occurred_fetching_license_group_counts": {
-        "string": "ライセンスグループ数の取得中にエラーが発生しました"
+        "string": "获取许可证组数量时发生错误"
     },
     "license_group.an_error_occurred_while_fetching_workspaces": {
-        "string": "ワークスペースの取得中にエラーが発生しました"
+        "string": "获取工作区时发生错误"
     },
     "license_group.unassigned": {
-        "string": "未割り当て"
+        "string": "未分配"
     },
     "license_group.workspace_selector_is_hidden": {
-        "string": "ワークスペース選択機能は非表示です"
+        "string": "工作区选择器已隐藏"
     },
     "license_group.workspace_selector_is_visible": {
-        "string": "ワークスペース選択機能は表示されています"
+        "string": "工作区选择器已显示"
     },
     "billing_group_admin.upgrade_request_banner.subtitle": {
-        "string": "ダッシュボードに移動して申請を確認してください。"
+        "string": "前往仪表板查看请求。"
     },
     "billing_group_admin.upgrade_request_banner.title": {
-        "string": "{orgName}には{numRequests}があります"
+        "string": "{orgName}有{numRequests}个请求"
     },
     "billing_group_admin.upgrade_request_banner.title_num_requests": {
-        "string": "{numRequests, plural, other {{numRequests}件のアップグレード申請}}"
+        "string": "{numRequests, plural, other {{numRequests}个升级请求}}"
     },
     "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.billing_groups": {
-        "string": "このメニューから管理する請求グループに進みます。"
+        "string": "通过此菜单访问您管理的账单组。"
     },
     "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.workspaces_and_billing": {
-        "string": "このメニューから管理するワークスペースと請求グループに進みます。"
+        "string": "通过此菜单访问您管理的工作区和账单组。"
     },
     "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage_title": {
-        "string": "管理するグループにすばやく移動"
+        "string": "快速访问您管理的组"
     },
     "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_description": {
-        "string": "管理する請求グループのメンバーからのアップグレード申請は、管理ダッシュボードから承認できます。"
+        "string": "您可以在管理仪表板中批准来自您管理的账单组成员的升级请求。"
     },
     "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_title": {
-        "string": "アップグレード申請を管理する"
+        "string": "管理升级请求"
     },
     "billing_group_admin_onboarding.step_one_description": {
-        "string": "まだどのグループにも所属していないユーザーを確認し、必要に応じて自分のグループに移動します。"
+        "string": "查看尚未分配到任何组的用户，并根据需要将其移动到您的组中。"
     },
     "billing_group_admin_onboarding.step_one_heading": {
-        "string": "ユーザーを適切なグループに移動する"
+        "string": "将用户移动到合适的组"
     },
     "billing_group_admin_onboarding.step_two_description.seat_rename": {
-        "string": "ここは、各グループのシートを管理し、シートの総数を追跡するための場所です。"
+        "string": "这里是管理每个组的席位并跟踪总数的地方。"
     },
     "billing_group_admin_onboarding.step_two_heading.seat_rename": {
-        "string": "ユーザーのシートを迅速に更新する"
+        "string": "快速更新用户席位"
     },
     "license_group_admin.billing_banner.completed_at_date": {
-        "string": "この請求グループは{date}に確認されました。"
+        "string": "此账单组已在{date}确认。"
     },
     "license_group_admin.billing_banner.count_title.design.seat_rename": {
-        "string": "デザインシートの総数"
+        "string": "设计席位总数"
     },
     "license_group_admin.billing_banner.count_title.dev_mode": {
-        "string": "開発モードシートの総数"
+        "string": "开发模式席位总数"
     },
     "license_group_admin.billing_banner.count_title.figjam.seat_rename": {
-        "string": "FigJamシートの総数"
+        "string": "FigJam席位总数"
     },
     "license_group_admin.billing_banner.default": {
-        "string": "組織の次回の請求書発行日は{date}です"
+        "string": "组织的下一个账单日期是{date}"
     },
     "license_group_admin.billing_banner.review.add_members": {
-        "string": "メンバーを追加"
+        "string": "添加成员"
     },
     "license_group_admin.billing_banner.review.confirm_editors.seat_rename": {
-        "string": "シートを確定"
+        "string": "确认席位"
     },
     "license_group_admin.billing_banner.review.confirmation_modal.body.seat_rename": {
-        "string": "組織の管理者は、この請求グループの有料シートが確定済みであることを確認できます。"
+        "string": "组织管理员可以确认此账单组的付费席位已确认。"
     },
     "license_group_admin.billing_banner.review.confirmation_modal.title.seat_rename": {
-        "string": "{billingGroupName}のシートを確定しますか?"
+        "string": "确认{billingGroupName}的席位？"
     },
     "license_group_admin.billing_banner.review.subtitle.seat_rename": {
-        "string": "確定前に必要に応じて変更を行ってください。組織への請求は、確定されたフルシートに対してのみ行われます。"
+        "string": "在确认之前根据需要进行更改。组织只会为确认的完整席位计费。"
     },
     "license_group_admin.billing_banner.review.title.seat_rename": {
-        "string": "次のシートの確認と確定"
+        "string": "确认并确认下一个席位"
     },
     "license_group_admin.billing_dashboard.billing_banner.billing_group_links": {
         "string": "{billingGroupLinks}"
     },
     "license_group_admin.billing_dashboard.billing_banner.billing_group_links_plus": {
-        "string": "{count, plural, other {{billingGroupLinks}とその他{count}グループ}}"
+        "string": "{count, plural, other {{billingGroupLinks}和其他{count}个组}}"
     },
     "license_group_admin.billing_dashboard.billing_banner.review_and_confirm": {
-        "string": "シートを確認、確定しましょう"
+        "string": "确认并确认席位"
     },
     "license_group_admin.billing_dashboard.billing_banner.review_these_billing_groups": {
-        "string": "これらの請求グループを確認する必要があります:"
+        "string": "需要确认这些账单组："
     },
     "license_group_admin.members.no_members_yet": {
-        "string": "まだメンバーはいません"
+        "string": "尚无成员"
     },
     "license_group_admin.members.no_members_yet.subtitle": {
-        "string": "どのグループにも所属していないユーザーをこのグループに参加または移動するよう招待します。"
+        "string": "邀请尚未分配到任何组的用户加入或移动到此组。"
     },
     "license_group_admin_tab.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "multi_admin_onboarding.description": {
-        "string": "管理するワークスペースと請求グループとを切り替えるには、このメニューを使用します。"
+        "string": "使用此菜单在您管理的工作区和账单组之间切换。"
     },
     "multi_admin_onboarding.heading": {
-        "string": "管理するグループにすばやく切り替える"
+        "string": "快速切换到您管理的组"
     },
     "license_group_view.meta.unassigned_title": {
-        "string": "{orgName}のその他のチーム"
+        "string": "{orgName}的其他团队"
     },
     "license_group_view.toolbar.change_icon": {
-        "string": "アイコンを変更"
+        "string": "更改图标"
     },
     "license_group_view.toolbar.create_team_disabled": {
-        "string": "チームの作成は管理者によって無効にされています"
+        "string": "团队创建已被管理员禁用"
     },
     "license_group_view.toolbar.new_team_button": {
-        "string": "チーム"
+        "string": "团队"
     }
 }

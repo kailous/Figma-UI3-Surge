@@ -1,152 +1,152 @@
 {
     "settings_tab.connected_apps.description": {
-        "string": "説明"
+        "string": "说明"
     },
     "settings_tab.connected_apps.error_loading_tokens": {
-        "string": "リクエストを処理中にエラーが発生しました。更新してからもう一度お試しください"
+        "string": "请求处理时发生错误。请刷新后重试。"
     },
     "settings_tab.connected_apps.instruction": {
-        "string": "管理者が次のアプリに組織へのアクセスを許可しています。アプリのアクセス権はいつでも取り消すことができます。"
+        "string": "管理员已允许以下应用访问组织。您可以随时撤销应用的访问权限。"
     },
     "settings_tab.connected_apps.o_auth_scope": {
-        "string": "OAuthスコープ"
+        "string": "OAuth范围"
     },
     "settings_tab.connected_apps.oauth_token_deleted": {
-        "string": "Oauthトークンが削除されました"
+        "string": "Oauth令牌已删除"
     },
     "settings_tab.connected_apps.revoke": {
-        "string": "取り消し"
+        "string": "撤销"
     },
     "settings_tab.connected_apps.revoke_app": {
-        "string": "{appName}のアクセス権を取り消す"
+        "string": "撤销{appName}的访问权限"
     },
     "settings_tab.connected_apps.scope_description": {
-        "string": "次のスコープは、このアプリが組織でアクセスできる内容を示します:"
+        "string": "以下范围显示此应用在组织中可以访问的内容："
     },
     "settings_tab.connected_apps.scopes_granted": {
-        "string": "{numScopes, plural, other {{numScopes}スコープが含まれています}}"
+        "string": "{numScopes, plural, other {包含{numScopes}个范围}}"
     },
     "settings_tab.connected_apps.this_org_does_not_have_any_connected_apps": {
-        "string": "{orgName}に接続しているアプリがありません。"
+        "string": "{orgName}没有连接的应用。"
     },
     "settings_tab.connected_apps_description": {
-        "string": "組織にアクセスできるサードパーティアプリを管理します"
+        "string": "管理可以访问组织的第三方应用"
     },
     "settings_tab.contact_support": {
-        "string": "サポートに問い合わせる"
+        "string": "联系支持"
     },
     "settings_tab.contact_support_to_disable": {
-        "string": "サポートに連絡して無効にする"
+        "string": "联系支持以禁用"
     },
     "settings_tab.contact_support_to_enable": {
-        "string": "サポートに連絡して有効にする"
+        "string": "联系支持以启用"
     },
     "settings_tab.cursor_chat_description": {
-        "string": "組織内の全ファイルのカーソルチャットを有効にする"
+        "string": "启用组织内所有文件的光标聊天"
     },
     "settings_tab.cursor_chat_label": {
-        "string": "カーソルチャット"
+        "string": "光标聊天"
     },
     "settings_tab.custom_templates_description": {
-        "string": "ユーザーに組織内でのFigJamテンプレートの公開を許可する"
+        "string": "允许用户在组织内发布FigJam模板"
     },
     "settings_tab.custom_templates_description.v2": {
-        "string": "ユーザーにFigJamやFigma Slidesのテンプレートを組織内で公開することを許可します(ユーザーがツールにアクセス権を持つ場合)。"
+        "string": "允许用户在组织内发布FigJam和Figma Slides模板（如果用户有权访问这些工具）。"
     },
     "settings_tab.custom_templates_disabled": {
-        "string": "カスタムテンプレートが無効になりました"
+        "string": "自定义模板已禁用"
     },
     "settings_tab.custom_templates_enabled": {
-        "string": "カスタムテンプレートが有効になりました"
+        "string": "自定义模板已启用"
     },
     "settings_tab.custom_templates_label": {
-        "string": "テンプレートの公開"
+        "string": "模板发布"
     },
     "settings_tab.customize_dev_mode": {
-        "string": "開発モードをカスタマイズします。"
+        "string": "自定义开发模式。"
     },
     "settings_tab.data_storage": {
-        "string": "データストレージローカリゼーション"
+        "string": "数据存储本地化"
     },
     "settings_tab.data_storage.current_location": {
-        "string": "現在の場所: {currentLocation}"
+        "string": "当前位置：{currentLocation}"
     },
     "settings_tab.data_storage.description": {
-        "string": "ローカリゼーションがサポートしているデータを米国またはEUに保存します。保存場所を変更するには、サポートにお問い合わせください。"
+        "string": "本地化支持的数据存储在美国或欧盟。要更改存储位置，请联系支持。"
     },
     "settings_tab.data_storage_description": {
-        "string": "ローカリゼーションがサポートしているデータを米国またはEUに保存します。保存場所を変更するには、サポートにお問い合わせください。現在のデータの場所は{currentLocation}です。"
+        "string": "本地化支持的数据存储在美国或欧盟。要更改存储位置，请联系支持。当前数据位置是{currentLocation}。"
     },
     "settings_tab.data_storage_eu": {
-        "string": "欧州連合"
+        "string": "欧盟"
     },
     "settings_tab.data_storage_us": {
-        "string": "米国"
+        "string": "美国"
     },
     "settings_tab.delete_community_description": {
-        "string": "組織の公開プロフィール(すべての公開済みファイル、プラグイン、いいね、フォローデータなど)を削除します"
+        "string": "删除组织的公开资料（包括所有已发布的文件、插件、点赞、关注数据等）"
     },
     "settings_tab.delete_community_label": {
-        "string": "コミュニティプロフィールを削除"
+        "string": "删除社区资料"
     },
     "settings_tab.delete_org_description": {
-        "string": "この組織の削除をリクエストします"
+        "string": "请求删除此组织"
     },
     "settings_tab.delete_org_label": {
-        "string": "この組織を削除"
+        "string": "删除此组织"
     },
     "settings_tab.delete_org_modal.are_you_sure_you_d_like_to_delete_figma": {
-        "string": "Figmaを削除してよろしいですか?"
+        "string": "确定要删除Figma吗？"
     },
     "settings_tab.delete_org_modal.delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "settings_tab.delete_org_modal.delete_users_and_their_data": {
-        "string": "ユーザーとそのデータを削除しますか?"
+        "string": "删除用户及其数据？"
     },
     "settings_tab.delete_org_modal.delete_users_from_this_organization": {
-        "string": "この組織からユーザーを削除"
+        "string": "从此组织中删除用户"
     },
     "settings_tab.delete_org_modal.email_or_names_of_org_members": {
-        "string": "組織メンバーのメールアドレスまたは名前"
+        "string": "组织成员的电子邮件或姓名"
     },
     "settings_tab.delete_org_modal.enter_names_or_emails_of_users_that_you_d_like_to_delete": {
-        "string": "削除するユーザーの名前またはメールアドレスを入力します。ユーザーのアカウントに関連付けられているすべてのデータとFigmaへのアクセス権が削除されます。この操作は元に戻せません。"
+        "string": "输入要删除的用户姓名或电子邮件。所有与用户帐户关联的数据和Figma访问权限将被删除。此操作无法撤销。"
     },
     "settings_tab.delete_org_modal.please_confirm_that_you_wish_to_permanently_delete_the_org": {
-        "string": "{orgName} Figma組織と、この組織およびそのユーザーに関連付けられているすべてのデータを完全に削除することを確認してください。このリクエストは30日以内に処理されます。"
+        "string": "请确认您希望永久删除{orgName} Figma组织及其所有用户和关联数据。此请求将在30天内处理。"
     },
     "settings_tab.delete_org_modal.request_to_delete_organization": {
-        "string": "組織の削除をリクエスト"
+        "string": "请求删除组织"
     },
     "settings_tab.delete_org_modal.this_action_can_t_be_undone": {
-        "string": "このアクションは元に戻せません。"
+        "string": "此操作无法撤销。"
     },
     "settings_tab.delete_org_modal.you_re_deleting_figma_data_and_access_for_the_following_user": {
-        "string": "組織内の次のユーザーのFigmaデータとアクセス権を削除します:"
+        "string": "您将删除以下用户的Figma数据和访问权限："
     },
     "settings_tab.delete_user_description": {
-        "string": "ユーザーとそのデータの完全な削除をリクエストします"
+        "string": "请求删除用户及其所有数据"
     },
     "settings_tab.delete_user_label": {
-        "string": "ユーザーとそのデータを削除"
+        "string": "删除用户及其数据"
     },
     "settings_tab.dev_mode_description": {
-        "string": "組織の開発モードユーザー全員のエクスペリエンスをカスタマイズ"
+        "string": "自定义组织中所有开发模式用户的体验"
     },
     "settings_tab.dev_mode_label": {
-        "string": "開発モード設定"
+        "string": "开发模式设置"
     },
     "settings_tab.dev_mode_setting_set": {
-        "string": "設定"
+        "string": "设置"
     },
     "settings_tab.disable_community_file_publishing_success": {
-        "string": "コミュニティユーザー公開が無効です"
+        "string": "社区用户发布已禁用"
     },
     "settings_tab.disable_cursor_chat_success": {
-        "string": "カーソルチャット無効"
+        "string": "光标聊天已禁用"
     },
     "settings_tab.disable_plugin_approval_success": {
-        "string": "すべてのプラグインが許可されました"
+        "string": "所有插件已允许"
     }
 }

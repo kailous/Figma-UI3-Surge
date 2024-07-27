@@ -1,152 +1,152 @@
 {
     "inspect_panel.typography.align_center": {
-        "string": "中央揃え"
+        "string": "居中对齐"
     },
     "inspect_panel.typography.align_justified": {
-        "string": "両端揃え"
+        "string": "两端对齐"
     },
     "inspect_panel.typography.align_right": {
-        "string": "右揃え"
+        "string": "右对齐"
     },
     "inspect_panel.typography.cap_height": {
-        "string": "キャップハイト"
+        "string": "大写字母高度"
     },
     "inspect_panel.typography.font": {
-        "string": "フォント"
+        "string": "字体"
     },
     "inspect_panel.typography.hanging_list": {
-        "string": "リスト"
+        "string": "悬挂列表"
     },
     "inspect_panel.typography.hanging_punctuation": {
-        "string": "ぶら下げ"
+        "string": "悬挂标点"
     },
     "inspect_panel.typography.leading_trim": {
-        "string": "上下トリミング"
+        "string": "前导修剪"
     },
     "inspect_panel.typography.letter": {
-        "string": "文字"
+        "string": "字母"
     },
     "inspect_panel.typography.line_height": {
-        "string": "行間"
+        "string": "行高"
     },
     "inspect_panel.typography.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "inspect_panel.typography.optical_size": {
-        "string": "オプティカルサイズ"
+        "string": "光学尺寸"
     },
     "inspect_panel.typography.paragraph_indent": {
-        "string": "インデント"
+        "string": "段落缩进"
     },
     "inspect_panel.typography.paragraph_spacing": {
-        "string": "段落"
+        "string": "段落间距"
     },
     "inspect_panel.typography.punctuation": {
-        "string": "句読点"
+        "string": "标点符号"
     },
     "inspect_panel.typography.size": {
-        "string": "サイズ"
+        "string": "尺寸"
     },
     "inspect_panel.typography.span": {
-        "string": "span"
+        "string": "跨度"
     },
     "inspect_panel.typography.span_contents": {
-        "string": "span ({contents})"
+        "string": "跨度 ({contents})"
     },
     "inspect_panel.typography.span_whitespace": {
         "string": "空白"
     },
     "inspect_panel.typography.style": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "inspect_panel.typography.title": {
-        "string": "タイポグラフィー"
+        "string": "排版"
     },
     "inspect_panel.typography.too_many_selected": {
-        "string": "⚠️  {numSelected}個のタイポグラフィーを選択しましたが、そのうちの一部だけが表示されています"
+        "string": "⚠️ 选择了{numSelected}个排版项目，但只显示了部分内容"
     },
     "inspect_panel.typography.variation": {
-        "string": "バリエーション"
+        "string": "变体"
     },
     "inspect_panel.typography.weight": {
-        "string": "太さ"
+        "string": "粗细"
     },
     "inspect_panel.videos.title_plural": {
-        "string": "動画"
+        "string": "视频"
     },
     "inspect_panel.videos.title_singular": {
-        "string": "動画"
+        "string": "视频"
     },
     "ip_restriction.add_another": {
-        "string": "別のアカウントを追加"
+        "string": "添加另一个帐户"
     },
     "ip_restriction.add_more_accounts": {
-        "string": "使用するアカウントが表示されない場合は、{addAnotherButton}できます。"
+        "string": "如果未显示要使用的帐户，请{addAnotherButton}。"
     },
     "ip_restriction.explanation_login_many_domains": {
-        "string": "このネットワークのFigmaにアクセスするには、次のドメインのアカウントでログインするか、{orgName}組織へのアクセス権のある別のアカウントでログインします。 "
+        "string": "要从此网络访问Figma，请使用以下域的帐户登录，或使用具有{orgName}组织访问权限的其他帐户登录。"
     },
     "ip_restriction.explanation_login_one_domain": {
-        "string": "このネットワークでFigmaにアクセスするには、{domain}アカウントまたは{orgName}組織へのアクセスを持つ他のアカウントでログインします。"
+        "string": "要从此网络访问Figma，请使用{domain}帐户或具有{orgName}组织访问权限的其他帐户登录。"
     },
     "ip_restriction.explanation_switch": {
-        "string": "このネットワークのFigmaにアクセスする場合は、ログイン済みの{orgName}アカウントに切り替えてください。"
+        "string": "要从此网络访问Figma，请切换到已登录的{orgName}帐户。"
     },
     "ip_restriction.ip_allowlist_explanation": {
-        "string": "このアカウントでFigmaにアクセスするには、企業ネットワークからログインする必要があります。"
+        "string": "要使用此帐户访问Figma，您需要从公司网络登录。"
     },
     "ip_restriction.ip_allowlist_explanation_switch_accounts": {
-        "string": "このアカウントでFigmaにアクセスするには、企業ネットワークからログインするか、すでにログイン済みの別のアカウントへの切り替えが必要です。"
+        "string": "要使用此帐户访问Figma，请从公司网络登录或切换到已登录的另一个帐户。"
     },
     "ip_restriction.ip_allowlist_reload_page": {
-        "string": "このページを再度読み込んでください"
+        "string": "请重新加载此页面"
     },
     "ip_restriction.ip_allowlist_reload_page_on_authorized_network": {
-        "string": "許可されていないネットワークはもう使用していませんね?{reloadPage}"
+        "string": "不再使用未授权的网络了吗? {reloadPage}"
     },
     "ip_restriction.ip_allowlist_title": {
-        "string": "企業ネットワークからログインしてください"
+        "string": "请从公司网络登录"
     },
     "ip_restriction.login": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "ip_restriction.logout": {
-        "string": "このページにログインできない場合は、{logOutOfAllAccounts}して、このページから離れてください"
+        "string": "如果您无法登录此页面，请{logOutOfAllAccounts}并离开此页面"
     },
     "ip_restriction.logout_of_all_accounts": {
-        "string": "すべてのアカウントからログアウト"
+        "string": "退出所有帐户"
     },
     "ip_restriction.reload_page": {
-        "string": "もう{orgName}のネットワークからではありませんね? {reloadPage}ことができます"
+        "string": "不再使用{orgName}网络了吗? {reloadPage}"
     },
     "ip_restriction.reload_this_page": {
-        "string": "このページを再度読み込む"
+        "string": "重新加载此页面"
     },
     "ip_restriction.title_login_no_org": {
-        "string": "許可済みのアカウントでログイン"
+        "string": "使用授权帐户登录"
     },
     "ip_restriction.title_switch": {
-        "string": "{orgName}アカウントに切り替えてください"
+        "string": "切换到{orgName}帐户"
     },
     "lab.disabled": {
-        "string": "{labName}ラボを無効にしました"
+        "string": "已禁用{labName}实验"
     },
     "lab.enable": {
-        "string": "{labName}を有効にする"
+        "string": "启用{labName}"
     },
     "lab.enabled": {
-        "string": "{labName}ラボを有効にしました"
+        "string": "已启用{labName}实验"
     },
     "lab.figjam_ui3": {
         "string": "FigJam UI3"
     },
     "lab.figjam_ui3_colors": {
-        "string": "FigJam UI3: on-canvas colors"
+        "string": "FigJam UI3: 画布颜色"
     },
     "lab.fpl.components": {
-        "string": "FPLコンポーネント: エディターでFPLコンポーネントを使用"
+        "string": "FPL组件: 在编辑器中使用FPL组件"
     },
     "lab.inset_editor": {
-        "string": "インセットエディター"
+        "string": "嵌入编辑器"
     }
 }

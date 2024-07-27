@@ -1,152 +1,152 @@
 {
     "fullscreen_actions.page-duplicate": {
-        "string": "ページを複製"
+        "string": "复制页面"
     },
     "fullscreen_actions.page-move-to": {
-        "string": "{name}"
+        "string": "移动到{name}"
     },
     "fullscreen_actions.page-move-to-menu": {
-        "string": "ページに移動"
+        "string": "移动到页面"
     },
     "fullscreen_actions.page-move-to-new-file": {
-        "string": "新しいファイルに移動..."
+        "string": "移动到新文件..."
     },
     "fullscreen_actions.page-navigate-fail": {
-        "string": "そのページを読み込むことができませんでした。もう一度お試しください。"
+        "string": "无法加载该页面，请重试。"
     },
     "fullscreen_actions.page-next": {
-        "string": "次のページ"
+        "string": "下一页"
     },
     "fullscreen_actions.page-previous": {
-        "string": "前のページ"
+        "string": "上一页"
     },
     "fullscreen_actions.page-rename": {
-        "string": "ページ名を変更"
+        "string": "重命名页面"
     },
     "fullscreen_actions.pages-delete": {
-        "string": "{pageCount, plural, other {{pageCount}ページを削除}}"
+        "string": "删除{pageCount}个页面"
     },
     "fullscreen_actions.pages-rename": {
-        "string": "{pageCount, plural, other {{pageCount} ページの名前を変更}}"
+        "string": "重命名{pageCount}个页面"
     },
     "fullscreen_actions.pan": {
-        "string": "パン"
+        "string": "平移"
     },
     "fullscreen_actions.panels-menu": {
-        "string": "パネル"
+        "string": "面板"
     },
     "fullscreen_actions.paste": {
-        "string": "貼り付け"
+        "string": "粘贴"
     },
     "fullscreen_actions.paste-and-match-style": {
-        "string": "貼り付けてスタイルを適用"
+        "string": "粘贴并匹配样式"
     },
     "fullscreen_actions.paste-as-live-object": {
-        "string": "ライブオブジェクトとして貼り付ける"
+        "string": "粘贴为实时对象"
     },
     "fullscreen_actions.paste-here": {
-        "string": "ここに貼り付け"
+        "string": "粘贴到这里"
     },
     "fullscreen_actions.paste-over-selection": {
-        "string": "選択範囲の上に貼り付け"
+        "string": "粘贴覆盖选择"
     },
     "fullscreen_actions.paste-properties": {
-        "string": "プロパティの貼り付け"
+        "string": "粘贴属性"
     },
     "fullscreen_actions.paste-to-replace": {
-        "string": "貼り付けて置換"
+        "string": "粘贴替换"
     },
     "fullscreen_actions.pen_tool": {
-        "string": "ペンツール"
+        "string": "钢笔工具"
     },
     "fullscreen_actions.pencil_tool": {
-        "string": "鉛筆ツール"
+        "string": "铅笔工具"
     },
     "fullscreen_actions.place": {
-        "string": "画像/動画を配置..."
+        "string": "放置图像/视频..."
     },
     "fullscreen_actions.place_all_images": {
-        "string": "すべて配置"
+        "string": "全部放置"
     },
     "fullscreen_actions.place_image": {
-        "string": "画像を配置..."
+        "string": "放置图像..."
     },
     "fullscreen_actions.place_image_or_video": {
-        "string": "画像/動画..."
+        "string": "放置图像/视频..."
     },
     "fullscreen_actions.plugin_parameters.enter": {
         "string": "Enter"
     },
     "fullscreen_actions.plugin_parameters.optional_optional_names": {
-        "string": "オプション: {optionalNames}"
+        "string": "可选：{optionalNames}"
     },
     "fullscreen_actions.plugin_parameters.tab": {
         "string": "Tab"
     },
     "fullscreen_actions.plugin_parameters.to_enter_optional_parameters": {
-        "string": "オプションのパラメーターを入力するには"
+        "string": "输入可选参数"
     },
     "fullscreen_actions.plugin_parameters.to_run_plugin": {
-        "string": "プラグインを実行するには"
+        "string": "运行插件"
     },
     "fullscreen_actions.plugins-menu": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "fullscreen_actions.plugins-menu-browse": {
-        "string": "コミュニティでプラグインを探す"
+        "string": "在社区中查找插件"
     },
     "fullscreen_actions.plugins-menu-internal-dev-modal": {
-        "string": "内部開発..."
+        "string": "内部开发..."
     },
     "fullscreen_actions.plugins-menu-manage": {
-        "string": "プラグインを管理..."
+        "string": "管理插件..."
     },
     "fullscreen_actions.plugins-menu-saved-plugins": {
-        "string": "保存済みプラグイン"
+        "string": "已保存的插件"
     },
     "fullscreen_actions.plugins-run-last": {
-        "string": "最後のプラグインを実行"
+        "string": "运行上一个插件"
     },
     "fullscreen_actions.preferences-menu": {
-        "string": "基本設定"
+        "string": "首选项"
     },
     "fullscreen_actions.present-as-prototype": {
-        "string": "新しいタブに表示"
+        "string": "在新标签页中展示"
     },
     "fullscreen_actions.present-sites-full-preview": {
-        "string": "フルプレビュー"
+        "string": "完整预览"
     },
     "fullscreen_actions.present-slides-audience-view": {
-        "string": "プレゼンテーション"
+        "string": "演示"
     },
     "fullscreen_actions.present-slides-description": {
-        "string": "スライドを順番に1つずつ再生します。デッキの共有に最適です。"
+        "string": "逐个播放幻灯片，非常适合分享幻灯片。"
     },
     "fullscreen_actions.present-slides-flyout-icon-alt": {
-        "string": "現在のスライドのサムネイル"
+        "string": "当前幻灯片的缩略图"
     },
     "fullscreen_actions.present-slides-presenter-view": {
-        "string": "プレゼンテーション+メモ"
+        "string": "演示+备注"
     },
     "fullscreen_actions.present-slides-presenter-view-description": {
-        "string": "2つのビューを開きます。ひとつはデッキ用、もうひとつはメモ用です。"
+        "string": "打开两个视图，一个用于幻灯片，一个用于备注。"
     },
     "fullscreen_actions.previous-artboard": {
-        "string": "前のフレームにズーム"
+        "string": "缩小到上一帧"
     },
     "fullscreen_actions.previous-artboard-same-zoom": {
-        "string": "前のフレームの検出"
+        "string": "检测到上一帧"
     },
     "fullscreen_actions.print-image-diagnostics": {
-        "string": "Print image diagnostics"
+        "string": "打印图像诊断"
     },
     "fullscreen_actions.print-render-tree": {
-        "string": "Print render tree"
+        "string": "打印渲染树"
     },
     "fullscreen_actions.prototype": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "fullscreen_actions.prune_invalid_component_prop_refs": {
-        "string": "選択範囲の無効なコンポーネントプロパティ参照を削除します"
+        "string": "删除选择中的无效组件属性引用"
     }
 }

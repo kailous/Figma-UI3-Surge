@@ -1,152 +1,152 @@
 {
     "org_settings.autogen_password_controls.custom_passwords_description": {
-        "string": "パスワードは手動で作成することも自動的に生成することもできます。"
+        "string": "可以手动创建密码或自动生成密码。"
     },
     "org_settings.autogen_password_controls.default": {
-        "string": "(デフォルト)"
+        "string": "(默认)"
     },
     "org_settings.autogen_password_controls.description": {
-        "string": "ファイルのパスワードの作成方法を選択してください。"
+        "string": "请选择文件密码的创建方式。"
     },
     "org_settings.autogen_password_controls.save": {
         "string": "保存"
     },
     "org_settings.autogen_password_controls.success": {
-        "string": "パスワード保護の設定を更新しました"
+        "string": "密码保护设置已更新"
     },
     "org_settings.autogen_password_controls.title": {
-        "string": "パスワード保護オプション"
+        "string": "密码保护选项"
     },
     "org_settings.external_collaboration_controls.accept_invites": {
-        "string": "他のチームと組織からの招待を承諾して、ファイル、プロジェクト、チームに参加します"
+        "string": "接受其他团队和组织的邀请，加入文件、项目、团队"
     },
     "org_settings.external_collaboration_controls.banner": {
-        "string": "この設定は、コンテンツにユーザーがアクセスできるかどうかに影響します。設定を変更する前に{let_org_know}ください。"
+        "string": "此设置会影响用户对内容的访问。更改设置前请{let_org_know}。"
     },
     "org_settings.external_collaboration_controls.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "org_settings.external_collaboration_controls.cannot": {
-        "string": "不可"
+        "string": "无法"
     },
     "org_settings.external_collaboration_controls.create": {
-        "string": "他のチームまたは組織にドラフト、ファイル、またはプロジェクトを作成する"
+        "string": "在其他团队或组织中创建草稿、文件或项目"
     },
     "org_settings.external_collaboration_controls.disable": {
-        "string": "無効にする"
+        "string": "禁用"
     },
     "org_settings.external_collaboration_controls.enable": {
-        "string": "有効にする(デフォルト)"
+        "string": "启用（默认）"
     },
     "org_settings.external_collaboration_controls.header": {
-        "string": "外部コンテンツへのアクセス"
+        "string": "外部内容访问"
     },
     "org_settings.external_collaboration_controls.let_org_know": {
-        "string": "組織に知らせて"
+        "string": "通知组织"
     },
     "org_settings.external_collaboration_controls.list_header_setting_off": {
-        "string": "メンバーに{orgName}以外からのコンテンツへのアクセスを許可すると、次のことができるようになります:"
+        "string": "允许成员访问{orgName}之外的内容时，他们将能够："
     },
     "org_settings.external_collaboration_controls.list_header_setting_on": {
-        "string": "メンバーに{orgName}以外からのアクセスを制限すると、次のことが{cannot}なります:"
+        "string": "限制成员访问{orgName}之外的内容时，他们将{cannot}："
     },
     "org_settings.external_collaboration_controls.note": {
-        "string": "注:"
+        "string": "注意："
     },
     "org_settings.external_collaboration_controls.open_sessions": {
-        "string": "以下にログイン中は、他のチームまたは組織のオープンセッションでの編集アクセス権があります:"
+        "string": "登录以下内容时，拥有其他团队或组织的开放会话编辑访问权限："
     },
     "org_settings.external_collaboration_controls.save": {
         "string": "保存"
     },
     "org_settings.external_collaboration_controls.setting_header": {
-        "string": "メンバーは{orgName}以外からコンテンツにアクセスできます"
+        "string": "成员可以访问{orgName}之外的内容"
     },
     "org_settings.external_collaboration_controls.success": {
-        "string": "コンテンツアクセス設定を変更しました。更新には最大10分かかります。"
+        "string": "内容访问设置已更改。更新最多可能需要10分钟。"
     },
     "org_settings.external_collaboration_controls.view_only": {
-        "string": "他のチームおよび組織と共有しているファイルとドラフトのコメントを編集します({note}ファイルは閲覧限定になります)"
+        "string": "编辑与其他团队和组织共享的文件和草稿的评论（{note}文件将为只读）"
     },
     "org_settings.external_collaboration_controls.view_or_edit_files": {
-        "string": "他のチームおよび組織と共有しているファイルとドラフトの表示、コメント、編集"
+        "string": "查看、评论和编辑与其他团队和组织共享的文件和草稿"
     },
     "org_settings.guest_control.banned": {
-        "string": "外部ユーザーは組織に参加できません"
+        "string": "外部用户无法加入组织"
     },
     "org_settings.guest_control.confirm_button": {
-        "string": "確認"
+        "string": "确认"
     },
     "org_settings.guest_control.confirm_title": {
-        "string": "確認"
+        "string": "确认"
     },
     "org_settings.guest_control.default": {
-        "string": "(デフォルト)"
+        "string": "(默认)"
     },
     "org_settings.guest_control.enabled": {
-        "string": "有効"
+        "string": "启用"
     },
     "org_settings.guest_control.guest_definition": {
-        "string": "ゲストとは、組織に参加する、{domains}のメールアドレスを持たない外部ユーザーです。"
+        "string": "访客是指拥有{domains}以外电子邮件地址的外部用户。"
     },
     "org_settings.guest_control.guest_membership": {
-        "string": "ゲストメンバーシップ"
+        "string": "访客会员资格"
     },
     "org_settings.guest_control.guest_question": {
-        "string": "どのようなユーザーを組織にメンバーとして参加できるようにしますか?"
+        "string": "允许哪些用户加入组织成为成员？"
     },
     "org_settings.guest_control.link_sharing_on": {
-        "string": "現在、組織で公開リンク共有が{enabled}になっています。個々のファイルの権限で許可されている場合には、外部ユーザーはリンクからコンテンツを閲覧できます。この設定は、{publicLinkSharingSettings}でオフにできます。"
+        "string": "目前，组织已{enabled}公开链接共享。根据单个文件权限，外部用户可以通过链接查看内容。此设置可以在{publicLinkSharingSettings}中关闭。"
     },
     "org_settings.guest_control.no_guest_confirmation": {
-        "string": "ユーザーは、\"編集可\"権限が設定されている公開リンクを共有できなくなります。\"編集可\"権限が設定されている既存の公開リンクはすべて\"閲覧限定\"権限にダウングレードされます。"
+        "string": "用户将无法共享“可编辑”权限的公开链接。所有现有的“可编辑”权限公开链接将被降级为“只读”权限。"
     },
     "org_settings.guest_control.null": {
-        "string": "外部ユーザーは組織に参加できます"
+        "string": "外部用户可以加入组织"
     },
     "org_settings.guest_control.public_link_sharing_settings": {
-        "string": "公開リンク共有設定"
+        "string": "公开链接共享设置"
     },
     "org_settings.guest_control.require_approval": {
-        "string": "外部ユーザーは管理者の承認を得た場合にのみ参加できます"
+        "string": "只有在获得管理员批准后，外部用户才能加入"
     },
     "org_settings.guest_control.save_button": {
         "string": "保存"
     },
     "org_settings.leave_org.confirm_modal_button": {
-        "string": "{orgName}を脱退"
+        "string": "离开{orgName}"
     },
     "org_settings.leave_org.confirm_modal_message": {
-        "string": "現在、{orgName}組織の{guest}です。この組織を脱退すると、共有されていたすべてのコンテンツにアクセスできなくなります。この操作は元に戻せません。"
+        "string": "目前，您是{orgName}组织的{guest}。离开此组织后，您将无法访问所有共享内容。此操作无法撤销。"
     },
     "org_settings.leave_org.confirm_modal_title": {
-        "string": "{orgName}組織を脱退"
+        "string": "离开{orgName}组织"
     },
     "org_settings.leave_org.guest": {
-        "string": "ゲスト"
+        "string": "访客"
     },
     "org_settings.library_subscription_confirm.already_browsable": {
-        "string": "このライブラリは、デフォルトですべての組織ファイルに表示されます。"
+        "string": "此库默认显示在所有组织文件中。"
     },
     "org_settings.library_subscription_confirm.already_browsable.enable_button": {
-        "string": "ライブラリを有効にする"
+        "string": "启用库"
     },
     "org_settings.library_subscription_confirm.cancel_button": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "org_settings.library_subscription_confirm.not_yet_browsable": {
-        "string": "組織でこのライブラリを有効にするには、このライブラリへのアクセス権をすべてのユーザーに付与する必要があります。{lineBreak}これにより、\"{fileName}\"のプライバシーが[{orgName}のすべてのユーザーが閲覧できます]に変更されます。"
+        "string": "要在组织中启用此库，您需要向所有用户授予访问权限。{lineBreak}这将更改“{fileName}”的隐私设置为“{orgName}的所有用户可浏览”。"
     },
     "org_settings.library_subscription_confirm.not_yet_browsable.enable_button": {
-        "string": "プライバシーを変更して有効にする"
+        "string": "更改隐私并启用"
     },
     "org_settings.library_subscription_confirm.title": {
-        "string": "組織でライブラリを有効にしますか?"
+        "string": "在组织中启用库吗？"
     },
     "org_settings.public_link_sharing.allow_public_links": {
-        "string": "公開リンクを許可"
+        "string": "允许公开链接"
     },
     "org_settings.public_link_sharing.allow_public_links_with_password_protection": {
-        "string": "パスワードで保護された公開リンクを許可"
+        "string": "允许密码保护的公开链接"
     }
 }

@@ -1,152 +1,152 @@
 {
     "payments.pro_enter_an_email_address": {
-        "string": "更新のリマインダー、お支払いの確認など、請求関連のメールを受け取る管理者以外のユーザーやメールアドレスを選択できます。管理者は、これらのメールを常に受け取ります。"
+        "string": "您可以选择管理员以外的用户或电子邮件地址来接收账单相关的邮件，例如续订提醒、支付确认等。管理员始终会收到这些邮件。"
     },
     "payments.pro_plan_ends_button": {
-        "string": "プロフェッショナルプランを購入"
+        "string": "购买专业计划"
     },
     "payments.pro_plan_ends_for_team_description": {
-        "string": "数に制限がないチームのFigmaファイル、プロジェクト、チームライブラリなどの有料の機能を引き続き利用するには、{teamName}のプロフェッショナルプランを購入してください。"
+        "string": "为了继续使用{teamName}的专业计划中的无限制团队Figma文件、项目、团队库等付费功能，请购买专业计划。"
     },
     "payments.pro_plan_ends_on_date": {
-        "string": "プロフェッショナルプランは{end_date}に終了します"
+        "string": "专业计划将于{end_date}结束"
     },
     "payments.pro_plan_ends_relative_time_string": {
-        "string": "プロフェッショナルプランは{relative_time_string}に終了します"
+        "string": "专业计划将于{relative_time_string}结束"
     },
     "payments.pro_trial.start_pro_trial_error": {
-        "string": "このプロフェッショナルチームへのトライアルの付与中にエラーが発生しました"
+        "string": "为此专业团队授予试用时发生错误"
     },
     "payments.pro_trial.start_pro_trial_success": {
-        "string": "処理が正常に終了しました。プロフェッショナルチームトライアルへようこそ"
+        "string": "处理成功。欢迎使用专业团队试用。"
     },
     "payments.pro_trial.trial_ended_banner_message": {
-        "string": "{teamName}はスタータープランに戻りましたが、いつでもアップグレードできます"
+        "string": "{teamName}已恢复为入门计划，您可以随时升级。"
     },
     "payments.pro_trial.trial_ended_banner_message.no_name": {
-        "string": "チームはスタータープランに戻りましたが、いつでもアップグレードできます。"
+        "string": "团队已恢复为入门计划，您可以随时升级。"
     },
     "payments.pro_trial.trial_ended_banner_title": {
-        "string": "プロフェッショナルのトライアルが終了しました。"
+        "string": "专业试用已结束。"
     },
     "payments.pro_trial.trial_ended_banner_upgrade_cta": {
-        "string": "プロフェッショナルにアップグレード"
+        "string": "升级到专业版"
     },
     "payments.pro_trial_expiry.locked_description_for_viewer_on_team": {
-        "string": "{teamName}のファイルは一時的に閲覧限定です。詳細はチームの管理者にお問い合わせください。"
+        "string": "{teamName}的文件目前仅限查看。详情请联系团队管理员。"
     },
     "payments.pro_trial_expiry.locked_description_on_team": {
-        "string": "{teamName}ファイルは、{lowerUsageLink}スターターの制限内にするかアップグレードするまで、閲覧限定になります。"
+        "string": "{teamName}的文件目前仅限查看，直到您{lowerUsageLink}使其符合入门计划的限制或升级。"
     },
     "payments.pro_trial_expiry.lower_usage": {
-        "string": "使用量を減らして"
+        "string": "降低使用量"
     },
     "payments.pro_trial_upgrade_cta.upgrade": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "payments.projects_deprecated": {
-        "string": "チーム外部ではプロジェクトがサポートされていません。編集を続けるには、このプロジェクトをチームに移動するか、これらのファイルをドラフトに移動してください。"
+        "string": "项目在团队外部不受支持。要继续编辑，请将此项目移到团队或将这些文件移到草稿中。"
     },
     "payments.save": {
         "string": "保存"
     },
     "payments.step_pay.add_more_editors": {
-        "string": "事前に準備しておきますか?{addMoreSeats}"
+        "string": "要提前添加更多席位吗？{addMoreSeats}"
     },
     "payments.step_pay.add_more_seats": {
-        "string": "シートを追加する"
+        "string": "添加席位"
     },
     "payments.step_pay.confirm_seats": {
-        "string": "シートを確認する"
+        "string": "确认席位"
     },
     "payments.step_pay.editors_on_annual_plan.seat_rename": {
-        "string": "{numAnnualEditors, plural, other {年間プランで{numAnnualEditorsNumberOrInput}人分の{productType}シート}}"
+        "string": "{numAnnualEditors, plural, other {年度计划中的{numAnnualEditorsNumberOrInput}个{productType}席位}}"
     },
     "payments.step_pay.happy_you_want_to_buy_seats": {
-        "string": "購入総シート数は{numAnnualEditors}シートです。入力に間違いがないか、ご確認ください。"
+        "string": "您要购买的总席位数为{numAnnualEditors}个。请确认输入无误。"
     },
     "payments.step_pay.none_selected": {
-        "string": "選択されていません"
+        "string": "未选择"
     },
     "payments.step_pay.num_editors.seat_rename": {
-        "string": "{numEditors, plural, other {{numEditors}人分のフルシート}}"
+        "string": "{numEditors, plural, other {{numEditors}个全席位}}"
     },
     "payments.step_pay.plus_sales_tax": {
-        "string": "+ 消費税"
+        "string": "+ 销售税"
     },
     "payments.step_pay.price_per_editor_12_months": {
-        "string": "{price} × {editorString} × 12か月"
+        "string": "{price} × {editorString} × 12个月"
     },
     "payments.step_pay.subscription": {
-        "string": "サブスクリプション"
+        "string": "订阅"
     },
     "payments.step_pay.thats_a_lot_of_seats": {
-        "string": "{numAnnualEditors}シートですか? かなりの数ですね!"
+        "string": "{numAnnualEditors}个席位？真多啊！"
     },
     "payments.team_over_starter_team_limit": {
-        "string": "スタータープランの上限を超えたため、{teamName}がロックされました。詳細はチームの管理者にお問い合わせください。"
+        "string": "{teamName}已超出入门计划的上限，已被锁定。详情请联系团队管理员。"
     },
     "payments.team_over_starter_team_limit_lower_your_usage": {
-        "string": "使用量を減らして"
+        "string": "降低使用量"
     },
     "payments.team_over_starter_team_limit_title": {
-        "string": "スタータープランの上限に達しました"
+        "string": "已达到入门计划的上限"
     },
     "payments.team_over_starter_team_limit_upgrade": {
-        "string": "{teamName}をアップグレードしてファイルの編集を続けるか、{lowerYourUsage}ください。"
+        "string": "升级{teamName}以继续编辑文件，或{lowerYourUsage}。"
     },
     "payments.team_over_starter_team_limit_with_button.legacy_team": {
-        "string": "スタータープランでは、{fileLimitString}に制限されています。ファイルの制限をなくし、もっと多くのことを行うには、{checkoutOurPlans}して{teamName}をアップグレードしてください。"
+        "string": "在入门计划中，限制为{fileLimitString}。要移除文件限制并获得更多功能，请{checkoutOurPlans}并升级{teamName}。"
     },
     "payments.team_over_starter_team_limit_with_button.no_legacy_team_present": {
-        "string": "スタータープランでは、{fileLimitString}に制限されています。ファイルの制限をなくし、もっと多くのことを行うには、{checkoutOurPlans}してチームをアップグレードしてください。"
+        "string": "在入门计划中，限制为{fileLimitString}。要移除文件限制并获得更多功能，请{checkoutOurPlans}并升级团队。"
     },
     "payments.united_states": {
-        "string": "米国"
+        "string": "美国"
     },
     "payments.update_payment": {
-        "string": "支払い情報を更新する"
+        "string": "更新支付信息"
     },
     "payments.upgrade_now": {
-        "string": "今すぐアップグレードする"
+        "string": "立即升级"
     },
     "payments.view_only_projects": {
-        "string": "閲覧限定プロジェクト"
+        "string": "仅限查看的项目"
     },
     "payments_modal.account_switcher_and_support_cta": {
-        "string": "{switchAccountLink}てFigmaの使用を継続するか、詳細をサポートにお問い合わせください。"
+        "string": "{switchAccountLink}继续使用Figma，或联系支持了解详细信息。"
     },
     "payments_modal.account_switcher_cta": {
-        "string": "Figmaを引き続き使用するには、{switchAccountLink}。"
+        "string": "要继续使用Figma，请{switchAccountLink}。"
     },
     "payments_modal.add": {
-        "string": "追加"
+        "string": "添加"
     },
     "payments_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "payments_modal.contact_an_admin_of_team_name_to_upgrade": {
-        "string": "アップグレードするには、{teamName}の管理者に連絡してください。"
+        "string": "要升级，请联系{teamName}的管理员。"
     },
     "payments_modal.contact_an_admin_to_update_your_payment_source": {
-        "string": "支払い元を更新するには、管理者に連絡してください。"
+        "string": "要更新支付来源，请联系管理员。"
     },
     "payments_modal.contact_support": {
-        "string": "サポートにお問い合わせください"
+        "string": "联系支持"
     },
     "payments_modal.duplicate": {
-        "string": "複製"
+        "string": "重复"
     },
     "payments_modal.guest_permission_disclaimer": {
-        "string": "組織のゲストであるため、招待されたチームとファイルのみを閲覧できます。"
+        "string": "您是组织的访客，只能查看被邀请的团队和文件。"
     },
     "payments_modal.if_you_d_like_you_can_upgrade_your_plan_now_or_learn_more_about_our_paid_plans": {
-        "string": "ご希望される場合、今すぐプランをアップグレードできます。または{learnMoreAboutOurPaidPlans}をご覧ください。"
+        "string": "如果愿意，您现在可以升级您的计划，或{learnMoreAboutOurPaidPlans}。"
     },
     "payments_modal.if_you_would_rather_keep_the_current_limits": {
-        "string": "現在の制限を引き続き維持する場合は、{upgradeToProfessional}します"
+        "string": "如果您更愿意保持当前限制，请{upgradeToProfessional}。"
     },
     "payments_modal.import": {
-        "string": "インポート"
+        "string": "导入"
     }
 }

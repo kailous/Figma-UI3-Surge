@@ -1,152 +1,152 @@
 {
     "workspace_table.name_input": {
-        "string": "名前"
+        "string": "名称"
     },
     "workspace_table.name_input_placeholder": {
-        "string": "部門、事業単位などの名前を追加"
+        "string": "添加部门、业务单元等名称"
     },
     "workspace_table.only_members_can_find_and_access": {
-        "string": "ワークスペースのメンバーのみ検索とアクセスが可能です"
+        "string": "只有工作区成员可以查找和访问"
     },
     "workspace_table.search.no_results": {
-        "string": "検索条件に一致するワークスペースが見つかりませんでした。検索をやり直してください。"
+        "string": "未找到符合搜索条件的工作区，请重新搜索。"
     },
     "workspace_table.search.placeholder": {
-        "string": "ワークスペースを検索…"
+        "string": "搜索工作区…"
     },
     "workspace_table.secret_workspace_lock_tooltip": {
-        "string": "このワークスペースは非表示です"
+        "string": "此工作区已隐藏"
     },
     "workspace_table.secret_workspace_lock_tooltip_subtext": {
-        "string": "そのメンバーと管理者のみ検索とアクセスが可能です"
+        "string": "只有其成员和管理员可以查找和访问"
     },
     "workspace_table.teams": {
-        "string": "チーム"
+        "string": "团队"
     },
     "workspace_table.unassigned": {
-        "string": "未割り当て"
+        "string": "未分配"
     },
     "workspace_table.unassigned_row_default": {
-        "string": "(デフォルト)"
+        "string": "（默认）"
     },
     "workspace_table.visibility": {
-        "string": "表示"
+        "string": "可见性"
     },
     "workspace_table.workspace": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "workspace_table.workspace_created_toast": {
-        "string": "新しいワークスペース\"{workspaceName}\"が作成されました"
+        "string": "已创建新工作区\"{workspaceName}\""
     },
     "workspace_table.workspace_edit_save_changes": {
-        "string": "変更を保存"
+        "string": "保存更改"
     },
     "workspace_table.workspace_edited_toast": {
-        "string": "更新済みの「{workspaceName}」ワークスペース"
+        "string": "已更新工作区\"{workspaceName}\""
     },
     "workspace_table.workspace_name_already_exists_error": {
-        "string": "ワークスペース名は既に使用されています。別の名前を選択してください"
+        "string": "工作区名称已被使用，请选择其他名称"
     },
     "workspace_table.workspace_name_unassigned_error": {
-        "string": "ワークスペースに'Unassigned'という名前を付けることはできません"
+        "string": "无法将工作区命名为“未分配”"
     },
     "workspace_table.workspaces_deleted_toast": {
-        "string": "{licenseGroupsCount, plural, other {{licenseGroupsCount}個のワークスペースを削除しました}}"
+        "string": "已删除{licenseGroupsCount, plural, other {{licenseGroupsCount}个工作区}}"
     },
     "org_admin_survey.agree": {
-        "string": "そう思う"
+        "string": "同意"
     },
     "org_admin_survey.can_you_tell_us_about_your_experience_using_figma": {
-        "string": "Figmaを使用した感想をお聞かせください"
+        "string": "请告诉我们您使用Figma的体验"
     },
     "org_admin_survey.disagree": {
-        "string": "そう思わない"
+        "string": "不同意"
     },
     "org_admin_survey.figma_makes_it_easy_to_manage_costs": {
-        "string": "Figmaではコストを容易に管理できる"
+        "string": "Figma使管理成本变得容易"
     },
     "org_admin_survey.figma_makes_it_efficient_to_give_users_the_access_they_need": {
-        "string": "Figmaではユーザーに必要なアクセス権を効率的に付与できる"
+        "string": "Figma可以高效地给予用户所需的访问权限"
     },
     "org_admin_survey.figma_s_billing_model_is_fair": {
-        "string": "Figmaの請求モデルは公正である"
+        "string": "Figma的计费模式是公平的"
     },
     "org_admin_survey.n_a": {
-        "string": "該当なし"
+        "string": "不适用"
     },
     "org_admin_survey.neither_agree_nor_disagree": {
-        "string": "どちらとも言えない"
+        "string": "中立"
     },
     "org_admin_survey.not_answered": {
-        "string": "'未回答'"
+        "string": "未回答"
     },
     "org_admin_survey.rate_your_level_of_agreement_with_the_following_statements": {
-        "string": "次の文について、最もあてはまるものを選んでください。"
+        "string": "请根据以下陈述选择最符合您的选项"
     },
     "org_admin_survey.strongly_agree": {
-        "string": "とてもそう思う"
+        "string": "非常同意"
     },
     "org_admin_survey.strongly_disagree": {
-        "string": "まったくそう思わない"
+        "string": "非常不同意"
     },
     "org_admin_survey.what_would_improve_your_experience": {
-        "string": "使いやすさを向上させるため、お客様のご意見をお聞かせください。"
+        "string": "请告诉我们您认为可以提高使用体验的地方"
     },
     "orgs_middleware.an_error_occurred_while_generating_scim": {
-        "string": "SCIM APIトークンの生成中にエラーが発生しました。"
+        "string": "生成SCIM API令牌时发生错误"
     },
     "orgs_middleware.an_error_occurred_while_enqueeing_deletion_request": {
-        "string": "削除リクエストをキューに登録しているときにエラーが発生しました"
+        "string": "将删除请求加入队列时发生错误"
     },
     "orgs_middleware.an_error_occurred_while_revoking_scim": {
-        "string": "SCIM APIトークンの取り消し中にエラーが発生しました。"
+        "string": "撤销SCIM API令牌时发生错误"
     },
     "orgs_middleware.user_data_deleted": {
-        "string": "ユーザーデータが削除されました"
+        "string": "用户数据已删除"
     },
     "orgs_middleware.deletion_request_submitted": {
-        "string": "削除リクエストが送信されました"
+        "string": "删除请求已提交"
     },
     "configured_upgrade_request_modal.from_the_admins": {
-        "string": "{orgName}の管理者からの指示:"
+        "string": "{orgName}的管理员的指示："
     },
     "confirm_account_change.account_type_successfully_updated.seat_rename": {
-        "string": "{numUsers, plural, other {{numUsers}人のシートが更新されました}}"
+        "string": "{numUsers, plural, other {{numUsers}个席位已更新}}"
     },
     "confirm_account_change.downgrade.all_licenses.description_p1.plural": {
-        "string": "この{numUsers}人のメンバーを{viewerRestricted}シートにダウングレードすると、"
+        "string": "将这{numUsers}名成员降级到{viewerRestricted}席位，"
     },
     "confirm_account_change.downgrade.all_licenses.description_p1.singular": {
-        "string": "{userName}を{viewerRestricted}シートにダウングレードすると、"
+        "string": "将{userName}降级到{viewerRestricted}席位，"
     },
     "confirm_account_change.downgrade.all_licenses.description_p1.singular.no_username": {
-        "string": "このメンバーを{viewerRestricted}シートにダウングレードすると、"
+        "string": "将这名成员降级到{viewerRestricted}席位，"
     },
     "confirm_account_change.downgrade.design.description_p2": {
-        "string": "次の操作ができなくなります。"
+        "string": "将无法执行以下操作。"
     },
     "confirm_account_change.downgrade.design.give_access_to_drafts": {
-        "string": "自分でアップグレードする(管理者の承認が必要になります)"
+        "string": "自己升级（需要管理员批准）"
     },
     "confirm_account_change.downgrade.dev_mode.description_p2": {
-        "string": "開発モードとそのすべての機能を利用できなくなります。以下の機能が含まれます。"
+        "string": "将无法使用开发模式及其所有功能。包括以下功能："
     },
     "confirm_account_change.generic.design.access_all_templates_and_libraries": {
-        "string": "すべてのテンプレートとライブラリへのアクセス"
+        "string": "访问所有模板和库"
     },
     "confirm_account_change.generic.design.edit_share_or_create": {
-        "string": "ドラフトの外でのデザインファイルの編集、作成、共有"
+        "string": "在草稿之外编辑、创建和共享设计文件"
     },
     "confirm_account_change.generic.design.free_dev_mode_access": {
-        "string": "開発モードへの無料アクセス"
+        "string": "免费访问开发模式"
     },
     "confirm_account_change.generic.design.free_dev_mode_access.learn_more": {
-        "string": "詳細はこちらをご覧ください。"
+        "string": "了解更多"
     },
     "confirm_account_change.generic.design.give_access_to_drafts": {
-        "string": "コラボレーターへのFigmaデザインドラフトへのアクセス権の付与"
+        "string": "向合作者提供Figma设计草稿访问权限"
     },
     "confirm_account_change.generic.dev_mode.advanced_inspect": {
-        "string": "コードの部分的なカスタマイズが可能なコードな高度なインスペクト"
+        "string": "高级检查功能，可以对部分代码进行自定义"
     }
 }

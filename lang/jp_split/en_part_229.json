@@ -1,152 +1,152 @@
 {
     "settings_tab.modify_community_handle_description": {
-        "string": "組織のハンドル"
+        "string": "组织的句柄"
     },
     "settings_tab.modify_community_handle_label": {
-        "string": "組織の公開プロフィールハンドルを追加または変更"
+        "string": "添加或更改组织的公共资料句柄"
     },
     "settings_tab.network_access_restriction_label": {
-        "string": "このネットワークでの個人アクセスを制限"
+        "string": "限制此网络上的个人访问"
     },
     "settings_tab.password_controls_settings_description": {
-        "string": "ファイルに追加できるパスワードのタイプを選択します"
+        "string": "选择可以添加到文件中的密码类型"
     },
     "settings_tab.password_controls_settings_label": {
-        "string": "パスワード保護オプション"
+        "string": "密码保护选项"
     },
     "settings_tab.paste_plugin_link": {
-        "string": "{orgLink}または{communityLink}から、プラグインのリソースページへのリンクを貼り付けます。"
+        "string": "从{orgLink}或{communityLink}粘贴到插件的资源页面链接。"
     },
     "settings_tab.pinned_plugins_add": {
-        "string": "追加"
+        "string": "添加"
     },
     "settings_tab.pinned_plugins_add_label": {
-        "string": "ピン留めされたプラグインを追加"
+        "string": "添加已固定的插件"
     },
     "settings_tab.pinned_plugins_description": {
-        "string": "プラグインをピン留めしてインスペクトパネルの上部に表示します。"
+        "string": "固定插件并在检查面板顶部显示它们。"
     },
     "settings_tab.pinned_plugins_dowgrade_warning.note": {
-        "string": "注:"
+        "string": "注意："
     },
     "settings_tab.pinned_plugins_downgrade_warning": {
-        "string": "{noteLabel}ピン留めされたプラグインは、エンタープライズプランの機能になりました。下のリストにあるプラグインの順序を変更することやプラグインを削除することはできますが、プラグインを追加するにはプランのアップグレードが必要です。"
+        "string": "{noteLabel}固定的插件已成为企业计划的一项功能。您可以更改列表中插件的顺序或删除插件，但要添加插件需要升级计划。"
     },
     "settings_tab.pinned_plugins_inspect": {
-        "string": "インスペクト"
+        "string": "检查"
     },
     "settings_tab.pinned_plugins_invalid_url": {
-        "string": "これは有効な開発モードプラグインではありません。"
+        "string": "这不是有效的开发模式插件。"
     },
     "settings_tab.pinned_plugins_invalid_url_codegen": {
-        "string": "コード生成プラグインはピン留めできません。"
+        "string": "不能固定代码生成插件。"
     },
     "settings_tab.pinned_plugins_label": {
-        "string": "ピン留めしたプラグイン"
+        "string": "已固定的插件"
     },
     "settings_tab.pinned_plugins_plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "settings_tab.pinned_plugins_remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "settings_tab.plugin_approval_description": {
-        "string": "管理者によるコミュニティのプラグインの承認を必須にします"
+        "string": "要求管理员批准社区插件"
     },
     "settings_tab.plugin_approval_label": {
-        "string": "プラグインの承認"
+        "string": "插件批准"
     },
     "settings_tab.plugin_invalid_err": {
-        "string": "無効なプラグインを取得しました"
+        "string": "获取的插件无效"
     },
     "settings_tab.plugin_not_autorun_err": {
-        "string": "インスペクトパネルでプラグインを自動実行することはできません。"
+        "string": "不能在检查面板中自动运行插件。"
     },
     "settings_tab.plugin_not_codegen_err": {
-        "string": "プラグインがコード生成をサポートしていません"
+        "string": "插件不支持代码生成"
     },
     "settings_tab.plugin_not_enterprise_err": {
-        "string": "組織はエンタープライズプランではありません"
+        "string": "组织不是企业计划"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_links_description": {
-        "string": "公開リンクの共有をオフにすると、自分の組織のメンバーだけがFigmaデザインファイルのリンクにアクセスできます。パスワードを要求することで、より安全に公開リンクを共有できます。"
+        "string": "关闭公开链接共享后，只有组织成员可以访问Figma设计文件链接。通过要求密码，可以更安全地共享公开链接。"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_links_submit": {
-        "string": "公開リンクを無効にする"
+        "string": "禁用公开链接"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_links_title": {
-        "string": "公開リンクをオフにしますか?"
+        "string": "关闭公开链接？"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figjam": {
-        "string": "FigJamでは、Figmaアカウントを持っている人だけがリンクにアクセスできます"
+        "string": "在FigJam中，只有拥有Figma账户的人才能访问链接"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figma_design": {
-        "string": "Figmaデザインでは、組織のメンバーだけがリンクにアクセスできます"
+        "string": "在Figma设计中，只有组织成员才能访问链接"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.main": {
-        "string": "FigmaデザインとFigJamの公開共有をオフにすると、特定のオーディエンスにのみリンクを共有できます。"
+        "string": "关闭Figma设计和FigJam的公开共享后，只能与特定受众共享链接。"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_submit": {
-        "string": "公開共有を無効にする"
+        "string": "禁用公开共享"
     },
     "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_title": {
-        "string": "公開共有をオフにしますか?"
+        "string": "关闭公开共享？"
     },
     "settings_tab.public_sharing.modal.open_sessions_note": {
-        "string": "注: オープンセッションには、独自の有効期間は設定されません。また、パスワードが設定されないセッションもあります。必要に応じて、オープンセッションをオフにしてください。"
+        "string": "注意：开放会话不会设置单独的有效期，也不会设置密码。根据需要关闭开放会话。"
     },
     "settings_tab.public_sharing.remove_custom_workspace_settings": {
-        "string": "カスタム設定を削除しますか?"
+        "string": "删除自定义设置？"
     },
     "settings_tab.public_sharing.workspace_public_sharing_label": {
-        "string": "公開リンク共有を許可"
+        "string": "允许公开链接共享"
     },
     "settings_tab.public_sharing.workspace_public_sharing_subtext": {
-        "string": "このワークスペースのコンテンツを公開して共有するかどうかを選択します。"
+        "string": "选择是否公开并共享此工作区的内容。"
     },
     "settings_tab.public_sharing_description": {
-        "string": "メンバーが組織外でリンクを共有できるようにします"
+        "string": "允许成员与组织外的人共享链接"
     },
     "settings_tab.public_sharing_title": {
-        "string": "公開共有"
+        "string": "公开共享"
     },
     "settings_tab.saml_description": {
-        "string": "組織のSAML SSOを有効にして設定します"
+        "string": "启用并设置组织的SAML SSO"
     },
     "settings_tab.saml_label": {
         "string": "SAML SSO"
     },
     "settings_tab.scim_description": {
-        "string": "組織のSCIMを有効にして設定します"
+        "string": "启用并设置组织的SCIM"
     },
     "settings_tab.scim_group_description": {
-        "string": "ライセンスの管理、請求グループとワークスペースのメンバーの割り当てに、IDPを使用します"
+        "string": "使用IDP管理许可证、账单组和工作区成员分配"
     },
     "settings_tab.scim_label": {
-        "string": "SCIMプロビジョニング"
+        "string": "SCIM供应"
     },
     "settings_tab.scim_metadata_modal.change_which_scim_metadata_shows_on_the_members_tab": {
-        "string": "[メンバー]タブに表示するSCIMメタデータを変更します"
+        "string": "更改[成员]选项卡中显示的SCIM元数据"
     },
     "settings_tab.scim_metadata_modal.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "settings_tab.scim_metadata_modal.member_metadata": {
-        "string": "メンバーのメタデータ"
+        "string": "成员元数据"
     },
     "settings_tab.section_header.ai_beta": {
-        "string": "AIベータ版"
+        "string": "AI测试版"
     },
     "settings_tab.section_header.data": {
-        "string": "データ"
+        "string": "数据"
     },
     "settings_tab.section_header.domains": {
-        "string": "ドメイン"
+        "string": "域"
     },
     "settings_tab.section_header.extensions": {
-        "string": "拡張機能"
+        "string": "扩展"
     },
     "settings_tab.section_header.external_access": {
-        "string": "外部アクセス"
+        "string": "外部访问"
     }
 }

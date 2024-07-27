@@ -1,152 +1,152 @@
 {
     "fullscreen_actions.replace-selected-frame-with-section": {
-        "string": "セクションに変換"
+        "string": "转换为部分"
     },
     "fullscreen_actions.replace-selected-section-with-frame": {
-        "string": "フレームに変換"
+        "string": "转换为框架"
     },
     "fullscreen_actions.republish-auto-layout-components": {
-        "string": "オートレイアウトコンポーネントの再公開"
+        "string": "重新发布自动布局组件"
     },
     "fullscreen_actions.republish-selected-components": {
-        "string": "選択されているコンポーネントを更新して公開"
+        "string": "更新并发布选定的组件"
     },
     "fullscreen_actions.reresolve-variable-references": {
-        "string": "バリアブル参照を再解決"
+        "string": "重新解析变量引用"
     },
     "fullscreen_actions.reset-changes": {
-        "string": "すべての変更をリセット"
+        "string": "重置所有更改"
     },
     "fullscreen_actions.reset-transform": {
-        "string": "壊れた変換を修復"
+        "string": "修复破损的变换"
     },
     "fullscreen_actions.reset-variable-modes": {
-        "string": "選択中のバリアブルモードをリセット"
+        "string": "重置所选变量模式"
     },
     "fullscreen_actions.resize-to-fit": {
-        "string": "サイズ自動調整"
+        "string": "自动调整大小"
     },
     "fullscreen_actions.resize_from_center": {
-        "string": "中央からサイズ調整"
+        "string": "从中心调整大小"
     },
     "fullscreen_actions.resize_proportionally": {
-        "string": "縦横比を維持してサイズ調整"
+        "string": "保持纵横比调整大小"
     },
     "fullscreen_actions.resources": {
-        "string": "リソース"
+        "string": "资源"
     },
     "fullscreen_actions.restart-desktop-app-color-space-managed": {
-        "string": "デスクトップアプリを「管理された」色空間で再起動する"
+        "string": "以“管理”色域重新启动桌面应用"
     },
     "fullscreen_actions.restart-desktop-app-color-space-unmanaged": {
-        "string": "デスクトップアプリを「管理されていない」色空間で再起動する"
+        "string": "以“未管理”色域重新启动桌面应用"
     },
     "fullscreen_actions.restore-autolayout-position": {
-        "string": "オートレイアウトポジションを復元"
+        "string": "恢复自动布局位置"
     },
     "fullscreen_actions.restore-soft-deleted-selection": {
-        "string": "論理削除された選択部分を復元"
+        "string": "恢复逻辑删除的选项"
     },
     "fullscreen_actions.restore-soft-deleted-variable-sets": {
-        "string": "論理削除されたバリアブルセットを復元"
+        "string": "恢复逻辑删除的变量集"
     },
     "fullscreen_actions.restore-symbol-or-state-group": {
-        "string": "メインコンポーネントを復元"
+        "string": "恢复主组件"
     },
     "fullscreen_actions.restore_default_thumbnail": {
-        "string": "デフォルトのサムネイルを復元"
+        "string": "恢复默认缩略图"
     },
     "fullscreen_actions.retina_mode": {
-        "string": "Retinaモード"
+        "string": "Retina模式"
     },
     "fullscreen_actions.review_and_merge_changes": {
-        "string": "変更をレビューしてマージ…"
+        "string": "查看并合并更改..."
     },
     "fullscreen_actions.review_changes": {
-        "string": "変更をレビュー…"
+        "string": "查看更改..."
     },
     "fullscreen_actions.rotate-180": {
-        "string": "180˚回転"
+        "string": "旋转180˚"
     },
     "fullscreen_actions.rotate-90-clockwise": {
-        "string": "右90˚回転"
+        "string": "顺时针旋转90˚"
     },
     "fullscreen_actions.rotate-90-counterclockwise": {
-        "string": "左90˚回転"
+        "string": "逆时针旋转90˚"
     },
     "fullscreen_actions.round-to-pixels": {
-        "string": "ピクセル単位に四捨五入"
+        "string": "四舍五入到像素"
     },
     "fullscreen_actions.run-multi-stack-auto-layout": {
-        "string": "オートレイアウトを提案"
+        "string": "建议自动布局"
     },
     "fullscreen_actions.save-as": {
-        "string": "ローカルコピーを保存..."
+        "string": "保存本地副本..."
     },
     "fullscreen_actions.search": {
-        "string": "検索"
+        "string": "搜索"
     },
     "fullscreen_actions.search_menus_commands_and_plugins": {
-        "string": "メニュー、コマンド、プラグインを検索"
+        "string": "搜索菜单、命令和插件"
     },
     "fullscreen_actions.search_or_ask_for_anything": {
-        "string": "何でも検索または質問..."
+        "string": "搜索或询问任何问题..."
     },
     "fullscreen_actions.see-all-branches": {
-        "string": "すべてのブランチを表示"
+        "string": "查看所有分支"
     },
     "fullscreen_actions.select-all": {
-        "string": "すべて選択"
+        "string": "全选"
     },
     "fullscreen_actions.select-all-slides": {
-        "string": "すべてのスライドを選択"
+        "string": "选择所有幻灯片"
     },
     "fullscreen_actions.select-all-text": {
-        "string": "すべてのテキストレイヤーを選択"
+        "string": "选择所有文本图层"
     },
     "fullscreen_actions.select-all-widgets": {
-        "string": "すべてのウィジェットを選択"
+        "string": "选择所有小部件"
     },
     "fullscreen_actions.select-all-with-menu-options": {
-        "string": "次のオプションですべて選択"
+        "string": "按以下选项全选"
     },
     "fullscreen_actions.select-broken-fixed-scrolling-nodes": {
-        "string": "壊れた固定スクロールレイヤーをデバッグ"
+        "string": "调试损坏的固定滚动图层"
     },
     "fullscreen_actions.select-child": {
-        "string": "子を選択"
+        "string": "选择子项"
     },
     "fullscreen_actions.select-inverse": {
-        "string": "選択範囲を反転"
+        "string": "反选"
     },
     "fullscreen_actions.select-matching": {
-        "string": "マッチングレイヤーを選択"
+        "string": "选择匹配的图层"
     },
     "fullscreen_actions.select-next-sibling": {
-        "string": "次の兄弟を選択"
+        "string": "选择下一个兄弟项"
     },
     "fullscreen_actions.select-node": {
         "string": "{name}"
     },
     "fullscreen_actions.select-node-menu": {
-        "string": "レイヤーを選択"
+        "string": "选择图层"
     },
     "fullscreen_actions.select-parent": {
-        "string": "親を選択"
+        "string": "选择父项"
     },
     "fullscreen_actions.select-previous-sibling": {
-        "string": "前の兄弟を選択"
+        "string": "选择上一个兄弟项"
     },
     "fullscreen_actions.select-same-effect": {
-        "string": "同じエフェクトで選択"
+        "string": "选择相同效果"
     },
     "fullscreen_actions.select-same-fill": {
-        "string": "同じ塗りで選択"
+        "string": "选择相同填充"
     },
     "fullscreen_actions.select-same-font": {
-        "string": "同じフォントで選択"
+        "string": "选择相同字体"
     },
     "fullscreen_actions.select-same-instance": {
-        "string": "同じインスタンスで選択"
+        "string": "选择相同实例"
     }
 }

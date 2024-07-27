@@ -1,152 +1,152 @@
 {
     "settings_tab.section_header.login_and_provisioning": {
-        "string": "ログインとプロビジョニング"
+        "string": "登录和配置"
     },
     "settings_tab.section_header.other": {
-        "string": "その他"
+        "string": "其他"
     },
     "settings_tab.section_header.profile": {
-        "string": "組織プロフィール"
+        "string": "组织简介"
     },
     "settings_tab.section_header.resources": {
-        "string": "リソース"
+        "string": "资源"
     },
     "settings_tab.section_header.slides": {
         "string": "Figma Slides"
     },
     "settings_tab.section_header.team_management": {
-        "string": "チーム管理"
+        "string": "团队管理"
     },
     "settings_tab.section_header.user_data": {
-        "string": "ユーザーデータ"
+        "string": "用户数据"
     },
     "settings_tab.show_more": {
-        "string": "詳細表示...."
+        "string": "显示更多..."
     },
     "settings_tab.slides.access_to_slides": {
-        "string": "Figma Slidesへのアクセス"
+        "string": "访问Figma Slides"
     },
     "settings_tab.slides.disable_success": {
-        "string": "Figma Slidesは組織で無効になっています"
+        "string": "Figma Slides在组织中已禁用"
     },
     "settings_tab.slides.enable_success": {
-        "string": "組織でFigma Slidesが有効になり、利用可能になりました"
+        "string": "Figma Slides在组织中已启用并可用"
     },
     "settings_tab.slides.let_users_create_slides": {
-        "string": "ユーザーがFigma Slidesでスライドデッキを作成、編集、表示できるようにします。{learnMoreLink}"
+        "string": "允许用户在Figma Slides中创建、编辑和查看幻灯片。{learnMoreLink}"
     },
     "settings_tab.sso_method.any_method": {
-        "string": "すべての方法"
+        "string": "所有方法"
     },
     "settings_tab.sso_method.google_only": {
-        "string": "Googleのみ"
+        "string": "仅限Google"
     },
     "settings_tab.sso_method.saml_only": {
-        "string": "SAMLのみ"
+        "string": "仅限SAML"
     },
     "settings_tab.team_creation_description": {
-        "string": "この組織でチームを作成できるユーザーを変更します"
+        "string": "更改在此组织中可以创建团队的用户"
     },
     "settings_tab.team_creation_label": {
-        "string": "チームを作成"
+        "string": "创建团队"
     },
     "settings_tab.ui_kits_disabled": {
-        "string": "UIキットはすべてのユーザーで無効です"
+        "string": "UI套件已对所有用户禁用"
     },
     "settings_tab.ui_kits_enabled": {
-        "string": "UIキットはすべてのユーザーで有効です"
+        "string": "UI套件已对所有用户启用"
     },
     "settings_tab.ui_kits_toggle_description": {
-        "string": "Figmaや選択されたパートナーによって作成されたライブラリを、デザインファイルでデフォルトで利用できるようにします。"
+        "string": "默认情况下在设计文件中启用Figma和选定合作伙伴创建的库。"
     },
     "settings_tab.ui_kits_toggle_label": {
-        "string": "UIキット"
+        "string": "UI套件"
     },
     "settings_tab.upgrade_to_enterprise_learn_more_link": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "settings_tab.upgrade_to_enterprise_plan_text": {
-        "string": "エンタープライズプランでは、組織のニーズに合わせて開発モードを微調整できます。"
+        "string": "企业计划允许您根据组织的需求微调开发模式体验。"
     },
     "settings_tab.vat_gst": {
-        "string": "付加価値税 / 商品サービス税"
+        "string": "增值税/商品及服务税"
     },
     "settings_tab.widget_admin_approval_description": {
-        "string": "管理者によるコミュニティのウィジェットの承認を必須にします"
+        "string": "要求管理员批准社区小部件"
     },
     "settings_tab.widget_admin_approval_disabled": {
-        "string": "すべてのウィジェットが許可されました"
+        "string": "所有小部件已允许"
     },
     "settings_tab.widget_admin_approval_enabled": {
-        "string": "ウィジェットは、承認済みリストのウィジェットに制限されました"
+        "string": "小部件已限制为批准的列表小部件"
     },
     "settings_tab.widget_admin_approval_label": {
-        "string": "ウィジェットの承認"
+        "string": "小部件批准"
     },
     "settings_tab.workspace_selector_description_with_link": {
-        "string": "新規および未割り当てのユーザーのログイン時にワークスペースを選択するように求めるプロンプトを表示します"
+        "string": "在新用户和未分配用户登录时显示选择工作区的提示"
     },
     "settings_tab.workspace_selector_label": {
-        "string": "ワークスペース選択機能"
+        "string": "工作区选择器"
     },
     "shared_fonts.error_message_for_upload_failure_400": {
-        "string": "無効なフォントです。"
+        "string": "无效的字体文件。"
     },
     "shared_fonts.error_message_for_upload_failure_403": {
-        "string": "このアクションを実行する権限がありません。"
+        "string": "您无权执行此操作。"
     },
     "shared_fonts.error_message_for_upload_failure_409": {
-        "string": "このフォントは既に組織にアップロードされています。このフォントはフォント選択機能からアクセスできます。"
+        "string": "该字体已上传到组织中，可以通过字体选择器访问此字体。"
     },
     "shared_fonts.error_message_for_upload_failure_422": {
-        "string": "このファイルには欠落しているフィールドまたは無効なフィールドがあります。"
+        "string": "此文件包含缺失或无效字段。"
     },
     "shared_fonts.error_message_for_upload_failure_429": {
-        "string": "このファイルは大きすぎます。ファイルは20 MB未満にしてください。"
+        "string": "文件太大。请将文件大小控制在20 MB以下。"
     },
     "shared_fonts.error_message_for_upload_failure_default_with_help_center": {
-        "string": "フォントをアップロードできませんでした。Figmaは.TTFおよび.OTFフォントをサポートしています。詳細については、当社の{helpCenterLink}にアクセスしてください。"
+        "string": "无法上传字体文件。Figma支持.TTF和.OTF格式的字体。有关详细信息，请访问我们的{helpCenterLink}。"
     },
     "shared_fonts.import_complete_with_errors": {
-        "string": "{unsuccessfulUploadCount, plural, other {共有フォントのインポートが完了しましたが、{unsuccessfulUploadCount}件のエラーが発生しました}}"
+        "string": "{unsuccessfulUploadCount, plural, other {共享字体导入已完成，但有{unsuccessfulUploadCount}个错误}}"
     },
     "shared_fonts.import_complete_with_no_errors": {
-        "string": "共有フォントのインポートが完了しました"
+        "string": "共享字体导入已完成"
     },
     "shared_fonts.importing_font_files": {
-        "string": "フォントファイルをインポート中..."
+        "string": "正在导入字体文件..."
     },
     "shared_fonts.review_font_upload_errors": {
-        "string": "確認"
+        "string": "查看"
     },
     "shared_fonts.successful_deletes": {
-        "string": "{totalDeletes, plural, other {{totalDeletes}個のフォントが削除されました}}"
+        "string": "{totalDeletes, plural, other {{totalDeletes}个字体已删除}}"
     },
     "shared_fonts.unsuccessful_deletes": {
-        "string": "{totalDeletes, plural, other {{totalDeletes}個中{numUnsuccessfulDeletes}個のフォントを削除できませんでした}}"
+        "string": "{totalDeletes, plural, other {{totalDeletes}个中{numUnsuccessfulDeletes}个字体未能删除}}"
     },
     "shared_fonts.upload_error_modal.error": {
-        "string": "エラー"
+        "string": "错误"
     },
     "shared_fonts.upload_error_modal.font": {
-        "string": "フォント"
+        "string": "字体"
     },
     "shared_fonts.upload_error_modal.okay": {
-        "string": "OK"
+        "string": "确定"
     },
     "shared_fonts.upload_error_modal.title": {
-        "string": "{unsuccessfulUploads, plural, other {フォントアップロードエラー}}"
+        "string": "{unsuccessfulUploads, plural, other {字体上传错误}}"
     },
     "shared_fonts.uploads_remaining": {
-        "string": "{totalFileCount}個中{processedFileCount}個のフォントファイルをインポート中..."
+        "string": "正在导入{totalFileCount}个中的{processedFileCount}个字体文件..."
     },
     "teams_table.ask_to_join": {
-        "string": "参加を依頼"
+        "string": "请求加入"
     },
     "teams_table.assign_teams": {
-        "string": "チームを割り当てる"
+        "string": "分配团队"
     },
     "teams_table.cancel_join_request": {
-        "string": "参加リクエストをキャンセル"
+        "string": "取消加入请求"
     }
 }
