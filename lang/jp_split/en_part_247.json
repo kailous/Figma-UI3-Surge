@@ -1,152 +1,152 @@
 {
     "payments_modal.you_no_longer_have_access_to_your_organization": {
-        "string": "組織にアクセスできなくなりました"
+        "string": "您已不再有权访问您的组织"
     },
     "payments_modal.you_ve_reached_your_plan_s_m_a_x_f_r_e_e_editors_editor_limit_user_text_you_ve_invited_will_be_granted_view_access_but_they_won_t_be_able_to_edit.seat_rename": {
-        "string": "トライアルには、フル編集アクセス権のあるシートが最大{maxFreeEditors}人分含まれています。{userText}もファイルを表示し、コメントすることはできますが、編集はできません。"
+        "string": "试用版最多包含{maxFreeEditors}个具有完整编辑权限的席位。{userText}可以查看和评论文件，但无法进行编辑。"
     },
     "payments_modal.your_files_are_safe_but_youll_need_to_pay": {
-        "string": "ファイルは安全ですが、{orgName}に再度アクセスするには、{dueDate}が期限の請求書の代金をお支払いいただく必要があります。"
+        "string": "您的文件是安全的，但您需要支付账单才能再次访问{orgName}，支付期限为{dueDate}。"
     },
     "payments_modal.your_professional_team_plan_is_no_longer_active_please": {
-        "string": "プロフェッショナルチームプランが有効ではなくなりました。引き続き{teamName}でファイルを編集するには、請求情報を更新してください。"
+        "string": "专业团队计划已失效。要继续在{teamName}中编辑文件，请更新支付信息。"
     },
     "payments_modal.your_team": {
-        "string": "チーム"
+        "string": "您的团队"
     },
     "payments_modal.your_team_is_locked": {
-        "string": "チームがロックされています"
+        "string": "您的团队已被锁定"
     },
     "branch_info_row.link_sharing_is_disabled_when_the_main_file_is_invite_only": {
-        "string": "メインファイルが招待限定の場合、リンク共有は無効です。"
+        "string": "当主文件为仅限邀请时，链接共享被禁用。"
     },
     "branch_info_row.link_sharing_is_restricted_by_access_level_of_the_main_file": {
-        "string": "リンク共有は、メインファイルのアクセスレベルにより制限されています。"
+        "string": "链接共享受主文件的访问级别限制。"
     },
     "branch_info_row.link_sharing_outside_of_org_name_is_restricted_by_access_level_of_the_main_file": {
-        "string": "{orgName}外部でのリンク共有は、メインファイルのアクセスレベルにより制限されています。"
+        "string": "在{orgName}外部的链接共享受主文件的访问级别限制。"
     },
     "confirm_reduce_link_access.are_you_sure_you_want_to_change_the_public_link_access_of_this_file_you_ll_no_longer_be_able_to_edit_this_file_or_change_this_back": {
-        "string": "このファイルの公開リンクアクセスを変更してよろしいですか? 変更すると、このファイルの編集と、編集を元に戻す操作を実行できなくなります。"
+        "string": "确定要更改此文件的公开链接访问权限吗？更改后，您将无法编辑此文件或恢复之前的设置。"
     },
     "confirm_reduce_link_access.change_settings": {
-        "string": "設定を変更"
+        "string": "更改设置"
     },
     "confirm_reduce_link_access.change_sharing_settings_for_this_file": {
-        "string": "このファイルの共有設定を変更しますか?"
+        "string": "更改此文件的共享设置吗？"
     },
     "confirm_reduce_link_access.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "confirm_reduce_link_access.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "confirm_reduce_link_access.modal_body_text": {
-        "string": "このファイルにはブランチがあることに注意してください。メインファイルの共有設定をより厳しく制限した場合、その変更は、ファイル内のすべてのブランチにも適用されます。"
+        "string": "请注意，此文件有分支。更严格地限制主文件的共享设置时，所有分支也将应用此更改。"
     },
     "confirm_remove_expiration_modal.body.set_by_missing_user": {
-        "string": "有効期限は、一時的なアクセスのみを許可するこのパブリックリンクに設定されています。削除する前にユーザーに通知できます。"
+        "string": "此公开链接已设置为仅允许临时访问。您可以在删除之前通知用户。"
     },
     "confirm_remove_expiration_modal.body.set_by_valid_user": {
-        "string": "{name}さんが一時的なアクセスのみを許可するこのパブリックリンクを設定しました。削除する前にユーザーに通知できます。"
+        "string": "{name}已设置此公开链接为仅允许临时访问。您可以在删除之前通知用户。"
     },
     "confirm_remove_expiration_modal.confirmation": {
-        "string": "有効期限を削除"
+        "string": "删除有效期限"
     },
     "confirm_remove_expiration_modal.header": {
-        "string": "この有効期限を削除しますか?"
+        "string": "要删除此有效期限吗？"
     },
     "confirm_remove_role.are_you_sure_you_want_to_leave_file_name_you_may_not_be_able_to_access_this_file_anymore": {
-        "string": "{fileName}の使用を終了してよろしいですか? 今後はこのファイルにアクセスできなくなります。"
+        "string": "确定要离开{fileName}吗？您可能无法再访问此文件。"
     },
     "confirm_remove_role.are_you_sure_you_want_to_leave_folder_name_you_may_not_be_able_to_access_files_in_this_project_anymore": {
-        "string": "{folderName}の使用を終了してよろしいですか? 今後はこのプロジェクトのファイルにアクセスできなくなります。"
+        "string": "确定要离开{folderName}吗？您可能无法再访问此项目中的文件。"
     },
     "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_files_in_this_project_anymore": {
-        "string": "{userHandle}を削除してよろしいですか? 今後はこのプロジェクトのファイルにアクセスできなくなります。"
+        "string": "确定要移除{userHandle}吗？他们可能无法再访问此项目中的文件。"
     },
     "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_file_anymore": {
-        "string": "このまま続けると、{userHandle}は直ちにこのファイルへの直接アクセス権を失います。"
+        "string": "继续此操作将导致{userHandle}立即失去对此文件的直接访问权限。"
     },
     "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_main_file_and_the_branches_anymore": {
-        "string": "このまま続けると、{userHandle}は直ちにこのファイルおよびブランチへの直接アクセス権を失います。"
+        "string": "继续此操作将导致{userHandle}立即失去对此文件及其分支的直接访问权限。"
     },
     "confirm_remove_role.confirm_title_file": {
-        "string": "ファイルへのアクセス権を削除"
+        "string": "删除文件访问权限"
     },
     "confirm_remove_role.leave": {
-        "string": "使用終了"
+        "string": "离开"
     },
     "confirm_remove_role.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "drafts_edit_education_banner.description": {
-        "string": "他のユーザーはドラフトを編集できません。{nameToDisplay}がこのファイルを編集できるようにするには、ファイルを以下のプロジェクトに移動してください。"
+        "string": "其他用户无法编辑草稿。要让{nameToDisplay}编辑此文件，请将文件移至项目。"
     },
     "drafts_edit_education_banner.others": {
-        "string": "その他"
+        "string": "其他人"
     },
     "drafts_move_banner.move_and_allow_edits": {
-        "string": "移動して編集を許可する"
+        "string": "移动并允许编辑"
     },
     "drafts_move_banner.move_file": {
-        "string": "ファイルを移動する"
+        "string": "移动文件"
     },
     "drafts_move_banner.to_add_editors_first_move_this_file_from_drafts_into_a_project.seat_rename": {
-        "string": "メンバーを編集者として招待するには、このドラフトをプロジェクトに移動します。"
+        "string": "要邀请成员作为编辑者，请将此草稿移至项目。"
     },
     "file_access_row.add_expiration_for_link_access": {
-        "string": "リンクの有効期間を追加"
+        "string": "添加链接访问的有效期限"
     },
     "file_access_row.anyone_at_org_name": {
-        "string": "{orgName}のユーザー全員"
+        "string": "{orgName}的所有用户"
     },
     "file_access_row.anyone_at_org_name_with_the_link": {
-        "string": "{orgName}のリンクを知っているユーザー全員"
+        "string": "拥有链接的{orgName}的所有用户"
     },
     "file_access_row.anyone_else_with_a_prototype_link": {
-        "string": "プロトタイプリンクを知っているユーザー全員"
+        "string": "拥有原型链接的所有其他用户"
     },
     "file_access_row.anyone_with_the_link": {
-        "string": "リンクを知っているユーザー全員"
+        "string": "拥有链接的所有用户"
     },
     "file_access_row.anyone_with_the_link_and_password": {
-        "string": "リンクとパスワードを知っているユーザー全員"
+        "string": "拥有链接和密码的所有用户"
     },
     "file_access_row.anyone_with_the_link_and_password_disabled_by_admin": {
-        "string": "リンクとパスワードを知っているユーザー全員(管理者により無効にされています)"
+        "string": "拥有链接和密码的所有用户（管理员已禁用）"
     },
     "file_access_row.anyone_with_the_link_disabled_by_admin": {
-        "string": "リンクを知っているユーザー全員(管理者により無効にされています)"
+        "string": "拥有链接的所有用户（管理员已禁用）"
     },
     "file_access_row.can_access": {
-        "string": "アクセス可"
+        "string": "可以访问"
     },
     "file_access_row.can_edit": {
-        "string": "編集可"
+        "string": "可以编辑"
     },
     "file_access_row.can_view": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "file_access_row.can_view_prototypes": {
-        "string": "プロトタイプの閲覧のみ"
+        "string": "仅查看原型"
     },
     "file_access_row.cannot_access": {
-        "string": "アクセス不可"
+        "string": "无法访问"
     },
     "file_access_row.expiration.24_hours": {
-        "string": "24時間"
+        "string": "24小时"
     },
     "file_access_row.expiration.24_hours.timestamp": {
-        "string": "明日{time}"
+        "string": "明天{time}"
     },
     "file_access_row.expiration.7_days": {
-        "string": "7日間"
+        "string": "7天"
     },
     "file_access_row.expiration.access_ends": {
-        "string": "アクセス期限"
+        "string": "访问结束"
     },
     "file_access_row.expiration.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     }
 }

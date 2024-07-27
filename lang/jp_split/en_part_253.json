@@ -1,152 +1,152 @@
 {
     "permissions.guests_banned.sharing_with_external_users_is_disabled": {
-        "string": "外部ユーザーとの共有が無効です"
+        "string": "与外部用户的共享已禁用"
     },
     "permissions.invite_error_modal.couldn_t_send_invite": {
-        "string": "招待を送信できませんでした"
+        "string": "无法发送邀请"
     },
     "permissions.invites_require_access.almost_there": {
-        "string": "完了まであと少しです..."
+        "string": "快完成了..."
     },
     "permissions.invites_require_access.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "permissions.invites_require_access.invites_sent_but_will_require_access_org_name": {
-        "string": "{numEmails, plural, other {{listEmails}に招待を送信しました。招待した人たちがこの{resourceType}にアクセスするには、それぞれが組織{orgName}へのアクセスをリクエストする必要があります。}}"
+        "string": "{numEmails, plural, other {已发送邀请至{listEmails}。受邀用户需要请求访问{orgName}组织才能访问此{resourceType}。}}"
     },
     "permissions.invites_require_access.we_ll_connect_them_with_an_admin_who_can_help": {
-        "string": "これらのユーザーを、サポートを提供できる管理者につなげます。"
+        "string": "我们将把这些用户与可以提供帮助的管理员联系起来。"
     },
     "permissions.invites_whitelist.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "permissions.invites_whitelist.the_following_users_were_not_approved_guests_in_org_name_org_please_request_access_for_them": {
-        "string": "{numEmails, plural, other {以下の人たちは組織{orgName}のゲストとして承認されていません。招待したい人がいる場合は、その人にアクセス権を付与するよう管理者に依頼してください。{listEmails}}}"
+        "string": "{numEmails, plural, other {以下用户未获准成为{orgName}组织的访客。请为他们请求访问权限。{listEmails}}}"
     },
     "permissions.join_org.access_needed": {
-        "string": "アクセス権が必要です"
+        "string": "需要访问权限"
     },
     "permissions.join_org.ask_an_org_admin": {
-        "string": "{orgName}の管理者に、あなたを組織に追加するように依頼しますか?"
+        "string": "请求{orgName}的管理员将您添加到组织中？"
     },
     "permissions.join_org.ask_to_be_added": {
-        "string": "追加を依頼"
+        "string": "请求添加"
     },
     "permissions.join_org.cannot_edit_file": {
-        "string": "このファイルを編集するには、最初に{orgName}組織に参加する必要があります。"
+        "string": "要编辑此文件，您需要先加入{orgName}组织。"
     },
     "permissions.join_org.cannot_run_plugins": {
-        "string": "このファイルのプラグインを実行するには、最初に{orgName}組織に参加する必要があります。"
+        "string": "要运行此文件的插件，您需要先加入{orgName}组织。"
     },
     "permissions.join_org.request_sent": {
-        "string": "リクエストが送信されました"
+        "string": "请求已发送"
     },
     "permissions.join_org.switch_accounts": {
-        "string": "アカウントを切り替え"
+        "string": "切换账户"
     },
     "permissions.join_org.you_are_requesting_to_be_added_as_email": {
-        "string": "{email}としての追加をリクエストします"
+        "string": "您正在请求作为{email}被添加"
     },
     "permissions.level_name.admin": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "permissions.level_name.branch_owner": {
-        "string": "ブランチのオーナー"
+        "string": "分支所有者"
     },
     "permissions.level_name.can_access": {
-        "string": "アクセス可"
+        "string": "可访问"
     },
     "permissions.level_name.can_edit": {
-        "string": "編集可"
+        "string": "可编辑"
     },
     "permissions.level_name.can_view": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "permissions.level_name.can_view_prototypes": {
-        "string": "プロトタイプの閲覧のみ"
+        "string": "仅查看原型"
     },
     "permissions.level_name.none": {
-        "string": "なし"
+        "string": "无"
     },
     "permissions.level_name.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "permissions.level_name_capitalized.admin": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "permissions.level_name_capitalized.can_access": {
-        "string": "アクセス可"
+        "string": "可访问"
     },
     "permissions.level_name_capitalized.can_edit": {
-        "string": "編集可"
+        "string": "可编辑"
     },
     "permissions.level_name_capitalized.can_view": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "permissions.level_name_capitalized.can_view_prototypes": {
-        "string": "プロトタイプの閲覧のみ可能です"
+        "string": "仅查看原型"
     },
     "permissions.level_name_capitalized.none": {
-        "string": "なし"
+        "string": "无"
     },
     "permissions.level_name_capitalized.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "permissions.level_role_name.admin": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "permissions.level_role_name.editor": {
-        "string": "編集者"
+        "string": "编辑者"
     },
     "permissions.level_role_name.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "permissions.level_role_name.prototype_viewer": {
-        "string": "プロトタイプ閲覧者"
+        "string": "原型查看者"
     },
     "permissions.level_role_name.viewer": {
-        "string": "閲覧者"
+        "string": "查看者"
     },
     "permissions.link_autogen_password_change": {
-        "string": "変更"
+        "string": "更改"
     },
     "permissions.link_autogen_password_copy": {
-        "string": "コピー"
+        "string": "复制"
     },
     "permissions.link_password_reset": {
-        "string": "リセット"
+        "string": "重置"
     },
     "permissions.link_password_set_by_another_user": {
-        "string": "{userHandle}が{relativePasswordSetAt}にパスワードを設定しました。"
+        "string": "{userHandle}于{relativePasswordSetAt}设置了密码。"
     },
     "permissions.link_password_set_by_current_user": {
-        "string": "{relativePasswordSetAt}にパスワードを設定しました。"
+        "string": "您于{relativePasswordSetAt}设置了密码。"
     },
     "permissions.link_password_set_without_user": {
-        "string": "{relativePasswordSetAt}にパスワードが設定されました。"
+        "string": "密码已于{relativePasswordSetAt}设置。"
     },
     "permissions.only_those_invited": {
-        "string": "招待されたメンバーのみ"
+        "string": "仅限受邀成员"
     },
     "permissions.org_restricted_invite.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "permissions.org_restricted_invite.these_invites_couldn_t_be_sent_with_org_name.seat_rename": {
-        "string": "{numEmails, plural, other {{listEmails}に招待を送信できませんでした。このファイルの設定により、閲覧者シートで組織{orgName}外で共有することはできません。}}"
+        "string": "{numEmails, plural, other {无法向{listEmails}发送邀请。由于此文件的设置，无法在查看者席位上与{orgName}外部用户共享。}}"
     },
     "permissions_modal.edit": {
-        "string": "編集"
+        "string": "编辑"
     },
     "permissions_modal.file_share_settings.additional_security": {
-        "string": "追加のセキュリティ"
+        "string": "附加安全"
     },
     "permissions_modal.file_share_settings.advanced": {
-        "string": "詳細"
+        "string": "高级"
     },
     "permissions_modal.file_share_settings.any_changes_here_will_only_affect_presentation": {
-        "string": "変更は、メインファイルではなく、プレゼンテーションへのアクセスにのみ影響します。"
+        "string": "这里的任何更改将只影响演示文稿的访问，而不影响主文件。"
     },
     "permissions_modal.file_share_settings.any_changes_here_will_only_affect_prototype": {
-        "string": "ここでの変更はプロトタイプにのみ反映されます。メインファイルには反映されません。"
+        "string": "这里的任何更改将只影响原型，不影响主文件。"
     }
 }

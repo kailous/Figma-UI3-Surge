@@ -1,152 +1,152 @@
 {
     "permissions_modal.file_share_settings.anyone_in_container_can_edit": {
-        "string": "{containerName}の誰でも編集可"
+        "string": "{containerName}的任何人都可以编辑"
     },
     "permissions_modal.file_share_settings.anyone_in_container_can_view": {
-        "string": "{containerName}の誰でも閲覧可"
+        "string": "{containerName}的任何人都可以查看"
     },
     "permissions_modal.file_share_settings.can_edit_this_file": {
-        "string": "このファイルを編集できます。"
+        "string": "可以编辑此文件"
     },
     "permissions_modal.file_share_settings.can_view": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "permissions_modal.file_share_settings.can_view_and_comment_on_this_file": {
-        "string": "このファイルの閲覧とコメントが可能です。"
+        "string": "可以查看和评论此文件"
     },
     "permissions_modal.file_share_settings.custom_time": {
-        "string": "ユーザー設定"
+        "string": "自定义时间"
     },
     "permissions_modal.file_share_settings.day_text": {
-        "string": "{num, plural, other {{num}日}}"
+        "string": "{num, plural, other {{num}天}}"
     },
     "permissions_modal.file_share_settings.discoverable_via_search": {
-        "string": "検索可能にする"
+        "string": "通过搜索可发现"
     },
     "permissions_modal.file_share_settings.expires_on_date": {
-        "string": "{date}に期限切れになります。その後、アクセス権は{prevLinkAccess}に戻ります。"
+        "string": "将于{date}到期。到期后，访问权限将恢复为{prevLinkAccess}。"
     },
     "permissions_modal.file_share_settings.hour_text": {
-        "string": "{num, plural, other {{num}時間}}"
+        "string": "{num, plural, other {{num}小时}}"
     },
     "permissions_modal.file_share_settings.link_expiration": {
-        "string": "リンクの有効期間"
+        "string": "链接到期"
     },
     "permissions_modal.file_share_settings.link_expires_in": {
-        "string": "リンクの有効期間を設定する"
+        "string": "链接到期时间"
     },
     "permissions_modal.file_share_settings.minute_text": {
-        "string": "{num, plural, other {{num}分}}"
+        "string": "{num, plural, other {{num}分钟}}"
     },
     "permissions_modal.file_share_settings.month_text": {
-        "string": "{num, plural, other {{num}か月}}"
+        "string": "{num, plural, other {{num}个月}}"
     },
     "permissions_modal.file_share_settings.more_days": {
-        "string": "{num, plural, other {残り{num}日}}"
+        "string": "还有{num, plural, other {剩余{num}天}}"
     },
     "permissions_modal.file_share_settings.more_hours": {
-        "string": "{num, plural, other {残り{num}時間}}"
+        "string": "还有{num, plural, other {剩余{num}小时}}"
     },
     "permissions_modal.file_share_settings.more_minutes": {
-        "string": "{num, plural, other {残り{num}分}}"
+        "string": "还有{num, plural, other {剩余{num}分钟}}"
     },
     "permissions_modal.file_share_settings.more_months": {
-        "string": "{num, plural, other {残り{num}か月}}"
+        "string": "还有{num, plural, other {剩余{num}个月}}"
     },
     "permissions_modal.file_share_settings.more_weeks": {
-        "string": "{num, plural, other {残り{num}週間}}"
+        "string": "还有{num, plural, other {剩余{num}周}}"
     },
     "permissions_modal.file_share_settings.num_people": {
         "string": "{num, plural, other {{num}人}}"
     },
     "permissions_modal.file_share_settings.one_day": {
-        "string": "1日"
+        "string": "1天"
     },
     "permissions_modal.file_share_settings.one_week": {
-        "string": "1週間"
+        "string": "1周"
     },
     "permissions_modal.file_share_settings.only_invited_people": {
-        "string": "招待されたユーザーのみ"
+        "string": "仅限受邀人员"
     },
     "permissions_modal.file_share_settings.only_public_for": {
-        "string": "公開期限まで{durationText}"
+        "string": "公开至{durationText}"
     },
     "permissions_modal.file_share_settings.org_requires_access_to_end": {
-        "string": "{orgName}の設定により、{date}の前にアクセスを終える必要があります。その後、アクセス権は{prevLinkAccess}に戻ります。"
+        "string": "{orgName}的设置要求在{date}前终止访问。到期后，访问权限将恢复为{prevLinkAccess}。"
     },
     "permissions_modal.file_share_settings.password_copied_to_clipboard": {
-        "string": "パスワードをクリップボードにコピーしました"
+        "string": "密码已复制到剪贴板"
     },
     "permissions_modal.file_share_settings.password_required": {
-        "string": "パスワードが必要です"
+        "string": "需要密码"
     },
     "permissions_modal.file_share_settings.please_enter_a_password": {
-        "string": "パスワードを入力してください"
+        "string": "请输入密码"
     },
     "permissions_modal.file_share_settings.these_settings_won't_apply_to": {
-        "string": "これらの設定は、直接招待された{numPeople}人と現在アクセス権を持っている{projectName}のメンバーには適用されません。"
+        "string": "这些设置不适用于直接受邀的{numPeople}人和当前有访问权限的{projectName}成员。"
     },
     "permissions_modal.file_share_settings.these_settings_won't_apply_to_no_project": {
-        "string": "これらの設定は、直接招待された{numPeople}人と現在アクセス権を持っている{fileName}のメンバーには適用されません。"
+        "string": "这些设置不适用于直接受邀的{numPeople}人和当前有访问权限的{fileName}成员。"
     },
     "permissions_modal.file_share_settings.these_settings_won't_apply_to_presentation": {
-        "string": "これらの設定は、プレゼンテーションまたはメインファイルに直接招待されたユーザーには適用されません。"
+        "string": "这些设置不适用于直接受邀的演示或主文件的用户。"
     },
     "permissions_modal.file_share_settings.these_settings_won't_apply_to_prototype": {
-        "string": "これらの設定は、プロトタイプまたはメインファイルに直接招待されたユーザーには適用されません。"
+        "string": "这些设置不适用于直接受邀的原型或主文件的用户。"
     },
     "permissions_modal.file_share_settings.this_setting_applies_to_anyone_with_view_access": {
-        "string": "この設定は、ファイルの{strongCanView}権限を持つすべてのユーザーに適用されます。"
+        "string": "此设置适用于所有拥有{strongCanView}权限的用户。"
     },
     "permissions_modal.file_share_settings.viewers_can_copy_share_export": {
-        "string": "閲覧者は、このファイルをコピー、共有、およびエクスポートすることができます。"
+        "string": "查看者可以复制、分享和导出此文件"
     },
     "permissions_modal.file_share_settings.week_text": {
-        "string": "{num, plural, other {{num}週間}}"
+        "string": "{num, plural, other {{num}周}}"
     },
     "permissions_modal.request_an_upgrade": {
-        "string": "アップグレードを申請する"
+        "string": "申请升级"
     },
     "permissions_modal.restricted": {
-        "string": "制限"
+        "string": "受限制"
     },
     "permissions_modal.restricted_figjam_disabled": {
-        "string": "ご使用のアカウントが管理者によって制限されています。"
+        "string": "您的帐户已被管理员限制。"
     },
     "permissions_modal.restricted_figjam_disabled_with_product_name": {
-        "string": "ご使用のアカウントが{productName}で管理者によって制限されています。"
+        "string": "您的帐户已在{productName}中被管理员限制。"
     },
     "permissions_modal.restricted_org_user": {
-        "string": "ご使用のアカウントが管理者によって制限されています。ファイルを編集するには、{upgradeLink}してください。"
+        "string": "您的帐户已被管理员限制。要编辑文件，请{upgradeLink}。"
     },
     "permissions_modal.restricted_org_user_with_product_name": {
-        "string": "ご使用のアカウントが{productName}で管理者によって制限されています。{productName}のファイルを編集するには、{upgradeLink}してください。"
+        "string": "您的帐户已在{productName}中被管理员限制。要编辑{productName}文件，请{upgradeLink}。"
     },
     "permissions_modal.restricted_pro_user": {
-        "string": "ご使用のアカウントが管理者によって{restricted}されています。ファイルを{edit}するには、管理者にアップグレードを依頼してください。"
+        "string": "您的帐户已被管理员{restricted}。要{edit}文件，请联系管理员升级您的帐户。"
     },
     "permissions_modal.restricted_pro_user_with_product_name": {
-        "string": "ご使用のアカウントが管理者によって{productName}で{restricted}されています。{productName}ファイルを{edit}するには、管理者にアップグレードを依頼してください。"
+        "string": "您的帐户已在{productName}中被管理员{restricted}。要{edit}{productName}文件，请联系管理员升级您的帐户。"
     },
     "permissions_modal.restricted_user_other": {
-        "string": "このユーザーのアカウントは{restricted}されています。アカウントがアップグレードされると、ファイルを{edit}できるようになります。"
+        "string": "此用户的帐户已被{restricted}。帐户升级后，将能够{edit}文件。"
     },
     "permissions_modal.restricted_user_other_with_product_name": {
-        "string": "このユーザーのアカウントは{productName}で{restricted}されています。アカウントがアップグレードされると、{productName}を{edit}できるようになります 。"
+        "string": "此用户的帐户已在{productName}中被{restricted}。帐户升级后，将能够{edit}{productName}文件。"
     },
     "permissions_modal.share_with_message_placeholder": {
-        "string": "オプション: 参加を促す短いメッセージを添えることができます。"
+        "string": "可选：添加一条简短消息以邀请他们参与。"
     },
     "permissions_modal.share_with_message_too_long_warning": {
-        "string": "メッセージが長すぎます"
+        "string": "消息太长"
     },
     "publishing.community.header": {
-        "string": "コミュニティファイルを更新"
+        "string": "更新社区文件"
     },
     "publishing.community.menu.description.disabled": {
-        "string": "Figmaコミュニティにファイルを公開できるのは管理者だけです。{link}"
+        "string": "只有管理员可以将文件发布到Figma社区。{link}"
     },
     "publishing.community.menu.description.disabled_starter_file": {
-        "string": "これはFigmaサンプルファイルのため、公開できません。別のファイルを選択してください。"
+        "string": "这是Figma示例文件，不能发布。请选择其他文件。"
     }
 }

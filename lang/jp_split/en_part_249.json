@@ -1,152 +1,152 @@
 {
     "file_permissions_modal.a_password_was_set_on_the_main_file_people_will_need_to_enter_that_password_to_access_any_branches": {
-        "string": "メインファイルにパスワードが設定されました。ブランチにアクセスするユーザーは、そのパスワードを入力する必要があります。"
+        "string": "主文件已设置密码，访问任何分支的用户都需要输入该密码。"
     },
     "file_permissions_modal.advanced_options": {
-        "string": "詳細オプション"
+        "string": "高级选项"
     },
     "file_permissions_modal.allow_viewers_to_copy_share_and_export_from_this_file": {
-        "string": "閲覧者にこのファイルのコピー、共有、エクスポートを許可する"
+        "string": "允许查看者复制、共享和导出此文件"
     },
     "file_permissions_modal.collaborators_row_v2": {
         "string": "{collaborator_1_name}、{collaborator_2_name}、{remaining_collaborator_text}"
     },
     "file_permissions_modal.collaborators_row_v2.num_remaining_collaborators_others": {
-        "string": "他{num_remaining_collaborators}人"
+        "string": "其他{num_remaining_collaborators}人"
     },
     "file_permissions_modal.collaborators_sub_tab_title": {
-        "string": "このファイルの作業者は{num_collaborators}人です"
+        "string": "此文件的协作者有{num_collaborators}人"
     },
     "file_permissions_modal.copy_audience_link": {
-        "string": "オーディエンスのリンクをコピー"
+        "string": "复制受众链接"
     },
     "file_permissions_modal.copy_file_link": {
-        "string": "リンクをコピー"
+        "string": "复制文件链接"
     },
     "file_permissions_modal.copy_folder_link": {
-        "string": "リンクをコピー"
+        "string": "复制文件夹链接"
     },
     "file_permissions_modal.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "file_permissions_modal.file_name_s_project": {
-        "string": "{fileName}のプロジェクト"
+        "string": "{fileName}的项目"
     },
     "file_permissions_modal.file_name_s_team": {
-        "string": "{fileName}のチーム"
+        "string": "{fileName}的团队"
     },
     "file_permissions_modal.folder_name": {
         "string": "{folderName}"
     },
     "file_permissions_modal.give_them_access": {
-        "string": "アクセスを許可"
+        "string": "授予他们访问权限"
     },
     "file_permissions_modal.google_classroom_modal.disclaimer": {
-        "string": "生徒/学生はこのファイルへのアクセス権が必要になります。ファイルの権限の確認や更新は{link}で行うことができます。"
+        "string": "学生需要此文件的访问权限。您可以在{link}中查看和更新文件权限。"
     },
     "file_permissions_modal.google_classroom_modal.disclaimer_link": {
-        "string": "共有設定"
+        "string": "共享设置"
     },
     "file_permissions_modal.google_classroom_modal.duplicate_option": {
-        "string": "生徒/学生ごとにコピーを作成"
+        "string": "为每位学生创建一个副本"
     },
     "file_permissions_modal.google_classroom_modal.duplicate_option_description": {
-        "string": "閲覧アクセス権または編集アクセス権が必要です"
+        "string": "需要查看或编辑权限"
     },
     "file_permissions_modal.google_classroom_modal.editable_option": {
-        "string": "生徒/学生にこのファイルへの直接の参加と編集を許可"
+        "string": "允许学生直接参与和编辑此文件"
     },
     "file_permissions_modal.google_classroom_modal.editable_option_description": {
-        "string": "編集アクセス権が必要です"
+        "string": "需要编辑权限"
     },
     "file_permissions_modal.google_classroom_modal.title": {
-        "string": "このファイルの共有方法"
+        "string": "如何共享此文件"
     },
     "file_permissions_modal.google_confirmation_modal.confirm_text": {
-        "string": "オープンセッションを開始"
+        "string": "开始开放会话"
     },
     "file_permissions_modal.google_confirmation_modal.description": {
-        "string": "このリンクを知っている、すなわちGoogle Meetデバイスを見ている誰でも、ファイルの閲覧と編集を行うことができます。オープンセッションはいつでも終了できます。また、24時間後に自動的に終了します。"
+        "string": "知道此链接的任何人（即查看Google Meet设备的任何人）都可以查看和编辑文件。开放会话可以随时结束，并将在24小时后自动结束。"
     },
     "file_permissions_modal.google_confirmation_modal.here": {
-        "string": "こちら"
+        "string": "这里"
     },
     "file_permissions_modal.google_confirmation_modal.image_alt_text": {
-        "string": "Google Meetデバイス"
+        "string": "Google Meet设备"
     },
     "file_permissions_modal.google_confirmation_modal.subtext": {
-        "string": "現在、キャストできるのはSeries Onesディスプレイのみです。お使いのGoogle Meetデバイスに互換性があるかどうかご確認ください{link}。"
+        "string": "目前仅Series Ones显示器支持投屏。请检查您的Google Meet设备是否兼容{link}。"
     },
     "file_permissions_modal.google_confirmation_modal.subtitle": {
-        "string": "オープンセッションを開始しようとしています"
+        "string": "您即将开始开放会话"
     },
     "file_permissions_modal.google_screencast_modal.title": {
-        "string": "スクリーンキャストコード"
+        "string": "屏幕投射码"
     },
     "file_permissions_modal.invite": {
-        "string": "招待"
+        "string": "邀请"
     },
     "file_permissions_modal.invite_sent": {
-        "string": "{num_invites, plural, other {{num_invites}人のユーザー}}"
+        "string": "{num_invites, plural, other {{num_invites}位用户}}"
     },
     "file_permissions_modal.invite_sent_prefix": {
-        "string": "招待済み"
+        "string": "已邀请"
     },
     "file_permissions_modal.invite_user_sharing_restricted": {
-        "string": "Figmaではこのファイルの共有を制限しています。{supportSharingRestrictedEmail}までメールでお問い合わせください。"
+        "string": "Figma已限制此文件的共享。请通过邮件联系{supportSharingRestrictedEmail}。"
     },
     "file_permissions_modal.link_copied": {
-        "string": "リンクをコピーしました"
+        "string": "链接已复制"
     },
     "file_permissions_modal.link_has_been_sent": {
-        "string": "リンクを送信しました"
+        "string": "链接已发送"
     },
     "file_permissions_modal.move_and_allow_edits": {
-        "string": "移動して編集を許可"
+        "string": "移动并允许编辑"
     },
     "file_permissions_modal.pending_user_comment_visual_bell_multiple": {
-        "string": "確認してほしい場所をチームのメンバーにコメントで示します。"
+        "string": "在评论中向团队成员标注需要检查的地方。"
     },
     "file_permissions_modal.pending_user_comment_visual_bell_singular": {
-        "string": "確認してほしい場所を{email}にコメントで示します。"
+        "string": "在评论中向{email}标注需要检查的地方。"
     },
     "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file": {
-        "string": "ブランチに招待されているユーザーは、常にメインファイルを閲覧できます。"
+        "string": "被邀请到分支的用户始终可以查看主文件。"
     },
     "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration": {
-        "string": "ブランチに招待されたユーザーはメインファイルを常に閲覧できます。メインファイルへのリンクには有効期限が設定されており、有効期限はこのブランチに適用されます。"
+        "string": "被邀请到分支的用户始终可以查看主文件。主文件的链接有有效期，适用于此分支。"
     },
     "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration_and_password": {
-        "string": "ブランチに招待されたユーザーはメインファイルを常に閲覧できます。メインファイルへのリンクには有効期限とパスワードがあり、このブランチに適用されます。"
+        "string": "被邀请到分支的用户始终可以查看主文件。主文件的链接有有效期和密码，适用于此分支。"
     },
     "file_permissions_modal.screenshare_to_google_device": {
-        "string": "Google Meetデバイスにキャストする"
+        "string": "投屏到Google Meet设备"
     },
     "file_permissions_modal.screenshare_to_google_device.aria_label": {
-        "string": "ツールチップ"
+        "string": "工具提示"
     },
     "file_permissions_modal.screenshare_to_google_device.error_generating_code": {
-        "string": "コードを生成できませんでした。新しいコードを生成するには、[リセット]ボタンを使用してください。"
+        "string": "无法生成代码。请使用[重置]按钮生成新代码。"
     },
     "file_permissions_modal.screenshare_to_google_device.generic_error": {
-        "string": "Google Meetデバイスにキャストできません。後でもう一度お試しください。"
+        "string": "无法投屏到Google Meet设备。请稍后再试。"
     },
     "file_permissions_modal.screenshare_to_google_device.only_admins": {
-        "string": "上記のユーザーのみがキャストできます"
+        "string": "只有上述用户可以投屏"
     },
     "file_permissions_modal.screenshare_to_google_device.only_pro_teams": {
-        "string": "キャストを行うには、有料プランへのアップグレードが必要です"
+        "string": "投屏需要升级到付费计划"
     },
     "file_permissions_modal.screenshare_to_google_device.open_sessions_disabled": {
-        "string": "組織により、キャストが必要なオープンセッションは無効です。"
+        "string": "组织已禁用投屏所需的开放会话。"
     },
     "file_permissions_modal.secondary_header.go_back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "file_permissions_modal.send": {
-        "string": "送信"
+        "string": "发送"
     },
     "file_permissions_modal.send_invite": {
-        "string": "招待"
+        "string": "发送邀请"
     }
 }

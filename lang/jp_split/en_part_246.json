@@ -1,152 +1,152 @@
 {
     "payments_modal.learn_more_about_our_paid_plans": {
-        "string": "有料プランの詳細を参照してください"
+        "string": "查看我们的付费计划"
     },
     "payments_modal.learn_more_about_team_plans": {
-        "string": "チームプランの詳細情報"
+        "string": "了解团队计划的详细信息"
     },
     "payments_modal.more_files": {
-        "string": "他のファイル"
+        "string": "更多文件"
     },
     "payments_modal.move": {
-        "string": "移動"
+        "string": "移动"
     },
     "payments_modal.move_figjam_files_to_drafts": {
-        "string": "{numFigJamFiles, plural, other {{numFigJamFiles}個のFigJamファイルをドラフトに移動します}}"
+        "string": "将{numFigJamFiles}个FigJam文件移动到草稿中"
     },
     "payments_modal.move_figma_files_to_drafts": {
-        "string": "{numFigmaFiles, plural, other {{numFigmaFiles}個のFigmaファイルをドラフトに移動します}}"
+        "string": "将{numFigmaFiles}个Figma文件移动到草稿中"
     },
     "payments_modal.okay": {
-        "string": "OK"
+        "string": "确定"
     },
     "payments_modal.on_the_starter_plan_your_team_is_limited": {
-        "string": "{maxFreeFiles, plural, other {スタータープランのチームの上限は、{maxFreeFiles}Figmaファイル、{maxFreeFiles}FigJamファイル、{maxFreeFolders}プロジェクトです。}}"
+        "string": "在入门计划中，团队最多可以有{maxFreeFiles}个Figma文件、{maxFreeFiles}个FigJam文件和{maxFreeFolders}个项目。"
     },
     "payments_modal.org_trial.enterprise": {
-        "string": "エンタープライズ"
+        "string": "企业"
     },
     "payments_modal.org_trial.organization": {
-        "string": "ビジネス"
+        "string": "业务"
     },
     "payments_modal.org_trial.switch_my_workspace": {
-        "string": "ワークスペースを切り替える"
+        "string": "切换我的工作区"
     },
     "payments_modal.org_trial_expired.description": {
-        "string": "このプランを継続する場合は、Figmaの営業担当にご連絡ください。"
+        "string": "如果您希望继续此计划，请联系Figma销售团队。"
     },
     "payments_modal.org_trial_expired.title": {
-        "string": "Figma{planText}のトライアルが終了しました"
+        "string": "Figma {planText} 试用已结束"
     },
     "payments_modal.org_trial_pending.by_clicking_agree": {
-        "string": "「{agreeText}」をクリックすることで、上記の条項およびFigmaの{ssaLink}に同意します。"
+        "string": "点击“{agreeText}”即表示您同意上述条款和Figma的{ssaLink}。"
     },
     "payments_modal.org_trial_pending.editor_count.seat_rename": {
-        "string": "この{planText}トライアルの有料シートの見積数は{editorCount}です。トライアル中はさらにシートを追加しても料金は請求されません"
+        "string": "此{planText}试用的付费席位估计数为{editorCount}。在试用期间添加更多席位不会产生额外费用。"
     },
     "payments_modal.org_trial_pending.error": {
-        "string": "トライアル検証エラー。再読み込みをするか、Figmaにサポートを依頼してください"
+        "string": "试用验证错误。请刷新或联系Figma支持。"
     },
     "payments_modal.org_trial_pending.expiration_date": {
-        "string": "Figmaの{planText}プランのトライアルが本日スタートし、{endDate}に自動的に終了します"
+        "string": "Figma的{planText}计划试用将于今日开始，并于{endDate}自动结束。"
     },
     "payments_modal.org_trial_pending.i_agree": {
-        "string": "同意する"
+        "string": "同意"
     },
     "payments_modal.org_trial_pending.make_sure_things_look_right": {
-        "string": "内容をご確認ください。同意いただくと、トライアル期間中、チームは{planText}プランのすべての機能にアクセスできます。"
+        "string": "请确保信息正确。确认后，团队将在试用期间访问{planText}计划的所有功能。"
     },
     "payments_modal.org_trial_pending.no_obligation_to_purchase": {
-        "string": "チームは、貴社とFigmaとがその後の最終的な商業契約を結ぶまで、Figma{planText}プランへのアクセス権を購入する義務を負いません。"
+        "string": "在贵公司与Figma签订最终商业协议之前，团队没有义务购买Figma {planText} 计划的访问权限。"
     },
     "payments_modal.org_trial_pending.ssa_link": {
-        "string": "ソフトウェアサービス契約"
+        "string": "软件服务协议"
     },
     "payments_modal.org_trial_pending.success": {
-        "string": "成功! トライアルへようこそ"
+        "string": "成功！欢迎加入试用"
     },
     "payments_modal.org_trial_pending.terms_and_conditions": {
-        "string": "このトライアルには、Figmaの{ssaLink}(「SSA」)に「早期アクセス機能」として記載されている条件が適用されます。"
+        "string": "此试用适用Figma的{ssaLink}中列出的“早期访问功能”条款。"
     },
     "payments_modal.org_trial_pending.trial_still_needs_admin_approval": {
-        "string": "このトライアルは、管理者にまだ承認されていないようです。Figma{planText}プランの利用を開始するには、管理者に連絡してください。"
+        "string": "此试用尚未获得管理员批准。要开始使用Figma {planText} 计划，请联系管理员。"
     },
     "payments_modal.org_trial_pending.welcome_to_your_figma_trial": {
-        "string": "Figma{planText}のトライアルへようこそ"
+        "string": "欢迎加入Figma {planText} 试用"
     },
     "payments_modal.org_trial_pending.your_trial_is_almost_ready": {
-        "string": "トライアルをまもなく利用できます"
+        "string": "您的试用即将准备好"
     },
     "payments_modal.pay_invoice": {
-        "string": "請求書の代金を支払う"
+        "string": "支付账单"
     },
     "payments_modal.pay_overdue_invoice_to_regain_access": {
-        "string": "期限の過ぎた請求書の代金を支払ってアクセス権を回復します"
+        "string": "支付逾期账单以恢复访问权限"
     },
     "payments_modal.please_reach_out_to_b_class_name_styles_bold_support_figma_com_b_to_resolve_the_issue": {
-        "string": "この問題を解決するには、{supportEmail}までご連絡ください。"
+        "string": "请联系{supportEmail}解决此问题。"
     },
     "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue": {
-        "string": "この請求の問題を解決するには、組織管理者に連絡してください。"
+        "string": "请联系组织管理员解决此账单问题。"
     },
     "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue_thank_you": {
-        "string": "この請求の問題を解決するには、組織の管理者にご連絡ください。よろしくお願いいたします。"
+        "string": "请联系您的组织管理员解决此账单问题，谢谢。"
     },
     "payments_modal.remove_invite_only_permissions_from_all_projects": {
-        "string": "\"招待限定\"権限をすべてのプロジェクトから削除"
+        "string": "从所有项目中删除“仅限邀请”权限"
     },
     "payments_modal.remove_projects": {
-        "string": "{numProjects, plural, other {{numProjects}個のプロジェクトを削除します}}"
+        "string": "删除{numProjects}个项目"
     },
     "payments_modal.remove_view_only_permissions_from_all_projects": {
-        "string": "\"閲覧限定\"権限をすべてのプロジェクトから削除する"
+        "string": "从所有项目中删除“仅限查看”权限"
     },
     "payments_modal.restore": {
-        "string": "復元"
+        "string": "恢复"
     },
     "payments_modal.switch_organization_or_account": {
-        "string": "組織またはアカウントを切り替え"
+        "string": "切换组织或账户"
     },
     "payments_modal.switch_workspaces_to_continue_using_figma": {
-        "string": "Figmaを引き続き使用するには、ワークスペースを切り替えてください。"
+        "string": "切换工作区以继续使用Figma。"
     },
     "payments_modal.team_name_is_currently_locked_please_update_your_payment_source_to_unlock_team_name_and_modify_team_members": {
-        "string": "{teamName}は現在ロックされています。{teamName}のロックを解除してチームメンバーを変更するには、支払い元を更新してください。"
+        "string": "{teamName}目前已锁定。更新支付方式以解锁{teamName}并修改团队成员。"
     },
     "payments_modal.thank_you": {
-        "string": "どうぞよろしくお願いいたします。"
+        "string": "谢谢。"
     },
     "payments_modal.these_files": {
-        "string": "これらのファイル"
+        "string": "这些文件"
     },
     "payments_modal.this_file": {
-        "string": "このファイル"
+        "string": "这个文件"
     },
     "payments_modal.this_project": {
-        "string": "このプロジェクト"
+        "string": "这个项目"
     },
     "payments_modal.to_meet_the_limits_for_your_starter_plan": {
-        "string": "チームのスタータープランの制限を守るには:"
+        "string": "为了满足入门计划的限制："
     },
     "payments_modal.update_payment": {
-        "string": "支払い情報を更新"
+        "string": "更新支付信息"
     },
     "payments_modal.update_your_payment": {
-        "string": "支払い情報を更新"
+        "string": "更新您的支付信息"
     },
     "payments_modal.upgrade": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "payments_modal.upgrade_to_professional": {
-        "string": "プロフェッショナルにアップグレード"
+        "string": "升级到专业版"
     },
     "payments_modal.upgrade_to_verb_resource_name": {
-        "string": "{resourceName}を{verb}するには、アップグレードしてください"
+        "string": "要{verb}{resourceName}，请升级"
     },
     "payments_modal.you_may_give_them_edit_access_later_if_you_upgrade_to_the_professional_plan_or_downgrade_other_editors_on_your_team_to_viewers.seat_rename": {
-        "string": "プロフェッショナルプランにアップグレードするか、チームの他のシートをダウングレードすると、後でこれらのメンバーに編集アクセス権を付与できます。"
+        "string": "升级到专业版或将团队中的其他席位降级后，您可以稍后为他们提供编辑权限。"
     },
     "payments_modal.you_no_longer_have_access_to_this_organization": {
-        "string": "この組織にはアクセスできなくなりました"
+        "string": "您已不再有权访问此组织"
     }
 }

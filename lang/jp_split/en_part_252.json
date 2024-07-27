@@ -1,152 +1,152 @@
 {
     "permissions.audience_selector.project_resource_name": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "permissions.audience_selector.prototype_resource_name": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "permissions.audience_selector.team_resource_name": {
-        "string": "チーム"
+        "string": "团队"
     },
     "permissions.audience_selector.workspace_members": {
-        "string": "ワークスペースメンバー"
+        "string": "工作区成员"
     },
     "permissions.can_still_edit_allow_edit_anybody_with_link": {
-        "string": "{noun}ではリンクを知っている組織メンバーによる編集が許可されているため、このユーザーは{noun}を引き続き閲覧できます。"
+        "string": "在{noun}中，拥有链接的组织成员被允许编辑，因此该用户可以继续查看{noun}。"
     },
     "permissions.can_still_edit_allow_view_anybody_with_link": {
-        "string": "{noun}ではリンクを知っているすべてのユーザーに閲覧が許可されているため、このユーザーは{noun}を引き続き閲覧できます。"
+        "string": "在{noun}中，所有拥有链接的用户都被允许查看，因此该用户可以继续查看{noun}。"
     },
     "permissions.can_still_edit_anybody_with_the_link": {
-        "string": "{noun}ではリンクを知っているすべてのユーザーに編集が許可されているため、このユーザーは引き続き編集できます。"
+        "string": "在{noun}中，所有拥有链接的用户都被允许编辑，因此该用户可以继续编辑。"
     },
     "permissions.can_still_edit_edit_permissions": {
-        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き編集できます。"
+        "string": "该用户具有主文件的编辑权限，因此可以继续编辑。"
     },
     "permissions.can_still_edit_folder_permissions": {
-        "string": "このユーザーにはこのファイルが含まれているプロジェクトの編集権限があるため、引き続き編集できます。"
+        "string": "该用户具有包含此文件的项目的编辑权限，因此可以继续编辑。"
     },
     "permissions.can_still_edit_org_member_with_link": {
-        "string": "{noun}ではリンクを知っているすべての組織メンバーに編集が許可されているため、このユーザーは引き続き編集できます。"
+        "string": "在{noun}中，所有拥有链接的组织成员被允许编辑，因此该用户可以继续编辑。"
     },
     "permissions.can_still_edit_team_permissions": {
-        "string": "このユーザーにはこのファイルが含まれているチームの編集権限があるため、引き続き編集できます。"
+        "string": "该用户具有包含此文件的团队的编辑权限，因此可以继续编辑。"
     },
     "permissions.can_still_edit_team_project_is_in": {
-        "string": "このユーザーにはこのプロジェクトが含まれているチームの編集権限があるため、引き続き編集できます。"
+        "string": "该用户具有包含此项目的团队的编辑权限，因此可以继续编辑。"
     },
     "permissions.can_still_see_and_edit_allow_editing_by_org_members_with_link": {
-        "string": "{noun}ではリンクを知っている社内のメンバーに編集が許可されているため、このユーザーは{noun}を引き続き閲覧および編集できます。"
+        "string": "在{noun}中，拥有链接的内部成员被允许编辑，因此该用户可以继续查看和编辑{noun}。"
     },
     "permissions.can_still_see_and_edit_anybody_with_the_link_noun": {
-        "string": "{noun}ではリンクを知っているすべてのユーザーに編集が許可されているため、このユーザーは{noun}を引き続き閲覧および編集できます。"
+        "string": "在{noun}中，所有拥有链接的用户都被允许编辑，因此该用户可以继续查看和编辑{noun}。"
     },
     "permissions.can_still_see_and_edit_permission_main_file": {
-        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
+        "string": "该用户具有主文件的编辑权限，因此可以继续查看和编辑{noun}。"
     },
     "permissions.can_still_see_and_edit_permission_team_file_is_in": {
-        "string": "このユーザーにはファイルが含まれているチームの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
+        "string": "该用户具有包含此文件的团队的编辑权限，因此可以继续查看和编辑{noun}。"
     },
     "permissions.can_still_see_and_edit_permission_team_project_is_in": {
-        "string": "このユーザーにはファイルが含まれているプロジェクトの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
+        "string": "该用户具有包含此项目的团队的编辑权限，因此可以继续查看和编辑{noun}。"
     },
     "permissions.can_still_see_edit_permission_on_main_file": {
-        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き{noun}を閲覧できます。"
+        "string": "该用户具有主文件的编辑权限，因此可以继续查看{noun}。"
     },
     "permissions.can_still_see_permission_project_file_is_on": {
-        "string": "このユーザーにはファイルが含まれているプロジェクトの権限があるため、引き続き{noun}を閲覧できます。"
+        "string": "该用户具有包含此文件的项目的权限，因此可以继续查看{noun}。"
     },
     "permissions.can_still_see_permission_team_file_is_on": {
-        "string": "このユーザーにはファイルが含まれているチームの権限があるため、引き続き{noun}を閲覧できます。"
+        "string": "该用户具有包含此文件的团队的权限，因此可以继续查看{noun}。"
     },
     "permissions.confirm_guest_invite.external_to_org_warning": {
-        "string": "{numEmails, plural, other {{emails}は組織{orgName}の一部でないということを覚えておいてください。{learnMore}}}"
+        "string": "{numEmails, plural, other {{emails}不是组织{orgName}的一部分。{learnMore}}}"
     },
     "permissions.confirm_guest_invite.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "permissions.confirm_guest_invite.send_invite": {
-        "string": "招待を送信"
+        "string": "发送邀请"
     },
     "permissions.confirm_guest_invite.share_externally": {
-        "string": "この組織の外で共有しますか?"
+        "string": "是否在此组织外部共享？"
     },
     "permissions.copy_link_button.tooltip.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "permissions.copy_link_button.tooltip.copy_link_prototype": {
-        "string": "プロトタイプリンクをコピー"
+        "string": "复制原型链接"
     },
     "permissions.copy_link_button.tooltip.everyone_at_org_can_access": {
-        "string": "リンクをコピー・{org}の全員がアクセス可"
+        "string": "复制链接 - {org}的所有人都可以访问"
     },
     "permissions.copy_link_button.tooltip.everyone_at_org_can_access_no_name": {
-        "string": "リンクをコピー・この組織の全員がアクセス可"
+        "string": "复制链接 - 此组织的所有人都可以访问"
     },
     "permissions.copy_link_button.tooltip.everyone_at_org_can_view_no_name_prototype": {
-        "string": "プロトタイプリンクをコピー・この組織の全員が閲覧可"
+        "string": "复制原型链接 - 此组织的所有人都可以查看"
     },
     "permissions.copy_link_button.tooltip.everyone_at_org_can_view_prototype": {
-        "string": "プロトタイプリンクをコピー・{org}の全員が閲覧可"
+        "string": "复制原型链接 - {org}的所有人都可以查看"
     },
     "permissions.copy_link_button.tooltip.everyone_at_team_can_access": {
-        "string": "リンクをコピー・{team}の全員がアクセス可"
+        "string": "复制链接 - {team}的所有人都可以访问"
     },
     "permissions.copy_link_button.tooltip.everyone_at_team_can_view_prototype": {
-        "string": "プロトタイプリンクをコピー・{team}の全員が閲覧可"
+        "string": "复制原型链接 - {team}的所有人都可以查看"
     },
     "permissions.copy_link_button.tooltip.members_of_project_can_access": {
-        "string": "リンクをコピー・{folder}のメンバーはアクセス可"
+        "string": "复制链接 - {folder}的成员可以访问"
     },
     "permissions.copy_link_button.tooltip.members_of_project_can_view_prototype": {
-        "string": "プロトタイプリンクをコピー・{folder}のメンバーが閲覧可"
+        "string": "复制原型链接 - {folder}的成员可以查看"
     },
     "permissions.copy_link_button.tooltip.members_of_project_or_team_can_access": {
-        "string": "リンクをコピー・このプロジェクトまたはチームのメンバーはアクセス可"
+        "string": "复制链接 - 此项目或团队的成员可以访问"
     },
     "permissions.copy_link_button.tooltip.members_of_project_or_team_can_view_prototype": {
-        "string": "プロトタイプリンクをコピー・このプロジェクトまたはチームのメンバーが閲覧可"
+        "string": "复制原型链接 - 此项目或团队的成员可以查看"
     },
     "permissions.copy_link_button.tooltip.people_invited_can_access": {
-        "string": "リンクをコピー・招待されたユーザーはアクセス可"
+        "string": "复制链接 - 受邀用户可以访问"
     },
     "permissions.copy_link_button.tooltip.people_invited_can_view_prototype": {
-        "string": "プロトタイプリンクをコピー・招待されたユーザーが閲覧可"
+        "string": "复制原型链接 - 受邀用户可以查看"
     },
     "permissions.copy_link_button.visual_bell.copy_prototype_link": {
-        "string": "プロトタイプリンクがコピーされました"
+        "string": "原型链接已复制"
     },
     "permissions.copy_link_button.visual_bell.copy_prototype_link_name": {
-        "string": "{name}プロトタイプリンクがコピーされました"
+        "string": "{name}的原型链接已复制"
     },
     "permissions.copy_link_button.visual_bell.copy_summary_link": {
-        "string": "リンクがコピーされました..."
+        "string": "链接已复制..."
     },
     "permissions.copy_link_button.visual_bell.see_link_settings": {
-        "string": "リンク設定を参照"
+        "string": "查看链接设置"
     },
     "permissions.deprovisioned_users.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "permissions.deprovisioned_users.these_users_are_no_longer_in_the_org_name_organization_add_them_again_through_SCIM": {
-        "string": "{numEmails, plural, other {以下の人たちは組織{orgName}内のユーザーではなくなっています。招待を送信したい人がいる場合は、SCIMを通じてその人を組織に改めて登録するよう管理者に依頼してください。{listEmails}}}"
+        "string": "{numEmails, plural, other {以下用户已不再是组织{orgName}的成员。如果您希望重新邀请这些用户，请通过SCIM将其重新添加到组织中。{listEmails}}}"
     },
     "permissions.embed.cancel_embed": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "permissions.embed.copy_embed_code": {
-        "string": "コピー"
+        "string": "复制"
     },
     "permissions.embed.copy_public_embed_code": {
-        "string": "公開埋め込みコードをコピー"
+        "string": "复制公共嵌入代码"
     },
     "permissions.embed.embed_page_name_in_your_webpage": {
-        "string": "Webページに{pageName}を埋め込みます"
+        "string": "将{pageName}嵌入到您的网页中"
     },
     "permissions.guests_banned.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "permissions.guests_banned.invite_wasnt_sent_org_name": {
-        "string": "{numEmails, plural, other {{listEmails}に招待が送信されませんでした。組織{orgName}では外部ユーザーとの共有が許可されていません。}}"
+        "string": "{numEmails, plural, other {无法发送邀请给{listEmails}。组织{orgName}不允许共享给外部用户。}}"
     }
 }

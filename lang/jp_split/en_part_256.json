@@ -1,33 +1,33 @@
 {
     "plugins.cannot_run_widget_logged_out": {
-        "string": "ログアウト中は、ウィジェットを実行できません"
+        "string": "登出时无法运行小部件"
     },
     "plugins.error_loading_environment_plugin": {
-        "string": "プラグイン環境の読み込み中にエラーが発生しました"
+        "string": "加载插件环境时出错"
     },
     "plugins.error_loading_environment_widget": {
-        "string": "ウィジェット環境の読み込み中にエラーが発生しました"
+        "string": "加载小部件环境时出错"
     },
     "plugins.error_occured_while_running_plugin": {
-        "string": "このプラグインの実行中にエラーが発生しました"
+        "string": "运行此插件时发生错误"
     },
     "plugins.error_occured_while_running_widget": {
-        "string": "このウィジェットの実行中にエラーが発生しました"
+        "string": "运行此小部件时发生错误"
     },
     "plugins.loading_pages_for_plugin": {
-        "string": "{numUnloadedPages, plural, other {プラグイン用の{numUnloadedPages}ページを読み込んでいます...}}"
+        "string": "正在为插件加载{numUnloadedPages}页..."
     },
     "plugins.loading_pages_for_widget": {
-        "string": "{numUnloadedPages, plural, other {ウィジェット用の{numUnloadedPages}ページを読み込んでいます...}}"
+        "string": "正在为小部件加载{numUnloadedPages}页..."
     },
     "plugins.loading_plugin": {
-        "string": "{pluginName}を読み込んでいます..."
+        "string": "正在加载{pluginName}..."
     },
     "plugins.no_code_found_for_plugin": {
-        "string": "プラグインのバージョンのコードが見つかりません"
+        "string": "未找到插件版本的代码"
     },
     "plugins.no_code_found_for_widget": {
-        "string": "ウィジェットのバージョンのコードが見つかりません"
+        "string": "未找到小部件版本的代码"
     },
     "presets.a_4": {
         "string": "A4"
@@ -39,10 +39,10 @@
         "string": "A6"
     },
     "presets.android_large": {
-        "string": "Android(大)"
+        "string": "Android（大）"
     },
     "presets.android_small": {
-        "string": "Android(小)"
+        "string": "Android（小）"
     },
     "presets.apple_watch_38_mm": {
         "string": "Apple Watch 38mm"
@@ -63,40 +63,40 @@
         "string": "Apple Watch 45mm"
     },
     "presets.blank_canvas": {
-        "string": "空白のキャンバス"
+        "string": "空白画布"
     },
     "presets.desktop": {
-        "string": "デスクトップ"
+        "string": "桌面"
     },
     "presets.device_panel.device": {
-        "string": "デバイス"
+        "string": "设备"
     },
     "presets.device_panel.device_height_tooltip": {
-        "string": "デバイスの高さ"
+        "string": "设备高度"
     },
     "presets.device_panel.device_width_tooltip": {
-        "string": "デバイスの幅"
+        "string": "设备宽度"
     },
     "presets.device_panel.model": {
-        "string": "モデル"
+        "string": "型号"
     },
     "presets.device_panel.preview": {
-        "string": "プレビュー"
+        "string": "预览"
     },
     "presets.device_panel.prototype_settings": {
-        "string": "プロトタイプ設定"
+        "string": "原型设置"
     },
     "presets.dribbble_shot": {
-        "string": "Dribbbleショット"
+        "string": "Dribbble截图"
     },
     "presets.dribbble_shot_hd": {
-        "string": "DribbbleショットHD"
+        "string": "Dribbble截图HD"
     },
     "presets.facebook_cover": {
-        "string": "Facebookカバー"
+        "string": "Facebook封面"
     },
     "presets.facebook_post": {
-        "string": "Facebook投稿"
+        "string": "Facebook帖子"
     },
     "presets.google_nexus_5x": {
         "string": "Google Nexus 5X"

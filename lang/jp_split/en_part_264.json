@@ -1,6 +1,6 @@
 {
     "fullscreen.properties_panel.section_vector.label_mirroring": {
-        "string": "ミラーリング"
+        "string": "镜像"
     },
     "fullscreen.properties_panel.section_vector.label_position": {
         "string": "位置"
@@ -9,34 +9,34 @@
         "string": "半径"
     },
     "fullscreen.properties_panel.tooltip_applyStyles": {
-        "string": "スタイルを適用"
+        "string": "应用样式"
     },
     "fullscreen.properties_panel.tooltip_applyStylesAndVariables": {
-        "string": "スタイルとバリアブルを適用"
+        "string": "应用样式和变量"
     },
     "fullscreen.properties_panel.tooltip_hide": {
-        "string": "非表示"
+        "string": "隐藏"
     },
     "fullscreen.properties_panel.tooltip_moreActions": {
-        "string": "その他のアクション"
+        "string": "更多操作"
     },
     "fullscreen.properties_panel.tooltip_remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "fullscreen.properties_panel.tooltip_show": {
-        "string": "表示"
+        "string": "显示"
     },
     "fullscreen.selection_actions.tooltip_boolean_operations": {
-        "string": "ブール演算"
+        "string": "布尔运算"
     },
     "properties.dropdown.apply_blend_mode": {
-        "string": "ブレンドモードを適用"
+        "string": "应用混合模式"
     },
     "properties.dropdown.apply_variable_mode": {
-        "string": "バリアブルモードを適用"
+        "string": "应用变量模式"
     },
     "properties.label.alignment": {
-        "string": "配置"
+        "string": "对齐"
     },
     "properties.label.angle": {
         "string": "角度"
@@ -45,108 +45,108 @@
         "string": "弧"
     },
     "properties.label.count": {
-        "string": "数"
+        "string": "数量"
     },
     "properties.label.dimensions": {
-        "string": "サイズ"
+        "string": "尺寸"
     },
     "properties.label.letter_spacing": {
-        "string": "文字間隔"
+        "string": "字间距"
     },
     "properties.label.line_height": {
-        "string": "行間"
+        "string": "行高"
     },
     "properties.label.max_height": {
-        "string": "最大高さ"
+        "string": "最大高度"
     },
     "properties.label.max_width": {
-        "string": "最大幅"
+        "string": "最大宽度"
     },
     "properties.label.min_height": {
-        "string": "最小高さ"
+        "string": "最小高度"
     },
     "properties.label.min_width": {
-        "string": "最小幅"
+        "string": "最小宽度"
     },
     "properties.label.position": {
         "string": "位置"
     },
     "properties.label.resizing": {
-        "string": "サイズ変更"
+        "string": "调整大小"
     },
     "properties.label.spacing": {
-        "string": "スペーシング"
+        "string": "间距"
     },
     "properties.label.transform": {
-        "string": "変換"
+        "string": "变换"
     },
     "properties.tooltip.ignore_auto_layout": {
-        "string": "オートレイアウトを無視"
+        "string": "忽略自动布局"
     },
     "properties.tooltip.xposition": {
-        "string": "X位置"
+        "string": "X 位置"
     },
     "properties.tooltip.yposition": {
-        "string": "Y位置"
+        "string": "Y 位置"
     },
     "inline_preview.new_tab": {
-        "string": "プレゼンテーションビューで開く"
+        "string": "在演示视图中打开"
     },
     "inline_preview.open_fullscreen": {
-        "string": "フルスクリーンプレビュー"
+        "string": "全屏预览"
     },
     "inline_preview.overflow_menu": {
-        "string": "オーバーフローメニュー"
+        "string": "溢出菜单"
     },
     "inline_preview.overflow_menu.fit_width": {
-        "string": "幅に合わせる"
+        "string": "适合宽度"
     },
     "inline_preview.overflow_menu.fixed": {
         "string": "固定"
     },
     "inline_preview.overflow_menu.follow_prototype": {
-        "string": "プロトタイプに従う"
+        "string": "跟随原型"
     },
     "inline_preview.overflow_menu.reset_aspect_ratio": {
-        "string": "アスペクト比をリセット"
+        "string": "重置宽高比"
     },
     "inline_preview.overflow_menu.resize_device_100_percent": {
-        "string": "デバイスのサイズを100%に変更"
+        "string": "将设备大小调整为100%"
     },
     "inline_preview.overflow_menu.resize_window_100_percent": {
-        "string": "ウィンドウのサイズを100%に変更"
+        "string": "将窗口大小调整为100%"
     },
     "inline_preview.overflow_menu.responsive": {
-        "string": "レスポンシブ"
+        "string": "响应式"
     },
     "inline_preview.overflow_menu.show_device_frame": {
-        "string": "デバイスフレームを表示"
+        "string": "显示设备框架"
     },
     "inline_preview.resize_to_actual_size_visual_bell": {
-        "string": "プレビューを実際のサイズに変更しました"
+        "string": "预览已调整为实际大小"
     },
     "inline_preview.restart": {
-        "string": "プロトタイプを再開"
+        "string": "重新启动原型"
     },
     "number_formatters.time_duration_milliseconds_abbreviated": {
-        "string": "{numberOfMilliseconds} ms"
+        "string": "{numberOfMilliseconds} 毫秒"
     },
     "number_formatters.time_duration_seconds_abbreviated": {
-        "string": "{numberOfSeconds} s"
+        "string": "{numberOfSeconds} 秒"
     },
     "proto.action": {
-        "string": "アクション"
+        "string": "操作"
     },
     "proto.action_back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "proto.action_back_interaction": {
-        "string": "「戻る」インタラクション"
+        "string": "“返回”交互"
     },
     "proto.action_change_to": {
-        "string": "次に変更"
+        "string": "切换到"
     },
     "proto.action_change_to_interaction": {
-        "string": "「次に変更」インタラクション"
+        "string": "“切换到”交互"
     }
 }
