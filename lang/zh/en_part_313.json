@@ -1,152 +1,152 @@
 {
-    "pro_cart.review.lets_make_sure_everything_looks_right": {
-        "string": "Let’s make sure everything looks right"
+    "type_settings.decoration.paragraph_indent": {
+        "string": "段落インデント"
     },
-    "pro_cart.add_collaborators.error.email_is_invalid": {
-        "string": "Email {string} is invalid"
+    "type_settings.decoration.paragraph_spacing": {
+        "string": "段落間隔"
     },
-    "pro_cart.review.extra_validation": {
-        "string": "After you check out, you may be asked for extra verification to complete this payment."
+    "type_settings.decoration.strikethrough": {
+        "string": "取り消し線"
     },
-    "file_browser.offline_notification.youre_offline_message_body": {
-        "string": "{youreOfflineMessagePrefix} You can keep working in the files you have open, or create a new file."
+    "type_settings.decoration.underline": {
+        "string": "下線"
     },
-    "file_browser.offline_notification.youre_offline_message_body_no_create": {
-        "string": "{youreOfflineMessagePrefix} You can keep working in the files you have open."
+    "type_settings.explicit_text_layout_update_desc": {
+        "string": "段落の間隔のオプションを強化するための更新です。"
     },
-    "file_browser.offline_notification.youre_offline_message_prefix": {
-        "string": "You’re offline."
+    "type_settings.fixed_size": {
+        "string": "固定サイズ"
     },
-    "file_browser.offline_notification.create_file": {
-        "string": "Create file"
+    "type_settings.font_doesn_t_support_small_caps": {
+        "string": "フォントではスモールキャップスはサポートされていません"
     },
-    "payments.add_annual_plan.title": {
-        "string": "Add an annual plan"
+    "type_settings.forced_small_caps": {
+        "string": "強制スモールキャップス"
     },
-    "payments.add_annual_plan.intro.seat_rename": {
-        "string": "Payment for annual seats will be added to your next monthly renewal invoice. Any paid Figma Design and FigJam seats not covered by your annual plan will be charged monthly at {monthlyDesignEditorCost}/mo and {monthlyFigjamEditorCost}/mo, respectively."
+    "type_settings.fractions": {
+        "string": "分数"
     },
-    "payments.add_annual_plan.auto_renew.seat_rename": {
-        "string": "Your subscription will automatically renew each year for the annual subscription and each month for any additional paid seats added to the team. {cancellingIsEasyLink}."
+    "type_settings.hanging_lists": {
+        "string": "ハングリスト"
     },
-    "payments.add_annual_plan.cancelling_is_easy_link_text": {
-        "string": "Cancelling is easy"
+    "type_settings.hanging_punctuation": {
+        "string": "ぶら下げ句読点"
     },
-    "payments.add_annual_plan.tos": {
-        "string": "By upgrading, you agree to our {tosLink}."
+    "type_settings.horizontal_spacing": {
+        "string": "左右の間隔"
     },
-    "payments.add_annual_plan.tos_link_text": {
-        "string": "Terms of Service"
+    "type_settings.indentation": {
+        "string": "インデント"
     },
-    "payments.add_annual_plan.cta_text": {
-        "string": "Accept terms and upgrade"
+    "type_settings.leading_trim": {
+        "string": "上下トリミング"
     },
-    "plan_details.choose_your_team_plan": {
-        "string": "Choose your team plan"
+    "type_settings.leading_trim.cap_height": {
+        "string": "ベースラインまでのキャップハイト"
     },
-    "org_self_serve.billing_items.total_figma_design_editor_with_dev_mode_included.seat_rename": {
-        "string": "{totalDesignSeatsCount, plural, one {{totalDesignSeatsCount} Design (Dev Mode incl.) seat} other {{totalDesignSeatsCount} Design (Dev Mode incl.) seats}}"
+    "type_settings.leading_trim.font_does_not_support_leading_trim": {
+        "string": "フォントは上下トリミングをサポートしていません"
     },
-    "org_self_serve.billing_items.total_figma_design_editor.seat_rename": {
-        "string": "{totalDesignSeatsCount, plural, one {{totalDesignSeatsCount} Design seat} other {{totalDesignSeatsCount} Design seats}}"
+    "type_settings.leading_trim.none": {
+        "string": "標準"
     },
-    "org_self_serve.billing_items.total_figma_design_editor_cost.seat_rename": {
-        "string": "{totalDesignSeatsCount, plural, one {{annualMemberCost} × {totalDesignSeatsCount} Design seat × 12 months (annual only)} other {{annualMemberCost} × {totalDesignSeatsCount} Design seats × 12 months (annual only)}}"
+    "type_settings.letter_case": {
+        "string": "大文字/小文字"
     },
-    "org_self_serve.headers.total_fig_jam_editor_seats_count.seat_rename": {
-        "string": "{totalFigJamEditorSeatsCount, plural, one {{totalFigJamEditorSeatsCount} FigJam seat} other {{totalFigJamEditorSeatsCount} FigJam seats}}"
+    "type_settings.letterforms": {
+        "string": "字形"
     },
-    "org_self_serve.billing_items.total_figjam_editor_cost.seat_rename": {
-        "string": "{totalFigJamEditorSeatsCount, plural, one {{annualMemberCost} × {totalFigJamEditorSeatsCount} FigJam seat × 12 months (annual only)} other {{annualMemberCost} × {totalFigJamEditorSeatsCount} FigJam seats × 12 months (annual only)}}"
+    "type_settings.list_style": {
+        "string": "リストスタイル"
     },
-    "org_self_serve.billing_items.total_seat_count.dev_mode": {
-        "string": "{totalSeatCount, plural, one {{totalSeatCount} Dev Mode seat} other {{totalSeatCount} Dev Mode seats}}"
+    "type_settings.math": {
+        "string": "数式"
     },
-    "org_self_serve.billing_items.total_seat_cost_for_product": {
-        "string": "{seatCount, plural, one {{annualMemberCost} × {seatCount} seat × 12 months} other {{annualMemberCost} × {seatCount} seats × 12 months}}"
+    "type_settings.max_lines": {
+        "string": "最大行数"
     },
-    "org_self_serve.payment_step.enter_your_payment_details": {
-        "string": "Enter your payment details"
+    "type_settings.monospace_lowercase_old_style": {
+        "string": "等幅小文字/オールドスタイル"
     },
-    "org_self_serve.purchase_summary.num_empty_seats": {
-        "string": "{numEmptySeats, plural, one {{numEmptySeats} empty seat} other {{numEmptySeats} empty seats}}"
+    "type_settings.more_features": {
+        "string": "その他の機能"
     },
-    "org_self_serve.purchase_summary.none": {
-        "string": "None"
+    "type_settings.new_text_rendering_method_used": {
+        "string": "新しいテキストレンダリング方式が使用されています。"
     },
-    "org_self_serve.purchase_summary.added_empty_seats": {
-        "string": "{minCount, plural, one {There's a minimum of {minCount} seat for teams on the Organization plan.} other {There's a minimum of {minCount} seats for teams on the Organization plan.}}"
+    "type_settings.normal": {
+        "string": "標準"
     },
-    "org_self_serve.purchase_summary.empty_seats_included": {
-        "string": "{numOfEmptySeats, plural, one {Since you signed up for {numOfSeats} {seatsText}, {numOfEmptySeats} empty seat is included to assign later.} other {Since you signed up for {numOfSeats} {seatsText}, {numOfEmptySeats} empty seats are included to assign later.}}"
+    "type_settings.not_applicable_for_selected_text": {
+        "string": "選択されているテキストには適用されません"
     },
-    "checkout.seats_text": {
-        "string": "{numOfSeats, plural, one {seat} other {seats}}"
+    "type_settings.numbers": {
+        "string": "数字"
     },
-    "org_self_serve.purchase_summary.the_organization_plan_requires_seats_added_empty_seats.seat_rename": {
-        "string": "The Organization plan needs at least {minCount} full seats. We added an empty seat that you can assign someone to later."
+    "type_settings.numeric.font_default": {
+        "string": "フォントのデフォルト"
     },
-    "org_self_serve.purchase_summary.the_organization_plan_requires_at_least_count_editor_seats.seat_rename": {
-        "string": "The Organization plan requires at least {minCount} paid seats."
+    "type_settings.numeric.monospace_uppercase_lining": {
+        "string": "等幅大文字/ライニング"
     },
-    "org_self_serve.purchase_summary.added_empty_design_seats": {
-        "string": "{minCount, plural, one {There's a minimum of {minCount} full Figma design seat for teams on the Organization plan.} other {There's a minimum of {minCount} full Figma design seats for teams on the Organization plan.}}"
+    "type_settings.numeric.proportional_lowercase_old_style": {
+        "string": "プロポーショナル小文字/オールドスタイル"
     },
-    "org_self_serve.purchase_summary.empty_design_seats_included": {
-        "string": "{numOfEmptySeats, plural, one {An empty seat is included that you can assign later.} other {{numOfEmptySeats} empty seats are included that you can assign later.}}"
+    "type_settings.numeric.proportional_uppercase_lining": {
+        "string": "プロポーショナル大文字/ライニング"
     },
-    "org_self_serve.purchase_summary.organization_plan": {
-        "string": "Organization plan"
+    "type_settings.numeric.style": {
+        "string": "スタイル"
     },
-    "org_self_serve.purchase_summary.domain": {
-        "string": "Domain: {domain}"
+    "type_settings.older_text_rendering_method_used": {
+        "string": "古いテキストレンダリング方式が使用されています。"
     },
-    "org_self_serve.purchase_summary.figma_design_editors.seat_rename": {
-        "string": "Figma Design seats"
+    "type_settings.older_text_rendering_method_used_for_part_of_the_selection": {
+        "string": "選択範囲の一部に古いテキストレンダリング方式が使用されています。"
     },
-    "org_self_serve.purchase_summary.fig_jam_editors.seat_rename": {
-        "string": "FigJam seats"
+    "type_settings.open_type_features.above_base_forms": {
+        "string": "Above-base forms"
     },
-    "org_self_serve.purchase_summary.currency_text": {
-        "string": "Currency"
+    "type_settings.open_type_features.above_base_mark_positioning": {
+        "string": "Above-base mark positioning"
     },
-    "org_self_serve.purchase_summary.add_additional_editors.seat_rename": {
-        "string": "Add more seats"
+    "type_settings.open_type_features.above_base_substitutions": {
+        "string": "Above-base substitutions"
     },
-    "org_self_serve.purchase_summary.have_questions": {
-        "string": "Have questions? {contactSales}"
+    "type_settings.open_type_features.access_all_alternates": {
+        "string": "Access all alternates"
     },
-    "org_self_serve.purchase_summary.contact_our_sales_team": {
-        "string": "Contact our sales team"
+    "type_settings.open_type_features.akhand_ligature_devanagari": {
+        "string": "Akhand (Ligature devanagari)"
     },
-    "org_self_serve.headers.cancel": {
-        "string": "Cancel"
+    "type_settings.open_type_features.alternate_annotation_forms": {
+        "string": "代替アノテーションフォーム"
     },
-    "org_self_serve.confirmation_step.sorry_there_was_an_error_processing_your_request_refresh_and_try_again": {
-        "string": "Sorry, there was an error processing your request. Refresh and try again"
+    "type_settings.open_type_features.alternate_half_widths": {
+        "string": "Alternate half widths"
     },
-    "org_self_serve.create_team_step.next_select_team": {
-        "string": "Next: Select teams"
+    "type_settings.open_type_features.alternate_vertical_half_metrics": {
+        "string": "Alternate vertical half metrics"
     },
-    "org_self_serve.details_step.next_organization_details": {
-        "string": "Next: Organization details"
+    "type_settings.open_type_features.alternate_vertical_metrics": {
+        "string": "Alternate vertical metrics"
     },
-    "org_self_serve.payment_step.next_payment": {
-        "string": "Next: Payment"
+    "type_settings.open_type_features.alternative_fractions": {
+        "string": "Alternative fractions"
     },
-    "org_self_serve.review_step.next_review": {
-        "string": "Next: Review"
+    "type_settings.open_type_features.below_base_forms": {
+        "string": "Below-base forms"
     },
-    "org_self_serve.payment_step.sorry_please_wait": {
-        "string": "Sorry, please wait."
+    "type_settings.open_type_features.below_base_mark_positioning": {
+        "string": "Below-base mark positioning"
     },
-    "org_self_serve.payment_step.name_on_payment_method_is_required": {
-        "string": "Name on payment method is required."
+    "type_settings.open_type_features.below_base_substitutions": {
+        "string": "Below-base substitutions"
     },
-    "org_self_serve.payment_step.there_was_an_error_processing_your_payment_please_try_again": {
-        "string": "There was an error processing your payment. Please try again."
+    "type_settings.open_type_features.capital_spacing": {
+        "string": "Capital spacing"
     },
-    "org_self_serve.review_step.sorry_there_was_an_error_please_try_again": {
-        "string": "Sorry, there was an error. Please try again."
+    "type_settings.open_type_features.case_sensitive_forms": {
+        "string": "Case-sensitive forms"
     }
 }

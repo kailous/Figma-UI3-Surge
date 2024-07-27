@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_to_source.branch_merged": {
-        "string": "Branch merged"
+    "community.comments.unrestrict_user_s_comments": {
+        "string": "取消对用户评论的限制"
     },
-    "collaboration.branching_to_source.modified_variants": {
-        "string": "{variantCount, plural, one {Modified {variantCount} variant} other {Modified {variantCount} variants}}"
+    "community.comments.unrestricted_this_user_s_comments": {
+        "string": "已取消对该用户评论的限制"
     },
-    "collaboration.branching_to_source.unmodified_variants": {
-        "string": "{variantCount, plural, one {Unmodified {variantCount} variant} other {Unmodified {variantCount} variants}}"
+    "community.comments.write_a_reply": {
+        "string": "写回复"
     },
-    "collaboration.branching_to_source.instances_affected": {
-        "string": "{chunkCount, plural, one {{chunkCount} instance in this branch} other {{chunkCount} instances in this branch}}"
+    "community.comments.your_comments": {
+        "string": "你的评论"
     },
-    "variables.diff.details_title_changed_variables": {
-        "string": "{numChangedVariables, plural, one{(# changed variable)} other{(# changed variables)}}"
+    "community.comments.your_kudos_and_feedback_are_welcome": {
+        "string": "欢迎你的表扬和反馈！"
     },
-    "collaboration.branching_to_source.affected_items": {
-        "string": "Affected items"
+    "community.publishing.acceptable_use_policy": {
+        "string": "可接受的使用政策"
     },
-    "variables.diff.only_changed_variables_are_shown": {
-        "string": "Only changed variables are shown"
+    "community.publishing.add_a_description": {
+        "string": "添加描述"
     },
-    "collaboration.branching_to_source.placeholder_for_non_previewable_changes": {
-        "string": "Placeholder for non-previewable changes"
+    "community.publishing.add_a_tagline": {
+        "string": "添加标语"
     },
-    "collaboration.branching_to_source.resend_review_request": {
-        "string": "Request another review"
+    "community.publishing.add_additional_creators_using_their_community_handle": {
+        "string": "使用他们的社区用户名添加其他创作者"
     },
-    "collaboration.branching_to_source.request_review": {
-        "string": "Request review"
+    "community.publishing.add_creators": {
+        "string": "添加创作者"
     },
-    "collaboration.branching_to_source.review_again": {
-        "string": "Review again"
+    "community.publishing.add_this_id_to_your_file": {
+        "string": "将此ID添加到你的{filename}文件中"
     },
-    "collaboration.branching_to_source.add_your_review": {
-        "string": "Add your review"
+    "community.publishing.add_up_to_n_creators": {
+        "string": "最多可添加{maxCreatorsPerResource}位创作者"
     },
-    "collaboration.branching_from_source.keeping_changes_on_branch": {
-        "string": "Keeping changes on branch"
+    "community.publishing.add_up_to_n_tags": {
+        "string": "最多可添加{maxTagsPerResource}个标签，用逗号或Tab键分隔"
     },
-    "collaboration.branching_from_source.changes_kept": {
-        "string": "Changes kept"
+    "community.publishing.add_your_policy_for_the_usage_of_this.plugin": {
+        "string": "添加此插件的使用政策"
     },
-    "collaboration.branching_from_source.applying_changes_from_main_file": {
-        "string": "Applying changes from main file"
+    "community.publishing.add_your_policy_for_the_usage_of_this.widget": {
+        "string": "添加此小部件的使用政策"
     },
-    "collaboration.branching_from_source.changes_applied": {
-        "string": "Changes applied"
+    "community.publishing.add_your_policy_for_the_usage_of_this_resource": {
+        "string": "添加此资源的使用政策"
     },
-    "collaboration.branching_merge_modal.calculating_conflicts": {
-        "string": "Calculating conflicts…"
+    "community.publishing.advanced": {
+        "string": "高级"
     },
-    "collaboration.branching_merge_modal.this_branch_has_conflicts_with_the_main_file": {
-        "string": "{numConflicts, plural, one {This branch has {numConflicts} conflict with the main file that needs to be resolved before merging.} other {This branch has {numConflicts} conflicts with the main file that need to be resolved before merging.}}"
+    "community.publishing.allow_comments_from_community_members": {
+        "string": "允许社区成员发表评论"
     },
-    "collaboration.branching_merge_modal.resolve_conflicts": {
-        "string": "Resolve conflicts"
+    "community.publishing.allowed_domains_reasoning_not_specified": {
+        "string": "允许域名中包含“*”，但未指定理由。"
     },
-    "collaboration.branching_merge_modal.updates_from_main_file_must_be_applied_before_merging": {
-        "string": "Updates from main file must be applied before merging."
+    "community.publishing.awaiting_review": {
+        "string": "Figma审核中"
     },
-    "collaboration.branching_merge_modal.update_from_main_file": {
-        "string": "Update from main file"
+    "community.publishing.below_is_your_resources_url.plugin": {
+        "string": "以下是你的插件的唯一URL，随意分享吧！"
     },
-    "collaboration.branching_merge_modal.updates_from_main_file_must_be_applied_before_submitting_a_merge_request": {
-        "string": "Updates from main file must be applied before submitting a merge request."
+    "community.publishing.below_is_your_resources_url.plugin.once_approved": {
+        "string": "以下是你的插件的唯一URL，审核通过后随意分享吧！"
     },
-    "collaboration.branching_merge_modal.no_update_and_no_conflicts_from_main": {
-        "string": "No conflicts detected. Feel free to merge."
+    "community.publishing.below_is_your_resources_url.plugin.with_your_teammates": {
+        "string": "以下是你的插件的唯一URL，随意与队友分享吧！"
     },
-    "collaboration.branching_merge_modal.updates_are_available_for_this_branch_but_you_can_merge_without_updating": {
-        "string": "Updates are available for this branch, but you can merge without updating."
+    "community.publishing.below_is_your_resources_url.widget": {
+        "string": "以下是你的小部件的唯一URL，随意分享吧！"
     },
-    "collaboration.branching_merge_modal.you_have_unread_comments_on_this_branch": {
-        "string": "{unreadCommentCount, plural, one {You have {unreadCommentCount} unread comment on this branch.} other {You have {unreadCommentCount} unread comments on this branch.}}"
+    "community.publishing.below_is_your_resources_url.widget.once_approved": {
+        "string": "以下是你的小部件的唯一URL，审核通过后随意分享吧！"
     },
-    "collaboration.branching.error_converting_merge_request_to_draft": {
-        "string": "Error converting merge request to draft"
+    "community.publishing.below_is_your_resources_url.widget.with_your_teammates": {
+        "string": "以下是你的小部件的唯一URL，随意与队友分享吧！"
     },
-    "collaboration.branching.error_submitting_merge_request": {
-        "string": "Error submitting merge request"
+    "community.publishing.cannot_have_more_than_12_tags": {
+        "string": "标签最多不能超过12个"
     },
-    "collaboration.branching.submitting_review": {
-        "string": "Submitting review"
+    "community.publishing.cannot_have_more_than_max_publishers": {
+        "string": "创作者最多不能超过{MAX_PUBLISHERS_PER_RESOURCE}位"
     },
-    "collaboration.branching.approved_review": {
-        "string": "Approved review"
+    "community.publishing.cannot_publish_using_enableProposedApi.plugin": {
+        "string": "不能使用manifest中的enableProposedApi发布插件"
     },
-    "collaboration.branching.suggested_changes_on_review": {
-        "string": "Suggested changes on review"
+    "community.publishing.cannot_publish_using_enableProposedApi.widget": {
+        "string": "不能使用manifest中的enableProposedApi发布小部件"
     },
-    "collaboration.branching.error_leaving_review": {
-        "string": "Error leaving review"
+    "community.publishing.cannot_publish_with_inspect_editor_type": {
+        "string": "editorType中的“inspect”不再用于发布，请在manifest.json中使用“dev”"
     },
-    "collaboration.branching.error_updating_reviewer_comment": {
-        "string": "Error updating reviewer comment"
+    "community.publishing.cannot_publish_without_document_access": {
+        "string": "请在manifest.json中添加\"documentAccess\": \"dynamic-page\""
     },
-    "collaboration.branching.error_approving": {
-        "string": "Error approving"
+    "community.publishing.cannot_use_payments_api_if_non_approved": {
+        "string": "要发布使用Payments API的资源，必须获得社区销售的批准。"
     },
-    "collaboration.branching.error_removing_approval": {
-        "string": "Error removing approval"
+    "community.publishing.carousel_media_image": {
+        "string": "轮播媒体图片"
     },
-    "collaboration.branching.review_requested": {
-        "string": "Review requested"
+    "community.publishing.category": {
+        "string": "类别"
     },
-    "collaboration.branching.error_re_sending_merge_request": {
-        "string": "Error re-sending merge request"
+    "community.publishing.category_cant_be_empty": {
+        "string": "类别不能为空"
     },
-    "collaboration.branching.error_updating_merge_request": {
-        "string": "Error updating merge request"
+    "community.publishing.category_sub_cant_be_empty": {
+        "string": "子类别不能为空"
     },
-    "collaboration.branching.submitting_request": {
-        "string": "Submitting request"
+    "community.publishing.changes_saved": {
+        "string": "更改已保存"
     },
-    "collaboration.branching.request_submitted": {
-        "string": "Request submitted"
+    "community.publishing.choose_a_file": {
+        "string": "选择一个文件"
     },
-    "collaboration.branching.a_merge_request_is_already_open_for_this_branch": {
-        "string": "A merge request is already open for this branch"
+    "community.publishing.close_confirmation_modal.data_security_body_1.plugin": {
+        "string": "你还没有保存对该插件的更改。你对数据安全详细信息所做的更改将丢失。"
     },
-    "collaboration.branching.title_missing_from_merge_request": {
-        "string": "Title missing from merge request"
+    "community.publishing.close_confirmation_modal.data_security_body_1.widget": {
+        "string": "你还没有保存对该小部件的更改。你对数据安全详细信息所做的更改将丢失。"
     },
-    "collaboration.branching_to_source.add": {
-        "string": "Add"
+    "community.publishing.close_confirmation_modal.data_security_body_2.plugin": {
+        "string": "要提交数据安全相关的回答，请返回并保存对该插件的更改。"
     },
-    "collaboration.branching_to_source.reviewer_description": {
-        "string": "{reviewerName} {requestFragment}"
+    "community.publishing.close_confirmation_modal.data_security_body_2.widget": {
+        "string": "要提交数据安全相关的回答，请返回并保存对该小部件的更改。"
     },
-    "collaboration.branching_to_source.reviewed_older_version_of_branch": {
-        "string": "Reviewed older request"
+    "community.publishing.close_confirmation_modal.title": {
+        "string": "不发布就关闭吗？"
     },
-    "collaboration.branching_to_source.cancel": {
-        "string": "Cancel"
+    "community.publishing.cocreators": {
+        "string": "共同创作者"
     },
-    "collaboration.branching_to_source.save": {
-        "string": "Save"
+    "community.publishing.comments": {
+        "string": "评论"
     },
-    "collaboration.branching_to_source.edit_comment": {
-        "string": "Edit comment"
+    "community.publishing.community_free_resource_license": {
+        "string": "社区免费资源许可证{learnMoreLink}"
     },
-    "collaboration.branching_to_source.add_comment": {
-        "string": "Add comment"
+    "community.publishing.community_guidelines": {
+        "string": "社区指南"
     },
-    "collaboration.branching_to_source.you": {
-        "string": "(you)"
+    "community.publishing.community_paid_resource_license": {
+        "string": "社区付费资源许可证{learnMoreLink}"
     },
-    "collaboration.branching_to_source.suggest_changes": {
-        "string": "Suggest changes"
+    "community.publishing.community_terms_of_service": {
+        "string": "社区服务条款"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "flash.team_name_cannot_be_empty": {
-        "string": "Your team name cannot be empty"
+    "tile.sort_filter.sort_direction_a_to_z": {
+        "string": "A～Z"
     },
-    "file_browser.inline_team_creation.placeholder": {
-        "string": "Team name"
+    "tile.sort_filter.sort_direction_ascending": {
+        "string": "昇順"
     },
-    "file_browser.draft_to_project.body.plan_spaces": {
-        "string": "If you'd like to invite people to edit this file with you, first move it to a project that's in a team."
+    "tile.sort_filter.sort_direction_descending": {
+        "string": "降順"
     },
-    "file_browser.draft_to_project.body.seat_rename": {
-        "string": "Drafts is your personal space to work and share drafts with viewers. Move this file to a team project to add unlimited collaborators."
+    "tile.sort_filter.sort_direction_newest_first": {
+        "string": "新しい順"
     },
-    "file_browser.draft_to_project.move": {
-        "string": "Move"
+    "tile.sort_filter.sort_direction_oldest_first": {
+        "string": "古い順"
     },
-    "file_browser.draft_to_project.title.plan_spaces": {
-        "string": "Move this file to a project to add collaborators"
+    "tile.sort_filter.sort_direction_z_to_a": {
+        "string": "Z～A"
     },
-    "file_browser.draft_to_project.title.seat_rename": {
-        "string": "To invite people to edit your file, move it to a team project first"
+    "tile.sort_filter.sort_label": {
+        "string": "並べ替え:"
     },
-    "edu.upgrade_teams.body": {
-        "string": "Education teams get all the {link} for free."
+    "tile.sort_filter.sort_last_modified": {
+        "string": "最終変更"
     },
-    "edu.upgrade_teams.body_link_text": {
-        "string": "perks of the Professional plan"
+    "tile.sort_filter.sort_last_viewed": {
+        "string": "最終閲覧"
     },
-    "edu.upgrade_teams.body_multiple_teams": {
-        "string": "You can upgrade several teams — just do them one at a time."
+    "tile.sort_filter.sort_relevance": {
+        "string": "関連度"
     },
-    "edu.or_create_a_new_team": {
-        "string": "Or, create a new team"
+    "tile.sort_filter.team": {
+        "string": "チーム"
     },
-    "edu.upgrade_teams.headline": {
-        "string": "Choose a team to upgrade for free"
+    "tile.sort_filter.trending": {
+        "string": "人気上昇中"
     },
-    "downgrade_survey.go_back": {
-        "string": "Go back"
+    "tile.tooltip.external_file": {
+        "string": "このチームの外部のプロジェクトから"
     },
-    "downgrade_survey.do_not_leave_team": {
-        "string": "Cancel, do not leave team"
+    "time_sliced_edit_rendering.active": {
+        "string": "アプリケーションの応答速度を維持するため、一部変更の反映が遅くなっています。"
     },
-    "downgrade_survey.what_made_you_cancel_your_plan": {
-        "string": "What made you cancel your plan? Check all that apply."
+    "tokens.oauth.account": {
+        "string": "{email}としてログインしています。"
     },
-    "downgrade_survey.select_one": {
-        "string": "Select at least one reason for cancelling to continue"
+    "tokens.oauth.allow": {
+        "string": "アクセスを許可"
     },
-    "downgrade_survey.research_contact": {
-        "string": "Can our research team reach out to learn more about how we could have been better for your needs? (This is not a sales call, we promise.)"
+    "tokens.oauth.authorize_org_title": {
+        "string": "{app}が組織にアクセスして次の操作を実行しようとしています。"
     },
-    "downgrade_survey.continue": {
-        "string": "Continue"
+    "tokens.oauth.authorize_user_title": {
+        "string": "{app}がアカウントにアクセスして次の操作を実行しようとしています。"
     },
-    "downgrade_survey.header": {
-        "string": "Before you go, please let us know why"
+    "tokens.oauth.create_and_modify_dev_resources": {
+        "string": "アクセス権のあるファイルの開発リソースの作成と変更を行います"
     },
-    "downgrade_survey.survey_option.accidental_upgrade": {
-        "string": "Did not mean to upgrade"
+    "tokens.oauth.create_and_modify_variables_for_files_you_have_access_to": {
+        "string": "アクセス権のあるファイルのバリアブルの作成と変更を行います"
     },
-    "downgrade_survey.survey_option.billing_structure_unclear": {
-        "string": "Billing structure is unclear"
+    "tokens.oauth.create_and_modify_webhooks": {
+        "string": "Webフックの作成と変更を行います"
     },
-    "downgrade_survey.survey_option.no_longer_using_figma_products": {
-        "string": "No longer using Figma's products"
+    "tokens.oauth.create_files": {
+        "string": "他社のアプリでファイルを作成します"
     },
-    "downgrade_survey.survey_option.no_longer_using_figma_products.other_products": {
-        "string": "What products will you be using instead, if any?"
+    "tokens.oauth.discovery_scope_description": {
+        "string": "組織のFigmaファイル内でテキストで行われるコミュニケーションをすべて表示します。"
     },
-    "downgrade_survey.survey_option.no_longer_using_figma_products.text_area": {
-        "string": "List any products"
+    "tokens.oauth.enumerate_files": {
+        "string": "最近のファイルを含む、アクセス権があるすべてのファイルのリストを表示します"
     },
-    "downgrade_survey.survey_option.other": {
-        "string": "Other"
+    "tokens.oauth.go_back": {
+        "string": "戻る"
     },
-    "downgrade_survey.survey_option.other.text_area": {
-        "string": "Tell us more"
+    "tokens.oauth.manage_related_links_webhooks": {
+        "string": "関連リンクに関連するWebフックの設定と更新を行います"
     },
-    "downgrade_survey.survey_option.project_inactive": {
-        "string": "Project is over or no longer active"
+    "tokens.oauth.modify_comments_for_files_you_have_access_to": {
+        "string": "アクセス権のあるファイルのコメントを変更します"
     },
-    "downgrade_survey.survey_option.switching_plans": {
-        "string": "Switching to a different plan"
+    "tokens.oauth.not_org_admin": {
+        "string": "アクセスを許可できませんでした"
     },
-    "downgrade_survey.survey_option.switching_plans.education_plan": {
-        "string": "Education plan"
+    "tokens.oauth.not_org_admin_explanation": {
+        "string": "アプリにこの組織へのアクセスを許可できるのは管理者だけです。"
     },
-    "downgrade_survey.survey_option.switching_plans.enterprise_plan": {
-        "string": "Enterprise plan"
+    "tokens.oauth.read_and_modify_comments_for_files_you_have_access_to": {
+        "string": "アクセスしたファイルのコメントを読み取って変更します"
     },
-    "downgrade_survey.survey_option.switching_plans.organization_plan": {
-        "string": "Organization plan"
+    "tokens.oauth.read_comments_for_files_you_have_access_to": {
+        "string": "アクセス権のあるファイルのコメントを読み取ります"
     },
-    "downgrade_survey.survey_option.switching_plans.starter_plan": {
-        "string": "Starter plan"
+    "tokens.oauth.read_components_and_styles_you_have_access_to": {
+        "string": "アクセスしたコメントやスタイルを読み取ります"
     },
-    "downgrade_survey.survey_option.too_expensive": {
-        "string": "Too expensive"
+    "tokens.oauth.read_dev_resources": {
+        "string": "アクセス権のあるファイルの開発リソースのリストアップと読み取りを行います"
     },
-    "downgrade_survey.survey_option.too_expensive.brl": {
-        "string": "Brazilian Real"
+    "tokens.oauth.read_files_you_have_access_to": {
+        "string": "アクセス権があるファイルを読み取ります"
     },
-    "downgrade_survey.survey_option.too_expensive.cad": {
-        "string": "Canadian Dollar"
+    "tokens.oauth.read_library_analytics_data": {
+        "string": "アクセス権のある組織内のファイルのライブラリアナリティクスデータを読み込みます"
     },
-    "downgrade_survey.survey_option.too_expensive.currency_conversion": {
-        "string": "Currency conversion is too costly"
+    "tokens.oauth.read_projects_you_have_access_to": {
+        "string": "アクセスしたプロジェクトを読み取ります"
     },
-    "downgrade_survey.survey_option.too_expensive.currency_selector": {
-        "string": "Select your currency"
+    "tokens.oauth.read_variables_from_files_you_have_access_to": {
+        "string": "アクセス権のあるファイルからバリアブルを読み取ります"
     },
-    "downgrade_survey.survey_option.too_expensive.eur": {
-        "string": "Euro"
+    "tokens.oauth.read_your_name_email_and_profile_image": {
+        "string": "名前、メールアドレス、プロフィール画像を読み取ります"
     },
-    "downgrade_survey.survey_option.too_expensive.gbp": {
-        "string": "Pound Sterling"
+    "tokens.oauth.select_organization": {
+        "string": "組織を選択..."
     },
-    "downgrade_survey.survey_option.too_expensive.jpy": {
-        "string": "Japanese Yen"
+    "tokens.oauth.switch_account": {
+        "string": "アカウントを切り替え"
     },
-    "downgrade_survey.survey_option.too_expensive.other_currency": {
-        "string": "Other"
+    "tokens.oauth.view_basic_information_about_files": {
+        "string": "ファイルの名前とサムネイルを表示します。"
     },
-    "downgrade_survey.survey_option.too_expensive.specify_currency": {
-        "string": "Please specify"
+    "tokens.oauth.view_basic_information_about_users": {
+        "string": "ユーザーの基本情報を表示します"
     },
-    "downgrade_survey.allow_research_contact": {
-        "string": "Yes, I'm fine with that"
+    "tokens.oauth.view_user_activity_in_figma_like_opening_files_creating_projects_and_sharing_resources": {
+        "string": "Figmaでのユーザーアクティビティー(ファイルのオープン、プロジェクトの作成、リソースの共有など)を表示します"
     },
-    "file_browser.folder_move.move_project_no_edit_access_warning": {
-        "string": "You'll need edit access for this team before you can move projects into it."
+    "tokens.settings.connected_apps_description": {
+        "string": "次のアプリには、ユーザーに代わってユーザーのFigmaファイルにアクセスできる権限が付与されています。予期しないアプリが表示されている場合は、以下でそれらのアプリの権限を削除してください。"
     },
-    "file_browser.folder_move.view_team": {
-        "string": "View team"
+    "tokens.settings.connected_apps_title": {
+        "string": "接続しているアプリ"
     },
-    "file_browser.folder_move.move_project": {
-        "string": "Move project"
+    "tokens.settings.connected_time_ago": {
+        "string": "接続済み: {timeAgo}"
     },
-    "sidebar.workspaces.other_teams": {
-        "string": "Other teams"
+    "tokens.settings.copy_token": {
+        "string": "このトークンをコピーします。"
     },
-    "file_browser.folder_move.modal_header": {
-        "string": "Move project {folderName}"
+    "tokens.settings.dev_token_modal.cancel": {
+        "string": "キャンセル"
     },
-    "change_annual_plan_modal.number_of_editors.seat_rename": {
-        "string": "Number of {productType} seats on annual plan:"
+    "tokens.settings.dev_token_modal.cta": {
+        "string": "トークンを生成"
     },
-    "change_annual_plan_modal.instructions.seat_rename": {
-        "string": "Any seats not covered by your annual plan will be charged monthly at {monthlyEditorCost}/mo. for {editorProduct} and {monthlyFigjamCost}/mo. for {figJamProduct}"
+    "tokens.settings.dev_token_modal.description": {
+        "string": "個人アクセストークンを使用すると、シングルユーザーのようにFigma APIにアクセスできます。"
     }
 }

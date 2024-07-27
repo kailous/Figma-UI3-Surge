@@ -1,152 +1,152 @@
 {
-    "sidebar.item_added_bell_message": {
-        "string": "Item added to your sidebar"
+    "visual_bell.style_s_spread_field_no_longer_applies_when_converting_to_vector_type": {
+        "string": "转换为矢量类型时，样式的扩展字段不再适用"
     },
-    "sidebar.item_removed_bell_message": {
-        "string": "Item removed from your sidebar"
+    "visual_bell.symbol_observer_is_not_running": {
+        "string": "SymbolObserver未运行"
     },
-    "file_permissions.generic_error": {
-        "string": "An error occurred while updating this file."
+    "visual_bell.template_insert_multipage": {
+        "string": "已插入多页模板"
     },
-    "visual_bell.duplicating": {
-        "string": "Duplicating file…"
+    "visual_bell.text_copy_restricted": {
+        "string": "只有此文件的编辑者可以复制文本"
     },
-    "file_browser.file_browser_actions.file_copy_error": {
-        "string": "An error occurred while copying this file."
+    "visual_bell.there_are_no_nodes_to_export": {
+        "string": "没有可导出的节点"
     },
-    "whiteboard.open_sessions.open_session_started_notification": {
-        "string": "Open session started"
+    "visual_bell.there_are_no_stickies_to_export": {
+        "string": "没有可导出的便签"
     },
-    "whiteboard.open_sessions.open_session_started_notification_copy_link": {
-        "string": "Copy link"
+    "visual_bell.there_are_no_tables_to_export": {
+        "string": "没有可导出的表格"
     },
-    "whiteboard.open_sessions.open_session_start_failed_notification": {
-        "string": "Could not start an open session. Please try again later."
+    "visual_bell.there_are_no_top_level_frames_on_the_current_page_to_export": {
+        "string": "当前页面上没有可导出的顶层框架"
     },
-    "file_browser.file_browser_actions.thumbnail_set": {
-        "string": "Thumbnail set"
+    "visual_bell.there_are_no_votes_to_export": {
+        "string": "没有可导出的投票"
     },
-    "file_browser.file_browser_actions.default_thumbnail_restored": {
-        "string": "Default thumbnail restored"
+    "visual_bell.unsafe_with_unsaved_content": {
+        "string": "此操作在未保存的内容下不安全。请先保存文档，然后重试。"
     },
-    "file_browser.file_browser_actions.embed_code_copied": {
-        "string": "Embed code copied to clipboard"
+    "visual_bell.unset_align_content": {
+        "string": "已解除{nodeCount}个节点的行间自动对齐设置"
     },
-    "file_browser.file_browser_actions.embed_code_copy_error": {
-        "string": "An error occurred while copying embed code."
+    "visual_bell.updated_num_state_groups_repaired_state_group_s": {
+        "string": "已更新{numStateGroupsRepaired}个状态组"
     },
-    "file_browser.file_browser_actions.error_on_data_update": {
-        "string": "An error occurred while updating user or workspace data"
+    "visual_bell.variables_infinite_loop": {
+        "string": "无效 — 此选择将导致变量的无限循环"
     },
-    "file_browser.file_browser_actions.desktop_go_to_your_browser": {
-        "string": "Go to your browser to continue adding account"
+    "visual_bell.variables_self_referential": {
+        "string": "无效 — 变量不能自我引用"
     },
-    "file_browser.file_browser_actions.update_subscription_error": {
-        "string": "Unable to update description"
+    "visual_bell.video_must_be_less_than_100mb": {
+        "string": "视频文件必须小于100 MB"
     },
-    "file_browser.file_browser_actions.file_unpin_error": {
-        "string": "An error occurred while trying to unpin file."
+    "visual_bell.video_must_be_less_than_30mb": {
+        "string": "视频文件必须小于30 MB"
     },
-    "file_browser.file_browser_actions.file_pinned_to_project": {
-        "string": "File pinned to project"
+    "visual_bell.video_no_edit_permissions": {
+        "string": "视频上传仅适用于草稿中不存在的付费专业团队文件"
     },
-    "file_browser.file_browser_actions.file_pin_error": {
-        "string": "An error occurred while trying to pin file."
+    "visual_bell.video_resource_creation_error": {
+        "string": "视频上传错误: 视频数据无效"
     },
-    "file_browser.file_browser_actions.create_project_error": {
-        "string": "An error occurred while creating this project."
+    "visual_bell.video_type_must_be_mp4_mov_webm": {
+        "string": "视频文件类型必须为MP4、MOV或WebM"
     },
-    "file_browser.file_browser_actions.update_project_error": {
-        "string": "An error occurred while updating this project."
+    "visual_bell.vote_stamp_moved_to_nonvoteable_area_warning": {
+        "string": "此投票未被计数。请确保正确放置投票。"
     },
-    "file_browser.file_browser_actions.claim_team_error": {
-        "string": "An error occurred while trying to claim this team."
+    "visual_bell.vote_stamp_out_of_votes": {
+        "string": "无法投票"
     },
-    "community.comments.failed_to_create_comment": {
-        "string": "Failed to create comment: {errorMessage}"
+    "visual_bell.vote_stamp_placed_on_nonvoteable_area_error": {
+        "string": "尝试在便签、形状、图像或任何文本上投票"
     },
-    "community.comments.failed_to_edit_comment": {
-        "string": "Failed to edit comment"
+    "visual_bell.zoom-to-100": {
+        "string": "缩放到100%"
     },
-    "community.comments.comment_deleted": {
-        "string": "Comment deleted"
+    "visual_bell.zoom-to-fit": {
+        "string": "自动调整缩放"
     },
-    "community.comments.failed_to_delete_comment": {
-        "string": "Failed to delete comment: {errorMessage}"
+    "visual_bell.zoom-to-selection": {
+        "string": "缩放到选择"
     },
-    "community.comments.comment_reported_and_hidden": {
-        "string": "Comment reported and hidden"
+    "voting.csv_export.header.content": {
+        "string": "内容"
     },
-    "community.comments.failed_to_report_comment": {
-        "string": "Failed to report comment: {errorMessage}"
+    "voting.csv_export.header.creator": {
+        "string": "创建者"
     },
-    "design_systems.subscriptions.this_component_is_not_available": {
-        "string": "This component is not available in your team library"
+    "voting.csv_export.header.votes": {
+        "string": "投票"
     },
-    "design_systems.subscriptions.inserting_instance": {
-        "string": "Inserting instance"
+    "whiteboard.csv.csv_input_too_large": {
+        "string": "CSV输入过大"
     },
-    "design_systems.subscriptions.inserting_template": {
-        "string": "Inserting template"
+    "whiteboard.csv.file_empty": {
+        "string": "CSV文件为空"
     },
-    "design_systems.missing_font_cant_make_changes": {
-        "string": "Missing font—can't make changes"
+    "whiteboard.csv.html_input_too_large": {
+        "string": "HTML输入过大"
     },
-    "design_systems.missing_font_learn_more": {
-        "string": "Learn more"
+    "whiteboard.csv.parse_failed": {
+        "string": "解析失败"
     },
-    "community.library.error_fetching_subscribed_components": {
-        "string": "An error occurred while retrieving subscribed Community library components."
+    "whiteboard.csv.too_many_cells": {
+        "string": "CSV输入限制为一次{maximumCells}个单元格"
     },
-    "design_systems.subscriptions.settings_updated_for": {
-        "string": "\"{libraryName}\" settings updated for {orgOrWorkspaceName}"
+    "whiteboard.csv_export.content": {
+        "string": "内容"
     },
-    "design_systems.subscriptions.unable_to_change_setting": {
-        "string": "Unable to change setting. Please try again later."
+    "whiteboard.csv_export.created_by": {
+        "string": "创建者"
     },
-    "design_systems.subscriptions.remap_connecting_fraction": {
-        "string": "Connecting: {current}/{total}"
+    "whiteboard.immutable_frame.add_code": {
+        "string": "添加代码"
     },
-    "design_systems.subscriptions.remap_connected": {
-        "string": "Connected!"
+    "whiteboard.immutable_frame.add_text": {
+        "string": "添加文本"
     },
-    "design_systems.subscriptions.remap_connection_failed": {
-        "string": "Connection failed"
+    "whiteboard.immutable_frame.add_text_cta": {
+        "string": "输入消息（使用@提及成员）"
     },
-    "design_systems.publish_actions.savepoint_for_unpublish_slides": {
-        "string": "Template Unpublished"
+    "whiteboard.immutable_frame.table_limit_reached": {
+        "string": "部分粘贴成功 - 已达到表格大小限制"
     },
-    "design_systems.publish_actions.savepoint_for_unpublish": {
-        "string": "Components Unpublished"
+    "whiteboard.jamboard_importer.numbered_frame_section_name": {
+        "string": "框架{number}"
     },
-    "design_systems.publish_actions.savepoint_for_publish_slides": {
-        "string": "Template published"
+    "whiteboard.mindmaps_onboarding_template.category_1_child_1_description": {
+        "string": "过于简单。"
     },
-    "design_systems.publish_actions.savepoint_for_publish": {
-        "string": "Components published"
+    "whiteboard.mindmaps_onboarding_template.category_1_child_1_text": {
+        "string": "花生酱和果冻三明治"
     },
-    "org_actions.you_ve_requested_to_edit_files_in_this_team": {
-        "string": "You've requested to edit files in this team."
+    "whiteboard.mindmaps_onboarding_template.category_1_child_2_description": {
+        "string": "餐后困倦！"
     },
-    "org_actions.you_ve_requested_to_join_this_team": {
-        "string": "You've requested to join this team."
+    "whiteboard.mindmaps_onboarding_template.category_1_child_2_text": {
+        "string": "卷饼"
     },
-    "org_actions.an_error_occurred": {
-        "string": "An error occurred."
+    "whiteboard.mindmaps_onboarding_template.category_1_text": {
+        "string": "三明治 🥪"
     },
-    "org_actions.request_withdrawn": {
-        "string": "Request withdrawn"
+    "whiteboard.mindmaps_onboarding_template.category_2_child_1_description": {
+        "string": "晚餐的感觉。"
     },
-    "org_actions.request_approved": {
-        "string": "Request approved"
+    "whiteboard.mindmaps_onboarding_template.category_2_child_1_text": {
+        "string": "辣椒"
     },
-    "org_actions.request_denied": {
-        "string": "Request denied"
+    "whiteboard.mindmaps_onboarding_template.category_2_child_2_description": {
+        "string": "同上！"
     },
-    "org_actions.updated_authentication_settings": {
-        "string": "Updated authentication settings"
+    "whiteboard.mindmaps_onboarding_template.category_2_child_2_text": {
+        "string": "拉面"
     },
-    "org_actions.updated_idle_session_timeout": {
-        "string": "Updated idle session timeout"
+    "whiteboard.mindmaps_onboarding_template.category_2_text": {
+        "string": "汤🍜"
     }
 }

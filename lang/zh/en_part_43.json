@@ -1,152 +1,152 @@
 {
-    "dev_handoff.status.mark_as_completed": {
-        "string": "Mark as completed"
+    "collaboration.feedback.compare_changes_modal.section_created": {
+        "string": "已创建部分"
     },
-    "dev_handoff.status.mark_as_ready": {
-        "string": "Mark as incomplete"
+    "collaboration.feedback.compare_changes_modal.select_a_layer": {
+        "string": "选择一个已编辑的图层以查看更改"
     },
-    "dev_handoff.status.remove": {
-        "string": "Remove status"
+    "collaboration.feedback.compare_changes_overflow_editors": {
+        "string": "超过{numAddlEditors}位"
     },
-    "dev_handoff.annotation.view_annotations": {
-        "string": "View annotations in Dev Mode"
+    "collaboration.feedback.comparing": {
+        "string": "比较中"
     },
-    "fullscreen_actions.find-inspiration": {
-        "string": "Search for similar"
+    "collaboration.feedback.comparing_changes_toast": {
+        "string": "正在与{fromVersionLabel}比较"
     },
-    "fullscreen_actions.inspect-fragment": {
-        "string": "Inspect fragment"
+    "collaboration.feedback.context_menu.compare_version": {
+        "string": "与当前版本比较"
     },
-    "fullscreen_actions.missing-plugin": {
-        "string": "{pluginCommand} (Please run: {pluginName})"
+    "collaboration.feedback.context_menu.copy_link": {
+        "string": "复制链接"
     },
-    "check_network_compatibility.dropdown_title": {
-        "string": "Check network settings"
+    "collaboration.feedback.context_menu.delete_version_info": {
+        "string": "删除版本信息"
     },
-    "fullscreen_actions.quick_actions.find-files-matching": {
-        "string": "Search files for \"{searchQuery}\""
+    "collaboration.feedback.context_menu.duplicate": {
+        "string": "复制"
     },
-    "fullscreen_actions.quick_actions.find-community-matching": {
-        "string": "Search community for {searchQuery}"
+    "collaboration.feedback.context_menu.edit_version_info": {
+        "string": "编辑版本信息"
     },
-    "fullscreen_actions.quick_actions.find-components-matching": {
-        "string": "Search components for {searchQuery}"
+    "collaboration.feedback.context_menu.name_this_version": {
+        "string": "命名此版本"
     },
-    "fullscreen_actions.quick_actions.find-extensions-matching": {
-        "string": "Search plugins & widgets for {searchQuery}"
+    "collaboration.feedback.context_menu.restore_this_version": {
+        "string": "恢复此版本"
     },
-    "fullscreen_actions.quick_actions.find-assets-matching": {
-        "string": "Search assets for {searchQuery}"
+    "collaboration.feedback.current_file": {
+        "string": "当前"
     },
-    "fullscreen_actions.quick_actions.translate-text": {
-        "string": "Translate to..."
+    "collaboration.feedback.current_version": {
+        "string": "当前版本"
     },
-    "fullscreen_actions.quick_actions.rewrite-this": {
-        "string": "Rewrite this..."
+    "collaboration.feedback.date": {
+        "string": "{time, date, medium}"
     },
-    "fullscreen_actions.quick_actions.shorten-text": {
-        "string": "Shorten"
+    "collaboration.feedback.done_version_history": {
+        "string": "完成"
     },
-    "fullscreen_actions.ai_content_fill.replace_content": {
-        "string": "Replace content"
+    "collaboration.feedback.filter_tooltip": {
+        "string": "筛选器"
     },
-    "fullscreen_actions.remove_background": {
-        "string": "Remove background"
+    "collaboration.feedback.get_version_text_linked_version_linked_version": {
+        "string": "{versionText}（链接的版本）"
     },
-    "fullscreen.properties_panel.make_a_picture": {
-        "string": "Make an image"
+    "collaboration.feedback.incremental_update_modal.confirm": {
+        "string": "确认"
     },
-    "fullscreen_actions.quick_actions.name-all-layers": {
-        "string": "Rename layers"
+    "collaboration.feedback.incremental_update_modal.latest_version": {
+        "string": "最新版本"
     },
-    "fullscreen_actions.quick_actions.add-interactions": {
-        "string": "Make prototype"
+    "collaboration.feedback.incremental_update_modal.title": {
+        "string": "从主版本更新"
     },
-    "fullscreen_actions.quick_actions.first-draft": {
-        "string": "Make designs"
+    "collaboration.feedback.main_branch_name": {
+        "string": "主"
     },
-    "fullscreen_actions.quick_actions.first-draft-make-changes": {
-        "string": "Make changes"
+    "collaboration.feedback.merged": {
+        "string": "已合并{link}"
     },
-    "fullscreen_actions.quick_actions.first-draft-linting": {
-        "string": "Lint first draft kit"
+    "collaboration.feedback.more_options": {
+        "string": "更多选项"
     },
-    "fullscreen_actions.quick_actions.first-draft-debug": {
-        "string": "First Draft Debug Tools"
+    "collaboration.feedback.new_branch_created": {
+        "string": "已创建新分支"
     },
-    "fullscreen.toolbar.request.ask_to_edit": {
-        "string": "Ask to edit"
+    "collaboration.feedback.next_change": {
+        "string": "下一更改"
     },
-    "slides.properties_panel.color_picker.edit_template_color": {
-        "string": "Edit"
+    "collaboration.feedback.no_visible_changes": {
+        "string": "这些版本之间没有可见的更改"
     },
-    "slides.properties_panel.color_picker.delete_template_color": {
-        "string": "Delete"
+    "collaboration.feedback.num_editors_number_editor_count_more": {
+        "string": "超过{numEditors}位编辑者"
     },
-    "slides.properties_panel.color_picker.move_to_template_colors": {
-        "string": "Move to template colors"
+    "collaboration.feedback.num_editors_of_changes": {
+        "string": "{numEditors, plural, other {编辑了{numEditors}位}}"
     },
-    "fullscreen_actions.add-platform-shape-definition": {
-        "string": "Add Platform Shape Definition"
+    "collaboration.feedback.only_yours_filter": {
+        "string": "仅显示自己的"
     },
-    "fullscreen_actions.remove-platform-shape-definition": {
-        "string": "Remove Platform Shape Definition"
+    "collaboration.feedback.press_shortcut_to_add_to_version_history_while_editing": {
+        "string": "在编辑时按{shortcut}以添加到版本历史记录"
     },
-    "community.buyer.paid_widgets_cannot_be_added_to_the_canvas_before_purchase": {
-        "string": "Paid widgets cannot be added to the canvas before purchase."
+    "collaboration.feedback.previous_change": {
+        "string": "上一更改"
     },
-    "community.buyer.paid_plugins_cannot_be_run_before_purchase": {
-        "string": "Paid plugins cannot be run before purchase."
+    "collaboration.feedback.save_modal.add_to_version_history": {
+        "string": "添加到版本历史记录"
     },
-    "community.buyer.buy": {
-        "string": "Buy"
+    "collaboration.feedback.save_modal.cancel": {
+        "string": "取消"
     },
-    "fullscreen_actions.plugins-menu-saved-plugins": {
-        "string": "Saved plugins"
+    "collaboration.feedback.save_modal.description_placeholder": {
+        "string": "描述更改的内容"
     },
-    "widgets.insert_widget": {
-        "string": "Insert {widgetName}"
+    "collaboration.feedback.save_modal.edit_merge_details": {
+        "string": "编辑合并详情"
     },
-    "fullscreen_actions.recents": {
-        "string": "Recents"
+    "collaboration.feedback.save_modal.edit_version_information": {
+        "string": "编辑版本信息"
     },
-    "whiteboard.inserts.plugin_from_org": {
-        "string": "From {orgName}"
+    "collaboration.feedback.save_modal.merge_name_placeholder": {
+        "string": "名称"
     },
-    "fullscreen_actions.widgets-menu-saved-widgets": {
-        "string": "Saved widgets"
+    "collaboration.feedback.save_modal.save": {
+        "string": "保存"
     },
-    "widgets.re_render_widget": {
-        "string": "Re-render widget"
+    "collaboration.feedback.shortcut": {
+        "string": "Ctrl + Alt + S"
     },
-    "widgets.reset_widget_state": {
-        "string": "Reset widget state"
+    "collaboration.feedback.shortcut_mac": {
+        "string": "⌘ + ⌥ + S"
     },
-    "widgets.copy_as_layers": {
-        "string": "Copy as layers"
+    "collaboration.feedback.show_autosave_versions": {
+        "string": "显示自动保存版本"
     },
-    "widgets.update_to_latest_version": {
-        "string": "Update to latest version"
+    "collaboration.feedback.show_less": {
+        "string": "简易显示"
     },
-    "community.publishing.publish_widget": {
-        "string": "Publish widget"
+    "collaboration.feedback.show_more": {
+        "string": "显示更多"
     },
-    "fullscreen_actions.present-slides-flyout-icon-alt": {
-        "string": "Thumbnail of current slide"
+    "collaboration.feedback.show_older": {
+        "string": "显示更早的"
     },
-    "pro_cart.payment.legal_company_name_label": {
-        "string": "Legal company name"
+    "collaboration.feedback.time_date_minutes": {
+        "string": "{time, date, medium}{time, date, ::hmma}"
     },
-    "pro_cart.payment.legal_company_name_placeholder": {
-        "string": "Legal company name"
+    "collaboration.feedback.time_date_minutes_without_year": {
+        "string": "{time, date, ::MMMdhmma}"
     },
-    "file_info_row.branch": {
-        "string": "branch"
+    "collaboration.feedback.time_hour_minutes": {
+        "string": "{time, date, ::hmma}"
     },
-    "file_info_row.file": {
-        "string": "file"
+    "collaboration.feedback.updated_from_main": {
+        "string": "从主版本更新"
     },
-    "fullscreen.filename_view.color_management.menu_item_title.legacy_file": {
-        "string": "Same as preferred profile ({colorProfile})"
+    "collaboration.feedback.version_history": {
+        "string": "版本历史记录"
     }
 }

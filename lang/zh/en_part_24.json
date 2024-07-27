@@ -1,152 +1,152 @@
 {
-    "api_user.error.an_unknown_error_occurred": {
-        "string": "An unknown error occurred"
+    "auth.two-factor-setup.type_the_text_code_into_your_app": {
+        "string": "将文本代码输入到您的应用程序中。"
     },
-    "fullscreen.file_import.internal_error_please_try_again_later": {
-        "string": "Internal error—wait a bit and try again"
+    "auth.two-factor-setup.unregister_sms_number": {
+        "string": "取消注册短信号码"
     },
-    "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit_go_to_drafts": {
-        "string": "{teamName} has reached the FigJam file limit. Try importing to your drafts."
+    "auth.two-factor-setup.use_an_authenticator_app_instead": {
+        "string": "改用身份验证器应用"
     },
-    "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit": {
-        "string": "{teamName} has reached the FigJam file limit"
+    "auth.two-factor-setup.verify": {
+        "string": "验证"
     },
-    "fullscreen.file_import.team_name_is_at_the_figma_file_limit": {
-        "string": "{teamName} is at the Figma file limit."
+    "auth.two-factor-setup.verify-before-enabling": {
+        "string": "启用两因素认证前请先验证电子邮件地址。"
     },
-    "fullscreen.file_import.go_to_drafts": {
-        "string": "Go to Drafts"
+    "auto_rename_layers.could_not_rename_all_layers": {
+        "string": "无法重命名{count}个图层"
     },
-    "flash.successfully_added_an_annual_plan": {
-        "string": "Successfully added an annual plan."
+    "auto_rename_layers.error.no_nameable_items": {
+        "string": "没有需要命名的图层"
     },
-    "flash.updated_annual_seats": {
-        "string": "Updated annual seats."
+    "auto_rename_layers.progress": {
+        "string": "{completed} / {total}"
     },
-    "flash.successfully_upgraded_to_an_education_team": {
-        "string": "Successfully upgraded to an Education Team"
+    "auto_rename_layers.rename_anyway": {
+        "string": "仍然重命名"
     },
-    "flash.successfully_downgraded_to_a_starter_team": {
-        "string": "Successfully downgraded to a Starter team."
+    "auto_rename_layers.running": {
+        "string": "正在重命名..."
     },
-    "flash.team_will_become_free_starter_team_on_date": {
-        "string": "{teamName} will become a free Starter team on {cancelDate, date}"
+    "auto_rename_layers.select_some_layers": {
+        "string": "请先选择图层"
     },
-    "flash.team_will_be_downgraded_at_the_end_of_the_current_subscription_period": {
-        "string": "{teamName} will become a free Starter team at the end of the current subscription period"
+    "auto_rename_layers.too_many_layers_count": {
+        "string": "{selected}个中的{limit}个"
     },
-    "realtime.asset_reload.project_has_been_transferred_redirecting": {
-        "string": "Project has been transferred. Redirecting to new URL."
+    "auto_rename_layers.too_many_layers_selected": {
+        "string": "选择的图层过多"
     },
-    "realtime.asset_reload.team_has_been_transferred_redirecting": {
-        "string": "Team has been transferred. Redirecting to new URL."
+    "autosave.file_already_open_modal.body": {
+        "string": "{fileName}已经在另一个标签页中打开。请在那个标签页继续编辑，或者先关闭那个文件再在这里打开。"
     },
-    "desktop_open_views.interstitial.opened_in_app": {
-        "string": "Opened “{fileName}” in Figma app"
+    "autosave.file_already_open_modal.title": {
+        "string": "文件已打开"
     },
-    "desktop_open_views.interstitial.opening_in_app": {
-        "string": "Opening “{fileName}” in Figma app…"
+    "autosave.has_changes.dismiss.later": {
+        "string": "稍后"
     },
-    "desktop_open_views.interstitial.opened_link_in_app": {
-        "string": "Opened link in Figma app"
+    "autosave.has_changes.expiry_text_days": {
+        "string": "{days, plural, other {未同步的更改将在{days}天后过期。}}"
     },
-    "desktop_open_views.interstitial.opening_link_in_app": {
-        "string": "Opening link in Figma app…"
+    "autosave.has_changes.expiry_text_shortly": {
+        "string": "未同步的更改即将过期。"
     },
-    "desktop_open_views.interstitial.open_here_instead": {
-        "string": "Open here instead"
+    "autosave.has_changes.open_to_sync": {
+        "string": "打开以同步"
     },
-    "desktop_version_support.update_recommended": {
-        "string": "Update recommended"
+    "autosave.has_changes.sync_offline_changes": {
+        "string": "同步离线更改"
     },
-    "desktop_version_support.using_figma_in_japanese": {
-        "string": "Using Figma in Japanese? For full support, get the latest version of our desktop app from our Downloads page."
+    "autosave.has_changes.unsaved_changes_to_file": {
+        "string": "自离线以来，{fileName}有未同步的更改。请打开文件以同步更改。"
     },
-    "desktop_version_support.get_app": {
-        "string": "Get app"
+    "autosave.has_changes.unsynced_changes_offline": {
+        "string": "自离线以来有未同步的更改。请打开文件以同步更改。"
     },
-    "desktop_version_support.close": {
-        "string": "Close"
+    "autosave.learn_more.body_save_pending_changes": {
+        "string": "即使离线，浏览器中仍会保存待处理的更改。重新联网时，这些更改将应用到文件中，即使标签页已关闭。"
     },
-    "visual_bell.main_component_moved": {
-        "string": "The main component has been moved to {movedToFile}"
+    "autosave.learn_more.body_use_version_history": {
+        "string": "可以使用版本历史记录查看更改。"
     },
-    "visual_bell.main_component_deleted": {
-        "string": "The main component has been deleted."
+    "autosave.learn_more.done_button": {
+        "string": "完成"
     },
-    "org_view.your_teams": {
-        "string": "Your teams"
+    "autosave.learn_more.title": {
+        "string": "关于未保存的更改"
     },
-    "org_view.libraries": {
-        "string": "Libraries"
+    "autosave.logout.cancel": {
+        "string": "取消"
     },
-    "org_view.shared_fonts": {
-        "string": "Shared fonts"
+    "autosave.logout.discard": {
+        "string": "丢弃更改"
     },
-    "org_view.plugins": {
-        "string": "Plugins"
+    "autosave.logout.discard_and_logout": {
+        "string": "丢弃并退出"
     },
-    "org_view.widgets": {
-        "string": "Widgets"
+    "autosave.logout.log_out": {
+        "string": "退出登录"
     },
-    "design_systems.libraries_modal.loading_dsa_message": {
-        "string": "Crunching tons of component data. This might take a minute…"
+    "autosave.logout.log_out_text.desktop": {
+        "string": "退出登录将丢弃离线更改。请在退出前选择“查看更改”以同步。"
     },
-    "design_systems.libraries_modal.total_teams": {
-        "string": "Total teams"
+    "autosave.logout.log_out_text.web": {
+        "string": "更改将在下次登录时同步。如果您使用的是共享设备，可以选择“丢弃并退出”以丢弃未同步的更改。"
     },
-    "design_systems.libraries_modal.plural.team": {
-        "string": "{teamCount, plural, one {team} other {teams}}"
+    "autosave.logout.offline_changes": {
+        "string": "离线更改"
     },
-    "design_systems.libraries_modal.teams_with_libraries": {
-        "string": "Teams with libraries"
+    "autosave.logout.offline_changes_discarded": {
+        "string": "离线更改已被丢弃。"
     },
-    "design_systems.libraries_modal.total_libraries": {
-        "string": "Total libraries"
+    "autosave.logout.offline_changes_synced": {
+        "string": "所有离线更改已同步。"
     },
-    "design_systems.libraries_modal.plural.library": {
-        "string": "{libraryCount, plural, one {library} other {libraries}}"
+    "autosave.logout.show_changes": {
+        "string": "查看更改"
     },
-    "design_systems.libraries_modal.total_components": {
-        "string": "Total components"
+    "autosave.logout.sync_changes": {
+        "string": "同步更改"
     },
-    "design_systems.libraries_modal.plural.component": {
-        "string": "{componentCount, plural, one {component} other {components}}"
+    "autosave.notification.action_later": {
+        "string": "稍后"
     },
-    "design_systems.libraries_modal.total_styles": {
-        "string": "Total styles"
+    "autosave.notification.action_open_to_sync": {
+        "string": "打开以同步"
     },
-    "design_systems.libraries_modal.plural.style": {
-        "string": "{styleCount, plural, one {style} other {styles}}"
+    "autosave.notification.action_review": {
+        "string": "查看"
     },
-    "community.actions.error_fetching_email_notifications_information_error": {
-        "string": "Error fetching email notifications information: {error}"
+    "autosave.notification.message.more_than_one_file": {
+        "string": "有多个文件包含未同步的离线更改。"
     },
-    "community.actions.error_unsubscribing_from_email_error": {
-        "string": "Error unsubscribing from email: {error}"
+    "autosave.notification.message.one_file": {
+        "string": "{fileName}有离线时的未同步更改。"
     },
-    "community.actions.error_subscribing_to_email_error": {
-        "string": "Error subscribing to email: {error}"
+    "autosave.unable_to_leave_document.ok_button": {
+        "string": "确定"
     },
-    "design_systems.libraries_modal.teams_and_libraries": {
-        "string": "Teams and libraries"
+    "autosave.unable_to_leave_document.pending_changes": {
+        "string": "此文件有待处理的离线更改。离线更改将在重新联网时同步。"
     },
-    "design_systems.libraries_modal.components": {
-        "string": "Components"
+    "autosave.unable_to_leave_document.title": {
+        "string": "无法离开文档"
     },
-    "design_systems.libraries_modal.styles": {
-        "string": "Styles"
+    "autosave.unable_to_leave_document.unsaved_changes_save_in_background": {
+        "string": "当前文档有未保存的更改。保存尝试将继续在后台进行。请稍后再试。"
     },
-    "design_systems.libraries_modal.used_by": {
-        "string": "Used by"
+    "autosave.visual_bell.offline": {
+        "string": "您处于离线状态。重新连接到互联网后将恢复自动保存。"
     },
-    "design_systems.libraries_modal.inserts_last_week": {
-        "string": "Inserts last week"
+    "autosave.visual_bell.unsaved_changes": {
+        "string": "文档有未保存的更改。将继续尝试自动保存您的工作。"
     },
-    "presets.mac_book_pro_14": {
-        "string": "MacBook Pro 14\""
+    "autosave.you_dont_need_to_save_reminder": {
+        "string": "您的工作将自动保存"
     },
-    "presets.mac_book_pro_16": {
-        "string": "MacBook Pro 16\""
+    "avatar_actions.an_error_occurred": {
+        "string": "发生错误。"
     }
 }

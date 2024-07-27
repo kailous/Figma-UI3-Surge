@@ -1,152 +1,152 @@
 {
-    "dev_handoff.paywall.inspection.description": {
-        "string": "Get spacing, colors, assets, and code snippets, in just a couple clicks. {learnMoreLink}"
+    "payments.pro_enter_an_email_address": {
+        "string": "您可以选择管理员以外的用户或电子邮件地址来接收账单相关的邮件，例如续订提醒、支付确认等。管理员始终会收到这些邮件。"
     },
-    "dev_handoff.paywall.inspection.title": {
-        "string": "Advanced inspection"
+    "payments.pro_plan_ends_button": {
+        "string": "购买专业计划"
     },
-    "dev_handoff.overrides.color": {
-        "string": "color"
+    "payments.pro_plan_ends_for_team_description": {
+        "string": "为了继续使用{teamName}的专业计划中的无限制团队Figma文件、项目、团队库等付费功能，请购买专业计划。"
     },
-    "dev_handoff.overrides.border": {
-        "string": "border"
+    "payments.pro_plan_ends_on_date": {
+        "string": "专业计划将于{end_date}结束"
     },
-    "dev_handoff.overrides.text": {
-        "string": "text"
+    "payments.pro_plan_ends_relative_time_string": {
+        "string": "专业计划将于{relative_time_string}结束"
     },
-    "dev_handoff.overrides.effect": {
-        "string": "effect"
+    "payments.pro_trial.start_pro_trial_error": {
+        "string": "为此专业团队授予试用时发生错误"
     },
-    "dev_handoff.overrides.layout": {
-        "string": "layout"
+    "payments.pro_trial.start_pro_trial_success": {
+        "string": "处理成功。欢迎使用专业团队试用。"
     },
-    "dev_handoff.overrides.shape": {
-        "string": "shape"
+    "payments.pro_trial.trial_ended_banner_message": {
+        "string": "{teamName}已恢复为入门计划，您可以随时升级。"
     },
-    "dev_handoff.overrides.style": {
-        "string": "style"
+    "payments.pro_trial.trial_ended_banner_message.no_name": {
+        "string": "团队已恢复为入门计划，您可以随时升级。"
     },
-    "dev_handoff.overrides.instance": {
-        "string": "instance"
+    "payments.pro_trial.trial_ended_banner_title": {
+        "string": "专业试用已结束。"
     },
-    "dev_handoff.overrides.layer": {
-        "string": "layer"
+    "payments.pro_trial.trial_ended_banner_upgrade_cta": {
+        "string": "升级到专业版"
     },
-    "dev_handoff.overrides.hint_one": {
-        "string": "The {property} in this {layerType} differs from the main component."
+    "payments.pro_trial_expiry.locked_description_for_viewer_on_team": {
+        "string": "{teamName}的文件目前仅限查看。详情请联系团队管理员。"
     },
-    "dev_handoff.overrides.properties2": {
-        "string": "{prop1} and {prop2}"
+    "payments.pro_trial_expiry.locked_description_on_team": {
+        "string": "{teamName}的文件目前仅限查看，直到您{lowerUsageLink}使其符合入门计划的限制或升级。"
     },
-    "dev_handoff.overrides.properties3": {
-        "string": "{prop1}, {prop2} and {prop3}"
+    "payments.pro_trial_expiry.lower_usage": {
+        "string": "降低使用量"
     },
-    "dev_handoff.overrides.properties_more": {
-        "string": "{count, plural, one {{prop1}, {prop2}, {prop3} and {count} more property} other {{prop1}, {prop2}, {prop3} and {count} more properties}}"
+    "payments.pro_trial_upgrade_cta.upgrade": {
+        "string": "升级"
     },
-    "dev_handoff.overrides.hint": {
-        "string": "The {properties} in this {layerType} differ from the main component."
+    "payments.projects_deprecated": {
+        "string": "项目在团队外部不受支持。要继续编辑，请将此项目移到团队或将这些文件移到草稿中。"
     },
-    "dev_handoff.detached_component.remove_attachment_confirm": {
-        "string": "Remove"
+    "payments.save": {
+        "string": "保存"
     },
-    "dev_handoff.detached_component.remove_attachment_text_body": {
-        "string": "Are you sure you want to remove detachment status? This action cannot be undone."
+    "payments.step_pay.add_more_editors": {
+        "string": "要提前添加更多席位吗？{addMoreSeats}"
     },
-    "dev_handoff.developer_related_links.invalid_link": {
-        "string": "Invalid URL"
+    "payments.step_pay.add_more_seats": {
+        "string": "添加席位"
     },
-    "dev_handoff.developer_related_links.duplicate_link_error": {
-        "string": "Link already exists"
+    "payments.step_pay.confirm_seats": {
+        "string": "确认席位"
     },
-    "dev_handoff.developer_related_links.link_error": {
-        "string": "Could not add link: {errorMessage}"
+    "payments.step_pay.editors_on_annual_plan.seat_rename": {
+        "string": "{numAnnualEditors, plural, other {年度计划中的{numAnnualEditorsNumberOrInput}个{productType}席位}}"
     },
-    "dev_handoff.developer_related_links.link_placeholder": {
-        "string": "Paste a link"
+    "payments.step_pay.happy_you_want_to_buy_seats": {
+        "string": "您要购买的总席位数为{numAnnualEditors}个。请确认输入无误。"
     },
-    "dev_handoff.developer_related_links.main_component_tooltip": {
-        "string": "Inherited from main component"
+    "payments.step_pay.none_selected": {
+        "string": "未选择"
     },
-    "dev_handoff.developer_related_links.additional_options": {
-        "string": "Additional options"
+    "payments.step_pay.num_editors.seat_rename": {
+        "string": "{numEditors, plural, other {{numEditors}个全席位}}"
     },
-    "dev_handoff.developer_related_links.copy_link": {
-        "string": "Copy link"
+    "payments.step_pay.plus_sales_tax": {
+        "string": "+ 销售税"
     },
-    "dev_handoff.developer_related_links.open_in_new_tab": {
-        "string": "Open in new tab"
+    "payments.step_pay.price_per_editor_12_months": {
+        "string": "{price} × {editorString} × 12个月"
     },
-    "dev_handoff.developer_related_links.go_to_main_component": {
-        "string": "Go to main component"
+    "payments.step_pay.subscription": {
+        "string": "订阅"
     },
-    "dev_handoff.developer_related_links.select_layer": {
-        "string": "Select layer"
+    "payments.step_pay.thats_a_lot_of_seats": {
+        "string": "{numAnnualEditors}个席位？真多啊！"
     },
-    "dev_handoff.developer_related_links.edit_link": {
-        "string": "Edit link"
+    "payments.team_over_starter_team_limit": {
+        "string": "{teamName}已超出入门计划的上限，已被锁定。详情请联系团队管理员。"
     },
-    "dev_handoff.developer_related_links.delete_link": {
-        "string": "Delete link"
+    "payments.team_over_starter_team_limit_lower_your_usage": {
+        "string": "降低使用量"
     },
-    "dev_handoff.developer_related_links.link": {
-        "string": "Link"
+    "payments.team_over_starter_team_limit_title": {
+        "string": "已达到入门计划的上限"
     },
-    "dev_handoff.developer_related_links.name": {
-        "string": "Name"
+    "payments.team_over_starter_team_limit_upgrade": {
+        "string": "升级{teamName}以继续编辑文件，或{lowerYourUsage}。"
     },
-    "dev_handoff.developer_related_links.cancel": {
-        "string": "Cancel"
+    "payments.team_over_starter_team_limit_with_button.legacy_team": {
+        "string": "在入门计划中，限制为{fileLimitString}。要移除文件限制并获得更多功能，请{checkoutOurPlans}并升级{teamName}。"
     },
-    "dev_handoff.paywall.ready_for_dev.description": {
-        "string": "Quickly find and review designs that are ready to build. {learnMoreLink}"
+    "payments.team_over_starter_team_limit_with_button.no_legacy_team_present": {
+        "string": "在入门计划中，限制为{fileLimitString}。要移除文件限制并获得更多功能，请{checkoutOurPlans}并升级团队。"
     },
-    "dev_handoff.paywall.ready_for_dev.title": {
-        "string": "Ready for development"
+    "payments.united_states": {
+        "string": "美国"
     },
-    "memory_warning_banner.100_of_memory_used": {
-        "string": "100% of memory used"
+    "payments.update_payment": {
+        "string": "更新支付信息"
     },
-    "memory_warning_banner.this_file_has_run_out_of_browser_memory": {
-        "string": "This file has run out of browser memory."
+    "payments.upgrade_now": {
+        "string": "立即升级"
     },
-    "fullscreen.pages_panel.memory_usage_try_removing_unneeded_content": {
-        "string": "Try removing unneeded content to free up memory and keep things running smoothly."
+    "payments.view_only_projects": {
+        "string": "仅限查看的项目"
     },
-    "fullscreen.pages_panel.memory_usage_recovery_mode_high_content": {
-        "string": "Reduce file memory usage by removing unneeded layers and components."
+    "payments_modal.account_switcher_and_support_cta": {
+        "string": "{switchAccountLink}继续使用Figma，或联系支持了解详细信息。"
     },
-    "fullscreen.pages_panel.memory_usage_warning_edit_access_needed": {
-        "string": "You need edit access to manage and reduce this file's memory use."
+    "payments_modal.account_switcher_cta": {
+        "string": "要继续使用Figma，请{switchAccountLink}。"
     },
-    "fullscreen.pages_panel.memory_usage_read_only_view_version_history": {
-        "string": "You need edit access to manage this file's memory use."
+    "payments_modal.add": {
+        "string": "添加"
     },
-    "fullscreen.pages_panel.memory_usage_warning_edit_view_version_history": {
-        "string": "To free up more memory, go back to the current version of this file."
+    "payments_modal.cancel": {
+        "string": "取消"
     },
-    "fullscreen.pages_panel.memory_usage_to_avoid_losing_file_access": {
-        "string": "To avoid losing file access, move some pages to a different file or delete unneeded content."
+    "payments_modal.contact_an_admin_of_team_name_to_upgrade": {
+        "string": "要升级，请联系{teamName}的管理员。"
     },
-    "fullscreen.pages_panel.memory_usage_error_contact_file_owner": {
-        "string": "Contact the file owner. Edit access is required to manage memory use."
+    "payments_modal.contact_an_admin_to_update_your_payment_source": {
+        "string": "要更新支付来源，请联系管理员。"
     },
-    "fullscreen.pages_panel.memory_usage_error_edit_view_version_history": {
-        "string": "Go back to the current version to manage and reduce memory use. You could lose file access."
+    "payments_modal.contact_support": {
+        "string": "联系支持"
     },
-    "fullscreen.pages_panel.memory_usage_this_file_has_enough_memory": {
-        "string": "This file has enough memory to run smoothly now. Feel free to close this panel."
+    "payments_modal.duplicate": {
+        "string": "重复"
     },
-    "fullscreen.pages_panel.memory_usage_recovery_mode_low_content": {
-        "string": "This file has enough memory to run smoothly now. Feel free to exit recovery mode."
+    "payments_modal.guest_permission_disclaimer": {
+        "string": "您是组织的访客，只能查看被邀请的团队和文件。"
     },
-    "fullscreen.pages_panel.memory_usage_recovery_mode_high": {
-        "string": "Recovery mode"
+    "payments_modal.if_you_d_like_you_can_upgrade_your_plan_now_or_learn_more_about_our_paid_plans": {
+        "string": "如果愿意，您现在可以升级您的计划，或{learnMoreAboutOurPaidPlans}。"
     },
-    "fullscreen.pages_panel.memory_usage_memory_running_low": {
-        "string": "Memory running low"
+    "payments_modal.if_you_would_rather_keep_the_current_limits": {
+        "string": "如果您更愿意保持当前限制，请{upgradeToProfessional}。"
     },
-    "fullscreen.pages_panel.memory_usage_almost_out_of_memory": {
-        "string": "Almost out of memory"
+    "payments_modal.import": {
+        "string": "导入"
     }
 }

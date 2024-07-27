@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.stack-selection": {
-        "string": "Add auto layout"
+    "collaboration.branching_node_treatments.property.stroke_cap": {
+        "string": "线的端的形状"
     },
-    "fullscreen_actions.unstack-selection": {
-        "string": "Remove auto layout"
+    "collaboration.branching_node_treatments.property.stroke_geometry": {
+        "string": "线的几何形状"
     },
-    "fullscreen_actions.align-center": {
-        "string": "Align center"
+    "collaboration.branching_node_treatments.property.stroke_join": {
+        "string": "线的结合"
     },
-    "fullscreen_actions.stretch_top_and_bottom": {
-        "string": "Stretch top and bottom"
+    "collaboration.branching_node_treatments.property.stroke_paint": {
+        "string": "线的涂料"
     },
-    "fullscreen_actions.move_up": {
-        "string": "Move up"
+    "collaboration.branching_node_treatments.property.stroke_paints": {
+        "string": "线的涂料"
     },
-    "fullscreen_actions.move_to_top": {
-        "string": "Move to top"
+    "collaboration.branching_node_treatments.property.stroke_style": {
+        "string": "线的样式"
     },
-    "fullscreen_actions.move_down": {
-        "string": "Move down"
+    "collaboration.branching_node_treatments.property.stroke_weight": {
+        "string": "线的粗细"
     },
-    "fullscreen_actions.move_to_bottom": {
-        "string": "Move to bottom"
+    "collaboration.branching_node_treatments.property.style_description": {
+        "string": "样式描述"
     },
-    "fullscreen_actions.move_left": {
-        "string": "Move left"
+    "collaboration.branching_node_treatments.property.style_id": {
+        "string": "样式ID"
     },
-    "fullscreen_actions.move_to_left_edge": {
-        "string": "Move to left edge"
+    "collaboration.branching_node_treatments.property.style_name": {
+        "string": "名称"
     },
-    "fullscreen_actions.move_right": {
-        "string": "Move right"
+    "collaboration.branching_node_treatments.property.style_type": {
+        "string": "样式类型"
     },
-    "fullscreen_actions.move_to_right_edge": {
-        "string": "Move to right edge"
+    "collaboration.branching_node_treatments.property.symbol_description": {
+        "string": "符号描述"
     },
-    "fullscreen_actions.start-chat": {
-        "string": "Cursor chat"
+    "collaboration.branching_node_treatments.property.symbol_links": {
+        "string": "符号链接"
     },
-    "fullscreen_actions.start-magic-link": {
-        "string": "Start Magic Link edit mode"
+    "collaboration.branching_node_treatments.property.text_align_horizontal": {
+        "string": "文字的水平对齐"
     },
-    "fullscreen_actions.end-magic-link": {
-        "string": "End Magic Link edit mode"
+    "collaboration.branching_node_treatments.property.text_align_vertical": {
+        "string": "文字的垂直对齐"
     },
-    "fullscreen_actions.straight_connector": {
-        "string": "Straight connector or line"
+    "collaboration.branching_node_treatments.property.text_auto_resize": {
+        "string": "文字自动调整大小"
     },
-    "fullscreen_actions.swap-fill-and-stroke": {
-        "string": "Swap fill and stroke"
+    "collaboration.branching_node_treatments.property.text_bidi_version": {
+        "string": "文字双向版本"
     },
-    "fullscreen_actions.test-action": {
-        "string": "Test action"
+    "collaboration.branching_node_treatments.property.text_case": {
+        "string": "文字大小写"
     },
-    "fullscreen_actions.test-multiplayer-reject-invalid-permissions": {
-        "string": "Test multiplayer 'Invalid permissions'"
+    "collaboration.branching_node_treatments.property.text_data": {
+        "string": "文字数据"
     },
-    "fullscreen_actions.test-multiplayer-reject-not-logged-in": {
-        "string": "Test multiplayer 'Not logged in'"
+    "collaboration.branching_node_treatments.property.text_decoration": {
+        "string": "文字装饰"
     },
-    "fullscreen_actions.test-multiplayer-reject-too-many-connections": {
-        "string": "Test multiplayer 'Too many connections'"
+    "collaboration.branching_node_treatments.property.text_decoration_fill": {
+        "string": "文字装饰填充"
     },
-    "fullscreen_actions.test-multiplayer-reject-too-old": {
-        "string": "Test multiplayer 'Client too old'"
+    "collaboration.branching_node_treatments.property.text_decoration_fill_paints": {
+        "string": "文字装饰填充涂料"
     },
-    "fullscreen_actions.test-multiplayer-upgrade": {
-        "string": "Test multiplayer upgrade protocol"
+    "collaboration.branching_node_treatments.property.text_explicit_layout_version": {
+        "string": "文字明确布局版本"
     },
-    "fullscreen_actions.text-align-menu": {
-        "string": "Alignment"
+    "collaboration.branching_node_treatments.property.text_style": {
+        "string": "文字样式"
     },
-    "fullscreen_actions.text-align-left": {
-        "string": "Text align left"
+    "collaboration.branching_node_treatments.property.text_tracking": {
+        "string": "文字间距"
     },
-    "fullscreen_actions.text-align-center": {
-        "string": "Text align center"
+    "collaboration.branching_node_treatments.property.text_truncation": {
+        "string": "文字截断"
     },
-    "fullscreen_actions.text-align-right": {
-        "string": "Text align right"
+    "collaboration.branching_node_treatments.property.text_truncation_details": {
+        "string": "文字截断详情"
     },
-    "fullscreen_actions.text-align-justified": {
-        "string": "Text align justified"
+    "collaboration.branching_node_treatments.property.type": {
+        "string": "类型"
     },
-    "fullscreen_actions.text-align-top": {
-        "string": "Text align top"
+    "collaboration.branching_node_treatments.property.type_details": {
+        "string": "类型详情"
     },
-    "fullscreen_actions.text-align-middle": {
-        "string": "Text align middle"
+    "collaboration.branching_node_treatments.property.variables": {
+        "string": "变量"
     },
-    "fullscreen_actions.text-align-bottom": {
-        "string": "Text align bottom"
+    "collaboration.branching_node_treatments.property.vector_data": {
+        "string": "向量数据"
     },
-    "fullscreen_actions.text_style_title": {
-        "string": "Huge"
+    "collaboration.branching_node_treatments.property.vertical_constraints": {
+        "string": "垂直约束"
     },
-    "fullscreen_actions.text_style_h1": {
-        "string": "Extra large"
+    "collaboration.branching_node_treatments.property.vertical_sizing": {
+        "string": "垂直尺寸"
     },
-    "fullscreen_actions.text_style_h2": {
-        "string": "Large"
+    "collaboration.branching_node_treatments.property.visibility": {
+        "string": "可见性"
     },
-    "fullscreen_actions.text_style_h3": {
-        "string": "Medium"
+    "collaboration.branching_node_treatments.property.visible": {
+        "string": "可见"
     },
-    "fullscreen_actions.text_style_normal": {
-        "string": "Small"
+    "collaboration.branching_node_treatments.property.widget_metadata": {
+        "string": "小部件元数据"
     },
-    "fullscreen_actions.adjust_font_weight": {
-        "string": "Adjust font weight"
+    "collaboration.branching_node_treatments.property.x": {
+        "string": "X"
     },
-    "fullscreen_actions.text-bold-increase": {
-        "string": "Increase font weight"
+    "collaboration.branching_node_treatments.property.y": {
+        "string": "Y"
     },
-    "fullscreen_actions.text-bold-decrease": {
-        "string": "Decrease font weight"
+    "collaboration.branching_node_treatments.unnamed_node": {
+        "string": "未命名节点"
     },
-    "fullscreen_actions.text-edit-hyperlink": {
-        "string": "Create link"
+    "collaboration.branching_node_treatments.value.autolayout.align_vertical_and_horizontal": {
+        "string": "{verticalAlignment}和{horizontalAlignment}"
     },
-    "fullscreen_actions.text-forced-small-caps": {
-        "string": "Forced small caps"
+    "collaboration.branching_node_treatments.value.autolayout.baseline": {
+        "string": "基线"
     },
-    "fullscreen_actions.text-letter-spacing-increase": {
-        "string": "Increase letter spacing"
+    "collaboration.branching_node_treatments.value.autolayout.center": {
+        "string": "居中"
     },
-    "fullscreen_actions.text-letter-spacing-decrease": {
-        "string": "Decrease letter spacing"
+    "collaboration.branching_node_treatments.value.autolayout.fill": {
+        "string": "填充"
     },
-    "fullscreen_actions.adjust_letter_spacing": {
-        "string": "Adjust letter spacing"
+    "collaboration.branching_node_treatments.value.autolayout.fill_or_fixed": {
+        "string": "填充或固定"
     },
-    "fullscreen_actions.text-font-size-increase": {
-        "string": "Increase font size"
+    "collaboration.branching_node_treatments.value.autolayout.fixed": {
+        "string": "固定"
     },
-    "fullscreen_actions.text-font-size-decrease": {
-        "string": "Decrease font size"
+    "collaboration.branching_node_treatments.value.autolayout.horizontal": {
+        "string": "水平"
     },
-    "fullscreen_actions.adjust_font_size": {
-        "string": "Adjust font size"
+    "collaboration.branching_node_treatments.value.autolayout.horizontal_wrap": {
+        "string": "水平换行"
     },
-    "fullscreen_actions.text-line-height-increase": {
-        "string": "Increase line height"
+    "collaboration.branching_node_treatments.value.autolayout.hug": {
+        "string": "自适应"
     },
-    "fullscreen_actions.text-line-height-decrease": {
-        "string": "Decrease line height"
+    "collaboration.branching_node_treatments.value.autolayout.max": {
+        "string": "最大"
     },
-    "fullscreen_actions.adjust_line_height": {
-        "string": "Adjust line height"
+    "collaboration.branching_node_treatments.value.autolayout.max_height": {
+        "string": "最大高度"
     }
 }

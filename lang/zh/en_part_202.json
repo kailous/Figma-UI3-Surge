@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.transform_panel.bottom_left_corner_radius": {
-        "string": "Bottom left corner radius"
+    "inspect_panel.properties.copy_code_hint_menu_path": {
+        "string": "复制/粘贴选项->复制为代码"
     },
-    "fullscreen.properties_panel.transform_panel.bottom_right_corner_radius": {
-        "string": "Bottom right corner radius"
+    "inspect_panel.properties.copy_code_hint_message": {
+        "string": "如果需要代码片段，请右键点击所选部分，然后选择{menu_path}"
     },
-    "properties.label.min_width": {
-        "string": "Min width"
+    "inspect_panel.properties.dev_mode_upsell_message": {
+        "string": "开发模式可以简化交接，加快检查速度，并与VS Code和Storybook等工具集成。"
     },
-    "properties.label.max_width": {
-        "string": "Max width"
+    "inspect_panel.properties.fill": {
+        "string": "填充"
     },
-    "properties.label.min_height": {
-        "string": "Min height"
+    "inspect_panel.properties.fixed": {
+        "string": "固定"
     },
-    "properties.label.max_height": {
-        "string": "Max height"
+    "inspect_panel.properties.gap": {
+        "string": "间距"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_width_short": {
-        "string": "Min W"
+    "inspect_panel.properties.height": {
+        "string": "高度"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_width_short": {
-        "string": "Max W"
+    "inspect_panel.properties.hug": {
+        "string": "包裹"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_height_short": {
-        "string": "Min H"
+    "inspect_panel.properties.justify": {
+        "string": "两端对齐"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_height_short": {
-        "string": "Max H"
+    "inspect_panel.properties.layout": {
+        "string": "布局"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_width_tt": {
-        "string": "Min width"
+    "inspect_panel.properties.left": {
+        "string": "左"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_width_tt": {
-        "string": "Max width"
+    "inspect_panel.properties.measurements_hint_message": {
+        "string": "要测量距离，请选择对象并按住Option/Alt键，将光标悬停在目标上即可显示距离。"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_height_tt": {
-        "string": "Min height"
+    "inspect_panel.properties.opacity": {
+        "string": "不透明度"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_height_tt": {
-        "string": "Max height"
+    "inspect_panel.properties.padding": {
+        "string": "内边距"
     },
-    "fullscreen.appearance_panel.position": {
-        "string": "Position"
+    "inspect_panel.properties.radius": {
+        "string": "半径"
     },
-    "properties.label.resizing": {
-        "string": "Resizing"
+    "inspect_panel.properties.rotation": {
+        "string": "旋转"
     },
-    "properties.label.dimensions": {
-        "string": "Dimensions"
+    "inspect_panel.properties.top": {
+        "string": "上"
     },
-    "properties.label.count": {
-        "string": "Count"
+    "inspect_panel.properties.width": {
+        "string": "宽度"
     },
-    "properties.label.angle": {
-        "string": "Angle"
+    "inspect_panel.property.content": {
+        "string": "内容"
     },
-    "properties.label.arc": {
-        "string": "Arc"
+    "inspect_panel.property.effect_background_blur": {
+        "string": "背景模糊"
     },
-    "fullscreen.properties_panel.transform_panel.x": {
+    "inspect_panel.property.effect_drop_shadow": {
+        "string": "投影"
+    },
+    "inspect_panel.property.effect_inner_shadow": {
+        "string": "内阴影"
+    },
+    "inspect_panel.property.effect_layer_blur": {
+        "string": "图层模糊"
+    },
+    "inspect_panel.property.missing": {
+        "string": "(未找到)"
+    },
+    "inspect_panel.property.mixed": {
+        "string": "混合"
+    },
+    "inspect_panel.property.mixed_value": {
+        "string": "(混合)"
+    },
+    "inspect_panel.property.remaining_more": {
+        "string": "剩余{remaining}"
+    },
+    "inspect_panel.property.selected": {
+        "string": "已选择{numberOfItems}个"
+    },
+    "inspect_panel.property.text": {
+        "string": "文本"
+    },
+    "inspect_panel.shadows.blur": {
+        "string": "模糊范围"
+    },
+    "inspect_panel.shadows.spread_tooltip": {
+        "string": "扩展"
+    },
+    "inspect_panel.shadows.title": {
+        "string": "阴影"
+    },
+    "inspect_panel.shadows.x": {
         "string": "X"
     },
-    "fullscreen.properties_panel.transform_panel.y": {
+    "inspect_panel.shadows.y": {
         "string": "Y"
     },
-    "fullscreen.properties_panel.transform_panel.vector": {
-        "string": "Vector"
+    "inspect_panel.strokes.all_sides": {
+        "string": "所有边"
     },
-    "fullscreen.properties_panel.section_vector.label_position": {
-        "string": "Position"
+    "inspect_panel.strokes.bottom_side": {
+        "string": "下"
     },
-    "fullscreen.properties_panel.section_vector.label_mirroring": {
-        "string": "Mirroring"
+    "inspect_panel.strokes.cap_line_arrow": {
+        "string": "线条箭头"
     },
-    "fullscreen.properties_panel.section_vector.label_radius": {
-        "string": "Radius"
+    "inspect_panel.strokes.cap_none": {
+        "string": "无"
     },
-    "fullscreen.properties_panel.constraints_panel.constraints": {
-        "string": "Constraints"
+    "inspect_panel.strokes.cap_round": {
+        "string": "圆形"
     },
-    "fullscreen.properties_panel.transform_panel.count": {
-        "string": "Count"
+    "inspect_panel.strokes.cap_square": {
+        "string": "方形"
     },
-    "fullscreen.properties_panel.transform_panel.ratio": {
-        "string": "Ratio"
+    "inspect_panel.strokes.cap_triangle_arrow": {
+        "string": "三角箭头"
     },
-    "fullscreen.properties_panel.transform_panel.start": {
-        "string": "Start"
+    "inspect_panel.strokes.center_border": {
+        "string": "居中边框"
     },
-    "fullscreen.properties_panel.transform_panel.sweep": {
-        "string": "Sweep"
+    "inspect_panel.strokes.inner_border": {
+        "string": "内边框"
     },
-    "fullscreen.properties_panel.transform_panel.no_mirroring": {
-        "string": "No mirroring"
+    "inspect_panel.strokes.left_side": {
+        "string": "左"
     },
-    "fullscreen.properties_panel.transform_panel.mirror_angle": {
-        "string": "Mirror angle"
+    "inspect_panel.strokes.outer_border": {
+        "string": "外边框"
     },
-    "fullscreen.properties_panel.transform_panel.mirror_angle_and_length": {
-        "string": "Mirror angle and length"
+    "inspect_panel.strokes.right_side": {
+        "string": "右"
     },
-    "fullscreen.properties_panel.orientation.portrait": {
-        "string": "Portrait"
+    "inspect_panel.strokes.title": {
+        "string": "边框"
     },
-    "fullscreen.properties_panel.orientation.landscape": {
-        "string": "Landscape"
+    "inspect_panel.strokes.top_side": {
+        "string": "上"
     },
-    "fullscreen.properties_panel.transform_panel.constrain_proportions": {
-        "string": "Constrain proportions"
+    "inspect_panel.templates.no_templates_description": {
+        "string": "没有模板描述"
     },
-    "fullscreen.properties_panel.transform_panel.absolute_position": {
-        "string": "Absolute position"
-    },
-    "properties.tooltip.ignore_auto_layout": {
-        "string": "Ignore auto layout"
-    },
-    "properties.tooltip.xposition": {
-        "string": "X-position"
-    },
-    "properties.tooltip.yposition": {
-        "string": "Y-position"
-    },
-    "fullscreen.properties_panel.stack_panel.sizing_disabled.no_fill_component": {
-        "string": "Fill can only be applied to instances, not components"
-    },
-    "fullscreen.properties_panel.stack_panel.sizing_disabled.select_all_fill": {
-        "string": "Select all children to set to fill"
-    },
-    "fullscreen.properties_panel.constraints_resizing_panel.horizontal_resizing": {
-        "string": "Horizontal resizing"
-    },
-    "fullscreen.properties_panel.constraints_resizing_panel.vertical_resizing": {
-        "string": "Vertical resizing"
-    },
-    "fullscreen.properties_panel.constraints_resizing_panel.fixed_width": {
-        "string": "Fixed width"
-    },
-    "fullscreen.properties_panel.constraints_resizing_panel.fixed_height": {
-        "string": "Fixed height"
-    },
-    "fullscreen.properties_panel.section_position.label_alignment": {
-        "string": "Alignment"
-    },
-    "sites.panel.toolbar_header.webpage": {
-        "string": "Webpage"
-    },
-    "sites.panel.toolbar_header.layout": {
-        "string": "Layout"
+    "inspect_panel.typography.align": {
+        "string": "对齐"
     }
 }

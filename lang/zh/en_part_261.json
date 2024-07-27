@@ -1,152 +1,152 @@
 {
-    "figjam_try.timer_hours_left": {
-        "string": "{hoursLeft, plural, one {{hoursLeft, number, integer} hour left} other {{hoursLeft, number, integer} hours left}}"
+    "pro_cart.sidebar.exp_sticker_shock.figjam": {
+        "string": "FigJam"
     },
-    "figjam_try.timer_minutes_left": {
-        "string": "{minutesLeft, plural, one {{minutesLeft, number, integer} minute left} other {{minutesLeft, number, integer} minutes left}}"
+    "pro_cart.sidebar.exp_sticker_shock.figjam_editors": {
+        "string": "{numEditors, plural, other {FigJam編集者数}}"
     },
-    "figjam_try.timer_less_than_ten_minutes_left": {
-        "string": "Less than 10 minutes left"
+    "pro_cart.sidebar.exp_sticker_shock.save_amount_per_year": {
+        "string": "年間で{saveAmount}お得"
     },
-    "figjam_try.meet_hardware.timer_hours_left": {
-        "string": "{hoursLeft, plural, one {{hoursLeft, number, integer} hour left to save.} other {{hoursLeft, number, integer} hours left to save.}}"
+    "pro_cart.sidebar.exp_sticker_shock.so_much_more": {
+        "string": "詳しくはこちら"
     },
-    "figjam_try.meet_hardware.timer_minutes_left": {
-        "string": "{minutesLeft, plural, one {{minutesLeft, number, integer} minute left to save.} other {{minutesLeft, number, integer} minutes left to save.}}"
+    "pro_cart.sidebar.exp_sticker_shock.subtotal_per_month": {
+        "string": "小計(月額)"
     },
-    "figjam_try.meet_hardware.timer_less_than_ten_minutes_left": {
-        "string": "Less than 10 minutes left to save."
+    "pro_cart.sidebar.exp_sticker_shock.subtotal_per_year": {
+        "string": "小計(年額)"
     },
-    "figjam_try.meet_hardware.board_deletion_disclaimer": {
-        "string": "After that, this board will be deleted."
+    "pro_cart.sidebar.exp_sticker_shock.unlimited_files_and_projects": {
+        "string": "ファイル、プロジェクト、共有ライブラリの数が無制限。{learnMoreLink}。"
     },
-    "gen1_design_viewer_onboarding.view_only": {
-        "string": "view-only"
+    "pro_cart.sidebar.is_this_an_education_team": {
+        "string": "これはエデュケーションチームですか?"
     },
-    "gen1_design_viewer_onboarding.take_a_quick_tour": {
-        "string": "Take a quick tour"
+    "pro_cart.sidebar.monthly": {
+        "string": "毎月"
     },
-    "gen1_design_viewer_onboarding.hey_there_welcome_to_your_first_figma_file_learn_how_to_explore_and_add_comments_in_this_file": {
-        "string": "Hey there, welcome to your first Figma file. Learn how to explore and add comments in this {viewOnly} file."
+    "pro_cart.sidebar.next_payment_information": {
+        "string": "次へ: 支払い情報"
     },
-    "gen1_design_onboarding.leave_a_comment_anywhere_in_the_canvas_to_give_feedback_ask_questions_or_mention_someone": {
-        "string": "Leave a comment anywhere in the canvas to give feedback, ask questions, or @-mention someone."
+    "pro_cart.sidebar.next_review": {
+        "string": "次へ: 確認"
     },
-    "gen1_design_viewer_onboarding.share_your_thoughts": {
-        "string": "Share your thoughts"
+    "pro_cart.sidebar.no": {
+        "string": "いいえ"
     },
-    "gen1_design_viewer_onboarding.getting_around": {
-        "string": "Getting around"
+    "pro_cart.sidebar.professional_plan": {
+        "string": "プロフェッショナルプラン"
     },
-    "gen1_design_viewer_onboarding.yep_other_people_can_be_in_the_same_file_and_they_ll_appear_up_here_click_on_their_profile_picture_to_follow_and_see_where_they_are_in_real_time": {
-        "string": "Other people can be in the same file and they’ll appear up here. Click on their profile picture to follow and see where they are in real-time."
+    "pro_cart.sidebar.save_up_to_discount": {
+        "string": "最大{discountAmount}%割引"
     },
-    "gen1_design_viewer_onboarding.follow_your_teammates": {
-        "string": "Follow your teammates"
+    "pro_cart.sidebar.yes": {
+        "string": "はい"
     },
-    "gen1_design_viewer_onboarding.look_closer_or_step_back": {
-        "string": "Look closer (or step back)"
+    "pro_cart.whiteboard_billing_cost_per_month.seat_rename": {
+        "string": "{monthlyCostInDollars}/シート"
     },
-    "rcs.figjam_onboarding.use_the_hand_tool_and_drag_to_move_around_hold_space_to_activate_it_anytime": {
-        "string": "Use the Hand tool and drag to move around. Hold {spaceKey} to activate it anytime."
+    "pro_edit_action.body_text": {
+        "string": "このファイルを変更するために招待されています。"
     },
-    "rcs.figjam_onboarding.space": {
-        "string": "space"
+    "pro_edit_action.dismiss_button_text": {
+        "string": "今は行わない"
     },
-    "rcs.figjam_onboarding.pinch_to_zoom_on_a_trackpad_hold_command_while_scrolling_or_use": {
-        "string": "Pinch to zoom on a trackpad, hold {commandKey} while scrolling, or use {plusOrMinusKeys}."
+    "pro_edit_action.heading": {
+        "string": "編集を開始しますか?"
     },
-    "rcs.figjam_onboarding.plus_or_minus": {
-        "string": "+/-"
+    "pro_edit_action.primary_button_text": {
+        "string": "編集開始"
     },
-    "rcs.figjam_onboarding.cmd": {
-        "string": "cmd"
+    "pro_onboarding.change_who_can_edit_and_view_your_files_on_your_professional_plan": {
+        "string": "プロフェッショナルプランでファイルの編集と閲覧が可能なユーザーを変更します。"
     },
-    "rcs.figjam_onboarding.ctrl": {
-        "string": "ctrl"
+    "pro_onboarding.dev_mode_for_simpler_inspection_and_handoff": {
+        "string": "開発モード。インスペクトとハンドオフがさらにシンプルに"
     },
-    "rcs.figjam_onboarding.next": {
-        "string": "Next"
+    "pro_onboarding.get_started": {
+        "string": "開始"
     },
-    "cursor_bot.add_words_where_needed": {
-        "string": "Add words where needed"
+    "pro_onboarding.hello_organized_files": {
+        "string": "こんにちは、整理されたファイル"
     },
-    "cursor_bot.all_designs_need_words_so_create_a_text_layer_anywhere_and_start_typing_simple_as_that": {
-        "string": "All designs need words. So create a text layer anywhere and start typing—simple as that."
+    "pro_onboarding.if_other_people_are_in_your_file_select_the_headphones": {
+        "string": "他のユーザーがファイルに参加したら、ヘッドフォンを選択して音声チャットを開始します。"
     },
-    "proto.state_management.info_tooltip_learn_more": {
-        "string": "Learn more"
+    "pro_onboarding.if_you_want_to_reach_a_decision_keep_things_simple_with_a_figjam_vote": {
+        "string": "結論を出したい場合は、シンプルにFigJamの投票機能を利用できます。　"
     },
-    "proto.state_management.info_tooltip": {
-        "string": "{PreserveScrollPositionBold} is automatically applied when top-level frames have identical names or matching prefixes. {LearnMoreLink}"
+    "pro_onboarding.now_that_you_re_on_a_professional_team_move_your_files_into_project": {
+        "string": "プロフェッショナルチームに入りました。ファイルをプロジェクトフォルダーに移動して、きちんと整理してください。"
     },
-    "slides.templates.presentation": {
-        "string": "presentation"
+    "pro_onboarding.on_your_professional_plan_you_can_share_prototypes": {
+        "string": "プロフェッショナルプランでは、デザインファイルの残りの部分は共有せず、プロトタイプだけを共有することができます。"
     },
-    "qa.suggested": {
-        "string": "Suggested"
+    "pro_onboarding.pro_feature_modal.as_a_professional_team_you_get": {
+        "string": "プロフェッショナルチームとして、次の機能を利用できます。"
     },
-    "qa.other_extensions_from_org": {
-        "string": "Other plugins & widgets from {org_name}"
+    "pro_onboarding.pro_feature_modal.compare_plans": {
+        "string": "プランを比較"
     },
-    "qa.from_org_name": {
-        "string": "From {org_name}"
+    "pro_onboarding.pro_feature_modal.got_it": {
+        "string": "了解"
     },
-    "qa.from_community": {
-        "string": "From Community"
+    "pro_onboarding.professional": {
+        "string": "プロフェッショナル"
     },
-    "qa.dismiss": {
-        "string": "Dismiss"
+    "pro_onboarding.protect_your_projects": {
+        "string": "プロジェクトを保護"
     },
-    "ai_text_tools.select_text_singular": {
-        "string": "First, select a text layer"
+    "pro_onboarding.prototpye_only_links": {
+        "string": "プロトタイプのみのリンク"
     },
-    "ai_text_tools.shorten.running": {
-        "string": "Shortening..."
+    "pro_onboarding.review_your_teams_plan_and_all_its_features_by_clicking_on_your_professional_badge": {
+        "string": "[プロフェッショナル]バッジをクリックして、チームのプランとそのすべての機能を確認します。"
     },
-    "ai_text_tools.shorten.couldnt_count": {
-        "string": "Couldn’t shorten {failed} / {total}"
+    "pro_onboarding.see_whats_included": {
+        "string": "内容を確認"
     },
-    "ai_text_tools.translate.couldnt_count": {
-        "string": "Couldn’t translate {failed} / {total}"
+    "pro_onboarding.start_a_voting_session": {
+        "string": "投票セッションを開始"
     },
-    "ai_text_tools.translate.language": {
-        "string": "Language"
+    "pro_onboarding.unlimited_files_for_all_your_ideas": {
+        "string": "ファイル数の制限なし、すべてのアイデアを実現"
     },
-    "ai_text_tools.translate.language.arabic": {
-        "string": "Arabic"
+    "pro_onboarding.unlimited_projects_to_organize_your_files": {
+        "string": "ファイルを整理するプロジェクト数の制限なし"
     },
-    "ai_text_tools.translate.language.chinese_simplified": {
-        "string": "Chinese (Simplified)"
+    "pro_onboarding.use_variables_in_components_and_prototypes": {
+        "string": "コンポーネントやプロトタイプでバリアブルを使用して、ライトモードとダークモードの切り替え、言語のローカライズなどを行います。"
     },
-    "ai_text_tools.translate.language.chinese_traditional": {
-        "string": "Chinese (Traditional)"
+    "pro_onboarding.variables_save_you_time": {
+        "string": "バリアブルで作業時間を短縮"
     },
-    "ai_text_tools.translate.language.dutch": {
-        "string": "Dutch"
+    "pro_onboarding.welcome_to_professional": {
+        "string": "{userName}さん、プロフェッショナルへようこそ!"
     },
-    "ai_text_tools.translate.language.english_uk": {
-        "string": "English (United Kingdom)"
+    "pro_onboarding.you_successfully_upgraded_team_name_to_a_professional_plan": {
+        "string": "{teamName}がプロフェッショナルプランにアップグレードされました。これからは次のような多くの機能を利用できます。"
     },
-    "ai_text_tools.translate.language.english_us": {
-        "string": "English (United States)"
+    "pro_onboaridng.so_many_files": {
+        "string": "非常に多くのファイル"
     },
-    "ai_text_tools.translate.language.tagalog": {
-        "string": "Tagalog"
+    "pro_onboaridng.so_many_files_and_boards": {
+        "string": "非常に多くのファイルとボード"
     },
-    "ai_text_tools.translate.language.french": {
-        "string": "French"
+    "pro_onboaridng.you_now_get_unlimited_design_files": {
+        "string": "デザインファイルの数と各ファイルのページ数の制限がなくなりました。"
     },
-    "ai_text_tools.translate.language.german": {
-        "string": "German"
+    "pro_onboaridng.you_now_get_unlimited_design_files_pages_and_figjam_boards": {
+        "string": "デザインファイル、ページ、FigJamボードの数の制限がなくなりました。"
     },
-    "ai_text_tools.translate.language.hindi": {
-        "string": "Hindi"
+    "pro_onboaridng.you_ve_been_upgraded_to_a_professional_plan": {
+        "string": "プロフェッショナルプランにアップグレードしました。これからは次のような多くの機能を利用できます。"
     },
-    "ai_text_tools.translate.language.indonesian": {
-        "string": "Indonesian"
+    "pro_trials_v3.downgrade_modal.cta.text": {
+        "string": "確認"
     },
-    "ai_text_tools.translate.language.italian": {
-        "string": "Italian"
+    "pro_trials_v3.downgrade_modal.description": {
+        "string": "元に戻した場合、次のことが考えられます。"
     }
 }

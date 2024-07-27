@@ -1,152 +1,152 @@
 {
-    "rcs.sharing_clarity.file_permissions_modal_step_1_description": {
-        "string": "Manage file permissions, password protection, and more access controls—all in one place."
+    "community.buyer.price_per_year": {
+        "string": "{priceString}/年"
     },
-    "rcs.sharing_clarity.file_permissions_modal_step_2_title": {
-        "string": "Stay on top of project permissions"
+    "community.buyer.price_per_year_subscription": {
+        "string": "{priceString}/年的订阅"
     },
-    "rcs.sharing_clarity.file_permissions_modal_step_3_title": {
-        "string": "Manage prototypes separately"
+    "community.buyer.price_x_month": {
+        "string": "{priceString} x 1个月"
     },
-    "rcs.sharing_clarity.file_permissions_modal_step_3_description": {
-        "string": "Prototype sharing is now managed separately from the main file, giving you more say over who can access only the prototype."
+    "community.buyer.price_x_year": {
+        "string": "{priceString} x 1年"
     },
-    "rcs.sharing_clarity.project_creation_team_access_title": {
-        "string": "Easily manage your team’s access to this project"
+    "community.buyer.promo_code": {
+        "string": "促销代码"
     },
-    "rcs.sharing_clarity.project_creation_team_access_description": {
-        "string": "It’s now easier to adjust how team members can access projects that live within the team."
+    "community.buyer.purchase_complete": {
+        "string": "购买已完成！"
     },
-    "rcs.viewer_to_editor.you_currently_have_view_only_access": {
-        "string": "You currently have view-only access. Request permission to edit files any time."
+    "community.buyer.purchase_resource": {
+        "string": "购买资源"
     },
-    "rcs.viewer_to_editor.got_it": {
-        "string": "Got it"
+    "community.buyer.purchase_resource_name": {
+        "string": "购买{resourceName}"
     },
-    "desktop_new_tab.tab_title": {
-        "string": "New File"
+    "community.buyer.purchase_this_feature_today": {
+        "string": "立即购买此功能以使用{pluginName}提供的所有功能。"
     },
-    "general.close": {
-        "string": "Close"
+    "community.buyer.purchased": {
+        "string": "已购买"
     },
-    "view_selectors.file_browser.try_figjam.try_fig_jam": {
-        "string": "Try FigJam"
+    "community.buyer.redirecting_to_stripe": {
+        "string": "正在重定向到Stripe..."
     },
-    "fullscreen.toolbar.back-to-files-button": {
-        "string": "Back to files"
+    "community.buyer.refund_reason.add_additional_details": {
+        "string": "添加更多详情"
     },
-    "general.root_error_boundary_description": {
-        "string": "Our team is looking into it now. If refreshing the page doesn't work, check our {status_page} for updates."
+    "community.buyer.refund_reason.doesnt_meet_needs": {
+        "string": "不符合需求"
     },
-    "general.root_error_boundary_status_page": {
-        "string": "status page"
+    "community.buyer.refund_reason.found_alternative": {
+        "string": "找到替代资源"
     },
-    "general.root_error_boundary_title": {
-        "string": "Figma ran into a problem"
+    "community.buyer.refund_reason.other": {
+        "string": "其他"
     },
-    "general.root_error_boundary_refresh": {
-        "string": "Refresh"
+    "community.buyer.refund_reason.technical_issues": {
+        "string": "技术问题"
     },
-    "teams_table.leave_team": {
-        "string": "Leave team"
+    "community.buyer.refund_reason.too_expensive": {
+        "string": "太贵了"
     },
-    "team_list.org_join_status_leave": {
-        "string": "Leave"
+    "community.buyer.refund_requested": {
+        "string": "退款已请求"
     },
-    "team_list.org_join_status_joined": {
-        "string": "Joined"
+    "community.buyer.request_refund": {
+        "string": "请求退款"
     },
-    "teams_table.cancel_join_request": {
-        "string": "Cancel request to join"
+    "community.buyer.return_to_desktop_app": {
+        "string": "返回桌面应用"
     },
-    "teams_table.join_team": {
-        "string": "Join team"
+    "community.buyer.sales_tax": {
+        "string": "销售税"
     },
-    "teams_table.join_team_as_admin": {
-        "string": "Join team"
+    "community.buyer.save_my_payment_info": {
+        "string": "保存我的支付信息"
     },
-    "teams_table.join_team_as_owner": {
-        "string": "Join as owner"
+    "community.buyer.save_percent": {
+        "string": "节省{discountPercentage}%"
     },
-    "teams_table.ask_to_join": {
-        "string": "Ask to join"
+    "community.buyer.seller_switching_to_figma_payment_platform": {
+        "string": "{name}正在切换到Figma支付平台。要迁移订阅，请更新支付信息或添加促销代码。"
     },
-    "universal_upgrade.currency_switcher_option.japanese_yen": {
-        "string": "Japanese Yen"
+    "community.buyer.sorry_there_was_an_error_processing_your_request_refresh_and_try_again": {
+        "string": "处理您的请求时出错。请刷新并重试。"
     },
-    "universal_upgrade.currency_switcher_option.jpy_symbol": {
-        "string": "¥, JPY"
+    "community.buyer.sub_percent_off": {
+        "string": "{duration, plural, other {{percent_off}%折扣({duration}个月)}}"
     },
-    "universal_upgrade.currency_switcher.short_pricing_in_jpy": {
-        "string": "¥ JPY"
+    "community.buyer.sub_percent_off__forever": {
+        "string": "{percent_off}%折扣（永久）"
     },
-    "universal_upgrade.currency_switcher.pricing_in_jpy": {
-        "string": "Pricing in ¥ JPY"
+    "community.buyer.subscribe": {
+        "string": "订阅："
     },
-    "universal_upgrade.currency_switcher_option.us_dollar": {
-        "string": "US Dollar"
+    "community.buyer.subscribe_to_resource_name": {
+        "string": "订阅{resourceName}"
     },
-    "universal_upgrade.currency_switcher_option.usd_symbol": {
-        "string": "$, USD"
+    "community.buyer.subscribed": {
+        "string": "已订阅"
     },
-    "universal_upgrade.currency_switcher.short_pricing_in_usd": {
-        "string": "$ USD"
+    "community.buyer.subscribed_with_price": {
+        "string": "已订阅 · {priceString}"
     },
-    "universal_upgrade.currency_switcher.pricing_in_usd": {
-        "string": "Pricing in $ USD"
+    "community.buyer.subtotal": {
+        "string": "小计"
     },
-    "universal_upgrade.currency_switcher_option.european_euro": {
-        "string": "European Euro"
+    "community.buyer.tbd": {
+        "string": "待定"
     },
-    "universal_upgrade.currency_switcher_option.eur_symbol": {
-        "string": "€, EUR"
+    "community.buyer.this_account_has_already_purchased": {
+        "string": "此账户已购买此资源"
     },
-    "universal_upgrade.currency_switcher.short_pricing_in_eur": {
-        "string": "€ EUR"
+    "community.buyer.this_resource_will_only_be_accesible": {
+        "string": "此资源仅限此账户访问。"
     },
-    "universal_upgrade.currency_switcher.pricing_in_eur": {
-        "string": "Pricing in € EUR"
+    "community.buyer.to_be_calculated": {
+        "string": "待计算"
     },
-    "universal_upgrade.currency_switcher_option.cad_dollar": {
-        "string": "Canadian Dollar"
+    "community.buyer.to_be_charged_on_date": {
+        "string": "将在{date}收费"
     },
-    "universal_upgrade.currency_switcher_option.cad_symbol": {
-        "string": "$, CAD"
+    "community.buyer.total": {
+        "string": "总计"
     },
-    "universal_upgrade.currency_switcher.short_pricing_in_cad": {
-        "string": "$ CAD"
+    "community.buyer.total_due_today": {
+        "string": "今日应付款总额"
     },
-    "universal_upgrade.currency_switcher.pricing_in_cad": {
-        "string": "Pricing in $ CAD"
+    "community.buyer.unable_to_process_refund": {
+        "string": "无法处理退款"
     },
-    "universal_upgrade.currency_switcher_option.british_pound": {
-        "string": "British Pound"
+    "community.buyer.unlock_this_feature": {
+        "string": "解锁此功能？"
     },
-    "universal_upgrade.currency_switcher_option.gbp_symbol": {
-        "string": "£, GBP"
+    "community.buyer.update": {
+        "string": "更新"
     },
-    "universal_upgrade.currency_switcher.short_pricing_in_gbp": {
-        "string": "£ GBP"
+    "community.buyer.update_payment": {
+        "string": "更新支付信息"
     },
-    "universal_upgrade.currency_switcher.pricing_in_gbp": {
-        "string": "Pricing in £ GBP"
+    "community.buyer.update_payment_info": {
+        "string": "更新支付信息"
     },
-    "tile.dropdown.no_permission_to_trash_error": {
-        "string": "You don't have permission to trash these files."
+    "community.buyer.update_payment_info_to_retain_access": {
+        "string": "更新支付信息以保持访问"
     },
-    "tile.dropdown.no_permission_to_delete_error": {
-        "string": "You don't have permission to delete these files."
+    "community.buyer.user_is_a_publisher": {
+        "string": "用户是资源的发布者"
     },
-    "tile.error.permission_error_trash_file": {
-        "string": "{selectedCount, plural, one {You don't have permission to trash this file.} other {You don't have permission to trash some of these files.}}"
+    "community.buyer.vat_gst": {
+        "string": "增值税/商品及服务税"
     },
-    "tile.error.permission_error_delete_file": {
-        "string": "{selectedCount, plural, one {You don't have permission to delete this file.} other {You don't have permission to delete some of these files.}}"
+    "community.buyer.view_order_details": {
+        "string": "查看订单详情"
     },
-    "tile.file_tile.edited_time": {
-        "string": "Edited {time}"
+    "community.buyer.we_re_sorry_to_hear_resource_name_didnt_work_out": {
+        "string": "很遗憾{resourceName}没有奏效。我们将处理您的退款。请告知我们问题所在？"
     },
-    "team_tile.shared_by": {
-        "string": "From {shared_by_text}"
+    "community.buyer.yearly": {
+        "string": "每年"
     }
 }

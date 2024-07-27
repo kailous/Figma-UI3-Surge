@@ -1,152 +1,152 @@
 {
-    "org_self_serve.modals.true_up_edu.members_can_add_new_editors.seat_rename": {
-        "string": "Members of your organization can upgrade people whenever they need to collaborate and co-edit. Newly added full seats are free until your true-up. Then, you’ll only be charged for the full seats you want to keep in your Organization going forward, and only for the prorated amount left on your annual contract."
+    "plan_comparison.chart.private_projects.name": {
+        "string": "プライベートプロジェクト"
     },
-    "org_self_serve.modals.true_up_edu.what_to_expect_at_true_up": {
-        "string": "What to expect at true-up"
+    "plan_comparison.chart.project_and_team_transfer.details": {
+        "string": "ビジネスプランまたはエンタープライズプランでは、チームまたはプロジェクト全体を他の人に引き継ぐことができます。"
     },
-    "org_self_serve.modals.true_up_edu.true_up_explanation.seat_rename": {
-        "string": "True-ups occur every three months starting from the date your organization was created. We’ll remind you several times leading up to your true-up, to review new paid seats added to your organization so you can decide whether or not to keep them. {seeFullDetails}"
+    "plan_comparison.chart.project_and_team_transfer.name": {
+        "string": "プロジェクトやチームの移転"
     },
-    "org_self_serve.modals.true_up_edu.see_full_details": {
-        "string": "See full details"
+    "plan_comparison.chart.project_transfer.details": {
+        "string": "ビジネスプランまたはエンタープライズプランでは、プロジェクト全体を他の人に引き継ぐことができます。"
     },
-    "all_carts.you_need_a_minimum_n_design_editors.seat_rename": {
-        "string": "{minSeatsCount, plural, one {You need a minimum of # Design seat.} other {You need a minimum of # Design seats.}}"
+    "plan_comparison.chart.project_transfer.name": {
+        "string": "プロジェクトの移転"
     },
-    "all_carts.you_need_a_minimum_n_whiteboard_editors.seat_rename": {
-        "string": "{minSeatsCount, plural, one {You need a minimum of # FigJam seat.} other {You need a minimum of # FigJam seats.}}"
+    "plan_comparison.chart.prototype_sharing_permissions.details": {
+        "string": "土台となるデザインファイルは共有せずに、プロトタイプを誰とでも共有できます。"
     },
-    "all_carts.you_need_a_minimum_n_dev_mode_seats": {
-        "string": "{minSeatsCount, plural, one {You need a minimum of # Dev Mode seat.} other {You need a minimum of # Dev Mode seats.}}"
+    "plan_comparison.chart.prototype_sharing_permissions.name": {
+        "string": "プロトタイプの共有権限"
     },
-    "all_carts.minimum_seats": {
-        "string": "Teams must have a minimum of {minTotalSeats} {seatsText} and {minDesignSeats} full Figma design {designSeatsText}."
+    "plan_comparison.chart.security.details": {
+        "string": "既存のID管理システムを使用して、SAMLシングルサインオンをセットアップします。すべてのチームメンバーがSSOを使用し、SCIMでプロビジョニングを管理します。"
     },
-    "all_carts.you_need_a_minimum_n_editors.seat_rename": {
-        "string": "{minSeatsCount, plural, one {You must have a minimum of # seat} other {You must have a minimum of # seats}}"
+    "plan_comparison.chart.security.name": {
+        "string": "SSO、最先端のセキュリティ"
     },
-    "checkout.add_or_remove_editors": {
-        "string": "Add or remove editors"
+    "plan_comparison.chart.shared_fonts.details": {
+        "string": "組織の全員が使用するフォントをFigmaに組み込みます。"
     },
-    "all_carts.editor_table.Name": {
-        "string": "Name"
+    "plan_comparison.chart.shared_fonts.name": {
+        "string": "共有フォント"
     },
-    "all_carts.editor_table.Teams": {
-        "string": "Teams"
+    "plan_comparison.chart.shared_libraries.company_wide": {
+        "string": "会社全体"
     },
-    "all_carts.add_additional_editors.seat_rename": {
-        "string": "Add more seats"
+    "plan_comparison.chart.shared_libraries.details": {
+        "string": "チームで使用する共有UIコンポーネントを使ったデザインシステムを作成します。"
     },
-    "all_carts.add_additional_editors_description.seat_rename": {
-        "string": "You can add empty seats now and assign people later as your team grows"
+    "plan_comparison.chart.shared_libraries.name": {
+        "string": "共有ライブラリ"
     },
-    "all_carts.new_total": {
-        "string": "New Total: {total}"
+    "plan_comparison.chart.shared_libraries.organization_wide": {
+        "string": "組織全体"
     },
-    "all_carts.editor_table.multiple_teams": {
-        "string": "Multiple Teams"
+    "plan_comparison.chart.single_sign_on.details": {
+        "string": "既存のID管理システムを使ったSAMLシングルサインオンを設定します。すべてのチームメンバーがSSOを使用し、プロビジョニングはSCIMで管理します。"
     },
-    "all_carts.figma_design_editors.seat_rename": {
-        "string": "Figma Design seats"
+    "plan_comparison.chart.single_sign_on.name": {
+        "string": "シングルサインオン"
     },
-    "all_carts.figjam_editors.seat_rename": {
-        "string": "FigJam seats"
+    "plan_comparison.chart.single_sign_on_v2.details": {
+        "string": "SAMLシングルサインオンをセットアップします。すべてのチームメンバーがSSOを使用し、プロビジョニングはSCIMで管理します。"
     },
-    "all_carts.dev_mode_only_seats": {
-        "string": "Dev Mode only seats"
+    "plan_comparison.chart.single_sign_on_v2.name": {
+        "string": "シングルサインオン(SSO)"
     },
-    "all_carts.save": {
-        "string": "Save"
+    "plan_comparison.chart.unified_admin_and_billing.details": {
+        "string": "複数のチームが1つのFigmaアカウントで連携します。ユーザーと請求は一元管理されます。"
     },
-    "all_carts.cancel": {
-        "string": "Cancel"
+    "plan_comparison.chart.unified_admin_and_billing.name": {
+        "string": "統一された管理と請求"
     },
-    "checkout.update_seats": {
-        "string": "Update seats"
+    "plan_comparison.chart.usage_limits.details": {
+        "string": "複数のプロジェクトとファイルを作成し、管理します。"
     },
-    "checkout.switch_seat_from_design_to_devmode": {
-        "string": "This user will no longer be able to edit files. Dev Mode inspection only"
+    "plan_comparison.chart.usage_limits.name": {
+        "string": "使用制限"
     },
-    "checkout.enabled_devmode": {
-        "string": "This user will not be able to edit files. Dev Mode inspection only"
+    "plan_comparison.chart.usage_limits.starter": {
+        "string": "{maxFreeFiles}ファイル、{maxFreePages}ページ、{maxFreeProjects}プロジェクト"
     },
-    "checkout.design_with_dev_mode_included": {
-        "string": "Design (Dev Mode incl.)"
+    "plan_comparison.chart.usage_limits.unlimited": {
+        "string": "ファイル、ページ、プロジェクトの数が無制限"
     },
-    "checkout.seats": {
-        "string": "{numOfSeats, plural, one {{numOfSeats} seat} other {{numOfSeats} seats}}"
+    "plan_comparison.chart.usage_limits_limited_pages.starter": {
+        "string": "{maxFreeFiles}個のファイル、ページ数の制限なし、{maxFreeProjects}件のプロジェクト"
     },
-    "checkout.paranthesis": {
-        "string": "({content})"
+    "plan_comparison.chart.usage_limits_v2.unlimited": {
+        "string": "ファイルとプロジェクトの数が無制限"
     },
-    "checkout.empty_seats": {
-        "string": "{numOfEmptySeats, plural, one {{numOfEmptySeats} empty seat} other {{numOfEmptySeats} empty seats}}"
+    "plan_comparison.chart.usage_limits_v2.unlimited_teams": {
+        "string": "チーム、ファイル、プロジェクトの数が無制限"
     },
-    "checkout.add_additional_seats": {
-        "string": "Add additional seats"
+    "plan_comparison.chart.version_history.details": {
+        "string": "Figmaは30分ごとにファイルを自動的に保存してバージョン付けします。いつでも特定のバージョンに名前を付けて、過去のバージョンにリンクすることができます。"
     },
-    "community.profiles.interested_in_selling_your_resources": {
-        "string": "Interested in selling your resources? "
+    "plan_comparison.chart.version_history.name": {
+        "string": "バージョン履歴"
     },
-    "community.profiles.contact_creator_support": {
-        "string": "Contact creator support"
+    "plan_comparison.chart.version_history.starter": {
+        "string": "30日間のみ"
     },
-    "community.profiles.following_count": {
-        "string": "{followingCount} following"
+    "plan_comparison.chart.video_in_prototype.details": {
+        "string": "プロトタイプに動画を追加して、より豊かでリアルな体験を創出します。"
     },
-    "community.landing_page.explore": {
-        "string": "Explore"
+    "plan_comparison.chart.video_in_prototype.name": {
+        "string": "プロトタイプ内の動画"
     },
-    "community.profiles.explore": {
-        "string": "Explore"
+    "plan_comparison.chart.voting.details_with_callout": {
+        "string": "{figJamCallout}内でアイデアに投票できます。"
     },
-    "community.profiles.saved": {
-        "string": "Saved"
+    "plan_comparison.chart.voting.name": {
+        "string": "投票"
     },
-    "community.profiles.resources": {
-        "string": "Resources"
+    "plan_comparison.chart.workspaces.details": {
+        "string": "ユーザーとコンテンツを組織の構造をミラーリングした複数のワークプレースに分割し、それぞれのワークスペースで集中的に作業します。"
     },
-    "community.seller.profiles.metrics": {
-        "string": "Metrics"
+    "plan_comparison.chart.workspaces.name": {
+        "string": "ワークスペース"
     },
-    "community.profiles.add_a_description": {
-        "string": "Add a description"
+    "plan_comparison.plans.billed_yearly": {
+        "string": "年払い。"
     },
-    "community.profiles.add_a_location": {
-        "string": "Add a location"
+    "plan_comparison.plans.button.annual_billing_toggle": {
+        "string": "年払い。"
     },
-    "community.profiles.add_website_url": {
-        "string": "Add website URL"
+    "plan_comparison.plans.button.current_plan": {
+        "string": "現在のプラン"
     },
-    "community.profiles.add_x_handle": {
-        "string": "Add X (formerly Twitter) handle"
+    "plan_comparison.plans.current_trial": {
+        "string": "現在のトライアル"
     },
-    "community.profiles.add_instagram_handle": {
-        "string": "Add Instagram handle"
+    "plan_comparison.plans.ent.choose_button": {
+        "string": "営業への問い合わせ"
     },
-    "community.profiles.nothing_liked_yet": {
-        "string": "Nothing liked yet"
+    "plan_comparison.plans.ent.description": {
+        "string": "独自のワークスペースと高度なセキュリティで会社のプロセスを拡張します。"
     },
-    "community.profiles.see_whats_being_created_in_figma": {
-        "string": "See what's being created in Figma"
+    "plan_comparison.plans.most_popular": {
+        "string": "最も人気"
     },
-    "community.profiles.nothing_published_yet": {
-        "string": "Nothing published yet"
+    "plan_comparison.plans.most_valued": {
+        "string": "最適"
     },
-    "community.only_visible_to_you": {
-        "string": "Only visible to you"
+    "plan_comparison.plans.or_contact_sales": {
+        "string": "または、{contactSalesLink}"
     },
-    "internal_profile.change_job_title": {
-        "string": "Change"
+    "plan_comparison.plans.org.annual_only_message": {
+        "string": "{billingToggle}お支払いサイクルを年払いに切り替えて、組織の価格設定を表示します。"
     },
-    "internal_profile.teams": {
-        "string": "Teams"
+    "plan_comparison.plans.org.choose_button": {
+        "string": "ビジネスにアップグレード"
     },
-    "internal_profile.recent_projects": {
-        "string": "Recent projects"
+    "plan_comparison.plans.org.choose_organization": {
+        "string": "ビジネスを選ぶ"
     },
-    "internal_profile.no_teams_in_common": {
-        "string": "No teams in common"
+    "plan_comparison.plans.org.description": {
+        "string": "チーム間の連携の実現、組織全体のデザインシステムの共有などに。"
     }
 }

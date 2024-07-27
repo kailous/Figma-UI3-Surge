@@ -1,152 +1,152 @@
 {
-    "file_browser.team_settings.team_admins_and_owners_can_change": {
-        "string": "Team admins and owners can change this setting."
+    "proto.mirror.log_in_with_saml_sso": {
+        "string": "SAML SSOでログイン..."
     },
-    "file_browser.team_settings.default_permission": {
-        "string": "Default permissions:"
+    "proto.mirror.log_out": {
+        "string": "ログアウト"
     },
-    "file_browser.team_settings.figma_and_figjam_ai": {
-        "string": "AI beta"
+    "proto.mirror.no_account_get_started_at": {
+        "string": "アカウントをお持ちでない場合は、{figmaLink}で作成してください"
     },
-    "file_browser.team_settings.enable_ai_features": {
-        "string": "Enable AI features in Figma and FigJam. {spaceChar}{learnMoreLink}"
+    "proto.mirror.not_seeing_the_log_in_with_saml_sso_tab": {
+        "string": "[SAML SSOでログイン]タブが表示されませんか?"
     },
-    "file_browser.team_settings.learn_more": {
-        "string": "Learn more"
+    "proto.mirror.or": {
+        "string": "または"
     },
-    "file_browser.team_settings.enable_ai_features_description": {
-        "string": "This setting doesn’t apply to files in personal drafts, where AI features are always enabled."
+    "proto.mirror.password": {
+        "string": "パスワード"
     },
-    "admin_settings.ai.section_title": {
-        "string": "AI"
+    "proto.mirror.please_update_to_access_more_features": {
+        "string": "ミラーリングなどのさまざまな機能を利用するには、更新してください。あるいは{figmaMirrorLink}に移動して、ブラウザで表示してください。"
     },
-    "admin_settings.ai.manage_settings_link": {
-        "string": "Manage AI settings"
+    "proto.mirror.restart_prototype": {
+        "string": "プロトタイプを再開"
     },
-    "settings_table.plan_and_billing": {
-        "string": "Plan and Billing"
+    "proto.mirror.select_a_frame_or_component_that_s_directly_on_the_canvas": {
+        "string": "キャンバス上に直接配置されているフレームまたはコンポーネントを選択してください。"
     },
-    "file_browser.team_settings_modal.admin_console_billing_nudge": {
-        "string": "Manage your plan, billing details, and more."
+    "proto.mirror.send_sms": {
+        "string": "SMSを送信"
     },
-    "file_browser.team_settings_modal.admin_console_billing_button": {
-        "string": "Go to Billing"
+    "proto.mirror.this_version_of_the_app_is_no_longer_supported": {
+        "string": "アプリのこのバージョンはサポートされていません"
     },
-    "file_browser.team_settings.transfer": {
-        "string": "Transfer"
+    "proto.mirror.uh_oh_web_gl_isn_t_supported": {
+        "string": "WebGLがサポートされていません。"
     },
-    "file_browser.team_settings.source_user_sent_destination_user_a_request_to_transfer_this_team": {
-        "string": "{sourceUserEmail} sent {destinationUserEmail} a request to transfer this team"
+    "proto.mirror.update_figma_app": {
+        "string": "Figmaアプリをアップデート"
     },
-    "file_browser.folder_settings.revoke": {
-        "string": "Revoke"
+    "proto.mirror.www_figma_com_mirror": {
+        "string": "www.figma.com/mirror"
     },
-    "file_browser.team_settings.transfer_team_link_to_an_external_organization": {
-        "string": "{transferTeamLink} to an external organization"
+    "proto.mirror.you_are_not_connected_to_the_internet": {
+        "string": "インターネットに接続していません"
     },
-    "file_browser.team_settings.transfer_team": {
-        "string": "Transfer team"
+    "proto.node_name_formatter.missing": {
+        "string": "(見つかりません)"
     },
-    "file_browser.team_settings.only_org_name_admins_can_select_an_external_organization_to_manage_this_team": {
-        "string": "Only {orgName} admins can select an external organization to manage this team."
+    "proto.node_name_formatter.none": {
+        "string": "なし"
     },
-    "file_browser.team_settings.see_who_can_help_with_transfers": {
-        "string": "See who can help with transfers"
+    "proto.onboarding.creating_a_connection": {
+        "string": "コネクションの作成"
     },
-    "team_view.settings_table.delete_team": {
-        "string": "Delete team"
+    "proto.onboarding.removing_a_connection": {
+        "string": "コネクションの削除"
     },
-    "team_view.settings_table.delete_team_description": {
-        "string": "Permanently delete this team and all resources within"
+    "proto.onboarding.running_your_prototype": {
+        "string": "プロトタイプの実行"
     },
-    "file_browser.team_settings.delete_team": {
-        "string": "Delete team"
+    "proto.onboarding.select_a_frame_or_object_hint": {
+        "string": "フレームまたはフレーム内のオブジェクトを選択し、円形のノードを使ってコネクションを別のフレームにドラッグします。"
     },
-    "upgrade.ready_to_go_beyond_free_plan": {
-        "string": "Ready to go beyond this free plan?"
+    "proto.onboarding.to_delete_a_connection_click_and_drag_on_either_end": {
+        "string": "コネクションを削除するには、いずれかの端をクリックしてドラッグします。"
     },
-    "upgrade.more_features": {
-        "string": "Upgrade for premium features such as team libraries, advanced security features and more."
+    "proto.onboarding.use_the_play_button_hint": {
+        "string": "ツールバーの再生ボタンを使ってプロトタイプを再生します。コネクションがない場合、再生ボタンはフレームのプレゼンテーションの実行に使用されます。"
     },
-    "upgrade.view_plans": {
-        "string": "View plans"
+    "proto.open_url.text_input_label": {
+        "string": "リンク"
     },
-    "file_browser.team_settings_modal.upgrade_to_organization": {
-        "string": "Upgrade to an Organization to access cross-team design libraries, SSO, and admin controls."
+    "proto.options_dropdown": {
+        "string": "オプションドロップダウン"
     },
-    "file_browser.team_settings_modal.upgrade": {
-        "string": "Upgrade"
+    "proto.overlay": {
+        "string": "オーバーレイ"
     },
-    "admin_settings.ai.disable_success": {
-        "string": "Turned off AI features"
+    "proto.overlay_panel.background": {
+        "string": "背景"
     },
-    "admin_settings.ai.enable_success": {
-        "string": "Turned on AI features"
+    "proto.overlay_panel.position": {
+        "string": "位置"
     },
-    "file_browser.file_browser_actions.team_update_error": {
-        "string": "Unable to update setting"
+    "proto.overlay_position_bottom_center": {
+        "string": "中央下"
     },
-    "file_browser.team_settings.community_restricted_handles": {
-        "string": "@{communityProfileHandle} currently has no restricted commenters."
+    "proto.overlay_position_bottom_left": {
+        "string": "左下"
     },
-    "file_browser.team_settings.team_community_handle": {
-        "string": "@{communityProfileHandle}"
+    "proto.overlay_position_bottom_right": {
+        "string": "右下"
     },
-    "file_browser.team_settings.change_profile_handle": {
-        "string": "Change profile handle"
+    "proto.overlay_position_centered": {
+        "string": "中央"
     },
-    "file_browser.team_settings.set_profile_handle": {
-        "string": "Set profile handle"
+    "proto.overlay_position_manual": {
+        "string": "手動"
     },
-    "admin_settings.ai.section_title.free_in_beta": {
-        "string": "During the beta, Figma’s AI features are free to use"
+    "proto.overlay_position_top_center": {
+        "string": "中央上"
     },
-    "file_browser.team.resend_invite": {
-        "string": "Resend"
+    "proto.overlay_position_top_left": {
+        "string": "左上"
     },
-    "file_browser.team.remove_confirm": {
-        "string": "Remove"
+    "proto.overlay_position_top_right": {
+        "string": "右上"
     },
-    "file_browser.badge_label.admin": {
-        "string": "Admin"
+    "proto.overlay_settings": {
+        "string": "オーバーレイ設定"
     },
-    "admin_settings.ai.features_toggle.label": {
-        "string": "AI features"
+    "proto.paste_unpublished_variable": {
+        "string": "公開されていないバリアブルを別のファイルに貼り付けるだけでは、新しいローカルバリアブルは作成されません。"
     },
-    "admin_settings.ai.features_toggle.description.team": {
-        "string": "Let your team use Figma’s AI features. {learnMoreLink}"
+    "proto.paste_unpublished_variable_cta": {
+        "string": "詳細を読む"
     },
-    "admin_settings.ai.data_sharing.label": {
-        "string": "Content training"
+    "proto.paste_unpublished_variable_localize": {
+        "string": "非公開のバリアブルが貼り付けられました"
     },
-    "admin_settings.ai.data_sharing.description.team": {
-        "string": "Let Figma use your team’s content to train AI models. Figma takes steps to de-identify data and protect your privacy. {learnMoreLink}"
+    "proto.paste_unpublished_variable_localize_cta": {
+        "string": "バリアブルをこのファイルにコピー"
     },
-    "admin_settings.ai.data_sharing.takes_effect.description": {
-        "string": "So you have plenty of time to decide. Questions? Read all about {helpCenterLink}."
+    "proto.prototype_panel.add": {
+        "string": "アクションを追加"
     },
-    "admin_settings.ai.data_sharing.takes_effect.help_center_link": {
-        "string": "Figma’s approach to AI"
+    "proto.prototype_panel.add_nested_action": {
+        "string": "ネストされたアクションを追加"
     },
-    "admin_settings.ai.data_sharing.update_success": {
-        "string": "Updated AI content training settings"
+    "proto.prototype_panel.autoplay": {
+        "string": "自動再生"
     },
-    "admin_settings.ai.data_sharing.update_error": {
-        "string": "Failed to update AI content training settings"
+    "proto.prototype_panel.content_needs_to_be_bigger_than_the_frame_tooltip": {
+        "string": "このフレームでスクロールが適切に動作するためには、コンテンツをフレームよりも大きくする必要があります。"
     },
-    "admin_settings.ai.data_sharing.disabled_for_student_teams": {
-        "string": "For teams like yours, this can’t be turned on"
+    "proto.prototype_panel.create_action_button": {
+        "string": "アクションボタンを作成"
     },
-    "admin_settings.ai.data_sharing.takes_effect.title": {
-        "string": "Content training doesn’t start until {date, date, ::dMMMM}"
+    "proto.prototype_panel.default_video_playback_state": {
+        "string": "動画再生のデフォルトの状態"
     },
-    "file_browser.team.dismiss": {
-        "string": "Dismiss"
+    "proto.prototype_panel.delete": {
+        "string": "削除"
     },
-    "file_browser.team.approve": {
-        "string": "Approve"
+    "proto.prototype_panel.edit_set_mode.missing_collection": {
+        "string": "(コレクションが見つかりません)"
     },
-    "payments.org_enter_an_email_address": {
-        "string": "You can have billing emails (like invoices, renewal reminders, and payment confirmations) go to additional people or email addresses. Admins will always get these emails."
+    "proto.prototype_panel.edit_set_mode.missing_mode": {
+        "string": "(モードが見つかりません)"
     }
 }

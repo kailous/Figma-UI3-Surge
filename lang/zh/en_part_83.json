@@ -1,152 +1,152 @@
 {
-    "design_systems.libraries_modal.header_styles": {
-        "string": "Styles"
+    "consumption_paywalls_want_to_add_this_file_to_your_team": {
+        "string": "是否将此文件添加到团队中？"
     },
-    "design_systems.libraries_modal.header_components": {
-        "string": "Components"
+    "cookies.allow_all_cookies": {
+        "string": "允许所有Cookie"
     },
-    "design_systems.libraries_modal.activity_this_week": {
-        "string": "Activity this week"
+    "cookies.consent_manager": {
+        "string": "同意管理器"
     },
-    "design_systems.libraries_modal.30_days": {
-        "string": "30 days"
+    "cookies.cookies_settings": {
+        "string": "Cookie设置"
     },
-    "design_systems.libraries_modal.60_days": {
-        "string": "60 days"
+    "cookies.do_not_allow_cookies": {
+        "string": "不允许Cookie"
     },
-    "design_systems.libraries_modal.90_days": {
-        "string": "90 days"
+    "cookies.explicit_consent_body": {
+        "string": "本网站使用Cookie、像素标签和本地存储来提高性能、个性化和营销目的。Cookie包括我们自己的Cookie和第三方Cookie。默认情况下，仅启用必要的Cookie。"
     },
-    "design_systems.libraries_modal.year": {
-        "string": "Year"
+    "cookies.manage_cookies_opt_out": {
+        "string": "管理Cookie或选择退出"
     },
-    "design_systems.libraries_modal.overview": {
-        "string": "Overview"
+    "copy_to_clipboard.emails_copied_to_clipboard": {
+        "string": "{numEmails, plural, other {{numEmails, number, integer}个邮件已复制到剪贴板}}"
     },
-    "design_systems.libraries_modal.analytics": {
-        "string": "Analytics"
+    "copy_to_clipboard.link_copied_to_clipboard": {
+        "string": "链接已复制到剪贴板"
     },
-    "design_systems.libraries_modal.duration": {
-        "string": "Duration"
+    "copy_to_clipboard.link_to_plugin_copied_to_clipboard": {
+        "string": "插件链接已复制到剪贴板"
     },
-    "design_systems.libraries_modal.dsa_undergoing_migration_heading": {
-        "string": "Still crunching the numbers"
+    "copy_to_clipboard.link_to_selection_copied_to_clipboard": {
+        "string": "选定内容链接已复制到剪贴板"
     },
-    "design_systems.libraries_modal.dsa_undergoing_migration_text": {
-        "string": "Analytics can take up to a day to generate after upgrading your organization."
+    "copy_to_clipboard.link_to_widget_copied_to_clipboard": {
+        "string": "小部件链接已复制到剪贴板"
     },
-    "design_systems.libraries_modal.open_in_file": {
-        "string": "Open in file"
+    "copy_to_clipboard.slides.link_to_slide_copied_to_clipboard": {
+        "string": "“幻灯片{name}”链接已复制到剪贴板"
     },
-    "design_systems.libraries_modal.showing_x_variant": {
-        "string": "{variantCount, plural, one {Showing {variantCount} variant of this component. Select a specific variant to get more detail and see where it is being used.} other {Showing {variantCount} variants of this component. Select a specific variant to get more detail and see where it is being used.}}"
+    "cross_sell.mobile_app_prompt.button_title": {
+        "string": "获取应用"
     },
-    "design_systems.libraries_modal.x_files_shown_open_teams_and_teams_you_re_on": {
-        "string": "{fileCount, plural, one {{fileCount} file shown (open teams and teams you’re on).} other {{fileCount} files shown (open teams and teams you’re on).}}"
+    "cross_sell.mobile_app_prompt.comment_description": {
+        "string": "试试Figma移动应用，在外出时也能继续进行评论、回复和@提及活动。"
     },
-    "design_systems.libraries_modal.learn_more": {
-        "string": "Learn more"
+    "cross_sell.mobile_app_prompt.comment_image_alt_text": {
+        "string": "显示Figma移动应用中评论和回复的示例"
     },
-    "design_systems.libraries_modal.last_updated": {
-        "string": "Last updated "
+    "cross_sell.mobile_app_prompt.comment_title": {
+        "string": "评论现在在我们的应用中可见"
     },
-    "design_systems.libraries_modal.file_name": {
-        "string": "File name"
+    "cursor_bot.a_frame_will_hold_the_rest_of_your_design": {
+        "string": "框架就像一个容器，能容纳你的设计元素。此外，还可以像框和按钮一样用于绘制矩形UI。"
     },
-    "design_systems.libraries_modal.team": {
-        "string": "Team"
+    "cursor_bot.add_words_where_needed": {
+        "string": "在需要的地方添加文字"
     },
-    "design_systems.libraries_modal.instances_all_time": {
-        "string": "Instances (all time)"
+    "cursor_bot.all_designs_need_words_so_create_a_text_layer_anywhere_and_start_typing_simple_as_that": {
+        "string": "所有设计都需要文字。只需在任何地方创建一个文本层并开始输入，就这么简单。"
     },
-    "design_systems.libraries_modal.last_modified": {
-        "string": "Last modified"
+    "cursor_bot.and_pick_the_perfect_font": {
+        "string": "选择完美的字体"
     },
-    "design_systems.libraries_modal.description": {
-        "string": "Description"
+    "cursor_bot.back": {
+        "string": "返回"
     },
-    "design_systems.libraries_modal.n_a": {
-        "string": "N/A"
+    "cursor_bot.design_panel_can_change_objects": {
+        "string": "设计面板还可以更改画布上的其他对象，调整颜色、大小等。"
     },
-    "design_systems.libraries_modal.total": {
-        "string": "Total"
+    "cursor_bot.design_panel_is_key": {
+        "string": "设计面板是更改画布中对象、调整尺寸、颜色等的重要工具。"
     },
-    "design_systems.libraries_modal.plural.instance": {
-        "string": "{instanceCount, plural, one {instance} other {instances}}"
+    "cursor_bot.got_it": {
+        "string": "了解"
     },
-    "design_systems.libraries_modal.used_in": {
-        "string": "Used in"
+    "cursor_bot.make_it_look_just_right": {
+        "string": "让它看起来恰到好处"
     },
-    "design_systems.libraries_modal.plural.file": {
-        "string": "{fileCount, plural, one {file} other {files}}"
+    "cursor_bot.pick_the_perfect_font": {
+        "string": "选择完美的字体"
     },
-    "design_systems.dsa.not_visible": {
-        "string": "Not visible"
+    "cursor_bot.show_me": {
+        "string": "展示"
     },
-    "design_systems.dsa.learn_more": {
-        "string": "Learn more"
+    "cursor_bot.show_me_again": {
+        "string": "再展示一次"
     },
-    "design_systems.dsa.files": {
-        "string": "Files"
+    "cursor_bot.stop_tutorial": {
+        "string": "停止教程"
     },
-    "design_systems.dsa.teams": {
-        "string": "Teams"
+    "cursor_bot.use_the_design_panel_to_turn_basic_text_into_titles": {
+        "string": "使用设计面板将基本文本变成标题、副标题、正文。"
     },
-    "design_systems.dsa.instances_all_time": {
-        "string": "Instances (all time)"
+    "default_paid_status_modal_v2.description.seat_rename": {
+        "string": "选择加入{plan_type}时获得的席位类型。"
     },
-    "design_systems.dsa.not_visible_help": {
-        "string": "Some teams and files are not visible due to access permissions."
+    "default_paid_status_modal_v2.editor_subtext.seat_rename": {
+        "string": "按月支付"
     },
-    "design_systems.libraries_modal.manage_libraries": {
-        "string": "Manage libraries"
+    "default_paid_status_modal_v2.manage_default_roles.seat_rename": {
+        "string": "管理默认席位类型"
     },
-    "whiteboard.library_subscriptions.no_results_for": {
-        "string": "No results for ''{query}''"
+    "default_paid_status_modal_v2.organization": {
+        "string": "组织"
     },
-    "whiteboard.library_subscriptions.in_this_file": {
-        "string": "In this file"
+    "default_paid_status_modal_v2.paid": {
+        "string": "付费"
     },
-    "whiteboard.library_subscriptions.default_files": {
-        "string": "Default files"
+    "default_paid_status_modal_v2.team": {
+        "string": "团队"
     },
-    "whiteboard.library_subscriptions.search_for_libraries": {
-        "string": "Search for libraries…"
+    "default_paid_status_modal_v2.viewer_restricted_subtext.seat_rename": {
+        "string": "需要管理员批准才能升级"
     },
-    "design_systems.libraries_modal.search_query_best_matches": {
-        "string": "Best matches for ''{searchQuery}''"
+    "default_paid_status_modal_v2.viewer_subtext.seat_rename": {
+        "string": "任何人都可以升级"
     },
-    "design_systems.libraries_modal.back": {
-        "string": "Back"
+    "design.starting_points.how_would_you_like_to_get_started": {
+        "string": "你想如何开始？"
     },
-    "design_systems.libraries_modal.no_libraries": {
-        "string": "No libraries"
+    "design.starting_points.import_a_website": {
+        "string": "导入一个网站"
     },
-    "design_systems.libraries_modal.no_libraries_match_selected_filters": {
-        "string": "No libraries match the selected filters."
+    "design.starting_points.import_a_website_description": {
+        "string": "使用插件将现有网站导入设计文件中"
     },
-    "design_systems.libraries_modal.libraries_will_show_up_here_as_they_become_published": {
-        "string": "Libraries will show up here as they become published."
+    "design.starting_points.import_a_website_tooltip.description": {
+        "string": "使用{pluginName}插件，可以将你的网站引入Figma。利用社区创建的插件来高效启动设计。"
     },
-    "design_systems.libraries_modal.presets.explore_presets": {
-        "string": "Explore UI kits created by Figma and close partners."
+    "design.starting_points.import_a_website_tooltip.got_it": {
+        "string": "了解"
     },
-    "design_systems.libraries_modal.presets.start_browsing": {
-        "string": "Start browsing"
+    "design.starting_points.import_a_website_tooltip.html_to_design": {
+        "string": "html.to.design"
     },
-    "design_systems.libraries_modal.workspaces": {
-        "string": "Workspaces"
+    "design.starting_points.import_a_website_tooltip.import_your_website": {
+        "string": "导入你的网站"
     },
-    "design_systems.libraries_modal.plural.num_library": {
-        "string": "{count, plural, one {{count} library} other {{count} libraries}}"
+    "design.starting_points.learn_the_basics": {
+        "string": "学习基础知识"
     },
-    "design_systems.assets_panel.go_to_main_template": {
-        "string": "Go to main template"
+    "design.starting_points.learn_the_basics_description": {
+        "string": "使用示例文件学习Figma的基础知识"
     },
-    "design_systems.assets_panel.go_to_main": {
-        "string": "Go to main component"
+    "design.starting_points.recent_plugin_tooltip.description": {
+        "string": "当需要最近使用的插件时，可以在这里找到。"
     },
-    "design_systems.publishing_modal.hide_when_publishing": {
-        "string": "Hide when publishing"
+    "design.starting_points.recent_plugin_tooltip.done": {
+        "string": "完成"
     }
 }

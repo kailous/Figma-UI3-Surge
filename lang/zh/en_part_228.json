@@ -1,152 +1,152 @@
 {
-    "rcs.welcome_step.welcome": {
-        "string": "Welcome!"
+    "settings_tab.disabled": {
+        "string": "禁用"
     },
-    "onboarding.workspace_step.title": {
-        "string": "Welcome!"
+    "settings_tab.discovery.description": {
+        "string": "通过可下载文件提取来自组织的基于文本的通信。{learnMoreLink}"
     },
-    "onboarding.workspace_step.subtitle_v2": {
-        "string": "Let's pick your workspace at {orgName}. {tipText}: Choose the one where you'll find your closest, everyday collaborators."
+    "settings_tab.discovery.label": {
+        "string": "发现API"
     },
-    "onboarding.workspace_step.tip": {
-        "string": "Tip"
+    "settings_tab.domain_capture_contact_support_tooltip_copy": {
+        "string": "您需要启用域捕获以更新此设置。要开始，请发送电子邮件至admin-support@figma.com。"
     },
-    "onboarding.skip": {
-        "string": "Skip"
+    "settings_tab.domain_list": {
+        "string": "{numDomains, plural, other {当前域名: {domains}}}"
     },
-    "onboarding.workspace_step.join": {
-        "string": "Join"
+    "settings_tab.domain_management_description": {
+        "string": "管理与组织关联的域名。"
     },
-    "rcs.plan_spaces.drafts_have_a_new_home": {
-        "string": "Drafts have a new home"
+    "settings_tab.domain_management_label": {
+        "string": "域名管理"
     },
-    "rcs.plan_spaces.a_simpler_switcher_menu": {
-        "string": "A simpler switcher menu"
+    "settings_tab.enable_community_file_publishing_success": {
+        "string": "社区用户发布已启用"
     },
-    "rcs.plan_spaces.changes_to_your_drafts": {
-        "string": "Changes to your drafts"
+    "settings_tab.enable_cursor_chat_success": {
+        "string": "光标聊天已启用"
     },
-    "rcs.plan_spaces.drafts_lived_in_separate_area": {
-        "string": "Until today, drafts lived in a separate area outside of teams. This made it unclear which team owned which drafts, so we've moved your private Drafts folder inside your team."
+    "settings_tab.enable_plugin_approval_success": {
+        "string": "插件已限制为批准的列表插件"
     },
-    "rcs.plan_spaces.a_simpler_switcher_menu.description": {
-        "string": "All teams and organizations you belong to (even as a guest!) will now appear in your sidebar's switcher menu. You'll no longer see External teams or its Drafts space."
+    "settings_tab.enabled": {
+        "string": "启用"
     },
-    "rcs.plan_spaces.starter_pro.onboarding_modal_description": {
-        "string": "Until today, it wasn't clear in drafts which teams owned which files. This meant Professional teams working in drafts couldn't use features like Dev Mode, advanced prototyping, and password protection."
+    "settings_tab.external_collaboration_controls_description": {
+        "string": "选择成员从{orgName}以外访问文件、项目和团队的方式"
     },
-    "rcs.plan_spaces.nothing_else_has_changed": {
-        "string": "Nothing else has changed—drafts are still free and will remain private until you decide to share them."
+    "settings_tab.external_collaboration_controls_label": {
+        "string": "外部内容访问"
     },
-    "rcs.plan_spaces.user_help_migrating_drafts_awareness": {
-        "string": "Note: With these changes, we may need your help moving some items around."
+    "settings_tab.guest_membership_description": {
+        "string": "控制外部用户作为客人加入组织的方式。"
     },
-    "rcs.plan_spaces.starter_pro.onboarding_modal_body": {
-        "string": "To address this, we've added a private Drafts folder inside each of your teams, where you can continue to create free drafts. Drafts are private until shared, and you can now use all your team's features across drafts."
+    "settings_tab.guest_membership_label": {
+        "string": "访客会员"
     },
-    "rcs.plan_spaces.got_it": {
-        "string": "Got it"
+    "settings_tab.idle_session_timeout.configured_time_description.maximum": {
+        "string": "最多可选择{duration}。"
     },
-    "rcs.plan_spaces.show_me_what_changed": {
-        "string": "Show me what's changed"
+    "settings_tab.idle_session_timeout.configured_time_description.minimum": {
+        "string": "最少可选择{duration}。"
     },
-    "rcs.plan_spaces.learn_more": {
-        "string": "Learn more"
+    "settings_tab.idle_session_timeout.time.days": {
+        "string": "{duration, plural, other {{duration}天}}"
     },
-    "rcs.account_switching.step_counter": {
-        "string": "{step} of {totalSteps}"
+    "settings_tab.idle_session_timeout.time.hours": {
+        "string": "{duration, plural, other {{duration}小时}}"
     },
-    "rcs.account_switching.done": {
-        "string": "Done"
+    "settings_tab.idle_session_timeout.time.minutes": {
+        "string": "{duration, plural, other {{duration}分钟}}"
     },
-    "rcs.account_switching.next": {
-        "string": "Next"
+    "settings_tab.idle_session_timeout_default_duration": {
+        "string": "默认值（21天）"
     },
-    "rcs.account_switching.this_is_where_you_access_account_settings_add_or_remove_accounts_and_see_your_figma_profiles": {
-        "string": "This is where you access account settings, add or remove accounts, and see your Figma profiles."
+    "settings_tab.idle_session_timeout_description": {
+        "string": "选择在账户闲置多长时间后自动注销账户"
     },
-    "rcs.account_switching.notifications_for_your_workspace_live_here": {
-        "string": "Notifications for your workspace live here."
+    "settings_tab.idle_session_timeout_label": {
+        "string": "闲置会话超时"
     },
-    "pro_trials_v3.entry_modal_explanation": {
-        "string": "You and your team qualify for a free trial of Figma’s Professional plan. For 14 days, you’ll get:"
+    "settings_tab.idle_session_timeout_settings_modal.cancel": {
+        "string": "取消"
     },
-    "pro_trials_v3.entry_modal_cta_text": {
-        "string": "Start Professional trial"
+    "settings_tab.idle_session_timeout_settings_modal.configured_choice_description": {
+        "string": "自定义超时"
     },
-    "pro_trials_v3.entry_modal_title": {
-        "string": "Unlimited files await"
+    "settings_tab.idle_session_timeout_settings_modal.configured_choice_subtitle": {
+        "string": "在账户闲置一段时间后自动注销"
     },
-    "pro_trials_v3.team_welcome_modal_explanation": {
-        "string": "Your team upgraded to the free trial of Figma’s Professional plan. For the rest of the trial, you’ll get:"
+    "settings_tab.idle_session_timeout_settings_modal.days": {
+        "string": "{timeAmount, plural, other {天}}"
     },
-    "pro_trials_v3.team_welcome_modal_cta": {
-        "string": "Get started"
+    "settings_tab.idle_session_timeout_settings_modal.default_choice_description": {
+        "string": "默认超时"
     },
-    "pro_trials_v3.team_welcome_modal_title": {
-        "string": "Welcome to your free Professional trial"
+    "settings_tab.idle_session_timeout_settings_modal.default_choice_timeframe": {
+        "string": "在21天内闲置将自动注销。"
     },
-    "pro_trials_v3.expiry_modal_cta_text": {
-        "string": "Upgrade plan"
+    "settings_tab.idle_session_timeout_settings_modal.description": {
+        "string": "在一段时间内没有活动后，自动注销组织账户。"
     },
-    "pro_trials_v3.expiry_modal_secondary_cta_text": {
-        "string": "Go back to Starter"
+    "settings_tab.idle_session_timeout_settings_modal.header": {
+        "string": "闲置会话超时"
     },
-    "pro_trials_v3.expiry_modal_title": {
-        "string": "Your trial has ended"
+    "settings_tab.idle_session_timeout_settings_modal.hours": {
+        "string": "{timeAmount, plural, other {小时}}"
     },
-    "pro_trials_v3.expiry_modal_explanation": {
-        "string": "You can either stay on the Professional plan or go back to Starter."
+    "settings_tab.idle_session_timeout_settings_modal.minutes": {
+        "string": "{timeAmount, plural, other {分钟}}"
     },
-    "pro_trials_v3.entry_modal_bullet_pt_1": {
-        "string": "Access to all Professional features and tools"
+    "settings_tab.idle_session_timeout_settings_modal.save": {
+        "string": "保存"
     },
-    "pro_trials_v3.entry_modal_bullet_pt_2": {
-        "string": "Unlimited files and FigJams"
+    "settings_tab.idle_session_timeout_settings_modal.warning_description": {
+        "string": "新限制将立即生效。所有未使用的账户将被注销。"
     },
-    "pro_trials_v3.entry_modal_bullet_pt_3": {
-        "string": "No payment method required"
+    "settings_tab.invalid_url_allowlist": {
+        "string": "此插件不在组织的允许列表中"
     },
-    "pro_trials_v3.downgrade_modal.title": {
-        "string": "Go back to the Starter plan"
+    "settings_tab.ip_allowlist_description": {
+        "string": "指定成员在访问组织时使用的IP地址"
     },
-    "pro_trials_v3.downgrade_modal.description": {
-        "string": "Here’s what to expect when you transition back:"
+    "settings_tab.ip_allowlist_domain_capture_tooltip": {
+        "string": "启用IP允许列表需要域捕获。请联系支持启用域捕获。"
     },
-    "pro_trials_v3.downgrade_modal.cta.text": {
-        "string": "Confirm"
+    "settings_tab.ip_allowlist_label": {
+        "string": "IP允许列表设置"
     },
-    "pro_trials_v3.downgrade_modal.text_cta.text": {
-        "string": "I changed my mind"
+    "settings_tab.ip_allowlist_modal.allowed_ranges": {
+        "string": "允许的IP范围"
     },
-    "pro_trials_v3.downgrade_modal.feature_downgrade.consumption_limit.title": {
-        "string": "You’ll need to lower team usage to {maxNumOfFiles} files and {maxNumOfProjects} project."
+    "settings_tab.ip_allowlist_modal.enable": {
+        "string": "启用IP允许列表"
     },
-    "pro_trials_v3.downgrade_modal.feature_downgrade.consumption_limit.description": {
-        "string": "Your files will be view-only until you decide which to keep and which to move to your drafts."
+    "settings_tab.ip_allowlist_modal.enable_description": {
+        "string": "仅允许成员从指定的IP地址登录组织"
     },
-    "pro_trials_v3.downgrade_modal.feature_downgrade.team_library.title": {
-        "string": "You can no longer publish changes to your design library."
+    "settings_tab.ip_allowlist_modal.input_instructions": {
+        "string": "用逗号分隔输入IPv4地址"
     },
-    "pro_trials_v3.downgrade_modal.feature_downgrade.team_library.description": {
-        "string": "As a thank you for trying the Professional plan you can still use it—just no updates or edits."
+    "settings_tab.ip_allowlist_modal.not_applied_to_guests": {
+        "string": "注意：此策略不适用于组织的访客。"
     },
-    "pro_trials_v3.downgrade_modal.feature_downgrade.other.title": {
-        "string": "You’ll only be able to use limited Starter plan features."
+    "settings_tab.ip_allowlist_modal.save": {
+        "string": "保存"
     },
-    "pro_trials_v3.downgrade_modal.feature_downgrade.other.description": {
-        "string": "You’ll no longer have access to open sessions, file password protection, audio conversations, and all other Professional plan features."
+    "settings_tab.ip_allowlist_ranges_list": {
+        "string": "当前IP范围：{ranges}"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.your_team": {
-        "string": "your team"
+    "settings_tab.ip_restriction_description": {
+        "string": "如果希望Figma在{orgName}网络上仅允许访问{orgName}组织的账户，请选择此选项。"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.what_are_you_excited": {
-        "string": "What are you excited to try out?"
+    "settings_tab.ip_restriction_range": {
+        "string": "当前IP范围：{ipRanges}"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.you_have_14_days": {
-        "string": "You’ve got {proTrialDuration} days and lots to sample. Let us know everything you’re into."
+    "settings_tab.member_metadata_description": {
+        "string": "更改[成员]选项卡中显示的SCIM元数据"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.finish": {
-        "string": "Finish"
+    "settings_tab.member_metadata_label": {
+        "string": "成员元数据"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "type_settings.open_type_features.scientific_inferiors": {
-        "string": "Scientific inferiors"
+    "design_systems.shared_fonts.upload_new_shared_font": {
+        "string": "上传新共享字体"
     },
-    "type_settings.open_type_features.ordinals": {
-        "string": "Ordinals"
+    "design_systems.shared_fonts.upload_progress": {
+        "string": "正在导入{current}/{total}个字体文件..."
     },
-    "type_settings.open_type_features.slashed_zero": {
-        "string": "Slashed zero"
+    "design_systems.shared_fonts.uploading_n_fonts": {
+        "string": "上传{numFonts, plural, other {{numFonts}个字体}}"
     },
-    "type_settings.open_type_features.ligatures": {
-        "string": "Ligatures"
+    "design_systems.shared_fonts.variable": {
+        "string": "可变"
     },
-    "type_settings.open_type_features.contextual_ligatures": {
-        "string": "Contextual ligatures"
+    "design_systems.shared_fonts.version": {
+        "string": "版本"
     },
-    "type_settings.open_type_features.rare_ligatures": {
-        "string": "Rare ligatures"
+    "design_systems.shared_fonts.view_shared_fonts_from_organization": {
+        "string": "查看{orgName}组织的{action} "
     },
-    "type_settings.open_type_features.historical_ligatures": {
-        "string": "Historical ligatures"
+    "design_systems.shared_fonts.view_shared_fonts_from_organization_action": {
+        "string": "查看{numOrgFonts, plural, other {{numOrgFonts}个字体}}"
     },
-    "type_settings.open_type_features.required_ligatures": {
-        "string": "Required ligatures"
+    "design_systems.shared_fonts.you_already_have_a_font_with_this_name": {
+        "string": "已存在同名字体。"
     },
-    "type_settings.open_type_features.access_all_alternates": {
-        "string": "Access all alternates"
+    "design_systems.states_panel.combine_as_variants": {
+        "string": "组合为变体"
     },
-    "type_settings.open_type_features.contextual_alternates": {
-        "string": "Contextual alternates"
+    "design_systems.states_panel.components": {
+        "string": "组件"
     },
-    "type_settings.open_type_features.required_contextual_alternates": {
-        "string": "Required contextual alternates"
+    "design_systems.states_panel.components_with_more_than_1000_variants_may_experience_performance_issues": {
+        "string": "包含的变体数量超过1000的组件可能会遇到性能问题。请尝试将变体拆分为单独的组件。"
     },
-    "type_settings.open_type_features.stylistic_alternates": {
-        "string": "Stylistic alternates"
+    "design_systems.states_panel.default_property_value": {
+        "string": "默认"
     },
-    "type_settings.open_type_features.required_variation_alternates": {
-        "string": "Required variation alternates"
+    "design_systems.states_panel.layer_has_invalid_name": {
+        "string": "{layers, plural, other {这些图层的名称无效。请确保所有变体名称都符合以下格式：}}"
     },
-    "type_settings.open_type_features.vertical_alternates": {
-        "string": "Vertical alternates"
+    "design_systems.states_panel.prop_value_prop_value": {
+        "string": "属性=值、属性=值、..."
     },
-    "type_settings.open_type_features.swash": {
-        "string": "Swash"
+    "design_systems.states_panel.select_conflicting_variants": {
+        "string": "选择冲突的变体"
     },
-    "type_settings.open_type_features.contextual_swash": {
-        "string": "Contextual swash"
+    "design_systems.states_panel.select_invalid_variants": {
+        "string": "选择无效的变体"
     },
-    "type_settings.open_type_features.alternate_annotation_forms": {
-        "string": "Alternate annotation forms"
+    "design_systems.states_panel.some_layers_have_invalid_names": {
+        "string": "部分图层的名称无效。"
     },
-    "type_settings.open_type_features.glyph_composition_decomposition": {
-        "string": "Glyph composition/decomposition"
+    "design_systems.states_panel.some_variants_are_missing_properties": {
+        "string": "部分变体缺少属性。"
     },
-    "type_settings.open_type_features.stretching_glyph_decomposition": {
-        "string": "Stretching glyph decomposition"
+    "design_systems.states_panel.some_variants_have_the_same_property_values_applied": {
+        "string": "部分变体应用了相同的属性值。要解决此问题，请更改这些值。"
     },
-    "type_settings.open_type_features.historical_forms": {
-        "string": "Historical forms"
+    "design_systems.states_panel.the_properties_and_values_of_variant_are_conflicting": {
+        "string": "{variants, plural, other {这些变体的属性和值冲突。要解决此问题，请更改这些变体应用的值。}}"
     },
-    "type_settings.open_type_features.optical_size": {
-        "string": "Optical size"
+    "design_systems.states_panel.variants_are_missing_one_or_more_properties": {
+        "string": "{variants, plural, other {这些变体缺少一个或多个属性。}}"
     },
-    "type_settings.open_type_features.ornaments": {
-        "string": "Ornaments"
+    "design_systems.missing_font_cant_make_changes": {
+        "string": "找不到字体，无法进行更改"
     },
-    "type_settings.open_type_features.italics": {
-        "string": "Italics"
+    "design_systems.missing_font_learn_more": {
+        "string": "了解更多"
     },
-    "type_settings.open_type_features.randomize": {
-        "string": "Randomize"
+    "design_systems.styles.add_new_folder": {
+        "string": "添加新文件夹"
     },
-    "type_settings.open_type_features.dotless_forms": {
-        "string": "Dotless forms"
+    "design_systems.styles.buttons.browse": {
+        "string": "浏览库..."
     },
-    "type_settings.open_type_features.flattened_ascent_forms": {
-        "string": "Flattened ascent forms"
+    "design_systems.styles.clear_overrides_over_text_style": {
+        "string": "重新应用文本样式"
     },
-    "type_settings.open_type_features.mathematical_greek": {
-        "string": "Mathematical Greek"
+    "design_systems.styles.color_style": {
+        "string": "{numStyles, plural, other {颜色样式}}"
     },
-    "type_settings.open_type_features.math_script_style_alternates": {
-        "string": "Math script style alternates"
+    "design_systems.styles.custom": {
+        "string": "自定义"
     },
-    "type_settings.open_type_features.kerning_pairs": {
-        "string": "Kerning pairs"
+    "design_systems.styles.cut_styles": {
+        "string": "剪切{numStyles, plural, other {{numStyles}个样式}}"
     },
-    "type_settings.open_type_features.full_widths": {
-        "string": "Full widths"
+    "design_systems.styles.delete_styles": {
+        "string": "删除{numStyles, plural, other {{numStyles}个样式}}"
     },
-    "type_settings.open_type_features.half_widths": {
-        "string": "Half widths"
+    "design_systems.styles.detach_style": {
+        "string": "解除样式"
     },
-    "type_settings.open_type_features.alternate_half_widths": {
-        "string": "Alternate half widths"
+    "design_systems.styles.dropdown.effect": {
+        "string": "效果"
     },
-    "type_settings.open_type_features.third_widths": {
-        "string": "Third widths"
+    "design_systems.styles.dropdown.fill": {
+        "string": "填充"
     },
-    "type_settings.open_type_features.quarter_widths": {
-        "string": "Quarter widths"
+    "design_systems.styles.dropdown.grid": {
+        "string": "网格"
     },
-    "type_settings.open_type_features.proportional_widths": {
-        "string": "Proportional widths"
+    "design_systems.styles.dropdown.text": {
+        "string": "文本"
     },
-    "type_settings.open_type_features.justification_alternates": {
-        "string": "Justification alternates"
+    "design_systems.styles.edit_color_style": {
+        "string": "编辑颜色样式"
     },
-    "type_settings.open_type_features.left_bounds": {
-        "string": "Left bounds"
+    "design_systems.styles.edit_effect_style": {
+        "string": "编辑效果样式"
     },
-    "type_settings.open_type_features.optical_bounds": {
-        "string": "Optical bounds"
+    "design_systems.styles.edit_grid_style": {
+        "string": "编辑网格样式"
     },
-    "type_settings.open_type_features.right_bounds": {
-        "string": "Right bounds"
+    "design_systems.styles.edit_style": {
+        "string": "编辑样式"
     },
-    "type_settings.open_type_features.proportional_alternate_widths": {
-        "string": "Proportional alternate widths"
+    "design_systems.styles.edit_text_style": {
+        "string": "编辑文本样式"
     },
-    "type_settings.open_type_features.proportional_kana": {
-        "string": "Proportional kana"
+    "design_systems.styles.effect_style": {
+        "string": "{numStyles, plural, other {效果样式}}"
     },
-    "type_settings.open_type_features.left_to_right_alternates": {
-        "string": "Left-to-right alternates"
+    "design_systems.styles.export_style": {
+        "string": "导出样式"
     },
-    "type_settings.open_type_features.left_to_right_mirrored_forms": {
-        "string": "Left-to-right mirrored forms"
+    "design_systems.styles.fill_color_style": {
+        "string": "填充颜色样式"
     },
-    "type_settings.open_type_features.right_to_left_alternates": {
-        "string": "Right-to-left alternates"
+    "design_systems.styles.go_to_style_definition": {
+        "string": "转到样式定义"
     },
-    "type_settings.open_type_features.right_to_left_mirrored_forms": {
-        "string": "Right-to-left mirrored forms"
+    "design_systems.styles.grid_style": {
+        "string": "{numStyles, plural, other {网格样式}}"
     },
-    "type_settings.open_type_features.above_base_forms": {
-        "string": "Above-base forms"
+    "design_systems.styles.local_styles": {
+        "string": "本地样式"
     },
-    "type_settings.open_type_features.above_base_mark_positioning": {
-        "string": "Above-base mark positioning"
+    "design_systems.styles.no_specified_style": {
+        "string": "没有{kind}。"
     },
-    "type_settings.open_type_features.above_base_substitutions": {
-        "string": "Above-base substitutions"
+    "design_systems.styles.no_styles_match": {
+        "string": "没有匹配此搜索条件的样式。"
     },
-    "type_settings.open_type_features.alternate_vertical_metrics": {
-        "string": "Alternate vertical metrics"
+    "design_systems.styles.paste_styles": {
+        "string": "粘贴{numStyles, plural, other {{numStyles}个样式}}"
     },
-    "type_settings.open_type_features.alternate_vertical_half_metrics": {
-        "string": "Alternate vertical half metrics"
+    "design_systems.styles.properties": {
+        "string": "属性"
     }
 }

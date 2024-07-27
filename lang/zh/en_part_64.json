@@ -1,152 +1,152 @@
 {
-    "community.publishing.playground_file_for_widget": {
-        "string": "Add a playground file to show people how your widget works"
+    "community.search.empty_state_public_plugins": {
+        "string": "没有与{query}匹配的插件"
     },
-    "community.publishing.playground_file_for_plugin": {
-        "string": "Add a playground file to show people how your plugin works"
+    "community.search.empty_state_public_plugins_free": {
+        "string": "没有与{query}匹配的免费插件"
     },
-    "community.publishing.playground_file_add_button": {
-        "string": "Add"
+    "community.search.empty_state_public_plugins_paid": {
+        "string": "没有与{query}匹配的付费插件"
     },
-    "community.publishing.last_published_on_date_time": {
-        "string": "Last published on {dateTime}"
+    "community.search.empty_state_public_widgets": {
+        "string": "没有与{query}匹配的小部件"
     },
-    "community.publishing.drop_or_paste_your_icon_image_here_or_choose_a_file_from_your_computer": {
-        "string": "Drop or paste your icon image here, or {chooseFileLink} from your computer"
+    "community.search.empty_state_public_widgets_free": {
+        "string": "没有与{query}匹配的免费小部件"
     },
-    "community.publishing.choose_a_file": {
-        "string": "choose a file"
+    "community.search.empty_state_public_widgets_paid": {
+        "string": "没有与{query}匹配的付费小部件"
     },
-    "community.publishing.publish_a_new_version": {
-        "string": "Publish a new version"
+    "community.search.no_resources_matching": {
+        "string": "没有与{query}匹配的资源"
     },
-    "community.publishing.submit_a_new_version": {
-        "string": "Submit a new version"
+    "community.search.no_resources_matching_free": {
+        "string": "没有与{query}匹配的免费资源"
     },
-    "community.publishing.resubmit_a_new_version": {
-        "string": "Resubmit a new version"
+    "community.search.no_resources_matching_paid": {
+        "string": "没有与{query}匹配的付费资源"
     },
-    "community.publishing.update_section_label": {
-        "string": "Update"
+    "community.search.placeholder": {
+        "string": "搜索"
     },
-    "community.publishing.whats_changed_in_this_new_version": {
-        "string": "What's changed in this new version?"
+    "community.search.placeholder.search_for_a_resource": {
+        "string": "输入要搜索的资源，如“作品集”"
     },
-    "community.publishing.what_can_users_expect_in_this_current_version": {
-        "string": "What can users expect in this current version?"
+    "community.search.search_community": {
+        "string": "搜索社区"
     },
-    "community.publishing.version_release_notes": {
-        "string": "Release notes"
+    "community.search.search_everything_in_community": {
+        "string": "搜索社区中的所有内容"
     },
-    "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed_reason": {
-        "string": "You’re about to publish as {newProfileName}. You won’t be able publish as {prevProfileName} again until you are granted permission to do so."
+    "community.search.show_all_creators": {
+        "string": "显示所有创作者"
     },
-    "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed": {
-        "string": "{profileName} profile will be removed"
+    "community.search.show_all_search_results": {
+        "string": "显示所有搜索结果"
     },
-    "community.publishing.confirm_change_plugin_profile_modal.cta": {
-        "string": "Continue anyway"
+    "community.shelves.all_collections": {
+        "string": "所有收藏"
     },
-    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.widget": {
-        "string": "You're about to publish as {authorName}. Unless you add them as a member of {orgName} first, {publishers} won't have permission to update this widget going forward."
+    "community.shelves.show_more": {
+        "string": "显示更多"
     },
-    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.plugin": {
-        "string": "You're about to publish as {authorName}. Unless you add them as a member of {orgName} first, {publishers} won't have permission to update this plugin going forward."
+    "community.signed_out_modal.log_in": {
+        "string": "登录"
     },
-    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed": {
-        "string": "Permissions will be removed"
+    "community.signed_out_modal.sign_up": {
+        "string": "注册"
     },
-    "community.publishing.confirm_remove_non_org_publishers_modal.publish_anyway": {
-        "string": "Publish anyway"
+    "community.star_ratings.i_dont_like_it": {
+        "string": "不喜欢"
     },
-    "community.seller.freemium_publishing_temporarily_restricted": {
-        "string": "Updating resources to use the Payments API is currently only enabled for certain resources. Please contact support@figma.com for more information"
+    "community.star_ratings.i_like_it": {
+        "string": "喜欢"
     },
-    "community.seller.publish_disclaimer_for_paid_plugins": {
-        "string": "Payment type can’t be changed after publishing. Also, charging for this resource now means you can't make it free later."
+    "community.star_ratings.i_love_it": {
+        "string": "非常喜欢"
     },
-    "community.seller.price_can_only_be_increased_by_50_percent_once_every_30_days": {
-        "string": "Price can only be increased by 50% once every 30 days."
+    "community.star_ratings.i_really_dont_like_it": {
+        "string": "非常不喜欢"
     },
-    "community.publishing.permissions.org_private_info_text": {
-        "string": "Anyone else who can update this resource, like teammates or other developers."
+    "community.star_ratings.its_okay": {
+        "string": "还行"
     },
-    "community.publishing.people_given_update_permissions_are_not_visible_to_the_public": {
-        "string": "Anyone you invite can publish updates to this resource. Want to credit someone as a creator? Just add their name or handle under {createdByLink}."
+    "community.star_ratings.you_can_rate_this_resource_after_purchasing_and_trying": {
+        "string": "购买并尝试后，你可以对此资源进行评分。"
     },
-    "community.publishing.created_by_link": {
-        "string": "Created by"
+    "community.star_ratings.you_can_rate_this_resource_after_you_try_it_out": {
+        "string": "试用后，你可以对此资源进行评分。"
     },
-    "file_permissions_modal.send_invite": {
-        "string": "Invite"
+    "community.star_ratings.you_need_a_community_profile_to_leave_a_rating": {
+        "string": "留下评分需要社区个人资料。"
     },
-    "community.community": {
-        "string": "Community"
+    "community.tooltip.duplicated_from_community": {
+        "string": "从社区复制"
     },
-    "community.publishing.public_everyone_in_the_world": {
-        "string": "Public: everyone in the world has access"
+    "community.tooltip.is_currently_in_review": {
+        "string": "此社区文件正在审核中"
     },
-    "community.publishing.private_only_people_at_org_entity": {
-        "string": "Private: only people at {orgName} have access"
+    "community.tooltip.this_community_file_is_currently_blocked": {
+        "string": "此社区文件已被阻止"
     },
-    "community.publishing.figma_reviews_all_resources_published_to_community_org_private.widget": {
-        "string": "Figma reviews all widgets published to Community. Your widget will stay privately published to {orgName} until it is approved—after that, it will be published to all Figma users and removed from {orgName}."
+    "community.tooltip.this_community_file_is_currently_unverified": {
+        "string": "此社区文件未验证"
     },
-    "community.publishing.figma_reviews_all_resources_published_to_community_org_private.plugin": {
-        "string": "Figma reviews all plugins published to Community. Your plugin will stay privately published to {orgName} until it is approved—after that, it will be published to all Figma users and removed from {orgName}."
+    "community.tooltip.view_original_in_community": {
+        "string": "查看社区中的原件"
     },
-    "community.publishing.resources_published_to_the_public_will_be_reviewed.widget": {
-        "string": "Widgets published to the public will be reviewed by the Figma team. Once approved, your widget will be available to all Figma users."
+    "community.try.discard_file": {
+        "string": "丢弃文件"
     },
-    "community.publishing.resources_published_to_the_public_will_be_reviewed.plugin": {
-        "string": "Plugins published to the public will be reviewed by the Figma team. Once approved, your plugin will be available to all Figma users."
+    "community.try.externally_restricted": {
+        "string": "组织不允许在外部空间创建新文件。"
     },
-    "community.publishing.publish_to": {
-        "string": "Publish to"
+    "community.try.figjam_disabled_by_admins": {
+        "string": "FigJam已被管理员禁用"
     },
-    "community.publishing.publish_details": {
-        "string": "Details"
+    "community.try.figjam_disabled_by_your_org": {
+        "string": "{orgName}已禁用FigJam"
     },
-    "community.publishing.data_security_tab": {
-        "string": "Data security"
+    "community.try.not_allowed": {
+        "string": "不允许"
     },
-    "community.publishing.permissions_tab": {
-        "string": "Permissions"
+    "community.try.org_private_plugin_request_disabled": {
+        "string": "组织不允许请求私有插件"
     },
-    "community.publishing.publish_plugin": {
-        "string": "Publish plugin"
+    "community.try.org_private_widget_request_disabled": {
+        "string": "组织不允许请求私有小部件"
     },
-    "community.publishing.created_by": {
-        "string": "Created by"
+    "community.try.people_like_this": {
+        "string": "{numPeople}人喜欢"
     },
-    "community.seller.give_yearly_discount": {
-        "string": "Give yearly discount"
+    "community.try.people_use_this": {
+        "string": "{numPeople}人使用"
     },
-    "community.seller.add_percent": {
-        "string": "Add %"
+    "community.try.pick_workspace.approval_pending": {
+        "string": "待批准"
     },
-    "community.seller.percent_discount": {
-        "string": "% discount"
+    "community.try.pick_workspace.cancel": {
+        "string": "取消"
     },
-    "community.publishing.data_security.initial": {
-        "string": "Add details that help users understand {buttonText}"
+    "community.try.pick_workspace.desc": {
+        "string": "社区文件将添加到草稿中。"
     },
-    "community.publishing.data_security.opted_out.approved.widget": {
-        "string": "Once you publish this version, these details will be removed from your widget's Figma Community page."
+    "community.try.pick_workspace.org_doesnt_use_figjam": {
+        "string": "{orgName}不使用FigJam。你可以选择以下外部团队继续试用。"
     },
-    "community.publishing.data_security.opted_out.approved.plugin": {
-        "string": "Once you publish this version, these details will be removed from your plugin's Figma Community page."
+    "community.try.pick_workspace.org_doesnt_use_slides": {
+        "string": "{orgName}不使用Figma Slides。你可以选择以下外部团队继续试用。"
     },
-    "community.publishing.data_security.opted_out.pending_rejected": {
-        "string": "Your submitted answers will be removed from the security self-assessment program."
+    "community.try.pick_workspace.plugin_isnt_allowed_by_org": {
+        "string": "此插件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     },
-    "community.publishing.data_security.ready_to_submit": {
-        "string": "{buttonText} are complete and will be reviewed by Figma."
+    "community.try.pick_workspace.request_approval": {
+        "string": "请求批准"
     },
-    "community.publishing.data_security.number_of_errors": {
-        "string": "{num, plural, one {{num} error} other {{num} errors}}"
+    "community.try.pick_workspace.subtitle": {
+        "string": "新文件将添加到草稿中。"
     },
-    "community.publishing.data_security.pending": {
-        "string": "{buttonText} were submitted and are currently being reviewed by Figma."
+    "community.try.pick_workspace.this_plugin_isnt_allowed_by_org": {
+        "string": "此插件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     }
 }

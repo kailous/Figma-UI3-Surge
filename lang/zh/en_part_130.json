@@ -1,152 +1,152 @@
 {
-    "avatar.tooltip.other_user_handle": {
-        "string": "{handle}{roleName}"
+    "visual_bell.outlines_hide_hidden_layers": {
+        "string": "从轮廓中隐藏隐藏的图层"
     },
-    "collaboration.voice.check_your_microphone_permissions_to_start_chatting": {
-        "string": "Check your microphone permissions to start chatting."
+    "visual_bell.outlines_hide_object_bounds": {
+        "string": "从轮廓中隐藏对象边界"
     },
-    "collaboration.voice.click_to_unmute": {
-        "string": "Click to unmute"
+    "visual_bell.outlines_show_hidden_layers": {
+        "string": "在轮廓中显示隐藏的图层"
     },
-    "collaboration.voice.click_to_mute": {
-        "string": "Click to mute"
+    "visual_bell.outlines_show_object_bounds": {
+        "string": "在轮廓中显示对象边界"
     },
-    "fullscreen.toolbar.mute-audio-button": {
-        "string": "Mute audio"
+    "visual_bell.pixel_preview_disabled": {
+        "string": "像素预览已禁用"
     },
-    "collaboration.voice.start_conversation": {
-        "string": "Start conversation"
+    "visual_bell.pixel_preview_enabled": {
+        "string": "像素预览已启用 ({scaling})"
     },
-    "collaboration.voice.join": {
-        "string": "Join"
+    "visual_bell.render_grid_hidden": {
+        "string": "像素网格已隐藏"
     },
-    "collaboration.voice.join_conversation": {
-        "string": "Join conversation"
+    "visual_bell.render_grid_visible": {
+        "string": "像素网格已显示"
     },
-    "collaboration.voice.audio_has_been_disabled_by_your_organization": {
-        "string": "Audio has been disabled by your organization"
+    "visual_bell.save_as_error": {
+        "string": "无法下载文件，请重试。"
     },
-    "collaboration.voice.to_use_audio_in_this_file_move_it_to_a_team_on_one_of_our_paid_plans": {
-        "string": "To use audio in this file, move it to a team on one of our paid plans."
+    "visual_bell.saving": {
+        "string": "保存中..."
     },
-    "file_browser.file_move.no_suggestions_yet_try_moving_your_files": {
-        "string": "No suggestions yet.{lineBreak}For now, try moving your files into the projects or teams you're most active in."
+    "visual_bell.show_frame_grids_hidden": {
+        "string": "布局网格已隐藏"
     },
-    "file_browser.file_move.modal_header_move_file": {
-        "string": "Move file {fileName}"
+    "visual_bell.show_frame_grids_hide_button": {
+        "string": "隐藏"
     },
-    "file_browser.file_move.no_project_or_team_results_matching_query": {
-        "string": "No project or team results matching"
+    "visual_bell.show_frame_grids_visible": {
+        "string": "布局网格已显示"
     },
-    "file_browser.file_move.drafts": {
-        "string": "Drafts"
+    "visual_bell.show_masks_hidden": {
+        "string": "蒙版轮廓已隐藏"
     },
-    "visual_bell.files_moved_to_folder": {
-        "string": "{fileCount, plural, one {{fileCount} file moved to {folderName}} other {{fileCount} files moved to {folderName}}}"
+    "visual_bell.show_masks_visible": {
+        "string": "蒙版轮廓已显示"
     },
-    "file_browser.file_move.files_can_only_be_moved_within_the_same_organization": {
-        "string": "Files can only be moved within the same organization"
+    "visual_bell.show_outlines_hidden": {
+        "string": "轮廓已隐藏"
     },
-    "file_browser.file_move.search_placeholder": {
-        "string": "Search"
+    "visual_bell.show_outlines_visible": {
+        "string": "轮廓已显示"
     },
-    "file_browser.file_move.no_folders_yet": {
-        "string": "No folders yet"
+    "visual_bell.snap_to_dot_grid_disabled": {
+        "string": "对齐到点网格已禁用"
     },
-    "file_browser.file_move.cant_move_a_file_into_another_file": {
-        "string": "Can’t move to a file into another file"
+    "visual_bell.snap_to_dot_grid_enabled": {
+        "string": "对齐到点网格已启用"
     },
-    "sidebar.starred": {
-        "string": "Starred"
+    "visual_bell.snap_to_geometry_disabled": {
+        "string": "对齐到几何图形已禁用"
     },
-    "file_browser.file_move.file_count": {
-        "string": "{fileCount, plural, one {1 file} other {{fileCount} files}}"
+    "visual_bell.snap_to_geometry_enabled": {
+        "string": "对齐到几何图形已启用"
     },
-    "file_browser.file_move.you_dont_have_edit_access_to_this_project": {
-        "string": "You don’t have edit access to this project"
+    "visual_bell.snap_to_objects_disabled": {
+        "string": "对齐到对象已禁用"
     },
-    "file_browser.file_move.current_location": {
-        "string": "Current location"
+    "visual_bell.snap_to_objects_enabled": {
+        "string": "对齐到对象已启用"
     },
-    "file_browser.file_move.new_team": {
-        "string": "New team"
+    "visual_bell.snap_to_pixel_grid_disabled": {
+        "string": "对齐到像素网格已禁用"
     },
-    "file_browser.file_move.create_team": {
-        "string": "Create team"
+    "visual_bell.snap_to_pixel_grid_enabled": {
+        "string": "对齐到像素网格已启用"
     },
-    "team_creation.create_team": {
-        "string": "Create team"
+    "visual_bell.url_copied_to_your_clipboard": {
+        "string": "URL已复制到剪贴板: \"{url}\""
     },
-    "team_creation.team_name_label": {
-        "string": "Team name"
+    "visual_bell.you_are_now_able_to_make_changes": {
+        "string": "您现在可以进行更改"
     },
-    "team_creation.writer_s_guild_placeholder": {
-        "string": "Ex. Writer's Guild"
+    "whiteboard.starter_kit.standup.title": {
+        "string": "站立会议"
     },
-    "file_browser.file_move.you_dont_have_edit_access_to_this_team": {
-        "string": "You don’t have edit access to this team"
+    "edu.administrator": {
+        "string": "管理员"
     },
-    "file_browser.file_move.new_project": {
-        "string": "New project"
+    "edu.agree_to_policy": {
+        "string": "是的，我同意"
     },
-    "view_selectors.file_browser.feed": {
-        "string": "Feed"
+    "edu.almost_done_everything_look_good": {
+        "string": "快完成了，一切看起来都好吗？"
     },
-    "view_selectors.file_browser.resource_unavailable": {
-        "string": "Resource unavailable"
+    "edu.applied.recieved_your_application": {
+        "string": "已收到您的申请。我们将在24小时内审核，并将通过{email}发送更新和入门指南。"
     },
-    "view_selectors.file_browser.recently_viewed": {
-        "string": "Recents and Sharing"
+    "edu.applied.recieved_your_application_no_email": {
+        "string": "已收到您的申请。我们将在24小时内审核，并将通过电子邮件发送更新和入门指南。"
     },
-    "view_selectors.file_browser.trash": {
-        "string": "Trash"
+    "edu.applied.return_to_page_later": {
+        "string": "如果您没有收到电子邮件，稍后可以返回此页面以查看是否已确认。"
     },
-    "view_selectors.file_browser.deleted_files": {
-        "string": "Deleted files"
+    "edu.applied.you_re_almost_there": {
+        "string": "快到了"
     },
-    "view_selectors.file_browser.create_new_team": {
-        "string": "Create new team"
+    "edu.april": {
+        "string": "四月"
     },
-    "view_selectors.file_browser.add_an_annual_plan": {
-        "string": "Add an annual plan"
+    "edu.are_you_a_student_educator_or_administrator": {
+        "string": "您是学生、教师还是学校管理员？"
     },
-    "view_selectors.file_browser.add_collaborators": {
-        "string": "Add collaborators"
+    "edu.art_graphic_design": {
+        "string": "艺术/图形设计"
     },
-    "view_selectors.file_browser.org_domain_management": {
-        "string": "Org domain management"
+    "edu.august": {
+        "string": "八月"
     },
-    "view_selectors.file_browser.org_admin": {
-        "string": "Org admin"
+    "edu.banner.learn_more": {
+        "string": "了解更多"
     },
-    "view_selectors.file_browser.user": {
-        "string": "User"
+    "edu.banner.move_or_duplicate_files_to_another_location_to_save_your_work": {
+        "string": "请将文件移动或复制到其他位置以保存您的工作内容。"
     },
-    "view_selectors.file_browser.recents_and_sharing": {
-        "string": "Recents and Sharing"
+    "edu.banner.team_is_now_view_only_for_all_members": {
+        "string": "{teamName}现在对所有成员只读。"
     },
-    "view_selectors.file_browser.drafts_to_move": {
-        "string": "Drafts to move"
+    "edu.banner.team_s_education_status_has_expired": {
+        "string": "{teamName}的教育计划已到期"
     },
-    "view_selectors.file_browser.team": {
-        "string": "Team"
+    "edu.banner.to_keep_collaborating_upgrade_team": {
+        "string": "要继续协作，请升级{teamName}或{verify}。"
     },
-    "view_selectors.file_browser.team_admin_console_with_name": {
-        "string": "{adminTeamName} Admin Console"
+    "edu.banner.verify_your_education_status": {
+        "string": "验证您的教育身份"
     },
-    "view_selectors.file_browser.team_admin_console_generic": {
-        "string": "Team Admin Console"
+    "edu.banner.you_can_no_longer_edit_files": {
+        "string": "您不再可以编辑{teamName}的文件。"
     },
-    "view_selectors.file_browser.team_upgrade_with_name": {
-        "string": "Upgrade {teamName}"
+    "edu.banner.your_education_plan_has_expired": {
+        "string": "您的教育计划已到期"
     },
-    "view_selectors.file_browser.team_upgrade_generic": {
-        "string": "Upgrade Team"
+    "edu.banner.your_education_status_is_expiring_soon": {
+        "string": "您的教育身份即将到期"
     },
-    "view_selectors.file_browser.search_results_with_query": {
-        "string": "Search results for ’{query}’"
+    "edu.bootcamp_or_online": {
+        "string": "训练营或在线课程"
     },
-    "view_selectors.file_browser.search_results_generic": {
-        "string": "Search"
+    "edu.by_submitting_this_form_and_using_the_figma_education_plan_you_confirm_that_you_are_at_least_13_years_old": {
+        "string": "提交此表单并使用Figma教育计划即表示您确认自己至少13岁。"
     }
 }

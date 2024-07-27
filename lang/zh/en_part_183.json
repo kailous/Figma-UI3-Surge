@@ -1,152 +1,152 @@
 {
-    "file_permissions_modal.share_as.will_open_in_new_tab": {
-        "string": "Will open in new tab"
+    "fullscreen_actions.focus-mode-component-set-toggle": {
+        "string": "切换多重编辑"
     },
-    "file_permissions_modal.share_as.link_copied": {
-        "string": "Link copied!"
+    "fullscreen_actions.focus-mode-exit": {
+        "string": "退出框架聚焦"
     },
-    "file_permissions_modal.share_as.copy_prototype_link": {
-        "string": "Copy prototype link"
+    "fullscreen_actions.focus-mode-responsive-set": {
+        "string": "切换布局自动聚焦设置模式"
     },
-    "file_permissions_modal.screenshare_to_google_device.open_sessions_disabled": {
-        "string": "Your organization has disabled open sessions, which are required to cast."
+    "fullscreen_actions.focus_next_area": {
+        "string": "聚焦到下一个区域"
     },
-    "file_permissions_modal.screenshare_to_google_device.only_pro_teams": {
-        "string": "To cast, you'll need to upgrade to a paid plan"
+    "fullscreen_actions.focus_previous_area": {
+        "string": "聚焦到上一个区域"
     },
-    "file_permissions_modal.screenshare_to_google_device.only_admins": {
-        "string": "Only the users listed above can cast"
+    "fullscreen_actions.follow_presenter": {
+        "string": "跟随演示者"
     },
-    "file_permissions_modal.screenshare_to_google_device.generic_error": {
-        "string": "Cannot cast to Google Meet device. Please try again later."
+    "fullscreen_actions.force-publish-state-group": {
+        "string": "重新发布所选组件"
     },
-    "file_permissions_modal.screenshare_to_google_device.aria_label": {
-        "string": "Tooltip"
+    "fullscreen_actions.force_merge_branch": {
+        "string": "强制合并分支"
     },
-    "file_permissions_modal.share_as.google_classroom": {
-        "string": "Share to Google Classroom"
+    "fullscreen_actions.force_update_from_main": {
+        "string": "强制从主分支更新"
     },
-    "file_permissions_modal.share_as.more": {
-        "string": "More"
+    "fullscreen_actions.frame-selection": {
+        "string": "框架化选择"
     },
-    "role_row.resend_invite": {
-        "string": "Resend invite"
+    "fullscreen_actions.frame_tool": {
+        "string": "框架工具"
     },
-    "community.plugins.saved": {
-        "string": "Saved"
+    "fullscreen_actions.get_desktop_app": {
+        "string": "获取桌面应用"
     },
-    "community.by_publisher": {
-        "string": "By {publisher}"
+    "fullscreen_actions.group-selection": {
+        "string": "群组选择"
     },
-    "community.profiles.remove_from_saved_plugins": {
-        "string": "Remove from saved plugins"
+    "fullscreen_actions.hide-section": {
+        "string": "隐藏部分"
     },
-    "community.profiles.boosted_by_the_figma_team": {
-        "string": "Boosted by the Figma team"
+    "fullscreen_actions.hide-sibling-layers": {
+        "string": "隐藏其他图层"
     },
-    "community.profiles.fig_pick": {
-        "string": "Fig pick"
+    "fullscreen_actions.hide-sidebar": {
+        "string": "隐藏左侧边栏"
     },
-    "community.profiles.new": {
-        "string": "NEW"
+    "fullscreen_actions.hide_help_ui": {
+        "string": "隐藏帮助UI"
     },
-    "community.profiles.made_in_fig_jam": {
-        "string": "Made in FigJam"
+    "fullscreen_actions.hide_selection": {
+        "string": "隐藏选择"
     },
-    "community.profiles.save_this_plugin_to_give_you_and_figma_a_boost": {
-        "string": "Save this plugin to give you and Figma a boost"
+    "fullscreen_actions.hot_reload_plugin": {
+        "string": "热重载插件"
     },
-    "community.profiles.removed_from_saved_plugins": {
-        "string": "Removed from saved plugins"
+    "fullscreen_actions.ignore_constraints": {
+        "string": "忽略约束"
     },
-    "community.comments.undo": {
-        "string": "Undo"
+    "fullscreen_actions.ignore_constraints_frames_only": {
+        "string": "裁剪（图像）/忽略约束（框架）"
     },
-    "community.profiles.follows_you": {
-        "string": "Follows you"
+    "fullscreen_actions.import": {
+        "string": "导入..."
     },
-    "inline_preview.resize_to_actual_size_visual_bell": {
-        "string": "Resized preview to actual size"
+    "fullscreen_actions.import-from-csv": {
+        "string": "从CSV导入..."
     },
-    "bindings.revert": {
-        "string": "Revert"
+    "fullscreen_actions.insert-component-right-text": {
+        "string": "来自 {name}"
     },
-    "rcs.move_drafts_nudge.edit_with_professional_tools": {
-        "string": "Move this to your projects to be able to edit with all of your Professional team’s tools."
+    "fullscreen_actions.inspect-fragment": {
+        "string": "检查片段"
     },
-    "rcs.move_drafts_nudge.you_re_currently_working_solo_on_a_draft": {
-        "string": "You’re currently working solo on a draft. Move this to your projects so your team can edit the file, organize it, and more."
+    "fullscreen_actions.join-selection": {
+        "string": "合并选择"
     },
-    "rcs.move_drafts_nudge.okay_you_can_move_drafts_and_files_into_team_projects_here_any_time": {
-        "string": "Okay! You can move drafts and files into team projects here any time."
+    "fullscreen_actions.keyboard_shortcuts_panel.component-search": {
+        "string": "组件搜索"
     },
-    "rcs.move_drafts_nudge.ready_to_bring_in_your_team": {
-        "string": "Ready to bring in your team?"
+    "fullscreen_actions.keyboard_shortcuts_panel.insert": {
+        "string": "插入"
     },
-    "rcs.move_drafts_nudge.want_to_get_ideas_from_teammates": {
-        "string": "Want to get ideas from teammates?"
+    "fullscreen_actions.leave_edit_mode": {
+        "string": "完成"
     },
-    "rcs.move_drafts_nudge.want_to_get_ideas_from_user_name": {
-        "string": "Want to get ideas from {userName}?"
+    "fullscreen_actions.line_tool": {
+        "string": "线条工具"
     },
-    "rcs.move_drafts_nudge.drafts_are_great_for_solo_work_but_teammates_can_t_find_or_contribute_to_this_file_move_it_to_team_name_to_let_others_edit": {
-        "string": "Drafts are great for solo work but teammates can’t find or contribute to this file. Move it to {teamName} to let others edit."
+    "fullscreen_actions.link_copied": {
+        "string": "链接已复制"
     },
-    "rcs.move_drafts_nudge.drafts_are_great_for_solo_work_but_teammates_can_t_find_or_contribute_to_this_file_move_it_to_your_team_to_let_others_edit": {
-        "string": "Drafts are great for solo work but teammates can’t find or contribute to this file. Move it to your team project to let others edit."
+    "fullscreen_actions.live-boolean-intersect": {
+        "string": "交叉选择"
     },
-    "rcs.move_drafts_nudge.move_file_to": {
-        "string": "Move file to:"
+    "fullscreen_actions.live-boolean-subtract": {
+        "string": "减去选择"
     },
-    "rcs.move_drafts_nudge.team_project": {
-        "string": "{teamName} / {projectName}"
+    "fullscreen_actions.live-boolean-union": {
+        "string": "联合选择"
     },
-    "rcs.move_drafts_nudge.team_team_name_reached_the_starter_plan_file_limit_of_3_files": {
-        "string": "Team {teamName} reached the starter plan file limit of 3 files."
+    "fullscreen_actions.live-boolean-xor": {
+        "string": "异或选择"
     },
-    "rcs.move_drafts_nudge.now_that_you_ve_moved_this_file_to_projects_your_teammates_can_edit_and_collaborate_with_you": {
-        "string": "Now that you’ve moved this file to projects, your teammates can edit and collaborate with you."
+    "fullscreen_actions.main-component": {
+        "string": "主组件"
     },
-    "rcs.move_drafts_nudge.dismiss": {
-        "string": "Dismiss"
+    "fullscreen_actions.main_menu": {
+        "string": "主菜单"
     },
-    "rcs.move_drafts_nudge.not_now": {
-        "string": "Not now"
+    "fullscreen_actions.manage-plugins": {
+        "string": "管理插件..."
     },
-    "rcs.move_drafts_nudge.when_to_draft_when_to_file_pro_user": {
-        "string": "You’re working on a draft"
+    "fullscreen_actions.manage-widgets": {
+        "string": "管理小部件..."
     },
-    "rcs.move_drafts_nudge.when_to_draft_when_to_file": {
-        "string": "When to draft, when to file"
+    "fullscreen_actions.manage_plugins_in_development": {
+        "string": "管理开发中的插件"
     },
-    "rcs.move_drafts_nudge.move_file": {
-        "string": "Move file"
+    "fullscreen_actions.manage_widgets_in_development": {
+        "string": "管理开发中的小部件"
     },
-    "rcs.move_drafts_nudge.got_it": {
-        "string": "Got it"
+    "fullscreen_actions.mask-selection": {
+        "string": "使用为蒙版"
     },
-    "file_browser.file_move.paywall_team_tooltip": {
-        "string": "Upgrade your team to move this file"
+    "fullscreen_actions.measure_to_selection": {
+        "string": "测量到选择"
     },
-    "rcs.move_drafts_nudge.upgrade_to_continue": {
-        "string": "Upgrade to continue"
+    "fullscreen_actions.minimize-ui": {
+        "string": "最小化UI"
     },
-    "rcs.move_drafts_nudge.cancel": {
-        "string": "Cancel"
+    "fullscreen_actions.missing-plugin": {
+        "string": "{pluginCommand}（运行{pluginName}）"
     },
-    "sidebar.new_design_file": {
-        "string": "New design file"
+    "fullscreen_actions.move-table-column-left": {
+        "string": "向左移动列"
     },
-    "sidebar.need_an_upgrade_to_create": {
-        "string": "Need an upgrade to create"
+    "fullscreen_actions.move-table-column-right": {
+        "string": "向右移动列"
     },
-    "sidebar.new_fig_jam_file": {
-        "string": "New FigJam file"
+    "fullscreen_actions.move-table-row-down": {
+        "string": "向下移动行"
     },
-    "sidebar.disabled_by_your_organization": {
-        "string": "Disabled by your organization"
+    "fullscreen_actions.move-table-row-up": {
+        "string": "向上移动行"
     },
-    "sidebar.new_slides_file": {
-        "string": "New slide deck"
+    "fullscreen_actions.move_down": {
+        "string": "向下移动"
     }
 }

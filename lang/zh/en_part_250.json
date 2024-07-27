@@ -1,152 +1,152 @@
 {
-    "fullscreen.color_management.curator.change_document_color_profile.content": {
-        "string": "Open the menu next to the file name {fileColorProfile}."
+    "file_permissions_modal.share_as.copy_dev_mode_link": {
+        "string": "開発モードへのリンクをコピー"
     },
-    "fullscreen.color_management.curator.file_color_profile": {
-        "string": "> File color profile"
+    "file_permissions_modal.share_as.copy_prototype_link": {
+        "string": "プロトタイプへのリンクをコピー"
     },
-    "whiteboard.mini_home.toggle_button": {
-        "string": "Toggle Sidebar"
+    "file_permissions_modal.share_as.dev_mode.copy_link": {
+        "string": "リンクをコピー"
     },
-    "dev_handoff.vscode.toolbar.back_button": {
-        "string": "Go back to index page"
+    "file_permissions_modal.share_as.dev_mode.learn_more": {
+        "string": "詳細情報"
     },
-    "dev_handoff.copy_link": {
-        "string": "Copy link to this page"
+    "file_permissions_modal.share_as.dev_mode.open_dev_mode": {
+        "string": "開発モードを開く"
     },
-    "dev_handoff.open_in_figma": {
-        "string": "Open in Figma"
+    "file_permissions_modal.share_as.embed": {
+        "string": "埋め込みコードを取得"
     },
-    "figjam_try.timed_tooltip_body": {
-        "string": "You can save this board whenever you’d like (for free!) by creating an account."
+    "file_permissions_modal.share_as.google_classroom": {
+        "string": "Google Classroomに共有"
     },
-    "figjam_try.timed_tooltip_headline": {
-        "string": "24 hours to kick the tires"
+    "file_permissions_modal.share_as.google_device": {
+        "string": "Google Meetデバイスにキャストする"
     },
-    "figjam_try.timed_tooltip_cta": {
-        "string": "Create account"
+    "file_permissions_modal.share_as.google_device.end_now": {
+        "string": "今すぐ終了"
     },
-    "figjam_try.save_board": {
-        "string": "Save board"
+    "file_permissions_modal.share_as.google_device.enter_code": {
+        "string": "キャストの方法"
     },
-    "figjam_try.timer_tooltip_anonymous": {
-        "string": "Create an account to save this board"
+    "file_permissions_modal.share_as.google_device.open_session_countdown": {
+        "string": "{remainingHours, plural, other {オープンセッション終了まで{remainingHours}時間{remainingMinutes}分です。{end_now}}}"
     },
-    "figjam_try.timer_tooltip_logged_in": {
-        "string": "This file will be discarded after a day. (But you can save it if you’d like!)"
+    "file_permissions_modal.share_as.google_device.open_session_ended": {
+        "string": "オープンセッションを終了しました"
     },
-    "fullscreen.toolbar.integ_zoom.beta": {
-        "string": "Beta"
+    "file_permissions_modal.share_as.google_device.reset_code": {
+        "string": "リセット"
     },
-    "dev_handoff.vscode.toolbar.previous_frame": {
-        "string": "Previous frame"
+    "file_permissions_modal.share_as.google_device.screenshare_code.description": {
+        "string": "デバイスでミーティングを開始し、{location}に移動して、このコードを入力します。"
     },
-    "dev_handoff.vscode.toolbar.next_frame": {
-        "string": "Next frame"
+    "file_permissions_modal.share_as.google_device.screenshare_code.description_unique_code": {
+        "string": "デバイスごとに異なるコードが必要です。{reset}ボタンを使って新しいコードを生成するか、10分間待機してください。"
     },
-    "figjam_try.save_modal.headline": {
-        "string": "Confirm?"
+    "file_permissions_modal.share_as.google_device.screenshare_code.location": {
+        "string": "アプリ → Figma → 既存ファイルを結合"
     },
-    "figjam_try.save_modal.new_team": {
-        "string": "Click the button below, and this Figjam board will be saved to your new team."
+    "file_permissions_modal.share_as.link_copied": {
+        "string": "リンクをコピーしました"
     },
-    "figjam_try.save_modal.save_one_team": {
-        "string": "This board can only be saved to one account, but you can still give others access—duplicate the board ({file_duplicate}), or {share} the link."
+    "file_permissions_modal.share_as.more": {
+        "string": "その他"
     },
-    "figjam_try.save_modal.share": {
-        "string": "Share"
+    "file_permissions_modal.share_as.open_prototype_settings": {
+        "string": "プロトタイプの設定を開く"
     },
-    "figjam_try.save_modal.file_duplicates": {
-        "string": "File Name → Duplicate"
+    "file_permissions_modal.share_as.publish": {
+        "string": "コミュニティに公開"
     },
-    "figjam_try.save_modal.cta": {
-        "string": "Save board"
+    "file_permissions_modal.share_as.publish.published": {
+        "string": "コミュニティファイルを更新"
     },
-    "gen1_design_viewer_onboarding.feel_free_to_look_around_and_press_c_to_leave_comments_to_make_changes_request_a_full_design_seat_from_your_admin": {
-        "string": "Feel free to look around, and press {keyboardShortcut} to leave comments. To make changes, request a full Design seat from your admin."
+    "file_permissions_modal.share_as.publish_template": {
+        "string": "テンプレートを公開"
     },
-    "gen1_design_viewer_onboarding.feel_free_to_look_around_and_press_c_to_leave_comments_to_make_changes_ask_to_edit_the_file": {
-        "string": "Feel free to look around, and press {keyboardShortcut} to leave comments. To make changes, ask to edit the file."
+    "file_permissions_modal.share_as.publish_template.published": {
+        "string": "テンプレートを更新"
     },
-    "rcs.figjam_onboarding.invite_others_or_share_this_file_with_a_link_to_jam_with_your_team": {
-        "string": "Invite others or share this file with a link to jam with your team."
+    "file_permissions_modal.share_as.share_a_dev_mode_link": {
+        "string": "開発モードへのリンクを共有"
     },
-    "figjam_onboarding_make_something.brainstorm.fig_jam_s_great_for_brainstorming": {
-        "string": "{boldText} Here’s how it works…"
+    "file_permissions_modal.share_as.share_settings": {
+        "string": "設定を共有"
     },
-    "figjam_onboarding_make_something.brainstorm.fig_jam_s_great_for_brainstorming_prefix": {
-        "string": "FigJam’s great for brainstorming."
+    "file_permissions_modal.share_as.share_this_dev_mode_link": {
+        "string": "この開発モードへのリンクを共有することで、コレボレーターがデザインの検査やコードのコピーをしたり、プラグインを使って有用なツールに接続したりできるようにします。{learnMore}"
     },
-    "figjam_onboarding_make_something.brainstorm.go_on": {
-        "string": "Go on…"
+    "file_permissions_modal.share_as.will_open_in_new_tab": {
+        "string": "新しいタブで開きます"
     },
-    "figjam_onboarding_make_something.brainstorm.sticky_notes_let_you_share_ideas_go_ahead_drag_one_into_the_blue_box_above": {
-        "string": "Sticky notes let you share ideas. Go ahead, {boldText} into the blue box above."
+    "file_permissions_modal.share_in_dev_mode": {
+        "string": "開発モードで共有"
     },
-    "figjam_onboarding_make_something.brainstorm.sticky_notes_let_you_share_ideas_go_ahead_drag_one_into_the_blue_box_above_bold_text": {
-        "string": "drag one"
+    "file_permissions_modal.share_link": {
+        "string": "リンクを共有"
     },
-    "figjam_onboarding_make_something.brainstorm.just_like_that_keep_it_to_one_idea_per_sticky_next_let_s_check_out_stamps": {
-        "string": "Just like that! Keep it to one idea per sticky. Next, let’s check out {boldText}"
+    "file_permissions_modal.share_these_slides": {
+        "string": "これらのスライドを共有"
     },
-    "figjam_onboarding_make_something.brainstorm.just_like_that_keep_it_to_one_idea_per_sticky_next_let_s_check_out_stamps_bold_text": {
-        "string": "stamps…"
+    "file_permissions_modal.share_this_board": {
+        "string": "このボードを共有"
     },
-    "figjam_onboarding_make_something.brainstorm.next": {
-        "string": "Next"
+    "file_permissions_modal.share_this_branch": {
+        "string": "このブランチを共有"
     },
-    "figjam_onboarding_make_something.brainstorm.stamps_are_here_or_press_e_they_re_good_for_voting_go_ahead_stamp_something": {
-        "string": "Stamps are here. They’re good for voting. Go ahead, {boldText}"
+    "file_permissions_modal.share_this_file": {
+        "string": "このファイルを共有"
     },
-    "figjam_onboarding_make_something.brainstorm.stamps_are_here_or_press_e_they_re_good_for_voting_go_ahead_stamp_something_bold_text": {
-        "string": "stamp something!"
+    "file_permissions_modal.share_this_prototype": {
+        "string": "このプロトタイプを共有"
     },
-    "figjam_onboarding_make_something.brainstorm.lovely_just_one_more_thing": {
-        "string": "{boldText} Just one more thing…"
+    "file_permissions_modal.share_to_selection_no_name": {
+        "string": "選択範囲まで共有"
     },
-    "figjam_onboarding_make_something.brainstorm.lovely_just_one_more_thing_bold_text": {
-        "string": "Lovely!"
+    "file_permissions_modal.share_to_selection_selection_name": {
+        "string": "選択範囲「{selectionName}」まで共有"
     },
-    "figjam_onboarding_make_something.brainstorm.use_the_timer_to_keep_things_moving": {
-        "string": "Use the {boldText} to keep things moving."
+    "file_permissions_modal.tab.publish": {
+        "string": "公開"
     },
-    "figjam_onboarding_make_something.brainstorm.use_the_timer_to_keep_things_moving_bold_text": {
-        "string": "timer"
+    "file_permissions_modal.viewer_permission_changed": {
+        "string": "閲覧者権限が変更されました"
     },
-    "figjam_onboarding_make_something.brainstorm.when_you_re_ready": {
-        "string": "When you’re ready…"
+    "file_permissions_modal.who_has_access": {
+        "string": "アクセス権を持つユーザー"
     },
-    "figjam_onboarding_make_something.brainstorm.start_a_brainstorm_by_inviting_a_few_people_here_that_s_it": {
-        "string": "Start a brainstorm by inviting a few people here. That’s it!"
+    "folder_access_row.anyone_in_container_can_edit_this_project": {
+        "string": "{containerName}の誰でもこのプロジェクトを編集できます"
     },
-    "figjam_onboarding_make_something.brainstorm.share_board": {
-        "string": "Share board"
+    "folder_access_row.anyone_in_container_can_view_this_project": {
+        "string": "{containerName}の誰でもこのプロジェクトを閲覧できます"
     },
-    "figjam_onboarding_make_something.planning_ahead.fig_jam_s_great_for_planning_ahead_here_s_how_it_s_done": {
-        "string": "{boldText} Here’s how it’s done."
+    "folder_access_row.anyone_in_project_name": {
+        "string": "{projectName}の全員"
     },
-    "figjam_onboarding_make_something.planning_ahead.fig_jam_s_great_for_planning_ahead_here_s_how_it_s_done_bold_text": {
-        "string": "FigJam’s great for planning ahead."
+    "folder_access_row.enable_team_access": {
+        "string": "チームアクセスを有効にする"
     },
-    "figjam_onboarding_make_something.planning_ahead.start_with_a_simple_timeline_with_a_row_for_each_member_of_your_team": {
-        "string": "Start with a simple timeline, with a row for each member of your team."
+    "folder_access_row.everyone_at_team_name_can_access_this_project": {
+        "string": "{teamName}のすべてのメンバーがこのプロジェクトにアクセスできます。"
     },
-    "figjam_onboarding_make_something.planning_ahead.type_your_name_here_right_at_the_top": {
-        "string": "{boldText}, right at the top."
+    "folder_access_row.everyone_at_this_team_can_access_this_project": {
+        "string": "このチームのすべてのメンバーがこのプロジェクトにアクセスできます。"
     },
-    "figjam_onboarding_make_something.planning_ahead.type_your_name_here_right_at_the_top_bold_text": {
-        "string": "Type your name here"
+    "folder_access_row.give_access": {
+        "string": "アクセスを許可"
     },
-    "figjam_onboarding_make_something.planning_ahead.what_are_you_working_on_this_month_rename_this_block_to_your_current_project": {
-        "string": "What are you working on this month? {boldText} to your current project."
+    "folder_access_row.invite_only_members_of_team_name_cannot_access": {
+        "string": "招待限定 – {teamName}のメンバーはアクセスできません。"
     },
-    "figjam_onboarding_make_something.planning_ahead.what_are_you_working_on_this_month_rename_this_block_to_your_current_project_bold_text": {
-        "string": "Rename this block"
+    "folder_access_row.invite_only_members_of_this_team_cannot_access": {
+        "string": "招待限定 – このチームのメンバーはアクセスできません。"
     },
-    "figjam_onboarding_make_something.planning_ahead.you_can_resize_blocks_by_dragging_their_ends": {
-        "string": "You can resize blocks by dragging their ends…"
+    "folder_access_row.members_of_team_name": {
+        "string": "{teamName}のメンバー"
     },
-    "figjam_onboarding_make_something.planning_ahead.and_grab_more_shapes_as_needed_from_your_toolbar": {
-        "string": "…and grab more shapes as needed from your toolbar."
+    "folder_access_row.members_of_this_team": {
+        "string": "このチームのメンバー"
     }
 }

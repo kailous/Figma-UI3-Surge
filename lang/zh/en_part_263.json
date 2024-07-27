@@ -1,152 +1,152 @@
 {
-    "first_draft.detect_via_prompt": {
-        "string": "Detect via prompt"
+    "promo.promo_review.cancel": {
+        "string": "キャンセル"
     },
-    "first_draft.current_file": {
-        "string": "Current file"
+    "promo.promo_review.redeem_your_days_of_free_professional_plan": {
+        "string": "{days, plural, other {{days}日間の無料プロフェッショナルプランを使用する}}"
     },
-    "first_draft.library_placeholder": {
-        "string": "Library"
+    "promo.select_team.choose_teams_to_upgrade": {
+        "string": "アップグレードするチームを選択"
     },
-    "first_draft.kits_loading": {
-        "string": "Loading kits..."
+    "promo.select_team.multi_redeem_w_deadline_promo_str.seat_rename": {
+        "string": "{days, plural, other {数に制限のないファイルとコラボレーターを#日間利用できます。この特典は、すべてのスターターチームに適用できます。この特典は{date, date, ::MMMMd}までにご利用ください。}}"
     },
-    "first_draft.prompts.pricing_page.label": {
-        "string": "Pricing page"
+    "promo.select_team.multi_redeem_without_deadline_promo_str.seat_rename": {
+        "string": "{days, plural, other {数に制限のないファイルとコラボレーターを#日間利用できます。この特典は、すべてのスターターチームに適用できます。}}"
     },
-    "first_draft.prompts.pricing_page.prompt": {
-        "string": "A pricing page for a SaaS app"
+    "promo.select_team.single_redeem_w_deadline_promo_str.seat_rename": {
+        "string": "{days, plural, other {数に制限のないファイルとコラボレーターを#日間利用できます。この特典は、すべてのスターターチームに適用できます。この特典は{date, date, ::MMMMd}までにご利用ください。}}"
     },
-    "first_draft.prompts.sign_in_screen.label": {
-        "string": "Sign-in screen"
+    "promo.select_team.single_redeem_without_deadline_promo_str.seat_rename": {
+        "string": "{days, plural, other {ファイルとコラボレーターの数無制限で#日間利用できます。この特典は、1つのスターターチームに適用できます。}}"
     },
-    "first_draft.prompts.sign_in_screen.prompt": {
-        "string": "A sign-in screen for a social app"
+    "fullscreen.properties_panel.layer_header.node_type_arrow": {
+        "string": "矢印"
     },
-    "first_draft.prompts.blog_post.label": {
-        "string": "Blog post"
+    "fullscreen.properties_panel.layer_header.node_type_ellipse": {
+        "string": "楕円"
     },
-    "first_draft.prompts.blog_post.prompt": {
-        "string": "A blog post about..."
+    "fullscreen.properties_panel.layer_header.node_type_frame": {
+        "string": "フレーム"
     },
-    "first_draft.prompts.portfolio.label": {
-        "string": "Portfolio"
+    "fullscreen.properties_panel.layer_header.node_type_frame_auto_layout": {
+        "string": "オートレイアウトフレーム"
     },
-    "first_draft.prompts.portfolio.prompt": {
-        "string": "A portfolio for a bonsai artisan"
+    "fullscreen.properties_panel.layer_header.node_type_group": {
+        "string": "グループ"
     },
-    "first_draft.prompts.news_site.label": {
-        "string": "News site"
+    "fullscreen.properties_panel.layer_header.node_type_interactive_slide_element": {
+        "string": "インタラクション"
     },
-    "first_draft.prompts.news_site.prompt": {
-        "string": "The front page of a news site"
+    "fullscreen.properties_panel.layer_header.node_type_line": {
+        "string": "直線"
     },
-    "first_draft.prompts.onboarding.label": {
-        "string": "Onboarding"
+    "fullscreen.properties_panel.layer_header.node_type_multiple_selected": {
+        "string": "{count}個選択されました"
     },
-    "first_draft.prompts.onboarding.prompt": {
-        "string": "An onboarding question with 6 options"
+    "fullscreen.properties_panel.layer_header.node_type_polygon": {
+        "string": "多角形"
     },
-    "first_draft.prompts.map_app_mobile.label": {
-        "string": "Map app"
+    "fullscreen.properties_panel.layer_header.node_type_rectangle": {
+        "string": "長方形"
     },
-    "first_draft.prompts.map_app_mobile.prompt": {
-        "string": "A map app, with pins for popular spots"
+    "fullscreen.properties_panel.layer_header.node_type_section": {
+        "string": "選択"
     },
-    "first_draft.prompts.messaging_mobile.label": {
-        "string": "Messaging"
+    "fullscreen.properties_panel.layer_header.node_type_slice": {
+        "string": "スライス"
     },
-    "first_draft.prompts.messaging_mobile.prompt": {
-        "string": "A chat app, with two friends planning a party"
+    "fullscreen.properties_panel.layer_header.node_type_slide": {
+        "string": "スライド{slideNumber}"
     },
-    "first_draft.prompts.profile.label": {
-        "string": "Profile"
+    "fullscreen.properties_panel.layer_header.node_type_star": {
+        "string": "星"
     },
-    "first_draft.prompts.profile_mobile.prompt": {
-        "string": "A profile for a social media app, with..."
+    "fullscreen.properties_panel.layer_header.node_type_text": {
+        "string": "テキスト"
     },
-    "first_draft.prompts.travel_app_mobile.label": {
-        "string": "Travel app"
+    "fullscreen.properties_panel.layer_header.node_type_vector_path": {
+        "string": "ベクターパス"
     },
-    "first_draft.prompts.travel_app_mobile.prompt": {
-        "string": "An app for booking hotels and lodging"
+    "fullscreen.properties_panel.layer_header.reset_submenu": {
+        "string": "リセット"
     },
-    "first_draft.prompts.social_feed_mobile.label": {
-        "string": "Social feed"
+    "fullscreen.properties_panel.section_autoLayout.label_alignment": {
+        "string": "配置"
     },
-    "first_draft.prompts.social_feed_mobile.prompt": {
-        "string": "A social media feed, filled with photos"
+    "fullscreen.properties_panel.section_autoLayout.label_direction": {
+        "string": "方向"
     },
-    "first_draft.prompts.ticketing_app.label": {
-        "string": "Ticketing app"
+    "fullscreen.properties_panel.section_autoLayout.label_direction_and_gap": {
+        "string": "方向+間隔"
     },
-    "first_draft.prompts.ticketing_app.prompt": {
-        "string": "A flight tickets comparison app"
+    "fullscreen.properties_panel.section_autoLayout.label_gap": {
+        "string": "間隔"
     },
-    "first_draft.prompts.ride_sharing_mobile.label": {
-        "string": "Ride sharing"
+    "fullscreen.properties_panel.section_autoLayout.label_padding": {
+        "string": "パディング"
     },
-    "first_draft.prompts.ride_sharing_mobile.prompt": {
-        "string": "Tracking a driver in a ride-sharing app"
+    "fullscreen.properties_panel.section_autoLayout.settings": {
+        "string": "オートレイアウト設定"
     },
-    "first_draft.prompts.to_dos_mobile.label": {
-        "string": "To-dos"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalGap": {
+        "string": "オブジェクトの左右の間隔"
     },
-    "first_draft.prompts.to_dos_mobile.prompt": {
-        "string": "A to-do list app, with tasks for the day"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizing": {
+        "string": "水平方向のサイズ調整"
     },
-    "first_draft.prompts.homepage.label": {
-        "string": "Homepage"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizingMaxW": {
+        "string": "水平方向のサイズ調整+最大幅"
     },
-    "first_draft.prompts.homepage.prompt": {
-        "string": "A homepage for a homey hotel"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizingMinMaxW": {
+        "string": "水平方向のサイズ調整+最小/最大幅"
     },
-    "first_draft.prompts.homepage_2.prompt": {
-        "string": "A homepage for a streaming service"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizingMinW": {
+        "string": "水平方向のサイズ調整+最小幅"
     },
-    "first_draft.prompts.video_player_streaming.label": {
-        "string": "Video player"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_mixedGap": {
+        "string": "オブジェクトの間隔"
     },
-    "first_draft.prompts.video_player_streaming.prompt": {
-        "string": "A video player for a streaming site"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalGap": {
+        "string": "オブジェクトの上下の間隔"
     },
-    "first_draft.prompts.video_page_with_comments.label": {
-        "string": "Video player"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizing": {
+        "string": "垂直方法のサイズ調整"
     },
-    "first_draft.prompts.video_page_with_comments.prompt": {
-        "string": "A video page, with comments"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizingMaxH": {
+        "string": "垂直方向のサイズ調整+最大高さ"
     },
-    "first_draft.prompts.search_results_travel.label": {
-        "string": "Search results"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizingMinH": {
+        "string": "垂直方向のサイズ調整+最小高さ"
     },
-    "first_draft.prompts.search_results_travel.prompt": {
-        "string": "Search results for a travel site"
+    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizingMinMaxH": {
+        "string": "垂直方向のサイズ調整+最小/最大高さ"
     },
-    "first_draft.prompts.social_feed_text_heavy.label": {
-        "string": "Social feed"
+    "fullscreen.properties_panel.section_effects.tooltip_addEffect": {
+        "string": "エフェクトを追加"
     },
-    "first_draft.prompts.social_feed_text_heavy.prompt": {
-        "string": "A text-heavy social media site"
+    "fullscreen.properties_panel.section_exports.tooltip_addExportSettings": {
+        "string": "エクスポート設定を追加"
     },
-    "first_draft.prompts.profile_social_media.prompt": {
-        "string": "A profile for a social media site"
+    "fullscreen.properties_panel.section_fill.tooltip_addFill": {
+        "string": "塗りを追加"
     },
-    "first_draft.prompts.news_article.label": {
-        "string": "News article"
+    "fullscreen.properties_panel.section_stroke.label_endPoint": {
+        "string": "終点"
     },
-    "first_draft.prompts.news_article.prompt": {
-        "string": "A news article, about..."
+    "fullscreen.properties_panel.section_stroke.label_end_cap": {
+        "string": "エンドキャップ"
     },
-    "first_draft.prompts.landing_page.label": {
-        "string": "Landing page"
+    "fullscreen.properties_panel.section_stroke.label_startPoint": {
+        "string": "始点"
     },
-    "first_draft.prompts.landing_page_beauty.prompt": {
-        "string": "A landing page for a beauty brand"
+    "fullscreen.properties_panel.section_stroke.label_weight": {
+        "string": "太さ"
     },
-    "first_draft.prompts.landing_page_tech.prompt": {
-        "string": "A landing page for a friendly tech brand"
+    "fullscreen.properties_panel.section_stroke.tooltip_addStroke": {
+        "string": "線を追加"
     },
-    "first_draft.prompts.marketing_page_football.label": {
-        "string": "Marketing page"
+    "fullscreen.properties_panel.section_stroke.tooltip_addStrokeFill": {
+        "string": "線の塗りを追加"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "payments.payment_not_received": {
-        "string": "Payment not received"
+    "universal_upgrade.currency_switcher.pricing_in_gbp": {
+        "string": "価格(イギリスポンド)"
     },
-    "payments.payment_failed": {
-        "string": "Payment failed"
+    "universal_upgrade.currency_switcher.pricing_in_jpy": {
+        "string": "価格(日本円)"
     },
-    "payments.payment_failed_explanation": {
-        "string": "Our last attempted charge was unsuccessful. Please update your payment method as soon as possible. File editing will be locked after 3 failed attempts."
+    "universal_upgrade.currency_switcher.pricing_in_usd": {
+        "string": "価格(米ドル)"
     },
-    "payments.update_payment": {
-        "string": "Update payment"
+    "universal_upgrade.currency_switcher.short_pricing_in_cad": {
+        "string": "カナダドル"
     },
-    "payments.contact_admin": {
-        "string": "Contact admin to update payment"
+    "universal_upgrade.currency_switcher.short_pricing_in_eur": {
+        "string": "ユーロ"
     },
-    "payments.locked": {
-        "string": "This team is locked."
+    "universal_upgrade.currency_switcher.short_pricing_in_gbp": {
+        "string": "イギリスポンド"
     },
-    "payments.locked_description": {
-        "string": "Please update your payment method to continue editing files in {teamName}."
+    "universal_upgrade.currency_switcher.short_pricing_in_jpy": {
+        "string": "¥ (日本円)"
     },
-    "payments.manage_plan": {
-        "string": "Manage plan"
+    "universal_upgrade.currency_switcher.short_pricing_in_usd": {
+        "string": "$ (米ドル)"
     },
-    "payments.pro_trial.trial_ended_banner_title": {
-        "string": "Your Professional trial has ended."
+    "universal_upgrade.currency_switcher_option.british_pound": {
+        "string": "イギリスポンド"
     },
-    "payments.upgrade_now": {
-        "string": "Upgrade now"
+    "universal_upgrade.currency_switcher_option.cad_dollar": {
+        "string": "カナダドル"
     },
-    "external_collaboration_restricted.banner.restriction_description.no_org": {
-        "string": "You can't edit files from outside your organization (including files in External Teams) due to admin settings. Export files to a different account to keep editing."
+    "universal_upgrade.currency_switcher_option.cad_symbol": {
+        "string": "カナダドル"
     },
-    "banner.edu_grace_period.your_education_plan_has_expired": {
-        "string": "Your Education plan has expired"
+    "universal_upgrade.currency_switcher_option.eur_symbol": {
+        "string": "ユーロ"
     },
-    "banner.edu_grace_period.education_team_members_need_to_verify_their_education_status": {
-        "string": "Education team members need to verify their Education status to keep collaborating together."
+    "universal_upgrade.currency_switcher_option.european_euro": {
+        "string": "欧州ユーロ"
     },
-    "banner.edu_grace_period.team_is_now_view_only_for_all_members": {
-        "string": "{teamName} is now view-only for all members."
+    "universal_upgrade.currency_switcher_option.gbp_symbol": {
+        "string": "イギリスポンド"
     },
-    "banner.edu_grace_period.you_can_no_longer_edit_files_in_team": {
-        "string": "You can no longer edit files in {teamName}."
+    "universal_upgrade.currency_switcher_option.japanese_yen": {
+        "string": "日本円"
     },
-    "banner.edu_grace_period.your_education_plan_has_expired.is_member": {
-        "string": "{teamName}’s Education plan has expired"
+    "universal_upgrade.currency_switcher_option.jpy_symbol": {
+        "string": "¥、日本円"
     },
-    "banner.edu_grace_period.move_or_duplicate_files_to_another_location_to_save_your_work": {
-        "string": "Move or duplicate files to another location to save your work."
+    "universal_upgrade.currency_switcher_option.us_dollar": {
+        "string": "米ドル"
     },
-    "banner.edu_grace_period.only_edu_grace_period_days_left": {
-        "string": "{daysLeft, plural, one {Only {daysLeft} day left to verify that you're a student or educator} other {Only {daysLeft} days left to verify that you're a student or educator}}"
+    "universal_upgrade.currency_switcher_option.usd_symbol": {
+        "string": "$、米ドル"
     },
-    "banner.edu_grace_period.to_keep_collaborating_on_figma_s_education_plan_please_verify_your_status_soon": {
-        "string": "To keep collaborating on Figma's Education plan, please verify your status soon."
+    "universal_upgrade.enterpise_plan_banner.banner_body_text": {
+        "string": "強化されたセキュリティ、会社の規模に応じて拡張可能なデザインプロセスなどに対応しています。"
     },
-    "payments.folder_locked": {
-        "string": "Folder locked"
+    "universal_upgrade.enterpise_plan_banner.banner_header": {
+        "string": "エンタープライズプランについて"
     },
-    "payments.folder_locked_description": {
-        "string": "{projectType} are not available to Starter teams. Upgrade {teamName} to continue editing files in this project."
+    "universal_upgrade.enterpise_plan_banner.contact_sales": {
+        "string": "営業への問い合わせ"
     },
-    "payments.invite_only_projects": {
-        "string": "Invite only projects"
+    "universal_upgrade.select_team.editor_count.seat_rename": {
+        "string": "{editors, plural, other {#人分のシート}}"
     },
-    "payments.view_only_projects": {
-        "string": "View only projects"
+    "universal_upgrade.select_team.files_per_team_figma_files_used": {
+        "string": "{numFreeFilesAllowed}個中{numFilesUsed}個のFigmaファイルが使用されています"
     },
-    "payments.projects_deprecated": {
-        "string": "Projects are no longer supported outside of teams. Please move this project to a team, or move these files to your drafts to continue editing."
+    "universal_upgrade.select_team.upgrade": {
+        "string": "アップグレード"
     },
-    "payments.abandoned_project": {
-        "string": "Abandoned project"
+    "unsaved_changes.disconnected.autosave_disabled": {
+        "string": "このドキュメントには未保存の変更が含まれています。ディスクエラーが発生したため、変更はローカルに保存されませんでした。タブを閉じるとデータが失われます。"
     },
-    "payments.abandoned_project_description": {
-        "string": "To edit or share this project, move it to a team or move individual files to a different project."
+    "unsaved_changes.disconnected.live_updates": {
+        "string": "変更の一部はFigmaが再接続するまで同期されません。"
     },
-    "payments.file_limit_unified": {
-        "string": "{figmaFiles} Figma files and {figjamFiles} FigJam files"
+    "unsaved_changes.disconnected.other": {
+        "string": "オフラインの変更は、オンラインになった後でFigmaと同期されます。"
     },
-    "payments.file_limit_figma": {
-        "string": "{figmaFiles} Figma files"
+    "unsaved_changes.disconnected.server_issues": {
+        "string": "サーバーで問題が発生しています。問題の解決後に変更が同期されます。"
     },
-    "payments.file_limit_figjam": {
-        "string": "{figjamFiles} FigJam files"
+    "unsaved_changes.syncing.access_revoked": {
+        "string": "アクセスが取り消されました"
     },
-    "payments.team_over_starter_team_limit_title": {
-        "string": "You’ve reached the limits of our Starter plan"
+    "unsaved_changes.syncing.app_out_of_date": {
+        "string": "アプリがサーバーに対して古すぎます。Figmaを再読み込みして編集を続行できますが、保存されていない作業は失われます。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[.figファイルとして保存...]を選択します。"
     },
-    "payments.pro_plan_ends_for_team_description": {
-        "string": "To keep using paid features like unlimited team Figma files, projects, and team libraries, purchase the Professional plan for {teamName}."
+    "unsaved_changes.syncing.autosave_disabled": {
+        "string": "ドキュメントを保存中です。ディスクエラーが発生したため、変更はローカルに保存されませんでした。タブを閉じるとデータが失われます。"
     },
-    "payments.pro_plan_ends_button": {
-        "string": "Purchase Professional plan"
+    "unsaved_changes.syncing.changes_cannot_be_saved": {
+        "string": "変更を保存できません"
     },
-    "payments.complete_team_payment_description": {
-        "string": "Your payment isn't complete yet because extra verification is needed. Verify within 24 hours to finish upgrading {teamName}."
+    "unsaved_changes.syncing.experiencing_server_issues": {
+        "string": "サーバーで問題が発生しています。問題の解決後に変更が同期されます。"
     },
-    "payments.complete_team_renewal_payment_description": {
-        "string": "Your payment isn't complete yet because extra verification is needed. Verify to complete your renewal."
+    "unsaved_changes.syncing.figma_was_automatically_updated_to_the_latest_version": {
+        "string": "Figmaは自動的に最新バージョンに更新されました"
     },
-    "payments.complete_payment": {
-        "string": "Complete your payment"
+    "unsaved_changes.syncing.learn_more": {
+        "string": "詳細情報"
     },
-    "file_browser.folder.starter_team_overview": {
-        "string": "Starter team overview"
+    "unsaved_changes.syncing.logged_out": {
+        "string": "ログアウトしました"
     },
-    "team_view.starter_team.num_of_figma_files_user": {
-        "string": "{maxFreeFiles, plural, one {{numFigmaFilesUsed} of {maxFreeFiles} Figma file used} other {{numFigmaFilesUsed} of {maxFreeFiles} Figma files used}}"
+    "unsaved_changes.syncing.other": {
+        "string": "このドキュメントには未保存の変更が含まれています。これらの変更はローカルに保存され、Figmaの再接続時に同期されます。"
     },
-    "team_view.starter_team.num_of_figjam_files_user": {
-        "string": "{maxFreeFiles, plural, one {{numFigjamFilesUsed} of {maxFreeFiles} FigJam file used} other {{numFigjamFilesUsed} of {maxFreeFiles} FigJam files used}}"
+    "unsaved_changes.syncing.server_issues": {
+        "string": "変更を同期中に問題が発生しました。問題の解決後に変更が同期されます。"
     },
-    "file_browser.starter_team.view_plans": {
-        "string": "View plans"
+    "unsaved_changes.syncing.someone_revoked_access_to_the_file_you_had_open_ask_the_owner_for_access_to_open_it_again": {
+        "string": "誰かがあなたが開いていたファイルへのアクセスを取り消しました。オーナーに再度開くためのアクセス権を求めてください。"
     },
-    "file_browser.starter_folder.ready_for_an_upgrade": {
-        "string": "Ready for an upgrade?"
+    "unsaved_changes.syncing.the_main_component_has_been_deleted": {
+        "string": "メインコンポーネントが削除されています。"
     },
-    "file_browser.starter_folder.folder_upgrade_info": {
-        "string": "On a paid plan, you can do so much more. Create unlimited files, organize your work into projects, and build a shared library of components for your team."
+    "unsaved_changes.syncing.the_main_component_has_been_moved_to_moved_to_file": {
+        "string": "メインコンポーネントは{movedToFile}に移動されています。"
     },
-    "team_view.upgrade.pro_trials.title": {
-        "string": "Your team overview"
+    "unsaved_changes.syncing.too_many_people_in_file": {
+        "string": "このファイルを開いている人が多すぎるため、現在、変更を保存できません。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[名前を付けて保存(.fig)…]を選択してください。"
     },
-    "team_view.upgrade.pro_trials.description": {
-        "string": "We’re glad you’re here! Make the most of your Professional trial and all its features and files. You can upgrade any time."
+    "unsaved_changes.syncing.unsaved_not_logged_in": {
+        "string": "Figmaからログアウトしているため、現在、変更を保存できません。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[名前を付けて保存(.fig)…]を選択します。"
     },
-    "team_view.upgrade.pro_trials.upgrade_to_professional_cta": {
-        "string": "Upgrade to Professional"
+    "unsaved_changes.syncing.unsaved_revoked_access": {
+        "string": "このファイルへのアクセス権が取り消されたため、現在変更を保存できません。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[.figファイルとして保存...]を選択します。"
     },
-    "team_view.upgrade.upgrade_your_team": {
-        "string": "Upgrade your team"
+    "unsaved_changes.syncing.updating_the_app": {
+        "string": "アプリを更新しています..."
     },
-    "team_view.upgrade.for_unlimited_files_projects_and_customizable_team_libraries": {
-        "string": " for unlimited files, projects, and customizable team libraries."
+    "unsaved_changes.syncing.we_re_experiencing_issues_opening_this_file_please_try_again_later": {
+        "string": "このファイルを開くときに問題が発生しています。後でもう一度お試しください。"
     },
-    "file_browser.folder.ready_for_an_upgrade": {
-        "string": "Ready for an upgrade?"
+    "unsaved_changes.syncing.you_have_been_converted_to_a_viewer_with_a_hidden_cursor": {
+        "string": "カーソルが非表示の閲覧者に変換されました。"
     },
-    "file_browser.folder.do_more_paid_plan": {
-        "string": "On a paid plan, you can do so much more. Create unlimited files, organize your {lineBreak}work into projects, and build a shared library of components for your team."
+    "unsaved_changes.syncing.you_have_been_logged_out_of_figma": {
+        "string": "Figmaからログアウトしています。もう一度ログインしてください。"
     },
-    "file_browser.folder.view_plans": {
-        "string": "View plans"
+    "unsaved_changes.syncing.your_cursor_has_been_hidden_from_others_users": {
+        "string": "あなたのカーソルは他のユーザーに非表示になっています。"
     },
-    "file_browser.folder.create_a_new_file_to_start_from_scratch_lucid": {
-        "string": "Create a new file to start from scratch. Or, you can import{lineBreak}images, Sketch files, and PDF exports from Lucid, Miro, and Mural."
+    "unsaved_changes.syncing.your_cursor_is_now_visible_to_others_as_someone_is_observing_you": {
+        "string": "誰かがあなたを注目していると、カーソルが他のユーザーに表示されるようになります。"
     }
 }

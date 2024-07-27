@@ -1,152 +1,152 @@
 {
-    "consumption_paywalls.dev_mode_modal_title": {
-        "string": "Inspect designs with Dev Mode"
+    "fig_feed.time_ago_to_container": {
+        "string": "{timeAgo}前に{container}宛"
     },
-    "consumption_paywalls.dev_mode_admin_settings_modal_title": {
-        "string": "Dev Mode, fine-tuned for you"
+    "fig_feed.title_input_placeholder": {
+        "string": "你在做什么工作？"
     },
-    "consumption_paywalls.the_starter_plan_only_comes_with_file_limit_files": {
-        "string": "{file_limit, plural, one {The Starter plan only comes with {file_limit} file, but getting more is easy.} other {The Starter plan only comes with {file_limit} files, but getting more is easy.}}"
+    "fig_feed.too_many_content_items": {
+        "string": "帖子最多可包含{maxNum}个内容项"
     },
-    "consumption_paywalls.team_name_only_comes_with_file_limit_files": {
-        "string": "{file_limit, plural, one {{teamName} only comes with {file_limit} file, but getting more is easy.} other {{teamName} only comes with {file_limit} files, but getting more is easy.}}"
+    "fig_feed.tooltip.posted_to_members_of_container": {
+        "string": "已发布给{containerName}的成员"
     },
-    "consumption_paywalls.the_starter_plan_only_comes_with_project_limit_projects": {
-        "string": "{project_limit, plural, one {The Starter plan only comes with {project_limit} project, but getting more is easy.} other {The Starter plan only comes with {project_limit} projects, but getting more is easy.}}"
+    "fig_feed.transcode_after_submit": {
+        "string": "帖子提交后，视频将转码以供浏览器播放"
     },
-    "consumption_paywalls.team_name_only_comes_with_project_limit_projects": {
-        "string": "{project_limit, plural, one {{teamName} only comes with {project_limit} project, but getting more is easy.} other {{teamName} only comes with {project_limit} projects, but getting more is easy.}}"
+    "fig_feed.unsupported_file_types_were_not_uploaded": {
+        "string": "文件必须是PNG、JPEG、GIF、MP4、WebM或MOV格式。"
     },
-    "consumption_paywalls.upgrade_your_plan_to_get_unlimited_pages_in_all_your_figjam_files": {
-        "string": "Upgrade your plan to get unlimited pages in all your FigJam files."
+    "fig_feed.untitled_post": {
+        "string": "无标题帖子"
     },
-    "consumption_paywalls.the_starter_plan_only_comes_with_page_limit_pages": {
-        "string": "{page_limit, plural, one {The Starter plan only comes with {page_limit} page, but getting more is easy.} other {The Starter plan only comes with {page_limit} pages, but getting more is easy.}}"
+    "fig_feed.update_preview_image": {
+        "string": "更新预览图像"
     },
-    "consumption_paywalls.team_name_only_comes_with_page_limit_pages": {
-        "string": "{page_limit, plural, one {{teamName} only comes with {page_limit} page, but getting more is easy.} other {{teamName} only comes with {page_limit} pages, but getting more is easy.}}"
+    "fig_feed.upload_files": {
+        "string": "上传文件"
     },
-    "consumption_paywalls.upgrade_to_use_voting_description": {
-        "string": "Upgrade your plan to hold votes in FigJam."
+    "fig_feed.video": {
+        "string": "视频"
     },
-    "consumption_paywalls.upgrade_to_have_quick_easy_conversations_right_from_your_file": {
-        "string": "Upgrade to have quick, easy conversations—right from your file."
+    "fig_feed.video_file_size_limit_MB": {
+        "string": "视频文件必须小于{maxFileSizeMB}MB。"
     },
-    "consumption_paywalls.open_session.subtitle": {
-        "string": "Upgrade to let anyone edit your file for 24 hours—even if they don’t have an account."
+    "fig_feed.view_all": {
+        "string": "查看全部"
     },
-    "consumption_paywalls.project_transfer.subtitle": {
-        "string": "Upgrade to transfer your project to another team who can manage it moving forward."
+    "fig_feed.view_post": {
+        "string": "查看帖子"
     },
-    "consumption_paywalls.presentation_sharing.subtitle": {
-        "string": "Upgrade to share slide decks while keeping your file for your eyes only."
+    "fig_feed.youll_lose_your_post_draft": {
+        "string": "您的帖子草稿及其所有内容将被删除。是否继续？"
     },
-    "consumption_paywalls.prototype_sharing.subtitle": {
-        "string": "Upgrade to share prototypes while keeping your file for your eyes only."
+    "fig_feed.your_recent_spaces": {
+        "string": "最近发布的空间"
     },
-    "consumption_paywalls.password_protection.subtitle": {
-        "string": "Upgrade for added security when you share files in Figma."
+    "fig_feed.your_spaces": {
+        "string": "您的空间"
     },
-    "consumption_paywalls.version_history.subtitle": {
-        "string": "Your plan only comes with 30-day version history. Upgrade to view unlimited drafts and edits."
+    "fig_feed.youre_all_caught_up": {
+        "string": "您已全部查看完毕。"
     },
-    "consumption_paywalls.videos_in_prototypes.subtitle": {
-        "string": "Your plan only comes with basic shape fills. Upgrade to add videos."
+    "fig_feed.zoom_pan_preset.actual_size": {
+        "string": "实际大小"
     },
-    "consumption_paywalls.plan_does_not_support_team_libraries": {
-        "string": "Your plan does not support team libraries. Professional lets you share styles, components, and variables."
+    "fig_feed.zoom_pan_preset.custom": {
+        "string": "自定义"
     },
-    "consumption_paywalls.on_your_plan_projects_are_public_to_the_whole_team_professional_lets_you_choose_who_sees_what": {
-        "string": "On your plan, projects are public to the whole team. Professional lets you choose who sees what."
+    "fig_feed.zoom_pan_preset.default": {
+        "string": "默认"
     },
-    "consumption_paywalls.your_plan_only_comes_with_project_limit_projects": {
-        "string": "{project_limit, plural, one {Your plan only comes with {project_limit, number, integer} project, but getting more is easy.} other {Your plan only comes with {project_limit, number, integer} projects, but getting more is easy.}}"
+    "fig_feed.zoom_pan_preset.tooltip": {
+        "string": "设置缩放级别"
     },
-    "consumption_paywalls.your_plan_does_not_support_publishing_library_assets": {
-        "string": "Your plan does not support publishing library assets, but getting access is easy."
+    "collaboration.spotlight.2_0.nudge_spotlight.description": {
+        "string": "在下拉菜单中点击[{spotlightMeButtonText}]，以吸引团队成员的注意。"
     },
-    "consumption_paywalls.you_cannot_create_multiple_actions_with_your_current_plan": {
-        "string": "You cannot create multiple actions with your current plan, but getting access is easy."
+    "collaboration.spotlight.2_0.onboarding_spotlight.description_with_spotlight_arg": {
+        "string": "在下拉菜单中点击[{spotlightMeButtonText}]，以引导团队成员到文件。"
     },
-    "consumption_paywalls.you_cannot_use_variables_in_prototyping_with_your_current_plan": {
-        "string": "You cannot use variables in prototyping with your current plan, but getting access is easy."
+    "collaboration.spotlight.bell.dismiss": {
+        "string": "关闭"
     },
-    "consumption_paywalls.you_cannot_use_conditional_prototyping_with_your_current_plan": {
-        "string": "You cannot use conditional prototyping with your current plan, but getting access is easy."
+    "collaboration.spotlight.bell.explainer": {
+        "string": "所有人都会跟随你"
     },
-    "consumption_paywalls.variables_modes.subtitle_publishing": {
-        "string": "Upgrade to publish variables and create more modes for your team."
+    "collaboration.spotlight.bell.explainer.takeover": {
+        "string": "接管{currentPresenter}的聚光灯"
     },
-    "consumption_paywalls.variables_modes.subtitle_starter": {
-        "string": "Your plan comes with one mode—upgrade to create more."
+    "collaboration.spotlight.bell.follower.follow": {
+        "string": "跟随"
     },
-    "consumption_paywalls.variables_modes.subtitle_pro": {
-        "string": "Upgrade to create more and unlock more team features."
+    "collaboration.spotlight.bell.follower.following_non_presenter": {
+        "string": "正在跟随{observedUserName}"
     },
-    "consumption_paywalls.variables_modes.subtitle_org": {
-        "string": "Upgrade to create up to 40 modes and get access to the variables REST API for more automation."
+    "collaboration.spotlight.bell.follower.nominated": {
+        "string": "{nominatorName}请求关注"
     },
-    "consumption_paywalls.upgrade_plugin_analytics": {
-        "string": "Upgrade to view plugin usage analytics"
+    "collaboration.spotlight.bell.follower.not_now": {
+        "string": "暂不"
     },
-    "consumption_paywalls.upgrade_widget_analytics": {
-        "string": "Upgrade to view widget usage analytics"
+    "collaboration.spotlight.bell.follower.reprompt_spotlight_on_presenter": {
+        "string": "聚光灯在{presenterUserName}上"
     },
-    "consumption_paywalls.shared_fonts.modal_description": {
-        "string": "Upgrade to the Organization plan, and make “missing fonts” a thing of the past."
+    "collaboration.spotlight.bell.follower.spotlight_on_presenter": {
+        "string": "聚光灯在{observedUserName}上"
     },
-    "consumption_paywalls.plan_does_not_support_dev_mode": {
-        "string": "Your plan does not support Dev Mode. Upgrade to get advanced code, inspection and more."
+    "collaboration.spotlight.bell.follower.spotlighting_presenter_alternate_copy": {
+        "string": "正在聚光灯{presenterName}并跟随..."
     },
-    "consumption_paywalls.dev_mode_admin_settings_modal_subtitle": {
-        "string": "On Enterprise, you can customize Dev Mode to fit your organization's needs."
+    "collaboration.spotlight.bell.follower.switching_to_new_presenter": {
+        "string": "切换到新演示者{presenterName}..."
     },
-    "design_systems.preset_libraries.tooltip.figma_provided": {
-        "string": "UI kit provided by Figma"
+    "collaboration.spotlight.bell.presenter.cancel": {
+        "string": "取消"
     },
-    "design_systems.preset_libraries.tooltip.apple_license_link": {
-        "string": "License Agreement for Apple Design Resources"
+    "collaboration.spotlight.bell.presenter.follower_count": {
+        "string": "{followerCount, plural, other {{followerCount}个跟随者}}"
     },
-    "design_systems.preset_libraries.tooltip.figma_partner": {
-        "string": "This creator is a Figma partner"
+    "collaboration.spotlight.bell.presenter.stop": {
+        "string": "停止"
     },
-    "design_systems.preset_libraries.tooltip.apple_license_info_v3": {
-        "string": "UI kit licensed by Apple under {appleLicenseLink}"
+    "collaboration.spotlight.bell.presenter.waiting_for_followers": {
+        "string": "等待跟随者..."
     },
-    "design_systems.preset_libraries.tooltip.google_license_link": {
-        "string": "CC BY 4.0"
+    "collaboration.spotlight.bell.stop": {
+        "string": "停止"
     },
-    "design_systems.preset_libraries.tooltip.google_license_info_v3": {
-        "string": "UI kit licensed by Google under {googleLicenseLink}"
+    "collaboration.spotlight.bell.stop_following": {
+        "string": "停止跟随"
     },
-    "file_browser.file_browser_actions.duplicate_file_error": {
-        "string": "An error occurred while duplicating this file."
+    "collaboration.spotlight.button.stop": {
+        "string": "停止聚光灯"
     },
-    "general.open": {
-        "string": "Open"
+    "collaboration.spotlight.menu.search.placeholder": {
+        "string": "搜索用户..."
     },
-    "user_view.file_duplicated_to_your_drafts": {
-        "string": "File duplicated to your Drafts"
+    "collaboration.spotlight.nudge_spotlight.got_it": {
+        "string": "知道了"
     },
-    "user_view.files_duplicated_to_your_drafts": {
-        "string": "{intArg, number, integer} files duplicated to your Drafts"
+    "collaboration.spotlight.nudge_spotlight.title": {
+        "string": "想要领导会议吗？"
     },
-    "user_view.some_files_duplicated_to_your_drafts": {
-        "string": "Some files duplicated to your Drafts"
+    "collaboration.spotlight.onboarding.done": {
+        "string": "完成"
     },
-    "general.show": {
-        "string": "Show"
+    "collaboration.spotlight.onboarding.next": {
+        "string": "下一个"
     },
-    "user_view.file_duplicated": {
-        "string": "File duplicated"
+    "collaboration.spotlight.onboarding_observation.description": {
+        "string": "点击团队成员的头像以跟踪他们的光标。你可以不用到处移动，只需关注和倾听。"
     },
-    "user_view.files_duplicated": {
-        "string": "{intArg, number, integer} files duplicated"
+    "collaboration.spotlight.onboarding_observation.title": {
+        "string": "无须移动即可跟随"
     },
-    "collaboration.branching.files_deleted_forever": {
-        "string": "Files deleted forever"
+    "collaboration.spotlight.onboarding_spotlight.title": {
+        "string": "使用聚光灯分享"
     },
-    "collaboration.branching.files_deleted": {
-        "string": "Files deleted"
+    "collaboration.spotlight.tooltip.ask_to_spotlight": {
+        "string": "请求聚光灯"
     }
 }

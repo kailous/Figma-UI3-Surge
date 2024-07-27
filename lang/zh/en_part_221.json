@@ -1,152 +1,152 @@
 {
-    "whiteboard.text_sizes.medium": {
-        "string": "Medium"
+    "org_admin_settings.billing.finalize_invoice_modal.subtitle": {
+        "string": "请确认无误"
     },
-    "whiteboard.text_sizes.small": {
-        "string": "Small"
+    "org_admin_settings.billing.finalize_invoice_modal.title.annual": {
+        "string": "确认年度发票"
     },
-    "whiteboard.text_sizes.teensy": {
-        "string": "Teensy"
+    "org_admin_settings.billing.finalize_invoice_modal.title.true_up": {
+        "string": "确认结算发票"
     },
-    "whiteboard.inline_menu.font_size_input": {
-        "string": "Size"
+    "org_admin_settings.billing.invoices": {
+        "string": "发票"
     },
-    "whiteboard.inline_menu.font_size": {
-        "string": "Font size"
+    "org_admin_settings.billing.no_billing_groups_yet": {
+        "string": "尚无账单组"
     },
-    "whiteboard.inline_menu.font_size_label": {
-        "string": "Font size, {currentFontSize}"
+    "org_admin_settings.billing_banner.details.upcoming_invoice": {
+        "string": "下一张发票的发布日期为{date}"
     },
-    "whiteboard.inline_menu.custom_font_size": {
-        "string": "Custom font size"
+    "org_admin_settings.billing_banner.details.upcoming_invoice.not_actionable": {
+        "string": "下一张发票将基于{date}的结算期间生成。"
     },
-    "whiteboard.inline_menu.shape_visibility_visible": {
-        "string": "Fill"
+    "org_admin_settings.billing_banner.finalized_invoice.design_seat_quantity": {
+        "string": "{quantityAdded, plural, other {设计席位: {quantityAdded}}}"
     },
-    "whiteboard.inline_menu.shape_visibility_transparent": {
-        "string": "Transparent"
+    "org_admin_settings.billing_banner.finalized_invoice.dev_mode_seat_quantity": {
+        "string": "{quantityAdded, plural, other {开发模式席位: {quantityAdded}}}"
     },
-    "whiteboard.inline_menu.shape_visibility_hidden": {
-        "string": "No fill"
+    "org_admin_settings.billing_banner.finalized_invoice.figjam_seat_quantity": {
+        "string": "{quantityAdded, plural, other {FigJam席位: {quantityAdded}}}"
     },
-    "whiteboard.inline_menu.text_background": {
-        "string": "Text background"
+    "org_admin_settings.billing_banner_figjam.due_date_message": {
+        "string": "{dueDate}生成的发票。付款截止日期为{pastDueDate}，{differenceDays}天内。{payInvoiceLink}"
     },
-    "whiteboard.no-edit-hidden-section-tooltip": {
-        "string": "Can't edit while hidden"
+    "org_admin_settings.billing_banner_figjam.finalized_renewal.template": {
+        "string": "更新确认：{seatCountsText}。"
     },
-    "whiteboard.inline_menu.color_list_box": {
-        "string": "Change color"
+    "org_admin_settings.billing_banner_figjam.finalized_trueup_invoice.seat_rename.template": {
+        "string": "确认日期{date}的发票：{seatCountsText}。"
     },
-    "fullscreen.context_menu.export_selection": {
-        "string": "Export selection…"
+    "org_admin_settings.billing_banner_figjam.invoice_overdue": {
+        "string": "发票金额：{amount}，付款截止日期：{dueDate}，请尽快支付。{payInvoiceLink}"
     },
-    "fullscreen.context_menu.lock_unlock": {
-        "string": "Lock/Unlock"
+    "org_admin_settings.billing_banner_figjam.pay_invoice": {
+        "string": "支付发票"
     },
-    "fullscreen.context_menu.multiselect": {
-        "string": "Select objects"
+    "org_admin_settings.billing_banner_figjam.you_have_a_credit_amount": {
+        "string": "{accountCredit}信用将用于下一张发票。"
     },
-    "whiteboard.inline_menu.add_connector_text": {
-        "string": "Add text"
+    "org_admin_settings.billing_details.billing_contact_updated": {
+        "string": "账单联系人已更新"
     },
-    "whiteboard.inline_menu.show_hide_author": {
-        "string": "Show/hide author"
+    "org_admin_settings.billing_details.successfully_updated_your_payment_source": {
+        "string": "支付来源已更新。"
     },
-    "whiteboard.code_blocks.css": {
-        "string": "CSS"
+    "org_admin_settings.compliance_center_description": {
+        "string": "管理员可以访问Figma合规中心，查看Figma的合规文档和常见问题解答。"
     },
-    "whiteboard.code_blocks.type_script": {
-        "string": "TypeScript"
+    "org_admin_settings.compliance_center_label": {
+        "string": "合规中心"
     },
-    "whiteboard.code_blocks.c": {
-        "string": "C++"
+    "org_admin_settings.cost_breakdown.12_months": {
+        "string": "12个月"
     },
-    "whiteboard.code_blocks.ruby": {
-        "string": "Ruby"
+    "org_admin_settings.cost_breakdown.annual_subscription": {
+        "string": "年度订阅"
     },
-    "whiteboard.code_blocks.java_script": {
-        "string": "JavaScript"
+    "org_admin_settings.cost_breakdown.cost_breakdown_string_double": {
+        "string": "{cost} × {seats}"
     },
-    "whiteboard.code_blocks.html": {
-        "string": "HTML"
+    "org_admin_settings.cost_breakdown.cost_breakdown_string_triple": {
+        "string": "{cost} × {seats} × {numMonths}"
     },
-    "whiteboard.code_blocks.json": {
-        "string": "JSON"
+    "org_admin_settings.cost_breakdown.date": {
+        "string": "日期"
     },
-    "whiteboard.code_blocks.graph_ql": {
-        "string": "GraphQL"
+    "org_admin_settings.cost_breakdown.description": {
+        "string": "描述"
     },
-    "whiteboard.code_blocks.python": {
-        "string": "Python"
+    "org_admin_settings.cost_breakdown.design_editor_seats.seat_rename": {
+        "string": "设计席位"
     },
-    "whiteboard.code_blocks.go": {
-        "string": "Go"
+    "org_admin_settings.cost_breakdown.design_seats_annual_annual_design_editor_seats.seat_rename": {
+        "string": "{designSeatsAnnual, plural, other {{designSeatsAnnual}个年度设计席位}}"
     },
-    "whiteboard.code_blocks.sql": {
-        "string": "SQL"
+    "org_admin_settings.cost_breakdown.design_seats_monthly_cotermed_design_editor_seats.seat_rename": {
+        "string": "{seatsCotermed, plural, other {{seatsCotermed}个每月设计席位已升级为年度席位}}"
     },
-    "whiteboard.code_blocks.swift": {
-        "string": "Swift"
+    "org_admin_settings.cost_breakdown.design_seats_monthly_monthly_design_editor_seats.seat_rename": {
+        "string": "{designSeatsMonthly, plural, other {{designSeatsMonthly}个每月设计席位}}"
     },
-    "whiteboard.code_blocks.kotlin": {
-        "string": "Kotlin"
+    "org_admin_settings.cost_breakdown.fig_jam_editor_seats.seat_rename": {
+        "string": "FigJam席位"
     },
-    "whiteboard.code_blocks.rust": {
-        "string": "Rust"
+    "org_admin_settings.cost_breakdown.free_for_2021": {
+        "string": "2021年免费"
     },
-    "whiteboard.code_blocks.bash": {
-        "string": "Bash"
+    "org_admin_settings.cost_breakdown.invoices": {
+        "string": "发票"
     },
-    "whiteboard.code_blocks.plaintext": {
-        "string": "Plain Text"
+    "org_admin_settings.cost_breakdown.mmmm_dd_yyyy": {
+        "string": "{date, date, long}"
     },
-    "whiteboard.code_blocks.mixed": {
-        "string": "Mixed"
+    "org_admin_settings.cost_breakdown.overdue": {
+        "string": "逾期"
     },
-    "whiteboard.inline_menu.programming_language_label": {
-        "string": "Programming language, {currentLanguage}"
+    "org_admin_settings.cost_breakdown.paid": {
+        "string": "已支付"
     },
-    "whiteboard.inline_menu.programming_language": {
-        "string": "Programming language"
+    "org_admin_settings.cost_breakdown.pay_invoice": {
+        "string": "支付发票"
     },
-    "whiteboard.inline_menu.connector_start_point": {
-        "string": "Start point"
+    "org_admin_settings.cost_breakdown.quarterly_true_up": {
+        "string": "季度结算"
     },
-    "whiteboard.inline_menu.connector_end_point": {
-        "string": "End point"
+    "org_admin_settings.cost_breakdown.seats": {
+        "string": "{seats, plural, other {{seats}个席位}}"
     },
-    "whiteboard.inline_menu.connector_start_point_selector_label": {
-        "string": "Start point, {currentStartCap}"
+    "org_admin_settings.cost_breakdown.status": {
+        "string": "状态"
     },
-    "whiteboard.inline_menu.connector_end_point_selector_label": {
-        "string": "End point, {currentEndCap}"
+    "org_admin_settings.cost_breakdown.subtotal": {
+        "string": "小计"
     },
-    "whiteboard.connector_caps.solid_arrow": {
-        "string": "Solid arrow"
+    "org_admin_settings.cost_breakdown.total": {
+        "string": "总计"
     },
-    "whiteboard.connector_caps.line_arrow": {
-        "string": "Line arrow"
+    "org_admin_settings.cost_breakdown.unpaid": {
+        "string": "未支付"
     },
-    "whiteboard.connector_caps.triangle": {
-        "string": "Triangle"
+    "org_admin_settings.cost_breakdown.view_invoice": {
+        "string": "查看发票"
     },
-    "whiteboard.connector_caps.diamond": {
-        "string": "Diamond"
+    "org_admin_settings.cost_breakdown.whiteboard_seats_annual_annual_fig_jam_editor_seats.seat_rename": {
+        "string": "{whiteboardSeatsAnnual, plural, other {{whiteboardSeatsAnnual}个年度FigJam席位}}"
     },
-    "whiteboard.connector_caps.circle": {
-        "string": "Circle"
+    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_cotermed_whiteboard_editor_seats.seat_rename": {
+        "string": "{seatsCotermed, plural, other {{seatsCotermed}个每月FigJam席位已升级为年度席位}}"
     },
-    "whiteboard.connector_caps.none": {
-        "string": "None"
+    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_monthly_fig_jam_editor_seats.seat_rename": {
+        "string": "{whiteboardSeatsMonthly, plural, other {{whiteboardSeatsMonthly}个每月FigJam席位}}"
     },
-    "whiteboard.inline_menu.line_shape_selector_label": {
-        "string": "Line shape, {currentLineShape}"
+    "org_admin_settings.enterprise_installer_confirmation": {
+        "string": "下载"
     },
-    "whiteboard.inline_menu.line_shape": {
-        "string": "Line shape"
+    "org_admin_settings.enterprise_installer_description": {
+        "string": "下载Figma的Windows PC安装程序（MSI）"
     },
-    "whiteboard.inline_menu.line_shape_elbowed": {
-        "string": "Elbowed"
+    "org_admin_settings.enterprise_installer_description_mac": {
+        "string": "下载Figma的macOS安装程序（PKG）"
     }
 }

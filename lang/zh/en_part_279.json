@@ -1,152 +1,152 @@
 {
-    "confirm_account_change.remove_figjam_access_description_cant_edit_outside_drafts": {
-        "string": "They can't edit or create FigJam files outside of the Drafts section"
+    "rcs.plan_spaces_onboarding_sequence.switch_between_teams": {
+        "string": "スタータープランとプロフェッショナルプランのすべてのチームをここで見つけることができます。"
     },
-    "confirm_account_change.remove_figjam_access_description_cant_share_new_draft_files": {
-        "string": "They can't share new draft FigJam files"
+    "rcs.playground_file.ready_to_try": {
+        "string": "試しますか?"
     },
-    "confirm_account_change.remove_figjam_access_description_shared_draft_files_no_longer_accessible": {
-        "string": "Any draft FigJam files they've shared before will no longer be accessible to collaborators"
+    "rcs.playground_file.ready_to_try.plugin": {
+        "string": "{readyToTry}ここでプラグインを見つけることができます。"
     },
-    "confirm_account_change.downgrade.dev_mode.description_p2": {
-        "string": "they’ll lose access to Dev Mode and all its features, including:"
+    "rcs.playground_file.ready_to_try.widget": {
+        "string": "{readyToTry}ここからウィジェットを取得します。"
     },
-    "confirm_account_change.remove_edit_access_description_single.seat_rename": {
-        "string": "When you downgrade {userName} to a {viewerRestricted} seat:"
+    "rcs.playground_file.switch_devmode_to_design_description": {
+        "string": "スイッチを使用して、デザインモードと開発モードを切り替えます。"
     },
-    "confirm_account_change.viewer_restricted": {
-        "string": "Viewer-restricted"
+    "rcs.playground_file.switch_devmode_to_design_title": {
+        "string": "このプラグインはデザインモードでも動作します。"
     },
-    "confirm_account_change.remove_edit_access_description_single_no_username.seat_rename": {
-        "string": "When you downgrade this person to a {viewerRestricted} seat:"
+    "rcs.plugin_publish.if_anyone_helped": {
+        "string": "このリソースの開発をヘルプする人がいれば、許可を与えて更新できるようにします。"
     },
-    "confirm_account_change.remove_edit_access_description.seat_rename": {
-        "string": "{numUsers, plural, one {When you downgrade {userName} to a {viewerRestricted} seat:} other {When you downgrade these {numUsers} people to {viewerRestricted} seats:}}"
+    "rcs.plugin_publish.work_with_other_developers": {
+        "string": "他の開発者と作業しますか。"
     },
-    "confirm_account_change.grant_figma_design_access_title.seat_rename": {
-        "string": "{numUsers, plural, one {Upgrade this Figma Design seat?} other {Upgrade these Figma Design seats?}}"
+    "rcs.presets_baseline.try_it": {
+        "string": "使ってみる"
     },
-    "confirm_account_change.grant_figjam_access_title.seat_rename": {
-        "string": "{numUsers, plural, one {Upgrade this FigJam seat?} other {Upgrade these FigJam seats?}}"
+    "rcs.pro_trials_onboarding.audio_subtitle_without_multiple_users": {
+        "string": "チームメートをこのファイルに招待しましょう。"
     },
-    "confirm_account_change.upgrade.dev_mode.title": {
-        "string": "{numUsers, plural, one {Upgrade this Dev Mode seat?} other {Upgrade these Dev Mode seats?}}"
+    "rcs.pro_trials_onboarding.audio_title": {
+        "string": "会話を開始"
     },
-    "confirm_account_change.remove_figma_design_access_title.seat_rename": {
-        "string": "{numUsers, plural, one {Downgrade this Design seat?} other {Downgrade these Design seats?}}"
+    "rcs.pro_trials_onboarding.component_publishing_create_component_icon": {
+        "string": "コンポーネントアイコンを作成"
     },
-    "confirm_account_change.remove_figjam_access_title.seat_rename": {
-        "string": "{numUsers, plural, one {Downgrade this FigJam seat?} other {Downgrade these FigJam seats?}}"
+    "rcs.pro_trials_onboarding.component_publishing_first_instruction_without_components": {
+        "string": "ボタンやアイコンなど、再利用するUIを選択します。"
     },
-    "confirm_account_change.remove_dev_mode_access_title": {
-        "string": "{numUsers, plural, one {Downgrade this Dev Mode seat?} other {Downgrade these Dev Mode seats?}}"
+    "rcs.pro_trials_onboarding.component_publishing_second_instruction_with_components": {
+        "string": "{teamLibraryIcon}アイコンを選択してライブラリパネルを開きます。"
     },
-    "confirm_workspace_change.confirmation_description": {
-        "string": "{numUsers, plural, one {Are you sure you want to move {userName} to {workspaceName}?} other {Are you sure you want to move these {numUsers} people to {workspaceName}?}}"
+    "rcs.pro_trials_onboarding.component_publishing_second_instruction_without_components": {
+        "string": "ツールバー(または{createComponentShortcut})の{createComponentIcon}を選択し、コンポーネントに変えます。"
     },
-    "confirm_workspace_change.confirmation_description_no_username": {
-        "string": "{numUsers, plural, one {Are you sure you want to move this user to {workspaceName}?} other {Are you sure you want to move these {numUsers} people to {workspaceName}?}}"
+    "rcs.pro_trials_onboarding.component_publishing_subtitle_without_components": {
+        "string": "コンポーネントを使用することで、すばやくデザインができ、ファイル間の整合性もとることができます。"
     },
-    "confirm_workspace_change.confirmation_description_with_organization_admin_warning": {
-        "string": "{numUsers, plural, one {Moving {userName} to {workspaceName} will mean that the organization's admins will now manage this person} other {Moving these {numUsers} people to {workspaceName} will mean that the organization's admins will now manage these people}}"
+    "rcs.pro_trials_onboarding.component_publishing_team_library_icon": {
+        "string": "チームライブラリアイコン"
     },
-    "confirm_workspace_change.confirmation_description_with_organization_admin_warning_no_username": {
-        "string": "{numUsers, plural, one {Moving this user to {workspaceName} will mean that the organization's admins will now manage this person} other {Moving these {numUsers} people to {workspaceName} will mean that the organization's admins will now manage these people}}"
+    "rcs.pro_trials_onboarding.component_publishing_third_instruction_with_components": {
+        "string": "現在選択しているファイルで「{publishButtonText}」ボタンをクリックします。"
     },
-    "confirm_billing_group_change.confirmation_description_with_billing_group_admin_warning": {
-        "string": "{numUsers, plural, one {Moving {userName} to {billingGroupName} will mean that the billing group's admins ({listOfBillingGroupAdmins}) will now manage this person} other {Moving these {numUsers} people to {billingGroupName} will mean that the billing group's admins ({listOfBillingGroupAdmins}) will now manage these people}}"
+    "rcs.pro_trials_onboarding.component_publishing_title_with_components": {
+        "string": "コンポーネントを公開する"
     },
-    "confirm_billing_group_change.confirmation_description_with_billing_group_admin_warning_no_username": {
-        "string": "{numUsers, plural, one {Moving this user to {billingGroupName} will mean that the billing group's admins ({listOfBillingGroupAdmins}) will now manage this person} other {Moving these {numUsers} people to {billingGroupName} will mean that the billing group's admins ({listOfBillingGroupAdmins}) will now manage these people}}"
+    "rcs.pro_trials_onboarding.component_publishing_title_without_components": {
+        "string": "コンポーネントの作成と共有"
     },
-    "org_join_request.description_view_file": {
-        "string": "{inviterName} has invited them to view {resourceName}, but they can only access the file if you add them."
+    "rcs.pro_trials_onboarding.open_sessions_subtitle": {
+        "string": "ログアウトしているユーザーとオープンセッションをしてみましょう。"
     },
-    "org_join_request.description_edit_file": {
-        "string": "{inviterName} has invited them to edit {resourceName}, but they can only access the file if you add them."
+    "rcs.pro_trials_onboarding.open_sessions_title": {
+        "string": "みんなとコラボレーション"
     },
-    "org_join_request.description_view_folder": {
-        "string": "{inviterName} has invited them to view {resourceName}, but they can only access the folder if you add them."
+    "rcs.pro_trials_onboarding.password_protection_first_instruction": {
+        "string": "ドロップダウンの設定を「{linkAccessOptionText}」に更新します。"
     },
-    "org_join_request.description_edit_folder": {
-        "string": "{inviterName} has invited them to edit {resourceName}, but they can only access the folder if you add them."
+    "rcs.pro_trials_onboarding.password_protection_second_instruction": {
+        "string": "パスワードを設定します。"
     },
-    "org_join_request.description_view_team": {
-        "string": "{inviterName} has invited them to view {resourceName}, but they can only access the team if you add them."
+    "rcs.pro_trials_onboarding.password_protection_title": {
+        "string": "パスワードを追加"
     },
-    "org_join_request.description_edit_team": {
-        "string": "{inviterName} has invited them to edit {resourceName}, but they can only access the team if you add them."
+    "rcs.pro_trials_onboarding.unlimited_pages_subtitle": {
+        "string": "このファイルに{maxFreePages}ページより多く追加できます。クリックして[ページ]メニューを表示し、[+]を選択します。"
     },
-    "org_join_request.user_deprovisioned_warning": {
-        "string": "Since this user was previously deprovisioned via your organization's identity provider, you must manage their access to Figma from you identity provider"
+    "rcs.pro_trials_onboarding.unlimited_pages_title": {
+        "string": "ファイルを構造化"
     },
-    "org_join_request.description_would_like_to_join": {
-        "string": "{requesterNameAndEmail} would like to join the {orgName} organization."
+    "rcs.pro_trials_onboarding.video_icon": {
+        "string": "画像と動画アイコン"
     },
-    "org_join_request.scim_enabled_banner": {
-        "string": "If you're using an identity provider, go ahead and dismiss this request and add them through your provider."
+    "rcs.pro_trials_onboarding.video_subtitle": {
+        "string": "動画をまとめて追加するには、{imageOrVideoIcon}を選択します(コンピューターからキャンバスに動画をドラッグしても追加できます)。"
     },
-    "org_settings.remove_user_modal.users_and_guests_text": {
-        "string": "{userCount, plural, one {Remove this person from your organization?} other {Remove these users and guests from your organization?}}"
+    "rcs.pro_trials_onboarding.video_title": {
+        "string": "デザインに動画を追加する"
     },
-    "org_settings.remove_user_modal.title.guests_only_text": {
-        "string": "{userCount, plural, one {Remove this guest from your organization?} other {Remove these guests from your organization?}}"
+    "rcs.product_and_template_picker.back": {
+        "string": "戻る"
     },
-    "org_settings.remove_user_modal.title.users_only_text": {
-        "string": "{userCount, plural, one {Remove this user from your organization?} other {Remove these users from your organization?}}"
+    "rcs.product_and_template_picker.brainstorm_diagram_and_collaborate_with_your_team": {
+        "string": "ブレインストーミングと図表作成を一緒に行う"
     },
-    "org_settings.remove_user_modal.button": {
-        "string": "Remove"
+    "rcs.product_and_template_picker.design_prototype_and_handoff_to_developers_all_in_one_tool": {
+        "string": "デザイン、プロトタイプ作成、開発者へのハンドオフ"
     },
-    "org_settings.remove_user_modal.warning_text": {
-        "string": "{userCount, plural, one {Removing {userName} means they'll no longer have access to teams, projects, and files in the {orgName} organization. This can't be undone.} other {Removing these users means they'll no longer have access to teams, projects, and files in the {orgName} organization. This can't be undone. }}"
+    "rcs.product_and_template_picker.design_with_figma": {
+        "string": "Figmaでデザイン"
     },
-    "org_settings.remove_user_modal.warning_no_username_text": {
-        "string": "{userCount, plural, one {Removing this user means they'll no longer have access to teams, projects, and files in the {orgName} organization. This can't be undone.} other {Removing these users means they'll no longer have access to teams, projects, and files in the {orgName} organization. This can't be undone. }}"
+    "rcs.product_and_template_picker.get_inspired": {
+        "string": "さまざまなアイデアを得てください"
     },
-    "org_settings.remove_user_modal.confirmation_checkbox_text": {
-        "string": "I understand that this action can't be undone"
+    "rcs.product_and_template_picker.get_inspired_by_browsing_resources_in_community": {
+        "string": "コミュニティのリソースを参照して、{getInspired}"
     },
-    "confirm_account_change.account_type_successfully_updated.seat_rename": {
-        "string": "{numUsers, plural, one {{numUsers} person's seat successfully updated} other {{numUsers} peoples' seats successfully updated}}"
+    "rcs.product_and_template_picker.i_ll_get_started_on_my_own": {
+        "string": "テンプレートを使用しない"
     },
-    "confirm_account_change.grant_edit_access_link.seat_rename": {
-        "string": "Learn more about paid seats"
+    "rcs.product_and_template_picker.new_user_whiteboard_filename": {
+        "string": "FigJamへようこそ"
     },
-    "confirm_account_change.grant_edit_access_confirm_text": {
-        "string": "Upgrade"
+    "rcs.product_and_template_picker.save_time_with_ready_made_templates": {
+        "string": "既製のテンプレートを使って時間を節約"
     },
-    "confirm_account_change.remove_edit_access_confirm_text": {
-        "string": "Downgrade"
+    "rcs.product_and_template_picker.start_from_presets_and_templates": {
+        "string": "プリセットとテンプレートを使って始める"
     },
-    "confirm_billing_group_change.success_message": {
-        "string": "{numUsers, plural, one {{numUsers} person's billing group successfully updated} other {{numUsers} peoples' billing group successfully updated}}"
+    "rcs.product_and_template_picker.start_from_presets_or_templates_from_our_community": {
+        "string": "コミュニティのプリセットとテンプレートから始めましょう"
     },
-    "confirm_workspace_change.unassigned": {
-        "string": "Unassigned"
+    "rcs.product_and_template_picker.start_from_templates_made_by_figma_and_our_community": {
+        "string": "Figmaとコミュニティが作成したテンプレートから始めましょう"
     },
-    "confirm_billing_group_change.title": {
-        "string": "Change billing group?"
+    "rcs.product_and_template_picker.we_can_help_you_get_started_faster": {
+        "string": "テンプレートを使って今すぐ始めましょう"
     },
-    "confirm_billing_group_change.confirm_button": {
-        "string": "Change billing group"
+    "rcs.product_and_template_picker.what_would_you_like_to_do_first": {
+        "string": "まずどちらの作業を行いますか?"
     },
-    "org_join_request.generic_fetch_error": {
-        "string": "An error occurred while fetching the org join request"
+    "rcs.product_and_template_picker.whiteboard_in_fig_jam": {
+        "string": "FigJamのホワイトボード"
     },
-    "org_join_request.request_approved_message": {
-        "string": "{requesterName} has been added to your organization"
+    "rcs.promo_new_team_create_pointer.first_create_a_team": {
+        "string": "まず、チームを作成しましょう"
     },
-    "org_join_request.approve_error": {
-        "string": "An error occurred while approving the org join request"
+    "rcs.promo_new_team_create_pointer.to_get_professional_free_for_days_you_ll_need_to_set_up_a_new_team_first_it_ll_take_less_than_a_minute": {
+        "string": "{days, plural, other {{days}日間の無料のプロフェッショナルを取得するには、まず、新しいチームを設定する必要があります。これには、1分もかかりません。}}"
     },
-    "org_join_request.modal_title": {
-        "string": "Add {requesterName} to your organization?"
+    "rcs.rcs_shared.done": {
+        "string": "完了"
     },
-    "org_join_request.deprovisioned_confirmation_button_text": {
-        "string": "Got it"
+    "rcs.rcs_shared.learn_more": {
+        "string": "詳細情報"
     },
-    "org_join_request.add_to_org_confirmation_button_text": {
-        "string": "Add to organization"
+    "rcs.rcs_shared.next": {
+        "string": "次へ"
     }
 }

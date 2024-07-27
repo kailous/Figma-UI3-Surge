@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.set-tool-shape-slides-triangle-down": {
-        "string": "Triangle (Down)"
+    "google_device_try_file_modal.got_mail.email_not_received.send_again": {
+        "string": "重新发送"
     },
-    "fullscreen_actions.set-tool-shape-slides-triangle-up": {
-        "string": "Triangle (Up)"
+    "google_device_try_file_modal.got_mail.wrong_address": {
+        "string": "如果地址有误，请{use_different_email_link}"
     },
-    "fullscreen_actions.set-tool-sites-layout-set": {
-        "string": "Webpage"
+    "google_device_try_file_modal.got_mail.wrong_address.use_different_email": {
+        "string": "使用其他邮箱"
     },
-    "fullscreen_actions.show-inspect-panel": {
-        "string": "Open inspect panel"
+    "google_device_try_file_modal.onboarding_disclaimer_privacy_policy": {
+        "string": "隐私政策"
     },
-    "fullscreen_actions.show-section": {
-        "string": "Show section"
+    "google_device_try_file_modal.onboarding_disclaimer_tos": {
+        "string": "服务条款"
     },
-    "fullscreen_actions.show-sidebar": {
-        "string": "Show left sidebar"
+    "google_device_try_file_modal.resent_email.email_resent": {
+        "string": "已重新发送邮件！"
     },
-    "fullscreen_actions.slides-speaker-notes-placeholder": {
-        "string": "Add presenter notes…"
+    "google_device_try_file_modal.resent_email.visual_bell": {
+        "string": "邮件已重新发送"
     },
-    "fullscreen_actions.suggested-actions": {
-        "string": "Suggestions"
+    "hardware_acceleration_detector.message": {
+        "string": "启用硬件加速以提升性能"
     },
-    "fullscreen_actions.tab": {
-        "string": "Tab"
+    "hardware_acceleration_detector.learn_more": {
+        "string": "了解更多"
     },
-    "fullscreen_actions.to_edit": {
-        "string": "to edit"
+    "help_on_hover.add_a_text_box": {
+        "string": "添加文本框。"
     },
-    "fullscreen_actions.toggle-show-all-layers": {
-        "string": "Show all layers"
+    "help_on_hover.add_images_or_video_to_your_design": {
+        "string": "将图片或视频添加到设计中。"
     },
-    "fullscreen_actions.toggle-show-figjam-halloween-features": {
-        "string": "Show FigJam halloween features"
+    "help_on_hover.draw_arrows_between_two_points": {
+        "string": "在两点之间画箭头。"
     },
-    "fullscreen_actions.toggle-show-figjam-halloween-features-off": {
-        "string": "Back to normal"
+    "help_on_hover.draw_containers_to_hold_designs": {
+        "string": "绘制用于存放设计的容器。"
     },
-    "fullscreen_actions.toggle-show-figjam-halloween-features-on": {
-        "string": "Trick or treat!"
+    "help_on_hover.draw_freehand_sketches": {
+        "string": "自由手绘草图。"
     },
-    "fullscreen_actions.toggle-show-floating-layers": {
-        "string": "Show/hide floating layers"
+    "help_on_hover.draw_lines_between_two_points": {
+        "string": "在两点之间画直线。"
     },
-    "whiteboard.cursor_chat.say_something": {
-        "string": "Say something"
+    "help_on_hover.draw_vector_shapes_and_paths": {
+        "string": "绘制矢量形状和路径。"
     },
-    "fullscreen.properties_panel.align_panel.more_options": {
-        "string": "More options"
+    "help_on_hover.draw_vector_shapes_like_rectangles_circles_and_more": {
+        "string": "绘制矩形、圆形和其他矢量形状。"
     },
-    "inspect_panel.interactions.return_to_node": {
-        "string": "`Return to {previous}`"
+    "help_on_hover.export_a_specific_part_of_your_design": {
+        "string": "导出设计的特定部分。"
     },
-    "inspect_panel.interactions.delay": {
-        "string": "Delay"
+    "help_on_hover.group_related_designs_to_organize_your_canvas_for_collaborators": {
+        "string": "将相关设计分组，以便为协作者整理画布。"
     },
-    "inspect_panel.interactions.trigger": {
-        "string": "Trigger"
+    "help_on_hover.leave_notes_or_tag_collaborators": {
+        "string": "留下笔记或标记协作者。"
     },
-    "inspect_panel.interactions.phrase": {
-        "string": "Phrase"
+    "help_on_hover.navigate_the_canvas": {
+        "string": "浏览画布。"
     },
-    "inspect_panel.interactions.animate": {
-        "string": "Animate"
+    "help_on_hover.proportionally_resize_objects": {
+        "string": "按比例调整对象的大小。"
     },
-    "inspect_panel.interactions.curve": {
-        "string": "Curve"
+    "help_on_hover.run_plugins_and_widgets_or_add_components_from_libraries": {
+        "string": "运行插件和小部件，或从库中添加组件。"
     },
-    "inspect_panel.interactions.duration": {
-        "string": "Duration"
+    "help_on_hover.select_and_move_objects": {
+        "string": "选择并移动对象。"
     },
-    "inspect_panel.interactions.mass": {
-        "string": "Mass"
+    "help_widget.collective_upsells.fullscreen.advanced_prototyping": {
+        "string": "高级原型设计"
     },
-    "inspect_panel.interactions.stiffness": {
-        "string": "Stiffness"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.description": {
+        "string": "使用if/then语句进一步定制流程。"
     },
-    "inspect_panel.interactions.damping": {
-        "string": "Damping"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.title": {
+        "string": "条件动作"
     },
-    "inspect_panel.interactions.title": {
-        "string": "Interactions"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.description": {
+        "string": "生成动态数值或字符串值。"
     },
-    "inspect_panel.property.missing": {
-        "string": "(missing)"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.title": {
+        "string": "表达式"
     },
-    "inspect_panel.code.background": {
-        "string": "Background"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.description": {
+        "string": "在单一路径上设置多个动作。"
     },
-    "inspect_panel.instance.title": {
-        "string": "Instance"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.title": {
+        "string": "多重动作"
     },
-    "inspect_panel.code.go_to_main_component": {
-        "string": "Go to main component"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.description": {
+        "string": "添加视频以增强表达力和真实感。"
     },
-    "inspect_panel.code.css": {
-        "string": "CSS"
+    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.title": {
+        "string": "原型中的视频"
     },
-    "inspect_panel.code.android": {
-        "string": "Android"
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.description": {
+        "string": "可以直接在文件内讨论工作。"
     },
-    "inspect_panel.code.i_os": {
-        "string": "iOS"
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.title": {
+        "string": "语音对话"
     },
-    "inspect_panel.code.table": {
-        "string": "Table"
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.description": {
+        "string": "可以邀请任何人加入白板，无需登录。"
     },
-    "inspect_panel.code.x": {
-        "string": "X"
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.title": {
+        "string": "FigJam开放会议"
     },
-    "inspect_panel.code.y": {
-        "string": "Y"
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.description": {
+        "string": "帮助在FigJam白板内达成共识。"
     },
-    "inspect_panel.code.w": {
-        "string": "W"
+    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.title": {
+        "string": "投票"
     },
-    "inspect_panel.code.h": {
-        "string": "H"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.description": {
+        "string": "使用公开文件和受保护文件来控制可见性。"
     },
-    "inspect_panel.code.top_left_radius": {
-        "string": "Top left radius"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.title": {
+        "string": "密码保护"
     },
-    "inspect_panel.code.top_right_radius": {
-        "string": "Top right radius"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.description": {
+        "string": "创建仅限受邀的私人协作空间。"
     },
-    "inspect_panel.code.bottom_right_radius": {
-        "string": "Bottom right radius"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.title": {
+        "string": "私人项目"
     },
-    "inspect_panel.code.bottom_left_radius": {
-        "string": "Bottom left radius"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.description": {
+        "string": "将项目移交给新成员或新团队。"
     },
-    "inspect_panel.code.corner_radius": {
-        "string": "Corner radius"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.title": {
+        "string": "项目转移"
     },
-    "inspect_panel.code.rotation": {
-        "string": "Rotation"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.description": {
+        "string": "仅分享原型，不共享底层设计文件。"
     },
-    "inspect_panel.code.overflow": {
-        "string": "Overflow"
+    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.title": {
+        "string": "仅分享原型"
     },
-    "inspect_panel.code.x_constraint": {
-        "string": "X constraint"
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.description": {
+        "string": "在文件间快速重复使用组件和样式。"
     },
-    "inspect_panel.code.y_constraint": {
-        "string": "Y constraint"
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.title": {
+        "string": "组件库"
     },
-    "inspect_panel.code.font_family": {
-        "string": "Font family"
+    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variable_modes.description": {
+        "string": "根据不同上下文更改设计。"
     }
 }

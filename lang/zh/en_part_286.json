@@ -1,152 +1,152 @@
 {
-    "activity_log.filter.file_published_updated_deleted": {
-        "string": "File published/updated/deleted"
+    "search.sidebar_search_placeholder": {
+        "string": "検索"
     },
-    "activity_log.filter.plugin_published_updated_deleted": {
-        "string": "Plugin published/updated/deleted"
+    "search.sort_option.created_at": {
+        "string": "作成日時"
     },
-    "activity_log.filter.widget_published_updated_deleted": {
-        "string": "Widget published/updated/deleted"
+    "search.sort_option.creator": {
+        "string": "作成者"
     },
-    "activity_log.filter.private_plugins": {
-        "string": "Private plugins"
+    "search.sort_option.email": {
+        "string": "メール"
     },
-    "activity_log.filter.plugin_published": {
-        "string": "Plugin published"
+    "search.sort_option.last_active_at": {
+        "string": "最後にアクティブだった時点"
     },
-    "activity_log.filter.plugin_updated": {
-        "string": "Plugin updated"
+    "search.sort_option.last_updated": {
+        "string": "最終更新"
     },
-    "activity_log.filter.plugin_deleted": {
-        "string": "Plugin deleted"
+    "search.sort_option.members": {
+        "string": "メンバー"
     },
-    "activity_log.filter.plugin_management": {
-        "string": "Plugin management"
+    "search.sort_option.name": {
+        "string": "名前"
     },
-    "activity_log.filter.plugin_approve_list_setting_changed": {
-        "string": "Plugin approval settings changed"
+    "search.sort_option.name_grid": {
+        "string": "名前(グリッド)"
     },
-    "activity_log.filter.plugin_approve_list_requested": {
-        "string": "Plugins requested"
+    "search.sort_option.name_list": {
+        "string": "名前(リスト)"
     },
-    "activity_log.filter.approve_list_plugins_reviewed": {
-        "string": "Plugins reviewed"
+    "search.sort_option.owner": {
+        "string": "オーナー"
     },
-    "activity_log.filter.install_plugins_org_wide": {
-        "string": "Install plugins org-wide"
+    "search.sort_option.relevance": {
+        "string": "関連度"
     },
-    "activity_log.filter.plugin_publishers": {
-        "string": "Plugin publishers"
+    "search.sort_option.relevancy": {
+        "string": "関連度"
     },
-    "activity_log.filter.plugin_publisher_accept_remove_invite": {
-        "string": "Plugin publisher accept/remove invite"
+    "search.sort_option.saves": {
+        "string": "保存数"
     },
-    "activity_log.filter.plugin_publisher_invite": {
-        "string": "Plugin publisher invite"
+    "search.sort_option.touched_at": {
+        "string": "最終変更"
     },
-    "activity_log.filter.plugin_publisher_remove": {
-        "string": "Plugin publisher remove"
+    "search.sort_option.used_by": {
+        "string": "使用者"
     },
-    "activity_log.filter.plugin_ownership_transfer": {
-        "string": "Plugin ownership transfer"
+    "search.user_view.last_active": {
+        "string": "直前のアクティブな{relativeTimeString}"
     },
-    "activity_log.filter.private_widgets": {
-        "string": "Private widgets"
+    "search.user_view.not_active_yet": {
+        "string": "まだアクティブではありません"
     },
-    "activity_log.filter.widget_published": {
-        "string": "Widget published"
+    "search.zero_state.empty_state": {
+        "string": "結果が見つかりません。フィルターを削除してみてください"
     },
-    "activity_log.filter.widget_updated": {
-        "string": "Widget updated"
+    "sessions.column.created": {
+        "string": "作成日時"
     },
-    "activity_log.filter.widget_deleted": {
-        "string": "Widget deleted"
+    "sessions.column.last_accessed": {
+        "string": "最終アクセス"
     },
-    "activity_log.filter.widget_management": {
-        "string": "Widget management"
+    "sessions.column.location_ip": {
+        "string": "場所とIP"
     },
-    "activity_log.filter.widget_approve_list_setting_changed": {
-        "string": "Widget approval settings changed"
+    "sessions.column.os_browser": {
+        "string": "OSとブラウザ"
     },
-    "activity_log.filter.widget_approve_list_requested": {
-        "string": "Widgets requested"
+    "sessions.column.type": {
+        "string": "タイプ"
     },
-    "activity_log.filter.approve_list_widgets_reviewed": {
-        "string": "Widgets reviewed"
+    "sessions.error.logged_out": {
+        "string": "ログインしていません"
     },
-    "activity_log.filter.install_widgets_org_wide": {
-        "string": "Install widgets org-wide"
+    "sessions.error.no_sessions": {
+        "string": "セッションの読み込みに失敗しました"
     },
-    "activity_log.filter.widget_publishers": {
-        "string": "Widget publishers"
+    "sessions.header.description": {
+        "string": "すべてのセッションが下にリストアップされています。認識できない、または信頼できないセッションを取り消してください。"
     },
-    "activity_log.filter.widget_publisher_accept_remove_invite": {
-        "string": "Widget publisher accept/remove invite"
+    "sessions.header.description.viewonly": {
+        "string": "すべてのセッションが下にリストアップされています。"
     },
-    "activity_log.filter.widget_publisher_invite": {
-        "string": "Widget publisher invite"
+    "sessions.header.title": {
+        "string": "セッション"
     },
-    "activity_log.filter.widget_publisher_remove": {
-        "string": "Widget publisher remove"
+    "sessions.row.location": {
+        "string": "{country}、{city}"
     },
-    "activity_log.filter.widget_ownership_transfer": {
-        "string": "Widget ownership transfer"
+    "sessions.session.current_session": {
+        "string": "現在"
     },
-    "activity_log.filter.audio": {
-        "string": "Audio"
+    "sessions.session.revoke_session": {
+        "string": "取り消す"
     },
-    "activity_log.filter.user_joined_audio_call": {
-        "string": "User joined audio call"
+    "sessions.session.revoked": {
+        "string": "取り消しました"
     },
-    "activity_log.filter.integrations": {
-        "string": "Integrations"
+    "sessions.unknown": {
+        "string": "不明"
     },
-    "activity_log.filter.personal_access_token_create_delete": {
-        "string": "Personal access token created/deleted"
+    "settings.account_setting.account": {
+        "string": "アカウント"
     },
-    "activity_log.filter.oauth_token_grant_revoke": {
-        "string": "App connected/disconnected"
+    "settings.account_setting.change_email_confirm_password_placeholder": {
+        "string": "Figmaパスワードを確認"
     },
-    "activity_log.filter.today": {
-        "string": "Today"
+    "settings.account_setting.change_email_context": {
+        "string": "新しいメールアドレスに変更完了の手順を記載したメールをお送りします。"
     },
-    "activity_log.filter.yesterday": {
-        "string": "Yesterday"
+    "settings.account_setting.change_email_context_org_warning": {
+        "string": "新しいメールアドレスのドメインが@{orgDomain}ではない場合、組織のファイルの一部もしくは全てにアクセスできなくなる可能性があります。"
     },
-    "activity_log.filter.last_week": {
-        "string": "Last 7 days"
+    "settings.account_setting.change_email_input_placeholder": {
+        "string": "メールを新規作成"
     },
-    "activity_log.filter.last_month": {
-        "string": "Last 30 days"
+    "settings.account_setting.change_password_confirm_password_placeholder": {
+        "string": "パスワードを確認"
     },
-    "activity_log.table.load_more": {
-        "string": "Load more"
+    "settings.account_setting.change_password_current_password_placeholder": {
+        "string": "現在のパスワード"
     },
-    "activity_log.table.no_results_were_found": {
-        "string": "No results were found."
+    "settings.account_setting.change_password_modal_header": {
+        "string": "パスワードを変更"
     },
-    "activity_log.table.get_csv": {
-        "string": "Get CSV"
+    "settings.account_setting.change_password_new_password_placeholder": {
+        "string": "新しいパスワード"
     },
-    "activity_log.table.date": {
-        "string": "Date"
+    "settings.account_setting.comments_from_other_users": {
+        "string": "他のユーザーからのコメント"
     },
-    "activity_log.table.team_member": {
-        "string": "Team member"
+    "settings.account_setting.community": {
+        "string": "コミュニティ"
     },
-    "activity_log.table.event": {
-        "string": "Event"
+    "settings.account_setting.forgot_password": {
+        "string": "パスワードを忘れた場合"
     },
-    "activity_log.table.product": {
-        "string": "Product"
+    "settings.account_setting.inactive": {
+        "string": "無効"
     },
-    "activity_log.table.team": {
-        "string": "Team"
+    "settings.account_setting.notifications": {
+        "string": "通知"
     },
-    "activity_log.table.ip_address": {
-        "string": "IP address"
+    "settings.account_setting.purchases": {
+        "string": "購入"
     },
-    "activity_log.filter.custom": {
-        "string": "Custom"
+    "settings.account_setting.sessions": {
+        "string": "セッション"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "design_systems.publishing_modal.show_when_publishing": {
-        "string": "Show when publishing"
+    "design.starting_points.recent_plugin_tooltip.your_recents": {
+        "string": "你最近使用的插件"
     },
-    "design_systems.assets_panel.view_details": {
-        "string": "View details"
+    "design.starting_points.start_from_a_blank_file": {
+        "string": "从空白文件开始"
     },
-    "design_systems.assets_panel.search_all_libraries": {
-        "string": "Search all libraries"
+    "design.starting_points.start_from_a_blank_file_description": {
+        "string": "从零开始，看看能做些什么。"
+    },
+    "design.starting_points.welcome_to_figma": {
+        "string": "欢迎来到Figma"
+    },
+    "design_systems.assets_panel.add_library": {
+        "string": "添加库"
+    },
+    "design_systems.assets_panel.add_more_libraries": {
+        "string": "添加更多库"
+    },
+    "design_systems.assets_panel.assets": {
+        "string": "资产"
+    },
+    "design_systems.assets_panel.back": {
+        "string": "返回"
     },
     "design_systems.assets_panel.clear_search": {
-        "string": "Clear search"
+        "string": "清除搜索"
     },
-    "design_systems.instance_panel.deleted_source_component_message": {
-        "string": "You can't add an instance of a shared component into the document from which the shared component was published if the original component was deleted."
+    "design_systems.assets_panel.components": {
+        "string": "组件"
     },
-    "design_systems.instance_panel.ok": {
-        "string": "OK"
+    "design_systems.assets_panel.create_a_component": {
+        "string": "选择一个图层并点击工具栏中的“创建组件”按钮以创建组件。"
     },
-    "design_systems.instance_panel.oops": {
-        "string": "Oops"
+    "design_systems.assets_panel.created_by_figma": {
+        "string": "由Figma创建"
     },
-    "design_systems.updates.no_updates_available": {
-        "string": "No updates available"
+    "design_systems.assets_panel.curated_libraries": {
+        "string": "精选库"
     },
-    "design_systems.updates.updates_to_components_or_styles": {
-        "string": "Updates to components, styles, or variables{lineBreak}will show up here as they become available."
+    "design_systems.assets_panel.details": {
+        "string": "详情"
     },
-    "design_systems.updates.no_updates_available_page": {
-        "string": "No updates available on this page"
+    "design_systems.assets_panel.drag_drop_component": {
+        "string": "从资产面板中拖放组件，以便在此文件中重复使用。"
     },
-    "design_systems.updates.maybe_updates_other_pages": {
-        "string": "There may be updates available on other pages."
+    "design_systems.assets_panel.drag_drop_component_draft": {
+        "string": "从资产面板中拖放组件，以便在此草稿中重复使用。"
     },
-    "design_systems.updates.view_all_pages": {
-        "string": "View all pages"
+    "design_systems.assets_panel.dropdown_curated_libraries": {
+        "string": "精选库"
     },
-    "design_systems.updates.current_page": {
-        "string": "Current page"
+    "design_systems.assets_panel.dropdown_libraries": {
+        "string": "库"
     },
-    "design_systems.updates.all_pages": {
-        "string": "All pages"
+    "design_systems.assets_panel.dropdown_org_libraries": {
+        "string": "{orgName}的库"
     },
-    "design_systems.updates.show_updates_for_all_pages": {
-        "string": "Show updates for all pages"
+    "design_systems.assets_panel.dropdown_type_all_libraries": {
+        "string": "所有库"
     },
-    "design_systems.updates.update_all": {
-        "string": "Update all"
+    "design_systems.assets_panel.dropdown_type_local": {
+        "string": "本地组件"
     },
-    "design_systems.updates.updates_from": {
-        "string": "Updates from {fileName}"
+    "design_systems.assets_panel.dropdown_type_local_assets": {
+        "string": "本地资产"
     },
-    "design_systems.updates.publishedByHandle": {
-        "string": "Published by {publishUserHandle} {relativeTimeStr}"
+    "design_systems.assets_panel.dropdown_type_recents": {
+        "string": "最近"
     },
-    "design_systems.updates.published": {
-        "string": "Published {relativeTimeStr}"
+    "design_systems.assets_panel.empty_state_cta_ui3": {
+        "string": "浏览团队库"
     },
-    "design_systems.updates.update": {
-        "string": "Update"
+    "design_systems.assets_panel.empty_state_subtitle_ui3": {
+        "string": "找到并添加你的团队创建的资产，以便在此文件中使用。"
     },
-    "design_systems.updates.updates_taking_longer_than_expected": {
-        "string": "It's taking longer than expected..."
+    "design_systems.assets_panel.empty_state_title_ui3": {
+        "string": "这里还没有库"
     },
-    "design_systems.updates.review_updates": {
-        "string": "Review updates"
+    "design_systems.assets_panel.error": {
+        "string": "加载时出错。请刷新页面重试。"
     },
-    "design_systems.updates.moved_from": {
-        "string": "Moved from {movedFromFileName}"
+    "design_systems.assets_panel.examples": {
+        "string": "示例"
     },
-    "design_systems.updates.num_outdated_instances": {
-        "string": "{numOutdatedInstances, plural, one {{numOutdatedInstances} instance} other {{numOutdatedInstances} instances}}"
+    "design_systems.assets_panel.explore_libraries": {
+        "string": "浏览库…"
     },
-    "design_systems.updates.couldn_t_load_update_descriptions_please_try_again_later": {
-        "string": "Couldn't load update descriptions. Please try again later."
+    "design_systems.assets_panel.frames": {
+        "string": "框架"
     },
-    "design_systems.updates.this_file": {
-        "string": "this file"
+    "design_systems.assets_panel.go_to_library": {
+        "string": "前往库"
     },
-    "design_systems.libraries_modal.no_components": {
-        "string": "No components"
+    "design_systems.assets_panel.go_to_main": {
+        "string": "前往主组件"
     },
-    "design_systems.libraries_modal.plural.num_component": {
-        "string": "{numComponents, plural, one {{numComponents} component} other {{numComponents} components}}"
+    "design_systems.assets_panel.go_to_main_template": {
+        "string": "前往主模板"
     },
-    "design_systems.libraries_modal.open_file": {
-        "string": "Open file"
+    "design_systems.assets_panel.go_to_page": {
+        "string": "前往页面"
     },
-    "design_systems.libraries_modal.plural.num_component_match": {
-        "string": "{numComponents, plural, one {{numComponents} component match} other {{numComponents} component matches}}"
+    "design_systems.assets_panel.got_it": {
+        "string": "知道了"
     },
-    "design_systems.libraries_modal.plural.num_style_match": {
-        "string": "{numStyles, plural, one {{numStyles} style match} other {{numStyles} style matches}}"
+    "design_systems.assets_panel.hidden": {
+        "string": "隐藏"
     },
-    "design_systems.libraries_modal.plural.num_variable_collection_match": {
-        "string": "{numVariableCollections, plural, one {{numVariableCollections} variable collection match} other {{numVariableCollections} variable collection matches}}"
+    "design_systems.assets_panel.insert": {
+        "string": "插入"
     },
-    "design_systems.libraries_modal.plural.num_templates_match": {
-        "string": "{numTemplates, plural, one {{numTemplates} template match} other {{numTemplates} template matches}}"
+    "design_systems.assets_panel.insert_instance": {
+        "string": "插入实例"
     },
-    "design_systems.libraries_modal.variant_name": {
-        "string": "Variant name"
+    "design_systems.assets_panel.insert_template": {
+        "string": "插入模板"
     },
-    "design_systems.libraries_modal.component_name": {
-        "string": "Component name"
+    "design_systems.assets_panel.learn_more": {
+        "string": "了解更多"
     },
-    "design_systems.libraries_modal.total_variants": {
-        "string": "Total variants"
+    "design_systems.assets_panel.library_upsell_body": {
+        "string": "{upgradeToProfessionalPlanLink}，即可与团队共享组件。"
     },
-    "design_systems.libraries_modal.total_instances": {
-        "string": "Total instances"
+    "design_systems.assets_panel.library_upsell_header": {
+        "string": "在多个文件中使用相同的组件"
     },
-    "design_systems.libraries_modal.inserts_last_duration": {
-        "string": "Inserts ({duration})"
+    "design_systems.assets_panel.library_upsell_upgrade": {
+        "string": "升级到专业版"
     },
-    "design_systems.libraries_modal.detaches_last_duration": {
-        "string": "Detaches ({duration})"
+    "design_systems.assets_panel.local_assets": {
+        "string": "本地资产"
     },
-    "design_systems.libraries_modal.all_variants": {
-        "string": "All variants"
+    "design_systems.assets_panel.local_components": {
+        "string": "本地组件"
     },
-    "design_systems.libraries_modal.component_statistics": {
-        "string": "Component statistics"
+    "design_systems.assets_panel.local_templates": {
+        "string": "本地模板"
     },
-    "design_systems.libraries_modal.current_file": {
-        "string": "Current file"
+    "design_systems.assets_panel.more_results_in_all_libraries": {
+        "string": "在所有库中还有{results, plural, other {{results}个结果}}"
     },
-    "design_systems.libraries_modal.plural.missing_library": {
-        "string": "{missingLibCount, plural, one {Missing library} other {Missing libraries}}"
+    "design_systems.assets_panel.no_results_for_query": {
+        "string": "没有与“{searchQuery}”匹配的结果"
     },
-    "design_systems.libraries_modal.enabled_by_default": {
-        "string": "Enabled by default"
+    "design_systems.assets_panel.no_results_for_query_in_library": {
+        "string": "在{libraryName}中没有与“{searchQuery}”匹配的结果"
     },
-    "design_systems.libraries_modal.default_library_for_all_files": {
-        "string": "Default library for all files"
-    },
-    "design_systems.libraries_modal.default_library_for_design_files": {
-        "string": "Default library for Design files"
-    },
-    "design_systems.libraries_modal.default_library_for_fig_jam_files": {
-        "string": " 'Default library for FigJam files'"
-    },
-    "design_systems.libraries_modal.header_label": {
-        "string": "File view for {fileName}"
-    },
-    "design_systems.libraries_modal.header_label_missing": {
-        "string": "File view for missing library"
-    },
-    "design_systems.libraries_modal.libraries": {
-        "string": "Libraries"
+    "design_systems.assets_panel.num_components": {
+        "string": "{numComponents, plural, other {{numComponents}个组件}}"
     }
 }

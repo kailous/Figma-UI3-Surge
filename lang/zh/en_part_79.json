@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_node_treatments.property.x": {
-        "string": "X"
+    "community.seller.resource_is_private": {
+        "string": "此资源为非公开。要出售，必须向社区中的所有用户公开。"
     },
-    "collaboration.branching_node_treatments.property.y": {
-        "string": "Y"
+    "community.seller.resource_metrics_coming_soon": {
+        "string": "资源指标即将推出"
     },
-    "collaboration.branching_node_treatments.property.blur": {
-        "string": "Blur"
+    "community.seller.resources_for_sale": {
+        "string": "{numResources, plural, other {{numResources}个资源在售}}"
     },
-    "collaboration.branching_node_treatments.property.spread": {
-        "string": "Spread"
+    "community.seller.resources_youre_selling_will_appear_here": {
+        "string": "你正在出售的资源将显示在此处"
     },
-    "collaboration.branching_node_treatments.property.position": {
-        "string": "Position"
+    "community.seller.sell_on_community": {
+        "string": "在社区出售"
     },
-    "collaboration.branching_node_treatments.property.scale": {
-        "string": "Scale"
+    "community.seller.sell_on_community_v2": {
+        "string": "在社区出售"
     },
-    "collaboration.branching_node_treatments.property.rotation": {
-        "string": "Rotation"
+    "community.seller.set_up_stripe": {
+        "string": "设置Stripe"
     },
-    "collaboration.branching_node_treatments.value.effect.effect_type": {
-        "string": "Effect type"
+    "community.seller.setup_complete": {
+        "string": "设置完成"
     },
-    "collaboration.branching_node_treatments.value.effect.background_blur": {
-        "string": "Background blur"
+    "community.seller.stripe_loading_text": {
+        "string": "正在加载Stripe..."
     },
-    "collaboration.branching_node_treatments.value.effect.drop_shadow": {
-        "string": "Drop shadow"
+    "community.seller.stripe_needs_your_attention": {
+        "string": "需要你的Stripe注意事项。"
     },
-    "collaboration.branching_node_treatments.value.effect.foreground_blur": {
-        "string": "Foreground blur"
+    "community.seller.subscribers_label": {
+        "string": "{num, plural, other {订阅者}}"
     },
-    "collaboration.branching_node_treatments.value.effect.inner_shadow": {
-        "string": "Inner shadow"
+    "community.seller.teams_cannot_sell": {
+        "string": "由于你正在以团队身份发布，价格设置已被禁用。要出售此资源，请从草稿发布。"
     },
-    "collaboration.branching_node_treatments.value.layout_grid.min": {
-        "string": "Min"
+    "community.seller.this_page_is_private": {
+        "string": "此页面目前为非公开"
     },
-    "collaboration.branching_node_treatments.value.layout_grid.center": {
-        "string": "Center"
+    "community.seller.to_publish_your_first_resource": {
+        "string": "要发布你的第一个收费插件、小部件或文件，请点击右上角的“发布”，添加详细信息并选择价格，然后提交审核。"
     },
-    "collaboration.branching_node_treatments.value.layout_grid.stretch": {
-        "string": "Stretch"
+    "community.seller.total_earned": {
+        "string": "总收入"
     },
-    "collaboration.branching_node_treatments.value.layout_grid.max": {
-        "string": "Max"
+    "community.seller.total_purchases": {
+        "string": "总购买次数"
     },
-    "collaboration.branching_node_treatments.property.offset": {
-        "string": "Offset"
+    "community.seller.total_purchases_includes": {
+        "string": "包括所有新订阅、续订和一次性付款。"
     },
-    "collaboration.branching_node_treatments.property.gutter": {
-        "string": "Gutter"
+    "community.seller.total_views": {
+        "string": "总浏览量"
     },
-    "collaboration.branching_node_treatments.property.type_details": {
-        "string": "Type details"
+    "community.seller.unable_to_launch_stripe_onboarding_please_check_your_details": {
+        "string": "无法启动Stripe入职流程。请检查你的详细信息并重试。"
     },
-    "collaboration.branching_node_treatments.value.type_details_edited": {
-        "string": "Type details edited"
+    "community.seller.unable_to_open_stripe_dashboard": {
+        "string": "无法打开Stripe仪表板"
     },
-    "collaboration.branching_node_treatments.property.order": {
-        "string": "Order"
+    "community.seller.usd": {
+        "string": "美元"
     },
-    "collaboration.branching_node_treatments.value.style_reordered": {
-        "string": "Style reordered"
+    "community.seller.view_payout_statements": {
+        "string": "查看支付明细"
     },
-    "collaboration.branching_node_treatments.property.style_name": {
-        "string": "Name"
+    "community.seller.view_stripe_dashboard": {
+        "string": "查看Stripe仪表板"
     },
-    "collaboration.branching_node_treatments.property.fill_details": {
-        "string": "Fill details"
+    "community.seller.views_label": {
+        "string": "{num, plural, other {浏览}}"
     },
-    "collaboration.branching_node_treatments.property.effect_details": {
-        "string": "Effect details"
+    "community.seller.visit_stripe": {
+        "string": "访问Stripe"
     },
-    "collaboration.branching_node_treatments.property.font": {
-        "string": "Font"
+    "community.seller.well_show_you_stripe_metrics": {
+        "string": "我们将向你展示每个资源的状态的Stripe指标。"
     },
-    "collaboration.branching_node_treatments.property.layout_grid_details": {
-        "string": "Layout grid details"
+    "community.seller.what_are_the_fees": {
+        "string": "收费是多少？"
     },
-    "branching.chunk_details.component_set_properties_changed": {
-        "string": "Component set properties changed"
+    "community.seller.when_you_publish_a_paid_resource_you_cant_make_it_free_again": {
+        "string": "一旦你将此资源设为收费，不能再将其改为免费。"
     },
-    "branching.chunk_details.property_removed": {
-        "string": "Property removed"
+    "community.seller.why_link": {
+        "string": "为什么？"
     },
-    "branching.chunk_details.no_changes": {
-        "string": "No changes"
+    "community.seller.working_on_bringing_you_more_in_depth_metrics": {
+        "string": "我们正在努力提供更深入的付费资源数据。敬请期待。"
     },
-    "branching.chunk_details.property_changed": {
-        "string": "Property changed"
+    "community.seller.you_can_only_publish_paid_resources_from_a_personal_profile": {
+        "string": "仅能从经批准的个人资料发布收费资源。{learnMoreLink}"
     },
-    "branching.chunk_details.property_added": {
-        "string": "Property added"
+    "community.seller.you_can_resolve": {
+        "string": "你可以从Stripe仪表板解决问题。"
     },
-    "collaboration.branching_node_treatments.value.true": {
-        "string": "true"
+    "community.seller.you_may_be_eligible_with_link": {
+        "string": "你可能有资格在社区销售插件或小部件。要开始销售，请设置Stripe账户。{learnMoreLink}"
     },
-    "collaboration.branching_node_treatments.value.false": {
-        "string": "false"
+    "community.seller.youre_all_set_up_to_sell_on_community": {
+        "string": "你已经准备好在社区销售了"
     },
-    "collaboration.branching_node_treatments.value.removed": {
-        "string": "Removed"
+    "config_feature_announcement.add_auto_layout_to_full_design_elements_with_a_single_click_plus_auto_layout_properties_are_now_more_responsive_by_default": {
+        "string": "只需点击一次，即可将自动布局添加到整个设计元素。此外，默认情况下，自动布局属性现在更加灵活。"
     },
-    "collaboration.branching_node_treatments.value.prefix_applied": {
-        "string": "{prefix} applied"
+    "config_feature_announcement.and_much_more": {
+        "string": "更多..."
     },
-    "collaboration.branching_node_treatments.value.prefix_removed": {
-        "string": "{prefix} removed"
+    "config_feature_announcement.auto_layout_playground": {
+        "string": "自动布局游乐场"
     },
-    "collaboration.branching_node_treatments.value.prefix_edited": {
-        "string": "{prefix} edited"
+    "config_feature_announcement.bridge_the_designer_developer_gap_with_new_tools": {
+        "string": "开发人员现在可以通过新的视图和状态清楚地了解哪些已经准备好进行开发、哪些正在更改、哪些已经完成。此外，随着Code Connect Beta测试的结束，现在可以将自己的代码引入Figma。"
     },
-    "branching.chunk_details.guid_property_applied": {
-        "string": "{propertyLabel} applied"
+    "config_feature_announcement.click_to_learn_more": {
+        "string": "点击了解更多→"
     },
-    "branching.chunk_details.guid_property_removed": {
-        "string": "{propertyLabel} removed"
+    "config_feature_announcement.co_create_dynamic_slide_decks_that_spark_conversation_in_our_new_presentation_tool_for_teams": {
+        "string": "通过Figma Slides的高级编辑工具及其互动性，使得演示文稿的设计和共同创作变得更加容易。"
     },
-    "branching.chunk_details.guid_property_modified": {
-        "string": "{propertyLabel} modified"
+    "config_feature_announcement.dev_mode_playground": {
+        "string": "开发模式游乐场"
     },
-    "branching.chunk_details.added": {
-        "string": "Added"
+    "config_feature_announcement.everything_we_launched_at_config": {
+        "string": "我们在Config 2024推出的所有内容"
     },
-    "branching.chunk_details.removed": {
-        "string": "Removed"
+    "config_feature_announcement.experience_a_more_fluid_and_consistent_workflow_with_our_newly_redesigned_user_interface_now_everything_you_need_is_right_where_you_expect_it_across_figma_products": {
+        "string": "通过重新设计的人体工程学界面，更加集中精力完成工作。"
     },
-    "collaboration.branching.checking_for_changes": {
-        "string": "Checking for changes"
+    "config_feature_announcement.figma_redesigned": {
+        "string": "重新设计的Figma"
     },
-    "collaboration.branching.applying_update": {
-        "string": "Applying update"
+    "config_feature_announcement.get_organized_with_pages_in_fig_jam": {
+        "string": "使用FigJam页面进行整理"
     },
-    "collaboration.branching.pulling_it_all_together": {
-        "string": "Pulling it all together"
+    "config_feature_announcement.introducing_figma_slides": {
+        "string": "Figma Slides的介绍"
     },
-    "collaboration.branching.checking_for_conflicts": {
-        "string": "Checking for conflicts"
+    "config_feature_announcement.join_the_waitlist": {
+        "string": "加入候补名单"
     },
-    "collaboration.branching.generating_changed_items": {
-        "string": "Generating changed items"
+    "config_feature_announcement.joined": {
+        "string": "已加入"
     },
-    "collaboration.branching.file_out_of_memory": {
-        "string": "File out of memory"
+    "config_feature_announcement.jumpstart_designs_with_ui_kits": {
+        "string": "使用UI工具包快速启动设计"
     },
-    "collaboration.branching.closing_other_tabs_and_reloading_figma_may_reduce_browser_memory_and_allow_you_to_continue_reviewing_and_merging_this_branch": {
-        "string": "Closing other tabs and reloading Figma may reduce browser memory and allow you to continue reviewing and merging this branch."
+    "config_feature_announcement.meet_a_more_intuitive_auto_layout": {
+        "string": "体验更加直观的自动布局"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "figjam_onboarding_make_something.planning_ahead.try_it_with_your_team": {
-        "string": "Try it with your team"
+    "folder_access_row.num_people": {
+        "string": "{num, plural, other {{num}人}}"
     },
-    "figjam_onboarding_make_something.planning_ahead.share_this_board_and_your_whole_team_can_contribute": {
-        "string": "Share this board, and your whole team can contribute."
+    "folder_access_row.remove": {
+        "string": "削除"
     },
-    "figjam_onboarding_make_something.team_chart.in_fig_jam_you_can_diagram_all_sorts_of_things_here_s_an_example": {
-        "string": "{boldText} Here’s an example."
+    "folder_access_row.team_access_disabled": {
+        "string": "チームアクセスは無効です"
     },
-    "figjam_onboarding_make_something.team_chart.in_fig_jam_you_can_diagram_all_sorts_of_things_here_s_an_example_bold_text": {
-        "string": "In FigJam, you can diagram all sorts of things."
+    "folder_permissions.confirm_enable_team_access.add": {
+        "string": "追加"
     },
-    "figjam_onboarding_make_something.team_chart.double_click_this_text_to_type_in_the_manager_s_name_go_ahead_try_it": {
-        "string": "{boldText} to type in the manager’s name. Go ahead, try it!"
+    "folder_permissions.confirm_enable_team_access.add_team_name": {
+        "string": "{teamName}を追加"
     },
-    "figjam_onboarding_make_something.team_chart.double_click_this_text_to_type_in_the_manager_s_name_go_ahead_try_it_bold_text": {
-        "string": "Double-click this text"
+    "folder_permissions.confirm_enable_team_access.this_will_directly_invite_members_of_the_team_name_team": {
+        "string": "これにより、{teamName}チームのメンバーが直接招待され、このプロジェクトのアクセス権が付与されます。この操作はいつでも取り消すことができます。"
     },
-    "figjam_onboarding_make_something.team_chart.you_can_add_images_by_simply_dragging_them_into_fig_jam": {
-        "string": "You can add images—like your photo—by simply dragging them into FigJam."
+    "folder_permissions.confirm_remove_team_access.remove": {
+        "string": "削除"
     },
-    "figjam_onboarding_make_something.team_chart.adding_to_a_diagram_is_simple_hover_over_a_shape_and_click_this_button_try_it": {
-        "string": "To add a block, click this shape, hover over its side, and {boldText}. Try it!"
+    "folder_permissions.confirm_remove_team_access.remove_team_name": {
+        "string": "{teamName}を削除"
     },
-    "figjam_onboarding_make_something.team_chart.adding_to_a_diagram_is_simple_hover_over_a_shape_and_click_this_button_try_it_bold_text": {
-        "string": "click an arrow button"
+    "folder_permissions.confirm_remove_team_access.the_members_of_team_name_will_lose_access": {
+        "string": "{teamName}チームのメンバーは、このプロジェクトへのアクセス権を失う可能性があるため、この操作は慎重に行ってください。アクセス権を失っても、このチームのアクセス権をいつでも追加し直すことができます。"
     },
-    "figjam_onboarding_make_something.team_chart.you_can_also_grab_more_shapes_from_here": {
-        "string": "You can also grab more shapes from here…"
+    "folder_permissions.team_access_modals.cancel": {
+        "string": "キャンセル"
     },
-    "figjam_onboarding_make_something.team_chart.and_use_the_connector_tool_to_connect_any_two_things_together": {
-        "string": "…and use the connector tool to connect any two things together."
+    "folder_permissions_modal.copy_link": {
+        "string": "リンクをコピーする"
     },
-    "figjam_onboarding_make_something.team_chart.diagram_together": {
-        "string": "Diagram together"
+    "folder_permissions_modal.email_comma_separated": {
+        "string": "メールアドレスをコンマで区切って指定"
     },
-    "figjam_onboarding_make_something.team_chart.share_this_board_and_your_whole_team_can_pitch_in": {
-        "string": "Share this board, and your whole team can pitch in."
+    "folder_permissions_modal.invite_user_sharing_restricted": {
+        "string": "Figmaではこのプロジェクトの共有を制限しています。{supportSharingRestrictedEmail}までメールでお問い合わせください。"
     },
-    "figjam_onboarding_make_something.team_updates.fig_jam_s_great_for_team_syncs_here_s_how_it_works": {
-        "string": "{boldText} Here’s how it works."
+    "folder_permissions_modal.project_name_s_team": {
+        "string": "{projectName}のチーム"
     },
-    "figjam_onboarding_make_something.team_updates.fig_jam_s_great_for_team_syncs_here_s_how_it_works_bold_text": {
-        "string": "FigJam’s great for team syncs."
+    "folder_permissions_modal.send_invite": {
+        "string": "招待を送信"
     },
-    "figjam_onboarding_make_something.team_updates.each_person_gets_a_row_of_their_own_for_sharing_updates_and_priorities": {
-        "string": "Each person gets a row of their own, for sharing updates and priorities."
+    "folder_permissions_modal.share_folder_name": {
+        "string": "{folderName}を共有"
     },
-    "figjam_onboarding_make_something.team_updates.take_a_selfie_then_drag_it_into_whichever_row_you_d_like_try_and_click_the_red_dot": {
-        "string": "{boldText}, then drag it into whichever row you’d like. Try and click the red dot!"
+    "folder_permissions_modal.share_this_project": {
+        "string": "このプロジェクトを共有"
     },
-    "figjam_onboarding_make_something.team_updates.take_a_selfie_then_drag_it_into_whichever_row_you_d_like_try_and_click_the_red_dot_bold_text": {
-        "string": "Take a selfie"
+    "folder_permissions_modal.what_can_they_do": {
+        "string": "権限"
     },
-    "figjam_onboarding_make_something.team_updates.your_whole_team_can_share_updates_here": {
-        "string": "Your whole team can share updates here…"
+    "folder_permissions_modal.what_team_members_can_do_project": {
+        "string": "{teamName}のメンバーのアクセス権オプション"
     },
-    "figjam_onboarding_make_something.team_updates.and_can_add_important_dates_to_the_calendar_over_here": {
-        "string": "…and can add important dates to the calendar over here."
+    "folder_permissions_modal.what_they_can_do": {
+        "string": "権限"
     },
-    "figjam_onboarding_make_something.team_updates.give_it_a_go_try_typing_your_priorities_in_this_sticky_note": {
-        "string": "Give it a go: try {boldText} in this sticky note."
+    "folder_permissions_modal.who_can_access": {
+        "string": "アクセス可能なユーザー"
     },
-    "figjam_onboarding_make_something.team_updates.give_it_a_go_try_typing_your_priorities_in_this_sticky_note_bold_text": {
-        "string": "typing your priorities"
+    "folder_share_settings.the_following_people_have_access": {
+        "string": "以下のメンバーは、このファイルが存在するプロジェクト{projectName}のメンバーのため、このファイルにアクセスできます。"
     },
-    "figjam_onboarding_make_something.team_updates.invite_your_teammates_and_run_a_quick_team_check_in": {
-        "string": "Invite your teammates and run a quick team check-in."
+    "folder_share_settings.the_following_people_have_access_remove_their_access_at_any_time": {
+        "string": "以下のユーザーは、このファイルが存在するプロジェクト{projectName}のメンバーのため、このファイルにアクセスできます。ユーザーのアクセス権はいつでも削除できます。"
     },
-    "rcs.figjam_onboarding.for_more_tips_and_tricks_here_s_a_2_minute_hands_on_tutorial": {
-        "string": "For more tips and tricks, here’s a 2-minute, hands-on tutorial."
+    "folder_share_settings.the_following_people_have_access_team": {
+        "string": "{teamName}のメンバーは、チームの役割に応じたデフォルトのアクセス権を持っています。これはいつでも変更することができます。"
     },
-    "rcs.figjam_onboarding.maybe_later": {
-        "string": "Maybe later"
+    "folder_share_settings.the_following_people_have_access_team_view_only": {
+        "string": "{teamName}のメンバーはこのプロジェクトへのアクセス権がありますが、できるのは閲覧のみです。これはいつでも変更することができます。"
     },
-    "rcs.figjam_onboarding.open_tutorial": {
-        "string": "Open tutorial"
+    "org_access_strings.anyone_at": {
+        "string": "{orgName}の全員"
     },
-    "pro_edit_action.heading": {
-        "string": "Ready to edit?"
+    "org_access_strings.closed": {
+        "string": "限定"
     },
-    "pro_edit_action.body_text": {
-        "string": "You’re invited to make changes to this file."
+    "org_access_strings.closed.description_with_org_name": {
+        "string": "チームの名前が組織{orgName}内のユーザーに表示されます。ユーザーがチームに参加するには、それぞれがリクエストを送信して管理者の承認を得る必要があります。"
     },
-    "pro_edit_action.dismiss_button_text": {
-        "string": "Not now"
+    "org_access_strings.hidden": {
+        "string": "非表示"
     },
-    "pro_edit_action.primary_button_text": {
-        "string": "Start editing"
+    "org_access_strings.invite_only": {
+        "string": "招待のみ"
     },
-    "oss_sales_upsell_overlay.feature1": {
-        "string": "Branching and merging features"
+    "org_access_strings.open": {
+        "string": "オープン"
     },
-    "oss_sales_upsell_overlay.feature2": {
-        "string": "Shared fonts and libraries across teams"
+    "org_access_strings.public.description_with_org_name": {
+        "string": "組織{orgName}内のユーザーがこのチームを見つけて参加できます。"
     },
-    "oss_sales_upsell_overlay.feature3": {
-        "string": "Design system analytics"
+    "org_access_strings.secret": {
+        "string": "シークレット"
     },
-    "oss_sales_upsell_overlay.title": {
-        "string": "Do more with libraries on the Organization plan"
+    "org_access_strings.secret.description.disclaimer_label": {
+        "string": "注:"
     },
-    "oss_sales_upsell_overlay.primary_cta": {
-        "string": "Upgrade"
+    "org_access_strings.secret.description_with_org_name": {
+        "string": "組織{orgName}内のユーザーは、参加の招待を受けている場合を除き、このチームを表示したり見つけたりすることはできません。{disclaimerLabel}管理者はシークレットチームの名前を確認できます。"
     },
-    "oss_sales_upsell_overlay.secondary_cta": {
-        "string": "Get in touch"
+    "org_guest_identifier.guest": {
+        "string": "{userName} (ゲスト)"
     },
-    "oss_sales_upsell_overlay.body1": {
-        "string": "On an Organization plan, you can suggest changes to libraries and share them without duplicating files."
+    "permissions.anyone": {
+        "string": "全員"
     },
-    "oss_sales_upsell_overlay.body2": {
-        "string": "Upgrade for better libraries and…"
+    "permissions.anyone_in_container_name": {
+        "string": "{containerName}の全員"
     },
-    "oss_sales_upsell_overlay.body3": {
-        "string": "Questions? Drop us a line anytime!"
+    "permissions.audience_selector.anyone": {
+        "string": "ユーザー全員"
     },
-    "oss_sales_upsell_overlay.contact_sales_form.text_placeholder": {
-        "string": "e.g. I want to learn more about libraries on the Organization and Enterprise plans"
+    "permissions.audience_selector.anyone_even_outside_your_org_can_access_this_resource": {
+        "string": "組織外のユーザーを含む全員がこの{resourceName}にアクセスできるようになります。"
     },
-    "whiteboard.google_classroom.onboarding.header": {
-        "string": "Share to Google Classroom"
+    "permissions.audience_selector.anyone_even_those_outside_your_org_can_access_this_resource": {
+        "string": "組織外のユーザーを含む全員がこの{resourceName}にアクセスできるようになります。"
     },
-    "whiteboard.google_classroom.onboarding.body": {
-        "string": "Creating classwork in FigJam? Share it easily to Google Classroom (and your students)."
+    "permissions.audience_selector.audience_can_access_through_link_or_file_browser": {
+        "string": "{audience}は、この{resourceName}にリンク経由でまたはファイルブラウザからアクセスできます。"
     },
-    "whiteboard.google_classroom.onboarding.show_me": {
-        "string": "Show me"
+    "permissions.audience_selector.audience_can_access_through_search_link_or_file_browser": {
+        "string": "{audience}は、この{resourceName}に検索、ファイルブラウザ、またはリンクによってアクセスできます。"
     },
-    "whiteboard.google_classroom.onboarding.image_alt": {
-        "string": "Share to Google Classroom illustration"
+    "permissions.audience_selector.can_access_through_search_file_browser_link": {
+        "string": "検索、ファイルブラウザ、リンクによってアクセスできます。"
     },
-    "whiteboard.google_classroom.pointer.body": {
-        "string": "Share this board directly to Google Classroom, without leaving FigJam."
+    "permissions.audience_selector.can_only_be_adjusted_in_the_main_file": {
+        "string": "メインファイルでのみ調整可能です"
     },
-    "whiteboard.google_classroom.onboarding.new_user.header": {
-        "string": "Share to Google Classroom"
+    "permissions.audience_selector.file_resource_name": {
+        "string": "ファイル"
     },
-    "whiteboard.google_classroom.onboarding.new_user.body": {
-        "string": "Creating classwork in FigJam? Now it’s easy to share it with your students."
+    "permissions.audience_selector.only_invited_people": {
+        "string": "招待された人のみ"
     },
-    "ui3_and_ai_tour.ai_callout.title": {
-        "string": "Introducing Figma AI"
+    "permissions.audience_selector.only_people_you_directly_invited_can_access": {
+        "string": "この{resourceName}にアクセスできるのは、直接招待したユーザーだけです。"
     },
-    "ui3_and_ai_tour.ai_callout.description": {
-        "string": "Go from idea to reality—faster than ever—with a helpful set of AI tools."
+    "permissions.audience_selector.org_members": {
+        "string": "組織メンバー"
     },
-    "ui3_and_ai_tour.ai_callout.show_me": {
-        "string": "Show me"
+    "permissions.audience_selector.presentation_resource_name": {
+        "string": "プレゼンテーション"
     }
 }

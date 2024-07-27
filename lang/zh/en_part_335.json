@@ -1,152 +1,152 @@
 {
-    "community.promo.figjam_description_body": {
-        "string": "FigJam is a free collaborative whiteboarding tool. People share FigJam files like this one so you can copy, riff, and enjoy."
+    "whiteboard.color_palettes.modal.choose_up_to_9_colors": {
+        "string": "9個まで選択してください。"
     },
-    "community.promo.figma_description_body": {
-        "string": "Figma is a free collaborative design tool. People share Figma designs like this one so you can copy, riff, and enjoy."
+    "whiteboard.color_palettes.modal.colors": {
+        "string": "色"
     },
-    "community.detail_view.in_app_purchases": {
-        "string": "In-app purchases: {priceString}"
+    "whiteboard.color_palettes.modal.create_palette": {
+        "string": "パレットを作成"
     },
-    "community.detail_view.last_updated_at_time_stamp": {
-        "string": "Last updated {timeStamp}"
+    "whiteboard.color_palettes.modal.delete_color_palette_button": {
+        "string": "削除"
     },
-    "community.detail_view.support_contact": {
-        "string": "Support: {supportContact}"
+    "whiteboard.color_palettes.modal.delete_color_palette_confirmation_modal_content": {
+        "string": "チームの他のメンバーがこのカラーパレットを使用している場合があります。削除しますか?"
     },
-    "community.detail_view.creator_policy": {
-        "string": "Creator Policy"
+    "whiteboard.color_palettes.modal.delete_color_palette_confirmation_modal_title": {
+        "string": "全員から削除しますか?"
     },
-    "community.detail_view.creator_policy_publisher_name": {
-        "string": "From {publisherName}:"
+    "whiteboard.color_palettes.modal.delete_color_palette_tooltip": {
+        "string": "カラーパレットを削除"
     },
-    "community.related_content.more_by_these_creators": {
-        "string": "More by these creators"
+    "whiteboard.color_palettes.modal.duplicate_colors": {
+        "string": "パレットの色が重複しています。重複した色がないようにしてください。"
     },
-    "community.related_content.more_by_this_creator": {
-        "string": "More by this creator"
+    "whiteboard.color_palettes.modal.edit_palette": {
+        "string": "パレットを編集"
     },
-    "community.related_content.more_like_this": {
-        "string": "More like this"
+    "whiteboard.color_palettes.modal.edit_palette_tooltip": {
+        "string": "カラーパレットを編集"
     },
-    "community.plugins.version_history": {
-        "string": "Version history"
+    "whiteboard.color_palettes.modal.name": {
+        "string": "名前"
     },
-    "community.plugins.version_version_on_date": {
-        "string": "Version {versionName} on {createdAt}"
+    "whiteboard.color_palettes.modal.palette_name": {
+        "string": "例:  私のお気に入りのシェード"
     },
-    "community.plugins.see_all": {
-        "string": "See all"
+    "whiteboard.color_palettes.modal.palettes_visible_to_everyone": {
+        "string": "パレットは、チーム内の全員に表示されます。"
     },
-    "community.landing_page.devmode_filter_tooltip.title": {
-        "string": "Now available: Plugins for Dev Mode"
+    "whiteboard.color_palettes.modal.save_palette": {
+        "string": "保存"
     },
-    "community.landing_page.devmode_filter_tooltip.description": {
-        "string": "Find plugins that make it easier to turn Figma designs into code."
+    "whiteboard.color_palettes.modal.set_default": {
+        "string": "デフォルトとして設定"
     },
-    "community.landing_page.dropdown_filter__editor": {
-        "string": "Editor"
+    "whiteboard.color_palettes.tooltip.move_to_team": {
+        "string": "チームのパレットを作成または表示するには、このファイルをドラフトから移動します。"
     },
-    "community.landing_page.dropdown_filter__creators": {
-        "string": "Creators"
+    "whiteboard.color_palettes.unnamed_palette": {
+        "string": "自分のパレット"
     },
-    "community.landing_page.dropdown_filter__paid": {
-        "string": "Paid"
+    "whiteboard.color_palettes.visual_bell.failed_to_clear_team_default": {
+        "string": "チームのデフォルトパレットをクリアできませんでした"
     },
-    "community.landing_page.sort.paid_and_free": {
-        "string": "Paid + free"
+    "whiteboard.color_palettes.visual_bell.failed_to_set_team_default": {
+        "string": "チームのデフォルトパレットを設定できませんでした"
     },
-    "community.landing_page.sort.paid": {
-        "string": "Paid"
+    "whiteboard.colors.black": {
+        "string": "黒"
     },
-    "community.landing_page.sort.free": {
-        "string": "Free"
+    "whiteboard.colors.blue": {
+        "string": "青"
     },
-    "community.landing_page.dropdown_filter__resource_type": {
-        "string": "Resource type"
+    "whiteboard.colors.cobalt": {
+        "string": "コバルト"
     },
-    "community.curated_page.sort": {
-        "string": "Sort"
+    "whiteboard.colors.custom": {
+        "string": "カスタム"
     },
-    "community.seller.no_payout_statements_yet": {
-        "string": "You have no payment statements yet. Payout statements are generated on a monthly cadence. Please check back later."
+    "whiteboard.colors.dark_gray": {
+        "string": "濃い灰色"
     },
-    "community.seller.click_to_download_statements": {
-        "string": "Click to download CSVs of your monthly statements"
+    "whiteboard.colors.gray": {
+        "string": "灰色"
     },
-    "community.seller.payout_statement_error": {
-        "string": "Unable to get payout statements. Please try again later or contact support"
+    "whiteboard.colors.green": {
+        "string": "緑"
     },
-    "community.seller.community_payout_statements": {
-        "string": "Community payout statements"
+    "whiteboard.colors.indigo": {
+        "string": "インディゴ"
     },
-    "community.profiles.copy_profile_link": {
-        "string": "Copy profile link"
+    "whiteboard.colors.light_blue": {
+        "string": "薄い青"
     },
-    "community.profiles.restrict_user": {
-        "string": "Restrict user"
+    "whiteboard.colors.light_cobalt": {
+        "string": "薄いコバルト"
     },
-    "community.profiles.unrestrict_user": {
-        "string": "Unrestrict user"
+    "whiteboard.colors.light_gray": {
+        "string": "薄い灰色"
     },
-    "workspace_view.description_modal.subtitle": {
-        "string": "Descriptions can be seen from {allWorkspacesText} in your sidebar."
+    "whiteboard.colors.light_green": {
+        "string": "薄い緑"
     },
-    "workspace_view.description_modal.title": {
-        "string": "Edit this description"
+    "whiteboard.colors.light_indigo": {
+        "string": "薄いインディゴ"
     },
-    "workspace_view.description.placeholder": {
-        "string": "Add details about this workspace"
+    "whiteboard.colors.light_olive": {
+        "string": "薄いオリーブ"
     },
-    "workspace_view.description.save": {
-        "string": "Save"
+    "whiteboard.colors.light_orange": {
+        "string": "薄いオレンジ"
     },
-    "workspace_view.description_update_updated": {
-        "string": "Workspace description updated"
+    "whiteboard.colors.light_pink": {
+        "string": "薄いピンク"
     },
-    "workspace_view.description_update_error": {
-        "string": "An error occurred while updating the workspace description."
+    "whiteboard.colors.light_red": {
+        "string": "薄い赤"
     },
-    "file_browser.choose_file_modal.no_files_matching_query": {
-        "string": "No files matching {searchQuery} in this workspace"
+    "whiteboard.colors.light_teal": {
+        "string": "薄い青緑"
     },
-    "file_browser.choose_file_modal.no_files_found": {
-        "string": "No files found"
+    "whiteboard.colors.light_violet": {
+        "string": "薄い紫"
     },
-    "file_browser.pinning.no_pinned_files": {
-        "string": "No pinned files, yet."
+    "whiteboard.colors.light_yellow": {
+        "string": "薄い黄"
     },
-    "tile.file_tile.pin_opens": {
-        "string": "{numOpens, plural, one {{numOpens} open} other {{numOpens} opens}}"
+    "whiteboard.colors.olive": {
+        "string": "オリーブ"
     },
-    "sidebar.delete": {
-        "string": "Delete"
+    "whiteboard.colors.orange": {
+        "string": "オレンジ"
     },
-    "file_browser.copy_link_to_team": {
-        "string": "Copy link to team"
+    "whiteboard.colors.palette.base": {
+        "string": "色#{index}"
     },
-    "file_browser.copy_link_to_workspace": {
-        "string": "Copy link to workspace"
+    "whiteboard.colors.palette.highlight": {
+        "string": "ハイライト#{index}"
     },
-    "file_browser.copy_link_to_project": {
-        "string": "Copy link to project"
+    "whiteboard.colors.palette.light": {
+        "string": "ライト#{index}"
     },
-    "sidebar.if_you_delete_section_the_section": {
-        "string": "The {count} {item} in {section} will be removed from your sidebar, but you can always re-add {pronoun} later."
+    "whiteboard.colors.pink": {
+        "string": "ピンク"
     },
-    "sidebar.items": {
-        "string": "items"
+    "whiteboard.colors.red": {
+        "string": "赤"
     },
-    "sidebar.item": {
-        "string": "item"
+    "whiteboard.colors.teal": {
+        "string": "青緑"
     },
-    "sidebar.them": {
-        "string": "them"
+    "whiteboard.colors.violet": {
+        "string": "紫"
     },
-    "sidebar.it": {
-        "string": "it"
+    "whiteboard.colors.white": {
+        "string": "白"
     },
-    "org_upgrade.multi_team.bring_your_teams_together_with_the_figma_organization_plan": {
-        "string": "Bring your teams together with the Figma Organization plan"
+    "whiteboard.colors.yellow": {
+        "string": "黄"
     }
 }

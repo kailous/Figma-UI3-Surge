@@ -1,152 +1,152 @@
 {
-    "dev_handoff.figmadoc.beta_badge_tooltip": {
-        "string": "Code Connect surfaces code snippets from your design system"
+    "org_view.page_header_dropdown_label": {
+        "string": "打开组织下拉菜单"
     },
-    "dev_handoff.figmadocs.connected": {
-        "string": "Connected"
+    "org_view.plugin_tile": {
+        "string": "插件标题"
     },
-    "dev_handoff.figmadocs.connected_last_published_at": {
-        "string": "Last published: {lastPublishedAt}"
+    "org_view.plugins": {
+        "string": "插件"
     },
-    "dev_handoff.figmadocs.manual": {
-        "string": "Manual"
+    "org_view.private_plugins_will_appear_here": {
+        "string": "私有插件将显示在此处"
     },
-    "dev_handoff.figmadocs.manual_code_snippet": {
-        "string": "Manual code snippet"
+    "org_view.private_widgets_will_appear_here": {
+        "string": "私有小部件将显示在此处"
     },
-    "dev_handoff.figmadoc.connect_to_code": {
-        "string": "Connect to code"
+    "org_view.shared_fonts": {
+        "string": "共享字体"
     },
-    "dev_handoff.figmadoc.connect_to_code.body": {
-        "string": "Connect Figma with your code repo to show real component code when inspecting designs in Figma"
+    "org_view.view_libraries": {
+        "string": "查看库"
     },
-    "dev_handoff.figmadoc.add_manual_snippet": {
-        "string": "Add a manual snippet"
+    "org_view.view_selector.plugins": {
+        "string": "插件"
     },
-    "dev_handoff.code_connect.title": {
-        "string": "Code Connect"
+    "org_view.view_selector.upgrade_to_organization": {
+        "string": "升级为组织"
     },
-    "dev_handoff.code_connect.entrypoint_text": {
-        "string": "Connect to codebase"
+    "org_view.widgets": {
+        "string": "小部件"
     },
-    "dev_handoff.figmadocs.error_unknown": {
-        "string": "Failed to load Code Connect example"
+    "org_view.your_teams": {
+        "string": "您的团队"
     },
-    "dev_handoff.figmadocs.error_property_not_found": {
-        "string": "Property \"{propertyName}\" not found. The design file might not be using the latest version of the design library"
+    "org_view.your_workspace": {
+        "string": "您的工作区"
     },
-    "dev_handoff.figmadocs.error_property_type_mismatch": {
-        "string": "Property \"{propertyName}\" is not a {propertyType}. The design file might not be using the latest version of the design library"
+    "oss_exposure_branching_upsell_modal.body1": {
+        "string": "通过分支，您可以在不编辑原始文件的情况下试验设计、原型和库的更改。"
     },
-    "dev_handoff.figmadocs.error_title": {
-        "string": "Error loading Code Connect"
+    "oss_exposure_branching_upsell_modal.body2": {
+        "string": "分支功能的优点..."
     },
-    "dev_handoff.code_connect.entrypoint_title": {
-        "string": "Get started with Code Connect"
+    "oss_exposure_branching_upsell_modal.feature1": {
+        "string": "组织级别的库和字体"
     },
-    "dev_handoff.code_connect.entrypoint_body_text": {
-        "string": "Connect your design system to code for faster and more consistent development."
+    "oss_exposure_branching_upsell_modal.feature2": {
+        "string": "无限制的团队数量"
     },
-    "dev_handoff.instance_navigation.go_to_main_component": {
-        "string": "Go to main component"
+    "oss_exposure_branching_upsell_modal.feature3": {
+        "string": "设计系统分析"
     },
-    "design_systems.playground.banner_content": {
-        "string": "You’re viewing this in a playground—changes made here won’t affect the actual design."
+    "oss_exposure_branching_upsell_modal.nonadmin.body1": {
+        "string": "通过分支，您可以在不编辑原始文件的情况下试验设计、原型和库的更改。{learnMoreLink}"
     },
-    "design_systems.playground.component_playground": {
-        "string": "Component playground"
+    "oss_exposure_branching_upsell_modal.nonadmin.body_link": {
+        "string": "了解更多"
     },
-    "dev_handoff.playground.select_parent_instance": {
-        "string": "Select parent instance"
+    "oss_exposure_branching_upsell_modal.nonadmin.cta": {
+        "string": "了解"
     },
-    "design_systems.playground.thumbnail_alt": {
-        "string": "Playground thumbnail"
+    "oss_exposure_branching_upsell_modal.nonadmin.text": {
+        "string": "请向管理员请求升级此计划以启用分支功能。"
     },
-    "design_systems.playground.change_background": {
-        "string": "Change background"
+    "oss_exposure_branching_upsell_modal.primary_cta": {
+        "string": "升级"
     },
-    "design_systems.playground.reset_properties": {
-        "string": "Reset properties"
+    "oss_exposure_branching_upsell_modal.secondary_cta": {
+        "string": "了解更多"
     },
-    "design_systems.playground.banner_header": {
-        "string": "Feel free to experiment"
+    "oss_exposure_branching_upsell_modal.title": {
+        "string": "请升级到业务计划以创建分支"
     },
-    "dev_handoff.playground.open_in_playground": {
-        "string": "Open in playground"
+    "oss_sales_upsell_overlay.body1": {
+        "string": "通过业务计划，您可以向库中提议更改并共享文件而无需复制它们。"
     },
-    "dev_handoff.docs.links_title": {
-        "string": "Component documentation"
+    "oss_sales_upsell_overlay.body2": {
+        "string": "升级后，除了改进库的功能外，您还可以获得以下优点..."
     },
-    "dev_handoff.docs.links_default": {
-        "string": "Documentation"
+    "oss_sales_upsell_overlay.body3": {
+        "string": "如果有任何疑问，请随时联系我们。"
     },
-    "dev_handoff.docs.props": {
-        "string": "Props"
+    "oss_sales_upsell_overlay.contact_sales_form.text_placeholder": {
+        "string": "例如：想了解更多关于业务计划和企业计划的库"
     },
-    "dev_handoff.docs.prop_boolean": {
-        "string": "boolean"
+    "oss_sales_upsell_overlay.feature1": {
+        "string": "分支和合并功能"
     },
-    "dev_handoff.docs.prop_boolean_default_true": {
-        "string": "boolean (true)"
+    "oss_sales_upsell_overlay.feature2": {
+        "string": "跨团队共享字体和库"
     },
-    "dev_handoff.docs.prop_boolean_default_false": {
-        "string": "boolean (false)"
+    "oss_sales_upsell_overlay.feature3": {
+        "string": "设计系统分析"
     },
-    "dev_handoff.docs.prop_variant": {
-        "string": "variant ({values})"
+    "oss_sales_upsell_overlay.primary_cta": {
+        "string": "升级"
     },
-    "dev_handoff.docs.prop_string": {
-        "string": "string ({defaultValue})"
+    "oss_sales_upsell_overlay.secondary_cta": {
+        "string": "联系销售"
     },
-    "dev_handoff.docs.prop_instance": {
-        "string": "instance"
+    "oss_sales_upsell_overlay.title": {
+        "string": "在业务计划中更好地利用库"
     },
-    "dev_handoff.loading_plugin": {
-        "string": "Loading {pluginName}…"
+    "page_move.add_new_file_name": {
+        "string": "添加新文件名"
     },
-    "dev_handoff.tab.comment": {
-        "string": "Comment"
+    "paid_status.editor.seat_rename": {
+        "string": "全席位"
     },
-    "dev_handoff.inspect_panel.template": {
-        "string": "Template"
+    "paid_status.viewer": {
+        "string": "查看者"
     },
-    "inspect_panel.copy_as": {
-        "string": "Copy as"
+    "paid_status.viewer_restricted": {
+        "string": "受限查看者"
     },
-    "inspect_panel.copy_variable_name": {
-        "string": "Variable name"
+    "payments.abandoned_project": {
+        "string": "已放弃的项目"
     },
-    "inspect_panel.copy_variable_content": {
-        "string": "Text content"
+    "payments.abandoned_project_description": {
+        "string": "要编辑或共享此项目，请将其移动到一个团队或将个别文件移动到另一个项目中。"
     },
-    "dev_handoff.variables.inferred_text": {
-        "string": "Suggested variable usage based on the text value"
+    "payments.add_annual_plan.auto_renew.seat_rename": {
+        "string": "订阅会为年度订阅自动每年更新，并为之后添加到团队的付费席位每月自动更新。{cancellingIsEasyLink}"
     },
-    "dev_handoff.developer_related_links.empty_info": {
-        "string": "Add development links to Storybook, GitHub, Jira, and other tools."
+    "payments.add_annual_plan.cancelling_is_easy_link_text": {
+        "string": "取消很简单"
     },
-    "dev_handoff.developer_related_links.component_inherited_links_desc": {
-        "string": "This is a main component, so any links you add will show up on all instances."
+    "payments.add_annual_plan.cta_text": {
+        "string": "同意条款并升级"
     },
-    "dev_handoff.related_links.plugin.auth_required": {
-        "string": "{button} to show full title"
+    "payments.add_annual_plan.intro.seat_rename": {
+        "string": "年度席位的支付将被添加到下个月的账单中。对于不包括在年度计划中的付费Figma设计席位和FigJam席位，将分别每月收费{monthlyDesignEditorCost}/月和{monthlyFigjamEditorCost}/月。"
     },
-    "dev_handoff.related_links.plugin.connect_to": {
-        "string": "Connect to {pluginName}"
+    "payments.add_annual_plan.title": {
+        "string": "添加年度计划"
     },
-    "dev_handoff.developer_related_links.select_frame": {
-        "string": "Select frame"
+    "payments.add_annual_plan.tos": {
+        "string": "升级即表示您同意{tosLink}。"
     },
-    "dev_handoff.selection_colors.show_colors": {
-        "string": "Show colors"
+    "payments.add_annual_plan.tos_link_text": {
+        "string": "服务条款"
     },
-    "dev_handoff.styles.show_more_colors": {
-        "string": "{count, plural, one {Show {count} more color} other {Show {count} more colors}}"
+    "payments.cancel": {
+        "string": "取消"
     },
-    "dev_handoff.inspect_panel.close_plugin": {
-        "string": "Close plugin"
+    "payments.change_billing_contact_error": {
+        "string": "更改账单联系人时出错。"
     },
-    "dev_handoff.inspect_panel.generate_code": {
-        "string": "Close plugin and generate code"
+    "payments.change_billing_contact_placeholder": {
+        "string": "通过逗号分隔指定的电子邮件地址"
     }
 }

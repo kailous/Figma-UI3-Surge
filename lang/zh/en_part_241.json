@@ -1,152 +1,152 @@
 {
-    "fullscreen.context_menu.copy_link": {
-        "string": "Copy {editorSpecifierString} link"
+    "org_settings.sso.idp": {
+        "string": "身份提供商(IdP)"
     },
-    "visual_bell.copy_email": {
-        "string": "Copied email {email}"
+    "org_settings.sso.idp_entity_id": {
+        "string": "IdP实体ID"
     },
-    "visual_bell.copy_phone": {
-        "string": "Copied phone {number}"
+    "org_settings.sso.idp_sso_target_url": {
+        "string": "IdP SSO目标URL"
     },
-    "visual_bell.copy_hyperlink": {
-        "string": "Copied link to {hyperlink}"
+    "org_settings.sso.idp_sso_url": {
+        "string": "IdP SSO URL"
     },
-    "fullscreen.ruler_guide_context_menu.hide_rulers": {
-        "string": "Hide rulers"
+    "org_settings.sso.microsoft_azure_active_directory": {
+        "string": "Microsoft Azure Active Directory"
     },
-    "fullscreen.context_menu.ungroup": {
-        "string": "Ungroup"
+    "org_settings.sso.not_configured": {
+        "string": "未配置"
     },
-    "fullscreen.context_menu.rename": {
-        "string": "Rename"
+    "org_settings.sso.okta": {
+        "string": "Okta"
     },
-    "fullscreen.context_menu.flatten": {
-        "string": "Flatten"
+    "org_settings.sso.one_login": {
+        "string": "OneLogin"
     },
-    "fullscreen.context_menu.show_hide": {
-        "string": "Show/Hide"
+    "org_settings.sso.other": {
+        "string": "其他"
     },
-    "spell_check.no_suggestions_found": {
-        "string": "No suggestions found"
+    "org_settings.sso.please_review_the_information_you_entered": {
+        "string": "请检查您输入的信息。"
     },
-    "permissions.copy_link_button.visual_bell.copy_summary_link": {
-        "string": "Link copied…"
+    "org_settings.sso.review": {
+        "string": "检查"
     },
-    "dev_handoff.status.copy_summary_link": {
-        "string": "Copy link"
+    "org_settings.sso.saml_single_sign_on": {
+        "string": "使用SAML单点登录，您可以通过第三方身份提供商(IdP)管理用户。有关此信息的更多参考，请参阅{helpArticle}。"
     },
-    "whiteboard.section_preset_picker.shelf.title": {
-        "string": "Templates"
+    "org_settings.sso.saml_sso": {
+        "string": "SAML SSO"
     },
-    "comments.download_attachment_success": {
-        "string": "Download complete"
+    "org_settings.sso.saml_sso_description": {
+        "string": "使用SAML单点登录，您可以通过第三方身份提供商(IdP)管理用户。详细信息请参阅此{helpArticle}。"
     },
-    "comments.download_attachment_error": {
-        "string": "An error occurred while downloading the media file"
+    "org_settings.sso.signing_certificate": {
+        "string": "签名证书"
     },
-    "comments.copying_attachment": {
-        "string": "Copying media file…"
+    "org_settings.sso.sp_acs_url": {
+        "string": "SP ACS URL"
     },
-    "comments.copy_attachment_success": {
-        "string": "Media file copied to clipboard"
+    "org_settings.sso.sp_entity_id": {
+        "string": "SP实体ID"
     },
-    "comments.copy_attachment_error": {
-        "string": "An error occurred while copying the media file to the clipboard"
+    "org_settings.sso.tenant_id": {
+        "string": "租户ID"
     },
-    "dev_handoff.annotation.number_annotations": {
-        "string": "{count, plural, one {{count} annotation in Dev Mode} other {{count} annotations in Dev Mode}}"
+    "org_settings.sso.this_information_is_correct": {
+        "string": "这是正确的信息。"
     },
-    "fullscreen.context_menu.hide_comments": {
-        "string": "Hide comments"
+    "org_settings.sso.you_must_use_a_web_browser": {
+        "string": "必须使用Web浏览器来更改身份验证设置"
     },
-    "dev_handoff.status.menu_title_start_handoff_title": {
-        "string": "Start your handoff process"
+    "org_settings.sso.your_configuration_details": {
+        "string": "您的配置详细信息如下:"
     },
-    "dev_handoff.status.menu_title_design_changed_since_completed": {
-        "string": "Design has changed since marked as completed"
+    "org_settings.team_creation.admin_only.description.no_workspaces": {
+        "string": "只有组织管理员可以创建团队"
     },
-    "dev_handoff.status.menu_title_design_changed_since_ready": {
-        "string": "Design has changed since marked as ready for dev"
+    "org_settings.team_creation.admin_only.description.workspaces": {
+        "string": "只有组织管理员和工作区管理员可以创建团队"
     },
-    "qa.unavailable": {
-        "string": "Currently unavailable"
+    "org_settings.team_creation.admin_only.title": {
+        "string": "仅限管理员"
     },
-    "qa.all": {
-        "string": "All"
+    "org_settings.team_creation.any.description": {
+        "string": "此组织的所有成员都可以创建团队"
     },
-    "qa.assets": {
-        "string": "Assets"
+    "org_settings.team_creation.any.title": {
+        "string": "所有用户"
     },
-    "qa.plugins_widgets": {
-        "string": "Plugins & widgets"
+    "org_settings.team_creation.modal": {
+        "string": "在{organization}中可以创建团队的用户"
     },
-    "qa.toast.suggestion": {
-        "string": "Suggestion"
+    "org_settings.team_creation.save_button": {
+        "string": "保存"
     },
-    "dev_handoff.paywall.success_modal.grace_period.title": {
-        "string": "Welcome to Dev Mode"
+    "org_settings.team_creation.success": {
+        "string": "团队创建设置已更新"
     },
-    "dev_handoff.configuration_wizard.welcome_step.description_grace_period": {
-        "string": "We’ve sent your request to your admins and will let you know as soon as they approve it. You can use Dev Mode while you wait, for up to {numDays} days."
+    "org_settings.workspace_controls.edit_custom_settings": {
+        "string": "编辑自定义设置"
     },
-    "dev_handoff.paywall.success_modal.grace_period.button": {
-        "string": "Get started"
+    "org_settings.workspace_controls.has_custom_settings": {
+        "string": "使用自定义设置"
     },
-    "canvas_search.search_placeholder": {
-        "string": "Find…"
+    "org_settings.workspace_controls.header_text": {
+        "string": "工作区自定义设置"
     },
-    "dev_handoff.annotations.pin_properties_label": {
-        "string": "Property"
+    "org_settings.workspace_controls.public_link_controls_setting_allowed": {
+        "string": "开启"
     },
-    "dev_handoff.annotations.all_properties_added": {
-        "string": "All properties added"
+    "org_settings.workspace_controls.public_link_controls_setting_banned": {
+        "string": "关闭"
     },
-    "dev_handoff.annotations.no_value": {
-        "string": "No value"
+    "org_settings.workspace_controls.public_link_controls_setting_expiration_required": {
+        "string": "(需要有效期)"
     },
-    "dev_handoff.annotations.add_annotation": {
-        "string": "Add an annotation"
+    "org_settings.workspace_controls.public_link_controls_setting_password_and_expiration_required": {
+        "string": "(需要密码和有效期)"
     },
-    "dev_handoff.annotations.pin_properties_tooltip": {
-        "string": "Pin properties"
+    "org_settings.workspace_controls.public_link_controls_setting_password_required": {
+        "string": "(需要密码)"
     },
-    "dev_handoff.annotations.delete": {
-        "string": "Delete annotation"
+    "org_settings.workspace_controls.remove_custom_settings": {
+        "string": "删除自定义设置..."
     },
-    "dev_handoff.annotations.remove_property": {
-        "string": "Remove property"
+    "org_settings.workspace_controls.search_placeholder_text": {
+        "string": "搜索工作区..."
     },
-    "canvas_search.results_other_pages": {
-        "string": "See results on other pages"
+    "org_settings.workspace_controls.sub_header_text": {
+        "string": "更新各个工作区的默认公开链接设置。"
     },
-    "canvas_search.results_unavailable_offline": {
-        "string": "Offline—some results may be missing."
+    "org_team_actions.an_error_occurred_while_assigning_team_s_to_a_workspace": {
+        "string": "将团队分配到工作区时发生错误。"
     },
-    "canvas_search.this_page": {
-        "string": "This page"
+    "org_team_actions.an_error_occurred_while_changing_team_s_org_access": {
+        "string": "更改此团队的组织访问权限时发生错误。"
     },
-    "canvas_search.all_pages": {
-        "string": "All pages"
+    "org_team_actions.an_error_occurred_while_fetching_teams": {
+        "string": "获取团队时发生错误。"
     },
-    "canvas_search.no_results_in_this_deck": {
-        "string": "No results in this deck"
+    "org_team_actions.an_error_occurred_while_joining": {
+        "string": "加入时发生错误。"
     },
-    "canvas_search.no_results_on_page": {
-        "string": "No results on this page"
+    "org_team_actions.an_error_occurred_while_joining_teams": {
+        "string": "加入团队时发生错误。"
     },
-    "canvas_search.no_results_in_file": {
-        "string": "No results in this file"
+    "org_team_actions.an_error_occurred_while_trying_to_fetch_teams_within_the_organization": {
+        "string": "尝试获取组织内的团队时发生错误。"
     },
-    "canvas_search.results_count": {
-        "string": "{total, plural, one {{total} result} other {{total} results}}"
+    "org_team_actions.an_error_occurred_while_trying_to_fetch_this_team": {
+        "string": "尝试获取此团队时发生错误。"
     },
-    "fullscreen.canvas_search.pages": {
-        "string": "Pages"
+    "org_team_actions.an_error_occurred_while_unassigning_team_s_from_a_workspace": {
+        "string": "取消团队在工作区的分配时发生错误。"
     },
-    "fullscreen.pages_panel.unavailable_offline": {
-        "string": "Offline—page not available"
+    "org_team_actions.teams_were_assigned_to_workspace": {
+        "string": "{numTeams, plural, other {{numTeams}个团队已分配到{workspaceName}工作区}}"
     },
-    "sites.panel.see_unsupported_properties": {
-        "string": "See unsupported properties"
+    "org_team_actions.teams_were_unassigned": {
+        "string": "{numTeams, plural, other {{numTeams}个团队的分配已解除}}"
     }
 }

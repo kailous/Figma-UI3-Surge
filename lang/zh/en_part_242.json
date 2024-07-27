@@ -1,152 +1,152 @@
 {
-    "dev_handoff.configuration_wizard.title": {
-        "string": "Welcome to Dev Mode"
+    "org_upgrade.multi_team.acme_inc": {
+        "string": "Acme Inc."
     },
-    "dev_handoff.configuration_wizard.subtitle": {
-        "string": "Let’s get things set up for you."
+    "org_upgrade.multi_team.annual_billing_only": {
+        "string": "仅限年度账单"
     },
-    "dev_handoff.configuration_wizard.code_language_step.next_text": {
-        "string": "Next: Theme"
+    "org_upgrade.multi_team.billing_cost_per_month.seat_rename": {
+        "string": "{monthlyCostInDollars}/每席位/每月"
     },
-    "dev_handoff.configuration_wizard.inspect_plugins_step.next_text": {
-        "string": "Next: Integrations"
+    "org_upgrade.multi_team.bring_your_teams_together_with_the_figma_organization_plan": {
+        "string": "通过Figma业务计划实现团队间的协作"
     },
-    "dev_handoff.configuration_wizard.install_extensions_step.next_text": {
-        "string": "Done"
+    "org_upgrade.multi_team.continue": {
+        "string": "继续"
     },
-    "dev_handoff.configuration_wizard.theme_step.next_text": {
-        "string": "Next: Plugins"
+    "org_upgrade.multi_team.dev_mode": {
+        "string": "仅限开发模式"
     },
-    "dev_handoff.configuration_wizard.welcome_step.next_text": {
-        "string": "Next: Platform and units"
+    "org_upgrade.multi_team.fig_jam": {
+        "string": "FigJam"
     },
-    "dev_handoff.configuration_wizard.code_language_step.picker_title": {
-        "string": "Choose your platform"
+    "org_upgrade.multi_team.figma": {
+        "string": "Figma设计"
     },
-    "dev_handoff.configuration_wizard.inspect_plugins_step.picker_title": {
-        "string": "Plugins for Dev Mode"
+    "org_upgrade.multi_team.plan_items.centralized_billing_and_admin_controls": {
+        "string": "集中化的账单和管理控制"
     },
-    "dev_handoff.configuration_wizard.install_extensions_step.picker_title": {
-        "string": "Install integrations"
+    "org_upgrade.multi_team.plan_items.shared_design_libraries": {
+        "string": "共享设计库"
     },
-    "dev_handoff.configuration_wizard.theme_step.picker_title": {
-        "string": "Set color theme"
+    "org_upgrade.multi_team.plan_items.shared_fonts_and_styles": {
+        "string": "共享字体和样式"
     },
-    "dev_handoff.recenter": {
-        "string": "Re-center"
+    "org_upgrade.multi_team.plan_items.single_sign_on_sso_integrations": {
+        "string": "单点登录(SSO)集成"
     },
-    "dev_handoff.paywall.end_of_beta_modal.description.starter_viewer": {
-        "string": "To keep using Dev Mode, you’ll need to ask your admin for more details."
+    "org_upgrade.multi_team.see_all_features": {
+        "string": "查看所有功能"
     },
-    "dev_handoff.paywall.end_of_beta_modal.description.starter": {
-        "string": "Dev Mode’s beta is over. To keep using it, you’ll need to upgrade your plan."
+    "org_upgrade.single_team.annual_billing_only": {
+        "string": "仅限年度账单"
     },
-    "dev_handoff.paywall.end_of_beta_modal.description.restricted_grace_period": {
-        "string": "Dev Mode’s beta is over. If you’d like access, ask your admin—you can keep using it while you wait (for up to {numDays} days)."
+    "org_upgrade.single_team.audio_conversations_in_files": {
+        "string": "在文件中添加语音对话"
     },
-    "dev_handoff.paywall.end_of_beta_modal.description.restricted": {
-        "string": "Dev Mode’s beta is over. If you’d like access, ask your admin—you can keep using it while you wait (for up to 14 days)."
+    "org_upgrade.single_team.control_file_sharing_inside_and_outside_of_your_organization": {
+        "string": "管理组织内外的文件共享"
     },
-    "dev_handoff.paywall.end_of_beta_modal.cta.starter": {
-        "string": "See plans"
+    "org_upgrade.single_team.cross_team_design_libraries_and_fonts": {
+        "string": "跨团队共享设计库和字体"
     },
-    "dev_handoff.paywall.end_of_beta_modal.title": {
-        "string": "Thanks for trying out Dev Mode"
+    "org_upgrade.single_team.design_library_within_one_team": {
+        "string": "在一个团队内设计库"
     },
-    "dev_handoff.paywall.hint_in_design_mode": {
-        "string": "Switch into Dev Mode whenever you’re ready to start coding."
+    "org_upgrade.single_team.everything_in_professional_plus": {
+        "string": "包括专业计划中的所有功能"
     },
-    "dev_handoff.inspect_mode.switched_to_inspect": {
-        "string": "Switched to Dev Mode"
+    "org_upgrade.single_team.full_content_ownership": {
+        "string": "完全内容所有权"
     },
-    "dev_handoff.inspect_mode.switched_to_design": {
-        "string": "Switched to design mode"
+    "org_upgrade.single_team.get_more_out_of_figma_as_you_grow": {
+        "string": "随着组织的发展充分利用Figma"
     },
-    "dev_handoff.paywall.approved.title": {
-        "string": "You’ve been upgraded to Dev Mode"
+    "org_upgrade.single_team.organization_plan": {
+        "string": "业务计划"
     },
-    "dev_handoff.paywall.approved.description": {
-        "string": "Dev Mode simplifies handoff, speeds up inspection, and integrates with your favorite tools.\n\nTry it out, by clicking this toggle."
+    "org_upgrade.single_team.price_when_billed_annually": {
+        "string": "按年收费时的价格"
     },
-    "dev_handoff.status.mark_completed": {
-        "string": "Mark as completed"
+    "org_upgrade.single_team.private_plugins_and_plugin_management": {
+        "string": "私有插件和插件管理"
     },
-    "dev_handoff.overview_mode.tooltip.upgrade_mark_completed": {
-        "string": "Request Dev Mode access to mark designs as completed"
+    "org_upgrade.single_team.professional_plan": {
+        "string": "专业计划"
     },
-    "dev_handoff.workflows.focus_view.complete_button.status_removed": {
-        "string": "Cannot be marked as completed because status was removed "
+    "org_upgrade.single_team.see_all_features": {
+        "string": "查看所有功能"
     },
-    "pages_panel.summary_preview.last_updated": {
-        "string": "Updated {time}"
+    "org_upgrade.single_team.single_sign_on_sso_integration": {
+        "string": "单点登录(SSO)集成"
     },
-    "pages_panel.summary_preview.update_preview": {
-        "string": "Update preview"
+    "org_upgrade.single_team.unlimited_design_files_and_projects_in_one_team": {
+        "string": "一个团队内无限制的设计文件和项目"
     },
-    "voting.modal.votes": {
-        "string": "{numVotes, plural, one {{numVotesElem} vote} other {{numVotesElem} votes}}"
+    "org_upgrade.single_team.unlimited_teams_and_unlimited_projects": {
+        "string": "无限制的团队和项目"
     },
-    "voting.modal.voting_results_image_preview_alt": {
-        "string": "Vote object preview image"
+    "org_upgrade.single_team.upgrade_to_an_organization": {
+        "string": "升级为业务计划"
     },
-    "voting.modal.medal_img_alt": {
-        "string": "Most voted medal"
+    "org_user_actions.an_error_occurred": {
+        "string": "发生错误。"
     },
-    "voting.modal.actions.delete_voting_session": {
-        "string": "Delete"
+    "org_user_actions.an_error_occurred_closing_onboarding": {
+        "string": "关闭入职时发生错误。"
     },
-    "voting.modal.actions.export_as_csv": {
-        "string": "Export as CSV"
+    "org_user_actions.an_error_occurred_fetching_org_admins": {
+        "string": "获取组织管理员时发生错误。"
     },
-    "meetings_panel.voting.results": {
-        "string": "Results"
+    "org_user_actions.an_error_occurred_fetching_org_users": {
+        "string": "获取组织用户时发生错误。"
     },
-    "dev_handoff.workflows.overview.banner.title": {
-        "string": "An overview made for developers"
+    "org_user_actions.an_error_occurred_leaving_organization": {
+        "string": "从{orgName}组织离开时发生错误。"
     },
-    "dev_handoff.workflows.overview.banner.subtitle": {
-        "string": "Find and manage designs ready to inspect and build"
+    "org_user_actions.an_error_occurred_requesting_account_type": {
+        "string": "请求账户类型时发生错误。"
     },
-    "dev_handoff.workflows.overview.banner.learn_more": {
-        "string": "Learn more"
+    "org_user_actions.an_error_occurred_updating_org_users": {
+        "string": "更新组织用户时发生错误。"
     },
-    "dev_handoff.workflows.edit_info.edited": {
-        "string": "{user} made design changes {dateFromNow}"
+    "org_user_actions.an_error_occurred_while_fetching_member_counts": {
+        "string": "获取成员数量时发生错误。"
     },
-    "dev_handoff.workflows.edit_info.updated_design": {
-        "string": "{user} added a new version of the design · {dateFromNow}"
+    "org_user_actions.upgrade_request_sent": {
+        "string": "升级请求已发送。"
     },
-    "dev_handoff.workflows.edit_info.marked": {
-        "string": "{user} marked as {status} {dateFromNow}"
+    "org_user_actions.user_has_been_removed_from_organization": {
+        "string": "{deletedOrgUserCount, plural, other {{deletedOrgUserCount}名用户已从此组织中删除。完成最多可能需要10分钟。}}"
     },
-    "dev_handoff.paywall.org_not_member_hint": {
-        "string": "You cannot access Dev Mode in this file without being a guest or member of this organization"
+    "org_user_actions.user_upgrade_request_submitted": {
+        "string": "请求已提交。管理员回应后将通知您。"
     },
-    "dev_handoff.vscode.zoom_control.zoom_options_actual_size": {
-        "string": "Actual size (100%)"
+    "org_user_actions.you_successfully_left_organization": {
+        "string": "您已成功离开{orgName}组织。"
     },
-    "dev_handoff.vscode.zoom_control.zoom_options_fit_to_screen": {
-        "string": "Fit to screen"
+    "org_view.libraries": {
+        "string": "库"
     },
-    "dev_handoff.vscode.zoom_control.zoom_options_fit_to_width": {
-        "string": "Fit to width"
+    "org_view.license_group.member_count": {
+        "string": "{memberCount, plural, other {{memberCount}名成员}}"
     },
-    "dev_handoff.vscode.zoom_control.zoom_options_fill_screen": {
-        "string": "Fill screen"
+    "org_view.license_group.team_count": {
+        "string": "{teamCount, plural, other {{teamCount}个团队}}"
     },
-    "dev_handoff.vscode.zoom_control.zoom_out_button": {
-        "string": "Zoom out"
+    "org_view.license_group.unassigned_tile.description": {
+        "string": "{teamCount, plural, other {{teamCount}个团队未分配到工作区}}"
     },
-    "dev_handoff.vscode.zoom_control.zoom_in_button": {
-        "string": "Zoom in"
+    "org_view.license_group.unassigned_tile.name": {
+        "string": "其他团队"
     },
-    "dev_handoff.inspect_settings": {
-        "string": "Inspect settings"
+    "org_view.new_team": {
+        "string": "新建团队"
     },
-    "dev_handoff.breadcrumbs.hidden_nodes": {
-        "string": "{count} hidden"
+    "org_view.other_workspaces": {
+        "string": "其他工作区"
     },
-    "dev_handoff.breadcrumbs.ellipsis": {
-        "string": "…"
+    "org_view.overview": {
+        "string": "概述"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "asset_transfers.request_modal.request_transfer": {
-        "string": "Request transfer"
+    "edu.please_share_a_url_of_the_course_you_are_teaching": {
+        "string": "请分享您所教授课程的URL"
     },
-    "asset_transfers.request_modal.start_this_transfer": {
-        "string": "Start this transfer"
+    "edu.please_share_your_reason_for_applying_for_a_figma_education_plan": {
+        "string": "请分享您申请Figma教育计划的理由"
     },
-    "asset_transfers.request_modal.once_a_transfer_is_accepted_by_an_external_organization_it_can_t_be_undone": {
-        "string": "Once a transfer is accepted by an external organization, it can't be undone."
+    "edu.please_specify_a_field": {
+        "string": "请指定一个领域"
     },
-    "asset_transfers.request_modal.step_1_of_2": {
-        "string": "Step {stepNumber} of 2"
+    "edu.please_specify_the_name_of_your_school": {
+        "string": "请指定您的学校名称"
     },
-    "asset_transfers.request_modal.cancel": {
-        "string": "Cancel"
+    "edu.please_upload_a_copy": {
+        "string": "请上传一份副本"
     },
-    "asset_transfers.request_modal.back": {
-        "string": "Back"
+    "edu.please_upload_a_copy_of_your_bootcamp_receipt_or_course_confirmation": {
+        "string": "请上传训练营收据或课程确认信的副本"
     },
-    "asset_transfers.request_modal.web_link": {
-        "string": "Web link"
+    "edu.please_upload_a_copy_of_your_class_schedule": {
+        "string": "请上传您的课程表副本"
     },
-    "asset_transfers.request_modal.email_address": {
-        "string": "Email address"
+    "edu.please_upload_a_copy_of_your_class_syllabus": {
+        "string": "请上传您的课程大纲副本"
     },
-    "asset_transfers.request_modal.add_a_message_if_you_d_like": {
-        "string": "Add a message if you'd like"
+    "edu.privacy_policy": {
+        "string": "隐私政策"
     },
-    "team_view.add_to_favorites": {
-        "string": "Add to your favorites"
+    "edu.professional_tools": {
+        "string": "专业工具"
     },
-    "file_browser.folder_list_view.header_name_column": {
-        "string": "Name"
+    "edu.provide_proof_of_your_status_as_a_current_educator_student": {
+        "string": "请提供您当前作为教育工作者或学生身份的证明"
     },
-    "file_browser.folder_list_view.header_files_column": {
-        "string": "Files"
+    "edu.school_email_address": {
+        "string": "学校邮箱地址"
     },
-    "file_browser.folder_list_view.header_updated_column": {
-        "string": "Updated"
+    "edu.school_not_listed": {
+        "string": "列表中没有学校"
     },
-    "file_browser.folder_list_view.header_created_column": {
-        "string": "Created"
+    "edu.school_not_listed_please_specify_full_school_name": {
+        "string": "列表中没有学校（请指定学校的全名）"
     },
-    "file_browser.folder_list_view.header_shared_at_column": {
-        "string": "Shared at"
+    "edu.science": {
+        "string": "科学"
     },
-    "file_browser.folder_list_view.header_shared_by_column": {
-        "string": "Shared by"
+    "edu.september": {
+        "string": "九月"
     },
-    "file_browser.folder_list_view.file_singular": {
-        "string": "1 file"
+    "edu.sidebar_section.after_that_you_ll_need_to_upgrade_your_team_or_verify": {
+        "string": "之后，您需要升级您的团队或{verify}。"
     },
-    "file_browser.folder_list_view.files": {
-        "string": "{fileCount} files"
+    "edu.sidebar_section.bootcamp_users_after_that_you_ll_need_to_upgrade_your_team": {
+        "string": "之后，继续编辑所有文件需要升级您的团队。"
     },
-    "tile.dropdown.no_permission_to_restore_error": {
-        "string": "You don't have permission to restore these files."
+    "edu.sidebar_section.bootcamp_users_to_keep_editing_upgrade_your_team": {
+        "string": "要继续编辑所有文件并使用高级功能，请升级您的团队。"
     },
-    "file_browser.file_browser_actions.recently_viewed_error": {
-        "string": "{numFiles, plural, one {An error occurred while removing this file from Recently Viewed.} other {An error occurred while removing these files from Recently Viewed.}}"
+    "edu.sidebar_section.create_team": {
+        "string": "现在您可以免费创建一个团队，享受专业计划的全部福利。"
     },
-    "favorited_resources.indicate_section_prefix": {
-        "string": "Sidebar"
+    "edu.sidebar_section.education_plan_expired": {
+        "string": "教育计划已到期"
     },
-    "tile.dropdown.copy_link": {
-        "string": "Copy link"
+    "edu.sidebar_section.education_plan_expires_in_days": {
+        "string": "教育计划将在{daysLeft}天后到期。"
     },
-    "tile.dropdown.delete_file_and_branches": {
-        "string": "Delete file and branches"
+    "edu.sidebar_section.to_keep_editing_upgrade_your_team": {
+        "string": "要继续编辑，请升级您的团队或{verify}。"
     },
-    "tile.dropdown.delete_single_tile": {
-        "string": "Delete"
+    "edu.sidebar_section.upgrade": {
+        "string": "免费升级您的团队？"
     },
-    "tile.dropdown.delete_file": {
-        "string": "Delete{objText}"
+    "edu.sidebar_section.verified": {
+        "string": "Figma教育资格已验证。"
     },
-    "tile.dropdown.move_file_and_branches_to_trash": {
-        "string": "Move file and branches to trash"
+    "edu.sidebar_section.verify_your_education_status": {
+        "string": "验证您的教育身份"
     },
-    "tile.dropdown.trash_single_tile": {
-        "string": "Move to trash"
+    "edu.social_studies": {
+        "string": "社会研究"
     },
-    "tile.dropdown.trash_file": {
-        "string": "Trash{objText}"
+    "edu.still_having_trouble": {
+        "string": "仍有问题吗？"
     },
-    "tile.dropdown.duplicate_single_tile": {
-        "string": "Duplicate"
+    "edu.still_having_trouble_after_logging_in_with_your_school_email": {
+        "string": "使用学校邮箱登录后仍有问题吗？"
     },
-    "tile.dropdown.duplicate": {
-        "string": "Duplicate{objText}"
+    "edu.still_having_trouble_give_us_a_bit_more_information": {
+        "string": "如果问题仍未解决，请提供更多信息{moreInformation}。"
     },
-    "tile.dropdown.duplicate_to_draft_single_file_or_repo": {
-        "string": "Duplicate to drafts"
+    "edu.student": {
+        "string": "学生"
     },
-    "tile.dropdown.duplicate_to_draft": {
-        "string": "Duplicate {objText} to drafts"
+    "edu.submit": {
+        "string": "提交"
     },
-    "tile.dropdown.open": {
-        "string": "Open"
+    "edu.terms_of_service": {
+        "string": "服务条款"
     },
-    "tile.dropdown.open_new_tab": {
-        "string": "Open in new tab"
+    "edu.upgrade_for_free": {
+        "string": "免费升级"
     },
-    "tile.dropdown.pin_to_project": {
-        "string": "Pin to project"
+    "edu.upgrade_teams.body": {
+        "string": "教育团队可以免费享受所有{link}。"
     },
-    "tile.dropdown.pin_to_workspace": {
-        "string": "Pin to workspace"
+    "edu.upgrade_teams.body_link_text": {
+        "string": "专业计划的特典"
     },
-    "tile.dropdown.remove_from_recent_pluralized": {
-        "string": "{numFiles, plural, one {Remove from recent} other {Remove {numFiles} items from recent}}"
+    "edu.upgrade_teams.body_multiple_teams": {
+        "string": "如果要升级多个团队，请逐个进行。"
     },
-    "tile.dropdown.rename": {
-        "string": "Rename"
+    "edu.upgrade_teams.headline": {
+        "string": "选择免费升级的团队"
     },
-    "tile.dropdown.rename_file": {
-        "string": "Rename file"
+    "edu.upgrade_your_plan": {
+        "string": "升级您的计划"
     },
-    "tile.dropdown.move_file": {
-        "string": "Move file…"
+    "edu.upgrade_your_plan_to_access_unlimited_files_and_features_like_advanced_prototyping_or_create_a_new_professional_team": {
+        "string": "升级您的计划以访问无限的文件和高级原型设计功能，或创建一个新的专业团队{upgradeYourPlan}或{createNewProfessionalTeam}。"
     },
-    "tile.dropdown.restore_from_version": {
-        "string": "Restore from version"
+    "edu.upgrade_your_plan_to_keep_creating_and_editing_unlimited_files_or_create_a_new_professionalteam": {
+        "string": "升级您的计划以继续创建和编辑无限的文件，或创建一个新的专业团队{upgradeYourPlan}或{createANewProfessionalteam}。"
     },
-    "tile.dropdown.share": {
-        "string": "Share"
+    "edu.user_name_user_email": {
+        "string": "{userName} ({userEmail})"
     },
-    "tile.dropdown.show_in_project": {
-        "string": "Show in project"
+    "edu.ux_ui_or_interaction_design": {
+        "string": "UX/UI或交互设计"
     },
-    "tile.dropdown.remove_project_pin": {
-        "string": "Remove project pin"
+    "edu.verification_failed": {
+        "string": "验证失败"
     },
-    "tile.dropdown.remove_workspace_pin": {
-        "string": "Remove workspace pin"
+    "edu.verify.body": {
+        "string": "要验证您的教育状态，请提交{pleaseSubmitThisFormLink}。我们的团队会审核您的申请，并在两周内回复您。"
     },
-    "tile.dropdown.edit_workspace_pin": {
-        "string": "Edit workspace pin"
+    "edu.verify.form_link_text": {
+        "string": "此表单"
     },
-    "tile.dropdown.create_new_branch": {
-        "string": "Create new branch"
+    "edu.verify.headline": {
+        "string": "还差一步"
     },
-    "tile.dropdown.delete_forever": {
-        "string": "Permanently delete{objectText}"
+    "edu.verify_your_status": {
+        "string": "验证您的身份"
     },
-    "tile.dropdown.restore": {
-        "string": "{numFiles, plural, one {Restore} other {Restore {objectText}}}"
+    "edu.what_is_your_primary_field_of_instruction": {
+        "string": "请选择您的主要教学领域。"
     },
-    "fullscreen.filename_view.file_analytics": {
-        "string": "Library analytics"
+    "edu.what_is_your_primary_field_of_study": {
+        "string": "请选择您的主要研究领域。"
     }
 }

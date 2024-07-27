@@ -1,152 +1,152 @@
 {
-    "settings.account_settings.change_name_modal_title": {
-        "string": "Change name"
+    "dev_handoff.paywall.toggle_disabled_moving_disabled": {
+        "string": "要在此文件中使用开发模式，请将文件移至付费团队。"
     },
-    "settings.account_settings.change_name_modal_input_placeholder": {
-        "string": "New name"
+    "dev_handoff.paywall.toggle_disabled_while_file_is_being_moved": {
+        "string": "此文件正在移动中，很快就可以使用开发模式。"
     },
-    "settings.account_setting.change_password_modal_header": {
-        "string": "Change password"
+    "dev_handoff.paywall.upsell_modal.advanced_inspection.details": {
+        "string": "一键获取测量值、规格、布局等信息，还可以生成适用于CSS、iOS和Android的代码。"
     },
-    "settings.account_setting.change_password_current_password_placeholder": {
-        "string": "Current password"
+    "dev_handoff.paywall.upsell_modal.advanced_inspection.header": {
+        "string": "在Figma中使用高级检查功能"
     },
-    "settings.account_setting.change_password_new_password_placeholder": {
-        "string": "New password"
+    "dev_handoff.paywall.upsell_modal.advanced_inspection.tab_title": {
+        "string": "高级检查"
     },
-    "settings.account_setting.change_password_confirm_password_placeholder": {
-        "string": "Confirm password"
+    "dev_handoff.paywall.upsell_modal.plugins_extensions.details": {
+        "string": "连接到Jira、GitHub、Storybook、VS Code等工具，或使用Figma提供的API创建自己的插件。"
     },
-    "settings.delete_user_account.account_deletion_is_in_progress": {
-        "string": "Account deletion is in progress and may take a few moments. You will be redirected once deletion is complete."
+    "dev_handoff.paywall.upsell_modal.plugins_extensions.header": {
+        "string": "自定义Figma"
     },
-    "settings.delete_user_account.are_you_sure_you_want_to_delete_your_figma_account": {
-        "string": "Are you sure you want to delete your Figma account?"
+    "dev_handoff.paywall.upsell_modal.plugins_extensions.tab_title": {
+        "string": "插件和扩展"
     },
-    "settings.delete_user_account.deleting_your_this_props_user_email_account_will_delete_all_your_associated_data": {
-        "string": "Deleting your {email} account will delete all your associated data such as your files, components and images, including content you have shared with others. You cannot undo this operation."
+    "dev_handoff.paywall.upsell_modal.quick_handoff.details": {
+        "string": "新的工具如注释和测量，使您能够轻松准确地获取细节信息，只需点击“准备开发”即可进行交接。"
     },
-    "settings.any_resources_you_have_marked_for_sale": {
-        "string": "As per our {creatorAgreement}, any resources you have for sale will be placed into a delisted state. Past consumers will continue to have access to their purchased resources."
+    "dev_handoff.paywall.upsell_modal.quick_handoff.header": {
+        "string": "简化设计交接"
     },
-    "settings.delete_user_account.for_more_information_about_how_we_treat_your_data": {
-        "string": "For more information about how we treat your data, please see our {privacyPolicyLink}."
+    "dev_handoff.paywall.upsell_modal.quick_handoff.tab_title": {
+        "string": "快速交接"
     },
-    "settings.delete_user_account.to_confirm_please_type_strong_delete_my_account_strong_below": {
-        "string": "To confirm, please type \"{confirmationText}\" below."
+    "dev_handoff.paywall.upsell_modal.title": {
+        "string": "开发模式让编码更快速"
     },
-    "settings.delete_user_account.delete_account": {
-        "string": "Delete account"
+    "dev_handoff.paywall.upsell_modal.track_changes.details": {
+        "string": "更改历史记录让您快速识别设计的细微调整，减少设计与开发之间的往返，更专注于编码。"
     },
-    "settings.delete_user_account.delete_my_account": {
-        "string": "delete my account"
+    "dev_handoff.paywall.upsell_modal.track_changes.header": {
+        "string": "随时掌握最新更改"
     },
-    "settings.delete_user_account.a_verified_email_is_required": {
-        "string": "A verified email is required"
+    "dev_handoff.paywall.upsell_modal.track_changes.tab_title": {
+        "string": "更改历史"
     },
-    "settings.delete_user_account.you_must_verify_your_email_address_before_you_can_attempt_this_operation": {
-        "string": "You must verify your email address before you can attempt this operation."
+    "dev_handoff.paywall.vscode.description": {
+        "string": "通过Figma的VS Code集成，设计和代码并排显示，让您保持专注，创造出更好的产品。"
     },
-    "settings.delete_user_account.resend_verification_email": {
-        "string": "Resend verification email"
+    "dev_handoff.paywall.vscode.list1": {
+        "string": "无需离开VS Code即可检查Figma文件"
     },
-    "auth.two-factor-setup.remove-app-with-sms-two-factor-on": {
-        "string": "You're about to turn off app-based two-factor, but SMS-based two-factor will still be on."
+    "dev_handoff.paywall.vscode.list2": {
+        "string": "获取基于设计的代码建议"
     },
-    "auth.two-factor-setup.this_will_disable_two_factor_authentication_entirely": {
-        "string": "This will disable two-factor authentication entirely."
+    "dev_handoff.paywall.vscode.list3": {
+        "string": "查看和回复最新的评论"
     },
-    "auth.two-factor-setup.disable_two_factor_auth": {
-        "string": "Disable two-factor authentication"
+    "dev_handoff.paywall.vscode.list4": {
+        "string": "链接代码文件到设计组件"
     },
-    "auth.two-factor-setup.are_you_sure": {
-        "string": "Are you sure?"
+    "dev_handoff.paywall.vscode.need_access": {
+        "string": "要使用Figma的VS Code集成功能，需要访问{devMode}。"
     },
-    "auth.two-factor-setup.ok": {
-        "string": "OK"
+    "dev_handoff.paywall.vscode.need_access_dev_mode": {
+        "string": "开发模式"
     },
-    "auth.two-factor-setup.phone-number-setup-enabled-info": {
-        "string": "Your phone number is set to {phoneNumber}. Authentication codes will be texted to this number for logging in."
+    "dev_handoff.paywall.vscode.no_access": {
+        "string": "Figma的VS Code集成功能在此文件中不可用。请联系管理员了解更多详情。"
     },
-    "auth.two-factor-setup.unregister_sms_number": {
-        "string": "Unregister SMS number"
+    "dev_handoff.paywall.vscode.title": {
+        "string": "VS Code集成"
     },
-    "auth.two-factor-setup.close": {
-        "string": "Close"
+    "dev_handoff.paywall.vscode.video": {
+        "string": "观看Emil的VS Code集成演示"
     },
-    "auth.two-factor-setup.recovery_codes": {
-        "string": "Recovery codes"
+    "dev_handoff.paywall.vscode.view_button": {
+        "string": "查看文档"
     },
-    "auth.two-factor-setup.sms-sent-message": {
-        "string": "SMS sent to {phoneNumber}. Please allow up to a minute for the SMS to arrive, then enter the authentication code below."
+    "dev_handoff.playground.open_in_playground": {
+        "string": "在游乐场中打开"
     },
-    "auth.two-factor-setup.resend_code": {
-        "string": "Resend code"
+    "dev_handoff.playground.select_parent_instance": {
+        "string": "选择父实例"
     },
-    "auth.two-factor-setup.cancel": {
-        "string": "Cancel"
+    "dev_handoff.plugin_panel.title": {
+        "string": "插件操作"
     },
-    "auth.two-factor-setup.verify": {
-        "string": "Verify"
+    "dev_handoff.recenter": {
+        "string": "重新居中"
     },
-    "auth.two-factor-setup.enter-phone-number": {
-        "string": "Enter a phone number where we can send an authentication code via SMS."
+    "dev_handoff.related_links.plugin.auth_required": {
+        "string": "显示完整标题{button}"
     },
-    "auth.two-factor-setup.phone-number-opt-in": {
-        "string": "By providing your phone number, you agree to receive text messages from Figma to enable two-factor authentication when you log in. Message and data rates may apply."
+    "dev_handoff.related_links.plugin.connect_to": {
+        "string": "连接到{pluginName}"
     },
-    "auth.two-factor-setup.use_an_authenticator_app_instead": {
-        "string": "Use an authenticator app instead"
+    "dev_handoff.selection_colors": {
+        "string": "选择颜色"
     },
-    "auth.two-factor-setup.sms_two_factor_authentication_is_enabled": {
-        "string": "SMS two-factor authentication is enabled"
+    "dev_handoff.selection_colors.gradient_angular": {
+        "string": "角向渐变"
     },
-    "auth.two-factor-setup.sms_two_factor_authentication": {
-        "string": "SMS two-factor authentication"
+    "dev_handoff.selection_colors.gradient_diamond": {
+        "string": "菱形渐变"
     },
-    "auth.two-factor-setup.remove-number-with-app-two-factor-on": {
-        "string": "You're about to remove your phone number, but app-based two-factor will still be on."
+    "dev_handoff.selection_colors.gradient_linear": {
+        "string": "线性渐变"
     },
-    "auth.two-factor-setup.code_resent": {
-        "string": "Code resent"
+    "dev_handoff.selection_colors.gradient_radial": {
+        "string": "径向渐变"
     },
-    "auth.two-factor-setup.phone-number-placeholder": {
-        "string": "Phone number, e.g. +1 555 4443333"
+    "dev_handoff.selection_colors.show_colors": {
+        "string": "显示颜色"
     },
-    "auth.two-factor-setup.set_up_two_factor_authentication": {
-        "string": "Set up two-factor authentication"
+    "dev_handoff.selection_effect_styles": {
+        "string": "选择效果样式"
     },
-    "auth.two-factor-setup.download_mobile_app": {
-        "string": "Download mobile app"
+    "dev_handoff.selection_text_styles": {
+        "string": "选择文本样式"
     },
-    "auth.two-factor-setup.scan_qr_code": {
-        "string": "Scan QR code"
+    "dev_handoff.status.completed": {
+        "string": "完成"
     },
-    "auth.two-factor-setup.two_factor_authentication_enabled": {
-        "string": "Two-factor authentication enabled!"
+    "dev_handoff.status.copy_dev_link": {
+        "string": "复制开发链接"
     },
-    "auth.two-factor-setup.authenticator-app-needed": {
-        "string": "You will need an authenticator mobile app to complete this process, such as one of the following:"
+    "dev_handoff.status.copy_focus_link": {
+        "string": "复制焦点视图链接"
     },
-    "auth.two-factor-setup.google_authenticator": {
-        "string": "Google Authenticator"
+    "dev_handoff.status.copy_summary_link": {
+        "string": "复制概要链接"
     },
-    "auth.two-factor-setup.duo_mobile": {
-        "string": "Duo Mobile"
+    "dev_handoff.status.mark_as_completed": {
+        "string": "标记为完成"
     },
-    "auth.two-factor-setup.authy": {
-        "string": "Authy"
+    "dev_handoff.status.mark_as_ready": {
+        "string": "标记为未完成"
     },
-    "auth.two-factor-setup.send_me_an_sms_instead": {
-        "string": "Send me an SMS instead"
+    "dev_handoff.status.mark_completed": {
+        "string": "标记为完成"
     },
-    "auth.two-factor-setup.continue": {
-        "string": "Continue"
+    "dev_handoff.status.mark_status_sentence_part.completed": {
+        "string": "完成"
     },
-    "auth.two-factor-setup.scan_the_qr_code_into_your_app": {
-        "string": "Scan the QR code into your app."
+    "dev_handoff.status.mark_status_sentence_part.ready_for_dev": {
+        "string": "开发准备就绪"
     },
-    "auth.two-factor-setup.click_here_to_manually_type_the_code_instead": {
-        "string": "Click here to manually type the code instead."
+    "dev_handoff.status.menu_note_button": {
+        "string": "更改完成"
     }
 }

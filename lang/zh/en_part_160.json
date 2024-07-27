@@ -1,152 +1,152 @@
 {
-    "org_settings.guest_control.null": {
-        "string": "External users can join your organization"
+    "file_browser.drafts_to_move.file_last_modified_at_label": {
+        "string": "{timeDifference} 最后更改"
     },
-    "org_settings.guest_control.require_approval": {
-        "string": "External users can only join with admin approval"
+    "file_browser.drafts_to_move.file_transfer_deletion_type": {
+        "string": "删除中"
     },
-    "org_settings.guest_control.banned": {
-        "string": "No external users can join your organization"
+    "file_browser.drafts_to_move.file_transfer_description": {
+        "string": "这可能需要一些时间。在此期间，您无需留在此页面。所有处理完成后，我们会通知您。"
     },
-    "scim_metadata_display_text.cost_center": {
-        "string": "Cost center"
+    "file_browser.drafts_to_move.file_transfer_header": {
+        "string": "正在{transferType}大量草稿..."
     },
-    "scim_metadata_display_text.organization": {
-        "string": "Organization"
+    "file_browser.drafts_to_move.file_transfer_migration_type": {
+        "string": "移动中"
     },
-    "scim_metadata_display_text.division": {
-        "string": "Division"
+    "file_browser.drafts_to_move.long_running_draft_migration": {
+        "string": "正在移动草稿"
     },
-    "scim_metadata_display_text.department": {
-        "string": "Department"
+    "file_browser.drafts_to_move.long_running_draft_migration_completed": {
+        "string": "草稿移动完成"
     },
-    "widgets.no_zoom_widgets_plugins": {
-        "string": "Widgets and plugins are not available yet in the Figma Zoom app"
+    "file_browser.drafts_to_move.long_running_draft_migration_learn_more": {
+        "string": "了解更多"
     },
-    "org_access_strings.anyone_at": {
-        "string": "Anyone at {orgName}"
+    "file_browser.drafts_to_move.move_all_drafts_button": {
+        "string": "移动所有草稿"
     },
-    "org_access_strings.invite_only": {
-        "string": "Invite Only"
+    "file_browser.drafts_to_move.move_draft_button": {
+        "string": "移动"
     },
-    "org_access_strings.hidden": {
-        "string": "Hidden"
+    "file_browser.drafts_to_move.move_drafts_below": {
+        "string": "请将下面的草稿移动到一个团队。草稿将仅对创建者和共享成员可见。"
     },
-    "org_access_strings.open": {
-        "string": "Open"
+    "file_browser.drafts_to_move.open_draft_button": {
+        "string": "打开"
     },
-    "org_access_strings.closed": {
-        "string": "Closed"
+    "file_browser.drafts_to_move.org_restriction_text_orgs_remaining": {
+        "string": "其他{numRemainingOrgs}个组织"
     },
-    "org_access_strings.secret": {
-        "string": "Secret"
+    "file_browser.drafts_to_move.selected_count_files": {
+        "string": "{numSelected} 个文件已选择"
     },
-    "team_creation.visible": {
-        "string": "Visible"
+    "file_browser.drafts_to_move.table_header_created": {
+        "string": "创建时间"
     },
-    "team_creation.hidden": {
-        "string": "Hidden"
+    "file_browser.drafts_to_move.table_header_last_modified": {
+        "string": "最后修改"
     },
-    "team_creation.can_edit": {
-        "string": "New members can edit"
+    "file_browser.drafts_to_move.table_header_name": {
+        "string": "名称"
     },
-    "team_creation.can_view": {
-        "string": "New members can view"
+    "file_browser.drafts_to_move.viewbar_heading": {
+        "string": "请将草稿移动到团队"
     },
-    "permissions.level_name_capitalized.owner": {
-        "string": "Owner"
+    "file_browser.drafts_to_move.viewbar_learn_more_link": {
+        "string": "了解更多"
     },
-    "permissions.level_name_capitalized.admin": {
-        "string": "Admin"
+    "file_browser.error_on_move_to_personal_project": {
+        "string": "由于项目不再支持团队外，无法将文件移动到个人项目中。"
     },
-    "permissions.level_name_capitalized.can_edit": {
-        "string": "Can edit"
+    "file_browser.error_try_again": {
+        "string": "发生错误，请重试"
     },
-    "permissions.level_name_capitalized.can_view": {
-        "string": "Can view"
+    "file_browser.file_browser_actions.branch_archive_error": {
+        "string": "存档这些分支时发生错误"
     },
-    "permissions.level_name_capitalized.can_view_prototypes": {
-        "string": "Can view prototypes"
+    "file_browser.file_browser_actions.branch_archived": {
+        "string": "分支已存档"
     },
-    "permissions.level_name_capitalized.none": {
-        "string": "None"
+    "file_browser.file_browser_actions.branch_delete_error": {
+        "string": "删除此分支时发生错误"
     },
-    "permissions.level_name.branch_owner": {
-        "string": "Branch owner"
+    "file_browser.file_browser_actions.branch_deleted": {
+        "string": "分支已删除"
     },
-    "permissions.level_name.owner": {
-        "string": "owner"
+    "file_browser.file_browser_actions.branch_restored": {
+        "string": "分支已恢复"
     },
-    "permissions.level_name.admin": {
-        "string": "admin"
+    "file_browser.file_browser_actions.cant_move_published_file": {
+        "string": "无法移动团队已发布到社区中心的文件。文件 {fileName} 已由团队 {teamName} 发布。"
     },
-    "permissions.level_name.can_view_prototypes": {
-        "string": "can view prototypes"
+    "file_browser.file_browser_actions.claim_team_error": {
+        "string": "请求此团队时发生错误。"
     },
-    "permissions.level_name.none": {
-        "string": "none"
+    "file_browser.file_browser_actions.confirm_move_from_project": {
+        "string": "是否要移动这些文件？前一个项目的成员可能无法访问它们。"
     },
-    "permissions.level_role_name.owner": {
-        "string": "Owner"
+    "file_browser.file_browser_actions.confirm_move_from_project_multiple": {
+        "string": "是否要移动这些文件？前一个项目的成员可能无法访问它们。"
     },
-    "permissions.level_role_name.admin": {
-        "string": "Admin"
+    "file_browser.file_browser_actions.confirm_move_from_shared_project": {
+        "string": "是否要移动这些文件？{projectName}的成员可能无法访问它们。"
     },
-    "permissions.level_role_name.editor": {
-        "string": "editor"
+    "file_browser.file_browser_actions.confirm_move_from_shared_project_multiple": {
+        "string": "是否要移动这些文件？{projectName}的成员可能无法访问其中一些文件。"
     },
-    "permissions.level_role_name.viewer": {
-        "string": "viewer"
+    "file_browser.file_browser_actions.confirm_move_from_team": {
+        "string": "是否要移动这些文件？{teamName}的成员可能无法访问它们。"
     },
-    "permissions.level_role_name.prototype_viewer": {
-        "string": "prototype viewer"
+    "file_browser.file_browser_actions.confirm_move_from_team_multiple_folders": {
+        "string": "是否要移动这些文件？{teamName}的成员可能无法访问其中一些文件。"
     },
-    "permissions.can_still_edit_anybody_with_the_link": {
-        "string": "This person can still edit, because the {noun} is set to allow editing by anybody with the link."
+    "file_browser.file_browser_actions.create_project_error": {
+        "string": "创建此项目时发生错误。"
     },
-    "permissions.can_still_edit_org_member_with_link": {
-        "string": "This person can still edit, because the {noun} is set to allow editing by org members with the link."
+    "file_browser.file_browser_actions.default_thumbnail_restored": {
+        "string": "默认缩略图已恢复"
     },
-    "permissions.can_still_see_and_edit_anybody_with_the_link_noun": {
-        "string": "This person can still see and edit the {noun}, because the {noun} is set to allow editing by anybody with the link."
+    "file_browser.file_browser_actions.desktop_go_to_your_browser": {
+        "string": "要继续添加帐户，请前往浏览器"
     },
-    "permissions.can_still_see_and_edit_allow_editing_by_org_members_with_link": {
-        "string": "This person can still see and edit the {noun}, because the {noun} is set to allow editing by org members with the link."
+    "file_browser.file_browser_actions.duplicate_file_error": {
+        "string": "复制此文件时发生错误。"
     },
-    "permissions.can_still_see_and_edit_permission_team_file_is_in": {
-        "string": "This person can still see and edit the {noun}, because they have edit permissions on the team the file is in."
+    "file_browser.file_browser_actions.embed_code_copied": {
+        "string": "嵌入代码已复制到剪贴板"
     },
-    "permissions.can_still_see_and_edit_permission_team_project_is_in": {
-        "string": "This person can still see and edit the {noun}, because they have edit permissions on the project the file is in."
+    "file_browser.file_browser_actions.embed_code_copy_error": {
+        "string": "复制嵌入代码时发生错误。"
     },
-    "permissions.can_still_see_and_edit_permission_main_file": {
-        "string": "This person can still see and edit the {noun}, because they have edit permissions on the main file."
+    "file_browser.file_browser_actions.error_on_data_update": {
+        "string": "更新用户或工作区数据时发生错误"
     },
-    "permissions.can_still_edit_allow_view_anybody_with_link": {
-        "string": "This person can still see the {noun}, because the {noun} is set to allow viewing by anybody with the link."
+    "file_browser.file_browser_actions.error_on_team_member_removal": {
+        "string": "删除团队成员时发生错误。"
     },
-    "permissions.can_still_edit_allow_edit_anybody_with_link": {
-        "string": "This person can still see the {noun}, because the {noun} is set to allow editing by org members with the link."
+    "file_browser.file_browser_actions.file_copy_error": {
+        "string": "复制此文件时发生错误。"
     },
-    "permissions.can_still_see_permission_team_file_is_on": {
-        "string": "This person can still see the {noun}, because they have permissions on the team the file is in."
+    "file_browser.file_browser_actions.file_delete_error": {
+        "string": "删除这些文件时发生错误。"
     },
-    "permissions.can_still_see_permission_project_file_is_on": {
-        "string": "This person can still see the {noun}, because they have permissions on the project the file is in."
+    "file_browser.file_browser_actions.file_pin_error": {
+        "string": "固定此文件时发生错误。"
     },
-    "permissions.can_still_see_edit_permission_on_main_file": {
-        "string": "This person can still see the {noun}, because they have edit permissions on the main file."
+    "file_browser.file_browser_actions.file_pinned_to_project": {
+        "string": "文件已固定到项目"
     },
-    "permissions.can_still_edit_team_permissions": {
-        "string": "This person can still edit, because they have edit permissions on the team the file is in."
+    "file_browser.file_browser_actions.file_processing_error": {
+        "string": "处理此文件时发生错误。"
     },
-    "permissions.can_still_edit_folder_permissions": {
-        "string": "This person can still edit, because they have edit permissions on the project the file is in."
+    "file_browser.file_browser_actions.file_restore_error": {
+        "string": "恢复这些文件时发生错误。"
     },
-    "permissions.can_still_edit_edit_permissions": {
-        "string": "This person can still edit, because they have edit permissions on the main file."
+    "file_browser.file_browser_actions.file_unpin_error": {
+        "string": "取消固定此文件时发生错误。"
     },
-    "permissions.can_still_edit_team_project_is_in": {
-        "string": "This person can still edit, because they have edit permissions on the team the project is in."
+    "file_browser.file_browser_actions.files_deleted": {
+        "string": "{numFiles} 个文件已删除"
     }
 }

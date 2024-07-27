@@ -1,152 +1,152 @@
 {
-    "inspect_panel.properties.padding": {
-        "string": "Padding"
+    "help_widget.menu.web_bisect": {
+        "string": "Web二分探索"
     },
-    "inspect_panel.properties.gap": {
-        "string": "Gap"
+    "help_widget.menu.youtube_videos": {
+        "string": "YouTube视频"
     },
-    "inspect_panel.properties.rotation": {
-        "string": "Rotation"
+    "help_widget.pro_trials.stack_of_cards_widget.audio.description": {
+        "string": "开始语音聊天，在文件中举行会议。"
     },
-    "inspect_panel.shadows.x": {
-        "string": "X"
+    "help_widget.pro_trials.stack_of_cards_widget.audio.hover_text": {
+        "string": "语音聊天"
     },
-    "inspect_panel.shadows.y": {
-        "string": "Y"
+    "help_widget.pro_trials.stack_of_cards_widget.audio.title": {
+        "string": "深入讨论"
     },
-    "inspect_panel.shadows.blur": {
-        "string": "Blur"
+    "help_widget.pro_trials.stack_of_cards_widget.cover_card_cta_text": {
+        "string": "查看指南"
     },
-    "inspect_panel.shadows.spread_tooltip": {
-        "string": "Spread"
+    "help_widget.pro_trials.stack_of_cards_widget.cta_text": {
+        "string": "查看方法"
     },
-    "inspect_panel.shadows.title": {
-        "string": "Shadows"
+    "help_widget.pro_trials.stack_of_cards_widget.jam.description": {
+        "string": "邀请用户进入FigJam，无需注册。"
     },
-    "inspect_panel.strokes.all_sides": {
-        "string": "All sides"
+    "help_widget.pro_trials.stack_of_cards_widget.jam.hover_text": {
+        "string": "开放会议"
     },
-    "inspect_panel.strokes.top_side": {
-        "string": "Top side"
+    "help_widget.pro_trials.stack_of_cards_widget.jam.title": {
+        "string": "举办开放式FigJam会议"
     },
-    "inspect_panel.strokes.bottom_side": {
-        "string": "Bottom side"
+    "help_widget.pro_trials.stack_of_cards_widget.library.description": {
+        "string": "创建组件库，以便快速重用UI和样式。"
     },
-    "inspect_panel.strokes.left_side": {
-        "string": "Left side"
+    "help_widget.pro_trials.stack_of_cards_widget.library.hover_text": {
+        "string": "团队库"
     },
-    "inspect_panel.strokes.right_side": {
-        "string": "Right side"
+    "help_widget.pro_trials.stack_of_cards_widget.library.title": {
+        "string": "创建库"
     },
-    "inspect_panel.strokes.outer_border": {
-        "string": "Outer alignment"
+    "help_widget.pro_trials.stack_of_cards_widget.password.description": {
+        "string": "确保只有特定用户可以访问文件。"
     },
-    "inspect_panel.strokes.inner_border": {
-        "string": "Inner alignment"
+    "help_widget.pro_trials.stack_of_cards_widget.password.hover_text": {
+        "string": "设置密码"
     },
-    "inspect_panel.strokes.center_border": {
-        "string": "Center alignment"
+    "help_widget.pro_trials.stack_of_cards_widget.password.title": {
+        "string": "添加密码"
     },
-    "inspect_panel.strokes.title": {
-        "string": "Borders"
+    "help_widget.pro_trials.stack_of_cards_widget.pro.description": {
+        "string": "享受高级功能。"
     },
-    "inspect_panel.typography.too_many_selected": {
-        "string": "⚠️ You have {numSelected} selected, we are only showing some of the typography"
+    "help_widget.pro_trials.stack_of_cards_widget.pro.title": {
+        "string": "欢迎试用专业版"
     },
-    "inspect_panel.typography.cap_height": {
-        "string": "Cap height"
+    "help_widget.pro_trials.stack_of_cards_widget.tooltip": {
+        "string": "专业版最新信息"
     },
-    "inspect_panel.typography.hanging_punctuation": {
-        "string": "Hanging"
+    "help_widget.pro_trials.stack_of_cards_widget.unlimited_pages.description": {
+        "string": "在专业版试用期间，您可以创建无限的文件和页面。"
     },
-    "inspect_panel.typography.align_right": {
-        "string": "Right"
+    "help_widget.pro_trials.stack_of_cards_widget.unlimited_pages.hover_text": {
+        "string": "无限页面"
     },
-    "inspect_panel.typography.align_center": {
-        "string": "Center"
+    "help_widget.pro_trials.stack_of_cards_widget.unlimited_pages.title": {
+        "string": "无限制"
     },
-    "inspect_panel.typography.align_justified": {
-        "string": "Justified"
+    "help_widget.pro_trials.stack_of_cards_widget.video.description": {
+        "string": "通过在原型中添加视频，使设计更加生动。"
     },
-    "inspect_panel.typography.span_whitespace": {
-        "string": "whitespace"
+    "help_widget.pro_trials.stack_of_cards_widget.video.hover_text": {
+        "string": "带视频的原型"
     },
-    "inspect_panel.typography.title": {
-        "string": "Typography"
+    "help_widget.pro_trials.stack_of_cards_widget.video.title": {
+        "string": "在设计中添加视频"
     },
-    "inspect_panel.typography.span_contents": {
-        "string": "Span ({contents})"
+    "help_widget.tooltip": {
+        "string": "帮助和资源"
     },
-    "inspect_panel.typography.span": {
-        "string": "Span"
+    "help_widget.zendesk.unavailable_error_message": {
+        "string": "Support Center当前不可用。您可以通过{supportEmail}联系我们。"
     },
-    "inspect_panel.typography.name": {
-        "string": "Name"
+    "idle_timeout.interstitial_page.timeout_explanation": {
+        "string": "由于没有操作，您已从{orgName}组织中注销。"
     },
-    "inspect_panel.typography.font": {
-        "string": "Font"
+    "idle_timeout.interstitial_page.your_session_timed_out": {
+        "string": "会话超时"
     },
-    "inspect_panel.typography.weight": {
-        "string": "Weight"
+    "idle_timeout.warning_modal.body": {
+        "string": "为了安全起见，如果在{duration}时间内没有操作，您将被从{orgName}的帐户中注销。"
     },
-    "inspect_panel.typography.style": {
-        "string": "Style"
+    "idle_timeout.warning_modal.button": {
+        "string": "保持登录"
     },
-    "inspect_panel.typography.size": {
-        "string": "Size"
+    "idle_timeout.warning_modal.title": {
+        "string": "还在工作吗？"
     },
-    "inspect_panel.typography.leading_trim": {
-        "string": "Vertical trim"
+    "image_ai.background_remove.instruction": {
+        "string": "请先选择图像"
     },
-    "inspect_panel.typography.line_height": {
-        "string": "Line height"
+    "image_ai.background_remove.processing": {
+        "string": "正在删除背景..."
     },
-    "inspect_panel.typography.paragraph_spacing": {
-        "string": "Paragraph"
+    "inspect_panel.code.align": {
+        "string": "对齐"
     },
-    "inspect_panel.typography.paragraph_indent": {
-        "string": "Indent"
+    "inspect_panel.code.android": {
+        "string": "Android"
     },
-    "inspect_panel.typography.letter": {
-        "string": "Letter"
+    "inspect_panel.code.background": {
+        "string": "背景"
     },
-    "inspect_panel.typography.align": {
-        "string": "Align"
+    "inspect_panel.code.blend": {
+        "string": "混合"
     },
-    "inspect_panel.typography.punctuation": {
-        "string": "Punctuation"
+    "inspect_panel.code.bottom_left_radius": {
+        "string": "左下角半径"
     },
-    "inspect_panel.typography.hanging_list": {
-        "string": "Lists"
+    "inspect_panel.code.bottom_right_radius": {
+        "string": "右下角半径"
     },
-    "inspect_panel.typography.optical_size": {
-        "string": "Optical size"
+    "inspect_panel.code.cap": {
+        "string": "端点"
     },
-    "inspect_panel.typography.variation": {
-        "string": "Variation"
+    "inspect_panel.code.code": {
+        "string": "代码"
     },
-    "design_systems.component_panel.current_variant": {
-        "string": "Current variant"
+    "inspect_panel.code.copy_all_shift": {
+        "string": "按Shift键复制全部"
     },
-    "design_systems.component_panel.component_set": {
-        "string": "Component set"
+    "inspect_panel.code.corner_radius": {
+        "string": "角半径"
     },
-    "design_systems.component_panel.selected_variant": {
-        "string": "Selected variant"
+    "inspect_panel.code.css": {
+        "string": "CSS"
     },
-    "design_systems.component_panel.description_mixed": {
-        "string": "Mixed"
+    "inspect_panel.code.dash_pattern": {
+        "string": "虚线模式"
     },
-    "design_systems.component_panel.description_placeholder": {
-        "string": "How to use this component"
+    "inspect_panel.code.effect": {
+        "string": "效果"
     },
-    "design_systems.component_panel.link": {
-        "string": "Link"
+    "inspect_panel.code.fill": {
+        "string": "填充"
     },
-    "design_systems.component_panel.link_to_documentation": {
-        "string": "Link to documentation"
+    "inspect_panel.code.font_family": {
+        "string": "字体族"
     },
-    "design_systems.component_panel.simplify_instances_help_text": {
-        "string": "Hide layers without properties, and details like fills, effects, auto layout, and more."
+    "inspect_panel.code.font_size": {
+        "string": "字体大小"
     }
 }

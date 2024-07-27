@@ -1,152 +1,152 @@
 {
-    "community.hub_file_viewer.zoom_in": {
-        "string": "Zoom in"
+    "community.profiles.add_website_url": {
+        "string": "添加网站URL"
     },
-    "community.hub_file_viewer.zoom_out": {
-        "string": "Zoom out"
+    "community.profiles.add_x_handle": {
+        "string": "添加X（原Twitter）用户名"
     },
-    "community.hub_file_viewer.zoom_to_fit": {
-        "string": "Zoom to fit"
+    "community.profiles.boosted_by_the_figma_team": {
+        "string": "由Figma团队提升"
     },
-    "community.hub_file_viewer.zoom_to": {
-        "string": "Zoom to {percent}"
+    "community.profiles.contact_creator_support": {
+        "string": "联系创作者支持"
     },
-    "community.hub_file_viewer.expand_file_preview": {
-        "string": "Expand file preview"
+    "community.profiles.copy_profile_link": {
+        "string": "复制个人资料链接"
     },
-    "community.hub_file_viewer.collapse_file_preview": {
-        "string": "Collapse file preview"
+    "community.profiles.cover_image_must_be_at_least_dimensions": {
+        "string": "封面图片必须至少为{PROFILE_COVER_IMAGE_MIN_WIDTH}x{PROFILE_COVER_IMAGE_MIN_HEIGHT}"
     },
-    "community.hub_file_viewer.page": {
-        "string": "Page"
+    "community.profiles.cover_image_must_be_less_than_dimensions": {
+        "string": "封面图片必须小于{PROFILE_COVER_IMAGE_MAX_WIDTH}x{PROFILE_COVER_IMAGE_MAX_HEIGHT}"
     },
-    "community.hub_file_viewer.pages": {
-        "string": "Pages"
+    "community.profiles.email": {
+        "string": "电子邮件"
     },
-    "community.hub_file_viewer.view_file_pages": {
-        "string": "View file pages"
+    "community.profiles.explore": {
+        "string": "探索"
     },
-    "community.hub_file_viewer.select_zoom_level": {
-        "string": "Select zoom level"
+    "community.profiles.fig_pick": {
+        "string": "Figma推荐"
     },
-    "community.hub_file_viewer.zoom": {
-        "string": "Zoom: {percent}"
+    "community.profiles.follower_count": {
+        "string": "{followerCount, plural, other {{formattedFollowerCount}位关注者}}"
     },
-    "community.publishing.you_are_publishing_to_the_org_profile": {
-        "string": "You are publishing as the {orgName} org profile"
+    "community.profiles.following_count": {
+        "string": "关注了{followingCount}人"
     },
-    "community.publishing.you_are_publishing_to_the_org_profile.fallback": {
-        "string": "You are publishing as the {org} profile"
+    "community.profiles.following_count_alt_plural": {
+        "string": "{followingCount}位关注者"
     },
-    "community.publishing.you_are_publishing_to_the_team_profile": {
-        "string": "You are publishing as the {teamName} team profile"
+    "community.profiles.following_count_alt_singular": {
+        "string": "{followingCount}位关注者"
     },
-    "community.publishing.you_are_publishing_to_the_team_profile.fallback": {
-        "string": "You are publishing as the {team} profile"
+    "community.profiles.follows_you": {
+        "string": "关注了你"
     },
-    "community.publishing.you_are_publishing_to_user_profile": {
-        "string": "You are publishing as the {userName} profile"
+    "community.profiles.interested_in_selling_your_resources": {
+        "string": "对销售你的资源感兴趣吗？"
+    },
+    "community.profiles.made_in_fig_jam": {
+        "string": "用FigJam制作"
+    },
+    "community.profiles.new": {
+        "string": "新"
+    },
+    "community.profiles.no_resources_published_yet": {
+        "string": "尚未发布资源"
+    },
+    "community.profiles.nothing_liked_yet": {
+        "string": "还没有点赞内容"
+    },
+    "community.profiles.nothing_published_yet": {
+        "string": "还没有发布内容"
+    },
+    "community.profiles.or": {
+        "string": "或"
+    },
+    "community.profiles.profile_actions": {
+        "string": "个人资料操作"
+    },
+    "community.profiles.profile_cannot_contain_special_characters": {
+        "string": "{errorStringPrefix}不能包含特殊字符"
+    },
+    "community.profiles.profile_max_15_characters_in_length": {
+        "string": "{errorStringPrefix}最长15个字符"
+    },
+    "community.profiles.remove_from_saved_plugins": {
+        "string": "从已保存插件中删除"
+    },
+    "community.profiles.removed_from_saved_plugins": {
+        "string": "已从已保存插件中删除"
+    },
+    "community.profiles.resources": {
+        "string": "资源"
+    },
+    "community.profiles.restrict_user": {
+        "string": "限制用户"
+    },
+    "community.profiles.save_this_plugin_to_give_you_and_figma_a_boost": {
+        "string": "保存此插件以提升你和Figma的效率"
+    },
+    "community.profiles.saved": {
+        "string": "已保存"
+    },
+    "community.profiles.see_whats_being_created_in_figma": {
+        "string": "查看在Figma中创建的内容"
+    },
+    "community.profiles.unrestrict_user": {
+        "string": "取消限制用户"
+    },
+    "community.profiles.your_handle_text": {
+        "string": "你的用户名"
+    },
+    "community.profiles.your_organizations_profile_is_visible_to_the_public_at": {
+        "string": "你的组织的个人资料在{link}上对公众可见"
+    },
+    "community.profiles.your_profile_is_visible_to_the_public_at": {
+        "string": "你的个人资料在{link}上对公众可见"
+    },
+    "community.profiles.your_teams_profile_is_visible_to_the_public_at": {
+        "string": "你的团队的个人资料在{link}上对公众可见"
+    },
+    "community.promo.figjam_description_body": {
+        "string": "FigJam是一个免费的协作白板工具。分享FigJam文件，与他人一起复制、集思广益和共同编辑。"
+    },
+    "community.promo.figjam_description_title": {
+        "string": "用FigJam创建"
+    },
+    "community.promo.figma_description_body": {
+        "string": "Figma是一个协作设计工具。分享Figma设计，与他人一起复制、集思广益和共同编辑。"
+    },
+    "community.promo.figma_description_title": {
+        "string": "用Figma创建"
     },
     "community.publish.fix_errors": {
-        "string": "Fix errors before publishing"
+        "string": "在发布前修正错误"
     },
-    "community.seller.only_new_resources_can_be_sold_on_community": {
-        "string": "Only new resources can be sold on Community."
+    "community.publish.modal_error_badge": {
+        "string": "{numErrors, plural, other {{numErrors}个错误}}"
     },
-    "general.learn_more": {
-        "string": "Learn more"
+    "community.publish.pending": {
+        "string": "（待定）"
     },
-    "community.seller.you_can_only_publish_paid_resources_from_a_personal_profile": {
-        "string": "You can only publish paid resources from a personal profile that is approved to sell on Community. {learnMoreLink}"
+    "community.publisher_with_suffix": {
+        "string": "{publisherName} {publishersSuffix}"
     },
-    "community.seller.pricing_is_disabled_because_your_organization_does_not_allow": {
-        "string": "Pricing is disabled because your organization does not allow admins to publish to personal profiles. You can change this in the Admin settings. {learnMoreLink}"
+    "community.purchase_home.by_purchasing_resources_you_agree": {
+        "string": "通过从Figma社区购买资源，你同意{paidResourceLicense}和{termsOfService}。"
     },
-    "community.seller.only_explicit_owner_can_sell": {
-        "string": "You need to be the owner to sell a resource on Community."
+    "community.purchase_home.cancelled_and_inactive": {
+        "string": "于{date}结束"
     },
-    "general.back": {
-        "string": "Back"
+    "community.purchase_home.cancelled_but_active": {
+        "string": "将于{date}结束"
     },
-    "community.publishing.our_team_will_review": {
-        "string": "Our team will review your resource in the next 3-7 business days."
+    "community.purchase_home.community_purchases": {
+        "string": "社区购买"
     },
-    "community.publishing.paid_resource_success_info": {
-        "string": "If everything looks good, it’ll go live on Community. We’ll get in touch if there’s an issue."
-    },
-    "community.publishing.your_file_will_soon_be_available_for_everyone_no_remix": {
-        "string": "Your file will soon be available for everyone in the Community to duplicate and share. Thanks for your contribution. You rock."
-    },
-    "community.publishing.feel_free_to_edit_your_page.file": {
-        "string": "In the meantime, feel free to edit your file's Community page. The page is private to you until the file goes live."
-    },
-    "community.publishing.help_people_discover_your_file": {
-        "string": "Help people discover your file:"
-    },
-    "community.publishing.review_our_community_guidelines": {
-        "string": "Review our {communityGuidelinesLink}"
-    },
-    "community.publishing.acceptable_use_policy": {
-        "string": "Acceptable Use Policy"
-    },
-    "community.publishing.community_guidelines": {
-        "string": "Community guidelines"
-    },
-    "community.publishing.changes_saved": {
-        "string": "Changes saved"
-    },
-    "community.error.profile_not_found": {
-        "string": "Profile not found"
-    },
-    "general.fallback_org_name": {
-        "string": "Org"
-    },
-    "general.fallback_user_name": {
-        "string": "User"
-    },
-    "general.save": {
-        "string": "Save"
-    },
-    "community.publishing.submit_for_review": {
-        "string": "Submit for review"
-    },
-    "community.publishing.publish": {
-        "string": "Publish"
-    },
-    "community.publishing.details": {
-        "string": "Details"
-    },
-    "community.publishing.advanced": {
-        "string": "Advanced"
-    },
-    "general.cancel": {
-        "string": "Cancel"
-    },
-    "community.seller.pricing_toggle_text_for_already_paid_resources": {
-        "string": "Once you publish a paid resource, you can't make it free again"
-    },
-    "community.publishing.edit_file_page": {
-        "string": "Edit file page"
-    },
-    "community.publishing.publish_file": {
-        "string": "Publish file"
-    },
-    "community.publishing.create_new_profile": {
-        "string": "Create new profile"
-    },
-    "community.publishing.connect_existing_profile": {
-        "string": "Connect existing profile"
-    },
-    "community.publishing.unable_to_connect_profiles": {
-        "string": "Unable to connect profiles"
-    },
-    "community.publishing.is_under_review.file": {
-        "string": "Your file is in review"
-    },
-    "community.publishing.congratulations": {
-        "string": "Congratulations!"
-    },
-    "community.publishing.view_page": {
-        "string": "View page"
+    "community.purchase_home.community_terms_of_service": {
+        "string": "服务条款"
     }
 }

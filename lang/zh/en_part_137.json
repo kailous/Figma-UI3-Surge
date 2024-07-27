@@ -1,152 +1,152 @@
 {
-    "slides.templates.publish_actions.toast.long_name_error": {
-        "string": "Your page name is too long. Please try again with a shorter name."
+    "auth.error.signup_google_sso_required": {
+        "string": "组织要求使用Google注册。"
     },
-    "slides.templates.publish_actions.toasts.publish_error.generic": {
-        "string": "Something went wrong while publishing. Refresh the page and try again."
+    "auth.error.team_at_editor_limit": {
+        "string": "{TEAM_NAME}的编辑者数量已达到限制"
     },
-    "slides.templates.publish_actions.toast.unpublish_success": {
-        "string": "Template unpublished"
+    "auth.error.team_at_editor_limit.seat_rename": {
+        "string": "{TEAM_NAME}的付费席位已达到上限"
     },
-    "slides.templates.publish_actions.toast.unpublish_error": {
-        "string": "Failed to unpublish template"
+    "auth.error.type-new-password": {
+        "string": "请输入新密码。"
     },
-    "slides.properties_panel.theme.dropdown_tooltip": {
-        "string": "Remix template colors"
+    "auth.error.unable-to-send-email": {
+        "string": "无法发送邮件。请稍后再试。"
     },
-    "slides.properties_panel.theme.generic_theme_name": {
-        "string": "Theme"
+    "auth.error.use-shorter-email": {
+        "string": "请使用更短的邮件地址"
     },
-    "fig_feed.more_actions": {
-        "string": "More actions"
+    "auth.error.use-shorter-name": {
+        "string": "请使用更短的名称"
     },
-    "fig_feed.zoom_pan_preset.custom": {
-        "string": "Custom"
+    "auth.error.user_not_found": {
+        "string": "未找到用户"
     },
-    "fig_feed.thumbnail_alt_text": {
-        "string": "The selected image"
+    "auth.error.we_couldn_t_find_an_account_with_that_email_try_signing_up_instead": {
+        "string": "未找到该邮箱的账户，请尝试注册。"
     },
-    "whiteboard.delightful_toolbar.connector_menu_label": {
-        "string": "Connector menu"
+    "auth.error.wrong_password": {
+        "string": "密码错误"
     },
-    "voting.voter_username.visitor": {
-        "string": "Guest"
+    "auth.your_account_deletion_is_being_processed": {
+        "string": "账户删除正在处理，完成后将通过邮件通知您。"
     },
-    "voting.voter_username.unavailable": {
-        "string": "Unavailable"
+    "auth.your_changes_have_been_saved": {
+        "string": "更改已保存。"
     },
-    "slides.presenter_view.unknown_error": {
-        "string": "Unable to open audience view."
+    "auth.two-factor-setup.error.incorrect_verification_code": {
+        "string": "验证码错误"
     },
-    "slides.presenter_view.open_popup": {
-        "string": "Try again"
+    "auth.two-factor-setup.error.missing-otp": {
+        "string": "请输入验证码"
     },
-    "slides.presenter_view.pop_up_error": {
-        "string": "Allow pop-ups in your browser to open your presentation."
+    "auth.two-factor-setup.error.missing-phone-number": {
+        "string": "请输入电话号码"
     },
-    "general.okay": {
-        "string": "Okay"
+    "auth.two-factor-setup.error.missing-token": {
+        "string": "无效的请求"
     },
-    "proto.embeds.loading": {
-        "string": "Loading…"
+    "auth.two-factor-setup.error.please_enter_a_code": {
+        "string": "请输入验证码"
     },
-    "viewer.popup.press_key_to_show_ui_again": {
-        "string": "Press {keycommand} to show the Figma UI again"
+    "auth.two-factor-setup.error.sms-two-factor-already-enabled": {
+        "string": "SMS双因素认证已启用"
     },
-    "viewer.popup.copy_sharing_link": {
-        "string": "Copy sharing link"
+    "auth.two-factor-setup.error.two-factor-already-enabled": {
+        "string": "双因素认证已启用"
     },
-    "viewer.options.default_keyboard_navigation_disabled": {
-        "string": "Figma shortcuts disabled"
+    "auth.two-factor-setup.generic-twilio-error": {
+        "string": "发送验证码时出错"
     },
-    "viewer.options.default_keyboard_navigation_enabled": {
-        "string": "Figma shortcuts enabled"
+    "auth.two-factor-setup.invalid_phone_number": {
+        "string": "无效的电话号码"
     },
-    "viewer.popup.zoom_get_scaling_strings_new_scaling_mode": {
-        "string": "Zoom: {scalingMode}"
+    "auth.two-factor-setup.twilio_unable_to_send_msg": {
+        "string": "由于电话号码问题，无法发送双因素认证(2FA)验证码。请使用恢复代码登录，或从已登录设备中关闭2FA。如需帮助，请联系support@figma.com。"
     },
-    "viewer.popup.some_missing_fonts_were_replaced": {
-        "string": "Some missing fonts were replaced"
+    "comments.ecc_comment_disabled": {
+        "string": "此文件的评论已禁用。"
     },
-    "viewer.popup.one_or_more_images_in_this_prototype_failed_to_load": {
-        "string": "One or more images in this prototype failed to load"
+    "comments.ecc_react_disabled": {
+        "string": "此文件的反应已禁用。"
     },
-    "viewer.popup.learn_why": {
-        "string": "Learn why"
+    "comments.too_many_replies_in_thread": {
+        "string": "该评论的回复太多"
     },
-    "viewer.popup.couldn_t_play_interaction_nested_instance_is_swapped_with_its_parent_instance": {
-        "string": "Couldn't play interaction: nested instance is swapped with its parent instance"
+    "comments.pinning.err.already_pinned": {
+        "string": "评论已被固定"
     },
-    "viewer.options_menu.actual_size_100_with_device": {
-        "string": "Show device at {zoomAmount}%"
+    "comments.pinning.err.cannot_pin_resolved_comment": {
+        "string": "无法固定已解决的评论"
     },
-    "viewer.options_menu.actual_size_100": {
-        "string": "Actual size ({zoomAmount}%)"
+    "comments.pinning.err.disabled_feature": {
+        "string": "固定评论功能已关闭"
     },
-    "viewer.options_menu.fit_to_screen_with_device": {
-        "string": "Fit device on screen"
+    "comments.pinning.err.fallback": {
+        "string": "固定评论失败"
     },
-    "viewer.options_menu.fit_width_and_height": {
-        "string": "Fit width and height"
+    "comments.pinning.err.not_allowed": {
+        "string": "不允许固定此评论"
     },
-    "viewer.options_menu.fit_width": {
-        "string": "Fit width"
+    "comments.pinning.err.only_threads": {
+        "string": "无法固定评论回复"
     },
-    "viewer.options_menu.fill_screen_with_device": {
-        "string": "Zoom device to fill screen"
+    "community.search.generic_search_error": {
+        "string": "搜索时出现问题，请稍后再试。"
     },
-    "viewer.options_menu.fill_screen": {
-        "string": "Fill screen"
+    "community.buyer.annual_subscription_is_unavailable": {
+        "string": "年度订阅目前不可用，给您带来不便，敬请谅解。"
     },
-    "viewer.footer.frame_progress": {
-        "string": "{currentFrameIndex} / {frameCount}"
+    "community.buyer.block_indian_customers": {
+        "string": "Figma社区市场目前不接受来自印度的信用卡付款。"
     },
-    "viewer.footer.restart": {
-        "string": "Restart"
+    "community.buyer.block_russian_customers": {
+        "string": "Figma社区市场目前不接受来自俄罗斯的付款。"
     },
-    "viewer.footer.r": {
-        "string": "R"
+    "community.buyer.purchasing_is_temporarily_unavailable": {
+        "string": "购买功能暂时不可用，给您带来不便，敬请谅解。"
     },
-    "viewer.footer.accessible_label": {
-        "string": "Pages"
+    "community.buyer.subscription_interval_required_for_purchasing_subscription": {
+        "string": "购买订阅需要订阅期限。"
     },
-    "viewer.footer.previous_frame": {
-        "string": "Previous frame"
+    "community.buyer.valid_subscription_interval_required_for_purchasing_subscription": {
+        "string": "购买订阅需要有效的订阅期限。"
     },
-    "viewer.footer.next_frame": {
-        "string": "Next frame"
+    "community.seller.cannot_transfer_file_ownership_of_paid_file": {
+        "string": "由于该文件关联有付费内容，无法转移所有权。"
     },
-    "viewer.footer.readable_frame_progress": {
-        "string": "Frame {currentFrameIndex} of {frameCount}"
+    "community.sinatra.blocks.block_type_not_supported": {
+        "string": "不支持的屏蔽类型\"{blockType}\""
     },
-    "slides.flapp.alignment.strongly_disagree_label": {
-        "string": "Strongly disagree"
+    "community.sinatra.blocks.cannot_block_yourself": {
+        "string": "无法屏蔽自己"
     },
-    "slides.flapp.alignment.neutral_label": {
-        "string": "Neutral"
+    "community.sinatra.blocks.profile_is_community_blocked": {
+        "string": "该个人资料已被社区屏蔽"
     },
-    "slides.flapp.alignment.strongly_agree_label": {
-        "string": "Strongly agree"
+    "community.sinatra.blocks.profile_not_found": {
+        "string": "未找到个人资料"
     },
-    "slides.flapp.alignment.prompt_placeholder": {
-        "string": "Alignment scale"
+    "community.sinatra.blocks.you_havent_blocked_this_user": {
+        "string": "您未屏蔽此用户"
     },
-    "slides.flapp.results.no_votes_yet": {
-        "string": "No votes yet"
+    "community.sinatra.blocks.youve_already_blocked_this_user": {
+        "string": "您已屏蔽此用户"
     },
-    "slides.flapp.results.single_self_vote": {
-        "string": "You voted"
+    "community.sinatra.categories.category_not_found": {
+        "string": "未找到类别"
     },
-    "slides.flapp.results.single_other_vote": {
-        "string": "{person} voted"
+    "community.sinatra.categories.invalid_editor_types": {
+        "string": "无效的编辑器类型"
     },
-    "slides.flapp.results.multiple_votes_including_user": {
-        "string": "{totalVotes, plural, one {You and {totalVotes} other voted} other {You and {totalVotes} others voted}}"
+    "community.sinatra.comments.comment_contains_too_many_mentions": {
+        "string": "评论包含过多的提及"
     },
-    "slides.flapp.results.multiple_other_votes": {
-        "string": "{totalVotes, plural, one {{totalVotes} person voted} other {{totalVotes} people voted}}"
+    "community.sinatra.comments.comment_must_be_less_than_characters": {
+        "string": "评论必须少于{humanReadableLength}字符。"
     },
-    "slides.flapp.results.results_shown": {
-        "string": "Results revealed"
+    "community.sinatra.comments.file_does_not_allow_canvas_comments": {
+        "string": "该文件不允许画布评论"
     }
 }

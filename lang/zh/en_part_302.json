@@ -1,152 +1,152 @@
 {
-    "setting_tab.public_sharing.modal.expiration_required": {
-        "string": "Require design file links to expire"
+    "team_join_links.team_invite_link_settings": {
+        "string": "チーム招待リンクの設定"
     },
-    "teams_table.join": {
-        "string": "Join"
+    "team_join_links.turn_off_invite_links": {
+        "string": "招待リンクをオフにする"
     },
-    "teams_table.leave": {
-        "string": "Leave"
+    "team_join_links.turn_on_invite_links": {
+        "string": "招待リンクをオンにする"
     },
-    "teams_table.request_to_join": {
-        "string": "Request to join"
+    "team_project_link.overlay.description": {
+        "string": "チームのプロジェクトとファイルは、すべてサイドバーからアクセスできます。"
     },
-    "teams_table.this_action_cannot_be_applied_to_all_selected_teams": {
-        "string": "This action cannot be applied to all selected teams"
+    "team_user.actions.an_error_occurred_while_changing_a_team_member_s_billing_status": {
+        "string": "チームメンバーの請求状況の変更中にエラーが発生しました。"
     },
-    "teams_table.delete": {
-        "string": "Delete"
+    "team_user.actions.an_error_occurred_while_retrieving_fetching_the_list_of_users_on_this_team": {
+        "string": "このチームのユーザーリストの取得中にエラーが発生しました。"
     },
-    "teams_table.manage_access_setting": {
-        "string": "Manage access settings"
+    "team_user.actions.team_members_downgraded_to_viewer.seat_rename": {
+        "string": "{numTeamMembers, plural, other {{numTeamMembers}人のユーザーの{productName}シートが閲覧者にダウングレードされました}}"
     },
-    "teams_table.view_projects": {
-        "string": "View projects"
+    "team_user.actions.team_members_downgraded_to_viewer_restricted.seat_rename": {
+        "string": "{numTeamMembers, plural, other {{numTeamMembers}人のユーザーの{productName}シートが限定閲覧者にダウングレードされました}}"
     },
-    "teams_table.view_team_members": {
-        "string": "View members"
+    "team_user.actions.team_members_request_to_upgrade_failed": {
+        "string": "アップグレード申請の送信中にエラーが発生しました。"
     },
-    "teams_table.rename": {
-        "string": "Rename"
+    "team_user.actions.team_members_request_to_upgrade_from_project_view_succeeded": {
+        "string": "申請を送信しました。管理者から応答があると通知されます。"
     },
-    "teams_table.revoke_transfer_request": {
-        "string": "Revoke transfer request"
+    "team_user.actions.team_members_request_to_upgrade_succeeded": {
+        "string": "アップグレード申請が送信されました。"
     },
-    "teams_table.transfer": {
-        "string": "Transfer"
+    "team_user.actions.team_members_upgraded.seat_rename": {
+        "string": "{numTeamMembers, plural, other {{numTeamMembers}人のユーザーの{productName}シートがアップグレードされました}}"
     },
-    "resource_rename_modal.project.placeholder": {
-        "string": "Enter project name"
+    "team_user.actions.upgrade.description_account_needs_to_be_upgraded_figjam": {
+        "string": "FigJamでファイルを編集したり、新しいファイルを作成したりするには、お使いのアカウントをアップグレードする必要があります。"
     },
-    "resource_rename_modal.project.submit": {
-        "string": "Rename project"
+    "team_user.actions.upgrade.description_account_needs_to_be_upgraded_figma": {
+        "string": "Figmaデザインでファイルを編集したり、新しいファイルを作成したりするには、お使いのアカウントをアップグレードする必要があります。"
     },
-    "asset_transfers.handle_request_modal.an_admin_from_org_name_wants_to_transfer_the_project_to_the_team_name_team_in_your_organization": {
-        "string": "An admin from {orgName} wants to transfer the {projectName} project to the {teamName} team in your organization. If you accept, you and your other admins will manage this project and its content. {learnMore}"
+    "team_user.actions.upgrade.description_edit_this_file": {
+        "string": "このファイルをこのチームで編集するには、管理者に申請してアカウントをアップグレードする必要があります。"
     },
-    "asset_transfers.handle_request_modal.an_admin_from_org_name_wants_to_transfer_the_team_name_to_your_organization": {
-        "string": "An admin from {orgName} wants to transfer the {teamName} team to your organization. If you accept, you and your other admins will manage this team and its content. {learnMore}"
+    "team_user.actions.upgrade.draft_request_upgrade_to_share": {
+        "string": "{boldedDrafts}のファイルを共有するには、管理者に申請してアカウントをアップグレードする必要があります。"
     },
-    "asset_transfers.handle_request_modal.a_source_user_email_wants_to_transfer_the_project_name_to_the_team_name_team_in_your_organization": {
-        "string": "{sourceUserName} ({sourceUserEmail}) wants to transfer the {projectName} project to the {teamName} team in your organization. If you accept, you and your other admins will manage this project and its content. {learnMore}"
+    "team_user.actions.upgrade.request_upgrade_in_team_name": {
+        "string": "{teamName}でアップグレードをリクエストする"
     },
-    "asset_transfers.handle_request_modal.a_source_user_email_wants_to_transfer_the_team_name_to_your_organization": {
-        "string": "{sourceUserName} ({sourceUserEmail}) wants to transfer the {teamName} team to your organization. If you accept, you and your other admins will manage this team and its content. {learnMore}"
+    "team_user.upgrade_reasons.checkout.seat_rename": {
+        "string": "{actorName}が{memberNameOrEmail}をアップグレードしました"
     },
-    "asset_transfers.handle_request_modal.about_this_project": {
-        "string": "About this project"
+    "team_user.upgrade_reasons.create_file": {
+        "string": "{memberNameOrEmail}が、ファイル{resourceName}を作成しました"
     },
-    "asset_transfers.handle_request_modal.about_this_team": {
-        "string": "About this team"
+    "team_user.upgrade_reasons.create_team": {
+        "string": "{memberNameOrEmail}が、チームを作成しました"
     },
-    "asset_transfers.handle_request_modal.this_project_has_guest_accounts_if_you_want_them_to_transfer_over_temporarily_change_your_admin_setting_to_allow_guests_before_accepting_learn_more": {
-        "string": "This project has guest accounts. If you want them to transfer over, temporarily change your admin setting to allow guests before accepting. {learnMore}"
+    "team_user.upgrade_reasons.default": {
+        "string": "{memberNameOrEmail}が、アップグレードされました"
     },
-    "asset_transfers.handle_request_modal.this_team_has_guest_accounts_if_you_want_them_to_transfer_over_temporarily_change_your_admin_setting_to_allow_guests_before_accepting_learn_more": {
-        "string": "This team has guest accounts. If you want them to transfer over, temporarily change your admin setting to allow guests before accepting. {learnMore}"
+    "team_user.upgrade_reasons.depart_team": {
+        "string": "オーナーがチームを脱退したときに、{memberNameOrEmail}がアップグレードされました"
     },
-    "asset_transfers.handle_request_modal.based_on_your_settings_everyone_transferring_over_with_this_project_will_have_role_text_roles_in_figma_design_and_fig_jam_once_they_join_your_organization.seat_rename": {
-        "string": "Based on your settings, everyone transferring over with this project will have {roleText} seats in Figma design and FigJam once they join your organization."
+    "team_user.upgrade_reasons.edit_action": {
+        "string": "{memberNameOrEmail}が、{resourceName}を編集しました"
     },
-    "asset_transfers.handle_request_modal.viewer_restricted": {
-        "string": "viewer-restricted"
+    "team_user.upgrade_reasons.edit_button": {
+        "string": "{memberNameOrEmail}が、{resourceName}の[ファイルを編集]ボタンをクリックしました"
     },
-    "asset_transfers.handle_request_modal.based_on_your_settings_everyone_transferring_over_with_this_team_will_have_role_text_roles_in_figma_design_and_fig_jam_once_they_join_your_organization.seat_rename": {
-        "string": "Based on your settings, everyone transferring over with this team will have {roleText} seats in Figma design and FigJam once they join your organization."
+    "team_user.upgrade_reasons.edit_request_approval": {
+        "string": "{memberNameOrEmail}が、{resourceType} {resourceName}の編集を承認する編集リクエストを行いました"
     },
-    "asset_transfers.handle_request_modal.people_who_aren_t_currently_on_your_organization_s_member_allowlist_won_t_transfer_over_you_ll_need_to_manually_add_them_to_your_organization_or_supportlink_for_help": {
-        "string": " People who aren’t currently on your organization’s member allowlist won’t transfer over. You’ll need to manually add them to your organization or {supportLink} for help."
+    "team_user.upgrade_reasons.figjam_ga_reupgrade": {
+        "string": "{memberNameOrEmail}が、ファイル{resourceName}のアカウントを再度アップグレードしました"
     },
-    "asset_transfers.handle_request_modal.contact_figma_support": {
-        "string": "contact Figma Support"
+    "team_user.upgrade_reasons.figma_admin": {
+        "string": "Figmaは、{resourceName}のアップグレードされた{memberNameOrEmail}をサポートします"
     },
-    "asset_transfers.handle_request_modal.accept_transfer": {
-        "string": "Accept transfer"
+    "team_user.upgrade_reasons.invite_autoupgrade.seat_rename": {
+        "string": "{actorName}が{resourceType}の{resourceName}で{memberNameOrEmail}をアップグレードしました"
     },
-    "asset_transfers.handle_request_modal.once_you_accept_a_transfer_it_can_t_be_undone": {
-        "string": "Once you accept a transfer, it can't be undone."
+    "team_user.upgrade_reasons.invite_redeem.seat_rename": {
+        "string": "{actorName}が{resourceType}の{resourceName}で{memberNameOrEmail}を追加してアップグレードしました"
     },
-    "asset_transfers.handle_request_modal.if_you_accept": {
-        "string": "If you accept…"
+    "team_user.upgrade_reasons.join_link_redeem": {
+        "string": "チーム招待リンクをクリックして、{memberNameOrEmail}がアップグレードされました"
     },
-    "asset_transfers.handle_request_modal.you_ll_see_this_project_in_your_team_and_you_can_edit_its_settings_description_and_more_at_any_time": {
-        "string": "You'll see this project in your team, and you can edit its settings, description, and more at any time."
+    "team_user.upgrade_reasons.resource_moved": {
+        "string": " {resourceType} {resourceName}をチームに移動したときに、{memberNameOrEmail}がアップグレードされました"
     },
-    "asset_transfers.handle_request_modal.you_ll_see_this_team_when_you_re_in_figma_and_you_can_edit_its_settings_description_and_more_at_any_time": {
-        "string": "You'll see this team when you're in Figma, and you can edit its settings, description, and more at any time."
+    "team_user.upgrade_reasons.restored_from_trash": {
+        "string": "ファイル{resourceName}をごみ箱から復元したときに、{memberNameOrEmail}がアップグレードされました"
     },
-    "asset_transfers.handle_request_modal.the_project_will_transfer_along_with_its_current_files_and_members_which_may_add_more_editors_to_your_billing_plan_manage_these_roles_in_the_members_tab_in_admin_settings.seat_rename": {
-        "string": "The project will transfer along with its current files and members, which may add more paid seats to your billing plan. Manage these seats in the {members} tab in {adminSettings}."
+    "team_user.upgrade_reasons.role_upgrade.seat_rename": {
+        "string": "{actorName}が{resourceType}の{resourceName}で{memberNameOrEmail}をアップグレードしました"
     },
-    "asset_transfers.handle_request_modal.members": {
-        "string": "Members"
+    "team_user.upgrade_reasons.role_upgrade_without_actor_name.seat_rename": {
+        "string": "{memberNameOrEmail}が{resourceType}の{resourceName}でアップグレードされました"
     },
-    "asset_transfers.handle_request_modal.admin_settings": {
-        "string": "Admin settings"
+    "team_user.upgrade_reasons.run_plugin": {
+        "string": "{memberNameOrEmail}が、プラグインを実行しました"
     },
-    "asset_transfers.handle_request_modal.the_team_will_transfer_along_with_its_current_projects_files_and_members_which_may_add_more_editors_to_your_billing_plan_manage_these_roles_in_the_members_tab_in_admin_settings.seat_rename": {
-        "string": "The team will transfer along with its current projects, files, and members, which may add more paid seats to your billing plan. Manage these seats in the {members} tab in {adminSettings}."
+    "team_view.add_annual_seats_modal.add_annual_seats": {
+        "string": "年間シートを追加"
     },
-    "asset_transfers.handle_request_modal.libraries_shared_fonts_and_other_resources_that_this_project_used_to_be_connected_to_may_be_unavailable_after_this_transfer_learn_more": {
-        "string": "Libraries, shared fonts, and other resources that this project used to be connected to may be unavailable after the transfer. {learnMore}"
+    "team_view.add_annual_seats_modal.add_seats_explanation": {
+        "string": "チームの拡大に合わせて前もって計画しておく場合は、別の年間シートをプランに追加してください。これにより、既存の月間請求シートから年間請求シートへの変換も行われます。以下のシートの総数の比例配分額が当該月の末日に請求されます。"
     },
-    "asset_transfers.handle_request_modal.libraries_shared_fonts_and_other_resources_that_this_team_used_to_be_connected_to_may_be_unavailable_after_this_transfer_learn_more": {
-        "string": "Libraries, shared fonts, and other resources that this team used to be connected to may be unavailable after this transfer. {learnMore}"
+    "team_view.add_annual_seats_modal.add_seats_title": {
+        "string": "年間シートを追加"
     },
-    "asset_transfers.handle_request_modal.it_looks_like_approver_name_approver_email_has_already_accepted_this_transfer": {
-        "string": "It looks like {approverName} ({approverEmail}) has already accepted this transfer. You should have access to it now."
+    "team_view.add_annual_seats_modal.billing_breakdown": {
+        "string": "{cost} × {seatsText} × {remainingMonthsText}"
     },
-    "asset_transfers.handle_request_modal.it_looks_like_this_project_has_already_been_transferred_to_your_organization": {
-        "string": "It looks like this project has already been transferred to your organization. You should now be able to find it in Figma."
+    "team_view.add_annual_seats_modal.billing_breakdown.remaining_months": {
+        "string": "{numMonths, plural, other {残り{numMonths}か月}}"
     },
-    "asset_transfers.handle_request_modal.it_looks_like_this_team_has_already_been_transferred_to_your_organization": {
-        "string": "It looks like this team has already been transferred to your organization. You should now be able to find it in Figma."
+    "team_view.add_annual_seats_modal.billing_breakdown.seats": {
+        "string": "{seats, plural, other {{seats}シート}}"
     },
-    "asset_transfers.handle_request_modal.the_transfer_request_you_received_has_been_cancelled_by_the_team_or_organization_that_sent_it": {
-        "string": "The transfer request you received has been cancelled by the team or organization that sent it. It's no longer available."
+    "team_view.add_annual_seats_modal.num_monthly_editor_seats.seat_rename": {
+        "string": "{designQuantity, plural, other {{productName}の月間シート}}"
     },
-    "asset_transfers.handle_request_modal.manage_this_transfer": {
-        "string": "Manage this transfer"
+    "team_view.add_annual_seats_modal.total_charge_description": {
+        "string": "{chargeDate, date, medium}の請求額合計"
     },
-    "teams_table.project_count": {
-        "string": "{numProjects, plural, one {{numProjects} project} other {{numProjects} projects}}"
+    "team_view.add_annual_seats_modal.unused_seats_will_be_added": {
+        "string": "{unusedSeats, plural, other {未使用の{productName}シートが{unusedSeats}シート追加されます}}"
     },
-    "teams_table.member_count": {
-        "string": "{numMembers, plural, one {{numMembers} member} other {{numMembers} members}}"
+    "team_view.add_to_favorites": {
+        "string": "お気に入りに追加"
     },
-    "teams_table.teams_without_owners": {
-        "string": "Teams without owners"
+    "team_view.add_to_favorites.billing.figjam_editors.seat_rename": {
+        "string": "{figjamSeats, plural, other {{figjamSeats}人分のFigJamシート}}"
     },
-    "teams_table.enterprise.edit_default_teams": {
-        "string": "Edit default teams"
+    "team_view.add_to_favorites.billing.figma_design_editors.seat_rename": {
+        "string": "{designSeats, plural, other {{designSeats}人分のデザインシート}}"
     },
-    "teams_table.no_teams_to_show": {
-        "string": "No teams to show."
+    "team_view.add_to_favorites.billing.lost_access": {
+        "string": "{canceledAt}、{listOfEditorsLosingAccess}は{currentPeriodEnd}にアクセスできなくなります。"
     },
-    "teams_table.your_organization_does_not_have_any_teams_yet": {
-        "string": "Your organization does not have any teams yet."
+    "team_view.billing.annual_seats_annual": {
+        "string": "年間: {annualSeats}"
     },
-    "teams_table.create_one": {
-        "string": "Create one"
+    "team_view.billing.canceled": {
+        "string": "キャンセル"
     }
 }

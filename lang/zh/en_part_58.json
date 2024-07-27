@@ -1,152 +1,152 @@
 {
-    "auth.sso-gate.back-with-session": {
-        "string": "Cancel and do not join {orgName}"
+    "community.logged_out.sign_up_modal_plugin_header": {
+        "string": "要获取此插件以及更多资源，请注册"
     },
-    "auth.sso-gate.back-without-session": {
-        "string": "Go back to change email"
+    "community.logged_out.sign_up_modal_widget_header": {
+        "string": "要获取此小部件以及更多资源，请注册"
     },
-    "auth.sso-gate.log-in-google": {
-        "string": "Continue with Google"
+    "community.modal.creator_carousel_nux.add_image_and_video_previews": {
+        "string": "在资源页面添加图像和视频预览"
     },
-    "auth.sso-gate.log-in-saml": {
-        "string": "Log in with SAML"
+    "community.modal.creator_carousel_nux.drive_eyeballs_and_engagement": {
+        "string": "使用新的媒体上传器来吸引更多关注和互动。"
     },
-    "auth.validate-code.resend-helper-text": {
-        "string": "Didn't receive the code? {cta}"
+    "community.modal.creator_carousel_nux.update_my_resources": {
+        "string": "更新我的资源"
     },
-    "auth.validate-code.header": {
-        "string": "Verify your account"
+    "community.monetization.address": {
+        "string": "地址"
     },
-    "auth.validate-code.primary-description": {
-        "string": "A code has been sent to your email {email}."
+    "community.monetization.tax_id_couldnt_be_verified": {
+        "string": "无法验证税号。请重新输入以确保账单的准确性。"
     },
-    "auth.validate-code.secondary-description": {
-        "string": "Enter the code below to verify."
+    "community.monetization.your_address_is_used": {
+        "string": "地址用于计算税额"
     },
-    "auth.validate-code.submit-button": {
-        "string": "Submit"
+    "community.onboarding.be_respectful": {
+        "string": "保持礼貌"
     },
-    "auth.validate-code.resend-button": {
-        "string": "Resend"
+    "community.onboarding.change_your_photo_or_name_in_your_settings": {
+        "string": "在设置中更改照片或名字。"
     },
-    "auth.magic_link_check_email.go_back": {
-        "string": "Go back"
+    "community.onboarding.follow_our_guidelines": {
+        "string": "遵守我们的指南"
     },
-    "auth.magic_link_check_email.check_your_inbox": {
-        "string": "Check your inbox"
+    "community.onboarding.got_it": {
+        "string": "明白了"
     },
-    "auth.magic_link_check_email.body_login_v2": {
-        "string": "Click on the link we sent to {emailAddress} within the next 5 minutes to log in. "
+    "community.onboarding.guidelines": {
+        "string": "指南"
     },
-    "auth.magic_link_check_email.body_signup_v2": {
-        "string": "Click on the link we sent to {emailAddress} within the next 5 minutes to finish your account setup."
+    "community.onboarding.here_s_how_you_ll_look_when_using_the_figma_community": {
+        "string": "这是你在使用Figma社区时的样子。"
     },
-    "auth.magic_link_check_email.wrong_address_go_back": {
-        "string": "Wrong address? {goBackLink}"
+    "community.onboarding.looks_good": {
+        "string": "看起来不错"
     },
-    "auth.magic_link_check_email.open_gmail": {
-        "string": "Open Gmail"
+    "community.onboarding.read_our_guidelines": {
+        "string": "阅读我们的{guidelinesLink}"
     },
-    "auth.magic_link_check_email.open_outlook": {
-        "string": "Open Outlook"
+    "community.onboarding.saved_in_editor_subtitle": {
+        "string": "现在可以从工具栏保存插件和小部件"
     },
-    "auth.validate-email.click_the_link": {
-        "string": "Click on the link we sent to {emailAddress} to finish your account setup."
+    "community.onboarding.saved_in_editor_title": {
+        "string": "保存收藏"
     },
-    "auth.validate-email.log-out-only": {
-        "string": "Wrong address? {logOutLink} to sign in with a different email."
+    "community.onboarding.see_more_of_what_you_love": {
+        "string": "查看更多你喜欢的内容"
     },
-    "auth.validate-email.resend-email-text": {
-        "string": "Resend email"
+    "community.onboarding.stay_on_topic": {
+        "string": "保持话题"
     },
-    "auth.validate-email.resend-email": {
-        "string": "No email in your inbox or spam folder? {resendEmailLink}."
+    "community.onboarding.switch_to_browsing_community_as_an_admin_to_save_plugins_and_manage_content_published_by_your_org_or_team": {
+        "string": "切换为管理员身份浏览社区，保存插件并管理组织或团队发布的内容。"
     },
-    "auth.validate-email.log-out-link": {
-        "string": "Log out"
+    "community.onboarding.use_community_as_an_org_or_team": {
+        "string": "作为组织或团队使用社区"
     },
-    "auth.validate-email.resend-email-link": {
-        "string": "Let’s resend it"
+    "community.onboarding.when_leaving_comments_we_ask_that_you": {
+        "string": "留言时，请遵守以下几点..."
     },
-    "auth.terms-and-conditions-2nd-person": {
-        "string": "By clicking \"{callToActionText}\" or \"{googleText}\", you agree to the {termsOfService} and {privacyPolicy}."
+    "community.onboarding.whether_you_want_to_focus_on_creators_you_follow_discover_new_files_and_plugins_or_find_out_what_s_trending_you_can_customize_your_feed_here": {
+        "string": "无论你是想关注的创作者、发现新文件和插件，还是了解当前趋势，都可以在这里定制你的Feed。"
     },
-    "auth.sign-in.tos-long": {
-        "string": "Figma TOS"
+    "community.only_visible_to_you": {
+        "string": "仅对你可见"
     },
-    "auth.sign-in.privacy-policy": {
-        "string": "Privacy Policy"
+    "community.permissions_modal_publish_tab.footer.cannot_publish_default_file": {
+        "string": "这是Figma示例文件，无法发布。请选择其他文件。"
     },
-    "auth.sign-up.auto-marketing-email-opt-in-additional-terms": {
-        "string": "You may receive product, service, and events email updates from Figma and can opt-out at any time."
+    "community.permissions_modal_publish_tab.footer.cannot_publish_remix": {
+        "string": "不能重新发布从社区复制的文件。"
     },
-    "auth.generic-or": {
-        "string": "or"
+    "community.permissions_modal_publish_tab.footer.cannot_publish_remix_from_paid_file": {
+        "string": "不能重新发布付费文件。"
     },
-    "auth.extra-info.subscribe-to-figma-tips-and-updates-terms": {
-        "string": "*By opting in, you are consenting to receive product, service and events updates from Figma. You can unsubscribe at any time."
+    "community.permissions_modal_publish_tab.footer.last_published": {
+        "string": "最后发布"
     },
-    "auth.extra-info.subscribe-to-figma-tips-and-updates": {
-        "string": "Subscribe to Figma tips and updates*"
+    "community.permissions_modal_publish_tab.footer.learn_more": {
+        "string": "了解更多"
     },
-    "auth.footer-sign-up-switch-form-text": {
-        "string": "Already have an account?"
+    "community.permissions_modal_publish_tab.footer.make_changes": {
+        "string": "进行更改"
     },
-    "auth.footer-sign-in-switch-form-text": {
-        "string": "No account?"
+    "community.permissions_modal_publish_tab.footer.publish_admins_only": {
+        "string": "在组织和团队中，只有管理员可以发布到Figma社区。"
     },
-    "auth.footer-sign-up-switch-form-link": {
-        "string": "Log in"
+    "community.permissions_modal_publish_tab.footer.publish_file_version_no_remix": {
+        "string": "发布此文件版本之一到社区，使公众能够复制。"
     },
-    "auth.footer-sign-in-switch-form-link": {
-        "string": "Create one"
+    "community.permissions_modal_publish_tab.footer.publish_remix": {
+        "string": "发布重新演绎到社区，分享你独特的解释。"
     },
-    "auth.footer-saml-link": {
-        "string": "Use single sign-on"
+    "community.permissions_modal_publish_tab.footer.publish_update": {
+        "string": "发布更新..."
     },
-    "auth.footer-forgot-password": {
-        "string": "Reset password"
+    "community.permissions_modal_publish_tab.footer.publish_user_sharing_restricted": {
+        "string": "由于你的账户存在问题，Figma已限制你的发布权限。请通过邮件联系{supportSharingRestrictedEmail}。"
     },
-    "folder_permissions_modal.email_comma_separated": {
-        "string": "Email, comma separated"
+    "community.permissions_modal_publish_tab.footer.published_at_timestamp": {
+        "string": "发布于{publish_date, date, medium}"
     },
-    "collaboration.voice.you": {
-        "string": "You"
+    "community.permissions_modal_publish_tab.footer.remove": {
+        "string": "删除"
     },
-    "collaboration.voice.file_owner": {
-        "string": "File owner"
+    "community.permissions_modal_publish_tab.footer.submitted": {
+        "string": "已提交"
     },
-    "fullscreen.toolbar.multiplayer.more_options": {
-        "string": "More options"
+    "community.permissions_modal_publish_tab.footer.view_community_page": {
+        "string": "查看社区页面"
     },
-    "fullscreen.toolbar.multiplayer.follow_a_name": {
-        "string": "Follow {name}"
+    "community.permissions_modal_publish_tab.footer.view_private_community_page": {
+        "string": "查看私人社区页面"
     },
-    "comments.are_you_sure_you_want_to_delete_this_comment_this_action_cannot_be_undone": {
-        "string": "Are you sure you want to delete this comment? This action cannot be undone."
+    "community.permissions_modal_publish_tab.footer.your_file_has_not_been_published": {
+        "string": "你的文件尚未发布，正在审核中"
     },
-    "community.by_publisher_with_suffix": {
-        "string": "By {publisherName} {publishersSuffix}"
+    "community.plugin_development.connect_with_other_plugin_developers": {
+        "string": "与其他插件开发者联系，{joinOurDiscordLink}。"
     },
-    "community.cards.by": {
-        "string": "by"
+    "community.plugin_development.connect_with_other_widget_developers": {
+        "string": "与其他小部件开发者联系，{joinOurDiscordLink}。"
     },
-    "community.cards.private": {
-        "string": "Private"
+    "community.plugin_development.create_plugin": {
+        "string": "创建插件"
     },
-    "community.buyer.subscribe_to_resource_name": {
-        "string": "Subscribe to {resourceName}"
+    "community.plugin_development.create_widget": {
+        "string": "创建小部件"
     },
-    "community.buyer.purchase_resource_name": {
-        "string": "Purchase {resourceName}"
+    "community.plugin_development.follow_our_setup_guide_plugin": {
+        "string": "按照{setupGuideLink}，构建和运行插件。"
     },
-    "community.buyer.development": {
-        "string": "Development"
+    "community.plugin_development.follow_our_setup_guide_widget": {
+        "string": "按照{setupGuideLink}，构建和运行小部件。"
     },
-    "community.plugins.in_review": {
-        "string": "In review"
+    "community.plugin_development.join_our_discord": {
+        "string": "加入Discord"
     },
-    "community.buyer.sorry_there_was_an_error_processing_your_request_refresh_and_try_again": {
-        "string": "Sorry, there was an error processing your request. Refresh and try again"
+    "community.plugin_development.new_plugin_created": {
+        "string": "新插件已创建!"
     }
 }

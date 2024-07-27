@@ -1,152 +1,152 @@
 {
-    "slides.properties_panel.replace_media": {
-        "string": "Choose media…"
+    "multiplayer_upgrade_modal.save_and_reload_button": {
+        "string": "保存并重新加载"
     },
-    "proto.prototype_panel.autoplay": {
-        "string": "Autoplay"
+    "multiplayer_upgrade_modal.title": {
+        "string": "Figma的新版本可用"
     },
-    "proto.prototype_panel.default_video_playback_state": {
-        "string": "Default video playback state"
+    "new_editor_notifications_modal.all_admins": {
+        "string": "所有管理员"
     },
-    "proto.prototype_panel.loop": {
-        "string": "Loop"
+    "new_editor_notifications_modal.confirmation_v2": {
+        "string": "席位升级摘要已更新"
     },
-    "proto.prototype_panel.sound": {
-        "string": "Sound"
+    "new_editor_notifications_modal.daily": {
+        "string": "每日"
     },
-    "slides.properties_panel.fill.slide_fill_title": {
-        "string": "Background"
+    "new_editor_notifications_modal.daily_description": {
+        "string": "升级发生的当天，您将收到升级摘要。"
     },
-    "slides.properties_panel.fill.text_fill_title": {
-        "string": "Fill"
+    "new_editor_notifications_modal.disclaimer_for_orgs": {
+        "string": "请注意，您不会在True-Up或True-Up提醒发送当天收到这些电子邮件。"
     },
-    "slides.properties_panel.fill.fill_title": {
-        "string": "Fill"
+    "new_editor_notifications_modal.error_message_for_empty_admins": {
+        "string": "请添加至少一个管理员的名称"
     },
-    "slides.properties_panel.fill.type_label": {
-        "string": "Type"
+    "new_editor_notifications_modal.get_emailed_when_members_upgrade_from_free_to_paid": {
+        "string": "当成员从免费席位升级到付费席位时，您将收到电子邮件。"
     },
-    "slides.properties_panel.fill.fill_type_none": {
-        "string": "None"
+    "new_editor_notifications_modal.header": {
+        "string": "席位升级摘要"
     },
-    "slides.properties_panel.fill.fill_type_solid": {
-        "string": "Single color"
+    "new_editor_notifications_modal.how_often_would_you_like_receive_emails": {
+        "string": "您希望多长时间收到一次电子邮件？"
     },
-    "slides.properties_panel.fill.fill_type_media": {
-        "string": "Image / Video"
+    "new_editor_notifications_modal.monthly": {
+        "string": "每月"
     },
-    "slides.properties_panel.border_panel.title": {
-        "string": "Border"
+    "new_editor_notifications_modal.monthly_description": {
+        "string": "每月初，您将收到升级摘要。"
     },
-    "slides.properties_panel.border_panel.style_title": {
-        "string": "Type"
+    "new_editor_notifications_modal.specific_admins": {
+        "string": "特定管理员"
     },
-    "slides.properties_panel.border_panel.color": {
-        "string": "Color"
+    "new_editor_notifications_modal.turn_off_notifications_subtext": {
+        "string": "要停止接收席位升级摘要，请取消选中以下所有框。"
     },
-    "slides.properties_panel.border_panel.width_slider_tooltip": {
-        "string": "Border width"
+    "new_editor_notifications_modal.we_recommend_only_adding": {
+        "string": "我们建议只添加那些定期管理席位的管理员。"
     },
-    "slides.properties_panel.border_panel.style_none": {
-        "string": "No border"
+    "new_editor_notifications_modal.weekly": {
+        "string": "每周"
     },
-    "slides.properties_panel.border_panel.style_solid": {
-        "string": "Solid"
+    "new_editor_notifications_modal.weekly_description": {
+        "string": "每周一，您将收到升级摘要。"
     },
-    "slides.properties_panel.border_panel.style_dashed_big": {
-        "string": "Big dash"
+    "new_editor_notifications_modal.who_should_get_them": {
+        "string": "谁应该接收这些摘要？"
     },
-    "slides.properties_panel.border_panel.style_dashed_small": {
-        "string": "Lil dash"
+    "new_user_experience.button.continue": {
+        "string": "继续"
     },
-    "slides.properties_panel.slide_transition": {
-        "string": "Transition"
+    "new_user_experience.button.skip": {
+        "string": "跳过"
     },
-    "slides.properties_panel.slide_transition.style": {
-        "string": "Style"
+    "new_user_experience.choose_plan.title": {
+        "string": "您希望选择哪种计划？"
     },
-    "slides.properties_panel.slide_transition.direction": {
-        "string": "Direction"
+    "new_user_experience.choose_plan_card.free.pages": {
+        "string": "✓ 文件中的页面数不限"
     },
-    "slides.properties_panel.slide_transition.duration": {
-        "string": "Duration"
+    "new_user_experience.choose_plan_card.free.project": {
+        "string": "✓ 1个项目和3个文件"
     },
-    "slides.properties_panel.slide_transition.apply_to_all": {
-        "string": "Apply to all slides"
+    "new_user_experience.choose_plan_card.free.version_history": {
+        "string": "✓ 30天版本历史记录"
     },
-    "slides.properties_panel.animate": {
-        "string": "Animate"
+    "new_user_experience.choose_plan_card.org": {
+        "string": "组织"
     },
-    "fullscreen.properties_panel.design": {
-        "string": "Design"
+    "new_user_experience.choose_plan_card.org.admin_and_billing": {
+        "string": "✓ 统一的管理和计费"
     },
-    "fullscreen.properties_panel.interactions": {
-        "string": "Interactions"
+    "new_user_experience.choose_plan_card.org.branching_and_merging": {
+        "string": "✓ 分支和合并"
     },
-    "fullscreen.properties_panel.prototype": {
-        "string": "Prototype"
+    "new_user_experience.choose_plan_card.org.description": {
+        "string": "为了将团队聚集在一起"
     },
-    "fullscreen.properties_panel.comments": {
-        "string": "Comments"
+    "new_user_experience.choose_plan_card.org.design_system_analytics": {
+        "string": "✓ 设计系统分析"
     },
-    "fullscreen.properties_panel.comment": {
-        "string": "Comment"
+    "new_user_experience.choose_plan_card.org.education_cta": {
+        "string": "教育用途免费"
     },
-    "slides.properties_panel.corner": {
-        "string": "Corner rounding"
+    "new_user_experience.choose_plan_card.org.education_cta_verified": {
+        "string": "需要验证"
     },
-    "slides.properties_panel.corners_panel.circular": {
-        "string": "Circular"
+    "new_user_experience.choose_plan_card.org.everything_in_teams_plus": {
+        "string": "包括专业版的所有功能以及以下功能..."
     },
-    "slides.properties_panel.corner_radius": {
-        "string": "Corner radius"
+    "new_user_experience.choose_plan_card.org.libraries": {
+        "string": "✓ 组织范围的库"
     },
-    "slides.properties_panel.embeddable_prototype.flow_label": {
-        "string": "Flow"
+    "new_user_experience.choose_plan_card.org.single_sign_on": {
+        "string": "✓ 单点登录"
     },
-    "slides.properties_panel.embeddable_prototype.default_title": {
-        "string": "Prototype"
+    "new_user_experience.choose_plan_card.org.title.Figjam.cost": {
+        "string": "$5 "
     },
-    "slides.properties_panel.embeddable_prototype.device_frame_label": {
-        "string": "Device frame"
+    "new_user_experience.choose_plan_card.org.title.Figma": {
+        "string": "Figma"
     },
-    "slides.properties_panel.embeddable_prototype.open_prototype_label": {
-        "string": "Open prototype"
+    "new_user_experience.choose_plan_card.org.title.Figma.cost": {
+        "string": "$45 "
     },
-    "slides.properties_panel.interactive_widget.usage_guidance_header": {
-        "string": "Live interaction"
+    "new_user_experience.choose_plan_card.org.unlimited_teams": {
+        "string": "✓ 团队数量不限"
     },
-    "slides.properties_panel.interactive_widget.usage_guidance_text": {
-        "string": "Your audience can interact with this as you present. To preview how it works, just press the play button above."
+    "new_user_experience.choose_plan_card.professional": {
+        "string": "专业版"
     },
-    "slides.properties_panel.interactive_widget.reset_confirmation_title": {
-        "string": "Reset widget?"
+    "new_user_experience.choose_plan_card.professional.description": {
+        "string": "适用于专业团队"
     },
-    "slides.properties_panel.interactive_widget.confirm_reset_label": {
-        "string": "Yep, reset it"
+    "new_user_experience.choose_plan_card.professional.files": {
+        "string": "✓ 文件数量不限"
     },
-    "slides.properties_panel.interactive_widget.theme_selector_label": {
-        "string": "Color"
+    "new_user_experience.choose_plan_card.professional.libraries": {
+        "string": "✓ 可共享的团队库"
     },
-    "slides.properties_panel.interactive_widget.background_label": {
-        "string": "Background"
+    "new_user_experience.choose_plan_card.professional.pages": {
+        "string": "✓ 页面数量不限"
     },
-    "slides.properties_panel.interactive_widget.reset_label": {
-        "string": "Reset widget"
+    "new_user_experience.choose_plan_card.professional.permissions": {
+        "string": "✓ 自定义权限"
     },
-    "slides.properties_panel.interactive_widget.light_theme_label": {
-        "string": "Light"
+    "new_user_experience.choose_plan_card.professional.projects": {
+        "string": "✓ 项目数量不限"
     },
-    "slides.properties_panel.interactive_widget.dark_theme_label": {
-        "string": "Dark"
+    "new_user_experience.choose_plan_card.professional.title.Figjam": {
+        "string": "FigJam"
     },
-    "slides.properties_panel.interactive_widget.transparent_theme_label": {
-        "string": "Transparent"
+    "new_user_experience.choose_plan_card.professional.title.Figjam.cost": {
+        "string": "$3 "
     },
-    "slides.properties_panel.link_panel.title": {
-        "string": "Link"
+    "new_user_experience.choose_plan_card.professional.title.Figma": {
+        "string": "Figma"
     },
-    "slides.properties_panel.link_panel.slide_number": {
-        "string": "Slide {orderNum}"
+    "new_user_experience.choose_plan_card.professional.title.Figma.cost": {
+        "string": "$12 "
     }
 }

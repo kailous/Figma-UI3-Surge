@@ -1,152 +1,152 @@
 {
-    "fig_feed.description_placeholder.no_idea_too_small": {
-        "string": "No idea is too small to share"
+    "community.eula.agree": {
+        "string": "同意"
     },
-    "fig_feed.description_placeholder.bop_it": {
-        "string": "Twist it. Bop it. Post it."
+    "community.eula.disagree": {
+        "string": "不同意"
     },
-    "fig_feed.description_placeholder.watcha_got_there": {
-        "string": "Watcha got there? Want to Share?"
+    "community.eula.license_agreement": {
+        "string": "Apple设计资源使用许可协议"
     },
-    "fig_feed.description_placeholder.noodles": {
-        "string": "What are you noodling on?"
+    "community.eula.license_agreement_preamble": {
+        "string": "在使用Apple提供的资源进行设计之前，请阅读此使用许可协议。"
     },
-    "fig_feed.description_placeholder.show_and_tell": {
-        "string": "It's show-and-tell time"
+    "community.eula.license_agreement_v2": {
+        "string": "使用Apple设计资源，请阅读并同意条款。"
     },
-    "fig_feed.description_placeholder.share_crit_repeat": {
-        "string": "Share, crit, riff, repeat."
+    "community.explore_resources": {
+        "string": "探索资源"
     },
-    "fig_feed.description_placeholder.need_feedback": {
-        "string": "Need feedback on anything today?"
+    "community.follow.follow": {
+        "string": "关注"
     },
-    "fig_feed.description_placeholder.make_this_week": {
-        "string": "What’d you make this week?"
+    "community.follow.follow_profile_name_to_keep_up_with_what_they_publish": {
+        "string": "关注{profileName}以跟进他们发布的内容"
     },
-    "fig_feed.description_placeholder.post_something": {
-        "string": "Post something and see what sticks"
+    "community.follow.follow_this_profile_to_keep_up_with_what_they_publish": {
+        "string": "关注此个人资料以跟进他们发布的内容"
     },
-    "fig_feed.description_placeholder.any_new_ideas": {
-        "string": "Any new ideas to share?"
+    "community.follow.followers": {
+        "string": "关注者"
     },
-    "textreview.use_plugin_name_title_default": {
-        "string": "Use plugin?"
+    "community.follow.following": {
+        "string": "已关注"
     },
-    "textreview.use_plugin_name_title": {
-        "string": "Use {pluginName}?"
+    "community.follow.no_followers_yet": {
+        "string": "还没有关注者"
     },
-    "textreview.as_you_type_plugin_name_will_review_your_text_and_provide_suggestions": {
-        "string": " As you type, {pluginName} will review your text and provide suggestions."
+    "community.follow.not_following_anyone_yet": {
+        "string": "尚未关注任何人"
     },
-    "textreview.also_turn_off_figma_spell_check": {
-        "string": "Also turn off Figma's spell check"
+    "community.follow.org_and_team_profiles_cannot_follow_other_profiles": {
+        "string": "组织和团队个人资料不能关注其他个人资料"
     },
-    "textreview.use_plugin_name_confirm_default": {
-        "string": "Use plugin"
+    "community.follow.unfollow": {
+        "string": "取消关注"
     },
-    "textreview.use_plugin_name_confirm": {
-        "string": "Use {pluginName}"
+    "community.footer.community_guidelines": {
+        "string": "社区指南"
     },
-    "tax.vat.vat_gst_validation_failed": {
-        "string": "An error occured while validating the VAT/GST ID"
+    "community.footer.copyright": {
+        "string": "© 2024 Figma, Inc."
     },
-    "fullscreen.accessibility_settings.dialog_title": {
-        "string": "Accessibility settings"
+    "community.footer.mobile_apps": {
+        "string": "移动应用"
     },
-    "fullscreen.accessibility_settings.enable_screenreader_label": {
-        "string": "Adapt content for screen readers"
+    "community.footer.most_used": {
+        "string": "最常使用"
     },
-    "fullscreen.accessibility.dom_error": {
-        "string": "Content couldn't be adapted for screen readers, please try again later"
+    "community.footer.popular_searches": {
+        "string": "热门搜索"
     },
-    "fullscreen.accessibility.platform_error": {
-        "string": "For screen reader support, open FigJam in your desktop app or browser—support isn't available on mobile just yet."
+    "community.footer.presentations": {
+        "string": "演示文稿模板"
     },
-    "fullscreen.accessibility_settings.enable_screenreader_description_figjam_beta": {
-        "string": "When enabled, Figma prototypes and FigJam whiteboards will provide text and structure for screen readers and other assistive technologies."
+    "community.footer.resume": {
+        "string": "简历模板"
     },
-    "auth.tell_us_about_yourself": {
-        "string": "Tell us about yourself"
+    "community.footer.site_map": {
+        "string": "网站地图"
     },
-    "auth.log_in_to_collaborate_on_display_name": {
-        "string": "Log in to collaborate on {displayName}"
+    "community.footer.standup_template": {
+        "string": "站会模板"
     },
-    "auth.log_in_to_collaborate_on_this_file": {
-        "string": "Log in to collaborate on this file"
+    "community.footer.terms_of_service": {
+        "string": "服务条款"
     },
-    "auth.create_an_account_to_collaborate_on_display_name": {
-        "string": "Create an account to collaborate on {displayName}"
+    "community.footer.top_categories": {
+        "string": "热门类别"
     },
-    "auth.create_an_account_to_collaborate_on_this_file": {
-        "string": "Create an account to collaborate on this file"
+    "community.footer.top_collections": {
+        "string": "热门收藏"
     },
-    "auth.generic-go-back-and-try-again": {
-        "string": "Go back and try again"
+    "community.footer.ui_kits": {
+        "string": "UI工具包"
     },
-    "community.auth_modal.header": {
-        "string": "Join Figma for free design tools, templates, and more"
+    "community.general.name": {
+        "string": "名称"
     },
-    "auth.extra-info.usage-purpose.work": {
-        "string": "For work"
+    "community.general.tagline": {
+        "string": "标语"
     },
-    "auth.extra-info.usage-purpose.personal": {
-        "string": "For personal use"
+    "community.homepage.categories_section.header": {
+        "string": "热门类别"
     },
-    "auth.extra-info.usage-purpose.edu": {
-        "string": "For teaching or taking a class"
+    "community.homepage.categories_section.sub_header": {
+        "string": "看看如何利用社区资源改善设计。"
     },
-    "auth.extra-info.errors.please-provide-job-function": {
-        "string": "Please provide your job function"
+    "community.homepage.figjam_section.browse_all": {
+        "string": "查看所有FigJam资源"
     },
-    "auth.extra-info.tell-us-about-yourself": {
-        "string": "Tell us about yourself"
+    "community.homepage.figjam_section.header": {
+        "string": "FigJam资源"
     },
-    "auth.extra-info.your-name": {
-        "string": "Your name"
+    "community.homepage.figjam_section.sub_header": {
+        "string": "FigJam白板有助于规划、头脑风暴和团队会议。"
     },
-    "auth.extra-info.how-will-you-use": {
-        "string": "How will you primarily use Figma?"
+    "community.homepage.figma_section.browse_all": {
+        "string": "查看所有设计资源"
     },
-    "auth.extra-info.create-account": {
-        "string": "Create account"
+    "community.homepage.figma_section.header": {
+        "string": "设计资源"
     },
-    "auth.sign-in-google-text": {
-        "string": "Continue with Google"
+    "community.homepage.figma_section.sub_header": {
+        "string": "用于移动和网页、UI库等的模板。"
     },
-    "auth.sign-in-submit-text": {
-        "string": "Log in"
+    "community.homepage.header": {
+        "string": "在社区中寻找{librariesLink}、{pluginsLink}、{iconSetsLink}等"
     },
-    "auth.sign-up-google-text": {
-        "string": "Continue with Google"
+    "community.homepage.header_icon_sets": {
+        "string": "图标集"
     },
-    "auth.sign-up-submit-text": {
-        "string": "Create account"
+    "community.homepage.header_libraries": {
+        "string": "库"
     },
-    "auth.two-factor.resend-sms-code": {
-        "string": "Resend SMS code"
+    "community.homepage.header_plugins": {
+        "string": "插件"
     },
-    "auth.two-factor.send-sms-code": {
-        "string": "Send SMS code"
+    "community.homepage.mobile_header": {
+        "string": "探索社区中的资源和插件"
     },
-    "auth.two-factor.header": {
-        "string": "Please enter your authentication code or recovery code"
+    "community.homepage.mobile_subheader": {
+        "string": "由设计师创建的模板、设计工具和有用的资源。"
     },
-    "auth.two-factor.authentication-code": {
-        "string": "Authentication code"
+    "community.homepage.plugins_section.browse_all": {
+        "string": "查看所有插件"
     },
-    "auth.two-factor.log-in": {
-        "string": "Log in"
+    "community.homepage.plugins_section.sub_header": {
+        "string": "加速和自动化流程的工具。"
     },
-    "auth.two-factor.back": {
-        "string": "Back"
+    "community.homepage.slides_promo_banner": {
+        "string": "介绍Figma Slides：为设计师及其团队打造的首款演示工具"
     },
-    "permissions.join_org.cannot_run_plugins": {
-        "string": "To run plugins in this file, you’ll need to join the {orgName} organization first."
+    "community.homepage.slides_section.browse_all": {
+        "string": "查看所有演示文稿"
     },
-    "permissions.join_org.cannot_edit_file": {
-        "string": "To edit this file, you’ll need to join the {orgName} organization first."
+    "community.homepage.slides_section.header": {
+        "string": "创建精彩的演示文稿"
     },
-    "permissions.join_org.ask_an_org_admin": {
-        "string": "Do you want to ask a {orgName} admin to add you to the organization?"
+    "community.homepage.slides_section.sub_header": {
+        "string": "在演示文稿中快速设计你的想法。无论是初学者还是熟练者都能轻松使用。"
     }
 }

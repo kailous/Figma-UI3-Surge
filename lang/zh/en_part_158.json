@@ -1,152 +1,152 @@
 {
-    "visual_bell.snap_to_objects_enabled": {
-        "string": "Snap to objects enabled"
+    "file_browser.creation_buttons.bring_in_files": {
+        "string": "导入外部文件"
     },
-    "visual_bell.snap_to_objects_disabled": {
-        "string": "Snap to objects disabled"
+    "file_browser.creation_buttons.build_and_publish": {
+        "string": "构建和发布"
     },
-    "fullscreen.file_import.fig_jam_has_been_disabled_by_your_organization": {
-        "string": "FigJam has been disabled by your organization"
+    "file_browser.creation_buttons.design_and_prototype": {
+        "string": "设计和原型"
     },
-    "fullscreen.file_import.user_externally_restricted": {
-        "string": "You don't have permission to import files in external spaces"
+    "file_browser.creation_buttons.disabled_by_organization": {
+        "string": "已被组织禁用"
     },
-    "fullscreen.file_import.you_don_t_have_permissions_to_import_in_folder_name": {
-        "string": "You don't have permission to import this file type into {folderName}"
+    "file_browser.creation_buttons.import": {
+        "string": "导入"
     },
-    "fullscreen.file_import.you_don_t_have_permissions_to_import": {
-        "string": "You don't have permission to import this file type"
+    "file_browser.creation_buttons.new_design_file": {
+        "string": "新建设计文件"
     },
-    "fullscreen.file_import.unable_to_import": {
-        "string": "Unable to import"
+    "file_browser.creation_buttons.new_fig_jam_board": {
+        "string": "新建FigJam看板"
     },
-    "fullscreen.file_import.image_import_failed": {
-        "string": "Image import failed"
+    "file_browser.creation_buttons.new_slide_deck": {
+        "string": "新建幻灯片"
     },
-    "fullscreen.file_import.oversized_files_images_exceeded_max_size": {
-        "string": "{oversizedFiles, plural, one {{oversizedFiles} image exceeded the max size (64MB)} other {{oversizedFiles} images exceeded the max size (64MB)}}"
+    "file_browser.creation_buttons.new_website": {
+        "string": "新建网站"
     },
-    "fullscreen.file_import.oversized_files_image_s_were_too_large_64_mb_and_did_not_successfully_import": {
-        "string": "{oversizedFiles, plural, one {# image was too large (>64MB) and did not successfully import} other {# images were too large (>64MB) and did not successfully import}}"
+    "file_browser.creation_buttons.present_and_share": {
+        "string": "展示和分享"
     },
-    "fullscreen.file_import.import_invalid_images": {
-        "string": "{invalidFiles, plural, one {{invalidFiles} image was invalid} other {{invalidFiles} images were invalid}}"
+    "file_browser.creation_buttons.whiteboard_and_jam": {
+        "string": "白板和图表"
     },
-    "fullscreen.file_import.invalid_images_on_import": {
-        "string": "{invalidFiles, plural, one {# image was invalid and did not successfully import} other {# images were invalid and did not successfully import}}"
+    "file_browser.delete_branch_forever.confirm_text": {
+        "string": "永久删除分支"
     },
-    "fullscreen.file_import.oops_this_service_is_temporarily_unavailable": {
-        "string": "Server temporarily unavailable—wait a bit and try again"
+    "file_browser.delete_branch_forever.title": {
+        "string": "确定要永久删除分支吗?"
     },
-    "fullscreen.file_import.to_import_an_svg_drag_it_directly_into_an_open_figma_file": {
-        "string": "To import an SVG, add it directly into an open Figma file"
+    "file_browser.delete_forever.warning": {
+        "string": "确定要永久删除{fileName}吗?"
     },
-    "fullscreen.file_import.your_pdf_is_larger_than_50mb": {
-        "string": "This file exceeds the max size (50MB). Try splitting the file into smaller sections and importing them separately."
+    "file_browser.delete_project.generic_confirm_label": {
+        "string": "删除项目"
     },
-    "fullscreen.file_import.jamboard_supported_only_via_separate_import": {
-        "string": "Must be imported separately. Start a new import to add Jamboard files."
+    "file_browser.delete_project.generic_confirm_text": {
+        "string": "项目{folderName}及其文件将被删除。项目将被永久删除，但文件可以从草稿的[已删除]标签恢复。"
     },
-    "fullscreen.file_import.jamboard_supported_only_via_menu": {
-        "string": "Importing Jamboard files is only supported via the import menu"
+    "file_browser.delete_project.one_file_confirm_label": {
+        "string": "删除项目和1个文件"
     },
-    "whiteboard.ai.summary.summary_footer_disclaimer": {
-        "string": "Heads up: AI outputs can be misleading, or even flat-out wrong."
+    "file_browser.delete_project.one_file_confirm_text": {
+        "string": "项目{folderName}及一个文件将被删除。项目将被永久删除，但文件可以从草稿的[已删除]标签恢复。"
     },
-    "whiteboard.ai.summary.summary_header_disclaimer_no_date": {
-        "string": "Summarized with AI"
+    "file_browser.delete_project.plural_files_confirm_label": {
+        "string": "删除项目和{numFiles}个文件"
     },
-    "whiteboard.ai.summary.summary_header_disclaimer": {
-        "string": "Summarized with AI - {summaryGenerationDate, date, long}"
+    "file_browser.delete_project.plural_files_confirm_text": {
+        "string": "项目{folderName}及其{numFiles}个文件将被删除。项目将被永久删除，但文件可以从草稿的[已删除]标签恢复。"
     },
-    "whiteboard.ai_summary.loading_text": {
-        "string": "Summarizing"
+    "file_browser.delete_project.title": {
+        "string": "删除项目和文件"
     },
-    "whiteboard.embeds.inline_menu.display_vertical": {
-        "string": "Display vertical"
+    "file_browser.draft_delete_modal.async_delete_drafts_scheduled": {
+        "string": "正在删除个人草稿"
     },
-    "whiteboard.embeds.inline_menu.display_horizontal": {
-        "string": "Display horizontal"
+    "file_browser.draft_delete_modal.async_delete_drafts_scheduled_error": {
+        "string": "删除个人草稿时出错"
     },
-    "collaboration.feedback.compare_changes_modal.action_text": {
-        "string": "Edited by {lastEditedBy} {lastEditedAt}"
+    "file_browser.draft_delete_modal.button_delete": {
+        "string": "删除"
     },
-    "collaboration.feedback.compare_changes_modal.action_button": {
-        "string": "View changes"
+    "file_browser.draft_delete_modal.button_delete_files": {
+        "string": "{numFiles, plural, other {删除文件}}"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_pm": {
-        "string": "PM templates"
+    "file_browser.draft_delete_modal.button_permanently_delete_files": {
+        "string": "{numFiles, plural, other {永久删除文件}}"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_pm_badge": {
-        "string": "New PM templates"
+    "file_browser.draft_delete_modal.draft_deletion_tooltip": {
+        "string": "要永久删除草稿，请使用“{deletionString}”"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_eng": {
-        "string": "Developer templates"
+    "file_browser.draft_delete_modal.header_multiple_files_delete": {
+        "string": "确定要永久删除{fileCount}个文件吗?"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_eng_badge": {
-        "string": "New developer templates"
+    "file_browser.draft_delete_modal.header_multiple_files_trash": {
+        "string": "删除{fileCount}个文件"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_des": {
-        "string": "Designer templates"
+    "file_browser.draft_delete_modal.header_single_file_delete": {
+        "string": "确定要永久删除{fileName}吗?"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_des_badge": {
-        "string": "New designer templates"
+    "file_browser.draft_delete_modal.header_single_file_trash": {
+        "string": "删除文件"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_mkt": {
-        "string": "Marketer templates"
+    "file_browser.draft_delete_modal.permanently_delete_multiple_drafts": {
+        "string": "您正在永久删除{fileCount}个草稿。此操作不可撤销。"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_mkt_badge": {
-        "string": "New marketer templates"
+    "file_browser.draft_delete_modal.permanently_delete_multiple_drafts_confirmation": {
+        "string": "要继续，请使用“{deletionString}”。"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_ur": {
-        "string": "Researcher templates"
+    "file_browser.draft_delete_modal.permanently_delete_one_draft": {
+        "string": "您正在永久删除此草稿。此操作不可撤销。要继续，请确认删除此草稿。"
     },
-    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_ur_badge": {
-        "string": "New researcher templates"
+    "file_browser.draft_delete_modal.unable_to_delete": {
+        "string": "无法同时删除超过{maxSize}个草稿"
     },
-    "collaboration.spotlight.visual_bell.user_left_the_spotlight": {
-        "string": "{userName} left the spotlight"
+    "file_browser.draft_delete_modal.you_are_about_to_delete_multiple_drafts": {
+        "string": "您即将删除{fileCount}个草稿。"
     },
-    "collaboration.spotlight.visual_bell.the_presenter_left_the_spotlight": {
-        "string": "The presenter left the spotlight"
+    "file_browser.draft_delete_modal.you_are_about_to_delete_single_draft": {
+        "string": "您即将删除文件{fileName}。"
     },
-    "whiteboard.inserts.code_block_title": {
-        "string": "Code block"
+    "file_browser.draft_delete_modal.you_can_access_drafts_from_deleted_drafts_section": {
+        "string": "稍后可以从[删除的草稿]部分访问{fileCount, plural, other {移动的草稿}}。"
     },
-    "whiteboard.inserts.mind_map_title": {
-        "string": "Mind Map"
+    "file_browser.draft_move_confirmation_modal.board": {
+        "string": "看板"
     },
-    "browse_templates_modal.add_template": {
-        "string": "Add template"
+    "file_browser.draft_move_confirmation_modal.file": {
+        "string": "文件"
     },
-    "browse_templates_modal.use_template": {
-        "string": "Use template"
+    "file_browser.draft_move_confirmation_modal.move_drafts_team_member_substring": {
+        "string": "团队不会立即被收费。管理员可以随时将其移回免费席位。"
     },
-    "community.publishing.price_is_required_for_paid_resources": {
-        "string": "Price is required for paid resources"
+    "file_browser.draft_move_confirmation_modal.move_drafts_team_owner_substring": {
+        "string": "团队不会立即被收费。您可以随时将其移回免费席位。"
     },
-    "community.publishing.name_must_be_4_characters_long": {
-        "string": "Name must be at least 4 characters long"
+    "file_browser.draft_move_confirmation_modal.move_multiple_drafts_dual_upgrade": {
+        "string": "从草稿中移动{draftName}和{pluralizedDraftsRemainingString}会将{teamName}更改为付费的Figma设计席位和付费的FigJam席位。{roleContextSubstring}"
     },
-    "community.publishing.creator_policy_must_be_at_most_10000_characters_long": {
-        "string": "Creator policy must be at most 10,000 characters long"
+    "file_browser.draft_move_confirmation_modal.move_multiple_drafts_singular_upgrade": {
+        "string": "从草稿中移动{draftName}和{pluralizedDraftsRemainingString}会将{teamName}更改为付费的{seatType}席位。{roleContextSubstring}"
     },
-    "community.publishing.support_contact_must_not_be_empty": {
-        "string": "Support contact must not be empty"
+    "file_browser.draft_move_confirmation_modal.move_one_draft_singular": {
+        "string": "从草稿中移动此{fileTypeMoniker}会将{teamName}更改为付费的{seatType}席位。{roleContextSubstring}"
     },
-    "community.publishing.support_contact_must_be_a_valid_email_or_url": {
-        "string": "Support contact must be a valid email or URL"
+    "file_browser.draft_move_confirmation_modal.pluralized_remaining_drafts": {
+        "string": "其他{remainingDraftCount}个文件"
     },
-    "community.publishing.category_cant_be_empty": {
-        "string": "Category can't be empty"
+    "file_browser.draft_move_confirmation_modal.seat_type_design": {
+        "string": "Figma设计"
     },
-    "fullscreen.notification.clipboard_data_available": {
-        "string": "Copied selection from another device. Paste here?"
+    "file_browser.draft_move_confirmation_modal.seat_type_figjam": {
+        "string": "FigJam"
     },
-    "design_systems.styles.text_style": {
-        "string": "{numStyles, plural, one {Text style} other {Text styles}}"
+    "file_browser.draft_move_modal.a_new_starter_team": {
+        "string": "新初始团队"
     },
-    "design_systems.styles.color_style": {
-        "string": "{numStyles, plural, one {Color style} other {Color styles}}"
+    "file_browser.draft_move_modal.async_draft_move_scheduled": {
+        "string": "正在移动草稿"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "user_onboarding_signals.v1.edu.answer.students_and_educators": {
-        "string": "Students and educators"
+    "members_tab.member_modal.guest_access.files_table.file_column": {
+        "string": "文件"
     },
-    "user_onboarding_signals.v1.answer.teammates": {
-        "string": "Teammates"
+    "members_tab.member_modal.guest_access.files_table.permissions_column": {
+        "string": "权限"
     },
-    "user_onboarding_signals.v1.answer.clients": {
-        "string": "Clients"
+    "members_tab.member_modal.guest_access.files_table.team_column": {
+        "string": "团队"
     },
-    "new_user_experience.user_onboarding_signals.answer.nobody": {
-        "string": "Nobody (just me)"
+    "members_tab.member_modal.guest_access.no_access_label": {
+        "string": "{name}目前无法访问任何团队资源。"
     },
-    "user_onboarding_signals.v2.answer.starting_a_new_job_or_project": {
-        "string": "Starting a new job or project"
+    "members_tab.member_modal.guest_access.projects_table.files_column": {
+        "string": "文件"
     },
-    "user_onboarding_signals.v2.answer.just_checking_things_out": {
-        "string": "Just checking things out"
+    "members_tab.member_modal.guest_access.projects_table.permissions_column": {
+        "string": "权限"
     },
-    "user_onboarding_signals.v2.answer.no_its_my_first_time": {
-        "string": "No, it's my first time"
+    "members_tab.member_modal.guest_access.projects_table.project_column": {
+        "string": "项目"
     },
-    "user_onboarding_signals.v2.answer.yes_a_few_times": {
-        "string": "Yes, a few times"
+    "members_tab.member_modal.guest_access.teams_table.permissions_column": {
+        "string": "权限"
     },
-    "user_onboarding_signals.v2.answer.yes_many_times": {
-        "string": "Yes, many times"
+    "members_tab.member_modal.guest_access.teams_table.projects_column": {
+        "string": "项目"
     },
-    "user_onboarding_signals.v2.answer.other": {
-        "string": "Other"
+    "members_tab.member_modal.guest_access.teams_table.team_column": {
+        "string": "团队"
     },
-    "user_onboarding_signals_figjam.v2.answer.brainstorms": {
-        "string": "Facilitating brainstorms"
+    "members_tab.member_modal.guest_access_tab": {
+        "string": "访客访问"
     },
-    "user_onboarding_signals_figjam.v2.answer.meetings": {
-        "string": "Running meetings"
+    "members_tab.member_modal.not_project_member_tooltip": {
+        "string": "您不是此项目的成员。由于文件权限，无法访问此文件。"
     },
-    "user_onboarding_signals_figjam.v2.answer.diagramming": {
-        "string": "Diagramming"
+    "members_tab.member_modal.project_count_label": {
+        "string": "{projectCount, plural, other {{projectCount}个项目}}"
     },
-    "user_onboarding_signals_figjam.v2.answer.projects": {
-        "string": "Planning projects"
+    "members_tab.member_modal.recent_activity_tab": {
+        "string": "最近活动"
     },
-    "user_onboarding_signals_figjam.v2.answer.learning": {
-        "string": "Learning and exploring"
+    "members_tab.member_modal.remove_user_button": {
+        "string": "删除用户"
     },
-    "user_onboarding_signals.gen1.v1.answer.learning_about_design": {
-        "string": "Learning about design"
+    "members_tab.member_modal.see_full_activity_button": {
+        "string": "查看全部活动"
     },
-    "user_onboarding_signals.gen1.v1.answer.joining_my_teams_project": {
-        "string": "Joining my team's project"
+    "members_table.add_members_button": {
+        "string": "添加成员"
     },
-    "user_onboarding_signals.gen1.v1.answer.testing_figma_out_for_my_team": {
-        "string": "Testing Figma out for my team"
+    "members_table.badge_label.admin": {
+        "string": "管理员"
     },
-    "user_onboarding_signals.gen1.v1.answer.giving_feedback_on_a_design": {
-        "string": "Giving feedback on a design"
+    "members_table.badge_label.guest": {
+        "string": "访客"
     },
-    "user_onboarding_signals.gen1.v1.answer.joining_a_meeting_or_brainstorm": {
-        "string": "Joining a meeting or brainstorm"
+    "members_table.badge_label.unverified": {
+        "string": "未验证"
     },
-    "user_onboarding_signals.v1.answer.k12": {
-        "string": "K-12"
+    "members_table.badge_new": {
+        "string": "新"
     },
-    "user_onboarding_signals.v1.answer.higher_education": {
-        "string": "Higher education"
+    "members_table.batch_actions_menu.change_billing_group": {
+        "string": "更改账单组"
     },
-    "user_onboarding_signals.v1.answer.bootcamp_or_online_course": {
-        "string": "Bootcamp or online course"
+    "members_table.batch_actions_menu.change_workspace": {
+        "string": "更改工作区"
     },
-    "new_user_experience.prev_question_text.quick_question.quick_question_before_you_start_building": {
-        "string": "Quick question before you start building:"
+    "members_table.batch_actions_menu.edit_org_access": {
+        "string": "编辑组织访问"
     },
-    "new_user_experience.prev_question_text.quick_question.quick_question_before_you_start_riffing": {
-        "string": "Quick question before you start riffing:"
+    "members_table.batch_actions_menu.role_change.seat_rename": {
+        "string": "更改席位"
     },
-    "new_user_experience.prev_question_text.quick_question.quick_question_before_you_start_collaborating": {
-        "string": "Quick question before you start collaborating:"
+    "members_table.beta_participant": {
+        "string": "测试参与者"
     },
-    "new_user_experience.prev_question_text.quick_question.quick_question_before_you_start_analyzing": {
-        "string": "Quick question before you start analyzing:"
+    "members_table.billing_group_update_description.auto_assigned": {
+        "string": "自动分配"
     },
-    "new_user_experience.prev_question_text.quick_question.quick_question_before_you_start_pitching": {
-        "string": "Quick question before you start pitching:"
+    "members_table.billing_group_update_description.moved_by_admin": {
+        "string": "{adminName}移动"
     },
-    "new_user_experience.prev_question_text.quick_question.quick_question_before_you_jump_in": {
-        "string": "Quick question before you jump in:"
+    "members_table.billing_group_update_description.moved_by_admin_generic": {
+        "string": "管理员移动"
     },
-    "new_user_experience.prev_question_text.before_you_join": {
-        "string": "Before you join {resourceName}..."
+    "members_table.billing_group_update_description.scim_group": {
+        "string": "[{groupName}]由IDP配置"
     },
-    "new_user_experience.prev_question_text.hello_name": {
-        "string": "Hello, {userName}!"
+    "members_table.billing_group_update_description.self_selected": {
+        "string": "通过账单组选择功能选择"
     },
-    "rcs.product_and_template_picker.i_ll_get_started_on_my_own": {
-        "string": "I'll get started on my own"
+    "members_table.billing_group_update_description.self_selected_dont_know": {
+        "string": "未知账单组"
     },
-    "rcs.product_and_template_picker.back": {
-        "string": "Back"
+    "members_table.billing_group_update_description.self_selected_not_listed": {
+        "string": "未列出的账单组"
     },
-    "rcs.product_and_template_picker.design_with_figma": {
-        "string": "Design with Figma"
+    "members_table.cannot_send_verification_email": {
+        "string": "无法发送验证邮件给用户。请稍后重试。"
     },
-    "rcs.product_and_template_picker.design_prototype_and_handoff_to_developers_all_in_one_tool": {
-        "string": "Design, prototype, and developer handoff"
+    "members_table.change_member_permission.success": {
+        "string": "已更改所选用户的权限"
     },
-    "rcs.product_and_template_picker.whiteboard_in_fig_jam": {
-        "string": "Whiteboard in FigJam"
+    "members_table.column_header.active_at": {
+        "string": "最后活跃时间"
     },
-    "rcs.product_and_template_picker.brainstorm_diagram_and_collaborate_with_your_team": {
-        "string": "Brainstorm and diagram together"
+    "members_table.column_header.billing_group": {
+        "string": "账单组"
     },
-    "rcs.template_picker.i_ll_get_started_on_my_own": {
-        "string": "I'll get started on my own"
+    "members_table.column_header.design_role.seat_rename": {
+        "string": "设计席位"
     },
-    "plan_details.cost_per_month_per_figma_editor_without_month.seat_rename": {
-        "string": "{cost} per Design seat"
+    "members_table.column_header.dev_mode_role.seat_rename": {
+        "string": "开发模式席位"
     },
-    "plan_details.cost_for_fig_jam_without_month.seat_rename": {
-        "string": "{cost} per FigJam seat"
+    "members_table.column_header.edit_at": {
+        "string": "最后编辑时间"
     },
-    "plan_details.cost_per_month_per_figma_editor.seat_rename": {
-        "string": "{cost}/mo. per Design seat"
+    "members_table.column_header.name": {
+        "string": "名称"
     },
-    "plan_details.cost_for_fig_jam.seat_rename": {
-        "string": "{cost}/mo. per FigJam seat"
+    "members_table.column_header.scim": {
+        "string": "SCIM"
     },
-    "plan_details.for_teams_trying_figjam": {
-        "string": "For teams trying FigJam"
+    "members_table.column_header.upgrade_date": {
+        "string": "升级日期"
     },
-    "plan_details.for_teams_trying_figma": {
-        "string": "For teams trying Figma"
+    "members_table.column_header.upgrade_reason": {
+        "string": "升级原因"
     },
-    "plan_details.use_fig_jam_for_free": {
-        "string": "Use FigJam for free"
+    "members_table.column_header.whiteboard_role.seat_rename": {
+        "string": "FigJam席位"
     },
-    "edu.choose_starter": {
-        "string": "Choose Starter"
+    "members_table.column_header.workspace": {
+        "string": "工作区"
     },
-    "plan_details.for_professional_teams": {
-        "string": "For professional teams"
+    "members_table.copy_emails_button": {
+        "string": "复制{userCount, plural, other {个邮箱}}"
     },
-    "plan_details.upgrade": {
-        "string": "Upgrade"
+    "members_table.csv_export.error": {
+        "string": "处理请求时出错。请稍后重试。"
     },
-    "edu.upgrade_for_free": {
-        "string": "Upgrade for free"
+    "members_table.csv_export.generating": {
+        "string": "生成CSV可能需要几分钟。完成后会通过邮件通知您。"
     },
-    "edu.free_for_verified_students_and_educators": {
-        "string": "Free for verified students and educators."
+    "members_table.csv_export.get_csv": {
+        "string": "获取CSV"
     }
 }

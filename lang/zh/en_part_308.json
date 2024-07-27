@@ -1,152 +1,152 @@
 {
-    "community.comments.delete": {
-        "string": "Delete"
+    "team_tile.no_teams.create_team_button": {
+        "string": "チームを新規作成"
     },
-    "community.comments.delete_thread": {
-        "string": "Delete thread"
+    "team_tile.no_teams.empty_workspace": {
+        "string": "ワークスペースのセットアップが完了していないようです。チーム、プロジェクト、ファイルが追加されてから、もう一度確認してください。"
     },
-    "community.comments.restrict_user_s_comments": {
-        "string": "Restrict user's comments"
+    "team_tile.no_teams.info": {
+        "string": "コラボレーターや進行中のプロジェクトが既にありますか? チームを作成すると、ファイルを整理し、作業を簡単に共有できるようになります。"
     },
-    "community.comments.unrestrict_user_s_comments": {
-        "string": "Unrestrict user's comments"
+    "team_tile.no_teams.title": {
+        "string": "チームがまだありません"
     },
-    "community.comments.report_comment": {
-        "string": "Report"
+    "team_tile.shared_by": {
+        "string": "{shared_by_text}から"
     },
-    "community.comments.reply": {
-        "string": "Reply"
+    "team_tile.shared_with_you.no_teams.info": {
+        "string": "共有されているチームはありません。"
     },
-    "community.comments.remove_comment_and_restrict_user": {
-        "string": "Remove comment and restrict user?"
+    "tile.branching.create_new_branch": {
+        "string": "新しいブランチを作成"
     },
-    "community.comments.remove_and_restrict": {
-        "string": "Remove and restrict"
+    "tile.branching.see_all_branches": {
+        "string": "すべてのブランチを表示"
     },
-    "community.comments.please_read_our_link_before_reporting": {
-        "string": "Please read our {link} before reporting"
+    "tile.copy_link.action_description": {
+        "string": "このアイテムを共有するには、リンクをコピーしてください。"
     },
-    "community.community_guidelines": {
-        "string": "Community guidelines"
+    "tile.copy_link.done": {
+        "string": "完了"
     },
-    "community.comments.report_and_hide_author_name_s_comment": {
-        "string": "Report and hide {authorName}'s comment?"
+    "tile.dropdown.copy_link": {
+        "string": "リンクのコピー"
     },
-    "community.comments.report_author_name_s_comment": {
-        "string": "Report {authorName}'s comment?"
+    "tile.dropdown.create_new_branch": {
+        "string": "新しいブランチの作成"
     },
-    "community.comments.this_will_flag_the_comment_for_review_and_hide_it_for_everyone": {
-        "string": "This will flag the comment for review and hide it for everyone."
+    "tile.dropdown.delete_file": {
+        "string": "{objText}の削除"
     },
-    "community.comments.this_will_flag_the_comment_for_review": {
-        "string": "This will flag the comment for review."
+    "tile.dropdown.delete_file_and_branches": {
+        "string": "ファイルとブランチを削除"
     },
-    "community.comments.comment_author_will_not_be_notified": {
-        "string": "{authorName} will not be notified."
+    "tile.dropdown.delete_forever": {
+        "string": "{objectText}を完全に削除"
     },
-    "community.comments.report": {
-        "string": "Report"
+    "tile.dropdown.delete_single_tile": {
+        "string": "削除"
     },
-    "community.plugins.approve_ellipsis": {
-        "string": "Approve..."
+    "tile.dropdown.duplicate": {
+        "string": "{objText}の複製"
     },
-    "community.detail_view.show_less": {
-        "string": "Show less"
+    "tile.dropdown.duplicate_single_tile": {
+        "string": "複製"
     },
-    "community.detail_view.read_more": {
-        "string": "Read more"
+    "tile.dropdown.duplicate_to_draft": {
+        "string": "{objText}をドラフトに複製"
     },
-    "payments.errors.error_loading_payment_form": {
-        "string": "There was an issue with loading our payment form. Please refresh and try again."
+    "tile.dropdown.duplicate_to_draft_single_file_or_repo": {
+        "string": "ドラフトに複製"
     },
-    "payments.errors.confirm_setup_error": {
-        "string": "Sorry, we're unable to save your payment method. Please refresh and try again."
+    "tile.dropdown.edit_workspace_pin": {
+        "string": "ワークスペースピンを編集"
     },
-    "payments.errors.currency_mismatch_with_country_error": {
-        "string": "Your payment method's address is in a country that can't pay in {selected_currency}. Please use a different payment method."
+    "tile.dropdown.manage_template": {
+        "string": "テンプレートを管理"
     },
-    "payments.errors.currency_ip_mismatch_error": {
-        "string": "Your payment method's address is in a country that is different from your location. Please use a different payment method."
+    "tile.dropdown.move_file": {
+        "string": "ファイルを移動..."
     },
-    "payments.errors.currency_mismatch_error": {
-        "string": "Your payment method's address is in a country that can't pay in {selected_currency}. Please use a different payment method or switch to USD."
+    "tile.dropdown.move_file_and_branches_to_trash": {
+        "string": "ファイルとブランチをごみ箱に移動"
     },
-    "community.comments.this_will_remove_their_comments_from_all_your_community_files_and_plugins_it_also_prevents_them_from_leaving_comments_on_your_resources_or_mentioning_you_in_the_future": {
-        "string": "This will remove their comments from all your Community files and plugins. It also prevents them from leaving comments on your resources or mentioning you in the future."
+    "tile.dropdown.multiple_file_suffix": {
+        "string": " {totalSelected}ファイル"
     },
-    "community.comments.link_about_managing_restricted_commenters": {
-        "string": "{link} about managing restricted commenters."
+    "tile.dropdown.no_permission_to_delete_error": {
+        "string": "これらのファイルを削除する権限がありません。"
     },
-    "community.comments.learn_more": {
-        "string": "Learn more"
+    "tile.dropdown.no_permission_to_delete_error_updated": {
+        "string": "{numFiles, plural, other {これらのファイルを削除する権限がありません。}}"
     },
-    "community.banner.to_follow_creators_and_like_resources": {
-        "string": "To follow creators and like resources, {link}"
+    "tile.dropdown.no_permission_to_restore_error": {
+        "string": "これらのファイルを復元する権限がありません。"
     },
-    "community.banner.to_create_your_own_plugin": {
-        "string": "To create your own plugin, {link}"
+    "tile.dropdown.no_permission_to_restore_error_updated": {
+        "string": "{numFiles, plural, other {これらのファイルを復元する権限がありません。}}"
     },
-    "community.banner.a_space_for_figma_users_to_share_things_they_create": {
-        "string": "a space for Figma users to share things they create."
+    "tile.dropdown.no_permission_to_trash_error": {
+        "string": "これらのファイルをごみ箱に移動する権限がありません。"
     },
-    "community.banner.community_is_a_space_for_figma_users_to_share_things_they_create": {
-        "string": "Community is a space for Figma users to share things they create."
+    "tile.dropdown.no_permission_to_trash_error_updated": {
+        "string": "{numFiles, plural, other {これらのファイルをごみ箱に移動する権限がありません。}}"
     },
-    "community.banner.this_is_the_figma_community": {
-        "string": "This is the Figma Community,"
+    "tile.dropdown.open": {
+        "string": "開く"
     },
-    "community.banner.this_is_a_figma_community_profile": {
-        "string": "This is a Figma Community profile."
+    "tile.dropdown.open_new_tab": {
+        "string": "新しいタブで開く"
     },
-    "community.banner.this_is_your_figma_community_profile": {
-        "string": "This is your Figma Community profile."
+    "tile.dropdown.pin_to_project": {
+        "string": "プロジェクトにピン留め"
     },
-    "community.banner.this_is_a_figma_community_file": {
-        "string": "This is a Figma Community file."
+    "tile.dropdown.pin_to_workspace": {
+        "string": "ワークスペースにピン留め"
     },
-    "community.banner.this_is_a_figma_community_plugin": {
-        "string": "This is a Figma Community plugin."
+    "tile.dropdown.publish_as_template": {
+        "string": "テンプレートを公開..."
     },
-    "community.banner.this_is_a_figma_community_widget": {
-        "string": "This is a Figma Community widget."
+    "tile.dropdown.remove_from_recent_pluralized": {
+        "string": "{numFiles, plural, other {最近の項目から{numFiles}項目を削除}}"
     },
-    "community.banner.create_your_own_profile": {
-        "string": "create your own profile"
+    "tile.dropdown.remove_project_pin": {
+        "string": "プロジェクトピンを削除"
     },
-    "community.banner.get_started_with_a_free_account": {
-        "string": "Get started with a free account"
+    "tile.dropdown.remove_workspace_pin": {
+        "string": "ワークスペースピンを削除"
     },
-    "community.banner.visit_the_docs": {
-        "string": "visit the docs"
+    "tile.dropdown.rename": {
+        "string": "名前の変更"
     },
-    "community.banner.this_was_made_in_fig_jam_figma_s_new_online_whiteboard": {
-        "string": "This was made in FigJam, Figma's new online whiteboard."
+    "tile.dropdown.rename_file": {
+        "string": "ファイル名を変更"
     },
-    "community.banner.check_out_more_fig_jam_resources_in_the_community": {
-        "string": "Check out more FigJam resources in the Community"
+    "tile.dropdown.restore": {
+        "string": "{numFiles, plural, other {{objectText}を復元}}"
     },
-    "community.seller.collect_tax_info_modal.title": {
-        "string": "Let’s get started"
+    "tile.dropdown.restore_from_version": {
+        "string": "バージョンから復元"
     },
-    "community.seller.collect_tax_info_modal.body": {
-        "string": "Let’s get your tax info squared away. This info will be passed through to Stripe in the next step."
+    "tile.dropdown.share": {
+        "string": "共有"
     },
-    "community.seller.collect_tax_info_modal.continue_to_stripe": {
-        "string": "Continue to Stripe"
+    "tile.dropdown.show_in_project": {
+        "string": "プロジェクトに表示"
     },
-    "community.seller.collect_tax_info_modal.enter_a_first_name": {
-        "string": "Enter a first name"
+    "tile.dropdown.trash_file": {
+        "string": "{objText}をごみ箱に移動"
     },
-    "community.seller.collect_tax_info_modal.enter_a_last_name": {
-        "string": "Enter a last name"
+    "tile.dropdown.trash_single_tile": {
+        "string": "ごみ箱に移動"
     },
-    "community.seller.collect_tax_info_modal.enter_a_valid_address": {
-        "string": "Enter a valid address"
+    "tile.dropdown.unpublish_template": {
+        "string": "テンプレートを公開取り消し"
     },
-    "community.seller.collect_tax_info_modal.enter_a_valid_vat_id": {
-        "string": "Enter a valid VAT/GST ID"
+    "tile.dropdown.update_template": {
+        "string": "変更を公開…"
     },
-    "community.seller.collect_tax_info_modal.first_name": {
-        "string": "First name"
+    "tile.dropdown.use_in_new_file": {
+        "string": "新しいファイルで使用"
     }
 }

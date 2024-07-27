@@ -1,152 +1,152 @@
 {
-    "orgs_middleware.deletion_request_submitted": {
-        "string": "Deletion request submitted"
+    "whiteboard.mindmaps_onboarding_template.category_3_child_1_description": {
+        "string": "嗯。"
     },
-    "orgs_middleware.an_error_occurred_while_enqueeing_deletion_request": {
-        "string": "An error occurred while enqueeing a deletion request."
+    "whiteboard.mindmaps_onboarding_template.category_3_child_1_text": {
+        "string": "香蕉饭"
     },
-    "orgs_middleware.user_data_deleted": {
-        "string": "User data deleted"
+    "whiteboard.mindmaps_onboarding_template.category_3_child_2_description": {
+        "string": "等等。我是素食者。"
     },
-    "org_invite.org_invite_update_success": {
-        "string": "Provisional user {email} updated."
+    "whiteboard.mindmaps_onboarding_template.category_3_child_2_text": {
+        "string": "波奇碗"
     },
-    "org_invite.org_invite_update_error": {
-        "string": "An error occurred while updating org invites."
+    "whiteboard.mindmaps_onboarding_template.category_3_text": {
+        "string": "碗🥣"
     },
-    "org_invite.invite_resent": {
-        "string": "Invite resent."
+    "whiteboard.mindmaps_onboarding_template.root_text": {
+        "string": "午餐..."
     },
-    "org_invite.new_members_message": {
-        "string": "{numInvites, plural, one {{numInvites} person invited.} other {{numInvites} people invited.}}"
+    "whiteboard.section_preset_picker.choose_a_template": {
+        "string": "请选择一个模板"
     },
-    "org_invite.existing_members_message": {
-        "string": "{numExisting, plural, one {{numExisting} person already in the Organization.} other {{numExisting} people already in the Organization.}}"
+    "whiteboard.starter_kit.body.design_crit.interop": {
+        "string": "您可以将多个框架和形状等从Figma复制并粘贴到FigJam。\r\n\r\n在这里试试。"
     },
-    "org_invite.org_invite_creation_error": {
-        "string": "An error occurred while creating org invites."
+    "whiteboard.starter_kit.body.presentation": {
+        "string": "演示文稿是一种用于展示、讲课、演讲或报告的交流工具，主要在观众面前展示。"
     },
-    "org_invite.org_invite_deletion_success": {
-        "string": "Provisional user {email} removed"
+    "whiteboard.starter_kit.body.presentation.slide_2": {
+        "string": "拖动图像并将其添加到画布上。\r\n\r\n在这里试试。"
     },
-    "org_invite.org_invite_deletion_error": {
-        "string": "An error occurred while deleting org invites."
+    "whiteboard.starter_kit.body.presentation_short": {
+        "string": "演示文稿是一种用于展示的交流工具。"
     },
-    "org_team_actions.an_error_occurred_while_changing_team_s_org_access": {
-        "string": "An error occurred while changing this team's org access."
+    "whiteboard.starter_kit.flowchart.action1": {
+        "string": "操作1"
     },
-    "org_team_actions.teams_were_unassigned": {
-        "string": "{numTeams, plural, one {1 team was unassigned} other {{numTeams} teams were unassigned}}"
+    "whiteboard.starter_kit.flowchart.action2": {
+        "string": "操作2"
     },
-    "org_team_actions.an_error_occurred_while_unassigning_team_s_from_a_workspace": {
-        "string": "An error occurred while unassigning team(s) from a workspace."
+    "whiteboard.starter_kit.flowchart.creative_idea": {
+        "string": "创意点子"
     },
-    "org_team_actions.teams_were_assigned_to_workspace": {
-        "string": "{numTeams, plural, one {1 team was assigned to {workspaceName}} other {{numTeams} teams were assigned to {workspaceName}}}"
+    "whiteboard.starter_kit.flowchart.database": {
+        "string": "数据库"
     },
-    "org_team_actions.an_error_occurred_while_assigning_team_s_to_a_workspace": {
-        "string": "An error occurred while assigning team(s) to a workspace."
+    "whiteboard.starter_kit.flowchart.file": {
+        "string": "文件"
     },
-    "org_team_actions.an_error_occurred_while_fetching_teams": {
-        "string": "An error occurred while fetching teams."
+    "whiteboard.starter_kit.flowchart.outcome1": {
+        "string": "结果1"
     },
-    "org_team_actions.an_error_occurred_while_joining_teams": {
-        "string": "An error occurred while joining teams."
+    "whiteboard.starter_kit.flowchart.outcome2": {
+        "string": "结果2"
     },
-    "org_team_actions.an_error_occurred_while_joining": {
-        "string": "An error occurred while joining."
+    "whiteboard.starter_kit.headings.agenda": {
+        "string": "周会"
     },
-    "org_team_actions.an_error_occurred_while_trying_to_fetch_this_team": {
-        "string": "An error occurred while trying to fetch this team."
+    "whiteboard.starter_kit.headings.brainstorm": {
+        "string": "头脑风暴主题..."
     },
-    "org_team_actions.an_error_occurred_while_trying_to_fetch_teams_within_the_organization": {
-        "string": "An error occurred while trying to fetch teams within the organization."
+    "whiteboard.starter_kit.headings.bug_bash": {
+        "string": "Bug Bash"
     },
-    "org_user_actions.an_error_occurred": {
-        "string": "An error occurred."
+    "whiteboard.starter_kit.headings.design_crit": {
+        "string": "设计评审"
     },
-    "org_user_actions.an_error_occurred_closing_onboarding": {
-        "string": "An error occurred closing onboarding."
+    "whiteboard.starter_kit.headings.presentation": {
+        "string": "演示文稿标题"
     },
-    "org_user_actions.user_upgrade_request_submitted": {
-        "string": "Request submitted—you’ll be notified once an admin has responded."
+    "whiteboard.starter_kit.headings.retro": {
+        "string": "回顾"
     },
-    "org_user_actions.upgrade_request_sent": {
-        "string": "Upgrade request sent."
+    "whiteboard.starter_kit.headings.user_journey": {
+        "string": "用户旅程地图"
     },
-    "org_user_actions.an_error_occurred_requesting_account_type": {
-        "string": "An error occurred while requesting an account type."
+    "whiteboard.starter_kit.make_something.brainstorm.section-name": {
+        "string": "想法在这里"
     },
-    "org_user_actions.you_successfully_left_organization": {
-        "string": "You successfully left {orgName} Organization."
+    "whiteboard.starter_kit.make_something.brainstorm.title": {
+        "string": "如果我们做了__________，会怎么样?"
     },
-    "org_user_actions.an_error_occurred_leaving_organization": {
-        "string": "An error occurred while leaving {orgName} Organization."
+    "whiteboard.starter_kit.make_something.planning.item_body_1": {
+        "string": "项目1"
     },
-    "org_user_actions.an_error_occurred_updating_org_users": {
-        "string": "An error occurred while updating org users."
+    "whiteboard.starter_kit.make_something.planning.item_body_2": {
+        "string": "项目2"
     },
-    "org_user_actions.user_has_been_removed_from_organization": {
-        "string": "{deletedOrgUserCount, plural, one {1 person will be removed from this organization. This may take up to 10 minutes to complete.} other {{deletedOrgUserCount} people will be removed from this organization. This may take up to 10 minutes to complete.}}"
+    "whiteboard.starter_kit.make_something.planning.item_body_3": {
+        "string": "项目3"
     },
-    "org_user_actions.an_error_occurred_fetching_org_admins": {
-        "string": "An error occurred while fetching org admins."
+    "whiteboard.starter_kit.make_something.planning.month_after": {
+        "string": "下个月"
     },
-    "org_user_actions.an_error_occurred_fetching_org_users": {
-        "string": "An error occurred while fetching org users."
+    "whiteboard.starter_kit.make_something.planning.next_month": {
+        "string": "下个月"
     },
-    "file_browser.file_browser_actions.error_on_team_member_removal": {
-        "string": "An error occurred while removing a team member."
+    "whiteboard.starter_kit.make_something.planning.person": {
+        "string": "人员"
     },
-    "file_browser.file_browser_actions.restore_team_success": {
-        "string": "Successfully restored team."
+    "whiteboard.starter_kit.make_something.planning.planning_marker": {
+        "string": "里程碑"
     },
-    "file_browser.file_browser_actions.restore_team_error": {
-        "string": "Could not restore team: {errorMsg}"
+    "whiteboard.starter_kit.make_something.planning.section_title": {
+        "string": "时间线"
     },
-    "file_browser.file_browser_actions.unknown_error": {
-        "string": "Unknown error"
+    "whiteboard.starter_kit.make_something.planning.this_month": {
+        "string": "这个月"
     },
-    "file_browser.file_browser_actions.update_description_error": {
-        "string": "Unable to update description"
+    "whiteboard.starter_kit.make_something.team-updates.dates-header": {
+        "string": "重要日期"
     },
-    "settings_tab.ui_kits_disabled": {
-        "string": "UI kits disabled for all users"
+    "whiteboard.starter_kit.make_something.team-updates.section-name": {
+        "string": "名字在这里"
     },
-    "settings_tab.ui_kits_enabled": {
-        "string": "UI kits enabled for all users"
+    "whiteboard.starter_kit.make_something.team-updates.updates-header": {
+        "string": "更新"
     },
-    "file_browser.file_browser_actions.team_member_fetch_error": {
-        "string": "An error occurred while fetching the team members list. Please try again later."
+    "whiteboard.starter_kit.make_something.team_chart.card_location": {
+        "string": "位置"
     },
-    "downgrade_member_visual_bell.text": {
-        "string": "{numMembers, plural, one {{userName}’s team permission has been downgraded to ‘can view’} other {{numMembers} users’ team permissions have been downgraded to ‘can view’}}"
+    "whiteboard.starter_kit.make_something.team_chart.card_name": {
+        "string": "名字"
     },
-    "visual_bell.team_billing_contact_updated": {
-        "string": "Billing contact successfully updated."
+    "whiteboard.starter_kit.make_something.team_chart.card_title": {
+        "string": "职位"
     },
-    "payments.change_billing_contact_error": {
-        "string": "An error occurred while updating the billing contact."
+    "whiteboard.starter_kit.sections.agenda.first_topic": {
+        "string": "第一个主题"
     },
-    "flash.team_invoices_fetching_error": {
-        "string": "An error occurred while retrieving your invoices."
+    "whiteboard.starter_kit.sections.agenda.icebreakers": {
+        "string": "破冰"
     },
-    "flash.team_billing_summary_fetching_error": {
-        "string": "An error occurred while retrieving your billing summary."
+    "whiteboard.starter_kit.sections.agenda.intros": {
+        "string": "第二个主题"
     },
-    "settings_table.update_team_profile": {
-        "string": "Update team profile"
+    "whiteboard.starter_kit.sections.bug_bash.bugs": {
+        "string": "🐞 Bug"
     },
-    "settings_table.edit_names": {
-        "string": "Edit names"
+    "whiteboard.starter_kit.sections.bug_bash.feedback": {
+        "string": "💭 反馈"
     },
-    "flash.team_join_link_actions.invite_links_reset": {
-        "string": "Invite links reset"
+    "whiteboard.starter_kit.sections.bug_bash.instructions": {
+        "string": "🧪 当前正在测试"
     },
-    "team_user.actions.team_members_request_to_upgrade_from_project_view_succeeded": {
-        "string": "Request submitted—you’ll be notified once an admin has responded."
+    "whiteboard.starter_kit.sections.design_crit.concepts": {
+        "string": "✨ 概念1"
     },
-    "team_user.actions.team_members_request_to_upgrade_succeeded": {
-        "string": "Upgrade request sent."
+    "whiteboard.starter_kit.sections.presentation": {
+        "string": "幻灯片"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "dev_handoff.annotations.autolayout_mode": {
-        "string": "Direction"
+    "publishing.community.menu.description.unpublished_no_remix": {
+        "string": "世界中の誰でもFigmaコミュニティからこのファイルを複製できます。"
     },
-    "dev_handoff.annotations.alignment": {
-        "string": "Alignment"
+    "publishing.community.menu.title.published": {
+        "string": "コミュニティに公開済み"
     },
-    "dev_handoff.annotations.text_style": {
-        "string": "Text style"
+    "publishing.community.menu.title.unpublished": {
+        "string": "コミュニティファイル"
     },
-    "dev_handoff.annotations.font_size": {
-        "string": "Font size"
+    "publishing.community.menu.title.unpublished_remix": {
+        "string": "コミュニティリミックス"
     },
-    "dev_handoff.annotations.text_align": {
-        "string": "Text align"
+    "publishing.templates.header": {
+        "string": "テンプレートを更新"
     },
-    "dev_handoff.annotations.component": {
-        "string": "Component"
+    "publishing.templates.menu.description.disabled": {
+        "string": "組織がテンプレートの公開をオフにしています。{link}"
     },
-    "dev_handoff.annotations.auto": {
-        "string": "Auto"
+    "publishing.templates.menu.description.disabled.link": {
+        "string": "詳細情報"
     },
-    "dev_handoff.annotations.autolayout_horizontal": {
-        "string": "Horizontal"
+    "publishing.templates.menu.description.disabled_delete_permissions": {
+        "string": "このボードをテンプレートとして公開できるのはオーナーのみです。{link}"
     },
-    "dev_handoff.annotations.autolayout_vertical": {
-        "string": "Vertical"
+    "publishing.templates.menu.description.disabled_edit_permissions": {
+        "string": "このボードをテンプレートとして公開するには編集権限が必要です。{link}"
     },
-    "dev_handoff.annotations.alignment.top_left": {
-        "string": "Top left"
+    "publishing.templates.menu.description.published.v2": {
+        "string": "{name}が{time}に最終更新しました。"
     },
-    "dev_handoff.annotations.alignment.left": {
-        "string": "Left"
+    "publishing.templates.menu.description.published_no_name": {
+        "string": "{time}に最終更新されました。"
     },
-    "dev_handoff.annotations.alignment.bottom_left": {
-        "string": "Bottom left"
+    "publishing.templates.menu.description.unpublished": {
+        "string": "チームメートがこのボードをもとに新しいFigJamファイルを作成できるようにします。"
     },
-    "dev_handoff.annotations.alignment.baseline_left": {
-        "string": "Left baseline"
+    "publishing.templates.menu.title.published_to_org_name": {
+        "string": "{orgName}に公開済み"
     },
-    "dev_handoff.annotations.alignment.top_center": {
-        "string": "Top center"
+    "publishing.templates.menu.title.unpublished": {
+        "string": "テンプレート"
     },
-    "dev_handoff.annotations.alignment.center": {
-        "string": "Center"
+    "repo_password_confirmation_modal.any_password_you_set_for_this_main_file_will_also_apply_to_its_branches": {
+        "string": "このメインファイルに設定するパスワードはそのブランチにも適用されます。"
     },
-    "dev_handoff.annotations.alignment.bottom_center": {
-        "string": "Bottom center"
+    "repo_password_confirmation_modal.set_a_password_for_this_file": {
+        "string": "このファイルのパスワードを設定しますか?"
     },
-    "dev_handoff.annotations.alignment.baseline_center": {
-        "string": "Center baseline"
+    "repo_password_confirmation_modal.set_password": {
+        "string": "パスワードを設定"
     },
-    "dev_handoff.annotations.alignment.top_right": {
-        "string": "Top right"
+    "request_row.approve": {
+        "string": "承認"
     },
-    "dev_handoff.annotations.alignment.right": {
-        "string": "Right"
+    "request_row.deny": {
+        "string": "拒否"
     },
-    "dev_handoff.annotations.alignment.bottom_right": {
-        "string": "Bottom right"
+    "request_row.user_wants_to_request_type": {
+        "string": "{userHandle}が{requestType}を希望しています"
     },
-    "dev_handoff.annotations.alignment.baseline_right": {
-        "string": "Right baseline"
+    "role_request.edit_request_tooltip.othersText": {
+        "string": "{numOthers, plural, other {他{numOthers}名}}"
     },
-    "dev_handoff.annotations.multiple": {
-        "string": "Multiple"
+    "role_request.edit_request_tooltip.user1_and_user2_request_access": {
+        "string": "{userHandle1}と{userHandle2}がアクセスをリクエストしています"
     },
-    "dev_handoff.selection_colors.gradient_linear": {
-        "string": "Linear gradient"
+    "role_request.edit_request_tooltip.user_and_others_request_access": {
+        "string": "{userHandle}、{othersText}がアクセスをリクエストしています"
     },
-    "dev_handoff.selection_colors.gradient_angular": {
-        "string": "Angular gradient"
+    "role_request.edit_request_tooltip.user_wants_to_request_type": {
+        "string": "{userHandle}が{requestType}を希望しています"
     },
-    "dev_handoff.selection_colors.gradient_diamond": {
-        "string": "Diamond gradient"
+    "role_request.edit_request_tooltip.view_button_text": {
+        "string": "表示"
     },
-    "dev_handoff.selection_colors.gradient_radial": {
-        "string": "Radial gradient"
+    "role_request_row.request_approved_for_user_props_handle_to_edit_file": {
+        "string": "ユーザー{userHandle}によるファイルの{requestType}リクエストが承認されました。"
     },
-    "dev_handoff.annotations.image": {
-        "string": "Image"
+    "role_request_row.request_denied_for_user_props_handle_to_edit_file": {
+        "string": "ユーザー{userHandle}によるファイルの{requestType}リクエストが却下されました。"
     },
-    "dev_handoff.annotations.video": {
-        "string": "Video"
+    "role_requests.edit": {
+        "string": "編集"
     },
-    "dev_handoff.annotations.shadow": {
-        "string": "Shadow"
+    "role_requests.header_text": {
+        "string": "{userName}、{othersText}が{requestType}をリクエストしています"
     },
-    "dev_handoff.annotations.align_left": {
-        "string": "Left"
+    "role_requests.num_pending_requests": {
+        "string": "{numRoleRequests, plural, other {他{numRoleRequests}件}}"
     },
-    "whiteboard.inserts.couldn_t_find_resource_in_org_allowlist": {
-        "string": "Nothing found in {orgName}’s allowlist for {searchQuery}."
+    "role_requests.view": {
+        "string": "閲覧"
     },
-    "whiteboard.inserts.couldn_t_find_default_display_string_resource_type_for": {
-        "string": "Couldn’t find {resourceType} for {searchQuery}."
+    "role_row.invite_sent": {
+        "string": "(招待済み)"
     },
-    "whiteboard.inserts.custom_display_string_search_result": {
-        "string": "Nothing matching for {searchQuery}."
+    "role_row.resend_invite": {
+        "string": "招待を再送信"
     },
-    "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the": {
-        "string": "If you’re still looking, there’s much more to see in the {link}."
+    "role_row.you": {
+        "string": "{name}{you}"
     },
-    "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the_community": {
-        "string": "Community"
+    "role_row.you_label": {
+        "string": "(あなた)"
     },
-    "whiteboard.inserts.view_stickers_in_this_set": {
-        "string": "View stickers in this set"
+    "role_row.you_label_lowercase": {
+        "string": " (あなた)"
     },
-    "whiteboard.inserts.all": {
-        "string": "All"
+    "view_restricted_file_modal.drafts": {
+        "string": "下書き"
     },
-    "whiteboard.inserts.plugin_community_disabled": {
-        "string": "Public plugins have been disabled by your organization admin, but you can still use and build {private_plugins}"
+    "view_restricted_file_modal.file_cannot_be_opened_description": {
+        "string": "このファイルは、{restricted}ユーザーの{drafts}にあるので、開くことはできません。 組織の管理者にお問い合わせください。"
     },
-    "whiteboard.inserts.plugin_community_disabled_private_plugins": {
-        "string": "private plugins."
+    "view_restricted_file_modal.file_cannot_be_opened_title": {
+        "string": "ファイルを開くことができません"
     },
-    "whiteboard.inserts.disabled_org_widgets_empty_state_description": {
-        "string": "Widgets have been disabled by your organization admin."
+    "view_restricted_file_modal.file_cannot_be_shared_description": {
+        "string": "このファイルは、{restricted}ユーザーの{drafts}にあるので、共有できません。 組織の管理者にお問い合わせください。"
     },
-    "whiteboard.inserts.development_more_options": {
-        "string": "More options"
+    "view_restricted_file_modal.file_cannot_be_shared_title": {
+        "string": "ファイルを共有できません"
     },
-    "slides.templates.templates_modal.templates_title": {
-        "string": "Templates"
+    "view_restricted_file_modal.ok_button": {
+        "string": "OK"
     },
-    "slides.templates.templates_modal.published_by": {
-        "string": "by {publisherName}"
+    "view_restricted_file_modal.restricted": {
+        "string": "制限中"
     },
-    "slides.templates.back": {
-        "string": "Back"
+    "plan_settings.billing_section_header": {
+        "string": "請求"
     },
-    "slides.templates.search_templates": {
-        "string": "Search templates"
+    "plan_settings.default_role": {
+        "string": "デフォルトのシートタイプ"
     },
-    "slides.templates.template_picker.search_templates": {
-        "string": "Search templates..."
+    "plan_settings.default_role_description": {
+        "string": "{plan_type}に参加する人にシートタイプを自動的に割り当てます"
     },
-    "slides.templates.template_picker.title": {
-        "string": "Pick a template for your outline"
+    "plan_settings.seat_upgrade_digests": {
+        "string": "シートアップグレードの概要"
     },
-    "slides.templates.template_picker.subtitle": {
-        "string": "Give your new deck some style and structure."
+    "plan_settings.seat_upgrade_digests_description": {
+        "string": "メンバーが無料シートから有料シートにアップグレードしたときにメールが送信されます。"
     },
-    "slides.templates.recents": {
-        "string": "Recents"
+    "plugins.cancel_loading_pages": {
+        "string": "キャンセル"
     },
-    "slides.templates.org_templates": {
-        "string": "Org templates"
+    "plugins.cannot_run_plugin_logged_out": {
+        "string": "ログアウト中は、プラグインを実行できません"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_paid_design_and_figjam_seats_org": {
-        "string": "Moving a draft will change you to paid Figma design and FigJam seats in {planName}. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.pro_trial_upsell_modal.description": {
+        "string": "试用所有无限制功能，创建更多文件，考虑升级。"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_design_seat_org": {
-        "string": "Moving a draft will change you to a paid Figma design seat in {planName}. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.pro_trial_upsell_modal.title": {
+        "string": "{numOfDaysLeft, plural, other {试用期剩余{numOfDaysLeft}天}}"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_figjam_seat_org": {
-        "string": "Moving a draft will change you to a paid FigJam seat in {planName}. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.properties_panel.add": {
+        "string": "添加"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_paid_design_and_figjam_seats_in_your_team": {
-        "string": "Moving a draft will change you to paid Figma design and FigJam seats in your team. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.properties_panel.align_panel.more_options": {
+        "string": "更多选项"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_design_seat_in_your_team": {
-        "string": "Moving a draft will change you to a paid Figma design seat in your team. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.properties_panel.angular": {
+        "string": "角度"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_figjam_seat_in_your_team": {
-        "string": "Moving a draft will change you to a paid FigJam seat in your team. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.properties_panel.appearance_panel.overflow": {
+        "string": "溢出"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_paid_design_and_figjam_seats_team": {
-        "string": "Moving a draft will change you to paid Figma design and FigJam seats in {planName}. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.properties_panel.appearance_panel.show_content": {
+        "string": "显示内容"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_design_seat_team": {
-        "string": "Moving a draft will change you to a paid Figma design seat in {planName}. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.properties_panel.apply_variable": {
+        "string": "应用变量"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_figjam_seat_team": {
-        "string": "Moving a draft will change you to a paid FigJam seat in {planName}. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.properties_panel.apply_variable_ellipses": {
+        "string": "应用变量..."
     },
-    "viewer_upgrade_awareness.creating_and_editing_a_board_will_move_you_to_a_paid_seat_org": {
-        "string": "Creating and editing a board will move you to a paid seat. Your organization won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.properties_panel.background": {
+        "string": "背景"
     },
-    "viewer_upgrade_awareness.creating_and_editing_a_file_will_move_you_to_a_paid_seat_org": {
-        "string": "Creating and editing a file will move you to a paid seat. Your organization won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.properties_panel.blend_mode.color": {
+        "string": "颜色"
     },
-    "viewer_upgrade_awareness.creating_and_editing_a_board_will_move_you_to_a_paid_seat_team": {
-        "string": "Creating and editing a board will move you to a paid seat. Your team won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.properties_panel.blend_mode.color_burn": {
+        "string": "颜色加深"
     },
-    "viewer_upgrade_awareness.creating_and_editing_a_file_will_move_you_to_a_paid_seat_team": {
-        "string": "Creating and editing a file will move you to a paid seat. Your team won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.properties_panel.blend_mode.color_dodge": {
+        "string": "颜色减淡"
     },
-    "viewer_upgrade_awareness.continue": {
-        "string": "Continue"
+    "fullscreen.properties_panel.blend_mode.darken": {
+        "string": "变暗"
     },
-    "viewer_upgrade_awareness.go_back": {
-        "string": "Go back"
+    "fullscreen.properties_panel.blend_mode.difference": {
+        "string": "差值"
     },
-    "fullscreen.filename_view.zoom-integration-popup-header-with-name": {
-        "string": "You joined {hostName}'s collaboration"
+    "fullscreen.properties_panel.blend_mode.exclusion": {
+        "string": "排除"
     },
-    "fullscreen.filename_view.zoom-integration-popup-header": {
-        "string": "You joined the host's collaboration."
+    "fullscreen.properties_panel.blend_mode.hard_light": {
+        "string": "强光"
     },
-    "fullscreen.filename_view.zoom-integration-popup-body": {
-        "string": "You can now use Figma app independently from others."
+    "fullscreen.properties_panel.blend_mode.hue": {
+        "string": "色相"
     },
-    "org_guest_identifier.guest": {
-        "string": "{userName} (guest)"
+    "fullscreen.properties_panel.blend_mode.lighten": {
+        "string": "变亮"
     },
-    "role_row.invite_sent": {
-        "string": "(Invite sent)"
+    "fullscreen.properties_panel.blend_mode.linear_burn": {
+        "string": "线性加深"
     },
-    "pro_cart.payment.dont_see_your_country": {
-        "string": "Don’t see your country?"
+    "fullscreen.properties_panel.blend_mode.linear_dodge": {
+        "string": "线性减淡"
     },
-    "pro_cart.payment.state": {
-        "string": "State"
+    "fullscreen.properties_panel.blend_mode.luminosity": {
+        "string": "亮度"
     },
-    "pro_cart.payment.street_address": {
-        "string": "Street address"
+    "fullscreen.properties_panel.blend_mode.multiply": {
+        "string": "正片叠底"
     },
-    "pro_cart.payment.billing_address": {
-        "string": "Billing address"
+    "fullscreen.properties_panel.blend_mode.normal": {
+        "string": "正常"
     },
-    "pro_cart.payment.shipping_address": {
-        "string": "Shipping address"
+    "fullscreen.properties_panel.blend_mode.overlay": {
+        "string": "叠加"
     },
-    "pro_cart.payment.street_address_label": {
-        "string": "Address line 1"
+    "fullscreen.properties_panel.blend_mode.pass_through": {
+        "string": "通过"
     },
-    "pro_cart.payment.street_address_line_2_label": {
-        "string": "Address line 2"
+    "fullscreen.properties_panel.blend_mode.saturation": {
+        "string": "饱和度"
     },
-    "pro_cart.payment.street_address_line_2": {
-        "string": "Apt, unit, suite, etc. (optional)"
+    "fullscreen.properties_panel.blend_mode.screen": {
+        "string": "滤色"
     },
-    "payments.united_states": {
-        "string": "United States"
+    "fullscreen.properties_panel.blend_mode.soft_light": {
+        "string": "柔光"
     },
-    "pro_cart.payment.city": {
-        "string": "City"
+    "fullscreen.properties_panel.borders.all": {
+        "string": "全部"
     },
-    "pro_cart.payment.zip_code": {
-        "string": "Zip code"
+    "fullscreen.properties_panel.borders.border_per_side": {
+        "string": "每边边框"
     },
-    "pro_cart.payment.province": {
-        "string": "Province"
+    "fullscreen.properties_panel.borders.bottom": {
+        "string": "下边"
     },
-    "pro_cart.payment.postal_code": {
-        "string": "Postal code"
+    "fullscreen.properties_panel.borders.custom": {
+        "string": "自定义"
     },
-    "pro_cart.payment.city_town_or_village": {
-        "string": "City / town / village"
+    "fullscreen.properties_panel.borders.left": {
+        "string": "左边"
     },
-    "pro_cart.payment.province_or_region": {
-        "string": "Province / region"
+    "fullscreen.properties_panel.borders.mixed": {
+        "string": "混合"
     },
-    "payments.file_limit_paywall_header_figjam": {
-        "string": "{maxFreeFiles, plural, one {{teamName} already has {maxFreeFiles} FigJam file.} other {{teamName} already has {maxFreeFiles} FigJam files.}}"
+    "fullscreen.properties_panel.borders.right": {
+        "string": "右边"
     },
-    "payments.file_limit_paywall_header_figma": {
-        "string": "{maxFreeFiles, plural, one {{teamName} already has {maxFreeFiles} Figma file} other {{teamName} already has {maxFreeFiles} Figma files}}"
+    "fullscreen.properties_panel.borders.stroke_width": {
+        "string": "描边宽度"
     },
-    "payments.file_limit_paywall_text_figjam": {
-        "string": "{maxFreeFiles, plural, one {On the Starter plan, you’re limited to {maxFreeFiles} FigJam file for collaborating with your team.} other {On the Starter plan, you’re limited to {maxFreeFiles} FigJam files for collaborating with your team.}}"
+    "fullscreen.properties_panel.borders.top": {
+        "string": "上边"
     },
-    "payments.file_limit_paywall_text_figma": {
-        "string": "{maxFreeFiles, plural, one {On the Starter plan, you’re limited to {maxFreeFiles} Figma file for collaborating with your team.} other {On the Starter plan, you’re limited to {maxFreeFiles} Figma files for collaborating with your team.}}"
+    "fullscreen.properties_panel.choose_image": {
+        "string": "选择图像"
     },
-    "payments.file_limit_paywall_cta": {
-        "string": "If you’d like, you can always {createThisFile} instead. Or, {checkOutPaidPlans}."
+    "fullscreen.properties_panel.choose_video": {
+        "string": "选择视频"
     },
-    "payments.file_limit_paywall_cta_create_this_file": {
-        "string": "create this file in your drafts"
+    "fullscreen.properties_panel.choose_which_frame_displayed": {
+        "string": "选择在编辑器中显示的帧。在运行原型演示时显示GIF动画。"
     },
-    "payments.file_limit_paywall_cta_check_out_paid_plans": {
-        "string": "check out our paid plans"
+    "fullscreen.properties_panel.click_plus_to_add_new_action": {
+        "string": "点击 [+] 添加新操作"
     },
-    "payments.file_limit_cancel": {
-        "string": "Cancel"
+    "fullscreen.properties_panel.click_plus_to_replace_mixed_content": {
+        "string": "点击 [+] 替换混合内容"
     },
-    "payments.file_limit_upgrade": {
-        "string": "Upgrade"
+    "fullscreen.properties_panel.click_plus_to_replace_mixed_export_settings": {
+        "string": "点击 [+] 替换混合导出设置"
     },
-    "org_self_serve.payment_step.different_shipping_address": {
-        "string": "I have a different shipping address"
+    "fullscreen.properties_panel.click_to_replace_mixed_content": {
+        "string": "点击可替换混合内容"
     },
-    "org_self_serve.payment_step.name_on_payment_method_label": {
-        "string": "Name on payment method"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.color": {
+        "string": "颜色"
     },
-    "org_self_serve.payment_step.name_on_payment_method": {
-        "string": "Name on payment method"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.color_burn": {
+        "string": "颜色加深"
     },
-    "file_permissions_modal.invite_user_sharing_restricted": {
-        "string": "Figma has restricted you from sharing this file. Please email {supportSharingRestrictedEmail} for help."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.color_dodge": {
+        "string": "颜色减淡"
     },
-    "folder_permissions_modal.invite_user_sharing_restricted": {
-        "string": "Figma has restricted you from sharing this project. Please email {supportSharingRestrictedEmail} for help."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.darken": {
+        "string": "变暗"
     },
-    "team_view.team_permissions_modal.invite_user_sharing_restricted": {
-        "string": "Figma has restricted you from sending invites for this team. Please email {supportSharingRestrictedEmail} for help."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.difference": {
+        "string": "差值"
     }
 }

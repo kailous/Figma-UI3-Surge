@@ -1,152 +1,152 @@
 {
-    "activity_log.event.library_setting_off_org_setting": {
-        "string": "off (which is the organization setting)"
+    "rcs.jamboard.connect_to_google_drive_disclaimer.cancel": {
+        "string": "キャンセル"
     },
-    "activity_log.event.library_setting_all_files": {
-        "string": "all files"
+    "rcs.jamboard.connect_to_google_drive_disclaimer.desc1": {
+        "string": "[接続]をクリックすると、Google Driveにアクセスして既存のJamboardファイルをインポートすることをFigmaに許可します。"
     },
-    "activity_log.event.library_setting_figjam_files": {
-        "string": "FigJam files"
+    "rcs.jamboard.connect_to_google_drive_disclaimer.title": {
+        "string": "Google DriveをFigJamに接続"
     },
-    "activity_log.event.library_setting_figma_files": {
-        "string": "Figma design files"
+    "rcs.jamboard.google_drive_icon.alt": {
+        "string": "Googleドライブアイコン"
     },
-    "activity_log.event.library_setting_off": {
-        "string": "off"
+    "rcs.jamboard.import_button_image.alt": {
+        "string": "インポートボタンの画像"
     },
-    "activity_log.event.billing_group_admins_add": {
-        "string": "{numAdmins, plural, one {Added {adminNames} as an admin of the {billingGroupName} billing group} other {Added {adminNames} as admins of the {billingGroupName} billing group} }"
+    "rcs.jamboard.import_files_failed.button": {
+        "string": "もう一度試す"
     },
-    "activity_log.event.billing_group_admins_remove.v2": {
-        "string": "{numAdmins, plural, one {Removed {adminNames} as an admin of the {billingGroupName} billing group} other {Removed {adminNames} as admins of the {billingGroupName} billing group} }"
+    "rcs.jamboard.import_files_failed.cancel": {
+        "string": "キャンセル"
     },
-    "activity_log.event.billing_group_create_with_admins": {
-        "string": "{numAdmins, plural, one {Created a new billing group called {billingGroupName} with {adminNames} as an admin} other {Created a new billing group called {billingGroupName} with {adminNames} as admins} }"
+    "rcs.jamboard.import_files_failed.title": {
+        "string": "ファイルをインポートできませんでした"
     },
-    "activity_log.event.billing_group_create": {
-        "string": "Created a new billing group called {billingGroupName}"
+    "rcs.jamboard.import_files_failed_error.desc": {
+        "string": "問題が発生したため、すべてのファイルをインポートできませんでした。もう一度試しますか?"
     },
-    "activity_log.event.license_group_create_with_admins": {
-        "string": "{numAdmins, plural, one {Created a new workspace called {workspaceName} with {adminNames} as an admin} other {Created a new workspace called {workspaceName} with {adminNames} as admins} }"
+    "rcs.jamboard.importer_callout.desc": {
+        "string": "JamboardファイルをFigJamに取り込めるようになりました。ファイルを初めから作り直す必要がなくなりました。"
     },
-    "activity_log.event.billing_group_delete": {
-        "string": "Deleted the {billingGroupName} billing group"
+    "rcs.jamboard.importer_callout.primary_cta": {
+        "string": "始める"
     },
-    "activity_log.event.billing_group_rename": {
-        "string": " Renamed the {billingGroupName} billing group to {newName}"
+    "rcs.jamboard.importer_callout.secondary_cta": {
+        "string": "今はしない"
     },
-    "activity_log.event.billing_group_membership_change": {
-        "string": "Moved {userEmail} from the {billingGroupName} billing group to the {newName} billing group"
+    "rcs.jamboard.importer_callout.title": {
+        "string": "Jamboardからファイルをインポート"
     },
-    "activity_log.event.license_group_membership_change": {
-        "string": "Moved {userEmail} from the {workspaceName} workspace to the {newName} workspace"
+    "rcs.jamboard.later": {
+        "string": "あとで"
     },
-    "activity_log.event.billing_group_membership_self_select": {
-        "string": "Selected the {billingGroupName} billing group"
+    "rcs.jamboard.open_in_browser_disclaimer.button": {
+        "string": "ブラウザを開く"
     },
-    "activity_log.event.license_group_membership_self_select": {
-        "string": "Selected the {workspaceName} workspace"
+    "rcs.jamboard.open_in_browser_disclaimer.desc1": {
+        "string": "下のボタンをクリックすると、お使いのWebブラウザでFigmaが開きます。WebブラウザでFigmaが開いたら、右上の[インポート]をクリックします。"
     },
-    "activity_log.event.workspace_admins_add": {
-        "string": "{numAdmins, plural, one {Added {adminNames} as an admin of the {workspaceName} workspace} other {Added {adminNames} as admins of the {workspaceName} workspace} }"
+    "rcs.jamboard.open_in_browser_disclaimer.title": {
+        "string": "ブラウザで続行"
     },
-    "activity_log.event.workspace_admins_remove.v2": {
-        "string": "{numAdmins, plural, one {Removed {adminNames} as an admin of the {workspaceName} workspace} other {Removed {adminNames} as admins of the {workspaceName} workspace} }"
+    "rcs.japanese_launch_modal.body": {
+        "string": "Figma is now available in Japanese: in-product, on our website, and our help center."
     },
-    "activity_log.event.workspace_create": {
-        "string": "Created a new workspace called {workspaceName}"
+    "rcs.japanese_launch_modal.button": {
+        "string": "Update language settings"
     },
-    "activity_log.event.workspace_delete": {
-        "string": "Deleted the {workspaceName} workspace"
+    "rcs.japanese_launch_modal.title": {
+        "string": "Figma in Japanese"
     },
-    "activity_log.event.workspace_rename": {
-        "string": " Renamed the {workspaceName} workspace to {newName}"
+    "rcs.launch_nux_modal.no_thanks": {
+        "string": "いいえ"
     },
-    "activity_log.event.workspace_members_add": {
-        "string": "{numMembers, plural, one {Added {memberEmails} as a member of the {workspaceName} workspace} other {Added {memberEmails} as members of the {workspaceName} workspace} }"
+    "rcs.launch_nux_modal.show_me_around": {
+        "string": "はい"
     },
-    "activity_log.event.workspace_members_remove": {
-        "string": "{numMembers, plural, one {Removed {memberEmails} as a member of the {workspaceName} workspace} other {Removed {memberEmails} as members of the {workspaceName} workspace} }"
+    "rcs.launch_nux_modal.take_a_quick_tour_of_figma": {
+        "string": "Figmaの機能を見てみますか?"
     },
-    "activity_log.event.workspace_member_add": {
-        "string": "Added {memberEmail} as a member of the {workspaceName} workspace."
+    "rcs.launch_nux_modal.walk_through_figma_s_unique_editor_and_collaboration_features": {
+        "string": "Figma独自のエディターとコラボレーション機能を詳しくご紹介します。"
     },
-    "activity_log.event.workspace_member_remove": {
-        "string": "Removed {memberEmail} as a member of the {workspaceName} workspace."
+    "rcs.libraries_workspace_onboarding_modal.text": {
+        "string": "ワークスペースと組織別にライブラリがグループ化され、必要なリソースを簡単に取得できるようになりました。"
     },
-    "activity_log.teams.added_team_to_workspace": {
-        "string": "Added the {teamName} team to the {newWorkspaceName} workspace"
+    "rcs.libraries_workspace_onboarding_modal.title": {
+        "string": "1つの場所にあるすべてのライブラリ"
     },
-    "activity_log.teams.added_team_to_workspace_and_removed_from_old_workspace": {
-        "string": "Moved the {teamName} team from the {oldWorkspaceName} workspace to the {newWorkspaceName} workspace"
+    "rcs.live_device_preview.android": {
+        "string": "Android"
     },
-    "activity_log.teams.removed_team_from_workspace": {
-        "string": "Removed {teamName} from the {oldWorkspaceName} workspace"
+    "rcs.live_device_preview.i_os": {
+        "string": "iOS"
     },
-    "activity_log.event.workspace_visibility_setting_changed": {
-        "string": "Changed visibility setting for {workspaceName} from {oldOrgAccess} to {newOrgAccess}"
+    "rcs.live_device_preview.live_device_preview": {
+        "string": "ライブデバイスプレビュー"
     },
-    "org.cost_breakdown.design_seats_figma_design_editor.seat_rename": {
-        "string": "{designSeats, plural, one {{designSeats} Design seat} other {{designSeats} Design seats}}"
+    "rcs.live_device_preview.they_ll_update_instantly_no_matter_what_network_you_re_on_and_with_no_need_to_connect_via_usb": {
+        "string": "接続しているネットワークを問わず、ミラーリングされたアプリは即時に更新されます。USBで接続する必要はありません。"
     },
-    "org.cost_breakdown.figjam_seats_fig_jam_editor_seats.seat_rename": {
-        "string": "{figjamSeats, plural, one {{figjamSeats} FigJam seat} other {{figjamSeats} FigJam seats}}"
+    "rcs.live_device_preview.to_view_your_frames_live_on_your_device_just_download_figma_mirror": {
+        "string": "デバイスでフレームをライブ表示するには、ご使用の{linkToIOS}または{linkToAndroid}デバイスにFigma Mirrorをダウンロードします。"
     },
-    "org.cost_breakdown.dev_mode_seats": {
-        "string": "{quantity, plural, one {{quantity} Dev Mode seat} other {{quantity} Dev Mode seats}}"
+    "rcs.mindmaps_onboarding_step1.description": {
+        "string": "マインドマップを使用すると、アイデアをすばやく描き出し、それぞれのつながりを説明できます。"
     },
-    "org.cost_breakdown.price_x_num_seats_x_remaining_months": {
-        "string": "{quantity, plural, one {{price} × {quantity} seat × {remainingMonthsText}} other {{price} × {quantity} seats × {remainingMonthsText}}}"
+    "rcs.mindmaps_onboarding_step1.show_me": {
+        "string": "見る"
     },
-    "org.cost_breakdown.remaining_months_remaining_months": {
-        "string": "{remainingMonths} remaining months"
+    "rcs.mindmaps_onboarding_step1.title": {
+        "string": "自分の考えを視覚化"
     },
-    "org.cost_breakdown.invoice_subtotal": {
-        "string": "Invoice subtotal"
+    "rcs.mindmaps_onboarding_step2.description": {
+        "string": "最初にマインドマッピングツールを選択します(優れたサンプルも用意されています)。"
     },
-    "org.cost_breakdown.projected_subtotal": {
-        "string": "Projected subtotal"
+    "rcs.mindmaps_onboarding_step2.got_it": {
+        "string": "了解"
     },
-    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage_title": {
-        "string": "Quickly get to groups you manage"
+    "rcs.mindmaps_onboarding_step2.see_example": {
+        "string": "サンプルを見る"
     },
-    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.workspaces_and_billing": {
-        "string": "Use this menu to navigate to the workspaces and billing groups you help manage."
+    "rcs.mobile_comment_announcement.description": {
+        "string": "QRコードをスキャンしてFigmaモバイルアプリを入手します。このアプリは、外出時でもファイル、プロトタイプ、コメントにアクセスし、常にチームとつながることができます。"
     },
-    "billing_group_admin_onboarding.request_dashboard.tooltip.get_to_groups_you_manage.billing_groups": {
-        "string": "Use this menu to navigate to billing groups you help manage."
+    "rcs.mobile_comment_announcement.email_download_link": {
+        "string": "ダウンロードリンクをメール送信"
     },
-    "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_title": {
-        "string": "Manage your upgrade requests"
+    "rcs.mobile_comment_announcement.title": {
+        "string": "外出時に返信を通知"
     },
-    "billing_group_admin_onboarding.request_dashboard.tooltip.manage_upgrade_requests_description": {
-        "string": "Upgrade requests from members in the billing group(s) you manage can be approved from your admin dashboard."
+    "rcs.mobile_comment_reply_upsell.download_via_qr_code": {
+        "string": "QRコードでダウンロード"
     },
-    "license_group_admin.billing_dashboard.billing_banner.review_these_billing_groups": {
-        "string": "You still need to review these billing groups: "
+    "rcs.mobile_comment_reply_upsell.email_me": {
+        "string": "メールで送信"
     },
-    "license_group_admin.billing_dashboard.billing_banner.billing_group_links": {
-        "string": "{billingGroupLinks}"
+    "rcs.mobile_comment_reply_upsell.email_me_instead": {
+        "string": "代わりにメールで送信"
     },
-    "license_group_admin.billing_dashboard.billing_banner.billing_group_links_plus": {
-        "string": "{count, plural, one {{billingGroupLinks}, and {count} other} other {{billingGroupLinks}, and {count} others}}"
+    "rcs.mobile_comment_reply_upsell.email_sent": {
+        "string": "メールを送信しました"
     },
-    "license_group_admin.billing_dashboard.billing_banner.review_and_confirm": {
-        "string": "It's time to review and confirm seats"
+    "rcs.mobile_comment_reply_upsell.title": {
+        "string": "外出中に返信の通知を受ける"
     },
-    "license_group_admin.members.no_members_yet": {
-        "string": "No members yet"
+    "rcs.mobile_comment_reply_upsell_page1.description": {
+        "string": "Figmaモバイルアプリを入手してファイルにアクセスし、外出中に新規コメントや返信の通知を受け取りましょう。"
     },
-    "license_group_admin.members.no_members_yet.subtitle": {
-        "string": "Invite people to join or move unassigned people over to this group."
+    "rcs.mobile_comment_reply_upsell_page2.description": {
+        "string": "上のQRコードをスキャンして、iOSやAndroidにFigmaモバイルアプリをダウンロードしてください。"
     },
-    "multi_admin_onboarding.heading": {
-        "string": "Quickly get to groups you manage"
+    "rcs.modal.new": {
+        "string": "新機能"
     },
-    "multi_admin_onboarding.description": {
-        "string": "Use this menu to switch between the workspaces and billing groups you help manage."
+    "rcs.move_drafts_nudge.cancel": {
+        "string": "キャンセル"
     },
-    "billing_group_admin_onboarding.step_one_heading": {
-        "string": "Get people to the right billing group"
+    "rcs.move_drafts_nudge.dismiss": {
+        "string": "閉じる"
     }
 }

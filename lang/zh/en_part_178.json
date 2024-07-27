@@ -1,152 +1,152 @@
 {
-    "locked_team.card.delete_figjam_boards": {
-        "string": "{numFigjamFiles, plural, one {Delete {numFigjamFiles} FigJam board} other {Delete {numFigjamFiles} FigJam boards}}"
+    "first_draft.running": {
+        "string": "正在运行..."
     },
-    "locked_team.card.delete_projects": {
-        "string": "{numProjects, plural, one {Delete {numProjects} project} other {Delete {numProjects} projects}}"
+    "first_draft.share_trace": {
+        "string": "分享追踪"
     },
-    "locked_team.card.change_permissions_from_view_only": {
-        "string": "{numViewOnlyProjects, plural, one {Change permissions from “view-only” to “edit” on {numViewOnlyProjects} project} other {Change permissions from “view-only” to “edit” on {numViewOnlyProjects} projects}}"
+    "first_draft.share_trace_nudge_in_modal": {
+        "string": "请在{weirdOutput}#feat-first-draft-feedback中分享。"
     },
-    "locked_team.card.change_permissions_from_invite_only": {
-        "string": "{numInviteOnlyProjects, plural, one {Change permissions from “invite-only” to “anyone with link” on {numInviteOnlyProjects} project} other {Change permissions from “invite-only” to “anyone with link” on {numInviteOnlyProjects} projects}}"
+    "first_draft.share_trace_nudge_weird_output": {
+        "string": "输出不正常吗？"
     },
-    "community.try.people_like_this": {
-        "string": "{numPeople, plural, one {Liked by {numPeopleStr} person} other {Liked by {numPeopleStr} people}}"
+    "first_draft.something_went_wrong": {
+        "string": "出现问题"
     },
-    "universal_insert.show_in_finder": {
-        "string": "Show in Finder"
+    "first_draft.style": {
+        "string": "样式"
     },
-    "universal_insert.show_in_explorer": {
-        "string": "Show in Explorer"
+    "first_draft.theme_panel.color": {
+        "string": "颜色"
     },
-    "universal_insert.cancel": {
-        "string": "Cancel"
+    "first_draft.theme_panel.font": {
+        "string": "字体"
     },
-    "universal_insert.edit_manifest": {
-        "string": "Edit manifest"
+    "first_draft.theme_panel.label.fontBody": {
+        "string": "正文"
     },
-    "universal_insert.manifest_error_title": {
-        "string": "Manifest error"
+    "first_draft.theme_panel.label.fontLabel": {
+        "string": "标签"
     },
-    "community.buyer.update_payment": {
-        "string": "Update payment"
+    "first_draft.theme_panel.label.fontTitle": {
+        "string": "标题"
     },
-    "community.buyer.update_payment_info": {
-        "string": "Update payment info"
+    "first_draft.theme_panel.radius": {
+        "string": "半径"
     },
-    "community.buyer.go_to_stripe": {
-        "string": "Go to Stripe"
+    "first_draft.theme_panel.spacing": {
+        "string": "间距"
     },
-    "community.buyer.update_payment_info_to_retain_access": {
-        "string": "Update payment info to retain access"
+    "first_draft.theme_tool.close_panel": {
+        "string": "关闭"
     },
-    "whiteboard.inserts.search_placeholder_1": {
-        "string": "Search"
+    "first_draft.theme_tool.color.dark_mode": {
+        "string": "深色模式"
     },
-    "whiteboard.inserts.search_placeholder_2": {
-        "string": "Search widgets, templates, and more"
+    "first_draft.theme_tool.color.light_mode": {
+        "string": "浅色模式"
     },
-    "whiteboard.inserts.search_placeholder_3": {
-        "string": "Search far and wide"
+    "first_draft.theme_tool.color.mode_picker": {
+        "string": "外观"
     },
-    "whiteboard.inserts.search_placeholder_4": {
-        "string": "Search for the missing piece"
+    "first_draft.x_of_y_images": {
+        "string": "图片{loaded}/{total}"
     },
-    "whiteboard.inserts.search_placeholder_5": {
-        "string": "Search for widgets and stickers, oh my!"
+    "flash.annual_plan.contact_support": {
+        "string": "如果购买的席位数超过{maxAnnualSubscriptions}，请{contactSupport}。"
     },
-    "whiteboard.inserts.search_placeholder_6": {
-        "string": "Let’s find the perfect thing"
+    "flash.annual_plan.contact_support_link": {
+        "string": "联系支持"
     },
-    "whiteboard.inserts.search_placeholder_7": {
-        "string": "There’s more here than you’d think"
+    "flash.at_least_one_editor.seat_rename": {
+        "string": "至少需要一个编辑席位"
     },
-    "whiteboard.inserts.search_placeholder_8": {
-        "string": "FigJam can’t read minds. But if you type, it will find!"
+    "flash.dont_have_permission_permanently_delete_files": {
+        "string": "您没有权限永久删除这些文件。"
     },
-    "whiteboard.inserts.search_placeholder_9": {
-        "string": "Try typing “vote”"
+    "flash.no_negative_seats": {
+        "string": "席位数不能为负。"
     },
-    "whiteboard.inserts.search_placeholder_10": {
-        "string": "Try typing “icebreaker”"
+    "flash.successfully_added_an_annual_plan": {
+        "string": "年度计划已成功添加。"
     },
-    "whiteboard.inserts.search_placeholder_11": {
-        "string": "Try typing “game”"
+    "flash.successfully_downgraded_to_a_starter_team": {
+        "string": "已成功降级为初级团队。"
     },
-    "whiteboard.inserts.search_placeholder_12": {
-        "string": "Try typing “cats”"
+    "flash.successfully_upgraded_to_a_professional_team": {
+        "string": "已成功升级为专业团队。"
     },
-    "whiteboard.inserts.dock_to_side": {
-        "string": "Dock to side"
+    "flash.successfully_upgraded_to_an_education_team": {
+        "string": "已成功升级为教育团队。"
     },
-    "whiteboard.inserts.table_title": {
-        "string": "Table"
+    "flash.team_join_link_actions.invite_links_reset": {
+        "string": "邀请链接已重置"
     },
-    "whiteboard.inserts.table_description": {
-        "string": "Structure your content."
+    "flash.team_name_cannot_be_empty": {
+        "string": "团队名称不能为空"
     },
-    "whiteboard.inserts.text_title": {
-        "string": "Text"
+    "flash.team_will_be_downgraded_at_the_end_of_the_current_subscription_period": {
+        "string": "{teamName}将在当前订阅期结束时降级为免费初级团队"
     },
-    "whiteboard.inserts.text_description": {
-        "string": "Add descriptions, titles, and more."
+    "flash.team_will_become_free_starter_team_on_date": {
+        "string": "{teamName}将在{cancelDate, date}降级为免费初级团队"
     },
-    "whiteboard.inserts.stamp_title": {
-        "string": "Stamp"
+    "flash.unable_to_try_resource": {
+        "string": "无法尝试插件或小部件。"
     },
-    "whiteboard.inserts.stamp_description": {
-        "string": "Leave reactions, or cast a vote."
+    "flash.updated_annual_seats": {
+        "string": "年度席位已更新。"
     },
-    "whiteboard.inserts.section_title": {
-        "string": "Section"
+    "footer_banner.continue_with_google": {
+        "string": "通过Google继续"
     },
-    "whiteboard.inserts.section_description": {
-        "string": "Organize your board."
+    "footer_banner.create_an_account_to_edit_and_collaborate_on_this_file": {
+        "string": "要编辑和协作此文件，请创建一个帐户。"
     },
-    "whiteboard.inserts.code_block_description": {
-        "string": "Create snippets with syntax highlighting."
+    "footer_banner.create_an_account_to_get_your_own_copy_of_this_file": {
+        "string": "要获取此文件的副本，请创建一个帐户。"
     },
-    "whiteboard.inserts.mind_map_description": {
-        "string": "Visualize your train of thought."
+    "footer_banner.log_in_or_create_an_account_to_get_a_copy_of_file_name": {
+        "string": "要获取{fileName}的副本，请登录或创建帐户"
     },
-    "whiteboard.inserts.timer_title": {
-        "string": "Timer"
+    "footer_banner.sign_up_with_email": {
+        "string": "通过电子邮件注册"
     },
-    "whiteboard.inserts.timer_description": {
-        "string": "Set a timer for activities (like brainstorming)."
+    "footer_banner.sign_up_for_free": {
+        "string": "免费注册"
     },
-    "whiteboard.inserts.media_title": {
-        "string": "Media"
+    "footer_banner.welcome_to_figma": {
+        "string": "欢迎来到Figma"
     },
-    "whiteboard.inserts.media_description": {
-        "string": "Upload a video, GIF, JPEG, or the like."
+    "frontend_sha_override_indicator.blocked_commit": {
+        "string": "⚠️ 错误：前端提交预览仅适用于有效的提交SHA。更新`commit-sha`参数，然后重新加载页面。"
     },
-    "whiteboard.inserts.links_title": {
-        "string": "Links"
+    "frontend_sha_override_indicator.blocked_flag": {
+        "string": "⚠️ 错误：前端提交预览仅适用于启用了`manifest_commit_sha`标志的用户。启用此标志，然后重新加载页面。"
     },
-    "whiteboard.inserts.links_description": {
-        "string": "Add media from across the web."
+    "frontend_sha_override_indicator.blocked_unknown": {
+        "string": "⚠️ 错误：由于未知错误（{blockedReason}），前端提交预览不可用。"
     },
-    "whiteboard.embeds.insert_embed_modal.title": {
-        "string": "Links"
+    "frontend_sha_override_indicator.blocked_user": {
+        "string": "⚠️ 错误：前端提交预览仅适用于@test.figma.com和@dev.figma.com帐户。切换帐户，然后重新加载页面。"
     },
-    "whiteboard.inserts.see_more_details_in_community": {
-        "string": "See more details in Community"
+    "frontend_sha_override_indicator.description": {
+        "string": "您当前正在查看来自提交的前端代码\n  "
     },
-    "whiteboard.inserts.in_development_version_error_dropdown": {
-        "string": "⚠ In-development version"
+    "frontend_sha_override_indicator.reload": {
+        "string": "重新加载"
     },
-    "whiteboard.inserts.in_development_version_dropdown": {
-        "string": "In-development version"
+    "frontend_sha_override_indicator.return_to_latest": {
+        "string": "返回到最新"
     },
-    "whiteboard.inserts.published_version_dropdown": {
-        "string": "Published version"
+    "fullscreen_actions.abandon_and_reattach_multiplayer": {
+        "string": "放弃并重新附加多人游戏"
     },
-    "whiteboard.inserts.widget_development_error_modal_title": {
-        "string": "Widget not found"
+    "fullscreen_actions.add-default-cell-styles-to-tables": {
+        "string": "将默认单元格样式添加到表格中"
     },
-    "whiteboard.inserts.widget_development_error_modal_description": {
-        "string": "Your widget has been published, but we can't find it on your computer. Try importing the manifest again, then give it another go."
+    "fullscreen_actions.add-platform-shape-definition": {
+        "string": "添加平台形状定义"
     }
 }

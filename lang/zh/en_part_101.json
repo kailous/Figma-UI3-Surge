@@ -1,152 +1,152 @@
 {
-    "ai.undo": {
-        "string": "Undo"
+    "dev_handoff.autorun_confirm_modal.title_stop_auto_run": {
+        "string": "停止自动运行此插件？"
     },
-    "ai.review": {
-        "string": "Review"
+    "dev_handoff.box_model.border": {
+        "string": "边框"
     },
-    "ai.keep_it": {
-        "string": "Keep it"
+    "dev_handoff.box_model.border-box": {
+        "string": "边框盒"
     },
-    "ai.accept": {
-        "string": "Accept"
+    "dev_handoff.box_model.border-box-tooltip": {
+        "string": "如何使用box-sizing: border-box"
     },
-    "ai.preview": {
-        "string": "Preview"
+    "dev_handoff.box_model.padding": {
+        "string": "内边距"
     },
-    "ai.stop": {
-        "string": "Stop"
+    "dev_handoff.breadcrumbs.ellipsis": {
+        "string": "…"
     },
-    "help_on_hover.select_and_move_objects": {
-        "string": "Select and move objects."
+    "dev_handoff.breadcrumbs.hidden_nodes": {
+        "string": "隐藏{count}个节点"
     },
-    "help_on_hover.proportionally_resize_objects": {
-        "string": "Proportionally resize objects."
+    "dev_handoff.code.hints.absolute_position": {
+        "string": "值是相对于父级({name})的。"
     },
-    "help_on_hover.draw_containers_to_hold_designs": {
-        "string": "Draw containers to hold designs."
+    "dev_handoff.code.hints.background_blend_mode_plus_lighter_darker": {
+        "string": "{value}通常在iOS上使用，尚未在浏览器中实现。请考虑使用其他方法以提高兼容性。"
     },
-    "help_on_hover.group_related_designs_to_organize_your_canvas_for_collaborators": {
-        "string": "Group related designs to organize your canvas for collaborators."
+    "dev_handoff.code.hints.borders_dont_take_up_space": {
+        "string": "在此设计中，边框不占用空间。使用CSS“border”时，请根据设计调整大小和内边距。"
     },
-    "help_on_hover.export_a_specific_part_of_your_design": {
-        "string": "Export a specific part of your design."
+    "dev_handoff.code.hints.color_missing_style": {
+        "string": "此颜色未链接到任何设计样式或变量。"
     },
-    "help_on_hover.draw_vector_shapes_like_rectangles_circles_and_more": {
-        "string": "Draw vector shapes like rectangles, circles, and more."
+    "dev_handoff.code.hints.compose_blur_tip": {
+        "string": ".blur()修饰符应应用于父视图。"
     },
-    "help_on_hover.draw_lines_between_two_points": {
-        "string": "Draw lines between two points."
+    "dev_handoff.code.hints.compose_separate_border_width": {
+        "string": "设计中的边框每边宽度不同，但Compose默认仅支持一个宽度。"
     },
-    "help_on_hover.draw_arrows_between_two_points": {
-        "string": "Draw arrows between two points."
+    "dev_handoff.code.hints.compose_shadow_incompatibility": {
+        "string": ".shadow()修饰符与此设计不完全兼容。"
     },
-    "help_on_hover.add_images_or_video_to_your_design": {
-        "string": "Add images or video to your design."
+    "dev_handoff.code.hints.display_p3_fallback": {
+        "string": "这是用于不支持P3颜色的浏览器的sRGB后备值。"
     },
-    "help_on_hover.draw_vector_shapes_and_paths": {
-        "string": "Draw vector shapes and paths."
+    "dev_handoff.code.hints.leading_trim": {
+        "string": "leading-trim和text-edge是草案CSS属性。"
     },
-    "help_on_hover.draw_freehand_sketches": {
-        "string": "Draw freehand sketches."
+    "dev_handoff.code.hints.multiple_variables": {
+        "string": "此值({value})与多个变量匹配。"
     },
-    "help_on_hover.add_a_text_box": {
-        "string": "Add a text box."
+    "dev_handoff.code.hints.plus_darker": {
+        "string": "plus-darker通常在iOS应用中使用，目前仅在Safari中受支持。请考虑使用其他方法以提高兼容性。"
     },
-    "help_on_hover.run_plugins_and_widgets_or_add_components_from_libraries": {
-        "string": "Run plugins and widgets, or add components from libraries."
+    "dev_handoff.code.hints.single_paint": {
+        "string": "设计中指定了多种颜色，但这里只支持一种颜色。"
     },
-    "help_on_hover.navigate_the_canvas": {
-        "string": "Navigate the canvas."
+    "dev_handoff.code.hints.swift_ui_blur_no_spread": {
+        "string": "设计中指定了阴影扩散，但SwiftUI默认不支持单独的扩散参数。"
     },
-    "help_on_hover.leave_notes_or_tag_collaborators": {
-        "string": "Leave notes or tag collaborators."
+    "dev_handoff.code.hints.swift_ui_only_single_fill_for_shapes": {
+        "string": "设计中指定了多种背景颜色，但SwiftUI仅支持单一填充颜色。"
     },
-    "fullscreen.filename_view.free": {
-        "string": "Free"
+    "dev_handoff.code.hints.swift_ui_separate_border_width": {
+        "string": "设计中的边框每边宽度不同，但SwiftUI默认仅支持一个宽度。"
     },
-    "fullscreen.filename_view.pro_trial": {
-        "string": "Pro trial"
+    "dev_handoff.code.hints.swift_ui_separate_corner_radius": {
+        "string": "设计中指定了多个角半径值，但SwiftUI仅支持一个角半径值。"
     },
-    "fullscreen.filename_view.trial_expired": {
-        "string": "Trial expired"
+    "dev_handoff.code.hints.swift_ui_spacers_for_space_between": {
+        "string": "间隔符生成适应性视图，无内容并根据需要扩展。"
     },
-    "fullscreen.filename_view.locked": {
-        "string": "Locked"
+    "dev_handoff.code.hints.unsupported_gradient_paint": {
+        "string": "设计中使用了渐变，这里不支持。显示渐变的第一个颜色。"
     },
-    "fullscreen.file_tracker_modal.num_files_of_max_free_files_created": {
-        "string": "{numFiles} of {maxFreeFiles} free files created."
+    "dev_handoff.code.hints.unsupported_paint": {
+        "string": "设计中使用了不支持的颜色。将显示占位符黑色。"
     },
-    "fullscreen.file_tracker_modal.this_is_your_last_free_file": {
-        "string": "This is your last free file."
+    "dev_handoff.code.hints.variable_not_resolved": {
+        "string": "未找到此属性使用的变量。"
     },
-    "fullscreen.file_tracker_modal.starter_plans_are_free_but_they_limit_you_to_just_max_free_files": {
-        "string": "{maxFreeFiles, plural, one {Starter plans are free but they limit you to just {maxFreeFiles} file. Upgrade for: }other {Starter plans are free but they limit you to just {maxFreeFiles} files. Upgrade for: }}"
+    "dev_handoff.code.lang_android": {
+        "string": "Android"
     },
-    "fullscreen.file_tracker_modal.max_free_files_already_you_are_becoming_a_pro": {
-        "string": "{maxFreeFiles, plural, one {{maxFreeFiles} file already? You’re becoming a pro. You’ve hit the limit for free files, but you can upgrade for:} other {{maxFreeFiles} files already? You’re becoming a pro. You’ve hit the limit for free files, but you can upgrade for:}}"
+    "dev_handoff.code.lang_android_xml": {
+        "string": "XML"
     },
-    "fullscreen.file_tracker_modal.compare_plans": {
-        "string": "Compare plans"
+    "dev_handoff.code.lang_compose": {
+        "string": "Compose"
     },
-    "fullscreen.file_tracker_modal.unlimited_files_pages": {
-        "string": "Unlimited files, pages"
+    "dev_handoff.code.lang_css": {
+        "string": "CSS"
     },
-    "fullscreen.file_tracker_modal.audio_conversations_in_files": {
-        "string": "Audio conversations in files"
+    "dev_handoff.code.lang_figma": {
+        "string": "Figma"
     },
-    "fullscreen.file_tracker_modal.unlimited_version_history_and_more": {
-        "string": "Unlimited version history and more…"
+    "dev_handoff.code.lang_ios": {
+        "string": "iOS"
     },
-    "fullscreen.pro_trial_upsell_modal.title": {
-        "string": "{numOfDaysLeft, plural, one {{numOfDaysLeft} day left in your trial} other {{numOfDaysLeft} days left in your trial}}"
+    "dev_handoff.code.lang_react": {
+        "string": "React"
     },
-    "fullscreen.pro_trial_upsell_modal.description": {
-        "string": "Try out all the unlocked features, create lots of free files, and upgrade any time."
+    "dev_handoff.code.lang_swiftui": {
+        "string": "SwiftUI"
     },
-    "fullscreen.pro_trial_upsell_modal.cta_text": {
-        "string": "Upgrade now"
+    "dev_handoff.code.lang_uikit": {
+        "string": "UIKit"
     },
-    "fullscreen.filename_view.hub_file_published_at": {
-        "string": "{publish_date, date, medium}"
+    "dev_handoff.code.language": {
+        "string": "语言"
     },
-    "community.tooltip.this_community_file_is_currently_blocked": {
-        "string": "This Community file is currently blocked"
+    "dev_handoff.code.options": {
+        "string": "选项"
     },
-    "community.tooltip.this_community_file_is_currently_unverified": {
-        "string": "This Community file is in review"
+    "dev_handoff.code.settings": {
+        "string": "代码设置"
     },
-    "fullscreen.toolbar.request.request_sent": {
-        "string": "Request sent"
+    "dev_handoff.code.settings.language": {
+        "string": "语言"
     },
-    "fullscreen.toolbar.still_waiting_to_edit": {
-        "string": "Still waiting to edit?"
+    "dev_handoff.code.settings.set_as_default": {
+        "string": "设为默认"
     },
-    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_this_board": {
-        "string": "Send your admins a reminder to approve your request so you can edit this board."
+    "dev_handoff.code.show_more": {
+        "string": "显示更多{count}行代码"
     },
-    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_files": {
-        "string": "Send your admins a reminder to approve your request so you can edit files."
+    "dev_handoff.code.snippet_docs": {
+        "string": "代码片段API文档"
     },
-    "fullscreen.toolbar.send_a_reminder": {
-        "string": "Send a reminder"
+    "dev_handoff.code.submit": {
+        "string": "提交"
     },
-    "fullscreen.toolbar.we_ve_sent_your_request_to_your_admins_we_ll_let_you_know_as_soon_as_they_approve_it": {
-        "string": "We've sent your request to your admins. We'll let you know as soon as they approve it."
+    "dev_handoff.code.update_prompt": {
+        "string": "此图层在生成代码后已被编辑。"
     },
-    "fullscreen.toolbar.we_ve_sent_your_admins_a_reminder_we_ll_let_you_know_as_soon_as_they_respond": {
-        "string": "We've sent your admins a reminder. We'll let you know as soon as they respond."
+    "dev_handoff.code.update_prompt_action": {
+        "string": "重新生成代码"
     },
-    "admin_dashboard.requests.error_generic": {
-        "string": "Something went wrong"
+    "dev_handoff.code.update_prompt_title": {
+        "string": "图层更改"
     },
-    "admin_dashboard.requests.error_reload": {
-        "string": "Reload"
+    "dev_handoff.code.usage": {
+        "string": "使用情况"
     },
-    "fullscreen.toolbar.reminder_sent": {
-        "string": "Reminder sent."
+    "dev_handoff.code_connect.compose.add_plugin_snippet": {
+        "string": "将以下代码片段添加到Code Connect文件所在模块的build.gradle.kts文件中。"
     },
-    "general.recovery_mode": {
-        "string": "Recovery Mode"
+    "dev_handoff.code_connect.entrypoint_body_text": {
+        "string": "将设计系统连接到代码，以提高开发速度和一致性。"
     }
 }

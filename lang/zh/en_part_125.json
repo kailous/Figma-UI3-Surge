@@ -1,152 +1,152 @@
 {
-    "community.publishing.update": {
-        "string": "Update"
+    "fullscreen.properties_panel.transform_panel.y": {
+        "string": "Y"
     },
-    "templates.detail.published_time": {
-        "string": "Last published {time}"
+    "fullscreen.properties_panel.video": {
+        "string": "视频"
     },
-    "templates.detail.unpublish_button": {
-        "string": "Unpublish"
+    "fullscreen.properties_panel.video_time": {
+        "string": "视频内的时间"
     },
-    "templates.detail.publish_button": {
-        "string": "Publish update"
+    "fullscreen.properties_panel.volume": {
+        "string": "音量"
     },
-    "folder_permissions_modal.copy_link": {
-        "string": "Copy link"
+    "fullscreen.reaction_wheel": {
+        "string": "反应工具"
     },
-    "folder_permissions_modal.share_folder_name": {
-        "string": "Share {folderName}"
+    "fullscreen.remove_group_fill_and_stroke.background_color_group_unsupported": {
+        "string": "不再支持组的背景颜色。要更改颜色，请将组转换为框架。"
     },
-    "folder_permissions_modal.share_this_project": {
-        "string": "Share this project"
+    "fullscreen.rename_modal.cancel": {
+        "string": "取消"
     },
-    "file_permissions_modal.copy_folder_link": {
-        "string": "Copy link"
+    "fullscreen.rename_modal.current_match": {
+        "string": "当前匹配"
     },
-    "file_browser.folder_settings.change_team_access": {
-        "string": "Change access"
+    "fullscreen.rename_modal.current_name": {
+        "string": "当前名称"
     },
-    "folder_permissions_modal.send_invite": {
-        "string": "Send Invite"
+    "fullscreen.rename_modal.learn_more": {
+        "string": "了解更多"
     },
-    "project_creation.who_has_access": {
-        "string": "Who has access"
+    "fullscreen.rename_modal.match_optional": {
+        "string": "匹配文本（可选）"
     },
-    "folder_permissions_modal.what_they_can_do": {
-        "string": "What they can do"
+    "fullscreen.rename_modal.number": {
+        "string": "编号"
     },
-    "project_creation.can_view_and_comment": {
-        "string": "Can view and comment on files in this project."
+    "fullscreen.rename_modal.preview": {
+        "string": "预览"
     },
-    "project_creation.can_create_and_edit_files": {
-        "string": "Can create and edit files in this project, add members, and change members’ edit permissions."
+    "fullscreen.rename_modal.rename": {
+        "string": "重命名"
     },
-    "folder_permissions_modal.project_name_s_team": {
-        "string": "{projectName}'s Team"
+    "fullscreen.rename_modal.rename_num_layers_layers": {
+        "string": "重命名{numLayers}个图层"
     },
-    "team_view.team_permissions_modal.share_settings": {
-        "string": "Share settings"
+    "fullscreen.rename_modal.rename_num_pages_pages": {
+        "string": "重命名{numPages}个页面"
     },
-    "file_browser.folder_settings.change_team_access_team_name": {
-        "string": "Change access for {teamName}"
+    "fullscreen.rename_modal.rename_to": {
+        "string": "重命名为"
     },
-    "file_browser.folder_settings.change_team_access_title": {
-        "string": "{teamName} members"
+    "fullscreen.rename_modal.replace_with": {
+        "string": "替换为"
     },
-    "permissions.anyone_in_container_name": {
-        "string": "Anyone in {containerName}"
+    "fullscreen.rename_modal.start_ascending_from": {
+        "string": "从此开始升序"
     },
-    "folder_access_row.invite_only_members_of_team_name_cannot_access": {
-        "string": "Invite-only – Members of {teamName} cannot access."
+    "fullscreen.rename_modal.start_sequence_from": {
+        "string": "从此开始序列"
     },
-    "folder_access_row.invite_only_members_of_this_team_cannot_access": {
-        "string": "Invite-only - Members of this team cannot access."
+    "fullscreen.rename_modal.stop_descending_at": {
+        "string": "降序结束"
     },
-    "folder_access_row.members_of_team_name": {
-        "string": "Members of {teamName}"
+    "fullscreen.ruler_guide_context_menu.hide_rulers": {
+        "string": "隐藏标尺"
     },
-    "folder_access_row.members_of_this_team": {
-        "string": "Members of this team"
+    "fullscreen.savepoint_modal.give_this_merge_a_description": {
+        "string": "为此合并提供描述"
     },
-    "folder_access_row.everyone_at_team_name_can_access_this_project": {
-        "string": "Everyone at {teamName} can access this project."
+    "fullscreen.savepoint_modal.show_full_version_history": {
+        "string": "显示完整版本历史"
     },
-    "folder_access_row.everyone_at_this_team_can_access_this_project": {
-        "string": "Everyone at this team can access this project."
+    "fullscreen.savepoint_modal.title": {
+        "string": "标题"
     },
-    "folder_access_row.team_access_disabled": {
-        "string": "Team access disabled"
+    "fullscreen.scale_panel.anchor_point": {
+        "string": "锚点"
     },
-    "folder_access_row.enable_team_access": {
-        "string": "Enable team access"
+    "fullscreen.scale_panel.close": {
+        "string": "关闭"
     },
-    "permissions.level_name.can_edit": {
-        "string": "can edit"
+    "fullscreen.scale_panel.scale": {
+        "string": "缩放"
     },
-    "folder_access_row.remove": {
-        "string": "Remove"
+    "fullscreen.scrubbable.opacity": {
+        "string": "不透明度"
     },
-    "folder_access_row.give_access": {
-        "string": "Give access"
+    "fullscreen.scrubbable.percent": {
+        "string": "%"
     },
-    "file_browser.folder_settings.team_can_access_tooltip": {
-        "string": "Access will match team-level permissions."
+    "fullscreen.spell-check-menu-add-word": {
+        "string": "添加到词典"
     },
-    "folder_share_settings.the_following_people_have_access_team": {
-        "string": "Members of {teamName} have default access according to their team role. This can be changed at any time."
+    "fullscreen.stamp_wheel": {
+        "string": "印章工具"
     },
-    "folder_share_settings.the_following_people_have_access_team_view_only": {
-        "string": "Members of {teamName} have access to this project, but can view-only. This can be changed at any time."
+    "fullscreen.stamp_wheel.dot": {
+        "string": "点印章"
     },
-    "file_browser.folder_settings.team_access_same_as_team": {
-        "string": "Same as the team"
+    "fullscreen.stamp_wheel.heart": {
+        "string": "心形印章"
     },
-    "file_browser.folder_settings.team_access_same_as_team_subtitle": {
-        "string": "Can edit or can view, depending on their current team role"
+    "fullscreen.stamp_wheel.plus_one": {
+        "string": "+1印章"
     },
-    "file_browser.folder_settings.team_access_view_only": {
-        "string": "View-only"
+    "fullscreen.stamp_wheel.profile": {
+        "string": "个人印章"
     },
-    "file_browser.folder_settings.team_access_view_only_subtitle": {
-        "string": "Can only view and comment, no matter current team role"
+    "fullscreen.stamp_wheel.question": {
+        "string": "问题印章"
     },
-    "file_browser.folder_settings.team_access_disable": {
-        "string": "Disable"
+    "fullscreen.stamp_wheel.star": {
+        "string": "星形印章"
     },
-    "file_browser.folder_settings.team_access_disabled_subtitle": {
-        "string": "Remove default access for this group on this project"
+    "fullscreen.stamp_wheel.thumbs_down": {
+        "string": "差评印章"
     },
-    "folder_permissions_modal.what_team_members_can_do_project": {
-        "string": "Access options for {teamName} members"
+    "fullscreen.stamp_wheel.thumbs_up": {
+        "string": "点赞印章"
     },
-    "rcs.sharing_clarity.learn_more": {
-        "string": "Learn more"
+    "fullscreen.starter_team_edit_modal.open_this_link": {
+        "string": "打开此链接？"
     },
-    "rcs.sharing_clarity.project_permissions_modal_step_1_title": {
-        "string": "Set permissions that fit your project"
+    "fullscreen.starter_team_edit_modal.when_you_open_this_link_your_email_may_be_visible": {
+        "string": "打开此链接时，拥有文件访问权限的其他人可能会看到您的电子邮件地址{email}"
     },
-    "rcs.sharing_clarity.project_permissions_modal_step_1_description": {
-        "string": "You now have more control over who has access to your projects and what they can do."
+    "fullscreen.toolbar.approval_pending": {
+        "string": "等待批准"
     },
-    "rcs.sharing_clarity.project_permissions_modal_step_2_title": {
-        "string": "Manage your team's access with more confidence"
+    "fullscreen.toolbar.approval_pending.dev_mode_grace_period_tooltip": {
+        "string": "{numDays, plural, other {要继续使用，必须在{numDays}天内申请并获得管理员批准。}}"
     },
-    "rcs.sharing_clarity.project_permissions_modal_step_2_description": {
-        "string": "Have visibility on who's in the team in order to decide what your team's access to this project should be."
+    "fullscreen.toolbar.back-to-files-button": {
+        "string": "返回文件"
     },
-    "folder_permissions.confirm_remove_team_access.the_members_of_team_name_will_lose_access": {
-        "string": "The members of the {teamName} team will most likely lose access to this project, so proceed with caution. With that said, access for this team can be added back at any time."
+    "fullscreen.toolbar.create_an_account_to_do_more_with_fig_jam": {
+        "string": "创建帐户以便在FigJam中进行更多操作"
     },
-    "folder_permissions.team_access_modals.cancel": {
-        "string": "Cancel"
+    "fullscreen.toolbar.done": {
+        "string": "完成"
     },
-    "folder_permissions.confirm_remove_team_access.remove": {
-        "string": "Remove"
+    "fullscreen.toolbar.edit-file-button": {
+        "string": "编辑文件"
     },
-    "folder_permissions.confirm_enable_team_access.this_will_directly_invite_members_of_the_team_name_team": {
-        "string": "This will directly invite members of the {teamName} team, giving them access to this project. This can be revoked at any time."
+    "fullscreen.toolbar.edit-file-button-hover-tooltip": {
+        "string": "点击以更改此文件"
     },
-    "folder_permissions.confirm_enable_team_access.add": {
-        "string": "Add"
+    "fullscreen.toolbar.edit-file-button-loading-aria-label": {
+        "string": "正在加载..."
     }
 }

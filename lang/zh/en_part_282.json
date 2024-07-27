@@ -1,152 +1,152 @@
 {
-    "billing_group_admin.upgrade_request_banner.title": {
-        "string": "{orgName} has {numRequests}"
+    "rcs.universal_inserts.insert_components_from_your_libraries": {
+        "string": "再利用可能コンポーネント、キャンバスウィジェット、高機能プラグインなど、Figmaコミュニティの今すぐ使えるリソースにアクセスしましょう。"
     },
-    "billing_group_admin.upgrade_request_banner.title_num_requests": {
-        "string": "{numRequests, plural, one {1 upgrade request} other {{numRequests} upgrade requests}}"
+    "rcs.upsell_libraries.click_here_to_turn_into_component": {
+        "string": "オブジェクトを選択した後、ここをクリックすると、選択したオブジェクトがこのファイルで再利用可能なコンポーネントになります。"
     },
-    "billing_group_admin.upgrade_request_banner.subtitle": {
-        "string": "Go to the dashboard to review your requests."
+    "rcs.upsell_libraries.click_in_toolbar_to_turn_into_component": {
+        "string": "コンポーネントに変換するには、オブジェクトを選択し、ツールバーの {svg}をクリックします。"
     },
-    "onboarding_pointers.multiple_select_onboarding": {
-        "string": "Quickly select all users in the list or click a row while holding {shiftKey} to select multiple users at once."
+    "rcs.upsell_libraries.not_now": {
+        "string": "今はしない"
     },
-    "onboarding_pointers.shift_key": {
-        "string": "⇧ shift"
+    "rcs.upsell_libraries.quickly_access_components": {
+        "string": "チームライブラリで他のファイルのコンポーネントに迅速にアクセスできます。チームライブラリは、プロフェッショナルプランまたはビジネスプランで利用できます。"
     },
-    "onboarding_pointers.recent_activity_onboarding.seat_rename": {
-        "string": "Click here to view a user's recent activity and info about how people were upgraded, if available."
+    "rcs.upsell_libraries.reuse_components_across_all_files": {
+        "string": "コンポーネントをすべてのファイルで再利用できます"
     },
-    "onboarding_pointers.member_upgraded_onboarding": {
-        "string": "Quickly view how a user was upgraded by hovering over their upgrade date."
+    "rcs.upsell_libraries.see_plans": {
+        "string": "プランを見る"
     },
-    "onboarding_pointers.account_type_filter_onboarding_for_workspace_admin": {
-        "string": "Filter users by their account type and when their last edit was made."
+    "rcs.upsell_libraries.upsell_libraries.create_component_icon_title": {
+        "string": "コンポーネントボタンを作成"
     },
-    "onboarding_pointers.account_type_filter_onboarding.seat_rename": {
-        "string": "Filter users by their account type, seat type, when their last edit was made, and paid seats added since your last invoice."
+    "rcs.upsell_libraries.visual_bell.got_it": {
+        "string": "了解"
     },
-    "onboarding_pointers.member_search_onboarding": {
-        "string": "Search for users by typing in a name or email address."
+    "rcs.vector_networks.now_they_re_both_simpler_and_more_powerful_paths_finally_work_the_way_they_should": {
+        "string": "パスがよりシンプルかつ高機能になり、自由に描画できるようになりました。"
     },
-    "onboarding_pointers.row_select_onboarding": {
-        "string": "Click another row while holding {shiftKey} to select or de-select multiple users at once."
+    "rcs.vector_networks.pen_tools_have_always_been_scary_to_use": {
+        "string": "従来のペンツールは繊細で使い勝手が難しいツールでした。"
     },
-    "members_table.menu_bar_filter.scim_group": {
-        "string": "SCIM group"
+    "rcs.vector_networks.vector_networks": {
+        "string": "ベクターネットワーク"
     },
-    "members_table.menu_bar_filter.billing_group": {
-        "string": "Billing group"
+    "rcs.viewer_to_editor.got_it": {
+        "string": "了解"
     },
-    "members_table.license_group_cell.unassign": {
-        "string": "Unassign"
+    "rcs.viewer_to_editor.you_currently_have_view_only_access": {
+        "string": "現在の権限は閲覧のみです。ファイルをいつでも編集できる権限を申請できます。"
     },
-    "members_table.role_idp_tooltip.seat_rename": {
-        "string": "Seat type is provisioned by your IdP"
+    "rcs.welcome_step.we_re_different_from_other_design_tools_in_some_really_special_ways_so_we_d_like_to_take_you_through_them": {
+        "string": "他のデザインツールとは大きく異なるFigma独自の機能をご紹介します"
     },
-    "external_collaboration_restricted.members.tooltip.v2": {
-        "string": "This guest can't be upgraded. {eccDomain} has limited their organization's access to external content."
+    "rcs.welcome_step.welcome": {
+        "string": "ようこそ!"
     },
-    "members_table.dev_mode_cell.beta_user_needs_upgrade": {
-        "string": "This member will need to upgrade to Dev Mode on Jan 31"
+    "rcs.welcome_step.welcome_to_figma": {
+        "string": "Figmaへようこそ!"
     },
-    "members_table.beta_participant": {
-        "string": "Beta participant"
+    "rcs.welcome_step.welcome_user_name": {
+        "string": "{userFirstName}さん、ようこそ!"
     },
-    "members_table.dev_mode.requires_org_admin_opt_in": {
-        "string": "This seat can be upgraded after an org admin enables Dev Mode"
+    "rcs.welcome_step_view.next": {
+        "string": "次へ"
     },
-    "members_table.badge_new": {
-        "string": "New"
+    "rcs.whats_new_in_figjam.show_fig_jam_updates": {
+        "string": "FigJamの更新を表示する"
     },
-    "workspace.unassigned": {
-        "string": "Unassigned"
+    "rcs.whats_new_in_figjam.try_fig_jam": {
+        "string": "FigJamを試す"
     },
-    "members_table.workspace_cell.unassign": {
-        "string": "Unassign"
+    "rcs.workflow_interop.could_not_export_file_to_fig_jam_please_try_again_later": {
+        "string": "FigJamにファイルをエクスポートできませんでした。しばらくしてからもう一度お試しください。"
     },
-    "add_unassigned_members_modal.add_members_tab": {
-        "string": "Add members"
+    "column_header.event": {
+        "string": "イベント"
     },
-    "add_unassigned_members_modal.invite_users_tab": {
-        "string": "Invite users"
+    "column_header.event_date": {
+        "string": "イベント発生日"
     },
-    "members_tab.last_edit_modal.no_activity": {
-        "string": "No activity found"
+    "column_header.ip_address": {
+        "string": "IPアドレス"
     },
-    "members_tab.last_edit_modal.product_column_header": {
-        "string": "Product"
+    "column_header.product": {
+        "string": "製品"
     },
-    "members_tab.last_edit_modal.file_column_header": {
-        "string": "File"
+    "column_header.team": {
+        "string": "チーム"
     },
-    "members_tab.last_edit_modal.last_edit_column_header": {
-        "string": "Last Edit"
+    "column_header.upgrade_date": {
+        "string": "アップグレード日"
     },
-    "members_tab.last_edit_modal.inaccessible_text": {
-        "string": "You don't have access to this file due to its permissions"
+    "recent_activity_modal.activity_log_created_at": {
+        "string": "{creationDate, date, medium}"
     },
-    "members_tab.last_edit_modal.error_fetching_edits": {
-        "string": "An error occurred while fetching latest edits."
+    "recent_activity_modal.activity_log_created_at_time": {
+        "string": "{creationDate, time, short}"
     },
-    "members_tab.last_edit_modal.title_with_name": {
-        "string": "{publicName}'s most recent edits"
+    "recent_activity_modal.dev_mode": {
+        "string": "開発モード"
     },
-    "members_tab.last_edit_modal.title_generic": {
-        "string": "Recent edit activity"
+    "recent_activity_modal.fig_jam": {
+        "string": "FigJam"
     },
-    "members_tab.member_modal.recent_activity_tab": {
-        "string": "Recent activity"
+    "recent_activity_modal.figma_design": {
+        "string": "Figmaデザイン"
     },
-    "members_tab.member_modal.guest_access_tab": {
-        "string": "Guest access"
+    "recent_activity_modal.no_activity_found": {
+        "string": "アクティビティーが見つかりません"
     },
-    "members_tab.member_modal.remove_user_button": {
-        "string": "Remove user"
+    "recent_activity_modal.upgrade_reason_created_at": {
+        "string": "{creationDate, date, medium}"
     },
-    "members_tab.member_modal.see_full_activity_button": {
-        "string": "See full activity"
+    "reconnecting_modal.loading": {
+        "string": "読み込んでいます..."
     },
-    "members_table.true_up.banner.title": {
-        "string": "Finalize your invoice when you're ready"
+    "recordings.browser_audio_not_available_error": {
+        "string": "レコーディングを開始するには、オーディオ入力デバイスが1つ以上必要です"
     },
-    "members_table.true_up.banner.subtitle": {
-        "string": "Once you've reviewed and confirmed the paid seats in your organization, finalize your invoice."
+    "recordings.browser_audio_permissions_error": {
+        "string": "Figmaがレコーディングを行うには、マイクにアクセスする必要があります。ブラウザの設定でマイクへのアクセスを有効にしてから、もう一度お試しください"
     },
-    "members_table.true_up.banner.button": {
-        "string": "Review and finalize invoice"
+    "recordings.browser_device_general_error": {
+        "string": "モバイルデバイスにアクセスしようとしているときにエラーが発生しました。"
     },
-    "members_tab.member_modal.file_count_label": {
-        "string": "{fileCount, plural, one {{fileCount} file} other {{fileCount} files}}"
+    "recordings.camera": {
+        "string": "カメラ"
     },
-    "members_tab.member_modal.project_count_label": {
-        "string": "{projectCount, plural, one {{projectCount} project} other {{projectCount} projects}}"
+    "recordings.copy_link": {
+        "string": "リンクをコピー"
     },
-    "members_tab.member_modal.guest_access.can_also_view_public_links_label": {
-        "string": "{name} can also view any file with public links enabled."
+    "recordings.delete_recording_confirmation": {
+        "string": "この記録を削除してよろしいですか?"
     },
-    "members_tab.member_modal.guest_access.can_view_public_links_label": {
-        "string": "{name} can view any file with public links enabled."
+    "recordings.delete_recording_title": {
+        "string": "記録を削除"
     },
-    "members_tab.member_modal.guest_access.no_access_label": {
-        "string": "{name} doesn’t currently have access to any team resources."
+    "recordings.done": {
+        "string": "完了"
     },
-    "members_tab.member_modal.guest_access.teams_table.team_column": {
-        "string": "Team"
+    "recordings.follow": {
+        "string": "フォロー"
     },
-    "members_tab.member_modal.guest_access.teams_table.projects_column": {
-        "string": "Projects"
+    "recordings.following_name": {
+        "string": "{name}をフォローしています"
     },
-    "members_tab.member_modal.guest_access.teams_table.permissions_column": {
-        "string": "Permissions"
+    "recordings.make_context_setting_easier": {
+        "string": "キャンバスを記録すると、コンテキストの設定が容易になります"
     },
-    "members_tab.member_modal.guest_access.projects_table.project_column": {
-        "string": "Project"
+    "recordings.microphone": {
+        "string": "マイク"
     },
-    "members_tab.member_modal.guest_access.projects_table.files_column": {
-        "string": "Files"
+    "recordings.month_day": {
+        "string": "{monthStr} {dayNumber}日"
     },
-    "members_tab.member_modal.guest_access.projects_table.permissions_column": {
-        "string": "Permissions"
+    "recordings.new_recording": {
+        "string": "新規記録"
     }
 }

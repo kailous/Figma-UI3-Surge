@@ -1,152 +1,152 @@
 {
-    "resources_tab.approved_widgets": {
-        "string": "Approved widgets"
+    "proto.starting_points.description_strikethrough_tooltip": {
+        "string": "取り消し線"
     },
-    "org_admin_tab.resources": {
-        "string": "Resources"
+    "proto.starting_points.edit_description": {
+        "string": "説明を編集"
     },
-    "org_admin_tab.settings": {
-        "string": "Settings"
+    "proto.starting_points.flow_starting_point_title": {
+        "string": "フローの開始点"
     },
-    "org_admin_tab.abandoned_drafts": {
-        "string": "Abandoned Drafts"
+    "proto.state": {
+        "string": "状態"
     },
-    "org_admin_tab.content": {
-        "string": "Content"
+    "proto.state_management": {
+        "string": "状態管理"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.button.cancel": {
-        "string": "Cancel"
+    "proto.state_management.controls_help_link": {
+        "string": "詳細はこちら..."
     },
-    "org_admin_settings.billing.finalize_invoice_modal.button.finalize_invoice": {
-        "string": "Finalize invoice"
+    "proto.state_management.controls_help_link_new": {
+        "string": "詳細情報"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.title.annual": {
-        "string": "Finalize annual invoice"
+    "proto.state_management.info_tooltip": {
+        "string": "最上位のフレームの名前が同じか、プリフィックスが一致すると、{PreserveScrollPositionBold}が自動的に適用されます。"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.title.true_up": {
-        "string": "Finalize true-up invoice"
+    "proto.state_management.info_tooltip_learn_more": {
+        "string": "詳細情報"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.subtitle": {
-        "string": "Please check that everything looks right"
+    "proto.state_management.mixed_state_update": {
+        "string": "混合コンテンツを変更するには、新しい状態管理にアップデートしてください。"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.checkbox": {
-        "string": "I understand I can’t make changes after finalizing. Any seats I add after finalizing will be on my next invoice."
+    "proto.state_management.new_controls": {
+        "string": "状態管理を更新しました。"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.invoice_total": {
-        "string": "Invoice total"
+    "proto.state_management.old_controls": {
+        "string": "古い状態管理を使用中です。"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.num_seats.design": {
-        "string": "{seats, plural, one {{seats} Design seat} other {{seats} Design seats}}"
+    "proto.state_management.reset_video_state": {
+        "string": "動画の状態をリセット"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.num_seats.dev_mode": {
-        "string": "{seats, plural, one {{seats} Dev Mode seat} other {{seats} Dev Mode seats}}"
+    "proto.state_management.revert_controls": {
+        "string": "戻す"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.num_seats.figjam": {
-        "string": "{seats, plural, one {{seats} Figjam seat} other {{seats} Figjam seats}}"
+    "proto.state_management.update_controls": {
+        "string": "更新"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.disclaimer_minimum_seats": {
-        "string": "You're paying for the minimum seats that you've agreed to pay in your contract."
+    "proto.state_management.visual_bell_update_all": {
+        "string": "すべて更新"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.badge.not_yet_filled": {
-        "string": "{seats} not yet filled"
+    "proto.state_management.visual_bell_update_all_message": {
+        "string": "すべてのインタラクションを更新済み"
     },
-    "org_admin_settings.billing.finalize_invoice_modal.badge.new_seats": {
-        "string": "{seats} new"
+    "proto.state_management.visual_bell_updated_message": {
+        "string": "新しい状態管理を使用するためインタラクションを更新済み"
     },
-    "admin_settings_selector.name.organization_fallback": {
-        "string": "Organization"
+    "proto.status_messages.a_presentation_needs_to_have_at_least_one_slide": {
+        "string": "プレゼンテーションにはスライドが1枚以上必要です。"
     },
-    "admin_settings_selector.name.workspace_fallback": {
-        "string": "Workspace"
+    "proto.status_messages.a_prototype_needs_to_have_at_least_one_frame": {
+        "string": "プロトタイプにはフレームが1つ以上必要です。"
     },
-    "admin_settings_selector.name.billing_group_fallback": {
-        "string": "Billing group"
+    "proto.status_messages.a_prototype_with_connections_needs_a_valid_top_level_frame_as_the_origin": {
+        "string": "コネクションが含まれているプロトタイプでは、有効な最上位フレームが基点として必要です。"
     },
-    "admin_settings_selector.name.dashboard": {
-        "string": "Dashboard"
+    "proto.target_video_node_name_formatter.this_video": {
+        "string": "この動画"
     },
-    "admin_settings_selector.dropdown_title.organization": {
-        "string": "Organization"
+    "proto.time": {
+        "string": "時間"
     },
-    "admin_settings_selector.dropdown_title.billing_groups": {
-        "string": "Billing groups"
+    "proto.title_interactions": {
+        "string": "インタラクション"
     },
-    "admin_settings_selector.dropdown_title.dashboard": {
-        "string": "Dashboard"
+    "proto.tooltip_overlay_position_bottom_center": {
+        "string": "中央下"
     },
-    "admin_settings_selector.dropdown_title.workspaces": {
-        "string": "Workspaces"
+    "proto.tooltip_overlay_position_center": {
+        "string": "中央"
     },
-    "activity_log.upgrade.added_to_resource_with_product.seat_rename": {
-        "string": "{actor_name} added {upgrader_name} to {resource_name} with a paid {product} seat"
+    "proto.tooltip_overlay_position_top_left": {
+        "string": "左上"
     },
-    "activity_log.upgrade.redeem_invite_to_org": {
-        "string": "{upgrader_name} accepted invite to org"
+    "proto.transition_behavior.animate": {
+        "string": "アニメーション"
     },
-    "activity_log.upgrade.org_merge.seat_rename": {
-        "string": "{upgrader_name} was upgraded after the {child_org} organization was merged into this organization"
+    "proto.transition_behavior.dissolve": {
+        "string": "ディゾルブ"
     },
-    "activity_log.upgrade.resource_move_with_product.seat_rename": {
-        "string": "{upgrader_name} had a paid {product} seat in {resource_name} when it was upgraded"
+    "proto.transition_behavior.instant": {
+        "string": "即時"
     },
-    "activity_log.upgrade.drafts_share": {
-        "string": "{upgrader_name} shared {resource_name} from their drafts folder to {actor_name}"
+    "proto.transition_behavior.move_in": {
+        "string": "ムーブイン"
     },
-    "activity_log.upgrade.create_team": {
-        "string": "{upgrader_name} created {resource_name}"
+    "proto.transition_behavior.move_out": {
+        "string": "ムーブアウト"
     },
-    "activity_log.upgrade.join_team_with_product.seat_rename": {
-        "string": "{upgrader_name} joined {resource_name} with a paid {product} seat"
+    "proto.transition_behavior.push": {
+        "string": "プッシュ"
     },
-    "activity_log.upgrade.admin_upgrade_with_product.seat_rename": {
-        "string": "{actor_name} upgraded {upgrader_name} in {product}"
+    "proto.transition_behavior.slide_in": {
+        "string": "スライドイン"
     },
-    "activity_log.upgrade.scim_with_product.seat_rename": {
-        "string": "{upgrader_name} was provisioned with a paid {product} seat by SCIM"
+    "proto.transition_behavior.slide_out": {
+        "string": "スライドアウト"
     },
-    "activity_log.upgrade.figma_admin": {
-        "string": "Figma support upgraded {upgrader_name} on {resource_name}"
+    "proto.transition_behavior.smart_animate": {
+        "string": "スマートアニメート"
     },
-    "activity_log.upgrade.depart_team": {
-        "string": "{upgrader_name} was upgraded when an owner left the team"
+    "proto.trigger": {
+        "string": "トリガー"
     },
-    "activity_log.upgrade.create_file": {
-        "string": "{upgrader_name} created file {resource_name}"
+    "proto.trigger.add_delay_placeholder": {
+        "string": "遅延を追加"
     },
-    "activity_log.upgrade.edit_request_approval": {
-        "string": "{upgrader_name} had their edit request approved on file {resource_name}"
+    "proto.trigger.after_delay_timeout": {
+        "string": "ディレイタイムアウト後"
     },
-    "activity_log.upgrade.run_plugin": {
-        "string": "{upgrader_name} ran a plugin"
+    "proto.trigger.duration_to_jump_backward": {
+        "string": "ジャンプして戻る時間"
     },
-    "activity_log.upgrade.resource_moved_from_drafts": {
-        "string": "{upgrader_name} was upgraded when they moved {resource_name} to a team"
+    "proto.trigger.duration_to_jump_forward": {
+        "string": "ジャンプして進む時間"
     },
-    "activity_log.upgrade.default_paid_status_with_product.seat_rename": {
-        "string": "{upgrader_name} joined with a paid {product} seat due to the organization's default role"
+    "proto.trigger.timestamp_to_set_to": {
+        "string": "設定後のタイムスタンプ"
     },
-    "activity_log.upgrade.figjam_ga_reupgrade": {
-        "string": "{upgrader_name} re-upgraded their account on file {resource_name}"
+    "proto.trigger.video_hit_time": {
+        "string": "アクションを実行する動画内の時間"
     },
-    "activity_log.upgrade.edit_button": {
-        "string": "{upgrader_name} clicked the “Edit file” button on {resource_name}"
+    "proto.trigger.x_offset": {
+        "string": "Xオフセット"
     },
-    "activity_log.upgrade.edit_action": {
-        "string": "{upgrader_name} edited {resource_name}"
+    "proto.trigger.y_offset": {
+        "string": "Yオフセット"
     },
-    "activity_log.enabled_public_links_require_expiration_and_password_for_the_blog_days_generic": {
-        "string": "{maxDays, plural, one {Required public links to {resourceName}’s design files to have a password and to expire after one day} other {Required public links to {resourceName}’s design files to have a password and to expire after {maxDays} days}}"
+    "proto.unpublished_variables_localized": {
+        "string": "{numberOfVariables, plural, other {このファイルに{numberOfVariables}個のバリアブルを作成しました}}"
     },
-    "activity_log.enabled_public_links_require_expiration_and_password_for_the_blog_hours_generic": {
-        "string": "{maxHours, plural, one {Required public links to {resourceName}’s design files to have a password and to expire one hour} other {Required public links to {resourceName}’s design files to have a password and to expire {maxHours} hours}}"
+    "proto.variable": {
+        "string": "バリアブル"
     },
-    "activity_log.enabled_public_links_require_expiration_for_the_blog_days_generic": {
-        "string": "{maxDays, plural, one {Required public links to {resourceName}’s design files to expire after one day} other {Required public links to {resourceName}’s design files to expire after {maxDays} days}}"
+    "proto.variable.value": {
+        "string": "値"
     },
-    "activity_log.enabled_public_links_require_expiration_for_the_blog_hours_generic": {
-        "string": "{maxHours, plural, one {Required public links to {resourceName}’s design files to expire after one hour} other {Required public links to {resourceName}’s design files to expire after {maxHours} hours}}"
+    "proto.variable_debugger.live_preview_indicator": {
+        "string": "ライブプレビュー"
     },
-    "activity_log.event.internal_admin_event_not_configured": {
-        "string": "Event of type {eventName} is not configured for viewing in Admin. Ask for help in #feat-support-activity-logs."
+    "proto.variant_actions.change_to": {
+        "string": "次に変更…"
     }
 }

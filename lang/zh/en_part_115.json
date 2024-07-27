@@ -1,152 +1,152 @@
 {
-    "consumption_paywalls.plan_name_starter": {
-        "string": "Starter"
+    "fullscreen.filename_view.drafts": {
+        "string": "草稿"
     },
-    "consumption_paywalls.plan_name_pro": {
-        "string": "Professional"
+    "fullscreen.filename_view.drafts_to_move": {
+        "string": "需要移动的草稿"
     },
-    "consumption_paywalls.plan_name_org": {
-        "string": "Organization"
+    "fullscreen.filename_view.duplicate": {
+        "string": "复制"
     },
-    "consumption_paywalls.plan_name_enterprise": {
-        "string": "Enterprise"
+    "fullscreen.filename_view.duplicate-as-new": {
+        "string": "复制为新文件"
     },
-    "consumption_paywalls.plan_description_starter": {
-        "string": "For trying things out"
+    "fullscreen.filename_view.duplicate-to-drafts": {
+        "string": "复制到草稿"
     },
-    "consumption_paywalls.plan_description_pro_pricing_variant.seat_rename": {
-        "string": "Per seat per month when billed annually"
+    "fullscreen.filename_view.edit_file_menu": {
+        "string": "编辑文件菜单"
     },
-    "consumption_paywalls.plan_description_org_pricing_variant": {
-        "string": "Bring multiple teams together, share an org-wide design system, and more."
+    "fullscreen.filename_view.export": {
+        "string": "导出…"
     },
-    "consumption_paywalls.plan_description_enterprise_pricing_variant": {
-        "string": "Scale company processes with custom workspaces and advanced security."
+    "fullscreen.filename_view.favorite_label": {
+        "string": "将此文件添加到收藏夹"
     },
-    "consumption_paywalls.badge_text": {
-        "string": "Current plan"
+    "fullscreen.filename_view.file_analytics": {
+        "string": "库分析"
     },
-    "consumption_paywalls.error.modal": {
-        "string": "Unable to process that action."
+    "fullscreen.filename_view.file_input_title": {
+        "string": "文件名"
     },
-    "payments_modal.contact_support": {
-        "string": "Contact support"
+    "fullscreen.filename_view.free": {
+        "string": "免费"
     },
-    "payments_modal.pay_invoice": {
-        "string": "Pay invoice"
+    "fullscreen.filename_view.go_to_project": {
+        "string": "前往项目"
     },
-    "payments_modal.pay_overdue_invoice_to_regain_access": {
-        "string": "Pay overdue invoice to regain access"
+    "fullscreen.filename_view.hub_file_published_at": {
+        "string": "{publish_date, date, medium}"
     },
-    "payments_modal.you_no_longer_have_access_to_this_organization": {
-        "string": "You no longer have access to this organization"
+    "fullscreen.filename_view.locked": {
+        "string": "已锁定"
     },
-    "payments_modal.your_files_are_safe_but_youll_need_to_pay": {
-        "string": "Your files are safe, but you'll need to pay your {dueDate} invoice to access {orgName} again."
+    "fullscreen.filename_view.move-to-project": {
+        "string": "移动…"
     },
-    "payments_modal.account_switcher_and_support_cta": {
-        "string": "{switchAccountLink} to continue using Figma, or reach out to Support for more help."
+    "fullscreen.filename_view.pro_trial": {
+        "string": "专业试用"
     },
-    "payments_modal.switch_organization_or_account": {
-        "string": "Switch organization or account"
+    "fullscreen.filename_view.publish-styles-and-components": {
+        "string": "发布库..."
     },
-    "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue": {
-        "string": "Please reach out to your Organization admin(s) to resolve this billing issue."
+    "fullscreen.filename_view.rename": {
+        "string": "重命名"
     },
-    "payments_modal.account_switcher_cta": {
-        "string": "{switchAccountLink} to continue using Figma."
+    "fullscreen.filename_view.rename-branch": {
+        "string": "重命名分支"
     },
-    "payments_modal.please_reach_out_to_b_class_name_styles_bold_support_figma_com_b_to_resolve_the_issue": {
-        "string": "Please reach out to {supportEmail} to resolve the issue."
+    "fullscreen.filename_view.restore_default_thumbnail": {
+        "string": "恢复默认缩略图"
     },
-    "payments_modal.thank_you": {
-        "string": "Thank you!"
+    "fullscreen.filename_view.title_placeholder": {
+        "string": "无标题"
     },
-    "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue_thank_you": {
-        "string": "Please reach out to your Organization admin(s) to resolve this billing issue. Thank you!"
+    "fullscreen.filename_view.trial_expired": {
+        "string": "试用期已过"
     },
-    "payments_modal.switch_workspaces_to_continue_using_figma": {
-        "string": "Switch workspaces to continue using Figma"
+    "fullscreen.filename_view.unfavorite_label": {
+        "string": "从收藏夹中移除"
     },
-    "payments_modal.you_no_longer_have_access_to_your_organization": {
-        "string": "You no longer have access to your Organization"
+    "fullscreen.filename_view.version-history-hide": {
+        "string": "隐藏版本历史"
     },
-    "payments_modal.learn_more_about_team_plans": {
-        "string": "Learn more about team plans"
+    "fullscreen.filename_view.version-history-show": {
+        "string": "显示版本历史"
     },
-    "payments_modal.contact_an_admin_of_team_name_to_upgrade": {
-        "string": "Contact an admin of {teamName} to upgrade."
+    "fullscreen.filename_view.view-only": {
+        "string": "仅查看"
     },
-    "payments_modal.cancel": {
-        "string": "Cancel"
+    "fullscreen.filename_view.viewers-cannot-copy-or-share": {
+        "string": "查看者无法复制或分享此文件。"
     },
-    "payments_modal.upgrade": {
-        "string": "Upgrade"
+    "fullscreen.filename_view.zoom-integration-popup-body": {
+        "string": "Figma应用程序现在可以独立使用。"
     },
-    "payments_modal.contact_an_admin_to_update_your_payment_source": {
-        "string": "Contact an admin to update your payment source."
+    "fullscreen.filename_view.zoom-integration-popup-header": {
+        "string": "已加入主持人的协作。"
     },
-    "payments_modal.update_payment": {
-        "string": "Update payment"
+    "fullscreen.filename_view.zoom-integration-popup-header-with-name": {
+        "string": "已加入{hostName}的协作"
     },
-    "payments_modal.team_name_is_currently_locked_please_update_your_payment_source_to_unlock_team_name_and_modify_team_members": {
-        "string": "{teamName} is currently locked. Please update your payment source to unlock {teamName} and modify team members."
+    "fullscreen.flyout.boolean_groups": {
+        "string": "布尔组"
     },
-    "payments_modal.you_ve_reached_your_plan_s_m_a_x_f_r_e_e_editors_editor_limit_user_text_you_ve_invited_will_be_granted_view_access_but_they_won_t_be_able_to_edit.seat_rename": {
-        "string": "Your trial includes max {maxFreeEditors} seats with full editing access. {userText} can still view and comment on files, but won't be able to edit."
+    "fullscreen.flyout.components": {
+        "string": "组件"
     },
-    "payments_modal.you_may_give_them_edit_access_later_if_you_upgrade_to_the_professional_plan_or_downgrade_other_editors_on_your_team_to_viewers.seat_rename": {
-        "string": "You may give them edit access later if you upgrade to the Professional plan or if you downgrade other seats on your team."
+    "fullscreen.flyout.drawing_tools": {
+        "string": "绘图工具"
     },
-    "payments_modal.if_you_d_like_you_can_upgrade_your_plan_now_or_learn_more_about_our_paid_plans": {
-        "string": "If you’d like, you can upgrade your plan now. Or, {learnMoreAboutOurPaidPlans}."
+    "fullscreen.flyout.move_tools": {
+        "string": "移动工具"
     },
-    "payments_modal.learn_more_about_our_paid_plans": {
-        "string": "learn more about our paid plans"
+    "fullscreen.flyout.prototype_view": {
+        "string": "原型视图"
     },
-    "payments_modal.your_team_is_locked": {
-        "string": "Your team is locked"
+    "fullscreen.flyout.region_tools": {
+        "string": "区域工具"
     },
-    "payments_modal.your_professional_team_plan_is_no_longer_active_please": {
-        "string": "Your Professional team plan is no longer active. Please update your billing information to continue editing files in {teamName}."
+    "fullscreen.flyout.shape_tools": {
+        "string": "形状工具"
     },
-    "payments_modal.upgrade_to_verb_resource_name": {
-        "string": "Upgrade to {verb} {resourceName}"
+    "fullscreen.flyout.styles": {
+        "string": "样式"
     },
-    "payments_modal.on_the_starter_plan_your_team_is_limited": {
-        "string": "{maxFreeFiles, plural, one {On the Starter plan, your team is limited to {maxFreeFiles} Figma file, {maxFreeFiles} FigJam file, and {maxFreeFolders} project.} other {On the Starter plan, your team is limited to {maxFreeFiles} Figma files, {maxFreeFiles} FigJam files, and {maxFreeFolders} project.}}"
+    "fullscreen.focus_mode.toggle_variants.enter": {
+        "string": "进入变体多重编辑"
     },
-    "payments_modal.upgrade_to_professional": {
-        "string": "Upgrade to Professional"
+    "fullscreen.focus_mode.toggle_variants.exit": {
+        "string": "退出多重编辑"
     },
-    "payments_modal.update_your_payment": {
-        "string": "Update your payment"
+    "fullscreen.font_settings.byof_bring_your_own_fonts": {
+        "string": "BYOF (导入您自己的字体)"
     },
-    "payments_modal.your_team": {
-        "string": "your team"
+    "fullscreen.font_settings.do_this_later_in_account_settings": {
+        "string": "稍后在账户设置中进行"
     },
-    "payments_modal.move": {
-        "string": "move"
+    "fullscreen.font_settings.enable_local_fonts": {
+        "string": "启用本地字体"
     },
-    "payments_modal.duplicate": {
-        "string": "duplicate"
+    "fullscreen.font_settings.figma_comes_preloaded": {
+        "string": "Figma预装了Google Web字体。若要使用本地字体，需要安装字体安装程序。安装后，您可以在此计算机上工作时随时访问本地字体。"
     },
-    "payments_modal.restore": {
-        "string": "restore"
+    "fullscreen.font_settings.got_it": {
+        "string": "了解"
     },
-    "payments_modal.import": {
-        "string": "import"
+    "fullscreen.font_settings.if_you_ever_change_your_mind_you_can_easily_uninstall_the_process": {
+        "string": "如果您改变主意，可以随时轻松卸载此过程。"
     },
-    "payments_modal.add": {
-        "string": "add"
+    "fullscreen.font_settings.local_font_explainer": {
+        "string": "最终，用户将可以通过单击为Figma提供字体访问权限。但是，在Chrome和Firefox实现该功能之前，我们不得不采用变通方法。我们设计了解决方案时考虑到了安全性，并简化了设置。"
     },
-    "payments_modal.this_project": {
-        "string": "this project"
+    "fullscreen.font_settings.local_font_process_explainer": {
+        "string": "运行安装程序后，将安装一个进程，该进程监视计算机的字体文件夹，并保持工具中的字体最新。"
     },
-    "payments_modal.more_files": {
-        "string": "more files"
+    "fullscreen.font_settings.local_font_process_explainer_part_2": {
+        "string": "Web浏览器仅与域的请求相应的进程通信。请记住，进程将在后台运行，直到您指示停止。程序非常轻量，不会消耗计算机资源。"
     },
-    "payments_modal.these_files": {
-        "string": "these files"
+    "fullscreen.font_settings.what_s_going_on": {
+        "string": "发生了什么事？"
     }
 }

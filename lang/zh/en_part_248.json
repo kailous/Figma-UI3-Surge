@@ -1,152 +1,152 @@
 {
-    "fullscreen.pages_panel.all_n_free_pages_used": {
-        "string": "All {maxFreePages} free pages used."
+    "file_access_row.expiration.custom_expiration_options_for_org_enforcement_24hrs": {
+        "string": "{num, plural, other {{num}時間}}"
     },
-    "fullscreen.pages_panel.all_free_pages_used": {
-        "string": "All free pages used."
+    "file_access_row.expiration.custom_expiration_options_for_org_enforcement_24hrs_label": {
+        "string": "{num, plural, other {{num}時間後}}"
     },
-    "fullscreen.msal_onboarding.header_with_shortcut": {
-        "string": "Next time, try {msalShortcut}"
+    "file_access_row.expiration.custom_time": {
+        "string": "時間を指定"
     },
-    "fullscreen.msal_onboarding.body": {
-        "string": "It’s auto layout, done quick. Figma will figure out the frames you need—then make them for you."
+    "file_access_row.expiration.date.timestamp": {
+        "string": "{date}{time}"
     },
-    "design_systems.component_properties.see_all_layers": {
-        "string": "See all layers"
+    "file_access_row.expiration.invalid_options": {
+        "string": "時間を設定するには、後の日付を選択してください。"
     },
-    "recordings.delete_recording_confirmation": {
-        "string": "Are you sure you want to delete this recording?"
+    "file_access_row.expiration.org_enforcement_message_v2": {
+        "string": "{orgName}の設定により、{time}前にアクセスを終了する必要があります。"
     },
-    "recordings.recording_deleted": {
-        "string": "Recording deleted"
+    "file_access_row.expiration.past_date": {
+        "string": "まだ過ぎていない日付を入力してください。"
     },
-    "fullscreen.properties_panel.volume": {
-        "string": "Volume"
+    "file_access_row.expiration.past_max": {
+        "string": "1年を超える有効期間は設定できません。"
     },
-    "collaboration.voice.audio_input_too_low_warning": {
-        "string": "Mic volume low. Consider switching devices."
+    "file_access_row.expiration.past_org_limit_days": {
+        "string": "{count, plural, other {組織で設定されている有効期間は最長{count}日間です。}}"
     },
-    "collaboration.voice.speaker_volume_too_low_warning": {
-        "string": "Speaker or headphone volume low. Consider switching devices."
+    "file_access_row.expiration.past_org_limit_hours": {
+        "string": "{count, plural, other {組織で設定されている有効期間は最長{count}時間です。}}"
     },
-    "collaboration.voice.poor_connection_warning": {
-        "string": "Connection is poor. Check your internet or leave and rejoin the conversation."
+    "file_access_row.expiration.prototype_access_ends": {
+        "string": "他のすべてのユーザーのプロトタイプへのアクセス期限"
     },
-    "collaboration.voice.connected": {
-        "string": "Connected"
+    "file_access_row.expiration.remove": {
+        "string": "有効期限を削除"
     },
-    "collaboration.voice.connected_check_your_microphone_permissions_to_start_chatting": {
-        "string": "Connected. Check your microphone permissions to start chatting."
+    "file_access_row.expiration.set": {
+        "string": "設定"
     },
-    "collaboration.voice.connecting": {
-        "string": "Connecting…"
+    "file_access_row.expiration.set_link_access": {
+        "string": "リンクのアクセス権を設定"
     },
-    "collaboration.voice.something_went_wrong_try_again": {
-        "string": "Something went wrong. Try again?"
+    "file_access_row.expiration.testing": {
+        "string": "20秒(テストのみ)"
     },
-    "collaboration.voice.things_got_quiet_for_awhile_so_we_ended_the_conversation": {
-        "string": "Things got quiet for a while, so we ended the conversation."
+    "file_access_row.external_users_can_view_this_file_but_need_admin_approval_to_edit": {
+        "string": "外部ユーザーはこのファイルを閲覧できますが、編集するには管理者の承認が必要です"
     },
-    "collaboration.voice.it_s_been_quiet_for_a_while_so_we_ll_end_the_conversation_in_20_seconds_n_click_to_stay_on": {
-        "string": "It’s been quiet for a while so we’ll end the conversation in 20 seconds.\nClick to stay on."
+    "file_access_row.only_editors_can_invite_people_to_this_file.seat_rename": {
+        "string": "このファイルにユーザーを招待できるのは、編集アクセス権のあるユーザーだけです"
     },
-    "collaboration.voice.audio_has_timed_out_click_to_rejoin": {
-        "string": "Audio has timed out. Click to rejoin."
+    "file_access_row.only_people_invited_to_this_noun": {
+        "string": "この{noun}に招待されたユーザーのみ"
     },
-    "collaboration.voice.joined": {
-        "string": "joined"
+    "file_access_row.org_name_members_have_emails_at_emails_list_show_less": {
+        "string": "{orgName}のメンバーは{emailsList}のメールアドレスを持っています。{showLess}"
     },
-    "collaboration.voice.left": {
-        "string": "left"
+    "file_access_row.orgname_members_have_emails_at_first_domain_plus_others": {
+        "string": "{domainCount, plural, other {{orgName}のメンバーは、{firstDomain}のメールアドレスを持っています。{remainingDomainCountLink}}}"
     },
-    "collaboration.voice.enable_mic_access_in_your_browser_to_join": {
-        "string": "Enable mic access in your browser to join"
+    "file_access_row.passwords.add_a_password": {
+        "string": "パスワードを追加"
     },
-    "collaboration.voice.enable_mic_access_for_the_figma_app_to_join": {
-        "string": "Enable mic access for the Figma App to join"
+    "file_access_row.passwords.copied": {
+        "string": "コピーされました!"
     },
-    "collaboration.voice.want_to_unmute_click_the_mic": {
-        "string": "Want to unmute? Click the mic."
+    "file_access_row.passwords.generate": {
+        "string": "生成"
     },
-    "collaboration.voice.couldn_t_leave_please_try_again": {
-        "string": "Couldn’t leave. Please try again."
+    "file_access_row.remaining_domain_count_more": {
+        "string": "+ 他{remainingDomainCount}個"
     },
-    "collaboration.voice.figma_audio_won_t_work_on_your_device_learn_why": {
-        "string": "Figma audio won’t work on your device. Learn why"
+    "file_access_row.show_less": {
+        "string": "表示数を減らす"
     },
-    "collaboration.voice.attempting_to_reconnect": {
-        "string": "Attempting to reconnect…"
+    "file_audience_row.anyone_with_password": {
+        "string": "パスワードを知っている全員"
     },
-    "collaboration.voice.new_transcripts": {
-        "string": "↓ New transcripts"
+    "file_audience_row.editors_from_the_main_file_can_also_access": {
+        "string": "メインファイルの編集者もアクセス可能"
     },
-    "collaboration.voice.closed_captions": {
-        "string": "Closed Captions"
+    "file_audience_row.settings_are_managed_in_the_main_file": {
+        "string": "設定はメインファイルで管理されています"
     },
-    "collaboration.voice.small": {
-        "string": "Small"
+    "file_audience_row.viewers_and_editors_from_the_main_file_can_also_access": {
+        "string": "メインファイルの閲覧者と編集者もアクセス可能"
     },
-    "collaboration.voice.medium": {
-        "string": "Medium"
+    "file_info_row.anyone_with_access_to_the_main_file_can_access_this_branch": {
+        "string": "メインファイルへのアクセス権があるすべてのユーザーが、このブランチにアクセスできます。"
     },
-    "collaboration.voice.large": {
-        "string": "Large"
+    "file_info_row.branch": {
+        "string": "ブランチ"
     },
-    "collaboration.voice.x_large": {
-        "string": "X Large"
+    "file_info_row.everyone_at_team_name_can_access_this_noun": {
+        "string": "{teamName}のすべてのメンバーが、この{noun}にアクセスできます。"
     },
-    "collaboration.voice.beta": {
-        "string": "Beta"
+    "file_info_row.file": {
+        "string": "ファイル"
     },
-    "collaboration.voice.text_size": {
-        "string": "Text size"
+    "file_info_row.invite_only_members_of_team_name_cannot_view_this_noun": {
+        "string": "招待限定 – {teamName}のメンバーは、この{noun}を閲覧できません。"
     },
-    "collaboration.voice.microphone": {
-        "string": "Microphone"
+    "file_info_row.members_of_folder_name_can_access_this_noun": {
+        "string": "{folderName}のメンバーは、この{noun}にアクセスできます。"
     },
-    "collaboration.voice.speakers": {
-        "string": "Speakers"
+    "file_info_row.members_of_this_project_or_team_can_access_this_noun": {
+        "string": "このプロジェクトまたはチームのメンバーは、この{noun}にアクセスできます。"
     },
-    "collaboration.voice.closed_captioning": {
-        "string": "Closed captioning"
+    "file_permissions.disable_folder_access.cancel": {
+        "string": "キャンセル"
     },
-    "collaboration.voice.setting_up_closed_captions_install_progress": {
-        "string": "Setting up closed captions… {installProgress}%"
+    "file_permissions.disable_folder_access.folder_name": {
+        "string": "{folderName}"
     },
-    "collaboration.voice.learn_how_to_turn_on_closed_captioning": {
-        "string": "Learn how to turn on closed captioning"
+    "file_permissions.disable_folder_access.keep_in_mind_that_member_of_the_folder_name_project_may_lose_access": {
+        "string": "{folderNameBolded}プロジェクトのメンバーがこのファイルへのアクセス権を失う場合があります。いつでも、もう一度アクセスを許可できます。"
     },
-    "collaboration.voice.error_fetching_devices": {
-        "string": "Error fetching devices"
+    "file_permissions.disable_folder_access.remove": {
+        "string": "削除"
     },
-    "collaboration.voice.error_selecting_device": {
-        "string": "Error selecting device"
+    "file_permissions.disable_folder_access.remove_access": {
+        "string": "アクセス権を削除"
     },
-    "collaboration.voice.microphone_not_found": {
-        "string": "Microphone not found"
+    "file_permissions.disable_folder_access.remove_folder_names_access": {
+        "string": "{folderName}のアクセス権を削除"
     },
-    "collaboration.voice.playback_device_not_found": {
-        "string": "Playback device not found"
+    "file_permissions.enable_folder_access.cancel": {
+        "string": "キャンセル"
     },
-    "collaboration.voice.audio_settings": {
-        "string": "Audio settings"
+    "file_permissions.enable_folder_access.folder_name": {
+        "string": "{folderName}"
     },
-    "canvas_search.replace_one": {
-        "string": "Replace"
+    "file_permissions.enable_folder_access.give_access": {
+        "string": "アクセスを許可"
     },
-    "canvas_search.replace_all": {
-        "string": "Replace all"
+    "file_permissions.enable_folder_access.give_access_to_the_folder": {
+        "string": "{folderName}フォルダへのアクセスを許可"
     },
-    "canvas_search.replace_placeholder": {
-        "string": "Replace with…"
+    "file_permissions.enable_folder_access.team_name": {
+        "string": "{teamName}"
     },
-    "canvas_search.replace_all_message_figjam": {
-        "string": "{count, plural, one {Replaced {count} result} other {Replaced {count} results}}"
+    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_with_team_access": {
+        "string": "{folderNameBolded}の全メンバーと{teamNameBolded}チーム({folderNameBolded}が存在)のメンバーを招待します。メンバーはこのファイルへのアクセス権を取得し、すでに持っているフォルダ権限をすべて保持します。\n\nこのファイルへの{folderNameBolded}のアクセス権はいつでも削除できます。"
     },
-    "canvas_search.replace_all_message": {
-        "string": "{count, plural, one {Replaced {count} result on this page} other {Replaced {count} results on this page}}"
+    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_without_team_access": {
+        "string": "{folderNameBolded}の全メンバーを招待します。メンバーはこのファイルへのアクセス権を取得し、すでに持っているフォルダ権限をすべて保持します。\n\nこのファイルへの{folderNameBolded}のアクセス権はいつでも削除できます。"
     },
-    "canvas_search.replace_all_message_all_pages": {
-        "string": "{count, plural, one {Replaced {count} result in this file} other {Replaced {count} results in this file}}"
+    "file_permissions.generic_error": {
+        "string": "このファイルの更新中にエラーが発生しました。"
     }
 }

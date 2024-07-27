@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.color_picker.blend_mode_select.linear_burn": {
-        "string": "Plus darker"
+    "subscription.error.team_is_not_subscribed": {
+        "string": "团队没有订阅"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.color_burn": {
-        "string": "Color burn"
+    "subscription.error.team_not_paid_team": {
+        "string": "此团队不是付费团队。"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.lighten": {
-        "string": "Lighten"
+    "subscription.error.the_currency_entered_is_not_supported": {
+        "string": "输入的货币不受支持"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.screen": {
-        "string": "Screen"
+    "subscription.error.this_cards_currency_isnt_in_please_choose_a_new_payment_method": {
+        "string": "此卡的货币不是{selected_currency}。请选择新的付款方式或切换货币。"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.linear_dodge": {
-        "string": "Plus lighter"
+    "subscription.error.upgrade_team_must_have_at_least_one_editor": {
+        "string": "升级团队需要至少一名编辑者"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.color_dodge": {
-        "string": "Color dodge"
+    "subscription.error.upgrade_team_must_have_at_least_one_editor.seat_rename": {
+        "string": "升级团队需要添加至少一个付费席位"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.overlay": {
-        "string": "Overlay"
+    "subscription.error.you_can_only_reactive_your_team_subscription_in": {
+        "string": "您只能在{currency}中重新激活团队订阅。请确保您的付款信息支持{currency}。"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.soft_light": {
-        "string": "Soft light"
+    "subscription.error.you_cannot_change_your_card_at_this_time_please_contact_support": {
+        "string": "目前无法更改您的卡。请联系支持团队。"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.hard_light": {
-        "string": "Hard light"
+    "subscription.error.your_payment_method_address_cant_pay_selected_currency": {
+        "string": "付款方式的地址国家不支持{selected_currency}付款。请使用其他付款方式或切换到美元付款。"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.difference": {
-        "string": "Difference"
+    "subscription.error.your_payment_method_address_is_different_from_your_location": {
+        "string": "付款方式的地址国家与您的位置不同。请使用其他付款方式。"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.exclusion": {
-        "string": "Exclusion"
+    "sites.new-layout-set-name": {
+        "string": "网页"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.hue": {
-        "string": "Hue"
+    "design_systems.states_panel.default_property_name": {
+        "string": "属性{index}"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.saturation": {
-        "string": "Saturation"
+    "design_systems.states_panel.default_property_value_indexed": {
+        "string": "变体{index}"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.color": {
-        "string": "Color"
+    "design_systems.states_panel.custom_property_value_indexed": {
+        "string": "{propertyName}{index}"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.luminosity": {
-        "string": "Luminosity"
+    "tax.vat.invalid_vat_gst": {
+        "string": "VAT/GST ID无效"
     },
-    "fullscreen.properties_panel.gif": {
-        "string": "GIF"
+    "tax.vat.invalid_vat_gst_format": {
+        "string": "VAT/GST ID格式无效"
     },
-    "fullscreen.properties_panel.linear": {
-        "string": "Linear"
+    "tax.vat.unsupported_vat_gst_country": {
+        "string": "VAT/GST不支持该国家"
     },
-    "fullscreen.properties_panel.radial": {
-        "string": "Radial"
+    "templates.sinatra.file.template_image_not_found": {
+        "string": "找不到模板图片"
     },
-    "fullscreen.properties_panel.angular": {
-        "string": "Angular"
+    "templates.sinatra.file.template_image_too_large": {
+        "string": "模板图片超过最大尺寸"
     },
-    "fullscreen.properties_panel.diamond": {
-        "string": "Diamond"
+    "templates.sinatra.invalid_signature": {
+        "string": "无效的签名"
     },
-    "fullscreen.properties_panel.image_scale.fill": {
-        "string": "Fill"
+    "external_collaboration_restricted.banner.export_file": {
+        "string": "导出文件"
     },
-    "fullscreen.properties_panel.image_scale.fit": {
-        "string": "Fit"
+    "external_collaboration_restricted.banner.restriction_description": {
+        "string": "管理员设置不允许从{organizationName}外部编辑文件（包括外部团队的文件）。要继续编辑，请将文件导出到其他帐户。"
     },
-    "fullscreen.properties_panel.image_scale.crop": {
-        "string": "Crop"
+    "external_collaboration_restricted.banner.restriction_description.no_org": {
+        "string": "管理员设置不允许从组织外部编辑文件（包括外部团队的文件）。要继续编辑，请将文件导出到其他帐户。"
     },
-    "fullscreen.properties_panel.image_scale.tile": {
-        "string": "Tile"
+    "external_collaboration_restricted.banner.title": {
+        "string": "编辑已锁定"
     },
-    "fullscreen.properties_panel.constraints.left": {
-        "string": "Left"
+    "external_collaboration_restricted.description": {
+        "string": "组织成员不允许接受来自{orgName}以外的文件、项目、团队和组织的邀请。如有疑问，请联系组织管理员。"
     },
-    "fullscreen.properties_panel.constraints.right": {
-        "string": "Right"
+    "external_collaboration_restricted.go_back": {
+        "string": "返回主页"
     },
-    "fullscreen.properties_panel.constraints.left_and_right": {
-        "string": "Left and right"
+    "external_collaboration_restricted.header": {
+        "string": "无法访问此内容"
     },
-    "fullscreen.properties_panel.constraints.center": {
-        "string": "Center"
+    "external_collaboration_restricted.members.tooltip.v2": {
+        "string": "无法升级此访客。{eccDomain}限制了组织对外部内容的访问。"
     },
-    "fullscreen.properties_panel.constraints.scale": {
-        "string": "Scale"
+    "external_page.try_figjam.blog": {
+        "string": "博客"
     },
-    "fullscreen.properties_panel.constraints.top": {
-        "string": "Top"
+    "external_page.try_figjam.careers": {
+        "string": "招聘信息"
     },
-    "fullscreen.properties_panel.constraints.bottom": {
-        "string": "Bottom"
+    "external_page.try_figjam.contact": {
+        "string": "联系我们"
     },
-    "fullscreen.properties_panel.constraints.top_and_bottom": {
-        "string": "Top and bottom"
+    "external_page.try_figjam.developers": {
+        "string": "开发者"
     },
-    "fullscreen.properties_panel.effects.inner_shadow": {
-        "string": "Inner shadow"
+    "external_page.try_figjam.downloads": {
+        "string": "下载"
     },
-    "fullscreen.properties_panel.effects.drop_shadow": {
-        "string": "Drop shadow"
+    "external_page.try_figjam.education": {
+        "string": "教育"
     },
-    "fullscreen.properties_panel.effects.layer_blur": {
-        "string": "Layer blur"
+    "external_page.try_figjam.enterprise": {
+        "string": "企业"
     },
-    "fullscreen.properties_panel.effects.background_blur": {
-        "string": "Background blur"
+    "external_page.try_figjam.fig_jam": {
+        "string": "FigJam"
     },
-    "proto.node_name_formatter.none": {
-        "string": "None"
+    "external_page.try_figjam.learn": {
+        "string": "学习"
     },
-    "proto.node_name_formatter.missing": {
-        "string": "(missing)"
+    "external_page.try_figjam.legal": {
+        "string": "法律"
     },
-    "slides.properties_panel.slide_transition.option.none": {
-        "string": "None"
+    "external_page.try_figjam.pricing": {
+        "string": "定价"
     },
-    "proto.transition_behavior.instant": {
-        "string": "Instant"
+    "external_page.try_figjam.releases": {
+        "string": "发布"
     },
-    "proto.transition_behavior.dissolve": {
-        "string": "Dissolve"
+    "external_page.try_figjam.security": {
+        "string": "安全"
     },
-    "proto.transition_behavior.push": {
-        "string": "Push"
+    "fake_mp.modal.apply": {
+        "string": "应用"
     },
-    "proto.transition_behavior.move_in": {
-        "string": "Move in"
+    "fake_mp.modal.center": {
+        "string": "中心"
     },
-    "proto.transition_behavior.move_out": {
-        "string": "Move out"
+    "fake_mp.modal.center_x": {
+        "string": "X"
     },
-    "proto.transition_behavior.slide_in": {
-        "string": "Slide in"
+    "fake_mp.modal.center_y": {
+        "string": "Y"
     },
-    "proto.transition_behavior.slide_out": {
-        "string": "Slide out"
+    "fake_mp.modal.clients": {
+        "string": "客户数量"
     },
-    "proto.transition_behavior.smart_animate": {
-        "string": "Smart animate"
+    "fake_mp.modal.cursors": {
+        "string": "光标移动"
     },
-    "proto.transition_behavior.animate": {
-        "string": "Animate"
+    "fake_mp.modal.frequency": {
+        "string": "更新频率"
     },
-    "proto.action_none": {
-        "string": "None"
+    "fake_mp.modal.reset": {
+        "string": "重置"
     },
-    "proto.action_navigate_to": {
-        "string": "Navigate to"
+    "fake_mp.modal.steps": {
+        "string": "动画步数"
     }
 }

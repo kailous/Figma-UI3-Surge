@@ -1,152 +1,152 @@
 {
-    "folder_permissions.confirm_remove_team_access.remove_team_name": {
-        "string": "Remove {teamName}"
+    "fullscreen.toolbar.integ_zoom.beta": {
+        "string": "测试版"
     },
-    "folder_permissions.confirm_enable_team_access.add_team_name": {
-        "string": "Add {teamName}"
+    "fullscreen.toolbar.log_in": {
+        "string": "登录"
     },
-    "file_access_row.anyone_else_with_a_prototype_link": {
-        "string": "Anyone else with a prototype link"
+    "fullscreen.toolbar.log_in_or_create_an_account": {
+        "string": "登录或创建账户"
     },
-    "file_access_row.add_expiration_for_link_access": {
-        "string": "Add link expiration"
+    "fullscreen.toolbar.log_in_or_create_an_account_to_get_a_copy_of": {
+        "string": "要获取{file}的副本，请登录或创建账户"
     },
-    "file_access_row.can_view_prototypes": {
-        "string": "can view prototypes"
+    "fullscreen.toolbar.log_in_to_do_more_with_figjam": {
+        "string": "请登录以在FigJam中进行更多操作"
     },
-    "file_access_row.cannot_access": {
-        "string": "cannot access"
+    "fullscreen.toolbar.missing_fonts": {
+        "string": "缺少字体"
     },
-    "rcs.autogen_password_onboarding.body.optional": {
-        "string": "For extra security, you can use an auto-generated password when sharing a public link. Just click the refresh icon in the password field."
+    "fullscreen.toolbar.missing_fonts_modal.all_pages": {
+        "string": "所有页面"
     },
-    "rcs.autogen_password_onboarding.body": {
-        "string": "Passwords on public links are now auto-generated, making sharing more secure. Existing passwords won’t change unless they’re reset."
+    "fullscreen.toolbar.missing_fonts_modal.cancel": {
+        "string": "取消"
     },
-    "rcs.autogen_password_onboarding.header": {
-        "string": "Security made easy with auto-generated passwords"
+    "fullscreen.toolbar.missing_fonts_modal.close": {
+        "string": "关闭"
     },
-    "rcs.expiring_links_onboarding.header": {
-        "string": "Set an expiration time for public links"
+    "fullscreen.toolbar.missing_fonts_modal.current_page": {
+        "string": "当前页面"
     },
-    "rcs.expiring_links_onboarding.body": {
-        "string": "Choose how long people can access your public links by setting an expiration. After expiring, files switch to their previous private settings."
+    "fullscreen.toolbar.missing_fonts_modal.finding_missing_fonts": {
+        "string": "正在查找缺少的字体"
     },
-    "onboarding_pointers.got_it": {
-        "string": "Got it"
+    "fullscreen.toolbar.missing_fonts_modal.font_name_family_font_name_style": {
+        "string": "{fontFamily}，{fontStyle}"
     },
-    "repo_password_confirmation_modal.any_password_you_set_for_this_main_file_will_also_apply_to_its_branches": {
-        "string": "Any password you set for this main file will also apply to its branches."
+    "fullscreen.toolbar.missing_fonts_modal.font_styles_not_available": {
+        "string": "以下字体样式不可用。请选择替代字体以编辑文本。"
     },
-    "repo_password_confirmation_modal.set_a_password_for_this_file": {
-        "string": "Set a password for this file?"
+    "fullscreen.toolbar.missing_fonts_modal.fonts_and_font_styles_not_available": {
+        "string": "以下字体/字体样式不可用。请选择替代字体以编辑文本。"
     },
-    "repo_password_confirmation_modal.set_password": {
-        "string": "Set password"
+    "fullscreen.toolbar.missing_fonts_modal.fonts_not_available": {
+        "string": "以下字体不可用。请选择替代字体以编辑文本。"
     },
-    "file_access_row.passwords.copied": {
-        "string": "Copied!"
+    "fullscreen.toolbar.missing_fonts_modal.missing_font": {
+        "string": "缺少字体"
     },
-    "permissions.link_autogen_password_copy": {
-        "string": "Copy"
+    "fullscreen.toolbar.missing_fonts_modal.missing_fonts": {
+        "string": "缺少字体"
     },
-    "file_access_row.expiration.cancel": {
-        "string": "Cancel"
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.admin.link": {
+        "string": "升级"
     },
-    "file_access_row.expiration.set": {
-        "string": "Set"
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.admin.text": {
+        "string": "商业计划允许您在所有团队中共享字体。{upgradeLink}"
     },
-    "permissions.link_autogen_password_change": {
-        "string": "Change"
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.nonadmin.link": {
+        "string": "了解更多"
     },
-    "file_access_row.passwords.add_a_password": {
-        "string": "Add a password"
+    "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.nonadmin.text": {
+        "string": "升级到商业计划可以在所有团队中共享字体。{learnMoreLink}"
     },
-    "file_access_row.expiration.org_enforcement_message_v2": {
-        "string": "{orgName} requires access to end before {time}."
+    "fullscreen.toolbar.missing_fonts_modal.replace_fonts": {
+        "string": "替换字体"
     },
-    "file_access_row.expiration.set_link_access": {
-        "string": "Set link access"
+    "fullscreen.toolbar.missing_fonts_modal.replacement": {
+        "string": "替代字体"
     },
-    "file_access_row.expiration.prototype_access_ends": {
-        "string": "Prototype access ends for everyone else"
+    "fullscreen.toolbar.missing_fonts_modal.select_items_count_using_this_font": {
+        "string": "选择使用此字体的{numItems}个项目"
     },
-    "file_access_row.expiration.access_ends": {
-        "string": "Access ends"
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.download": {
+        "string": "请从Apple下载SF Pro字体并安装到您的计算机上。"
     },
-    "permissions_modal.file_share_settings.org_requires_access_to_end": {
-        "string": "{orgName} requires access to end before {date}. Afterward, access goes back to {prevLinkAccess}."
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.download_action": {
+        "string": "下载SF Pro"
     },
-    "permissions_modal.file_share_settings.expires_on_date": {
-        "string": "Expires on {date}. Afterward, access goes back to {prevLinkAccess}."
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.learn_more": {
+        "string": "了解更多"
     },
-    "file_access_row.expiration.24_hours": {
-        "string": "24 hours"
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.learn_more_help": {
+        "string": "在帮助中心了解更多"
     },
-    "file_access_row.expiration.7_days": {
-        "string": "7 days"
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.refresh_page": {
+        "string": "安装SF Pro字体后，请刷新页面以开始使用这些字体。"
     },
-    "file_access_row.expiration.custom_time": {
-        "string": "Custom time"
+    "fullscreen.toolbar.missing_fonts_modal.sf_pro.refresh_page_action": {
+        "string": "刷新页面"
     },
-    "file_access_row.expiration.testing": {
-        "string": "20 seconds (TESTING ONLY)"
+    "fullscreen.toolbar.multiplayer.all_users": {
+        "string": "所有多玩家用户"
     },
-    "permissions_modal.file_share_settings.one_day": {
-        "string": "1 day"
+    "fullscreen.toolbar.multiplayer.enter_a_name": {
+        "string": "输入名称"
     },
-    "permissions_modal.file_share_settings.one_week": {
-        "string": "1 week"
+    "fullscreen.toolbar.multiplayer.follow_a_name": {
+        "string": "跟随{name}"
     },
-    "permissions_modal.file_share_settings.custom_time": {
-        "string": "Custom time"
+    "fullscreen.toolbar.multiplayer.more_options": {
+        "string": "更多选项"
     },
-    "file_access_row.expiration.remove": {
-        "string": "Remove expiration"
+    "fullscreen.toolbar.multiplayer.more_users": {
+        "string": "更多用户"
     },
-    "file_access_row.expiration.invalid_options": {
-        "string": "Pick a later date to set a time."
+    "fullscreen.toolbar.multiplayer.multiplayer_tools": {
+        "string": "多玩家工具"
     },
-    "file_access_row.expiration.past_date": {
-        "string": "Enter a date that hasn’t already passed."
+    "fullscreen.toolbar.multiplayer.open_session_in_progress": {
+        "string": "正在进行中的开放会话"
     },
-    "file_access_row.expiration.past_max": {
-        "string": "You can't set an expiration that's longer than one year."
+    "fullscreen.toolbar.multiplayer.share": {
+        "string": "分享"
     },
-    "file_access_row.expiration.custom_expiration_options_for_org_enforcement_24hrs_label": {
-        "string": "{num, plural, one {in {num} hour} other {in {num} hours}}"
+    "fullscreen.toolbar.multiplayer.sharing_disabled_for_personal_drafts": {
+        "string": "要共享此文件，请将其移至新主页。"
     },
-    "file_access_row.expiration.custom_expiration_options_for_org_enforcement_24hrs": {
-        "string": "{num, plural, one {{num} hour} other {{num} hours}}"
+    "fullscreen.toolbar.multiplayer.sharing_disabled_visit_drafts_to_move_link": {
+        "string": "访问“需要移动的草稿”"
     },
-    "permissions_modal.file_share_settings.anyone_in_container_can_edit": {
-        "string": "Anyone in {containerName} can edit"
+    "fullscreen.toolbar.multiplayer.sharing_disabled_while_file_is_being_moved": {
+        "string": "此文件正在移动中。共享设置很快就会可用。"
     },
-    "permissions_modal.file_share_settings.anyone_in_container_can_view": {
-        "string": "Anyone in {containerName} can view"
+    "fullscreen.toolbar.multiplayer.sharing_fig_jam_files_disabled_by_your_organization": {
+        "string": "组织已禁用FigJam文件的共享"
     },
-    "permissions_modal.file_share_settings.only_invited_people": {
-        "string": "Only invited people"
+    "fullscreen.toolbar.multiplayer.sharing_sites_files_disabled_in_alpha": {
+        "string": "在alpha期间无法共享站点文件"
     },
-    "confirm_remove_expiration_modal.body.set_by_valid_user": {
-        "string": "{name} set an expiration for this public link to only allow temporary access to it. You may want to give people a heads up before removing it."
+    "fullscreen.toolbar.multiplayer.sharing_slides_files_disabled_by_your_organization": {
+        "string": "组织已禁用在Figma Slides中共享幻灯片"
     },
-    "confirm_remove_expiration_modal.body.set_by_missing_user": {
-        "string": "An expiration was set for this public link to only allow temporary access to it. You may want to give people a heads up before removing it."
+    "fullscreen.toolbar.mute-audio-button": {
+        "string": "静音"
     },
-    "confirm_remove_expiration_modal.header": {
-        "string": "Remove this expiration?"
+    "fullscreen.toolbar.pending-edit-request-tooltip": {
+        "string": "此文件的任何编辑者都可以授予访问权限"
     },
-    "confirm_remove_expiration_modal.confirmation": {
-        "string": "Remove expiration"
+    "fullscreen.toolbar.pending-org-join-request-tooltip": {
+        "string": "在{orgName}组织批准您的加入请求之前，编辑功能不可用"
     },
-    "permissions.guests_banned.invite_wasnt_sent_org_name": {
-        "string": "{numEmails, plural, one {Your invite to {listEmails} wasn’t sent. The {orgName} organization doesn’t allow sharing with external users.} other {Your invites to {listEmails} weren’t sent. The {orgName} organization doesn’t allow sharing with external users.}}"
+    "fullscreen.toolbar.prototyping-add-interactions-tooltip": {
+        "string": "创建原型（AI测试版）"
     },
-    "permissions.invites_require_access.invites_sent_but_will_require_access_org_name": {
-        "string": "{numEmails, plural, one {We've sent the invite to {listEmails}, but they'll need to request access to the {orgName} organization before they can access this {resourceType}.} other {We've sent the invites to {listEmails}, but they'll need to request access to the {orgName} organization before they can access this {resourceType}.}}"
+    "fullscreen.toolbar.prototyping-visibility": {
+        "string": "原型可见性"
     },
-    "permissions.invites_require_access.we_ll_connect_them_with_an_admin_who_can_help": {
-        "string": "We’ll connect them with an admin who can help."
+    "fullscreen.toolbar.reminder_sent": {
+        "string": "已发送提醒"
     }
 }

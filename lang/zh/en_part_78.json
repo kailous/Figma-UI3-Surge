@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_node_treatments.property.shape_user_height": {
-        "string": "Shape user height"
+    "community.seller.collect_tax_info_modal.title": {
+        "string": "开始吧"
     },
-    "collaboration.branching_node_treatments.property.stamp_data": {
-        "string": "Stamp data"
+    "community.seller.community_payout_statements": {
+        "string": "社区支付明细"
     },
-    "collaboration.branching_node_treatments.property.embed_data": {
-        "string": "Embed data"
+    "community.seller.currency_symbol": {
+        "string": "$"
     },
-    "collaboration.branching_node_treatments.property.link_preview_data": {
-        "string": "Link preview data"
+    "community.seller.discount_must_follow_format": {
+        "string": "必须为整数"
     },
-    "collaboration.branching_node_treatments.property.rich_media_data": {
-        "string": "Rich media data"
+    "community.seller.earned_this_month": {
+        "string": "本月收入"
     },
-    "collaboration.branching_node_treatments.property.shape_truncates": {
-        "string": "Shape truncates"
+    "community.seller.email_where_users_can_contact_you": {
+        "string": "用户可以联系你的电子邮件地址"
     },
-    "collaboration.branching_node_treatments.property.section_contents_hidden": {
-        "string": "Section contents hidden"
+    "community.seller.few_steps_left_stripe": {
+        "string": "看起来你还有几步需要完成才能在社区中出售资源。要继续吗？"
     },
-    "collaboration.branching_node_treatments.property.border_stroke_weights_independent": {
-        "string": "Border stroke weights independent"
+    "community.seller.finish_set_up": {
+        "string": "完成设置"
     },
-    "collaboration.branching_node_treatments.property.variables": {
-        "string": "Variables"
+    "community.seller.finish_stripe_setup": {
+        "string": "完成Stripe设置"
     },
-    "collaboration.branching_node_treatments.property.document_color_profile": {
-        "string": "Document color profile"
+    "community.seller.finish_stripe_setup_button": {
+        "string": "完成Stripe设置"
     },
-    "collaboration.branching_node_treatments.property.html_tag": {
-        "string": "HTML tag"
+    "community.seller.freemium_file_publish_info_banner": {
+        "string": "用户可以在不购买文件的情况下预览文件的第一页。"
     },
-    "collaboration.branching_node_treatments.property.aria_role": {
-        "string": "ARIA Role"
+    "community.seller.freemium_file_publish_info_banner_with_page_name": {
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。"
     },
-    "collaboration.branching_node_treatments.property.accessible_label": {
-        "string": "Accessible label"
+    "community.seller.freemium_file_publish_warning_with_page_name": {
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。如果要对此文件收费，建议添加页面。"
     },
-    "collaboration.branching_node_treatments.property.aria_attributes": {
-        "string": "ARIA Attributes"
+    "community.seller.freemium_publishing_temporarily_restricted": {
+        "string": "使用Payments API更新资源当前仅限特定资源。有关详细信息，请联系support@figma.com。"
     },
-    "collaboration.branching_node_treatments.value.color_stop_index": {
-        "string": "Color stop {index}"
+    "community.seller.freemium_required_for_migration": {
+        "string": "要迁移资源，必须在清单权限中启用Payments API。"
     },
-    "collaboration.branching_node_treatments.value.color_stop": {
-        "string": "{colorValue} at {percentage}"
+    "community.seller.give_yearly_discount": {
+        "string": "提供年度折扣"
     },
-    "collaboration.branching_node_treatments.value.emoji": {
-        "string": "Emoji"
+    "community.seller.good_news": {
+        "string": "好消息！"
     },
-    "collaboration.branching_node_treatments.value.gradient_angular": {
-        "string": "Gradient angular"
+    "community.seller.head_back_to_figma_to_start_selling": {
+        "string": "返回Figma开始销售资源"
     },
-    "collaboration.branching_node_treatments.value.gradient_diamond": {
-        "string": "Gradient diamond"
+    "community.seller.last_updated_on": {
+        "string": "上次更新于{date}"
     },
-    "collaboration.branching_node_treatments.value.gradient_linear": {
-        "string": "Gradient linear"
+    "community.seller.monthly_subscription": {
+        "string": "每月订阅"
     },
-    "collaboration.branching_node_treatments.value.gradient_radial": {
-        "string": "Gradient radial"
+    "community.seller.no_payout_statements_yet": {
+        "string": "尚无支付明细。支付明细按月生成，请稍后再查看。"
     },
-    "collaboration.branching_node_treatments.value.image": {
-        "string": "Image"
+    "community.seller.one_time_payment": {
+        "string": "一次性支付"
     },
-    "collaboration.branching_node_treatments.value.solid": {
-        "string": "Solid"
+    "community.seller.only_explicit_owner_can_sell": {
+        "string": "必须是所有者才能在社区中销售资源。"
     },
-    "collaboration.branching_node_treatments.value.video": {
-        "string": "Video"
+    "community.seller.only_new_resources_can_be_sold_on_community": {
+        "string": "只能在社区中销售新资源。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.pass_through": {
-        "string": "Pass through"
+    "community.seller.only_you_can_see_your_file": {
+        "string": "在文件审核期间，只有你可以看到你的文件。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.normal": {
-        "string": "Normal"
+    "community.seller.only_you_can_see_your_plugin": {
+        "string": "在插件审核期间，只有你可以看到你的插件。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.darken": {
-        "string": "Darken"
+    "community.seller.only_you_can_see_your_widget": {
+        "string": "在小部件审核期间，只有你可以看到你的小部件。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.multiply": {
-        "string": "Multiply"
+    "community.seller.orgs_cannot_sell": {
+        "string": "由于你以组织身份发布，定价已被禁用。要销售此资源，请从外部团队发布。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.linear_burn": {
-        "string": "Plus darker"
+    "community.seller.paid_hub_file_publish_info_banner": {
+        "string": "用户可以在不购买文件的情况下预览文件的第一页。收费文件之后不能变为免费。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.color_burn": {
-        "string": "Color burn"
+    "community.seller.paid_hub_file_publish_info_banner_with_page_name": {
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。收费文件之后不能变为免费。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.lighten": {
-        "string": "Lighten"
+    "community.seller.paid_hub_file_publish_warning_with_page_name": {
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。如果要对此文件收费，建议添加页面。注意，设置收费后，之后不能变为免费。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.screen": {
-        "string": "Screen"
+    "community.seller.paid_resource_maximum_err": {
+        "string": "价格不能超过$999"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.linear_dodge": {
-        "string": "Plus lighter"
+    "community.seller.paid_resource_minimum_err": {
+        "string": "价格不能低于$2"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.color_dodge": {
-        "string": "Color dodge"
+    "community.seller.payment_type": {
+        "string": "支付类型"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.overlay": {
-        "string": "Overlay"
+    "community.seller.payout_statement_error": {
+        "string": "无法获取支付明细。请稍后再试或联系支持。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.soft_light": {
-        "string": "Soft light"
+    "community.seller.percent_discount": {
+        "string": "%折扣"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.hard_light": {
-        "string": "Hard light"
+    "community.seller.price": {
+        "string": "价格"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.difference": {
-        "string": "Difference"
+    "community.seller.price_can_only_be_increased_by_50_percent_once_every_30_days": {
+        "string": "价格每30天最多只能增加50%。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.exclusion": {
-        "string": "Exclusion"
+    "community.seller.price_can_only_be_increased_once_every_thirty_days": {
+        "string": "价格每30天只能增加一次。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.hue": {
-        "string": "Hue"
+    "community.seller.price_increase_limit": {
+        "string": "价格增加每个账单周期限制为50%。"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.saturation": {
-        "string": "Saturation"
+    "community.seller.prices_must_follow_format": {
+        "string": "价格必须为整数"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.color": {
-        "string": "Color"
+    "community.seller.pricing": {
+        "string": "定价"
     },
-    "collaboration.branching_node_treatments.value.blend_mode.luminosity": {
-        "string": "Luminosity"
+    "community.seller.pricing_is_disabled_because_your_organization_does_not_allow": {
+        "string": "由于你的组织不允许管理员发布个人资料，定价已被禁用。管理员可以在设置中更改此设置。{learnMoreLink}"
     },
-    "collaboration.branching_node_treatments.property.fill_type": {
-        "string": "Fill type"
+    "community.seller.pricing_toggle_text_for_already_paid_resources": {
+        "string": "已收费的资源不能变为免费。"
     },
-    "collaboration.branching_node_treatments.property.color": {
-        "string": "Color"
+    "community.seller.pricing_using_payments_api": {
+        "string": "由于此资源使用Payments API，不能关闭定价"
     },
-    "collaboration.branching_node_treatments.property.visibility": {
-        "string": "Visibility"
+    "community.seller.profiles.added_some_metrics": {
+        "string": "已为此非公开标签添加了一些指标，你可以查看资源的状态。"
     },
-    "collaboration.branching_node_treatments.value.on": {
-        "string": "On"
+    "community.seller.profiles.check_out_your_stats": {
+        "string": "查看你的统计"
     },
-    "collaboration.branching_node_treatments.value.off": {
-        "string": "Off"
+    "community.seller.profiles.metrics": {
+        "string": "指标"
     },
-    "collaboration.branching_node_treatments.property.image_filter": {
-        "string": "Image filter"
+    "community.seller.publish_disclaimer_for_paid_plugins": {
+        "string": "发布后，不能更改支付类型。设定收费后，资源不能变为免费。"
     },
-    "collaboration.branching_node_treatments.value.filter_applied": {
-        "string": "Filter applied"
+    "community.seller.purchases_label": {
+        "string": "{num, plural, other {购买数量}}"
     }
 }

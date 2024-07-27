@@ -1,152 +1,152 @@
 {
-    "whiteboard.inserts.plugin_recents": {
-        "string": "Recents"
+    "org_settings.autogen_password_controls.custom_passwords_description": {
+        "string": "可以手动创建密码或自动生成密码。"
     },
-    "whiteboard.inserts.development": {
-        "string": "Development"
+    "org_settings.autogen_password_controls.default": {
+        "string": "(默认)"
     },
-    "whiteboard.inserts.plugin_from_community": {
-        "string": "From Community"
+    "org_settings.autogen_password_controls.description": {
+        "string": "请选择文件密码的创建方式。"
     },
-    "community.buyer.update": {
-        "string": "Update"
+    "org_settings.autogen_password_controls.save": {
+        "string": "保存"
     },
-    "whiteboard.inserts.plugin_development_options_tooltip": {
-        "string": "Plugin options"
+    "org_settings.autogen_password_controls.success": {
+        "string": "密码保护设置已更新"
     },
-    "whiteboard.inserts.plugin_run_cta": {
-        "string": "Run"
+    "org_settings.autogen_password_controls.title": {
+        "string": "密码保护选项"
     },
-    "whiteboard.inserts.plugin_development_see_all": {
-        "string": "See all development plugins"
+    "org_settings.external_collaboration_controls.accept_invites": {
+        "string": "接受其他团队和组织的邀请，加入文件、项目、团队"
     },
-    "whiteboard.inserts.see_all": {
-        "string": "See all"
+    "org_settings.external_collaboration_controls.banner": {
+        "string": "此设置会影响用户对内容的访问。更改设置前请{let_org_know}。"
     },
-    "whiteboard.inserts.by_publisher": {
-        "string": "{numPublishers, plural, one {by {firstPublisherName}} other {by {firstPublisherName} {multiplePublisherSuffix}}}"
+    "org_settings.external_collaboration_controls.cancel": {
+        "string": "取消"
     },
-    "whiteboard.inserts.and_others": {
-        "string": "and others"
+    "org_settings.external_collaboration_controls.cannot": {
+        "string": "无法"
     },
-    "whiteboard.inserts.saved": {
-        "string": "Saved"
+    "org_settings.external_collaboration_controls.create": {
+        "string": "在其他团队或组织中创建草稿、文件或项目"
     },
-    "whiteboard.inserts.widgets_from_org": {
-        "string": "From {orgName}"
+    "org_settings.external_collaboration_controls.disable": {
+        "string": "禁用"
     },
-    "whiteboard.inserts.from_community": {
-        "string": "From Community"
+    "org_settings.external_collaboration_controls.enable": {
+        "string": "启用（默认）"
     },
-    "whiteboard.inserts.widget_options": {
-        "string": "Widget options"
+    "org_settings.external_collaboration_controls.header": {
+        "string": "外部内容访问"
     },
-    "whiteboard.inserts.see_all_development_widgets": {
-        "string": "See all development widgets"
+    "org_settings.external_collaboration_controls.let_org_know": {
+        "string": "通知组织"
     },
-    "whiteboard.inserts.faces_description": {
-        "string": "Stamp your team’s faces."
+    "org_settings.external_collaboration_controls.list_header_setting_off": {
+        "string": "允许成员访问{orgName}之外的内容时，他们将能够："
     },
-    "whiteboard.inserts.faces_search_placeholder": {
-        "string": "Search faces"
+    "org_settings.external_collaboration_controls.list_header_setting_on": {
+        "string": "限制成员访问{orgName}之外的内容时，他们将{cannot}："
     },
-    "whiteboard.inserts.recents_header": {
-        "string": "Recents"
+    "org_settings.external_collaboration_controls.note": {
+        "string": "注意："
     },
-    "whiteboard.inserts.suggested_header": {
-        "string": "Suggested"
+    "org_settings.external_collaboration_controls.open_sessions": {
+        "string": "登录以下内容时，拥有其他团队或组织的开放会话编辑访问权限："
     },
-    "whiteboard.inserts.log_in_or_sign_up_to_use": {
-        "string": "Log in or sign up to use {resourceType}s"
+    "org_settings.external_collaboration_controls.save": {
+        "string": "保存"
     },
-    "whiteboard.inserts.add_widget": {
-        "string": "Add"
+    "org_settings.external_collaboration_controls.setting_header": {
+        "string": "成员可以访问{orgName}之外的内容"
     },
-    "whiteboard.editor_mentions_typeahead.not_in_file": {
-        "string": "Not in file"
+    "org_settings.external_collaboration_controls.success": {
+        "string": "内容访问设置已更改。更新最多可能需要10分钟。"
     },
-    "whiteboard.visual_bell.canvas_at_mentions_mentioned_user_will_be_invited_to_file": {
-        "string": "Invited {handle}"
+    "org_settings.external_collaboration_controls.view_only": {
+        "string": "编辑与其他团队和组织共享的文件和草稿的评论（{note}文件将为只读）"
     },
-    "whiteboard.visual_bell.canvas_at_mentions_mentioned_undo_invite": {
-        "string": "Undo"
+    "org_settings.external_collaboration_controls.view_or_edit_files": {
+        "string": "查看、评论和编辑与其他团队和组织共享的文件和草稿"
     },
-    "fullscreen.toolbar.secondary_toolbar.close": {
-        "string": "Close"
+    "org_settings.guest_control.banned": {
+        "string": "外部用户无法加入组织"
     },
-    "slides.inserts_menu.slides": {
-        "string": "Back to slides mode"
+    "org_settings.guest_control.confirm_button": {
+        "string": "确认"
     },
-    "slides.inserts_menu.design": {
-        "string": "Design mode"
+    "org_settings.guest_control.confirm_title": {
+        "string": "确认"
     },
-    "slides.inserts_menu.design_mode_upsell": {
-        "string": "Design mode requires a Figma Design plan."
+    "org_settings.guest_control.default": {
+        "string": "(默认)"
     },
-    "keyboard_settings.custom_keyboard_shortcuts.add": {
-        "string": "Add new shortcut"
+    "org_settings.guest_control.enabled": {
+        "string": "启用"
     },
-    "keyboard_settings.custom_keyboard_shortcuts.press_key": {
-        "string": "Press key"
+    "org_settings.guest_control.guest_definition": {
+        "string": "访客是指拥有{domains}以外电子邮件地址的外部用户。"
     },
-    "whiteboard.keyboard_shortcuts.delete.shortcut": {
-        "string": "Delete shortcut"
+    "org_settings.guest_control.guest_membership": {
+        "string": "访客会员资格"
     },
-    "keyboard_settings.request_a_new_layout_or_learn_more": {
-        "string": "Learn more"
+    "org_settings.guest_control.guest_question": {
+        "string": "允许哪些用户加入组织成为成员？"
     },
-    "keyboard_settings.detected": {
-        "string": "Detected"
+    "org_settings.guest_control.link_sharing_on": {
+        "string": "目前，组织已{enabled}公开链接共享。根据单个文件权限，外部用户可以通过链接查看内容。此设置可以在{publicLinkSharingSettings}中关闭。"
     },
-    "keyboard_settings.other_layouts": {
-        "string": "Other layouts"
+    "org_settings.guest_control.no_guest_confirmation": {
+        "string": "用户将无法共享“可编辑”权限的公开链接。所有现有的“可编辑”权限公开链接将被降级为“只读”权限。"
     },
-    "keyboard_settings.keyboard_layout_panel_selector": {
-        "string": "Keyboard layout: "
+    "org_settings.guest_control.null": {
+        "string": "外部用户可以加入组织"
     },
-    "keyboard_settings.figma_keyboard_shortcuts_won_t_automatically_change_if_you_change_your_system_keyboard_layout": {
-        "string": "Figma keyboard shortcuts won't automatically change if you change your system keyboard layout."
+    "org_settings.guest_control.public_link_sharing_settings": {
+        "string": "公开链接共享设置"
     },
-    "whiteboard.keyboard_shortcuts.and": {
-        "string": "and"
+    "org_settings.guest_control.require_approval": {
+        "string": "只有在获得管理员批准后，外部用户才能加入"
     },
-    "whiteboard.keyboard_shortcuts.key_label.search": {
-        "string": "Search"
+    "org_settings.guest_control.save_button": {
+        "string": "保存"
     },
-    "whiteboard.keyboard_shortcuts.key_label.alt": {
-        "string": "Alt"
+    "org_settings.leave_org.confirm_modal_button": {
+        "string": "离开{orgName}"
     },
-    "whiteboard.keyboard_shortcuts.key_label.ctrl": {
-        "string": "Ctrl"
+    "org_settings.leave_org.confirm_modal_message": {
+        "string": "目前，您是{orgName}组织的{guest}。离开此组织后，您将无法访问所有共享内容。此操作无法撤销。"
     },
-    "whiteboard.keyboard_shortcuts.key_label.enter": {
-        "string": "Enter"
+    "org_settings.leave_org.confirm_modal_title": {
+        "string": "离开{orgName}组织"
     },
-    "whiteboard.keyboard_shortcuts.key_label.esc": {
-        "string": "Esc"
+    "org_settings.leave_org.guest": {
+        "string": "访客"
     },
-    "whiteboard.keyboard_shortcuts.key_label.shift": {
-        "string": "Shift"
+    "org_settings.library_subscription_confirm.already_browsable": {
+        "string": "此库默认显示在所有组织文件中。"
     },
-    "whiteboard.keyboard_shortcuts.key_label.drag": {
-        "string": "drag"
+    "org_settings.library_subscription_confirm.already_browsable.enable_button": {
+        "string": "启用库"
     },
-    "whiteboard.keyboard_shortcuts.key_label.click": {
-        "string": "click"
+    "org_settings.library_subscription_confirm.cancel_button": {
+        "string": "取消"
     },
-    "whiteboard.keyboard_shortcuts.key_label.dbl_click": {
-        "string": "dbl-click"
+    "org_settings.library_subscription_confirm.not_yet_browsable": {
+        "string": "要在组织中启用此库，您需要向所有用户授予访问权限。{lineBreak}这将更改“{fileName}”的隐私设置为“{orgName}的所有用户可浏览”。"
     },
-    "whiteboard.keyboard_shortcuts.key_label.backspace": {
-        "string": "Backspace"
+    "org_settings.library_subscription_confirm.not_yet_browsable.enable_button": {
+        "string": "更改隐私并启用"
     },
-    "whiteboard.keyboard_shortcuts.key_label.delete": {
-        "string": "Delete"
+    "org_settings.library_subscription_confirm.title": {
+        "string": "在组织中启用库吗？"
     },
-    "whiteboard.keyboard_shortcuts.key_label.down": {
-        "string": "Down"
+    "org_settings.public_link_sharing.allow_public_links": {
+        "string": "允许公开链接"
     },
-    "whiteboard.keyboard_shortcuts.key_label.end": {
-        "string": "End"
+    "org_settings.public_link_sharing.allow_public_links_with_password_protection": {
+        "string": "允许密码保护的公开链接"
     }
 }

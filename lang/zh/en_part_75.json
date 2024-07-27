@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_node_treatments.value.autolayout.min_height": {
-        "string": "Min height"
+    "community.publishing.private_only_people_at_org_entity": {
+        "string": "非公开：仅{orgName}的用户可访问"
     },
-    "collaboration.branching_node_treatments.value.autolayout.max_width": {
-        "string": "Max width"
+    "community.publishing.profile_handle_cannot_be_empty": {
+        "string": "{errorStringPrefix}不能为空"
     },
-    "collaboration.branching_node_treatments.value.autolayout.max_height": {
-        "string": "Max height"
+    "community.publishing.prototype": {
+        "string": "原型"
     },
-    "collaboration.branching_node_treatments.value.autolayout.stack_positioning": {
-        "string": "Stack positioning"
+    "community.publishing.prototype_preview": {
+        "string": "原型预览"
     },
-    "collaboration.branching_node_treatments.value.autolayout.fill_or_fixed": {
-        "string": "Fill or Fixed"
+    "community.publishing.public_everyone_in_the_world": {
+        "string": "公开：任何人都可以访问"
     },
-    "collaboration.branching_node_treatments.value.autolayout.none": {
-        "string": "None"
+    "community.publishing.publish": {
+        "string": "发布"
     },
-    "collaboration.branching_node_treatments.value.autolayout.vertical": {
-        "string": "Vertical"
+    "community.publishing.publish_a_new_version": {
+        "string": "发布新版本"
     },
-    "collaboration.branching_node_treatments.value.autolayout.horizontal_wrap": {
-        "string": "Horizontal wrap"
+    "community.publishing.publish_details": {
+        "string": "发布详情"
     },
-    "collaboration.branching_node_treatments.value.autolayout.horizontal": {
-        "string": "Horizontal"
+    "community.publishing.publish_file": {
+        "string": "发布文件"
     },
-    "collaboration.branching_node_treatments.property.direction": {
-        "string": "Direction"
+    "community.publishing.publish_first_to_invite": {
+        "string": "在邀请其他用户更新前，请{publishThisResourceLink}"
     },
-    "collaboration.branching_node_treatments.property.padding": {
-        "string": "Padding"
+    "community.publishing.publish_new_version": {
+        "string": "发布新版本"
     },
-    "collaboration.branching_node_treatments.property.align_items": {
-        "string": "Align items"
+    "community.publishing.publish_plugin": {
+        "string": "发布插件"
     },
-    "collaboration.branching_node_treatments.value.empty_dash": {
-        "string": "–"
+    "community.publishing.publish_tab": {
+        "string": "发布"
     },
-    "collaboration.branching_node_treatments.value.autolayout.align_vertical_and_horizontal": {
-        "string": "{verticalAlignment} and {horizontalAlignment}"
+    "community.publishing.publish_this_resource": {
+        "string": "发布此资源"
     },
-    "collaboration.branching_node_treatments.property.auto_layout_details": {
-        "string": "Auto layout details"
+    "community.publishing.publish_to": {
+        "string": "发布到"
     },
-    "collaboration.branching_node_treatments.property.hyperlink": {
-        "string": "Hyperlink"
+    "community.publishing.publish_to_the_figma_community": {
+        "string": "{lineBreak} 发布到Figma社区"
     },
-    "collaboration.branching_node_treatments.property.mention": {
-        "string": "Mention"
+    "community.publishing.publish_widget": {
+        "string": "发布小部件"
     },
-    "collaboration.branching_node_treatments.property.border_weights_tooltip": {
-        "string": "Top, right, bottom, left"
+    "community.publishing.publish_your_remix_of": {
+        "string": "发布你的改编版本"
     },
-    "collaboration.branching_node_treatments.property.radii_tooltip": {
-        "string": "Top left, top right, bottom right, bottom left"
+    "community.publishing.publisher_role_can_update": {
+        "string": "可更新"
     },
-    "collaboration.branching_node_treatments.property.border_weights": {
-        "string": "Border weights"
+    "community.publishing.publisher_role_owner": {
+        "string": "所有者"
     },
-    "collaboration.branching_node_treatments.property.radii": {
-        "string": "Radii"
+    "community.publishing.publishing_using_our_payments_api": {
+        "string": "我们的团队正在审核你的销售者状态。未获得销售者批准之前，无法使用Payments API发布。请几天后再试。"
     },
-    "collaboration.branching_node_treatments.property.line_height": {
-        "string": "Line height"
+    "community.publishing.release_notes_must_be_at_most_10000_characters_long": {
+        "string": "发布说明最多10000个字符"
     },
-    "collaboration.branching_node_treatments.property.text_data": {
-        "string": "Text data"
+    "community.publishing.resource_by_author": {
+        "string": "{authorName}发布的{resourceName}"
     },
-    "collaboration.branching_node_treatments.property.letter_spacing": {
-        "string": "Letter spacing"
+    "community.publishing.resource_id.plugin": {
+        "string": "插件ID"
     },
-    "collaboration.branching_node_treatments.property.text_truncation": {
-        "string": "Text truncation"
+    "community.publishing.resource_id.widget": {
+        "string": "小部件ID"
     },
-    "collaboration.branching_node_treatments.property.max_lines": {
-        "string": "Max lines"
+    "community.publishing.resource_info.plugin": {
+        "string": "插件信息"
     },
-    "collaboration.branching_node_treatments.value.max_lines.auto": {
-        "string": "Auto"
+    "community.publishing.resource_info.widget": {
+        "string": "小部件信息"
     },
-    "collaboration.branching_node_treatments.property.text_truncation_details": {
-        "string": "Text truncation details"
+    "community.publishing.resource_is_now_available_to_members_of_org": {
+        "string": "{resourceName}现已对{orgName}的成员开放"
     },
-    "collaboration.branching_node_treatments.property.size": {
-        "string": "Size"
+    "community.publishing.resource_is_now_available_to_the_entire_community": {
+        "string": "{resourceName}现已对Figma社区的所有用户开放"
     },
-    "collaboration.branching_node_treatments.property.dash_pattern": {
-        "string": "Dash pattern"
+    "community.publishing.resource_will_now_be_reviewed_by_the_figma_team": {
+        "string": "{resourceName}正在由Figma团队审核。我们将在5-10个工作日内通过电子邮件发送状态更新。资源通过审核后，将对Figma社区的所有用户开放。{seeOurGuidelinesLink}"
     },
-    "collaboration.branching_node_treatments.property.font_name": {
-        "string": "Font name"
+    "community.publishing.resources_published_to_the_public_will_be_reviewed.plugin": {
+        "string": "发布到社区的插件将由Figma团队审核。通过审核后，插件将对所有Figma用户开放。"
     },
-    "collaboration.branching_node_treatments.property.parent": {
-        "string": "Parent"
+    "community.publishing.resources_published_to_the_public_will_be_reviewed.widget": {
+        "string": "发布到社区的小部件将由Figma团队审核。通过审核后，小部件将对所有Figma用户开放。"
     },
-    "collaboration.branching_node_treatments.value.node_reordered": {
-        "string": "Node reordered"
+    "community.publishing.restore_default_thumbnail": {
+        "string": "恢复默认缩略图"
     },
-    "collaboration.branching_node_treatments.property.position_rotation_or_scale": {
-        "string": "Position, rotation, or scale"
+    "community.publishing.resubmit_a_new_version": {
+        "string": "重新提交新版本"
     },
-    "collaboration.branching_node_treatments.value.position_rotation_or_scale_changed": {
-        "string": "Position, rotation, or scale changed"
+    "community.publishing.resubmit_for_review": {
+        "string": "重新提交审核"
     },
-    "collaboration.branching_node_treatments.value.node_type.none": {
-        "string": "None"
+    "community.publishing.review_our_community_guidelines": {
+        "string": "查看我们的{communityGuidelinesLink}"
     },
-    "collaboration.branching_node_treatments.value.node_type.document": {
-        "string": "Document"
+    "community.publishing.save_changes": {
+        "string": "保存更改"
     },
-    "collaboration.branching_node_treatments.value.node_type.canvas": {
-        "string": "Canvas"
+    "community.publishing.security_banner.approved.description": {
+        "string": "以下详细信息已在插件的社区页面上发布。更新回答将重新提交审核。"
     },
-    "collaboration.branching_node_treatments.value.node_type.group": {
-        "string": "Group"
+    "community.publishing.security_banner.approved.title": {
+        "string": "插件符合Figma的安全最佳实践"
     },
-    "collaboration.branching_node_treatments.value.node_type.frame": {
-        "string": "Frame"
+    "community.publishing.security_banner.pending.description": {
+        "string": "请查看电子邮件中的后续步骤。更新回答将重新提交审核。"
     },
-    "collaboration.branching_node_treatments.value.node_type.boolean_operation": {
-        "string": "Boolean operation"
+    "community.publishing.security_banner.pending.title": {
+        "string": "Figma正在审核插件的数据安全详细信息。"
     },
-    "collaboration.branching_node_treatments.value.node_type.vector": {
-        "string": "Vector"
+    "community.publishing.security_banner.rejected.description": {
+        "string": "Figma已审核数据安全详细信息，发现插件不符合最佳实践。"
     },
-    "collaboration.branching_node_treatments.value.node_type.star": {
-        "string": "Star"
+    "community.publishing.security_banner.rejected.description.check_email": {
+        "string": "请查看电子邮件中的后续步骤。期间，详细信息将不会添加到插件的社区页面。"
     },
-    "collaboration.branching_node_treatments.value.node_type.line": {
-        "string": "Line"
+    "community.publishing.security_banner.rejected.title": {
+        "string": "数据安全更新"
     },
-    "collaboration.branching_node_treatments.value.node_type.ellipse": {
-        "string": "Ellipse"
+    "community.publishing.security_form.approved.opt_out_desc.plugin": {
+        "string": "发布此插件的新版本将从插件的Figma社区页面中删除这些详细信息。"
     },
-    "collaboration.branching_node_treatments.value.node_type.rectangle": {
-        "string": "Rectangle"
+    "community.publishing.security_form.approved.opt_out_desc.widget": {
+        "string": "发布此小部件的新版本将从小部件的Figma社区页面中删除这些详细信息。"
     },
-    "collaboration.branching_node_treatments.value.node_type.regular_polygon": {
-        "string": "Regular polygon"
+    "community.publishing.security_form.discard_changes": {
+        "string": "放弃更改"
     },
-    "collaboration.branching_node_treatments.value.node_type.rounded_rectangle": {
-        "string": "Rounded rectangle"
+    "community.publishing.security_form.header": {
+        "string": "帮助提升Figma社区的数据安全实践"
     },
-    "collaboration.branching_node_treatments.value.node_type.text": {
-        "string": "Text"
+    "community.publishing.security_form.learn_more": {
+        "string": "了解更多"
     },
-    "collaboration.branching_node_treatments.value.node_type.slice": {
-        "string": "Slice"
+    "community.publishing.security_form.learn_more_arrow": {
+        "string": "了解更多 →"
     }
 }

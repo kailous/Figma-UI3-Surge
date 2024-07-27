@@ -1,152 +1,152 @@
 {
-    "dev_handoff.code_language.browse": {
-        "string": "Browse codegen plugins…"
+    "assets_in_actions.detail_view.components_tab.title": {
+        "string": "组件"
     },
-    "dev_handoff.code_language.add": {
-        "string": "Add plugin…"
+    "assets_in_actions.detail_view.fragments_tab.designs_title": {
+        "string": "设计"
     },
-    "dev_handoff.code_language.development": {
-        "string": "Development"
+    "assets_in_actions.detail_view.fragments_tab.title": {
+        "string": "其他设计"
     },
-    "dev_handoff.status.offline": {
-        "string": "Cannot set status while offline"
+    "assets_in_actions.error.description": {
+        "string": "发生意外错误"
     },
-    "proto.embeds.last_edited": {
-        "string": "Edited {relativeTime}"
+    "assets_in_actions.error.title": {
+        "string": "出现问题"
     },
-    "proto.embeds.visible_to_org_name": {
-        "string": "Visible to {orgName}"
+    "assets_in_actions.fragment_search.placeholder_1": {
+        "string": "例如：“结算页面”"
     },
-    "proto.embeds.visible_to_everyone_in_your_org": {
-        "string": "Visible to everyone in your org"
+    "assets_in_actions.fragment_search.placeholder_10": {
+        "string": "例如：“显示...的工具提示”"
     },
-    "proto.embeds.visible_to_people_invited_to_this_prototype": {
-        "string": "Visible to people invited to this prototype"
+    "assets_in_actions.fragment_search.placeholder_11": {
+        "string": "例如：“显示CRJ项目的模态”"
     },
-    "proto.embeds.visible_to_people_invited_to_this_file": {
-        "string": "Visible to people invited to this file"
+    "assets_in_actions.fragment_search.placeholder_12": {
+        "string": "例如：“欢迎页面”"
     },
-    "embed.footer.toggle_embed_settings_aria_label": {
-        "string": "Toggle embed settings"
+    "assets_in_actions.fragment_search.placeholder_13": {
+        "string": "例如：“发生问题的对话框”"
     },
-    "favorited_resources.remove_from_sidebar": {
-        "string": "Remove from sidebar"
+    "assets_in_actions.fragment_search.placeholder_2": {
+        "string": "例如：“项目Z的入职培训”"
     },
-    "tile.favoriting.max_favorites": {
-        "string": "You can have up to {maxFavorites} favorites- remove one to add another."
+    "assets_in_actions.fragment_search.placeholder_3": {
+        "string": "例如：“付款完成”"
     },
-    "favorited_resources.add_to_sidebar": {
-        "string": "Add to sidebar"
+    "assets_in_actions.fragment_search.placeholder_4": {
+        "string": "例如：“CRJ项目的启动画面”"
     },
-    "tile.favoriting.remove_from_favorites": {
-        "string": "Remove from favorites"
+    "assets_in_actions.fragment_search.placeholder_5": {
+        "string": "例如：“忘记密码时”"
     },
-    "tile.favoriting.add_to_favorites": {
-        "string": "Add to your favorites"
+    "assets_in_actions.fragment_search.placeholder_6": {
+        "string": "例如：“年末营销网站设计变更”"
     },
-    "whiteboard.an_error_occurred_while_marking_a_canvas_mention_as_unread": {
-        "string": "An error occurred while marking a mention as unread."
+    "assets_in_actions.fragment_search.placeholder_7": {
+        "string": "例如：“iOS设置页面”"
     },
-    "whiteboard.an_error_occurred_while_marking_a_canvas_mention_as_read": {
-        "string": "An error occurred while marking a mention as read."
+    "assets_in_actions.fragment_search.placeholder_8": {
+        "string": "例如：“创建帐户，深色模式”"
     },
-    "comments.an_error_occurred_while_marking_a_comment_as_unread": {
-        "string": "An error occurred while marking a comment as unread."
+    "assets_in_actions.fragment_search.placeholder_9": {
+        "string": "例如：“访客登录页面”"
     },
-    "comments.an_error_occurred_while_marking_a_comment_as_read": {
-        "string": "An error occurred while marking a comment as read."
+    "assets_in_actions.fragments.fragment_search_sugggestion": {
+        "string": "{boldText} 在{orgText}中搜索相关设计"
     },
-    "comments.an_error_occurred_while_removing_a_comment_reaction": {
-        "string": "An error occurred while removing a comment reaction."
+    "assets_in_actions.fragments.fragment_search_sugggestion_bold_text": {
+        "string": "还在找吗？"
     },
-    "comments.an_error_occurred_while_adding_a_comment_reaction": {
-        "string": "An error occurred while adding a comment reaction."
+    "assets_in_actions.fragments.fragment_search_sugggestion_hint": {
+        "string": "查看其他设计"
     },
-    "comments.an_error_occurred_while_toggling_a_comment_reaction": {
-        "string": "An error occurred while toggling a comment reaction."
+    "assets_in_actions.fragments_section.empty_state.header": {
+        "string": "在{orgText}中搜索"
     },
-    "comments.an_error_occurred_while_deleting_this_comment": {
-        "string": "An error occurred while deleting this comment."
+    "assets_in_actions.fragments_section.empty_state.header_community": {
+        "string": "在整个社区中搜索"
     },
-    "comments.undo": {
-        "string": "Undo"
+    "assets_in_actions.fragments_section.empty_state.header_generic": {
+        "string": "在整个组织中搜索"
     },
-    "comments.comment_resolved": {
-        "string": "Comment resolved"
+    "assets_in_actions.fragments_section.empty_state.text": {
+        "string": "您现在可以在整个组织中搜索相关设计。"
     },
-    "comments.an_error_occurred_while_resolving_this_comment": {
-        "string": "An error occurred while resolving this comment."
+    "assets_in_actions.fragments_section.empty_state.text_community": {
+        "string": "您现在可以在整个社区中搜索相关设计。"
     },
-    "comments.an_error_occurred_while_unresolving_this_comment": {
-        "string": "An error occurred while unresolving this comment."
+    "assets_in_actions.fragments_section.error.description": {
+        "string": "发生意外错误"
     },
-    "comments.an_error_occurred_while_moving_this_comment": {
-        "string": "An error occurred while moving this comment."
+    "assets_in_actions.fragments_section.error.title": {
+        "string": "出现问题"
     },
-    "comments.an_error_occurred_while_editing_this_comment": {
-        "string": "An error occurred while editing this comment."
+    "assets_in_actions.fragments_section.no_results.title": {
+        "string": "没有找到与“{query}”匹配的结果"
     },
-    "comments.manage": {
-        "string": "Manage"
+    "assets_in_actions.fragments_section.title": {
+        "string": "其他设计"
     },
-    "comments.you_will_be_notified_about_replies": {
-        "string": "You will be notified about replies"
+    "assets_in_actions.no_results.title": {
+        "string": "没有找到与“{query}”匹配的结果"
     },
-    "comments.an_error_occurred": {
-        "string": "An error occurred"
+    "assets_in_actions.see_more_button": {
+        "string": "查看更多"
     },
-    "comments.view": {
-        "string": "View"
+    "auth.account-picker": {
+        "string": "选择要请求访问的帐户"
     },
-    "comments.finish_or_clear_your_active_comment_then_hit_view": {
-        "string": "Finish or clear your active comment, then hit \"View\""
+    "auth.account-picker-join-text": {
+        "string": "选择加入{destination}的帐户"
     },
-    "comments.oops_one_of_your_comments_never_posted": {
-        "string": "Oops! One of your comments never posted"
+    "auth.account-picker-open-text": {
+        "string": "选择打开{destination}的帐户"
     },
-    "comments.couldn_t_post_your_comment": {
-        "string": "Couldn’t post your comment"
+    "auth.add-another-account-with-link": {
+        "string": "如果没有显示您要使用的帐户，您可以{addAnotherLink}。"
     },
-    "comments.retry": {
-        "string": "Retry"
+    "auth.add-another-no-punctuation": {
+        "string": "添加另一个帐户"
     },
-    "comments.wont_be_able_to_view_your_comments_because_they_dont_have_access_to_this_file": {
-        "string": "{mentionedUsers} won’t be able to view your comment, because they don’t have access to this file."
+    "auth.choose-account-to-add-to-figma-for-vs-code": {
+        "string": "选择要添加到VS Code集成的帐户"
     },
-    "comments.learn_more": {
-        "string": "Learn more"
+    "auth.choose-account-to-add-to-specific-app": {
+        "string": "选择要添加到Figma {appDescriptor}应用的帐户"
     },
-    "comments.please_note_that_is_external_to_your_organization": {
-        "string": "{numUsers, plural, one {Please note that {userNames} is external to your organization. {learnMore}} other {Please note that {userNames} are external to your organization. {learnMore}}}"
+    "auth.claim-invite.header": {
+        "string": "登录或创建帐户以进行协作"
     },
-    "comments.please_note_that_some_of_these_users_are_external_to_your_organization": {
-        "string": "{numUsers, plural, one {Please note that this user is external to your organization. {learnMore}} other {Please note that some of these users are external to your organization. {learnMore}}}"
+    "auth.claim-invite.header-file": {
+        "string": "登录或创建帐户以在此文件中进行协作"
     },
-    "comments.mention_confirm_warning": {
-        "string": "{numUsers, plural, one {{mentionedUsers} doesn’t have access to this file. By posting this comment, you’ll give them view-only access.} other {{mentionedUsers} don’t have access to this file. By posting this comment, you’ll give them view-only access.}}"
+    "auth.continue-with-the-specific-app": {
+        "string": "继续使用{appDescriptor}应用"
     },
-    "comments.cant_view_this_comment": {
-        "string": "{numUsers, plural, one {{userHandle} can't view this comment} other {{numUsers} users can't view this comment}}"
+    "auth.cookies_are_disabled": {
+        "string": "Cookie已禁用"
     },
-    "comments.post_share": {
-        "string": "Post & Share"
+    "auth.cookies_are_required_to_use_figma": {
+        "string": "要登录并使用Figma，需要启用Cookie。请在浏览器设置中启用Cookie并刷新页面。"
     },
-    "comments.post_anyway": {
-        "string": "Post anyway"
+    "auth.create-one": {
+        "string": "创建一个"
     },
-    "comments.cancel_post_and_share": {
-        "string": "Cancel"
+    "auth.create_an_account_to_collaborate_on_display_name": {
+        "string": "创建帐户以在{displayName}上协作"
     },
-    "comments.you": {
-        "string": "You"
+    "auth.create_an_account_to_collaborate_on_this_file": {
+        "string": "创建帐户以在此文件上协作"
     },
-    "comments.post_comment_and_share_file": {
-        "string": "Post comment and share file?"
+    "auth.default-error": {
+        "string": "发生错误"
     },
-    "comments.discard": {
-        "string": "Discard"
+    "auth.desktop-app": {
+        "string": "桌面应用"
     },
-    "community.actions.an_error_occured_while_trying_to_purchase_please_contact_support": {
-        "string": "An error occurred while trying to buy this resource. Please contact support@figma.com"
+    "auth.document_title.login_figma": {
+        "string": "登录 | Figma"
     }
 }

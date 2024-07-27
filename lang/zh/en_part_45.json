@@ -1,152 +1,152 @@
 {
-    "consumption_paywalls.manage_plugin_access": {
-        "string": "Manage plugin access"
+    "fig_feed.from_file": {
+        "string": "来自文件{fileComponent}"
     },
-    "consumption_paywalls.manage_widget_access": {
-        "string": "Manage widget access"
+    "fig_feed.gif": {
+        "string": "GIF"
     },
-    "consumption_paywalls.manage_plugin_access_by_workspace": {
-        "string": "Manage plugin access by workspace"
+    "fig_feed.give_your_post_a_title": {
+        "string": "给你的帖子一个标题"
     },
-    "consumption_paywalls.plugin_usage_analytics": {
-        "string": "Plugin usage analytics"
+    "fig_feed.image_file_size_limit_MB": {
+        "string": "图像文件必须小于{maxFileSizeMB}MB。"
     },
-    "consumption_paywalls.manage_widget_access_by_workspace": {
-        "string": "Manage widget access by workspace"
+    "fig_feed.indicator_for_new_feed_posts": {
+        "string": "显示新帖子和活动的指示器"
     },
-    "consumption_paywalls.widget_usage_analytics": {
-        "string": "Widget usage analytics"
+    "fig_feed.invalid_prototype_permission": {
+        "string": "要在Feed中共享原型，需要组织级或公开无密码权限。请更新文件权限以在Feed中共享此原型。"
     },
-    "consumption_paywalls.dev_mode_customize_experience": {
-        "string": "Customize Dev Mode experience"
+    "fig_feed.invalid_prototype_permission_warning": {
+        "string": "当权限设置为私密时，此文件的原型无法在Feed帖子中访问。"
     },
-    "consumption_paywalls.branching.feature_text": {
-        "string": "File branching"
+    "fig_feed.label.by": {
+        "string": "发布者"
     },
-    "consumption_paywalls.design_system_analytics.feature_text": {
-        "string": "Design system analytics"
+    "fig_feed.label.in": {
+        "string": "在容器:"
     },
-    "consumption_paywalls.variables.rest_api": {
-        "string": "Variables REST API"
+    "fig_feed.link_figma_file": {
+        "string": "链接Figma文件"
     },
-    "consumption_paywalls.workspaces": {
-        "string": "Workspaces"
+    "fig_feed.more_actions": {
+        "string": "更多操作"
     },
-    "consumption_paywalls.editor_type.figjam": {
-        "string": "FigJam"
+    "fig_feed.new_default_container_has_been_set": {
+        "string": "已设置新的默认容器"
     },
-    "consumption_paywalls.editor_type.figma_design": {
-        "string": "Figma design"
+    "fig_feed.new_post": {
+        "string": "新帖子"
     },
-    "consumption_paywalls.free_editor_type_files_and_project_limit": {
-        "string": "3 {editor_type} files and 1 project"
+    "fig_feed.new_posts": {
+        "string": "新帖子"
     },
-    "consumption_paywalls.free_design_files_and_project_limit": {
-        "string": "3 Figma design files and 1 project"
+    "fig_feed.no_frames_matching": {
+        "string": "没有与{searchQuery}匹配的框架"
     },
-    "consumption_paywalls.free_page_limit_per_editor_type_file": {
-        "string": "{page_limit, plural, one {{page_limit} page per {editor_type} file} other {{page_limit} pages per {editor_type} file}}"
+    "fig_feed.no_matching_results": {
+        "string": "没有匹配的结果"
     },
-    "consumption_paywalls.unlimited_files_and_projects": {
-        "string": "Unlimited files and projects"
+    "fig_feed.no_posts_found_description": {
+        "string": "没有符合所选过滤条件的帖子。请删除过滤条件或尝试其他过滤条件。"
     },
-    "consumption_paywalls.unlimited_pages_in_editor_type_files": {
-        "string": "Unlimited pages in {editor_type} files"
+    "fig_feed.no_posts_found_title": {
+        "string": "没有可以显示的内容"
     },
-    "consumption_paywalls.want_to_add_these_files_to_your_team": {
-        "string": "Want to add these files to your team?"
+    "fig_feed.no_top_level_nodes": {
+        "string": "没有顶级部分或框架"
     },
-    "consumption_paywalls_want_to_add_this_file_to_your_team": {
-        "string": "Want to add this file to your team?"
+    "fig_feed.num_comments": {
+        "string": "{numComments, plural, other {{numComments}条评论}}"
     },
-    "consumption_paywalls.want_to_restore_these_files": {
-        "string": "Want to restore these files?"
+    "fig_feed.num_members": {
+        "string": "{numMembers, plural, other {{numMembers}位成员}}"
     },
-    "consumption_paywalls.want_to_restore_this_file": {
-        "string": "Want to restore this file?"
+    "fig_feed.other_recent_spaces": {
+        "string": "最近发布的其他空间"
     },
-    "consumption_paywalls.want_to_duplicate_these_files": {
-        "string": "Want to duplicate these files?"
+    "fig_feed.other_spaces": {
+        "string": "其他空间"
     },
-    "consumption_paywalls.want_to_duplicate_this_file": {
-        "string": "Want to duplicate this file?"
+    "fig_feed.placeholder.container_search": {
+        "string": "搜索空间"
     },
-    "consumption_paywalls.want_to_import_these_files": {
-        "string": "Want to import these files?"
+    "fig_feed.placeholder.user_search": {
+        "string": "搜索用户"
     },
-    "consumption_paywalls.want_to_import_this_file": {
-        "string": "Want to import this file?"
+    "fig_feed.post": {
+        "string": "帖子"
     },
-    "consumption_paywalls.need_more_files": {
-        "string": "Need more files?"
+    "fig_feed.post_dne": {
+        "string": "没有帖子"
     },
-    "consumption_paywalls.want_to_move_this_project": {
-        "string": "Want to move this project?"
+    "fig_feed.post_edited": {
+        "string": "已编辑帖子"
     },
-    "consumption_paywalls.need_more_projects": {
-        "string": "Need more projects?"
+    "fig_feed.post_submission_pending": {
+        "string": "帖子已成功提交，正在处理中。即将显示。"
     },
-    "consumption_paywalls.need_more_pages": {
-        "string": "Need more pages?"
+    "fig_feed.post_to": {
+        "string": "发布到:"
     },
-    "consumption_paywalls.talk_it_through_with_audio": {
-        "string": "Talk it through with audio"
+    "fig_feed.post_to_feed": {
+        "string": "发布到Feed"
     },
-    "consumption_paywalls.open_session.title": {
-        "string": "Want to host an open jam session?"
+    "fig_feed.post_to_feed_ellipsis": {
+        "string": "发布到Feed..."
     },
-    "consumption_paywalls.project_transfer.title": {
-        "string": "Want to transfer this project?"
+    "fig_feed.post_to_org_feed": {
+        "string": "发布到{orgName}的Feed"
     },
-    "consumption_paywalls.presentation_sharing.title": {
-        "string": "Want to share just your presentations?"
+    "fig_feed.posted_to_feed": {
+        "string": "已发布到Feed"
     },
-    "consumption_paywalls.prototype_sharing.title": {
-        "string": "Want to share just your prototypes?"
+    "fig_feed.posted_to_org_feed": {
+        "string": "已发布到{orgName}的Feed"
     },
-    "consumption_paywalls.password_protection.title": {
-        "string": "Want to protect this file with a password?"
+    "fig_feed.posting": {
+        "string": "发布中..."
     },
-    "consumption_paywalls.version_history.title": {
-        "string": "Need to travel back in time?"
+    "fig_feed.prototype_badge": {
+        "string": "原型"
     },
-    "consumption_paywalls.videos_in_prototypes.title": {
-        "string": "Want videos in your prototypes?"
+    "fig_feed.recents": {
+        "string": "最近"
     },
-    "consumption_paywalls.videos_in_slides.title": {
-        "string": "Want videos in your slides?"
+    "fig_feed.reset": {
+        "string": "重置"
     },
-    "consumption_paywalls.voting_title": {
-        "string": "Put it to a vote"
+    "fig_feed.reset.tooltip": {
+        "string": "将此预览重置为原始状态"
     },
-    "consumption_paywalls.ready_to_build_a_team_library": {
-        "string": "Ready to build a team library?"
+    "fig_feed.saving": {
+        "string": "保存中"
     },
-    "consumption_paywalls.need_more_privacy_for_this_project": {
-        "string": "Need more privacy for this project?"
+    "fig_feed.search_files": {
+        "string": "搜索文件"
     },
-    "consumption_paywalls.looking_for_unlimited_projects": {
-        "string": "Looking for unlimited projects?"
+    "fig_feed.search_frames": {
+        "string": "搜索框架"
     },
-    "consumption_paywalls.need_to_publish_styles": {
-        "string": "Need to publish styles for your team to use?"
+    "fig_feed.secret_team_tooltip": {
+        "string": "此帖子仅对{containerName}的成员可见"
     },
-    "consumption_paywalls.need_to_access_prototyping_features": {
-        "string": "Need to access more prototyping features?"
+    "fig_feed.see_more": {
+        "string": "查看更多"
     },
-    "consumption_paywalls.variables_modes.need_to_publish_variables_for_your_team": {
-        "string": "Need to publish variables for your team?"
+    "fig_feed.set_as_default": {
+        "string": "设为默认"
     },
-    "consumption_paywalls.variables_modes.need_more_modes": {
-        "string": "Need more variable modes?"
+    "fig_feed.share_something_from_figjam": {
+        "string": "从此FigJam板中分享一些内容。"
     },
-    "consumption_paywalls.whos_using_plugin": {
-        "string": "Who’s using this plugin?"
+    "fig_feed.tab.all": {
+        "string": "所有"
     },
-    "consumption_paywalls.whos_using_widget": {
-        "string": "Who’s using this widget?"
+    "fig_feed.tab.for_you": {
+        "string": "为你推荐"
     },
-    "consumption_paywalls.shared_fonts.modal_title": {
-        "string": "Share fonts across your team"
+    "fig_feed.thumbnail_alt_text": {
+        "string": "所选图片"
     }
 }

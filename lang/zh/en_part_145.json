@@ -1,152 +1,152 @@
 {
-    "community.actions.manifest_name_has_been_imported": {
-        "string": "{manifestName} has been imported"
+    "visual_bell.page_converted": {
+        "string": "页面已转换"
     },
-    "community.actions.widget_has_been_imported": {
-        "string": "Widget has been imported"
+    "visual_bell.page_deleted": {
+        "string": "页面已删除"
     },
-    "community.actions.plugin_has_been_imported": {
-        "string": "Plugin has been imported"
+    "visual_bell.page_deleted_problem": {
+        "string": "删除页面时出现问题。请再试一次。"
     },
-    "community.actions.an_error_occurred_while_trying_to_fetch_the_org_widgets_list": {
-        "string": "An error occurred while trying to fetch the organization's widgets list."
+    "visual_bell.page_duplicated": {
+        "string": "页面已复制"
     },
-    "community.actions.resource_is_invalid": {
-        "string": "Resource is invalid"
+    "visual_bell.page_duplicated_problem": {
+        "string": "复制页面时出现问题。请再试一次。"
     },
-    "community.actions.error_uploading_widget_icon_error": {
-        "string": "Error uploading widget icon: {error}"
+    "visual_bell.pages_deleted": {
+        "string": "{pageCount, plural, other {已删除{pageCount}个页面}}"
     },
-    "community.actions.error_uploading_plugin_icon_error": {
-        "string": "Error uploading plugin icon: {error}"
+    "visual_bell.parent_num_instances_detached": {
+        "string": "{numInstances, plural, other {父实例已分离}}"
     },
-    "community.actions.error_uploading_widget_artwork_image_error": {
-        "string": "Error uploading widget artwork image: {error}"
+    "visual_bell.paste_absolute_position": {
+        "string": "{layerName}已设置为绝对位置"
     },
-    "community.actions.error_uploading_plugin_artwork_image_error": {
-        "string": "Error uploading plugin artwork image: {error}"
+    "visual_bell.paste_from_clipboard_failed": {
+        "string": "从剪贴板粘贴失败"
     },
-    "community.actions.error_uploading_widget_snapshot_image_error": {
-        "string": "Error uploading widget snapshot image: {error}"
+    "visual_bell.paste_mobile": {
+        "string": "已粘贴剪贴板内容"
     },
-    "community.actions.error_uploading_plugin_video_error": {
-        "string": "Error uploading plugin video: {error}"
+    "visual_bell.pasting": {
+        "string": "粘贴中..."
     },
-    "community.actions.error_finalizing_plugin_error": {
-        "string": "Error finalizing plugin: {error}"
+    "visual_bell.pasting_inside_the_current_selection_is_not_possible": {
+        "string": "无法在当前选择范围内粘贴"
     },
-    "community.actions.the_published_resource_i_ds_do_not_match": {
-        "string": "The published resource IDs do not match"
+    "visual_bell.please_remove_component_symbol_name_from_this_selection": {
+        "string": "请从此选择中移除组件{symbolName}"
     },
-    "community.actions.plugin_id_is_invalid": {
-        "string": "plugin id is invalid"
+    "visual_bell.property_defaults_updated": {
+        "string": "属性默认值已更新"
     },
-    "community.actions.file_too_large": {
-        "string": "File too large"
+    "visual_bell.prototype_flows_hidden": {
+        "string": "原型流程已隐藏"
     },
-    "community.actions.error_uploading_widget_code_error": {
-        "string": "Error uploading widget code: {error}"
+    "visual_bell.prototype_flows_visible": {
+        "string": "原型流程已显示"
     },
-    "community.actions.error_uploading_plugin_code_error": {
-        "string": "Error uploading plugin code: {error}"
+    "visual_bell.prototyping_failed_to_load": {
+        "string": "无法加载原型"
     },
-    "community.actions.error_finalizing_widget_error": {
-        "string": "Error finalizing widget: {error}"
+    "visual_bell.prototyping_hidden": {
+        "string": "原型已隐藏"
     },
-    "community.actions.could_not_publish_plugin_error": {
-        "string": "Could not publish plugin: {error}"
+    "visual_bell.prototyping_visible": {
+        "string": "原型已显示"
     },
-    "check_network_compatibility.error_bell.video_upload.message": {
-        "string": "Importing failed. Your network settings may need updating."
+    "visual_bell.removed_orphaned_variables": {
+        "string": "已删除{totalOrphanedVariables}个孤立变量"
     },
-    "community.publishing.could_not_publish_plugin_error": {
-        "string": "Could not publish plugin: {error}"
+    "visual_bell.repaired_instance_overrides": {
+        "string": "实例重写已修复！"
     },
-    "community.actions.could_not_publish_widget_error": {
-        "string": "Could not publish widget: {error}"
+    "visual_bell.repaired_nested_instance_bindings": {
+        "string": "已从嵌套实例中删除变量绑定"
     },
-    "community.saves.plugin_saved": {
-        "string": "Plugin saved"
+    "visual_bell.repaired_variables": {
+        "string": "已修复{totalRepairedVariableCollections}个变量集合和{totalRepairedVariables}个变量"
     },
-    "community.saves.widget_saved": {
-        "string": "Widget saved"
+    "visual_bell.reresolved_variable_references": {
+        "string": "已重新解析{totalReresolvedNodes}个变量引用"
     },
-    "community.saves.plugin_saved_for_everyone_at": {
-        "string": "Plugin saved for everyone at {orgName}"
+    "visual_bell.reset_variable_modes": {
+        "string": "已将选择中所有变量模式设置为自动"
     },
-    "community.saves.widget_saved_for_everyone_at": {
-        "string": "Widget saved for everyone at {orgName}"
+    "visual_bell.restored_main_component": {
+        "string": "主组件已恢复"
     },
-    "community.saves.plugin_saved_for_your_account_and_profile": {
-        "string": "Plugin saved to your Figma account and Community profile"
+    "visual_bell.rulers_hidden": {
+        "string": "标尺已隐藏"
     },
-    "community.saves.widget_saved_for_your_account_and_profile": {
-        "string": "Widget saved to your Figma account and Community profile"
+    "visual_bell.rulers_visible": {
+        "string": "标尺已显示"
     },
-    "community.saves.plugin_saved_for_your_account": {
-        "string": "Plugin saved to your Figma account"
+    "visual_bell.sections_aren_t_quite_ready_for_figma_just_yet_we_pasted_your_section_as_a_group": {
+        "string": "暂不支持在Figma中粘贴部分内容。部分内容已作为组粘贴。"
     },
-    "community.saves.widget_saved_for_your_account": {
-        "string": "Widget saved to your Figma account"
+    "visual_bell.select_single_state_group": {
+        "string": "请选择一个组件"
     },
-    "community.actions.unable_to_save_plugin_error": {
-        "string": "Unable to save plugin: {error}"
+    "visual_bell.set_default_emoji_skin_tone_1": {
+        "string": "要更新👍表情符号的默认肤色，请在选择表情符号时按住点击。"
     },
-    "community.actions.unable_to_save_widget_error": {
-        "string": "Unable to save widget: {error}"
+    "visual_bell.set_default_emoji_skin_tone_2": {
+        "string": "要更新👍🏻表情符号的默认肤色，请在选择表情符号时按住点击。"
     },
-    "community.actions.unable_to_save_plugin_please_try_again": {
-        "string": "Unable to save plugin. Please try again."
+    "visual_bell.set_default_emoji_skin_tone_3": {
+        "string": "要更新👍🏼表情符号的默认肤色，请在选择表情符号时按住点击。"
     },
-    "community.actions.unable_to_save_widget_please_try_again": {
-        "string": "Unable to save widget. Please try again."
+    "visual_bell.set_default_emoji_skin_tone_4": {
+        "string": "要更新👍🏽表情符号的默认肤色，请在选择表情符号时按住点击。"
     },
-    "community.saves.plugin_removed_from_your_account": {
-        "string": "Plugin removed from your Figma account"
+    "visual_bell.set_default_emoji_skin_tone_5": {
+        "string": "要更新👍🏾表情符号的默认肤色，请在选择表情符号时按住点击。"
     },
-    "community.saves.widget_removed_from_your_account": {
-        "string": "Widget removed from your Figma account"
+    "visual_bell.set_default_emoji_skin_tone_6": {
+        "string": "要更新👍🏿表情符号的默认肤色，请在选择表情符号时按住点击。"
     },
-    "community.saves.plugin_removed_for_everyone_at": {
-        "string": "Plugin removed for everyone at {orgName}"
+    "visual_bell.shadow_spread_is_not_supported_for_vector_type": {
+        "string": "矢量类型不支持阴影扩展"
     },
-    "community.saves.widget_removed_for_everyone_at": {
-        "string": "Widget removed for everyone at {orgName}"
+    "visual_bell.sites.cant_delete_homepage": {
+        "string": "删除之前请设置新的主页"
     },
-    "community.saves.plugin_removed_from_your_account_and_profile": {
-        "string": "Plugin removed from your Figma account and Community profile"
+    "visual_bell.slices_hidden": {
+        "string": "切片: 已关闭显示"
     },
-    "community.saves.widget_removed_from_your_account_and_profile": {
-        "string": "Widget removed from your Figma account and Community profile"
+    "visual_bell.slices_visible": {
+        "string": "切片: 已开启显示"
     },
-    "community.actions.an_error_occurred_accepting_invite_please_refresh_and_try_again": {
-        "string": "An error occurred accepting invite. Please refresh and try again."
+    "visual_bell.some_components_were_reparented_to_avoid_a_dependency_cycle": {
+        "string": "某些组件已重新设置父级以避免依赖循环。"
     },
-    "community.actions.an_error_occurred_while_removing_publisher_please_refresh_and_try_again": {
-        "string": "An error occurred while removing publisher. Please refresh and try again."
+    "visual_bell.some_objects_could_not_be_replaced": {
+        "string": "某些对象无法替换"
     },
-    "fullscreen_actions.copied_to_clipboard": {
-        "string": "Copied to clipboard"
+    "visual_bell.stack_debug_mode_hidden": {
+        "string": "堆叠调试模式: 已关闭显示"
     },
-    "copy_to_clipboard.emails_copied_to_clipboard": {
-        "string": "{numEmails, plural, one {{emailText} copied to your clipboard} other {{numEmails, number, integer} emails copied to your clipboard}}"
+    "visual_bell.stack_debug_mode_visible": {
+        "string": "堆叠调试模式: 已开启显示"
     },
-    "copy_to_clipboard.link_to_selection_copied_to_clipboard": {
-        "string": "Link to selection copied to clipboard"
+    "visual_bell.stack_dynamic_insertion_hidden": {
+        "string": "自动布局动态插入点: 已关闭显示"
     },
-    "whiteboard.timer.song_not_available_error": {
-        "string": "Looks like that song isn’t available. Try another!"
+    "visual_bell.stack_dynamic_insertion_visible": {
+        "string": "自动布局动态插入点: 已开启显示"
     },
-    "tile.favoriting.file_removed_from_sidebar": {
-        "string": "File removed from your sidebar"
+    "visual_bell.stack_shadows_hidden": {
+        "string": "自动布局阴影: 已关闭显示"
     },
-    "tile.favoriting.file_removed_from_favorites": {
-        "string": "File removed from your favorites"
+    "visual_bell.stack_shadows_visible": {
+        "string": "自动布局阴影: 已开启显示"
     },
-    "tile.favoriting.file_added_to_sidebar": {
-        "string": "File added to your sidebar"
+    "visual_bell.starting_points_removed": {
+        "string": "已删除{removedCount, plural, other {{removedCount}个起点}}"
     },
-    "tile.favoriting.file_added_to_favorites": {
-        "string": "File added to your favorites"
+    "visual_bell.status.node_marked_ready": {
+        "string": "已标记节点为准备就绪"
     }
 }

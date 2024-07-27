@@ -1,152 +1,152 @@
 {
-    "community.publishing.use_a_prototype_preview": {
-        "string": "Use a prototype preview"
+    "community.purchase_home.contact_creator": {
+        "string": "联系创建者"
     },
-    "community.publishing.instead_of_images_your_resource_will_display_as_a_prototype": {
-        "string": "Instead of images, your resource will display as a prototype."
+    "community.purchase_home.free_trial_ended": {
+        "string": "免费试用已于{date}结束"
     },
-    "community.publishing.preview_as": {
-        "string": "Preview as"
+    "community.purchase_home.free_trial_ends": {
+        "string": "免费试用将于{date}结束"
     },
-    "community.publishing.file": {
-        "string": "File"
+    "community.purchase_home.get_support": {
+        "string": "获取支持"
     },
-    "community.publishing.prototype": {
-        "string": "Prototype"
+    "community.purchase_home.inactive": {
+        "string": "无效"
     },
-    "community.publishing.file_preview": {
-        "string": "File preview"
+    "community.purchase_home.manage_subscription": {
+        "string": "管理订阅"
     },
-    "community.publishing.prototype_preview": {
-        "string": "Prototype preview"
+    "community.purchase_home.purchased": {
+        "string": "已于{date}购买"
     },
-    "community.publishing.creators": {
-        "string": "Creator(s)"
+    "community.purchase_home.refunded": {
+        "string": "已于{date}退款"
     },
-    "community.publishing.cocreators": {
-        "string": "Co-creators"
+    "community.purchase_home.reload": {
+        "string": "重新加载"
     },
-    "community.seller.when_you_publish_a_paid_resource_you_cant_make_it_free_again": {
-        "string": "Charging for this resource now means you can't make it free later."
+    "community.purchase_home.renews": {
+        "string": "将于{date}续订"
     },
-    "community.seller.paid_hub_file_publish_info_banner": {
-        "string": "People can preview the first page of your file without buying it. Also, charging for a file now means you can’t make it free later."
+    "community.purchase_home.request_refund": {
+        "string": "请求退款"
     },
-    "community.seller.freemium_file_publish_info_banner": {
-        "string": "People can preview the first page of your file without buying it."
+    "community.purchase_home.resource_title": {
+        "string": "{resource_publisher}发布的{resource_name}"
     },
-    "community.seller.paid_hub_file_publish_info_banner_with_page_name": {
-        "string": "People can preview the first page ({pageName}) of your file without buying it. Also, charging for a file now means you can’t make it free later."
+    "community.purchase_home.see_order_details": {
+        "string": "查看订单详情"
     },
-    "community.seller.freemium_file_publish_info_banner_with_page_name": {
-        "string": "People can preview the first page ({pageName}) of your file without buying it."
+    "community.purchase_home.server_could_not_load_resources": {
+        "string": "服务器无法加载资源。{reload}"
     },
-    "community.seller.paid_hub_file_publish_warning_with_page_name": {
-        "string": "People can preview the first page ({pageName}) of your file without buying it. If you’d like to charge for this file, we’d recommend adding additional pages. Also, charging for this resource now means you can’t make it free later."
+    "community.purchase_home.show_more": {
+        "string": "显示更多"
     },
-    "community.seller.freemium_file_publish_warning_with_page_name": {
-        "string": "People can preview the first page ({pageName}) of your file without buying it. If you’d like to charge for this file, we’d recommend adding additional pages."
+    "community.purchase_home.this_resource_is_no_longer_available": {
+        "string": "此资源不再可用"
     },
-    "community.seller.why_link": {
-        "string": "Why?"
+    "community.purchase_home.update_payment_details": {
+        "string": "更新支付详情"
     },
-    "community.publishing.this_editor_is_being_published_as_a_file": {
-        "string": "This resource is being published as a file. To publish as a prototype, go to the {fileEditorLink}."
+    "community.rating_review.not_rated": {
+        "string": "未评分"
     },
-    "community.publishing.file_editor": {
-        "string": "file editor"
+    "community.rating_review.optional": {
+        "string": "可选"
     },
-    "community.publishing.editor_or_viewer_not_found": {
-        "string": "Editor or viewer not found"
+    "community.rating_review.ratings_not_available": {
+        "string": "暂无评分"
     },
-    "community.publishing.invite_creators_to_the_file_to_give_credit_creators_must_have_community_profiles": {
-        "string": "Invite creators to the file to give credit. Creators must have Community profiles."
+    "community.related_content.more_by_these_creators": {
+        "string": "这些创作者的更多内容"
     },
-    "community.publishing.give_up_to_n_creators_credit": {
-        "string": "Give up to {maxCreatorsPerResource} creators credit by name or @username"
+    "community.related_content.more_by_this_creator": {
+        "string": "此创作者的更多内容"
     },
-    "community.publishing.add_up_to_n_creators": {
-        "string": "Add up to {maxCreatorsPerResource} additional creators"
+    "community.related_content.more_like_this": {
+        "string": "更多类似内容"
     },
-    "community.eula.license_agreement_v2": {
-        "string": "Read and accept agreement to use Apple Design Resources"
+    "community.reporting.add_your_description_here": {
+        "string": "（在此添加描述）"
     },
-    "community.eula.license_agreement_preamble": {
-        "string": "Before designing with assets from Apple, you'll have to review this license agreement."
+    "community.reporting.i_want_to_report_this_file_for_violating_the_community_guidelines_resource_url": {
+        "string": "我想举报此文件违反社区指南：{resourceUrl}"
     },
-    "community.buyer.this_account_has_already_purchased": {
-        "string": "This account has already purchased this resource"
+    "community.reporting.i_want_to_report_this_plugin_for_violating_the_plugin_guidelines_resource_url": {
+        "string": "我想举报此插件违反插件指南：{resourceUrl}"
     },
-    "community.try.not_allowed": {
-        "string": "Not allowed"
+    "community.reporting.i_want_to_report_this_widget_for_violating_the_community_guidelines_resource_url": {
+        "string": "我想举报此小部件违反社区指南：{resourceUrl}"
     },
-    "community.buyer.user_is_a_publisher": {
-        "string": "User is a publisher of the resource"
+    "community.reporting.my_figma_user_id_is_user_id": {
+        "string": "我的Figma用户ID是{userId}"
     },
-    "community.buyer.confirm_account": {
-        "string": "Confirm account"
+    "community.reporting.reporting_an_inappropriate_file": {
+        "string": "报告不适当的文件"
     },
-    "community.buyer.this_resource_will_only_be_accesible": {
-        "string": "This resource will only be accessible by this account."
+    "community.reporting.reporting_an_inappropriate_plugin": {
+        "string": "报告不适当的插件"
     },
-    "community.publishing.team_name": {
-        "string": "{team} (Team)"
+    "community.reporting.reporting_an_inappropriate_widget": {
+        "string": "报告不适当的小部件"
     },
-    "community.publishing.org_name": {
-        "string": "{org} (Org)"
+    "community.resource.2_creators": {
+        "string": "{creator1}和{creator2}"
     },
-    "community.publish.pending": {
-        "string": "(Pending)"
+    "community.resource.admin_blocked_resource_banner.this_resource_is_blocked": {
+        "string": "此资源已被阻止"
     },
-    "community.seller.orgs_cannot_sell": {
-        "string": "You’re publishing as an organization, so pricing is disabled. To sell this resource, publish it from External teams instead."
+    "community.resource.admin_blocked_resource_banner.you_can_only_view_this_page_as_an_admin": {
+        "string": "你只能以管理员身份查看此页面。"
     },
-    "community.seller.teams_cannot_sell": {
-        "string": "You’re publishing as a team, so pricing is disabled. To sell this resource, publish it from Drafts instead."
+    "community.resource.admin_bypass_payment_banner.viewing_as_community_reviewer_admin": {
+        "string": "作为社区审核管理员查看"
     },
-    "community.seller.resource_is_private": {
-        "string": "Looks like this resource is private. To sell it, you'll need to publish it to everyone in Community."
+    "community.resource.admin_bypass_payment_banner.you_are_viewing_this_page_as_an_admin_reviewer": {
+        "string": "你正以社区审核管理员身份查看此页面。可以使用此横幅的CTA跳过支付要求。"
     },
-    "community.seller.one_time_payment": {
-        "string": "One-time payment"
+    "community.resource.by_2_creators": {
+        "string": "{creator1}和{creator2}"
     },
-    "community.seller.monthly_subscription": {
-        "string": "Monthly subscription"
+    "community.resource.by_creator": {
+        "string": "由{creator}发布"
     },
-    "community.publishing.dimensions": {
-        "string": "{width}x{height}"
+    "community.resource.by_more_than_2_creators": {
+        "string": "{creator1}等"
     },
-    "community.publishing.feel_free_to_edit_your_page.widget": {
-        "string": "In the meantime, feel free to edit your widget's Community page. The page is private to you until the widget goes live."
+    "community.resource.by_others": {
+        "string": "其他"
     },
-    "community.publishing.feel_free_to_edit_your_page.plugin": {
-        "string": "In the meantime, feel free to edit your plugin’s Community page. The page is private to you until the plugin goes live."
+    "community.resource.by_x_others": {
+        "string": "其他{numPublishers}名"
     },
-    "community.publishing.when_you_change_the_price_of_a_subscription": {
-        "string": "When you change the price of a subscription, the new price can take up to an hour to appear on Community. Please check back in a little bit."
+    "community.resource.creator": {
+        "string": "{creator}"
     },
-    "community.publishing.you_can_also_invite_other_people_to_update": {
-        "string": "You can also {inviteOtherPeopleLink}—like teammates or collaborators—to update this resource."
+    "community.resource.delist": {
+        "string": "取消上架"
     },
-    "community.publishing.invite_other_people_link": {
-        "string": "invite other people"
+    "community.resource.delisted": {
+        "string": "已取消上架"
     },
-    "community.publishing.see_our_guidelines_here": {
-        "string": "See our guidelines here"
+    "community.resource.delisted_prev_purchasers_can_still_access": {
+        "string": "之前已购买的用户仍可访问。"
     },
-    "community.publishing.resource_will_now_be_reviewed_by_the_figma_team": {
-        "string": "{resourceName} will now be reviewed by the Figma team. You will receive an email regarding its status in 5-10 business days. Once approved, your resource will be available to the entire Figma community. {seeOurGuidelinesLink}."
+    "community.resource.delisted_prev_purchasers_can_still_access__subscription": {
+        "string": "之前已购买的用户在账单周期结束前仍可访问。"
     },
-    "community.publishing.below_is_your_resources_url.plugin.once_approved": {
-        "string": "Below is your plugin's unique URL. Feel free to share once your plugin is approved."
+    "community.resource.delisted_stripe_issues": {
+        "string": "似乎你的Stripe账户有问题。请前往Stripe仪表盘修复问题。"
     },
-    "community.publishing.below_is_your_resources_url.widget.once_approved": {
-        "string": "Below is your widget's unique URL. Feel free to share once your widget is approved."
+    "community.resource.delisted_title": {
+        "string": "此资源不再出售"
     },
-    "community.publishing.resource_is_now_available_to_members_of_org": {
-        "string": "{resourceName} is now available to members of {orgName}"
+    "community.resource.delisted_you_ll_continue_to_have_access_to_it": {
+        "string": "你将继续有权访问。"
     },
-    "community.publishing.below_is_your_resources_url.plugin.with_your_teammates": {
-        "string": "Below is your plugin's unique URL. Feel free to share it with your teammates!"
+    "community.resource.delisted_you_ll_continue_to_have_access_until": {
+        "string": "你将继续有权访问直到{dateString}。"
     }
 }

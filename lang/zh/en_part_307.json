@@ -1,152 +1,152 @@
 {
-    "community.seller.good_news": {
-        "string": "Good news!"
+    "templates.banner.made_by_you": {
+        "string": "あなたが作成しました。"
     },
-    "community.seller.set_up_stripe": {
-        "string": "Set up Stripe"
+    "templates.banner.republish.made_by_publisher_name": {
+        "string": "{publisherName}が作成した"
     },
-    "community.seller.finish_set_up": {
-        "string": "Finish setup"
+    "templates.banner.republish.primary_text": {
+        "string": "未公開の変更"
     },
-    "community.seller.finish_stripe_setup": {
-        "string": "Finish Stripe setup."
+    "templates.banner.republish.republish_action": {
+        "string": "変更を公開"
     },
-    "community.seller.few_steps_left_stripe": {
-        "string": "Looks like you still have a few steps left before you can sell resources on Community. Jump back in?"
+    "templates.banner.republish.secondary_text": {
+        "string": "これらの変更を公開してテンプレートを更新します。"
     },
-    "community.seller.visit_stripe": {
-        "string": "Visit Stripe"
+    "templates.banner.republish.secondary_text_not_owner": {
+        "string": "このテンプレートの古いバージョンを引き続き使用できます。"
     },
-    "community.seller.stripe_needs_your_attention": {
-        "string": "Stripe needs your attention."
+    "templates.banner.republish.you_re_viewing_a_template": {
+        "string": "表示しているのはテンプレートです。"
     },
-    "community.seller.you_can_resolve": {
-        "string": "You can resolve the issue through your Stripe dashboard."
+    "templates.banner.republish.you_re_viewing_a_template_made_by_publisher_name": {
+        "string": "表示しているテンプレートは、{madeByPublisherName}"
     },
-    "community.resource.delisted_stripe_issues": {
-        "string": "Looks like there's an issue with your Stripe account. Head to the Stripe dashboard to get things working again."
+    "templates.confirmation.move_from_drafts.button": {
+        "string": "ファイルを移動"
     },
-    "community.resource.delisted_prev_purchasers_can_still_access__subscription": {
-        "string": "Anyone who bought it will still have access until the end of their billing cycle."
+    "templates.confirmation.move_from_drafts.description": {
+        "string": "このファイルをテンプレートとして公開するには、ドラフトから移動する必要があります。"
     },
-    "community.resource.delisted_prev_purchasers_can_still_access": {
-        "string": "Anyone who bought it will still have access to it."
+    "templates.confirmation.move_from_drafts.title": {
+        "string": "ドラフトから移動"
     },
-    "community.resource.delisted_you_ll_continue_to_have_access_until": {
-        "string": "You'll continue to have access until {dateString}."
+    "templates.confirmation.move_to_drafts.button_v2": {
+        "string": "移動と公開取り消し"
     },
-    "community.resource.delisted_you_ll_continue_to_have_access_to_it": {
-        "string": "You'll continue to have access to it."
+    "templates.confirmation.move_to_drafts.description": {
+        "string": "このファイルをドラフトに移動すると、チームのテンプレートから削除されます。"
     },
-    "community.resource.if_you_have_questions_reach_out_to_creator": {
-        "string": "If you have questions, please reach out to the creator."
+    "templates.confirmation.move_to_drafts.description.multiselect_v2": {
+        "string": "ファイルの一部はテンプレートです。ドラフトに移動すると、チームのテンプレートから削除されます。"
     },
-    "community.seller.only_you_can_see_your_file": {
-        "string": "Only you can see it while your file is in review."
+    "templates.confirmation.move_to_drafts.title": {
+        "string": "{count, plural, other {テンプレートを非公開にしますか?}}"
     },
-    "community.seller.only_you_can_see_your_plugin": {
-        "string": "Only you can see it while your plugin is in review."
+    "templates.confirmation.publish.secret.confirm.publish_anyway": {
+        "string": "公開"
     },
-    "community.seller.only_you_can_see_your_widget": {
-        "string": "Only you can see it while your widget is in review."
+    "templates.confirmation.publish.secret.description": {
+        "string": "{teamName}はシークレットチームです。このテンプレートを公開すると、{orgName}のメンバーがこのチームの名前を見ることができます。"
     },
-    "community.seller.this_page_is_private": {
-        "string": "This page is private for now"
+    "templates.confirmation.publish.secret.title_v2": {
+        "string": "シークレットチームの名前が明かされます"
     },
-    "community.resource.unpublished_banner.only_you_can_see_this_page.hub_file": {
-        "string": "Only you can see this page. To republish this resource, publish a new version using the original file."
+    "templates.confirmation.unpublish.description_v2": {
+        "string": "{templateName}がチームのテンプレートから削除されますが、ファイルそのものは削除されません。"
     },
-    "community.resource.unpublished_banner.only_you_can_see_this_page.plugin": {
-        "string": "Only you can see this page. To republish this resource, publish a new version using a plugin with the same id"
+    "templates.confirmation.unpublish.title": {
+        "string": "テンプレートの公開を取り消しますか?"
     },
-    "community.resource.unpublished_banner.only_you_can_see_this_page.widget": {
-        "string": "Only you can see this page. To republish this resource, publish a new version using a widget with the same id"
+    "templates.detail.publish_button": {
+        "string": "更新内容を公開"
     },
-    "community.resource.unpublished_banner.your_resource_is_unpublished": {
-        "string": "Your resource is unpublished"
+    "templates.detail.published_time": {
+        "string": "{time}に更新済み"
     },
-    "community.resource.admin_blocked_resource_banner.you_can_only_view_this_page_as_an_admin": {
-        "string": "You are viewing this page as a Community admin."
+    "templates.detail.unpublish_button": {
+        "string": "公開を取り消す"
     },
-    "community.resource.edit_this_page": {
-        "string": "Edit this page"
+    "templates.move_from_drafts.bell.action": {
+        "string": "テンプレートを公開"
     },
-    "community.hub_files.open_original_file": {
-        "string": "Open original file"
+    "templates.publishing.bell.failure": {
+        "string": "テンプレートの公開に失敗しました"
     },
-    "community.hub_files.delisting_this_resource_will_prevent_people_from_discovering_or_purchasing_this_resource": {
-        "string": "Delisting this resource will prevent people from discovering or purchasing this resource on Community. Existing purchasers will continue to be able to use this resource."
+    "templates.publishing.bell.success": {
+        "string": "テンプレートを公開済み"
     },
-    "community.resource.manage_resource": {
-        "string": "Manage resource"
+    "templates.publishing.bell.updated": {
+        "string": "テンプレートを更新済み"
     },
-    "community.resource.your_resource_is_live": {
-        "string": "Your resource is live"
+    "templates.publishing.description.placeholder": {
+        "string": "このテンプレートの目的は?"
     },
-    "community.resource.next_we_recommend_adding_more_images": {
-        "string": "Next, we recommend adding more images to give users a preview of your file."
+    "templates.publishing.header": {
+        "string": "テンプレートを公開"
     },
-    "community.resource.next_we_recommend_adding_more_images_and_videos": {
-        "string": "Next, we recommend adding more images and videos to give users a preview of your {resourceType}."
+    "templates.publishing.header.updates": {
+        "string": "更新を公開"
     },
-    "community.collections.this_feature_isnt_available": {
-        "string": "This feature isn't available"
+    "templates.publishing.publish": {
+        "string": "公開"
     },
-    "community.collections.this_feature_isnt_available_body": {
-        "string": "FigJam AI features aren’t currently enabled for your team or organization."
+    "templates.publishing.publish.updates": {
+        "string": "更新を公開"
     },
-    "community.collections.learn_more": {
-        "string": "Learn more"
+    "templates.publishing.restore_default_thumbnail": {
+        "string": "デフォルトのサムネイルを復元"
     },
-    "community.collections.generate": {
-        "string": "Generate"
+    "templates.publishing.scope.label": {
+        "string": "公開先"
     },
-    "community.comments.load_more_comments": {
-        "string": "Load more comments"
+    "templates.publishing.scope.organization": {
+        "string": "組織全体"
     },
-    "community.comments.pluralize_comments": {
-        "string": "{numComments, plural, one {{numComments} comment} other {{numComments} comments}}"
+    "templates.publishing.scope.team": {
+        "string": "現在のチーム"
     },
-    "community.comments.all": {
-        "string": "All"
+    "templates.publishing.thumbnail_size_dimension_spec": {
+        "string": "サイズ: 1920x960"
     },
-    "community.comments.your_comments": {
-        "string": "Your comments"
+    "templates.publishing.upload_custom_thumbnail": {
+        "string": "カスタムサムネイルをアップロード"
     },
-    "community.comments.comments_only": {
-        "string": "Comments only"
+    "templates.unpublishing.bell.failure": {
+        "string": "テンプレートの公開を取り消せませんでした"
     },
-    "community.comments.reviews_only": {
-        "string": "Reviews only"
+    "templates.unpublishing.bell.success": {
+        "string": "テンプレートの公開を取り消しました"
     },
-    "community.comments.show_resolved": {
-        "string": "Show resolved"
+    "textreview.also_turn_off_figma_spell_check": {
+        "string": "Figmaのスペルチェックもオフにする"
     },
-    "community.comments.to_comment_switch_to_your_personal_profile": {
-        "string": "To comment, switch to your personal profile"
+    "textreview.as_you_type_plugin_name_will_review_your_text_and_provide_suggestions": {
+        "string": " 入力中に、{pluginName}はテキストを確認して入力候補を表示します。"
     },
-    "community.comments.your_kudos_and_feedback_are_welcome": {
-        "string": "Your kudos and feedback are welcome!"
+    "textreview.use_plugin_name_confirm": {
+        "string": "{pluginName}を使用"
     },
-    "community.comments.share_your_thoughts_using_the_comment_box_above": {
-        "string": "Share your thoughts using the comment box above."
+    "textreview.use_plugin_name_confirm_default": {
+        "string": "プラグインを使用"
     },
-    "community.comments.comment_actions": {
-        "string": "Comment actions"
+    "textreview.use_plugin_name_title": {
+        "string": "{pluginName}を使用しますか?"
     },
-    "community.comments.new_comments": {
-        "string": "New comments!"
+    "textreview.use_plugin_name_title_default": {
+        "string": "プラグインを使用しますか?"
     },
-    "community.comments.refresh": {
-        "string": "Refresh"
+    "swy_tile.shared": {
+        "string": "共有済み"
     },
-    "community.comments.creator": {
-        "string": "Creator"
+    "swy_tile.shared_date": {
+        "string": "{shared_date}に共有"
     },
-    "community.comments.copy_link": {
-        "string": "Copy link"
+    "team_tile.guest.no_teams.info": {
+        "string": "{orgName}のどのチームのメンバーでもありません。"
     },
-    "community.comments.edit": {
-        "string": "Edit"
+    "team_tile.members_count": {
+        "string": "{numMembers, plural, other {{numMembers}メンバー}}"
     }
 }

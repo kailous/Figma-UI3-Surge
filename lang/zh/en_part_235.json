@@ -1,152 +1,152 @@
 {
-    "dev_handoff.annotations_introduction_overlay.primary_cta": {
-        "string": "Show me"
+    "confirm_workspace_change.unassigned": {
+        "string": "未分配"
     },
-    "dev_handoff.annotations_introduction_overlay.image_alt": {
-        "string": "Dimensions values and annotation text attached to a design."
+    "org_invite.email_input_description.billing_group_and_workspace_disclaimer": {
+        "string": "加入后，将添加到{workspaceName}工作区和{billingGroupName}账单组。"
     },
-    "dev_handoff.annotations_upsell_overlay.title": {
-        "string": "Annotations"
+    "org_invite.email_input_description.billing_group_disclaimer": {
+        "string": "加入后，将添加到{billingGroupName}账单组。"
     },
-    "dev_handoff.annotations_upsell_overlay.description": {
-        "string": "This file includes annotations—a Dev Mode feature that makes it easy to get the details just right."
+    "org_invite.email_input_description.guest_invite_allow_list": {
+        "string": "要邀请用户加入{orgName}组织，请在下面添加电子邮件地址。"
     },
-    "dev_handoff.annotations_upsell_overlay.primary_cta": {
-        "string": "Open Dev Mode"
+    "org_invite.email_input_description.invite_allowlist_enforced": {
+        "string": "上传新用户信息后，将向新用户发送邀请邮件以开始使用Figma。"
     },
-    "dev_handoff.annotations_upsell_overlay.secondary_cta": {
-        "string": "Not now"
+    "org_invite.email_input_description.multiple_domains.expand_link": {
+        "string": "+剩余{remainingDomainCount}"
     },
-    "rcs.mobile_comment_announcement.title": {
-        "string": "Get notified of replies on the go"
+    "org_invite.email_input_description.multiple_domains.expanded": {
+        "string": "可以邀请电子邮件域为{domainList}的成员加入{orgName}组织。"
     },
-    "rcs.mobile_comment_announcement.description": {
-        "string": "Scan the QR code to get the Figma mobile app — access your files, prototypes, and comments and stay connected to your team, even on the go."
+    "org_invite.email_input_description.multiple_domains.with_expand_link": {
+        "string": "可以邀请电子邮件域为{domain} {expandLink}的成员加入{orgName}组织。"
     },
-    "rcs.mobile_comment_announcement.email_download_link": {
-        "string": "Email download link"
+    "org_invite.email_input_description.single_domain": {
+        "string": "可以邀请电子邮件域为{domain}的成员加入{orgName}组织。"
     },
-    "recordings.following_name": {
-        "string": "Following {name}"
+    "org_invite.email_input_description.workspace_disclaimer": {
+        "string": "加入后，成员将被添加到{workspaceName}工作区。"
     },
-    "recordings.not_following_name": {
-        "string": "Not following {name}"
+    "org_invite.existing_members_message": {
+        "string": "{numExisting, plural, other {{numExisting}人已经在组织中。}}"
     },
-    "recordings.stop_following": {
-        "string": "Stop following"
+    "org_invite.invite_button": {
+        "string": "发送邀请"
     },
-    "recordings.follow": {
-        "string": "Follow"
+    "org_invite.invite_members": {
+        "string": "邀请其他成员加入{orgName}"
     },
-    "recordings.delete_recording_title": {
-        "string": "Delete recording"
+    "org_invite.invite_resent": {
+        "string": "邀请已重新发送。"
     },
-    "collaboration.voice.leave": {
-        "string": "Leave"
+    "org_invite.invite_users": {
+        "string": "邀请用户加入{orgName}"
     },
-    "collaboration.voice.minimize": {
-        "string": "Minimize"
+    "org_invite.new_members_message": {
+        "string": "{numInvites, plural, other {{numInvites}名成员已被邀请。}}"
     },
-    "collaboration.voice.settings": {
-        "string": "Settings"
+    "org_invite.org_invite_creation_error": {
+        "string": "创建组织邀请时发生错误。"
     },
-    "canvas_search.previous": {
-        "string": "Previous result"
+    "org_invite.org_invite_deletion_error": {
+        "string": "删除组织邀请时发生错误。"
     },
-    "canvas_search.next": {
-        "string": "Next result"
+    "org_invite.org_invite_deletion_success": {
+        "string": "临时用户{email}已删除"
     },
-    "canvas_search.close": {
-        "string": "Close"
+    "org_invite.org_invite_update_error": {
+        "string": "更新组织邀请时发生错误。"
     },
-    "canvas_search.no_results": {
-        "string": "No results"
+    "org_invite.org_invite_update_success": {
+        "string": "临时用户{email}已更新。"
     },
-    "canvas_search.results_index_count": {
-        "string": "{index} of {total}"
+    "org_invite.pending_guest_confirmation.button": {
+        "string": "邀请"
     },
-    "meetings_panel.toolbar_tooltip": {
-        "string": "Timer, music, and voting"
+    "org_invite.pending_guest_confirmation.description": {
+        "string": "{numEmails, plural, other {将邀请组织外部用户({emailList})。}}"
     },
-    "meetings_panel.toolbar_tooltip.no_voting": {
-        "string": "Timer and music"
+    "org_invite.pending_guest_confirmation.learn_more_link": {
+        "string": "了解更多"
     },
-    "upsell.advanced_prototyping.title": {
-        "string": "Prototype like a pro"
+    "org_invite.pending_guest_confirmation.title": {
+        "string": "确定吗?"
     },
-    "upsell.advanced_prototyping.description": {
-        "string": "Bring your ideas to life through interactive prototypes. Videos, variables, conditional logic, and more—all included with the Pro plan."
+    "org_join_request.add_to_org_confirmation_button_text": {
+        "string": "添加到组织"
     },
-    "upsell.advanced_prototyping.see_plans": {
-        "string": "See plans"
+    "org_join_request.approve_error": {
+        "string": "批准加入组织请求时发生错误"
     },
-    "collaboration.voice.join_the_conversation": {
-        "string": "Join the conversation"
+    "org_join_request.cancel_text": {
+        "string": "拒绝"
     },
-    "desktop_download_modal_prompt.download_the_figma_desktop_app": {
-        "string": "Download the Figma desktop app"
+    "org_join_request.deprovisioned_confirmation_button_text": {
+        "string": "确认"
     },
-    "desktop_download_modal_prompt.level_up_your_workflow_with_tabs": {
-        "string": "Level up your workflow with tabs, quick access to files, new file creation, and dedicated desktop notifications with the Figma desktop app."
+    "org_join_request.description_edit_file": {
+        "string": "{inviterName}邀请用户编辑{resourceName}，但需要将用户添加到组织才能访问文件。"
     },
-    "desktop_download_modal_prompt.get_the_desktop_app": {
-        "string": "Get the desktop app"
+    "org_join_request.description_edit_folder": {
+        "string": "{inviterName}邀请用户编辑{resourceName}，但需要将用户添加到组织才能访问文件夹。"
     },
-    "desktop_download_modal_prompt.learn_more": {
-        "string": "Learn more"
+    "org_join_request.description_edit_team": {
+        "string": "{inviterName}邀请用户编辑{resourceName}，但需要将用户添加到组织才能访问团队。"
     },
-    "pages_panel.toolbar.rcs_title": {
-        "string": "Pages—now in FigJam"
+    "org_join_request.description_view_file": {
+        "string": "{inviterName}邀请用户查看{resourceName}，但需要将用户添加到组织才能访问文件。"
     },
-    "pages_panel.toolbar.rcs_desc": {
-        "string": "Bring order to your files, and more space to explore, scribble, and riff. "
+    "org_join_request.description_view_folder": {
+        "string": "{inviterName}邀请用户查看{resourceName}，但需要将用户添加到组织才能访问文件夹。"
     },
-    "pages_panel.toolbar.icon.pageCount.aria_label": {
-        "string": "Numbered pages toolbar icon"
+    "org_join_request.description_view_team": {
+        "string": "{inviterName}邀请用户查看{resourceName}，但需要将用户添加到组织才能访问团队。"
     },
-    "pages_panel.toolbar.icon.addPage.aria_label": {
-        "string": "Add page toolbar icon"
+    "org_join_request.description_would_like_to_join": {
+        "string": "{requesterNameAndEmail}希望加入{orgName}组织。"
     },
-    "pages_panel.toolbar.icon.ellipis.aria_label": {
-        "string": "Ellipsis page toolbar icon"
+    "org_join_request.generic_fetch_error": {
+        "string": "获取加入组织请求时发生错误"
     },
-    "pages_panel.toolbar.add_pages_tooltip": {
-        "string": "Add pages"
+    "org_join_request.loading_confirmation_button_text": {
+        "string": "添加中..."
     },
-    "pages_panel.toolbar.view_pages_tooltip": {
-        "string": "View pages"
+    "org_join_request.modal_title": {
+        "string": "将{requesterName}添加到组织吗?"
     },
-    "fullscreen.toolbar.done": {
-        "string": "Done"
+    "org_join_request.request_approved_message": {
+        "string": "{requesterName}已被添加到组织"
     },
-    "fullscreen.accessibility_dom.primary_toolbar_label": {
-        "string": "Main toolbar"
+    "org_join_request.scim_enabled_banner": {
+        "string": "如果您使用ID提供程序，请忽略此请求并在提供程序中添加用户。"
     },
-    "figjam_try.already_claimed_modal.header": {
-        "string": "Looks like someone already saved this board to their account."
+    "org_join_request.user_deprovisioned_warning": {
+        "string": "此用户以前在组织的ID提供程序中被取消配置，因此需要通过ID提供程序管理其对Figma的访问。"
     },
-    "figjam_try.already_claimed_modal.description": {
-        "string": "You can still access this file for now. To add a copy to your account, go to {file_duplicate}."
+    "org_upgrade.action_text.configurable_request_upgrade_instructions": {
+        "string": "请按照以下管理员指示操作"
     },
-    "figjam_try.already_claimed_modal.file_duplicate": {
-        "string": "File Name → Duplicate"
+    "org_upgrade.action_text.create_branch": {
+        "string": "要创建分支，请{requestUpgradeInstructions}。"
     },
-    "figjam_try.already_claimed_modal.continue": {
-        "string": "Continue"
+    "org_upgrade.action_text.create_edit_import_design_files": {
+        "string": "要创建、编辑和导入Figma设计文件，请{requestUpgradeInstructions}。"
     },
-    "whiteboard.ui3_panels.rcs_title": {
-        "string": "FigJam has a new look!"
+    "org_upgrade.action_text.create_edit_import_figjam_boards": {
+        "string": "要创建、编辑和导入FigJam白板，请{requestUpgradeInstructions}。"
     },
-    "whiteboard.ui3_left_panel.rcs_description": {
-        "string": "You'll still be able to access file options and pages here."
+    "org_upgrade.action_text.create_file": {
+        "string": "要创建文件，请{requestUpgradeInstructions}。"
     },
-    "whiteboard.ui3_right_panel.rcs_description": {
-        "string": "AI generate, templates, and comments have moved here next to meeting tools."
+    "org_upgrade.action_text.drafts": {
+        "string": "要从{boldedDrafts}共享文件，请{requestUpgradeInstructions}。"
     },
-    "rcs.upsell_libraries.reuse_components_across_all_files": {
-        "string": "Reuse components across all files"
+    "org_upgrade.action_text.edit_files": {
+        "string": "要编辑此组织的文件，请{requestUpgradeInstructions}。"
     },
-    "rcs.upsell_libraries.quickly_access_components": {
-        "string": "Quickly access components from other files with a team library—available on the Professional or Organization plans."
+    "org_upgrade.action_text.plugin": {
+        "string": "要运行插件，请{requestUpgradeInstructions}。"
     }
 }

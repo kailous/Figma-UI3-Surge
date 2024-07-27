@@ -1,152 +1,152 @@
 {
-    "auth.error.saml_invalid_name_id": {
-        "string": "The NameID provided by the IdP should be in the format urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress"
+    "activity_log.event.folder_transfer_copy_approved": {
+        "string": "批准了{folderName}项目副本的组织迁移"
     },
-    "auth.error.saml_invalid_signature": {
-        "string": "The certificate configured in Figma does not match the IdP's signing certificate."
+    "activity_log.event.folder_transfer_copy_received": {
+        "string": "组织{orgName}的{teamName}希望将{folderName}项目副本迁移到组织"
     },
-    "auth.error.session_expired_or_invalid": {
-        "string": "Session expired or invalid"
+    "activity_log.event.folder_transfer_copy_received_no_source_org": {
+        "string": "{teamName}希望将{folderName}项目副本迁移到组织"
     },
-    "auth.error.set-password": {
-        "string": "Please set a password."
+    "activity_log.event.folder_transfer_copy_received_no_source_team": {
+        "string": "组织{orgName}的团队希望将{folderName}项目副本迁移到组织"
     },
-    "auth.error.signup_google_sso_required": {
-        "string": "Your organization requires you to sign up with Google."
+    "activity_log.event.folder_transfer_copy_sent": {
+        "string": "请求将{folderName}项目副本迁移到组织{destinationOrg}的{destinationTeam}"
     },
-    "auth.error.team_at_editor_limit": {
-        "string": "{TEAM_NAME} at editor limit"
+    "activity_log.event.folder_transfer_copy_sent_pro_team": {
+        "string": "请求将{folderName}项目副本迁移到{destinationTeam}"
     },
-    "auth.error.team_at_editor_limit.seat_rename": {
-        "string": "{TEAM_NAME} at paid seat limit"
+    "activity_log.event.folder_transfer_copy_sent_secret_teams": {
+        "string": "请求将{folderName}项目副本迁移到组织{destinationOrg}的团队"
     },
-    "auth.error.type-new-password": {
-        "string": "Please type a new password."
+    "activity_log.event.folder_transfer_received": {
+        "string": "组织{orgName}的{teamName}希望将{folderName}项目迁移到组织"
     },
-    "auth.error.unable-to-send-email": {
-        "string": "Unable to send email. Please try again in a few minutes."
+    "activity_log.event.folder_transfer_received_no_source_org": {
+        "string": "{teamName}希望将{folderName}项目迁移到组织"
     },
-    "auth.error.use-shorter-email": {
-        "string": "Please use a shorter email"
+    "activity_log.event.folder_transfer_received_no_source_team": {
+        "string": "组织{orgName}的团队希望将{folderName}项目迁移到组织"
     },
-    "auth.error.use-shorter-name": {
-        "string": "Please use a shorter name"
+    "activity_log.event.folder_transfer_sent": {
+        "string": "请求将{folderName}项目迁移到{destinationOrg}组织的{destinationTeam}"
     },
-    "auth.error.user_not_found": {
-        "string": "User not found"
+    "activity_log.event.folder_transfer_sent_pro_team": {
+        "string": "请求将{folderName}项目迁移到{destinationTeam}"
     },
-    "auth.error.we_couldn_t_find_an_account_with_that_email_try_signing_up_instead": {
-        "string": "We couldn’t find an account with that email. Try signing up instead."
+    "activity_log.event.folder_transfer_sent_secret_teams": {
+        "string": "请求将{folderName}项目迁移到组织{destinationOrg}的团队"
     },
-    "auth.error.wrong_password": {
-        "string": "Wrong password"
+    "activity_log.event.google_sso_auth_disable": {
+        "string": "禁用了Google SSO认证"
     },
-    "auth.your_account_deletion_is_being_processed": {
-        "string": "Your account needs time to finish deleting. We'll email you when it's all done."
+    "activity_log.event.google_sso_auth_enable": {
+        "string": "启用了Google SSO认证"
     },
-    "auth.your_changes_have_been_saved": {
-        "string": "Your changes have been saved."
+    "activity_log.event.idle_timeout_setting_change": {
+        "string": "将空闲会话超时从{oldDuration}更改为{newDuration}"
     },
-    "comments.pinning.err.already_pinned": {
-        "string": "Comment already pinned"
+    "activity_log.event.idle_timeout_setting_disable": {
+        "string": "禁用了空闲会话超时"
     },
-    "comments.pinning.err.cannot_pin_resolved_comment": {
-        "string": "Cannot pin a resolved comment"
+    "activity_log.event.idle_timeout_setting_enable": {
+        "string": "启用了{duration}的空闲会话超时"
     },
-    "comments.pinning.err.disabled_feature": {
-        "string": "Comment pinning disabled"
+    "activity_log.event.internal_admin_event_not_configured": {
+        "string": "由于管理员配置，无法查看{eventName}类型的事件。请在#feat-support-activity-logs请求支持。"
     },
-    "comments.pinning.err.fallback": {
-        "string": "Comment pinning failed"
+    "activity_log.event.ip_allowlist_range_create": {
+        "string": "将IP范围{ip_address}添加到允许列表"
     },
-    "comments.pinning.err.not_allowed": {
-        "string": "You are not allowed to pin this comment"
+    "activity_log.event.ip_allowlist_range_delete": {
+        "string": "从允许列表中删除了IP范围{ip_address}"
     },
-    "comments.pinning.err.only_threads": {
-        "string": "Cannot pin comment replies"
+    "activity_log.event.ip_allowlist_setting_disabled": {
+        "string": "禁用了IP允许列表设置"
     },
-    "community.search.generic_search_error": {
-        "string": "Something went wrong in your search. Please try again at a later time."
+    "activity_log.event.ip_allowlist_setting_enabled": {
+        "string": "启用了IP允许列表设置"
     },
-    "community.buyer.annual_subscription_is_unavailable": {
-        "string": "Purchasing annual subscription is currently unavailable. We apologize for the inconvenience!"
+    "activity_log.event.ip_network_access_restriction_range_create": {
+        "string": "添加了IP范围{ip_address}的网络访问限制（尚未生效）"
     },
-    "community.buyer.block_indian_customers": {
-        "string": "Figma Community Marketplace is not accepting payments from India-based credit cards at this time."
+    "activity_log.event.ip_network_access_restriction_range_delete": {
+        "string": "删除了IP范围{ip_address}的网络访问限制"
     },
-    "community.buyer.block_russian_customers": {
-        "string": "Figma Community Marketplace is not accepting payments from customers located in Russia at this time."
+    "activity_log.event.ip_network_access_restriction_range_disable": {
+        "string": "禁用了IP范围{ip_address}的网络访问限制"
     },
-    "community.buyer.purchasing_is_temporarily_unavailable": {
-        "string": "Purchasing is temporarily unavailable. We apologize for the inconvenience!"
+    "activity_log.event.ip_network_access_restriction_range_enable": {
+        "string": "启用了IP范围{ip_address}的网络访问限制"
     },
-    "community.buyer.subscription_interval_required_for_purchasing_subscription": {
-        "string": "Subscription interval is required when purchasing a subscription."
+    "activity_log.event.ip_restriction_disable": {
+        "string": "禁用了网络访问限制设置"
     },
-    "community.buyer.valid_subscription_interval_required_for_purchasing_subscription": {
-        "string": "Valid subscription interval is required when purchasing a subscription."
+    "activity_log.event.ip_restriction_enable": {
+        "string": "启用了网络访问限制设置"
     },
-    "community.seller.cannot_transfer_file_ownership_of_paid_file": {
-        "string": "You cannot transfer ownership of this file since it is linked with a paid file."
+    "activity_log.event.library_setting_all_files": {
+        "string": "所有文件"
     },
-    "community.sinatra.blocks.block_type_not_supported": {
-        "string": "Block type \"{blockType}\" not supported"
+    "activity_log.event.library_setting_all_files_org_setting": {
+        "string": "所有文件（组织设置）"
     },
-    "community.sinatra.blocks.cannot_block_yourself": {
-        "string": "Cannot block yourself"
+    "activity_log.event.library_setting_figjam_files": {
+        "string": "FigJam文件"
     },
-    "community.sinatra.blocks.profile_is_community_blocked": {
-        "string": "Profile is community blocked"
+    "activity_log.event.library_setting_figjam_files_org_setting": {
+        "string": "FigJam文件（组织设置）"
     },
-    "community.sinatra.blocks.profile_not_found": {
-        "string": "Profile not found"
+    "activity_log.event.library_setting_figma_files": {
+        "string": "Figma设计文件"
     },
-    "community.sinatra.blocks.you_havent_blocked_this_user": {
-        "string": "You haven't blocked this user"
+    "activity_log.event.library_setting_figma_files_org_setting": {
+        "string": "Figma设计文件（组织设置）"
     },
-    "community.sinatra.blocks.youve_already_blocked_this_user": {
-        "string": "You've already blocked this user"
+    "activity_log.event.library_setting_off": {
+        "string": "关闭"
     },
-    "community.sinatra.categories.category_not_found": {
-        "string": "Category not found"
+    "activity_log.event.library_setting_off_org_setting": {
+        "string": "关闭（组织设置）"
     },
-    "community.sinatra.categories.invalid_editor_types": {
-        "string": "Invalid editor types"
+    "activity_log.event.license_group_create_with_admins": {
+        "string": "创建了新的工作区{workspaceName}并指定{adminNames}为管理员"
     },
-    "community.sinatra.comments.comment_contains_too_many_mentions": {
-        "string": "Comment contains too many mentions"
+    "activity_log.event.license_group_membership_change": {
+        "string": "将{userEmail}从{workspaceName}工作区移到{newName}工作区"
     },
-    "community.sinatra.comments.comment_must_be_less_than_characters": {
-        "string": "Comment must be less than {humanReadableLength} characters."
+    "activity_log.event.license_group_membership_self_select": {
+        "string": "选择了{workspaceName}工作区"
     },
-    "community.sinatra.comments.file_does_not_allow_canvas_comments": {
-        "string": "File does not allow canvas comments"
+    "activity_log.event.oauth_token_grant": {
+        "string": "连接到了{appName}"
     },
-    "community.sinatra.comments.file_does_not_allow_comments": {
-        "string": "File does not allow comments"
+    "activity_log.event.oauth_token_grant_unknown": {
+        "string": "连接到了未知应用"
     },
-    "community.sinatra.comments.invalid_profiles_mentioned": {
-        "string": "Invalid profiles mentioned"
+    "activity_log.event.oauth_token_revoke": {
+        "string": "断开了与{appName}的连接"
     },
-    "community.sinatra.comments.invalid_rating_edit_action": {
-        "string": "Cannot add or remove rating on edit"
+    "activity_log.event.oauth_token_revoke_unknown": {
+        "string": "断开了与未知应用的连接"
     },
-    "community.sinatra.comments.invalid_rating_value": {
-        "string": "Invalid rating value"
+    "activity_log.event.open_sessions_end": {
+        "string": "结束了{name}的开放会话"
     },
-    "community.sinatra.comments.invalid_resource_type": {
-        "string": "Invalid resource type"
+    "activity_log.event.open_sessions_start": {
+        "string": "开始了{name}的开放会话"
     },
-    "community.sinatra.comments.must_include_a_resource": {
-        "string": "Must include a resource"
+    "activity_log.event.org_changed_library_setting": {
+        "string": "将{orgName}的{libraryName}默认库设置从{oldLibrarySetting}更改为{newLibrarySetting}"
     },
-    "community.sinatra.comments.one_of_message_or_message_meta_is_required": {
-        "string": "One of message or message_meta is required"
+    "activity_log.event.org_default_license_type_change.seat_rename": {
+        "string": "将{product}的默认座位类型更改为{role}"
     },
-    "community.sinatra.comments.one_of_message_or_message_meta_or_rating_value_is_required": {
-        "string": "One of message, message_meta, or rating_value is required"
+    "activity_log.event.org_domain_add": {
+        "string": "将域{domain}添加到组织{orgName}"
     },
-    "community.sinatra.comments.plugin_does_not_allow_comments": {
-        "string": "Plugin does not allow comments"
+    "activity_log.event.org_domain_capture_disable": {
+        "string": "禁用了组织{orgName}的域捕获"
     }
 }

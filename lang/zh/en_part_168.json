@@ -1,152 +1,152 @@
 {
-    "collaboration.feedback.date": {
-        "string": "{time, date, medium}"
+    "file_browser.unavailable_view_resource_capitalized": {
+        "string": "资源"
     },
-    "collaboration.feedback.new_branch_created": {
-        "string": "New branch created"
+    "file_browser.unavailable_view_resource_not_found": {
+        "string": "未找到{capitalizedResourceNoun}"
     },
-    "collaboration.feedback.branch_merged": {
-        "string": "Branch merged"
+    "file_browser.unavailable_view_text": {
+        "string": "此{resourceNoun}不存在或您没有查看权限。请联系{resourceNoun}所有者以确认链接或更新权限。"
     },
-    "collaboration.feedback.branch_updated_from_main_file": {
-        "string": "Branch updated from main file"
+    "file_browser.view_mode_toggle.show_as_grid": {
+        "string": "网格显示"
     },
-    "collaboration.feedback.branch_created": {
-        "string": "Branch created"
+    "file_browser.view_mode_toggle.show_as_list": {
+        "string": "列表显示"
     },
-    "collaboration.feedback.branch_merged_into_main_and_archived": {
-        "string": "Branch merged into Main and archived"
+    "file_browser.workspace": {
+        "string": "工作区"
     },
-    "collaboration.feedback.updated_from_main": {
-        "string": "Updated from Main"
+    "file_browser.workspace_capitalized": {
+        "string": "工作区"
     },
-    "collaboration.feedback.branch_archived": {
-        "string": "Branch archived"
+    "file_browser.workspace_pinning.no_files_matching_query": {
+        "string": "此工作区中没有与{searchQuery}匹配的文件"
     },
-    "collaboration.feedback.branch_restored": {
-        "string": "Branch restored"
+    "file_browser.workspace_pinning.no_suggested_files": {
+        "string": "使用搜索找到并固定设计库和模板等文件，以便在工作区中轻松参考。"
     },
-    "collaboration.feedback.branch": {
-        "string": "Branch"
+    "file_restore_from_version_modal.restore": {
+        "string": "恢复"
     },
-    "collaboration.feedback.show_less": {
-        "string": "Show less"
+    "file_restore_from_version_modal.restore_from_version_history": {
+        "string": "从版本历史中恢复"
     },
-    "collaboration.feedback.show_more": {
-        "string": "Show more"
+    "internal_profile.add_a_description": {
+        "string": "添加描述"
     },
-    "collaboration.feedback.num_editors_number_editor_count_more": {
-        "string": "+{numEditors} more"
+    "internal_profile.an_error_occurred": {
+        "string": "发生错误"
     },
-    "collaboration.feedback.branch_child_create": {
-        "string": "New branch {link} created"
+    "internal_profile.change_job_title": {
+        "string": "更改"
     },
-    "collaboration.feedback.merged": {
-        "string": "{link} merged"
+    "internal_profile.file_contributions": {
+        "string": "文件贡献者"
     },
-    "collaboration.feedback.branch_child_update": {
-        "string": "Branch {link} updated from main file"
+    "internal_profile.file_name": {
+        "string": "文件名"
     },
-    "collaboration.feedback.branch_merge": {
-        "string": "Branch merged into {link} and archived"
+    "internal_profile.job_title_nudge.text": {
+        "string": "通过在个人资料中添加工作或角色，让团队成员知道您在做什么。"
     },
-    "collaboration.feedback.branch_updated_from": {
-        "string": "Branch updated from {link}"
+    "internal_profile.job_title_nudge.title": {
+        "string": "选择标题"
     },
-    "collaboration.feedback.compare_changes_modal.section_created": {
-        "string": "Section created"
+    "internal_profile.last_activity": {
+        "string": "最后活动"
     },
-    "collaboration.feedback.compare_changes_modal.frame_created": {
-        "string": "Frame created"
+    "internal_profile.no_teams_in_common": {
+        "string": "没有共同的团队"
     },
-    "collaboration.feedback.compare_changes_modal.last_viewed_by_you": {
-        "string": "Last viewed by you"
+    "internal_profile.posts": {
+        "string": "帖子"
     },
-    "collaboration.feedback.comparing": {
-        "string": "Comparing"
+    "internal_profile.profile": {
+        "string": "个人资料"
     },
-    "upsell.history.need_to_travel_back_in_time": {
-        "string": "Need to travel back in time?"
+    "internal_profile.profile_image_nudge.action": {
+        "string": "更新照片"
     },
-    "upsell.history.everything_else_is_history": {
-        "string": "Everything else is history."
+    "internal_profile.profile_image_nudge.text": {
+        "string": "选择一张照片作为文件和评论中的头像。"
     },
-    "upsell.history.upsell_upgrade_description": {
-        "string": "{upgradeLink} to view versions past 30 days"
+    "internal_profile.profile_image_nudge.title": {
+        "string": "添加个人资料照片"
     },
-    "upsell.history.upsell_upgrade": {
-        "string": "Upgrade to a Professional plan"
+    "internal_profile.project": {
+        "string": "项目"
     },
-    "upsell.history.upsell_learn_more_description": {
-        "string": "Unlimited version history is available for paid teams. {upgradeLink} "
+    "internal_profile.recent_projects": {
+        "string": "最近打开的项目"
     },
-    "upsell.history.learn_more": {
-        "string": "Learn more"
+    "internal_profile.teams": {
+        "string": "团队"
     },
-    "collaboration.feedback.shortcut_mac": {
-        "string": "⌘ + ⌥ + S"
+    "internal_profile.their_recent_projects_will_appear_here": {
+        "string": "最近编辑的项目将显示在这里。"
     },
-    "collaboration.feedback.shortcut": {
-        "string": "Ctrl + Alt + S"
+    "internal_profile.title": {
+        "string": "{orgName}的{userName}"
     },
-    "collaboration.feedback.autosave_count": {
-        "string": "{count, plural, one {{count} autosave version} other {{count} autosave versions}}"
+    "internal_profile.view_community_profile": {
+        "string": "查看社区个人资料"
     },
-    "collaboration.feedback.show_older": {
-        "string": "Show older"
+    "internal_profile.you_must_be_a_member_of_team_name": {
+        "string": "您必须是{teamName}的成员"
     },
-    "collaboration.feedback.press_shortcut_to_add_to_version_history_while_editing": {
-        "string": "Press {shortcut} to add to version history while editing."
+    "internal_profile.you_re_not_a_member_of_this_team": {
+        "string": "您不是此团队的成员。"
     },
-    "collaboration.feedback.get_version_text_linked_version_linked_version": {
-        "string": "{versionText} (linked version)"
+    "internal_profile.your_recent_projects_will_appear_here": {
+        "string": "最近编辑的项目将显示在这里。"
     },
-    "collaboration.feedback.current_version": {
-        "string": "Current version"
+    "interstitial.comment_activity_digest": {
+        "string": "评论摘要"
     },
-    "collaboration.feedback.all_filter_text": {
-        "string": "All"
+    "interstitial.done": {
+        "string": "完成"
     },
-    "collaboration.feedback.only_yours_filter": {
-        "string": "Only yours"
+    "interstitial.feed_weekly_digest": {
+        "string": "每周摘要"
     },
-    "collaboration.feedback.show_autosave_versions": {
-        "string": "Show autosave versions"
+    "interstitial.open_notifications_settings": {
+        "string": "打开通知设置"
     },
-    "collaboration.feedback.version_history": {
-        "string": "Version history"
+    "interstitial.team_comment_digest": {
+        "string": "团队评论摘要"
     },
-    "collaboration.feedback.main_branch_name": {
-        "string": "Main"
+    "interstitial.unsubscribe_success_header": {
+        "string": "已取消订阅"
     },
-    "collaboration.feedback.more_options": {
-        "string": "More options"
+    "interstitial.unsubscribe_success_subheader_with_address": {
+        "string": "将不再向{emailAddress}发送{emailName}的邮件。"
     },
-    "collaboration.feedback.viewing_version": {
-        "string": "Viewing {label}"
+    "interstitial.workspace_activity": {
+        "string": "工作区活动"
     },
-    "collaboration.feedback.comparing_changes_toast": {
-        "string": "Comparing with {fromVersionLabel}"
+    "mobile_tool_bar.hide_navigation": {
+        "string": "隐藏导航"
     },
-    "collaboration.feedback.filter_tooltip": {
-        "string": "Filter"
+    "mobile_tool_bar.more_options": {
+        "string": "更多选项"
     },
-    "collaboration.feedback.add_to_version_history_tooltip": {
-        "string": "Add to version history"
+    "mobile_tool_bar.show_navigation": {
+        "string": "显示导航"
     },
-    "collaboration.feedback.close_tooltip": {
-        "string": "Close"
+    "modal.are_you_sure": {
+        "string": "你确定吗？"
     },
-    "hyperlink.type_or_paste_url": {
-        "string": "Type or paste URL"
+    "modal.cancel": {
+        "string": "取消"
     },
-    "hyperlink.invalid_link_plain": {
-        "string": "Invalid link"
+    "modal.close": {
+        "string": "关闭"
     },
-    "hyperlink.link_deleted": {
-        "string": "Link deleted"
+    "modal.confirm": {
+        "string": "确认"
     },
-    "hyperlink.invalid_link": {
-        "string": "Invalid link: {link}"
+    "org_billing_error_default": {
+        "string": "获取账单数据时发生错误。"
     }
 }

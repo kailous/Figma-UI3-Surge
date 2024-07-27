@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.focus_next_area": {
-        "string": "Focus the next area"
+    "categories.navbar.wireframes.subtitle": {
+        "string": "使用低保真框架探索初步想法"
     },
-    "fullscreen_actions.focus_previous_area": {
-        "string": "Focus the previous area"
+    "categories.plugins": {
+        "string": "插件"
     },
-    "fullscreen_actions.frame-selection": {
-        "string": "Frame selection"
+    "categories.portfolios": {
+        "string": "作品集模板"
     },
-    "fullscreen_actions.get_desktop_app": {
-        "string": "Get desktop app"
+    "categories.presentations": {
+        "string": "演示文稿"
     },
-    "fullscreen_actions.group-selection": {
-        "string": "Group selection"
+    "categories.presentations.all_hands_meeting": {
+        "string": "全体会议"
     },
-    "fullscreen_actions.hide_selection": {
-        "string": "Hide selection"
+    "categories.presentations.design_review": {
+        "string": "设计评审"
     },
-    "fullscreen_actions.hide-sibling-layers": {
-        "string": "Hide other layers"
+    "categories.presentations.pitch_deck": {
+        "string": "创业展示"
     },
-    "fullscreen_actions.ignore_constraints": {
-        "string": "Ignore constraints"
+    "categories.presentations.pitch_deck.description": {
+        "string": "分享大创意背后的故事"
     },
-    "fullscreen_actions.ignore_constraints_frames_only": {
-        "string": "Crop (images)/Ignore constraints (frames)"
+    "categories.presentations.product_roadmap": {
+        "string": "产品路线图"
     },
-    "fullscreen_actions.import-from-csv": {
-        "string": "Import from CSV…"
+    "categories.presentations.product_roadmap.description": {
+        "string": "通过分享产品愿景，将客户变成信徒"
     },
-    "fullscreen_actions.import": {
-        "string": "Import…"
+    "categories.presentations.research_readout": {
+        "string": "研究报告"
     },
-    "fullscreen_actions.collapse-layers": {
-        "string": "Collapse layers"
+    "categories.prototyping_animation": {
+        "string": "原型制作与动画"
     },
-    "fullscreen_actions.new-from-sketch": {
-        "string": "New from Sketch file…"
+    "categories.resumes": {
+        "string": "简历模板"
     },
-    "fullscreen_actions.insert-component-right-text": {
-        "string": "from {name}"
+    "categories.shapes_colors": {
+        "string": "形状与颜色"
     },
-    "fullscreen.color_management.user_color_profile.menu_item": {
-        "string": "Color profile…"
+    "categories.stock_photography": {
+        "string": "库存摄影"
     },
-    "fullscreen.color_management.user_color_profile.quick_action": {
-        "string": "Open color profile settings"
+    "categories.strategic_planning": {
+        "string": "战略规划"
     },
-    "help_widget.menu.join_ui3_ai_waitlist": {
-        "string": "Join UI3 + AI waitlist"
+    "categories.team_meetings": {
+        "string": "团队会议"
     },
-    "keyboard_settings.keyboard_layout": {
-        "string": "Keyboard layout…"
+    "categories.tutorials": {
+        "string": "教程"
     },
-    "keyboard_settings.us_qwerty": {
-        "string": "U.S. QWERTY"
+    "categories.ui_kits": {
+        "string": "UI工具包"
     },
-    "keyboard_settings.us_dvorak": {
-        "string": "U.S. Dvorak"
+    "categories.visual_assets": {
+        "string": "视觉资产"
     },
-    "keyboard_settings.german_qwertz": {
-        "string": "German QWERTZ"
+    "categories.whiteboarding": {
+        "string": "白板工具"
     },
-    "keyboard_settings.french_azerty": {
-        "string": "French AZERTY"
+    "categories.widgets": {
+        "string": "小部件"
     },
-    "keyboard_settings.japanese_kana": {
-        "string": "Japanese (Kana)"
+    "categories.wireframes": {
+        "string": "线框图"
     },
-    "keyboard_settings.default_unknown": {
-        "string": "Generic"
+    "check_network_compatibility.available": {
+        "string": "可用"
     },
-    "keyboard_settings.uk_mac": {
-        "string": "U.K. (Mac)"
+    "check_network_compatibility.blocked": {
+        "string": "被阻止"
     },
-    "keyboard_settings.uk_pc": {
-        "string": "U.K. (PC)"
+    "check_network_compatibility.checking_network_settings": {
+        "string": "正在检查网络设置..."
     },
-    "keyboard_settings.swedish": {
-        "string": "Swedish"
+    "check_network_compatibility.close": {
+        "string": "完成"
     },
-    "keyboard_settings.finnish": {
-        "string": "Finnish"
+    "check_network_compatibility.copied_to_clipboard": {
+        "string": "已复制到剪贴板"
     },
-    "keyboard_settings.danish": {
-        "string": "Danish"
+    "check_network_compatibility.description": {
+        "string": "这些功能需要访问可能在您的网络中被阻止的域。"
     },
-    "keyboard_settings.norwegian": {
-        "string": "Norwegian"
+    "check_network_compatibility.description_cta": {
+        "string": "请联系您的网络管理员，允许从以下被阻止的域请求访问。"
     },
-    "keyboard_settings.italian": {
-        "string": "Italian"
+    "check_network_compatibility.dropdown_title": {
+        "string": "检查网络设置"
     },
-    "keyboard_settings.spanish": {
-        "string": "Spanish"
+    "check_network_compatibility.error": {
+        "string": "检查网络设置时出错。请稍后再试。"
     },
-    "keyboard_settings.spanish_latin_america": {
-        "string": "Spanish (Latin America)"
+    "check_network_compatibility.error_bell.comment_attachments.message": {
+        "string": "上传失败。可能需要更新网络设置。"
     },
-    "keyboard_settings.chinese": {
-        "string": "Chinese"
+    "check_network_compatibility.error_bell.fetch_font_list.message": {
+        "string": "获取字体列表失败。可能需要更新网络设置。"
     },
-    "keyboard_settings.portuguese": {
-        "string": "Portuguese"
+    "check_network_compatibility.error_bell.library_publish.message": {
+        "string": "发布失败。可能需要更新网络设置。"
     },
-    "keyboard_settings.korean": {
-        "string": "Korean"
+    "check_network_compatibility.error_bell.video_upload.message": {
+        "string": "导入失败。可能需要更新网络设置。"
     },
-    "fullscreen_actions.plugins-menu": {
-        "string": "Plugins"
+    "check_network_compatibility.error_bell.view_settings": {
+        "string": "查看设置"
     },
-    "fullscreen_actions.plugins-menu-manage": {
-        "string": "Manage plugins…"
+    "check_network_compatibility.feature.comment_attachment": {
+        "string": "添加评论媒体"
     },
-    "fullscreen_actions.manage_plugins_in_development": {
-        "string": "Manage plugins in development"
+    "check_network_compatibility.feature.font_list": {
+        "string": "获取字体列表"
     },
-    "fullscreen_actions.plugins-menu-browse": {
-        "string": "Browse plugins in Community"
+    "check_network_compatibility.feature.extension_publish": {
+        "string": "发布插件或小部件"
     },
-    "widgets.development": {
-        "string": "Development"
+    "check_network_compatibility.feature.library_publish": {
+        "string": "发布库"
     },
-    "whiteboard.inserts.plugin_development_options_new_plugin": {
-        "string": "New plugin…"
+    "check_network_compatibility.feature.video": {
+        "string": "导入内容"
     },
-    "whiteboard.inserts.plugin_development_options_import_plugin": {
-        "string": "Import plugin from manifest…"
+    "check_network_compatibility.network_settings_compatible": {
+        "string": "网络可访问Figma运行所需的域。"
     },
-    "fullscreen_actions.hot_reload_plugin": {
-        "string": "Hot reload plugin"
+    "check_network_compatibility.title": {
+        "string": "网络设置"
     },
-    "fullscreen_actions.use_developer_vm": {
-        "string": "Use developer VM"
+    "check_network_compatibility.view_help_center": {
+        "string": "查看帮助中心"
     },
-    "whiteboard.inserts.plugin_development_options_finder": {
-        "string": "Reveal in Finder"
+    "checkout.add_additional_seats": {
+        "string": "添加更多席位"
     },
-    "whiteboard.inserts.plugin_development_options_explorer": {
-        "string": "Reveal in Explorer"
+    "checkout.add_or_remove_editors": {
+        "string": "添加或删除编辑者"
     },
-    "fullscreen.plugins_menu.open_directory_vscode": {
-        "string": "Open in VS Code"
+    "checkout.design_with_dev_mode_included": {
+        "string": "设计（包括开发模式）"
     },
-    "fullscreen_actions.toggle_console": {
-        "string": "Show/Hide console"
+    "checkout.dev_mode_included_text_formatted.dev_mode": {
+        "string": "开发模式"
     },
-    "fullscreen_actions.use_local_related_link_plugin": {
-        "string": "Use local plugin with dev resources"
+    "checkout.dev_mode_included_text_formatted.included": {
+        "string": "已包含"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "tsmer_config.modal.levers_label": {
-        "string": "TSMER levers"
+    "collaboration.voice.new_transcripts": {
+        "string": "↓ 新的转录"
     },
-    "tsmer_config.modal.reset": {
-        "string": "Reset"
+    "collaboration.voice.playback_device_not_found": {
+        "string": "找不到播放设备"
     },
-    "tsmer_config.modal.edit_frame_budget_seconds": {
-        "string": "Edit frame time budget (seconds)"
+    "collaboration.voice.poor_connection_warning": {
+        "string": "连接状况不佳。请检查您的互联网连接或暂时离开会议并重新加入。"
     },
-    "tsmer_config.modal.edit_frame_budget_framebuffer_switches": {
-        "string": "Edit frame buffer switch budget"
+    "collaboration.voice.setting_up_closed_captions_install_progress": {
+        "string": "设置隐藏字幕中... {installProgress}% "
     },
-    "tsmer_config.modal.max_edit_frame_time_seconds": {
-        "string": "Max edit frame time"
+    "collaboration.voice.settings": {
+        "string": "设置"
     },
-    "asset_suggestions.fragment_inspect_modal_title": {
-        "string": "Fragment Inspection"
+    "collaboration.voice.small": {
+        "string": "小"
     },
-    "fullscreen.toolbar.missing_fonts_modal.all_pages": {
-        "string": "All pages"
+    "collaboration.voice.something_went_wrong_try_again": {
+        "string": "出现问题。请重试。"
     },
-    "fullscreen.toolbar.missing_fonts_modal.current_page": {
-        "string": "This page"
+    "collaboration.voice.speaker_volume_too_low_warning": {
+        "string": "扬声器或耳机音量过低。请尝试切换设备。"
     },
-    "fullscreen.toolbar.missing_fonts_modal.missing_fonts": {
-        "string": "Missing fonts"
+    "collaboration.voice.speakers": {
+        "string": "扬声器"
     },
-    "fullscreen.toolbar.missing_fonts_modal.replace_fonts": {
-        "string": "Replace fonts"
+    "collaboration.voice.start_conversation": {
+        "string": "开始对话"
     },
-    "fullscreen.toolbar.missing_fonts_modal.missing_font": {
-        "string": "Missing font"
+    "collaboration.voice.text_size": {
+        "string": "文本大小"
     },
-    "fullscreen.toolbar.missing_fonts_modal.replacement": {
-        "string": "Replacement"
+    "collaboration.voice.things_got_quiet_for_awhile_so_we_ended_the_conversation": {
+        "string": "因为一段时间没有发言，我们结束了对话。"
     },
-    "fullscreen.toolbar.missing_fonts_modal.font_name_family_font_name_style": {
-        "string": "{fontFamily}, {fontStyle}"
+    "collaboration.voice.to_use_audio_in_this_file_move_it_to_a_team_on_one_of_our_paid_plans": {
+        "string": "要在此文件中使用音频，请将其移到我们付费计划中的一个团队。"
     },
-    "fullscreen.toolbar.missing_fonts_modal.close": {
-        "string": "Close"
+    "collaboration.voice.want_to_unmute_click_the_mic": {
+        "string": "要解除静音吗？点击麦克风。"
     },
-    "fullscreen.toolbar.missing_fonts_modal.cancel": {
-        "string": "Cancel"
+    "collaboration.voice.x_large": {
+        "string": "特大"
     },
-    "fullscreen.toolbar.missing_fonts_modal.finding_missing_fonts": {
-        "string": "Finding missing fonts"
+    "collaboration.voice.you": {
+        "string": "你"
     },
-    "fullscreen.toolbar.missing_fonts_modal.fonts_and_font_styles_not_available": {
-        "string": "The following fonts/font styles are not available. Choose replacement fonts in order to edit text."
+    "comments.accessibility_reply_added": {
+        "string": "已添加回复"
     },
-    "fullscreen.toolbar.missing_fonts_modal.fonts_not_available": {
-        "string": "The following fonts are not available. Choose replacement fonts in order to edit text."
+    "comments.add_a_comment": {
+        "string": "添加评论"
     },
-    "fullscreen.toolbar.missing_fonts_modal.font_styles_not_available": {
-        "string": "The following font styles are not available. Choose replacement fonts in order to edit text."
+    "comments.add_description": {
+        "string": "添加描述"
     },
-    "fullscreen.toolbar.missing_fonts_modal.select_items_count_using_this_font": {
-        "string": "{numItems, plural, one {Select item using this font} other {Select {numItems} using this font}}"
+    "comments.add_emoji": {
+        "string": "添加表情符号"
     },
-    "fullscreen.color_management.document_modal.title": {
-        "string": "Change color profile to {color_profile}"
+    "comments.add_mention": {
+        "string": "添加提及"
     },
-    "fullscreen.color_management.document_modal.warning.clamp.convert": {
-        "string": "Some colors might be clipped."
+    "comments.add_reaction": {
+        "string": "添加反应"
     },
-    "rcs.rcs_shared.learn_more": {
-        "string": "Learn more"
+    "comments.alt_text": {
+        "string": "alt文本"
     },
-    "fullscreen.color_management.document_modal.options.assign.subtitle": {
-        "string": "Keep the same color values, which changes how colors appear."
+    "comments.alt_text_label": {
+        "string": "alt文本:"
     },
-    "fullscreen.color_management.document_modal.confirm.title.convert_display_p3": {
-        "string": "Convert to Display P3"
+    "comments.an_error_occurred": {
+        "string": "发生错误"
     },
-    "fullscreen.color_management.document_modal.confirm.title.assign_display_p3": {
-        "string": "Assign Display P3"
+    "comments.an_error_occurred_while_adding_a_comment_reaction": {
+        "string": "添加评论反应时发生错误。"
     },
-    "fullscreen.color_management.document_modal.confirm.title.convert_srgb": {
-        "string": "Convert to sRGB"
+    "comments.an_error_occurred_while_deleting_this_comment": {
+        "string": "删除此评论时发生错误。"
     },
-    "fullscreen.color_management.document_modal.confirm.title.assign_srgb": {
-        "string": "Assign sRGB"
+    "comments.an_error_occurred_while_editing_this_comment": {
+        "string": "编辑此评论时发生错误。"
     },
-    "general.confirm": {
-        "string": "Confirm"
+    "comments.an_error_occurred_while_marking_a_comment_as_read": {
+        "string": "将评论标记为已读时发生错误。"
     },
-    "fullscreen.color_management.document_modal.cancel": {
-        "string": "Keep {color_profile}"
+    "comments.an_error_occurred_while_marking_a_comment_as_unread": {
+        "string": "将评论标记为未读时发生错误。"
     },
-    "fullscreen.color_management.file_history.assign-display-p3": {
-        "string": "Assigned Display P3"
+    "comments.an_error_occurred_while_moving_this_comment": {
+        "string": "移动此评论时发生错误。"
     },
-    "fullscreen.color_management.file_history.assign-srgb": {
-        "string": "Assigned sRGB"
+    "comments.an_error_occurred_while_removing_a_comment_reaction": {
+        "string": "删除评论反应时发生错误。"
     },
-    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.convert": {
-        "string": "Your browser does not support Display P3 but the conversion will be visible to others."
+    "comments.an_error_occurred_while_resolving_this_comment": {
+        "string": "解决此评论时发生错误。"
     },
-    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.assign": {
-        "string": "Your browser does not support Display P3 but the assignment will be visible to others."
+    "comments.an_error_occurred_while_toggling_a_comment_reaction": {
+        "string": "切换评论反应时发生错误。"
     },
-    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.monitor": {
-        "string": "Color profile will be applied even though your display can’t show Display P3 colors."
+    "comments.an_error_occurred_while_unresolving_this_comment": {
+        "string": "取消解决此评论时发生错误。"
     },
-    "fullscreen.color_management.document_modal.options.convert.subtitle.srgb_to_display_p3": {
-        "string": "Change values (like hex codes) to their nearest sRGB equivalent. Colors will appear the same."
+    "comments.are_you_sure_you_want_to_delete_this_comment_this_action_cannot_be_undone": {
+        "string": "您确定要删除此评论吗？此操作无法撤销。"
     },
-    "fullscreen.color_management.document_modal.options.convert.subtitle.display_p3_to_srgb": {
-        "string": "Change values (like hex codes) to the nearest Display P3 equivalent. Colors will appear the same."
+    "comments.aria_label_select_comment": {
+        "string": "选择评论"
     },
-    "fullscreen.color_management.file_history.label": {
-        "string": "Color profile change"
+    "comments.at_mention": {
+        "string": "@"
     },
-    "fullscreen.color_management.document_modal.options.convert.title": {
-        "string": "Keep appearance (Convert)"
+    "comments.attachment_count": {
+        "string": "{attachmentCount, plural, other {{attachmentCount}个附件}}"
     },
-    "fullscreen.color_management.document_modal.options.assign.title": {
-        "string": "Keep values (Assign)"
+    "comments.attachment_default_name": {
+        "string": "attachment.{fileExtension}"
     },
-    "fullscreen.rename_modal.preview": {
-        "string": "Preview"
+    "comments.attachment_thumbnail_alt_text_default": {
+        "string": "上传的媒体文件缩略图"
     },
-    "fullscreen.rename_modal.learn_more": {
-        "string": "Learn more"
+    "comments.cancel": {
+        "string": "取消"
     },
-    "fullscreen.rename_modal.number": {
-        "string": "Number"
+    "comments.cancel_post_and_share": {
+        "string": "取消"
     },
-    "fullscreen.rename_modal.rename": {
-        "string": "Rename"
+    "comments.cant_view_this_comment": {
+        "string": "{numUsers, plural, other {{numUsers}人无法查看此评论}}"
     },
-    "fullscreen.rename_modal.cancel": {
-        "string": "Cancel"
+    "comments.close": {
+        "string": "关闭评论"
     },
-    "fullscreen.rename_modal.start_ascending_from": {
-        "string": "Start ascending from"
+    "comments.close_sidebar": {
+        "string": "关闭评论侧栏"
     },
-    "fullscreen.rename_modal.start_sequence_from": {
-        "string": "Start sequence from"
+    "comments.comment_actions": {
+        "string": "评论操作"
     },
-    "fullscreen.rename_modal.stop_descending_at": {
-        "string": "Stop descending at"
+    "comments.comment_n": {
+        "string": "评论"
     },
-    "fullscreen.rename_modal.rename_num_pages_pages": {
-        "string": "Rename {numPages} pages"
+    "comments.comment_notifications": {
+        "string": "评论通知"
     },
-    "fullscreen.rename_modal.rename_num_layers_layers": {
-        "string": "Rename {numLayers} layers"
+    "comments.comment_resolved": {
+        "string": "评论已解决"
     }
 }

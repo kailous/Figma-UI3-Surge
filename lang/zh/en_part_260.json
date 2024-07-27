@@ -1,152 +1,152 @@
 {
-    "dev_handoff.paywall.banner.description_in_trial": {
-        "string": "{title} While you wait for approval, you can keep using Dev Mode (for up to {numDays} days)."
+    "pro_cart.payment.state": {
+        "string": "都道府県"
     },
-    "design_systems.assets_panel.num_templates": {
-        "string": "{numTemplates, plural, one {{numTemplates} template} other {{numTemplates} templates}}"
+    "pro_cart.payment.street_address": {
+        "string": "番地"
     },
-    "design_systems.assets_panel.search_library": {
-        "string": "Search in this library"
+    "pro_cart.payment.street_address_label": {
+        "string": "住所1"
     },
-    "design_systems.assets_panel.search_chip_label": {
-        "string": "Remove search filter"
+    "pro_cart.payment.street_address_line_2": {
+        "string": "アパート名、部屋番号など(省略可)"
     },
-    "design_systems.assets_panel.settings_label": {
-        "string": "Libraries and settings"
+    "pro_cart.payment.street_address_line_2_label": {
+        "string": "住所2"
     },
-    "design_systems.assets_panel.view_toggle_grid": {
-        "string": "Grid"
+    "pro_cart.payment.zip_code": {
+        "string": "郵便番号"
     },
-    "design_systems.assets_panel.view_toggle_list": {
-        "string": "List"
+    "pro_cart.review.agree_with_privacy_and_cancellation": {
+        "string": "Figmaの{termsOfServiceLink}、{privacyLink}、{cancellationLink}に同意します。"
     },
-    "design_systems.assets_panel.view_toggle_show_folders": {
-        "string": "Show subfolders"
+    "pro_cart.review.all_editors_on_an_education_team_must_be_verified.seat_rename": {
+        "string": "エデュケーションチームの編集アクセス権のあるユーザーはすべて、確認済みのエデュケーションユーザーである必要があります。エデュケーションユーザー以外のコラボレーターを有効にするには、いつでもプロフェッショナルチームにアップグレードできます。"
     },
-    "whiteboard.music.loading": {
-        "string": "Loading…"
+    "pro_cart.review.billing_address": {
+        "string": "請求先住所"
     },
-    "whiteboard.music_player_select.aria_label": {
-        "string": "Music Player Select Song"
+    "pro_cart.review.cancellation_policy": {
+        "string": "キャンセルポリシー"
     },
-    "whiteboard.timer.none": {
-        "string": "None"
+    "pro_cart.review.company_name": {
+        "string": "会社名"
     },
-    "whiteboard.timer.music_volume_hint_prompt_cta_v2": {
-        "string": "{promptQuestion} Others can hear your music, too. Mute your mic!"
+    "pro_cart.review.complete_purchase": {
+        "string": "購入手続きを完了"
     },
-    "whiteboard.timer.music_volume_hint_prompt_question": {
-        "string": "On a call?"
+    "pro_cart.review.complete_upgrade": {
+        "string": "アップグレードを完了"
     },
-    "voting.modal.end_voting_session_modal_header": {
-        "string": "Is everyone done?"
+    "pro_cart.review.details": {
+        "string": "詳細"
     },
-    "voting.modal.end_voting_session_modal_description": {
-        "string": "This will end the voting session for everyone. Results will be tallied up and revealed right away."
+    "pro_cart.review.edit_all_details": {
+        "string": "詳細をすべて編集"
     },
-    "meetings_panel.voting.go_back": {
-        "string": "Go back"
+    "pro_cart.review.edit_details": {
+        "string": "詳細を編集"
     },
-    "voting.modal.end_voting_session_modal_confirm_button": {
-        "string": "End vote"
+    "pro_cart.review.edit_details.cancel": {
+        "string": "キャンセル"
     },
-    "voting.modal.start_voting_session": {
-        "string": "Start"
+    "pro_cart.review.edit_details.company_name_description": {
+        "string": "請求書で異なるチーム名を使用する場合は、ここに入力してください。"
     },
-    "voting.modal.voting_setup_prompt_input_field_aria_label": {
-        "string": "Voting prompt input field"
+    "pro_cart.review.edit_details.company_name_label": {
+        "string": "会社名"
     },
-    "voting.modal.reduce_limit_tooltip_aria_label": {
-        "string": "Decrease vote limit"
+    "pro_cart.review.edit_details.save": {
+        "string": "保存"
     },
-    "voting.modal.voting_limit_input_field_aria_label": {
-        "string": "Vote limit input field"
+    "pro_cart.review.edit_details.team_name_description": {
+        "string": "この名前は、ファイルブラウザ、Figmaからのメール、その他に表示されます。"
     },
-    "voting.modal.increase_limit_tooltip_aria_label": {
-        "string": "Increase vote limit"
+    "pro_cart.review.edit_details.team_name_label": {
+        "string": "チーム名"
     },
-    "voting.modal.start_disabled_logged_out_tooltip": {
-        "string": "Sign in to start a vote"
+    "pro_cart.review.edit_details_modal_header": {
+        "string": "会社に関する情報を入力してください"
     },
-    "meetings_panel.voting.view_past_results_prompt": {
-        "string": "Past votes"
+    "pro_cart.review.exp_sticker_shock.upgrade_team_name_to_a_professional_team_monthly": {
+        "string": "{teamName}のプロフェッショナルプラン(月払い)"
     },
-    "meetings_panel.voting.new_vote": {
-        "string": "New vote"
+    "pro_cart.review.exp_sticker_shock.upgrade_team_name_to_a_professional_team_yearly": {
+        "string": "{teamName}のプロフェッショナルプラン(年払い)"
     },
-    "meetings_panel.voting.join_vote": {
-        "string": "Join vote"
+    "pro_cart.review.extra_validation": {
+        "string": "お手続き後、この支払いを完了するために追加の確認を求められることがあります。"
     },
-    "whiteboard.timer.timer_unmute_tooltip": {
-        "string": "Unmute sound for yourself"
+    "pro_cart.review.free_for_days": {
+        "string": "{days, plural, other {無料期間の残り日数}}"
     },
-    "whiteboard.timer.timer_mute_tooltip": {
-        "string": "Mute sound for yourself"
+    "pro_cart.review.lets_make_sure_everything_looks_right": {
+        "string": "請求情報を確認する"
     },
-    "dev_handoff.vscode.exit_focus_mode": {
-        "string": "Exit focus mode"
+    "pro_cart.review.offer_redeem_agree": {
+        "string": "このオファーを利用すると、{termsOfServiceLink}に同意したこととなります。"
     },
-    "dev_handoff.vscode.enter_focus_mode": {
-        "string": "Enter focus mode"
+    "pro_cart.review.privacy_policy": {
+        "string": "プライバシーポリシー"
     },
-    "google_device_try_file_modal.resent_email.visual_bell": {
-        "string": "We've resent the email"
+    "pro_cart.review.redeem_offer_by": {
+        "string": "オファー利用期限は{date}です"
     },
-    "google_device_try_file_modal.resent_email.email_resent": {
-        "string": "Email resent!"
+    "pro_cart.review.shipping_address": {
+        "string": "配送先住所"
     },
-    "google_device_try_file_modal.enter_email.failed_to_send": {
-        "string": "We weren’t able to send you an email. Please try again later."
+    "pro_cart.review.start_professional_plan_for_free": {
+        "string": "プロフェッショナルプランを無料で利用開始"
     },
-    "google_device_try_file.save_board.generic_error": {
-        "string": "We weren't able to save this board to your account. Please try again later with the link in your email."
+    "pro_cart.review.tax": {
+        "string": "税"
     },
-    "google_device_try_file_modal.enter_email": {
-        "string": "Enter your email"
+    "pro_cart.review.tax_percent": {
+        "string": "{taxPercent, number, .0}%"
     },
-    "google_device_try_file_modal.enter_email.description": {
-        "string": "Use one associated with a FigJam account, if you already have one."
+    "pro_cart.review.team_name": {
+        "string": "チーム名"
     },
-    "google_device_try_file_modal.enter_email.error_message": {
-        "string": "Please input a valid email address"
+    "pro_cart.review.tos": {
+        "string": "サービス利用規約"
     },
-    "google_device_try_file_modal.enter_email.button": {
-        "string": "Continue"
+    "pro_cart.review.total": {
+        "string": "合計"
     },
-    "google_device_try_file_modal.disclaimer": {
-        "string": "By giving us your email you consent to our {tos} and {privacy_policy}"
+    "pro_cart.review.total_due_today": {
+        "string": "本日期限の合計額"
     },
-    "google_device_try_file_modal.error_saving_board": {
-        "string": "There was an error saving your board"
+    "pro_cart.review.upgrade_team_name_to_a_professional_team": {
+        "string": "{teamName}をプロフェッショナルチームにアップグレードする"
     },
-    "google_device_try_file_modal.enter_email.placeholder_email": {
-        "string": "name@example.com"
+    "pro_cart.review.you_will_not_be_charged_during_the_free_period": {
+        "string": "{days, plural, other {{days}日間の無料期間中は課金されません}}"
     },
-    "google_device_try_file_modal.onboarding_disclaimer_tos": {
-        "string": "TOS"
+    "pro_cart.review.your_subscription_will_automatically_renew_without_link.seat_rename": {
+        "string": "サブスクリプションは、年間サブスクリプションについては毎年自動更新され、チームに後から追加した有料シートについては毎月自動更新されます。"
     },
-    "google_device_try_file_modal.onboarding_disclaimer_privacy_policy": {
-        "string": "Privacy Policy"
+    "pro_cart.sidebar.annual": {
+        "string": "年間"
     },
-    "google_device_try_file_modal.got_mail": {
-        "string": "You’ve got mail"
+    "pro_cart.sidebar.annual_savings_percentage": {
+        "string": "{percentage}%オフ"
     },
-    "google_device_try_file_modal.got_mail.description": {
-        "string": "Use the link we sent to {email} to save your file."
+    "pro_cart.sidebar.billing_cycle": {
+        "string": "請求サイクル"
     },
-    "google_device_try_file_modal.got_mail.close": {
-        "string": "Got it"
+    "pro_cart.sidebar.currency": {
+        "string": "通貨"
     },
-    "google_device_try_file_modal.got_mail.email_not_received": {
-        "string": "It might take a few minutes. If you still don't see it, try {send_again_link}."
+    "pro_cart.sidebar.exp_sticker_shock.by_paying_annually": {
+        "string": "年払いの場合は{saveAmountText}"
     },
-    "google_device_try_file_modal.got_mail.email_not_received.send_again": {
-        "string": "sending it again"
+    "pro_cart.sidebar.exp_sticker_shock.cost_per_editor_per_month": {
+        "string": "{cost}/編集者/月"
     },
-    "google_device_try_file_modal.got_mail.wrong_address": {
-        "string": "Wrong address? {use_different_email_link}"
+    "pro_cart.sidebar.exp_sticker_shock.design": {
+        "string": "Figmaデザイン"
     },
-    "google_device_try_file_modal.got_mail.wrong_address.use_different_email": {
-        "string": "Use a different email"
+    "pro_cart.sidebar.exp_sticker_shock.design_editors": {
+        "string": "{numEditors, plural, other {Figmaデザイン編集者数}}"
     }
 }

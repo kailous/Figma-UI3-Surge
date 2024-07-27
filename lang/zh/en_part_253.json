@@ -1,152 +1,152 @@
 {
-    "rcs.comments.comments": {
-        "string": "Comments"
+    "permissions.guests_banned.sharing_with_external_users_is_disabled": {
+        "string": "外部ユーザーとの共有が無効です"
     },
-    "rcs.community_hub_file_duplicate.welcome_to_figma": {
-        "string": "Welcome to Figma"
+    "permissions.invite_error_modal.couldn_t_send_invite": {
+        "string": "招待を送信できませんでした"
     },
-    "rcs.community_hub_file_duplicate.you_just_duplicated_this_file_from_the_community_to_get_started_let_us_show_you_some_of_the_things_that_make_figma_special_and_different_from_other_design_tools": {
-        "string": "You just duplicated this file from the community! To get started, let us show you some of the things that make Figma special and different from other design tools."
+    "permissions.invites_require_access.almost_there": {
+        "string": "完了まであと少しです..."
     },
-    "rcs.community_hub_file_duplicate.show_me_around": {
-        "string": "Show me around"
+    "permissions.invites_require_access.got_it": {
+        "string": "了解"
     },
-    "rcs.community_hub_file_duplicate.no_thanks": {
-        "string": "No, thanks"
+    "permissions.invites_require_access.invites_sent_but_will_require_access_org_name": {
+        "string": "{numEmails, plural, other {{listEmails}に招待を送信しました。招待した人たちがこの{resourceType}にアクセスするには、それぞれが組織{orgName}へのアクセスをリクエストする必要があります。}}"
     },
-    "rcs.constraints.constraints": {
-        "string": "Constraints"
+    "permissions.invites_require_access.we_ll_connect_them_with_an_admin_who_can_help": {
+        "string": "これらのユーザーを、サポートを提供できる管理者につなげます。"
     },
-    "rcs.constraints.setting_precise_constraints_lets_you_build_fluid_layouts_to_support_multiple_device_sizes_and_breakpoints_within_the_same_group": {
-        "string": "Setting precise constraints lets you build fluid layouts to support multiple device sizes and breakpoints within the same group."
+    "permissions.invites_whitelist.got_it": {
+        "string": "了解"
     },
-    "rcs.constraints.all_of_your_layers_adjust_the_way_you_expect_no_magic_you_get_full_control": {
-        "string": "All of your layers adjust the way you expect – no magic, you get full control."
+    "permissions.invites_whitelist.the_following_users_were_not_approved_guests_in_org_name_org_please_request_access_for_them": {
+        "string": "{numEmails, plural, other {以下の人たちは組織{orgName}のゲストとして承認されていません。招待したい人がいる場合は、その人にアクセス権を付与するよう管理者に依頼してください。{listEmails}}}"
     },
-    "rcs.export.export_your_designs_for_use_in_production_or_to_share_with_your_team": {
-        "string": "Export your designs for use in production or to share with your team. "
+    "permissions.join_org.access_needed": {
+        "string": "アクセス権が必要です"
     },
-    "rcs.export.figma_can_export_to_png_jpeg_svg_and_pdf": {
-        "string": "Figma can export to PNG, JPEG, SVG, and PDF."
+    "permissions.join_org.ask_an_org_admin": {
+        "string": "{orgName}の管理者に、あなたを組織に追加するように依頼しますか?"
     },
-    "rcs.export.export": {
-        "string": "Export"
+    "permissions.join_org.ask_to_be_added": {
+        "string": "追加を依頼"
     },
-    "rcs.live_device_preview.to_view_your_frames_live_on_your_device_just_download_figma_mirror": {
-        "string": "To view your frames live on your device, just download Figma Mirror on your {linkToIOS} or {linkToAndroid} device."
+    "permissions.join_org.cannot_edit_file": {
+        "string": "このファイルを編集するには、最初に{orgName}組織に参加する必要があります。"
     },
-    "rcs.live_device_preview.i_os": {
-        "string": "iOS"
+    "permissions.join_org.cannot_run_plugins": {
+        "string": "このファイルのプラグインを実行するには、最初に{orgName}組織に参加する必要があります。"
     },
-    "rcs.live_device_preview.android": {
-        "string": "Android"
+    "permissions.join_org.request_sent": {
+        "string": "リクエストが送信されました"
     },
-    "rcs.live_device_preview.they_ll_update_instantly_no_matter_what_network_you_re_on_and_with_no_need_to_connect_via_usb": {
-        "string": "They’ll update instantly no matter what network you’re on and with no need to connect via USB."
+    "permissions.join_org.switch_accounts": {
+        "string": "アカウントを切り替え"
     },
-    "rcs.live_device_preview.live_device_preview": {
-        "string": "Live device preview"
+    "permissions.join_org.you_are_requesting_to_be_added_as_email": {
+        "string": "{email}としての追加をリクエストします"
     },
-    "rcs.multiplayer.collaborate_in_real_time_with_your_team_and_never_worry_about_your_files": {
-        "string": "Collaborate in real time with your team and never worry about your files being up-to-date."
+    "permissions.level_name.admin": {
+        "string": "管理者"
     },
-    "rcs.multiplayer.no_syncing_no_waiting_no_merge_conflicts": {
-        "string": "No syncing, no waiting, no merge conflicts."
+    "permissions.level_name.branch_owner": {
+        "string": "ブランチのオーナー"
     },
-    "rcs.multiplayer.multiplayer": {
-        "string": "Multiplayer"
+    "permissions.level_name.can_access": {
+        "string": "アクセス可"
     },
-    "rcs.launch_nux_modal.take_a_quick_tour_of_figma": {
-        "string": "Take a quick tour of Figma?"
+    "permissions.level_name.can_edit": {
+        "string": "編集可"
     },
-    "rcs.launch_nux_modal.walk_through_figma_s_unique_editor_and_collaboration_features": {
-        "string": "Walk through Figma’s unique editor and collaboration features."
+    "permissions.level_name.can_view": {
+        "string": "閲覧のみ"
     },
-    "rcs.launch_nux_modal.show_me_around": {
-        "string": "Show me around"
+    "permissions.level_name.can_view_prototypes": {
+        "string": "プロトタイプの閲覧のみ"
     },
-    "rcs.launch_nux_modal.no_thanks": {
-        "string": "No thanks"
+    "permissions.level_name.none": {
+        "string": "なし"
     },
-    "rcs.sharing.share_your_projects_with_teammates_clients_and_stakeholders": {
-        "string": "Share your projects with teammates, clients, and stakeholders but don’t let them mess up your files."
+    "permissions.level_name.owner": {
+        "string": "オーナー"
     },
-    "rcs.sharing.control_their_access_with_granular_permissions_and_manage_their_access_in_one_simple_place": {
-        "string": "Control their access with granular permissions and manage their access in one simple place."
+    "permissions.level_name_capitalized.admin": {
+        "string": "管理者"
     },
-    "rcs.sharing.sharing_and_permissions": {
-        "string": "Sharing and Permissions"
+    "permissions.level_name_capitalized.can_access": {
+        "string": "アクセス可"
     },
-    "rcs.team_library.share_components_and_styles_across_your_team_by_publishing_them": {
-        "string": "Share components and styles across your team by publishing them to the team library."
+    "permissions.level_name_capitalized.can_edit": {
+        "string": "編集可"
     },
-    "rcs.team_library.enable_quick_access_to_other_libraries_in_this_file": {
-        "string": "Enable quick access to other libraries in this file."
+    "permissions.level_name_capitalized.can_view": {
+        "string": "閲覧のみ"
     },
-    "rcs.team_library.team_library": {
-        "string": "Team library"
+    "permissions.level_name_capitalized.can_view_prototypes": {
+        "string": "プロトタイプの閲覧のみ可能です"
     },
-    "rcs.universal_inserts.insert_components_from_your_libraries": {
-        "string": "Access ready-to-use resources from the Figma Community—like reusable components, on-canvas widgets, and powerful plugins."
+    "permissions.level_name_capitalized.none": {
+        "string": "なし"
     },
-    "rcs.universal_inserts.find_components_plugins_and_widgets": {
-        "string": "Find components, plugins and widgets"
+    "permissions.level_name_capitalized.owner": {
+        "string": "オーナー"
     },
-    "rcs.vector_networks.vector_networks": {
-        "string": "Vector networks"
+    "permissions.level_role_name.admin": {
+        "string": "管理者"
     },
-    "rcs.vector_networks.pen_tools_have_always_been_scary_to_use": {
-        "string": "Pen tools have always been scary to use because they can be touchy and fragile."
+    "permissions.level_role_name.editor": {
+        "string": "編集者"
     },
-    "rcs.vector_networks.now_they_re_both_simpler_and_more_powerful_paths_finally_work_the_way_they_should": {
-        "string": "Now, they’re both simpler and more powerful – paths finally work the way they should."
+    "permissions.level_role_name.owner": {
+        "string": "オーナー"
     },
-    "mouse_navigation_preferences_modal.existing_user.body": {
-        "string": "Give it a try—you can change it back by clicking on the Figma icon and going to {filePref}."
+    "permissions.level_role_name.prototype_viewer": {
+        "string": "プロトタイプ閲覧者"
     },
-    "mouse_navigation_preferences.existing_user.body.preferences": {
-        "string": "Preferences"
+    "permissions.level_role_name.viewer": {
+        "string": "閲覧者"
     },
-    "mouse_navigation_preferences_modal.existing_user.scroll_to_zoom": {
-        "string": "Use scroll wheel to zoom"
+    "permissions.link_autogen_password_change": {
+        "string": "変更"
     },
-    "mouse_navigation_preferences_modal.existing_user.right-click_to_pan": {
-        "string": "Right-click and drag to pan"
+    "permissions.link_autogen_password_copy": {
+        "string": "コピー"
     },
-    "mouse_navigation_preferences_modal.existing_user.header": {
-        "string": "An easier way to zoom and pan"
+    "permissions.link_password_reset": {
+        "string": "リセット"
     },
-    "mouse_navigation_preferences_modal.existing_user.dismiss_button": {
-        "string": "Later"
+    "permissions.link_password_set_by_another_user": {
+        "string": "{userHandle}が{relativePasswordSetAt}にパスワードを設定しました。"
     },
-    "mouse_navigation_preferences_modal.existing_user.try_it": {
-        "string": "Try it"
+    "permissions.link_password_set_by_current_user": {
+        "string": "{relativePasswordSetAt}にパスワードを設定しました。"
     },
-    "mouse_navigation_preferences_tooltip.existing_user.header": {
-        "string": "Zoom and pan settings updated"
+    "permissions.link_password_set_without_user": {
+        "string": "{relativePasswordSetAt}にパスワードが設定されました。"
     },
-    "mouse_navigation_preferences_tooltip.existing_user.body": {
-        "string": "Change them any time by going to the Figma icon and clicking {filePref}."
+    "permissions.only_those_invited": {
+        "string": "招待されたメンバーのみ"
     },
-    "dev_handoff.paywall.starter_trial_nudge.title": {
-        "string": "Build with Dev Mode, free"
+    "permissions.org_restricted_invite.got_it": {
+        "string": "了解"
     },
-    "dev_handoff.paywall.starter_trial_nudge.description": {
-        "string": "Bring design and development together with two free weeks of handoff tools—like annotation, advanced inspection, and more."
+    "permissions.org_restricted_invite.these_invites_couldn_t_be_sent_with_org_name.seat_rename": {
+        "string": "{numEmails, plural, other {{listEmails}に招待を送信できませんでした。このファイルの設定により、閲覧者シートで組織{orgName}外で共有することはできません。}}"
     },
-    "dev_handoff.paywall.direct_link_hint.title": {
-        "string": "You opened a Dev Mode link"
+    "permissions_modal.edit": {
+        "string": "編集"
     },
-    "dev_handoff.paywall.direct_link_hint.description": {
-        "string": "Switch between design and Dev Mode using the toggle in the toolbar."
+    "permissions_modal.file_share_settings.additional_security": {
+        "string": "追加のセキュリティ"
     },
-    "cursor_bot.a_frame_will_hold_the_rest_of_your_design": {
-        "string": "A frame will hold the rest of your design like a container. Plus, you can use it to draw rectangular UI like boxes and buttons."
+    "permissions_modal.file_share_settings.advanced": {
+        "string": "詳細"
     },
-    "cursor_bot.got_it": {
-        "string": "Got it"
+    "permissions_modal.file_share_settings.any_changes_here_will_only_affect_presentation": {
+        "string": "変更は、メインファイルではなく、プレゼンテーションへのアクセスにのみ影響します。"
     },
-    "cursor_bot.show_me_again": {
-        "string": "Show me again"
+    "permissions_modal.file_share_settings.any_changes_here_will_only_affect_prototype": {
+        "string": "ここでの変更はプロトタイプにのみ反映されます。メインファイルには反映されません。"
     }
 }

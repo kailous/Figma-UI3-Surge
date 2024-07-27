@@ -1,152 +1,152 @@
 {
-    "hyperlink.edit": {
-        "string": "Edit"
+    "org_home_view_meta.admins": {
+        "string": "管理员"
     },
-    "hyperlink.create_preview": {
-        "string": "Create preview"
+    "org_home_view_meta.learn_more": {
+        "string": "了解更多..."
     },
-    "hyperlink.send_mail": {
-        "string": "Send mail"
+    "org_home_view_meta.member_count": {
+        "string": "{memberCount, plural, other {{memberCount}名成员}}"
     },
-    "hyperlink.call_telephone": {
-        "string": "Call number"
+    "org_home_view_meta.team_count": {
+        "string": "{teamCount, plural, other {{teamCount}个团队}}"
     },
-    "hyperlink.prefix.open": {
-        "string": "Open"
+    "org_home_view_meta.workspace_count": {
+        "string": "{workspaceCount, plural, other {{workspaceCount}个工作区}}"
     },
-    "hyperlink.prefix.open_past_version": {
-        "string": "Open past version in"
+    "project_creation.add_people_to_project_name": {
+        "string": "向{projectName}添加用户"
     },
-    "hyperlink.prefix.go_to": {
-        "string": "Go to"
+    "project_creation.back": {
+        "string": "返回"
     },
-    "hyperlink.prefix.email": {
-        "string": "Copy"
+    "project_creation.can_create_and_edit_files": {
+        "string": "可以创建和编辑此项目的文件，添加成员，更改成员的编辑权限。"
     },
-    "design_systems.instance_swap_picker.go_to_main_component": {
-        "string": "Go to main component"
+    "project_creation.can_view_and_comment": {
+        "string": "可以查看和评论此项目的文件。"
     },
-    "design_systems.assets_panel.no_results_for_query": {
-        "string": "No results for ''{searchQuery}''"
+    "project_creation.cancel": {
+        "string": "取消"
     },
-    "design_systems.assets_panel.empty_state_title_ui3": {
-        "string": "No libraries here—yet"
+    "project_creation.create_new_project": {
+        "string": "新建项目"
     },
-    "design_systems.assets_panel.empty_state_subtitle_ui3": {
-        "string": "Find assets created by your team and add them to use in this file."
+    "project_creation.create_project": {
+        "string": "创建项目"
     },
-    "design_systems.assets_panel.learn_more": {
-        "string": "Learn more"
+    "project_creation.everyone_at_team_name_can_edit": {
+        "string": "{teamName}的所有成员都可以编辑"
     },
-    "design_systems.assets_panel.empty_state_cta_ui3": {
-        "string": "Browse team libraries"
+    "project_creation.everyone_at_team_name_can_view": {
+        "string": "{teamName}的所有成员都可以查看"
     },
-    "design_systems.assets_panel.components": {
-        "string": "Components"
+    "project_creation.everyone_on_this_team_can_edit": {
+        "string": "此团队的所有成员都可以编辑"
     },
-    "design_systems.assets_panel.create_a_component": {
-        "string": "To create a component, select a layer and click the \"Create component\" button in the toolbar."
+    "project_creation.everyone_on_this_team_can_view": {
+        "string": "此团队的所有成员都可以查看"
     },
-    "design_systems.assets_panel.explore_libraries": {
-        "string": "Explore libraries…"
+    "project_creation.ex_growth_experiments": {
+        "string": "例如：增长实验"
     },
-    "design_systems.assets_panel.ui_kit_empty_state": {
-        "string": "Or, get started with a premade UI kit"
+    "project_creation.invite_only": {
+        "string": "仅限邀请"
     },
-    "design_systems.assets_panel.num_components": {
-        "string": "{numComponents, plural, one {{numComponents} component} other {{numComponents} components}}"
+    "project_creation.invite_only_let_me_choose_who_has_access": {
+        "string": "仅限邀请 - 选择有权限的用户"
     },
-    "design_systems.assets_panel.add_library": {
-        "string": "Add library"
+    "project_creation.name": {
+        "string": "名称"
     },
-    "design_systems.assets_panel.created_by_figma": {
-        "string": "Created by Figma"
+    "project_creation.project_name": {
+        "string": "项目名称"
     },
-    "design_systems.assets_panel.templates": {
-        "string": "Templates"
+    "project_creation.project_name_empty": {
+        "string": "请输入项目名称"
     },
-    "design_systems.assets_panel.local_components": {
-        "string": "Local components"
+    "project_creation.step_number_of_max_steps": {
+        "string": "步骤 {currentStep}/{totalSteps}"
     },
-    "design_systems.assets_panel.local_templates": {
-        "string": "Local templates"
+    "project_creation.who_has_access": {
+        "string": "有权限的用户"
     },
-    "design_systems.assets_panel.hidden": {
-        "string": "Hidden"
+    "project_menu.add_description": {
+        "string": "添加描述"
     },
-    "design_systems.assets_panel.examples": {
-        "string": "Examples"
+    "project_menu.copy": {
+        "string": "复制"
     },
-    "design_systems.assets_panel.assets": {
-        "string": "Assets"
+    "project_menu.delete": {
+        "string": "删除"
     },
-    "design_systems.libraries_modal.header_variable_collections": {
-        "string": "Variable collections"
+    "project_menu.description": {
+        "string": "描述"
     },
-    "design_systems.libraries_modal.header_default_mode": {
-        "string": "Default mode"
+    "project_menu.edit_description": {
+        "string": "编辑描述"
     },
-    "design_systems.libraries_modal.plural.num_variable_match": {
-        "string": "{numVariables, plural, one {{numVariables} variable match} other {{numVariables} variable matches}}"
+    "project_menu.ownership": {
+        "string": "所有权"
     },
-    "variables.mode_properties_panel.select.option.default_with_name": {
-        "string": "Default ({modeName})"
+    "project_menu.pending_transfer_request": {
+        "string": "请求移交中..."
     },
-    "design_systems.publishing_modal.modal_header_community_library": {
-        "string": "Publish community library"
+    "project_menu.to_another_team_org": {
+        "string": "移交至其他团队/组织"
     },
-    "design_systems.publishing_modal.modal_header": {
-        "string": "Publish library"
+    "project_menu.transfer": {
+        "string": "移交"
     },
-    "design_systems.publishing_modal.invalid_components_with_count": {
-        "string": "Invalid assets {countString}"
+    "project_menu.view_transfer_details": {
+        "string": "查看详情"
     },
-    "design_systems.publishing_modal.changes_header_with_count": {
-        "string": "Changes {countString}"
+    "realtime.asset_reload.project_has_been_transferred_redirecting": {
+        "string": "项目已移交。正在重定向到新URL。"
     },
-    "design_systems.publishing_modal.variable_collections": {
-        "string": "Variable collections"
+    "realtime.asset_reload.team_has_been_transferred_redirecting": {
+        "string": "团队已移交。正在重定向到新URL。"
     },
-    "design_systems.publishing_modal.templates": {
-        "string": "Templates"
+    "revoke_transfer_modal.function_explanation": {
+        "string": "取消此请求将终止待处理的移交。"
     },
-    "design_systems.publishing_modal.styles": {
-        "string": "Styles"
+    "revoke_transfer_modal.go_back": {
+        "string": "返回"
     },
-    "design_systems.publishing_modal.components": {
-        "string": "Components"
+    "revoke_transfer_modal.header_title": {
+        "string": "待处理移交请求"
     },
-    "design_systems.publishing_modal.unchanged_header_with_count": {
-        "string": "Unchanged {countString}"
+    "revoke_transfer_modal.revoke": {
+        "string": "取消请求"
     },
-    "design_systems.publishing_modal.empty_search_result": {
-        "string": "No results for ''{assetQuery}''"
+    "revoke_transfer_modal.transfer_copy_details": {
+        "string": "{sourceUserEmail} 请求将此项目的副本移交给 {destinationUserEmail}"
     },
-    "design_systems.publishing_modal.upgrade_team": {
-        "string": "Upgrade team"
+    "revoke_transfer_modal.transfer_details": {
+        "string": "{sourceUserEmail} 请求将此项目移交给 {destinationUserEmail}"
     },
-    "design_systems.publishing_modal.create_a_professional_team": {
-        "string": "Create a Professional team"
+    "settings_table.add_annual_seats": {
+        "string": "添加年度席位"
     },
-    "design_systems.publishing_modal.starter_library_upsell": {
-        "string": "{numComponents, plural, one {{numComponents} component change will not be published. Custom components can only be published in Education, Professional, and Organization teams.} other {{numComponents} component changes will not be published. Custom components can only be published in Education, Professional, and Organization teams.}}"
+    "settings_table.billing_contacts": {
+        "string": "账单联系人"
     },
-    "design_systems.publishing_modal.standard_upsell": {
-        "string": "{numComponents, plural, one {{numComponents} component will not be published. Only members of Professional teams can publish components to a shared library. {teamUpsellLink} or join an existing team to use this feature.} other {{numComponents} components will not be published. Only members of Professional teams can publish components to a shared library. {teamUpsellLink} or join an existing team to use this feature.}}"
+    "settings_table.billing_contacts_description": {
+        "string": "选择接收更新、账单和付款通知的联系人。"
     },
-    "design_systems.publishing_modal.description_placeholder": {
-        "string": "Description of changes (optional)"
+    "settings_table.billing_date": {
+        "string": "{billing_date}"
     },
-    "design_systems.publishing_modal.no_changes": {
-        "string": "No changes"
+    "settings_table.cancel_plan": {
+        "string": "取消计划"
     },
-    "design_systems.publishing_modal.removed": {
-        "string": "Removed"
+    "settings_table.cancel_your_subscription_of_professional": {
+        "string": "取消您的专业订阅"
     },
-    "upsell.move_file_publish.move_file_to_team_to_publish": {
-        "string": "Move this file to a team in order to publish to that team's library."
+    "settings_table.change_and_update_the_payment_method_on_file": {
+        "string": "更改和更新存档的支付方式"
     },
-    "upsell.move_file_publish.move_file_to_pro_team_to_publish": {
-        "string": "Move this file to a Professional team in order to publish to that team's library."
+    "settings_table.change_annual_plan": {
+        "string": "更改年度计划"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "type_settings.open_type_features.below_base_forms": {
-        "string": "Below-base forms"
+    "design_systems.styles.rename_folder": {
+        "string": "重命名文件夹"
     },
-    "type_settings.open_type_features.below_base_mark_positioning": {
-        "string": "Below-base mark positioning"
+    "design_systems.styles.review_updates": {
+        "string": "查看更新"
     },
-    "type_settings.open_type_features.below_base_substitutions": {
-        "string": "Below-base substitutions"
+    "design_systems.styles.stroke_color_style": {
+        "string": "线条颜色样式"
     },
-    "type_settings.open_type_features.akhand_ligature_devanagari": {
-        "string": "Akhand (Ligature devanagari)"
+    "design_systems.styles.stroke_style": {
+        "string": "线条样式"
     },
-    "type_settings.open_type_features.conjuct_forms": {
-        "string": "Conjuct forms"
+    "design_systems.styles.style": {
+        "string": "样式"
     },
-    "type_settings.open_type_features.conjunct_form_after_ro": {
-        "string": "Conjunct form after ro"
+    "design_systems.styles.style_name_tooltip": {
+        "string": "保存位置: {fileName}"
     },
-    "type_settings.open_type_features.centered_cjk_punctuation": {
-        "string": "Centered CJK punctuation"
+    "design_systems.styles.styles": {
+        "string": "{numStyles, plural, other {样式}}"
     },
-    "type_settings.open_type_features.cursive_positioning": {
-        "string": "Cursive positioning"
+    "design_systems.styles.text_style": {
+        "string": "{numStyles, plural, other {文本样式}}"
     },
-    "type_settings.open_type_features.distances": {
-        "string": "Distances"
+    "design_systems.styles.tooltips.create": {
+        "string": "创建样式"
     },
-    "type_settings.open_type_features.expert_forms": {
-        "string": "Expert forms"
+    "design_systems.styles.tooltips.create_style_from_section": {
+        "string": "创建{kind}"
     },
-    "type_settings.open_type_features.final_glyph_on_line_alternates": {
-        "string": "Final glyph on line alternates"
+    "design_systems.styles.tooltips.library": {
+        "string": "团队库"
     },
-    "type_settings.open_type_features.terminal_forms": {
-        "string": "Terminal forms"
+    "design_systems.styles.tooltips.show_as_grid": {
+        "string": "网格显示"
     },
-    "type_settings.open_type_features.terminal_form": {
-        "string": "Terminal form #{integerArgument, number, integer}"
+    "design_systems.styles.tooltips.show_as_list": {
+        "string": "列表显示"
     },
-    "type_settings.open_type_features.half_forms": {
-        "string": "Half forms"
+    "design_systems.styles.update_available": {
+        "string": "有可用更新"
     },
-    "type_settings.open_type_features.halant_forms": {
-        "string": "Halant forms"
+    "design_systems.styles.update_selected_style": {
+        "string": "更新所选样式"
     },
-    "type_settings.open_type_features.horizontal_kana_alternates": {
-        "string": "Horizontal kana alternates"
+    "design_systems.styles.view_color_style": {
+        "string": "查看颜色样式"
     },
-    "type_settings.open_type_features.hangul": {
-        "string": "Hangul"
+    "design_systems.styles.view_effect_style": {
+        "string": "查看效果样式"
     },
-    "type_settings.open_type_features.hojo_kanji_forms": {
-        "string": "Hojo kanji Forms"
+    "design_systems.styles.view_grid_style": {
+        "string": "查看网格样式"
     },
-    "type_settings.open_type_features.initial_forms": {
-        "string": "Initial forms"
+    "design_systems.styles.view_style": {
+        "string": "查看样式"
     },
-    "type_settings.open_type_features.isolated_forms": {
-        "string": "Isolated forms"
+    "design_systems.styles.view_text_style": {
+        "string": "查看文本样式"
     },
-    "type_settings.open_type_features.j_i_s_78_forms": {
-        "string": "JIS78 forms"
+    "design_systems.styles_and_variables": {
+        "string": "样式和变量"
     },
-    "type_settings.open_type_features.j_i_s_83_forms": {
-        "string": "JIS83 forms"
+    "design_systems.subscriptions.inserting_instance": {
+        "string": "正在插入实例"
     },
-    "type_settings.open_type_features.j_i_s_90_forms": {
-        "string": "JIS90 forms"
+    "design_systems.subscriptions.inserting_template": {
+        "string": "正在插入模板"
     },
-    "type_settings.open_type_features.j_i_s_2004_forms": {
-        "string": "JIS2004 forms"
+    "design_systems.subscriptions.remap_connected": {
+        "string": "连接成功!"
     },
-    "type_settings.open_type_features.leading_jamo_forms_hangul": {
-        "string": "Leading jamo forms (Hangul)"
+    "design_systems.subscriptions.remap_connecting_fraction": {
+        "string": "连接中: {current}/{total}"
     },
-    "type_settings.open_type_features.localized_forms": {
-        "string": "Localized forms"
+    "design_systems.subscriptions.remap_connection_failed": {
+        "string": "连接失败"
     },
-    "type_settings.open_type_features.mark_positioning_arabic": {
-        "string": "Mark positioning (Arabic)"
+    "design_systems.subscriptions.settings_updated_for": {
+        "string": "{orgOrWorkspaceName}的“{libraryName}”设置已更新"
     },
-    "type_settings.open_type_features.medial_forms": {
-        "string": "Medial forms"
+    "design_systems.subscriptions.this_component_is_not_available": {
+        "string": "此组件在团队库中不可用"
     },
-    "type_settings.open_type_features.medial_forms_2": {
-        "string": "Medial forms #2"
+    "design_systems.subscriptions.unable_to_change_setting": {
+        "string": "无法更改设置，请稍后再试。"
     },
-    "type_settings.open_type_features.mark_to_mark_positioning": {
-        "string": "Mark-to-mark positioning"
+    "design_systems.template_panel.template_controls": {
+        "string": "模板控制"
     },
-    "type_settings.open_type_features.nlc_kanji_forms": {
-        "string": "NLC kanji forms"
+    "design_systems.template_panel.template_placeholder": {
+        "string": "此模板的用法"
     },
-    "type_settings.open_type_features.nukta_forms": {
-        "string": "Nukta forms"
+    "design_systems.update_actions.update_failure": {
+        "string": "更新失败"
     },
-    "type_settings.open_type_features.pre_base_forms": {
-        "string": "Pre-base forms"
+    "design_systems.update_actions.update_success": {
+        "string": "资产更新成功"
     },
-    "type_settings.open_type_features.pre_base_substitutions": {
-        "string": "Pre-base substitutions"
+    "design_systems.update_actions.updating_assets": {
+        "string": "正在更新资产"
     },
-    "type_settings.open_type_features.proportional_alternate_vertical_metrics": {
-        "string": "Proportional alternate vertical metrics"
+    "design_systems.updates.all_pages": {
+        "string": "所有页面"
     },
-    "type_settings.open_type_features.post_base_forms": {
-        "string": "Post-base forms"
+    "design_systems.updates.back_to_all_updates": {
+        "string": "返回所有更新"
     },
-    "type_settings.open_type_features.post_base_substitutions": {
-        "string": "Post-base substitutions"
+    "design_systems.updates.couldn_t_load_update_descriptions_please_try_again_later": {
+        "string": "无法加载更新描述，请稍后再试。"
     },
-    "type_settings.open_type_features.rakar_forms": {
-        "string": "Rakar forms"
+    "design_systems.updates.current": {
+        "string": "当前"
     },
-    "type_settings.open_type_features.reph_form": {
-        "string": "Reph form"
+    "design_systems.updates.current_page": {
+        "string": "当前页面"
     },
-    "type_settings.open_type_features.ruby_notation_forms": {
-        "string": "Ruby notation forms"
+    "design_systems.updates.go_to_current_instance": {
+        "string": "转到当前实例"
     },
-    "type_settings.open_type_features.simplified_forms": {
-        "string": "Simplified forms"
+    "design_systems.updates.instanceIndexOfTotal": {
+        "string": "{overallItemIndex}/{totalNumItems}个实例"
     },
-    "type_settings.open_type_features.trailing_jamo_forms": {
-        "string": "Trailing jamo forms"
+    "design_systems.updates.instanceName": {
+        "string": "{assetName}的实例"
     },
-    "type_settings.open_type_features.traditional_name_forms": {
-        "string": "Traditional name forms"
+    "design_systems.updates.maybe_updates_other_pages": {
+        "string": "其他页面可能有更新。"
     },
-    "type_settings.open_type_features.traditional_forms": {
-        "string": "Traditional forms"
+    "design_systems.updates.moved_from": {
+        "string": "从{movedFromFileName}移动"
     },
-    "type_settings.open_type_features.vattu_variants": {
-        "string": "Vattu variants"
+    "design_systems.updates.next_instance": {
+        "string": "下一个实例"
     },
-    "type_settings.open_type_features.vovel_jamo_forms": {
-        "string": "Vovel jamo forms"
+    "design_systems.updates.no_updates_available": {
+        "string": "无可用更新"
     },
-    "type_settings.open_type_features.vertical_kana_alternates": {
-        "string": "Vertical kana alternates"
+    "design_systems.updates.no_updates_available_page": {
+        "string": "此页面无更新"
     },
-    "type_settings.open_type_features.vertical_kerning": {
-        "string": "Vertical kerning"
+    "design_systems.updates.num_outdated_instances": {
+        "string": "{numOutdatedInstances, plural, other {{numOutdatedInstances}个实例}}"
     },
-    "type_settings.open_type_features.vertical_alternates_for_rotation": {
-        "string": "Vertical alternates for rotation"
+    "design_systems.updates.preview_unavailable": {
+        "string": "预览不可用"
     },
-    "type_settings.open_type_features.vertical_alternates_and_rotation": {
-        "string": "Vertical alternates and rotation"
+    "design_systems.updates.previous_instance": {
+        "string": "上一个实例"
     }
 }

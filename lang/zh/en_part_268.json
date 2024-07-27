@@ -1,152 +1,152 @@
 {
-    "default_paid_status_modal.updated_default_roles.seat_rename": {
-        "string": "Updated default seat types"
+    "proto.interaction.type.key_gamepad": {
+        "string": "キー/ゲームパッド"
     },
-    "team_creation.step_number_of_max_steps": {
-        "string": "Step {currentStep} of {maxSteps}"
+    "proto.interaction.type.mouse_down": {
+        "string": "マウスダウン"
     },
-    "team_creation.next": {
-        "string": "Next"
+    "proto.interaction.type.mouse_enter": {
+        "string": "マウスエンター"
     },
-    "team_creation.open_team": {
-        "string": "Open team"
+    "proto.interaction.type.mouse_enter_deprecated": {
+        "string": "マウスイン"
     },
-    "team_creation.open_team_description": {
-        "string": "Anyone at {orgName} can view files and join."
+    "proto.interaction.type.mouse_leave": {
+        "string": "マウスリーブ"
     },
-    "team_creation.closed_team": {
-        "string": "Closed team"
+    "proto.interaction.type.mouse_leave_deprecated": {
+        "string": "マウスアウト"
     },
-    "team_creation.closed_team_description": {
-        "string": "Only members can view files, and joining requires approval."
+    "proto.interaction.type.mouse_up": {
+        "string": "マウスアップ"
     },
-    "team_creation.secret_team": {
-        "string": "Secret team"
+    "proto.interaction.type.none": {
+        "string": "なし"
     },
-    "team_creation.secret_team_description": {
-        "string": "Only visible to people you invite (admins can see your team's name)."
+    "proto.interaction.type.on_click": {
+        "string": "クリック時"
     },
-    "team_creation.can_edit_description": {
-        "string": "Joining the team lets them create, edit, and delete files."
+    "proto.interaction.type.on_drag": {
+        "string": "ドラッグ時"
     },
-    "team_creation.can_view_description": {
-        "string": "Joining the team lets them view and request to edit files."
+    "proto.interaction.type.on_tap": {
+        "string": "タップ時"
     },
-    "team_creation.unassigned_workspace": {
-        "string": "Other teams"
+    "proto.interaction.type.on_voice": {
+        "string": "音声"
     },
-    "team_creation.optional": {
-        "string": "Add an optional description"
+    "proto.interaction.type.press": {
+        "string": "押す"
     },
-    "team_creation.team_name_empty": {
-        "string": "Enter a team name"
+    "proto.interaction.type.tap": {
+        "string": "タップ"
     },
-    "team_creation.team_description": {
-        "string": "Description"
+    "proto.interaction.type.touch_down": {
+        "string": "タッチダウン"
     },
-    "team_creation.workspace": {
-        "string": "Workspace"
+    "proto.interaction.type.touch_up": {
+        "string": "タッチアップ"
     },
-    "team_creation.access": {
-        "string": "Access"
+    "proto.interaction.type.video_ends": {
+        "string": "動画終了"
     },
-    "team_creation.add_other_members": {
-        "string": "Add other members"
+    "proto.interaction.type.video_hits": {
+        "string": "動画到達"
     },
-    "team_creation.name": {
-        "string": "Name"
+    "proto.interaction.type.voice": {
+        "string": "音声"
     },
-    "team_creation.who_has_access": {
-        "string": "Who has access"
+    "proto.interaction.type.when_video_ends": {
+        "string": "動画終了時"
     },
-    "team_creation.visibility": {
-        "string": "Visibility"
+    "proto.interaction.type.when_video_hits": {
+        "string": "動画到達時"
     },
-    "team_creation.what_they_can_do": {
-        "string": "What they can do"
+    "proto.interaction.type.while_hovering": {
+        "string": "マウスオーバー"
     },
-    "team_creation.can_view_and_comment": {
-        "string": "Can view and comment on files in this team."
+    "proto.interaction.type.while_pressing": {
+        "string": "押下中"
     },
-    "team_creation.can_create_and_edit_files": {
-        "string": "Can create and edit files in this team, add members, and change members’ edit permissions."
+    "proto.interaction_details.header": {
+        "string": "インタラクション"
     },
-    "team_creation.add_people_to_team_name": {
-        "string": "Add people to {teamName}"
+    "proto.interaction_details.select_n_matching_interactions": {
+        "string": "一致するインタラクションを{total_num_interactions}個選択します"
     },
-    "team_creation.org_modal_title_sc": {
-        "string": "Create team"
+    "proto.interaction_details.visual_bell.selected_n_matching_interactions": {
+        "string": "一致するインタラクションを{total_num_interactions}個選択しました"
     },
-    "team_creation.org_modal_title": {
-        "string": "Create a new team"
+    "proto.interaction_list.variant_interactions": {
+        "string": "バリアントインタラクション"
     },
-    "file_browser.team_settings_modal.members_tab_header": {
-        "string": "{numMembers, plural, one { · # member} other { · # members}}"
+    "proto.key": {
+        "string": "キー"
     },
-    "file_browser.team_settings_modal.members_tab": {
-        "string": "Members"
+    "proto.keyCapture.click_to_select": {
+        "string": "クリックして選択"
     },
-    "file_browser.team_settings_modal.settings_tab": {
-        "string": "Settings"
+    "proto.keyCapture.click_to_set_key": {
+        "string": "クリックしてキーを設定"
     },
-    "file_browser.team.member_list_name": {
-        "string": "Name"
+    "proto.keyCapture.press_key": {
+        "string": "キーを押す"
     },
-    "file_browser.team.member_list_email": {
-        "string": "Email"
+    "proto.keyCapture.press_key_lowercase": {
+        "string": "キーを押す"
     },
-    "file_browser.team.member_list_permissions": {
-        "string": "Permissions"
+    "proto.lib.device_low_memory": {
+        "string": "デバイスのメモリーが不足しているため、一部の操作が機能しない可能性があります。"
     },
-    "file_browser.team.no_members": {
-        "string": "No members"
+    "proto.menu.background": {
+        "string": "背景"
     },
-    "file_browser.team_settings.team_name": {
-        "string": "Team name"
+    "proto.menu.show_prototype_settings": {
+        "string": "プロトタイプの設定を表示"
     },
-    "file_browser.team_settings.change_name": {
-        "string": "Change name"
+    "proto.mirror.are_you_sure": {
+        "string": "よろしいですか?"
     },
-    "file_browser.about": {
-        "string": "About"
+    "proto.mirror.authentication_code": {
+        "string": "認証コード"
     },
-    "file_browser.team.change_description": {
-        "string": "Change about"
+    "proto.mirror.cancel": {
+        "string": "キャンセル"
     },
-    "file_browser.team.add_a_description": {
-        "string": "Add a description"
+    "proto.mirror.connected_through_cellular_data": {
+        "string": "モバイルデータ通信で接続しています"
     },
-    "file_browser.team_settings_modal.community_profile": {
-        "string": "Community profile"
+    "proto.mirror.connected_through_wi_fi": {
+        "string": "WiFiで接続しています"
     },
-    "file_browser.team_settings.delete_profile": {
-        "string": "Delete profile"
+    "proto.mirror.continue_with_google": {
+        "string": "Googleでログイン"
     },
-    "file_browser.team_settings.manage_restricted_commenters": {
-        "string": "Manage restricted commenters"
+    "proto.mirror.email_address": {
+        "string": "メールアドレス"
     },
-    "file_browser.team_settings.shared": {
-        "string": "Shared"
+    "proto.mirror.figma_com": {
+        "string": "figma.com"
     },
-    "file_browser.team_settings_modal.libraries": {
-        "string": "Libraries"
+    "proto.mirror.figma_mirror_can_t_run_because_web_gl_isn_t_supported_or_is_disabled_on_your_device": {
+        "string": "Figma Mirrorを実行できません。ご使用のデバイスでWebGLがサポートされていないか、無効になっています。"
     },
-    "file_browser.team_settings.view_team_libraries": {
-        "string": "View team’s libraries"
+    "proto.mirror.figma_mirror_is_not_restricted_to_local_wi_fi": {
+        "string": "Figma MirrorはローカルWiFiネットワークに制限されていません。モバイルデータ通信プランが心配な場合は、ご使用のデバイスをWiFi経由でインターネットに接続してください。"
     },
-    "file_browser.team_settings.view_team_fonts": {
-        "string": "View team’s fonts"
+    "proto.mirror.forgot_password": {
+        "string": "パスワードを忘れた場合"
     },
-    "file_browser.team_settings.view_team_figjam_palettes": {
-        "string": "View team’s FigJam palettes"
+    "proto.mirror.go_back_and_try_again": {
+        "string": "戻ってやり直す"
     },
-    "file_browser.settings.access": {
-        "string": "Access"
+    "proto.mirror.go_to_the_browser_to_complete_log_in": {
+        "string": "ブラウザに移動してログインしてください"
     },
-    "team_view.team_permissions_modal.change": {
-        "string": "Change"
+    "proto.mirror.log_in": {
+        "string": "ログイン"
     },
-    "file_browser.team_settings.access_with_org": {
-        "string": "Access within organization:"
+    "proto.mirror.log_in_with_google_or_a_password": {
+        "string": "Googleまたはパスワードでログイン"
     }
 }

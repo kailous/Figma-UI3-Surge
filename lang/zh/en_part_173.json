@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.fill.detach_variable": {
-        "string": "Detach variable"
+    "team_restore.confirm_restore": {
+        "string": "团队的文件、项目、原型以及共享组件将对之前能够访问的所有用户可用。"
     },
-    "fullscreen.properties_panel.fill.remove": {
-        "string": "Remove"
+    "team_restore.confirm_restore_deadline": {
+        "string": " 此数据可恢复到{deleteDeadline, date, long}之前。"
     },
-    "fullscreen.properties_panel.fill.detach_style": {
-        "string": "Detach style"
+    "team_restore.confirm_restore_header": {
+        "string": "确定要恢复团队\"{teamName}\"吗？"
     },
-    "slides.properties_panel.color_picker.theme_colors": {
-        "string": "Template colors"
+    "team_restore.expired": {
+        "string": "恢复团队数据的时间已过。"
     },
-    "fullscreen.properties_panel.select_item_using_this_color": {
-        "string": "{numItems, plural, one {Select item using this color} other {Select {numItems} using this color}}"
+    "team_restore.expired_header": {
+        "string": "此链接已过期。"
     },
-    "fullscreen.properties_panel.fill.stroke_width": {
-        "string": "Stroke width"
+    "team_restore.ineligible": {
+        "string": "此团队无法恢复。"
     },
-    "fullscreen.properties_panel.stroke.center": {
-        "string": "Center"
+    "team_restore.questions_contact_support": {
+        "string": "如有疑问，请联系{supportEmail}。"
     },
-    "fullscreen.properties_panel.stroke.inside": {
-        "string": "Inside"
+    "team_restore.restore": {
+        "string": "恢复团队"
     },
-    "fullscreen.properties_panel.stroke.outside": {
-        "string": "Outside"
+    "universal_upgrade.100_k": {
+        "string": "10万+"
     },
-    "proto.expression_builder.ai_placeholder": {
-        "string": "Describe the logic you’d like"
+    "universal_upgrade.10_k_50_k": {
+        "string": "1万～5万"
     },
-    "proto.expression_builder_entry.placeholder": {
-        "string": "Write condition"
+    "universal_upgrade.11_50": {
+        "string": "11～50"
     },
-    "proto.expression_builder.placeholder": {
-        "string": "Write expression"
+    "universal_upgrade.1_10": {
+        "string": "1～10"
     },
-    "proto.expression_builder_entry.placeholder_ui3_lhs": {
-        "string": "..."
+    "universal_upgrade.1_k_5_k": {
+        "string": "1,000～5,000"
     },
-    "proto.expression_builder_entry.placeholder_ui3_rhs": {
-        "string": "Write condition"
+    "universal_upgrade.251_1_k": {
+        "string": "251～1,000"
     },
-    "proto.expression_builder_entry.missing": {
-        "string": "(missing)"
+    "universal_upgrade.50_k_100_k": {
+        "string": "5万～10万"
     },
-    "fullscreen.properties_panel.stack_panel.top_padding": {
-        "string": "Top padding"
+    "universal_upgrade.51_250": {
+        "string": "51～250"
     },
-    "fullscreen.properties_panel.stack_panel.right_padding": {
-        "string": "Right padding"
+    "universal_upgrade.5_k_10_k": {
+        "string": "5000～1万"
     },
-    "fullscreen.properties_panel.stack_panel.bottom_padding": {
-        "string": "Bottom padding"
+    "universal_upgrade.company_name": {
+        "string": "公司名称"
     },
-    "fullscreen.properties_panel.stack_panel.left_padding": {
-        "string": "Left padding"
+    "universal_upgrade.company_size": {
+        "string": "公司规模"
     },
-    "fullscreen.properties_panel.stack_panel.horizontal_padding": {
-        "string": "Horizontal padding"
+    "universal_upgrade.contact_sales_title": {
+        "string": "联系我们"
     },
-    "fullscreen.properties_panel.stack_panel.vertical_padding": {
-        "string": "Vertical padding"
+    "universal_upgrade.e_g_i_m_looking_to_set_up_a_demo_of_figma": {
+        "string": "例如：我想设置Figma的演示"
     },
-    "fullscreen.properties_panel.stack_panel.all_paddings": {
-        "string": "All padding"
+    "universal_upgrade.email_address": {
+        "string": "电子邮件地址"
     },
-    "fullscreen.properties_panel.stack_panel.al.fill": {
-        "string": "Fill container"
+    "universal_upgrade.full_name": {
+        "string": "姓名"
     },
-    "fullscreen.properties_panel.stack_panel.al.fixed.width": {
-        "string": "Fixed width ({value})"
+    "universal_upgrade.how_can_we_help_optional": {
+        "string": "我们如何帮助您（可选）"
     },
-    "fullscreen.properties_panel.stack_panel.al.fixed.height": {
-        "string": "Fixed height ({value})"
+    "universal_upgrade.job_title": {
+        "string": "职位名称"
     },
-    "fullscreen.properties_panel.stack_panel.al.hug": {
-        "string": "Hug contents"
+    "universal_upgrade.please_provide_a_valid_email_address": {
+        "string": "请输入有效的电子邮件地址"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_width_value": {
-        "string": "Min width: {value}"
+    "universal_upgrade.submit": {
+        "string": "提交"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_width_add": {
-        "string": "Add min width…"
+    "universal_upgrade.there_was_an_error_processing_your_information_please_try_again": {
+        "string": "处理您的信息时发生错误，请重试。"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_width_value": {
-        "string": "Max width: {value}"
+    "universal_upgrade.this_field_is_required": {
+        "string": "此字段为必填项"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_width_add": {
-        "string": "Add max width…"
+    "universal_upgrade_sequence.close_modal": {
+        "string": "关闭"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_height_value": {
-        "string": "Min height: {value}"
+    "universal_upgrade_sequence.error": {
+        "string": "处理您的信息时发生错误，请重试。"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.min_height_add": {
-        "string": "Add min height…"
+    "universal_upgrade_sequence.next": {
+        "string": "下一步"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_height_value": {
-        "string": "Max height: {value}"
+    "universal_upgrade_sequence.subtitle": {
+        "string": "或创建新团队并升级"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.max_height_add": {
-        "string": "Add max height…"
+    "universal_upgrade_sequence.team_name.placeholder": {
+        "string": "团队名称（例如：产品设计）"
     },
-    "fullscreen.properties_panel.stack_panel.remove_min_and_max": {
-        "string": "Remove min and max"
+    "universal_upgrade_sequence.title": {
+        "string": "选择要升级的团队"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.apply_current_width": {
-        "string": "Set to current width"
+    "upgrade": {
+        "string": "升级"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.apply_current_height": {
-        "string": "Set to current height"
+    "upgrade.access_cross_team_design_libraries_sso_and_more": {
+        "string": "升级到业务计划以访问跨团队设计库、SSO等功能"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.remove_min_width": {
-        "string": "Remove min width"
+    "upgrade.centralize_your_teams_and_share_design_libraries": {
+        "string": "升级到业务计划可集中管理团队并共享设计库"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.remove_max_width": {
-        "string": "Remove max width"
+    "upgrade.currently_on_starter_plan": {
+        "string": "试用期已结束"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.remove_min_height": {
-        "string": "Remove min height"
+    "upgrade.days_left_in_trial": {
+        "string": "{days, plural, other {试用期将在#天后结束}}"
     },
-    "fullscreen.properties_panel.stack_panel.minmax.remove_max_height": {
-        "string": "Remove max height"
+    "upgrade.enjoy_our_best_design_features_for_14_days": {
+        "string": "享受我们最好的设计功能，并在14天内没有文件限制。"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalGap": {
-        "string": "Horizontal gap between objects"
+    "upgrade.free_professional_team_trial": {
+        "string": "专业团队免费试用"
     },
-    "fullscreen.properties_panel.stack_panel.gap_items_horizontal": {
-        "string": "Horizontal gap between items"
+    "upgrade.more_features": {
+        "string": "升级后可使用团队库、高级安全功能和其他高级功能。"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalGap": {
-        "string": "Vertical gap between objects"
+    "upgrade.pro_trial_inline_upgrade_cta": {
+        "string": "升级"
     },
-    "fullscreen.properties_panel.stack_panel.gap_items_vertical": {
-        "string": "Vertical gap between items"
+    "upgrade.pro_trial_uub_countdown.if_you_are_enjoying_your_trial": {
+        "string": "在试用期间，您可以免费邀请团队成员。（立即{upgrade}）"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_mixedGap": {
-        "string": "Gap between objects"
+    "upgrade.pro_trial_uub_countdown.just_a_memory": {
+        "string": "现在升级以继续享受专业计划的所有功能。"
     },
-    "fullscreen.properties_panel.stack_panel.gap_items": {
-        "string": "Gap between items"
+    "upgrade.pro_trial_uub_countdown.this_counter_will_help_you_keep_track": {
+        "string": "此计数器将帮助您跟踪试用的剩余天数和不定期提示，并{upgrade}。"
     },
-    "design_systems.states_panel.some_layers_have_invalid_names": {
-        "string": "Some layers have invalid names."
+    "upgrade.pro_trial_uub_countdown.try_out_these_features": {
+        "string": "尝试所有无限功能，创建许多文件，然后考虑升级。"
     },
-    "design_systems.states_panel.prop_value_prop_value": {
-        "string": "Prop=Value, Prop=Value, …"
+    "upgrade.pro_trial_uub_countdown.you_will_miss_these_files": {
+        "string": "立即升级以保留所有功能（并避免丢失许多文件）。"
     },
-    "design_systems.states_panel.select_invalid_variants": {
-        "string": "Select invalid variants"
+    "upgrade.ready_to_go_beyond_free_plan": {
+        "string": "准备好超越免费计划了吗？"
     }
 }

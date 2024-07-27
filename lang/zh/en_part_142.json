@@ -1,152 +1,152 @@
 {
-    "community.saves.save_this_resource_for_yourself": {
-        "string": "Save this resource for yourself"
+    "fullscreen.canvas.auto_layout_fill": {
+        "string": "填充"
     },
-    "community.saves.save_for_everyone_at": {
-        "string": "Save for everyone at {orgName}"
+    "fullscreen.canvas.auto_layout_fill_with_value": {
+        "string": "填充({value})"
     },
-    "community.saves.remove_this_resource_for_everyone_at": {
-        "string": "Remove this resource for everyone at {orgName}"
+    "fullscreen.canvas.auto_layout_hug": {
+        "string": "包裹"
     },
-    "community.saves.save_this_resource_for_everyone_at": {
-        "string": "Save this resource for everyone at {orgName}"
+    "fullscreen.canvas.auto_layout_hug_with_value": {
+        "string": "包裹({value})"
     },
-    "community.saves.file_saved_for_your_profile": {
-        "string": "File saved to your Community profile"
+    "fullscreen.canvas.dimension_max_constrained": {
+        "string": "{value}(最大)"
     },
-    "community.saves.file_removed_from_your_profile": {
-        "string": "File removed from your Community profile"
+    "fullscreen.canvas.dimension_min_constrained": {
+        "string": "{value}(最小)"
     },
-    "community.profiles.follower_count": {
-        "string": "{followerCount, plural, one {{formattedFollowerCount} follower} other {{formattedFollowerCount} followers}}"
+    "fullscreen.canvas.max": {
+        "string": "(最大)"
     },
-    "community.resource_tiles.by_author": {
-        "string": "by {author}"
+    "fullscreen.canvas.min": {
+        "string": "(最小)"
     },
-    "community.try.used_by_n_people": {
-        "string": "{num, plural, one {Used by {num} person} other {Used by {num} people}}"
+    "fullscreen.canvas.number_of_variants": {
+        "string": "{variants, plural, other {{variants}个变体}}"
     },
-    "community.view_bar.updated_date": {
-        "string": "Updated {date}"
+    "fullscreen.canvas.paint_label_GIF": {
+        "string": "GIF"
     },
-    "community.profiles.no_resources_published_yet": {
-        "string": "No resources published yet"
+    "fullscreen.canvas.paint_label_Video": {
+        "string": "视频"
     },
-    "community.view": {
-        "string": "View"
+    "fullscreen.canvas.paint_label_Video_and_GIF": {
+        "string": "视频和GIF"
     },
-    "community.detail_view.resource_outside_of_figma": {
-        "string": "You'll need to pay for this resource outside of Figma."
+    "fullscreen.canvas.select_all_matching_layers": {
+        "string": "选择所有匹配的图层"
     },
-    "community.detail_view.bullet_point": {
-        "string": "•"
+    "fullscreen.canvas.select_all_n_matching_layers": {
+        "string": "选择{total_num_layers}个匹配的图层"
     },
-    "community.detail_view.number_of_users": {
-        "string": "{numberOfUsers, plural, one {{numberOfUsers} user} other {{numberOfUsers} users}}"
+    "fullscreen.css_export.auto_layout": {
+        "string": "自动布局"
     },
-    "whiteboard.video.minimize_tooltip": {
-        "string": "Minimize"
+    "fullscreen.css_export.identical_to_box_height": {
+        "string": "与框高度相同"
     },
-    "whiteboard.video.fullscreen_tooltip": {
-        "string": "Fullscreen"
+    "fullscreen.css_export.identical_to_box_height_with_alternate": {
+        "string": "与框高度相同，或{alternateUnit}"
     },
-    "whiteboard.video.unmute_tooltip": {
-        "string": "Unmute"
+    "fullscreen.css_export.inside_auto_layout": {
+        "string": "自动布局内部"
     },
-    "whiteboard.video.mute_tooltip": {
-        "string": "Mute"
+    "fullscreen.css_export.line_height_alternate": {
+        "string": "或{alternateUnit}"
     },
-    "community.detail_view.figjam_board": {
-        "string": "FigJam board"
+    "fullscreen.css_export.note_backdrop_filter_has_minimal_browser_support": {
+        "string": "注意：backdrop-filter的浏览器支持非常有限"
     },
-    "community.detail_view.design_file": {
-        "string": "Design file"
+    "fullscreen.dropped_file.file_format_not_recognized_or_failed_to_convert": {
+        "string": "无法识别或转换文件格式\n"
     },
-    "community.detail_view.prototype": {
-        "string": "Prototype"
+    "fullscreen.dropped_file.files_failed_to_import": {
+        "string": "文件导入失败…"
     },
-    "community.detail_view.slide_template": {
-        "string": "Figma Slides"
+    "fullscreen.dropped_file.pdf_import_is_not_supported": {
+        "string": "不支持导入PDF文件\n"
     },
-    "community.detail_view.plugin": {
-        "string": "Plugin"
+    "fullscreen.dropped_file.psd_import_is_not_supported": {
+        "string": "不支持导入PSD文件\n"
     },
-    "community.detail_view.widget": {
-        "string": "Widget"
+    "fullscreen.export_handler.dimensions_exceeded_and_origin_snapped": {
+        "string": "尺寸超过最大值\n尺寸超过{maxDimension}。\n已缩减到{reducedX}x{reducedY}像素。\n\n 原点未对齐到像素。\n已对齐到({snapX}, {snapY})。\n尺寸可以在像素上缩放。"
     },
-    "community.buyer.price_per_year": {
-        "string": "{priceString}/yr"
+    "fullscreen.export_handler.dimensions_exceeded_maximum": {
+        "string": "尺寸超过最大值"
     },
-    "community.buyer.price_per_month": {
-        "string": "{priceString}/mo"
+    "fullscreen.export_handler.dimensions_exceeded_maximum_tooltip": {
+        "string": "尺寸超过最大值\n尺寸超过{maxDimension}。\n已缩减到{reducedX}x{reducedY}像素。"
     },
-    "community.buyer.refund_reason.doesnt_meet_needs": {
-        "string": "Didn’t do what I wanted it to"
+    "fullscreen.export_handler.origin_not_aligned_to_pixels": {
+        "string": "原点未对齐到像素。"
     },
-    "community.buyer.refund_reason.technical_issues": {
-        "string": "Technical issues"
+    "fullscreen.export_handler.origin_snapped_tooltip": {
+        "string": "原点未对齐到像素。\n已对齐到({snapX}, {snapY})。\n尺寸可以在像素上缩放。"
     },
-    "community.buyer.refund_reason.too_expensive": {
-        "string": "Too expensive"
+    "fullscreen.node_transition_behavior.back": {
+        "string": "返回"
     },
-    "community.buyer.refund_reason.found_alternative": {
-        "string": "I found an alternative"
+    "fullscreen.node_transition_behavior.close_overlay": {
+        "string": "关闭叠加"
     },
-    "community.buyer.refund_reason.other": {
-        "string": "Other"
+    "fullscreen.node_transition_behavior.open_link": {
+        "string": "打开链接"
     },
-    "dev_handoff.code.lang_figma": {
-        "string": "Figma"
+    "fullscreen.node_transition_behavior.open_overlay": {
+        "string": "打开叠加"
     },
-    "dev_handoff.onboarding.pointer_modal.title": {
-        "string": "Hello, Dev Mode"
+    "fullscreen.node_transition_behavior.swap": {
+        "string": "交换"
     },
-    "dev_handoff.onboarding.pointer_modal.description": {
-        "string": "Taking ideas from design to development is now easier than ever. Introducing new ways to curate files for production and Dev Mode, a new space in Figma that makes dev work easier."
+    "fullscreen.position_panel.fixed_disabled": {
+        "string": "仅适用于顶层框架。"
     },
-    "dev_handoff.onboarding.pointer_modal.not_now_button": {
-        "string": "Not now"
+    "fullscreen.position_panel.relative_disabled": {
+        "string": "仅适用于自动布局框架内的图层。"
     },
-    "dev_handoff.onboarding.pointer_modal.primary_button": {
-        "string": "Try Dev Mode"
+    "fullscreen.save_status.learn_more": {
+        "string": "了解更多"
     },
-    "dev_handoff.assets.instance": {
-        "string": "Component instance"
+    "fullscreen.stack_behavior.auto": {
+        "string": "自动"
     },
-    "fullscreen.properties_panel.export_disabled": {
-        "string": "Export disabled"
+    "fullscreen.stack_behavior.container": {
+        "string": "容器({parentName})"
     },
-    "fullscreen.export.export": {
-        "string": "Export"
+    "fullscreen.stack_behavior.contents": {
+        "string": "内容"
     },
-    "fullscreen.export.source": {
-        "string": "Source image file"
+    "fullscreen.style_detached_warning": {
+        "string": "已解除部分文本图层的样式"
     },
-    "fullscreen.export.layer_export": {
-        "string": "Layer export"
+    "fullscreen.table_tool.click_and_drag_to_set_table_size": {
+        "string": "点击并拖动设置表格大小"
     },
-    "dev_handoff.library.view": {
-        "string": "View in library"
+    "fullscreen.table_tool.num_rows_num_columns": {
+        "string": "{numRows}行×{numColumns}列"
     },
-    "design_systems.instance_panel.go_to_main_component": {
-        "string": "Go to main component"
+    "fullscreen.visual_bell.missing_font_replaced": {
+        "string": "缺失的字体已被替换"
     },
-    "dev_handoff.assets.show_more": {
-        "string": "{count, plural, one {Show {count} more asset} other {Show {count} more assets}}"
+    "fullscreen.visual_bell.view_only_text_too_old": {
+        "string": "没有准确的选择文本"
     },
-    "dev_handoff.assets": {
-        "string": "Assets"
+    "fullscreen.widgets.details": {
+        "string": "详情"
     },
-    "dev_handoff.inspect_panel.plugins_hint": {
-        "string": "Plugins for Dev Mode let you customize Figma with new languages, enhanced inspection, and more."
+    "resource_use.click_to_dismiss": {
+        "string": "(双击关闭)"
     },
-    "dev_handoff.vscode.hint.title": {
-        "string": "Figma for VS Code"
+    "resource_use.memory_allocations": {
+        "string": "内存分配/可用空间"
     },
-    "dev_handoff.vscode.hint": {
-        "string": "Get code suggestions, inspect designs, and post comments—right from your IDE."
+    "resource_use.total_memory": {
+        "string": "总内存使用量 (GB)"
     },
-    "dev_handoff.vscode.hint.link": {
-        "string": "Get extension"
+    "resource_use.total_number_of_layers": {
+        "string": "图层总数"
     }
 }

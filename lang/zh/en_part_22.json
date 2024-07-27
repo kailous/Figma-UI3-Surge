@@ -1,152 +1,152 @@
 {
-    "collaboration.branching.file_is_in_view_only_state_please_current_refresh_tab_and_try_again": {
-        "string": "File is in view only state - please current refresh tab and try again."
+    "auth.sign_up_for_figma": {
+        "string": "注册Figma"
     },
-    "collaboration.branching.couldn_t_proceed_with_merge_please_accept_updates_from_main_before_merging_your_branch": {
-        "string": "Couldn't proceed with merge. Please accept updates from main before merging your branch."
+    "auth.sso-gate.back-with-session": {
+        "string": "取消并不加入{orgName}"
     },
-    "file_browser.file_browser_actions.cant_move_published_file": {
-        "string": "You can't move a file that's been published to the Community hub by a team. File {fileName} has been published by team {teamName}"
+    "auth.sso-gate.back-without-session": {
+        "string": "返回更改电子邮件地址"
     },
-    "file_browser.file_browser_actions.remove_files_from_project_permission": {
-        "string": "You don't have permission to remove files from {projectName}}"
+    "auth.sso-gate.google": {
+        "string": "Google"
     },
-    "file_browser.file_browser_actions.remove_files_from_this_project_permission": {
-        "string": "You don't have permission to remove files from this project"
+    "auth.sso-gate.header": {
+        "string": "通过{ssoName}登录以继续并加入{orgName}"
     },
-    "templates.confirmation.move_to_drafts.title": {
-        "string": "{count, plural, one {Unpublish template?} other {Unpublish templates?}}"
+    "auth.sso-gate.invalid-session": {
+        "string": "会话已过期或无效"
     },
-    "templates.confirmation.move_to_drafts.description.multiselect_v2": {
-        "string": "Some of these files are templates—moving them to drafts will also remove them from your team’s templates."
+    "auth.sso-gate.log-in-google": {
+        "string": "通过Google继续"
     },
-    "templates.confirmation.move_to_drafts.description": {
-        "string": "Moving this file to drafts will also remove it from your team’s templates."
+    "auth.sso-gate.log-in-saml": {
+        "string": "通过SAML登录"
     },
-    "templates.confirmation.move_to_drafts.button_v2": {
-        "string": "Move & unpublish"
+    "auth.sso-gate.saml-sso": {
+        "string": "SAML SSO"
     },
-    "file_browser.this_team": {
-        "string": "this team"
+    "auth.team_join_link.error_on_redeem": {
+        "string": "兑换邀请链接时出错"
     },
-    "file_browser.file_browser_actions.confirm_move_from_team_multiple_folders": {
-        "string": "Are you sure you want to move these files? Members of {teamName} may lose access to some of them."
+    "auth.tell_us_about_yourself": {
+        "string": "告诉我们您的信息"
     },
-    "file_browser.file_browser_actions.confirm_move_from_team": {
-        "string": "{numFiles, plural, one {Are you sure you want to move this file? Members of {teamName} may lose access to it.} other {Are you sure you want to move these files? Members of {teamName} may lose access to it.}}"
+    "auth.terms-and-conditions-2nd-person": {
+        "string": "点击“{callToActionText}”和“{googleText}”，即表示您同意{termsOfService}和{privacyPolicy}。"
     },
-    "file_browser.file_browser_actions.confirm_move_from_shared_project_multiple": {
-        "string": "Are you sure you want to move these files? Members of {projectName} may lose access to some of them"
+    "auth.try-again-in-figma-for-vs-code": {
+        "string": "在VS Code集成中重试"
     },
-    "file_browser.file_browser_actions.confirm_move_from_shared_project": {
-        "string": "{numFiles, plural, one {Are you sure you want to move this file? Members of {projectName} may lose access to it} other {Are you sure you want to move these files? Members of {projectName} may lose access to them}}"
+    "auth.try-again-on-specific-app": {
+        "string": "在{appDescriptor}应用中重试"
     },
-    "file_browser.file_browser_actions.confirm_move_from_project_multiple": {
-        "string": "Are you sure you want to move these files? Members of the previous projects may lose access to them"
+    "auth.try_again": {
+        "string": "再试一次"
     },
-    "file_browser.file_browser_actions.confirm_move_from_project": {
-        "string": "{numFiles, plural, one {Are you sure you want to move this file? Members of the previous project may lose access to it.} other {Are you sure you want to move these files? Members of the previous project may lose access to them.}}"
+    "auth.two-factor.authentication-code": {
+        "string": "认证码"
     },
-    "file_browser.file_move.move": {
-        "string": "Move"
+    "auth.two-factor.back": {
+        "string": "返回"
     },
-    "file_restore_from_version_modal.restore": {
-        "string": "Restore"
+    "auth.two-factor.code-hint-confirmation": {
+        "string": "代码已发送至以{phoneNumber}结尾的号码"
     },
-    "file_restore_from_version_modal.restore_from_version_history": {
-        "string": "Restore from version history"
+    "auth.two-factor.header": {
+        "string": "请输入认证码或恢复码"
     },
-    "design_systems.publish_actions.unpublish_success": {
-        "string": "Successfully unpublished library"
+    "auth.two-factor.log-in": {
+        "string": "登录"
     },
-    "design_systems.publish_actions.publish_success": {
-        "string": "Successfully published library updates"
+    "auth.two-factor.resend-sms-code": {
+        "string": "重新发送短信码"
     },
-    "design_systems.publish_actions.unpublishing_library": {
-        "string": "Unpublishing library"
+    "auth.two-factor.send-sms-code": {
+        "string": "发送短信码"
     },
-    "design_systems.publish_actions.publishing_library": {
-        "string": "Publishing library"
+    "auth.two-factor.sms-hint": {
+        "string": "已发送短信至以{phoneNumber}结尾的号码"
     },
-    "design_systems.publish_actions.cant_unpublish": {
-        "string": "Can't unpublish while offline"
+    "auth.validate-code.code-resend-error": {
+        "string": "重新发送代码时出错"
     },
-    "design_systems.publish_actions.cant_publish": {
-        "string": "Can't publish while offline"
+    "auth.validate-code.code-resent-check-email": {
+        "string": "代码已重新发送，请检查您的邮件。"
     },
-    "design_systems.publish_actions.retry": {
-        "string": "Retry"
+    "auth.validate-code.enter-code-message": {
+        "string": "请输入代码"
     },
-    "check_network_compatibility.error_bell.library_publish.message": {
-        "string": "Publishing failed. Your network settings may need updating."
+    "auth.validate-code.header": {
+        "string": "验证您的帐户"
     },
-    "design_systems.publish_error.generic": {
-        "string": "Something went wrong while publishing. Please try again"
+    "auth.validate-code.primary-description": {
+        "string": "已将代码发送到{email}。"
     },
-    "design_systems.publish_actions.unpublish_error": {
-        "string": "{numSkipped, plural, one {Unable to unpublish {numSkipped} change from the Team Library} other {Unable to unpublish {numSkipped} changes from the Team Library}}"
+    "auth.validate-code.resend-button": {
+        "string": "重新发送"
     },
-    "design_systems.publish_actions.publish_error": {
-        "string": "{numSkipped, plural, one {Unable to publish {numSkipped} change to the Team Library} other {Unable to publish {numSkipped} changes to the Team Library}}"
+    "auth.validate-code.resend-helper-text": {
+        "string": "没有收到代码？{cta}"
     },
-    "design_systems.publish_actions.validations_failed": {
-        "string": "Content can't be published—contact Figma for help."
+    "auth.validate-code.secondary-description": {
+        "string": "请输入下方的代码进行验证。"
     },
-    "design_systems.publish_actions.validations_contact": {
-        "string": "Contact"
+    "auth.validate-code.submit-button": {
+        "string": "提交"
     },
-    "design_systems.publish_actions.payload_too_large": {
-        "string": "Your page, frame, or asset name is too long. Please try again with shorter names."
+    "auth.validate-email.click_the_link": {
+        "string": "点击发送到{emailAddress}的链接以完成帐户设置。"
     },
-    "design_systems.publish_actions.reload": {
-        "string": "Please reload the page to publish."
+    "auth.validate-email.log-out-link": {
+        "string": "登出"
     },
-    "design_systems.publish_actions.unpublish_failed": {
-        "string": "Unpublishing failed: {reason}"
+    "auth.validate-email.log-out-only": {
+        "string": "地址错误？{logOutLink}并使用其他电子邮件地址登录。"
     },
-    "design_systems.publish_actions.publish_failed": {
-        "string": "Publishing failed: {reason}"
+    "auth.validate-email.resend-email": {
+        "string": "检查您的收件箱和垃圾邮件文件夹。如果没有收到邮件，请{resendEmailLink}"
     },
-    "community.eula.license_agreement": {
-        "string": "License Agreement for Apple Design Resources"
+    "auth.validate-email.resend-email-link": {
+        "string": "重新发送"
     },
-    "community.eula.disagree": {
-        "string": "Disagree"
+    "auth.validate-email.resend-email-text": {
+        "string": "重新发送邮件"
     },
-    "community.eula.agree": {
-        "string": "Agree"
+    "auth.welcome-to-figma": {
+        "string": "欢迎使用Figma"
     },
-    "design_systems.update_actions.updating_assets": {
-        "string": "Updating assets"
+    "auth.your-login-session-has-expired": {
+        "string": "您的登录会话已过期。"
     },
-    "design_systems.update_actions.update_success": {
-        "string": "Successfully updated assets"
+    "multi-account.max_accounts_body": {
+        "string": "您似乎已登录了10个帐户。要登录另一个帐户，您需要先退出其中一个已登录的帐户。"
     },
-    "design_systems.update_actions.update_failure": {
-        "string": "Updating failed"
+    "multi-account.max_accounts_submit": {
+        "string": "了解"
     },
-    "license_group.an_error_occurred_while_fetching_workspaces": {
-        "string": "An error occurred while fetching workspaces"
+    "multi-account.max_accounts_title": {
+        "string": "达到帐户最大数量"
     },
-    "collaboration.branching.an_error_occurred_while_updating_this_file": {
-        "string": "An error occurred while updating this file."
+    "auth.two-factor-setup.a_verified_email_is_required": {
+        "string": "需要已验证的电子邮件"
     },
-    "collaboration.branching.an_error_occurred_while_restoring_these_files": {
-        "string": "An error occurred while restoring these files."
+    "auth.two-factor-setup.are_you_sure": {
+        "string": "您确定吗？"
     },
-    "collaboration.branching.files_restored": {
-        "string": "Files restored"
+    "auth.two-factor-setup.authenticator-app-needed": {
+        "string": "要完成此过程，您需要一个身份验证器移动应用程序，例如："
     },
-    "save_status.unsaved_changes": {
-        "string": "This file has unsaved changes."
+    "auth.two-factor-setup.authenticator_apps_are_enabled": {
+        "string": "身份验证器应用已启用"
     },
-    "save_status.learn_more": {
-        "string": "Learn more"
+    "auth.two-factor-setup.authy": {
+        "string": "Authy"
     },
-    "save_status.changes_saved": {
-        "string": "Changes saved"
+    "auth.two-factor-setup.cancel": {
+        "string": "取消"
     },
-    "file_browser.file_browser_actions.must_be_online_to_save_version": {
-        "string": "You must be online to save this version."
+    "auth.two-factor-setup.click_here_to_manually_type_the_code_instead": {
+        "string": "点击此处以手动输入代码"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "community.preset_modal.show_in_figma": {
-        "string": "Show kit in Figma"
+    "asset_transfers.request_modal.learn_how_to_find_the_link": {
+        "string": "了解如何找到链接"
     },
-    "community.preset_modal.make_a_copy": {
-        "string": "Make a new copy"
+    "asset_transfers.request_modal.learn_more": {
+        "string": "了解更多"
     },
-    "community.try.pick_workspace.cancel": {
-        "string": "Cancel"
+    "asset_transfers.request_modal.next": {
+        "string": "下一步"
     },
-    "community.using.open_in": {
-        "string": "Open in…"
+    "asset_transfers.request_modal.next_steps": {
+        "string": "下一步"
     },
-    "community.using.open_in_no_ellipses": {
-        "string": "Open in"
+    "asset_transfers.request_modal.note_that_file_branches_wont_be_transferred": {
+        "string": "请注意，文件分支不会被转移"
     },
-    "community.plugins.remove": {
-        "string": "Remove"
+    "asset_transfers.request_modal.once_a_transfer_is_accepted_by_an_external_organization_it_can_t_be_undone": {
+        "string": "一旦外部组织接受转移，就无法撤销"
     },
-    "community.plugins.approve": {
-        "string": "Approve"
+    "asset_transfers.request_modal.once_a_transfer_is_accepted_by_an_external_team_it_can_t_be_undone": {
+        "string": "一旦外部团队接受转移，就无法撤销"
     },
-    "community.plugins.remove_for_org_tooltip": {
-        "string": "When you remove a resource from your approve list, it’s no longer saved for {orgName}."
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_copy_will_be_transferred": {
+        "string": "管理员同意后，项目副本将被转移。此副本将仅供目标团队或组织的成员访问。{learnMore}"
     },
-    "community.plugins.approve_for_org_tooltip": {
-        "string": "Add a resource to your approve list to make it available for everyone at {orgName}."
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred": {
+        "string": "管理员批准后，项目将被转移"
     },
-    "community.using.pick_workspace.open_outside_of_org": {
-        "string": "Open outside of {orgName}?"
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred_some_of_your_members_may_still_have_access_to_the_project": {
+        "string": "管理员同意后，项目将被转移。一些成员仍可能有项目访问权限。{learnMore}"
     },
-    "community.using.pick_workspace.title": {
-        "string": "Where would you like to open it?"
+    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred_some_of_your_team_may_still_have_access_to_the_project": {
+        "string": "管理员批准后，项目将被转移。一些团队成员仍可能有项目访问权限。{learnMore}"
     },
-    "community.try.pick_workspace.title": {
-        "string": "Where would you like to try it out?"
+    "asset_transfers.request_modal.once_an_admin_accepts_the_team_will_be_transferred": {
+        "string": "管理员批准后，团队将被转移"
     },
-    "community.try.pick_workspace.org_doesnt_use_figjam": {
-        "string": "{orgName} doesn't use FigJam. You can still try it, if you’d like, by choosing External teams below."
+    "asset_transfers.request_modal.once_an_admin_accepts_the_team_will_be_transferred_some_of_your_members_may_still_have_access_to_the_team": {
+        "string": "管理员同意后，团队将被转移。一些成员仍可能有团队访问权限。{learnMore}"
     },
-    "community.try.pick_workspace.org_doesnt_use_slides": {
-        "string": "{orgName} doesn't use Figma Slides. You can still try it, if you’d like, by choosing a different team below."
+    "asset_transfers.request_modal.pro_enterprise_or_organization_plan": {
+        "string": "专业计划、业务计划或企业计划"
     },
-    "community.try.pick_workspace.widget_isnt_allowed_by_org": {
-        "string": "This widget isn't allowed by {orgName}. You can still try it, if you’d like, by choosing a different team below."
+    "asset_transfers.request_modal.request_transfer": {
+        "string": "请求转移"
     },
-    "community.try.pick_workspace.this_widget_isnt_allowed_by_org": {
-        "string": "This widget isn't allowed by {orgName}. You can still try it, if you’d like, by choosing External teams below."
+    "asset_transfers.request_modal.start_this_transfer": {
+        "string": "开始此转移"
     },
-    "community.try.pick_workspace.plugin_isnt_allowed_by_org": {
-        "string": "This plugin isn't allowed by {orgName}. You can still try it, if you’d like, by choosing a different team below."
+    "asset_transfers.request_modal.step_1_of_2": {
+        "string": "步骤{stepNumber}/2"
     },
-    "community.try.pick_workspace.this_plugin_isnt_allowed_by_org": {
-        "string": "This plugin isn't allowed by {orgName}. You can still try it, if you’d like, by choosing External teams below."
+    "asset_transfers.request_modal.team_verified": {
+        "string": "团队已验证"
     },
-    "community.try.pick_workspace.subtitle": {
-        "string": "A new file will be added to your drafts."
+    "asset_transfers.request_modal.transfer_a_copy": {
+        "string": "转移副本"
     },
-    "community.try.pick_workspace.desc": {
-        "string": "The Community file will be added to your drafts."
+    "asset_transfers.request_modal.web_link": {
+        "string": "网页链接"
     },
-    "community.try.pick_workspace.approval_pending": {
-        "string": "Approval pending"
+    "asset_transfers.request_modal.when_you_send_your_request_the_contact_person_and_their_admins_will_be_notified": {
+        "string": "当您发送请求时，联系人和他们的管理员将收到通知"
     },
-    "community.try.pick_workspace.request_approval": {
-        "string": "Request approval"
+    "asset_transfers.request_modal.when_you_send_your_request_the_contact_person_and_their_organization_admins_will_be_notified": {
+        "string": "当您发送请求时，联系人和他们的组织管理员将收到通知"
     },
-    "community.allowlist.choose_an_organization": {
-        "string": "Choose an organization"
+    "asset_transfers.request_modal.who_to_notify": {
+        "string": "通知谁"
     },
-    "community.allowlist.select_the_organization_you_would_like": {
-        "string": "Select the organization you would like to use to manage the approvals of this resource"
+    "asset_transfers.request_modal.you_can_transfer_a_copy_of_this_project_and_its_content_to_another_organization": {
+        "string": "您可以将此项目及其内容的副本转移到另一个组织，使该组织能够保留其工件"
     },
-    "voting.stamp_tooltip.unavailable": {
-        "string": "Unavailable"
+    "asset_transfers.request_modal.you_can_transfer_a_copy_of_this_project_and_its_content_to_another_team": {
+        "string": "您可以将此项目及其内容的副本转移到另一个团队，并将管理权移交给该团队"
     },
-    "community.try.org_private_widget_request_disabled": {
-        "string": "Requests for org private widgets aren't allowed"
+    "asset_transfers.request_modal.you_can_transfer_this_project_and_its_content_to_another_organization": {
+        "string": "您可以将此项目及其内容转移到另一个组织，并将管理权移交给该组织"
     },
-    "community.try.org_private_plugin_request_disabled": {
-        "string": "Requests for org private plugins aren't allowed"
+    "asset_transfers.request_modal.you_can_transfer_this_project_and_its_content_to_another_team": {
+        "string": "您可以将此项目及其内容转移到另一个团队，并将管理权移交给该团队"
     },
-    "community.try.widget_requests_disabled_by_your_org": {
-        "string": "{orgName} does not allow widget requests"
+    "asset_transfers.request_modal.you_can_transfer_this_team_and_its_content_to_another_organization": {
+        "string": "您可以将此团队及其内容转移到另一个组织，并将管理权移交给该组织"
     },
-    "community.try.plugin_requests_disabled_by_your_org": {
-        "string": "{orgName} does not allow plugin requests"
+    "asset_transfers.request_modal.you_ll_need_the_email_address_of_a_contact_person": {
+        "string": "您需要另一方组织的联系人的电子邮件地址。此外，该组织需要订阅{strongPlan}。{learnMore}"
     },
-    "community.try.figjam_disabled_by_your_org": {
-        "string": "{orgName} has disabled FigJam"
+    "asset_transfers.request_modal.you_ll_need_the_email_address_of_a_contact_person_on_that_other_team": {
+        "string": "您需要另一方团队的联系人的电子邮件地址。此外，该团队需要订阅{strongPlan}。{learnMore}"
     },
-    "community.try.slides_disabled_by_admins": {
-        "string": "Figma Slides disabled by admins"
+    "asset_transfers.revoke.transfer_revoked": {
+        "string": "转移已取消"
     },
-    "community.try.presets_disabled_by_admins": {
-        "string": "UI kits disabled by admins"
+    "assets_in_actions.assets_section.error.description": {
+        "string": "发生意外错误"
     },
-    "community.try.externally_restricted": {
-        "string": "Your organization doesn't allow you to create new files in external spaces."
+    "assets_in_actions.assets_section.error.title": {
+        "string": "出现问题"
     },
-    "community.use_slide_template": {
-        "string": "Use template"
+    "assets_in_actions.assets_section.initial_state.title": {
+        "string": "通过名称或简要描述搜索资产"
     },
-    "community.use_slide_template.disabled_tooltip": {
-        "string": "Figma Slides are disabled for your organization"
+    "assets_in_actions.assets_section.no_results.title": {
+        "string": "没有与“{query}”匹配的结果"
     },
-    "community.detail_view.share": {
-        "string": "Share"
+    "assets_in_actions.assets_section.title": {
+        "string": "组件"
     },
-    "fullscreen_actions.link_copied": {
-        "string": "Link copied"
+    "assets_in_actions.component_search.placeholder_1": {
+        "string": "例如：“带圆圈的×”"
     },
-    "community.detail_view.check_out_resource_name_by_publisher_on_figmadesign": {
-        "string": "Check out {resourceName} by {publisherString} on @figma:"
+    "assets_in_actions.component_search.placeholder_10": {
+        "string": "例如：“照片网格”"
     },
-    "community.resource.multiple_creators": {
-        "string": "multiple creators"
+    "assets_in_actions.component_search.placeholder_11": {
+        "string": "例如：“单选按钮”"
     },
-    "community.resource.by_creator": {
-        "string": "{spaceChar}{creator}"
+    "assets_in_actions.component_search.placeholder_12": {
+        "string": "例如：“带圆圈的？图标”"
     },
-    "community.resource.creator": {
-        "string": "{creator}"
+    "assets_in_actions.component_search.placeholder_13": {
+        "string": "例如：“中间有！图标的三角形”"
     },
-    "community.resource.2_creators": {
-        "string": "{creator1}{spaceChar}and{spaceChar}{creator2}"
+    "assets_in_actions.component_search.placeholder_2": {
+        "string": "例如：“勾选图标”"
     },
-    "community.resource.by_2_creators": {
-        "string": "{spaceChar}{creator1}{spaceChar}and{spaceChar}{creator2}"
+    "assets_in_actions.component_search.placeholder_3": {
+        "string": "例如：“确认对话框”"
     },
-    "community.resource.more_than_2_creators": {
-        "string": "{creator1}{spaceChar}and{spaceChar}{others}"
+    "assets_in_actions.component_search.placeholder_4": {
+        "string": "例如：“蓝色按钮”"
     },
-    "community.resource.by_more_than_2_creators": {
-        "string": "{spaceChar}{creator1}{spaceChar}and{spaceChar}{others}"
+    "assets_in_actions.component_search.placeholder_5": {
+        "string": "例如：“深色模式的模态”"
     },
-    "community.resource.by_others": {
-        "string": "others"
+    "assets_in_actions.component_search.placeholder_6": {
+        "string": "例如：“较大的切换”"
     },
-    "community.publisher_with_suffix": {
-        "string": "{publisherName} {publishersSuffix}"
+    "assets_in_actions.component_search.placeholder_7": {
+        "string": "例如：“帮助图标”"
     },
-    "community.cards.pluralize_num_other_publishers": {
-        "string": "{numOtherPublishers, plural, one {and {numOtherPublishers} other} other {and {numOtherPublishers} others}}"
+    "assets_in_actions.component_search.placeholder_8": {
+        "string": "例如：“错误弹出窗口”"
     },
-    "dev_handoff.code.lang_ios": {
-        "string": "iOS"
+    "assets_in_actions.component_search.placeholder_9": {
+        "string": "例如：“警报横幅”"
     },
-    "dev_handoff.code.lang_android": {
-        "string": "Android"
+    "assets_in_actions.detail_view.community_tab.title": {
+        "string": "社区"
     }
 }

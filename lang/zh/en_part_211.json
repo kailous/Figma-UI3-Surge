@@ -1,152 +1,152 @@
 {
-    "proto.variant_actions.change_to": {
-        "string": "Change to…"
+    "new_user_experience.user_onboarding_signals.whiteboard.title.freelance_file": {
+        "string": "自由职业者的文件"
     },
-    "proto.variant_actions.mixed": {
-        "string": "Mixed"
+    "new_user_experience.user_onboarding_signals.whiteboard.title.work_project": {
+        "string": "工作项目"
     },
-    "proto.prototype_panel.remove_interaction_tooltip": {
-        "string": "Remove interaction"
+    "new_user_experience.username_file_type": {
+        "string": "{userName}的{type}"
     },
-    "proto.menu.show_prototype_settings": {
-        "string": "Show prototype settings"
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.fun": {
+        "string": "兴趣爱好"
     },
-    "proto.onboarding.creating_a_connection": {
-        "string": "Creating a connection"
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.just_checking_things_out": {
+        "string": "只是看看"
     },
-    "proto.onboarding.select_a_frame_or_object_hint": {
-        "string": "Select a frame or object in a frame and use the circular node to drag a connection to another frame."
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.looking_for_tool": {
+        "string": "寻找工具"
     },
-    "proto.onboarding.removing_a_connection": {
-        "string": "Removing a connection"
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.setting_up_for_team": {
+        "string": "为团队做准备"
     },
-    "proto.onboarding.to_delete_a_connection_click_and_drag_on_either_end": {
-        "string": "To delete a connection, click and drag on either end."
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.starting_new_job_project": {
+        "string": "用于新工作或项目"
     },
-    "proto.onboarding.running_your_prototype": {
-        "string": "Running your prototype"
+    "new_user_experience.what_brings_you_to_figma.cursor_chat.using_it_for_school": {
+        "string": "为学校准备!"
     },
-    "proto.onboarding.use_the_play_button_hint": {
-        "string": "Use the play button in the toolbar to play your prototype. If there are no connections, the play button can be used to play a presentation of your frames."
+    "new_user_experience.what_do_you_do.cursor_chat.designer": {
+        "string": "跳出框架思考..."
     },
-    "fullscreen.scale_panel.scale": {
-        "string": "Scale"
+    "new_user_experience.what_do_you_do.cursor_chat.developer": {
+        "string": "准备交接..."
     },
-    "fullscreen.scale_panel.close": {
-        "string": "Close"
+    "new_user_experience.what_do_you_do.cursor_chat.marketer": {
+        "string": "...是合适的"
     },
-    "fullscreen.scale_panel.anchor_point": {
-        "string": "Anchor point"
+    "new_user_experience.what_do_you_do.cursor_chat.other": {
+        "string": "看看我的工作你就知道了。"
     },
-    "fullscreen.properties_panel.stack_panel.auto_layout": {
-        "string": "Auto layout"
+    "new_user_experience.what_do_you_do.cursor_chat.product_manager": {
+        "string": "...进行协作"
     },
-    "fullscreen.properties_panel.stack_panel.layout": {
-        "string": "Layout"
+    "new_user_experience.what_do_you_do.cursor_chat.student_or_educator": {
+        "string": "下课后见..."
     },
-    "fullscreen.properties_panel.section_autoLayout.label_direction": {
-        "string": "Direction"
+    "new_user_experience.what_do_you_do.cursor_chat.user_researcher": {
+        "string": "研究显示..."
     },
-    "fullscreen.properties_panel.section_autoLayout.label_direction_and_gap": {
-        "string": "Direction + Gap"
+    "new_user_experience.what_do_you_do.sticky_note.developer": {
+        "string": "在我的机器上运行正常"
     },
-    "fullscreen.properties_panel.section_autoLayout.label_alignment": {
-        "string": "Alignment"
+    "new_user_experience.what_do_you_do.sticky_note.educator": {
+        "string": "今天我们要学习的是..."
     },
-    "fullscreen.properties_panel.section_autoLayout.label_gap": {
-        "string": "Gap"
+    "new_user_experience.what_do_you_do.sticky_note.other": {
+        "string": "没有坏主意"
     },
-    "fullscreen.properties_panel.stack_panel.auto_layout_updated": {
-        "string": "Auto layout updated"
+    "new_user_experience.what_do_you_do.sticky_note.student": {
+        "string": "为课程做好准备"
     },
-    "fullscreen.properties_panel.stack_panel.undo": {
-        "string": "Undo"
+    "new_user_experience.what_is_your_name.description": {
+        "string": "将在您的Figma文件中显示"
     },
-    "fullscreen.properties_panel.stack_panel.new_auto_layout_version_available": {
-        "string": "New auto layout version available"
+    "new_user_experience.what_is_your_name.title": {
+        "string": "请告诉我们您的名字。"
     },
-    "fullscreen.properties_panel.stack_panel.update": {
-        "string": "Update"
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.brainstorms": {
+        "string": "创意越多越好"
     },
-    "fullscreen.properties_panel.section_autoLayout.label_padding": {
-        "string": "Padding"
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.diagramming": {
+        "string": "让我们开始吧"
     },
-    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance_overrides": {
-        "string": "This instance has overrides from an old version of auto layout. Updating will remove the overrides.\\n\\nYou may also need to update the main component."
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.learning": {
+        "string": "释放创造力"
     },
-    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance": {
-        "string": "This instance uses an older version of auto layout. You can update it by updating the main component."
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.meetings": {
+        "string": "第一个任务是..."
     },
-    "fullscreen.properties_panel.stack_panel.tooltip_old_version_components": {
-        "string": "Updating might add layers, but designs will look the same. If this main component has instances, check them after updating."
+    "new_user_experience.what_will_you_use_figjam_for.cursor_chat.projects": {
+        "string": "让我们开始工作吧"
     },
-    "fullscreen.properties_panel.stack_panel.tooltip_old_version": {
-        "string": "Updating might add layers, but designs will look the same."
+    "404.default.not_found.description": {
+        "string": "如果此处未显示文件，您可能没有访问文件的权限。请联系文件所有者以更新文件权限。所有者可以在{help}中了解详细信息，或在有疑问时发送电子邮件至{email}。"
     },
-    "fullscreen.properties_panel.stack_panel.vertical_direction": {
-        "string": "Vertical layout"
+    "404.default.not_found.lively_title": {
+        "string": "未找到。"
     },
-    "fullscreen.properties_panel.stack_panel.horizontal_direction": {
-        "string": "Horizontal layout"
+    "404.default.not_found.title": {
+        "string": "未找到您要查找的页面。"
     },
-    "fullscreen.properties_panel.stack_panel.wrap": {
-        "string": "Wrap"
+    "404.defaultV2.description": {
+        "string": "此文件可能已被删除、移动或不再可用。请联系文件所有者。"
     },
-    "fullscreen.properties_panel.stack_panel.independent_paddings": {
-        "string": "Individual padding"
+    "404.defaultV2.return": {
+        "string": "返回Figma"
     },
-    "fullscreen.properties_panel.stack_panel.use_auto_layout": {
-        "string": "Use auto layout"
+    "404.defaultV2.title": {
+        "string": "无法找到该文件"
     },
-    "design_systems.template_panel.template_controls": {
-        "string": "Template configuration"
+    "404.embed.allow_embedded_content": {
+        "string": "允许嵌入内容"
     },
-    "design_systems.component_properties.show_more_properties": {
-        "string": "Show more properties"
+    "404.embed.storage_access_blocked.description": {
+        "string": "似乎您尚未授予存储访问权限。请检查浏览器设置并重试。"
     },
-    "design_systems.component_properties.num_hidden": {
-        "string": "{num} hidden"
+    "404.embed.storage_access_request.title": {
+        "string": "要查看此Figma嵌入内容，需要额外的访问权限。"
     },
-    "design_systems.component_properties.unbubble_instance": {
-        "string": "Remove instance"
+    "404.file_no_access.description": {
+        "string": "要查看文件，请联系文件所有者以更新权限。"
     },
-    "design_systems.component_properties.show_more_nested_instances_rows": {
-        "string": "Show {count} more instances"
+    "404.file_no_access.owner_viewer_restricted_sharing_draft.description": {
+        "string": "由于管理员限制，文件所有者无法共享此文件。"
     },
-    "slides.properties_panel.color_picker.color_toggle": {
-        "string": "Color"
+    "404.file_no_access.title": {
+        "string": "无法访问此文件"
     },
-    "slides.properties_panel.color_picker.gradient_toggle": {
-        "string": "Gradient"
+    "404.file_not_found.description": {
+        "string": "此文件不存在或您没有查看文件的权限。请联系文件所有者检查链接或更新权限。"
     },
-    "slides.properties_panel.blur.label": {
-        "string": "Blur"
+    "404.file_not_found.title": {
+        "string": "文件未找到"
     },
-    "slides.properties_panel.blur.title": {
-        "string": "Layer blur"
+    "404.iframe.not_found.description": {
+        "string": "如果文件未显示，文件可能未公开访问。由于安全原因，Figma仅允许将公开访问的文件嵌入其他网站。请联系文件所有者以更新文件权限。所有者可以在{help}中了解详细信息，或在有疑问时发送电子邮件至{email}。"
     },
-    "slides.properties_panel.blur.strength": {
-        "string": "Blur strength"
+    "404.not_found.create_one": {
+        "string": "创建一个账户"
     },
-    "proto.prototype_panel.replace_mixed_muted_and_loop_video_playback": {
-        "string": "Click {loopSvg} or {speakerSvg} to replace mixed values"
+    "404.not_found.enter_password": {
+        "string": "输入密码"
     },
-    "proto.prototype_panel.replace_mixed_video_playback": {
-        "string": "Click {svg} to replace mixed values"
+    "404.not_found.help_article": {
+        "string": "帮助文章"
     },
-    "slides.properties_panel.text_style.mixed": {
-        "string": "Mixed"
+    "404.not_found.login": {
+        "string": "登录"
     },
-    "slides.properties_panel.text_style.edited": {
-        "string": "(edited)"
+    "404.not_found.login_as_multiple": {
+        "string": "使用以下电子邮件登录："
     },
-    "slides.properties_panel.text_style.save_button": {
-        "string": "Save"
+    "404.not_found.login_as_single": {
+        "string": "使用以下电子邮件登录："
     },
-    "slides.properties_panel.text_style.tooltip": {
-        "string": "Text style"
+    "404.not_found.login_to_another": {
+        "string": "登录另一个账户"
     },
-    "design_systems.styles.tooltips.create_style_from_section": {
-        "string": "Create {kind}"
+    "404.not_found.login_to_figma": {
+        "string": "要查看此文件，请登录Figma"
     }
 }

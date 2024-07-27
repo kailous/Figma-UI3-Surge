@@ -1,152 +1,152 @@
 {
-    "org_settings.guest_control.confirm_title": {
-        "string": "Heads up!"
+    "slides.properties_panel.color_picker.delete_template_color": {
+        "string": "削除"
     },
-    "org_settings.guest_control.confirm_button": {
-        "string": "Confirm"
+    "slides.properties_panel.color_picker.document_colors": {
+        "string": "このデッキ内の他の色"
     },
-    "settings_tab.idle_session_timeout_settings_modal.description": {
-        "string": "Automatically log out accounts in your organization if they're inactive for a certain time period."
+    "slides.properties_panel.color_picker.edit_template_color": {
+        "string": "編集"
     },
-    "settings_tab.idle_session_timeout_settings_modal.default_choice_description": {
-        "string": "Default timeout"
+    "slides.properties_panel.color_picker.gradient_toggle": {
+        "string": "グラデーション"
     },
-    "settings_tab.idle_session_timeout_settings_modal.default_choice_timeframe": {
-        "string": "Log out if inactive for 21 days."
+    "slides.properties_panel.color_picker.move_to_template_colors": {
+        "string": "テンプレートの色に移動"
     },
-    "workspace.create_confirmation_modal.description.outro.learn_more": {
-        "string": "Learn more"
+    "slides.properties_panel.color_picker.multiple": {
+        "string": "複数色"
     },
-    "settings_tab.idle_session_timeout_settings_modal.configured_choice_description": {
-        "string": "Custom timeout"
+    "slides.properties_panel.color_picker.theme_colors": {
+        "string": "テンプレートの色"
     },
-    "settings_tab.idle_session_timeout_settings_modal.configured_choice_subtitle": {
-        "string": "Log out inactive accounts earlier"
+    "slides.properties_panel.corner": {
+        "string": "角の丸み"
     },
-    "settings_tab.idle_session_timeout_settings_modal.warning_description": {
-        "string": "New limits go into effect right away—all inactive accounts will be logged out."
+    "slides.properties_panel.corner_radius": {
+        "string": "角の半径"
     },
-    "settings_tab.idle_session_timeout_settings_modal.cancel": {
-        "string": "Cancel"
+    "slides.properties_panel.corners_panel.circular": {
+        "string": "円形"
     },
-    "settings_tab.idle_session_timeout_settings_modal.save": {
-        "string": "Save"
+    "slides.properties_panel.embeddable_prototype.default_title": {
+        "string": "プロトタイプ"
     },
-    "settings_tab.idle_session_timeout.configured_time_description.maximum": {
-        "string": "Select up to {duration}."
+    "slides.properties_panel.embeddable_prototype.device_frame_label": {
+        "string": "デバイスフレーム"
     },
-    "settings_tab.idle_session_timeout.configured_time_description.minimum": {
-        "string": "Select a minimum of {duration}."
+    "slides.properties_panel.embeddable_prototype.flow_label": {
+        "string": "フロー"
     },
-    "settings_tab.idle_session_timeout_settings_modal.days": {
-        "string": "{timeAmount, plural, one {day} other {days}}"
+    "slides.properties_panel.embeddable_prototype.open_prototype_label": {
+        "string": "プロトタイプを開く"
     },
-    "settings_tab.idle_session_timeout_settings_modal.header": {
-        "string": "Idle session timeout"
+    "slides.properties_panel.fill": {
+        "string": "塗り"
     },
-    "settings_tab.idle_session_timeout_settings_modal.hours": {
-        "string": "{timeAmount, plural, one {hour} other {hours}}"
+    "slides.properties_panel.fill.fill_title": {
+        "string": "塗り"
     },
-    "settings_tab.idle_session_timeout_settings_modal.minutes": {
-        "string": "{timeAmount, plural, one {minute} other {minutes}}"
+    "slides.properties_panel.fill.fill_type_gradient": {
+        "string": "グラデーション"
     },
-    "settings_tab.ip_allowlist_modal.enable": {
-        "string": "Enable IP allowlist"
+    "slides.properties_panel.fill.fill_type_media": {
+        "string": "画像/動画"
     },
-    "settings_tab.ip_allowlist_modal.enable_description": {
-        "string": "Only allow members to log in to your organization from specified IP addresses"
+    "slides.properties_panel.fill.fill_type_none": {
+        "string": "なし"
     },
-    "settings_tab.ip_allowlist_modal.allowed_ranges": {
-        "string": "Allowed IP range(s)"
+    "slides.properties_panel.fill.fill_type_solid": {
+        "string": "単色"
     },
-    "settings_tab.ip_allowlist_modal.input_instructions": {
-        "string": "Enter IPv4 addresses separated by commas"
+    "slides.properties_panel.fill.slide_fill_title": {
+        "string": "背景"
     },
-    "settings_tab.ip_allowlist_modal.not_applied_to_guests": {
-        "string": "Note: This policy will not apply to guests in your organization"
+    "slides.properties_panel.fill.text_fill_title": {
+        "string": "塗り"
     },
-    "settings_tab.ip_allowlist_modal.save": {
-        "string": "Save"
+    "slides.properties_panel.fill.type_label": {
+        "string": "タイプ"
     },
-    "setting_tab.public_sharing.modal.description": {
-        "string": "Choose how your organization's content is shared publicly."
+    "slides.properties_panel.interactive_widget.background_label": {
+        "string": "背景"
     },
-    "setting_tab.public_sharing.modal.open_sessions_header": {
-        "string": "FigJam open sessions"
+    "slides.properties_panel.interactive_widget.confirm_reset_label": {
+        "string": "はい、リセットします"
     },
-    "setting_tab.public_sharing.modal.open_sessions_toggle": {
-        "string": "Allow anyone to edit and interact with a FigJam file for 24 hours."
+    "slides.properties_panel.interactive_widget.dark_theme_label": {
+        "string": "ダーク"
     },
-    "settings_tab.public_sharing.modal.open_sessions_note": {
-        "string": "Note: Open sessions don’t have custom expiration times, and some sessions aren’t set up to have passwords. Turn off open sessions if you need to."
+    "slides.properties_panel.interactive_widget.light_theme_label": {
+        "string": "ライト"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_links_description": {
-        "string": "When you turn off sharing for public links, only members of your organization can access links to Figma design files. To share public links more securely, you can require passwords instead."
+    "slides.properties_panel.interactive_widget.reset_confirmation_title": {
+        "string": "ウィジェットをリセットしますか?"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.main": {
-        "string": "When you turn off public sharing for Figma design and FigJam, you can only share links with certain audiences:"
+    "slides.properties_panel.interactive_widget.reset_label": {
+        "string": "ウィジェットをリセット"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figma_design": {
-        "string": "For Figma design, only members of your organization can be given access to links"
+    "slides.properties_panel.interactive_widget.theme_selector_label": {
+        "string": "カラー"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figjam": {
-        "string": "For FigJam, only people with Figma accounts can be given access to links"
+    "slides.properties_panel.interactive_widget.transparent_theme_label": {
+        "string": "透過"
     },
-    "org_settings.public_link_sharing.success": {
-        "string": "Updated public link sharing setting"
+    "slides.properties_panel.interactive_widget.usage_guidance_header": {
+        "string": "ライブインタラクション"
     },
-    "setting_tab.public_sharing.modal.public_link_sharing_header": {
-        "string": "Public link sharing"
+    "slides.properties_panel.interactive_widget.usage_guidance_text": {
+        "string": "プレゼンテーションの間、オーディエンスはスライドとやり取りができます。上の再生ボタンを押すだけで、その動作のプレビューが可能です。"
     },
-    "setting_tab.public_sharing.modal.public_link_sharing_toggle": {
-        "string": "Allow links to be shared with anyone outside your organization."
+    "slides.properties_panel.library_text_styles": {
+        "string": "ライブラリのテキストスタイル"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_links_title": {
-        "string": "Turn off public links?"
+    "slides.properties_panel.link_panel.placeholder": {
+        "string": "URLまたはスライド番号を追加"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_links_submit": {
-        "string": "Disable public links"
+    "slides.properties_panel.link_panel.slide_number": {
+        "string": "スライド{orderNum}"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_title": {
-        "string": "Turn off public sharing?"
+    "slides.properties_panel.link_panel.title": {
+        "string": "リンク"
     },
-    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_submit": {
-        "string": "Disable public sharing"
+    "slides.properties_panel.opacity": {
+        "string": "不透明度"
     },
-    "org_admin_settings.billing_details.successfully_updated_your_payment_source": {
-        "string": "Successfully updated your payment source."
+    "slides.properties_panel.overlay": {
+        "string": "オーバーレイ"
     },
-    "org_admin_settings.settings_tab.billing.payment_details.label": {
-        "string": "Payment details"
+    "slides.properties_panel.overlay.opacity_slider_aria_label": {
+        "string": "オーバーレイの不透明度のスライダー"
     },
-    "org_admin_settings.settings_tab.billing.change_payment_method.label": {
-        "string": "Change payment method"
+    "slides.properties_panel.replace_media": {
+        "string": "メディアを選択..."
     },
-    "org_admin_settings.settings_tab.billing.payment_details.description": {
-        "string": "Update the payment method and billing address on file."
+    "slides.properties_panel.rewrite_text.action_done": {
+        "string": "完了!"
     },
-    "org_admin_settings.settings_tab.billing.change_payment_method.description": {
-        "string": "Change and update the payment method on file"
+    "slides.properties_panel.rewrite_text.action_rewrite_again": {
+        "string": "もう一度試す"
     },
-    "org_settings.team_creation.success": {
-        "string": "Updated team creation setting"
+    "slides.properties_panel.rewrite_text.action_rewriting": {
+        "string": "トーンを調整しています..."
     },
-    "org_settings.team_creation.modal": {
-        "string": "Who can create teams in {organization}"
+    "slides.properties_panel.rewrite_text.action_stop": {
+        "string": "停止"
     },
-    "org_settings.team_creation.save_button": {
-        "string": "Save"
+    "slides.properties_panel.rewrite_text.adjust_tone": {
+        "string": "トーンを調整"
     },
-    "org_settings.team_creation.any.title": {
-        "string": "Anyone"
+    "slides.properties_panel.rewrite_text.error.connection": {
+        "string": "接続できませんでした"
     },
-    "org_settings.team_creation.any.description": {
-        "string": "Any member of this organization can create teams"
+    "slides.properties_panel.rewrite_text.error.default": {
+        "string": "問題が発生しました"
     },
-    "org_settings.team_creation.admin_only.title": {
-        "string": "Admins only"
+    "slides.properties_panel.rewrite_text.error.empty_text": {
+        "string": "テキストを選択して、もう一度お試しください"
     },
-    "org_settings.team_creation.admin_only.description.workspaces": {
-        "string": "Only organization and workspace admins can create teams"
+    "slides.properties_panel.rewrite_text.error.inappropriate_input": {
+        "string": "ブロックされました。入力内容を変えてお試しください"
     }
 }

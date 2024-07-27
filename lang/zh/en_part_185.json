@@ -1,152 +1,152 @@
 {
-    "recordings.recording_saved": {
-        "string": "Recording saved"
+    "fullscreen_actions.page-duplicate": {
+        "string": "复制页面"
     },
-    "recordings.title_field_placeholder": {
-        "string": "Title"
+    "fullscreen_actions.page-move-to": {
+        "string": "移动到{name}"
     },
-    "recordings.description_field_placeholder": {
-        "string": "Description"
+    "fullscreen_actions.page-move-to-menu": {
+        "string": "移动到页面"
     },
-    "comments.comments_can_only_be_placed_on_slides": {
-        "string": "Comments can only be placed on slides"
+    "fullscreen_actions.page-move-to-new-file": {
+        "string": "移动到新文件..."
     },
-    "mobile_toolbars.shape": {
-        "string": "Shape"
+    "fullscreen_actions.page-navigate-fail": {
+        "string": "无法加载该页面，请重试。"
     },
-    "mobile_toolbars.connector": {
-        "string": "Connector"
+    "fullscreen_actions.page-next": {
+        "string": "下一页"
     },
-    "mobile_toolbars.universal_insert": {
-        "string": "More…"
+    "fullscreen_actions.page-previous": {
+        "string": "上一页"
     },
-    "navbar.navbar.community_search_placeholder": {
-        "string": "Search Community"
+    "fullscreen_actions.page-rename": {
+        "string": "重命名页面"
     },
-    "navbar.navbar.file_browser_search_placeholder": {
-        "string": "Search files, teams, or people"
+    "fullscreen_actions.pages-delete": {
+        "string": "删除{pageCount}个页面"
     },
-    "desktop_new_tab.search.no_file_results_matching": {
-        "string": "No file results matching {searchQuery}"
+    "fullscreen_actions.pages-rename": {
+        "string": "重命名{pageCount}个页面"
     },
-    "desktop_new_tab.edited_at_time_stamp": {
-        "string": "Edited {relativeTime}"
+    "fullscreen_actions.pan": {
+        "string": "平移"
     },
-    "desktop_new_tab.search.search_files_placeholder": {
-        "string": "Search all files"
+    "fullscreen_actions.panels-menu": {
+        "string": "面板"
     },
-    "search.empty_state.try_searching_whole_org": {
-        "string": "Try searching the whole organization"
+    "fullscreen_actions.paste": {
+        "string": "粘贴"
     },
-    "search.search_model_type.search_error": {
-        "string": "Uh oh, we ran into an issue.\nTry searching again later."
+    "fullscreen_actions.paste-and-match-style": {
+        "string": "粘贴并匹配样式"
     },
-    "file_browser.view_mode_toggle.show_as_grid": {
-        "string": "Show as grid"
+    "fullscreen_actions.paste-as-live-object": {
+        "string": "粘贴为实时对象"
     },
-    "file_browser.view_mode_toggle.show_as_list": {
-        "string": "Show as list"
+    "fullscreen_actions.paste-here": {
+        "string": "粘贴到这里"
     },
-    "search.facets.created_by": {
-        "string": "By: {creator}"
+    "fullscreen_actions.paste-over-selection": {
+        "string": "粘贴覆盖选择"
     },
-    "search.facets.space": {
-        "string": "In: {space}"
+    "fullscreen_actions.paste-properties": {
+        "string": "粘贴属性"
     },
-    "search.facets.anyone": {
-        "string": "Anyone"
+    "fullscreen_actions.paste-to-replace": {
+        "string": "粘贴替换"
     },
-    "search.facets.all_spaces": {
-        "string": "All spaces"
+    "fullscreen_actions.pen_tool": {
+        "string": "钢笔工具"
     },
-    "tile.sort_filter.sort_label": {
-        "string": "Sort:"
+    "fullscreen_actions.pencil_tool": {
+        "string": "铅笔工具"
     },
-    "tile.sort_filter.filter_label": {
-        "string": "Filter:"
+    "fullscreen_actions.place": {
+        "string": "放置图像/视频..."
     },
-    "tile.sort_filter.from": {
-        "string": "From:"
+    "fullscreen_actions.place_all_images": {
+        "string": "全部放置"
     },
-    "tile.sort_filter.plan": {
-        "string": "Team/org:"
+    "fullscreen_actions.place_image": {
+        "string": "放置图像..."
     },
-    "tile.sort_filter.org_deleted_drafts": {
-        "string": "Show:"
+    "fullscreen_actions.place_image_or_video": {
+        "string": "放置图像/视频..."
     },
-    "tile.sort_filter.created_by_anyone": {
-        "string": "Created by anyone"
+    "fullscreen_actions.plugin_parameters.enter": {
+        "string": "Enter"
     },
-    "tile.sort_filter.created_by_you": {
-        "string": "Created by you"
+    "fullscreen_actions.plugin_parameters.optional_optional_names": {
+        "string": "可选：{optionalNames}"
     },
-    "tile.sort_filter.created_by_others": {
-        "string": "Created by others"
+    "fullscreen_actions.plugin_parameters.tab": {
+        "string": "Tab"
     },
-    "tile.sort_filter.filter_by_all_files": {
-        "string": "All files"
+    "fullscreen_actions.plugin_parameters.to_enter_optional_parameters": {
+        "string": "输入可选参数"
     },
-    "tile.sort_filter.filter_by_design_files": {
-        "string": "Design files"
+    "fullscreen_actions.plugin_parameters.to_run_plugin": {
+        "string": "运行插件"
     },
-    "tile.sort_filter.filter_by_figjam_files": {
-        "string": "FigJam boards"
+    "fullscreen_actions.plugins-menu": {
+        "string": "插件"
     },
-    "tile.sort_filter.filter_by_prototype_files": {
-        "string": "Prototypes"
+    "fullscreen_actions.plugins-menu-browse": {
+        "string": "在社区中查找插件"
     },
-    "tile.sort_filter.filter_by_sites_files": {
-        "string": "Websites"
+    "fullscreen_actions.plugins-menu-internal-dev-modal": {
+        "string": "内部开发..."
     },
-    "tile.sort_filter.filter_by_slides_files": {
-        "string": "Slide decks"
+    "fullscreen_actions.plugins-menu-manage": {
+        "string": "管理插件..."
     },
-    "tile.sort_filter.sort_date_created": {
-        "string": "Date created"
+    "fullscreen_actions.plugins-menu-saved-plugins": {
+        "string": "已保存的插件"
     },
-    "tile.sort_filter.sort_last_modified": {
-        "string": "Last modified"
+    "fullscreen_actions.plugins-run-last": {
+        "string": "运行上一个插件"
     },
-    "tile.sort_filter.sort_last_viewed": {
-        "string": "Last viewed"
+    "fullscreen_actions.preferences-menu": {
+        "string": "首选项"
     },
-    "tile.sort_filter.sort_alphabetical": {
-        "string": "Alphabetical"
+    "fullscreen_actions.present-as-prototype": {
+        "string": "在新标签页中展示"
     },
-    "tile.sort_filter.sort_date_trashed": {
-        "string": "Date trashed"
+    "fullscreen_actions.present-sites-full-preview": {
+        "string": "完整预览"
     },
-    "tile.sort_filter.sort_date_deleted": {
-        "string": "Date deleted"
+    "fullscreen_actions.present-slides-audience-view": {
+        "string": "演示"
     },
-    "tile.sort_filter.sort_relevance": {
-        "string": "Relevance"
+    "fullscreen_actions.present-slides-description": {
+        "string": "逐个播放幻灯片，非常适合分享幻灯片。"
     },
-    "tile.sort_filter.date_shared": {
-        "string": "Date shared"
+    "fullscreen_actions.present-slides-flyout-icon-alt": {
+        "string": "当前幻灯片的缩略图"
     },
-    "tile.sort_filter.sort_direction_oldest_first": {
-        "string": "Oldest first"
+    "fullscreen_actions.present-slides-presenter-view": {
+        "string": "演示+备注"
     },
-    "tile.sort_filter.sort_direction_a_to_z": {
-        "string": "A-Z"
+    "fullscreen_actions.present-slides-presenter-view-description": {
+        "string": "打开两个视图，一个用于幻灯片，一个用于备注。"
     },
-    "tile.sort_filter.sort_direction_ascending": {
-        "string": "Ascending"
+    "fullscreen_actions.previous-artboard": {
+        "string": "缩小到上一帧"
     },
-    "tile.sort_filter.sort_direction_newest_first": {
-        "string": "Newest first"
+    "fullscreen_actions.previous-artboard-same-zoom": {
+        "string": "检测到上一帧"
     },
-    "tile.sort_filter.sort_direction_z_to_a": {
-        "string": "Z-A"
+    "fullscreen_actions.print-image-diagnostics": {
+        "string": "打印图像诊断"
     },
-    "tile.sort_filter.sort_direction_descending": {
-        "string": "Descending"
+    "fullscreen_actions.print-render-tree": {
+        "string": "打印渲染树"
     },
-    "auth.email-domain-suggestion-prompt": {
-        "string": "Did you mean {domainSuggestion}?"
+    "fullscreen_actions.prototype": {
+        "string": "原型"
     },
-    "auth.email-input-placeholder": {
-        "string": "Email"
+    "fullscreen_actions.prune_invalid_component_prop_refs": {
+        "string": "删除选择中的无效组件属性引用"
     }
 }

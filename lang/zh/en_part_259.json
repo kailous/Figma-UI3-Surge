@@ -1,152 +1,152 @@
 {
-    "design_systems.assets_panel.insert_instance": {
-        "string": "Insert instance"
+    "pro_cart.add_collaborators.error.email_is_invalid": {
+        "string": "メールアドレス{string}は無効です"
     },
-    "design_systems.assets_panel.update_banner": {
-        "string": "An update is available. Close and reopen to get the latest."
+    "pro_cart.add_collaborators.sent_invites": {
+        "string": "招待を送信"
     },
-    "design_systems.assets_panel.playground_label": {
-        "string": "Properties"
+    "pro_cart.add_collaborators.skip_for_now": {
+        "string": "今は行わない"
     },
-    "design_systems.assets_panel.details": {
-        "string": "Details"
+    "pro_cart.add_collaborators.well_add_them_to_your_team": {
+        "string": "登録完了後にチームに追加されます"
     },
-    "design_systems.assets_panel.ui_kits": {
-        "string": "UI kits"
+    "pro_cart.adjust_editors.add_additional_editors.seat_rename": {
+        "string": "シートをさらに追加"
     },
-    "design_systems.assets_panel.dropdown_type_recents": {
-        "string": "Recents"
+    "pro_cart.adjust_editors.at_least_one_editor.seat_rename": {
+        "string": "1人分以上の有料シートが必要です"
     },
-    "design_systems.assets_panel.back": {
-        "string": "Back"
+    "pro_cart.adjust_editors.checkbox_toggle_explanation.seat_rename": {
+        "string": "有料シートを割り当てるにはボックスにチェックを入れます"
     },
-    "design_systems.assets_panel.add_more_libraries": {
-        "string": "Add more libraries"
+    "pro_cart.adjust_editors.choose_your_figma_design_and_figjam_editors.seat_rename": {
+        "string": "FigmaデザインシートとFigJamシートの選択"
     },
-    "design_systems.assets_panel.showing_results_from_all_libraries": {
-        "string": "Showing results from all libraries"
+    "pro_cart.adjust_editors.choose_your_figma_design_and_figjam_editors.seat_rename_dev_mode": {
+        "string": "チームのシートを選択"
     },
-    "design_systems.assets_panel.more_results_in_all_libraries": {
-        "string": "{results, plural, one {{results} more result in all libraries} other {{results} more results in all libraries}}"
+    "pro_cart.adjust_editors.empty_seats": {
+        "string": "{numEmptySeats, plural, other {空きシート数}}"
     },
-    "design_systems.assets_panel.no_results_for_query_in_library": {
-        "string": "No results for ''{searchQuery}'' in {libraryName}"
+    "pro_cart.adjust_editors.figma_design_column_title": {
+        "string": "Figmaデザイン"
     },
-    "design_systems.playground.open_variant_in_library": {
-        "string": "Go to variant in library"
+    "pro_cart.adjust_editors.subtitle": {
+        "string": "選択されていないユーザーは、今後もファイルを閲覧してコメントを投稿できます"
     },
-    "design_systems.playground.open_component_in_library": {
-        "string": "Go to component in library"
+    "pro_cart.adjust_editors.to_uncheck_first_check_another": {
+        "string": "チェックを外すには、最初に別のボックスにチェックを入れます"
     },
-    "design_systems.playground.variable_modes_title": {
-        "string": "Variable modes"
+    "pro_cart.adjust_editors.will_become_design_editor.seat_rename": {
+        "string": "チームをアップグレードすると、{email}に有料の Figmaデザインシートが付与されます"
     },
-    "dev_handoff.figmadocs.edit_sample_code": {
-        "string": "Edit sample code"
+    "pro_cart.adjust_editors.will_become_design_viewer": {
+        "string": "アップグレード後には{email}がFigmaデザインの閲覧者になります"
     },
-    "dev_handoff.inspect_panel.inspect_nested_component": {
-        "string": "Inspect nested component"
+    "pro_cart.adjust_editors.will_become_figjam_editor.seat_rename": {
+        "string": "チームをアップグレードすると、{email}に有料のFigjamシートが付与されます"
     },
-    "dev_handoff.developer_related_links.delete_link_text_body": {
-        "string": "Are you sure you want to delete this link? This action cannot be undone."
+    "pro_cart.adjust_editors.will_become_figjam_viewer": {
+        "string": "アップグレード後には{email}がFigJamの閲覧者になります"
     },
-    "dev_handoff.code.hints.color_missing_style": {
-        "string": "This color is not tied to a style or variable in the design"
+    "pro_cart.breadcrumbs.add_team_members": {
+        "string": "チームメンバーを追加"
     },
-    "dev_handoff.code.hints.variable_not_resolved": {
-        "string": "This property uses a variable that could not be found"
+    "pro_cart.breadcrumbs.adjust_editors.seat_rename": {
+        "string": "シートの調整"
     },
-    "dev_handoff.code.hints.multiple_variables": {
-        "string": "Multiple variables match this value ({value})"
+    "pro_cart.breadcrumbs.cancel": {
+        "string": "キャンセル"
     },
-    "dev_handoff.code.hints.absolute_position": {
-        "string": "Values are relative to parent ({name})"
+    "pro_cart.breadcrumbs.choose_plan": {
+        "string": "プランを選ぶ"
     },
-    "dev_handoff.code.hints.borders_dont_take_up_space": {
-        "string": "In this design, borders do not take up space. Size/padding might need to be adjusted to match the design when using `border` in CSS"
+    "pro_cart.breadcrumbs.create_team": {
+        "string": "チームを作成する"
     },
-    "dev_handoff.code.hints.single_paint": {
-        "string": "The design specifies multiple colors, but only a single color is supported here"
+    "pro_cart.breadcrumbs.payment_information": {
+        "string": "支払い情報"
     },
-    "dev_handoff.code.hints.unsupported_paint": {
-        "string": "The design uses an unsupported color here. A placeholder black color is shown instead"
+    "pro_cart.breadcrumbs.review": {
+        "string": "確認"
     },
-    "dev_handoff.code.hints.unsupported_gradient_paint": {
-        "string": "The design uses a gradient, which is not supported here. The first color in the gradient is shown instead"
+    "pro_cart.breadcrumbs.set_editors.seat_rename": {
+        "string": "シートの選択"
     },
-    "dev_handoff.code.hints.leading_trim": {
-        "string": "leading-trim and text-edge are draft CSS properties"
+    "pro_cart.choose_plan.choose_a_plan_for_your_new_team": {
+        "string": "新しいチームのプランを選ぶ"
     },
-    "dev_handoff.code.hints.background_blend_mode_plus_lighter_darker": {
-        "string": "{value} is typically used in iOS and isn’t available in browsers yet. Try another design solution for broader browser compatibility."
+    "pro_cart.create_team.create_a_professional_team": {
+        "string": "プロフェッショナルチームを作成する"
     },
-    "dev_handoff.code.hints.plus_darker": {
-        "string": "plus-darker is typically used in iOS apps and currently only supported in Safari. Try another design solution for broader browser compatibility."
+    "pro_cart.create_team.enter_a_name_for_your_working_group": {
+        "string": "作業グループの名前を入力"
     },
-    "dev_handoff.code.hints.swift_ui_separate_border_width": {
-        "string": "The design has different stroke widths for different border edges, but SwiftUI by default only supports a single width"
+    "pro_cart.create_team.itll_have_unlimited_files_and_collaborative_features": {
+        "string": "無制限のファイルと最新のコラボレーション機能を利用できるようになります"
     },
-    "dev_handoff.code.hints.swift_ui_blur_no_spread": {
-        "string": "The design specifies a spread for the shadow, but SwiftUI by default does not support a separate spread parmeter"
+    "pro_cart.create_team.next_set_editors.seat_rename": {
+        "string": "次へ: シートの選択"
     },
-    "dev_handoff.code.hints.swift_ui_only_single_fill_for_shapes": {
-        "string": "The design specifies multiple background colors, but SwiftUI shapes only support a single fill"
+    "pro_cart.create_team.upgrade_an_existing_team_instead": {
+        "string": "代わりに既存のチームをアップグレードしますか?"
     },
-    "dev_handoff.code.hints.swift_ui_separate_corner_radius": {
-        "string": "The design specifies more than one corner radius value, but SwiftUI only supports a single corner radius value"
+    "pro_cart.design_billing_cost_per_month.seat_rename": {
+        "string": "{monthlyCostInDollars}/シート"
     },
-    "dev_handoff.code.hints.swift_ui_spacers_for_space_between": {
-        "string": "A spacer creates an adaptive view with no content that expands as much as it can."
+    "pro_cart.info.figjam_editors.seat_rename": {
+        "string": "{numEditors, plural, other {#人分のFigJamシート}}"
     },
-    "dev_handoff.code.hints.compose_separate_border_width": {
-        "string": "The design has different stroke widths for different border edges, but Compose by default only supports a single width"
+    "pro_cart.info.figma_design_editors.seat_rename": {
+        "string": "{numEditors, plural, other {#人分のデザインシート}}"
     },
-    "dev_handoff.code.hints.compose_shadow_incompatibility": {
-        "string": "The .shadow() modifier is not fully compatible with this design."
+    "pro_cart.info.subtotal": {
+        "string": "小計"
     },
-    "dev_handoff.code.hints.compose_blur_tip": {
-        "string": "The .blur() modifier should be applied to a parent view."
+    "pro_cart.payment.billing_address": {
+        "string": "請求先住所"
     },
-    "dev_handoff.code.hints.display_p3_fallback": {
-        "string": "This is a fallback sRGB value for browsers that do not support P3 colors."
+    "pro_cart.payment.city": {
+        "string": "市区町村"
     },
-    "design_systems.assets_panel.dropdown_type_local_assets": {
-        "string": "Local assets"
+    "pro_cart.payment.city_town_or_village": {
+        "string": "市区町村"
     },
-    "design_systems.assets_panel.dropdown_type_local": {
-        "string": "Local components"
+    "pro_cart.payment.different_legal_name_or_shipping_address": {
+        "string": "会社名または配送先住所が異なる"
     },
-    "design_systems.assets_panel.dropdown_org_libraries": {
-        "string": "{orgName}'s libraries"
+    "pro_cart.payment.dont_see_your_country": {
+        "string": "国が表示されませんか?"
     },
-    "design_systems.assets_panel.dropdown_libraries": {
-        "string": "Libraries"
+    "pro_cart.payment.enter_payment_details_title": {
+        "string": "支払い情報を入力する"
     },
-    "design_systems.assets_panel.dropdown_curated_libraries": {
-        "string": "Curated libraries"
+    "pro_cart.payment.legal_company_name_label": {
+        "string": "法人名"
     },
-    "design_systems.assets_panel.show_as_grid": {
-        "string": "Show as grid"
+    "pro_cart.payment.legal_company_name_placeholder": {
+        "string": "法人名"
     },
-    "design_systems.assets_panel.show_as_list": {
-        "string": "Show as list"
+    "pro_cart.payment.name_on_payment_method": {
+        "string": "支払い方法の氏名"
     },
-    "design_systems.assets_panel.library_upsell_upgrade": {
-        "string": "upgrade to a Professional plan"
+    "pro_cart.payment.name_on_payment_method_label": {
+        "string": "支払い方法の氏名"
     },
-    "design_systems.assets_panel.library_upsell_header": {
-        "string": "Reuse components across files"
+    "pro_cart.payment.postal_code": {
+        "string": "郵便番号"
     },
-    "design_systems.assets_panel.library_upsell_body": {
-        "string": "Share your components with your team when you {upgradeToProfessionalPlanLink}."
+    "pro_cart.payment.province": {
+        "string": "州"
     },
-    "dev_handoff.paywall.banner.description_starter_viewer": {
-        "string": "{title} Dev Mode simplifies handoff, speeds up inspection, and much more. To try it out, talk to your admin."
+    "pro_cart.payment.province_or_region": {
+        "string": "都道府県"
     },
-    "dev_handoff.paywall.banner.description_pending": {
-        "string": "{title} Need to use Dev Mode now? Give your admin a nudge."
+    "pro_cart.payment.sepa_direct_debit_mandate": {
+        "string": "お客様は、お支払い情報を提供し、このお支払いを確認することで、(A) FigmaおよびFigmaの決済サービスプロバイダーであるStripeがお客様の銀行にお客様の口座から引き落としを行うよう指示すること、および(B)銀行がその指示に従って口座から引き落としを行うことを認めるものとします。お客様は、お客様の権利の一部として、お客様の銀行との契約の条件に基づいて、お客様の銀行から払い戻しを受けることができます。 払い戻しは、お客様の口座から引き落としが行われた日から8週間以内に請求する必要があります。 お客様の権利については、銀行から入手できる明細書に記載されています。 お客様は、引き落としが発生する最大2日前に通知を受け取ることに同意するものとします。 "
     },
-    "dev_handoff.paywall.banner.description": {
-        "string": "{title} Dev Mode simplifies handoff, speeds up inspection, and integrates with tools like VS Code and Storybook."
+    "pro_cart.payment.shipping_address": {
+        "string": "配送先住所"
     }
 }

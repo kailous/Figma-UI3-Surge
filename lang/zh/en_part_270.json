@@ -1,152 +1,152 @@
 {
-    "payments.pro_enter_an_email_address": {
-        "string": "You can choose an additional person or email address to receive billing emails like renewal reminders and payment confirmations. Admins will always get these emails."
+    "proto.prototype_panel.edit_set_mode.none": {
+        "string": "なし"
     },
-    "payments.cancel": {
-        "string": "Cancel"
+    "proto.prototype_panel.loop": {
+        "string": "繰り返し再生する"
     },
-    "payments.save": {
-        "string": "Save"
+    "proto.prototype_panel.prototype_multiple_interactions_mouse_and_hover_tooltip": {
+        "string": "別のインタラクションが最初にトリガーされるため、このインタラクションはトリガーされません。"
     },
-    "payments.invalid_billing_contact_error": {
-        "string": "Invalid billing contact"
+    "proto.prototype_panel.remove_interaction_tooltip": {
+        "string": "インタラクションを削除"
     },
-    "payments.missing_billing_contact_error": {
-        "string": "You need at least one billing contact"
+    "proto.prototype_panel.replace_mixed_muted_and_loop_video_playback": {
+        "string": "混合値を置き換えるには、{loopSvg}または{speakerSvg}をクリックします"
     },
-    "payments.org_change_billing_contact": {
-        "string": "Manage your billing contacts"
+    "proto.prototype_panel.replace_mixed_video_playback": {
+        "string": "混合値を置き換えるには、{svg}をクリックします"
     },
-    "payments.pro_change_billing_contact": {
-        "string": "Update your billing contact"
+    "proto.prototype_panel.reset_interactions": {
+        "string": "インタラクションをリセット"
     },
-    "payments.change_billing_contact_placeholder": {
-        "string": "Separate emails with a comma"
+    "proto.prototype_panel.select_the_frame_your_prototype_will_begin_with_tooltip": {
+        "string": "プロトタイプを開始するフレームを選択する。"
     },
-    "new_editor_notifications_modal.daily": {
-        "string": "Daily"
+    "proto.prototype_panel.sound": {
+        "string": "サウンドあり"
     },
-    "new_editor_notifications_modal.daily_description": {
-        "string": "Get a summary of upgrades the day they happen."
+    "proto.prototype_panel.this_interaction_must_swap_from_a_variant_to_another_variant_within_the_same_component_set_tooltip": {
+        "string": "このインタラクションは、同じコンポーネントが設定されているバリアント間で入れ替える必要があります。"
     },
-    "new_editor_notifications_modal.weekly": {
-        "string": "Weekly"
+    "proto.prototype_panel.this_interaction_will_not_be_triggered_as_interactions_on_instances_are_triggered_before_inherited_internal_interactions_tooltip": {
+        "string": "継承される内部インタラクションよりも先にインスタンスのインタラクションがトリガーされるため、このインタラクションはトリガーされません。"
     },
-    "new_editor_notifications_modal.weekly_description": {
-        "string": "Get a summary of upgrades every Monday."
+    "proto.prototype_panel.use_the_circular_node_to_connect_the_selected_object_to_another_frame_tooltip": {
+        "string": "円形ノードを使って、選択されているオブジェクトを別のフレームに接続します。"
     },
-    "new_editor_notifications_modal.monthly": {
-        "string": "Monthly"
+    "proto.prototype_panel.video": {
+        "string": "動画"
     },
-    "new_editor_notifications_modal.monthly_description": {
-        "string": "Get a summary of upgrades on the first of the month."
+    "proto.prototype_panel.video_error_panel.move_file_to_pro_team_to_upload_video": {
+        "string": "動画を追加または編集するには、まずプロフェッショナルチームに{moveThisFileLink}してください。"
     },
-    "new_editor_notifications_modal.all_admins": {
-        "string": "All admins"
+    "proto.prototype_panel.video_error_panel.move_this_file": {
+        "string": "このファイルを移動"
     },
-    "new_editor_notifications_modal.specific_admins": {
-        "string": "Specific admins"
+    "proto.prototype_panel.video_error_panel.upgrade_team_to_upload_video": {
+        "string": "動画を編集または追加するには、プロフェッショナルチームに登録されていなければなりません。"
     },
-    "new_editor_notifications_modal.how_often_would_you_like_receive_emails": {
-        "string": "How often would you like to receive emails? "
+    "proto.prototype_panel.video_error_panel.upgrade_to_pro": {
+        "string": "プロフェッショナルにアップグレード..."
     },
-    "new_editor_notifications_modal.turn_off_notifications_subtext": {
-        "string": "To stop receiving seat upgrade digests, uncheck all boxes below."
+    "proto.prototype_view_selector.untitled": {
+        "string": "無題"
     },
-    "new_editor_notifications_modal.who_should_get_them": {
-        "string": "Who should get them?"
+    "proto.scroll_options.offset": {
+        "string": "オフセット"
     },
-    "new_editor_notifications_modal.we_recommend_only_adding": {
-        "string": "We recommend only adding admins who regularly manage seats."
+    "proto.scroll_options.scroll_offset.x": {
+        "string": "X"
     },
-    "new_editor_notifications_modal.get_emailed_when_members_upgrade_from_free_to_paid": {
-        "string": "Get emailed when members upgrade from a free to a paid seat. "
+    "proto.scroll_options.scroll_offset.y": {
+        "string": "Y"
     },
-    "new_editor_notifications_modal.disclaimer_for_orgs": {
-        "string": "Keep in mind that you won't get these emails on days true-ups or true-up reminders are sent."
+    "proto.scroll_panel.overflow_dropdown.both_directions": {
+        "string": "両方向"
     },
-    "new_editor_notifications_modal.confirmation_v2": {
-        "string": "Updated seat upgrade digests"
+    "proto.scroll_panel.overflow_dropdown.horizontal": {
+        "string": "水平"
     },
-    "new_editor_notifications_modal.header": {
-        "string": "Seat upgrade digests"
+    "proto.scroll_panel.overflow_dropdown.no_scrolling": {
+        "string": "スクロールなし"
     },
-    "new_editor_notifications_modal.error_message_for_empty_admins": {
-        "string": "Add the name of at least one admin"
+    "proto.scroll_panel.overflow_dropdown.overflow": {
+        "string": "オーバーフロー"
     },
-    "file_browser.team.you_will_lose_access_to_secret_team_warning": {
-        "string": "Once this team becomes secret, you’ll need to be invited to join. You’ll also need permission to edit the team name, adjust people’s roles, or change how people can view or join the team."
+    "proto.scroll_panel.overflow_dropdown.vertical": {
+        "string": "垂直"
     },
-    "file_browser.team.change_to_secret_team_confirmation_title": {
-        "string": "Change {teamName} to a secret team?"
+    "proto.scroll_panel.position_dropdown.fixed": {
+        "string": "固定"
     },
-    "file_browser.team.change_to_secret_team_confirm": {
-        "string": "Change to secret"
+    "proto.scroll_panel.position_dropdown.fixed_stay_in_place": {
+        "string": "固定(同じ場所にとどまる)"
     },
-    "team_view.team_permissions_modal.access_settings": {
-        "string": "Access settings"
+    "proto.scroll_panel.position_dropdown.position": {
+        "string": "位置"
     },
-    "settings_tab.contact_support": {
-        "string": "Contact support"
+    "proto.scroll_panel.position_dropdown.scroll_with_parent": {
+        "string": "親とスクロール"
     },
-    "members_table.true_up.banner.new_seats.design": {
-        "string": "New Design seats"
+    "proto.scroll_panel.position_dropdown.sticky": {
+        "string": "追従"
     },
-    "members_table.true_up.banner.new_seats.dev_mode": {
-        "string": "New Dev Mode seats"
+    "proto.scroll_panel.position_dropdown.sticky_stop_at_top_edge": {
+        "string": "追従(上端で停止)"
     },
-    "members_table.true_up.banner.new_seats.figjam": {
-        "string": "New FigJam seats"
+    "proto.scroll_panel.scroll_behavior_title": {
+        "string": "スクロールの動作"
     },
-    "members_table.true_up.banner.total_seats": {
-        "string": "{numSeats, plural, one {{numSeats} total seat} other {{numSeats} total seats}}"
+    "proto.select_variable": {
+        "string": "ターゲットバリアブルを選択"
     },
-    "members_table.true_up.banner.projected_total": {
-        "string": "Projected total"
+    "proto.select_variable.short": {
+        "string": "バリアブルを選択"
     },
-    "members_table.true_up.banner.see_breakdown": {
-        "string": "See breakdown"
+    "proto.set_variable_mode.collection_label": {
+        "string": "コレクション"
     },
-    "members_table.true_up.banner.free_period_zero.tooltip.design": {
-        "string": "Your organization won't have new Design seats included in this true-up"
+    "proto.set_variable_mode.mode_label": {
+        "string": "モード"
     },
-    "members_table.true_up.banner.free_period_zero.tooltip.dev_mode": {
-        "string": "Your organization won't have new Dev Mode seats included in this true-up"
+    "proto.starting_point_modal.description": {
+        "string": "説明"
     },
-    "members_table.true_up.banner.free_period_zero.tooltip.figjam": {
-        "string": "Your organization won't have new FigJam seats included in this true-up"
+    "proto.starting_point_modal.enter_a_description_for_your_starting_point": {
+        "string": "開始点の説明を入力"
     },
-    "members_table.true_up.banner.seat_floor.tooltip.design": {
-        "string": "The number of Design seats that meets the minimum amount you've agreed to pay in your contract"
+    "proto.starting_points.add_starting_point_tooltip": {
+        "string": "開始点を追加"
     },
-    "members_table.true_up.banner.seat_floor.tooltip.dev_mode": {
-        "string": "The number of Dev Mode seats that meets the minimum amount you've agreed to pay in your contract"
+    "proto.starting_points.click_to_remove_mixed_content": {
+        "string": "混合コンテンツを削除するには[-]をクリックします。"
     },
-    "members_table.true_up.banner.seat_floor.tooltip.figjam": {
-        "string": "The number of FigJam seats that meets the minimum amount you've agreed to pay in your contract"
+    "proto.starting_points.delete_starting_point_tooltip": {
+        "string": "開始点を削除"
     },
-    "org_admin_tab.activity": {
-        "string": "Activity"
+    "proto.starting_points.description_bold_tooltip": {
+        "string": "太字"
     },
-    "org_admin_tab.dashboard": {
-        "string": "Dashboard"
+    "proto.starting_points.description_bulleted_list_tooltip": {
+        "string": "箇条書き"
     },
-    "org_admin_tab.workspaces": {
-        "string": "Workspaces"
+    "proto.starting_points.description_code_block_tooltip": {
+        "string": "コードブロック"
     },
-    "org_admin_tab.teams": {
-        "string": "Teams"
+    "proto.starting_points.description_code_tooltip": {
+        "string": "コード"
     },
-    "org_admin_tab.members": {
-        "string": "Members"
+    "proto.starting_points.description_header_tooltip": {
+        "string": "ヘッダー1"
     },
-    "org_admin_tab.billing": {
-        "string": "Billing"
+    "proto.starting_points.description_italic_tooltip": {
+        "string": "斜体"
     },
-    "resources_tab.libraries": {
-        "string": "Libraries"
+    "proto.starting_points.description_link_tooltip": {
+        "string": "リンク"
     },
-    "resources_tab.approved_plugins": {
-        "string": "Approved plugins"
+    "proto.starting_points.description_ordered_list_tooltip": {
+        "string": "順序付きリスト"
     }
 }

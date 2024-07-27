@@ -1,152 +1,152 @@
 {
-    "org_admin_settings.cost_breakdown.paid": {
-        "string": "Paid"
+    "sites.panel.interactions_panel.slide_in_right": {
+        "string": "右からスライドイン"
     },
-    "org_admin_settings.cost_breakdown.view_invoice": {
-        "string": "View invoice"
+    "sites.panel.interactions_panel.slide_in_top": {
+        "string": "上からスライドイン"
     },
-    "org_admin_settings.cost_breakdown.overdue": {
-        "string": "Overdue"
+    "sites.panel.interactions_panel.slide_out_bottom": {
+        "string": "下からスライドアウト"
     },
-    "org_admin_settings.cost_breakdown.pay_invoice": {
-        "string": "Pay invoice"
+    "sites.panel.interactions_panel.slide_out_left": {
+        "string": "左からスライドアウト"
     },
-    "org_admin_settings.cost_breakdown.unpaid": {
-        "string": "Unpaid"
+    "sites.panel.interactions_panel.slide_out_right": {
+        "string": "右からスライドアウト"
     },
-    "org_admin_settings.cost_breakdown.mmmm_dd_yyyy": {
-        "string": "{date, date, long}"
+    "sites.panel.interactions_panel.slide_out_top": {
+        "string": "上からスライドアウト"
     },
-    "org_admin_settings.cost_breakdown.annual_subscription": {
-        "string": "Annual subscription"
+    "sites.panel.interactions_panel.speed": {
+        "string": "速度"
     },
-    "org_admin_settings.cost_breakdown.quarterly_true_up": {
-        "string": "Quarterly true-up"
+    "sites.panel.interactions_panel.this_layer_in_view": {
+        "string": "表示中"
     },
-    "org_admin_settings.cost_breakdown.free_for_2021": {
-        "string": "Free for 2021"
+    "sites.panel.interactions_panel.transition_delay": {
+        "string": "遅延"
     },
-    "org_admin_settings.billing.no_billing_groups_yet": {
-        "string": "No billing groups yet"
+    "sites.panel.interactions_panel.transition_duration": {
+        "string": "所要時間"
     },
-    "org_admin_settings.billing.billing_groups_empty_text.seat_rename": {
-        "string": "Easily track costs and assign admins to manage members and seats. {learnMoreLink}"
+    "sites.panel.interactions_panel.trigger": {
+        "string": "トリガー"
     },
-    "billing_groups_table.plus_billing_group": {
-        "string": "Billing group"
+    "sites.panel.link": {
+        "string": "リンク"
     },
-    "resources_tab.approved_plugins.plugin_approval_banner.text": {
-        "string": "To create a list of approved plugins, first go to settings and turn on {settingName}."
+    "sites.panel.main": {
+        "string": "メイン"
     },
-    "resources_tab.approved_widgets.widget_approval_banner.text": {
-        "string": "To create a list of approved widgets, first go to settings and turn on {settingName}."
+    "sites.panel.overlay_opacity_label": {
+        "string": "不透明度"
     },
-    "resources_tab.approved_plugins.plugin_approval_banner.go_to_settings_button": {
-        "string": "Go to settings"
+    "sites.panel.overlay_preview": {
+        "string": "オーバーレイプレビュー"
     },
-    "allowlist_plugins_modals.add_plugin.details": {
-        "string": "To approve a plugin, paste a link to its Figma Community page."
+    "sites.panel.overlay_preview_close": {
+        "string": "プレビューを閉じる"
     },
-    "allowlist_plugins_modals.add_plugin.add_button": {
-        "string": "Add"
+    "sites.panel.page_metadata": {
+        "string": "ページのメタデータ"
     },
-    "allowlist_widgets_modals.add_widget.details": {
-        "string": "To approve a widget, paste a link to its Figma Community page."
+    "sites.panel.page_metadata.description_placeholder": {
+        "string": "このページの内容は?"
     },
-    "allowlist_widgets_modals.add_widget.add_button": {
-        "string": "Add"
+    "sites.panel.page_metadata.title_placeholder": {
+        "string": "このページの名前は?"
     },
-    "allowlist_plugins_modals.msa_amendment_modal.success_notification": {
-        "string": "All plugins are now allowed"
+    "sites.panel.pages_panel.add_new_webpage": {
+        "string": "Webページを追加"
     },
-    "allowlist_widgets_modals.msa_amendment_modal.success_notification": {
-        "string": "All widgets are now allowed"
+    "sites.panel.pages_panel.cannot_rename_default_responsive_set": {
+        "string": "ホームページの名前は変更できません"
     },
-    "allowlist_plugins_modals.msa_amendment_modal.title": {
-        "string": "Updated license agreement"
+    "sites.panel.pages_panel.webpages": {
+        "string": "Webページ"
     },
-    "allowlist_plugins_modals.msa_amendment_modal.accept_button": {
-        "string": "Accept and continue"
+    "sites.panel.position_panel.absolute": {
+        "string": "絶対"
     },
-    "allowlist_plugins_modals.add_plugin.invalid_url_notification": {
-        "string": "Invalid plugin URL"
+    "sites.panel.position_panel.bottom": {
+        "string": "下"
     },
-    "allowlist_plugins_modals.add_plugin.title": {
-        "string": "Add an approved plugin"
+    "sites.panel.position_panel.fixed": {
+        "string": "固定"
     },
-    "allowlist_widgets_modals.add_widget.invalid_url_notification": {
-        "string": "Invalid widget URL"
+    "sites.panel.position_panel.fixed_disabled": {
+        "string": "Webページの直接の子のみを固定に設定できます"
     },
-    "allowlist_widgets_modals.add_widget.title": {
-        "string": "Add an approved widget"
+    "sites.panel.position_panel.left": {
+        "string": "左"
     },
-    "settings_tab.enable_plugin_approval_success": {
-        "string": "Plugins are now restricted to the plugins on the approved list"
+    "sites.panel.position_panel.position": {
+        "string": "位置"
     },
-    "settings_tab.disable_plugin_approval_success": {
-        "string": "All plugins are now allowed"
+    "sites.panel.position_panel.relative": {
+        "string": "相対"
     },
-    "settings_tab.widget_admin_approval_enabled": {
-        "string": "Widgets are now restricted to the widgets on the approved list"
+    "sites.panel.position_panel.relative_disabled": {
+        "string": "オートレイアウトのフレーム内のレイヤーにのみ適用できます。"
     },
-    "settings_tab.widget_admin_approval_disabled": {
-        "string": "All widgets are now allowed"
+    "sites.panel.position_panel.right": {
+        "string": "右"
     },
-    "resources_tab.approved_plugins.modal.plugin_approval": {
-        "string": "Plugin Approval"
+    "sites.panel.position_panel.sticky": {
+        "string": "追従"
     },
-    "resources_tab.approved_plugins.modal.org_members_can_use": {
-        "string": "Org members can use"
+    "sites.panel.position_panel.top": {
+        "string": "上"
     },
-    "resources_tab.approved_plugins.modal.all_plugins": {
-        "string": "All plugins from Figma Community"
+    "sites.panel.remove_tooltip": {
+        "string": "アクセシビリティの設定を削除"
     },
-    "resources_tab.approved_plugins.modal.default": {
-        "string": " (default)"
+    "sites.panel.responsiveness": {
+        "string": "レスポンシブ"
     },
-    "resources_tab.approved_plugins.modal.approved_plugins_only": {
-        "string": "Only admin-approved plugins"
+    "sites.panel.responsiveness.scaling_max_font_size": {
+        "string": "最大フォントサイズ"
     },
-    "resources_tab.approved_plugins.modal.request_plugins": {
-        "string": "Allow members to request plugins"
+    "sites.panel.responsiveness.scaling_max_layout_width": {
+        "string": "最大幅"
     },
-    "resources_tab.approved_widgets.modal.widget_approval": {
-        "string": "Widget Approval"
+    "sites.panel.responsiveness.scaling_min_font_size": {
+        "string": "最小フォントサイズ"
     },
-    "resources_tab.approved_widgets.modal.all_widgets": {
-        "string": "All widgets from Figma Community"
+    "sites.panel.responsiveness.scaling_min_layout_width": {
+        "string": "最小幅"
     },
-    "resources_tab.approved_widgets.modal.default": {
-        "string": " (default)"
+    "sites.panel.responsiveness.scaling_mode": {
+        "string": "拡大縮小モード"
     },
-    "resources_tab.approved_widgets.modal.approved_widgets_only": {
-        "string": "Only admin-approved widgets"
+    "sites.panel.responsiveness.scaling_mode.reflow": {
+        "string": "リフロー"
     },
-    "resources_tab.approved_widgets.modal.request_widgets": {
-        "string": "Allow members to request widgets"
+    "sites.panel.responsiveness.scaling_mode.scale": {
+        "string": "拡大縮小"
     },
-    "resources_tab.approved_plugins.table.approved_header": {
-        "string": "Approved"
+    "sites.panel.search_responsive_sets": {
+        "string": "WebページまたはURL"
     },
-    "resources_tab.approved_plugins.table.plugin_name_column": {
-        "string": "Plugin name"
+    "sites.panel.see_unsupported_properties": {
+        "string": "サポートされていないプロパティを表示します"
     },
-    "resources_tab.approved_plugins.table.widget_name_column": {
-        "string": "Widget name"
+    "sites.panel.sites_issues": {
+        "string": "サポートされていないプロパティ"
     },
-    "resources_tab.approved_plugins.table.description_column": {
-        "string": "Description"
+    "sites.panel.sites_issues.description": {
+        "string": "サイトでは、まだプレビュー時に一部のプロパティをサポートしていません。それぞれの問題と、考えられる解決方法を以下に示します。"
     },
-    "resources_tab.approved_plugins.table.approved_column": {
-        "string": "Approved"
+    "sites.panel.sites_issues.no_issues": {
+        "string": "すべて解決しました。サポートされていないプロパティはありません"
     },
-    "resources_tab.approved_plugins.table.approved_for_column": {
-        "string": "Approved for"
+    "sites.panel.sites_issues.select_nodes_with_issues": {
+        "string": "この警告があるレイヤーを選択"
     },
-    "resources_tab.approved_plugins.table.entire_org": {
-        "string": "Entire org"
+    "sites.panel.title": {
+        "string": "タイトル"
     },
-    "resources_tab.approved_plugins.table.n_workspaces_approved_for": {
-        "string": "{numberOfWorkspaces} workspaces"
+    "sites.panel.toolbar_header.layout": {
+        "string": "レイアウト"
     }
 }

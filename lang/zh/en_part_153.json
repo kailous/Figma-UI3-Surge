@@ -1,152 +1,152 @@
 {
-    "proto.action_update_media_set_time_interaction": {
-        "string": "Set time interaction"
+    "figjam_onboarding_make_something.team_chart.double_click_this_text_to_type_in_the_manager_s_name_go_ahead_try_it": {
+        "string": "双击此文本输入经理的名字。来吧，试试吧！"
     },
-    "proto.action_update_media_play_pause_interaction": {
-        "string": "Play/Pause interaction"
+    "figjam_onboarding_make_something.team_chart.double_click_this_text_to_type_in_the_manager_s_name_go_ahead_try_it_bold_text": {
+        "string": "双击此文本"
     },
-    "proto.action_update_media_mute_unmute_interaction": {
-        "string": "Mute/Unmute interaction"
+    "figjam_onboarding_make_something.team_chart.in_fig_jam_you_can_diagram_all_sorts_of_things_here_s_an_example": {
+        "string": "在FigJam中，您可以绘制各种图表。接下来是一个示例。"
     },
-    "proto.action_update_media_jump_time_interaction": {
-        "string": "Jump time interaction"
+    "figjam_onboarding_make_something.team_chart.in_fig_jam_you_can_diagram_all_sorts_of_things_here_s_an_example_bold_text": {
+        "string": "在FigJam中，您可以绘制各种图表。"
     },
-    "proto.action_check_if_else_interaction": {
-        "string": "Check if/else interaction"
+    "figjam_onboarding_make_something.team_chart.share_this_board_and_your_whole_team_can_pitch_in": {
+        "string": "分享这个板，您的整个团队都可以参与。"
     },
-    "proto.action_conditional_interaction": {
-        "string": "Conditional interaction"
+    "figjam_onboarding_make_something.team_chart.you_can_add_images_by_simply_dragging_them_into_fig_jam": {
+        "string": "您只需将图片拖入FigJam即可添加。"
     },
-    "proto.action_update_media_jump": {
-        "string": "Jump"
+    "figjam_onboarding_make_something.team_chart.you_can_also_grab_more_shapes_from_here": {
+        "string": "您还可以从这里拖动更多形状..."
     },
-    "proto.action_update_media_set": {
-        "string": "Set"
+    "figjam_onboarding_make_something.team_updates.and_can_add_important_dates_to_the_calendar_over_here": {
+        "string": "您还可以在此处的日历中添加重要日期。"
     },
-    "proto.interaction.type.mouse_enter_deprecated": {
-        "string": "Mouse move inside"
+    "figjam_onboarding_make_something.team_updates.each_person_gets_a_row_of_their_own_for_sharing_updates_and_priorities": {
+        "string": "每个人都有自己的一行，用于分享更新和优先事项。"
     },
-    "proto.interaction.type.mouse_leave_deprecated": {
-        "string": "Mouse move outside"
+    "figjam_onboarding_make_something.team_updates.fig_jam_s_great_for_team_syncs_here_s_how_it_works": {
+        "string": "FigJam非常适合团队同步。其工作方式如下："
     },
-    "proto.interaction.type.none": {
-        "string": "None"
+    "figjam_onboarding_make_something.team_updates.fig_jam_s_great_for_team_syncs_here_s_how_it_works_bold_text": {
+        "string": "FigJam非常适合团队同步。"
     },
-    "proto.interaction.type.on_click": {
-        "string": "On click"
+    "figjam_onboarding_make_something.team_updates.give_it_a_go_try_typing_your_priorities_in_this_sticky_note": {
+        "string": "试试看，在这个便签中输入您的优先事项。"
     },
-    "proto.interaction.type.while_hovering": {
-        "string": "While hovering"
+    "figjam_onboarding_make_something.team_updates.give_it_a_go_try_typing_your_priorities_in_this_sticky_note_bold_text": {
+        "string": "输入您的优先事项"
     },
-    "proto.interaction.type.while_pressing": {
-        "string": "While pressing"
+    "figjam_onboarding_make_something.team_updates.invite_your_teammates_and_run_a_quick_team_check_in": {
+        "string": "邀请您的队友并快速进行团队检查。"
     },
-    "proto.interaction.type.on_drag": {
-        "string": "On drag"
+    "figjam_onboarding_make_something.team_updates.take_a_selfie_then_drag_it_into_whichever_row_you_d_like_try_and_click_the_red_dot": {
+        "string": "自拍，然后将其拖入您喜欢的任何一行。尝试点击红点。"
     },
-    "proto.interaction.type.mouse_enter": {
-        "string": "Mouse enter"
+    "figjam_onboarding_make_something.team_updates.take_a_selfie_then_drag_it_into_whichever_row_you_d_like_try_and_click_the_red_dot_bold_text": {
+        "string": "自拍"
     },
-    "proto.interaction.type.mouse_leave": {
-        "string": "Mouse leave"
+    "figjam_onboarding_make_something.team_updates.your_whole_team_can_share_updates_here": {
+        "string": "在这里，整个团队都可以分享更新..."
     },
-    "proto.interaction.type.mouse_down": {
-        "string": "Mouse down"
+    "figjam_onboarding_make_something.templates_modal.button_title.brainstorm": {
+        "string": "想出新点子"
     },
-    "proto.interaction.type.mouse_up": {
-        "string": "Mouse up"
+    "figjam_onboarding_make_something.templates_modal.button_title.planning_ahead": {
+        "string": "提前规划"
     },
-    "proto.interaction.type.after_delay": {
-        "string": "After delay"
+    "figjam_onboarding_make_something.templates_modal.button_title.team_chart": {
+        "string": "创建图表"
     },
-    "proto.interaction.type.key_gamepad": {
-        "string": "Key/Gamepad"
+    "figjam_onboarding_make_something.templates_modal.button_title.team_updates": {
+        "string": "分享团队更新"
     },
-    "proto.interaction.type.on_voice": {
-        "string": "On voice"
+    "figjam_onboarding_make_something.templates_modal.button_title.templates_button": {
+        "string": "查看更多模板"
     },
-    "proto.interaction.type.when_video_hits": {
-        "string": "When video hits"
+    "figjam_onboarding_make_something.templates_modal.main_subtitle": {
+        "string": "选择一个，我们将为您展示。"
     },
-    "proto.interaction.type.when_video_ends": {
-        "string": "When video ends"
+    "figjam_onboarding_make_something.templates_modal.main_title": {
+        "string": "FigJam适用于许多事情"
     },
-    "proto.interaction.type.on_tap": {
-        "string": "On tap"
+    "figjam_onboarding_make_something.templates_toolbar_connector.body_text": {
+        "string": "如果以后需要，模板在这里。"
     },
-    "proto.interaction.type.touch_down": {
-        "string": "Touch down"
+    "figjam_onboarding_make_something.templates_toolbar_connector.body_text_bold": {
+        "string": "模板"
     },
-    "proto.interaction.type.touch_up": {
-        "string": "Touch up"
+    "figjam_onboarding_make_something.templates_toolbar_connector.done_button": {
+        "string": "了解"
     },
-    "proto.interaction.type.click": {
-        "string": "Click"
+    "figjam_onboarding_make_something.templates_toolbar_onboarding_finished_connector.body_text": {
+        "string": "使用模板来制定大计划、想出大点子或团结团队。"
     },
-    "proto.interaction.type.hover": {
-        "string": "Hover"
+    "figjam_onboarding_make_something.templates_toolbar_onboarding_finished_connector.body_text_bold": {
+        "string": "模板"
     },
-    "proto.interaction.type.press": {
-        "string": "Press"
+    "figjam_onboarding_make_something.templates_toolbar_onboarding_finished_connector.title_want_to_try_something_else": {
+        "string": "想尝试别的东西吗？"
     },
-    "proto.interaction.type.drag": {
-        "string": "Drag"
+    "figjam_onboarding_make_something.use_case_listbox.aria_label": {
+        "string": "用例列表"
     },
-    "proto.interaction.type.delay": {
-        "string": "Delay"
+    "figjam_onboarding_make_something.visual_bell.loading_template": {
+        "string": "插入模板"
     },
-    "proto.interaction.type.key": {
-        "string": "Key"
+    "browse_templates_modal.add_template": {
+        "string": "添加模板"
     },
-    "proto.interaction.type.voice": {
-        "string": "Voice"
+    "browse_templates_modal.add_template.disabled": {
+        "string": "需要编辑权限才能添加模板"
     },
-    "proto.interaction.type.video_hits": {
-        "string": "Video hits"
+    "browse_templates_modal.all_others": {
+        "string": "所有其他"
     },
-    "proto.interaction.type.video_ends": {
-        "string": "Video ends"
+    "browse_templates_modal.all_teams": {
+        "string": "所有团队"
     },
-    "proto.interaction.type.tap": {
-        "string": "Tap"
+    "browse_templates_modal.all_templates": {
+        "string": "所有模板"
     },
-    "proto.overlay_position_centered": {
-        "string": "Centered"
+    "browse_templates_modal.all_workspaces": {
+        "string": "所有工作区"
     },
-    "proto.overlay_position_top_left": {
-        "string": "Top left"
+    "browse_templates_modal.browse_more_in_community": {
+        "string": "在社区中浏览更多"
     },
-    "proto.overlay_position_top_center": {
-        "string": "Top center"
+    "browse_templates_modal.context_menu.copy_link": {
+        "string": "复制链接"
     },
-    "proto.overlay_position_top_right": {
-        "string": "Top right"
+    "browse_templates_modal.context_menu.view_original_file": {
+        "string": "查看原文件"
     },
-    "proto.overlay_position_bottom_left": {
-        "string": "Bottom left"
+    "browse_templates_modal.first_name_count_more": {
+        "string": "{firstName}及其他{count}人"
     },
-    "proto.overlay_position_bottom_center": {
-        "string": "Bottom center"
+    "browse_templates_modal.more_templates_like_this": {
+        "string": "类似的模板"
     },
-    "proto.overlay_position_bottom_right": {
-        "string": "Bottom right"
+    "browse_templates_modal.my_teams": {
+        "string": "我的团队"
     },
-    "proto.overlay_position_manual": {
-        "string": "Manual"
+    "browse_templates_modal.my_teams_only": {
+        "string": "仅我的团队"
     },
-    "whiteboard.shapes.square": {
-        "string": "Square"
+    "browse_templates_modal.none_selected": {
+        "string": "未选择任何内容"
     },
-    "whiteboard.shapes.rounded_rectangle": {
-        "string": "Rounded rectangle"
+    "browse_templates_modal.org_name_templates": {
+        "string": "{orgName}的模板"
     },
-    "whiteboard.shapes.diamond": {
-        "string": "Diamond"
+    "browse_templates_modal.other_teams": {
+        "string": "其他团队"
     },
-    "whiteboard.shapes.ellipse": {
-        "string": "Ellipse"
+    "browse_templates_modal.published_by_current_org_name": {
+        "string": "{orgName}发布"
     },
-    "whiteboard.shapes.triangle": {
-        "string": "Triangle"
+    "browse_templates_modal.published_from": {
+        "string": "发布自："
     }
 }

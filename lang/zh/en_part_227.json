@@ -1,152 +1,152 @@
 {
-    "rcs.delayed_nux_questions.reminder_header": {
-        "string": "One last thing…"
+    "settings_tab.connected_apps.description": {
+        "string": "说明"
     },
-    "rcs.delayed_nux_questions.reminder_body": {
-        "string": "If you have a second, we’d love to ask you a few questions—this helps us build a better FigJam."
+    "settings_tab.connected_apps.error_loading_tokens": {
+        "string": "请求处理时发生错误。请刷新后重试。"
     },
-    "rcs.delayed_nux_questions.reminder_primary_button": {
-        "string": "Let’s go"
+    "settings_tab.connected_apps.instruction": {
+        "string": "管理员已允许以下应用访问组织。您可以随时撤销应用的访问权限。"
     },
-    "rcs.org_welcome.welcome_to_your_figma_organization": {
-        "string": "Welcome to your Figma organization"
+    "settings_tab.connected_apps.o_auth_scope": {
+        "string": "OAuth范围"
     },
-    "rcs.plan_spaces_onboarding_sequence.drafts_in_a_team": {
-        "string": "Drafts are now connected to teams"
+    "settings_tab.connected_apps.oauth_token_deleted": {
+        "string": "Oauth令牌已删除"
     },
-    "rcs.plan_spaces_onboarding_sequence.private_drafts_folder": {
-        "string": "You'll get your own Drafts folder in each of your teams where you can continue to create free, private drafts."
+    "settings_tab.connected_apps.revoke": {
+        "string": "撤销"
     },
-    "rcs.plan_spaces_onboarding_sequence.new_space_for_teams": {
-        "string": "A new way to switch between teams"
+    "settings_tab.connected_apps.revoke_app": {
+        "string": "撤销{appName}的访问权限"
     },
-    "rcs.plan_spaces_onboarding_sequence.switch_between_teams": {
-        "string": "You can find all your Starter and Professional teams here."
+    "settings_tab.connected_apps.scope_description": {
+        "string": "以下范围显示此应用在组织中可以访问的内容："
     },
-    "rcs.plan_spaces_onboarding_sequence.lets_move_these_files": {
-        "string": "These files need a new home"
+    "settings_tab.connected_apps.scopes_granted": {
+        "string": "{numScopes, plural, other {包含{numScopes}个范围}}"
     },
-    "rcs.plan_spaces_onboarding_sequence.finding_the_right_home": {
-        "string": "We'll need your help moving any drafts that currently live outside of a team."
+    "settings_tab.connected_apps.this_org_does_not_have_any_connected_apps": {
+        "string": "{orgName}没有连接的应用。"
     },
-    "rcs.plan_spaces_new_starter_team.title": {
-        "string": "A new team just for you"
+    "settings_tab.connected_apps_description": {
+        "string": "管理可以访问组织的第三方应用"
     },
-    "rcs.plan_spaces_new_starter_team.text": {
-        "string": "We're making things more organized in Figma, so we set up a team for you. Use it to create a project or files at any time."
+    "settings_tab.contact_support": {
+        "string": "联系支持"
     },
-    "pro_onboaridng.you_ve_been_upgraded_to_a_professional_plan": {
-        "string": "You’ve been upgraded to a Professional plan. Enjoy access to many more features, including:"
+    "settings_tab.contact_support_to_disable": {
+        "string": "联系支持以禁用"
     },
-    "rcs.team_files.files_in_teams_are_accessible_by_team_members_and_shareable_with_other_editors.seat_rename": {
-        "string": "Files in teams are accessible by team members and shareable with people who have edit access."
+    "settings_tab.contact_support_to_enable": {
+        "string": "联系支持以启用"
     },
-    "rcs.team_files.create_a_team_to_co_edit_files_with_your_teammates": {
-        "string": "Create a team to co-edit files with your teammates."
+    "settings_tab.cursor_chat_description": {
+        "string": "启用组织内所有文件的光标聊天"
     },
-    "rcs.promo_new_team_create_pointer.first_create_a_team": {
-        "string": "First, create a team"
+    "settings_tab.cursor_chat_label": {
+        "string": "光标聊天"
     },
-    "rcs.promo_new_team_create_pointer.to_get_professional_free_for_days_you_ll_need_to_set_up_a_new_team_first_it_ll_take_less_than_a_minute": {
-        "string": "{days, plural, one {To get Professional free for 1 day, you’ll need to set up a new team first. It’ll take less than a minute.} other {To get Professional free for {days} days, you’ll need to set up a new team first. It’ll take less than a minute.}}"
+    "settings_tab.custom_templates_description": {
+        "string": "允许用户在组织内发布FigJam模板"
     },
-    "favorited_resources.custom_sections_nudge_header": {
-        "string": "Sidebar feeling a little busy?"
+    "settings_tab.custom_templates_description.v2": {
+        "string": "允许用户在组织内发布FigJam和Figma Slides模板（如果用户有权访问这些工具）。"
     },
-    "favorited_resources.custom_sections_nudge_body": {
-        "string": "Try tidying up with sections. Just hover over a sections title and click {ellipses} to rename it, or {plus} to create a new one. Then click-and-drag to move items between sections."
+    "settings_tab.custom_templates_disabled": {
+        "string": "自定义模板已禁用"
     },
-    "favorited_resources.ellipses": {
-        "string": "···"
+    "settings_tab.custom_templates_enabled": {
+        "string": "自定义模板已启用"
     },
-    "favorited_resources.plus": {
-        "string": "+"
+    "settings_tab.custom_templates_label": {
+        "string": "模板发布"
     },
-    "rcs.file_browser.got_it": {
-        "string": "Got it"
+    "settings_tab.customize_dev_mode": {
+        "string": "自定义开发模式。"
     },
-    "rcs.jamboard.bring_jamboard_into_figjam.title": {
-        "string": "Import your Jamboard files"
+    "settings_tab.data_storage": {
+        "string": "数据存储本地化"
     },
-    "rcs.jamboard.bring_jamboard_into_figjam.desc": {
-        "string": "Connect your Google account, and we’ll walk you through importing your files."
+    "settings_tab.data_storage.current_location": {
+        "string": "当前位置：{currentLocation}"
     },
-    "rcs.jamboard.connect_google_drive": {
-        "string": "Connect account"
+    "settings_tab.data_storage.description": {
+        "string": "本地化支持的数据存储在美国或欧盟。要更改存储位置，请联系支持。"
     },
-    "rcs.jamboard.later": {
-        "string": "Later"
+    "settings_tab.data_storage_description": {
+        "string": "本地化支持的数据存储在美国或欧盟。要更改存储位置，请联系支持。当前数据位置是{currentLocation}。"
     },
-    "rcs.jamboard.import_button_image.alt": {
-        "string": "Import button image"
+    "settings_tab.data_storage_eu": {
+        "string": "欧盟"
     },
-    "rcs.create_files.create_files_from_scratch_import_designs_from_sketch_or_jamboard_or_start_from_templates": {
-        "string": "Start from scratch, import files from Sketch or Jamboard, or browse templates."
+    "settings_tab.data_storage_us": {
+        "string": "美国"
     },
-    "rcs.create_files.create_files_from_scratch_import_designs_from_sketch_or_start_from_templates": {
-        "string": "Create files from scratch, import designs from Sketch, or start from templates."
+    "settings_tab.delete_community_description": {
+        "string": "删除组织的公开资料（包括所有已发布的文件、插件、点赞、关注数据等）"
     },
-    "rcs.create_files.files_are_great_for_collaboration_while_your_drafts_are_more_personal_if_you_share_them_they_re_view_only": {
-        "string": "Files are great for collaboration, while your drafts are more personal. If you share them, they’re view-only."
+    "settings_tab.delete_community_label": {
+        "string": "删除社区资料"
     },
-    "rcs.account_switching.explore_files_plugins_and_widgets_created_by_the_figma_community": {
-        "string": "Need some design inspiration? Explore files, plugins, and widgets created by the Figma Community."
+    "settings_tab.delete_org_description": {
+        "string": "请求删除此组织"
     },
-    "rcs.import.one_of_the_coolest_things_about_figma_is_that_you_don_t_have_to_start_from_scratch_to_get_to_work": {
-        "string": "One of the coolest things about Figma is that you don’t have to start from scratch to get to work."
+    "settings_tab.delete_org_label": {
+        "string": "删除此组织"
     },
-    "rcs.import.just_drag_your_sketch_files_onto_the_browser_and_we_ll_convert_them_to_figma_for_you": {
-        "string": "Just drag your Sketch files onto the browser and we’ll convert them to Figma for you."
+    "settings_tab.delete_org_modal.are_you_sure_you_d_like_to_delete_figma": {
+        "string": "确定要删除Figma吗？"
     },
-    "rcs.import.import_sketch_files": {
-        "string": "Import Sketch files"
+    "settings_tab.delete_org_modal.delete": {
+        "string": "删除"
     },
-    "rcs.open_file.create_file": {
-        "string": "Create file"
+    "settings_tab.delete_org_modal.delete_users_and_their_data": {
+        "string": "删除用户及其数据？"
     },
-    "rcs.open_file.open_a_file_to_learn_more_about_figma_s_powerful_editing_features": {
-        "string": "Open a file to learn more about Figma’s powerful editing features!"
+    "settings_tab.delete_org_modal.delete_users_from_this_organization": {
+        "string": "从此组织中删除用户"
     },
-    "rcs.open_file.edit_a_file": {
-        "string": "Edit a file"
+    "settings_tab.delete_org_modal.email_or_names_of_org_members": {
+        "string": "组织成员的电子邮件或姓名"
     },
-    "rcs.org_welcome.click_on_the_organization_button_on_the_left_to_find_teams_to_join": {
-        "string": "Click on the organization button on the left to find teams to join."
+    "settings_tab.delete_org_modal.enter_names_or_emails_of_users_that_you_d_like_to_delete": {
+        "string": "输入要删除的用户姓名或电子邮件。所有与用户帐户关联的数据和Figma访问权限将被删除。此操作无法撤销。"
     },
-    "rcs.bigma_org_welcome.click_the_all_workspaces_button_on_the_left_to_find_teams_to_join": {
-        "string": "Click the \"All workspaces\" button on the left to find teams to join."
+    "settings_tab.delete_org_modal.please_confirm_that_you_wish_to_permanently_delete_the_org": {
+        "string": "请确认您希望永久删除{orgName} Figma组织及其所有用户和关联数据。此请求将在30天内处理。"
     },
-    "rcs.org_welcome.click_the_all_teams_button_on_the_left_to_find_teams_to_join": {
-        "string": "Click the \"All teams\" button on the left to find teams to join."
+    "settings_tab.delete_org_modal.request_to_delete_organization": {
+        "string": "请求删除组织"
     },
-    "rcs.org_welcome.click_the_current_org_name_span_button_on_the_left_to_find_teams_to_join": {
-        "string": "Click the {orgName} button on the left to find teams to join."
+    "settings_tab.delete_org_modal.this_action_can_t_be_undone": {
+        "string": "此操作无法撤销。"
     },
-    "rcs.org_welcome.figma_organization_connects_files_projects_libraries_and_teams_securely_across_your_company": {
-        "string": "Figma Organization connects files, projects, libraries, and teams, securely across your company."
+    "settings_tab.delete_org_modal.you_re_deleting_figma_data_and_access_for_the_following_user": {
+        "string": "您将删除以下用户的Figma数据和访问权限："
     },
-    "rcs.plan_spaces.file_browser_onboarding_step.seat_rename": {
-        "string": "Files in teams are accessible by team members and shareable with people who have edit access."
+    "settings_tab.delete_user_description": {
+        "string": "请求删除用户及其所有数据"
     },
-    "rcs.take_tour.take_a_quick_tour_of_the_file_browser": {
-        "string": "Take a quick tour of the file browser?"
+    "settings_tab.delete_user_label": {
+        "string": "删除用户及其数据"
     },
-    "rcs.take_tour.see_how_to_create_files_learn_about_drafts_and_teams_ways_to_access_community_and_more": {
-        "string": "See how to create files, learn about Drafts and Teams, ways to access Community, and more."
+    "settings_tab.dev_mode_description": {
+        "string": "自定义组织中所有开发模式用户的体验"
     },
-    "rcs.take_tour.no_thanks": {
-        "string": "No thanks"
+    "settings_tab.dev_mode_label": {
+        "string": "开发模式设置"
     },
-    "rcs.take_tour.let_s_go": {
-        "string": "Let's go"
+    "settings_tab.dev_mode_setting_set": {
+        "string": "设置"
     },
-    "rcs.welcome_step.welcome_to_figma": {
-        "string": "Welcome to Figma!"
+    "settings_tab.disable_community_file_publishing_success": {
+        "string": "社区用户发布已禁用"
     },
-    "rcs.welcome_step.we_re_different_from_other_design_tools_in_some_really_special_ways_so_we_d_like_to_take_you_through_them": {
-        "string": "We’re different from other design tools in some really special ways, so we’d like to take you through them."
+    "settings_tab.disable_cursor_chat_success": {
+        "string": "光标聊天已禁用"
     },
-    "rcs.welcome_step.welcome_user_name": {
-        "string": "Welcome {userFirstName}!"
+    "settings_tab.disable_plugin_approval_success": {
+        "string": "所有插件已允许"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "design_systems.styles.rename_folder": {
-        "string": "Rename folder"
+    "404.not_found.no_account": {
+        "string": "没有账户吗? {create_one}"
     },
-    "design_systems.styles.add_new_folder": {
-        "string": "Add new folder"
+    "404.not_found.password_required": {
+        "string": "需要密码"
     },
-    "design_systems.styles.cut_styles": {
-        "string": "{numStyles, plural, one {Cut style} other {Cut {numStyles} styles}}"
+    "404.not_found.title": {
+        "string": "未找到"
     },
-    "design_systems.styles.paste_styles": {
-        "string": "{numStyles, plural, one {Paste style} other {Paste {numStyles} styles}}"
+    "404.page_no_access.description": {
+        "string": "请联系组织管理员以更新权限。"
     },
-    "design_systems.styles.local_styles": {
-        "string": "Local styles"
+    "404.page_no_access.title": {
+        "string": "无法访问此页面"
     },
-    "design_systems.styles.dropdown.text": {
-        "string": "Text"
+    "404.page_not_found.description": {
+        "string": "该页面不存在或您无权查看此页面。请以授权用户身份登录或联系组织管理员。"
     },
-    "design_systems.styles.dropdown.fill": {
-        "string": "Color"
+    "404.page_not_found.title": {
+        "string": "页面未找到"
     },
-    "design_systems.styles.dropdown.grid": {
-        "string": "Grid"
+    "404.prototype_no_access.description": {
+        "string": "要查看此原型，请联系原型所有者以更新权限。"
     },
-    "design_systems.styles.dropdown.effect": {
-        "string": "Effect"
+    "404.prototype_no_access.title": {
+        "string": "无法访问此原型"
     },
-    "variables.layer_panel.header.update_button.dropdown.description": {
-        "string": "Review and accept library updates to access the latest variable modes."
+    "404.prototype_not_found.title": {
+        "string": "未找到原型"
     },
-    "variables.layer_panel.header.update_button_direct.dropdown.option": {
-        "string": "Accept updates to resolve"
+    "404.slide_deck_no_access.description": {
+        "string": "要查看此幻灯片，请联系幻灯片所有者以更新权限。"
     },
-    "variables.layer_panel.header.update_button_direct.tooltip": {
-        "string": "Accept updates"
+    "404.slide_deck_no_access.title": {
+        "string": "无法访问此幻灯片"
     },
-    "properties.dropdown.apply_blend_mode": {
-        "string": "Apply blend mode"
+    "404.slide_deck_not_found.title": {
+        "string": "未找到幻灯片"
     },
-    "proto.menu.background": {
-        "string": "Background"
+    "drafts_copy_link_exp.404.defaultV2.title": {
+        "string": "无法打开文件"
     },
-    "presets.device_panel.model": {
-        "string": "Model"
+    "drafts_copy_link_exp.404.file_no_access.owner_viewer_restricted_sharing_draft.description": {
+        "string": "此文件的共享设置存在问题，已通知所有者。"
     },
-    "presets.device_panel.preview": {
-        "string": "Preview"
+    "notification_settings_modal.desktop_notifications": {
+        "string": "桌面通知"
     },
-    "presets.device_panel.prototype_settings": {
-        "string": "Prototype settings"
+    "notification_settings_modal.email_notifications": {
+        "string": "邮件通知"
     },
-    "presets.device_panel.device": {
-        "string": "Device"
+    "notification_settings_modal.error_changing_setting_errorMessageString": {
+        "string": "更改设置时出错: {errorMessageString}"
     },
-    "proto.device_panel.width": {
-        "string": "W"
+    "notification_settings_modal.privacy_policy": {
+        "string": "隐私政策"
     },
-    "proto.device_panel.height": {
-        "string": "H"
+    "notification_settings_modal.product_tips_and_news": {
+        "string": "产品提示和新闻"
     },
-    "proto.frame_preset_panel.custom_size": {
-        "string": "Custom size"
+    "notification_settings_modal.send_me_desktop_push_notifications": {
+        "string": "向我的电脑发送通知"
     },
-    "proto.frame_preset_panel.fit": {
-        "string": "Fit"
+    "notification_settings_modal.send_me_notifications_by_email": {
+        "string": "通过邮件发送通知"
     },
-    "proto.frame_preset_panel.fill": {
-        "string": "Fill"
+    "notification_settings_modal.send_me_occasional_emails_with_updates_and_promotions": {
+        "string": "接收来自Figma的最新信息和促销邮件"
     },
-    "presets.device_panel.device_width_tooltip": {
-        "string": "Device width"
+    "notification_settings_modal.unsubscribe_from_figma_emails_disclaimer": {
+        "string": "您可以随时取消Figma邮件的订阅。有关详细信息，请参阅{privacy_policy}。"
     },
-    "presets.device_panel.device_height_tooltip": {
-        "string": "Device height"
+    "notification_settings_modal.you_ll_still_get_emails_from_Figma_about_your_account": {
+        "string": "您仍会收到有关您的账户和账单的重要信息邮件。"
     },
-    "proto.frame_preset_panel.no_device": {
-        "string": "No device"
+    "request_org_access_app_entry.ask_to_be_added": {
+        "string": "请求添加"
     },
-    "proto.frame_preset_panel.none": {
-        "string": "None"
+    "request_org_access_app_entry.hmm_looks_like_this_file_is_restricted": {
+        "string": "此文件似乎受到限制"
     },
-    "proto.frame_preset_panel.missing": {
-        "string": "(missing)"
+    "request_org_access_app_entry.hmm_looks_like_this_project_is_restricted": {
+        "string": "此项目似乎受到限制"
     },
-    "proto.scroll_panel.overflow_dropdown.overflow": {
-        "string": "Overflow"
+    "request_org_access_app_entry.hmm_looks_like_this_resource_is_restricted": {
+        "string": "此资源似乎受到限制"
     },
-    "proto.scroll_panel.position_dropdown.position": {
-        "string": "Position"
+    "request_org_access_app_entry.hmm_looks_like_this_team_is_restricted": {
+        "string": "此团队似乎受到限制"
     },
-    "proto.scroll_panel.scroll_behavior_title": {
-        "string": "Scroll behavior"
+    "request_org_access_app_entry.request_sent": {
+        "string": "请求已发送"
     },
-    "fullscreen.toolbar.prototyping-add-interactions-tooltip": {
-        "string": "Make prototype (AI beta)"
+    "request_org_access_app_entry.switch_accounts": {
+        "string": "切换账户"
     },
-    "fullscreen.properties_panel.migration_tooltip_learn_more": {
-        "string": "Learn more"
+    "request_org_access_app_entry.to_access_it_you_ll_need_to_join_the_org_name_organization_first_do_you_want_to_ask_a_org_name_admin_to_add_you_to_the_organization": {
+        "string": "要访问此内容，您需要先加入{orgName}组织。是否请求{orgName}的管理员将您添加到组织中?"
     },
-    "fullscreen.properties_panel.stack_panel.gap_onboarding_title": {
-        "string": "Looking for spacing mode?"
+    "request_org_access_app_entry.you_are_requesting_to_be_added_as_user_email": {
+        "string": "请求以{email}身份添加"
     },
-    "fullscreen.properties_panel.stack_panel.gap_onboarding_body1": {
-        "string": "You can now apply spacing mode options with {gapBetweenItems}."
+    "org_actions.an_error_occurred": {
+        "string": "发生错误。"
     },
-    "fullscreen.properties_panel.stack_panel.gap_onboarding_body2": {
-        "string": "For space-between, choose {auto}. For packed, enter a number."
+    "org_actions.request_approved": {
+        "string": "请求已批准"
     },
-    "fullscreen.properties_panel.section_autoLayout.settings": {
-        "string": "Auto layout settings"
+    "org_actions.request_denied": {
+        "string": "请求已拒绝"
     },
-    "fullscreen.properties_panel.stack_panel.advanced_layout": {
-        "string": "Advanced auto layout settings"
+    "org_actions.request_withdrawn": {
+        "string": "请求已撤回"
     },
-    "fullscreen.properties_panel.stack_panel.canvas_stacking_order": {
-        "string": "Canvas stacking"
+    "org_actions.updated_authentication_settings": {
+        "string": "更新了认证设置"
     },
-    "fullscreen.properties_panel.stack_panel.align_text_baseline": {
-        "string": "Align text baseline"
+    "org_actions.updated_idle_session_timeout": {
+        "string": "更新了空闲会话超时设置"
     },
-    "fullscreen.properties_panel.stack_panel.only_applicable_for_horizontal_layout": {
-        "string": "Only applicable for horizontal layout"
+    "org_actions.you_ve_requested_to_edit_files_in_this_team": {
+        "string": "您已请求在此团队中编辑文件。"
     },
-    "fullscreen.properties_panel.stack_panel.borders_take_space": {
-        "string": "Strokes"
+    "org_actions.you_ve_requested_to_join_this_team": {
+        "string": "您已请求加入此团队。"
     },
-    "fullscreen.properties_panel.stack_panel.first_on_top": {
-        "string": "First on top"
+    "org_admin_onboarding.billing_groups.tooltip.add_admins.description.seat_rename": {
+        "string": "组织管理员可以访问所有账单组，并添加负责每个组成本追踪和座位管理的管理员。"
     },
-    "fullscreen.properties_panel.stack_panel.last_on_top": {
-        "string": "Last on top"
+    "org_admin_onboarding.billing_groups.tooltip.add_admins.title": {
+        "string": "邀请他人协助管理账单组"
     },
-    "fullscreen.properties_panel.stack_panel.included": {
-        "string": "Included"
+    "org_admin_onboarding.billing_groups.tooltip.create.description.seat_rename": {
+        "string": "通过将用户分类到账单组中，可以快速进行座位管理和成本追踪。提示：创建账单组时，以公司的成本中心为模型。"
     },
-    "fullscreen.properties_panel.stack_panel.excluded": {
-        "string": "Excluded"
+    "org_admin_onboarding.billing_groups.tooltip.create.title": {
+        "string": "创建新账单组"
     },
-    "fullscreen.properties_panel.stack_panel.included_in_layout": {
-        "string": "Included in layout"
+    "org_admin_onboarding.billing_groups.tooltip.edit.description": {
+        "string": "您可以随时根据成本追踪方式来更改账单组名称、成员或删除账单组。"
     },
-    "fullscreen.properties_panel.stack_panel.excluded_from_layout": {
-        "string": "Excluded from layout"
+    "org_admin_onboarding.billing_groups.tooltip.edit.title": {
+        "string": "更改账单组"
     },
-    "slides.properties_panel.text_style.edit_text_style": {
-        "string": "Edit text style"
+    "org_admin_onboarding.request_dashboard.tooltip.manage_billing_group_upgrade_requests_description": {
+        "string": "您可以在管理仪表板中批准来自您管理的账单组的升级请求。"
     },
-    "slides.properties_panel.text_style.delete_style": {
-        "string": "Delete style"
+    "org_admin_onboarding.request_dashboard.tooltip.manage_upgrades_description": {
+        "string": "您可以在管理仪表板中批准升级请求。"
     }
 }

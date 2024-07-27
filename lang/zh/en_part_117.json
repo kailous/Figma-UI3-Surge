@@ -1,152 +1,152 @@
 {
-    "request_upgrade.admin_names_list": {
-        "string": "{numRestOfAdmins, plural, one {{firstAdminName}, {secondAdminName}, and 1 more admin} other {{firstAdminName}, {secondAdminName}, and {numRestOfAdmins} more admins}}"
+    "fullscreen.libraries_button.tooltip.no_updates": {
+        "string": "库"
     },
-    "request_upgrade.as_an_admin_you_can_upgrade_yourself": {
-        "string": "As an admin, you can upgrade yourself."
+    "fullscreen.libraries_button.tooltip.updates_to_pull": {
+        "string": "检查库更新"
     },
-    "request_upgrade.cancel_button": {
-        "string": "Cancel"
+    "fullscreen.libraries_button.tooltip.updates_to_push": {
+        "string": "检查未发布的更改"
     },
-    "request_upgrade.send_request_button_already_requested": {
-        "string": "Already requested"
+    "fullscreen.link_shortcuts_onboarding.create_link": {
+        "string": "创建链接"
     },
-    "request_upgrade.upgrade_button": {
-        "string": "Upgrade"
+    "fullscreen.link_shortcuts_onboarding.description": {
+        "string": "更改了添加文本链接的快捷方式："
     },
-    "request_upgrade.send_request_button": {
-        "string": "Send request"
+    "fullscreen.link_shortcuts_onboarding.got_it": {
+        "string": "了解"
     },
-    "request_upgrade.instruction_text_header": {
-        "string": "{boldedInstructions} (Optional)"
+    "fullscreen.link_shortcuts_onboarding.show_actions_updated": {
+        "string": "现在可以通过 {actionsKeyCommand} 打开操作"
     },
-    "request_upgrade.bolded_instructions": {
-        "string": "Add a note"
+    "fullscreen.link_shortcuts_onboarding.show_links_updated": {
+        "string": "“{link}”的快捷方式已更改为 {linkKeyCommand}"
     },
-    "request_upgrade.which_admin_prompt": {
-        "string": "Which admin(s) do you want to send this request to?"
+    "fullscreen.link_shortcuts_onboarding.title": {
+        "string": "新的键盘快捷键"
     },
-    "request_upgrade.select_all": {
-        "string": "Select all"
+    "fullscreen.live_object_panel.detach_from_live": {
+        "string": "分离实例"
     },
-    "request_upgrade.title_admin_figma": {
-        "string": "Upgrade your Figma design seat"
+    "fullscreen.live_object_panel.go_to_original": {
+        "string": "查看原件"
     },
-    "request_upgrade.title_admin_figjam": {
-        "string": "Upgrade your FigJam seat"
+    "fullscreen.live_object_panel.live_object": {
+        "string": "实时对象"
     },
-    "request_upgrade.title_admin_dev_mode": {
-        "string": "Upgrade your Dev Mode seat"
+    "fullscreen.live_object_panel.live_object_options": {
+        "string": "实时对象选项"
     },
-    "request_upgrade.message_input_placeholder_instructions_single_admin": {
-        "string": "Let the admin know why you need an upgrade."
+    "fullscreen.live_object_panel.live_update_error": {
+        "string": "无法更新，请稍后再试"
     },
-    "request_upgrade.message_input_placeholder_instructions": {
-        "string": "Let admins know why you need an upgrade."
+    "fullscreen.live_object_panel.live_update_success": {
+        "string": "实时对象已更新"
     },
-    "request_upgrade.no_admins_selected_error": {
-        "string": "Please choose at least one admin"
+    "fullscreen.live_object_panel.reset_all_changes": {
+        "string": "重置所有更改"
     },
-    "request_upgrade.modal.error": {
-        "string": "Error displaying upgrade request modal."
+    "fullscreen.live_object_panel.update_live_object": {
+        "string": "更新到最新版本"
     },
-    "collaboration.feedback.save_modal.save": {
-        "string": "Save"
+    "fullscreen.mask_panel.alpha": {
+        "string": "Alpha"
     },
-    "collaboration.feedback.save_modal.cancel": {
-        "string": "Cancel"
+    "fullscreen.mask_panel.alpha_extended": {
+        "string": "Alpha（使用透明度）"
     },
-    "collaboration.feedback.save_modal.edit_merge_details": {
-        "string": "Edit merge details"
+    "fullscreen.mask_panel.luminance": {
+        "string": "亮度"
     },
-    "collaboration.feedback.save_modal.edit_version_information": {
-        "string": "Edit version information"
+    "fullscreen.mask_panel.luminance_extended": {
+        "string": "亮度（使用光度）"
     },
-    "collaboration.feedback.save_modal.add_to_version_history": {
-        "string": "Add to version history"
+    "fullscreen.mask_panel.mask": {
+        "string": "遮罩"
     },
-    "collaboration.feedback.save_modal.merge_name_placeholder": {
-        "string": "Name"
+    "fullscreen.mask_panel.vector": {
+        "string": "矢量"
     },
-    "fullscreen.savepoint_modal.give_this_merge_a_description": {
-        "string": "Give this merge a description"
+    "fullscreen.mask_panel.vector_extended": {
+        "string": "矢量（使用形状轮廓）"
     },
-    "fullscreen.savepoint_modal.show_full_version_history": {
-        "string": "Show full version history"
+    "fullscreen.menu.help_menu": {
+        "string": "帮助"
     },
-    "fullscreen.savepoint_modal.title": {
-        "string": "Title"
+    "fullscreen.menu.remove_mask": {
+        "string": "删除遮罩"
     },
-    "collaboration.feedback.save_modal.description_placeholder": {
-        "string": "Describe what changed"
+    "fullscreen.mixed": {
+        "string": "混合"
     },
-    "design_systems.create_style.conflict": {
-        "string": "{conflictNodesCount, plural, one {There is {conflictNodesCount} object where this color is used in combination with other colors. The other colors will be removed.} other {There are {conflictNodesCount} objects where this color is used in combination with other colors. The other colors will be removed.}}"
+    "fullscreen.more_tracks_title": {
+        "string": "音效"
     },
-    "design_systems.create_style.show_me": {
-        "string": "Show me"
+    "fullscreen.msal_onboarding.body": {
+        "string": "使用自动布局，快速完成。Figma会根据需要创建框架。"
     },
-    "design_systems.create_style.cancel": {
-        "string": "Cancel"
+    "fullscreen.msal_onboarding.header_with_shortcut": {
+        "string": "下次尝试使用 {msalShortcut}"
     },
-    "design_systems.create_style.create_new_color_styles": {
-        "string": "Create new color styles"
+    "fullscreen.notification.clipboard_data_available": {
+        "string": "已复制其他设备的选择内容。要粘贴吗？"
     },
-    "design_systems.create_style.create_new_color_style": {
-        "string": "Create new color style"
+    "fullscreen.nudge.big_nudge": {
+        "string": "大调整"
     },
-    "design_systems.create_style.color_conflict": {
-        "string": "Color conflict"
+    "fullscreen.nudge.nudge_amount": {
+        "string": "微调"
     },
-    "design_systems.create_style.create_styles": {
-        "string": "Create styles"
+    "fullscreen.nudge.small_nudge": {
+        "string": "小调整"
     },
-    "design_systems.create_style.create_style": {
-        "string": "Create style"
+    "fullscreen.object_row.file_thumbnail": {
+        "string": "文件缩略图"
     },
-    "design_systems.create_style.use_style": {
-        "string": "Use style"
+    "fullscreen.outline_shortcuts_onboarding.changed_outline_shortcuts": {
+        "string": "更改了以下与轮廓相关的快捷键。"
     },
-    "design_systems.create_style.error_creating_style": {
-        "string": "An error occurred while creating the style."
+    "fullscreen.outline_shortcuts_onboarding.changed_shortcuts": {
+        "string": "更改了以下快捷键。"
     },
-    "design_systems.create_style.error_applying_style": {
-        "string": "An error occurred while applying the style."
+    "fullscreen.outline_shortcuts_onboarding.got_it": {
+        "string": "了解"
     },
-    "design_systems.create_style.untitled_with_count": {
-        "string": "{index, plural, one {Untitled} other {Untitled {index}}}"
+    "fullscreen.outline_shortcuts_onboarding.keep_old_shortcuts": {
+        "string": "保留旧快捷键"
     },
-    "team_creation_speed_bump.body.best_way_to_organize_team_projects": {
-        "string": "Instead of spreading work out, bring it together with team projects."
+    "fullscreen.outline_shortcuts_onboarding.opt_out_options": {
+        "string": "您也可以继续使用旧的快捷键。可以随时在首选项中切换到新的快捷键。"
     },
-    "team_creation_speed_bump.title": {
-        "string": "Looking for better file organization?"
+    "fullscreen.outline_shortcuts_onboarding.outline_stroke": {
+        "string": "轮廓描边"
     },
-    "team_creation_speed_bump.body.upgrade_a_team": {
-        "string": "Upgrade a team to a paid plan for"
+    "fullscreen.outline_shortcuts_onboarding.outline_stroke_updated": {
+        "string": "{outlineStroke} 的快捷键已更改为 {outlineStrokeKeyCommand}"
     },
-    "team_creation_speed_bump.body.unlimited_files": {
-        "string": "Unlimited files and projects"
+    "fullscreen.outline_shortcuts_onboarding.show_outlines": {
+        "string": "显示轮廓"
     },
-    "team_creation_speed_bump.body.viewers_and_commenters": {
-        "string": "Unlimited viewers and commenters"
+    "fullscreen.outline_shortcuts_onboarding.show_outlines_updated": {
+        "string": "{showOutlines} 的快捷键已更改为 {showOutlinesKeyCommand}"
     },
-    "team_creation_speed_bump.tooltip.viewers_and_commenters": {
-        "string": "You only pay for those who edit on the Professional plan. People can still view and comment on your files for free."
+    "fullscreen.outline_shortcuts_onboarding.team_library": {
+        "string": "团队库"
     },
-    "team_creation_speed_bump.body.set_permissions": {
-        "string": "Flexible project permissions"
+    "fullscreen.outline_shortcuts_onboarding.team_library_updated": {
+        "string": "{teamLibrary} 的快捷键仅为 {teamLibraryKeyCommand}"
     },
-    "team_creation_speed_bump.tooltip.set_permissions": {
-        "string": "You can invite people to individual projects, make them view-only, or private."
+    "fullscreen.outline_shortcuts_onboarding.title": {
+        "string": "新的键盘快捷键"
     },
-    "team_creation_speed_bump.footer.checkbox_text": {
-        "string": "Don’t show this message again"
+    "fullscreen.pages_panel.add_new_page": {
+        "string": "添加新页面"
     },
-    "team_creation_speed_bump.footer.upgrade_button.text": {
-        "string": "Get unlimited projects"
+    "fullscreen.pages_panel.add_new_page_dropdown": {
+        "string": "选择新页面类型"
     },
-    "team_creation_speed_bump.footer.upgrade_button.label": {
-        "string": "Pro"
+    "fullscreen.pages_panel.all_free_pages_used": {
+        "string": "已使用所有免费页面。"
     }
 }

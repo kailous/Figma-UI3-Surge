@@ -1,152 +1,152 @@
 {
-    "figjam_onboarding_make_something.templates_modal.main_title": {
-        "string": "FigJam’s good for many things"
+    "org_self_serve.create_team_step.next_select_team": {
+        "string": "下一步: 选择团队"
     },
-    "figjam_onboarding_make_something.templates_modal.main_subtitle": {
-        "string": "Pick one, we’ll show you."
+    "org_self_serve.details_step.company_display_name": {
+        "string": "公司显示名称"
     },
-    "figjam_onboarding_make_something.templates_modal.button_title.templates_button": {
-        "string": "See more templates"
+    "org_self_serve.details_step.company_display_name__different_from_company_name_sub_text": {
+        "string": "在Figma中显示的名称（如果与公司名称不同）"
     },
-    "figjam_onboarding_make_something.popup.title": {
-        "string": "Try FigJam for…"
+    "org_self_serve.details_step.company_display_name_sub_text": {
+        "string": "希望使用的公司显示名称（如果不同于上面的公司名称）"
     },
-    "figjam_onboarding_make_something.templates_toolbar_connector.body_text": {
-        "string": "{boldText} are right up here, in case you need them later."
+    "org_self_serve.details_step.email_address": {
+        "string": "电子邮件地址"
     },
-    "figjam_onboarding_make_something.templates_toolbar_connector.body_text_bold": {
-        "string": "Templates"
+    "org_self_serve.details_step.legal_company_name": {
+        "string": "法定公司名称"
     },
-    "figjam_onboarding_make_something.templates_toolbar_connector.done_button": {
-        "string": "Got it"
+    "org_self_serve.details_step.next_organization_details": {
+        "string": "下一步: 组织详细信息"
     },
-    "figjam_onboarding_make_something.templates_toolbar_onboarding_finished_connector.title_want_to_try_something_else": {
-        "string": "Want to try something else?"
+    "org_self_serve.details_step.tell_us_about_your_organization": {
+        "string": "请告诉我们关于您组织的信息"
     },
-    "figjam_onboarding_make_something.templates_toolbar_onboarding_finished_connector.body_text": {
-        "string": "Make big plans, dream up big ideas, or just get your team together—using {boldText}."
+    "org_self_serve.details_step.your_full_name": {
+        "string": "您的全名"
     },
-    "figjam_onboarding_make_something.templates_toolbar_onboarding_finished_connector.body_text_bold": {
-        "string": "templates"
+    "org_self_serve.headers.add_team_members": {
+        "string": "添加团队成员"
     },
-    "figjam_onboarding_make_something.templates_modal.button_title.brainstorm": {
-        "string": "Dreaming up new ideas"
+    "org_self_serve.headers.cancel": {
+        "string": "取消"
     },
-    "figjam_onboarding_make_something.templates_modal.button_title.team_updates": {
-        "string": "Sharing team updates"
+    "org_self_serve.headers.choose_plan": {
+        "string": "选择计划"
     },
-    "figjam_onboarding_make_something.templates_modal.button_title.planning_ahead": {
-        "string": "Planning for the future"
+    "org_self_serve.headers.create_team": {
+        "string": "创建团队"
     },
-    "figjam_onboarding_make_something.templates_modal.button_title.team_chart": {
-        "string": "Drawing up diagrams"
+    "org_self_serve.headers.organization_details": {
+        "string": "组织详细信息"
     },
-    "figjam_onboarding_make_something.visual_bell.loading_template": {
-        "string": "Inserting template"
+    "org_self_serve.headers.payment": {
+        "string": "支付"
     },
-    "figjam_onboarding_make_something.use_case_listbox.aria_label": {
-        "string": "Make something use cases"
+    "org_self_serve.headers.review": {
+        "string": "审查"
     },
-    "link_expired_overlay.different_branch_permissions_header": {
-        "string": "The main file’s link isn't public anymore"
+    "org_self_serve.headers.teams_to_upgrade": {
+        "string": "要升级的团队"
     },
-    "link_expired_overlay.header": {
-        "string": "This link isn’t public anymore"
+    "org_self_serve.headers.total_fig_jam_editor_seats_count.seat_rename": {
+        "string": "{totalFigJamEditorSeatsCount, plural, other {{totalFigJamEditorSeatsCount}个FigJam编辑席位}}"
     },
-    "link_expired_overlay.same_branch_permissions_body": {
-        "string": "The audience for this branch and its main file is now “{audience}” as of {formattedTimestamp}."
+    "org_self_serve.modals.existing_org_admin.contact_sales": {
+        "string": "联系销售团队"
     },
-    "link_expired_overlay.different_branch_permissions_body": {
-        "string": "The audience for this branch's main file is now “{audience}” as of {formattedTimestamp}."
+    "org_self_serve.modals.existing_org_admin.figma_organization_already_purchased": {
+        "string": "Figma业务计划已购买"
     },
-    "link_expired_overlay.body": {
-        "string": "The audience for this file is now “{audience}” as of {formattedTimestamp}."
+    "org_self_serve.modals.existing_org_admin.go_to_the_file_browser": {
+        "string": "前往文件浏览器"
     },
-    "fullscreen.toolbar.screenreader_notice": {
-        "string": "The Figma editor is not currently optimized for screen readers. Please consider presenting this design for a better screen reader experience. To do so, use the keyboard shortcut {shortcut} ."
+    "org_self_serve.modals.existing_org_admin.if_you_need_another_organization": {
+        "string": "您已经是Figma业务计划的管理员。如果需要另一个业务计划，请{contactSales}。"
     },
-    "fullscreen.toolbar.screenreader_notice_figjam": {
-        "string": "Screenreader support for the board is currently disabled. To enable it via Accessibility settings, press {quickActionsShortcut}, type Accessibility Settings, and press Enter. To see available keyboard shortcuts, enter {shortcut} ."
+    "org_self_serve.modals.invalid_email.change_email_address_to_proceed": {
+        "string": "要继续升级到Figma业务计划，请使用公司的电子邮件地址。请更改帐户的电子邮件地址以继续。"
     },
-    "general.question_mark": {
-        "string": "Question mark"
+    "org_self_serve.modals.invalid_email.figma_organization_only_allows_work_emails": {
+        "string": "Figma业务计划仅允许使用公司的电子邮件地址"
     },
-    "fullscreen.accessibility_dom.node_name_table_cell": {
-        "string": "Table cell row {r} column {c}"
+    "org_self_serve.modals.invalid_email.go_to_the_file_browser": {
+        "string": "前往文件浏览器"
     },
-    "dev_handoff.annotations_tools_overlay.measurements.title": {
-        "string": "Highlight important measurements"
+    "org_self_serve.modals.true_up_edu.figma_grows_with_your_team": {
+        "string": "Figma随着您的团队一起成长"
     },
-    "dev_handoff.annotations_tools_overlay.measurements.description": {
-        "string": "Drag between points with the Measure tool to call out important dimensions on the canvas."
+    "org_self_serve.modals.true_up_edu.members_can_add_new_editors.seat_rename": {
+        "string": "当需要协作或共同编辑时，组织成员可以随时升级用户。直到True-up为止，新增的全席位是免费的。组织只会为继续保留的全席位付费，费用按年度合同的剩余期限按比例分配。"
     },
-    "dev_handoff.annotations_tools_overlay.annotations.title": {
-        "string": "Annotate with notes and properties"
+    "org_self_serve.modals.true_up_edu.see_full_details": {
+        "string": "查看详细信息"
     },
-    "dev_handoff.annotations_tools_overlay.annotations.description": {
-        "string": "Tag important properties or add more context with notes attached to layers."
+    "org_self_serve.modals.true_up_edu.true_up_explanation.seat_rename": {
+        "string": "True-up每三个月进行一次，从组织创建之日起。True-up之前，我们会发送几次通知，请您确认新添加的付费席位。您可以决定是否保留这些席位。{seeFullDetails}"
     },
-    "whiteboard.embeds.inline_menu.minimize": {
-        "string": "Minimize"
+    "org_self_serve.modals.true_up_edu.what_to_expect_at_true_up": {
+        "string": "True-up期间的预期内容"
     },
-    "cursor_bot.back": {
-        "string": "Back"
+    "org_self_serve.payment_step.different_shipping_address": {
+        "string": "不同的送货地址"
     },
-    "cursor_bot.make_it_look_just_right": {
-        "string": "Make it look just right"
+    "org_self_serve.payment_step.enter_your_payment_details": {
+        "string": "输入您的支付详细信息"
     },
-    "cursor_bot.design_panel_can_change_objects": {
-        "string": "The design panel can also change other objects in your canvas. Adjust color, size, and more."
+    "org_self_serve.payment_step.name_on_payment_method": {
+        "string": "支付方式上的名称"
     },
-    "cursor_bot.design_panel_is_key": {
-        "string": "The design panel is key for changing the objects in your canvas. Adjust size, color, and more."
+    "org_self_serve.payment_step.name_on_payment_method_is_required": {
+        "string": "支付方式上的名称是必需的。"
     },
-    "cursor_bot.pick_the_perfect_font": {
-        "string": "Pick the perfect font"
+    "org_self_serve.payment_step.name_on_payment_method_label": {
+        "string": "支付方式上的名称"
     },
-    "cursor_bot.and_pick_the_perfect_font": {
-        "string": "And pick the perfect font"
+    "org_self_serve.payment_step.next_payment": {
+        "string": "下一步: 支付"
     },
-    "cursor_bot.use_the_design_panel_to_turn_basic_text_into_titles": {
-        "string": "Use the design panel to turn basic text into titles, sub-headers, and body copy."
+    "org_self_serve.payment_step.sorry_please_wait": {
+        "string": "对不起，请稍候。"
     },
-    "cursor_bot.stop_tutorial": {
-        "string": "Stop tutorial"
+    "org_self_serve.payment_step.there_was_an_error_processing_your_payment_please_try_again": {
+        "string": "处理您的支付时出错。请再试一次。"
     },
-    "proto.action": {
-        "string": "Action"
+    "org_self_serve.purchase_summary.added_empty_design_seats": {
+        "string": "{minCount, plural, other {业务计划团队的全Figma设计席位起始为{minCount}个席位。}}"
     },
-    "proto.else": {
-        "string": "else"
+    "org_self_serve.purchase_summary.added_empty_seats": {
+        "string": "{minCount, plural, other {业务计划团队的席位起始为{minCount}个席位。}}"
     },
-    "proto.condition": {
-        "string": "Condition"
+    "org_self_serve.purchase_summary.contact_our_sales_team": {
+        "string": "请联系我们的销售团队"
     },
-    "fullscreen.properties_panel.click_to_replace_mixed_content": {
-        "string": "Click to replace mixed content"
+    "org_self_serve.purchase_summary.currency_text": {
+        "string": "货币"
     },
-    "proto.overlay": {
-        "string": "Overlay"
+    "org_self_serve.purchase_summary.domain": {
+        "string": "域: {domain}"
     },
-    "proto.destination": {
-        "string": "Destination"
+    "org_self_serve.purchase_summary.empty_design_seats_included": {
+        "string": "{numOfEmptySeats, plural, other {包含{numOfEmptySeats}个可分配席位。}}"
     },
-    "proto.interaction.interaction": {
-        "string": "Interaction"
+    "org_self_serve.purchase_summary.empty_seats_included": {
+        "string": "{numOfEmptySeats, plural, other {您的{seatsText}合同中有{numOfSeats}个席位。包含{numOfEmptySeats}个可分配席位。}}"
     },
-    "fullscreen.properties_panel.click_plus_to_add_new_action": {
-        "string": "Add action"
+    "org_self_serve.purchase_summary.guest": {
+        "string": "访客"
     },
-    "proto.prototype_panel.create_action_button": {
-        "string": "Create action button"
+    "org_self_serve.purchase_summary.have_questions": {
+        "string": "如果有任何问题，请{contactSales}。"
     },
-    "proto.prototype_panel.add_nested_action": {
-        "string": "Add nested action"
+    "org_self_serve.purchase_summary.none": {
+        "string": "无"
     },
-    "proto.prototype_panel.add": {
-        "string": "Add action"
+    "org_self_serve.purchase_summary.num_empty_seats": {
+        "string": "{numEmptySeats, plural, other {空席数量: {numEmptySeats}}}"
     },
-    "proto.trigger": {
-        "string": "Trigger"
+    "org_self_serve.purchase_summary.organization_plan": {
+        "string": "业务计划"
     }
 }

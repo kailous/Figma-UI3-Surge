@@ -1,152 +1,152 @@
 {
-    "new_user_experience.what_do_you_do.cursor_chat.developer": {
-        "string": "Preparing for handoff..."
+    "domain_management.domain_capture.info_tooltip_text": {
+        "string": "要启用域名捕获，请验证所有域名"
     },
-    "new_user_experience.what_do_you_do.cursor_chat.designer": {
-        "string": "Let’s think blue sky..."
+    "domain_management.domain_capture.label": {
+        "string": "域名捕获"
     },
-    "new_user_experience.what_do_you_do.cursor_chat.product_manager": {
-        "string": "I’m aligned..."
+    "domain_management.domain_capture.some_domains_unverified": {
+        "string": "无法启用域名捕获。一些域名尚未验证"
     },
-    "new_user_experience.what_do_you_do.cursor_chat.user_researcher": {
-        "string": "Survey says..."
+    "domain_management.domain_capture.support_email": {
+        "string": "admin-support@figma.com"
     },
-    "new_user_experience.what_do_you_do.cursor_chat.marketer": {
-        "string": "That’s so on-brand..."
+    "domain_management.domain_capture_modal.body": {
+        "string": "自动将域名的现有Figma用户添加到{orgName}。未来在该域名下创建新账户的用户也将被添加到组织中。{learnMoreLink}"
     },
-    "new_user_experience.what_do_you_do.cursor_chat.student_or_educator": {
-        "string": "See me after class..."
+    "domain_management.domain_capture_modal.body_title": {
+        "string": "启用域名捕获"
     },
-    "new_user_experience.what_do_you_do.cursor_chat.other": {
-        "string": "My work speaks for itself."
+    "domain_management.domain_capture_modal.cancel_button": {
+        "string": "取消"
     },
-    "rcs.signal_collection.continue": {
-        "string": "Continue"
+    "domain_management.domain_capture_modal.save_button": {
+        "string": "保存"
     },
-    "rcs.signal_collection.skip": {
-        "string": "Skip"
+    "domain_management.domain_capture_modal.success_message": {
+        "string": "域名捕获已启用"
     },
-    "user_onboarding_signals.v1.question.where_do_you_work": {
-        "string": "Where do you work?"
+    "domain_management.domain_capture_modal.title": {
+        "string": "域名捕获"
     },
-    "user_onboarding_signals.v1.question.what_brings_you_to_figma": {
-        "string": "What brings you to Figma?"
+    "domain_management.domain_unverified": {
+        "string": "未验证"
     },
-    "user_onboarding_signals.v1.question.who_do_you_collaborate_with": {
-        "string": "Who do you collaborate with most often?"
+    "domain_management.domain_verified": {
+        "string": "已验证"
     },
-    "user_onboarding_signals.v2.question.how_will_you_use_figma": {
-        "string": "How will you use Figma?"
+    "domain_management.error_domain_is_invalid": {
+        "string": "域名无效。"
     },
-    "user_onboarding_signals.v2.question.who_do_you_collaborate_with_most_often": {
-        "string": "Who do you collaborate with most often?"
+    "domain_management.error_fetching_domains": {
+        "string": "获取组织域名信息时出错。"
     },
-    "user_onboarding_signals.v2.question.have_you_used_figma_products_before": {
-        "string": "Have you used Figma products before?"
+    "domain_management.error_modal.body_adding": {
+        "string": "无法添加以下域名："
     },
-    "user_onboarding_signals.v2.question.have_you_used_figjam_or_figma_design_before": {
-        "string": "Have you used FigJam or Figma design before?"
+    "domain_management.error_modal.body_verifying": {
+        "string": "无法验证以下域名："
     },
-    "user_onboarding_signals.v2.question.and_what_brings_you_here": {
-        "string": "And what brings you here?"
+    "domain_management.error_modal.got_it_button": {
+        "string": "知道了"
     },
-    "user_onboarding_signals.v1.question.what_brings_you_to_figjam": {
-        "string": "What brings you to FigJam?"
+    "domain_management.error_modal.header_adding": {
+        "string": "无法添加域名"
     },
-    "new_user_experience.user_onboarding_signals.question.what_do_you_do": {
-        "string": "What kind of work do you do?"
+    "domain_management.error_modal.header_verifying": {
+        "string": "无法验证域名"
     },
-    "new_user_experience.user_onboarding_signals.question.do_any_of_these_describe_your_work": {
-        "string": "Do any of these describe your work?"
+    "domain_management.modals_shared.cancel_button": {
+        "string": "取消"
     },
-    "new_user_experience.user_onboarding_signals.question.who_do_you_usually_collaborate_with": {
-        "string": "Who do you usually collaborate with?"
+    "domain_management.modals_shared.update_dns_record_header": {
+        "string": "请更新DNS记录"
     },
-    "new_user_experience.user_onboarding_signals.question.what_brings_you_to_figma": {
-        "string": "What brings you to Figma today?"
+    "domain_management.remove_domain": {
+        "string": "删除"
     },
-    "user_onboarding_signals_figjam.v2.question.what_will_you_use_figjam_for": {
-        "string": "What will you use FigJam for?"
+    "domain_management.remove_domain_modal.attempted_domain_removal": {
+        "string": "无法删除与电子邮件地址关联的域名。"
     },
-    "user_onboarding_signals_figjam.v2.question.have_you_used_digital_whiteboards_before": {
-        "string": "Have you used digital whiteboarding tools before?"
+    "domain_management.remove_domain_modal.body_text": {
+        "string": "此域名的所有成员将成为组织的访客。"
     },
-    "user_onboarding_signals.gen1.v1.question.what_brings_you_to_figma_today": {
-        "string": "What brings you to Figma today?"
+    "domain_management.remove_domain_modal.body_text_with_mfa": {
+        "string": "此域名的所有成员将成为组织的访客。未设置多因素认证（MFA）的用户将无法访问组织的内容。"
     },
-    "user_onboarding_signals.v1.question.what_type_of_institution": {
-        "string": "What type of institution do you attend or work for?"
+    "domain_management.remove_domain_modal.body_title": {
+        "string": "确定要删除此域名吗？"
     },
-    "user_onboarding_signals.v2.description.select_just_one": {
-        "string": "Select just one"
+    "domain_management.remove_domain_modal.cancel_button": {
+        "string": "取消"
     },
-    "user_onboarding_signals.v1.description.select_as_many_as_you_like": {
-        "string": "Select as many as you like"
+    "domain_management.remove_domain_modal.error_removing_domain": {
+        "string": "删除域名时出错"
     },
-    "new_user_experience.user_onboarding_signals.description.do_any_of_these_describe_your_work": {
-        "string": "Select any that apply"
+    "domain_management.remove_domain_modal.remove_button": {
+        "string": "删除"
     },
-    "new_user_experience.user_onboarding_signals.description.select_to_describe_team": {
-        "string": "Select just one to describe your team"
+    "domain_management.remove_domain_modal.success_message": {
+        "string": "域名已删除"
     },
-    "new_user_experience.user_onboarding_signals.description.select_everything_that_applies": {
-        "string": "Select everything that applies"
+    "domain_management.successfully_added_domains": {
+        "string": "已添加{domainCount, plural, other {{domainCount}个域名}}"
     },
-    "user_onboarding_signals.v1.deescription.select_everything_that_applies": {
-        "string": "Select everything that applies"
+    "domain_management.successfully_verified_domains": {
+        "string": "已验证{domainCount, plural, other {{domainCount}个域名}}"
     },
-    "user_onboarding_signals.v1.deescription.select_just_one_this_time": {
-        "string": "Select just one this time"
+    "domain_management.verify_domain": {
+        "string": "验证域名"
     },
-    "user_onboarding_signals.v1.answer.at_a_company": {
-        "string": "At a company"
+    "domain_management.verify_domain_modal.body": {
+        "string": "请将此唯一代码添加到您要验证的域名的DNS记录中。{learnMoreLink}"
     },
-    "user_onboarding_signals.v1.answer.at_an_agency": {
-        "string": "At an agency"
+    "domain_management.verify_domain_modal.confirm_button": {
+        "string": "验证"
     },
-    "new_user_experience.user_onboarding_signals.answer.freelancer": {
-        "string": "Freelancer"
+    "domain_management.verify_domain_pluralizable": {
+        "string": "验证域名"
     },
-    "new_user_experience.user_onboarding_signals.answer.founder": {
-        "string": "Founder"
+    "domain_management.verifying_domains": {
+        "string": "正在验证域名"
     },
-    "new_user_experience.user_onboarding_signals.answer.at_a_school": {
-        "string": "At a school"
+    "domain_management.you_have_no_domains": {
+        "string": "没有与组织关联的域名。"
     },
-    "user_onboarding_signals.v1.answer.at_a_bootcamp": {
-        "string": "At a boot camp"
+    "members_tab.last_edit_modal.error_fetching_edits": {
+        "string": "获取最新编辑内容时出错。"
     },
-    "user_onboarding_signals.v1.edu.answer.using_it_for_school": {
-        "string": "Using it for school"
+    "members_tab.last_edit_modal.file_column_header": {
+        "string": "文件"
     },
-    "user_onboarding_signals.v1.answer.using_it_for_work": {
-        "string": "Using it for work"
+    "members_tab.last_edit_modal.inaccessible_text": {
+        "string": "由于文件权限，无法访问此文件"
     },
-    "user_onboarding_signals.v1.answer.using_it_for_fun": {
-        "string": "Using it for fun"
+    "members_tab.last_edit_modal.last_edit_column_header": {
+        "string": "最后编辑"
     },
-    "user_onboarding_signals.v2.answer.looking_for_the_right_whiteboarding_tool": {
-        "string": "Looking for the right whiteboarding tool"
+    "members_tab.last_edit_modal.no_activity": {
+        "string": "未找到活动记录"
     },
-    "new_user_experience.user_onboarding_signals.answer.looking_for_new_work_tool": {
-        "string": "Looking for a new work tool"
+    "members_tab.last_edit_modal.product_column_header": {
+        "string": "产品"
     },
-    "new_user_experience.user_onboarding_signals.answer.setting_things_up_for_team": {
-        "string": "Setting it up for my team"
+    "members_tab.last_edit_modal.title_generic": {
+        "string": "最近的编辑活动"
     },
-    "user_onboarding_signals.v1.answer.used_it_before_and_want_to_again": {
-        "string": "Used it before and want to again"
+    "members_tab.last_edit_modal.title_with_name": {
+        "string": "{publicName}的最近编辑"
     },
-    "user_onboarding_signals.v1.answer.not_sure_i_m_new_to_figma": {
-        "string": "Not sure, I'm new to Figma"
+    "members_tab.member_modal.file_count_label": {
+        "string": "{fileCount, plural, other {{fileCount}个文件}}"
     },
-    "user_onboarding_signals.v1.answer.not_sure_i_m_new_to_figjam": {
-        "string": "Not sure, I'm new to FigJam"
+    "members_tab.member_modal.file_no_access_tooltip": {
+        "string": "由于文件权限，无法访问此文件"
     },
-    "user_onboarding_signals.v1.edu.answer.students": {
-        "string": "Students"
+    "members_tab.member_modal.guest_access.can_also_view_public_links_label": {
+        "string": "{name}还可以查看所有启用公开链接的文件。"
     },
-    "user_onboarding_signals.v1.edu.answer.teachers": {
-        "string": "Teachers"
+    "members_tab.member_modal.guest_access.can_view_public_links_label": {
+        "string": "{name}可以查看所有启用公开链接的文件。"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.move-table-row-down": {
-        "string": "Move row down"
+    "collaboration.branching.error_archiving_branches": {
+        "string": "这些分支在存档时发生错误。"
     },
-    "fullscreen_actions.move-table-column-left": {
-        "string": "Move column left"
+    "collaboration.branching.error_converting_merge_request_to_draft": {
+        "string": "合并请求转换为草稿时发生错误。"
     },
-    "fullscreen_actions.move-table-column-right": {
-        "string": "Move column right"
+    "collaboration.branching.error_creating_image_usages": {
+        "string": "创建图像使用时发生错误。"
     },
-    "fullscreen_actions.move_to_file": {
-        "string": "Move to file…"
+    "collaboration.branching.error_deleting_branches": {
+        "string": "这些分支在删除时发生错误。"
     },
-    "fullscreen_actions.object-menu": {
-        "string": "Object"
+    "collaboration.branching.error_generic": {
+        "string": "发生错误"
     },
-    "fullscreen_actions.open-account-settings": {
-        "string": "Account settings"
+    "collaboration.branching.error_leaving_review": {
+        "string": "退出审查时发生错误。"
     },
-    "fullscreen_actions.open-font-settings": {
-        "string": "Open font settings"
+    "collaboration.branching.error_merging": {
+        "string": "合并时发生错误。"
     },
-    "fullscreen_actions.open-in-desktop-app": {
-        "string": "Open in desktop app"
+    "collaboration.branching.error_re_sending_merge_request": {
+        "string": "重新发送合并请求时发生错误。"
     },
-    "fullscreen_actions.open-legal-summary": {
-        "string": "Legal summary"
+    "collaboration.branching.error_removing_approval": {
+        "string": "删除批准时发生错误。"
     },
-    "fullscreen_actions.open-link": {
-        "string": "Open"
+    "collaboration.branching.error_restoring_branches": {
+        "string": "这些分支在恢复时发生错误。"
     },
-    "fullscreen_actions.open-links-in-desktop-app": {
-        "string": "Open links in desktop app"
+    "collaboration.branching.error_saving_file": {
+        "string": "保存文件时发生错误。"
     },
-    "fullscreen_actions.open-release-notes": {
-        "string": "Release notes"
+    "collaboration.branching.error_submitting_merge_request": {
+        "string": "提交合并请求时发生错误。"
     },
-    "fullscreen_actions.open-help": {
-        "string": "Help page"
+    "collaboration.branching.error_updating_merge_request": {
+        "string": "更新合并请求时发生错误。"
     },
-    "fullscreen_actions.open-shortcuts": {
-        "string": "Keyboard shortcuts"
+    "collaboration.branching.error_updating_reviewer_comment": {
+        "string": "更新审阅者评论时发生错误。"
     },
-    "fullscreen_actions.open-support-forum": {
-        "string": "Support forum"
+    "collaboration.branching.file_is_in_view_only_state_please_current_refresh_tab_and_try_again": {
+        "string": "文件处于仅查看状态 - 请刷新当前标签页并重试。"
     },
-    "fullscreen_actions.open-tutorials": {
-        "string": "Video tutorials"
+    "collaboration.branching.file_out_of_memory": {
+        "string": "文件内存不足"
     },
-    "fullscreen_actions.toggle-variables": {
-        "string": "Toggle variables"
+    "collaboration.branching.files_deleted": {
+        "string": "文件已删除"
     },
-    "fullscreen_actions.open-preferences-modal": {
-        "string": "Libraries"
+    "collaboration.branching.files_deleted_forever": {
+        "string": "文件已永久删除"
     },
-    "fullscreen_actions.outline-stroke": {
-        "string": "Outline stroke"
+    "collaboration.branching.files_restored": {
+        "string": "文件已恢复"
     },
-    "fullscreen_actions.pack-horizontal": {
-        "string": "Pack horizontal"
+    "collaboration.branching.fit": {
+        "string": "适应"
     },
-    "fullscreen_actions.pack-vertical": {
-        "string": "Pack vertical"
+    "collaboration.branching.for_more_help_visit_our_help_center": {
+        "string": "有关更多帮助，请访问我们的{helpCenterLink}。"
     },
-    "fullscreen_actions.page-convert-to-figjam": {
-        "string": "Convert page to FigJam page"
+    "collaboration.branching.help_center": {
+        "string": "帮助中心"
     },
-    "fullscreen_actions.page-convert-to-figma": {
-        "string": "Convert page to Figma page"
+    "collaboration.branching.in_review": {
+        "string": "正在审查"
     },
-    "fullscreen_actions.page-copy-link": {
-        "string": "Copy link to page"
+    "collaboration.branching.merge_error.branch_already_updated_description": {
+        "string": "分支已通过这些更改更新。请重新加载此窗口以查看更改。"
     },
-    "fullscreen_actions.page-delete": {
-        "string": "Delete page"
+    "collaboration.branching.merge_error.branch_archived_description": {
+        "string": "此分支已由其他用户合并或存档，无法合并或更新。"
     },
-    "fullscreen_actions.page-duplicate": {
-        "string": "Duplicate page"
+    "collaboration.branching.merge_error.cancel": {
+        "string": "取消"
     },
-    "fullscreen_actions.page-move-to": {
-        "string": "{name}"
+    "collaboration.branching.merge_error.cancel_merge_pending": {
+        "string": "正在取消合并..."
     },
-    "fullscreen_actions.page-move-to-menu": {
-        "string": "Move to page"
+    "collaboration.branching.merge_error.cancel_merge_success": {
+        "string": "合并已取消"
     },
-    "fullscreen_actions.page-move-to-new-file": {
-        "string": "Move to new file…"
+    "collaboration.branching.merge_error.cancel_previous_merge_pending": {
+        "string": "正在取消上次合并..."
     },
-    "fullscreen_actions.new_page": {
-        "string": "New page"
+    "collaboration.branching.merge_error.cancel_previous_merge_success": {
+        "string": "上次合并已取消"
     },
-    "fullscreen_actions.page-next": {
-        "string": "Next page"
+    "collaboration.branching.merge_error.cancel_previous_update_pending": {
+        "string": "正在取消上次更新..."
     },
-    "fullscreen_actions.page-previous": {
-        "string": "Previous page"
+    "collaboration.branching.merge_error.cancel_previous_update_success": {
+        "string": "上次更新已取消"
     },
-    "fullscreen_actions.page-rename": {
-        "string": "Rename page"
+    "collaboration.branching.merge_error.cancel_update_pending": {
+        "string": "正在取消更新..."
     },
-    "fullscreen_actions.pan": {
-        "string": "Pan"
+    "collaboration.branching.merge_error.cancel_update_success": {
+        "string": "更新已取消"
     },
-    "fullscreen_actions.panels-menu": {
-        "string": "Panels"
+    "collaboration.branching.merge_error.confirm": {
+        "string": "确认"
     },
-    "fullscreen_actions.paste": {
-        "string": "Paste"
+    "collaboration.branching.merge_error.confirm_merge_pending": {
+        "string": "正在确认合并..."
     },
-    "fullscreen_actions.paste-here": {
-        "string": "Paste here"
+    "collaboration.branching.merge_error.confirm_merge_success": {
+        "string": "合并已确认"
     },
-    "fullscreen_actions.paste-as-live-object": {
-        "string": "Paste as live object"
+    "collaboration.branching.merge_error.confirm_update_pending": {
+        "string": "正在确认更新..."
     },
-    "fullscreen_actions.paste-over-selection": {
-        "string": "Paste over selection"
+    "collaboration.branching.merge_error.confirm_update_success": {
+        "string": "更新已确认"
     },
-    "fullscreen_actions.paste-properties": {
-        "string": "Paste properties"
+    "collaboration.branching.merge_error.contact_support": {
+        "string": "联系Figma支持"
     },
-    "fullscreen_actions.paste-to-replace": {
-        "string": "Paste to replace"
+    "collaboration.branching.merge_error.could_not_start_merge": {
+        "string": "无法开始合并"
     },
-    "fullscreen_actions.place_all_images": {
-        "string": "Place all"
+    "collaboration.branching.merge_error.could_not_start_merge_description": {
+        "string": "准备合并时出错。请重试或检查状态页面。"
     },
-    "fullscreen_actions.place": {
-        "string": "Place image/video…"
+    "collaboration.branching.merge_error.could_not_start_update": {
+        "string": "无法开始更新"
     },
-    "fullscreen_actions.place_image": {
-        "string": "Place image…"
+    "collaboration.branching.merge_error.could_not_start_update_description": {
+        "string": "准备更新时出错。请重试或检查状态页面。"
     },
-    "sites.panel.position_panel.fixed_disabled": {
-        "string": "Only direct children of the webpage can be set to fixed"
+    "collaboration.branching.merge_error.merge_in_progress": {
+        "string": "无法合并。请联系支持"
     },
-    "sites.panel.position_panel.relative_disabled": {
-        "string": "Can only be applied to layers within an auto layout frame"
+    "collaboration.branching.merge_error.merge_in_progress_description": {
+        "string": "无法完成合并。请重试或联系支持。"
     },
-    "fullscreen_actions.preferences-menu": {
-        "string": "Preferences"
+    "collaboration.branching.merge_error.reload": {
+        "string": "重新加载"
     },
-    "fullscreen_actions.previous-artboard": {
-        "string": "Zoom to previous frame"
+    "collaboration.branching.merge_error.retry_merge": {
+        "string": "重试"
     },
-    "fullscreen_actions.previous-artboard-same-zoom": {
-        "string": "Find previous frame"
+    "collaboration.branching.merge_error.review_and_confirm": {
+        "string": "检查并确认更改"
     },
-    "fullscreen_actions.print-image-diagnostics": {
-        "string": "Print image diagnostics"
+    "collaboration.branching.merge_error.review_and_confirm_merge_description": {
+        "string": "执行合并时可能出现问题。请确认更改已反映在文件中。如果没有，请取消合并并重试。"
     }
 }

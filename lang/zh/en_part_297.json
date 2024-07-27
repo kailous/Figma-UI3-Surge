@@ -1,152 +1,152 @@
 {
-    "extension_decline_modal.leave_plugin_note": {
-        "string": "Let members requesting this plugin know why you're declining the plugin request."
+    "slides.properties_panel.text_style.replace_style": {
+        "string": "既存のスタイルを置き換える"
     },
-    "resources_tab.approved_plugins.modal.decline": {
-        "string": "Decline"
+    "slides.properties_panel.text_style.save_button": {
+        "string": "保存"
     },
-    "resources_tab.approved_plugins.no_plugins.text": {
-        "string": "Your organization does not have any approved plugins yet."
+    "slides.properties_panel.text_style.title_style": {
+        "string": "タイトル"
     },
-    "resources_tab.approved_widgets.no_widgets.text": {
-        "string": "Your organization does not have any approved widgets yet."
+    "slides.properties_panel.text_style.tooltip": {
+        "string": "テキストスタイル"
     },
-    "resources_tab.approved_plugins.no_plugins.add_plugins_button": {
-        "string": "Add approved plugins"
+    "slides.properties_panel.text_styles": {
+        "string": "テキストスタイル"
     },
-    "resources_tab.approved_widgets.no_widgets.add_widgets_button": {
-        "string": "Add approved widgets"
+    "slides.properties_panel.text_styles.styles": {
+        "string": "スタイル"
     },
-    "orgs_middleware.an_error_occurred_while_generating_scim": {
-        "string": "An error occurred while generating scim api token."
+    "slides.properties_panel.theme.dropdown_tooltip": {
+        "string": "テンプレートの色をリミックス"
     },
-    "orgs_middleware.an_error_occurred_while_revoking_scim": {
-        "string": "An error occurred while revoking scim api token."
+    "slides.properties_panel.theme.generic_theme_name": {
+        "string": "テーマ"
     },
-    "org_settings.scim.i_understand_that_this_is_the_only_time_i_will_see_this_token": {
-        "string": "I understand that this is the only time I will see this token, and I have copied it to a safe place."
+    "slides.properties_panel.theme.no_swap_available": {
+        "string": "これ以上のリミックスのオプションはありません"
     },
-    "org_settings.scim.revoke_token_confirmation": {
-        "string": "I understand that any API requests made using the API token {willBeDenied}."
+    "slides.properties_panel.theme.panel_title": {
+        "string": "テンプレートスタイル"
     },
-    "org_settings.scim.will_be_denied": {
-        "string": "will be denied"
+    "slides.properties_panel.theme.shuffle_no_change_visual_bell": {
+        "string": "このスライドではテンプレートの色は使用されていません"
     },
-    "modal.close": {
-        "string": "Close"
+    "slides.properties_panel.visual_bell.remove_stack": {
+        "string": "オートレイアウトが削除されました。{secondaryText}"
     },
-    "org_settings.scim.your_provisioning_api_token": {
-        "string": "Your provisioning API token"
+    "slides.properties_panel.visual_bell.remove_stack_undo": {
+        "string": "⌘Zで元に戻せます"
     },
-    "org_settings.scim.revoke_access": {
-        "string": "Revoke access"
+    "slides.templates.add_all_slides": {
+        "string": "すべてのスライドを追加"
     },
-    "org_settings.scim.revoke_token_access_title": {
-        "string": "Revoke token access"
+    "slides.templates.back": {
+        "string": "戻る"
     },
-    "org_settings.sso.google": {
-        "string": "Google"
+    "slides.templates.banner.new_deck_button": {
+        "string": "新しいデッキで使用"
     },
-    "org_settings.sign_in_method.change_log_in": {
-        "string": "Change log in"
+    "slides.templates.dark": {
+        "string": "ダーク"
     },
-    "org_settings.sign_in_method.i_understand_that_members_must_log_in_with_label_after_confirming": {
-        "string": "I understand that members must log in with {label} after confirming."
+    "slides.templates.dev_environment_only": {
+        "string": "開発環境のみ"
     },
-    "org_settings.sso.saml_single_sign_on": {
-        "string": "SAML single sign-on allows you to manage your users with a third-party identity provider (IdP). For more information on where to find this information, view this {helpArticle}."
+    "slides.templates.file_picker.no_files_match": {
+        "string": "{searchQuery}に一致するファイルはありません"
     },
-    "org_settings.sso.identity_provider_id_p": {
-        "string": "Identity provider (IdP)"
+    "slides.templates.file_picker.no_recent_files": {
+        "string": "最近使用したFigJamファイルがここに表示されます。表示されない場合は、ファイルを検索してみてください。"
     },
-    "org_settings.sso.idp_sso_target_url": {
-        "string": "IdP SSO target URL"
+    "slides.templates.file_picker.page_selector.all_pages": {
+        "string": "すべてのページ"
     },
-    "org_settings.sso.signing_certificate": {
-        "string": "Signing certificate"
+    "slides.templates.file_picker.page_selector.label": {
+        "string": "ページを選択"
     },
-    "org_settings.sso.id_p_metadata_url": {
-        "string": "IdP metadata URL"
+    "slides.templates.file_picker.page_selector.loading": {
+        "string": "ページを読み込んでいます..."
     },
-    "org_settings.sso.review": {
-        "string": "Review"
+    "slides.templates.file_picker.search_files": {
+        "string": "FigJamファイルを検索..."
     },
-    "org_settings.sso.please_review_the_information_you_entered": {
-        "string": "Please review the information you entered."
+    "slides.templates.file_picker.submit_button.generate": {
+        "string": "アウトラインを作成"
     },
-    "org_settings.sso.this_information_is_correct": {
-        "string": "This information is correct."
+    "slides.templates.file_picker.submit_button.pick_template": {
+        "string": "次: テンプレートを選択"
     },
-    "org_settings.sso.microsoft_azure_active_directory": {
-        "string": "Microsoft Azure Active Directory"
+    "slides.templates.file_picker.subtitle": {
+        "string": "要約を新しいデッキのアウトラインに変換します。"
     },
-    "org_settings.sso.configure_saml_sso": {
-        "string": "Configure SAML SSO"
+    "slides.templates.file_picker.title": {
+        "string": "要約するFigJamボードを選択"
     },
-    "org_settings.sso.an_error_occurred_while_configuring_saml_sso": {
-        "string": "An error occurred while configuring SAML SSO."
+    "slides.templates.light": {
+        "string": "ライト"
     },
-    "org_settings.sso.edit": {
-        "string": "Edit"
+    "slides.templates.modal.theme_picker.body": {
+        "string": "テンプレートを使いやすくするため、選択するテーマは1つだけにしてください。"
     },
-    "workspace_table.name_input": {
-        "string": "Name"
+    "slides.templates.modal.theme_picker.choose_theme_button": {
+        "string": "選択"
     },
-    "workspace_table.admins_input": {
-        "string": "Admins"
+    "slides.templates.modal.theme_picker.header": {
+        "string": "テンプレートのスタイルは1つだけにしましょう"
     },
-    "workspace_table.admins_will_manage_input_help_text": {
-        "string": "These people will actively manage this workspace."
+    "slides.templates.org_templates": {
+        "string": "組織テンプレート"
     },
-    "workspace_table.visibility": {
-        "string": "Visibility"
+    "slides.templates.outline_with_template.button": {
+        "string": "アウトラインを作成"
     },
-    "workspace_table.workspace_name_unassigned_error": {
-        "string": "You cannot name your workspace 'Unassigned'"
+    "slides.templates.presentation": {
+        "string": "プレゼンテーション"
     },
-    "workspace_table.workspace_name_already_exists_error": {
-        "string": "Workspace name already exists, please pick a different name"
+    "slides.templates.publish_actions.publishing": {
+        "string": "テンプレートを公開しています"
     },
-    "workspace_table.cancel_create_or_edit": {
-        "string": "Cancel"
+    "slides.templates.publish_actions.toast.long_name_error": {
+        "string": "ページ名が長すぎます。名前を短くしてもう一度お試しください。"
     },
-    "workspace_table.workspace_edit_save_changes": {
-        "string": "Save changes"
+    "slides.templates.publish_actions.toast.no_items_error": {
+        "string": "空のテンプレートは公開できません。スライドを1つ以上追加してください。"
     },
-    "workspace_table.create_workspace_button": {
-        "string": "Create workspace"
+    "slides.templates.publish_actions.toast.offline_error": {
+        "string": "オフライン中はテンプレートを公開または更新できません"
     },
-    "workspace_table.workspace_edited_toast": {
-        "string": "Updated ''{workspaceName}'' workspace"
+    "slides.templates.publish_actions.toast.publish_error": {
+        "string": "テンプレートを公開できませんでした"
     },
-    "workspace_table.workspace_created_toast": {
-        "string": "New workspace ''{workspaceName}'' created"
+    "slides.templates.publish_actions.toast.publish_success": {
+        "string": "テンプレートが公開されました"
     },
-    "workspace_table.edit_workspace_title": {
-        "string": "Edit workspace"
+    "slides.templates.publish_actions.toast.unpublish_error": {
+        "string": "テンプレートの公開を取り消すことができませんでした"
     },
-    "workspace_table.create_workspace_title": {
-        "string": "Create a workspace"
+    "slides.templates.publish_actions.toast.unpublish_success": {
+        "string": "テンプレートの公開が取り消されました"
     },
-    "workspace_table.name_input_placeholder": {
-        "string": "Add the name of a department, business unit, etc."
+    "slides.templates.publish_actions.toast.update_success": {
+        "string": "テンプレートの更新が公開されました"
     },
-    "workspace_table.admin_input_placeholder": {
-        "string": "Add emails or names"
+    "slides.templates.publish_actions.toasts.publish_error.generic": {
+        "string": "公開処理中に問題が発生しました。再読み込みの後、もう一度お試しください。"
     },
-    "workspace_table.make_it_hidden": {
-        "string": "Make it hidden"
+    "slides.templates.publish_actions.unpublishing": {
+        "string": "テンプレートの公開を取り消しています"
     },
-    "workspace_table.only_members_can_find_and_access": {
-        "string": "Only workspace members can find and access"
+    "slides.templates.recents": {
+        "string": "最近"
     },
-    "workspace_table.edit_details": {
-        "string": "Edit details"
+    "slides.templates.search.empty": {
+        "string": "{searchTerm}のテンプレートが見つかりませんでした"
     },
-    "workspace_table.empty_state.title": {
-        "string": "Create a workspace and start organizing teams"
+    "slides.templates.search.empty.tip": {
+        "string": "検索条件をクリアして、閲覧してください"
     },
-    "workspace_table.empty_state.subtitle": {
-        "string": "Group teams based on what they work on, who they work with, or just vibes."
+    "slides.templates.search_templates": {
+        "string": "テンプレートを検索"
     }
 }

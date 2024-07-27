@@ -1,152 +1,152 @@
 {
-    "api_user.error.cant-delete-account-in-organization": {
-        "string": "由于您属于一个组织，无法删除您的账户。请联系支持。"
+    "activity_log.actor.anonymous_user": {
+        "string": "匿名用户"
     },
-    "api_user.error.please_first_verify_your_email": {
-        "string": "请先验证您的电子邮件。"
+    "activity_log.actor.deleted_user": {
+        "string": "已删除的用户"
     },
-    "api_user.error.please_provide_a_description": {
-        "string": "请提供一个描述。"
+    "activity_log.actor.figma_support": {
+        "string": "Figma支持"
     },
-    "auth.two-factor-setup.error.incorrect_verification_code": {
-        "string": "验证码不正确。"
+    "activity_log.actor.scim_provider": {
+        "string": "SCIM提供者"
     },
-    "auth.two-factor-setup.error.missing-otp": {
-        "string": "请输入验证码。"
+    "activity_log.ai_content_training_disable": {
+        "string": "已禁用{orgName}的AI内容训练"
     },
-    "auth.two-factor-setup.error.missing-phone-number": {
-        "string": "请提供一个电话号码。"
+    "activity_log.ai_content_training_enable": {
+        "string": "已启用{orgName}的AI内容训练"
     },
-    "auth.two-factor-setup.error.missing-token": {
-        "string": "请求无效。"
+    "activity_log.ai_features_disable": {
+        "string": "已禁用{orgName}的AI功能"
     },
-    "auth.two-factor-setup.error.please_enter_a_code": {
-        "string": "请输入验证码。"
+    "activity_log.ai_features_enable": {
+        "string": "已启用{orgName}的AI功能"
     },
-    "auth.two-factor-setup.error.sms-two-factor-already-enabled": {
-        "string": "SMS 双因素认证已启用。"
+    "activity_log.disabled_cursor_chat_for_the_blog": {
+        "string": "已禁用{orgName}组织的光标聊天"
     },
-    "auth.two-factor-setup.error.two-factor-already-enabled": {
-        "string": "双因素认证已启用。"
+    "activity_log.disabled_open_sessions_for_the_blog": {
+        "string": "已禁用{orgName}组织的开放会话"
     },
-    "auth.two-factor-setup.generic-twilio-error": {
-        "string": "发送验证码时出错。"
+    "activity_log.disabled_public_links_for_the_blog": {
+        "string": "已禁用组织{orgName}的公开链接"
     },
-    "auth.two-factor-setup.invalid_phone_number": {
-        "string": "电话号码无效。"
+    "activity_log.disabled_public_links_for_the_blog_workspace": {
+        "string": "已禁用工作区{workspaceName}的公开链接"
     },
-    "auth.two-factor-setup.twilio_unable_to_send_msg": {
-        "string": "由于您的电话号码存在问题，我们无法发送双因素认证（2FA）代码。要登录，请使用恢复代码或从已登录的设备上关闭 2FA。需要帮助？请联系 support@figma.com。"
+    "activity_log.disabled_slides_for_the_org": {
+        "string": "已禁用{orgName}的Figma Slides访问"
     },
-    "comments.ecc_comment_disabled": {
-        "string": "已禁用对此文件的评论。"
+    "activity_log.enabled_cursor_chat_for_the_blog": {
+        "string": "已启用{orgName}组织的光标聊天"
     },
-    "comments.ecc_react_disabled": {
-        "string": "已禁用对此文件添加反应。"
+    "activity_log.enabled_open_sessions_for_the_blog": {
+        "string": "已启用{orgName}组织的开放会话"
     },
-    "comments.too_many_replies_in_thread": {
-        "string": "此评论的回复太多。"
+    "activity_log.enabled_public_links_for_the_blog": {
+        "string": "已启用{orgName}组织的公开链接"
     },
-    "auth.error.access_denied": {
-        "string": "访问被拒绝。"
+    "activity_log.enabled_public_links_for_the_blog_workspace": {
+        "string": "已启用工作区{workspaceName}的公开链接"
     },
-    "auth.error.access_denied_staging": {
-        "string": "访问被拒绝。仅限 @figma 域名。"
+    "activity_log.enabled_public_links_require_expiration_and_password_for_the_blog_days_generic": {
+        "string": "已为{resourceName}的设计文件设置密码和{maxDays}天的有效期"
     },
-    "auth.error.account-exists": {
-        "string": "该电子邮件地址的账户已存在。"
+    "activity_log.enabled_public_links_require_expiration_and_password_for_the_blog_hours_generic": {
+        "string": "已为{resourceName}的设计文件设置密码和{maxHours}小时的有效期"
     },
-    "auth.error.account_managed_by_org": {
-        "string": "此账户由您的组织管理。请使用 SAML SSO 登录。"
+    "activity_log.enabled_public_links_require_expiration_for_the_blog_days_generic": {
+        "string": "已为{resourceName}的设计文件设置{maxDays}天的有效期"
     },
-    "auth.error.account_suspended": {
-        "string": "您的账户已被暂停。"
+    "activity_log.enabled_public_links_require_expiration_for_the_blog_hours_generic": {
+        "string": "已为{resourceName}的设计文件设置{maxHours}小时的有效期"
     },
-    "auth.error.assign_new_admin_for_org_before_changing_email_domain": {
-        "string": "在更改电子邮件域之前，请为 {currentOrgName} 分配新管理员。"
+    "activity_log.enabled_public_links_require_password_for_the_blog": {
+        "string": "已为{orgName}组织的公开链接设置密码"
     },
-    "auth.error.boolean_expected_for_navigation_preference": {
-        "string": "此导航偏好预期为布尔值。"
+    "activity_log.enabled_public_links_require_password_for_the_blog_workspace": {
+        "string": "已为工作区{workspaceName}的公开链接设置密码"
     },
-    "auth.error.cannot_change_email_on_account_managed_by_google_sso": {
-        "string": "无法更改由 Google SSO 管理的账户上的电子邮件。"
+    "activity_log.enabled_slides_for_the_org": {
+        "string": "已启用{orgName}的Figma Slides访问"
     },
-    "auth.error.cannot_change_email_on_account_managed_by_your_org": {
-        "string": "无法更改由您的组织管理的账户上的电子邮件。"
+    "activity_log.event.billing_group_admins_add": {
+        "string": "已将{adminNames}添加为{billingGroupName}账单组的管理员"
     },
-    "auth.error.cannot_change_job_title_on_account_managed_by_your_org": {
-        "string": "无法更改由您的组织管理的账户上的职位。"
+    "activity_log.event.billing_group_admins_remove.v2": {
+        "string": "已从{billingGroupName}账单组中移除管理员{adminNames}"
     },
-    "auth.error.cannot_change_name_on_account_managed_by_your_org": {
-        "string": "无法更改由您的组织管理的账户上的名称。"
+    "activity_log.event.billing_group_create": {
+        "string": "创建了新的账单组{billingGroupName}"
     },
-    "auth.error.cannot_change_usage_purpose_on_account_managed_by_your_org": {
-        "string": "无法更改由您的组织管理的账户上的用途。"
+    "activity_log.event.billing_group_create_with_admins": {
+        "string": "创建了新的账单组{billingGroupName}并指定{adminNames}为管理员"
     },
-    "auth.error.cannot_create_account_on_admin_domain": {
-        "string": "无法在管理员域上创建新账户。"
+    "activity_log.event.billing_group_delete": {
+        "string": "删除了账单组{billingGroupName}"
     },
-    "auth.error.cannot_join_org_deprovisioned": {
-        "string": "用户 {EMAIL} 无法加入组织 - 他们已被停用。"
+    "activity_log.event.billing_group_membership_change": {
+        "string": "已将{userEmail}从{billingGroupName}账单组移至{newName}账单组"
     },
-    "auth.error.cannot_verify_google": {
-        "string": "无法验证 Google 登录。"
+    "activity_log.event.billing_group_membership_self_select": {
+        "string": "选择了{billingGroupName}账单组"
     },
-    "auth.error.cant_change_email": {
-        "string": "无法更改您的电子邮件地址。"
+    "activity_log.event.billing_group_rename": {
+        "string": "将账单组{billingGroupName}重命名为{newName}"
     },
-    "auth.error.change_password.current_password_incorrect": {
-        "string": "您输入的密码与当前密码不匹配。"
+    "activity_log.event.community_hub_file_delete": {
+        "string": "从社区中删除了文件{fileName}"
     },
-    "auth.error.change_password.no_current_password": {
-        "string": "请提供您的当前密码。"
+    "activity_log.event.community_hub_file_publish": {
+        "string": "在社区中发布了文件{fileName}"
     },
-    "auth.error.change_password.no_new_password": {
-        "string": "请提供您的新密码。"
+    "activity_log.event.community_hub_file_update": {
+        "string": "在社区中更新了文件{fileName}"
     },
-    "auth.error.changing_to_figma_email_address_is_forbidden": {
-        "string": "禁止更改为 @figma.com 电子邮件地址。"
+    "activity_log.event.community_plugin_delete": {
+        "string": "从社区中删除了插件{pluginName}"
     },
-    "auth.error.changing_to_this_email_domain_is_forbidden": {
-        "string": "禁止更改为此电子邮件域。"
+    "activity_log.event.community_plugin_publish": {
+        "string": "在社区中发布了插件{pluginName}"
     },
-    "auth.error.changing_to_this_email_domain_is_forbidden_use_another_email_domain": {
-        "string": "禁止更改为此电子邮件域。请使用其他域的电子邮件。"
+    "activity_log.event.community_plugin_update": {
+        "string": "在社区中更新了插件{pluginName}"
     },
-    "auth.error.domain_mismatch_tf_enabled": {
-        "string": "无法使用 Google 登录此账户。请尝试使用您的电子邮件地址和密码登录。"
+    "activity_log.event.community_widget_delete": {
+        "string": "从社区中删除了小部件{widgetName}"
     },
-    "auth.error.downgrade_self_to_member_in_org_before_changing_email_domain": {
-        "string": "在更改您的电子邮件域之前，请将自己降级为 {currentOrgName} 的成员。"
+    "activity_log.event.community_widget_publish": {
+        "string": "在社区中发布了小部件{widgetName}"
     },
-    "auth.error.edu_not_allowed": {
-        "string": "此账户未获得 Figma 许可。要更改此设置，您需要与学校管理员联系。"
+    "activity_log.event.community_widget_update": {
+        "string": "在社区中更新了小部件{widgetName}"
     },
-    "auth.error.email-cannot-equal-password": {
-        "string": "您的电子邮件不能与您的密码相同。"
+    "activity_log.event.configurable_upgrade_request_flow_all_users": {
+        "string": "成员和访客"
     },
-    "auth.error.email-resent": {
-        "string": "电子邮件已重新发送！"
+    "activity_log.event.configurable_upgrade_request_flow_changed": {
+        "string": "Figma支持已将请求流程从{oldAudience}更新到{currentAudience}"
     },
-    "auth.error.email-taken": {
-        "string": "该电子邮件已被占用。请登录。"
+    "activity_log.event.configurable_upgrade_request_flow_disabled": {
+        "string": "Figma支持已禁用升级请求流程"
     },
-    "auth.error.email_already_in_use": {
-        "string": "该电子邮件已被使用。"
+    "activity_log.event.configurable_upgrade_request_flow_enabled": {
+        "string": "Figma支持已为{currentAudience}启用升级请求流程"
     },
-    "auth.error.email_blocked_from_org": {
-        "string": "用户 {EMAIL} 被禁止加入组织。"
+    "activity_log.event.configurable_upgrade_request_flow_members": {
+        "string": "仅限成员"
     },
-    "auth.error.email_misformatted": {
-        "string": "提供的电子邮件格式有问题。请检查地址，然后重试。"
+    "activity_log.event.configurable_upgrade_request_flow_updated_message": {
+        "string": "Figma支持已更新请求流程的说明"
     },
-    "auth.error.email_not_added_to_org": {
-        "string": "看起来 {EMAIL} 尚未添加到 Figma。请联系您的管理员以启动账户创建流程。"
+    "activity_log.event.disabled_autogen_password_controls_for_the_org": {
+        "string": "组织的密码保护设置已更改，允许自定义和自动生成的密码"
     },
-    "auth.error.email_required": {
-        "string": "您必须输入一个电子邮件地址。"
+    "activity_log.event.enabled_autogen_password_controls_for_the_org": {
+        "string": "组织的密码保护设置已启用自动生成密码"
     },
-    "auth.error.email_too_long": {
-        "string": "您的电子邮件真的这么长吗？"
+    "activity_log.event.fig_file_create": {
+        "string": "在草稿项目中创建了新文件"
     }
 }

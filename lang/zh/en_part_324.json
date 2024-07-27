@@ -1,152 +1,152 @@
 {
-    "domain_management.add_domain_modal.title": {
-        "string": "Add domain"
+    "user_notifications.unread_empty": {
+        "string": "未読"
     },
-    "domain_management.add_domain_modal.body_text": {
-        "string": "Enter the domains you want to add to your organization."
+    "user_notifications.unread_toggle_count": {
+        "string": "未読({unreadCount})"
     },
-    "domain_management.modals_shared.cancel_button": {
-        "string": "Cancel"
+    "user_notifications.yesterday": {
+        "string": "昨日"
     },
-    "domain_management.add_domain_modal.confirm_button_dc_enabled": {
-        "string": "Verify and add"
+    "user_onboarding_signals.answer.educator": {
+        "string": "教職員"
     },
-    "domain_management.add_domain_modal.confirm_button": {
-        "string": "Add"
+    "user_onboarding_signals.answer.student": {
+        "string": "児童/生徒/学生"
     },
-    "domain_management.modals_shared.update_dns_record_header": {
-        "string": "Update the DNS records"
+    "user_onboarding_signals.gen1.v1.answer.giving_feedback_on_a_design": {
+        "string": "デザインに対するフィードバック"
     },
-    "domain_management.add_domain_modal.update_dns_record_sub_text": {
-        "string": "Before you can add a domain, you’ll need to verify ownership by adding this unique code to the DNS records. {learnMoreLink}"
+    "user_onboarding_signals.gen1.v1.answer.joining_a_meeting_or_brainstorm": {
+        "string": "ミーティングまたはブレインストーミングへの参加"
     },
-    "domain_management.add_domain_modal.next_add_domains_header": {
-        "string": "Next, add domains"
+    "user_onboarding_signals.gen1.v1.answer.joining_my_teams_project": {
+        "string": "自分のチームのプロジェクトへの参加"
     },
-    "domain_management.add_domain_modal.next_add_domains_sub_text": {
-        "string": "Once you've updated the DNS records, enter the domains you want to add."
+    "user_onboarding_signals.gen1.v1.answer.learning_about_design": {
+        "string": "デザインについての学習"
     },
-    "domain_management.add_domain_modal.input_placeholder_text": {
-        "string": "domain.com"
+    "user_onboarding_signals.gen1.v1.answer.testing_figma_out_for_my_team": {
+        "string": "自分のチームのためのFigmaのテスト"
     },
-    "domain_management.domain": {
-        "string": "{domainCount, plural, one {Domain} other {Domains}}"
+    "user_onboarding_signals.gen1.v1.question.what_brings_you_to_figma_today": {
+        "string": "今日はどのような理由でFigmaを利用していますか?"
     },
-    "domain_management.verify_domain": {
-        "string": "Verify domain"
+    "user_onboarding_signals.v1.answer.at_a_bootcamp": {
+        "string": "ブートキャンプにて"
     },
-    "domain_management.verify_domain_modal.body": {
-        "string": "Add this unique code to the DNS records of the domains you want to verify.{learnMoreLink}"
+    "user_onboarding_signals.v1.answer.at_a_company": {
+        "string": "会社にて"
     },
-    "domain_management.verify_domain_modal.confirm_button": {
-        "string": "Verify"
+    "user_onboarding_signals.v1.answer.at_an_agency": {
+        "string": "代理店にて"
     },
-    "domain_management.error_fetching_domains": {
-        "string": "An error occurred while retrieving your organization's domain information."
+    "user_onboarding_signals.v1.answer.bootcamp_or_online_course": {
+        "string": "ブートキャンプまたはオンラインコース"
     },
-    "domain_management.domain_verified": {
-        "string": "Verified"
+    "user_onboarding_signals.v1.answer.clients": {
+        "string": "クライアント"
     },
-    "domain_management.domain_unverified": {
-        "string": "Unverified"
+    "user_onboarding_signals.v1.answer.higher_education": {
+        "string": "高専・専門学校・短期大学・大学・大学院、その他"
     },
-    "domain_management.verify_domain_pluralizable": {
-        "string": "{domainCount, plural, one {Verify domain} other {Verify domains}}"
+    "user_onboarding_signals.v1.answer.k12": {
+        "string": "幼稚園・小中学校・高校"
     },
-    "domain_management.remove_domain": {
-        "string": "Remove"
+    "user_onboarding_signals.v1.answer.not_sure_i_m_new_to_figjam": {
+        "string": "FigJamは初めてなので分からない"
     },
-    "domain_management.you_have_no_domains": {
-        "string": "You do not have any domains associated with your organization."
+    "user_onboarding_signals.v1.answer.not_sure_i_m_new_to_figma": {
+        "string": "Figmaは初めてなので分からない"
     },
-    "domain_management.column_header.name": {
-        "string": "Name"
+    "user_onboarding_signals.v1.answer.teammates": {
+        "string": "チームのメンバー"
     },
-    "domain_management.column_header.status": {
-        "string": "Status"
+    "user_onboarding_signals.v1.answer.used_it_before_and_want_to_again": {
+        "string": "以前使用していたが、また使いたいと思っている"
     },
-    "multi_select_list.selected_count_domain": {
-        "string": "{numSelected, plural, one {{numSelected} domain selected:} other {{numSelected} domains selected:}}"
+    "user_onboarding_signals.v1.answer.using_it_for_fun": {
+        "string": "趣味のために使用"
     },
-    "domain_management.domain_capture.label": {
-        "string": "Domain capture"
+    "user_onboarding_signals.v1.answer.using_it_for_work": {
+        "string": "仕事のために使用"
     },
-    "domain_management.domain_capture.on": {
-        "string": "On"
+    "user_onboarding_signals.v1.deescription.select_everything_that_applies": {
+        "string": "当てはまるものをすべてお選びください"
     },
-    "domain_management.domain_capture.description": {
-        "string": "Automatically add members to your organization from verified domains."
+    "user_onboarding_signals.v1.deescription.select_just_one_this_time": {
+        "string": "1つだけお選びください"
     },
-    "domain_management.domain_capture.domain_removal": {
-        "string": "Org domain removal"
+    "user_onboarding_signals.v1.description.select_as_many_as_you_like": {
+        "string": "当てはまるものをすべて選択してください"
     },
-    "domain_management.domain_capture.support_email": {
-        "string": "admin-support@figma.com"
+    "user_onboarding_signals.v1.edu.answer.students": {
+        "string": "生徒または学生"
     },
-    "domain_management.domain_capture.info_tooltip_text": {
-        "string": "Verify all domains to enable domain capture"
+    "user_onboarding_signals.v1.edu.answer.students_and_educators": {
+        "string": "生徒または学生、および教職員"
     },
-    "team_tile.no_teams.empty_workspace": {
-        "string": "It looks like this workspace is still getting set up. Come back later to find teams, projects, and files as they’re added."
+    "user_onboarding_signals.v1.edu.answer.teachers": {
+        "string": "教師"
     },
-    "breadcrumbs.unassigned_license_group": {
-        "string": "Other teams"
+    "user_onboarding_signals.v1.edu.answer.using_it_for_school": {
+        "string": "学校で使用"
     },
-    "breadcrumbs.private_workspace_ellipses": {
-        "string": "…"
+    "user_onboarding_signals.v1.question.what_brings_you_to_figjam": {
+        "string": "FigJamを知ったきっかけを教えてください。"
     },
-    "workspace_view.toolbar.solid": {
-        "string": "Solid color"
+    "user_onboarding_signals.v1.question.what_brings_you_to_figma": {
+        "string": "Figmaを知ったきっかけを教えてください。"
     },
-    "workspace_view.toolbar.no_fill": {
-        "string": "No color"
+    "user_onboarding_signals.v1.question.what_type_of_institution": {
+        "string": "通っている、または勤務している教育機関の種類は?"
     },
-    "workspace_view.color.toolbar.cancel": {
-        "string": "Cancel"
+    "user_onboarding_signals.v1.question.where_do_you_work": {
+        "string": "勤務先を教えてください。"
     },
-    "workspace_view.toolbar.workspace_color_updated": {
-        "string": "Workspace color updated"
+    "user_onboarding_signals.v1.question.who_do_you_collaborate_with": {
+        "string": "最もよくコラボレーションを行うのは誰ですか?"
     },
-    "workspace_view.toolbar.workspace_color_update_error": {
-        "string": "An error occurred while updating the workspace color."
+    "user_onboarding_signals.v2.answer.just_checking_things_out": {
+        "string": "機能や操作性の確認のみ"
     },
-    "workspace_view.color.toolbar.save": {
-        "string": "Save"
+    "user_onboarding_signals.v2.answer.looking_for_the_right_whiteboarding_tool": {
+        "string": "適切なホワイトボーディングツールの調査・選定"
     },
-    "org_view.license_group.member_count": {
-        "string": "{memberCount, plural, one {{memberCount} member} other {{memberCount} members}}"
+    "user_onboarding_signals.v2.answer.no_its_my_first_time": {
+        "string": "今回が初めて"
     },
-    "org_view.license_group.team_count": {
-        "string": "{teamCount, plural, one {{teamCount} team} other {{teamCount} teams}}"
+    "user_onboarding_signals.v2.answer.other": {
+        "string": "その他"
     },
-    "org_view.license_group.unassigned_tile.name": {
-        "string": "Other teams"
+    "user_onboarding_signals.v2.answer.starting_a_new_job_or_project": {
+        "string": "新しいジョブやプロジェクトのスタート"
     },
-    "org_view.license_group.unassigned_tile.description": {
-        "string": "{teamCount, plural, one {There is {teamCount} team not yet assigned to a workspace} other {There are {teamCount} teams not yet assigned to a workspace}}"
+    "user_onboarding_signals.v2.answer.yes_a_few_times": {
+        "string": "2～3回"
     },
-    "org_view.your_workspace": {
-        "string": "Your workspace"
+    "user_onboarding_signals.v2.answer.yes_many_times": {
+        "string": "何回も"
     },
-    "org_view.other_workspaces": {
-        "string": "Other workspaces"
+    "user_onboarding_signals.v2.description.select_just_one": {
+        "string": "1つだけお選びください"
     },
-    "workspace_view.sidebar.members": {
-        "string": "Members"
+    "user_onboarding_signals.v2.question.and_what_brings_you_here": {
+        "string": "当製品を選ぶきっかけは?"
     },
-    "workspace_view.sidebar.see_all_members": {
-        "string": "See all"
+    "user_onboarding_signals.v2.question.have_you_used_figjam_or_figma_design_before": {
+        "string": "これまでFigJamまたはFigmaデザインを使用したことがありますか?"
     },
-    "file_browser.pinning.max_files.add_button_tooltip": {
-        "string": "You can pin up to {maxPins} files"
+    "user_onboarding_signals.v2.question.have_you_used_figma_products_before": {
+        "string": "これまでのFigma製品の使用経験は?"
     },
-    "file_browser.pinning.add_file": {
-        "string": "Add file"
+    "user_onboarding_signals.v2.question.how_will_you_use_figma": {
+        "string": "Figmaをどのように使う予定ですか?"
     },
-    "fig_feed.no_posts_found_title": {
-        "string": "Nothing to see here"
+    "user_onboarding_signals.v2.question.who_do_you_collaborate_with_most_often": {
+        "string": "最も頻繁にコラボレーションをするのは?"
     },
-    "fig_feed.no_posts_found_description": {
-        "string": "No posts match the selected filters. Try removing or refining filters to see posts."
+    "user_onboarding_signals_figjam.v2.answer.brainstorms": {
+        "string": "ブレインストーミングの簡易化"
     }
 }

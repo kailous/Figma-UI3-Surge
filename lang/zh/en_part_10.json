@@ -1,152 +1,152 @@
 {
-    "visual_bell.drag_and_drop_absolute_stack_insertion": {
-        "string": "To ignore auto layout, hold ⌃ Ctrl"
+    "activity_log.teams.restored_the_team_name_team": {
+        "string": "恢复了团队{teamName}"
     },
-    "visual_bell.drag_and_drop_absolute_stack_insertion_windows": {
-        "string": "To ignore auto layout, hold S"
+    "activity_log.teams.team_name_wants_to_transfer_their_team": {
+        "string": "{teamName}希望将团队转移到组织"
     },
-    "visual_bell.duplicate_selection": {
-        "string": "Duplicate selection"
+    "activity_log.upgrade.added_to_resource.seat_rename": {
+        "string": "{actor_name}将{upgrader_name}添加为{resource_name}的付费座位"
     },
-    "visual_bell.duplicate_selection_exclude_vote_stamp_from_selection": {
-        "string": "Didn’t duplicate votes"
+    "activity_log.upgrade.added_to_resource_with_product.seat_rename": {
+        "string": "{actor_name}将{upgrader_name}添加为{product}的付费座位在{resource_name}"
     },
-    "visual_bell.duplicate_selection_failed_only_vote_stamps": {
-        "string": "Can’t duplicate votes"
+    "activity_log.upgrade.admin_upgrade.seat_rename": {
+        "string": "{actor_name}升级了{upgrader_name}"
     },
-    "visual_bell.duplicate_styles_pasted": {
-        "string": "{numDuplicateStyles, plural, one {1 duplicate style not pasted} other {{numDuplicateStyles} duplicate styles not pasted}}"
+    "activity_log.upgrade.admin_upgrade_with_product.seat_rename": {
+        "string": "{actor_name}用{product}升级了{upgrader_name}"
     },
-    "visual_bell.export_failed": {
-        "string": "Failed to export"
+    "activity_log.upgrade.create_file": {
+        "string": "{upgrader_name}创建了文件{resource_name}"
     },
-    "visual_bell.exporting_slices_to_pdf_is_currently_unsupported": {
-        "string": "Exporting slices to PDF is currently unsupported"
+    "activity_log.upgrade.create_team": {
+        "string": "{upgrader_name}创建了团队{resource_name}"
     },
-    "visual_bell.forced_layout_of_d_text_elements": {
-        "string": "Forced layout of {count} text elements"
+    "activity_log.upgrade.default_paid_status.seat_rename": {
+        "string": "{upgrader_name}以组织默认角色的付费座位加入"
     },
-    "visual_bell.frame_outlines_hidden": {
-        "string": "Frame outlines hidden"
+    "activity_log.upgrade.default_paid_status_with_product.seat_rename": {
+        "string": "{upgrader_name}以组织默认角色的{product}付费座位加入"
     },
-    "visual_bell.frame_outlines_visible": {
-        "string": "Frame outlines visible"
+    "activity_log.upgrade.depart_team": {
+        "string": "当所有者离开团队时，{upgrader_name}被升级了"
     },
-    "visual_bell.generic_video_upload_error": {
-        "string": "Error uploading video. Please try again."
+    "activity_log.upgrade.dev_mode_pre_commit_beta_use": {
+        "string": "{upgrader_name}根据组织协议从开发模式beta版升级"
     },
-    "visual_bell.hit_table_cell_limit": {
-        "string": "Couldn’t add—tables are limited to 500 cells."
+    "activity_log.upgrade.drafts_share": {
+        "string": "{upgrader_name}从草稿文件夹中将{resource_name}共享给{actor_name}"
     },
-    "visual_bell.image_file_name_import_failed": {
-        "string": "Image file {filename} import failed"
+    "activity_log.upgrade.drafts_share_anonymous": {
+        "string": "匿名用户"
     },
-    "visual_bell.image_fill_not_supported_no_extension": {
-        "string": "This file type can't be used as image fill"
+    "activity_log.upgrade.edit_action": {
+        "string": "{upgrader_name}编辑了{resource_name}"
     },
-    "visual_bell.image_fill_not_supported_with_extension": {
-        "string": "This file type ({extension}) can't be used as image fill"
+    "activity_log.upgrade.edit_button": {
+        "string": "{upgrader_name}点击了{resource_name}的[编辑文件]按钮"
     },
-    "visual_bell.invalid_selection_for_tidy_up": {
-        "string": "Could not tidy up selection"
+    "activity_log.upgrade.edit_request_approval": {
+        "string": "{upgrader_name}批准了文件{resource_name}的编辑请求"
     },
-    "visual_bell.loading_prototype_try_again": {
-        "string": "Loading prototype. Wait to add another until this one is finished..."
+    "activity_log.upgrade.figjam_ga_reupgrade": {
+        "string": "{upgrader_name}重新升级了文件{resource_name}的账户"
     },
-    "visual_bell.local_file_key_unknown": {
-        "string": "Local file key unknown"
+    "activity_log.upgrade.figma_admin": {
+        "string": "Figma支持升级了{resource_name}的{upgrader_name}"
     },
-    "visual_bell.mapped_state_groups": {
-        "string": "Mapped {numMappedStateGroups} state group(s), {numMappedSymbols} component(s) and repaired {repairedInstances} instance(s)."
+    "activity_log.upgrade.join_team.seat_rename": {
+        "string": "{upgrader_name}以付费座位加入{resource_name}"
     },
-    "visual_bell.max_height_removed": {
-        "string": "{nodeCount, plural, one {Max height removed for {nodeName}} other {Max height removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.join_team_with_product.seat_rename": {
+        "string": "{upgrader_name}以{product}的付费座位加入{resource_name}"
     },
-    "visual_bell.max_lines_removed": {
-        "string": "{nodeCount, plural, one {Max lines removed for {nodeName}} other {Max lines removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.org_merge.seat_rename": {
+        "string": "在组织{child_org}合并到本组织后，{upgrader_name}被升级"
     },
-    "visual_bell.max_width_height_removed": {
-        "string": "{nodeCount, plural, one {Max width and height removed for {nodeName}} other {Max width and height removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.paid_status_on_org_creation": {
+        "string": "在创建组织时，{upgrader_name}获得了{resource_name}的付费座位"
     },
-    "visual_bell.max_width_removed": {
-        "string": "{nodeCount, plural, one {Max width removed for {nodeName}} other {Max width removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.redeem_invite_to_org": {
+        "string": "{upgrader_name}接受了组织的邀请"
     },
-    "visual_bell.min_height_removed": {
-        "string": "{nodeCount, plural, one {Min height removed for {nodeName}} other {Min height removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.resource_move.seat_rename": {
+        "string": "由于升级，{upgrader_name}获得了{resource_name}的付费座位"
     },
-    "visual_bell.min_max_height_removed": {
-        "string": "{nodeCount, plural, one {Min and max height removed for {nodeName}} other {Min and max height removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.resource_move_with_product.seat_rename": {
+        "string": "由于升级，{upgrader_name}获得了{resource_name}的{product}付费座位"
     },
-    "visual_bell.min_max_width_height_removed": {
-        "string": "{nodeCount, plural, one {Min and max removed for {nodeName}} other {Min and max removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.resource_moved_from_drafts": {
+        "string": "{upgrader_name}被升级，因为{resource_name}被移到团队"
     },
-    "visual_bell.min_max_width_removed": {
-        "string": "{nodeCount, plural, one {Min and max width removed for {nodeName}} other {Min and max width removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.resource_moved_to_org": {
+        "string": "{resource_name}被移到组织后，{upgrader_name}成为该资源的编辑者"
     },
-    "visual_bell.min_width_height_removed": {
-        "string": "{nodeCount, plural, one {Min width and height removed for {nodeName}} other {Min width and height removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.run_plugin": {
+        "string": "{upgrader_name}运行了插件"
     },
-    "visual_bell.min_width_removed": {
-        "string": "{nodeCount, plural, one {Min width removed for {nodeName}} other {Min width removed for {nodeCount} nodes}}"
+    "activity_log.upgrade.scim.seat_rename": {
+        "string": "{upgrader_name}通过SCIM被分配了付费座位"
     },
-    "visual_bell.moved_selection": {
-        "string": "Selection moved to {newPage}"
+    "activity_log.upgrade.scim_with_product.seat_rename": {
+        "string": "{upgrader_name}通过SCIM被分配了{product}的付费座位"
     },
-    "visual_bell.no_auto_layout_components_found": {
-        "string": "No Auto Layout components found"
+    "activity_log.users.session_timed_out": {
+        "string": "由于空闲会话超时设置，已注销"
     },
-    "visual_bell.no_component_prop_refs_to_prune": {
-        "string": "No component prop refs to prune"
+    "activity_log.users.signed_in": {
+        "string": "已登录"
     },
-    "visual_bell.no_components_are_selected": {
-        "string": "No components are selected"
+    "activity_log.users.signed_in_app_auth": {
+        "string": "通过Figma VS Code扩展登录"
     },
-    "visual_bell.no_matching_layers_component_set": {
-        "string": "No matching layers to select in this component set"
+    "activity_log.users.signed_in_google": {
+        "string": "通过Google登录"
     },
-    "visual_bell.no_matching_layers_page": {
-        "string": "No matching layers to select on page"
+    "activity_log.users.signed_in_password": {
+        "string": "通过用户名和密码登录"
     },
-    "visual_bell.no_matching_layers_responsive_set": {
-        "string": "No matching layers to select in this layout set"
+    "activity_log.users.signed_in_saml": {
+        "string": "通过SAML登录"
     },
-    "visual_bell.no_matching_layers_section": {
-        "string": "No matching layers to select in this section"
+    "activity_log.users.signed_out": {
+        "string": "已注销"
     },
-    "visual_bell.no_more_children_to_select": {
-        "string": "No more children to select"
+    "activity_log.voice.joined_call_on_file_fig_file_key": {
+        "string": "加入了文件{figFileKey}的通话"
     },
-    "visual_bell.no_text_elements_found_in_current_selection": {
-        "string": "No text elements found in current selection"
+    "activity_log.webhooks.webhooks_created": {
+        "string": "为事件{webhookEvent}创建了Web钩子到端点{webhookEndpoint}"
     },
-    "visual_bell.not_enough_memory_to_duplicate_this_page": {
-        "string": "Not enough memory to duplicate this page"
+    "activity_log.webhooks.webhooks_deleted": {
+        "string": "删除了事件{webhookEvent}的Web钩子从端点{webhookEndpoint}"
     },
-    "visual_bell.nothing_in_selection": {
-        "string": "Nothing in selection"
+    "activity_log.webhooks.webhooks_updated": {
+        "string": "更新了事件{webhookEvent}的Web钩子到端点{webhookEndpoint}"
     },
-    "visual_bell.nothing_is_selected": {
-        "string": "Nothing is selected"
+    "add_unassigned_teams_modal.assign_n_teams": {
+        "string": "分配{count}个团队"
     },
-    "visual_bell.nothing_to_remove": {
-        "string": "Nothing to remove."
+    "add_unassigned_teams_modal.assign_teams": {
+        "string": "分配团队"
     },
-    "visual_bell.nothing_to_repair": {
-        "string": "Nothing to repair."
+    "add_unassigned_teams_modal.description": {
+        "string": "选择未分配的团队以添加到工作区{workspaceName}。"
     },
-    "visual_bell.nothing_to_reresolve": {
-        "string": "Nothing to re-resolve."
+    "add_unassigned_teams_modal.member_count": {
+        "string": "成员{memberCount}"
     },
-    "visual_bell.only_editors_of_this_file_can_copy_it": {
-        "string": "Only editors of this file can copy it"
+    "add_unassigned_teams_modal.no_owner": {
+        "string": "—"
     },
-    "visual_bell.only_editors_of_this_file_can_export_it": {
-        "string": "Only editors of this file can export it"
+    "add_unassigned_teams_modal.no_teams_found": {
+        "string": "未找到团队"
     },
-    "visual_bell.only_editors_of_this_file_can_save_it": {
-        "string": "Only editors of this file can save it"
+    "add_unassigned_teams_modal.org_access.private": {
+        "string": "私有团队"
     },
-    "visual_bell.opacity_set_to_d": {
-        "string": "Opacity set to {percentage}%"
+    "add_unassigned_teams_modal.org_access.public": {
+        "string": "公开团队"
     }
 }

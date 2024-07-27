@@ -1,152 +1,152 @@
 {
-    "universal_insert.saved_for_quick_access_plugins": {
-        "string": "Save for quicker access to your favorite plugins"
+    "link_expired.description": {
+        "string": "此文件通过此链接已不可用。如果您认为这是错误，请联系文件所有者。"
     },
-    "universal_insert.search_all_plugins": {
-        "string": "Search all plugins"
+    "link_expired.go_back_to_figma": {
+        "string": "返回Figma"
     },
-    "universal_insert.search_all_widgets": {
-        "string": "Search all widgets"
+    "link_expired.header": {
+        "string": "此链接已被取消公开"
     },
-    "universal_insert.search_all_extensions": {
-        "string": "Search all extensions"
+    "link_expired_overlay.body": {
+        "string": "截至{formattedTimestamp}，此文件的观众是“{audience}”。"
     },
-    "dev_handoff.inspect_panel.search_bar_filter_codegen_option": {
-        "string": "Only codegen plugins"
+    "link_expired_overlay.different_branch_permissions_body": {
+        "string": "截至{formattedTimestamp}，此分支的主文件的观众是“{audience}”。"
     },
-    "dev_handoff.inspect_panel.search_bar_filter": {
-        "string": "Filter"
+    "link_expired_overlay.different_branch_permissions_header": {
+        "string": "主文件的链接已被取消公开"
     },
-    "universal_insert.recents_and_saved": {
-        "string": "Recents and saved"
+    "link_expired_overlay.header": {
+        "string": "此链接已被取消公开"
     },
-    "universal_insert.from_your_org": {
-        "string": "From your org"
+    "link_expired_overlay.same_branch_permissions_body": {
+        "string": "截至{formattedTimestamp}，此分支及其主文件的观众是“{audience}”。"
     },
-    "dev_handoff.paywall.plugins.description": {
-        "string": "Connect to tools like Jira, GitHub, Storybook, and more. Or, build your own plugins using our API. {learnMoreLink}"
+    "link_pwd_input.a_password_is_needed_to_access_the_figjam_file": {
+        "string": "访问FigJam文件需要密码"
     },
-    "dev_handoff.paywall.learn_more": {
-        "string": "Learn more"
+    "link_pwd_input.a_password_is_needed_to_access_the_file": {
+        "string": "访问此文件需要密码"
     },
-    "dev_handoff.paywall.plugin.description": {
-        "string": "Run {plugin}—and many more plugins for developers—with Dev Mode. {learnMoreLink}"
+    "link_pwd_input.a_password_is_needed_to_access_the_prototype": {
+        "string": "访问原型需要密码"
     },
-    "dev_handoff.paywall.plugins.title": {
-        "string": "Make Figma fit you"
+    "link_pwd_input.already_have_a_figma_account": {
+        "string": "已有Figma账户？{loginLink}"
     },
-    "universal_insert.plugin": {
-        "string": "Plugin"
+    "link_pwd_input.continue": {
+        "string": "继续"
     },
-    "universal_insert.widget": {
-        "string": "Widget"
+    "link_pwd_input.enter_password": {
+        "string": "输入密码"
     },
-    "universal_insert.see_more_details_in_community": {
-        "string": "See more details in Community"
+    "link_pwd_input.fig_jam_is_an_online_whiteboard_for_teams_learn_more_link": {
+        "string": "FigJam是一个供团队使用的在线白板。{learnMoreLink}"
     },
-    "universal_insert.approved_from_figma_community": {
-        "string": "Approved from Figma Community"
+    "link_pwd_input.figma_is_a_design_platform_for_teams_learn_more_link": {
+        "string": "Figma是一个供团队使用的设计平台。{learnMoreLink}"
     },
-    "universal_insert.from_community": {
-        "string": "From Community"
+    "link_pwd_input.learn_more": {
+        "string": "了解更多"
     },
-    "universal_insert.go_to_community": {
-        "string": "Go to Community"
+    "link_pwd_input.log_in": {
+        "string": "登录"
     },
-    "universal_insert.all_approved_widgets": {
-        "string": "All approved widgets"
+    "link_pwd_input.password_required": {
+        "string": "需要密码"
     },
-    "universal_insert.all_approved_plugins": {
-        "string": "All approved plugins"
+    "link_pwd_input.please_enter_a_valid_password": {
+        "string": "请输入有效的密码"
     },
-    "universal_insert.all_internal_plugins": {
-        "string": "All internal plugins"
+    "locked_org.description": {
+        "string": "{orgName}的管理员已启动更新。这可能需要一些时间。请稍后再检查，或在更新完成之前使用其他账户工作。"
     },
-    "universal_insert.all_internal_widgets": {
-        "string": "All internal widgets"
+    "locked_org.description_no_org": {
+        "string": "管理员已启动更新。这可能需要一些时间。请稍后再检查，或在更新完成之前使用其他账户工作。"
     },
-    "universal_insert.no_internal_widgets": {
-        "string": "Organization has no internal widgets"
+    "locked_org.description_no_other_accounts": {
+        "string": "{orgName}的管理员已启动更新。这可能需要一些时间。请稍后再检查。"
     },
-    "universal_insert.no_internal_plugins": {
-        "string": "Organization has no internal plugins"
+    "locked_org.description_no_other_accounts_no_org": {
+        "string": "管理员已启动更新。这可能需要一些时间。请稍后再检查。"
     },
-    "universal_insert.organization_has_no_approved_community_widgets": {
-        "string": "Organization has no approved Community widgets"
+    "locked_org.footer": {
+        "string": "找不到其他账户？{addAnotherLink}"
     },
-    "universal_insert.organization_has_no_approved_community_plugins": {
-        "string": "Organization has no approved Community plugins"
+    "locked_org.footer_button": {
+        "string": "在这里添加"
     },
-    "universal_insert.saved_from_community": {
-        "string": "Saved from Community"
+    "locked_org.footer_no_other_accounts": {
+        "string": "要暂时使用其他账户工作吗？{addAnotherLink}"
     },
-    "universal_insert.no_saved_widgets": {
-        "string": "Organization has no saved widgets"
+    "locked_org.footer_no_other_accounts_button": {
+        "string": "在这里登录"
     },
-    "universal_insert.no_saved_plugins": {
-        "string": "Organization has no saved plugins"
+    "locked_org.title": {
+        "string": "更新中"
     },
-    "universal_insert.no_widgets_matching_query_for_allowlist": {
-        "string": "No widgets in {orgName}’s allowlist matching \"{query}\""
+    "locked_team.banner.all_of_this_teams_work_is_currently_view_only": {
+        "string": "目前，此团队的所有工作均为只读模式。当团队解锁后，您将可以再次进行编辑。{learnMoreLink}"
     },
-    "universal_insert.no_widgets_matching_query": {
-        "string": "No widgets matching \"{query}\""
+    "locked_team.banner.all_of_this_teams_work_is_currently_view_only_dev_mode": {
+        "string": "目前，此团队的所有工作均为只读模式。当团队解锁后，您将可以再次使用开发模式。{learnMoreLink}"
     },
-    "universal_insert.no_plugins_matching_query_for_allowlist": {
-        "string": "No plugins in {orgName}’s allowlist matching \"{query}\""
+    "locked_team.banner.learn_more": {
+        "string": "了解更多"
     },
-    "universal_insert.no_plugins_matching_query": {
-        "string": "No plugins matching \"{query}\""
+    "locked_team.banner.reactivate_professional": {
+        "string": "重新激活专业版"
     },
-    "universal_insert.saved": {
-        "string": "Saved"
+    "locked_team.banner.this_board_is_part_of_a_locked_team": {
+        "string": "此白板属于一个已锁定的团队。"
     },
-    "universal_insert.components": {
-        "string": "Components"
+    "locked_team.banner.this_file_is_part_of_a_locked_team": {
+        "string": "此文件属于一个已锁定的团队。"
     },
-    "universal_insert.components_resource_type": {
-        "string": "components"
+    "locked_team.banner.upgrade_to_professional": {
+        "string": "升级到专业版"
     },
-    "community.buyer.payment_for_this_resource_is_moving_over_to_figma": {
-        "string": "Payment for this resource is moving to Figma’s platform"
+    "locked_team.card.change_permissions_from_invite_only": {
+        "string": "将{numInviteOnlyProjects}个项目的权限从“仅限邀请”更改为“知道链接的所有人”"
     },
-    "community.buyer.payment_updates": {
-        "string": "Payment updates"
+    "locked_team.card.change_permissions_from_view_only": {
+        "string": "将{numViewOnlyProjects}个项目的权限从“只读”更改为“编辑”"
     },
-    "community.buyer.seller_switching_to_figma_payment_platform": {
-        "string": "{name} is switching over to Figma’s payment platform. To transition your subscription, update your payment info or add a promo code."
+    "locked_team.card.delete_figjam_boards": {
+        "string": "删除{numFigjamFiles}个FigJam白板"
     },
-    "community.detail_view.edit_rating": {
-        "string": "Edit rating"
+    "locked_team.card.delete_figma_design_files": {
+        "string": "删除{numDesignFiles}个Figma设计文件"
     },
-    "community.detail_view.leave_a_rating": {
-        "string": "Leave a rating"
+    "locked_team.card.delete_projects": {
+        "string": "删除{numProjects}个项目"
     },
-    "community.rating_review.not_rated": {
-        "string": "Not rated"
+    "locked_team.card.editor_previously_on_trial_cta": {
+        "string": "升级到专业版"
     },
-    "community.detail_view.ratings": {
-        "string": "{totalRatings, plural, one {{totalRatings} rating} other {{totalRatings} ratings}}"
+    "locked_team.card.editor_previously_on_trial_description": {
+        "string": "专业版试用已结束。删除部分项目以符合入门计划的限制，或升级到专业版以重新启用团队。"
     },
-    "community.star_ratings.you_need_a_community_profile_to_leave_a_rating": {
-        "string": "You need a Community profile to leave a rating."
+    "locked_team.card.editor_previously_paid_cta": {
+        "string": "重新激活专业版"
     },
-    "community.star_ratings.you_can_rate_this_resource_after_purchasing_and_trying": {
-        "string": "You can rate this resource after purchasing and trying."
+    "locked_team.card.editor_previously_paid_description": {
+        "string": "团队已超出入门计划的限制。要解锁团队，请重新激活专业版或删除一些项目。"
     },
-    "community.star_ratings.you_can_rate_this_resource_after_you_try_it_out": {
-        "string": "You can rate this resource after you try it out."
+    "locked_team.card.title": {
+        "string": "团队已锁定"
     },
-    "universal_insert.show_all_saved_widgets": {
-        "string": "Show all saved widgets"
+    "locked_team.card.title_viewer": {
+        "string": "此团队已锁定"
     },
-    "universal_insert.show_all_saved_plugins": {
-        "string": "Show all saved plugins"
+    "locked_team.card.view_only_description": {
+        "string": "由于超出入门计划的限制，此团队已被锁定。如有疑问，请联系管理员。"
     },
-    "universal_insert.browse_more_in_community": {
-        "string": "Browse more in Community"
+    "locked_team.label.tooltip": {
+        "string": "此团队目前已被锁定。"
     },
-    "dev_handoff.inspect_panel.learn_more_plugin_development": {
-        "string": "Learn more about plugin development"
+    "locked_team.label.view_only": {
+        "string": "只读"
     }
 }

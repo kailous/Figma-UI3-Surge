@@ -1,152 +1,152 @@
 {
-    "community.actions.unable_to_add_this_plugin_please_try_again_later": {
-        "string": "Unable to add this plugin. Please try again later."
+    "auth.document_title.sign_up_for_figma": {
+        "string": "注册Figma"
     },
-    "community.actions.unable_to_add_private_plugin": {
-        "string": "Unable to add a private plugin to approved plugins"
+    "auth.email-domain-suggestion-prompt": {
+        "string": "是{domainSuggestion}吗？"
     },
-    "community.actions.unable_to_remove_this_plugin_please_try_again_later": {
-        "string": "Unable to remove this plugin. Please try again later."
+    "auth.email-input-aria-label": {
+        "string": "邮件文本输入"
     },
-    "community.actions.unable_to_add_this_widget_please_try_again_later": {
-        "string": "Unable to add this widget. Please try again later."
+    "auth.email-input-placeholder": {
+        "string": "邮件"
     },
-    "community.actions.unable_to_add_private_widget": {
-        "string": "Unable to add a private widget to approved widgets"
+    "auth.email-only.header": {
+        "string": "登录Figma以继续"
     },
-    "community.actions.unable_to_remove_this_widget_please_try_again_later": {
-        "string": "Unable to remove this widget. Please try again later."
+    "auth.email-only.log-in": {
+        "string": "登录"
     },
-    "community.actions.unable_to_like_this_plugin_error": {
-        "string": "Unable to like this plugin: {error}"
+    "auth.error.account-not-found": {
+        "string": "未找到该账户。要注册吗？"
     },
-    "community.actions.unable_to_like_this_widget_error": {
-        "string": "Unable to like this widget: {error}"
+    "auth.error.enter-two-factor-code-client": {
+        "string": "请输入验证码"
     },
-    "community.actions.unable_to_unlike_this_plugin_error": {
-        "string": "Unable to unlike this plugin: {error}"
+    "auth.error.magic-link-server-validation-error": {
+        "string": "无法验证请求。"
     },
-    "community.actions.unable_to_unlike_this_widget_error": {
-        "string": "Unable to unlike this widget: {error}"
+    "auth.error.wrong_code": {
+        "string": "验证码错误"
     },
-    "resources_tab.create_team_modal.team_creation_loading": {
-        "string": "Creating your team"
+    "auth.extra-info.create-account": {
+        "string": "创建账户"
     },
-    "general.an_error_occurred": {
-        "string": "An error occurred"
+    "auth.extra-info.errors.please-provide-job-function": {
+        "string": "请输入职务"
     },
-    "resources_tab.create_team_modal.modal_title": {
-        "string": "Try out {extensionName}"
+    "auth.extra-info.how-will-you-use": {
+        "string": "您将如何使用Figma"
     },
-    "resources_tab.create_team_modal.content": {
-        "string": "We need to create a space for you outside of {orgName} to try out this extension."
+    "auth.extra-info.job-type-badge.design": {
+        "string": "设计师"
     },
-    "general.continue": {
-        "string": "Continue"
+    "auth.extra-info.job-type-badge.education": {
+        "string": "学生/教育工作者"
     },
-    "community.logged_out.sign_up_modal_widget_header": {
-        "string": "Sign up to get this widget\n(and much more)"
+    "auth.extra-info.job-type-badge.marketing": {
+        "string": "市场人员"
     },
-    "community.logged_out.sign_up_modal_plugin_header": {
-        "string": "Sign up to get this plugin\n(and much more)"
+    "auth.extra-info.job-type-badge.other": {
+        "string": "其他"
     },
-    "community.actions.your_profile_s_primary_email_was_set_to_email": {
-        "string": "Your profile's primary email was set to {email}"
+    "auth.extra-info.job-type-badge.product-management": {
+        "string": "产品经理"
     },
-    "community.actions.email_was_removed_from_your_profile": {
-        "string": "{email} was removed from your profile"
+    "auth.extra-info.job-type-badge.software-development": {
+        "string": "开发人员"
     },
-    "community.actions.new_profile_connection_added": {
-        "string": "New profile connection added!"
+    "auth.extra-info.job-type-badge.user-research": {
+        "string": "用户研究员"
     },
-    "community.actions.failed_to_merge_msg": {
-        "string": "Failed to merge: {msg}"
+    "auth.extra-info.job-type.design": {
+        "string": "设计"
     },
-    "community.publishing.publishing_using_our_payments_api": {
-        "string": "Publishing using our Payments API is temporarily disabled while our team verifies your seller status. Please try publishing again in a few days."
+    "auth.extra-info.job-type.education": {
+        "string": "学生或教师"
     },
-    "community.publishing.verifying_seller_status": {
-        "string": "Verifying seller status"
+    "auth.extra-info.job-type.marketing": {
+        "string": "市场营销"
     },
-    "community.publishing.got_it": {
-        "string": "Got it"
+    "auth.extra-info.job-type.other": {
+        "string": "其他"
     },
-    "google_contacts.no_google_contacts_found.try_using_their_email_instead": {
-        "string": "No Google contacts found. Try using their email instead."
+    "auth.extra-info.job-type.product-management": {
+        "string": "产品管理"
     },
-    "proto.status_messages.a_presentation_needs_to_have_at_least_one_slide": {
-        "string": "A presentation needs to have at least one slide."
+    "auth.extra-info.job-type.software-development": {
+        "string": "软件开发"
     },
-    "proto.status_messages.a_prototype_needs_to_have_at_least_one_frame": {
-        "string": "A prototype needs to have at least one frame."
+    "auth.extra-info.job-type.user-research": {
+        "string": "用户研究"
     },
-    "proto.status_messages.a_prototype_with_connections_needs_a_valid_top_level_frame_as_the_origin": {
-        "string": "A prototype with connections needs a valid top level frame as the origin."
+    "auth.extra-info.subscribe-to-figma-tips-and-updates": {
+        "string": "订阅Figma的提示和更新*"
     },
-    "whiteboard.embed_actions.embed_failed": {
-        "string": "Couldn't create a preview"
+    "auth.extra-info.subscribe-to-figma-tips-and-updates-terms": {
+        "string": "*选中复选框，即表示您同意从Figma接收关于产品、服务和活动的最新信息。您可以随时取消订阅。"
     },
-    "file_browser.file_browser_actions.file_processing_error": {
-        "string": "An error occurred while processing this file."
+    "auth.extra-info.tell-us-about-yourself": {
+        "string": "告诉我们关于您的信息"
     },
-    "flash.dont_have_permission_permanently_delete_files": {
-        "string": "You don't have permission to permanently delete these files."
+    "auth.extra-info.usage-purpose.edu": {
+        "string": "教学或学习"
     },
-    "file_browser.confirm_file_delete_modal.num_files": {
-        "string": "{numFiles, plural, one {{numFiles} file} other {{numFiles} files}}"
+    "auth.extra-info.usage-purpose.personal": {
+        "string": "个人使用"
     },
-    "file_browser.confirm_file_delete_forever_modal.title": {
-        "string": "{numFiles, plural, one {Permanently delete file} other {Permanently delete {numFiles} files}}"
+    "auth.extra-info.usage-purpose.work": {
+        "string": "工作用途"
     },
-    "file_browser.confirm_file_delete_forever_modal.about_to_delete_online": {
-        "string": "{numFiles, plural, one {You're about to delete the file {fileNameText} forever. You won't be able to restore it.} other {You're about to delete {numFilesText} forever. You won't be able to restore them.}}"
+    "auth.extra-info.what-kind-of-work": {
+        "string": "哪种工作？"
     },
-    "file_browser.confirm_file_delete_forever_modal.about_to_delete_offline": {
-        "string": "{numFiles, plural, one {You're about to delete the file {fileNameText} forever. Because it's offline and hasn't been synced, you won't be able to restore it.} other {You're about to delete {numFilesText} forever. Because they're offline and haven't been synced, you won't be able to restore them.}}"
+    "auth.extra-info.what-kind-of-work-required": {
+        "string": "职业（必填）"
     },
-    "modal.cancel": {
-        "string": "Cancel"
+    "auth.extra-info.your-name": {
+        "string": "您的名字"
     },
-    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete": {
-        "string": "Permanently delete"
+    "auth.figma-file": {
+        "string": "Figma文件"
     },
-    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete_files": {
-        "string": "{numFiles, plural, one {Permanently delete file} other {Permanently delete files}}"
+    "auth.footer-forgot-password": {
+        "string": "重置密码"
     },
-    "file_browser.confirm_file_trash_modal.description_restore": {
-        "string": "{numFiles, plural, one {People with edit access on this file can restore it later from the {trashText} tab.} other {People with edit access on these files can restore them later in the {trashText} tab.}}"
+    "auth.footer-saml-link": {
+        "string": "使用单点登录"
     },
-    "file_browser.confirm_file_trash_modal.trash_section": {
-        "string": "Trash"
+    "auth.footer-sign-in-switch-form-link": {
+        "string": "创建"
     },
-    "file_browser.confirm_file_delete_modal.description_restore.seat_rename": {
-        "string": "{numFiles, plural, one {People with edit access on this file can restore it later from the {deletedText} section of the {draftsText} tab.} other {People with edit access on these files can restore them later in the {deletedText} section of the {draftsText} tab.}}"
+    "auth.footer-sign-in-switch-form-text": {
+        "string": "没有账户？"
     },
-    "file_browser.confirm_file_delete_modal.deleted_tab": {
-        "string": "Deleted"
+    "auth.footer-sign-up-switch-form-link": {
+        "string": "登录"
     },
-    "file_browser.confirm_file_delete_modal.drafts_tab": {
-        "string": "Drafts"
+    "auth.footer-sign-up-switch-form-text": {
+        "string": "已有账户？"
     },
-    "file_browser.confirm_file_trash_modal.title": {
-        "string": "{numFiles, plural, one {Move file to trash} other {Move {numFiles} files to trash}}"
+    "auth.generic-app-auth-error": {
+        "string": "发生错误。请重试。"
     },
-    "file_browser.confirm_file_delete_modal.title": {
-        "string": "{numFiles, plural, one {Delete file} other {Delete {numFiles} files}}"
+    "auth.generic-go-back-and-try-again": {
+        "string": "返回并重试"
     },
-    "file_browser.confirm_file_trash_modal.confirm_delete_files": {
-        "string": "{numFiles, plural, one {Move file to trash} other {Move files to trash}}"
+    "auth.generic-loading": {
+        "string": "加载中..."
     },
-    "file_browser.confirm_file_delete_modal.confirm_delete_files": {
-        "string": "{numFiles, plural, one {Delete file} other {Delete files}}"
+    "auth.generic-or": {
+        "string": "或"
     },
-    "file_browser.confirm_file_trash_modal.about_to_trash_no_warnings": {
-        "string": "{numFiles, plural, one {You're about to move the file {fileNameText} to trash.} other {You're about to move {numFilesText} to trash.}}"
+    "auth.go-to-browser-to-complete-login": {
+        "string": "请前往浏览器完成登录"
     },
-    "file_browser.confirm_file_delete_modal.about_to_delete_no_warnings": {
-        "string": "{numFiles, plural, one {You're about to delete the file {fileNameText}.} other {You're about to delete {numFilesText}.}}"
+    "auth.google-sso.unable-to-auth": {
+        "string": "无法进行认证"
     },
-    "file_browser.confirm_file_trash_modal.about_to_trash_component_unpublish": {
-        "string": "You're about to move the file {fileNameText} to trash. Any published components will also disappear from your team's libraries."
+    "auth.google-sso.unable-to-get-info": {
+        "string": "无法从Google获取个人信息"
     }
 }

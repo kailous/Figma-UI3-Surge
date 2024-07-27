@@ -1,152 +1,152 @@
 {
-    "permissions.invites_whitelist.the_following_users_were_not_approved_guests_in_org_name_org_please_request_access_for_them": {
-        "string": "{numEmails, plural, one {{listEmails} isn't an approved guest in the {orgName} organization. Ask your admins to give them access so you can invite them.} other {The following people aren't approved guests in the {orgName} organization. Ask your admins to give them access so you can invite them. {listEmails}}}"
+    "fullscreen.toolbar.request.ask_to_edit": {
+        "string": "请求编辑"
     },
-    "permissions.deprovisioned_users.these_users_are_no_longer_in_the_org_name_organization_add_them_again_through_SCIM": {
-        "string": "{numEmails, plural, one {{listEmails} is no longer in the {orgName} organization. To send them an invite, ask your admins to add them again through SCIM.} other {The following people are no longer in the {orgName} organization. To send them an invite, ask your admins to add them again through SCIM. {listEmails}}}"
+    "fullscreen.toolbar.request.request_sent": {
+        "string": "请求已发送"
     },
-    "permissions.org_restricted_invite.these_invites_couldn_t_be_sent_with_org_name.seat_rename": {
-        "string": "{numEmails, plural, one {This invite couldn't be sent: {listEmails}. This file has a setting that doesn't allow people with viewer seats to share outside of the {orgName} organization.} other {These invites couldn't be sent: {listEmails}. This file has a setting that doesn't allow people with viewer seats to share outside of the {orgName} organization.}}"
+    "fullscreen.toolbar.screenreader_notice": {
+        "string": "Figma编辑器目前未针对屏幕阅读器进行优化。请考虑使用更好的屏幕阅读器查看此设计。在这种情况下，请使用键盘快捷键{shortcut}。"
     },
-    "permissions.guests_banned.sharing_with_external_users_is_disabled": {
-        "string": "Sharing with external users is disabled"
+    "fullscreen.toolbar.screenreader_notice_figjam": {
+        "string": "板子的屏幕阅读器支持目前已禁用。要在“辅助功能设置”中启用此设置，请按{quickActionsShortcut}并输入“辅助功能设置”，然后按Enter键。要查看可用的键盘快捷键，请输入{shortcut}。"
     },
-    "permissions.guests_banned.got_it": {
-        "string": "Got it"
+    "fullscreen.toolbar.secondary_toolbar.close": {
+        "string": "关闭"
     },
-    "permissions.invites_require_access.almost_there": {
-        "string": "Almost there…"
+    "fullscreen.toolbar.send_a_reminder": {
+        "string": "发送提醒"
     },
-    "permissions.invites_require_access.got_it": {
-        "string": "Got it"
+    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_files": {
+        "string": "发送提醒给管理员以批准您的请求，以便您可以编辑文件。"
     },
-    "permissions.invite_error_modal.couldn_t_send_invite": {
-        "string": "Couldn't send invite"
+    "fullscreen.toolbar.send_your_admins_a_reminder_to_approve_your_request_so_you_can_edit_this_board": {
+        "string": "发送提醒给管理员以批准您的请求，以便您可以编辑此板子。"
     },
-    "permissions.invites_whitelist.got_it": {
-        "string": "Got it"
+    "fullscreen.toolbar.still_waiting_to_edit": {
+        "string": "还在等待编辑吗？"
     },
-    "permissions.deprovisioned_users.got_it": {
-        "string": "Got it"
+    "fullscreen.toolbar.to_save_this_board_create_an_account": {
+        "string": "要保存此板子，请创建一个账户"
     },
-    "permissions.org_restricted_invite.got_it": {
-        "string": "Got it"
+    "fullscreen.toolbar.we_ve_sent_your_admins_a_reminder_we_ll_let_you_know_as_soon_as_they_respond": {
+        "string": "已向管理员发送提醒，收到回应后会立即通知您。"
     },
-    "permissions.link_password_set_by_current_user": {
-        "string": "You set the password {relativePasswordSetAt}."
+    "fullscreen.toolbar.we_ve_sent_your_request_to_your_admins_we_ll_let_you_know_as_soon_as_they_approve_it": {
+        "string": "已向管理员发送请求，批准后会立即通知您。"
     },
-    "permissions.link_password_set_by_another_user": {
-        "string": "{userHandle} set the password {relativePasswordSetAt}."
+    "fullscreen.toolbar.zoom_menu.pixel_preview": {
+        "string": "像素预览"
     },
-    "permissions.link_password_set_without_user": {
-        "string": "The password was set {relativePasswordSetAt}."
+    "fullscreen.toolbar.zoom_menu.pixel_preview_1x": {
+        "string": "1倍"
     },
-    "permissions.link_password_reset": {
-        "string": "Reset"
+    "fullscreen.toolbar.zoom_menu.pixel_preview_2x": {
+        "string": "2倍"
     },
-    "role_requests.header_text": {
-        "string": "{userName} and {othersText} are asking to {requestType}"
+    "fullscreen.toolbar.zoom_menu.pixel_preview_disabled": {
+        "string": "已禁用"
     },
-    "role_requests.num_pending_requests": {
-        "string": "{numRoleRequests, plural, one {1 other person} other {{numRoleRequests} others}}"
+    "fullscreen.toolbar.zoom_menu.zoom_to_200": {
+        "string": "缩放至200%"
     },
-    "request_row.user_wants_to_request_type": {
-        "string": "{userHandle} wants to {requestType}"
+    "fullscreen.toolbar.zoom_menu.zoom_to_50": {
+        "string": "缩放至50%"
     },
-    "permissions_modal.restricted_figjam_disabled_with_product_name": {
-        "string": "Your account has been restricted on {productName} by an admin."
+    "fullscreen.type_panel.align_bottom": {
+        "string": "下对齐"
     },
-    "permissions_modal.restricted_figjam_disabled": {
-        "string": "Your account has been restricted by an admin."
+    "fullscreen.type_panel.align_center": {
+        "string": "居中对齐"
     },
-    "viewer.accessibilitytree.disabled_placeholder": {
-        "string": "Screenreader support is currently disabled. To enable it, use the Accessibility settings from the Options menu."
+    "fullscreen.type_panel.align_horizontal": {
+        "string": "水平对齐"
     },
-    "permissions.copy_link_button.visual_bell.see_link_settings": {
-        "string": "See link settings"
+    "fullscreen.type_panel.align_left": {
+        "string": "左对齐"
     },
-    "viewer.flows_sidebar.copy_link_to_flow": {
-        "string": "Copy link to flow"
+    "fullscreen.type_panel.align_middle": {
+        "string": "中间对齐"
     },
-    "viewer.menu_bar.open_in_editor": {
-        "string": "Open in editor"
+    "fullscreen.type_panel.align_right": {
+        "string": "右对齐"
     },
-    "proto.header.skip_to_content": {
-        "string": "Skip to content"
+    "fullscreen.type_panel.align_top": {
+        "string": "上对齐"
     },
-    "viewer.menu_bar.accessible_label": {
-        "string": "Prototype controls"
+    "fullscreen.type_panel.align_vertical": {
+        "string": "垂直对齐"
     },
-    "proto.options_dropdown": {
-        "string": "Options dropdown"
+    "fullscreen.type_panel.auto_height": {
+        "string": "自动高度"
     },
-    "viewer.menu_bar.share": {
-        "string": "Share"
+    "fullscreen.type_panel.auto_width": {
+        "string": "自动宽度"
     },
-    "viewer.menu_bar.share_prototype": {
-        "string": "Share prototype"
+    "fullscreen.type_panel.bulleted_list": {
+        "string": "项目符号列表"
     },
-    "viewer.menu_bar.log_in": {
-        "string": "Log in"
+    "fullscreen.type_panel.fixed_size": {
+        "string": "固定大小"
     },
-    "viewer.menu_bar.log_in_or_create_account": {
-        "string": "Log in or create account"
+    "fullscreen.type_panel.font_size": {
+        "string": "字体大小"
     },
-    "proto.file_browser": {
-        "string": "File browser"
+    "fullscreen.type_panel.letter_spacing": {
+        "string": "字间距"
     },
-    "viewer.options.accessible_dom_enabled": {
-        "string": "Now adapting content for screen readers"
+    "fullscreen.type_panel.line_height": {
+        "string": "行高"
     },
-    "viewer.options.accessible_dom_disabled": {
-        "string": "No longer adapting content for screen readers"
+    "fullscreen.type_panel.list_spacing": {
+        "string": "列表间距"
     },
-    "viewer.menu_bar.add_comment": {
-        "string": "Add comment{padding}{shortcut}"
+    "fullscreen.type_panel.no_list": {
+        "string": "无列表"
     },
-    "proto.comment": {
-        "string": "Comment"
+    "fullscreen.type_panel.numbered_list": {
+        "string": "编号列表"
     },
-    "viewer.flows_sidebar.close_sidebar": {
-        "string": "Close sidebar"
+    "fullscreen.type_panel.paragraph_spacing": {
+        "string": "段落间距"
     },
-    "viewer.flows_sidebar.open_sidebar": {
-        "string": "Open sidebar"
+    "fullscreen.type_panel.properties": {
+        "string": "属性"
     },
-    "proto.flows": {
-        "string": "Flows"
+    "fullscreen.type_panel.switch_text_direction": {
+        "string": "切换文本方向"
     },
-    "viewer.menu_bar.exit_full_screen": {
-        "string": "Exit full screen ({shortcut})"
+    "fullscreen.type_panel.text": {
+        "string": "文本"
     },
-    "viewer.menu_bar.enter_full_screen": {
-        "string": "Enter full screen ({shortcut})"
+    "fullscreen.type_panel.type_details": {
+        "string": "类型详情"
     },
-    "viewer.menu_bar.full_screen_is_not_supported_by_this_browser": {
-        "string": "Full screen is not supported by this browser"
+    "fullscreen.type_panel.type_or_choose": {
+        "string": "输入或选择..."
     },
-    "viewer.debug_tools.debug_tools": {
-        "string": "Debug tools"
+    "fullscreen.type_panel.type_settings": {
+        "string": "类型设置"
     },
-    "viewer.debug_tools.toggle_debug_stats": {
-        "string": "Toggle debug stats"
+    "fullscreen.type_panel.typography": {
+        "string": "排版"
     },
-    "viewer.debug_tools.test_fake_web_gl_context_loss": {
-        "string": "Test fake WebGL context loss"
+    "fullscreen.type_panel.update_agent_cta": {
+        "string": "要使用可变字体并启用未来自动更新，请{link}"
     },
-    "viewer.debug_tools.test_real_web_gl_context_loss": {
-        "string": "Test real WebGL context loss"
+    "fullscreen.type_panel.update_your_font_installer": {
+        "string": "更新您的字体安装程序"
     },
-    "viewer.debug_tools.take_spector_snapshot": {
-        "string": "Take Spector.js snapshot"
+    "fullscreen.type_panel.variable_font_axes": {
+        "string": "可变字体轴..."
     },
-    "viewer.debug_tools.clear_tile_caches_and_take_spector_snapshot": {
-        "string": "Clear tile caches and take Spector.js snapshot"
+    "fullscreen.type_settings.basic_tab": {
+        "string": "基础设置"
     },
-    "viewer.debug_tools.render_layer_by_layer": {
-        "string": "Render Layer by Layer"
+    "fullscreen.type_settings.details_tab": {
+        "string": "详细设置"
     },
-    "viewer.debug_tools.toggle_render_tree_printing": {
-        "string": "Toggle Render Tree Printing"
+    "fullscreen.type_settings.variable_tab": {
+        "string": "可变"
     }
 }

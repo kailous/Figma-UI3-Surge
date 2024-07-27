@@ -1,152 +1,152 @@
 {
-    "dev_handoff.inspect_panel.create_first_here": {
-        "string": "Create your first Dev Mode plugin here."
+    "magic_link.remove": {
+        "string": "删除"
     },
-    "dev_handoff.inspect_panel.learn_more_link": {
-        "string": "{learnMoreLink}"
+    "magic_link.rename_layer_suggestion": {
+        "string": "首先给这个图层命名"
     },
-    "dev_handoff.inspect_panel.inspect_plugins_go_here": {
-        "string": "Dev Mode plugins will go here when Dev Mode launches."
+    "magic_link.rename_layers_suggestion": {
+        "string": "首先给这些图层命名"
     },
-    "dev_handoff.inspect_panel.use_desktop_to_develop": {
-        "string": "Use the desktop app to develop a plugin for Dev Mode."
+    "magic_link.running": {
+        "string": "正在运行..."
     },
-    "dev_handoff.inspect_panel.new_plugin": {
-        "string": "New"
+    "magic_link.select_a_set_of_frames": {
+        "string": "请选择一组框架"
     },
-    "community.rating_review.ratings_not_available": {
-        "string": "Ratings not available"
+    "magic_link.select_a_set_of_layers": {
+        "string": "请选择一组图层"
     },
-    "community.rating_review.optional": {
-        "string": "Optional"
+    "magic_link.tlf_selection_too_large": {
+        "string": "选择的框架不能超过10个"
     },
-    "community.star_ratings.i_really_dont_like_it": {
-        "string": "I really don't like it"
+    "manage_memory_modal.imported_components": {
+        "string": "导入的组件"
     },
-    "community.star_ratings.i_dont_like_it": {
-        "string": "I don't like it"
+    "manage_memory_modal.manage_memory_button": {
+        "string": "管理内存"
     },
-    "community.star_ratings.its_okay": {
-        "string": "It's okay"
+    "manage_memory_modal.manage_memory_modal_title": {
+        "string": "管理内存"
     },
-    "community.star_ratings.i_like_it": {
-        "string": "I like it"
+    "manage_memory_modal.page_content": {
+        "string": "页面内容"
     },
-    "community.star_ratings.i_love_it": {
-        "string": "I love it"
+    "manage_memory_modal.show_memory_in_layers_panel": {
+        "string": "在图层面板中显示内存使用情况"
     },
-    "community.detail_view.empty_star": {
-        "string": "Empty star"
+    "manage_memory_modal.show_memory_in_layers_panel_warning": {
+        "string": "显示此信息可能会降低文件速度。"
     },
-    "community.detail_view.full_star": {
-        "string": "Full star"
+    "manage_memory_modal.total_layers": {
+        "string": "图层总数"
     },
-    "community.detail_view.star": {
-        "string": "{starCount} star"
+    "manage_memory_modal.total_memory_used": {
+        "string": "内存总使用量"
     },
-    "community.detail_view.how_reviews_and_ratings_work": {
-        "string": "How reviews and ratings work"
+    "memory_warning_banner.100_of_memory_used": {
+        "string": "内存使用率达到100%"
     },
-    "community.detail_view.to_calculate_ratings": {
-        "string": "To calculate ratings, we take into account every verified customer review. We do not factor in inauthentic reviews into the average rating of a resource. {learnMoreLink}"
+    "memory_warning_banner.this_file_has_run_out_of_browser_memory": {
+        "string": "此文件已耗尽浏览器内存。"
     },
-    "community.detail_view.see_all": {
-        "string": "See all ({ratingCount})"
+    "memory_warning_modal.desktop_app_download_link": {
+        "string": "Figma桌面应用"
     },
-    "community.detail_view.half_star": {
-        "string": "Half star"
+    "memory_warning_modal.help_center": {
+        "string": "帮助中心文章"
     },
-    "universal_insert.request": {
-        "string": "Request"
+    "memory_warning_modal.help_center_resource_and_link": {
+        "string": "有关更多提示，请参阅{helpCenterLink}。"
     },
-    "universal_insert.approval_pending": {
-        "string": "Approval pending"
+    "memory_warning_modal.learn_more": {
+        "string": "了解更多"
     },
-    "universal_insert.request_approval": {
-        "string": "Request approval…"
+    "memory_warning_modal.memory_reduction_tips_break_files": {
+        "string": "将一些页面移动到新文件中，或将大型库拆分为多个小型库。"
     },
-    "figjam_try.onboarding_title": {
-        "string": "Welcome to FigJam!"
+    "memory_warning_modal.memory_reduction_tips_break_files_header": {
+        "string": "将大文件拆分为多个小文件。"
     },
-    "figjam_try.onboarding_subtext": {
-        "string": "Make big plans, dream up big ideas, or get your team together for a jam."
+    "memory_warning_modal.memory_reduction_tips_clean_layers": {
+        "string": "删除不必要的隐藏图层，尤其是在组件内，并减少嵌套图层。"
     },
-    "figjam_try.onboarding_submit": {
-        "string": "Continue"
+    "memory_warning_modal.memory_reduction_tips_clean_layers_header": {
+        "string": "整理图层和组件。"
     },
-    "figjam_try.onboarding_name_validation_error": {
-        "string": "You must enter a name"
+    "memory_warning_modal.memory_reduction_tips_flatten_shapes": {
+        "string": "这将减少图层数量，从而减少内存使用量。"
     },
-    "figjam_try.onboarding_disclaimer": {
-        "string": "By clicking “Continue”, you agree to our {tos} and {privacy_policy}"
+    "memory_warning_modal.memory_reduction_tips_flatten_shapes_header": {
+        "string": "简化复杂的SVG和矢量形状。"
     },
-    "figjam_try.already_have_an_account": {
-        "string": "Already have an account? {log_in}"
+    "memory_warning_modal.memory_reduction_tips_modal_title": {
+        "string": "减少内存使用的提示"
     },
-    "figjam_try.already_have_an_account_log_in": {
-        "string": "Log in"
+    "memory_warning_modal.memory_reduction_tips_trim_components": {
+        "string": "用组件属性替换变体。"
     },
-    "whiteboard.open_sessions.onboarding_title": {
-        "string": "Welcome to"
+    "memory_warning_modal.memory_reduction_tips_trim_components_header": {
+        "string": "减少组件变体数量。"
     },
-    "whiteboard.open_sessions.onboarding_subtext": {
-        "string": "During the session, you can add sticky notes, text, drawings, and more. Have fun!"
+    "memory_warning_modal.old_browser_out_of_memory_modal_content": {
+        "string": "您的工作未丢失，但在减少内存使用量之前，您将无法编辑此文件。"
     },
-    "whiteboard.open_sessions.onboarding_name_validation_error": {
-        "string": "You must enter a name"
+    "memory_warning_modal.old_browser_out_of_memory_modal_content_cta_and_download_desktop": {
+        "string": "要恢复此文件内容，请更新浏览器到最新版本，或尝试在{desktopAppLink}中打开此文件。"
     },
-    "whiteboard.open_sessions.onboarding_disclaimer": {
-        "string": "By clicking “{button_text}”, you agree to our {tos} and {privacy_policy}"
+    "memory_warning_modal.old_browser_out_of_memory_modal_content_cta_and_open_in_desktop": {
+        "string": "要恢复此文件内容，请更新浏览器到最新版本，或在Figma桌面应用中打开此文件。"
     },
-    "whiteboard.open_sessions.already_have_an_account": {
-        "string": "Already have an account? {log_in}"
+    "memory_warning_modal.old_browser_out_of_memory_modal_title": {
+        "string": "此文件已耗尽可用的浏览器内存"
     },
-    "whiteboard.open_sessions.already_have_an_account_log_in": {
-        "string": "Log in"
+    "memory_warning_modal.old_browser_primary_button_cta": {
+        "string": "升级浏览器"
     },
-    "figjam_try.name_input_placeholder": {
-        "string": "Ex. Nathalie"
+    "memory_warning_modal.open_in_desktop": {
+        "string": "在桌面应用中打开"
     },
-    "figjam_try.onboarding_disclaimer_tos": {
-        "string": "TOS"
+    "memory_warning_modal.recovery_mode_button": {
+        "string": "在恢复模式下打开"
     },
-    "figjam_try.onboarding_disclaimer_privacy_policy": {
-        "string": "Privacy Policy"
+    "memory_warning_modal.recovery_mode_modal_content": {
+        "string": "在恢复模式下，您可以使用工具和提示来减少内存使用量，以便继续安全地使用文件。"
     },
-    "whiteboard.open_sessions.onboarding_name_input_placeholder": {
-        "string": "Name"
+    "memory_warning_modal.recovery_mode_modal_out_of_memory": {
+        "string": "此文件已耗尽浏览器内存。您的工作未丢失，但在减少内存使用量之前，您将无法使用此文件。"
     },
-    "whiteboard.open_sessions.onboarding_anonymous_submit": {
-        "string": "Access file"
+    "memory_warning_modal.recovery_mode_modal_title": {
+        "string": "在恢复模式下打开此文件"
     },
-    "whiteboard.open_sessions.onboarding_viewer_submit": {
-        "string": "Continue as {email}"
+    "memory_warning_modal.reload_modal_content": {
+        "string": "此文件已耗尽浏览器内存。请重新加载文件。"
     },
-    "whiteboard.open_sessions.onboarding_disclaimer_access_file": {
-        "string": "Access file"
+    "memory_warning_modal.reload_modal_content_cta": {
+        "string": "如果问题未解决，请请求文件所有者通过将部分内容移至新文件来减少内存使用量。"
     },
-    "whiteboard.open_sessions.onboarding_disclaimer_continue": {
-        "string": "Continue"
+    "memory_warning_modal.reload_modal_title": {
+        "string": "重新加载此文件"
     },
-    "whiteboard.open_sessions.onboarding_disclaimer_tos": {
-        "string": "TOS"
+    "memory_warning_modal.reload_page_button": {
+        "string": "重新加载页面"
     },
-    "whiteboard.open_sessions.onboarding_disclaimer_privacy_policy": {
-        "string": "Privacy Policy"
+    "mobile_download_prompts.email_me": {
+        "string": "给我发邮件"
     },
-    "design_systems.create_style.name": {
-        "string": "Name"
+    "mobile_download_prompts.join_team_conversations": {
+        "string": "下载Figma移动应用程序，无论您身在何处，都可以加入团队对话。扫描二维码开始吧。"
     },
-    "design_systems.create_style.description": {
-        "string": "Description"
+    "mobile_download_prompts.learn_more": {
+        "string": "了解更多"
     },
-    "design_systems.create_style.placeholder_description": {
-        "string": "What's it for?"
+    "mobile_download_prompts.meet_your_team": {
+        "string": "在手机上与团队见面"
     },
-    "design_systems.create_style.placeholder_name_color": {
-        "string": "New color style"
+    "mobile_download_prompts.mobile_interactions": {
+        "string": "在移动设备上进行交互检查"
     },
-    "design_systems.create_style.placeholder_name_text": {
-        "string": "New text style"
+    "mobile_download_prompts.never_miss_a_comment": {
+        "string": "不漏掉任何评论"
     }
 }

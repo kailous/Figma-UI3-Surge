@@ -1,152 +1,152 @@
 {
-    "proto.scroll_panel.position_dropdown.sticky_stop_at_top_edge": {
-        "string": "Sticky (stop at top edge)"
+    "figjam_try.this_file_has_been_saved_to_folder_name": {
+        "string": "已保存到{folder_name}"
     },
-    "proto.scroll_panel.position_dropdown.fixed": {
-        "string": "Fixed"
+    "figjam_try.timed_tooltip_body": {
+        "string": "创建账户后，您可以随时（免费！）保存此看板。"
     },
-    "proto.scroll_panel.position_dropdown.sticky": {
-        "string": "Sticky"
+    "figjam_try.timed_tooltip_cta": {
+        "string": "创建账户"
     },
-    "proto.scroll_panel.overflow_dropdown.no_scrolling": {
-        "string": "No scrolling"
+    "figjam_try.timed_tooltip_headline": {
+        "string": "使用期限剩余24小时"
     },
-    "proto.scroll_panel.overflow_dropdown.horizontal": {
-        "string": "Horizontal"
+    "figjam_try.timer_hours_left": {
+        "string": "剩余时间{hoursLeft, plural, other {还有{hoursLeft, number, integer}小时}}"
     },
-    "proto.scroll_panel.overflow_dropdown.vertical": {
-        "string": "Vertical"
+    "figjam_try.timer_less_than_ten_minutes_left": {
+        "string": "剩余时间不到10分钟"
     },
-    "proto.scroll_panel.overflow_dropdown.both_directions": {
-        "string": "Both directions"
+    "figjam_try.timer_minutes_left": {
+        "string": "剩余时间{minutesLeft, plural, other {还有{minutesLeft, number, integer}分钟}}"
     },
-    "sites.panel.position_panel.relative": {
-        "string": "Relative"
+    "figjam_try.timer_tooltip_anonymous": {
+        "string": "要保存此看板，请创建账户"
     },
-    "sites.panel.position_panel.absolute": {
-        "string": "Absolute"
+    "figjam_try.timer_tooltip_logged_in": {
+        "string": "此文件将在一天后删除（不过您可以在需要时保存）"
     },
-    "sites.panel.position_panel.fixed": {
-        "string": "Fixed"
+    "figjam_try_v2.after_that_this_board_will_be_deleted": {
+        "string": "之后，此看板将被删除。要省去麻烦，请创建免费账户 ->"
     },
-    "sites.panel.position_panel.sticky": {
-        "string": "Sticky"
+    "figjam_try_v2.claim_file_logged_in": {
+        "string": "请求文件"
     },
-    "sites.panel.interactions_panel.page_load": {
-        "string": "Page load"
+    "figjam_try_v2.logged_in.after_that_this_board_will_be_deleted": {
+        "string": "之后，此看板将被删除。要保存您的作品，请将文件保存到草稿中。"
     },
-    "sites.panel.interactions_panel.this_layer_in_view": {
-        "string": "In view"
+    "figjam_try_v2.timer_hours_left": {
+        "string": "Jam会话还剩{hoursLeft, plural, other {还有{hoursLeft, number, integer}小时}}。"
     },
-    "sites.panel.interactions_panel.other_layer_in_view": {
-        "string": "Other layer in view"
+    "figjam_try_v2.timer_minutes_left": {
+        "string": "Jam会话还剩{minutesLeft, plural, other {还有{minutesLeft, number, integer}分钟}}。"
     },
-    "sites.panel.interactions_panel.scroll_direction": {
-        "string": "Scroll direction"
+    "figjam_try_v2.to_save_your_work_create_free_account": {
+        "string": "要保存您的作品，请创建免费账户。"
     },
-    "fullscreen.toolbar.to_save_this_board_create_an_account": {
-        "string": "To save this board, create an account"
+    "account_switcher.change_photo": {
+        "string": "更改照片"
     },
-    "org_user_actions.an_error_occurred_while_fetching_member_counts": {
-        "string": "An error occurred while fetching member counts."
+    "account_switcher.view_community_profile": {
+        "string": "查看社区档案"
     },
-    "community.plugins.cancel_review": {
-        "string": "Cancel review"
+    "account_switcher.view_profile": {
+        "string": "查看档案"
     },
-    "community.plugins.edit_resource_details.widget": {
-        "string": "Edit widget details"
+    "beta": {
+        "string": "测试版"
     },
-    "community.plugins.edit_resource_details.plugin": {
-        "string": "Edit plugin details"
+    "breadcrumbs.private_workspace_ellipses": {
+        "string": "..."
     },
-    "universal_insert.missing_manifest": {
-        "string": "Missing manifest · "
+    "breadcrumbs.unassigned_license_group": {
+        "string": "其他团队"
     },
-    "universal_insert.locate": {
-        "string": "Locate"
+    "change_payment.cancel": {
+        "string": "取消"
     },
-    "universal_insert.manifest_error": {
-        "string": "Manifest error · "
+    "change_payment.close_window": {
+        "string": "关闭窗口"
     },
-    "universal_insert.manage_permissions": {
-        "string": "Manage permissions"
+    "change_payment.enter_credit_or_debit_card": {
+        "string": "输入信用卡或借记卡"
     },
-    "universal_insert.remove_local_version": {
-        "string": "Remove local version"
+    "change_payment.enter_payment_method": {
+        "string": "输入付款方式"
     },
-    "universal_insert.remove": {
-        "string": "Remove"
+    "change_payment.name_required_on_card_error": {
+        "string": "请输入卡上的姓名。"
     },
-    "qa.extensions.locate_local_version": {
-        "string": "Locate local version"
+    "change_payment.save": {
+        "string": "保存"
     },
-    "community.actions.an_error_occurred_while_searching_for_plugins": {
-        "string": "An error occurred while searching for plugins"
+    "change_payment.success.successfully_reactivated_subscription": {
+        "string": "订阅已成功重新激活。"
     },
-    "community.actions.an_error_occurred_while_searching_for_widgets": {
-        "string": "An error occurred while searching for widgets"
+    "change_payment.success.successfully_updated_your_payment_method": {
+        "string": "付款方式已成功更新。"
     },
-    "universal_insert.plugin_not_in_allowlist": {
-        "string": "This plugin is not allowed by your organization"
+    "change_payment.update_payment_details": {
+        "string": "更新付款详情"
     },
-    "whiteboard.inserts.insert_template_failed_v2": {
-        "string": "Couldn’t add template—it may have been deleted or moved."
+    "change_payment.update_payment_details_description": {
+        "string": "更新您的付款方式和地址。此信息将用于Figma订阅的账单。"
     },
-    "pro_cart.review.edit_details.team_name_label": {
-        "string": "Team name"
+    "change_payment.use_this_card": {
+        "string": "使用此卡"
     },
-    "pro_cart.review.edit_details.team_name_description": {
-        "string": "This name appears in the file browser, in emails from Figma, and more. "
+    "change_vat_gst_id.description": {
+        "string": "如果您以公司名义支付Figma计划费用，请输入完整的增值税（VAT）或商品及服务税（GST）识别号。这将有助于确保账单的准确性。"
     },
-    "pro_cart.review.edit_details.company_name_label": {
-        "string": "Company name"
+    "change_vat_gst_id.input_id": {
+        "string": "添加识别号"
     },
-    "pro_cart.review.edit_details.company_name_description": {
-        "string": "If you need to use a different name for your team on invoices, add it here."
+    "change_vat_gst_id.save_id": {
+        "string": "保存ID"
     },
-    "pro_cart.review.edit_details.cancel": {
-        "string": "Cancel"
+    "change_vat_gst_id.tax_id_verification_failed": {
+        "string": "无法验证此税号。为确保账单准确，管理员需要重新输入税号。"
     },
-    "pro_cart.review.edit_details.save": {
-        "string": "Save"
+    "change_vat_gst_id.tax_id_verification_succeeded": {
+        "string": "税号已验证，并已添加到账单中。"
     },
-    "update_company_details_modal.update_display_name.error": {
-        "string": "Team display name could not be updated at this time."
+    "confirm_downgrade.at_the_end_of_your_current_billing_period_team_name_will_be_downgraded_to_our_free_starter_plan": {
+        "string": "取消后，在当前账单周期结束时，{teamName}将降级到我们的免费初始计划，日期为{billingEndDate}。"
     },
-    "update_company_details_modal.update_team_name.error": {
-        "string": "Team or team legal name could not be updated at this time."
+    "confirm_downgrade.cancel_professional_plan": {
+        "string": "确认取消？"
     },
-    "community.profiles.your_handle_text": {
-        "string": "Your handle"
+    "confirm_downgrade.finish_cancellation": {
+        "string": "取消计划"
     },
-    "community.publishing.profile_handle_cannot_be_empty": {
-        "string": "{errorStringPrefix} cannot be empty"
+    "confirm_downgrade.go_back": {
+        "string": "返回"
     },
-    "community.profiles.profile_max_15_characters_in_length": {
-        "string": "{errorStringPrefix} can only be up to 15 characters in length"
+    "confirm_downgrade.on_your_next_billing_date_team_name_will_be_downgraded_to_our_free_starter_plan": {
+        "string": "如果选择取消，{teamName}将在下一个账单日降级到我们的免费初始计划。"
     },
-    "community.profiles.profile_cannot_contain_special_characters": {
-        "string": "{errorStringPrefix} cannot contain special characters"
+    "contact_sales.phone_number_optional": {
+        "string": "电话号码（可选）"
     },
-    "community.publishing.cover_image_not_found": {
-        "string": "Cover art image not found"
+    "contact_sales.product.all_products": {
+        "string": "所有产品"
     },
-    "community.publishing.cover_image_requirements": {
-        "string": "Cover art must be a jpeg, png, svg, or gif"
+    "contact_sales.product.design": {
+        "string": "Figma - 设计与原型制作"
     },
-    "community.publishing.cover_image_exceeds_max_size": {
-        "string": "Cover art image exceeds max size of {maxResourceSize}MB"
+    "contact_sales.product.dev_mode": {
+        "string": "开发模式 - 交接与开发"
     },
-    "community.publishing.tags_can_only_contain_certain_characters": {
-        "string": "Tags can only contain letters, numbers, dashes, underscores, or spaces"
+    "contact_sales.product.figjam": {
+        "string": "FigJam - 白板"
     },
-    "community.publishing.tags_must_begin_and_end_with_a_letter_or_number": {
-        "string": "Tags must begin and end with a letter or number"
+    "contact_sales.topic.billing_and_invoicing": {
+        "string": "账单与发票"
     },
-    "community.publishing.tags_can_only_contain_lowercase_characters": {
-        "string": "Tags can only contain lowercase characters"
+    "contact_sales.topic.educators_and_students": {
+        "string": "教育工作者和学生"
     },
-    "community.publishing.tags_can_only_have_up_to_25_characters": {
-        "string": "Tags can only have up to 25 characters"
+    "contact_sales.topic.request_a_sales_demo_or_talk_to_sales": {
+        "string": "请求销售演示或联系销售"
     }
 }

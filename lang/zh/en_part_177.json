@@ -1,152 +1,152 @@
 {
-    "fullscreen.toolbar.zoom_menu.pixel_preview_1x": {
-        "string": "1x"
+    "first_draft.prompts.news_site.label": {
+        "string": "新闻网站"
     },
-    "fullscreen.toolbar.zoom_menu.pixel_preview_2x": {
-        "string": "2x"
+    "first_draft.prompts.news_site.prompt": {
+        "string": "新闻网站的首页"
     },
-    "fullscreen.zoom_menu.zoom_view_options": {
-        "string": "Zoom/view options"
+    "first_draft.prompts.onboarding.label": {
+        "string": "用户引导"
     },
-    "tooltips_plus_onboarding.text_formatting.title": {
-        "string": "Change formatting in the design panel"
+    "first_draft.prompts.onboarding.prompt": {
+        "string": "具有六个选项的用户引导问题"
     },
-    "tooltips_plus_onboarding.text_formatting_ui3.description": {
-        "string": "Use the Typography and Fill sections to change up your text’s font, size, weight, color, and more."
+    "first_draft.prompts.portfolio.label": {
+        "string": "作品集"
     },
-    "tooltips_plus_onboarding.text_formatting.description": {
-        "string": "Use the Text and Fill sections to change up your text’s font, size, weight, color, and more."
+    "first_draft.prompts.portfolio.prompt": {
+        "string": "盆栽师的作品集"
     },
-    "variables.visual_bell.variables_incompatible_modes_needs_updates": {
-        "string": "Some layers need updates before they can use {modeName}."
+    "first_draft.prompts.pricing_page.label": {
+        "string": "价格页面"
     },
-    "variables.modes.option.review_updates": {
-        "string": "Review updates"
+    "first_draft.prompts.pricing_page.prompt": {
+        "string": "SaaS应用的价格页面"
     },
-    "variables.visual_bell.variables_incompatible_modes_no_updates": {
-        "string": "Library assets may need to be republished for {modeName} mode to show."
+    "first_draft.prompts.product_details_shoes.prompt": {
+        "string": "鞋类的产品详情页面"
     },
-    "variables.binding_ui.no_search_results": {
-        "string": "No matches found for this search"
+    "first_draft.prompts.profile.label": {
+        "string": "个人资料"
     },
-    "variables.binding_ui.no_colors_empty_state": {
-        "string": "No colors available"
+    "first_draft.prompts.profile_mobile.prompt": {
+        "string": "社交媒体应用的个人资料，内容是..."
     },
-    "variables.binding_ui.no_variables_empty_state": {
-        "string": "No variables available"
+    "first_draft.prompts.profile_social_media.prompt": {
+        "string": "社交媒体网站的个人资料"
     },
-    "variables.binding_ui.search_placeholder": {
-        "string": "Search"
+    "first_draft.prompts.recipes_mobile.label": {
+        "string": "食谱"
     },
-    "variables.binding_ui.set_labels.local_colors": {
-        "string": "Local colors"
+    "first_draft.prompts.recipes_mobile.prompt": {
+        "string": "烹饪应用，充满健康食谱"
     },
-    "variables.binding_ui.set_labels.local_variables": {
-        "string": "Local variables"
+    "first_draft.prompts.reservations_mobile.label": {
+        "string": "预订"
     },
-    "variables.binding_ui.set_labels.all_libraries": {
-        "string": "All libraries"
+    "first_draft.prompts.reservations_mobile.prompt": {
+        "string": "餐厅预订应用"
     },
-    "variables.binding_ui.libraries": {
-        "string": "Libraries"
+    "first_draft.prompts.reviews_mobile.label": {
+        "string": "评论"
     },
-    "variables.binding_ui.show_as_grid_tooltip": {
-        "string": "Show as grid"
+    "first_draft.prompts.reviews_mobile.prompt": {
+        "string": "电影评论的移动应用"
     },
-    "variables.binding_ui.show_as_list_tooltip": {
-        "string": "Show as list"
+    "first_draft.prompts.ride_sharing_mobile.label": {
+        "string": "拼车"
     },
-    "variables.scopes.all_properties": {
-        "string": "Show in all supported properties"
+    "first_draft.prompts.ride_sharing_mobile.prompt": {
+        "string": "拼车应用，追踪司机"
     },
-    "variables.scopes.corner_radius": {
-        "string": "Corner radius"
+    "first_draft.prompts.search_results_travel.label": {
+        "string": "搜索结果"
     },
-    "variables.scopes.width_height": {
-        "string": "Width and height"
+    "first_draft.prompts.search_results_travel.prompt": {
+        "string": "旅游网站的搜索结果"
     },
-    "variables.scopes.gap": {
-        "string": "Gap"
+    "first_draft.prompts.settings_mobile.label": {
+        "string": "设置"
     },
-    "variables.scopes.auto_layout": {
-        "string": "(Auto layout)"
+    "first_draft.prompts.settings_mobile.prompt": {
+        "string": "...的设置页面"
     },
-    "variables.scopes.text_content": {
-        "string": "Text content"
+    "first_draft.prompts.shopping.label": {
+        "string": "购物"
     },
-    "variables.scopes.stroke": {
-        "string": "Stroke"
+    "first_draft.prompts.shopping_hifi.prompt": {
+        "string": "高保真音响产品的购物网站"
     },
-    "variables.scopes.layer_opacity": {
-        "string": "Layer opacity"
+    "first_draft.prompts.shopping_mobile.label": {
+        "string": "购物"
     },
-    "variables.scopes.effects": {
-        "string": "Effects"
+    "first_draft.prompts.shopping_mobile.prompt": {
+        "string": "潜水装备购物应用"
     },
-    "variables.scopes.font_weight": {
-        "string": "Font weight"
+    "first_draft.prompts.sign_in_screen.label": {
+        "string": "登录页面"
     },
-    "variables.scopes.font_size": {
-        "string": "Font size"
+    "first_draft.prompts.sign_in_screen.prompt": {
+        "string": "社交应用的登录页面"
     },
-    "variables.scopes.line_height": {
-        "string": "Line height"
+    "first_draft.prompts.social_feed_mobile.label": {
+        "string": "社交动态"
     },
-    "variables.scopes.letter_spacing": {
-        "string": "Letter spacing"
+    "first_draft.prompts.social_feed_mobile.prompt": {
+        "string": "充满照片的社交媒体动态"
     },
-    "variables.scopes.paragraph_spacing": {
-        "string": "Paragraph spacing"
+    "first_draft.prompts.social_feed_text_heavy.label": {
+        "string": "社交动态"
     },
-    "variables.scopes.paragraph_indent": {
-        "string": "Paragraph indent"
+    "first_draft.prompts.social_feed_text_heavy.prompt": {
+        "string": "以文字为主的社交媒体网站"
     },
-    "variables.scopes.all_fills": {
-        "string": "Fill"
+    "first_draft.prompts.sports_mobile.label": {
+        "string": "体育"
     },
-    "variables.scopes.frame_fill": {
-        "string": "Frame"
+    "first_draft.prompts.sports_mobile.prompt": {
+        "string": "显示最新比赛结果的体育应用"
     },
-    "variables.scopes.shape_fill": {
-        "string": "Shape"
+    "first_draft.prompts.subscriptions_mobile.label": {
+        "string": "订阅"
     },
-    "variables.scopes.text_fill": {
-        "string": "Text"
+    "first_draft.prompts.subscriptions_mobile.prompt": {
+        "string": "流媒体应用的订阅页面"
     },
-    "variables.scopes.font_family": {
-        "string": "Font family"
+    "first_draft.prompts.ticketing_app.label": {
+        "string": "购票应用"
     },
-    "variables.scopes.font_weight_or_style": {
-        "string": "Font weight or style"
+    "first_draft.prompts.ticketing_app.prompt": {
+        "string": "机票比较应用"
     },
-    "variables.authoring_modal.title": {
-        "string": "Variables"
+    "first_draft.prompts.to_dos_mobile.label": {
+        "string": "待办事项"
     },
-    "variables.authoring_modal.toggle_sidebar": {
-        "string": "Toggle sidebar"
+    "first_draft.prompts.to_dos_mobile.prompt": {
+        "string": "待办事项应用，列出当天的任务"
     },
-    "locked_team.card.title": {
-        "string": "Your team is locked"
+    "first_draft.prompts.travel_app_mobile.label": {
+        "string": "旅行应用"
     },
-    "locked_team.card.title_viewer": {
-        "string": "This team is locked"
+    "first_draft.prompts.travel_app_mobile.prompt": {
+        "string": "预订酒店和住宿的应用"
     },
-    "locked_team.card.editor_previously_paid_description": {
-        "string": "Your team is over Starter plan limits. To unlock, reactivate your Professional plan or remove some work."
+    "first_draft.prompts.video_page_with_comments.label": {
+        "string": "视频播放器"
     },
-    "locked_team.card.editor_previously_on_trial_description": {
-        "string": "Your Professional trial has ended. Remove some work to meet Starter plan limits, or upgrade to a Professional plan to unlock your team."
+    "first_draft.prompts.video_page_with_comments.prompt": {
+        "string": "视频页面，可以评论"
     },
-    "locked_team.card.view_only_description": {
-        "string": "This team is locked because it’s over Starter plan limits. Reach out to your admin with any questions."
+    "first_draft.prompts.video_player_comments_mobile.label": {
+        "string": "视频播放器"
     },
-    "locked_team.card.editor_previously_paid_cta": {
-        "string": "Reactivate your Professional plan"
+    "first_draft.prompts.video_player_comments_mobile.prompt": {
+        "string": "视频视图，可以评论"
     },
-    "locked_team.card.editor_previously_on_trial_cta": {
-        "string": "Upgrade to a Professional plan"
+    "first_draft.prompts.video_player_streaming.label": {
+        "string": "视频播放器"
     },
-    "locked_team.card.delete_figma_design_files": {
-        "string": "{numDesignFiles, plural, one {Delete {numDesignFiles} Figma Design file} other {Delete {numDesignFiles} Figma Design files}}"
+    "first_draft.prompts.video_player_streaming.prompt": {
+        "string": "适用于流媒体网站的视频播放器"
     }
 }

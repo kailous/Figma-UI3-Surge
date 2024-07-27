@@ -1,152 +1,152 @@
 {
-    "whiteboard.mini_home.starred_section_title": {
-        "string": "Starred"
+    "resources_tab.approved_plugins": {
+        "string": "已批准的插件"
     },
-    "whiteboard.mini_home.starter_files.title": {
-        "string": "Kick off your next FigJam"
+    "resources_tab.approved_plugins.actions.plugin": {
+        "string": "插件"
     },
-    "whiteboard.mini_home.starter_files.description": {
-        "string": "Check out the toolkits that we’ve prepared for your next file."
+    "resources_tab.approved_plugins.actions.settings": {
+        "string": "设置"
     },
-    "whiteboard.mini_home.starter_files.diagramming_101.title": {
-        "string": "Diagramming 101"
+    "resources_tab.approved_plugins.modal.all_plugins": {
+        "string": "Figma社区的所有插件"
     },
-    "whiteboard.mini_home.starter_files.whiteboard_101.title": {
-        "string": "Whiteboard 101"
+    "resources_tab.approved_plugins.modal.allow_for_all_files_and_drafts_in_org_workspaces": {
+        "string": "允许{orgName}所有工作区中的文件和草稿"
     },
-    "whiteboard.mini_home.starter_files.figjam_tips.title": {
-        "string": "FigJam Tips"
+    "resources_tab.approved_plugins.modal.approve": {
+        "string": "批准"
     },
-    "whiteboard.mini_home.file_folder_drafts": {
-        "string": "Drafts"
+    "resources_tab.approved_plugins.modal.approve_plugin": {
+        "string": "批准插件"
     },
-    "whiteboard.editor_file_create_button.back_button_tooltip": {
-        "string": "Back to files"
+    "resources_tab.approved_plugins.modal.approve_widget": {
+        "string": "批准小部件"
     },
-    "whiteboard.editor_file_create_button.back_button_aria_label": {
-        "string": "Editor file create back button"
+    "resources_tab.approved_plugins.modal.approved_plugins_only": {
+        "string": "仅管理员批准的插件"
     },
-    "whiteboard.starter_kit.close": {
-        "string": "Close"
+    "resources_tab.approved_plugins.modal.approve…": {
+        "string": "批准..."
     },
-    "whiteboard.starter_kit.title": {
-        "string": "Ahh, a fresh new file!"
+    "resources_tab.approved_plugins.modal.attribution_multiple_creators": {
+        "string": "由{creator1}和其他人创建"
     },
-    "whiteboard.starter_kit.subtitle": {
-        "string": "Use the ↑↓ keys to pick a starting layout."
+    "resources_tab.approved_plugins.modal.attribution_single_creator": {
+        "string": "由{creator}创建"
     },
-    "whiteboard.starter_kit.options.brainstorm": {
-        "string": "Brainstorm"
+    "resources_tab.approved_plugins.modal.attribution_two_creators": {
+        "string": "由{creator1}和{creator2}创建"
     },
-    "whiteboard.starter_kit.options.agenda": {
-        "string": "Agenda"
+    "resources_tab.approved_plugins.modal.back": {
+        "string": "返回"
     },
-    "whiteboard.starter_kit.options.flow": {
-        "string": "Flowchart"
+    "resources_tab.approved_plugins.modal.cancel": {
+        "string": "取消"
     },
-    "whiteboard.starter_kit.options.bug_bash": {
-        "string": "Bug bash"
+    "resources_tab.approved_plugins.modal.decline": {
+        "string": "不批准"
     },
-    "whiteboard.starter_kit.options.design_crit": {
-        "string": "Design crit"
+    "resources_tab.approved_plugins.modal.default": {
+        "string": "（默认）"
     },
-    "whiteboard.starter_kit.options.user_journey": {
-        "string": "User journey"
+    "resources_tab.approved_plugins.modal.edit_approvals": {
+        "string": "编辑批准"
     },
-    "whiteboard.starter_kit.standup.title": {
-        "string": "Standup"
+    "resources_tab.approved_plugins.modal.failed_to_update_plugin_approval": {
+        "string": "更新插件批准失败"
     },
-    "whiteboard.starter_kit.options.retro": {
-        "string": "Retrospective"
+    "resources_tab.approved_plugins.modal.individual_workspaces_approval_warning": {
+        "string": "有成员请求在草稿文件中使用此插件。批准在个人工作区中使用此插件将使其在草稿中不可用。"
     },
-    "whiteboard.starter_kit.options.templates": {
-        "string": "More templates"
+    "resources_tab.approved_plugins.modal.licenses": {
+        "string": "许可证"
     },
-    "universal_upgrade.select_team.editor_count.seat_rename": {
-        "string": "{editors, plural, one {# seat} other {# seats}}"
+    "resources_tab.approved_plugins.modal.manage_plugin": {
+        "string": "管理插件"
     },
-    "universal_upgrade.select_team.files_per_team_figma_files_used": {
-        "string": "{numFilesUsed} of {numFreeFilesAllowed} Figma files used"
+    "resources_tab.approved_plugins.modal.manage_widget": {
+        "string": "管理小部件"
     },
-    "universal_upgrade.select_team.upgrade": {
-        "string": "Upgrade"
+    "resources_tab.approved_plugins.modal.open_in_community": {
+        "string": "在社区中打开 ->"
     },
-    "flash.redeem_promo.success": {
-        "string": "{teamName} successfully upgraded to the Professional plan"
+    "resources_tab.approved_plugins.modal.org_members_can_use": {
+        "string": "组织成员可用"
     },
-    "flash.redeem_promo.failure": {
-        "string": "Unable to redeem the promo code."
+    "resources_tab.approved_plugins.modal.plugin_approval": {
+        "string": "插件批准"
     },
-    "payments.pro_trial.start_pro_trial_success": {
-        "string": "Success! Welcome to your Professional team trial"
+    "resources_tab.approved_plugins.modal.plugin_approval_removed_for": {
+        "string": "已删除{orgName}的插件批准"
     },
-    "payments.pro_trial.start_pro_trial_error": {
-        "string": "An error occurred while trying to grant this Professional team trial"
+    "resources_tab.approved_plugins.modal.plugin_approved_for": {
+        "string": "已批准{orgName}的插件"
     },
-    "flash.successfully_upgraded_to_a_professional_team": {
-        "string": "Successfully upgraded to a Professional team"
+    "resources_tab.approved_plugins.modal.remove": {
+        "string": "删除"
     },
-    "workspace.you_joined_the_workspace": {
-        "string": "You joined the {groupName} workspace"
+    "resources_tab.approved_plugins.modal.request_plugins": {
+        "string": "允许成员请求插件"
     },
-    "workspace.an_error_occurred_while_submitting_your_workspace_selection": {
-        "string": "An error occurred while submitting your workspace selection"
+    "resources_tab.approved_plugins.modal.requested_by.many": {
+        "string": "{numOthers, plural, other {{requesterName}和其他{numOthers}人请求}}"
     },
-    "workspace.succesfully_updated_default_teams": {
-        "string": "Succesfully updated default teams"
+    "resources_tab.approved_plugins.modal.requested_by.one": {
+        "string": "{requesterName}请求"
     },
-    "workspace.failed_to_update_default_teams_please_try_again": {
-        "string": "Failed to update default teams. Please try again."
+    "resources_tab.approved_plugins.modal.requested_by.two": {
+        "string": "{requesterName1}和{requesterName2}请求"
     },
-    "org_self_serve.review_step.details": {
-        "string": "Details"
+    "resources_tab.approved_plugins.modal.review_plugin": {
+        "string": "查看插件"
     },
-    "org_self_serve.review_step.organization_details": {
-        "string": "Organization details"
+    "resources_tab.approved_plugins.modal.review_widget": {
+        "string": "查看小部件"
     },
-    "org_self_serve.review_step.company_legal_name": {
-        "string": "Company legal name"
+    "resources_tab.approved_plugins.modal.save_changes": {
+        "string": "保存更改"
     },
-    "org_self_serve.review_step.company_name": {
-        "string": "Company name"
+    "resources_tab.approved_plugins.modal.search_workspaces": {
+        "string": "搜索工作区"
     },
-    "org_self_serve.review_step.display_name": {
-        "string": "Display name"
+    "resources_tab.approved_plugins.modal.security": {
+        "string": "安全"
     },
-    "org_self_serve.review_step.company_display_name": {
-        "string": "Company display name"
+    "resources_tab.approved_plugins.modal.show_less": {
+        "string": "显示更少"
     },
-    "org_self_serve.review_step.domain": {
-        "string": "Domain"
+    "resources_tab.approved_plugins.modal.show_more": {
+        "string": "显示更多"
     },
-    "org_self_serve.review_step.teams": {
-        "string": "Teams"
+    "resources_tab.approved_plugins.modal.try_it_out": {
+        "string": "试用"
     },
-    "org_self_serve.review_step.billing_email": {
-        "string": "Billing email"
+    "resources_tab.approved_plugins.modal.try_it_out_ecc_tooltip": {
+        "string": "{orgName}的外部文件访问已禁用。"
     },
-    "org_self_serve.review_step.edit_organization": {
-        "string": "Edit organization"
+    "resources_tab.approved_plugins.modal.user_count": {
+        "string": "{count, plural, other {· {count}个用户}}"
     },
-    "org_self_serve.review_step.billing_address": {
-        "string": "Billing address"
+    "resources_tab.approved_plugins.modal.widget_approval_removed_for": {
+        "string": "已删除{orgName}的小部件批准"
     },
-    "org_self_serve.review_step.shipping_address": {
-        "string": "Shipping address"
+    "resources_tab.approved_plugins.modal.widget_approved_for": {
+        "string": "已批准{orgName}的小部件"
     },
-    "org_self_serve.review_step.edit_payment": {
-        "string": "Edit payment"
+    "resources_tab.approved_plugins.no_plugins.add_plugins_button": {
+        "string": "添加已批准的插件"
     },
-    "pro_cart.review.details": {
-        "string": "Details"
+    "resources_tab.approved_plugins.no_plugins.text": {
+        "string": "组织中尚无已批准的插件。"
     },
-    "pro_cart.review.team_name": {
-        "string": "Team name"
+    "resources_tab.approved_plugins.plugin_approval_banner.go_to_settings_button": {
+        "string": "前往设置"
     },
-    "pro_cart.review.company_name": {
-        "string": "Company name"
+    "resources_tab.approved_plugins.plugin_approval_banner.open_settings": {
+        "string": "打开设置"
     },
-    "pro_cart.review.billing_address": {
-        "string": "Billing address"
+    "resources_tab.approved_plugins.plugin_approval_banner.text": {
+        "string": "要创建已批准的插件列表，请前往设置并启用{settingName}。"
     }
 }

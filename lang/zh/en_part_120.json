@@ -1,152 +1,152 @@
 {
-    "permissions.confirm_guest_invite.external_to_org_warning": {
-        "string": "{numEmails, plural, one {Keep in mind that {emails} is not part of the {orgName} organization. {learnMore}} other {Keep in mind that {emails} are not part of the {orgName} organization. {learnMore}}}"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.exclusion": {
+        "string": "排除"
     },
-    "permissions.confirm_guest_invite.learn_more": {
-        "string": "Learn more"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.hard_light": {
+        "string": "强光"
     },
-    "permissions.confirm_guest_invite.share_externally": {
-        "string": "Share outside of this organization?"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.hue": {
+        "string": "色相"
     },
-    "permissions.confirm_guest_invite.send_invite": {
-        "string": "Send invite"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.lighten": {
+        "string": "变亮"
     },
-    "confirm_reduce_link_access.are_you_sure_you_want_to_change_the_public_link_access_of_this_file_you_ll_no_longer_be_able_to_edit_this_file_or_change_this_back": {
-        "string": "Are you sure you want to change the public link access of this file? You'll no longer be able to edit this file or change this back."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.linear_burn": {
+        "string": "线性加深"
     },
-    "confirm_reduce_link_access.continue": {
-        "string": "Continue"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.linear_dodge": {
+        "string": "线性减淡"
     },
-    "confirm_reduce_link_access.modal_body_text": {
-        "string": "Keep in mind that this file has branches. When you make the main file's sharing settings more restrictive, that change will also apply to all branches in the file."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.luminosity": {
+        "string": "亮度"
     },
-    "confirm_reduce_link_access.learn_more": {
-        "string": "Learn more"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.multiply": {
+        "string": "正片叠底"
     },
-    "confirm_reduce_link_access.change_sharing_settings_for_this_file": {
-        "string": "Change sharing settings for this file?"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.normal": {
+        "string": "正常"
     },
-    "confirm_reduce_link_access.change_settings": {
-        "string": "Change settings"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.overlay": {
+        "string": "叠加"
     },
-    "file_browser.team.you_will_lose_access_to_open_team_warning": {
-        "string": "You’ll lose access to the libraries in {teamName}, but will still be able to preview projects and files."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.pass_through": {
+        "string": "通过"
     },
-    "file_browser.team.you_will_lose_access_to_close_secret_team_warning": {
-        "string": "You’ll lose access to the projects, files, and libraries in {teamName}"
+    "fullscreen.properties_panel.color_picker.blend_mode_select.saturation": {
+        "string": "饱和度"
     },
-    "file_browser.team.permanently_lose_all_access_to_team_warning": {
-        "string": "You will permanently lose all access to drafts, projects, and files in this team. This action cannot be undone."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.screen": {
+        "string": "滤色"
     },
-    "file_browser.team.move_files_out_of_team": {
-        "string": "Move files belonging to you out of this team before leaving."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.soft_light": {
+        "string": "柔光"
     },
-    "file_browser.team.you_are_current_team_owner_assign_new_owner_before_leaving": {
-        "string": "You are currently the owner of {teamName}. Please assign a new owner from the team members list before leaving this team."
+    "fullscreen.properties_panel.color_picker.blend_mode_select.tooltip.blend_mode": {
+        "string": "混合模式"
     },
-    "general.ok": {
-        "string": "Ok"
+    "fullscreen.properties_panel.color_picker.custom": {
+        "string": "自定义"
     },
-    "file_browser.team.cannot_leave_secret_team_as_last_team_member": {
-        "string": "To prevent data becoming inaccessible, you can’t leave a secret team when you are the last member and there are enclosed projects."
+    "fullscreen.properties_panel.color_picker.eyedropper": {
+        "string": "滴管"
     },
-    "file_browser.team.change_access_level_or_move_or_delete_resources_to_leave_team": {
-        "string": "Please change the access level, or move or delete all projects and files if you wish to leave this team."
+    "fullscreen.properties_panel.color_picker.libraries": {
+        "string": "库"
     },
-    "file_browser.team.team_leave_warning_title_hold_up": {
-        "string": "Hold up…"
+    "fullscreen.properties_panel.comment": {
+        "string": "评论"
     },
-    "file_browser.team.team_leave_confirmation_title": {
-        "string": "Leave {teamName}?"
+    "fullscreen.properties_panel.comments": {
+        "string": "评论"
     },
-    "file_browser.team.leave_confirm": {
-        "string": "Leave"
+    "fullscreen.properties_panel.constraints.bottom": {
+        "string": "底部"
     },
-    "file_browser.modal.transfer_ownership_title": {
-        "string": "Transfer ownership"
+    "fullscreen.properties_panel.constraints.center": {
+        "string": "中心"
     },
-    "role_request_row.request_approved_for_user_props_handle_to_edit_file": {
-        "string": "Request approved for user {userHandle} to {requestType} file."
+    "fullscreen.properties_panel.constraints.left": {
+        "string": "左"
     },
-    "role_request_row.request_denied_for_user_props_handle_to_edit_file": {
-        "string": "Request denied for user {userHandle} to {requestType} file."
+    "fullscreen.properties_panel.constraints.left_and_right": {
+        "string": "左右"
     },
-    "role_requests.view": {
-        "string": "view"
+    "fullscreen.properties_panel.constraints.right": {
+        "string": "右"
     },
-    "role_requests.edit": {
-        "string": "edit"
+    "fullscreen.properties_panel.constraints.scale": {
+        "string": "缩放"
     },
-    "fig_feed.invalid_prototype_permission": {
-        "string": "Sharing prototypes to feed requires organization level or public permissions without a password. Please update your file permissions to share this prototype to feed."
+    "fullscreen.properties_panel.constraints.top": {
+        "string": "顶部"
     },
-    "file_permissions_modal.link_copied": {
-        "string": "Link copied!"
+    "fullscreen.properties_panel.constraints.top_and_bottom": {
+        "string": "上下"
     },
-    "file_permissions_modal.share_link": {
-        "string": "Share link"
+    "fullscreen.properties_panel.constraints_panel.constraints": {
+        "string": "约束"
     },
-    "file_permissions_modal.copy_audience_link": {
-        "string": "Copy audience link"
+    "fullscreen.properties_panel.constraints_panel.select.bottom": {
+        "string": "底部"
     },
-    "file_permissions_modal.copy_file_link": {
-        "string": "Copy link"
+    "fullscreen.properties_panel.constraints_panel.select.center": {
+        "string": "中心"
     },
-    "file_permissions_modal.copy_link": {
-        "string": "Copy link"
+    "fullscreen.properties_panel.constraints_panel.select.left": {
+        "string": "左"
     },
-    "file_permissions_modal.advanced_options": {
-        "string": "Advanced options"
+    "fullscreen.properties_panel.constraints_panel.select.left_and_right": {
+        "string": "左右"
     },
-    "file_permissions_modal.allow_viewers_to_copy_share_and_export_from_this_file": {
-        "string": "Allow viewers to copy, share, and export from this file"
+    "fullscreen.properties_panel.constraints_panel.select.right": {
+        "string": "右"
     },
-    "fig_feed.invalid_prototype_permission_warning": {
-        "string": "Prototype feed posts for this file will be inaccessible while permissions are private."
+    "fullscreen.properties_panel.constraints_panel.select.scale": {
+        "string": "缩放"
     },
-    "file_permissions.disable_folder_access.remove_access": {
-        "string": "Remove access"
+    "fullscreen.properties_panel.constraints_panel.select.top": {
+        "string": "顶部"
     },
-    "file_permissions_modal.link_has_been_sent": {
-        "string": "Link has been sent"
+    "fullscreen.properties_panel.constraints_panel.select.top_and_bottom": {
+        "string": "上下"
     },
-    "permissions_modal.share_with_message_too_long_warning": {
-        "string": "Message too long"
+    "fullscreen.properties_panel.constraints_resizing_panel.fill": {
+        "string": "填充"
     },
-    "file_permissions_modal.share_these_slides": {
-        "string": "Share these slides"
+    "fullscreen.properties_panel.constraints_resizing_panel.fill_container": {
+        "string": "填充容器"
     },
-    "viewer.menu_bar.share_presentation": {
-        "string": "Share presentation"
+    "fullscreen.properties_panel.constraints_resizing_panel.fixed": {
+        "string": "固定"
     },
-    "file_permissions_modal.share_to_selection_selection_name": {
-        "string": "Share to selection \"{selectionName}\""
+    "fullscreen.properties_panel.constraints_resizing_panel.fixed_height": {
+        "string": "固定高度"
     },
-    "file_permissions_modal.share_to_selection_no_name": {
-        "string": "Share to selection"
+    "fullscreen.properties_panel.constraints_resizing_panel.fixed_width": {
+        "string": "固定宽度"
     },
-    "file_permissions_modal.share_this_file": {
-        "string": "Share this file"
+    "fullscreen.properties_panel.constraints_resizing_panel.horizontal_resizing": {
+        "string": "水平调整大小"
     },
-    "file_permissions_modal.share_this_board": {
-        "string": "Share this board"
+    "fullscreen.properties_panel.constraints_resizing_panel.hug": {
+        "string": "包裹"
     },
-    "file_permissions_modal.share_this_prototype": {
-        "string": "Share this prototype"
+    "fullscreen.properties_panel.constraints_resizing_panel.hug_contents": {
+        "string": "包裹内容"
     },
-    "file_permissions_modal.share_this_branch": {
-        "string": "Share this branch"
+    "fullscreen.properties_panel.constraints_resizing_panel.vertical_resizing": {
+        "string": "垂直调整大小"
     },
-    "file_permissions_modal.share_in_dev_mode": {
-        "string": "Share in Dev Mode"
+    "fullscreen.properties_panel.contrast": {
+        "string": "对比度"
     },
-    "file_permissions_modal.pending_user_comment_visual_bell_multiple": {
-        "string": "Now, show your new teammates where to look with a comment."
+    "fullscreen.properties_panel.current_page_colors": {
+        "string": "当前页面颜色"
     },
-    "file_permissions_modal.pending_user_comment_visual_bell_singular": {
-        "string": "Now, show {email} where to look with a comment."
+    "fullscreen.properties_panel.design": {
+        "string": "设计"
     },
-    "file_permissions_modal.viewer_permission_changed": {
-        "string": "Viewer permission changed"
+    "fullscreen.properties_panel.diamond": {
+        "string": "菱形"
     }
 }

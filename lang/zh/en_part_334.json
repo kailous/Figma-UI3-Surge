@@ -1,152 +1,152 @@
 {
-    "team_view.upgrade.can_view_files_in_folder_view_roles_count_get_plural_or_singular_folder_edit_roles_count_project": {
-        "string": "{folderViewRolesCount, plural, one {Can view files in 1 project} other {Can view files in {folderViewRolesCount} projects}}"
+    "whiteboard.ai_summary.nudge.subtitle": {
+        "string": "FigJam AIを使って要約しましょう。"
     },
-    "team_view.upgrade.can_view_viewable_file_count_get_plural_or_singular_viewable_file_count_file": {
-        "string": "{viewableFileCount, plural, one {Can view 1 file} other {Can view {viewableFileCount} files}}"
+    "whiteboard.ai_summary.nudge.title": {
+        "string": "付箋がいっぱいになりました。"
     },
-    "team_view.upgrade.can_edit_files_in_folder_edit_roles_count_get_plural_or_singular_folder_edit_roles_count_project": {
-        "string": "{folderEditRolesCount, plural, one {Can edit files in 1 project} other {Can edit files in {folderEditRolesCount} projects}}"
+    "whiteboard.ai_summary.nudge.too_many_tokens": {
+        "string": "選択数を減らしてみてください。"
     },
-    "team_view.upgrade.can_edit_editable_file_count_get_plural_or_singular_editable_file_count_file": {
-        "string": "{editableFileCount, plural, one {Can edit 1 file} other {Can edit {editableFileCount} files}}"
+    "whiteboard.ai_summary.out_of_date_error": {
+        "string": "要約できませんでした。ファイルの再読み込みが必要です。"
     },
-    "team_view.upgrade.can_view_files_in_folder_view_roles_count_get_plural_or_singular_folder_view_roles_count_project": {
-        "string": "{folderViewRolesCount, plural, one {Can view files in 1 project} other {Can view files in {folderViewRolesCount} projects}}"
+    "whiteboard.ai_summary.rate_limit_exceeded_error": {
+        "string": "現在、要約できません。少ししてから、もう一度お試しください"
     },
-    "team_view.settings.see_edit_access": {
-        "string": "See edit access"
+    "whiteboard.clustering.dot_stamp_cluster": {
+        "string": "ドット"
     },
-    "team_view.settings.copy_email": {
-        "string": "Copy email"
+    "whiteboard.clustering.face_stamp_cluster": {
+        "string": "フェイススタンプ"
     },
-    "team_view.settings.invite_to_team": {
-        "string": "Invite to team"
+    "whiteboard.clustering.heart_stamp_cluster": {
+        "string": "ハート"
     },
-    "team_view.settings.resend_invite": {
-        "string": "Resend invite"
+    "whiteboard.clustering.no_stamps_cluster": {
+        "string": "スタンプなし"
     },
-    "team_view.settings.remove": {
-        "string": "Remove"
+    "whiteboard.clustering.other_stamp_cluster": {
+        "string": "その他"
     },
-    "team_view.settings.leave_team": {
-        "string": "Leave team"
+    "whiteboard.clustering.plus_one_stamp_cluster": {
+        "string": "+1"
     },
-    "team_view.settings.pending": {
-        "string": "Pending"
+    "whiteboard.clustering.question_mark_stamp_cluster": {
+        "string": "疑問符"
     },
-    "team_view.team_members_table.menu_paid_status_filter_selection_editor.seat_rename": {
-        "string": "Full"
+    "whiteboard.clustering.star_stamp_cluster": {
+        "string": "星"
     },
-    "team_view.team_members_table.menu_paid_status_filter_selection_viewer": {
-        "string": "Viewers"
+    "whiteboard.clustering.thumbs_down_stamp_cluster": {
+        "string": "サムダウン"
     },
-    "team_view.team_members_table.member_filter_empty_reset_link": {
-        "string": "Reset filters"
+    "whiteboard.clustering.thumbs_up_stamp_cluster": {
+        "string": "サムアップ"
     },
-    "paid_status.editor.seat_rename": {
-        "string": "Full"
+    "whiteboard.organize_menu.onboarding_dismiss_button_text": {
+        "string": "了解"
     },
-    "paid_status.viewer": {
-        "string": "Viewer"
+    "whiteboard.organize_menu.onboarding_text_base": {
+        "string": "こちらから、もう一度{boldText}することができます。"
     },
-    "paid_status.viewer_restricted": {
-        "string": "Viewer-restricted"
+    "whiteboard.organize_menu.onboarding_text_bold_text": {
+        "string": "要約"
     },
-    "team_view.settings.copy_get_plural_or_singular_selected_members_length_email": {
-        "string": "{numEmails, plural, one {Copy email} other {Copy emails}}"
+    "whiteboard.code_blocks.bash": {
+        "string": "Bash"
     },
-    "team_view.settings.you_can_only_remove_limit_users_at_a_time": {
-        "string": "You can only remove {batchLimit} users at a time."
+    "whiteboard.code_blocks.c": {
+        "string": "C++"
     },
-    "team_view.team_members_table.filters.last_active..more_than_7_days_ago": {
-        "string": "More than 7 days ago"
+    "whiteboard.code_blocks.css": {
+        "string": "CSS"
     },
-    "team_view.team_members_table.filters.last_active..more_than_30_days_ago": {
-        "string": "More than 30 days ago"
+    "whiteboard.code_blocks.go": {
+        "string": "Go"
     },
-    "team_view.team_members_table.filters.last_active..more_than_3_months_ago": {
-        "string": "More than 3 months ago"
+    "whiteboard.code_blocks.graph_ql": {
+        "string": "GraphQL"
     },
-    "team_view.team_members_table.filters.permissions.owner": {
-        "string": "Owner"
+    "whiteboard.code_blocks.html": {
+        "string": "HTML"
     },
-    "team_view.team_members_table.filters.permissions.admin": {
-        "string": "Admin"
+    "whiteboard.code_blocks.java_script": {
+        "string": "JavaScript"
     },
-    "team_view.team_members_table.filters.permissions.can_edit": {
-        "string": "Can edit"
+    "whiteboard.code_blocks.json": {
+        "string": "JSON"
     },
-    "team_view.team_members_table.filters.permissions.can_view": {
-        "string": "Can view"
+    "whiteboard.code_blocks.kotlin": {
+        "string": "Kotlin"
     },
-    "team_view.team_members_table.filters.permissions.no_team_permissions": {
-        "string": "No team permissions"
+    "whiteboard.code_blocks.mixed": {
+        "string": "混合"
     },
-    "team_view.folder_upsell.professional_plan": {
-        "string": "Professional plan"
+    "whiteboard.code_blocks.plaintext": {
+        "string": "書式なし"
     },
-    "team_view.folder_upsell.upgrade_to_create_more_projects": {
-        "string": "Upgrade to create more projects"
+    "whiteboard.code_blocks.python": {
+        "string": "Python"
     },
-    "team_view.folder_upsell.get_unlimited_everything": {
-        "string": "Get unlimited everything on the {professionalPlanLink}."
+    "whiteboard.code_blocks.ruby": {
+        "string": "Ruby"
     },
-    "navbar.navbar.browse_as_community_profile": {
-        "string": "Browsing as {activeCommunityProfile}"
+    "whiteboard.code_blocks.rust": {
+        "string": "Rust"
     },
-    "navbar.navbar.browse_as_admin": {
-        "string": "Browse as an admin"
+    "whiteboard.code_blocks.sql": {
+        "string": "SQL"
     },
-    "community.collections.frequently_asked_questions": {
-        "string": "Frequently asked questions"
+    "whiteboard.code_blocks.swift": {
+        "string": "Swift"
     },
-    "community.collections.curated_by": {
-        "string": "Curated by"
+    "whiteboard.code_blocks.type_script": {
+        "string": "TypeScript"
     },
-    "community.collections.unpublished_banner.this_page_is_not_published": {
-        "string": "This collection page is not published."
+    "whiteboard.color_palettes.color_palette_picker.team_palettes": {
+        "string": "{teamName}のパレット"
     },
-    "community.collections.unpublished_banner.only_admins_can_see_this_page": {
-        "string": "Only admins can see this page. To publish this page, use the admin portal"
+    "whiteboard.color_palettes.color_palette_picker.team_palettes_no_name": {
+        "string": "チームのパレット"
     },
-    "community.modal.creator_carousel_nux.add_image_and_video_previews": {
-        "string": "Add image and video previews to your resource pages"
+    "whiteboard.color_palettes.dropdown.manage_palettes": {
+        "string": "パレットを管理"
     },
-    "community.modal.creator_carousel_nux.drive_eyeballs_and_engagement": {
-        "string": "Drive eyeballs and engagement with our new media uploader."
+    "whiteboard.color_palettes.dropdown.new_palette": {
+        "string": "新しいパレット"
     },
-    "community.modal.creator_carousel_nux.update_my_resources": {
-        "string": "Update my resources"
+    "whiteboard.color_palettes.figjam_colors": {
+        "string": "FigJam"
     },
-    "community.detail_view.tags": {
-        "string": "Tags"
+    "whiteboard.color_palettes.make_default_confirmation_modal.confirm_button": {
+        "string": "デフォルトを設定"
     },
-    "community.detail_view.accepted_creator_invite": {
-        "string": "Creator invite accepted!"
+    "whiteboard.color_palettes.make_default_confirmation_modal.description": {
+        "string": "{paletteName}が、チーム{teamName}が作成したFigJamボードのデフォルトのカラーパレットになります。"
     },
-    "community.detail_view.declined_creator_invite": {
-        "string": "Creator invite declined!"
+    "whiteboard.color_palettes.make_default_confirmation_modal.this_palette": {
+        "string": "このパレット"
     },
-    "community.detail_view.you_have_been_added_as_a_creator_of_this_resource": {
-        "string": "You have been added as a creator of this resource."
+    "whiteboard.color_palettes.make_default_confirmation_modal.title": {
+        "string": "デフォルトのパレットとして設定"
     },
-    "community.detail_view.accepted_publisher_invite": {
-        "string": "Publisher invite accepted!"
+    "whiteboard.color_palettes.manage_modal.color_palettes": {
+        "string": "カラーパレット"
     },
-    "community.detail_view.declined_publisher_invite": {
-        "string": "Publisher invite declined!"
+    "whiteboard.color_palettes.manage_modal.create_new_palette": {
+        "string": "パレットを新規作成"
     },
-    "community.detail_view.you_have_been_added_as_a_publisher_of_this_resource": {
-        "string": "You have been added as a publisher of this resource."
+    "whiteboard.color_palettes.manage_modal.default": {
+        "string": "デフォルト"
     },
-    "community.embed.preview_title_long": {
-        "string": "Community resource preview"
+    "whiteboard.color_palettes.manage_modal.manage_your_teams_color_palettes": {
+        "string": "チームのカラーパレットを管理します。"
     },
-    "community.promo.figjam_description_title": {
-        "string": "Made in FigJam"
+    "whiteboard.color_palettes.modal.add_color": {
+        "string": "色を追加"
     },
-    "community.promo.figma_description_title": {
-        "string": "Made in Figma design"
+    "whiteboard.color_palettes.modal.cancel": {
+        "string": "キャンセル"
     }
 }

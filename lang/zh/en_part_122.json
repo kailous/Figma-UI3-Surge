@@ -1,152 +1,152 @@
 {
-    "permissions.copy_link_button.tooltip.members_of_project_can_access": {
-        "string": "Copy link · Members of {folder} can access"
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.org": {
+        "string": "{orgName}使用"
     },
-    "whiteboard.open_sessions.start_open_session": {
-        "string": "Start open session"
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.team": {
+        "string": "{teamName}使用"
     },
-    "whiteboard.open_sessions.remaining_duration": {
-        "string": "{remainingHours, plural, one {Open session ends in {remainingHours} hour and {remainingMinutes} min} other {Open session ends in {remainingHours} hours and {remainingMinutes} min}}"
+    "fullscreen.properties_panel.font_picker.font_set.summer_new": {
+        "string": "夏季新增"
     },
-    "whiteboard.open_sessions.start": {
-        "string": "Start"
+    "fullscreen.properties_panel.font_picker.font_set.summer_updated": {
+        "string": "夏季更新"
     },
-    "whiteboard.open_sessions.end_now": {
-        "string": "End now"
+    "fullscreen.properties_panel.font_picker.font_set.user_installed_fonts": {
+        "string": "用户安装"
     },
-    "whiteboard.open_sessions.share_modal_during_the_session_with_link_and_password": {
-        "string": "Anyone with the link and password can edit the file"
+    "fullscreen.properties_panel.font_picker.font_set.variable_fonts": {
+        "string": "可变字体"
     },
-    "whiteboard.open_sessions.share_modal_during_the_session": {
-        "string": "During the session, anyone with the link can edit the file—even if they don't have an account"
+    "fullscreen.properties_panel.font_picker.new_font_badge": {
+        "string": "新"
     },
-    "whiteboard.open_sessions.share_modal_anyone_with_link_and_password_can_edit": {
-        "string": "Anyone with the link and password can edit—no account required. Sessions end automatically after 24 hours."
+    "fullscreen.properties_panel.font_picker.no_fonts_in_current_set": {
+        "string": "找不到字体"
     },
-    "whiteboard.open_sessions.share_modal_anyone_can_edit": {
-        "string": "Anyone can edit—no account required. Sessions end automatically after 24 hours."
+    "fullscreen.properties_panel.font_picker.no_search_results": {
+        "string": "没有匹配的字体"
     },
-    "file_permissions_modal.google_confirmation_modal.subtext": {
-        "string": "Casting is currently only available to the Series Ones displays. See if your Google Meet device is compatible {link}."
+    "fullscreen.properties_panel.font_picker.no_shared_fonts": {
+        "string": "请上传共享字体以供组织中的所有人使用。"
     },
-    "file_permissions_modal.google_confirmation_modal.here": {
-        "string": "here"
+    "fullscreen.properties_panel.font_picker.no_shared_fonts.cta": {
+        "string": "了解更多"
     },
-    "file_permissions_modal.google_confirmation_modal.subtitle": {
-        "string": "You’re about to start an open session"
+    "fullscreen.properties_panel.font_picker.no_shared_fonts_orgname": {
+        "string": "请上传共享字体以供{orgName}中的所有人使用。"
     },
-    "file_permissions_modal.google_confirmation_modal.description": {
-        "string": "Anyone with the link—or looking at the Google Meet device—will be able to view and edit the file. Open sessions end automatically after 24 hours, but you can end it at any time."
+    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.cta": {
+        "string": "了解"
     },
-    "file_permissions_modal.google_confirmation_modal.confirm_text": {
-        "string": "Start an open session"
+    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.text": {
+        "string": "请管理员升级此计划，以便可以使用共享计划。"
     },
-    "file_permissions_modal.google_confirmation_modal.image_alt_text": {
-        "string": "Google Meet device"
+    "fullscreen.properties_panel.font_picker.org_upsell": {
+        "string": "商业计划允许您与团队共享字体。"
     },
-    "file_permissions_modal.share_as.google_device.enter_code": {
-        "string": "How to cast"
+    "fullscreen.properties_panel.font_picker.org_upsell.cta": {
+        "string": "升级"
     },
-    "file_permissions_modal.share_as.google_device.screenshare_code.description": {
-        "string": "Start a meeting on your device, go to {location}, then enter this code. "
+    "fullscreen.properties_panel.font_picker.search_fonts": {
+        "string": "搜索字体"
     },
-    "file_permissions_modal.share_as.google_device.screenshare_code.location": {
-        "string": "Apps → Figma → Join existing file"
+    "fullscreen.properties_panel.font_picker.title": {
+        "string": "字体"
     },
-    "file_permissions_modal.share_as.google_device.screenshare_code.description_unique_code": {
-        "string": "Each device will need a unique code. Use the {reset} button to generate a new one, or wait 10 minutes."
+    "fullscreen.properties_panel.gif": {
+        "string": "GIF"
     },
-    "file_permissions_modal.share_as.google_device.reset_code": {
-        "string": "Reset"
+    "fullscreen.properties_panel.gif_frame": {
+        "string": "GIF帧"
     },
-    "file_permissions_modal.share_as.google_device.open_session_countdown": {
-        "string": "{remainingHours, plural, one {Open session ends in {remainingHours} hour and {remainingMinutes} min. {end_now}} other {Open session ends in {remainingHours} hours and {remainingMinutes} min. {end_now}}}"
+    "fullscreen.properties_panel.gifs_in_figma_prototypes": {
+        "string": "Figma原型中的GIF"
     },
-    "file_permissions_modal.share_as.google_device.end_now": {
-        "string": "End now"
+    "fullscreen.properties_panel.go_to_style_definition_to_edit": {
+        "string": "前往样式定义进行编辑"
     },
-    "file_permissions_modal.screenshare_to_google_device.error_generating_code": {
-        "string": "We weren't able to generate a code. Use the Reset button to generate a new one."
+    "fullscreen.properties_panel.gradient": {
+        "string": "渐变"
     },
-    "file_permissions_modal.share_as.google_device.open_session_ended": {
-        "string": "Open session ended"
+    "fullscreen.properties_panel.gradient_picker.add_stop": {
+        "string": "添加渐变停止点"
     },
-    "file_permissions_modal.google_screencast_modal.title": {
-        "string": "Screen cast code"
+    "fullscreen.properties_panel.gradient_picker.delete_stop": {
+        "string": "删除渐变停止点"
     },
-    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_without_team_access": {
-        "string": "You’ll invite all members of {folderNameBolded}. Members will get access to this file and will keep any folder permissions they already had.\n\n You can remove {folderNameBolded}’s access to this file at any time."
+    "fullscreen.properties_panel.gradient_picker.rotate_90": {
+        "string": "旋转渐变"
     },
-    "file_permissions.enable_folder_access.folder_name": {
-        "string": "{folderName}"
+    "fullscreen.properties_panel.gradient_picker.stop_position": {
+        "string": "渐变停止位置"
     },
-    "file_permissions.enable_folder_access.youll_invite_all_members_of_folder_with_team_access": {
-        "string": "You’ll invite all members of {folderNameBolded} as well as members of the {teamNameBolded} team (where {folderNameBolded} lives). Members will get access to this file and will keep any folder permissions they already had.\n\n You can remove {folderNameBolded}’s access to this file at any time."
+    "fullscreen.properties_panel.gradient_picker.stops": {
+        "string": "停止点"
     },
-    "file_permissions.enable_folder_access.team_name": {
-        "string": "{teamName}"
+    "fullscreen.properties_panel.highlights": {
+        "string": "高亮"
     },
-    "file_permissions.enable_folder_access.cancel": {
-        "string": "Cancel"
+    "fullscreen.properties_panel.hint_panel.close": {
+        "string": "关闭"
     },
-    "file_permissions.enable_folder_access.give_access": {
-        "string": "Give access"
+    "fullscreen.properties_panel.ignore_overlapping_layers": {
+        "string": "忽略重叠图层"
     },
-    "file_permissions.disable_folder_access.keep_in_mind_that_member_of_the_folder_name_project_may_lose_access": {
-        "string": "Keep in mind that members of the {folderNameBolded} project may lose access to this file. You can give people access again at any time."
+    "fullscreen.properties_panel.image": {
+        "string": "图像"
     },
-    "file_permissions.disable_folder_access.folder_name": {
-        "string": "{folderName}"
+    "fullscreen.properties_panel.image_scale.crop": {
+        "string": "裁剪"
     },
-    "file_permissions.disable_folder_access.cancel": {
-        "string": "Cancel"
+    "fullscreen.properties_panel.image_scale.fill": {
+        "string": "填充"
     },
-    "file_permissions.disable_folder_access.remove": {
-        "string": "Remove"
+    "fullscreen.properties_panel.image_scale.fit": {
+        "string": "适应大小"
     },
-    "file_permissions.enable_folder_access.give_access_to_the_folder": {
-        "string": "Give access to the {folderName} folder"
+    "fullscreen.properties_panel.image_scale.tile": {
+        "string": "平铺"
     },
-    "file_permissions.disable_folder_access.remove_folder_names_access": {
-        "string": "Remove {folderName}'s access"
+    "fullscreen.properties_panel.image_settings.generate_new": {
+        "string": "生成新的"
     },
-    "folder_access_row.num_people": {
-        "string": "{num, plural, one {{num} person} other {{num} people}}"
+    "fullscreen.properties_panel.image_settings.swap_image": {
+        "string": "交换图像"
     },
-    "file_permissions_modal.give_them_access": {
-        "string": "Give them access"
+    "fullscreen.properties_panel.image_settings.upload_new": {
+        "string": "上传新的"
     },
-    "folder_access_row.anyone_in_project_name": {
-        "string": "Anyone in {projectName}"
+    "fullscreen.properties_panel.include_bounding_box": {
+        "string": "包括边界框"
     },
-    "file_permissions_modal.file_name_s_project": {
-        "string": "{fileName}'s Project"
+    "fullscreen.properties_panel.include_id_attribute": {
+        "string": "包括“id”属性"
     },
-    "drafts_move_banner.to_add_editors_first_move_this_file_from_drafts_into_a_project.seat_rename": {
-        "string": "To invite people to edit, move this draft into your projects."
+    "fullscreen.properties_panel.include_the_canvas_or_group_background_in_exports": {
+        "string": "在导出中包括画布或组背景"
     },
-    "drafts_move_banner.move_file": {
-        "string": "Move file"
+    "fullscreen.properties_panel.interactive": {
+        "string": "交互"
     },
-    "drafts_move_banner.move_and_allow_edits": {
-        "string": "Move and allow edits"
+    "fullscreen.properties_panel.linear": {
+        "string": "线性"
     },
-    "branch_info_row.link_sharing_is_disabled_when_the_main_file_is_invite_only": {
-        "string": "Link sharing is disabled when the main file is invite-only."
+    "fullscreen.properties_panel.local_colors": {
+        "string": "本地颜色"
     },
-    "branch_info_row.link_sharing_outside_of_org_name_is_restricted_by_access_level_of_the_main_file": {
-        "string": "Link sharing outside of {orgName} is restricted by access level of the main file."
+    "fullscreen.properties_panel.make_a_picture": {
+        "string": "制作图像"
     },
-    "branch_info_row.link_sharing_is_restricted_by_access_level_of_the_main_file": {
-        "string": "Link sharing is restricted by access level of the main file."
+    "fullscreen.properties_panel.migration_tooltip_learn_more": {
+        "string": "了解更多"
     },
-    "file_audience_row.editors_from_the_main_file_can_also_access": {
-        "string": "Editors from the main file can also access."
+    "fullscreen.properties_panel.orientation.landscape": {
+        "string": "横向"
     },
-    "file_audience_row.viewers_and_editors_from_the_main_file_can_also_access": {
-        "string": "Viewers and editors from the main file can also access."
+    "fullscreen.properties_panel.orientation.portrait": {
+        "string": "纵向"
     },
-    "permissions_modal.file_share_settings.more_minutes": {
-        "string": "{num, plural, one {{num} more minute} other {{num} more minutes}}"
+    "fullscreen.properties_panel.outline_text": {
+        "string": "轮廓文字"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.description": {
-        "string": "Share prototypes without the underlying design file."
+    "community.sinatra.profiles.the_selected_account_is_not_connected_to_this_profile": {
+        "string": "选定的帐户未连接到此配置文件"
     },
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.title": {
-        "string": "Project transfer"
+    "community.sinatra.profiles.this_profile_is_already_public": {
+        "string": "此配置文件已公开"
     },
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.project_transfer.description": {
-        "string": "Transfer your projects to a new person or team."
+    "community.sinatra.profiles.this_user_is_already_the_primary_profile": {
+        "string": "此用户已是主要配置文件"
     },
-    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.title": {
-        "string": "Audio conversations"
+    "community.sinatra.profiles.this_user_is_not_connected_to_this_profile": {
+        "string": "此用户未连接到此配置文件"
     },
-    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.audio_conversations.description": {
-        "string": "Talk about your work directly inside the file."
+    "community.sinatra.profiles.user_does_not_own_either_email": {
+        "string": "用户不拥有任一电子邮件地址"
     },
-    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.title": {
-        "string": "Voting"
+    "community.sinatra.profiles.you_do_not_have_permissions_for_this_profile": {
+        "string": "您没有此配置文件的权限"
     },
-    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.voting.description": {
-        "string": "Help drive alignment in your FigJam boards."
+    "community.sinatra.profiles.you_must_validate_your_email_first": {
+        "string": "您必须先验证您的电子邮件。"
     },
-    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.title": {
-        "string": "Open FigJam sessions"
+    "community.sinatra.promo_codes.email_already_exists": {
+        "string": "此资源中已存在电子邮件。"
     },
-    "help_widget.collective_upsells.fullscreen.card.decision_making_tools.open_figjam_sessions.description": {
-        "string": "Invite anyone to join a board—no login required."
+    "community.sinatra.promo_codes.email_not_valid": {
+        "string": "电子邮件无效。"
     },
-    "help_widget.collective_upsells.fullscreen.panel_tab_header": {
-        "string": "With Professional, you get:"
+    "community.sinatra.promo_codes.not_found": {
+        "string": "找不到促销代码"
     },
-    "help_widget.collective_upsells.fullscreen.content_title": {
-        "string": "Design and build better with:"
+    "community.sinatra.promo_codes.used": {
+        "string": "促销代码已被使用"
     },
-    "help_widget.collective_upsells.fullscreen.upgrade_btn": {
-        "string": "Upgrade to Professional"
+    "community.sinatra.publishers.user_cannot_accept_a_publishing_invite_without_a_public_profile": {
+        "string": "用户没有公开配置文件，不能接受发布邀请"
     },
-    "pro_onboarding.pro_feature_modal.as_a_professional_team_you_get": {
-        "string": "As a Professional team, you get:"
+    "community.sinatra.resource_usage.user_already_used_this_resource": {
+        "string": "用户已使用此资源"
     },
-    "pro_onboarding.pro_feature_modal.got_it": {
-        "string": "Got it"
+    "community.sinatra.resources.feed_price_filter": {
+        "string": "价格应为“所有”或“付费”、“免费”。"
     },
-    "help_widget.collective_upsells.fullscreen.price_title.figma_design": {
-        "string": "Figma Design"
+    "community.sinatra.resources.not_found": {
+        "string": "找不到资源"
     },
-    "help_widget.collective_upsells.fullscreen.price_title.figjam": {
-        "string": "FigJam"
+    "community.sinatra.resources.orgs_cannot_publish_paid_resources": {
+        "string": "组织不能发布付费资源。"
     },
-    "help_widget.collective_upsells.fullscreen.price.disclaimer.seat_rename": {
-        "string": "Monthly rate for each full seat, with annual billing"
+    "community.sinatra.resources.teams_cannot_publish_paid_resources": {
+        "string": "团队不能发布付费资源。"
     },
-    "permissions_modal.file_share_settings.minute_text": {
-        "string": "{num, plural, one {{num} minute} other {{num} minutes}}"
+    "community.sinatra.resources.type_filter": {
+        "string": "类型应为“评论”或“评分”。"
     },
-    "permissions_modal.file_share_settings.hour_text": {
-        "string": "{num, plural, one {{num} hour} other {{num} hours}}"
+    "community.sinatra.search.invalid_search_query_length": {
+        "string": "搜索查询过长"
     },
-    "permissions_modal.file_share_settings.day_text": {
-        "string": "{num, plural, one {{num} day} other {{num} days}}"
+    "community.sinatra.seller.cannot_sell_on_community": {
+        "string": "没有权限在社区出售资源"
     },
-    "permissions_modal.file_share_settings.week_text": {
-        "string": "{num, plural, one {{num} week} other {{num} weeks}}"
+    "community.sinatra.seller.only_accepted_publishers_can_publish_a_paid_resource": {
+        "string": "只有被接受的发布者可以发布付费资源"
     },
-    "permissions_modal.file_share_settings.month_text": {
-        "string": "{num, plural, one {{num} month} other {{num} months}}"
+    "community.sinatra.seller.paid_resource_configurations_cannot_be_updated": {
+        "string": "不能更新付费资源的配置"
     },
-    "file_access_row.expiration.24_hours.timestamp": {
-        "string": "Tomorrow at {time}"
+    "community.sinatra.seller.paid_resources_cannot_be_unpublished": {
+        "string": "目前不能取消发布付费资源。请联系support@figma.com。"
     },
-    "file_access_row.expiration.date.timestamp": {
-        "string": "{date} at {time}"
+    "community.sinatra.seller.paid_resources_cannot_be_updated_to_be_published_privately": {
+        "string": "不能将付费资源更新为私人发布"
     },
-    "file_access_row.expiration.past_org_limit_hours": {
-        "string": "{count, plural, one {Your organization has an expiration limit of {count} hour.} other {Your organization has an expiration limit of {count} hours.}}"
+    "community.sinatra.seller.private_resources_cannot_be_monetized": {
+        "string": "不能将私人资源货币化"
     },
-    "file_access_row.expiration.past_org_limit_days": {
-        "string": "{count, plural, one {Your organization has an expiration limit of {count} day.} other {Your organization has an expiration limit of {count} days.}}"
+    "community.sinatra.setting_already_exists_for_user": {
+        "string": "用户的设置已存在。"
     },
-    "file_permissions_modal.secondary_header.go_back": {
-        "string": "Go back"
+    "community.sinatra.tags.tag_is_invalid_word": {
+        "string": "{tag}是无效词"
     },
-    "fig_feed.discard_draft": {
-        "string": "Discard draft"
+    "design_systems.component_properties.cycle_causes_ref_deletion": {
+        "string": "组件的属性链接被删除。组件不能包含它自己的实例"
     },
-    "fig_feed.youll_lose_your_post_draft": {
-        "string": "You'll lose your post draft and all of its content. Are you sure?"
+    "desktop_open_views.open_in_desktop_from_now_on_modal.visual_bell": {
+        "string": "此后链接将在桌面应用程序中打开"
     },
-    "visual_bell.file_move_folder": {
-        "string": "Moved to {folderName}"
+    "dev_handoff.visual_bell.annotations_removed_count": {
+        "string": "已删除{count}个注释"
     },
-    "rcs.upsell_libraries.click_in_toolbar_to_turn_into_component": {
-        "string": "Select objects and click {svg} in the toolbar to turn them into components"
+    "favorited_resources.require_file_view_access_error": {
+        "string": "您没有查看此文件的权限。"
     },
-    "slides.properties_panel.visual_bell.remove_stack": {
-        "string": "Auto layout removed {secondaryText}"
+    "file_browser.destination_project_invalid": {
+        "string": "目标项目无效"
     },
-    "slides.properties_panel.visual_bell.remove_stack_undo": {
-        "string": "⌘Z to undo"
+    "file_browser.file_browser_actions.favoriting_error": {
+        "string": "将此团队添加到收藏夹时出错"
     },
-    "rcs.upsell_libraries.upsell_libraries.create_component_icon_title": {
-        "string": "Create component button"
+    "file_browser.file_import_view.import_files": {
+        "string": "导入文件"
     },
-    "community.badge.creator_fund": {
-        "string": "Creator Fund"
+    "file_browser.published_file_move_error": {
+        "string": "不能将团队在社区中心发布的文件移出该团队。"
     },
-    "community.detail_view.creator_fund_tooltip": {
-        "string": "Made with the support of a Figma Creator Fund grant."
+    "file_browser.published_file_move_secret_team_error": {
+        "string": "不能将发布在社区中心的文件移入秘密团队。"
     },
-    "community.detail_view.figma_partner_this_creator_is": {
-        "string": "This creator is a Figma Partner."
+    "file_browser.published_monetized_file_move_by_not_owner_error": {
+        "string": "不能将团队在社区中心发布的文件移出该团队。"
     },
-    "community.buyer.subscribed_with_price": {
-        "string": "Subscribed · {priceString}"
+    "file_browser.sinatra.file_unavailable": {
+        "string": "此文件不可用"
     },
-    "community.buyer.subscribed": {
-        "string": "Subscribed"
+    "agenda.default_agenda_item_title": {
+        "string": "议程项目"
     },
-    "community.buyer.purchased": {
-        "string": "Purchased"
+    "collaboration.feedback.compare_changes_affected_label": {
+        "string": "受影响"
     },
-    "community.detail_view.third_party_badge.off_platform": {
-        "string": "Third-party payment"
+    "collaboration.feedback.compare_changes_created_label": {
+        "string": "已创建"
     },
-    "community.buyer.in_app_purchases": {
-        "string": "In-app purchases"
+    "collaboration.feedback.compare_changes_edited_label": {
+        "string": "已编辑"
     },
-    "community.plugins.private_for_your_organization": {
-        "string": "Private for your organization"
+    "fullscreen.android_code_gen.multiple_dropshadows_not_supported": {
+        "string": "警告: 不支持多个投影效果。最后显示的效果将用作提升。"
     },
-    "community.like": {
-        "string": "Like"
+    "fullscreen.android_code_gen.translation_y": {
+        "string": "translationY补偿文本行间距调整"
     },
-    "community.resource.free_trial_days": {
-        "string": "{days}-day free trial"
+    "fullscreen.arc_tool.arc": {
+        "string": "弧"
     },
-    "community.resource.includes_free_trial_days": {
-        "string": "Includes {days}-day free trial"
+    "fullscreen.arc_tool.ratio": {
+        "string": "比率{number}%"
     },
-    "community.try.people_use_this": {
-        "string": "{numPeople, plural, one {Used by {numPeopleStr} person} other {Used by {numPeopleStr} people}}"
+    "fullscreen.arc_tool.start_s": {
+        "string": "起始角{number}°"
     },
-    "community.saves.remove_from_saves": {
-        "string": "Remove from saves"
+    "fullscreen.arc_tool.sweep_s": {
+        "string": "扫过{number}%"
     },
-    "community.saves.save_for_later": {
-        "string": "Save for later"
+    "fullscreen.canvas.add_variant": {
+        "string": "添加变体"
     },
-    "community.saves.save": {
-        "string": "Save"
+    "fullscreen.canvas.auto_layout": {
+        "string": "自动布局"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "resources_tab.libraries.no_libraries_text": {
-        "string": "Your organization does not have any libraries yet."
+    "join_team_batch_flash.as_admin.text": {
+        "string": "{teamCount, plural, other {{teamCount}チームの管理者になりました}}"
     },
-    "resources_tab.libraries.show_all_libraries_button": {
-        "string": "Show all libraries"
+    "join_team_batch_flash.as_owner.text": {
+        "string": "{teamCount, plural, other {{teamCount}チームのオーナーになりました}}"
     },
-    "resources_tab.libraries.couldnt_load_library_information": {
-        "string": "Couldn't load library information. Try again in a few minutes."
+    "join_team_batch_flash.text": {
+        "string": "{teamCount, plural, other {{teamCount}チームのメンバーになりました}}"
     },
-    "resources_tab.libraries.none": {
-        "string": "None"
+    "join_team_flash.as_admin.text": {
+        "string": "{teamName}の管理者になりました"
     },
-    "resources_tab.libraries.search.label_with_ellipsis": {
-        "string": "Search libraries…"
+    "join_team_flash.as_owner.text": {
+        "string": "{teamName}のオーナーになりました"
     },
-    "resources_tab.libraries.filters": {
-        "string": "Filters"
+    "join_team_flash.auto_accept_team_invite_modal": {
+        "string": "{teamName}への{inviteType}アクセス権を取得しました。"
     },
-    "resources_tab.libraries.filters_applied": {
-        "string": "{numActiveFilters, plural, one {{numActiveFilters} filter applied} other {{numActiveFilters} filters applied}}"
+    "join_team_flash.text": {
+        "string": "{teamName}のメンバーになりました"
     },
-    "resources_tab.libraries.clear_all": {
-        "string": "Clear all"
+    "leave_team_modal.post_leave_flash": {
+        "string": "{teamName}チームを脱退しました"
     },
-    "resources_tab.libraries.changing_permissions_warning": {
-        "string": "When you change the library visibility, you'll also change the library's permissions from “{currentPermissions}” to “{resultingPermissions}.”"
+    "team_admin.members_tab.invite_users": {
+        "string": "ユーザーを招待"
     },
-    "resources_tab.libraries.manage_this_library": {
-        "string": "Manage this library"
+    "team_admin_authority_overlay.description": {
+        "string": "管理者として行うすべての変更がチーム全体に適用されます。あなたは、チームを代表して行動する権限があることを表明および保証するものとします。"
     },
-    "resources_tab.libraries.file_has_no_owner": {
-        "string": "File has no owner"
+    "team_admin_authority_overlay.title": {
+        "string": "管理者への注: "
     },
-    "resources_tab.libraries.open_library_file": {
-        "string": "Open library file"
+    "team_delete_modal.cancel_to_delete_team": {
+        "string": "チーム{teamName}を削除するには、まずプロフェッショナルサブスクリプションをキャンセルする必要があります。"
     },
-    "resources_tab.libraries.library_name": {
-        "string": "Library name"
+    "team_delete_modal.days_for_team_deletion_undo": {
+        "string": "{numDays}日間"
     },
-    "resources_tab.libraries.last_published": {
-        "string": "Last published"
+    "team_delete_modal.days_to_undo_deletion": {
+        "string": "メールに送信される指示に従って、この操作を取り消すには{numDays}日かかります。"
     },
-    "resources_tab.libraries.library_owner": {
-        "string": "Library owner"
+    "team_delete_modal.delete_team": {
+        "string": "チームの削除"
     },
-    "resources_tab.libraries.on": {
-        "string": "On"
+    "team_delete_modal.delete_this_props_team_name": {
+        "string": "{teamName}を削除しますか?"
     },
-    "resources_tab.libraries.organization": {
-        "string": "Organization"
+    "team_delete_modal.deleting_last_team_notice": {
+        "string": "{notice}このチームは、お客様の唯一のチームです。削除すると、チームおよびファイルの整理方法のFigmaによる更新の一環として、お客様は自動的に作成された新規のチームに転送されます。"
     },
-    "resources_tab.libraries.workspaces": {
-        "string": "Workspaces"
+    "team_delete_modal.dismiss": {
+        "string": "却下"
     },
-    "resources_tab.libraries.manage_library_for": {
-        "string": "Manage library for {orgOrWorkspaceName}"
+    "team_delete_modal.post_delete_flash": {
+        "string": "{teamName}チームを削除しました"
     },
-    "resources_tab.libraries.use_orgs_setting": {
-        "string": "Use {orgName}'s setting"
+    "team_delete_modal.pro_plan_cancel_modal_header": {
+        "string": "アクションが必要"
     },
-    "resources_tab.libraries.default_modes": {
-        "string": "Manage default modes"
+    "team_delete_modal.proceed_to_cancel": {
+        "string": "キャンセルに進みます..."
     },
-    "resources_tab.libraries.visibility_settings": {
-        "string": "Enable this library by default"
+    "team_delete_modal.starter_pro_warning_confirmation_text": {
+        "string": "これにより、{teamName}チームが完全に削除されます。このチームを削除すると、すべてのユーザーのドラフト、プロジェクト、ファイル、プロトタイプなど、関連するすべてのデータが削除されます。"
     },
-    "resources_tab.libraries.subscription.all_files": {
-        "string": "All files"
+    "team_delete_modal.team_draft_file_count": {
+        "string": "{numDrafts, plural, other {{numDrafts}個のドラフトファイル}}"
     },
-    "resources_tab.libraries.subscription.design_files": {
-        "string": "Design files"
+    "team_delete_modal.team_project_count": {
+        "string": "{numProjects, plural, other {{numProjects}件のプロジェクト}}"
     },
-    "resources_tab.libraries.subscription.figjam_files": {
-        "string": "FigJam boards"
+    "team_delete_modal.team_project_file_count": {
+        "string": "{numFiles, plural, other {{projectCount}内の{numFiles}個のファイル}}"
     },
-    "resources_tab.libraries.subscription.off": {
-        "string": "Off"
+    "team_delete_modal.this_includes": {
+        "string": "これには以下が含まれます："
     },
-    "resources_tab.libraries.subscription.slides_files": {
-        "string": "Slide decks"
+    "team_delete_modal.to_confirm_please_enter_the_name_of_the_team": {
+        "string": "確認するには、チームの名前を入力してください。"
     },
-    "resources_tab.libraries.subscription.custom": {
-        "string": "Custom"
+    "team_delete_modal.warning_confirmation_text": {
+        "string": "これにより、{teamName}チームが完全に削除されます。このチームを削除すると、すべてのユーザーのプロジェクト、ファイル、プロトタイプなど、関連するすべてのデータが削除されます。"
     },
-    "resources_tab.approved_libraries.set_as_approved": {
-        "string": "Set as approved library"
+    "team_delete_modal.warning_note": {
+        "string": "注:"
     },
-    "resources_tab.approved_libraries_toggle.unmark_as_approved_success": {
-        "string": "{libraryName} no longer approved for {resourceName}"
+    "visual_bell.team_billing_contact_updated": {
+        "string": "請求連絡先が更新されました。"
     },
-    "resources_tab.approved_libraries_toggle.unmark_as_approved_error": {
-        "string": "Error unapproving \"{libraryName}\" for {resourceName}"
+    "team_creation_speed_bump.body.best_way_to_organize_team_projects": {
+        "string": "仕事をあちこち置かずに、チームプロジェクトにまとめましょう。"
     },
-    "resources_tab.approved_libraries_toggle.mark_as_approved_success": {
-        "string": "Marked {libraryName} as approved for {resourceName}"
+    "team_creation_speed_bump.body.set_permissions": {
+        "string": "柔軟性のあるプロジェクト権限"
     },
-    "resources_tab.approved_libraries_toggle.mark_as_approved_error": {
-        "string": "Error marking \"{libraryName}\" as approved for {resourceName}"
+    "team_creation_speed_bump.body.unlimited_files": {
+        "string": "ファイルとプロジェクトの数が無制限"
     },
-    "shared_fonts.upload_error_modal.font": {
-        "string": "Font"
+    "team_creation_speed_bump.body.upgrade_a_team": {
+        "string": "チームを次の有料プランにアップグレード:"
     },
-    "shared_fonts.upload_error_modal.error": {
-        "string": "Error"
+    "team_creation_speed_bump.body.viewers_and_commenters": {
+        "string": "閲覧者とコメント投稿者の人数が無制限"
     },
-    "shared_fonts.upload_error_modal.title": {
-        "string": "{unsuccessfulUploads, plural, one {Font upload error} other {Font upload errors}}"
+    "team_creation_speed_bump.footer.checkbox_text": {
+        "string": "今後このメッセージを表示しない"
     },
-    "shared_fonts.upload_error_modal.okay": {
-        "string": "Okay"
+    "team_creation_speed_bump.footer.create_team_button.text": {
+        "string": "チームを作成"
     },
-    "org_settings.workspace_controls.public_link_controls_setting_banned": {
-        "string": "Off"
+    "team_creation_speed_bump.footer.upgrade_button.label": {
+        "string": "プロフェッショナル"
     },
-    "org_settings.workspace_controls.public_link_controls_setting_allowed": {
-        "string": "On"
+    "team_creation_speed_bump.footer.upgrade_button.text": {
+        "string": "無制限のプロジェクトを入手"
     },
-    "org_settings.workspace_controls.edit_custom_settings": {
-        "string": "Edit custom settings"
+    "team_creation_speed_bump.placeholder.team_name": {
+        "string": "{userName}のチーム"
     },
-    "org_settings.workspace_controls.public_link_controls_setting_expiration_required": {
-        "string": "(expiration required)"
+    "team_creation_speed_bump.title": {
+        "string": "より優れたファイル構成をお探しですか?"
     },
-    "org_settings.workspace_controls.public_link_controls_setting_password_and_expiration_required": {
-        "string": "(password and expiration required)"
+    "team_creation_speed_bump.tooltip.set_permissions": {
+        "string": "個別プロジェクトにユーザーを招待したり、プロジェクトを閲覧限定または非公開にしたりできます。"
     },
-    "org_settings.workspace_controls.public_link_controls_setting_password_required": {
-        "string": "(password required)"
+    "team_creation_speed_bump.tooltip.viewers_and_commenters": {
+        "string": "プロフェッショナルプランでは編集者のみ請求されます。ファイルの表示とコメントは引き続き無料です。"
     },
-    "setting_tab.public_sharing.modal.save": {
-        "string": "Save"
+    "team_join_links.cancel": {
+        "string": "キャンセル"
     },
-    "setting_tab.public_sharing.modal.expiration_description": {
-        "string": "Choose how long Figma design links can be accessed externally."
+    "team_join_links.copy_link": {
+        "string": "リンクのコピー"
     },
-    "setting_tab.public_sharing.modal.days": {
-        "string": "Days"
+    "team_join_links.invite_link": {
+        "string": "招待リンク"
     },
-    "setting_tab.public_sharing.modal.hours": {
-        "string": "Hours"
+    "team_join_links.modal_description": {
+        "string": "チームに参加するための古い招待リンクが使用できなくなります。"
     },
-    "setting_tab.public_sharing.modal.days_error": {
-        "string": "Add a number between 1 and 31, without decimals or letters"
+    "team_join_links.reset_invite_links": {
+        "string": "招待リンクのリセット"
     },
-    "setting_tab.public_sharing.modal.hours_error": {
-        "string": "Add a number between 1 and 24, without decimals or letters"
+    "team_join_links.reset_links": {
+        "string": "リンクのリセット"
     },
-    "setting_tab.public_sharing.modal.password_required": {
-        "string": "Require passwords"
+    "team_join_links.share_a_secret_link_people_can_use_to_join_your_team": {
+        "string": "チームに参加するために使用できるシークレットリンクを共有します。"
     }
 }

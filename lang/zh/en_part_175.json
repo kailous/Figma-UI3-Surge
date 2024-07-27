@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizingMinH": {
-        "string": "Vertical resizing + min height"
+    "navbar.settings_dropdown.profile_label": {
+        "string": "个人资料"
     },
-    "fullscreen.properties_panel.transform_panel.height_max": {
-        "string": "Height + max height"
+    "navbar.settings_dropdown.settings": {
+        "string": "设置"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizingMaxH": {
-        "string": "Vertical resizing + max height"
+    "navbar.settings_dropdown.theme": {
+        "string": "主题"
     },
-    "fullscreen.properties_panel.transform_panel.w": {
-        "string": "W"
+    "navbar.workspaces.default_org_workspace_name": {
+        "string": "组织工作区"
     },
-    "fullscreen.properties_panel.transform_panel.width": {
-        "string": "Width"
+    "navbar.workspaces.default_team_workspace_name": {
+        "string": "团队工作区"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizing": {
-        "string": "Horizontal resizing"
+    "navbar.workspaces.default_workspace_name": {
+        "string": "Figma"
     },
-    "fullscreen.properties_panel.transform_panel.width_min_max": {
-        "string": "Width + min/max width"
+    "navbar.workspaces.disabled_by_your_admins": {
+        "string": "已被您的管理员禁用"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizingMinMaxW": {
-        "string": "Horizontal resizing + min/max width"
+    "onboarding.skip": {
+        "string": "跳过"
     },
-    "fullscreen.properties_panel.transform_panel.width_min": {
-        "string": "Width + min width"
+    "onboarding.workspace_step.join": {
+        "string": "加入"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizingMinW": {
-        "string": "Horizontal resizing + min width"
+    "onboarding.workspace_step.subtitle_v2": {
+        "string": "选择{orgName}的工作区。{tipText}：选择您经常与之合作的用户所在的地方。"
     },
-    "fullscreen.properties_panel.transform_panel.width_max": {
-        "string": "Width + max width"
+    "onboarding.workspace_step.tip": {
+        "string": "提示"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_horizontalResizingMaxW": {
-        "string": "Horizontal resizing + max width"
+    "onboarding.workspace_step.title": {
+        "string": "欢迎！"
     },
-    "properties.label.alignment": {
-        "string": "Alignment"
+    "file_migration.updating.title": {
+        "string": "正在更新文件"
     },
-    "fullscreen.type_panel.align_horizontal": {
-        "string": "Horizontal"
+    "file_migration.updating.message": {
+        "string": "此文件正在更新到新的文件格式。此过程需要一些时间。在更新期间，您可以关闭此标签。"
     },
-    "fullscreen.type_panel.align_left": {
-        "string": "Align left"
+    "file_migration.update_needed.copy_paste.title": {
+        "string": "请在粘贴文件前更新"
     },
-    "fullscreen.type_panel.align_center": {
-        "string": "Align center"
+    "file_migration.update_needed.copy_paste.message": {
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再粘贴。"
     },
-    "fullscreen.type_panel.align_right": {
-        "string": "Align right"
+    "file_migration.update_needed.component_import.title": {
+        "string": "请在插入组件前更新文件"
     },
-    "fullscreen.type_panel.align_vertical": {
-        "string": "Vertical"
+    "file_migration.update_needed.component_import.message": {
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入组件。"
     },
-    "fullscreen.type_panel.align_top": {
-        "string": "Align top"
+    "file_migration.update_needed.state_group_import.title": {
+        "string": "请在插入状态组前更新文件"
     },
-    "fullscreen.type_panel.align_middle": {
-        "string": "Align middle"
+    "file_migration.update_needed.state_group_import.message": {
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入状态组。"
     },
-    "fullscreen.type_panel.align_bottom": {
-        "string": "Align bottom"
+    "file_migration.update_needed.style_import.title": {
+        "string": "请在插入样式前更新文件"
     },
-    "qa.extensions.update_payment": {
-        "string": "Update payment"
+    "file_migration.update_needed.style_import.message": {
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入样式。"
     },
-    "qa.extensions.run": {
-        "string": "Run"
+    "file_migration.update_needed.merge.title": {
+        "string": "请在合并操作前更新文件"
     },
-    "qa.extensions.approval_pending": {
-        "string": "Approval pending"
+    "file_migration.update_needed.merge.message": {
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试合并操作。"
     },
-    "qa.extensions.request_approval": {
-        "string": "Request approval"
+    "file_migration.update_needed.template_insertion.title": {
+        "string": "请在插入模板前更新文件"
     },
-    "assets_in_actions.no_results.title": {
-        "string": "No results for \"{query}\""
+    "file_migration.update_needed.template_insertion.message": {
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入模板。"
     },
-    "assets_in_actions.detail_view.components_tab.title": {
-        "string": "Components"
+    "file_migration.update_needed.cancel": {
+        "string": "取消"
     },
-    "assets_in_actions.detail_view.fragments_tab.title": {
-        "string": "Other designs"
+    "file_migration.update_needed.update": {
+        "string": "更新"
     },
-    "assets_in_actions.detail_view.community_tab.title": {
-        "string": "Community"
+    "finish_embed_login_app.close": {
+        "string": "关闭"
     },
-    "assets_in_actions.fragments.fragment_search_sugggestion": {
-        "string": "{boldText} Search for related designs across {orgText}"
+    "finish_embed_login_app.successful_log_in": {
+        "string": "成功登录Figma"
     },
-    "assets_in_actions.fragments.fragment_search_sugggestion_bold_text": {
-        "string": "Still looking?"
+    "finish_embed_login_app.successful_log_out": {
+        "string": "成功登出Figma"
     },
-    "assets_in_actions.fragments.fragment_search_sugggestion_hint": {
-        "string": "See other designs"
+    "finish_embed_login_app.this_window_will_automatically_close_in_seconds": {
+        "string": "此窗口将在{secondsRemaining}秒后自动关闭"
     },
-    "assets_in_actions.error.title": {
-        "string": "Something went wrong"
+    "first_draft.current_file": {
+        "string": "当前文件"
     },
-    "assets_in_actions.error.description": {
-        "string": "An unexpected error occurred"
+    "first_draft.detect_via_prompt": {
+        "string": "通过提示检测"
     },
-    "assets_in_actions.assets_section.title": {
-        "string": "Components"
+    "first_draft.done_theming": {
+        "string": "完成"
     },
-    "assets_in_actions.see_more_button": {
-        "string": "See more"
+    "first_draft.generate": {
+        "string": "生成"
     },
-    "assets_in_actions.fragments_section.title": {
-        "string": "Other designs"
+    "first_draft.kits_loading": {
+        "string": "正在加载工具包..."
     },
-    "asset_suggestions.visual_search_icon_button_tooltip": {
-        "string": "Visual search (AI beta)"
+    "first_draft.library_placeholder": {
+        "string": "库"
     },
-    "qa.extensions.widget": {
-        "string": "Widget"
+    "first_draft.made_by_figma": {
+        "string": "由Figma制作"
     },
-    "qa.extensions.plugin": {
-        "string": "Plugin"
+    "first_draft.make_changes": {
+        "string": "进行更改"
     },
-    "qa.copy_link": {
-        "string": "Copy link"
+    "first_draft.make_changes.i_cant_do_this": {
+        "string": "调整字体、颜色和布局"
     },
-    "qa.extensions.open_in_community": {
-        "string": "Open in Community"
+    "first_draft.make_changes.prompt_labels.add": {
+        "string": "添加..."
     },
-    "qa.filter.all": {
-        "string": "All"
+    "first_draft.make_changes.prompt_labels.change_font": {
+        "string": "更改字体"
     },
-    "qa.filter.plugins": {
-        "string": "Plugins"
+    "first_draft.make_changes.prompt_labels.colors": {
+        "string": "颜色"
     },
-    "qa.filter.widgets": {
-        "string": "Widgets"
+    "first_draft.make_changes.prompt_labels.imagery": {
+        "string": "图像"
     },
-    "qa.filter.from_org_name": {
-        "string": "From {org_name}"
+    "first_draft.make_changes.prompt_labels.replace": {
+        "string": "替换..."
     },
-    "qa.filter.development": {
-        "string": "Development"
+    "first_draft.make_changes.prompt_labels.rewrite": {
+        "string": "重写..."
     },
-    "first_draft.theme_tool.color.mode_picker": {
-        "string": "Appearance"
+    "first_draft.make_changes.prompt_labels.round_corners": {
+        "string": "圆角"
     },
-    "first_draft.theme_panel.radius": {
-        "string": "Radius"
+    "first_draft.make_changes.prompts.add_another_section": {
+        "string": "再添加一个部分。内容是..."
     },
-    "first_draft.theme_panel.spacing": {
-        "string": "Spacing"
+    "first_draft.make_changes.prompts.calming_colors": {
+        "string": "替换为更平静的颜色"
     }
 }

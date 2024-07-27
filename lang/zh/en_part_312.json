@@ -1,152 +1,152 @@
 {
-    "team_join_links.reset_invite_links": {
-        "string": "Reset invite links"
+    "tooltips_plus_onboarding.mouse": {
+        "string": "マウス"
     },
-    "team_join_links.turn_off_invite_links": {
-        "string": "Turn off invite links"
+    "tooltips_plus_onboarding.next": {
+        "string": "次へ"
     },
-    "team_join_links.copy_link": {
-        "string": "Copy link"
+    "tooltips_plus_onboarding.next_take_some_time_to_adjust_your_frames_size": {
+        "string": "次に、フレームのサイズ、角の半径、塗りなどをじっくりと調整してみましょう。"
     },
-    "team_join_links.share_a_secret_link_people_can_use_to_join_your_team": {
-        "string": "Share a secret link people can use to join your team."
+    "tooltips_plus_onboarding.no_nav_frames_description": {
+        "string": "フレームを描画するには、キャンバスの空白部分をクリックしてドラッグします。フレームはデザインのコンテナーであり、UI要素の描画にも使用できます。"
     },
-    "team_join_links.turn_on_invite_links": {
-        "string": "Turn on invite links"
+    "tooltips_plus_onboarding.no_nav_frames_get_started_with_a_frame": {
+        "string": "フレーム入門"
     },
-    "team_join_links.modal_description": {
-        "string": "People will not be able to use the old invite links to join your team."
+    "tooltips_plus_onboarding.outro.description": {
+        "string": "フレーム、テキスト、デザインパネル: これらの基本が身につけば、初めてのプロジェクトを作成することができます。"
     },
-    "team_join_links.cancel": {
-        "string": "Cancel"
+    "tooltips_plus_onboarding.outro.practice_more_btn": {
+        "string": "ここで練習を続ける"
     },
-    "team_join_links.reset_links": {
-        "string": "Reset links"
+    "tooltips_plus_onboarding.outro.start_new_file_btn": {
+        "string": "新しいファイルを開始"
     },
-    "team_join_links.team_invite_link_settings": {
-        "string": "Team invite link settings"
+    "tooltips_plus_onboarding.outro.title": {
+        "string": "準備ができました。"
     },
-    "resource_rename_modal.team.placeholder": {
-        "string": "Enter team name"
+    "tooltips_plus_onboarding.pinch_your_trackpad": {
+        "string": "トラックパッドでピンチしてください"
     },
-    "resource_rename_modal.team.submit": {
-        "string": "Rename team"
+    "tooltips_plus_onboarding.presets_ending_step.description": {
+        "string": "作業時間を短縮したいときや、うまくいかないときは、既製のUIを加えてみましょう。"
     },
-    "search.search_results_for": {
-        "string": "Search results for"
+    "tooltips_plus_onboarding.presets_ending_step.title": {
+        "string": "テンプレートを利用する"
     },
-    "search.search_results": {
-        "string": "Search results"
+    "tooltips_plus_onboarding.presets_frame_step.title": {
+        "string": "または、フレームから始める"
     },
-    "file_browser.tool_bar.trash": {
-        "string": "Trash"
+    "tooltips_plus_onboarding.presets_step.description": {
+        "string": "まずはテンプレートを利用し、そのあとで独自のデザインにしていきます。"
     },
-    "file_browser.tool_bar.deleted": {
-        "string": "Deleted"
+    "tooltips_plus_onboarding.presets_step.title": {
+        "string": "テンプレートを使って短時間でデザインする"
     },
-    "file_browser.tool_bar.drafts_to_move": {
-        "string": "Drafts to move"
+    "tooltips_plus_onboarding.ready_to_design_more": {
+        "string": "さらにデザインしますか?"
     },
-    "file_browser.tool_bar.recents": {
-        "string": "Recents"
+    "tooltips_plus_onboarding.scroll_your_mouse": {
+        "string": "マウスをスクロールします。"
     },
-    "internal_profile.profile": {
-        "string": "Profile"
+    "tooltips_plus_onboarding.space_key": {
+        "string": "スペースキー"
     },
-    "community.duplicate_modal.youre_all_set": {
-        "string": "You’re all set!"
+    "tooltips_plus_onboarding.swipe_your_trackpad_with_two_fingers": {
+        "string": "2本の指でトラックパッドをスワイプしてください"
     },
-    "community.duplicate_modal.youve_verified_your_email_at": {
-        "string": "You’ve verified your email at {userEmail}."
+    "tooltips_plus_onboarding.text_formatting.description": {
+        "string": "テキストのフォント、サイズ、太さ、色、その他を変更するには、[テキスト]セクションと[塗り]セクションを使用します。"
     },
-    "community.duplicate_modal.continue_to_file": {
-        "string": "Continue to file"
+    "tooltips_plus_onboarding.text_formatting.title": {
+        "string": "デザインパネルで書式設定を変更する"
     },
-    "community.signed_out_modal.create_an_account_to_join_the_figma_community": {
-        "string": "Create an account to join the Figma Community"
+    "tooltips_plus_onboarding.text_formatting_ui3.description": {
+        "string": "テキストのフォント、サイズ、太さ、色、その他を変更するには、[タイポグラフィー]セクションと[塗り]セクションを使用します。"
     },
-    "navbar.navbar.community_title": {
-        "string": "Community"
+    "tooltips_plus_onboarding.text_step.description": {
+        "string": "フレーム内をクリックし、文字の入力を開始すると、テキストレイヤーが作成されます。"
     },
-    "team_creation.add_your_collaborators": {
-        "string": "Add your collaborators"
+    "tooltips_plus_onboarding.text_step.title": {
+        "string": "ツールバーを使ってテキストレイヤーを追加する"
     },
-    "team_creation.you_can_update_user_permissions_on_the_team_page_after_setting_up": {
-        "string": "You can update user permissions on the team page after setting up."
+    "tooltips_plus_onboarding.to_move": {
+        "string": "移動先:"
     },
-    "team_creation.add_another": {
-        "string": "Add another"
+    "tooltips_plus_onboarding.to_zoom": {
+        "string": "ズーム先:"
     },
-    "team_creation.continue": {
-        "string": "Continue"
+    "tooltips_plus_onboarding.trackpad": {
+        "string": "トラックパッド"
     },
-    "team_creation.skip_for_now": {
-        "string": "Skip for now"
+    "tooltips_plus_onboarding.ui_kits_ending_step.description": {
+        "string": "作業時間を短縮したいときや、うまくいかないときは、既製のUIを加えてみましょう。"
     },
-    "team_creation.email": {
-        "string": "Email"
+    "tooltips_plus_onboarding.ui_kits_ending_step.title": {
+        "string": "UIキットを利用する"
     },
-    "autosave.notification.action_review": {
-        "string": "Review"
+    "tooltips_plus_onboarding.ui_kits_step.description": {
+        "string": "まずはApple、Google、FigmaのUIキットを利用し、 そのあとで独自のデザインにしていきます。"
     },
-    "autosave.notification.action_open_to_sync": {
-        "string": "Open to sync"
+    "tooltips_plus_onboarding.ui_kits_step.title": {
+        "string": "UIキットを使って短時間でデザインする"
     },
-    "autosave.notification.action_later": {
-        "string": "Later"
+    "tsmer_config.modal.levers_label": {
+        "string": "TSMER levers"
     },
-    "autosave.notification.message.more_than_one_file": {
-        "string": "You have files with unsynced offline changes."
+    "tsmer_config.modal.edit_frame_budget_seconds": {
+        "string": "Edit frame time budget (seconds)"
     },
-    "autosave.notification.message.one_file": {
-        "string": "Changes you made to {fileName} while offline haven't synced yet."
+    "tsmer_config.modal.edit_frame_budget_framebuffer_switches": {
+        "string": "Edit frame buffer switch budget"
     },
-    "edu.almost_done_everything_look_good": {
-        "string": "Almost done! Everything look good?"
+    "tsmer_config.modal.max_edit_frame_time_seconds": {
+        "string": "Max edit frame time"
     },
-    "team_creation.create_a_team_title": {
-        "string": "Create a team"
+    "tsmer_config.modal.reset": {
+        "string": "Reset"
     },
-    "team_creation.access_within_the_organization": {
-        "string": "Access within the organization:"
+    "type_settings.alignment": {
+        "string": "配置"
     },
-    "team_creation.after_creating_a_team_you_can_invite_others_to_join": {
-        "string": "After creating a team, you can invite others to join."
+    "type_settings.auto_height": {
+        "string": "高さの自動調整"
     },
-    "team_creation.create_team_button": {
-        "string": "Create team"
+    "type_settings.auto_width": {
+        "string": "幅の自動調整"
     },
-    "team_creation.team_name_input_placeholder": {
-        "string": "Add a name"
+    "type_settings.bidi_update_desc": {
+        "string": "双方向テキストサポートを利用するには、この選択内容を更新します"
     },
-    "team_creation.missing_team_creation_controls": {
-        "string": "You do not have permission to create a team in the workspace."
+    "type_settings.bidi_update_tooltip": {
+        "string": "FigmaのネイティブRTLサポートを使用するには、古いテキストを更新する必要があります。\n\nプラグインを使用して逆順にしたテキストは、逆方向に表示される可能性があります。"
     },
-    "team_restore.back": {
-        "string": "Back to files"
+    "type_settings.case": {
+        "string": "大/小文字"
     },
-    "team_restore.expired": {
-        "string": "The period to recover your team’s data has expired."
+    "type_settings.case.as_typed": {
+        "string": "入力された文字を使用"
     },
-    "team_restore.questions_contact_support": {
-        "string": "If you have any questions, please contact us at {supportEmail}."
+    "type_settings.case.lowercase": {
+        "string": "小文字にする"
     },
-    "team_restore.confirm_restore": {
-        "string": "Your team’s files, projects, prototypes, and shared components will be available to everyone who previously had access."
+    "type_settings.case.title_case": {
+        "string": "各単語の先頭文字を大文字にする"
     },
-    "team_restore.confirm_restore_deadline": {
-        "string": "You have until {deleteDeadline, date, long} to recover this data."
+    "type_settings.case.uppercase": {
+        "string": "大文字にする"
     },
-    "team_restore.restore": {
-        "string": "Restore team"
+    "type_settings.character_variants": {
+        "string": "異体字"
     },
-    "team_restore.expired_header": {
-        "string": "Oh no! This link has expired."
+    "type_settings.decoration": {
+        "string": "装飾"
     },
-    "team_restore.ineligible": {
-        "string": "This team is not eligible to be restored."
+    "type_settings.decoration.list_spacing": {
+        "string": "リスト間隔"
     },
-    "team_restore.confirm_restore_header": {
-        "string": "Are you sure you want to restore team \"{teamName}\"?"
+    "type_settings.decoration.none": {
+        "string": "なし"
     }
 }

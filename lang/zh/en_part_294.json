@@ -1,152 +1,152 @@
 {
-    "settings_tab.customize_dev_mode": {
-        "string": "Customize Dev Mode. "
+    "slides.onboarding.views.description": {
+        "string": "シフトとピリオド(⇧.)を押してビューを切り替えます。グリッドビューでアウトラインを作成して整理し、スライドビューで細部を作成できます。"
     },
-    "settings_tab.upgrade_to_enterprise_plan_text": {
-        "string": "On an Enterprise plan, you can fine-tune Dev Mode to fit your organization. "
+    "slides.onboarding.views.title": {
+        "string": "俯瞰する"
     },
-    "settings_tab.upgrade_to_enterprise_learn_more_link": {
-        "string": "Learn more"
+    "slides.onboarding.welcome.description": {
+        "string": "オーディエンスを対話に引き込む魅力的なプレゼンテーションを共同で作成するためのスペースです。Figma Slidesは、2025年始めまでのベータ期間は無料です。その後、新しい料金が適用される場合があります。{learn_more}"
     },
-    "settings_tab.pinned_plugins_invalid_url": {
-        "string": "This is not a valid Dev Mode plugin."
+    "slides.onboarding.welcome.org.footer.ai": {
+        "string": "使用を継続すると、Figmaとの他のいかなる合意にかかわらず、Figmaの{services_agreement}に同意したことになります。Figma SlidesのAI機能の使用を選択すると、FigmaのAI{subprocessors}に同意したことになります。"
     },
-    "settings_tab.invalid_url_allowlist": {
-        "string": "This plugin is not in the org allowlist."
+    "slides.onboarding.welcome.org.footer.no_ai": {
+        "string": "使用を継続すると、Figmaとの他のいかなる合意にかかわらず、Figmaの{services_agreement}に同意したことになります。"
     },
-    "settings_tab.pinned_plugins_remove": {
-        "string": "Remove"
+    "slides.onboarding.welcome.primary_cta": {
+        "string": "始める"
     },
-    "settings_tab.pinned_plugins_invalid_url_codegen": {
-        "string": "Codegen plugins cannot be pinned."
+    "slides.onboarding.welcome.secondary_cta": {
+        "string": "ファイルに戻る"
     },
-    "settings_tab.pinned_plugins_add_label": {
-        "string": "Add pinned plugin"
+    "slides.onboarding.welcome.starter.footer": {
+        "string": "Figma SlidesのAI機能の使用を選択すると、FigmaのAI{subprocessors}に同意したことになります。"
     },
-    "settings_tab.plugin_not_enterprise_err": {
-        "string": "Org is not on enterprise plan"
+    "slides.onboarding.welcome.title": {
+        "string": "Figma Slidesにようこそ"
     },
-    "settings_tab.plugin_not_codegen_err": {
-        "string": "Plugin does not support codegen"
+    "slides.onboarding.welcome.title.jp": {
+        "string": "Figma Slides"
     },
-    "settings_tab.plugin_invalid_err": {
-        "string": "Invalid plugin retrieved"
+    "slides.present_summary.visual_bells.canceled_indirectly": {
+        "string": "スライドデッキのオンラインでの作成を停止しました"
     },
-    "settings_tab.codegen_language_label": {
-        "string": "Default code language"
+    "slides.present_summary.visual_bells.complete": {
+        "string": "完了!"
     },
-    "settings_tab.codegen_language_description": {
-        "string": "Choose a default code language for Dev Mode."
+    "slides.present_summary.visual_bells.content_moderation": {
+        "string": "有害の可能性がある結果をブロックしました"
     },
-    "settings_tab.dev_mode_setting_set": {
-        "string": "Set"
+    "slides.present_summary.visual_bells.error_content_limit_exceeded": {
+        "string": "デッキを生成できませんでした。小さいファイルでお試しください。"
     },
-    "settings_tab.plugin_not_autorun_err": {
-        "string": "Plugin cannot be autorun in the inspect panel."
+    "slides.present_summary.visual_bells.error_offline": {
+        "string": "オフラインのようです。この機能を使用するには、再度接続する必要があります"
     },
-    "settings_tab.auto_run_label": {
-        "string": "Auto-run plugin"
+    "slides.present_summary.visual_bells.error_opt_out": {
+        "string": "AI機能は組織でオフになっています"
     },
-    "settings_tab.auto_run_description": {
-        "string": "Set a plugin to run automatically when opening a file."
+    "slides.present_summary.visual_bells.error_rate_limited": {
+        "string": "現在、要約できません。少ししてから、もう一度お試しください"
     },
-    "org_admin_settings.enterprise_installer_modal_copy": {
-        "string": "For users on the Enterprise Plan, Figma provides a machine-wide MSI installer for Windows. This MSI will install Figma in Program Files for all users of a machine, and will not automatically update itself."
+    "slides.present_summary.visual_bells.error_unknown": {
+        "string": "問題が発生しました。もう一度お試しください"
     },
-    "org_admin_settings.enterprise_installer_modal_copy_mac": {
-        "string": "For users on the Enterprise Plan, Figma provides a PKG installer for macOS."
+    "slides.present_summary.visual_bells.error_vendor": {
+        "string": "AI機能は現在利用できません。しばらくしてからお試しください"
     },
-    "org_admin_settings.enterprise_installer_modal_link": {
-        "string": "See our Help Center for more information."
+    "slides.present_summary.visual_bells.loading": {
+        "string": "アウトラインを作成中..."
     },
-    "org_admin_settings.enterprise_installer_modal_release_version": {
-        "string": "Version: {version}"
+    "slides.present_summary.visual_bells.stop": {
+        "string": "停止"
     },
-    "org_admin_settings.enterprise_installer_modal_release_date": {
-        "string": "Released: {releaseDate}"
+    "slides.presenter_view.decrement_font_size": {
+        "string": "フォントサイズを小さくします"
     },
-    "org_admin_settings.enterprise_installer_confirmation": {
-        "string": "Download"
+    "slides.presenter_view.increment_font_size": {
+        "string": "フォントサイズを大きくします"
     },
-    "org_settings.external_collaboration_controls.banner": {
-        "string": "This setting affects people's access to content, so you may want to {let_org_know} before making updates."
+    "slides.presenter_view.modal.presenter_view_requires_desktop_update_modal_confirm_button_label": {
+        "string": "今すぐ更新"
     },
-    "org_settings.external_collaboration_controls.let_org_know": {
-        "string": "let your organization know"
+    "slides.presenter_view.modal.presenter_view_requires_desktop_update_modal_content": {
+        "string": "メモを使用してプレゼンテーションするには、Figmaアプリの最新バージョンが必要です。更新は1分ほどで終わります。"
     },
-    "org_settings.external_collaboration_controls.list_header_setting_on": {
-        "string": "When you limit access to content from outside {orgName}, members {cannot}:"
+    "slides.presenter_view.modal.presenter_view_requires_desktop_update_modal_title": {
+        "string": "更新が必要です"
     },
-    "org_settings.external_collaboration_controls.cannot": {
-        "string": "cannot"
+    "slides.presenter_view.no_slides": {
+        "string": "このプレゼンテーションにスライドはありません。"
     },
-    "org_settings.external_collaboration_controls.list_header_setting_off": {
-        "string": "When you allow members to access content from outside {orgName}, they can:"
+    "slides.presenter_view.open_popup": {
+        "string": "もう一度試す"
     },
-    "org_settings.external_collaboration_controls.accept_invites": {
-        "string": "Accept invites from other teams and organizations to join files, projects, or teams"
+    "slides.presenter_view.pop_up_error": {
+        "string": "プレゼンテーションを開くには、ブラウザでポップアップを許可してください。"
     },
-    "org_settings.external_collaboration_controls.view_only": {
-        "string": "Edit or comment on files and drafts that have been shared with them from other teams and organizations ({note} files will be view-only)"
+    "slides.presenter_view.presenter_view_backgrounded": {
+        "string": "このビューを最新に保つには、発表者タブにフォーカスを置きます"
     },
-    "org_settings.external_collaboration_controls.note": {
-        "string": "Note:"
+    "slides.presenter_view.unknown_error": {
+        "string": "オーディエンスビューを開くことができません"
     },
-    "org_settings.external_collaboration_controls.view_or_edit_files": {
-        "string": "View, comment on, or edit files and drafts that have been shared with them from other teams and organizations"
+    "slides.presenter_view.visual_bells.opened_audience_view_in_separate_window": {
+        "string": "スライドデッキを別のウィンドウで開きました"
     },
-    "org_settings.external_collaboration_controls.create": {
-        "string": "Create drafts, files, or projects in other teams or organizations"
+    "slides.presenter_view.visual_bells.opened_presentation_in_new_tab": {
+        "string": "スライドデッキを新しいタブで開きました"
     },
-    "org_settings.external_collaboration_controls.open_sessions": {
-        "string": "Have edit access in other teams' or organizations' open sessions while logged in"
+    "slides.presenter_view.visual_bells.opened_presenter_and_audience_views_in_new_tabs": {
+        "string": "スライドデッキと発表者のメモをそれぞれ新しいタブで開きました"
     },
-    "org_settings.external_collaboration_controls.setting_header": {
-        "string": "Members can access content from outside {orgName}"
+    "slides.presenter_view.visual_bells.opened_presenter_view_in_separate_tab": {
+        "string": "発表者のメモを別のタブで開きました"
     },
-    "org_settings.external_collaboration_controls.enable": {
-        "string": "Enable (default)"
+    "slides.properties_panel.animate": {
+        "string": "アニメーション"
     },
-    "org_settings.external_collaboration_controls.disable": {
-        "string": "Disable"
+    "slides.properties_panel.blur.label": {
+        "string": "ぼかし"
     },
-    "org_settings.external_collaboration_controls.cancel": {
-        "string": "Cancel"
+    "slides.properties_panel.blur.strength": {
+        "string": "ほかしの強さ"
     },
-    "org_settings.external_collaboration_controls.save": {
-        "string": "Save"
+    "slides.properties_panel.blur.title": {
+        "string": "レイヤーブラー"
     },
-    "org_settings.external_collaboration_controls.success": {
-        "string": "Changed content access setting. This may take up to 10 minutes to update."
+    "slides.properties_panel.border_panel.color": {
+        "string": "色"
     },
-    "org_settings.external_collaboration_controls.header": {
-        "string": "Access to external content"
+    "slides.properties_panel.border_panel.style_dashed_big": {
+        "string": "大きな破線"
     },
-    "org_settings.guest_control.guest_definition": {
-        "string": "Guests are external users without an {domains} address who join your organization."
+    "slides.properties_panel.border_panel.style_dashed_small": {
+        "string": "小さな破線"
     },
-    "org_settings.guest_control.guest_question": {
-        "string": "Who can join your organization as a guest?"
+    "slides.properties_panel.border_panel.style_none": {
+        "string": "ボーダーなし"
     },
-    "org_settings.guest_control.default": {
-        "string": " (default)"
+    "slides.properties_panel.border_panel.style_solid": {
+        "string": "実線"
     },
-    "org_settings.guest_control.link_sharing_on": {
-        "string": "Public link sharing is currently {enabled} in your organization, which means external users may still be able to view content through a link if the individual file permissions allow it. You can turn this off in your {publicLinkSharingSettings}."
+    "slides.properties_panel.border_panel.style_title": {
+        "string": "種類"
     },
-    "org_settings.guest_control.enabled": {
-        "string": "enabled"
+    "slides.properties_panel.border_panel.title": {
+        "string": "ボーダー"
     },
-    "org_settings.guest_control.public_link_sharing_settings": {
-        "string": "public link sharing settings"
+    "slides.properties_panel.border_panel.width_slider_tooltip": {
+        "string": "ボーダーの太さ"
     },
-    "org_settings.guest_control.save_button": {
-        "string": "Save"
+    "slides.properties_panel.color_picker.add_color_aria_label": {
+        "string": "色を追加"
     },
-    "org_settings.guest_control.no_guest_confirmation": {
-        "string": "Users will no longer be able to share public links with “can edit” permissions. Any existing public links with “can edit” permissions will be downgraded to “can view” permissions."
+    "slides.properties_panel.color_picker.add_template_color_tooltip": {
+        "string": "テーマの色を追加"
     },
-    "org_settings.guest_control.guest_membership": {
-        "string": "Guest membership"
+    "slides.properties_panel.color_picker.color_toggle": {
+        "string": "色"
     }
 }

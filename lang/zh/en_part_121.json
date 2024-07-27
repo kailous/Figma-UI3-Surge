@@ -1,152 +1,152 @@
 {
-    "file_permissions_modal.invite": {
-        "string": "Invite"
+    "fullscreen.properties_panel.document_colors": {
+        "string": "文档颜色"
     },
-    "fig_feed.post_to_feed": {
-        "string": "Post to feed"
+    "fullscreen.properties_panel.effects.background_blur": {
+        "string": "背景模糊"
     },
-    "file_permissions_modal.tab.publish": {
-        "string": "Publish"
+    "fullscreen.properties_panel.effects.blur": {
+        "string": "模糊范围"
     },
-    "publishing.community.header": {
-        "string": "Update Community file"
+    "fullscreen.properties_panel.effects.drop_shadow": {
+        "string": "投影"
     },
-    "publishing.templates.header": {
-        "string": "Update template"
+    "fullscreen.properties_panel.effects.inner_shadow": {
+        "string": "内阴影"
     },
-    "file_permissions_modal.collaborators_sub_tab_title": {
-        "string": "{num_collaborators} collaborators in this file"
+    "fullscreen.properties_panel.effects.layer_blur": {
+        "string": "图层模糊"
     },
-    "permissions.embed.copy_public_embed_code": {
-        "string": "Copy public embed code"
+    "fullscreen.properties_panel.effects.position": {
+        "string": "位置"
     },
-    "file_permissions_modal.share_as.share_a_dev_mode_link": {
-        "string": "Share a Dev Mode link"
+    "fullscreen.properties_panel.effects.spread": {
+        "string": "扩散"
     },
-    "file_permissions_modal.share_as.share_settings": {
-        "string": "Share settings"
+    "fullscreen.properties_panel.export": {
+        "string": "导出"
     },
-    "file_permissions_modal.folder_name": {
-        "string": "{folderName}"
+    "fullscreen.properties_panel.export_disabled": {
+        "string": "导出已禁用"
     },
-    "file_permissions_modal.share_as.google_device": {
-        "string": "Cast to a Google Meet device"
+    "fullscreen.properties_panel.export_layer_names_using_id_attributes": {
+        "string": "使用ID属性导出图层名称"
     },
-    "file_permissions_modal.google_classroom_modal.title": {
-        "string": "How do you want to share this file?"
+    "fullscreen.properties_panel.export_settings_color_profile": {
+        "string": "颜色配置文件"
     },
-    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file": {
-        "string": "People invited to branches can always view the main file."
+    "fullscreen.properties_panel.export_settings_color_profile.display_p3": {
+        "string": "显示P3"
     },
-    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration_and_password": {
-        "string": "People invited to branches can always view the main file. The link to the main file has an expiration and a password that apply to this branch."
+    "fullscreen.properties_panel.export_settings_color_profile.document": {
+        "string": "与文档相同({documentColorProfile})"
     },
-    "file_permissions_modal.a_password_was_set_on_the_main_file_people_will_need_to_enter_that_password_to_access_any_branches": {
-        "string": "A password was set on the main file. People will need to enter that password to access any branches."
+    "fullscreen.properties_panel.export_settings_color_profile.p3": {
+        "string": "P3"
     },
-    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration": {
-        "string": "People invited to branches can always view the main file. The link to the main file is set to expire, and the expiration applies to this branch."
+    "fullscreen.properties_panel.export_settings_color_profile.srgb": {
+        "string": "sRGB"
     },
-    "file_permissions_modal.send": {
-        "string": "Send"
+    "fullscreen.properties_panel.export_settings_quality": {
+        "string": "质量"
     },
-    "team_creation.add_a_name_or_email": {
-        "string": "Invite others by name or email"
+    "fullscreen.properties_panel.export_settings_quality.high": {
+        "string": "高"
     },
-    "permissions_modal.share_with_message_placeholder": {
-        "string": "Optional: Include a short message so they can jump right in."
+    "fullscreen.properties_panel.export_settings_quality.low": {
+        "string": "低"
     },
-    "file_permissions_modal.who_has_access": {
-        "string": "Who has access"
+    "fullscreen.properties_panel.export_settings_quality.medium": {
+        "string": "中"
     },
-    "view_restricted_file_modal.file_cannot_be_shared_title": {
-        "string": "File cannot be shared"
+    "fullscreen.properties_panel.export_stroke_as_inlined_path_element": {
+        "string": "将描边作为内联路径元素导出"
     },
-    "view_restricted_file_modal.file_cannot_be_opened_title": {
-        "string": "File cannot be opened"
+    "fullscreen.properties_panel.export_suffix": {
+        "string": "后缀"
     },
-    "view_restricted_file_modal.file_cannot_be_shared_description": {
-        "string": "This file cannot be shared because it's in the {drafts} of a {restricted} user. Please contact your org admin for further assistance."
+    "fullscreen.properties_panel.export_suffix_label": {
+        "string": "后缀"
     },
-    "view_restricted_file_modal.drafts": {
-        "string": "drafts"
+    "fullscreen.properties_panel.export_suffix_placeholder": {
+        "string": "添加后缀"
     },
-    "view_restricted_file_modal.restricted": {
-        "string": "restricted"
+    "fullscreen.properties_panel.export_text_as_outlined_path_element": {
+        "string": "将文本作为轮廓路径元素导出"
     },
-    "view_restricted_file_modal.file_cannot_be_opened_description": {
-        "string": "This file cannot be opened because it's in the {drafts} of a {restricted} user. Please contact your org admin for further assistance."
+    "fullscreen.properties_panel.export_this_props_num_selected_layers": {
+        "string": "导出{numSelected}个图层"
     },
-    "view_restricted_file_modal.ok_button": {
-        "string": "OK"
+    "fullscreen.properties_panel.export_title": {
+        "string": "导出{title}"
     },
-    "permissions.embed.embed_page_name_in_your_webpage": {
-        "string": "Embed {pageName} in your webpage"
+    "fullscreen.properties_panel.exposure": {
+        "string": "曝光"
     },
-    "permissions.embed.cancel_embed": {
-        "string": "Cancel"
+    "fullscreen.properties_panel.fill.advanced_stroke_settings": {
+        "string": "高级描边设置"
     },
-    "permissions.embed.copy_embed_code": {
-        "string": "Copy"
+    "fullscreen.properties_panel.fill.detach_style": {
+        "string": "分离样式"
     },
-    "permissions.copy_link_button.tooltip.copy_link_prototype": {
-        "string": "Copy prototype link"
+    "fullscreen.properties_panel.fill.detach_variable": {
+        "string": "分离变量"
     },
-    "permissions.copy_link_button.tooltip.copy_link": {
-        "string": "Copy link"
+    "fullscreen.properties_panel.fill.end_point": {
+        "string": "终点"
     },
-    "file_info_row.anyone_with_access_to_the_main_file_can_access_this_branch": {
-        "string": "Anyone with access to the main file can access this branch."
+    "fullscreen.properties_panel.fill.fill": {
+        "string": "填充"
     },
-    "file_info_row.invite_only_members_of_team_name_cannot_view_this_noun": {
-        "string": "Invite-only – members of {teamName} cannot view this {noun}."
+    "fullscreen.properties_panel.fill.include_the_canvas_or_group_background_in_exports": {
+        "string": "在导出中包含画布或组背景"
     },
-    "permissions.copy_link_button.tooltip.people_invited_can_view_prototype": {
-        "string": "Copy prototype link · People invited can view"
+    "fullscreen.properties_panel.fill.remove": {
+        "string": "移除"
     },
-    "permissions.copy_link_button.tooltip.people_invited_can_access": {
-        "string": "Copy link · People invited can access"
+    "fullscreen.properties_panel.fill.see_all_x_colors": {
+        "string": "查看全部{number}种颜色"
     },
-    "file_browser.share_modal.everyone_at_org_can_access_this_file": {
-        "string": "Everyone at {orgName} can access this file."
+    "fullscreen.properties_panel.fill.see_all_x_library_colors": {
+        "string": "查看全部{number}种库颜色"
     },
-    "permissions.copy_link_button.tooltip.everyone_at_org_can_view_prototype": {
-        "string": "Copy prototype link · Everyone at {org} can view"
+    "fullscreen.properties_panel.fill.selection_colors": {
+        "string": "选择的颜色"
     },
-    "permissions.copy_link_button.tooltip.everyone_at_org_can_access": {
-        "string": "Copy link · Everyone at {org} can access"
+    "fullscreen.properties_panel.fill.show_in_exports": {
+        "string": "在导出中显示"
     },
-    "file_browser.share_modal.everyone_at_this_org_can_access_this_file": {
-        "string": "Everyone at this org can access this file."
+    "fullscreen.properties_panel.fill.show_selection_colors": {
+        "string": "显示选择的颜色"
     },
-    "permissions.copy_link_button.tooltip.everyone_at_org_can_view_no_name_prototype": {
-        "string": "Copy prototype link · Everyone at this org can view"
+    "fullscreen.properties_panel.fill.start_point": {
+        "string": "起点"
     },
-    "permissions.copy_link_button.tooltip.everyone_at_org_can_access_no_name": {
-        "string": "Copy link · Everyone at this org can access"
+    "fullscreen.properties_panel.fill.stroke": {
+        "string": "描边"
     },
-    "file_info_row.everyone_at_team_name_can_access_this_noun": {
-        "string": "Everyone at {teamName} can access this {noun}."
+    "fullscreen.properties_panel.fill.stroke_width": {
+        "string": "描边宽度"
     },
-    "permissions.copy_link_button.tooltip.everyone_at_team_can_view_prototype": {
-        "string": "Copy prototype link · Everyone at {team} can view"
+    "fullscreen.properties_panel.fill.swap_start_and_end_points": {
+        "string": "交换起点和终点"
     },
-    "permissions.copy_link_button.tooltip.everyone_at_team_can_access": {
-        "string": "Copy link · Everyone at {team} can access"
+    "fullscreen.properties_panel.flip_gradient": {
+        "string": "翻转渐变"
     },
-    "file_info_row.members_of_this_project_or_team_can_access_this_noun": {
-        "string": "Members of this project or team can access this {noun}."
+    "fullscreen.properties_panel.font_picker.font_set.all_fonts": {
+        "string": "所有字体"
     },
-    "permissions.copy_link_button.tooltip.members_of_project_or_team_can_view_prototype": {
-        "string": "Copy prototype link · Members of this project or team can view"
+    "fullscreen.properties_panel.font_picker.font_set.document_fonts": {
+        "string": "文档中的字体"
     },
-    "permissions.copy_link_button.tooltip.members_of_project_or_team_can_access": {
-        "string": "Copy link · Members of this project or team can access"
+    "fullscreen.properties_panel.font_picker.font_set.google_fonts": {
+        "string": "Google字体"
     },
-    "file_info_row.members_of_folder_name_can_access_this_noun": {
-        "string": "Members of {folderName} can access this {noun}."
+    "fullscreen.properties_panel.font_picker.font_set.popular_fonts": {
+        "string": "流行字体"
     },
-    "permissions.copy_link_button.tooltip.members_of_project_can_view_prototype": {
-        "string": "Copy prototype link · Members of {folder} can view"
+    "fullscreen.properties_panel.font_picker.font_set.shared_fonts": {
+        "string": "共享字体"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "proto.animation_panel.easing_duration_tooltip": {
-        "string": "Easing duration"
+    "inspect_panel.history.no_changes": {
+        "string": "无可比较的更改"
     },
-    "proto.animation_panel.smart_animate_matching_layers_tooltip": {
-        "string": "Animate layers with the same name instead of using the transition above"
+    "inspect_panel.images.file_name": {
+        "string": "文件名"
     },
-    "proto.easing_behavior.linear": {
-        "string": "Linear"
+    "inspect_panel.images.image_type": {
+        "string": "图像"
     },
-    "proto.easing_behavior.bezier_ease_in": {
-        "string": "Ease in"
+    "inspect_panel.images.opacity": {
+        "string": "不透明度"
     },
-    "proto.easing_behavior.bezier_ease_out": {
-        "string": "Ease out"
+    "inspect_panel.images.scale": {
+        "string": "缩放"
     },
-    "proto.easing_behavior.bezier_ease_in_and_out": {
-        "string": "Ease in and out"
+    "inspect_panel.images.scale_mode": {
+        "string": "缩放模式"
     },
-    "proto.easing_behavior.bezier_ease_in_back": {
-        "string": "Ease in back"
+    "inspect_panel.images.title_plural": {
+        "string": "图像"
     },
-    "proto.easing_behavior.bezier_ease_out_back": {
-        "string": "Ease out back"
+    "inspect_panel.images.title_singular": {
+        "string": "图像"
     },
-    "proto.easing_behavior.bezier_ease_in_and_out_back": {
-        "string": "Ease in and out back"
+    "inspect_panel.instance.title": {
+        "string": "实例"
     },
-    "proto.easing_behavior.bezier_custom": {
-        "string": "Custom bezier"
+    "inspect_panel.interactions.animate": {
+        "string": "动画"
     },
-    "proto.easing_behavior.bezier_custom_short": {
-        "string": "Custom"
+    "inspect_panel.interactions.curve": {
+        "string": "曲线"
     },
-    "proto.easing_behavior.spring_gentle": {
-        "string": "Gentle"
+    "inspect_panel.interactions.damping": {
+        "string": "阻尼"
     },
-    "proto.easing_behavior.spring_quick": {
-        "string": "Quick"
+    "inspect_panel.interactions.delay": {
+        "string": "延迟"
     },
-    "proto.easing_behavior.spring_bouncy": {
-        "string": "Bouncy"
+    "inspect_panel.interactions.duration": {
+        "string": "持续时间"
     },
-    "proto.easing_behavior.spring_slow": {
-        "string": "Slow"
+    "inspect_panel.interactions.mass": {
+        "string": "质量"
     },
-    "proto.easing_behavior.spring_custom": {
-        "string": "Custom spring"
+    "inspect_panel.interactions.phrase": {
+        "string": "短语"
     },
-    "proto.easing_behavior.spring_custom_short": {
-        "string": "Custom"
+    "inspect_panel.interactions.return_to_node": {
+        "string": "返回到`{previous}`"
     },
-    "proto.easing_editor.spring_stiffness": {
-        "string": "Stiffness"
+    "inspect_panel.interactions.stiffness": {
+        "string": "刚度"
     },
-    "proto.easing_editor.spring_damping": {
-        "string": "Damping"
+    "inspect_panel.interactions.title": {
+        "string": "交互"
     },
-    "proto.easing_editor.spring_mass": {
-        "string": "Mass"
+    "inspect_panel.interactions.trigger": {
+        "string": "触发器"
     },
-    "proto.easing_behavior.bezier": {
-        "string": "Bezier"
+    "inspect_panel.node_type.detached_component": {
+        "string": "分离的组件"
     },
-    "proto.flows_panel.select_frame": {
-        "string": "Select frame"
+    "inspect_panel.node_type.ellipse": {
+        "string": "椭圆"
     },
-    "proto.flows_panel.copy_link": {
-        "string": "Copy link"
+    "inspect_panel.node_type.exclude": {
+        "string": "排除"
     },
-    "proto.flows_panel.preview": {
-        "string": "Preview"
+    "inspect_panel.node_type.figjam": {
+        "string": "FigJam节点"
     },
-    "proto.starting_points.flow_starting_point_title": {
-        "string": "Flow starting point"
+    "inspect_panel.node_type.frame": {
+        "string": "框架"
     },
-    "proto.starting_points.click_to_remove_mixed_content": {
-        "string": "Click - to remove mixed content."
+    "inspect_panel.node_type.group": {
+        "string": "组"
     },
-    "proto.starting_points.edit_description": {
-        "string": "Edit description"
+    "inspect_panel.node_type.horizontal_al": {
+        "string": "行布局"
     },
-    "proto.starting_points.add_starting_point_tooltip": {
-        "string": "Add starting point"
+    "inspect_panel.node_type.instance": {
+        "string": "组件实例"
     },
-    "proto.starting_points.delete_starting_point_tooltip": {
-        "string": "Remove starting point"
+    "inspect_panel.node_type.intersect": {
+        "string": "相交"
     },
-    "proto.starting_point_modal.description": {
-        "string": "Description"
+    "inspect_panel.node_type.line": {
+        "string": "直线"
     },
-    "proto.starting_point_modal.enter_a_description_for_your_starting_point": {
-        "string": "Enter a description for your starting point"
+    "inspect_panel.node_type.main_component": {
+        "string": "主组件"
     },
-    "design_systems.component_panel.publish_new_changes": {
-        "string": "Publish changes…"
+    "inspect_panel.node_type.main_component_set": {
+        "string": "组件集"
     },
-    "fullscreen.properties_panel.stack_panel.gap_rows_vertical": {
-        "string": "Vertical gap between rows"
+    "inspect_panel.node_type.main_variant": {
+        "string": "变体"
     },
-    "design_systems.states_panel.components": {
-        "string": "Components"
+    "inspect_panel.node_type.page": {
+        "string": "页面"
     },
-    "design_systems.states_panel.combine_as_variants": {
-        "string": "Combine as variants"
+    "inspect_panel.node_type.polygon": {
+        "string": "多边形"
     },
-    "properties.label.transform": {
-        "string": "Transform"
+    "inspect_panel.node_type.rectangle": {
+        "string": "矩形"
     },
-    "fullscreen.properties_panel.transform_panel.independent_corners": {
-        "string": "Independent corners"
+    "inspect_panel.node_type.section": {
+        "string": "部分"
     },
-    "fullscreen.properties_panel.transform_panel.corner_smoothing": {
-        "string": "Corner smoothing"
+    "inspect_panel.node_type.slice": {
+        "string": "切片"
     },
-    "fullscreen.properties_panel.transform_panel.rotation": {
-        "string": "Rotation"
+    "inspect_panel.node_type.star": {
+        "string": "星形"
     },
-    "fullscreen.properties_panel.transform_panel.clip_content": {
-        "string": "Clip content"
+    "inspect_panel.node_type.subtract": {
+        "string": "减去"
     },
-    "fullscreen.properties_panel.appearance_panel.overflow": {
-        "string": "Overflow"
+    "inspect_panel.node_type.table": {
+        "string": "表格"
     },
-    "fullscreen.properties_panel.appearance_panel.show_content": {
-        "string": "Show content"
+    "inspect_panel.node_type.text": {
+        "string": "文本"
     },
-    "fullscreen.properties_panel.transform_panel.corner_radius": {
-        "string": "Corner radius"
+    "inspect_panel.node_type.union": {
+        "string": "联合"
     },
-    "properties.label.spacing": {
-        "string": "Spacing"
+    "inspect_panel.node_type.vector": {
+        "string": "矢量"
     },
-    "fullscreen.properties_panel.transform_panel.list_spacing_x": {
-        "string": "List spacing X"
+    "inspect_panel.node_type.vertical_al": {
+        "string": "列布局"
     },
-    "fullscreen.properties_panel.transform_panel.list_spacing_y": {
-        "string": "List spacing Y"
+    "inspect_panel.node_type.widget": {
+        "string": "小部件"
     },
-    "fullscreen.properties_panel.transform_panel.i_os": {
-        "string": "iOS"
+    "inspect_panel.node_type_tooltip.detached_component": {
+        "string": "此图层已从主组件分离"
     },
-    "fullscreen.properties_panel.transform_panel.corner_radius_details": {
-        "string": "Corner radius details"
+    "inspect_panel.parent.title": {
+        "string": "父组件"
     },
-    "fullscreen.properties_panel.transform_panel.top_left_corner_radius": {
-        "string": "Top left corner radius"
+    "inspect_panel.properties.border": {
+        "string": "边框"
     },
-    "fullscreen.properties_panel.transform_panel.top_right_corner_radius": {
-        "string": "Top right corner radius"
+    "inspect_panel.properties.code_and_measurements_hint_title": {
+        "string": "代码和测量"
     }
 }

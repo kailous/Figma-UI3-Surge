@@ -1,152 +1,152 @@
 {
-    "whiteboard.paywall_upsell.team.last.main": {
-        "string": "This is your {purpleSection}\nfree file"
+    "teams_table.closed_team_tooltip_header": {
+        "string": "此团队已公开"
     },
-    "whiteboard.paywall_upsell.team.last.main.purpleSection": {
-        "string": "last"
+    "teams_table.closed_team_tooltip_subtitle": {
+        "string": "任何人都可以找到此团队，但需要申请访问权限"
     },
-    "whiteboard.paywall_upsell.draft.first.secondary": {
-        "string": "They can join you for 24 hours—no login required."
+    "teams_table.create_one": {
+        "string": "新建"
     },
-    "whiteboard.paywall_upsell.draft.second.secondary": {
-        "string": "Everyone gets a say, and projects move forward."
+    "teams_table.csv_export.error": {
+        "string": "处理请求时发生错误，请稍后再试。"
     },
-    "whiteboard.paywall_upsell.draft.third.secondary": {
-        "string": "Keep the conversation going without ever leaving the file."
+    "teams_table.csv_export.generating": {
+        "string": "生成CSV可能需要几分钟，完成后会通知您。"
     },
-    "whiteboard.paywall_upsell.team.secondary": {
-        "string": "Get unlimited files, and better ways to jam together."
+    "teams_table.csv_export.get_csv": {
+        "string": "获取CSV"
     },
-    "slides.toolbar.show_presenter_notes": {
-        "string": "Show presenter notes"
+    "teams_table.csv_export.preparing_request": {
+        "string": "准备CSV请求中"
     },
-    "design_systems.assets_panel.search": {
-        "string": "Search assets…"
+    "teams_table.default_workspace_team.invite_only": {
+        "string": "仅限邀请"
     },
-    "slides.inserts_menu.image_video": {
-        "string": "Image / Video"
+    "teams_table.default_workspace_team.visible": {
+        "string": "公开"
     },
-    "slides.inserts_menu.shapes": {
-        "string": "Shapes"
+    "teams_table.delete": {
+        "string": "删除"
     },
-    "slides.inserts_menu.interaction": {
-        "string": "Live interaction"
+    "teams_table.delete_team": {
+        "string": "删除团队"
     },
-    "qa.extensions.tooltip_actions": {
-        "string": "Actions"
+    "teams_table.discoverability_filter.all": {
+        "string": "访问：所有"
     },
-    "slides.inserts_menu.assets": {
-        "string": "Assets"
+    "teams_table.discoverability_filter.hidden": {
+        "string": "访问：隐藏"
     },
-    "fullscreen.export.preparing_exporting_progress_of_exporting_total": {
-        "string": "Exporting {exportingProgress} of {exportingTotal}…"
+    "teams_table.discoverability_filter.visible": {
+        "string": "访问：公开"
     },
-    "fullscreen.export.cancel": {
-        "string": "Cancel"
+    "teams_table.enterprise.edit_default_teams": {
+        "string": "编辑默认团队"
     },
-    "fullscreen.export.exporting": {
-        "string": "Preparing export data…"
+    "teams_table.enterprise.workspace": {
+        "string": "工作区"
     },
-    "fullscreen.export.downloading_progress": {
-        "string": "Downloading image {downloadingProgress} of {downloadingTotal}…"
+    "teams_table.join": {
+        "string": "加入"
     },
-    "fullscreen.export.downloading": {
-        "string": "Downloading images…"
+    "teams_table.join_team": {
+        "string": "加入团队"
     },
-    "fullscreen.export.num_selected_of_total_selected": {
-        "string": "{numSelected} of {total} selected"
+    "teams_table.join_team_as_admin": {
+        "string": "作为管理员加入团队"
     },
-    "fullscreen.export.no_selected_layers_with_export": {
-        "string": "No selected layers have export settings. Click + in the export section of the properties panel to add one."
+    "teams_table.join_team_as_owner": {
+        "string": "作为所有者加入团队"
     },
-    "whiteboard.keyboard_shortcuts.tab.essential": {
-        "string": "Essential"
+    "teams_table.leave": {
+        "string": "离开"
     },
-    "fullscreen.keyboard_shortcuts_panel.toggle_ui_description": {
-        "string": "Press it now to quickly hide the panes and focus on your work"
+    "teams_table.leave_team": {
+        "string": "离开团队"
     },
-    "fullscreen.keyboard_shortcuts_panel.component_insert_description": {
-        "string": "Search for and insert components without losing your flow."
+    "teams_table.manage_access_setting": {
+        "string": "管理访问设置"
     },
-    "fullscreen.keyboard_shortcuts_panel.toggle_dropper_description": {
-        "string": "Grab a color from elsewhere without losing your flow"
+    "teams_table.member_count": {
+        "string": "{numMembers, plural, other {{numMembers}名成员}}"
     },
-    "fullscreen.keyboard_shortcuts_panel.toggle_menu_description": {
-        "string": "Search through menus, commands, and plugins"
+    "teams_table.members": {
+        "string": "成员"
     },
-    "whiteboard.keyboard_shortcuts.tab.tools": {
-        "string": "Tools"
+    "teams_table.membership_filter.all": {
+        "string": "团队：所有"
     },
-    "whiteboard.keyboard_shortcuts.tab.view": {
-        "string": "View"
+    "teams_table.membership_filter.my_teams_label": {
+        "string": "我的团队"
     },
-    "whiteboard.keyboard_shortcuts.tab.zoom": {
-        "string": "Zoom"
+    "teams_table.membership_filter.my_teams_option": {
+        "string": "我的团队"
     },
-    "whiteboard.keyboard_shortcuts.tab.text": {
-        "string": "Text"
+    "teams_table.membership_filter.not_my_teams_label": {
+        "string": "非我的团队"
     },
-    "whiteboard.keyboard_shortcuts.tab.shape": {
-        "string": "Shape"
+    "teams_table.membership_filter.not_my_teams_option": {
+        "string": "非我的团队"
     },
-    "whiteboard.keyboard_shortcuts.tab.selection": {
-        "string": "Selection"
+    "teams_table.no_search_results": {
+        "string": "未找到符合搜索条件的团队，请重新搜索。"
     },
-    "whiteboard.keyboard_shortcuts.tab.cursor": {
-        "string": "Cursor"
+    "teams_table.no_teams_to_show": {
+        "string": "没有可显示的团队。"
     },
-    "whiteboard.keyboard_shortcuts.tab.copy": {
-        "string": "Copy"
+    "teams_table.org_access": {
+        "string": "组织访问："
     },
-    "whiteboard.keyboard_shortcuts.tab.edit": {
-        "string": "Edit"
+    "teams_table.org_access_filter.all": {
+        "string": "组织访问：所有"
     },
-    "whiteboard.keyboard_shortcuts.tab.transform": {
-        "string": "Transform"
+    "teams_table.org_access_filter.closed": {
+        "string": "组织访问：受限"
     },
-    "whiteboard.keyboard_shortcuts.tab.arrange": {
-        "string": "Arrange"
+    "teams_table.org_access_filter.open": {
+        "string": "组织访问：公开"
     },
-    "whiteboard.keyboard_shortcuts.tab.components": {
-        "string": "Components"
+    "teams_table.org_access_filter.secret": {
+        "string": "组织访问：秘密"
     },
-    "whiteboard.keyboard_shortcuts.tab.accessibility": {
-        "string": "Accessibility"
+    "teams_table.owner": {
+        "string": "所有者"
     },
-    "whiteboard.keyboard_shortcuts.tab.advanced": {
-        "string": "Advanced"
+    "teams_table.project_count": {
+        "string": "{numProjects, plural, other {{numProjects}个项目}}"
     },
-    "whiteboard.keyboard_shortcuts.tab.layout": {
-        "string": "Layout"
+    "teams_table.projects": {
+        "string": "项目"
     },
-    "keyboard_settings.custom_tab": {
-        "string": "Custom"
+    "teams_table.rename": {
+        "string": "重命名"
     },
-    "whiteboard.keyboard_shortcuts.essential_keyboard_shortcuts": {
-        "string": "Essential keyboard shortcuts"
+    "teams_table.rename_team": {
+        "string": "重命名团队"
     },
-    "keyboard_settings.keyboard_shortcuts": {
-        "string": "Keyboard shortcuts"
+    "teams_table.request_to_join": {
+        "string": "请求加入"
     },
-    "fullscreen.auto_layout_hints.ignore_auto_layout": {
-        "string": "Ignore auto layout"
+    "teams_table.revoke_transfer_request": {
+        "string": "撤销转移请求"
     },
-    "fullscreen.auto_layout_hints.prevent_nesting": {
-        "string": "Prevent nesting"
+    "teams_table.search_teams_with_ellipsis": {
+        "string": "搜索团队..."
     },
-    "fullscreen.auto_layout_hints.space_key": {
-        "string": "Space"
+    "teams_table.secret_team_tooltip_header": {
+        "string": "此团队已隐藏"
     },
-    "fullscreen.auto_layout_hints.force_insertion": {
-        "string": "Nest deeper"
+    "teams_table.secret_team_tooltip_subtitle": {
+        "string": "只有成员可以搜索和访问"
     },
-    "templates.banner.republish.you_re_viewing_a_template_made_by_publisher_name": {
-        "string": "You’re viewing a template, {madeByPublisherName}"
+    "teams_table.team": {
+        "string": "团队"
     },
-    "templates.banner.made_by_you": {
-        "string": "made by you."
+    "teams_table.team_name": {
+        "string": "名称"
     },
-    "templates.banner.republish.made_by_publisher_name": {
-        "string": "made by {publisherName}."
+    "teams_table.teams_without_owners": {
+        "string": "没有所有者的团队"
     }
 }

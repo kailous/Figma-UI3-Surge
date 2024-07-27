@@ -1,152 +1,152 @@
 {
-    "community.publishing.below_is_your_resources_url.widget.with_your_teammates": {
-        "string": "Below is your widget's unique URL. Feel free to share it with your teammates!"
+    "community.resource.delisting_this_resource_will_prevent_people_from_discovering_or_purchasing_this_resource": {
+        "string": "取消列出此资源将使用户无法在社区中发现或购买此资源。已购买的用户可以在账单周期结束前继续访问。"
     },
-    "community.publishing.resource_is_now_available_to_the_entire_community": {
-        "string": "{resourceName} is now available to the entire Figma Community"
+    "community.resource.edit_this_page": {
+        "string": "编辑此页面"
     },
-    "community.publishing.below_is_your_resources_url.plugin": {
-        "string": "Below is your plugin's unique URL. Feel free to share it!"
+    "community.resource.free_trial_days": {
+        "string": "{days}天免费试用"
     },
-    "community.publishing.below_is_your_resources_url.widget": {
-        "string": "Below is your widget's unique URL. Feel free to share it!"
+    "community.resource.if_you_have_questions_reach_out_to_creator": {
+        "string": "如果有疑问，请联系创建者。"
     },
-    "general.error": {
-        "string": "Error"
+    "community.resource.includes_free_trial_days": {
+        "string": "包含{days}天免费试用"
     },
-    "community.publishing.error_we_could_not_load_your_development_resource.plugin": {
-        "string": "We could not load your development plugin at the moment. Please make sure that the {filename} file still exists and try again."
+    "community.resource.manage_resource": {
+        "string": "管理资源"
     },
-    "community.publishing.error_we_could_not_load_your_development_resource.widget": {
-        "string": "We could not load your development widget at the moment. Please make sure that the {filename} file still exists and try again."
+    "community.resource.more_than_2_creators": {
+        "string": "{creator1}{spaceChar}{spaceChar}{others}"
     },
-    "community.publishing.new_price_will_appear_within_an_hour_on_Community": {
-        "string": "New price will appear within an hour on Community"
+    "community.resource.multiple_creators": {
+        "string": "多个创建者"
     },
-    "community.publishing.error_please_upload_with_transparent_background": {
-        "string": "Widget snapshots must be a PNG with transparency."
+    "community.resource.next_we_recommend_adding_more_images": {
+        "string": "接下来，建议添加更多的文件预览图片。"
     },
-    "community.publishing.error_id_identifier_is_invalid": {
-        "string": "ID identifier is invalid"
+    "community.resource.next_we_recommend_adding_more_images_and_videos": {
+        "string": "接下来，建议添加更多的{resourceType}预览图片和视频。"
     },
-    "community.publishing.cannot_publish_using_enableProposedApi.plugin": {
-        "string": "Cannot publish a plugin using enableProposedApi in the manifest"
+    "community.resource.publish": {
+        "string": "发布"
     },
-    "community.publishing.cannot_publish_using_enableProposedApi.widget": {
-        "string": "Cannot publish a widget using enableProposedApi in the manifest"
+    "community.resource.unpublish": {
+        "string": "取消发布"
     },
-    "community.publishing.cannot_use_payments_api_if_non_approved": {
-        "string": "You must be approved to sell on Community before you can publish resources that use the Payments API."
+    "community.resource.unpublished_banner.only_you_can_see_this_page.hub_file": {
+        "string": "此页面对其他用户不可见。要重新发布此资源，请使用原始文件发布新版本。"
     },
-    "community.publishing.cannot_publish_with_inspect_editor_type": {
-        "string": "The 'inspect' editorType is deprecated for publishing. Please use 'dev' as the editorType in your manifest.json."
+    "community.resource.unpublished_banner.only_you_can_see_this_page.plugin": {
+        "string": "此页面对其他用户不可见。要重新发布此资源，请使用相同ID的插件发布新版本。"
     },
-    "community.publishing.cannot_publish_without_document_access": {
-        "string": "Update manifest.json to include \"documentAccess\": \"dynamic-page\""
+    "community.resource.unpublished_banner.only_you_can_see_this_page.widget": {
+        "string": "此页面对其他用户不可见。要重新发布此资源，请使用相同ID的小部件发布新版本。"
     },
-    "community.publishing.data_security.errors": {
-        "string": "Data security form has errors"
+    "community.resource.unpublished_banner.your_resource_is_unpublished": {
+        "string": "资源未发布。"
     },
-    "community.seller.paid_resource_minimum_err": {
-        "string": "Price must be $2 or higher"
+    "community.resource.your_resource_is_live": {
+        "string": "资源已上线"
     },
-    "community.seller.paid_resource_maximum_err": {
-        "string": "Price can't exceed $999"
+    "community.resource_page.about": {
+        "string": "关于"
     },
-    "community.seller.prices_must_follow_format": {
-        "string": "Price must be a whole number"
+    "community.resource_page.comments": {
+        "string": "评论 {numComments}"
     },
-    "community.seller.discount_must_follow_format": {
-        "string": "Must be a whole number"
+    "community.resource_page.media_carousel.restart": {
+        "string": "重新开始"
     },
-    "community.seller.pricing_using_payments_api": {
-        "string": "You can't turn off pricing because this resource is using our Payments API"
+    "community.resource_tiles.by_author": {
+        "string": "由{author}创建"
     },
-    "community.seller.payment_type": {
-        "string": "Payment type"
+    "community.saves.file_removed_from_your_profile": {
+        "string": "文件已从你的社区资料中移除"
     },
-    "community.publishing.version": {
-        "string": "Version"
+    "community.saves.file_saved_for_your_profile": {
+        "string": "文件已保存到你的社区资料中"
     },
-    "community.publishing.icon": {
-        "string": "Icon"
+    "community.saves.no_saves_subtitle": {
+        "string": "保存有用的资源，以便日后轻松找到它们。"
     },
-    "community.publishing.widget_snapshot": {
-        "string": "Widget snapshot"
+    "community.saves.no_saves_title": {
+        "string": "没有保存的资源（...暂时）"
     },
-    "community.publishing.save_changes": {
-        "string": "Save changes"
+    "community.saves.plugin_removed_for_everyone_at": {
+        "string": "插件已从{orgName}的所有用户中移除"
     },
-    "community.publishing.publish_new_version": {
-        "string": "Publish new version"
+    "community.saves.plugin_removed_from_your_account": {
+        "string": "插件已从你的Figma账户中移除"
     },
-    "community.publishing.resubmit_for_review": {
-        "string": "Resubmit for review"
+    "community.saves.plugin_removed_from_your_account_and_profile": {
+        "string": "插件已从你的Figma账户和社区资料中移除"
     },
-    "community.publishing.is_under_review.widget": {
-        "string": "Your widget is in review"
+    "community.saves.plugin_saved": {
+        "string": "插件已保存"
     },
-    "community.publishing.is_under_review.plugin": {
-        "string": "Your plugin is in review"
+    "community.saves.plugin_saved_for_everyone_at": {
+        "string": "插件已保存到{orgName}的所有用户"
     },
-    "community.publishing.your_update_is_being_published": {
-        "string": "Your update is being published"
+    "community.saves.plugin_saved_for_your_account": {
+        "string": "插件已保存到你的Figma账户"
     },
-    "community.publishing.success_your_resource_has_been_submitted_for_review.plugin": {
-        "string": "Success! Your plugin has been submitted for review."
+    "community.saves.plugin_saved_for_your_account_and_profile": {
+        "string": "插件已保存到你的Figma账户和社区资料"
     },
-    "community.publishing.success_your_resource_has_been_submitted_for_review.widget": {
-        "string": "Success! Your widget has been submitted for review."
+    "community.saves.remove_from_saves": {
+        "string": "从保存中移除"
     },
-    "community.publishing.success_your_resource_has_been_published.plugin.to_organization": {
-        "string": "Success! Your plugin has been published to your organization."
+    "community.saves.remove_this_resource_for_everyone_at": {
+        "string": "从{orgName}的所有用户中移除此资源"
     },
-    "community.publishing.success_your_resource_has_been_published.widget.to_organization": {
-        "string": "Success! Your widget has been published to your organization."
+    "community.saves.save": {
+        "string": "保存"
     },
-    "community.publishing.success_your_resource_has_been_published.plugin": {
-        "string": "Success! Your plugin has been published."
+    "community.saves.save_for_everyone_at": {
+        "string": "保存给{orgName}的所有用户"
     },
-    "community.publishing.success_your_resource_has_been_published.widget": {
-        "string": "Success! Your widget has been published."
+    "community.saves.save_for_later": {
+        "string": "保存以备后用"
     },
-    "community.publishing.close_confirmation_modal.data_security_body_1.widget": {
-        "string": "You haven't saved changes to this widget yet. Any changes you've made to data security details will be lost."
+    "community.saves.save_this_resource_for_everyone_at": {
+        "string": "将此资源保存给{orgName}的所有用户"
     },
-    "community.publishing.close_confirmation_modal.data_security_body_2.widget": {
-        "string": "To submit your data security answers, go back and save changes for this widget."
+    "community.saves.save_this_resource_for_yourself": {
+        "string": "将此资源保存给自己"
     },
-    "community.publishing.close_confirmation_modal.data_security_body_1.plugin": {
-        "string": "You haven't saved changes to this plugin yet. Any changes you've made to data security details will be lost."
+    "community.saves.widget_removed_for_everyone_at": {
+        "string": "小部件已从{orgName}的所有用户中移除"
     },
-    "community.publishing.close_confirmation_modal.data_security_body_2.plugin": {
-        "string": "To submit your data security answers, go back and save changes for this plugin."
+    "community.saves.widget_removed_from_your_account": {
+        "string": "小部件已从你的Figma账户中移除"
     },
-    "community.publishing.close_confirmation_modal.title": {
-        "string": "Close without publishing?"
+    "community.saves.widget_removed_from_your_account_and_profile": {
+        "string": "小部件已从你的Figma账户和社区资料中移除"
     },
-    "general.close_anyway": {
-        "string": "Close anyway"
+    "community.saves.widget_saved": {
+        "string": "小部件已保存"
     },
-    "general.go_back": {
-        "string": "Go back"
+    "community.saves.widget_saved_for_everyone_at": {
+        "string": "小部件已保存到{orgName}的所有用户"
     },
-    "community.publishing.playground_file": {
-        "string": "Playground file"
+    "community.saves.widget_saved_for_your_account": {
+        "string": "小部件已保存到你的Figma账户"
     },
-    "community.publishing.plugin_playground_file_help_text_new": {
-        "string": "Let people try out your resource in a playground file. Create your own or {useTemplateLink}"
+    "community.saves.widget_saved_for_your_account_and_profile": {
+        "string": "小部件已保存到你的Figma账户和社区资料"
     },
-    "community.publishing.use_our_template": {
-        "string": "use our template →"
+    "community.search.empty_state_creators": {
+        "string": "没有找到与{query}匹配的创建者"
     },
-    "community.publishing.playground_file.dropdown.update_to_latest_version": {
-        "string": "Update to latest version"
+    "community.search.empty_state_hub_files": {
+        "string": "没有找到与{query}匹配的文件"
     },
-    "community.publishing.playground_file.updated_version_confirmation": {
-        "string": "Updated to latest • {undoButton}"
+    "community.search.empty_state_hub_files_free": {
+        "string": "没有找到与{query}匹配的免费文件"
     },
-    "community.undo": {
-        "string": "Undo"
+    "community.search.empty_state_hub_files_paid": {
+        "string": "没有找到与{query}匹配的付费文件"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "design_systems.instance_panel.reset_fill": {
-        "string": "Reset fill"
+    "collaboration.branching_chunk.property_change_node_removed": {
+        "string": "此节点已删除"
     },
-    "design_systems.instance_panel.reset_stroke": {
-        "string": "Reset stroke"
+    "collaboration.branching_chunk.property_change_node_removed_items": {
+        "string": "已删除:"
     },
-    "design_systems.instance_panel.reset_text": {
-        "string": "Reset text"
+    "collaboration.branching_chunk.property_change_node_value_denoter": {
+        "string": "{propertyName}: {propertyValue}"
     },
-    "design_systems.instance_panel.reset_text_style": {
-        "string": "Reset text style"
+    "collaboration.branching_chunk.property_change_non_previewable": {
+        "string": "不可预览的更改"
     },
-    "design_systems.instance_panel.reset_interactions": {
-        "string": "Reset interactions"
+    "collaboration.branching_chunk.property_change_removed": {
+        "string": "{prevValue} → 已删除"
     },
-    "design_systems.instance_panel.reset_overlay": {
-        "string": "Reset overlay"
+    "collaboration.branching_chunk.section_file_optimization": {
+        "string": "文件优化"
     },
-    "fullscreen_actions.reset-variable-modes": {
-        "string": "Reset variable modes in selection"
+    "collaboration.branching_chunk.section_file_optimization_tooltip": {
+        "string": "为了提高性能，Figma 已对主文件进行了优化"
     },
-    "fullscreen_actions.reset-transform": {
-        "string": "Fix broken transform"
+    "collaboration.branching_chunk.section_see_more": {
+        "string": "{remainingChanges, plural, other {查看另外的{remainingChanges}个更改}}"
     },
-    "fullscreen_actions.resize_proportionally": {
-        "string": "Resize proportionally"
+    "collaboration.branching_chunk.section_system_improvement": {
+        "string": "从上次合并或更新尝试中恢复"
     },
-    "fullscreen_actions.resize-to-fit": {
-        "string": "Resize to fit"
+    "collaboration.branching_chunk.section_system_improvement_tooltip": {
+        "string": "解决了在两个文件中检测到的相同更改"
     },
-    "fullscreen_actions.remove-interactions-on-selection": {
-        "string": "Remove interactions"
+    "collaboration.branching_chunk.side_by_side_left_label": {
+        "string": "之前"
     },
-    "fullscreen_actions.remove-interactions-on-page": {
-        "string": "Remove all interactions"
+    "collaboration.branching_chunk.side_by_side_right_label": {
+        "string": "最新"
     },
-    "fullscreen_actions.ready-status-remove": {
-        "string": "Remove ready status"
+    "collaboration.branching_chunk.tile_affected_items": {
+        "string": "{affectedCount, plural, other {影响{affectedCount}个项目}}"
     },
-    "help_widget.menu.report_issue": {
-        "string": "Report an issue"
+    "collaboration.branching_chunk.tile_empty_page_fallback": {
+        "string": "空白页面"
     },
-    "comments.mark_as_resolved": {
-        "string": "Mark as resolved"
+    "collaboration.branching_chunk.tile_preview_node_fallback": {
+        "string": "预览不可用"
     },
-    "fullscreen_actions.restore-symbol-or-state-group": {
-        "string": "Restore main component"
+    "collaboration.branching_chunk.tile_variants": {
+        "string": "{variantCount, plural, other {包含{variantCount}个变体}}"
     },
-    "fullscreen_actions.rotate-180": {
-        "string": "Rotate 180˚"
+    "collaboration.branching_chunk.tile_variants_and_affected_items_separator": {
+        "string": " · "
     },
-    "fullscreen_actions.rotate-90-clockwise": {
-        "string": "Rotate 90˚ right"
+    "collaboration.branching_chunk.tile_variants_changed": {
+        "string": "{variantCount, plural, other {更改了{variantCount}个变体}}"
     },
-    "fullscreen_actions.rotate-90-counterclockwise": {
-        "string": "Rotate 90˚ left"
+    "collaboration.branching_create.title": {
+        "string": "创建分支"
     },
-    "fullscreen.properties_panel.stroke_settings.round": {
-        "string": "Round"
+    "collaboration.branching_create.create_button": {
+        "string": "创建"
     },
-    "fullscreen_actions.round-to-pixels": {
-        "string": "Round to pixel"
+    "collaboration.branching_create.cancel_button": {
+        "string": "取消"
     },
-    "fullscreen_actions.run-multi-stack-auto-layout": {
-        "string": "Suggest auto layout"
+    "collaboration.branching_force.merge_to_source_title": {
+        "string": "强制合并到主文件"
     },
-    "fullscreen_actions.save-as": {
-        "string": "Save local copy…"
+    "collaboration.branching_force.merge_to_source_confirm": {
+        "string": "强制合并到主文件"
     },
-    "help_widget.menu.set_commit_sha": {
-        "string": "Set commit SHA"
+    "collaboration.branching_force.merge_to_source_description": {
+        "string": "将所有分支的更改合并到主文件中，而无需分支确认步骤。"
     },
-    "fullscreen_actions.create-savepoint": {
-        "string": "Save to version history…"
+    "collaboration.branching_force.merge_to_source_blocked_description": {
+        "string": "要合并此分支，需要解决与主文件的冲突"
     },
-    "fullscreen_actions.toggle-version-history": {
-        "string": "Show version history"
+    "collaboration.branching_force.merge_from_source_title": {
+        "string": "强制更新自主文件"
     },
-    "fullscreen_actions.create-branch": {
-        "string": "Create branch…"
+    "collaboration.branching_force.merge_from_source_confirm": {
+        "string": "强制更新自主文件"
     },
-    "fullscreen_actions.see-all-branches": {
-        "string": "See all branches"
+    "collaboration.branching_force.merge_from_source_description": {
+        "string": "将主文件中的所有更改强制更新到此分支，而无需确认步骤。"
     },
-    "fullscreen_actions.view_main_file": {
-        "string": "View main file"
+    "collaboration.branching_force.merge_from_source_merge_conflict_label": {
+        "string": "选择更新冲突管理的用户设置:"
     },
-    "fullscreen_actions.review_changes": {
-        "string": "Review changes…"
+    "collaboration.branching_force.merge_from_source_merge_conflict_radio_label": {
+        "string": "选择所有冲突的{option}更改"
     },
-    "fullscreen_actions.review_and_merge_changes": {
-        "string": "Review and merge changes…"
+    "collaboration.branching_force.merge_from_source_merge_conflict_radio_option_main": {
+        "string": "主文件"
     },
-    "fullscreen_actions.force_merge_branch": {
-        "string": "Force merge branch"
+    "collaboration.branching_force.merge_from_source_merge_conflict_radio_option_branch": {
+        "string": "分支"
     },
-    "fullscreen_actions.update_from_main": {
-        "string": "Update from main…"
+    "collaboration.branching_from_source.apply_changes": {
+        "string": "应用更改"
     },
-    "fullscreen_actions.force_update_from_main": {
-        "string": "Force update from main"
+    "collaboration.branching_from_source.applying_changes_from_main_file": {
+        "string": "正在应用主文件中的更改"
     },
-    "fullscreen_actions.select-all": {
-        "string": "Select all"
+    "collaboration.branching_from_source.branch": {
+        "string": "分支"
     },
-    "fullscreen_actions.select-all-text": {
-        "string": "Select all text layers"
+    "collaboration.branching_from_source.changes_applied": {
+        "string": "更改已应用"
     },
-    "fullscreen_actions.select-all-with-menu-options": {
-        "string": "Select all with"
+    "collaboration.branching_from_source.changes_kept": {
+        "string": "保留更改"
     },
-    "fullscreen_actions.select-inverse": {
-        "string": "Select inverse"
+    "collaboration.branching_from_source.confirm_picks": {
+        "string": "确认选择"
     },
-    "fullscreen_actions.select-matching": {
-        "string": "Select matching layers"
+    "collaboration.branching_from_source.confirm_your_picks_as_well_as_additional_changes_that_may_be_pulled_into_your_file": {
+        "string": "确认您的选择以及可能会拉入文件的其他更改。"
     },
-    "fullscreen_actions.select-child": {
-        "string": "Select children"
+    "collaboration.branching_from_source.conflicted": {
+        "string": "冲突"
     },
-    "fullscreen_actions.select-node": {
-        "string": "{name}"
+    "collaboration.branching_from_source.continue_to_apply_non_conflicting_changes": {
+        "string": "继续应用主文件中的{changeCount}个无冲突的更改"
     },
-    "fullscreen_actions.select-node-menu": {
-        "string": "Select layer"
+    "collaboration.branching_from_source.keep_branch": {
+        "string": "保留分支"
     },
-    "fullscreen_actions.select-parent": {
-        "string": "Select parent"
+    "collaboration.branching_from_source.keep_main": {
+        "string": "保留主文件"
     },
-    "fullscreen_actions.select-next-sibling": {
-        "string": "Select next sibling"
+    "collaboration.branching_from_source.keeping_changes_on_branch": {
+        "string": "正在保留分支上的更改"
     },
-    "fullscreen_actions.select-previous-sibling": {
-        "string": "Select previous sibling"
+    "collaboration.branching_from_source.main": {
+        "string": "主文件"
     },
-    "fullscreen_actions.change_variant": {
-        "string": "Change variant"
+    "collaboration.branching_from_source.next": {
+        "string": "下一步"
     },
-    "fullscreen_actions.swap_instance": {
-        "string": "Swap instance"
+    "collaboration.branching_from_source.no_item": {
+        "string": "无项目"
     },
-    "fullscreen_actions.select-same-effect": {
-        "string": "Select all with same effect"
+    "collaboration.branching_from_source.num_conflicts": {
+        "string": "{conflictCount}个冲突中的{pickedCount}个已选择"
     },
-    "fullscreen_actions.select-same-fill": {
-        "string": "Select all with same fill"
+    "collaboration.branching_from_source.num_unique_items_related_items": {
+        "string": "{numUniqueItems}个相关项目"
     },
-    "fullscreen_actions.select-same-font": {
-        "string": "Select all with same font"
+    "collaboration.branching_from_source.pick_branch": {
+        "string": "选择分支"
     }
 }

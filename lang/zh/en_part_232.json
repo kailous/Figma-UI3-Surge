@@ -1,152 +1,152 @@
 {
-    "slides.templates.banner.new_deck_button": {
-        "string": "Use in new deck"
+    "teams_table.this_action_cannot_be_applied_to_all_selected_teams": {
+        "string": "此操作无法应用于所有选定的团队"
     },
-    "templates.banner.republish.primary_text": {
-        "string": "Unpublished changes"
+    "teams_table.transfer": {
+        "string": "转移"
     },
-    "templates.banner.republish.secondary_text_not_owner": {
-        "string": "You can still use an older version of this template."
+    "teams_table.transfer_team": {
+        "string": "转移团队"
     },
-    "templates.banner.republish.republish_action": {
-        "string": "Publish changes"
+    "teams_table.view_projects": {
+        "string": "查看项目"
     },
-    "templates.banner.republish.secondary_text": {
-        "string": "Publish these changes to update the template."
+    "teams_table.view_settings": {
+        "string": "查看设置"
     },
-    "templates.banner.republish.you_re_viewing_a_template": {
-        "string": "You’re viewing a template."
+    "teams_table.view_team_members": {
+        "string": "查看成员"
     },
-    "whiteboard.figjam_export.file_type": {
-        "string": "File type"
+    "teams_table.your_organization_does_not_have_any_teams_yet": {
+        "string": "组织中还没有团队。"
     },
-    "whiteboard.figjam_export.content_type": {
-        "string": "Content type"
+    "update_company_details_modal.update_display_name.error": {
+        "string": "目前无法更新团队的显示名称"
     },
-    "whiteboard.figjam_export.background": {
-        "string": "Background"
+    "update_company_details_modal.update_legal_name_and_shipping_address.error": {
+        "string": "目前无法更新配送地址或法定名称。请检查配送地址并重试。"
     },
-    "whiteboard.figjam_export.export_area": {
-        "string": "Export area"
+    "update_company_details_modal.update_legal_name_and_shipping_address.success": {
+        "string": "配送地址和法定名称已更新。"
     },
-    "whiteboard.figjam_export.exporting_may_take_a_minute_or_two": {
-        "string": "Exporting may take a minute or two"
+    "update_company_details_modal.update_team_name.error": {
+        "string": "目前无法更新团队名称或法定团队名称"
     },
-    "whiteboard.figjam_export.export": {
-        "string": "Export"
+    "update_company_details_modal.update_team_name.success": {
+        "string": "团队名称和法定团队名称已更新。"
     },
-    "whiteboard.figjam_export.solid": {
-        "string": "Solid"
+    "update_company_details_modal.updateshipping_address.error": {
+        "string": "目前无法更新配送地址"
     },
-    "whiteboard.figjam_export.transparent": {
-        "string": "Transparent"
+    "workspace.create_confirmation_modal.confirm": {
+        "string": "创建工作区"
     },
-    "whiteboard.figjam_export.grid": {
-        "string": "Grid"
+    "workspace.create_confirmation_modal.description.intro": {
+        "string": "第一次创建工作区后，组织成员将立即可以使用以下新功能。"
     },
-    "whiteboard.figjam_export.table": {
-        "string": "Tables"
+    "workspace.create_confirmation_modal.description.list.browsing": {
+        "string": "浏览以查找工作区"
     },
-    "whiteboard.figjam_export.sticky": {
-        "string": "Stickies"
+    "workspace.create_confirmation_modal.description.list.libraries": {
+        "string": "在库模式中按工作区组织的库"
     },
-    "whiteboard.figjam_export.selection_only": {
-        "string": "Selection only"
+    "workspace.create_confirmation_modal.description.list.prompt": {
+        "string": "选择工作区的提示（如果已启用）"
     },
-    "whiteboard.figjam_export.entire_file": {
-        "string": "Entire file"
+    "workspace.create_confirmation_modal.description.list.search": {
+        "string": "按工作区筛选搜索结果"
     },
-    "whiteboard.figjam_export.exporting": {
-        "string": "Exporting"
+    "workspace.create_confirmation_modal.description.list.section": {
+        "string": "侧边栏中的{workspace}部分"
     },
-    "whiteboard.figjam_export.no_background": {
-        "string": "None"
+    "workspace.create_confirmation_modal.description.list.section.workspace": {
+        "string": "工作区"
     },
-    "whiteboard.figjam_export.csv_disabled": {
-        "string": "The CSV file export option is disabled if there’s no valid content to export"
+    "workspace.create_confirmation_modal.description.outro": {
+        "string": "有关这些功能的更多信息，请{learnMore}，如有任何疑问，请联系客户经理。"
     },
-    "fullscreen.toolbar.ui3_confidentiality_banner.learn_more_button": {
-        "string": "Learn more"
+    "workspace.create_confirmation_modal.description.outro.learn_more": {
+        "string": "了解更多"
     },
-    "fullscreen.toolbar.ui3_confidentiality_banner.share_feedback_button": {
-        "string": "Share feedback"
+    "workspace.create_confirmation_modal.title": {
+        "string": "确定要创建此工作区吗？"
     },
-    "fullscreen.toolbar.ui3_confidentiality_banner.banner_header": {
-        "string": "Private beta"
+    "workspace_table.admin_input_placeholder": {
+        "string": "添加电子邮件或姓名"
     },
-    "fullscreen.toolbar.ui3_confidentiality_banner.banner_description": {
-        "string": "Everything here is confidential—top secret!—so keep it quiet, and please be careful when working in public."
+    "workspace_table.admins": {
+        "string": "管理员"
     },
-    "file_migration.updating.title": {
-        "string": "Updating file"
+    "workspace_table.admins_input": {
+        "string": "管理员"
     },
-    "file_migration.updating.message": {
-        "string": "This file is currently being updated to a newer file format. This may take a few moments. You may close the tab while the update is happening."
+    "workspace_table.admins_will_manage_input_help_text": {
+        "string": "这些用户将积极管理工作区。"
     },
-    "collaboration.feedback.no_visible_changes": {
-        "string": "No visible changes between these versions"
+    "workspace_table.an_error_occurred_while_deleting_workspaces": {
+        "string": "删除工作区时发生错误"
     },
-    "fullscreen.pages_panel.layers_tab": {
-        "string": "Layers"
+    "workspace_table.are_you_sure_you_want_to_delete_these_workspaces": {
+        "string": "确定要删除这些工作区吗？"
     },
-    "fullscreen.starter_team_edit_modal.when_you_open_this_link_your_email_may_be_visible": {
-        "string": "When you open this link, your email {email} may be visible to other people who have access to the file"
+    "workspace_table.cancel_create_or_edit": {
+        "string": "取消"
     },
-    "fullscreen.starter_team_edit_modal.open_this_link": {
-        "string": "Open this link?"
+    "workspace_table.create_workspace_button": {
+        "string": "创建工作区"
     },
-    "dev_handoff.workflows.overview.no_designs_ready": {
-        "string": "ready for dev"
+    "workspace_table.create_workspace_title": {
+        "string": "创建工作区"
     },
-    "dev_handoff.workflows.overview.no_designs_completed": {
-        "string": "completed"
+    "workspace_table.delete_n_workspaces": {
+        "string": "删除{licenseGroupsCount}个工作区"
     },
-    "dev_handoff.workflows.overview.title": {
-        "string": "Ready for dev"
+    "workspace_table.deleting_the_workspaces_will_cause": {
+        "string": "删除{licenseGroupsNames}工作区将导致工作区的所有成员和团队移至“未分配”。"
     },
-    "dev_handoff.workflows.overview.empty_message_search": {
-        "string": "No results matched your search"
+    "workspace_table.edit_details": {
+        "string": "编辑详细信息"
     },
-    "dev_handoff.workflows.overview.no_designs": {
-        "string": "No designs are marked {status}. {link}"
+    "workspace_table.edit_workspace_title": {
+        "string": "编辑工作区"
     },
-    "dev_handoff.workflows.overview.learn_more": {
-        "string": "Learn more"
+    "workspace_table.empty_state.approve_libraries.subtitle": {
+        "string": "让成员知道每个工作区最适合的库。"
     },
-    "dev_handoff.workflows.edit_info.changed": {
-        "string": "Design changed"
+    "workspace_table.empty_state.approve_libraries_and_assets": {
+        "string": "启用库和资产"
     },
-    "dev_handoff.workflows.edit_info.new version": {
-        "string": "New design version"
+    "workspace_table.empty_state.let_workspaces_be_unique": {
+        "string": "让工作区独一无二"
     },
-    "dev_handoff.overview_mode.design_status": {
-        "string": "{status} · {fromNow}"
+    "workspace_table.empty_state.let_workspaces_be_unique.subtitle": {
+        "string": "管理员可以使用横幅、图标等使其工作区独一无二。"
     },
-    "dev_handoff.workflows.overview.show_on_page_action": {
-        "string": "Show on page"
+    "workspace_table.empty_state.manage_access_and_plugins": {
+        "string": "管理访问和插件"
     },
-    "dev_handoff.workflows.overview.feedback": {
-        "string": "Feedback"
+    "workspace_table.empty_state.manage_access_and_plugins.subtitle": {
+        "string": "控制如何共享每个工作区的文件链接以及在哪里可以使用插件。"
     },
-    "dev_handoff.workflows.overview.tab_all": {
-        "string": "All"
+    "workspace_table.empty_state.subtitle": {
+        "string": "根据工作内容、协作者和氛围对团队进行分组。"
     },
-    "dev_handoff.workflows.overview.tab_recent": {
-        "string": "Recently viewed"
+    "workspace_table.empty_state.title": {
+        "string": "创建工作区并开始整理团队"
     },
-    "dev_handoff.workflows.overview.tab_ready": {
-        "string": "Ready"
+    "workspace_table.make_it_hidden": {
+        "string": "设为隐藏"
     },
-    "dev_handoff.workflows.overview.tab_completed": {
-        "string": "Completed"
+    "workspace_table.members": {
+        "string": "成员"
     },
-    "dev_handoff.workflows.overview.sections_count": {
-        "string": "{count, plural, one {{count} section} other {{count} sections}}"
+    "workspace_table.n_members": {
+        "string": "{count}个成员"
     },
-    "dev_handoff.workflows.overview.frames_count": {
-        "string": "{count, plural, one {{count} frame} other {{count} frames}}"
+    "workspace_table.n_teams": {
+        "string": "{count}个团队"
     },
-    "dev_handoff.workflows.overview.pages_count": {
-        "string": "{count, plural, one { on {count} page} other { across {count} pages}}"
+    "workspace_table.name": {
+        "string": "名称"
     }
 }

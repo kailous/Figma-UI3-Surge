@@ -1,152 +1,152 @@
 {
-    "community.publishing.data_security.approved": {
-        "string": "{buttonText} were reviewed and approved by Figma."
+    "community.try.pick_workspace.this_widget_isnt_allowed_by_org": {
+        "string": "此小部件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     },
-    "community.publishing.data_security.rejected": {
-        "string": "The security info does not follow Figma’s security best practices. {buttonText}"
+    "community.try.pick_workspace.title": {
+        "string": "选择试用位置"
     },
-    "community.publishing.data_security.initial_button.widget": {
-        "string": "how your widget handles data ->"
+    "community.try.pick_workspace.widget_isnt_allowed_by_org": {
+        "string": "此小部件不被{orgName}允许。你可以选择以下外部团队继续试用。"
     },
-    "community.publishing.data_security.initial_button.plugin": {
-        "string": "how your plugin handles data ->"
+    "community.try.plugin_name_with_community": {
+        "string": "{pluginName}（社区）"
     },
-    "community.publishing.data_security.security_details_button": {
-        "string": "Security details"
+    "community.try.plugin_requests_disabled_by_your_org": {
+        "string": "{orgName}不允许请求插件"
     },
-    "community.publishing.data_security.details_are_missing": {
-        "string": "Some details are missing ->"
+    "community.try.presets_disabled_by_admins": {
+        "string": "UI工具包已被管理员禁用"
     },
-    "community.publishing.security_form.learn_more_arrow": {
-        "string": "Learn more →"
+    "community.try.save_file": {
+        "string": "保存文件"
     },
-    "community.publishing.data_security": {
-        "string": "Data security"
+    "community.try.slides_disabled_by_admins": {
+        "string": "Figma Slides已被管理员禁用"
     },
-    "community.publishing.awaiting_review": {
-        "string": "Awaiting review by Figma"
+    "community.try.temporary_file_has_unsaved_changes_description": {
+        "string": "此临时文件有未保存的更改。为了保护你的工作，请立即保存。"
     },
-    "community.publishing.submitted_with_date": {
-        "string": "Submitted {date}"
+    "community.try.unavailable": {
+        "string": "不可用"
     },
-    "community.publishing.failed_to_read_file": {
-        "string": "Failed to read {filename}"
+    "community.try.used_by_n_people": {
+        "string": "{num, plural, other {{num}人使用}}"
     },
-    "community.publishing.invalid_id_in_manifest": {
-        "string": "Invalid ID in {filename}"
+    "community.try.widget_requests_disabled_by_your_org": {
+        "string": "{orgName}不允许请求小部件"
     },
-    "community.publishing.add_this_id_to_your_file": {
-        "string": "Add this ID to your {filename} file"
+    "community.try.you_have_unsaved_changes": {
+        "string": "你有未保存的更改"
     },
-    "community.publishing.plugin_missing_network_access": {
-        "string": "Add and test this optional field in your {filename} file, replacing the … with domains that your plugin will access. If your plugin doesn't need network access, replace it with \"none\". "
+    "community.undo": {
+        "string": "撤销"
     },
-    "community.publishing.widget_missing_network_access": {
-        "string": "Add and test this optional field in your {filename} file, replacing the … with domains that your widget will access. If your widget doesn't need network access, replace it with \"none\". "
+    "community.universal_posting_modal.desktop_callout.plugins": {
+        "string": "使用桌面应用程序查看插件"
     },
-    "community.publishing.allowed_domains_reasoning_not_specified": {
-        "string": "Allowed domains include “*” but reasoning is not specified."
+    "community.universal_posting_modal.desktop_callout.widgets": {
+        "string": "使用桌面应用程序查看小部件"
     },
-    "community.publishing.resource_info.plugin": {
-        "string": "Plugin info"
+    "community.universal_posting_modal.desktop_get": {
+        "string": "获取桌面应用程序"
     },
-    "community.publishing.resource_info.widget": {
-        "string": "Widget info"
+    "community.universal_posting_modal.desktop_open": {
+        "string": "打开桌面应用程序"
     },
-    "community.publishing.resource_id.plugin": {
-        "string": "Plugin ID"
+    "community.universal_posting_modal.file_info.available": {
+        "string": "{numFiles, plural, other {{numFiles}个文件可用}}"
     },
-    "community.publishing.resource_id.widget": {
-        "string": "Widget ID"
+    "community.universal_posting_modal.footer.choose_resource": {
+        "string": "选择要发布到社区的资源。只有文件的编辑者才能发布原型。"
     },
-    "community.publishing.editor_type": {
-        "string": "Editor type"
+    "community.universal_posting_modal.footer.learn_more": {
+        "string": "了解更多"
     },
-    "community.publishing.network": {
-        "string": "Network"
+    "community.universal_posting_modal.plugin_info.available": {
+        "string": "{numPlugins, plural, other {{numPlugins}个插件可用}}"
     },
-    "universal_insert.see_details": {
-        "string": "See details"
+    "community.universal_posting_modal.plugin_info.unavailable": {
+        "string": "插件不可用"
     },
-    "community.publishing.generate_id": {
-        "string": "Generate ID…"
+    "community.universal_posting_modal.recent_editable_files_search.no_files_matching": {
+        "string": "没有与{searchQuery}匹配的文件"
     },
-    "community.publishing.id_with_number": {
-        "string": "\"id\": \"{pendingId}\""
+    "community.universal_posting_modal.resource_empty.files_subtitle": {
+        "string": "你创建的文件会显示在这里，几次点击即可发布到社区。"
     },
-    "community.publishing.id": {
-        "string": "ID"
+    "community.universal_posting_modal.resource_empty.files_title": {
+        "string": "尚无文件"
     },
-    "community.publishing.editor_type_figma": {
-        "string": "\"editorType\": [\"figma\"]"
+    "community.universal_posting_modal.resource_empty.plugins_subtitle": {
+        "string": "你创建的插件会显示在这里，几次点击即可发布到社区。"
     },
-    "community.publishing.please_add_this_to_your_manifest": {
-        "string": "Please add this to your {filename} file"
+    "community.universal_posting_modal.resource_empty.plugins_title": {
+        "string": "尚无插件"
     },
-    "community.publishing.made_for_all_product_types": {
-        "string": "Made for all products and modes"
+    "community.universal_posting_modal.resource_empty.widgets_subtitle": {
+        "string": "你创建的小部件会显示在这里，几次点击即可发布到社区。"
     },
-    "community.publishing.made_for_figjam_and_dev": {
-        "string": "Made for FigJam + Dev Mode"
+    "community.universal_posting_modal.resource_empty.widgets_title": {
+        "string": "尚无小部件"
     },
-    "community.publishing.made_for_figma_design_and_figjam": {
-        "string": "Made for Figma design + FigJam"
+    "community.universal_posting_modal.search_bar.placeholder": {
+        "string": "搜索要发布的文件"
     },
-    "community.publishing.made_for_figma_design_and_inspect": {
-        "string": "Made for Figma design + Dev Mode"
+    "community.universal_posting_modal.widget_info.available": {
+        "string": "{numWidgets, plural, other {{numWidgets}个小部件可用}}"
     },
-    "community.publishing.made_for_figma_design": {
-        "string": "Made for Figma design"
+    "community.universal_posting_modal.widget_info.unavailable": {
+        "string": "小部件不可用"
     },
-    "community.publishing.made_for_figjam": {
-        "string": "Made for FigJam"
+    "community.use_slide_template": {
+        "string": "使用模板"
     },
-    "community.publishing.made_for_inspect": {
-        "string": "Made for Dev Mode"
+    "community.use_slide_template.disabled_tooltip": {
+        "string": "Figma Slides在你的组织中已被禁用"
     },
-    "community.general.tagline": {
-        "string": "Tagline"
+    "community.using.figjam_board": {
+        "string": "FigJam白板"
     },
-    "community.publishing.widget_tagline_input_placeholder": {
-        "string": "Describe your widget in a few words"
+    "community.using.figma_file": {
+        "string": "Figma文件"
     },
-    "community.publishing.plugin_tagline_input_placeholder": {
-        "string": "Describe your plugin in a few words"
+    "community.using.new_file": {
+        "string": "新文件"
     },
-    "community.cards.generating_widget_thumbnail": {
-        "string": "Generating widget thumbnail…"
+    "community.using.open_in": {
+        "string": "在以下位置打开..."
     },
-    "community.cards.learn_more": {
-        "string": "Learn more"
+    "community.using.open_in_no_ellipses": {
+        "string": "在以下位置打开"
     },
-    "community.cards.upload_your_widget_thumbnail": {
-        "string": "Upload by right-clicking your widget, \"Set as thumbnail\" in Widgets menu. {learnHowLink}"
+    "community.using.pick_workspace.open_outside_of_org": {
+        "string": "在{orgName}外打开？"
     },
-    "community.cards.update_your_widget_thumbnail": {
-        "string": "Update by right-clicking your widget, \"Set as thumbnail\" in Widgets menu. {learnHowLink}"
+    "community.using.pick_workspace.title": {
+        "string": "选择打开位置"
     },
-    "community.cards.copy_paste_your_widget_as_a_png": {
-        "string": "Copy/paste your widget as a PNG ({copyShortcut} then {pasteShortcut}). {learnHowLink}"
+    "community.using.playground_file": {
+        "string": "Playground文件"
     },
-    "community.cards.learn_how": {
-        "string": "Learn how"
+    "community.view": {
+        "string": "查看"
     },
-    "community.publishing.playground_file.dropdown.open_file": {
-        "string": "Open source file"
+    "community.view_bar.all": {
+        "string": "全部"
     },
-    "community.publishing.playground_file.dropdown.remove": {
-        "string": "Remove"
+    "community.view_bar.all_creators": {
+        "string": "所有创建者"
     },
-    "community.publishing.playground_file.tooltip": {
-        "string": "Playground file options"
+    "community.view_bar.all_resources": {
+        "string": "所有资源"
     },
-    "community.publishing.publish_first_to_invite": {
-        "string": "{publishThisResourceLink} before you invite others to update."
+    "community.view_bar.browse": {
+        "string": "浏览"
     },
-    "community.publishing.publish_this_resource": {
-        "string": "Publish this resource"
+    "community.view_bar.copied": {
+        "string": "已复制"
     },
-    "community.publishing.publisher_role_owner": {
-        "string": "Owner"
+    "community.view_bar.copy_link": {
+        "string": "复制链接"
     }
 }

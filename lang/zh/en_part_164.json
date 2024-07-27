@@ -1,152 +1,152 @@
 {
-    "community.plugin_development.widget_creation_option_with_iframe_description": {
-        "string": "Build a widget that can open an iFrame window, with full access to browser-based APIs."
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_des": {
+        "string": "设计师模板"
     },
-    "community.plugin_development.please_add_some_alphanumeric_text_to_your_resource_name": {
-        "string": "Please add some alphanumeric text to your resource name"
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_des_badge": {
+        "string": "新设计师模板"
     },
-    "community.plugin_development.unable_to_write_resource_to_disk": {
-        "string": "Unable to write resource to disk. Please try again later."
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_eng": {
+        "string": "开发者模板"
     },
-    "community.plugin_development.unable_to_generate_resource_id": {
-        "string": "Unable to generate resource ID. Please try again later."
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_eng_badge": {
+        "string": "新开发者模板"
     },
-    "community.plugin_development.you_must_provide_a_name_for_your_plugin": {
-        "string": "You must provide a name for your plugin"
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_mkt": {
+        "string": "市场人员模板"
     },
-    "community.plugin_development.you_must_provide_a_name_for_your_widget": {
-        "string": "You must provide a name for your widget"
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_mkt_badge": {
+        "string": "新市场人员模板"
     },
-    "community.plugin_development.plugin_name": {
-        "string": "Plugin name"
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_pm": {
+        "string": "产品经理模板"
     },
-    "community.plugin_development.widget_name": {
-        "string": "Widget name"
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_pm_badge": {
+        "string": "新产品经理模板"
     },
-    "community.plugin_development.new_plugin_created": {
-        "string": "New plugin created!"
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_ur": {
+        "string": "用户研究员模板"
     },
-    "community.plugin_development.new_widget_created": {
-        "string": "New widget created!"
+    "file_browser.new_file_creation_topbar.explore_fig_jam_templates_ur_badge": {
+        "string": "新用户研究员模板"
     },
-    "community.detail_view.universal": {
-        "string": "For all products and modes"
+    "file_browser.new_file_creation_topbar.use_templates": {
+        "string": "使用模板"
     },
-    "community.detail_view.made_for_figma_design_and_figjam": {
-        "string": "For Figma and FigJam"
+    "file_browser.offline_notification.create_file": {
+        "string": "创建文件"
     },
-    "community.detail_view.figma_design_and_dev_mode": {
-        "string": "For Design and Dev Mode"
+    "file_browser.offline_notification.youre_offline_message_body": {
+        "string": "{youreOfflineMessagePrefix} 您可以继续在打开的文件中工作或创建新文件。"
     },
-    "community.detail_view.made_for_fig_jam_and_dev_mode": {
-        "string": "For FigJam and Figma: Dev Mode"
+    "file_browser.offline_notification.youre_offline_message_body_no_create": {
+        "string": "{youreOfflineMessagePrefix} 您可以继续在打开的文件中工作。"
     },
-    "community.detail_view.made_for_fig_jam": {
-        "string": "For FigJam"
+    "file_browser.offline_notification.youre_offline_message_prefix": {
+        "string": "您已离线。"
     },
-    "community.detail_view.made_for_figma_design": {
-        "string": "For Figma"
+    "file_browser.open_in_new_tab": {
+        "string": "在新标签页中打开"
     },
-    "community.detail_view.dev_mode_only": {
-        "string": "For Figma: Dev Mode"
+    "file_browser.pinning.add_file": {
+        "string": "添加文件"
     },
-    "community.detail_view.made_for_slides": {
-        "string": "For Figma Slides"
+    "file_browser.pinning.add_pin_error_max_pins": {
+        "string": "最多只能固定{maxNumWorkspacePins}个文件"
     },
-    "community.insert_modal.codegen_plugin_icon_tooltip": {
-        "string": "Generates code snippets"
+    "file_browser.pinning.choose_file_to_pin_modal.file_not_workspace_visible.tooltip": {
+        "string": "只有设置为{orgName}用户通过链接可查看和搜索的文件才能固定到工作区。"
     },
-    "design_systems.component_properties.create_property_menu_option": {
-        "string": "Create property…"
+    "file_browser.pinning.delete_pin_modal.confirm": {
+        "string": "从固定中删除"
     },
-    "design_systems.component_properties.boolean": {
-        "string": "Boolean"
+    "file_browser.pinning.delete_pin_modal.confirmation_bell": {
+        "string": "已从工作区中删除固定文件"
     },
-    "design_systems.component_properties.text": {
-        "string": "Text"
+    "file_browser.pinning.delete_pin_modal.content": {
+        "string": "此文件将不再固定到工作区，描述也会被删除。"
     },
-    "design_systems.component_properties.instance_swap": {
-        "string": "Instance swap"
+    "file_browser.pinning.delete_pin_modal.error": {
+        "string": "无法删除固定文件。要重试吗？"
     },
-    "design_systems.component_properties.variant": {
-        "string": "Variant"
+    "file_browser.pinning.delete_pin_modal.header": {
+        "string": "从固定文件中删除"
     },
-    "design_systems.states_panel.default_property_value": {
-        "string": "Default"
+    "file_browser.pinning.max_files.add_button_tooltip": {
+        "string": "最多可以固定{maxPins}个文件"
     },
-    "design_systems.component_properties.boolean_true": {
-        "string": "True"
+    "file_browser.pinning.no_pinned_files": {
+        "string": "还没有固定的文件。"
     },
-    "design_systems.component_properties.boolean_false": {
-        "string": "False"
+    "file_browser.pinning.pin_file": {
+        "string": "固定文件"
     },
-    "design_systems.component_properties.error_conflicting_name": {
-        "string": "Conflicting property name"
+    "file_browser.pinning.pin_modal.confirmation_bell": {
+        "string": "文件已固定到工作区"
     },
-    "design_systems.component_properties.error_unused_property": {
-        "string": "Not used within component"
+    "file_browser.pinning.pin_modal.confirmation_bell.view_workspace": {
+        "string": "查看工作区"
     },
-    "design_systems.component_properties.has_unpublished_preferred_values": {
-        "string": "Has unpublished preferred values"
+    "file_browser.pinning.pin_modal.description_textarea_placeholder": {
+        "string": "添加此文件的简短描述"
     },
-    "design_systems.component_properties.create_component_property": {
-        "string": "Create component property"
+    "file_browser.pinning.pin_modal.edit.confirmation_bell": {
+        "string": "已更新固定文件"
     },
-    "design_systems.component_properties.name": {
-        "string": "Name"
+    "file_browser.pinning.pin_modal.edit.error": {
+        "string": "无法更新固定文件。要重试吗？"
     },
-    "design_systems.component_properties.default_value": {
-        "string": "Value"
+    "file_browser.pinning.pin_modal.edit_pin_description": {
+        "string": "编辑固定文件描述"
     },
-    "design_systems.component_properties.create_property": {
-        "string": "Create property"
+    "file_browser.pinning.pin_modal.error": {
+        "string": "无法固定文件。要重试吗？"
     },
-    "design_systems.component_properties.choose_default_instance_value_cycle": {
-        "string": "Components can't contain instances of themselves"
+    "file_browser.pinning.pin_modal.pin_file_to_workspace": {
+        "string": "将文件固定到工作区"
     },
-    "design_systems.component_properties.choose_instance": {
-        "string": "Choose instance"
+    "file_browser.pinning.pin_modal.save": {
+        "string": "保存"
     },
-    "design_systems.component_properties.apply_component_property": {
-        "string": "Apply {propType} property"
+    "file_browser.pinning.pinned_files": {
+        "string": "固定的文件"
     },
-    "design_systems.component_properties.create_component_property_of_type": {
-        "string": "Create {propType} property"
+    "file_browser.pinning.suggested": {
+        "string": "推荐"
     },
-    "design_systems.component_properties.boolean_property_default_name": {
-        "string": "Show {selectedNodeName}"
+    "file_browser.pinning.update_permissions.content": {
+        "string": "将此文件固定到工作区{workspaceName}会将其权限更改为{permission}。"
     },
-    "design_systems.component_properties.boolean_property_default_name_fallback": {
-        "string": "{numSelected, plural, one {Show layer} other {Show layers}}"
+    "file_browser.pinning.update_permissions.content.permission": {
+        "string": "{orgName}的所有知道链接的人都可以查看和搜索"
     },
-    "design_systems.component_properties.instance_swap_property_default_name": {
-        "string": "Instance"
+    "file_browser.planless_favorites.add_favorites_to_modal_title": {
+        "string": "将这些项目添加到..."
     },
-    "design_systems.component_properties.variant_property_default_name": {
-        "string": "Property"
+    "file_browser.planless_favorites.add_to_sidebar": {
+        "string": "添加到侧边栏"
     },
-    "fullscreen.scrubbable.percent": {
-        "string": "%"
+    "file_browser.planless_favorites.unstar_all": {
+        "string": "取消所有星标"
     },
-    "rcs.playground_file.ready_to_try": {
-        "string": "Ready to try?"
+    "file_browser.planless_favorites.your_favorited_items_tooltip": {
+        "string": "Figma发生了一些变化，我们不希望您丢失重要的东西"
     },
-    "rcs.playground_file.ready_to_try.widget": {
-        "string": "{readyToTry} Grab the widget from here."
+    "file_browser.project": {
+        "string": "项目"
     },
-    "rcs.playground_file.ready_to_try.plugin": {
-        "string": "{readyToTry} You can find the plugin here."
+    "file_browser.project_capitalized": {
+        "string": "项目"
     },
-    "rcs.playground_file.switch_devmode_to_design_description": {
-        "string": "Use the toggle to switch between Design Mode and Dev Mode."
+    "file_browser.recents_and_sharing_view.recent_files_tab_name": {
+        "string": "最近查看"
     },
-    "rcs.playground_file.switch_devmode_to_design_title": {
-        "string": "This plugin also runs in Design Mode"
+    "file_browser.recents_and_sharing_view.shared_files_tab_name": {
+        "string": "共享文件"
     },
-    "rcs.plugin_publish.if_anyone_helped": {
-        "string": "If anyone helped you develop this resource, you can give them permission to make updates to it."
+    "file_browser.recents_and_sharing_view.shared_projects_tab_name": {
+        "string": "共享项目"
     },
-    "rcs.plugin_publish.work_with_other_developers": {
-        "string": "Work with other developers?"
+    "file_browser.request_access_modal.can_edit": {
+        "string": "可编辑"
     }
 }

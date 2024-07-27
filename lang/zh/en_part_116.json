@@ -1,152 +1,152 @@
 {
-    "payments_modal.this_file": {
-        "string": "this file"
+    "fullscreen.font_settings.you_can_always_download_the_font_installer_later_from_the_settings_page": {
+        "string": "您可以随时从设置页面下载字体安装程序。"
     },
-    "community.plugins.plugins_and_widgets_are_made_by_third_party_developers_by_using_plugins_and_widgets_you_accept_the_potential_risks_you_won_t_see_this_message_again": {
-        "string": "Plugins and widgets are made by third-party developers. By using plugins and widgets, you accept the potential risks. You won’t see this message again."
+    "fullscreen.fullscreen_view.attempted_sketch_import.do_it_later": {
+        "string": "稍后"
     },
-    "community.plugins.saving_third_party_plugin": {
-        "string": "Saving third-party plugin"
+    "fullscreen.fullscreen_view.attempted_sketch_import.go_to_file_space": {
+        "string": "转到文件空间"
     },
-    "community.plugins.saving_third_party_widget": {
-        "string": "Saving third-party widget'"
+    "fullscreen.fullscreen_view.attempted_sketch_import.import_from_sketch": {
+        "string": "从Sketch导入"
     },
-    "community.plugins.save_plugin": {
-        "string": "Save plugin"
+    "fullscreen.fullscreen_view.attempted_sketch_import.to_import_your_sketch_files_please_drag_them_into_your_file_space": {
+        "string": "要导入您的Sketch文件，请将它们拖到文件空间中。"
     },
-    "community.plugins.save_widget": {
-        "string": "Save widget"
+    "fullscreen.fullscreen_view.context_menu.aria_label": {
+        "string": "上下文菜单"
     },
-    "file_browser.request_access_modal.request_to_join_team": {
-        "string": "Request to join team"
+    "fullscreen.fullscreen_view.restore_component_modal.accept_component_updates": {
+        "string": "接受实例的组件更新以连接到新移动的组件。"
     },
-    "file_browser.team.request_to_edit_team": {
-        "string": "Request to edit"
+    "fullscreen.fullscreen_view.restore_component_modal.another_file": {
+        "string": "另一个文件"
     },
-    "file_browser.request_access_modal.send_a_request_to_join_team": {
-        "string": "Send a request to join {teamName}."
+    "fullscreen.fullscreen_view.restore_component_modal.cancel": {
+        "string": "取消"
     },
-    "file_browser.team.send_a_request_to_edit_team": {
-        "string": "Send a request to edit {teamName}."
+    "fullscreen.fullscreen_view.restore_component_modal.restore": {
+        "string": "恢复"
     },
-    "file_browser.request_access_modal.you": {
-        "string": "{username} (you)"
+    "fullscreen.fullscreen_view.restore_component_modal.restore_component": {
+        "string": "恢复组件"
     },
-    "file_browser.request_access_modal.request_edit_access": {
-        "string": "Request edit access"
+    "fullscreen.fullscreen_view.restore_component_modal.restore_the_main_component_to_continue_making_edits_to_it": {
+        "string": "恢复主组件以继续进行编辑。"
     },
-    "file_browser.request_access_modal.request_view_access": {
-        "string": "Request view access"
+    "fullscreen.fullscreen_view.restore_component_modal.restoring_will_allow": {
+        "string": "立即恢复将允许您发布副本，但实例连接不会返回到此文件。要将实例连接返回，请剪切组件并粘贴到此文件中进行发布。"
     },
-    "file_browser.request_access_modal.request_access_reason_placeholder": {
-        "string": "Add a message about your request (Optional)"
+    "fullscreen.fullscreen_view.restore_component_modal.this_component_was_moved": {
+        "string": "此组件已移动到{otherFile}。"
     },
-    "file_browser.request_access_modal.can_view": {
-        "string": "can view"
+    "fullscreen.fullscreen_view_selector.untitled": {
+        "string": "无标题"
     },
-    "file_browser.request_access_modal.can_edit": {
-        "string": "can edit"
+    "fullscreen.grid_panel.auto": {
+        "string": "(自动)"
     },
-    "request_upgrade.action_text.dev_mode_need_request_admin": {
-        "string": "You’ll need a Dev Mode seat. "
+    "fullscreen.grid_panel.columns": {
+        "string": "列{suffix}"
     },
-    "request_upgrade.description_dev_mode_grace_period": {
-        "string": "Send a Dev Mode request to your team admins. While you wait for approval, you can work in Dev Mode free for up to {numDays} days."
+    "fullscreen.grid_panel.columns_formatter": {
+        "string": "列"
     },
-    "request_upgrade.action_text.dev_mode_need_request": {
-        "string": "You’ll need to request access for a Dev Mode seat. These admins will review it: "
+    "fullscreen.grid_panel.grid": {
+        "string": "网格"
     },
-    "org_upgrade.action_text.teams": {
-        "string": "For you to create a team, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.grid_size": {
+        "string": "网格{sectionSize}px"
     },
-    "org_upgrade.action_text.create_branch": {
-        "string": "For you to create a branch, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.layout_grid": {
+        "string": "布局网格"
     },
-    "org_upgrade.action_text.edit_files": {
-        "string": "For you to edit files in this organization, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.layout_grid_settings": {
+        "string": "布局网格设置"
     },
-    "org_upgrade.action_text.drafts": {
-        "string": "For you to share files from {boldedDrafts}, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.num_columns": {
+        "string": "{numColumns, plural, other {{numColumns}列{suffix}}}"
     },
-    "org_upgrade.drafts": {
-        "string": "Drafts"
+    "fullscreen.grid_panel.num_rows": {
+        "string": "{numRows, plural, other {{numRows}行{suffix}}}"
     },
-    "org_upgrade.action_text.create_file": {
-        "string": "For you to create a file, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.remove_layout_grid": {
+        "string": "移除布局网格"
     },
-    "org_upgrade.action_text.plugin": {
-        "string": "For you to run plugins, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.rows": {
+        "string": "行{suffix}"
     },
-    "org_upgrade.action_text.create_edit_import_design_files": {
-        "string": "To create, edit, and import Figma design files, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.rows_formatter": {
+        "string": "行"
     },
-    "org_upgrade.action_text.create_edit_import_figjam_boards": {
-        "string": "To create, edit, and import FigJam boards, {requestUpgradeInstructions}."
+    "fullscreen.grid_panel.section_size_px": {
+        "string": "({sectionSize}像素)"
     },
-    "org_upgrade.action_text.configurable_request_upgrade_instructions": {
-        "string": "please follow the steps outlined by your admins below"
+    "fullscreen.grids_panel.grid_settings.auto": {
+        "string": "自动"
     },
-    "org_upgrade.action_text.request_upgrade_instructions_from_project_view": {
-        "string": "ask your admin to upgrade you to a paid seat"
+    "fullscreen.grids_panel.grid_settings.bottom": {
+        "string": "底部对齐"
     },
-    "org_upgrade.action_text.request_upgrade_instructions": {
-        "string": "your account needs to be upgraded by an admin"
+    "fullscreen.grids_panel.grid_settings.center": {
+        "string": "居中对齐"
     },
-    "configured_upgrade_request_modal.from_the_admins": {
-        "string": "Instructions from the {orgName} admins:"
+    "fullscreen.grids_panel.grid_settings.color": {
+        "string": "颜色"
     },
-    "request_upgrade.title_figma": {
-        "string": "Request upgrade on Figma design"
+    "fullscreen.grids_panel.grid_settings.count": {
+        "string": "数量"
     },
-    "request_upgrade.title_figjam": {
-        "string": "Request upgrade on FigJam"
+    "fullscreen.grids_panel.grid_settings.gutter": {
+        "string": "槽"
     },
-    "request_upgrade.title_request_access_to_dev": {
-        "string": "Request access to Dev Mode"
+    "fullscreen.grids_panel.grid_settings.height": {
+        "string": "高度"
     },
-    "request_upgrade.reminder_sent": {
-        "string": "Reminder Sent"
+    "fullscreen.grids_panel.grid_settings.left": {
+        "string": "左对齐"
     },
-    "request_upgrade.request_submitted": {
-        "string": "Request submitted"
+    "fullscreen.grids_panel.grid_settings.margin": {
+        "string": "边距"
     },
-    "request_upgrade.we_ve_send_a_reminder_to_your_admins_we_ll_let_you_know_when_your_upgrade_request_is_approved": {
-        "string": "We've send a reminder to your admins. We'll let you know when your upgrade request is approved."
+    "fullscreen.grids_panel.grid_settings.offset": {
+        "string": "偏移"
     },
-    "request_upgrade.we_ve_submitted_your_request_for_a_full_paid_seat_to_your_admins_and_will_notify_you_when_it_s_approved": {
-        "string": "We've submitted your request for a full, paid seat to your admins and will notify you when it's approved."
+    "fullscreen.grids_panel.grid_settings.right": {
+        "string": "右对齐"
     },
-    "request_upgrade.done": {
-        "string": "Done"
+    "fullscreen.grids_panel.grid_settings.size": {
+        "string": "尺寸"
     },
-    "team_user.actions.upgrade.description_account_needs_to_be_upgraded_figjam": {
-        "string": "Your account needs to be upgraded for you to edit and create new files on FigJam."
+    "fullscreen.grids_panel.grid_settings.stretch": {
+        "string": "拉伸"
     },
-    "team_user.actions.upgrade.description_account_needs_to_be_upgraded_figma": {
-        "string": "Your account needs to be upgraded for you to edit and create new files on Figma design."
+    "fullscreen.grids_panel.grid_settings.top": {
+        "string": "顶部对齐"
     },
-    "team_user.actions.upgrade.draft_request_upgrade_to_share": {
-        "string": "For you to share files from {boldedDrafts}, your account needs to be upgraded by an admin."
+    "fullscreen.grids_panel.grid_settings.type": {
+        "string": "类型"
     },
-    "fullscreen.filename_view.drafts": {
-        "string": "Drafts"
+    "fullscreen.grids_panel.grid_settings.width": {
+        "string": "宽度"
     },
-    "team_user.actions.upgrade.description_edit_this_file": {
-        "string": "For you to edit this file in this team, your account needs to be upgraded by an admin."
+    "fullscreen.keyboard_shortcuts_panel.component_insert_description": {
+        "string": "无需失去工作流程即可搜索并插入组件。"
     },
-    "team_user.actions.upgrade.request_upgrade_in_team_name": {
-        "string": "Request upgrade in {teamName}"
+    "fullscreen.keyboard_shortcuts_panel.toggle_dropper_description": {
+        "string": "无需失去工作流程即可选择任何位置的颜色。"
     },
-    "request_upgrade.instruction_all_admins": {
-        "string": "Just click {boldedRequestUpgrade}, and we'll send your request to your organization's admins."
+    "fullscreen.keyboard_shortcuts_panel.toggle_menu_description": {
+        "string": "搜索菜单、命令和插件。"
     },
-    "org_upgrade.request_upgrade": {
-        "string": "Request upgrade"
+    "fullscreen.keyboard_shortcuts_panel.toggle_ui_description": {
+        "string": "按下此键可以隐藏窗格以专注于工作。"
     },
-    "request_upgrade.instruction_single_admin": {
-        "string": "Just click {boldedRequestUpgrade}, and we'll send your request to the admin listed below."
+    "fullscreen.layer_panel.layer": {
+        "string": "图层"
     },
-    "request_upgrade.instruction_selectable_admins": {
-        "string": "Choose one or more admins below, then click {boldedRequestUpgrade}."
+    "fullscreen.layer_panel.replace_mixed_visibility": {
+        "string": "要替换混合可见性设置，请单击{svg}"
     }
 }

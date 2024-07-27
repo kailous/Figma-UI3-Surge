@@ -1,152 +1,152 @@
 {
-    "fullscreen.color_palette.apply_palette_failure": {
-        "string": "Couldn't change color palette"
+    "fullscreen_actions.text-toggle-italic": {
+        "string": "斜体"
     },
-    "fullscreen.color_palette.delete_success": {
-        "string": "Deleted palette"
+    "fullscreen_actions.text-toggle-ordered-list": {
+        "string": "编号列表"
     },
-    "fullscreen.color_palette.delete_failure": {
-        "string": "Failed to delete palette"
+    "fullscreen_actions.text-toggle-strikethrough": {
+        "string": "删除线"
     },
-    "fullscreen.color_palette.saved_success": {
-        "string": "Saved palette"
+    "fullscreen_actions.text-toggle-underline": {
+        "string": "下划线"
     },
-    "fullscreen.color_palette.saved_failure": {
-        "string": "Failed to save palette"
+    "fullscreen_actions.text-toggle-unordered-list": {
+        "string": "项目符号列表"
     },
-    "whiteboard.color_palettes.visual_bell.failed_to_set_team_default": {
-        "string": "Failed to set team’s default palette"
+    "fullscreen_actions.text-upgrade-explicit-layout-version": {
+        "string": "更新以支持最新的文本布局"
     },
-    "whiteboard.color_palettes.visual_bell.failed_to_clear_team_default": {
-        "string": "Failed to clear the team’s default palette"
+    "fullscreen_actions.text-upgrade-to-bidi": {
+        "string": "更新以支持双向文本（RTL）"
     },
-    "whiteboard.inline_menu.alt_text": {
-        "string": "Alt text"
+    "fullscreen_actions.text-upper-case": {
+        "string": "大写"
     },
-    "whiteboard.inline_menu.replace_image": {
-        "string": "Replace image"
+    "fullscreen_actions.text_indent_and_dedent_list": {
+        "string": "增加或减少缩进"
     },
-    "whiteboard.inline_menu.crop_image": {
-        "string": "Crop image"
+    "fullscreen_actions.text_style_h1": {
+        "string": "特大"
     },
-    "whiteboard.inline_menu.image_border": {
-        "string": "Image border"
+    "fullscreen_actions.text_style_h2": {
+        "string": "大"
     },
-    "whiteboard.inline_menu.edit_image_description": {
-        "string": "Edit description"
+    "fullscreen_actions.text_style_h3": {
+        "string": "中"
     },
-    "whiteboard.inline_menu.add_image_description": {
-        "string": "Add description"
+    "fullscreen_actions.text_style_normal": {
+        "string": "小"
     },
-    "whiteboard.inline_menu.scale_image": {
-        "string": "Scale image"
+    "fullscreen_actions.text_style_title": {
+        "string": "超特大"
     },
-    "whiteboard.inline_menu.rotate_image": {
-        "string": "Rotate image"
+    "fullscreen_actions.theme-menu-option": {
+        "string": "主题"
     },
-    "whiteboard.inline_menu.finish_image_editing": {
-        "string": "Finish editing"
+    "fullscreen_actions.theme-wildcard": {
+        "string": "通配符（默认）"
     },
-    "whiteboard.crop_presets.original": {
-        "string": "Original"
+    "fullscreen_actions.theme-wildcard-quick-command": {
+        "string": "使用通配符（默认）模式"
     },
-    "whiteboard.crop_presets.custom": {
-        "string": "Custom"
+    "fullscreen_actions.theme.dark": {
+        "string": "暗黑"
     },
-    "whiteboard.crop_presets.square": {
-        "string": "Square"
+    "fullscreen_actions.theme.debug": {
+        "string": "调试"
     },
-    "whiteboard.crop_presets.circle": {
-        "string": "Circle"
+    "fullscreen_actions.theme.light": {
+        "string": "明亮"
     },
-    "whiteboard.crop_presets.landscape": {
-        "string": "Landscape"
+    "fullscreen_actions.theme.light_legacy": {
+        "string": "明亮（经典）"
     },
-    "whiteboard.crop_presets.portrait": {
-        "string": "Portrait"
+    "fullscreen_actions.theme.system_theme": {
+        "string": "系统"
     },
-    "whiteboard.crop_presets.wide": {
-        "string": "Wide"
+    "fullscreen_actions.theme.use_dark_mode": {
+        "string": "使用暗黑模式"
     },
-    "whiteboard.inline_menu.aspect_ratio": {
-        "string": "Aspect ratio"
+    "fullscreen_actions.theme.use_debug_mode": {
+        "string": "使用调试模式"
     },
-    "whiteboard.delightful_toolbar.participant_onboarding.sticky_note_tooltip": {
-        "string": "Add an idea with {boldText}"
+    "fullscreen_actions.theme.use_light_legacy_mode": {
+        "string": "使用明亮（经典）模式"
     },
-    "whiteboard.delightful_toolbar.participant_onboarding.sticky_notes_bolded": {
-        "string": "sticky notes"
+    "fullscreen_actions.theme.use_light_mode": {
+        "string": "使用明亮模式"
     },
-    "whiteboard.delightful_toolbar.participant_onboarding.react_with_stamps": {
-        "string": "React with {boldText}"
+    "fullscreen_actions.theme.use_system_theme": {
+        "string": "使用系统主题"
     },
-    "whiteboard.delightful_toolbar.participant_onboarding.stamps_bolded": {
-        "string": "stamps"
+    "fullscreen_actions.tidy-up": {
+        "string": "均匀排列"
     },
-    "voting.delightful_toolbar.votes_remaining": {
-        "string": "{numVotes, plural, one {{numVotes} vote left} other {{numVotes} votes left}}"
+    "fullscreen_actions.to_edit": {
+        "string": "编辑"
     },
-    "voting.delightful_toolbar.no_votes_remaining": {
-        "string": "I’m done"
+    "fullscreen_actions.toggle-actions-menu": {
+        "string": "动作..."
     },
-    "whiteboard.colors.custom": {
-        "string": "Custom"
+    "fullscreen_actions.toggle-allow-time-sliced-edit-rendering-optimization": {
+        "string": "切换允许时间分片编辑渲染优化"
     },
-    "voting.pin.votes": {
-        "string": "{numVotes, plural, one {{numVotes} vote} other {{numVotes} votes}}"
+    "fullscreen_actions.toggle-animate-info": {
+        "string": "切换动画信息面板"
     },
-    "voting.pin.voter_list_overflow": {
-        "string": "{numOverflowingVoters, plural, one {{numOverflowingVoters} other voter} other {{numOverflowingVoters} other voters}}"
+    "fullscreen_actions.toggle-annotations": {
+        "string": "显示对象尺寸"
     },
-    "voting.pin.medal_img_alt": {
-        "string": "Most voted medal"
+    "fullscreen_actions.toggle-auto-fill-full-width-children": {
+        "string": "切换子元素宽度自动填充父元素"
     },
-    "voting.pin.stamp_preview_alt_with_type": {
-        "string": "{stampType} vote stamp"
+    "fullscreen_actions.toggle-bold": {
+        "string": "粗体"
     },
-    "voting.pin.stamp_preview_alt_without_type": {
-        "string": "Vote stamp"
+    "fullscreen_actions.toggle-copy-renaming": {
+        "string": "复制时重命名图层"
     },
-    "voting.modal.voting_setup_responsive_placeholder_prompt": {
-        "string": "{numVotes, plural, one {Stamp your favorite} other {Stamp your {numVotes} favorites}}"
+    "fullscreen_actions.toggle-ctrl-click-context-menu": {
+        "string": "按住Ctrl键点击以打开右键菜单"
     },
-    "whiteboard.colors.black": {
-        "string": "Black"
+    "fullscreen_actions.toggle-cursor-high-five-wiggle": {
+        "string": "晃动光标以击掌"
     },
-    "whiteboard.colors.white": {
-        "string": "White"
+    "fullscreen_actions.toggle-custom-cursor": {
+        "string": "切换自定义光标"
     },
-    "whiteboard.colors.dark_gray": {
-        "string": "Dark gray"
+    "fullscreen_actions.toggle-debug-doc-sync-logs": {
+        "string": "切换多人文档日志"
     },
-    "whiteboard.colors.gray": {
-        "string": "Gray"
+    "fullscreen_actions.toggle-debug-layout-logs": {
+        "string": "切换文本和IF布局日志"
     },
-    "whiteboard.colors.light_gray": {
-        "string": "Light gray"
+    "fullscreen_actions.toggle-debug-page-sync-logs": {
+        "string": "切换多人查询日志"
     },
-    "whiteboard.colors.yellow": {
-        "string": "Yellow"
+    "fullscreen_actions.toggle-debug-show-magic-link-clustering": {
+        "string": "突出显示Magic Link上下文"
     },
-    "whiteboard.colors.light_yellow": {
-        "string": "Light yellow"
+    "fullscreen_actions.toggle-debug-user-sync-logs": {
+        "string": "切换多人用户日志"
     },
-    "whiteboard.colors.orange": {
-        "string": "Orange"
+    "fullscreen_actions.toggle-display-cpu-timer-tree": {
+        "string": "显示实时CPU计时树"
     },
-    "whiteboard.colors.light_orange": {
-        "string": "Light orange"
+    "fullscreen_actions.toggle-display-dirty-rects": {
+        "string": "显示需要重绘的矩形区域"
     },
-    "whiteboard.colors.red": {
-        "string": "Red"
+    "fullscreen_actions.toggle-display-dirty-tiles": {
+        "string": "显示需要重绘的瓦片区域"
     },
-    "whiteboard.colors.light_red": {
-        "string": "Light red"
+    "fullscreen_actions.toggle-display-gpu-metrics": {
+        "string": "显示GPU指标"
     },
-    "whiteboard.colors.pink": {
-        "string": "Pink"
+    "fullscreen_actions.toggle-dropper": {
+        "string": "颜色选择器"
     },
-    "whiteboard.colors.light_pink": {
-        "string": "Light pink"
+    "fullscreen_actions.toggle-dynamic-insertion-points": {
+        "string": "切换拖动到自动布局框架时显示动态堆叠插入点"
     }
 }

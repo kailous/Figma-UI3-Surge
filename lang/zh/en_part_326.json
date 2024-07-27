@@ -1,152 +1,152 @@
 {
-    "shared_with_you.toolbar.files": {
-        "string": "Files"
+    "variables.binding_ui.create_variable_button_tooltip": {
+        "string": "新しいバリアブル"
     },
-    "shared_with_you.toolbar.projects": {
-        "string": "Projects"
+    "variables.binding_ui.detach_variable_tooltip": {
+        "string": "バリアブルを切り離す"
     },
-    "team_admin_authority_overlay.title": {
-        "string": "Note for admins:"
+    "variables.binding_ui.libraries": {
+        "string": "ライブラリ"
     },
-    "team_admin_authority_overlay.description": {
-        "string": "Any changes you make as an admin will apply to your entire team. You represent and warrant that you have the authority to act on behalf of your team."
+    "variables.binding_ui.missing_font_family": {
+        "string": "「{fontFamily}」のフォントが見つかりません"
     },
-    "team_view.invoices": {
-        "string": "Invoices"
+    "variables.binding_ui.missing_font_style": {
+        "string": "フォントスタイルが見つかりません"
     },
-    "team_admin.members_tab.invite_users": {
-        "string": "Invite users"
+    "variables.binding_ui.no_colors_empty_state": {
+        "string": "利用できる色はありません"
     },
-    "pro_onboarding.see_whats_included": {
-        "string": "See what’s included"
+    "variables.binding_ui.no_search_results": {
+        "string": "この検索との一致は見つかりません"
     },
-    "pro_onboarding.review_your_teams_plan_and_all_its_features_by_clicking_on_your_professional_badge": {
-        "string": "Review your team’s plan and all its features by clicking your “Professional” badge."
+    "variables.binding_ui.no_variables_empty_state": {
+        "string": "利用できるバリアブルはありません"
     },
-    "pro_onboarding.pro_feature_modal.compare_plans": {
-        "string": "Compare plans"
+    "variables.binding_ui.search_placeholder": {
+        "string": "検索"
     },
-    "sidebar.meta.this_team_is_for_education_users_only": {
-        "string": "This team is for Education users only. New users will be required to verify their Education status."
+    "variables.binding_ui.set_labels.all_libraries": {
+        "string": "すべてのライブラリ"
     },
-    "team_view.folder_empty_view.no_projects_yet": {
-        "string": "No projects yet"
+    "variables.binding_ui.set_labels.local_colors": {
+        "string": "ローカルカラー"
     },
-    "team_view.folder_empty_view.projects_help_you_organize": {
-        "string": "Projects help you organize designs and makes sharing easier. Start a new project to share with your teammates."
+    "variables.binding_ui.set_labels.local_variables": {
+        "string": "ローカルバリアブル"
     },
-    "team_view.folder_empty_view.new_project": {
-        "string": "New project"
+    "variables.binding_ui.show_as_grid_tooltip": {
+        "string": "グリッド表示"
     },
-    "team_view.folder_empty_view.this_team_does_not_have_any_projects_yet": {
-        "string": "This team doesn't have any projects yet."
+    "variables.binding_ui.show_as_list_tooltip": {
+        "string": "リスト表示"
     },
-    "team_view.folder_empty_view.no_projects": {
-        "string": "No projects"
+    "variables.create_modal.collection_label": {
+        "string": "コレクション"
     },
-    "tile.sort_filter.owner": {
-        "string": "Owner"
+    "variables.create_modal.create_button": {
+        "string": "バリアブルを作成"
     },
-    "tile.sort_filter.team": {
-        "string": "Team"
+    "variables.create_modal.invalid_variable_name": {
+        "string": "バリアブル名が無効です"
     },
-    "file_browser.starter_team.upgrade_link": {
-        "string": "upgrade to a paid plan"
+    "variables.create_modal.name_label": {
+        "string": "名前"
     },
-    "file_browser.starter_team.project_limit_warning": {
-        "string": "You've reached your project limit ({maxProjects}/{maxProjects})"
+    "variables.create_modal.title": {
+        "string": "バリアブル"
     },
-    "file_browser.starter_team.project_limit_warning_over_max_projects": {
-        "string": "You've reached your project limit"
+    "variables.create_modal.value_label": {
+        "string": "値"
     },
-    "file_browser.starter_team.project_limit_info": {
-        "string": "When you {upgradeLink}, you can create unlimited files, organize your work into projects, and build a shared library of components for your team."
+    "variables.diff.conflict_collection_name": {
+        "string": "コレクション名は{collectionName}に変更されました"
     },
-    "community.view_bar.browse": {
-        "string": "Browse"
+    "variables.diff.conflict_modes": {
+        "string": "モードは{modeNames}に変更されました"
     },
-    "categories.all": {
-        "string": "All"
+    "variables.diff.details_title_changed_variables": {
+        "string": "{numChangedVariables, plural, other {(#個の変更済みバリアブル)}}"
     },
-    "community.view_bar.home": {
-        "string": "Home"
+    "variables.diff.only_changed_variables_are_shown": {
+        "string": "変更済みのバリアブルのみ表示"
     },
-    "community.banner.browsing_community_as_the_current_profile_name_organization": {
-        "string": "Browsing Community as the {profileName} organization"
+    "variables.edit_modal.add_code_syntax": {
+        "string": "コード構文を追加"
     },
-    "community.banner.browsing_community_as_the_current_profile_name_team": {
-        "string": "Browsing Community as the {profileName} team"
+    "variables.edit_modal.hide_from_publishing": {
+        "string": "公開時に非表示にする"
     },
-    "community.categories.figma_community_collections": {
-        "string": "Figma Community collections"
+    "variables.edit_modal.input_label.description": {
+        "string": "説明"
     },
-    "community.categories.check_out_collections_of_some_of_our_favorite_design_files_plugins_and_creators_from_figma_community": {
-        "string": "Check out collections of some of our favorite design files, plugins, widgets, and creators from Figma Community."
+    "variables.edit_modal.input_label.description_placeholder": {
+        "string": "このバリアブルの使用方法"
     },
-    "community.shelves.all_collections": {
-        "string": "All collections"
+    "variables.edit_modal.input_label.name": {
+        "string": "名前"
     },
-    "community.view_bar.copied": {
-        "string": "Copied"
+    "variables.edit_modal.input_label.token_name": {
+        "string": "コード構文"
     },
-    "community.view_bar.copy_link": {
-        "string": "Copy link"
+    "variables.edit_modal.input_placeholder.name": {
+        "string": "デザインプロパティで使用中"
     },
-    "community.view_bar.curated_by": {
-        "string": "Curated by"
+    "variables.edit_modal.mode_section_header": {
+        "string": "{count, plural, other {値}}"
     },
-    "community.view_bar.figma": {
-        "string": "Figma"
+    "variables.edit_modal.platforms.android": {
+        "string": "Android"
     },
-    "community.profiles.resources_lower_singular": {
-        "string": "{num} resource"
+    "variables.edit_modal.platforms.ios": {
+        "string": "iOS"
     },
-    "community.profiles.resources_lower_plural": {
-        "string": "{num} resources"
+    "variables.edit_modal.platforms.web": {
+        "string": "Web"
     },
-    "community.search.empty_state_hub_files_free": {
-        "string": "No free files matching {query}"
+    "variables.edit_modal.remove_code_syntax": {
+        "string": "コード構文を削除"
     },
-    "community.search.empty_state_hub_files_paid": {
-        "string": "No paid files matching {query}"
+    "variables.edit_modal.tabs.details": {
+        "string": "詳細"
     },
-    "community.search.empty_state_hub_files": {
-        "string": "No files matching {query}"
+    "variables.edit_modal.tabs.scoping": {
+        "string": "スコープの設定"
     },
-    "community.search.empty_state_public_plugins_free": {
-        "string": "No free plugins matching {query}"
+    "variables.invalid.greater_than_max_height": {
+        "string": "高さが最大値を超えています"
     },
-    "community.search.empty_state_public_plugins_paid": {
-        "string": "No paid plugins matching {query}"
+    "variables.invalid.greater_than_max_width": {
+        "string": "幅が最大値を超えています"
     },
-    "community.search.empty_state_public_plugins": {
-        "string": "No plugins matching {query}"
+    "variables.invalid.less_than_min_height": {
+        "string": "高さが最小値未満です"
     },
-    "community.search.empty_state_public_widgets_free": {
-        "string": "No free widgets matching {query}"
+    "variables.invalid.less_than_min_width": {
+        "string": "幅が最小値未満です"
     },
-    "community.search.empty_state_public_widgets_paid": {
-        "string": "No paid widgets matching {query}"
+    "variables.layer_panel.header.button.tooltip": {
+        "string": "バリアブルモードを変更"
     },
-    "community.search.empty_state_public_widgets": {
-        "string": "No widgets matching {query}"
+    "variables.layer_panel.header.update_button.dropdown.description": {
+        "string": "最新のバリアブルモードにアクセスするには、ライブラリの更新を確認し、承諾してください。"
     },
-    "community.search.empty_state_creators": {
-        "string": "No creators matching {query}"
+    "variables.layer_panel.header.update_button_direct.dropdown.option": {
+        "string": "アップデートを受け入れて解決"
     },
-    "community.search.no_resources_matching_free": {
-        "string": "No free resources matching {query}"
+    "variables.layer_panel.header.update_button_direct.tooltip": {
+        "string": "更新を承諾"
     },
-    "community.search.no_resources_matching_paid": {
-        "string": "No paid resources matching {query}"
+    "variables.local_variables_panel.local_variables_title": {
+        "string": "ローカルバリアブル"
     },
-    "community.search.no_resources_matching": {
-        "string": "No resources matching {query}"
+    "variables.local_variables_panel.open_variables_button_tooltip": {
+        "string": "バリアブルを開く"
     },
-    "community.right_bar.related_tags": {
-        "string": "Related tags"
+    "variables.missing_name": {
+        "string": "(名前がありません)"
     },
-    "community.footer.copyright": {
-        "string": "© 2024 Figma, Inc."
+    "variables.mode_pill.tooltip": {
+        "string": "モード: {listOfModes}"
     }
 }

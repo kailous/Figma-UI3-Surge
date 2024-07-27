@@ -1,152 +1,152 @@
 {
-    "viewer.debug_tools.disconnect_from_multiplayer": {
-        "string": "Disconnect from multiplayer"
+    "fullscreen.view_mode.show_as_grid": {
+        "string": "以网格显示"
     },
-    "viewer.debug_tools.reconnect_to_multiplayer": {
-        "string": "Reconnect to multiplayer"
+    "fullscreen.view_mode.show_as_list": {
+        "string": "以列表显示"
     },
-    "viewer.loading_overlay.reload": {
-        "string": "Reload"
+    "fullscreen.vote_stamp_wheel": {
+        "string": "投票印章工具"
     },
-    "viewer.loading_overlay.this_is_taking_some_time_hang_on_while_this_finishes_loading": {
-        "string": "This is taking some time… Hang on while this finishes loading."
+    "fullscreen.zoom_menu.zoom_view_options": {
+        "string": "缩放/查看选项"
     },
-    "viewer.loading_overlay.can_t_connect_to_the_internet": {
-        "string": "Can't connect to the internet"
+    "fullscreen_actions.remove_background": {
+        "string": "删除背景"
     },
-    "viewer.loading_overlay.check_your_connection_to_continue_with_the_prototype": {
-        "string": "Check your connection to continue with the prototype."
+    "hyperlink.call_telephone": {
+        "string": "拨打电话"
     },
-    "viewer.loading_overlay.try_again": {
-        "string": "Try again"
+    "hyperlink.create_preview": {
+        "string": "创建预览"
     },
-    "viewer.options_menu.fixed_size": {
-        "string": "Fixed size"
+    "hyperlink.edit": {
+        "string": "编辑"
     },
-    "viewer.options_menu.responsive": {
-        "string": "Responsive"
+    "hyperlink.frame": {
+        "string": "框架"
     },
-    "viewer.options_menu.options": {
-        "string": "Options"
+    "hyperlink.invalid_link": {
+        "string": "无效链接: {link}"
     },
-    "viewer.options_menu.device_dropdown.default": {
-        "string": "Default device"
+    "hyperlink.invalid_link_plain": {
+        "string": "无效链接"
     },
-    "viewer.options_menu.device_dropdown.other": {
-        "string": "More devices"
+    "hyperlink.link_deleted": {
+        "string": "链接已删除"
     },
-    "viewer.options_menu.disable_default_keyboard_navigation_v1": {
-        "string": "Enable Figma shortcuts"
+    "hyperlink.page": {
+        "string": "页面"
     },
-    "viewer.options_menu.load_all_slides": {
-        "string": "Load all slides"
+    "hyperlink.prefix.email": {
+        "string": "复制"
     },
-    "viewer.options_menu.load_all_frames": {
-        "string": "Load all frames"
+    "hyperlink.prefix.go_to": {
+        "string": "前往"
     },
-    "viewer.options_menu.show_hints_on_click": {
-        "string": "Show hints on click"
+    "hyperlink.prefix.open": {
+        "string": "打开"
     },
-    "viewer.options_menu.show_device_frame": {
-        "string": "Show device frame"
+    "hyperlink.prefix.open_past_version": {
+        "string": "打开过去版本:"
     },
-    "viewer.options_menu.hide_ui": {
-        "string": "Hide UI"
+    "hyperlink.send_mail": {
+        "string": "发送邮件"
     },
-    "viewer.options_menu.recommended_scaling_options": {
-        "string": "Recommended"
+    "hyperlink.type_or_paste_url": {
+        "string": "输入或粘贴URL"
     },
-    "viewer.options_menu.other_scaling_options": {
-        "string": "Other scaling options"
+    "keyboard_settings.chinese": {
+        "string": "中文"
     },
-    "proto.prototype_view_selector.untitled": {
-        "string": "Untitled"
+    "keyboard_settings.custom_keyboard_shortcuts": {
+        "string": "自定义键盘快捷键"
     },
-    "viewer.flows_sidebar.flows": {
-        "string": "Flows"
+    "keyboard_settings.custom_keyboard_shortcuts.add": {
+        "string": "添加新快捷键"
     },
-    "proto.flow_description": {
-        "string": "Flow description"
+    "keyboard_settings.custom_keyboard_shortcuts.press_key": {
+        "string": "按键"
     },
-    "viewer.flows_sidebar.no_description": {
-        "string": "No description"
+    "keyboard_settings.custom_tab": {
+        "string": "自定义"
     },
-    "reconnecting_modal.loading": {
-        "string": "Loading…"
+    "keyboard_settings.danish": {
+        "string": "丹麦语"
     },
-    "resource_rename_modal.lengthCount": {
-        "string": "{currentLength}/{maxLength}"
+    "keyboard_settings.default_unknown": {
+        "string": "默认"
     },
-    "resource_rename_modal.cancel": {
-        "string": "Cancel"
+    "keyboard_settings.detected": {
+        "string": "已检测"
     },
-    "resource_rename_modal.title": {
-        "string": "Rename {initialName}"
+    "keyboard_settings.enable_and_show_new_shortcuts": {
+        "string": "启用并显示新快捷键"
     },
-    "tax.optional_vat_gst_id.input_label": {
-        "string": "{taxType} ID (optional)"
+    "keyboard_settings.figma_keyboard_shortcuts_won_t_automatically_change_if_you_change_your_system_keyboard_layout": {
+        "string": "如果更改系统键盘布局，Figma的键盘快捷键不会自动更新。"
     },
-    "tax.example_vat_format_placeholder": {
-        "string": "e.g. {exampleFormat}"
+    "keyboard_settings.finnish": {
+        "string": "芬兰语"
     },
-    "tax.vat.input_tooltip": {
-        "string": "Value Added Tax (VAT) and Goods and Services Tax (GST) IDs are used to identify the tax status of customers."
+    "keyboard_settings.french_azerty": {
+        "string": "法语AZERTY"
     },
-    "templates.confirmation.unpublish.title": {
-        "string": "Unpublish template?"
+    "keyboard_settings.german_qwertz": {
+        "string": "德语QWERTZ"
     },
-    "templates.confirmation.unpublish.description_v2": {
-        "string": "{templateName} will be removed from your team’s templates, but the file won’t be deleted."
+    "keyboard_settings.italian": {
+        "string": "意大利语"
     },
-    "templates.unpublishing.bell.failure": {
-        "string": "Failed to unpublish template"
+    "keyboard_settings.japanese_kana": {
+        "string": "日语(假名)"
     },
-    "templates.unpublishing.bell.success": {
-        "string": "Template unpublished successfully!"
+    "keyboard_settings.keyboard_layout": {
+        "string": "键盘布局..."
     },
-    "templates.confirmation.publish.secret.title_v2": {
-        "string": "This will reveal a secret team’s name"
+    "keyboard_settings.keyboard_layout_panel_selector": {
+        "string": "键盘布局: "
     },
-    "templates.confirmation.publish.secret.description": {
-        "string": "{teamName} is a secret team. When you publish this template, members of {orgName} will be able to see this team’s name."
+    "keyboard_settings.keyboard_shortcuts": {
+        "string": "键盘快捷键"
     },
-    "templates.confirmation.publish.secret.confirm.publish_anyway": {
-        "string": "Publish anyway"
+    "keyboard_settings.korean": {
+        "string": "韩语"
     },
-    "templates.publishing.publish.updates": {
-        "string": "Publish updates"
+    "keyboard_settings.new_keyboard_name_keyboard_shortcuts_are_available": {
+        "string": "{newKeyboardName}键盘的快捷键可用"
     },
-    "templates.publishing.publish": {
-        "string": "Publish"
+    "keyboard_settings.new_keyboard_name_keyboard_shortcuts_are_now_available": {
+        "string": "{newKeyboardName}键盘的快捷键现在可用"
     },
-    "templates.publishing.bell.updated": {
-        "string": "Template updated"
+    "keyboard_settings.norwegian": {
+        "string": "挪威语"
     },
-    "templates.publishing.bell.success": {
-        "string": "Template published"
+    "keyboard_settings.other_layouts": {
+        "string": "其他布局"
     },
-    "templates.publishing.bell.failure": {
-        "string": "Failed to publish template"
+    "keyboard_settings.portuguese": {
+        "string": "葡萄牙语"
     },
-    "templates.publishing.header.updates": {
-        "string": "Publish updates"
+    "keyboard_settings.request_a_new_layout_or_learn_more": {
+        "string": "了解更多"
     },
-    "templates.publishing.header": {
-        "string": "Publish template"
+    "keyboard_settings.spanish": {
+        "string": "西班牙语"
     },
-    "templates.publishing.description.placeholder": {
-        "string": "What’s this template for?"
+    "keyboard_settings.spanish_latin_america": {
+        "string": "西班牙语(拉丁美洲)"
     },
-    "templates.publishing.scope.label": {
-        "string": "Publish to"
+    "keyboard_settings.swedish": {
+        "string": "瑞典语"
     },
-    "templates.publishing.scope.organization": {
-        "string": "Entire organization"
+    "keyboard_settings.uk_mac": {
+        "string": "英国(Mac)"
     },
-    "templates.publishing.scope.team": {
-        "string": "Current team"
+    "keyboard_settings.uk_pc": {
+        "string": "英国(PC)"
     },
-    "general.creator_agreement": {
-        "string": "Creator Agreement"
+    "keyboard_settings.update_keyboard_shortcuts": {
+        "string": "打开键盘设置"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "type_settings.open_type_features.stylistic_set": {
-        "string": "Stylistic set {integerArgument, number, integer}"
+    "design_systems.updates.publish": {
+        "string": "发布..."
     },
-    "type_settings.open_type_features.character_variant": {
-        "string": "Character variant {integerArgument, number, integer}"
+    "design_systems.updates.published": {
+        "string": "{relativeTimeStr}发布"
     },
-    "fullscreen.properties_panel.tooltip_hide": {
-        "string": "Hide"
+    "design_systems.updates.publishedByHandle": {
+        "string": "{publishUserHandle}在{relativeTimeStr}发布"
     },
-    "fullscreen.properties_panel.tooltip_show": {
-        "string": "Show"
+    "design_systems.updates.review_updates": {
+        "string": "查看更新"
     },
-    "fullscreen.properties_panel.show_hide": {
-        "string": "Show/hide"
+    "design_systems.updates.show_updates_for_all_pages": {
+        "string": "显示所有页面的更新内容"
     },
-    "fullscreen_actions.plugin_parameters.tab": {
-        "string": "Tab"
+    "design_systems.updates.styleName": {
+        "string": "{assetName}的样式"
     },
-    "fullscreen_actions.plugin_parameters.to_enter_optional_parameters": {
-        "string": "to enter optional parameters"
+    "design_systems.updates.this_file": {
+        "string": "此文件"
     },
-    "fullscreen_actions.plugin_parameters.enter": {
-        "string": "Enter"
+    "design_systems.updates.this_instance_is_hidden": {
+        "string": "此实例已隐藏"
     },
-    "fullscreen_actions.plugin_parameters.to_run_plugin": {
-        "string": "to run plugin"
+    "design_systems.updates.to_move_pasted_components_to_this_file_publish_a_library_update": {
+        "string": "要将粘贴的组件移动到此文件，请发布库更新"
     },
-    "fullscreen_actions.plugin_parameters.optional_optional_names": {
-        "string": "optional: {optionalNames}"
+    "design_systems.updates.to_move_pasted_styles_to_this_file_publish_a_library_update": {
+        "string": "要将粘贴的样式移动到此文件，请发布库更新"
     },
-    "qa.parameter.loading.plugin": {
-        "string": "Loading plugin..."
+    "design_systems.updates.update": {
+        "string": "更新"
     },
-    "qa.parameter.loading.suggestions": {
-        "string": "Loading suggestions..."
+    "design_systems.updates.update_all": {
+        "string": "全部更新"
     },
-    "qa.go_back": {
-        "string": "Go back"
+    "design_systems.updates.update_instance": {
+        "string": "更新实例"
     },
-    "qa.ai_beta": {
-        "string": "AI beta"
+    "design_systems.updates.update_style": {
+        "string": "更新样式"
     },
-    "qa.learn_more": {
-        "string": "Learn more"
+    "design_systems.updates.updated": {
+        "string": "已更新"
     },
-    "whiteboard.ai_modal.hint_tab": {
-        "string": "tab"
+    "design_systems.updates.updates_from": {
+        "string": "{fileName}的更新"
     },
-    "first_draft.prompt_history_header": {
-        "string": "Recents"
+    "design_systems.updates.updates_taking_longer_than_expected": {
+        "string": "更新耗时比预期长..."
     },
-    "first_draft.prompt_history_label": {
-        "string": "Recent prompts"
+    "design_systems.updates.updates_to_components_or_styles": {
+        "string": "组件、样式和变量的更新将在{lineBreak}此处显示。"
     },
-    "search.search_bar.clear": {
-        "string": "Clear"
+    "design_systems.updates.view_all_pages": {
+        "string": "查看所有页面"
     },
-    "fullscreen_actions.ai_content_fill.select_a_stack_of_repeating_frames": {
-        "string": "Select a stack of repeating frames"
+    "desktop_bindings.interstitial.frame_link_copied": {
+        "string": "框架链接已复制到剪贴板"
     },
-    "ai.replacing": {
-        "string": "Replacing..."
+    "desktop_bindings.interstitial.page_link_copied": {
+        "string": "页面链接已复制到剪贴板"
     },
-    "fullscreen_actions.ai_content_fill.missing_font": {
-        "string": "Missing a font—couldn’t replace"
+    "desktop_bindings.interstitial.section_link_copied": {
+        "string": "章节链接已复制到剪贴板"
     },
-    "ai.error.content_length_limit": {
-        "string": "Try again, with a smaller selection"
+    "desktop_bindings.visual_bell.file_link_copied": {
+        "string": "文件链接已复制到剪贴板"
     },
-    "ai.make_it": {
-        "string": "Make it"
+    "desktop_bindings.visual_bell.redeem_app_auth_error": {
+        "string": "发生错误。请再试一次。"
     },
-    "fullscreen_actions.ai_content_fill.prompt_suggestion": {
-        "string": "Describe your changes"
+    "desktop_bindings.visual_bell.slide_deck_link_copied": {
+        "string": "幻灯片链接已复制到剪贴板"
     },
-    "assets_in_actions.assets_section.no_results.title": {
-        "string": "No results for \"{query}\""
+    "desktop_bindings.visual_bell.summary_link_copied": {
+        "string": "链接已复制..."
     },
-    "assets_in_actions.assets_section.initial_state.title": {
-        "string": "Find assets by name, or simply describe them"
+    "desktop_download_modal_prompt.download_the_figma_desktop_app": {
+        "string": "下载Figma桌面应用"
     },
-    "assets_in_actions.assets_section.error.title": {
-        "string": "Something went wrong"
+    "desktop_download_modal_prompt.get_the_desktop_app": {
+        "string": "获取桌面应用"
     },
-    "assets_in_actions.assets_section.error.description": {
-        "string": "An unexpected error occurred"
+    "desktop_download_modal_prompt.learn_more": {
+        "string": "了解更多"
     },
-    "design_systems.assets_panel.insert": {
-        "string": "Insert"
+    "desktop_download_modal_prompt.level_up_your_workflow_with_tabs": {
+        "string": "利用Figma桌面应用中的标签、快速访问文件、新建文件和专用桌面通知，提升工作流程。"
     },
-    "design_systems.instance_panel.view_library_in_community": {
-        "string": "View library in Community"
+    "desktop_new_tab.browser_more_recent_files_link": {
+        "string": "查看更多最近的文件"
     },
-    "assets_in_actions.fragments_section.no_results.title": {
-        "string": "No results for \"{query}\""
+    "desktop_new_tab.create_file_in": {
+        "string": "在以下位置创建文件："
     },
-    "assets_in_actions.fragments_section.empty_state.header_community": {
-        "string": "Search across community"
+    "desktop_new_tab.create_new_file_in": {
+        "string": "在指定位置创建新文件..."
     },
-    "assets_in_actions.fragments_section.empty_state.header_generic": {
-        "string": "Search across your organization"
+    "desktop_new_tab.design_card.subtitle": {
+        "string": "设计和原型"
     },
-    "assets_in_actions.fragments_section.empty_state.header": {
-        "string": "Search across {orgText}"
+    "desktop_new_tab.design_card.title": {
+        "string": "创建新设计文件"
     },
-    "assets_in_actions.fragments_section.empty_state.text_community": {
-        "string": "Now you can find related designs, from all across community."
+    "desktop_new_tab.drafts": {
+        "string": "草稿"
     },
-    "assets_in_actions.fragments_section.empty_state.text": {
-        "string": "Now you can find related designs, from all across your organization."
+    "desktop_new_tab.edited_at_time_stamp": {
+        "string": "{relativeTime}编辑"
     },
-    "assets_in_actions.fragments_section.error.title": {
-        "string": "Something went wrong"
+    "desktop_new_tab.figjam_card.subtitle": {
+        "string": "白板和图表"
     },
-    "assets_in_actions.fragments_section.error.description": {
-        "string": "An unexpected error occurred"
+    "desktop_new_tab.figjam_card.title": {
+        "string": "新建FigJam白板"
     },
-    "asset_suggestions.close_modal": {
-        "string": "Close"
+    "desktop_new_tab.last_viewed_header": {
+        "string": "上次查看时间"
     },
-    "asset_suggestions.insert_toast_error": {
-        "string": "Failed to insert design"
+    "desktop_new_tab.no_recent_files_header": {
+        "string": "没有最近使用的文件"
     },
-    "assets_in_actions.component_search.placeholder_1": {
-        "string": "Ex: “red circle with an x”"
+    "desktop_new_tab.recent_files_header": {
+        "string": "最近的文件"
     },
-    "assets_in_actions.component_search.placeholder_2": {
-        "string": "Ex: “checkmark icon”"
+    "desktop_new_tab.search.no_file_results_matching": {
+        "string": "没有与{searchQuery}匹配的文件"
     },
-    "assets_in_actions.component_search.placeholder_3": {
-        "string": "Ex: “confirmation dialog”"
+    "desktop_new_tab.search.search_files_placeholder": {
+        "string": "在所有文件中搜索"
     },
-    "assets_in_actions.component_search.placeholder_4": {
-        "string": "Ex: “blue buttons”"
+    "desktop_new_tab.sites_card.subtitle": {
+        "string": "构建和发布"
     },
-    "assets_in_actions.component_search.placeholder_5": {
-        "string": "Ex: “modal in dark mode”"
+    "desktop_new_tab.sites_card.title": {
+        "string": "新建网站"
     },
-    "assets_in_actions.component_search.placeholder_6": {
-        "string": "Ex: “chunky toggle”"
+    "desktop_new_tab.slide_card.subtitle": {
+        "string": "演示和共享"
     },
-    "assets_in_actions.component_search.placeholder_7": {
-        "string": "Ex: “help icon”"
+    "desktop_new_tab.slide_card.title": {
+        "string": "创建新幻灯片"
     },
-    "assets_in_actions.component_search.placeholder_8": {
-        "string": "Ex: “error pop-up”"
+    "desktop_new_tab.tab_title": {
+        "string": "新文件"
     },
-    "assets_in_actions.component_search.placeholder_9": {
-        "string": "Ex: “alert banner”"
+    "desktop_open_views.interstitial.open_here_instead": {
+        "string": "在这里打开"
     }
 }

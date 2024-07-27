@@ -1,152 +1,152 @@
 {
-    "collaboration.branching.for_more_help_visit_our_help_center": {
-        "string": "For more help, visit our {helpCenterLink}."
+    "config_feature_announcement.meet_figma_ai_tools": {
+        "string": "利用新AI功能更快启动、搜索资产并专注于工作流程。这一切都可以在我们称之为“UI3”的Figma新界面中完成。"
     },
-    "collaboration.branching.help_center": {
-        "string": "Help Center"
+    "config_feature_announcement.more_clarity_better_process_with_dev_mode": {
+        "string": "开发模式的新视图"
     },
-    "collaboration.branching.reload_page": {
-        "string": "Reload page"
+    "config_feature_announcement.more_intuitive_auto_layout": {
+        "string": "更加直观的自动布局"
     },
-    "collaboration.branching.merge_error.review_and_confirm_merge_description": {
-        "string": "Something may have gone wrong while merging. Review the file and confirm your changes have been made, or cancel the merge and try again."
+    "config_feature_announcement.resize_prototypes_responsively": {
+        "string": "响应式调整原型尺寸"
     },
-    "collaboration.branching.merge_error.review_and_confirm_update_description": {
-        "string": "Something may have gone wrong while updating. Review the file and confirm the changes, or cancel the update and try again."
+    "config_feature_announcement.say_hi_to_figma_ai_plus_a_new_ui": {
+        "string": "Figma AI + 新UI"
     },
-    "collaboration.branching.merge_error.review_and_confirm": {
-        "string": "Review and confirm your changes"
+    "config_feature_announcement.see_what_s_new": {
+        "string": "查看新功能"
     },
-    "collaboration.branching.merge_error.confirm": {
-        "string": "Confirm"
+    "config_feature_announcement.stay_in_your_flow_with_figma_ai": {
+        "string": "使用Figma AI保持工作流"
     },
-    "collaboration.branching.merge_error.cancel": {
-        "string": "Cancel"
+    "config_feature_announcement.stay_on_top_of_changes_in_dev_mode": {
+        "string": "掌握开发模式的变化"
     },
-    "collaboration.branching.merge_error.could_not_start_merge": {
-        "string": "Couldn't start merge"
+    "config_feature_announcement.try_it_out": {
+        "string": "试试看"
     },
-    "collaboration.branching.merge_error.could_not_start_merge_description": {
-        "string": "Something went wrong while preparing your merge. Try again, or check the status page."
+    "consumption_paywalls.audio_conversations": {
+        "string": "音频对话"
     },
-    "collaboration.branching.merge_error.could_not_start_update": {
-        "string": "Couldn't start update"
+    "consumption_paywalls.badge_text": {
+        "string": "当前计划"
     },
-    "collaboration.branching.merge_error.could_not_start_update_description": {
-        "string": "Something went wrong while preparing to update. Try again, or check the status page."
+    "consumption_paywalls.both_file_limits": {
+        "string": "{file_limit, plural, other {{file_limit}个Figma设计文件和{file_limit}个FigJam文件}}"
     },
-    "collaboration.branching.merge_error.retry_merge": {
-        "string": "Try again"
+    "consumption_paywalls.branching.feature_text": {
+        "string": "文件分支"
     },
-    "collaboration.branching.merge_error.branch_archived_description": {
-        "string": "This branch has been merged or archived by another user and cannot be merged or updated."
+    "consumption_paywalls.conditional_prototypes": {
+        "string": "条件原型"
     },
-    "base_notifications.dismiss": {
-        "string": "Dismiss"
+    "consumption_paywalls.contact_sales": {
+        "string": "联系销售"
     },
-    "collaboration.branching.merge_error.branch_already_updated_description": {
-        "string": "The branch has already been updated with these changes. Reload this window to view them."
+    "consumption_paywalls.design_system_analytics.feature_text": {
+        "string": "设计系统分析"
     },
-    "collaboration.branching.merge_error.reload": {
-        "string": "Reload"
+    "consumption_paywalls.dev_mode": {
+        "string": "开发模式"
     },
-    "collaboration.branching.merge_error.merge_in_progress": {
-        "string": "Merge failed, but we can help"
+    "consumption_paywalls.dev_mode_admin_settings": {
+        "string": "开发模式管理员设置"
     },
-    "collaboration.branching.merge_error.merge_in_progress_description": {
-        "string": "Your merge couldn’t be completed. Try merging again, or shoot us a note and we’ll help get it fixed."
+    "consumption_paywalls.dev_mode_admin_settings_modal_subtitle": {
+        "string": "企业计划允许根据组织需求定制开发模式。"
     },
-    "collaboration.branching.merge_error.contact_support": {
-        "string": "Contact Figma"
+    "consumption_paywalls.dev_mode_admin_settings_modal_title": {
+        "string": "根据组织需求微调开发模式"
     },
-    "collaboration.branching.merge_error.confirm_merge_pending": {
-        "string": "Confirming merge…"
+    "consumption_paywalls.dev_mode_customize_experience": {
+        "string": "自定义开发模式体验"
     },
-    "collaboration.branching.merge_error.confirm_merge_success": {
-        "string": "Merge confirmed"
+    "consumption_paywalls.dev_mode_modal_title": {
+        "string": "在开发模式下检查设计"
     },
-    "collaboration.branching.merge_error.confirm_update_pending": {
-        "string": "Confirming merge…"
+    "consumption_paywalls.editor_type.figjam": {
+        "string": "FigJam"
     },
-    "collaboration.branching.merge_error.confirm_update_success": {
-        "string": "Merge confirmed"
+    "consumption_paywalls.editor_type.figma_design": {
+        "string": "Figma设计"
     },
-    "collaboration.branching.merge_error.cancel_merge_pending": {
-        "string": "Canceling merge…"
+    "consumption_paywalls.error.modal": {
+        "string": "无法处理此操作"
     },
-    "collaboration.branching.merge_error.cancel_merge_success": {
-        "string": "Merge canceled"
+    "consumption_paywalls.free": {
+        "string": "免费"
     },
-    "collaboration.branching.merge_error.cancel_previous_merge_pending": {
-        "string": "Canceling previous merge…"
+    "consumption_paywalls.free_design_files_and_project_limit": {
+        "string": "3个Figma设计文件和1个项目"
     },
-    "collaboration.branching.merge_error.cancel_previous_merge_success": {
-        "string": "Previous merge canceled"
+    "consumption_paywalls.free_editor_type_files_and_project_limit": {
+        "string": "3个{editor_type}文件和1个项目"
     },
-    "collaboration.branching.merge_error.cancel_previous_update_pending": {
-        "string": "Canceling previous update…"
+    "consumption_paywalls.free_page_limit": {
+        "string": "{page_limit, plural, other {每个Figma设计文件{page_limit}页}}"
     },
-    "collaboration.branching.merge_error.cancel_previous_update_success": {
-        "string": "Previous update canceled"
+    "consumption_paywalls.free_page_limit_figjam": {
+        "string": "{page_limit, plural, other {每个FigJam文件{page_limit}页}}"
     },
-    "collaboration.branching.merge_error.cancel_update_pending": {
-        "string": "Canceling update…"
+    "consumption_paywalls.free_page_limit_per_editor_type_file": {
+        "string": "{page_limit, plural, other {每个{editor_type}文件{page_limit}页}}"
     },
-    "collaboration.branching.merge_error.cancel_update_success": {
-        "string": "Update canceled"
+    "consumption_paywalls.free_project_limit": {
+        "string": "{project_limit, plural, other {{project_limit}个项目}}"
     },
-    "comments.preview_reply_count": {
-        "string": "{replyCount, plural, one {{ new, select, true {{replyCount} new reply} other {{replyCount} reply}}} other {{ new, select, true {{replyCount} new replies} other {{replyCount} replies}}}}"
+    "consumption_paywalls.full_control_over_project_permissions": {
+        "string": "完全控制项目权限"
     },
-    "comments.attachment_count": {
-        "string": "{attachmentCount, plural, one {{attachmentCount} image} other {{attachmentCount} images}}"
+    "consumption_paywalls.interactive_prototypes": {
+        "string": "交互原型"
     },
-    "comments.comments_cannot_be_placed_in_this_area": {
-        "string": "Comments cannot be placed in this area"
+    "consumption_paywalls.learn_more": {
+        "string": "了解更多"
     },
-    "comments.accessibility_reply_added": {
-        "string": "Reply added"
+    "consumption_paywalls.looking_for_unlimited_projects": {
+        "string": "需要无限项目吗？"
     },
-    "comments.give_feedback_ask_a_question_or_just_leave_a_note_of_appreciation_click_anywhere_in_the_file_to_leave_a_comment": {
-        "string": "Give feedback, ask a question, or just leave a note of appreciation. Click anywhere in the file to leave a comment."
+    "consumption_paywalls.manage_plugin_access": {
+        "string": "管理插件访问"
     },
-    "comments.when_you_leave_a_comment_or_get_mentioned_in_one_it_ll_show_up_here": {
-        "string": "When you leave a comment or get mentioned in one, it'll show up here."
+    "consumption_paywalls.manage_plugin_access_by_workspace": {
+        "string": "按工作区管理插件访问"
     },
-    "comments.no_comments_matched_your_search": {
-        "string": "No comments matched your search."
+    "consumption_paywalls.manage_widget_access": {
+        "string": "管理小部件访问"
     },
-    "comments.you_have_disabled_the_comments_sidebar_via_the_debug_menu": {
-        "string": "You have disabled the comments sidebar via the debug menu."
+    "consumption_paywalls.manage_widget_access_by_workspace": {
+        "string": "按工作区管理小部件访问"
     },
-    "comments.re_enable": {
-        "string": "Re-enable"
+    "consumption_paywalls.multiple_action_prototypes": {
+        "string": "多动作原型"
     },
-    "fullscreen.accessibility.comments_sidebar": {
-        "string": "Comments panel"
+    "consumption_paywalls.need_more_files": {
+        "string": "需要更多文件吗？"
     },
-    "comments.sort_filter": {
-        "string": "Sort/Filter"
+    "consumption_paywalls.need_more_pages": {
+        "string": "需要更多页面吗？"
     },
-    "comments.settings": {
-        "string": "Settings"
+    "consumption_paywalls.need_more_privacy_for_this_project": {
+        "string": "需要更高的项目隐私吗？"
     },
-    "comments.close_sidebar": {
-        "string": "Close comments sidebar"
+    "consumption_paywalls.need_more_projects": {
+        "string": "需要更多项目吗？"
     },
-    "comments.aria_label_select_comment": {
-        "string": "Select comment"
+    "consumption_paywalls.need_to_access_prototyping_features": {
+        "string": "需要更多原型功能吗？"
     },
-    "fullscreen.accessibility.search_icon": {
-        "string": "Search icon"
+    "consumption_paywalls.need_to_publish_styles": {
+        "string": "需要发布样式以供团队使用吗？"
     },
-    "search.sidebar_search_placeholder": {
-        "string": "Search"
+    "consumption_paywalls.no_control_over_project_permissions": {
+        "string": "无法控制项目权限"
     },
-    "search.sidebar_search_clear": {
-        "string": "Clear"
+    "consumption_paywalls.on_your_plan_projects_are_public_to_the_whole_team_professional_lets_you_choose_who_sees_what": {
+        "string": "在您的计划中，项目对整个团队公开。专业版允许您选择谁可以看到什么。"
     },
-    "comments.error_loading_notification_preferences": {
-        "string": "Error loading notification preferences"
+    "consumption_paywalls.open_session.host_open_sessions": {
+        "string": "主持开放会议"
     }
 }

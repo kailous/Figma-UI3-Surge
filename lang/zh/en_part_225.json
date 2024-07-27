@@ -1,152 +1,152 @@
 {
-    "whiteboard.whats_new.marketing.control.body": {
-        "string": "Generate ideas, create team activities, and align on next steps."
+    "resources_tab.libraries.clear_all": {
+        "string": "清除全部"
     },
-    "whiteboard.whats_new.meeting.title": {
-        "string": "Run meetings in FigJam"
+    "resources_tab.libraries.components": {
+        "string": "组件"
     },
-    "whiteboard.whats_new.product.control.body": {
-        "string": "Run retros, syncs, and planning sessions—all together with your team."
+    "resources_tab.libraries.couldnt_load_library_information": {
+        "string": "无法加载库信息。请稍后再试。"
     },
-    "rcs.japanese_launch_modal.title": {
-        "string": "Figma in Japanese"
+    "resources_tab.libraries.current": {
+        "string": "当前：{setting}"
     },
-    "rcs.japanese_launch_modal.body": {
-        "string": "Figma is now available in Japanese: in-product, on our website, and our help center."
+    "resources_tab.libraries.default_modes": {
+        "string": "管理默认模式"
     },
-    "rcs.japanese_launch_modal.button": {
-        "string": "Update language settings"
+    "resources_tab.libraries.enabled_for": {
+        "string": "启用对象"
     },
-    "promo.promo_review.cancel": {
-        "string": "Cancel"
+    "resources_tab.libraries.file_has_no_owner": {
+        "string": "文件没有设置所有者"
     },
-    "promo.promo_review.redeem_your_days_of_free_professional_plan": {
-        "string": "{days, plural, one {Redeem your {days} day of free Professional plan} other {Redeem your {days} days of free Professional plan}}"
+    "resources_tab.libraries.filter.no_results": {
+        "string": "没有符合选择过滤条件的库。"
     },
-    "promo.promo_review.any_additional_editors_invited_to_selected_view_team_name_will_also_be_free_of_charge_for_the_next_days.seat_rename": {
-        "string": "{days, plural, one {Anyone you give edit access to in {teamName} will also be free of charge for the next {days} day} other {Anyone you give edit access to in {teamName} will also be free of charge for the next {days} days}}"
+    "resources_tab.libraries.filters": {
+        "string": "过滤器"
     },
-    "promo.select_team.choose_teams_to_upgrade": {
-        "string": "Choose teams to upgrade"
+    "resources_tab.libraries.filters_applied": {
+        "string": "{numActiveFilters, plural, other {已应用{numActiveFilters}个过滤器}}"
     },
-    "promo.select_team.multi_redeem_w_deadline_promo_str.seat_rename": {
-        "string": "{days, plural, one {Get # day of unlimited files and collaborators. You can apply this offer to any (or all) of your Starter teams. Just be sure to redeem the offer by {date, date, ::MMMMd}.} other {Get # days of unlimited files and collaborators. You can apply this offer to any (or all) of your Starter teams. Just be sure to redeem the offer by {date, date, ::MMMMd}.}}"
+    "resources_tab.libraries.last_published": {
+        "string": "最后发布"
     },
-    "promo.select_team.single_redeem_w_deadline_promo_str.seat_rename": {
-        "string": "{days, plural, one {Get # day of unlimited files and collaborators. You can apply this offer to one of your Starter teams. Just be sure to redeem the offer by {date, date, ::MMMMd}.} other {Get # days of unlimited files and collaborators. You can apply this offer to one of your Starter teams. Just be sure to redeem the offer by {date, date, ::MMMMd}.}}"
+    "resources_tab.libraries.library_name": {
+        "string": "库名称"
     },
-    "promo.select_team.multi_redeem_without_deadline_promo_str.seat_rename": {
-        "string": "{days, plural, one {Get # day of unlimited files and collaborators. You can apply this offer to any (or all) of your Starter teams.} other {Get # days of unlimited files and collaborators. You can apply this offer to any (or all) of your Starter teams.}}"
+    "resources_tab.libraries.library_owner": {
+        "string": "库所有者"
     },
-    "promo.select_team.single_redeem_without_deadline_promo_str.seat_rename": {
-        "string": "{days, plural, one {Get # day of unlimited files and collaborators. You can apply this offer to one of your Starter teams.} other {Get # days of unlimited files and collaborators. You can apply this offer to one of your Starter teams.}}"
+    "resources_tab.libraries.manage_library_for": {
+        "string": "管理{orgOrWorkspaceName}的库"
     },
-    "edu.checkout_team_name": {
-        "string": "{teamName} - Education plan"
+    "resources_tab.libraries.manage_this_library": {
+        "string": "管理此库"
     },
-    "pro_cart.review.exp_sticker_shock.upgrade_team_name_to_a_professional_team_yearly": {
-        "string": "Professional plan for {teamName}, billed yearly"
+    "resources_tab.libraries.name": {
+        "string": "库名称"
     },
-    "pro_cart.review.exp_sticker_shock.upgrade_team_name_to_a_professional_team_monthly": {
-        "string": "Professional plan for {teamName}, billed monthly"
+    "resources_tab.libraries.no_libraries_text": {
+        "string": "组织中尚无已批准的库。"
     },
-    "pro_cart.review.upgrade_team_name_to_a_professional_team": {
-        "string": "Upgrade {teamName} to a Professional team"
+    "resources_tab.libraries.no_subscriptions": {
+        "string": "—"
     },
-    "pro_cart.info.subtotal": {
-        "string": "Subtotal"
+    "resources_tab.libraries.none": {
+        "string": "无"
     },
-    "pro_cart.review.tax": {
-        "string": "Tax"
+    "resources_tab.libraries.on": {
+        "string": "启用"
     },
-    "pro_cart.review.tax_percent": {
-        "string": "{taxPercent, number, .0}%"
+    "resources_tab.libraries.open_library_file": {
+        "string": "打开库文件"
     },
-    "pro_cart.review.total": {
-        "string": "Total"
+    "resources_tab.libraries.organization": {
+        "string": "组织"
     },
-    "pro_cart.review.total_due_today": {
-        "string": "Total due today"
+    "resources_tab.libraries.search.label_with_ellipsis": {
+        "string": "搜索库..."
     },
-    "pro_cart.review.you_will_not_be_charged_during_the_free_period": {
-        "string": "{days, plural, one {You will not be charged during the {days}-day free period} other {You will not be charged during the {days}-day free period}}"
+    "resources_tab.libraries.search.no_results": {
+        "string": "没有找到符合搜索条件的库。请重新搜索。"
     },
-    "pro_cart.review.agree_with_privacy_and_cancellation": {
-        "string": "I agree to Figma's {termsOfServiceLink}, {privacyLink}, and {cancellationLink}."
+    "resources_tab.libraries.show_all_libraries_button": {
+        "string": "显示所有库"
     },
-    "pro_cart.review.privacy_policy": {
-        "string": "Privacy Policy"
+    "resources_tab.libraries.styles": {
+        "string": "样式"
     },
-    "pro_cart.review.cancellation_policy": {
-        "string": "Cancellation Policy"
+    "resources_tab.libraries.subscription.all_files": {
+        "string": "所有文件"
     },
-    "edu.offboarding_modal.the_team_you_own_will_become_view_only_for_all_members_and_you_ll_lose_edit_access_to_other_teams": {
-        "string": "{teamCount, plural, one {The team you own, {teamName}, will become view-only for all members, and you’ll lose edit access to {teamCount} other team once your plan expires.} other {The team you own, {teamName}, will become view-only for all members, and you’ll lose edit access to {teamCount} other teams once your plan expires.}}"
+    "resources_tab.libraries.subscription.custom": {
+        "string": "自定义"
     },
-    "edu.offboarding_modal.the_two_teams_you_own_will_become_view_only_for_all_members_and_you_ll_lose_edit_access_to_other_teams": {
-        "string": "{teamCount, plural, one {The teams you own—{teamName1} and {teamName2}— will become view-only for all members, and you’ll lose edit access to {teamCount} other team once your plan expires.} other {The teams you own—{teamName1} and {teamName2}— will become view-only for all members, and you’ll lose edit access to {teamCount} other teams once your plan expires.}}"
+    "resources_tab.libraries.subscription.design_files": {
+        "string": "设计文件"
     },
-    "edu.offboarding_modal.the_three_teams_you_own_will_become_view_only_for_all_members_and_you_ll_lose_edit_access_to_other_teams": {
-        "string": "{teamCount, plural, one {The teams you own—{teamName1}, {teamName2}, and {teamName3}— will become view-only for all members, and  you’ll lose edit access to {teamCount} other team once your plan expires.} other {The teams you own—{teamName1}, {teamName2}, and {teamName3}— will become view-only for all members, and you’ll lose edit access to {teamCount} other teams once your plan expires.}}"
+    "resources_tab.libraries.subscription.figjam_files": {
+        "string": "FigJam文件"
     },
-    "edu.offboarding_modal.the_team_you_own_will_become_view_only_for_all_members_once_your_plan_expires": {
-        "string": "The team you own, {teamName}, will become view-only for all members once your plan expires."
+    "resources_tab.libraries.subscription.off": {
+        "string": "关闭"
     },
-    "edu.offboarding_modal.the_two_teams_you_own_will_become_view_only_for_all_members_once_your_plan_expires": {
-        "string": "The teams you own—{teamName1} and {teamName2}— will become view-only for all members once your plan expires."
+    "resources_tab.libraries.subscription.slides_files": {
+        "string": "幻灯片文件"
     },
-    "edu.offboarding_modal.the_three_teams_you_own_will_become_view_only_for_all_members_once_your_plan_expires": {
-        "string": "The teams you own—{teamName1}, {teamName2}, and {teamName3}— will become view-only for all members once your plan expires."
+    "resources_tab.libraries.two_or_more_workspaces": {
+        "string": "{extraWorkspaceNum, plural, other {{workspaceNames}和其他{extraWorkspaceNum}个工作区}}"
     },
-    "edu.offboarding_modal.you_ll_lose_edit_access_to_team_once_your_plan_expires": {
-        "string": "You’ll lose edit access to {teamName} once your plan expires."
+    "resources_tab.libraries.use_orgs_setting": {
+        "string": "使用{orgName}的设置"
     },
-    "edu.offboarding_modal.you_ll_lose_edit_access_to_team_and_team_once_your_plan_expires": {
-        "string": "You’ll lose edit access to {teamName1} and {teamName2} once your plan expires."
+    "resources_tab.libraries.visibility_settings": {
+        "string": "默认启用此库"
     },
-    "edu.offboarding_modal.the_team_you_own_is_now_view_only_for_all_members_and_you_can_no_longer_make_edits": {
-        "string": "{teamCount, plural, one {The team you own, {teamName}, is now view-only for all members, and you can no longer make edits in {teamCount} other team.} other {The team you own, {teamName}, is now view-only for all members, and you can no longer make edits in {teamCount} other teams.}}"
+    "resources_tab.libraries.workspaces": {
+        "string": "工作区"
     },
-    "edu.offboarding_modal.the_two_teams_you_own_are_now_view_only_for_all_members_and_you_can_no_longer_make_edits": {
-        "string": "{teamCount, plural, one {The teams you own—{teamName1} and {teamName2}— are now view-only for all members, and you can no longer make edits in {teamCount} other team.} other {The teams you own—{teamName1} and {teamName2}— are now view-only for all members, and you can no longer make edits in {teamCount} other teams.}}"
+    "resources_tab.shared_fonts_table.bulk_delete_fonts": {
+        "string": "删除{selectedFontsCount, plural, other {字体}}"
     },
-    "edu.offboarding_modal.the_three_teams_you_own_are_now_view_only_for_all_members_and_you_can_no_longer_make_edits": {
-        "string": "{teamCount, plural, one {The teams you own—{teamName1}, {teamName2}, and {teamName3}— are now view-only for all members, and you can no longer make edits in {teamCount} other team.} other {The teams you own—{teamName1}, {teamName2}, and {teamName3}— are now view-only for all members, and you can no longer make edits in {teamCount} other teams.}}"
+    "resources_tab.shared_fonts_table.delete_font": {
+        "string": "删除字体"
     },
-    "edu.offboarding_modal.the_team_you_own_is_now_view_only_for_all_members": {
-        "string": "The team you own, {teamName}, is now view-only for all members."
+    "resources_tab.shared_fonts_table.embedded_upload_fonts_link": {
+        "string": "上传字体"
     },
-    "edu.offboarding_modal.the_two_teams_you_own_are_now_view_only_for_all_members": {
-        "string": "The teams you own—{teamName1} and {teamName2}— are now view-only for all members."
+    "resources_tab.shared_fonts_table.font": {
+        "string": "字体"
     },
-    "edu.offboarding_modal.the_three_teams_you_own_are_now_view_only_for_all_members": {
-        "string": "The teams you own—{teamName1}, {teamName2}, and {teamName3}— are now view-only for all members."
+    "resources_tab.shared_fonts_table.font_button_in_menu_bar": {
+        "string": "字体"
     },
-    "edu.offboarding_modal.you_can_no_longer_edit_team": {
-        "string": "You can no longer edit {teamName}."
+    "resources_tab.shared_fonts_table.list_of_styles": {
+        "string": "{numberOfStyles, plural, other {{numberOfStyles}种样式：{instancesString}}}"
     },
-    "edu.offboarding_modal.you_can_no_longer_edit_team_and_team": {
-        "string": "You can no longer edit {teamName1} and {teamName2}."
+    "resources_tab.shared_fonts_table.no_fonts_match_your_search_query": {
+        "string": "没有找到符合搜索条件的字体。请重新搜索或{uploadFontsLink}。"
     },
-    "edu.offboarding_modal.your_education_plan_expires_in_days": {
-        "string": "{daysLeft, plural, one {Your Education plan expires in {daysLeft} day} other {Your Education plan expires in {daysLeft} days}}"
+    "resources_tab.shared_fonts_table.no_shared_fonts_yet": {
+        "string": "组织中尚无共享字体。"
     },
-    "edu.offboarding_modal.your_education_plan_has_expired": {
-        "string": "Your Education plan has expired"
+    "resources_tab.shared_fonts_table.sample": {
+        "string": "示例"
     },
-    "edu.offboarding_modal.if_you_graduated": {
-        "string": "If you graduated: "
+    "resources_tab.shared_fonts_table.search_fonts_placeholder_text_with_ellipsis": {
+        "string": "搜索字体..."
     },
-    "edu.offboarding_modal.continue_below_to_upgrade_your_team_s_to_the_professional_plan_or": {
-        "string": "Continue below to upgrade your team(s) to the Professional plan, or {createProTeamLink}."
+    "resources_tab.shared_fonts_table.upload_fonts_link": {
+        "string": "上传字体"
     },
-    "edu.offboarding_modal.create_a_new_professional_team": {
-        "string": "create a new Professional team"
+    "resources_tab.shared_fonts_table.variable_font_badge": {
+        "string": "可变字体"
     },
-    "edu.offboarding_modal.create_a_new_professional_team_and_start_fresh": {
-        "string": "Create a new Professional team and start fresh."
+    "resources_tab.shared_fonts_table.version": {
+        "string": "版本"
     },
-    "edu.offboarding_modal.if_you_re_still_in_education": {
-        "string": "If you’re still in education: "
+    "scim_metadata_display_text.cost_center": {
+        "string": "成本中心"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "rcs.figjam_pan.move_instructions_bold_text_swipe": {
-        "string": "swipe"
+    "members_table.true_up.banner.free_period_zero.tooltip.design": {
+        "string": "此次True Up中不包括组织的新设计席位。"
     },
-    "rcs.figjam_pan.hold_right_click": {
-        "string": "hold right-click"
+    "members_table.true_up.banner.free_period_zero.tooltip.dev_mode": {
+        "string": "此次True Up中不包括组织的新开发模式席位。"
     },
-    "rcs.figjam_pan_zoom_change_prefs": {
-        "string": "Change preferences →"
+    "members_table.true_up.banner.free_period_zero.tooltip.figjam": {
+        "string": "此次True Up中不包括组织的新FigJam席位。"
     },
-    "mouse_controls_modal.new_user.title": {
-        "string": "Zoom and pan settings"
+    "members_table.true_up.banner.new_seats.design": {
+        "string": "新设计席位"
     },
-    "mouse_controls_modal.new_user.description": {
-        "string": "These will update for both Figma and FigJam."
+    "members_table.true_up.banner.new_seats.dev_mode": {
+        "string": "新开发模式席位"
     },
-    "whiteboard.editor_file_create_button.blank_whiteboard": {
-        "string": "Blank whiteboard"
+    "members_table.true_up.banner.new_seats.figjam": {
+        "string": "新FigJam席位"
     },
-    "whiteboard.editor_file_create_button.template.title": {
-        "string": "Start from template"
+    "members_table.true_up.banner.projected_total": {
+        "string": "预计总额"
     },
-    "whiteboard.editor_file_create_button.create_button_aria_label": {
-        "string": "Editor file create button"
+    "members_table.true_up.banner.seat_floor.tooltip.design": {
+        "string": "根据合同同意支付的最低金额所涵盖的设计席位数量"
     },
-    "whiteboard.editor_file_create_button.template.meeting": {
-        "string": "Meeting"
+    "members_table.true_up.banner.seat_floor.tooltip.dev_mode": {
+        "string": "根据合同同意支付的最低金额所涵盖的开发模式席位数量"
     },
-    "whiteboard.editor_file_create_button.template.brainstorm": {
-        "string": "Brainstorm"
+    "members_table.true_up.banner.seat_floor.tooltip.figjam": {
+        "string": "根据合同同意支付的最低金额所涵盖的FigJam席位数量"
     },
-    "whiteboard.editor_file_create_button.template.diagram": {
-        "string": "Diagram"
+    "members_table.true_up.banner.see_breakdown": {
+        "string": "查看明细"
     },
-    "whiteboard.editor_file_create_button.template.plan": {
-        "string": "Plan"
+    "members_table.true_up.banner.subtitle": {
+        "string": "确认并锁定组织的付费席位后，将生成发票。"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic_2": {
-        "string": "Topic"
+    "members_table.true_up.banner.title": {
+        "string": "准备就绪后确认发票"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic": {
-        "string": "By topic"
+    "members_table.true_up.banner.total_seats": {
+        "string": "共{numSeats}个席位"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color_2": {
-        "string": "Color"
+    "members_table.true_up.freeze_invoice_billing_group_info": {
+        "string": "以下账单组尚未由管理员确认。"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color": {
-        "string": "By color"
+    "members_table.true_up.freeze_invoice_button_text": {
+        "string": "确认并锁定"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author_2": {
-        "string": "Author"
+    "members_table.true_up.freeze_invoice_checkbox_text": {
+        "string": "我理解此操作不可撤销"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author": {
-        "string": "By author"
+    "members_table.true_up.freeze_invoice_checkbox_title": {
+        "string": "确认锁定发票？"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count_2": {
-        "string": "Stamp count"
+    "members_table.true_up.freeze_invoice_confirm_description.seat_rename.template": {
+        "string": "锁定后，所有新增的全席位用户在下次计费前将免费。截止到{date}，将对年度计划中的{seatsText}收取{lockedAmountToPay}。"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count": {
-        "string": "By stamp count"
+    "members_table.true_up.freeze_invoice_confirm_description_true_up.seat_rename": {
+        "string": "锁定后，所有新增的全席位用户在下次计费前将免费。截止到{date}，将收取{lockedAmountToPay}。"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type_2": {
-        "string": "Stamp type"
+    "members_table.true_up.freeze_invoice_confirm_title.template": {
+        "string": "是否开始{seatsText}的新订阅？"
     },
-    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type": {
-        "string": "By stamp type"
+    "members_table.true_up.freeze_invoice_confirm_title_true_up.template": {
+        "string": "是否将{seatsText}添加到计划中？"
     },
-    "whiteboard.ai_modal.or": {
-        "string": "or"
+    "members_table.true_up.freeze_invoice_design_editor_text.seat_rename": {
+        "string": "设计席位共{lockedQuantityDesignEditors}个"
     },
-    "whiteboard.ai_modal.template_cta": {
-        "string": "Start with a template"
+    "members_table.true_up.freeze_invoice_dev_mode_seat_text": {
+        "string": "开发模式席位共{quantity}个"
     },
-    "whiteboard.ai_modal.template_image_alt": {
-        "string": "Thumbnail of a template"
+    "members_table.true_up.freeze_invoice_figjam_editor_text.seat_rename": {
+        "string": "FigJam席位共{lockedQuantityFigJamEditors}个"
     },
-    "whiteboard.ai_modal.generate": {
-        "string": "Generate"
+    "members_table.true_up.freeze_invoice_new_design_editor_text.seat_rename": {
+        "string": "新增设计席位共{lockedQuantityDesignEditors}个"
     },
-    "whiteboard.ai_modal.style": {
-        "string": "Style"
+    "members_table.true_up.freeze_invoice_new_dev_mode_seat_text": {
+        "string": "新增开发模式席位共{quantity}个"
     },
-    "whiteboard.ai_modal.basic": {
-        "string": "Basic"
+    "members_table.true_up.freeze_invoice_new_figjam_editor_text.seat_rename": {
+        "string": "新增FigJam席位共{lockedQuantityFigJamEditors}个"
     },
-    "whiteboard.ai_modal.expanded": {
-        "string": "Expanded"
+    "members_table.user_upgrade_date": {
+        "string": "{upgradeDate, date, medium}"
     },
-    "whiteboard.ai_modal.generate_shortcut": {
-        "string": "Generate ⌘↵"
+    "members_table.user_upgrade_reason_and_date.tooltip": {
+        "string": "{upgradeReason}\n{upgradeDate, date, medium}"
     },
-    "whiteboard.ai_modal.prompt_placeholder": {
-        "string": "Let’s make a…"
+    "members_table.verification_sent": {
+        "string": "确认邮件已发送"
     },
-    "whiteboard.ai_modal.suggestion.more_prompts": {
-        "string": "More prompts"
+    "members_table.workspace_cell.unassign": {
+        "string": "取消分配"
     },
-    "whiteboard.ai_modal.suggestion.uploadCsv": {
-        "string": "Upload CSV"
+    "members_table.workspace_update_description.auto_assigned": {
+        "string": "自动分配"
     },
-    "whiteboard.ai_modal.prompt_builder.trailing_ellipsis": {
-        "string": "…"
+    "members_table.workspace_update_description.moved_by_admin": {
+        "string": "由{adminName}移动"
     },
-    "whiteboard.ai_modal.share_trace_nudge_in_modal": {
-        "string": "{weirdOutput} Share with #figjam-ai-feedback."
+    "members_table.workspace_update_description.moved_by_admin_generic": {
+        "string": "由管理员移动"
     },
-    "whiteboard.ai_modal.share_trace_nudge_weird_output": {
-        "string": "Weird output?"
+    "members_table.workspace_update_description.scim_group": {
+        "string": "[{groupName}]由IDP配置"
     },
-    "whiteboard.ai_feature_announcement.more_prompts.community_button": {
-        "string": "Browse in Community"
+    "members_table.workspace_update_description.self_selected": {
+        "string": "通过工作区选择功能选择"
     },
-    "whiteboard.ai_feature_announcement.more_prompts.title": {
-        "string": "More prompts to get you started"
+    "multi_select_list.filter_default": {
+        "string": "全部"
     },
-    "whiteboard.ai_feature_announcement.more_prompts.description": {
-        "string": "Jump start your file with one of these ready-to-go prompts."
+    "multi_select_list.reset_filters": {
+        "string": "重置过滤器"
     },
-    "whiteboard.inline_menu.unlock": {
-        "string": "Unlock"
+    "multi_select_list.selected_count_billing_groups": {
+        "string": "已选择{numSelected}个账单组："
     },
-    "whiteboard.inline_menu.change_shape": {
-        "string": "Shape"
+    "multi_select_list.selected_count_domain": {
+        "string": "已选择{numSelected}个域名："
     },
-    "whiteboard.inline_menu.change_shape_label": {
-        "string": "Shape, {currentShape}"
+    "multi_select_list.selected_count_file": {
+        "string": "已选择{numSelected}个文件："
     },
-    "whiteboard.inline_menu.add_same_shape": {
-        "string": "Add another"
+    "multi_select_list.selected_count_folder": {
+        "string": "已选择{numSelected}个文件夹："
     },
-    "whiteboard.inline_menu.change_shape_search": {
-        "string": "Search for a shape"
+    "multi_select_list.selected_count_font": {
+        "string": "已选择{numSelected}个字体："
     },
-    "whiteboard.shape_keywords.rectangle": {
-        "string": "Rectangle"
+    "multi_select_list.selected_count_team": {
+        "string": "已选择{numSelected}个团队："
     },
-    "whiteboard.shape_keywords.circle": {
-        "string": "Circle"
+    "multi_select_list.selected_count_user": {
+        "string": "已选择{numSelected}个用户："
     },
-    "whiteboard.shape_keywords.connector": {
-        "string": "Connector"
+    "multi_select_list.selected_count_workspace": {
+        "string": "已选择{numSelected}个工作区："
     },
-    "whiteboard.shape_keywords.pill": {
-        "string": "Pill"
+    "onboarding_pointers.account_type_filter_onboarding.seat_rename": {
+        "string": "通过账户类型、席位类型、最后编辑时间和自上次计费以来新增的付费席位筛选用户。"
     },
-    "whiteboard.shape_keywords.terminator": {
-        "string": "Terminator"
+    "onboarding_pointers.account_type_filter_onboarding_for_workspace_admin": {
+        "string": "通过账户类型和最后编辑时间筛选用户。"
     },
-    "whiteboard.shape_keywords.decision": {
-        "string": "Decision"
+    "onboarding_pointers.activity_csv_onboarding": {
+        "string": "请求发送包含组织中所有活动的完整CSV导出文件的邮件。"
     }
 }

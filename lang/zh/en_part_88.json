@@ -1,152 +1,152 @@
 {
-    "org_settings.library_subscription_confirm.not_yet_browsable": {
-        "string": "In order to enable this library for your organization, you'll need to give everyone access to it.{lineBreak}This will change the privacy of \"{fileName}\" to \"Everyone at {orgName} can view.\""
+    "design_systems.instance_panel.component_missing": {
+        "string": "组件丢失"
     },
-    "org_settings.library_subscription_confirm.already_browsable.enable_button": {
-        "string": "Enable library"
+    "design_systems.instance_panel.component_removed": {
+        "string": "组件已从库中删除"
     },
-    "org_settings.library_subscription_confirm.not_yet_browsable.enable_button": {
-        "string": "Change privacy and enable"
+    "design_systems.instance_panel.deleted_source_component_message": {
+        "string": "共享组件的实例无法添加到其来源文档中，如果原始组件被删除。"
     },
-    "org_settings.library_subscription_confirm.title": {
-        "string": "Enable library for organization?"
+    "design_systems.instance_panel.go_to_main_component": {
+        "string": "前往主组件"
     },
-    "org_settings.library_subscription_confirm.cancel_button": {
-        "string": "Cancel"
+    "design_systems.instance_panel.go_to_main_component_nin_library": {
+        "string": "在库中前往主组件"
     },
-    "design_systems.internal_community_library_mode_label": {
-        "string": "(Internal) Community library mode"
+    "design_systems.instance_panel.instance_options": {
+        "string": "实例选项"
     },
-    "design_systems.publishing_modal.assembling_components_styles_and_variables": {
-        "string": "Assembling components, styles, and variables"
+    "design_systems.instance_panel.mixed": {
+        "string": "混合"
     },
-    "design_systems.publishing_modal.publish_button_text": {
-        "string": "Publish"
+    "design_systems.instance_panel.no_changes_to_reset": {
+        "string": "没有要重置的更改"
     },
-    "design_systems.publishing_modal.publish_styles": {
-        "string": "Publish styles"
+    "design_systems.instance_panel.ok": {
+        "string": "确定"
     },
-    "design_systems.publishing_modal.cancel": {
-        "string": "Cancel"
+    "design_systems.instance_panel.oops": {
+        "string": "注意"
     },
-    "design_systems.publishing_modal.publish_to_community": {
-        "string": "Publish to community"
+    "design_systems.instance_panel.reset_all_changes": {
+        "string": "重置所有更改"
     },
-    "design_systems.publishing_modal.publish_to": {
-        "string": "Publish to {audienceDropdown}"
+    "design_systems.instance_panel.reset_effects": {
+        "string": "重置效果"
     },
-    "design_systems.publishing_modal.org_access_true": {
-        "string": "everyone at {orgName}"
+    "design_systems.instance_panel.reset_exports": {
+        "string": "重置导出"
     },
-    "design_systems.publishing_modal.org_access_false_with_team_access": {
-        "string": "everyone in {teamName}"
+    "design_systems.instance_panel.reset_fill": {
+        "string": "重置填充"
     },
-    "design_systems.publishing_modal.org_access_false_without_team_access": {
-        "string": "everyone invited to this file"
+    "design_systems.instance_panel.reset_interactions": {
+        "string": "重置交互"
     },
-    "design_systems.publishing_modal.secret_publish_warning": {
-        "string": "When you publish to everyone at {orgName}, people may be able to see your secret team's name. To prevent this, move the file to an open or closed team and publish it from there instead."
+    "design_systems.instance_panel.reset_name": {
+        "string": "重置名称"
     },
-    "design_systems.publishing_modal.secret_publish_warning_orgname": {
-        "string": "your organization"
+    "design_systems.instance_panel.reset_others": {
+        "string": "重置其他"
     },
-    "design_systems.publishing_modal.read_the_help_article": {
-        "string": "Learn more →"
+    "design_systems.instance_panel.reset_overlay": {
+        "string": "重置覆盖"
     },
-    "design_systems.publishing_modal.move_components_warning": {
-        "string": "When you both move and change a component, anyone who accepts the library update may lose overrides made to that component. {helpArticle}"
+    "design_systems.instance_panel.reset_property_assignment": {
+        "string": "重置{assignmentName}属性"
     },
-    "design_systems.publishing_modal.example_conversion_warning": {
-        "string": "Components cannot be converted to examples. Please remove the examples/ prefix before publishing."
+    "design_systems.instance_panel.reset_size": {
+        "string": "重置大小"
     },
-    "design_systems.publishing_modal.publishing_took_too_long": {
-        "string": "Publishing took too long. Try publishing fewer styles and components."
+    "design_systems.instance_panel.reset_stroke": {
+        "string": "重置描边"
     },
-    "design_systems.publishing_modal.move_to_this_file": {
-        "string": "Move to this file"
+    "design_systems.instance_panel.reset_text": {
+        "string": "重置文本"
     },
-    "design_systems.publishing_modal.publish_as_copy": {
-        "string": "Publish as copy"
+    "design_systems.instance_panel.reset_text_style": {
+        "string": "重置文本样式"
     },
-    "design_systems.publishing_modal.missing_properties": {
-        "string": "Missing properties"
+    "design_systems.instance_panel.reset_to_default": {
+        "string": "重置为默认"
     },
-    "design_systems.publishing_modal.conflicting_property_values": {
-        "string": "Conflicting property values"
+    "design_systems.instance_panel.reset_visibility": {
+        "string": "重置可见性"
     },
-    "design_systems.publishing_modal.corrupt_layer_names": {
-        "string": "Corrupt layer names"
+    "design_systems.instance_panel.restore_component": {
+        "string": "恢复组件"
     },
-    "design_systems.publishing_modal.conflicting_property_names": {
-        "string": "Conflicting property names"
+    "design_systems.instance_panel.restore_variant": {
+        "string": "恢复变体"
     },
-    "design_systems.publishing_modal.unused_def_error": {
-        "string": "Unused properties"
+    "design_systems.instance_panel.review_update": {
+        "string": "查看更新"
     },
-    "design_systems.publishing_modal.too_many_variables_error": {
-        "string": "Too many variables"
+    "design_systems.instance_panel.select_instance": {
+        "string": "选择实例"
     },
-    "design_systems.publishing_modal.too_many_modes_error": {
-        "string": "Exceeds 40 modes"
+    "design_systems.instance_panel.show_more": {
+        "string": "显示更多"
     },
-    "design_systems.publishing_modal.moved_to_this_file": {
-        "string": "Moved to this file"
+    "design_systems.instance_panel.swap_instance": {
+        "string": "交换实例"
     },
-    "design_systems.publishing_modal.added": {
-        "string": "Added"
+    "design_systems.instance_panel.the_selected_variant_is_missing_in_the_component": {
+        "string": "所选变体在组件中丢失。"
     },
-    "design_systems.publishing_modal.modified": {
-        "string": "Modified"
+    "design_systems.instance_panel.update_available": {
+        "string": "有更新可用"
     },
-    "design_systems.publishing_modal.reordered": {
-        "string": "Reordered"
+    "design_systems.instance_panel.update_selected": {
+        "string": "更新选定的{numSelectedInstancesToUpdate}个实例"
     },
-    "design_systems.publishing_modal.exclude_from_publish": {
-        "string": "Exclude {assetName} from publish"
+    "design_systems.instance_panel.variant_missing": {
+        "string": "变体丢失"
     },
-    "design_systems.publishing_modal.include_in_publish": {
-        "string": "Include {assetName} in publish"
+    "design_systems.instance_panel.view_library_in_community": {
+        "string": "在社区中查看库"
     },
-    "design_systems.publishing_modal.hidden_variable_count_within_collection": {
-        "string": "{count, plural, one {{count} hidden variable} other {{count} hidden variables}}"
+    "design_systems.instance_swap_picker.all_libraries": {
+        "string": "所有库"
     },
-    "design_systems.publishing_modal.list_item_changed_variable_count": {
-        "string": "{count, plural, one {{count} changed variable} other {{count} changed variables}}"
+    "design_systems.instance_swap_picker.browse_libraries": {
+        "string": "浏览库..."
     },
-    "design_systems.publishing_modal.filename_fallback": {
-        "string": "another file"
+    "design_systems.instance_swap_picker.enabled_libraries": {
+        "string": "启用库"
     },
-    "design_systems.publishing_modal.multiple_paste_style": {
-        "string": "This style was pasted multiple times. This will be published as a new style, and won’t be connected to uses of the existing style."
+    "design_systems.instance_swap_picker.go_to_main_component": {
+        "string": "前往主组件"
     },
-    "design_systems.publishing_modal.multiple_paste": {
-        "string": "This component was pasted multiple times. This will be published as a new component, and won’t be connected to instances of the existing component."
+    "design_systems.instance_swap_picker.local_components": {
+        "string": "本地组件"
     },
-    "design_systems.publishing_modal.unmovable_state_group_with_movable_state": {
-        "string": "This component contains variants previously published as components from other files. Publishing will move instance connections to this file."
+    "design_systems.instance_swap_picker.mixed": {
+        "string": "混合"
     },
-    "design_systems.publishing_modal.select_component": {
-        "string": "Select component"
+    "design_systems.instance_swap_picker.no_components": {
+        "string": "无组件"
     },
-    "design_systems.publishing_modal.asset_cannot_be_published": {
-        "string": "Asset cannot be published"
+    "design_systems.instance_swap_picker.no_results": {
+        "string": "没有与“{query}”匹配的结果"
     },
-    "design_systems.publishing_modal.see_variables": {
-        "string": "See variables"
+    "design_systems.instance_swap_picker.pick_instance": {
+        "string": "选择实例"
     },
-    "design_systems.publishing_modal.publish_as_move_info_style": {
-        "string": "This style will be moved from {fileName} to this file, and any uses of the style will be connected to this file going forward."
+    "design_systems.instance_swap_picker.preferred": {
+        "string": "首选"
     },
-    "design_systems.publishing_modal.publish_as_move_info_component": {
-        "string": "This component will be moved from {fileName} to this file, and its instances will be connected to this file going forward."
+    "design_systems.instance_swap_picker.recently_used": {
+        "string": "最近使用的组件"
     },
-    "design_systems.publishing_modal.publish_destination_as_copy_info": {
-        "string": "Publishing this new copy won't move instance connections."
+    "design_systems.instance_swap_picker.search": {
+        "string": "搜索"
     },
-    "design_systems.publishing_modal.publish_source_component_as_copy_info": {
-        "string": "This component was moved to {fileName}. Publishing this new copy won’t update instances in other files."
+    "design_systems.instance_swap_picker.search_all_libraries": {
+        "string": "搜索所有库"
     },
-    "design_systems.publishing_modal.publish_source_style_as_copy_info": {
-        "string": "This style was moved to {fileName}. Publishing this new copy won’t update uses in other files."
+    "design_systems.instance_swap_picker.search_filename": {
+        "string": "搜索{filename}"
     }
 }

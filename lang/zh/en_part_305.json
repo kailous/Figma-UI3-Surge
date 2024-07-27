@@ -1,152 +1,152 @@
 {
-    "fig_feed.other_spaces": {
-        "string": "Other spaces"
+    "team_view.remove_figjam_edit_status.seat_rename": {
+        "string": "FigJamのアクセス権をダウングレードしますか?"
     },
-    "fig_feed.other_recent_spaces": {
-        "string": "Other recent spaces"
+    "team_view.remove_members_modal.confirmation": {
+        "string": "削除"
     },
-    "fig_feed.placeholder.container_search": {
-        "string": "Search spaces"
+    "team_view.remove_members_modal.confirmed_role_removal_copy": {
+        "string": "{member_count, plural, other {この{member_count}人のユーザーは、 {team_name}とその内部のチームリソース(ドラフトフォルダ、すべてのプロジェクト、ファイルを含む)にアクセスできなくなります。}}"
     },
-    "fig_feed.all_spaces": {
-        "string": "All spaces"
+    "team_view.remove_members_modal.pending_role_removal_copy": {
+        "string": "{member_count, plural, other {この{member_count}人のユーザーは、 {team_name}にアクセスできなくなります。プロジェクトやファイルなどのチームリソースには引き続きアクセスできる可能性があります。}}"
     },
-    "fig_feed.placeholder.user_search": {
-        "string": "Search users"
+    "team_view.remove_members_modal.title": {
+        "string": "{member_count, plural, other {{member_count}ユーザーを削除しますか?}}"
     },
-    "fig_feed.all_users": {
-        "string": "All users"
+    "team_view.request_upgrade.request_already_sent": {
+        "string": "アップグレード申請送信済み"
     },
-    "fig_feed.discard_edit": {
-        "string": "Discard edit"
+    "team_view.search_bar.search_members_with_ellipsis": {
+        "string": "メンバーを検索..."
     },
-    "fig_feed.saving": {
-        "string": "Saving"
+    "team_view.settings.change_role.seat_rename": {
+        "string": "シートを変更"
     },
-    "fig_feed.post_edited": {
-        "string": "Post edited"
+    "team_view.settings.copy_email": {
+        "string": "メールをコピー"
     },
-    "autosave.has_changes.open_to_sync": {
-        "string": "Open to sync"
+    "team_view.settings.copy_get_plural_or_singular_selected_members_length_email": {
+        "string": "{numEmails, plural, other {メールをコピー}}"
     },
-    "autosave.has_changes.unsaved_changes_to_file": {
-        "string": "There are unsynced changes to {fileName} from when you were offline. Open the file to sync the changes."
+    "team_view.settings.invite_to_team": {
+        "string": "チームに招待"
     },
-    "autosave.has_changes.unsynced_changes_offline": {
-        "string": "There are unsynced changes from when you were offline. Open these files to sync these changes."
+    "team_view.settings.leave_team": {
+        "string": "チームを脱退"
     },
-    "autosave.has_changes.sync_offline_changes": {
-        "string": "Sync your offline changes"
+    "team_view.settings.pending": {
+        "string": "保留中"
     },
-    "autosave.has_changes.dismiss.later": {
-        "string": "Later"
+    "team_view.settings.remove": {
+        "string": "削除"
     },
-    "autosave.logout.offline_changes": {
-        "string": "Offline changes"
+    "team_view.settings.resend_invite": {
+        "string": "招待を再送信"
     },
-    "autosave.logout.offline_changes_discarded": {
-        "string": "Offline changes have been discarded."
+    "team_view.settings.see_edit_access": {
+        "string": "編集アクセス権の表示"
     },
-    "autosave.logout.log_out": {
-        "string": "Log out"
+    "team_view.settings.view_admin_console": {
+        "string": "管理者ビューに移動"
     },
-    "autosave.logout.offline_changes_synced": {
-        "string": "All offline changes synced."
+    "team_view.settings.view_settings": {
+        "string": "設定を表示"
     },
-    "autosave.logout.discard_and_logout": {
-        "string": "Discard and log out"
+    "team_view.settings.you_can_only_remove_limit_users_at_a_time": {
+        "string": "一度に削除できるユーザーは最大{batchLimit}人です。"
     },
-    "autosave.logout.cancel": {
-        "string": "Cancel"
+    "team_view.settings_table.add_annual_seats": {
+        "string": "別のシートを追加"
     },
-    "autosave.logout.show_changes": {
-        "string": "Show changes"
+    "team_view.settings_table.add_annual_seats_description": {
+        "string": "FigmaデザインとFigJamの別の年間シートを追加"
     },
-    "autosave.logout.discard": {
-        "string": "Discard changes"
+    "team_view.settings_table.billing_date": {
+        "string": "{billing_date}"
     },
-    "autosave.logout.sync_changes": {
-        "string": "Sync changes"
+    "team_view.settings_table.delete_team": {
+        "string": "チームの削除"
     },
-    "autosave.has_changes.expiry_text_shortly": {
-        "string": "Unsynced changes will expire shortly."
+    "team_view.settings_table.delete_team_description": {
+        "string": "このチームとその中のすべてのリソースを完全に削除します"
     },
-    "autosave.has_changes.expiry_text_days": {
-        "string": "{days, plural, one {Unsynced changes will expire in {days} day.} other {Unsynced changes will expire in {days} days.}}"
+    "team_view.settings_table.multiple_subscription_renewal": {
+        "string": "月間サブスクリプションが{monthly_billing_date}に、年間サブスクリプションが{annual_billing_date}にそれぞれ更新されます。更新前に改めてお知らせいたします。"
     },
-    "autosave.logout.log_out_text.desktop": {
-        "string": "Logging out will discard your offline changes. Select “Show changes” to sync them before you log out."
+    "team_view.settings_table.renewal_information_canceled_team_annual": {
+        "string": "プロフェッショナルの年間サブスクリプションがキャンセルされました"
     },
-    "autosave.logout.log_out_text.web": {
-        "string": "You can sync the changes next time you sign in. If you’re using a public or shared device, you can select “Discard and log out” to discard your unsynced changes."
+    "team_view.settings_table.renewal_information_canceled_team_annual_and_monthly": {
+        "string": "プロフェッショナルの月間および年間のサブスクリプションがキャンセルされました"
     },
-    "autosave.learn_more.title": {
-        "string": "About unsaved changes"
+    "team_view.settings_table.renewal_information_canceled_team_monthly": {
+        "string": "プロフェッショナルの月間サブスクリプションがキャンセルされました"
     },
-    "autosave.learn_more.body_save_pending_changes": {
-        "string": "Figma saves pending changes in your browser, even while offline. When you're back online, Figma will apply these changes to your file, even if you closed the tab."
+    "team_view.settings_table.single_subscription_renewal_annual": {
+        "string": "現在の年間サブスクリプションの更新日は{billing_date}です。更新前に改めてお知らせいたします。"
     },
-    "autosave.learn_more.body_use_version_history": {
-        "string": "You can use version history to review the changes."
+    "team_view.settings_table.single_subscription_renewal_monthly": {
+        "string": "現在の月間サブスクリプションの更新日は{billing_date}です。更新前に改めてお知らせいたします。"
     },
-    "autosave.learn_more.done_button": {
-        "string": "Done"
+    "team_view.settings_table.update_invoice_details.error.legal_name_and_shipping_address_required": {
+        "string": "法人名と配送先住所の両方が必要です。"
     },
-    "autosave.file_already_open_modal.title": {
-        "string": "File already opened"
+    "team_view.settings_table.update_invoice_details.invoice_details": {
+        "string": "請求書の詳細"
     },
-    "autosave.file_already_open_modal.body": {
-        "string": "{fileName} is already opened in another tab. Continue editing in that tab, or close it before opening here."
+    "team_view.settings_table.update_invoice_details.modal_description": {
+        "string": "請求書に表示される名前と住所を更新します。"
     },
-    "community.buyer.cannot_make_purchase_on_behalf_of_team_or_org": {
-        "string": "To purchase, switch to your personal profile"
+    "team_view.settings_table.update_invoice_details.modal_title": {
+        "string": "請求書の詳細を更新"
     },
-    "community.buyer.no_you_cannot_buy_your_own_resource": {
-        "string": "No, you can’t buy your own resource ;)"
+    "team_view.settings_table.update_invoice_details.update_invoice_details": {
+        "string": "請求書に表示される法人名と配送先住所を更新します。"
     },
-    "community.resource.delisted_title": {
-        "string": "This resource is no longer for sale"
+    "team_view.settings_table.update_payment_details.payment_details": {
+        "string": "支払い情報"
     },
-    "proto.starting_points.description_bold_tooltip": {
-        "string": "Bold"
+    "team_view.settings_table.update_payment_details.update_payment_method": {
+        "string": "登録されている支払い方法と請求先住所を更新します。"
     },
-    "proto.starting_points.description_italic_tooltip": {
-        "string": "Italic"
+    "team_view.starter_team.num_of_figjam_files_user": {
+        "string": "{maxFreeFiles, plural, other {{maxFreeFiles}個中{numFigjamFilesUsed}個のFigJamファイルが使用されています}}"
     },
-    "proto.starting_points.description_strikethrough_tooltip": {
-        "string": "Strikethrough"
+    "team_view.starter_team.num_of_figma_files_user": {
+        "string": "{maxFreeFiles, plural, other {{maxFreeFiles}個中{numFigmaFilesUsed}個のFigmaファイルが使用されています}}"
     },
-    "proto.starting_points.description_header_tooltip": {
-        "string": "Header 1"
+    "team_view.team_members_table.default_empty_state": {
+        "string": "チームにまだメンバーがいません。"
     },
-    "proto.starting_points.description_bulleted_list_tooltip": {
-        "string": "Bulleted list"
+    "team_view.team_members_table.filters.last_active..more_than_30_days_ago": {
+        "string": "30日間よりも前"
     },
-    "proto.starting_points.description_ordered_list_tooltip": {
-        "string": "Ordered list"
+    "team_view.team_members_table.filters.last_active..more_than_3_months_ago": {
+        "string": "3か月間よりも前"
     },
-    "proto.starting_points.description_link_tooltip": {
-        "string": "Link"
+    "team_view.team_members_table.filters.last_active..more_than_7_days_ago": {
+        "string": "7日間よりも前"
     },
-    "proto.starting_points.description_code_tooltip": {
-        "string": "Code"
+    "team_view.team_members_table.filters.permissions.admin": {
+        "string": "管理者"
     },
-    "proto.starting_points.description_code_block_tooltip": {
-        "string": "Code block"
+    "team_view.team_members_table.filters.permissions.can_edit": {
+        "string": "編集可"
     },
-    "pro_cart.breadcrumbs.cancel": {
-        "string": "Cancel"
+    "team_view.team_members_table.filters.permissions.can_view": {
+        "string": "閲覧のみ"
     },
-    "pro_cart.breadcrumbs.choose_plan": {
-        "string": "Choose plan"
+    "team_view.team_members_table.filters.permissions.no_team_permissions": {
+        "string": "チーム権限なし"
     },
-    "pro_cart.breadcrumbs.create_team": {
-        "string": "Create team"
+    "team_view.team_members_table.filters.permissions.owner": {
+        "string": "オーナー"
     },
-    "pro_cart.breadcrumbs.add_team_members": {
-        "string": "Add team members"
+    "team_view.team_members_table.member_filter_empty_reset_link": {
+        "string": "フィルターをリセット"
     },
-    "pro_cart.breadcrumbs.adjust_editors.seat_rename": {
-        "string": "Adjust seats"
+    "team_view.team_members_table.member_filter_empty_state": {
+        "string": " 表示するメンバーがいません。{reset_link}"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "sites.breakpoint_bar.main": {
-        "string": "Main"
+    "activity_log.repo.merged_branch_name": {
+        "string": "合并了分支{name}"
     },
-    "spell_check.spell_check_disabled": {
-        "string": "Spell check disabled"
+    "activity_log.repo.merged_branch_name_into_file_name": {
+        "string": "将分支{name}合并到{fileName}"
     },
-    "spell_check.spell_check_enabled": {
-        "string": "Spell check enabled"
+    "activity_log.repo.unarchived_branch_name": {
+        "string": "取消存档分支{name}"
     },
-    "unsaved_changes.prompt.changes_may_not_be_saved": {
-        "string": "Changes you made may not be saved."
+    "activity_log.repo.unarchived_branch_name_from_file": {
+        "string": "取消存档分支{name}从文件{fileName}"
     },
-    "variables.token_name_invalid_chars": {
-        "string": "Dev name can only include letters, numbers, and the following symbols: _ $ -"
+    "activity_log.repo.updated_branch_name": {
+        "string": "更新了分支{name}"
     },
-    "variables.variable_limit_in_collection_reached": {
-        "string": "Collections can't have more than {variableLimit} variables"
+    "activity_log.repo.updated_branch_name_from_file_name": {
+        "string": "更新了分支{name}从文件{fileName}"
     },
-    "variables.variable_name_duplicate_name": {
-        "string": "Variable names must be unique within a collection"
+    "activity_log.resource.file": {
+        "string": "文件"
     },
-    "variables.variable_name_invalid_chars": {
-        "string": "Variable name cannot include the following symbols: '{ }' . $"
+    "activity_log.resource.project": {
+        "string": "项目"
     },
-    "variables.variables_detached": {
-        "string": "Detached {numDetached} consumptions. {numRemaining} deleted variable consumptions remain."
+    "activity_log.table.activity_log.table.csv_requested_success": {
+        "string": "CSV生成中。这可能需要几分钟，准备就绪时会发送邮件通知。"
     },
-    "visual_bell.add_file_failure_mobile_plural": {
-        "string": "{failedFileCount} files could not be added"
+    "activity_log.table.all": {
+        "string": "所有"
     },
-    "visual_bell.add_file_failure_mobile_singular": {
-        "string": "{failedFileCount} file could not be added"
+    "activity_log.table.clear": {
+        "string": "清除"
     },
-    "visual_bell.all_objects_unlocked": {
-        "string": "All objects unlocked"
+    "activity_log.table.csv_requested_error": {
+        "string": "发生错误"
     },
-    "visual_bell.alu_hints_off": {
-        "string": "ALU hints off"
+    "activity_log.table.date": {
+        "string": "日期"
     },
-    "visual_bell.alu_hints_on": {
-        "string": "ALU hints on"
+    "activity_log.table.event": {
+        "string": "事件"
     },
-    "visual_bell.alu_visual_indicators_off": {
-        "string": "ALU visual indicators off"
+    "activity_log.table.event_selected": {
+        "string": "事件:{event}"
     },
-    "visual_bell.alu_visual_indicators_on": {
-        "string": "ALU visual indicators on"
+    "activity_log.table.events_all": {
+        "string": "事件:所有"
     },
-    "visual_bell.an_invalid_image_or_thumbnail_was_removed": {
-        "string": "An invalid image or thumbnail was removed"
+    "activity_log.table.get_csv": {
+        "string": "获取CSV"
     },
-    "visual_bell.an_invalid_video_was_removed": {
-        "string": "An invalid video was removed"
+    "activity_log.table.ip_address": {
+        "string": "IP地址"
     },
-    "visual_bell.annotations_hidden": {
-        "string": "Annotations hidden"
+    "activity_log.table.load_more": {
+        "string": "加载更多"
     },
-    "visual_bell.annotations_visible": {
-        "string": "Annotations visible"
+    "activity_log.table.member_email_addresses": {
+        "string": "成员邮箱地址"
     },
-    "visual_bell.auto_fill_full_width_children_off": {
-        "string": "Auto-fill full-width children off"
+    "activity_log.table.no_results_were_found": {
+        "string": "未找到结果。"
     },
-    "visual_bell.auto_fill_full_width_children_on": {
-        "string": "Auto-fill full-width children on"
+    "activity_log.table.preparing_request_for_csv": {
+        "string": "正在准备CSV请求"
     },
-    "visual_bell.auto_layout_added": {
-        "string": "Auto layout added"
+    "activity_log.table.product": {
+        "string": "产品"
     },
-    "visual_bell.auto_layout_added_partial": {
-        "string": "Could not add auto layout to all selected objects"
+    "activity_log.table.team": {
+        "string": "团队"
     },
-    "visual_bell.can_t_paste_between_fig_jam_and_editor_files": {
-        "string": "Can't paste between FigJam and Editor files"
+    "activity_log.table.team_member": {
+        "string": "团队成员"
     },
-    "visual_bell.can_t_paste_flapps_into_design_files": {
-        "string": "Can't paste Figma Slides widgets into Figma"
+    "activity_log.table.team_selected": {
+        "string": "团队:{team}"
     },
-    "visual_bell.can_t_paste_flapps_into_figjam_files": {
-        "string": "Can't paste Figma Slides widgets into FigJam"
+    "activity_log.table.teams_all": {
+        "string": "团队:所有"
     },
-    "visual_bell.can_t_paste_ss_from_fig_jam_to_design_files": {
-        "string": "Can't paste {typeName} from FigJam to Design files"
+    "activity_log.teams.added_team_to_workspace": {
+        "string": "将团队{teamName}添加到工作区{newWorkspaceName}"
     },
-    "visual_bell.can_t_paste_this_data_between_different_file_versions_please_refresh_file_and_retry": {
-        "string": "Can't paste this data between different file versions. Please refresh file and retry"
+    "activity_log.teams.added_team_to_workspace_and_removed_from_old_workspace": {
+        "string": "将团队{teamName}从工作区{oldWorkspaceName}移到工作区{newWorkspaceName}"
     },
-    "visual_bell.cannot_create_symbol_from_non_matching_selection": {
-        "string": "Could not create component and instances from non-matching selection"
+    "activity_log.teams.added_user_email_to_the_resource": {
+        "string": "将{userEmail}作为{level}添加到{resourceName} {resourceType}"
     },
-    "visual_bell.cant_export_empty_or_hidden_layers_to_pdf": {
-        "string": "Can't export empty or hidden layers to PDF"
+    "activity_log.teams.approver_name_approved_the_transfer_of_team_name_team": {
+        "string": "{approverName}批准了将团队{teamName}移到组织"
     },
-    "visual_bell.comments_hidden": {
-        "string": "Comments hidden"
+    "activity_log.teams.changed_team_creation_controls_to_admins_only": {
+        "string": "将团队创建控制更改为仅管理员"
     },
-    "visual_bell.comments_visible": {
-        "string": "Comments visible"
+    "activity_log.teams.changed_team_creation_controls_to_anyone": {
+        "string": "将团队创建控制更改为任何人"
     },
-    "visual_bell.component_prop_refs_have_been_pruned": {
-        "string": "Component prop refs have been pruned"
+    "activity_log.teams.changed_the__team_from_old_access": {
+        "string": "将团队从{oldAccess}更改为{newAccess}"
     },
-    "visual_bell.component_props_have_been_regenerated": {
-        "string": "Component props have been regenerated"
+    "activity_log.teams.changed_user_email": {
+        "string": "将{userEmail}的权限从{oldPermission}更改为{newPermission}在{resourceName} {resourceType}"
     },
-    "visual_bell.component_props_in_selection_have_been_cleared": {
-        "string": "Component props in selection have been cleared"
+    "activity_log.teams.created_the_team_name_team_with": {
+        "string": "创建了团队{teamName}并赋予{orgAccess}访问权限"
     },
-    "visual_bell.components_are_either_private_or_already_published": {
-        "string": "Components are either private or already published"
+    "activity_log.teams.deleted_the_team_name_team": {
+        "string": "删除了团队{teamName}"
     },
-    "visual_bell.components_can_t_contain_instances_of_themselves": {
-        "string": "Components can't contain instances of themselves"
+    "activity_log.teams.exported_the_members_list_to_csv": {
+        "string": "将成员列表导出为CSV"
     },
-    "visual_bell.converting_to_stickies": {
-        "string": "Converting to stickies…"
+    "activity_log.teams.exported_the_org_team_list_to_csv": {
+        "string": "将组织团队列表导出为CSV"
     },
-    "visual_bell.copied_as_png": {
-        "string": "Copied as PNG"
+    "activity_log.teams.exported_the_team_name_team_out": {
+        "string": "将团队{teamName}导出到组织外部"
     },
-    "visual_bell.copied_as_svg": {
-        "string": "Copied as SVG"
+    "activity_log.teams.exported_the_workspace_team_list_to_csv": {
+        "string": "将工作区{workspaceName}的团队列表导出为CSV"
     },
-    "visual_bell.copied_color_to_clipboard": {
-        "string": "Copied color to clipboard"
+    "activity_log.teams.imported_the_team_name_team_int": {
+        "string": "将团队{teamName}导入组织"
     },
-    "visual_bell.copy_as_file_type_failed_try_again": {
-        "string": "Copy as {fileType} failed | Try again"
+    "activity_log.teams.joined_the_resource_name_resource": {
+        "string": "加入了{resourceName} {resourceType}"
     },
-    "visual_bell.copy_as_png.retry": {
-        "string": "Retry"
+    "activity_log.teams.left_the_resource_name_resource": {
+        "string": "退出了{resourceName} {resourceType}"
     },
-    "visual_bell.copy_as_png_failed": {
-        "string": "Failed to copy as PNG"
+    "activity_log.teams.org_name_wants_to_transfer_team_name": {
+        "string": "{orgName}希望将团队{teamName}转移到组织"
     },
-    "visual_bell.copy_exclude_vote_stamp_from_selection": {
-        "string": "Didn’t copy votes"
+    "activity_log.teams.removed_team_from_workspace": {
+        "string": "从工作区{oldWorkspaceName}删除了团队{teamName}"
     },
-    "visual_bell.copy_failed": {
-        "string": "Copy failed. Your selection might be too large for the clipboard."
+    "activity_log.teams.removed_user_email_from_org_draft": {
+        "string": "从组织草稿中删除了{userEmail}"
     },
-    "visual_bell.copy_failed_only_vote_stamps": {
-        "string": "Can’t copy votes"
+    "activity_log.teams.removed_user_email_from_the_resource": {
+        "string": "将{userEmail}从{resourceName} {resourceType}中删除"
     },
-    "visual_bell.copy_mobile": {
-        "string": "Copied to clipboard"
+    "activity_log.teams.renamed_the_old_name_team": {
+        "string": "将团队{oldName}重命名为{teamName}"
     },
-    "visual_bell.cut_mobile": {
-        "string": "Cut to clipboard"
+    "activity_log.teams.requested_to_transfer_the_team": {
+        "string": "请求将团队{teamName}转移到{destinationOrg}"
     }
 }

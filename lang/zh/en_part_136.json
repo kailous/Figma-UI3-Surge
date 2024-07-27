@@ -1,152 +1,152 @@
 {
-    "search.search_filter.non_org_teams": {
-        "string": "External teams"
+    "auth.error.figma_does_not_support_names_more_than_70_characters": {
+        "string": "Figma不支持超过70个字符的名字。"
     },
-    "rcs.search_workspace_onboarding_modal.title": {
-        "string": "Filter results by workspace"
+    "auth.error.figma_does_not_support_that_color_profile_preference": {
+        "string": "Figma不支持该颜色配置文件偏好设置。"
     },
-    "rcs.search_workspace_onboarding_modal.text": {
-        "string": "Get more refined search results for teams, projects, and files when you filter by workspace."
+    "auth.error.figma_does_not_support_that_keyboard_preference": {
+        "string": "Figma不支持该键盘偏好设置。"
     },
-    "search.facets.workspaces": {
-        "string": "Workspaces"
+    "auth.error.figma_does_not_support_that_language": {
+        "string": "Figma不支持该语言。"
     },
-    "fullscreen.view_mode.show_as_grid": {
-        "string": "Show as grid"
+    "auth.error.img_url_and_img_url_500_500_must_be_passed_together": {
+        "string": "img_url和img_url_500_500必须一起传递"
     },
-    "fullscreen.view_mode.show_as_list": {
-        "string": "Show as list"
+    "auth.error.incorrect-email-password": {
+        "string": "邮箱和密码组合不正确。"
     },
-    "auth.team_join_link.error_on_redeem": {
-        "string": "An error occurred while redeeming the invite link"
+    "auth.error.incorrect_password": {
+        "string": "输入的密码不正确。"
     },
-    "auth.two-factor.sms-hint": {
-        "string": "SMS sent to number ending in {phoneNumber}"
+    "auth.error.invalid-password-reset-link": {
+        "string": "该密码重置链接无效。"
     },
-    "auth.input-validation.no-email": {
-        "string": "Please provide your email."
+    "auth.error.invalid_auth_method": {
+        "string": "无效的认证方法: {METHOD}"
     },
-    "auth.input-validation.invalid-email": {
-        "string": "Hmm, that email address doesn't look right."
+    "auth.error.invalid_email": {
+        "string": "无效的邮箱地址。"
     },
-    "auth.input-validation.no-password": {
-        "string": "Please provide your password."
+    "auth.error.invalid_image_url": {
+        "string": "无效的图片URL"
     },
-    "auth.input-validation.long-password": {
-        "string": "OK, that password is hilariously long!"
+    "auth.error.invalid_session_try_again": {
+        "string": "会话无效或已过期，请重试。"
     },
-    "auth.input-validation.short-password": {
-        "string": "Please set a password longer than seven characters."
+    "auth.error.invalid_token_type": {
+        "string": "无效的token类型"
     },
-    "auth.input-validation.email-is-password": {
-        "string": "Your email cannot be the same as your password."
+    "auth.error.invite_invalid_or_claimed": {
+        "string": "抱歉，该邀请无效或已被使用。"
     },
-    "auth.input-validation.name-is-password": {
-        "string": "Your name cannot be the same as your password."
+    "auth.error.ip-account-restriction": {
+        "string": "此网络不允许{orgName}以外的账户登录。"
     },
-    "auth.two-factor.code-hint-confirmation": {
-        "string": "Code was sent to number ending in {phoneNumber}"
+    "auth.error.ip-allowlist-restriction": {
+        "string": "此账户只能通过公司网络登录。请重新连接公司网络或使用其他账户登录。"
     },
-    "auth.add-another-account-with-link": {
-        "string": "If you don't see the account you want to use, you can {addAnotherLink}."
+    "auth.error.join_links_disabled_for_team": {
+        "string": "{TEAM_NAME}的加入链接目前已禁用"
     },
-    "auth.add-another-no-punctuation": {
-        "string": "add another one"
+    "auth.error.key_data_required": {
+        "string": "需要键和数据"
     },
-    "user_onboarding_signals.answer.educator": {
-        "string": "Educator"
+    "auth.error.login_google_sso_required": {
+        "string": "该组织要求使用Google登录。"
     },
-    "user_onboarding_signals.answer.student": {
-        "string": "Student"
+    "auth.error.max_sessions_exceeded": {
+        "string": "已超过登录会话的最大数量。"
     },
-    "new_user_experience.user_onboarding_signals.answer.student_or_educator": {
-        "string": "Student or educator"
+    "auth.error.need_verified_password_token": {
+        "string": "需要输入验证过的密码token。"
     },
-    "auth.extra-info.what-kind-of-work": {
-        "string": "What kind of work do you do?"
+    "auth.error.no-password-sso": {
+        "string": "该账户由组织管理，没有密码。"
     },
-    "auth.extra-info.what-kind-of-work-required": {
-        "string": "What kind of work do you do? (required)"
+    "auth.error.no_verified_email": {
+        "string": "用户没有验证过的邮箱地址。"
     },
-    "checkout.dev_mode_included_text_formatted.dev_mode": {
-        "string": "Dev Mode"
+    "auth.error.non_hd_for_sso_only_org": {
+        "string": "无法使用Google登录。请尝试使用您的邮箱地址和密码登录，或联系Figma支持。"
     },
-    "checkout.dev_mode_included_text_formatted.included": {
-        "string": "included"
+    "auth.error.not-configured-for-saml-sso": {
+        "string": "账户未配置为使用SAML SSO。请使用Google或密码登录。"
     },
-    "collaboration.branching.side_by_side": {
-        "string": "Side by side"
+    "auth.error.not-logged-in": {
+        "string": "未登录。"
     },
-    "collaboration.branching.overlay": {
-        "string": "Overlay"
+    "auth.error.only_view_links_enabled_for_team": {
+        "string": "{TEAM_NAME}仅启用了查看级别的链接"
     },
-    "collaboration.branching.overlay_hide_after_image": {
-        "string": "Hide after-image"
+    "auth.error.org_require_google_sso": {
+        "string": "该账户由组织管理。请使用Google登录。"
     },
-    "collaboration.branching.overlay_show_after_image": {
-        "string": "Show after-image"
+    "auth.error.password-too-long": {
+        "string": "该密码太长了！"
     },
-    "design_systems.instance_swap_picker.no_results": {
-        "string": "No results for ''{query}''"
+    "auth.error.password-too-short": {
+        "string": "密码长度至少为8个字符。"
     },
-    "general.root_error_boundary_title_figjam": {
-        "string": "FigJam ran into a problem"
+    "auth.error.password-too-weak": {
+        "string": "请选择更强的密码。"
     },
-    "general.time.just_now_past": {
-        "string": "just now"
+    "auth.error.password_not_set": {
+        "string": "未设置密码。请点击“重置密码”设置密码。"
     },
-    "modal.are_you_sure": {
-        "string": "Are you sure?"
+    "auth.error.password_token_invalid": {
+        "string": "无法验证密码确认token，或token不存在"
     },
-    "community.change_profile_handle_modal.profile_handle_requirements": {
-        "string": "Up to 15 characters (letters, numbers, or _)"
+    "auth.error.please_set_shorter_password": {
+        "string": "请设置更短的密码。"
     },
-    "community.change_profile_handle_modal.review_our_community_guidelines_link": {
-        "string": "Review our Community guidelines"
+    "auth.error.provide-email": {
+        "string": "请输入邮箱地址。"
     },
-    "community.change_profile_handle_modal.profile_handle_is_available": {
-        "string": "''{profileHandle}'' is available!"
+    "auth.error.provide-password": {
+        "string": "请输入密码。"
     },
-    "community.change_profile_handle_modal.profile_handle_taken": {
-        "string": "''{profileHandle}'' is taken. Please choose another."
+    "auth.error.require-phone-number": {
+        "string": "用户未设置电话号码"
     },
-    "tile.offline_file_tile.offline_created_file": {
-        "string": "Offline created file"
+    "auth.error.require-two-factor": {
+        "string": "账户未启用两因素认证"
     },
-    "general.an_error_occurred_while_performing_that_action": {
-        "string": "An error occurred while performing that action."
+    "auth.error.require-validation": {
+        "string": "无法验证请求。"
     },
-    "viewer.menu_bar.open_in_figma_slides": {
-        "string": "Open in Figma Slides"
+    "auth.error.require_google_sso": {
+        "string": "请使用Google登录，或点击“重置密码”重置密码。"
     },
-    "slides.templates.modal.theme_picker.body": {
-        "string": "To ensure your template is simple to use, please select one theme to keep."
+    "auth.error.saml_authentication_failed": {
+        "string": "IdP未允许用户登录Figma。"
     },
-    "slides.templates.modal.theme_picker.header": {
-        "string": "Let’s keep your template to a single style"
+    "auth.error.saml_config_error_contact_admin": {
+        "string": "由于配置错误，无法登录Figma。请联系组织管理员。错误: {ERROR}"
     },
-    "slides.templates.modal.theme_picker.choose_theme_button": {
-        "string": "Select"
+    "auth.error.saml_configuration_error": {
+        "string": "由于配置错误，无法登录Figma。"
     },
-    "slides.templates.publish_actions.toast.update_success": {
-        "string": "Template updates published"
+    "auth.error.saml_email_address_not_in_domain_with_emails": {
+        "string": "您的SAML SSO账户邮箱地址未与以下任一域名匹配{EMAILS}: {DOMAINS}"
     },
-    "slides.templates.publish_actions.toast.publish_success": {
-        "string": "Template published"
+    "auth.error.saml_entity_id_does_not_match": {
+        "string": "实体ID不匹配。错误: {ERROR}"
     },
-    "slides.templates.publish_actions.toast.publish_error": {
-        "string": "Failed to publish template"
+    "auth.error.saml_invalid_code": {
+        "string": "无效代码"
     },
-    "slides.templates.publish_actions.unpublishing": {
-        "string": "Unpublishing template"
+    "auth.error.saml_invalid_name_id": {
+        "string": "IdP提供的NameID必须为urn:oasis:names:tc:SAML:1.1:nameid-format:emailAddress格式"
     },
-    "slides.templates.publish_actions.publishing": {
-        "string": "Publishing template"
+    "auth.error.saml_invalid_signature": {
+        "string": "Figma设置的证书与IdP的签名证书不匹配。"
     },
-    "slides.templates.publish_actions.toast.offline_error": {
-        "string": "Can’t publish or update templates while offline"
+    "auth.error.session_expired_or_invalid": {
+        "string": "会话已过期或无效"
     },
-    "slides.templates.publish_actions.toast.no_items_error": {
-        "string": "Can’t publish empty template. Add at least one slide."
+    "auth.error.set-password": {
+        "string": "请设置密码。"
     }
 }

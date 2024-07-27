@@ -1,152 +1,152 @@
 {
-    "slides.properties_panel.text_styles": {
-        "string": "Text styles"
+    "org_admin_onboarding.request_dashboard.tooltip.manage_upgrades_title": {
+        "string": "管理升级请求"
     },
-    "slides.properties_panel.text_style.empty_styles": {
-        "string": "Click + to add a style to your deck, like {title} or {body}."
+    "org_admin_onboarding.request_dashboard.tooltip.see_all_org_requests_description": {
+        "string": "您还可以查看并管理来自整个{orgName}的所有请求。"
     },
-    "slides.properties_panel.text_style.title_style": {
-        "string": "Title"
+    "org_admin_onboarding.request_dashboard.tooltip.see_all_org_requests_title": {
+        "string": "查看所有组织请求"
     },
-    "slides.properties_panel.text_style.body_style": {
-        "string": "Body"
+    "org_admin_onboarding.tooltip.create_first_billing_group.description": {
+        "string": "根据预算来组织成员和访客，请转到此标签以创建您的第一个账单组。"
     },
-    "slides.properties_panel.text_style.custom": {
-        "string": "Custom"
+    "org_admin_onboarding.tooltip.create_first_billing_group.title": {
+        "string": "开始创建账单组"
     },
-    "slides.properties_panel.text_style.create_new_style": {
-        "string": "Create new style"
+    "org_admin_onboarding.tooltip.create_first_workspace.description": {
+        "string": "准备好在工作区中组织团队和项目时，请转到此标签开始。"
     },
-    "proto.prototype_panel.content_needs_to_be_bigger_than_the_frame_tooltip": {
-        "string": "For scrolling to work on this frame, the content needs to be bigger than the frame."
+    "org_admin_onboarding.tooltip.create_first_workspace.title": {
+        "string": "创建第一个工作区"
     },
-    "fullscreen.properties_panel.stack_panel.remove_baseline_align": {
-        "string": "Remove baseline alignment"
+    "org_admin_onboarding.tooltip.workspace_add_teams.description": {
+        "string": "查看尚未分配到任何工作区的团队，并在需要时将其移到您的工作区。"
     },
-    "fullscreen.properties_panel.stack_panel.align_top": {
-        "string": "Align top"
+    "org_admin_onboarding.tooltip.workspace_add_teams.title": {
+        "string": "将团队添加到此工作区"
     },
-    "fullscreen.properties_panel.stack_panel.align_center": {
-        "string": "Align center"
+    "abandoned_drafts_table.created_at": {
+        "string": "创建于"
     },
-    "fullscreen.properties_panel.stack_panel.align_bottom": {
-        "string": "Align bottom"
+    "abandoned_drafts_table.file_count": {
+        "string": "{numFiles, plural, other {{numFiles}个文件}}"
     },
-    "fullscreen.properties_panel.stack_panel.align_auto_top_gap": {
-        "string": "Gap set to auto · Align top"
+    "abandoned_drafts_table.file_name": {
+        "string": "名称"
     },
-    "fullscreen.properties_panel.stack_panel.align_auto_center_gap": {
-        "string": "Gap set to auto · Align center"
+    "abandoned_drafts_table.files": {
+        "string": "文件"
     },
-    "fullscreen.properties_panel.stack_panel.align_auto_bottom_gap": {
-        "string": "Gap set to auto · Align bottom"
+    "abandoned_drafts_table.folder_name": {
+        "string": "名称"
     },
-    "fullscreen.properties_panel.stack_panel.align_left": {
-        "string": "Align left"
+    "abandoned_drafts_table.modified_at": {
+        "string": "最后修改于"
     },
-    "fullscreen.properties_panel.stack_panel.align_right": {
-        "string": "Align right"
+    "abandoned_drafts_table.no_drafts": {
+        "string": "没有要显示的草稿。"
     },
-    "fullscreen.properties_panel.stack_panel.align_auto_left_gap": {
-        "string": "Gap set to auto · Align left"
+    "abandoned_drafts_table.removed_at": {
+        "string": "已删除"
     },
-    "fullscreen.properties_panel.stack_panel.align_auto_right_gap": {
-        "string": "Gap set to auto · Align right"
+    "abandoned_drafts_table.search.placeholder": {
+        "string": "搜索草稿..."
     },
-    "fullscreen.properties_panel.stack_panel.align_baseline": {
-        "string": "Align baseline"
+    "add_unassigned_members_modal.add_members_button": {
+        "string": "添加成员"
     },
-    "fullscreen.properties_panel.stack_panel.align_left_baseline": {
-        "string": "Align left baseline"
+    "add_unassigned_members_modal.add_members_tab": {
+        "string": "添加成员"
     },
-    "fullscreen.properties_panel.stack_panel.align_center_baseline": {
-        "string": "Align center baseline"
+    "add_unassigned_members_modal.all_users_have_been_assigned_billing_groups": {
+        "string": "{orgName}的所有用户都已分配到账单组"
     },
-    "fullscreen.properties_panel.stack_panel.align_right_baseline": {
-        "string": "Align right baseline"
+    "add_unassigned_members_modal.all_users_have_been_assigned_workspaces": {
+        "string": "{orgName}的所有用户都已分配到工作区"
     },
-    "fullscreen.properties_panel.stack_panel.align_top_left": {
-        "string": "Align top left"
+    "add_unassigned_members_modal.billing_group_description": {
+        "string": "选择未分配的用户并将其添加到{licenseGroupName}账单组。"
     },
-    "fullscreen.properties_panel.stack_panel.align_top_center": {
-        "string": "Align top center"
+    "add_unassigned_members_modal.billing_groups_success_message": {
+        "string": "正在更新{numUsers, plural, other {{numUsers}个用户的账单组。这可能需要一些时间。}}"
     },
-    "fullscreen.properties_panel.stack_panel.align_top_right": {
-        "string": "Align top right"
+    "add_unassigned_members_modal.billing_groups_success_message.instant": {
+        "string": "{numUsers, plural, other {{numUsers}个用户的账单组已更新}}"
     },
-    "fullscreen.properties_panel.stack_panel.align_bottom_left": {
-        "string": "Align bottom left"
+    "add_unassigned_members_modal.design_file_icon.tooltip.seat_rename": {
+        "string": "Figma设计席位"
     },
-    "fullscreen.properties_panel.stack_panel.align_bottom_center": {
-        "string": "Align bottom center"
+    "add_unassigned_members_modal.dev_mode_file_icon.tooltip": {
+        "string": "开发模式席位"
     },
-    "fullscreen.properties_panel.stack_panel.align_bottom_right": {
-        "string": "Align bottom right"
+    "add_unassigned_members_modal.invite_users_tab": {
+        "string": "邀请用户"
     },
-    "fullscreen.properties_panel.stack_panel.preview": {
-        "string": "Preview"
+    "add_unassigned_members_modal.no_unassigned_users": {
+        "string": "没有未分配的用户"
     },
-    "design_systems.template_panel.template_placeholder": {
-        "string": "How to use this template"
+    "add_unassigned_members_modal.no_unassigned_users_found": {
+        "string": "未找到未分配的用户"
     },
-    "slides.properties_panel.library_text_styles": {
-        "string": "Library text styles"
+    "add_unassigned_members_modal.role_column.seat_rename": {
+        "string": "席位类型"
     },
-    "rcs.product_and_template_picker.what_would_you_like_to_do_first": {
-        "string": "What would you like to do first?"
+    "add_unassigned_members_modal.search_bar.placeholder": {
+        "string": "名称或电子邮件地址"
     },
-    "rcs.product_and_template_picker.we_can_help_you_get_started_faster": {
-        "string": "We can help you get started faster"
+    "add_unassigned_members_modal.user_a_and_user_b_and_n_others_selected": {
+        "string": "{remainingCount, plural, other {{userName1}、{userName2}及其他{remainingCount}人}}"
     },
-    "rcs.product_and_template_picker.start_from_presets_and_templates": {
-        "string": "Start from presets and templates"
+    "add_unassigned_members_modal.user_a_and_user_b_selected": {
+        "string": "{userName1}和{userName2}"
     },
-    "rcs.product_and_template_picker.start_from_presets_or_templates_from_our_community": {
-        "string": "Start from presets or templates from our community"
+    "add_unassigned_members_modal.user_selected": {
+        "string": "{userName}"
     },
-    "rcs.product_and_template_picker.save_time_with_ready_made_templates": {
-        "string": "Save time with ready-made templates"
+    "add_unassigned_members_modal.whiteboard_file_icon.tooltip.seat_rename": {
+        "string": "FigJam席位"
     },
-    "rcs.product_and_template_picker.start_from_templates_made_by_figma_and_our_community": {
-        "string": "Start from templates made by Figma and our community"
+    "add_unassigned_members_modal.workspace_description": {
+        "string": "选择未分配的用户并将其添加到{workspaceName}工作区。"
     },
-    "whiteboard.ai_modal.beta_badge": {
-        "string": "AI beta"
+    "add_unassigned_members_modal.workspaces_success_message": {
+        "string": "正在更新{numUsers, plural, other {{numUsers}个用户的工作区。这可能需要一些时间。}}"
     },
-    "whiteboard.color_palettes.modal.name": {
-        "string": "Name"
+    "add_unassigned_members_modal.workspaces_success_message.instant": {
+        "string": "{numUsers, plural, other {{numUsers}个用户的工作区已更新}}"
     },
-    "whiteboard.color_palettes.modal.colors": {
-        "string": "Colors"
+    "admin_settings_selector.dropdown_title.billing_groups": {
+        "string": "账单组"
     },
-    "whiteboard.color_palettes.modal.choose_up_to_9_colors": {
-        "string": "Choose as many as 9."
+    "admin_settings_selector.dropdown_title.dashboard": {
+        "string": "仪表板"
     },
-    "whiteboard.color_palettes.modal.duplicate_colors": {
-        "string": "Your palette has duplicate colors. Please make sure all colors are unique."
+    "admin_settings_selector.dropdown_title.organization": {
+        "string": "组织"
     },
-    "whiteboard.color_palettes.modal.palettes_visible_to_everyone": {
-        "string": "Palettes are visible to everyone in your team."
+    "admin_settings_selector.dropdown_title.workspaces": {
+        "string": "工作区"
     },
-    "whiteboard.color_palettes.modal.cancel": {
-        "string": "Cancel"
+    "admin_settings_selector.name.billing_group_fallback": {
+        "string": "账单组"
     },
-    "whiteboard.color_palettes.modal.save_palette": {
-        "string": "Save"
+    "admin_settings_selector.name.dashboard": {
+        "string": "仪表板"
     },
-    "whiteboard.color_palettes.modal.palette_name": {
-        "string": "Ex. My fave shades"
+    "admin_settings_selector.name.organization_fallback": {
+        "string": "组织"
     },
-    "whiteboard.color_palettes.modal.add_color": {
-        "string": "Add color"
+    "admin_settings_selector.name.workspace_fallback": {
+        "string": "工作区"
     },
-    "whiteboard.color_palettes.modal.edit_palette": {
-        "string": "Edit palette"
+    "allowlist_plugins_modals.add_plugin.add_button": {
+        "string": "添加"
     },
-    "whiteboard.color_palettes.modal.create_palette": {
-        "string": "Create palette"
+    "allowlist_plugins_modals.add_plugin.details": {
+        "string": "要批准插件，请粘贴该插件的Figma社区页面链接。"
     },
-    "whiteboard.color_palettes.manage_modal.manage_your_teams_color_palettes": {
-        "string": "Manage your team’s color palettes."
+    "allowlist_plugins_modals.add_plugin.invalid_url_notification": {
+        "string": "无效的插件URL"
     }
 }

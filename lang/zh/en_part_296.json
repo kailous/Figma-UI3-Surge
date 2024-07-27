@@ -1,152 +1,152 @@
 {
-    "org_settings.team_creation.admin_only.description.no_workspaces": {
-        "string": "Only organization admins can create teams"
+    "slides.properties_panel.rewrite_text.error.openai_down": {
+        "string": "AI機能は利用できません"
     },
-    "org_admin_onboarding.tooltip.workspace_add_teams.title": {
-        "string": "Add some teams to this workspace"
+    "slides.properties_panel.rewrite_text.error.opt_out": {
+        "string": "AI機能は組織でオフになっています"
     },
-    "org_admin_onboarding.tooltip.workspace_add_teams.description": {
-        "string": "Check out teams that are still unassigned and move them over if they belong in your workspace."
+    "slides.properties_panel.rewrite_text.error.page_not_updated": {
+        "string": "再読み込みが必要です"
     },
-    "workspace_table.n_teams": {
-        "string": "{count, plural, one {1 team} other {{count} teams}}"
+    "slides.properties_panel.rewrite_text.error.rate_limit": {
+        "string": "少ししてから、もう一度お試しください"
     },
-    "workspace_table.n_members": {
-        "string": "{count, plural, one {1 member} other {{count} members}}"
+    "slides.properties_panel.rewrite_text.error.token_limit": {
+        "string": "選択範囲を小さくしてお試しください"
     },
-    "workspace_table.workspace": {
-        "string": "Workspace"
+    "slides.properties_panel.rewrite_text.or_pick_a_preset": {
+        "string": "またはプリセットを選択"
     },
-    "workspace_table.search.no_results": {
-        "string": "No workspaces match your search query. Try your search again."
+    "slides.properties_panel.rewrite_text.or_pick_a_preset_or_rewrite": {
+        "string": "プリセットを選択、またはリライト"
     },
-    "workspace_table.search.placeholder": {
-        "string": "Search workspaces…"
+    "slides.properties_panel.rewrite_text.reset": {
+        "string": "リセット"
     },
-    "workspace_table.name": {
-        "string": "Name"
+    "slides.properties_panel.rewrite_text.rewrite_redirect": {
+        "string": "この...をリライト"
     },
-    "workspace_table.secret_workspace_lock_tooltip": {
-        "string": "This workspace is hidden"
+    "slides.properties_panel.rewrite_text.tone_basic": {
+        "string": "基本"
     },
-    "workspace_table.secret_workspace_lock_tooltip_subtext": {
-        "string": "Only its members and admins can find and access"
+    "slides.properties_panel.rewrite_text.tone_casual": {
+        "string": "カジュアル"
     },
-    "workspace_table.admins": {
-        "string": "Admins"
+    "slides.properties_panel.rewrite_text.tone_concise": {
+        "string": "シンプル"
     },
-    "workspace_table.teams": {
-        "string": "Teams"
+    "slides.properties_panel.rewrite_text.tone_educational": {
+        "string": "教育"
     },
-    "workspace_table.members": {
-        "string": "Members"
+    "slides.properties_panel.rewrite_text.tone_executive": {
+        "string": "エグゼクティブ"
     },
-    "multi_select_list.selected_count_workspace": {
-        "string": "{numSelected, plural, one {{numSelected} workspace selected:} other {{numSelected} workspaces selected:}}"
+    "slides.properties_panel.rewrite_text.tone_expanded": {
+        "string": "拡張"
     },
-    "org_admin_onboarding.billing_groups.tooltip.create.title": {
-        "string": "Create new billing groups"
+    "slides.properties_panel.rewrite_text.tone_professional": {
+        "string": "プロフェッショナル"
     },
-    "org_admin_onboarding.billing_groups.tooltip.create.description.seat_rename": {
-        "string": "Sort people into billing groups to quickly manage seats and track costs. Tip: Model billing groups after your company’s cost centers."
+    "slides.properties_panel.rewrite_text.tone_technical": {
+        "string": "テクニカル"
     },
-    "org_admin_onboarding.billing_groups.tooltip.add_admins.title": {
-        "string": "Get help managing your billing groups"
+    "slides.properties_panel.shadow": {
+        "string": "シャドウ"
     },
-    "org_admin_onboarding.billing_groups.tooltip.add_admins.description.seat_rename": {
-        "string": "Organization admins have access to all billing groups, and can add admins who’ll focus on tracking costs and managing seats for each group."
+    "slides.properties_panel.shadow_opacity": {
+        "string": "シャドウの強さ"
     },
-    "org_admin_onboarding.billing_groups.tooltip.edit.title": {
-        "string": "Make changes to your billing groups"
+    "slides.properties_panel.shadow_style": {
+        "string": "スタイル"
     },
-    "org_admin_onboarding.billing_groups.tooltip.edit.description": {
-        "string": "You can always rename, change members, or delete a billing group so you can track costs your way."
+    "slides.properties_panel.shadow_style_light": {
+        "string": "弱"
     },
-    "billing_groups_table.edit_details": {
-        "string": "Edit details"
+    "slides.properties_panel.shadow_style_medium": {
+        "string": "中"
     },
-    "billing_groups_table.edit_billing_group_modal.add_people_to_a_billing_group.seat_rename": {
-        "string": "Add people to a billing group so you can easily track and manage their seats."
+    "slides.properties_panel.shadow_style_none": {
+        "string": "シャドウなし"
     },
-    "billing_groups_table.name_input": {
-        "string": "Billing group name"
+    "slides.properties_panel.shadow_style_strong": {
+        "string": "強"
     },
-    "billing_groups_table.billing_group_name_unassigned_error": {
-        "string": "You cannot name your billing group \"Unassigned\"."
+    "slides.properties_panel.slide_transition": {
+        "string": "画面切り替え"
     },
-    "billing_groups_table.billing_group_name_already_exists_error": {
-        "string": "This billing group name already exists, please choose another name."
+    "slides.properties_panel.slide_transition.apply_to_all": {
+        "string": "すべてのスライドに適用"
     },
-    "billing_groups_table.admins_input": {
-        "string": "Admins"
+    "slides.properties_panel.slide_transition.delay": {
+        "string": "遅延"
     },
-    "billing_groups_table.admins_input_help_text": {
-        "string": "Choose members of your organization to actively manage this billing group."
+    "slides.properties_panel.slide_transition.direction": {
+        "string": "方向"
     },
-    "billing_groups_table.billing_group_edit_save_changes": {
-        "string": "Save changes"
+    "slides.properties_panel.slide_transition.duration": {
+        "string": "時間"
     },
-    "billing_groups_table.create_billing_group_button": {
-        "string": "Create billing group"
+    "slides.properties_panel.slide_transition.option.none": {
+        "string": "なし"
     },
-    "billing_groups_table.edit_billing_group_title": {
-        "string": "Edit billing group"
+    "slides.properties_panel.slide_transition.style": {
+        "string": "スタイル"
     },
-    "billing_groups_table.create_billing_group_title": {
-        "string": "Create a billing group"
+    "slides.properties_panel.slide_transition.timing": {
+        "string": "タイミング"
     },
-    "billing_groups_table.name_input_placeholder": {
-        "string": "Cost center, business unit, etc."
+    "slides.properties_panel.text.bold": {
+        "string": "太字"
     },
-    "billing_groups_table.admin_input_placeholder": {
-        "string": "Add a name or email"
+    "slides.properties_panel.text.font_size_label": {
+        "string": "サイズ"
     },
-    "billing_groups_table.billing_group_edited_toast": {
-        "string": "Updated ''{workspaceName}'' billing group"
+    "slides.properties_panel.text.italic": {
+        "string": "斜体"
     },
-    "billing_groups_table.billing_group_created_toast": {
-        "string": "New billing group ''{workspaceName}'' created"
+    "slides.properties_panel.text.show_details": {
+        "string": "詳細を表示"
     },
-    "org_admin_settings.billing_banner.details.upcoming_invoice": {
-        "string": "Your next invoice will be issued {date}"
+    "slides.properties_panel.text.style_description_font_size": {
+        "string": "· {fontSize}"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.button.billing_groups": {
-        "string": "Review and finalize invoice"
+    "slides.properties_panel.text.underline": {
+        "string": "下線"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.button.manage_seats": {
-        "string": "Manage seats"
+    "slides.properties_panel.text.unordered_list": {
+        "string": "箇条書き"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.button.review_and_finalize_invoice": {
-        "string": "Review and finalize invoice"
+    "slides.properties_panel.text.weight_label": {
+        "string": "太さ"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.title.renewal.due": {
-        "string": "Your organization is due for renewal on {date}."
+    "slides.properties_panel.text_style.add_new_style": {
+        "string": "新しいスタイルを追加"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.title.contact_account_manager": {
-        "string": "Please contact your account manager."
+    "slides.properties_panel.text_style.body_style": {
+        "string": "本文"
     },
-    "org_admin_settings.billing_banner.details.upcoming_invoice.not_actionable": {
-        "string": "Your next invoice will be issued for your {date} true-up period."
+    "slides.properties_panel.text_style.create_new_style": {
+        "string": "新しいスタイルを作成"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.title.renewal.actionable": {
-        "string": "Your annual renewal invoice is coming up on {date}."
+    "slides.properties_panel.text_style.custom": {
+        "string": "カスタム"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.title.true_up": {
-        "string": "You're in your {date} true-up period"
+    "slides.properties_panel.text_style.delete_style": {
+        "string": "スタイルを削除"
     },
-    "org_admin_details.billing_banner.upcoming_invoice.subtitle.true_up.billing_groups.seat_rename": {
-        "string": "Review and confirm seats in your billing groups, and then finalize your invoice."
+    "slides.properties_panel.text_style.edit_text_style": {
+        "string": "テキストスタイルを編集"
     },
-    "org_admin_details.billing_banner.details.upcoming_invoice.subtitle": {
-        "string": "Please go to the Members tab to review new paid seats"
+    "slides.properties_panel.text_style.edited": {
+        "string": "(編集済み)"
     },
-    "extension_decline_modal.decline_widget_request": {
-        "string": "Decline widget request"
+    "slides.properties_panel.text_style.empty_styles": {
+        "string": "+をクリックして、{title}や{body}のようなスタイルをデッキに追加します。"
     },
-    "extension_decline_modal.decline_plugin_request": {
-        "string": "Decline plugin request"
+    "slides.properties_panel.text_style.mixed": {
+        "string": "混合"
     },
-    "extension_decline_modal.leave_widget_note": {
-        "string": "Let members requesting this widget know why you're declining the widget request."
+    "slides.properties_panel.text_style.more_actions": {
+        "string": "その他のアクション"
     }
 }

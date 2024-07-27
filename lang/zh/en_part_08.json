@@ -1,152 +1,152 @@
 {
-    "fullscreen.canvas.auto_layout_fill": {
-        "string": "Fill"
+    "activity_log.filter.restored_a_team": {
+        "string": "恢复团队"
     },
-    "fullscreen.canvas.auto_layout_fill_with_value": {
-        "string": "Fill ({value})"
+    "activity_log.filter.saml_sso_auth": {
+        "string": "SAML SSO认证更改"
     },
-    "fullscreen.canvas.auto_layout_hug": {
-        "string": "Hug"
+    "activity_log.filter.saved_a_file": {
+        "string": "保存文件"
     },
-    "fullscreen.canvas.auto_layout_hug_with_value": {
-        "string": "Hug ({value})"
+    "activity_log.filter.scim_token_generated_revoked": {
+        "string": "生成/撤销SCIM令牌"
     },
-    "fullscreen.canvas.dimension_max_constrained": {
-        "string": "{value} (max)"
+    "activity_log.filter.slides_setting_change": {
+        "string": "Figma Slides启用/禁用"
     },
-    "fullscreen.canvas.dimension_min_constrained": {
-        "string": "{value} (min)"
+    "activity_log.filter.sso_auth": {
+        "string": "SSO认证"
     },
-    "fullscreen.canvas.max": {
-        "string": "(max)"
+    "activity_log.filter.team_membership_changed": {
+        "string": "团队成员变更"
     },
-    "fullscreen.canvas.min": {
-        "string": "(min)"
+    "activity_log.filter.teams": {
+        "string": "团队"
     },
-    "fullscreen.canvas.number_of_variants": {
-        "string": "{variants, plural, one {{variants} Variant} other {{variants} Variants}}"
+    "activity_log.filter.today": {
+        "string": "今天"
     },
-    "fullscreen.canvas.paint_label_GIF": {
-        "string": "GIF"
+    "activity_log.filter.trashed_a_file": {
+        "string": "移到垃圾桶的文件"
     },
-    "fullscreen.canvas.paint_label_Video": {
-        "string": "Video"
+    "activity_log.filter.unarchived_a_branch": {
+        "string": "解除分支存档"
     },
-    "fullscreen.canvas.paint_label_Video_and_GIF": {
-        "string": "Video & GIF"
+    "activity_log.filter.updated_a_branch": {
+        "string": "更新分支"
     },
-    "fullscreen.canvas.select_all_matching_layers": {
-        "string": "Select all matching layers"
+    "activity_log.filter.upgrade_requests_and_activity": {
+        "string": "升级请求和活动"
     },
-    "fullscreen.canvas.select_all_n_matching_layers": {
-        "string": "Select all {total_num_layers} matching layers"
+    "activity_log.filter.user_joined_audio_call": {
+        "string": "用户加入音频通话"
     },
-    "fullscreen.css_export.auto_layout": {
-        "string": "Auto layout"
+    "activity_log.filter.user_selected_their_own_workspace": {
+        "string": "用户选择自己的工作区"
     },
-    "fullscreen.css_export.identical_to_box_height": {
-        "string": "identical to box height"
+    "activity_log.filter.user_session_timed_out": {
+        "string": "空闲会话超时"
     },
-    "fullscreen.css_export.identical_to_box_height_with_alternate": {
-        "string": "identical to box height, or {alternateUnit}"
+    "activity_log.filter.user_signed_in_signed_out": {
+        "string": "用户登录/登出"
     },
-    "fullscreen.css_export.inside_auto_layout": {
-        "string": "Inside auto layout"
+    "activity_log.filter.users": {
+        "string": "用户"
     },
-    "fullscreen.css_export.line_height_alternate": {
-        "string": "or {alternateUnit}"
+    "activity_log.filter.viewed_a_file": {
+        "string": "查看文件"
     },
-    "fullscreen.css_export.note_backdrop_filter_has_minimal_browser_support": {
-        "string": "Note: backdrop-filter has minimal browser support"
+    "activity_log.filter.viewed_a_prototype": {
+        "string": "查看原型"
     },
-    "fullscreen.dropped_file.file_format_not_recognized_or_failed_to_convert": {
-        "string": "File format not recognized or failed to convert\n"
+    "activity_log.filter.viewed_external_file": {
+        "string": "查看外部文件"
     },
-    "fullscreen.dropped_file.files_failed_to_import": {
-        "string": "Files failed to import…"
+    "activity_log.filter.viewed_external_prototype": {
+        "string": "查看外部原型"
     },
-    "fullscreen.dropped_file.pdf_import_is_not_supported": {
-        "string": "PDF import is not supported\n"
+    "activity_log.filter.viewer_permissions_changed": {
+        "string": "查看者权限更改"
     },
-    "fullscreen.dropped_file.psd_import_is_not_supported": {
-        "string": "PSD import is not supported\n"
+    "activity_log.filter.webhook_group_header": {
+        "string": "Web钩子"
     },
-    "fullscreen.export_handler.dimensions_exceeded_and_origin_snapped": {
-        "string": "Dimensions exceeded maximum\nDimensions exceeded {maxDimension}.\nReduced to {reducedX}x{reducedY}px. \n\n Origin not aligned to pixels.\nOrigin snapped to ({snapX}, {snapY}).\nDimensions may expand by a pixel."
+    "activity_log.filter.webhooks_created": {
+        "string": "创建Web钩子"
     },
-    "fullscreen.export_handler.dimensions_exceeded_maximum": {
-        "string": "Dimensions exceeded maximum"
+    "activity_log.filter.webhooks_deleted": {
+        "string": "删除Web钩子"
     },
-    "fullscreen.export_handler.dimensions_exceeded_maximum_tooltip": {
-        "string": "Dimensions exceeded maximum\nDimensions exceeded {maxDimension}.\nReduced to {reducedX}x{reducedY}px."
+    "activity_log.filter.webhooks_updated": {
+        "string": "更新Web钩子"
     },
-    "fullscreen.export_handler.origin_not_aligned_to_pixels": {
-        "string": "Origin not aligned to pixels."
+    "activity_log.filter.widget_approve_list_requested": {
+        "string": "请求小部件批准"
     },
-    "fullscreen.export_handler.origin_snapped_tooltip": {
-        "string": "Origin not aligned to pixels.\nOrigin snapped to ({snapX}, {snapY}).\nDimensions may expand by a pixel."
+    "activity_log.filter.widget_approve_list_setting_changed": {
+        "string": "小部件批准设置更改"
     },
-    "fullscreen.node_transition_behavior.back": {
-        "string": "Back"
+    "activity_log.filter.widget_deleted": {
+        "string": "删除小部件"
     },
-    "fullscreen.node_transition_behavior.close_overlay": {
-        "string": "Close Overlay"
+    "activity_log.filter.widget_management": {
+        "string": "小部件管理"
     },
-    "fullscreen.node_transition_behavior.open_link": {
-        "string": "Open Link"
+    "activity_log.filter.widget_ownership_transfer": {
+        "string": "小部件所有权转移"
     },
-    "fullscreen.node_transition_behavior.open_overlay": {
-        "string": "Open Overlay"
+    "activity_log.filter.widget_published": {
+        "string": "发布小部件"
     },
-    "fullscreen.node_transition_behavior.swap": {
-        "string": "Swap"
+    "activity_log.filter.widget_published_updated_deleted": {
+        "string": "发布/更新/删除小部件"
     },
-    "fullscreen.position_panel.fixed_disabled": {
-        "string": "Can only be applied to the top-most frame."
+    "activity_log.filter.widget_publisher_accept_remove_invite": {
+        "string": "同意/删除小部件发布者邀请"
     },
-    "fullscreen.position_panel.relative_disabled": {
-        "string": "Can only be applied to layers within an auto layout frame."
+    "activity_log.filter.widget_publisher_invite": {
+        "string": "小部件发布者邀请"
     },
-    "fullscreen.save_status.learn_more": {
-        "string": "Learn more"
+    "activity_log.filter.widget_publisher_remove": {
+        "string": "删除小部件发布者"
     },
-    "fullscreen.stack_behavior.auto": {
-        "string": "Auto"
+    "activity_log.filter.widget_publishers": {
+        "string": "小部件发布者"
     },
-    "fullscreen.stack_behavior.container": {
-        "string": "Container ({parentName})"
+    "activity_log.filter.widget_updated": {
+        "string": "更新小部件"
     },
-    "fullscreen.stack_behavior.contents": {
-        "string": "Contents"
+    "activity_log.filter.workspace_library_approval_changed": {
+        "string": "工作区库批准更改"
     },
-    "fullscreen.style_detached_warning": {
-        "string": "Style detached from some text layers"
+    "activity_log.filter.workspace_library_setting_changed": {
+        "string": "工作区库设置更改"
     },
-    "fullscreen.table_tool.click_and_drag_to_set_table_size": {
-        "string": "Click and drag to set size"
+    "activity_log.filter.workspace_visibility_setting_changed": {
+        "string": "工作区显示设置更改"
     },
-    "fullscreen.table_tool.num_rows_num_columns": {
-        "string": "{numRows} rows, {numColumns} columns"
+    "activity_log.filter.workspaces": {
+        "string": "工作区"
     },
-    "fullscreen.visual_bell.missing_font_replaced": {
-        "string": "Missing font replaced"
+    "activity_log.filter.yesterday": {
+        "string": "昨天"
     },
-    "fullscreen.visual_bell.view_only_text_too_old": {
-        "string": "Precise text selection is not available"
+    "activity_log.repo.archived_branch_name": {
+        "string": "存档了分支{name}"
     },
-    "fullscreen.widgets.details": {
-        "string": "Details"
+    "activity_log.repo.archived_branch_name_from_file_name": {
+        "string": "从{fileName}中存档了分支{name}"
     },
-    "resource_use.click_to_dismiss": {
-        "string": "(Double-click to dismiss)"
+    "activity_log.repo.created_branch_name": {
+        "string": "创建了分支{name}"
     },
-    "resource_use.memory_allocations": {
-        "string": "Memory allocations/frees"
+    "activity_log.repo.created_branch_name_from_file_name": {
+        "string": "从{fileName}中创建了分支{name}"
     },
-    "resource_use.total_memory": {
-        "string": "Total memory used in GB"
+    "activity_log.repo.deleted_branch_name": {
+        "string": "删除了分支{name}"
     },
-    "resource_use.total_number_of_layers": {
-        "string": "Total number of layers"
+    "activity_log.repo.deleted_branch_name_from_file_name": {
+        "string": "从{fileName}中删除了分支{name}"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "community.badge.extension_security_updated_on": {
-        "string": "Data security info updated on {date, date, medium}"
+    "proto.action_update_media_play_pause": {
+        "string": "再生/一時停止"
     },
-    "community.badge.extension_security_approved": {
-        "string": "Data security info available"
+    "proto.action_update_media_play_pause_interaction": {
+        "string": "「再生/一時停止」インタラクション"
     },
-    "community.badge.extension_security_pending": {
-        "string": "Data security info in review"
+    "proto.action_update_media_play_pause_video": {
+        "string": "動画を再生/一時停止"
     },
-    "community.detail_view.data_security_modal_badge_info_widget": {
-        "string": "Based on the creator’s answers, this widget follows Figma’s data security best practices."
+    "proto.action_update_media_set": {
+        "string": "設定"
     },
-    "community.detail_view.data_security_modal_badge_info_plugin": {
-        "string": "Based on the creator’s answers, this plugin follows Figma’s data security best practices."
+    "proto.action_update_media_set_time": {
+        "string": "時間を設定"
     },
-    "community.detail_view.data_security_modal_assessment_link": {
-        "string": "security self-assessment program"
+    "proto.action_update_media_set_time_interaction": {
+        "string": "「時間を設定」インタラクション"
     },
-    "community.detail_view.data_security_modal_explanation_widget": {
-        "string": "As part of Figma’s {assessmentProgramLink}, the creator has voluntarily answered a survey and shared how this widget handles and stores data."
+    "proto.action_update_media_set_to_specific_time": {
+        "string": "特定の時間に設定"
     },
-    "community.detail_view.data_security_modal_explanation_plugin": {
-        "string": "As part of Figma’s {assessmentProgramLink}, the creator has voluntarily answered a survey and shared how this plugin handles and stores data."
+    "proto.action_update_media_toggle": {
+        "string": "切り替え"
     },
-    "community.detail_view.data_security_modal_pending": {
-        "string": "The creator updated these details on {date, date, long}, which Figma is currently reviewing for data security best practices."
+    "proto.action_update_media_toggle_interaction": {
+        "string": "「切り替え」インタラクション"
     },
-    "community.detail_view.data_security_modal_rejected": {
-        "string": "The creator updated these details. After review, on {date, date, long}, Figma determined that these updates do not follow data security best practices."
+    "proto.action_update_media_unmute": {
+        "string": "ミュート解除"
     },
-    "community.detail_view.data_security": {
-        "string": "Data security"
+    "proto.action_update_media_unmute_interaction": {
+        "string": "「ミュート解除」インタラクション"
     },
-    "rcs.sharing_clarity.team_creation_modal_title": {
-        "string": "Simpler, clearer access settings"
+    "proto.action_update_media_unmute_only": {
+        "string": "ミュート解除のみ"
     },
-    "rcs.sharing_clarity.team_creation_modal_description": {
-        "string": "Now when you manage your team’s access and permissions, simply pick an option for 1) who can access it and 2) what they’re allowed to do."
+    "proto.action_url_title": {
+        "string": "開く"
     },
-    "admin_dashboard.requests.details.display_date": {
-        "string": "{dateObject, date, ::yMMMMd}"
+    "proto.add_background": {
+        "string": "背景を追加"
     },
-    "admin_dashboard.suggested.empty.primary_text": {
-        "string": "No users to upgrade"
+    "proto.animation": {
+        "string": "アニメーション"
     },
-    "admin_dashboard.requests.empty.secondary_text": {
-        "string": "Go grab some coffee—we’ll let you know when new upgrade requests come in."
+    "proto.animation_panel.animate_matching_layers": {
+        "string": "マッチングレイヤーをアニメーション化"
     },
-    "admin_dashboard.suggested.title": {
-        "string": "Restore Dev Mode access"
+    "proto.animation_panel.easing_duration_tooltip": {
+        "string": "イージングの所要時間"
     },
-    "admin_dashboard.suggested.body_v2": {
-        "string": "Now that Dev Mode is out of beta, using it requires a paid seat. Who would you like to upgrade for continued use?"
+    "proto.animation_panel.preserve_scroll_position": {
+        "string": "スクロール位置を保持する"
     },
-    "admin_dashboard.requests.no_name": {
-        "string": "<no name>"
+    "proto.animation_panel.reset_component_state": {
+        "string": "コンポーネントの状態をリセット"
     },
-    "admin_dashboard.requests.columns.name": {
-        "string": "Name"
+    "proto.animation_panel.reset_scroll_position": {
+        "string": "スクロール位置をリセット"
     },
-    "admin_dashboard.requests.details.job_title": {
-        "string": "Job title"
+    "proto.animation_panel.reset_video_state": {
+        "string": "動画の状態をリセット"
     },
-    "admin_dashboard.requests.columns.last_used_dev_mode": {
-        "string": "Last used Dev Mode"
+    "proto.animation_panel.smart_animate_matching_layers_tooltip": {
+        "string": "上の遷移を使用せずに同名のレイヤーでアニメーションを実行"
     },
-    "admin_dashboard.suggested.bell.assigned_org": {
-        "string": "{numSeats, plural, one {1 Dev Mode seat assigned} other {{numSeats} Dev Mode seats assigned}}"
+    "proto.assign_variant": {
+        "string": "バリアブルの割り当て..."
     },
-    "admin_dashboard.suggested.bell.assigned_team": {
-        "string": "{numSeats, plural, one {1 Design seat assigned} other {{numSeats} Design seats assigned}}"
+    "proto.background": {
+        "string": "背景"
     },
-    "admin_dashboard.suggested.bell.declined_org": {
-        "string": "{numSeats, plural, one {1 Dev Mode seat declined} other {{numSeats} Dev Mode seats declined}}"
+    "proto.close_when_clicking_outside": {
+        "string": "外部をクリックしたときに閉じる"
     },
-    "admin_dashboard.suggested.bell.declined_team": {
-        "string": "{numSeats, plural, one {1 Design seat declined} other {{numSeats} Design seats declined}}"
+    "proto.comment": {
+        "string": "コメント"
     },
-    "admin_dashboard.requests.decline": {
-        "string": "Decline"
+    "proto.condition": {
+        "string": "条件"
     },
-    "admin_dashboard.suggested.upgrade": {
-        "string": "Upgrade"
+    "proto.curve": {
+        "string": "曲線"
     },
-    "admin_dashboard.requests.billing_groups": {
-        "string": "Billing groups"
+    "proto.delay": {
+        "string": "遅延"
     },
-    "admin_dashboard.requests.your_billing_groups": {
-        "string": "Your billing groups"
+    "proto.destination": {
+        "string": "移動先"
     },
-    "admin_dashboard.requests.filter.user_type": {
-        "string": "User type: {selectedUserTypeFilter}"
+    "proto.device_panel.height": {
+        "string": "H"
     },
-    "admin_dashboard.requests.filter.from": {
-        "string": "From: {selectedBillingGroupFilter}"
+    "proto.device_panel.width": {
+        "string": "W"
     },
-    "admin_dashboard.requests.empty.configurable_upgrade_requests": {
-        "string": "No requests"
+    "proto.direction": {
+        "string": "方向"
     },
-    "admin_dashboard.requests.empty.primary_text": {
-        "string": "No requests right now"
+    "proto.duration": {
+        "string": "所要時間"
     },
-    "admin_dashboard.requests.empty.no_search_results": {
-        "string": "No requests match your search query. Try your search again."
+    "proto.easing_behavior.bezier": {
+        "string": "ベジェ"
     },
-    "admin_dashboard.requests.empty.no_filter_results": {
-        "string": "No requests to show. {resetFiltersLink}"
+    "proto.easing_behavior.bezier_custom": {
+        "string": "カスタムベジエ"
     },
-    "admin_dashboard.requests.empty.reset_filters": {
-        "string": "Reset filters"
+    "proto.easing_behavior.bezier_custom_short": {
+        "string": "カスタム"
     },
-    "admin_dashboard.configured_upgrade_request_banner.members": {
-        "string": "Your organization redirects members to a custom URL to request an upgrade. Old member requests and new guest requests will show up here."
+    "proto.easing_behavior.bezier_ease_in": {
+        "string": "イーズイン"
     },
-    "admin_dashboard.configured_upgrade_request_empty_state.members": {
-        "string": "Your organization redirects members to a custom URL to request an upgrade. New guest upgrade requests will show up here."
+    "proto.easing_behavior.bezier_ease_in_and_out": {
+        "string": "イーズイン/イーズアウト"
     },
-    "admin_dashboard.configured_upgrade_request_banner.all_users": {
-        "string": "Your organization redirects all users to a custom URL to request an upgrade. Requests made before this setting was enabled will still show up here."
+    "proto.easing_behavior.bezier_ease_in_and_out_back": {
+        "string": "イーズイン/イーズアウトバック"
     },
-    "admin_dashboard.configured_upgrade_request_empty_state.all_users": {
-        "string": "Your organization redirects all users to a custom URL to request an upgrade."
+    "proto.easing_behavior.bezier_ease_in_back": {
+        "string": "イーズインバック"
     },
-    "admin_dashboard.managed_org_requests.title": {
-        "string": "Your requests"
+    "proto.easing_behavior.bezier_ease_out": {
+        "string": "イーズアウト"
     },
-    "admin_dashboard.requests.title": {
-        "string": "Upgrade requests"
+    "proto.easing_behavior.bezier_ease_out_back": {
+        "string": "イーズアウトバック"
     },
-    "admin_dashboard.all_org_requests.title": {
-        "string": "All {orgName} requests"
+    "proto.easing_behavior.linear": {
+        "string": "リニア"
     },
-    "admin_dashboard.requests.view_history": {
-        "string": "View history"
+    "proto.easing_behavior.spring_bouncy": {
+        "string": "バウンス"
     },
-    "admin_dashboard.requests.from_all": {
-        "string": "All"
+    "proto.easing_behavior.spring_custom": {
+        "string": "カスタムスプリング"
     },
-    "admin_dashboard.requests.from_unassigned": {
-        "string": "Unassigned users"
+    "proto.easing_behavior.spring_custom_short": {
+        "string": "カスタム"
     },
-    "admin_dashboard.requests.guests": {
-        "string": "Guests"
+    "proto.easing_behavior.spring_gentle": {
+        "string": "なめらか"
     },
-    "admin_dashboard.requests.members": {
-        "string": "Members"
+    "proto.easing_behavior.spring_quick": {
+        "string": "速い"
     },
-    "admin_dashboard.requests.all_users": {
-        "string": "All"
+    "proto.easing_behavior.spring_slow": {
+        "string": "遅い"
     }
 }

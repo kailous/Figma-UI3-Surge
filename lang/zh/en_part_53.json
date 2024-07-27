@@ -1,152 +1,152 @@
 {
-    "shared_fonts.error_message_for_upload_failure_429": {
-        "string": "This file is too big. Files must be less than 20 MB."
+    "community.cards.copy_paste_your_widget_as_a_png": {
+        "string": "将小部件复制/粘贴为PNG（按{copyShortcut}后再按{pasteShortcut}）。{learnHowLink}"
     },
-    "shared_fonts.error_message_for_upload_failure_default_with_help_center": {
-        "string": "The font could not be uploaded. Figma supports .TTF and .OTF fonts. For more information, visit our {helpCenterLink}."
+    "community.cards.generating_widget_thumbnail": {
+        "string": "正在生成小部件缩略图..."
     },
-    "help_widget.menu.help_center": {
-        "string": "Help Center"
+    "community.cards.learn_how": {
+        "string": "了解如何操作"
     },
-    "community.publishing.name_must_not_be_empty": {
-        "string": "Name must not be empty"
+    "community.cards.learn_more": {
+        "string": "了解更多"
     },
-    "community.publishing.name_must_be_at_most_100_characters_long": {
-        "string": "Name must be at most 100 characters long"
+    "community.cards.pluralize_num_other_publishers": {
+        "string": "{numOtherPublishers, plural, other {以及其他{numOtherPublishers}人}}"
     },
-    "community.publishing.description_must_be_at_most_10000_characters_long": {
-        "string": "Description must be at most 10000 characters long"
+    "community.cards.private": {
+        "string": "私人"
     },
-    "templates.actions.error_connecting_to_server_to_upload_file_thumbnail": {
-        "string": "Error connecting to server to upload file thumbnail."
+    "community.cards.update_your_widget_thumbnail": {
+        "string": "右键点击小部件，并在小部件菜单中选择[设为缩略图]以更新。{learnHowLink}"
     },
-    "community.actions.error_uploading_plugin_video_thumbnail_error": {
-        "string": "Error uploading plugin video thumbnail: {error}"
+    "community.cards.upload_your_widget_thumbnail": {
+        "string": "右键点击小部件，并在小部件菜单中选择[设为缩略图]以上传。{learnHowLink}"
     },
-    "community.try.plugin_name_with_community": {
-        "string": "{pluginName} (Community)"
+    "community.categories.accessibility": {
+        "string": "无障碍"
     },
-    "fullscreen.filename_view.title_placeholder": {
-        "string": "Untitled"
+    "community.categories.check_out_collections_of_some_of_our_favorite_design_files_plugins_and_creators_from_figma_community": {
+        "string": "查看我们最喜欢的设计文件、插件和Figma社区的创作者收藏。"
     },
-    "flash.unable_to_try_resource": {
-        "string": "Unable to try plugin or widget."
+    "community.categories.design_systems": {
+        "string": "设计系统"
     },
-    "webgl_error.message.we_cant_open_this_file_webgl_trouble": {
-        "string": "We can't open this file because we're having trouble with WebGL. Please try restarting the desktop app."
+    "community.categories.design_templates": {
+        "string": "设计模板"
     },
-    "webgl_error.message.if_this_problem_persists": {
-        "string": "If this problem persists, your graphics card or driver may not be supported."
+    "community.categories.design_tools": {
+        "string": "设计工具"
     },
-    "webgl_error.message.webgl_disabled": {
-        "string": "We can't open this file because WebGL isn't supported, or is disabled, in your browser. If your browser supports WebGL, check out {helpArticleLink} to find out how to enable it."
+    "community.categories.development": {
+        "string": "开发"
     },
-    "webgl_error.message.this_help_article_link": {
-        "string": "this help article"
+    "community.categories.education": {
+        "string": "教育"
     },
-    "webgl_error.message.browser_bug": {
-        "string": "We can't open this file because of a bug present in your browser. Older Windows video cards encounter rendering errors on Chrome, Opera, and Firefox. Using another browser like Edge or IE, or updating to the latest or pre-release browser may fix this bug."
+    "community.categories.figma_community_collections": {
+        "string": "Figma社区收藏"
     },
-    "webgl_error.message.figma_is_working_with_the_browser_developers": {
-        "string": "Figma is working with the browser developers and a fix is pending."
+    "community.categories.icons": {
+        "string": "图标"
     },
-    "webgl_error.message.we_cant_open_that_file_header": {
-        "string": "Uh oh… we can't open that file"
+    "community.categories.inspiration": {
+        "string": "灵感"
     },
-    "webgl_error.message.got_it": {
-        "string": "Got it"
+    "community.categories.mobile": {
+        "string": "移动端"
     },
-    "sidebar.drafts": {
-        "string": "Drafts"
+    "community.categories.team_syncs": {
+        "string": "团队同步"
     },
-    "general.editor.seat_rename": {
-        "string": "Full"
+    "community.categories.visual_assets": {
+        "string": "视觉资源"
     },
-    "general.viewer": {
-        "string": "Viewer"
+    "community.categories.web": {
+        "string": "网页"
     },
-    "general.viewer_restricted": {
-        "string": "Viewer-restricted"
+    "community.categories.whiteboarding": {
+        "string": "白板"
     },
-    "general.guest": {
-        "string": "Guest"
+    "community.categories.wireframe": {
+        "string": "线框图"
     },
-    "general.member": {
-        "string": "Member"
+    "community.collections.arrow_designs": {
+        "string": "箭头设计"
     },
-    "general.admin": {
-        "string": "Admin"
+    "community.collections.curated_by": {
+        "string": "由...策划"
     },
-    "plan_comparison.plans.most_popular": {
-        "string": "Most popular"
+    "community.collections.email_design_inspiration": {
+        "string": "邮件设计灵感"
     },
-    "plan_comparison.plans.recommended": {
-        "string": "Recommended"
+    "community.collections.frequently_asked_questions": {
+        "string": "常见问题"
     },
-    "plan_comparison.plans.most_valued": {
-        "string": "Best Value"
+    "community.collections.generate": {
+        "string": "生成"
     },
-    "plan_details.professional": {
-        "string": "Professional"
+    "community.collections.head_to_desktop": {
+        "string": "请移至桌面设备使用FigJam。"
     },
-    "plan_comparison.plans.pro.description": {
-        "string": "For you and your team, with unlimited files and all the pro features."
+    "community.collections.head_to_desktop_slides": {
+        "string": "请移至桌面设备使用Figma Slides。"
     },
-    "plan_comparison.plans.pro.choose_button": {
-        "string": "Upgrade to Professional"
+    "community.collections.instagram_templates": {
+        "string": "Instagram模板"
     },
-    "plan_details.starter": {
-        "string": "Starter"
+    "community.collections.landing_page": {
+        "string": "登陆页"
     },
-    "plan_comparison.plans.starter.description": {
-        "string": "Free, for trying things out."
+    "community.collections.laptop_mockups": {
+        "string": "笔记本电脑模型"
     },
-    "plan_comparison.plans.starter.choose_button": {
-        "string": "Choose Starter"
+    "community.collections.learn_more": {
+        "string": "了解更多"
     },
-    "plan_details.organization": {
-        "string": "Organization"
+    "community.collections.this_feature_isnt_available": {
+        "string": "此功能不可用"
     },
-    "plan_comparison.plans.org.description": {
-        "string": "For bringing teams together, sharing an org-wide design system, and more."
+    "community.collections.this_feature_isnt_available_body": {
+        "string": "团队或组织未启用FigJam AI功能。"
     },
-    "plan_comparison.plans.org.choose_button": {
-        "string": "Upgrade to Organization"
+    "community.collections.unpublished_banner.only_admins_can_see_this_page": {
+        "string": "此页面仅管理员可见。若要发布此页面，请使用管理员门户。"
     },
-    "plan_details.enterprise": {
-        "string": "Enterprise"
+    "community.collections.unpublished_banner.this_page_is_not_published": {
+        "string": "此收藏页面未发布。"
     },
-    "plan_comparison.plans.ent.description": {
-        "string": "For scaling company processes with custom workspaces and advanced security."
+    "community.community": {
+        "string": "社区"
     },
-    "plan_comparison.plans.ent.choose_button": {
-        "string": "Contact Sales"
+    "community.community_guidelines": {
+        "string": "社区指南"
     },
-    "plan_details.free_for_students_and_educators": {
-        "string": "Free for students and educators"
+    "community.curated_page.popular": {
+        "string": "热门"
     },
-    "plan_comparison.chart.usage_limits.name": {
-        "string": "Usage limits"
+    "community.curated_page.sort": {
+        "string": "排序"
     },
-    "plan_comparison.chart.usage_limits.details": {
-        "string": "Create and manage multiple projects and files."
+    "community.detail_view.accept": {
+        "string": "接受"
     },
-    "plan_comparison.chart.version_history.name": {
-        "string": "Version history"
+    "community.detail_view.accepted_creator_invite": {
+        "string": "已接受创作者邀请。"
     },
-    "plan_comparison.chart.version_history.details": {
-        "string": "Figma auto-saves and creates versions of your file every 30 minutes. You can name a version at any time and link to past versions."
+    "community.detail_view.accepted_publisher_invite": {
+        "string": "已接受发布者邀请。"
     },
-    "plan_comparison.chart.libraries.name": {
-        "string": "Libraries"
+    "community.detail_view.apple_resource_license": {
+        "string": "Apple设计资源使用许可协议"
     },
-    "plan_comparison.chart.libraries.details": {
-        "string": "Create design systems with shared UI components for your team to use."
+    "community.detail_view.bullet_point": {
+        "string": "•"
     },
-    "plan_comparison.chart.shared_libraries.name": {
-        "string": "Shared libraries"
+    "community.detail_view.category": {
+        "string": "类别"
     },
-    "plan_comparison.chart.shared_libraries.details": {
-        "string": "Create design systems with shared UI components for your teams to use."
+    "community.detail_view.check_out_resource_name_by_publisher_on_figmadesign": {
+        "string": "{publisherString}在@figma上发布了「{resourceName}」。"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "banner.pro_team_charge_failed.unsuccessful_team_charge.no_admin": {
-        "string": "We couldn’t charge your payment method for {teamName}. Please contact your admin to update your payment details as soon as possible. File editing will be locked after 3 tries."
+    "payments_modal.you_no_longer_have_access_to_your_organization": {
+        "string": "組織にアクセスできなくなりました"
     },
-    "banner.pro_team_charge_failed.update_payment": {
-        "string": "Update payment"
+    "payments_modal.you_ve_reached_your_plan_s_m_a_x_f_r_e_e_editors_editor_limit_user_text_you_ve_invited_will_be_granted_view_access_but_they_won_t_be_able_to_edit.seat_rename": {
+        "string": "トライアルには、フル編集アクセス権のあるシートが最大{maxFreeEditors}人分含まれています。{userText}もファイルを表示し、コメントすることはできますが、編集はできません。"
     },
-    "banner.pro_team_no_monthly_sub.locked": {
-        "string": "Locked"
+    "payments_modal.your_files_are_safe_but_youll_need_to_pay": {
+        "string": "ファイルは安全ですが、{orgName}に再度アクセスするには、{dueDate}が期限の請求書の代金をお支払いいただく必要があります。"
     },
-    "banner.pro_team_no_monthly_sub.manage_plan": {
-        "string": "Manage plan"
+    "payments_modal.your_professional_team_plan_is_no_longer_active_please": {
+        "string": "プロフェッショナルチームプランが有効ではなくなりました。引き続き{teamName}でファイルを編集するには、請求情報を更新してください。"
     },
-    "banner.pro_trial_expiry.move_this_file_cta": {
-        "string": "Move this file"
+    "payments_modal.your_team": {
+        "string": "チーム"
     },
-    "banner.pro_trial_upgrade_cta.upgrade_to_professional": {
-        "string": "Upgrade to Professional"
+    "payments_modal.your_team_is_locked": {
+        "string": "チームがロックされています"
     },
-    "banner.pro_trial_expiry.title": {
-        "string": "Your Professional trial has ended."
+    "branch_info_row.link_sharing_is_disabled_when_the_main_file_is_invite_only": {
+        "string": "メインファイルが招待限定の場合、リンク共有は無効です。"
     },
-    "locked_team.banner.this_board_is_part_of_a_locked_team": {
-        "string": "This board is part of a locked team."
+    "branch_info_row.link_sharing_is_restricted_by_access_level_of_the_main_file": {
+        "string": "リンク共有は、メインファイルのアクセスレベルにより制限されています。"
     },
-    "locked_team.banner.this_file_is_part_of_a_locked_team": {
-        "string": "This file is part of a locked team."
+    "branch_info_row.link_sharing_outside_of_org_name_is_restricted_by_access_level_of_the_main_file": {
+        "string": "{orgName}外部でのリンク共有は、メインファイルのアクセスレベルにより制限されています。"
     },
-    "locked_team.banner.reactivate_professional": {
-        "string": "Reactivate professional"
+    "confirm_reduce_link_access.are_you_sure_you_want_to_change_the_public_link_access_of_this_file_you_ll_no_longer_be_able_to_edit_this_file_or_change_this_back": {
+        "string": "このファイルの公開リンクアクセスを変更してよろしいですか? 変更すると、このファイルの編集と、編集を元に戻す操作を実行できなくなります。"
     },
-    "locked_team.banner.upgrade_to_professional": {
-        "string": "Upgrade to Professional"
+    "confirm_reduce_link_access.change_settings": {
+        "string": "設定を変更"
     },
-    "banner.free_limit_locked.locked": {
-        "string": "Locked"
+    "confirm_reduce_link_access.change_sharing_settings_for_this_file": {
+        "string": "このファイルの共有設定を変更しますか?"
     },
-    "banner.free_limit_locked.upgrade_now": {
-        "string": "Upgrade now"
+    "confirm_reduce_link_access.continue": {
+        "string": "続行"
     },
-    "banner.orphaned_projects.file_in_an_abandoned_project": {
-        "string": "File in an abandoned project"
+    "confirm_reduce_link_access.learn_more": {
+        "string": "詳細情報"
     },
-    "banner.orphaned_projects.move_to_project": {
-        "string": "To edit or share this file, move it into a different project."
+    "confirm_reduce_link_access.modal_body_text": {
+        "string": "このファイルにはブランチがあることに注意してください。メインファイルの共有設定をより厳しく制限した場合、その変更は、ファイル内のすべてのブランチにも適用されます。"
     },
-    "banner.orphaned_projects.back_to_files": {
-        "string": "Back to files"
+    "confirm_remove_expiration_modal.body.set_by_missing_user": {
+        "string": "有効期限は、一時的なアクセスのみを許可するこのパブリックリンクに設定されています。削除する前にユーザーに通知できます。"
     },
-    "banner.personal_projects.locked": {
-        "string": "Locked"
+    "confirm_remove_expiration_modal.body.set_by_valid_user": {
+        "string": "{name}さんが一時的なアクセスのみを許可するこのパブリックリンクを設定しました。削除する前にユーザーに通知できます。"
     },
-    "banner.personal_projects.back_to_files": {
-        "string": "Back to files"
+    "confirm_remove_expiration_modal.confirmation": {
+        "string": "有効期限を削除"
     },
-    "banner.edu_grace_period.verification_required": {
-        "string": "Verification required"
+    "confirm_remove_expiration_modal.header": {
+        "string": "この有効期限を削除しますか?"
     },
-    "banner.edu_grace_period.editing_restricted_on_file": {
-        "string": "To edit this Education team file from {teamName}, verify that you're a student or educator."
+    "confirm_remove_role.are_you_sure_you_want_to_leave_file_name_you_may_not_be_able_to_access_this_file_anymore": {
+        "string": "{fileName}の使用を終了してよろしいですか? 今後はこのファイルにアクセスできなくなります。"
     },
-    "banner.edu_grace_period.verify_status_button": {
-        "string": "Verify status"
+    "confirm_remove_role.are_you_sure_you_want_to_leave_folder_name_you_may_not_be_able_to_access_files_in_this_project_anymore": {
+        "string": "{folderName}の使用を終了してよろしいですか? 今後はこのプロジェクトのファイルにアクセスできなくなります。"
     },
-    "banner.edu_grace_period.grace_period_team_reminder": {
-        "string": "This file is from the Education team {teamName}. To keep editing this file after {endDate, date, ::MMMMd}, verify that you're a student or educator."
+    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_files_in_this_project_anymore": {
+        "string": "{userHandle}を削除してよろしいですか? 今後はこのプロジェクトのファイルにアクセスできなくなります。"
     },
-    "banner.multiplayer_session_upgrade.page_out_of_date": {
-        "string": "A new version of Figma is available!"
+    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_file_anymore": {
+        "string": "このまま続けると、{userHandle}は直ちにこのファイルへの直接アクセス権を失います。"
     },
-    "banner.multiplayer_session_upgrade.out_of_date.connected": {
-        "string": "We’ll save all your work, but you need to reload to see edits from other users."
+    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_main_file_and_the_branches_anymore": {
+        "string": "このまま続けると、{userHandle}は直ちにこのファイルおよびブランチへの直接アクセス権を失います。"
     },
-    "banner.multiplayer_session_upgrade.out_of_date.not_connected": {
-        "string": "We’ll save all your work, but you need to reload to see edits from other users."
+    "confirm_remove_role.confirm_title_file": {
+        "string": "ファイルへのアクセス権を削除"
     },
-    "banner.multiplayer_session_upgrade.save_and_reload": {
-        "string": "Save and reload"
+    "confirm_remove_role.leave": {
+        "string": "使用終了"
     },
-    "banner.multiplayer_session_upgrade.reload": {
-        "string": "Reload"
+    "confirm_remove_role.remove": {
+        "string": "削除"
     },
-    "figjam_try.drafts_banner_title_more_time": {
-        "string": "Others can edit for {num_hours} hours"
+    "drafts_edit_education_banner.description": {
+        "string": "他のユーザーはドラフトを編集できません。{nameToDisplay}がこのファイルを編集できるようにするには、ファイルを以下のプロジェクトに移動してください。"
     },
-    "figjam_try.drafts_banner_title_1_hour_or_less": {
-        "string": "Others can edit for less than 1 hour"
+    "drafts_edit_education_banner.others": {
+        "string": "その他"
     },
-    "figjam_try.drafts_banner_description": {
-        "string": "To keep the jam going, move this file out of your drafts folder."
+    "drafts_move_banner.move_and_allow_edits": {
+        "string": "移動して編集を許可する"
     },
-    "figjam_try.move_file": {
-        "string": "Move file"
+    "drafts_move_banner.move_file": {
+        "string": "ファイルを移動する"
     },
-    "figjam_try.claim_banner_title_1_hour_or_less": {
-        "string": "Less than one hour left to jam"
+    "drafts_move_banner.to_add_editors_first_move_this_file_from_drafts_into_a_project.seat_rename": {
+        "string": "メンバーを編集者として招待するには、このドラフトをプロジェクトに移動します。"
     },
-    "figjam_try_v2.logged_in.after_that_this_board_will_be_deleted": {
-        "string": "After that, this board will be deleted. To save your work, save this file to your drafts."
+    "file_access_row.add_expiration_for_link_access": {
+        "string": "リンクの有効期間を追加"
     },
-    "figjam_try_v2.claim_file_logged_in": {
-        "string": "Claim file"
+    "file_access_row.anyone_at_org_name": {
+        "string": "{orgName}のユーザー全員"
     },
-    "collaboration.feedback.change_count": {
-        "string": "{changeCount, plural, one {{changeCount} change} other {{changeCount} changes}}"
+    "file_access_row.anyone_at_org_name_with_the_link": {
+        "string": "{orgName}のリンクを知っているユーザー全員"
     },
-    "collaboration.feedback.previous_change": {
-        "string": "Previous change"
+    "file_access_row.anyone_else_with_a_prototype_link": {
+        "string": "プロトタイプリンクを知っているユーザー全員"
     },
-    "collaboration.feedback.next_change": {
-        "string": "Next change"
+    "file_access_row.anyone_with_the_link": {
+        "string": "リンクを知っているユーザー全員"
     },
-    "fullscreen.libraries_button.tooltip.updates_to_pull": {
-        "string": "Review library updates"
+    "file_access_row.anyone_with_the_link_and_password": {
+        "string": "リンクとパスワードを知っているユーザー全員"
     },
-    "fullscreen.libraries_button.tooltip.updates_to_push": {
-        "string": "Review unpublished changes"
+    "file_access_row.anyone_with_the_link_and_password_disabled_by_admin": {
+        "string": "リンクとパスワードを知っているユーザー全員(管理者により無効にされています)"
     },
-    "fullscreen.libraries_button.tooltip.no_updates": {
-        "string": "Libraries"
+    "file_access_row.anyone_with_the_link_disabled_by_admin": {
+        "string": "リンクを知っているユーザー全員(管理者により無効にされています)"
     },
-    "design_systems.assets_panel.error": {
-        "string": "Encountered an error while loading. Try refreshing the page."
+    "file_access_row.can_access": {
+        "string": "アクセス可"
     },
-    "fullscreen.pages_panel.add_new_page": {
-        "string": "Add new page"
+    "file_access_row.can_edit": {
+        "string": "編集可"
     },
-    "fullscreen.pages_panel.page_dropdown_new": {
-        "string": "New"
+    "file_access_row.can_view": {
+        "string": "閲覧のみ"
     },
-    "fullscreen.pages_panel.design_page": {
-        "string": "Design page"
+    "file_access_row.can_view_prototypes": {
+        "string": "プロトタイプの閲覧のみ"
     },
-    "fullscreen.pages_panel.figjam_page": {
-        "string": "FigJam page"
+    "file_access_row.cannot_access": {
+        "string": "アクセス不可"
     },
-    "fullscreen.pages_panel.slide_deck": {
-        "string": "Slide deck"
+    "file_access_row.expiration.24_hours": {
+        "string": "24時間"
     },
-    "fullscreen.pages_panel.add_new_page_dropdown": {
-        "string": "Choose new page type"
+    "file_access_row.expiration.24_hours.timestamp": {
+        "string": "明日{time}"
     },
-    "fullscreen.pages_panel.see_plans_that_offer_more": {
-        "string": "See plans that offer more"
+    "file_access_row.expiration.7_days": {
+        "string": "7日間"
     },
-    "fullscreen.pages_panel.get_unlimited_pages_and_more": {
-        "string": "Get unlimited pages & more"
+    "file_access_row.expiration.access_ends": {
+        "string": "アクセス期限"
     },
-    "fullscreen.pages_panel.n_free_pages_left": {
-        "string": "{ numPagesRemaining, plural, one {{numPagesRemaining} free page left.} other {{numPagesRemaining} free pages left.} }"
+    "file_access_row.expiration.cancel": {
+        "string": "キャンセル"
     }
 }

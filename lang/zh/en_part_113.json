@@ -1,152 +1,152 @@
 {
-    "file_browser.delete_project.one_file_confirm_text": {
-        "string": "Project {folderName} and one file will be deleted. The project will be permanently deleted, but you can restore files from the 'Deleted' tab in your drafts."
+    "fullscreen.color_management.document_modal.options.convert.title": {
+        "string": "保持外观（转换）"
     },
-    "file_browser.delete_project.plural_files_confirm_text": {
-        "string": "Project {folderName} and all {numFiles} of its files will be deleted. The project will be permanently deleted, but you can restore files from the 'Deleted' tab in your drafts."
+    "fullscreen.color_management.document_modal.title": {
+        "string": "更改颜色配置文件为{color_profile}"
     },
-    "file_browser.api_folder.error_when_deleting": {
-        "string": "An error occurred when deleting this project."
+    "fullscreen.color_management.document_modal.warning.clamp.convert": {
+        "string": "某些颜色可能会丢失。"
     },
-    "file_browser.delete_project.title": {
-        "string": "Delete project and files"
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.assign": {
+        "string": "您的浏览器不支持Display P3，但其他用户可以查看分配后的显示效果。"
     },
-    "file_browser.delete_project.generic_confirm_label": {
-        "string": "Delete project"
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.client.convert": {
+        "string": "您的浏览器不支持Display P3，但其他用户可以查看转换后的显示效果。"
     },
-    "file_browser.delete_project.one_file_confirm_label": {
-        "string": "Delete project and 1 file"
+    "fullscreen.color_management.document_modal.warning.display_p3_not_supported.monitor": {
+        "string": "即使您的显示器不支持显示P3颜色，颜色配置文件也会应用。"
     },
-    "file_browser.delete_project.plural_files_confirm_label": {
-        "string": "Delete project and {numFiles} files"
+    "fullscreen.color_management.file_history.assign-display-p3": {
+        "string": "已分配Display P3"
     },
-    "whiteboard.embeds.insert_embed_modal.add_media_from_across_the_web": {
-        "string": "Add media from across the web. {learnMoreLink}"
+    "fullscreen.color_management.file_history.assign-srgb": {
+        "string": "已分配sRGB"
     },
-    "whiteboard.embeds.insert_embed_modal.learn_more": {
-        "string": "Learn more"
+    "fullscreen.color_management.file_history.label": {
+        "string": "颜色配置文件更改"
     },
-    "whiteboard.embeds.insert_embed_modal.add": {
-        "string": "Add"
+    "fullscreen.color_management.user_color_profile.menu_item": {
+        "string": "颜色配置文件..."
     },
-    "whiteboard.embeds.insert_embed_modal.try_linking_to_sites_like": {
-        "string": "Try linking to sites like…"
+    "fullscreen.color_management.user_color_profile.quick_action": {
+        "string": "打开颜色配置文件设置"
     },
-    "whiteboard.embeds.insert_embed_modal.figma": {
-        "string": "Figma"
+    "fullscreen.color_management.user_color_profile_modal.client_type.browser": {
+        "string": "浏览器"
     },
-    "whiteboard.embeds.insert_embed_modal.youtube": {
-        "string": "YouTube"
+    "fullscreen.color_management.user_color_profile_modal.client_type.desktop_app": {
+        "string": "客户端"
     },
-    "whiteboard.embeds.insert_embed_modal.vimeo": {
-        "string": "Vimeo"
+    "fullscreen.color_management.user_color_profile_modal.descriptions.affected_files": {
+        "string": "此首选项将应用于新的Figma文件。"
     },
-    "whiteboard.embeds.insert_embed_modal.loom": {
-        "string": "Loom"
+    "fullscreen.color_management.user_color_profile_modal.info.display_p3_supported": {
+        "string": "您的显示器支持Display P3。"
     },
-    "whiteboard.embeds.insert_embed_modal.spotify": {
-        "string": "Spotify"
+    "fullscreen.color_management.user_color_profile_modal.info.srgb_supported": {
+        "string": "您的显示器支持sRGB。"
     },
-    "whiteboard.embeds.insert_embed_modal.codepen": {
-        "string": "CodePen"
+    "fullscreen.color_management.user_color_profile_modal.options.display_p3.description": {
+        "string": "适用于Apple设备的Display P3具有更广的色域，但不推荐用于网页设计。"
     },
-    "whiteboard.embeds.insert_embed_modal.asana": {
-        "string": "Asana"
+    "fullscreen.color_management.user_color_profile_modal.options.display_p3.value": {
+        "string": "Display P3"
     },
-    "whiteboard.embeds.insert_embed_modal.paste_a_public_link": {
-        "string": "Paste a public link"
+    "fullscreen.color_management.user_color_profile_modal.options.label": {
+        "string": "首选颜色配置文件:"
     },
-    "whiteboard.embeds.insert_embed_modal.invalid_link_error_message": {
-        "string": "It looks like that’s not a valid link."
+    "fullscreen.color_management.user_color_profile_modal.options.srgb.description": {
+        "string": "sRGB非常适合为各种设备设计，但色域比Display P3更窄。"
     },
-    "autosave.unable_to_leave_document.ok_button": {
-        "string": "OK"
+    "fullscreen.color_management.user_color_profile_modal.options.srgb.value": {
+        "string": "sRGB"
     },
-    "autosave.unable_to_leave_document.title": {
-        "string": "Unable to leave document"
+    "fullscreen.color_management.user_color_profile_modal.title": {
+        "string": "颜色配置文件设置"
     },
-    "link_expired.go_back_to_figma": {
-        "string": "Go back to Figma"
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.alternative_display": {
+        "string": "切换到支持Display P3的{displayName}显示器。"
     },
-    "link_expired.header": {
-        "string": "This link isn't public anymore"
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.client": {
+        "string": "{client}不支持Display P3，但可以使用此配置文件导出。"
     },
-    "link_expired.description": {
-        "string": "This file is no longer available through this link. If you think that’s a mistake, try reaching out to the file owner."
+    "fullscreen.color_management.user_color_profile_modal.warning.display_p3_not_supported.display": {
+        "string": "您的显示器不支持Display P3，但可以使用此配置文件导出。"
     },
-    "manage_memory_modal.total_memory_used": {
-        "string": "Total memory used"
+    "fullscreen.color_palette.apply_palette_failure": {
+        "string": "无法更改颜色调色板"
     },
-    "manage_memory_modal.total_layers": {
-        "string": "Total layers"
+    "fullscreen.color_palette.delete_failure": {
+        "string": "无法删除调色板"
     },
-    "manage_memory_modal.page_content": {
-        "string": "Page content"
+    "fullscreen.color_palette.delete_success": {
+        "string": "已删除调色板"
     },
-    "manage_memory_modal.imported_components": {
-        "string": "Imported components"
+    "fullscreen.color_palette.saved_failure": {
+        "string": "无法保存到调色板"
     },
-    "manage_memory_modal.show_memory_in_layers_panel": {
-        "string": "Show memory usage in layers panel"
+    "fullscreen.color_palette.saved_success": {
+        "string": "已保存到调色板"
     },
-    "memory_warning_modal.memory_reduction_tips_modal_title": {
-        "string": "Tips to reduce memory"
+    "fullscreen.color_picker.effect_color": {
+        "string": "效果颜色"
     },
-    "memory_warning_modal.memory_reduction_tips_break_files_header": {
-        "string": "Break up bigger files into smaller ones. "
+    "fullscreen.context_menu.auto_rename_layers": {
+        "string": "自动重命名图层"
     },
-    "memory_warning_modal.memory_reduction_tips_break_files": {
-        "string": "Move a few pages to a new file, or split a large library into smaller ones."
+    "fullscreen.context_menu.copy_link": {
+        "string": "复制链接{editorSpecifierString}"
     },
-    "memory_warning_modal.memory_reduction_tips_clean_layers_header": {
-        "string": "Clean up layers and components. "
+    "fullscreen.context_menu.export_selected_video": {
+        "string": "导出选定视频"
     },
-    "memory_warning_modal.memory_reduction_tips_clean_layers": {
-        "string": "Delete hidden layers you don’t need and reduce nested layers, especially in components."
+    "fullscreen.context_menu.export_selection": {
+        "string": "导出选定内容..."
     },
-    "memory_warning_modal.memory_reduction_tips_flatten_shapes_header": {
-        "string": "Flatten complex SVGs and vector shapes. "
+    "fullscreen.context_menu.flatten": {
+        "string": "合并"
     },
-    "memory_warning_modal.memory_reduction_tips_flatten_shapes": {
-        "string": "This reduces layers, and therefore memory use."
+    "fullscreen.context_menu.hide_comments": {
+        "string": "隐藏评论"
     },
-    "memory_warning_modal.memory_reduction_tips_trim_components_header": {
-        "string": "Trim the number of component variants. "
+    "fullscreen.context_menu.lock_unlock": {
+        "string": "锁定/解锁"
     },
-    "memory_warning_modal.memory_reduction_tips_trim_components": {
-        "string": "Replace variants with component properties instead."
+    "fullscreen.context_menu.multiselect": {
+        "string": "多选对象"
     },
-    "memory_warning_modal.help_center": {
-        "string": "Help Center article"
+    "fullscreen.context_menu.rename": {
+        "string": "重命名"
     },
-    "memory_warning_modal.help_center_resource_and_link": {
-        "string": "Check out our {helpCenterLink} for more tips."
+    "fullscreen.context_menu.show_hide": {
+        "string": "显示/隐藏"
     },
-    "manage_memory_modal.manage_memory_modal_title": {
-        "string": "Manage memory"
+    "fullscreen.context_menu.show_hide_comments": {
+        "string": "显示/隐藏评论"
     },
-    "manage_memory_modal.show_memory_in_layers_panel_warning": {
-        "string": "Showing this might slow down your files."
+    "fullscreen.context_menu.ungroup": {
+        "string": "取消分组"
     },
-    "community.merge_profile_modal.not_allowed": {
-        "string": "Not allowed"
+    "fullscreen.draggable_list.add": {
+        "string": "添加"
     },
-    "community.merge_profile_modal.cannot_connect_approved_sellers": {
-        "string": "This account has been approved to sell on Community so you can't connect it."
+    "fullscreen.draggable_list.remove": {
+        "string": "删除"
     },
-    "community.merge_profile_modal.add_an_account_to_connect": {
-        "string": "Add an account to connect"
+    "fullscreen.draggable_list.scroll_behavior": {
+        "string": "滚动行为"
     },
-    "community.merge_profile_modal.pick_the_account_you_want_to_connect": {
-        "string": "Pick the account you want to connect"
+    "fullscreen.export.cancel": {
+        "string": "取消"
     },
-    "community.merge_profile_modal.no_accounts_found": {
-        "string": "Uh oh, no other accounts here! Close this pop up and add your account from the account switcher first, then try again."
+    "fullscreen.export.downloading": {
+        "string": "正在下载图片..."
     },
-    "community.merge_profile_modal.missing_account_try_again": {
-        "string": "Don’t see the one you want? Close this pop up and add your account from the account switcher first, then try again."
+    "fullscreen.export.downloading_progress": {
+        "string": "正在下载图片 {downloadingProgress}/{downloadingTotal} ..."
     },
-    "community.merge_profile_modal.connect": {
-        "string": "Connect"
+    "fullscreen.export.export": {
+        "string": "导出"
     }
 }

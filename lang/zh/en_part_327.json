@@ -1,152 +1,152 @@
 {
-    "community.footer.site_map": {
-        "string": "Site map"
+    "variables.mode_properties_panel.local_variables.subheading": {
+        "string": "ローカルバリアブル"
     },
-    "community.footer.community_guidelines": {
-        "string": "Community guidelines"
+    "variables.mode_properties_panel.select.option.auto": {
+        "string": "自動"
     },
-    "community.footer.terms_of_service": {
-        "string": "Terms of service"
+    "variables.mode_properties_panel.select.option.auto_with_name": {
+        "string": "自動({modeName})"
     },
-    "community.footer.popular_searches": {
-        "string": "Popular searches"
+    "variables.mode_properties_panel.select.option.default_with_name": {
+        "string": "デフォルト({modeName})"
     },
-    "community.footer.resume": {
-        "string": "Resume templates"
+    "variables.mode_properties_panel.select.option.deleted": {
+        "string": "削除されたモード"
     },
-    "community.footer.mobile_apps": {
-        "string": "Mobile apps"
+    "variables.mode_properties_panel.select.option.mixed": {
+        "string": "混合"
     },
-    "community.footer.presentations": {
-        "string": "Presentation templates"
+    "variables.mode_properties_panel.used_variables.subheading": {
+        "string": "使用バリアブル"
     },
-    "community.footer.ui_kits": {
-        "string": "UI kits"
+    "variables.modes.option.learn_more": {
+        "string": "詳細情報"
     },
-    "community.footer.standup_template": {
-        "string": "Standup templates"
+    "variables.modes.option.review_updates": {
+        "string": "更新を確認"
     },
-    "community.footer.most_used": {
-        "string": "Most used"
+    "variables.scopes.all_fills": {
+        "string": "塗り"
     },
-    "community.footer.top_collections": {
-        "string": "Top collections"
+    "variables.scopes.all_properties": {
+        "string": "サポートされているプロパティのすべてで表示"
     },
-    "community.collections.instagram_templates": {
-        "string": "Instagram templates"
+    "variables.scopes.all_properties_color_description": {
+        "string": "「すべてで表示」を選択すると、今後公開されるものも含め、すべてのカラープロパティでこのバリアブルが表示されます。"
     },
-    "community.collections.landing_page": {
-        "string": "Landing page"
+    "variables.scopes.all_properties_number_description": {
+        "string": "「すべてで表示」を選択すると、今後公開されるものを含め、すべての数字プロパティでこのバリアブルが表示されます。"
     },
-    "community.collections.email_design_inspiration": {
-        "string": "Email design inspiration"
+    "variables.scopes.all_properties_string_description": {
+        "string": "「すべてで表示」を選択すると、今後公開されるものを含め、すべての文字列プロパティにこのバリアブルが表示されます"
     },
-    "community.collections.laptop_mockups": {
-        "string": "Laptop mockups"
+    "variables.scopes.auto_layout": {
+        "string": "(オートレイアウト)"
     },
-    "community.collections.arrow_designs": {
-        "string": "Arrow designs"
+    "variables.scopes.color_scoping_header": {
+        "string": "カラーの適用範囲"
     },
-    "community.footer.top_categories": {
-        "string": "Top categories"
+    "variables.scopes.corner_radius": {
+        "string": "角の半径"
     },
-    "categories.design_templates": {
-        "string": "Design templates"
+    "variables.scopes.effects": {
+        "string": "エフェクト"
     },
-    "categories.libraries": {
-        "string": "Libraries"
+    "variables.scopes.font_family": {
+        "string": "フォントファミリー"
     },
-    "categories.icons": {
-        "string": "Icons"
+    "variables.scopes.font_size": {
+        "string": "フォントサイズ"
     },
-    "categories.development": {
-        "string": "Development"
+    "variables.scopes.font_weight": {
+        "string": "フォントの太さ"
     },
-    "categories.brainstorming": {
-        "string": "Brainstorming"
+    "variables.scopes.font_weight_or_style": {
+        "string": "フォントの太さまたはスタイル"
     },
-    "community.landing_page.load_more": {
-        "string": "Load more"
+    "variables.scopes.frame_fill": {
+        "string": "フレーム"
     },
-    "community.categories.inspiration": {
-        "string": "Inspiration"
+    "variables.scopes.gap": {
+        "string": "間隔"
     },
-    "community.categories.team_syncs": {
-        "string": "Team syncs"
+    "variables.scopes.layer_opacity": {
+        "string": "レイヤー不透明度"
     },
-    "community.categories.design_systems": {
-        "string": "Design systems"
+    "variables.scopes.letter_spacing": {
+        "string": "文字間隔"
     },
-    "categories.design_systems_subheader": {
-        "string": "Find tools to help you build and manage your design system."
+    "variables.scopes.line_height": {
+        "string": "行間"
     },
-    "community.categories.visual_assets": {
-        "string": "Visual assets"
+    "variables.scopes.number_scoping_header": {
+        "string": "数字の適用範囲"
     },
-    "categories.visual_assets_subheader": {
-        "string": "Complement your creative projects with these high-quality icons, illustrations, photos, and patterns."
+    "variables.scopes.paragraph_indent": {
+        "string": "段落インデント"
     },
-    "community.categories.development": {
-        "string": "Development"
+    "variables.scopes.paragraph_spacing": {
+        "string": "段落間隔"
     },
-    "categories.development_subheader": {
-        "string": "Simplify the handoff process with these developer-friendly tools and templates."
+    "variables.scopes.shape_fill": {
+        "string": "シェイプ"
     },
-    "categories.accessibility": {
-        "string": "Accessibility"
+    "variables.scopes.string_scoping_header": {
+        "string": "文字列のスコープ設定"
     },
-    "categories.accessibility_subheader": {
-        "string": "Ensure your designs empower all users with these accessibility plugins and tools."
+    "variables.scopes.stroke": {
+        "string": "線"
     },
-    "categories.brainstorming_subheader": {
-        "string": "Discover your next great idea with these brainstorming templates, charts, and tools curated to fuel creativity and collaboration."
+    "variables.scopes.text_content": {
+        "string": "テキストコンテンツ"
     },
-    "categories.classroom_activities": {
-        "string": "Classroom activities"
+    "variables.scopes.text_fill": {
+        "string": "テキスト"
     },
-    "categories.classroom_activities_subheader": {
-        "string": "Explore educational classroom activities and lesson plan templates you can easily use."
+    "variables.scopes.width_height": {
+        "string": "幅と高さ"
     },
-    "community.categories.design_templates": {
-        "string": "Design templates"
+    "variables.type.boolean": {
+        "string": "ブーリアン"
     },
-    "categories.design_templates_subheader": {
-        "string": "Find design templates for all of your graphic design, web design, and mobile interface design needs."
+    "variables.type.color": {
+        "string": "カラー"
     },
-    "community.categories.design_tools": {
-        "string": "Design tools"
+    "variables.type.font_style": {
+        "string": "フォントスタイル"
     },
-    "categories.design_tools_subheader": {
-        "string": "Whether you're sketching wireframes, fine-tuning color palettes, or prototyping user interfaces, find the tools you need to empower your design process."
+    "variables.type.map": {
+        "string": "マップ"
     },
-    "categories.desktop_apps_websites": {
-        "string": "Desktop apps & websites"
+    "variables.type.number": {
+        "string": "数値"
     },
-    "categories.desktop_apps_websites_subheader": {
-        "string": "Elevate your digital presence with these desktop app and web design templates."
+    "variables.type.string": {
+        "string": "文字列"
     },
-    "categories.diagramming": {
-        "string": "Diagramming"
+    "variables.type.string.default_value": {
+        "string": "文字列値"
     },
-    "categories.diagramming_subheader": {
-        "string": "Explore diagramming and chart templates, designed to help you visualize ideas with ease."
+    "variables.type.symbolid": {
+        "string": "コンポーネント"
     },
-    "categories.editing_effects": {
-        "string": "Editing & effects"
+    "variables.type.text_data": {
+        "string": "テキストデータ"
     },
-    "categories.editing_effects_subheader": {
-        "string": "Whether you're fine-tuning details or adding striking visual effects, these tools will empower you to create stunning designs with ease."
+    "variables.values.boolean.false": {
+        "string": "False"
     },
-    "community.categories.education": {
-        "string": "Education"
+    "variables.values.boolean.true": {
+        "string": "True"
     },
-    "categories.education_subheader": {
-        "string": "From lesson plans to fun activities, use these educational templates on your own or in the classroom."
+    "variables.variable_collection": {
+        "string": "バリアブルコレクション"
     },
-    "categories.file_organization": {
-        "string": "File organization"
+    "variables.variable_collection_default_name": {
+        "string": "コレクション"
     },
-    "categories.file_organization_subheader": {
-        "string": "Level up your workflow with file organization tools like design documentation templates, section sorters, and more."
+    "variables.variable_collection_extension_default_name": {
+        "string": "拡張コレクション"
     }
 }

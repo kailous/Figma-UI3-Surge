@@ -1,152 +1,152 @@
 {
-    "activity_log.filter.fig_file_set_password": {
-        "string": "File password set"
+    "search.preview_section.all_files": {
+        "string": "すべてのファイル"
     },
-    "activity_log.filter.fig_file_unset_password": {
-        "string": "File password unset"
+    "search.preview_section.all_resources": {
+        "string": "すべてのタイプ"
     },
-    "activity_log.filter.renamed_a_file": {
-        "string": "Renamed a file"
+    "search.preview_section.community_capitalized": {
+        "string": "コミュニティ"
     },
-    "activity_log.filter.saved_a_file": {
-        "string": "Saved a file"
+    "search.preview_section.creator": {
+        "string": "作成者"
     },
-    "activity_log.filter.trashed_a_file": {
-        "string": "Trashed a file"
+    "search.preview_section.files_capitalized": {
+        "string": "ファイル"
     },
-    "activity_log.filter.viewed_a_file": {
-        "string": "Viewed a file"
+    "search.preview_section.orgs_capitalized": {
+        "string": "組織"
     },
-    "activity_log.filter.viewed_a_prototype": {
-        "string": "Viewed a prototype"
+    "search.preview_section.people_capitalized": {
+        "string": "ユーザー"
     },
-    "activity_log.filter.open_sessions_start": {
-        "string": "Open session started"
+    "search.preview_section.plugins_capitalized": {
+        "string": "プラグイン"
     },
-    "activity_log.filter.open_sessions_end": {
-        "string": "Open session ended"
+    "search.preview_section.projects_capitalized": {
+        "string": "プロジェクト"
     },
-    "activity_log.filter.projects": {
-        "string": "Projects"
+    "search.preview_section.recent": {
+        "string": "最近"
     },
-    "activity_log.filter.created_a_project": {
-        "string": "Created a project"
+    "search.preview_section.see_all_results": {
+        "string": "結果をすべて表示"
     },
-    "activity_log.filter.deleted_a_project": {
-        "string": "Deleted a project"
+    "search.preview_section.see_more_files": {
+        "string": "{numResults, plural, other {さらに{numResults}個のファイルを表示}}"
     },
-    "activity_log.filter.project_membership_changed": {
-        "string": "Project membership changed"
+    "search.preview_section.see_more_hub_files": {
+        "string": "{numResults, plural, other {さらに{numResults}個のコミュニティファイルを表示}}"
     },
-    "activity_log.filter.moved_a_project": {
-        "string": "Moved a project"
+    "search.preview_section.see_more_plugins": {
+        "string": "{numResults, plural, other {さらに{numResults}個のプラグインを表示}}"
     },
-    "activity_log.filter.renamed_a_project": {
-        "string": "Renamed a project"
+    "search.preview_section.see_more_projects": {
+        "string": "{numResults, plural, other {さらに{numResults}個のプロジェクトを表示}}"
     },
-    "activity_log.filter.changed_the_team_access_of_a_project": {
-        "string": "Changed the team access of a project"
+    "search.preview_section.see_more_teams": {
+        "string": "{numResults, plural, other {さらに{numResults}個のチームを表示}}"
     },
-    "activity_log.filter.outgoing_transfers": {
-        "string": "Outgoing transfers"
+    "search.preview_section.see_more_users": {
+        "string": "{numResults, plural, other {さらに{numResults}人のユーザーを表示}}"
     },
-    "activity_log.filter.incoming_transfers": {
-        "string": "Incoming transfers"
+    "search.preview_section.teams_capitalized": {
+        "string": "チーム"
     },
-    "activity_log.filter.teams": {
-        "string": "Teams"
+    "search.recents": {
+        "string": "最近"
     },
-    "activity_log.filter.created_a_team": {
-        "string": "Created a team"
+    "search.search_bar.clear": {
+        "string": "クリア"
     },
-    "activity_log.filter.deleted_a_team": {
-        "string": "Deleted a team"
+    "search.search_bar.placeholder": {
+        "string": "何でも検索"
     },
-    "activity_log.filter.restored_a_team": {
-        "string": "Restored a team"
+    "search.search_filter.all_org_results": {
+        "string": "{orgName}全体"
     },
-    "activity_log.filter.team_membership_changed": {
-        "string": "Team membership changed"
+    "search.search_filter.all_organizations_results": {
+        "string": "すべての組織"
     },
-    "activity_log.filter.renamed_a_team": {
-        "string": "Renamed a team"
+    "search.search_filter.non_org_teams": {
+        "string": "外部チーム"
     },
-    "activity_log.filter.changed_the_org_access_of_a_team": {
-        "string": "Changed the org access of a team"
+    "search.search_model_type.empty_state_creators": {
+        "string": "一致する作成者がいません"
     },
-    "activity_log.filter.changed_the_workspace_of_a_team": {
-        "string": "Changed the workspace of a team"
+    "search.search_model_type.empty_state_files": {
+        "string": "一致するファイルがありません"
     },
-    "activity_log.filter.changed_team_creation_controls": {
-        "string": "Changed team creation setting"
+    "search.search_model_type.empty_state_hub_files": {
+        "string": "一致するファイルがありません"
     },
-    "activity_log.filter.organizations": {
-        "string": "Organizations"
+    "search.search_model_type.empty_state_people": {
+        "string": "一致するユーザーがいません"
     },
-    "activity_log.filter.org_merged": {
-        "string": "Org merged"
+    "search.search_model_type.empty_state_private_plugins": {
+        "string": "一致するプラグインがありません"
     },
-    "activity_log.filter.org_membership_changed": {
-        "string": "Org membership changed"
+    "search.search_model_type.empty_state_private_widgets": {
+        "string": "一致するウィジェットがありません"
     },
-    "activity_log.filter.upgrade_requests_and_activity": {
-        "string": "Upgrade requests and activity"
+    "search.search_model_type.empty_state_projects": {
+        "string": "一致するプロジェクトがありません"
     },
-    "activity_log.filter.org_role_changed.seat_rename": {
-        "string": "Org seat type changed"
+    "search.search_model_type.empty_state_public_plugins": {
+        "string": "一致するプラグインがありません"
     },
-    "activity_log.filter.exported_the_members_list": {
-        "string": "Exported the members list"
+    "search.search_model_type.empty_state_public_widgets": {
+        "string": "一致するウィジェットがありません"
     },
-    "activity_log.filter.exported_the_org_team_list": {
-        "string": "Exported the organization team list"
+    "search.search_model_type.empty_state_teams": {
+        "string": "一致するチームがありません"
     },
-    "activity_log.filter.exported_the_workspace_team_list": {
-        "string": "Exported the workspace team list"
+    "search.search_model_type.search_error": {
+        "string": "問題が発生しました。\n後でもう一度検索してみてください。"
     },
-    "activity_log.filter.org_invite_created": {
-        "string": "Org invite created"
+    "search.search_model_type_header.creators": {
+        "string": "作成者"
     },
-    "activity_log.filter.cursor_chat_setting_change": {
-        "string": "Cursor chat enabled/disabled"
+    "search.search_model_type_header.files": {
+        "string": "ファイル"
     },
-    "activity_log.filter.idle_timeout_setting_change": {
-        "string": "Idle session timeout changed"
+    "search.search_model_type_header.hub_files": {
+        "string": "ファイル"
     },
-    "activity_log.filter.configurable_upgrade_request_flow_changed": {
-        "string": "Upgrade request flow changed"
+    "search.search_model_type_header.people": {
+        "string": "ユーザー"
     },
-    "activity_log.filter.scim_token_generated_revoked": {
-        "string": "SCIM token generated/revoked"
+    "search.search_model_type_header.private_plugins": {
+        "string": "プラグイン"
     },
-    "activity_log.filter.slides_setting_change": {
-        "string": "Figma Slides enabled/disabled"
+    "search.search_model_type_header.private_widgets": {
+        "string": "ウィジェット"
     },
-    "activity_log.filter.changed_workspace_public_link_setting": {
-        "string": "Changed workspace public link setting"
+    "search.search_model_type_header.projects": {
+        "string": "プロジェクト"
     },
-    "activity_log.filter.libraries": {
-        "string": "Libraries"
+    "search.search_model_type_header.public_plugins": {
+        "string": "プラグイン"
     },
-    "activity_log.filter.org_library_setting_changed": {
-        "string": "Org library setting changed"
+    "search.search_model_type_header.public_widgets": {
+        "string": "ウィジェット"
     },
-    "activity_log.filter.workspace_library_approval_changed": {
-        "string": "Workspace library approval changed"
+    "search.search_model_type_header.teams": {
+        "string": "チーム"
     },
-    "activity_log.filter.org_library_approval_changed": {
-        "string": "Org library approval changed"
+    "search.search_results": {
+        "string": "検索結果"
     },
-    "activity_log.filter.users": {
-        "string": "Users"
+    "search.search_results_for": {
+        "string": "検索結果"
     },
-    "activity_log.filter.user_session_timed_out": {
-        "string": "Idle session timeouts"
+    "search.search_scope.community": {
+        "string": "コミュニティ"
     },
-    "activity_log.filter.user_signed_in_signed_out": {
-        "string": "User signed in/signed out"
+    "search.search_scope.personal": {
+        "string": "ドラフトとチーム"
     },
-    "activity_log.filter.community": {
-        "string": "Community"
+    "search.sidebar_search_clear": {
+        "string": "クリア"
     }
 }

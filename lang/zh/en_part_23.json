@@ -1,152 +1,152 @@
 {
-    "search.invalid_search_endpoint_result": {
-        "string": "Invalid search endpoint result"
+    "auth.two-factor-setup.click_here_to_scan_a_qr_code_instead": {
+        "string": "点击此处改为扫描QR码"
     },
-    "shared_fonts.importing_font_files": {
-        "string": "Importing font files…"
+    "auth.two-factor-setup.close": {
+        "string": "关闭"
     },
-    "shared_fonts.uploads_remaining": {
-        "string": "Importing {processedFileCount} of {totalFileCount} font files…"
+    "auth.two-factor-setup.code_resent": {
+        "string": "代码已重新发送"
     },
-    "shared_fonts.import_complete_with_no_errors": {
-        "string": "Shared font import complete"
+    "auth.two-factor-setup.configure-sms": {
+        "string": "配置"
     },
-    "shared_fonts.import_complete_with_errors": {
-        "string": "{unsuccessfulUploadCount, plural, one {Shared font import complete with {unsuccessfulUploadCount} error} other {Shared font import complete with {unsuccessfulUploadCount} errors}}"
+    "auth.two-factor-setup.connect_authenticator_app": {
+        "string": "连接身份验证器应用..."
     },
-    "shared_fonts.review_font_upload_errors": {
-        "string": "Review"
+    "auth.two-factor-setup.connect_cell_phone_number": {
+        "string": "连接手机号码"
     },
-    "shared_fonts.unsuccessful_deletes": {
-        "string": "{totalDeletes, plural, one {Unable to delete {numUnsuccessfulDeletes} of {totalDeletes} font} other {Unable to delete {numUnsuccessfulDeletes} of {totalDeletes} fonts}}"
+    "auth.two-factor-setup.connected_cell_phone_number_tfa_phone_number": {
+        "string": "已连接手机号码：{phoneNumber}"
     },
-    "shared_fonts.successful_deletes": {
-        "string": "{totalDeletes, plural, one {Deleted {totalDeletes} font} other {Deleted {totalDeletes} fonts}}"
+    "auth.two-factor-setup.continue": {
+        "string": "继续"
     },
-    "fig_feed.too_many_content_items": {
-        "string": "A feed post can have at most {maxNum} content items"
+    "auth.two-factor-setup.continue-to-recovery-code-setup": {
+        "string": "继续显示恢复码并设置恢复电话"
     },
-    "visual_bell.multiplayer_cursors_hidden": {
-        "string": "Multiplayer cursors hidden"
+    "auth.two-factor-setup.continue_to_recovery_codes": {
+        "string": "显示恢复码"
     },
-    "visual_bell.multiplayer_cursors_visible": {
-        "string": "Multiplayer cursors visible"
+    "auth.two-factor-setup.disable-authenticator-app": {
+        "string": "禁用"
     },
-    "visual_bell.show_frame_grids_visible": {
-        "string": "Layout grids visible"
+    "auth.two-factor-setup.disable_two_factor_auth": {
+        "string": "禁用两因素认证"
     },
-    "visual_bell.show_frame_grids_hide_button": {
-        "string": "Hide"
+    "auth.two-factor-setup.download_mobile_app": {
+        "string": "下载移动应用"
     },
-    "visual_bell.show_frame_grids_hidden": {
-        "string": "Layout grids hidden"
+    "auth.two-factor-setup.duo_mobile": {
+        "string": "Duo Mobile"
     },
-    "auth.sign-in-success": {
-        "string": "Authenticated as {email}"
+    "auth.two-factor-setup.enable_two_factor_authentication": {
+        "string": "启用两因素认证"
     },
-    "auth.error.magic-link-server-validation-error": {
-        "string": "Request cannot be validated."
+    "auth.two-factor-setup.enter-code-from-app": {
+        "string": "输入应用生成的6位数验证码："
     },
-    "auth.sso-gate.invalid-session": {
-        "string": "Session expired or invalid"
+    "auth.two-factor-setup.enter-phone-number": {
+        "string": "输入一个电话号码以通过短信接收验证码"
     },
-    "auth.reset-password.password-retype-error": {
-        "string": "These passwords don't match. Try again?"
+    "auth.two-factor-setup.error.generic-confirm-phone-number": {
+        "string": "确认电话号码时出错"
     },
-    "auth.validate-code.enter-code-message": {
-        "string": "Please enter a code"
+    "auth.two-factor-setup.error.generic-confirm-totp": {
+        "string": "确认验证码时出错。请再试一次。"
     },
-    "auth.default-error": {
-        "string": "An error occurred"
+    "auth.two-factor-setup.error.generic-delete-phone-number": {
+        "string": "删除电话号码时出错"
     },
-    "auth.validate-code.code-resent-check-email": {
-        "string": "The code has been resent. Please check your email."
+    "auth.two-factor-setup.error.generic-disable-two-factor": {
+        "string": "禁用两因素认证时出错"
     },
-    "auth.validate-code.code-resend-error": {
-        "string": "An error occurred resending the code"
+    "auth.two-factor-setup.error.generic-get-recovery-codes": {
+        "string": "获取两因素恢复码时出错"
     },
-    "auth.sign-up.confirmation-email-error": {
-        "string": "An error occurred while sending the confirmation email."
+    "auth.two-factor-setup.error.generic-reset-recovery-codes": {
+        "string": "重置两因素恢复码时出错"
     },
-    "desktop_bindings.visual_bell.redeem_app_auth_error": {
-        "string": "An error has occurred. Please try again."
+    "auth.two-factor-setup.error.generic-setup-totp": {
+        "string": "设置两因素认证时出错"
     },
-    "desktop_bindings.visual_bell.summary_link_copied": {
-        "string": "Link copied…"
+    "auth.two-factor-setup.google_authenticator": {
+        "string": "Google Authenticator"
     },
-    "desktop_bindings.interstitial.frame_link_copied": {
-        "string": "Frame link copied to clipboard"
+    "auth.two-factor-setup.ok": {
+        "string": "确定"
     },
-    "desktop_bindings.interstitial.section_link_copied": {
-        "string": "Section link copied to clipboard"
+    "auth.two-factor-setup.phone-number-opt-in": {
+        "string": "提供您的电话号码即表示您同意接收Figma的短信以启用登录时的两因素认证。可能会收取短信费用和数据费用。"
     },
-    "desktop_bindings.interstitial.page_link_copied": {
-        "string": "Page link copied to clipboard"
+    "auth.two-factor-setup.phone-number-placeholder": {
+        "string": "电话号码，例如：+1 555 4443333"
     },
-    "copy_to_clipboard.slides.link_to_slide_copied_to_clipboard": {
-        "string": "Link to \"Slide {name}\" copied to clipboard"
+    "auth.two-factor-setup.phone-number-setup-enabled-info": {
+        "string": "将电话号码设置为{phoneNumber}。登录时将生成发送到此号码的验证码。"
     },
-    "desktop_bindings.visual_bell.slide_deck_link_copied": {
-        "string": "Slide deck link copied to clipboard"
+    "auth.two-factor-setup.please_wait": {
+        "string": "请稍候..."
     },
-    "desktop_bindings.visual_bell.file_link_copied": {
-        "string": "File link copied to clipboard"
+    "auth.two-factor-setup.recovery-code-explanation": {
+        "string": "如果您丢失了电话，请使用此码登录。当提示输入验证码时使用这些码。每个码只能使用一次。"
     },
-    "file_browser.file_move.import": {
-        "string": "Import"
+    "auth.two-factor-setup.recovery_codes": {
+        "string": "恢复码"
     },
-    "file_browser.file_browser_actions.file_delete_error": {
-        "string": "An error occurred while deleting these files."
+    "auth.two-factor-setup.regenerate_codes": {
+        "string": "重新生成码"
     },
-    "file_browser.file_browser_actions.branch_archived": {
-        "string": "Branch archived"
+    "auth.two-factor-setup.remove-app-with-sms-two-factor-on": {
+        "string": "尝试关闭基于应用的两因素认证，但基于短信的两因素认证仍然开启。"
     },
-    "general.undo": {
-        "string": "Undo"
+    "auth.two-factor-setup.remove-number-with-app-two-factor-on": {
+        "string": "尝试删除电话号码，但基于应用的两因素认证仍然开启。"
     },
-    "file_browser.file_browser_actions.branch_deleted": {
-        "string": "Branch deleted"
+    "auth.two-factor-setup.resend_code": {
+        "string": "重新发送代码"
     },
-    "file_browser.file_browser_actions.files_trashed": {
-        "string": "{numFiles, plural, one {File moved to trash} other {{numFiles} files moved to trash}}"
+    "auth.two-factor-setup.resend_verification_email": {
+        "string": "重新发送验证邮件"
     },
-    "file_browser.file_browser_actions.files_deleted": {
-        "string": "{numFiles, plural, one {File deleted} other {{numFiles} files deleted}}"
+    "auth.two-factor-setup.scan_qr_code": {
+        "string": "扫描QR码"
     },
-    "file_browser.file_browser_actions.files_deleted_forever": {
-        "string": "{numFiles, plural, one {File deleted forever} other {{numFiles} files deleted forever}}"
+    "auth.two-factor-setup.scan_the_qr_code_into_your_app": {
+        "string": "将QR码扫描到您的应用中"
     },
-    "file_browser.file_browser_actions.branch_archive_error": {
-        "string": "An error occurred while archiving this branch"
+    "auth.two-factor-setup.send_me_an_sms_instead": {
+        "string": "改为发送短信"
     },
-    "file_browser.file_browser_actions.branch_delete_error": {
-        "string": "An error occurred while deleting this branch"
+    "auth.two-factor-setup.set_up_two_factor_authentication": {
+        "string": "设置两因素认证"
     },
-    "collaboration.branching.error_restoring_branches": {
-        "string": "{branchCount, plural, one {An error occurred while restoring this branch.} other {An error occurred while restoring these branches.}}"
+    "auth.two-factor-setup.show_recovery_codes": {
+        "string": "显示恢复码"
     },
-    "file_browser.file_browser_actions.file_restore_error": {
-        "string": "An error occurred while restoring these files."
+    "auth.two-factor-setup.sms-sent-message": {
+        "string": "已将短信发送到{phoneNumber}。请稍候，等待短信发送。发送后请输入下方的验证码。"
     },
-    "file_browser.file_browser_actions.branch_restored": {
-        "string": "Branch restored"
+    "auth.two-factor-setup.sms_settings": {
+        "string": "短信设置"
     },
-    "file_browser.file_browser_actions.files_restored_success": {
-        "string": "{numFiles, plural, one {File restored} other {{numFiles} files restored}}"
+    "auth.two-factor-setup.sms_two_factor_authentication": {
+        "string": "短信两因素认证"
     },
-    "file_browser.file_browser_actions.version_update_error": {
-        "string": "An error occurred while updating this version."
+    "auth.two-factor-setup.sms_two_factor_authentication_is_enabled": {
+        "string": "短信两因素认证已启用"
     },
-    "file_browser.file_browser_actions.version_restore_error": {
-        "string": "An error occurred while restoring this version."
+    "auth.two-factor-setup.this_will_disable_two_factor_authentication_entirely": {
+        "string": "这将完全禁用两因素认证"
     },
-    "team_delete_modal.post_delete_flash": {
-        "string": "You have deleted the team {teamName}"
+    "auth.two-factor-setup.two_factor_authentication_enabled": {
+        "string": "两因素认证已启用！"
     },
-    "leave_team_modal.post_leave_flash": {
-        "string": "You have left the {teamName} team"
+    "auth.two-factor-setup.two_factor_authentication_is_enabled": {
+        "string": "两因素认证已启用"
     },
-    "api_user.error.an_error_occurred_while_updating_your_information": {
-        "string": "An error occurred while updating your information"
+    "auth.two-factor-setup.two_factor_recovery_codes": {
+        "string": "两因素恢复码"
     }
 }

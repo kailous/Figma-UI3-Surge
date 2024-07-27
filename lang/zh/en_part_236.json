@@ -1,152 +1,152 @@
 {
-    "rcs.upsell_libraries.see_plans": {
-        "string": "See plans"
+    "org_upgrade.action_text.request_upgrade_instructions": {
+        "string": "需要联系管理员升级账户"
     },
-    "rcs.upsell_libraries.not_now": {
-        "string": "Not now"
+    "org_upgrade.action_text.request_upgrade_instructions_from_project_view": {
+        "string": "请联系管理员升级为付费席位"
     },
-    "fullscreen.link_shortcuts_onboarding.description": {
-        "string": "We've changed the shortcut for adding links to text:"
+    "org_upgrade.action_text.teams": {
+        "string": "要创建团队，请{requestUpgradeInstructions}。"
     },
-    "fullscreen.link_shortcuts_onboarding.show_actions_updated": {
-        "string": "{actionsKeyCommand} now opens actions"
+    "org_upgrade.drafts": {
+        "string": "草稿"
     },
-    "fullscreen.link_shortcuts_onboarding.show_links_updated": {
-        "string": "{link} is now {linkKeyCommand}"
+    "org_upgrade.request_upgrade": {
+        "string": "申请升级"
     },
-    "fullscreen.link_shortcuts_onboarding.create_link": {
-        "string": "Create link"
+    "request_upgrade.action_text.dev_mode_need_request": {
+        "string": "需要申请开发模式席位的访问权限。审批管理员:"
     },
-    "fullscreen.link_shortcuts_onboarding.title": {
-        "string": "New keyboard shortcuts"
+    "request_upgrade.action_text.dev_mode_need_request_admin": {
+        "string": "需要开发模式席位。"
     },
-    "fullscreen.link_shortcuts_onboarding.got_it": {
-        "string": "Got it"
+    "request_upgrade.admin_names_list": {
+        "string": "{numRestOfAdmins, plural, other {{firstAdminName}、{secondAdminName}和其他{numRestOfAdmins}名管理员}}"
     },
-    "design_systems.assets_panel.drag_drop_component_draft": {
-        "string": "Drag and drop components from your assets panel to reuse them in this draft."
+    "request_upgrade.as_an_admin_you_can_upgrade_yourself": {
+        "string": "管理员可以自行升级。"
     },
-    "design_systems.assets_panel.drag_drop_component": {
-        "string": "Drag and drop components from your assets panel to reuse them in this file."
+    "request_upgrade.bolded_instructions": {
+        "string": "添加备注"
     },
-    "design_systems.assets_panel.got_it": {
-        "string": "Got it"
+    "request_upgrade.cancel_button": {
+        "string": "取消"
     },
-    "mobile_download_prompts.never_miss_a_comment": {
-        "string": "Never miss a comment"
+    "request_upgrade.description_dev_mode_grace_period": {
+        "string": "将开发模式申请发送给团队管理员。在等待审批期间，您可以免费使用开发模式最多{numDays}天。"
     },
-    "mobile_download_prompts.scan_the_qr_code": {
-        "string": "Scan the QR code to download the Figma mobile app and stay up to date with your team’s comments as soon as they are posted"
+    "request_upgrade.done": {
+        "string": "完成"
     },
-    "fullscreen.outline_shortcuts_onboarding.changed_shortcuts": {
-        "string": "We’ve changed a couple of shortcuts:"
+    "request_upgrade.instruction_all_admins": {
+        "string": "点击{boldedRequestUpgrade}，申请将发送给组织的管理员。"
     },
-    "fullscreen.outline_shortcuts_onboarding.changed_outline_shortcuts": {
-        "string": "We’ve changed a couple of shortcuts related to outlines:"
+    "request_upgrade.instruction_selectable_admins": {
+        "string": "请从下方选择一个或多个管理员，然后点击{boldedRequestUpgrade}。"
     },
-    "fullscreen.outline_shortcuts_onboarding.show_outlines_updated": {
-        "string": "{showOutlines} is now {showOutlinesKeyCommand}"
+    "request_upgrade.instruction_single_admin": {
+        "string": "点击{boldedRequestUpgrade}，申请将发送给下方的管理员。"
     },
-    "fullscreen.outline_shortcuts_onboarding.show_outlines": {
-        "string": "Show outlines"
+    "request_upgrade.instruction_text_header": {
+        "string": "{boldedInstructions}（可选）"
     },
-    "fullscreen.outline_shortcuts_onboarding.outline_stroke_updated": {
-        "string": "{outlineStroke} is now {outlineStrokeKeyCommand}"
+    "request_upgrade.message_input_placeholder_instructions": {
+        "string": "告诉管理员您需要升级的原因。"
     },
-    "fullscreen.outline_shortcuts_onboarding.outline_stroke": {
-        "string": "Outline stroke"
+    "request_upgrade.message_input_placeholder_instructions_single_admin": {
+        "string": "告诉管理员您需要升级的原因。"
     },
-    "fullscreen.outline_shortcuts_onboarding.team_library_updated": {
-        "string": "{teamLibrary} is now only {teamLibraryKeyCommand}"
+    "request_upgrade.modal.error": {
+        "string": "显示升级申请模态框时发生错误。"
     },
-    "fullscreen.outline_shortcuts_onboarding.team_library": {
-        "string": "Team library"
+    "request_upgrade.no_admins_selected_error": {
+        "string": "请选择至少一名管理员"
     },
-    "fullscreen.outline_shortcuts_onboarding.opt_out_options": {
-        "string": "If you’d like, you can keep using the old shortcuts—and you can change this anytime, by going to your preferences."
+    "request_upgrade.reminder_sent": {
+        "string": "已发送提醒"
     },
-    "fullscreen.outline_shortcuts_onboarding.title": {
-        "string": "New keyboard shortcuts"
+    "request_upgrade.request_submitted": {
+        "string": "申请已提交"
     },
-    "fullscreen.outline_shortcuts_onboarding.got_it": {
-        "string": "Got it"
+    "request_upgrade.select_all": {
+        "string": "全选"
     },
-    "fullscreen.outline_shortcuts_onboarding.keep_old_shortcuts": {
-        "string": "Keep old shortcuts"
+    "request_upgrade.send_request_button": {
+        "string": "发送申请"
     },
-    "comments.pinning.pinned_comments_always_show_up_first_great_for_a_project_intro_or_important_info": {
-        "string": "Pinned comments always show up first—great for a project intro or important info."
+    "request_upgrade.send_request_button_already_requested": {
+        "string": "已申请"
     },
-    "comments.pinning.feedback_giver_callout": {
-        "string": "Use these arrows to move through pinned comments."
+    "request_upgrade.title_admin_dev_mode": {
+        "string": "自行升级开发模式席位"
     },
-    "whiteboard.section_presets_onboarding.picker_callout.title": {
-        "string": "Try a template"
+    "request_upgrade.title_admin_figjam": {
+        "string": "自行升级FigJam席位"
     },
-    "whiteboard.section_presets_onboarding.picker_callout.description": {
-        "string": "Click here for a whole suite of templates, from ice breakers to brainstorms (and more)."
+    "request_upgrade.title_admin_figma": {
+        "string": "自行升级Figma设计席位"
     },
-    "ui3_and_ai_callouts.exit_ui3_ai.title": {
-        "string": "Looking for the old design?"
+    "request_upgrade.title_figjam": {
+        "string": "申请升级FigJam"
     },
-    "ui3_and_ai_callouts.exit_ui3_ai.description": {
-        "string": "You can go back, here. Heads up: you won’t see AI features."
+    "request_upgrade.title_figma": {
+        "string": "申请升级Figma设计"
     },
-    "ui3_and_ai_callouts.exit_ui3.title": {
-        "string": "Looking for the old design?"
+    "request_upgrade.title_request_access_to_dev": {
+        "string": "申请访问开发模式"
     },
-    "ui3_and_ai_callouts.exit_ui3.description": {
-        "string": "Open this menu, then click {back_to_old_design_option}"
+    "request_upgrade.upgrade_button": {
+        "string": "升级"
     },
-    "ui3_and_ai_callouts.exit_ui3.back_to_old_design_option": {
-        "string": "Go back to previous UI."
+    "request_upgrade.we_ve_send_a_reminder_to_your_admins_we_ll_let_you_know_when_your_upgrade_request_is_approved": {
+        "string": "已向您的管理员发送提醒。升级申请批准后，我们会通知您。"
     },
-    "rcs.chrome_version.if_you_have_any_questions_please_email_us_at": {
-        "string": "If you have any questions, please email us at {figmaSupportEmail}."
+    "request_upgrade.we_ve_submitted_your_request_for_a_full_paid_seat_to_your_admins_and_will_notify_you_when_it_s_approved": {
+        "string": "已向管理员提交了您的付费全席位申请。批准后我们会通知您。"
     },
-    "rcs.chrome_version.please_update_your_browser_to_avoid_losing_work": {
-        "string": "Please update your browser to avoid losing work."
+    "request_upgrade.which_admin_prompt": {
+        "string": "请选择此申请的管理员"
     },
-    "rcs.chrome_version.the_version_of_chrome_you_are_using_has_a_networking_issue_which_may_prevent_you_from_saving_your_work_please_upgrade_your_browser_to_version_77_0_3865_120_or_greater_to_avoid_any_issues": {
-        "string": "The version of Chrome you are using has a networking issue which may prevent you from saving your work. Please {upgradeYourBrowser} to version 77.0.3865.120 or greater to avoid any issues."
+    "org_self_serve.billing_items.total_figjam_editor_cost.seat_rename": {
+        "string": "{totalFigJamEditorSeatsCount, plural, other {{annualMemberCost} × {totalFigJamEditorSeatsCount}个FigJam席位 × 12个月（仅限年费）}}"
     },
-    "rcs.chrome_version.upgrade_your_browser": {
-        "string": "upgrade your browser"
+    "org_self_serve.billing_items.total_figma_design_editor_cost.seat_rename": {
+        "string": "{totalDesignSeatsCount, plural, other {{annualMemberCost} × {totalDesignSeatsCount}个设计席位 × 12个月（仅限年费）}}"
     },
-    "rcs.chrome_version.please_update_chrome_os_to_avoid_losing_work": {
-        "string": "Please update ChromeOS to avoid losing work."
+    "org_self_serve.billing_items.total_figma_design_editor_with_dev_mode_included.seat_rename": {
+        "string": "{totalDesignSeatsCount, plural, other {设计（包含开发模式）席位: {totalDesignSeatsCount}}}"
     },
-    "rcs.chrome_version.the_version_of_chrome_os_you_are_using_has_a_networking_issue_which_may_prevent_you_from_saving_your_work_a_patch_has_been_released_with_version_77_0_3865_120_starting_november_4_2019_make_sure_to_allow_chrome_os_to_update_automatically": {
-        "string": "The version of ChromeOS you are using has a networking issue which may prevent you from saving your work. A patch has been released with version 77.0.3865.120 starting November 4, 2019. Make sure to allow ChromeOS to {updateAutomatically}."
+    "org_self_serve.billing_items.total_seat_cost_for_product": {
+        "string": "{seatCount, plural, other {{annualMemberCost} × {seatCount}个席位 × 12个月}}"
     },
-    "rcs.chrome_version.update_automatically": {
-        "string": "update automatically"
+    "org_self_serve.billing_items.total_seat_count.dev_mode": {
+        "string": "{totalSeatCount, plural, other {开发模式席位: {totalSeatCount}}}"
     },
-    "rcs.figjam_diagram_onboarding.connectors_title": {
-        "string": "Connectors"
+    "org_self_serve.confirmation_step.go_to_the_file_browser": {
+        "string": "前往文件浏览器"
     },
-    "rcs.figjam_diagram_onboarding.connectors": {
-        "string": "Like the magnets on your fridge, connectors in FigJam snap right into place."
+    "org_self_serve.confirmation_step.order_confirmation_message": {
+        "string": "Figma业务订单已收到，目前正在处理。这可能需要几分钟的时间。迁移完成后，Figma会自动更新，并发送通知邮件。"
     },
-    "rcs.figjam_diagram_onboarding.shapes_title": {
-        "string": "Shapes"
+    "org_self_serve.confirmation_step.sorry_there_was_an_error_processing_your_request_refresh_and_try_again": {
+        "string": "处理您的请求时发生错误。请刷新并重试"
     },
-    "rcs.figjam_diagram_onboarding.shapes": {
-        "string": "Use shapes for different kinds of steps, like a diamond for decision points."
+    "org_self_serve.confirmation_step.total_amount_to_be_charged_to_card_ending_in_last4": {
+        "string": "尾号为{last4}的卡的总收费金额"
     },
-    "rcs.figjam_diagram_onboarding.templates_title": {
-        "string": "Templates"
+    "org_self_serve.confirmation_step.we_re_setting_up_your_organization": {
+        "string": "正在设置您的组织..."
     },
-    "rcs.figjam_diagram_onboarding.templates": {
-        "string": "FigJam has templates for all the usual charts and flows—and then some oddballs, too."
+    "org_self_serve.confirmation_step.you_re_all_set": {
+        "string": "一切准备就绪！"
     },
-    "rcs.figjam_diagram_onboarding.see_templates": {
-        "string": "See templates"
+    "org_self_serve.create_team_step.create_an_org_team": {
+        "string": "创建一个新的组织团队"
     },
-    "rcs.figjam_workshop.open_sessions_let_you_jam_with_anyone_even_people_who_don_t_have_a_figma_account": {
-        "string": "Open sessions let you jam with anyone-even people who don't have a Figma account."
+    "org_self_serve.create_team_step.enter_a_name_for_your_team": {
+        "string": "输入团队名称"
     },
-    "rcs.figjam_workshop.invite_the_world_to_your_workshop": {
-        "string": "Invite the world to your workshop"
+    "org_self_serve.create_team_step.itll_have_unlimited_files_and_advanced_security": {
+        "string": "将拥有无限的文件、高级安全性和更多好处"
     }
 }

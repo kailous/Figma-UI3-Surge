@@ -1,152 +1,152 @@
 {
-    "community.seller.collect_tax_info_modal.last_name": {
-        "string": "Last name"
+    "tile.empty.join_as_owner": {
+        "string": "オーナーとして参加"
     },
-    "community.detail_view.report_resource": {
-        "string": "Report resource"
+    "tile.error.permission_error_delete_file": {
+        "string": "{selectedCount, plural, other {削除する権限のないファイルが含まれています。}}"
     },
-    "community.buyer.request_refund": {
-        "string": "Request refund"
+    "tile.error.permission_error_trash_file": {
+        "string": "{selectedCount, plural, other {ごみ箱に移動する権限のないファイルが含まれています。}}"
     },
-    "community.detail_view.want_to_sell_resources": {
-        "string": "Want to sell resources like this one on Community?"
+    "tile.favoriting.add_to_favorites": {
+        "string": "お気に入りに追加"
     },
-    "community.detail_view.learn_how_to_get_started": {
-        "string": "Learn how to get started."
+    "tile.favoriting.file_added_to_favorites": {
+        "string": "お気に入りにファイルが追加されました"
     },
-    "community.detail_view.remove_myself_as_creator": {
-        "string": "Remove myself as creator"
+    "tile.favoriting.file_added_to_sidebar": {
+        "string": "サイドバーにファイルが追加されました"
     },
-    "community.detail_view.current_pending_user_profile_name_you": {
-        "string": "{currentProfileName} (You)"
+    "tile.favoriting.file_removed_from_favorites": {
+        "string": "お気に入りからファイルが削除されました"
     },
-    "community.detail_view.creator": {
-        "string": "Creator"
+    "tile.favoriting.file_removed_from_sidebar": {
+        "string": "サイドバーからファイルが削除されました"
     },
-    "community.reporting.reporting_an_inappropriate_file": {
-        "string": "Reporting an inappropriate file"
+    "tile.favoriting.max_favorites": {
+        "string": "使用できるお気に入りの最大数は{maxFavorites}です。お気に入りを1つ追加するには、1つを削除してください。"
     },
-    "community.reporting.i_want_to_report_this_file_for_violating_the_community_guidelines_resource_url": {
-        "string": "I want to report this file for violating the Community guidelines: {resourceUrl}"
+    "tile.favoriting.remove_from_favorites": {
+        "string": "お気に入りから削除"
     },
-    "community.reporting.reporting_an_inappropriate_widget": {
-        "string": "Reporting an inappropriate widget"
+    "tile.file_tile.branch_count": {
+        "string": "{branchCount, plural, other {{branchCount}ブランチ} }"
     },
-    "community.reporting.i_want_to_report_this_widget_for_violating_the_community_guidelines_resource_url": {
-        "string": "I want to report this widget for violating the Community guidelines: {resourceUrl}"
+    "tile.file_tile.deleted_by_other_user": {
+        "string": "{userHandle}が{time}に削除"
     },
-    "community.reporting.reporting_an_inappropriate_plugin": {
-        "string": "Reporting an inappropriate plugin"
+    "tile.file_tile.deleted_by_you": {
+        "string": "自分が{time}に削除"
     },
-    "community.reporting.i_want_to_report_this_plugin_for_violating_the_plugin_guidelines_resource_url": {
-        "string": "I want to report this plugin for violating the plugin guidelines: {resourceUrl}"
+    "tile.file_tile.deleted_generic": {
+        "string": "{time}に削除"
     },
-    "community.reporting.my_figma_user_id_is_user_id": {
-        "string": "My figma user id is {userId}"
+    "tile.file_tile.edited_time": {
+        "string": "編集済み: {time}"
     },
-    "community.reporting.add_your_description_here": {
-        "string": "(Add your description here)"
+    "tile.file_tile.edited_time_with_separator": {
+        "string": " · 編集済み: {time}"
     },
-    "community.buyer.view_order_details": {
-        "string": "View order details"
+    "tile.file_tile.password_protected": {
+        "string": "パスワードで保護されたファイル"
     },
-    "community.buyer.manage_subscription": {
-        "string": "Manage subscription"
+    "tile.file_tile.password_protected_prototype": {
+        "string": "このプロトタイプは、パスワードで保護されています"
     },
-    "navbar.navbar.publish_button_label": {
-        "string": "Publish"
+    "tile.file_tile.password_protected_shorter": {
+        "string": "パスワードで保護されています"
     },
-    "navbar.navbar.disabled_publish_button_label": {
-        "string": "Only organization admins can publish to the Figma Community."
+    "tile.file_tile.pinned_by_user": {
+        "string": "{name}がピン留め"
     },
-    "file_browser.pinning.update_permissions.content": {
-        "string": "If you pin this file to the {workspaceName} workspace, its permissions will be changed to {permission}. "
+    "tile.file_tile.pinned_just_now": {
+        "string": "たった今ピン留め"
     },
-    "file_browser.pinning.update_permissions.content.permission": {
-        "string": "Anyone at {orgName} with the link can view and discover"
+    "tile.file_tile.published_as_library": {
+        "string": "ライブラリとして公開\n{time}"
     },
-    "file_browser.pinning.pin_modal.confirmation_bell": {
-        "string": "Pinned file to workspace"
+    "tile.file_tile.trashed_by_other_user": {
+        "string": "{userHandle}が{time}にごみ箱に移動"
     },
-    "file_browser.pinning.pin_modal.pin_file_to_workspace": {
-        "string": "Pin file to workspace"
+    "tile.file_tile.trashed_by_you": {
+        "string": "自分が{time}にごみ箱に移動"
     },
-    "file_browser.pinning.pin_file": {
-        "string": "Pin file"
+    "tile.file_tile.trashed_generic": {
+        "string": "{time}にごみ箱に移動"
     },
-    "file_browser.pinning.delete_pin_modal.confirmation_bell": {
-        "string": "Pinned file removed from workspace"
+    "tile.file_tile.unsynced_changes": {
+        "string": "未同期の変更"
     },
-    "file_browser.pinning.delete_pin_modal.header": {
-        "string": "Remove from pinned files"
+    "tile.offline_file_tile.offline_created_file": {
+        "string": "オフラインで作成されたファイル"
     },
-    "file_browser.pinning.delete_pin_modal.confirm": {
-        "string": "Remove from pinned"
+    "tile.offline_file_tile.offline_upload_tooltip": {
+        "string": "オフラインファイルは、インターネットに再接続すると同期されます。"
     },
-    "file_browser.pinning.delete_pin_modal.content": {
-        "string": "This file will no longer be pinned in the workspace, and the pin description will be deleted. "
+    "tile.sort_filter.created_by_anyone": {
+        "string": "作成者: 任意のユーザー"
     },
-    "file_browser.pinning.pin_modal.edit.confirmation_bell": {
-        "string": "Updated pinned file"
+    "tile.sort_filter.created_by_others": {
+        "string": "作成者: 自分以外のユーザー"
     },
-    "file_browser.pinning.pin_modal.edit_pin_description": {
-        "string": "Edit pin description"
+    "tile.sort_filter.created_by_you": {
+        "string": "作成者: 自分"
     },
-    "file_browser.pinning.pin_modal.save": {
-        "string": "Save"
+    "tile.sort_filter.date_shared": {
+        "string": "共有日"
     },
-    "file_browser.pinning.pin_modal.description_textarea_placeholder": {
-        "string": "Add a short description of this file"
+    "tile.sort_filter.filter_by_all_files": {
+        "string": "すべてのファイル"
     },
-    "file_browser.pinning.pin_modal.confirmation_bell.view_workspace": {
-        "string": "View workspace"
+    "tile.sort_filter.filter_by_design_files": {
+        "string": "デザインファイル"
     },
-    "pro_cart.payment.sepa_direct_debit_mandate": {
-        "string": "By providing your payment information and confirming this payment, you authorise (A) Figma and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur."
+    "tile.sort_filter.filter_by_figjam_files": {
+        "string": "FigJamボード"
     },
-    "pro_cart.payment.different_legal_name_or_shipping_address": {
-        "string": "I have a different legal company name or shipping address"
+    "tile.sort_filter.filter_by_prototype_files": {
+        "string": "プロトタイプ"
     },
-    "pro_cart.payment.name_on_payment_method_label": {
-        "string": "Name on payment method"
+    "tile.sort_filter.filter_by_sites_files": {
+        "string": "Webサイト"
     },
-    "pro_cart.payment.name_on_payment_method": {
-        "string": "Name on payment method"
+    "tile.sort_filter.filter_by_slides_files": {
+        "string": "スライドデッキ"
     },
-    "file_browser.file_move.zero_state": {
-        "string": "You don’t have edit access to any projects, so you can't move this file. Join or create a team and project, then try again."
+    "tile.sort_filter.filter_label": {
+        "string": "フィルター:"
     },
-    "search.file_move.no_results_found": {
-        "string": "No results found for {folderSearchQuery}"
+    "tile.sort_filter.from": {
+        "string": "共有者:"
     },
-    "file_browser.file_move.context_menu_rename": {
-        "string": "Rename"
+    "tile.sort_filter.order_label": {
+        "string": "順序"
     },
-    "file_browser.file_move.context_menu_show_in_files": {
-        "string": "Show in files…"
+    "tile.sort_filter.org_deleted_drafts": {
+        "string": "表示:"
     },
-    "file_browser.file_move.move_pages_to_new_file": {
-        "string": "Move pages to new file"
+    "tile.sort_filter.owner": {
+        "string": "オーナー"
     },
-    "file_browser.file_move.modal_header_import_file": {
-        "string": "Import file {fileName}"
+    "tile.sort_filter.plan": {
+        "string": "チーム/組織:"
     },
-    "file_browser.file_move.modal_header_import_files": {
-        "string": "Import files"
+    "tile.sort_filter.recent": {
+        "string": "最近"
     },
-    "file_browser.file_move.view_workspaces": {
-        "string": "View workspaces"
+    "tile.sort_filter.sort_alphabetical": {
+        "string": "アルファベット順"
     },
-    "file_browser.file_move.view_teams": {
-        "string": "View teams"
+    "tile.sort_filter.sort_by_label": {
+        "string": "並べ替え基準"
     },
-    "file_browser.shared_projects": {
-        "string": "Shared projects"
+    "tile.sort_filter.sort_date_created": {
+        "string": "作成日"
     },
-    "page_move.add_new_file_name": {
-        "string": "Add a new file name"
+    "tile.sort_filter.sort_date_deleted": {
+        "string": "削除日"
     },
-    "file_browser.inline_team_creation.button_text": {
-        "string": "New team"
+    "tile.sort_filter.sort_date_trashed": {
+        "string": "ごみ箱への移動日"
     }
 }

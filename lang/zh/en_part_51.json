@@ -1,152 +1,152 @@
 {
-    "lab.ui3.canvas_color_theme_sync": {
-        "string": "UI3: Sync light/dark theme to canvas color"
+    "comments.pinning.feedback_giver_callout": {
+        "string": "移动到上一个或下一个固定的评论"
     },
-    "lab.minimize_ui": {
-        "string": "Minimize UI"
+    "comments.pinning.pin_comment": {
+        "string": "固定评论"
     },
-    "lab.minimize_ui_auto_show_properties": {
-        "string": "Auto show properties in Minimize UI"
+    "comments.pinning.pinned_comments_always_show_up_first_great_for_a_project_intro_or_important_info": {
+        "string": "固定的评论始终显示在最前面。适用于项目介绍或重要信息的固定。"
     },
-    "lab.inset_editor": {
-        "string": "Inset editor"
+    "comments.pinning.unpin_comment": {
+        "string": "取消固定评论"
     },
-    "lab.fpl.components": {
-        "string": "FPL Components: Use FPL components in the editor"
+    "comments_suggestions.pending_user_invite_suggestions.id_love_your_feedback_about": {
+        "string": "请提供反馈..."
     },
-    "lab.ui3.properties_dev": {
-        "string": "UI3 Properties Dev: See work currently in development"
+    "comments_suggestions.pending_user_invite_suggestions.insert_id_love_your_feedback_about": {
+        "string": "请提供关于...的反馈"
     },
-    "lab.trackable_debug": {
-        "string": "Trackable debug mode"
+    "comments_suggestions.pending_user_invite_suggestions.take_a_look_here": {
+        "string": "请看这里。"
     },
-    "lab.figjam_ui3": {
-        "string": "FigJam UI3"
+    "comments_suggestions.pending_user_invite_suggestions.what_do_you_think": {
+        "string": "你怎么看？"
     },
-    "lab.ui3_figjam_enabled_message": {
-        "string": "Now using the new FigJam design"
+    "common.close": {
+        "string": "关闭"
     },
-    "lab.ui3_figjam_disabled_message": {
-        "string": "Back to the old FigJam design"
+    "common.mixed": {
+        "string": "混合"
     },
-    "lab.figjam_ui3_colors": {
-        "string": "FigJam UI3: on-canvas colors"
+    "community.change_profile_handle_modal.change_handle": {
+        "string": "更改用户名"
     },
-    "lab.ui3_figjam_colors_enabled_message": {
-        "string": "Now using the new FigJam colors"
+    "community.change_profile_handle_modal.change_your_unique_profile_handle": {
+        "string": "更改你的唯一用户名"
     },
-    "lab.ui3_figjam_colors_disabled_message": {
-        "string": "Back to old FigJam colors"
+    "community.change_profile_handle_modal.check_your_email": {
+        "string": "检查你的邮件"
     },
-    "lab.sites_responsive_scaling": {
-        "string": "Sites: Responsive scaling"
+    "community.change_profile_handle_modal.create_a_community_profile_to_publish_publicly_as_your_org_or_team": {
+        "string": "创建社区资料以作为你的组织或团队公开发布"
     },
-    "lab.ui3_disable": {
-        "string": "Go back to previous UI"
+    "community.change_profile_handle_modal.create_profile": {
+        "string": "创建资料"
     },
-    "lab.menu.changed_to_default": {
-        "string": "{count, plural, one {Changed # lab back to default value} other {Changed {count} labs back to default value}}"
+    "community.change_profile_handle_modal.new_profile_link": {
+        "string": "新的社区资料已生效。查看并自定义你的资料。任何人都可以在{url}上找到你。"
     },
-    "unsaved_changes.syncing.changes_cannot_be_saved": {
-        "string": "Changes can not be saved"
+    "community.change_profile_handle_modal.new_verification_email_sent": {
+        "string": "新的验证邮件已发送"
     },
-    "unsaved_changes.syncing.too_many_people_in_file": {
-        "string": "Too many people have this file open right now so your changes cannot be saved at the moment. To save your changes, you can either copy and paste the content to a new file or choose \"Save As .fig…\" from the \"File\" menu."
+    "community.change_profile_handle_modal.no_email_check_spam_or_click_resend_email_below": {
+        "string": "找不到邮件，请检查垃圾邮件或点击下方的[重新发送邮件]。"
     },
-    "unsaved_changes.syncing.experiencing_server_issues": {
-        "string": "We're experiencing server issues. Your changes will be synced once we've resolved the issues."
+    "community.change_profile_handle_modal.profile_handle_is_available": {
+        "string": "“{profileHandle}”可用！"
     },
-    "unsaved_changes.syncing.unsaved_revoked_access": {
-        "string": "Someone revoked your access to this file so your changes cannot be saved at the moment. To save your changes, you can either copy and paste the content to a new file or choose \"Save As .fig…\" from the \"File\" menu."
+    "community.change_profile_handle_modal.profile_handle_requirements": {
+        "string": "最多15个字符（字母、数字、下划线）"
     },
-    "unsaved_changes.syncing.access_revoked": {
-        "string": "Access revoked"
+    "community.change_profile_handle_modal.profile_handle_taken": {
+        "string": "“{profileHandle}”已被占用，请选择另一个。"
     },
-    "unsaved_changes.syncing.someone_revoked_access_to_the_file_you_had_open_ask_the_owner_for_access_to_open_it_again": {
-        "string": "Someone revoked access to the file you had open. Ask the owner for access to open it again."
+    "community.change_profile_handle_modal.resend_email": {
+        "string": "重新发送邮件"
     },
-    "unsaved_changes.syncing.unsaved_not_logged_in": {
-        "string": "You have been logged out of Figma so your changes cannot be saved at the moment. To save your changes, you can either copy and paste the content to a new file or choose \"Save As .fig…\" from the \"File\" menu."
+    "community.change_profile_handle_modal.review_our_community_guidelines_link": {
+        "string": "查看我们的社区指南"
     },
-    "unsaved_changes.syncing.logged_out": {
-        "string": "Logged out"
+    "community.change_profile_handle_modal.sent_email": {
+        "string": "已将链接发送到{email}。点击链接后返回此处请求资料用户名！"
     },
-    "unsaved_changes.syncing.you_have_been_logged_out_of_figma": {
-        "string": "You have been logged out of Figma. Please log in again."
+    "community.change_profile_handle_modal.to_like_comment_follow_or_publish_please_create_a_community_profile": {
+        "string": "要点赞、评论、关注或发布，请创建社区资料。"
     },
-    "unsaved_changes.syncing.app_out_of_date": {
-        "string": "The app is too far out of date with the server. You can reload Figma to continue editing, although that means you will lose unsaved work. To save your changes, you can either copy and paste the content to a new file or choose \"Save As .fig…\" from the \"File\" menu."
+    "community.change_profile_handle_modal.verify_email_prompt": {
+        "string": "加入Figma社区前，请先验证邮箱。"
     },
-    "unsaved_changes.syncing.updating_the_app": {
-        "string": "Updating the app…"
+    "community.change_profile_handle_modal.view_profile": {
+        "string": "查看资料"
     },
-    "unsaved_changes.syncing.figma_was_automatically_updated_to_the_latest_version": {
-        "string": "Figma was automatically updated to the latest version"
+    "community.change_profile_handle_modal.welcome_to_figma_community": {
+        "string": "欢迎加入Figma社区！"
     },
-    "unsaved_changes.syncing.we_re_experiencing_issues_opening_this_file_please_try_again_later": {
-        "string": "We're experiencing issues opening this file. Please try again later."
+    "community.community_account_settings.address_details_error": {
+        "string": "上传地址详细信息时出现问题。请刷新页面再试一次。"
     },
-    "unsaved_changes.syncing.the_main_component_has_been_moved_to_moved_to_file": {
-        "string": "The main component has been moved to {movedToFile}."
+    "community.community_account_settings.address_details_success": {
+        "string": "地址详细信息已更新"
     },
-    "unsaved_changes.syncing.the_main_component_has_been_deleted": {
-        "string": "The main component has been deleted."
+    "community.community_account_settings.change_address": {
+        "string": "更改地址"
     },
-    "design_systems.instance_panel.component_removed": {
-        "string": "Component was removed from library"
+    "community.community_account_settings.change_handle": {
+        "string": "更改用户名"
     },
-    "unsaved_changes.syncing.your_cursor_has_been_hidden_from_others_users": {
-        "string": "Your cursor has been hidden from other users."
+    "community.community_account_settings.claim_your_handle": {
+        "string": "请求用户名"
     },
-    "unsaved_changes.syncing.learn_more": {
-        "string": "Learn more"
+    "community.community_account_settings.create_your_public_profile_title": {
+        "string": "创建公开资料"
     },
-    "unsaved_changes.syncing.your_cursor_is_now_visible_to_others_as_someone_is_observing_you": {
-        "string": "Your cursor is now visible to others as someone is observing you."
+    "community.community_account_settings.delete_public_profile": {
+        "string": "删除公开资料"
     },
-    "unsaved_changes.syncing.your_cursor_is_now_visible_to_others_as_users_have_left_the_file": {
-        "string": "Your cursor is now visible to others as users have left the file."
+    "community.community_account_settings.display_name": {
+        "string": "显示名称"
     },
-    "unsaved_changes.syncing.you_have_been_converted_to_a_viewer_with_a_hidden_cursor": {
-        "string": "You have been converted to a viewer with a hidden cursor."
+    "community.community_account_settings.join_text": {
+        "string": "加入Figma社区，发布文件和插件，评论，关注成员并点赞他们的帖子。"
     },
-    "multiplayer_connection_error.dismiss_button": {
-        "string": "Dismiss"
+    "community.community_account_settings.profile": {
+        "string": "资料"
     },
-    "multiplayer_connection_error.too_many_connections.title": {
-        "string": "File is temporarily view-only"
+    "community.community_account_settings.public_profile": {
+        "string": "公开资料："
     },
-    "multiplayer_connection_error.too_many_connections.content": {
-        "string": "There are too many people working in this file right now, which can cause slowness. To keep things moving, we’ve temporarily turned off edit access and the ability to see other people’s cursors."
+    "community.community_account_settings.unique_handle": {
+        "string": "唯一用户名"
     },
-    "multiplayer_connection_error.too_many_connections.view_only_button": {
-        "string": "Open view-only"
+    "community.community_account_settings.vat_gst_id": {
+        "string": "VAT/GST ID：{vatGstId}"
     },
-    "multiplayer_limit.help_center": {
-        "string": "Help Center"
+    "community.delete_profile_modal.delete_profile_info": {
+        "string": "删除资料后，所有发布的文件、插件、点赞和关注数据将从Figma社区中删除，用户名将被释放。此操作不可撤销。"
     },
-    "multiplayer_limit.editor_limit_modal_content.seat_rename": {
-        "string": "This file has reached the maximum number of people who can edit. You'll regain edit access when some of these people have left the file."
+    "community.delete_profile_modal.delete_profile_title": {
+        "string": "删除社区资料"
     },
-    "multiplayer_limit.more_info": {
-        "string": "For more information, visit our {moreInfoLink}."
+    "community.email_settings.comments_left_on_my_published_resources": {
+        "string": "发布的资源上的评论"
     },
-    "multiplayer_limit.done_button": {
-        "string": "Done"
+    "community.email_settings.comments_that_mention_me": {
+        "string": "提及我的评论"
     },
-    "multiplayer_limit.cursor_limit_modal_content": {
-        "string": "This file has reached the maximum number of cursors. Your cursor has been hidden from other users. Your cursor will be shown to others again when someone observes you or when other users have left the file."
+    "community.email_settings.replies_to_my_comments": {
+        "string": "对我的评论的回复"
     },
-    "multiplayer_limit.editor_limit_modal_title.seat_rename": {
-        "string": "Limits to how many people can edit"
+    "community.email_settings.weekly_summary_of_community_engagement_with_my_profile_and_my_published_resources": {
+        "string": "我的资料和发布的资源的社区参与每周摘要"
     },
-    "multiplayer_limit.cursor_limit_modal_title": {
-        "string": "About cursor limit"
+    "community.merge_profile_modal.add_an_account_to_connect": {
+        "string": "添加账户以连接"
     },
-    "scenegraph_validation.failed.reload": {
-        "string": "Reload Page"
+    "community.merge_profile_modal.cannot_connect_approved_sellers": {
+        "string": "由于此账户已获得社区销售许可，因此无法连接。"
     },
-    "scenegraph_validation.failed.title": {
-        "string": "Couldn't save changes"
+    "community.merge_profile_modal.choose_your_new_profile_handle": {
+        "string": "选择新资料用户名"
     }
 }

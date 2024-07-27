@@ -1,152 +1,152 @@
 {
-    "community.publishing.error_icon_image_dimensions": {
-        "string": "Icon image dimensions must be 128×128"
+    "file_browser.file_browser_actions.files_deleted_forever": {
+        "string": "{numFiles, plural, other {{numFiles}个文件已被永久删除}}"
     },
-    "community.publishing.error_file_not_found": {
-        "string": "File not found"
+    "file_browser.file_browser_actions.files_restored_success": {
+        "string": "{numFiles, plural, other {{numFiles}个文件已恢复}}"
     },
-    "community.publishing.please_verify_your_email_address_to_publish": {
-        "string": "Please verify your email address to publish"
+    "file_browser.file_browser_actions.files_trashed": {
+        "string": "{numFiles, plural, other {{numFiles}个文件已移至垃圾桶}}"
     },
-    "community.publishing.you_must_enable_two_factor_authentication_to_publish": {
-        "string": "You must enable two factor authentication to publish"
+    "file_browser.file_browser_actions.logout_error_with_email": {
+        "string": "注销{emailAddress}时发生错误。"
     },
-    "community.publishing.please_enable_two_factor_authentication_to_publish_this_widget": {
-        "string": "Please enable two-factor authentication to publish this widget"
+    "file_browser.file_browser_actions.logout_error_without_email": {
+        "string": "注销时发生错误"
     },
-    "community.publishing.please_enable_two_factor_authentication_to_publish_this_plugin": {
-        "string": "Please enable two-factor authentication to publish this plugin"
+    "file_browser.file_browser_actions.must_be_online_to_save_version": {
+        "string": "保存此版本时必须在线。"
     },
-    "community.publishing.you_must_verify_your_account_details_to_publish": {
-        "string": "You must verify your account details to publish"
+    "file_browser.file_browser_actions.recently_viewed_error": {
+        "string": "{numFiles, plural, other {从[最近查看的文件]中删除这些文件时发生错误。}}"
     },
-    "community.publishing.we_detected_a_change_to_your_account_details_please_contact_support_figma_com_to_publish_this_plugin": {
-        "string": "We detected a change to your account details. Please contact support@figma.com to publish this plugin"
+    "file_browser.file_browser_actions.remove_files_from_project_permission": {
+        "string": "您没有权限从{projectName}中删除文件"
     },
-    "community.publishing.add_a_tagline": {
-        "string": "Add a tagline"
+    "file_browser.file_browser_actions.remove_files_from_this_project_permission": {
+        "string": "您没有权限从此项目中删除文件"
     },
-    "community.publishing.add_a_description": {
-        "string": "Add a description"
+    "file_browser.file_browser_actions.restore_team_error": {
+        "string": "无法恢复团队：{errorMsg}"
     },
-    "community.publishing.icon_cant_be_empty": {
-        "string": "Icon can't be empty"
+    "file_browser.file_browser_actions.restore_team_success": {
+        "string": "团队已恢复。"
     },
-    "community.seller.freemium_required_for_migration": {
-        "string": "Migrating resources are required to have Payments API enabled in manifest permissions."
+    "file_browser.file_browser_actions.successfully_logged_out": {
+        "string": "已从{emailAddress}注销"
     },
-    "community.publishing.playground_file.figma": {
-        "string": "Figma"
+    "file_browser.file_browser_actions.team_member_fetch_error": {
+        "string": "获取团队成员列表时发生错误，请稍后重试。"
     },
-    "community.publishing.playground_file.figjam": {
-        "string": "FigJam"
+    "file_browser.file_browser_actions.team_update_error": {
+        "string": "无法更新设置"
     },
-    "community.publishing.widget_playground_file_editor_type_error": {
-        "string": "Playground file must be a {editorType} file for this widget"
+    "file_browser.file_browser_actions.thumbnail_set": {
+        "string": "缩略图已设置"
     },
-    "community.publishing.plugin_playground_file_editor_type_error": {
-        "string": "Playground file must be a {editorType} file for this plugin"
+    "file_browser.file_browser_actions.unknown_error": {
+        "string": "未知错误"
     },
-    "community.publishing.snapshot_must_not_be_empty": {
-        "string": "Snapshot must not be empty"
+    "file_browser.file_browser_actions.update_description_error": {
+        "string": "无法更新描述"
     },
-    "community.seller.price_increase_limit": {
-        "string": "Price increases are limited to 50% per billing cycle"
+    "file_browser.file_browser_actions.update_project_error": {
+        "string": "更新此项目时发生错误。"
     },
-    "community.seller.price_can_only_be_increased_once_every_thirty_days": {
-        "string": "Price can only be increased once every 30 days"
+    "file_browser.file_browser_actions.update_subscription_error": {
+        "string": "无法更新描述"
     },
-    "community.publishing.release_notes_must_be_at_most_10000_characters_long": {
-        "string": "Release notes must be at most 10000 characters long"
+    "file_browser.file_browser_actions.version_restore_error": {
+        "string": "恢复此版本时发生错误。"
     },
-    "community.publishing.support_contact_must_be_at_most_100_characters_long": {
-        "string": "Support contact must be at most 100 characters long"
+    "file_browser.file_browser_actions.version_update_error": {
+        "string": "更新此版本时发生错误。"
     },
-    "community.publishing.found_multiple_local_widgets_with_the_same_manifest_id": {
-        "string": "Found multiple local widgets with the same \"manifest.id\""
+    "file_browser.file_import_view.add_from_jamboard": {
+        "string": "从Jamboard添加文件"
     },
-    "file_permissions_modal.invite_sent_prefix": {
-        "string": "Invited "
+    "file_browser.file_import_view.cancel": {
+        "string": "取消"
     },
-    "file_permissions_modal.invite_sent": {
-        "string": "{num_invites, plural, one {1 person} other {{num_invites} people}}"
+    "file_browser.file_import_view.done": {
+        "string": "完成"
     },
-    "org_settings.public_link_sharing.allow_public_links_with_password_protection": {
-        "string": "Allow public links with password protection"
+    "file_browser.file_import_view.failed_to_retrieve_file": {
+        "string": "无法从Google Drive检索文件"
     },
-    "org_settings.public_link_sharing.dont_allow_public_links": {
-        "string": "Don’t allow public links"
+    "file_browser.file_import_view.file_import_cancel": {
+        "string": "导入已取消。"
     },
-    "org_settings.public_link_sharing.allow_public_links": {
-        "string": "Allow public links"
+    "file_browser.file_import_view.file_import_failure_all": {
+        "string": "{failedFiles, plural, other {无法导入文件。}}"
     },
-    "team_view.team_members_table_column.name": {
-        "string": "Name"
+    "file_browser.file_import_view.file_import_failure_partial": {
+        "string": "某些文件无法导入。"
     },
-    "team_view.team_members_table_column.active_at": {
-        "string": "Last active"
+    "file_browser.file_import_view.file_import_partial_success": {
+        "string": "{totalFiles}个文件中已导入{importedFiles}个"
     },
-    "team_view.team_members_table_column.team_permissions": {
-        "string": "Team permissions"
+    "file_browser.file_import_view.file_import_progress": {
+        "string": "{totalFiles}个文件中的{processedFiles}个"
     },
-    "team_view.team_members_table_column.design_role.seat_rename": {
-        "string": "Design seat"
+    "file_browser.file_import_view.file_import_success": {
+        "string": "{totalFiles, plural, other {{totalFiles}个文件已成功导入}}"
     },
-    "team_view.team_members_table_column.figjam_role.seat_rename": {
-        "string": "FigJam seat"
+    "file_browser.file_import_view.file_row_import_cancel": {
+        "string": "已取消"
     },
-    "team_view.toolbar.projects": {
-        "string": "Projects"
+    "file_browser.file_import_view.google_drive_access_expired": {
+        "string": "Google Drive访问权限已过期，请重试导入"
     },
-    "team_view.toolbar.members": {
-        "string": "Members"
+    "file_browser.file_import_view.google_picker_select_files_title": {
+        "string": "选择要导入的文件"
     },
-    "team_view.toolbar.settings": {
-        "string": "Settings"
+    "file_browser.file_import_view.import": {
+        "string": "导入"
     },
-    "team_view.toolbar.community": {
-        "string": "Community"
+    "file_browser.file_import_view.import_description": {
+        "string": "导入图像、Sketch文件以及从Lucid、Miro和Mural导出的PDF。"
     },
-    "team_view.toolbar.billing": {
-        "string": "Billing"
+    "file_browser.file_import_view.import_from_computer": {
+        "string": "从计算机导入"
     },
-    "team_view.toolbar.dashboard": {
-        "string": "Dashboard"
+    "file_browser.file_import_view.import_header": {
+        "string": "将您的作品导入Figma和FigJam"
     },
-    "collaboration.voice.are_talking_in_this_file": {
-        "string": "{numVoiceUsers, plural, one {{voiceUserNames} is talking in this file. If you want to jump into the conversation, click {joinText}.} other {{voiceUserNames} are talking in this file. If you want to jump into the conversation, click {joinText}.}}"
+    "file_browser.file_import_view.import_to_folder": {
+        "string": "导入到{folderName}"
     },
-    "collaboration.voice.join_lower": {
-        "string": "join"
+    "file_browser.file_import_view.next": {
+        "string": "下一步"
     },
-    "collaboration.voice.n_others": {
-        "string": "{numUsers} others"
+    "file_browser.file_import_view.open_a_new_tab_link": {
+        "string": "打开新标签"
     },
-    "general.dev_mode": {
-        "string": "Dev Mode"
+    "file_browser.file_import_view.select_pdf_source_description": {
+        "string": "{pdfCount, plural, other {选择一个选项以准确转换PDF为FigJam文件。为了获得更好的结果，请按创建产品分别导入PDF。}}"
     },
-    "general.figma_design_short": {
-        "string": "Design"
+    "file_browser.file_import_view.select_pdf_source_description_within_figjam": {
+        "string": "{pdfCount, plural, other {选择一个选项以准确转换PDF。为了获得更好的结果，请按创建产品分别导入PDF。}}"
     },
-    "search.preview_section.files_capitalized": {
-        "string": "Files"
+    "file_browser.file_import_view.select_pdf_source_header": {
+        "string": "文件来源是什么？"
     },
-    "search.preview_section.people_capitalized": {
-        "string": "People"
+    "file_browser.file_import_view.select_pdf_source_input_legend": {
+        "string": "PDF来源"
     },
-    "search.preview_section.plugins_capitalized": {
-        "string": "Plugins"
+    "file_browser.file_import_view.select_pdf_source_input_unknown_disclaimer": {
+        "string": "您可以添加其他PDF，但可能不会准确导入。"
     },
-    "search.preview_section.community_capitalized": {
-        "string": "Community"
+    "file_browser.file_import_view.select_pdf_source_input_unknown_value": {
+        "string": "其他"
     },
-    "search.search_model_type_header.files": {
-        "string": "Files"
+    "file_browser.file_import_view.to_continue_working": {
+        "string": "要继续工作，请{openANewTabLink}"
     },
-    "search.search_model_type_header.projects": {
-        "string": "Projects"
+    "file_browser.file_list_view.header_created_column": {
+        "string": "创建时间"
     },
-    "search.search_model_type_header.teams": {
-        "string": "Teams"
+    "file_browser.file_list_view.header_last_modified_column": {
+        "string": "最后修改时间"
     }
 }

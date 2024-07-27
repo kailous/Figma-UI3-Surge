@@ -1,152 +1,152 @@
 {
-    "community.publishing.tags_cannot_have_consecutive_dashes_underscores_or_spaces": {
-        "string": "Tags cannot have consecutive dashes, underscores, or spaces"
+    "contact_sales.topic.technical_and_product_support": {
+        "string": "技术及产品支持"
     },
-    "community.publishing.tags_cannot_be_longer_than_3_words": {
-        "string": "Tags cannot be longer than 3 words"
+    "contact_sales.which_product_are_you_most_interested_in": {
+        "string": "您最感兴趣的产品是哪个?"
     },
-    "community.publishing.tag_is_repeated_more_than_once": {
-        "string": "{tag} tag is repeated more than once"
+    "contact_sales.which_topic_best_fits_your_needs": {
+        "string": "哪个主题最符合您的需求?"
     },
-    "community.publishing.cannot_have_more_than_12_tags": {
-        "string": "Cannot have more than 12 tags"
+    "downgrade_survey.allow_research_contact": {
+        "string": "是的，可以联系我。"
     },
-    "community.publishing.tagline_must_be_at_most_100_characters_long": {
-        "string": "Tagline must be at most 100 characters long"
+    "downgrade_survey.continue": {
+        "string": "继续"
     },
-    "community.publishing.cannot_have_more_than_max_publishers": {
-        "string": "Cannot have more than {MAX_PUBLISHERS_PER_RESOURCE} creators"
+    "downgrade_survey.do_not_leave_team": {
+        "string": "取消并保留在团队中"
     },
-    "community.resource.by_x_others": {
-        "string": "{numPublishers} others"
+    "downgrade_survey.go_back": {
+        "string": "返回"
     },
-    "community.publishing.error_thumbnail_image_not_found": {
-        "string": "{filename} not found"
+    "downgrade_survey.header": {
+        "string": "在您继续取消之前，请告诉我们为什么要取消订阅"
     },
-    "community.publishing.error_thumbnail_image_wrong_format": {
-        "string": "{filename} must be a jpeg or png"
+    "downgrade_survey.research_contact": {
+        "string": "为了更好地满足您的需求，是否可以让我们的研究团队（非销售目的）联系您以进行调查?"
     },
-    "community.publishing.error_thumbnail_image_too_large": {
-        "string": "{filename} exceeds max size of {max_size}MB"
+    "downgrade_survey.select_one": {
+        "string": "请至少选择一个取消原因继续"
     },
-    "community.publishing.error_video_wrong_format": {
-        "string": "{filename} must be mp4, webm, or quicktime"
+    "downgrade_survey.survey_option.accidental_upgrade": {
+        "string": "无意中升级了"
     },
-    "community.publishing.error_thumbnail_image_not_found_no_filename": {
-        "string": "File not found"
+    "downgrade_survey.survey_option.billing_structure_unclear": {
+        "string": "账单结构不清晰"
     },
-    "community.publishing.thumbnail_image": {
-        "string": "Thumbnail image"
+    "downgrade_survey.survey_option.no_longer_using_figma_products": {
+        "string": "不再使用Figma产品"
     },
-    "community.publishing.carousel_media_image": {
-        "string": "Carousel media image"
+    "downgrade_survey.survey_option.no_longer_using_figma_products.other_products": {
+        "string": "如果有其他替代产品，请输入"
     },
-    "community.publishing.error_video_too_long": {
-        "string": "{filename} exceeds max length of {max_length} seconds"
+    "downgrade_survey.survey_option.no_longer_using_figma_products.text_area": {
+        "string": "输入产品名称"
     },
-    "community.publishing.error_video_thumbnail_not_found": {
-        "string": "Video thumbnail not found"
+    "downgrade_survey.survey_option.other": {
+        "string": "其他"
     },
-    "community.actions.error_uploading_carousel_image_error": {
-        "string": "Error uploading carousel image: {error}"
+    "downgrade_survey.survey_option.other.text_area": {
+        "string": "输入描述"
     },
-    "fullscreen.toolbar.log_in_to_do_more_with_figjam": {
-        "string": "Log in to do more with FigJam"
+    "downgrade_survey.survey_option.project_inactive": {
+        "string": "项目已完成，不再活跃"
     },
-    "slides.general.presenter": {
-        "string": "Presenter"
+    "downgrade_survey.survey_option.switching_plans": {
+        "string": "切换到其他计划"
     },
-    "slides.general.slide_deck": {
-        "string": "Audience"
+    "downgrade_survey.survey_option.switching_plans.education_plan": {
+        "string": "教育计划"
     },
-    "slides.general.slides": {
-        "string": "Figma Slides"
+    "downgrade_survey.survey_option.switching_plans.enterprise_plan": {
+        "string": "企业计划"
     },
-    "file_browser.api_folder.an_error_occurred_while_renaming_this_project": {
-        "string": "An error occurred while renaming this project."
+    "downgrade_survey.survey_option.switching_plans.organization_plan": {
+        "string": "组织计划"
     },
-    "file_browser.api_folder.an_error_while_updating_the_folder_s_access": {
-        "string": "An error while updating the project's access."
+    "downgrade_survey.survey_option.switching_plans.starter_plan": {
+        "string": "初级计划"
     },
-    "file_browser.api_folder.an_error_while_updating_the_folder_s_sharing_audience_control": {
-        "string": "An error while updating the project's sharing audience control."
+    "downgrade_survey.survey_option.too_expensive": {
+        "string": "价格太贵"
     },
-    "file_browser.api_folder.an_error_while_updating_the_folder_s_team_access": {
-        "string": "An error while updating the project's team access."
+    "downgrade_survey.survey_option.too_expensive.brl": {
+        "string": "巴西雷亚尔"
     },
-    "file_browser.folder_move.project_moved_toast": {
-        "string": "The project {folderName} has been moved to {teamName}"
+    "downgrade_survey.survey_option.too_expensive.cad": {
+        "string": "加拿大元"
+    },
+    "downgrade_survey.survey_option.too_expensive.currency_conversion": {
+        "string": "货币转换费用太高"
+    },
+    "downgrade_survey.survey_option.too_expensive.currency_selector": {
+        "string": "请选择货币"
+    },
+    "downgrade_survey.survey_option.too_expensive.eur": {
+        "string": "欧元"
+    },
+    "downgrade_survey.survey_option.too_expensive.gbp": {
+        "string": "英镑"
+    },
+    "downgrade_survey.survey_option.too_expensive.jpy": {
+        "string": "日元"
+    },
+    "downgrade_survey.survey_option.too_expensive.other_currency": {
+        "string": "其他"
+    },
+    "downgrade_survey.survey_option.too_expensive.specify_currency": {
+        "string": "请指定"
+    },
+    "downgrade_survey.what_made_you_cancel_your_plan": {
+        "string": "请选择所有适用的取消原因"
+    },
+    "favorited_resources.add_to_sidebar": {
+        "string": "添加到侧边栏"
+    },
+    "favorited_resources.create_a_new_section": {
+        "string": "创建新部分"
+    },
+    "favorited_resources.create_a_new_section_tooltip": {
+        "string": "创建新部分"
+    },
+    "favorited_resources.custom_sections_banner_body": {
+        "string": "要开始，请创建您的第一个新部分或在下方的默认部分之间点击并拖动项目。"
+    },
+    "favorited_resources.custom_sections_banner_create_new_section_button": {
+        "string": "创建新部分"
+    },
+    "favorited_resources.custom_sections_banner_header": {
+        "string": "自定义侧边栏"
+    },
+    "favorited_resources.custom_sections_nudge_body": {
+        "string": "让我们整理一下部分。将光标悬停在部分标题上，然后单击{ellipses}以重命名部分，单击{plus}以创建新部分。通过拖放项目，可以将其移动到不同的部分。"
+    },
+    "favorited_resources.custom_sections_nudge_header": {
+        "string": "侧边栏是否有点拥挤？"
+    },
+    "favorited_resources.ellipses": {
+        "string": "..."
+    },
+    "favorited_resources.indicate_section_prefix": {
+        "string": "侧边栏"
+    },
+    "favorited_resources.plus": {
+        "string": "+"
+    },
+    "favorited_resources.remove_from_sidebar": {
+        "string": "从侧边栏移除"
+    },
+    "file_browser.about": {
+        "string": "关于"
     },
     "file_browser.api_folder.an_error_occurred_while_moving_this_project": {
-        "string": "An error occurred while moving this project."
+        "string": "移动此项目时发生错误。"
     },
-    "file_browser.api_folder.no_create_permissions_team_name": {
-        "string": "You don't have permission to create projects in {teamName}."
+    "file_browser.api_folder.an_error_occurred_while_renaming_this_project": {
+        "string": "重命名此项目时发生错误。"
     },
-    "file_browser.api_folder.no_create_permissions_this_team": {
-        "string": "You don't have permission to create projects in this team."
-    },
-    "team_creation.an_error_occurred_while_creating_this_team": {
-        "string": "An error occurred while creating this team."
-    },
-    "team_creation.you_have_created_a_new_team": {
-        "string": "You have created a new team."
-    },
-    "change_team_name_visual_bell.text": {
-        "string": "{oldTeamName} has been renamed to {newTeamName}"
-    },
-    "change_team_name_visual_bell.undo": {
-        "string": "Undo"
-    },
-    "file_browser.team_settings.an_error_occurred_while_changing_default_permission": {
-        "string": "An error occurred while changing the default permission of this team."
-    },
-    "join_team_flash.as_owner.text": {
-        "string": "You're now the owner of {teamName}"
-    },
-    "join_team_flash.as_admin.text": {
-        "string": "You're now an admin of {teamName}"
-    },
-    "join_team_flash.text": {
-        "string": "You're now a member of {teamName}"
-    },
-    "join_team_batch_flash.as_owner.text": {
-        "string": "{teamCount, plural, one {You're now the owner of {teamCount} team} other {You're now the owner of {teamCount} teams}}"
-    },
-    "join_team_batch_flash.as_admin.text": {
-        "string": "{teamCount, plural, one {You're now an admin of {teamCount} team} other {You're now an admin of {teamCount} teams}}"
-    },
-    "join_team_batch_flash.text": {
-        "string": "{teamCount, plural, one {You're now a member of {teamCount} team} other {You're now a member of {teamCount} teams}}"
-    },
-    "navbar.workspaces.default_workspace_name": {
-        "string": "Figma"
-    },
-    "navbar.workspaces.default_org_workspace_name": {
-        "string": "Organization workspace"
-    },
-    "navbar.workspaces.default_team_workspace_name": {
-        "string": "Team workspace"
-    },
-    "navbar.profile_switcher.external_teams": {
-        "string": "External teams"
-    },
-    "navbar.profile_switcher.your_teams": {
-        "string": "Your teams"
-    },
-    "navbar.workspaces.notifications_label": {
-        "string": "Notifications"
-    },
-    "navbar.workspaces.community_notifications_label": {
-        "string": "Community notifications"
-    },
-    "user_notifications.org_notifications": {
-        "string": "{orgName} notifications"
-    },
-    "navbar.workspaces.external_teams_notifications_label": {
-        "string": "External team notifications"
-    },
-    "permissions.copy_link_button.visual_bell.copy_prototype_link_name": {
-        "string": "{name} prototype link copied"
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_access": {
+        "string": "更新文件夹访问权限时发生错误。"
     }
 }

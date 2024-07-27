@@ -1,152 +1,152 @@
 {
-    "upsell.move_file_publish.move_file_to_project_to_publish": {
-        "string": "Move this file to a project in order to publish to this team's library."
+    "settings_table.change_display_name": {
+        "string": "选择Figma中团队的显示名称"
     },
-    "upsell.move_file_publish.move_to_project": {
-        "string": "Move to project"
+    "settings_table.change_names": {
+        "string": "选择Figma和发票中团队名称的显示方式"
     },
-    "upsell.move_file_publish.move_to_team": {
-        "string": "Move to team"
+    "settings_table.change_payment_method": {
+        "string": "更改支付方式"
     },
-    "upsell.move_file_publish.move_to_team_to_publish_library_assets": {
-        "string": "Move to team to publish library assets"
+    "settings_table.change_vat_gst_id": {
+        "string": "如果以公司名义支付Figma计划，请添加VAT或GST识别号。"
     },
-    "upsell.move_file_publish.move_to_project_to_publish_library_assets": {
-        "string": "Move to project to publish library assets"
+    "settings_table.consolidate_your_teams_access_shared_libraries_enable_advanced_security_features_and_more": {
+        "string": "整合团队，访问共享库，启用高级安全功能，{more}"
     },
-    "collaboration.spotlight.bell.presenter.waiting_for_followers": {
-        "string": "Waiting for followers…"
+    "settings_table.display_name.label": {
+        "string": "显示名称"
     },
-    "collaboration.spotlight.bell.follower.nominated": {
-        "string": "{nominatorName} is asking you to spotlight"
+    "settings_table.edit_names": {
+        "string": "编辑名称"
     },
-    "collaboration.spotlight.bell.explainer.takeover": {
-        "string": "Take over spotlight from {currentPresenter}"
+    "settings_table.learn_more": {
+        "string": "了解更多"
     },
-    "collaboration.spotlight.bell.explainer": {
-        "string": "Get everyone to follow you"
+    "settings_table.more": {
+        "string": "更多..."
     },
-    "collaboration.spotlight.bell.follower.spotlighting_presenter_alternate_copy": {
-        "string": "Spotlight on {presenterName}. Following…"
+    "settings_table.names": {
+        "string": "名称"
     },
-    "collaboration.spotlight.bell.follower.switching_to_new_presenter": {
-        "string": "Switching to {presenterName}…"
+    "settings_table.organization": {
+        "string": "组织"
     },
-    "collaboration.spotlight.bell.follower.spotlight_on_presenter": {
-        "string": "Spotlight on {observedUserName}"
+    "settings_table.plan": {
+        "string": "计划"
     },
-    "collaboration.spotlight.bell.follower.following_non_presenter": {
-        "string": "Following {observedUserName}"
+    "settings_table.plan_and_billing": {
+        "string": "计划与账单"
     },
-    "collaboration.spotlight.bell.follower.reprompt_spotlight_on_presenter": {
-        "string": "Spotlight on {presenterUserName}"
+    "settings_table.purchase_professional_plan": {
+        "string": "购买专业计划"
     },
-    "collaboration.spotlight.bell.presenter.cancel": {
-        "string": "Cancel"
+    "settings_table.reactivate_plan": {
+        "string": "重新激活计划"
     },
-    "collaboration.spotlight.bell.presenter.stop": {
-        "string": "Stop"
+    "settings_table.reactivate_your_subscription_of_professional": {
+        "string": "重新激活您的专业计划订阅"
     },
-    "collaboration.spotlight.bell.follower.not_now": {
-        "string": "Not now"
+    "settings_table.resources": {
+        "string": "资源"
     },
-    "collaboration.spotlight.bell.stop_following": {
-        "string": "Stop following"
+    "settings_table.subscription_renewal": {
+        "string": "{frequency}订阅将于{billing_date}续订。我们将在续订前提醒您。{more}"
     },
-    "collaboration.spotlight.bell.stop": {
-        "string": "Stop"
+    "settings_table.team": {
+        "string": "团队"
     },
-    "collaboration.spotlight.bell.follower.follow": {
-        "string": "Follow"
+    "settings_table.team_profile": {
+        "string": "团队资料"
     },
-    "fullscreen.nudge.small_nudge": {
-        "string": "Small nudge"
+    "settings_table.to_keep_using_paid_features_like_unlimited_team_figma_files_projects_and_team_libraries_after_your_free_professional_plan_expires_on_date_purchase_the_professional_plan_for_your_team": {
+        "string": "在您的免费专业计划于{date, date, long}到期后，若要继续使用如无限制的团队Figma文件、项目和团队库等付费功能，请为您的团队购买专业计划。"
     },
-    "fullscreen.nudge.big_nudge": {
-        "string": "Big nudge"
+    "settings_table.update_team_profile": {
+        "string": "更新团队资料"
     },
-    "fullscreen.nudge.nudge_amount": {
-        "string": "Nudge amount"
+    "settings_table.upgrade_to_the_professional_plan_or_to_an_organization_and_get_access_to_shared_team_libraries_advanced_security_features_and_more": {
+        "string": "升级到专业计划或业务版，获取共享团队库、高级安全功能等。{more}"
     },
-    "fullscreen.properties_panel.constraints_resizing_panel.fixed": {
-        "string": "Fixed"
+    "settings_table.upgrade_your_plan": {
+        "string": "升级您的计划"
     },
-    "fullscreen.properties_panel.scrolls": {
-        "string": "Scrolls"
+    "settings_table.vat_gst": {
+        "string": "增值税/商品及服务税"
     },
-    "sites.panel.home": {
-        "string": "Home"
+    "settings_table.you_can_change_the_number_of_seats_on_your_annual_plan_before_it_renews": {
+        "string": "您可以在年度计划续订前更改席位数量"
     },
-    "sites.panel.main": {
-        "string": "Main"
+    "settings_table.you_can_simplify_your_billing_by_converting_your_monthly_seats_to_annual": {
+        "string": "您可以将月度席位转换为年度席位，以简化账单"
     },
-    "fullscreen.object_row.file_thumbnail": {
-        "string": "File thumbnail"
+    "sidebar.add_to_favorites": {
+        "string": "添加到收藏"
     },
-    "layer_icon.tooltip.union": {
-        "string": "Union"
+    "sidebar.admin_console": {
+        "string": "管理控制台"
     },
-    "layer_icon.tooltip.intersect": {
-        "string": "Intersect"
+    "sidebar.admin_dashboard": {
+        "string": "管理员"
     },
-    "layer_icon.tooltip.subtract": {
-        "string": "Subtract"
+    "sidebar.all_projects": {
+        "string": "所有项目"
     },
-    "layer_icon.tooltip.exclude": {
-        "string": "Exclude"
+    "sidebar.browse_org": {
+        "string": "浏览{orgName}"
     },
-    "layer_icon.tooltip.vector": {
-        "string": "Vector"
+    "sidebar.browse_org_custom_sections": {
+        "string": "转到组织页面 →"
     },
-    "layer_icon.tooltip.star": {
-        "string": "Star"
+    "sidebar.community": {
+        "string": "社区"
     },
-    "layer_icon.tooltip.line": {
-        "string": "Line"
+    "sidebar.create_new_team": {
+        "string": "创建新团队"
     },
-    "layer_icon.tooltip.ellipse": {
-        "string": "Ellipse"
+    "sidebar.delete": {
+        "string": "删除"
     },
-    "layer_icon.tooltip.rectangle": {
-        "string": "Rectangle"
+    "sidebar.delete_section": {
+        "string": "删除部分"
     },
-    "layer_icon.tooltip.polygon": {
-        "string": "Polygon"
+    "sidebar.design_file": {
+        "string": "设计文件"
     },
-    "layer_icon.tooltip.text": {
-        "string": "Text"
+    "sidebar.disabled_by_your_organization": {
+        "string": "已被您的组织禁用"
     },
-    "layer_icon.tooltip.slice": {
-        "string": "Slice"
+    "sidebar.drafts": {
+        "string": "草稿"
     },
-    "layer_icon.tooltip.webpage": {
-        "string": "Webpage"
+    "sidebar.drafts_to_move": {
+        "string": "需要移动的草稿"
     },
-    "layer_icon.tooltip.layout": {
-        "string": "Layout"
+    "sidebar.explore_community": {
+        "string": "探索社区"
     },
-    "layer_icon.tooltip.component": {
-        "string": "Component"
+    "sidebar.favorite_files": {
+        "string": "收藏的文件"
     },
-    "layer_icon.tooltip.auto_layout": {
-        "string": "Auto layout"
+    "sidebar.fig_jam_file": {
+        "string": "FigJam文件"
     },
-    "layer_icon.tooltip.group": {
-        "string": "Group"
+    "sidebar.if_you_delete_section_the_section": {
+        "string": "从侧边栏删除{section}的{count}个{item}。您可以随时恢复它们。"
     },
-    "layer_icon.tooltip.frame": {
-        "string": "Frame"
+    "sidebar.import": {
+        "string": "导入..."
     },
-    "layer_icon.tooltip.module": {
-        "string": "Module"
+    "sidebar.it": {
+        "string": "它"
     },
-    "layer_icon.tooltip.template": {
-        "string": "Template"
+    "sidebar.item": {
+        "string": "项目"
     },
-    "layer_icon.tooltip.variant": {
-        "string": "Variant"
+    "sidebar.item_added_bell_message": {
+        "string": "已将项目添加到侧边栏"
     },
-    "layer_icon.tooltip.instance": {
-        "string": "Instance"
+    "sidebar.item_removed_bell_message": {
+        "string": "已将项目从侧边栏移除"
     }
 }

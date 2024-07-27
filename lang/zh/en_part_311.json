@@ -1,152 +1,152 @@
 {
-    "change_annual_plan_modal.contact_support_to_purchase_more_seats_error": {
-        "string": "Please {contactSupportLink} to purchase more than {maxAnnualSubscriptions} seats."
+    "tokens.settings.dev_token_modal.expiration_description": {
+        "string": "このトークンの有効期限は{expiry, date, ::yMMMMd}です。"
     },
-    "change_annual_plan_modal.change_annual_plan_grace_period.seat_rename": {
-        "string": "You can change the number of full seats on your annual plan 30 days before each renewal."
+    "tokens.settings.dev_token_modal.expiration_description_never": {
+        "string": "このトークンに有効期限はありません。"
     },
-    "change_annual_plan_modal.cancel_annual_plan_text.seat_rename": {
-        "string": "Figma Design and FigJam seats on your team will be charged monthly at {monthlyEditorCost}/mo and {monthlyFigJamEditorCost}/mo, respectively."
+    "tokens.settings.dev_token_modal.expiration_header": {
+        "string": "有効期限"
     },
-    "change_annual_plan_modal.cancel_annual_plan_subtext": {
-        "string": "You can always add an annual plan later, if you change your mind."
+    "tokens.settings.dev_token_modal.expiration_option": {
+        "string": "{numDays, plural, other {{numDays}日間}}"
     },
-    "change_annual_plan_modal.invalid_seats_error": {
-        "string": "Please enter a valid number of seats to renew."
+    "tokens.settings.dev_token_modal.name_placeholder": {
+        "string": "トークン名"
     },
-    "change_annual_plan_modal.contact_support_link": {
-        "string": "contact support"
+    "tokens.settings.dev_token_modal.no_expiration_option": {
+        "string": "有効期限なし"
     },
-    "change_annual_plan_modal.plan_start_date": {
-        "string": "{startDate, date, medium}"
+    "tokens.settings.dev_token_modal.scope.code_connect_description": {
+        "string": "コンポーネントコードの記述と変更を行います。"
     },
-    "change_annual_plan_modal.unknown_start_date": {
-        "string": "an unknown date"
+    "tokens.settings.dev_token_modal.scope.code_connect_name": {
+        "string": "Code Connect"
     },
-    "change_annual_plan_modal.confirmation_header_plan_starting": {
-        "string": "Your annual plan will start on {startDate}"
+    "tokens.settings.dev_token_modal.scope.comments_description": {
+        "string": "ファイル内のコメントの投稿と削除を行います。"
     },
-    "change_annual_plan_modal.confirmation_header_plan_started": {
-        "string": "Your annual plan will auto-renew on {startDate}"
+    "tokens.settings.dev_token_modal.scope.comments_name": {
+        "string": "コメント"
     },
-    "change_annual_plan_modal.confirm_text": {
-        "string": "Update annual plan"
+    "tokens.settings.dev_token_modal.scope.dev_resources_description": {
+        "string": "ファイル内の開発リソースの読み取りと書き込みが可能です。"
     },
-    "change_annual_plan_modal.remove_annual_plan": {
-        "string": "Remove my annual plan"
+    "tokens.settings.dev_token_modal.scope.dev_resources_name": {
+        "string": "開発リソース"
     },
-    "change_annual_plan_modal.dont_renew_annual_plan": {
-        "string": "Don't renew my annual plan"
+    "tokens.settings.dev_token_modal.scope.file_content_description": {
+        "string": "ファイル、プロジェクト、ユーザー、バージョン、コメント、コンポーネントおよびスタイル、Webフックを読み取ります。"
     },
-    "change_annual_plan_modal.cancel_annual_plan_header": {
-        "string": "Cancel your annual plan?"
+    "tokens.settings.dev_token_modal.scope.file_content_name": {
+        "string": "ファイルのコンテンツ"
     },
-    "change_annual_plan_modal.confirm_cancel_annual_plan": {
-        "string": "Cancel annual plan"
+    "tokens.settings.dev_token_modal.scope.library_analytics_description": {
+        "string": "ライブラリアナリティクスデータを読み込みます。"
     },
-    "change_annual_plan_modal.nevermind": {
-        "string": "Nevermind"
+    "tokens.settings.dev_token_modal.scope.library_analytics_name": {
+        "string": "ライブラリアナリティクス"
     },
-    "change_payment.cancel": {
-        "string": "Cancel"
+    "tokens.settings.dev_token_modal.scope.no_access": {
+        "string": "アクセスなし"
     },
-    "change_payment.save": {
-        "string": "Save"
+    "tokens.settings.dev_token_modal.scope.read_only": {
+        "string": "読み取りのみ"
     },
-    "change_payment.close_window": {
-        "string": "Close window"
+    "tokens.settings.dev_token_modal.scope.read_write": {
+        "string": "読み取りと書き込み"
     },
-    "change_payment.success.successfully_reactivated_subscription": {
-        "string": "Successfully reactivated your subscription."
+    "tokens.settings.dev_token_modal.scope.variables_description": {
+        "string": "Figmaファイル内のバリアブルの読み取りと書き込みが可能です。"
     },
-    "change_payment.success.successfully_updated_your_payment_method": {
-        "string": "Successfully updated your payment method."
+    "tokens.settings.dev_token_modal.scope.variables_name": {
+        "string": "バリアブル"
     },
-    "change_payment.enter_payment_method": {
-        "string": "Enter your payment details"
+    "tokens.settings.dev_token_modal.scope.webhooks_description": {
+        "string": "Webフックの作成と管理を行います。"
     },
-    "change_vat_gst_id.description": {
-        "string": "If you are paying for this Figma plan as a business, enter your full Value Added Tax (VAT) or Goods and Services Tax (GST) identification number. This helps ensure that your invoices are accurate."
+    "tokens.settings.dev_token_modal.scope.webhooks_name": {
+        "string": "Webフック"
     },
-    "change_vat_gst_id.save_id": {
-        "string": "Save ID"
+    "tokens.settings.dev_token_modal.scope.write_only": {
+        "string": "書き込み"
     },
-    "change_vat_gst_id.input_id": {
-        "string": "Add an identification number"
+    "tokens.settings.dev_token_modal.scopes_header": {
+        "string": "スコープ"
     },
-    "change_vat_gst_id.tax_id_verification_succeeded": {
-        "string": "Your tax ID number has been verified and added to your invoices."
+    "tokens.settings.developer_tokens_description": {
+        "string": "個人アクセストークンを使用すると、API経由で自分自身のデータにアクセスできるようになります。ファイルにアクセスして欲しくないユーザーには、 個人アクセストークンを渡さないでください。"
     },
-    "change_vat_gst_id.tax_id_verification_failed": {
-        "string": "This tax ID number couldn't be verified. An admin should re-enter the number to keep invoices accurate."
+    "tokens.settings.developer_tokens_title": {
+        "string": "個人アクセストークン"
     },
-    "confirm_downgrade.at_the_end_of_your_current_billing_period_team_name_will_be_downgraded_to_our_free_starter_plan": {
-        "string": "If you choose to cancel, {teamName} will be downgraded to our free Starter plan at the end of your current billing period on {billingEndDate}."
+    "tokens.settings.expires": {
+        "string": "{relativeTimeString}に期限切れ"
     },
-    "confirm_downgrade.on_your_next_billing_date_team_name_will_be_downgraded_to_our_free_starter_plan": {
-        "string": "If you choose to cancel, {teamName} will be downgraded to our free Starter plan on your next billing date."
+    "tokens.settings.generate_new_token": {
+        "string": "新規トークンを作成"
     },
-    "confirm_downgrade.go_back": {
-        "string": "Go back"
+    "tokens.settings.last_used": {
+        "string": "{relativeTimeString}に使用"
     },
-    "confirm_downgrade.finish_cancellation": {
-        "string": "Cancel plan"
+    "tokens.settings.never_expires": {
+        "string": "有効期限なし"
     },
-    "confirm_downgrade.cancel_professional_plan": {
-        "string": "Are you sure you want to cancel?"
+    "tokens.settings.never_used": {
+        "string": "未使用"
     },
-    "org_admin_settings.cost_breakdown.whiteboard_seats_annual_annual_fig_jam_editor_seats.seat_rename": {
-        "string": "{whiteboardSeatsAnnual, plural, one {{whiteboardSeatsAnnual} annual FigJam seat} other {{whiteboardSeatsAnnual} annual FigJam seats}}"
+    "tokens.settings.new_token_reminder": {
+        "string": "この操作はこの時点でのみ実行できます!"
     },
-    "org_admin_settings.cost_breakdown.cost_breakdown_string_triple": {
-        "string": "{cost} × {seats} × {numMonths}"
+    "tokens.settings.no_connected_apps": {
+        "string": "接続済みのアプリがありません。"
     },
-    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_monthly_fig_jam_editor_seats.seat_rename": {
-        "string": "{whiteboardSeatsMonthly, plural, one {{whiteboardSeatsMonthly} monthly FigJam seat} other {{whiteboardSeatsMonthly} monthly FigJam seats}}"
+    "tokens.settings.revoke_access": {
+        "string": "アクセスを取り消す"
     },
-    "org_admin_settings.cost_breakdown.cost_breakdown_string_double": {
-        "string": "{cost} × {seats}"
+    "tooltips_plus_onboarding.assets_ending_step.description": {
+        "string": "必要なときはいつでも{strongAssets}タブを開いて、コンポーネントをすばやく見つけることができます。"
     },
-    "org_admin_settings.cost_breakdown.design_seats_annual_annual_design_editor_seats.seat_rename": {
-        "string": "{designSeatsAnnual, plural, one {{designSeatsAnnual} annual Design seat} other {{designSeatsAnnual} annual Design seats}}"
+    "tooltips_plus_onboarding.assets_ending_step.title": {
+        "string": "アセットを利用する"
     },
-    "org_admin_settings.cost_breakdown.design_seats_monthly_monthly_design_editor_seats.seat_rename": {
-        "string": "{designSeatsMonthly, plural, one {{designSeatsMonthly} monthly Design seat} other {{designSeatsMonthly} monthly Design seats}}"
+    "tooltips_plus_onboarding.assets_step.description": {
+        "string": "まずはチームライブラリのコンポーネントやFigmaが提供するUIキットを利用し、そのあとで独自のデザインにしていきます。"
     },
-    "org_admin_settings.cost_breakdown.design_seats_monthly_cotermed_design_editor_seats.seat_rename": {
-        "string": "{seatsCotermed, plural, one {Upgrade {seatsCotermed} monthly Design seat to annual} other {Upgrade {seatsCotermed} monthly Design seats to annual}}"
+    "tooltips_plus_onboarding.assets_step.title": {
+        "string": "構築済みアセットを使って短時間でデザインする"
     },
-    "org_admin_settings.cost_breakdown.whiteboard_seats_monthly_cotermed_whiteboard_editor_seats.seat_rename": {
-        "string": "{seatsCotermed, plural, one {Upgrade {seatsCotermed} monthly FigJam seat to annual} other {Upgrade {seatsCotermed} monthly FigJam seats to annual}}"
+    "tooltips_plus_onboarding.back": {
+        "string": "戻る"
     },
-    "org_admin_settings.cost_breakdown.total": {
-        "string": "Total"
+    "tooltips_plus_onboarding.change_properties_in_the_design_panel": {
+        "string": "デザインパネルでプロパティを変更する"
     },
-    "org_admin_settings.cost_breakdown.seats": {
-        "string": "{seats, plural, one {{seats} seat} other {{seats} seats}}"
+    "tooltips_plus_onboarding.command_key": {
+        "string": "⌘"
     },
-    "org_admin_settings.cost_breakdown.12_months": {
-        "string": "12 months"
+    "tooltips_plus_onboarding.control_key": {
+        "string": "Ctrl"
     },
-    "team_view.team_permissions_modal.share_this_team": {
-        "string": "Share this team"
+    "tooltips_plus_onboarding.design_panel.description": {
+        "string": "フレームのサイズ、角の半径、塗りなどを調整してみましょう。"
     },
-    "team_view.team_permissions_modal.invite_team_members": {
-        "string": "Invite team members"
+    "tooltips_plus_onboarding.design_panel.title": {
+        "string": "さらにプロパティも変更"
     },
-    "team_view.team_permissions_modal.invite_by_email": {
-        "string": "Invite by email"
+    "tooltips_plus_onboarding.done": {
+        "string": "完了"
     },
-    "team_view.team_permissions_modal.invite_sent": {
-        "string": "{numInvites, plural, one {# Invite sent} other {# Invites sent.}}"
+    "tooltips_plus_onboarding.go_to_a_blank_spot_in_your_canvas": {
+        "string": "キャンバスの空白部分に移動してください"
     },
-    "team_view.team_permissions_modal.invite": {
-        "string": "Invite"
+    "tooltips_plus_onboarding.hold_key_and_scroll": {
+        "string": "{keyboardKey}を押しながら、マウスをスクロールします。"
     },
-    "team_view.team_permissions_modal.send_invite": {
-        "string": "Send invite"
+    "tooltips_plus_onboarding.hold_right_click_while_moving_mouse": {
+        "string": "右クリックしたままマウスを動かします。"
     },
-    "team_join_links.invite_link": {
-        "string": "Invite link"
+    "tooltips_plus_onboarding.hold_space_and_left_click_while_moving_your_mouse": {
+        "string": "{spaceKey}を押しながら、左クリックしたままマウスを動かします。"
     }
 }

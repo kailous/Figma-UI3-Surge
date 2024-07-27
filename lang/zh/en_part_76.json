@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_node_treatments.value.node_type.symbol": {
-        "string": "Symbol"
+    "community.publishing.security_form.opt_out_button": {
+        "string": "删除安全详细信息"
     },
-    "collaboration.branching_node_treatments.value.node_type.instance": {
-        "string": "Instance"
+    "community.publishing.security_form.opt_out_confirmation": {
+        "string": "删除"
     },
-    "collaboration.branching_node_treatments.value.node_type.sticky": {
-        "string": "Sticky"
+    "community.publishing.security_form.opt_out_title": {
+        "string": "是否删除安全详细信息？"
     },
-    "collaboration.branching_node_treatments.value.node_type.shape_with_text": {
-        "string": "Shape with text"
+    "community.publishing.security_form.pending_rejected.opt_out_desc": {
+        "string": "发布此版本将从安全自我评估程序中删除已提交的回答。"
     },
-    "collaboration.branching_node_treatments.value.node_type.connector": {
-        "string": "Connector"
+    "community.publishing.security_form.plugin_description": {
+        "string": "回答以下所有问题，以与用户和企业管理员建立信任关系，并分享插件如何处理数据。如果插件符合Figma的数据安全最佳实践，此信息将显示在插件的社区页面上。"
     },
-    "collaboration.branching_node_treatments.value.node_type.code_block": {
-        "string": "Code block"
+    "community.publishing.security_form.plugin_sharing_description": {
+        "string": "此信息的共享是可选的。即使不提供信息，你仍然可以发布插件。"
     },
-    "collaboration.branching_node_treatments.value.node_type.widget": {
-        "string": "Widget"
+    "community.publishing.security_form.widget_description": {
+        "string": "回答以下所有问题，以与用户和企业管理员建立信任关系，并分享小部件如何处理数据。如果小部件符合Figma的数据安全最佳实践，此信息将显示在小部件的社区页面上。"
     },
-    "collaboration.branching_node_treatments.value.node_type.stamp": {
-        "string": "Stamp"
+    "community.publishing.security_form.widget_sharing_description": {
+        "string": "此信息的共享是可选的。即使不提供信息，你仍然可以发布小部件。"
     },
-    "collaboration.branching_node_treatments.value.node_type.media": {
-        "string": "Media"
+    "community.publishing.see_our_guidelines_here": {
+        "string": "在此查看指南"
     },
-    "collaboration.branching_node_treatments.value.node_type.highlight": {
-        "string": "Highlight"
+    "community.publishing.select_a_category": {
+        "string": "选择一个类别"
     },
-    "collaboration.branching_node_treatments.value.node_type.section": {
-        "string": "Section"
+    "community.publishing.select_a_subcategory": {
+        "string": "选择一个子类别"
     },
-    "collaboration.branching_node_treatments.value.node_type.section_overlay": {
-        "string": "Section overlay"
+    "community.publishing.select_up_to_10_images_of_your_file": {
+        "string": "选择最多10张文件的图片"
     },
-    "collaboration.branching_node_treatments.value.node_type.washi_tape": {
-        "string": "Washi tape"
+    "community.publishing.set_a_unique_handle_for_your_new_personal_community_profile": {
+        "string": "为你新的个人社区资料设置一个唯一的用户名"
     },
-    "collaboration.branching_node_treatments.value.node_type.variable": {
-        "string": "Variable"
+    "community.publishing.set_a_unique_handle_for_your_organization_org_name_s_new_community_profile": {
+        "string": "为你的组织{orgName}的新社区资料设置一个唯一的用户名"
     },
-    "collaboration.branching_node_treatments.value.node_type.variable_collection": {
-        "string": "Variable collection"
+    "community.publishing.set_a_unique_handle_for_your_team_team_name_s_new_community_profile": {
+        "string": "为你的团队{teamName}的新社区资料设置一个唯一的用户名"
     },
-    "collaboration.branching_node_treatments.value.node_type.table": {
-        "string": "Table"
+    "community.publishing.set_as_thumbnail": {
+        "string": "设置为缩略图"
     },
-    "collaboration.branching_node_treatments.value.node_type.table_cell": {
-        "string": "Table cell"
+    "community.publishing.snapshot_must_not_be_empty": {
+        "string": "快照不能为空"
     },
-    "collaboration.branching_node_treatments.value.node_type.slide": {
-        "string": "Slide"
+    "community.publishing.some_media_was_deduplicated": {
+        "string": "尝试上传的文件已存在。只有未重复的文件被添加到轮播中。"
     },
-    "collaboration.branching_node_treatments.value.node_type.assisted_layout": {
-        "string": "Assisted layout (deprecated)"
+    "community.publishing.subcategory": {
+        "string": "子类别"
     },
-    "collaboration.branching_node_treatments.value.node_type.interactive_slide_element": {
-        "string": "Interactive slide element"
+    "community.publishing.submit_a_new_version": {
+        "string": "提交新版本"
     },
-    "collaboration.branching_node_treatments.value.node_type.module": {
-        "string": "Template"
+    "community.publishing.submit_for_review": {
+        "string": "提交审核"
     },
-    "collaboration.branching_node_treatments.value.text_truncation.disabled": {
-        "string": "Disabled"
+    "community.publishing.submitted_with_date": {
+        "string": "已提交于{date}"
     },
-    "collaboration.branching_node_treatments.value.text_truncation.ending": {
-        "string": "Enabled"
+    "community.publishing.success_your_resource_has_been_published.plugin": {
+        "string": "成功！插件已发布。"
     },
-    "collaboration.branching_node_treatments.property.node_name": {
-        "string": "Name"
+    "community.publishing.success_your_resource_has_been_published.plugin.to_organization": {
+        "string": "成功！插件已发布给组织。"
     },
-    "collaboration.branching_node_treatments.property.visible": {
-        "string": "Visible"
+    "community.publishing.success_your_resource_has_been_published.widget": {
+        "string": "成功！小部件已发布。"
     },
-    "collaboration.branching_node_treatments.property.locked": {
-        "string": "Locked"
+    "community.publishing.success_your_resource_has_been_published.widget.to_organization": {
+        "string": "成功！小部件已发布给组织。"
     },
-    "collaboration.branching_node_treatments.property.description": {
-        "string": "Description"
+    "community.publishing.success_your_resource_has_been_submitted_for_review.plugin": {
+        "string": "成功！插件已提交审核。"
     },
-    "collaboration.branching_node_treatments.property.symbol_description": {
-        "string": "Symbol description"
+    "community.publishing.success_your_resource_has_been_submitted_for_review.widget": {
+        "string": "成功！小部件已提交审核。"
     },
-    "collaboration.branching_node_treatments.property.symbol_links": {
-        "string": "Symbol links"
+    "community.publishing.support_contact": {
+        "string": "支持联系方式"
     },
-    "collaboration.branching_node_treatments.property.type": {
-        "string": "Type"
+    "community.publishing.support_contact_must_be_a_valid_email_or_url": {
+        "string": "支持联系方式必须是有效的电子邮件或URL"
     },
-    "collaboration.branching_node_treatments.property.boolean": {
-        "string": "Boolean"
+    "community.publishing.support_contact_must_be_at_most_100_characters_long": {
+        "string": "支持联系方式必须最多100个字符"
     },
-    "collaboration.branching_node_treatments.property.horizontal_constraints": {
-        "string": "Horizontal constraints"
+    "community.publishing.support_contact_must_not_be_empty": {
+        "string": "支持联系方式不能为空"
     },
-    "collaboration.branching_node_treatments.property.vertical_constraints": {
-        "string": "Vertical constraints"
+    "community.publishing.tag_is_repeated_more_than_once": {
+        "string": "标签{tag}重复多次"
     },
-    "collaboration.branching_node_treatments.property.resize_behavior": {
-        "string": "Resize behavior"
+    "community.publishing.tag_not_in_category": {
+        "string": "{tag}不是列表中的有效值"
     },
-    "collaboration.branching_node_treatments.property.grid_style": {
-        "string": "Grid style"
+    "community.publishing.tagline_must_be_at_most_100_characters_long": {
+        "string": "标签行必须最多100个字符"
     },
-    "collaboration.branching_node_treatments.property.layout_grid": {
-        "string": "Layout grid"
+    "community.publishing.tags": {
+        "string": "标签"
     },
-    "collaboration.branching_node_treatments.property.text_style": {
-        "string": "Text style"
+    "community.publishing.tags_can_only_contain_certain_characters": {
+        "string": "标签只能包含字母、数字、短划线、下划线和空格"
     },
-    "collaboration.branching_node_treatments.property.fill_style": {
-        "string": "Fill style"
+    "community.publishing.tags_can_only_contain_lowercase_characters": {
+        "string": "标签只能包含小写字母"
     },
-    "collaboration.branching_node_treatments.property.stroke_style": {
-        "string": "Stroke style"
+    "community.publishing.tags_can_only_have_up_to_25_characters": {
+        "string": "标签最多25个字符"
     },
-    "collaboration.branching_node_treatments.property.effect_style": {
-        "string": "Effect style"
+    "community.publishing.tags_cannot_be_longer_than_3_words": {
+        "string": "标签不能超过3个单词"
     },
-    "collaboration.branching_node_treatments.property.code_block_language": {
-        "string": "Code block language"
+    "community.publishing.tags_cannot_have_consecutive_dashes_underscores_or_spaces": {
+        "string": "标签不能有连续的短划线、下划线或空格"
     },
-    "collaboration.branching_node_treatments.property.properties": {
-        "string": "Properties"
+    "community.publishing.tags_must_begin_and_end_with_a_letter_or_number": {
+        "string": "标签必须以字母或数字开头和结尾"
     },
-    "collaboration.branching_node_treatments.property.instance_simplification": {
-        "string": "Instance simplification"
+    "community.publishing.tags_out_of_tags": {
+        "string": "{num}/{max}"
     },
-    "collaboration.branching_node_treatments.property.props_are_bubbled": {
-        "string": "Component properties bubbled"
+    "community.publishing.team_name": {
+        "string": "{team}（团队）"
     },
-    "collaboration.branching_node_treatments.property.phase": {
-        "string": "Phase"
+    "community.publishing.tell_us_more": {
+        "string": "告诉我们更多信息"
     },
-    "collaboration.branching_node_treatments.property.opacity": {
-        "string": "Opacity"
+    "community.publishing.this_editor_is_being_published_as_a_file": {
+        "string": "此资源将作为文件发布。要作为原型发布，请访问{fileEditorLink}。"
     },
-    "collaboration.branching_node_treatments.property.blend_mode": {
-        "string": "Blend mode"
+    "community.publishing.this_file_has_been_published_to_community_as_a_library": {
+        "string": "此文件已作为库发布到社区。请从文件内发布更新。"
     },
-    "collaboration.branching_node_treatments.property.count": {
-        "string": "Vertices"
+    "community.publishing.thumbnail": {
+        "string": "缩略图"
     },
-    "collaboration.branching_node_treatments.property.background_enabled": {
-        "string": "Background enabled"
+    "community.publishing.thumbnail_image": {
+        "string": "缩略图图像"
     },
-    "collaboration.branching_node_treatments.property.mask": {
-        "string": "Mask"
+    "community.publishing.type_name_or_handle": {
+        "string": "输入类型名称或社区用户名"
     }
 }

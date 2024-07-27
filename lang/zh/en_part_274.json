@@ -1,152 +1,152 @@
 {
-    "activity_log.disabled_cursor_chat_for_the_blog": {
-        "string": "Disabled cursor chat for the {orgName} organization"
+    "qa.feeback_thank_you": {
+        "string": "フィードバックありがとうございます!"
     },
-    "activity_log.enabled_cursor_chat_for_the_blog": {
-        "string": "Enabled cursor chat for the {orgName} organization"
+    "qa.filter.all": {
+        "string": "すべて"
     },
-    "activity_log.event.open_sessions_start": {
-        "string": "Started an open session on {name}"
+    "qa.filter.development": {
+        "string": "開発"
     },
-    "activity_log.event.open_sessions_end": {
-        "string": "Ended an open session on {name}"
+    "qa.filter.from_org_name": {
+        "string": "{org_name}関連"
     },
-    "activity_log.event.org_default_license_type_change.seat_rename": {
-        "string": "Changed the default seat type to {role} for {product}"
+    "qa.filter.plugins": {
+        "string": "プラグイン"
     },
-    "activity_log.event.org_guest_invite_setting_change": {
-        "string": "Changed the guest invite setting to {guestSetting}"
+    "qa.filter.widgets": {
+        "string": "ウィジェット"
     },
-    "activity_log.event.org_invite_create": {
-        "string": "Invited {inviteeEmail} to the {orgName} organization"
+    "qa.from_community": {
+        "string": "コミュニティのアイテム"
     },
-    "activity_log.event.org_join_request_create": {
-        "string": "Requested to join the {orgName} organization in order to access {resourceName}"
+    "qa.from_org_name": {
+        "string": "{org_name}のアイテム"
     },
-    "activity_log.event.org_join_request_approve": {
-        "string": "Approved {requesterEmail} request to join the {orgName} organization in order to access {resourceName}"
+    "qa.go_back": {
+        "string": "戻る"
     },
-    "activity_log.event.org_merge": {
-        "string": "Merged {childOrgName} into the {orgName} organization"
+    "qa.how_was_your_experience": {
+        "string": "ご意見をお聞かせください。"
     },
-    "activity_log.event.org_user_create_self": {
-        "string": "Joined the {orgName} organization as {permission}"
+    "qa.learn_more": {
+        "string": "詳細情報"
     },
-    "activity_log.event.org_user_create": {
-        "string": "Added {userEmail} to the {orgName} organization as {permission}"
+    "qa.no_ai.subtitle.org_disabled": {
+        "string": "AI機能をオンにするには管理者に依頼してください。各機能が公開され次第、ここに表示されます。"
     },
-    "activity_log.event.org_user_create_external": {
-        "string": "Joined the external org {orgName}"
+    "qa.no_ai.subtitle.personal_draft": {
+        "string": "ただし、このファイルでFigma AIを使用するには、ファイルをドラフトから移動する必要があります。"
     },
-    "activity_log.event.org_user_delete": {
-        "string": "Removed {userEmail} from the {orgName} organization"
+    "qa.no_ai.subtitle.rolling_out": {
+        "string": "Figmaの新しいAI機能が、今後数週間にわたって順次公開されます。このスペースから目を離さないでください。"
     },
-    "activity_log.event.org_user_delete_external": {
-        "string": "Left the external org {orgName}"
+    "qa.no_ai.subtitle.team_or_org_user_no_access": {
+        "string": "{orgOrTeamName}のメンバーではないようです。Figma AIへのアクセス権がありません"
     },
-    "activity_log.event.org_user_permission_change": {
-        "string": "Changed {userEmail} to {permission} for the {orgName} organization"
+    "qa.no_ai.title": {
+        "string": "Figma AIがまもなく登場"
     },
-    "activity_log.event.personal_access_token_create": {
-        "string": "Created a new personal access token"
+    "qa.no_ai.title.not_available_here": {
+        "string": "AI機能は利用できません"
     },
-    "activity_log.event.personal_access_token_delete": {
-        "string": "Revoked a personal access token"
+    "qa.no_ai.title.org_disabled": {
+        "string": "まもなく、FIgma AIがここに表示されます"
     },
-    "activity_log.event.org_user_account_type_change.seat_rename": {
-        "string": "Changed {userEmail}'s seat from {oldAccountType} to {accountType} on {product}"
+    "qa.no_ai.title.personal_draft": {
+        "string": "AI機能がここに表示されます"
     },
-    "activity_log.event.org_user_account_type_change_to_full.seat_rename": {
-        "string": "Upgraded to {role} seat: {reason}"
+    "qa.no_ai.title.rolling_out": {
+        "string": "まもなく、FIgma AIがここに表示されます"
     },
-    "activity_log.event.org_user_account_type_change_to_full.editor.seat_rename": {
-        "string": "Full"
+    "qa.no_plugins_widgets_found": {
+        "string": "プラグインまたはウィジェットが見つかりません"
     },
-    "activity_log.event.org_user_account_type_upgrade_requested": {
-        "string": "Requested an upgrade to {accountType} on {product}"
+    "qa.other_extensions_from_org": {
+        "string": "{org_name}のその他のプラグインとウィジェット"
     },
-    "activity_log.event.org_user_account_type_upgrade_approved": {
-        "string": "Approved a {accountType} upgrade request on {product} from {userEmail}"
+    "qa.parameter.loading.plugin": {
+        "string": "プラグインを読み込んでいます..."
     },
-    "activity_log.event.org_user_account_type_upgrade_denied": {
-        "string": "Rejected a {accountType} upgrade request on {product} from {userEmail}"
+    "qa.parameter.loading.suggestions": {
+        "string": "候補を読み込んでいます..."
     },
-    "activity_log.event.plugin_approvelist_enable_org": {
-        "string": "Updated {org} to require approval for plugins"
+    "qa.plugins_widgets": {
+        "string": "プラグインとウィジェット"
     },
-    "activity_log.event.plugin_approvelist_disable_org": {
-        "string": "Removed requirement for plugin approval for {org}"
+    "qa.rate_output": {
+        "string": "これはいかがでしょうか?"
     },
-    "activity_log.event.plugin_approvelist_add_org": {
-        "string": "Approved {pluginName} plugin for use in {org}"
+    "qa.submit_feedback": {
+        "string": "フィードバックを送信"
     },
-    "activity_log.event.plugin_approvelist_remove_org": {
-        "string": "Revoked approval for {pluginName} plugin in {org}"
+    "qa.submit_feedback_placeholder": {
+        "string": "簡単なフィードバックをお願いします"
     },
-    "activity_log.event.plugin_approvelist_add_workspace": {
-        "string": "Approved {pluginName} plugin for use in {workspace} workspace"
+    "qa.suggested": {
+        "string": "候補"
     },
-    "activity_log.event.plugin_approvelist_remove_workspace": {
-        "string": "Revoked approval for {pluginName} plugin in {workspace} workspace"
+    "qa.thumbs_down": {
+        "string": "サムダウンアクション"
     },
-    "activity_log.event.plugin_approvelist_request_org": {
-        "string": "Requested approval to use {plugin} plugin in {org}"
+    "qa.thumbs_up": {
+        "string": "サムアップアクション"
     },
-    "activity_log.event.plugin_approvelist_request_approve_org": {
-        "string": "Approved {requesterName}'s request to use {pluginName} plugin in {org}"
+    "qa.toast.suggestion": {
+        "string": "候補"
     },
-    "activity_log.event.plugin_approvelist_request_reject_org": {
-        "string": "Declined {requesterName}'s request to use {pluginName} plugin in {org}"
+    "qa.unavailable": {
+        "string": "現在利用できません"
     },
-    "activity_log.event.plugin_approvelist_request_approve_workspace": {
-        "string": "Approved {requesterName}'s request to use {pluginName} plugin in {workspace} workspace"
+    "qa.we_use_this_to_improve": {
+        "string": "私たちのAI機能の向上に役立てます。"
     },
-    "activity_log.event.plugin_approvelist_request_reject_workspace": {
-        "string": "Declined {requesterName}'s request to use {pluginName} plugin in {workspace} workspace"
+    "qa.extensions.approval_pending": {
+        "string": "承認待ち"
     },
-    "activity_log.event.plugin_publisher_invite": {
-        "string": "Invited {userEmail} as a publisher to plugin {pluginName}"
+    "qa.extensions.development": {
+        "string": "開発"
     },
-    "activity_log.event.plugin_publisher_accept_invite": {
-        "string": "Accepted invite as a publisher to plugin {pluginName}"
+    "qa.extensions.in_review": {
+        "string": "レビュー中"
     },
-    "activity_log.event.plugin_publisher_remove_invite": {
-        "string": "Removed publisher invite for {userEmail} from plugin {pluginName}"
+    "qa.extensions.locate_local_version": {
+        "string": "ローカルのバージョンを探す"
     },
-    "activity_log.event.plugin_publisher_remove": {
-        "string": "Removed {userEmail} as a publisher from plugin {pluginName}"
+    "qa.extensions.needs_approval": {
+        "string": "承認が必要"
     },
-    "activity_log.event.widget_publisher_invite": {
-        "string": "Invited {userEmail} as a publisher to widget {widgetName}"
+    "qa.extensions.num_users": {
+        "string": "{numUsers, plural, other {ユーザー{numUsersStr}人}}"
     },
-    "activity_log.event.widget_publisher_accept_invite": {
-        "string": "Accepted invite as a publisher to widget {widgetName}"
+    "qa.extensions.open_in_community": {
+        "string": "コミュニティで開く"
     },
-    "activity_log.event.widget_publisher_remove_invite": {
-        "string": "Removed publisher invite for {userEmail} from widget {widgetName}"
+    "qa.extensions.plugin": {
+        "string": "プラグイン"
     },
-    "activity_log.event.widget_publisher_remove": {
-        "string": "Removed {userEmail} as a publisher from widget {widgetName}"
+    "qa.extensions.request_approval": {
+        "string": "承認を申請"
     },
-    "activity_log.event.plugin_install": {
-        "string": "Installed plugin {pluginName} for everyone"
+    "qa.extensions.run": {
+        "string": "実行"
     },
-    "activity_log.event.plugin_uninstall": {
-        "string": "Uninstalled plugin {pluginName} for everyone"
+    "qa.extensions.run_with_parameters": {
+        "string": "パラメーターを指定して実行"
     },
-    "activity_log.event.private_plugin_publish": {
-        "string": "Published plugin {pluginName}"
+    "qa.extensions.tooltip_actions": {
+        "string": "アクション"
     },
-    "activity_log.event.private_plugin_update": {
-        "string": "Updated plugin {pluginName}"
+    "qa.extensions.update_payment": {
+        "string": "支払いを更新"
     },
-    "activity_log.event.private_plugin_delete": {
-        "string": "Deleted plugin {pluginName}"
+    "qa.extensions.view_details": {
+        "string": "詳細を表示"
     },
-    "activity_log.event.widget_approvelist_disable_org": {
-        "string": "Removed requirement for widget approval for {org}"
+    "qa.extensions.widget": {
+        "string": "ウィジェット"
     },
-    "activity_log.event.widget_approvelist_enable_org": {
-        "string": "Updated {org} to require approval for widgets"
+    "quick_reply.unable_to_load_thread": {
+        "string": "コメントスレッドを読み込めません"
     }
 }

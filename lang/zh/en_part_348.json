@@ -1,0 +1,152 @@
+{
+    "whiteboard.text_sizes.omnipresent": {
+        "string": "特大6"
+    },
+    "whiteboard.text_sizes.small": {
+        "string": "小"
+    },
+    "whiteboard.text_sizes.teensy": {
+        "string": "極小"
+    },
+    "whiteboard.text_sizes.towering": {
+        "string": "特大5"
+    },
+    "whiteboard.text_sizes.custom": {
+        "string": "カスタム"
+    },
+    "whiteboard.music_player_select.aria_label": {
+        "string": "音楽プレーヤー厳選曲"
+    },
+    "whiteboard.timer.end_timer_button_new": {
+        "string": "タイマーを停止"
+    },
+    "whiteboard.timer.end_timer_confirmation_new": {
+        "string": "タイマーを停止しますか?"
+    },
+    "whiteboard.timer.end_timer_confirmation_subtext_new": {
+        "string": "これにより、あなただけでなく全員のタイマーが停止されます。"
+    },
+    "whiteboard.timer.end_timer_go_back_new": {
+        "string": "キャンセル"
+    },
+    "whiteboard.timer.end_timer_tooltip": {
+        "string": "タイマーを終了"
+    },
+    "whiteboard.timer.min": {
+        "string": "{timeIncrement}分"
+    },
+    "whiteboard.timer.minutes.aria_label": {
+        "string": "入力された分数"
+    },
+    "whiteboard.timer.music_volume_hint_prompt_cta_v2": {
+        "string": "{promptQuestion}音楽が他の人にも聞こえます。マイクをミュートしてください。"
+    },
+    "whiteboard.timer.music_volume_hint_prompt_question": {
+        "string": "通話中ですか?"
+    },
+    "whiteboard.timer.none": {
+        "string": "なし"
+    },
+    "whiteboard.timer.pause_timer_tooltip": {
+        "string": "タイマーを一時停止"
+    },
+    "whiteboard.timer.resume_timer_tooltip": {
+        "string": "タイマーを再開"
+    },
+    "whiteboard.timer.seconds.aria_label": {
+        "string": "入力された秒数"
+    },
+    "whiteboard.timer.song_not_available_error": {
+        "string": "その曲は利用できないようです。別の曲を選んでください。"
+    },
+    "whiteboard.timer.start_timer_tooltip": {
+        "string": "タイマーを開始"
+    },
+    "whiteboard.timer.timer_mute_tooltip": {
+        "string": "ミュート(自分のみ)"
+    },
+    "whiteboard.timer.timer_unmute_tooltip": {
+        "string": "ミュート解除(自分のみ)"
+    },
+    "whiteboard.timer.unmute_music_button": {
+        "string": "音楽のミュートを解除"
+    },
+    "whiteboard.timer.unmute_music_message": {
+        "string": "再生中の音楽があります。タップしてミュートを解除してください。"
+    },
+    "whiteboard.ui3_left_panel.rcs_description": {
+        "string": "ファイルのオプションやページには、今までどおりここからアクセスできます。"
+    },
+    "whiteboard.ui3_panels.rcs_title": {
+        "string": "FigJamは外観が一新されました!"
+    },
+    "whiteboard.ui3_right_panel.rcs_description": {
+        "string": "AI生成、テンプレート、コメントはここ、ミーティングツールの隣に移りました。"
+    },
+    "voting.csv_export.filename_no_session_title": {
+        "string": "{date}に投票"
+    },
+    "voting.csv_export.filename_with_session_title": {
+        "string": "{date} — {votingSessionTitle}に投票"
+    },
+    "voting.delightful_toolbar.no_votes_remaining": {
+        "string": "完了しました"
+    },
+    "voting.delightful_toolbar.votes_remaining": {
+        "string": "{numVotes, plural, other {残り{numVotes}票}}"
+    },
+    "voting.join_bell.cancel": {
+        "string": "無視"
+    },
+    "voting.join_bell.message_with_username": {
+        "string": "{name}が投票を開始しました"
+    },
+    "voting.join_bell.message_without_username": {
+        "string": "ファシリテーターが投票を開始しました"
+    },
+    "voting.modal.actions.delete_voting_session": {
+        "string": "削除"
+    },
+    "voting.modal.actions.export_as_csv": {
+        "string": "CSV形式でエクスポート"
+    },
+    "voting.modal.after_voting_no_one_voted": {
+        "string": "誰も投票していません"
+    },
+    "voting.modal.after_you_vote_results_will_show_up_right_here": {
+        "string": "投票後、ここに結果が表示されます。"
+    },
+    "voting.modal.delete_voting_session_error": {
+        "string": "投票セッションの削除中にエラーが発生しました。"
+    },
+    "voting.modal.delete_voting_session_modal_cancel_button": {
+        "string": "キャンセル"
+    },
+    "voting.modal.delete_voting_session_modal_confirm_button": {
+        "string": "結果を削除"
+    },
+    "voting.modal.delete_voting_session_modal_description": {
+        "string": "この投票の結果は完全に削除されます。この操作は元に戻せません。"
+    },
+    "voting.modal.delete_voting_session_modal_header": {
+        "string": "結果を削除しますか?"
+    },
+    "voting.modal.delete_voting_session_visual_bell": {
+        "string": "結果が削除されました"
+    },
+    "voting.modal.during_voting_no_ones_voted": {
+        "string": "誰も投票していません"
+    },
+    "voting.modal.during_voting_no_votes_dropdown": {
+        "string": "投票者はまだいません..."
+    },
+    "voting.modal.end_disabled_logged_out_tooltip": {
+        "string": "投票を終了するには、サインインする必要があります"
+    },
+    "voting.modal.end_for_all": {
+        "string": "すべて終了"
+    },
+    "voting.modal.end_voting_session_modal_confirm_button": {
+        "string": "投票を終了"
+    }
+}

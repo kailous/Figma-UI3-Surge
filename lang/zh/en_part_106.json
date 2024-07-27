@@ -1,152 +1,152 @@
 {
-    "settings.account_settings.to_disable_local_fonts_follow_the_uninstall_steps_in_the": {
-        "string": "To disable local fonts, follow the uninstall steps in the {helpCenterLink}"
+    "dev_handoff.paywall.blocking_modal.button.start_your_free_trial": {
+        "string": "开始14天免费试用"
     },
-    "settings.account_settings.help_article": {
-        "string": "help article"
+    "dev_handoff.paywall.blocking_modal.content.code": {
+        "string": "通过代码片段使实现更简单"
     },
-    "settings.account_settings.install_font_service_for_local": {
-        "string": "Local fonts are currently not enabled. Install font service to enable local fonts. {learnMoreLink}"
+    "dev_handoff.paywall.blocking_modal.content.inspection": {
+        "string": "高级检查功能，包括注释和差异"
     },
-    "settings.account_settings.download_installer": {
-        "string": "Download installer"
+    "dev_handoff.paywall.blocking_modal.content.locked": {
+        "string": "当前此团队的所有工作均为只读。要再次使用开发模式，请联系管理员升级此团队。"
     },
-    "settings.account_settings.local_fonts_are_currently_not_supported_for_this_operating_system": {
-        "string": "Local fonts are currently not supported for this operating system."
+    "dev_handoff.paywall.blocking_modal.content.plugins": {
+        "string": "可定制的插件、扩展功能等"
     },
-    "community.profile_connections.primary_email_info__disable_switching_for_primary_monetized_creator": {
-        "string": "Used for all Community notifications, your display name, and avatar. The primary account can’t be changed because it’s the designated payee for your paid Community resources. If you would like to update the email of your user account, please visit the 'Account' tab."
+    "dev_handoff.paywall.blocking_modal.title": {
+        "string": "通过开发模式更快编码"
     },
-    "community.profile_connections.primary_email_info": {
-        "string": "Your primary email is used for all Community notifications."
+    "dev_handoff.paywall.blocking_modal.title.direct_link": {
+        "string": "是否在开发模式下查看此文件？"
     },
-    "community.profile_connections.profile_connections_title": {
-        "string": "Profile connections"
+    "dev_handoff.paywall.blocking_modal.title.locked": {
+        "string": "此文件属于锁定的团队"
     },
-    "community.profile_connections.info": {
-        "string": "Connect multiple Figma accounts to use a single Community profile and merge multiple profiles into one. Publish content, follower creators, save likes, and receive notifications without having to switch accounts."
+    "dev_handoff.paywall.blocking_modal.title.starter": {
+        "string": "升级以在开发模式下工作"
     },
-    "community.profile_connections.add_profile_connection_cta": {
-        "string": "Add profile connection"
+    "dev_handoff.paywall.codegen.upsell": {
+        "string": "在开发模式下，您可以生成Tailwind、React等代码"
     },
-    "community.profile_connections.primary_email": {
-        "string": "Primary email"
+    "dev_handoff.paywall.direct_link_hint.description": {
+        "string": "使用工具栏中的开关在设计和开发模式之间切换。"
     },
-    "tokens.settings.expires": {
-        "string": "Expires {relativeTimeString}"
+    "dev_handoff.paywall.direct_link_hint.title": {
+        "string": "已打开开发模式链接"
     },
-    "tokens.settings.never_expires": {
-        "string": "Never expires"
+    "dev_handoff.paywall.end_of_beta_modal.cta.starter": {
+        "string": "查看计划"
     },
-    "tokens.settings.last_used": {
-        "string": "Used {relativeTimeString}"
+    "dev_handoff.paywall.end_of_beta_modal.description.restricted": {
+        "string": "开发模式的测试期已结束。如需访问，请联系管理员。在等待批准期间，您可以继续使用（最多14天）。"
     },
-    "tokens.settings.never_used": {
-        "string": "Never used"
+    "dev_handoff.paywall.end_of_beta_modal.description.restricted_grace_period": {
+        "string": "开发模式的测试期已结束。如需访问，请联系管理员。在等待批准期间，您可以继续使用（最多{numDays}天）。"
     },
-    "tokens.settings.revoke_access": {
-        "string": "Revoke access"
+    "dev_handoff.paywall.end_of_beta_modal.description.starter": {
+        "string": "开发模式的测试期已结束。要继续使用，需升级当前计划。"
     },
-    "tokens.settings.copy_token": {
-        "string": "Copy this token."
+    "dev_handoff.paywall.end_of_beta_modal.description.starter_viewer": {
+        "string": "如需继续使用开发模式，请联系管理员了解更多详情。"
     },
-    "tokens.settings.new_token_reminder": {
-        "string": "This is your only chance to do so!"
+    "dev_handoff.paywall.end_of_beta_modal.title": {
+        "string": "感谢您试用开发模式"
     },
-    "tokens.settings.developer_tokens_title": {
-        "string": "Personal access tokens"
+    "dev_handoff.paywall.external_content_control_hint": {
+        "string": "由于管理员设置的策略，无法在此文件中访问开发模式"
     },
-    "tokens.settings.developer_tokens_description": {
-        "string": "Personal access tokens allow you to access your own data via the API. Do not give out your personal access tokens to anybody who you don't want to access your files."
+    "dev_handoff.paywall.get_dev_mode": {
+        "string": "获取开发模式"
     },
-    "tokens.settings.generate_new_token": {
-        "string": "Generate new token"
+    "dev_handoff.paywall.hint_in_design_mode": {
+        "string": "随时准备开始编码时切换到开发模式。"
     },
-    "tokens.settings.connected_apps_title": {
-        "string": "Connected apps"
+    "dev_handoff.paywall.inspection.description": {
+        "string": "只需点击几下即可获取间距、颜色、资产和代码片段。{learnMoreLink}"
     },
-    "tokens.settings.connected_apps_description": {
-        "string": "The following apps have been given permission to access your Figma files on your behalf. If you see any apps you're not expecting here, remove their permissions below."
+    "dev_handoff.paywall.inspection.title": {
+        "string": "高级检查功能"
     },
-    "tokens.settings.no_connected_apps": {
-        "string": "You don't have any connected apps."
+    "dev_handoff.paywall.learn_more": {
+        "string": "了解更多"
     },
-    "tokens.settings.connected_time_ago": {
-        "string": "Connected {timeAgo}"
+    "dev_handoff.paywall.no_selection": {
+        "string": "未选择"
     },
-    "community.community_account_settings.change_address": {
-        "string": "Change address"
+    "dev_handoff.paywall.org_not_member_hint": {
+        "string": "非此组织的客人或非成员无法在此文件中访问开发模式。"
     },
-    "community.purchase_home.resource_title": {
-        "string": "{resource_name} by {resource_publisher}"
+    "dev_handoff.paywall.panel.button": {
+        "string": "按钮"
     },
-    "community.purchase_home.renews": {
-        "string": "Renews {date}"
+    "dev_handoff.paywall.pending_modal.grace_period.description": {
+        "string": "要继续使用开发模式，请请求团队管理员批准申请。在等待批准期间，可以查看和评论文件。"
     },
-    "community.purchase_home.purchased": {
-        "string": "Purchased {date}"
+    "dev_handoff.paywall.pending_modal.grace_period_end.title": {
+        "string": "开发模式访问已结束"
     },
-    "community.purchase_home.cancelled_and_inactive": {
-        "string": "Ended on {date}"
+    "dev_handoff.paywall.pending_modal.no_grace_period.description": {
+        "string": "开发模式申请已发送给管理员，但尚未批准。批准后将通知您。"
     },
-    "community.purchase_home.cancelled_but_active": {
-        "string": "Ends on {date}"
+    "dev_handoff.paywall.pending_modal.no_grace_period.title": {
+        "string": "开发模式申请中"
     },
-    "community.purchase_home.refunded": {
-        "string": "Refunded {date}"
+    "dev_handoff.paywall.plugin.description": {
+        "string": "在开发模式下，您可以运行{plugin}等许多开发者插件。{learnMoreLink}"
     },
-    "community.purchase_home.free_trial_ended": {
-        "string": "Free trial ended {date}"
+    "dev_handoff.paywall.plugins.description": {
+        "string": "可连接Jira、GitHub、Storybook等工具，或使用Figma API自行创建插件。{learnMoreLink}"
     },
-    "community.purchase_home.free_trial_ends": {
-        "string": "Free trial ends {date}"
+    "dev_handoff.paywall.plugins.title": {
+        "string": "定制Figma"
     },
-    "community.purchase_home.update_payment_details": {
-        "string": "Update payment details"
+    "dev_handoff.paywall.ready_for_dev.description": {
+        "string": "快速找到准备构建的设计并进行检查。{learnMoreLink}"
     },
-    "community.purchase_home.this_resource_is_no_longer_available": {
-        "string": "This resource is no longer available"
+    "dev_handoff.paywall.ready_for_dev.title": {
+        "string": "开发准备就绪"
     },
-    "community.purchase_home.manage_subscription": {
-        "string": "Manage subscription"
+    "dev_handoff.paywall.ready_for_dev.upsell": {
+        "string": "获取开发模式访问权限，检查和管理准备构建的项目。"
     },
-    "community.purchase_home.see_order_details": {
-        "string": "See order details"
+    "dev_handoff.paywall.request_pending": {
+        "string": "申请待处理"
     },
-    "community.purchase_home.contact_creator": {
-        "string": "Contact creator"
+    "dev_handoff.paywall.start_dev_mode_starter_trial": {
+        "string": "开始{numDays}天免费试用"
     },
-    "community.purchase_home.request_refund": {
-        "string": "Request refund"
+    "dev_handoff.paywall.starter_trial_nudge.description": {
+        "string": "免费试用2周的注释、高级检查功能和其他交接工具，使设计和开发更顺畅。"
     },
-    "community.purchase_home.get_support": {
-        "string": "Get support"
+    "dev_handoff.paywall.starter_trial_nudge.title": {
+        "string": "免费试用开发模式"
     },
-    "community.buyer.redirecting_to_stripe": {
-        "string": "Redirecting to Stripe…"
+    "dev_handoff.paywall.success_modal.grace_period.button": {
+        "string": "开始"
     },
-    "settings.account_setting.forgot_password": {
-        "string": "Forgot password?"
+    "dev_handoff.paywall.success_modal.grace_period.title": {
+        "string": "欢迎使用开发模式"
     },
-    "settings.account_setting.change_email_context": {
-        "string": "We’ll send an email to your new address with instructions on completing the change."
+    "dev_handoff.paywall.success_modal.no_grace_period.description": {
+        "string": "管理员批准后将通知您"
     },
-    "settings.account_setting.change_email_context_org_warning": {
-        "string": "If your new email doesn’t end in @{orgDomain}, you may lose access to some or all of your organization’s files."
+    "dev_handoff.paywall.success_modal.no_grace_period.title": {
+        "string": "已提交开发模式申请"
     },
-    "api_user.verify-email-message": {
-        "string": "We sent a verification email to {email}. Please check it to verify your new email."
+    "dev_handoff.paywall.team_not_member_hint": {
+        "string": "非此团队成员无法在此文件中访问开发模式。"
     },
-    "settings.account_settings.change_email_modal_title": {
-        "string": "Change email"
+    "dev_handoff.paywall.toggle_disabled_for_personal_drafts": {
+        "string": "要在此文件中使用开发模式，请将文件移至付费团队"
     },
-    "settings.account_setting.submit_button": {
-        "string": "Submit"
+    "dev_handoff.paywall.toggle_disabled_for_personal_drafts_pre_ps": {
+        "string": "要在此文件中使用开发模式，请将文件移至付费团队"
     },
-    "settings.account_setting.change_email_input_placeholder": {
-        "string": "New email"
+    "dev_handoff.paywall.toggle_disabled_go_to_drafts_to_move": {
+        "string": "访问“需要移动的草稿”"
     },
-    "settings.account_setting.change_email_confirm_password_placeholder": {
-        "string": "Confirm Figma password"
+    "dev_handoff.paywall.toggle_disabled_move_link": {
+        "string": "移动文件"
     }
 }

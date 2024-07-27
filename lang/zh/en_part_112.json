@@ -1,152 +1,152 @@
 {
-    "file_browser.draft_move_modal.back": {
-        "string": "Back"
+    "fullscreen.accessibility_dom.node_name_whiteboard-speech-bubble": {
+        "string": "对话框"
     },
-    "file_browser.draft_move_modal.team_creation_placeholder": {
-        "string": "e.g. Tanya's Design Co"
+    "fullscreen.accessibility_dom.node_name_whiteboard-square": {
+        "string": "正方形"
     },
-    "extension_request_modal.widget_file_details": {
-        "string": "This widget needs to be approved before it can be used in {fileLink}."
+    "fullscreen.accessibility_dom.node_name_whiteboard-star": {
+        "string": "星形"
     },
-    "extension_request_modal.plugin_file_details": {
-        "string": "This plugin needs to be approved before it can be used in {fileLink}."
+    "fullscreen.accessibility_dom.node_name_whiteboard-summing-junction": {
+        "string": "和接合"
     },
-    "extension_request_modal.widget_workspace_details": {
-        "string": "This widget needs to be approved before it can be used in {fileLink} and other files in the {workspace} workspace."
+    "fullscreen.accessibility_dom.node_name_whiteboard-trapezoid": {
+        "string": "梯形"
     },
-    "extension_request_modal.plugin_workspace_details": {
-        "string": "This plugin needs to be approved before it can be used in {fileLink} and other files in the {workspace} workspace."
+    "fullscreen.accessibility_dom.node_name_whiteboard-triangle-down": {
+        "string": "倒三角形"
     },
-    "extension_request_modal.request_widget_approval": {
-        "string": "Request widget approval"
+    "fullscreen.accessibility_dom.node_name_widget": {
+        "string": "小工具"
     },
-    "extension_request_modal.request_plugin_approval": {
-        "string": "Request plugin approval"
+    "fullscreen.accessibility_dom.num_children": {
+        "string": "{n, plural, other {#个项目}}"
     },
-    "extension_request_modal.widget_approval_requested": {
-        "string": "Widget approval requested"
+    "fullscreen.accessibility_dom.num_stamps": {
+        "string": "{count, plural, other {#个{name}印章}}"
     },
-    "extension_request_modal.plugin_approval_requested": {
-        "string": "Plugin approval requested"
+    "fullscreen.accessibility_dom.pos_in_set": {
+        "string": "{i}/{size}"
     },
-    "extension_request_modal.error_requesting_approval": {
-        "string": "Error requesting approval"
+    "fullscreen.accessibility_dom.primary_toolbar_label": {
+        "string": "主工具栏"
     },
-    "extension_request_modal.leave_widget_rerequest_note": {
-        "string": "If you still want to request this widget, let your admin know why you need this widget."
+    "fullscreen.accessibility_dom.unattached_comments": {
+        "string": "未固定评论"
     },
-    "extension_request_modal.leave_plugin_rerequest_note": {
-        "string": "If you still want to request this plugin, let your admin know why you need this plugin."
+    "fullscreen.accessibility_dom.unlabeled_image": {
+        "string": "无标签图像"
     },
-    "extension_request_modal.leave_widget_note": {
-        "string": "Leave a short note for your admin, telling them why you need this widget."
+    "fullscreen.accessibility_dom.unlabeled_video": {
+        "string": "无标签视频"
     },
-    "extension_request_modal.leave_plugin_note": {
-        "string": "Leave a short note for your admin, telling them why you need this plugin."
+    "fullscreen.accessibility_settings.dialog_title": {
+        "string": "辅助功能设置"
     },
-    "extension_request_modal.widget_declined_on_string": {
-        "string": "Widget declined on"
+    "fullscreen.accessibility_settings.enable_screenreader_description_figjam_beta": {
+        "string": "启用后，Figma原型和FigJam白板将为屏幕阅读器等辅助技术提供文本和结构。"
     },
-    "extension_request_modal.plugin_declined_on_string": {
-        "string": "Plugin declined on"
+    "fullscreen.accessibility_settings.enable_screenreader_label": {
+        "string": "使内容适应屏幕阅读器"
     },
-    "extension_request_modal.request_placeholder": {
-        "string": "I need this for…"
+    "fullscreen.appearance_panel.appearance": {
+        "string": "外观"
     },
-    "extension_request_modal.cancel": {
-        "string": "Cancel"
+    "fullscreen.appearance_panel.position": {
+        "string": "位置"
     },
-    "extension_request_modal.request": {
-        "string": "Request"
+    "fullscreen.auto": {
+        "string": "自动"
     },
-    "extension_request_modal.widget_approved": {
-        "string": "{numWorkspacesApproved, plural, one {This widget has been approved for files in the {workspaceList} workspace.} other {This widget has been approved for files in the {workspaceList} workspaces.}}"
+    "fullscreen.auto_layout_hints.force_insertion": {
+        "string": "更深嵌套"
     },
-    "extension_request_modal.plugin_approved": {
-        "string": "{numWorkspacesApproved, plural, one {This plugin has been approved for files in the {workspaceList} workspace.} other {This plugin has been approved for files in the {workspaceList} workspaces.}}"
+    "fullscreen.auto_layout_hints.ignore_auto_layout": {
+        "string": "忽略自动布局"
     },
-    "rcs.jamboard.open_in_browser_disclaimer.title": {
-        "string": "Continue in your browser"
+    "fullscreen.auto_layout_hints.prevent_nesting": {
+        "string": "禁止嵌套"
     },
-    "rcs.jamboard.open_in_browser_disclaimer.desc1": {
-        "string": "The button below will open Figma in your web browser. Once you get there, click “Import” in the top right corner."
+    "fullscreen.auto_layout_hints.space_key": {
+        "string": "空格键"
     },
-    "rcs.jamboard.connect_to_google_drive_disclaimer.cancel": {
-        "string": "Cancel"
+    "fullscreen.color_controls.blue": {
+        "string": "蓝色"
     },
-    "rcs.jamboard.open_in_browser_disclaimer.button": {
-        "string": "Open browser"
+    "fullscreen.color_controls.brightness": {
+        "string": "亮度"
     },
-    "rcs.jamboard.connect_to_google_drive_disclaimer.title": {
-        "string": "Connect Google Drive to FigJam"
+    "fullscreen.color_controls.eyedropper": {
+        "string": "滴管"
     },
-    "rcs.jamboard.connect_to_google_drive_disclaimer.desc1": {
-        "string": "By clicking Connect, you grant Figma access to your Google Drive to import your existing Jamboard files."
+    "fullscreen.color_controls.green": {
+        "string": "绿色"
     },
-    "rcs.jamboard.connect_to_google_drive_disclaimer.desc2": {
-        "string": "Note: You’ll need to re-authenticate each time you import."
+    "fullscreen.color_controls.hue": {
+        "string": "色调"
     },
-    "rcs.jamboard.connect_to_google_drive_disclaimer.button": {
-        "string": "Connect"
+    "fullscreen.color_controls.lightness": {
+        "string": "明度"
     },
-    "rcs.jamboard.google_drive_icon.alt": {
-        "string": "Google Drive Icon"
+    "fullscreen.color_controls.red": {
+        "string": "红色"
     },
-    "file_browser.file_import_view.import_from_your_computer": {
-        "string": "From your computer"
+    "fullscreen.color_controls.saturation": {
+        "string": "饱和度"
     },
-    "file_browser.file_import_view.import_from_your_computer_description": {
-        "string": "Drag in Miro PDFs, Sketch files, images, and more."
+    "fullscreen.color_management.beta.warning.desktop_unmanaged": {
+        "string": "您是测试版用户。要使用此功能，需重启桌面应用。"
     },
-    "file_browser.file_import_view.import_from_jamboard": {
-        "string": "From Jamboard"
+    "fullscreen.color_management.curator.change_document_color_profile.content": {
+        "string": "打开文件名{fileColorProfile}旁边的菜单。"
     },
-    "file_browser.file_import_view.import_from_jamboard_description": {
-        "string": "Bring in boards from Google Drive."
+    "fullscreen.color_management.curator.change_document_color_profile.title": {
+        "string": "查看此文件的Display P3颜色"
     },
-    "file_browser.file_import_view.import_header": {
-        "string": "Bring your work into Figma and FigJam"
+    "fullscreen.color_management.curator.color_profile_setting": {
+        "string": "前往[首选项] > [颜色配置文件]"
     },
-    "file_browser.file_import_view.import_description": {
-        "string": "Import images, Sketch files, and PDF exports from Lucid, Miro, and Mural."
+    "fullscreen.color_management.curator.default_to_p3.user_color_profile.content": {
+        "string": "新文件的首选颜色配置文件现在是Display P3。要更改为sRGB，请前往{colorProfileSetting}。"
     },
-    "file_browser.file_import_view.add_from_jamboard": {
-        "string": "Add Jamboard files"
+    "fullscreen.color_management.curator.default_to_p3.user_color_profile.title": {
+        "string": "Display P3现已支持"
     },
-    "file_browser.file_import_view.import_from_computer": {
-        "string": "Import from computer"
+    "fullscreen.color_management.curator.file_color_profile": {
+        "string": "> [文件颜色配置文件]"
     },
-    "file_browser.file_import_view.import": {
-        "string": "Import"
+    "fullscreen.color_management.curator.step_1of2": {
+        "string": "1/2"
     },
-    "file_browser.file_import_view.import_from_jamboard_icon_alt": {
-        "string": "Google Drive logo"
+    "fullscreen.color_management.curator.step_2of2": {
+        "string": "2/2"
     },
-    "file_browser.file_import_view.failed_to_retrieve_file": {
-        "string": "Unable to retrieve file from Google Drive"
+    "fullscreen.color_management.document_modal.cancel": {
+        "string": "保留{color_profile}"
     },
-    "file_browser.file_import_view.google_drive_access_expired": {
-        "string": "Access to Google Drive has expired—try importing again"
+    "fullscreen.color_management.document_modal.confirm.title.assign_display_p3": {
+        "string": "分配Display P3"
     },
-    "rcs.jamboard.import_files_failed.title": {
-        "string": "Couldn’t import files"
+    "fullscreen.color_management.document_modal.confirm.title.assign_srgb": {
+        "string": "分配sRGB"
     },
-    "rcs.jamboard.import_files_failed_error.desc": {
-        "string": "Something’s gone wrong, and FigJam wasn’t able to bring over all of your files. Mind trying again?"
+    "fullscreen.color_management.document_modal.confirm.title.convert_display_p3": {
+        "string": "转换为Display P3"
     },
-    "rcs.jamboard.import_files_failed.cancel": {
-        "string": "Cancel"
+    "fullscreen.color_management.document_modal.confirm.title.convert_srgb": {
+        "string": "转换为sRGB"
     },
-    "rcs.jamboard.import_files_failed.button": {
-        "string": "Try again"
+    "fullscreen.color_management.document_modal.options.assign.subtitle": {
+        "string": "保持相同颜色值。颜色外观会有所改变。"
     },
-    "drafts_edit_education_banner.others": {
-        "string": "others"
+    "fullscreen.color_management.document_modal.options.assign.title": {
+        "string": "保持值（分配）"
     },
-    "drafts_edit_education_banner.description": {
-        "string": "Drafts can’t be edited by others. To let {nameToDisplay} edit this file, move it into a project below."
+    "fullscreen.color_management.document_modal.options.convert.subtitle.display_p3_to_srgb": {
+        "string": "将值（如Hex代码）更改为最接近的Display P3值。颜色外观保持不变。"
     },
-    "file_browser.delete_project.generic_confirm_text": {
-        "string": "Project {folderName} and its files will be deleted. The project will be permanently deleted, but you can restore files from the 'Deleted' tab in your drafts."
+    "fullscreen.color_management.document_modal.options.convert.subtitle.srgb_to_display_p3": {
+        "string": "将值（如Hex代码）更改为最接近的sRGB值。颜色外观保持不变。"
     }
 }

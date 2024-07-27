@@ -1,152 +1,152 @@
 {
-    "dev_handoff.inspect_panel.plugins_hint.title": {
-        "string": "Use your favorite tools right in Figma"
+    "sites.breakpoint_bar.main": {
+        "string": "主"
     },
-    "dev_handoff.inspect_panel.plugins_hint.link": {
-        "string": "Browse plugins"
+    "spell_check.spell_check_disabled": {
+        "string": "拼写检查已禁用"
     },
-    "dev_handoff.assets.video": {
-        "string": "Video"
+    "spell_check.spell_check_enabled": {
+        "string": "拼写检查已启用"
     },
-    "dev_handoff.assets.gif": {
-        "string": "GIF"
+    "unsaved_changes.prompt.changes_may_not_be_saved": {
+        "string": "更改可能未保存。"
     },
-    "dev_handoff.assets.image": {
-        "string": "Image"
+    "variables.token_name_invalid_chars": {
+        "string": "Dev名称只能包含字母、数字和以下符号: _ $ -"
     },
-    "dev_handoff.assets.icon": {
-        "string": "Icon"
+    "variables.variable_limit_in_collection_reached": {
+        "string": "集合中不能添加超过{variableLimit}个变量"
     },
-    "inspect_panel.property.mixed": {
-        "string": "Mixed"
+    "variables.variable_name_duplicate_name": {
+        "string": "变量名称不能在集合中重复"
     },
-    "inspect_panel.code.code": {
-        "string": "Code"
+    "variables.variable_name_invalid_chars": {
+        "string": "变量名称不能包含以下符号: { }' . $"
     },
-    "fullscreen.properties_panel.properties": {
-        "string": "Properties"
+    "variables.variables_detached": {
+        "string": "已解除{numDetached}个使用的变量。仍在使用{numRemaining}个已删除的变量。"
     },
-    "dev_handoff.alternative_units.only_apply_rem_on_text": {
-        "string": "Only apply {rem} on text properties"
+    "visual_bell.add_file_failure_mobile_plural": {
+        "string": "无法添加{failedFileCount}个文件"
     },
-    "dev_handoff.alternative_units.rem_unit": {
-        "string": "rem"
+    "visual_bell.add_file_failure_mobile_singular": {
+        "string": "无法添加{failedFileCount}个文件"
     },
-    "dev_handoff.alternative_units.description_scale_factor_ios": {
-        "string": "Scale factor for scaling dimensions into iOS points"
+    "visual_bell.all_objects_unlocked": {
+        "string": "所有对象已解锁"
     },
-    "dev_handoff.alternative_units.description_scale_factor_android": {
-        "string": "Scale factor for scaling dimensions into Android dp/sp"
+    "visual_bell.alu_hints_off": {
+        "string": "ALU提示已关闭"
     },
-    "dev_handoff.alternative_units.description_scale_factor_web": {
-        "string": "Root font size for scaling pixels into CSS rems"
+    "visual_bell.alu_hints_on": {
+        "string": "ALU提示已开启"
     },
-    "dev_handoff.alternative_units.description_scale_factor_third_party": {
-        "string": "Scale factor for scaling pixels into {unitName} units"
+    "visual_bell.alu_visual_indicators_off": {
+        "string": "ALU视觉指示器: 关闭"
     },
-    "dev_handoff.alternative_units.unit_settings_modal_title": {
-        "string": "Unit settings"
+    "visual_bell.alu_visual_indicators_on": {
+        "string": "ALU视觉指示器: 开启"
     },
-    "dev_handoff.alternative_units.no_scale": {
-        "string": "No scaling"
+    "visual_bell.an_invalid_image_or_thumbnail_was_removed": {
+        "string": "无效的图片或缩略图已被移除"
     },
-    "dev_handoff.alternative_units.dp_unit": {
-        "string": "dp/sp"
+    "visual_bell.an_invalid_video_was_removed": {
+        "string": "无效的视频已被移除"
     },
-    "dev_handoff.alternative_units.pt_unit": {
-        "string": "pt"
+    "visual_bell.annotations_hidden": {
+        "string": "注释已隐藏"
     },
-    "dev_handoff.code.settings.set_as_default": {
-        "string": "Set as default"
+    "visual_bell.annotations_visible": {
+        "string": "注释已显示"
     },
-    "inspect_panel.node_type.detached_component": {
-        "string": "Detached component"
+    "visual_bell.auto_fill_full_width_children_off": {
+        "string": "子元素自动填充父元素宽度: 关闭"
     },
-    "inspect_panel.node_type.union": {
-        "string": "Union"
+    "visual_bell.auto_fill_full_width_children_on": {
+        "string": "子元素自动填充父元素宽度: 开启"
     },
-    "inspect_panel.node_type.intersect": {
-        "string": "Intersect"
+    "visual_bell.auto_layout_added": {
+        "string": "自动布局已添加"
     },
-    "inspect_panel.node_type.subtract": {
-        "string": "Subtract"
+    "visual_bell.auto_layout_added_partial": {
+        "string": "无法将自动布局添加到所选的所有对象"
     },
-    "inspect_panel.node_type.exclude": {
-        "string": "Exclude"
+    "visual_bell.can_t_paste_between_fig_jam_and_editor_files": {
+        "string": "无法在FigJam文件和编辑器文件之间粘贴"
     },
-    "inspect_panel.node_type.vector": {
-        "string": "Vector"
+    "visual_bell.can_t_paste_flapps_into_design_files": {
+        "string": "无法将Figma Slides小部件粘贴到Figma中"
     },
-    "inspect_panel.node_type.star": {
-        "string": "Star"
+    "visual_bell.can_t_paste_flapps_into_figjam_files": {
+        "string": "无法将Figma Slides小部件粘贴到FigJam中"
     },
-    "inspect_panel.node_type.line": {
-        "string": "Line"
+    "visual_bell.can_t_paste_ss_from_fig_jam_to_design_files": {
+        "string": "无法将FigJam文件中的{typeName}粘贴到设计文件中"
     },
-    "inspect_panel.node_type.ellipse": {
-        "string": "Ellipse"
+    "visual_bell.can_t_paste_this_data_between_different_file_versions_please_refresh_file_and_retry": {
+        "string": "无法在不同版本的文件之间粘贴此数据。请刷新文件并重试"
     },
-    "inspect_panel.node_type.rectangle": {
-        "string": "Rectangle"
+    "visual_bell.cannot_create_symbol_from_non_matching_selection": {
+        "string": "选择内容不匹配，无法创建组件和实例"
     },
-    "inspect_panel.node_type.polygon": {
-        "string": "Polygon"
+    "visual_bell.cant_export_empty_or_hidden_layers_to_pdf": {
+        "string": "无法将空或隐藏图层导出为PDF"
     },
-    "inspect_panel.node_type.text": {
-        "string": "Text"
+    "visual_bell.comments_hidden": {
+        "string": "评论已隐藏"
     },
-    "inspect_panel.node_type.slice": {
-        "string": "Slice"
+    "visual_bell.comments_visible": {
+        "string": "评论已显示"
     },
-    "inspect_panel.node_type.main_component_set": {
-        "string": "Component set"
+    "visual_bell.component_prop_refs_have_been_pruned": {
+        "string": "组件属性引用已删除"
     },
-    "inspect_panel.node_type.horizontal_al": {
-        "string": "Row layout"
+    "visual_bell.component_props_have_been_regenerated": {
+        "string": "组件属性已重新生成"
     },
-    "inspect_panel.node_type.vertical_al": {
-        "string": "Column layout"
+    "visual_bell.component_props_in_selection_have_been_cleared": {
+        "string": "所选内容中的组件属性已清除"
     },
-    "inspect_panel.node_type.group": {
-        "string": "Group"
+    "visual_bell.components_are_either_private_or_already_published": {
+        "string": "组件要么是私有的，要么已经发布"
     },
-    "inspect_panel.node_type.frame": {
-        "string": "Frame"
+    "visual_bell.components_can_t_contain_instances_of_themselves": {
+        "string": "组件不能包含它们自己的实例"
     },
-    "inspect_panel.node_type.main_variant": {
-        "string": "Variant"
+    "visual_bell.converting_to_stickies": {
+        "string": "正在转换为便签…"
     },
-    "inspect_panel.node_type.main_component": {
-        "string": "Main component"
+    "visual_bell.copied_as_png": {
+        "string": "已复制为PNG"
     },
-    "inspect_panel.node_type.instance": {
-        "string": "Component instance"
+    "visual_bell.copied_as_svg": {
+        "string": "已复制为SVG"
     },
-    "inspect_panel.node_type.figjam": {
-        "string": "FigJam node"
+    "visual_bell.copied_color_to_clipboard": {
+        "string": "颜色已复制到剪贴板"
     },
-    "inspect_panel.node_type.section": {
-        "string": "Section"
+    "visual_bell.copy_as_file_type_failed_try_again": {
+        "string": "复制为{fileType}失败 | 请重试"
     },
-    "inspect_panel.node_type.widget": {
-        "string": "Widget"
+    "visual_bell.copy_as_png.retry": {
+        "string": "重试"
     },
-    "inspect_panel.node_type.page": {
-        "string": "Page"
+    "visual_bell.copy_as_png_failed": {
+        "string": "复制为PNG失败"
     },
-    "inspect_panel.node_type.table": {
-        "string": "Table"
+    "visual_bell.copy_exclude_vote_stamp_from_selection": {
+        "string": "投票未被复制"
     },
-    "inspect_panel.node_type_tooltip.detached_component": {
-        "string": "This layer was detached from main component"
+    "visual_bell.copy_failed": {
+        "string": "复制失败。选择可能太大，无法复制到剪贴板。"
     },
-    "dev_handoff.status.ready_for_dev": {
-        "string": "Ready for dev"
+    "visual_bell.copy_failed_only_vote_stamps": {
+        "string": "无法复制投票"
     },
-    "dev_handoff.status.completed": {
-        "string": "Completed"
+    "visual_bell.copy_mobile": {
+        "string": "已复制到剪贴板"
     },
-    "dev_handoff.status.mark_status_sentence_part.ready_for_dev": {
-        "string": "Ready for dev"
+    "visual_bell.cut_mobile": {
+        "string": "已剪切并复制到剪贴板"
     }
 }

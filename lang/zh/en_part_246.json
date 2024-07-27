@@ -1,152 +1,152 @@
 {
-    "fullscreen.pages_panel.memory_usage_recovery_mode_low": {
-        "string": "You’re good to go"
+    "payments_modal.learn_more_about_our_paid_plans": {
+        "string": "有料プランの詳細を参照してください"
     },
-    "fullscreen.pages_panel.memory_usage_youre_good_to_go": {
-        "string": "You're good to go"
+    "payments_modal.learn_more_about_team_plans": {
+        "string": "チームプランの詳細情報"
     },
-    "fullscreen.pages_panel.memory_usage_learn_more": {
-        "string": "Learn more"
+    "payments_modal.more_files": {
+        "string": "他のファイル"
     },
-    "fullscreen.pages_panel.memory_usage": {
-        "string": "Memory usage"
+    "payments_modal.move": {
+        "string": "移動"
     },
-    "fullscreen.pages_panel.memory_usage_recovery_mode_exit": {
-        "string": "Exit recovery mode"
+    "payments_modal.move_figjam_files_to_drafts": {
+        "string": "{numFigJamFiles, plural, other {{numFigJamFiles}個のFigJamファイルをドラフトに移動します}}"
     },
-    "manage_memory_modal.manage_memory_button": {
-        "string": "Manage memory"
+    "payments_modal.move_figma_files_to_drafts": {
+        "string": "{numFigmaFiles, plural, other {{numFigmaFiles}個のFigmaファイルをドラフトに移動します}}"
     },
-    "external_collaboration_restricted.banner.title": {
-        "string": "Editing locked"
+    "payments_modal.okay": {
+        "string": "OK"
     },
-    "external_collaboration_restricted.banner.restriction_description": {
-        "string": "You can't edit files from outside {organizationName} (including files in External Teams) due to admin settings. Export files to a different account to keep editing."
+    "payments_modal.on_the_starter_plan_your_team_is_limited": {
+        "string": "{maxFreeFiles, plural, other {スタータープランのチームの上限は、{maxFreeFiles}Figmaファイル、{maxFreeFiles}FigJamファイル、{maxFreeFolders}プロジェクトです。}}"
     },
-    "banner.pro_team_no_monthly_sub.over_limit_as_admin.seat_rename": {
-        "string": "Your team added paid seats after your Figma subscription was cancelled. To restore access, reactivate your subscription or downgrade seats. Need help? {contactSupportLink}"
+    "payments_modal.org_trial.enterprise": {
+        "string": "エンタープライズ"
     },
-    "banner.pro_team_no_monthly_sub.contact_support": {
-        "string": "Contact support"
+    "payments_modal.org_trial.organization": {
+        "string": "ビジネス"
     },
-    "banner.pro_team_no_monthly_sub.over_team_limit_without_admin.seat_rename": {
-        "string": "{teamName} added new paid seats after the subscription was cancelled. To restore access, please ask your team admin to reactivate the subscription or downgrade some people's seats."
+    "payments_modal.org_trial.switch_my_workspace": {
+        "string": "ワークスペースを切り替える"
     },
-    "banner.pro_trial_expiry.locked_description": {
-        "string": "Your team files are view-only until you {lowerUsageLink} to meet Starter limits or {upgradeLink}."
+    "payments_modal.org_trial_expired.description": {
+        "string": "このプランを継続する場合は、Figmaの営業担当にご連絡ください。"
     },
-    "banner.pro_trial_expiry.lower_usage": {
-        "string": "lower your usage"
+    "payments_modal.org_trial_expired.title": {
+        "string": "Figma{planText}のトライアルが終了しました"
     },
-    "banner.pro_trial_expiry.upgrade": {
-        "string": "upgrade"
+    "payments_modal.org_trial_pending.by_clicking_agree": {
+        "string": "「{agreeText}」をクリックすることで、上記の条項およびFigmaの{ssaLink}に同意します。"
     },
-    "banner.pro_trial_expiry.locked_description_for_viewer_on_team": {
-        "string": "{teamName}’s files are temporarily view-only. Ask your team admin for details."
+    "payments_modal.org_trial_pending.editor_count.seat_rename": {
+        "string": "この{planText}トライアルの有料シートの見積数は{editorCount}です。トライアル中はさらにシートを追加しても料金は請求されません"
     },
-    "banner.pro_trial_expiry.expiry_description": {
-        "string": "{teamName} is back on the Starter plan, but you can upgrade at any time."
+    "payments_modal.org_trial_pending.error": {
+        "string": "トライアル検証エラー。再読み込みをするか、Figmaにサポートを依頼してください"
     },
-    "locked_team.banner.all_of_this_teams_work_is_currently_view_only_dev_mode": {
-        "string": "All of this team’s work is currently view-only. You can use Dev Mode again when the team is unlocked. {learnMoreLink} "
+    "payments_modal.org_trial_pending.expiration_date": {
+        "string": "Figmaの{planText}プランのトライアルが本日スタートし、{endDate}に自動的に終了します"
     },
-    "locked_team.banner.all_of_this_teams_work_is_currently_view_only": {
-        "string": "All of this team’s work is currently view-only. You can edit again when the team is unlocked. {learnMoreLink} "
+    "payments_modal.org_trial_pending.i_agree": {
+        "string": "同意する"
     },
-    "locked_team.banner.learn_more": {
-        "string": "Learn more"
+    "payments_modal.org_trial_pending.make_sure_things_look_right": {
+        "string": "内容をご確認ください。同意いただくと、トライアル期間中、チームは{planText}プランのすべての機能にアクセスできます。"
     },
-    "banner.free_limit_locked.team_locked_over_starter_limits": {
-        "string": "{teamName} is locked because it’s reached the limits of a Starter plan."
+    "payments_modal.org_trial_pending.no_obligation_to_purchase": {
+        "string": "チームは、貴社とFigmaとがその後の最終的な商業契約を結ぶまで、Figma{planText}プランへのアクセス権を購入する義務を負いません。"
     },
-    "banner.free_limit_locked.upgrade_team_or_lower_usage": {
-        "string": "Upgrade {teamName} now to continue editing files or lower your usage. {learnMoreLink}"
+    "payments_modal.org_trial_pending.ssa_link": {
+        "string": "ソフトウェアサービス契約"
     },
-    "banner.free_limit_locked.learn_more": {
-        "string": "Learn more"
+    "payments_modal.org_trial_pending.success": {
+        "string": "成功! トライアルへようこそ"
     },
-    "banner.free_limit_locked.ask_your_team_admin_for_details": {
-        "string": "Ask your team admin for details."
+    "payments_modal.org_trial_pending.terms_and_conditions": {
+        "string": "このトライアルには、Figmaの{ssaLink}(「SSA」)に「早期アクセス機能」として記載されている条件が適用されます。"
     },
-    "banner.personal_projects.deprecation_message": {
-        "string": "Projects are no longer supported outside of teams. Please move this file to a team or your drafts to continue editing. {learnMoreLink}"
+    "payments_modal.org_trial_pending.trial_still_needs_admin_approval": {
+        "string": "このトライアルは、管理者にまだ承認されていないようです。Figma{planText}プランの利用を開始するには、管理者に連絡してください。"
     },
-    "banner.personal_projects.learn_more": {
-        "string": "Learn more."
+    "payments_modal.org_trial_pending.welcome_to_your_figma_trial": {
+        "string": "Figma{planText}のトライアルへようこそ"
     },
-    "banner.freemium_preview.this_is_just_a_preview": {
-        "string": "This is just a preview"
+    "payments_modal.org_trial_pending.your_trial_is_almost_ready": {
+        "string": "トライアルをまもなく利用できます"
     },
-    "banner.freemium_preview.get_the_full_file_on_community": {
-        "string": "Get the full file on Community"
+    "payments_modal.pay_invoice": {
+        "string": "請求書の代金を支払う"
     },
-    "banner.freemium_preview.you_purchased_this_file_already": {
-        "string": "You purchased this file already."
+    "payments_modal.pay_overdue_invoice_to_regain_access": {
+        "string": "期限の過ぎた請求書の代金を支払ってアクセス権を回復します"
     },
-    "banner.freemium_preview.this_is_just_a_preview_of_the_file_you_can_buy_on_community": {
-        "string": "This is just a preview of the file you can buy on Community."
+    "payments_modal.please_reach_out_to_b_class_name_styles_bold_support_figma_com_b_to_resolve_the_issue": {
+        "string": "この問題を解決するには、{supportEmail}までご連絡ください。"
     },
-    "banner.freemium_preview.open_in_community": {
-        "string": "Open Community page"
+    "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue": {
+        "string": "この請求の問題を解決するには、組織管理者に連絡してください。"
     },
-    "banner.freemium_preview.buy_the_resource": {
-        "string": "Buy this file"
+    "payments_modal.please_reach_out_to_your_organization_admin_s_to_resolve_this_billing_issue_thank_you": {
+        "string": "この請求の問題を解決するには、組織の管理者にご連絡ください。よろしくお願いいたします。"
     },
-    "banner.file_creation_failure.title": {
-        "string": "File not available online"
+    "payments_modal.remove_invite_only_permissions_from_all_projects": {
+        "string": "\"招待限定\"権限をすべてのプロジェクトから削除"
     },
-    "banner.file_creation_failure.description": {
-        "string": "This offline file couldn’t be synced. Copy the contents into a new file to keep your work."
+    "payments_modal.remove_projects": {
+        "string": "{numProjects, plural, other {{numProjects}個のプロジェクトを削除します}}"
     },
-    "banner.browser_deprecation.description": {
-        "string": "Please upgrade your browser to the latest version by {deprecationDate, date, ::MMMMd} to continue using Figma"
+    "payments_modal.remove_view_only_permissions_from_all_projects": {
+        "string": "\"閲覧限定\"権限をすべてのプロジェクトから削除する"
     },
-    "banner.browser_deprecation.description_now": {
-        "string": "Please upgrade your browser to the latest version to continue using Figma"
+    "payments_modal.restore": {
+        "string": "復元"
     },
-    "banner.browser_deprecation.title": {
-        "string": "Your browser will soon be unsupported"
+    "payments_modal.switch_organization_or_account": {
+        "string": "組織またはアカウントを切り替え"
     },
-    "banner.browser_deprecation.learn_more": {
-        "string": "Learn more."
+    "payments_modal.switch_workspaces_to_continue_using_figma": {
+        "string": "Figmaを引き続き使用するには、ワークスペースを切り替えてください。"
     },
-    "banner.desktop_app_deprecation.description": {
-        "string": "Please upgrade to a newer version by {deprecationDate, date, ::MMMMd} to continue using Figma"
+    "payments_modal.team_name_is_currently_locked_please_update_your_payment_source_to_unlock_team_name_and_modify_team_members": {
+        "string": "{teamName}は現在ロックされています。{teamName}のロックを解除してチームメンバーを変更するには、支払い元を更新してください。"
     },
-    "banner.desktop_app_deprecation.title": {
-        "string": "Your desktop app will soon be unsupported"
+    "payments_modal.thank_you": {
+        "string": "どうぞよろしくお願いいたします。"
     },
-    "banner.desktop_app_deprecation.learn_more": {
-        "string": "Download"
+    "payments_modal.these_files": {
+        "string": "これらのファイル"
     },
-    "banner.pro_team_past_due.locked": {
-        "string": "Locked"
+    "payments_modal.this_file": {
+        "string": "このファイル"
     },
-    "banner.pro_team_past_due.update_payment_source.can_admin": {
-        "string": "Our last 3 attempted charges were unsuccessful. Please update your payment source to continue editing files in {teamName}."
+    "payments_modal.this_project": {
+        "string": "このプロジェクト"
     },
-    "banner.pro_team_past_due.update_payment_source.no_admin": {
-        "string": "Our last 3 attempted charges were unsuccessful. Please update your payment source to continue editing files in {teamName}. Contact admin to update payment."
+    "payments_modal.to_meet_the_limits_for_your_starter_plan": {
+        "string": "チームのスタータープランの制限を守るには:"
     },
-    "banner.pro_team_past_due.update_payment": {
-        "string": "Update payment"
+    "payments_modal.update_payment": {
+        "string": "支払い情報を更新"
     },
-    "external_collaboration_restricted.banner.export_file": {
-        "string": "Export file"
+    "payments_modal.update_your_payment": {
+        "string": "支払い情報を更新"
     },
-    "banner.desktop_download_title": {
-        "string": "Download the Figma desktop app"
+    "payments_modal.upgrade": {
+        "string": "アップグレード"
     },
-    "banner.desktop_download_description": {
-        "string": "Level up your workflow with tabs, quick access to files, new file creation, and dedicated desktop notifications"
+    "payments_modal.upgrade_to_professional": {
+        "string": "プロフェッショナルにアップグレード"
     },
-    "banner.desktop_download_button": {
-        "string": "Get the desktop app"
+    "payments_modal.upgrade_to_verb_resource_name": {
+        "string": "{resourceName}を{verb}するには、アップグレードしてください"
     },
-    "banner.pro_team_charge_failed.payment_failed": {
-        "string": "Payment failed"
+    "payments_modal.you_may_give_them_edit_access_later_if_you_upgrade_to_the_professional_plan_or_downgrade_other_editors_on_your_team_to_viewers.seat_rename": {
+        "string": "プロフェッショナルプランにアップグレードするか、チームの他のシートをダウングレードすると、後でこれらのメンバーに編集アクセス権を付与できます。"
     },
-    "banner.pro_team_charge_failed.unsuccessful_team_charge.can_admin": {
-        "string": "We couldn’t charge your payment method for {teamName}. Please update your payment details as soon as possible. File editing will be locked after 3 tries."
+    "payments_modal.you_no_longer_have_access_to_this_organization": {
+        "string": "この組織にはアクセスできなくなりました"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "settings_tab.member_metadata_description": {
-        "string": "Change which SCIM metadata shows on the members tab"
+    "sites.panel.accessibility_tag_label": {
+        "string": "タグ"
     },
-    "settings_tab.connected_apps": {
-        "string": "Connected apps"
+    "sites.panel.add_tooltip": {
+        "string": "アクセシビリティの設定を追加"
     },
-    "settings_tab.connected_apps_description": {
-        "string": "Manage which third-party apps have access to your organization"
+    "sites.panel.description": {
+        "string": "説明"
     },
-    "org_admin_settings.compliance_center_label": {
-        "string": "Compliance Hub"
+    "sites.panel.home": {
+        "string": "ホーム"
     },
-    "org_admin_settings.compliance_center_description": {
-        "string": "Administrators can access the Figma compliance hub to access Figma's compliance documents and answers to common questions."
+    "sites.panel.html_widget.google_map.location": {
+        "string": "場所"
     },
-    "org_admin_settings.enterprise_installer_label": {
-        "string": "Windows Enterprise installer"
+    "sites.panel.html_widget.google_map.zoom": {
+        "string": "ズーム"
     },
-    "org_admin_settings.enterprise_installer_description": {
-        "string": "Download Figma's machine-wide MSI for Windows"
+    "sites.panel.html_widget.mailchimp.form_url": {
+        "string": "フォームURL"
     },
-    "org_admin_settings.enterprise_installer_label_mac": {
-        "string": "macOS Enterprise installer"
+    "sites.panel.html_widget.mailchimp.form_url_tip": {
+        "string": "Mailchimpアカウントを作成して、埋め込まれたフォームURLをコピーします"
     },
-    "org_admin_settings.enterprise_installer_description_mac": {
-        "string": "Download Figma's PKG for macOS"
+    "sites.panel.html_widget.mailchimp.input_placeholder": {
+        "string": "入力プレースホルダー"
     },
-    "settings_tab.data_storage_description": {
-        "string": "Store localization-supported data in the US or EU. To change storage location please contact support. Current data location: {currentLocation}"
+    "sites.panel.html_widget.mailchimp.submit_button_label": {
+        "string": "送信ボタンのテキスト"
     },
-    "settings_tab.delete_org_label": {
-        "string": "Delete this organization"
+    "sites.panel.html_widget.youtube.video_link": {
+        "string": "動画のリンク"
     },
-    "settings_tab.delete_org_description": {
-        "string": "Request to delete this organization"
+    "sites.panel.interactions_panel.add_tooltip": {
+        "string": "インタラクションを追加"
     },
-    "settings_tab.delete_user_label": {
-        "string": "Delete user and their data"
+    "sites.panel.interactions_panel.appear_behavior": {
+        "string": "表示する"
     },
-    "settings_tab.delete_user_description": {
-        "string": "Request to permanently delete a user and their data"
+    "sites.panel.interactions_panel.back_tooltip": {
+        "string": "戻る"
     },
-    "settings_tab.section_header.user_data": {
-        "string": "User data"
+    "sites.panel.interactions_panel.curve": {
+        "string": "曲線"
     },
-    "org_admin_settings.billing_details.billing_contact_updated": {
-        "string": "Billing contact updated"
+    "sites.panel.interactions_panel.custom": {
+        "string": "カスタム"
     },
-    "settings_tab.ip_allowlist_domain_capture_tooltip": {
-        "string": "Domain capture is required to enable IP allowlisting. Contact support to turn on domain capture."
+    "sites.panel.interactions_panel.details_tooltip": {
+        "string": "設定"
     },
-    "org_admin_settings.billing_banner_figjam.you_have_a_credit_amount": {
-        "string": "You have a {accountCredit} credit that will be applied to your next invoice"
+    "sites.panel.interactions_panel.enter_preset": {
+        "string": "入力"
     },
-    "org_admin_settings.billing_banner_figjam.due_date_message": {
-        "string": "Your {dueDate} invoice has been issued and is due in {differenceDays} days on {pastDueDate}. {payInvoiceLink}"
+    "sites.panel.interactions_panel.exit_preset": {
+        "string": "終了"
     },
-    "org_admin_settings.billing_banner_figjam.pay_invoice": {
-        "string": "Pay invoice"
+    "sites.panel.interactions_panel.fade_in": {
+        "string": "フェードイン"
     },
-    "org_admin_settings.billing_banner_figjam.invoice_overdue": {
-        "string": "Your {dueDate} invoice of {amount} is overdue. Please make a payment. {payInvoiceLink}"
+    "sites.panel.interactions_panel.fade_out": {
+        "string": "フェードアウト"
     },
-    "billing_groups_table.n_editors.seat_rename": {
-        "string": "{count, plural, one {1 seat} other {{count} seats}}"
+    "sites.panel.interactions_panel.focus_behavior": {
+        "string": "フォーカス"
     },
-    "workspace_table.unassigned": {
-        "string": "Unassigned"
+    "sites.panel.interactions_panel.hover_behavior": {
+        "string": "ホバーエフェクト"
     },
-    "workspace_table.unassigned_row_default": {
-        "string": "(default)"
+    "sites.panel.interactions_panel.interaction_settings": {
+        "string": "インタラクションの設定"
     },
-    "billing_groups_table.n_members": {
-        "string": "{count, plural, one {1 member} other {{count} members}}"
+    "sites.panel.interactions_panel.interactions": {
+        "string": "インタラクション"
     },
-    "billing_groups_table.unconfirmed_billing_groups": {
-        "string": "Unconfirmed billing groups"
+    "sites.panel.interactions_panel.layer_label": {
+        "string": "レイヤー"
     },
-    "billing_groups_table.column_header.design_editors.seat_rename": {
-        "string": "Design seats"
+    "sites.panel.interactions_panel.none": {
+        "string": "なし"
     },
-    "billing_groups_table.column_header.figjam_editors.seat_rename": {
-        "string": "FigJam seats"
+    "sites.panel.interactions_panel.offset": {
+        "string": "オフセット"
     },
-    "billing_groups_table.column_header.dev_mode_seats": {
-        "string": "Dev Mode seats"
+    "sites.panel.interactions_panel.offset_x": {
+        "string": "オフセットX"
     },
-    "billing_groups_table.column_header.name": {
-        "string": "Name"
+    "sites.panel.interactions_panel.offset_y": {
+        "string": "オフセットY"
     },
-    "billing_groups_table.column_header.admins": {
-        "string": "Admins"
+    "sites.panel.interactions_panel.opacity": {
+        "string": "不透明度"
     },
-    "billing_groups_table.column_header.members": {
-        "string": "Members"
+    "sites.panel.interactions_panel.other_layer_in_view": {
+        "string": "表示されている他のレイヤー"
     },
-    "billing_groups_table.confirmed": {
-        "string": "Confirmed"
+    "sites.panel.interactions_panel.page_load": {
+        "string": "ページの読み込み"
     },
-    "billing_groups_table.unconfirmed": {
-        "string": "Unconfirmed"
+    "sites.panel.interactions_panel.press_behavior": {
+        "string": "押す"
     },
-    "billing_groups_table.search.placeholder": {
-        "string": "Search billing groups…"
+    "sites.panel.interactions_panel.remove_tooltip": {
+        "string": "インタラクションを削除"
     },
-    "multi_select_list.selected_count_billing_groups": {
-        "string": "{numSelected, plural, one {{numSelected} billing group selected:} other {{numSelected} billing groups selected:}}"
+    "sites.panel.interactions_panel.replay_label": {
+        "string": "リプレイ"
     },
-    "billing_groups_table.search.no_results": {
-        "string": "No billing groups match your search query. Try your search again."
+    "sites.panel.interactions_panel.replay_off_label": {
+        "string": "リプレイを無効にする"
     },
-    "billing_groups_table.filter.no_results": {
-        "string": "No billing groups match the selected filters."
+    "sites.panel.interactions_panel.replay_on_label": {
+        "string": "リプレイを有効にする"
     },
-    "onboarding_pointers.activity_filter_onboarding": {
-        "string": "Search for an individual user's activity and filter by date range, event type, and team."
+    "sites.panel.interactions_panel.restart_preview": {
+        "string": "プレビューを再開"
     },
-    "onboarding_pointers.activity_csv_onboarding": {
-        "string": "Request to have a complete CSV export of all activities in your organization emailed to you."
+    "sites.panel.interactions_panel.rotation": {
+        "string": "回転"
     },
-    "onboarding_pointers.manage_billing_group_overlay.title": {
-        "string": "Add members to your billing group"
+    "sites.panel.interactions_panel.scale": {
+        "string": "拡大縮小"
     },
-    "onboarding_pointers.manage_billing_group_overlay.description": {
-        "string": "Select {optionName} from the dropdown menu to add members to this billing group."
+    "sites.panel.interactions_panel.scale_in": {
+        "string": "スケールイン"
     },
-    "billing_groups_table.manage": {
-        "string": "Manage"
+    "sites.panel.interactions_panel.scale_in_bottom": {
+        "string": "下からスケールイン"
     },
-    "org_admin_settings.cost_breakdown.date": {
-        "string": "Date"
+    "sites.panel.interactions_panel.scale_out": {
+        "string": "スケールアウト"
     },
-    "org_admin_settings.cost_breakdown.description": {
-        "string": "Description"
+    "sites.panel.interactions_panel.scale_out_bottom": {
+        "string": "下からスケールアウト"
     },
-    "org_admin_settings.cost_breakdown.design_editor_seats.seat_rename": {
-        "string": "Design seats"
+    "sites.panel.interactions_panel.scroll_direction": {
+        "string": "スクロール方向"
     },
-    "org_admin_settings.invoice_table.dev_mode_seats": {
-        "string": "Dev Mode seats"
+    "sites.panel.interactions_panel.scroll_parallax_behavior": {
+        "string": "スクロール速度"
     },
-    "org_admin_settings.cost_breakdown.fig_jam_editor_seats.seat_rename": {
-        "string": "FigJam seats"
+    "sites.panel.interactions_panel.scroll_transform_behavior": {
+        "string": "クロール変換"
     },
-    "org_admin_settings.cost_breakdown.subtotal": {
-        "string": "Subtotal"
+    "sites.panel.interactions_panel.slide_in_bottom": {
+        "string": "下からスライドイン"
     },
-    "org_admin_settings.cost_breakdown.status": {
-        "string": "Status"
+    "sites.panel.interactions_panel.slide_in_left": {
+        "string": "左からスライドイン"
     }
 }

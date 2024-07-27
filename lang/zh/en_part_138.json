@@ -1,152 +1,152 @@
 {
-    "slides.flapp.results.results_hidden": {
-        "string": "Results hidden"
+    "community.sinatra.comments.file_does_not_allow_comments": {
+        "string": "文件不允许评论"
     },
-    "slides.flapp.facepile.prompt_placeholder": {
-        "string": "Stamp me if you agree"
+    "community.sinatra.comments.invalid_profiles_mentioned": {
+        "string": "提到了无效的个人资料"
     },
-    "slides.flapp.facepile.tooltip.click_to_remove": {
-        "string": "Click to remove"
+    "community.sinatra.comments.invalid_rating_edit_action": {
+        "string": "无法在编辑时添加或删除评分"
     },
-    "slides.flapp.results.no_stamps_yet": {
-        "string": "No stamps yet"
+    "community.sinatra.comments.invalid_rating_value": {
+        "string": "无效的评分值"
     },
-    "slides.flapp.facepile.description_click_to_stamp": {
-        "string": "Click to stamp your face"
+    "community.sinatra.comments.invalid_resource_type": {
+        "string": "无效的资源类型"
     },
-    "slides.flapp.results.single_self_stamp": {
-        "string": "You stamped"
+    "community.sinatra.comments.must_include_a_resource": {
+        "string": "必须包含资源"
     },
-    "slides.flapp.results.single_other_stamp": {
-        "string": "{person} stamped"
+    "community.sinatra.comments.one_of_message_or_message_meta_is_required": {
+        "string": "需要消息或消息元数据之一"
     },
-    "slides.flapp.results.multiple_stamps_including_user": {
-        "string": "{totalStamps, plural, one {You and {totalStamps} other stamped} other {You and {totalStamps} others stamped}}"
+    "community.sinatra.comments.one_of_message_or_message_meta_or_rating_value_is_required": {
+        "string": "需要消息、消息元数据或评分值之一"
     },
-    "slides.flapp.results.multiple_other_stamps": {
-        "string": "{totalStamps, plural, one {{totalStamps} person stamped} other {{totalStamps} people stamped}}"
+    "community.sinatra.comments.plugin_does_not_allow_comments": {
+        "string": "插件不允许评论"
     },
-    "slides.flapp.poll.vote_failure": {
-        "string": "Could not vote on poll. Try logging in and voting again."
+    "community.sinatra.comments.unable_to_create_comment": {
+        "string": "无法创建评论: {message}"
     },
-    "slides.flapp.poll.question_placeholder": {
-        "string": "Ask a question…"
+    "community.sinatra.comments.widget_does_not_allow_comments": {
+        "string": "小部件不允许评论"
     },
-    "slides.flapp.poll.option_placeholder": {
-        "string": "Add an option"
+    "community.sinatra.comments.you_are_not_allowed_to_leave_comments": {
+        "string": "您无权发表评论。"
     },
-    "fullscreen_actions.slides-speaker-notes-no-notes-placeholder": {
-        "string": "No notes for this slide"
+    "community.sinatra.comments.you_are_not_allowed_to_leave_comments_on_this_resource": {
+        "string": "您无权在此资源上发表评论"
     },
-    "slides.presenter_view.decrement_font_size": {
-        "string": "Decrement font size"
+    "community.sinatra.comments.you_cannot_admin_this_resource": {
+        "string": "您无法管理此资源"
     },
-    "slides.presenter_view.increment_font_size": {
-        "string": "Increment font size"
+    "community.sinatra.comments.you_must_be_the_author_of_the_comment": {
+        "string": "您必须是评论的作者"
     },
-    "slides.presenter_view.visual_bells.opened_audience_view_in_separate_window": {
-        "string": "Opened slide deck in separate window"
+    "community.sinatra.comments.youve_already_reported_this_comment": {
+        "string": "您已举报此评论。"
     },
-    "viewer.menu_bar.presenter_view": {
-        "string": "Open audience view"
+    "community.sinatra.community_shelves.you_do_not_have_permission_to_preview_community_shelves": {
+        "string": "您无权预览社区货架"
     },
-    "file_browser.mobile_prompt.app_title": {
-        "string": "Figma app"
+    "community.sinatra.follows.cannot_follow_yourself": {
+        "string": "不能关注自己"
     },
-    "file_browser.mobile_prompt.app_description_new": {
-        "string": "Design, collaborate, & mirror"
+    "community.sinatra.follows.profile_not_found": {
+        "string": "未找到个人资料"
     },
-    "file_browser.mobile_prompt.app_description": {
-        "string": "For viewing and commenting"
+    "community.sinatra.follows.youre_already_following_this_user": {
+        "string": "您已关注此用户"
     },
-    "file_browser.mobile_prompt.app_action": {
-        "string": "Get"
+    "community.sinatra.free_to_freemium_migrating_blocked": {
+        "string": "资源更新以使用Payments API目前仅适用于特定资源。详情请联系support@figma.com。"
     },
-    "file_browser.mobile_prompt.browser_title": {
-        "string": "Browser"
+    "community.sinatra.free_to_freemium_resource_owner_required": {
+        "string": "只有资源所有者才能更新资源以使用Payments API。"
     },
-    "file_browser.mobile_prompt.browser_action": {
-        "string": "Continue"
+    "community.sinatra.free_to_freemium_visual_compliance": {
+        "string": "我们的团队正在审核您的卖家状态。在获得批准成为卖家之前，无法通过Payments API发布。请几天后再试。"
     },
-    "file_browser.mobile_prompt.modal_title_blocking": {
-        "string": "Get the Figma app to browse on mobile"
+    "community.sinatra.hub_files.a_default_file_cannot_be_published": {
+        "string": "默认文件不能发布。"
     },
-    "file_browser.mobile_prompt.modal_title": {
-        "string": "Stay in the loop with the Figma app"
+    "community.sinatra.hub_files.a_file_in_a_secret_team_cannot_be_published": {
+        "string": "秘密团队中的文件不能发布"
     },
-    "file_browser.mobile_prompt.modal_body_blocking": {
-        "string": "Browse files, reply to comments, catch up on notifications, and more—all in the Figma mobile app."
+    "community.sinatra.hub_files.cannot_republish_a_monetized_resource": {
+        "string": "无法将现有社区资源重新发布为付费资源"
     },
-    "file_browser.mobile_prompt.modal_body": {
-        "string": "Try the Figma mobile app to stay on top of activity like comments, replies, and @mentions on the go."
+    "community.sinatra.hub_files.community_file_checkpoint_not_found": {
+        "string": "未找到社区文件检查点"
     },
-    "file_browser.mobile_prompt.modal_title_compact": {
-        "string": "Try viewing this file in our app"
+    "community.sinatra.hub_files.community_file_not_found": {
+        "string": "未找到社区文件"
     },
-    "file_browser.mobile_prompt.app_image_alt": {
-        "string": "Figma mobile app icon"
+    "community.sinatra.hub_files.cover_image_carousel_image_not_found": {
+        "string": "未找到封面图像轮播图像"
     },
-    "file_browser.mobile_prompt.browser_image_alt": {
-        "string": "Google Chrome logo"
+    "community.sinatra.hub_files.duplicate_failed": {
+        "string": "复制失败: {e}"
     },
-    "file_browser.mobile_prompt.image_alt": {
-        "string": "Mobile phone screens showing the file viewing, and commenting features of the Figma mobile app."
+    "community.sinatra.hub_files.file_must_belong_to_author_org": {
+        "string": "文件必须属于作者组织"
     },
-    "community.plugins.this_resource_is_in_review_by_figma_moderators_and_will_be_available_publicly_once_approved": {
-        "string": "This resource is in review by Figma moderators and will be available publicly once approved."
+    "community.sinatra.hub_files.file_must_belong_to_author_team": {
+        "string": "文件必须属于作者团队"
     },
-    "community.plugins.you_ll_need_the_link_to_create_and_manage_your_own_plugins": {
-        "string": "You'll need the {link} to create and manage your own plugins"
+    "community.sinatra.hub_files.hub_file_image_exceeds_max_size_of_bytes": {
+        "string": "中心文件图像超过最大大小{limit}字节"
     },
-    "community.plugins.publish_new_version": {
-        "string": "Publish new version"
+    "community.sinatra.hub_files.hub_file_image_not_found": {
+        "string": "未找到中心文件图像"
     },
-    "fullscreen.plugins_menu.new_plugin": {
-        "string": "New plugin…"
+    "community.sinatra.hub_files.invalid_author_org_id": {
+        "string": "无效的author_org_id"
     },
-    "fullscreen.plugins_menu.new_widget": {
-        "string": "New widget…"
+    "community.sinatra.hub_files.invalid_team_id": {
+        "string": "无效的author_team_id"
     },
-    "fullscreen.plugins_menu.import_widget_from_manifest": {
-        "string": "Import widget from manifest…"
+    "community.sinatra.hub_files.invalid_template_type": {
+        "string": "无效的模板类型"
     },
-    "fullscreen.plugins_menu.import_plugin_from_manifest": {
-        "string": "Import plugin from manifest…"
+    "community.sinatra.hub_files.missing_required_parameter": {
+        "string": "缺少必需的参数{p}"
     },
-    "fullscreen.plugins_menu.open_directory_mac": {
-        "string": "Reveal in Finder"
+    "community.sinatra.hub_files.missing_thumbnail_image": {
+        "string": "请选择缩略图"
     },
-    "fullscreen.plugins_menu.open_directory_win": {
-        "string": "Reveal in Explorer"
+    "community.sinatra.hub_files.name_is_too_long": {
+        "string": "文件名长度超过上限{limit}字符"
     },
-    "community.plugins.desktop_app": {
-        "string": "desktop app"
+    "community.sinatra.hub_files.number_of_requested_files_too_large": {
+        "string": "请求的文件数量过多"
     },
-    "community.plugins.options": {
-        "string": "Options"
+    "community.sinatra.hub_files.only_allow_paid_files_from_personal_drafts_folder": {
+        "string": "仅允许从个人草稿文件夹中发布付费文件"
     },
-    "community.plugins.plugin_or_widget_issue": {
-        "string": "{resourceType} issue"
+    "community.sinatra.hub_files.only_editors_of_this_file_may_publish_it": {
+        "string": "只有此文件的编辑者可以发布它"
     },
-    "community.plugins.private_for_plugin_org_name": {
-        "string": "Private for {orgName}"
+    "community.sinatra.hub_files.template_files_not_configured": {
+        "string": "未配置模板文件"
     },
-    "community.plugins.private_for_plugin_org": {
-        "string": "Private for Org"
+    "community.sinatra.hub_files.template_insertion_failed": {
+        "string": "模板插入失败: {e}"
     },
-    "community.plugins.published_to_community": {
-        "string": "Published to Community"
+    "community.sinatra.hub_files.this_file_has_already_been_published": {
+        "string": "此文件已发布"
     },
-    "universal_insert.locate_local_version_text": {
-        "string": "Locate local version"
+    "community.sinatra.hub_files.this_file_version_has_already_been_published": {
+        "string": "此文件版本已发布"
     },
-    "community.detail_view.decline": {
-        "string": "Decline"
+    "community.sinatra.hub_files.user_must_accept_community_terms_of_service": {
+        "string": "用户必须接受社区服务条款"
     },
-    "community.detail_view.accept": {
-        "string": "Accept"
+    "community.sinatra.hub_files.you_can_only_publish_files_you_own_as_paid_files": {
+        "string": "只能将您拥有的文件作为付费文件发布"
     },
-    "universal_insert.invited_you_to_publish": {
-        "string": "{ownerName} invited you to be a publisher of {resourceName}"
+    "community.sinatra.hub_files.you_do_not_have_permission_to_access_this_hub_file": {
+        "string": "您无权访问此中心文件"
     }
 }

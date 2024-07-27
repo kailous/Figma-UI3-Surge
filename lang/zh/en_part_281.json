@@ -1,152 +1,152 @@
 {
-    "members_table.workspace_update_description.scim_group": {
-        "string": "[{groupName}] Provisioned by your IDP"
+    "rcs.sharing_clarity.prototype_modal.title": {
+        "string": "プロトタイプへのアクセス権の個別設定"
     },
-    "members_table.billing_group_update_description.self_selected": {
-        "string": "From billing group selector"
+    "rcs.sharing_clarity.team_creation_modal_description": {
+        "string": "チームのアクセスと権限を管理するときに、オプションを選ぶだけで、1)アクセス可能なユーザーと2)ユーザーの権限を設定できるようになりました。"
     },
-    "members_table.billing_group_update_description.self_selected_not_listed": {
-        "string": "Billing group not listed"
+    "rcs.sharing_clarity.team_creation_modal_title": {
+        "string": "よりシンプルで分かりやすいアクセス設定"
     },
-    "members_table.billing_group_update_description.self_selected_dont_know": {
-        "string": "Unsure of billing group"
+    "rcs.signal_collection.continue": {
+        "string": "続行"
     },
-    "members_table.billing_group_update_description.moved_by_admin": {
-        "string": "Moved by {adminName}"
+    "rcs.signal_collection.skip": {
+        "string": "スキップ"
     },
-    "members_table.billing_group_update_description.moved_by_admin_generic": {
-        "string": "Moved by admin"
+    "rcs.surveys.abandoned_org_upgrade_question": {
+        "string": "アップグレードしない理由を選択してください。"
     },
-    "members_table.billing_group_update_description.auto_assigned": {
-        "string": "Auto assigned"
+    "rcs.surveys.abandoned_org_upgrade_reason_annual_billing": {
+        "string": "年単位ではなく月単位で支払いたい"
     },
-    "members_table.billing_group_update_description.scim_group": {
-        "string": "[{groupName}] Provisioned by your IDP"
+    "rcs.surveys.abandoned_org_upgrade_reason_billing_complexity": {
+        "string": "トゥルーアップの請求方式が複雑すぎる"
     },
-    "add_unassigned_members_modal.no_unassigned_users": {
-        "string": "No unassigned users"
+    "rcs.surveys.abandoned_org_upgrade_reason_cost": {
+        "string": "費用の増加に見合う十分な価値がない"
     },
-    "add_unassigned_members_modal.all_users_have_been_assigned_billing_groups": {
-        "string": "All of {orgName}'s users have been assigned to billing groups"
+    "rcs.surveys.abandoned_org_upgrade_reason_just_looking": {
+        "string": "Figmaを単に試してみたかった"
     },
-    "add_unassigned_members_modal.all_users_have_been_assigned_workspaces": {
-        "string": "All of {orgName}'s users have been assigned to workspaces"
+    "rcs.surveys.abandoned_org_upgrade_reason_other": {
+        "string": "その他"
     },
-    "add_unassigned_members_modal.no_unassigned_users_found": {
-        "string": "No unassigned users found"
+    "rcs.surveys.abandoned_pro_upgrade_question": {
+        "string": "Figmaプランをアップグレードしない理由をお聞かせください"
     },
-    "add_unassigned_members_modal.add_members_button": {
-        "string": "Add members"
+    "rcs.surveys.close": {
+        "string": "閉じる"
     },
-    "add_unassigned_members_modal.billing_group_description": {
-        "string": "Select unassigned users to add to the {licenseGroupName} billing group."
+    "rcs.surveys.next": {
+        "string": "次へ"
     },
-    "add_unassigned_members_modal.workspace_description": {
-        "string": "Select unassigned users to add to the {workspaceName} workspace."
+    "rcs.surveys.question_counter": {
+        "string": "質問 {currentStep}/{totalSteps}"
     },
-    "add_unassigned_members_modal.user_selected": {
-        "string": "{userName}"
+    "rcs.surveys.submit": {
+        "string": "送信"
     },
-    "add_unassigned_members_modal.user_a_and_user_b_selected": {
-        "string": "{userName1} and {userName2}"
+    "rcs.surveys.submit_free_form": {
+        "string": "自由形式のアンケート回答を送信"
     },
-    "add_unassigned_members_modal.user_a_and_user_b_and_n_others_selected": {
-        "string": "{remainingCount, plural, one {{userName1}, {userName2} and {remainingCount} other} other {{userName1}, {userName2} and {remainingCount} others}}"
+    "rcs.surveys.submit_opinions": {
+        "string": "選択形式のアンケート回答を送信"
     },
-    "add_unassigned_members_modal.workspaces_success_message.instant": {
-        "string": "{numUsers, plural, one {{numUsers} person's workspace successfully updated} other {{numUsers} peoples' workspace successfully updated}}"
+    "rcs.surveys.thanks_for_your_feedback": {
+        "string": "フィードバックをお送りいただきありがとうございます"
     },
-    "add_unassigned_members_modal.workspaces_success_message": {
-        "string": "{numUsers, plural, one {Updating {numUsers} person's workspace. This may take a few moments.} other {Updating {numUsers} people's workspace. This may take a few moments.}}"
+    "rcs.surveys.this_field_is_required": {
+        "string": "このフィールドは必須です"
     },
-    "add_unassigned_members_modal.billing_groups_success_message.instant": {
-        "string": "{numUsers, plural, one {{numUsers} person's billing group successfully updated} other {{numUsers} peoples' billing group successfully updated}}"
+    "rcs.surveys.very_dissatisfied": {
+        "string": "かなり不満足である"
     },
-    "add_unassigned_members_modal.billing_groups_success_message": {
-        "string": "{numUsers, plural, one {Updating {numUsers} person's billing group. This may take a few moments.} other {Updating {numUsers} people's billing group. This may take a few moments.}}"
+    "rcs.surveys.very_satisfied": {
+        "string": "かなり満足している"
     },
-    "add_unassigned_members_modal.search_bar.placeholder": {
-        "string": "Name or email address"
+    "rcs.surveys.would_love_to_know": {
+        "string": "ご意見をお聞かせください..."
     },
-    "license_group_admin.billing_banner.review.title.seat_rename": {
-        "string": "Review and then confirm these seats"
+    "rcs.take_tour.let_s_go": {
+        "string": "始める"
     },
-    "license_group_admin.billing_banner.review.subtitle.seat_rename": {
-        "string": "Make changes if you need to before confirming. Your organization will only be billed for full seats you've confirmed."
+    "rcs.take_tour.no_thanks": {
+        "string": "閉じる"
     },
-    "license_group_admin.billing_banner.review.add_members": {
-        "string": "Add members"
+    "rcs.take_tour.see_how_to_create_files_learn_about_drafts_and_teams_ways_to_access_community_and_more": {
+        "string": "ファイルの作成方法、ドラフトとチームの概要、コミュニティへのアクセス方法などをご覧ください。"
     },
-    "license_group_admin.billing_banner.review.confirm_editors.seat_rename": {
-        "string": "Confirm seats"
+    "rcs.take_tour.take_a_quick_tour_of_the_file_browser": {
+        "string": "ファイルブラウザのクイックツアーを開始しますか?"
     },
-    "license_group_admin.billing_banner.completed_at_date": {
-        "string": "This billing group was confirmed on {date}."
+    "rcs.team_files.create_a_team_to_co_edit_files_with_your_teammates": {
+        "string": "チームを作成し、チームメイトとファイルを共同で編集できます。"
     },
-    "license_group_admin.billing_banner.default": {
-        "string": "Your organization’s next invoice will be issued {date}"
+    "rcs.team_files.files_in_teams_are_accessible_by_team_members_and_shareable_with_other_editors.seat_rename": {
+        "string": "チーム内のファイルはチームメンバーがアクセスでき、編集アクセス権のあるユーザーと共有できます。"
     },
-    "license_group_admin.billing_banner.count_title.design.seat_rename": {
-        "string": "Total Design seats"
+    "rcs.team_library.enable_quick_access_to_other_libraries_in_this_file": {
+        "string": "このファイルの他のライブラリに簡単にアクセスできます。"
     },
-    "license_group_admin.billing_banner.count_title.figjam.seat_rename": {
-        "string": "Total FigJam seats"
+    "rcs.team_library.share_components_and_styles_across_your_team_by_publishing_them": {
+        "string": "コンポーネントとスタイルをチームライブラリに公開することで、チーム全体でコンポーネントとスタイルを共有できます。"
     },
-    "license_group_admin.billing_banner.count_title.dev_mode": {
-        "string": "Total Dev Mode seats"
+    "rcs.team_library.team_library": {
+        "string": "チームライブラリ"
     },
-    "license_group_admin.billing_banner.review.confirmation_modal.body.seat_rename": {
-        "string": "Organization admins will be able to see that this billing group has confirmed its paid seats."
+    "rcs.team_welcome.choose_a_plan_for_your_team": {
+        "string": "チームのプランを選んでください"
     },
-    "license_group_admin.billing_banner.review.confirmation_modal.title.seat_rename": {
-        "string": "Confirm {billingGroupName}’s seats?"
+    "rcs.team_welcome.copy_to_invite": {
+        "string": "招待リンクをコピー"
     },
-    "org_invite.email_input_description.billing_group_and_workspace_disclaimer": {
-        "string": "When they join, they'll be added to the {workspaceName} workspace and the {billingGroupName} billing group."
+    "rcs.team_welcome.do_this_later": {
+        "string": "後で"
     },
-    "org_invite.email_input_description.billing_group_disclaimer": {
-        "string": "When they join, they'll be added to the {billingGroupName} billing group."
+    "rcs.team_welcome.emails": {
+        "string": "メール"
     },
-    "org_invite.email_input_description.workspace_disclaimer": {
-        "string": "When they join, they'll be added to the {workspaceName} workspace."
+    "rcs.team_welcome.figma": {
+        "string": "Figma"
     },
-    "org_invite.email_input_description.guest_invite_allow_list": {
-        "string": "You can invite people to join the {orgName} organization by adding their email addresses below."
+    "rcs.team_welcome.invite_sent": {
+        "string": "{numInvites, plural, other {招待が送信されました。}}"
     },
-    "org_invite.email_input_description.multiple_domains.expanded": {
-        "string": "You can invite members with {domainList} email addresses to join the {orgName} organization."
+    "rcs.team_welcome.invite_your_collaborators": {
+        "string": "コラボレーターを招待"
     },
-    "org_invite.email_input_description.single_domain": {
-        "string": "You can invite members with {domain} email addresses to join the {orgName} organization."
+    "rcs.team_welcome.not_a_valid_address": {
+        "string": "有効なアドレスではありません"
     },
-    "org_invite.email_input_description.multiple_domains.with_expand_link": {
-        "string": "You can invite members with {domain} {expandLink} email addresses to join the {orgName} organization."
+    "rcs.team_welcome.send_invites": {
+        "string": "招待を送信"
     },
-    "org_invite.email_input_description.multiple_domains.expand_link": {
-        "string": "+{remainingDomainCount} more"
+    "rcs.team_welcome.tell_us_a_little_about_yourself": {
+        "string": "ご自身についてもう少し教えてください"
     },
-    "org_invite.email_input_description.invite_allowlist_enforced": {
-        "string": "New users will receive an email invitation to get started with Figma after you upload their information."
+    "rcs.team_welcome.tell_us_about_yourself": {
+        "string": "ご自身の情報を入力してください"
     },
-    "org_invite.pending_guest_confirmation.description": {
-        "string": "{numEmails, plural, one {You are inviting {emailList} who is external to your organization.} other {You are inviting {emailList} who are external to your organization.}}"
+    "rcs.team_welcome.welcome_to_figjam": {
+        "string": "FigJamへようこそ"
     },
-    "org_invite.pending_guest_confirmation.learn_more_link": {
-        "string": "Learn more"
+    "rcs.team_welcome.welcome_to_figma": {
+        "string": "{Figma}へようこそ"
     },
-    "org_invite.invite_button": {
-        "string": "Send invite"
+    "rcs.template_picker.i_ll_get_started_on_my_own": {
+        "string": "テンプレートを使用しない"
     },
-    "org_invite.invite_users": {
-        "string": "Invite people to {orgName}"
+    "rcs.ui_kits.explore_ui_kits_to_find_assets_you_like": {
+        "string": "UIキットを検索して好みのアセットを見つけ、キャンバスにドラッグしてデザインをスタートします。"
     },
-    "org_invite.invite_members": {
-        "string": "Invite other members to {orgName}"
+    "rcs.ui_kits.grab_pre_built_ui": {
+        "string": "[{strongAssets}]タブで、Apple、Google、Figma(当社)の構築済みUIを活用し、ブランクページから短時間で磨き上げられたデザインを作成しましょう。"
     },
-    "org_invite.pending_guest_confirmation.title": {
-        "string": "Are you sure?"
+    "rcs.ui_kits.jump_start_your_designs_with_ui_kits": {
+        "string": "UIキットを使ってすばやくデザインを始める"
     },
-    "org_invite.pending_guest_confirmation.button": {
-        "string": "Invite"
+    "rcs.universal_inserts.find_components_plugins_and_widgets": {
+        "string": "コンポーネント、プラグイン、ウィジェットを検索"
     }
 }

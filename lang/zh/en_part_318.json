@@ -1,152 +1,152 @@
 {
-    "team_view.add_annual_seats_modal.num_monthly_editor_seats.seat_rename": {
-        "string": "{designQuantity, plural, one {{productName} monthly seat} other {{productName} monthly seats}}"
+    "universal_insert.organization_has_no_approved_community_widgets": {
+        "string": "組織には承認済みのコミュニティウィジェットがありません"
     },
-    "team_view.add_annual_seats_modal.billing_breakdown": {
-        "string": "{cost} × {seatsText} × {remainingMonthsText}"
+    "universal_insert.plugin": {
+        "string": "プラグイン"
     },
-    "team_view.add_annual_seats_modal.billing_breakdown.remaining_months": {
-        "string": "{numMonths, plural, one {{numMonths} remaining month} other {{numMonths} remaining months}}"
+    "universal_insert.plugin_not_in_allowlist": {
+        "string": "このプラグインは、組織が許可していません"
     },
-    "team_view.add_annual_seats_modal.billing_breakdown.seats": {
-        "string": "{seats, plural, one {{seats} seat} other {{seats} seats}}"
+    "universal_insert.published_version": {
+        "string": "公開バージョン"
     },
-    "team_view.add_annual_seats_modal.unused_seats_will_be_added": {
-        "string": "{unusedSeats, plural, one {{unusedSeats} unused {productName} seat will be added} other {{unusedSeats} unused {productName} seats will be added}}"
+    "universal_insert.recents": {
+        "string": "最近使用したリソース"
     },
-    "settings_table.upgrade_to_the_professional_plan_or_to_an_organization_and_get_access_to_shared_team_libraries_advanced_security_features_and_more": {
-        "string": "Upgrade to the Professional plan or to an Organization and get access to shared team libraries, advanced security features and {more}"
+    "universal_insert.recents_and_saved": {
+        "string": "最近使用および保存"
     },
-    "settings_table.more": {
-        "string": "more…"
+    "universal_insert.remove": {
+        "string": "削除"
     },
-    "settings_table.to_keep_using_paid_features_like_unlimited_team_figma_files_projects_and_team_libraries_after_your_free_professional_plan_expires_on_date_purchase_the_professional_plan_for_your_team": {
-        "string": "To keep using paid features like unlimited team Figma files, projects, and team libraries after your free Professional plan expires on {date, date, long}, purchase the Professional plan for your team."
+    "universal_insert.remove_local_version": {
+        "string": "ローカルのバージョンを削除"
     },
-    "settings_table.consolidate_your_teams_access_shared_libraries_enable_advanced_security_features_and_more": {
-        "string": "Consolidate your teams, access shared libraries, enable advanced security features, and {more}"
+    "universal_insert.request": {
+        "string": "リクエスト"
     },
-    "team_view.settings_table.multiple_subscription_renewal": {
-        "string": "Your monthly subscription renews on {monthly_billing_date} and your annual subscription renews on {annual_billing_date}. We'll notify you beforehand."
+    "universal_insert.request_approval": {
+        "string": "承認を申請..."
     },
-    "team_view.settings_table.billing_date": {
-        "string": "{billing_date}"
+    "universal_insert.run": {
+        "string": "実行"
     },
-    "team_view.settings_table.single_subscription_renewal_annual": {
-        "string": "Your annual subscription renews on {billing_date}. We'll notify you beforehand."
+    "universal_insert.saved": {
+        "string": "保存済み"
     },
-    "team_view.settings_table.single_subscription_renewal_monthly": {
-        "string": "Your monthly subscription renews on {billing_date}. We'll notify you beforehand."
+    "universal_insert.saved_empty_state": {
+        "string": "何も試していないか、保存していません"
     },
-    "team_view.settings_table.renewal_information_canceled_team_annual_and_monthly": {
-        "string": "Your monthly and annual Professional subscriptions have been canceled."
+    "universal_insert.saved_for_quick_access_plugins": {
+        "string": "保存してお気に入りのプラグインにすばやくアクセス"
     },
-    "team_view.settings_table.renewal_information_canceled_team_annual": {
-        "string": "Your annual Professional subscription has been canceled."
+    "universal_insert.saved_for_quick_access_widgets": {
+        "string": "保存してお気に入りのウィジェットにすばやくアクセス"
     },
-    "team_view.settings_table.renewal_information_canceled_team_monthly": {
-        "string": "Your monthly Professional subscription has been canceled."
+    "universal_insert.saved_from_community": {
+        "string": "コミュニティから保存済み"
     },
-    "settings_table.team_profile": {
-        "string": "Team Profile"
+    "universal_insert.search_all_extensions": {
+        "string": "すべての拡張機能を検索"
     },
-    "settings_table.plan": {
-        "string": "Plan"
+    "universal_insert.search_all_plugins": {
+        "string": "すべてのプラグインを検索"
     },
-    "settings_table.resources": {
-        "string": "Resources"
+    "universal_insert.search_all_widgets": {
+        "string": "すべてのウィジェットを検索"
     },
-    "settings_table.purchase_professional_plan": {
-        "string": "Purchase Professional plan"
+    "universal_insert.see_details": {
+        "string": "詳細を見る"
     },
-    "settings_table.upgrade_your_plan": {
-        "string": "Upgrade your plan"
+    "universal_insert.see_more_details_in_community": {
+        "string": "コミュニティで詳細を確認する"
     },
-    "settings_table.reactivate_plan": {
-        "string": "Reactivate plan"
+    "universal_insert.show_all_saved_plugins": {
+        "string": "保存済みプラグインをすべて表示"
     },
-    "settings_table.reactivate_your_subscription_of_professional": {
-        "string": "Reactivate your subscription of Professional"
+    "universal_insert.show_all_saved_widgets": {
+        "string": "保存済みウィジェットをすべて表示"
     },
-    "settings_table.add_annual_seats": {
-        "string": "Add annual seats"
+    "universal_insert.show_in_explorer": {
+        "string": "Explorerで表示"
     },
-    "settings_table.you_can_simplify_your_billing_by_converting_your_monthly_seats_to_annual": {
-        "string": "You can simplify your billing by converting your monthly seats to annual"
+    "universal_insert.show_in_finder": {
+        "string": "Finderで表示"
     },
-    "settings_table.change_annual_plan": {
-        "string": "Change annual plan"
+    "universal_insert.view_details": {
+        "string": "詳細の表示"
     },
-    "settings_table.you_can_change_the_number_of_seats_on_your_annual_plan_before_it_renews": {
-        "string": "You can change the number of seats on your annual plan before it renews"
+    "universal_insert.widget": {
+        "string": "ウィジェット"
     },
-    "team_view.settings_table.add_annual_seats": {
-        "string": "Add additional seats"
+    "plan_comparison.billing_toggle.monthly_billing": {
+        "string": "月払い"
     },
-    "team_view.settings_table.add_annual_seats_description": {
-        "string": "Add additional annual seats for Figma design and FigJam"
+    "plan_comparison.billing_toggle.yearly_billing": {
+        "string": "年払い{saveMessage}"
     },
-    "settings_table.cancel_plan": {
-        "string": "Cancel plan"
+    "plan_comparison.billing_toggle.yearly_billing_save_message": {
+        "string": "(最大{saveAmount}%お得)"
     },
-    "settings_table.cancel_your_subscription_of_professional": {
-        "string": "Cancel your subscription of Professional"
+    "plan_comparison.chart.activity_logs.details": {
+        "string": "チームのFigmaの使用状況を確認します。"
     },
-    "settings_table.change_payment_method": {
-        "string": "Change payment method"
+    "plan_comparison.chart.activity_logs.name": {
+        "string": "アクティビティーログ"
     },
-    "settings_table.change_and_update_the_payment_method_on_file": {
-        "string": "Change and update the payment method on file"
+    "plan_comparison.chart.advanced_prototyping.details": {
+        "string": "式や条件付きロジックなどを使用して、よりリアルなプロトタイプを作成します。"
     },
-    "settings_table.vat_gst": {
-        "string": "Value Added Tax / Goods and Services Tax"
+    "plan_comparison.chart.advanced_prototyping.name": {
+        "string": "高度なプロトタイピング"
     },
-    "settings_table.change_vat_gst_id": {
-        "string": "Add a VAT or GST identification number if you are paying for this Figma plan as a business."
+    "plan_comparison.chart.audio_conversations.details": {
+        "string": "FigmaまたはFigJamのファイル内から音声を使ってチームメートと直接会話できます。"
     },
-    "settings_table.display_name.label": {
-        "string": "Display name"
+    "plan_comparison.chart.audio_conversations.name": {
+        "string": "音声会話"
     },
-    "settings_table.names": {
-        "string": "Names"
+    "plan_comparison.chart.audio_conversations_v2.details": {
+        "string": "ファイルで作業中にコラボレーターと作業内容について話し合います。"
     },
-    "settings_table.change_display_name": {
-        "string": "Choose how your team’s name is displayed in Figma"
+    "plan_comparison.chart.audio_conversations_v2.name": {
+        "string": "音声会話"
     },
-    "settings_table.change_names": {
-        "string": "Choose how your team’s name is displayed in Figma and on invoices"
+    "plan_comparison.chart.branching_and_merging.details": {
+        "string": "別のブランチで作業し、準備ができたら、変更内容をメインファイルにマージします。"
     },
-    "team_view.settings_table.update_payment_details.payment_details": {
-        "string": "Payment details"
+    "plan_comparison.chart.branching_and_merging.name": {
+        "string": "分岐とマージ"
     },
-    "team_view.settings_table.update_payment_details.update_payment_method": {
-        "string": "Update the payment method and billing address on file."
+    "plan_comparison.chart.callout.figjam": {
+        "string": "FigJam"
     },
-    "team_view.settings_table.update_invoice_details.invoice_details": {
-        "string": "Invoice details"
+    "plan_comparison.chart.callout.figjam_board": {
+        "string": "FigJamボード"
     },
-    "team_view.settings_table.update_invoice_details.update_invoice_details": {
-        "string": "Update the legal company name and shipping address to appear on your invoices."
+    "plan_comparison.chart.centralized_admin.details": {
+        "string": "複数のチームが1つのFigmaアカウントで連携します。ユーザーと請求を1箇所で管理できます。"
     },
-    "settings_table.team": {
-        "string": "team"
+    "plan_comparison.chart.centralized_admin.name": {
+        "string": "一元管理"
     },
-    "checkout.tax_disclaimer": {
-        "string": "See your total (including taxes) in "
+    "plan_comparison.chart.centralized_content_management.details": {
+        "string": "ファイルとドラフトはすべて組織が所有し、いつでも復元できます。"
     },
-    "checkout.review_in_tax_disclaimer": {
-        "string": "Review"
+    "plan_comparison.chart.centralized_content_management.name": {
+        "string": "一元的なコンテンツ管理"
     },
-    "pro_cart.sidebar.exp_sticker_shock.design_editors": {
-        "string": "{numEditors, plural, one {# Figma design editor} other {# Figma design editors}}"
+    "plan_comparison.chart.custom_color_palettes.details_with_callout": {
+        "string": "ブランドカラーを{figJamCallout}での作業時のデフォルトに設定します。"
     },
-    "pro_cart.sidebar.exp_sticker_shock.figjam_editors": {
-        "string": "{numEditors, plural, one {# FigJam editor} other {# FigJam editors}}"
+    "plan_comparison.chart.custom_color_palettes.name": {
+        "string": "カスタムカラーパレット"
     },
-    "pro_cart.sidebar.exp_sticker_shock.subtotal_per_year": {
-        "string": "Subtotal (per year)"
+    "plan_comparison.chart.custom_permissions.details": {
+        "string": "チームが非公開で作業できるように招待専用スペースを作成します。"
     },
-    "pro_cart.sidebar.exp_sticker_shock.subtotal_per_month": {
-        "string": "Subtotal (per month)"
+    "plan_comparison.chart.custom_permissions.name": {
+        "string": "ファイルとユーザーの権限の独自設定"
     }
 }

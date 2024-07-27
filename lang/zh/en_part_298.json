@@ -1,152 +1,152 @@
 {
-    "workspace_table.empty_state.manage_access_and_plugins": {
-        "string": "Manage access and plugins"
+    "slides.templates.start_from.outline.subtitle": {
+        "string": "FigJamボードを要約"
     },
-    "workspace_table.empty_state.manage_access_and_plugins.subtitle": {
-        "string": "Control how file links can be shared and where plugins can be used for each workspace."
+    "slides.templates.start_from.outline.title": {
+        "string": "アウトラインから始める"
     },
-    "workspace_table.empty_state.approve_libraries_and_assets": {
-        "string": "Enable libraries and assets"
+    "slides.templates.start_from.scratch.subtitle": {
+        "string": "空白のスライド"
     },
-    "workspace_table.empty_state.approve_libraries.subtitle": {
-        "string": "Let members know which libraries work best for each workspace."
+    "slides.templates.start_from.scratch.title": {
+        "string": "最初から始める"
     },
-    "workspace_table.empty_state.let_workspaces_be_unique": {
-        "string": "Let workspaces be unique"
+    "slides.templates.template_picker.search_templates": {
+        "string": "テンプレートを検索..."
     },
-    "workspace_table.empty_state.let_workspaces_be_unique.subtitle": {
-        "string": "Admins can use banners, icons, and more to make their workspace’s personality shine."
+    "slides.templates.template_picker.submit.button.with_template": {
+        "string": "アウトラインを作成"
     },
-    "tokens.oauth.view_user_activity_in_figma_like_opening_files_creating_projects_and_sharing_resources": {
-        "string": "See user activity in Figma like opening files, creating projects, and sharing resources"
+    "slides.templates.template_picker.submit.button.without_template": {
+        "string": "テンプレートを使わずにアウトラインを作成"
     },
-    "tokens.oauth.discovery_scope_description": {
-        "string": "See all text communication within Figma files for your organization."
+    "slides.templates.template_picker.subtitle": {
+        "string": "新しいデッキにスタイルと構造を加えます。"
     },
-    "tokens.oauth.view_basic_information_about_files": {
-        "string": "See the names and thumbnail of files."
+    "slides.templates.template_picker.title": {
+        "string": "アウトライン用のテンプレートを選択"
     },
-    "tokens.oauth.manage_related_links_webhooks": {
-        "string": "Set and update webhooks related to related links"
+    "slides.templates.templates_modal.published_by": {
+        "string": "公開者: {publisherName}"
     },
-    "tokens.oauth.view_basic_information_about_users": {
-        "string": "See basic information about users"
+    "slides.templates.templates_modal.templates_title": {
+        "string": "テンプレート"
     },
-    "tokens.oauth.read_files_you_have_access_to": {
-        "string": "Read files you have access to"
+    "slides.templates.theme_picker.org_template_header": {
+        "string": "{orgName}のテンプレート"
     },
-    "tokens.oauth.read_and_modify_comments_for_files_you_have_access_to": {
-        "string": "Read and modify comments for files you have access to"
+    "slides.templates.toast.no_longer_available": {
+        "string": "テンプレートは利用できなくなっています"
     },
-    "tokens.oauth.read_projects_you_have_access_to": {
-        "string": "Read projects you have access to"
+    "slides.templates.use_template": {
+        "string": "テンプレートを使用"
     },
-    "tokens.oauth.read_components_and_styles_you_have_access_to": {
-        "string": "Read components and styles you have access to"
+    "slides.templates.view_template": {
+        "string": "テンプレートを表示"
     },
-    "tokens.oauth.create_files": {
-        "string": "Create files on your behalf"
+    "slides.templates.view_type.see_all": {
+        "string": "すべて表示"
     },
-    "tokens.oauth.enumerate_files": {
-        "string": "View a list of all files you have access to, including recent files"
+    "slides.toolbar.grid_view_toggle": {
+        "string": "グリッドビュー"
     },
-    "tokens.oauth.read_your_name_email_and_profile_image": {
-        "string": "Read your name, email, and profile image"
+    "slides.toolbar.show_presenter_notes": {
+        "string": "発表者のメモを表示"
     },
-    "tokens.oauth.read_comments_for_files_you_have_access_to": {
-        "string": "Read comments for files you have access to"
+    "slides.toolbar.single_slide_view_toggle": {
+        "string": "スライドビュー"
     },
-    "tokens.oauth.modify_comments_for_files_you_have_access_to": {
-        "string": "Modify comments for files you have access to"
+    "slides.toolbar.view_mode": {
+        "string": "モードを表示"
     },
-    "tokens.oauth.read_dev_resources": {
-        "string": "List and read dev resources for files you have access to"
+    "spell_check.auto_detect_language_display_text": {
+        "string": "言語を自動検出"
     },
-    "tokens.oauth.create_and_modify_dev_resources": {
-        "string": "Create and modify dev resources for files you have access to"
+    "spell_check.no_suggestions_found": {
+        "string": "候補が見つかりません"
     },
-    "tokens.oauth.read_variables_from_files_you_have_access_to": {
-        "string": "Read variables from files you have access to"
+    "fullscreen.properties_panel.stack_panel.advanced_layout": {
+        "string": "オートレイアウトの詳細設定"
     },
-    "tokens.oauth.create_and_modify_variables_for_files_you_have_access_to": {
-        "string": "Create and modify variables for files you have access to"
+    "fullscreen.properties_panel.stack_panel.al.fill": {
+        "string": "コンテナに合わせて拡大"
     },
-    "tokens.oauth.read_library_analytics_data": {
-        "string": "Read library analytics data for files you have access to in your organization"
+    "fullscreen.properties_panel.stack_panel.al.fill_with_value": {
+        "string": "塗り({value})"
     },
-    "tokens.oauth.create_and_modify_webhooks": {
-        "string": "Create and modify webhooks"
+    "fullscreen.properties_panel.stack_panel.al.fixed.height": {
+        "string": "高さを固定({value})"
     },
-    "settings_tab.paste_plugin_link": {
-        "string": "Paste a link to a plugin’s resource page from {orgLink} or {communityLink}."
+    "fullscreen.properties_panel.stack_panel.al.fixed.width": {
+        "string": "幅を固定({value})"
     },
-    "org_settings.workspace_controls.header_text": {
-        "string": "Custom settings for workspaces"
+    "fullscreen.properties_panel.stack_panel.al.hug": {
+        "string": "コンテンツを内包"
     },
-    "org_settings.workspace_controls.sub_header_text": {
-        "string": "Update the default public link settings for individual workspaces."
+    "fullscreen.properties_panel.stack_panel.al.hug_with_value": {
+        "string": "内包({value})"
     },
-    "org_settings.workspace_controls.has_custom_settings": {
-        "string": "Using custom settings"
+    "fullscreen.properties_panel.stack_panel.align_auto_bottom_gap": {
+        "string": "間隔自動・下揃え"
     },
-    "settings_tab.add_workspace_label": {
-        "string": "Add workspace"
+    "fullscreen.properties_panel.stack_panel.align_auto_center_gap": {
+        "string": "間隔自動・中央揃え"
     },
-    "org_settings.workspace_controls.search_placeholder_text": {
-        "string": "Search for a workspace…"
+    "fullscreen.properties_panel.stack_panel.align_auto_left_gap": {
+        "string": "間隔自動・左揃え"
     },
-    "change_payment.update_payment_details": {
-        "string": "Update payment details"
+    "fullscreen.properties_panel.stack_panel.align_auto_right_gap": {
+        "string": "間隔自動・右揃え"
     },
-    "change_payment.enter_credit_or_debit_card": {
-        "string": "Enter credit or debit card"
+    "fullscreen.properties_panel.stack_panel.align_auto_top_gap": {
+        "string": "間隔自動・上揃え"
     },
-    "change_payment.update_payment_details_description": {
-        "string": "Update payment method and address associated with your payment information. This is where we’ll bill your Figma subscription."
+    "fullscreen.properties_panel.stack_panel.align_baseline": {
+        "string": "ベースラインに揃える"
     },
-    "change_payment.use_this_card": {
-        "string": "Use this card"
+    "fullscreen.properties_panel.stack_panel.align_bottom": {
+        "string": "下揃え"
     },
-    "change_payment.name_required_on_card_error": {
-        "string": "Please enter a name for this card."
+    "fullscreen.properties_panel.stack_panel.align_bottom_center": {
+        "string": "下揃え(中央)"
     },
-    "billing_groups_table.delete_modal.deleting_the_billing_groups_will_cause": {
-        "string": "{licenseGroupsCount, plural, one {Deleting the {licenseGroupsNames} billing group will cause all members of the billing group to move to \"Unassigned\".} other {Deleting the {licenseGroupsNames} billing groups will cause all members of the billing groups to move to \"Unassigned\".}}"
+    "fullscreen.properties_panel.stack_panel.align_bottom_left": {
+        "string": "下揃え(左)"
     },
-    "billing_groups_table.delete_modal.i_understand_that_this_action_isnt_reversible": {
-        "string": "I understand that this action isn't reversible"
+    "fullscreen.properties_panel.stack_panel.align_bottom_right": {
+        "string": "下揃え(右)"
     },
-    "billing_groups_table.billing_groups_deleted_toast": {
-        "string": "{licenseGroupsCount, plural, one {''{licenseGroupName}'' billing group deleted} other {{licenseGroupsCount} billing groups deleted}}"
+    "fullscreen.properties_panel.stack_panel.align_center": {
+        "string": "中央揃え"
     },
-    "billing_groups_table.delete_modal.an_error_occurred_while_deleting_billing_groups": {
-        "string": "An error occurred while deleting billing groups"
+    "fullscreen.properties_panel.stack_panel.align_center_baseline": {
+        "string": "中央揃え(ベースライン)"
     },
-    "billing_groups_table.delete_n_billing_groups": {
-        "string": "{licenseGroupsCount, plural, one {Delete 1 billing group} other {Delete {licenseGroupsCount} billing groups}}"
+    "fullscreen.properties_panel.stack_panel.align_left": {
+        "string": "左揃え"
     },
-    "billing_groups_table.delete_modal.are_you_sure_you_want_to_delete_these_billing_groups": {
-        "string": "{licenseGroupsCount, plural, one {Are you sure you want to delete this billing group?} other {Are you sure you want to delete these billing groups?}}"
+    "fullscreen.properties_panel.stack_panel.align_left_baseline": {
+        "string": "左揃え(ベースライン)"
     },
-    "members_table.true_up.freeze_invoice_billing_group_info": {
-        "string": "These billing groups have not yet been reviewed by admins:"
+    "fullscreen.properties_panel.stack_panel.align_right": {
+        "string": "右揃え"
     },
-    "members_table.true_up.freeze_invoice_design_editor_text.seat_rename": {
-        "string": "{lockedQuantityDesignEditors, plural, one {{lockedQuantityDesignEditors} Design seat} other {{lockedQuantityDesignEditors} Design seats}}"
+    "fullscreen.properties_panel.stack_panel.align_right_baseline": {
+        "string": "右揃え(ベースライン)"
     },
-    "members_table.true_up.freeze_invoice_dev_mode_seat_text": {
-        "string": "{quantity, plural, one {{quantity} Dev Mode seat} other {{quantity} Dev Mode seats}}"
+    "fullscreen.properties_panel.stack_panel.align_text_baseline": {
+        "string": "文字のベースラインに揃える"
     },
-    "members_table.true_up.freeze_invoice_figjam_editor_text.seat_rename": {
-        "string": "{lockedQuantityFigJamEditors, plural, one {# FigJam seat} other {# FigJam seats}}"
+    "fullscreen.properties_panel.stack_panel.align_top": {
+        "string": "上揃え"
     },
-    "members_table.true_up.freeze_invoice_confirm_title.template": {
-        "string": "Start new subscription with {seatsText}?"
+    "fullscreen.properties_panel.stack_panel.align_top_center": {
+        "string": "上揃え(中央)"
     },
-    "members_table.true_up.freeze_invoice_confirm_description.seat_rename.template": {
-        "string": "Once you confirm, anyone who joins with a full seat will be free until your next invoice. On {date}, you'll be invoiced {lockedAmountToPay} for {seatsText} on your annual plan."
+    "fullscreen.properties_panel.stack_panel.align_top_left": {
+        "string": "上揃え(左)"
     },
-    "members_table.true_up.freeze_invoice_new_design_editor_text.seat_rename": {
-        "string": "{lockedQuantityDesignEditors, plural, one {{lockedQuantityDesignEditors} new Design seat} other {{lockedQuantityDesignEditors} new Design seats}}"
+    "fullscreen.properties_panel.stack_panel.align_top_right": {
+        "string": "上揃え(右)"
     }
 }

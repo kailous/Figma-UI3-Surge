@@ -1,152 +1,152 @@
 {
-    "variables.authoring_modal.mode_context_menu.set_as_default": {
-        "string": "Set as default"
+    "dev_handoff.docs.props": {
+        "string": "属性"
     },
-    "variables.authoring_modal.mode_context_menu.rename_mode": {
-        "string": "Rename mode"
+    "dev_handoff.docs.show_full": {
+        "string": "显示完整文档"
     },
-    "variables.authoring_modal.mode_context_menu.delete_mode": {
-        "string": "Delete mode"
+    "dev_handoff.figmadoc.add_manual_snippet": {
+        "string": "添加手动片段"
     },
-    "variables.authoring_modal.edit_variable_button_tooltip": {
-        "string": "Edit variable"
+    "dev_handoff.figmadoc.beta_badge_tooltip": {
+        "string": "Code Connect从设计系统中提取代码片段"
     },
-    "variables.authoring_modal.null_state_text": {
-        "string": "Create reusable numbers, text, and colors that can be applied across your files and prototypes."
+    "dev_handoff.figmadoc.connect_to_code": {
+        "string": "连接到代码"
     },
-    "variables.authoring_modal.table.inaccessible_variable_tooltip": {
-        "string": "Upgrade to access more modes"
+    "dev_handoff.figmadoc.connect_to_code.body": {
+        "string": "在Figma中检查设计时，连接到代码库以显示实际的组件代码"
     },
-    "settings.account_settings.change_languages": {
-        "string": "Change language"
+    "dev_handoff.figmadocs.connected": {
+        "string": "已连接"
     },
-    "settings.language_selector.modal.description": {
-        "string": "Pick which language to use for Figma's app, website, and marketing emails."
+    "dev_handoff.figmadocs.connected_last_published_at": {
+        "string": "上次发布于：{lastPublishedAt}"
     },
-    "settings.language_selector.cancel": {
-        "string": "Cancel"
+    "dev_handoff.figmadocs.edit_sample_code": {
+        "string": "编辑示例代码"
     },
-    "settings.language_selector.save": {
-        "string": "Save"
+    "dev_handoff.figmadocs.error_property_not_found": {
+        "string": "找不到属性“{propertyName}”。可能是设计文件没有使用最新版本的设计库。"
     },
-    "community.logged_out.sign_up_modal_body": {
-        "string": "Join Community for access to thousands of plugins, widgets, and files."
+    "dev_handoff.figmadocs.error_property_type_mismatch": {
+        "string": "属性“{propertyName}”不是{propertyType}。可能是设计文件没有使用最新版本的设计库。"
     },
-    "community.signed_out_modal.sign_up": {
-        "string": "Sign up"
+    "dev_handoff.figmadocs.error_title": {
+        "string": "加载Code Connect时出错"
     },
-    "community.signed_out_modal.log_in": {
-        "string": "Log in"
+    "dev_handoff.figmadocs.error_unknown": {
+        "string": "无法加载Code Connect示例"
     },
-    "community.plugins.try_it_out_mobile_not_supported": {
-        "string": "This feature is currently not supported on mobile."
+    "dev_handoff.figmadocs.manual": {
+        "string": "手动"
     },
-    "settings.account_setting.purchases": {
-        "string": "Purchases"
+    "dev_handoff.figmadocs.manual_code_snippet": {
+        "string": "手动代码片段"
     },
-    "settings.account_setting.inactive": {
-        "string": "Inactive"
+    "dev_handoff.inspect_mode.switched_to_design": {
+        "string": "切换到设计模式"
     },
-    "settings.account_setting.account": {
-        "string": "Account"
+    "dev_handoff.inspect_mode.switched_to_inspect": {
+        "string": "切换到检查模式"
     },
-    "settings.account_setting.community": {
-        "string": "Community"
+    "dev_handoff.inspect_panel.auto_run": {
+        "string": "自动运行所有文件"
     },
-    "settings.account_setting.notifications": {
-        "string": "Notifications"
+    "dev_handoff.inspect_panel.block_suggestions.body": {
+        "string": "根据光标位置获取多行代码块的建议。"
     },
-    "settings.account_setting.sessions": {
-        "string": "Sessions"
+    "dev_handoff.inspect_panel.block_suggestions.title": {
+        "string": "块建议（实验性）"
     },
-    "community.community_account_settings.create_your_public_profile_title": {
-        "string": "Create your public profile"
+    "dev_handoff.inspect_panel.close_plugin": {
+        "string": "关闭插件"
     },
-    "community.community_account_settings.join_text": {
-        "string": "Join the Figma Community to publish files and plugins, comment, follow members, and like what they make."
+    "dev_handoff.inspect_panel.component": {
+        "string": "组件"
     },
-    "community.community_account_settings.claim_your_handle": {
-        "string": "Claim your handle"
+    "dev_handoff.inspect_panel.create_first_here": {
+        "string": "在此创建第一个检查模式插件。"
     },
-    "community.community_account_settings.display_name": {
-        "string": "Display name"
+    "dev_handoff.inspect_panel.fills.background": {
+        "string": "背景色"
     },
-    "community.community_account_settings.unique_handle": {
-        "string": "Unique handle"
+    "dev_handoff.inspect_panel.fills.text": {
+        "string": "文字颜色"
     },
-    "community.community_account_settings.change_handle": {
-        "string": "Change handle"
+    "dev_handoff.inspect_panel.generate_code": {
+        "string": "关闭插件并生成代码"
     },
-    "community.community_account_settings.public_profile": {
-        "string": "Public profile:"
+    "dev_handoff.inspect_panel.inspect_nested_component": {
+        "string": "检查嵌套组件"
     },
-    "community.community_account_settings.profile": {
-        "string": "Profile"
+    "dev_handoff.inspect_panel.inspect_plugins_go_here": {
+        "string": "启用检查模式后，此处将显示检查模式插件。"
     },
-    "community.community_account_settings.delete_public_profile": {
-        "string": "Delete public profile"
+    "dev_handoff.inspect_panel.learn_more_link": {
+        "string": "{learnMoreLink}"
     },
-    "community.purchase_home.community_purchases": {
-        "string": "Community purchases"
+    "dev_handoff.inspect_panel.learn_more_plugin_development": {
+        "string": "了解插件开发的更多信息"
     },
-    "community.purchase_home.show_more": {
-        "string": "Show more"
+    "dev_handoff.inspect_panel.more_plugins": {
+        "string": "更多插件..."
     },
-    "community.purchase_home.inactive": {
-        "string": "Inactive"
+    "dev_handoff.inspect_panel.new_plugin": {
+        "string": "新建"
     },
-    "community.purchase_home.by_purchasing_resources_you_agree": {
-        "string": "By purchasing resources from Figma Community, you agree to the {paidResourceLicense} and {termsOfService}."
+    "dev_handoff.inspect_panel.open_in_vs_code.link": {
+        "string": "在VS Code中打开"
     },
-    "community.detail_view.paid_resource_license": {
-        "string": "Community Paid Resource License"
+    "dev_handoff.inspect_panel.open_setting": {
+        "string": "打开设置"
     },
-    "community.purchase_home.community_terms_of_service": {
-        "string": "Terms of Service"
+    "dev_handoff.inspect_panel.pin": {
+        "string": "固定到顶部"
     },
-    "community.purchase_home.server_could_not_load_resources": {
-        "string": "Server could not load resources. {reload}"
+    "dev_handoff.inspect_panel.plugins_hint": {
+        "string": "使用检查模式插件可通过新语言、扩展检查等方式自定义Figma。"
     },
-    "community.purchase_home.reload": {
-        "string": "Reload"
+    "dev_handoff.inspect_panel.plugins_hint.link": {
+        "string": "浏览插件"
     },
-    "fig_feed.feed": {
-        "string": "Feed"
+    "dev_handoff.inspect_panel.plugins_hint.title": {
+        "string": "在Figma中使用你最喜欢的工具"
     },
-    "notification_settings_modal.product_tips_and_news": {
-        "string": "Product tips and news"
+    "dev_handoff.inspect_panel.property_suggestions.body": {
+        "string": "逐行获取属性建议，如变量、颜色、大小等。"
     },
-    "notification_settings_modal.unsubscribe_from_figma_emails_disclaimer": {
-        "string": "You can unsubscribe from Figma emails any time. For more information, review our {privacy_policy}."
+    "dev_handoff.inspect_panel.property_suggestions.title": {
+        "string": "属性建议"
     },
-    "notification_settings_modal.privacy_policy": {
-        "string": "Privacy Policy"
+    "dev_handoff.inspect_panel.search_bar_filter": {
+        "string": "过滤"
     },
-    "notification_settings_modal.error_changing_setting_errorMessageString": {
-        "string": "Error changing setting: {errorMessageString}"
+    "dev_handoff.inspect_panel.search_bar_filter.codegen_option": {
+        "string": "仅代码生成插件"
     },
-    "fig_feed.indicator_for_new_feed_posts": {
-        "string": "Show an indicator for new feed posts and activity"
+    "dev_handoff.inspect_panel.show_more_properties": {
+        "string": "检查图层的属性"
     },
-    "notification_settings_modal.send_me_occasional_emails_with_updates_and_promotions": {
-        "string": "Send me occasional emails with updates and promotions from Figma"
+    "dev_handoff.inspect_panel.template": {
+        "string": "模板"
     },
-    "notification_settings_modal.desktop_notifications": {
-        "string": "Desktop notifications"
+    "dev_handoff.inspect_panel.unpin": {
+        "string": "取消固定"
     },
-    "notification_settings_modal.send_me_desktop_push_notifications": {
-        "string": "Send notifications to my computer"
+    "dev_handoff.inspect_panel.use_desktop_to_develop": {
+        "string": "使用桌面应用开发检查模式插件。"
     },
-    "notification_settings_modal.email_notifications": {
-        "string": "Email notifications"
+    "dev_handoff.inspect_settings": {
+        "string": "检查设置"
     },
-    "notification_settings_modal.you_ll_still_get_emails_from_Figma_about_your_account": {
-        "string": "You’ll still get other emails from Figma, like important account or billing info."
+    "dev_handoff.instance_navigation.go_to_main_component": {
+        "string": "前往主组件"
     },
-    "notification_settings_modal.send_me_notifications_by_email": {
-        "string": "Send notifications by email"
+    "dev_handoff.layers.add_annotation": {
+        "string": "添加注释"
     },
-    "sessions.row.location": {
-        "string": "{city}, {country}"
+    "dev_handoff.layers.collapse_all_layers": {
+        "string": "折叠所有图层"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "activity_log.table.all": {
-        "string": "All"
+    "settings.account_setting.submit_button": {
+        "string": "送信"
     },
-    "activity_log.table.event_selected": {
-        "string": "Event: {event}"
+    "settings.account_settings.account_section_header": {
+        "string": "アカウント"
     },
-    "activity_log.table.clear": {
-        "string": "Clear"
+    "settings.account_settings.add_job_title": {
+        "string": "役職名を追加"
     },
-    "activity_log.table.preparing_request_for_csv": {
-        "string": "Preparing request for CSV"
+    "settings.account_settings.change_email_link": {
+        "string": "メールアドレスを変更"
     },
-    "activity_log.table.activity_log.table.csv_requested_success": {
-        "string": "Your CSV is being generated, which will take a few minutes. We’ll email you when it’s ready."
+    "settings.account_settings.change_email_modal_title": {
+        "string": "メールアドレスを変更"
     },
-    "activity_log.table.csv_requested_error": {
-        "string": "There was an error"
+    "settings.account_settings.change_job_title_link": {
+        "string": "役職名を変更"
     },
-    "activity_log.table.member_email_addresses": {
-        "string": "Member email addresses"
+    "settings.account_settings.change_job_title_modal_title": {
+        "string": "どのような仕事をしていますか?"
     },
-    "activity_log.table.events_all": {
-        "string": "Events: All"
+    "settings.account_settings.change_languages": {
+        "string": "言語を変更"
     },
-    "activity_log.table.teams_all": {
-        "string": "Teams: All"
+    "settings.account_settings.change_name_link": {
+        "string": "名前を変更"
     },
-    "activity_log.table.team_selected": {
-        "string": "Team: {team}"
+    "settings.account_settings.change_name_modal_input_placeholder": {
+        "string": "新しい名前"
     },
-    "org_admin_settings.billing.billing_groups": {
-        "string": "Billing groups"
+    "settings.account_settings.change_name_modal_title": {
+        "string": "名前を変更"
     },
-    "org_admin_settings.cost_breakdown.invoices": {
-        "string": "Invoices"
+    "settings.account_settings.change_password_link": {
+        "string": "パスワードを変更"
     },
-    "org_admin_settings.billing.invoices": {
-        "string": "Invoices"
+    "settings.account_settings.closed_captions": {
+        "string": "クローズドキャプション"
     },
-    "admin_dashboard.suggested.tile.subtext.main": {
-        "string": "Assign seats now to restore access, or {dismissalLink}"
+    "settings.account_settings.delete_account": {
+        "string": "アカウントを削除"
     },
-    "admin_dashboard.suggested.tile.subtext.dismissal_link": {
-        "string": "dismiss this notification"
+    "settings.account_settings.dev_mode_seat": {
+        "string": "開発モードシート"
     },
-    "org_dashboard.total_teams": {
-        "string": "Total teams"
+    "settings.account_settings.download_installer": {
+        "string": "インストーラーをダウンロード"
     },
-    "org_dashboard.total_members": {
-        "string": "Total members"
+    "settings.account_settings.downloading_speech_files_progress": {
+        "string": "スピーチファイルをダウンロード中... {installProgress}%"
     },
-    "admin_dashboard.suggested.tile.body.dm_not_opted_in": {
-        "string": "Enable Dev Mode to restore access"
+    "settings.account_settings.email_section_header": {
+        "string": "メール"
     },
-    "admin_dashboard.suggested.tile.body.dm_not_opted_in_no_beta_users": {
-        "string": "Enable Dev Mode for your team"
+    "settings.account_settings.enable_closed_captioning_when_using_audio": {
+        "string": "ファイル内で音声を使用する場合は、クローズドキャプションを有効にします。"
     },
-    "admin_dashboard.suggested.tile.body.dm_opted_in": {
-        "string": "Assign seats now to restore access"
+    "settings.account_settings.enable_libraries_for_drafts": {
+        "string": "ドラフトのすべてのファイルに対する{enableLibrariesLink}"
     },
-    "admin_dashboard.suggested.tile.title": {
-        "string": "Your team’s Dev Mode access ended on {dateObject, date, ::MMMMd}"
+    "settings.account_settings.enable_libraries_for_drafts_clickable": {
+        "string": "ライブラリを有効にする"
     },
-    "admin_dashboard.suggested.button": {
-        "string": "Assign seats"
+    "settings.account_settings.figjam_role.seat_rename": {
+        "string": "FigJamシート"
     },
-    "org_dashboard.billing": {
-        "string": "Billing"
+    "settings.account_settings.figma_design_role.seat_rename": {
+        "string": "デザインシート"
     },
-    "org_dashboard.settings": {
-        "string": "Settings"
+    "settings.account_settings.fonts": {
+        "string": "フォント"
     },
-    "billing_status.tax_id.invalid.v2": {
-        "string": "Your tax ID number couldn’t be verified. Please re-enter this information"
+    "settings.account_settings.help_article": {
+        "string": "ヘルプ記事"
     },
-    "resources_tab.approved_plugins.actions.plugin": {
-        "string": "Plugin"
+    "settings.account_settings.here": {
+        "string": "こちら"
     },
-    "resources_tab.approved_widgets.actions.widget": {
-        "string": "Widget"
+    "settings.account_settings.install_font_service_for_local": {
+        "string": "現在、ローカルフォントは有効になっていません。フォントサービスをインストールして、ローカルフォントを有効にします。{learnMoreLink}"
     },
-    "resources_tab.approved_plugins.actions.settings": {
-        "string": "Settings"
+    "settings.account_settings.job_title_missing": {
+        "string": "仕事または役割をプロフィールに追加することで、自分が何をしているかをチームメートに伝えることができます。"
     },
-    "resources_tab.approved_plugins.plugin_approval_banner.open_settings": {
-        "string": "Open settings"
+    "settings.account_settings.job_title_section_header": {
+        "string": "役職名"
     },
-    "settings_tab.add_domain_description": {
-        "string": "Allow users from an additional domain to become members of your organization"
+    "settings.account_settings.language": {
+        "string": "言語"
     },
-    "settings_tab.domain_list": {
-        "string": "{numDomains, plural, one {Current domain: {domains}} other {Current domains: {domains}}}"
+    "settings.account_settings.learn_more_about_captioning": {
+        "string": "キャプション{learnMoreLink}の詳細"
     },
-    "settings_tab.discovery.description": {
-        "string": "Extract text-based communication from your organization via downloadable files. {learnMoreLink}"
+    "settings.account_settings.leave": {
+        "string": "退会"
     },
-    "resources_tab.libraries.current": {
-        "string": "Current: {setting}"
+    "settings.account_settings.library_section_header": {
+        "string": "ライブラリ"
     },
-    "settings_tab.data_storage.description": {
-        "string": "Store localization-supported data in the US or EU. To change storage location please contact support."
+    "settings.account_settings.local_fonts_are_currently_not_supported_for_this_operating_system": {
+        "string": "現在、このオペレーティングシステムではローカルフォントはサポートされていません。"
     },
-    "settings_tab.data_storage.current_location": {
-        "string": "Current location: {currentLocation}"
+    "settings.account_settings.local_fonts_are_enabled_you_have_local_font_count_fonts_available_in_figma": {
+        "string": "ローカルフォントが有効になっています。Figmaでは{localFontCount}個のフォントを使用できます。"
     },
-    "settings_tab.ip_restriction_description": {
-        "string": "Choose if access to Figma on the {orgName} network is only allowed for accounts that have access to the {orgName} organization."
+    "settings.account_settings.managed_by_google": {
+        "string": "Googleによって管理"
     },
-    "settings_tab.ip_restriction_range": {
-        "string": "Current IP range(s): {ipRanges}"
+    "settings.account_settings.managed_by_your_organization_email": {
+        "string": "組織によって管理"
     },
-    "settings_tab.ip_allowlist_description": {
-        "string": "Specify which IP addresses members must use to access your organization"
+    "settings.account_settings.name_section_header": {
+        "string": "名前"
     },
-    "settings_tab.ip_allowlist_ranges_list": {
-        "string": "Current IP range(s): {ranges}"
+    "settings.account_settings.new_features": {
+        "string": "新機能"
     },
-    "settings_tab.workspace_selector_description_with_link": {
-        "string": "Show a prompt asking new and unassigned users to select a workspace when they log in"
+    "settings.account_settings.organizations": {
+        "string": "組織"
     },
-    "settings_table.subscription_renewal": {
-        "string": "Your {frequency} subscription renews on {billing_date}. We'll notify you beforehand. {more}"
+    "settings.account_settings.password_section_header": {
+        "string": "パスワード"
     },
-    "settings_table.billing_date": {
-        "string": "{billing_date}"
+    "settings.account_settings.request_upgrade": {
+        "string": "アップグレードをリクエスト"
     },
-    "settings_table.learn_more": {
-        "string": "Learn more."
+    "settings.account_settings.theme_section_header": {
+        "string": "テーマ"
     },
-    "plan_settings.default_role_description": {
-        "string": "Automatically assign seat types to people when they join your {plan_type}"
+    "settings.account_settings.to_disable_local_fonts_follow_the_uninstall_steps_in_the": {
+        "string": "ローカルフォントを無効にするには、{helpCenterLink}のアンインストール手順に従います"
     },
-    "admin_settings.ai.features_toggle.description.org": {
-        "string": "Let your organization use Figma’s AI features. {learnMoreLink}"
+    "settings.account_settings.upgrade_figma_plan_header": {
+        "string": "Figmaプランをアップグレード"
     },
-    "admin_settings.ai.data_sharing.description.org": {
-        "string": "Let Figma use your organization’s content to train AI models. Figma takes steps to de-identify data and protect your privacy. {learnMoreLink}"
+    "settings.account_settings.upgrade_figma_plan_reason": {
+        "string": "プランをアップグレードすると、チームのデザインファイル数が無制限になります"
     },
-    "settings_tab.ai_beta.let_users_access_ai_features": {
-        "string": "Let users access AI features. {learnMoreLink}"
+    "settings.account_settings.upgrade_request_sent": {
+        "string": "申請を送信しました"
     },
-    "settings_tab.slides.let_users_create_slides": {
-        "string": "Let users create, edit, and view slide decks in Figma Slides. {learnMoreLink}"
+    "settings.account_settings.use_a_verified_work_email_address_to_become_a_full_member": {
+        "string": "確認済みの仕事用メールアドレスを使用して正会員になります"
     },
-    "settings_tab.show_more": {
-        "string": "Show more…"
+    "settings.account_settings.view_plans": {
+        "string": "プランを表示"
     },
-    "settings_tab.enabled": {
-        "string": "Enabled"
+    "settings.any_resources_you_have_marked_for_sale": {
+        "string": "{creatorAgreement}により、販売中のリソースがすべて販売停止になります。ただし、リソースの購入者は引き続きそのリソースを利用できます。"
     }
 }

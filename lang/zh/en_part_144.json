@@ -1,152 +1,152 @@
 {
-    "dev_handoff.status.mark_status_sentence_part.completed": {
-        "string": "Completed"
+    "visual_bell.drag_and_drop_absolute_stack_insertion": {
+        "string": "若要忽略自动布局，请按住⌃ Ctrl键"
     },
-    "avatar_actions.editor_uploaded.an_error_occurred_while_setting_your_profile_photo": {
-        "string": "An error occurred while setting your profile photo."
+    "visual_bell.drag_and_drop_absolute_stack_insertion_windows": {
+        "string": "若要忽略自动布局，请按住S键"
     },
-    "avatar_actions.team_icon_updated": {
-        "string": "Team icon updated"
+    "visual_bell.duplicate_selection": {
+        "string": "已复制选定内容"
     },
-    "avatar_actions.an_error_occurred_while_setting_the_team_icon": {
-        "string": "An error occurred while setting the team icon."
+    "visual_bell.duplicate_selection_exclude_vote_stamp_from_selection": {
+        "string": "投票未被复制"
     },
-    "avatar_actions.an_error_occurred": {
-        "string": "An error occurred: "
+    "visual_bell.duplicate_selection_failed_only_vote_stamps": {
+        "string": "无法复制投票"
     },
-    "avatar_actions.an_error_occurred_while_setting_the_organization_icon": {
-        "string": "An error occurred while setting the organization icon."
+    "visual_bell.duplicate_styles_pasted": {
+        "string": "无法粘贴重复的{numDuplicateStyles}个样式"
     },
-    "avatar_actions.workspace_icon_updated": {
-        "string": "Workspace icon updated"
+    "visual_bell.export_failed": {
+        "string": "导出失败"
     },
-    "avatar_actions.an_error_occurred_while_setting_the_workspace_icon": {
-        "string": "An error occurred while setting the workspace icon."
+    "visual_bell.exporting_slices_to_pdf_is_currently_unsupported": {
+        "string": "当前不支持将切片导出为PDF"
     },
-    "avatar_actions.an_error_occurred_while_uploading_the_image": {
-        "string": "An error occurred while uploading the image"
+    "visual_bell.forced_layout_of_d_text_elements": {
+        "string": "已强制应用{count}个文本元素的布局"
     },
-    "community.actions.profile_not_found": {
-        "string": "Profile not found"
+    "visual_bell.frame_outlines_hidden": {
+        "string": "框架轮廓已隐藏"
     },
-    "community.actions.unable_to_fetch_comments": {
-        "string": "Unable to fetch comments"
+    "visual_bell.frame_outlines_visible": {
+        "string": "框架轮廓已显示"
     },
-    "community.actions.couldnt_restrict_profile_error": {
-        "string": "Couldn't restrict profile: {error}"
+    "visual_bell.generic_video_upload_error": {
+        "string": "上传视频时出错。请再试一次。"
     },
-    "community.actions.couldnt_unrestrict_profile_error": {
-        "string": "Couldn't unrestrict profile: {error}"
+    "visual_bell.hit_table_cell_limit": {
+        "string": "无法添加更多内容 - 表格最大限制为500个单元格。"
     },
-    "community.actions.error_fetching_profile_information": {
-        "string": "Error fetching profile information."
+    "visual_bell.image_file_name_import_failed": {
+        "string": "导入图片文件{filename}失败"
     },
-    "community.actions.your_twitter_handle_is_not_valid": {
-        "string": "@{handle} is not a valid twitter handle"
+    "visual_bell.image_fill_not_supported_no_extension": {
+        "string": "此文件格式无法用作图像填充"
     },
-    "community.actions.your_instagram_handle_is_not_valid": {
-        "string": "@{handle} is not a valid instagram handle"
+    "visual_bell.image_fill_not_supported_with_extension": {
+        "string": "此文件格式({extension})无法用作图像填充"
     },
-    "community.actions.your_profile_handle_was_set_to_profile_handle": {
-        "string": "Your profile handle was set to @{profileHandle}"
+    "visual_bell.invalid_selection_for_tidy_up": {
+        "string": "无法整理所选内容"
     },
-    "community.actions.your_team_s_handle_was_set_to_profile_handle": {
-        "string": "Your team's handle was set to @{profileHandle}"
+    "visual_bell.loading_prototype_try_again": {
+        "string": "正在加载原型。加载完成后，请再添加另一个原型..."
     },
-    "community.actions.your_organization_s_handle_was_set_to_profile_handle": {
-        "string": "Your organization's handle was set to @{profileHandle}"
+    "visual_bell.local_file_key_unknown": {
+        "string": "本地文件键未知"
     },
-    "community.actions.your_twitter_handle_was_updated": {
-        "string": "Your Twitter handle was updated"
+    "visual_bell.mapped_state_groups": {
+        "string": "已映射{numMappedStateGroups}个状态组、{numMappedSymbols}个组件，并修复{repairedInstances}个实例。"
     },
-    "community.actions.your_location_was_updated": {
-        "string": "Your location was updated"
+    "visual_bell.max_height_removed": {
+        "string": "已移除{nodeCount}个节点的最大高度"
     },
-    "community.actions.your_instagram_handle_was_updated": {
-        "string": "Your Instagram handle was updated"
+    "visual_bell.max_lines_removed": {
+        "string": "已移除{nodeCount}个节点的最大行数"
     },
-    "community.actions.your_website_url_was_updated": {
-        "string": "Your website URL was updated"
+    "visual_bell.max_width_height_removed": {
+        "string": "已移除{nodeCount}个节点的最大宽度和高度"
     },
-    "community.actions.your_description_was_updated": {
-        "string": "Your description was updated"
+    "visual_bell.max_width_removed": {
+        "string": "已移除{nodeCount}个节点的最大宽度"
     },
-    "community.actions.profile_deleted": {
-        "string": "Profile deleted."
+    "visual_bell.min_height_removed": {
+        "string": "已移除{nodeCount}个节点的最小高度"
     },
-    "community.actions.unable_to_delete_profile_please_try_again_later": {
-        "string": "Unable to delete profile. Please try again later."
+    "visual_bell.min_max_height_removed": {
+        "string": "已移除{nodeCount}个节点的最小和最大高度"
     },
-    "community.actions.an_error_occurred_with_error": {
-        "string": "An error occurred: {error}"
+    "visual_bell.min_max_width_height_removed": {
+        "string": "已移除{nodeCount}个节点的最小和最大宽度与高度"
     },
-    "community.actions.an_error_occurred": {
-        "string": "An error occurred"
+    "visual_bell.min_max_width_removed": {
+        "string": "已移除{nodeCount}个节点的最小和最大宽度"
     },
-    "community.actions.followed_profile_name": {
-        "string": "Followed {profileName}"
+    "visual_bell.min_width_height_removed": {
+        "string": "已移除{nodeCount}个节点的最小宽度和高度"
     },
-    "community.actions.unable_to_follow_this_profile_profile_name": {
-        "string": "Unable to follow this profile: {profileName}"
+    "visual_bell.min_width_removed": {
+        "string": "已移除{nodeCount}个节点的最小宽度"
     },
-    "community.actions.unfollowed_profile": {
-        "string": "Unfollowed profile"
+    "visual_bell.moved_selection": {
+        "string": "已将选定对象移至{newPage}"
     },
-    "community.actions.failed_to_resolve_comment": {
-        "string": "Failed to resolve comment"
+    "visual_bell.no_auto_layout_components_found": {
+        "string": "未找到自动布局组件"
     },
-    "community.actions.failed_to_unresolve_comment": {
-        "string": "Failed to unresolve comment"
+    "visual_bell.no_component_prop_refs_to_prune": {
+        "string": "没有要修剪的组件属性引用"
     },
-    "community.actions.log_in_or_create_an_account_to_duplicate_this_file": {
-        "string": "Log in or create an account to duplicate this file"
+    "visual_bell.no_components_are_selected": {
+        "string": "未选择组件"
     },
-    "community.actions.failed_to_duplicate_file_error": {
-        "string": "Failed to duplicate file: {error}"
+    "visual_bell.no_matching_layers_component_set": {
+        "string": "此组件集中无匹配的图层可供选择"
     },
-    "community.actions.try_again_or_contact_support_figma_com": {
-        "string": "Try again or contact support@figma.com"
+    "visual_bell.no_matching_layers_page": {
+        "string": "页面中无匹配的图层可供选择"
     },
-    "community.actions.failed_to_create_a_new_file_from_hub_file_name": {
-        "string": "Failed to create a new file from {hubFileName}"
+    "visual_bell.no_matching_layers_responsive_set": {
+        "string": "此图层集中无匹配的图层可供选择"
     },
-    "community.actions.retry": {
-        "string": "Retry"
+    "visual_bell.no_matching_layers_section": {
+        "string": "此部分无匹配的图层可供选择"
     },
-    "community.actions.attempting_to_set_both_author_org_id_and_author_team_id_while_publishing": {
-        "string": "Attempting to set both authorOrgId and authorTeamId while publishing"
+    "visual_bell.no_more_children_to_select": {
+        "string": "无更多子项可供选择"
     },
-    "community.actions.attempting_to_publish_an_invalid_prototype_as_a_prototype": {
-        "string": "Attempting to publish an invalid prototype as a prototype"
+    "visual_bell.no_text_elements_found_in_current_selection": {
+        "string": "当前选择中未找到文本元素"
     },
-    "community.actions.could_not_connect_to_the_server": {
-        "string": "Could not connect to the server."
+    "visual_bell.not_enough_memory_to_duplicate_this_page": {
+        "string": "内存不足，无法复制此页面"
     },
-    "community.actions.error_uploading_images_e": {
-        "string": "Error uploading images"
+    "visual_bell.nothing_in_selection": {
+        "string": "没有选中任何内容"
     },
-    "community.actions.could_not_publish_hub_file": {
-        "string": "Could not publish file: {error}"
+    "visual_bell.nothing_is_selected": {
+        "string": "没有选中任何内容"
     },
-    "community.actions.error_connecting_to_server_to_upload_file_images": {
-        "string": "Error connecting to server to upload file images."
+    "visual_bell.nothing_to_remove": {
+        "string": "没有要删除的内容。"
     },
-    "community.actions.error_uploading_images_publish_update_from_editor": {
-        "string": "There was an error uploading your images. Please try publishing an update through the editor."
+    "visual_bell.nothing_to_repair": {
+        "string": "没有要修复的内容。"
     },
-    "community.actions.an_error_occurred_while_updating_please_refresh_and_try_again": {
-        "string": "An error occurred while updating. Please refresh and try again."
+    "visual_bell.nothing_to_reresolve": {
+        "string": "没有要重新解决的内容。"
     },
-    "community.actions.unable_to_duplicate": {
-        "string": "Unable to duplicate: {error}"
+    "visual_bell.only_editors_of_this_file_can_copy_it": {
+        "string": "只有此文件的编辑者可以复制此文件"
     },
-    "community.actions.unable_to_like_this_file_error": {
-        "string": "Unable to like this file: {error}"
+    "visual_bell.only_editors_of_this_file_can_export_it": {
+        "string": "只有此文件的编辑者可以导出此文件"
     },
-    "community.actions.unable_to_unlike_this_file_error": {
-        "string": "Unable to unlike this file: {error}"
+    "visual_bell.only_editors_of_this_file_can_save_it": {
+        "string": "只有此文件的编辑者可以保存此文件"
     },
-    "community.actions.pick_extension_manifest_file": {
-        "string": "Pick extension manifest file"
+    "visual_bell.opacity_set_to_d": {
+        "string": "不透明度设置为{percentage}%"
     }
 }

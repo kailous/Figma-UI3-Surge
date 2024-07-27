@@ -1,152 +1,152 @@
 {
-    "team_user.actions.team_members_request_to_upgrade_failed": {
-        "string": "An error occurred submitting a request to upgrade."
+    "whiteboard.starter_kit.sections.retro.first_activity": {
+        "string": "第一个活动"
     },
-    "general.figjam": {
-        "string": "FigJam"
+    "whiteboard.starter_kit.sections.retro.second_activity": {
+        "string": "第二个活动"
     },
-    "general.figma_design": {
-        "string": "Figma Design"
+    "whiteboard.starter_kit.sections.retro.start_here": {
+        "string": "从这里开始（如果有赞赏的话）"
     },
-    "team_user.actions.team_members_upgraded.seat_rename": {
-        "string": "{numTeamMembers, plural, one {{nameOrEmail}’s {productName} seat has been upgraded} other {{numTeamMembers} users’ {productName} seats have been upgraded}}"
+    "whiteboard.starter_kit.sections.retro.third_activity": {
+        "string": "第三个活动"
     },
-    "team_user.actions.team_members_downgraded_to_viewer.seat_rename": {
-        "string": "{numTeamMembers, plural, one {{nameOrEmail}’s {productName} seat has been downgraded to viewer} other {{numTeamMembers} users’ {productName} seats have been downgraded to viewer}}"
+    "whiteboard.starter_kit.standup.last_week": {
+        "string": "上周"
     },
-    "team_user.actions.team_members_downgraded_to_viewer_restricted.seat_rename": {
-        "string": "{numTeamMembers, plural, one {{nameOrEmail}’s {productName} seat has been downgraded to viewer-restricted} other {{numTeamMembers} users’ {productName} seats have been downgraded to viewer-restricted}}"
+    "whiteboard.starter_kit.standup.section_title": {
+        "string": "{person_num}人"
     },
-    "team_user.actions.an_error_occurred_while_changing_a_team_member_s_billing_status": {
-        "string": "An error occurred while changing a team member's billing status."
+    "whiteboard.starter_kit.standup.subtitle": {
+        "string": "{date}这一周"
     },
-    "team_user.actions.an_error_occurred_while_retrieving_fetching_the_list_of_users_on_this_team": {
-        "string": "An error occurred while fetching the list of users on this team."
+    "whiteboard.starter_kit.standup.this_week": {
+        "string": "本周"
     },
-    "file_browser.file_browser_actions.logout_error_without_email": {
-        "string": "An error occurred while logging out"
+    "whiteboard.starter_kit.subheadings.agenda.first_topic": {
+        "string": "今天的讨论主题..."
     },
-    "file_browser.file_browser_actions.successfully_logged_out": {
-        "string": "Successfully logged out of {emailAddress}"
+    "whiteboard.starter_kit.subheadings.agenda.icebreakers": {
+        "string": "今天的问题..."
     },
-    "file_browser.file_browser_actions.logout_error_with_email": {
-        "string": "An error occurred while logging out of {emailAddress}"
+    "whiteboard.starter_kit.subheadings.agenda.intros": {
+        "string": "今天的议题..."
     },
-    "community.actions.unable_to_mark_all_as_read_error_message": {
-        "string": "Unable to mark all as read: {error}"
+    "whiteboard.starter_kit.subheadings.brainstorm.prompt1": {
+        "string": "提示1"
     },
-    "comments.you_will_be_notified_about_file_comments": {
-        "string": "You will be notified about all new comments in this file."
+    "whiteboard.starter_kit.subheadings.brainstorm.prompt2": {
+        "string": "提示2"
     },
-    "comments.you_will_be_notified_about_replies_and_at_mentions": {
-        "string": "You will be notified about replies and @mentions"
+    "whiteboard.starter_kit.subheadings.bug_bash.instructions": {
+        "string": "这里是史诗纵横比的说明。"
     },
-    "comments.turn_on": {
-        "string": "Turn on"
+    "whiteboard.starter_kit.subheadings.design_crit.concepts": {
+        "string": "概念1"
     },
-    "comments.get_notified_about_all_comments_prompt": {
-        "string": "Turn on notifications for all comments in this file?"
+    "whiteboard.starter_kit.subheadings.design_crit.feedback": {
+        "string": "寻求的反馈："
     },
-    "dev_mode.you_will_be_notified_about_status_changes": {
-        "string": "You will be notified about status changes"
+    "whiteboard.starter_kit.subheadings.design_crit.problems": {
+        "string": "试图解决的问题："
     },
-    "voting.csv_export.filename_with_session_title": {
-        "string": "Vote on {date} — {votingSessionTitle}"
+    "whiteboard.starter_kit.subheadings.presentation.slide_1": {
+        "string": "幻灯片标题"
     },
-    "voting.csv_export.filename_no_session_title": {
-        "string": "Vote on {date}"
+    "whiteboard.starter_kit.subheadings.presentation.slide_2": {
+        "string": "今年销售额增加"
     },
-    "voting.visual_bell.end_voting_session_failed": {
-        "string": "Couldn’t end vote. Try again?"
+    "whiteboard.starter_kit.subheadings.presentation.timeline": {
+        "string": "时间线"
     },
-    "voting.visual_bell.start_voting_session_failed": {
-        "string": "Couldn’t start vote. Try again?"
+    "whiteboard.starter_kit.subheadings.presentation.title": {
+        "string": "演示文稿标题"
     },
-    "voting.modal.delete_voting_session_error": {
-        "string": "An error occurred while attempting to delete a voting session."
+    "whiteboard.starter_kit.subheadings.user_journey.actions": {
+        "string": "行动"
     },
-    "voting.modal.delete_voting_session_visual_bell": {
-        "string": "Results deleted"
+    "whiteboard.starter_kit.subheadings.user_journey.cell_helper": {
+        "string": "点击单元格添加文本！"
     },
-    "presets.i_phone_14_and_15_pro_max": {
-        "string": "iPhone 14 & 15 Pro Max"
+    "whiteboard.starter_kit.subheadings.user_journey.opportunities": {
+        "string": "机会"
     },
-    "presets.i_phone_14_and_15_pro": {
-        "string": "iPhone 14 & 15 Pro"
+    "whiteboard.starter_kit.subheadings.user_journey.phase": {
+        "string": "阶段{phase_num}"
     },
-    "presets.i_phone_13_and_14": {
-        "string": "iPhone 13 & 14"
+    "whiteboard.starter_kit.subheadings.user_journey.questions": {
+        "string": "存在的问题"
     },
-    "presets.desktop": {
-        "string": "Desktop"
+    "whiteboard.starter_kit.subheadings.user_journey.sentiment": {
+        "string": "感受"
     },
-    "community.categories.wireframe": {
-        "string": "Wireframe"
+    "whiteboard.starter_mindmap.child_1": {
+        "string": "概念"
     },
-    "presets.slide_16_9": {
-        "string": "Slide 16:9"
+    "whiteboard.starter_mindmap.child_2": {
+        "string": "创意"
     },
-    "presets.slide_4_3": {
-        "string": "Slide 4:3"
+    "whiteboard.starter_mindmap.child_3": {
+        "string": "想法"
     },
-    "presets.twitter_post": {
-        "string": "Twitter post"
+    "whiteboard.starter_mindmap.root_text": {
+        "string": "问题或主题"
     },
-    "presets.twitter_header": {
-        "string": "Twitter header"
+    "org_settings.ai_features_disabled.k12": {
+        "string": "K-12组织不能禁用AI功能。"
     },
-    "presets.facebook_post": {
-        "string": "Facebook post"
+    "org_settings.error.license_seat_count_less_than_expected": {
+        "string": "请求的{licenseType}许可证数量少于预期。预期许可证数为{expectedSeatCount}，请求的许可证数为{requestedSeatCount}。"
     },
-    "presets.facebook_cover": {
-        "string": "Facebook cover"
+    "org_settings.rate_limiting.external_content_controls_duration": {
+        "string": "外部内容访问设置每10分钟只能更新一次"
     },
-    "presets.instagram_post": {
-        "string": "Instagram post"
+    "org_settings.rate_limiting.idle_session_timeout_duration": {
+        "string": "空闲会话超时每10分钟只能更新一次"
     },
-    "presets.instagram_story": {
-        "string": "Instagram story"
+    "org_settings.sso-requirements.configure-saml": {
+        "string": "要强制使用SAML SSO，必须先配置SAML。"
     },
-    "presets.dribbble_shot": {
-        "string": "Dribbble shot"
+    "org_settings.sso-requirements.google-to-saml": {
+        "string": "要强制使用SAML SSO，首先允许所有身份验证方法。然后，登录SAML并验证配置。这将允许切换到强制使用SAML SSO。"
     },
-    "presets.dribbble_shot_hd": {
-        "string": "Dribbble shot HD"
+    "org_settings.sso-requirements.k12": {
+        "string": "由于您的身份验证设置要求K-12组织使用Google登录，无法更改。"
     },
-    "presets.linked_in_cover": {
-        "string": "LinkedIn cover"
+    "org_settings.sso-requirements.login-with-google": {
+        "string": "在要求成员使用Google登录之前，您需要先登录Google。"
     },
-    "presets.a_4": {
-        "string": "A4"
+    "org_settings.sso-requirements.login-with-saml": {
+        "string": "在要求成员使用SAML SSO登录之前，您需要先登录SAML SSO。"
     },
-    "presets.a_5": {
-        "string": "A5"
+    "permissions.error_move_files_into_project": {
+        "string": "您无权将文件移动到该项目中。"
     },
-    "presets.a_6": {
-        "string": "A6"
+    "permissions.sinatra.cant_use_file_as_template": {
+        "string": "您无权将此文件用作模板。"
     },
-    "presets.letter": {
-        "string": "Letter"
+    "permissions.sinatra.cant_use_files_as_templates": {
+        "string": "您无权将这些文件用作模板。"
     },
-    "presets.tabloid": {
-        "string": "Tabloid"
+    "permissions.sinatra.cant_view_file": {
+        "string": "您无权查看此文件。"
     },
-    "presets.plugin_icon": {
-        "string": "Plugin icon"
+    "permissions.sinatra.generic": {
+        "string": "您似乎没有执行此操作的权限。"
     },
-    "presets.profile_banner": {
-        "string": "Profile banner"
+    "permissions.sinatra.invalid_file_access_setting": {
+        "string": "内部可见文件的文件访问设置{accessLevel}无效"
     },
-    "presets.plugin_file_cover": {
-        "string": "Plugin / file cover"
+    "permissions.sinatra.invite_only_project_paywall": {
+        "string": "要启用“仅限邀请”项目，请升级到付费团队。"
     },
-    "presets.i_phone_13_13_pro": {
-        "string": "iPhone 13 / 13 Pro"
+    "permissions.sinatra.may_not_delete_root_project": {
+        "string": "无法删除根项目"
     },
-    "presets.i_phone_11_pro_x": {
-        "string": "iPhone 11 Pro / X"
+    "permissions.sinatra.move_to_deleted_team": {
+        "string": "{teamName}已被删除"
     },
-    "presets.i_pad_mini_5": {
-        "string": "iPad mini 5"
+    "permissions.sinatra.no_globally_editable_drafts": {
+        "string": "草稿文件不能设为全局可编辑"
     }
 }

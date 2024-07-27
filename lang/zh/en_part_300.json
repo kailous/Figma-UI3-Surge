@@ -1,152 +1,152 @@
 {
-    "resources_tab.approved_plugins.modal.cancel": {
-        "string": "Cancel"
+    "fullscreen.properties_panel.stack_panel.preview": {
+        "string": "プレビュー"
     },
-    "resources_tab.approved_plugins.modal.back": {
-        "string": "Back"
+    "fullscreen.properties_panel.stack_panel.remove_auto_layout": {
+        "string": "オートレイアウトを削除"
     },
-    "resources_tab.approved_plugins.modal.save_changes": {
-        "string": "Save changes"
+    "fullscreen.properties_panel.stack_panel.remove_baseline_align": {
+        "string": "ベースライン揃えを削除"
     },
-    "resources_tab.approved_plugins.modal.search_workspaces": {
-        "string": "Search workspaces"
+    "fullscreen.properties_panel.stack_panel.remove_max": {
+        "string": "最大幅・高さを削除"
     },
-    "resources_tab.approved_plugins.modal.individual_workspaces_approval_warning": {
-        "string": "A member requested to use this plugin in a draft file. Approving for individual workspaces will prevent the plugin from being usable in drafts."
+    "fullscreen.properties_panel.stack_panel.remove_min": {
+        "string": "最小幅・高さを削除"
     },
-    "resources_tab.approved_widgets.modal.individual_workspaces_approval_warning": {
-        "string": "A member requested to use this widget in a draft file. Approving for individual workspaces will prevent the widget from being usable in drafts."
+    "fullscreen.properties_panel.stack_panel.remove_min_and_max": {
+        "string": "最小と最大を削除"
     },
-    "resources_tab.approved_plugins.table.approved_for_all_workspaces": {
-        "string": "Approved for all workspaces"
+    "fullscreen.properties_panel.stack_panel.right_padding": {
+        "string": "右パディング"
     },
-    "resources_tab.approved_plugins.table.approved_for_workspace": {
-        "string": "{numWorkspaces, plural, one  {Approved for {numWorkspaces} workspace} other {Approved for {numWorkspaces} workspaces}}"
+    "fullscreen.properties_panel.stack_panel.sizing_disabled.no_fill_component": {
+        "string": "塗りは、コンポーネントには適用できません。インスタンスにのみ適用できます"
     },
-    "resources_tab.extension_request_sidebar.requests": {
-        "string": "Requests"
+    "fullscreen.properties_panel.stack_panel.sizing_disabled.select_all_fill": {
+        "string": "すべての子を選択して塗りに設定"
     },
-    "resources_tab.extension_usage_data.usage": {
-        "string": "Usage"
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version": {
+        "string": "更新によりレイヤーが追加されることがありますが、表示されるデザインは変わりません。"
     },
-    "resources_tab.approved_plugins.modal.user_count": {
-        "string": "{count, plural, one {· {count} user} other {· {count} users}}"
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_components": {
+        "string": "更新によりレイヤーが追加されることがありますが、表示されるデザインは変わりません。このメインコンポーネントにインスタンスが含まれている場合は、更新後にインスタンスを確認してください。"
     },
-    "resources_tab.approved_plugins.modal.attribution_single_creator": {
-        "string": "By {creator}"
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance": {
+        "string": "このインスタンスは古いバージョンのオートレイアウトを使用しています。オートレイアウトを更新するには、メインコンポーネントを更新します。"
     },
-    "resources_tab.approved_plugins.modal.attribution_two_creators": {
-        "string": "By {creator1} and {creator2}"
+    "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance_overrides": {
+        "string": "このインスタンスには、古いバージョンのオートレイアウトからのオーバーライドがあります。更新すると、オーバーライドが削除されます。\\n\\nメインコンポーネントの更新が必要な場合もあります。"
     },
-    "resources_tab.approved_plugins.modal.attribution_multiple_creators": {
-        "string": "By {creator1} and others"
+    "fullscreen.properties_panel.stack_panel.top_padding": {
+        "string": "上パディング"
     },
-    "resources_tab.approved_plugins.modal.security": {
-        "string": "Security"
+    "fullscreen.properties_panel.stack_panel.undo": {
+        "string": "元に戻す"
     },
-    "resources_tab.approved_plugins.modal.licenses": {
-        "string": "Licenses"
+    "fullscreen.properties_panel.stack_panel.update": {
+        "string": "更新"
     },
-    "resources_tab.approved_plugins.modal.show_less": {
-        "string": "Show less"
+    "fullscreen.properties_panel.stack_panel.use_auto_layout": {
+        "string": "オートレイアウトを使用"
     },
-    "resources_tab.approved_plugins.modal.show_more": {
-        "string": "Show more"
+    "fullscreen.properties_panel.stack_panel.vertical_direction": {
+        "string": "縦に並べる"
     },
-    "resources_tab.approved_plugins.modal.try_it_out": {
-        "string": "Try it out"
+    "fullscreen.properties_panel.stack_panel.vertical_padding": {
+        "string": "垂直パディング"
     },
-    "resources_tab.approved_plugins.modal.try_it_out_ecc_tooltip": {
-        "string": "Access to external files has been disabled for {orgName}."
+    "fullscreen.properties_panel.stack_panel.wrap": {
+        "string": "折り返す"
     },
-    "resources_tab.extension_revoke_modal.title": {
-        "string": "Revoke access for {extensionName}?"
+    "fullscreen.visual_bell.could_not_suggest_auto_layout": {
+        "string": "オートレイアウトを提案できません"
     },
-    "resources_tab.extension_revoke_modal.body.widget": {
-        "string": "This widget will no longer be available to everyone in {orgName}."
+    "fullscreen.visual_bell.try_again_msal": {
+        "string": "選択範囲を小さくして、もう一度お試しください"
     },
-    "resources_tab.extension_revoke_modal.body.plugin": {
-        "string": "This plugin will no longer be available to everyone in {orgName}."
+    "tax.example_vat_format_placeholder": {
+        "string": "例: {exampleFormat}"
     },
-    "resources_tab.extension_revoke_modal.confirmation_button": {
-        "string": "Revoke"
+    "tax.optional_vat_gst_id.input_label": {
+        "string": "{taxType} ID (オプション)"
     },
-    "resources_tab.extension_usage_data.past_7_days": {
-        "string": "Past 7 days"
+    "tax.vat.input_tooltip": {
+        "string": "付加価値税(VAT)や物品サービス税(GST)のIDをお客様の税務状況の確認に使用します。"
     },
-    "resources_tab.extension_usage_data.past_30_days": {
-        "string": "Past 30 days"
+    "tax.vat.vat_gst_validation_failed": {
+        "string": "VAT/GST IDの確認中にエラーが発生しました。"
     },
-    "resources_tab.extension_usage_data.past_year": {
-        "string": "Past year"
+    "change_annual_plan_modal.cancel_annual_plan_header": {
+        "string": "年間プランをキャンセルしますか?"
     },
-    "resources_tab.extension_usage_data.upgrade_enterprise_link": {
-        "string": "Upgrade to Enterprise plan"
+    "change_annual_plan_modal.cancel_annual_plan_subtext": {
+        "string": "年間プランは後でいつでも追加できます。"
     },
-    "resources_tab.extension_usage_data.upgrade_enterprise_widgets": {
-        "string": "{upgradeLink} to view widget usage analytics"
+    "change_annual_plan_modal.cancel_annual_plan_text.seat_rename": {
+        "string": "チーム内のFigmaデザインシートとFigJamシートについては、それぞれ{monthlyEditorCost}/月、{monthlyFigJamEditorCost}/月が毎月請求されます。"
     },
-    "resources_tab.extension_usage_data.upgrade_enterprise_plugins": {
-        "string": "{upgradeLink} to view plugin usage analytics"
+    "change_annual_plan_modal.change_annual_plan_grace_period.seat_rename": {
+        "string": "年間プランのフルシートの数は、更新の30日前まで変更できます。"
     },
-    "resources_tab.extension_usage_data.placeholder_runs": {
-        "string": "-- runs"
+    "change_annual_plan_modal.confirm_cancel_annual_plan": {
+        "string": "年間プランをキャンセル"
     },
-    "resources_tab.extension_usage_data.runs": {
-        "string": "{numberOfRuns, plural, one {{numberOfRuns} run} other {{numberOfRuns} runs}}"
+    "change_annual_plan_modal.confirm_text": {
+        "string": "年間プランを更新"
     },
-    "resources_tab.extension_usage_data.users": {
-        "string": "Users"
+    "change_annual_plan_modal.confirmation_header_plan_started": {
+        "string": "年間プランは{startDate}に自動更新されます"
     },
-    "resources_tab.extension_usage_data.workspaces": {
-        "string": "Workspaces"
+    "change_annual_plan_modal.confirmation_header_plan_starting": {
+        "string": "年間プランは{startDate}に開始されます"
     },
-    "resources_tab.extension_usage_data.total_runs": {
-        "string": "Total Runs"
+    "change_annual_plan_modal.contact_support_link": {
+        "string": "サポートにお問い合わせください"
     },
-    "extension_decline_modal.approved_access_workspace": {
-        "string": "Approved access to {workspace}"
+    "change_annual_plan_modal.contact_support_to_purchase_more_seats_error": {
+        "string": "購入するシート数が{maxAnnualSubscriptions}を超える場合は、{contactSupportLink}してください。"
     },
-    "extension_decline_modal.approved_access_org": {
-        "string": "Approved access to organization"
+    "change_annual_plan_modal.dont_renew_annual_plan": {
+        "string": "年間プランを更新しない"
     },
-    "extension_decline_modal.declined_request": {
-        "string": "Declined request"
+    "change_annual_plan_modal.instructions.seat_rename": {
+        "string": "年間プランに含まれていないシートについては、{monthlyEditorCost}/月({editorProduct}の場合)、{monthlyFigjamCost}/月({figJamProduct}の場合)が毎月請求されます"
     },
-    "extension_decline_modal.revoked_access_workspace": {
-        "string": "Revoked access to {workspace}"
+    "change_annual_plan_modal.invalid_seats_error": {
+        "string": "更新する有効なシート数を入力してください。"
     },
-    "extension_decline_modal.revoked_access_org": {
-        "string": "Revoked access to organization"
+    "change_annual_plan_modal.nevermind": {
+        "string": "キャンセルしない"
     },
-    "extension_decline_modal.add_access_workspace": {
-        "string": "Add access to {workspace}"
+    "change_annual_plan_modal.number_of_editors.seat_rename": {
+        "string": "年間プランの{productType}シートの数:"
     },
-    "extension_decline_modal.add_access_org": {
-        "string": "Add access to organization"
+    "change_annual_plan_modal.plan_start_date": {
+        "string": "{startDate, date, medium}"
     },
-    "resources_tab.libraries.no_subscriptions": {
-        "string": "—"
+    "change_annual_plan_modal.remove_annual_plan": {
+        "string": "年間プランを削除する"
     },
-    "resources_tab.libraries.two_or_more_workspaces": {
-        "string": "{extraWorkspaceNum, plural, one {{workspaceNames}, +1 other workspace} other {{workspaceNames}, +{extraWorkspaceNum} other workspaces}}"
+    "change_annual_plan_modal.unknown_start_date": {
+        "string": "不明な日付"
     },
-    "resources_tab.libraries.name": {
-        "string": "Library name"
+    "change_team_name_visual_bell.text": {
+        "string": "{oldTeamName}の名前が{newTeamName}に変更されました"
     },
-    "resources_tab.libraries.enabled_for": {
-        "string": "Enabled for"
+    "change_team_name_visual_bell.undo": {
+        "string": "元に戻す"
     },
-    "resources_tab.libraries.components": {
-        "string": "Components"
+    "downgrade_member_visual_bell.text": {
+        "string": "{numMembers, plural, other {{numMembers}ユーザーのチームの権限は、「閲覧のみ」にダウングレードされました}}"
     },
-    "resources_tab.libraries.styles": {
-        "string": "Styles"
+    "flash.team_billing_summary_fetching_error": {
+        "string": "請求の概要の取得中にエラーが発生しました。"
     },
-    "resources_tab.libraries.search.no_results": {
-        "string": "No libraries match your search query. Try your search again."
+    "flash.team_deletion_file_count_fetching_error": {
+        "string": "チーム削除のためのファイル数の取得中にエラーが発生しました。"
     },
-    "resources_tab.libraries.filter.no_results": {
-        "string": "No libraries match the selected filters."
+    "flash.team_invoices_fetching_error": {
+        "string": "請求書の取得中にエラーが発生しました。"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.add-table-row-above": {
-        "string": "Add row above"
+    "billing_emails_modal.billing_emails_info.quarterly_true_ups": {
+        "string": "季度真诚结算"
     },
-    "fullscreen_actions.add-table-row-below": {
-        "string": "Add row below"
+    "billing_emails_modal.billing_emails_info.quarterly_true_ups_description_1.seat_rename": {
+        "string": "真诚结算将向您显示下一次账单时的全部座位数量。"
     },
-    "fullscreen_actions.add-table-column-before": {
-        "string": "Add column to the left"
+    "billing_emails_modal.billing_emails_info.quarterly_true_ups_description_2": {
+        "string": "真诚结算将在订阅开始后的每三个月通过电子邮件通知您，并将在每次真诚结算前28天、两周和三天发送提醒。"
     },
-    "fullscreen_actions.add-table-column-after": {
-        "string": "Add column to the right"
+    "billing_emails_modal.billing_emails_info.subscription_date": {
+        "string": "{subscriptionStart}"
     },
-    "fullscreen_actions.add-variant": {
-        "string": "Add variant"
+    "billing_emails_modal.billing_emails_info.what_billing_emails": {
+        "string": "您将收到哪些账单邮件？"
     },
-    "fullscreen_actions.after_selecting_points": {
-        "string": "After selecting points…"
+    "bindings.create_a_figjam_account": {
+        "string": "创建一个FigJam帐户以进行协作"
     },
-    "fullscreen_actions.align-bottom": {
-        "string": "Align bottom"
+    "bindings.embed_paste_notice": {
+        "string": "无法将嵌入内容粘贴到Figma"
     },
-    "fullscreen_actions.align_centers": {
-        "string": "Align centers"
+    "bindings.gif_resized_and_converted_to_static_image": {
+        "string": "GIF太大，已调整为静态图像。"
     },
-    "fullscreen_actions.align-horizontal-center": {
-        "string": "Align horizontal centers"
+    "bindings.gif_resized_and_converted_to_static_image_learn_more": {
+        "string": "了解更多"
     },
-    "fullscreen_actions.align-left": {
-        "string": "Align left"
+    "bindings.hyperlink_popup_link_to_deleted_object": {
+        "string": "链接到已删除的对象"
     },
-    "fullscreen_actions.align_left_right": {
-        "string": "Align left/right"
+    "bindings.hyperlink_popup_link_to_unloaded_from_in_this_file": {
+        "string": "链接到此文件中的帧"
     },
-    "fullscreen_actions.align-right": {
-        "string": "Align right"
+    "bindings.image_resized_message": {
+        "string": "图像已调整大小"
     },
-    "fullscreen_actions.align-top": {
-        "string": "Align top"
+    "bindings.image_resized_message_learn_more": {
+        "string": "了解更多"
     },
-    "fullscreen_actions.align_top_bottom": {
-        "string": "Align top/bottom"
+    "bindings.link_preview_paste_notice": {
+        "string": "无法将链接预览粘贴到Figma"
     },
-    "fullscreen_actions.align-vertical-center": {
-        "string": "Align vertical centers"
+    "bindings.new_local_font_visual_bell": {
+        "string": "{totalFonts, plural, other {新字体：{firstFont}，另有{numAdditionalFonts}种}}"
     },
-    "fullscreen_actions.align-bottom-to-frame": {
-        "string": "Align bottom to frame"
+    "bindings.no_file_access": {
+        "string": "无法访问此文件"
     },
-    "fullscreen_actions.align-horizontal-center-to-frame": {
-        "string": "Align horizontally to frame"
+    "bindings.paste_as_layers": {
+        "string": "粘贴为图层"
     },
-    "fullscreen_actions.align-left-to-frame": {
-        "string": "Align left to frame"
+    "bindings.revert": {
+        "string": "还原"
     },
-    "fullscreen_actions.align-right-to-frame": {
-        "string": "Align right to frame"
+    "bindings.stack_shortcut_slides_mode_toggle": {
+        "string": "切换到设计模式以管理自动布局"
     },
-    "fullscreen_actions.align-top-to-frame": {
-        "string": "Align top to frame"
+    "bindings.stack_shortcut_slides_mode_toggle_return": {
+        "string": "返回到幻灯片模式"
     },
-    "fullscreen_actions.align-vertical-center-to-frame": {
-        "string": "Align vertically to frame"
+    "bindings.undo": {
+        "string": "撤销"
     },
-    "fullscreen_actions.always_show_tabs_when_presenting": {
-        "string": "Always show tabs when presenting"
+    "bindings.widget_paste_notice": {
+        "string": "无法将小部件粘贴到Figma"
     },
-    "fullscreen_actions.arrange-menu": {
-        "string": "Arrange"
+    "bindings.widget_paste_notice_slides": {
+        "string": "无法将小部件粘贴到Figma Slides"
     },
-    "fullscreen_actions.back-to-files": {
-        "string": "Back to files"
+    "branching.chunk_details.added": {
+        "string": "已添加"
     },
-    "fullscreen_actions.bend_tool": {
-        "string": "Bend tool"
+    "branching.chunk_details.component_set_properties_changed": {
+        "string": "已更改组件集属性"
     },
-    "fullscreen.properties_panel.stroke_settings.bevel": {
-        "string": "Bevel"
+    "branching.chunk_details.no_changes": {
+        "string": "无更改"
     },
-    "type_settings.bidi_update_tooltip": {
-        "string": "To use Figma’s native RTL support, older text needs to be updated.\n\nAny text you reversed using a plugin may appear backwards."
+    "branching.chunk_details.property_removed": {
+        "string": "已删除属性"
     },
-    "fullscreen_actions.boolean-menu": {
-        "string": "Boolean groups"
+    "branching.chunk_details.property_added": {
+        "string": "已添加属性"
     },
-    "fullscreen_actions.bring-forward": {
-        "string": "Bring forward"
+    "branching.chunk_details.guid_property_applied": {
+        "string": "已应用{propertyLabel}"
     },
-    "fullscreen_actions.bring-to-front": {
-        "string": "Bring to front"
+    "branching.chunk_details.property_changed": {
+        "string": "已更改属性"
     },
-    "fullscreen_actions.browse-all-resources-modal": {
-        "string": "Browse all resources"
+    "branching.chunk_details.guid_property_modified": {
+        "string": "已更改{propertyLabel}"
     },
-    "fullscreen_actions.browse-all-resources-dlt": {
-        "string": "Widgets, stickers, templates and more"
+    "branching.chunk_details.guid_property_removed": {
+        "string": "已删除{propertyLabel}"
     },
-    "fullscreen_actions.browse-all-resources-dlt-description": {
-        "string": "Widgets, stickers, and more."
+    "branching.chunk_details.removed": {
+        "string": "已删除"
     },
-    "fullscreen_actions.browse-all-resources-dlt-overflow": {
-        "string": "Much, much more"
+    "bug_reporter.announcement.content": {
+        "string": "您现在可以通过此菜单或快捷操作中的“报告问题”来报告问题。"
     },
-    "fullscreen_actions.browse-all-resources-dlt-overflow-description": {
-        "string": "Widgets, stickers, and more."
+    "bug_reporter.announcement.title": {
+        "string": "发现错误了吗？"
     },
-    "fullscreen_actions.manage-plugins": {
-        "string": "Manage plugins…"
+    "bug_reporter.asana_hint": {
+        "string": "如果错误已经有Asana任务，请将链接粘贴到报告中，并附上环境元数据。"
     },
-    "fullscreen_actions.manage-widgets": {
-        "string": "Manage widgets…"
+    "bug_reporter.asana_link": {
+        "string": "在Asana中打开"
     },
-    "fullscreen_actions.set-widget-thumbnail": {
-        "string": "Set as widget thumbnail"
+    "bug_reporter.copy_link": {
+        "string": "复制链接"
     },
-    "fig_feed.post_to_feed_ellipsis": {
-        "string": "Post to feed…"
+    "bug_reporter.drop_attachments": {
+        "string": "拖放图片、视频或GIF以添加。"
     },
-    "fullscreen_actions.select-all-widgets": {
-        "string": "Select all widgets"
+    "bug_reporter.error_invalid_asana_url": {
+        "string": "无效的Asana URL"
     },
-    "fullscreen_actions.select-all-slides": {
-        "string": "Select all slides"
+    "bug_reporter.long_submitting_visual_bell": {
+        "string": "此过程可能需要一些时间。您可以继续在后台工作。"
     },
-    "fullscreen_actions.focus-mode": {
-        "string": "Multi edit"
+    "bug_reporter.modal.asana_link_placeholder": {
+        "string": "Asana链接"
     },
-    "fullscreen_actions.focus-mode-exit": {
-        "string": "Unfocus frames"
+    "bug_reporter.modal.cancel": {
+        "string": "取消"
     },
-    "fullscreen_actions.focus-mode-component-set-toggle": {
-        "string": "Toggle multi edit"
+    "bug_reporter.modal.description": {
+        "string": "描述"
     },
-    "fullscreen_actions.multi-edit-text": {
-        "string": "Multi-edit text"
+    "bug_reporter.modal.description_placeholder": {
+        "string": "请提供错误的详细信息，包括重现步骤、预期结果和实际结果、链接、截图（粘贴或在下方上传）。"
     },
-    "fullscreen_actions.find": {
-        "string": "Find"
+    "bug_reporter.modal.images_and_videos": {
+        "string": "图片和视频"
     },
-    "fullscreen_actions.find-next": {
-        "string": "Find next"
+    "bug_reporter.modal.include_filekey": {
+        "string": "在错误报告中包含文件URL"
     },
-    "fullscreen_actions.find-prev": {
-        "string": "Find previous"
+    "bug_reporter.modal.include_filekey_info": {
+        "string": "如果文件包含私密或敏感内容，请取消选中"
     },
-    "fullscreen_actions.canvas-search-replace": {
-        "string": "Find and replace…"
+    "bug_reporter.modal.loading": {
+        "string": "加载中..."
     },
-    "fullscreen_actions.resize_from_center": {
-        "string": "Resize from center"
+    "bug_reporter.modal.product_area": {
+        "string": "产品区域"
     }
 }

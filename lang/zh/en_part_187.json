@@ -1,152 +1,152 @@
 {
-    "design_systems.component_panel.favicon_alt": {
-        "string": "Favicon for {hostName}"
+    "fullscreen_actions.replace-selected-frame-with-section": {
+        "string": "转换为部分"
     },
-    "cookies.explicit_consent_body": {
-        "string": "This website uses cookies, pixel tags, and local storage for performance, personalization, and marketing purposes. We use our own cookies and some from third parties. Only essential cookies are turned on by default."
+    "fullscreen_actions.replace-selected-section-with-frame": {
+        "string": "转换为框架"
     },
-    "cookies.cookies_settings": {
-        "string": "Cookies settings"
+    "fullscreen_actions.republish-auto-layout-components": {
+        "string": "重新发布自动布局组件"
     },
-    "cookies.do_not_allow_cookies": {
-        "string": "Do not allow cookies"
+    "fullscreen_actions.republish-selected-components": {
+        "string": "更新并发布选定的组件"
     },
-    "cookies.allow_all_cookies": {
-        "string": "Allow all cookies"
+    "fullscreen_actions.reresolve-variable-references": {
+        "string": "重新解析变量引用"
     },
-    "cookies.consent_manager": {
-        "string": "Consent Manager"
+    "fullscreen_actions.reset-changes": {
+        "string": "重置所有更改"
     },
-    "cookies.manage_cookies_opt_out": {
-        "string": "Manage cookies or opt out"
+    "fullscreen_actions.reset-transform": {
+        "string": "修复破损的变换"
     },
-    "slides.present_summary.visual_bells.loading": {
-        "string": "Creating outline..."
+    "fullscreen_actions.reset-variable-modes": {
+        "string": "重置所选变量模式"
     },
-    "slides.present_summary.visual_bells.stop": {
-        "string": "Stop"
+    "fullscreen_actions.resize-to-fit": {
+        "string": "自动调整大小"
     },
-    "slides.present_summary.visual_bells.complete": {
-        "string": "Done!"
+    "fullscreen_actions.resize_from_center": {
+        "string": "从中心调整大小"
     },
-    "slides.present_summary.visual_bells.error_content_limit_exceeded": {
-        "string": "Couldn’t generate deck. Try a smaller file."
+    "fullscreen_actions.resize_proportionally": {
+        "string": "保持纵横比调整大小"
     },
-    "slides.present_summary.visual_bells.error_rate_limited": {
-        "string": "Can’t outline right now—wait a bit before trying again"
+    "fullscreen_actions.resources": {
+        "string": "资源"
     },
-    "slides.present_summary.visual_bells.error_vendor": {
-        "string": "AI features are currently unavailable—mind trying later?"
+    "fullscreen_actions.restart-desktop-app-color-space-managed": {
+        "string": "以“管理”色域重新启动桌面应用"
     },
-    "slides.present_summary.visual_bells.error_offline": {
-        "string": "Looks like you’re offline—to use this feature, you’ll need to reconnect"
+    "fullscreen_actions.restart-desktop-app-color-space-unmanaged": {
+        "string": "以“未管理”色域重新启动桌面应用"
     },
-    "slides.present_summary.visual_bells.content_moderation": {
-        "string": "Blocked potentially harmful results"
+    "fullscreen_actions.restore-autolayout-position": {
+        "string": "恢复自动布局位置"
     },
-    "slides.present_summary.visual_bells.error_unknown": {
-        "string": "Something went wrong—mind trying again?"
+    "fullscreen_actions.restore-soft-deleted-selection": {
+        "string": "恢复逻辑删除的选项"
     },
-    "slides.present_summary.visual_bells.error_opt_out": {
-        "string": "AI features are turned off for your organization"
+    "fullscreen_actions.restore-soft-deleted-variable-sets": {
+        "string": "恢复逻辑删除的变量集"
     },
-    "slides.inserting_embed.visual_bell": {
-        "string": "Loading prototype..."
+    "fullscreen_actions.restore-symbol-or-state-group": {
+        "string": "恢复主组件"
     },
-    "slides.flapp.embed.title": {
-        "string": "Slides embed"
+    "fullscreen_actions.restore_default_thumbnail": {
+        "string": "恢复默认缩略图"
     },
-    "slides.flapp.embed.widget_modal_description": {
-        "string": "Give your audience something to interact with when you present, like a quick poll or interactive prototype."
+    "fullscreen_actions.retina_mode": {
+        "string": "Retina模式"
     },
-    "slides.flapp.embed.add_button_label": {
-        "string": "Add"
+    "fullscreen_actions.review_and_merge_changes": {
+        "string": "查看并合并更改..."
     },
-    "slides.flapp.embed.modal_description": {
-        "string": "Add a prototype from a design file."
+    "fullscreen_actions.review_changes": {
+        "string": "查看更改..."
     },
-    "slides.flapp.embed.add_prototype_link_header": {
-        "string": "By link"
+    "fullscreen_actions.rotate-180": {
+        "string": "旋转180˚"
     },
-    "slides.flapp.embed.recent_prototypes_header": {
-        "string": "Recent"
+    "fullscreen_actions.rotate-90-clockwise": {
+        "string": "顺时针旋转90˚"
     },
-    "slides.flapp.embed.widget_modal_title": {
-        "string": "Live interaction"
+    "fullscreen_actions.rotate-90-counterclockwise": {
+        "string": "逆时针旋转90˚"
     },
-    "slides.flapp.embed.prototype_modal_title": {
-        "string": "Add a prototype"
+    "fullscreen_actions.round-to-pixels": {
+        "string": "四舍五入到像素"
     },
-    "slides.flapp.embed.widget_poll": {
-        "string": "Poll"
+    "fullscreen_actions.run-multi-stack-auto-layout": {
+        "string": "建议自动布局"
     },
-    "slides.flapp.embed.widget_stamps": {
-        "string": "Stamps"
+    "fullscreen_actions.save-as": {
+        "string": "保存本地副本..."
     },
-    "slides.flapp.embed.widget_alignment": {
-        "string": "Alignment"
+    "fullscreen_actions.search": {
+        "string": "搜索"
     },
-    "slides.flapp.embed.widget_prototype": {
-        "string": "Prototype"
+    "fullscreen_actions.search_menus_commands_and_plugins": {
+        "string": "搜索菜单、命令和插件"
     },
-    "slides.flapp.embed.add_button_invalid_link_tooltip": {
-        "string": "Invalid prototype link"
+    "fullscreen_actions.search_or_ask_for_anything": {
+        "string": "搜索或询问任何问题..."
     },
-    "slides.flapp.embed.add_prototype_link_hint": {
-        "string": "Ex: {prototype_link_prefix}..."
+    "fullscreen_actions.see-all-branches": {
+        "string": "查看所有分支"
     },
-    "fig_feed.post_to_org_feed": {
-        "string": "Post to {orgName}'s feed"
+    "fullscreen_actions.select-all": {
+        "string": "全选"
     },
-    "fig_feed.edit_post": {
-        "string": "Edit post"
+    "fullscreen_actions.select-all-slides": {
+        "string": "选择所有幻灯片"
     },
-    "fig_feed.zoom_pan_preset.actual_size": {
-        "string": "Actual size"
+    "fullscreen_actions.select-all-text": {
+        "string": "选择所有文本图层"
     },
-    "fig_feed.zoom_pan_preset.default": {
-        "string": "Default"
+    "fullscreen_actions.select-all-widgets": {
+        "string": "选择所有小部件"
     },
-    "viewer.options_menu.fit_to_screen": {
-        "string": "Fit to screen"
+    "fullscreen_actions.select-all-with-menu-options": {
+        "string": "按以下选项全选"
     },
-    "fig_feed.zoom_pan_preset.tooltip": {
-        "string": "Set zoom level"
+    "fullscreen_actions.select-broken-fixed-scrolling-nodes": {
+        "string": "调试损坏的固定滚动图层"
     },
-    "fig_feed.background_color.tooltip": {
-        "string": "Set background color"
+    "fullscreen_actions.select-child": {
+        "string": "选择子项"
     },
-    "fig_feed.apply_to_all.tooltip": {
-        "string": "Apply formatting to all previews"
+    "fullscreen_actions.select-inverse": {
+        "string": "反选"
     },
-    "fig_feed.apply_to_all": {
-        "string": "Apply to all"
+    "fullscreen_actions.select-matching": {
+        "string": "选择匹配的图层"
     },
-    "fig_feed.reset.tooltip": {
-        "string": "Reset this preview back to original"
+    "fullscreen_actions.select-next-sibling": {
+        "string": "选择下一个兄弟项"
     },
-    "fig_feed.reset": {
-        "string": "Reset"
+    "fullscreen_actions.select-node": {
+        "string": "{name}"
     },
-    "fig_feed.tooltip.posted_to_members_of_container": {
-        "string": "Posted to members of {containerName}"
+    "fullscreen_actions.select-node-menu": {
+        "string": "选择图层"
     },
-    "fig_feed.video": {
-        "string": "Video"
+    "fullscreen_actions.select-parent": {
+        "string": "选择父项"
     },
-    "fig_feed.transcode_after_submit": {
-        "string": "After the feed post has been submitted, the video will be transcoded for browser playback"
+    "fullscreen_actions.select-previous-sibling": {
+        "string": "选择上一个兄弟项"
     },
-    "fig_feed.prototype_badge": {
-        "string": "Prototype"
+    "fullscreen_actions.select-same-effect": {
+        "string": "选择相同效果"
     },
-    "fig_feed.edit_preview": {
-        "string": "Edit preview"
+    "fullscreen_actions.select-same-fill": {
+        "string": "选择相同填充"
     },
-    "fig_feed.could_not_load_preview_image": {
-        "string": "Could not load image preview"
+    "fullscreen_actions.select-same-font": {
+        "string": "选择相同字体"
     },
-    "fig_feed.gif": {
-        "string": "GIF"
+    "fullscreen_actions.select-same-instance": {
+        "string": "选择相同实例"
     }
 }

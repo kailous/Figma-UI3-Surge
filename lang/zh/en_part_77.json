@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_node_treatments.property.mask_type": {
-        "string": "Mask type"
+    "community.publishing.unable_to_connect_profiles": {
+        "string": "无法连接个人资料"
     },
-    "collaboration.branching_node_treatments.property.mask_is_outline": {
-        "string": "Mask is outline"
+    "community.publishing.update": {
+        "string": "更新"
     },
-    "collaboration.branching_node_treatments.property.background_opacity": {
-        "string": "Opacity"
+    "community.publishing.update_section_label": {
+        "string": "更新"
     },
-    "collaboration.branching_node_treatments.property.corner_radius": {
-        "string": "Corner radius"
+    "community.publishing.upload_at_least_one_image": {
+        "string": "请上传至少一张图片"
     },
-    "collaboration.branching_node_treatments.property.font_size": {
-        "string": "Font size"
+    "community.publishing.upload_at_least_one_image_or_video": {
+        "string": "请上传至少一张图片或一个视频"
     },
-    "collaboration.branching_node_treatments.property.paragraph_indent": {
-        "string": "Paragraph indent"
+    "community.publishing.upload_from_your_computer": {
+        "string": "从计算机上传"
     },
-    "collaboration.branching_node_treatments.property.paragraph_spacing": {
-        "string": "Paragraph spacing"
+    "community.publishing.upload_images_and_videos_to_show_off_your_plugin": {
+        "string": "上传图片和视频以展示你的插件"
     },
-    "collaboration.branching_node_treatments.property.list_spacing": {
-        "string": "List spacing"
+    "community.publishing.upload_images_and_videos_to_show_off_your_widget": {
+        "string": "上传图片和视频以展示你的小部件"
     },
-    "collaboration.branching_node_treatments.property.star_inner_scale": {
-        "string": "Star inner scale"
+    "community.publishing.upload_instructions": {
+        "string": "拖放、粘贴或{chooseFileLink}"
     },
-    "collaboration.branching_node_treatments.property.miter_limit": {
-        "string": "Miter limit"
+    "community.publishing.upload_instructions_recommended_size": {
+        "string": "推荐尺寸：1920 x 1080"
     },
-    "collaboration.branching_node_treatments.property.stroke_weight": {
-        "string": "Stroke weight"
+    "community.publishing.use_a_prototype_preview": {
+        "string": "使用原型预览"
     },
-    "collaboration.branching_node_treatments.property.text_tracking": {
-        "string": "Text tracking"
+    "community.publishing.use_our_template": {
+        "string": "你也可以使用我们的模板→"
     },
-    "collaboration.branching_node_treatments.property.stroke_align": {
-        "string": "Stroke align"
+    "community.publishing.verifying_seller_status": {
+        "string": "正在验证销售者状态"
     },
-    "collaboration.branching_node_treatments.property.stroke_cap": {
-        "string": "Stroke cap"
+    "community.publishing.version": {
+        "string": "版本"
     },
-    "collaboration.branching_node_treatments.property.stroke_join": {
-        "string": "Stroke join"
+    "community.publishing.version_release_notes": {
+        "string": "版本说明"
     },
-    "collaboration.branching_node_treatments.property.text_align_horizontal": {
-        "string": "Text align horizontal"
+    "community.publishing.view_page": {
+        "string": "查看页面"
     },
-    "collaboration.branching_node_treatments.property.text_align_vertical": {
-        "string": "Text align vertical"
+    "community.publishing.we_detected_a_change_to_your_account_details_please_contact_support_figma_com_to_publish_this_plugin": {
+        "string": "检测到你的账户详情发生了变化。请联系support@figma.com以发布此插件"
     },
-    "collaboration.branching_node_treatments.property.text_case": {
-        "string": "Text case"
+    "community.publishing.what_can_users_expect_in_this_current_version": {
+        "string": "用户在此版本中可以期待什么？"
     },
-    "collaboration.branching_node_treatments.property.text_decoration": {
-        "string": "Text decoration"
+    "community.publishing.whats_changed_in_this_new_version": {
+        "string": "此新版本中有哪些变化？"
     },
-    "collaboration.branching_node_treatments.property.leading_trim": {
-        "string": "Leading trim"
+    "community.publishing.when_you_change_the_price_of_a_subscription": {
+        "string": "当你更改订阅价格时，新价格将在1小时内显示在社区中。稍后再检查。"
     },
-    "collaboration.branching_node_treatments.property.fill": {
-        "string": "Fill"
+    "community.publishing.widget_missing_network_access": {
+        "string": "请将此可选字段添加到{filename}文件中进行测试。将“...”替换为小部件需要访问的域名。如果小部件不需要网络访问，请将其替换为“none”。"
     },
-    "collaboration.branching_node_treatments.property.fill_paints": {
-        "string": "Fill paints"
+    "community.publishing.widget_playground_file_editor_type_error": {
+        "string": "此小部件的Playground文件必须为{editorType}"
     },
-    "collaboration.branching_node_treatments.property.stroke_paint": {
-        "string": "Stroke paint"
+    "community.publishing.widget_snapshot": {
+        "string": "小部件快照"
     },
-    "collaboration.branching_node_treatments.property.stroke_paints": {
-        "string": "Stroke paints"
+    "community.publishing.widget_tagline_input_placeholder": {
+        "string": "输入小部件的简短描述"
     },
-    "collaboration.branching_node_treatments.property.effect": {
-        "string": "Effect"
+    "community.publishing.you_are_publishing_to_the_org_profile": {
+        "string": "你正在以{orgName}组织的身份发布"
     },
-    "collaboration.branching_node_treatments.property.text_auto_resize": {
-        "string": "Text auto resize"
+    "community.publishing.you_are_publishing_to_the_org_profile.fallback": {
+        "string": "你正在以{org}身份发布"
     },
-    "collaboration.branching_node_treatments.property.vector_data": {
-        "string": "Vector"
+    "community.publishing.you_are_publishing_to_the_team_profile": {
+        "string": "你正在以{teamName}团队的身份发布"
     },
-    "collaboration.branching_node_treatments.property.style_id": {
-        "string": "Style ID"
+    "community.publishing.you_are_publishing_to_the_team_profile.fallback": {
+        "string": "你正在以{team}身份发布"
     },
-    "collaboration.branching_node_treatments.property.fill_geometry": {
-        "string": "Fill geometry"
+    "community.publishing.you_are_publishing_to_user_profile": {
+        "string": "你正在以{userName}身份发布"
     },
-    "collaboration.branching_node_treatments.property.stroke_geometry": {
-        "string": "Stroke geometry"
+    "community.publishing.you_can_also_invite_other_people_to_update": {
+        "string": "你还可以{inviteOtherPeopleLink}邀请其他人（如团队成员或协作者）更新此资源。"
     },
-    "collaboration.branching_node_treatments.property.resize_to_fit": {
-        "string": "Resize to fit"
+    "community.publishing.you_can_only_upload_ten_images": {
+        "string": "最多只能上传10张图片"
     },
-    "collaboration.branching_node_treatments.property.font_variant_common_ligatures": {
-        "string": "Font variant common ligatures"
+    "community.publishing.you_can_only_upload_ten_images_and_videos": {
+        "string": "最多只能上传10个图片和视频"
     },
-    "collaboration.branching_node_treatments.property.font_variant_contextual_ligatures": {
-        "string": "Font variant contextual ligatures"
+    "community.publishing.you_can_only_upload_three_videos": {
+        "string": "最多只能上传3个视频"
     },
-    "collaboration.branching_node_treatments.property.font_variant_discretionary_ligatures": {
-        "string": "Font variant discretionary ligatures"
+    "community.publishing.you_must_enable_two_factor_authentication_to_publish": {
+        "string": "发布前必须启用双因素身份验证"
     },
-    "collaboration.branching_node_treatments.property.font_variant_historical_ligatures": {
-        "string": "Font variant historical ligatures"
+    "community.publishing.you_must_verify_your_account_details_to_publish": {
+        "string": "发布前必须验证你的账户详情"
     },
-    "collaboration.branching_node_treatments.property.font_variant_ordinal": {
-        "string": "Font variant ordinal"
+    "community.publishing.your_file_will_soon_be_available_for_everyone_no_remix": {
+        "string": "文件将很快对所有社区用户开放，供他们复制和共享。谢谢。"
     },
-    "collaboration.branching_node_treatments.property.font_variant_slashed_zero": {
-        "string": "Font variant slashed zero"
+    "community.publishing.your_update_is_being_published": {
+        "string": "你的更新正在发布中"
     },
-    "collaboration.branching_node_treatments.property.font_variant_numeric_figure": {
-        "string": "Font variant numeric figure"
+    "community.seller.add_percent": {
+        "string": "添加百分比"
     },
-    "collaboration.branching_node_treatments.property.font_variant_numeric_spacing": {
-        "string": "Font variant numeric spacing"
+    "community.seller.agree_to_figma_terms_of_service": {
+        "string": "点击即表示你同意Figma的{link}。"
     },
-    "collaboration.branching_node_treatments.property.font_variant_numeric_fraction": {
-        "string": "Font variant numeric fraction"
+    "community.seller.all_sales_before_figmas_fees": {
+        "string": "总销售额（扣除Figma费用前）"
     },
-    "collaboration.branching_node_treatments.property.font_variant_caps": {
-        "string": "Font variant caps"
+    "community.seller.by_using_this_feature_you_agree_to_the": {
+        "string": "使用此功能即表示你同意{link}。"
     },
-    "collaboration.branching_node_treatments.property.font_variant_position": {
-        "string": "Font variant position"
+    "community.seller.click_to_download_statements": {
+        "string": "点击下载每月的对账单CSV"
     },
-    "collaboration.branching_node_treatments.property.rectangle_radii_independent": {
-        "string": "Rectangle corner radii independent"
+    "community.seller.collect_tax_info_modal.body": {
+        "string": "让我们准备税务信息。这些信息将在下一步传递给Stripe。"
     },
-    "collaboration.branching_node_treatments.property.corner_smoothing": {
-        "string": "Corner smoothing"
+    "community.seller.collect_tax_info_modal.continue_to_stripe": {
+        "string": "继续到Stripe"
     },
-    "collaboration.branching_node_treatments.property.style_type": {
-        "string": "Style type"
+    "community.seller.collect_tax_info_modal.enter_a_first_name": {
+        "string": "请输入名"
     },
-    "collaboration.branching_node_treatments.property.style_description": {
-        "string": "Style description"
+    "community.seller.collect_tax_info_modal.enter_a_last_name": {
+        "string": "请输入姓"
     },
-    "collaboration.branching_node_treatments.property.font_version": {
-        "string": "Font version"
+    "community.seller.collect_tax_info_modal.enter_a_valid_address": {
+        "string": "请输入有效地址"
     },
-    "collaboration.branching_node_treatments.property.text_explicit_layout_version": {
-        "string": "Text explicit layout version"
+    "community.seller.collect_tax_info_modal.enter_a_valid_vat_id": {
+        "string": "请输入有效的VAT/GST ID"
     },
-    "collaboration.branching_node_treatments.property.text_bidi_version": {
-        "string": "Text bidi version"
+    "community.seller.collect_tax_info_modal.first_name": {
+        "string": "名"
     },
-    "collaboration.branching_node_treatments.property.derived_immutable_frame_data": {
-        "string": "Derived immutable frame data"
+    "community.seller.collect_tax_info_modal.last_name": {
+        "string": "姓"
     }
 }

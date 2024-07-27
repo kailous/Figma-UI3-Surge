@@ -1,152 +1,152 @@
 {
-    "comments.hide_comments": {
-        "string": "Hide comments"
+    "consumption_paywalls.open_session.no_open_session": {
+        "string": "没有开放会议"
     },
-    "comments.comment_notifications": {
-        "string": "Comment notifications"
+    "consumption_paywalls.open_session.subtitle": {
+        "string": "升级后，任何人，包括没有账户的人，都可以在24小时内编辑文件。"
     },
-    "comments.everything_option": {
-        "string": "Everything"
+    "consumption_paywalls.open_session.title": {
+        "string": "是否举办开放会议？"
     },
-    "comments.just_mentions_and_replies_option": {
-        "string": "Just mentions and replies"
+    "consumption_paywalls.password_protection.no_password_protection": {
+        "string": "没有密码保护"
     },
-    "comments.nothing_option": {
-        "string": "Nothing"
+    "consumption_paywalls.password_protection.password_protection": {
+        "string": "密码保护"
     },
-    "comments.dev_mode_notifications": {
-        "string": "Dev Mode notifications"
+    "consumption_paywalls.password_protection.subtitle": {
+        "string": "升级后，可以在Figma中共享文件时进一步加强安全性。"
     },
-    "comments.status_changes": {
-        "string": "Status changes"
+    "consumption_paywalls.password_protection.title": {
+        "string": "是否用密码保护此文件？"
     },
-    "comments.mark_all_as_read": {
-        "string": "Mark all as read"
+    "consumption_paywalls.plan_description_enterprise_pricing_variant": {
+        "string": "通过专用工作区和高级安全性扩展企业业务流程的规模。"
     },
-    "comments.reply_count": {
-        "string": "{replyCount, plural, one {{replyCount} reply} other {{replyCount} replies}}"
+    "consumption_paywalls.plan_description_org_pricing_variant": {
+        "string": "在团队之间进行协作，分享整个组织的设计系统。"
     },
-    "comments.unavailable_offline": {
-        "string": "Can't open this comment while offline"
+    "consumption_paywalls.plan_description_pro_pricing_variant.seat_rename": {
+        "string": "按年支付，每个座位的月费"
     },
-    "comments.more_actions": {
-        "string": "More Actions"
+    "consumption_paywalls.plan_description_starter": {
+        "string": "适合试用"
     },
-    "fig_feed.view_post": {
-        "string": "View post"
+    "consumption_paywalls.plan_does_not_support_dev_mode": {
+        "string": "您的计划不支持开发模式。升级后可以使用高级代码、检查和其他功能。"
     },
-    "comments.pinning.cannot_resolve": {
-        "string": "Cannot resolve a pinned comment"
+    "consumption_paywalls.plan_does_not_support_team_libraries": {
+        "string": "您的计划不支持团队库。在专业版中可以共享样式、组件和变量。"
     },
-    "comments.mark_as_unresolved": {
-        "string": "Mark as unresolved"
+    "consumption_paywalls.plan_name_enterprise": {
+        "string": "企业"
     },
-    "comments.in_a_moment": {
-        "string": "In a moment…"
+    "consumption_paywalls.plan_name_org": {
+        "string": "业务"
     },
-    "comments.unattached": {
-        "string": "Unattached"
+    "consumption_paywalls.plan_name_pro": {
+        "string": "专业"
     },
-    "comments.parent_name_and_number": {
-        "string": "#{commentNumber} · {parentName}"
+    "consumption_paywalls.plan_name_starter": {
+        "string": "入门"
     },
-    "comments.number_only": {
-        "string": "#{commentNumber}"
+    "consumption_paywalls.plugin_usage_analytics": {
+        "string": "插件使用情况分析"
     },
-    "comments.sort_by_date": {
-        "string": "Sort by date"
+    "consumption_paywalls.presentation_sharing.no_sharing_presentation_separately": {
+        "string": "无法单独共享演示文稿"
     },
-    "comments.sort_by_last_action": {
-        "string": "Sort by last action"
+    "consumption_paywalls.presentation_sharing.share_presentation_separately": {
+        "string": "可以单独共享演示文稿"
     },
-    "comments.sort_by_unread": {
-        "string": "Sort by unread"
+    "consumption_paywalls.presentation_sharing.subtitle": {
+        "string": "升级后，可以在保持文件仅供自己查看的同时共享幻灯片。"
     },
-    "comments.sort_by_slide": {
-        "string": "Sort by slide"
+    "consumption_paywalls.presentation_sharing.title": {
+        "string": "是否仅共享演示文稿？"
     },
-    "comments.show_resolved_comments": {
-        "string": "Show resolved comments"
+    "consumption_paywalls.project_transfer.no_project_transfers": {
+        "string": "无法转移项目"
     },
-    "comments.only_your_threads": {
-        "string": "Only your threads"
+    "consumption_paywalls.project_transfer.subtitle": {
+        "string": "升级后，可以将项目转移到其他团队并管理。"
     },
-    "comments.only_current_page": {
-        "string": "Only current page"
+    "consumption_paywalls.project_transfer.title": {
+        "string": "是否转移此项目？"
     },
-    "comments.only_current_slide": {
-        "string": "Only current slide"
+    "consumption_paywalls.project_transfer.transfer_projects": {
+        "string": "转移项目"
     },
-    "comments.only_comments": {
-        "string": "Only comments"
+    "consumption_paywalls.project_transfer.transfer_projects_and_teams": {
+        "string": "转移项目和团队"
     },
-    "comments.only_posts": {
-        "string": "Only posts"
+    "consumption_paywalls.prototype_sharing.no_sharing_prototypes_separately": {
+        "string": "无法单独共享原型"
     },
-    "comments.delete_thread": {
-        "string": "Delete thread"
+    "consumption_paywalls.prototype_sharing.share_prototypes_separately": {
+        "string": "仅共享原型"
     },
-    "comments.copy_link": {
-        "string": "Copy link"
+    "consumption_paywalls.prototype_sharing.subtitle": {
+        "string": "升级后，可以在保持文件仅供自己查看的同时共享原型。"
     },
-    "comments.reply": {
-        "string": "Reply"
+    "consumption_paywalls.prototype_sharing.title": {
+        "string": "是否仅共享原型？"
     },
-    "comments.dock_to_side": {
-        "string": "Dock to side"
+    "consumption_paywalls.ready_to_build_a_team_library": {
+        "string": "是否准备好构建团队库？"
     },
-    "fullscreen.accessibility.comment_thread_label": {
-        "string": "Currently expanded comment thread. Close this dialog to return to the board."
+    "consumption_paywalls.see_all_features": {
+        "string": "查看所有功能 →"
     },
-    "comments.post": {
-        "string": "Post"
+    "consumption_paywalls.shared_fonts.locally_installed_fonts": {
+        "string": "本地设备上安装的字体"
     },
-    "fig_feed.posted_to_feed": {
-        "string": "Posted to feed"
+    "consumption_paywalls.shared_fonts.modal_description": {
+        "string": "升级到业务计划，消除“没有字体”问题。"
     },
-    "comments.comment_n": {
-        "string": "Comment"
+    "consumption_paywalls.shared_fonts.modal_title": {
+        "string": "在团队中共享字体"
     },
-    "comments.previous": {
-        "string": "Previous"
+    "consumption_paywalls.shared_fonts.shared_fonts_and_libraries": {
+        "string": "共享字体和库"
     },
-    "fullscreen.accessibility.previous_comment": {
-        "string": "Previous comment thread"
+    "consumption_paywalls.shared_styles": {
+        "string": "共享样式"
     },
-    "comments.next": {
-        "string": "Next"
+    "consumption_paywalls.shared_team_libraries": {
+        "string": "共享团队库"
     },
-    "fullscreen.accessibility.next_comment": {
-        "string": "Next comment thread"
+    "consumption_paywalls.talk_it_through_with_audio": {
+        "string": "通过音频交流"
     },
-    "comments.comment_actions": {
-        "string": "Comment actions"
+    "consumption_paywalls.team_name_only_comes_with_file_limit_files": {
+        "string": "{teamName}的文件数上限为{file_limit}，但可以轻松增加。"
     },
-    "comments.pinning.cannot_unresolve": {
-        "string": "Cannot unresolve a pinned comment"
+    "consumption_paywalls.team_name_only_comes_with_page_limit_pages": {
+        "string": "{teamName}的页面数上限为{page_limit}，但可以轻松增加。"
     },
-    "comments.close": {
-        "string": "Close comment"
+    "consumption_paywalls.team_name_only_comes_with_project_limit_projects": {
+        "string": "{teamName}的项目数上限为{project_limit}，但可以轻松增加。"
     },
-    "comments.pinning.unpin_comment": {
-        "string": "Unpin comment"
+    "consumption_paywalls.text_comments": {
+        "string": "文本评论"
     },
-    "comments.pinning.pin_comment": {
-        "string": "Pin comment"
+    "consumption_paywalls.the_starter_plan_only_comes_with_file_limit_files": {
+        "string": "入门计划的文件数上限为{file_limit}，但可以轻松增加。"
     },
-    "emoji_mart.categories_activity": {
-        "string": "Activity"
+    "consumption_paywalls.the_starter_plan_only_comes_with_page_limit_pages": {
+        "string": "入门计划的页面数上限为{page_limit}，但可以轻松增加。"
     },
-    "emoji_mart.categories_flags": {
-        "string": "Flags"
+    "consumption_paywalls.the_starter_plan_only_comes_with_project_limit_projects": {
+        "string": "入门计划的项目数上限为{project_limit}，但可以轻松增加。"
     },
-    "emoji_mart.categories_foods": {
-        "string": "Food & Drink"
+    "consumption_paywalls.unlimited_files": {
+        "string": "无限文件"
     },
-    "emoji_mart.categories_frequent": {
-        "string": "Frequently used"
+    "consumption_paywalls.unlimited_files_and_projects": {
+        "string": "无限文件和项目"
     },
-    "emoji_mart.categories_nature": {
-        "string": "Animals & Nature"
+    "consumption_paywalls.unlimited_pages_in_design_files": {
+        "string": "Figma设计文件中的无限页面"
     }
 }

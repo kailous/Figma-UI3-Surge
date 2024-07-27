@@ -1,152 +1,152 @@
 {
-    "visual_bell.page_converted": {
-        "string": "Page converted"
+    "add_unassigned_teams_modal.org_access.secret": {
+        "string": "秘密团队"
     },
-    "visual_bell.page_deleted": {
-        "string": "Page deleted"
+    "add_unassigned_teams_modal.project_count": {
+        "string": "{projectCount}个项目"
     },
-    "visual_bell.page_deleted_problem": {
-        "string": "There was a problem deleting the page(s). Please try again."
+    "add_unassigned_teams_modal.search_for_teams": {
+        "string": "搜索团队..."
     },
-    "visual_bell.page_duplicated": {
-        "string": "Page duplicated"
+    "add_unassigned_teams_modal.team_metadata": {
+        "string": "{memberCountInfo} · {projectCountInfo}"
     },
-    "visual_bell.page_duplicated_problem": {
-        "string": "There was a problem duplicating the page. Please try again."
+    "add_unassigned_teams_modal.team_metadata.with_access_setting": {
+        "string": "{accessSettingInfo} · {memberCountInfo} · {projectCountInfo}"
     },
-    "visual_bell.pages_deleted": {
-        "string": "{pageCount, plural, one {Page deleted} other {Deleted {pageCount} pages}}"
+    "add_unassigned_teams_modal.title": {
+        "string": "将团队分配到{workspaceName}"
     },
-    "visual_bell.parent_num_instances_detached": {
-        "string": "{numInstances, plural, one {Parent instance detached} other {Parent instances detached}}"
+    "add_unassigned_teams_modal.without_owners": {
+        "string": "无所有者"
     },
-    "visual_bell.paste_absolute_position": {
-        "string": "{layerName} set to absolute position"
+    "admin_dashboard.all_org_requests.title": {
+        "string": "{orgName}的所有请求"
     },
-    "visual_bell.paste_from_clipboard_failed": {
-        "string": "Paste from clipboard failed."
+    "admin_dashboard.configured_upgrade_request_banner.all_users": {
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。启用此设置之前的请求将继续显示在此处。"
     },
-    "visual_bell.paste_mobile": {
-        "string": "Pasted from clipboard"
+    "admin_dashboard.configured_upgrade_request_banner.members": {
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。旧成员的请求和新访客的请求将显示在此处。"
     },
-    "visual_bell.pasting": {
-        "string": "Pasting…"
+    "admin_dashboard.configured_upgrade_request_empty_state.all_users": {
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。"
     },
-    "visual_bell.pasting_inside_the_current_selection_is_not_possible": {
-        "string": "Pasting inside the current selection is not possible"
+    "admin_dashboard.configured_upgrade_request_empty_state.members": {
+        "string": "贵组织中的成员在申请升级时将被重定向到自定义URL。新访客的请求将显示在此处。"
     },
-    "visual_bell.please_remove_component_symbol_name_from_this_selection": {
-        "string": "Please remove component {symbolName} from this selection"
+    "admin_dashboard.managed_org_requests.title": {
+        "string": "我的请求"
     },
-    "visual_bell.property_defaults_updated": {
-        "string": "Property defaults updated"
+    "admin_dashboard.requests.all_users": {
+        "string": "所有"
     },
-    "visual_bell.prototype_flows_hidden": {
-        "string": "Prototype flows hidden"
+    "admin_dashboard.requests.approve": {
+        "string": "批准"
     },
-    "visual_bell.prototype_flows_visible": {
-        "string": "Prototype flows visible"
+    "admin_dashboard.requests.approve_all": {
+        "string": "批准所有"
     },
-    "visual_bell.prototyping_failed_to_load": {
-        "string": "Prototyping failed to load"
+    "admin_dashboard.requests.approve_all_modal.body": {
+        "string": "您即将批准{numRequests}个请求。"
     },
-    "visual_bell.prototyping_hidden": {
-        "string": "Prototyping hidden"
+    "admin_dashboard.requests.approve_all_modal.body_filtered": {
+        "string": "您即将批准{numTotalRequests}个请求，其中包含根据当前筛选器隐藏的{numHiddenRequests}个请求。"
     },
-    "visual_bell.prototyping_visible": {
-        "string": "Prototyping visible"
+    "admin_dashboard.requests.approve_all_modal.confirm": {
+        "string": "批准请求"
     },
-    "visual_bell.removed_orphaned_variables": {
-        "string": "Removed {totalOrphanedVariables} orphaned variable(s)."
+    "admin_dashboard.requests.approve_all_modal.confirm_filtered": {
+        "string": "批准所有{numRequests}个请求"
     },
-    "visual_bell.repaired_instance_overrides": {
-        "string": "Repaired instance overrides!"
+    "admin_dashboard.requests.approve_all_modal.title": {
+        "string": "您确定吗？"
     },
-    "visual_bell.repaired_nested_instance_bindings": {
-        "string": "Removed variant bindings from nested instances."
+    "admin_dashboard.requests.approve_all_modal.title_filtered": {
+        "string": "批准所有请求"
     },
-    "visual_bell.repaired_variables": {
-        "string": "Repaired {totalRepairedVariableCollections} variable collection(s) and {totalRepairedVariables} variables."
+    "admin_dashboard.requests.billing_groups": {
+        "string": "账单组"
     },
-    "visual_bell.reresolved_variable_references": {
-        "string": "Re-resolved variable references in {totalReresolvedNodes} nodes."
+    "admin_dashboard.requests.columns.last_used_dev_mode": {
+        "string": "最后使用的开发模式"
     },
-    "visual_bell.reset_variable_modes": {
-        "string": "All variable modes in this selection set to Auto"
+    "admin_dashboard.requests.columns.name": {
+        "string": "名称"
     },
-    "visual_bell.restored_main_component": {
-        "string": "Restored main component"
+    "admin_dashboard.requests.columns.note": {
+        "string": "备注"
     },
-    "visual_bell.rulers_hidden": {
-        "string": "Rulers hidden"
+    "admin_dashboard.requests.columns.request": {
+        "string": "请求"
     },
-    "visual_bell.rulers_visible": {
-        "string": "Rulers visible"
+    "admin_dashboard.requests.decline": {
+        "string": "拒绝"
     },
-    "visual_bell.sections_aren_t_quite_ready_for_figma_just_yet_we_pasted_your_section_as_a_group": {
-        "string": "Sections aren't quite ready for Figma just yet. We pasted your section as a group"
+    "admin_dashboard.requests.design_seat": {
+        "string": "设计座位"
     },
-    "visual_bell.select_single_state_group": {
-        "string": "Select only 1 component"
+    "admin_dashboard.requests.details.billing_groups": {
+        "string": "账单组"
     },
-    "visual_bell.set_default_emoji_skin_tone_1": {
-        "string": "👍 To update your emoji skin tone, just click-and-hold when selecting an emoji."
+    "admin_dashboard.requests.details.date": {
+        "string": "日期"
     },
-    "visual_bell.set_default_emoji_skin_tone_2": {
-        "string": "👍🏻 To update your emoji skin tone, just click-and-hold when selecting an emoji."
+    "admin_dashboard.requests.details.display_date": {
+        "string": "{dateObject, date, ::yMMMMd}"
     },
-    "visual_bell.set_default_emoji_skin_tone_3": {
-        "string": "👍🏼 To update your emoji skin tone, just click-and-hold when selecting an emoji."
+    "admin_dashboard.requests.details.job_title": {
+        "string": "职位"
     },
-    "visual_bell.set_default_emoji_skin_tone_4": {
-        "string": "👍🏽 To update your emoji skin tone, just click-and-hold when selecting an emoji."
+    "admin_dashboard.requests.details.license_type": {
+        "string": "类型"
     },
-    "visual_bell.set_default_emoji_skin_tone_5": {
-        "string": "👍🏾 To update your emoji skin tone, just click-and-hold when selecting an emoji."
+    "admin_dashboard.requests.details.name": {
+        "string": "名称"
     },
-    "visual_bell.set_default_emoji_skin_tone_6": {
-        "string": "👍🏿 To update your emoji skin tone, just click-and-hold when selecting an emoji."
+    "admin_dashboard.requests.details.note": {
+        "string": "备注"
     },
-    "visual_bell.shadow_spread_is_not_supported_for_vector_type": {
-        "string": "Shadow spread is not supported for vector type"
+    "admin_dashboard.requests.details.reminder_banner": {
+        "string": "{requesterName}发送了提醒："
     },
-    "visual_bell.sites.cant_delete_homepage": {
-        "string": "Set a new home page before deleting this one"
+    "admin_dashboard.requests.details.title": {
+        "string": "请求详情"
     },
-    "visual_bell.slices_hidden": {
-        "string": "Slices hidden"
+    "admin_dashboard.requests.devmode_seat": {
+        "string": "开发模式座位"
     },
-    "visual_bell.slices_visible": {
-        "string": "Slices visible"
+    "admin_dashboard.requests.empty.configurable_upgrade_requests": {
+        "string": "没有请求"
     },
-    "visual_bell.some_components_were_reparented_to_avoid_a_dependency_cycle": {
-        "string": "Some components were reparented to avoid a dependency cycle."
+    "admin_dashboard.requests.empty.no_filter_results": {
+        "string": "没有显示的请求。{resetFiltersLink}"
     },
-    "visual_bell.some_objects_could_not_be_replaced": {
-        "string": "Some objects could not be replaced"
+    "admin_dashboard.requests.empty.no_search_results": {
+        "string": "没有符合搜索条件的请求，请更改条件重试。"
     },
-    "visual_bell.stack_debug_mode_hidden": {
-        "string": "Stack debug mode hidden"
+    "admin_dashboard.requests.empty.primary_text": {
+        "string": "当前没有请求"
     },
-    "visual_bell.stack_debug_mode_visible": {
-        "string": "Stack debug mode visible"
+    "admin_dashboard.requests.empty.reset_filters": {
+        "string": "重置筛选器"
     },
-    "visual_bell.stack_dynamic_insertion_hidden": {
-        "string": "Auto layout dynamic insertion points hidden"
+    "admin_dashboard.requests.empty.secondary_text": {
+        "string": "休息一下吧。当有新的升级请求时，我们会通知您。"
     },
-    "visual_bell.stack_dynamic_insertion_visible": {
-        "string": "Auto layout dynamic insertion points visible"
+    "admin_dashboard.requests.error_generic": {
+        "string": "发生问题"
     },
-    "visual_bell.stack_shadows_hidden": {
-        "string": "Auto layout shadows hidden"
+    "admin_dashboard.requests.error_multiple": {
+        "string": "有些请求无法处理"
     },
-    "visual_bell.stack_shadows_visible": {
-        "string": "Auto layout shadows visible"
+    "admin_dashboard.requests.error_reload": {
+        "string": "重新加载"
     },
-    "visual_bell.starting_points_removed": {
-        "string": "{removedCount, plural, one {Starting point removed} other {{removedCount} starting points removed}}"
+    "admin_dashboard.requests.error_single": {
+        "string": "无法处理请求"
     },
-    "visual_bell.status.node_marked_ready": {
-        "string": "Marked as ready for dev"
+    "admin_dashboard.requests.figjam_seat": {
+        "string": "FigJam座位"
     }
 }

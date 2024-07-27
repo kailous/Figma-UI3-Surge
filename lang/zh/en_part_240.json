@@ -1,152 +1,152 @@
 {
-    "whiteboard.keyboard_shortcuts.key_label.home": {
-        "string": "Home"
+    "org_settings.public_link_sharing.dont_allow_public_links": {
+        "string": "不允许公开链接"
     },
-    "whiteboard.keyboard_shortcuts.key_label.left": {
-        "string": "Left"
+    "org_settings.public_link_sharing.success": {
+        "string": "公开链接共享设置已更新"
     },
-    "whiteboard.keyboard_shortcuts.key_label.page_down": {
-        "string": "Page Down"
+    "org_settings.remove_user_modal.button": {
+        "string": "删除"
     },
-    "whiteboard.keyboard_shortcuts.key_label.page_up": {
-        "string": "Page Up"
+    "org_settings.remove_user_modal.confirmation_checkbox_text": {
+        "string": "我理解此操作不可撤销"
     },
-    "whiteboard.keyboard_shortcuts.key_label.right": {
-        "string": "Right"
+    "org_settings.remove_user_modal.downgrade_instead": {
+        "string": "{userCount, plural, other {这些用户仍未被删除吗? {viewerRestricted} 席位仍然可用，但需要管理员批准才能升级。}}"
     },
-    "whiteboard.keyboard_shortcuts.key_label.tab": {
-        "string": "Tab"
+    "org_settings.remove_user_modal.information_text": {
+        "string": "{userCount, plural, other {这些用户的草稿位于{sharedProjects}，组织管理员可以进行移动或删除。}}"
     },
-    "whiteboard.keyboard_shortcuts.key_label.up": {
-        "string": "Up"
+    "org_settings.remove_user_modal.shared_projects": {
+        "string": "共享项目"
     },
-    "whiteboard.keyboard_shortcuts.key_label.win": {
-        "string": "Win"
+    "org_settings.remove_user_modal.title.guests_only_text": {
+        "string": "{userCount, plural, other {要从组织中删除这些访客吗?}}"
     },
-    "whiteboard.keyboard_shortcuts.key_label.space": {
-        "string": "Space"
+    "org_settings.remove_user_modal.title.users_only_text": {
+        "string": "{userCount, plural, other {要从组织中删除这些用户吗?}}"
     },
-    "whiteboard.keyboard_shortcuts.key_label.pg_up": {
-        "string": "PgUp"
+    "org_settings.remove_user_modal.users_and_guests_text": {
+        "string": "{userCount, plural, other {要从组织中删除这些用户和访客吗?}}"
     },
-    "whiteboard.keyboard_shortcuts.key_label.pg_dn": {
-        "string": "PgDn"
+    "org_settings.remove_user_modal.viewer_restricted": {
+        "string": "受限查看者"
     },
-    "whiteboard.keyboard_shortcuts.tooltip.command": {
-        "string": "Command"
+    "org_settings.remove_user_modal.warning_no_username_text": {
+        "string": "{userCount, plural, other {删除这些用户将使其无法访问{orgName}组织中的团队、项目和文件。此操作不可撤销。}}"
     },
-    "whiteboard.keyboard_shortcuts.tooltip.shift": {
-        "string": "Shift"
+    "org_settings.remove_user_modal.warning_text": {
+        "string": "{userCount, plural, other {删除这些用户将使其无法访问{orgName}组织中的团队、项目和文件。此操作不可撤销。}}"
     },
-    "whiteboard.keyboard_shortcuts.tooltip.option_alt": {
-        "string": "Option/Alt"
+    "org_settings.scim.api_token": {
+        "string": "API令牌"
     },
-    "whiteboard.keyboard_shortcuts.tooltip.control": {
-        "string": "Control"
+    "org_settings.scim.api_token_generated_at": {
+        "string": "生成于{timestamp}"
     },
-    "whiteboard.keyboard_shortcuts.tooltip.backspace": {
-        "string": "Backspace"
+    "org_settings.scim.generate_api_token": {
+        "string": "生成API令牌"
     },
-    "dev_handoff.workflows.focus_view.comments": {
-        "string": "You can leave comments only on the design in focus"
+    "org_settings.scim.i_understand_that_this_is_the_only_time_i_will_see_this_token": {
+        "string": "我理解这将是我唯一一次看到此令牌，并已将其复制到安全的地方。"
     },
-    "comments.slide": {
-        "string": "Slide"
+    "org_settings.scim.revoke_access": {
+        "string": "撤销访问权限"
     },
-    "comments.slide_number": {
-        "string": "Slide {orderNum}"
+    "org_settings.scim.revoke_token_access": {
+        "string": "撤销令牌访问权限"
     },
-    "slides.carousel.error": {
-        "string": "An error occurred."
+    "org_settings.scim.revoke_token_access_title": {
+        "string": "撤销令牌访问权限"
     },
-    "slides.carousel.error_solution": {
-        "string": "Please reload to try again."
+    "org_settings.scim.revoke_token_confirmation": {
+        "string": "我理解使用API令牌执行的所有API请求都将{willBeDenied}。"
     },
-    "slides.carousel.slide_stack_tooltip": {
-        "string": "Slides {min} - {max}"
+    "org_settings.scim.saml_sso_must_be_configured": {
+        "string": "必须配置SAML SSO"
     },
-    "slides.carousel.add-slide-from-template": {
-        "string": "Add slide from template"
+    "org_settings.scim.scim_description": {
+        "string": "SCIM允许自动更新、配置和解除用户配置。请参阅{helpArticle}了解更多信息。"
     },
-    "slides.carousel.new_slide": {
-        "string": "New slide"
+    "org_settings.scim.scim_group_description": {
+        "string": "使用SCIM可以自动更新、配置和解除用户配置。使用SCIM管理用户分配到计费组和工作区，以及用户的许可证。请参阅此{helpArticle}了解更多信息。"
     },
-    "slides.carousel.add-blank-slide": {
-        "string": "Add blank slide"
+    "org_settings.scim.scim_provisioning": {
+        "string": "SCIM配置"
     },
-    "slides.onboarding.welcome.title.jp": {
-        "string": "Figma Slides"
+    "org_settings.scim.will_be_denied": {
+        "string": "将被拒绝"
     },
-    "slides.onboarding.welcome.title": {
-        "string": "Meet Figma Slides"
+    "org_settings.scim.your_provisioning_api_token": {
+        "string": "您的配置API令牌"
     },
-    "slides.onboarding.welcome.starter.footer": {
-        "string": "If you choose to use AI features in Figma Slides, you consent to Figma’s AI {subprocessors}."
+    "org_settings.sign_in_method.any": {
+        "string": "成员可以使用电子邮件和密码{default}等任何可用方法登录"
     },
-    "slides.onboarding.subprocessors": {
-        "string": "subprocessors"
+    "org_settings.sign_in_method.authentication": {
+        "string": "认证"
     },
-    "slides.onboarding.welcome.org.footer.no_ai": {
-        "string": "By continuing, you consent to Figma’s {services_agreement}, regardless of any other agreement you may have with Figma."
+    "org_settings.sign_in_method.change_log_in": {
+        "string": "更改登录"
     },
-    "slides.onboarding.services_agreement": {
-        "string": "Software Services Agreement"
+    "org_settings.sign_in_method.default": {
+        "string": "(默认)"
     },
-    "slides.onboarding.welcome.org.footer.ai": {
-        "string": "By continuing, you consent to Figma’s {services_agreement}, regardless of any other agreement you may have with Figma. If you choose to use AI features in Figma Slides, you consent to Figma’s AI {subprocessors}."
+    "org_settings.sign_in_method.done": {
+        "string": "完成"
     },
-    "slides.onboarding.welcome.description": {
-        "string": "It’s a space to co-create stunning presentations that bring your audience into the conversation. Figma Slides is free in beta, through early 2025. After that, new pricing may apply. {learn_more}"
+    "org_settings.sign_in_method.i_understand_that_members_must_log_in_with_label_after_confirming": {
+        "string": "我理解确认后，成员必须使用{label}登录。"
     },
-    "slides.onboarding.learn_more": {
-        "string": "Learn more"
+    "org_settings.sign_in_method.members_must_log_in_with_a_google_account": {
+        "string": "成员必须使用Google账号登录"
     },
-    "slides.onboarding.welcome.primary_cta": {
-        "string": "Get started"
+    "org_settings.sign_in_method.members_must_log_in_with_saml_sso": {
+        "string": "成员必须使用SAML SSO登录"
     },
-    "slides.onboarding.welcome.secondary_cta": {
-        "string": "Back to files"
+    "org_settings.sign_in_method.you_need_to_configure_saml_sso_first": {
+        "string": "您需要先配置SAML SSO"
     },
-    "slides.onboarding.new_slide.title": {
-        "string": "Find slides for any situation"
+    "org_settings.sso.an_error_occurred_while_configuring_saml_sso": {
+        "string": "配置SAML SSO时发生错误。"
     },
-    "slides.onboarding.new_slide.description": {
-        "string": "Choose from dozens of templates— from full decks to simple styles—and quickly add a new slide with ⇧S."
+    "org_settings.sso.azure": {
+        "string": "Azure"
     },
-    "slides.onboarding.callout.next": {
-        "string": "Next"
+    "org_settings.sso.configure_saml_sso": {
+        "string": "配置SAML SSO"
     },
-    "slides.onboarding.callout.close": {
-        "string": "Close"
+    "org_settings.sso.contact_support": {
+        "string": "联系支持"
     },
-    "slides.onboarding.views.title": {
-        "string": "Get a bird’s eye view"
+    "org_settings.sso.copied": {
+        "string": "已复制!"
     },
-    "slides.onboarding.views.description": {
-        "string": "Hit Shift + Period (⇧.) to switch views. Use grid view to outline and organize, or slide view to dive into the details."
+    "org_settings.sso.copy": {
+        "string": "复制"
     },
-    "slides.onboarding.nondesigner.tools.title": {
-        "string": "Pick the right tool for the job"
+    "org_settings.sso.domain_requirement": {
+        "string": "SAML SSO用户的电子邮件域必须与{domains}匹配。要添加其他域，请{contactSupport}。"
     },
-    "slides.onboarding.nondesigner.tools.description": {
-        "string": "Along with simple slide tools, you can run a poll, embed a prototype, and add assets for some extra oomph."
+    "org_settings.sso.done": {
+        "string": "完成"
     },
-    "slides.onboarding.designer.tools.title": {
-        "string": "Switch modes as you go"
+    "org_settings.sso.edit": {
+        "string": "编辑"
     },
-    "slides.onboarding.designer.tools.description": {
-        "string": "Use slides mode to get started, then switch to design mode to perfect and polish your deck."
+    "org_settings.sso.edit_configuration": {
+        "string": "编辑配置"
     },
-    "slides.onboarding.share.title": {
-        "string": "Step up to the podium"
+    "org_settings.sso.google": {
+        "string": "Google"
     },
-    "slides.onboarding.share.description": {
-        "string": "When you’re ready, you can present your deck in one tab while reading your notes in another."
+    "org_settings.sso.help_article": {
+        "string": "帮助文章"
     },
-    "slides.onboarding.callout.done": {
-        "string": "Done"
+    "org_settings.sso.id_p_metadata_url": {
+        "string": "IdP元数据URL"
     },
-    "fullscreen.context_menu.show_hide_comments": {
-        "string": "Show/Hide comments"
+    "org_settings.sso.identity_provider_id_p": {
+        "string": "身份提供商(IdP)"
     }
 }

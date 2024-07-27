@@ -1,152 +1,152 @@
 {
-    "team_view.remove_members_modal.confirmation": {
-        "string": "Remove"
+    "whiteboard.editor_file_create_button.template.brainstorm": {
+        "string": "ブレインストーミング"
     },
-    "team_view.pro_member_modal.file_inaccessible_tooltip_warning": {
-        "string": "You don't have access to this file due to its permissions."
+    "whiteboard.editor_file_create_button.template.diagram": {
+        "string": "図表"
     },
-    "team_view.pro_member_modal.error_on_activity_retrieval_fallback_message": {
-        "string": "An error occurred while fetching latest activity."
+    "whiteboard.editor_file_create_button.template.meeting": {
+        "string": "ミーティング"
     },
-    "team_view.pro_member_modal.title_with_username": {
-        "string": "{username}'s most recent activity"
+    "whiteboard.editor_file_create_button.template.plan": {
+        "string": "プラン"
     },
-    "team_view.pro_member_modal.title_without_username": {
-        "string": "Recent Activity"
+    "whiteboard.editor_file_create_button.template.title": {
+        "string": "テンプレートから始める"
     },
-    "team_view.pro_member_modal.no_activity_found": {
-        "string": "No activity found"
+    "whiteboard.embed_actions.embed_failed": {
+        "string": "プレビューを作成できませんでした"
     },
-    "team_view.pro_member_modal.edit_table_product_header": {
-        "string": "Product"
+    "whiteboard.embeds.embed_overlay_iframe_title": {
+        "string": "Figma埋め込みコンテンツ"
     },
-    "team_view.pro_member_modal.edit_table_file_header": {
-        "string": "File"
+    "whiteboard.embeds.inline_menu.change_back_to_text": {
+        "string": "テキストに戻す"
     },
-    "team_view.pro_member_modal.edit_table_last_active_header": {
-        "string": "Last Active"
+    "whiteboard.embeds.inline_menu.display_horizontal": {
+        "string": "横方向に表示"
     },
-    "community.deprecate_browse_as_admin_overlay.managing_profiles_link": {
-        "string": "managing profiles"
+    "whiteboard.embeds.inline_menu.display_vertical": {
+        "string": "縦方向に表示"
     },
-    "community.deprecate_browse_as_admin_overlay.saving_plugins_link": {
-        "string": "saving plugins"
+    "whiteboard.embeds.inline_menu.maximize": {
+        "string": "最大化"
     },
-    "community.deprecate_browse_as_admin_overlay.title": {
-        "string": "Looking for “Browse as admin”?"
+    "whiteboard.embeds.inline_menu.minimize": {
+        "string": "最小化"
     },
-    "community.deprecate_browse_as_admin_overlay.body": {
-        "string": "Because of our recent changes for {managingProfilesLink} and {savingPluginsLink}, you no longer need to switch profiles to manage your team’s resources."
+    "whiteboard.embeds.inline_menu.open_link": {
+        "string": "リンクを開く"
     },
-    "user_notifications.notifications": {
-        "string": "Notifications"
+    "whiteboard.embeds.insert_embed_modal.add": {
+        "string": "追加"
     },
-    "community.resource_page.media_carousel.restart": {
-        "string": "Restart"
+    "whiteboard.embeds.insert_embed_modal.add_media_from_across_the_web": {
+        "string": "Webからメディアを追加できます。{learnMoreLink}"
     },
-    "community.detail_view.made_by_a_figma_partner": {
-        "string": "Made by a Figma Partner"
+    "whiteboard.embeds.insert_embed_modal.asana": {
+        "string": "Asana"
     },
-    "community.detail_view.ui_kit": {
-        "string": "UI kit"
+    "whiteboard.embeds.insert_embed_modal.codepen": {
+        "string": "CodePen"
     },
-    "community.detail_view.made_for_codegen": {
-        "string": "Generates code snippets"
+    "whiteboard.embeds.insert_embed_modal.figma": {
+        "string": "Figma"
     },
-    "community.landing_page.sort.all_products": {
-        "string": "All products"
+    "whiteboard.embeds.insert_embed_modal.invalid_link_error_message": {
+        "string": "有効なリンクではないようです。"
     },
-    "community.view_bar.dev_mode": {
-        "string": "Figma: Dev Mode"
+    "whiteboard.embeds.insert_embed_modal.learn_more": {
+        "string": "詳細情報"
     },
-    "community.view_bar.figma_prototype": {
-        "string": "Figma prototype"
+    "whiteboard.embeds.insert_embed_modal.loom": {
+        "string": "Loom"
     },
-    "community.view_bar.fig_jam": {
-        "string": "FigJam"
+    "whiteboard.embeds.insert_embed_modal.paste_a_public_link": {
+        "string": "公開リンクを貼り付け"
     },
-    "community.view_bar.slides": {
-        "string": "Figma Slides"
+    "whiteboard.embeds.insert_embed_modal.spotify": {
+        "string": "Spotify"
     },
-    "community.view_bar.all_creators": {
-        "string": "All creators"
+    "whiteboard.embeds.insert_embed_modal.title": {
+        "string": "リンク"
     },
-    "community.view_bar.following": {
-        "string": "Following"
+    "whiteboard.embeds.insert_embed_modal.try_linking_to_sites_like": {
+        "string": "次のようなサイトをリンクできます..."
     },
-    "community.view_bar.figma_partners_only": {
-        "string": "Figma Partners only"
+    "whiteboard.embeds.insert_embed_modal.vimeo": {
+        "string": "Vimeo"
     },
-    "community.landing_page.sort.trending": {
-        "string": "Trending"
+    "whiteboard.embeds.insert_embed_modal.youtube": {
+        "string": "YouTube"
     },
-    "community.curated_page.popular": {
-        "string": "Popular"
+    "whiteboard.embeds.tooltip_help_text.audio": {
+        "string": "再生ボタンをクリックすると、オーディオが再生されます。"
     },
-    "community.landing_page.sort.recent": {
-        "string": "Recent"
+    "whiteboard.embeds.tooltip_help_text.file": {
+        "string": "このプレビューはあなた専用です。メディアを再生しても、他のユーザーは見ることも聞くこともできません。"
     },
-    "community.landing_page.sort.relevancy": {
-        "string": "Relevancy"
+    "whiteboard.embeds.tooltip_help_text.generic": {
+        "string": "このプレビューはあなた専用です。メディアを再生しても、他のユーザーは見ることも聞くこともできません。"
     },
-    "community.landing_page.sort.price_high_to_low": {
-        "string": "Price: High to low"
+    "whiteboard.embeds.tooltip_help_text.video": {
+        "string": "再生ボタンをクリックすると、ビデオが再生されます。"
     },
-    "community.landing_page.sort.price_low_to_high": {
-        "string": "Price: Low to high"
+    "whiteboard.embeds.view_button": {
+        "string": "表示"
     },
-    "community.detail_view.made_for_dev_mode": {
-        "string": "For Figma: Dev Mode"
+    "whiteboard.figjam_export.background": {
+        "string": "背景"
     },
-    "community.detail_view.made_for_figma_design_and_dev_mode": {
-        "string": "For Design and Dev Mode"
+    "whiteboard.figjam_export.content_type": {
+        "string": "コンテンツタイプ"
     },
-    "project_creation.step_number_of_max_steps": {
-        "string": "Step {currentStep} of {maxSteps}"
+    "whiteboard.figjam_export.csv_disabled": {
+        "string": "エクスポート対象の有効なコンテンツがない場合、CSVファイルのエクスポートオプションは無効になります。"
     },
-    "project_creation.back": {
-        "string": "Back"
+    "whiteboard.figjam_export.entire_file": {
+        "string": "ファイル全体"
     },
-    "project_creation.create_project": {
-        "string": "Create project"
+    "whiteboard.figjam_export.export": {
+        "string": "エクスポート"
     },
-    "project_creation.name": {
-        "string": "Name"
+    "whiteboard.figjam_export.export_area": {
+        "string": "エクスポートエリア"
     },
-    "project_creation.ex_growth_experiments": {
-        "string": "Ex. Growth Experiments"
+    "whiteboard.figjam_export.exporting": {
+        "string": "エクスポート中"
     },
-    "project_creation.project_name": {
-        "string": "Project name"
+    "whiteboard.figjam_export.exporting_may_take_a_minute_or_two": {
+        "string": "エクスポートには数分かかる場合があります"
     },
-    "project_creation.project_name_empty": {
-        "string": "Enter a project name"
+    "whiteboard.figjam_export.file_type": {
+        "string": "ファイルの種類"
     },
-    "project_creation.add_people_to_project_name": {
-        "string": "Add people to {projectName}"
+    "whiteboard.figjam_export.grid": {
+        "string": "グリッド"
     },
-    "rcs.sharing_clarity.project_creation_permissions_title": {
-        "string": "Set permissions that fit your project"
+    "whiteboard.figjam_export.no_background": {
+        "string": "なし"
     },
-    "rcs.sharing_clarity.project_creation_permissions_description": {
-        "string": "You now have more control over who has access to your projects and what they can do. {learnMoreLink}"
+    "whiteboard.figjam_export.selection_only": {
+        "string": "選択範囲のみ"
     },
-    "project_creation.invite_only": {
-        "string": "Invite-only"
+    "whiteboard.figjam_export.solid": {
+        "string": "単色"
     },
-    "project_creation.everyone_at_team_name_can_edit": {
-        "string": "Everyone at {teamName} can edit"
+    "whiteboard.figjam_export.sticky": {
+        "string": "付箋"
     },
-    "project_creation.everyone_on_this_team_can_edit": {
-        "string": "Everyone on this team can edit"
+    "whiteboard.figjam_export.table": {
+        "string": "テーブル"
     },
-    "project_creation.everyone_at_team_name_can_view": {
-        "string": "Everyone at {teamName} can view"
+    "whiteboard.figjam_export.transparent": {
+        "string": "透明"
     },
-    "project_creation.everyone_on_this_team_can_view": {
-        "string": "Everyone on this team can view"
+    "whiteboard.fonts.bookish": {
+        "string": "フォーマル"
     },
-    "project_creation.invite_only_let_me_choose_who_has_access": {
-        "string": "Invite-only — let me choose who has access"
+    "whiteboard.fonts.cute": {
+        "string": "キュート"
     }
 }

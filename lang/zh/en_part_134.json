@@ -1,152 +1,152 @@
 {
-    "tile.dropdown.multiple_file_suffix": {
-        "string": " {totalSelected} files"
+    "edu.what_is_your_school_s_website": {
+        "string": "请输入您学校的网站"
     },
-    "collaboration.branching.updates_available_from_main_file": {
-        "string": "Updates available from main file"
+    "edu.what_is_your_schools_name": {
+        "string": "请输入您学校的名称"
     },
-    "idle_timeout.warning_modal.body": {
-        "string": "For security, {orgName} accounts are logged out after being inactive for {duration}."
+    "edu.what_type_of_institution_do_you_attend_or_work_for": {
+        "string": "您就读或工作的教育机构类型是什么？"
     },
-    "idle_timeout.warning_modal.button": {
-        "string": "Stay signed in"
+    "edu.why_are_you_applying_for_a_free_figma_education_plan": {
+        "string": "请输入您申请免费Figma教育计划的理由"
     },
-    "idle_timeout.warning_modal.title": {
-        "string": "Still working?"
+    "edu.year": {
+        "string": "年"
     },
-    "settings_tab.idle_session_timeout.time.days": {
-        "string": "{duration, plural, one {{duration} day} other {{duration} days}}"
+    "edu.you_re_currently_signed_in_as_user_login": {
+        "string": "当前以{userLogin}身份登录"
     },
-    "settings_tab.idle_session_timeout.time.hours": {
-        "string": "{duration, plural, one {{duration} hour} other {{duration} hours}}"
+    "edu.you_re_in": {
+        "string": "您已加入"
     },
-    "settings_tab.idle_session_timeout.time.minutes": {
-        "string": "{duration, plural, one {{duration} minute} other {{duration} minutes}}"
+    "edu.you_ve_already_used_up_your_one_time_free_figma_education_plan": {
+        "string": "您已经用完了一次免费的Figma教育计划访问权限"
     },
-    "auth.extra-info.job-type-badge.education": {
-        "string": "In education"
+    "edu.your_use_of_and_access_to_the_figma_education_plan_is_governed_by_our_tos": {
+        "string": "您在此处提交的信息以及您对Figma教育计划的使用和访问受Figma的{tos}和{privacy_policy}管理"
     },
-    "auth.extra-info.job-type-badge.software-development": {
-        "string": "Developer"
+    "emoji_mart.categories_activity": {
+        "string": "活动"
     },
-    "auth.extra-info.job-type-badge.user-research": {
-        "string": "User researcher"
+    "emoji_mart.categories_flags": {
+        "string": "旗帜"
     },
-    "auth.extra-info.job-type-badge.design": {
-        "string": "Designer"
+    "emoji_mart.categories_foods": {
+        "string": "食物和饮品"
     },
-    "auth.extra-info.job-type-badge.marketing": {
-        "string": "Marketer"
+    "emoji_mart.categories_frequent": {
+        "string": "常用"
     },
-    "auth.extra-info.job-type-badge.product-management": {
-        "string": "Product manager"
+    "emoji_mart.categories_nature": {
+        "string": "动物和自然"
     },
-    "auth.extra-info.job-type-badge.other": {
-        "string": "Other"
+    "emoji_mart.categories_objects": {
+        "string": "物品"
     },
-    "auth.extra-info.job-type.education": {
-        "string": "Student or educator"
+    "emoji_mart.categories_people": {
+        "string": "表情和人物"
     },
-    "auth.extra-info.job-type.software-development": {
-        "string": "Software development"
+    "emoji_mart.categories_places": {
+        "string": "旅行和地点"
     },
-    "auth.extra-info.job-type.user-research": {
-        "string": "User research"
+    "emoji_mart.categories_search": {
+        "string": "搜索结果"
     },
-    "auth.extra-info.job-type.design": {
-        "string": "Design"
+    "emoji_mart.categories_symbols": {
+        "string": "符号"
     },
-    "auth.extra-info.job-type.marketing": {
-        "string": "Marketing"
+    "emoji_mart.search": {
+        "string": "搜索"
     },
-    "auth.extra-info.job-type.product-management": {
-        "string": "Product management"
+    "emoji_mart.search_no_results": {
+        "string": "未找到该表情符号"
     },
-    "auth.extra-info.job-type.other": {
-        "string": "Other"
+    "emoji_mart.skins_1": {
+        "string": "默认"
     },
-    "collaboration.spotlight.visual_bell.nominated_user_to_spotlight": {
-        "string": "Asked {userName} to spotlight"
+    "emoji_mart.skins_2": {
+        "string": "浅色"
     },
-    "collaboration.spotlight.visual_bell.stopped_nominating_user_to_spotlight": {
-        "string": "Canceled ask to spotlight"
+    "emoji_mart.skins_3": {
+        "string": "中浅色"
     },
-    "search.facets.resource": {
-        "string": "Type"
+    "emoji_mart.skins_4": {
+        "string": "中性色"
     },
-    "search.facets.creator": {
-        "string": "By"
+    "emoji_mart.skins_5": {
+        "string": "中深色"
     },
-    "search.facets.in": {
-        "string": "In"
+    "emoji_mart.skins_6": {
+        "string": "深色"
     },
-    "search.facets.design_files": {
-        "string": "Design files"
+    "emoji_mart.skins_choose": {
+        "string": "选择默认肤色"
     },
-    "search.facets.figjam_boards": {
-        "string": "FigJam boards"
+    "extension_decline_modal.decline_plugin_request": {
+        "string": "拒绝插件批准请求"
     },
-    "search.facets.slides": {
-        "string": "Slide decks"
+    "extension_decline_modal.decline_widget_request": {
+        "string": "拒绝小部件批准请求"
     },
-    "search.facets.sites": {
-        "string": "Websites"
+    "extension_decline_modal.leave_plugin_note": {
+        "string": "给请求此插件批准的成员留下拒绝原因"
     },
-    "search.facets.people": {
-        "string": "People"
+    "extension_decline_modal.leave_widget_note": {
+        "string": "给请求此小部件批准的成员留下拒绝原因"
     },
-    "search.facets.projects": {
-        "string": "Projects"
+    "extension_request_modal.cancel": {
+        "string": "取消"
     },
-    "search.facets.teams": {
-        "string": "Teams"
+    "extension_request_modal.error_requesting_approval": {
+        "string": "请求批准时出错"
     },
-    "search.preview_section.all_files": {
-        "string": "All files"
+    "extension_request_modal.leave_plugin_note": {
+        "string": "给管理员留下一个简短的备注，说明为什么需要此插件"
     },
-    "search.facets.design": {
-        "string": "Design"
+    "extension_request_modal.leave_plugin_rerequest_note": {
+        "string": "如果要再次请求此插件，请向管理员说明原因"
     },
-    "search.facets.figjam": {
-        "string": "FigJam"
+    "extension_request_modal.leave_widget_note": {
+        "string": "给管理员留下一个简短的备注，说明为什么需要此小部件"
     },
-    "search.facets.name_and_you": {
-        "string": "{name} (You)"
+    "extension_request_modal.leave_widget_rerequest_note": {
+        "string": "如果要再次请求此小部件，请向管理员说明原因"
     },
-    "search.facets.multiple_creators": {
-        "string": "{numCreators, plural, one {{numCreators} person} other {{numCreators} people}}"
+    "extension_request_modal.plugin_approval_requested": {
+        "string": "已请求插件批准"
     },
-    "search.facets.multiple_spaces": {
-        "string": "{numSpaces, plural, one {{numSpaces} space} other {{numSpaces} spaces}}"
+    "extension_request_modal.plugin_approved": {
+        "string": "{numWorkspacesApproved, plural, other {此插件已被批准用于工作区{workspaceList}的文件}}"
     },
-    "search.facets.filter_limit_reached": {
-        "string": "5 filters max per filter type—remove one to add another"
+    "extension_request_modal.plugin_declined_on_string": {
+        "string": "插件请求被拒绝的日期"
     },
-    "search.error.max_query_length_exceeded": {
-        "string": "Try a shorter search. A few words or phrases work best"
+    "extension_request_modal.plugin_file_details": {
+        "string": "要在{fileLink}中使用此插件，需预先批准"
     },
-    "search.empty_state.no_results_matching": {
-        "string": "No results matching {searchQuery}"
+    "extension_request_modal.plugin_workspace_details": {
+        "string": "要在{fileLink}和工作区{workspace}的其他文件中使用此插件，需预先批准"
     },
-    "search.empty_state.no_results_no_query": {
-        "string": "Type to start searching"
+    "extension_request_modal.request": {
+        "string": "请求"
     },
-    "search.facets.find_someone": {
-        "string": "Find someone…"
+    "extension_request_modal.request_placeholder": {
+        "string": "需要的原因..."
     },
-    "search.preview_section.all_resources": {
-        "string": "All types"
+    "extension_request_modal.request_plugin_approval": {
+        "string": "请求插件批准"
     },
-    "search.facets.filter_spaces_org": {
-        "string": "Filter by project or team"
+    "extension_request_modal.request_widget_approval": {
+        "string": "请求小部件批准"
     },
-    "search.facets.filter_spaces_team": {
-        "string": "Filter by project"
+    "extension_request_modal.widget_approval_requested": {
+        "string": "已请求小部件批准"
     },
-    "search.facets.projects_teams_orgs": {
-        "string": "Projects, teams, and organizations"
+    "extension_request_modal.widget_approved": {
+        "string": "{numWorkspacesApproved, plural, other {此小部件已被批准用于工作区{workspaceList}的文件}}"
     },
-    "search.preview_section.projects_capitalized": {
-        "string": "Projects"
+    "extension_request_modal.widget_declined_on_string": {
+        "string": "小部件请求被拒绝的日期"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "view_selectors.file_browser.plugins": {
-        "string": "Plugins"
+    "edu.career_and_technical_education": {
+        "string": "职业和技术教育"
     },
-    "view_selectors.file_browser.billing_admin": {
-        "string": "Billing admin"
+    "edu.checkout_team_name": {
+        "string": "{teamName} - 教育计划"
     },
-    "view_selectors.file_browser.workspace_admin": {
-        "string": "Workspace admin"
+    "edu.choose_starter": {
+        "string": "选择入门"
     },
-    "view_selectors.file_browser.other_teams": {
-        "string": "Other teams"
+    "edu.choose_team": {
+        "string": "选择团队"
     },
-    "view_selectors.file_browser.workspace": {
-        "string": "Workspace"
+    "edu.computer_science": {
+        "string": "计算机科学"
     },
-    "org_view.view_selector.upgrade_to_organization": {
-        "string": "Upgrade to Organization"
+    "edu.computer_science_engineering_technology": {
+        "string": "计算机科学 / 工程 / 技术"
     },
-    "org_view.view_selector.plugins": {
-        "string": "Plugins"
+    "edu.cost_per_month": {
+        "string": "{cost}/月"
     },
-    "view_selectors.file_browser.restore_team": {
-        "string": "Restore Team"
+    "edu.create_a_new_professional_team": {
+        "string": "创建一个新的专业团队"
     },
-    "search.sort_option.relevance": {
-        "string": "Relevance"
+    "edu.create_free_team": {
+        "string": "创建免费团队"
     },
-    "search.sort_option.name": {
-        "string": "Name"
+    "edu.december": {
+        "string": "十二月"
     },
-    "search.sort_option.touched_at": {
-        "string": "Last modified"
+    "edu.disagree_to_policy": {
+        "string": "不同意"
     },
-    "search.sort_option.created_at": {
-        "string": "Created"
+    "edu.education_figma_com": {
+        "string": "education@figma.com"
     },
-    "search.sort_option.owner": {
-        "string": "Owner"
+    "edu.education_teams_get_all_the_professional_plan_features_for_free": {
+        "string": "教育团队可免费享受所有专业计划功能。"
     },
-    "search.sort_option.last_updated": {
-        "string": "Last updated"
+    "edu.education_verification_figma_com": {
+        "string": "education-verification@figma.com"
     },
-    "search.sort_option.members": {
-        "string": "Members"
+    "edu.educator": {
+        "string": "教育工作者"
     },
-    "search.sort_option.email": {
-        "string": "Email"
+    "edu.english_language_arts": {
+        "string": "英语语言艺术"
     },
-    "tile.file_tile.unsynced_changes": {
-        "string": "Unsynced changes"
+    "edu.enter_your_school_s_website": {
+        "string": "输入您学校的网站URL"
     },
-    "tile.branching.see_all_branches": {
-        "string": "See all branches"
+    "edu.entrepreneurship": {
+        "string": "创业"
     },
-    "tile.branching.create_new_branch": {
-        "string": "Create new branch"
+    "edu.expected_graduation_date": {
+        "string": "预计毕业日期"
     },
-    "file_browser.file_import_view.select_pdf_source_description": {
-        "string": "{pdfCount, plural, one {Choose one—this will help more accurately convert your PDF into a FigJam file.} other {Choose one—this will help more accurately convert your PDFs into FigJam files. For the best results, import PDFs from different products separately.}}"
+    "edu.february": {
+        "string": "二月"
     },
-    "file_browser.file_import_view.pd_fs_can_only_be_imported_as_new_fig_jam_files": {
-        "string": "PDFs can only be imported as new FigJam files."
+    "edu.field_other": {
+        "string": "其他"
     },
-    "file_browser.file_import_view.files_you_ve_selected_are_pd_fs_pd_fs_can_only_be_imported_to_fig_jam_for_now": {
-        "string": "{numPDFFiles} of the {numTotalFiles} files you’ve selected are PDFs—they’ll be imported as new FigJam files."
+    "edu.figma_community": {
+        "string": "Figma社区"
     },
-    "file_browser.file_import_view.cancel": {
-        "string": "Cancel"
+    "edu.foreign_language": {
+        "string": "外语"
     },
-    "file_browser.file_import_view.don_t_import_pd_fs": {
-        "string": "Don’t import PDFs"
+    "edu.free_for_verified_students_and_educators": {
+        "string": "经过验证的学生和教育工作者免费使用。"
     },
-    "file_browser.file_import_view.import_all": {
-        "string": "Import all"
+    "edu.free_for_verified_students_and_educators_verify_status": {
+        "string": "经过验证的学生和教育工作者免费使用。{verify_status}"
     },
-    "file_browser.file_import_view.select_pdf_source_input_legend": {
-        "string": "PDF source"
+    "edu.free_to_use_in_classrooms": {
+        "string": "在教室中免费使用"
     },
-    "file_browser.file_import_view.select_pdf_source_input_unknown_disclaimer": {
-        "string": "You can add other PDFs, but they might not import accurately."
+    "edu.general_education": {
+        "string": "普通教育"
     },
-    "modal.confirm": {
-        "string": "Confirm"
+    "edu.get_the_free_figma_education_plan_for_your_classroom": {
+        "string": "为您的教室获取免费的Figma教育计划"
     },
-    "file_browser.file_import_view.success_count_total_files_imported_successfully": {
-        "string": "{succeededCount, number, integer} of {total, number, integer} files imported successfully"
+    "edu.go_to_figma": {
+        "string": "前往Figma"
     },
-    "file_browser.file_import_view.importing_done_1_total_files": {
-        "string": "Importing {currentFileNum, number, integer} / {total, number, integer} files…"
+    "edu.graphic_visual_design": {
+        "string": "图形/视觉设计"
     },
-    "file_browser.file_import_view.file_imported_successfully": {
-        "string": "File imported successfully"
+    "edu.higher_ed": {
+        "string": "高等教育（包括大学、研究生院、职业学院）"
     },
-    "file_browser.file_import_view.file_import_failed": {
-        "string": "File import failed"
+    "edu.human_computer_interaction": {
+        "string": "人机交互"
     },
-    "file_browser.file_import_view.importing_file": {
-        "string": "Importing file…"
+    "edu.i_confirm_i_am_a_student_educator_or_administrator_enrolled_or_working_at_the_institution_I_provided": {
+        "string": "我确认我是所提供的教育机构的在校学生、教育工作者或管理员。我持有能够确认Figma教育计划资格的注册证明。"
     },
-    "file_browser.file_import_view.fig_jam": {
-        "string": "FigJam"
+    "edu.if_you_are_applying_for_a_k_12_or_higher_education_account_please_ensure_you_are_logging_in_to_figma_with_your_school_email_address_personal_emails_like_gmail_will_not_work": {
+        "string": "如果您申请的是K-12或高等教育账户，请确保使用您的学校邮箱地址登录Figma。个人邮箱（如Gmail）将无法使用。"
     },
-    "file_browser.file_import_view.figma_design": {
-        "string": "Figma design"
+    "edu.if_you_have_misrepresented_your_eligibility_to_access_the_figma_education_plan": {
+        "string": "如果您违反Figma的服务条款，虚报了Figma教育计划的资格，您同意向Figma支付因您所报的学生或教育工作者身份而最初豁免的服务费用。"
     },
-    "file_browser.file_import_view.next": {
-        "string": "Next"
+    "edu.if_your_school_does_not_provide_a_school_email_please_reach_out_to_our_team_at_education_email_and_provide_proof_of_your_status_including_a_current_school_id_class_schedule_or_letter_of_enrollment": {
+        "string": "如果您的学校没有提供学校邮箱，请通过{educationEmail}联系我们的团队，并提供您的身份证明，包括当前的学生证、课程表或入学证明信等{provideProofOfYourStatus}。"
     },
-    "file_browser.file_import_view.done": {
-        "string": "Done"
+    "edu.information_science": {
+        "string": "信息科学"
     },
-    "file_browser.file_import_view.file_import_success": {
-        "string": "{totalFiles, plural, one {{totalFiles} file imported successfully} other {{totalFiles} files imported successfully}}"
+    "edu.january": {
+        "string": "一月"
     },
-    "file_browser.file_import_view.file_import_partial_success": {
-        "string": "{importedFiles} of {totalFiles} files imported"
+    "edu.july": {
+        "string": "七月"
     },
-    "file_browser.file_import_view.file_import_failure_all": {
-        "string": "{failedFiles, plural, one {Unable to import file.} other {Unable to import files.}}"
+    "edu.june": {
+        "string": "六月"
     },
-    "file_browser.file_import_view.file_import_failure_partial": {
-        "string": "Unable to import some files."
+    "edu.k12": {
+        "string": "K-12教育"
     },
-    "file_browser.file_import_view.file_import_cancel": {
-        "string": "Import was cancelled."
+    "edu.libraries": {
+        "string": "图书馆"
     },
-    "file_browser.file_import_view.file_import_progress": {
-        "string": "{processedFiles} of {totalFiles} files"
+    "edu.log_out": {
+        "string": "登出"
     },
-    "file_browser.file_import_view.to_continue_working": {
-        "string": "To continue working, {openANewTabLink}"
+    "edu.march": {
+        "string": "三月"
     },
-    "file_browser.file_import_view.open_a_new_tab_link": {
-        "string": "open a new tab"
+    "edu.math": {
+        "string": "数学"
     },
-    "file_browser.file_import_view.file_row_import_cancel": {
-        "string": "Cancelled"
+    "edu.may": {
+        "string": "五月"
     },
-    "file_browser.file_import_view.import_pd_fs_as_fig_jam_files": {
-        "string": "Import PDFs as FigJam files?"
+    "edu.month": {
+        "string": "月"
     },
-    "file_browser.file_import_view.select_pdf_source_header": {
-        "string": "Where are your files from?"
+    "edu.more_information": {
+        "string": "了解更多信息"
     },
-    "file_browser.file_import_view.select_pdf_source_input_unknown_value": {
-        "string": "Other"
+    "edu.must_agree_to_policy": {
+        "string": "要申请Figma教育计划，您必须同意Figma的政策"
     },
-    "file_browser.file_import_view.importing_to_figma_design": {
-        "string": "Importing to Figma design"
+    "edu.need_a_little_inspiration_explore_thousands_of_education_templates_plugins_and_ui_kits_in_the_figma_community_to_kickstart_your_next_big_idea": {
+        "string": "需要一些灵感吗？探索{figmaCommunity}中的数千个教育模板、插件和UI套件，以启动您的下一个大创意。"
     }
 }

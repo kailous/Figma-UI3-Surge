@@ -1,152 +1,152 @@
 {
-    "dev_handoff.paywall.get_dev_mode": {
-        "string": "Get Dev Mode"
+    "fullscreen_actions.while_resizing": {
+        "string": "调整大小时可用项目..."
     },
-    "dev_handoff.paywall.blocking_modal.button.request_access": {
-        "string": "Request access"
+    "fullscreen_actions.while_stamping": {
+        "string": "盖章中..."
     },
-    "figjam_try.this_file_has_been_saved_to_drafts": {
-        "string": "Saved to your drafts"
+    "fullscreen_actions.while_text_shape_or_sticky_selected": {
+        "string": "文本、形状或便签被选中时可用项目..."
     },
-    "figjam_try.this_file_has_been_saved_to_folder_name": {
-        "string": "Saved to {folder_name}"
+    "fullscreen_actions.widgets-menu": {
+        "string": "小部件"
     },
-    "figjam_try.default_filename": {
-        "string": "{userName}’s board"
+    "fullscreen_actions.widgets-menu-saved-widgets": {
+        "string": "已保存的小部件"
     },
-    "design_systems.component_properties.cant_show_values": {
-        "string": "Can't show values from other libraries"
+    "fullscreen_actions.zoom-in": {
+        "string": "放大"
     },
-    "design_systems.component_properties.trying": {
-        "string": "Trying…"
+    "fullscreen_actions.zoom-out": {
+        "string": "缩小"
     },
-    "design_systems.component_properties.try_again": {
-        "string": "Try again"
+    "fullscreen_actions.zoom-reset": {
+        "string": "100% 缩放"
     },
-    "design_systems.component_properties.show_more_property_rows": {
-        "string": "Show {count} more properties"
+    "fullscreen_actions.zoom-to-fit": {
+        "string": "自动缩放调整"
     },
-    "design_systems.component_properties.delete_property": {
-        "string": "{numSelected, plural, one {Delete property} other {Delete properties}}"
+    "fullscreen_actions.zoom-to-selection": {
+        "string": "缩放至选区"
     },
-    "design_systems.component_properties.mixed": {
-        "string": "Mixed"
+    "gen1_design_onboarding.leave_a_comment_anywhere_in_the_canvas_to_give_feedback_ask_questions_or_mention_someone": {
+        "string": "在画布的任何地方留言，向成员提供反馈、提问或@提及他们。"
     },
-    "design_systems.component_properties.property_icon_tooltip": {
-        "string": "{propertyType} property"
+    "gen1_design_viewer_onboarding.feel_free_to_look_around_and_press_c_to_leave_comments_to_make_changes_ask_to_edit_the_file": {
+        "string": "随意浏览，并按{keyboardShortcut}键留言。如果需要更改文件，请请求编辑权限。"
     },
-    "design_systems.component_properties.variant_property_values_delimiter": {
-        "string": ", "
+    "gen1_design_viewer_onboarding.feel_free_to_look_around_and_press_c_to_leave_comments_to_make_changes_request_a_full_design_seat_from_your_admin": {
+        "string": "随意浏览，并按{keyboardShortcut}键留言。如果需要更改文件，请向管理员申请完整设计席位。"
     },
-    "design_systems.component_properties.edit_property": {
-        "string": "Edit property"
+    "gen1_design_viewer_onboarding.follow_your_teammates": {
+        "string": "关注你的团队成员"
     },
-    "proto.assign_variant": {
-        "string": "Assign variable…"
+    "gen1_design_viewer_onboarding.getting_around": {
+        "string": "导航"
     },
-    "design_systems.component_properties.invalid_variant_binding": {
-        "string": "Variable value doesn't map to variant"
+    "gen1_design_viewer_onboarding.hey_there_welcome_to_your_first_figma_file_learn_how_to_explore_and_add_comments_in_this_file": {
+        "string": "你好，欢迎来到你的第一个Figma文件。了解如何浏览和在这个{viewOnly}文件中添加评论。"
     },
-    "design_systems.component_properties.invalid_variant_binding_state": {
-        "string": "Value overruled by another setting"
+    "gen1_design_viewer_onboarding.hold_and_scroll_your_mouse": {
+        "string": "按住{keyboardShortcut}键，滚动鼠标"
     },
-    "design_systems.component_properties.rename_prompt": {
-        "string": "Rename…"
+    "gen1_design_viewer_onboarding.hold_keyboard_shortcut_click_and_drag_with_your_mouse": {
+        "string": "按住{keyboardShortcut}键，点击并拖动鼠标"
     },
-    "design_systems.component_properties.add_new_prompt": {
-        "string": "Add new…"
+    "gen1_design_viewer_onboarding.look_closer_or_step_back": {
+        "string": "拉近或拉远查看"
     },
-    "design_systems.component_properties.new_value": {
-        "string": "New value"
+    "gen1_design_viewer_onboarding.pinch_to_zoom_on_a_trackpad": {
+        "string": "在触控板上捏合缩放"
     },
-    "design_systems.component_properties.missing_property": {
-        "string": "Missing property"
+    "gen1_design_viewer_onboarding.right_click_and_drag_to_pan_with_your_mouse": {
+        "string": "右键点击并拖动鼠标以平移"
     },
-    "design_systems.component_properties.values": {
-        "string": "Values"
+    "gen1_design_viewer_onboarding.share_your_thoughts": {
+        "string": "分享你的想法"
     },
-    "design_systems.component_properties.choose_default_instance_value": {
-        "string": "Choose instance"
+    "gen1_design_viewer_onboarding.slide_with_two_fingers_to_move_on_a_trackpad": {
+        "string": "用两个手指在触控板上滑动以移动"
     },
-    "design_systems.component_properties.edit_component_property": {
-        "string": "Edit {propType} property"
+    "gen1_design_viewer_onboarding.take_a_quick_tour": {
+        "string": "快速导览"
     },
-    "design_systems.component_properties.select_variants_with_property_value": {
-        "string": "{numVariants, plural, one {Select {numVariants} variant} other {Select {numVariants} variants}}"
+    "gen1_design_viewer_onboarding.use_the_scroll_wheel_to_zoom_with_a_mouse": {
+        "string": "使用鼠标滚轮缩放"
     },
-    "design.starting_points.import_a_website_tooltip.import_your_website": {
-        "string": "Import your website"
+    "gen1_design_viewer_onboarding.view_only": {
+        "string": "仅查看"
     },
-    "design.starting_points.import_a_website_tooltip.description": {
-        "string": "The {pluginName} plugin brings your website into Figma. Plugins are built by the community and can help you jumpstart your design."
+    "gen1_design_viewer_onboarding.yep_other_people_can_be_in_the_same_file_and_they_ll_appear_up_here_click_on_their_profile_picture_to_follow_and_see_where_they_are_in_real_time": {
+        "string": "是的，其他人也可以在同一个文件中，他们会显示在这里。点击他们的头像可以实时跟随并查看他们的位置。"
     },
-    "design.starting_points.import_a_website_tooltip.html_to_design": {
-        "string": "html.to.design"
+    "general.admin": {
+        "string": "管理员"
     },
-    "design.starting_points.import_a_website_tooltip.got_it": {
-        "string": "Got it"
+    "general.an_error_occurred": {
+        "string": "发生错误"
     },
-    "design.starting_points.recent_plugin_tooltip.your_recents": {
-        "string": "Your recent plugins"
+    "general.an_error_occurred_while_performing_that_action": {
+        "string": "执行该操作时发生错误。"
     },
-    "design.starting_points.recent_plugin_tooltip.description": {
-        "string": "Find your most recently used plugins here, whenever you need them."
+    "general.back": {
+        "string": "返回"
     },
-    "design.starting_points.recent_plugin_tooltip.done": {
-        "string": "Done"
+    "general.beta": {
+        "string": "测试版"
     },
-    "design.starting_points.welcome_to_figma": {
-        "string": "Welcome to Figma"
+    "general.cancel": {
+        "string": "取消"
     },
-    "design.starting_points.how_would_you_like_to_get_started": {
-        "string": "How would you like to get started?"
+    "general.close": {
+        "string": "关闭"
     },
-    "design.starting_points.learn_the_basics": {
-        "string": "Learn the basics"
+    "general.settings": {
+        "string": "设置"
     },
-    "design.starting_points.learn_the_basics_description": {
-        "string": "Learn basics about Figma with an example file"
+    "general.close_anyway": {
+        "string": "仍要关闭"
     },
-    "design.starting_points.import_a_website": {
-        "string": "Import a website"
+    "general.confirm": {
+        "string": "确认"
     },
-    "design.starting_points.import_a_website_description": {
-        "string": "Use a plugin to import an existing website into a design file"
+    "general.continue": {
+        "string": "继续"
     },
-    "design.starting_points.start_from_a_blank_file": {
-        "string": "Start from a blank file"
+    "general.creator_agreement": {
+        "string": "创作者协议"
     },
-    "design.starting_points.start_from_a_blank_file_description": {
-        "string": "Start from scratch and see where it goes"
+    "general.delete": {
+        "string": "删除"
     },
-    "rcs.ui_kits.explore_ui_kits_to_find_assets_you_like": {
-        "string": "Explore UI kits to find assets you like—then just drag onto canvas to start designing."
+    "general.dev_mode": {
+        "string": "开发模式"
     },
-    "fullscreen.flyout.move_tools": {
-        "string": "Move tools"
+    "general.done": {
+        "string": "完成"
     },
-    "fullscreen.flyout.region_tools": {
-        "string": "Region tools"
+    "general.edit": {
+        "string": "编辑"
     },
-    "fullscreen.flyout.drawing_tools": {
-        "string": "Creation tools"
+    "general.editor.seat_rename": {
+        "string": "完整"
     },
-    "fullscreen.flyout.shape_tools": {
-        "string": "Shape tools"
+    "general.employee_only": {
+        "string": "仅限员工"
     },
-    "fullscreen.flyout.boolean_groups": {
-        "string": "Boolean groups"
+    "general.error": {
+        "string": "错误"
     },
-    "fullscreen.flyout.styles": {
-        "string": "Styles"
+    "general.fallback_org_name": {
+        "string": "组织"
     },
-    "fullscreen.flyout.components": {
-        "string": "Components"
+    "general.fallback_team_name": {
+        "string": "团队"
     },
-    "fullscreen.flyout.prototype_view": {
-        "string": "Prototype view"
+    "general.fallback_user_name": {
+        "string": "用户"
     },
-    "fullscreen_actions.ai_content_fill.magic_handle_hover_tooltip": {
-        "string": "Duplicate, with new content"
+    "general.figjam": {
+        "string": "FigJam"
     }
 }

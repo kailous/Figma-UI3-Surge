@@ -1,152 +1,152 @@
 {
-    "proto.delay": {
-        "string": "Delay"
+    "org_self_serve.purchase_summary.the_organization_plan_requires_at_least_count_editor_seats.seat_rename": {
+        "string": "业务计划需要至少{minCount}个付费席位。"
     },
-    "proto.key": {
-        "string": "Key"
+    "org_self_serve.purchase_summary.the_organization_plan_requires_seats_added_empty_seats.seat_rename": {
+        "string": "业务计划需要至少{minCount}个全席位。我们已添加空席，您可以稍后分配用户。"
     },
-    "proto.time": {
-        "string": "Time"
+    "org_self_serve.review_step.add_additional_editors.seat_rename": {
+        "string": "添加更多席位"
     },
-    "proto.trigger.after_delay_timeout": {
-        "string": "After delay timeout"
+    "org_self_serve.review_step.annual_renewal_description.seat_rename": {
+        "string": "每年，除非取消订阅，否则将按以下总金额及新增的付费席位总金额续费。"
     },
-    "proto.trigger.video_hit_time": {
-        "string": "Video hit time"
+    "org_self_serve.review_step.annual_renewal_on_date": {
+        "string": "年费续期日期：{renewalDate, date, long}"
     },
-    "proto.trigger.add_delay_placeholder": {
-        "string": "Add delay"
+    "org_self_serve.review_step.billing_address": {
+        "string": "账单地址"
     },
-    "proto.set_variable_mode.collection_label": {
-        "string": "Collection"
+    "org_self_serve.review_step.billing_email": {
+        "string": "账单电子邮件"
     },
-    "proto.set_variable_mode.mode_label": {
-        "string": "Mode"
+    "org_self_serve.review_step.card_ending_in_last4": {
+        "string": "尾号为{last4}的卡"
     },
-    "proto.prototype_panel.edit_set_mode.none": {
-        "string": "None"
+    "org_self_serve.review_step.company_display_name": {
+        "string": "公司显示名称"
     },
-    "proto.prototype_panel.edit_set_mode.missing_collection": {
-        "string": "(missing collection)"
+    "org_self_serve.review_step.company_legal_name": {
+        "string": "公司法定名称"
     },
-    "proto.prototype_panel.edit_set_mode.missing_mode": {
-        "string": "(missing mode)"
+    "org_self_serve.review_step.company_name": {
+        "string": "公司名称"
     },
-    "proto.state_management.revert_controls": {
-        "string": "Revert"
+    "org_self_serve.review_step.complete_purchase": {
+        "string": "完成购买"
     },
-    "proto.state_management.update_controls": {
-        "string": "Update"
+    "org_self_serve.review_step.details": {
+        "string": "详细信息"
     },
-    "proto.state_management.new_controls": {
-        "string": "State management updated. "
+    "org_self_serve.review_step.display_name": {
+        "string": "显示名称"
     },
-    "proto.state_management.old_controls": {
-        "string": "Old state management in use. "
+    "org_self_serve.review_step.domain": {
+        "string": "域名"
     },
-    "proto.state_management.controls_help_link_new": {
-        "string": "Learn more"
+    "org_self_serve.review_step.edit_organization": {
+        "string": "编辑组织"
     },
-    "proto.state_management.controls_help_link": {
-        "string": "Learn more…"
+    "org_self_serve.review_step.edit_payment": {
+        "string": "编辑支付信息"
     },
-    "proto.state_management.visual_bell_updated_message": {
-        "string": "Updated interaction to use new state management"
+    "org_self_serve.review_step.i_agree_to_msa_and_renewal_links": {
+        "string": "同意Figma的{msaLink}及{renewalLink}"
     },
-    "proto.state_management.visual_bell_update_all": {
-        "string": "Update all"
+    "org_self_serve.review_step.learn_more_about_true_ups": {
+        "string": "了解更多关于True-up的信息"
     },
-    "proto.state_management.visual_bell_update_all_message": {
-        "string": "Updated all interactions"
+    "org_self_serve.review_step.lets_make_sure_everythings_right": {
+        "string": "确认所有信息正确"
     },
-    "whiteboard.inserts.see_more_from_community": {
-        "string": "See more from Community"
+    "org_self_serve.review_step.next_quarterly_true_up_on_date": {
+        "string": "下一季度True-up日期为{trueUpDate, date, long}"
     },
-    "whiteboard.inserts.widgets": {
-        "string": "Widgets"
+    "org_self_serve.review_step.next_review": {
+        "string": "下一步：审查"
     },
-    "whiteboard.inserts.plugins": {
-        "string": "Plugins"
+    "org_self_serve.review_step.organization_details": {
+        "string": "组织详细信息"
     },
-    "whiteboard.inserts.faces_title": {
-        "string": "Faces"
+    "org_self_serve.review_step.renewal_and_cancellation_terms": {
+        "string": "续费和取消条款"
     },
-    "whiteboard.inserts.see_more": {
-        "string": "See more…"
+    "org_self_serve.review_step.shipping_address": {
+        "string": "送货地址"
     },
-    "whiteboard.inserts.stickers": {
-        "string": "Stickers"
+    "org_self_serve.review_step.software_services_agreement": {
+        "string": "软件服务协议"
     },
-    "whiteboard.inserts.see_num_more_resources": {
-        "string": "{numMoreResources, plural, one {See {numMoreResources} more result} other {See {numMoreResources} more results}}"
+    "org_self_serve.review_step.sorry_there_was_an_error_please_try_again": {
+        "string": "抱歉，发生错误，请重试。"
     },
-    "whiteboard.inserts.templates": {
-        "string": "Templates"
+    "org_self_serve.review_step.subtotal": {
+        "string": "小计"
     },
-    "whiteboard.inserts.widgets_subtitle": {
-        "string": "Handy tools you can plop down wherever."
+    "org_self_serve.review_step.tax": {
+        "string": "税"
     },
-    "whiteboard.inserts.plugins_subtitle": {
-        "string": "Do more (much more) with FigJam."
+    "org_self_serve.review_step.tax_rate": {
+        "string": "{taxRate}%"
     },
-    "whiteboard.inserts.stickers_subtitle": {
-        "string": "For voting, reacting, or making things pop."
+    "org_self_serve.review_step.teams": {
+        "string": "团队"
     },
-    "whiteboard.inserts.templates_subtitle": {
-        "string": "So you don’t have to start from scratch."
+    "org_self_serve.review_step.total_due_today": {
+        "string": "今天应支付总额"
     },
-    "whiteboard.inserts.more": {
-        "string": "More"
+    "org_self_serve.review_step.true_up_description.seat_rename": {
+        "string": "True-up每三个月进行一次。对于自上次账单周期以来新添加的付费席位，我们将在True-up日期前两周通过电子邮件通知您。"
     },
-    "whiteboard.inserts.stickers_and_components": {
-        "string": "Stickers & components"
+    "org_self_serve.review_step.true_up_description_2.seat_rename": {
+        "string": "用户可以自行或由他人升级，因此新席位的费用将在True-up之后产生。"
     },
-    "whiteboard.inserts.by_publisher_name": {
-        "string": "by {publisherName}"
+    "org_self_serve.review_step.true_up_description_3.seat_rename": {
+        "string": "管理员可以在True-up之前确认新席位是否为付费席位，或者降级为免费的受限查看席位。"
     },
-    "whiteboard.inserts.use_cases_break_the_ice": {
-        "string": "Break the ice"
+    "org_self_serve.review_step.true_up_description_4.seat_rename": {
+        "string": "True-up日期将按比例收取保留的付费席位的费用。"
     },
-    "whiteboard.inserts.use_cases_brainstorm_together_description": {
-        "string": "Find inspiration, generate ideas, and vote on your favorites."
+    "org_self_serve.review_step.what_is_a_true_up": {
+        "string": "什么是True-up？"
     },
-    "whiteboard.inserts.use_cases_run_a_meeting_description": {
-        "string": "Hold syncs, retros, and more, together with your team."
+    "org_self_serve.team_step.editor.seat_rename": {
+        "string": "{editorCount, plural, other {{editorCount}个席位}}"
     },
-    "whiteboard.inserts.use_cases_diagram_anything_description": {
-        "string": "Map out processes, flows, and your most out-there ideas."
+    "org_self_serve.team_step.guest_checkout_tooltip": {
+        "string": "访客是指没有组织域名电子邮件地址的用户，他们的内容访问权限有限。"
     },
-    "whiteboard.inserts.use_cases_lead_a_workshop_description": {
-        "string": "Remote or not, FigJam makes workshops easy and engaging."
+    "org_self_serve.team_step.header": {
+        "string": "选择要升级到组织的团队"
     },
-    "whiteboard.inserts.use_cases_break_the_ice_description": {
-        "string": "Turn total strangers into slightly-more-talkative total strangers."
+    "org_self_serve.team_step.more_teams": {
+        "string": "更多团队"
     },
-    "whiteboard.inserts.start_from_a_template": {
-        "string": "Start from a template"
+    "org_self_serve.team_step.on_teams": {
+        "string": "在团队中："
     },
-    "whiteboard.inserts.try_handmade_templates_created_by_your_team": {
-        "string": "Try handmade templates, created by your team."
+    "org_self_serve.team_step.team_creation_header": {
+        "string": "选择要升级的团队"
     },
-    "whiteboard.inserts.org_name_templates": {
-        "string": "{orgName} templates"
+    "org_self_serve.team_step.team_creation_teams_shown_description": {
+        "string": "您是以下团队的管理员或所有者。可以选择多个团队。"
     },
-    "whiteboard.inserts.clear": {
-        "string": "Clear"
+    "org_self_serve.team_step.teams_shown_description": {
+        "string": "显示您是管理员或所有者的团队"
     },
-    "whiteboard.inserts.clear_search": {
-        "string": "Clear search"
+    "org_settings.autogen_password_controls.autogen_passwords_button": {
+        "string": "仅自动生成密码"
     },
-    "whiteboard.inserts.browse_more_in_community": {
-        "string": "Browse more in Community"
+    "org_settings.autogen_password_controls.autogen_passwords_description": {
+        "string": "只能使用自动生成的密码。"
     },
-    "whiteboard.inserts.recents": {
-        "string": "Recents"
+    "org_settings.autogen_password_controls.banner": {
+        "string": "注意：对于高度重视安全的组织，我们建议使用自动生成的密码。自动生成的密码由四个随机选择的单词组成，始终强大且唯一。"
     },
-    "whiteboard.inserts.libraries": {
-        "string": "Libraries"
+    "org_settings.autogen_password_controls.cancel": {
+        "string": "取消"
     },
-    "whiteboard.inserts.add_your_own": {
-        "string": "Add your own"
+    "org_settings.autogen_password_controls.custom_passwords_button": {
+        "string": "自定义密码"
     }
 }

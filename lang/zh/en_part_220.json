@@ -1,152 +1,152 @@
 {
-    "whiteboard.shape_keywords.merge": {
-        "string": "Merge"
+    "onboarding_pointers.activity_filter_onboarding": {
+        "string": "搜索单个用户的活动，并按日期范围、事件类型和团队进行筛选。"
     },
-    "whiteboard.shape_keywords.data": {
-        "string": "Data"
+    "onboarding_pointers.got_it": {
+        "string": "了解"
     },
-    "whiteboard.shape_keywords.input": {
-        "string": "Input"
+    "onboarding_pointers.manage_billing_group_overlay.description": {
+        "string": "从下拉菜单中选择[{optionName}]，将成员添加到此账单组。"
     },
-    "whiteboard.shape_keywords.output": {
-        "string": "Output"
+    "onboarding_pointers.manage_billing_group_overlay.title": {
+        "string": "将成员添加到账单组"
     },
-    "whiteboard.shape_keywords.database": {
-        "string": "Database"
+    "onboarding_pointers.member_search_onboarding": {
+        "string": "输入姓名或电子邮件地址以搜索用户。"
     },
-    "whiteboard.shape_keywords.storage": {
-        "string": "Storage"
+    "onboarding_pointers.member_upgraded_onboarding": {
+        "string": "指向用户的升级日期，可以轻松查看用户的升级方式。"
     },
-    "whiteboard.shape_keywords.queue": {
-        "string": "Queue"
+    "onboarding_pointers.multiple_select_onboarding": {
+        "string": "在列表中选择所有用户，或者按住{shiftKey}键并单击行以批量选择多个用户。"
     },
-    "whiteboard.shape_keywords.manual_operation": {
-        "string": "Manual operation"
+    "onboarding_pointers.recent_activity_onboarding.seat_rename": {
+        "string": "单击此处查看用户的最近活动以及用户的升级方式（如果适用）。"
     },
-    "whiteboard.shape_keywords.off_page_connector": {
-        "string": "Off page connector"
+    "onboarding_pointers.row_select_onboarding": {
+        "string": "按住{shiftKey}键并单击另一行，同时选择或取消选择多个用户。"
     },
-    "whiteboard.shape_keywords.preparation": {
-        "string": "Preparation"
+    "onboarding_pointers.shift_key": {
+        "string": "⇧ Shift"
     },
-    "whiteboard.shape_keywords.cross": {
-        "string": "Cross"
+    "onboarding_pointers.step_progress": {
+        "string": "{currentStep}/{totalSteps}"
     },
-    "whiteboard.shape_keywords.and": {
-        "string": "And"
+    "onboarding_pointers.teams_access_onboarding": {
+        "string": "根据组织的访问权限、成员所属的团队以及没有所有者的团队筛选团队。"
     },
-    "whiteboard.shape_keywords.step": {
-        "string": "Step"
+    "org.cost_breakdown.design_seats_figma_design_editor.seat_rename": {
+        "string": "{designSeats, plural, other {设计席位: {designSeats}}}"
     },
-    "whiteboard.shape_keywords.process": {
-        "string": "Process"
+    "org.cost_breakdown.dev_mode_seats": {
+        "string": "{quantity, plural, other {开发模式席位: {quantity}}}"
     },
-    "whiteboard.shape_keywords.comment": {
-        "string": "Comment"
+    "org.cost_breakdown.figjam_seats_fig_jam_editor_seats.seat_rename": {
+        "string": "{figjamSeats, plural, other {FigJam席位: {figjamSeats}}}"
     },
-    "whiteboard.shape_keywords.quote": {
-        "string": "Quote"
+    "org.cost_breakdown.invoice_subtotal": {
+        "string": "发票小计"
     },
-    "whiteboard.inline_menu.line_style": {
-        "string": "Line style"
+    "org.cost_breakdown.price_x_num_seats_x_remaining_months": {
+        "string": "{quantity, plural, other {{price} × {quantity}个席位 × {remainingMonthsText}}}"
     },
-    "whiteboard.inline_menu.line_style_label_singular": {
-        "string": "Line style, {currentLineStyle}"
+    "org.cost_breakdown.projected_subtotal": {
+        "string": "预计小计"
     },
-    "whiteboard.inline_menu.line_style_label_both": {
-        "string": "Line style, {currentStrokeWeight} {currentStrokeStyle}"
+    "org.cost_breakdown.remaining_months_remaining_months": {
+        "string": "剩余{remainingMonths}个月"
     },
-    "whiteboard.delightful_toolbar.thin": {
-        "string": "Thin"
+    "org_admin_authority_overlay.description": {
+        "string": "作为管理员，您进行的所有更改都将适用于整个组织。您声明并保证您有权代表组织行事。"
     },
-    "whiteboard.delightful_toolbar.thick": {
-        "string": "Thick"
+    "org_admin_authority_overlay.title": {
+        "string": "管理员须知："
     },
-    "whiteboard.inline_menu.stroke_solid": {
-        "string": "Solid"
+    "org_admin_details.billing_banner.details.upcoming_invoice.button.billing_groups": {
+        "string": "查看并确认发票"
     },
-    "whiteboard.inline_menu.stroke_dashed": {
-        "string": "Dashed"
+    "org_admin_details.billing_banner.details.upcoming_invoice.button.manage_seats": {
+        "string": "管理席位"
     },
-    "whiteboard.inline_menu.stroke_none": {
-        "string": "None"
+    "org_admin_details.billing_banner.details.upcoming_invoice.button.review_and_finalize_invoice": {
+        "string": "查看并确认发票"
     },
-    "whiteboard.inline_menu.inline_menu_label": {
-        "string": "Selection Properties Menu"
+    "org_admin_details.billing_banner.details.upcoming_invoice.subtitle": {
+        "string": "请转到[成员]选项卡以查看新的付费席位"
     },
-    "whiteboard.inline_menu.inline_menu_label_with_selected_node": {
-        "string": "Selection Properties Menu for {selectedNodeAriaLabel}"
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.contact_account_manager": {
+        "string": "请联系客户经理。"
     },
-    "whiteboard.inline_menu.image_description_explanation": {
-        "string": "This helps make your image accessible to more people."
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.renewal.actionable": {
+        "string": "年度更新发票计划于{date}生成。"
     },
-    "whiteboard.inline_menu.image_description_placeholder": {
-        "string": "Add a description"
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.renewal.due": {
+        "string": "组织的更新截止日期为{date}。"
     },
-    "whiteboard.inline_menu.variants": {
-        "string": "Variants"
+    "org_admin_details.billing_banner.details.upcoming_invoice.title.true_up": {
+        "string": "{date}的结算期间"
     },
-    "whiteboard.inline_menu.see_variants": {
-        "string": "See variants"
+    "org_admin_details.billing_banner.upcoming_invoice.subtitle.true_up.billing_groups.seat_rename": {
+        "string": "确认并锁定账单组的席位，然后确认发票。"
     },
-    "whiteboard.inline_menu.alignment_button": {
-        "string": "Alignment"
+    "org_admin_settings.banners.dev_mode_opt_in.enable_button": {
+        "string": "启用开发模式"
     },
-    "whiteboard.inline_menu.create_slides_outline": {
-        "string": "Create Figma Slides outline"
+    "org_admin_settings.banners.dev_mode_opt_in.secondary_text_no_requests": {
+        "string": "启用开发模式以管理成员的升级请求。"
     },
-    "whiteboard.inline_menu.ai_quick_actions_dropdown_mobile_disclaimer": {
-        "string": "FigJam AI (beta). Note: AI outputs can be misleading or wrong."
+    "org_admin_settings.banners.dev_mode_opt_in.secondary_text_with_requests": {
+        "string": "开发模式的免费测试期已结束。启用组织的开发模式以管理请求。"
     },
-    "whiteboard.text_sizes.custom": {
-        "string": "Custom"
+    "org_admin_settings.banners.dev_mode_opt_in.title_no_requests": {
+        "string": "开发模式的免费测试期已结束。"
     },
-    "whiteboard.inline_menu.font_size_mixed": {
-        "string": "Mixed sizes"
+    "org_admin_settings.banners.dev_mode_opt_in.title_with_99_plus_requests": {
+        "string": "99人以上申请使用开发模式"
     },
-    "whiteboard.fonts.simple": {
-        "string": "Simple"
+    "org_admin_settings.banners.dev_mode_opt_in.title_with_requests": {
+        "string": "{requestsCount, plural, other {开发模式的使用申请人数：{requestsCount}}}"
     },
-    "whiteboard.fonts.bookish": {
-        "string": "Bookish"
+    "org_admin_settings.banners.dev_mode_opt_in_success.secondary_text": {
+        "string": "现在可以批准开发模式的升级请求。"
     },
-    "whiteboard.fonts.technical": {
-        "string": "Technical"
+    "org_admin_settings.banners.dev_mode_opt_in_success.title": {
+        "string": "开发模式可用"
     },
-    "whiteboard.fonts.cute": {
-        "string": "Cute"
+    "org_admin_settings.billing.billing_groups": {
+        "string": "账单组"
     },
-    "whiteboard.inline_menu.font_family": {
-        "string": "Typeface"
+    "org_admin_settings.billing.billing_groups_empty_text.seat_rename": {
+        "string": "轻松追踪成本，分配管理员，并管理成员和席位。{learnMoreLink}"
     },
-    "whiteboard.inline_menu.font_family_label": {
-        "string": "Typeface, {currentFont}"
+    "org_admin_settings.billing.finalize_invoice_modal.badge.new_seats": {
+        "string": "新增：{seats}"
     },
-    "whiteboard.inline_menu.text_alignment": {
-        "string": "Text alignment"
+    "org_admin_settings.billing.finalize_invoice_modal.badge.not_yet_filled": {
+        "string": "未填：{seats}"
     },
-    "whiteboard.inline_menu.text_alignment_label": {
-        "string": "Text alignment, {currentTextAlignment}"
+    "org_admin_settings.billing.finalize_invoice_modal.button.cancel": {
+        "string": "取消"
     },
-    "whiteboard.text_sizes.omnipresent": {
-        "string": "Omnipresent"
+    "org_admin_settings.billing.finalize_invoice_modal.button.finalize_invoice": {
+        "string": "确认发票"
     },
-    "whiteboard.text_sizes.towering": {
-        "string": "Towering"
+    "org_admin_settings.billing.finalize_invoice_modal.checkbox": {
+        "string": "我理解确认后不可更改。确认后添加的席位将在下次发票中支付。"
     },
-    "whiteboard.text_sizes.mammoth": {
-        "string": "Mammoth"
+    "org_admin_settings.billing.finalize_invoice_modal.disclaimer_minimum_seats": {
+        "string": "您需支付合同中同意的最低席位数。"
     },
-    "whiteboard.text_sizes.ginormous": {
-        "string": "Ginormous"
+    "org_admin_settings.billing.finalize_invoice_modal.invoice_total": {
+        "string": "发票总额"
     },
-    "whiteboard.text_sizes.huge": {
-        "string": "Huge"
+    "org_admin_settings.billing.finalize_invoice_modal.num_seats.design": {
+        "string": "{seats, plural, other {设计席位：{seats}}}"
     },
-    "whiteboard.text_sizes.extra_large": {
-        "string": "Extra large"
+    "org_admin_settings.billing.finalize_invoice_modal.num_seats.dev_mode": {
+        "string": "{seats, plural, other {开发模式席位：{seats}}}"
     },
-    "whiteboard.text_sizes.large": {
-        "string": "Large"
+    "org_admin_settings.billing.finalize_invoice_modal.num_seats.figjam": {
+        "string": "{seats, plural, other {FigJam席位：{seats}}}"
     }
 }

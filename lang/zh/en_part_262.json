@@ -1,152 +1,152 @@
 {
-    "ai_text_tools.translate.language.japanese": {
-        "string": "Japanese"
+    "pro_trials_v3.downgrade_modal.feature_downgrade.consumption_limit.description": {
+        "string": "どのファイルをドラフトに移し、どのファイルを残すかを決めるまで、ファイルは閲覧のみになります。"
     },
-    "ai_text_tools.translate.language.korean": {
-        "string": "Korean"
+    "pro_trials_v3.downgrade_modal.feature_downgrade.consumption_limit.title": {
+        "string": "チームで使用するファイルとプロジェクトの数をそれぞれ{maxNumOfFiles}と{maxNumOfProjects}に減らす必要があります。"
     },
-    "ai_text_tools.translate.language.malay": {
-        "string": "Malay"
+    "pro_trials_v3.downgrade_modal.feature_downgrade.other.description": {
+        "string": "オープンセッション、ファイルのパスワード保護、自動会話など、プロフェッショナルプランの機能をすべて利用できなくなります。"
     },
-    "ai_text_tools.translate.language.polish": {
-        "string": "Polish"
+    "pro_trials_v3.downgrade_modal.feature_downgrade.other.title": {
+        "string": "利用できるのは、スタータープランの限られた機能だけになります。"
     },
-    "ai_text_tools.translate.language.portuguese_brazil": {
-        "string": "Portuguese (Brazil)"
+    "pro_trials_v3.downgrade_modal.feature_downgrade.team_library.description": {
+        "string": "プロフェッショナルプランをお試しいただき、ありがとうございます。更新または編集なしで継続して利用できます。"
     },
-    "ai_text_tools.translate.language.portuguese_portugal": {
-        "string": "Portuguese (Portugal)"
+    "pro_trials_v3.downgrade_modal.feature_downgrade.team_library.title": {
+        "string": "デザインライブラリに変更内容を公開できなくなります。"
     },
-    "ai_text_tools.translate.language.russian": {
-        "string": "Russian"
+    "pro_trials_v3.downgrade_modal.text_cta.text": {
+        "string": "気が変わりました"
     },
-    "ai_text_tools.translate.language.spanish_latin_america": {
-        "string": "Spanish (Latin America)"
+    "pro_trials_v3.downgrade_modal.title": {
+        "string": "スタータープランに戻る"
     },
-    "ai_text_tools.translate.language.spanish_spain": {
-        "string": "Spanish (Spain)"
+    "pro_trials_v3.entry_modal_bullet_pt_1": {
+        "string": "プロフェッショナルプランのすべての機能とツールを利用可能"
     },
-    "ai_text_tools.translate.language.swedish": {
-        "string": "Swedish"
+    "pro_trials_v3.entry_modal_bullet_pt_2": {
+        "string": "ファイルとFigJamの数が無制限"
     },
-    "ai_text_tools.translate.language.tamil": {
-        "string": "Tamil"
+    "pro_trials_v3.entry_modal_bullet_pt_3": {
+        "string": "お支払方法不要"
     },
-    "ai_text_tools.translate.language.thai": {
-        "string": "Thai"
+    "pro_trials_v3.entry_modal_cta_text": {
+        "string": "プロフェッショナルのトライアルを開始"
     },
-    "ai_text_tools.translate.language.turkish": {
-        "string": "Turkish"
+    "pro_trials_v3.entry_modal_explanation": {
+        "string": "あなたとチームがFigmaのプロフェッショナルプランの無料トライアルの資格を獲得しました。14 日間、以下の体験ができます。"
     },
-    "ai_text_tools.translate.language.ukrainian": {
-        "string": "Ukrainian"
+    "pro_trials_v3.entry_modal_title": {
+        "string": "ファイルの数が無制限"
     },
-    "ai_text_tools.translate.language.urdu": {
-        "string": "Urdu"
+    "pro_trials_v3.expiry_modal_cta_text": {
+        "string": "プランをアップグレード"
     },
-    "ai_text_tools.translate.language.vietnamese": {
-        "string": "Vietnamese"
+    "pro_trials_v3.expiry_modal_explanation": {
+        "string": "プロフェッショナルプランを継続することも、スターターに戻ることもできます。"
     },
-    "ai_text_tools.translate.running": {
-        "string": "Translating..."
+    "pro_trials_v3.expiry_modal_secondary_cta_text": {
+        "string": "スターターに戻る"
     },
-    "first_draft.making_changes": {
-        "string": "Making changes…"
+    "pro_trials_v3.expiry_modal_title": {
+        "string": "トライアル期間が終了しました"
     },
-    "first_draft.make_changes": {
-        "string": "Make changes"
+    "pro_trials_v3.pro_trial_initiation_modal.agency": {
+        "string": "代理店"
     },
-    "first_draft.done_theming": {
-        "string": "Done"
+    "pro_trials_v3.pro_trial_initiation_modal.cancel": {
+        "string": "キャンセル"
     },
-    "first_draft.style": {
-        "string": "Style"
+    "pro_trials_v3.pro_trial_initiation_modal.component_libraries": {
+        "string": "コンポーネントライブラリの作成"
     },
-    "first_draft.prompt": {
-        "string": "Prompt"
+    "pro_trials_v3.pro_trial_initiation_modal.continue": {
+        "string": "続行"
     },
-    "first_draft.something_went_wrong": {
-        "string": "Something went wrong"
+    "pro_trials_v3.pro_trial_initiation_modal.editors.seat_rename": {
+        "string": "{numEditors, plural, other {{numEditors}シート}}"
     },
-    "first_draft.make_changes.i_cant_do_this": {
-        "string": "Try adjusting fonts, colors, or layout"
+    "pro_trials_v3.pro_trial_initiation_modal.everyone_will_be_upgraded": {
+        "string": "全員がプロフェッショナルに自動的にアップグレードされます"
     },
-    "first_draft.running": {
-        "string": "Working..."
+    "pro_trials_v3.pro_trial_initiation_modal.finish": {
+        "string": "完了"
     },
-    "first_draft.generate": {
-        "string": "Make it"
+    "pro_trials_v3.pro_trial_initiation_modal.freelancer": {
+        "string": "フリーランサー"
     },
-    "first_draft.no_design_generated": {
-        "string": "No design can be generated for this prompt"
+    "pro_trials_v3.pro_trial_initiation_modal.go_back": {
+        "string": "戻る"
     },
-    "first_draft.x_of_y_images": {
-        "string": "Image {loaded} of {total}"
+    "pro_trials_v3.pro_trial_initiation_modal.inviting_visitors": {
+        "string": "ファイルに参加するようビジターを招待する"
     },
-    "voting.modal.during_voting_no_votes_dropdown": {
-        "string": "Decisions, decisions…"
+    "pro_trials_v3.pro_trial_initiation_modal.not_being_nosy": {
+        "string": "ただのお節介ではありません。この情報でFigmaをさらに便利に利用できます。"
     },
-    "design_systems.assets_panel.updated_at": {
-        "string": "Updated {updatedAt}"
+    "pro_trials_v3.pro_trial_initiation_modal.organizing_files": {
+        "string": "ファイルとプロジェクトを詳細に整理する"
     },
-    "design_systems.assets_panel.frames": {
-        "string": "Frames"
+    "pro_trials_v3.pro_trial_initiation_modal.other_team_type": {
+        "string": "全く別のもの"
     },
-    "design_systems.assets_panel.show_more": {
-        "string": "Show more"
+    "pro_trials_v3.pro_trial_initiation_modal.pick_a_team": {
+        "string": "トライアル対象のチームを選択します"
     },
-    "design_systems.assets_panel.show_less": {
-        "string": "Show less"
+    "pro_trials_v3.pro_trial_initiation_modal.playing_videos": {
+        "string": "ファイル内で動画を再生する"
     },
-    "design_systems.assets_panel.publish_library": {
-        "string": "Publish library"
+    "pro_trials_v3.pro_trial_initiation_modal.product": {
+        "string": "製品またはブランド"
     },
-    "design_systems.assets_panel.remove_library_from_file": {
-        "string": "Remove library from file"
+    "pro_trials_v3.pro_trial_initiation_modal.sharing_files": {
+        "string": "ファイルを柔軟に共有する"
     },
-    "design_systems.assets_panel.go_to_library": {
-        "string": "Go to library"
+    "pro_trials_v3.pro_trial_initiation_modal.step_counter": {
+        "string": "ステップ{currentStep}/{totalSteps}"
     },
-    "design_systems.assets_panel.go_to_page": {
-        "string": "Go to page"
+    "pro_trials_v3.pro_trial_initiation_modal.unlimited_files": {
+        "string": "ファイルとボードを制限なく作成する"
     },
-    "google_device_try_file_modal.claim_success.header": {
-        "string": "This board is now saved"
+    "pro_trials_v3.pro_trial_initiation_modal.upgrade_to_pro": {
+        "string": "プロフェッショナルにアップグレード"
     },
-    "google_device_try_file_modal.claim_success.description": {
-        "string": "Continue to jam for however long you like. All changes will be saved. The 24 hour limit is gone."
+    "pro_trials_v3.pro_trial_initiation_modal.using_audio": {
+        "string": "ファイル内で音声を使用する"
     },
-    "google_device_try_file_modal.claim_success.button": {
-        "string": "Continue"
+    "pro_trials_v3.pro_trial_initiation_modal.voting_workshopping": {
+        "string": "投票とワークショップを実施する"
     },
-    "gen1_design_viewer_onboarding.slide_with_two_fingers_to_move_on_a_trackpad": {
-        "string": "Slide with two fingers to move on a trackpad"
+    "pro_trials_v3.pro_trial_initiation_modal.what_are_you_excited": {
+        "string": "どの機能を試してみたいですか?"
     },
-    "gen1_design_viewer_onboarding.pinch_to_zoom_on_a_trackpad": {
-        "string": "Pinch to zoom on a trackpad"
+    "pro_trials_v3.pro_trial_initiation_modal.what_type_of_team": {
+        "string": "{teamName}はどんなチームですか?"
     },
-    "gen1_design_viewer_onboarding.hold_keyboard_shortcut_click_and_drag_with_your_mouse": {
-        "string": "Hold {keyboardShortcut}, click, and drag with your mouse"
+    "pro_trials_v3.pro_trial_initiation_modal.you_have_14_days": {
+        "string": "{proTrialDuration}日間のトライアルとサンプルを数多くご用意しています。ご興味のあるものをお知らせください。"
     },
-    "gen1_design_viewer_onboarding.right_click_and_drag_to_pan_with_your_mouse": {
-        "string": "Right-click and drag to pan with your mouse"
+    "pro_trials_v3.pro_trial_initiation_modal.your_team": {
+        "string": "自分のチーム"
     },
-    "gen1_design_viewer_onboarding.hold_and_scroll_your_mouse": {
-        "string": "Hold {keyboardShortcut} and scroll your mouse"
+    "pro_trials_v3.team_welcome_modal_cta": {
+        "string": "開始"
     },
-    "gen1_design_viewer_onboarding.use_the_scroll_wheel_to_zoom_with_a_mouse": {
-        "string": "Use the scroll wheel to zoom with a mouse"
+    "pro_trials_v3.team_welcome_modal_explanation": {
+        "string": "チームがFigmaプロフェッショナルプラン無料トライアルにアップグレードされました。トライアルの残り期間、以下の体験ができます。"
     },
-    "whiteboard.inserts.development_options_import": {
-        "string": "Import from manifest…"
+    "pro_trials_v3.team_welcome_modal_title": {
+        "string": "無料のプロフェッショナルトライアルへようこそ"
     },
-    "community.detail_view.invitations": {
-        "string": "Invitations"
+    "flash.redeem_promo.failure": {
+        "string": "プロモーションコードを使用できません、"
     },
-    "qa.no_plugins_widgets_found": {
-        "string": "No plugins or widgets found"
+    "flash.redeem_promo.success": {
+        "string": "{teamName}は、プロフェッショナルプランに正常にアップグレードされました"
     },
-    "first_draft.made_by_figma": {
-        "string": "Made by Figma"
+    "promo.promo_review.any_additional_editors_invited_to_selected_view_team_name_will_also_be_free_of_charge_for_the_next_days.seat_rename": {
+        "string": "{days, plural, other {{teamName}のメンバーで編集アクセス権を付与されたユーザーは、今後{days}日間無料になります}}"
     }
 }

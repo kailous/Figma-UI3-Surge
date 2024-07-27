@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.stop": {
-        "string": "Stop"
+    "design_systems.libraries_modal.open_in_file": {
+        "string": "在文件中打开"
     },
-    "fullscreen.properties_panel.play": {
-        "string": "Play"
+    "design_systems.libraries_modal.other_libraries": {
+        "string": "其他库"
     },
-    "fullscreen.properties_panel.image_settings.swap_image": {
-        "string": "Swap image"
+    "design_systems.libraries_modal.other_teams": {
+        "string": "其他团队"
     },
-    "fullscreen.properties_panel.image_settings.upload_new": {
-        "string": "Upload new"
+    "design_systems.libraries_modal.overview": {
+        "string": "概述"
     },
-    "fullscreen.properties_panel.image_settings.generate_new": {
-        "string": "Generate new"
+    "design_systems.libraries_modal.plural.component": {
+        "string": "{componentCount, plural, other {组件}}"
     },
-    "fullscreen.properties_panel.choose_image": {
-        "string": "Choose image"
+    "design_systems.libraries_modal.plural.file": {
+        "string": "{fileCount, plural, other {文件}}"
     },
-    "fullscreen.properties_panel.video_time": {
-        "string": "Video time"
+    "design_systems.libraries_modal.plural.includes_missing_library": {
+        "string": "{missingLibCount, plural, other {包含{missingLibCount}个缺失的库}}"
     },
-    "fullscreen.properties_panel.pause": {
-        "string": "Pause"
+    "design_systems.libraries_modal.plural.insert": {
+        "string": "{insertCount, plural, other {插入}}"
     },
-    "fullscreen.properties_panel.click_plus_to_replace_mixed_export_settings": {
-        "string": "Click + to replace mixed export settings"
+    "design_systems.libraries_modal.plural.instance": {
+        "string": "{instanceCount, plural, other {实例}}"
     },
-    "proto.prototype_panel.reset_interactions": {
-        "string": "Reset interactions"
+    "design_systems.libraries_modal.plural.library": {
+        "string": "{libraryCount, plural, other {库}}"
     },
-    "fullscreen.draggable_list.add": {
-        "string": "Add"
+    "design_systems.libraries_modal.plural.missing_library": {
+        "string": "{missingLibCount, plural, other {缺失的库}}"
     },
-    "fullscreen.draggable_list.scroll_behavior": {
-        "string": "Scroll behavior"
+    "design_systems.libraries_modal.plural.num_component": {
+        "string": "{numComponents, plural, other {{numComponents}个组件}}"
     },
-    "fullscreen.toolbar.prototyping-visibility": {
-        "string": "Prototyping visibility"
+    "design_systems.libraries_modal.plural.num_component_match": {
+        "string": "{numComponents, plural, other {{numComponents}个匹配的组件}}"
     },
-    "design_systems.styles.properties": {
-        "string": "Properties"
+    "design_systems.libraries_modal.plural.num_components_shown": {
+        "string": "{numComponents, plural, other {{numComponents}个库组件已显示。当前未追踪样式的使用。}}"
     },
-    "properties_panel.effects.effects": {
-        "string": "Effects"
+    "design_systems.libraries_modal.plural.num_library": {
+        "string": "{count, plural, other {{count}个库}}"
     },
-    "fullscreen.properties_panel.section_effects.tooltip_addEffect": {
-        "string": "Add effect"
+    "design_systems.libraries_modal.plural.num_style": {
+        "string": "{numStyles, plural, other {{numStyles}个样式}}"
     },
-    "properties_panel.effects.effect_settings": {
-        "string": "Effect settings"
+    "design_systems.libraries_modal.plural.num_style_match": {
+        "string": "{numStyles, plural, other {{numStyles}个匹配的样式}}"
     },
-    "fullscreen.properties_panel.tooltip_remove": {
-        "string": "Remove"
+    "design_systems.libraries_modal.plural.num_teams_total": {
+        "string": "{teamCount, plural, other {共{teamCount}个团队}}"
     },
-    "properties_panel.effects.remove_effect": {
-        "string": "Remove effect"
+    "design_systems.libraries_modal.plural.num_templates": {
+        "string": "{numTemplates, plural, other {{numTemplates}个模板}}"
     },
-    "fullscreen.color_picker.effect_color": {
-        "string": "Effect color"
+    "design_systems.libraries_modal.plural.num_templates_match": {
+        "string": "{numTemplates, plural, other {{numTemplates}个匹配的模板}}"
     },
-    "properties_panel.effects.x": {
-        "string": "X"
+    "design_systems.libraries_modal.plural.num_variable_collection_match": {
+        "string": "{numVariableCollections, plural, other {{numVariableCollections}个匹配的变量集合}}"
     },
-    "properties_panel.effects.y": {
-        "string": "Y"
+    "design_systems.libraries_modal.plural.num_variable_match": {
+        "string": "{numVariables, plural, other {{numVariables}个匹配的变量}}"
     },
-    "properties_panel.effects.blur": {
-        "string": "Blur"
+    "design_systems.libraries_modal.plural.num_variables": {
+        "string": "{numVariables, plural, other {{numVariables}个变量}}"
     },
-    "properties_panel.effects.b": {
-        "string": "B"
+    "design_systems.libraries_modal.plural.style": {
+        "string": "{styleCount, plural, other {样式}}"
     },
-    "properties_panel.effects.spread": {
-        "string": "Spread"
+    "design_systems.libraries_modal.plural.team": {
+        "string": "{teamCount, plural, other {团队}}"
     },
-    "properties_panel.effects.s": {
-        "string": "S"
+    "design_systems.libraries_modal.plural.variable_collections": {
+        "string": "{numVariableCollections, plural, other {{numVariableCollections}个变量集合}}"
     },
-    "properties_panel.effects.show_behind_transparent_areas": {
-        "string": "Show behind transparent areas"
+    "design_systems.libraries_modal.presets.explore_presets": {
+        "string": "查看Figma及其合作伙伴创建的UI工具包。"
     },
-    "properties_panel.effects.spread_fills_warning": {
-        "string": "Only supported for frames or components with visible fill paints"
+    "design_systems.libraries_modal.presets.start_browsing": {
+        "string": "开始浏览"
     },
-    "properties_panel.effects.spread_clip_warning": {
-        "string": "Only supported for frames or components when \"Clip content\" is enabled"
+    "design_systems.libraries_modal.publish": {
+        "string": "发布..."
     },
-    "properties_panel.effects.spread_rect_ellipse_warning": {
-        "string": "Only supported for rectangles, ellipses, frames, and components"
+    "design_systems.libraries_modal.publish_changes": {
+        "string": "发布更改"
     },
-    "properties_panel.effects.blur_radius": {
-        "string": "Blur radius"
+    "design_systems.libraries_modal.publish_components_as_a_library": {
+        "string": "将组件作为库发布"
     },
-    "properties_panel.effects.color": {
-        "string": "Color"
+    "design_systems.libraries_modal.publishing": {
+        "string": "发布中"
     },
-    "fullscreen.properties_panel.effects.position": {
-        "string": "Position"
+    "design_systems.libraries_modal.remove": {
+        "string": "移除"
     },
-    "fullscreen.properties_panel.effects.blur": {
-        "string": "Blur"
+    "design_systems.libraries_modal.remove_library": {
+        "string": "移除库"
     },
-    "fullscreen.properties_panel.effects.spread": {
-        "string": "Spread"
+    "design_systems.libraries_modal.remove_library_modal_title": {
+        "string": "是否从库中移除？"
     },
-    "fullscreen.properties_panel.include_id_attribute": {
-        "string": "Include \"id\" attribute"
+    "design_systems.libraries_modal.search_query_best_matches": {
+        "string": "“{searchQuery}”的最佳匹配"
     },
-    "fullscreen.properties_panel.outline_text": {
-        "string": "Outline Text"
+    "design_systems.libraries_modal.searching": {
+        "string": "搜索中..."
     },
-    "fullscreen.properties_panel.simplify_stroke": {
-        "string": "Simplify Stroke"
+    "design_systems.libraries_modal.select_library": {
+        "string": "选择库"
     },
-    "fullscreen.properties_panel.ignore_overlapping_layers": {
-        "string": "Ignore overlapping layers"
+    "design_systems.libraries_modal.share_components_on_new_plan": {
+        "string": "{upgradePlanText}，与团队共享组件。"
     },
-    "fullscreen.properties_panel.include_bounding_box": {
-        "string": "Include bounding box"
+    "design_systems.libraries_modal.shared_fonts": {
+        "string": "共享字体"
     },
-    "fullscreen.properties_panel.export_settings_color_profile.document": {
-        "string": "Same as file ({documentColorProfile})"
+    "design_systems.libraries_modal.show_enabled_libraries_filter": {
+        "string": "仅显示启用的库"
     },
-    "fullscreen.properties_panel.export_settings_color_profile.display_p3": {
-        "string": "Display P3"
+    "design_systems.libraries_modal.showing_x_variant": {
+        "string": "显示此组件的{variantCount}个变体。选择特定的变体，查看详细信息并了解其用途。"
     },
-    "fullscreen.properties_panel.export_suffix_placeholder": {
-        "string": "Add Suffix"
+    "design_systems.libraries_modal.slides": {
+        "string": "幻灯片"
     },
-    "fullscreen.properties_panel.export_suffix": {
-        "string": "Suffix"
+    "design_systems.libraries_modal.styles": {
+        "string": "样式"
     },
-    "fullscreen.properties_panel.export_layer_names_using_id_attributes": {
-        "string": "Export layer names using id attributes"
+    "design_systems.libraries_modal.swap_asset": {
+        "string": "交换资产"
     },
-    "fullscreen.properties_panel.export_text_as_outlined_path_element": {
-        "string": "Export text as outlined <path> element"
+    "design_systems.libraries_modal.swap_default_styles_in_instances": {
+        "string": "在实例中交换默认样式。"
     },
-    "fullscreen.properties_panel.export_stroke_as_inlined_path_element": {
-        "string": "Export stroke as inlined <path> element"
+    "design_systems.libraries_modal.swap_library": {
+        "string": "交换库"
     },
-    "fullscreen.properties_panel.export": {
-        "string": "Export"
+    "design_systems.libraries_modal.team": {
+        "string": "团队"
     },
-    "fullscreen.properties_panel.export_suffix_label": {
-        "string": "Suffix"
+    "design_systems.libraries_modal.team_settings": {
+        "string": "团队设置"
     },
-    "fullscreen.properties_panel.export_settings_color_profile": {
-        "string": "Color profile"
+    "design_systems.libraries_modal.teams_and_libraries": {
+        "string": "团队和库"
     }
 }

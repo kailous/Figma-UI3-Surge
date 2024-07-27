@@ -1,152 +1,152 @@
 {
-    "whiteboard.inserts.widget_development_import_manifest": {
-        "string": "Import manifest"
+    "fullscreen_actions.add-prototype-starting-point": {
+        "string": "添加原型起点"
     },
-    "whiteboard.inserts.widget_development_error_modal_close": {
-        "string": "Close"
+    "fullscreen_actions.add-table-column-after": {
+        "string": "在右侧添加列"
     },
-    "universal_insert.in_development_version": {
-        "string": "In-development version"
+    "fullscreen_actions.add-table-column-before": {
+        "string": "在左侧添加列"
     },
-    "universal_insert.published_version": {
-        "string": "Published version"
+    "fullscreen_actions.add-table-row-above": {
+        "string": "在上方添加行"
     },
-    "dev_handoff.inspect_panel.unpin": {
-        "string": "Unpin from top"
+    "fullscreen_actions.add-table-row-below": {
+        "string": "在下方添加行"
     },
-    "dev_handoff.inspect_panel.pin": {
-        "string": "Pin to top"
+    "fullscreen_actions.add-title": {
+        "string": "添加标题"
     },
-    "dev_handoff.inspect_panel.auto_run": {
-        "string": "Run automatically for all files"
+    "fullscreen_actions.add-variant": {
+        "string": "添加变体"
     },
-    "universal_insert.copy_link": {
-        "string": "Copy link"
+    "fullscreen_actions.adjust_font_size": {
+        "string": "调整字体大小"
     },
-    "universal_insert.view_details": {
-        "string": "View details"
+    "fullscreen_actions.adjust_font_weight": {
+        "string": "调整字体粗细"
     },
-    "universal_insert.locate_local_version": {
-        "string": "Locate local version…"
+    "fullscreen_actions.adjust_letter_spacing": {
+        "string": "调整字间距"
     },
-    "browse_templates_modal_sidebar.get_started": {
-        "string": "Get started"
+    "fullscreen_actions.adjust_line_height": {
+        "string": "调整行高"
     },
-    "browse_templates_modal.context_menu.copy_link": {
-        "string": "Copy link"
+    "fullscreen_actions.after_selecting_points": {
+        "string": "选择点之后..."
     },
-    "browse_templates_modal.context_menu.view_original_file": {
-        "string": "View original file"
+    "fullscreen_actions.align-bottom": {
+        "string": "底部对齐"
     },
-    "browse_templates_modal_content.see_more_in_community": {
-        "string": "See more in Community"
+    "fullscreen_actions.align-bottom-to-frame": {
+        "string": "底部对齐到框架"
     },
-    "browse_templates_modal.view_details": {
-        "string": "View details"
+    "fullscreen_actions.align-center": {
+        "string": "居中对齐"
     },
-    "browse_templates_modal.my_teams_only": {
-        "string": "My teams only"
+    "fullscreen_actions.align-horizontal-center": {
+        "string": "水平居中对齐"
     },
-    "browse_templates_modal.other_teams": {
-        "string": "Other teams"
+    "fullscreen_actions.align-horizontal-center-to-frame": {
+        "string": "水平居中对齐到框架"
     },
-    "browse_templates_modal.my_teams": {
-        "string": "My teams"
+    "fullscreen_actions.align-left": {
+        "string": "左对齐"
     },
-    "browse_templates_modal.all_others": {
-        "string": "All others"
+    "fullscreen_actions.align-left-to-frame": {
+        "string": "左对齐到框架"
     },
-    "browse_templates_modal.published_from": {
-        "string": "Published from:"
+    "fullscreen_actions.align-right": {
+        "string": "右对齐"
     },
-    "browse_templates_modal.published_by_current_org_name": {
-        "string": "Published by {orgName}"
+    "fullscreen_actions.align-right-to-frame": {
+        "string": "右对齐到框架"
     },
-    "browse_templates_modal.none_selected": {
-        "string": "None selected"
+    "fullscreen_actions.align-top": {
+        "string": "顶部对齐"
     },
-    "browse_templates_modal.all_workspaces": {
-        "string": "All workspaces"
+    "fullscreen_actions.align-top-to-frame": {
+        "string": "顶部对齐到框架"
     },
-    "browse_templates_modal.all_teams": {
-        "string": "All teams"
+    "fullscreen_actions.align-vertical-center": {
+        "string": "垂直居中对齐"
     },
-    "browse_templates_modal.first_name_count_more": {
-        "string": "{firstName} + {count} more"
+    "fullscreen_actions.align-vertical-center-to-frame": {
+        "string": "垂直居中对齐到框架"
     },
-    "browse_templates_modal.subcategory.activity": {
-        "string": "By activity"
+    "fullscreen_actions.align_centers": {
+        "string": "对齐中心"
     },
-    "browse_templates_modal.subcategory.role": {
-        "string": "By role"
+    "fullscreen_actions.align_left_right": {
+        "string": "左右对齐"
     },
-    "bug_reporter.warning_asana_board": {
-        "string": "Bug Reporter testing board"
+    "fullscreen_actions.align_top_bottom": {
+        "string": "上下对齐"
     },
-    "bug_reporter.modal.loading": {
-        "string": "Loading…"
+    "fullscreen_actions.always_show_tabs_when_presenting": {
+        "string": "演示时始终显示标签"
     },
-    "bug_reporter.drop_attachments": {
-        "string": "Drag and drop to add images, videos, or GIFs."
+    "fullscreen_actions.arrange-menu": {
+        "string": "排列"
     },
-    "bug_reporter.asana_hint": {
-        "string": "If you already have an Asana task for your bug, paste the link to attach environment metadata to the report."
+    "fullscreen_actions.arrow_tool": {
+        "string": "箭头工具"
     },
-    "bug_reporter.modal.title": {
-        "string": "Title"
+    "fullscreen_actions.back-to-files": {
+        "string": "返回文件"
     },
-    "bug_reporter.modal.severity": {
-        "string": "Severity"
+    "fullscreen_actions.backup-all-overrides": {
+        "string": "备份文档的所有重写到剪贴板"
     },
-    "bug_reporter.modal.product_area": {
-        "string": "Product area"
+    "fullscreen_actions.bend_tool": {
+        "string": "弯曲工具"
     },
-    "bug_reporter.modal.description": {
-        "string": "Description"
+    "fullscreen_actions.bold_and_italic": {
+        "string": "加粗/斜体"
     },
-    "bug_reporter.modal.images_and_videos": {
-        "string": "Images and videos"
+    "fullscreen_actions.boolean-menu": {
+        "string": "布尔组"
     },
-    "bug_reporter.profiler.title": {
-        "string": "Record a performance profile"
+    "fullscreen_actions.bring-forward": {
+        "string": "前移"
     },
-    "bug_reporter.profiler.profile_attached": {
-        "string": "Profile attached"
+    "fullscreen_actions.bring-to-front": {
+        "string": "移至最前"
     },
-    "bug_reporter.modal.include_filekey_info": {
-        "string": "Uncheck this if your file contains private or sensitive content"
+    "fullscreen_actions.browse-all-resources-dlt": {
+        "string": "浏览所有资源"
     },
-    "bug_reporter.modal.cancel": {
-        "string": "Cancel"
+    "fullscreen_actions.browse-all-resources-dlt-description": {
+        "string": "小部件、贴纸等"
     },
-    "bug_reporter.success_message": {
-        "string": "Thanks for filing!"
+    "fullscreen_actions.browse-all-resources-dlt-overflow": {
+        "string": "还有很多其他功能"
     },
-    "bug_reporter.asana_link": {
-        "string": "Open in Asana"
+    "fullscreen_actions.browse-all-resources-dlt-overflow-description": {
+        "string": "小部件、贴纸等"
     },
-    "bug_reporter.copy_link": {
-        "string": "Copy link"
+    "fullscreen_actions.browse-all-resources-modal": {
+        "string": "浏览所有资源"
     },
-    "bug_reporter.urgent_bug_info": {
-        "string": "If this is an urgent bug please {notifyTheRelevantOncall}"
+    "fullscreen_actions.bulleted_and_numbered_list": {
+        "string": "转换为列表"
     },
-    "bug_reporter.notify_oncall": {
-        "string": "notify the relevant oncall"
+    "fullscreen_actions.calculate-deleted-components-published-version": {
+        "string": "计算逻辑删除的组件的发布状态"
     },
-    "bug_reporter.open_slack_discussion": {
-        "string": "Open Slack discussion"
+    "fullscreen_actions.cancel-last-animation": {
+        "string": "取消最后一次动画"
     },
-    "bug_reporter.error_invalid_asana_url": {
-        "string": "Invalid Asana URL"
+    "fullscreen_actions.canvas-search-replace": {
+        "string": "搜索和替换..."
     },
-    "bug_reporter.submitting_visual_bell": {
-        "string": "Submitting…"
+    "fullscreen_actions.change_variant": {
+        "string": "更改变体"
     },
-    "bug_reporter.long_submitting_visual_bell": {
-        "string": "This may take a while. You may continue to work in the background."
+    "fullscreen_actions.choose_instance": {
+        "string": "选择实例"
     },
-    "bug_reporter.modal.asana_link_placeholder": {
-        "string": "Asana link"
+    "fullscreen_actions.clear-component-props-data-for-selection": {
+        "string": "清除所选范围的所有组件属性"
     }
 }

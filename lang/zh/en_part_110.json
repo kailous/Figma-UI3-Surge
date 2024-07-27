@@ -1,152 +1,152 @@
 {
-    "community.detail_view.third_party_badge.figma_partner_tooltip": {
-        "string": "Separate login may be required"
+    "dev_handoff.workflows.overview.pages_count": {
+        "string": "{count, plural, other {有设计的页面数: {count}}}"
     },
-    "community.detail_view.third_party_badge.off_platform_purchase_tooltip": {
-        "string": "This resource may require users to make purchases outside of Figma"
+    "dev_handoff.workflows.overview.search_placeholder": {
+        "string": "搜索"
     },
-    "browse_templates_modal.browse_more_in_community": {
-        "string": "Browse more in Community"
+    "dev_handoff.workflows.overview.sections_count": {
+        "string": "{count, plural, other {{count}个部分}}"
     },
-    "browse_templates_modal_sidebar.see_more_in_community": {
-        "string": "See more in Community"
+    "dev_handoff.workflows.overview.show_on_page_action": {
+        "string": "在页面上显示"
     },
-    "browse_templates_modal.all_templates": {
-        "string": "All templates"
+    "dev_handoff.workflows.overview.sort_alphabetical": {
+        "string": "按名称(A-Z)排序"
     },
-    "browse_templates_modal.search_templates": {
-        "string": "Search templates"
+    "dev_handoff.workflows.overview.sort_by": {
+        "string": "排序依据"
     },
-    "whiteboard.inserts.custom_templates_header": {
-        "string": "Create custom templates"
+    "dev_handoff.workflows.overview.sort_pages": {
+        "string": "页面"
     },
-    "whiteboard.inserts.custom_templates_description": {
-        "string": "Turn your favorite files into templates—so you and your team can reuse them with a click."
+    "dev_handoff.workflows.overview.sort_recent": {
+        "string": "最近活动"
     },
-    "whiteboard.inserts.learn_more": {
-        "string": "Learn more"
+    "dev_handoff.workflows.overview.tab_all": {
+        "string": "全部"
     },
-    "whiteboard.inserts.dismiss": {
-        "string": "Dismiss"
+    "dev_handoff.workflows.overview.tab_completed": {
+        "string": "已完成"
     },
-    "bug_reporter.profiler.start": {
-        "string": "Start profiling"
+    "dev_handoff.workflows.overview.tab_ready": {
+        "string": "准备完成"
     },
-    "bug_reporter.profiler.stop": {
-        "string": "Finish"
+    "dev_handoff.workflows.overview.tab_recent": {
+        "string": "最近查看"
     },
-    "bug_reporter.profiler.collecting_profile": {
-        "string": "Collecting profile…"
+    "dev_handoff.workflows.overview.title": {
+        "string": "开发准备完成"
     },
-    "settings.account_settings.change_job_title_modal_title": {
-        "string": "What kind of work do you do?"
+    "dev_mode.you_will_be_notified_about_status_changes": {
+        "string": "将通知您状态的变更"
     },
-    "community.change_profile_handle_modal.check_your_email": {
-        "string": "Check your email"
+    "developer_app_docs.an_array_with_the_same_number_of_elements_as_lines_in_the_text_box_each_element_corresponds_to_that_line_s_list_type_list_types_are_string_enums_with_the_following_values": {
+        "string": "包含与文本节点行数相同数量元素的数组。文本节点中的行由换行符或段落分隔符分隔。数组中的每个元素对应于特定行的列表类型。列表类型表示为具有以下值的字符串枚举之一。"
     },
-    "community.change_profile_handle_modal.new_verification_email_sent": {
-        "string": "New verification email sent"
+    "developer_app_docs.an_array_with_the_same_number_of_elements_as_lines_in_the_text_node_each_element_in_the_array_corresponds_to_the_indentation_level_of_a_specific_line": {
+        "string": "包含与文本节点行数相同数量元素的数组。文本节点中的行由换行符或段落分隔符分隔。数组中的每个元素对应于特定行的缩进级别。"
     },
-    "community.change_profile_handle_modal.verify_email_prompt": {
-        "string": "To join Figma’s Community, you'll first need to verify your email."
+    "developer_app_docs.text_is_an_ordered_list_numbered": {
+        "string": "文本是有序列表（编号）"
     },
-    "community.change_profile_handle_modal.sent_email": {
-        "string": "We just sent a link to {email}. Click it, then come back here to claim your profile handle!"
+    "developer_app_docs.text_is_an_unordered_list_bulleted": {
+        "string": "文本是无序列表（项目符号）"
     },
-    "community.profiles.email": {
-        "string": "email"
+    "developer_app_docs.text_is_plain_text_and_not_part_of_any_list": {
+        "string": "文本是纯文本，不属于任何列表的一部分"
     },
-    "community.change_profile_handle_modal.no_email_check_spam_or_click_resend_email_below": {
-        "string": "No email? Check spam or click \"Resend email\" below."
+    "fullscreeen.type_panel.resizing": {
+        "string": "调整大小"
     },
-    "community.change_profile_handle_modal.change_your_unique_profile_handle": {
-        "string": "Change your unique profile handle"
+    "fullscreen.accessibility.author": {
+        "string": "作者: {authorName}"
     },
-    "community.change_profile_handle_modal.to_like_comment_follow_or_publish_please_create_a_community_profile": {
-        "string": "To like, comment, follow, or publish, please create a Community profile"
+    "fullscreen.accessibility.comment_thread_label": {
+        "string": "当前展开的评论线程。关闭此对话框以返回到画布。"
     },
-    "community.change_profile_handle_modal.create_a_community_profile_to_publish_publicly_as_your_org_or_team": {
-        "string": "Create a Community profile to publish publicly as your org or team"
+    "fullscreen.accessibility.comments_sidebar": {
+        "string": "评论面板"
     },
-    "community.change_profile_handle_modal.welcome_to_figma_community": {
-        "string": "Welcome to Figma Community!"
+    "fullscreen.accessibility.contents_hidden": {
+        "string": "内容隐藏"
     },
-    "community.change_profile_handle_modal.new_profile_link": {
-        "string": "Your new Community profile is live. View your profile to customize it. Everyone can now find you at: {url}"
+    "fullscreen.accessibility.dom_error": {
+        "string": "无法使内容适应屏幕阅读器。请稍后再试"
     },
-    "community.change_profile_handle_modal.change_handle": {
-        "string": "Change handle"
+    "fullscreen.accessibility.main_region": {
+        "string": "画布"
     },
-    "community.change_profile_handle_modal.resend_email": {
-        "string": "Resend email"
+    "fullscreen.accessibility.multi_select": {
+        "string": "已选择{n}个项目"
     },
-    "community.change_profile_handle_modal.create_profile": {
-        "string": "Create profile"
+    "fullscreen.accessibility.multiple_node_deleted_announcement": {
+        "string": "已删除选定内容"
     },
-    "community.change_profile_handle_modal.view_profile": {
-        "string": "View profile"
+    "fullscreen.accessibility.next_comment": {
+        "string": "下一条评论线程"
     },
-    "check_network_compatibility.feature.library_publish": {
-        "string": "Publishing a library"
+    "fullscreen.accessibility.next_table_cell_announcement": {
+        "string": "编辑表格单元格 行{r} 列{c}"
     },
-    "check_network_compatibility.feature.extension_publish": {
-        "string": "Publishing a plugin or widget"
+    "fullscreen.accessibility.next_text_node_announcement": {
+        "string": "编辑下一{nodeType}"
     },
-    "check_network_compatibility.feature.comment_attachment": {
-        "string": "Adding media to comments"
+    "fullscreen.accessibility.node_created_announcement": {
+        "string": "已创建{node_type}"
     },
-    "check_network_compatibility.feature.video": {
-        "string": "Importing content"
+    "fullscreen.accessibility.node_deleted_announcement": {
+        "string": "已删除{node_type}"
     },
-    "check_network_compatibility.feature.font_list": {
-        "string": "Fetching font list"
+    "fullscreen.accessibility.node_movement_bidirectional": {
+        "string": "{nodeType}已移动 {nodePositionXDelta} 个单位到{nodeDirectionX}，{nodePositionYDelta}个单位到{nodeDirectionY}"
     },
-    "check_network_compatibility.available": {
-        "string": "Available"
+    "fullscreen.accessibility.node_movement_down": {
+        "string": "下"
     },
-    "check_network_compatibility.blocked": {
-        "string": "Blocked"
+    "fullscreen.accessibility.node_movement_left": {
+        "string": "左"
     },
-    "check_network_compatibility.title": {
-        "string": "Network settings"
+    "fullscreen.accessibility.node_movement_right": {
+        "string": "右"
     },
-    "check_network_compatibility.view_help_center": {
-        "string": "Learn more"
+    "fullscreen.accessibility.node_movement_unidirectional": {
+        "string": "{nodePositionDelta, plural, other {{nodeType}已移动#单位到{nodeDirection}}}"
     },
-    "check_network_compatibility.close": {
-        "string": "Done"
+    "fullscreen.accessibility.node_movement_up": {
+        "string": "上"
     },
-    "check_network_compatibility.copied_to_clipboard": {
-        "string": "Copied URL to clipboard"
+    "fullscreen.accessibility.node_resize_bidirectional": {
+        "string": "{nodeType}的大小已更改 横向{nodeResizeXDelta}{resizedComparisonX}，纵向{nodeResizeYDelta}{resizedComparisonY}"
     },
-    "check_network_compatibility.description": {
-        "string": "These features require access to domains that may be blocked by your network."
+    "fullscreen.accessibility.node_resize_decrease": {
+        "string": "减少"
     },
-    "check_network_compatibility.description_cta": {
-        "string": "Contact your network administrator to allow requests from the blocked domains below."
+    "fullscreen.accessibility.node_resize_horizontal": {
+        "string": "水平"
     },
-    "check_network_compatibility.error_bell.view_settings": {
-        "string": "View settings"
+    "fullscreen.accessibility.node_resize_increase": {
+        "string": "增加"
     },
-    "check_network_compatibility.checking_network_settings": {
-        "string": "Checking network settings…"
+    "fullscreen.accessibility.node_resize_none": {
+        "string": "无"
     },
-    "check_network_compatibility.network_settings_compatible": {
-        "string": "Your network has access to the domains needed to run Figma"
+    "fullscreen.accessibility.node_resize_unidirectional": {
+        "string": "{nodeSizeDelta, plural, other {{nodeType}的大小已更改#单位{resizeComparison}到{nodeDirection}}}"
     },
-    "check_network_compatibility.error": {
-        "string": "Error checking network settings. Please try again later"
+    "fullscreen.accessibility.node_resize_vertical": {
+        "string": "垂直"
     },
-    "community.onboarding.here_s_how_you_ll_look_when_using_the_figma_community": {
-        "string": "Here’s how you’ll look when using the Figma Community."
+    "fullscreen.accessibility.node_unit": {
+        "string": "{numUnits, plural, other {#单位}}"
     },
-    "community.onboarding.change_your_photo_or_name_in_your_settings": {
-        "string": "Change your photo or name in your settings."
+    "fullscreen.accessibility.num_items_selected": {
+        "string": "已选择{num_selected, plural, other {#个项目}}"
     },
-    "community.onboarding.when_leaving_comments_we_ask_that_you": {
-        "string": "When leaving comments we ask that you…"
+    "fullscreen.accessibility.platform_error": {
+        "string": "要使用屏幕阅读器，请在桌面应用程序或浏览器中打开FigJam。移动设备尚不支持。"
     },
-    "community.onboarding.follow_our_guidelines": {
-        "string": "Follow our guidelines"
+    "fullscreen.accessibility.previous_comment": {
+        "string": "上一条评论线程"
     }
 }

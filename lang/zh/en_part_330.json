@@ -1,152 +1,152 @@
 {
-    "categories.presentations.product_roadmap.description": {
-        "string": "Turn customers into believers by sharing your product vision"
+    "whiteboard.ai_modal.basic": {
+        "string": "基本"
     },
-    "categories.presentations.research_readout": {
-        "string": "Research readout"
+    "whiteboard.ai_modal.beta_badge": {
+        "string": "AIベータ版"
     },
-    "categories.presentations.all_hands_meeting": {
-        "string": "All hands meeting"
+    "whiteboard.ai_modal.disclaimer": {
+        "string": "AIの出力は、誤解を招くことや、間違っていることがあります"
     },
-    "categories.presentations.design_review": {
-        "string": "Design review"
+    "whiteboard.ai_modal.expanded": {
+        "string": "展開"
     },
-    "categories.more_presentations": {
-        "string": "More presentations"
+    "whiteboard.ai_modal.generate": {
+        "string": "生成"
     },
-    "categories.more_presentations.subheader": {
-        "string": "Mix and match with Figma Slides templates"
+    "whiteboard.ai_modal.generate_handbrake": {
+        "string": "AI機能は現在利用できません。しばらくしてからお試しください。"
     },
-    "pro_cart.jamboard_offer.modal_offer_badge": {
-        "string": "Free for a year"
+    "whiteboard.ai_modal.generate_shortcut": {
+        "string": "生成 ⌘ "
     },
-    "community.profiles.cover_image_must_be_less_than_dimensions": {
-        "string": "Cover image must be less than {PROFILE_COVER_IMAGE_MAX_WIDTH}x{PROFILE_COVER_IMAGE_MAX_HEIGHT}"
+    "whiteboard.ai_modal.hint_tab": {
+        "string": "タブ"
     },
-    "community.profiles.cover_image_must_be_at_least_dimensions": {
-        "string": "Cover image must be at least {PROFILE_COVER_IMAGE_MIN_WIDTH}x{PROFILE_COVER_IMAGE_MIN_HEIGHT}"
+    "whiteboard.ai_modal.learn_more": {
+        "string": "詳細情報"
     },
-    "community.seller.profiles.check_out_your_stats": {
-        "string": "Check out your stats"
+    "whiteboard.ai_modal.or": {
+        "string": "または"
     },
-    "community.seller.profiles.added_some_metrics": {
-        "string": "We've added some metrics to this private tab so you can see how your resources are doing."
+    "whiteboard.ai_modal.pill.keyword.1:1s": {
+        "string": "1on1"
     },
-    "community.seller.view_stripe_dashboard": {
-        "string": "View Stripe dashboard"
+    "whiteboard.ai_modal.pill.keyword.chart": {
+        "string": "チャート"
     },
-    "community.seller.view_payout_statements": {
-        "string": "View payout statements"
+    "whiteboard.ai_modal.pill.keyword.diagram": {
+        "string": "図表"
     },
-    "community.seller.agree_to_figma_terms_of_service": {
-        "string": "By clicking you agree to Figma's {link}."
+    "whiteboard.ai_modal.pill.keyword.diagrams": {
+        "string": "図表"
     },
-    "community.seller.stripe_loading_text": {
-        "string": "Loading Stripe…"
+    "whiteboard.ai_modal.pill.keyword.flow": {
+        "string": "フロー"
     },
-    "community.seller.finish_stripe_setup_button": {
-        "string": "Finish Stripe setup"
+    "whiteboard.ai_modal.pill.keyword.flowchart": {
+        "string": "フローチャート"
     },
-    "community.seller.resource_metrics_coming_soon": {
-        "string": "Resource metrics coming soon"
+    "whiteboard.ai_modal.pill.keyword.gantt": {
+        "string": "ガント"
     },
-    "community.seller.working_on_bringing_you_more_in_depth_metrics": {
-        "string": "We're working on bringing you more in depth metrics for all your paid resources. Stay tuned!"
+    "whiteboard.ai_modal.pill.keyword.ideas": {
+        "string": "アイデア"
     },
-    "community.seller.youre_all_set_up_to_sell_on_community": {
-        "string": "You're all set up to sell on Community"
+    "whiteboard.ai_modal.pill.keyword.journey": {
+        "string": "ジャーニー"
     },
-    "community.seller.to_publish_your_first_resource": {
-        "string": "To publish your first paid plugin, widget, or file, just click Publish in the top right, add your details, pick your price, then submit it for review!"
+    "whiteboard.ai_modal.pill.keyword.meeting": {
+        "string": "ミーティング"
     },
-    "community.seller.resources_youre_selling_will_appear_here": {
-        "string": "Resources you're selling will appear here"
+    "whiteboard.ai_modal.pill.keyword.meetings": {
+        "string": "ミーティング"
     },
-    "community.seller.well_show_you_stripe_metrics": {
-        "string": "We'll show you Stripe metrics to give you a glimpse into how each resource is doing."
+    "whiteboard.ai_modal.pill.keyword.options": {
+        "string": "オプション"
     },
-    "community.seller.unable_to_open_stripe_dashboard": {
-        "string": "Unable to open Stripe dashboard"
+    "whiteboard.ai_modal.pill.keyword.org": {
+        "string": "組織"
     },
-    "community.actions.unable_to_load_creator_stats": {
-        "string": "Unable to load creator stats. Please try again later."
+    "whiteboard.ai_modal.pill.keyword.process": {
+        "string": "プロセス"
     },
-    "community.profile.creator_banner.you_can_now_add_image_and_video_previews": {
-        "string": "You can now add image and video previews to your published resources to help them stand out from the crowd. "
+    "whiteboard.ai_modal.pill.keyword.retro": {
+        "string": "振り返り"
     },
-    "community.profile.creator_banner.lets_spruce_things_up": {
-        "string": "Let's spruce things up"
+    "whiteboard.ai_modal.pill.keyword.retrospective": {
+        "string": "振り返り"
     },
-    "community.profiles.profile_actions": {
-        "string": "Profile actions"
+    "whiteboard.ai_modal.pill.keyword.schedule": {
+        "string": "スケジュール"
     },
-    "community.profiles.your_profile_is_visible_to_the_public_at": {
-        "string": "Your profile is visible to the public at {link}"
+    "whiteboard.ai_modal.pill.keyword.sync": {
+        "string": "調整"
     },
-    "community.profiles.your_teams_profile_is_visible_to_the_public_at": {
-        "string": "Your team's profile is visible to the public at {link}"
+    "whiteboard.ai_modal.pill.keyword.team": {
+        "string": "チーム"
     },
-    "community.profiles.your_organizations_profile_is_visible_to_the_public_at": {
-        "string": "Your organization's profile is visible to the public at {link}"
+    "whiteboard.ai_modal.pill.keyword.team_retro": {
+        "string": "チームの振り返り"
     },
-    "community.seller.total_views": {
-        "string": "Total views"
+    "whiteboard.ai_modal.pill.keyword.userflow": {
+        "string": "ユーザーフロー"
     },
-    "community.seller.total_purchases": {
-        "string": "Total purchases"
+    "whiteboard.ai_modal.pill.keyword.userjourney": {
+        "string": "ユーザージャーニー"
     },
-    "community.seller.total_purchases_includes": {
-        "string": "Includes all new subscriptions, renewals, and one-time payments"
+    "whiteboard.ai_modal.pill.keyword.weekly": {
+        "string": "週次"
     },
-    "community.seller.total_earned": {
-        "string": "Total earned"
+    "whiteboard.ai_modal.prompt_builder.add": {
+        "string": "追加"
     },
-    "community.seller.all_sales_before_figmas_fees": {
-        "string": "All sales, before Figma's fees "
+    "whiteboard.ai_modal.prompt_builder.period": {
+        "string": "。"
     },
-    "community.seller.last_updated_on": {
-        "string": "Last updated on {date}"
+    "whiteboard.ai_modal.prompt_builder.trailing_ellipsis": {
+        "string": "…"
     },
-    "community.seller.views_label": {
-        "string": "{num, plural, one {View} other {Views}}"
+    "whiteboard.ai_modal.prompt_placeholder": {
+        "string": "作成しましょう..."
     },
-    "community.seller.subscribers_label": {
-        "string": "{num, plural, one {Subscriber} other {Subscribers}}"
+    "whiteboard.ai_modal.share_trace": {
+        "string": "トレースを共有"
     },
-    "community.seller.purchases_label": {
-        "string": "{num, plural, one {Purchase} other {Purchases}}"
+    "whiteboard.ai_modal.share_trace_nudge_in_modal": {
+        "string": "{weirdOutput}#figjam-ai-feedbackでシェアしてください。"
     },
-    "community.seller.earned_this_month": {
-        "string": "Earned this month"
+    "whiteboard.ai_modal.share_trace_nudge_weird_output": {
+        "string": "出力が不自然ですか?"
     },
-    "community.actions.unable_to_load_stats_for_a_resource": {
-        "string": "Unable to load stats for a resource. Please try again later."
+    "whiteboard.ai_modal.streaming": {
+        "string": "可能性を求めています..."
     },
-    "community.seller.resources_for_sale": {
-        "string": "{numResources, plural, one {{numResources} resource for sale} other {{numResources} resources for sale}}"
+    "whiteboard.ai_modal.style": {
+        "string": "スタイル"
     },
-    "file_browser.settings.plugins_published": {
-        "string": "Plugins published to {orgName}"
+    "whiteboard.ai_modal.suggestion.1:1": {
+        "string": "1on1"
     },
-    "payments.learn_more": {
-        "string": "Learn more"
+    "whiteboard.ai_modal.suggestion.1:1.subtitle_1": {
+        "string": "対マネージャー"
     },
-    "payments.pending_subscription_modal_description": {
-        "string": "Refresh this page when your verification is complete so you can access your upgraded team."
+    "whiteboard.ai_modal.suggestion.agenda": {
+        "string": "アジェンダ"
     },
-    "payments.pending_subscription_modal_header": {
-        "string": "Your payment verification is in progress"
+    "whiteboard.ai_modal.suggestion.agenda.prompt": {
+        "string": "アジェンダ"
     },
-    "payments.got_it": {
-        "string": "Got it"
+    "whiteboard.ai_modal.suggestion.brainstorm": {
+        "string": "ブレインストーミングをする"
     },
-    "tile.file_tile.pinned_by_user": {
-        "string": "Pinned by {name}"
+    "whiteboard.ai_modal.suggestion.brainstorm.subtitle_1": {
+        "string": "新しいプロジェクトのアイデアについて"
     },
-    "tile.file_tile.pinned_just_now": {
-        "string": "Pinned just now"
+    "whiteboard.ai_modal.suggestion.calendar": {
+        "string": "カレンダー"
     },
-    "shared_with_you.filters.all_organizations": {
-        "string": "All organizations"
+    "whiteboard.ai_modal.suggestion.calendar.prompt": {
+        "string": "カレンダー"
     }
 }

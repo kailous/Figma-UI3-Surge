@@ -1,152 +1,152 @@
 {
-    "dev_handoff.workflows.overview.search_placeholder": {
-        "string": "Search"
+    "workspace_table.name_input": {
+        "string": "名称"
     },
-    "dev_handoff.workflows.overview.clear_search": {
-        "string": "Clear search"
+    "workspace_table.name_input_placeholder": {
+        "string": "添加部门、业务单元等名称"
     },
-    "dev_handoff.workflows.more_actions_tooltip": {
-        "string": "More actions"
+    "workspace_table.only_members_can_find_and_access": {
+        "string": "只有工作区成员可以查找和访问"
     },
-    "dev_handoff.nodes_panel.thumbnail_alt_text": {
-        "string": "Thumbnail"
+    "workspace_table.search.no_results": {
+        "string": "未找到符合搜索条件的工作区，请重新搜索。"
     },
-    "dev_handoff.workflows.overview.card_hover_expand_tooltip": {
-        "string": "Inspect in focus view"
+    "workspace_table.search.placeholder": {
+        "string": "搜索工作区…"
     },
-    "dev_handoff.workflows.overview.sort_pages": {
-        "string": "Pages"
+    "workspace_table.secret_workspace_lock_tooltip": {
+        "string": "此工作区已隐藏"
     },
-    "dev_handoff.workflows.overview.sort_recent": {
-        "string": "Recent activity"
+    "workspace_table.secret_workspace_lock_tooltip_subtext": {
+        "string": "只有其成员和管理员可以查找和访问"
     },
-    "dev_handoff.workflows.overview.sort_alphabetical": {
-        "string": "Name (A-Z)"
+    "workspace_table.teams": {
+        "string": "团队"
     },
-    "dev_handoff.workflows.overview.sort_by": {
-        "string": "Sort by"
+    "workspace_table.unassigned": {
+        "string": "未分配"
     },
-    "dev_handoff.code.update_prompt": {
-        "string": "This layer has been edited since this code was generated."
+    "workspace_table.unassigned_row_default": {
+        "string": "（默认）"
     },
-    "dev_handoff.code.update_prompt_title": {
-        "string": "Layer changes"
+    "workspace_table.visibility": {
+        "string": "可见性"
     },
-    "dev_handoff.code.update_prompt_action": {
-        "string": "Regenerate code"
+    "workspace_table.workspace": {
+        "string": "工作区"
     },
-    "dev_handoff.inspect_panel.open_setting": {
-        "string": "Open setting"
+    "workspace_table.workspace_created_toast": {
+        "string": "已创建新工作区\"{workspaceName}\""
     },
-    "dev_handoff.inspect_panel.property_suggestions.title": {
-        "string": "Property suggestions"
+    "workspace_table.workspace_edit_save_changes": {
+        "string": "保存更改"
     },
-    "dev_handoff.inspect_panel.property_suggestions.body": {
-        "string": "Get line-by-line property suggestions—like variables, colors and dimensions—as you type."
+    "workspace_table.workspace_edited_toast": {
+        "string": "已更新工作区\"{workspaceName}\""
     },
-    "dev_handoff.inspect_panel.block_suggestions.title": {
-        "string": "Block suggestions (experimental)"
+    "workspace_table.workspace_name_already_exists_error": {
+        "string": "工作区名称已被使用，请选择其他名称"
     },
-    "dev_handoff.inspect_panel.block_suggestions.body": {
-        "string": "Get multi-line code block suggestions based on your cursor position."
+    "workspace_table.workspace_name_unassigned_error": {
+        "string": "无法将工作区命名为“未分配”"
     },
-    "dev_handoff.add_dev_resource": {
-        "string": "Add dev resources"
+    "workspace_table.workspaces_deleted_toast": {
+        "string": "已删除{licenseGroupsCount, plural, other {{licenseGroupsCount}个工作区}}"
     },
-    "dev_handoff.inspect_panel.component": {
-        "string": "Component"
+    "org_admin_survey.agree": {
+        "string": "同意"
     },
-    "dev_handoff.developer_related_links.links": {
-        "string": "Dev resources"
+    "org_admin_survey.can_you_tell_us_about_your_experience_using_figma": {
+        "string": "请告诉我们您使用Figma的体验"
     },
-    "dev_handoff.tab.plugins": {
-        "string": "Plugins"
+    "org_admin_survey.disagree": {
+        "string": "不同意"
     },
-    "dev_handoff.vscode.inspect_panel.hide_inspect_tooltip": {
-        "string": "Hide inspect panel"
+    "org_admin_survey.figma_makes_it_easy_to_manage_costs": {
+        "string": "Figma使管理成本变得容易"
     },
-    "dev_handoff.vscode.inspect_panel.show_inspect_tooltip": {
-        "string": "Show inspect panel"
+    "org_admin_survey.figma_makes_it_efficient_to_give_users_the_access_they_need": {
+        "string": "Figma可以高效地给予用户所需的访问权限"
     },
-    "dev_handoff.inspect_panel.show_more_properties": {
-        "string": "Inspect layer properties"
+    "org_admin_survey.figma_s_billing_model_is_fair": {
+        "string": "Figma的计费模式是公平的"
     },
-    "dev_handoff.selection_effect_styles": {
-        "string": "Selection effect styles"
+    "org_admin_survey.n_a": {
+        "string": "不适用"
     },
-    "dev_handoff.selection_text_styles": {
-        "string": "Selection text styles"
+    "org_admin_survey.neither_agree_nor_disagree": {
+        "string": "中立"
     },
-    "dev_handoff.compare_changes.banner.added_layer": {
-        "string": "This layer was added"
+    "org_admin_survey.not_answered": {
+        "string": "未回答"
     },
-    "dev_handoff.compare_changes.banner.removed_layer": {
-        "string": "This layer was removed"
+    "org_admin_survey.rate_your_level_of_agreement_with_the_following_statements": {
+        "string": "请根据以下陈述选择最符合您的选项"
     },
-    "dev_handoff.compare_changes.banner.no_changes": {
-        "string": "Some changes cannot be displayed in the selected code language"
+    "org_admin_survey.strongly_agree": {
+        "string": "非常同意"
     },
-    "dev_handoff.compare_changes.banner.no_changes_link": {
-        "string": "Switch to properties view"
+    "org_admin_survey.strongly_disagree": {
+        "string": "非常不同意"
     },
-    "collaboration.feedback.compare_changes_modal.history": {
-        "string": "History"
+    "org_admin_survey.what_would_improve_your_experience": {
+        "string": "请告诉我们您认为可以提高使用体验的地方"
     },
-    "collaboration.feedback.compare_changes_modal.error": {
-        "string": "Couldn't load changes. Refresh the file to try again."
+    "orgs_middleware.an_error_occurred_while_generating_scim": {
+        "string": "生成SCIM API令牌时发生错误"
     },
-    "collaboration.feedback.compare_changes_modal.layer_name_header": {
-        "string": "{layerName}"
+    "orgs_middleware.an_error_occurred_while_enqueeing_deletion_request": {
+        "string": "将删除请求加入队列时发生错误"
     },
-    "collaboration.feedback.compare_changes_modal.no_changes": {
-        "string": "No changes to compare"
+    "orgs_middleware.an_error_occurred_while_revoking_scim": {
+        "string": "撤销SCIM API令牌时发生错误"
     },
-    "collaboration.feedback.compare_changes_modal.select_a_layer": {
-        "string": "Select an edited layer to compare changes"
+    "orgs_middleware.user_data_deleted": {
+        "string": "用户数据已删除"
     },
-    "dev_handoff.workflows.focus_view.activity.activity_row_with_latest": {
-        "string": "{versionText} {activityTime} {latest}"
+    "orgs_middleware.deletion_request_submitted": {
+        "string": "删除请求已提交"
     },
-    "dev_handoff.workflows.focus_view.activity.activity_row_latest_part": {
-        "string": "· Latest"
+    "configured_upgrade_request_modal.from_the_admins": {
+        "string": "{orgName}的管理员的指示："
     },
-    "dev_handoff.workflows.focus_view.activity.activity_row": {
-        "string": "{versionText} {activityTime}"
+    "confirm_account_change.account_type_successfully_updated.seat_rename": {
+        "string": "{numUsers, plural, other {{numUsers}个席位已更新}}"
     },
-    "dev_handoff.workflows.focus_view.activity_status_ready": {
-        "string": "Ready for dev"
+    "confirm_account_change.downgrade.all_licenses.description_p1.plural": {
+        "string": "将这{numUsers}名成员降级到{viewerRestricted}席位，"
     },
-    "dev_handoff.workflows.focus_view.activity_status_completed": {
-        "string": "Completed"
+    "confirm_account_change.downgrade.all_licenses.description_p1.singular": {
+        "string": "将{userName}降级到{viewerRestricted}席位，"
     },
-    "dev_handoff.workflows.focus_view.activity_status_removed": {
-        "string": "Status removed"
+    "confirm_account_change.downgrade.all_licenses.description_p1.singular.no_username": {
+        "string": "将这名成员降级到{viewerRestricted}席位，"
     },
-    "dev_handoff.workflows.focus_view.activity.latest": {
-        "string": "Latest"
+    "confirm_account_change.downgrade.design.description_p2": {
+        "string": "将无法执行以下操作。"
     },
-    "dev_handoff.workflows.focus_view.activity.compare_previous": {
-        "string": "Compare with previous versions"
+    "confirm_account_change.downgrade.design.give_access_to_drafts": {
+        "string": "自己升级（需要管理员批准）"
     },
-    "dev_handoff.workflows.focus_view.back_to_current": {
-        "string": "Back to current"
+    "confirm_account_change.downgrade.dev_mode.description_p2": {
+        "string": "将无法使用开发模式及其所有功能。包括以下功能："
     },
-    "dev_handoff.workflows.focus_view.inspect_version": {
-        "string": "Inspect this version"
+    "confirm_account_change.generic.design.access_all_templates_and_libraries": {
+        "string": "访问所有模板和库"
     },
-    "dev_handoff.workflows.focus_view.compare_latest": {
-        "string": "Compare to latest version"
+    "confirm_account_change.generic.design.edit_share_or_create": {
+        "string": "在草稿之外编辑、创建和共享设计文件"
     },
-    "dev_handoff.workflows.focus_view.copy_link_to_version": {
-        "string": "Copy link"
+    "confirm_account_change.generic.design.free_dev_mode_access": {
+        "string": "免费访问开发模式"
     },
-    "dev_handoff.workflows.focus_view.activity.versions": {
-        "string": "Versions"
+    "confirm_account_change.generic.design.free_dev_mode_access.learn_more": {
+        "string": "了解更多"
     },
-    "dev_handoff.version_history.view_all_versions": {
-        "string": "View all versions"
+    "confirm_account_change.generic.design.give_access_to_drafts": {
+        "string": "向合作者提供Figma设计草稿访问权限"
     },
-    "inspect_panel.history.compare_changes": {
-        "string": "Compare changes"
+    "confirm_account_change.generic.dev_mode.advanced_inspect": {
+        "string": "高级检查功能，可以对部分代码进行自定义"
     }
 }

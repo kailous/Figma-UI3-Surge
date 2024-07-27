@@ -1,152 +1,152 @@
 {
-    "fullscreen.grids_panel.grid_settings.bottom": {
-        "string": "Bottom"
+    "design_systems.preset_libraries.tooltip.google_license_link": {
+        "string": "CC BY 4.0"
     },
-    "fullscreen.grids_panel.grid_settings.center": {
-        "string": "Center"
+    "design_systems.internal_community_library_mode_label": {
+        "string": "（内部）社区库模式"
     },
-    "fullscreen.grids_panel.grid_settings.stretch": {
-        "string": "Stretch"
+    "design_systems.internal_community_library_unpublish": {
+        "string": "（内部）取消发布社区库"
     },
-    "fullscreen.properties_panel.hint_panel.close": {
-        "string": "Close"
+    "design_systems.internal_community_unpublish_warning": {
+        "string": "取消发布社区库将使其资产在所有资产消费界面中不可见！如果这是一个UI工具包，将影响所有Figma用户。请确保您想这样做。"
     },
-    "design_systems.instance_swap_picker.mixed": {
-        "string": "Mixed"
+    "design_systems.publish_actions.cant_publish": {
+        "string": "无法在离线状态下发布"
     },
-    "design_systems.instance_swap_picker.pick_instance": {
-        "string": "Pick instance"
+    "design_systems.publish_actions.cant_unpublish": {
+        "string": "无法在离线状态下取消发布"
     },
-    "rcs.mobile_comment_reply_upsell.email_me": {
-        "string": "Email me"
+    "design_systems.publish_actions.payload_too_large": {
+        "string": "页面、框架或资产名称过长。请使用较短的名称重试。"
     },
-    "rcs.mobile_comment_reply_upsell.download_via_qr_code": {
-        "string": "Download via QR Code"
+    "design_systems.publish_actions.publish_error": {
+        "string": "无法发布{numSkipped}项更改到团队库"
     },
-    "rcs.mobile_comment_reply_upsell.email_me_instead": {
-        "string": "Email me instead"
+    "design_systems.publish_actions.publish_failed": {
+        "string": "无法发布：{reason}"
     },
-    "rcs.mobile_comment_reply_upsell.title": {
-        "string": "Get notified of replies on the go"
+    "design_systems.publish_actions.publish_success": {
+        "string": "库更新已发布"
     },
-    "rcs.mobile_comment_reply_upsell_page1.description": {
-        "string": "Get the Figma mobile app to access your files, get notified of new comments, and reply on the go."
+    "design_systems.publish_actions.publishing_library": {
+        "string": "正在发布库"
     },
-    "rcs.mobile_comment_reply_upsell_page2.description": {
-        "string": "Scan a QR code above to download the Figma mobile app on iOS or Android."
+    "design_systems.publish_actions.reload": {
+        "string": "请重新加载页面以发布。"
     },
-    "properties.label.position": {
-        "string": "Position"
+    "design_systems.publish_actions.retry": {
+        "string": "重试"
     },
-    "fullscreen.properties_panel.section_stroke.label_weight": {
-        "string": "Weight"
+    "design_systems.publish_actions.savepoint_for_publish": {
+        "string": "组件发布"
     },
-    "fullscreen.properties_panel.fill.advanced_stroke_settings": {
-        "string": "Advanced stroke settings"
+    "design_systems.publish_actions.savepoint_for_publish_slides": {
+        "string": "模板发布"
     },
-    "fullscreen.properties_panel.borders.border_per_side": {
-        "string": "Strokes per side"
+    "design_systems.publish_actions.savepoint_for_unpublish": {
+        "string": "组件取消发布"
     },
-    "fullscreen.properties_panel.borders.stroke_width": {
-        "string": "Stroke width"
+    "design_systems.publish_actions.savepoint_for_unpublish_slides": {
+        "string": "模板取消发布"
     },
-    "fullscreen.properties_panel.section_stroke.label_startPoint": {
-        "string": "Start point"
+    "design_systems.publish_actions.unpublish_error": {
+        "string": "无法取消发布{numSkipped}项更改"
     },
-    "fullscreen.properties_panel.section_stroke.label_endPoint": {
-        "string": "End point"
+    "design_systems.publish_actions.unpublish_failed": {
+        "string": "无法取消发布：{reason}"
     },
-    "fullscreen.properties_panel.fill.start_point": {
-        "string": "Start point"
+    "design_systems.publish_actions.unpublish_success": {
+        "string": "库已取消发布"
     },
-    "fullscreen.properties_panel.fill.swap_start_and_end_points": {
-        "string": "Swap start and end points"
+    "design_systems.publish_actions.unpublishing_library": {
+        "string": "正在取消发布库"
     },
-    "fullscreen.properties_panel.fill.end_point": {
-        "string": "End point"
+    "design_systems.publish_actions.validations_contact": {
+        "string": "联系我们"
     },
-    "proto.prototype_panel.video_error_panel.move_this_file": {
-        "string": "move this file"
+    "design_systems.publish_actions.validations_failed": {
+        "string": "无法发布内容。请联系Figma。"
     },
-    "proto.prototype_panel.video_error_panel.move_file_to_pro_team_to_upload_video": {
-        "string": "To add or edit videos, first {moveThisFileLink} to a Professional team."
+    "design_systems.publish_error.generic": {
+        "string": "发布过程中出现问题。请再试一次。"
     },
-    "proto.prototype_panel.video_error_panel.upgrade_team_to_upload_video": {
-        "string": "You have to be in a Professional team to edit or add videos."
+    "design_systems.publishing_modal.added": {
+        "string": "已添加"
     },
-    "proto.prototype_panel.video_error_panel.upgrade_to_pro": {
-        "string": "Upgrade to Professional…"
+    "design_systems.publishing_modal.assembling_components_styles_and_variables": {
+        "string": "正在准备组件、样式和变量"
     },
-    "design_systems.instance_panel.mixed": {
-        "string": "Mixed"
+    "design_systems.publishing_modal.asset_cannot_be_published": {
+        "string": "资产无法发布"
     },
-    "design_systems.styles.buttons.browse": {
-        "string": "Browse libraries…"
+    "design_systems.publishing_modal.back": {
+        "string": "返回"
     },
-    "design_systems.styles.edit_style": {
-        "string": "Edit style"
+    "design_systems.publishing_modal.cancel": {
+        "string": "取消"
     },
-    "design_systems.styles.delete_styles": {
-        "string": "{numStyles, plural, one {Delete style} other {Delete {numStyles} styles}}"
+    "design_systems.publishing_modal.changes_header_with_count": {
+        "string": "更改{countString}"
     },
-    "design_systems.styles.go_to_style_definition": {
-        "string": "Go to style definition"
+    "design_systems.publishing_modal.components": {
+        "string": "组件"
     },
-    "design_systems.styles.no_styles_match": {
-        "string": "No styles match this search."
+    "design_systems.publishing_modal.conflicting_property_names": {
+        "string": "属性名称冲突"
     },
-    "design_systems.styles.no_specified_style": {
-        "string": "No {kind}."
+    "design_systems.publishing_modal.conflicting_property_values": {
+        "string": "属性值冲突"
     },
-    "design_systems.styles.tooltips.library": {
-        "string": "Team library"
+    "design_systems.publishing_modal.corrupt_layer_names": {
+        "string": "层名称已损坏"
     },
-    "design_systems.styles.tooltips.show_as_grid": {
-        "string": "Show as grid"
+    "design_systems.publishing_modal.count": {
+        "string": "（{count}）"
     },
-    "design_systems.styles.tooltips.show_as_list": {
-        "string": "Show as list"
+    "design_systems.publishing_modal.count_with_total": {
+        "string": "（{count}/{total}）"
     },
-    "design_systems.styles.tooltips.create": {
-        "string": "Create style"
+    "design_systems.publishing_modal.create_a_professional_team": {
+        "string": "创建专业团队"
     },
-    "fullscreen.properties_panel.restore_local_style": {
-        "string": "Restore local style"
+    "design_systems.publishing_modal.description_placeholder": {
+        "string": "更改说明（可选）"
     },
-    "design_systems.styles.clear_overrides_over_text_style": {
-        "string": "Reapply text style"
+    "design_systems.publishing_modal.empty_search_result": {
+        "string": "无与“{assetQuery}”匹配的结果"
     },
-    "variables.invalid.less_than_min_width": {
-        "string": "Less than min width"
+    "design_systems.publishing_modal.example_conversion_warning": {
+        "string": "组件无法转换为示例。在发布前，请删除examples/前缀。"
     },
-    "variables.invalid.less_than_min_height": {
-        "string": "Less than min height"
+    "design_systems.publishing_modal.exclude_from_publish": {
+        "string": "从发布中排除{assetName}"
     },
-    "variables.invalid.greater_than_max_width": {
-        "string": "Exceeds max width"
+    "design_systems.publishing_modal.filename_fallback": {
+        "string": "其他文件"
     },
-    "variables.invalid.greater_than_max_height": {
-        "string": "Exceeds max height"
+    "design_systems.publishing_modal.header_changed_variable_count": {
+        "string": "（{count}个隐藏的变量）"
     },
-    "variables.binding_ui.detach_variable_tooltip": {
-        "string": "Detach variable"
+    "design_systems.publishing_modal.header_changed_variable_count_no_parentheses": {
+        "string": "{count}个更改的变量"
     },
-    "variables.binding_ui.missing_font_family": {
-        "string": "No fonts found for \"{fontFamily}\""
+    "design_systems.publishing_modal.hidden_header_with_count": {
+        "string": "隐藏{countString}"
     },
-    "fullscreen.type_panel.type_or_choose": {
-        "string": "Type or choose…"
+    "design_systems.publishing_modal.hidden_variable_count": {
+        "string": "（{count}个隐藏的变量）"
     },
-    "fullscreen.font_settings.byof_bring_your_own_fonts": {
-        "string": "BYOF (Bring your own fonts!)"
+    "design_systems.publishing_modal.hidden_variable_count_no_parentheses": {
+        "string": "{count}个隐藏的变量"
     },
-    "fullscreen.font_settings.figma_comes_preloaded": {
-        "string": "Figma comes preloaded with Google Web Fonts. To use your local fonts as well, you'll need our font installer. Once installed, you'll always have access to your local fonts when working on this computer."
+    "design_systems.publishing_modal.hidden_variable_count_within_collection": {
+        "string": "{count}个隐藏的变量"
     },
-    "fullscreen.font_settings.you_can_always_download_the_font_installer_later_from_the_settings_page": {
-        "string": "You can always download the font installer later from the settings page."
+    "design_systems.publishing_modal.hide_when_publishing": {
+        "string": "发布时隐藏"
     },
-    "fullscreen.font_settings.do_this_later_in_account_settings": {
-        "string": "Do this later in account settings"
+    "design_systems.publishing_modal.include_in_publish": {
+        "string": "将{assetName}包括在发布中"
     }
 }

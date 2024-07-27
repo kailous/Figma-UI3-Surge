@@ -1,152 +1,152 @@
 {
-    "collaboration.feedback.context_menu.edit_version_info": {
-        "string": "Edit version info"
+    "collaboration.branching_to_source.other_team_member": {
+        "string": "其他团队成员"
     },
-    "collaboration.feedback.context_menu.name_this_version": {
-        "string": "Name this version"
+    "collaboration.branching_to_source.placeholder_for_non_previewable_changes": {
+        "string": "不可预览更改的占位符"
     },
-    "collaboration.feedback.context_menu.restore_this_version": {
-        "string": "Restore this version"
+    "collaboration.branching_to_source.request_review": {
+        "string": "请求审查"
     },
-    "collaboration.feedback.context_menu.copy_link": {
-        "string": "Copy link"
+    "collaboration.branching_to_source.requested_a_review": {
+        "string": "已请求审查"
     },
-    "collaboration.feedback.context_menu.duplicate": {
-        "string": "Duplicate"
+    "collaboration.branching_to_source.resend_review_request": {
+        "string": "重新请求审查"
     },
-    "collaboration.feedback.context_menu.delete_version_info": {
-        "string": "Delete version info"
+    "collaboration.branching_to_source.review_again": {
+        "string": "再次审查"
     },
-    "collaboration.feedback.context_menu.compare_version": {
-        "string": "Compare to current version"
+    "collaboration.branching_to_source.review_request": {
+        "string": "审查请求"
     },
-    "fullscreen_actions.show_ui_hints_in_toolbar": {
-        "string": "Show UI hints in toolbar"
+    "collaboration.branching_to_source.reviewed_older_version_of_branch": {
+        "string": "已审查旧版本"
     },
-    "fullscreen_actions.swap_component_instance": {
-        "string": "Swap component instance"
+    "collaboration.branching_to_source.reviewer_description": {
+        "string": "{reviewerName}{requestFragment}"
     },
-    "fullscreen_actions.view-menu": {
-        "string": "View"
+    "collaboration.branching_to_source.reviewers": {
+        "string": "审查者"
     },
-    "fullscreen_actions.view-widget-details": {
-        "string": "View widget details"
+    "collaboration.branching_to_source.save": {
+        "string": "保存"
     },
-    "fullscreen_actions.widgets-menu": {
-        "string": "Widgets"
+    "collaboration.branching_to_source.search_suggested": {
+        "string": "主要编辑者"
     },
-    "fullscreen_actions.manage_widgets_in_development": {
-        "string": "Manage widgets in development"
+    "collaboration.branching_to_source.suggest_changes": {
+        "string": "建议更改"
     },
-    "whiteboard.inserts.widget_development_options_import_widget": {
-        "string": "Import widget from manifest…"
+    "collaboration.branching_to_source.suggested": {
+        "string": "建议的"
     },
-    "whiteboard.inserts.widget_development_options_new_widget": {
-        "string": "New widget…"
+    "collaboration.branching_to_source.this_branch_was_merged_into": {
+        "string": "此分支已合并到{sourceFileName}，时间为{relativeTimestamp}"
     },
-    "fullscreen_actions.wheel-react": {
-        "string": "Emote"
+    "collaboration.branching_to_source.this_repository": {
+        "string": "此仓库"
     },
-    "fullscreen_actions.wheel-stamp": {
-        "string": "Stamp"
+    "collaboration.branching_to_source.unmodified_variants": {
+        "string": "未修改的{variantCount}个变体"
     },
-    "fullscreen_actions.stamp_or_reaction_wheel": {
-        "string": "Emote/Stamp wheel"
+    "collaboration.branching_to_source.you": {
+        "string": "（你）"
     },
-    "fullscreen_actions.while_clicking": {
-        "string": "While clicking…"
+    "collaboration.branching_to_source.you_are_able_to_merge_this_branch_along_with_other_editors_of": {
+        "string": "你可以与{sourceFileName}的其他编辑者一起合并此分支"
     },
-    "fullscreen_actions.while_dragging_to_select": {
-        "string": "While dragging to select…"
+    "collaboration.feedback.add_to_version_history_tooltip": {
+        "string": "添加到版本历史记录"
     },
-    "fullscreen_actions.while_editing_a_shape": {
-        "string": "While editing a shape…"
+    "collaboration.feedback.all_filter_text": {
+        "string": "全部"
     },
-    "fullscreen_actions.while_editing_shape_or_sticky": {
-        "string": "While editing shape or sticky…"
+    "collaboration.feedback.autosave_count": {
+        "string": "{count}个自动保存版本"
     },
-    "fullscreen_actions.while_stamping": {
-        "string": "While stamping…"
+    "collaboration.feedback.branch": {
+        "string": "分支"
     },
-    "fullscreen_actions.while_inserting_a_component": {
-        "string": "While inserting a component…"
+    "collaboration.feedback.branch_archived": {
+        "string": "分支已存档"
     },
-    "fullscreen_actions.while_moving": {
-        "string": "While moving…"
+    "collaboration.feedback.branch_child_create": {
+        "string": "创建了新分支{link}"
     },
-    "fullscreen_actions.while_pointing": {
-        "string": "While pointing…"
+    "collaboration.feedback.branch_child_update": {
+        "string": "分支{link}已从主文件更新"
     },
-    "fullscreen_actions.while_resizing": {
-        "string": "While resizing…"
+    "collaboration.feedback.branch_created": {
+        "string": "分支已创建"
     },
-    "fullscreen_actions.while_text_shape_or_sticky_selected": {
-        "string": "While text, shape, or sticky is selected…"
+    "collaboration.feedback.branch_merge": {
+        "string": "分支已合并到{link}，并存档"
     },
-    "fullscreen_actions.collaborate": {
-        "string": "Collaborate"
+    "collaboration.feedback.branch_merged": {
+        "string": "分支已合并"
     },
-    "fullscreen_actions.zoom-in": {
-        "string": "Zoom in"
+    "collaboration.feedback.branch_merged_into_main_and_archived": {
+        "string": "分支已合并到主文件并存档"
     },
-    "fullscreen_actions.zoom-out": {
-        "string": "Zoom out"
+    "collaboration.feedback.branch_restored": {
+        "string": "分支已恢复"
     },
-    "fullscreen_actions.zoom-reset": {
-        "string": "Zoom to 100%"
+    "collaboration.feedback.branch_updated_from": {
+        "string": "分支已从{link}更新"
     },
-    "fullscreen_actions.zoom-to-fit": {
-        "string": "Zoom to fit"
+    "collaboration.feedback.branch_updated_from_main_file": {
+        "string": "分支已从主文件更新"
     },
-    "fullscreen_actions.zoom-to-selection": {
-        "string": "Zoom to selection"
+    "collaboration.feedback.change_count": {
+        "string": "{changeCount}个更改"
     },
-    "fullscreen_actions.outlines-menu": {
-        "string": "Outlines"
+    "collaboration.feedback.close_tooltip": {
+        "string": "关闭"
     },
-    "fullscreen_actions.outline-mode-hidden-layers": {
-        "string": "Include hidden layers"
+    "collaboration.feedback.compare": {
+        "string": "比较"
     },
-    "fullscreen_actions.outline-mode-object-bounds": {
-        "string": "Include object bounds"
+    "collaboration.feedback.compare_changes_m2": {
+        "string": "更改"
     },
-    "fullscreen_actions.outline-mode-hidden-layers-qc": {
-        "string": "Include hidden layers when viewing outlines"
+    "collaboration.feedback.compare_changes_modal.action_button": {
+        "string": "查看更改"
     },
-    "fullscreen_actions.outline-mode-object-bounds-qc": {
-        "string": "Include object bounds when viewing outlines"
+    "collaboration.feedback.compare_changes_modal.action_text": {
+        "string": "{lastEditedBy}于{lastEditedAt}编辑"
     },
-    "fullscreen_actions.color-profile-set-display-p3": {
-        "string": "Change file color profile to Display P3"
+    "collaboration.feedback.compare_changes_modal.current_image_header": {
+        "string": "当前版本"
     },
-    "fullscreen_actions.color-profile-set-display-p3.quick-action": {
-        "string": "Change file color profile to Display P3…"
+    "collaboration.feedback.compare_changes_modal.error": {
+        "string": "无法加载更改，请重新加载文件并重试。"
     },
-    "fullscreen_actions.color-profile-set-srgb": {
-        "string": "Change file color profile to sRGB"
+    "collaboration.feedback.compare_changes_modal.frame_created": {
+        "string": "创建框架"
     },
-    "fullscreen_actions.color-profile-set-srgb.quick_action": {
-        "string": "Change file color profile to sRGB…"
+    "collaboration.feedback.compare_changes_modal.header": {
+        "string": "比较更改"
     },
-    "fullscreen_actions.color-profile-assign-legacy": {
-        "string": "Assign file color profile to LEGACY"
+    "collaboration.feedback.compare_changes_modal.historic_image_header": {
+        "string": "之前"
     },
-    "fullscreen_actions.color-profile-assign-legacy.quick_action": {
-        "string": "[INTERNAL DEBUG ONLY]: Assign file color profile to LEGACY."
+    "collaboration.feedback.compare_changes_modal.history": {
+        "string": "历史"
     },
-    "dev_handoff.status.copy_dev_link": {
-        "string": "Copy link"
+    "collaboration.feedback.compare_changes_modal.last_viewed_by_you": {
+        "string": "您上次查看"
     },
-    "dev_handoff.status.show_in_focus": {
-        "string": "Show in focus view"
+    "collaboration.feedback.compare_changes_modal.layer_name_header": {
+        "string": "{layerName}"
     },
-    "dev_handoff.status.open_in_dev_mode": {
-        "string": "Open in Dev Mode"
+    "collaboration.feedback.compare_changes_modal.no_changes": {
+        "string": "无更改可比较"
     },
-    "dev_handoff.status.remark_as_ready": {
-        "string": "Remove completed status"
+    "collaboration.feedback.compare_changes_modal.no_changes_between_versions": {
+        "string": "版本之间无更改"
     },
-    "dev_handoff.status.copy_focus_link": {
-        "string": "Copy link to focus view"
+    "collaboration.feedback.compare_changes_modal.no_image_found": {
+        "string": "未找到图像"
     }
 }

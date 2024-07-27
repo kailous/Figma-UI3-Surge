@@ -1,152 +1,152 @@
 {
-    "ui3_and_ai_tour.ai_callout.playground_link": {
-        "string": "AI playground file"
+    "permissions.audience_selector.project_resource_name": {
+        "string": "プロジェクト"
     },
-    "ui3_and_ai_tour.toolbar_with_ai.title": {
-        "string": "Your favorite tools, plus AI"
+    "permissions.audience_selector.prototype_resource_name": {
+        "string": "プロトタイプ"
     },
-    "ui3_and_ai_tour.toolbar_with_ai.description": {
-        "string": "The new toolbar includes the tools you know and love—and an {actions} menu for all things AI."
+    "permissions.audience_selector.team_resource_name": {
+        "string": "チーム"
     },
-    "ui3_and_ai_tour.actions": {
-        "string": "actions"
+    "permissions.audience_selector.workspace_members": {
+        "string": "ワークスペースメンバー"
     },
-    "ui3_and_ai_tour.toolbar_with_ai.playground_link": {
-        "string": "AI playground file"
+    "permissions.can_still_edit_allow_edit_anybody_with_link": {
+        "string": "{noun}ではリンクを知っている組織メンバーによる編集が許可されているため、このユーザーは{noun}を引き続き閲覧できます。"
     },
-    "ui3_and_ai_tour.toolbar_without_ai.title": {
-        "string": "A new home for your tools"
+    "permissions.can_still_edit_allow_view_anybody_with_link": {
+        "string": "{noun}ではリンクを知っているすべてのユーザーに閲覧が許可されているため、このユーザーは{noun}を引き続き閲覧できます。"
     },
-    "ui3_and_ai_tour.toolbar_without_ai.description": {
-        "string": "The new toolbar includes the tools you know and love—plus the all new {actions} menu to quickly find actions, components, plugins, and widgets."
+    "permissions.can_still_edit_anybody_with_the_link": {
+        "string": "{noun}ではリンクを知っているすべてのユーザーに編集が許可されているため、このユーザーは引き続き編集できます。"
     },
-    "ui3_and_ai_tour.toolbar_view_only.title": {
-        "string": "A new home for your tools"
+    "permissions.can_still_edit_edit_permissions": {
+        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き編集できます。"
     },
-    "ui3_and_ai_tour.toolbar_view_only.description": {
-        "string": "The tools you know and love are now in the new toolbar."
+    "permissions.can_still_edit_folder_permissions": {
+        "string": "このユーザーにはこのファイルが含まれているプロジェクトの編集権限があるため、引き続き編集できます。"
     },
-    "ui3_and_ai_tour.dev_mode_callout.title": {
-        "string": "Switch into Dev Mode"
+    "permissions.can_still_edit_org_member_with_link": {
+        "string": "{noun}ではリンクを知っているすべての組織メンバーに編集が許可されているため、このユーザーは引き続き編集できます。"
     },
-    "ui3_and_ai_tour.dev_mode_callout.description": {
-        "string": "Easily get to Dev Mode (and back) right from the toolbar, or by using ⇧D."
+    "permissions.can_still_edit_team_permissions": {
+        "string": "このユーザーにはこのファイルが含まれているチームの編集権限があるため、引き続き編集できます。"
     },
-    "ui3_and_ai_callouts.resize_or_minimize.title": {
-        "string": "Resize (or minimize)"
+    "permissions.can_still_edit_team_project_is_in": {
+        "string": "このユーザーにはこのプロジェクトが含まれているチームの編集権限があるため、引き続き編集できます。"
     },
-    "ui3_and_ai_callouts.resize_or_minimize.description": {
-        "string": "Grab the navigation and properties panel edges to resize them, or click {minimizeUI} to tuck them away and get more canvas space."
+    "permissions.can_still_see_and_edit_allow_editing_by_org_members_with_link": {
+        "string": "{noun}ではリンクを知っている社内のメンバーに編集が許可されているため、このユーザーは{noun}を引き続き閲覧および編集できます。"
     },
-    "ui3_and_ai_callouts.resize_or_minimize.minimize_ui": {
-        "string": "Minimize UI"
+    "permissions.can_still_see_and_edit_anybody_with_the_link_noun": {
+        "string": "{noun}ではリンクを知っているすべてのユーザーに編集が許可されているため、このユーザーは{noun}を引き続き閲覧および編集できます。"
     },
-    "ui3_and_ai_callouts.refreshed_properties.title": {
-        "string": "Refreshed properties panel"
+    "permissions.can_still_see_and_edit_permission_main_file": {
+        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
     },
-    "ui3_and_ai_callouts.refreshed_properties.description": {
-        "string": "Along with improved icons, clearer affordances, and optional labels, the properties panel prioritizes the controls you need—right now."
+    "permissions.can_still_see_and_edit_permission_team_file_is_in": {
+        "string": "このユーザーにはファイルが含まれているチームの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
     },
-    "ui3_and_ai_callouts.ask_to_edit.title": {
-        "string": "Need to make some changes?"
+    "permissions.can_still_see_and_edit_permission_team_project_is_in": {
+        "string": "このユーザーにはファイルが含まれているプロジェクトの編集権限があるため、引き続き{noun}を閲覧および編集できます。"
     },
-    "ui3_and_ai_callouts.ask_to_edit.description": {
-        "string": "Ask for edit access for this file, right here from the toolbar."
+    "permissions.can_still_see_edit_permission_on_main_file": {
+        "string": "このユーザーにはメインファイルの編集権限があるため、引き続き{noun}を閲覧できます。"
     },
-    "ui3_and_ai_callouts.help.title": {
-        "string": "Redesign resources, at the ready"
+    "permissions.can_still_see_permission_project_file_is_on": {
+        "string": "このユーザーにはファイルが含まれているプロジェクトの権限があるため、引き続き{noun}を閲覧できます。"
     },
-    "ui3_and_ai_callouts.help.description": {
-        "string": "Click here to learn about the redesign, submit feedback, or switch back to the previous UI at any time."
+    "permissions.can_still_see_permission_team_file_is_on": {
+        "string": "このユーザーにはファイルが含まれているチームの権限があるため、引き続き{noun}を閲覧できます。"
     },
-    "ui3_and_ai_tour.ready_for_dev.title": {
-        "string": "Review everything ready for dev"
+    "permissions.confirm_guest_invite.external_to_org_warning": {
+        "string": "{numEmails, plural, other {{emails}は組織{orgName}の一部でないということを覚えておいてください。{learnMore}}}"
     },
-    "ui3_and_ai_tour.ready_for_dev.description": {
-        "string": "Inspect what’s ready, track updates, and get to building—all in one place."
+    "permissions.confirm_guest_invite.learn_more": {
+        "string": "詳細情報"
     },
-    "ui3_and_ai_tour.toolbar_dev_mode.title": {
-        "string": "Same tools, new home"
+    "permissions.confirm_guest_invite.send_invite": {
+        "string": "招待を送信"
     },
-    "ui3_and_ai_tour.toolbar_dev_mode.description": {
-        "string": "Select, annotate, measure, and comment from the new toolbar."
+    "permissions.confirm_guest_invite.share_externally": {
+        "string": "この組織の外で共有しますか?"
     },
-    "ui3_and_ai_welcome.learn_more_ai_link": {
-        "string": "Learn more"
+    "permissions.copy_link_button.tooltip.copy_link": {
+        "string": "リンクをコピー"
     },
-    "ui3_and_ai_welcome.ui3_and_ai.title": {
-        "string": "The future of AI and design is here"
+    "permissions.copy_link_button.tooltip.copy_link_prototype": {
+        "string": "プロトタイプリンクをコピー"
     },
-    "ui3_and_ai_welcome.ui3_and_ai.body": {
-        "string": "Check out the new, redesigned Figma—we call it UI3—along with AI tools."
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_access": {
+        "string": "リンクをコピー・{org}の全員がアクセス可"
     },
-    "ui3_and_ai_welcome.ui3_and_ai.beta_disclaimer": {
-        "string": "AI features are free to use while in beta. After that, an additional fee may apply. {learnMore}"
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_access_no_name": {
+        "string": "リンクをコピー・この組織の全員がアクセス可"
     },
-    "ui3_and_ai_welcome.ui3_and_ai.cta": {
-        "string": "Take the tour"
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_view_no_name_prototype": {
+        "string": "プロトタイプリンクをコピー・この組織の全員が閲覧可"
     },
-    "ui3_and_ai_welcome.ui3_only.title": {
-        "string": "The wait is over: try the redesigned Figma in beta"
+    "permissions.copy_link_button.tooltip.everyone_at_org_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・{org}の全員が閲覧可"
     },
-    "ui3_and_ai_welcome.ui3_only.body": {
-        "string": "You beta believe it—check out UI3, in beta, before it officially launches later this year."
+    "permissions.copy_link_button.tooltip.everyone_at_team_can_access": {
+        "string": "リンクをコピー・{team}の全員がアクセス可"
     },
-    "ui3_and_ai_welcome.ui3_only.cta": {
-        "string": "Take the tour"
+    "permissions.copy_link_button.tooltip.everyone_at_team_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・{team}の全員が閲覧可"
     },
-    "ui3_and_ai_welcome.ai_only.title": {
-        "string": "The future of AI and design is here"
+    "permissions.copy_link_button.tooltip.members_of_project_can_access": {
+        "string": "リンクをコピー・{folder}のメンバーはアクセス可"
     },
-    "ui3_and_ai_welcome.ai_only.body": {
-        "string": "Get excited—we’ve just added a bundle of helpful AI tools to the actions menu."
+    "permissions.copy_link_button.tooltip.members_of_project_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・{folder}のメンバーが閲覧可"
     },
-    "ui3_and_ai_welcome.ai_only.beta_disclaimer": {
-        "string": "AI features are free to use while in beta. After that, an additional fee may apply. {learnMore}"
+    "permissions.copy_link_button.tooltip.members_of_project_or_team_can_access": {
+        "string": "リンクをコピー・このプロジェクトまたはチームのメンバーはアクセス可"
     },
-    "ui3_and_ai_welcome.ai_only.cta": {
-        "string": "Check out the actions menu"
+    "permissions.copy_link_button.tooltip.members_of_project_or_team_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・このプロジェクトまたはチームのメンバーが閲覧可"
     },
-    "ui3_and_ai_welcome.ai_legal_consent.ai_subprocessors_link": {
-        "string": "AI subprocessors"
+    "permissions.copy_link_button.tooltip.people_invited_can_access": {
+        "string": "リンクをコピー・招待されたユーザーはアクセス可"
     },
-    "ui3_and_ai_welcome.ai_legal_consent.software_services_agreement_link": {
-        "string": "Software Services Agreement"
+    "permissions.copy_link_button.tooltip.people_invited_can_view_prototype": {
+        "string": "プロトタイプリンクをコピー・招待されたユーザーが閲覧可"
     },
-    "ui3_and_ai_welcome.ai_legal_consent.subprocessors_and_ssa": {
-        "string": "By continuing, you consent to Figma’s {subprocessorsLink} and {softwareServicesAgreementLink}, regardless of any other agreement you may have with Figma."
+    "permissions.copy_link_button.visual_bell.copy_prototype_link": {
+        "string": "プロトタイプリンクがコピーされました"
     },
-    "ui3_and_ai_welcome.ai_legal_consent.subprocessors_only": {
-        "string": "By using AI features, you consent to Figma’s {subprocessorsLink}."
+    "permissions.copy_link_button.visual_bell.copy_prototype_link_name": {
+        "string": "{name}プロトタイプリンクがコピーされました"
     },
-    "ui3_and_ai_welcome.ai_legal_consent.ssa_only": {
-        "string": "By continuing, you consent to Figma’s {softwareServicesAgreementLink}, regardless of any other agreement you may have with Figma."
+    "permissions.copy_link_button.visual_bell.copy_summary_link": {
+        "string": "リンクがコピーされました..."
     },
-    "ui3_and_ai_callouts.fragment_search.title": {
-        "string": "Find (very nearly) anything"
+    "permissions.copy_link_button.visual_bell.see_link_settings": {
+        "string": "リンク設定を参照"
     },
-    "ui3_and_ai_callouts.fragment_search.description": {
-        "string": "Find assets and designs—from all across your team—simply by describing them."
+    "permissions.deprovisioned_users.got_it": {
+        "string": "了解"
     },
-    "ui3_and_ai_callouts.fragment_search.cta": {
-        "string": "Try it out"
+    "permissions.deprovisioned_users.these_users_are_no_longer_in_the_org_name_organization_add_them_again_through_SCIM": {
+        "string": "{numEmails, plural, other {以下の人たちは組織{orgName}内のユーザーではなくなっています。招待を送信したい人がいる場合は、SCIMを通じてその人を組織に改めて登録するよう管理者に依頼してください。{listEmails}}}"
     },
-    "rcs.back_to_file_browser.the_file_browser_allows_you_to": {
-        "string": "The file browser allows you to navigate through your account. You can use it to access personal files, create and join teams, and connect with the wider Figma community."
+    "permissions.embed.cancel_embed": {
+        "string": "キャンセル"
     },
-    "rcs.back_to_file_browser.you_can_head_there_by_clicking_on_option_in_the_main_menu": {
-        "string": "You can head there by clicking on {optionName} in the main menu."
+    "permissions.embed.copy_embed_code": {
+        "string": "コピー"
     },
-    "rcs.back_to_file_browser.back_to_files": {
-        "string": "Back to files"
+    "permissions.embed.copy_public_embed_code": {
+        "string": "公開埋め込みコードをコピー"
     },
-    "rcs.back_to_file_browser.file_browser": {
-        "string": "File browser"
+    "permissions.embed.embed_page_name_in_your_webpage": {
+        "string": "Webページに{pageName}を埋め込みます"
     },
-    "rcs.comments.leave_notes_right_in_your_design_files": {
-        "string": "Leave notes right in your design files."
+    "permissions.guests_banned.got_it": {
+        "string": "了解"
     },
-    "rcs.comments.get_feedback_requests_and_copy_updates_where_you_ll_use_them_not_in_your_inbox": {
-        "string": "Get feedback, requests, and copy updates where you’ll use them, not in your inbox."
+    "permissions.guests_banned.invite_wasnt_sent_org_name": {
+        "string": "{numEmails, plural, other {{listEmails}に招待が送信されませんでした。組織{orgName}では外部ユーザーとの共有が許可されていません。}}"
     }
 }

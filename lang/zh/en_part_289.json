@@ -1,152 +1,152 @@
 {
-    "plan_settings.billing_section_header": {
-        "string": "Billing"
+    "sites.lint.opacity-layer": {
+        "string": "レイヤーに不透明度を直接適用する"
     },
-    "org_admin_settings.settings_tab.billing.update_invoice_details.label": {
-        "string": "Invoice details"
+    "sites.lint.remove-action": {
+        "string": "アクションを削除"
     },
-    "org_admin_settings.settings_tab.billing.update_invoice_details.description": {
-        "string": "Update the shipping address that appears on your invoices."
+    "sites.lint.remove-alignment": {
+        "string": "位置揃えを削除"
     },
-    "settings_tab.vat_gst": {
-        "string": "Value Added Tax / Goods and Services Tax"
+    "sites.lint.remove-blend-mode": {
+        "string": "ブレンドモードを削除"
     },
-    "settings_tab.change_vat_gst_id": {
-        "string": "Add a VAT or GST identification number if you are paying for this Figma plan as a business."
+    "sites.lint.remove-effect": {
+        "string": "エフェクトを削除"
     },
-    "plan_settings.default_role": {
-        "string": "Default seat type"
+    "sites.lint.remove-filters": {
+        "string": "フィルターをリセット"
     },
-    "settings_table.organization": {
-        "string": "organization"
+    "sites.lint.remove-gradient": {
+        "string": "グラデーションを削除"
     },
-    "settings_tab.configured_upgrade_request_flow.label": {
-        "string": "Reroute upgrade requests"
+    "sites.lint.remove-image": {
+        "string": "画像を削除"
     },
-    "settings_tab.configured_upgrade_request_flow.description_members": {
-        "string": "Your organization redirects members to a custom URL to request an upgrade. To change or disable this, please contact support."
+    "sites.lint.remove-opacity": {
+        "string": "不透明度を削除"
     },
-    "settings_tab.configured_upgrade_request_flow.description_all_users": {
-        "string": "Your organization redirects all users to a custom URL to request an upgrade. To change or disable this, please contact support."
+    "sites.lint.remove-rotation": {
+        "string": "回転を削除"
     },
-    "plan_settings.seat_upgrade_digests": {
-        "string": "Seat upgrade digests"
+    "sites.lint.remove-trigger": {
+        "string": "トリガーを削除"
     },
-    "plan_settings.seat_upgrade_digests_description": {
-        "string": "Get emailed when members upgrade from a free to a paid seat."
+    "sites.lint.remove-vertical-trim": {
+        "string": "上下トリミングをオフにする"
     },
-    "settings_table.billing_contacts": {
-        "string": "Billing contacts"
+    "sites.lint.remove-video": {
+        "string": "動画を削除"
     },
-    "settings_table.billing_contacts_description": {
-        "string": "Choose who gets email notifications about renewals, invoices, and payments."
+    "sites.lint.reset-to-default": {
+        "string": "デフォルトにリセット"
     },
-    "settings_tab.section_header.resources": {
-        "string": "Resources"
+    "sites.lint.reset-transform": {
+        "string": "変換をリセット"
     },
-    "settings_tab.section_header.extensions": {
-        "string": "Extensions"
+    "sites.lint.rotate-layer": {
+        "string": "レイヤー自体を回転"
     },
-    "settings_tab.plugin_approval_label": {
-        "string": "Plugin approval"
+    "sites.lint.scrolling/scrolling-enabled-with-clipped-content": {
+        "string": "コンテンツの表示によるスクロールのオーバーフロー"
     },
-    "settings_tab.plugin_approval_description": {
-        "string": "Require admin approval for Community plugins"
+    "sites.lint.set-clip-content": {
+        "string": "「コンテンツを隠す」に設定"
     },
-    "settings_tab.widget_admin_approval_label": {
-        "string": "Widget approval"
+    "sites.lint.set-corner-smoothing-zero": {
+        "string": "「0%」に設定"
     },
-    "settings_tab.widget_admin_approval_description": {
-        "string": "Require admin approval for Community widgets"
+    "sites.lint.set-spacing-auto": {
+        "string": "「自動」に設定"
     },
-    "settings_tab.dev_mode_label": {
-        "string": "Dev Mode settings"
+    "sites.lint.shadows-may-look-different": {
+        "string": "シャドウがプレビューで異なって見える場合があります"
     },
-    "settings_tab.dev_mode_description": {
-        "string": "Customize the experience of all Dev Mode users in your organization"
+    "sites.lint.stroke-dash-may-look-different": {
+        "string": "破線がプレビューで異なって見える場合があります"
     },
-    "settings_tab.ui_kits_toggle_label": {
-        "string": "UI kits"
+    "sites.lint.strokes/corner-smoothing": {
+        "string": "角のスムージング"
     },
-    "settings_tab.ui_kits_toggle_description": {
-        "string": "Enable libraries made by Figma and selected partners to be available by default in design files"
+    "sites.lint.styles/autolayout-baseline-alignment": {
+        "string": "テキストがベースライン揃えに設定されているオートテキスト。位置揃えがされているテキストレイヤーの1つがフレーム内でネストされています"
     },
-    "settings_tab.section_header.ai_beta": {
-        "string": "AI beta"
+    "sites.lint.styles/diamond-gradient-fills": {
+        "string": "変換を含むひし形グラデーション"
     },
-    "admin_settings.ai.data_sharing.disabled_for_orgs": {
-        "string": "For organizations like yours, this can’t be turned on"
+    "sites.lint.styles/image-filters": {
+        "string": "画像フィルター"
     },
-    "settings_tab.ai_beta.figma_and_figjam_ai": {
-        "string": "Figma and FigJam AI"
+    "sites.lint.styles/shadow-blend-mode": {
+        "string": "ブレンドモードを含むシャドウ"
     },
-    "settings_tab.section_header.slides": {
-        "string": "Figma Slides"
+    "sites.lint.styles/strokes-blend-mode": {
+        "string": "ブレンドモードを含む線"
     },
-    "settings_tab.slides.access_to_slides": {
-        "string": "Access to Figma Slides"
+    "sites.lint.styles/strokes-dash-pattern": {
+        "string": "破線"
     },
-    "settings_tab.slides.enable_success": {
-        "string": "Figma Slides is now enabled and available for your organization"
+    "sites.lint.styles/strokes-gradient": {
+        "string": "グラデーションを含む線"
     },
-    "settings_tab.slides.disable_success": {
-        "string": "Figma Slides is now disabled for your organization"
+    "sites.lint.styles/strokes-image": {
+        "string": "画像を含む線"
     },
-    "settings_tab.section_header.other": {
-        "string": "Other"
+    "sites.lint.styles/strokes-join-miter": {
+        "string": "特殊結合を含む線"
     },
-    "settings_tab.audio_label": {
-        "string": "Audio"
+    "sites.lint.styles/text-background-blur": {
+        "string": "背景にぼかしを含むテキスト"
     },
-    "settings_tab.audio_description": {
-        "string": "Enable users to use audio in your organization's files"
+    "sites.lint.styles/text-inner-shadows": {
+        "string": "内側にシャドウを含むテキスト"
     },
-    "settings_tab.audio_enabled": {
-        "string": "Users may now use audio within your organization's files"
+    "sites.lint.styles/video": {
+        "string": "動画"
     },
-    "settings_tab.audio_disabled": {
-        "string": "Audio is disabled within your organization's files"
+    "sites.lint.text/vertical-trim": {
+        "string": "上下トリミング"
     },
-    "settings_tab.custom_templates_label": {
-        "string": "Template publishing"
+    "sites.lint.use-frame-rectangle-vector-gradient": {
+        "string": "グラデーションを含むフレーム、長方形、またはベクターシェイプを使用する"
     },
-    "settings_tab.custom_templates_description.v2": {
-        "string": "Let users publish FigJam and Figma Slides templates within your organization (if they have access to the tool)."
+    "sites.lint.use-frame-rectangle-vector-image": {
+        "string": "画像を含むフレーム、長方形、またはベクターシェイプを使用する"
     },
-    "settings_tab.custom_templates_description": {
-        "string": "Let users publish FigJam templates within your organization"
+    "sites.lint.use-multiply": {
+        "string": "乗算を使用"
     },
-    "settings_tab.custom_templates_enabled": {
-        "string": "Custom templates are now enabled"
+    "sites.lint.use-vector-shape": {
+        "string": "ベクターシェイプまたはマスクを使用する"
     },
-    "settings_tab.custom_templates_disabled": {
-        "string": "Custom templates are now disabled"
+    "sites.modal.open-full-preview": {
+        "string": "フルプレビューを開く"
     },
-    "settings_tab.cursor_chat_label": {
-        "string": "Cursor chat"
+    "sites.modal.reload": {
+        "string": "プレビューの再読み込み"
     },
-    "settings_tab.cursor_chat_description": {
-        "string": "Enable cursor chat for all files in your organization"
+    "sites.preview.layouts": {
+        "string": "レイアウト"
     },
-    "settings_tab.enable_cursor_chat_success": {
-        "string": "Cursor chat enabled"
+    "sites.preview.scale": {
+        "string": "拡大縮小"
     },
-    "settings_tab.disable_cursor_chat_success": {
-        "string": "Cursor chat disabled"
+    "sites.alpha_cta.be_careful_when_others_can_see_your_screen_and_only_share_feedback_below": {
+        "string": "他の人に画面が見えるときには注意し、フィードバックは以下でのみ共有してください。"
     },
-    "settings_tab.community_file_publishing_label": {
-        "string": "Community file publishing"
+    "sites.alpha_cta.share_feedback": {
+        "string": "フィードバックを共有"
     },
-    "settings_tab.community_file_publishing_description": {
-        "string": "Allow organization admins to publish files to their personal profiles on Community"
+    "sites.alpha_cta.sites_is_still_under_wraps": {
+        "string": "サイトはまだ非公開です"
     },
-    "settings_tab.enable_community_file_publishing_success": {
-        "string": "Community user publishing enabled"
+    "sites.panel.accessibility_alt_text_label": {
+        "string": "altテキスト"
     },
-    "settings_tab.disable_community_file_publishing_success": {
-        "string": "Community user publishing disabled"
+    "sites.panel.accessibility_aria_label_label": {
+        "string": "ラベル(ARIA)"
     },
-    "settings_tab.member_metadata_label": {
-        "string": "Member metadata"
+    "sites.panel.accessibility_header": {
+        "string": "アクセシビリティ"
     }
 }

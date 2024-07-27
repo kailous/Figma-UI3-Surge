@@ -1,152 +1,152 @@
 {
-    "fullscreen.font_settings.enable_local_fonts": {
-        "string": "Enable local fonts"
+    "design_systems.publishing_modal.invalid_components_with_count": {
+        "string": "无效的资产{countString}"
     },
-    "fullscreen.type_panel.font_size": {
-        "string": "Font size"
+    "design_systems.publishing_modal.list_item_changed_variable_count": {
+        "string": "{count, plural, other {{count}个更改的变量}}"
     },
-    "fullscreen.type_panel.variable_font_axes": {
-        "string": "Variable font axes…"
+    "design_systems.publishing_modal.marked_for_publish_header_with_count": {
+        "string": "标记为发布{countString}"
     },
-    "fullscreen.type_panel.letter_spacing": {
-        "string": "Letter spacing"
+    "design_systems.publishing_modal.missing_properties": {
+        "string": "缺少属性"
     },
-    "fullscreen.type_panel.line_height": {
-        "string": "Line height"
+    "design_systems.publishing_modal.modal_header": {
+        "string": "发布库"
     },
-    "fullscreeen.type_panel.resizing": {
-        "string": "Resizing"
+    "design_systems.publishing_modal.modal_header_community_library": {
+        "string": "发布社区库"
     },
-    "fullscreen.type_panel.auto_width": {
-        "string": "Auto width"
+    "design_systems.publishing_modal.modified": {
+        "string": "已修改"
     },
-    "fullscreen.type_panel.auto_height": {
-        "string": "Auto height"
+    "design_systems.publishing_modal.move_components_warning": {
+        "string": "同时移动和修改组件可能导致批准库更新的用户丢失对该组件所做的覆盖。{helpArticle}"
     },
-    "fullscreen.type_panel.fixed_size": {
-        "string": "Fixed size"
+    "design_systems.publishing_modal.move_to_this_file": {
+        "string": "移动到此文件"
     },
-    "fullscreen.type_panel.update_agent_cta": {
-        "string": "{link} to start using variable fonts and enable future automatic updates"
+    "design_systems.publishing_modal.moved_to_this_file": {
+        "string": "已移动到此文件"
     },
-    "fullscreen.type_panel.update_your_font_installer": {
-        "string": "Update your font installer"
+    "design_systems.publishing_modal.multiple_paste": {
+        "string": "此组件被重复粘贴。将作为新组件发布，现有组件实例不受影响。"
     },
-    "fullscreen.type_panel.properties": {
-        "string": "Properties"
+    "design_systems.publishing_modal.multiple_paste_style": {
+        "string": "此样式被重复粘贴。将作为新样式发布，现有样式实例不受影响。"
     },
-    "properties.label.line_height": {
-        "string": "Line height"
+    "design_systems.publishing_modal.no_changes": {
+        "string": "无更改"
     },
-    "properties.label.letter_spacing": {
-        "string": "Letter spacing"
+    "design_systems.publishing_modal.org_access_false_with_team_access": {
+        "string": "{teamName}的所有用户"
     },
-    "fullscreen.type_panel.type_details": {
-        "string": "Type details"
+    "design_systems.publishing_modal.org_access_false_without_team_access": {
+        "string": "所有被邀请到此文件的用户"
     },
-    "fullscreen.type_panel.type_settings": {
-        "string": "Type settings"
+    "design_systems.publishing_modal.org_access_true": {
+        "string": "{orgName}的所有用户"
     },
-    "fullscreen.type_panel.typography": {
-        "string": "Typography"
+    "design_systems.publishing_modal.publish_as_copy": {
+        "string": "作为副本发布"
     },
-    "fullscreen.type_panel.text": {
-        "string": "Text"
+    "design_systems.publishing_modal.publish_as_move_info_component": {
+        "string": "此组件从{fileName}移动到此文件，其实例将连接到此文件。"
     },
-    "fullscreen.type_panel.list_spacing": {
-        "string": "List spacing"
+    "design_systems.publishing_modal.publish_as_move_info_style": {
+        "string": "此样式从{fileName}移动到此文件，所有未来使用将影响此文件。"
     },
-    "fullscreen.type_panel.paragraph_spacing": {
-        "string": "Paragraph spacing"
+    "design_systems.publishing_modal.publish_button_text": {
+        "string": "发布"
     },
-    "type_settings.truncate_text": {
-        "string": "Truncate text"
+    "design_systems.publishing_modal.publish_destination_as_copy_info": {
+        "string": "发布此新副本不会移动实例连接。"
     },
-    "type_settings.update": {
-        "string": "Update"
+    "design_systems.publishing_modal.publish_source_component_as_copy_info": {
+        "string": "此组件已移动到{fileName}。发布此新副本不会更新其他文件的实例。"
     },
-    "type_settings.new_text_rendering_method_used": {
-        "string": "New text rendering method used."
+    "design_systems.publishing_modal.publish_source_style_as_copy_info": {
+        "string": "此样式已移动到{fileName}。发布此新副本不会更新其他文件的实例。"
     },
-    "type_settings.revert": {
-        "string": "Revert"
+    "design_systems.publishing_modal.publish_styles": {
+        "string": "发布样式"
     },
-    "type_settings.bidi_update_desc": {
-        "string": "Update this selection to get bidirectional text support"
+    "design_systems.publishing_modal.publish_to": {
+        "string": "发布对象：{audienceDropdown}"
     },
-    "type_settings.explicit_text_layout_update_desc": {
-        "string": "Update for improved paragraph spacing options."
+    "design_systems.publishing_modal.publish_to_community": {
+        "string": "发布到社区"
     },
-    "type_settings.resizing": {
-        "string": "Resizing"
+    "design_systems.publishing_modal.publishing_took_too_long": {
+        "string": "发布时间过长。请减少发布的样式和组件数量并重试。"
     },
-    "type_settings.alignment": {
-        "string": "Alignment"
+    "design_systems.publishing_modal.read_the_help_article": {
+        "string": "查看详情 →"
     },
-    "type_settings.decoration": {
-        "string": "Decoration"
+    "design_systems.publishing_modal.removed": {
+        "string": "已删除"
     },
-    "type_settings.list_style": {
-        "string": "List style"
+    "design_systems.publishing_modal.reordered": {
+        "string": "已重新排序"
     },
-    "type_settings.leading_trim": {
-        "string": "Vertical trim"
+    "design_systems.publishing_modal.search_placeholder": {
+        "string": "搜索"
     },
-    "type_settings.case": {
-        "string": "Case"
+    "design_systems.publishing_modal.secret_publish_warning": {
+        "string": "发布给{orgName}的所有人可能会暴露机密团队名称。为避免此情况，请将文件移动到公开或受限团队后再发布。"
     },
-    "type_settings.letter_case": {
-        "string": "Letter case"
+    "design_systems.publishing_modal.secret_publish_warning_orgname": {
+        "string": "组织"
     },
-    "type_settings.numbers": {
-        "string": "Numbers"
+    "design_systems.publishing_modal.see_variables": {
+        "string": "查看变量"
     },
-    "type_settings.numeric.style": {
-        "string": "Style"
+    "design_systems.publishing_modal.select_component": {
+        "string": "选择组件"
     },
-    "type_settings.position": {
-        "string": "Position"
+    "design_systems.publishing_modal.show_when_publishing": {
+        "string": "发布时显示"
     },
-    "type_settings.max_lines": {
-        "string": "Max lines"
+    "design_systems.publishing_modal.standard_upsell": {
+        "string": "{numComponents, plural, other {{numComponents}个组件未发布。只有专业团队成员才能将组件发布到共享库。要使用此功能，请{teamUpsellLink}或加入现有团队。}}"
     },
-    "type_settings.older_text_rendering_method_used": {
-        "string": "Older text rendering method used."
+    "design_systems.publishing_modal.starter_library_upsell": {
+        "string": "{numComponents, plural, other {{numComponents}个组件更改未发布。自定义组件只能在教育、专业和业务团队中发布。}}"
     },
-    "type_settings.older_text_rendering_method_used_for_part_of_the_selection": {
-        "string": "Older text rendering method used for part of the selection."
+    "design_systems.publishing_modal.styles": {
+        "string": "样式"
     },
-    "type_settings.decoration.none": {
-        "string": "None"
+    "design_systems.publishing_modal.templates": {
+        "string": "模板"
     },
-    "type_settings.decoration.underline": {
-        "string": "Underline"
+    "design_systems.publishing_modal.these_wont_be_published": {
+        "string": "这些不会被发布。"
     },
-    "type_settings.decoration.strikethrough": {
-        "string": "Strikethrough"
+    "design_systems.publishing_modal.too_many_modes_error": {
+        "string": "超过40种模式"
     },
-    "type_settings.decoration.paragraph_spacing": {
-        "string": "Paragraph spacing"
+    "design_systems.publishing_modal.too_many_variables_error": {
+        "string": "变量过多"
     },
-    "type_settings.decoration.list_spacing": {
-        "string": "List spacing"
+    "design_systems.publishing_modal.unchanged_header_with_count": {
+        "string": "未更改{countString}"
     },
-    "type_settings.leading_trim.font_does_not_support_leading_trim": {
-        "string": "Font doesn't support vertical trim"
+    "design_systems.publishing_modal.unmovable_state_group_with_movable_state": {
+        "string": "此组件包含以前在其他文件中发布的变体。发布后实例连接将移动到此文件。"
     },
-    "type_settings.leading_trim.none": {
-        "string": "Standard"
+    "design_systems.publishing_modal.unused_def_error": {
+        "string": "未使用的属性"
     },
-    "type_settings.leading_trim.cap_height": {
-        "string": "Cap height to baseline"
+    "design_systems.publishing_modal.upgrade_team": {
+        "string": "升级团队"
     },
-    "type_settings.hanging_punctuation": {
-        "string": "Hanging punctuation"
+    "design_systems.publishing_modal.variable_collections": {
+        "string": "变量集合"
     },
-    "type_settings.hanging_lists": {
-        "string": "Hanging lists"
+    "design_systems.shared_fonts.apply_to_all_remaining_uploads": {
+        "string": "应用于剩余的{numRemainingUploads, plural, other {个上传}}"
     },
-    "type_settings.indentation": {
-        "string": "Indentation"
+    "design_systems.shared_fonts.are_you_sure_you_want_to_delete": {
+        "string": "确定要删除{numFonts, plural, other {个字体}}吗？"
     }
 }

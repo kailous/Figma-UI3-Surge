@@ -1,152 +1,302 @@
 {
-    "file_browser.file_import_view.importing_to_fig_jam": {
-        "string": "Importing to FigJam"
+    "edu.not_a_student_or_educator": {
+        "string": "不是学生或教育工作者吗？"
     },
-    "file_browser.file_import_view.importing": {
-        "string": "Importing…"
+    "edu.november": {
+        "string": "十一月"
     },
-    "file_browser.tool_bar.drafts": {
-        "string": "Drafts"
+    "edu.now_you_have_all_our_professional_tools_that_make_collaborating_fun_and_easy_create_upgrade_or_join_an_existing_team_to_get_started": {
+        "string": "现在您拥有我们所有的专业工具，使协作变得有趣且轻松。创建、升级或加入现有团队以开始使用。"
     },
-    "file_browser.file_import_view.import_to_folder": {
-        "string": "Importing to {folderName}"
+    "edu.october": {
+        "string": "十月"
     },
-    "tile.file_tile.edited_time_with_separator": {
-        "string": " · Edited {time}"
+    "edu.offboarding_modal.continue_below_to_upgrade_your_team_s_to_the_professional_plan_or": {
+        "string": "继续以下操作将您的团队升级到专业计划或{createProTeamLink}。"
     },
-    "tile.file_tile.published_as_library": {
-        "string": "Published as library\n{time}"
+    "edu.offboarding_modal.create_a_new_professional_team": {
+        "string": "创建一个新的专业团队"
     },
-    "locked_team.label.view_only": {
-        "string": "View-only"
+    "edu.offboarding_modal.create_a_new_professional_team_and_start_fresh": {
+        "string": "创建一个新的专业团队并重新开始。"
     },
-    "locked_team.label.tooltip": {
-        "string": "This team is currently locked."
+    "edu.offboarding_modal.create_a_new_professional_team_cta": {
+        "string": "创建一个新的专业团队"
     },
-    "tile.tooltip.external_file": {
-        "string": "From a project outside this team"
+    "edu.offboarding_modal.duplicate_or_move_files_to_your_drafts_to_save_them_for_later": {
+        "string": "将文件复制或移动到草稿中以便稍后保存。"
     },
-    "revoke_transfer_modal.transfer_copy_details": {
-        "string": "{sourceUserEmail} requested to transfer a copy of this project to {destinationUserEmail}"
+    "edu.offboarding_modal.duplicate_or_move_files_to_your_drafts_to_save_them_for_later_and_consider_transferring_ownership_of_your_team_s": {
+        "string": "将文件复制或移动到草稿中以便稍后保存，并考虑{transferringOwnershipLink}。"
     },
-    "revoke_transfer_modal.transfer_details": {
-        "string": "{sourceUserEmail} requested to transfer this project to {destinationUserEmail}"
+    "edu.offboarding_modal.if_you_graduated": {
+        "string": "如果您已经毕业："
     },
-    "revoke_transfer_modal.function_explanation": {
-        "string": "If you revoke this request, the pending transfer will be canceled."
+    "edu.offboarding_modal.if_you_re_still_in_education": {
+        "string": "如果您仍在接受教育："
     },
-    "revoke_transfer_modal.header_title": {
-        "string": "Pending transfer request"
+    "edu.offboarding_modal.the_team_you_own_is_now_view_only_for_all_members": {
+        "string": "您拥有的团队{teamName}现在对所有成员只读。"
     },
-    "revoke_transfer_modal.go_back": {
-        "string": "Go back"
+    "edu.offboarding_modal.the_team_you_own_is_now_view_only_for_all_members_and_you_can_no_longer_make_edits": {
+        "string": "{teamCount, plural, other {您拥有的团队{teamName}现在对所有成员只读，您不能再进行编辑。还有{teamCount}个其他团队。}}"
     },
-    "revoke_transfer_modal.revoke": {
-        "string": "Revoke request"
+    "edu.offboarding_modal.the_team_you_own_will_become_view_only_for_all_members_and_you_ll_lose_edit_access_to_other_teams": {
+        "string": "{teamCount, plural, other {当您的计划到期后，您拥有的团队{teamName}将对所有成员只读，您将失去其他{teamCount}个团队的编辑权限。}}"
     },
-    "resource_rename_modal.edit_description": {
-        "string": "Edit description"
+    "edu.offboarding_modal.the_team_you_own_will_become_view_only_for_all_members_once_your_plan_expires": {
+        "string": "当您的计划到期后，您拥有的团队{teamName}将对所有成员只读。"
     },
-    "resource_rename_modal.save": {
-        "string": "Save"
+    "edu.offboarding_modal.the_three_teams_you_own_are_now_view_only_for_all_members": {
+        "string": "您拥有的团队{teamName1}、{teamName2}、{teamName3}现在对所有成员只读。"
     },
-    "asset_transfers.editor_admin_list_modal.admins_at_entity": {
-        "string": "Admins at {entity}"
+    "edu.offboarding_modal.the_three_teams_you_own_are_now_view_only_for_all_members_and_you_can_no_longer_make_edits": {
+        "string": "{teamCount, plural, other {您拥有的团队{teamName1}、{teamName2}、{teamName3}现在对所有成员只读，您不能再进行编辑。还有{teamCount}个其他团队。}}"
     },
-    "asset_transfers.editor_admin_list_modal.any_of_these_admins_can_transfer_this_project_to_an_external_organization": {
-        "string": "Any of these admins can transfer this project to an external organization. They'll need the email of a contact person or admin at that organization to get started."
+    "edu.offboarding_modal.the_three_teams_you_own_will_become_view_only_for_all_members_and_you_ll_lose_edit_access_to_other_teams": {
+        "string": "{teamCount, plural, other {当您的计划到期后，您拥有的团队{teamName1}、{teamName2}、{teamName3}将对所有成员只读，您将失去其他{teamCount}个团队的编辑权限。}}"
     },
-    "asset_transfers.editor_admin_list_modal.any_of_these_admins_can_transfer_this_team_to_an_external_organization": {
-        "string": "Any of these admins can transfer this team to an external organization. They'll need the email of a contact person or admin at that organization to get started."
+    "edu.offboarding_modal.the_three_teams_you_own_will_become_view_only_for_all_members_once_your_plan_expires": {
+        "string": "当您的计划到期后，您拥有的团队{teamName1}、{teamName2}、{teamName3}将对所有成员只读。"
     },
-    "general.fallback_team_name": {
-        "string": "Team"
+    "edu.offboarding_modal.the_two_teams_you_own_are_now_view_only_for_all_members": {
+        "string": "您拥有的团队{teamName1}和{teamName2}现在对所有成员只读。"
     },
-    "asset_transfers.request_modal.learn_more": {
-        "string": "Learn more"
+    "edu.offboarding_modal.the_two_teams_you_own_are_now_view_only_for_all_members_and_you_can_no_longer_make_edits": {
+        "string": "{teamCount, plural, other {您拥有的团队{teamName1}和{teamName2}现在对所有成员只读，您不能再进行编辑。还有{teamCount}个其他团队。}}"
     },
-    "asset_transfers.request_modal.you_can_transfer_this_project_and_its_content_to_another_organization": {
-        "string": "You can transfer this project and its content to another organization so they can manage it moving forward."
+    "edu.offboarding_modal.the_two_teams_you_own_will_become_view_only_for_all_members_and_you_ll_lose_edit_access_to_other_teams": {
+        "string": "{teamCount, plural, other {当您的计划到期后，您拥有的团队{teamName1}和{teamName2}将对所有成员只读，您将失去其他{teamCount}个团队的编辑权限。}}"
     },
-    "asset_transfers.request_modal.you_can_transfer_this_team_and_its_content_to_another_organization": {
-        "string": "You can transfer this team and its content to another organization so they can manage it moving forward."
+    "edu.offboarding_modal.the_two_teams_you_own_will_become_view_only_for_all_members_once_your_plan_expires": {
+        "string": "当您的计划到期后，您拥有的团队{teamName1}和{teamName2}将对所有成员只读。"
     },
-    "asset_transfers.request_modal.next_steps": {
-        "string": "Next Steps"
+    "edu.offboarding_modal.to_save_your_work": {
+        "string": "要保存您的工作内容："
     },
-    "asset_transfers.request_modal.you_ll_need_the_email_address_of_a_contact_person": {
-        "string": "You'll need the email address of a contact person at the other organization, which must be on an {strongPlan} {learnMore}"
+    "edu.offboarding_modal.transferring_ownership": {
+        "string": "转让所有权"
     },
-    "asset_transfers.request_modal.enterprise_or_organization_plan": {
-        "string": "Enterprise or Organization plan."
+    "edu.offboarding_modal.upgrade_to_professional": {
+        "string": "升级到专业版"
     },
-    "asset_transfers.request_modal.ask_your_contact_person_for_a_link_to_a_team_in_their_figma_org": {
-        "string": "Ask your contact person for a link to a team in their Figma organization so the project transfers to the right place. {learnMore}"
+    "edu.offboarding_modal.verify_your_status": {
+        "string": "验证您的状态"
     },
-    "asset_transfers.request_modal.ask_your_contact_person_for_a_link_to_their_figma_organization_so_the_team_transfers_to_the_right_place": {
-        "string": "Ask your contact person for a link to their Figma organization so the team transfers to the right place. {learnMore}"
+    "edu.offboarding_modal.verify_your_status_to_keep_collaborating_with_your_teams": {
+        "string": "验证您的身份以继续与您的团队协作{verifyStatusLink}。"
     },
-    "asset_transfers.request_modal.when_you_send_your_request_the_contact_person_and_their_organization_admins_will_be_notified": {
-        "string": "When you send your request, the contact person and their organization admins will be notified."
+    "edu.offboarding_modal.you_can_no_longer_edit_team": {
+        "string": "您不能再编辑{teamName}。"
     },
-    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred": {
-        "string": "Once an admin accepts, the project will be transferred."
+    "edu.offboarding_modal.you_can_no_longer_edit_team_and_team": {
+        "string": "您不能再编辑{teamName1}和{teamName2}。"
     },
-    "asset_transfers.request_modal.once_an_admin_accepts_the_team_will_be_transferred": {
-        "string": "Once an admin accepts, the team will be transferred."
+    "edu.offboarding_modal.you_ll_lose_edit_access_to_team_and_team_once_your_plan_expires": {
+        "string": "当您的计划到期后，您将失去{teamName1}和{teamName2}的编辑权限。"
     },
-    "asset_transfers.request_modal.once_an_admin_accepts_the_project_will_be_transferred_some_of_your_members_may_still_have_access_to_the_project": {
-        "string": "Once an admin accepts, the project will be transferred. Some of your members may still have access to the project. {learnMore}"
+    "edu.offboarding_modal.you_ll_lose_edit_access_to_team_once_your_plan_expires": {
+        "string": "当您的计划到期后，您将失去{teamName}的编辑权限。"
     },
-    "asset_transfers.request_modal.once_an_admin_accepts_the_team_will_be_transferred_some_of_your_members_may_still_have_access_to_the_team": {
-        "string": "Once an admin accepts, the team will be transferred. Some of your members may still have access to the team. {learnMore}"
+    "edu.offboarding_modal.your_education_plan_expires_in_days": {
+        "string": "您的教育计划将在{daysLeft}天后到期。"
     },
-    "asset_transfers.request_modal.ask_the_other_organization_to_invite_back_members_due_to_external_collaboration_controls_for_project": {
-        "string": "Based on your settings, your organization’s members will have view-only access to files in this project after it transfers. If they need to edit, ask the other organization to invite them again, but from accounts different than the ones used to access your organization."
+    "edu.offboarding_modal.your_education_plan_has_expired": {
+        "string": "您的教育计划已到期。"
     },
-    "asset_transfers.request_modal.ask_the_other_organization_to_invite_back_members_due_to_external_collaboration_controls_for_team": {
-        "string": "Based on your settings, your organization’s members will have view-only access to files in this team after it transfers. If they need to edit, ask the other organization to invite them again, but from accounts different than the ones used to access your organization."
+    "edu.offboarding_modal.your_education_status": {
+        "string": "您的教育状态"
     },
-    "asset_transfers.request_modal.team_verified": {
-        "string": "Team verified"
+    "edu.or_create_a_new_team": {
+        "string": "或创建一个新团队"
     },
-    "asset_transfers.request_modal.data_meta_verified": {
-        "string": "{assetName} verified"
+    "edu.other_please_specify": {
+        "string": "其他（请说明）"
     },
-    "asset_transfers.request_modal.add_a_link": {
-        "string": "Add a link"
+    "edu.part_of_a_k_12_or_higher_education_institution_log_in_with_your_school_email_to_continue": {
+        "string": "是否属于K-12或高等教育机构？请使用您的学校邮箱登录以继续。"
     },
-    "asset_transfers.request_modal.add_link_here_description": {
-        "string": "After your contact person shares the web link to their Figma {destinationType} with you, add it here. {learnMore}"
+    "edu.please_email_us_at_education_figma_com": {
+        "string": "请通过{educationEmail}给我们发送邮件。"
     },
-    "asset_transfers.request_modal.learn_how_to_find_the_link": {
-        "string": "Learn how to find the link"
+    "edu.please_enter_a_valid_url": {
+        "string": "请输入有效的URL"
     },
-    "asset_transfers.request_modal.who_to_notify": {
-        "string": "Who to notify"
+    "edu.please_select_a_field_from_the_dropdown_list": {
+        "string": "请从下拉列表中选择一个字段"
     },
-    "asset_transfers.request_modal.errors.this_link_isn_t_valid": {
-        "string": "This link isn't valid. Please confirm with the other organization that you have the right URL."
+    "edu.please_select_a_graduation_date_in_the_future": {
+        "string": "请选择未来的毕业日期"
     },
-    "asset_transfers.request_modal.errors.you_don_t_need_a_transfer_to_move_projects_within_your_own_organization": {
-        "string": "You don't need a transfer to move projects within your own organization."
+    "edu.please_select_a_month": {
+        "string": "请选择一个月"
     },
-    "asset_transfers.request_modal.errors.you_don_t_need_a_transfer_to_move_teams_within_your_own_organization": {
-        "string": "You don't need a transfer to move teams within your own organization."
+    "edu.please_select_a_school_from_the_dropdown_list": {
+        "string": "请从下拉列表中选择一所学校"
     },
-    "asset_transfers.request_modal.errors.please_use_a_valid_email_format": {
-        "string": "Please use a valid email format"
+    "edu.please_select_a_type_from_the_dropdown_list": {
+        "string": "请从下拉列表中选择一种类型"
     },
-    "asset_transfers.request_modal.errors.this_email_isn_t_associated_with_the_destination_linked_above": {
-        "string": "This email isn't associated with the {destinationType} linked above. Please confirm that you have the right email."
+    "edu.please_select_a_year": {
+        "string": "请选择一年"
     },
-    "asset_transfers.request_modal.errors.you_don_t_need_a_transfer_to_move_projects_within_your_own_team": {
-        "string": "You don't need a transfer to move projects within your own team."
+    "edu.please_select_your_role": {
+        "string": "请选择您的角色"
     },
-    "asset_transfers.request_modal.errors.this_links_to_a_team_that_isn't_able_to_receive_transfers": {
-        "string": "This links to a team that isn't able to receive transfers."
+    "edu.please_share_a_url": {
+        "string": "请输入URL"
     },
-    "asset_transfers.request_modal.next": {
-        "string": "Next"
+    "edu.please_share_a_url_of_the_course_you_are_taking": {
+        "string": "请分享您所学课程的URL"
+    },
+    "edu.please_share_a_url_of_the_course_you_are_teaching": {
+        "string": "请分享您所教授课程的URL"
+    },
+    "edu.please_share_your_reason_for_applying_for_a_figma_education_plan": {
+        "string": "请分享您申请Figma教育计划的理由"
+    },
+    "edu.please_specify_a_field": {
+        "string": "请指定一个领域"
+    },
+    "edu.please_specify_the_name_of_your_school": {
+        "string": "请指定您的学校名称"
+    },
+    "edu.please_upload_a_copy": {
+        "string": "请上传一份副本"
+    },
+    "edu.please_upload_a_copy_of_your_bootcamp_receipt_or_course_confirmation": {
+        "string": "请上传训练营收据或课程确认信的副本"
+    },
+    "edu.please_upload_a_copy_of_your_class_schedule": {
+        "string": "请上传您的课程表副本"
+    },
+    "edu.please_upload_a_copy_of_your_class_syllabus": {
+        "string": "请上传您的课程大纲副本"
+    },
+    "edu.privacy_policy": {
+        "string": "隐私政策"
+    },
+    "edu.professional_tools": {
+        "string": "专业工具"
+    },
+    "edu.provide_proof_of_your_status_as_a_current_educator_student": {
+        "string": "请提供您当前作为教育工作者或学生身份的证明"
+    },
+    "edu.school_email_address": {
+        "string": "学校邮箱地址"
+    },
+    "edu.school_not_listed": {
+        "string": "列表中没有学校"
+    },
+    "edu.school_not_listed_please_specify_full_school_name": {
+        "string": "列表中没有学校（请指定学校的全名）"
+    },
+    "edu.science": {
+        "string": "科学"
+    },
+    "edu.september": {
+        "string": "九月"
+    },
+    "edu.sidebar_section.after_that_you_ll_need_to_upgrade_your_team_or_verify": {
+        "string": "之后，您需要升级您的团队或{verify}。"
+    },
+    "edu.sidebar_section.bootcamp_users_after_that_you_ll_need_to_upgrade_your_team": {
+        "string": "之后，继续编辑所有文件需要升级您的团队。"
+    },
+    "edu.sidebar_section.bootcamp_users_to_keep_editing_upgrade_your_team": {
+        "string": "要继续编辑所有文件并使用高级功能，请升级您的团队。"
+    },
+    "edu.sidebar_section.create_team": {
+        "string": "现在您可以免费创建一个团队，享受专业计划的全部福利。"
+    },
+    "edu.sidebar_section.education_plan_expired": {
+        "string": "教育计划已到期"
+    },
+    "edu.sidebar_section.education_plan_expires_in_days": {
+        "string": "教育计划将在{daysLeft}天后到期。"
+    },
+    "edu.sidebar_section.to_keep_editing_upgrade_your_team": {
+        "string": "要继续编辑，请升级您的团队或{verify}。"
+    },
+    "edu.sidebar_section.upgrade": {
+        "string": "免费升级您的团队？"
+    },
+    "edu.sidebar_section.verified": {
+        "string": "Figma教育资格已验证。"
+    },
+    "edu.sidebar_section.verify_your_education_status": {
+        "string": "验证您的教育身份"
+    },
+    "edu.social_studies": {
+        "string": "社会研究"
+    },
+    "edu.still_having_trouble": {
+        "string": "仍有问题吗？"
+    },
+    "edu.still_having_trouble_after_logging_in_with_your_school_email": {
+        "string": "使用学校邮箱登录后仍有问题吗？"
+    },
+    "edu.still_having_trouble_give_us_a_bit_more_information": {
+        "string": "如果问题仍未解决，请提供更多信息{moreInformation}。"
+    },
+    "edu.student": {
+        "string": "学生"
+    },
+    "edu.submit": {
+        "string": "提交"
+    },
+    "edu.terms_of_service": {
+        "string": "服务条款"
+    },
+    "edu.upgrade_for_free": {
+        "string": "免费升级"
+    },
+    "edu.upgrade_teams.body": {
+        "string": "教育团队可以免费享受所有{link}。"
+    },
+    "edu.upgrade_teams.body_link_text": {
+        "string": "专业计划的福利"
+    },
+    "edu.upgrade_teams.body_multiple_teams": {
+        "string": "如果要升级多个团队，请逐个进行。"
+    },
+    "edu.upgrade_teams.headline": {
+        "string": "选择免费升级的团队"
+    },
+    "edu.upgrade_your_plan": {
+        "string": "升级您的计划"
+    },
+    "edu.upgrade_your_plan_to_access_unlimited_files_and_features_like_advanced_prototyping_or_create_a_new_professional_team": {
+        "string": "升级您的计划以访问无限的文件和高级原型设计功能，或创建一个新的专业团队{upgradeYourPlan}或{createNewProfessionalTeam}。"
+    },
+    "edu.upgrade_your_plan_to_keep_creating_and_editing_unlimited_files_or_create_a_new_professionalteam": {
+        "string": "升级您的计划以继续创建和编辑无限的文件，或创建一个新的专业团队{upgradeYourPlan}或{createANewProfessionalteam}。"
+    },
+    "edu.user_name_user_email": {
+        "string": "{userName} ({userEmail})"
+    },
+    "edu.ux_ui_or_interaction_design": {
+        "string": "UX/UI或交互设计"
+    },
+    "edu.verification_failed": {
+        "string": "验证失败"
+    },
+    "edu.verify.body": {
+        "string": "要验证您的教育状态，请提交{pleaseSubmitThisFormLink}。我们的团队会审核您的申请，并在两周内回复您。"
+    },
+    "edu.verify.form_link_text": {
+        "string": "此表单"
+    },
+    "edu.verify.headline": {
+        "string": "还差一步"
+    },
+    "edu.verify_your_status": {
+        "string": "验证您的身份"
+    },
+    "edu.what_is_your_primary_field_of_instruction": {
+        "string": "请选择您的主要教学领域。"
+    },
+    "edu.what_is_your_primary_field_of_study": {
+        "string": "请选择您的主要研究领域。"
     }
 }

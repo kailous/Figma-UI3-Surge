@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.select-same-instance": {
-        "string": "Select all with same instance"
+    "collaboration.branching_from_source.pick_main_file": {
+        "string": "选择主文件"
     },
-    "fullscreen_actions.select-same-stroke": {
-        "string": "Select all with same stroke"
+    "collaboration.branching_from_source.preview_unavailable": {
+        "string": "预览不可用"
     },
-    "fullscreen_actions.select-same-style": {
-        "string": "Select all with same properties"
+    "collaboration.branching_from_source.resolve_all": {
+        "string": "解决所有问题"
     },
-    "fullscreen_actions.select-same-text": {
-        "string": "Select all with same text properties"
+    "collaboration.branching_from_source.review_changes": {
+        "string": "审查更改"
     },
-    "fullscreen_actions.select-same-variant": {
-        "string": "Select all with same variant"
+    "collaboration.branching_from_source.these_changes_have_been_made_to_the_main_file": {
+        "string": "这些更改已应用到主文件。"
     },
-    "fullscreen_actions.send-backward": {
-        "string": "Send backward"
+    "collaboration.branching_from_source.this_component_was_removed": {
+        "string": "该组件已被删除"
     },
-    "fullscreen_actions.send-to-back": {
-        "string": "Send to back"
+    "collaboration.branching_from_source.this_frame_was_removed": {
+        "string": "该框架已被删除"
     },
-    "fullscreen_actions.set-default-style": {
-        "string": "Set default properties"
+    "collaboration.branching_from_source.this_layer_was_removed": {
+        "string": "该图层已被删除"
     },
-    "fullscreen_actions.set_as_thumbnail": {
-        "string": "Set as thumbnail"
+    "collaboration.branching_from_source.this_page_was_removed": {
+        "string": "该页面已被删除"
     },
-    "fullscreen_actions.set_image_as_profile_picture": {
-        "string": "Set image as profile picture"
+    "collaboration.branching_from_source.this_style_was_removed": {
+        "string": "该样式已被删除"
     },
-    "fullscreen_actions.set-missing-font-on-text": {
-        "string": "Set missing font on text…"
+    "collaboration.branching_from_source.you_chose_to_keep_all_changes_from_the_branch_for_conflicts": {
+        "string": "您选择保留分支中的所有更改以解决冲突。"
     },
-    "fullscreen_actions.set-opacity-00": {
-        "string": "Set opacity to 0%"
+    "collaboration.branching.applying_update": {
+        "string": "正在应用更新"
     },
-    "fullscreen_actions.set-opacity-0": {
-        "string": "Set opacity to 100%"
+    "collaboration.branching.checking_for_changes": {
+        "string": "正在检查更改"
     },
-    "fullscreen_actions.set-opacity-1": {
-        "string": "Set opacity to 10%"
+    "collaboration.branching.checking_for_conflicts": {
+        "string": "正在检查冲突"
     },
-    "fullscreen_actions.set-opacity-2": {
-        "string": "Set opacity to 20%"
+    "collaboration.branching.generating_changed_items": {
+        "string": "正在生成更改的项目"
     },
-    "fullscreen_actions.set-opacity-3": {
-        "string": "Set opacity to 30%"
+    "collaboration.branching.pulling_it_all_together": {
+        "string": "正在汇总所有内容"
     },
-    "fullscreen_actions.set-opacity-4": {
-        "string": "Set opacity to 40%"
+    "collaboration.branching_merge_modal.banner_resolve_conflicts": {
+        "string": "上次合并或更新失败。在重试前，请解决以下冲突"
     },
-    "fullscreen_actions.set-opacity-5": {
-        "string": "Set opacity to 50%"
+    "collaboration.branching_merge_modal.banner_review_conflicts": {
+        "string": "上次合并或更新失败。在合并前，请解决冲突。"
     },
-    "fullscreen_actions.set-opacity-6": {
-        "string": "Set opacity to 60%"
+    "collaboration.branching_merge_modal.button_review_conflicts": {
+        "string": "解决冲突"
     },
-    "fullscreen_actions.set-opacity-7": {
-        "string": "Set opacity to 70%"
+    "collaboration.branching_merge_modal.calculating_conflicts": {
+        "string": "正在计算冲突..."
     },
-    "fullscreen_actions.set-opacity-8": {
-        "string": "Set opacity to 80%"
+    "collaboration.branching_merge_modal.figma_support": {
+        "string": "Figma支持"
     },
-    "fullscreen_actions.set-opacity-9": {
-        "string": "Set opacity to 90%"
+    "collaboration.branching_merge_modal.for_help_please_contact_figma_support": {
+        "string": "请刷新页面再试一次。如果问题仍然存在，请联系{supportEmailLink}。"
     },
-    "fullscreen_actions.open-timer": {
-        "string": "Open timer"
+    "collaboration.branching_merge_modal.no_update_and_no_conflicts_from_main": {
+        "string": "未检测到冲突。您可以自由合并。"
     },
-    "fullscreen_actions.present-as-prototype": {
-        "string": "Present"
+    "collaboration.branching_merge_modal.refresh_required_action": {
+        "string": "重新加载"
     },
-    "fullscreen_actions.present-sites-full-preview": {
-        "string": "Full preview"
+    "collaboration.branching_merge_modal.resolve_conflicts": {
+        "string": "解决冲突"
     },
-    "fullscreen_actions.present-slides-audience-view": {
-        "string": "Present"
+    "collaboration.branching_merge_modal.this_branch_has_conflicts_with_the_main_file": {
+        "string": "{numConflicts, plural, other {此分支与主文件存在{numConflicts}个冲突，需要在合并前解决。}}"
     },
-    "fullscreen_actions.present-slides-presenter-view": {
-        "string": "Present + Notes"
+    "collaboration.branching_merge_modal.title_merge_from_source": {
+        "string": "从主文件更新"
     },
-    "fullscreen_actions.toggle-inline-preview": {
-        "string": "Preview"
+    "collaboration.branching_merge_modal.title_merge_from_source_version": {
+        "string": "从主文件版本更新"
     },
-    "fullscreen_actions.toggle-inline-html-preview": {
-        "string": "Inline preview"
+    "collaboration.branching_merge_modal.title_merge_to_source": {
+        "string": "检查分支"
     },
-    "fullscreen_actions.set-tool-arrow": {
-        "string": "Arrow"
+    "collaboration.branching_merge_modal.unexpected_error_from_source": {
+        "string": "从主文件更新时发生意外错误"
     },
-    "fullscreen_actions.set-tool-bend": {
-        "string": "Bend tool"
+    "collaboration.branching_merge_modal.unexpected_error_to_source": {
+        "string": "检查分支时发生意外错误"
     },
-    "fullscreen_actions.set-tool-comments": {
-        "string": "Add comment"
+    "collaboration.branching_merge_modal.update_from_main_file": {
+        "string": "从主文件更新"
     },
-    "fullscreen_actions.set-tool-connector-straight": {
-        "string": "Line"
+    "collaboration.branching_merge_modal.updates_are_available_for_this_branch_but_you_can_merge_without_updating": {
+        "string": "此分支有可用更新，但您可以选择不更新直接合并。"
     },
-    "fullscreen_actions.set-tool-connector-elbowed": {
-        "string": "Connector"
+    "collaboration.branching_merge_modal.updates_from_main_file_must_be_applied_before_merging": {
+        "string": "在合并前，必须应用主文件中的更新。"
     },
-    "fullscreen_actions.set-tool-connector-elbowed-description": {
-        "string": "Smart lines for diagramming."
+    "collaboration.branching_merge_modal.updates_from_main_file_must_be_applied_before_submitting_a_merge_request": {
+        "string": "在提交合并请求前，必须应用主文件中的更新。"
     },
-    "fullscreen_actions.set-tool-default": {
-        "string": "Move"
+    "collaboration.branching_merge_modal.you_have_unread_comments_on_this_branch": {
+        "string": "此分支有{unreadCommentCount}条未读评论。"
     },
-    "fullscreen_actions.set-tool-default-figjam": {
-        "string": "Select"
+    "collaboration.branching_modal.tab_active_empty_state": {
+        "string": "没有有效的分支。"
     },
-    "fullscreen_actions.set-tool-default-dev-handoff": {
-        "string": "Inspect"
+    "collaboration.branching_modal.tab_yours_empty_state": {
+        "string": "没有创建分支。"
     },
-    "fullscreen_actions.set-tool-ellipse": {
-        "string": "Ellipse"
+    "collaboration.branching_modal.tab_archived_empty_state": {
+        "string": "没有已存档的分支。"
     },
-    "fullscreen_actions.set-tool-eraser": {
-        "string": "Eraser"
+    "collaboration.branching_modal.title": {
+        "string": "分支"
     },
-    "fullscreen_actions.set-tool-frame": {
-        "string": "Frame"
+    "collaboration.branching_modal.tab_active": {
+        "string": "有效"
     },
-    "fullscreen_actions.set-tool-hand": {
-        "string": "Hand tool"
+    "collaboration.branching_modal.tab_yours": {
+        "string": "您的"
     },
-    "fullscreen_actions.set-tool-highlighter": {
-        "string": "Highlighter"
+    "collaboration.branching_modal.tab_archived": {
+        "string": "已存档"
     },
-    "fullscreen_actions.set-tool-line": {
-        "string": "Line"
+    "collaboration.branching_modal.create_branch_tooltip": {
+        "string": "创建分支"
     },
-    "fullscreen_actions.set-tool-media": {
-        "string": "Media"
+    "collaboration.branching_node_treatments.property.accessible_label": {
+        "string": "可访问标签"
     },
-    "fullscreen_actions.set-tool-media-description": {
-        "string": "From your device"
+    "collaboration.branching_node_treatments.property.added_node": {
+        "string": "已添加"
     },
-    "fullscreen_actions.set-tool-paint-bucket": {
-        "string": "Paint bucket"
+    "collaboration.branching_node_treatments.property.align_items": {
+        "string": "对齐项目"
     },
-    "fullscreen_actions.set-tool-pen": {
-        "string": "Pen"
+    "collaboration.branching_node_treatments.property.aria_attributes": {
+        "string": "ARIA属性"
     },
-    "fullscreen_actions.set-tool-pencil": {
-        "string": "Pencil"
+    "collaboration.branching_node_treatments.property.aria_role": {
+        "string": "ARIA角色"
     },
-    "fullscreen_actions.set-tool-marker": {
-        "string": "Marker"
+    "collaboration.branching_node_treatments.property.auto_layout_details": {
+        "string": "自动布局详情"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.layer_header.node_type_multiple_selected": {
-        "string": "{count} selected"
+    "inspect_panel.typography.align_center": {
+        "string": "居中对齐"
     },
-    "fullscreen.properties_panel.stack_panel.remove_auto_layout": {
-        "string": "Remove auto layout"
+    "inspect_panel.typography.align_justified": {
+        "string": "两端对齐"
     },
-    "fullscreen.properties_panel.layer_header.reset_submenu": {
-        "string": "Reset"
+    "inspect_panel.typography.align_right": {
+        "string": "右对齐"
     },
-    "fullscreen.properties_panel.layer_header.node_type_ellipse": {
-        "string": "Ellipse"
+    "inspect_panel.typography.cap_height": {
+        "string": "大写字母高度"
     },
-    "fullscreen.properties_panel.layer_header.node_type_line": {
-        "string": "Line"
+    "inspect_panel.typography.font": {
+        "string": "字体"
     },
-    "fullscreen.properties_panel.layer_header.node_type_polygon": {
-        "string": "Polygon"
+    "inspect_panel.typography.hanging_list": {
+        "string": "悬挂列表"
     },
-    "fullscreen.properties_panel.layer_header.node_type_rectangle": {
-        "string": "Rectangle"
+    "inspect_panel.typography.hanging_punctuation": {
+        "string": "悬挂标点"
     },
-    "fullscreen.properties_panel.layer_header.node_type_section": {
-        "string": "Section"
+    "inspect_panel.typography.leading_trim": {
+        "string": "前导修剪"
     },
-    "fullscreen.properties_panel.layer_header.node_type_slice": {
-        "string": "Slice"
+    "inspect_panel.typography.letter": {
+        "string": "字母"
     },
-    "fullscreen.properties_panel.layer_header.node_type_star": {
-        "string": "Star"
+    "inspect_panel.typography.line_height": {
+        "string": "行高"
     },
-    "fullscreen.properties_panel.layer_header.node_type_text": {
-        "string": "Text"
+    "inspect_panel.typography.name": {
+        "string": "名称"
     },
-    "fullscreen.properties_panel.layer_header.node_type_arrow": {
-        "string": "Arrow"
+    "inspect_panel.typography.optical_size": {
+        "string": "光学尺寸"
     },
-    "fullscreen.properties_panel.layer_header.node_type_vector_path": {
-        "string": "Vector path"
+    "inspect_panel.typography.paragraph_indent": {
+        "string": "段落缩进"
     },
-    "fullscreen.properties_panel.layer_header.node_type_slide": {
-        "string": "Slide {slideNumber}"
+    "inspect_panel.typography.paragraph_spacing": {
+        "string": "段落间距"
     },
-    "fullscreen.properties_panel.layer_header.node_type_interactive_slide_element": {
-        "string": "Interaction"
+    "inspect_panel.typography.punctuation": {
+        "string": "标点符号"
     },
-    "fullscreen.properties_panel.layer_header.node_type_frame_auto_layout": {
-        "string": "Auto layout frame"
+    "inspect_panel.typography.size": {
+        "string": "尺寸"
     },
-    "fullscreen.properties_panel.layer_header.node_type_group": {
-        "string": "Group"
+    "inspect_panel.typography.span": {
+        "string": "跨度"
     },
-    "fullscreen.properties_panel.layer_header.node_type_frame": {
-        "string": "Frame"
+    "inspect_panel.typography.span_contents": {
+        "string": "跨度 ({contents})"
     },
-    "slides.properties_panel.text.style_description_font_size": {
-        "string": "· {fontSize}"
+    "inspect_panel.typography.span_whitespace": {
+        "string": "空白"
     },
-    "slides.properties_panel.text_style.replace_style": {
-        "string": "Replace existing style"
+    "inspect_panel.typography.style": {
+        "string": "样式"
     },
-    "slides.properties_panel.text_styles.styles": {
-        "string": "Styles"
+    "inspect_panel.typography.title": {
+        "string": "排版"
     },
-    "slides.properties_panel.text_style.add_new_style": {
-        "string": "Add new style"
+    "inspect_panel.typography.too_many_selected": {
+        "string": "⚠️ 选择了{numSelected}个排版项目，但只显示了部分内容"
     },
-    "slides.properties_panel.text_style.more_actions": {
-        "string": "More actions"
+    "inspect_panel.typography.variation": {
+        "string": "变体"
     },
-    "fullscreen.selection_actions.tooltip_boolean_operations": {
-        "string": "Boolean operations"
+    "inspect_panel.typography.weight": {
+        "string": "粗细"
     },
-    "slides.properties_panel.rewrite_text.adjust_tone": {
-        "string": "Adjust tone"
+    "inspect_panel.videos.title_plural": {
+        "string": "视频"
     },
-    "slides.properties_panel.rewrite_text.or_pick_a_preset": {
-        "string": "Or pick a preset"
+    "inspect_panel.videos.title_singular": {
+        "string": "视频"
     },
-    "whiteboard.ai_modal.disclaimer": {
-        "string": "AI outputs can be misleading or wrong "
+    "ip_restriction.add_another": {
+        "string": "添加另一个帐户"
     },
-    "slides.properties_panel.rewrite_text.rewrite_redirect": {
-        "string": "Rewrite yourself"
+    "ip_restriction.add_more_accounts": {
+        "string": "如果未显示要使用的帐户，请{addAnotherButton}。"
     },
-    "whiteboard.ai_modal.learn_more": {
-        "string": "Learn more"
+    "ip_restriction.explanation_login_many_domains": {
+        "string": "要从此网络访问Figma，请使用以下域的帐户登录，或使用具有{orgName}组织访问权限的其他帐户登录。"
     },
-    "slides.properties_panel.rewrite_text.tone_professional": {
-        "string": "Professional"
+    "ip_restriction.explanation_login_one_domain": {
+        "string": "要从此网络访问Figma，请使用{domain}帐户或具有{orgName}组织访问权限的其他帐户登录。"
     },
-    "slides.properties_panel.rewrite_text.tone_expanded": {
-        "string": "Expanded"
+    "ip_restriction.explanation_switch": {
+        "string": "要从此网络访问Figma，请切换到已登录的{orgName}帐户。"
     },
-    "slides.properties_panel.rewrite_text.tone_casual": {
-        "string": "Casual"
+    "ip_restriction.ip_allowlist_explanation": {
+        "string": "要使用此帐户访问Figma，您需要从公司网络登录。"
     },
-    "slides.properties_panel.rewrite_text.tone_concise": {
-        "string": "Concise"
+    "ip_restriction.ip_allowlist_explanation_switch_accounts": {
+        "string": "要使用此帐户访问Figma，请从公司网络登录或切换到已登录的另一个帐户。"
     },
-    "slides.properties_panel.rewrite_text.reset": {
-        "string": "Reset"
+    "ip_restriction.ip_allowlist_reload_page": {
+        "string": "请重新加载此页面"
     },
-    "slides.properties_panel.rewrite_text.tone_executive": {
-        "string": "Executive"
+    "ip_restriction.ip_allowlist_reload_page_on_authorized_network": {
+        "string": "不再使用未授权的网络了吗? {reloadPage}"
     },
-    "slides.properties_panel.rewrite_text.tone_technical": {
-        "string": "Technical"
+    "ip_restriction.ip_allowlist_title": {
+        "string": "请从公司网络登录"
     },
-    "slides.properties_panel.rewrite_text.tone_basic": {
-        "string": "Basic"
+    "ip_restriction.login": {
+        "string": "登录"
     },
-    "slides.properties_panel.rewrite_text.tone_educational": {
-        "string": "Educational"
+    "ip_restriction.logout": {
+        "string": "如果您无法登录此页面，请{logOutOfAllAccounts}并离开此页面"
     },
-    "variables.modes.option.learn_more": {
-        "string": "Learn more"
+    "ip_restriction.logout_of_all_accounts": {
+        "string": "退出所有帐户"
     },
-    "variables.mode_properties_panel.select.option.auto_with_name": {
-        "string": "Auto ({modeName})"
+    "ip_restriction.reload_page": {
+        "string": "不再使用{orgName}网络了吗? {reloadPage}"
     },
-    "variables.mode_properties_panel.select.option.mixed": {
-        "string": "Mixed"
+    "ip_restriction.reload_this_page": {
+        "string": "重新加载此页面"
     },
-    "variables.mode_properties_panel.select.option.auto": {
-        "string": "Auto"
+    "ip_restriction.title_login_no_org": {
+        "string": "使用授权帐户登录"
     },
-    "variables.mode_properties_panel.select.option.deleted": {
-        "string": "Deleted mode"
+    "ip_restriction.title_switch": {
+        "string": "切换到{orgName}帐户"
     },
-    "ai.rewriting": {
-        "string": "Rewriting..."
+    "lab.disabled": {
+        "string": "已禁用{labName}实验"
     },
-    "ai_text_tools.selection_instruction": {
-        "string": "First, select some text"
+    "lab.enable": {
+        "string": "启用{labName}"
     },
-    "ai.rewrite": {
-        "string": "Rewrite"
+    "lab.enabled": {
+        "string": "已启用{labName}实验"
     },
-    "ai_text_tools.content_length_exceeded": {
-        "string": "Try again, with a bit less text"
+    "lab.figjam_ui3": {
+        "string": "FigJam UI3"
     },
-    "ai_text_tools.missing_fonts": {
-        "string": "Missing fonts"
+    "lab.figjam_ui3_colors": {
+        "string": "FigJam UI3: 画布颜色"
     },
-    "ai_text_tools.rewrite.couldnt_count": {
-        "string": "Couldn’t rewrite {failed} / {total}"
+    "lab.fpl.components": {
+        "string": "FPL组件: 在编辑器中使用FPL组件"
     },
-    "ai_text_tools.rewrite.placeholder.marketing": {
-        "string": "In the tone of a marketing page"
+    "lab.inset_editor": {
+        "string": "嵌入编辑器"
     }
 }

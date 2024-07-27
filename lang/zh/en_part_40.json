@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.restart-desktop-app-color-space-managed": {
-        "string": "Restart desktop app in 'Managed' color space"
+    "collaboration.branching_node_treatments.value.max_lines.auto": {
+        "string": "自动"
     },
-    "fullscreen_actions.download-memory-profile": {
-        "string": "Download memory profile"
+    "collaboration.branching_node_treatments.value.node_reordered": {
+        "string": "节点已重新排序"
     },
-    "fullscreen_actions.restart-desktop-app-color-space-unmanaged": {
-        "string": "Restart desktop app in 'Unmanaged' color space"
+    "collaboration.branching_node_treatments.value.node_type.assisted_layout": {
+        "string": "辅助布局（即将弃用）"
     },
-    "fullscreen_actions.show-toggle-prototyping-mode-button": {
-        "string": "Show toggle prototyping mode button"
+    "collaboration.branching_node_treatments.value.node_type.boolean_operation": {
+        "string": "布尔运算"
     },
-    "fullscreen_actions.toggle-show-guids": {
-        "string": "Show GUIDs"
+    "collaboration.branching_node_treatments.value.node_type.canvas": {
+        "string": "画布"
     },
-    "fullscreen_actions.debug-toggle-figma-scope": {
-        "string": "Show FigmaScope"
+    "collaboration.branching_node_treatments.value.node_type.code_block": {
+        "string": "代码块"
     },
-    "fullscreen_actions.force-publish-state-group": {
-        "string": "Republish selected component"
+    "collaboration.branching_node_treatments.value.node_type.connector": {
+        "string": "连接器"
     },
-    "fullscreen_actions.test-independent-layer-animation": {
-        "string": "Test independent layer animation"
+    "collaboration.branching_node_treatments.value.node_type.document": {
+        "string": "文档"
     },
-    "fullscreen_actions.test-independent-layer-animation-eased": {
-        "string": "Test eased independent layer animation"
+    "collaboration.branching_node_treatments.value.node_type.ellipse": {
+        "string": "椭圆"
     },
-    "fullscreen_actions.test-independent-layer-animation-opacity": {
-        "string": "Test opacity independent layer animation"
+    "collaboration.branching_node_treatments.value.node_type.frame": {
+        "string": "框架"
     },
-    "fullscreen_actions.cancel-last-animation": {
-        "string": "Test cancel last Typescript animation"
+    "collaboration.branching_node_treatments.value.node_type.group": {
+        "string": "组"
     },
-    "fullscreen_actions.test-non-independent-layer-animation": {
-        "string": "Test non-independent layer animation"
+    "collaboration.branching_node_treatments.value.node_type.highlight": {
+        "string": "高亮"
     },
-    "fullscreen_actions.debug-print-as-test-code": {
-        "string": "Print as generated test code"
+    "collaboration.branching_node_treatments.value.node_type.instance": {
+        "string": "实例"
     },
-    "fullscreen_actions.debug-print-vector-network-as-test-code": {
-        "string": "Print vector networks as generated test code"
+    "collaboration.branching_node_treatments.value.node_type.interactive_slide_element": {
+        "string": "交互幻灯片元素"
     },
-    "fullscreen_actions.toggle-show-quick-command-rank-debug": {
-        "string": "Show quick actions search rankings"
+    "collaboration.branching_node_treatments.value.node_type.line": {
+        "string": "线"
     },
-    "fullscreen_actions.toggle-show-immutable-frame-sublayers": {
-        "string": "Show immutable frame sublayers"
+    "collaboration.branching_node_treatments.value.node_type.media": {
+        "string": "媒体"
     },
-    "fullscreen_actions.toggle-force-publish-flattened": {
-        "string": "Always publish flattened components"
+    "collaboration.branching_node_treatments.value.node_type.module": {
+        "string": "模板"
     },
-    "fullscreen_actions.toggle_dark_theme": {
-        "string": "Toggle dark theme"
+    "collaboration.branching_node_treatments.value.node_type.none": {
+        "string": "无"
     },
-    "fullscreen_actions.toggle-dropper": {
-        "string": "Pick color"
+    "collaboration.branching_node_treatments.value.node_type.rectangle": {
+        "string": "矩形"
     },
-    "fullscreen_actions.toggle-flip-during-resize": {
-        "string": "Flip objects while resizing"
+    "collaboration.branching_node_treatments.value.node_type.regular_polygon": {
+        "string": "正多边形"
     },
-    "fullscreen_actions.toggle-frame-clipping": {
-        "string": "Toggle clip content"
+    "collaboration.branching_node_treatments.value.node_type.responsive_set": {
+        "string": "网页"
     },
-    "fullscreen_actions.toggle_full_screen": {
-        "string": "Toggle full screen"
+    "collaboration.branching_node_treatments.value.node_type.rounded_rectangle": {
+        "string": "圆角矩形"
     },
-    "fullscreen_actions.toggle-google-fonts": {
-        "string": "Show Google Fonts"
+    "collaboration.branching_node_treatments.value.node_type.section": {
+        "string": "部分"
     },
-    "fullscreen_actions.edit_gradient_paint": {
-        "string": "Edit gradient paint"
+    "collaboration.branching_node_treatments.value.node_type.section_overlay": {
+        "string": "部分覆盖"
     },
-    "fullscreen_actions.toggle-grid": {
-        "string": "Pixel grid"
+    "collaboration.branching_node_treatments.value.node_type.shape_with_text": {
+        "string": "带文本的形状"
     },
-    "fullscreen_actions.toggle-perf-hud": {
-        "string": "Show performance HUD"
+    "collaboration.branching_node_treatments.value.node_type.slice": {
+        "string": "切片"
     },
-    "fullscreen_actions.toggle-fake-mp-activity": {
-        "string": "Show fake multiplayer activity tools"
+    "collaboration.branching_node_treatments.value.node_type.slide": {
+        "string": "幻灯片"
     },
-    "fullscreen_actions.toggle-tsmer-config": {
-        "string": "Show TSMER config"
+    "collaboration.branching_node_treatments.value.node_type.stamp": {
+        "string": "印章"
     },
-    "fullscreen_actions.toggle-debug-layout-logs": {
-        "string": "Toggle logging text and IF layouts"
+    "collaboration.branching_node_treatments.value.node_type.star": {
+        "string": "星形"
     },
-    "fullscreen_actions.toggle-debug-doc-sync-logs": {
-        "string": "Toggle multiplayer doc logs"
+    "collaboration.branching_node_treatments.value.node_type.sticky": {
+        "string": "便签"
     },
-    "fullscreen_actions.toggle-debug-user-sync-logs": {
-        "string": "Toggle multiplayer user logs"
+    "collaboration.branching_node_treatments.value.node_type.symbol": {
+        "string": "符号"
     },
-    "fullscreen_actions.toggle-debug-page-sync-logs": {
-        "string": "Toggle multiplayer query logs"
+    "collaboration.branching_node_treatments.value.node_type.table": {
+        "string": "表格"
     },
-    "fullscreen_actions.debug-incremental-loading-all-pages": {
-        "string": "Incremental loading: Load all pages"
+    "collaboration.branching_node_treatments.value.node_type.table_cell": {
+        "string": "表格单元"
     },
-    "fullscreen_actions.debug-incremental-loading-current-only": {
-        "string": "Incremental loading: Reset to current page only"
+    "collaboration.branching_node_treatments.value.node_type.text": {
+        "string": "文本"
     },
-    "fullscreen_actions.hide_help_ui": {
-        "string": "Hide help UI"
+    "collaboration.branching_node_treatments.value.node_type.variable": {
+        "string": "变量"
     },
-    "fullscreen_actions.toggle-invert-zoom": {
-        "string": "Invert zoom direction"
+    "collaboration.branching_node_treatments.value.node_type.variable_collection": {
+        "string": "变量集合"
     },
-    "fullscreen_actions.toggle-cursor-high-five-wiggle": {
-        "string": "Shake cursor for high five"
+    "collaboration.branching_node_treatments.value.node_type.vector": {
+        "string": "矢量"
     },
-    "fullscreen_actions.toggle-keyboard-zoom-to-selection": {
-        "string": "Keyboard zooms into selection"
+    "collaboration.branching_node_treatments.value.node_type.washi_tape": {
+        "string": "和纸胶带"
     },
-    "fullscreen_actions.toggle-layer-hover": {
-        "string": "Highlight layers on hover"
+    "collaboration.branching_node_treatments.value.node_type.widget": {
+        "string": "小部件"
     },
-    "fullscreen_actions.toggle-layers": {
-        "string": "Open layers panel"
+    "collaboration.branching_node_treatments.value.off": {
+        "string": "关闭"
     },
-    "fullscreen_actions.toggle-publish": {
-        "string": "Libraries"
+    "collaboration.branching_node_treatments.value.on": {
+        "string": "开启"
     },
-    "fullscreen_actions.team_library": {
-        "string": "Team library"
+    "collaboration.branching_node_treatments.value.plugin_data_edited": {
+        "string": "已编辑插件数据"
     },
-    "fullscreen_actions.show_layers": {
-        "string": "Show layers"
+    "collaboration.branching_node_treatments.value.position_rotation_or_scale_changed": {
+        "string": "位置、旋转或缩放已更改"
     },
-    "fullscreen_actions.toggle-use-scroll-wheel-zoom": {
-        "string": "Use scroll wheel zoom"
+    "collaboration.branching_node_treatments.value.prefix_applied": {
+        "string": "已应用前缀{prefix}"
     },
-    "fullscreen_actions.show_assets": {
-        "string": "Show assets"
+    "collaboration.branching_node_treatments.value.prefix_edited": {
+        "string": "已编辑前缀{prefix}"
     },
-    "fullscreen_actions.toggle-locked-for-selected-nodes": {
-        "string": "Lock/Unlock selection"
+    "collaboration.branching_node_treatments.value.prefix_removed": {
+        "string": "已删除前缀{prefix}"
     },
-    "fullscreen_actions.toggle-menu": {
-        "string": "Quick actions…"
+    "collaboration.branching_node_treatments.value.prototype_behavior_edited": {
+        "string": "已编辑原型行为"
     },
-    "fullscreen_actions.toggle-actions-menu": {
-        "string": "Actions…"
+    "collaboration.branching_node_treatments.value.removed": {
+        "string": "已删除"
     },
-    "fullscreen_actions.toggle-multiplayer-cursors": {
-        "string": "Multiplayer cursors"
+    "collaboration.branching_node_treatments.value.solid": {
+        "string": "纯色"
     },
-    "fullscreen_actions.toggle-outlines": {
-        "string": "Show outlines"
+    "collaboration.branching_node_treatments.value.style_reordered": {
+        "string": "样式已重新排序"
     }
 }

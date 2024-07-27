@@ -1,152 +1,152 @@
 {
-    "search.search_model_type_header.people": {
-        "string": "People"
+    "file_browser.file_list_view.header_name_column": {
+        "string": "名称"
     },
-    "search.search_model_type_header.hub_files": {
-        "string": "Files"
+    "file_browser.file_list_view.header_owner_column": {
+        "string": "所有者"
     },
-    "search.search_model_type_header.public_plugins": {
-        "string": "Plugins"
+    "file_browser.file_list_view.header_shared_at_column": {
+        "string": "共享时间"
     },
-    "search.search_model_type_header.private_plugins": {
-        "string": "Plugins"
+    "file_browser.file_list_view.header_shared_by_column": {
+        "string": "共享者"
     },
-    "search.search_model_type_header.creators": {
-        "string": "Creators"
+    "file_browser.file_move.cant_move_a_file_into_another_file": {
+        "string": "无法将文件移动到另一个文件中"
     },
-    "search.search_model_type_header.public_widgets": {
-        "string": "Widgets"
+    "file_browser.file_move.context_menu_rename": {
+        "string": "重命名"
     },
-    "search.search_model_type_header.private_widgets": {
-        "string": "Widgets"
+    "file_browser.file_move.context_menu_show_in_files": {
+        "string": "在文件中显示..."
     },
-    "file_browser.team": {
-        "string": "team"
+    "file_browser.file_move.create_team": {
+        "string": "创建团队"
     },
-    "search.preview_section.creator": {
-        "string": "creator"
+    "file_browser.file_move.current_location": {
+        "string": "当前位置"
     },
-    "search.search_model_type.empty_state_files": {
-        "string": "No files matching"
+    "file_browser.file_move.drafts": {
+        "string": "草稿"
     },
-    "search.search_model_type.empty_state_projects": {
-        "string": "No projects matching"
+    "file_browser.file_move.file_count": {
+        "string": "{fileCount, plural, other {{fileCount}个文件}}"
     },
-    "search.search_model_type.empty_state_teams": {
-        "string": "No teams matching"
+    "file_browser.file_move.files_can_only_be_moved_within_the_same_organization": {
+        "string": "文件只能在同一组织内移动"
     },
-    "search.search_model_type.empty_state_people": {
-        "string": "No people matching"
+    "file_browser.file_move.import": {
+        "string": "导入"
     },
-    "search.search_model_type.empty_state_hub_files": {
-        "string": "No files matching"
+    "file_browser.file_move.modal_header_import_file": {
+        "string": "导入文件{fileName}"
     },
-    "search.search_model_type.empty_state_public_plugins": {
-        "string": "No plugins matching"
+    "file_browser.file_move.modal_header_import_files": {
+        "string": "导入文件"
     },
-    "search.search_model_type.empty_state_private_plugins": {
-        "string": "No plugins matching"
+    "file_browser.file_move.modal_header_move_file": {
+        "string": "移动文件{fileName}"
     },
-    "search.search_model_type.empty_state_creators": {
-        "string": "No creators matching"
+    "file_browser.file_move.move": {
+        "string": "移动"
     },
-    "search.search_model_type.empty_state_public_widgets": {
-        "string": "No widgets matching"
+    "file_browser.file_move.move_pages_to_new_file": {
+        "string": "将页面移动到新文件"
     },
-    "search.search_model_type.empty_state_private_widgets": {
-        "string": "No widgets matching"
+    "file_browser.file_move.new_project": {
+        "string": "新项目"
     },
-    "search.search_scope.community": {
-        "string": "Community"
+    "file_browser.file_move.new_team": {
+        "string": "新团队"
     },
-    "search.search_scope.personal": {
-        "string": "Drafts and teams"
+    "file_browser.file_move.no_folders_yet": {
+        "string": "还没有文件夹"
     },
-    "dev_handoff.autorun_confirm_modal.stop_auto_run_desc": {
-        "string": "This will stop {currentAutoRunPluginName} from running automatically when you open a file."
+    "file_browser.file_move.no_project_or_team_results_matching_query": {
+        "string": "没有匹配的项目或团队结果"
     },
-    "dev_handoff.autorun_confirm_modal.enable_auto_run_desc": {
-        "string": "Your {orgName} admin has set {orgPluginName} to run automatically when you open a file. You've turned this setting off. \n Would you like to turn on auto run for {orgPluginName} again?"
+    "file_browser.file_move.no_suggestions_yet_try_moving_your_files": {
+        "string": "还没有建议。{lineBreak}尝试将文件移动到您参与最多的项目或团队。"
     },
-    "dev_handoff.autorun_confirm_modal.confirm_replace": {
-        "string": "{newPluginName} will replace {orgPluginName} (currently set by your {orgName} admin) to run automatically for all files."
+    "file_browser.file_move.paywall_team_tooltip": {
+        "string": "升级团队以移动此文件"
     },
-    "dev_handoff.autorun_confirm_modal.stop_auto_run_from_org": {
-        "string": "Your {orgName} admin has set {orgPluginName} to auto run. This will stop the plugin from running automatically when you open a file."
+    "file_browser.file_move.search_placeholder": {
+        "string": "搜索"
     },
-    "dev_handoff.autorun_confirm_modal.cancel": {
-        "string": "Cancel"
+    "file_browser.file_move.view_teams": {
+        "string": "查看团队"
     },
-    "dev_handoff.autorun_confirm_modal.stop_auto_run": {
-        "string": "Stop auto run"
+    "file_browser.file_move.view_workspaces": {
+        "string": "查看工作区"
     },
-    "dev_handoff.autorun_confirm_modal.dont_enable": {
-        "string": "Don't enable"
+    "file_browser.file_move.you_dont_have_edit_access_to_this_project": {
+        "string": "您没有编辑此项目的权限"
     },
-    "dev_handoff.autorun_confirm_modal.enable_auto_run": {
-        "string": "Enable auto run"
+    "file_browser.file_move.you_dont_have_edit_access_to_this_team": {
+        "string": "您没有编辑此团队的权限"
     },
-    "dev_handoff.autorun_confirm_modal.replace": {
-        "string": "Replace"
+    "file_browser.file_move.zero_state": {
+        "string": "由于您没有项目的编辑权限，无法移动此文件。加入团队和项目或新建团队和项目后重试。"
     },
-    "dev_handoff.autorun_confirm_modal.title_stop_auto_run": {
-        "string": "Stop auto run for this plugin?"
+    "file_browser.folder.add_a_description": {
+        "string": "添加描述"
     },
-    "dev_handoff.autorun_confirm_modal.title_replace_auto_run": {
-        "string": "Replace auto run plugin?"
+    "file_browser.folder.create_a_new_file_to_start_from_scratch_lucid": {
+        "string": "创建一个新文件从头开始，或者{lineBreak}导入图像、Sketch文件以及从Lucid、Miro和Mural导出的PDF。"
     },
-    "dev_handoff.autorun_confirm_modal.title_enable_auto_run": {
-        "string": "Enable auto run for {pluginName}?"
+    "file_browser.folder.do_more_paid_plan": {
+        "string": "付费计划提供更多功能。没有文件数量限制，{lineBreak}可以将工作组织到项目中，为团队创建组件共享库。"
     },
-    "dev_handoff.code.options": {
-        "string": "Options"
+    "file_browser.folder.import": {
+        "string": "导入"
     },
-    "avatar.tooltip.you": {
-        "string": "(You)"
+    "file_browser.folder.join_as_owner": {
+        "string": "以所有者身份加入"
     },
-    "members_table.org_user_name_cell.scim_badge": {
-        "string": "SCIM"
+    "file_browser.folder.join_this_project_to_view_files": {
+        "string": "加入此项目以查看文件"
     },
-    "avatar_editor.edit": {
-        "string": "Edit"
+    "file_browser.folder.no_files_yet": {
+        "string": "还没有文件"
     },
-    "banner.shared.close_banner": {
-        "string": "Close banner"
+    "file_browser.folder.page_header_dropdown_label": {
+        "string": "打开项目下拉菜单"
     },
-    "community.buyer.we_re_sorry_to_hear_resource_name_didnt_work_out": {
-        "string": "We’re sorry to hear {resourceName} didn’t work out, but we’ve got you covered. We’ll go ahead and issue you a refund. Could you let us know what went wrong?"
+    "file_browser.folder.people_who_have_edited_this_project_will_appear_here": {
+        "string": "编辑过此项目的人将显示在这里"
     },
-    "community.buyer.need_a_refund": {
-        "string": "Need a refund?"
+    "file_browser.folder.pinned": {
+        "string": "已固定"
     },
-    "community.buyer.keep_an_eye_out": {
-        "string": "Keep an eye out for a refund to your original form of payment. Contact us {here} for further inquiries."
+    "file_browser.folder.ready_for_an_upgrade": {
+        "string": "准备升级了吗？"
     },
-    "community.buyer.here": {
-        "string": "here"
+    "file_browser.folder.recent_contributors": {
+        "string": "最近的贡献者"
     },
-    "community.buyer.unable_to_process_refund": {
-        "string": "Unable to process refund"
+    "file_browser.folder.share": {
+        "string": "共享"
     },
-    "community.buyer.error_requesting_refund_please_contact_support": {
-        "string": "We’ve encountered an error processing your refund. Contact us for help submitting your request."
+    "file_browser.folder.starter_team_overview": {
+        "string": "初始团队概述"
     },
-    "community.buyer.get_support": {
-        "string": "Get support"
+    "file_browser.folder.this_project_doesn_t_have_any_files": {
+        "string": "此项目没有任何文件。"
     },
-    "community.buyer.refund_reason.add_additional_details": {
-        "string": "Add additional details"
+    "file_browser.folder.this_project_is_empty": {
+        "string": "此项目为空！请从计算机导入或创建文件。"
     },
-    "community.buyer.refund_requested": {
-        "string": "Refund requested"
+    "file_browser.folder.view_plans": {
+        "string": "查看计划"
     },
-    "community.universal_posting_modal.recent_editable_files_search.no_files_matching": {
-        "string": "No files matching {searchQuery}"
+    "file_browser.folder_list_view.file_singular": {
+        "string": "1个文件"
     },
-    "community.universal_posting_modal.resource_empty.files_title": {
-        "string": "No files yet"
+    "file_browser.folder_list_view.files": {
+        "string": "{fileCount}个文件"
     },
-    "community.universal_posting_modal.resource_empty.plugins_title": {
-        "string": "No plugins yet"
+    "file_browser.folder_list_view.header_created_column": {
+        "string": "创建时间"
     }
 }

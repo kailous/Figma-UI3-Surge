@@ -1,152 +1,152 @@
 {
-    "resource_rename_modal.team_description.submit": {
-        "string": "Done"
+    "team_view.grant_figjam_edit_status.seat_rename": {
+        "string": "FigJamへのフルアクセスを付与しますか?"
     },
-    "workspace.when_people_join_workspace_name": {
-        "string": "When people join {styledWorkspaceName} they’ll also be added to the following teams:"
+    "team_view.invoices": {
+        "string": "請求書"
     },
-    "workspace.when_people_join_this_workspace": {
-        "string": "When people join this workspace they’ll also be added to the following teams:"
+    "team_view.invoices.annual_team": {
+        "string": "プロフェッショナルチーム(年間)"
     },
-    "teams_table.default_workspace_team.invite_only": {
-        "string": "Invite only"
+    "team_view.invoices.monthly_team": {
+        "string": "プロフェッショナルチーム(月間)"
     },
-    "teams_table.default_workspace_team.visible": {
-        "string": "Visible"
+    "team_view.invoices.status.draft": {
+        "string": "ドラフト"
     },
-    "workspace.edit_default_teams": {
-        "string": "Edit default teams"
+    "team_view.invoices.status.open": {
+        "string": "未処理"
     },
-    "workspace.note": {
-        "string": "Note: "
+    "team_view.invoices.status.paid": {
+        "string": "支払い済み"
     },
-    "workspace.new_users_will_join_updated": {
-        "string": "New users will join default teams as viewers. For default teams that are invite only, admins will automatically get requests to approve new users."
+    "team_view.invoices.status.processing": {
+        "string": "処理中"
     },
-    "workspace.new_users_will_join": {
-        "string": "New users will join default teams as viewers. For closed default teams, admins will automatically get requests to approve new users."
+    "team_view.invoices.status.uncollectible": {
+        "string": "回収不能"
     },
-    "workspace.cancel": {
-        "string": "Cancel"
+    "team_view.invoices.status.void": {
+        "string": "無効"
     },
-    "workspace.save": {
-        "string": "Save"
+    "team_view.invoices_table.date": {
+        "string": "日付"
     },
-    "workspace_admin_tab.teams": {
-        "string": "Teams"
+    "team_view.invoices_table.description": {
+        "string": "説明"
     },
-    "workspace_admin_tab.members": {
-        "string": "Members"
+    "team_view.invoices_table.design_editor_seats.seat_rename": {
+        "string": "デザインシート数"
     },
-    "workspace_admin_tab.libraries": {
-        "string": "Libraries"
+    "team_view.invoices_table.fig_jam_editor_seats.seat_rename": {
+        "string": "FigJamシート数"
     },
-    "workspace_admin_tab.settings": {
-        "string": "Settings"
+    "team_view.invoices_table.invoice_total": {
+        "string": "請求合計額"
     },
-    "workspace_admin_tab.public_link_sharing_setting": {
-        "string": "Public link sharing: {settingComponent}"
+    "team_view.invoices_table.status": {
+        "string": "ステータス"
     },
-    "workspace_admin_tab.public_link_sharing_expiration_setting.days": {
-        "string": "{time, plural, one {Design files are required to expire in {time} day.} other {Design files are required to expire in {time} days.}}"
+    "team_view.invoices_table.view_invoice": {
+        "string": "請求書を表示"
     },
-    "workspace_admin_tab.public_link_sharing_expiration_setting.hours": {
-        "string": "{time, plural, one {Design files are required to expire in {time} hour.} other {Design files are required to expire in {time} hours.}}"
+    "team_view.learn_more.seat_rename": {
+        "string": "有料シートの詳細情報"
     },
-    "workspace_admin_tab.contact_org_admin_to_change_workspace_sharing_settings": {
-        "string": "Contact your organization admin if you need to make changes to your workspace’s sharing settings."
+    "team_view.member_edit_access_modal.all_design_files": {
+        "string": "すべてのデザインファイル"
     },
-    "members_table.menu_bar_filter.workspace": {
-        "string": "Workspace"
+    "team_view.member_edit_access_modal.all_figjam_files": {
+        "string": "すべてのFigJamファイル"
     },
-    "fig_feed.post": {
-        "string": "Post"
+    "team_view.member_edit_access_modal.all_files": {
+        "string": "すべて"
     },
-    "fig_feed.post_to": {
-        "string": "Post to:"
+    "team_view.member_edit_access_modal.all_projects": {
+        "string": "すべて"
     },
-    "fig_feed.posting": {
-        "string": "Posting…"
+    "team_view.member_edit_access_modal.files_title": {
+        "string": "編集アクセス権があるファイル"
     },
-    "fig_feed.video_file_size_limit_MB": {
-        "string": "Video files must be less than {maxFileSizeMB}MB."
+    "team_view.member_edit_access_modal.invite_only_files": {
+        "string": "{numFiles, plural, other {{numFiles}個の招待限定ファイル}}"
     },
-    "fig_feed.image_file_size_limit_MB": {
-        "string": "Image files must be less than {maxFileSizeMB}MB."
+    "team_view.member_edit_access_modal.invite_only_files_list_end": {
+        "string": "{numFiles, plural, other {および{numFiles}個の招待限定ファイル}}"
     },
-    "fig_feed.unsupported_file_types_were_not_uploaded": {
-        "string": "Files must be PNG, JPEG, GIF, MP4, WebM, or MOV."
+    "team_view.member_edit_access_modal.invite_only_projects": {
+        "string": "{numProjects, plural, other {{numProjects}個の招待限定プロジェクト}}"
     },
-    "fig_feed.already_uploaded_items": {
-        "string": "{numFiles, plural, one {File {fileNames} has already been added} other {Files already added: {fileNames}}}"
+    "team_view.member_edit_access_modal.invite_only_projects_list_end": {
+        "string": "{numProjects, plural, other {および{numProjects}個の招待限定ファイル}}"
     },
-    "fig_feed.error_on_feed_post_creation": {
-        "string": "An error occurred when saving the feed post"
+    "team_view.member_edit_access_modal.none_files": {
+        "string": "なし"
     },
-    "fig_feed.title_input_placeholder": {
-        "string": "What are you working on?"
+    "team_view.member_edit_access_modal.none_projects": {
+        "string": "なし"
     },
-    "fig_feed.posted_to_org_feed": {
-        "string": "Posted to {orgName} feed"
+    "team_view.member_edit_access_modal.projects_title": {
+        "string": "編集アクセス権のあるプロジェクト"
     },
-    "fig_feed.post_submission_pending": {
-        "string": "Your post has been successfully submitted. It is being processed and will be visible soon"
+    "team_view.member_edit_access_modal.title": {
+        "string": "{memberName}の編集アクセス権"
     },
-    "fig_feed.untitled_post": {
-        "string": "Untitled post"
+    "team_view.page_header_dropdown_label": {
+        "string": "チームのドロップダウンを開く"
     },
-    "fig_feed.draft": {
-        "string": "(Draft)"
+    "team_view.pro_member_modal.edit_table_file_header": {
+        "string": "ファイル"
     },
-    "rcs.feed_onboarding.audience_selection.title": {
-        "string": "Pick your audience"
+    "team_view.pro_member_modal.edit_table_last_active_header": {
+        "string": "最終アクティブ"
     },
-    "rcs.feed_onboarding.audience_selection.content": {
-        "string": "Choose a workspace, team, or project, and its members will see your post."
+    "team_view.pro_member_modal.edit_table_product_header": {
+        "string": "製品"
     },
-    "fig_feed.add_to_post": {
-        "string": "Add to post"
+    "team_view.pro_member_modal.error_on_activity_retrieval_fallback_message": {
+        "string": "最新のアクティビティーを取得中にエラーが発生しました。"
     },
-    "fig_feed.choose_file": {
-        "string": "Choose file"
+    "team_view.pro_member_modal.file_inaccessible_tooltip_warning": {
+        "string": "ファイルの権限が原因でこのファイルにアクセスできません。"
     },
-    "fig_feed.search_files": {
-        "string": "Search files"
+    "team_view.pro_member_modal.no_activity_found": {
+        "string": "アクティビティーが見つかりませんでした"
     },
-    "fig_feed.choose_a_file": {
-        "string": "Choose a file"
+    "team_view.pro_member_modal.title_with_username": {
+        "string": "{username}の最近のアクティビティー"
     },
-    "fig_feed.button.back": {
-        "string": "Back"
+    "team_view.pro_member_modal.title_without_username": {
+        "string": "最近のアクティビティー"
     },
-    "fig_feed.no_matching_results": {
-        "string": "No matching results"
+    "team_view.pro_trials.feature_awareness_banner.audio": {
+        "string": "ファイルの音声チャットを開始"
     },
-    "fig_feed.default_in_parens": {
-        "string": "(Default)"
+    "team_view.pro_trials.feature_awareness_banner.collaboration": {
+        "string": "サインアップせずにコラボレーション"
     },
-    "fig_feed.num_members": {
-        "string": "{numMembers, plural, one {{numMembers} member} other {{numMembers} members}}"
+    "team_view.pro_trials.feature_awareness_banner.component_libraries": {
+        "string": "コンポーネントライブラリ"
     },
-    "fig_feed.set_as_default": {
-        "string": "Set as default"
+    "team_view.pro_trials.feature_awareness_banner.consumption_limit": {
+        "string": "ファイルとプロジェクトの数が無制限"
     },
-    "fig_feed.label.in": {
-        "string": "In"
+    "team_view.pro_trials.feature_awareness_banner.learn_more": {
+        "string": "詳細情報"
     },
-    "fig_feed.label.by": {
-        "string": "By"
+    "team_view.pro_trials.feature_awareness_banner.password_protection": {
+        "string": "非常に安全なパスワード保護"
     },
-    "fig_feed.secret_team_tooltip": {
-        "string": "Only members of {containerName} will see this post"
+    "team_view.pro_trials.feature_awareness_banner.title": {
+        "string": "プロフェッショナルプランの機能の一例:"
     },
-    "fig_feed.new_default_container_has_been_set": {
-        "string": "New default container has been set"
+    "team_view.pro_trials.feature_awareness_banner.voting": {
+        "string": "アイデアを投票で決める"
     },
-    "fig_feed.your_spaces": {
-        "string": "Your spaces"
+    "team_view.remove.seat_rename": {
+        "string": "ダウングレード"
     },
-    "fig_feed.your_recent_spaces": {
-        "string": "Your recent spaces"
+    "team_view.remove_design_edit_status.seat_rename": {
+        "string": "Figmaデザインのアクセス権をダウングレードしますか?"
     }
 }

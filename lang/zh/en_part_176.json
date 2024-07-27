@@ -1,152 +1,152 @@
 {
-    "first_draft.theme_panel.label.fontTitle": {
-        "string": "Title"
+    "first_draft.make_changes.prompts.futuristic_font": {
+        "string": "使用更前卫的字体"
     },
-    "first_draft.theme_panel.label.fontBody": {
-        "string": "Body"
+    "first_draft.make_changes.prompts.make_it_pop": {
+        "string": "让它更显眼"
     },
-    "first_draft.theme_panel.label.fontLabel": {
-        "string": "Labels"
+    "first_draft.make_changes.prompts.punchier_text": {
+        "string": "让文字更有冲击力"
     },
-    "first_draft.theme_panel.color": {
-        "string": "Color"
+    "first_draft.make_changes.prompts.replace_hero_image": {
+        "string": "替换主图"
     },
-    "first_draft.theme_panel.font": {
-        "string": "Font"
+    "first_draft.make_changes.prompts.round_corners": {
+        "string": "将所有角都变圆，更圆一些..."
     },
-    "first_draft.theme_tool.color.light_mode": {
-        "string": "Light"
+    "first_draft.make_changes.prompts.vibrant_images": {
+        "string": "使用更生动的图像"
     },
-    "first_draft.theme_tool.color.dark_mode": {
-        "string": "Dark"
+    "first_draft.make_changes.prompts.watermelon_theme": {
+        "string": "以西瓜为主题"
     },
-    "assets_in_actions.detail_view.fragments_tab.designs_title": {
-        "string": "Designs"
+    "first_draft.making_changes": {
+        "string": "正在进行更改..."
     },
-    "asset_suggestions.visual_search_button": {
-        "string": "Search"
+    "first_draft.no_design_generated": {
+        "string": "无法生成此提示的设计"
     },
-    "asset_suggestions.visual_search_image_upload_button": {
-        "string": "Upload"
+    "first_draft.prompt": {
+        "string": "提示"
     },
-    "asset_suggestions.visual_search_instructions": {
-        "string": "Select a layer, or upload an image"
+    "first_draft.prompt_history_header": {
+        "string": "最近"
     },
-    "asset_suggestions.visual_search_results_title": {
-        "string": "Results for"
+    "first_draft.prompt_history_label": {
+        "string": "最近的提示"
     },
-    "fullscreen.toolbar.approval_pending": {
-        "string": "Approval pending"
+    "first_draft.prompts.admin_dashboard_saas.label": {
+        "string": "仪表板"
     },
-    "fullscreen.toolbar.approval_pending.dev_mode_grace_period_tooltip": {
-        "string": "{numDays, plural, one {Your admin will need to approve your request within {numDays} day for continued use.} other {Your admin will need to approve your request within {numDays} days for continued use.}}"
+    "first_draft.prompts.admin_dashboard_saas.prompt": {
+        "string": "SaaS工具的管理员仪表板"
     },
-    "fullscreen.filename_view.file_input_title": {
-        "string": "File name"
+    "first_draft.prompts.app_browsing_mobile.label": {
+        "string": "应用浏览"
     },
-    "fullscreen.filename_view.branch-count": {
-        "string": "{BRANCHES, plural, one {# branch} other {# branches}}"
+    "first_draft.prompts.app_browsing_mobile.prompt": {
+        "string": "移动应用商店"
     },
-    "fullscreen.filename_view.drafts_to_move": {
-        "string": "Drafts to move"
+    "first_draft.prompts.audio_player_mobile.label": {
+        "string": "音频播放器"
     },
-    "fullscreen.filename_view.edit_file_menu": {
-        "string": "Edit file menu"
+    "first_draft.prompts.audio_player_mobile.prompt": {
+        "string": "有声书应用的媒体播放器"
     },
-    "fullscreen.filename_view.duplicate-as-new": {
-        "string": "Duplicate as new file"
+    "first_draft.prompts.blog_post.label": {
+        "string": "博客文章"
     },
-    "fullscreen.filename_view.duplicate": {
-        "string": "Duplicate"
+    "first_draft.prompts.blog_post.prompt": {
+        "string": "关于...的博客文章"
     },
-    "fullscreen.filename_view.duplicate-to-drafts": {
-        "string": "Duplicate to your drafts"
+    "first_draft.prompts.calendar_mobile.label": {
+        "string": "日历"
     },
-    "fullscreen.filename_view.version-history-hide": {
-        "string": "Hide version history"
+    "first_draft.prompts.calendar_mobile.prompt": {
+        "string": "明亮色调的日历应用"
     },
-    "fullscreen.filename_view.version-history-show": {
-        "string": "Show version history"
+    "first_draft.prompts.checkout_mobile.label": {
+        "string": "结账"
     },
-    "fullscreen.filename_view.publish-styles-and-components": {
-        "string": "Publish library…"
+    "first_draft.prompts.checkout_mobile.prompt": {
+        "string": "餐厅结账界面"
     },
-    "fullscreen.filename_view.export": {
-        "string": "Export…"
+    "first_draft.prompts.delivery_app_mobile.label": {
+        "string": "外卖应用"
     },
-    "fullscreen.filename_view.rename-branch": {
-        "string": "Rename branch"
+    "first_draft.prompts.delivery_app_mobile.prompt": {
+        "string": "适合古饮食的外卖应用"
     },
-    "fullscreen.filename_view.rename": {
-        "string": "Rename"
+    "first_draft.prompts.education_mobile.label": {
+        "string": "教育"
     },
-    "fullscreen.filename_view.go_to_project": {
-        "string": "Go to project"
+    "first_draft.prompts.education_mobile.prompt": {
+        "string": "学习新语言的应用"
     },
-    "fullscreen.filename_view.move-to-project": {
-        "string": "Move…"
+    "first_draft.prompts.email_mobile.label": {
+        "string": "电子邮件"
     },
-    "fullscreen.filename_view.unfavorite_label": {
-        "string": "Remove from your favorites"
+    "first_draft.prompts.email_mobile.prompt": {
+        "string": "电子邮件应用的创建视图"
     },
-    "fullscreen.filename_view.favorite_label": {
-        "string": "Favorite this file"
+    "first_draft.prompts.file_browser_mobile.label": {
+        "string": "文件浏览器"
     },
-    "fullscreen.filename_view.archive-branch": {
-        "string": "Archive branch"
+    "first_draft.prompts.file_browser_mobile.prompt": {
+        "string": "移动文件浏览器"
     },
-    "fullscreen.filename_view.delete": {
-        "string": "Delete…"
+    "first_draft.prompts.fitness_mobile.label": {
+        "string": "健身"
     },
-    "fullscreen.filename_view.delete-branch": {
-        "string": "Delete forever"
+    "first_draft.prompts.fitness_mobile.prompt": {
+        "string": "带有锻炼功能的健身应用"
     },
-    "fullscreen.filename_view.restore_default_thumbnail": {
-        "string": "Restore default thumbnail"
+    "first_draft.prompts.homepage.label": {
+        "string": "主页"
     },
-    "fullscreen.toolbar.pending-org-join-request-tooltip": {
-        "string": "Editing is disabled until your request to join the {orgName} organization is approved"
+    "first_draft.prompts.homepage.prompt": {
+        "string": "舒适酒店的主页"
     },
-    "fullscreen.toolbar.edit-file-button-loading-aria-label": {
-        "string": "Loading…"
+    "first_draft.prompts.homepage_2.prompt": {
+        "string": "流媒体服务的主页"
     },
-    "fullscreen.toolbar.edit-file-button-hover-tooltip": {
-        "string": "Click to make changes to this file"
+    "first_draft.prompts.investing_mobile.label": {
+        "string": "投资"
     },
-    "collaboration.spotlight.button.stop": {
-        "string": "Stop spotlight"
+    "first_draft.prompts.investing_mobile.prompt": {
+        "string": "适用于日间交易的移动应用"
     },
-    "recordings.record_me": {
-        "string": "Record me"
+    "first_draft.prompts.landing_page.label": {
+        "string": "着陆页"
     },
-    "collaboration.spotlight.tooltip.menu.cancel_ask_to_spotlight": {
-        "string": "Cancel ask to spotlight"
+    "first_draft.prompts.landing_page_beauty.prompt": {
+        "string": "美容品牌的着陆页"
     },
-    "collaboration.spotlight.menu.search.placeholder": {
-        "string": "Find someone…"
+    "first_draft.prompts.landing_page_tech.prompt": {
+        "string": "友好的科技品牌着陆页"
     },
-    "fullscreen.toolbar.multiplayer.all_users": {
-        "string": "All Multiplayer Users"
+    "first_draft.prompts.map_app_mobile.label": {
+        "string": "地图应用"
     },
-    "fullscreen.toolbar.multiplayer.multiplayer_tools": {
-        "string": "Multiplayer tools"
+    "first_draft.prompts.map_app_mobile.prompt": {
+        "string": "地图应用，带有热门景点标记"
     },
-    "fullscreen.toolbar.multiplayer.more_users": {
-        "string": "More users"
+    "first_draft.prompts.marketing_page_football.label": {
+        "string": "营销页面"
     },
-    "fullscreen.toolbar.zoom_menu.zoom_to_50": {
-        "string": "Zoom to 50%"
+    "first_draft.prompts.marketing_page_football.prompt": {
+        "string": "足球俱乐部的营销页面"
     },
-    "fullscreen.toolbar.zoom_menu.zoom_to_200": {
-        "string": "Zoom to 200%"
+    "first_draft.prompts.messaging_mobile.label": {
+        "string": "消息"
     },
-    "fullscreen.toolbar.zoom_menu.pixel_preview": {
-        "string": "Pixel preview"
+    "first_draft.prompts.messaging_mobile.prompt": {
+        "string": "聊天应用，两个朋友在计划聚会"
     },
-    "fullscreen_actions.toggle-show-property-labels": {
-        "string": "Property labels"
+    "first_draft.prompts.news_article.label": {
+        "string": "新闻文章"
     },
-    "fullscreen.toolbar.zoom_menu.pixel_preview_disabled": {
-        "string": "Disabled"
+    "first_draft.prompts.news_article.prompt": {
+        "string": "新闻文章，主题是..."
     }
 }

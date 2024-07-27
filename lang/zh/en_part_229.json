@@ -1,152 +1,152 @@
 {
-    "pro_trials_v3.pro_trial_initiation_modal.go_back": {
-        "string": "Go back"
+    "settings_tab.modify_community_handle_description": {
+        "string": "组织的句柄"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.what_type_of_team": {
-        "string": "What type of team is {teamName}?"
+    "settings_tab.modify_community_handle_label": {
+        "string": "添加或更改组织的公共资料句柄"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.not_being_nosy": {
-        "string": "We’re not just being nosy—this info helps make Figma better."
+    "settings_tab.network_access_restriction_label": {
+        "string": "限制此网络上的个人访问"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.continue": {
-        "string": "Continue"
+    "settings_tab.password_controls_settings_description": {
+        "string": "选择可以添加到文件中的密码类型"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.pick_a_team": {
-        "string": "Pick a team for your trial"
+    "settings_tab.password_controls_settings_label": {
+        "string": "密码保护选项"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.everyone_will_be_upgraded": {
-        "string": "Everyone will be upgraded to Professional automatically"
+    "settings_tab.paste_plugin_link": {
+        "string": "从{orgLink}或{communityLink}粘贴到插件的资源页面链接。"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.upgrade_to_pro": {
-        "string": "Upgrade to Professional"
+    "settings_tab.pinned_plugins_add": {
+        "string": "添加"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.cancel": {
-        "string": "Cancel"
+    "settings_tab.pinned_plugins_add_label": {
+        "string": "添加已固定的插件"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.editors.seat_rename": {
-        "string": "{numEditors, plural, one {{numEditors} seat} other {{numEditors} seats}}"
+    "settings_tab.pinned_plugins_description": {
+        "string": "固定插件并在检查面板顶部显示它们。"
     },
-    "pro_trials_v3.pro_trial_initiation_modal.step_counter": {
-        "string": "Step {currentStep} of {totalSteps}"
+    "settings_tab.pinned_plugins_dowgrade_warning.note": {
+        "string": "注意："
     },
-    "sidebar.drafts_to_move": {
-        "string": "Drafts to move"
+    "settings_tab.pinned_plugins_downgrade_warning": {
+        "string": "{noteLabel}固定的插件已成为企业计划的一项功能。您可以更改列表中插件的顺序或删除插件，但要添加插件需要升级计划。"
     },
-    "file_browser.drafts_to_move.long_running_draft_migration": {
-        "string": "We're working to move your drafts"
+    "settings_tab.pinned_plugins_inspect": {
+        "string": "检查"
     },
-    "file_browser.drafts_to_move.long_running_draft_migration_learn_more": {
-        "string": "Learn more"
+    "settings_tab.pinned_plugins_invalid_url": {
+        "string": "这不是有效的开发模式插件。"
     },
-    "file_browser.drafts_to_move.long_running_draft_migration_completed": {
-        "string": "Your drafts have been successfully moved"
+    "settings_tab.pinned_plugins_invalid_url_codegen": {
+        "string": "不能固定代码生成插件。"
     },
-    "navbar.navbar.view_only_plans": {
-        "string": "View-only plans"
+    "settings_tab.pinned_plugins_label": {
+        "string": "已固定的插件"
     },
-    "navbar.navbar.disabled_by_your_admins": {
-        "string": "Disabled by your admins"
+    "settings_tab.pinned_plugins_plugins": {
+        "string": "插件"
     },
-    "navbar.navbar.create_new": {
-        "string": "Create new"
+    "settings_tab.pinned_plugins_remove": {
+        "string": "删除"
     },
-    "navbar.navbar.enterprise": {
-        "string": "Enterprise"
+    "settings_tab.plugin_approval_description": {
+        "string": "要求管理员批准社区插件"
     },
-    "navbar.navbar.org": {
-        "string": "Org"
+    "settings_tab.plugin_approval_label": {
+        "string": "插件批准"
     },
-    "navbar.navbar.edu": {
-        "string": "Edu"
+    "settings_tab.plugin_invalid_err": {
+        "string": "获取的插件无效"
     },
-    "navbar.navbar.trial_expired": {
-        "string": "Trial expired"
+    "settings_tab.plugin_not_autorun_err": {
+        "string": "不能在检查面板中自动运行插件。"
     },
-    "navbar.navbar.locked": {
-        "string": "Locked"
+    "settings_tab.plugin_not_codegen_err": {
+        "string": "插件不支持代码生成"
     },
-    "navbar.navbar.pro_trial": {
-        "string": "Pro trial"
+    "settings_tab.plugin_not_enterprise_err": {
+        "string": "组织不是企业计划"
     },
-    "navbar.navbar.pro": {
-        "string": "Pro"
+    "settings_tab.public_sharing.confirmation_modal.disable_public_links_description": {
+        "string": "关闭公开链接共享后，只有组织成员可以访问Figma设计文件链接。通过要求密码，可以更安全地共享公开链接。"
     },
-    "navbar.navbar.free": {
-        "string": "Free"
+    "settings_tab.public_sharing.confirmation_modal.disable_public_links_submit": {
+        "string": "禁用公开链接"
     },
-    "navbar.settings_dropdown.button_label": {
-        "string": "Open account dropdown"
+    "settings_tab.public_sharing.confirmation_modal.disable_public_links_title": {
+        "string": "关闭公开链接？"
     },
-    "navbar.navbar.notifications_disabled_tooltip": {
-        "string": "Notifications temporarily disabled"
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figjam": {
+        "string": "在FigJam中，只有拥有Figma账户的人才能访问链接"
     },
-    "rcs.account_profile_switcher.title": {
-        "string": "Switching in Figma, made easy"
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.figma_design": {
+        "string": "在Figma设计中，只有组织成员才能访问链接"
     },
-    "rcs.account_profile_switcher.description": {
-        "string": "We’ve combined account and profile switching in the top left. You can also switch to other teams and organizations right below in the sidebar."
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_description.main": {
+        "string": "关闭Figma设计和FigJam的公开共享后，只能与特定受众共享链接。"
     },
-    "navbar.settings_dropdown.profile_label": {
-        "string": "Profile"
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_submit": {
+        "string": "禁用公开共享"
     },
-    "navbar.settings_dropdown.settings": {
-        "string": "Settings"
+    "settings_tab.public_sharing.confirmation_modal.disable_public_sharing_title": {
+        "string": "关闭公开共享？"
     },
-    "navbar.settings_dropdown.theme": {
-        "string": "Theme"
+    "settings_tab.public_sharing.modal.open_sessions_note": {
+        "string": "注意：开放会话不会设置单独的有效期，也不会设置密码。根据需要关闭开放会话。"
     },
-    "navbar.profile_switcher.community": {
-        "string": "Community profile"
+    "settings_tab.public_sharing.remove_custom_workspace_settings": {
+        "string": "删除自定义设置？"
     },
-    "navbar.profile_switcher.create_a_community_profile": {
-        "string": "Create a community profile"
+    "settings_tab.public_sharing.workspace_public_sharing_label": {
+        "string": "允许公开链接共享"
     },
-    "navbar.navbar.logout_button_label": {
-        "string": "Log out"
+    "settings_tab.public_sharing.workspace_public_sharing_subtext": {
+        "string": "选择是否公开并共享此工作区的内容。"
     },
-    "navbar.profile_switcher.logout_all_accounts": {
-        "string": "Log out of all accounts"
+    "settings_tab.public_sharing_description": {
+        "string": "允许成员与组织外的人共享链接"
     },
-    "navbar.profile_switcher.add_account": {
-        "string": "Add account"
+    "settings_tab.public_sharing_title": {
+        "string": "公开共享"
     },
-    "navbar.settings_dropdown.desktop_app_cta": {
-        "string": "Get desktop app"
+    "settings_tab.saml_description": {
+        "string": "启用并设置组织的SAML SSO"
     },
-    "multi-account.max_accounts_body": {
-        "string": "It looks like you're signed in to 10 accounts. You'll need to log out of one of these accounts before you can sign in to another one."
+    "settings_tab.saml_label": {
+        "string": "SAML SSO"
     },
-    "multi-account.max_accounts_submit": {
-        "string": "Got it"
+    "settings_tab.scim_description": {
+        "string": "启用并设置组织的SCIM"
     },
-    "multi-account.max_accounts_title": {
-        "string": "You've reached the maximum number of accounts"
+    "settings_tab.scim_group_description": {
+        "string": "使用IDP管理许可证、账单组和工作区成员分配"
     },
-    "account_switcher.view_community_profile": {
-        "string": "View Community profile"
+    "settings_tab.scim_label": {
+        "string": "SCIM供应"
     },
-    "account_switcher.view_profile": {
-        "string": "View profile"
+    "settings_tab.scim_metadata_modal.change_which_scim_metadata_shows_on_the_members_tab": {
+        "string": "更改[成员]选项卡中显示的SCIM元数据"
     },
-    "account_switcher.change_photo": {
-        "string": "Change photo"
+    "settings_tab.scim_metadata_modal.done": {
+        "string": "完成"
     },
-    "dev_handoff.code.settings.language": {
-        "string": "Language"
+    "settings_tab.scim_metadata_modal.member_metadata": {
+        "string": "成员元数据"
     },
-    "dev_handoff.inspect_panel.more_plugins": {
-        "string": "More plugins…"
+    "settings_tab.section_header.ai_beta": {
+        "string": "AI测试版"
     },
-    "variables.create_modal.title": {
-        "string": "Variable"
+    "settings_tab.section_header.data": {
+        "string": "数据"
     },
-    "variables.create_modal.collection_label": {
-        "string": "Collection"
+    "settings_tab.section_header.domains": {
+        "string": "域"
     },
-    "variables.create_modal.name_label": {
-        "string": "Name"
+    "settings_tab.section_header.extensions": {
+        "string": "扩展"
     },
-    "variables.create_modal.create_button": {
-        "string": "Create variable"
+    "settings_tab.section_header.external_access": {
+        "string": "外部访问"
     }
 }

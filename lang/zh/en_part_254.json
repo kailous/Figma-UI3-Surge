@@ -1,152 +1,152 @@
 {
-    "cursor_bot.show_me": {
-        "string": "Show me"
+    "permissions_modal.file_share_settings.anyone_in_container_can_edit": {
+        "string": "{containerName}の誰でも編集可"
     },
-    "proto.overlay_settings": {
-        "string": "Overlay settings"
+    "permissions_modal.file_share_settings.anyone_in_container_can_view": {
+        "string": "{containerName}の誰でも閲覧可"
     },
-    "proto.close_when_clicking_outside": {
-        "string": "Close when clicking outside"
+    "permissions_modal.file_share_settings.can_edit_this_file": {
+        "string": "このファイルを編集できます。"
     },
-    "proto.overlay_panel.background": {
-        "string": "Background"
+    "permissions_modal.file_share_settings.can_view": {
+        "string": "閲覧のみ"
     },
-    "proto.add_background": {
-        "string": "Add background"
+    "permissions_modal.file_share_settings.can_view_and_comment_on_this_file": {
+        "string": "このファイルの閲覧とコメントが可能です。"
     },
-    "proto.overlay_panel.position": {
-        "string": "Position"
+    "permissions_modal.file_share_settings.custom_time": {
+        "string": "ユーザー設定"
     },
-    "proto.background": {
-        "string": "Background"
+    "permissions_modal.file_share_settings.day_text": {
+        "string": "{num, plural, other {{num}日}}"
     },
-    "proto.tooltip_overlay_position_center": {
-        "string": "Center"
+    "permissions_modal.file_share_settings.discoverable_via_search": {
+        "string": "検索可能にする"
     },
-    "proto.tooltip_overlay_position_top_left": {
-        "string": "Top left"
+    "permissions_modal.file_share_settings.expires_on_date": {
+        "string": "{date}に期限切れになります。その後、アクセス権は{prevLinkAccess}に戻ります。"
     },
-    "proto.tooltip_overlay_position_bottom_center": {
-        "string": "Bottom center"
+    "permissions_modal.file_share_settings.hour_text": {
+        "string": "{num, plural, other {{num}時間}}"
     },
-    "proto.variable": {
-        "string": "Variable"
+    "permissions_modal.file_share_settings.link_expiration": {
+        "string": "リンクの有効期間"
     },
-    "proto.variable.value": {
-        "string": "Value"
+    "permissions_modal.file_share_settings.link_expires_in": {
+        "string": "リンクの有効期間を設定する"
     },
-    "proto.select_variable.short": {
-        "string": "Pick variable"
+    "permissions_modal.file_share_settings.minute_text": {
+        "string": "{num, plural, other {{num}分}}"
     },
-    "proto.select_variable": {
-        "string": "Pick target variable"
+    "permissions_modal.file_share_settings.month_text": {
+        "string": "{num, plural, other {{num}か月}}"
     },
-    "proto.state_management.reset_video_state": {
-        "string": "Reset video state"
+    "permissions_modal.file_share_settings.more_days": {
+        "string": "{num, plural, other {残り{num}日}}"
     },
-    "proto.animation_panel.reset_video_state": {
-        "string": "Reset video states"
+    "permissions_modal.file_share_settings.more_hours": {
+        "string": "{num, plural, other {残り{num}時間}}"
     },
-    "proto.animation_panel.preserve_scroll_position": {
-        "string": "Preserve scroll position"
+    "permissions_modal.file_share_settings.more_minutes": {
+        "string": "{num, plural, other {残り{num}分}}"
     },
-    "proto.animation_panel.reset_scroll_position": {
-        "string": "Reset scroll position"
+    "permissions_modal.file_share_settings.more_months": {
+        "string": "{num, plural, other {残り{num}か月}}"
     },
-    "proto.animation_panel.reset_component_state": {
-        "string": "Reset component state"
+    "permissions_modal.file_share_settings.more_weeks": {
+        "string": "{num, plural, other {残り{num}週間}}"
     },
-    "proto.state_management": {
-        "string": "State management"
+    "permissions_modal.file_share_settings.num_people": {
+        "string": "{num, plural, other {{num}人}}"
     },
-    "proto.state_management.mixed_state_update": {
-        "string": "Update to new state management to change mixed content."
+    "permissions_modal.file_share_settings.one_day": {
+        "string": "1日"
     },
-    "proto.state": {
-        "string": "State"
+    "permissions_modal.file_share_settings.one_week": {
+        "string": "1週間"
     },
-    "proto.video_dropdown.label": {
-        "string": "Video"
+    "permissions_modal.file_share_settings.only_invited_people": {
+        "string": "招待されたユーザーのみ"
     },
-    "proto.target_video_node_name_formatter.this_video": {
-        "string": "This video"
+    "permissions_modal.file_share_settings.only_public_for": {
+        "string": "公開期限まで{durationText}"
     },
-    "proto.action_open_url_in_new_tab": {
-        "string": "Open in new tab"
+    "permissions_modal.file_share_settings.org_requires_access_to_end": {
+        "string": "{orgName}の設定により、{date}の前にアクセスを終える必要があります。その後、アクセス権は{prevLinkAccess}に戻ります。"
     },
-    "proto.open_url.text_input_label": {
-        "string": "Link"
+    "permissions_modal.file_share_settings.password_copied_to_clipboard": {
+        "string": "パスワードをクリップボードにコピーしました"
     },
-    "proto.interaction.example_com": {
-        "string": "example.com"
+    "permissions_modal.file_share_settings.password_required": {
+        "string": "パスワードが必要です"
     },
-    "proto.scroll_options.scroll_offset.y": {
-        "string": "Y"
+    "permissions_modal.file_share_settings.please_enter_a_password": {
+        "string": "パスワードを入力してください"
     },
-    "proto.scroll_options.scroll_offset.x": {
-        "string": "X"
+    "permissions_modal.file_share_settings.these_settings_won't_apply_to": {
+        "string": "これらの設定は、直接招待された{numPeople}人と現在アクセス権を持っている{projectName}のメンバーには適用されません。"
     },
-    "proto.scroll_options.offset": {
-        "string": "Offset"
+    "permissions_modal.file_share_settings.these_settings_won't_apply_to_no_project": {
+        "string": "これらの設定は、直接招待された{numPeople}人と現在アクセス権を持っている{fileName}のメンバーには適用されません。"
     },
-    "proto.trigger.y_offset": {
-        "string": "Y-Offset"
+    "permissions_modal.file_share_settings.these_settings_won't_apply_to_presentation": {
+        "string": "これらの設定は、プレゼンテーションまたはメインファイルに直接招待されたユーザーには適用されません。"
     },
-    "proto.trigger.x_offset": {
-        "string": "X-Offset"
+    "permissions_modal.file_share_settings.these_settings_won't_apply_to_prototype": {
+        "string": "これらの設定は、プロトタイプまたはメインファイルに直接招待されたユーザーには適用されません。"
     },
-    "proto.video_options.behavior": {
-        "string": "Behavior"
+    "permissions_modal.file_share_settings.this_setting_applies_to_anyone_with_view_access": {
+        "string": "この設定は、ファイルの{strongCanView}権限を持つすべてのユーザーに適用されます。"
     },
-    "proto.video_options.direction": {
-        "string": "Direction"
+    "permissions_modal.file_share_settings.viewers_can_copy_share_export": {
+        "string": "閲覧者は、このファイルをコピー、共有、およびエクスポートすることができます。"
     },
-    "proto.video_options.offset": {
-        "string": "Offset"
+    "permissions_modal.file_share_settings.week_text": {
+        "string": "{num, plural, other {{num}週間}}"
     },
-    "proto.video_options.timestamp": {
-        "string": "Timestamp"
+    "permissions_modal.request_an_upgrade": {
+        "string": "アップグレードを申請する"
     },
-    "proto.trigger.timestamp_to_set_to": {
-        "string": "Timestamp to set to"
+    "permissions_modal.restricted": {
+        "string": "制限"
     },
-    "proto.trigger.duration_to_jump_backward": {
-        "string": "Duration to jump backward"
+    "permissions_modal.restricted_figjam_disabled": {
+        "string": "ご使用のアカウントが管理者によって制限されています。"
     },
-    "proto.trigger.duration_to_jump_forward": {
-        "string": "Duration to jump forward"
+    "permissions_modal.restricted_figjam_disabled_with_product_name": {
+        "string": "ご使用のアカウントが{productName}で管理者によって制限されています。"
     },
-    "proto.prototype_panel.use_the_circular_node_to_connect_the_selected_object_to_another_frame_tooltip": {
-        "string": "Use the circular node to connect the selected object to another frame."
+    "permissions_modal.restricted_org_user": {
+        "string": "ご使用のアカウントが管理者によって制限されています。ファイルを編集するには、{upgradeLink}してください。"
     },
-    "proto.action_overlay_title": {
-        "string": "Open {overlayFrameName} as Overlay"
+    "permissions_modal.restricted_org_user_with_product_name": {
+        "string": "ご使用のアカウントが{productName}で管理者によって制限されています。{productName}のファイルを編集するには、{upgradeLink}してください。"
     },
-    "proto.action_set_variable_title": {
-        "string": "Set {variableName} to {variableValue}"
+    "permissions_modal.restricted_pro_user": {
+        "string": "ご使用のアカウントが管理者によって{restricted}されています。ファイルを{edit}するには、管理者にアップグレードを依頼してください。"
     },
-    "proto.action_swap_overlay_title": {
-        "string": "Swap overlay to"
+    "permissions_modal.restricted_pro_user_with_product_name": {
+        "string": "ご使用のアカウントが管理者によって{productName}で{restricted}されています。{productName}ファイルを{edit}するには、管理者にアップグレードを依頼してください。"
     },
-    "proto.action_url_title": {
-        "string": "Open"
+    "permissions_modal.restricted_user_other": {
+        "string": "このユーザーのアカウントは{restricted}されています。アカウントがアップグレードされると、ファイルを{edit}できるようになります。"
     },
-    "proto.if": {
-        "string": "if"
+    "permissions_modal.restricted_user_other_with_product_name": {
+        "string": "このユーザーのアカウントは{productName}で{restricted}されています。アカウントがアップグレードされると、{productName}を{edit}できるようになります 。"
     },
-    "proto.action_conditional_title": {
-        "string": "If"
+    "permissions_modal.share_with_message_placeholder": {
+        "string": "オプション: 参加を促す短いメッセージを添えることができます。"
     },
-    "proto.keyCapture.press_key_lowercase": {
-        "string": "Press key"
+    "permissions_modal.share_with_message_too_long_warning": {
+        "string": "メッセージが長すぎます"
     },
-    "proto.keyCapture.press_key": {
-        "string": "Press Key"
+    "publishing.community.header": {
+        "string": "コミュニティファイルを更新"
     },
-    "proto.keyCapture.click_to_set_key": {
-        "string": "Click to set key"
+    "publishing.community.menu.description.disabled": {
+        "string": "Figmaコミュニティにファイルを公開できるのは管理者だけです。{link}"
     },
-    "proto.keyCapture.click_to_select": {
-        "string": "Click to select"
+    "publishing.community.menu.description.disabled_starter_file": {
+        "string": "これはFigmaサンプルファイルのため、公開できません。別のファイルを選択してください。"
     }
 }

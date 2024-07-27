@@ -1,152 +1,152 @@
 {
-    "sidebar.import": {
-        "string": "Import…"
+    "fullscreen_actions.move_left": {
+        "string": "向左移动"
     },
-    "file_browser.tool_bar.new_design_file": {
-        "string": "Design file"
+    "fullscreen_actions.move_right": {
+        "string": "向右移动"
     },
-    "file_browser.tool_bar.new_figjam_board": {
-        "string": "FigJam board"
+    "fullscreen_actions.move_to_bottom": {
+        "string": "移动到最下方"
     },
-    "file_browser.tool_bar.new_slide_deck": {
-        "string": "Slide deck"
+    "fullscreen_actions.move_to_file": {
+        "string": "移动到文件..."
     },
-    "sites.toolbar.new_site_file": {
-        "string": "Website"
+    "fullscreen_actions.move_to_left_edge": {
+        "string": "移动到左边缘"
     },
-    "file_browser.folder.import": {
-        "string": "Import"
+    "fullscreen_actions.move_to_right_edge": {
+        "string": "移动到右边缘"
     },
-    "universal_insert.more_options": {
-        "string": "More options"
+    "fullscreen_actions.move_to_top": {
+        "string": "移动到最上方"
     },
-    "community.comments.learn_more_about_managing_comments_on_your_files_and_plugins_in_community": {
-        "string": "{learnMoreLink} about managing comments on your files and plugins in Community"
+    "fullscreen_actions.move_up": {
+        "string": "向上移动"
     },
-    "community.comments.unrestrict": {
-        "string": "Unrestrict"
+    "fullscreen_actions.move_while_resizing": {
+        "string": "调整大小时移动"
     },
-    "community.comments.restrict": {
-        "string": "Restrict"
+    "fullscreen_actions.multi-edit-text": {
+        "string": "多重编辑文本"
     },
-    "settings_tab.community_commenters_label": {
-        "string": "Restricted commenters"
+    "fullscreen_actions.multi-stack-selection-submenu": {
+        "string": "其他布局选项"
     },
-    "community.comments.restricted_this_user_s_comments": {
-        "string": "Restricted this user's comments"
+    "fullscreen_actions.new-design": {
+        "string": "新建设计文件"
     },
-    "community.comments.unrestricted_this_user_s_comments": {
-        "string": "Unrestricted this user's comments"
+    "fullscreen_actions.new-from-sketch": {
+        "string": "从Sketch文件新建..."
     },
-    "community.comments.these_people_can_t_comment_on_any_of_profile_handles_community_files_and_plugins": {
-        "string": "These people can’t comment on any of @{profileHandle}'s Community files and plugins"
+    "fullscreen_actions.new-from-templates": {
+        "string": "模板"
     },
-    "community.comments.these_people_can_t_comment_on_any_of_your_community_files_and_plugins": {
-        "string": "These people can’t comment on any of your Community files and plugins"
+    "fullscreen_actions.new-from-templates-description": {
+        "string": "可用的模板"
     },
-    "favorited_resources.create_a_new_section": {
-        "string": "Create a new section"
+    "fullscreen_actions.new-slides": {
+        "string": "新建幻灯片"
     },
-    "project_menu.description": {
-        "string": "Description"
+    "fullscreen_actions.new-whiteboard": {
+        "string": "新建FigJam文件"
     },
-    "project_menu.edit_description": {
-        "string": "Edit description"
+    "fullscreen_actions.new_page": {
+        "string": "新建页面"
     },
-    "project_menu.add_description": {
-        "string": "Add description"
+    "fullscreen_actions.next-artboard": {
+        "string": "放大到下一个画板"
     },
-    "sidebar.share": {
-        "string": "Share…"
+    "fullscreen_actions.next-artboard-same-zoom": {
+        "string": "检测到下一个画板"
     },
-    "sidebar.move_project": {
-        "string": "Move…"
+    "fullscreen_actions.no_actions_available": {
+        "string": "没有可用的操作"
     },
-    "sidebar.rename": {
-        "string": "Rename"
+    "fullscreen_actions.no_matches": {
+        "string": "无匹配项"
     },
-    "sidebar.remove_from_favorites": {
-        "string": "Remove from favorites"
+    "fullscreen_actions.object-menu": {
+        "string": "对象"
     },
-    "sidebar.add_to_favorites": {
-        "string": "Add to favorites"
+    "fullscreen_actions.open-account-settings": {
+        "string": "打开账户设置"
     },
-    "project_menu.to_another_team_org": {
-        "string": "To another team/org"
+    "fullscreen_actions.open-font-settings": {
+        "string": "打开字体设置"
     },
-    "project_menu.ownership": {
-        "string": "Ownership"
+    "fullscreen_actions.open-help": {
+        "string": "帮助页面"
     },
-    "project_menu.copy": {
-        "string": "A copy"
+    "fullscreen_actions.open-in-desktop-app": {
+        "string": "在桌面应用中打开"
     },
-    "project_menu.transfer": {
-        "string": "Transfer"
+    "fullscreen_actions.open-legal-summary": {
+        "string": "法律信息"
     },
-    "project_menu.pending_transfer_request": {
-        "string": "Pending transfer request…"
+    "fullscreen_actions.open-link": {
+        "string": "打开链接"
     },
-    "project_menu.view_transfer_details": {
-        "string": "View details"
+    "fullscreen_actions.open-links-in-desktop-app": {
+        "string": "在桌面应用中打开链接"
     },
-    "project_menu.delete": {
-        "string": "Delete"
+    "fullscreen_actions.open-preferences-modal": {
+        "string": "库"
     },
-    "sidebar.leave_shared_project": {
-        "string": "Leave shared project"
+    "fullscreen_actions.open-release-notes": {
+        "string": "版本说明"
     },
-    "file_browser.error_on_move_to_personal_project": {
-        "string": "Projects are no longer supported outside of teams, so you can't move a file into a personal project."
+    "fullscreen_actions.open-shortcuts": {
+        "string": "键盘快捷键"
     },
-    "sidebar.new_file": {
-        "string": "New file"
+    "fullscreen_actions.open-support-forum": {
+        "string": "支持论坛"
     },
-    "file_browser.creates_new_file": {
-        "string": "Creates new file"
+    "fullscreen_actions.open-timer": {
+        "string": "打开计时器"
     },
-    "swy_tile.shared": {
-        "string": "Shared "
+    "fullscreen_actions.open-tutorials": {
+        "string": "视频教程"
     },
-    "team_view.folder_list_card.number_of_files": {
-        "string": "{numFiles, plural, one {# file} other {# files}}"
+    "fullscreen_actions.open_console": {
+        "string": "打开控制台"
     },
-    "team_view.folder_list_card.last_updated_at": {
-        "string": " · Updated {lastUpdatedTime}"
+    "fullscreen_actions.outline-mode-hidden-layers": {
+        "string": "显示隐藏的图层"
     },
-    "team_view.folder_list_card.owner_handle": {
-        "string": "{folderOwnerName} (owner)"
+    "fullscreen_actions.outline-mode-hidden-layers-qc": {
+        "string": "在显示轮廓模式下显示隐藏的图层"
     },
-    "org_billing_error_default": {
-        "string": "An error occurred while fetching billing data."
+    "fullscreen_actions.outline-mode-object-bounds": {
+        "string": "显示对象边界"
     },
-    "auth.google-sso.unable-to-get-info": {
-        "string": "Unable to get profile information from Google"
+    "fullscreen_actions.outline-mode-object-bounds-qc": {
+        "string": "在显示轮廓模式下显示对象边界"
     },
-    "auth.error.account-not-found": {
-        "string": "Could not find that account; did you mean to sign up?"
+    "fullscreen_actions.outline-stroke": {
+        "string": "轮廓描边"
     },
-    "auth.google-sso.unable-to-auth": {
-        "string": "Unable to authenticate"
+    "fullscreen_actions.outlines-enabled": {
+        "string": "启用"
     },
-    "recordings.browser_audio_permissions_error": {
-        "string": "Figma needs access to your microphone to create recordings. Please enable microphone access in your browser settings and try again"
+    "fullscreen_actions.outlines-menu": {
+        "string": "轮廓"
     },
-    "recordings.browser_audio_not_available_error": {
-        "string": "There needs to be at least one audio input device to make a recording"
+    "fullscreen_actions.pack-horizontal": {
+        "string": "水平填充"
     },
-    "recordings.browser_device_general_error": {
-        "string": "There was an error when trying to access your media device"
+    "fullscreen_actions.pack-vertical": {
+        "string": "垂直填充"
     },
-    "recordings.restart_modal_title": {
-        "string": "Restart recording"
+    "fullscreen_actions.page-convert-to-figjam": {
+        "string": "将页面转换为FigJam页面"
     },
-    "general.restart": {
-        "string": "Restart"
+    "fullscreen_actions.page-convert-to-figma": {
+        "string": "将页面转换为Figma页面"
     },
-    "recordings.restart_modal_confirmation": {
-        "string": "Are you sure you want to restart this recording?"
+    "fullscreen_actions.page-copy-link": {
+        "string": "复制页面链接"
     },
-    "recordings.save_recording": {
-        "string": "Save Recording"
+    "fullscreen_actions.page-delete": {
+        "string": "删除页面"
     }
 }

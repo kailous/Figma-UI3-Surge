@@ -1,152 +1,152 @@
 {
-    "variables.create_modal.invalid_variable_name": {
-        "string": "Invalid variable name"
+    "settings_tab.section_header.login_and_provisioning": {
+        "string": "登录和配置"
     },
-    "payments.errors.estimate_calculation_error": {
-        "string": "There was an issue with calculating your estimated total. Please try again."
+    "settings_tab.section_header.other": {
+        "string": "其他"
     },
-    "pro_cart.add_collaborators.add_collaborators_to_your_team": {
-        "string": "Add collaborators to your team"
+    "settings_tab.section_header.profile": {
+        "string": "组织简介"
     },
-    "pro_cart.add_collaborators.well_add_them_to_your_team": {
-        "string": "We’ll add them to your team once they sign up"
+    "settings_tab.section_header.resources": {
+        "string": "资源"
     },
-    "pro_cart.add_collaborators.add_another": {
-        "string": "+ Add another"
+    "settings_tab.section_header.slides": {
+        "string": "Figma Slides"
     },
-    "pro_cart.add_collaborators.sent_invites": {
-        "string": "Send invites"
+    "settings_tab.section_header.team_management": {
+        "string": "团队管理"
     },
-    "pro_cart.add_collaborators.skip_for_now": {
-        "string": "Skip for now"
+    "settings_tab.section_header.user_data": {
+        "string": "用户数据"
     },
-    "pro_cart.add_collaborators.email": {
-        "string": "Email"
+    "settings_tab.show_more": {
+        "string": "显示更多..."
     },
-    "keyboard_settings.new_keyboard_name_keyboard_shortcuts_are_available": {
-        "string": "{newKeyboardName} keyboard shortcuts are available"
+    "settings_tab.slides.access_to_slides": {
+        "string": "访问Figma Slides"
     },
-    "keyboard_settings.update_keyboard_shortcuts": {
-        "string": "Open keyboard settings"
+    "settings_tab.slides.disable_success": {
+        "string": "Figma Slides在组织中已禁用"
     },
-    "keyboard_settings.new_keyboard_name_keyboard_shortcuts_are_now_available": {
-        "string": "{newKeyboardName} keyboard shortcuts are now available"
+    "settings_tab.slides.enable_success": {
+        "string": "Figma Slides在组织中已启用并可用"
     },
-    "keyboard_settings.enable_and_show_new_shortcuts": {
-        "string": "Enable and show new shortcuts"
+    "settings_tab.slides.let_users_create_slides": {
+        "string": "允许用户在Figma Slides中创建、编辑和查看幻灯片。{learnMoreLink}"
     },
-    "whiteboard.open_sessions.expiry_modal_title": {
-        "string": "The {file_name} session is over"
+    "settings_tab.sso_method.any_method": {
+        "string": "所有方法"
     },
-    "whiteboard.open_sessions.expiry_modal_subtext": {
-        "string": "Thanks for coming! Want to keep jamming? Sign up and try FigJam for free."
+    "settings_tab.sso_method.google_only": {
+        "string": "仅限Google"
     },
-    "fullscreen.fullscreen_view.context_menu.aria_label": {
-        "string": "Context menu"
+    "settings_tab.sso_method.saml_only": {
+        "string": "仅限SAML"
     },
-    "404.file_no_access.title": {
-        "string": "You don’t have access to this file"
+    "settings_tab.team_creation_description": {
+        "string": "更改在此组织中可以创建团队的用户"
     },
-    "whiteboard.open_sessions.expiry_banner_title": {
-        "string": "This session is over"
+    "settings_tab.team_creation_label": {
+        "string": "创建团队"
     },
-    "whiteboard.open_sessions.expiry_banner_prompt": {
-        "string": "Want to keep working? Just click Edit File."
+    "settings_tab.ui_kits_disabled": {
+        "string": "UI套件已对所有用户禁用"
     },
-    "whiteboard.gif.failed_to_load": {
-        "string": "Could not play this GIF"
+    "settings_tab.ui_kits_enabled": {
+        "string": "UI套件已对所有用户启用"
     },
-    "whiteboard.video.failed_to_load": {
-        "string": "Could not play this video"
+    "settings_tab.ui_kits_toggle_description": {
+        "string": "默认情况下在设计文件中启用Figma和选定合作伙伴创建的库。"
     },
-    "whiteboard.video.still_uploading": {
-        "string": "Still uploading—this may take a minute."
+    "settings_tab.ui_kits_toggle_label": {
+        "string": "UI套件"
     },
-    "fullscreen.accessibility.main_region": {
-        "string": "Board"
+    "settings_tab.upgrade_to_enterprise_learn_more_link": {
+        "string": "了解更多"
     },
-    "whiteboard.embeds.tooltip_help_text.video": {
-        "string": "When you click play, the video plays just for you."
+    "settings_tab.upgrade_to_enterprise_plan_text": {
+        "string": "企业计划允许您根据组织的需求微调开发模式体验。"
     },
-    "whiteboard.embeds.tooltip_help_text.audio": {
-        "string": "When you click play, the audio plays just for you."
+    "settings_tab.vat_gst": {
+        "string": "增值税/商品及服务税"
     },
-    "whiteboard.embeds.tooltip_help_text.file": {
-        "string": "This preview is unique to you. If you play any media, others won't see or hear it."
+    "settings_tab.widget_admin_approval_description": {
+        "string": "要求管理员批准社区小部件"
     },
-    "whiteboard.embeds.tooltip_help_text.generic": {
-        "string": "This preview is unique to you. If you play any media, others won't see or hear it."
+    "settings_tab.widget_admin_approval_disabled": {
+        "string": "所有小部件已允许"
     },
-    "whiteboard.embeds.embed_overlay_iframe_title": {
-        "string": "Figma embedded content"
+    "settings_tab.widget_admin_approval_enabled": {
+        "string": "小部件已限制为批准的列表小部件"
     },
-    "proto.interaction_details.header": {
-        "string": "Interaction"
+    "settings_tab.widget_admin_approval_label": {
+        "string": "小部件批准"
     },
-    "proto.prototype_panel.delete": {
-        "string": "Delete"
+    "settings_tab.workspace_selector_description_with_link": {
+        "string": "在新用户和未分配用户登录时显示选择工作区的提示"
     },
-    "proto.interaction_details.visual_bell.selected_n_matching_interactions": {
-        "string": "Selected {total_num_interactions} matching interactions"
+    "settings_tab.workspace_selector_label": {
+        "string": "工作区选择器"
     },
-    "proto.interaction_details.select_n_matching_interactions": {
-        "string": "Select {total_num_interactions} matching interactions"
+    "shared_fonts.error_message_for_upload_failure_400": {
+        "string": "无效的字体文件。"
     },
-    "whiteboard.inserts.add_template": {
-        "string": "Add template"
+    "shared_fonts.error_message_for_upload_failure_403": {
+        "string": "您无权执行此操作。"
     },
-    "whiteboard.reactive_guidance.view_only": {
-        "string": "Right now, you can only {permission}."
+    "shared_fonts.error_message_for_upload_failure_409": {
+        "string": "该字体已上传到组织中，可以通过字体选择器访问此字体。"
     },
-    "whiteboard.reactive_guidance.view_only_permission": {
-        "string": "view"
+    "shared_fonts.error_message_for_upload_failure_422": {
+        "string": "此文件包含缺失或无效字段。"
     },
-    "voting.stamp_tooltip.vote": {
-        "string": "{userName}’s vote"
+    "shared_fonts.error_message_for_upload_failure_429": {
+        "string": "文件太大。请将文件大小控制在20 MB以下。"
     },
-    "whiteboard.stamp.stamped_by_tooltip": {
-        "string": "stamped by {userName}"
+    "shared_fonts.error_message_for_upload_failure_default_with_help_center": {
+        "string": "无法上传字体文件。Figma支持.TTF和.OTF格式的字体。有关详细信息，请访问我们的{helpCenterLink}。"
     },
-    "voting.stamp_tooltip.visitor_vote": {
-        "string": "Guest’s vote"
+    "shared_fonts.import_complete_with_errors": {
+        "string": "{unsuccessfulUploadCount, plural, other {共享字体导入已完成，但有{unsuccessfulUploadCount}个错误}}"
     },
-    "voting.stamp_tooltip.visitor_with_org": {
-        "string": "Guest of {orgName}"
+    "shared_fonts.import_complete_with_no_errors": {
+        "string": "共享字体导入已完成"
     },
-    "voting.stamp_tooltip.visitor_without_org": {
-        "string": "Guest"
+    "shared_fonts.importing_font_files": {
+        "string": "正在导入字体文件..."
     },
-    "voting.stamp_tooltip.old_stamp": {
-        "string": "Prehistoric stamp"
+    "shared_fonts.review_font_upload_errors": {
+        "string": "查看"
     },
-    "upsell.history.upgrade_now": {
-        "string": "Upgrade now"
+    "shared_fonts.successful_deletes": {
+        "string": "{totalDeletes, plural, other {{totalDeletes}个字体已删除}}"
     },
-    "whiteboard.paywall_upsell.draft.first.main": {
-        "string": "Invite anyone to jam with {purpleSection}"
+    "shared_fonts.unsuccessful_deletes": {
+        "string": "{totalDeletes, plural, other {{totalDeletes}个中{numUnsuccessfulDeletes}个字体未能删除}}"
     },
-    "whiteboard.paywall_upsell.draft.first.main.purpleSection": {
-        "string": "open sessions"
+    "shared_fonts.upload_error_modal.error": {
+        "string": "错误"
     },
-    "whiteboard.paywall_upsell.draft.second.main": {
-        "string": "{purpleSection} gets everyone on the same page"
+    "shared_fonts.upload_error_modal.font": {
+        "string": "字体"
     },
-    "whiteboard.paywall_upsell.draft.second.main.purpleSection": {
-        "string": "Voting"
+    "shared_fonts.upload_error_modal.okay": {
+        "string": "确定"
     },
-    "whiteboard.paywall_upsell.draft.third.main": {
-        "string": "Talk things out with {purpleSection}"
+    "shared_fonts.upload_error_modal.title": {
+        "string": "{unsuccessfulUploads, plural, other {字体上传错误}}"
     },
-    "whiteboard.paywall_upsell.draft.third.main.purpleSection": {
-        "string": "audio chat"
+    "shared_fonts.uploads_remaining": {
+        "string": "正在导入{totalFileCount}个中的{processedFileCount}个字体文件..."
     },
-    "whiteboard.paywall_upsell.team.main": {
-        "string": "You've used {fileCount} free files"
+    "teams_table.ask_to_join": {
+        "string": "请求加入"
     },
-    "whiteboard.paywall_upsell.team.main.first": {
-        "string": "1 of 3"
+    "teams_table.assign_teams": {
+        "string": "分配团队"
     },
-    "whiteboard.paywall_upsell.team.main.second": {
-        "string": "2 of 3"
+    "teams_table.cancel_join_request": {
+        "string": "取消加入请求"
     }
 }

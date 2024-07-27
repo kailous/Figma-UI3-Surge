@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.ai_content_fill.magic_handle_hover_tooltip_all_dupes": {
-        "string": "Duplicate"
+    "general.figma_design": {
+        "string": "Figma 设计"
     },
-    "fullscreen_actions.add-title": {
-        "string": "Add title"
+    "general.figma_design_short": {
+        "string": "设计"
     },
-    "fullscreen_actions.clear_empty_prototype_interactions": {
-        "string": "Clear empty prototype interactions"
+    "general.figma_design_short_lower": {
+        "string": "设计"
     },
-    "fullscreen_actions.collapse-figjam-left-panel": {
-        "string": "Collapse sidebar"
+    "general.figma_slides": {
+        "string": "Figma 幻灯片"
     },
-    "fullscreen_actions.comment": {
-        "string": "Comment"
+    "general.go_back": {
+        "string": "返回"
     },
-    "fullscreen_actions.component-insert": {
-        "string": "Insert component"
+    "general.got_it": {
+        "string": "知道了"
     },
-    "fullscreen_actions.copy-email": {
-        "string": "Copy email {email}"
+    "general.guest": {
+        "string": "访客"
     },
-    "fullscreen_actions.copy-hyperlink": {
-        "string": "Copy link to {hyperlink}"
+    "general.ignore": {
+        "string": "忽略"
     },
-    "fullscreen_actions.copy-link-to-connector": {
-        "string": "Copy link to connector"
+    "general.learn_more": {
+        "string": "了解更多"
     },
-    "fullscreen_actions.copy-link-to-instance": {
-        "string": "Copy link to sticker"
+    "general.member": {
+        "string": "成员"
     },
-    "fullscreen_actions.copy-link-to-section": {
-        "string": "Copy link to section"
+    "general.next": {
+        "string": "下一步"
     },
-    "fullscreen_actions.copy-link-to-shape": {
-        "string": "Copy link to shape"
+    "general.ok": {
+        "string": "确定"
     },
-    "fullscreen_actions.copy-link-to-stamp": {
-        "string": "Copy link to stamp"
+    "general.okay": {
+        "string": "好的"
     },
-    "fullscreen_actions.copy-link-to-sticky": {
-        "string": "Copy link to sticky"
+    "general.open": {
+        "string": "打开"
     },
-    "fullscreen_actions.copy-link-to-table": {
-        "string": "Copy link to table"
+    "general.previous": {
+        "string": "上一步"
     },
-    "fullscreen_actions.copy-link-to-text": {
-        "string": "Copy link to text"
+    "general.privacy_policy": {
+        "string": "隐私政策"
     },
-    "fullscreen_actions.copy-link-to-this": {
-        "string": "Copy link to this"
+    "general.question_mark": {
+        "string": "问号"
     },
-    "fullscreen_actions.copy-link-to-washi-tape": {
-        "string": "Copy link to washi tape"
+    "general.recovery_mode": {
+        "string": "恢复模式"
     },
-    "fullscreen_actions.copy-link-to-widget": {
-        "string": "Copy link to widget"
+    "general.remove": {
+        "string": "移除"
     },
-    "fullscreen_actions.copy-phone": {
-        "string": "Copy phone {number}"
+    "general.restart": {
+        "string": "重新启动"
     },
-    "fullscreen_actions.copy-presentation-link": {
-        "string": "Copy presentation link"
+    "general.root_error_boundary_description": {
+        "string": "目前我们的团队正在调查。如果重新加载后页面仍然显示不正确，请访问{status_page}查看最新信息。"
     },
-    "fullscreen_actions.copy-presentation-link-success": {
-        "string": "Presentation link copied to clipboard"
+    "general.root_error_boundary_refresh": {
+        "string": "重新加载"
     },
-    "fullscreen_actions.dev-handoff-focus-next": {
-        "string": "Focus next dev handoff node"
+    "general.root_error_boundary_status_page": {
+        "string": "状态页面"
     },
-    "fullscreen_actions.dev-handoff-focus-previous": {
-        "string": "Focus previous dev handoff node"
+    "general.root_error_boundary_title": {
+        "string": "Figma 出现问题"
     },
-    "fullscreen_actions.development": {
-        "string": "Development"
+    "general.root_error_boundary_title_figjam": {
+        "string": "FigJam 出现问题"
     },
-    "fullscreen_actions.disable-image-color-management": {
-        "string": "Disable image color management"
+    "general.save": {
+        "string": "保存"
     },
-    "fullscreen_actions.divider-delete": {
-        "string": "Delete divider"
+    "general.search": {
+        "string": "搜索"
     },
-    "fullscreen_actions.divider-duplicate": {
-        "string": "Duplicate divider"
+    "general.show": {
+        "string": "显示"
     },
-    "fullscreen_actions.divider-rename": {
-        "string": "Rename divider"
+    "general.terms_of_service": {
+        "string": "服务条款"
     },
-    "fullscreen_actions.expand-figjam-left-panel": {
-        "string": "Expand sidebar"
+    "general.time.just_now_past": {
+        "string": "刚刚"
     },
-    "fullscreen_actions.hide-section": {
-        "string": "Hide section"
+    "general.undo": {
+        "string": "撤销"
     },
-    "fullscreen_actions.hide-sidebar": {
-        "string": "Hide left sidebar"
+    "general.view_license": {
+        "string": "查看许可证"
     },
-    "fullscreen_actions.no_actions_available": {
-        "string": "No actions available"
+    "general.viewer": {
+        "string": "查看者"
     },
-    "fullscreen_actions.no_matches": {
-        "string": "No matches"
+    "general.viewer_restricted": {
+        "string": "受限查看者"
     },
-    "fullscreen_actions.open_console": {
-        "string": "Open console"
+    "google_device_try_file.save_board.generic_error": {
+        "string": "无法将此板保存到帐户。请稍后使用电子邮件链接重试。"
     },
-    "fullscreen_actions.outlines-enabled": {
-        "string": "Enabled"
+    "google_device_try_file_modal.claim_success.button": {
+        "string": "继续"
     },
-    "fullscreen_actions.page-navigate-fail": {
-        "string": "We were unable to load that page. Please try again."
+    "google_device_try_file_modal.claim_success.description": {
+        "string": "24小时限制已解除，您现在可以继续进行想法分享或头脑风暴会议。所有更改都将被保存。"
     },
-    "fullscreen_actions.pages-delete": {
-        "string": "{pageCount, plural, one {Delete page} other {Delete {pageCount} pages}}"
+    "google_device_try_file_modal.claim_success.header": {
+        "string": "此板已保存"
     },
-    "fullscreen_actions.pages-rename": {
-        "string": "{pageCount, plural, one {Rename page} other {Rename {pageCount} pages}}"
+    "google_device_try_file_modal.disclaimer": {
+        "string": "通过提供您的电子邮件地址，您同意我们的{tos}和{privacy_policy}"
     },
-    "fullscreen_actions.paste-and-match-style": {
-        "string": "Paste and match style"
+    "google_device_try_file_modal.enter_email": {
+        "string": "输入电子邮件地址"
     },
-    "fullscreen_actions.place_image_or_video": {
-        "string": "Image/video…"
+    "google_device_try_file_modal.enter_email.button": {
+        "string": "继续"
     },
-    "fullscreen_actions.plugins-menu-internal-dev-modal": {
-        "string": "Internal dev…"
+    "google_device_try_file_modal.enter_email.description": {
+        "string": "如果您已经有 FigJam 帐户，请使用该帐户注册的地址。"
     },
-    "fullscreen_actions.present-slides-description": {
-        "string": "Play your slides in order, one by one—perfect for sharing your deck."
+    "google_device_try_file_modal.enter_email.error_message": {
+        "string": "请输入有效的电子邮件地址"
     },
-    "fullscreen_actions.present-slides-presenter-view-description": {
-        "string": "Open two views: one for your deck, and one for your notes."
+    "google_device_try_file_modal.enter_email.failed_to_send": {
+        "string": "无法发送邮件。请稍后再试。"
     },
-    "fullscreen_actions.prototype": {
-        "string": "Prototype"
+    "google_device_try_file_modal.enter_email.placeholder_email": {
+        "string": "name@example.com"
     },
-    "fullscreen_actions.quick_actions.auto-rename-layers": {
-        "string": "Rename layers"
+    "google_device_try_file_modal.error_saving_board": {
+        "string": "保存板时出错"
     },
-    "fullscreen_actions.rename-section": {
-        "string": "Rename section"
+    "google_device_try_file_modal.got_mail": {
+        "string": "请检查您的邮件"
     },
-    "fullscreen_actions.search_or_ask_for_anything": {
-        "string": "Search or ask for anything…"
+    "google_device_try_file_modal.got_mail.close": {
+        "string": "知道了"
     },
-    "fullscreen_actions.set-tool-connector-arrow": {
-        "string": "Arrow"
+    "google_device_try_file_modal.got_mail.description": {
+        "string": "请使用发送到{email}的链接保存文件。"
     },
-    "fullscreen_actions.set-tool-shape-slides-blurb": {
-        "string": "Blurb"
+    "google_device_try_file_modal.got_mail.email_not_received": {
+        "string": "这可能需要一些时间。如果您没有收到，请{send_again_link}重试。"
     }
 }

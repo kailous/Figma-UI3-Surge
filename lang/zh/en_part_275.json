@@ -1,152 +1,152 @@
 {
-    "activity_log.event.widget_approvelist_add_org": {
-        "string": "Approved {widgetName} widget for use in {org}"
+    "rcs.account_profile_switcher.description": {
+        "string": "アカウントとプロフィールの切り替えが統合され、左上に配置されました。また、スライドバーの右下で、他のチームや組織に切り替えることができます。"
     },
-    "activity_log.event.widget_approvelist_remove_org": {
-        "string": "Revoked approval for {widgetName} widget in {org}"
+    "rcs.account_profile_switcher.title": {
+        "string": "Figmaでの切り替えが簡単に"
     },
-    "activity_log.event.widget_approvelist_add_workspace": {
-        "string": "Approved {widgetName} widget for use in {workspace} workspace"
+    "rcs.account_switching.done": {
+        "string": "完了"
     },
-    "activity_log.event.widget_approvelist_remove_workspace": {
-        "string": "Revoked approval for {widgetName} widget in {workspace} workspace"
+    "rcs.account_switching.explore_files_plugins_and_widgets_created_by_the_figma_community": {
+        "string": "Figmaコミュニティが作成したファイル、プラグイン、ウィジェットを参照して、デザインのアイデアを見つけてください。"
     },
-    "activity_log.event.widget_approvelist_request_org": {
-        "string": "Requested approval to use {widget} widget in {org}"
+    "rcs.account_switching.next": {
+        "string": "次へ"
     },
-    "activity_log.event.widget_approvelist_request_approve_org": {
-        "string": "Approved {requesterName}'s request to use {widgetName} widget in {org}"
+    "rcs.account_switching.notifications_for_your_workspace_live_here": {
+        "string": "ワークスペースに関する通知はここに表示されます。"
     },
-    "activity_log.event.widget_approvelist_request_approve_workspace": {
-        "string": "Approved {requesterName}'s request to use {widgetName} widget in {workspace} workspace"
+    "rcs.account_switching.step_counter": {
+        "string": "{step}/{totalSteps}"
     },
-    "activity_log.event.widget_approvelist_request_reject_workspace": {
-        "string": "Declined {requesterName}'s request to use {widgetName} widget in {workspace} workspace"
+    "rcs.account_switching.this_is_where_you_access_account_settings_add_or_remove_accounts_and_see_your_figma_profiles": {
+        "string": "ここではアカウント設定にアクセスし、アカウントを追加または削除し、Figmaプロフィールを確認できます。"
     },
-    "activity_log.event.widget_approvelist_request_reject_org": {
-        "string": "Declined {requesterName}'s request to use {widgetName} widget in {org}"
+    "rcs.autogen_password_onboarding.body": {
+        "string": "パブリックリンクのパスワードが自動生成され、より安全に共有できるようになりました。既存のパスワードはリセットされないかぎり変更されません。"
     },
-    "activity_log.event.widget_install": {
-        "string": "Installed widget {widgetName} for everyone"
+    "rcs.autogen_password_onboarding.body.optional": {
+        "string": "セキュリティをさらに強化するため、公開リンクの共有時に自動生成パスワードを使用できます。それには、パスワードフィールドの更新アイコンをクリックします。"
     },
-    "activity_log.event.widget_uninstall": {
-        "string": "Uninstalled widget {widgetName} for everyone"
+    "rcs.autogen_password_onboarding.header": {
+        "string": "パスワードの自動生成でセキュリティの確保が容易に"
     },
-    "activity_log.event.private_widget_publish": {
-        "string": "Published widget {widgetName}"
+    "rcs.back_to_file_browser.back_to_files": {
+        "string": "ファイルに戻る"
     },
-    "activity_log.event.private_widget_update": {
-        "string": "Updated widget {widgetName}"
+    "rcs.back_to_file_browser.file_browser": {
+        "string": "ファイルブラウザ"
     },
-    "activity_log.event.private_widget_delete": {
-        "string": "Deleted widget {widgetName}"
+    "rcs.back_to_file_browser.the_file_browser_allows_you_to": {
+        "string": "ファイルブラウザでは、アカウントでさまざまな操作を行うことができます。パーソナルファイルにアクセスし、チームを作成してチームに参加し、Figmaコミュニティにつながることができます。"
     },
-    "activity_log.disabled_public_links_for_the_blog": {
-        "string": "Disabled public links for the {orgName} organization"
+    "rcs.back_to_file_browser.you_can_head_there_by_clicking_on_option_in_the_main_menu": {
+        "string": "移動するには、メインメニューの[{optionName}]をクリックします。 "
     },
-    "activity_log.enabled_public_links_require_password_for_the_blog": {
-        "string": "Allowed public links with passwords for the {orgName} organization"
+    "rcs.bigma_org_welcome.click_the_all_workspaces_button_on_the_left_to_find_teams_to_join": {
+        "string": "左側の「すべてのワークスペース」ボタンをクリックして、参加するチームを検索してください。"
     },
-    "activity_log.enabled_public_links_for_the_blog": {
-        "string": "Enabled public links for the {orgName} organization"
+    "rcs.chrome_version.if_you_have_any_questions_please_email_us_at": {
+        "string": "ご質問がある場合は、{figmaSupportEmail}までメールでお問い合わせください。"
     },
-    "activity_log.disabled_public_links_for_the_blog_workspace": {
-        "string": "Disabled public links for the {workspaceName} workspace"
+    "rcs.chrome_version.please_update_chrome_os_to_avoid_losing_work": {
+        "string": "作業内容を失わないようにするため、ChromeOSをアップデートしてください。"
     },
-    "activity_log.enabled_public_links_require_password_for_the_blog_workspace": {
-        "string": "Allowed public links with passwords for the {workspaceName} workspace"
+    "rcs.chrome_version.please_update_your_browser_to_avoid_losing_work": {
+        "string": "作業内容を失わないようにするため、ご使用のブラウザをアップデートしてください。"
     },
-    "activity_log.enabled_public_links_for_the_blog_workspace": {
-        "string": "Enabled public links for the {workspaceName} workspace"
+    "rcs.chrome_version.the_version_of_chrome_os_you_are_using_has_a_networking_issue_which_may_prevent_you_from_saving_your_work_a_patch_has_been_released_with_version_77_0_3865_120_starting_november_4_2019_make_sure_to_allow_chrome_os_to_update_automatically": {
+        "string": "ご使用のバージョンのChromeOSにはネットワークの問題があり、これが原因で作業内容を保存できない可能性があります。2019年11月4日からバージョン77.0.3865.120でパッチがリリースされています。ChromeOSの{updateAutomatically}を許可してください。"
     },
-    "activity_log.event.saml_sso_auth_enable": {
-        "string": "Enabled SAML SSO authentication"
+    "rcs.chrome_version.the_version_of_chrome_you_are_using_has_a_networking_issue_which_may_prevent_you_from_saving_your_work_please_upgrade_your_browser_to_version_77_0_3865_120_or_greater_to_avoid_any_issues": {
+        "string": "ご使用のバージョンのChromeにはネットワークの問題があり、これが原因で作業内容を保存できない可能性があります。問題を回避するため、バージョン77.0.3865.120以降に{upgradeYourBrowser}してください。"
     },
-    "activity_log.event.saml_sso_auth_disable": {
-        "string": "Disabled SAML SSO authentication"
+    "rcs.chrome_version.update_automatically": {
+        "string": "自動更新"
     },
-    "activity_log.teams.joined_the_resource_name_resource": {
-        "string": "Joined the {resourceName} {resourceType}"
+    "rcs.chrome_version.upgrade_your_browser": {
+        "string": "ブラウザをアップグレード"
     },
-    "activity_log.teams.added_user_email_to_the_resource": {
-        "string": "Added {userEmail} to the {resourceName} {resourceType} as {level}"
+    "rcs.comments.comments": {
+        "string": "コメント"
     },
-    "activity_log.event.team_member_add_external": {
-        "string": "Joined the external team {teamName}"
+    "rcs.comments.get_feedback_requests_and_copy_updates_where_you_ll_use_them_not_in_your_inbox": {
+        "string": "フィードバック、リクエスト、コピーの更新を、受信トレイではなく、使用する位置で確認できます。"
     },
-    "activity_log.event.team_member_remove_external": {
-        "string": "Left the external team {teamName}"
+    "rcs.comments.leave_notes_right_in_your_design_files": {
+        "string": "デザインファイルに直接メモを入力できます。"
     },
-    "activity_log.teams.removed_user_email_from_org_draft": {
-        "string": "Removed {userEmail} from the organization's Draft"
+    "rcs.community_hub_file_duplicate.no_thanks": {
+        "string": "今はしない"
     },
-    "activity_log.teams.left_the_resource_name_resource": {
-        "string": "Left the {resourceName} {resourceType}"
+    "rcs.community_hub_file_duplicate.show_me_around": {
+        "string": "案内を見る"
     },
-    "activity_log.teams.removed_user_email_from_the_resource": {
-        "string": "Removed {userEmail} from the {resourceName} {resourceType}"
+    "rcs.community_hub_file_duplicate.welcome_to_figma": {
+        "string": "Figmaへようこそ"
     },
-    "activity_log.teams.changed_user_email": {
-        "string": "Changed {userEmail} from {oldPermission} to {newPermission} for the {resourceName} {resourceType}"
+    "rcs.community_hub_file_duplicate.you_just_duplicated_this_file_from_the_community_to_get_started_let_us_show_you_some_of_the_things_that_make_figma_special_and_different_from_other_design_tools": {
+        "string": "このファイルをコミュニティから複製しました。始めるために、Figmaを他のデザインツールとは異なる特別なものにしている機能をいくつか紹介しましょう。"
     },
-    "activity_log.teams.created_the_team_name_team_with": {
-        "string": "Created the {teamName} team with {orgAccess} access"
+    "rcs.community_libraries.drag_components_from_a_library_onto_the_canvas_to_build_your_designs": {
+        "string": "ライブラリからコンポーネントをドラッグして、デザイン内で使用(および再利用)します。"
     },
-    "activity_log.teams.deleted_the_team_name_team": {
-        "string": "Deleted the {teamName} team"
+    "rcs.constraints.all_of_your_layers_adjust_the_way_you_expect_no_magic_you_get_full_control": {
+        "string": "レイヤーを使ってデザインを調整し、完全にコントロールできます。"
     },
-    "activity_log.teams.exported_the_team_name_team_out": {
-        "string": "Exported the {teamName} team out of the organization"
+    "rcs.constraints.constraints": {
+        "string": "制約"
     },
-    "activity_log.teams.imported_the_team_name_team_int": {
-        "string": "Imported the {teamName} team into the organization"
+    "rcs.constraints.setting_precise_constraints_lets_you_build_fluid_layouts_to_support_multiple_device_sizes_and_breakpoints_within_the_same_group": {
+        "string": "正確な制約を設定することで、同じグループ内で複数のデバイスサイズとブレークポイントに対応した流動的なレイアウトを作成できます。"
     },
-    "activity_log.teams.requested_to_transfer_the_team": {
-        "string": "Requested to transfer the {teamName} team to {destinationOrg}"
+    "rcs.create_files.create_files_from_scratch_import_designs_from_sketch_or_jamboard_or_start_from_templates": {
+        "string": "ゼロから始めることも、SketchやJamboardからファイルをインポートすることも、テンプレートを探すこともできます。"
     },
-    "activity_log.teams.org_name_wants_to_transfer_team_name": {
-        "string": "{orgName} wants to transfer {teamName} into the organization"
+    "rcs.create_files.create_files_from_scratch_import_designs_from_sketch_or_start_from_templates": {
+        "string": "ファイルを新規に作成し、Sketchからデザインをインポートし、テンプレートから開始できます。"
     },
-    "activity_log.teams.team_name_wants_to_transfer_their_team": {
-        "string": "{teamName} wants to transfer their team into the organization"
+    "rcs.create_files.files_are_great_for_collaboration_while_your_drafts_are_more_personal_if_you_share_them_they_re_view_only": {
+        "string": "ファイルはコラボレーションに最適で、ドラフトはもっと個人的なものです。共有するには閲覧限定になります。"
     },
-    "activity_log.teams.approver_name_approved_the_transfer_of_team_name_team": {
-        "string": "{approverName} approved the transfer of {teamName} team into the organization"
+    "rcs.expiring_links_onboarding.body": {
+        "string": "パブリックリンクの有効期間を設定して、ユーザーがリンクにアクセスできる期間を選択できます。設定した期間が経過すると、ファイルは以前のプライベート設定に切り替わります。"
     },
-    "activity_log.teams.restored_the_team_name_team": {
-        "string": "Restored the {teamName} team"
+    "rcs.expiring_links_onboarding.header": {
+        "string": "パブリックリンクの有効期間を設定"
     },
-    "activity_log.teams.renamed_the_old_name_team": {
-        "string": "Renamed the {oldName} team to {teamName}"
+    "rcs.export.export": {
+        "string": "エクスポート"
     },
-    "activity_log.teams.changed_the__team_from_old_access": {
-        "string": "Changed the  team from {oldAccess} to {newAccess}"
+    "rcs.export.export_your_designs_for_use_in_production_or_to_share_with_your_team": {
+        "string": "本番環境で使用するかチームと共有するデザインをエクスポートします。"
     },
-    "activity_log.disabled_slides_for_the_org": {
-        "string": "Disabled Figma Slides access for {orgName}"
+    "rcs.export.figma_can_export_to_png_jpeg_svg_and_pdf": {
+        "string": "FigmaではPNG、JPEG、SVG、PDFにエクスポートできます。"
     },
-    "activity_log.enabled_slides_for_the_org": {
-        "string": "Enabled Figma Slides access for {orgName}"
+    "rcs.feed_onboarding.audience_selection.content": {
+        "string": "ワークスペース、チーム、またはプロジェクトを選択すると、メンバーから投稿が見えるようになります。"
     },
-    "activity_log.teams.changed_team_creation_controls_to_anyone": {
-        "string": "Changed team creation setting to Anyone"
+    "rcs.feed_onboarding.audience_selection.title": {
+        "string": "自分のオーディエンスを選択"
     },
-    "activity_log.teams.changed_team_creation_controls_to_admins_only": {
-        "string": "Changed team creation setting to Admins only"
+    "rcs.feed_onboarding.first_time_post.content": {
+        "string": "フィードは、アイデアの共有、最新情報の投稿、チームからのフィードバックの収集のための新しいスペースです。"
     },
-    "activity_log.users.session_timed_out": {
-        "string": "Signed out due to idle session timeout settings"
+    "rcs.feed_onboarding.first_time_post.cta": {
+        "string": "最初の投稿を作成"
     },
-    "activity_log.users.signed_in_saml": {
-        "string": "Signed in with SAML"
+    "rcs.feed_onboarding.first_time_post.title": {
+        "string": "フィードバックが必要ですか? フィードをお試しください。"
     },
-    "activity_log.users.signed_in_google": {
-        "string": "Signed in with Google"
+    "rcs.feed_onboarding.weekly_prompt.content": {
+        "string": "大まかなアイデアから磨き上げたデザインまで、今取り組んでいるものすべてをチームのメンバーに見せましょう。"
     },
-    "activity_log.users.signed_in_password": {
-        "string": "Signed in with username and password"
+    "rcs.feed_onboarding.weekly_prompt.cta": {
+        "string": "投稿を作成"
     },
-    "activity_log.users.signed_in_app_auth": {
-        "string": "Signed in with the Figma VS Code extension"
+    "rcs.feed_onboarding.weekly_prompt.title": {
+        "string": "投稿してみる"
     }
 }

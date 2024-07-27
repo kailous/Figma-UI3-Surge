@@ -1,152 +1,152 @@
 {
-    "design_systems.create_style.placeholder_name_effect": {
-        "string": "New effect style"
+    "mobile_download_prompts.play_mobile_prototypes": {
+        "string": "使用Figma移动应用程序，在智能手机上体验流畅的移动原型播放。"
     },
-    "design_systems.create_style.placeholder_name_grid": {
-        "string": "New grid style"
+    "mobile_download_prompts.run_prototypes_from_your_phone": {
+        "string": "从手机上运行原型"
     },
-    "design_systems.create_style.placeholder_name_create_new_style_generic": {
-        "string": "New style"
+    "mobile_download_prompts.run_your_mobile_prototypes": {
+        "string": "直接在智能手机上运行移动原型，以查看其实际表现。扫描二维码获取Figma移动应用程序。"
     },
-    "slides.properties_panel.rewrite_text.action_rewriting": {
-        "string": "Adjusting tone..."
+    "mobile_download_prompts.scan_the_qr_code": {
+        "string": "扫描二维码下载Figma移动应用程序，查看团队最新的评论。"
     },
-    "slides.properties_panel.rewrite_text.action_stop": {
-        "string": "Stop"
+    "embed.footer.figma_logo_aria_label": {
+        "string": "在Figma中打开"
     },
-    "slides.properties_panel.rewrite_text.action_done": {
-        "string": "Done!"
+    "embed.footer.menu.copy_link": {
+        "string": "复制链接"
     },
-    "slides.properties_panel.rewrite_text.action_rewrite_again": {
-        "string": "Try again"
+    "embed.footer.menu.open_in_figma": {
+        "string": "在Figma中打开"
     },
-    "slides.properties_panel.rewrite_text.error.default": {
-        "string": "Something went wrong"
+    "embed.footer.toggle_embed_settings_aria_label": {
+        "string": "切换嵌入设置"
     },
-    "slides.properties_panel.rewrite_text.error.connection": {
-        "string": "Couldn’t connect"
+    "mobile_file_viewer.offline_err": {
+        "string": "离线"
     },
-    "slides.properties_panel.rewrite_text.error.rate_limit": {
-        "string": "Wait a bit before trying again"
+    "mobile_file_viewer_iframe.page_dropdown": {
+        "string": "页面：{pageName}"
     },
-    "slides.properties_panel.rewrite_text.error.token_limit": {
-        "string": "Try a smaller selection"
+    "mobile_file_viewer_iframe.page_dropdown_aria_label": {
+        "string": "显示文件页面"
     },
-    "slides.properties_panel.rewrite_text.error.empty_text": {
-        "string": "Try again with text selected"
+    "mobile_file_viewer_iframe.page_none_selected_dropdown": {
+        "string": "页面"
     },
-    "slides.properties_panel.rewrite_text.error.inappropriate_input": {
-        "string": "Blocked—try different input"
+    "mobile_file_viewer_iframe.zoom_percent": {
+        "string": "{zoomPercent}%"
     },
-    "slides.properties_panel.rewrite_text.error.openai_down": {
-        "string": "AI features unavailable"
+    "mobile_file_viewer_menu.account_settings_action": {
+        "string": "账户设置"
     },
-    "slides.properties_panel.rewrite_text.error.page_not_updated": {
-        "string": "Reload needed"
+    "mobile_file_viewer_menu.back_to_files_action": {
+        "string": "返回文件"
     },
-    "slides.properties_panel.rewrite_text.error.opt_out": {
-        "string": "AI features are turned off for your organization"
+    "mobile_file_viewer_menu.log_in_or_create_account_action": {
+        "string": "登录或创建账户"
     },
-    "design_systems.styles.view_color_style": {
-        "string": "View color style"
+    "mobile_file_viewer_menu.log_out_action": {
+        "string": "登出"
     },
-    "design_systems.styles.view_text_style": {
-        "string": "View text style"
+    "mobile_file_viewer_menu.pages_section": {
+        "string": "页面"
     },
-    "design_systems.styles.view_effect_style": {
-        "string": "View effect style"
+    "mobile_toolbars.connector": {
+        "string": "连接器"
     },
-    "design_systems.styles.view_grid_style": {
-        "string": "View grid style"
+    "mobile_toolbars.shape": {
+        "string": "形状"
     },
-    "design_systems.styles.view_style": {
-        "string": "View style"
+    "mobile_toolbars.universal_insert": {
+        "string": "更多..."
     },
-    "design_systems.styles.edit_color_style": {
-        "string": "Edit color style"
+    "mouse_controls_modal.new_user.description": {
+        "string": "设置更改将应用于Figma和FigJam。"
     },
-    "design_systems.styles.edit_text_style": {
-        "string": "Edit text style"
+    "mouse_controls_modal.new_user.title": {
+        "string": "缩放和平移设置"
     },
-    "design_systems.styles.edit_effect_style": {
-        "string": "Edit effect style"
+    "mouse_navigation_preferences.existing_user.body.preferences": {
+        "string": "首选项"
     },
-    "design_systems.styles.edit_grid_style": {
-        "string": "Edit grid style"
+    "mouse_navigation_preferences_modal.existing_user.body": {
+        "string": "试试看。点击Figma图标，然后转到{filePref}以还原更改。"
     },
-    "fullscreen.properties_panel.presets": {
-        "string": "Presets"
+    "mouse_navigation_preferences_modal.existing_user.dismiss_button": {
+        "string": "稍后"
     },
-    "design_systems.component_properties.create_new_property": {
-        "string": "Create new property"
+    "mouse_navigation_preferences_modal.existing_user.header": {
+        "string": "更轻松地缩放和平移"
     },
-    "design_systems.component_properties.across_variants": {
-        "string": "Variant"
+    "mouse_navigation_preferences_modal.existing_user.right-click_to_pan": {
+        "string": "右键点击+拖动平移"
     },
-    "design_systems.component_properties.expose_nested_instances": {
-        "string": "Expose properties from"
+    "mouse_navigation_preferences_modal.existing_user.scroll_to_zoom": {
+        "string": "滚轮缩放"
     },
-    "design_systems.component_properties.properties": {
-        "string": "Properties"
+    "mouse_navigation_preferences_modal.existing_user.try_it": {
+        "string": "试试吧"
     },
-    "design_systems.component_properties.add_property": {
-        "string": "Add property"
+    "mouse_navigation_preferences_tooltip.existing_user.body": {
+        "string": "转到Figma图标，点击{filePref}以随时更改设置。"
     },
-    "design_systems.component_properties.bubbled_instances": {
-        "string": "Nested instances"
+    "mouse_navigation_preferences_tooltip.existing_user.header": {
+        "string": "更新了缩放和平移设置"
     },
-    "design_systems.component_panel.create_component_property": {
-        "string": "Create component property"
+    "multiplayer_connection_error.dismiss_button": {
+        "string": "关闭"
     },
-    "design_systems.create_style.an_error_occurred_while_creating_the_style": {
-        "string": "An error occurred while creating the style."
+    "multiplayer_connection_error.too_many_connections.content": {
+        "string": "当前在此文件中工作的人数过多，可能会导致处理速度变慢。为了保持流畅处理，编辑功能和其他用户的光标显示已暂时关闭。"
     },
-    "design_systems.create_style.hide_options": {
-        "string": "Hide options"
+    "multiplayer_connection_error.too_many_connections.title": {
+        "string": "文件暂时设为仅限查看"
     },
-    "design_systems.create_style.show_more_options": {
-        "string": "Show more options"
+    "multiplayer_connection_error.too_many_connections.view_only_button": {
+        "string": "以仅查看模式打开"
     },
-    "design_systems.create_style.color": {
-        "string": "Create new color style"
+    "multiplayer_limit.cursor_limit_modal_content": {
+        "string": "此文件中已达到光标的最大数量。其他用户的光标已被隐藏。当被观察用户或其他用户停止使用文件时，光标将重新显示。"
     },
-    "design_systems.create_style.text": {
-        "string": "Create new text style"
+    "multiplayer_limit.cursor_limit_modal_title": {
+        "string": "光标限制"
     },
-    "design_systems.create_style.effect": {
-        "string": "Create new effect style"
+    "multiplayer_limit.done_button": {
+        "string": "完成"
     },
-    "design_systems.create_style.export": {
-        "string": "Create new export style"
+    "multiplayer_limit.editor_limit_modal_content.seat_rename": {
+        "string": "此文件已达到编辑用户的最大数量。当一些用户停止使用文件时，您将可以再次进行编辑。"
     },
-    "design_systems.create_style.grid": {
-        "string": "Create new grid style"
+    "multiplayer_limit.editor_limit_modal_title.seat_rename": {
+        "string": "编辑人数限制"
     },
-    "design_systems.create_style.create_new_style_generic": {
-        "string": "Create new style"
+    "multiplayer_limit.help_center": {
+        "string": "帮助中心"
     },
-    "slides.properties_panel.fill": {
-        "string": "Fill"
+    "multiplayer_limit.more_info": {
+        "string": "更多信息，请参阅{moreInfoLink}。"
     },
-    "slides.properties_panel.color_picker.add_template_color_tooltip": {
-        "string": "Add theme color"
+    "multiplayer_upgrade_modal.content": {
+        "string": "保存您的工作内容。要查看其他用户的编辑内容，需要重新加载。"
     },
-    "slides.properties_panel.color_picker.document_colors": {
-        "string": "Others in this deck"
+    "multiplayer_upgrade_modal.content_offline": {
+        "string": "无法连接到服务器。请确保已连接到互联网并重新加载页面。"
     },
-    "slides.properties_panel.color_picker.add_color_aria_label": {
-        "string": "Add color"
+    "multiplayer_upgrade_modal.content_reloading": {
+        "string": "重新加载页面..."
     },
-    "slides.properties_panel.color_picker.multiple": {
-        "string": "Multiple"
+    "multiplayer_upgrade_modal.content_saving": {
+        "string": "保存更改中..."
     },
-    "slides.properties_panel.fill.fill_type_gradient": {
-        "string": "Gradient"
+    "multiplayer_upgrade_modal.employee_text_explanation": {
+        "string": "此文件与最新的提交不兼容。"
     },
-    "slides.properties_panel.overlay": {
-        "string": "Overlay"
+    "multiplayer_upgrade_modal.employee_text_new_file": {
+        "string": "尝试创建一个新文件"
     },
-    "slides.properties_panel.overlay.opacity_slider_aria_label": {
-        "string": "Overlay opacity slider"
+    "multiplayer_upgrade_modal.reload_button": {
+        "string": "保存"
     }
 }

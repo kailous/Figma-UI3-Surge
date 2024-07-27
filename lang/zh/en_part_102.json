@@ -1,152 +1,152 @@
 {
-    "fullscreen.filename_view.viewers-cannot-copy-or-share": {
-        "string": "Viewers can't copy or share this file."
+    "dev_handoff.code_connect.entrypoint_text": {
+        "string": "连接到代码库"
     },
-    "fullscreen.filename_view.view-only": {
-        "string": "View only"
+    "dev_handoff.code_connect.entrypoint_title": {
+        "string": "利用Code Connect"
     },
-    "fullscreen.toolbar.multiplayer.enter_a_name": {
-        "string": "Enter a name"
+    "dev_handoff.code_connect.modal_github_button": {
+        "string": "在GitHub上查看文档"
     },
-    "fullscreen.toolbar.pending-edit-request-tooltip": {
-        "string": "Any of this file’s editors can give you access"
+    "dev_handoff.code_connect.modal_install": {
+        "string": "将Code Connect安装到项目中"
     },
-    "fullscreen.toolbar.edit-file-button": {
-        "string": "Edit file"
+    "dev_handoff.code_connect.modal_install_package": {
+        "string": "将Code Connect包安装到项目中"
     },
-    "fullscreen.toolbar.multiplayer.share": {
-        "string": "Share"
+    "dev_handoff.code_connect.modal_publish": {
+        "string": "将连接发布到Figma"
     },
-    "fullscreen.toolbar.multiplayer.sharing_fig_jam_files_disabled_by_your_organization": {
-        "string": "Sharing FigJam files disabled by your organization"
+    "dev_handoff.code_connect.modal_run_command": {
+        "string": "运行以下命令以开始连接代码"
     },
-    "fullscreen.toolbar.multiplayer.sharing_slides_files_disabled_by_your_organization": {
-        "string": "Sharing decks from Figma Slides is disabled by your organization"
+    "dev_handoff.code_connect.modal_text": {
+        "string": "将代码中的组件连接到Figma设计系统，以确保代码片段始终具有足够的稳定性和可靠性。"
     },
-    "fullscreen.toolbar.multiplayer.open_session_in_progress": {
-        "string": "Open session in progress"
+    "dev_handoff.code_connect.swift.add_snippet": {
+        "string": "将以下代码片段添加到Package.swift文件的依赖项中"
     },
-    "figjam_try.share_link_modal.title": {
-        "string": "Share this link to jam with anyone"
+    "dev_handoff.code_connect.title": {
+        "string": "Code Connect"
     },
-    "figjam_try.share_link_modal.cta_description": {
-        "string": "Want control over who can view and edit this board?"
+    "dev_handoff.code_language.add": {
+        "string": "添加插件..."
     },
-    "figjam_try.share_link_modal.cta": {
-        "string": "Create a free account"
+    "dev_handoff.code_language.browse": {
+        "string": "浏览代码生成插件..."
     },
-    "figjam_try.link_copied": {
-        "string": "Link copied"
+    "dev_handoff.code_language.development": {
+        "string": "开发"
     },
-    "figjam_try.copy_link": {
-        "string": "Copy link"
+    "dev_handoff.comments_panel.slack_teams_hint": {
+        "string": "安装{figmaForSlackLink}或{figmaForTeamsLink}以获取Figma文件、项目和其他更新。"
     },
-    "fullscreen.toolbar.multiplayer.sharing_disabled_for_personal_drafts": {
-        "string": "To share, please move this file to a new home"
+    "dev_handoff.comments_panel.slack_teams_hint.slack_link": {
+        "string": "Slack集成"
     },
-    "fullscreen.toolbar.multiplayer.sharing_disabled_visit_drafts_to_move_link": {
-        "string": "Visit Drafts to Move"
+    "dev_handoff.comments_panel.slack_teams_hint.teams_link": {
+        "string": "Microsoft Teams集成"
     },
-    "fullscreen.toolbar.multiplayer.sharing_disabled_while_file_is_being_moved": {
-        "string": "This file is being moved. Share settings will be available soon."
+    "dev_handoff.comments_panel.slack_teams_hint.title": {
+        "string": "Figma与Slack/Microsoft Teams集成"
     },
-    "role_request.edit_request_tooltip.user_wants_to_request_type": {
-        "string": "{userHandle} wants to {requestType}"
+    "dev_handoff.compare_changes.banner.added_layer": {
+        "string": "此图层已添加"
     },
-    "role_request.edit_request_tooltip.user1_and_user2_request_access": {
-        "string": "{userHandle1} and {userHandle2} request access"
+    "dev_handoff.compare_changes.banner.no_changes": {
+        "string": "没有可以在选定代码语言中显示的更改。"
     },
-    "role_request.edit_request_tooltip.user_and_others_request_access": {
-        "string": "{userHandle} and {othersText} request access"
+    "dev_handoff.compare_changes.banner.no_changes_link": {
+        "string": "切换到属性视图"
     },
-    "role_request.edit_request_tooltip.othersText": {
-        "string": "{numOthers, plural, one {1 other person} other {{numOthers} others}}"
+    "dev_handoff.compare_changes.banner.removed_layer": {
+        "string": "此图层已删除"
     },
-    "role_request.edit_request_tooltip.view_button_text": {
-        "string": "View"
+    "dev_handoff.compare_changes.entrypoint.compare_main_component": {
+        "string": "与主组件比较"
     },
-    "request_row.deny": {
-        "string": "Deny"
+    "dev_handoff.compare_changes.entrypoint.compare_versions": {
+        "string": "与以前的版本比较"
     },
-    "request_row.approve": {
-        "string": "Approve"
+    "dev_handoff.compare_changes.entrypoint.multiselect_comparison_hint": {
+        "string": "按住Shift键并单击或拖动以选择要比较的两个对象。"
     },
-    "user_notifications.community.someone": {
-        "string": "Someone"
+    "dev_handoff.compare_changes.layers": {
+        "string": "图层"
     },
-    "comments.name_and_you": {
-        "string": "{name} (You)"
+    "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_body": {
+        "string": "通过创建自定义代码生成插件，扩展Figma的原生代码片段，以生成Figma不支持的语言或框架的代码"
     },
-    "comments.invited": {
-        "string": "Invited"
+    "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_link": {
+        "string": "查看文档"
     },
-    "comments.with_access": {
-        "string": "With access"
+    "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_title": {
+        "string": "创建自定义代码生成插件"
     },
-    "comments.at_mention": {
-        "string": "@"
+    "dev_handoff.configuration_wizard.code_language_step.description": {
+        "string": "这些设置可以稍后更改，不会影响设计。"
     },
-    "comments.no_users_matched_your_search": {
-        "string": "No people found for {searchQuery}"
+    "dev_handoff.configuration_wizard.code_language_step.next_text": {
+        "string": "下一步：主题"
     },
-    "variables.edit_modal.tabs.details": {
-        "string": "Details"
-    },
-    "variables.edit_modal.tabs.scoping": {
-        "string": "Scoping"
-    },
-    "variables.edit_modal.input_label.name": {
-        "string": "Name"
-    },
-    "variables.edit_modal.input_label.description": {
-        "string": "Description"
-    },
-    "variables.edit_modal.mode_section_header": {
-        "string": "{count, plural, one {Value} other {Values}}"
-    },
-    "variables.scopes.color_scoping_header": {
-        "string": "Color scoping"
-    },
-    "variables.scopes.number_scoping_header": {
-        "string": "Number scoping"
-    },
-    "variables.scopes.string_scoping_header": {
-        "string": "String scoping"
-    },
-    "variables.edit_modal.input_placeholder.name": {
-        "string": "Used in design properties"
-    },
-    "variables.edit_modal.input_label.description_placeholder": {
-        "string": "How to use this variable"
-    },
-    "variables.edit_modal.hide_from_publishing": {
-        "string": "Hide from publishing"
-    },
-    "variables.scopes.all_properties_color_description": {
-        "string": "Selecting \"Show in all\" will show this variable in all color properties, including ones that launch in the future"
-    },
-    "variables.scopes.all_properties_number_description": {
-        "string": "Selecting \"Show in all\" will show this variable in all number properties, including ones that launch in the future"
-    },
-    "variables.scopes.all_properties_string_description": {
-        "string": "Selecting \"Show in all\" will show this variable in all string properties, including ones that launch in the future"
-    },
-    "variables.edit_modal.input_label.token_name": {
-        "string": "Code syntax"
-    },
-    "variables.edit_modal.add_code_syntax": {
-        "string": "Add code syntax"
-    },
-    "variables.edit_modal.remove_code_syntax": {
-        "string": "Remove code syntax"
-    },
-    "variables.edit_modal.platforms.web": {
-        "string": "Web"
-    },
-    "variables.edit_modal.platforms.android": {
+    "dev_handoff.configuration_wizard.code_language_step.option_android": {
         "string": "Android"
     },
-    "variables.edit_modal.platforms.ios": {
+    "dev_handoff.configuration_wizard.code_language_step.option_ios": {
         "string": "iOS"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.option_other": {
+        "string": "其他"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.other_description": {
+        "string": "使用插件以选择的语言获取代码片段。"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.other_title": {
+        "string": "扩展代码片段的插件"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.picker_title": {
+        "string": "选择平台"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.title": {
+        "string": "首先选择平台和单位"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.what_framework": {
+        "string": "框架"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.what_platform": {
+        "string": "平台"
+    },
+    "dev_handoff.configuration_wizard.code_language_step.what_units": {
+        "string": "单位"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.description": {
+        "string": "使用插件添加语言、跟踪任务等。现在钉选一些稍后查看。"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.next_text": {
+        "string": "下一步：集成"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.picker_title": {
+        "string": "开发模式插件"
+    },
+    "dev_handoff.configuration_wizard.inspect_plugins_step.title": {
+        "string": "在Figma中使用你最喜欢的工具"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.description": {
+        "string": "使用集成功能，即使不使用Figma也可以继续进行项目工作。"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging": {
+        "string": "Slack和Microsoft Teams"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_description": {
+        "string": "始终了解Figma文件和项目的最新更改。"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install": {
+        "string": "安装"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install.figma_for_slack": {
+        "string": "Slack集成"
+    },
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_messaging_install.figma_for_teams": {
+        "string": "Microsoft Teams集成"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "design_systems.libraries_modal.choose_library": {
-        "string": "Choose library"
+    "design_systems.component_properties.boolean_false": {
+        "string": "否"
     },
-    "design_systems.libraries_modal.back_to_library": {
-        "string": "Back to library"
+    "design_systems.component_properties.boolean_property_default_name": {
+        "string": "显示{selectedNodeName}"
     },
-    "design_systems.libraries_modal.swap_asset": {
-        "string": "Swap asset"
+    "design_systems.component_properties.boolean_property_default_name_fallback": {
+        "string": "显示{numSelected, plural, other {层}}"
     },
-    "design_systems.libraries_modal.this_action_will_remove_all_of_the_components_in_this_file_from_the_library": {
-        "string": "This action will remove all of the components in this file from the library."
+    "design_systems.component_properties.boolean_true": {
+        "string": "是"
     },
-    "design_systems.internal_community_library_unpublish": {
-        "string": "(Internal) Unpublish community library"
+    "design_systems.component_properties.bubbled_instances": {
+        "string": "嵌套实例"
     },
-    "design_systems.libraries_modal.remove_library": {
-        "string": "Remove"
+    "design_systems.component_properties.cant_show_values": {
+        "string": "无法显示其他库的值"
     },
-    "design_systems.libraries_modal.remove_library_modal_title": {
-        "string": "Remove from library?"
+    "design_systems.component_properties.choose_default_instance_value": {
+        "string": "选择实例"
     },
-    "design_systems.libraries_modal.unpublishing": {
-        "string": "Unpublishing"
+    "design_systems.component_properties.choose_default_instance_value_cycle": {
+        "string": "组件不能包含其自身的实例"
     },
-    "design_systems.libraries_modal.publishing": {
-        "string": "Publishing"
+    "design_systems.component_properties.choose_instance": {
+        "string": "选择实例"
     },
-    "design_systems.internal_community_unpublish_warning": {
-        "string": "Unpublishing the Community library will prevent its assets from being seen in all asset consumption surfaces! If this is a UI kit, it will impact all Figma users. Be sure you want to do this."
+    "design_systems.component_properties.choose_instances": {
+        "string": "嵌套实例"
     },
-    "design_systems.shared_fonts.apply_to_all_remaining_uploads": {
-        "string": "{numRemainingUploads, plural, one {Apply to 1 remaining upload} other {Apply to {numRemainingUploads} remaining uploads}}"
+    "design_systems.component_properties.create_component_property": {
+        "string": "创建组件属性"
     },
-    "design_systems.shared_fonts.don_t_replace": {
-        "string": "Don't replace"
+    "design_systems.component_properties.create_component_property_of_type": {
+        "string": "创建{propType}属性"
     },
-    "design_systems.shared_fonts.replace": {
-        "string": "Replace"
+    "design_systems.component_properties.create_new_property": {
+        "string": "创建新属性"
     },
-    "design_systems.shared_fonts.family_info_with_version": {
-        "string": "{fontFamily}, {fontStyle} v{fontVersion}"
+    "design_systems.component_properties.create_property": {
+        "string": "创建属性"
     },
-    "design_systems.shared_fonts.family_info_without_version": {
-        "string": "{fontFamily}, {fontStyle}"
+    "design_systems.component_properties.create_property_menu_option": {
+        "string": "创建属性..."
     },
-    "design_systems.shared_fonts.updated_at_date": {
-        "string": "{updatedAt, date, short}"
+    "design_systems.component_properties.default_value": {
+        "string": "值"
     },
-    "design_systems.shared_fonts.just_now": {
-        "string": "Just now"
+    "design_systems.component_properties.delete_property": {
+        "string": "删除{numSelected, plural, other {属性}}"
     },
-    "design_systems.shared_fonts.team_fonts_override_warning_1": {
-        "string": "{fontFamily} {fontStyle} has already been added to {listOfTeams}. In new text objects, the font shared with the organization will be used instead of fonts uploaded to teams."
+    "design_systems.component_properties.detach_property": {
+        "string": "分离属性"
     },
-    "design_systems.shared_fonts.team_fonts_override_warning_2": {
-        "string": "Organization fonts take precedence over fonts uploaded to individual teams; any text objects created using this font will use the organization-shared font."
+    "design_systems.component_properties.edit_component_property": {
+        "string": "编辑{propType}属性"
     },
-    "design_systems.shared_fonts.team_fonts_override_warning_3": {
-        "string": "To use the team version of the font, you will need to remove the font from the organization."
+    "design_systems.component_properties.edit_property": {
+        "string": "编辑属性"
     },
-    "design_systems.shared_fonts.okay": {
-        "string": "Okay"
+    "design_systems.component_properties.error_conflicting_name": {
+        "string": "属性名称冲突"
     },
-    "design_systems.shared_fonts.are_you_sure_you_want_to_delete": {
-        "string": "{numFonts, plural, one {Are you sure you want to delete 1 font?} other {Are you sure you want to delete {numFonts} fonts?}}"
+    "design_systems.component_properties.error_unused_property": {
+        "string": "未在组件中使用"
     },
-    "design_systems.shared_fonts.confirm": {
-        "string": "Confirm"
+    "design_systems.component_properties.expose_nested_instances": {
+        "string": "公开属性来源"
     },
-    "design_systems.shared_fonts.cancel": {
-        "string": "Cancel"
+    "design_systems.component_properties.go_to_property": {
+        "string": "转到属性"
     },
-    "design_systems.shared_fonts.replacing_fonts_modal_title": {
-        "string": "Replacing fonts"
+    "design_systems.component_properties.has_unpublished_preferred_values": {
+        "string": "有未发布的优先值"
     },
-    "design_systems.shared_fonts.you_already_have_a_font_with_this_name": {
-        "string": "You already have a font with this name."
+    "design_systems.component_properties.instance_property_preview": {
+        "string": "实例属性预览"
     },
-    "design_systems.shared_fonts.team_fonts_will_be_overridden": {
-        "string": "Team fonts will be overridden"
+    "design_systems.component_properties.instance_swap": {
+        "string": "实例交换"
     },
-    "design_systems.shared_fonts.i_own_the_fonts_i_am_uploading_or_have_the_right_to_distribute_copies_to_others_and_to_authorize_the_use_of_copies_with_figma": {
-        "string": "I own the fonts I am uploading, or have the right to distribute copies to others and to authorize the use of copies with Figma."
+    "design_systems.component_properties.instance_swap_property_default_name": {
+        "string": "实例"
     },
-    "design_systems.shared_fonts.upload": {
-        "string": "Upload"
+    "design_systems.component_properties.invalid_variant_binding": {
+        "string": "变量值未映射到变体"
     },
-    "design_systems.shared_fonts.uploading_n_fonts": {
-        "string": "{numFonts, plural, one {Upload Font} other {Upload {numFonts} Fonts}}"
+    "design_systems.component_properties.invalid_variant_binding_state": {
+        "string": "值被另一个设置覆盖"
     },
-    "design_systems.shared_fonts.confirm_delete": {
-        "string": "Confirm delete"
+    "design_systems.component_properties.link_unlinked_property": {
+        "string": "添加到组件的属性"
     },
-    "design_systems.shared_fonts.replace_warning_new_variable_font_all_collsions_variable": {
-        "string": "{numCollisions, plural, one {Do you want to replace the existing variable font with the new font?} other {Do you want to replace the existing variable fonts with the new font?}}"
+    "design_systems.component_properties.link_unlinked_property_help_text": {
+        "string": "组件中找不到属性。添加属性以提供实例控制。"
     },
-    "design_systems.shared_fonts.replace_warning_new_variable_font_all_collisions_non_variable": {
-        "string": "{numCollisions, plural, one {Do you want to replace the existing non-variable font with the new variable font? Variable fonts will give editors more options for text styles.} other {Do you want to replace the existing non-variable fonts with the new variable font? Variable fonts will give editors more options for text styles.}}"
+    "design_systems.component_properties.missing_property": {
+        "string": "缺少属性"
     },
-    "design_systems.shared_fonts.replace_warning_new_variable_font": {
-        "string": "{numCollisions, plural, one {Do you want to replace the existing font with the new font? Variable fonts will give editors more options for text styles.} other {Do you want to replace the existing fonts with the new font? Variable fonts will give editors more options for text styles.}}"
+    "design_systems.component_properties.mixed": {
+        "string": "混合"
     },
-    "design_systems.shared_fonts.replace_warning_not_all_collsions_variable": {
-        "string": "{numCollisions, plural, one {Do you want to replace the existing font with the new non-variable font?} other {Do you want to replace the existing fonts with the new non-variable font?}}"
+    "design_systems.component_properties.name": {
+        "string": "名称"
     },
-    "design_systems.shared_fonts.replace_warning": {
-        "string": "{numCollisions, plural, one {Do you want to replace the existing font with the new font?} other {Do you want to replace the existing fonts with the new font?}}"
+    "design_systems.component_properties.new_value": {
+        "string": "新值"
     },
-    "design_systems.shared_fonts.existing_fonts": {
-        "string": "Existing fonts"
+    "design_systems.component_properties.num_hidden": {
+        "string": "{num}个隐藏"
     },
-    "design_systems.shared_fonts.new_font": {
-        "string": "New font"
+    "design_systems.component_properties.preferred_values": {
+        "string": "优先值"
     },
-    "design_systems.shared_fonts.some_of_the_existing_styles_will_become_unavailable": {
-        "string": "Some of the existing styles will become unavailable:"
+    "design_systems.component_properties.properties": {
+        "string": "属性"
     },
-    "design_systems.shared_fonts.replace_variable_font_error": {
-        "string": "You're about to replace a variable font with a non-variable font. People who used custom variation values in the variable font will see missing font warnings."
+    "design_systems.component_properties.property_icon_tooltip": {
+        "string": "{propertyType}属性"
     },
-    "design_systems.shared_fonts.view_shared_fonts_from_organization": {
-        "string": "{action} from {orgName} organization"
+    "design_systems.component_properties.publish_preferred_values": {
+        "string": "发布所有优先值..."
     },
-    "design_systems.shared_fonts.view_shared_fonts_from_organization_action": {
-        "string": "{numOrgFonts, plural, one {view 1 shared font} other {view {numOrgFonts} shared fonts}}"
+    "design_systems.component_properties.remove_value": {
+        "string": "删除值"
     },
-    "design_systems.shared_fonts.upload_fonts": {
-        "string": "Upload Fonts"
+    "design_systems.component_properties.rename_prompt": {
+        "string": "重命名..."
     },
-    "design_systems.shared_fonts.num_fonts_selected": {
-        "string": "{numFontsSelected, plural, one {1 font selected} other {{numFontsSelected} fonts selected}}"
+    "design_systems.component_properties.see_all_layers": {
+        "string": "查看所有层"
     },
-    "design_systems.shared_fonts.delete": {
-        "string": "Delete"
+    "design_systems.component_properties.select_preferred_values": {
+        "string": "选择优先值"
     },
-    "design_systems.shared_fonts.upload_footer_message": {
-        "string": "{linkText} available to this team from {orgName} Organization."
+    "design_systems.component_properties.select_variants_with_property_value": {
+        "string": "选择{numVariants, plural, other {个变体}}"
     },
-    "design_systems.shared_fonts.upload_footer_message_link": {
-        "string": "{numFonts, plural, one {View 1 shared font} other {View {numFonts} shared fonts}}"
+    "design_systems.component_properties.show_more_nested_instances_rows": {
+        "string": "显示更多{count}个实例"
     },
-    "design_systems.shared_fonts.upload_progress": {
-        "string": "Importing {current}/{total} font files…"
+    "design_systems.component_properties.show_more_properties": {
+        "string": "显示更多属性"
     },
-    "design_systems.shared_fonts.import_complete_with_error_count": {
-        "string": "{numErrors, plural, one {Import complete with 1 error} other {Import complete with {numErrors} errors}}"
+    "design_systems.component_properties.show_more_property_rows": {
+        "string": "显示更多{count}个属性"
     },
-    "design_systems.shared_fonts.import_complete_with_errors_review": {
-        "string": "{numErrors, plural, one {Review error} other {Review errors}}"
+    "design_systems.component_properties.text": {
+        "string": "文本"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "community.sinatra.comments.unable_to_create_comment": {
-        "string": "Unable to create comment: {message}"
+    "activity_log.event.org_domain_capture_enable": {
+        "string": "启用了组织{orgName}的域捕获"
     },
-    "community.sinatra.comments.widget_does_not_allow_comments": {
-        "string": "Widget does not allow comments"
+    "activity_log.event.org_domain_remove": {
+        "string": "从组织{orgName}中删除了域{domain}"
     },
-    "community.sinatra.comments.you_are_not_allowed_to_leave_comments": {
-        "string": "You are not allowed to leave comments."
+    "activity_log.event.org_domain_verify": {
+        "string": "验证了组织{orgName}的域{domain}"
     },
-    "community.sinatra.comments.you_are_not_allowed_to_leave_comments_on_this_resource": {
-        "string": "You are not allowed to leave comments on this resource."
+    "activity_log.event.org_guest_invite_setting_change": {
+        "string": "将来宾邀请设置更改为{guestSetting}"
     },
-    "community.sinatra.comments.you_cannot_admin_this_resource": {
-        "string": "You cannot admin this resource"
+    "activity_log.event.org_invite_create": {
+        "string": "邀请{inviteeEmail}加入组织{orgName}"
     },
-    "community.sinatra.comments.you_must_be_the_author_of_the_comment": {
-        "string": "You must be the author of the comment"
+    "activity_log.event.org_join_request_approve": {
+        "string": "批准了{requesterEmail}加入组织{orgName}以访问{resourceName}的请求"
     },
-    "community.sinatra.comments.youve_already_reported_this_comment": {
-        "string": "You've already reported this comment."
+    "activity_log.event.org_join_request_create": {
+        "string": "请求加入组织{orgName}以访问{resourceName}"
     },
-    "community.sinatra.community_shelves.you_do_not_have_permission_to_preview_community_shelves": {
-        "string": "You do not have permission to preview community shelves"
+    "activity_log.event.org_library_approved": {
+        "string": "在组织{orgName}中批准了{libraryName}"
     },
-    "community.sinatra.follows.cannot_follow_yourself": {
-        "string": "Cannot follow yourself"
+    "activity_log.event.org_library_unapproved": {
+        "string": "在组织{orgName}中未批准{libraryName}"
     },
-    "community.sinatra.follows.profile_not_found": {
-        "string": "Profile not found"
+    "activity_log.event.org_merge": {
+        "string": "将{childOrgName}合并到组织{orgName}"
     },
-    "community.sinatra.follows.youre_already_following_this_user": {
-        "string": "You're already following this user"
+    "activity_log.event.org_new_library_setting": {
+        "string": "将{libraryName}设置为{orgName}的默认库，设定为{librarySetting}"
     },
-    "community.sinatra.free_to_freemium_migrating_blocked": {
-        "string": "Updating resources to use the Payments API is currently only enabled for certain resources. Please contact support@figma.com for more information"
+    "activity_log.event.org_user_account_type_change.seat_rename": {
+        "string": "将{userEmail}的{product}座位从{oldAccountType}更改为{accountType}"
     },
-    "community.sinatra.free_to_freemium_resource_owner_required": {
-        "string": "Only the resource owner can update a resource to use the Payments API."
+    "activity_log.event.org_user_account_type_change_to_full.editor.seat_rename": {
+        "string": "完全"
     },
-    "community.sinatra.free_to_freemium_visual_compliance": {
-        "string": "Publishing using our Payments API is temporarily disabled while our team verifies your seller status. Please try publishing again in a few days."
+    "activity_log.event.org_user_account_type_change_to_full.seat_rename": {
+        "string": "升级到{role}座位: {reason}"
     },
-    "community.sinatra.hub_files.a_default_file_cannot_be_published": {
-        "string": "A default file cannot be published."
+    "activity_log.event.org_user_account_type_upgrade_approved": {
+        "string": "批准了{userEmail}的{product}升级到{accountType}的请求"
     },
-    "community.sinatra.hub_files.a_file_in_a_secret_team_cannot_be_published": {
-        "string": "A file in a secret team cannot be published"
+    "activity_log.event.org_user_account_type_upgrade_denied": {
+        "string": "拒绝了{userEmail}的{product}升级到{accountType}的请求"
     },
-    "community.sinatra.hub_files.cannot_republish_a_monetized_resource": {
-        "string": "Can't republish an existing Community resource as a paid resource"
+    "activity_log.event.org_user_account_type_upgrade_requested": {
+        "string": "请求将{product}升级到{accountType}"
     },
-    "community.sinatra.hub_files.community_file_checkpoint_not_found": {
-        "string": "Community file checkpoint not found"
+    "activity_log.event.org_user_create": {
+        "string": "将{userEmail}作为{permission}添加到组织{orgName}"
     },
-    "community.sinatra.hub_files.community_file_not_found": {
-        "string": "Community file not found"
+    "activity_log.event.org_user_create_external": {
+        "string": "加入了外部组织{orgName}"
     },
-    "community.sinatra.hub_files.cover_image_carousel_image_not_found": {
-        "string": "cover image carousel image not found"
+    "activity_log.event.org_user_create_self": {
+        "string": "作为{permission}加入了组织{orgName}"
     },
-    "community.sinatra.hub_files.duplicate_failed": {
-        "string": "Duplicate failed: {e}"
+    "activity_log.event.org_user_delete": {
+        "string": "从组织{orgName}中删除了{userEmail}"
     },
-    "community.sinatra.hub_files.file_must_belong_to_author_org": {
-        "string": "File must belong to author org"
+    "activity_log.event.org_user_delete_external": {
+        "string": "退出了外部组织{orgName}"
     },
-    "community.sinatra.hub_files.file_must_belong_to_author_team": {
-        "string": "File must belong to author team"
+    "activity_log.event.org_user_permission_change": {
+        "string": "将{userEmail}的权限更改为组织{orgName}的{permission}"
     },
-    "community.sinatra.hub_files.hub_file_image_exceeds_max_size_of_bytes": {
-        "string": "hub file image exceeds max size of {limit} bytes"
+    "activity_log.event.personal_access_token_create": {
+        "string": "创建了新的个人访问令牌"
     },
-    "community.sinatra.hub_files.hub_file_image_not_found": {
-        "string": "hub file image not found"
+    "activity_log.event.personal_access_token_delete": {
+        "string": "撤销了个人访问令牌"
     },
-    "community.sinatra.hub_files.invalid_author_org_id": {
-        "string": "Invalid author_org_id"
+    "activity_log.event.plugin_approvelist_add_org": {
+        "string": "批准在{org}中使用插件{pluginName}"
     },
-    "community.sinatra.hub_files.invalid_team_id": {
-        "string": "Invalid author_team_id"
+    "activity_log.event.plugin_approvelist_add_workspace": {
+        "string": "批准在工作区{workspace}中使用插件{pluginName}"
     },
-    "community.sinatra.hub_files.invalid_template_type": {
-        "string": "Invalid template type"
+    "activity_log.event.plugin_approvelist_disable_org": {
+        "string": "在{org}中不再需要插件批准"
     },
-    "community.sinatra.hub_files.missing_required_parameter": {
-        "string": "Missing required parameter {p}"
+    "activity_log.event.plugin_approvelist_enable_org": {
+        "string": "在{org}中启用插件批准"
     },
-    "community.sinatra.hub_files.missing_thumbnail_image": {
-        "string": "A thumbnail image must be selected"
+    "activity_log.event.plugin_approvelist_remove_org": {
+        "string": "撤销在{org}中批准的插件{pluginName}"
     },
-    "community.sinatra.hub_files.name_is_too_long": {
-        "string": "File name exceeds max length of {limit} characters"
+    "activity_log.event.plugin_approvelist_remove_workspace": {
+        "string": "撤销在工作区{workspace}中批准的插件{pluginName}"
     },
-    "community.sinatra.hub_files.number_of_requested_files_too_large": {
-        "string": "Number of requested files too large"
+    "activity_log.event.plugin_approvelist_request_approve_org": {
+        "string": "批准了{requesterName}请求的在{org}中使用插件{pluginName}"
     },
-    "community.sinatra.hub_files.only_allow_paid_files_from_personal_drafts_folder": {
-        "string": "Only allow publishing paid files from one's personal Drafts folder"
+    "activity_log.event.plugin_approvelist_request_approve_workspace": {
+        "string": "批准了{requesterName}请求的在工作区{workspace}中使用插件{pluginName}"
     },
-    "community.sinatra.hub_files.only_editors_of_this_file_may_publish_it": {
-        "string": "Only editors of this file may publish it"
+    "activity_log.event.plugin_approvelist_request_org": {
+        "string": "请求在{org}中批准使用插件{plugin}"
     },
-    "community.sinatra.hub_files.template_files_not_configured": {
-        "string": "Template files not configured"
+    "activity_log.event.plugin_approvelist_request_reject_org": {
+        "string": "拒绝了{requesterName}请求的在{org}中使用插件{pluginName}"
     },
-    "community.sinatra.hub_files.template_insertion_failed": {
-        "string": "Template insertion failed: {e}"
+    "activity_log.event.plugin_approvelist_request_reject_workspace": {
+        "string": "拒绝了{requesterName}请求的在工作区{workspace}中使用插件{pluginName}"
     },
-    "community.sinatra.hub_files.this_file_has_already_been_published": {
-        "string": "This file has already been published"
+    "activity_log.event.plugin_install": {
+        "string": "为所有人安装了插件{pluginName}"
     },
-    "community.sinatra.hub_files.this_file_version_has_already_been_published": {
-        "string": "This file version has already been published"
+    "activity_log.event.plugin_ownership_transfer": {
+        "string": "将插件{pluginName}的所有权转移给{userEmail}"
     },
-    "community.sinatra.hub_files.user_must_accept_community_terms_of_service": {
-        "string": "User must accept Community terms of service"
+    "activity_log.event.plugin_publisher_accept_invite": {
+        "string": "接受了作为插件{pluginName}的发布者的邀请"
     },
-    "community.sinatra.hub_files.you_can_only_publish_files_you_own_as_paid_files": {
-        "string": "You can only publish files you own as paid files"
+    "activity_log.event.plugin_publisher_invite": {
+        "string": "邀请{userEmail}作为插件{pluginName}的发布者"
     },
-    "community.sinatra.hub_files.you_do_not_have_permission_to_access_this_hub_file": {
-        "string": "You do not have permission to access this hub file"
+    "activity_log.event.plugin_publisher_remove": {
+        "string": "将{userEmail}从插件{pluginName}的发布者中移除"
     },
-    "community.sinatra.hub_files.you_do_not_have_permission_to_edit_this_file": {
-        "string": "You do not have permission to edit this file"
+    "activity_log.event.plugin_publisher_remove_invite": {
+        "string": "撤销了{userEmail}作为插件{pluginName}发布者的邀请"
     },
-    "community.sinatra.hub_files.you_do_not_have_permissions_to_this_org": {
-        "string": "You do not have {permission} permissions to this org"
+    "activity_log.event.plugin_uninstall": {
+        "string": "为所有人卸载了插件{pluginName}"
     },
-    "community.sinatra.hub_files.your_org_has_banned_public_links_only_org_admins_may_publish_files": {
-        "string": "Your org has banned public links. Only org admins may publish files"
+    "activity_log.event.private_plugin_delete": {
+        "string": "删除了插件{pluginName}"
     },
-    "community.sinatra.invalid_editor_type": {
-        "string": "Manifest includes an invalid editor type"
+    "activity_log.event.private_plugin_publish": {
+        "string": "发布了插件{pluginName}"
     },
-    "community.sinatra.monetization.invalid_promo_code": {
-        "string": "Invalid promo code."
+    "activity_log.event.private_plugin_update": {
+        "string": "更新了插件{pluginName}"
     },
-    "community.sinatra.monetization.user_must_accept_community_customer_terms_of_service": {
-        "string": "User must accept Community customer terms of service"
+    "activity_log.event.private_widget_delete": {
+        "string": "删除了小部件{widgetName}"
     },
-    "community.sinatra.monetization.user_must_accept_community_seller_terms_of_service": {
-        "string": "User must accept Community seller terms of service"
+    "activity_log.event.private_widget_publish": {
+        "string": "发布了小部件{widgetName}"
     },
-    "community.sinatra.plugin_runs.user_already_ran_this_plugin": {
-        "string": "User already ran this plugin"
+    "activity_log.event.private_widget_update": {
+        "string": "更新了小部件{widgetName}"
     },
-    "community.sinatra.plugins.at_least_one_image_video_upload": {
-        "string": "At least one image or video is required for publishing"
+    "activity_log.event.saml_sso_auth_disable": {
+        "string": "禁用了SAML SSO认证"
     }
 }

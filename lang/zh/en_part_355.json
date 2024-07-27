@@ -1,0 +1,152 @@
+{
+    "inline_preview.overflow_menu.actual_size_100_percent": {
+        "string": "実際のサイズ(100%)に変更"
+    },
+    "inline_preview.overflow_menu.follow_active_frame": {
+        "string": "アクティブなフレームをフォロー"
+    },
+    "inline_preview.overflow_menu.resize_to_aspect_ratio": {
+        "string": "アスペクト比に合わせる"
+    },
+    "proto.prototype_panel.a_prototype_needs_to_have_at_least_one_frame_tooltip": {
+        "string": "プロトタイプには1つ以上のフレームが必要です。"
+    },
+    "viewer.options_menu.disable_default_keyboard_navigation": {
+        "string": "Figmaキーボードショートカットを有効にする"
+    },
+    "viewer.options_menu.show_figma_ui": {
+        "string": "Figma UIを表示"
+    },
+    "viewer.options_menu.show_hotspot_hints_on_click": {
+        "string": "クリックでホットスポットヒントを表示"
+    },
+    "viewer.options_menu.show_only_your_comments": {
+        "string": "自分のコメントのみを表示"
+    },
+    "viewer.options_menu.show_resolved_comments": {
+        "string": "解決済みコメントを表示"
+    },
+    "viewer.options_menu.show_sidebar": {
+        "string": "サイドバーを表示"
+    },
+    "rcs.delayed_nux_questions.reminder_body": {
+        "string": "よろしければ、いくつかの質問にお答えください。FigJamの品質向上に役立てさせていただきます。"
+    },
+    "rcs.delayed_nux_questions.reminder_header": {
+        "string": "最後に..."
+    },
+    "rcs.delayed_nux_questions.reminder_primary_button": {
+        "string": "質問に答える"
+    },
+    "rcs.jamboard.connect_to_google_drive_disclaimer.desc2": {
+        "string": "注: インポートのたびに再認証が必要です。"
+    },
+    "rcs.jamboard.offer_onboarding_modal.cta": {
+        "string": "はじめに"
+    },
+    "rcs.jamboard.offer_onboarding_modal.desc": {
+        "string": "Jamboardをご利用ですか? ファイルをインポートすると、FigJamプロフェッショナルプランを1年間無料で利用できます。"
+    },
+    "rcs.jamboard.offer_onboarding_modal.fine_print": {
+        "string": "この特典は日本時間2024年2月1日午前8時59分まで有効です。2023年9月28日午前9時より前に作成されたJamboardファイルを1つ以上インポートしてください。すでにFigJam有料プランをご利用中に方は対象外となります。チームあたり最大25シートをアップグレードできます。年間サブスクリプションのみです。{seeTermsLink}"
+    },
+    "rcs.jamboard.offer_onboarding_modal.graphic_alt_text": {
+        "string": "「プロ」というラベルの付いたテキストボックスにカーソルを置く"
+    },
+    "rcs.jamboard.offer_onboarding_modal.see_terms": {
+        "string": "条件を確認"
+    },
+    "rcs.jamboard.offer_onboarding_modal.title": {
+        "string": "FigJamエクスペリエンスをすべてお試しください—無料"
+    },
+    "recordings.close": {
+        "string": "閉じる"
+    },
+    "recordings.description_field_placeholder": {
+        "string": "説明"
+    },
+    "recordings.record_me": {
+        "string": "記録を開始"
+    },
+    "recordings.start_recording": {
+        "string": "記録を開始"
+    },
+    "recordings.stop_recording": {
+        "string": "記録を停止"
+    },
+    "sessions.column.location": {
+        "string": "場所"
+    },
+    "settings.account_settings.primary": {
+        "string": "(プライマリー)"
+    },
+    "settings.account_settings.remove": {
+        "string": "削除"
+    },
+    "sites.lint.layout/autolayout-wrap-with-negative-spacing": {
+        "string": "オートレイアウトの負の間隔"
+    },
+    "sites.lint.negative-gap-absolute-position": {
+        "string": "絶対値を使用することで、同様の効果を得ることができます"
+    },
+    "sites.lint.scrolling/scrolling-enabled-without-clipped-content": {
+        "string": "コンテンツの表示によるスクロールのオーバーフロー"
+    },
+    "sites.lint.set-gap-to-zero": {
+        "string": "間隔を0に設定"
+    },
+    "sites.lint.set-to-miter": {
+        "string": "「マイター」に設定"
+    },
+    "sites.modal.copy-link": {
+        "string": "プレビューのリンクをコピー"
+    },
+    "sites.modal.open-external-site": {
+        "string": "ブラウザでプレビューを開く"
+    },
+    "slides.properties_panel.color_picker.edit_theme": {
+        "string": "テンプレートの色を編集"
+    },
+    "slides.properties_panel.color_picker.edit_theme_colors.cancel": {
+        "string": "キャンセル"
+    },
+    "slides.properties_panel.color_picker.edit_theme_colors.save": {
+        "string": "保存"
+    },
+    "slides.properties_panel.corners_panel.corners_slider_aria": {
+        "string": "角の丸みのスライダー"
+    },
+    "slides.properties_panel.opacity.opacity_slider_aria_label": {
+        "string": "不透明度スライダー"
+    },
+    "team_view.upgrade.multi_team_org_upgrade": {
+        "string": "ビジネスにアップグレードすると、デザインライブラリやフォントをチーム間で共有できます。"
+    },
+    "team_view.upgrade.org_upgrade": {
+        "string": "ビジネスにアップグレードすると、チーム横断型デザインライブラリ、SSO、管理者コントロールを利用できます。"
+    },
+    "team_view.upgrade.upgrade": {
+        "string": "アップグレード"
+    },
+    "tile.file_tile.pin_opens": {
+        "string": "{numOpens, plural, other {{numOpens}個の開いているピン}}"
+    },
+    "universal_insert.get_started_with_these_popular_tools": {
+        "string": "手始めにこれらの人気ツールを試してみましょう"
+    },
+    "universal_insert.supercharge_your_workflow": {
+        "string": "ワークフローを大幅に強化"
+    },
+    "universal_inserts.browse_more_from_community": {
+        "string": "コミュニティでさらに探す"
+    },
+    "user_notifications.notifications": {
+        "string": "通知"
+    },
+    "user_notifications.org_notifications": {
+        "string": "{orgName}の通知"
+    },
+    "whiteboard.paywall_improvement.plan_comparison.audio.title": {
+        "string": "アップグレードして徹底的に話し合う"
+    }
+}

@@ -1,152 +1,152 @@
 {
-    "settings_tab.disabled": {
-        "string": "Disabled"
+    "settings.delete_user_account.a_verified_email_is_required": {
+        "string": "確認済みのメールアドレスが必要です"
     },
-    "settings_tab.sso_method.saml_only": {
-        "string": "SAML only"
+    "settings.delete_user_account.account_deletion_is_in_progress": {
+        "string": "アカウントを削除中です。この処理にはしばらくかかります。削除が完了するとリダイレクトされます。"
     },
-    "settings_tab.sso_method.google_only": {
-        "string": "Google only"
+    "settings.delete_user_account.are_you_sure_you_want_to_delete_your_figma_account": {
+        "string": "Figmaアカウントを削除してよろしいですか?"
     },
-    "settings_tab.sso_method.any_method": {
-        "string": "Any method"
+    "settings.delete_user_account.delete_account": {
+        "string": "アカウントを削除"
     },
-    "settings_tab.idle_session_timeout_default_duration": {
-        "string": "Default (21 days)"
+    "settings.delete_user_account.delete_my_account": {
+        "string": "自分のアカウントを削除する"
     },
-    "settings_tab.modify_community_handle_label": {
-        "string": "Add or change your organization’s public profile handle"
+    "settings.delete_user_account.deleting_your_this_props_user_email_account_will_delete_all_your_associated_data": {
+        "string": "{email}のアカウントを削除すると、ファイル、コンポーネント、画像などの関連データがすべて削除されます。これには、他のユーザーと共有しているコンテンツも含まれます。この操作は元に戻せません。"
     },
-    "settings_tab.modify_community_handle_description": {
-        "string": "Organization handle"
+    "settings.delete_user_account.for_more_information_about_how_we_treat_your_data": {
+        "string": "Figmaによるデータの取り扱い方法の詳細は、{privacyPolicyLink}を参照してください。"
     },
-    "settings_tab.delete_community_label": {
-        "string": "Delete Community profile"
+    "settings.delete_user_account.resend_verification_email": {
+        "string": "確認メールを再送信"
     },
-    "settings_tab.delete_community_description": {
-        "string": "Delete your organization's public profile, including all published files, plugins, likes, and follow data"
+    "settings.delete_user_account.to_confirm_please_type_strong_delete_my_account_strong_below": {
+        "string": "確認するには、以下で\"{confirmationText}\"と入力してください。"
     },
-    "settings_tab.community_commenters_description": {
-        "string": "Manage Community members who have been restricted from commenting on your organization’s resources"
+    "settings.delete_user_account.you_must_verify_your_email_address_before_you_can_attempt_this_operation": {
+        "string": "この操作を行う前に、メールアドレスを確認する必要があります。"
     },
-    "settings_tab.section_header.profile": {
-        "string": "Organization profile"
+    "settings.language_selector.cancel": {
+        "string": "キャンセル"
     },
-    "settings_tab.section_header.team_management": {
-        "string": "Team management"
+    "settings.language_selector.modal.description": {
+        "string": "Figmaのアプリ、Webサイト、マーケティングのメールに使用する言語を選択します。"
     },
-    "settings_tab.team_creation_label": {
-        "string": "Creating teams"
+    "settings.language_selector.save": {
+        "string": "保存"
     },
-    "settings_tab.team_creation_description": {
-        "string": "Change who can create teams in this organization"
+    "settings.require_password.continue": {
+        "string": "続行"
     },
-    "settings_tab.section_header.domains": {
-        "string": "Domains"
+    "settings.require_password.current_password": {
+        "string": "現在のパスワード"
     },
-    "settings_tab.add_domain_label": {
-        "string": "Add a domain to your organization"
+    "settings.require_password.for_security_purposes_please_re_enter_your_password_below": {
+        "string": "セキュリティのため、以下にパスワードをもう一度入力してください。"
     },
-    "settings_tab.data_storage_eu": {
-        "string": "European Union"
+    "settings.require_password.forgot_password": {
+        "string": "パスワードを忘れた場合"
     },
-    "settings_tab.data_storage_us": {
-        "string": "United States"
+    "shared_with_you.filters.all_organizations": {
+        "string": "すべての組織"
     },
-    "settings_tab.section_header.data": {
-        "string": "Data"
+    "shared_with_you.filters.org_deleted_drafts.all": {
+        "string": "すべてのプロジェクト"
     },
-    "settings_tab.discovery.label": {
-        "string": "Discovery API"
+    "shared_with_you.filters.org_deleted_drafts.deleted_user_drafts": {
+        "string": "削除されたユーザードラフト"
     },
-    "settings_tab.contact_support_to_disable": {
-        "string": "Contact support to disable"
+    "shared_with_you.filters.org_deleted_drafts.shared": {
+        "string": "共有プロジェクト"
     },
-    "settings_tab.contact_support_to_enable": {
-        "string": "Contact support to enable"
+    "shared_with_you.no_items": {
+        "string": "一致するものが見つかりませんでした。フィルターを調整してみてください。"
     },
-    "settings_tab.data_storage": {
-        "string": "Data storage localization"
+    "shared_with_you.toolbar.files": {
+        "string": "ファイル"
     },
-    "settings_tab.domain_management_label": {
-        "string": "Manage domains"
+    "shared_with_you.toolbar.projects": {
+        "string": "プロジェクト"
     },
-    "settings_tab.domain_management_description": {
-        "string": "Control which domains are associated with your organization."
+    "sidebar.browse.all_teams": {
+        "string": "すべてのチーム"
     },
-    "settings_tab.guest_membership_label": {
-        "string": "Guest membership"
+    "sidebar.browse.all_workspaces": {
+        "string": "すべてのワークスペース"
     },
-    "settings_tab.guest_membership_description": {
-        "string": "Control how external users can join your organization as guests."
+    "sites.lint.action-and-adjust-spacing-to-achieve-similar-result": {
+        "string": "{action}を行い、間隔を調整することで、同様の結果を得ることができます"
     },
-    "settings_tab.external_collaboration_controls_label": {
-        "string": "Access to external content"
+    "sites.lint.action-for-the-same-effect": {
+        "string": "同じエフェクトの{action}"
     },
-    "settings_tab.external_collaboration_controls_description": {
-        "string": "Choose how members access files, projects, and teams from outside {orgName}"
+    "sites.lint.action-to-achieve-similar-result": {
+        "string": "{action}ことで、同様の結果を得ることができます"
     },
-    "settings_tab.domain_capture_contact_support_tooltip_copy": {
-        "string": "Domain capture must be enabled to update this setting. To get started, email admin-support@figma.com."
+    "sites.lint.action-to-clear-issue": {
+        "string": "{action}ことで、この問題を解決できます"
     },
-    "settings_tab.public_sharing_title": {
-        "string": "Public sharing"
+    "sites.lint.action-to-match-preview": {
+        "string": "{action}ことで、プレビューと一致させることができます"
     },
-    "settings_tab.public_sharing_description": {
-        "string": "Allow members to share links outside of your organization"
+    "sites.lint.apply-effects-on-individual-nodes": {
+        "string": "エフェクトを個々のノードに適用する"
     },
-    "settings_tab.password_controls_settings_label": {
-        "string": "Password protection options"
+    "sites.lint.blendmode/plus-darker": {
+        "string": "ブレンドモードに暗さがプラスされています"
     },
-    "settings_tab.password_controls_settings_description": {
-        "string": "Choose what type of passwords can be added to files"
+    "sites.lint.effects/frames-no-fills": {
+        "string": "エフェクトが塗りのないレイヤーに適用されています"
     },
-    "settings_tab.network_access_restriction_label": {
-        "string": "Restrict personal access on this network"
+    "sites.lint.effects/rotation-shadow-effects": {
+        "string": "シャドウが回転したレイヤーに適用されています"
     },
-    "settings_tab.section_header.external_access": {
-        "string": "External access"
+    "sites.lint.embed-youtube-video": {
+        "string": "YouTube動画を埋め込む"
     },
-    "settings_tab.authentication_label": {
-        "string": "Authentication"
+    "sites.lint.fill/image-fills-opacity": {
+        "string": "透過(画像)"
     },
-    "settings_tab.authentication_description": {
-        "string": "Change how users log in and authenticate to Figma"
+    "sites.lint.fill/image-fills-rotation": {
+        "string": "回転(画像)"
     },
-    "settings_tab.saml_label": {
-        "string": "SAML SSO"
+    "sites.lint.interactions/after_delay": {
+        "string": "アフターディレイ(トリガー)"
     },
-    "settings_tab.saml_description": {
-        "string": "Enable and configure SAML SSO for your organization"
+    "sites.lint.interactions/back": {
+        "string": "戻る(アクション)"
     },
-    "settings_tab.scim_label": {
-        "string": "SCIM Provisioning"
+    "sites.lint.interactions/close_overlay": {
+        "string": "オーバーレイを閉じる(アクション)"
     },
-    "settings_tab.scim_group_description": {
-        "string": "Manage licenses and assign billing group and workspace membership with your IDP"
+    "sites.lint.interactions/key_gamepad": {
+        "string": "キー/ゲームパッド(トリガー)"
     },
-    "settings_tab.scim_description": {
-        "string": "Enable and configure SCIM for your organization"
+    "sites.lint.interactions/on_drag": {
+        "string": "ドラッグ時(トリガー)"
     },
-    "settings_tab.ip_allowlist_label": {
-        "string": "IP allowlisting"
+    "sites.lint.interactions/open_overlay": {
+        "string": "オーバーレイを開く(アクション)"
     },
-    "settings_tab.idle_session_timeout_label": {
-        "string": "Idle session timeout"
+    "sites.lint.interactions/scroll_to": {
+        "string": "次にスクロール(アクション)"
     },
-    "settings_tab.idle_session_timeout_description": {
-        "string": "Choose when to automatically log out inactive accounts"
+    "sites.lint.interactions/set_variable_mode": {
+        "string": "バリアブルモードを設定(アクション)"
     },
-    "settings_tab.workspace_selector_label": {
-        "string": "Workspace selector"
+    "sites.lint.interactions/swap_overlay": {
+        "string": "オーバーレイの入れ替え(アクション)"
     },
-    "license_group.workspace_selector_is_visible": {
-        "string": "Workspace selector is visible"
+    "sites.lint.interactions/while_hovering_nested": {
+        "string": "「マウスオーバー」がネストされたレイヤーに設定されています(アクション)"
     },
-    "license_group.workspace_selector_is_hidden": {
-        "string": "Workspace selector is hidden"
+    "sites.lint.interactions/while_pressing_nested": {
+        "string": "「押下中」がネストされたレイヤーに設定されています(アクション)"
     },
-    "settings_tab.section_header.login_and_provisioning": {
-        "string": "Login and provisioning"
+    "sites.lint.layout/gap/space-between-legacy": {
+        "string": "間隔を空けて配置されたオートレイアウト"
     }
 }

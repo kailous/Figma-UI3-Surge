@@ -1,152 +1,152 @@
 {
-    "file_browser.confirm_file_delete_modal.about_to_delete_component_unpublish": {
-        "string": "You're about to delete the file {fileNameText}. Any published components will also disappear from your team's libraries."
+    "auth.input-validation.email-is-password": {
+        "string": "电子邮件不能与密码相同。"
     },
-    "file_browser.confirm_file_trash_modal.about_to_trash_team_template": {
-        "string": "You're about to move the file {fileNameText} to trash, and remove it from your team's templates."
+    "auth.input-validation.invalid-email": {
+        "string": "电子邮件地址格式不正确。"
     },
-    "file_browser.confirm_file_delete_modal.about_to_delete_team_template": {
-        "string": "You're about to delete the file {fileNameText}, and remove it from your team's templates."
+    "auth.input-validation.long-password": {
+        "string": "密码太长了！"
     },
-    "file_browser.confirm_file_trash_modal.about_to_trash_multiple_warnings": {
-        "string": "You're about to move {numFilesText} to trash, which include:"
+    "auth.input-validation.name-is-password": {
+        "string": "姓名不能与密码相同。"
     },
-    "file_browser.confirm_file_delete_modal.about_to_delete_multiple_warnings": {
-        "string": "You're about to delete {numFilesText}, which include:"
+    "auth.input-validation.no-email": {
+        "string": "请输入电子邮件地址。"
     },
-    "file_browser.confirm_file_delete_modal.warning_team_template": {
-        "string": "{templatesText}. These are published, so your team will lose access."
+    "auth.input-validation.no-password": {
+        "string": "请输入密码。"
     },
-    "file_browser.confirm_file_delete_modal.templates": {
-        "string": "Templates"
+    "auth.input-validation.short-password": {
+        "string": "密码长度必须至少为8个字符。"
     },
-    "file_browser.confirm_file_delete_modal.warning_component_unpublish": {
-        "string": "{componentsText}. These are published, so they'll disappear from your team's libraries."
+    "auth.log-in-with-account": {
+        "string": "以{email}登录"
     },
-    "file_browser.confirm_file_delete_modal.components": {
-        "string": "Components"
+    "auth.log-in-with-browser": {
+        "string": "通过浏览器登录"
     },
-    "file_browser.confirm_file_delete_modal.warning_unsynced_file": {
-        "string": "{offlineFilesText}. These haven't been synced, so they'll be permanently deleted."
+    "auth.log-in-with-other-account": {
+        "string": "不是{email}？{logInLink}"
     },
-    "file_browser.confirm_file_delete_modal.offline_files": {
-        "string": "Offline files"
+    "auth.log-in-with-other-account-link": {
+        "string": "使用其他账户登录"
     },
-    "collaboration.branching.saving_file": {
-        "string": "Saving file"
+    "auth.log_in_to_collaborate_on_display_name": {
+        "string": "登录以在{displayName}上进行协作"
     },
-    "collaboration.branching.error_saving_file": {
-        "string": "Error saving file"
+    "auth.log_in_to_collaborate_on_this_file": {
+        "string": "登录以在此文件上进行协作"
     },
-    "collaboration.branching_force.merge_from_source_merge_conflict_radio_option_main": {
-        "string": "main"
+    "auth.magic_link_check_email.body_login_v2": {
+        "string": "请在5分钟内点击发送到{emailAddress}的链接以登录。"
     },
-    "collaboration.branching_force.merge_from_source_merge_conflict_radio_option_branch": {
-        "string": "branch"
+    "auth.magic_link_check_email.body_signup_v2": {
+        "string": "请在5分钟内点击发送到{emailAddress}的链接以完成帐户设置。"
     },
-    "collaboration.branching_force.merge_from_source_merge_conflict_radio_label": {
-        "string": "Pick {option} changes for all conflicts"
+    "auth.magic_link_check_email.check_your_inbox": {
+        "string": "检查收件箱"
     },
-    "collaboration.branching_force.merge_to_source_title": {
-        "string": "Confirm merge without review"
+    "auth.magic_link_check_email.go_back": {
+        "string": "返回"
     },
-    "collaboration.branching_force.merge_to_source_confirm": {
-        "string": "Force merge into main"
+    "auth.magic_link_check_email.open_gmail": {
+        "string": "打开Gmail"
     },
-    "collaboration.branching_force.merge_to_source_description": {
-        "string": "This will merge all branch changes into main, without a branch review step."
+    "auth.magic_link_check_email.open_outlook": {
+        "string": "打开Outlook"
     },
-    "collaboration.branching_force.merge_to_source_blocked_description": {
-        "string": "Conflicts with the main file must be resolved to merge this branch"
+    "auth.magic_link_check_email.wrong_address_go_back": {
+        "string": "地址错误？{goBackLink}"
     },
-    "collaboration.branching_force.merge_from_source_title": {
-        "string": "Confirm force update from main"
+    "auth.mirror-app": {
+        "string": "镜像"
     },
-    "collaboration.branching_force.merge_from_source_confirm": {
-        "string": "Force update from main"
+    "auth.mobile-app": {
+        "string": "移动应用"
     },
-    "collaboration.branching_force.merge_from_source_description": {
-        "string": "This will force an update to this branch with all changes from main, without a conflict review step."
+    "auth.no-account": {
+        "string": "没有帐户？"
     },
-    "collaboration.branching_force.merge_from_source_merge_conflict_label": {
-        "string": "Select conflict management preference for the update:"
+    "auth.not-seeing-the-browser-tab": {
+        "string": "没有看到浏览器标签页？"
     },
-    "collaboration.branching.error_generic": {
-        "string": "An error occurred"
+    "auth.open-figma-for-vs-code": {
+        "string": "打开VS Code集成"
     },
-    "collaboration.branching.merge_pending": {
-        "string": "Merging…"
+    "auth.open-specific-app": {
+        "string": "打开{appDescriptor}应用"
     },
-    "collaboration.branching.merge_success": {
-        "string": "Branch Merged"
+    "auth.password-input-placeholder": {
+        "string": "密码"
     },
-    "collaboration.branching.update_pending": {
-        "string": "Applying changes from main file…"
+    "auth.password-reset.back-to-log-in": {
+        "string": "返回登录"
     },
-    "collaboration.branching.update_success": {
-        "string": "Branch updated"
+    "auth.password-reset.cancel": {
+        "string": "取消"
     },
-    "collaboration.feedback.incremental_update_modal.latest_version": {
-        "string": "Latest version"
+    "auth.password-reset.choose-a-new-password": {
+        "string": "选择新密码"
     },
-    "collaboration.feedback.incremental_update_modal.title": {
-        "string": "Update from a version of main"
+    "auth.password-reset.confirmation-text": {
+        "string": "如果{email}有帐户，密码重置指示将发送到该地址。如果未收到，请检查垃圾邮件文件夹。"
     },
-    "collaboration.feedback.incremental_update_modal.confirm": {
-        "string": "Confirm"
+    "auth.password-reset.enter-email-header": {
+        "string": "输入电子邮件地址以重置密码"
     },
-    "collaboration.branching_create.title": {
-        "string": "Create branch"
+    "auth.password-reset.placeholder.confirm-password": {
+        "string": "确认密码"
     },
-    "collaboration.branching_create.create_button": {
-        "string": "Create"
+    "auth.password-reset.placeholder.password": {
+        "string": "密码"
     },
-    "collaboration.branching_create.cancel_button": {
-        "string": "Cancel"
+    "auth.password-reset.reset-password-button": {
+        "string": "重置密码"
     },
-    "oss_exposure_branching_upsell_modal.feature1": {
-        "string": "Org-wide libraries and fonts"
+    "auth.password-reset.submit": {
+        "string": "提交"
     },
-    "oss_exposure_branching_upsell_modal.feature2": {
-        "string": "Unlimited teams"
+    "auth.reset-password.password-retype-error": {
+        "string": "密码不匹配，请重试。"
     },
-    "oss_exposure_branching_upsell_modal.feature3": {
-        "string": "Design system analytics"
+    "auth.saml-start.header": {
+        "string": "通过SAML SSO登录Figma"
     },
-    "oss_exposure_branching_upsell_modal.body1": {
-        "string": "Branches let you explore changes to designs, prototypes, and libraries without editing the original file."
+    "auth.saml-start.log-in-google-or-password": {
+        "string": "通过Google或密码登录"
     },
-    "oss_exposure_branching_upsell_modal.nonadmin.body1": {
-        "string": "Branches let you explore changes to designs, prototypes, and libraries without editing the original file. {learnMoreLink}"
+    "auth.saml-start.log-in-plain": {
+        "string": "登录"
     },
-    "oss_exposure_branching_upsell_modal.nonadmin.body_link": {
-        "string": "Learn more"
+    "auth.sign-in-google-text": {
+        "string": "通过Google继续"
     },
-    "oss_exposure_branching_upsell_modal.nonadmin.text": {
-        "string": "Ask an admin to upgrade this plan so you can use branching."
+    "auth.sign-in-submit-text": {
+        "string": "登录"
     },
-    "oss_exposure_branching_upsell_modal.title": {
-        "string": "Upgrade to the Organization plan to create branches"
+    "auth.sign-in-success": {
+        "string": "已验证为{email}"
     },
-    "oss_exposure_branching_upsell_modal.primary_cta": {
-        "string": "Upgrade"
+    "auth.sign-in.privacy-policy": {
+        "string": "隐私政策"
     },
-    "oss_exposure_branching_upsell_modal.nonadmin.cta": {
-        "string": "Got it"
+    "auth.sign-in.tos-long": {
+        "string": "Figma服务条款"
     },
-    "oss_exposure_branching_upsell_modal.secondary_cta": {
-        "string": "Learn more"
+    "auth.sign-up-google-text": {
+        "string": "通过Google继续"
     },
-    "oss_exposure_branching_upsell_modal.body2": {
-        "string": "Along with branching, you’ll get…"
+    "auth.sign-up-submit-text": {
+        "string": "创建帐户"
     },
-    "collaboration.branching.error_creating_image_usages": {
-        "string": "Error creating image usages"
+    "auth.sign-up.auto-marketing-email-opt-in-additional-terms": {
+        "string": "您同意从Figma接收关于产品、服务和活动的电子邮件，并且可以随时取消订阅。"
     },
-    "collaboration.branching.error_merging": {
-        "string": "Error merging"
+    "auth.sign-up.confirmation-email-error": {
+        "string": "发送确认邮件时发生错误。"
     },
-    "collaboration.branching.merging": {
-        "string": "Merging…"
+    "auth.sign_in_to_figma": {
+        "string": "登录Figma"
     }
 }

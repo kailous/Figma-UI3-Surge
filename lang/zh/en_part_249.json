@@ -1,152 +1,152 @@
 {
-    "canvas_search.search": {
-        "string": "Find"
+    "file_permissions_modal.a_password_was_set_on_the_main_file_people_will_need_to_enter_that_password_to_access_any_branches": {
+        "string": "メインファイルにパスワードが設定されました。ブランチにアクセスするユーザーは、そのパスワードを入力する必要があります。"
     },
-    "canvas_search.replace": {
-        "string": "Replace"
+    "file_permissions_modal.advanced_options": {
+        "string": "詳細オプション"
     },
-    "canvas_search.filter.all": {
-        "string": "All"
+    "file_permissions_modal.allow_viewers_to_copy_share_and_export_from_this_file": {
+        "string": "閲覧者にこのファイルのコピー、共有、エクスポートを許可する"
     },
-    "canvas_search.settings": {
-        "string": "Settings"
+    "file_permissions_modal.collaborators_row_v2": {
+        "string": "{collaborator_1_name}、{collaborator_2_name}、{remaining_collaborator_text}"
     },
-    "canvas_search.filter.remove": {
-        "string": "Remove"
+    "file_permissions_modal.collaborators_row_v2.num_remaining_collaborators_others": {
+        "string": "他{num_remaining_collaborators}人"
     },
-    "canvas_search.filter.text": {
-        "string": "Text"
+    "file_permissions_modal.collaborators_sub_tab_title": {
+        "string": "このファイルの作業者は{num_collaborators}人です"
     },
-    "canvas_search.filter.frame_or_group": {
-        "string": "Frame / Group"
+    "file_permissions_modal.copy_audience_link": {
+        "string": "オーディエンスのリンクをコピー"
     },
-    "canvas_search.filter.component": {
-        "string": "Component"
+    "file_permissions_modal.copy_file_link": {
+        "string": "リンクをコピー"
     },
-    "canvas_search.filter.instance": {
-        "string": "Instance"
+    "file_permissions_modal.copy_folder_link": {
+        "string": "リンクをコピー"
     },
-    "canvas_search.filter.image": {
-        "string": "Image"
+    "file_permissions_modal.copy_link": {
+        "string": "リンクをコピー"
     },
-    "canvas_search.filter.shape": {
-        "string": "Shape"
+    "file_permissions_modal.file_name_s_project": {
+        "string": "{fileName}のプロジェクト"
     },
-    "canvas_search.filter.other": {
-        "string": "Other"
+    "file_permissions_modal.file_name_s_team": {
+        "string": "{fileName}のチーム"
     },
-    "canvas_search.filter.match_case": {
-        "string": "Match case"
+    "file_permissions_modal.folder_name": {
+        "string": "{folderName}"
     },
-    "canvas_search.filter.whole_words": {
-        "string": "Whole words"
+    "file_permissions_modal.give_them_access": {
+        "string": "アクセスを許可"
     },
-    "whiteboard.timer.unmute_music_message": {
-        "string": "There’s music playing—unmute to bop along."
+    "file_permissions_modal.google_classroom_modal.disclaimer": {
+        "string": "生徒/学生はこのファイルへのアクセス権が必要になります。ファイルの権限の確認や更新は{link}で行うことができます。"
     },
-    "whiteboard.timer.unmute_music_button": {
-        "string": "Unmute music"
+    "file_permissions_modal.google_classroom_modal.disclaimer_link": {
+        "string": "共有設定"
     },
-    "whiteboard.music.stop_music_confirmation_prompt": {
-        "string": "Stop the music?"
+    "file_permissions_modal.google_classroom_modal.duplicate_option": {
+        "string": "生徒/学生ごとにコピーを作成"
     },
-    "whiteboard.music.stop_music_confirmation_subtext": {
-        "string": "This stops the music for everyone, not just you."
+    "file_permissions_modal.google_classroom_modal.duplicate_option_description": {
+        "string": "閲覧アクセス権または編集アクセス権が必要です"
     },
-    "whiteboard.music.stop_music_cancel_button": {
-        "string": "Cancel"
+    "file_permissions_modal.google_classroom_modal.editable_option": {
+        "string": "生徒/学生にこのファイルへの直接の参加と編集を許可"
     },
-    "whiteboard.timer.stop_timer_confirmation_button": {
-        "string": "Stop music"
+    "file_permissions_modal.google_classroom_modal.editable_option_description": {
+        "string": "編集アクセス権が必要です"
     },
-    "whiteboard.music.end_music_tooltip": {
-        "string": "Stop music"
+    "file_permissions_modal.google_classroom_modal.title": {
+        "string": "このファイルの共有方法"
     },
-    "whiteboard.music.play_music_tooltip": {
-        "string": "Start music"
+    "file_permissions_modal.google_confirmation_modal.confirm_text": {
+        "string": "オープンセッションを開始"
     },
-    "whiteboard.timer.min": {
-        "string": "{timeIncrement} min"
+    "file_permissions_modal.google_confirmation_modal.description": {
+        "string": "このリンクを知っている、すなわちGoogle Meetデバイスを見ている誰でも、ファイルの閲覧と編集を行うことができます。オープンセッションはいつでも終了できます。また、24時間後に自動的に終了します。"
     },
-    "whiteboard.timer.end_timer_confirmation_new": {
-        "string": "Stop the timer?"
+    "file_permissions_modal.google_confirmation_modal.here": {
+        "string": "こちら"
     },
-    "whiteboard.timer.end_timer_confirmation_subtext_new": {
-        "string": "This stops the timer for everyone, not just you."
+    "file_permissions_modal.google_confirmation_modal.image_alt_text": {
+        "string": "Google Meetデバイス"
     },
-    "whiteboard.timer.end_timer_go_back_new": {
-        "string": "Cancel"
+    "file_permissions_modal.google_confirmation_modal.subtext": {
+        "string": "現在、キャストできるのはSeries Onesディスプレイのみです。お使いのGoogle Meetデバイスに互換性があるかどうかご確認ください{link}。"
     },
-    "whiteboard.timer.end_timer_button_new": {
-        "string": "Stop timer"
+    "file_permissions_modal.google_confirmation_modal.subtitle": {
+        "string": "オープンセッションを開始しようとしています"
     },
-    "whiteboard.timer.start_timer_tooltip": {
-        "string": "Start timer"
+    "file_permissions_modal.google_screencast_modal.title": {
+        "string": "スクリーンキャストコード"
     },
-    "whiteboard.timer.resume_timer_tooltip": {
-        "string": "Resume timer"
+    "file_permissions_modal.invite": {
+        "string": "招待"
     },
-    "whiteboard.timer.pause_timer_tooltip": {
-        "string": "Pause timer"
+    "file_permissions_modal.invite_sent": {
+        "string": "{num_invites, plural, other {{num_invites}人のユーザー}}"
     },
-    "whiteboard.timer.end_timer_tooltip": {
-        "string": "End timer"
+    "file_permissions_modal.invite_sent_prefix": {
+        "string": "招待済み"
     },
-    "whiteboard.timer.minutes.aria_label": {
-        "string": "Minutes input"
+    "file_permissions_modal.invite_user_sharing_restricted": {
+        "string": "Figmaではこのファイルの共有を制限しています。{supportSharingRestrictedEmail}までメールでお問い合わせください。"
     },
-    "whiteboard.timer.seconds.aria_label": {
-        "string": "Seconds input"
+    "file_permissions_modal.link_copied": {
+        "string": "リンクをコピーしました"
     },
-    "meetings_panel.toolbar.aria_label": {
-        "string": "Timer, music, and voting"
+    "file_permissions_modal.link_has_been_sent": {
+        "string": "リンクを送信しました"
     },
-    "meetings_panel.toolbar.aria_label.no_voting": {
-        "string": "Timer and music"
+    "file_permissions_modal.move_and_allow_edits": {
+        "string": "移動して編集を許可"
     },
-    "meetings_panel.header.overflow_menu_aria_label": {
-        "string": "More options"
+    "file_permissions_modal.pending_user_comment_visual_bell_multiple": {
+        "string": "確認してほしい場所をチームのメンバーにコメントで示します。"
     },
-    "fullscreen.accessibility.view_comments_with_unreads": {
-        "string": "View unread comments"
+    "file_permissions_modal.pending_user_comment_visual_bell_singular": {
+        "string": "確認してほしい場所を{email}にコメントで示します。"
     },
-    "whiteboard.ai_modal.generate_handbrake": {
-        "string": "AI features are currently unavailable—mind trying later?"
+    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file": {
+        "string": "ブランチに招待されているユーザーは、常にメインファイルを閲覧できます。"
     },
-    "whiteboard.ai_summary.nudge.title": {
-        "string": "That’s a lot of stickies!"
+    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration": {
+        "string": "ブランチに招待されたユーザーはメインファイルを常に閲覧できます。メインファイルへのリンクには有効期限が設定されており、有効期限はこのブランチに適用されます。"
     },
-    "whiteboard.ai_summary.nudge.subtitle": {
-        "string": "Let FigJam AI help you summarize it."
+    "file_permissions_modal.people_invited_to_branches_can_always_view_the_main_file_with_expiration_and_password": {
+        "string": "ブランチに招待されたユーザーはメインファイルを常に閲覧できます。メインファイルへのリンクには有効期限とパスワードがあり、このブランチに適用されます。"
     },
-    "whiteboard.ai_summary.nudge.disclaimer": {
-        "string": "AI outputs can be misleading or wrong."
+    "file_permissions_modal.screenshare_to_google_device": {
+        "string": "Google Meetデバイスにキャストする"
     },
-    "whiteboard.ai_summary.nudge.cta": {
-        "string": "Summarize with AI"
+    "file_permissions_modal.screenshare_to_google_device.aria_label": {
+        "string": "ツールチップ"
     },
-    "whiteboard.ai_summary.nudge.too_many_tokens": {
-        "string": "Try with fewer things selected, to start."
+    "file_permissions_modal.screenshare_to_google_device.error_generating_code": {
+        "string": "コードを生成できませんでした。新しいコードを生成するには、[リセット]ボタンを使用してください。"
     },
-    "fullscreen.color_management.curator.default_to_p3.user_color_profile.title": {
-        "string": "Display P3 support is finally here"
+    "file_permissions_modal.screenshare_to_google_device.generic_error": {
+        "string": "Google Meetデバイスにキャストできません。後でもう一度お試しください。"
     },
-    "fullscreen.color_management.curator.step_1of2": {
-        "string": "1 of 2"
+    "file_permissions_modal.screenshare_to_google_device.only_admins": {
+        "string": "上記のユーザーのみがキャストできます"
     },
-    "fullscreen.color_management.curator.change_document_color_profile.title": {
-        "string": "See Display P3 colors in this file"
+    "file_permissions_modal.screenshare_to_google_device.only_pro_teams": {
+        "string": "キャストを行うには、有料プランへのアップグレードが必要です"
     },
-    "general.previous": {
-        "string": "Previous"
+    "file_permissions_modal.screenshare_to_google_device.open_sessions_disabled": {
+        "string": "組織により、キャストが必要なオープンセッションは無効です。"
     },
-    "fullscreen.color_management.curator.step_2of2": {
-        "string": "2 of 2"
+    "file_permissions_modal.secondary_header.go_back": {
+        "string": "戻る"
     },
-    "fullscreen.color_management.curator.default_to_p3.user_color_profile.content": {
-        "string": "Your preferred color profile for new files is now Display P3. To change this to sRGB, go to {colorProfileSetting}."
+    "file_permissions_modal.send": {
+        "string": "送信"
     },
-    "fullscreen.color_management.curator.color_profile_setting": {
-        "string": "Preferences > Color profile"
+    "file_permissions_modal.send_invite": {
+        "string": "招待"
     }
 }

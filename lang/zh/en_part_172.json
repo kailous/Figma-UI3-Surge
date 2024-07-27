@@ -1,152 +1,152 @@
 {
-    "fullscreen.color_controls.green": {
-        "string": "Green"
+    "team_creation.closed_team_description": {
+        "string": "只有成员可以查看文件。需要批准才能加入。"
     },
-    "fullscreen.color_controls.blue": {
-        "string": "Blue"
+    "team_creation.continue": {
+        "string": "继续"
     },
-    "fullscreen.color_controls.saturation": {
-        "string": "Saturation"
+    "team_creation.create_a_team_title": {
+        "string": "创建一个团队"
     },
-    "fullscreen.color_controls.lightness": {
-        "string": "Lightness"
+    "team_creation.create_team": {
+        "string": "创建团队"
     },
-    "fullscreen.color_controls.brightness": {
-        "string": "Brightness"
+    "team_creation.create_team_button": {
+        "string": "创建团队"
     },
-    "fullscreen.properties_panel.choose_video": {
-        "string": "Choose video"
+    "team_creation.edit": {
+        "string": "编辑"
     },
-    "fullscreen.properties_panel.rotate_90": {
-        "string": "Rotate 90º"
+    "team_creation.email": {
+        "string": "电子邮件"
     },
-    "fullscreen.properties_panel.gifs_in_figma_prototypes": {
-        "string": "GIFs in Figma prototypes"
+    "team_creation.finish_setup": {
+        "string": "完成设置"
     },
-    "fullscreen.properties_panel.choose_which_frame_displayed": {
-        "string": "Choose which frame you want displayed in the Editor. See the GIF animate when you present your prototype."
+    "team_creation.hidden": {
+        "string": "隐藏"
     },
-    "fullscreen.properties_panel.exposure": {
-        "string": "Exposure"
+    "team_creation.missing_team_creation_controls": {
+        "string": "您没有权限在此工作区创建团队。"
     },
-    "fullscreen.properties_panel.contrast": {
-        "string": "Contrast"
+    "team_creation.name": {
+        "string": "名称"
     },
-    "fullscreen.properties_panel.saturation": {
-        "string": "Saturation"
+    "team_creation.name_your_team": {
+        "string": "命名您的团队"
     },
-    "fullscreen.properties_panel.temperature": {
-        "string": "Temperature"
+    "team_creation.next": {
+        "string": "下一步"
     },
-    "fullscreen.properties_panel.tint": {
-        "string": "Tint"
+    "team_creation.only_team_members_can_find_and_access": {
+        "string": "只有团队成员可以搜索和访问。"
     },
-    "fullscreen.properties_panel.highlights": {
-        "string": "Highlights"
+    "team_creation.open_team": {
+        "string": "公开团队"
     },
-    "fullscreen.properties_panel.shadows": {
-        "string": "Shadows"
+    "team_creation.open_team_description": {
+        "string": "{orgName}中的所有用户都可以查看文件并加入团队。"
     },
-    "fullscreen.properties_panel.this_file_s_editor_has_disabled_exporting_copying_and_sharing.seat_rename": {
-        "string": "Someone with edit access in this file has disabled exporting, copying, and sharing."
+    "team_creation.optional": {
+        "string": "可选添加描述"
     },
-    "fullscreen.properties_panel.preview": {
-        "string": "Preview"
+    "team_creation.org_modal_title": {
+        "string": "新建团队"
     },
-    "fullscreen.properties_panel.export_title": {
-        "string": "Export {title}"
+    "team_creation.org_modal_title_sc": {
+        "string": "创建团队"
     },
-    "fullscreen.properties_panel.export_this_props_num_selected_layers": {
-        "string": "Export {numSelected} layers"
+    "team_creation.secret_team": {
+        "string": "秘密团队"
     },
-    "fullscreen.properties_panel.section_exports.tooltip_addExportSettings": {
-        "string": "Add export settings"
+    "team_creation.secret_team_description": {
+        "string": "仅对受邀用户可见（管理员可以看到团队名称）。"
     },
-    "fullscreen.export_panel.export_settings": {
-        "string": "Advanced export settings"
+    "team_creation.skip_for_now": {
+        "string": "暂时跳过"
     },
-    "design_systems.instance_swap_picker.search_all_libraries": {
-        "string": "Search all libraries"
+    "team_creation.step_number_of_max_steps": {
+        "string": "步骤 {currentStep}/{totalSteps}"
     },
-    "design_systems.instance_swap_picker.no_components": {
-        "string": "No components"
+    "team_creation.team_description": {
+        "string": "描述"
     },
-    "design_systems.instance_swap_picker.browse_libraries": {
-        "string": "Browse libraries…"
+    "team_creation.team_name_empty": {
+        "string": "请输入团队名称"
     },
-    "design_systems.instance_swap_picker.enabled_libraries": {
-        "string": "Enabled libraries"
+    "team_creation.team_name_input_placeholder": {
+        "string": "添加名称"
     },
-    "design_systems.instance_swap_picker.local_components": {
-        "string": "Local components"
+    "team_creation.team_name_label": {
+        "string": "团队名称"
     },
-    "design_systems.instance_swap_picker.all_libraries": {
-        "string": "All libraries"
+    "team_creation.unassigned_workspace": {
+        "string": "其他团队"
     },
-    "universal_insert.recents": {
-        "string": "Recents"
+    "team_creation.view": {
+        "string": "查看"
     },
-    "design_systems.instance_swap_picker.recently_used": {
-        "string": "Recently used"
+    "team_creation.visibility": {
+        "string": "可见性"
     },
-    "design_systems.instance_swap_picker.preferred": {
-        "string": "Preferred"
+    "team_creation.visible": {
+        "string": "可见"
     },
-    "design_systems.instance_swap_picker.search_preferred": {
-        "string": "Search preferred values"
+    "team_creation.what_they_can_do": {
+        "string": "权限"
     },
-    "design_systems.instance_swap_picker.search_filename": {
-        "string": "Search {filename}"
+    "team_creation.who_has_access": {
+        "string": "谁有权限"
     },
-    "design_systems.instance_swap_picker.search": {
-        "string": "Search"
+    "team_creation.workspace": {
+        "string": "工作区"
     },
-    "design_systems.instance_swap_picker.show_as_grid": {
-        "string": "Show as grid"
+    "team_creation.writer_s_guild_placeholder": {
+        "string": "例如：编剧协会"
     },
-    "design_systems.instance_swap_picker.show_as_list": {
-        "string": "Show as list"
+    "team_creation.you_can_update_user_permissions_on_the_team_page_after_setting_up": {
+        "string": "设置完成后，您可以在团队页面更新用户权限。"
     },
-    "design_systems.instance_panel.variant_missing": {
-        "string": "Variant missing"
+    "team_creation.you_have_created_a_new_team": {
+        "string": "您已创建新团队。"
     },
-    "design_systems.instance_panel.component_missing": {
-        "string": "Component missing"
+    "team_creation.your_team_name_cannot_be_empty": {
+        "string": "团队名称不能为空。"
     },
-    "design_systems.instance_panel.go_to_main_component_nin_library": {
-        "string": "Go to main component\nin library"
+    "team_list.free": {
+        "string": "免费"
     },
-    "fullscreen.properties_panel.fill.show_in_exports": {
-        "string": "Show in exports"
+    "team_list.locked": {
+        "string": "锁定"
     },
-    "fullscreen.properties_panel.fill.selection_colors": {
-        "string": "Selection colors"
+    "team_list.org_join_status_joined": {
+        "string": "已加入"
     },
-    "fullscreen.properties_panel.fill.show_selection_colors": {
-        "string": "Show selection colors"
+    "team_list.org_join_status_leave": {
+        "string": "离开"
     },
-    "fullscreen.properties_panel.fill.see_all_x_library_colors": {
-        "string": "See all {number} library colors"
+    "team_list.pro_trial": {
+        "string": "专业版试用"
     },
-    "fullscreen.properties_panel.fill.see_all_x_colors": {
-        "string": "See all {number} colors"
+    "team_list.pro_trial_expired": {
+        "string": "试用期已过"
     },
-    "fullscreen.properties_panel.fill.include_the_canvas_or_group_background_in_exports": {
-        "string": "Include the canvas or group background in exports"
+    "team_list.pro_trial_expired_tooltip": {
+        "string": "请确保文件数量在初级计划的上限内"
     },
-    "fullscreen.properties_panel.fill.stroke": {
-        "string": "Stroke"
+    "team_list.pro_trial_time_left": {
+        "string": "专业版试用期还剩{daysLeftText}。"
     },
-    "fullscreen.properties_panel.fill.fill": {
-        "string": "Fill"
+    "team_list.pro_trial_time_left_days": {
+        "string": "{daysLeft, plural, other {#天}}"
     },
-    "fullscreen.properties_panel.section_stroke.tooltip_addStroke": {
-        "string": "Add stroke"
+    "team_list.verify_that_youre_a_student_or_educator": {
+        "string": "要继续协作，请验证您是学生或教育工作者"
     },
-    "fullscreen.properties_panel.section_stroke.tooltip_addStrokeFill": {
-        "string": "Add stroke fill"
+    "team_list.your_team_is_over_the_starter_plan_s_file_limit": {
+        "string": "您的团队文件数量已超过初级计划的上限。"
     },
-    "fullscreen.properties_panel.section_fill.tooltip_addFill": {
-        "string": "Add fill"
+    "team_restore.back": {
+        "string": "返回文件"
     }
 }

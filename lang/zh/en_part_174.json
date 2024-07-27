@@ -1,152 +1,152 @@
 {
-    "design_systems.states_panel.some_variants_have_the_same_property_values_applied": {
-        "string": "Some variants have the same property values applied. Change the values of these to resolve this."
+    "upgrade.ready_to_go_beyond_free_plan_upgrade_for_premium_features": {
+        "string": "准备好超越免费计划了吗？升级以使用高级功能。"
     },
-    "design_systems.states_panel.select_conflicting_variants": {
-        "string": "Select conflicting variants"
+    "upgrade.running_out_of_files_in_your_free_team": {
+        "string": "您的免费团队文件即将用完。"
     },
-    "design_systems.states_panel.some_variants_are_missing_properties": {
-        "string": "Some variants are missing properties."
+    "upgrade.try_the_professional_plan": {
+        "string": "试用专业计划"
     },
-    "design_systems.states_panel.components_with_more_than_1000_variants_may_experience_performance_issues": {
-        "string": "Components with more than 1000 variants may experience performance issues. Try breaking out your variants into separate components."
+    "upgrade.upgrade_to_give_your_ideas_and_designs_room_to_grow_without_limits": {
+        "string": "升级以使您的创意和设计无限增长。"
     },
-    "design_systems.states_panel.layer_has_invalid_name": {
-        "string": "{layers, plural, one {This layer has an invalid name. Make sure that all variant names are of the form:} other {These layers have invalid names. Make sure that all variant names are of the form:}}"
+    "upgrade.upgrade_to_professional": {
+        "string": "升级到专业版"
     },
-    "design_systems.states_panel.the_properties_and_values_of_variant_are_conflicting": {
-        "string": "{variants, plural, one {The properties and values of this variant are conflicting. Change the applied values on this variant to resolve this.} other {The properties and values of these variants are conflicting. Change the applied values on this variant to resolve this.}}"
+    "upgrade.view_plans": {
+        "string": "查看计划"
     },
-    "design_systems.states_panel.variants_are_missing_one_or_more_properties": {
-        "string": "{variants, plural, one {This variant is missing one or more properties.} other {These variants are missing one or more properties.}}"
+    "upgrade.your_trial_has_ended": {
+        "string": "试用期已结束。请升级以编辑专业计划创建的文件和项目。"
     },
-    "fullscreen.properties_panel.stroke_settings.path_style": {
-        "string": "Path style"
+    "user_view.disabled_by_your_organization": {
+        "string": "已被您的组织禁用"
     },
-    "fullscreen.properties_panel.stroke_settings.stroke_style": {
-        "string": "Stroke style"
+    "user_view.file_duplicated": {
+        "string": "文件已复制"
     },
-    "fullscreen.properties_panel.stroke_settings.dash": {
-        "string": "Dash"
+    "user_view.file_duplicated_to_your_drafts": {
+        "string": "文件已复制到您的草稿中"
     },
-    "fullscreen.properties_panel.stroke_settings.gap": {
-        "string": "Gap"
+    "user_view.files_duplicated": {
+        "string": "{intArg, number, integer}个文件已复制"
     },
-    "fullscreen.properties_panel.stroke_settings.dashes": {
-        "string": "Dashes"
+    "user_view.files_duplicated_to_your_drafts": {
+        "string": "{intArg, number, integer}个文件已复制到您的草稿中"
     },
-    "fullscreen.properties_panel.stroke_settings.dash_cap": {
-        "string": "Dash cap"
+    "user_view.some_files_duplicated_to_your_drafts": {
+        "string": "部分文件已复制到您的草稿中"
     },
-    "fullscreen.properties_panel.stroke_settings.join": {
-        "string": "Join"
+    "visual_bell.error_finding_destination_folder": {
+        "string": "移动文件时，找到目标文件夹时发生错误。"
     },
-    "fullscreen.properties_panel.stroke_settings.miter_angle": {
-        "string": "Miter angle"
+    "visual_bell.file_move_folder": {
+        "string": "已移动到{folderName}"
     },
-    "fullscreen.properties_panel.stroke_settings.solid": {
-        "string": "Solid"
+    "visual_bell.files_moved_to_folder": {
+        "string": "{fileCount, plural, other {{fileCount}个文件已移动到{folderName}}}"
     },
-    "fullscreen.properties_panel.stroke_settings.simple_dash": {
-        "string": "Dash"
+    "navbar.community.admin_label": {
+        "string": "管理员"
     },
-    "fullscreen.properties_panel.stroke_settings.custom": {
-        "string": "Custom"
+    "navbar.community.browse_community_workspace_switcher_label": {
+        "string": "使用以下账户浏览社区..."
     },
-    "fullscreen.properties_panel.stroke_settings.none": {
-        "string": "None"
+    "navbar.community.community_label": {
+        "string": "社区"
     },
-    "fullscreen.properties_panel.stroke_settings.square": {
-        "string": "Square"
+    "navbar.navbar.community_search_placeholder": {
+        "string": "搜索社区"
     },
-    "fullscreen.properties_panel.stroke_settings.straight": {
-        "string": "Straight"
+    "navbar.navbar.create_new": {
+        "string": "新建"
     },
-    "fullscreen.properties_panel.stroke_settings.elbowed": {
-        "string": "Elbowed"
+    "navbar.navbar.disabled_by_your_admins": {
+        "string": "已被您的管理员禁用"
     },
-    "fullscreen.properties_panel.stroke_settings.dash_gap": {
-        "string": "Dash, gap…"
+    "navbar.navbar.disabled_publish_button_label": {
+        "string": "只有组织管理员可以发布到Figma社区。"
     },
-    "fullscreen.properties_panel.stroke_settings.line_arrow": {
-        "string": "Line arrow"
+    "navbar.navbar.edu": {
+        "string": "教育"
     },
-    "fullscreen.properties_panel.stroke_settings.triangle_arrow": {
-        "string": "Triangle arrow"
+    "navbar.navbar.enterprise": {
+        "string": "企业"
     },
-    "fullscreen.properties_panel.stroke_settings.reversed_triangle": {
-        "string": "Reversed triangle"
+    "navbar.navbar.everything_else_title": {
+        "string": "其他"
     },
-    "fullscreen.properties_panel.stroke_settings.circle_arrow": {
-        "string": "Circle arrow"
+    "navbar.navbar.favorites_title": {
+        "string": "收藏"
     },
-    "fullscreen.properties_panel.stroke_settings.diamond_arrow": {
-        "string": "Diamond arrow"
+    "navbar.navbar.figmascope_button_label": {
+        "string": "FigmaScope"
     },
-    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_line": {
-        "string": "Line"
+    "navbar.navbar.file_browser_search_placeholder": {
+        "string": "搜索文件、团队、用户"
     },
-    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_triangle": {
-        "string": "Triangle"
+    "navbar.navbar.free": {
+        "string": "免费"
     },
-    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_reversed": {
-        "string": "Reversed"
+    "navbar.navbar.guest": {
+        "string": "访客"
     },
-    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_circle": {
-        "string": "Circle"
+    "navbar.navbar.locked": {
+        "string": "已锁定"
     },
-    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_diamond": {
-        "string": "Diamond"
+    "navbar.navbar.logout_button_label": {
+        "string": "登出"
     },
-    "fullscreen.properties_panel.stroke_settings.end_point": {
-        "string": "End point"
+    "navbar.navbar.notifications_disabled_tooltip": {
+        "string": "通知已暂时禁用"
     },
-    "fullscreen.properties_panel.stroke_settings.end_points": {
-        "string": "End points"
+    "navbar.navbar.org": {
+        "string": "组织"
     },
-    "fullscreen.properties_panel.stroke_settings.round_join": {
-        "string": "Round"
+    "navbar.navbar.pro": {
+        "string": "专业"
     },
-    "fullscreen.properties_panel.stroke_settings": {
-        "string": "Stroke settings"
+    "navbar.navbar.pro_trial": {
+        "string": "专业试用"
     },
-    "fullscreen.properties_panel.stroke_settings.advanced_stroke": {
-        "string": "Advanced stroke"
+    "navbar.navbar.publish_button_label": {
+        "string": "发布"
     },
-    "fullscreen.properties_panel.constraints_resizing_panel.hug": {
-        "string": "Hug"
+    "navbar.navbar.refresh_permissions_groups_label": {
+        "string": "刷新权限组"
     },
-    "fullscreen.properties_panel.stack_panel.al.hug_with_value": {
-        "string": "Hug ({value})"
+    "navbar.navbar.storybook_button_label": {
+        "string": "故事书"
     },
-    "fullscreen.properties_panel.constraints_resizing_panel.fill": {
-        "string": "Fill"
+    "navbar.navbar.trial_expired": {
+        "string": "试用期已结束"
     },
-    "fullscreen.properties_panel.stack_panel.al.fill_with_value": {
-        "string": "Fill ({value})"
+    "navbar.navbar.view_only_plans": {
+        "string": "仅查看计划"
     },
-    "fullscreen.properties_panel.constraints_resizing_panel.hug_contents": {
-        "string": "Hug contents"
+    "navbar.profile_switcher.add_account": {
+        "string": "添加账户"
     },
-    "fullscreen.properties_panel.constraints_resizing_panel.fill_container": {
-        "string": "Fill container"
+    "navbar.profile_switcher.community": {
+        "string": "社区资料"
     },
-    "fullscreen.properties_panel.transform_panel.h": {
-        "string": "H"
+    "navbar.profile_switcher.create_a_community_profile": {
+        "string": "创建社区资料"
     },
-    "fullscreen.properties_panel.transform_panel.height": {
-        "string": "Height"
+    "navbar.profile_switcher.external_teams": {
+        "string": "外部团队"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizing": {
-        "string": "Vertical resizing"
+    "navbar.profile_switcher.logout_all_accounts": {
+        "string": "退出所有账户"
     },
-    "fullscreen.properties_panel.transform_panel.height_min_max": {
-        "string": "Height + min/max height"
+    "navbar.profile_switcher.your_teams": {
+        "string": "您的团队"
     },
-    "fullscreen.properties_panel.section_autoLayout.tooltip_verticalResizingMinMaxH": {
-        "string": "Vertical resizing + min/max height"
+    "navbar.settings_dropdown.button_label": {
+        "string": "打开账户下拉菜单"
     },
-    "fullscreen.properties_panel.transform_panel.height_min": {
-        "string": "Height + min height"
+    "navbar.settings_dropdown.desktop_app_cta": {
+        "string": "获取桌面应用"
     }
 }

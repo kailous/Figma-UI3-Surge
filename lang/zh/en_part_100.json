@@ -1,152 +1,152 @@
 {
-    "ai_image_tools.generate.label.architecture": {
-        "string": "Architecture"
+    "dev_handoff.annotations.alignment.top_left": {
+        "string": "左上"
     },
-    "ai_image_tools.generate.placeholder.interior_of_a_beautiful_house_in_liguria_italy": {
-        "string": "Interior of a beautiful house in Liguria, Italy"
+    "dev_handoff.annotations.alignment.top_right": {
+        "string": "右上"
     },
-    "ai_image_tools.generate.label.black_and_white": {
-        "string": "Black & white"
+    "dev_handoff.annotations.all_properties_added": {
+        "string": "所有属性已添加"
     },
-    "ai_image_tools.generate.placeholder.black_and_white_parisian_alleys_at_night": {
-        "string": "Black and white: Parisian alleys at night"
+    "dev_handoff.annotations.auto": {
+        "string": "自动"
     },
-    "ai_image_tools.generate.label.sketch_of": {
-        "string": "Sketch of..."
+    "dev_handoff.annotations.autolayout_horizontal": {
+        "string": "水平"
     },
-    "ai_image_tools.generate.placeholder.quick_sketch_of_a_quiet_borough": {
-        "string": "Quick sketch of a quiet borough"
+    "dev_handoff.annotations.autolayout_mode": {
+        "string": "方向"
     },
-    "ai_image_tools.generate.label.long_exposure": {
-        "string": "Long exposure"
+    "dev_handoff.annotations.autolayout_vertical": {
+        "string": "垂直"
     },
-    "ai_image_tools.generate.placeholder.long_exposure_of_a_bustling_city": {
-        "string": "Long exposure of a bustling city"
+    "dev_handoff.annotations.component": {
+        "string": "组件"
     },
-    "ai_image_tools.generate.label.film_grain": {
-        "string": "Film grain"
+    "dev_handoff.annotations.delete": {
+        "string": "删除注释"
     },
-    "ai_image_tools.generate.placeholder.cinque_terre_sunset_on_a_grainy_film_stock": {
-        "string": "Cinque Terre, sunset, on a grainy film stock"
+    "dev_handoff.annotations.font_size": {
+        "string": "字体大小"
     },
-    "ai_image_tools.generate.label.macro_shot": {
-        "string": "Macro shot"
+    "dev_handoff.annotations.image": {
+        "string": "图片"
     },
-    "ai_image_tools.generate.placeholder.macro_shot_of_a_lovely_ladybug": {
-        "string": "Macro shot of a lovely ladybug"
+    "dev_handoff.annotations.multiple": {
+        "string": "多个"
     },
-    "ai_image_tools.generate.label.delicious": {
-        "string": "Delicious"
+    "dev_handoff.annotations.no_value": {
+        "string": "无值"
     },
-    "ai_iamge_tools.generate.placeholder.sushi": {
-        "string": "Close on: sushi, rolled perfectly"
+    "dev_handoff.annotations.pin_properties_label": {
+        "string": "属性"
     },
-    "ai_image_tools.generate.placeholder.smoothie": {
-        "string": "A healthy smoothie: nuts, banana, the works"
+    "dev_handoff.annotations.pin_properties_tooltip": {
+        "string": "固定属性"
     },
-    "ai_image_tools.generate.label.profile_pic": {
-        "string": "Profile pic"
+    "dev_handoff.annotations.remove_property": {
+        "string": "删除属性"
     },
-    "ai_image_tools.generate.placeholder.claymation": {
-        "string": "User’s profile pic, with a claymation style"
+    "dev_handoff.annotations.shadow": {
+        "string": "阴影"
     },
-    "ai_image_tools.generate.placeholder.ink": {
-        "string": "User’s profile pic, as an ink illo"
+    "dev_handoff.annotations.text_align": {
+        "string": "文本对齐"
     },
-    "ai_image_tools.generate.placeholder.poster": {
-        "string": "Mockup of a poster on a wall"
+    "dev_handoff.annotations.text_style": {
+        "string": "文本样式"
     },
-    "ai_image_tools.generate.placeholder.billboard": {
-        "string": "Mockup: a billboard over Harajuku"
+    "dev_handoff.annotations.video": {
+        "string": "视频"
     },
-    "ai_image_tools.generate.label.abstract": {
-        "string": "Abstract"
+    "dev_handoff.annotations_introduction_overlay.description": {
+        "string": "通过在开发模式下为设计添加注释和尺寸，可以清晰地传达您正在构建的内容。"
     },
-    "ai_image_tools.generate.placeholder.abstract_northern_lights": {
-        "string": "An abstract background—like the Northern Lights"
+    "dev_handoff.annotations_introduction_overlay.image_alt": {
+        "string": "附有尺寸和注释文本的设计。"
     },
-    "ai_image_tools.generate.placeholder.abstract_gradient": {
-        "string": "A background of soft, abstract gradients"
+    "dev_handoff.annotations_introduction_overlay.primary_cta": {
+        "string": "显示"
     },
-    "ai_image_tools.generate.label.texture": {
-        "string": "Texture"
+    "dev_handoff.annotations_introduction_overlay.title": {
+        "string": "开发模式注释"
     },
-    "ai_image_tools.generate.placeholder.light_refracting": {
-        "string": "Light refracting through a pool"
+    "dev_handoff.annotations_tools_overlay.annotations.description": {
+        "string": "您可以为重要属性加标签，或在图层上添加注释以进行详细说明。"
     },
-    "ai_image_tools.generate.placeholder.linen": {
-        "string": "Linen, grayish blue—a classic texture"
+    "dev_handoff.annotations_tools_overlay.annotations.title": {
+        "string": "添加注释和属性标签"
     },
-    "magic_link.remove": {
-        "string": "Remove"
+    "dev_handoff.annotations_tools_overlay.measurements.description": {
+        "string": "通过拖动测量工具在画布上显示重要的尺寸。"
     },
-    "proto.action_navigate_to_layer": {
-        "string": "Navigate to {layerName}"
+    "dev_handoff.annotations_tools_overlay.measurements.title": {
+        "string": "突出显示重要尺寸"
     },
-    "ai.error.rate_limited": {
-        "string": "Rate limit exceeded"
+    "dev_handoff.annotations_upsell_overlay.description": {
+        "string": "此文件包含注释。注释是开发模式的一项功能，可以轻松查看详细信息。"
     },
-    "ai.error.unsafe_or_harmful": {
-        "string": "Blocked — try different input"
+    "dev_handoff.annotations_upsell_overlay.primary_cta": {
+        "string": "打开开发模式"
     },
-    "ai.error.generic": {
-        "string": "Something went wrong"
+    "dev_handoff.annotations_upsell_overlay.secondary_cta": {
+        "string": "稍后"
     },
-    "ai.error.offline": {
-        "string": "Couldn't connect"
+    "dev_handoff.annotations_upsell_overlay.title": {
+        "string": "注释"
     },
-    "ai.limit_reached": {
-        "string": "Can’t use again until {resetDate, date, medium}"
+    "dev_handoff.assets": {
+        "string": "资产"
     },
-    "ai.try_again": {
-        "string": "Try again"
+    "dev_handoff.assets.gif": {
+        "string": "GIF"
     },
-    "ai.go_back": {
-        "string": "Go back"
+    "dev_handoff.assets.icon": {
+        "string": "图标"
     },
-    "ai.ok": {
-        "string": "Ok"
+    "dev_handoff.assets.image": {
+        "string": "图片"
     },
-    "ai.learn_more": {
-        "string": "Learn more"
+    "dev_handoff.assets.instance": {
+        "string": "组件实例"
     },
-    "qa.additional_feedback": {
-        "string": "Additional feedback"
+    "dev_handoff.assets.show_more": {
+        "string": "显示更多{count}个资产"
     },
-    "qa.feeback_thank_you": {
-        "string": "Thanks for your feedback!"
+    "dev_handoff.assets.video": {
+        "string": "视频"
     },
-    "qa.rate_output": {
-        "string": "How does this look?"
+    "dev_handoff.autorun_confirm_modal.cancel": {
+        "string": "取消"
     },
-    "qa.thumbs_up": {
-        "string": "Thumbs up action"
+    "dev_handoff.autorun_confirm_modal.confirm_replace": {
+        "string": "将自动运行{newPluginName}替换为{orgName}的管理员当前设置的{orgPluginName}。"
     },
-    "qa.thumbs_down": {
-        "string": "Thumbs down action"
+    "dev_handoff.autorun_confirm_modal.dont_enable": {
+        "string": "不要启用"
     },
-    "qa.how_was_your_experience": {
-        "string": "How was your experience?"
+    "dev_handoff.autorun_confirm_modal.enable_auto_run": {
+        "string": "启用自动运行"
     },
-    "qa.we_use_this_to_improve": {
-        "string": "We use this to improve our AI features."
+    "dev_handoff.autorun_confirm_modal.enable_auto_run_desc": {
+        "string": "{orgName}的管理员已设置为在打开文件时自动运行{orgPluginName}，但该设置已被禁用。要重新启用{orgPluginName}的自动运行吗？"
     },
-    "qa.submit_feedback_placeholder": {
-        "string": "A short description of your experience"
+    "dev_handoff.autorun_confirm_modal.replace": {
+        "string": "替换"
     },
-    "qa.submit_feedback": {
-        "string": "Submit feedback"
+    "dev_handoff.autorun_confirm_modal.stop_auto_run": {
+        "string": "停止自动运行"
     },
-    "ai.cancel": {
-        "string": "Cancel"
+    "dev_handoff.autorun_confirm_modal.stop_auto_run_desc": {
+        "string": "在打开文件时将不再自动运行{currentAutoRunPluginName}。"
     },
-    "ai.n_selected": {
-        "string": "{n} selected"
+    "dev_handoff.autorun_confirm_modal.stop_auto_run_from_org": {
+        "string": "{orgName}的管理员已设置为自动运行{orgPluginName}，但在打开文件时将不再自动运行该插件。"
     },
-    "ai.done": {
-        "string": "Done!"
+    "dev_handoff.autorun_confirm_modal.title_enable_auto_run": {
+        "string": "启用{pluginName}的自动运行吗？"
     },
-    "ai.make_changes": {
-        "string": "Make changes"
+    "dev_handoff.autorun_confirm_modal.title_replace_auto_run": {
+        "string": "替换自动运行的插件吗？"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "slides.templates.toast.no_longer_available": {
-        "string": "Template no longer available"
+    "plugins.cannot_run_widget_logged_out": {
+        "string": "ログアウト中は、ウィジェットを実行できません"
     },
-    "slides.templates.search.empty": {
-        "string": "Couldn't find templates for {searchTerm}."
+    "plugins.error_loading_environment_plugin": {
+        "string": "プラグイン環境の読み込み中にエラーが発生しました"
     },
-    "slides.templates.search.empty.tip": {
-        "string": "Try clearing your search and browsing instead."
+    "plugins.error_loading_environment_widget": {
+        "string": "ウィジェット環境の読み込み中にエラーが発生しました"
     },
-    "slides.templates.file_picker.no_files_match": {
-        "string": "No files matching {searchQuery}"
+    "plugins.error_occured_while_running_plugin": {
+        "string": "このプラグインの実行中にエラーが発生しました"
     },
-    "slides.templates.file_picker.no_recent_files": {
-        "string": "Recent FigJam files will appear here. For now, search for one instead."
+    "plugins.error_occured_while_running_widget": {
+        "string": "このウィジェットの実行中にエラーが発生しました"
     },
-    "slides.templates.file_picker.search_files": {
-        "string": "Search FigJam files..."
+    "plugins.loading_pages_for_plugin": {
+        "string": "{numUnloadedPages, plural, other {プラグイン用の{numUnloadedPages}ページを読み込んでいます...}}"
     },
-    "slides.templates.file_picker.title": {
-        "string": "Choose a FigJam board to summarize"
+    "plugins.loading_pages_for_widget": {
+        "string": "{numUnloadedPages, plural, other {ウィジェット用の{numUnloadedPages}ページを読み込んでいます...}}"
     },
-    "slides.templates.file_picker.subtitle": {
-        "string": "Then we’ll turn that summary into an outline for a new deck."
+    "plugins.loading_plugin": {
+        "string": "{pluginName}を読み込んでいます..."
     },
-    "slides.templates.template_picker.submit.button.with_template": {
-        "string": "Create outline"
+    "plugins.no_code_found_for_plugin": {
+        "string": "プラグインのバージョンのコードが見つかりません"
     },
-    "slides.templates.template_picker.submit.button.without_template": {
-        "string": "Create outline without template"
+    "plugins.no_code_found_for_widget": {
+        "string": "ウィジェットのバージョンのコードが見つかりません"
     },
-    "slides.templates.outline_with_template.button": {
-        "string": "Create an outline"
+    "presets.a_4": {
+        "string": "A4"
     },
-    "slides.templates.use_template": {
-        "string": "Use template"
+    "presets.a_5": {
+        "string": "A5"
     },
-    "slides.templates.file_picker.submit_button.generate": {
-        "string": "Create outline"
+    "presets.a_6": {
+        "string": "A6"
     },
-    "slides.templates.file_picker.submit_button.pick_template": {
-        "string": "Next: Pick a template"
+    "presets.android_large": {
+        "string": "Android(大)"
     },
-    "slides.templates.view_template": {
-        "string": "View template"
+    "presets.android_small": {
+        "string": "Android(小)"
     },
-    "slides.templates.start_from.scratch.title": {
-        "string": "Start from scratch"
+    "presets.apple_watch_38_mm": {
+        "string": "Apple Watch 38mm"
     },
-    "slides.templates.view_type.see_all": {
-        "string": "See all"
+    "presets.apple_watch_40_mm": {
+        "string": "Apple Watch 40mm"
     },
-    "slides.templates.dev_environment_only": {
-        "string": "Dev environment only"
+    "presets.apple_watch_41_mm": {
+        "string": "Apple Watch 41mm"
     },
-    "slides.templates.light": {
-        "string": "Light"
+    "presets.apple_watch_42_mm": {
+        "string": "Apple Watch 42mm"
     },
-    "slides.templates.dark": {
-        "string": "Dark"
+    "presets.apple_watch_44_mm": {
+        "string": "Apple Watch 44mm"
     },
-    "slides.templates.theme_picker.org_template_header": {
-        "string": "{orgName} templates"
+    "presets.apple_watch_45_mm": {
+        "string": "Apple Watch 45mm"
     },
-    "slides.templates.start_from.scratch.subtitle": {
-        "string": "Blank slides"
+    "presets.blank_canvas": {
+        "string": "空白のキャンバス"
     },
-    "slides.templates.start_from.outline.title": {
-        "string": "Start with an outline"
+    "presets.desktop": {
+        "string": "デスクトップ"
     },
-    "slides.templates.start_from.outline.subtitle": {
-        "string": "Summarize a FigJam board"
+    "presets.device_panel.device": {
+        "string": "デバイス"
     },
-    "dev_handoff.paywall.ready_for_dev.upsell": {
-        "string": "Get Dev Mode access to inspect and manage what’s ready to build."
+    "presets.device_panel.device_height_tooltip": {
+        "string": "デバイスの高さ"
     },
-    "dev_handoff.paywall.codegen.upsell": {
-        "string": "Generate code for Tailwind, React, and more in Dev Mode"
+    "presets.device_panel.device_width_tooltip": {
+        "string": "デバイスの幅"
     },
-    "dev_handoff.paywall.annotations.upsell": {
-        "string": "Get the details just right with annotations in Dev Mode"
+    "presets.device_panel.model": {
+        "string": "モデル"
     },
-    "visual_bell.copy_link_to_sticky": {
-        "string": "Copied link to sticky"
+    "presets.device_panel.preview": {
+        "string": "プレビュー"
     },
-    "visual_bell.copy_link_to_connector": {
-        "string": "Copied link to connector"
+    "presets.device_panel.prototype_settings": {
+        "string": "プロトタイプ設定"
     },
-    "visual_bell.copy_link_to_widget": {
-        "string": "Copied link to widget"
+    "presets.dribbble_shot": {
+        "string": "Dribbbleショット"
     },
-    "visual_bell.copy_link_to_stamp": {
-        "string": "Copied link to stamp"
+    "presets.dribbble_shot_hd": {
+        "string": "DribbbleショットHD"
     },
-    "visual_bell.copy_link_to_section": {
-        "string": "Copied link to section"
+    "presets.facebook_cover": {
+        "string": "Facebookカバー"
     },
-    "visual_bell.copy_link_to_text": {
-        "string": "Copied link to text"
+    "presets.facebook_post": {
+        "string": "Facebook投稿"
     },
-    "visual_bell.copy_link_to_table": {
-        "string": "Copied link to table"
+    "presets.google_nexus_5x": {
+        "string": "Google Nexus 5X"
     },
-    "visual_bell.copy_link_to_washi_tape": {
-        "string": "Copied link to washi tape"
+    "presets.google_pixel_2": {
+        "string": "Google Pixel 2"
     },
-    "visual_bell.copy_link_to_shape": {
-        "string": "Copied link to shape"
+    "presets.google_pixel_2_xl": {
+        "string": "Google Pixel 2 XL"
     },
-    "visual_bell.copy_link_to_instance": {
-        "string": "Copied link to sticker"
+    "presets.i_mac": {
+        "string": "iMac"
     },
-    "visual_bell.copy_link": {
-        "string": "Copied link"
+    "presets.i_pad_9_7": {
+        "string": "iPad 9.7\""
     },
-    "whiteboard.section_preset_picker.confirmation_modal.header": {
-        "string": "Switch templates?"
+    "presets.i_pad_mini": {
+        "string": "iPad mini"
     },
-    "whiteboard.section_preset_picker.confirmation_modal.description": {
-        "string": "Heads up: this will overwrite any content you or your teammates have added."
+    "presets.i_pad_mini_5": {
+        "string": "iPad mini 5"
     },
-    "whiteboard.section_preset_picker.confirmation_modal.confirm_text": {
-        "string": "Switch templates"
+    "presets.i_pad_mini_8_3": {
+        "string": "iPad mini 8.3"
     },
-    "whiteboard.section_preset_picker.confirmation_modal.cancel_text": {
-        "string": "Cancel"
+    "presets.i_pad_pro_10_5": {
+        "string": "iPad Pro 10.5\""
     },
-    "whiteboard.section_preset_picker.shelf.thumbnail": {
-        "string": "Community shelf thumbnail"
+    "presets.i_pad_pro_11": {
+        "string": "iPad Pro 11\""
     },
-    "dev_handoff.status.menu_note_button": {
-        "string": "Done with changes"
+    "presets.i_pad_pro_12_9": {
+        "string": "iPad Pro 12.9\""
     },
-    "dev_handoff.status.menu_note_placeholder": {
-        "string": "Let developers know what changed (optional)"
+    "presets.i_phone_11": {
+        "string": "iPhone 11"
     },
-    "qa.no_ai.title": {
-        "string": "Figma AI is almost here"
+    "presets.i_phone_11_pro": {
+        "string": "iPhone 11 Pro"
     },
-    "qa.no_ai.title.personal_draft": {
-        "string": "AI features show up right here"
+    "presets.i_phone_11_pro_max": {
+        "string": "iPhone 11 Pro Max"
     },
-    "qa.no_ai.subtitle.personal_draft": {
-        "string": "To use Figma AI with this file, though, you'll need to move it out of your drafts."
+    "presets.i_phone_11_pro_x": {
+        "string": "iPhone 11 Pro / X"
     },
-    "qa.no_ai.title.org_disabled": {
-        "string": "Soon, you'll find Figma AI right here"
+    "presets.i_phone_13": {
+        "string": "iPhone 13"
     },
-    "qa.no_ai.subtitle.org_disabled": {
-        "string": "Ask your admins to turn on AI features. You'll see them here, just as soon as they've rolled out."
+    "presets.i_phone_13_13_pro": {
+        "string": "iPhone 13/13 Pro"
     }
 }

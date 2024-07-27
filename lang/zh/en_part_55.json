@@ -1,152 +1,152 @@
 {
-    "plan_comparison.chart.password_protection.name": {
-        "string": "Password protection"
+    "community.detail_view.plugin_open_devmode": {
+        "string": "在开发模式中打开"
     },
-    "plan_comparison.chart.password_protection.details": {
-        "string": "Set a password on files to control your work’s visibility."
+    "community.detail_view.prototype": {
+        "string": "原型"
     },
-    "plan_comparison.chart.default_roles.name": {
-        "string": "Default roles"
+    "community.detail_view.ratings": {
+        "string": "{totalRatings, plural, other {{totalRatings}条评价}}"
     },
-    "plan_comparison.chart.default_roles.details": {
-        "string": "Set a default role for new team members to control plan costs."
+    "community.detail_view.read_more": {
+        "string": "阅读更多"
     },
-    "plan_comparison.chart.open_sessions.name": {
-        "string": "Open sessions"
+    "community.detail_view.recent_files": {
+        "string": "最近文件"
     },
-    "plan_comparison.chart.voting.name": {
-        "string": "Voting"
+    "community.detail_view.remove_myself_as_creator": {
+        "string": "将自己移除为创建者"
     },
-    "plan_comparison.chart.custom_templates_v2.name": {
-        "string": "Custom templates"
+    "community.detail_view.report_resource": {
+        "string": "报告资源"
     },
-    "plan_comparison.chart.custom_color_palettes.name": {
-        "string": "Custom color palettes"
+    "community.detail_view.resource_outside_of_figma": {
+        "string": "此资源需要在Figma外结算。"
     },
-    "plan_comparison.chart.shared_fonts.name": {
-        "string": "Shared fonts"
+    "community.detail_view.restricted_network_access": {
+        "string": "受限的网络访问"
     },
-    "plan_comparison.chart.shared_fonts.details": {
-        "string": "Put your organization’s fonts in Figma for everyone to use."
+    "community.detail_view.restricted_plugin_network_access": {
+        "string": "此插件仅能访问以下域名。"
     },
-    "plan_comparison.chart.centralized_admin.name": {
-        "string": "Centralized admin"
+    "community.detail_view.restricted_widget_network_access": {
+        "string": "此小部件仅能访问以下域名。"
     },
-    "plan_comparison.chart.centralized_admin.details": {
-        "string": "Bring multiple teams together under one central Figma account; manage users and billing in one place."
+    "community.detail_view.see_all": {
+        "string": "查看全部({ratingCount})"
     },
-    "plan_comparison.chart.domain_capture.name": {
-        "string": "Domain capture"
+    "community.detail_view.share": {
+        "string": "分享"
     },
-    "plan_comparison.chart.domain_capture.details": {
-        "string": "Automatically add anyone with a verified email address to your organization."
+    "community.detail_view.show_less": {
+        "string": "显示较少"
     },
-    "plan_comparison.chart.link_access_control.name": {
-        "string": "Link access control"
+    "community.detail_view.slide_template": {
+        "string": "Figma Slides"
     },
-    "plan_comparison.chart.link_access_control.details": {
-        "string": "Limit sharing files outside your organization."
+    "community.detail_view.star": {
+        "string": "{starCount}星"
     },
-    "plan_comparison.chart.centralized_content_management.name": {
-        "string": "Centralized content management"
+    "community.detail_view.support_contact": {
+        "string": "支持: {supportContact}"
     },
-    "plan_comparison.chart.centralized_content_management.details": {
-        "string": "All files and drafts are owned by your organization and recoverable at any time."
+    "community.detail_view.tags": {
+        "string": "标签"
     },
-    "plan_comparison.chart.activity_logs.name": {
-        "string": "Activity logs"
+    "community.detail_view.third_party_badge.figma_partner": {
+        "string": "Figma合作伙伴"
     },
-    "plan_comparison.chart.activity_logs.details": {
-        "string": "See how your team is using Figma."
+    "community.detail_view.third_party_badge.figma_partner_tooltip": {
+        "string": "需要单独登录"
     },
-    "plan_comparison.chart.plugin_widget_management.name": {
-        "string": "Plugin/widget management"
+    "community.detail_view.third_party_badge.off_platform": {
+        "string": "第三方结算"
     },
-    "plan_comparison.chart.plugin_widget_management.details": {
-        "string": "Approve and manage plugin and widget approval requests from your team."
+    "community.detail_view.third_party_badge.off_platform_purchase_tooltip": {
+        "string": "此资源需要用户在Figma外部购买。"
     },
-    "plan_comparison.chart.dev_mode_v2.name": {
-        "string": "Dev Mode"
+    "community.detail_view.to_calculate_ratings": {
+        "string": "评价计算会考虑所有已验证的客户评论。无法验证的评论不会纳入资源的平均评分计算。"
     },
-    "plan_comparison.chart.dev_mode_v2.details": {
-        "string": "Dev Mode is a new space in Figma for developers with features that help you translate design into code, faster."
+    "community.detail_view.try_it_out": {
+        "string": "试用"
     },
-    "plan_comparison.chart.audio_conversations_v2.name": {
-        "string": "Audio conversation"
+    "community.detail_view.ui_kit": {
+        "string": "UI套件"
     },
-    "plan_comparison.chart.audio_conversations_v2.details": {
-        "string": "Talk with collaborators about your work while in your files."
+    "community.detail_view.universal": {
+        "string": "适用于所有产品和模式"
     },
-    "plan_comparison.chart.design_system_analytics_v2.name": {
-        "string": "Design system analytics"
+    "community.detail_view.unknown_network_access": {
+        "string": "未知的网络访问"
     },
-    "plan_comparison.chart.design_system_analytics_v2.details": {
-        "string": "Track usage metrics to measure your design system’s impact."
+    "community.detail_view.unrestricted_network_access": {
+        "string": "无限制的网络访问"
     },
-    "plan_comparison.chart.single_sign_on_v2.name": {
-        "string": "Single sign-on (SSO)"
+    "community.detail_view.unrestricted_plugin_network_access": {
+        "string": "此插件可以访问任何域名。"
     },
-    "plan_comparison.chart.single_sign_on_v2.details": {
-        "string": "Set up SAML single sign-on, enforce SSO for all team members, and manage provisioning via SCIM."
+    "community.detail_view.unrestricted_widget_network_access": {
+        "string": "此小部件可以访问任何域名。"
     },
-    "plan_comparison.chart.private_plugins_v2.name": {
-        "string": "Private plugins"
+    "community.detail_view.unspecified_plugin_network_access": {
+        "string": "创建者未指定此插件的网络访问方式。"
     },
-    "plan_comparison.chart.private_plugins_v2.details": {
-        "string": "Create private plugins for your organization to use."
+    "community.detail_view.unspecified_widget_network_access": {
+        "string": "创建者未指定此小部件的网络访问方式。"
     },
-    "plan_comparison.chart.usage_limits.unlimited": {
-        "string": "Unlimited files, pages, and projects"
+    "community.detail_view.want_to_sell_resources": {
+        "string": "想在社区中出售这样的资源吗？"
     },
-    "plan_comparison.chart.usage_limits_v2.unlimited": {
-        "string": "Unlimited files and projects"
+    "community.detail_view.widget": {
+        "string": "小部件"
     },
-    "plan_comparison.chart.libraries.team_wide": {
-        "string": "Team-wide"
+    "community.detail_view.you_have_been_added_as_a_creator_of_this_resource": {
+        "string": "你已被添加为此资源的创建者。"
     },
-    "plan_comparison.chart.usage_limits_limited_pages.starter": {
-        "string": "{maxFreeFiles} files, limited pages, and {maxFreeProjects} project"
+    "community.detail_view.you_have_been_added_as_a_publisher_of_this_resource": {
+        "string": "你已被添加为此资源的发布者。"
     },
-    "plan_comparison.chart.usage_limits.starter": {
-        "string": "{maxFreeFiles} files, {maxFreePages} pages, and {maxFreeProjects} project"
+    "community.duplicate.duplicate": {
+        "string": "复制"
     },
-    "plan_comparison.chart.version_history.starter": {
-        "string": "30 days only"
+    "community.duplicate.open": {
+        "string": "打开"
     },
-    "plan_comparison.chart.usage_limits_v2.unlimited_teams": {
-        "string": "Unlimited teams, files, and projects"
+    "community.duplicate.open_in_figjam": {
+        "string": "在FigJam中打开"
     },
-    "plan_comparison.chart.libraries.org_wide": {
-        "string": "Org-wide"
+    "community.duplicate.open_in_figma": {
+        "string": "在Figma中打开"
     },
-    "plan_comparison.chart.shared_libraries.organization_wide": {
-        "string": "Organization-wide"
+    "community.duplicate.to_duplicate_switch_to_your_personal_profile": {
+        "string": "要复制，请切换到个人资料"
     },
-    "plan_comparison.chart.shared_libraries.company_wide": {
-        "string": "Company-wide"
+    "community.duplicate_modal.continue_to_file": {
+        "string": "继续到文件"
     },
-    "plan_comparison.plans.pro.choose_professional": {
-        "string": "Choose Professional"
+    "community.duplicate_modal.youre_all_set": {
+        "string": "一切就绪！"
     },
-    "plan_comparison.plans.org.choose_organization": {
-        "string": "Choose Organization"
+    "community.duplicate_modal.youve_verified_your_email_at": {
+        "string": "已在{userEmail}验证了你的邮箱。"
     },
-    "plan_comparison.chart.custom_color_palettes.details_with_callout": {
-        "string": "Set your brand colors as default when working in a {figJamCallout}."
+    "community.embed.preview_title": {
+        "string": "预览"
     },
-    "plan_comparison.chart.callout.figjam_board": {
-        "string": "FigJam board"
+    "community.embed.preview_title_long": {
+        "string": "社区资源预览"
     },
-    "plan_comparison.chart.custom_templates_v2.details_with_callout": {
-        "string": "Make your own {figJamCallout} templates and share them with your organization."
+    "community.error.an_error_has_occurred_please_refresh_the_page_and_try_again": {
+        "string": "发生错误。请刷新页面并重试。"
     },
-    "plan_comparison.chart.callout.figjam": {
-        "string": "FigJam"
+    "community.error.could_not_complete_search": {
+        "string": "无法完成搜索。{error}"
     },
-    "plan_comparison.chart.open_sessions.details_with_callout": {
-        "string": "Invite anyone to join your {figJamCallout} for 24 hours—with no login needed, and unlimited sessions."
+    "community.error.profile_not_found": {
+        "string": "未找到资料"
     },
-    "plan_comparison.chart.voting.details_with_callout": {
-        "string": "Vote on ideas right in your {figJamCallout}."
+    "community.error.search_request_failed": {
+        "string": "搜索请求失败"
     }
 }

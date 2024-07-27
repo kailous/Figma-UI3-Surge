@@ -1,152 +1,152 @@
 {
-    "community.permissions_modal_publish_tab.footer.cannot_publish_remix": {
-        "string": "You can't republish a file duplicated from Community."
+    "fullscreen.properties_panel.stroke_settings.path_style": {
+        "string": "路径样式"
     },
-    "publishing.community.menu.description.disabled": {
-        "string": "Only admins can publish files to the Figma Community. {link}"
+    "fullscreen.properties_panel.stroke_settings.reversed_triangle": {
+        "string": "倒三角形"
     },
-    "publishing.community.menu.description.unpublished_no_remix": {
-        "string": "Let anyone in the world duplicate this file from the Figma Community."
+    "fullscreen.properties_panel.stroke_settings.round": {
+        "string": "圆形"
     },
-    "role_row.you": {
-        "string": "{name} {you}"
+    "fullscreen.properties_panel.stroke_settings.round_join": {
+        "string": "圆形连接"
     },
-    "role_row.you_label_lowercase": {
-        "string": " (you)"
+    "fullscreen.properties_panel.stroke_settings.simple_dash": {
+        "string": "简易虚线"
     },
-    "whiteboard.open_sessions.share_modal_start_session_with_link_and_password": {
-        "string": "In open sessions, {audience} can access and edit this file even if they don't have a Figma account."
+    "fullscreen.properties_panel.stroke_settings.solid": {
+        "string": "实线"
     },
-    "whiteboard.open_sessions.share_modal_start_session_anyone_with_link_and_password": {
-        "string": "anyone with the link and password"
+    "fullscreen.properties_panel.stroke_settings.square": {
+        "string": "方形"
     },
-    "whiteboard.open_sessions.share_modal_start_session_with_link": {
-        "string": "During the session, anyone with the link can edit the file—even if they don't have an account."
+    "fullscreen.properties_panel.stroke_settings.straight": {
+        "string": "直线"
     },
-    "whiteboard.open_sessions.share_modal_how_to_end_session": {
-        "string": "The session will end automatically after 24 hours, but you can end it earlier by clicking {share} then {end_now}."
+    "fullscreen.properties_panel.stroke_settings.stroke_style": {
+        "string": "线条样式"
     },
-    "whiteboard.open_sessions.share_modal_start_session_share": {
-        "string": "Share"
+    "fullscreen.properties_panel.stroke_settings.triangle_arrow": {
+        "string": "三角形箭头"
     },
-    "whiteboard.open_sessions.share_modal_start_session_end_now": {
-        "string": "End now"
+    "fullscreen.properties_panel.style": {
+        "string": "样式"
     },
-    "whiteboard.open_sessions.end_open_session_modal_description": {
-        "string": "This will remove anyone from the file who isn’t a member of your team or organization."
+    "fullscreen.properties_panel.styles": {
+        "string": "样式"
     },
-    "whiteboard.open_sessions.open_sessions_start": {
-        "string": "Start"
+    "fullscreen.properties_panel.styles_description": {
+        "string": "要组合多个颜色填充，请使用样式。要对应模式（如浅色、深色等）的单一颜色值，请使用颜色变量。"
     },
-    "whiteboard.open_sessions.open_sessions_cancel": {
-        "string": "Cancel"
+    "fullscreen.properties_panel.temperature": {
+        "string": "温度"
     },
-    "whiteboard.open_sessions.end_open_session_modal_title": {
-        "string": "End open session now?"
+    "fullscreen.properties_panel.this_file_s_editor_has_disabled_exporting_copying_and_sharing.seat_rename": {
+        "string": "此文件的编辑者已禁用导出、复制和共享功能。"
     },
-    "rcs.sharing_clarity.branch_modal.title": {
-        "string": "Simpler access for branches"
+    "fullscreen.properties_panel.tint": {
+        "string": "色调"
     },
-    "rcs.sharing_clarity.branch_modal.body_text": {
-        "string": "No more maintaining two types of access—branch access now matches the main file."
+    "fullscreen.properties_panel.transform_panel.absolute_position": {
+        "string": "绝对位置"
     },
-    "rcs.sharing_clarity.prototype_modal.title": {
-        "string": "Control prototype access separately"
+    "fullscreen.properties_panel.transform_panel.bottom_left_corner_radius": {
+        "string": "左下角半径"
     },
-    "rcs.sharing_clarity.prototype_modal.body_text": {
-        "string": "Now you can define who gets access to the prototype—but not the main file."
+    "fullscreen.properties_panel.transform_panel.bottom_right_corner_radius": {
+        "string": "右下角半径"
     },
-    "file_permissions_modal.file_name_s_team": {
-        "string": "{fileName}'s Team"
+    "fullscreen.properties_panel.transform_panel.clip_content": {
+        "string": "剪裁内容"
     },
-    "permissions.level_name.can_view": {
-        "string": "can view"
+    "fullscreen.properties_panel.transform_panel.constrain_proportions": {
+        "string": "固定比例"
     },
-    "permissions.level_name.can_access": {
-        "string": "can access"
+    "fullscreen.properties_panel.transform_panel.corner_radius": {
+        "string": "角半径"
     },
-    "templates.confirmation.move_from_drafts.title": {
-        "string": "Move out of drafts"
+    "fullscreen.properties_panel.transform_panel.corner_radius_details": {
+        "string": "角半径详情"
     },
-    "templates.confirmation.move_from_drafts.description": {
-        "string": "To publish this file as a template, you’ll need to move it out of your drafts."
+    "fullscreen.properties_panel.transform_panel.corner_smoothing": {
+        "string": "角平滑"
     },
-    "templates.confirmation.move_from_drafts.button": {
-        "string": "Move file"
+    "fullscreen.properties_panel.transform_panel.count": {
+        "string": "计数"
     },
-    "templates.move_from_drafts.bell.action": {
-        "string": "Publish template"
+    "fullscreen.properties_panel.transform_panel.h": {
+        "string": "高度"
     },
-    "community.permissions_modal_publish_tab.footer.your_file_has_not_been_published": {
-        "string": "Your file is under review and has not been published"
+    "fullscreen.properties_panel.transform_panel.height": {
+        "string": "高度"
     },
-    "community.permissions_modal_publish_tab.footer.publish_user_sharing_restricted": {
-        "string": "Figma has restricted publishing due to issues with your account. Please email {supportSharingRestrictedEmail} for help."
+    "fullscreen.properties_panel.transform_panel.height_max": {
+        "string": "最大高度"
     },
-    "community.permissions_modal_publish_tab.footer.cannot_publish_default_file": {
-        "string": "This is a Figma sample file, so it can't be published. Please choose a different file."
+    "fullscreen.properties_panel.transform_panel.height_min": {
+        "string": "最小高度"
     },
-    "community.resource.publish": {
-        "string": "Publish"
+    "fullscreen.properties_panel.transform_panel.height_min_max": {
+        "string": "最小/最大高度"
     },
-    "community.permissions_modal_publish_tab.footer.cannot_publish_remix_from_paid_file": {
-        "string": "You can't republish a paid file."
+    "fullscreen.properties_panel.transform_panel.i_os": {
+        "string": "iOS"
     },
-    "community.hub_files.by_author": {
-        "string": "by {author}"
+    "fullscreen.properties_panel.transform_panel.independent_corners": {
+        "string": "独立角"
     },
-    "community.publishing.publish_to_the_figma_community": {
-        "string": "Publish to the {lineBreak} Figma Community"
+    "fullscreen.properties_panel.transform_panel.list_spacing_x": {
+        "string": "列表间距X"
     },
-    "community.publishing.publish_your_remix_of": {
-        "string": "Publish your remix of"
+    "fullscreen.properties_panel.transform_panel.list_spacing_y": {
+        "string": "列表间距Y"
     },
-    "community.hub_files.delist_file_from_community_hub": {
-        "string": "Delist file from Community"
+    "fullscreen.properties_panel.transform_panel.mirror_angle": {
+        "string": "镜像角度"
     },
-    "community.hub_files.remove_file_from_community_hub": {
-        "string": "Remove file from Community hub"
+    "fullscreen.properties_panel.transform_panel.mirror_angle_and_length": {
+        "string": "镜像角度和长度"
     },
-    "community.hub_files.unpublishing_this_file_will_remove_it_from_the_community_hub_and_prevent_people_from_finding_and_using_this_file": {
-        "string": "Unpublishing this file will remove it from the Community hub and prevent people from finding and using this file"
+    "fullscreen.properties_panel.transform_panel.no_mirroring": {
+        "string": "无镜像"
     },
-    "community.permissions_modal_publish_tab.footer.view_private_community_page": {
-        "string": "View private Community page"
+    "fullscreen.properties_panel.transform_panel.ratio": {
+        "string": "比例"
     },
-    "community.permissions_modal_publish_tab.footer.view_community_page": {
-        "string": "View Community page"
+    "fullscreen.properties_panel.transform_panel.rotation": {
+        "string": "旋转"
     },
-    "community.permissions_modal_publish_tab.footer.published_at_timestamp": {
-        "string": "{publish_date, date, medium}"
+    "fullscreen.properties_panel.transform_panel.start": {
+        "string": "起始"
     },
-    "community.permissions_modal_publish_tab.footer.remove": {
-        "string": "Remove"
+    "fullscreen.properties_panel.transform_panel.sweep": {
+        "string": "扫描"
     },
-    "community.permissions_modal_publish_tab.footer.learn_more": {
-        "string": "Learn more"
+    "fullscreen.properties_panel.transform_panel.top_left_corner_radius": {
+        "string": "左上角半径"
     },
-    "community.resource.delisted": {
-        "string": "Delisted"
+    "fullscreen.properties_panel.transform_panel.top_right_corner_radius": {
+        "string": "右上角半径"
     },
-    "community.permissions_modal_publish_tab.footer.submitted": {
-        "string": "Submitted"
+    "fullscreen.properties_panel.transform_panel.vector": {
+        "string": "向量"
     },
-    "community.permissions_modal_publish_tab.footer.last_published": {
-        "string": "Last published"
+    "fullscreen.properties_panel.transform_panel.w": {
+        "string": "宽度"
     },
-    "community.permissions_modal_publish_tab.footer.make_changes": {
-        "string": "Make changes"
+    "fullscreen.properties_panel.transform_panel.width": {
+        "string": "宽度"
     },
-    "community.permissions_modal_publish_tab.footer.publish_update": {
-        "string": "Publish update…"
+    "fullscreen.properties_panel.transform_panel.width_max": {
+        "string": "最大宽度"
     },
-    "community.permissions_modal_publish_tab.footer.publish_admins_only": {
-        "string": "Organizations and teams only allow admins to publish to the Figma Community."
+    "fullscreen.properties_panel.transform_panel.width_min": {
+        "string": "最小宽度"
     },
-    "community.permissions_modal_publish_tab.footer.publish_remix": {
-        "string": "Publish your remix to the Community and share your unique take."
+    "fullscreen.properties_panel.transform_panel.width_min_max": {
+        "string": "最小/最大宽度"
     },
-    "community.permissions_modal_publish_tab.footer.publish_file_version_no_remix": {
-        "string": "Publish a version of this file to the Community for the public to duplicate."
+    "fullscreen.properties_panel.transform_panel.x": {
+        "string": "X"
     }
 }

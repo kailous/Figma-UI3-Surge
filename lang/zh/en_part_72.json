@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_to_source.add_a_comment": {
-        "string": "Add a comment"
+    "community.publishing.confirm_change_plugin_profile_modal.cta": {
+        "string": "继续"
     },
-    "collaboration.branching_to_source.add_context": {
-        "string": "Add context for reviewers"
+    "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed": {
+        "string": "{profileName}的个人资料将被删除"
     },
-    "collaboration.branching_to_source.requested_a_review": {
-        "string": "requested a review"
+    "community.publishing.confirm_change_plugin_profile_modal.profile_will_be_removed_reason": {
+        "string": "你正在尝试以{newProfileName}身份发布。在获得发布权限之前，不能再以{prevProfileName}身份发布。"
     },
-    "collaboration.branching_to_source.search_suggested": {
-        "string": "Editors on main"
+    "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.plugin": {
+        "string": "要转移插件所有权吗？"
     },
-    "collaboration.branching_to_source.other_team_member": {
-        "string": "Other team members"
+    "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.widget": {
+        "string": "要转移小部件所有权吗？"
     },
-    "collaboration.branching_to_source.no_results_matching_query": {
-        "string": "No results matching \"{query}\""
+    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed": {
+        "string": "权限将被删除"
     },
-    "collaboration.branching_to_source.suggested": {
-        "string": "Editors on main"
+    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.plugin": {
+        "string": "你正在尝试以{authorName}身份发布。如果没有先将其添加为{orgName}的成员，{publishers}将没有权限更新此插件。"
     },
-    "collaboration.branching_to_source.reviewers": {
-        "string": "Reviewers"
+    "community.publishing.confirm_remove_non_org_publishers_modal.permissions_removed_body.widget": {
+        "string": "你正在尝试以{authorName}身份发布。如果没有先将其添加为{orgName}的成员，{publishers}将没有权限更新此小部件。"
     },
-    "collaboration.branching_to_source.review_request": {
-        "string": "Review request"
+    "community.publishing.confirm_remove_non_org_publishers_modal.publish_anyway": {
+        "string": "仍然发布"
     },
-    "collaboration.branching_to_source.edit_description": {
-        "string": "Edit description"
+    "community.publishing.congratulations": {
+        "string": "恭喜！"
     },
-    "collaboration.branching_to_source.an_error_occurred_fetching_your_contacts": {
-        "string": "An error occurred fetching your contacts"
+    "community.publishing.connect_existing_profile": {
+        "string": "连接现有的个人资料"
     },
-    "collaboration.branching_to_source.this_repository": {
-        "string": "this repository"
+    "community.publishing.connect_or_create_a_public_community_profile_to_publish": {
+        "string": "连接或创建公开的社区个人资料以发布"
     },
-    "collaboration.branching_to_source.add_people_to_approve_or_provide_feedback_on_your_changes_they_ll_get_notified_when_you_add_them": {
-        "string": "Add people to approve or provide feedback on your changes. They'll get notified when you add them."
+    "community.publishing.copied": {
+        "string": "已复制"
     },
-    "collaboration.branching_to_source.no_reviewers_add_suggestions.seat_rename": {
-        "string": "You don't have edit access in {fileName}, so you can't merge this yourself. We suggest adding one of these people with edit access:"
+    "community.publishing.copy": {
+        "string": "复制"
     },
-    "collaboration.branching_to_source.no_reviewers_add_no_suggestions.seat_rename": {
-        "string": "You don't have edit access in {fileName}, so you can't merge this yourself. We suggest adding someone with edit access here."
+    "community.publishing.could_not_publish_plugin_error": {
+        "string": "无法发布插件：{error}"
     },
-    "collaboration.branching_to_source.no_reviewers_added": {
-        "string": "No reviewers added"
+    "community.publishing.cover_image_exceeds_max_size": {
+        "string": "封面图像超过最大大小{maxResourceSize} MB"
     },
-    "collaboration.branching_reviews.approve": {
-        "string": "Approve"
+    "community.publishing.cover_image_not_found": {
+        "string": "未找到封面图像"
     },
-    "collaboration.branching_reviews.suggest_changes": {
-        "string": "Suggest changes"
+    "community.publishing.cover_image_requirements": {
+        "string": "封面图像应为jpeg、png、svg或gif格式"
     },
-    "collaboration.branching_reviews.submit": {
-        "string": "Submit"
+    "community.publishing.create_new_profile": {
+        "string": "创建新个人资料"
     },
-    "collaboration.branching_reviews.leave_a_comment_for_owner_and_other_reviewers": {
-        "string": "Leave a comment for {ownerHandle} and other reviewers (optional)"
+    "community.publishing.created_by": {
+        "string": "创建者"
     },
-    "collaboration.branching_reviews.leave_a_comment_for_owner": {
-        "string": "Leave a comment for {ownerHandle} (optional)"
+    "community.publishing.created_by_link": {
+        "string": "由...创建"
     },
-    "collaboration.branching_reviews.leave_a_comment": {
-        "string": "Leave a comment (optional)"
+    "community.publishing.creative_commons_license": {
+        "string": "Creative Commons BY 4.0 {learnMoreLink}"
     },
-    "collaboration.branching_reviews.finish_your_review": {
-        "string": "Finish your review"
+    "community.publishing.creator_policy": {
+        "string": "创建者政策"
     },
-    "collaboration.branching_chunk.fallback_no_item": {
-        "string": "No item"
+    "community.publishing.creator_policy_must_be_at_most_10000_characters_long": {
+        "string": "创建者政策最多应为10,000字符"
     },
-    "collaboration.branching_chunk.fallback_missing_preview": {
-        "string": "Preview unavailable"
+    "community.publishing.creators": {
+        "string": "创建者"
     },
-    "collaboration.branching_chunk.side_by_side_left_label": {
-        "string": "Before"
+    "community.publishing.currently_you_don_t_have_a_personal_community_profile_associated_with_a_different_figma_account_if_you_do_connect_it_now_and_publish_to_your_existing_profile_without_having_to_switch_accounts": {
+        "string": "当前没有与其他Figma账户关联的个人社区资料。如果有，请立即连接并发布到现有个人资料，无需切换账户。"
     },
-    "collaboration.branching_chunk.side_by_side_right_label": {
-        "string": "Latest"
+    "community.publishing.data_security": {
+        "string": "数据安全"
     },
-    "collaboration.branching_chunk.phase_updated_library": {
-        "string": "Updated"
+    "community.publishing.data_security.approved": {
+        "string": "{buttonText}已通过Figma的审核并获得批准。"
     },
-    "collaboration.branching_chunk.phase_created": {
-        "string": "Added"
+    "community.publishing.data_security.details_are_missing": {
+        "string": "缺少详细信息 ->"
     },
-    "collaboration.branching_chunk.phase_removed": {
-        "string": "Removed"
+    "community.publishing.data_security.errors": {
+        "string": "数据安全表单中存在错误"
     },
-    "collaboration.branching_chunk.phase_updated": {
-        "string": "Edited"
+    "community.publishing.data_security.incomplete_multi_select": {
+        "string": "请至少选择一个选项"
     },
-    "collaboration.branching_chunk.tile_preview_node_fallback": {
-        "string": "Preview unavailable"
+    "community.publishing.data_security.incomplete_single_select": {
+        "string": "请选择一个选项"
     },
-    "collaboration.branching_chunk.tile_empty_page_fallback": {
-        "string": "Empty page"
+    "community.publishing.data_security.incomplete_text": {
+        "string": "需要更详细的信息"
     },
-    "collaboration.branching_chunk.tile_variants_changed": {
-        "string": "{variantCount, plural, one {{variantCount} changed variant} other {{variantCount} changed variants}}"
+    "community.publishing.data_security.initial": {
+        "string": "添加帮助用户了解{buttonText}的数据处理详细信息"
     },
-    "collaboration.branching_chunk.tile_variants": {
-        "string": "{variantCount, plural, one {{variantCount} variant} other {{variantCount} variants}}"
+    "community.publishing.data_security.initial_button.plugin": {
+        "string": "插件的数据处理 ->"
     },
-    "collaboration.branching_chunk.tile_variants_and_affected_items_separator": {
-        "string": " · "
+    "community.publishing.data_security.initial_button.widget": {
+        "string": "小部件的数据处理 ->"
     },
-    "collaboration.branching_chunk.tile_affected_items": {
-        "string": "{affectedCount, plural, one {Affects {affectedCount} item} other {Affects {affectedCount} items}}"
+    "community.publishing.data_security.number_of_errors": {
+        "string": "{num, plural, other {{num}个错误}}"
     },
-    "collaboration.branching_chunk.section_see_more": {
-        "string": "{remainingChanges, plural, one {See {remainingChanges} more change} other {See {remainingChanges} more changes}}"
+    "community.publishing.data_security.opted_out.approved.plugin": {
+        "string": "发布此版本将从插件的Figma社区页面中删除这些详细信息。"
     },
-    "collaboration.branching_chunk.non_visible_updates_description": {
-        "string": "Sync with your main to ensure overall consistency. These updates could be system updates, non-visible changes to the file, or identical changes to changes on your branch."
+    "community.publishing.data_security.opted_out.approved.widget": {
+        "string": "发布此版本将从小部件的Figma社区页面中删除这些详细信息。"
     },
-    "collaboration.branching_chunk.section_file_optimization": {
-        "string": "File optimizations"
+    "community.publishing.data_security.opted_out.pending_rejected": {
+        "string": "已提交的回答将从安全自我评估程序中删除。"
     },
-    "collaboration.branching_chunk.section_system_improvement": {
-        "string": "Recovery from previous merge or update attempt"
+    "community.publishing.data_security.pending": {
+        "string": "{buttonText}已提交，当前正在Figma审核中。"
     },
-    "collaboration.branching_chunk.section_file_optimization_tooltip": {
-        "string": "Figma optimized the main file for better performance"
+    "community.publishing.data_security.ready_to_submit": {
+        "string": "{buttonText}填写完毕。填写的信息将由Figma审核。"
     },
-    "collaboration.branching_chunk.section_system_improvement_tooltip": {
-        "string": "Figma resolved identical changes found on both files"
+    "community.publishing.data_security.rejected": {
+        "string": "安全信息不符合Figma的安全最佳实践。{buttonText}"
     },
-    "variables.variable_collection": {
-        "string": "Variable collection"
+    "community.publishing.data_security.security_details_button": {
+        "string": "安全详细信息"
     },
-    "variables.variable_collections": {
-        "string": "Variable collections"
+    "community.publishing.data_security_tab": {
+        "string": "数据安全"
     },
-    "collaboration.branching_chunk.non_visible_updates": {
-        "string": "Main has non-visible updates"
+    "community.publishing.describe_exactly_what_users_can_expect.plugin": {
+        "string": "具体描述用户可以在插件中期待的内容（做什么、如何使用、相关限制）。"
     },
-    "collaboration.branching_from_source.you_chose_to_keep_all_changes_from_the_branch_for_conflicts": {
-        "string": "You chose to keep all changes from the branch for conflicts."
+    "community.publishing.describe_exactly_what_users_can_expect.widget": {
+        "string": "具体描述用户可以在小部件中期待的内容（做什么、如何使用、相关限制）。"
     },
-    "collaboration.branching_from_source.continue_to_apply_non_conflicting_changes": {
-        "string": "{changeCount, plural, one {Continue to apply {changeCount} non-conflicting change from the main file.} other {Continue to apply {changeCount} non-conflicting changes from the main file.}}"
+    "community.publishing.describe_your_file": {
+        "string": "这个文件中可以发现或学习到什么？具体描述以便让社区了解他们可以期待什么。"
     },
-    "collaboration.branching_from_source.confirm_your_picks_as_well_as_additional_changes_that_may_be_pulled_into_your_file": {
-        "string": "Confirm your picks as well as additional changes that may be pulled into your file."
+    "community.publishing.describe_your_plugin": {
+        "string": "这个插件中可以发现或学习到什么？具体描述以便让社区了解他们可以期待什么。"
     },
-    "collaboration.branching_from_source.review_changes": {
-        "string": "Review Changes"
+    "community.publishing.describe_your_widget": {
+        "string": "这个小部件中可以发现或学习到什么？具体描述以便让社区了解他们可以期待什么。"
     }
 }

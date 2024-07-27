@@ -1,152 +1,152 @@
 {
-    "presets.mac_book_air_m2": {
-        "string": "MacBook Air"
+    "avatar_actions.an_error_occurred_while_setting_the_organization_icon": {
+        "string": "设置组织图标时发生错误。"
     },
-    "presets.tv": {
-        "string": "TV"
+    "avatar_actions.an_error_occurred_while_setting_the_team_icon": {
+        "string": "设置团队图标时发生错误。"
     },
-    "presets.styles.mac_book_air_silver": {
-        "string": "Silver"
+    "avatar_actions.an_error_occurred_while_setting_the_workspace_icon": {
+        "string": "设置工作区图标时发生错误。"
     },
-    "presets.styles.mac_book_air_space_grey": {
-        "string": "Space Grey"
+    "avatar_actions.an_error_occurred_while_uploading_the_image": {
+        "string": "上传图片时发生错误。"
     },
-    "presets.styles.mac_book_air_starlight": {
-        "string": "Starlight"
+    "avatar_actions.editor_uploaded.an_error_occurred_while_setting_your_profile_photo": {
+        "string": "设置个人资料照片时发生错误。"
     },
-    "presets.styles.mac_book_air_midnight": {
-        "string": "Midnight"
+    "avatar_actions.team_icon_updated": {
+        "string": "团队图标已更新。"
     },
-    "presets.styles.mac_book_pro_silver": {
-        "string": "Silver"
+    "avatar_actions.workspace_icon_updated": {
+        "string": "工作区图标已更新。"
     },
-    "presets.styles.mac_book_pro_space_grey": {
-        "string": "Space Grey"
+    "avatar_editor.an_error_occurred_while_loading_the_image": {
+        "string": "加载图片时发生错误。"
     },
-    "presets.mac_128k": {
-        "string": "Macintosh 128k"
+    "avatar_editor.edit": {
+        "string": "编辑"
     },
-    "presets.android_large": {
-        "string": "Android Large"
+    "avatar_editor.modal_title": {
+        "string": "编辑头像"
     },
-    "presets.android_small": {
-        "string": "Android Small"
+    "avatar_editor.save_image": {
+        "string": "保存图片"
     },
-    "presets.i_phone_15": {
-        "string": "iPhone 15"
+    "avatar_editor.scale": {
+        "string": "缩放头像"
     },
-    "presets.i_phone_15_pro": {
-        "string": "iPhone 15 Pro"
+    "avatar_editor.your_profile_image_must_be_at_least_500_x500_px": {
+        "string": "个人资料图片必须至少为500x500像素。"
     },
-    "presets.i_phone_15_plus": {
-        "string": "iPhone 15 Plus"
+    "avatar.tooltip.current_user_handle": {
+        "string": "{handle}（您）{roleName}"
     },
-    "presets.i_phone_15_pro_max": {
-        "string": "iPhone 15 Pro Max"
+    "avatar.tooltip.edit_name": {
+        "string": "编辑名称"
     },
-    "presets.i_phone_14": {
-        "string": "iPhone 14"
+    "avatar.tooltip.other_user_handle": {
+        "string": "{handle}{roleName}"
     },
-    "presets.i_phone_14_pro": {
-        "string": "iPhone 14 Pro"
+    "avatar.tooltip.spotlight_user_handle": {
+        "string": "正在聚焦{handle}"
     },
-    "presets.i_phone_14_plus": {
-        "string": "iPhone 14 Plus"
+    "avatar.tooltip.view_profile": {
+        "string": "查看个人资料"
     },
-    "presets.i_phone_14_pro_max": {
-        "string": "iPhone 14 Pro Max"
+    "avatar.tooltip.you": {
+        "string": "（您）"
     },
-    "presets.i_phone_13_pro_max": {
-        "string": "iPhone 13 Pro Max"
+    "banner.browser_deprecation.description": {
+        "string": "为继续使用Figma，请在{deprecationDate, date, ::MMMMd}之前升级浏览器到最新版本。"
     },
-    "presets.i_phone_13_pro": {
-        "string": "iPhone 13 Pro"
+    "banner.browser_deprecation.description_now": {
+        "string": "为继续使用Figma，请升级浏览器到最新版本。"
     },
-    "presets.i_phone_13": {
-        "string": "iPhone 13"
+    "banner.browser_deprecation.learn_more": {
+        "string": "了解更多"
     },
-    "presets.i_phone_13_mini": {
-        "string": "iPhone 13 mini"
+    "banner.browser_deprecation.title": {
+        "string": "您的浏览器即将停止支持。"
     },
-    "presets.i_phone_x": {
-        "string": "iPhone X"
+    "banner.config_2024_apac_promo.title": {
+        "string": "Config APAC即将开始"
     },
-    "presets.i_phone_11_pro_max": {
-        "string": "iPhone 11 Pro Max"
+    "banner.config_2024_promo.primary_cta": {
+        "string": "了解更多"
     },
-    "presets.i_phone_11_pro": {
-        "string": "iPhone 11 Pro"
+    "banner.config_2024_promo.secondary_cta": {
+        "string": "关闭"
     },
-    "presets.i_phone_11": {
-        "string": "iPhone 11"
+    "banner.config_2024_virtual_promo.primary_cta": {
+        "string": "注册"
     },
-    "presets.i_phone_se": {
-        "string": "iPhone SE"
+    "banner.config_2024_virtual_promo.title": {
+        "string": "请注册参加6月26日至27日的Config直播"
     },
-    "presets.i_phone_8_plus": {
-        "string": "iPhone 8 Plus"
+    "banner.desktop_app_deprecation.description": {
+        "string": "为继续使用Figma，请在{deprecationDate, date, ::MMMMd}之前升级到新版本。"
     },
-    "presets.i_phone_8": {
-        "string": "iPhone 8"
+    "banner.desktop_app_deprecation.learn_more": {
+        "string": "下载"
     },
-    "presets.google_pixel_2": {
-        "string": "Google Pixel 2"
+    "banner.desktop_app_deprecation.title": {
+        "string": "您的桌面应用即将停止支持。"
     },
-    "presets.google_pixel_2_xl": {
-        "string": "Google Pixel 2 XL"
+    "banner.desktop_download_button": {
+        "string": "获取桌面应用"
     },
-    "presets.styles.iphone_natural_titanium": {
-        "string": "Natural Titanium"
+    "banner.desktop_download_description": {
+        "string": "利用标签页、文件快速访问、新建文件和专用桌面通知功能，进一步提升您的工作流程。"
     },
-    "presets.styles.iphone_blue_titanium": {
-        "string": "Blue Titanium"
+    "banner.desktop_download_title": {
+        "string": "下载Figma桌面应用"
     },
-    "presets.styles.iphone_white_titanium": {
-        "string": "White Titanium"
+    "banner.edu_grace_period.editing_restricted_on_file": {
+        "string": "要编辑{teamName}的此教育团队文件，请确认您是学生或教职员工。"
     },
-    "presets.styles.iphone_black_titanium": {
-        "string": "Black Titanium"
+    "banner.edu_grace_period.education_team_members_need_to_verify_their_education_status": {
+        "string": "教育团队的成员需要验证其教育计划资格才能继续合作。"
     },
-    "presets.styles.iphone_black": {
-        "string": "Black"
+    "banner.edu_grace_period.grace_period_team_reminder": {
+        "string": "这是{teamName}的教育团队文件。若要在{endDate, date, ::MMMMd}之后继续编辑此文件，请确认您是学生或教职员工。"
     },
-    "presets.styles.iphone_blue": {
-        "string": "Blue"
+    "banner.edu_grace_period.move_or_duplicate_files_to_another_location_to_save_your_work": {
+        "string": "将文件移动或复制到其他位置以保存您的工作。"
     },
-    "presets.styles.iphone_green": {
-        "string": "Green"
+    "banner.edu_grace_period.only_edu_grace_period_days_left": {
+        "string": "剩余{daysLeft}天，请确认您是学生或教育者。"
     },
-    "presets.styles.iphone_pink": {
-        "string": "Pink"
+    "banner.edu_grace_period.team_is_now_view_only_for_all_members": {
+        "string": "{teamName}现在对所有成员仅限查看。"
     },
-    "presets.styles.iphone_yellow": {
-        "string": "Yellow"
+    "banner.edu_grace_period.to_keep_collaborating_on_figma_s_education_plan_please_verify_your_status_soon": {
+        "string": "请尽快验证您的身份以继续在Figma的教育计划中合作。"
     },
-    "presets.styles.iphone_midnight": {
-        "string": "Midnight"
+    "banner.edu_grace_period.verification_required": {
+        "string": "需要验证"
     },
-    "presets.styles.iphone_red": {
-        "string": "Red"
+    "banner.edu_grace_period.verify_status_button": {
+        "string": "验证身份"
     },
-    "presets.styles.iphone_starlight": {
-        "string": "Starlight"
+    "banner.edu_grace_period.you_can_no_longer_edit_files_in_team": {
+        "string": "您无法再编辑{teamName}的文件。"
     },
-    "presets.styles.iphone_purple": {
-        "string": "Purple"
+    "banner.edu_grace_period.your_education_plan_has_expired": {
+        "string": "您的教育计划已到期"
     },
-    "presets.styles.iphone_space_black": {
-        "string": "Space Black"
+    "banner.edu_grace_period.your_education_plan_has_expired.is_member": {
+        "string": "{teamName}的教育计划已到期"
     },
-    "presets.styles.iphone_deep_purple": {
-        "string": "Deep Purple"
+    "banner.file_creation_failure.description": {
+        "string": "无法同步此离线文件。请将内容复制到新文件中以保存工作。"
     },
-    "presets.styles.iphone_silver": {
-        "string": "Silver"
+    "banner.file_creation_failure.title": {
+        "string": "无法使用离线文件"
     },
-    "presets.styles.iphone_gold": {
-        "string": "Gold"
+    "banner.free_limit_locked.ask_your_team_admin_for_details": {
+        "string": "有关详细信息，请联系您的团队管理员。"
     },
-    "presets.styles.iphone_graphite": {
-        "string": "Graphite"
+    "banner.free_limit_locked.learn_more": {
+        "string": "了解更多"
     }
 }

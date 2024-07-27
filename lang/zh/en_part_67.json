@@ -1,152 +1,152 @@
 {
-    "community.publishing.category_sub_cant_be_empty": {
-        "string": "Subcategory can't be empty"
+    "community.actions.error_uploading_widget_artwork_image_error": {
+        "string": "上传小部件艺术作品图像时发生错误：{error}"
     },
-    "community.publishing.select_a_subcategory": {
-        "string": "Select a subcategory"
+    "community.actions.error_uploading_widget_code_error": {
+        "string": "上传小部件代码时发生错误：{error}"
     },
-    "community.publishing.tell_us_more": {
-        "string": "Tell us more"
+    "community.actions.error_uploading_widget_icon_error": {
+        "string": "上传小部件图标时发生错误：{error}"
     },
-    "community.publishing.comments": {
-        "string": "Comments"
+    "community.actions.error_uploading_widget_snapshot_image_error": {
+        "string": "上传小部件快照图像时发生错误：{error}"
     },
-    "community.publishing.allow_comments_from_community_members": {
-        "string": "Allow comments from Community members"
+    "community.actions.failed_to_create_a_new_file_from_hub_file_name": {
+        "string": "从{hubFileName}创建新文件失败"
     },
-    "community.publishing.support_contact": {
-        "string": "Support contact"
+    "community.actions.failed_to_duplicate_file_error": {
+        "string": "复制文件失败：{error}"
     },
-    "community.seller.email_where_users_can_contact_you": {
-        "string": "Email where users can contact you"
+    "community.actions.failed_to_merge_msg": {
+        "string": "合并失败：{msg}"
     },
-    "community.publishing.add_your_policy_for_the_usage_of_this.plugin": {
-        "string": "Add your policy for the usage of this plugin"
+    "community.actions.failed_to_resolve_comment": {
+        "string": "解决评论失败"
     },
-    "community.publishing.add_your_policy_for_the_usage_of_this.widget": {
-        "string": "Add your policy for the usage of this widget"
+    "community.actions.failed_to_unresolve_comment": {
+        "string": "取消解决评论失败"
     },
-    "community.publishing.add_your_policy_for_the_usage_of_this_resource": {
-        "string": "Add your policy for the usage of this resource"
+    "community.actions.file_too_large": {
+        "string": "文件太大"
     },
-    "community.publishing.creator_policy": {
-        "string": "Creator policy"
+    "community.actions.followed_profile_name": {
+        "string": "已关注{profileName}"
     },
-    "community.publishing.describe_your_file": {
-        "string": "What can people find or learn from this file? Get specific, so the community knows what to expect."
+    "community.actions.log_in_or_create_an_account_to_duplicate_this_file": {
+        "string": "登录或创建帐户以复制此文件"
     },
-    "community.publishing.describe_your_plugin": {
-        "string": "What can people find or learn from this plugin? Get specific, so the community knows what to expect."
+    "community.actions.manifest_name_has_been_imported": {
+        "string": "{manifestName}已导入"
     },
-    "community.publishing.describe_your_widget": {
-        "string": "What can people find or learn from this widget? Get specific, so the community knows what to expect."
+    "community.actions.new_profile_connection_added": {
+        "string": "已添加新个人资料连接！"
     },
-    "community.publishing.describe_your_work": {
-        "string": "Describe your work"
+    "community.actions.pick_extension_manifest_file": {
+        "string": "选择扩展名清单文件"
     },
-    "community.publishing.describe_exactly_what_users_can_expect.plugin": {
-        "string": "Describe exactly what users can expect from your plugin—what it does, how to use it, and any relevant limitations."
+    "community.actions.plugin_has_been_imported": {
+        "string": "插件已导入"
     },
-    "community.publishing.describe_exactly_what_users_can_expect.widget": {
-        "string": "Describe exactly what users can expect from your widget—what it does, how to use it, and any relevant limitations."
+    "community.actions.plugin_id_is_invalid": {
+        "string": "插件ID无效"
     },
-    "community.publishing.description": {
-        "string": "Description"
+    "community.actions.profile_deleted": {
+        "string": "个人资料已删除。"
     },
-    "community.learn_more": {
-        "string": "Learn more"
+    "community.actions.profile_not_found": {
+        "string": "未找到个人资料"
     },
-    "general.view_license": {
-        "string": "View license"
+    "community.actions.resource_is_invalid": {
+        "string": "资源无效"
     },
-    "community.publishing.community_paid_resource_license": {
-        "string": "Community Paid Resource License {learnMoreLink}"
+    "community.actions.retry": {
+        "string": "重试"
     },
-    "community.publishing.creative_commons_license": {
-        "string": "Creative Commons BY 4.0 {learnMoreLink}"
+    "community.actions.the_published_resource_i_ds_do_not_match": {
+        "string": "发布的资源ID不匹配"
     },
-    "community.publishing.community_free_resource_license": {
-        "string": "Community Free Resource License {learnMoreLink}"
+    "community.actions.try_again_or_contact_support_figma_com": {
+        "string": "请重试或联系support@figma.com"
     },
-    "community.publishing.license": {
-        "string": "License"
+    "community.actions.unable_to_delete_profile_please_try_again_later": {
+        "string": "无法删除个人资料。请稍后再试。"
     },
-    "community.general.name": {
-        "string": "Name"
+    "community.actions.unable_to_duplicate": {
+        "string": "无法复制：{error}"
     },
-    "community.seller.currency_symbol": {
-        "string": "$"
+    "community.actions.unable_to_fetch_comments": {
+        "string": "无法获取评论"
     },
-    "community.seller.price": {
-        "string": "Price"
+    "community.actions.unable_to_follow_this_profile_profile_name": {
+        "string": "无法关注此个人资料：{profileName}"
     },
-    "community.publishing.tags_out_of_tags": {
-        "string": "{num}/{max}"
+    "community.actions.unable_to_like_this_file_error": {
+        "string": "无法点赞此文件：{error}"
     },
-    "community.publishing.tags": {
-        "string": "Tags"
+    "community.actions.unable_to_like_this_plugin_error": {
+        "string": "无法点赞此插件：{error}"
     },
-    "community.publishing.add_up_to_n_tags": {
-        "string": "Add up to {maxTagsPerResource} tags, separated by commas or tabs"
+    "community.actions.unable_to_like_this_widget_error": {
+        "string": "无法点赞此小部件：{error}"
     },
-    "community.publishing.number_of_resources": {
-        "string": "{num, plural, one {{num} resource} other {{num} resources}}"
+    "community.actions.unable_to_load_creator_stats": {
+        "string": "无法加载创建者统计信息。请稍后再试。"
     },
-    "community_detail_view.creators_note": {
-        "string": "Creator's note: "
+    "community.actions.unable_to_load_stats_for_a_resource": {
+        "string": "无法加载资源的统计信息。请稍后再试。"
     },
-    "community_detail_view.learn_more_network_access": {
-        "string": "Learn more"
+    "community.actions.unable_to_mark_all_as_read_error_message": {
+        "string": "无法将所有标记为已读：{error}"
     },
-    "community.detail_view.unknown_network_access": {
-        "string": "Unknown network access"
+    "community.actions.unable_to_save_plugin_error": {
+        "string": "无法保存插件：{error}"
     },
-    "community.detail_view.unspecified_widget_network_access": {
-        "string": "This creator hasn't specified how this widget accesses the network."
+    "community.actions.unable_to_save_plugin_please_try_again": {
+        "string": "无法保存插件。请重试。"
     },
-    "community.detail_view.unspecified_plugin_network_access": {
-        "string": "This creator hasn't specified how this plugin accesses the network."
+    "community.actions.unable_to_save_widget_error": {
+        "string": "无法保存小部件：{error}"
     },
-    "community.detail_view.no_network_access": {
-        "string": "No network access"
+    "community.actions.unable_to_save_widget_please_try_again": {
+        "string": "无法保存小部件。请重试。"
     },
-    "community.detail_view.no_widget_network_access": {
-        "string": "The widget cannot access any domains."
+    "community.actions.unable_to_unlike_this_file_error": {
+        "string": "无法取消点赞此文件：{error}"
     },
-    "community.detail_view.no_plugin_network_access": {
-        "string": "The plugin cannot access any domains."
+    "community.actions.unable_to_unlike_this_plugin_error": {
+        "string": "无法取消点赞此插件：{error}"
     },
-    "community.detail_view.unrestricted_network_access": {
-        "string": "Unrestricted network access"
+    "community.actions.unable_to_unlike_this_widget_error": {
+        "string": "无法取消点赞此小部件：{error}"
     },
-    "community.detail_view.unrestricted_widget_network_access": {
-        "string": "This widget can access any domain."
+    "community.actions.unfollowed_profile": {
+        "string": "已取消关注个人资料"
     },
-    "community.detail_view.unrestricted_plugin_network_access": {
-        "string": "This plugin can access any domain."
+    "community.actions.widget_has_been_imported": {
+        "string": "小部件已导入"
     },
-    "community.detail_view.restricted_network_access": {
-        "string": "Restricted network access"
+    "community.actions.your_description_was_updated": {
+        "string": "描述已更新"
     },
-    "community.detail_view.restricted_widget_network_access": {
-        "string": "This widget can only access the following domains:"
+    "community.actions.your_instagram_handle_is_not_valid": {
+        "string": "@{handle}不是有效的Instagram用户名"
     },
-    "community.detail_view.restricted_plugin_network_access": {
-        "string": "This plugin can only access the following domains:"
+    "community.actions.your_instagram_handle_was_updated": {
+        "string": "Instagram用户名已更新"
     },
-    "community.publishing.i_agree_to_the_terms_of_service": {
-        "string": "I agree to the {termsOfService}"
+    "community.actions.your_location_was_updated": {
+        "string": "位置已更新"
     },
-    "community.publishing.community_terms_of_service": {
-        "string": "Community Terms of Service"
+    "community.actions.your_organization_s_handle_was_set_to_profile_handle": {
+        "string": "你的组织的用户名已设置为@{profileHandle}"
     },
-    "community.publishing.if_you_have_a_personal_community_profile_associated_with_a_different_figma_account_connect_it_now_and_publish_to_your_existing_profile_without_having_to_switch_accounts": {
-        "string": "If you have a personal Community profile associated with a different Figma account, connect it now and publish to your existing profile without having to switch accounts."
+    "community.actions.your_profile_handle_was_set_to_profile_handle": {
+        "string": "你的个人资料用户名已设置为@{profileHandle}"
     },
-    "community.publishing.if_you_don_t_have_an_existing_community_profile_you_can_create_one_now": {
-        "string": "If you don’t have an existing Community profile, you can create one now."
+    "community.actions.your_profile_s_primary_email_was_set_to_email": {
+        "string": "你的个人资料主邮箱已设置为{email}"
     },
-    "community.publishing.currently_you_don_t_have_a_personal_community_profile_associated_with_a_different_figma_account_if_you_do_connect_it_now_and_publish_to_your_existing_profile_without_having_to_switch_accounts": {
-        "string": "Currently, you don’t have a personal Community profile associated with a different Figma account. If you do, connect it now and publish to your existing profile without having to switch accounts."
+    "community.actions.your_team_s_handle_was_set_to_profile_handle": {
+        "string": "你的团队的用户名已设置为@{profileHandle}"
     }
 }

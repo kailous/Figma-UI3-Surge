@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.ai_content_fill.generic_error": {
-        "string": "Couldn’t regenerate text content. Please try again."
+    "comments.only_current_slide": {
+        "string": "仅当前幻灯片"
     },
-    "fullscreen_actions.ai_content_fill.private_beta.share_feedback": {
-        "string": "Share feedback"
+    "comments.only_posts": {
+        "string": "仅帖子"
     },
-    "fullscreen_actions.ai_content_fill.content_generated": {
-        "string": "Content generated (AI beta)"
+    "comments.only_your_threads": {
+        "string": "仅你的线程"
     },
-    "design_systems.actions.return_to_instance": {
-        "string": "Return to instance"
+    "comments.oops_one_of_your_comments_never_posted": {
+        "string": "糟糕！你的评论之一未能发布"
     },
-    "design_systems.actions.variant_changed": {
-        "string": "Variant changed"
+    "comments.parent_name_and_number": {
+        "string": "#{commentNumber} · {parentName}"
     },
-    "design_systems.actions.return_to_variant": {
-        "string": "Return to initial variant"
+    "comments.please_note_that_is_external_to_your_organization": {
+        "string": "{numUsers, plural, other {{userNames}是组织外部的用户，请注意。{learnMore}}}"
     },
-    "bindings.new_local_font_visual_bell": {
-        "string": "{totalFonts, plural, one {New available font: {firstFont}} other {New available fonts: {firstFont} and {numAdditionalFonts} others}}"
+    "comments.please_note_that_some_of_these_users_are_external_to_your_organization": {
+        "string": "{numUsers, plural, other {请注意，其中一些用户是组织外部的。{learnMore}}}"
     },
-    "whiteboard.ai_summary.copy_text_to_clipboard": {
-        "string": "Copied summary"
+    "comments.post": {
+        "string": "发布"
     },
-    "whiteboard.ai_summary.copied_link_to_clipboard": {
-        "string": "Copied link to summary"
+    "comments.post_anyway": {
+        "string": "继续发布"
     },
-    "whiteboard.ai_summary.copy_button_text": {
-        "string": "Copy"
+    "comments.post_comment_and_share_file": {
+        "string": "发布评论并分享文件？"
     },
-    "whiteboard.ai_summary.copy_button_tooltip": {
-        "string": "Copy as text"
+    "comments.post_share": {
+        "string": "发布并分享"
     },
-    "whiteboard.ai_summary.copy_link_button_text": {
-        "string": "Link"
+    "comments.preview_reply_count": {
+        "string": "{replyCount, plural, other {{ new, select, true {{replyCount}条新回复} other {{replyCount}条回复}}}}"
     },
-    "whiteboard.ai_summary.copy_link_button_tooltip": {
-        "string": "Copy link to summary"
+    "comments.previous": {
+        "string": "上一个"
     },
-    "whiteboard.embeds.inline_menu.open_link": {
-        "string": "Open link"
+    "comments.re_enable": {
+        "string": "重新启用"
     },
-    "whiteboard.embeds.inline_menu.change_back_to_text": {
-        "string": "Change back to text"
+    "comments.reply": {
+        "string": "回复"
     },
-    "whiteboard.embeds.view_button": {
-        "string": "View"
+    "comments.reply_count": {
+        "string": "{replyCount, plural, other {{replyCount}条回复}}"
     },
-    "hardware_acceleration_detector.message": {
-        "string": "Improve performance by enabling hardware acceleration"
+    "comments.retry": {
+        "string": "重试"
     },
-    "hardware_acceleration_detector.learn_more": {
-        "string": "Learn more"
+    "comments.save": {
+        "string": "保存"
     },
-    "user_facing_error.loading_a_file": {
-        "string": "An error occurred while loading a file"
+    "comments.settings": {
+        "string": "设置"
     },
-    "visual_bell.main_text": {
-        "string": "🎉 {teamName} is now a Professional team"
+    "comments.show_resolved_comments": {
+        "string": "显示已解决评论"
     },
-    "visual_bell.button_text": {
-        "string": "Publish components"
+    "comments.slide": {
+        "string": "幻灯片"
     },
-    "user_facing_error.offline": {
-        "string": "Looks like you’re offline! Please try again later."
+    "comments.slide_number": {
+        "string": "幻灯片{orderNum}"
     },
-    "user_facing_error.new_document": {
-        "string": "An error occurred while creating a new document"
+    "comments.sort_by_date": {
+        "string": "按日期排序"
     },
-    "fullscreen.file_import.import_miro_pdf_failed": {
-        "string": "Unable to import Miro PDF"
+    "comments.sort_by_last_action": {
+        "string": "按最后操作排序"
     },
-    "fullscreen.file_import.import_mural_pdf_failed": {
-        "string": "Unable to import Mural PDF"
+    "comments.sort_by_slide": {
+        "string": "按幻灯片排序"
     },
-    "fullscreen.file_import.import_lucid_pdf_failed": {
-        "string": "Unable to import Lucid PDF"
+    "comments.sort_by_unread": {
+        "string": "按未读排序"
     },
-    "fullscreen.file_import.import_unknown_pdf_failed": {
-        "string": "Unable to import PDF"
+    "comments.sort_filter": {
+        "string": "排序/过滤"
     },
-    "file_browser.file_import_view.select_pdf_source_description_within_figjam": {
-        "string": "{pdfCount, plural, one {Choose one—this will help more accurately convert your PDF.} other {Choose one—this will help more accurately convert your PDFs. For the best results, import PDFs from different products separately.}}"
+    "comments.status_changes": {
+        "string": "状态更改"
     },
-    "visual_bell.import_pdf": {
-        "string": "Importing PDF"
+    "comments.submit": {
+        "string": "提交"
     },
-    "fullscreen.file_import.file_contains_text_either_too_big_or_too_small": {
-        "string": "Font sizes are too big and/or too small to import correctly"
+    "comments.turn_on": {
+        "string": "开启"
     },
-    "fullscreen.file_import.file_timed_out": {
-        "string": "File took too long to import"
+    "comments.unattached": {
+        "string": "未附加"
     },
-    "proto.lib.device_low_memory": {
-        "string": "Your device is low on memory, some interactions might not work."
+    "comments.unavailable_offline": {
+        "string": "此评论在离线时不可用"
     },
-    "spell_check.auto_detect_language_display_text": {
-        "string": "Auto-detect language"
+    "comments.undo": {
+        "string": "撤销"
     },
-    "widgets.cannot_insert_widget_while_logged_out": {
-        "string": "Cannot insert widget while logged out"
+    "comments.upload_error.already_uploaded_items": {
+        "string": "{numFiles, plural, other {已添加的文件：{fileNames}}}"
     },
-    "widgets.widget_name_updated": {
-        "string": "{widgetName} updated"
+    "comments.upload_error.failed_to_upload": {
+        "string": "{numFiles, plural, other {未能上传文件}}"
     },
-    "file_browser.file_import_view.google_picker_select_files_title": {
-        "string": "Select file(s) to import"
+    "comments.upload_error.media_file_maximum": {
+        "string": "评论中最多可添加{maxNum}个媒体文件"
     },
-    "fullscreen.file_import.could_not_convert_file": {
-        "string": "Unable to convert file"
+    "comments.upload_error.media_file_size_limit_MB": {
+        "string": "媒体文件必须小于{maxFileSizeMB}MB"
     },
-    "fullscreen.file_import.jamboard_warning_element_parse_failed": {
-        "string": "Note: some parts of this file couldn’t be imported."
+    "comments.upload_error.media_file_types": {
+        "string": "媒体文件必须是PNG、JPEG、GIF格式之一"
     },
-    "fullscreen.file_import.jamboard_warning_image_download_failed": {
-        "string": "Some images failed to download."
+    "comments.upload_images": {
+        "string": "最多可上传5个图片和GIF"
     },
-    "collaboration.branching.edit_merge_description": {
-        "string": "Edit merge description"
+    "comments.view": {
+        "string": "查看"
     },
-    "visual_bell.you_are_now_able_to_make_changes": {
-        "string": "You are now able to make changes"
+    "comments.when_you_leave_a_comment_or_get_mentioned_in_one_it_ll_show_up_here": {
+        "string": "当你留下评论或被提及时，它会显示在这里。"
     },
-    "lab.enabled": {
-        "string": "Enabled {labName} lab"
+    "comments.with_access": {
+        "string": "有访问权限"
     },
-    "lab.disabled": {
-        "string": "Disabled {labName} lab"
+    "comments.wont_be_able_to_view_your_comments_because_they_dont_have_access_to_this_file": {
+        "string": "{mentionedUsers}无法查看你的评论，因为他们没有该文件的访问权限。"
     },
-    "keyboard_settings.custom_keyboard_shortcuts": {
-        "string": "Custom keyboard shortcuts"
+    "comments.you": {
+        "string": "你"
     },
-    "lab.ui3": {
-        "string": "UI3"
+    "comments.you_have_disabled_the_comments_sidebar_via_the_debug_menu": {
+        "string": "你已通过调试菜单禁用了评论侧栏。"
     },
-    "lab.ui3_enabled_message": {
-        "string": "Now using the new Figma design"
+    "comments.you_will_be_notified_about_file_comments": {
+        "string": "你将收到关于此文件中所有新评论的通知。"
     },
-    "lab.ui3_disabled_message": {
-        "string": "Back to the old Figma design"
+    "comments.you_will_be_notified_about_replies": {
+        "string": "你将收到回复的通知"
     },
-    "lab.ui3.experimental_non_design": {
-        "string": "UI3 Experiment: Global styles"
+    "comments.you_will_be_notified_about_replies_and_at_mentions": {
+        "string": "你将收到回复和@提及的通知"
     },
-    "lab.ui3.experimental_prototype_as_a_tool": {
-        "string": "UI3 Experiment: Prototype as a tool"
+    "comments.pinning.cannot_resolve": {
+        "string": "无法解决置顶的评论"
     },
-    "lab.ui3.assets_panel_redesign": {
-        "string": "UI3: Redesigned assets panel"
+    "comments.pinning.cannot_unresolve": {
+        "string": "无法取消解决置顶的评论"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "user_notifications.unread_toggle_count": {
-        "string": "Unread ({unreadCount})"
+    "community.sinatra.plugins.weve_run_into_an_error_while_publishing_this_please_contact_supportfigmacom_if_you_need_help": {
+        "string": "发布此{resourceClassName}时遇到错误。如果需要帮助，请联系support@figma.com。"
     },
-    "user_notifications.requests_empty": {
-        "string": "Requests"
+    "community.sinatra.plugins.weve_run_into_an_error_while_publishing_this_plugin_please_contact_supportfigmacom_if_you_need_help": {
+        "string": "发布此插件时遇到错误。如果需要帮助，请联系support@figma.com。"
     },
-    "user_notifications.requests_toggle_count": {
-        "string": "Requests ({actionableCount})"
+    "community.sinatra.plugins.you_cannot_use_paid_files_as_playground_files": {
+        "string": "不能将付费文件用作游乐场文件"
     },
-    "user_notifications.unread_count": {
-        "string": "{unreadCount} unread"
+    "community.sinatra.plugins.you_cannot_whitelist_this": {
+        "string": "不能将此{resourceType}列入白名单"
     },
-    "user_notification.community_notifications": {
-        "string": "Community notifications"
+    "community.sinatra.plugins.you_do_not_have_permission_to_fetch_plugins_in_this_org": {
+        "string": "您没有权限在此组织中获取插件"
     },
-    "user_notification.all": {
-        "string": "All"
+    "community.sinatra.plugins.you_do_not_have_permission_to_install_plugins_for_this_org": {
+        "string": "您没有权限为此组织安装插件"
     },
-    "user_notification.all_notifications": {
-        "string": "All notifications"
+    "community.sinatra.plugins.you_do_not_have_permission_to_install_this_resource": {
+        "string": "您没有权限安装此资源"
     },
-    "fig_feed.no_frames_matching": {
-        "string": "No frames matching {searchQuery}"
+    "community.sinatra.plugins.you_do_not_have_permission_to_uninstall_plugins_for_this_org": {
+        "string": "您没有权限为此组织卸载插件"
     },
-    "fig_feed.no_top_level_nodes": {
-        "string": "No top-level sections or frames exist."
+    "community.sinatra.plugins.you_do_not_have_permission_to_use_this_file_as_your_playground_file": {
+        "string": "您没有权限将此文件用作游乐场文件"
     },
-    "fig_feed.search_frames": {
-        "string": "Search frames"
+    "community.sinatra.plugins.you_do_not_have_permissions_to_access_this_resource": {
+        "string": "您没有权限访问此资源"
     },
-    "file_browser.tool_bar.create_new_design_file_in": {
-        "string": "Create new design file in…"
+    "community.sinatra.plugins.you_do_not_have_permissions_to_modify_this_orgs_whitelist": {
+        "string": "您没有权限修改此组织的白名单"
     },
-    "file_browser.tool_bar.create_new_figjam_board_in": {
-        "string": "Create new FigJam board in…"
+    "community.sinatra.plugins.you_do_not_have_permissions_to_modify_this_request": {
+        "string": "您没有权限修改此请求"
     },
-    "file_browser.tool_bar.create_new_slide_deck_in": {
-        "string": "Create new slide deck in…"
+    "community.sinatra.plugins.you_do_not_have_permissions_to_run_this_plugin": {
+        "string": "您没有权限运行此插件"
     },
-    "desktop_new_tab.create_new_file_in": {
-        "string": "Create new file in…"
+    "community.sinatra.plugins.you_do_not_have_permissions_to_see_status_for_this_org": {
+        "string": "您没有权限查看此组织的{resourceClassName}状态。"
     },
-    "file_browser.tool_bar.see_all_editable_projects": {
-        "string": "See all {numberOfEditableProjects} projects"
+    "community.sinatra.plugins.you_have_already_installed_this_plugin": {
+        "string": "您已经安装了此插件"
     },
-    "file_browser.tool_bar.file_creation_dropdown_display_text": {
-        "string": "Team Project List"
+    "community.sinatra.plugins.you_must_enable_two_factor_authentication_to_publish": {
+        "string": "发布需要启用双因素认证"
     },
-    "help_widget.collective_upsells.fullscreen.unlimited_creation": {
-        "string": "Unlimited creation"
+    "community.sinatra.plugins.you_must_have_a_public_profile": {
+        "string": "您必须有一个公开的个人资料"
     },
-    "help_widget.collective_upsells.fullscreen.shared_design_systems": {
-        "string": "Shared design systems"
+    "community.sinatra.plugins.you_must_verify_your_account_details_to_publish": {
+        "string": "发布需要验证您的账户详情"
     },
-    "help_widget.collective_upsells.fullscreen.advanced_prototyping": {
-        "string": "Advanced prototyping"
+    "community.sinatra.plugins.your_supplied_plugin_version_must_correspond_to_the_plugin_to_be_installed": {
+        "string": "您提供的插件版本必须与要安装的插件一致"
     },
-    "help_widget.collective_upsells.fullscreen.enhanced_privacy": {
-        "string": "Enhanced privacy"
+    "community.sinatra.posts.parent_with_id_does_not_exist_2": {
+        "string": "ID为{parentID}的父级不存在。"
     },
-    "help_widget.collective_upsells.fullscreen.decision_making_tools": {
-        "string": "Decision-making tools"
+    "community.sinatra.posts.some_referenced_profiles_are_not_valid": {
+        "string": "某些引用的个人资料无效。"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.better_organization.title": {
-        "string": "Better organization"
+    "community.sinatra.posts.there_was_a_problem_creating_your_post_please_try_again_at_a_later_time": {
+        "string": "创建帖子时出现问题，请稍后再试。"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.better_organization.description": {
-        "string": "Store your work in folders for each of your projects."
+    "community.sinatra.price.annual_discount_is_invalid": {
+        "string": "年度折扣必须在{minPercentage}和{maxPercentage}之间"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_files.title": {
-        "string": "Unlimited files"
+    "community.sinatra.price.price_is_invalid": {
+        "string": "价格无效"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_files.description": {
-        "string": "Create a new design file for every fresh idea."
+    "community.sinatra.profile_merge_lib.general_error": {
+        "string": "合并个人资料时发生意外错误。请联系support@figma.com"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_boards.title": {
-        "string": "Unlimited boards"
+    "community.sinatra.profile_merge_lib.user_needs_public_profile": {
+        "string": "主用户需要公开个人资料"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_boards.description": {
-        "string": "Create a new FigJam board for every brainstorm."
+    "community.sinatra.profile_merge_lib.user_not_profile_owner": {
+        "string": "主用户不是主要个人资料所有者"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.version_history.title": {
-        "string": "Version history"
+    "community.sinatra.profile_merge_lib.users_already_merged_error": {
+        "string": "用户已合并"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.version_history.description": {
-        "string": "Access old work and see all past versions of your files."
+    "community.sinatra.profiles.cannot_change_primary_user_if_is_community_seller": {
+        "string": "如果主要帐户是社区卖家，则无法更改主要帐户"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_pages.title": {
-        "string": "Unlimited pages"
+    "community.sinatra.profiles.cannot_delete_the_primary_user_of_this_profile": {
+        "string": "无法删除此个人资料的主要用户"
     },
-    "help_widget.collective_upsells.fullscreen.card.unlimited_creation.unlimited_pages.description": {
-        "string": "Organize your files by dividing them into pages."
+    "community.sinatra.profiles.cannot_delete_user_if_they_are_community_seller": {
+        "string": "无法删除社区卖家用户"
     },
-    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.title": {
-        "string": "Component libraries"
+    "community.sinatra.profiles.cannot_merge_seller_account": {
+        "string": "无法合并卖家帐户"
     },
-    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.component_libraries.description": {
-        "string": "Quickly reuse components and styles across files."
+    "community.sinatra.profiles.cant_get_liked_community_files_for_this_profile": {
+        "string": "无法获取此个人资料喜欢的社区文件"
     },
-    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variable_modes.title": {
-        "string": "Variable modes"
+    "community.sinatra.profiles.handle_already_taken": {
+        "string": "此用户名已被使用。"
     },
-    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variable_modes.description": {
-        "string": "Change up your designs for different contexts."
+    "community.sinatra.profiles.must_be_signed_into_primary_email_account": {
+        "string": "必须登录主要电子邮件帐户"
     },
-    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variables_in_prototyping.title": {
-        "string": "Variables in prototyping"
+    "community.sinatra.profiles.must_be_signed_into_secondary_email_account": {
+        "string": "必须登录次要电子邮件帐户"
     },
-    "help_widget.collective_upsells.fullscreen.card.shared_design_systems.variables_in_prototyping.description": {
-        "string": "Set and modify variables with just a few interactions."
+    "community.sinatra.profiles.must_have_public_profile": {
+        "string": "必须有公开个人资料"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.title": {
-        "string": "Expressions"
+    "community.sinatra.profiles.new_primary_user_user_not_found": {
+        "string": "未找到新主要用户"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.expressions.description": {
-        "string": "Generate dynamic number or string values."
+    "community.sinatra.profiles.not_valid_instagram_handle": {
+        "string": "无效的Instagram用户名"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.title": {
-        "string": "Conditionals"
+    "community.sinatra.profiles.not_valid_twitter_handle": {
+        "string": "无效的Twitter用户名"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.conditionals.description": {
-        "string": "Use if/then formulas for more customized flows."
+    "community.sinatra.profiles.permission_denied": {
+        "string": "权限被拒绝"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.title": {
-        "string": "Multiple actions"
+    "community.sinatra.profiles.please_provide_a_primary_email": {
+        "string": "请提供主要电子邮件"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.multiple_actions.description": {
-        "string": "Set multiple actions in a single pathway."
+    "community.sinatra.profiles.please_provide_a_secondary_email": {
+        "string": "请提供次要电子邮件"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.title": {
-        "string": "Video in prototypes"
+    "community.sinatra.profiles.please_provide_the_email_of_the_new_primary_user": {
+        "string": "请提供新主要用户的电子邮件"
     },
-    "help_widget.collective_upsells.fullscreen.card.advanced_prototyping.video_in_prototypes.description": {
-        "string": "Add videos for more richness and realism."
+    "community.sinatra.profiles.primary_user_does_not_have_a_profile": {
+        "string": "主要用户没有个人资料"
     },
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.title": {
-        "string": "Password protection"
+    "community.sinatra.profiles.primary_user_not_found": {
+        "string": "未找到主要用户"
     },
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.password_protection.description": {
-        "string": "Control visibility with open or protected files."
+    "community.sinatra.profiles.profile_already_exists": {
+        "string": "个人资料已存在"
     },
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.title": {
-        "string": "Private projects"
+    "community.sinatra.profiles.profile_does_not_belong_to_current_user": {
+        "string": "个人资料不属于当前用户"
     },
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.private_projects.description": {
-        "string": "Create invite-only spaces for private collaboration."
+    "community.sinatra.profiles.profile_not_found": {
+        "string": "未找到个人资料"
     },
-    "help_widget.collective_upsells.fullscreen.card.enhanced_privacy.prototype_only_sharing.title": {
-        "string": "Prototype-only sharing"
+    "community.sinatra.profiles.secondary_user_not_found": {
+        "string": "未找到次要用户"
     }
 }

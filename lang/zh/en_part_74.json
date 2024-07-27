@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_modal.create_branch_tooltip": {
-        "string": "Create branch"
+    "community.publishing.is_under_review.file": {
+        "string": "文件正在审核中"
     },
-    "collaboration.branching.edited": {
-        "string": "{userHandle} · Edited {relativeTimestamp}"
+    "community.publishing.is_under_review.plugin": {
+        "string": "插件正在审核中"
     },
-    "collaboration.branching.merged_v2": {
-        "string": "{userHandle} · Merged {relativeTimestamp}"
+    "community.publishing.is_under_review.widget": {
+        "string": "小部件正在审核中"
     },
-    "collaboration.branching.archived_v2": {
-        "string": "{userHandle} · Archived {relativeTimestamp}"
+    "community.publishing.last_published_on_date_time": {
+        "string": "最后发布于{dateTime}"
     },
-    "collaboration.branching.archive": {
-        "string": "Archive"
+    "community.publishing.license": {
+        "string": "许可证"
     },
-    "collaboration.branching.restore": {
-        "string": "Restore"
+    "community.publishing.made_for_all_product_types": {
+        "string": "适用于所有产品和模式"
     },
-    "collaboration.branching.copy_link": {
-        "string": "Copy link"
+    "community.publishing.made_for_figjam": {
+        "string": "为FigJam制作"
     },
-    "collaboration.branching.delete": {
-        "string": "Delete"
+    "community.publishing.made_for_figjam_and_dev": {
+        "string": "适用于FigJam+开发模式"
     },
-    "collaboration.branching.rename": {
-        "string": "Rename"
+    "community.publishing.made_for_figma_design": {
+        "string": "为Figma设计制作"
     },
-    "collaboration.branching.current_branch": {
-        "string": "(Current branch)"
+    "community.publishing.made_for_figma_design_and_figjam": {
+        "string": "为Figma设计+FigJam制作"
     },
-    "collaboration.branching.open": {
-        "string": "Open"
+    "community.publishing.made_for_figma_design_and_inspect": {
+        "string": "为Figma设计+开发模式制作"
     },
-    "collaboration.branching.options": {
-        "string": "Options"
+    "community.publishing.made_for_inspect": {
+        "string": "为开发模式制作"
     },
-    "collaboration.branching.an_error_occurred_while_renaming_this_file": {
-        "string": "An error occurred while renaming this file."
+    "community.publishing.name_must_be_4_characters_long": {
+        "string": "名称必须至少4个字符"
     },
-    "collaboration.branching.branches_restored": {
-        "string": "{branchCount, plural, one {Branch restored} other {Branches restored}}"
+    "community.publishing.name_must_be_at_most_100_characters_long": {
+        "string": "名称必须最多100个字符"
     },
-    "collaboration.branching.undo_archive": {
-        "string": "Undo"
+    "community.publishing.name_must_not_be_empty": {
+        "string": "名称不能为空"
     },
-    "collaboration.branching.branch_archived": {
-        "string": "Branch archived"
+    "community.publishing.need_to_accept_your_invitation": {
+        "string": "要将创作者添加到资源页面，创作者需要接受邀请。"
     },
-    "collaboration.branching.branch_deleted": {
-        "string": "Branch deleted"
+    "community.publishing.network": {
+        "string": "网络"
     },
-    "collaboration.branching.error_archiving_branches": {
-        "string": "{branchCount, plural, one {An error occurred while archiving this branch.} other {An error occurred while archiving these branches.}}"
+    "community.publishing.new_price_will_appear_within_an_hour_on_Community": {
+        "string": "新价格将在1小时内显示在社区"
     },
-    "collaboration.branching.error_deleting_branches": {
-        "string": "{branchCount, plural, one {An error occurred while deleting this branch.} other {An error occurred while deleting these branches.}}"
+    "community.publishing.number_of_resources": {
+        "string": "{num, plural, other {{num}个资源}}"
     },
-    "collaboration.branching.merged": {
-        "string": "Merged"
+    "community.publishing.org_name": {
+        "string": "{org}（组织）"
     },
-    "collaboration.branching.archived": {
-        "string": "Archived"
+    "community.publishing.our_team_will_review": {
+        "string": "我们的团队将在3-7个工作日内审核您的资源。"
     },
-    "collaboration.branching.in_review": {
-        "string": "In review"
+    "community.publishing.paid_resource_success_info": {
+        "string": "如果没有问题，将在社区中发布。如果有任何问题，我们将与您联系。"
     },
-    "collaboration.branching.approved": {
-        "string": "Approved"
+    "community.publishing.payee_label": {
+        "string": "收款人"
     },
-    "collaboration.branching.changes_suggested": {
-        "string": "Changes suggested"
+    "community.publishing.payee_name_annotation": {
+        "string": "（所有者）"
     },
-    "collaboration.branching_node_treatments.unnamed_node": {
-        "string": "Unnamed node"
+    "community.publishing.payee_name_annotation_for_current_owner": {
+        "string": "（你）"
     },
-    "collaboration.branching_node_treatments.property.added_node": {
-        "string": "Added"
+    "community.publishing.people_given_update_permissions_are_not_visible_to_the_public": {
+        "string": "所有被邀请的用户都可以公开更新此资源。如果要认可某人为创作者，请将其姓名或用户名添加到{createdByLink}。"
     },
-    "collaboration.branching_node_treatments.property.removed_node": {
-        "string": "Removed"
+    "community.publishing.permissions.org_private_info_text": {
+        "string": "团队成员和其他开发者等，可以更新此资源的所有人"
     },
-    "collaboration.branching_node_treatments.property.prototype": {
-        "string": "Prototype"
+    "community.publishing.permissions_tab": {
+        "string": "权限"
     },
-    "collaboration.branching_node_treatments.value.prototype_behavior_edited": {
-        "string": "Prototype behavior edited"
+    "community.publishing.playground_file": {
+        "string": "Playground文件"
     },
-    "collaboration.branching_node_treatments.property.plugin_data": {
-        "string": "Plugin data"
+    "community.publishing.playground_file.dropdown.open_file": {
+        "string": "打开源文件"
     },
-    "collaboration.branching_node_treatments.value.plugin_data_edited": {
-        "string": "Plugin data edited"
+    "community.publishing.playground_file.dropdown.remove": {
+        "string": "删除"
     },
-    "collaboration.branching_node_treatments.property.font_variations": {
-        "string": "Font variations"
+    "community.publishing.playground_file.dropdown.update_to_latest_version": {
+        "string": "更新到最新版本"
     },
-    "collaboration.branching_node_treatments.value.font_variations_edited": {
-        "string": "Font variations edited"
+    "community.publishing.playground_file.figjam": {
+        "string": "FigJam"
     },
-    "collaboration.branching_node_treatments.property.widget_metadata": {
-        "string": "Widget metadata"
+    "community.publishing.playground_file.figma": {
+        "string": "Figma"
     },
-    "collaboration.branching_node_treatments.value.widget_metadata_edited": {
-        "string": "Widget metadata edited"
+    "community.publishing.playground_file.tooltip": {
+        "string": "Playground文件选项"
     },
-    "collaboration.branching_node_treatments.value.autolayout.fill": {
-        "string": "Fill"
+    "community.publishing.playground_file.updated_version_confirmation": {
+        "string": "已更新到最新版本 • {undoButton}"
     },
-    "collaboration.branching_node_treatments.value.autolayout.fixed": {
-        "string": "Fixed"
+    "community.publishing.playground_file_add_button": {
+        "string": "添加"
     },
-    "collaboration.branching_node_treatments.value.autolayout.hug": {
-        "string": "Hug"
+    "community.publishing.playground_file_for_plugin": {
+        "string": "添加展示插件功能的Playground文件"
     },
-    "collaboration.branching_node_treatments.value.autolayout.baseline": {
-        "string": "Baseline"
+    "community.publishing.playground_file_for_widget": {
+        "string": "添加展示小部件功能的Playground文件"
     },
-    "collaboration.branching_node_treatments.value.autolayout.center": {
-        "string": "Center"
+    "community.publishing.please_add_this_to_your_manifest": {
+        "string": "请将此添加到您的{filename}文件中"
     },
-    "collaboration.branching_node_treatments.value.autolayout.max": {
-        "string": "Max"
+    "community.publishing.please_add_this_to_your_manifest_period": {
+        "string": "请将此添加到您的{filename}文件中。"
     },
-    "collaboration.branching_node_treatments.value.autolayout.min": {
-        "string": "Min"
+    "community.publishing.please_enable_two_factor_authentication_to_publish_this_plugin": {
+        "string": "请启用双因素身份验证以发布此插件"
     },
-    "collaboration.branching_node_treatments.value.autolayout.space_between_legacy": {
-        "string": "Space between (deprecated)"
+    "community.publishing.please_enable_two_factor_authentication_to_publish_this_widget": {
+        "string": "请启用双因素身份验证以发布此小部件"
     },
-    "collaboration.branching_node_treatments.value.autolayout.space_between": {
-        "string": "Space between"
+    "community.publishing.please_verify_your_email_address_to_publish": {
+        "string": "请验证您的电子邮件地址以发布"
     },
-    "collaboration.branching_node_treatments.value.autolayout.px_amount": {
-        "string": "{value}px"
+    "community.publishing.plugin_missing_network_access": {
+        "string": "请将此可选字段添加到{filename}文件中进行测试。将“...”替换为插件需要访问的域名。如果插件不需要网络访问，请将其替换为“none”。"
     },
-    "collaboration.branching_node_treatments.property.horizontal_sizing": {
-        "string": "Horizontal sizing"
+    "community.publishing.plugin_playground_file_editor_type_error": {
+        "string": "此插件的Playground文件必须是{editorType}"
     },
-    "collaboration.branching_node_treatments.property.vertical_sizing": {
-        "string": "Vertical sizing"
+    "community.publishing.plugin_playground_file_help_text_new": {
+        "string": "使用Playground文件让所有人试用您的资源。您可以自己创建资源，也可以{useTemplateLink}"
     },
-    "collaboration.branching_node_treatments.property.stack_spacing": {
-        "string": "Stack spacing"
+    "community.publishing.plugin_tagline_input_placeholder": {
+        "string": "输入插件的简短描述"
     },
-    "collaboration.branching_node_treatments.property.stack_counter_spacing": {
-        "string": "Stack counter spacing"
+    "community.publishing.preview_as": {
+        "string": "预览方式"
     },
-    "collaboration.branching_node_treatments.value.autolayout.min_width": {
-        "string": "Min width"
+    "community.publishing.price_is_required_for_paid_resources": {
+        "string": "有偿资源需要输入价格"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "resources_tab.approved_plugins.table.already_approved": {
-        "string": "{numWorkspaces, plural, one {Already approved for {numWorkspaces} workspace} other {Already approved for {numWorkspaces} workspaces}}"
+    "sites.panel.toolbar_header.webpage": {
+        "string": "Webページ"
     },
-    "resources_tab.approved_plugins.table.last_requested_column": {
-        "string": "Last requested"
+    "sites.fullscreen_actions.copy-external-url": {
+        "string": "外部URLをコピー"
     },
-    "resources_tab.approved_plugins.table.requested_by_column": {
-        "string": "Requested by"
+    "sites.fullscreen_actions.copy-link": {
+        "string": "ページへのリンクをコピー"
     },
-    "resources_tab.approved_plugins.table.members": {
-        "string": "{numberOfMembers, plural, one {{numberOfMembers} member} other {{numberOfMembers} members}}"
+    "sites.fullscreen_actions.delete-selection": {
+        "string": "削除…"
     },
-    "resources_tab.approved_plugins.table.review_button": {
-        "string": "Review"
+    "sites.fullscreen_actions.duplicate-webpage": {
+        "string": "複製"
     },
-    "resources_tab.approved_plugins.table.requested_header": {
-        "string": "Requested"
+    "sites.fullscreen_actions.external_url_copied": {
+        "string": "外部URLがクリップボードにコピーされました"
     },
-    "billing_emails_modal.billing_emails_info.quarterly_true_ups": {
-        "string": "Quarterly true-ups"
+    "sites.fullscreen_actions.set-as-default-responsive-set": {
+        "string": "ホームページとして設定"
     },
-    "billing_emails_modal.billing_emails_info.quarterly_true_ups_description_1.seat_rename": {
-        "string": "True-ups let you confirm the number of full seats you're paying for on your next invoice."
+    "sites.add_breakpoint_modal.button": {
+        "string": "保存"
     },
-    "billing_emails_modal.billing_emails_info.quarterly_true_ups_description_2": {
-        "string": "True-ups are emailed every 3 months from your subscription start date. Reminders are also sent 28 days before, 2 weeks before, and 3 days before each true-up. {more}"
+    "sites.add_breakpoint_modal.name": {
+        "string": "名前"
     },
-    "billing_emails_modal.billing_emails_info.more": {
-        "string": "Learn more"
+    "sites.add_breakpoint_modal.title": {
+        "string": "カスタムレイアウト"
     },
-    "billing_emails_modal.billing_emails_info.about_billing_emails": {
-        "string": "We keep all admins and billing contacts informed about renewals, invoices, and more."
+    "sites.add_breakpoint_modal.width": {
+        "string": "ブレイクポイント幅"
     },
-    "billing_emails_modal.billing_emails_info.annual_subscriptions_and_renewals": {
-        "string": "Annual subscriptions and renewals"
+    "sites.breakpoint_bar.add_custom_breakpoint": {
+        "string": "設定..."
     },
-    "billing_emails_modal.billing_emails_info.annual_subscription_renews_on_description": {
-        "string": "This annual subscription renews on {date} and renews every year on that date. Figma sends reminders 14 days and 5 days before a renewal to all admins."
+    "sites.breakpoint_bar.add_desktop_breakpoint": {
+        "string": "デスクトップ"
     },
-    "billing_emails_modal.billing_emails_info.subscription_date": {
-        "string": "{subscriptionStart}"
+    "sites.breakpoint_bar.add_mobile_breakpoint": {
+        "string": "モバイル"
     },
-    "billing_emails_modal.billing_emails_info.close": {
-        "string": "Got it"
+    "sites.breakpoint_bar.add_tablet_breakpoint": {
+        "string": "タブレット"
     },
-    "billing_emails_modal.billing_emails_info.what_billing_emails": {
-        "string": "What billing emails do I get?"
+    "sites.breakpoint_bar.adjust_font_size": {
+        "string": "フォントサイズ"
     },
-    "org_settings.scim.scim_group_description": {
-        "string": "SCIM allows you to automatically update, provision, and deprovision users. Use it to assign users to billing groups and/or workspaces and manage their licenses. For more information, view this {helpArticle}."
+    "sites.breakpoint_bar.auto_adjust": {
+        "string": "オートレイアウト"
     },
-    "org_settings.scim.scim_description": {
-        "string": "SCIM allows you to automatically update, provision, and deprovision users. For more information, view this {helpArticle}."
+    "sites.breakpoint_bar.auto_adjust_title": {
+        "string": "新しいレイアウトに合わせて調整"
     },
-    "org_settings.sso.help_article": {
-        "string": "help article"
+    "sites.toolbar.new_site_file": {
+        "string": "Webサイト"
     },
-    "org_settings.scim.api_token": {
-        "string": "API token"
+    "sites.toolbar.publish": {
+        "string": "公開"
     },
-    "org_settings.scim.api_token_generated_at": {
-        "string": "Generated {timestamp}"
+    "sites.toolbar.publish_disabled_tooltip": {
+        "string": "アルファ期間中は、公開機能は無効です"
     },
-    "org_settings.scim.revoke_token_access": {
-        "string": "Revoke token access…"
+    "sites.toolbar.publish_modal.copy_url_tooltip": {
+        "string": "URLをクリップボードにコピー"
     },
-    "org_settings.scim.generate_api_token": {
-        "string": "Generate API token"
+    "sites.toolbar.publish_modal.domain_header": {
+        "string": "ドメイン"
     },
-    "org_settings.sign_in_method.done": {
-        "string": "Done"
+    "sites.toolbar.publish_modal.last_published": {
+        "string": "{timeAgo}に最新版公開"
     },
-    "org_settings.scim.saml_sso_must_be_configured": {
-        "string": "SAML SSO must be configured"
+    "sites.toolbar.publish_modal.last_published_with_publisher": {
+        "string": "{timeAgo}に {publishedBy}が最新版を公開"
     },
-    "org_settings.scim.scim_provisioning": {
-        "string": "SCIM Provisioning"
+    "sites.toolbar.publish_modal.no_changes": {
+        "string": "変更なし"
     },
-    "org_settings.sso.you_must_use_a_web_browser": {
-        "string": "You must use a web browser to modify authentication settings"
+    "sites.toolbar.publish_modal.publish_changes_label": {
+        "string": "変更を公開"
     },
-    "org_settings.sign_in_method.any": {
-        "string": "Members may log in with any available method, including email and password {default}"
+    "sites.toolbar.publish_modal.publish_now_label": {
+        "string": "今すぐ公開"
     },
-    "org_settings.sign_in_method.default": {
-        "string": "(default)"
+    "sites.toolbar.publish_modal.publishing_label": {
+        "string": "公開処理中..."
     },
-    "org_settings.sign_in_method.members_must_log_in_with_a_google_account": {
-        "string": "Members must log in with a Google account"
+    "sites.toolbar.publish_tooltip": {
+        "string": "サイトをWebに公開"
     },
-    "org_settings.sign_in_method.members_must_log_in_with_saml_sso": {
-        "string": "Members must log in with SAML SSO"
+    "sites.toolbar.publishing_your_site": {
+        "string": "サイトを公開..."
     },
-    "org_settings.sign_in_method.you_need_to_configure_saml_sso_first": {
-        "string": "You need to configure SAML SSO first"
+    "sites.visual_bell.auto_adjust": {
+        "string": "新しいレイアウトを追加し、調整しています..."
     },
-    "org_settings.sign_in_method.authentication": {
-        "string": "Authentication"
+    "slides.carousel.add-blank-slide": {
+        "string": "空白のスライドを追加"
     },
-    "org_settings.sso.domain_requirement": {
-        "string": "SAML SSO users must have an email domain matching {domains}.  If you would like to add another domain, please {contactSupport}."
+    "slides.carousel.add-slide-from-template": {
+        "string": "テンプレートからスライドを追加"
     },
-    "org_settings.sso.contact_support": {
-        "string": "contact support"
+    "slides.carousel.error": {
+        "string": "エラーが発生しました。"
     },
-    "org_settings.sso.copy": {
-        "string": "Copy"
+    "slides.carousel.error_solution": {
+        "string": "もう一度読み込んでやり直してください。"
     },
-    "org_settings.sso.your_configuration_details": {
-        "string": "Your configuration details are:"
+    "slides.carousel.new_slide": {
+        "string": "新しいスライド"
     },
-    "org_settings.sso.saml_sso_description": {
-        "string": "SAML single sign-on allows you to manage your users with a third-party identity provider (IdP). For more information, view this {helpArticle}."
+    "slides.carousel.slide_stack_tooltip": {
+        "string": "スライド{min}から{max}"
     },
-    "org_settings.sso.edit_configuration": {
-        "string": "Edit configuration"
+    "slides.flapp.alignment.neutral_label": {
+        "string": "どちらとも言えない"
     },
-    "org_settings.sso.done": {
-        "string": "Done"
+    "slides.flapp.alignment.prompt_placeholder": {
+        "string": "意見の一致度スケール"
     },
-    "org_settings.sso.copied": {
-        "string": "Copied!"
+    "slides.flapp.alignment.strongly_agree_label": {
+        "string": "まったくそう思う"
     },
-    "org_settings.sso.tenant_id": {
-        "string": "Tenant ID"
+    "slides.flapp.alignment.strongly_disagree_label": {
+        "string": "まったくそうは思わない"
     },
-    "org_settings.sso.sp_entity_id": {
-        "string": "SP entity ID"
+    "slides.flapp.embed.add_button_invalid_link_tooltip": {
+        "string": "無効なプロトタイプリンク"
     },
-    "org_settings.sso.sp_acs_url": {
-        "string": "SP ACS URL"
+    "slides.flapp.embed.add_button_label": {
+        "string": "追加"
     },
-    "org_settings.sso.okta": {
-        "string": "Okta"
+    "slides.flapp.embed.add_prototype_link_header": {
+        "string": "リンクを使用"
     },
-    "org_settings.sso.azure": {
-        "string": "Azure"
+    "slides.flapp.embed.add_prototype_link_hint": {
+        "string": "例: {prototype_link_prefix}..."
     },
-    "org_settings.sso.one_login": {
-        "string": "OneLogin"
+    "slides.flapp.embed.modal_description": {
+        "string": "デザインファイルからプロトタイプを追加します。"
     },
-    "org_settings.sso.other": {
-        "string": "Other"
+    "slides.flapp.embed.prototype_modal_title": {
+        "string": "プロトタイプを追加"
     },
-    "org_settings.sso.not_configured": {
-        "string": "Not configured"
+    "slides.flapp.embed.recent_prototypes_header": {
+        "string": "最近"
     },
-    "org_settings.sso.idp": {
-        "string": "IdP"
+    "slides.flapp.embed.title": {
+        "string": "スライド埋め込み"
     }
 }

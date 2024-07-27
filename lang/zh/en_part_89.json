@@ -1,152 +1,152 @@
 {
-    "design_systems.publishing_modal.count_with_total": {
-        "string": "({count} of {total})"
+    "design_systems.instance_swap_picker.search_preferred": {
+        "string": "搜索优先值"
     },
-    "design_systems.publishing_modal.count": {
-        "string": "({count})"
+    "design_systems.instance_swap_picker.show_as_grid": {
+        "string": "网格显示"
     },
-    "design_systems.publishing_modal.marked_for_publish_header_with_count": {
-        "string": "Marked for publish {countString}"
+    "design_systems.instance_swap_picker.show_as_list": {
+        "string": "列表显示"
     },
-    "design_systems.publishing_modal.hidden_header_with_count": {
-        "string": "Hidden {countString}"
+    "design_systems.libraries_modal.30_days": {
+        "string": "30天"
     },
-    "design_systems.publishing_modal.these_wont_be_published": {
-        "string": "These won't be published."
+    "design_systems.libraries_modal.60_days": {
+        "string": "60天"
     },
-    "design_systems.publishing_modal.hidden_variable_count": {
-        "string": "{count, plural, one {({count} hidden variable)} other {({count} hidden variables)}}"
+    "design_systems.libraries_modal.90_days": {
+        "string": "90天"
     },
-    "design_systems.publishing_modal.header_changed_variable_count": {
-        "string": "{count, plural, one {({count} changed variable)} other {({count} changed variables)}}"
+    "design_systems.libraries_modal.activity_this_week": {
+        "string": "本周活动"
     },
-    "design_systems.publishing_modal.hidden_variable_count_no_parentheses": {
-        "string": "{count, plural, one {{count} hidden variable} other {{count} hidden variables}}"
+    "design_systems.libraries_modal.add_to_file": {
+        "string": "添加到文件"
     },
-    "design_systems.publishing_modal.header_changed_variable_count_no_parentheses": {
-        "string": "{count, plural, one {{count} changed variable} other {{count} changed variables}}"
+    "design_systems.libraries_modal.added": {
+        "string": "已添加"
     },
-    "design_systems.publishing_modal.back": {
-        "string": "Back"
+    "design_systems.libraries_modal.admin_list_1": {
+        "string": "团队管理员是{adminHandle}。"
     },
-    "design_systems.updates.updated": {
-        "string": "Updated"
+    "design_systems.libraries_modal.admin_list_2": {
+        "string": "团队管理员是{adminHandle1}和{adminHandle2}。"
     },
-    "design_systems.updates.update_instance": {
-        "string": "Update instance"
+    "design_systems.libraries_modal.admin_list_3": {
+        "string": "团队管理员是{adminHandle1}、{adminHandle2}和{adminHandle3}。"
     },
-    "design_systems.libraries_modal.next_component": {
-        "string": "Next component"
+    "design_systems.libraries_modal.admin_list_many": {
+        "string": "团队管理员是{adminHandle1}、{adminHandle2}等{numAdditionalAdmins}人。"
     },
-    "design_systems.updates.preview_unavailable": {
-        "string": "Preview unavailable"
+    "design_systems.libraries_modal.all_files": {
+        "string": "所有文件"
     },
-    "design_systems.updates.instanceName": {
-        "string": "{assetName} instance"
+    "design_systems.libraries_modal.all_variants": {
+        "string": "所有变体"
     },
-    "design_systems.updates.styleName": {
-        "string": "{assetName} style"
+    "design_systems.libraries_modal.analytics": {
+        "string": "分析"
     },
-    "design_systems.updates.instanceIndexOfTotal": {
-        "string": "{overallItemIndex} of {totalNumItems} instances"
+    "design_systems.libraries_modal.back": {
+        "string": "返回"
     },
-    "design_systems.updates.go_to_current_instance": {
-        "string": "Go to instance"
+    "design_systems.libraries_modal.back_to_library": {
+        "string": "返回库"
     },
-    "design_systems.updates.update_style": {
-        "string": "Update style"
+    "design_systems.libraries_modal.branch_of": {
+        "string": "{repoName}的分支"
     },
-    "design_systems.updates.current": {
-        "string": "Current"
+    "design_systems.libraries_modal.choose_library": {
+        "string": "选择库"
     },
-    "design_systems.updates.back_to_all_updates": {
-        "string": "Back to all updates"
+    "design_systems.libraries_modal.compare_with": {
+        "string": "比较"
     },
-    "design_systems.updates.this_instance_is_hidden": {
-        "string": "This instance is hidden"
+    "design_systems.libraries_modal.component_insertions": {
+        "string": "组件插入"
     },
-    "design_systems.updates.previous_instance": {
-        "string": "Previous instance"
+    "design_systems.libraries_modal.component_name": {
+        "string": "组件名称"
     },
-    "design_systems.updates.next_instance": {
-        "string": "Next instance"
+    "design_systems.libraries_modal.component_statistics": {
+        "string": "组件统计"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.restore_component": {
-        "string": "Restore Component"
+    "design_systems.libraries_modal.components": {
+        "string": "组件"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.this_component_was_moved": {
-        "string": "This component was moved to {otherFile}."
+    "design_systems.libraries_modal.confirm_override.button_cancel": {
+        "string": "取消"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.accept_component_updates": {
-        "string": "Accept component updates on your instances in order to connect them to the newly moved component."
+    "design_systems.libraries_modal.confirm_override.button_confirm": {
+        "string": "更新"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.restoring_will_allow": {
-        "string": "Restoring now will allow you to publish a copy, but it won't move instance connections back to this file. To move instance connections back, cut and paste the component back into this file and publish."
+    "design_systems.libraries_modal.confirm_override.description_org": {
+        "string": "更改此设置将覆盖组织管理员设定的默认值。管理员将收到通知。"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.restore_the_main_component_to_continue_making_edits_to_it": {
-        "string": "Restore the main component to continue making edits to it."
+    "design_systems.libraries_modal.confirm_override.description_workspace": {
+        "string": "更改此设置将覆盖工作区管理员设定的默认值。管理员将收到通知。"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.cancel": {
-        "string": "Cancel"
+    "design_systems.libraries_modal.confirm_override.title": {
+        "string": "更新此设置？"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.restore": {
-        "string": "Restore"
+    "design_systems.libraries_modal.contact_a_team_admin": {
+        "string": "联系团队管理员以启用团队的默认库。"
     },
-    "fullscreen.fullscreen_view.restore_component_modal.another_file": {
-        "string": "another file"
+    "design_systems.libraries_modal.curated_libraries": {
+        "string": "精选库"
     },
-    "fullscreen.properties_panel.tooltip_moreActions": {
-        "string": "More actions"
+    "design_systems.libraries_modal.current_file": {
+        "string": "当前文件"
     },
-    "collaboration.spotlight.bell.dismiss": {
-        "string": "Dismiss"
+    "design_systems.libraries_modal.current_file_has_x_changes": {
+        "string": "当前文件有{numChangesText}个更改"
     },
-    "collaboration.spotlight.bell.presenter.follower_count": {
-        "string": "{followerCount, plural, one {{followerCount} follower} other {{followerCount} followers}}"
+    "design_systems.libraries_modal.current_file_is_published": {
+        "string": "当前文件已发布"
     },
-    "recordings.stop_recording": {
-        "string": "Stop Recording"
+    "design_systems.libraries_modal.default_library_for_all_files": {
+        "string": "所有文件的默认库"
     },
-    "recordings.start_recording": {
-        "string": "Start Recording"
+    "design_systems.libraries_modal.default_library_for_design_files": {
+        "string": "设计文件的默认库"
     },
-    "recordings.resume": {
-        "string": "Resume"
+    "design_systems.libraries_modal.default_library_for_fig_jam_files": {
+        "string": "FigJam文件的默认库"
     },
-    "recordings.pause": {
-        "string": "Pause"
+    "design_systems.libraries_modal.description": {
+        "string": "描述"
     },
-    "recordings.close": {
-        "string": "Close"
+    "design_systems.libraries_modal.design": {
+        "string": "设计文件"
     },
-    "recordings.none": {
-        "string": "None"
+    "design_systems.libraries_modal.detaches_last_duration": {
+        "string": "过去{duration}的分离次数"
     },
-    "desktop_open_views.open_in_desktop_from_now_on_modal.preferences_message": {
-        "string": "You can always change this in your preferences."
+    "design_systems.libraries_modal.don_t_show_again": {
+        "string": "不再显示"
     },
-    "desktop_open_views.modal.dismiss_button": {
-        "string": "Dismiss"
+    "design_systems.libraries_modal.download_csv": {
+        "string": "下载CSV"
     },
-    "desktop_open_views.open_in_desktop_from_now_on_modal.always_open_in_app_button": {
-        "string": "Always open in the desktop app"
+    "design_systems.libraries_modal.draft_libraries": {
+        "string": "草稿库"
     },
-    "desktop_open_views.open_in_desktop_from_now_on_modal.title": {
-        "string": "Open files in the desktop app from now on?"
+    "design_systems.libraries_modal.dsa_csv_file_name": {
+        "string": "{libraryName}-team-usage.csv"
     },
-    "dev_handoff.paywall.banner.title": {
-        "string": "Get coding, faster"
+    "design_systems.libraries_modal.dsa_csv_num_insertions": {
+        "string": "插入次数"
     },
-    "cross_sell.mobile_app_prompt.comment_title": {
-        "string": "Comments are now in our app"
+    "design_systems.libraries_modal.dsa_csv_percent_insertions": {
+        "string": "插入百分比"
     },
-    "cross_sell.mobile_app_prompt.comment_description": {
-        "string": "Try the Figma mobile app to stay on top of activity like comments, replies, and @mentions when you're on the go."
+    "design_systems.libraries_modal.dsa_csv_team_id": {
+        "string": "团队ID"
     },
-    "cross_sell.mobile_app_prompt.comment_image_alt_text": {
-        "string": "Mock Figma mobile apps with comments and comment reactions shown"
+    "design_systems.libraries_modal.dsa_csv_team_name": {
+        "string": "团队名称"
     },
-    "cross_sell.mobile_app_prompt.button_title": {
-        "string": "Get the app"
+    "design_systems.libraries_modal.dsa_graph_tooltip": {
+        "string": "{numInsertions, plural, other {{numInsertions}次插入}}"
     }
 }

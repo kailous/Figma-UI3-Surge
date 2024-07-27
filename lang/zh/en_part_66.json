@@ -1,152 +1,152 @@
 {
-    "role_row.you_label": {
-        "string": "(You)"
+    "community.view_bar.creators": {
+        "string": "创作者"
     },
-    "community.publishing.publisher_role_can_update": {
-        "string": "Can update"
+    "community.view_bar.curated_by": {
+        "string": "管理者"
     },
-    "community.publishing.need_to_accept_your_invitation": {
-        "string": "They’ll need to accept your invitation before being  added to the resource page."
+    "community.view_bar.dev_mode": {
+        "string": "Figma：开发模式"
     },
-    "community.publishing.copied": {
-        "string": "Copied"
+    "community.view_bar.fig_jam": {
+        "string": "FigJam"
     },
-    "community.publishing.copy": {
-        "string": "Copy"
+    "community.view_bar.figma": {
+        "string": "Figma"
     },
-    "file_browser.modal.are_you_sure_to_transfer_ownership": {
-        "string": "Are you sure you want to make {newOwnerName} the owner of {resourceName}?"
+    "community.view_bar.figma_partners_only": {
+        "string": "仅限Figma合作伙伴"
     },
-    "file_browser.modal.cannot_undo_warning": {
-        "string": "You can't undo this action."
+    "community.view_bar.figma_prototype": {
+        "string": "Figma原型"
     },
-    "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.widget": {
-        "string": "Transfer ownership of widget?"
+    "community.view_bar.files": {
+        "string": "文件"
     },
-    "community.publishing.confirm_plugin_ownership_transfer_modal.transfer_plugin_ownership.plugin": {
-        "string": "Transfer ownership of plugin?"
+    "community.view_bar.files_and_templates": {
+        "string": "文件和模板"
     },
-    "file_browser.modal.transfer_ownership_cta": {
-        "string": "Transfer ownership"
+    "community.view_bar.following": {
+        "string": "关注中"
     },
-    "community.publishing.type_name_or_handle": {
-        "string": "Type name or Community handle to add creator"
+    "community.view_bar.home": {
+        "string": "主页"
     },
-    "community.detail_view.recent_files": {
-        "string": "Recent files"
+    "community.view_bar.plugins": {
+        "string": "插件"
     },
-    "community.using.playground_file": {
-        "string": "Playground file"
+    "community.view_bar.slides": {
+        "string": "Figma幻灯片"
     },
-    "community.using.figjam_board": {
-        "string": "FigJam board"
+    "community.view_bar.updated_date": {
+        "string": "更新日期 {date}"
     },
-    "community.using.figma_file": {
-        "string": "Figma file"
+    "community.view_bar.widgets": {
+        "string": "小部件"
     },
-    "community.using.new_file": {
-        "string": "New file"
+    "community_detail_view.creators_note": {
+        "string": "创作者备注："
     },
-    "community.publishing.publish_tab": {
-        "string": "Publish"
+    "community_detail_view.learn_more_network_access": {
+        "string": "了解更多"
     },
-    "templates.publishing.restore_default_thumbnail": {
-        "string": "Restore default thumbnail"
+    "community.actions.an_error_occured_while_trying_to_purchase_please_contact_support": {
+        "string": "尝试购买此资源时发生错误。请联系support@figma.com获取支持。"
     },
-    "templates.publishing.upload_custom_thumbnail": {
-        "string": "Upload custom thumbnail"
+    "community.actions.an_error_occurred": {
+        "string": "发生错误"
     },
-    "templates.publishing.thumbnail_size_dimension_spec": {
-        "string": "Size: 1920x960"
+    "community.actions.an_error_occurred_accepting_invite_please_refresh_and_try_again": {
+        "string": "接受邀请时发生错误。请刷新并重试。"
     },
-    "fullscreen.fullscreen_view_selector.untitled": {
-        "string": "Untitled"
+    "community.actions.an_error_occurred_while_removing_publisher_please_refresh_and_try_again": {
+        "string": "删除发布者时发生错误。请刷新并重试。"
     },
-    "community.publish.modal_error_badge": {
-        "string": "{numErrors, plural, one {{numErrors} error} other {{numErrors} errors}}"
+    "community.actions.an_error_occurred_while_searching_for_plugins": {
+        "string": "搜索插件时发生错误"
     },
-    "community.publishing.add_creators": {
-        "string": "Add creators"
+    "community.actions.an_error_occurred_while_searching_for_widgets": {
+        "string": "搜索小部件时发生错误"
     },
-    "community.seller.by_using_this_feature_you_agree_to_the": {
-        "string": " By using this feature you agree to the {link}."
+    "community.actions.an_error_occurred_while_trying_to_fetch_the_org_widgets_list": {
+        "string": "尝试获取组织的小部件列表时发生错误。"
     },
-    "community.seller.pricing": {
-        "string": "Pricing"
+    "community.actions.an_error_occurred_while_updating_please_refresh_and_try_again": {
+        "string": "更新时发生错误。请刷新并重试。"
     },
-    "community.seller.sell_on_community": {
-        "string": "Sell this on Community"
+    "community.actions.an_error_occurred_with_error": {
+        "string": "发生错误：{error}"
     },
-    "community.publishing.upload_at_least_one_image_or_video": {
-        "string": "Upload at least 1 image or video"
+    "community.actions.attempting_to_publish_an_invalid_prototype_as_a_prototype": {
+        "string": "尝试将无效原型作为原型发布"
     },
-    "community.publishing.upload_at_least_one_image": {
-        "string": "Upload at least 1 image"
+    "community.actions.attempting_to_set_both_author_org_id_and_author_team_id_while_publishing": {
+        "string": "发布时尝试同时设置authorOrgId和authorTeamId"
     },
-    "community.publishing.upload_images_and_videos_to_show_off_your_widget": {
-        "string": "Upload images and videos to show off your widget"
+    "community.actions.could_not_connect_to_the_server": {
+        "string": "无法连接到服务器。"
     },
-    "community.publishing.upload_images_and_videos_to_show_off_your_plugin": {
-        "string": "Upload images and videos to show off your plugin"
+    "community.actions.could_not_publish_hub_file": {
+        "string": "无法发布文件：{error}"
     },
-    "community.publishing.select_up_to_10_images_of_your_file": {
-        "string": "Select up to 10 images of your file"
+    "community.actions.could_not_publish_plugin_error": {
+        "string": "无法发布插件：{error}"
     },
-    "community.publishing.upload_instructions": {
-        "string": "Drag and drop, paste, or {chooseFileLink}"
+    "community.actions.could_not_publish_widget_error": {
+        "string": "无法发布小部件：{error}"
     },
-    "community.publishing.upload_from_your_computer": {
-        "string": "upload from your computer"
+    "community.actions.couldnt_restrict_profile_error": {
+        "string": "无法限制个人资料：{error}"
     },
-    "community.publishing.upload_instructions_recommended_size": {
-        "string": "Recommended size: 1920 x 1080"
+    "community.actions.couldnt_unrestrict_profile_error": {
+        "string": "无法解除限制个人资料：{error}"
     },
-    "community.publishing.thumbnail": {
-        "string": "Thumbnail"
+    "community.actions.email_was_removed_from_your_profile": {
+        "string": "{email}已从你的个人资料中删除"
     },
-    "community.publishing.restore_default_thumbnail": {
-        "string": "Restore default thumbnail"
+    "community.actions.error_connecting_to_server_to_upload_file_images": {
+        "string": "连接服务器上传文件图像时发生错误。"
     },
-    "community.publishing.set_as_thumbnail": {
-        "string": "Set as thumbnail"
+    "community.actions.error_fetching_email_notifications_information_error": {
+        "string": "获取电子邮件通知信息时发生错误：{error}"
     },
-    "community.publishing.some_media_was_deduplicated": {
-        "string": "Duplicate upload detected. Only unique files have been added to your carousel."
+    "community.actions.error_fetching_profile_information": {
+        "string": "获取个人资料信息时发生错误。"
     },
-    "community.publishing.you_can_only_upload_three_videos": {
-        "string": "You can only upload up to 3 videos"
+    "community.actions.error_finalizing_plugin_error": {
+        "string": "最终处理插件时发生错误：{error}"
     },
-    "community.publishing.you_can_only_upload_ten_images_and_videos": {
-        "string": "You can only upload up to 10 images and videos"
+    "community.actions.error_finalizing_widget_error": {
+        "string": "最终处理小部件时发生错误：{error}"
     },
-    "community.publishing.you_can_only_upload_ten_images": {
-        "string": "You can only upload up to 10 images"
+    "community.actions.error_subscribing_to_email_error": {
+        "string": "订阅电子邮件时发生错误：{error}"
     },
-    "file_browser.modal.this_resource_is_for_sale_on_community_so_you_cant_change_ownership": {
-        "string": "This resource is for sale on Community, so you can't make someone else the owner."
+    "community.actions.error_unsubscribing_from_email_error": {
+        "string": "取消订阅电子邮件时发生错误：{error}"
     },
-    "file_browser.modal.cant_transfer_ownership_title": {
-        "string": "Owner can't be changed"
+    "community.actions.error_uploading_carousel_image_error": {
+        "string": "上传轮播图像时发生错误：{error}"
     },
-    "file_browser.modal.got_it": {
-        "string": "Got it"
+    "community.actions.error_uploading_images_e": {
+        "string": "上传图像时发生错误"
     },
-    "community.publishing.payee_name_annotation_for_current_owner": {
-        "string": "(you)"
+    "community.actions.error_uploading_images_publish_update_from_editor": {
+        "string": "上传图像时发生错误。请尝试使用编辑器发布更新。"
     },
-    "community.publishing.payee_name_annotation": {
-        "string": "(owner)"
+    "community.actions.error_uploading_plugin_artwork_image_error": {
+        "string": "上传插件艺术作品图像时发生错误：{error}"
     },
-    "community.publishing.payee_label": {
-        "string": "Payee"
+    "community.actions.error_uploading_plugin_code_error": {
+        "string": "上传插件代码时发生错误：{error}"
     },
-    "community.publishing.category": {
-        "string": "Category"
+    "community.actions.error_uploading_plugin_icon_error": {
+        "string": "上传插件图标时发生错误：{error}"
     },
-    "community.publishing.select_a_category": {
-        "string": "Select a category"
+    "community.actions.error_uploading_plugin_video_error": {
+        "string": "上传插件视频时发生错误：{error}"
     },
-    "community.publishing.subcategory": {
-        "string": "Subcategory"
+    "community.actions.error_uploading_plugin_video_thumbnail_error": {
+        "string": "上传插件视频缩略图时发生错误：{error}"
     }
 }

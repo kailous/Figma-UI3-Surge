@@ -1,152 +1,152 @@
 {
-    "layer_icon.tooltip.sticky": {
-        "string": "Sticky"
+    "sidebar.items": {
+        "string": "项目"
     },
-    "layer_icon.tooltip.shape_with_text": {
-        "string": "Shape with text"
+    "sidebar.just_click_the_on_files_projects_and_teams_to_add_and_organize_them_here": {
+        "string": "点击文件、项目和团队上的☆将其添加到这里。"
     },
-    "layer_icon.tooltip.connector": {
-        "string": "Connector"
+    "sidebar.leave_shared_project": {
+        "string": "离开共享项目"
     },
-    "layer_icon.tooltip.stamp": {
-        "string": "Stamp"
+    "sidebar.meta.this_team_is_for_education_users_only": {
+        "string": "此团队仅限教育计划用户使用。新用户需要验证教育状态。"
     },
-    "layer_icon.tooltip.section": {
-        "string": "Section"
+    "sidebar.move_project": {
+        "string": "移动…"
     },
-    "layer_icon.tooltip.embed": {
-        "string": "Embed"
+    "sidebar.move_these_starred_items": {
+        "string": "移动以下星标项目"
     },
-    "layer_icon.tooltip.link_preview": {
-        "string": "Link preview"
+    "sidebar.need_an_upgrade_to_create": {
+        "string": "需要升级才能创建"
     },
-    "layer_icon.tooltip.widget": {
-        "string": "Widget"
+    "sidebar.new_design_file": {
+        "string": "新建设计文件"
     },
-    "layer_icon.tooltip.canvas": {
-        "string": "Canvas"
+    "sidebar.new_fig_jam_file": {
+        "string": "新建FigJam文件"
     },
-    "layer_icon.tooltip.table": {
-        "string": "Table"
+    "sidebar.new_file": {
+        "string": "新建文件"
     },
-    "layer_icon.tooltip.slide": {
-        "string": "Slide"
+    "sidebar.new_project": {
+        "string": "新建项目"
     },
-    "layer_icon.tooltip.home": {
-        "string": "Home"
+    "sidebar.new_section": {
+        "string": "新建部分"
     },
-    "layer_icon.tooltip.mask": {
-        "string": "Mask"
+    "sidebar.new_slides_file": {
+        "string": "新建幻灯片"
     },
-    "layer_icon.tooltip.video": {
-        "string": "Video"
+    "sidebar.org_browse_all": {
+        "string": "浏览全部"
     },
-    "layer_icon.tooltip.image": {
-        "string": "Image"
+    "sidebar.quick_search": {
+        "string": "快速搜索"
     },
-    "layer_icon.tooltip.live_object": {
-        "string": "Live object"
+    "sidebar.recents": {
+        "string": "最近查看的文件"
     },
-    "desktop_open_views.open_in_desktop_modal.always_open_in_app_checkbox": {
-        "string": "Always open in the app"
+    "sidebar.remove_from_favorites": {
+        "string": "从收藏中移除"
     },
-    "desktop_open_views.open_in_desktop_modal.open_in_app_button": {
-        "string": "Open in app"
+    "sidebar.rename": {
+        "string": "重命名"
     },
-    "desktop_open_views.open_in_desktop_modal.title": {
-        "string": "Do you want to open this file in the desktop app?"
+    "sidebar.rename_section": {
+        "string": "重命名部分"
     },
-    "inspect_panel.copy": {
-        "string": "Copy"
+    "sidebar.share": {
+        "string": "共享..."
     },
-    "inspect_panel.property.remaining_more": {
-        "string": "{remaining} more"
+    "sidebar.slides_file": {
+        "string": "Figma幻灯片文件"
     },
-    "dev_handoff.variables.inferred_color": {
-        "string": "Suggested variable usage based on the color value"
+    "sidebar.starred": {
+        "string": "星标"
     },
-    "dev_handoff.variables.inferred_value": {
-        "string": "Suggested variable usage based on the value ({value})"
+    "sidebar.teams": {
+        "string": "团队"
     },
-    "inspect_panel.property.selected": {
-        "string": "{numberOfItems} Selected"
+    "sidebar.them": {
+        "string": "他们"
     },
-    "inspect_panel.property.text": {
-        "string": "Text"
+    "sidebar.to_favorite_files_you_use_often": {
+        "string": "将鼠标悬停在文件上，点击星标以添加到这里"
     },
-    "inspect_panel.colors.solid": {
-        "string": "Solid"
+    "sidebar.workspaces": {
+        "string": "工作区"
     },
-    "inspect_panel.colors.gradient": {
-        "string": "{gradientType} Gradient"
+    "sidebar.workspaces.main_workspace_empty_state": {
+        "string": "加入此工作区的团队和项目以便在此处轻松访问。"
     },
-    "inspect_panel.images.image_type": {
-        "string": "Image"
+    "sidebar.workspaces.onboarding_description": {
+        "string": "快速访问团队、项目和所有固定的资源。"
     },
-    "proto.prototype_panel.video": {
-        "string": "Video"
+    "sidebar.workspaces.onboarding_title": {
+        "string": "这是您的工作区"
     },
-    "inspect_panel.property.mixed_value": {
-        "string": "(mixed)"
+    "sidebar.workspaces.other_teams": {
+        "string": "其他团队"
     },
-    "inspect_panel.colors.blend": {
-        "string": "Blend"
+    "sidebar.workspaces.workspace_section_empty_state": {
+        "string": "工作区中的团队和项目将在这里显示。"
     },
-    "inspect_panel.images.file_name": {
-        "string": "File Name"
+    "sidebar.your_teams_and_favorited_projects_will_appear_here": {
+        "string": "您的团队和收藏的项目将显示在这里"
     },
-    "inspect_panel.images.scale_mode": {
-        "string": "Scale Mode"
+    "team_creation.access": {
+        "string": "访问权限"
     },
-    "inspect_panel.properties.opacity": {
-        "string": "Opacity"
+    "team_creation.access_within_the_organization": {
+        "string": "组织内的访问权限:"
     },
-    "inspect_panel.strokes.cap_none": {
-        "string": "None"
+    "team_creation.add_a_name_or_email": {
+        "string": "通过名称或电子邮件邀请其他用户"
     },
-    "inspect_panel.strokes.cap_round": {
-        "string": "Round"
+    "team_creation.add_another": {
+        "string": "添加成员"
     },
-    "inspect_panel.strokes.cap_square": {
-        "string": "Square"
+    "team_creation.add_other_members": {
+        "string": "添加其他成员"
     },
-    "inspect_panel.strokes.cap_line_arrow": {
-        "string": "Line arrow"
+    "team_creation.add_people_to_team_name": {
+        "string": "向{teamName}添加用户"
     },
-    "inspect_panel.strokes.cap_triangle_arrow": {
-        "string": "Triangle arrow"
+    "team_creation.add_team_members": {
+        "string": "添加团队成员"
     },
-    "inspect_panel.property.effect_inner_shadow": {
-        "string": "Inner shadow"
+    "team_creation.add_your_collaborators": {
+        "string": "添加协作者"
     },
-    "inspect_panel.property.effect_drop_shadow": {
-        "string": "Drop shadow"
+    "team_creation.after_creating_a_team_you_can_invite_others_to_join": {
+        "string": "创建团队后，您可以邀请其他用户加入团队。"
     },
-    "inspect_panel.property.effect_layer_blur": {
-        "string": "Layer blur"
+    "team_creation.an_error_occurred_while_creating_this_team": {
+        "string": "创建此团队时发生错误。"
     },
-    "inspect_panel.property.effect_background_blur": {
-        "string": "Background blur"
+    "team_creation.anyone_can_find_this_team": {
+        "string": "任何人都可以找到并申请访问此团队。"
     },
-    "dev_handoff.variables.matching_color": {
-        "string": "Color variables matching:"
+    "team_creation.can_create_and_edit_files": {
+        "string": "可以创建和编辑此团队的文件，添加成员，更改成员的编辑权限。"
     },
-    "dev_handoff.variables.matching_number": {
-        "string": "Number variables matching:"
+    "team_creation.can_edit": {
+        "string": "新成员可以编辑"
     },
-    "dev_handoff.variables.matching": {
-        "string": "See variables that match this value"
+    "team_creation.can_edit_description": {
+        "string": "加入团队后，您可以创建、编辑和删除文件。"
     },
-    "fullscreen.properties_panel.color_picker.blend_mode_select.tooltip.blend_mode": {
-        "string": "Blend mode"
+    "team_creation.can_view": {
+        "string": "新成员可以查看"
     },
-    "fullscreen.color_controls.eyedropper": {
-        "string": "Eyedropper"
+    "team_creation.can_view_and_comment": {
+        "string": "可以查看和评论此团队的文件。"
     },
-    "fullscreen.properties_panel.color_picker.eyedropper": {
-        "string": "Eyedropper"
+    "team_creation.can_view_description": {
+        "string": "加入团队后，您可以查看文件并请求编辑。"
     },
-    "fullscreen.color_controls.red": {
-        "string": "Red"
+    "team_creation.closed_team": {
+        "string": "封闭团队"
     }
 }

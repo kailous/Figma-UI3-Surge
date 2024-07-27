@@ -1,152 +1,152 @@
 {
-    "permissions_modal.file_share_settings.more_hours": {
-        "string": "{num, plural, one {{num} more hour} other {{num} more hours}}"
+    "fullscreen.properties_panel.page": {
+        "string": "页面"
     },
-    "permissions_modal.file_share_settings.more_days": {
-        "string": "{num, plural, one {{num} more day} other {{num} more days}}"
+    "fullscreen.properties_panel.pause": {
+        "string": "暂停"
     },
-    "permissions_modal.file_share_settings.more_weeks": {
-        "string": "{num, plural, one {{num} more week} other {{num} more weeks}}"
+    "fullscreen.properties_panel.play": {
+        "string": "播放"
     },
-    "permissions_modal.file_share_settings.more_months": {
-        "string": "{num, plural, one {{num} more month} other {{num} more months}}"
+    "fullscreen.properties_panel.presets": {
+        "string": "预设"
     },
-    "permissions_modal.file_share_settings.only_public_for": {
-        "string": "Only public for {durationText}"
+    "fullscreen.properties_panel.preview": {
+        "string": "预览"
     },
-    "file_audience_row.settings_are_managed_in_the_main_file": {
-        "string": "Settings are managed in the main file"
+    "fullscreen.properties_panel.properties": {
+        "string": "属性"
     },
-    "folder_share_settings.the_following_people_have_access_remove_their_access_at_any_time": {
-        "string": "The following people have access to this file because they're members of the project where this file lives - {projectName}. Remove their access at any time."
+    "fullscreen.properties_panel.prototype": {
+        "string": "原型"
     },
-    "folder_share_settings.the_following_people_have_access": {
-        "string": "The following people have access to this file because they're members of the project where this file lives - {projectName}."
+    "fullscreen.properties_panel.radial": {
+        "string": "径向"
     },
-    "permissions_modal.file_share_settings.these_settings_won't_apply_to": {
-        "string": "These settings won't apply to the {numPeople} directly invited, or the members of {projectName}, who currently have access."
+    "fullscreen.properties_panel.remove": {
+        "string": "删除"
     },
-    "permissions_modal.file_share_settings.these_settings_won't_apply_to_no_project": {
-        "string": "These settings won't apply to the {numPeople} directly invited, or the members of {fileName}'s project, who currently have access."
+    "fullscreen.properties_panel.remove_background": {
+        "string": "删除背景（AI Beta）"
     },
-    "permissions_modal.file_share_settings.these_settings_won't_apply_to_presentation": {
-        "string": "These settings won't apply to the people directly invited to the presentation or the main file."
+    "fullscreen.properties_panel.restore_local_style": {
+        "string": "恢复本地样式"
     },
-    "permissions_modal.file_share_settings.these_settings_won't_apply_to_prototype": {
-        "string": "These settings won't apply to the people directly invited to the prototype or the main file."
+    "fullscreen.properties_panel.rotate_90": {
+        "string": "旋转90º"
     },
-    "permissions_modal.file_share_settings.this_setting_applies_to_anyone_with_view_access": {
-        "string": "This setting applies to anyone in the file with {strongCanView} access"
+    "fullscreen.properties_panel.saturation": {
+        "string": "饱和度"
     },
-    "project_creation.cancel": {
-        "string": "Cancel"
+    "fullscreen.properties_panel.scrolls": {
+        "string": "滚动"
     },
-    "team_view.team_permissions_modal.save": {
-        "string": "Save"
+    "fullscreen.properties_panel.section_appearance.label_opacity": {
+        "string": "不透明度"
     },
-    "permissions_modal.file_share_settings.password_copied_to_clipboard": {
-        "string": "Password copied to clipboard"
+    "fullscreen.properties_panel.section_position.label_alignment": {
+        "string": "对齐"
     },
-    "permissions_modal.file_share_settings.please_enter_a_password": {
-        "string": "Please enter a password"
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_circle": {
+        "string": "圆形"
     },
-    "permissions_modal.file_share_settings.num_people": {
-        "string": "{num, plural, one {{num} person} other {{num} people}}"
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_diamond": {
+        "string": "菱形"
     },
-    "permissions_modal.file_share_settings.any_changes_here_will_only_affect_presentation": {
-        "string": "Any changes will only affect access to the presentation—not the main file."
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_line": {
+        "string": "直线"
     },
-    "permissions_modal.file_share_settings.any_changes_here_will_only_affect_prototype": {
-        "string": "Any changes here will only affect access to the prototype and not the main file."
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_reversed": {
+        "string": "倒三角形"
     },
-    "folder_permissions_modal.who_can_access": {
-        "string": "Who can access"
+    "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_triangle": {
+        "string": "三角形"
     },
-    "folder_permissions_modal.what_can_they_do": {
-        "string": "What can they do"
+    "fullscreen.properties_panel.select_item_using_this_color": {
+        "string": "{numItems, plural, other {选择使用此颜色的{numItems}个项目}}"
     },
-    "permissions_modal.file_share_settings.can_view_and_comment_on_this_file": {
-        "string": "Can view and comment on this file."
+    "fullscreen.properties_panel.shadows": {
+        "string": "阴影"
     },
-    "permissions_modal.file_share_settings.can_edit_this_file": {
-        "string": "Can edit this file."
+    "fullscreen.properties_panel.show_hide": {
+        "string": "显示/隐藏"
     },
-    "permissions_modal.file_share_settings.additional_security": {
-        "string": "Additional security"
+    "fullscreen.properties_panel.show_in_exports": {
+        "string": "在导出中显示"
     },
-    "permissions_modal.file_share_settings.password_required": {
-        "string": "Password required"
+    "fullscreen.properties_panel.simplify_stroke": {
+        "string": "简化描边"
     },
-    "file_access_row.passwords.generate": {
-        "string": "Generate"
+    "fullscreen.properties_panel.solid": {
+        "string": "纯色"
     },
-    "permissions_modal.file_share_settings.link_expires_in": {
-        "string": "Link expires in..."
+    "fullscreen.properties_panel.stop": {
+        "string": "停止"
     },
-    "permissions_modal.file_share_settings.link_expiration": {
-        "string": "Link expiration"
+    "fullscreen.properties_panel.stroke.center": {
+        "string": "居中"
     },
-    "permissions_modal.file_share_settings.advanced": {
-        "string": "Advanced"
+    "fullscreen.properties_panel.stroke.inside": {
+        "string": "内部"
     },
-    "permissions_modal.file_share_settings.discoverable_via_search": {
-        "string": "Discoverable via search"
+    "fullscreen.properties_panel.stroke.outside": {
+        "string": "外部"
     },
-    "permissions_modal.file_share_settings.viewers_can_copy_share_export": {
-        "string": "Viewers can copy, share, and export from this file"
+    "fullscreen.properties_panel.stroke_settings": {
+        "string": "描边设置"
     },
-    "permissions_modal.file_share_settings.can_view": {
-        "string": "can view"
+    "fullscreen.properties_panel.stroke_settings.advanced_stroke": {
+        "string": "高级描边设置"
     },
-    "file_permissions_modal.share_as.dev_mode.learn_more": {
-        "string": "Learn more"
+    "fullscreen.properties_panel.stroke_settings.bevel": {
+        "string": "斜角"
     },
-    "file_permissions_modal.share_as.share_this_dev_mode_link": {
-        "string": "Share this Dev Mode link so collaborators can inspect designs, copy code, and use plugins to connect to helpful tools. {learnMore}"
+    "fullscreen.properties_panel.stroke_settings.circle_arrow": {
+        "string": "圆形箭头"
     },
-    "file_permissions_modal.share_as.dev_mode.open_dev_mode": {
-        "string": "Open dev mode"
+    "fullscreen.properties_panel.stroke_settings.custom": {
+        "string": "自定义"
     },
-    "file_permissions_modal.share_as.dev_mode.copy_link": {
-        "string": "Copy link"
+    "fullscreen.properties_panel.stroke_settings.dash": {
+        "string": "虚线"
     },
-    "publishing.templates.menu.title.published_to_org_name": {
-        "string": "Published to {orgName}"
+    "fullscreen.properties_panel.stroke_settings.dash_cap": {
+        "string": "线端"
     },
-    "publishing.templates.menu.title.unpublished": {
-        "string": "Template"
+    "fullscreen.properties_panel.stroke_settings.dash_gap": {
+        "string": "虚线间隔..."
     },
-    "publishing.templates.menu.description.disabled.link": {
-        "string": "Learn more"
+    "fullscreen.properties_panel.stroke_settings.dashes": {
+        "string": "虚线"
     },
-    "publishing.templates.menu.description.disabled_edit_permissions": {
-        "string": "You need edit access to publish this board as a template. {link}"
+    "fullscreen.properties_panel.stroke_settings.diamond_arrow": {
+        "string": "菱形箭头"
     },
-    "publishing.templates.menu.description.disabled_delete_permissions": {
-        "string": "Only the owner can publish this board as a template. {link}"
+    "fullscreen.properties_panel.stroke_settings.elbowed": {
+        "string": "折线"
     },
-    "publishing.templates.menu.description.disabled": {
-        "string": "Your organization turned off template publishing. {link}"
+    "fullscreen.properties_panel.stroke_settings.end_point": {
+        "string": "终点"
     },
-    "publishing.templates.menu.description.unpublished": {
-        "string": "Let your teammates use this board as a starting point for new FigJam files."
+    "fullscreen.properties_panel.stroke_settings.end_points": {
+        "string": "终点"
     },
-    "publishing.templates.menu.description.published.v2": {
-        "string": "Last updated {time} by {name}."
+    "fullscreen.properties_panel.stroke_settings.gap": {
+        "string": "间隔"
     },
-    "publishing.templates.menu.description.published_no_name": {
-        "string": "Last updated {time}."
+    "fullscreen.properties_panel.stroke_settings.join": {
+        "string": "连接"
     },
-    "publishing.community.menu.title.published": {
-        "string": "Published to Community"
+    "fullscreen.properties_panel.stroke_settings.line_arrow": {
+        "string": "线箭头"
     },
-    "publishing.community.menu.title.unpublished_remix": {
-        "string": "Community remix"
+    "fullscreen.properties_panel.stroke_settings.miter": {
+        "string": "斜接"
     },
-    "publishing.community.menu.title.unpublished": {
-        "string": "Community file"
+    "fullscreen.properties_panel.stroke_settings.miter_angle": {
+        "string": "斜接角度"
     },
-    "publishing.community.menu.description.disabled_starter_file": {
-        "string": "This is a Figma sample file, so it can't be published. Please choose a different file."
+    "fullscreen.properties_panel.stroke_settings.none": {
+        "string": "无"
     }
 }

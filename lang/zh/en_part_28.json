@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.choose_instance": {
-        "string": "Choose instance"
+    "bug_reporter.modal.severity": {
+        "string": "严重程度"
     },
-    "fullscreen_actions.clear-component-props-data-for-selection": {
-        "string": "Clear all component props data from selection"
+    "bug_reporter.modal.submit": {
+        "string": "提交错误报告"
     },
-    "fullscreen_actions.resources": {
-        "string": "Resources"
+    "bug_reporter.modal.title": {
+        "string": "标题"
     },
-    "fullscreen_actions.keyboard_shortcuts_panel.insert": {
-        "string": "Insert"
+    "bug_reporter.modal.title_placeholder": {
+        "string": "简要描述错误"
     },
-    "fullscreen_actions.keyboard_shortcuts_panel.component-search": {
-        "string": "Component search"
+    "bug_reporter.notify_oncall": {
+        "string": "通知相关值班人员"
     },
-    "fullscreen_actions.convert-to-raster": {
-        "string": "Rasterize selection"
+    "bug_reporter.open_slack_discussion": {
+        "string": "打开Slack讨论"
     },
-    "comments.copy_attachment": {
-        "string": "Copy as PNG"
+    "bug_reporter.profiler.collecting_profile": {
+        "string": "正在收集性能配置文件..."
     },
-    "fullscreen_actions.copy-as-menu": {
-        "string": "Copy as"
+    "bug_reporter.profiler.profile_attached": {
+        "string": "已附加配置文件"
     },
-    "fullscreen_actions.copy-paste-menu": {
-        "string": "Copy/Paste as"
+    "bug_reporter.profiler.start": {
+        "string": "开始收集配置文件"
     },
-    "fullscreen_actions.copy-as-code": {
-        "string": "Copy as code"
+    "bug_reporter.profiler.stop": {
+        "string": "完成"
     },
-    "fullscreen_actions.copy-as-css": {
-        "string": "CSS"
+    "bug_reporter.profiler.title": {
+        "string": "记录性能配置文件"
     },
-    "fullscreen_actions.copy-as-css-recursive": {
-        "string": "CSS (all layers)"
+    "bug_reporter.submitting_visual_bell": {
+        "string": "正在提交..."
     },
-    "fullscreen_actions.copy-as-android": {
-        "string": "Android"
+    "bug_reporter.success_message": {
+        "string": "感谢您的合作。"
     },
-    "fullscreen_actions.copy-as-ios": {
-        "string": "iOS"
+    "bug_reporter.urgent_bug_info": {
+        "string": "如果是紧急错误，请{notifyTheRelevantOncall}"
     },
-    "fullscreen_actions.copy-as-svg": {
-        "string": "Copy as SVG"
+    "bug_reporter.warning_asana_board": {
+        "string": "错误报告测试板"
     },
-    "fullscreen_actions.copy-as-png": {
-        "string": "Copy as PNG"
+    "canvas_search.all_pages": {
+        "string": "所有页面"
     },
-    "fullscreen_actions.copy_link_to_selection": {
-        "string": "Copy link to selection"
+    "canvas_search.close": {
+        "string": "关闭"
     },
-    "fullscreen_actions.copy-properties": {
-        "string": "Copy properties"
+    "canvas_search.filter.all": {
+        "string": "所有"
     },
-    "fullscreen_actions.copy-text": {
-        "string": "Copy as text"
+    "canvas_search.filter.component": {
+        "string": "组件"
     },
-    "fullscreen_actions.copy_layer_name": {
-        "string": "Copy layer name"
+    "canvas_search.filter.frame_or_group": {
+        "string": "框架/组"
     },
-    "fullscreen_actions.copy": {
-        "string": "Copy"
+    "canvas_search.filter.image": {
+        "string": "图像"
     },
-    "fullscreen_actions.create-section-from-selection": {
-        "string": "Wrap in new section"
+    "canvas_search.filter.instance": {
+        "string": "实例"
     },
-    "fullscreen_actions.replace-selected-frame-with-section": {
-        "string": "Convert to section"
+    "canvas_search.filter.match_case": {
+        "string": "区分大小写"
     },
-    "fullscreen_actions.replace-selected-section-with-frame": {
-        "string": "Convert to frame"
+    "canvas_search.filter.other": {
+        "string": "其他"
     },
-    "fullscreen_actions.convert_to_stickies": {
-        "string": "Convert to stickies"
+    "canvas_search.filter.remove": {
+        "string": "移除"
     },
-    "fullscreen_actions.create-symbol": {
-        "string": "Create component"
+    "canvas_search.filter.shape": {
+        "string": "形状"
     },
-    "fullscreen_actions.create-template": {
-        "string": "Create template"
+    "canvas_search.filter.text": {
+        "string": "文本"
     },
-    "fullscreen_actions.create-module": {
-        "string": "Create template"
+    "canvas_search.filter.whole_words": {
+        "string": "全词匹配"
     },
-    "fullscreen_actions.create-multiple-symbols": {
-        "string": "Create multiple components"
+    "canvas_search.missing_fonts": {
+        "string": "缺少字体，无法替换文本"
     },
-    "fullscreen_actions.create-multiple-symbols-and-state-group": {
-        "string": "Create component set"
+    "canvas_search.next": {
+        "string": "下一个结果"
     },
-    "fullscreen_actions.publish-selection": {
-        "string": "Publish selected components"
+    "canvas_search.no_results": {
+        "string": "无结果"
     },
-    "fullscreen_actions.publish-changes-to-library": {
-        "string": "Publish changes to library"
+    "canvas_search.no_results_in_file": {
+        "string": "此文件中无结果"
     },
-    "fullscreen_actions.create_variant": {
-        "string": "Create variant"
+    "canvas_search.no_results_in_this_deck": {
+        "string": "此幻灯片中无结果"
     },
-    "fullscreen_actions.crop-image": {
-        "string": "Crop image"
+    "canvas_search.no_results_on_page": {
+        "string": "此页面中无结果"
     },
-    "fullscreen_actions.cut": {
-        "string": "Cut"
+    "canvas_search.previous": {
+        "string": "上一个结果"
     },
-    "fullscreen_actions.debug-selection": {
-        "string": "Debug log selection"
+    "canvas_search.replace": {
+        "string": "替换"
     },
-    "fullscreen_actions.deep_select": {
-        "string": "Deep select"
+    "canvas_search.replace_all": {
+        "string": "全部替换"
     },
-    "fullscreen_actions.deep_select_within_rectangle": {
-        "string": "Deep select within rectangle"
+    "canvas_search.replace_all_message": {
+        "string": "{count, plural, other {已替换此页面上的{count}个结果}}"
     },
-    "fullscreen_actions.delete-and-heal-selection": {
-        "string": "Delete and heal selection"
+    "canvas_search.replace_all_message_all_pages": {
+        "string": "{count, plural, other {已替换此文件中的{count}个结果}}"
     },
-    "fullscreen_actions.delete-current-table-column": {
-        "string": "Delete column"
+    "canvas_search.replace_all_message_figjam": {
+        "string": "{count, plural, other {已替换{count}个结果}}"
     },
-    "fullscreen_actions.add-default-cell-styles-to-tables": {
-        "string": "Add default cell styles to tables"
+    "canvas_search.replace_one": {
+        "string": "替换"
     },
-    "fullscreen_actions.delete-current-table-row": {
-        "string": "Delete row"
+    "canvas_search.replace_placeholder": {
+        "string": "替换文本..."
     },
-    "fullscreen_actions.delete-prototype-starting-point": {
-        "string": "Remove starting point"
+    "canvas_search.results_count": {
+        "string": "{total, plural, other {共{total}个结果}}"
     },
-    "fullscreen_actions.delete-selection": {
-        "string": "Delete"
+    "canvas_search.results_index_count": {
+        "string": "{index}/{total}"
     },
-    "fullscreen_actions.delete-table-contents": {
-        "string": "Delete content"
+    "canvas_search.results_other_pages": {
+        "string": "查看其他页面的结果"
     },
-    "fullscreen_actions.deselect-all": {
-        "string": "Select none"
+    "canvas_search.results_unavailable_offline": {
+        "string": "离线状态 - 结果可能不完整。"
     },
-    "fullscreen_actions.destroy-all-auto-layout": {
-        "string": "Remove all auto layout"
+    "canvas_search.search": {
+        "string": "搜索"
     },
-    "fullscreen_actions.detach-all-instances": {
-        "string": "Detach all nested instances"
+    "canvas_search.search_placeholder": {
+        "string": "搜索..."
     },
-    "fullscreen_actions.detach-deleted-variables": {
-        "string": "Detach deleted variables"
+    "canvas_search.settings": {
+        "string": "设置"
     },
-    "fullscreen_actions.detach-instance": {
-        "string": "Detach instance"
+    "canvas_search.show_missing_fonts": {
+        "string": "显示缺少的字体"
     }
 }

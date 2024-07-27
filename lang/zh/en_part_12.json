@@ -1,152 +1,152 @@
 {
-    "visual_bell.style_s_spread_field_no_longer_applies_when_converting_to_vector_type": {
-        "string": "Style's spread field no longer applies when converting to vector type"
+    "admin_dashboard.requests.filter.from": {
+        "string": "申请者：{selectedBillingGroupFilter}"
     },
-    "visual_bell.symbol_observer_is_not_running": {
-        "string": "SymbolObserver is not running"
+    "admin_dashboard.requests.filter.sort": {
+        "string": "排序"
     },
-    "visual_bell.template_insert_multipage": {
-        "string": "Inserted Multi-page template"
+    "admin_dashboard.requests.filter.type": {
+        "string": "类型"
     },
-    "visual_bell.text_copy_restricted": {
-        "string": "Only editors of this file can copy text"
+    "admin_dashboard.requests.filter.user_type": {
+        "string": "用户类型：{selectedUserTypeFilter}"
     },
-    "visual_bell.there_are_no_nodes_to_export": {
-        "string": "There are no nodes to export"
+    "admin_dashboard.requests.from_all": {
+        "string": "所有"
     },
-    "visual_bell.there_are_no_stickies_to_export": {
-        "string": "There are no stickies to export"
+    "admin_dashboard.requests.from_unassigned": {
+        "string": "未分配的用户"
     },
-    "visual_bell.there_are_no_tables_to_export": {
-        "string": "There are no tables to export"
+    "admin_dashboard.requests.guests": {
+        "string": "访客"
     },
-    "visual_bell.there_are_no_top_level_frames_on_the_current_page_to_export": {
-        "string": "There are no top-level frames on the current page to export"
+    "admin_dashboard.requests.members": {
+        "string": "成员"
     },
-    "visual_bell.there_are_no_votes_to_export": {
-        "string": "No votes to export"
+    "admin_dashboard.requests.no_name": {
+        "string": "<无名>"
     },
-    "visual_bell.unsafe_with_unsaved_content": {
-        "string": "This action is unsafe to perform with unsaved content. Allow document saving to complete, then try again"
+    "admin_dashboard.requests.search.placeholder": {
+        "string": "搜索"
     },
-    "visual_bell.unset_align_content": {
-        "string": "{nodeCount, plural, one {Removed auto vertical gap between rows for {nodeName}} other {Removed auto vertical gap between rows for {nodeCount} nodes}}"
+    "admin_dashboard.requests.selected_count_approving": {
+        "string": "批准{numSelected}个请求"
     },
-    "visual_bell.updated_num_state_groups_repaired_state_group_s": {
-        "string": "Updated {numStateGroupsRepaired} state group(s)."
+    "admin_dashboard.requests.selected_count_denying": {
+        "string": "拒绝{numSelected}个请求"
     },
-    "visual_bell.variables_infinite_loop": {
-        "string": "Invalid — that selection would create an infinite loop of variables."
+    "admin_dashboard.requests.selected_count_request": {
+        "string": "已选择{numSelected}个请求"
     },
-    "visual_bell.variables_self_referential": {
-        "string": "Invalid — a variable can't equal itself."
+    "admin_dashboard.requests.sort.newest_first": {
+        "string": "最新的优先"
     },
-    "visual_bell.video_must_be_less_than_100mb": {
-        "string": "Video file must be less than 100MB."
+    "admin_dashboard.requests.sort.oldest_first": {
+        "string": "最早的优先"
     },
-    "visual_bell.video_must_be_less_than_30mb": {
-        "string": "Video file must be less than 30MB."
+    "admin_dashboard.requests.success_approve_multiple": {
+        "string": "已批准{numRequests}个请求"
     },
-    "visual_bell.video_no_edit_permissions": {
-        "string": "Uploading videos only works for files in a paid Pro team that are not in your Drafts."
+    "admin_dashboard.requests.success_approve_multiple_async": {
+        "string": "已批准{numRequests}个请求。更改将很快显示。"
     },
-    "visual_bell.video_resource_creation_error": {
-        "string": "Error uploading video: invalid video data."
+    "admin_dashboard.requests.success_approve_with_name": {
+        "string": "已批准{requesterName}的请求"
     },
-    "visual_bell.video_type_must_be_mp4_mov_webm": {
-        "string": "Video file type must be MP4, MOV, or WebM."
+    "admin_dashboard.requests.success_deny_multiple": {
+        "string": "已拒绝{numRequests}个请求"
     },
-    "visual_bell.vote_stamp_moved_to_nonvoteable_area_warning": {
-        "string": "This vote didn’t count. Make sure you’ve placed it properly."
+    "admin_dashboard.requests.this_request_has_already_been_handled": {
+        "string": "请求已被处理"
     },
-    "visual_bell.vote_stamp_out_of_votes": {
-        "string": "You’re out of votes"
+    "admin_dashboard.requests.title": {
+        "string": "升级请求"
     },
-    "visual_bell.vote_stamp_placed_on_nonvoteable_area_error": {
-        "string": "Try voting on a sticky, shape, image, or some text"
+    "admin_dashboard.requests.truncated_text_more": {
+        "string": "显示更多"
     },
-    "visual_bell.zoom-to-100": {
-        "string": "Zoom to 100%"
+    "admin_dashboard.requests.view_history": {
+        "string": "查看历史记录"
     },
-    "visual_bell.zoom-to-fit": {
-        "string": "Zoom to fit"
+    "admin_dashboard.requests.your_billing_groups": {
+        "string": "你的账单组"
     },
-    "visual_bell.zoom-to-selection": {
-        "string": "Zoom to selection"
+    "admin_dashboard.suggested.bell.assigned_org": {
+        "string": "分配了{numSeats}个开发模式座位"
     },
-    "voting.csv_export.header.content": {
-        "string": "Content"
+    "admin_dashboard.suggested.bell.assigned_team": {
+        "string": "分配了{numSeats}个设计座位"
     },
-    "voting.csv_export.header.creator": {
-        "string": "Created by"
+    "admin_dashboard.suggested.bell.declined_org": {
+        "string": "拒绝了{numSeats}个开发模式座位"
     },
-    "voting.csv_export.header.votes": {
-        "string": "Votes"
+    "admin_dashboard.suggested.bell.declined_team": {
+        "string": "拒绝了{numSeats}个设计座位"
     },
-    "whiteboard.csv.csv_input_too_large": {
-        "string": "CSV input is too large"
+    "admin_dashboard.suggested.body_v2": {
+        "string": "由于开发模式的测试期已结束，继续使用需要付费座位。请选择要升级的成员。"
     },
-    "whiteboard.csv.file_empty": {
-        "string": "CSV file is empty"
+    "admin_dashboard.suggested.button": {
+        "string": "分配座位"
     },
-    "whiteboard.csv.html_input_too_large": {
-        "string": "HTML input is too large"
+    "admin_dashboard.suggested.empty.primary_text": {
+        "string": "没有用户需要升级"
     },
-    "whiteboard.csv.parse_failed": {
-        "string": "Parse failed"
+    "admin_dashboard.suggested.tile.body.dm_not_opted_in": {
+        "string": "启用开发模式以恢复访问权限"
     },
-    "whiteboard.csv.too_many_cells": {
-        "string": "CSV input limited to {maximumCells} cells at a time"
+    "admin_dashboard.suggested.tile.body.dm_not_opted_in_no_beta_users": {
+        "string": "在团队中启用开发模式"
     },
-    "whiteboard.csv_export.content": {
-        "string": "Content"
+    "admin_dashboard.suggested.tile.body.dm_opted_in": {
+        "string": "立即分配座位以恢复访问权限"
     },
-    "whiteboard.csv_export.created_by": {
-        "string": "Created by"
+    "admin_dashboard.suggested.tile.subtext.dismissal_link": {
+        "string": "关闭此通知"
     },
-    "whiteboard.immutable_frame.add_code": {
-        "string": "Add code"
+    "admin_dashboard.suggested.tile.subtext.main": {
+        "string": "立即分配座位以恢复访问权限或{dismissalLink}"
     },
-    "whiteboard.immutable_frame.add_text": {
-        "string": "Add text"
+    "admin_dashboard.suggested.tile.title": {
+        "string": "团队对开发模式的访问权限于{dateObject, date, ::MMMMd}结束。"
     },
-    "whiteboard.immutable_frame.add_text_cta": {
-        "string": "Type anything, @mention anyone"
+    "admin_dashboard.suggested.title": {
+        "string": "恢复对开发模式的访问权限"
     },
-    "whiteboard.immutable_frame.table_limit_reached": {
-        "string": "Paste partially succeeded—table size limit reached."
+    "admin_dashboard.suggested.upgrade": {
+        "string": "升级"
     },
-    "whiteboard.jamboard_importer.numbered_frame_section_name": {
-        "string": "Frame {number}"
+    "admin_settings.ai.data_sharing.description.org": {
+        "string": "允许Figma使用组织内容来训练AI模型。Figma采取了匿名化数据和保护隐私的措施。{learnMoreLink}"
     },
-    "whiteboard.mindmaps_onboarding_template.category_1_child_1_description": {
-        "string": "Too simple."
+    "admin_settings.ai.data_sharing.description.team": {
+        "string": "允许Figma使用团队内容来训练AI模型。Figma采取了匿名化数据和保护隐私的措施。{learnMoreLink}"
     },
-    "whiteboard.mindmaps_onboarding_template.category_1_child_1_text": {
-        "string": "PB&J"
+    "admin_settings.ai.data_sharing.disabled_for_orgs": {
+        "string": "您的组织无法启用此功能"
     },
-    "whiteboard.mindmaps_onboarding_template.category_1_child_2_description": {
-        "string": "Food coma!"
+    "admin_settings.ai.data_sharing.disabled_for_student_teams": {
+        "string": "您的团队或类似团队无法启用此功能"
     },
-    "whiteboard.mindmaps_onboarding_template.category_1_child_2_text": {
-        "string": "Burrito"
+    "admin_settings.ai.data_sharing.label": {
+        "string": "内容训练"
     },
-    "whiteboard.mindmaps_onboarding_template.category_1_text": {
-        "string": "Sandwich 🥪"
+    "admin_settings.ai.data_sharing.takes_effect.description": {
+        "string": "您有足够的时间来做出决定。如有任何疑问，请参考{helpCenterLink}。"
     },
-    "whiteboard.mindmaps_onboarding_template.category_2_child_1_description": {
-        "string": "Feels like dinner."
+    "admin_settings.ai.data_sharing.takes_effect.help_center_link": {
+        "string": "Figma的AI方法"
     },
-    "whiteboard.mindmaps_onboarding_template.category_2_child_1_text": {
-        "string": "Chili"
+    "admin_settings.ai.data_sharing.takes_effect.title": {
+        "string": "内容训练将在{date, date, ::dMMMM}开始"
     },
-    "whiteboard.mindmaps_onboarding_template.category_2_child_2_description": {
-        "string": "Same as above!"
+    "admin_settings.ai.data_sharing.update_error": {
+        "string": "无法更新使用内容进行AI训练的设置"
     },
-    "whiteboard.mindmaps_onboarding_template.category_2_child_2_text": {
-        "string": "Ramen"
+    "admin_settings.ai.data_sharing.update_success": {
+        "string": "已更新使用内容进行AI训练的设置"
     },
-    "whiteboard.mindmaps_onboarding_template.category_2_text": {
-        "string": "Soup 🍜"
+    "admin_settings.ai.disable_success": {
+        "string": "已禁用AI功能"
     }
 }

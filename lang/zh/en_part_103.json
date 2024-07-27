@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.styles": {
-        "string": "Styles"
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode": {
+        "string": "VS Code 集成"
     },
-    "fullscreen.properties_panel.styles_description": {
-        "string": "Use styles to combine multiple color fills. For single color values that respond to modes (e.g. light and dark), use color variables."
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode_description": {
+        "string": "从VS Code获取代码片段、检查设计、发表评论等，所有操作都可以在VS Code中完成。"
     },
-    "variables.mode_pill.tooltip": {
-        "string": "Modes: {listOfModes}"
+    "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode_install": {
+        "string": "获取扩展"
     },
-    "variables.variable_was_deleted": {
-        "string": "Variable was deleted"
+    "dev_handoff.configuration_wizard.install_extensions_step.next_text": {
+        "string": "完成"
     },
-    "variables.beta": {
-        "string": "Beta"
+    "dev_handoff.configuration_wizard.install_extensions_step.picker_title": {
+        "string": "安装集成"
     },
-    "upsell.move_file_modes.upsell_title": {
-        "string": "Need more variable modes?"
+    "dev_handoff.configuration_wizard.install_extensions_step.title": {
+        "string": "最后，Figma随处可用"
     },
-    "upsell.move_file_modes.upsell_subtitle": {
-        "string": "To create more than one variable mode, move this file from your drafts to a paid external team, or upload it to a team in another organization."
+    "dev_handoff.configuration_wizard.subtitle": {
+        "string": "进行设置。"
     },
-    "upsell.move_file_prototyping.upsell_title": {
-        "string": "Need advanced prototyping features?"
+    "dev_handoff.configuration_wizard.theme_step.description": {
+        "string": "浅色、深色，还是跟随系统?"
     },
-    "upsell.move_file_prototyping.upsell_subtitle": {
-        "string": "To use advanced prototyping features, move this file from your drafts to a paid team."
+    "dev_handoff.configuration_wizard.theme_step.next_text": {
+        "string": "下一步：插件"
     },
-    "proto.variable_debugger.live_preview_indicator": {
-        "string": "Live preview"
+    "dev_handoff.configuration_wizard.theme_step.picker_title": {
+        "string": "设置配色主题"
     },
-    "variables.type.string": {
-        "string": "String"
+    "dev_handoff.configuration_wizard.theme_step.title": {
+        "string": "设置配色主题"
     },
-    "variables.type.boolean": {
-        "string": "Boolean"
+    "dev_handoff.configuration_wizard.title": {
+        "string": "欢迎来到开发模式"
     },
-    "variables.type.number": {
-        "string": "Number"
+    "dev_handoff.configuration_wizard.title_trial": {
+        "string": "欢迎试用开发模式{lineBreak}"
     },
-    "variables.type.color": {
-        "string": "Color"
+    "dev_handoff.configuration_wizard.welcome_step.description": {
+        "string": "在开发模式下，您可以轻松找到开始创建所需的详细信息。请按照屏幕上的步骤进行操作。"
     },
-    "variables.type.map": {
-        "string": "Map"
+    "dev_handoff.configuration_wizard.welcome_step.description_grace_period": {
+        "string": "请求已发送给管理员。批准后会通知您。在等待批准期间，您可以使用开发模式最多{numDays}天。"
     },
-    "variables.type.symbolid": {
-        "string": "Component"
+    "dev_handoff.configuration_wizard.welcome_step.next_text": {
+        "string": "下一步：平台和单位"
     },
-    "variables.type.font_style": {
-        "string": "Font style"
+    "dev_handoff.configuration_wizard.welcome_step.title": {
+        "string": "Figma 开发者的新家"
     },
-    "variables.type.text_data": {
-        "string": "Text data"
+    "dev_handoff.copy_link": {
+        "string": "复制此页面的链接"
     },
-    "variables.authoring_modal.group_context_menu.ungroup": {
-        "string": "Ungroup"
+    "dev_handoff.detached_component.remove_attachment_confirm": {
+        "string": "删除"
     },
-    "variables.authoring_modal.group_context_menu.duplicate_groups": {
-        "string": "Duplicate groups"
+    "dev_handoff.detached_component.remove_attachment_text_body": {
+        "string": "要删除分离状态吗？此操作不可撤销。"
     },
-    "variables.authoring_modal.group_context_menu.duplicate_group": {
-        "string": "Duplicate group"
+    "dev_handoff.dev_handoff_view_selector.untitled": {
+        "string": "无标题"
     },
-    "variables.authoring_modal.group_context_menu.delete_groups": {
-        "string": "Delete groups"
+    "dev_handoff.developer_related_links.add_link_button": {
+        "string": "添加链接"
     },
-    "variables.authoring_modal.group_context_menu.delete_group": {
-        "string": "Delete group"
+    "dev_handoff.developer_related_links.additional_options": {
+        "string": "更多选项"
     },
-    "variables.authoring_modal.context_menu.create_group": {
-        "string": "New group with selection"
+    "dev_handoff.developer_related_links.cancel": {
+        "string": "取消"
     },
-    "variables.authoring_modal.context_menu.edit": {
-        "string": "{count, plural, one {Edit variable} other {Edit variables}}"
+    "dev_handoff.developer_related_links.component_inherited_links_desc": {
+        "string": "这是主组件，添加的所有链接将显示在所有实例中。"
     },
-    "variables.authoring_modal.context_menu.duplicate": {
-        "string": "{count, plural, one {Duplicate variable} other {Duplicate variables}}"
+    "dev_handoff.developer_related_links.copy_link": {
+        "string": "复制链接"
     },
-    "variables.authoring_modal.context_menu.delete_multiple": {
-        "string": "Delete variables"
+    "dev_handoff.developer_related_links.delete_link": {
+        "string": "删除链接"
     },
-    "variables.authoring_modal.context_menu.delete": {
-        "string": "Delete variable"
+    "dev_handoff.developer_related_links.delete_link_text_body": {
+        "string": "确定要删除此链接吗？此操作不可撤销。"
     },
-    "variables.authoring_modal.context_menu.clear_alias": {
-        "string": "Clear alias"
+    "dev_handoff.developer_related_links.duplicate_link_error": {
+        "string": "链接已存在"
     },
-    "variables.authoring_modal.context_menu.create_alias": {
-        "string": "Create alias"
+    "dev_handoff.developer_related_links.edit_link": {
+        "string": "编辑链接"
     },
-    "variables.authoring_modal.create_variable_button_label": {
-        "string": "Create variable button"
+    "dev_handoff.developer_related_links.empty_info": {
+        "string": "添加指向Storybook、GitHub、Jira等工具的开发链接。"
     },
-    "variables.authoring_modal.table.create_variable": {
-        "string": "Create variable"
+    "dev_handoff.developer_related_links.go_to_main_component": {
+        "string": "转到主组件"
     },
-    "variables.type.string.default_value": {
-        "string": "String value"
+    "dev_handoff.developer_related_links.invalid_link": {
+        "string": "无效的URL"
     },
-    "variables.authoring_modal.default_collection_name": {
-        "string": "Collection 1"
+    "dev_handoff.developer_related_links.link": {
+        "string": "链接"
     },
-    "variables.variable_collection_default_name": {
-        "string": "Collection"
+    "dev_handoff.developer_related_links.link_error": {
+        "string": "无法添加链接：{errorMessage}"
     },
-    "variables.variable_collection_extension_default_name": {
-        "string": "Extended collection"
+    "dev_handoff.developer_related_links.link_placeholder": {
+        "string": "粘贴链接"
     },
-    "variables.authoring_modal.table.detach_alias": {
-        "string": "Detach alias"
+    "dev_handoff.developer_related_links.links": {
+        "string": "开发资源"
     },
-    "variables.authoring_modal.table.all_variables": {
-        "string": "All variables"
+    "dev_handoff.developer_related_links.main_component_tooltip": {
+        "string": "从主组件继承"
     },
-    "variables.authoring_modal.overflow_dropdown.rename_collection": {
-        "string": "Rename collection"
+    "dev_handoff.developer_related_links.name": {
+        "string": "名称"
     },
-    "variables.authoring_modal.overflow_dropdown.delete_collection": {
-        "string": "Delete collection"
+    "dev_handoff.developer_related_links.open_in_new_tab": {
+        "string": "在新标签页中打开"
     },
-    "variables.authoring_modal.overflow_dropdown.create_collection": {
-        "string": "Create collection"
+    "dev_handoff.developer_related_links.select_frame": {
+        "string": "选择框架"
     },
-    "variables.authoring_modal.overflow_dropdown.create_extended_collection": {
-        "string": "Create extended collection"
+    "dev_handoff.developer_related_links.select_layer": {
+        "string": "选择图层"
     },
-    "variables.authoring_modal.more_variable_set_options_tooltip": {
-        "string": "More options"
+    "dev_handoff.docs.links_default": {
+        "string": "文档"
     },
-    "variables.authoring_modal.extended_collection.extension_based_off_library_tooltip": {
-        "string": "Based off of {libraryName} / {collectionName}"
+    "dev_handoff.docs.links_title": {
+        "string": "组件文档"
     },
-    "variables.authoring_modal.extended_collection.missing_base_collection_name": {
-        "string": "(missing collection)"
+    "dev_handoff.docs.prop_boolean": {
+        "string": "布尔值"
     },
-    "variables.authoring_modal.extended_collection.extension_based_off_local_tooltip": {
-        "string": "Based off of {collectionName}"
+    "dev_handoff.docs.prop_boolean_default_false": {
+        "string": "布尔值（假）"
     },
-    "variables.authoring_modal.reached_hard_mode_limit": {
-        "string": "{modeLimit, plural, one {Limited to {modeLimit, number, integer} mode only} other {Limited to {modeLimit, number, integer} modes only}}"
+    "dev_handoff.docs.prop_boolean_default_true": {
+        "string": "布尔值（真）"
     },
-    "variables.authoring_modal.new_mode_tooltip": {
-        "string": "New variable mode"
+    "dev_handoff.docs.prop_instance": {
+        "string": "实例"
     },
-    "variables.create_modal.value_label": {
-        "string": "Value"
+    "dev_handoff.docs.prop_string": {
+        "string": "字符串（{defaultValue}）"
     },
-    "variables.authoring_modal.mode_context_menu.duplicate_mode": {
-        "string": "Duplicate mode"
+    "dev_handoff.docs.prop_variant": {
+        "string": "变体（{values}）"
     }
 }

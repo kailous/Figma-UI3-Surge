@@ -1,152 +1,152 @@
 {
-    "permissions.copy_link_button.visual_bell.copy_prototype_link": {
-        "string": "Prototype link copied"
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_sharing_audience_control": {
+        "string": "更新项目共享受众控制时发生错误。"
     },
-    "file_access_row.only_people_invited_to_this_noun": {
-        "string": "Only people invited to this {noun}"
+    "file_browser.api_folder.an_error_while_updating_the_folder_s_team_access": {
+        "string": "更新项目的团队访问权限时发生错误。"
     },
-    "file_access_row.anyone_with_the_link": {
-        "string": "Anyone with the link"
+    "file_browser.api_folder.error_when_deleting": {
+        "string": "删除此项目时发生错误。"
     },
-    "file_access_row.anyone_with_the_link_and_password": {
-        "string": "Anyone with the link and password"
+    "file_browser.api_folder.no_create_permissions_team_name": {
+        "string": "您没有在{teamName}中创建项目的权限。"
     },
-    "file_access_row.anyone_at_org_name_with_the_link": {
-        "string": "Anyone at {orgName} with the link"
+    "file_browser.api_folder.no_create_permissions_this_team": {
+        "string": "您没有在此团队中创建项目的权限。"
     },
-    "file_access_row.anyone_at_org_name": {
-        "string": "Anyone at {orgName}"
+    "file_browser.auto_accept_project_invite_modal": {
+        "string": "您已获得{projectName}的{inviteType}访问权限。"
     },
-    "file_access_row.can_access": {
-        "string": "can access"
+    "file_browser.badge_label.admin": {
+        "string": "管理员"
     },
-    "file_access_row.can_view": {
-        "string": "can view"
+    "file_browser.billing_group": {
+        "string": "账单组"
     },
-    "file_access_row.can_edit": {
-        "string": "can edit"
+    "file_browser.billing_group_capitalized": {
+        "string": "账单组"
     },
-    "fullscreen.accessibility.stamp_attached_announcement": {
-        "string": "Stamp attached to {hostType}"
+    "file_browser.block_project_move.context_invite_only": {
+        "string": "设置为仅限邀请的项目无法在团队之间移动。要完成此操作，请启用{projectName}的团队访问权限，然后重试。"
     },
-    "fullscreen.accessibility.node_created_announcement": {
-        "string": "{node_type} created"
+    "file_browser.block_project_move.context_view_only": {
+        "string": "设置为仅查看的项目无法在团队之间移动。要完成此操作，请启用{projectName}的团队编辑访问权限，然后重试。"
     },
-    "fullscreen.accessibility.multiple_node_deleted_announcement": {
-        "string": "Selection deleted"
+    "file_browser.block_project_move.title": {
+        "string": "无法移动项目"
     },
-    "fullscreen.accessibility.node_deleted_announcement": {
-        "string": "{node_type} deleted"
+    "file_browser.cant_undo": {
+        "string": "无法撤销。"
     },
-    "fullscreen.accessibility.next_text_node_announcement": {
-        "string": "Edit next {nodeType}"
+    "file_browser.choose_file_modal.search_for_a_file": {
+        "string": "搜索文件"
     },
-    "fullscreen.accessibility.tool_selected": {
-        "string": "{nodeType} tool selected. Click to create a {nodeType} or hit the escape key to cancel. To use your keyboard to create a {nodeType}, hit {shortcut} and type \"create new {nodeType}\""
+    "file_browser.confirm_file_delete_forever_modal.about_to_delete_offline": {
+        "string": "您即将永久删除{numFiles, plural, other {{numFilesText}}}。这些文件处于离线状态且未同步，因此无法恢复。"
     },
-    "fullscreen.accessibility.tool_unselected": {
-        "string": "No tool selected"
+    "file_browser.confirm_file_delete_forever_modal.about_to_delete_online": {
+        "string": "您即将永久删除{numFiles, plural, other {{numFilesText}}}。这些文件无法恢复。"
     },
-    "fullscreen.accessibility.next_table_cell_announcement": {
-        "string": "Edit table cell row {r} column {c}"
+    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete": {
+        "string": "永久删除"
     },
-    "fullscreen.accessibility.node_resize_horizontal": {
-        "string": "horizontally"
+    "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete_files": {
+        "string": "永久删除{numFiles, plural, other {文件}}"
     },
-    "fullscreen.accessibility.node_resize_vertical": {
-        "string": "vertically"
+    "file_browser.confirm_file_delete_forever_modal.title": {
+        "string": "永久删除{numFiles, plural, other {{numFiles}个文件}}"
     },
-    "fullscreen.accessibility.node_resize_bidirectional": {
-        "string": "{nodeType} size {resizedComparisonX} {nodeResizeXDelta} horizontally and {resizedComparisonY} {nodeResizeYDelta} vertically"
+    "file_browser.confirm_file_delete_modal.about_to_delete_component_unpublish": {
+        "string": "您即将删除文件{fileNameText}。所有已发布的组件也将从团队库中移除。"
     },
-    "fullscreen.accessibility.node_unit": {
-        "string": "{numUnits, plural, one {# unit} other {# units}}"
+    "file_browser.confirm_file_delete_modal.about_to_delete_multiple_warnings": {
+        "string": "您即将删除{numFilesText}。包括以下内容。"
     },
-    "fullscreen.accessibility.node_resize_unidirectional": {
-        "string": "{nodeSizeDelta, plural, one {{nodeType} size {resizeComparison} # unit {nodeDirection}} other {{nodeType} size {resizeComparison} # units {nodeDirection}}}"
+    "file_browser.confirm_file_delete_modal.about_to_delete_no_warnings": {
+        "string": "您即将删除{numFiles, plural, other {{numFilesText}}}。"
     },
-    "fullscreen.accessibility.node_movement_up": {
-        "string": "up"
+    "file_browser.confirm_file_delete_modal.about_to_delete_team_template": {
+        "string": "您即将删除文件{fileNameText}。它也将从团队模板中删除。"
     },
-    "fullscreen.accessibility.node_movement_down": {
-        "string": "down"
+    "file_browser.confirm_file_delete_modal.components": {
+        "string": "组件"
     },
-    "fullscreen.accessibility.node_movement_right": {
-        "string": "right"
+    "file_browser.confirm_file_delete_modal.confirm_delete_files": {
+        "string": "删除{numFiles, plural, other {文件}}"
     },
-    "fullscreen.accessibility.node_movement_left": {
-        "string": "left"
+    "file_browser.confirm_file_delete_modal.deleted_tab": {
+        "string": "已删除"
     },
-    "fullscreen.accessibility.node_movement_bidirectional": {
-        "string": "Moved {nodeType} {nodePositionXDelta} {nodeDirectionX} and {nodePositionYDelta} {nodeDirectionY}"
+    "file_browser.confirm_file_delete_modal.description_restore.seat_rename": {
+        "string": "拥有这些文件编辑访问权限的人以后可以从[{draftsText}]选项卡的[{deletedText}]部分恢复文件。"
     },
-    "fullscreen.accessibility.node_movement_unidirectional": {
-        "string": "{nodePositionDelta, plural, one {Moved {nodeType} # unit {nodeDirection}} other {Moved {nodeType} # units {nodeDirection}}}"
+    "file_browser.confirm_file_delete_modal.drafts_tab": {
+        "string": "草稿"
     },
-    "fullscreen.accessibility.node_resize_decrease": {
-        "string": "decreased"
+    "file_browser.confirm_file_delete_modal.num_files": {
+        "string": "{numFiles, plural, other {{numFiles}个文件}}"
     },
-    "fullscreen.accessibility.node_resize_increase": {
-        "string": "increased"
+    "file_browser.confirm_file_delete_modal.offline_files": {
+        "string": "离线文件"
     },
-    "fullscreen.accessibility.node_resize_none": {
-        "string": "None"
+    "file_browser.confirm_file_delete_modal.templates": {
+        "string": "模板"
     },
-    "fullscreen.properties_panel.stack_panel.msal_crated_frames_count": {
-        "string": "{count, plural, one {Auto layout added} other {{count} new auto layout frames created}}"
+    "file_browser.confirm_file_delete_modal.title": {
+        "string": "删除{numFiles, plural, other {{numFiles}个文件}}"
     },
-    "fullscreen.visual_bell.try_again_msal": {
-        "string": "Try again, with a smaller selection"
+    "file_browser.confirm_file_delete_modal.warning_component_unpublish": {
+        "string": "{componentsText}。这些是已发布的，将不再显示在团队库中。"
     },
-    "fullscreen.visual_bell.could_not_suggest_auto_layout": {
-        "string": "Couldn't suggest auto layout"
+    "file_browser.confirm_file_delete_modal.warning_team_template": {
+        "string": "{templatesText}。这些是已发布的，团队将失去访问权限。"
     },
-    "fullscreen_actions.destroy-all-auto-layout-result-visual-bell-toast": {
-        "string": "{numAutoLayoutsRemoved, plural, one {Removed from 1 frame} other {Removed from {numAutoLayoutsRemoved} frames}}"
+    "file_browser.confirm_file_delete_modal.warning_unsynced_file": {
+        "string": "{offlineFilesText}。这些文件未同步，将被永久删除。"
     },
-    "fullscreen_actions.destroy-all-auto-layout-result-visual-bell-toast-zero": {
-        "string": "No auto layout found"
+    "file_browser.confirm_file_trash_modal.about_to_trash_component_unpublish": {
+        "string": "您即将把文件{fileNameText}移到垃圾桶。所有已发布的组件也将从团队库中移除。"
     },
-    "canvas_search.missing_fonts": {
-        "string": "Cannot replace text with missing fonts"
+    "file_browser.confirm_file_trash_modal.about_to_trash_multiple_warnings": {
+        "string": "您即将把{numFilesText}移到垃圾桶。包括以下内容。"
     },
-    "canvas_search.show_missing_fonts": {
-        "string": "Show missing fonts"
+    "file_browser.confirm_file_trash_modal.about_to_trash_no_warnings": {
+        "string": "您即将把{numFiles, plural, other {{numFilesText}}}移到垃圾桶。"
     },
-    "visual_bell.pixel_preview_enabled": {
-        "string": "Pixel preview enabled ({scaling})"
+    "file_browser.confirm_file_trash_modal.about_to_trash_team_template": {
+        "string": "您即将把文件{fileNameText}移到垃圾桶。它也将从团队模板中删除。"
     },
-    "visual_bell.pixel_preview_disabled": {
-        "string": "Pixel preview disabled"
+    "file_browser.confirm_file_trash_modal.confirm_delete_files": {
+        "string": "将{numFiles, plural, other {文件移到垃圾桶}}"
     },
-    "visual_bell.render_grid_visible": {
-        "string": "Pixel grid visible"
+    "file_browser.confirm_file_trash_modal.description_restore": {
+        "string": "拥有这些文件编辑访问权限的人以后可以从[{trashText}]选项卡恢复文件。"
     },
-    "visual_bell.render_grid_hidden": {
-        "string": "Pixel grid hidden"
+    "file_browser.confirm_file_trash_modal.title": {
+        "string": "将{numFiles, plural, other {{numFiles}个文件移到垃圾桶}}"
     },
-    "visual_bell.snap_to_pixel_grid_enabled": {
-        "string": "Snap to pixel grid enabled"
+    "file_browser.confirm_file_trash_modal.trash_section": {
+        "string": "垃圾桶"
     },
-    "visual_bell.snap_to_pixel_grid_disabled": {
-        "string": "Snap to pixel grid disabled"
+    "file_browser.copy_link": {
+        "string": "复制链接"
     },
-    "visual_bell.show_masks_visible": {
-        "string": "Mask outlines visible"
+    "file_browser.copy_link_to_project": {
+        "string": "复制项目链接"
     },
-    "visual_bell.show_masks_hidden": {
-        "string": "Mask outlines hidden"
+    "file_browser.copy_link_to_team": {
+        "string": "复制团队链接"
     },
-    "visual_bell.snap_to_dot_grid_enabled": {
-        "string": "Snap to dot grid enabled"
+    "file_browser.copy_link_to_workspace": {
+        "string": "复制工作区链接"
     },
-    "visual_bell.snap_to_dot_grid_disabled": {
-        "string": "Snap to dot grid disabled"
+    "file_browser.creates_new_file": {
+        "string": "创建新文件"
     },
-    "visual_bell.snap_to_geometry_enabled": {
-        "string": "Snap to geometry enabled"
+    "file_browser.creation_buttons.alpha": {
+        "string": "Alpha"
     },
-    "visual_bell.snap_to_geometry_disabled": {
-        "string": "Snap to geometry disabled"
+    "file_browser.creation_buttons.beta": {
+        "string": "Beta"
     }
 }

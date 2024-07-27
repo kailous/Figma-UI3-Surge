@@ -1,152 +1,152 @@
 {
-    "community.publishing.set_a_unique_handle_for_your_team_team_name_s_new_community_profile": {
-        "string": "Set a unique handle for your team {teamName}'s new Community profile"
+    "community.actions.your_twitter_handle_is_not_valid": {
+        "string": "@{handle}不是有效的Twitter用户名"
     },
-    "community.publishing.set_a_unique_handle_for_your_organization_org_name_s_new_community_profile": {
-        "string": "Set a unique handle for your organization {orgName}'s new Community profile"
+    "community.actions.your_twitter_handle_was_updated": {
+        "string": "Twitter用户名已更新"
     },
-    "community.publishing.set_a_unique_handle_for_your_new_personal_community_profile": {
-        "string": "Set a unique handle for your new personal Community profile"
+    "community.actions.your_website_url_was_updated": {
+        "string": "网站URL已更新"
     },
-    "community.publishing.connect_or_create_a_public_community_profile_to_publish": {
-        "string": "Connect or create a public Community profile to publish"
+    "community.buyer.add_new_card": {
+        "string": "添加新卡"
     },
-    "community.plugins.widget": {
-        "string": "widget"
+    "community.buyer.apply": {
+        "string": "应用"
     },
-    "community.plugins.plugin": {
-        "string": "plugin"
+    "community.buyer.billing": {
+        "string": "账单"
     },
-    "community.plugins.withdraw_from_review": {
-        "string": "Withdraw from review"
+    "community.buyer.buy": {
+        "string": "购买"
     },
-    "community.plugins.this_action_will_remove_your_public_resource_type_review_submission_your_resource_type_will_still_be_available_to_members_of_org_name": {
-        "string": "This action will remove your public {resourceType} review submission. Your {resourceType} will still be available to members of {orgName}."
+    "community.buyer.buy_now": {
+        "string": "立即购买"
     },
-    "community.plugins.this_action_will_remove_your_public_resource_type_review_submission": {
-        "string": "This action will remove your public {resourceType} review submission."
+    "community.buyer.by_purchasing_you_agree_to_the_terms_of_service": {
+        "string": "购买即表示您同意{termsOfServiceLink}"
     },
-    "community.plugins.withdraw": {
-        "string": "Withdraw"
+    "community.buyer.cannot_make_purchase_on_behalf_of_team_or_org": {
+        "string": "要进行购买，请切换到您的个人资料"
     },
-    "community.plugins.delist_your_resource_type": {
-        "string": "Delist your {resourceType}"
+    "community.buyer.complete_purchase": {
+        "string": "完成购买"
     },
-    "community.resource.delisting_this_resource_will_prevent_people_from_discovering_or_purchasing_this_resource": {
-        "string": "Delisting this resource will prevent people from discovering or purchasing this resource on Community. Anyone who bought it will still have access until the end of their billing cycle."
+    "community.buyer.confirm_account": {
+        "string": "确认账户"
     },
-    "community.resource.delist": {
-        "string": "Delist"
+    "community.buyer.couldnt_complete_purchase": {
+        "string": "无法完成购买"
     },
-    "community.plugins.unpublish_resource_type": {
-        "string": "Unpublish {resourceType}"
+    "community.buyer.couldnt_fetch_existing_payment_method": {
+        "string": "无法获取现有支付方式"
     },
-    "community.plugins.this_action_will_cause_your_resource_type_to_disappear_current_users_will_lose_access_to_your_resource_type_immediately_you_cannot_undo_this_action_however_if_you_publish_your_resource_type_again_later_it_will_keep_its_url": {
-        "string": "This action will cause your {resourceType} to disappear. Current users will lose access to your {resourceType} immediately. You cannot undo this action. However, if you publish your {resourceType} again later, it will keep its URL."
+    "community.buyer.couldnt_process_payment_through_stripe": {
+        "string": "无法通过Stripe处理付款"
     },
-    "community.resource.unpublish": {
-        "string": "Unpublish"
+    "community.buyer.couldnt_process_tax_information": {
+        "string": "无法处理税务信息"
     },
-    "design_systems.component_properties.remove_value": {
-        "string": "Remove value"
+    "community.buyer.couldnt_remove_existing_payment_method": {
+        "string": "无法删除现有支付方式"
     },
-    "design_systems.component_properties.unpublished_preferred_values": {
-        "string": "Some preferred values have not been published, and will not show up on instances."
+    "community.buyer.development": {
+        "string": "开发"
     },
-    "design_systems.component_properties.publish_preferred_values": {
-        "string": "Publish all preferred values…"
+    "community.buyer.ending_in": {
+        "string": "末尾数字：{last4}"
     },
-    "design_systems.component_properties.choose_instances": {
-        "string": "Nested instances"
+    "community.buyer.enter_valid_promo_code": {
+        "string": "请输入有效的促销代码"
     },
-    "fullscreen.draggable_list.remove": {
-        "string": "Remove"
+    "community.buyer.error_requesting_refund_please_contact_support": {
+        "string": "请求退款时发生错误，请联系支持"
     },
-    "design_systems.component_properties.preferred_values": {
-        "string": "Preferred values"
+    "community.buyer.error_stripe": {
+        "string": "Stripe错误：{message}"
     },
-    "design_systems.component_properties.select_preferred_values": {
-        "string": "Select preferred values"
+    "community.buyer.exp": {
+        "string": "有效期：{expMonth}/{expYear}"
     },
-    "design_systems.component_properties.go_to_property": {
-        "string": "Go to property"
+    "community.buyer.free_trial_then_price_month": {
+        "string": "免费试用{freeTrialDays}天后每月{priceString}"
     },
-    "design_systems.component_properties.link_unlinked_property_help_text": {
-        "string": "Property not found on component. Add property to provide controls for instances."
+    "community.buyer.free_trial_then_price_year": {
+        "string": "免费试用{freeTrialDays}天后每年{priceString}"
     },
-    "design_systems.component_properties.unlinked_property_help_text": {
-        "string": "This layer came from a component, and brought this property with it."
+    "community.buyer.get_free_preview": {
+        "string": "获取免费预览"
     },
-    "design_systems.component_properties.detach_property": {
-        "string": "Detach property"
+    "community.buyer.get_support": {
+        "string": "获取支持"
     },
-    "design_systems.component_properties.link_unlinked_property": {
-        "string": "Add property to component"
+    "community.buyer.go_to_stripe": {
+        "string": "前往Stripe"
     },
-    "rcs.rcs_shared.done": {
-        "string": "Done"
+    "community.buyer.here": {
+        "string": "这里"
     },
-    "rcs.rcs_shared.next": {
-        "string": "Next"
+    "community.buyer.hold_tight_while_we_process_your_payment": {
+        "string": "请稍等，我们正在处理您的付款"
     },
-    "rcs.rcs_shared.step_counter": {
-        "string": "{currentStepNum} of {totalNumSteps}"
+    "community.buyer.in_app_purchases": {
+        "string": "应用内购买"
     },
-    "mobile_download_prompts.mobile_interactions": {
-        "string": "Get a feeling for mobile interactions"
+    "community.buyer.jct": {
+        "string": "消费税"
     },
-    "mobile_download_prompts.run_your_mobile_prototypes": {
-        "string": "Give your mobile prototypes that real phone feel by running them directly on your phone. Scan the QR code to get the Figma mobile app. "
+    "community.buyer.keep_an_eye_out": {
+        "string": "请留意原支付方式的退款。任何疑问请{here}联系我们"
     },
-    "mobile_download_prompts.email_me": {
-        "string": "Email me"
+    "community.buyer.log_in_to_get_everything": {
+        "string": "登录并购买以获取{pluginName}的所有功能和创建者支持"
     },
-    "mobile_download_prompts.learn_more": {
-        "string": "Learn more"
+    "community.buyer.manage_subscription": {
+        "string": "管理订阅"
     },
-    "rcs.mobile_comment_reply_upsell.email_sent": {
-        "string": "Email sent"
+    "community.buyer.maybe_later": {
+        "string": "以后再说"
     },
-    "rcs.feed_onboarding.zoom_pan.title": {
-        "string": "Pan, zoom, and click around"
+    "community.buyer.monthly": {
+        "string": "每月"
     },
-    "rcs.feed_onboarding.zoom_pan.content": {
-        "string": "This close-up is just like a Figma file—you can pan around and zoom in / out ({macKeyboardShortcut} on Mac, {windowsKeyboardShortcut} on Windows) to get a better look."
+    "community.buyer.need_a_refund": {
+        "string": "需要退款？"
     },
-    "rcs.got_it": {
-        "string": "Got it"
+    "community.buyer.no_you_cannot_buy_your_own_resource": {
+        "string": "您不能购买自己的资源"
     },
-    "collaboration.spotlight.2_0.onboarding_spotlight.description_with_spotlight_arg": {
-        "string": "Just click {spotlightMeButtonText} in the dropdown to lead your teammates around the file."
+    "community.buyer.otp_percent_off": {
+        "string": "{percent_off}%折扣"
     },
-    "collaboration.spotlight.onboarding_spotlight.title": {
-        "string": "Sharing? Snag the spotlight!"
+    "community.buyer.paid_plugins_cannot_be_run_before_purchase": {
+        "string": "付费插件在购买前无法运行"
     },
-    "collaboration.voice.learn_more": {
-        "string": "Learn more"
+    "community.buyer.paid_widgets_cannot_be_added_to_the_canvas_before_purchase": {
+        "string": "付费小部件在购买前无法添加到画布"
     },
-    "collaboration.spotlight.onboarding.next": {
-        "string": "Next"
+    "community.buyer.payment_details": {
+        "string": "支付详情"
     },
-    "collaboration.spotlight.onboarding_observation.title": {
-        "string": "Sit back and follow along"
+    "community.buyer.payment_for_this_resource_is_moving_over_to_figma": {
+        "string": "此资源的支付正在转移到Figma平台"
     },
-    "collaboration.spotlight.onboarding_observation.description": {
-        "string": "Just click on a teammate's avatar to follow their cursor, so you can focus and listen instead of zooming around."
+    "community.buyer.payment_updates": {
+        "string": "支付更新"
     },
-    "collaboration.spotlight.onboarding.done": {
-        "string": "Done"
+    "community.buyer.please_remain_on_the_page": {
+        "string": "请保持在页面上，直到支付完成"
     },
-    "collaboration.spotlight.nudge_spotlight.title": {
-        "string": "Leading a meeting?"
+    "community.buyer.price_and_payment_cadence_will_appear_here": {
+        "string": "价格和支付节奏将显示在此"
     },
-    "rcs.sharing_clarity.file_permissions_modal_step_2_description": {
-        "string": "Members of the project this file lives in get default access. You can now review who has access here."
+    "community.buyer.price_one_time_payment": {
+        "string": "一次性支付{priceString}"
     },
-    "rcs.sharing_clarity.file_permissions_modal_step_2_description_no_folder": {
-        "string": "Members of the project this file lives in get default access. People with access to the project can review who has permission here."
+    "community.buyer.price_per_month": {
+        "string": "每月{priceString}"
     },
-    "rcs.sharing_clarity.file_permissions_modal_step_1_title": {
-        "string": "More control over your files"
+    "community.buyer.price_per_month_subscription": {
+        "string": "每月{priceString}的订阅"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "request_error_interstitial.refresh_and_try_again": {
-        "string": "Refresh and try again"
+    "plan_comparison.chart.custom_templates.details": {
+        "string": "独自のテンプレートを作成して組織内で共有します。"
     },
-    "request_error_interstitial.there_was_an_error": {
-        "string": "There was an error processing your request"
+    "plan_comparison.chart.custom_templates.name": {
+        "string": "カスタムテンプレート"
     },
-    "org_self_serve.team_step.guest_checkout_tooltip": {
-        "string": "Guests are users who do not have an email address with your Organization's domain and will have limited access to content."
+    "plan_comparison.chart.custom_templates_v2.details_with_callout": {
+        "string": "独自の{figJamCallout}テンプレートを作成して組織内で共有します。"
     },
-    "org_self_serve.team_step.on_teams": {
-        "string": "On teams: "
+    "plan_comparison.chart.custom_templates_v2.name": {
+        "string": "カスタムテンプレート"
     },
-    "org_self_serve.team_step.header": {
-        "string": "Which teams would you like to upgrade to your organization?"
+    "plan_comparison.chart.default_roles.details": {
+        "string": "新しいチームメンバーのデフォルトの役割を設定して、プランの費用をコントロールします。"
     },
-    "org_self_serve.team_step.team_creation_header": {
-        "string": "Which teams would you like to upgrade?"
+    "plan_comparison.chart.default_roles.name": {
+        "string": "デフォルトの役割"
     },
-    "org_self_serve.team_step.teams_shown_description": {
-        "string": "Teams shown are teams you are an admin or owner of"
+    "plan_comparison.chart.design_system_analytics.details": {
+        "string": "使用状況メトリクスを表示して、デザインシステムの導入状況の追跡、効果の測定、効果的な保守を行います。"
     },
-    "org_self_serve.team_step.team_creation_teams_shown_description": {
-        "string": "You’re an admin or owner of these teams—select as many as you like"
+    "plan_comparison.chart.design_system_analytics.name": {
+        "string": "デザインシステムアナリティクス"
     },
-    "org_self_serve.team_step.more_teams": {
-        "string": "More teams"
+    "plan_comparison.chart.design_system_analytics_v2.details": {
+        "string": "使用状況の指標を追跡して、デザインシステムの効果を計測します。"
     },
-    "org_self_serve.team_step.editor.seat_rename": {
-        "string": "{editorCount, plural, one {{editorCount} seat} other {{editorCount} seats}}"
+    "plan_comparison.chart.design_system_analytics_v2.name": {
+        "string": "デザインシステムアナリティクス"
     },
-    "org_self_serve.details_step.tell_us_about_your_organization": {
-        "string": "Tell us about your organization"
+    "plan_comparison.chart.design_system_modes.details": {
+        "string": "ダークモードのように、バリアブルのさまざまな値を切り替えることでテーマを作成できます。"
     },
-    "org_self_serve.review_step.lets_make_sure_everythings_right": {
-        "string": "Let’s make sure everything’s right"
+    "plan_comparison.chart.design_system_modes.name": {
+        "string": "デザインシステムモード"
     },
-    "org_self_serve.review_step.next_quarterly_true_up_on_date": {
-        "string": "Next quarterly true-up on {trueUpDate, date, long}"
+    "plan_comparison.chart.dev_mode.advanced_inspection.details": {
+        "string": "サイズ、スペック、レイアウト、リリース可能なコードをすべてワンクリックで取得できます。"
     },
-    "org_self_serve.review_step.what_is_a_true_up": {
-        "string": "What is a true-up?"
+    "plan_comparison.chart.dev_mode.advanced_inspection.name": {
+        "string": "高度なインスペクション"
     },
-    "org_self_serve.review_step.true_up_description.seat_rename": {
-        "string": "A true-up happens every three months. Figma will notify you two weeks in advance via email of new paid seats added to your organization since the last billing period."
+    "plan_comparison.chart.dev_mode.annotations_and_status.details": {
+        "string": "要素を「開発準備完了」にして、レッドラインとメモを追加します。"
     },
-    "org_self_serve.review_step.true_up_description_2.seat_rename": {
-        "string": "Since users can upgrade themselves or be upgraded by others, Figma will not charge for new full seats until after a true-up."
+    "plan_comparison.chart.dev_mode.annotations_and_status.name": {
+        "string": "アノテーションとステータス"
     },
-    "org_self_serve.review_step.true_up_description_3.seat_rename": {
-        "string": "Before a true-up, admins can review new paid seats and choose to either keep them or downgrade them to free, viewer-restricted seats."
+    "plan_comparison.chart.dev_mode.codegen_languages.details": {
+        "string": "別の単位やプラグインを使って、コードの出力をカスタマイズできます。"
     },
-    "org_self_serve.review_step.true_up_description_4.seat_rename": {
-        "string": "On your true-up date, you will be charged a prorated amount for the full seats you decide to keep."
+    "plan_comparison.chart.dev_mode.codegen_languages.name": {
+        "string": "より多くのコード生成言語"
     },
-    "org_self_serve.review_step.learn_more_about_true_ups": {
-        "string": "Learn more about true-ups"
+    "plan_comparison.chart.dev_mode.compare_changes.details": {
+        "string": "フレームの各バージョンを比較して変更部分をすばやく確認できます。"
     },
-    "org_self_serve.review_step.annual_renewal_on_date": {
-        "string": "Annual renewal on {renewalDate, date, long}"
+    "plan_comparison.chart.dev_mode.compare_changes.name": {
+        "string": "変更内容を比較"
     },
-    "org_self_serve.review_step.annual_renewal_description.seat_rename": {
-        "string": "Every year, until you cancel your subscription, you will be charged the total below plus amounts for any paid seats added to your Organization through true-ups."
+    "plan_comparison.chart.dev_mode.details": {
+        "string": "開発モードは、開発者のためのFigmaの新しいスペースです。デザインをコードにすばやく置き換えるための機能を備えています。"
     },
-    "org_self_serve.review_step.add_additional_editors.seat_rename": {
-        "string": "Add more seats"
+    "plan_comparison.chart.dev_mode.name": {
+        "string": "開発モードへのフルアクセス"
     },
-    "org_self_serve.review_step.subtotal": {
-        "string": "Subtotal"
+    "plan_comparison.chart.dev_mode.plugins_and_extensions.details": {
+        "string": "プラグインを作成し、実行して、開発モードのワークフローとコード生成をカスタマイズできます。"
     },
-    "org_self_serve.review_step.tax": {
-        "string": "Tax"
+    "plan_comparison.chart.dev_mode.plugins_and_extensions.name": {
+        "string": "プラグインと拡張機能"
     },
-    "org_self_serve.review_step.tax_rate": {
-        "string": "{taxRate}%"
+    "plan_comparison.chart.dev_mode.private_plugins.details": {
+        "string": "独自のプライベートプラグインを作成することで、チームまたは組織のニーズに合わせてインスペクトパネルをフルカスタマイズできます。"
     },
-    "org_self_serve.review_step.total_due_today": {
-        "string": "Total due today"
+    "plan_comparison.chart.dev_mode.private_plugins.name": {
+        "string": "プライベートプラグイン"
     },
-    "org_self_serve.review_step.card_ending_in_last4": {
-        "string": "Card ending in {last4}"
+    "plan_comparison.chart.dev_mode_v2.details": {
+        "string": "開発モードは、開発者のためのFigmaの新しいスペースです。デザインをコードにすばやく置き換えるための機能を備えています。"
     },
-    "org_self_serve.review_step.i_agree_to_msa_and_renewal_links": {
-        "string": "I agree to Figma's {msaLink} and {renewalLink}"
+    "plan_comparison.chart.dev_mode_v2.name": {
+        "string": "開発モード"
     },
-    "org_self_serve.review_step.software_services_agreement": {
-        "string": "Software Services Agreement"
+    "plan_comparison.chart.domain_capture.details": {
+        "string": "確認済みメールアドレスを持つすべてのユーザーを組織に追加します。"
     },
-    "org_self_serve.review_step.renewal_and_cancellation_terms": {
-        "string": "Renewal and Cancellation Terms"
+    "plan_comparison.chart.domain_capture.name": {
+        "string": "ドメインキャプチャー"
     },
-    "org_self_serve.review_step.complete_purchase": {
-        "string": "Complete purchase"
+    "plan_comparison.chart.guest_access_controls.details": {
+        "string": "外部の協力者の組織への参加を制限します。"
     },
-    "org_self_serve.confirmation_step.you_re_all_set": {
-        "string": "You’re all set!"
+    "plan_comparison.chart.guest_access_controls.name": {
+        "string": "ゲストによるアクセスの制御"
     },
-    "org_self_serve.confirmation_step.order_confirmation_message": {
-        "string": "Your order of Figma Organization is in and we’re setting it up right now. This will just take a few minutes and when the migration is complete, Figma will automatically refresh and we’ll send you an email letting you know."
+    "plan_comparison.chart.included": {
+        "string": "含まれる"
     },
-    "org_self_serve.confirmation_step.total_amount_to_be_charged_to_card_ending_in_last4": {
-        "string": "Total amount to be charged to card ending in {last4}"
+    "plan_comparison.chart.libraries.details": {
+        "string": "チームで使用するために、共有UIコンポーネントでデザインシステムを作成します。"
     },
-    "org_self_serve.confirmation_step.we_re_setting_up_your_organization": {
-        "string": "We’re setting up your organization…"
+    "plan_comparison.chart.libraries.name": {
+        "string": "ライブラリ"
     },
-    "org_self_serve.confirmation_step.go_to_the_file_browser": {
-        "string": "Go to the file browser"
+    "plan_comparison.chart.libraries.org_wide": {
+        "string": "組織全体"
     },
-    "org_self_serve.details_step.your_full_name": {
-        "string": "Your full name"
+    "plan_comparison.chart.libraries.team_wide": {
+        "string": "チーム全体"
     },
-    "org_self_serve.details_step.email_address": {
-        "string": "Email address"
+    "plan_comparison.chart.link_access_control.details": {
+        "string": "組織外でのファイルの共有を制限します。"
     },
-    "org_self_serve.details_step.legal_company_name": {
-        "string": "Legal company name"
+    "plan_comparison.chart.link_access_control.name": {
+        "string": "リンクアクセス制御"
     },
-    "org_self_serve.details_step.company_display_name": {
-        "string": "Company display name"
+    "plan_comparison.chart.onboarding.details": {
+        "string": "Figmaチームと緊密に連携して、Figmaのロールアウトを計画し、思いどおりに実行します。"
     },
-    "org_self_serve.details_step.company_display_name__different_from_company_name_sub_text": {
-        "string": "Display name in Figma (if different legal company name)"
+    "plan_comparison.chart.onboarding.name": {
+        "string": "オンボーディングとアカウントのサポート"
     },
-    "org_self_serve.details_step.company_display_name_sub_text": {
-        "string": "Desired company display name (if different from above)"
+    "plan_comparison.chart.open_sessions.details_with_callout": {
+        "string": "ログイン不要、セッション数無制限で、{figJamCallout}に誰でも24時間招待できます。"
     },
-    "org_self_serve.modals.invalid_email.figma_organization_only_allows_work_emails": {
-        "string": "Figma Organization only allows work emails"
+    "plan_comparison.chart.open_sessions.name": {
+        "string": "オープンセッション"
     },
-    "org_self_serve.modals.invalid_email.change_email_address_to_proceed": {
-        "string": " To continue with your upgrade to Figma Organization, you will need to be using a work email address. Please change the email address of your account to proceed."
+    "plan_comparison.chart.password_protection.details": {
+        "string": "ファイルにパスワードを設定して、作業を見ることができるメンバーをコントロールします。"
     },
-    "org_self_serve.modals.invalid_email.go_to_the_file_browser": {
-        "string": "Go to the file browser"
+    "plan_comparison.chart.password_protection.name": {
+        "string": "パスワードによる保護"
     },
-    "org_self_serve.modals.existing_org_admin.figma_organization_already_purchased": {
-        "string": "Figma Organization already purchased"
+    "plan_comparison.chart.plugin_widget_management.details": {
+        "string": "チームからのプラグインやウェジェットの承認申請の承認と管理を行います。"
     },
-    "org_self_serve.modals.existing_org_admin.if_you_need_another_organization": {
-        "string": "You are already the admin of a Figma Organization plan. If you need another Organization plan, please {contactSales}."
+    "plan_comparison.chart.plugin_widget_management.name": {
+        "string": "プラグイン/ウィジェット管理"
     },
-    "org_self_serve.modals.existing_org_admin.contact_sales": {
-        "string": "contact sales"
+    "plan_comparison.chart.private_plugins_v2.details": {
+        "string": "組織で使用するプライベートプラグインを作成します。"
     },
-    "org_self_serve.modals.existing_org_admin.go_to_the_file_browser": {
-        "string": "Go to the file browser"
+    "plan_comparison.chart.private_plugins_v2.name": {
+        "string": "プライベートプラグイン"
     },
-    "org_self_serve.modals.true_up_edu.figma_grows_with_your_team": {
-        "string": "Figma grows with your team"
+    "plan_comparison.chart.private_projects.details": {
+        "string": "チームが非公開で作業するための招待専用スペースを作成します。"
     }
 }

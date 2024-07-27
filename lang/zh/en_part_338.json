@@ -1,152 +1,152 @@
 {
-    "project_creation.create_new_project": {
-        "string": "Create new project"
+    "whiteboard.fonts.simple": {
+        "string": "シンプル"
     },
-    "sidebar.new_project": {
-        "string": "New project"
+    "whiteboard.fonts.technical": {
+        "string": "テクニカル"
     },
-    "flash.annual_plan.contact_support_link": {
-        "string": "contact support"
+    "whiteboard.google_classroom.onboarding.body": {
+        "string": "FigJamで作成している教材をGoogle Classroom (や生徒/学生)に簡単に共有できます。"
     },
-    "flash.annual_plan.contact_support": {
-        "string": "Please {contactSupport} to purchase more than {maxAnnualSubscriptions} seats."
+    "whiteboard.google_classroom.onboarding.header": {
+        "string": "Google Classroomに共有"
     },
-    "payments.step_pay.add_more_seats": {
-        "string": "Add more seats"
+    "whiteboard.google_classroom.onboarding.image_alt": {
+        "string": "「Google Classroomに共有」機能のイラスト"
     },
-    "payments.step_pay.editors_on_annual_plan.seat_rename": {
-        "string": "{numAnnualEditors, plural, one {{numAnnualEditorsNumberOrInput} {productType} seat on an annual plan} other {{numAnnualEditorsNumberOrInput} {productType} seats on an annual plan}}"
+    "whiteboard.google_classroom.onboarding.new_user.body": {
+        "string": "FigJamで作成している教材を生徒/学生に簡単に共有できるようになりました。"
     },
-    "payments.step_pay.add_more_editors": {
-        "string": "Planning ahead? {addMoreSeats}"
+    "whiteboard.google_classroom.onboarding.new_user.header": {
+        "string": "Google Classroomに共有"
     },
-    "payments.step_pay.subscription": {
-        "string": "Subscription"
+    "whiteboard.google_classroom.onboarding.show_me": {
+        "string": "見る"
     },
-    "payments.step_pay.plus_sales_tax": {
-        "string": "+ sales tax"
+    "whiteboard.google_classroom.pointer.body": {
+        "string": "FigJamから離れることなく、このボードをGoogle Classroomに直接共有できます。"
     },
-    "payments.step_pay.happy_you_want_to_buy_seats": {
-        "string": "We’re happy that you want to buy {numAnnualEditors} total seats, but just want to check that you didn’t make a typo."
+    "whiteboard.inline_menu.add_connector_text": {
+        "string": "テキストを追加"
     },
-    "flash.no_negative_seats": {
-        "string": "You can’t have fewer than 0 seats."
+    "whiteboard.inline_menu.add_image_description": {
+        "string": "説明を追加"
     },
-    "flash.at_least_one_editor.seat_rename": {
-        "string": "You need at least one paid seat."
+    "whiteboard.inline_menu.add_same_shape": {
+        "string": "もう1つ追加"
     },
-    "payments.step_pay.price_per_editor_12_months": {
-        "string": "{price} × {editorString} × 12 months"
+    "whiteboard.inline_menu.ai_quick_actions_beta_badge_text": {
+        "string": "ベータ"
     },
-    "payments.step_pay.num_editors.seat_rename": {
-        "string": "{numEditors, plural, one {{numEditors} full seat} other {{numEditors} full seats}}"
+    "whiteboard.inline_menu.ai_quick_actions_button_aria_label": {
+        "string": "クイックアクションツールバーのドロップダウンボタン"
     },
-    "payments.step_pay.none_selected": {
-        "string": "None selected"
+    "whiteboard.inline_menu.ai_quick_actions_button_text": {
+        "string": "FigJam AI"
     },
-    "payments.step_pay.thats_a_lot_of_seats": {
-        "string": "{numAnnualEditors}? That’s a lot of total seats!"
+    "whiteboard.inline_menu.ai_quick_actions_disabled_header": {
+        "string": "FigJam AIにアクセスできません。"
     },
-    "payments.step_pay.confirm_seats": {
-        "string": "Confirm seats"
+    "whiteboard.inline_menu.ai_quick_actions_disabled_try_again_later": {
+        "string": "しばらくしてからお試しください。"
     },
-    "team_view.downgrade_editor_modal.downgrading_their_team_permission_will_change_all_permissions_to_can_view": {
-        "string": "Downgrading their team permission will change all their project and file permissions on this team to 'can view'."
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer": {
+        "string": "AIの出力は、誤解を招くことや、間違っていることがあります。"
     },
-    "team_view.downgrade_editor_modal.downgrade_user_team_permissions": {
-        "string": "Downgrade {username}'s Team Permissions?"
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer_cta": {
+        "string": "詳細情報"
     },
-    "team_view.downgrade_editor_modal.downgrade_multiple_users_team_permissions": {
-        "string": "Downgrade {numSelectedUsers} users' Team Permissions?"
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_mobile_disclaimer": {
+        "string": "FigJam AI (ベータ)。注：AIの出力は、誤解を招くことや、間違っていることがあります。"
     },
-    "team_view.downgrade_editor_modal.downgrade": {
-        "string": "Downgrade"
+    "whiteboard.inline_menu.ai_quick_actions_dropdown_options_aria_label": {
+        "string": "クイックアクションのオプション"
     },
-    "team_view.downgrade_editor_modal.are_you_sure_you_want_to_downgrade": {
-        "string": "Are you sure you want to downgrade these {numSelectedUsers} users?"
+    "whiteboard.inline_menu.ai_quick_actions_generate_ideas_button": {
+        "string": "アイデアを生成"
     },
-    "team_view.grant_figjam_edit_status.seat_rename": {
-        "string": "Give full access to FigJam?"
+    "whiteboard.inline_menu.ai_quick_actions_generate_ideas_disabled_tooltip": {
+        "string": "テキストを含む要素を1つ選択します"
     },
-    "team_view.grant_design_edit_status.seat_rename": {
-        "string": "Give full access to Figma Design?"
+    "whiteboard.inline_menu.ai_quick_actions_header_text": {
+        "string": "FigJam AI"
     },
-    "team_view.downgrade_figjam_access_from_viewer_to_viewer_restricted": {
-        "string": "Change FigJam view access?"
+    "whiteboard.inline_menu.ai_quick_actions_onboarding_badge_2": {
+        "string": "新機能"
     },
-    "team_view.downgrade_design_access_from_viewer_to_viewer_restricted": {
-        "string": "Change Figma design view access?"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_button": {
+        "string": "付箋を並び替える"
     },
-    "team_view.remove_figjam_edit_status.seat_rename": {
-        "string": "Downgrade FigJam access?"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author": {
+        "string": "作者"
     },
-    "team_view.remove_design_edit_status.seat_rename": {
-        "string": "Downgrade Figma Design access?"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author_2": {
+        "string": "作成者"
     },
-    "team_view.downgrade_figjam_from_viewer_to_viewer_restricted_description.seat_rename": {
-        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} in FigJam means they'll need admin approval to upgrade.} other {Downgrading these {numMembers} people in FigJam means they'll need admin approval to upgrade.}}"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color": {
+        "string": "色"
     },
-    "team_view.downgrade_design_from_viewer_to_viewer_restricted_description.seat_rename": {
-        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} from viewer to viewer-restricted in Figma Design won't change their access to files, but it will mean they'll need admin approval to upgrade in the future.} other {Downgrading these {numMembers} people from viewer to viewer-restricted in Figma Design won't change their access to files, but it will mean they'll need admin approval to upgrade in the future.}}"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color_2": {
+        "string": "色"
     },
-    "team_view.downgrade_figjam_description.seat_rename": {
-        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} in FigJam means they can no longer edit or create FigJam files in this team.} other {Downgrading these {numMembers} people in FigJam means they can no longr edit or create FigJam files in this team.}}"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count": {
+        "string": "スタンプの数"
     },
-    "team_view.downgrade_design_description.seat_rename": {
-        "string": "{numMembers, plural, one {Downgrading {memberNameOrEmail} in Figma Design means they can no longer edit or create design files in this team.} other {Downgrading these {numMembers} users in Figma Design means they can no longer edit or create design files in this team.}}"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count_2": {
+        "string": "スタンプの数"
     },
-    "team_view.change_to_editor_figjam_description.seat_rename": {
-        "string": "{numMembers, plural, one {Upgrading {memberNameOrEmail} in FigJam will allow them to edit or create FigJam files outside of the Drafts section in this team.} other {Upgrading these {numMembers} people in FigJam will allow them to edit or create FigJam files outside of the Drafts section in this team.}}"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type": {
+        "string": "スタンプの種類"
     },
-    "team_view.change_to_editor_design_description.seat_rename": {
-        "string": "{numMembers, plural, one {Upgrading {memberNameOrEmail} in Figma Design will allow them to edit or create design files outside of the Drafts section in this team.} other {Upgrading these {numMembers} people in Figma Design will allow them to edit or create design files outside of the Drafts section in this team.}}"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type_2": {
+        "string": "スタンプの種類"
     },
-    "team_view.learn_more.seat_rename": {
-        "string": "Learn more about paid seats"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic": {
+        "string": "トピック"
     },
-    "team_view.grant.seat_rename": {
-        "string": "Upgrade"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic_2": {
+        "string": "トピック"
     },
-    "team_view.change": {
-        "string": "Change"
+    "whiteboard.inline_menu.ai_quick_actions_sort_stickies_disabled_tooltip": {
+        "string": "{minSelectedStickies, plural, other {付箋を{minSelectedStickies}個以上選択してください(何も書かれていない付箋を除きます)。}}"
     },
-    "team_view.remove.seat_rename": {
-        "string": "Downgrade"
+    "whiteboard.inline_menu.ai_quick_actions_summarize_button": {
+        "string": "要約"
     },
-    "team_view.member_edit_access_modal.projects_title": {
-        "string": "Projects with edit access"
+    "whiteboard.inline_menu.ai_quick_actions_summarize_disabled_tooltip": {
+        "string": "{minSelectedStickies, plural, other {付箋を{minSelectedStickies}個以上選択してください(何も書かれていない付箋を除きます)。}}"
     },
-    "team_view.member_edit_access_modal.files_title": {
-        "string": "Files with edit access"
+    "whiteboard.inline_menu.alignment_button": {
+        "string": "配置"
     },
-    "team_view.member_edit_access_modal.none_files": {
-        "string": "None"
+    "whiteboard.inline_menu.alt_text": {
+        "string": "altテキスト"
     },
-    "team_view.member_edit_access_modal.none_projects": {
-        "string": "None"
+    "whiteboard.inline_menu.arrange_stickies_dropdown_button_aria_label": {
+        "string": "付箋の並べ替えサブメニューボタン"
     },
-    "team_view.member_edit_access_modal.all_projects": {
-        "string": "All"
+    "whiteboard.inline_menu.aspect_ratio": {
+        "string": "アスペクト比"
     },
-    "team_view.member_edit_access_modal.all_files": {
-        "string": "All"
+    "whiteboard.inline_menu.change_shape": {
+        "string": "シェイプ"
     },
-    "team_view.member_edit_access_modal.all_design_files": {
-        "string": "All design files"
+    "whiteboard.inline_menu.change_shape_label": {
+        "string": "シェイプ、{currentShape}"
     },
-    "team_view.member_edit_access_modal.all_figjam_files": {
-        "string": "All FigJam files"
+    "whiteboard.inline_menu.change_shape_search": {
+        "string": "シェイプを検索"
     },
-    "team_view.member_edit_access_modal.invite_only_projects": {
-        "string": "{numProjects, plural, one {{numProjects} invite-only project} other {{numProjects} invite-only projects}}"
+    "whiteboard.inline_menu.color": {
+        "string": "色"
     },
-    "team_view.member_edit_access_modal.invite_only_files": {
-        "string": "{numFiles, plural, one {{numFiles} invite-only file} other {{numFiles} invite-only files}}"
+    "whiteboard.inline_menu.color_list_box": {
+        "string": "色を変更"
     },
-    "team_view.member_edit_access_modal.invite_only_projects_list_end": {
-        "string": "{numProjects, plural, one {and {numProjects} invite-only project} other {and {numProjects} invite-only projects}}"
+    "whiteboard.inline_menu.color_selector_label": {
+        "string": "色、{currentColor}"
     },
-    "team_view.member_edit_access_modal.invite_only_files_list_end": {
-        "string": "{numFiles, plural, one {and {numFiles} invite-only file} other {and {numFiles} invite-only files}}"
+    "whiteboard.inline_menu.connector_end_point": {
+        "string": "終了点"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "community.universal_posting_modal.resource_empty.widgets_title": {
-        "string": "No widgets yet"
+    "file_browser.folder_list_view.header_files_column": {
+        "string": "文件"
     },
-    "community.universal_posting_modal.resource_empty.files_subtitle": {
-        "string": "Files you make will show up here, and you can publish them to the community with just a couple clicks."
+    "file_browser.folder_list_view.header_name_column": {
+        "string": "名称"
     },
-    "community.universal_posting_modal.resource_empty.plugins_subtitle": {
-        "string": "Plugins you make will show up here, and you can publish them to the community with just a couple clicks."
+    "file_browser.folder_list_view.header_shared_at_column": {
+        "string": "共享时间"
     },
-    "community.universal_posting_modal.resource_empty.widgets_subtitle": {
-        "string": "Widgets you make will show up here, and you can publish them to the community with just a couple clicks."
+    "file_browser.folder_list_view.header_shared_by_column": {
+        "string": "共享者"
     },
-    "community.universal_posting_modal.search_bar.placeholder": {
-        "string": "Search for a file to publish"
+    "file_browser.folder_list_view.header_updated_column": {
+        "string": "更新"
     },
-    "community.publishing.this_file_has_been_published_to_community_as_a_library": {
-        "string": "This file has been published to Community as a library. Publish updates from within the file."
+    "file_browser.folder_move.modal_header": {
+        "string": "移动项目{folderName}"
     },
-    "community.likes.to_like_switch_to_your_personal_profile": {
-        "string": "To like, switch to your personal profile"
+    "file_browser.folder_move.move_project": {
+        "string": "移动项目"
     },
-    "community.onboarding.see_more_of_what_you_love": {
-        "string": "See more of what you love"
+    "file_browser.folder_move.move_project_no_edit_access_warning": {
+        "string": "在将项目移动到此团队之前，您需要编辑团队的访问权限。"
     },
-    "community.onboarding.whether_you_want_to_focus_on_creators_you_follow_discover_new_files_and_plugins_or_find_out_what_s_trending_you_can_customize_your_feed_here": {
-        "string": "Whether you want to focus on creators you follow, discover new files and plugins, or find out what’s trending, you can customize your feed here."
+    "file_browser.folder_move.project_moved_toast": {
+        "string": "项目{folderName}已移动到{teamName}"
     },
-    "community.onboarding.use_community_as_an_org_or_team": {
-        "string": "Use Community as an org or team"
+    "file_browser.folder_move.view_team": {
+        "string": "查看团队"
     },
-    "community.onboarding.switch_to_browsing_community_as_an_admin_to_save_plugins_and_manage_content_published_by_your_org_or_team": {
-        "string": "Switch to browsing Community as an admin to save plugins and manage content published by your org or team."
+    "file_browser.folder_settings.change_team_access": {
+        "string": "更改访问权限"
     },
-    "community.onboarding.saved_in_editor_title": {
-        "string": "Save your favorites"
+    "file_browser.folder_settings.change_team_access_team_name": {
+        "string": "更改{teamName}的访问权限"
     },
-    "community.onboarding.saved_in_editor_subtitle": {
-        "string": "Now you can save plugins and widgets right from your toolbar."
+    "file_browser.folder_settings.change_team_access_title": {
+        "string": "{teamName}的成员"
     },
-    "community.plugin_development.save_as": {
-        "string": "Save as"
+    "file_browser.folder_settings.revoke": {
+        "string": "撤销"
     },
-    "community.plugin_development.create_plugin": {
-        "string": "Create plugin"
+    "file_browser.folder_settings.team_access_disable": {
+        "string": "禁用"
     },
-    "community.plugin_development.create_widget": {
-        "string": "Create widget"
+    "file_browser.folder_settings.team_access_disabled_subtitle": {
+        "string": "删除此项目的组默认访问权限"
     },
-    "community.plugin_development.setup_guide": {
-        "string": "setup guide"
+    "file_browser.folder_settings.team_access_same_as_team": {
+        "string": "与团队相同"
     },
-    "community.plugin_development.join_our_discord": {
-        "string": "join us on Discord"
+    "file_browser.folder_settings.team_access_same_as_team_subtitle": {
+        "string": "根据当前团队角色，可以编辑或仅查看"
     },
-    "community.plugin_development.follow_our_setup_guide_plugin": {
-        "string": "Follow our {setupGuideLink} to build and run your plugin."
+    "file_browser.folder_settings.team_access_view_only": {
+        "string": "仅查看"
     },
-    "community.plugin_development.follow_our_setup_guide_widget": {
-        "string": "Follow our {setupGuideLink} to build and run your widget."
+    "file_browser.folder_settings.team_access_view_only_subtitle": {
+        "string": "无论当前团队角色如何，只能查看和评论"
     },
-    "community.plugin_development.connect_with_other_plugin_developers": {
-        "string": "To connect with other plugin developers, {joinOurDiscordLink}."
+    "file_browser.folder_settings.team_can_access_tooltip": {
+        "string": "访问权限将与团队级别权限一致。"
     },
-    "community.plugin_development.connect_with_other_widget_developers": {
-        "string": "To connect with other widget developers, {joinOurDiscordLink}."
+    "file_browser.hybrid_templates_shelf.for_des": {
+        "string": "设计师模板"
     },
-    "community.plugin_development.open_folder": {
-        "string": "Open folder"
+    "file_browser.hybrid_templates_shelf.for_eng": {
+        "string": "开发者模板"
     },
-    "community.plugin_development.widget_creation_editor_option_figma_design_and_figjam": {
-        "string": "Figma design + FigJam"
+    "file_browser.hybrid_templates_shelf.for_mkt": {
+        "string": "市场人员模板"
     },
-    "community.plugin_development.plugin_creation_editor_option_figma_design_and_figjam": {
-        "string": "Figma design + FigJam"
+    "file_browser.hybrid_templates_shelf.for_pm": {
+        "string": "产品经理模板"
     },
-    "community.plugin_development.widget_creation_editor_option_figma_design_and_figjam_description": {
-        "string": "Build a widget that works across both Figma design and FigJam."
+    "file_browser.hybrid_templates_shelf.for_ur": {
+        "string": "用户研究员模板"
     },
-    "community.plugin_development.plugin_creation_editor_option_figma_design_and_figjam_description": {
-        "string": "Build a plugin that works across both Figma design and FigJam."
+    "file_browser.hybrid_templates_shelf.generate_button": {
+        "string": "生成"
     },
-    "community.plugin_development.widget_creation_editor_option_figma_design": {
-        "string": "Figma design"
+    "file_browser.inline_team_creation.button_text": {
+        "string": "创建新团队"
     },
-    "community.plugin_development.plugin_creation_editor_option_figma_design": {
-        "string": "Figma design"
+    "file_browser.inline_team_creation.placeholder": {
+        "string": "团队名称"
     },
-    "community.plugin_development.widget_creation_editor_option_figma_design_description": {
-        "string": "Expand what’s possible in FigJam. Connect to other tools, or build tools of your own."
+    "file_browser.mobile_prompt.app_action": {
+        "string": "获取"
     },
-    "community.plugin_development.plugin_creation_editor_option_figma_design_description": {
-        "string": "Take design to the next level. Automate your work, bring in real data, and more."
+    "file_browser.mobile_prompt.app_description": {
+        "string": "用于查看和评论"
     },
-    "community.plugin_development.widget_creation_editor_option_figjam": {
-        "string": "FigJam"
+    "file_browser.mobile_prompt.app_description_new": {
+        "string": "设计、协作、镜像"
     },
-    "community.plugin_development.plugin_creation_editor_option_figjam": {
-        "string": "FigJam"
+    "file_browser.mobile_prompt.app_image_alt": {
+        "string": "Figma移动应用图标"
     },
-    "community.plugin_development.widget_creation_editor_option_figjam_description": {
-        "string": "Take design to the next level. Automate your work, bring in real data, and more."
+    "file_browser.mobile_prompt.app_title": {
+        "string": "Figma应用"
     },
-    "community.plugin_development.plugin_creation_editor_option_figjam_description": {
-        "string": "Expand what's possible in FigJam. Connect to other tools or build tools of your own."
+    "file_browser.mobile_prompt.browser_action": {
+        "string": "继续"
     },
-    "community.plugin_development.plugin_creation_template_option_tab": {
-        "string": "Inspect"
+    "file_browser.mobile_prompt.browser_image_alt": {
+        "string": "Google Chrome标志"
     },
-    "community.plugin_development.plugin_creation_template_option_tab_description": {
-        "string": "Build a plugin that helps inspect designs for implementation. These plugins can show additional, contextual information about a design, such as relevant context from other tools."
+    "file_browser.mobile_prompt.browser_title": {
+        "string": "浏览器"
     },
-    "community.plugin_development.plugin_creation_template_option_codegen": {
-        "string": "Code generator"
+    "file_browser.mobile_prompt.image_alt": {
+        "string": "在Figma移动应用上查看文件并发表评论的智能手机屏幕。"
     },
-    "community.plugin_development.plugin_creation_template_option_codegen_description": {
-        "string": "Build a plugin that generates code snippets in whatever language you'd like."
+    "file_browser.mobile_prompt.modal_body": {
+        "string": "试试Figma移动应用，可以在旅途中评论、回复、@提及等。"
     },
-    "community.plugin_development.plugin_creation_template_option_default": {
-        "string": "Default"
+    "file_browser.mobile_prompt.modal_body_blocking": {
+        "string": "所有文件查看、评论回复、通知检查等都可以在Figma移动应用上完成。"
     },
-    "community.plugin_development.plugin_creation_template_option_default_description": {
-        "string": "A blank slate for your imagination"
+    "file_browser.mobile_prompt.modal_title": {
+        "string": "通过Figma应用随时保持最新"
     },
-    "community.plugin_development.plugin_creation_template_option_run_once": {
-        "string": "Run once"
+    "file_browser.mobile_prompt.modal_title_blocking": {
+        "string": "获取Figma应用并在移动设备上查看"
     },
-    "community.plugin_development.plugin_creation_template_option_run_once_description": {
-        "string": "Build a plugin that doesn't require input after it's been run—the easiest way to get started."
+    "file_browser.mobile_prompt.modal_title_compact": {
+        "string": "在应用上查看此文件"
     },
-    "community.plugin_development.plugin_creation_template_option_with_ui": {
-        "string": "Custom UI"
+    "file_browser.modal.are_you_sure_to_transfer_ownership": {
+        "string": "确定要将{resourceName}的所有权转移给{newOwnerName}吗？"
     },
-    "community.plugin_development.plugin_creation_template_option_with_ui_description": {
-        "string": "Build a plugin with its own UI. Take full advantage of browser-based APIs."
+    "file_browser.modal.cannot_undo_warning": {
+        "string": "此操作无法撤销。"
     },
-    "community.plugin_development.widget_creation_option_default": {
-        "string": "Default"
+    "file_browser.modal.cant_transfer_ownership_title": {
+        "string": "无法更改所有者"
     },
-    "community.plugin_development.widget_creation_option_default_description": {
-        "string": "A blank slate for your imagination."
+    "file_browser.modal.got_it": {
+        "string": "知道了"
     },
-    "community.plugin_development.widget_creation_option_simple": {
-        "string": "Simple"
+    "file_browser.modal.this_resource_is_for_sale_on_community_so_you_cant_change_ownership": {
+        "string": "此资源在社区中出售，无法将其所有权更改为其他用户。"
     },
-    "community.plugin_development.widget_creation_option_simple_description": {
-        "string": "Build a simple widget that users can interact with, directly on the canvas."
+    "file_browser.modal.transfer_ownership_cta": {
+        "string": "转移所有权"
     },
-    "community.plugin_development.widget_creation_option_with_iframe": {
-        "string": "iFrame"
+    "file_browser.modal.transfer_ownership_title": {
+        "string": "转移所有权"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "collaboration.branching.undo_delete": {
-        "string": "Undo"
+    "collaboration.spotlight.tooltip.cancel_ask_to_spotlight": {
+        "string": "取消聚光灯请求"
     },
-    "collaboration.branching.an_error_occurred_while_deleting_these_files": {
-        "string": "An error occurred while deleting these files."
+    "collaboration.spotlight.tooltip.click_to_follow": {
+        "string": "点击跟随"
     },
-    "bindings.image_resized_message": {
-        "string": "Image resized"
+    "collaboration.spotlight.tooltip.click_to_unfollow": {
+        "string": "点击取消跟随"
     },
-    "bindings.image_resized_message_learn_more": {
-        "string": "Learn more"
+    "collaboration.spotlight.tooltip.legacy.click_to_observe_user": {
+        "string": "点击观察用户"
     },
-    "bindings.gif_resized_and_converted_to_static_image": {
-        "string": "GIF is too large. Image has been resized and converted to static image."
+    "collaboration.spotlight.tooltip.legacy.click_to_stop_observing_user": {
+        "string": "点击停止观察用户"
     },
-    "bindings.gif_resized_and_converted_to_static_image_learn_more": {
-        "string": "Learn more"
+    "collaboration.spotlight.tooltip.menu.cancel_ask_to_spotlight": {
+        "string": "取消聚光灯请求"
     },
-    "visual_bell.multi_editing": {
-        "string": "Multi-editing"
+    "collaboration.spotlight.tooltip.spotlight_me": {
+        "string": "给我聚光灯"
     },
-    "bindings.undo": {
-        "string": "Undo"
+    "collaboration.spotlight.tooltip.stop_presenting": {
+        "string": "点击停止演示"
     },
-    "autosave.visual_bell.offline": {
-        "string": "You are offline. Figma will resume auto-saving when you reconnect to the internet."
+    "collaboration.spotlight.visual_bell.nominated_user_to_spotlight": {
+        "string": "已请求给{userName}聚光灯"
     },
-    "autosave.visual_bell.unsaved_changes": {
-        "string": "The document has unsaved changes. Figma will continue to try auto-saving your work."
+    "collaboration.spotlight.visual_bell.stopped_nominating_user_to_spotlight": {
+        "string": "已取消聚光灯请求"
     },
-    "autosave.you_dont_need_to_save_reminder": {
-        "string": "Figma auto-saves your work"
+    "collaboration.spotlight.visual_bell.the_presenter_left_the_spotlight": {
+        "string": "演示者已离开聚光灯"
     },
-    "fullscreen_actions.ai_content_fill.visual_bell_suggestion": {
-        "string": "Suggestion"
+    "collaboration.spotlight.visual_bell.user_left_the_spotlight": {
+        "string": "{userName}已离开聚光灯"
     },
-    "fullscreen_actions.ai_content_fill.rewrite_duplicates": {
-        "string": "Rewrite duplicates"
+    "collaboration.voice.are_talking_in_this_file": {
+        "string": "在此文件中，{voiceUserNames}正在讲话。要加入对话，请点击[{joinText}]。"
     },
-    "bindings.paste_as_layers": {
-        "string": "Paste as layers"
+    "collaboration.voice.attempting_to_reconnect": {
+        "string": "正在尝试重新连接..."
     },
-    "bindings.embed_paste_notice": {
-        "string": "Embeds cannot be pasted into Figma"
+    "collaboration.voice.audio_has_been_disabled_by_your_organization": {
+        "string": "音频已被您的组织禁用"
     },
-    "bindings.link_preview_paste_notice": {
-        "string": "Link previews cannot be pasted into Figma"
+    "collaboration.voice.audio_has_timed_out_click_to_rejoin": {
+        "string": "音频已超时。点击重新加入。"
     },
-    "bindings.widget_paste_notice_slides": {
-        "string": "Can’t paste widgets into Figma Slides"
+    "collaboration.voice.audio_input_too_low_warning": {
+        "string": "麦克风音量太低。请尝试切换设备。"
     },
-    "bindings.widget_paste_notice": {
-        "string": "Widgets cannot be pasted into Figma"
+    "collaboration.voice.audio_settings": {
+        "string": "自动设置"
     },
-    "design_systems.component_panel.changes_pushed_to_main_component": {
-        "string": "Changes pushed to main component"
+    "collaboration.voice.beta": {
+        "string": "测试版"
     },
-    "design_systems.updates.to_move_pasted_styles_to_this_file_publish_a_library_update": {
-        "string": "To move pasted styles to this file, publish a library update"
+    "collaboration.voice.check_your_microphone_permissions_to_start_chatting": {
+        "string": "请检查麦克风权限以开始聊天。"
     },
-    "design_systems.updates.to_move_pasted_components_to_this_file_publish_a_library_update": {
-        "string": "To move pasted components to this file, publish a library update"
+    "collaboration.voice.click_to_mute": {
+        "string": "点击静音"
     },
-    "autosave.unable_to_leave_document.unsaved_changes_save_in_background": {
-        "string": "The current document has unsaved changes. Figma will continue trying to save in the background. Please try again later."
+    "collaboration.voice.click_to_unmute": {
+        "string": "点击取消静音"
     },
-    "autosave.unable_to_leave_document.pending_changes": {
-        "string": "This file has pending offline changes. Your offline changes will be synced with Figma when you go online."
+    "collaboration.voice.closed_captioning": {
+        "string": "隐藏字幕"
     },
-    "sites.fullscreen_actions.external_url_copied": {
-        "string": "External URL copied to clipboard"
+    "collaboration.voice.closed_captions": {
+        "string": "隐藏字幕"
     },
-    "check_network_compatibility.error_bell.fetch_font_list.message": {
-        "string": "Failed to fetch font list. Your network settings may need updating."
+    "collaboration.voice.connected": {
+        "string": "已连接"
     },
-    "bindings.create_a_figjam_account": {
-        "string": "Create an account to do more with FigJam"
+    "collaboration.voice.connected_check_your_microphone_permissions_to_start_chatting": {
+        "string": "已连接。请检查麦克风权限以开始聊天。"
     },
-    "bindings.no_file_access": {
-        "string": "You don't have access to this file"
+    "collaboration.voice.connecting": {
+        "string": "正在连接…"
     },
-    "hyperlink.page": {
-        "string": "Page"
+    "collaboration.voice.couldn_t_leave_please_try_again": {
+        "string": "无法退出。请重试。"
     },
-    "hyperlink.frame": {
-        "string": "Frame"
+    "collaboration.voice.enable_mic_access_for_the_figma_app_to_join": {
+        "string": "请启用Figma应用的麦克风访问权限以加入"
     },
-    "bindings.hyperlink_popup_link_to_unloaded_from_in_this_file": {
-        "string": "Frame in this file"
+    "collaboration.voice.enable_mic_access_in_your_browser_to_join": {
+        "string": "请在浏览器中启用麦克风访问权限以加入"
     },
-    "bindings.hyperlink_popup_link_to_deleted_object": {
-        "string": "Link to a deleted object"
+    "collaboration.voice.error_fetching_devices": {
+        "string": "获取设备时出错"
     },
-    "figjam_try.google_meet_user_name": {
-        "string": "Google Device"
+    "collaboration.voice.error_selecting_device": {
+        "string": "选择设备时出错"
     },
-    "whiteboard.csv.importing_csv": {
-        "string": "Importing CSV"
+    "collaboration.voice.figma_audio_won_t_work_on_your_device_learn_why": {
+        "string": "Figma音频无法在您的设备上工作。了解原因"
     },
-    "visual_bell.moved_single_node": {
-        "string": "{nodeName} moved to {newPage}"
+    "collaboration.voice.file_owner": {
+        "string": "文件所有者"
     },
-    "visual_bell.go_there": {
-        "string": "Go there"
+    "collaboration.voice.it_s_been_quiet_for_a_while_so_we_ll_end_the_conversation_in_20_seconds_n_click_to_stay_on": {
+        "string": "已经安静了一段时间，因此我们将在20秒内结束对话。\n点击以继续。"
     },
-    "bindings.stack_shortcut_slides_mode_toggle": {
-        "string": "Switched to design mode to manage auto layout"
+    "collaboration.voice.join": {
+        "string": "加入"
     },
-    "bindings.stack_shortcut_slides_mode_toggle_return": {
-        "string": "Back to slides mode"
+    "collaboration.voice.join_conversation": {
+        "string": "加入对话"
     },
-    "fullscreen.fullscreen_view.attempted_sketch_import.import_from_sketch": {
-        "string": "Import from Sketch"
+    "collaboration.voice.join_lower": {
+        "string": "加入"
     },
-    "fullscreen.fullscreen_view.attempted_sketch_import.to_import_your_sketch_files_please_drag_them_into_your_file_space": {
-        "string": "To import your Sketch files, please drag them into your file space."
+    "collaboration.voice.join_the_conversation": {
+        "string": "加入对话"
     },
-    "fullscreen.fullscreen_view.attempted_sketch_import.do_it_later": {
-        "string": "Do it later"
+    "collaboration.voice.joined": {
+        "string": "已加入"
     },
-    "fullscreen.fullscreen_view.attempted_sketch_import.go_to_file_space": {
-        "string": "Go to file space"
+    "collaboration.voice.large": {
+        "string": "大"
     },
-    "fake_mp.modal.cursors": {
-        "string": "Moving cursors"
+    "collaboration.voice.learn_how_to_turn_on_closed_captioning": {
+        "string": "了解如何开启隐藏字幕"
     },
-    "fake_mp.modal.center": {
-        "string": "Center"
+    "collaboration.voice.learn_more": {
+        "string": "了解更多"
     },
-    "fake_mp.modal.reset": {
-        "string": "Reset"
+    "collaboration.voice.leave": {
+        "string": "离开"
     },
-    "fake_mp.modal.apply": {
-        "string": "Apply"
+    "collaboration.voice.left": {
+        "string": "已离开"
     },
-    "fake_mp.modal.clients": {
-        "string": "Number of clients"
+    "collaboration.voice.medium": {
+        "string": "中"
     },
-    "fake_mp.modal.frequency": {
-        "string": "Frequency of updates"
+    "collaboration.voice.microphone": {
+        "string": "麦克风"
     },
-    "fake_mp.modal.steps": {
-        "string": "Number of animation steps"
+    "collaboration.voice.microphone_not_found": {
+        "string": "未找到麦克风"
     },
-    "fake_mp.modal.center_x": {
-        "string": "X"
+    "collaboration.voice.minimize": {
+        "string": "最小化"
     },
-    "fake_mp.modal.center_y": {
-        "string": "Y"
+    "collaboration.voice.n_others": {
+        "string": "其他{numUsers}人"
     }
 }

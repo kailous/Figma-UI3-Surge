@@ -1,152 +1,152 @@
 {
-    "fullscreen_actions.toggle-pen-tool-avoid-single-handles": {
-        "string": "Avoid single handles with pen tool"
+    "collaboration.branching_node_treatments.value.text_truncation.disabled": {
+        "string": "禁用"
     },
-    "fullscreen_actions.toggle-pixel-preview": {
-        "string": "Pixel preview"
+    "collaboration.branching_node_treatments.value.text_truncation.ending": {
+        "string": "启用"
     },
-    "fullscreen_actions.edit_image_crop": {
-        "string": "Edit image crop"
+    "collaboration.branching_node_treatments.value.true": {
+        "string": "是"
     },
-    "fullscreen_actions.toggle-right-click-pan": {
-        "string": "Right-click and drag to pan"
+    "collaboration.branching_node_treatments.value.type_details_edited": {
+        "string": "类型详细信息已编辑"
     },
-    "fullscreen_actions.toggle-recording-interactions": {
-        "string": "Toggle interaction recorder"
+    "collaboration.branching_node_treatments.value.video": {
+        "string": "视频"
     },
-    "fullscreen_actions.retina_mode": {
-        "string": "Retina mode"
+    "collaboration.branching_node_treatments.value.widget_metadata_edited": {
+        "string": "小部件元数据已编辑"
     },
-    "fullscreen_actions.toggle-rulers": {
-        "string": "Rulers"
+    "collaboration.branching_reviews.add_context_optional": {
+        "string": "添加上下文（可选）..."
     },
-    "fullscreen_actions.toggle-stack-debug-mode": {
-        "string": "[INTERNAL DEBUG ONLY] Toggle stack insertion debug mode"
+    "collaboration.branching_reviews.approve": {
+        "string": "批准"
     },
-    "fullscreen_actions.toggle-stack-shadows": {
-        "string": "Show shadows when dragging into auto layout"
+    "collaboration.branching_reviews.finish_your_review": {
+        "string": "完成审查"
     },
-    "fullscreen_actions.toggle-dynamic-insertion-points": {
-        "string": "Show dynamic stack insertion points when dragging into auto layout frame"
+    "collaboration.branching_reviews.give_reviewers_more_context_for_your_changes": {
+        "string": "为您的更改提供更多的上下文给审查者。"
     },
-    "fullscreen_actions.toggle-auto-fill-full-width-children": {
-        "string": "Toggle auto-fill full-width children"
+    "collaboration.branching_reviews.give_reviewers_more_context_for_your_latest_changes": {
+        "string": "为您的最新更改提供更多的上下文给审查者。"
     },
-    "fullscreen_actions.toggle-resource-use": {
-        "string": "Resource use"
+    "collaboration.branching_reviews.leave_a_comment": {
+        "string": "留下评论（可选）"
     },
-    "fullscreen_actions.toggle-icon-detection": {
-        "string": "Automatically detect icons"
+    "collaboration.branching_reviews.leave_a_comment_for_owner": {
+        "string": "给{ownerHandle}留下评论（可选）"
     },
-    "fullscreen_actions.toggle-show-masks": {
-        "string": "Mask outlines"
+    "collaboration.branching_reviews.leave_a_comment_for_owner_and_other_reviewers": {
+        "string": "给{ownerHandle}和其他审查者留下评论（可选）"
     },
-    "fullscreen_actions.toggle-show-artboard-outlines": {
-        "string": "Frame outlines"
+    "collaboration.branching_reviews.request_review": {
+        "string": "请求审查"
     },
-    "fullscreen_actions.toggle-show-slices": {
-        "string": "Show slices"
+    "collaboration.branching_reviews.send_to_reviewers": {
+        "string": "发送给{numReviewers}位审查者"
     },
-    "fullscreen_actions.toggle-show-comments": {
-        "string": "Comments"
+    "collaboration.branching_reviews.submit": {
+        "string": "提交"
     },
-    "fullscreen_actions.toggle-show-annotations": {
-        "string": "Annotations"
+    "collaboration.branching_reviews.suggest_changes": {
+        "string": "建议更改"
     },
-    "fullscreen_actions.toggle-shown-for-selected-nodes": {
-        "string": "Show/Hide selection"
+    "collaboration.branching_to_source.add": {
+        "string": "添加"
     },
-    "fullscreen_actions.toggle-shown-layout-grids": {
-        "string": "Layout grids"
+    "collaboration.branching_to_source.add_a_comment": {
+        "string": "添加评论"
     },
-    "fullscreen_actions.toggle-sidebar": {
-        "string": "Show left sidebar"
+    "collaboration.branching_to_source.add_comment": {
+        "string": "添加评论"
     },
-    "fullscreen_actions.toggle-smart-quotes": {
-        "string": "Substitute smart quotes"
+    "collaboration.branching_to_source.add_context": {
+        "string": "为审查者添加评论"
     },
-    "fullscreen_actions.toggle-snapping-to-geometry": {
-        "string": "Snap to geometry"
+    "collaboration.branching_to_source.add_people_to_approve_or_provide_feedback_on_your_changes_they_ll_get_notified_when_you_add_them": {
+        "string": "添加人员以批准或提供对您的更改的反馈。添加后他们将收到通知。"
     },
-    "fullscreen_actions.toggle-snapping-to-objects": {
-        "string": "Snap to objects"
+    "collaboration.branching_to_source.add_title": {
+        "string": "添加标题"
     },
-    "fullscreen_actions.toggle-snapping-to-pixels": {
-        "string": "Snap to pixel grid"
+    "collaboration.branching_to_source.add_your_review": {
+        "string": "添加您的审查"
     },
-    "fullscreen_actions.toggle-prototyping-information": {
-        "string": "Prototyping"
+    "collaboration.branching_to_source.affected_items": {
+        "string": "受影响的项目"
     },
-    "fullscreen_actions.single-properties-panel": {
-        "string": "Single properties panel"
+    "collaboration.branching_to_source.all_variants_were_removed": {
+        "string": "所有变体已删除"
     },
-    "fullscreen_actions.toggle-snapping-to-dots": {
-        "string": "Snap to dot grid"
+    "collaboration.branching_to_source.an_error_occurred_fetching_your_contacts": {
+        "string": "获取联系人时发生错误"
     },
-    "fullscreen_actions.toggle-show-dot-grid": {
-        "string": "Show dot grid"
+    "collaboration.branching_to_source.branch_merged": {
+        "string": "分支已合并"
     },
-    "fullscreen_actions.toggle-sticky-tools": {
-        "string": "Keep tool selected after use"
+    "collaboration.branching_to_source.branch_was_archived": {
+        "string": "分支{branchFileName}已于{relativeTimestamp}存档"
     },
-    "fullscreen_actions.toggle-ctrl-click-context-menu": {
-        "string": "Ctrl+click opens right click menus"
+    "collaboration.branching_to_source.cancel": {
+        "string": "取消"
     },
-    "fullscreen_actions.disable-pinch-zoom-fix": {
-        "string": "Use alternate zoom handling"
+    "collaboration.branching_to_source.change": {
+        "string": "{numChanges}个更改"
     },
-    "fullscreen_actions.toggle-ui": {
-        "string": "Show/Hide UI"
+    "collaboration.branching_to_source.clear": {
+        "string": "清除"
     },
-    "fullscreen_actions.debug-inspect-layer-figma-scope": {
-        "string": "Inspect in FigmaScope"
+    "collaboration.branching_to_source.confirm_cancel_review_request": {
+        "string": "审查请求将被取消，审查将转换为草稿。分支{branchName}不会受到影响。"
     },
-    "fullscreen_actions.debug-toggle-show-canvas-axis": {
-        "string": "Show canvas x and y axis"
+    "collaboration.branching_to_source.conflicts_must_be_resolved_to_merge_this_branch": {
+        "string": "需要解决与{sourceFileName}的冲突才能合并此分支"
     },
-    "fullscreen_actions.debug-toggle-show-mouse-position": {
-        "string": "Show mouse position"
+    "collaboration.branching_to_source.convert_to_draft": {
+        "string": "转换为草稿"
     },
-    "fullscreen_actions.debug-toggle-whiteboard-pdf-import-node-replacement": {
-        "string": "PDF Import: Enable node replacement"
+    "collaboration.branching_to_source.convert_to_draft_title": {
+        "string": "转换为草稿"
     },
-    "fullscreen_actions.convert-to-thumbnail-frame": {
-        "string": "Convert to thumbnail frame"
+    "collaboration.branching_to_source.edit_comment": {
+        "string": "编辑评论"
     },
-    "fullscreen_actions.toggle-use-numbers-for-opacity": {
-        "string": "Use number keys for opacity"
+    "collaboration.branching_to_source.edit_description": {
+        "string": "编辑描述"
     },
-    "fullscreen_actions.toggle-use-old-outline-shortcuts": {
-        "string": "Use old shortcuts for outlines"
+    "collaboration.branching_to_source.group_m_of_n": {
+        "string": "{groupIndex}/{numGroups}"
     },
-    "fullscreen_actions.toggle-viewport-overlay-hiding": {
-        "string": "Hide canvas UI during changes"
+    "collaboration.branching_to_source.instances_affected": {
+        "string": "此分支的{chunkCount}个实例"
     },
-    "fullscreen_actions.click_or_drag_to_place": {
-        "string": "Click or drag to place"
+    "collaboration.branching_to_source.merge_branch": {
+        "string": "合并分支"
     },
-    "fullscreen_actions.troubleshooting": {
-        "string": "Troubleshooting"
+    "collaboration.branching_to_source.merging_branch_name_changes": {
+        "string": "正在合并分支{branchName}的更改"
     },
-    "fullscreen_actions.undo": {
-        "string": "Undo"
+    "collaboration.branching_to_source.modified_variants": {
+        "string": "已修改的{variantCount}个变体"
     },
-    "fullscreen_actions.ungroup-selection": {
-        "string": "Ungroup selection"
+    "collaboration.branching_to_source.no_changes_to_merge": {
+        "string": "无更改可合并"
     },
-    "fullscreen_actions.unhide-all": {
-        "string": "Unhide all objects"
+    "collaboration.branching_to_source.no_results_matching_query": {
+        "string": "无与\"{query}\"匹配的结果"
     },
-    "fullscreen_actions.unlock-all": {
-        "string": "Unlock all objects"
+    "collaboration.branching_to_source.no_reviewers_add_no_suggestions.seat_rename": {
+        "string": "由于您没有{fileName}的编辑权限，无法自行合并。请添加具有编辑权限的用户。"
     },
-    "fullscreen_actions.update-instance-layout-version": {
-        "string": "Update instance layout version"
+    "collaboration.branching_to_source.no_reviewers_add_suggestions.seat_rename": {
+        "string": "由于您没有{fileName}的编辑权限，无法自行合并。请添加以下具有编辑权限的用户之一。"
     },
-    "fullscreen_actions.update-via-instance-swap": {
-        "string": "Update instances in selection preserving overrides"
+    "collaboration.branching_to_source.no_reviewers_added": {
+        "string": "未添加审查者"
     },
-    "fullscreen_actions.vector-menu": {
-        "string": "Vector"
+    "collaboration.branching_to_source.only_editors_of_file_can_merge_this_branch": {
+        "string": "只有{sourceFileName}的编辑者可以合并此分支"
     }
 }

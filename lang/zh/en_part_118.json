@@ -1,152 +1,152 @@
 {
-    "team_creation_speed_bump.footer.create_team_button.text": {
-        "string": "Create team"
+    "fullscreen.pages_panel.all_n_free_pages_used": {
+        "string": "已使用所有{maxFreePages}个免费页面。"
     },
-    "team_creation_speed_bump.placeholder.team_name": {
-        "string": "{userName}’s team"
+    "fullscreen.pages_panel.assets_tab": {
+        "string": "资源"
     },
-    "team_delete_modal.cancel_to_delete_team": {
-        "string": "To delete the team {teamName}, you must first cancel your Professional subscription."
+    "fullscreen.pages_panel.design_page": {
+        "string": "设计页面"
     },
-    "team_delete_modal.warning_confirmation_text": {
-        "string": "This will permanently delete the team {teamName}. Deleting this team will delete all associated data, such as projects, files, prototypes, for all users."
+    "fullscreen.pages_panel.figjam_page": {
+        "string": "FigJam页面"
     },
-    "team_delete_modal.days_to_undo_deletion": {
-        "string": "You have {numDays} to undo this operation by following instructions that will be sent to your email."
+    "fullscreen.pages_panel.file_tab": {
+        "string": "文件"
     },
-    "team_delete_modal.days_for_team_deletion_undo": {
-        "string": "{numDays} days"
+    "fullscreen.pages_panel.get_unlimited_pages_and_more": {
+        "string": "获取无限页面及更多"
     },
-    "team_delete_modal.to_confirm_please_enter_the_name_of_the_team": {
-        "string": "To confirm, please enter the name of the team."
+    "fullscreen.pages_panel.layers_tab": {
+        "string": "图层"
     },
-    "team_delete_modal.deleting_last_team_notice": {
-        "string": "{notice} This is the only team that you own. After deleting it, you'll be redirected to a new team that'll be automatically created for you as part of Figma's updates to how teams and files are organized."
+    "fullscreen.pages_panel.memory_usage": {
+        "string": "内存使用量"
     },
-    "team_delete_modal.warning_note": {
-        "string": "Note:"
+    "fullscreen.pages_panel.memory_usage_almost_out_of_memory": {
+        "string": "可用内存几乎用完"
     },
-    "team_delete_modal.delete_team": {
-        "string": "Delete team"
+    "fullscreen.pages_panel.memory_usage_error_contact_file_owner": {
+        "string": "请联系所有者。管理内存使用量需要编辑权限。"
     },
-    "team_delete_modal.pro_plan_cancel_modal_header": {
-        "string": "Action required"
+    "fullscreen.pages_panel.memory_usage_error_edit_view_version_history": {
+        "string": "请恢复到当前版本以减少内存使用量。文件可能会失去访问权限。"
     },
-    "team_delete_modal.proceed_to_cancel": {
-        "string": "Proceed to cancel…"
+    "fullscreen.pages_panel.memory_usage_learn_more": {
+        "string": "了解更多"
     },
-    "team_delete_modal.dismiss": {
-        "string": "Dismiss"
+    "fullscreen.pages_panel.memory_usage_memory_running_low": {
+        "string": "内存不足"
     },
-    "team_delete_modal.delete_this_props_team_name": {
-        "string": "Delete {teamName}?"
+    "fullscreen.pages_panel.memory_usage_read_only_view_version_history": {
+        "string": "管理此文件的内存使用量需要编辑权限。"
     },
-    "file_browser.team_folder_move.content": {
-        "string": "Are you sure you want to move {folderName} to {destinationTeamName}? Members of {currentTeamName} will no longer be able to access this project, unless you explicitly invite them."
+    "fullscreen.pages_panel.memory_usage_recovery_mode_exit": {
+        "string": "退出恢复模式"
     },
-    "file_browser.team_folder_move.confirm": {
-        "string": "Move project"
+    "fullscreen.pages_panel.memory_usage_recovery_mode_high": {
+        "string": "恢复模式"
     },
-    "file_browser.team_folder_move.confirmation_modal_title": {
-        "string": "Are you sure you want to move this project?"
+    "fullscreen.pages_panel.memory_usage_recovery_mode_high_content": {
+        "string": "删除不必要的图层和组件以减少文件的内存使用量。"
     },
-    "design_systems.libraries_modal.confirm_override.description_org": {
-        "string": "Changing this setting will override the defaults set by an admin in your organization. They'll be notified about the change."
+    "fullscreen.pages_panel.memory_usage_recovery_mode_low": {
+        "string": "准备就绪"
     },
-    "design_systems.libraries_modal.confirm_override.description_workspace": {
-        "string": "Changing this setting will override the defaults set by an admin in your workspace. They'll be notified about the change."
+    "fullscreen.pages_panel.memory_usage_recovery_mode_low_content": {
+        "string": "已腾出足够的内存以顺利运行此文件。您可以退出恢复模式。"
     },
-    "design_systems.libraries_modal.confirm_override.title": {
-        "string": "Update this setting?"
+    "fullscreen.pages_panel.memory_usage_this_file_has_enough_memory": {
+        "string": "已腾出足够的内存以顺利运行此文件。您可以关闭此面板。"
     },
-    "design_systems.libraries_modal.confirm_override.button_cancel": {
-        "string": "Cancel"
+    "fullscreen.pages_panel.memory_usage_to_avoid_losing_file_access": {
+        "string": "为避免失去文件访问权限，请将部分页面移至其他文件或删除不必要的内容。"
     },
-    "design_systems.libraries_modal.confirm_override.button_confirm": {
-        "string": "Update"
+    "fullscreen.pages_panel.memory_usage_try_removing_unneeded_content": {
+        "string": "删除不必要的内容以增加可用内存空间，从而顺利进行工作。"
     },
-    "tile.copy_link.action_description": {
-        "string": "Copy link to share this item:"
+    "fullscreen.pages_panel.memory_usage_warning_edit_access_needed": {
+        "string": "减少此文件的内存使用量需要编辑权限。"
     },
-    "tile.copy_link.done": {
-        "string": "Done"
+    "fullscreen.pages_panel.memory_usage_warning_edit_view_version_history": {
+        "string": "请恢复到当前版本以增加内存空闲空间。"
     },
-    "unsupported_browser_modal.os_not_supported.title": {
-        "string": "Your operating system is not supported"
+    "fullscreen.pages_panel.memory_usage_youre_good_to_go": {
+        "string": "准备就绪"
     },
-    "unsupported_browser_modal.os_not_supported.description": {
-        "string": "Figma's desktop app now requires macOS 10.12 or later. Please upgrade to a newer version of macOS or use {figmaWebLink} on the web instead."
+    "fullscreen.pages_panel.n_free_pages_left": {
+        "string": "剩余{numPagesRemaining}个免费页面。"
     },
-    "unsupported_browser_modal.os_not_supported.figma_web_link": {
-        "string": "www.figma.com"
+    "fullscreen.pages_panel.page_dropdown_new": {
+        "string": "新建"
     },
-    "unsupported_browser_modal.os_not_supported.browser_recommendation": {
-        "string": "For best performance, we recommend using the { firefoxLink }"
+    "fullscreen.pages_panel.pages": {
+        "string": "页面"
     },
-    "unsupported_browser_modal.os_not_supported.browser_recommendation_link": {
-        "string": "Firefox browser"
+    "fullscreen.pages_panel.resources_tab": {
+        "string": "资源"
     },
-    "desktop_update_modal.desktop_update.title": {
-        "string": "Figma desktop app is out of date!"
+    "fullscreen.pages_panel.see_plans_that_offer_more": {
+        "string": "查看提供更多资源的计划"
     },
-    "desktop_update_modal.desktop_update.description": {
-        "string": "Your Figma desktop app needs an update to continue working. Get the latest version from our {downloadsPageLink}."
+    "fullscreen.pages_panel.slide_deck": {
+        "string": "幻灯片"
     },
-    "desktop_update_modal.desktop_update.link": {
-        "string": "Downloads page"
+    "fullscreen.pages_panel.unavailable_offline": {
+        "string": "离线 - 无法使用页面"
     },
-    "multiplayer_upgrade_modal.employee_text_explanation": {
-        "string": "This file is not backwards-compatible with the current commit you're on."
+    "fullscreen.pencil_tool.advanced_stroke_settings": {
+        "string": "高级线条设置"
     },
-    "multiplayer_upgrade_modal.employee_text_new_file": {
-        "string": "Try creating a new file."
+    "fullscreen.pencil_tool.hold_shift_to_draw_straight_lines": {
+        "string": "按住Shift键以画直线"
     },
-    "general.employee_only": {
-        "string": "Employee Only"
+    "fullscreen.pencil_tool.now_vertical_horizontal_and_diagonal_lines_are_a_breeze": {
+        "string": "现在可以轻松绘制垂直、水平和对角线。"
     },
-    "viewer_upgrade_awareness.sharing_a_draft_will_move_you_to_a_paid_seat_org": {
-        "string": "Sharing a draft will move you to a paid seat in {planName}. Your organization won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.pencil_tool.stroke": {
+        "string": "线条"
     },
-    "viewer_upgrade_awareness.sharing_a_draft_will_move_you_to_a_paid_seat_in_your_organization": {
-        "string": "Sharing a draft will move you to a paid seat in your organization. Your organization won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.plugins.background": {
+        "string": "{plugin}正在后台运行"
     },
-    "viewer_upgrade_awareness.sharing_a_draft_will_move_you_to_a_paid_seat_team": {
-        "string": "Sharing a draft will move you to a paid seat in {planName}. Your team won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.plugins.cancel": {
+        "string": "取消"
     },
-    "viewer_upgrade_awareness.sharing_a_draft_will_move_you_to_a_paid_seat_in_your_team": {
-        "string": "Sharing a draft will move you to a paid seat in your team. Your team won't be charged right away, and your admin can move you back to a free seat any time."
+    "fullscreen.plugins.inserting": {
+        "string": "正在插入{plugin}"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_seat_org": {
-        "string": "Moving a draft will change you to a paid seat in {planName}. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.plugins.running": {
+        "string": "正在运行{plugin}"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_seat_in_your_organization": {
-        "string": "Moving a draft will change you to a paid seat in your organization. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.plugins.stop": {
+        "string": "停止"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_seat_team": {
-        "string": "Moving a draft will change you to a paid seat in {planName}. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.plugins.stopped": {
+        "string": "已停止运行{plugin}。"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_seat_in_your_team": {
-        "string": "Moving a draft will change you to a paid seat in your team. Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.plugins_menu.import_plugin_from_manifest": {
+        "string": "从清单导入插件…"
     },
-    "viewer_upgrade_awareness.you_re_working_in_drafts_on_a_free_seat": {
-        "string": "You're working in drafts on a free seat"
+    "fullscreen.plugins_menu.import_widget_from_manifest": {
+        "string": "从清单导入小部件…"
     },
-    "viewer_upgrade_awareness.you_re_working_in_plan_name_on_a_free_seat": {
-        "string": "You're working in {planName} on a free seat"
+    "fullscreen.plugins_menu.new_plugin": {
+        "string": "新建插件…"
     },
-    "viewer_upgrade_awareness.you_re_working_in_your_organization_on_a_free_seat": {
-        "string": "You're working in your organization on a free seat"
+    "fullscreen.plugins_menu.new_widget": {
+        "string": "新建小部件…"
     },
-    "viewer_upgrade_awareness.you_re_working_in_your_team_on_a_free_seat": {
-        "string": "You're working in your team on a free seat"
+    "fullscreen.plugins_menu.open_directory_mac": {
+        "string": "在Finder中显示"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_paid_design_and_figjam_seats_in_your_organization": {
-        "string": "Moving a draft will change you to paid Figma design and FigJam seats in your organization. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.plugins_menu.open_directory_vscode": {
+        "string": "在VS Code中打开"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_design_seat_in_your_organization": {
-        "string": "Moving a draft will change you to a paid Figma design seat in your organization. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.plugins_menu.open_directory_win": {
+        "string": "在资源管理器中显示"
     },
-    "viewer_upgrade_awareness.moving_a_draft_will_change_you_to_a_paid_figjam_seat_in_your_organization": {
-        "string": "Moving a draft will change you to a paid FigJam seat in your organization. Your organization won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.pro_trial_upsell_modal.cta_text": {
+        "string": "立即升级"
     }
 }

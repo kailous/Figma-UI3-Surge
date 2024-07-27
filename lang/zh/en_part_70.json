@@ -1,152 +1,152 @@
 {
-    "swy_tile.shared_date": {
-        "string": "Shared {shared_date}"
+    "community.buyer.you": {
+        "string": "你"
     },
-    "tile.file_tile.branch_count": {
-        "string": "{branchCount, plural, one {{branchCount} branch} other {{branchCount} branches} }"
+    "community.buyer.you_can_keep_using_plugin": {
+        "string": "现在购买，继续使用{pluginName}，并支持勤奋的创作者。"
     },
-    "file_browser.file_list_view.header_name_column": {
-        "string": "Name"
+    "community.buyer.your_trial_has_ended": {
+        "string": "试用期已结束"
     },
-    "file_browser.file_list_view.header_last_modified_column": {
-        "string": "Last modified"
+    "community.comments.add_a_comment": {
+        "string": "添加评论"
     },
-    "file_browser.file_list_view.header_created_column": {
-        "string": "Created"
+    "community.comments.all": {
+        "string": "全部"
     },
-    "file_browser.file_list_view.header_shared_by_column": {
-        "string": "Shared by"
+    "community.comments.comment_actions": {
+        "string": "评论操作"
     },
-    "file_browser.file_list_view.header_shared_at_column": {
-        "string": "Shared at"
+    "community.comments.comment_author_will_not_be_notified": {
+        "string": "{authorName}将不会收到通知。"
     },
-    "file_browser.file_list_view.header_owner_column": {
-        "string": "Owner"
+    "community.comments.comment_deleted": {
+        "string": "评论已删除"
     },
-    "tile.file_tile.trashed_by_you": {
-        "string": "Trashed by you {time}"
+    "community.comments.comment_reported_and_hidden": {
+        "string": "评论已报告并隐藏"
     },
-    "tile.file_tile.trashed_by_other_user": {
-        "string": "Trashed by {userHandle} {time}"
+    "community.comments.comments_only": {
+        "string": "仅评论"
     },
-    "tile.file_tile.trashed_generic": {
-        "string": "Trashed {time}"
+    "community.comments.copy_link": {
+        "string": "复制链接"
     },
-    "tile.file_tile.deleted_by_you": {
-        "string": "Deleted by you {time}"
+    "community.comments.creator": {
+        "string": "创建者"
     },
-    "tile.file_tile.deleted_by_other_user": {
-        "string": "Deleted by {userHandle} {time}"
+    "community.comments.delete": {
+        "string": "删除"
     },
-    "tile.file_tile.deleted_generic": {
-        "string": "Deleted {time}"
+    "community.comments.delete_thread": {
+        "string": "删除线程"
     },
-    "tile.file_tile.password_protected_shorter": {
-        "string": "Password protected"
+    "community.comments.edit": {
+        "string": "编辑"
     },
-    "tile.file_tile.password_protected": {
-        "string": "This file is password protected"
+    "community.comments.failed_to_create_comment": {
+        "string": "创建评论失败：{errorMessage}"
     },
-    "tile.file_tile.password_protected_prototype": {
-        "string": "This prototype is password protected"
+    "community.comments.failed_to_delete_comment": {
+        "string": "删除评论失败：{errorMessage}"
     },
-    "tile.offline_file_tile.offline_upload_tooltip": {
-        "string": "Offline file will be synced when you regain internet access."
+    "community.comments.failed_to_edit_comment": {
+        "string": "编辑评论失败"
     },
-    "fullscreen.accessibility_dom.comment_pin": {
-        "string": "Comment"
+    "community.comments.failed_to_report_comment": {
+        "string": "报告评论失败：{errorMessage}"
     },
-    "fullscreen.accessibility_dom.pos_in_set": {
-        "string": "{i} of {size}"
+    "community.comments.learn_more": {
+        "string": "了解更多"
     },
-    "comments.add_description": {
-        "string": "Add description"
+    "community.comments.learn_more_about_managing_comments_on_your_files_and_plugins_in_community": {
+        "string": "了解更多关于在社区中管理你的文件和插件评论的信息：{learnMoreLink}"
     },
-    "comments.alt_text_label": {
-        "string": "Alt text:"
+    "community.comments.link_about_managing_restricted_commenters": {
+        "string": "关于管理受限制评论者的{link}。"
     },
-    "comments.edit_alt_text": {
-        "string": "Edit"
+    "community.comments.load_more_comments": {
+        "string": "加载更多评论"
     },
-    "file_browser.delete_forever.warning": {
-        "string": "Are you sure you want to delete {fileName} forever?"
+    "community.comments.new_comments": {
+        "string": "新评论！"
     },
-    "file_browser.cant_undo": {
-        "string": "You won't be able to get it back."
+    "community.comments.please_read_our_link_before_reporting": {
+        "string": "在报告前请阅读{link}"
     },
-    "file_browser.delete_branch_forever.title": {
-        "string": "Delete branch forever?"
+    "community.comments.pluralize_comments": {
+        "string": "{numComments, plural, other {{numComments}条评论}}"
     },
-    "file_browser.delete_branch_forever.confirm_text": {
-        "string": "Delete branch forever"
+    "community.comments.post": {
+        "string": "发布"
     },
-    "collaboration.branching_merge_modal.title_merge_to_source": {
-        "string": "Branch review"
+    "community.comments.refresh": {
+        "string": "刷新"
     },
-    "collaboration.branching_merge_modal.title_merge_from_source": {
-        "string": "Update from main file"
+    "community.comments.remove_and_restrict": {
+        "string": "删除并限制"
     },
-    "collaboration.branching_merge_modal.title_merge_from_source_version": {
-        "string": "Update from version of main file"
+    "community.comments.remove_comment_and_restrict_user": {
+        "string": "删除评论并限制用户？"
     },
-    "collaboration.branching_merge_modal.unexpected_error_from_source": {
-        "string": "Unexpected error during update from main"
+    "community.comments.reply": {
+        "string": "回复"
     },
-    "collaboration.branching_merge_modal.unexpected_error_to_source": {
-        "string": "Unexpected error during branch review"
+    "community.comments.report": {
+        "string": "报告"
     },
-    "collaboration.branching_merge_modal.for_help_please_contact_figma_support": {
-        "string": "Refresh the page to try again. If that doesn't work, contact {supportEmailLink}."
+    "community.comments.report_and_hide_author_name_s_comment": {
+        "string": "报告并隐藏{authorName}的评论？"
     },
-    "collaboration.branching_merge_modal.figma_support": {
-        "string": "Figma support"
+    "community.comments.report_author_name_s_comment": {
+        "string": "报告{authorName}的评论？"
     },
-    "collaboration.branching_merge_modal.refresh_required_action": {
-        "string": "Refresh"
+    "community.comments.report_comment": {
+        "string": "报告"
     },
-    "collaboration.branching_merge_modal.banner_review_conflicts": {
-        "string": "A previous merge or update failed. Review conflicts before merging."
+    "community.comments.restrict": {
+        "string": "限制"
     },
-    "collaboration.branching_merge_modal.banner_resolve_conflicts": {
-        "string": "A previous merge or update failed. Review the conflicts below before trying again"
+    "community.comments.restrict_user_s_comments": {
+        "string": "限制用户的评论"
     },
-    "collaboration.branching_merge_modal.button_review_conflicts": {
-        "string": "Review Conflicts"
+    "community.comments.restricted_this_user_s_comments": {
+        "string": "已限制此用户的评论"
     },
-    "collaboration.branching_to_source.change": {
-        "string": "{numChanges, plural, one {{numChanges} change} other {{numChanges} changes}}"
+    "community.comments.reviews_only": {
+        "string": "仅评论"
     },
-    "collaboration.branching_to_source.all_variants_were_removed": {
-        "string": "All variants were removed"
+    "community.comments.save": {
+        "string": "保存"
     },
-    "collaboration.branching_to_source.group_m_of_n": {
-        "string": "{groupIndex} of {numGroups}"
+    "community.comments.share_your_thoughts_using_the_comment_box_above": {
+        "string": "使用上面的评论框分享你的想法。"
     },
-    "collaboration.branching_to_source.no_changes_to_merge": {
-        "string": "No changes to merge"
+    "community.comments.show_resolved": {
+        "string": "显示已解决"
     },
-    "collaboration.branching_to_source.conflicts_must_be_resolved_to_merge_this_branch": {
-        "string": "Conflicts with {sourceFileName} must be resolved to merge this branch"
+    "community.comments.these_people_can_t_comment_on_any_of_profile_handles_community_files_and_plugins": {
+        "string": "这些人不能对@{profileHandle}的社区文件和插件发表评论"
     },
-    "collaboration.branching_to_source.you_are_able_to_merge_this_branch_along_with_other_editors_of": {
-        "string": "You are able to merge this branch, along with other editors of {sourceFileName}"
+    "community.comments.these_people_can_t_comment_on_any_of_your_community_files_and_plugins": {
+        "string": "这些人不能对你的社区文件和插件发表评论"
     },
-    "collaboration.branching_to_source.this_branch_was_merged_into": {
-        "string": "This branch was merged into {sourceFileName} {relativeTimestamp}"
+    "community.comments.this_will_flag_the_comment_for_review": {
+        "string": "这将标记评论以供审核。"
     },
-    "collaboration.branching_to_source.branch_was_archived": {
-        "string": "Branch {branchFileName} was archived {relativeTimestamp}"
+    "community.comments.this_will_flag_the_comment_for_review_and_hide_it_for_everyone": {
+        "string": "这将标记评论以供审核并对所有人隐藏。"
     },
-    "collaboration.branching_to_source.only_editors_of_file_can_merge_this_branch": {
-        "string": "Only editors of {sourceFileName} can merge this branch"
+    "community.comments.this_will_remove_their_comments_from_all_your_community_files_and_plugins_it_also_prevents_them_from_leaving_comments_on_your_resources_or_mentioning_you_in_the_future": {
+        "string": "这将从你的所有社区文件和插件中删除他们的评论，并且防止他们在将来对你的资源发表评论或提及你。"
     },
-    "collaboration.branching_to_source.merge_branch": {
-        "string": "Merge branch"
+    "community.comments.to_comment_switch_to_your_personal_profile": {
+        "string": "要发表评论，请切换到你的个人资料"
     },
-    "collaboration.branching_to_source.add_title": {
-        "string": "Add title"
+    "community.comments.undo": {
+        "string": "撤销"
     },
-    "collaboration.branching_to_source.merging_branch_name_changes": {
-        "string": "Merging {branchName} changes"
+    "community.comments.unrestrict": {
+        "string": "取消限制"
     }
 }

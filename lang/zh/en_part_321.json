@@ -1,152 +1,152 @@
 {
-    "internal_profile.profile_image_nudge.action": {
-        "string": "Update photo"
+    "plan_comparison.plans.pro.choose_button": {
+        "string": "プロフェッショナルにアップグレード"
     },
-    "internal_profile.add_a_description": {
-        "string": "Add a description"
+    "plan_comparison.plans.pro.choose_professional": {
+        "string": "プロフェッショナルを選ぶ"
     },
-    "internal_profile.title": {
-        "string": "{userName} at {orgName}"
+    "plan_comparison.plans.pro.description": {
+        "string": "個人・チーム向け(ファイル数無制限、プロフェッショナルプランの全機能を含む)"
     },
-    "internal_profile.your_recent_projects_will_appear_here": {
-        "string": "Your recent projects will appear here."
+    "plan_comparison.plans.pro.upgrade_an_existing_team": {
+        "string": "既存のチームをアップグレードする"
     },
-    "internal_profile.their_recent_projects_will_appear_here": {
-        "string": "Their recent projects will appear here."
+    "plan_comparison.plans.recommended": {
+        "string": "おすすめ"
     },
-    "internal_profile.you_must_be_a_member_of_team_name": {
-        "string": "You must be a member of {teamName}"
+    "plan_comparison.plans.starter.choose_button": {
+        "string": "スターターを選ぶ"
     },
-    "internal_profile.you_re_not_a_member_of_this_team": {
-        "string": "You're not a member of this team."
+    "plan_comparison.plans.starter.current_plan": {
+        "string": "現在のプラン"
     },
-    "internal_profile.profile_image_nudge.title": {
-        "string": "Add a profile pic"
+    "plan_comparison.plans.starter.description": {
+        "string": "無料体験プラン。"
     },
-    "internal_profile.profile_image_nudge.text": {
-        "string": "Pick a photo to use for your avatar—in files, on comments, and more."
+    "plan_comparison.plans.starter.limit_reached": {
+        "string": "上限に達しました"
     },
-    "internal_profile.job_title_nudge.title": {
-        "string": "Choose a title"
+    "plan_comparison.plans.starter.you_already_have_a_starter_team": {
+        "string": "すでにスターターチームがあります"
     },
-    "internal_profile.job_title_nudge.text": {
-        "string": "You can add a job or role to your profile, so teammates know what you do."
+    "plan_comparison.title": {
+        "string": "あなたに合ったプランをお選びください"
     },
-    "internal_profile.file_contributions": {
-        "string": "File contributions"
+    "plan_comparison.title.working_group": {
+        "string": "作業グループのプランを選んでください"
     },
-    "internal_profile.file_name": {
-        "string": "File name"
+    "plan_details.1_project": {
+        "string": "1プロジェクト"
     },
-    "internal_profile.project": {
-        "string": "Project"
+    "plan_details.30_day_version_history": {
+        "string": "30日分のバージョン履歴"
     },
-    "internal_profile.last_activity": {
-        "string": "Last activity"
+    "plan_details.3_design_files": {
+        "string": "3デザインファイル"
     },
-    "internal_profile.an_error_occurred": {
-        "string": "An error occurred"
+    "plan_details.3_figjam_files": {
+        "string": "3 FigJamファイル"
     },
-    "internal_profile.posts": {
-        "string": "Posts"
+    "plan_details.choose_professional": {
+        "string": "プロフェッショナルを選ぶ"
     },
-    "payments.org_past_due_on_payment": {
-        "string": "We haven’t received a payment from your organization for this billing period. Please pay your {invoice} to keep access to {orgName}."
+    "plan_details.choose_your_team_plan": {
+        "string": "チームのプランを選ぶ"
     },
-    "payments.outstanding_invoice": {
-        "string": "outstanding invoice"
+    "plan_details.contact_sales": {
+        "string": "営業担当にお問い合わせください"
     },
-    "payments.org_past_due_on_payment_invoiced": {
-        "string": "We haven’t received a payment from your organization for this billing period. Please reach out to {email} soon to keep access to {orgName}."
+    "plan_details.cost_for_fig_jam.seat_rename": {
+        "string": "{cost}/月/FigJamシート"
     },
-    "payments.please_reach_out_to_org_admins": {
-        "string": "{numAdmins, plural, one {There’s a billing issue with {orgName}. Please reach out to your organization admin {admins} for help.} other {There’s a billing issue with {orgName}. Please reach out to your organization admins {admins} for help.}}"
+    "plan_details.cost_for_fig_jam_without_month.seat_rename": {
+        "string": "{cost}/FigJamシート"
     },
-    "payments.no_monthly_sub_over_editor_limit_admin.seat_rename": {
-        "string": "Your team added paid seats after your Figma subscription was cancelled. To restore access, reactivate your subscription or downgrade seats. Need help? {contactSupport}"
+    "plan_details.cost_per_month_per_figma_editor.seat_rename": {
+        "string": "{cost}/月/デザインシート"
     },
-    "payments.contact_support": {
-        "string": "Contact support"
+    "plan_details.cost_per_month_per_figma_editor_without_month.seat_rename": {
+        "string": "{cost}/デザインシート"
     },
-    "payments.no_monthly_sub_over_editor_limit.seat_rename": {
-        "string": "Your team added paid seats after your Figma subscription was cancelled. To restore access, please ask your team admin to reactivate your subscription or downgrade seats."
+    "plan_details.dev_mode_only": {
+        "string": "開発モード専用"
     },
-    "payments.pro_trial_expiry.locked_description_on_team": {
-        "string": "{teamName} files are view-only until you {lowerUsageLink} to meet Starter limits or upgrade."
+    "plan_details.enterprise": {
+        "string": "エンタープライズ"
     },
-    "payments.pro_trial_expiry.lower_usage": {
-        "string": "lower your usage"
+    "plan_details.fig_jam": {
+        "string": "FigJam"
     },
-    "payments.pro_trial_expiry.locked_description_for_viewer_on_team": {
-        "string": "{teamName}’s files are temporarily view-only. Ask your team admin for details."
+    "plan_details.figma": {
+        "string": "Figmaデザイン"
     },
-    "payments.pro_trial_upgrade_cta.upgrade": {
-        "string": "Upgrade"
+    "plan_details.for_professional_teams": {
+        "string": "プロフェッショナルチーム"
     },
-    "payments.pro_trial.trial_ended_banner_message": {
-        "string": "{teamName} is back on the Starter plan, but you can upgrade at any time."
+    "plan_details.for_teams_trying_figjam": {
+        "string": "FigJamを試用するチーム向け"
     },
-    "payments.pro_trial.trial_ended_banner_message.no_name": {
-        "string": "Your team is back on the Starter plan, but you can upgrade at any time."
+    "plan_details.for_teams_trying_figma": {
+        "string": "Figmaを試用中のチーム"
     },
-    "payments.pro_trial.trial_ended_banner_upgrade_cta": {
-        "string": "Upgrade to Professional"
+    "plan_details.free_for_students_and_educators": {
+        "string": "学生と教師の皆様は無料でご利用いただけます"
     },
-    "edu.banner.your_education_status_is_expiring_soon": {
-        "string": "Your Education status is expiring soon"
+    "plan_details.learn_more": {
+        "string": "詳細情報↗"
     },
-    "edu.banner.to_keep_collaborating_upgrade_team": {
-        "string": "To keep collaborating, upgrade {teamName} or {verify}."
+    "plan_details.org_or_contact_sales": {
+        "string": "または、{contactSalesLink}(シート数が{salesMin}以上の場合に最適です)"
     },
-    "edu.banner.verify_your_education_status": {
-        "string": "verify your Education status"
+    "plan_details.organization": {
+        "string": "ビジネス"
     },
-    "edu.banner.learn_more": {
-        "string": "Learn more"
+    "plan_details.price_editor_mo.seat_rename": {
+        "string": "{price}/シート/月"
     },
-    "edu.banner.your_education_plan_has_expired": {
-        "string": "Your Education plan has expired"
+    "plan_details.professional": {
+        "string": "プロフェッショナル"
     },
-    "edu.banner.team_is_now_view_only_for_all_members": {
-        "string": "{teamName} is now view-only for all members."
+    "plan_details.see_all_features": {
+        "string": "すべての機能を見る→"
     },
-    "edu.banner.you_can_no_longer_edit_files": {
-        "string": "You can no longer edit files in {teamName}."
+    "plan_details.shareable_team_libraries": {
+        "string": "共有可能なチームライブラリ"
     },
-    "edu.banner.team_s_education_status_has_expired": {
-        "string": "{teamName}’s Education plan has expired"
+    "plan_details.start_for_free": {
+        "string": "無料で利用開始"
     },
-    "edu.banner.move_or_duplicate_files_to_another_location_to_save_your_work": {
-        "string": "Move or duplicate files to another location to save your work."
+    "plan_details.starter": {
+        "string": "スターター"
     },
-    "payments.team_over_starter_team_limit": {
-        "string": "{teamName} is locked because it’s reached the limits of a Starter plan. Ask your team admin for details."
+    "plan_details.unlimited_files": {
+        "string": "ファイル数無制限"
     },
-    "payments.team_over_starter_team_limit_upgrade": {
-        "string": "Upgrade {teamName} to continue editing files or {lowerYourUsage}."
+    "plan_details.unlimited_files_in_drafts": {
+        "string": "ドラフトのファイル数無制限"
     },
-    "payments.team_over_starter_team_limit_lower_your_usage": {
-        "string": "lower your usage"
+    "plan_details.unlimited_projects": {
+        "string": "プロジェクト数無制限"
     },
-    "payments.contact_admin_for_details": {
-        "string": "Ask your team admin for details."
+    "plan_details.unlimited_version_history": {
+        "string": "バージョン履歴無制限"
     },
-    "payments.check_out_our_paid_plans": {
-        "string": "check out our paid plans"
+    "plan_details.upgrade": {
+        "string": "アップグレード"
     },
-    "payments.team_over_starter_team_limit_with_button.legacy_team": {
-        "string": "On the Starter plan, you’re limited to {fileLimitString}. For unlimited files, and a whole lot more, {checkoutOurPlans} to upgrade {teamName}."
+    "plan_details.use_fig_jam_for_free": {
+        "string": "FigJamを無料で使う"
     },
-    "payments.team_over_starter_team_limit_with_button.no_legacy_team_present": {
-        "string": "On the Starter plan, you’re limited to {fileLimitString}. For unlimited files, and a whole lot more, {checkoutOurPlans} to upgrade your team."
+    "universal_upgrade.contact_sales.sales_will_reach_out": {
+        "string": "セールスチームのメンバーがまもなくご連絡します。"
     },
-    "payments.pro_plan_ends_relative_time_string": {
-        "string": "Your Professional plan ends {relative_time_string}"
+    "universal_upgrade.contact_sales.thank_you": {
+        "string": "どうぞよろしくお願いいたします"
     },
-    "payments.pro_plan_ends_on_date": {
-        "string": "Your Professional plan ends on {end_date}"
+    "universal_upgrade.currency_switcher.pricing_in_cad": {
+        "string": "価格(カナダドル)"
     },
-    "payments.complete_payment_cta": {
-        "string": "Verify payment"
+    "universal_upgrade.currency_switcher.pricing_in_eur": {
+        "string": "価格(ユーロ)"
     }
 }

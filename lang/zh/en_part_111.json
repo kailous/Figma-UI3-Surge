@@ -1,152 +1,152 @@
 {
-    "community.onboarding.stay_on_topic": {
-        "string": "Stay on topic"
+    "fullscreen.accessibility.reply_to_comment": {
+        "string": "回复评论"
     },
-    "community.onboarding.be_respectful": {
-        "string": "Be respectful"
+    "fullscreen.accessibility.reply_to_comment_with_authors": {
+        "string": "与{username}一起回复评论"
     },
-    "community.onboarding.read_our_guidelines": {
-        "string": "Read our {guidelinesLink}"
+    "fullscreen.accessibility.search_icon": {
+        "string": "搜索图标"
     },
-    "community.onboarding.guidelines": {
-        "string": "guidelines"
+    "fullscreen.accessibility.selection_cleared": {
+        "string": "未选择任何项目"
     },
-    "community.onboarding.got_it": {
-        "string": "Got it"
+    "fullscreen.accessibility.stamp_attached_announcement": {
+        "string": "附加到{hostType}的印章"
     },
-    "community.onboarding.looks_good": {
-        "string": "Looks good"
+    "fullscreen.accessibility.tool_selected": {
+        "string": "已选择{nodeType}。单击以创建{nodeType}。按ESC键取消。要通过键盘创建{nodeType}，请按{shortcut}并键入“创建新的{nodeType}”。"
     },
-    "community.delete_profile_modal.delete_profile_info": {
-        "string": "Deleting your profile will remove all your published files, plugins, likes, and follow data from Figma Community and relinquish your profile handle. This action can not be undone."
+    "fullscreen.accessibility.tool_unselected": {
+        "string": "未选择任何工具"
     },
-    "community.delete_profile_modal.delete_profile_title": {
-        "string": "Delete Community profile"
+    "fullscreen.accessibility.view_comments": {
+        "string": "查看评论"
     },
-    "general.delete": {
-        "string": "Delete"
+    "fullscreen.accessibility.view_comments_with_unreads": {
+        "string": "查看未读评论"
     },
-    "file_browser.draft_move_modal.a_new_starter_team": {
-        "string": "A new Starter team"
+    "fullscreen.accessibility_dom.comment_pin": {
+        "string": "评论"
     },
-    "file_browser.draft_move_modal.none_of_these_teams_feel_right": {
-        "string": "None of these teams below feel right? Create a new one for free."
+    "fullscreen.accessibility_dom.current_tool": {
+        "string": "正在使用{toolName}工具"
     },
-    "file_browser.draft_move_modal.create_new_plan_button_text": {
-        "string": "Create new team or organization"
+    "fullscreen.accessibility_dom.current_tool_stamp": {
+        "string": "正在使用{stampName}工具"
     },
-    "file_browser.draft_move_modal.files_will_remain_private_wherever_you_go": {
-        "string": "Files will remain private to you wherever they go. None of these teams feel right? You can also {createNewTeamLink}."
+    "fullscreen.accessibility_dom.grouped_comments": {
+        "string": "之前{groupSize}个项目的相邻评论"
     },
-    "file_browser.draft_move_modal.create_new_plan_link": {
-        "string": "create a free Starter team for your personal work"
+    "fullscreen.accessibility_dom.labelled_stamp": {
+        "string": "{label}印章"
     },
-    "file_browser.draft_move_modal.learn_more_link": {
-        "string": "Learn more"
+    "fullscreen.accessibility_dom.node_name_canvas": {
+        "string": "画布"
     },
-    "file_browser.draft_move_modal.destination_description_cannot_be_moved_here": {
-        "string": "Can't be moved here. {learnMoreLink}"
+    "fullscreen.accessibility_dom.node_name_code_block": {
+        "string": "代码块"
     },
-    "file_browser.draft_move_modal.destination_description_access_will_become_view_only": {
-        "string": "Collaborators will have view-only access"
+    "fullscreen.accessibility_dom.node_name_connector": {
+        "string": "连接器"
     },
-    "file_browser.draft_move_modal.destination_description_collaborator_access_may_change": {
-        "string": "This plan may change collaborators' edit access"
+    "fullscreen.accessibility_dom.node_name_fallback": {
+        "string": "项目"
     },
-    "file_browser.draft_move_modal.header_multiple_files_move": {
-        "string": "Move {fileCount} files to your drafts in…"
+    "fullscreen.accessibility_dom.node_name_instance": {
+        "string": "自定义项"
     },
-    "file_browser.draft_move_modal.header_single_file_move": {
-        "string": "Move {fileName} to your drafts in…"
+    "fullscreen.accessibility_dom.node_name_line": {
+        "string": "线"
     },
-    "file_browser.draft_move_modal.async_draft_move_scheduled": {
-        "string": "Moving your personal drafts"
+    "fullscreen.accessibility_dom.node_name_section": {
+        "string": "部分"
     },
-    "file_browser.draft_move_modal.async_draft_move_scheduling_error": {
-        "string": "Error moving your personal drafts"
+    "fullscreen.accessibility_dom.node_name_shape": {
+        "string": "形状"
     },
-    "file_browser.draft_move_modal.continue": {
-        "string": "Continue"
+    "fullscreen.accessibility_dom.node_name_stamp": {
+        "string": "印章"
     },
-    "file_browser.draft_move_modal.destination_description_badge_free": {
-        "string": "Free"
+    "fullscreen.accessibility_dom.node_name_sticky": {
+        "string": "便签"
     },
-    "file_browser.draft_move_modal.destination_description_badge_locked": {
-        "string": "Locked"
+    "fullscreen.accessibility_dom.node_name_table": {
+        "string": "表格"
     },
-    "file_browser.draft_move_modal.destination_description_badge_edu": {
-        "string": "Edu"
+    "fullscreen.accessibility_dom.node_name_table_cell": {
+        "string": "表格单元格行{r}列{c}"
     },
-    "file_browser.draft_move_modal.destination_description_badge_pro": {
-        "string": "Pro"
+    "fullscreen.accessibility_dom.node_name_table_cell_generic": {
+        "string": "表格单元格"
     },
-    "file_browser.draft_move_modal.destination_description_badge_org": {
-        "string": "Org"
+    "fullscreen.accessibility_dom.node_name_text": {
+        "string": "文本"
     },
-    "file_browser.draft_move_modal.destination_description_badge_ent": {
-        "string": "Enterprise"
+    "fullscreen.accessibility_dom.node_name_whiteboard-arrow-left": {
+        "string": "左箭头"
     },
-    "file_browser.draft_move_modal.destination_description_badge_guest": {
-        "string": "Guest"
+    "fullscreen.accessibility_dom.node_name_whiteboard-arrow-right": {
+        "string": "右箭头"
     },
-    "file_browser.draft_move_confirmation_modal.seat_type_figjam": {
-        "string": "FigJam"
+    "fullscreen.accessibility_dom.node_name_whiteboard-chevron": {
+        "string": "V形"
     },
-    "file_browser.draft_move_confirmation_modal.seat_type_design": {
-        "string": "Figma Design"
+    "fullscreen.accessibility_dom.node_name_whiteboard-diamond": {
+        "string": "菱形"
     },
-    "file_browser.draft_move_confirmation_modal.board": {
-        "string": "board"
+    "fullscreen.accessibility_dom.node_name_whiteboard-document-multiple": {
+        "string": "多个文档"
     },
-    "file_browser.draft_move_confirmation_modal.file": {
-        "string": "file"
+    "fullscreen.accessibility_dom.node_name_whiteboard-document-single": {
+        "string": "文档"
     },
-    "file_browser.draft_move_confirmation_modal.move_drafts_team_owner_substring": {
-        "string": "Your team won't be charged right away, and you can go back to a free seat any time."
+    "fullscreen.accessibility_dom.node_name_whiteboard-ellipse": {
+        "string": "椭圆"
     },
-    "file_browser.draft_move_confirmation_modal.move_drafts_team_member_substring": {
-        "string": "Your team won't be charged right away, and your admin can put you back on a free seat any time."
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-database": {
+        "string": "圆柱"
     },
-    "file_browser.draft_move_confirmation_modal.move_multiple_drafts_dual_upgrade": {
-        "string": "Moving {draftName} and {pluralizedDraftsRemainingString} from your drafts will change you to a paid Figma Design seat and a paid FigJam seat in {teamName}. {roleContextSubstring}"
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-file": {
+        "string": "文件"
     },
-    "file_browser.draft_move_confirmation_modal.pluralized_remaining_drafts": {
-        "string": "{remainingDraftCount, plural, one {1 other file} other {{remainingDraftCount} other files}}"
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-folder": {
+        "string": "文件夹"
     },
-    "file_browser.draft_move_confirmation_modal.move_multiple_drafts_singular_upgrade": {
-        "string": "Moving {draftName} and {pluralizedDraftsRemainingString} from your drafts will change you to a paid {seatType} seat in {teamName}. {roleContextSubstring}"
+    "fullscreen.accessibility_dom.node_name_whiteboard-eng-queue": {
+        "string": "横向圆柱"
     },
-    "file_browser.draft_move_confirmation_modal.move_one_draft_singular": {
-        "string": "Moving this {fileTypeMoniker} from your drafts will change you to a paid {seatType} seat in {teamName}. {roleContextSubstring}"
+    "fullscreen.accessibility_dom.node_name_whiteboard-hexagon": {
+        "string": "六边形"
     },
-    "file_browser.draft_move_modal.confirmation_modal_upgrade_multiple": {
-        "string": "Your free seat on the team will be upgraded to paid if collaborators view or edit the files after you move them."
+    "fullscreen.accessibility_dom.node_name_whiteboard-internal-storage": {
+        "string": "内部存储"
     },
-    "file_browser.draft_move_modal.confirmation_modal_upgrade": {
-        "string": "Your free seat on the team will be upgraded to paid if collaborators view or edit the file after you move it."
+    "fullscreen.accessibility_dom.node_name_whiteboard-manual-input": {
+        "string": "手动输入"
     },
-    "file_browser.draft_move_modal.confirmation_modal_move_file_multiple": {
-        "string": "You can also move the files to a different team—including a free Starter team you create."
+    "fullscreen.accessibility_dom.node_name_whiteboard-octagon": {
+        "string": "八边形"
     },
-    "file_browser.draft_move_modal.confirmation_modal_move_file": {
-        "string": "You can also move the file to a different team—including a free Starter team you create."
+    "fullscreen.accessibility_dom.node_name_whiteboard-or": {
+        "string": "或"
     },
-    "file_browser.draft_move_modal.confirmation_modal_header": {
-        "string": "{fileCount, plural, one {Move draft to {teamName}?} other {Move these drafts to {teamName}?}}"
+    "fullscreen.accessibility_dom.node_name_whiteboard-parallelogram-right": {
+        "string": "平行四边形"
     },
-    "file_browser.draft_move_modal.before_we_move_your_drafts": {
-        "string": "What should we call your new, free Starter team?"
+    "fullscreen.accessibility_dom.node_name_whiteboard-pentagon": {
+        "string": "五边形"
     },
-    "file_browser.draft_move_modal.team_name": {
-        "string": "Team name"
+    "fullscreen.accessibility_dom.node_name_whiteboard-plus": {
+        "string": "加号"
     },
-    "team_creation.your_team_name_cannot_be_empty": {
-        "string": "Your team name cannot be empty."
+    "fullscreen.accessibility_dom.node_name_whiteboard-predefined-process": {
+        "string": "预定义流程"
     },
-    "file_browser.draft_move_modal.creating_your_new_team_header": {
-        "string": "Name your new team"
+    "fullscreen.accessibility_dom.node_name_whiteboard-rounded-rectangle": {
+        "string": "圆角矩形"
     },
-    "file_browser.draft_move_modal.create_and_move_drafts": {
-        "string": "Create team"
+    "fullscreen.accessibility_dom.node_name_whiteboard-shield": {
+        "string": "盾牌"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "scenegraph_validation.failed.message": {
-        "string": "Something went wrong and your latest changes weren't saved. Reload the page to keep working on this file."
+    "community.merge_profile_modal.combine_all_profile_resources_info": {
+        "string": "这将把两个账户使用的所有资源、关注列表、点赞和通知合并到一个资料中。"
     },
-    "collaboration.spotlight.2_0.nudge_spotlight.description": {
-        "string": "Just click {spotlightMeButtonText} in the dropdown to grab your teammates' attention."
+    "community.merge_profile_modal.community_avatar_info": {
+        "string": "社区头像和显示名称由设置为主账户的账户决定。这些可以随时从社区设置中更改。"
     },
-    "collaboration.spotlight.tooltip.spotlight_me": {
-        "string": "Spotlight me"
+    "community.merge_profile_modal.confirm_your_new_profile_details_next": {
+        "string": "接下来确认你的新资料详情"
     },
-    "collaboration.spotlight.nudge_spotlight.got_it": {
-        "string": "Got it"
+    "community.merge_profile_modal.connect": {
+        "string": "连接"
     },
-    "visual_bell.url_copied_to_your_clipboard": {
-        "string": "\"{url}\" copied to your clipboard"
+    "community.merge_profile_modal.existing_community_profile_merge_info": {
+        "string": "你尝试连接的账户已经有社区资料。请合并两个资料来连接账户。"
     },
-    "team_view.team_permissions_modal.youre_not_able_to_send_an_invite_to_yourself": {
-        "string": "You're not able to send an invite to yourself."
+    "community.merge_profile_modal.handle_selection_info": {
+        "string": "请选择在合并资料后使用的资料用户名。未选择的用户名将会丢失。"
     },
-    "plugins.error_loading_environment_widget": {
-        "string": "An error occurred while loading the widget environment"
+    "community.merge_profile_modal.learn_more": {
+        "string": "了解更多"
     },
-    "plugins.error_loading_environment_plugin": {
-        "string": "An error occurred while loading the plugin environment"
+    "community.merge_profile_modal.merge_profiles": {
+        "string": "合并资料"
     },
-    "plugins.loading_plugin": {
-        "string": "Loading {pluginName}…"
+    "community.merge_profile_modal.merge_profiles_to_connect_accounts": {
+        "string": "合并资料以连接账户"
     },
-    "plugins.no_code_found_for_widget": {
-        "string": "No code found for widget version"
+    "community.merge_profile_modal.merging_profiles_cant_be_undone": {
+        "string": "合并资料无法撤销。"
     },
-    "plugins.no_code_found_for_plugin": {
-        "string": "No code found for plugin version"
+    "community.merge_profile_modal.missing_account_try_again": {
+        "string": "如果未显示所需内容，请关闭此弹出窗口，从账户切换器添加账户，然后再次尝试。"
     },
-    "plugins.cannot_run_widget_logged_out": {
-        "string": "Cannot run widget while logged out"
+    "community.merge_profile_modal.no_accounts_found": {
+        "string": "未找到其他账户！请关闭此弹出窗口，从账户切换器添加账户，然后再次尝试。"
     },
-    "plugins.cannot_run_plugin_logged_out": {
-        "string": "Cannot run plugin while logged out"
+    "community.merge_profile_modal.not_allowed": {
+        "string": "不允许"
     },
-    "plugins.error_occured_while_running_widget": {
-        "string": "An error occurred while running this widget"
+    "community.merge_profile_modal.pick_the_account_you_want_to_connect": {
+        "string": "选择要连接的账户"
     },
-    "plugins.error_occured_while_running_plugin": {
-        "string": "An error occurred while running this plugin"
+    "community.profile_connections.add_profile_connection_cta": {
+        "string": "添加资料连接"
     },
-    "plugins.loading_pages_for_widget": {
-        "string": "{numUnloadedPages, plural, one {Loading {numUnloadedPages} page for widget…} other {Loading {numUnloadedPages} pages for widget…}}"
+    "community.profile_connections.info": {
+        "string": "连接多个Figma账户，使用一个社区资料合并多个资料。发布内容、关注创作者、保存点赞、接收通知时无需切换账户。"
     },
-    "plugins.loading_pages_for_plugin": {
-        "string": "{numUnloadedPages, plural, one {Loading {numUnloadedPages} page for plugin…} other {Loading {numUnloadedPages} pages for plugin…}}"
+    "community.profile_connections.primary_email": {
+        "string": "主要邮箱"
     },
-    "plugins.cancel_loading_pages": {
-        "string": "Cancel"
+    "community.profile_connections.primary_email_info": {
+        "string": "主要邮箱用于所有社区通知。"
     },
-    "community.plugin_development.your_figma_plugin": {
-        "string": "Your Figma Plugin"
+    "community.profile_connections.primary_email_info__disable_switching_for_primary_monetized_creator": {
+        "string": "用于所有社区通知、显示名称和头像。主要账户用于付费社区资源的指定支付，无法更改。可以在“账户”标签中更改用户账户邮箱地址。"
     },
-    "activity_log.resource.file": {
-        "string": "file"
+    "community.profile_connections.profile_connections_title": {
+        "string": "资料连接"
     },
-    "activity_log.resource.project": {
-        "string": "project"
+    "community.admin.switch_workspaces_to_edit": {
+        "string": "切换工作区进行编辑。"
     },
-    "file_permissions_modal.move_and_allow_edits": {
-        "string": "Move and allow edits"
+    "community.admin.you_can_edit_this_entity_type_as_an_admin_of_admin_profile_name": {
+        "string": "你可以作为{adminProfileName}的管理员编辑此{entityType}。"
     },
-    "confirm_remove_role.are_you_sure_you_want_to_leave_file_name_you_may_not_be_able_to_access_this_file_anymore": {
-        "string": "Are you sure you want to leave {fileName}? You may not be able to access this file anymore."
+    "community.allowlist.choose_an_organization": {
+        "string": "选择一个组织"
     },
-    "confirm_remove_role.leave": {
-        "string": "Leave"
+    "community.allowlist.select_the_organization_you_would_like": {
+        "string": "选择要用于管理此资源批准的组织"
     },
-    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_file_anymore": {
-        "string": "{userHandle} will immediately lose direct access to this file if you continue."
+    "community.auth_modal.header": {
+        "string": "加入Figma，使用免费设计工具、模板等"
     },
-    "confirm_remove_role.remove": {
-        "string": "Remove"
+    "community.badge.creator_fund": {
+        "string": "创作者基金"
     },
-    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_this_main_file_and_the_branches_anymore": {
-        "string": "{userHandle} will immediately lose direct access to this file and branches if you continue."
+    "community.badge.extension_security_approved": {
+        "string": "有数据安全信息"
     },
-    "confirm_remove_role.are_you_sure_you_want_to_leave_folder_name_you_may_not_be_able_to_access_files_in_this_project_anymore": {
-        "string": "Are you sure you want to leave {folderName}? You may not be able to access files in this project anymore."
+    "community.badge.extension_security_pending": {
+        "string": "数据安全信息待审查"
     },
-    "confirm_remove_role.are_you_sure_you_want_to_remove_user_to_remove_handle_they_may_not_be_able_to_access_files_in_this_project_anymore": {
-        "string": "Are you sure you want to remove {userHandle}? They may not be able to access files in this project anymore."
+    "community.badge.extension_security_updated_on": {
+        "string": "数据安全信息更新于：{date, date, medium}"
     },
-    "confirm_remove_role.confirm_title_file": {
-        "string": "Remove access to file"
+    "community.badge.new": {
+        "string": "新"
     },
-    "visual_bell.saving": {
-        "string": "Saving…"
+    "community.banner.a_space_for_figma_users_to_share_things_they_create": {
+        "string": "Figma用户分享创作内容的空间。"
     },
-    "visual_bell.exporting": {
-        "string": "Exporting…"
+    "community.banner.browsing_community_as_the_current_profile_name_organization": {
+        "string": "作为{profileName}组织浏览社区"
     },
-    "save_as_actions.copy_as_png_progress": {
-        "string": "Copying as PNG…"
+    "community.banner.browsing_community_as_the_current_profile_name_team": {
+        "string": "作为{profileName}团队浏览社区"
     },
-    "save_as_actions.copy_as_svg_progress": {
-        "string": "Copying as SVG…"
+    "community.banner.check_out_more_fig_jam_resources_in_the_community": {
+        "string": "查看社区中的更多FigJam资源"
     },
-    "save_as_actions.rasterize_selection_progress": {
-        "string": "Rasterizing Selection…"
+    "community.banner.community_is_a_space_for_figma_users_to_share_things_they_create": {
+        "string": "社区是Figma用户分享创作内容的空间。"
     },
-    "save_as_actions.downloading_images": {
-        "string": "Downloading images…"
+    "community.banner.create_your_own_profile": {
+        "string": "创建自己的资料"
     },
-    "save_as_actions.downloading_content": {
-        "string": "Downloading contents…"
+    "community.banner.get_started_with_a_free_account": {
+        "string": "使用免费账户开始"
     },
-    "save_as_actions.cannot_download_images": {
-        "string": "Cannot download images while offline"
+    "community.banner.this_is_a_figma_community_file": {
+        "string": "这是一个Figma社区文件。"
     },
-    "save_as_actions.cannot_download_content": {
-        "string": "Cannot download content while offline"
+    "community.banner.this_is_a_figma_community_plugin": {
+        "string": "这是一个Figma社区插件。"
     },
-    "save_as_actions.save_partial_file": {
-        "string": "Save partial file"
+    "community.banner.this_is_a_figma_community_profile": {
+        "string": "这是一个Figma社区资料。"
     },
-    "save_as_actions.save_without_images": {
-        "string": "Save without images"
+    "community.banner.this_is_a_figma_community_widget": {
+        "string": "这是一个Figma社区小部件。"
     },
-    "save_as_actions.export_without_images": {
-        "string": "Export without images"
+    "community.banner.this_is_the_figma_community": {
+        "string": "这是Figma社区。"
     },
-    "save_as_actions.export_without_content": {
-        "string": "Export anyway"
+    "community.banner.this_is_your_figma_community_profile": {
+        "string": "这是你的Figma社区资料。"
     },
-    "visual_bell.save_as_error": {
-        "string": "We were unable to download the file. Please try again."
+    "community.banner.this_was_made_in_fig_jam_figma_s_new_online_whiteboard": {
+        "string": "这是用FigJam（Figma的新在线白板）制作的。"
     },
-    "save_as_actions.save_partial_file_name_suffix": {
-        "string": "Partial file saved {date}"
+    "community.banner.to_create_your_own_plugin": {
+        "string": "要创建自己的插件，请{link}"
     },
-    "save_as_actions.cancel": {
-        "string": "Cancel"
+    "community.banner.to_follow_creators_and_like_resources": {
+        "string": "要关注创作者并点赞资源，请{link}"
     },
-    "shared_fonts.error_message_for_upload_failure_400": {
-        "string": "Invalid font."
+    "community.banner.visit_the_docs": {
+        "string": "查看文档"
     },
-    "shared_fonts.error_message_for_upload_failure_403": {
-        "string": "Unfortunately, you don't have permission to complete this action."
+    "community.by_publisher": {
+        "string": "发布者：{publisher}"
     },
-    "shared_fonts.error_message_for_upload_failure_409": {
-        "string": "This font has already been uploaded to your Organization. Access this font now from the Font Picker."
+    "community.by_publisher_with_suffix": {
+        "string": "创作者 {publisherName} {publishersSuffix}"
     },
-    "shared_fonts.error_message_for_upload_failure_422": {
-        "string": "This file has missing or invalid fields."
+    "community.cards.by": {
+        "string": "创作者"
     }
 }

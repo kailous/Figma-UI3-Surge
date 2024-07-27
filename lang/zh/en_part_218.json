@@ -1,152 +1,152 @@
 {
-    "plan_details.3_figjam_files": {
-        "string": "3 FigJam files"
+    "members_table.csv_export.preparing_request": {
+        "string": "正在准备CSV请求"
     },
-    "plan_details.3_design_files": {
-        "string": "3 design files"
+    "members_table.dev_mode.requires_org_admin_opt_in": {
+        "string": "要升级此席位，组织管理员需要先启用开发模式"
     },
-    "plan_details.unlimited_files_in_drafts": {
-        "string": "Unlimited files in Drafts"
+    "members_table.dev_mode_cell.beta_user_needs_upgrade": {
+        "string": "该成员需要在1月31日升级到开发模式"
     },
-    "plan_details.1_project": {
-        "string": "1 project"
+    "members_table.dev_mode_cell.included_with_design_tooltip": {
+        "string": "包含在完整设计席位中"
     },
-    "plan_details.30_day_version_history": {
-        "string": "30-day version history"
+    "members_table.idp_user.pending_invite": {
+        "string": "此用户有一个待处理的邀请"
     },
-    "plan_details.unlimited_files": {
-        "string": "Unlimited files"
+    "members_table.idp_user.user_provisioned": {
+        "string": "此用户通过SCIM配置。可以在您的IdP中管理此用户。"
     },
-    "plan_details.unlimited_projects": {
-        "string": "Unlimited projects"
+    "members_table.invite_users_button": {
+        "string": "邀请用户"
     },
-    "plan_details.shareable_team_libraries": {
-        "string": "Shareable team libraries"
+    "members_table.last_active_filter.more_than_a_year_ago": {
+        "string": "一年多前"
     },
-    "plan_details.unlimited_version_history": {
-        "string": "Unlimited version history"
+    "members_table.last_active_filter.more_than_six_months_ago": {
+        "string": "六个月多前"
     },
-    "rcs.team_welcome.invite_your_collaborators": {
-        "string": "Invite your collaborators"
+    "members_table.last_active_filter.more_than_three_months_ago": {
+        "string": "三个月多前"
     },
-    "rcs.team_welcome.emails": {
-        "string": "Emails"
+    "members_table.last_edit_filter.more_than_a_year_ago": {
+        "string": "一年多前"
     },
-    "rcs.team_welcome.do_this_later": {
-        "string": "Do this later"
+    "members_table.last_edit_filter.more_than_six_months_ago": {
+        "string": "六个月多前"
     },
-    "presets.width_x_height": {
-        "string": "{width} x {height}"
+    "members_table.last_edit_filter.more_than_three_months_ago": {
+        "string": "三个月多前"
     },
-    "presets.blank_canvas": {
-        "string": "Blank canvas"
+    "members_table.license_group_cell.unassign": {
+        "string": "取消分配"
     },
-    "rcs.welcome_step_view.next": {
-        "string": "Next"
+    "members_table.license_group_update_date": {
+        "string": "{updateDate, date, medium}"
     },
-    "rcs.team_welcome.tell_us_about_yourself": {
-        "string": "Tell us about yourself"
+    "members_table.menu_bar_filter.account_type": {
+        "string": "账户类型"
     },
-    "rcs.team_welcome.welcome_to_figma": {
-        "string": "Welcome to {Figma}"
+    "members_table.menu_bar_filter.billing_group": {
+        "string": "账单组"
     },
-    "rcs.team_welcome.figma": {
-        "string": "Figma"
+    "members_table.menu_bar_filter.last_active": {
+        "string": "最后活跃时间"
     },
-    "rcs.team_welcome.tell_us_a_little_about_yourself": {
-        "string": "Tell us a little bit about yourself"
+    "members_table.menu_bar_filter.last_edit": {
+        "string": "最后编辑时间"
     },
-    "rcs.team_welcome.welcome_to_figjam": {
-        "string": "Welcome to FigJam"
+    "members_table.menu_bar_filter.new_since_last_invoice": {
+        "string": "上次账单后新增"
     },
-    "rcs.product_and_template_picker.get_inspired_by_browsing_resources_in_community": {
-        "string": "{getInspired} by browsing resources in Community"
+    "members_table.menu_bar_filter.product": {
+        "string": "产品"
     },
-    "rcs.product_and_template_picker.get_inspired": {
-        "string": "Get inspired"
+    "members_table.menu_bar_filter.role.seat_rename": {
+        "string": "席位类型"
     },
-    "rcs.product_and_template_picker.new_user_whiteboard_filename": {
-        "string": "Welcome to FigJam"
+    "members_table.menu_bar_filter.scim_group": {
+        "string": "SCIM组"
     },
-    "whiteboard.ai_onboarding.ai_templates_toolbar.title": {
-        "string": "Call up FigJam AI, anytime"
+    "members_table.menu_bar_filter.workspace": {
+        "string": "工作区"
     },
-    "whiteboard.ai_onboarding.ai_templates_toolbar.description": {
-        "string": "It’s here, whenever you need to generate a board in a jiffy."
+    "members_table.no_members_match_your_search_query": {
+        "string": "未找到符合搜索条件的成员，请重试。"
     },
-    "whiteboard.ai_onboarding.new_file_modal.title": {
-        "string": "Type, click, jam—with FigJam AI"
+    "members_table.no_members_to_show": {
+        "string": "没有成员可显示。"
     },
-    "whiteboard.ai_onboarding.new_file_modal.footer": {
-        "string": "Create a custom board—type in what you need, or pick a suggestion, and let FigJam AI do the rest."
+    "members_table.org_invite_menu.copy_email": {
+        "string": "复制邮箱"
     },
-    "figjam_onboarding_make_something.all.skip_intro": {
-        "string": "Skip intro"
+    "members_table.org_invite_menu.remove": {
+        "string": "删除"
     },
-    "whiteboard.section_presets_onboarding.feature_announcement.title": {
-        "string": "Don’t start from scratch"
+    "members_table.org_invite_menu.resend_invite": {
+        "string": "重新发送邀请"
     },
-    "whiteboard.section_presets_onboarding.feature_announcement.description": {
-        "string": "Sections help you quickly build a board—with tiny templates for brainstorms, check-ins, and more."
+    "members_table.org_permission_filter.admin": {
+        "string": "管理员"
     },
-    "whiteboard.section_presets_onboarding.feature_announcement.secondary": {
-        "string": "Show me how"
+    "members_table.org_permission_filter.guest": {
+        "string": "访客"
     },
-    "whiteboard.organize_menu.onboarding_text_base": {
-        "string": "Nice! When you want to {boldText} again, look for it here."
+    "members_table.org_permission_filter.member": {
+        "string": "成员"
     },
-    "whiteboard.organize_menu.onboarding_text_bold_text": {
-        "string": "summarize"
+    "members_table.org_permission_filter.pending": {
+        "string": "待处理"
     },
-    "whiteboard.organize_menu.onboarding_dismiss_button_text": {
-        "string": "Got it"
+    "members_table.org_permission_filter.unverified": {
+        "string": "未验证"
     },
-    "whiteboard.color_palettes.tooltip.move_to_team": {
-        "string": "To create or view your team’s palettes, move this file out of your drafts."
+    "members_table.org_user_menu.copy_email": {
+        "string": "复制邮箱"
     },
-    "whiteboard.color_palettes.color_palette_picker.team_palettes": {
-        "string": "{teamName} palettes"
+    "members_table.org_user_menu.grant_admin_access": {
+        "string": "授予管理员权限"
     },
-    "whiteboard.color_palettes.color_palette_picker.team_palettes_no_name": {
-        "string": "Team palettes"
+    "members_table.org_user_menu.remove": {
+        "string": "删除"
     },
-    "whiteboard.color_palettes.dropdown.new_palette": {
-        "string": "New palette"
+    "members_table.org_user_menu.resend_verification": {
+        "string": "重新发送验证邮件"
     },
-    "whiteboard.color_palettes.dropdown.manage_palettes": {
-        "string": "Manage palettes"
+    "members_table.org_user_menu.revoke_admin_access": {
+        "string": "撤销管理员权限"
     },
-    "whiteboard.inline_menu.organize_button_text": {
-        "string": "Organize"
+    "members_table.org_user_menu.view_guest_access": {
+        "string": "查看访客访问权限"
     },
-    "whiteboard.inline_menu.organize_dropdown_options_aria_label": {
-        "string": "List of organize options"
+    "members_table.org_user_menu.view_user_activity": {
+        "string": "查看用户活动"
     },
-    "whiteboard.inline_menu.organize_dropdown_button_aria_label": {
-        "string": "Organize dropdown button"
+    "members_table.org_user_name_cell.pending_badge": {
+        "string": "待处理"
     },
-    "whiteboard.inline_menu.sort_by_dropdown_button_text_2": {
-        "string": "Sort stickies by"
+    "members_table.org_user_name_cell.pending_scim_badge": {
+        "string": "待处理（SCIM）"
     },
-    "whiteboard.inline_menu.sort_by_dropdown_button_text": {
-        "string": "Sort stickies"
+    "members_table.org_user_name_cell.scim_badge": {
+        "string": "SCIM"
     },
-    "whiteboard.inline_menu.arrange_stickies_dropdown_button_aria_label": {
-        "string": "Sort stickies sub-menu button"
+    "members_table.remove_users_button": {
+        "string": "删除{userCount}个用户"
     },
-    "whiteboard.inline_menu.organize_quick_actions_button_beta_badge_text": {
-        "string": "AI beta"
+    "members_table.resend_verification_button": {
+        "string": "重新发送验证邮件"
     },
-    "rcs.figjam_zoom.to_zoom_pinch_your_trackpad_or_hold_and_scroll": {
-        "string": "To zoom: {boldTextPinch} your trackpad, or {boldTextScroll} your mouse."
+    "members_table.role_filter.dev_mode_only": {
+        "string": "仅开发模式"
     },
-    "rcs.figjam_zoom.to_zoom_pinch_your_trackpad_or_hold_and_scroll_bold_text_pinch": {
-        "string": "pinch"
+    "members_table.role_idp_tooltip.seat_rename": {
+        "string": "席位类型通过您的IdP配置"
     },
-    "rcs.figjam_zoom.to_zoom_pinch_your_trackpad_or_hold_and_scroll_bold_text_scroll": {
-        "string": "scroll"
+    "members_table.scim_menu.copy_email": {
+        "string": "复制邮箱"
     },
-    "rcs.figjam_pan.move_instructions": {
-        "string": "To move: {boldTextSwipe} your trackpad with two fingers, or {boldTextRightClick} while moving your mouse."
+    "members_table.true_up.banner.button": {
+        "string": "查看并确认账单"
     }
 }

@@ -1,152 +1,152 @@
 {
-    "collaboration.branching_from_source.these_changes_have_been_made_to_the_main_file": {
-        "string": "These changes have been made to the Main file."
+    "community.publishing.describe_your_work": {
+        "string": "描述你的工作"
     },
-    "collaboration.branching_from_source.apply_changes": {
-        "string": "Apply changes"
+    "community.publishing.description": {
+        "string": "描述"
     },
-    "variables.values.boolean.true": {
-        "string": "True"
+    "community.publishing.description_must_be_at_most_10000_characters_long": {
+        "string": "描述必须最多10000个字符"
     },
-    "variables.values.boolean.false": {
-        "string": "False"
+    "community.publishing.details": {
+        "string": "详情"
     },
-    "collaboration.branching_from_source.preview_unavailable": {
-        "string": "Preview unavailable"
+    "community.publishing.dimensions": {
+        "string": "{width}x{height}"
     },
-    "collaboration.branching_from_source.no_item": {
-        "string": "No item"
+    "community.publishing.documentAccess": {
+        "string": "文档访问"
     },
-    "collaboration.branching_from_source.this_style_was_removed": {
-        "string": "This style was removed"
+    "community.publishing.drop_or_paste_your_icon_image_here_or_choose_a_file_from_your_computer": {
+        "string": "将图标图像拖放到这里或粘贴，或从计算机{chooseFileLink}"
     },
-    "collaboration.branching_from_source.this_page_was_removed": {
-        "string": "This page was removed"
+    "community.publishing.edit_file_page": {
+        "string": "编辑文件页面"
     },
-    "collaboration.branching_from_source.this_frame_was_removed": {
-        "string": "This frame was removed"
+    "community.publishing.editor_or_viewer_not_found": {
+        "string": "未找到编辑者或查看者"
     },
-    "collaboration.branching_from_source.this_component_was_removed": {
-        "string": "This component was removed"
+    "community.publishing.editor_type": {
+        "string": "编辑器类型"
     },
-    "collaboration.branching_from_source.this_layer_was_removed": {
-        "string": "This layer was removed"
+    "community.publishing.editor_type_figma": {
+        "string": "\"editorType\": [\"figma\"]"
     },
-    "collaboration.branching_from_source.main": {
-        "string": "Main"
+    "community.publishing.error_file_not_found": {
+        "string": "未找到文件"
     },
-    "collaboration.branching_from_source.branch": {
-        "string": "Branch"
+    "community.publishing.error_icon_image_dimensions": {
+        "string": "图标图像尺寸必须为128x128"
     },
-    "collaboration.branching_from_source.keep_main": {
-        "string": "Keep main"
+    "community.publishing.error_id_identifier_is_invalid": {
+        "string": "ID标识符无效"
     },
-    "collaboration.branching_from_source.keep_branch": {
-        "string": "Keep branch"
+    "community.publishing.error_one_or_more_creators_are_invalid_profiles": {
+        "string": "一个或多个创建者的社区资料无效"
     },
-    "collaboration.branching_from_source.confirm_picks": {
-        "string": "Confirm picks"
+    "community.publishing.error_please_upload_with_transparent_background": {
+        "string": "小部件的快照必须为包含透明背景的PNG"
     },
-    "collaboration.branching_from_source.next": {
-        "string": "Next"
+    "community.publishing.error_thumbnail_image_not_found": {
+        "string": "未找到缩略图{filename}"
     },
-    "variables.authoring_modal.table.name_header": {
-        "string": "Name"
+    "community.publishing.error_thumbnail_image_not_found_no_filename": {
+        "string": "未找到缩略图文件"
     },
-    "variables.missing_name": {
-        "string": "(missing name)"
+    "community.publishing.error_thumbnail_image_too_large": {
+        "string": "缩略图{filename}超过了最大尺寸{max_size}MB"
     },
-    "collaboration.branching_chunk.property_change_node_value_denoter": {
-        "string": "{propertyName}: {propertyValue}"
+    "community.publishing.error_thumbnail_image_wrong_format": {
+        "string": "缩略图{filename}必须为jpeg或png格式"
     },
-    "collaboration.branching_chunk.property_change_changed_value_denoter": {
-        "string": "→"
+    "community.publishing.error_video_thumbnail_not_found": {
+        "string": "未找到视频缩略图"
     },
-    "collaboration.branching_chunk.property_change_edited": {
-        "string": "{prevValue} → {newValue}"
+    "community.publishing.error_video_too_long": {
+        "string": "视频{filename}超过了最大长度{max_length}秒"
     },
-    "collaboration.branching_chunk.property_change_removed": {
-        "string": "{prevValue} → removed"
+    "community.publishing.error_video_wrong_format": {
+        "string": "视频{filename}必须为mp4、webm或QuickTime格式"
     },
-    "collaboration.branching_chunk.property_change_added": {
-        "string": "→ {newValue}"
+    "community.publishing.error_we_could_not_load_your_development_resource.plugin": {
+        "string": "目前无法加载开发插件。请确认{filename}文件存在，然后再试一次。"
     },
-    "collaboration.branching_chunk.property_change_node_removed_items": {
-        "string": "Removed:"
+    "community.publishing.error_we_could_not_load_your_development_resource.widget": {
+        "string": "目前无法加载开发小部件。请确认{filename}文件存在，然后再试一次。"
     },
-    "collaboration.branching_chunk.property_change_node_added_items": {
-        "string": "Added:"
+    "community.publishing.failed_to_read_file": {
+        "string": "无法读取文件{filename}"
     },
-    "collaboration.branching_chunk.property_change_node_removed": {
-        "string": "This node was deleted"
+    "community.publishing.feel_free_to_edit_your_page.file": {
+        "string": "在此期间，你可以随时编辑文件的社区页面。此页面在文件发布之前对其他人不可见。"
     },
-    "collaboration.branching_chunk.property_change_non-previewable": {
-        "string": "Non-previewable changes"
+    "community.publishing.feel_free_to_edit_your_page.plugin": {
+        "string": "在此期间，你可以随时编辑插件的社区页面。此页面在插件发布之前对其他人不可见。"
     },
-    "collaboration.branching_chunk.error": {
-        "string": "There was an error rendering detailed property changes. This error has not been reported or recorded."
+    "community.publishing.feel_free_to_edit_your_page.widget": {
+        "string": "在此期间，你可以随时编辑小部件的社区页面。此页面在小部件发布之前对其他人不可见。"
     },
-    "collaboration.branching_reviews.send_to_reviewers": {
-        "string": "{numReviewers, plural, one {Send to {numReviewers} reviewer} other {Send to {numReviewers} reviewers}}"
+    "community.publishing.figma_reviews_all_resources_published_to_community_org_private.plugin": {
+        "string": "Figma审查所有发布到社区的插件。在批准之前，插件仅对{orgName}可见。批准后，插件将对所有Figma用户可见，并从{orgName}中删除。"
     },
-    "collaboration.branching_reviews.add_context_optional": {
-        "string": "Add context (optional)…"
+    "community.publishing.figma_reviews_all_resources_published_to_community_org_private.widget": {
+        "string": "Figma审查所有发布到社区的小部件。在批准之前，小部件仅对{orgName}可见。批准后，小部件将对所有Figma用户可见，并从{orgName}中删除。"
     },
-    "collaboration.branching_reviews.give_reviewers_more_context_for_your_latest_changes": {
-        "string": "Ask reviewers to review your latest updates"
+    "community.publishing.file": {
+        "string": "文件"
     },
-    "collaboration.branching_reviews.give_reviewers_more_context_for_your_changes": {
-        "string": "Give reviewers more context for your changes."
+    "community.publishing.file_editor": {
+        "string": "文件编辑者"
     },
-    "collaboration.branching_reviews.request_review": {
-        "string": "Request review"
+    "community.publishing.file_preview": {
+        "string": "文件预览"
     },
-    "collaboration.branching_from_source.num_unique_items_related_items": {
-        "string": "{numUniqueItems} related items"
+    "community.publishing.found_multiple_local_widgets_with_the_same_manifest_id": {
+        "string": "找到多个具有相同\"manifest.id\"的本地小部件"
     },
-    "collaboration.branching_from_source.resolve_all": {
-        "string": "Resolve all"
+    "community.publishing.generate_id": {
+        "string": "生成ID..."
     },
-    "collaboration.branching_from_source.num_conflicts": {
-        "string": "{conflictCount, plural, one {{pickedCount} / {conflictCount} conflict} other {{pickedCount} / {conflictCount} conflicts}}"
+    "community.publishing.give_up_to_n_creators_credit": {
+        "string": "最多可以为{maxCreatorsPerResource}个创作者提供姓名或@用户名的信用。"
     },
-    "collaboration.branching_from_source.conflicted": {
-        "string": "Conflicted"
+    "community.publishing.got_it": {
+        "string": "知道了"
     },
-    "collaboration.branching_from_source.pick_main_file": {
-        "string": "Pick main file"
+    "community.publishing.help_people_discover_your_file": {
+        "string": "帮助人们发现你的文件："
     },
-    "collaboration.branching_from_source.pick_branch": {
-        "string": "Pick branch"
+    "community.publishing.i_agree_to_the_terms_of_service": {
+        "string": "我同意{termsOfService}"
     },
-    "collaboration.branching_chunk.change_details": {
-        "string": "Change details"
+    "community.publishing.icon": {
+        "string": "图标"
     },
-    "variables.diff.conflict_collection_name": {
-        "string": "Collection name changed to {collectionName}"
+    "community.publishing.icon_cant_be_empty": {
+        "string": "图标不能为空"
     },
-    "variables.diff.conflict_modes": {
-        "string": "Modes changed to {modeNames}"
+    "community.publishing.id": {
+        "string": "ID"
     },
-    "collaboration.branching_modal.tab_active_empty_state": {
-        "string": "There are no active branches."
+    "community.publishing.id_with_number": {
+        "string": "\"id\": \"{pendingId}\""
     },
-    "collaboration.branching_modal.tab_yours_empty_state": {
-        "string": "You haven't created any branches."
+    "community.publishing.if_you_don_t_have_an_existing_community_profile_you_can_create_one_now": {
+        "string": "如果你没有现有的社区个人资料，现在可以创建一个。"
     },
-    "collaboration.branching_modal.tab_archived_empty_state": {
-        "string": "There are no archived branches."
+    "community.publishing.if_you_have_a_personal_community_profile_associated_with_a_different_figma_account_connect_it_now_and_publish_to_your_existing_profile_without_having_to_switch_accounts": {
+        "string": "如果你有一个与其他Figma账户关联的个人社区资料，现在连接它并发布到现有的资料中，无需切换账户。"
     },
-    "collaboration.branching_modal.title": {
-        "string": "Branches"
+    "community.publishing.instead_of_images_your_resource_will_display_as_a_prototype": {
+        "string": "你的资源将显示为原型，而不是图像。"
     },
-    "collaboration.branching_modal.tab_active": {
-        "string": "Active"
+    "community.publishing.invalid_id_in_manifest": {
+        "string": "{filename}中的ID无效"
     },
-    "collaboration.branching_modal.tab_yours": {
-        "string": "Yours"
+    "community.publishing.invite_creators_to_the_file_to_give_credit_creators_must_have_community_profiles": {
+        "string": "邀请创作者到文件中以提供信用。创作者必须有社区资料。"
     },
-    "collaboration.branching_modal.tab_archived": {
-        "string": "Archived"
+    "community.publishing.invite_other_people_link": {
+        "string": "邀请其他人"
     }
 }

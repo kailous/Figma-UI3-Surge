@@ -1,152 +1,152 @@
 {
-    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.text": {
-        "string": "Ask an admin to upgrade this plan so you can use shared fonts."
+    "design_systems.libraries_modal.teams_with_libraries": {
+        "string": "拥有库的团队"
     },
-    "fullscreen.properties_panel.font_picker.org_consumption_modal.non_admin.cta": {
-        "string": "Got it"
+    "design_systems.libraries_modal.there_are_no_published_components_or_styles_in_your_team": {
+        "string": "团队中没有已发布的组件或样式。"
     },
-    "fullscreen.properties_panel.font_picker.org_upsell": {
-        "string": "Share fonts with everyone on your team with our Organization plan."
+    "design_systems.libraries_modal.there_are_no_published_styles_in_your_drafts": {
+        "string": "草稿中没有已发布的样式。"
     },
-    "fullscreen.properties_panel.font_picker.no_shared_fonts_orgname": {
-        "string": "Upload a shared font for anyone at {orgName} to use."
+    "design_systems.libraries_modal.this_action_will_remove_all_of_the_components_in_this_file_from_the_library": {
+        "string": "此操作将从库中删除此文件中的所有组件。"
     },
-    "fullscreen.properties_panel.font_picker.no_shared_fonts": {
-        "string": "Upload a shared font for anyone at your organization to use."
+    "design_systems.libraries_modal.top_teams": {
+        "string": "最活跃的团队"
     },
-    "fullscreen.properties_panel.font_picker.org_upsell.cta": {
-        "string": "Upgrade"
+    "design_systems.libraries_modal.total": {
+        "string": "总计"
     },
-    "fullscreen.properties_panel.font_picker.no_shared_fonts.cta": {
-        "string": "Learn more"
+    "design_systems.libraries_modal.total_components": {
+        "string": "组件总数"
     },
-    "fullscreen.properties_panel.font_picker.no_search_results": {
-        "string": "No matching fonts"
+    "design_systems.libraries_modal.total_instances": {
+        "string": "实例总数"
     },
-    "fullscreen.properties_panel.font_picker.no_fonts_in_current_set": {
-        "string": "No fonts found"
+    "design_systems.libraries_modal.total_libraries": {
+        "string": "库总数"
     },
-    "fullscreen.properties_panel.font_picker.title": {
-        "string": "Fonts"
+    "design_systems.libraries_modal.total_styles": {
+        "string": "样式总数"
     },
-    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.org": {
-        "string": "Used at {orgName}"
+    "design_systems.libraries_modal.total_teams": {
+        "string": "团队总数"
     },
-    "fullscreen.properties_panel.font_picker.font_set.shared_fonts.team": {
-        "string": "Used at {teamName}"
+    "design_systems.libraries_modal.total_variants": {
+        "string": "变体总数"
     },
-    "fullscreen.properties_panel.font_picker.font_set.all_fonts": {
-        "string": "All fonts"
+    "design_systems.libraries_modal.ui_kits": {
+        "string": "UI工具包"
     },
-    "fullscreen.properties_panel.font_picker.font_set.document_fonts": {
-        "string": "In this file"
+    "design_systems.libraries_modal.unpublish": {
+        "string": "取消发布"
     },
-    "fullscreen.properties_panel.font_picker.font_set.google_fonts": {
-        "string": "Google fonts"
+    "design_systems.libraries_modal.unpublishing": {
+        "string": "正在取消发布"
     },
-    "fullscreen.properties_panel.font_picker.font_set.popular_fonts": {
-        "string": "Popular fonts"
+    "design_systems.libraries_modal.updates": {
+        "string": "更新"
     },
-    "fullscreen.properties_panel.font_picker.font_set.shared_fonts": {
-        "string": "Shared fonts"
+    "design_systems.libraries_modal.upgrade_to_professional_plan": {
+        "string": "升级到专业版"
     },
-    "fullscreen.properties_panel.font_picker.font_set.user_installed_fonts": {
-        "string": "Installed by you"
+    "design_systems.libraries_modal.used_by": {
+        "string": "使用者"
     },
-    "fullscreen.properties_panel.font_picker.font_set.variable_fonts": {
-        "string": "Variable fonts"
+    "design_systems.libraries_modal.used_component": {
+        "string": "使用的组件"
     },
-    "fullscreen.properties_panel.font_picker.new_font_badge": {
-        "string": "New"
+    "design_systems.libraries_modal.used_in": {
+        "string": "使用在"
     },
-    "fullscreen.properties_panel.font_picker.search_fonts": {
-        "string": "Search fonts"
+    "design_systems.libraries_modal.used_in_this_file": {
+        "string": "在此文件中使用"
     },
-    "fullscreen.properties_panel.apply_variable": {
-        "string": "Apply variable"
+    "design_systems.libraries_modal.used_style": {
+        "string": "使用的样式"
     },
-    "fullscreen.mixed": {
-        "string": "Mixed"
+    "design_systems.libraries_modal.user_account_settings": {
+        "string": "用户账户设置"
     },
-    "fullscreen.grid_panel.auto": {
-        "string": " (auto)"
+    "design_systems.libraries_modal.variant_name": {
+        "string": "变体名称"
     },
-    "fullscreen.grid_panel.section_size_px": {
-        "string": "({sectionSize}px)"
+    "design_systems.libraries_modal.workspaces": {
+        "string": "工作区"
     },
-    "fullscreen.grid_panel.grid_size": {
-        "string": "Grid {sectionSize}px"
+    "design_systems.libraries_modal.x_changes": {
+        "string": "{numChanges, plural, other {{numChanges}处更改}}"
     },
-    "fullscreen.grid_panel.columns": {
-        "string": "Columns {suffix}"
+    "design_systems.libraries_modal.x_files_shown_open_teams_and_teams_you_re_on": {
+        "string": "显示了{fileCount, plural, other {{fileCount}个文件（开放团队和你所属的团队）。}}"
     },
-    "fullscreen.grid_panel.num_columns": {
-        "string": "{numColumns, plural, one {{numColumns} column {suffix}} other {{numColumns} columns {suffix}}}"
+    "design_systems.libraries_modal.year": {
+        "string": "年"
     },
-    "fullscreen.grid_panel.rows": {
-        "string": "Rows {suffix}"
+    "design_systems.libraries_modal.you_can_t_publish_from_branches": {
+        "string": "不能从分支发布。要发布更改，首先将更改合并到主文件，然后从主文件发布。"
     },
-    "fullscreen.grid_panel.num_rows": {
-        "string": "{numRows, plural, one {{numRows} row {suffix}} other {{numRows} rows {suffix}}}"
+    "design_systems.libraries_modal.your_teams": {
+        "string": "你的团队"
     },
-    "fullscreen.grid_panel.layout_grid": {
-        "string": "Layout grid"
+    "design_systems.playground.banner_content": {
+        "string": "你正在查看的是游乐场中的内容。在这里进行的更改不会影响实际的设计。"
     },
-    "fullscreen.grid_panel.layout_grid_settings": {
-        "string": "Layout grid settings"
+    "design_systems.playground.banner_header": {
+        "string": "随意尝试"
     },
-    "fullscreen.grid_panel.remove_layout_grid": {
-        "string": "Remove layout grid"
+    "design_systems.playground.change_background": {
+        "string": "更改背景"
     },
-    "fullscreen.grids_panel.grid_settings.size": {
-        "string": "Size"
+    "design_systems.playground.component_playground": {
+        "string": "组件游乐场"
     },
-    "fullscreen.grids_panel.grid_settings.color": {
-        "string": "Color"
+    "design_systems.playground.open_component_in_library": {
+        "string": "在库中打开组件"
     },
-    "fullscreen.grids_panel.grid_settings.count": {
-        "string": "Count"
+    "design_systems.playground.open_variant_in_library": {
+        "string": "在库中打开变体"
     },
-    "fullscreen.grids_panel.grid_settings.type": {
-        "string": "Type"
+    "design_systems.playground.reset_properties": {
+        "string": "重置属性"
     },
-    "fullscreen.grids_panel.grid_settings.gutter": {
-        "string": "Gutter"
+    "design_systems.playground.thumbnail_alt": {
+        "string": "游乐场缩略图"
     },
-    "fullscreen.grid_panel.grid": {
-        "string": "Grid"
+    "design_systems.playground.unable_to_load": {
+        "string": "无法加载"
     },
-    "fullscreen.grid_panel.columns_formatter": {
-        "string": "Columns"
+    "design_systems.playground.unable_to_load_help_text": {
+        "string": "发生了问题。请关闭此窗口，然后重新选择组件。"
     },
-    "fullscreen.grid_panel.rows_formatter": {
-        "string": "Rows"
+    "design_systems.playground.unable_to_load_thumbnail": {
+        "string": "无法加载缩略图"
     },
-    "fullscreen.grids_panel.grid_settings.width": {
-        "string": "Width"
+    "design_systems.playground.unable_to_load_thumbnail_help_hext": {
+        "string": "复杂组件的缩略图有时无法显示。"
     },
-    "fullscreen.grids_panel.grid_settings.height": {
-        "string": "Height"
+    "design_systems.playground.unable_to_load_while_offline": {
+        "string": "离线时无法加载"
     },
-    "fullscreen.grids_panel.grid_settings.margin": {
-        "string": "Margin"
+    "design_systems.playground.unable_to_load_while_offline_help_text": {
+        "string": "请重新连接以查看组件属性。"
     },
-    "fullscreen.grids_panel.grid_settings.offset": {
-        "string": "Offset"
+    "design_systems.playground.variable_modes_title": {
+        "string": "变量模式"
     },
-    "fullscreen.grids_panel.grid_settings.auto": {
-        "string": "Auto"
+    "design_systems.preset_libraries.tooltip.apple_license_info_v3": {
+        "string": "根据{appleLicenseLink}，此UI工具包由Apple授权。"
     },
-    "fullscreen.properties_panel.apply_variable_ellipses": {
-        "string": "Apply variable…"
+    "design_systems.preset_libraries.tooltip.apple_license_link": {
+        "string": "Apple设计资源使用许可协议"
     },
-    "fullscreen.grids_panel.grid_settings.left": {
-        "string": "Left"
+    "design_systems.preset_libraries.tooltip.figma_partner": {
+        "string": "此创作者是Figma合作伙伴"
     },
-    "fullscreen.grids_panel.grid_settings.top": {
-        "string": "Top"
+    "design_systems.preset_libraries.tooltip.figma_provided": {
+        "string": "此UI工具包由Figma提供"
     },
-    "fullscreen.grids_panel.grid_settings.right": {
-        "string": "Right"
+    "design_systems.preset_libraries.tooltip.google_license_info_v3": {
+        "string": "根据{googleLicenseLink}，此UI工具包由Google授权。"
     }
 }
