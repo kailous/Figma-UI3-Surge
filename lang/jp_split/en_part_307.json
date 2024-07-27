@@ -1,152 +1,152 @@
 {
     "templates.banner.made_by_you": {
-        "string": "あなたが作成しました。"
+        "string": "由您创建。"
     },
     "templates.banner.republish.made_by_publisher_name": {
-        "string": "{publisherName}が作成した"
+        "string": "由{publisherName}创建"
     },
     "templates.banner.republish.primary_text": {
-        "string": "未公開の変更"
+        "string": "未公开的更改"
     },
     "templates.banner.republish.republish_action": {
-        "string": "変更を公開"
+        "string": "公开更改"
     },
     "templates.banner.republish.secondary_text": {
-        "string": "これらの変更を公開してテンプレートを更新します。"
+        "string": "公开这些更改以更新模板。"
     },
     "templates.banner.republish.secondary_text_not_owner": {
-        "string": "このテンプレートの古いバージョンを引き続き使用できます。"
+        "string": "您仍然可以使用此模板的旧版本。"
     },
     "templates.banner.republish.you_re_viewing_a_template": {
-        "string": "表示しているのはテンプレートです。"
+        "string": "您正在查看一个模板。"
     },
     "templates.banner.republish.you_re_viewing_a_template_made_by_publisher_name": {
-        "string": "表示しているテンプレートは、{madeByPublisherName}"
+        "string": "您正在查看{madeByPublisherName}创建的模板"
     },
     "templates.confirmation.move_from_drafts.button": {
-        "string": "ファイルを移動"
+        "string": "移动文件"
     },
     "templates.confirmation.move_from_drafts.description": {
-        "string": "このファイルをテンプレートとして公開するには、ドラフトから移動する必要があります。"
+        "string": "要将此文件作为模板公开，需要将其从草稿中移出。"
     },
     "templates.confirmation.move_from_drafts.title": {
-        "string": "ドラフトから移動"
+        "string": "从草稿中移出"
     },
     "templates.confirmation.move_to_drafts.button_v2": {
-        "string": "移動と公開取り消し"
+        "string": "移动并取消公开"
     },
     "templates.confirmation.move_to_drafts.description": {
-        "string": "このファイルをドラフトに移動すると、チームのテンプレートから削除されます。"
+        "string": "将此文件移动到草稿中会将其从团队的模板中删除。"
     },
     "templates.confirmation.move_to_drafts.description.multiselect_v2": {
-        "string": "ファイルの一部はテンプレートです。ドラフトに移動すると、チームのテンプレートから削除されます。"
+        "string": "部分文件为模板。移动到草稿中会将其从团队的模板中删除。"
     },
     "templates.confirmation.move_to_drafts.title": {
-        "string": "{count, plural, other {テンプレートを非公開にしますか?}}"
+        "string": "{count, plural, other {取消公开这些模板？}}"
     },
     "templates.confirmation.publish.secret.confirm.publish_anyway": {
-        "string": "公開"
+        "string": "公开"
     },
     "templates.confirmation.publish.secret.description": {
-        "string": "{teamName}はシークレットチームです。このテンプレートを公開すると、{orgName}のメンバーがこのチームの名前を見ることができます。"
+        "string": "{teamName}是一个秘密团队。公开此模板将允许{orgName}的成员查看此团队的名称。"
     },
     "templates.confirmation.publish.secret.title_v2": {
-        "string": "シークレットチームの名前が明かされます"
+        "string": "秘密团队的名称将被公开"
     },
     "templates.confirmation.unpublish.description_v2": {
-        "string": "{templateName}がチームのテンプレートから削除されますが、ファイルそのものは削除されません。"
+        "string": "{templateName}将从团队的模板中删除，但文件本身不会被删除。"
     },
     "templates.confirmation.unpublish.title": {
-        "string": "テンプレートの公開を取り消しますか?"
+        "string": "取消模板的公开？"
     },
     "templates.detail.publish_button": {
-        "string": "更新内容を公開"
+        "string": "公开更新内容"
     },
     "templates.detail.published_time": {
-        "string": "{time}に更新済み"
+        "string": "已于{time}更新"
     },
     "templates.detail.unpublish_button": {
-        "string": "公開を取り消す"
+        "string": "取消公开"
     },
     "templates.move_from_drafts.bell.action": {
-        "string": "テンプレートを公開"
+        "string": "公开模板"
     },
     "templates.publishing.bell.failure": {
-        "string": "テンプレートの公開に失敗しました"
+        "string": "模板公开失败"
     },
     "templates.publishing.bell.success": {
-        "string": "テンプレートを公開済み"
+        "string": "模板已公开"
     },
     "templates.publishing.bell.updated": {
-        "string": "テンプレートを更新済み"
+        "string": "模板已更新"
     },
     "templates.publishing.description.placeholder": {
-        "string": "このテンプレートの目的は?"
+        "string": "此模板的目的是什么？"
     },
     "templates.publishing.header": {
-        "string": "テンプレートを公開"
+        "string": "公开模板"
     },
     "templates.publishing.header.updates": {
-        "string": "更新を公開"
+        "string": "公开更新"
     },
     "templates.publishing.publish": {
-        "string": "公開"
+        "string": "公开"
     },
     "templates.publishing.publish.updates": {
-        "string": "更新を公開"
+        "string": "公开更新"
     },
     "templates.publishing.restore_default_thumbnail": {
-        "string": "デフォルトのサムネイルを復元"
+        "string": "恢复默认缩略图"
     },
     "templates.publishing.scope.label": {
-        "string": "公開先"
+        "string": "公开范围"
     },
     "templates.publishing.scope.organization": {
-        "string": "組織全体"
+        "string": "整个组织"
     },
     "templates.publishing.scope.team": {
-        "string": "現在のチーム"
+        "string": "当前团队"
     },
     "templates.publishing.thumbnail_size_dimension_spec": {
-        "string": "サイズ: 1920x960"
+        "string": "尺寸：1920x960"
     },
     "templates.publishing.upload_custom_thumbnail": {
-        "string": "カスタムサムネイルをアップロード"
+        "string": "上传自定义缩略图"
     },
     "templates.unpublishing.bell.failure": {
-        "string": "テンプレートの公開を取り消せませんでした"
+        "string": "无法取消模板的公开"
     },
     "templates.unpublishing.bell.success": {
-        "string": "テンプレートの公開を取り消しました"
+        "string": "模板公开已取消"
     },
     "textreview.also_turn_off_figma_spell_check": {
-        "string": "Figmaのスペルチェックもオフにする"
+        "string": "同时关闭Figma拼写检查"
     },
     "textreview.as_you_type_plugin_name_will_review_your_text_and_provide_suggestions": {
-        "string": " 入力中に、{pluginName}はテキストを確認して入力候補を表示します。"
+        "string": "输入时，{pluginName}将检查文本并提供建议。"
     },
     "textreview.use_plugin_name_confirm": {
-        "string": "{pluginName}を使用"
+        "string": "使用{pluginName}"
     },
     "textreview.use_plugin_name_confirm_default": {
-        "string": "プラグインを使用"
+        "string": "使用插件"
     },
     "textreview.use_plugin_name_title": {
-        "string": "{pluginName}を使用しますか?"
+        "string": "要使用{pluginName}吗？"
     },
     "textreview.use_plugin_name_title_default": {
-        "string": "プラグインを使用しますか?"
+        "string": "要使用此插件吗？"
     },
     "swy_tile.shared": {
-        "string": "共有済み"
+        "string": "已共享"
     },
     "swy_tile.shared_date": {
-        "string": "{shared_date}に共有"
+        "string": "已于{shared_date}共享"
     },
     "team_tile.guest.no_teams.info": {
-        "string": "{orgName}のどのチームのメンバーでもありません。"
+        "string": "您不是{orgName}的任何团队成员。"
     },
     "team_tile.members_count": {
-        "string": "{numMembers, plural, other {{numMembers}メンバー}}"
+        "string": "{numMembers, plural, other {{numMembers}位成员}}"
     }
 }

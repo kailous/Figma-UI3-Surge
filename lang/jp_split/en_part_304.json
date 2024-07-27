@@ -1,152 +1,152 @@
 {
     "team_view.grant_figjam_edit_status.seat_rename": {
-        "string": "FigJamへのフルアクセスを付与しますか?"
+        "string": "授予FigJam的完全访问权限？"
     },
     "team_view.invoices": {
-        "string": "請求書"
+        "string": "发票"
     },
     "team_view.invoices.annual_team": {
-        "string": "プロフェッショナルチーム(年間)"
+        "string": "专业团队（年度）"
     },
     "team_view.invoices.monthly_team": {
-        "string": "プロフェッショナルチーム(月間)"
+        "string": "专业团队（月度）"
     },
     "team_view.invoices.status.draft": {
-        "string": "ドラフト"
+        "string": "草稿"
     },
     "team_view.invoices.status.open": {
-        "string": "未処理"
+        "string": "未处理"
     },
     "team_view.invoices.status.paid": {
-        "string": "支払い済み"
+        "string": "已支付"
     },
     "team_view.invoices.status.processing": {
-        "string": "処理中"
+        "string": "处理中"
     },
     "team_view.invoices.status.uncollectible": {
-        "string": "回収不能"
+        "string": "不可收回"
     },
     "team_view.invoices.status.void": {
-        "string": "無効"
+        "string": "无效"
     },
     "team_view.invoices_table.date": {
-        "string": "日付"
+        "string": "日期"
     },
     "team_view.invoices_table.description": {
-        "string": "説明"
+        "string": "描述"
     },
     "team_view.invoices_table.design_editor_seats.seat_rename": {
-        "string": "デザインシート数"
+        "string": "设计席位数"
     },
     "team_view.invoices_table.fig_jam_editor_seats.seat_rename": {
-        "string": "FigJamシート数"
+        "string": "FigJam席位数"
     },
     "team_view.invoices_table.invoice_total": {
-        "string": "請求合計額"
+        "string": "发票总额"
     },
     "team_view.invoices_table.status": {
-        "string": "ステータス"
+        "string": "状态"
     },
     "team_view.invoices_table.view_invoice": {
-        "string": "請求書を表示"
+        "string": "查看发票"
     },
     "team_view.learn_more.seat_rename": {
-        "string": "有料シートの詳細情報"
+        "string": "了解付费席位的更多信息"
     },
     "team_view.member_edit_access_modal.all_design_files": {
-        "string": "すべてのデザインファイル"
+        "string": "所有设计文件"
     },
     "team_view.member_edit_access_modal.all_figjam_files": {
-        "string": "すべてのFigJamファイル"
+        "string": "所有FigJam文件"
     },
     "team_view.member_edit_access_modal.all_files": {
-        "string": "すべて"
+        "string": "所有文件"
     },
     "team_view.member_edit_access_modal.all_projects": {
-        "string": "すべて"
+        "string": "所有项目"
     },
     "team_view.member_edit_access_modal.files_title": {
-        "string": "編集アクセス権があるファイル"
+        "string": "具有编辑权限的文件"
     },
     "team_view.member_edit_access_modal.invite_only_files": {
-        "string": "{numFiles, plural, other {{numFiles}個の招待限定ファイル}}"
+        "string": "{numFiles, plural, other {仅邀请的{numFiles}个文件}}"
     },
     "team_view.member_edit_access_modal.invite_only_files_list_end": {
-        "string": "{numFiles, plural, other {および{numFiles}個の招待限定ファイル}}"
+        "string": "{numFiles, plural, other {和仅邀请的{numFiles}个文件}}"
     },
     "team_view.member_edit_access_modal.invite_only_projects": {
-        "string": "{numProjects, plural, other {{numProjects}個の招待限定プロジェクト}}"
+        "string": "{numProjects, plural, other {仅邀请的{numProjects}个项目}}"
     },
     "team_view.member_edit_access_modal.invite_only_projects_list_end": {
-        "string": "{numProjects, plural, other {および{numProjects}個の招待限定ファイル}}"
+        "string": "{numProjects, plural, other {和仅邀请的{numProjects}个文件}}"
     },
     "team_view.member_edit_access_modal.none_files": {
-        "string": "なし"
+        "string": "无"
     },
     "team_view.member_edit_access_modal.none_projects": {
-        "string": "なし"
+        "string": "无"
     },
     "team_view.member_edit_access_modal.projects_title": {
-        "string": "編集アクセス権のあるプロジェクト"
+        "string": "具有编辑权限的项目"
     },
     "team_view.member_edit_access_modal.title": {
-        "string": "{memberName}の編集アクセス権"
+        "string": "{memberName}的编辑权限"
     },
     "team_view.page_header_dropdown_label": {
-        "string": "チームのドロップダウンを開く"
+        "string": "打开团队下拉菜单"
     },
     "team_view.pro_member_modal.edit_table_file_header": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "team_view.pro_member_modal.edit_table_last_active_header": {
-        "string": "最終アクティブ"
+        "string": "最后活跃"
     },
     "team_view.pro_member_modal.edit_table_product_header": {
-        "string": "製品"
+        "string": "产品"
     },
     "team_view.pro_member_modal.error_on_activity_retrieval_fallback_message": {
-        "string": "最新のアクティビティーを取得中にエラーが発生しました。"
+        "string": "获取最新活动时出错。"
     },
     "team_view.pro_member_modal.file_inaccessible_tooltip_warning": {
-        "string": "ファイルの権限が原因でこのファイルにアクセスできません。"
+        "string": "由于文件权限，无法访问此文件。"
     },
     "team_view.pro_member_modal.no_activity_found": {
-        "string": "アクティビティーが見つかりませんでした"
+        "string": "未找到活动"
     },
     "team_view.pro_member_modal.title_with_username": {
-        "string": "{username}の最近のアクティビティー"
+        "string": "{username}的最近活动"
     },
     "team_view.pro_member_modal.title_without_username": {
-        "string": "最近のアクティビティー"
+        "string": "最近活动"
     },
     "team_view.pro_trials.feature_awareness_banner.audio": {
-        "string": "ファイルの音声チャットを開始"
+        "string": "在文件中开始语音聊天"
     },
     "team_view.pro_trials.feature_awareness_banner.collaboration": {
-        "string": "サインアップせずにコラボレーション"
+        "string": "无需注册即可协作"
     },
     "team_view.pro_trials.feature_awareness_banner.component_libraries": {
-        "string": "コンポーネントライブラリ"
+        "string": "组件库"
     },
     "team_view.pro_trials.feature_awareness_banner.consumption_limit": {
-        "string": "ファイルとプロジェクトの数が無制限"
+        "string": "文件和项目数量无限制"
     },
     "team_view.pro_trials.feature_awareness_banner.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "team_view.pro_trials.feature_awareness_banner.password_protection": {
-        "string": "非常に安全なパスワード保護"
+        "string": "高度安全的密码保护"
     },
     "team_view.pro_trials.feature_awareness_banner.title": {
-        "string": "プロフェッショナルプランの機能の一例:"
+        "string": "专业计划的功能示例："
     },
     "team_view.pro_trials.feature_awareness_banner.voting": {
-        "string": "アイデアを投票で決める"
+        "string": "通过投票决定想法"
     },
     "team_view.remove.seat_rename": {
-        "string": "ダウングレード"
+        "string": "降级"
     },
     "team_view.remove_design_edit_status.seat_rename": {
-        "string": "Figmaデザインのアクセス権をダウングレードしますか?"
+        "string": "是否降级Figma设计的访问权限？"
     }
 }

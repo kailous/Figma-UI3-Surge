@@ -1,152 +1,152 @@
 {
     "team_tile.no_teams.create_team_button": {
-        "string": "チームを新規作成"
+        "string": "新建团队"
     },
     "team_tile.no_teams.empty_workspace": {
-        "string": "ワークスペースのセットアップが完了していないようです。チーム、プロジェクト、ファイルが追加されてから、もう一度確認してください。"
+        "string": "工作区尚未设置完成。请在添加团队、项目和文件后再试。"
     },
     "team_tile.no_teams.info": {
-        "string": "コラボレーターや進行中のプロジェクトが既にありますか? チームを作成すると、ファイルを整理し、作業を簡単に共有できるようになります。"
+        "string": "已有协作者或正在进行的项目吗？创建团队可帮助您组织文件并轻松共享工作。"
     },
     "team_tile.no_teams.title": {
-        "string": "チームがまだありません"
+        "string": "尚未有团队"
     },
     "team_tile.shared_by": {
-        "string": "{shared_by_text}から"
+        "string": "由{shared_by_text}共享"
     },
     "team_tile.shared_with_you.no_teams.info": {
-        "string": "共有されているチームはありません。"
+        "string": "没有与您共享的团队。"
     },
     "tile.branching.create_new_branch": {
-        "string": "新しいブランチを作成"
+        "string": "创建新分支"
     },
     "tile.branching.see_all_branches": {
-        "string": "すべてのブランチを表示"
+        "string": "查看所有分支"
     },
     "tile.copy_link.action_description": {
-        "string": "このアイテムを共有するには、リンクをコピーしてください。"
+        "string": "要共享此项目，请复制链接。"
     },
     "tile.copy_link.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "tile.dropdown.copy_link": {
-        "string": "リンクのコピー"
+        "string": "复制链接"
     },
     "tile.dropdown.create_new_branch": {
-        "string": "新しいブランチの作成"
+        "string": "创建新分支"
     },
     "tile.dropdown.delete_file": {
-        "string": "{objText}の削除"
+        "string": "删除{objText}"
     },
     "tile.dropdown.delete_file_and_branches": {
-        "string": "ファイルとブランチを削除"
+        "string": "删除文件和分支"
     },
     "tile.dropdown.delete_forever": {
-        "string": "{objectText}を完全に削除"
+        "string": "永久删除{objectText}"
     },
     "tile.dropdown.delete_single_tile": {
-        "string": "削除"
+        "string": "删除"
     },
     "tile.dropdown.duplicate": {
-        "string": "{objText}の複製"
+        "string": "复制{objText}"
     },
     "tile.dropdown.duplicate_single_tile": {
-        "string": "複製"
+        "string": "复制"
     },
     "tile.dropdown.duplicate_to_draft": {
-        "string": "{objText}をドラフトに複製"
+        "string": "复制{objText}到草稿"
     },
     "tile.dropdown.duplicate_to_draft_single_file_or_repo": {
-        "string": "ドラフトに複製"
+        "string": "复制到草稿"
     },
     "tile.dropdown.edit_workspace_pin": {
-        "string": "ワークスペースピンを編集"
+        "string": "编辑工作区固定项"
     },
     "tile.dropdown.manage_template": {
-        "string": "テンプレートを管理"
+        "string": "管理模板"
     },
     "tile.dropdown.move_file": {
-        "string": "ファイルを移動..."
+        "string": "移动文件..."
     },
     "tile.dropdown.move_file_and_branches_to_trash": {
-        "string": "ファイルとブランチをごみ箱に移動"
+        "string": "将文件和分支移动到垃圾桶"
     },
     "tile.dropdown.multiple_file_suffix": {
-        "string": " {totalSelected}ファイル"
+        "string": " {totalSelected}个文件"
     },
     "tile.dropdown.no_permission_to_delete_error": {
-        "string": "これらのファイルを削除する権限がありません。"
+        "string": "您没有删除这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_delete_error_updated": {
-        "string": "{numFiles, plural, other {これらのファイルを削除する権限がありません。}}"
+        "string": "您没有删除这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_restore_error": {
-        "string": "これらのファイルを復元する権限がありません。"
+        "string": "您没有恢复这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_restore_error_updated": {
-        "string": "{numFiles, plural, other {これらのファイルを復元する権限がありません。}}"
+        "string": "您没有恢复这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_trash_error": {
-        "string": "これらのファイルをごみ箱に移動する権限がありません。"
+        "string": "您没有将这些文件移到垃圾桶的权限。"
     },
     "tile.dropdown.no_permission_to_trash_error_updated": {
-        "string": "{numFiles, plural, other {これらのファイルをごみ箱に移動する権限がありません。}}"
+        "string": "您没有将这些文件移到垃圾桶的权限。"
     },
     "tile.dropdown.open": {
-        "string": "開く"
+        "string": "打开"
     },
     "tile.dropdown.open_new_tab": {
-        "string": "新しいタブで開く"
+        "string": "在新标签页中打开"
     },
     "tile.dropdown.pin_to_project": {
-        "string": "プロジェクトにピン留め"
+        "string": "固定到项目"
     },
     "tile.dropdown.pin_to_workspace": {
-        "string": "ワークスペースにピン留め"
+        "string": "固定到工作区"
     },
     "tile.dropdown.publish_as_template": {
-        "string": "テンプレートを公開..."
+        "string": "发布为模板..."
     },
     "tile.dropdown.remove_from_recent_pluralized": {
-        "string": "{numFiles, plural, other {最近の項目から{numFiles}項目を削除}}"
+        "string": "从最近的项目中移除{numFiles}项"
     },
     "tile.dropdown.remove_project_pin": {
-        "string": "プロジェクトピンを削除"
+        "string": "移除项目固定项"
     },
     "tile.dropdown.remove_workspace_pin": {
-        "string": "ワークスペースピンを削除"
+        "string": "移除工作区固定项"
     },
     "tile.dropdown.rename": {
-        "string": "名前の変更"
+        "string": "重命名"
     },
     "tile.dropdown.rename_file": {
-        "string": "ファイル名を変更"
+        "string": "重命名文件"
     },
     "tile.dropdown.restore": {
-        "string": "{numFiles, plural, other {{objectText}を復元}}"
+        "string": "恢复{objectText}"
     },
     "tile.dropdown.restore_from_version": {
-        "string": "バージョンから復元"
+        "string": "从版本恢复"
     },
     "tile.dropdown.share": {
-        "string": "共有"
+        "string": "共享"
     },
     "tile.dropdown.show_in_project": {
-        "string": "プロジェクトに表示"
+        "string": "在项目中显示"
     },
     "tile.dropdown.trash_file": {
-        "string": "{objText}をごみ箱に移動"
+        "string": "将{objText}移到垃圾桶"
     },
     "tile.dropdown.trash_single_tile": {
-        "string": "ごみ箱に移動"
+        "string": "移到垃圾桶"
     },
     "tile.dropdown.unpublish_template": {
-        "string": "テンプレートを公開取り消し"
+        "string": "取消模板发布"
     },
     "tile.dropdown.update_template": {
-        "string": "変更を公開…"
+        "string": "发布更改..."
     },
     "tile.dropdown.use_in_new_file": {
-        "string": "新しいファイルで使用"
+        "string": "在新文件中使用"
     }
 }

@@ -1,152 +1,152 @@
 {
     "team_view.remove_figjam_edit_status.seat_rename": {
-        "string": "FigJamのアクセス権をダウングレードしますか?"
+        "string": "降级FigJam的访问权限吗？"
     },
     "team_view.remove_members_modal.confirmation": {
-        "string": "削除"
+        "string": "删除"
     },
     "team_view.remove_members_modal.confirmed_role_removal_copy": {
-        "string": "{member_count, plural, other {この{member_count}人のユーザーは、 {team_name}とその内部のチームリソース(ドラフトフォルダ、すべてのプロジェクト、ファイルを含む)にアクセスできなくなります。}}"
+        "string": "{member_count, plural, other {这些{member_count}名用户将无法访问{team_name}及其内部的团队资源（包括草稿文件夹、所有项目和文件）。}}"
     },
     "team_view.remove_members_modal.pending_role_removal_copy": {
-        "string": "{member_count, plural, other {この{member_count}人のユーザーは、 {team_name}にアクセスできなくなります。プロジェクトやファイルなどのチームリソースには引き続きアクセスできる可能性があります。}}"
+        "string": "{member_count, plural, other {这些{member_count}名用户将无法访问{team_name}。他们可能仍然可以访问项目和文件等团队资源。}}"
     },
     "team_view.remove_members_modal.title": {
-        "string": "{member_count, plural, other {{member_count}ユーザーを削除しますか?}}"
+        "string": "{member_count, plural, other {删除{member_count}名用户吗？}}"
     },
     "team_view.request_upgrade.request_already_sent": {
-        "string": "アップグレード申請送信済み"
+        "string": "升级请求已发送"
     },
     "team_view.search_bar.search_members_with_ellipsis": {
-        "string": "メンバーを検索..."
+        "string": "搜索成员..."
     },
     "team_view.settings.change_role.seat_rename": {
-        "string": "シートを変更"
+        "string": "更改席位"
     },
     "team_view.settings.copy_email": {
-        "string": "メールをコピー"
+        "string": "复制邮箱"
     },
     "team_view.settings.copy_get_plural_or_singular_selected_members_length_email": {
-        "string": "{numEmails, plural, other {メールをコピー}}"
+        "string": "{numEmails, plural, other {复制邮箱}}"
     },
     "team_view.settings.invite_to_team": {
-        "string": "チームに招待"
+        "string": "邀请到团队"
     },
     "team_view.settings.leave_team": {
-        "string": "チームを脱退"
+        "string": "离开团队"
     },
     "team_view.settings.pending": {
-        "string": "保留中"
+        "string": "待处理"
     },
     "team_view.settings.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "team_view.settings.resend_invite": {
-        "string": "招待を再送信"
+        "string": "重新发送邀请"
     },
     "team_view.settings.see_edit_access": {
-        "string": "編集アクセス権の表示"
+        "string": "查看编辑访问权限"
     },
     "team_view.settings.view_admin_console": {
-        "string": "管理者ビューに移動"
+        "string": "查看管理员控制台"
     },
     "team_view.settings.view_settings": {
-        "string": "設定を表示"
+        "string": "查看设置"
     },
     "team_view.settings.you_can_only_remove_limit_users_at_a_time": {
-        "string": "一度に削除できるユーザーは最大{batchLimit}人です。"
+        "string": "一次最多可以删除{batchLimit}个用户。"
     },
     "team_view.settings_table.add_annual_seats": {
-        "string": "別のシートを追加"
+        "string": "添加年度席位"
     },
     "team_view.settings_table.add_annual_seats_description": {
-        "string": "FigmaデザインとFigJamの別の年間シートを追加"
+        "string": "添加Figma设计和FigJam的年度席位"
     },
     "team_view.settings_table.billing_date": {
         "string": "{billing_date}"
     },
     "team_view.settings_table.delete_team": {
-        "string": "チームの削除"
+        "string": "删除团队"
     },
     "team_view.settings_table.delete_team_description": {
-        "string": "このチームとその中のすべてのリソースを完全に削除します"
+        "string": "完全删除此团队及其所有资源"
     },
     "team_view.settings_table.multiple_subscription_renewal": {
-        "string": "月間サブスクリプションが{monthly_billing_date}に、年間サブスクリプションが{annual_billing_date}にそれぞれ更新されます。更新前に改めてお知らせいたします。"
+        "string": "月度订阅将在{monthly_billing_date}更新，年度订阅将在{annual_billing_date}更新。我们会在更新前通知您。"
     },
     "team_view.settings_table.renewal_information_canceled_team_annual": {
-        "string": "プロフェッショナルの年間サブスクリプションがキャンセルされました"
+        "string": "专业年度订阅已取消"
     },
     "team_view.settings_table.renewal_information_canceled_team_annual_and_monthly": {
-        "string": "プロフェッショナルの月間および年間のサブスクリプションがキャンセルされました"
+        "string": "专业月度和年度订阅已取消"
     },
     "team_view.settings_table.renewal_information_canceled_team_monthly": {
-        "string": "プロフェッショナルの月間サブスクリプションがキャンセルされました"
+        "string": "专业月度订阅已取消"
     },
     "team_view.settings_table.single_subscription_renewal_annual": {
-        "string": "現在の年間サブスクリプションの更新日は{billing_date}です。更新前に改めてお知らせいたします。"
+        "string": "当前年度订阅的更新日期为{billing_date}。我们会在更新前通知您。"
     },
     "team_view.settings_table.single_subscription_renewal_monthly": {
-        "string": "現在の月間サブスクリプションの更新日は{billing_date}です。更新前に改めてお知らせいたします。"
+        "string": "当前月度订阅的更新日期为{billing_date}。我们会在更新前通知您。"
     },
     "team_view.settings_table.update_invoice_details.error.legal_name_and_shipping_address_required": {
-        "string": "法人名と配送先住所の両方が必要です。"
+        "string": "需要法人名称和送货地址。"
     },
     "team_view.settings_table.update_invoice_details.invoice_details": {
-        "string": "請求書の詳細"
+        "string": "发票详细信息"
     },
     "team_view.settings_table.update_invoice_details.modal_description": {
-        "string": "請求書に表示される名前と住所を更新します。"
+        "string": "更新发票上显示的名称和地址。"
     },
     "team_view.settings_table.update_invoice_details.modal_title": {
-        "string": "請求書の詳細を更新"
+        "string": "更新发票详细信息"
     },
     "team_view.settings_table.update_invoice_details.update_invoice_details": {
-        "string": "請求書に表示される法人名と配送先住所を更新します。"
+        "string": "更新发票上显示的法人名称和送货地址。"
     },
     "team_view.settings_table.update_payment_details.payment_details": {
-        "string": "支払い情報"
+        "string": "支付信息"
     },
     "team_view.settings_table.update_payment_details.update_payment_method": {
-        "string": "登録されている支払い方法と請求先住所を更新します。"
+        "string": "更新注册的支付方式和账单地址。"
     },
     "team_view.starter_team.num_of_figjam_files_user": {
-        "string": "{maxFreeFiles, plural, other {{maxFreeFiles}個中{numFigjamFilesUsed}個のFigJamファイルが使用されています}}"
+        "string": "{maxFreeFiles, plural, other {已使用{maxFreeFiles}个FigJam文件中的{numFigjamFilesUsed}个}}"
     },
     "team_view.starter_team.num_of_figma_files_user": {
-        "string": "{maxFreeFiles, plural, other {{maxFreeFiles}個中{numFigmaFilesUsed}個のFigmaファイルが使用されています}}"
+        "string": "{maxFreeFiles, plural, other {已使用{maxFreeFiles}个Figma文件中的{numFigmaFilesUsed}个}}"
     },
     "team_view.team_members_table.default_empty_state": {
-        "string": "チームにまだメンバーがいません。"
+        "string": "团队中还没有成员。"
     },
     "team_view.team_members_table.filters.last_active..more_than_30_days_ago": {
-        "string": "30日間よりも前"
+        "string": "30天前"
     },
     "team_view.team_members_table.filters.last_active..more_than_3_months_ago": {
-        "string": "3か月間よりも前"
+        "string": "3个月前"
     },
     "team_view.team_members_table.filters.last_active..more_than_7_days_ago": {
-        "string": "7日間よりも前"
+        "string": "7天前"
     },
     "team_view.team_members_table.filters.permissions.admin": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "team_view.team_members_table.filters.permissions.can_edit": {
-        "string": "編集可"
+        "string": "可编辑"
     },
     "team_view.team_members_table.filters.permissions.can_view": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "team_view.team_members_table.filters.permissions.no_team_permissions": {
-        "string": "チーム権限なし"
+        "string": "无团队权限"
     },
     "team_view.team_members_table.filters.permissions.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "team_view.team_members_table.member_filter_empty_reset_link": {
-        "string": "フィルターをリセット"
+        "string": "重置过滤器"
     },
     "team_view.team_members_table.member_filter_empty_state": {
-        "string": " 表示するメンバーがいません。{reset_link}"
+        "string": "没有成员显示。{reset_link}"
     }
 }

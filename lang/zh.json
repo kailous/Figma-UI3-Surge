@@ -34650,1354 +34650,1354 @@
         "string": "获取发票时出错。"
     },
     "join_team_batch_flash.as_admin.text": {
-        "string": "{teamCount, plural, other {{teamCount}チームの管理者になりました}}"
+        "string": "{teamCount, plural, other {{teamCount}个团队的管理员}}"
     },
     "join_team_batch_flash.as_owner.text": {
-        "string": "{teamCount, plural, other {{teamCount}チームのオーナーになりました}}"
+        "string": "{teamCount, plural, other {{teamCount}个团队的所有者}}"
     },
     "join_team_batch_flash.text": {
-        "string": "{teamCount, plural, other {{teamCount}チームのメンバーになりました}}"
+        "string": "{teamCount, plural, other {{teamCount}个团队的成员}}"
     },
     "join_team_flash.as_admin.text": {
-        "string": "{teamName}の管理者になりました"
+        "string": "已成为{teamName}的管理员"
     },
     "join_team_flash.as_owner.text": {
-        "string": "{teamName}のオーナーになりました"
+        "string": "已成为{teamName}的所有者"
     },
     "join_team_flash.auto_accept_team_invite_modal": {
-        "string": "{teamName}への{inviteType}アクセス権を取得しました。"
+        "string": "已获得{teamName}的{inviteType}访问权限。"
     },
     "join_team_flash.text": {
-        "string": "{teamName}のメンバーになりました"
+        "string": "已成为{teamName}的成员"
     },
     "leave_team_modal.post_leave_flash": {
-        "string": "{teamName}チームを脱退しました"
+        "string": "已退出{teamName}团队"
     },
     "team_admin.members_tab.invite_users": {
-        "string": "ユーザーを招待"
+        "string": "邀请用户"
     },
     "team_admin_authority_overlay.description": {
-        "string": "管理者として行うすべての変更がチーム全体に適用されます。あなたは、チームを代表して行動する権限があることを表明および保証するものとします。"
+        "string": "作为管理员所做的所有更改将应用于整个团队。您声明并保证您有权代表团队行事。"
     },
     "team_admin_authority_overlay.title": {
-        "string": "管理者への注: "
+        "string": "管理员注意："
     },
     "team_delete_modal.cancel_to_delete_team": {
-        "string": "チーム{teamName}を削除するには、まずプロフェッショナルサブスクリプションをキャンセルする必要があります。"
+        "string": "要删除团队{teamName}，请先取消专业订阅。"
     },
     "team_delete_modal.days_for_team_deletion_undo": {
-        "string": "{numDays}日間"
+        "string": "{numDays}天"
     },
     "team_delete_modal.days_to_undo_deletion": {
-        "string": "メールに送信される指示に従って、この操作を取り消すには{numDays}日かかります。"
+        "string": "按照发送到您的电子邮件中的指示，撤销此操作需要{numDays}天。"
     },
     "team_delete_modal.delete_team": {
-        "string": "チームの削除"
+        "string": "删除团队"
     },
     "team_delete_modal.delete_this_props_team_name": {
-        "string": "{teamName}を削除しますか?"
+        "string": "删除{teamName}?"
     },
     "team_delete_modal.deleting_last_team_notice": {
-        "string": "{notice}このチームは、お客様の唯一のチームです。削除すると、チームおよびファイルの整理方法のFigmaによる更新の一環として、お客様は自動的に作成された新規のチームに転送されます。"
+        "string": "{notice}这是您唯一的团队。删除后，作为Figma更新团队和文件组织方法的一部分，您将被转移到自动创建的新团队。"
     },
     "team_delete_modal.dismiss": {
-        "string": "却下"
+        "string": "忽略"
     },
     "team_delete_modal.post_delete_flash": {
-        "string": "{teamName}チームを削除しました"
+        "string": "已删除{teamName}团队"
     },
     "team_delete_modal.pro_plan_cancel_modal_header": {
-        "string": "アクションが必要"
+        "string": "需要操作"
     },
     "team_delete_modal.proceed_to_cancel": {
-        "string": "キャンセルに進みます..."
+        "string": "继续取消..."
     },
     "team_delete_modal.starter_pro_warning_confirmation_text": {
-        "string": "これにより、{teamName}チームが完全に削除されます。このチームを削除すると、すべてのユーザーのドラフト、プロジェクト、ファイル、プロトタイプなど、関連するすべてのデータが削除されます。"
+        "string": "这将完全删除{teamName}团队。删除该团队将删除所有用户的草稿、项目、文件、原型等所有相关数据。"
     },
     "team_delete_modal.team_draft_file_count": {
-        "string": "{numDrafts, plural, other {{numDrafts}個のドラフトファイル}}"
+        "string": "{numDrafts, plural, other {{numDrafts}个草稿文件}}"
     },
     "team_delete_modal.team_project_count": {
-        "string": "{numProjects, plural, other {{numProjects}件のプロジェクト}}"
+        "string": "{numProjects, plural, other {{numProjects}个项目}}"
     },
     "team_delete_modal.team_project_file_count": {
-        "string": "{numFiles, plural, other {{projectCount}内の{numFiles}個のファイル}}"
+        "string": "{numFiles, plural, other {{projectCount}个项目中的{numFiles}个文件}}"
     },
     "team_delete_modal.this_includes": {
-        "string": "これには以下が含まれます："
+        "string": "包括以下内容："
     },
     "team_delete_modal.to_confirm_please_enter_the_name_of_the_team": {
-        "string": "確認するには、チームの名前を入力してください。"
+        "string": "确认请键入团队名称。"
     },
     "team_delete_modal.warning_confirmation_text": {
-        "string": "これにより、{teamName}チームが完全に削除されます。このチームを削除すると、すべてのユーザーのプロジェクト、ファイル、プロトタイプなど、関連するすべてのデータが削除されます。"
+        "string": "这将完全删除{teamName}团队。删除该团队将删除所有用户的项目、文件、原型等所有相关数据。"
     },
     "team_delete_modal.warning_note": {
-        "string": "注:"
+        "string": "注意："
     },
     "visual_bell.team_billing_contact_updated": {
-        "string": "請求連絡先が更新されました。"
+        "string": "账单联系人已更新。"
     },
     "team_creation_speed_bump.body.best_way_to_organize_team_projects": {
-        "string": "仕事をあちこち置かずに、チームプロジェクトにまとめましょう。"
+        "string": "将工作集中在团队项目中，而不是分散放置。"
     },
     "team_creation_speed_bump.body.set_permissions": {
-        "string": "柔軟性のあるプロジェクト権限"
+        "string": "灵活的项目权限"
     },
     "team_creation_speed_bump.body.unlimited_files": {
-        "string": "ファイルとプロジェクトの数が無制限"
+        "string": "文件和项目数量不限"
     },
     "team_creation_speed_bump.body.upgrade_a_team": {
-        "string": "チームを次の有料プランにアップグレード:"
+        "string": "将团队升级到下一个付费计划："
     },
     "team_creation_speed_bump.body.viewers_and_commenters": {
-        "string": "閲覧者とコメント投稿者の人数が無制限"
+        "string": "查看者和评论者数量不限"
     },
     "team_creation_speed_bump.footer.checkbox_text": {
-        "string": "今後このメッセージを表示しない"
+        "string": "今后不再显示此消息"
     },
     "team_creation_speed_bump.footer.create_team_button.text": {
-        "string": "チームを作成"
+        "string": "创建团队"
     },
     "team_creation_speed_bump.footer.upgrade_button.label": {
-        "string": "プロフェッショナル"
+        "string": "专业版"
     },
     "team_creation_speed_bump.footer.upgrade_button.text": {
-        "string": "無制限のプロジェクトを入手"
+        "string": "获取无限项目"
     },
     "team_creation_speed_bump.placeholder.team_name": {
-        "string": "{userName}のチーム"
+        "string": "{userName}的团队"
     },
     "team_creation_speed_bump.title": {
-        "string": "より優れたファイル構成をお探しですか?"
+        "string": "在寻找更好的文件组织方式吗？"
     },
     "team_creation_speed_bump.tooltip.set_permissions": {
-        "string": "個別プロジェクトにユーザーを招待したり、プロジェクトを閲覧限定または非公開にしたりできます。"
+        "string": "邀请用户到单个项目，或将项目设置为只读或私人。"
     },
     "team_creation_speed_bump.tooltip.viewers_and_commenters": {
-        "string": "プロフェッショナルプランでは編集者のみ請求されます。ファイルの表示とコメントは引き続き無料です。"
+        "string": "专业计划仅对编辑者收费。查看和评论文件仍然是免费的。"
     },
     "team_join_links.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "team_join_links.copy_link": {
-        "string": "リンクのコピー"
+        "string": "复制链接"
     },
     "team_join_links.invite_link": {
-        "string": "招待リンク"
+        "string": "邀请链接"
     },
     "team_join_links.modal_description": {
-        "string": "チームに参加するための古い招待リンクが使用できなくなります。"
+        "string": "旧的邀请链接将不再可用。"
     },
     "team_join_links.reset_invite_links": {
-        "string": "招待リンクのリセット"
+        "string": "重置邀请链接"
     },
     "team_join_links.reset_links": {
-        "string": "リンクのリセット"
+        "string": "重置链接"
     },
     "team_join_links.share_a_secret_link_people_can_use_to_join_your_team": {
-        "string": "チームに参加するために使用できるシークレットリンクを共有します。"
+        "string": "分享一个秘密链接，让人们加入您的团队。"
     },
     "team_join_links.team_invite_link_settings": {
-        "string": "チーム招待リンクの設定"
+        "string": "团队邀请链接设置"
     },
     "team_join_links.turn_off_invite_links": {
-        "string": "招待リンクをオフにする"
+        "string": "关闭邀请链接"
     },
     "team_join_links.turn_on_invite_links": {
-        "string": "招待リンクをオンにする"
+        "string": "开启邀请链接"
     },
     "team_project_link.overlay.description": {
-        "string": "チームのプロジェクトとファイルは、すべてサイドバーからアクセスできます。"
+        "string": "团队的项目和文件可通过侧边栏访问。"
     },
     "team_user.actions.an_error_occurred_while_changing_a_team_member_s_billing_status": {
-        "string": "チームメンバーの請求状況の変更中にエラーが発生しました。"
+        "string": "更改团队成员的账单状态时发生错误。"
     },
     "team_user.actions.an_error_occurred_while_retrieving_fetching_the_list_of_users_on_this_team": {
-        "string": "このチームのユーザーリストの取得中にエラーが発生しました。"
+        "string": "检索该团队用户列表时发生错误。"
     },
     "team_user.actions.team_members_downgraded_to_viewer.seat_rename": {
-        "string": "{numTeamMembers, plural, other {{numTeamMembers}人のユーザーの{productName}シートが閲覧者にダウングレードされました}}"
+        "string": "{numTeamMembers, plural, other {{numTeamMembers}名用户的{productName}席位已降级为仅查看}}"
     },
     "team_user.actions.team_members_downgraded_to_viewer_restricted.seat_rename": {
-        "string": "{numTeamMembers, plural, other {{numTeamMembers}人のユーザーの{productName}シートが限定閲覧者にダウングレードされました}}"
+        "string": "{numTeamMembers, plural, other {{numTeamMembers}名用户的{productName}席位已降级为受限查看}}"
     },
     "team_user.actions.team_members_request_to_upgrade_failed": {
-        "string": "アップグレード申請の送信中にエラーが発生しました。"
+        "string": "发送升级请求时发生错误。"
     },
     "team_user.actions.team_members_request_to_upgrade_from_project_view_succeeded": {
-        "string": "申請を送信しました。管理者から応答があると通知されます。"
+        "string": "请求已发送，管理员回复后将通知您。"
     },
     "team_user.actions.team_members_request_to_upgrade_succeeded": {
-        "string": "アップグレード申請が送信されました。"
+        "string": "升级请求已发送。"
     },
     "team_user.actions.team_members_upgraded.seat_rename": {
-        "string": "{numTeamMembers, plural, other {{numTeamMembers}人のユーザーの{productName}シートがアップグレードされました}}"
+        "string": "{numTeamMembers, plural, other {{numTeamMembers}名用户的{productName}席位已升级}}"
     },
     "team_user.actions.upgrade.description_account_needs_to_be_upgraded_figjam": {
-        "string": "FigJamでファイルを編集したり、新しいファイルを作成したりするには、お使いのアカウントをアップグレードする必要があります。"
+        "string": "要在FigJam中编辑文件或创建新文件，您需要升级账户。"
     },
     "team_user.actions.upgrade.description_account_needs_to_be_upgraded_figma": {
-        "string": "Figmaデザインでファイルを編集したり、新しいファイルを作成したりするには、お使いのアカウントをアップグレードする必要があります。"
+        "string": "要在Figma设计中编辑文件或创建新文件，您需要升级账户。"
     },
     "team_user.actions.upgrade.description_edit_this_file": {
-        "string": "このファイルをこのチームで編集するには、管理者に申請してアカウントをアップグレードする必要があります。"
+        "string": "要在此团队中编辑此文件，您需要申请管理员批准以升级账户。"
     },
     "team_user.actions.upgrade.draft_request_upgrade_to_share": {
-        "string": "{boldedDrafts}のファイルを共有するには、管理者に申請してアカウントをアップグレードする必要があります。"
+        "string": "要分享{boldedDrafts}文件，您需要申请管理员批准以升级账户。"
     },
     "team_user.actions.upgrade.request_upgrade_in_team_name": {
-        "string": "{teamName}でアップグレードをリクエストする"
+        "string": "在{teamName}中请求升级"
     },
     "team_user.upgrade_reasons.checkout.seat_rename": {
-        "string": "{actorName}が{memberNameOrEmail}をアップグレードしました"
+        "string": "{actorName}已将{memberNameOrEmail}升级"
     },
     "team_user.upgrade_reasons.create_file": {
-        "string": "{memberNameOrEmail}が、ファイル{resourceName}を作成しました"
+        "string": "{memberNameOrEmail}已创建文件{resourceName}"
     },
     "team_user.upgrade_reasons.create_team": {
-        "string": "{memberNameOrEmail}が、チームを作成しました"
+        "string": "{memberNameOrEmail}已创建团队"
     },
     "team_user.upgrade_reasons.default": {
-        "string": "{memberNameOrEmail}が、アップグレードされました"
+        "string": "{memberNameOrEmail}已升级"
     },
     "team_user.upgrade_reasons.depart_team": {
-        "string": "オーナーがチームを脱退したときに、{memberNameOrEmail}がアップグレードされました"
+        "string": "所有者离开团队时，{memberNameOrEmail}已升级"
     },
     "team_user.upgrade_reasons.edit_action": {
-        "string": "{memberNameOrEmail}が、{resourceName}を編集しました"
+        "string": "{memberNameOrEmail}已编辑{resourceName}"
     },
     "team_user.upgrade_reasons.edit_button": {
-        "string": "{memberNameOrEmail}が、{resourceName}の[ファイルを編集]ボタンをクリックしました"
+        "string": "{memberNameOrEmail}已点击编辑{resourceName}文件按钮"
     },
     "team_user.upgrade_reasons.edit_request_approval": {
-        "string": "{memberNameOrEmail}が、{resourceType} {resourceName}の編集を承認する編集リクエストを行いました"
+        "string": "{memberNameOrEmail}已请求批准编辑{resourceType} {resourceName}"
     },
     "team_user.upgrade_reasons.figjam_ga_reupgrade": {
-        "string": "{memberNameOrEmail}が、ファイル{resourceName}のアカウントを再度アップグレードしました"
+        "string": "{memberNameOrEmail}已重新升级文件{resourceName}的账户"
     },
     "team_user.upgrade_reasons.figma_admin": {
-        "string": "Figmaは、{resourceName}のアップグレードされた{memberNameOrEmail}をサポートします"
+        "string": "Figma支持已升级的{memberNameOrEmail}用于{resourceName}"
     },
     "team_user.upgrade_reasons.invite_autoupgrade.seat_rename": {
-        "string": "{actorName}が{resourceType}の{resourceName}で{memberNameOrEmail}をアップグレードしました"
+        "string": "{actorName}已在{resourceType} {resourceName}中升级{memberNameOrEmail}"
     },
     "team_user.upgrade_reasons.invite_redeem.seat_rename": {
-        "string": "{actorName}が{resourceType}の{resourceName}で{memberNameOrEmail}を追加してアップグレードしました"
+        "string": "{actorName}已在{resourceType} {resourceName}中添加并升级{memberNameOrEmail}"
     },
     "team_user.upgrade_reasons.join_link_redeem": {
-        "string": "チーム招待リンクをクリックして、{memberNameOrEmail}がアップグレードされました"
+        "string": "通过点击团队邀请链接，{memberNameOrEmail}已升级"
     },
     "team_user.upgrade_reasons.resource_moved": {
-        "string": " {resourceType} {resourceName}をチームに移動したときに、{memberNameOrEmail}がアップグレードされました"
+        "string": "当{resourceType} {resourceName}移动到团队时，{memberNameOrEmail}已升级"
     },
     "team_user.upgrade_reasons.restored_from_trash": {
-        "string": "ファイル{resourceName}をごみ箱から復元したときに、{memberNameOrEmail}がアップグレードされました"
+        "string": "当从垃圾箱恢复文件{resourceName}时，{memberNameOrEmail}已升级"
     },
     "team_user.upgrade_reasons.role_upgrade.seat_rename": {
-        "string": "{actorName}が{resourceType}の{resourceName}で{memberNameOrEmail}をアップグレードしました"
+        "string": "{actorName}已在{resourceType} {resourceName}中升级{memberNameOrEmail}"
     },
     "team_user.upgrade_reasons.role_upgrade_without_actor_name.seat_rename": {
-        "string": "{memberNameOrEmail}が{resourceType}の{resourceName}でアップグレードされました"
+        "string": "{memberNameOrEmail}已在{resourceType} {resourceName}中升级"
     },
     "team_user.upgrade_reasons.run_plugin": {
-        "string": "{memberNameOrEmail}が、プラグインを実行しました"
+        "string": "{memberNameOrEmail}已运行插件"
     },
     "team_view.add_annual_seats_modal.add_annual_seats": {
-        "string": "年間シートを追加"
+        "string": "添加年度席位"
     },
     "team_view.add_annual_seats_modal.add_seats_explanation": {
-        "string": "チームの拡大に合わせて前もって計画しておく場合は、別の年間シートをプランに追加してください。これにより、既存の月間請求シートから年間請求シートへの変換も行われます。以下のシートの総数の比例配分額が当該月の末日に請求されます。"
+        "string": "为团队扩展计划，请提前添加年度席位。这样可以将现有的每月计费席位转换为年度计费席位。在该月月底将按比例收费，总数如以下所示。"
     },
     "team_view.add_annual_seats_modal.add_seats_title": {
-        "string": "年間シートを追加"
+        "string": "添加年度席位"
     },
     "team_view.add_annual_seats_modal.billing_breakdown": {
         "string": "{cost} × {seatsText} × {remainingMonthsText}"
     },
     "team_view.add_annual_seats_modal.billing_breakdown.remaining_months": {
-        "string": "{numMonths, plural, other {残り{numMonths}か月}}"
+        "string": "{numMonths, plural, other {剩余{numMonths}个月}}"
     },
     "team_view.add_annual_seats_modal.billing_breakdown.seats": {
-        "string": "{seats, plural, other {{seats}シート}}"
+        "string": "{seats, plural, other {{seats}席}}"
     },
     "team_view.add_annual_seats_modal.num_monthly_editor_seats.seat_rename": {
-        "string": "{designQuantity, plural, other {{productName}の月間シート}}"
+        "string": "{designQuantity, plural, other {{productName}的月度席位}}"
     },
     "team_view.add_annual_seats_modal.total_charge_description": {
-        "string": "{chargeDate, date, medium}の請求額合計"
+        "string": "{chargeDate, date, medium}的总收费"
     },
     "team_view.add_annual_seats_modal.unused_seats_will_be_added": {
-        "string": "{unusedSeats, plural, other {未使用の{productName}シートが{unusedSeats}シート追加されます}}"
+        "string": "{unusedSeats, plural, other {将添加{unusedSeats}个未使用的{productName}席位}}"
     },
     "team_view.add_to_favorites": {
-        "string": "お気に入りに追加"
+        "string": "添加到收藏"
     },
     "team_view.add_to_favorites.billing.figjam_editors.seat_rename": {
-        "string": "{figjamSeats, plural, other {{figjamSeats}人分のFigJamシート}}"
+        "string": "{figjamSeats, plural, other {{figjamSeats}个FigJam席位}}"
     },
     "team_view.add_to_favorites.billing.figma_design_editors.seat_rename": {
-        "string": "{designSeats, plural, other {{designSeats}人分のデザインシート}}"
+        "string": "{designSeats, plural, other {{designSeats}个设计席位}}"
     },
     "team_view.add_to_favorites.billing.lost_access": {
-        "string": "{canceledAt}、{listOfEditorsLosingAccess}は{currentPeriodEnd}にアクセスできなくなります。"
+        "string": "{canceledAt}，{listOfEditorsLosingAccess}将在{currentPeriodEnd}失去访问权限。"
     },
     "team_view.billing.annual_seats_annual": {
-        "string": "年間: {annualSeats}"
+        "string": "年度：{annualSeats}"
     },
     "team_view.billing.canceled": {
-        "string": "キャンセル"
+        "string": "已取消"
     },
     "team_view.billing.change_annual_plan": {
-        "string": "年間プランを変更"
+        "string": "更改年度计划"
     },
     "team_view.billing.change_contact": {
-        "string": "連絡先を変更"
+        "string": "更改联系人"
     },
     "team_view.billing.invoices_sent_to": {
-        "string": "請求書の送信先"
+        "string": "发票发送至"
     },
     "team_view.billing.invoices_total": {
-        "string": "{numInvoices, plural, other {請求書合計額}}"
+        "string": "{numInvoices, plural, other {发票总金额}}"
     },
     "team_view.billing.last_invoices_total": {
-        "string": "{numInvoices, plural, other {最近の請求書の合計額}}"
+        "string": "{numInvoices, plural, other {最近的发票总金额}}"
     },
     "team_view.billing.monthly_design_editor_seats.seat_rename": {
-        "string": "月間デザインシート数"
+        "string": "每月设计席位数"
     },
     "team_view.billing.monthly_design_seats_breakdown": {
-        "string": "デザイン: {designSeats}、FigJam: {figjamSeats}"
+        "string": "设计: {designSeats}，FigJam: {figjamSeats}"
     },
     "team_view.billing.monthly_fig_jam_editor_seats.seat_rename": {
-        "string": "月間FigJamシート数"
+        "string": "每月FigJam席位数"
     },
     "team_view.billing.monthly_seats_monthly": {
-        "string": "月間: {monthlySeats}"
+        "string": "每月: {monthlySeats}"
     },
     "team_view.billing.next_invoice_issue_date": {
-        "string": "次回の請求書発行日"
+        "string": "下一次发票发布日期"
     },
     "team_view.billing.professional_plan_annual_renewal": {
-        "string": "プロフェッショナルプランの年間更新日"
+        "string": "专业计划年度更新日期"
     },
     "team_view.billing.professional_plan_annual_subscription_start": {
-        "string": "プロフェッショナルプランの年間サブスクリプション開始日"
+        "string": "专业计划年度订阅开始日期"
     },
     "team_view.billing.professional_plan_billing_period_cancellation": {
-        "string": "プロフェッショナルプランの{billingPeriod}のキャンセル"
+        "string": "取消专业计划的{billingPeriod}"
     },
     "team_view.billing.professional_plan_monthly_renewal": {
-        "string": "プロフェッショナルプランの月間更新日"
+        "string": "专业计划每月更新日期"
     },
     "team_view.billing.professional_plan_monthly_subscription_start": {
-        "string": "プロフェッショナルプランの月間サブスクリプション開始日"
+        "string": "专业计划每月订阅开始日期"
     },
     "team_view.billing.reactivate_professional_plan": {
-        "string": "プロフェッショナルプランを再有効化"
+        "string": "重新激活专业计划"
     },
     "team_view.billing.see_cost_breakdown": {
-        "string": "コスト明細を表示"
+        "string": "查看成本明细"
     },
     "team_view.billing.total_design_editor_seats.seat_rename": {
-        "string": "デザインシート合計数"
+        "string": "设计席位总数"
     },
     "team_view.billing.total_editor_seats_today.seat_rename": {
-        "string": "本日の有料シート総数"
+        "string": "今天的付费席位总数"
     },
     "team_view.billing.total_fig_jam_editor_seats.seat_rename": {
-        "string": "FigJamシートの総数"
+        "string": "FigJam席位总数"
     },
     "team_view.billing.upgrade_plan_to_organization": {
-        "string": "ビジネスプランにアップグレード"
+        "string": "升级到企业计划"
     },
     "team_view.change": {
-        "string": "変更"
+        "string": "更改"
     },
     "team_view.change_to_editor_design_description.seat_rename": {
-        "string": "{numMembers, plural, other {Figmaデザインでこれら{numMembers}名をアップグレードすると、このチームの[ドラフト]セクションの外部でデザインファイルの編集や作成が可能になります。}}"
+        "string": "{numMembers, plural, other {升级这{numMembers}名用户为Figma设计编辑者，将允许他们在团队的“草稿”部分之外编辑和创建设计文件。}}"
     },
     "team_view.change_to_editor_figjam_description.seat_rename": {
-        "string": "{numMembers, plural, other {FigJamでこの{numMembers}名をアップグレードすると、このチームの[ドラフト]セクションの外部でFigJamファイルの編集や作成が可能になります。}}"
+        "string": "{numMembers, plural, other {升级这{numMembers}名用户为FigJam编辑者，将允许他们在团队的“草稿”部分之外编辑和创建FigJam文件。}}"
     },
     "team_view.downgrade_design_access_from_viewer_to_viewer_restricted": {
-        "string": "Figmaデザインの表示アクセス権を変更しますか?"
+        "string": "将Figma设计的查看权限更改为受限查看吗？"
     },
     "team_view.downgrade_design_description.seat_rename": {
-        "string": "{numMembers, plural, other {この{numMembers}人をFigmaデザインでダウングレードすると、このチームでデザインファイルの編集や作成ができなくなります。}}"
+        "string": "{numMembers, plural, other {降级这{numMembers}人，将不再允许他们在团队中编辑和创建设计文件。}}"
     },
     "team_view.downgrade_design_from_viewer_to_viewer_restricted_description.seat_rename": {
-        "string": "{numMembers, plural, other {Figmaデザインで{numMembers}人分のユーザーを閲覧者から限定閲覧者にダウングレードしても、それらのユーザーのファイルへのアクセス権は変更されません。ただし、今後のアップグレードには管理者の承認が必要になります。}}"
+        "string": "{numMembers, plural, other {将这{numMembers}名用户从Figma设计的查看者降级为受限查看者，他们的文件访问权限不会改变，但今后的升级需要管理员批准。}}"
     },
     "team_view.downgrade_editor_modal.are_you_sure_you_want_to_downgrade": {
-        "string": "{numSelectedUsers}人のユーザーをダウングレードしてよろしいですか?"
+        "string": "确定要降级这{numSelectedUsers}名用户吗？"
     },
     "team_view.downgrade_editor_modal.downgrade": {
-        "string": "ダウングレード"
+        "string": "降级"
     },
     "team_view.downgrade_editor_modal.downgrade_multiple_users_team_permissions": {
-        "string": "{numSelectedUsers}人のユーザーのチーム権限をダウングレードしますか?"
+        "string": "是否降级这{numSelectedUsers}名用户的团队权限？"
     },
     "team_view.downgrade_editor_modal.downgrade_user_team_permissions": {
-        "string": "{username}のチーム権限をダウングレードしますか?"
+        "string": "是否降级{username}的团队权限？"
     },
     "team_view.downgrade_editor_modal.downgrading_their_team_permission_will_change_all_permissions_to_can_view": {
-        "string": "チーム権限をダウングレードすると、このチームでのユーザーのプロジェクトとファイルの権限が'閲覧のみ'に変更されます。"
+        "string": "降级团队权限将把此用户在团队中的项目和文件权限更改为“仅查看”。"
     },
     "team_view.downgrade_figjam_access_from_viewer_to_viewer_restricted": {
-        "string": "FigJamの表示アクセス権を変更しますか?"
+        "string": "将FigJam的查看权限更改为受限查看吗？"
     },
     "team_view.downgrade_figjam_description.seat_rename": {
-        "string": "{numMembers, plural, other {この{numMembers}人をFigJamでダウングレードすると、このチームでFigJamファイルの編集や作成ができなくなります。}}"
+        "string": "{numMembers, plural, other {降级这{numMembers}人，将不再允许他们在团队中编辑和创建FigJam文件。}}"
     },
     "team_view.downgrade_figjam_from_viewer_to_viewer_restricted_description.seat_rename": {
-        "string": "{numMembers, plural, other {FigJamでこの{numMembers}名をダウングレードすると、アップグレードに管理者の承認が必要になります。}}"
+        "string": "{numMembers, plural, other {将这{numMembers}名用户从FigJam的查看者降级为受限查看者，今后的升级需要管理员批准。}}"
     },
     "team_view.folder_empty_view.new_project": {
-        "string": "プロジェクトを新規作成"
+        "string": "新建项目"
     },
     "team_view.folder_empty_view.no_projects": {
-        "string": "プロジェクトがありません"
+        "string": "没有项目"
     },
     "team_view.folder_empty_view.no_projects_yet": {
-        "string": "プロジェクトがまだありません"
+        "string": "尚无项目"
     },
     "team_view.folder_empty_view.projects_help_you_organize": {
-        "string": "プロジェクトでは、デザインを整理し、簡単に共有できます。新しいプロジェクトを作成してチームメイトと共有しましょう。"
+        "string": "项目帮助您组织设计并轻松共享。创建新项目并与团队成员共享。"
     },
     "team_view.folder_empty_view.this_team_does_not_have_any_projects_yet": {
-        "string": "このチームにはプロジェクトがまだありません。"
+        "string": "该团队尚无项目。"
     },
     "team_view.folder_list_card.last_updated_at": {
-        "string": "· {lastUpdatedTime}に更新"
+        "string": "· 更新于{lastUpdatedTime}"
     },
     "team_view.folder_list_card.number_of_files": {
-        "string": "{numFiles, plural, other {ファイル数}}"
+        "string": "{numFiles, plural, other {文件数}}"
     },
     "team_view.folder_list_card.owner_handle": {
-        "string": "{folderOwnerName} (オーナー)"
+        "string": "{folderOwnerName}（所有者）"
     },
     "team_view.folder_list_card.team_root_folder_info": {
-        "string": "システムに無題のプロジェクトが見つかりました"
+        "string": "系统中发现了未命名的项目"
     },
     "team_view.folder_list_card.team_root_folder_rename": {
-        "string": "名前を変更"
+        "string": "重命名"
     },
     "team_view.folder_upsell.get_unlimited_everything": {
-        "string": "{professionalPlanLink}では、すべてを制限なしで使用できます。"
+        "string": "{professionalPlanLink}提供无限使用的所有功能。"
     },
     "team_view.folder_upsell.professional_plan": {
-        "string": "プロフェッショナルプラン"
+        "string": "专业计划"
     },
     "team_view.folder_upsell.upgrade_to_create_more_projects": {
-        "string": "アップグレードして、より多くのプロジェクトを作成"
+        "string": "升级以创建更多项目"
     },
     "team_view.grant.seat_rename": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "team_view.grant_design_edit_status.seat_rename": {
-        "string": "Figmaデザインへのフルアクセスを付与しますか?"
+        "string": "是否授予Figma设计的完全访问权限？"
     },
     "team_view.grant_figjam_edit_status.seat_rename": {
-        "string": "FigJamへのフルアクセスを付与しますか?"
+        "string": "授予FigJam的完全访问权限？"
     },
     "team_view.invoices": {
-        "string": "請求書"
+        "string": "发票"
     },
     "team_view.invoices.annual_team": {
-        "string": "プロフェッショナルチーム(年間)"
+        "string": "专业团队（年度）"
     },
     "team_view.invoices.monthly_team": {
-        "string": "プロフェッショナルチーム(月間)"
+        "string": "专业团队（月度）"
     },
     "team_view.invoices.status.draft": {
-        "string": "ドラフト"
+        "string": "草稿"
     },
     "team_view.invoices.status.open": {
-        "string": "未処理"
+        "string": "未处理"
     },
     "team_view.invoices.status.paid": {
-        "string": "支払い済み"
+        "string": "已支付"
     },
     "team_view.invoices.status.processing": {
-        "string": "処理中"
+        "string": "处理中"
     },
     "team_view.invoices.status.uncollectible": {
-        "string": "回収不能"
+        "string": "不可收回"
     },
     "team_view.invoices.status.void": {
-        "string": "無効"
+        "string": "无效"
     },
     "team_view.invoices_table.date": {
-        "string": "日付"
+        "string": "日期"
     },
     "team_view.invoices_table.description": {
-        "string": "説明"
+        "string": "描述"
     },
     "team_view.invoices_table.design_editor_seats.seat_rename": {
-        "string": "デザインシート数"
+        "string": "设计席位数"
     },
     "team_view.invoices_table.fig_jam_editor_seats.seat_rename": {
-        "string": "FigJamシート数"
+        "string": "FigJam席位数"
     },
     "team_view.invoices_table.invoice_total": {
-        "string": "請求合計額"
+        "string": "发票总额"
     },
     "team_view.invoices_table.status": {
-        "string": "ステータス"
+        "string": "状态"
     },
     "team_view.invoices_table.view_invoice": {
-        "string": "請求書を表示"
+        "string": "查看发票"
     },
     "team_view.learn_more.seat_rename": {
-        "string": "有料シートの詳細情報"
+        "string": "了解付费席位的更多信息"
     },
     "team_view.member_edit_access_modal.all_design_files": {
-        "string": "すべてのデザインファイル"
+        "string": "所有设计文件"
     },
     "team_view.member_edit_access_modal.all_figjam_files": {
-        "string": "すべてのFigJamファイル"
+        "string": "所有FigJam文件"
     },
     "team_view.member_edit_access_modal.all_files": {
-        "string": "すべて"
+        "string": "所有文件"
     },
     "team_view.member_edit_access_modal.all_projects": {
-        "string": "すべて"
+        "string": "所有项目"
     },
     "team_view.member_edit_access_modal.files_title": {
-        "string": "編集アクセス権があるファイル"
+        "string": "具有编辑权限的文件"
     },
     "team_view.member_edit_access_modal.invite_only_files": {
-        "string": "{numFiles, plural, other {{numFiles}個の招待限定ファイル}}"
+        "string": "{numFiles, plural, other {仅邀请的{numFiles}个文件}}"
     },
     "team_view.member_edit_access_modal.invite_only_files_list_end": {
-        "string": "{numFiles, plural, other {および{numFiles}個の招待限定ファイル}}"
+        "string": "{numFiles, plural, other {和仅邀请的{numFiles}个文件}}"
     },
     "team_view.member_edit_access_modal.invite_only_projects": {
-        "string": "{numProjects, plural, other {{numProjects}個の招待限定プロジェクト}}"
+        "string": "{numProjects, plural, other {仅邀请的{numProjects}个项目}}"
     },
     "team_view.member_edit_access_modal.invite_only_projects_list_end": {
-        "string": "{numProjects, plural, other {および{numProjects}個の招待限定ファイル}}"
+        "string": "{numProjects, plural, other {和仅邀请的{numProjects}个文件}}"
     },
     "team_view.member_edit_access_modal.none_files": {
-        "string": "なし"
+        "string": "无"
     },
     "team_view.member_edit_access_modal.none_projects": {
-        "string": "なし"
+        "string": "无"
     },
     "team_view.member_edit_access_modal.projects_title": {
-        "string": "編集アクセス権のあるプロジェクト"
+        "string": "具有编辑权限的项目"
     },
     "team_view.member_edit_access_modal.title": {
-        "string": "{memberName}の編集アクセス権"
+        "string": "{memberName}的编辑权限"
     },
     "team_view.page_header_dropdown_label": {
-        "string": "チームのドロップダウンを開く"
+        "string": "打开团队下拉菜单"
     },
     "team_view.pro_member_modal.edit_table_file_header": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "team_view.pro_member_modal.edit_table_last_active_header": {
-        "string": "最終アクティブ"
+        "string": "最后活跃"
     },
     "team_view.pro_member_modal.edit_table_product_header": {
-        "string": "製品"
+        "string": "产品"
     },
     "team_view.pro_member_modal.error_on_activity_retrieval_fallback_message": {
-        "string": "最新のアクティビティーを取得中にエラーが発生しました。"
+        "string": "获取最新活动时出错。"
     },
     "team_view.pro_member_modal.file_inaccessible_tooltip_warning": {
-        "string": "ファイルの権限が原因でこのファイルにアクセスできません。"
+        "string": "由于文件权限，无法访问此文件。"
     },
     "team_view.pro_member_modal.no_activity_found": {
-        "string": "アクティビティーが見つかりませんでした"
+        "string": "未找到活动"
     },
     "team_view.pro_member_modal.title_with_username": {
-        "string": "{username}の最近のアクティビティー"
+        "string": "{username}的最近活动"
     },
     "team_view.pro_member_modal.title_without_username": {
-        "string": "最近のアクティビティー"
+        "string": "最近活动"
     },
     "team_view.pro_trials.feature_awareness_banner.audio": {
-        "string": "ファイルの音声チャットを開始"
+        "string": "在文件中开始语音聊天"
     },
     "team_view.pro_trials.feature_awareness_banner.collaboration": {
-        "string": "サインアップせずにコラボレーション"
+        "string": "无需注册即可协作"
     },
     "team_view.pro_trials.feature_awareness_banner.component_libraries": {
-        "string": "コンポーネントライブラリ"
+        "string": "组件库"
     },
     "team_view.pro_trials.feature_awareness_banner.consumption_limit": {
-        "string": "ファイルとプロジェクトの数が無制限"
+        "string": "文件和项目数量无限制"
     },
     "team_view.pro_trials.feature_awareness_banner.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "team_view.pro_trials.feature_awareness_banner.password_protection": {
-        "string": "非常に安全なパスワード保護"
+        "string": "高度安全的密码保护"
     },
     "team_view.pro_trials.feature_awareness_banner.title": {
-        "string": "プロフェッショナルプランの機能の一例:"
+        "string": "专业计划的功能示例："
     },
     "team_view.pro_trials.feature_awareness_banner.voting": {
-        "string": "アイデアを投票で決める"
+        "string": "通过投票决定想法"
     },
     "team_view.remove.seat_rename": {
-        "string": "ダウングレード"
+        "string": "降级"
     },
     "team_view.remove_design_edit_status.seat_rename": {
-        "string": "Figmaデザインのアクセス権をダウングレードしますか?"
+        "string": "是否降级Figma设计的访问权限？"
     },
     "team_view.remove_figjam_edit_status.seat_rename": {
-        "string": "FigJamのアクセス権をダウングレードしますか?"
+        "string": "降级FigJam的访问权限吗？"
     },
     "team_view.remove_members_modal.confirmation": {
-        "string": "削除"
+        "string": "删除"
     },
     "team_view.remove_members_modal.confirmed_role_removal_copy": {
-        "string": "{member_count, plural, other {この{member_count}人のユーザーは、 {team_name}とその内部のチームリソース(ドラフトフォルダ、すべてのプロジェクト、ファイルを含む)にアクセスできなくなります。}}"
+        "string": "{member_count, plural, other {这些{member_count}名用户将无法访问{team_name}及其内部的团队资源（包括草稿文件夹、所有项目和文件）。}}"
     },
     "team_view.remove_members_modal.pending_role_removal_copy": {
-        "string": "{member_count, plural, other {この{member_count}人のユーザーは、 {team_name}にアクセスできなくなります。プロジェクトやファイルなどのチームリソースには引き続きアクセスできる可能性があります。}}"
+        "string": "{member_count, plural, other {这些{member_count}名用户将无法访问{team_name}。他们可能仍然可以访问项目和文件等团队资源。}}"
     },
     "team_view.remove_members_modal.title": {
-        "string": "{member_count, plural, other {{member_count}ユーザーを削除しますか?}}"
+        "string": "{member_count, plural, other {删除{member_count}名用户吗？}}"
     },
     "team_view.request_upgrade.request_already_sent": {
-        "string": "アップグレード申請送信済み"
+        "string": "升级请求已发送"
     },
     "team_view.search_bar.search_members_with_ellipsis": {
-        "string": "メンバーを検索..."
+        "string": "搜索成员..."
     },
     "team_view.settings.change_role.seat_rename": {
-        "string": "シートを変更"
+        "string": "更改席位"
     },
     "team_view.settings.copy_email": {
-        "string": "メールをコピー"
+        "string": "复制邮箱"
     },
     "team_view.settings.copy_get_plural_or_singular_selected_members_length_email": {
-        "string": "{numEmails, plural, other {メールをコピー}}"
+        "string": "{numEmails, plural, other {复制邮箱}}"
     },
     "team_view.settings.invite_to_team": {
-        "string": "チームに招待"
+        "string": "邀请到团队"
     },
     "team_view.settings.leave_team": {
-        "string": "チームを脱退"
+        "string": "离开团队"
     },
     "team_view.settings.pending": {
-        "string": "保留中"
+        "string": "待处理"
     },
     "team_view.settings.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "team_view.settings.resend_invite": {
-        "string": "招待を再送信"
+        "string": "重新发送邀请"
     },
     "team_view.settings.see_edit_access": {
-        "string": "編集アクセス権の表示"
+        "string": "查看编辑访问权限"
     },
     "team_view.settings.view_admin_console": {
-        "string": "管理者ビューに移動"
+        "string": "查看管理员控制台"
     },
     "team_view.settings.view_settings": {
-        "string": "設定を表示"
+        "string": "查看设置"
     },
     "team_view.settings.you_can_only_remove_limit_users_at_a_time": {
-        "string": "一度に削除できるユーザーは最大{batchLimit}人です。"
+        "string": "一次最多可以删除{batchLimit}个用户。"
     },
     "team_view.settings_table.add_annual_seats": {
-        "string": "別のシートを追加"
+        "string": "添加年度席位"
     },
     "team_view.settings_table.add_annual_seats_description": {
-        "string": "FigmaデザインとFigJamの別の年間シートを追加"
+        "string": "添加Figma设计和FigJam的年度席位"
     },
     "team_view.settings_table.billing_date": {
         "string": "{billing_date}"
     },
     "team_view.settings_table.delete_team": {
-        "string": "チームの削除"
+        "string": "删除团队"
     },
     "team_view.settings_table.delete_team_description": {
-        "string": "このチームとその中のすべてのリソースを完全に削除します"
+        "string": "完全删除此团队及其所有资源"
     },
     "team_view.settings_table.multiple_subscription_renewal": {
-        "string": "月間サブスクリプションが{monthly_billing_date}に、年間サブスクリプションが{annual_billing_date}にそれぞれ更新されます。更新前に改めてお知らせいたします。"
+        "string": "月度订阅将在{monthly_billing_date}更新，年度订阅将在{annual_billing_date}更新。我们会在更新前通知您。"
     },
     "team_view.settings_table.renewal_information_canceled_team_annual": {
-        "string": "プロフェッショナルの年間サブスクリプションがキャンセルされました"
+        "string": "专业年度订阅已取消"
     },
     "team_view.settings_table.renewal_information_canceled_team_annual_and_monthly": {
-        "string": "プロフェッショナルの月間および年間のサブスクリプションがキャンセルされました"
+        "string": "专业月度和年度订阅已取消"
     },
     "team_view.settings_table.renewal_information_canceled_team_monthly": {
-        "string": "プロフェッショナルの月間サブスクリプションがキャンセルされました"
+        "string": "专业月度订阅已取消"
     },
     "team_view.settings_table.single_subscription_renewal_annual": {
-        "string": "現在の年間サブスクリプションの更新日は{billing_date}です。更新前に改めてお知らせいたします。"
+        "string": "当前年度订阅的更新日期为{billing_date}。我们会在更新前通知您。"
     },
     "team_view.settings_table.single_subscription_renewal_monthly": {
-        "string": "現在の月間サブスクリプションの更新日は{billing_date}です。更新前に改めてお知らせいたします。"
+        "string": "当前月度订阅的更新日期为{billing_date}。我们会在更新前通知您。"
     },
     "team_view.settings_table.update_invoice_details.error.legal_name_and_shipping_address_required": {
-        "string": "法人名と配送先住所の両方が必要です。"
+        "string": "需要法人名称和送货地址。"
     },
     "team_view.settings_table.update_invoice_details.invoice_details": {
-        "string": "請求書の詳細"
+        "string": "发票详细信息"
     },
     "team_view.settings_table.update_invoice_details.modal_description": {
-        "string": "請求書に表示される名前と住所を更新します。"
+        "string": "更新发票上显示的名称和地址。"
     },
     "team_view.settings_table.update_invoice_details.modal_title": {
-        "string": "請求書の詳細を更新"
+        "string": "更新发票详细信息"
     },
     "team_view.settings_table.update_invoice_details.update_invoice_details": {
-        "string": "請求書に表示される法人名と配送先住所を更新します。"
+        "string": "更新发票上显示的法人名称和送货地址。"
     },
     "team_view.settings_table.update_payment_details.payment_details": {
-        "string": "支払い情報"
+        "string": "支付信息"
     },
     "team_view.settings_table.update_payment_details.update_payment_method": {
-        "string": "登録されている支払い方法と請求先住所を更新します。"
+        "string": "更新注册的支付方式和账单地址。"
     },
     "team_view.starter_team.num_of_figjam_files_user": {
-        "string": "{maxFreeFiles, plural, other {{maxFreeFiles}個中{numFigjamFilesUsed}個のFigJamファイルが使用されています}}"
+        "string": "{maxFreeFiles, plural, other {已使用{maxFreeFiles}个FigJam文件中的{numFigjamFilesUsed}个}}"
     },
     "team_view.starter_team.num_of_figma_files_user": {
-        "string": "{maxFreeFiles, plural, other {{maxFreeFiles}個中{numFigmaFilesUsed}個のFigmaファイルが使用されています}}"
+        "string": "{maxFreeFiles, plural, other {已使用{maxFreeFiles}个Figma文件中的{numFigmaFilesUsed}个}}"
     },
     "team_view.team_members_table.default_empty_state": {
-        "string": "チームにまだメンバーがいません。"
+        "string": "团队中还没有成员。"
     },
     "team_view.team_members_table.filters.last_active..more_than_30_days_ago": {
-        "string": "30日間よりも前"
+        "string": "30天前"
     },
     "team_view.team_members_table.filters.last_active..more_than_3_months_ago": {
-        "string": "3か月間よりも前"
+        "string": "3个月前"
     },
     "team_view.team_members_table.filters.last_active..more_than_7_days_ago": {
-        "string": "7日間よりも前"
+        "string": "7天前"
     },
     "team_view.team_members_table.filters.permissions.admin": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "team_view.team_members_table.filters.permissions.can_edit": {
-        "string": "編集可"
+        "string": "可编辑"
     },
     "team_view.team_members_table.filters.permissions.can_view": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "team_view.team_members_table.filters.permissions.no_team_permissions": {
-        "string": "チーム権限なし"
+        "string": "无团队权限"
     },
     "team_view.team_members_table.filters.permissions.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "team_view.team_members_table.member_filter_empty_reset_link": {
-        "string": "フィルターをリセット"
+        "string": "重置过滤器"
     },
     "team_view.team_members_table.member_filter_empty_state": {
-        "string": " 表示するメンバーがいません。{reset_link}"
+        "string": "没有成员显示。{reset_link}"
     },
     "team_view.team_members_table.menu_paid_status_filter_selection_editor.seat_rename": {
-        "string": "フル"
+        "string": "完全"
     },
     "team_view.team_members_table.menu_paid_status_filter_selection_viewer": {
-        "string": "閲覧者"
+        "string": "查看者"
     },
     "team_view.team_members_table.no_team_permissions_for_user": {
-        "string": "チームレベルの権限がありません"
+        "string": "没有团队级别的权限"
     },
     "team_view.team_members_table.search_empty_state": {
-        "string": "検索条件に一致するメンバーが見つかりませんでした。検索をやり直してください。"
+        "string": "未找到符合搜索条件的成员。请重新搜索。"
     },
     "team_view.team_members_table_column.active_at": {
-        "string": "最終アクティブ"
+        "string": "最后活跃"
     },
     "team_view.team_members_table_column.design_role.seat_rename": {
-        "string": "デザインシート"
+        "string": "设计席位"
     },
     "team_view.team_members_table_column.figjam_role.seat_rename": {
-        "string": "FigJamシート"
+        "string": "FigJam席位"
     },
     "team_view.team_members_table_column.name": {
-        "string": "名前"
+        "string": "姓名"
     },
     "team_view.team_members_table_column.team_permissions": {
-        "string": "チームの権限"
+        "string": "团队权限"
     },
     "team_view.team_permissions_modal.access_settings": {
-        "string": "アクセスの設定"
+        "string": "访问设置"
     },
     "team_view.team_permissions_modal.anyone_in_container_can_edit_this_team": {
-        "string": "{containerName}の誰でもこのチームを編集できます"
+        "string": "{containerName}中的任何人都可以编辑此团队"
     },
     "team_view.team_permissions_modal.anyone_in_container_can_view_this_team": {
-        "string": "{containerName}の誰でもこのチームを閲覧できます"
+        "string": "{containerName}中的任何人都可以查看此团队"
     },
     "team_view.team_permissions_modal.change": {
-        "string": "変更"
+        "string": "更改"
     },
     "team_view.team_permissions_modal.invite": {
-        "string": "招待"
+        "string": "邀请"
     },
     "team_view.team_permissions_modal.invite_by_email": {
-        "string": "メールで招待"
+        "string": "通过邮箱邀请"
     },
     "team_view.team_permissions_modal.invite_sent": {
-        "string": "{numInvites, plural, other {送信済み招待の数。}}"
+        "string": "{numInvites, plural, other {已发送{numInvites}个邀请}}"
     },
     "team_view.team_permissions_modal.invite_team_members": {
-        "string": "チームメンバーを招待"
+        "string": "邀请团队成员"
     },
     "team_view.team_permissions_modal.invite_user_sharing_restricted": {
-        "string": "Figmaではこのチームへの招待の送信を制限しています。{supportSharingRestrictedEmail}までメールでお問い合わせください。"
+        "string": "Figma限制向此团队发送邀请。请通过{supportSharingRestrictedEmail}联系支持。"
     },
     "team_view.team_permissions_modal.only_invited_people_can_access": {
-        "string": "招待されたユーザーのみアクセス可"
+        "string": "只有受邀用户可以访问"
     },
     "team_view.team_permissions_modal.save": {
         "string": "保存"
     },
     "team_view.team_permissions_modal.send_invite": {
-        "string": "招待を送信"
+        "string": "发送邀请"
     },
     "team_view.team_permissions_modal.share_settings": {
-        "string": "共有設定"
+        "string": "共享设置"
     },
     "team_view.team_permissions_modal.share_this_team": {
-        "string": "このチームを共有"
+        "string": "共享此团队"
     },
     "team_view.team_permissions_modal.youre_not_able_to_send_an_invite_to_yourself": {
-        "string": "自分自身には招待を送信できません。"
+        "string": "无法向自己发送邀请。"
     },
     "team_view.toolbar.billing": {
-        "string": "請求"
+        "string": "账单"
     },
     "team_view.toolbar.change_icon": {
-        "string": "アイコンを変更"
+        "string": "更改图标"
     },
     "team_view.toolbar.community": {
-        "string": "コミュニティ"
+        "string": "社区"
     },
     "team_view.toolbar.dashboard": {
-        "string": "ダッシュボード"
+        "string": "仪表板"
     },
     "team_view.toolbar.delete_team": {
-        "string": "削除…"
+        "string": "删除团队..."
     },
     "team_view.toolbar.leave_team": {
-        "string": "チームを抜ける..."
+        "string": "离开团队..."
     },
     "team_view.toolbar.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "team_view.toolbar.projects": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "team_view.toolbar.rename": {
-        "string": "名前を変更"
+        "string": "更改名称"
     },
     "team_view.toolbar.settings": {
-        "string": "設定"
+        "string": "设置"
     },
     "team_view.upgrade.can_edit_editable_file_count_get_plural_or_singular_editable_file_count_file": {
-        "string": "{editableFileCount, plural, other {{editableFileCount}個のファイルを編集できます}}"
+        "string": "可以编辑{editableFileCount, plural, other {{editableFileCount}个文件}}"
     },
     "team_view.upgrade.can_edit_files_in_folder_edit_roles_count_get_plural_or_singular_folder_edit_roles_count_project": {
-        "string": "{folderEditRolesCount, plural, other {{folderEditRolesCount}個のプロジェクトのファイルを編集できます}}"
+        "string": "可以编辑{folderEditRolesCount, plural, other {{folderEditRolesCount}个项目的文件}}"
     },
     "team_view.upgrade.can_manage_folder_edit_roles_count_get_plural_or_singular_folder_edit_roles_count_project": {
-        "string": "{numberFolderEditRoles, plural, other {{numberFolderEditRoles}個のプロジェクトを管理できます}}"
+        "string": "可以管理{numberFolderEditRoles, plural, other {{numberFolderEditRoles}个项目}}"
     },
     "team_view.upgrade.can_only_view": {
-        "string": "{teamMember}は閲覧のみ可能です。"
+        "string": "{teamMember}只能查看。"
     },
     "team_view.upgrade.can_view_files_in_folder_view_roles_count_get_plural_or_singular_folder_edit_roles_count_project": {
-        "string": "{folderViewRolesCount, plural, other {{folderViewRolesCount}個のプロジェクトのファイルを閲覧できます}}"
+        "string": "可以查看{folderViewRolesCount, plural, other {{folderViewRolesCount}个项目的文件}}"
     },
     "team_view.upgrade.can_view_files_in_folder_view_roles_count_get_plural_or_singular_folder_view_roles_count_project": {
-        "string": "{folderViewRolesCount, plural, other {{folderViewRolesCount}個のプロジェクトのファイルを閲覧できます}}"
+        "string": "可以查看{folderViewRolesCount, plural, other {{folderViewRolesCount}个项目的文件}}"
     },
     "team_view.upgrade.can_view_viewable_file_count_get_plural_or_singular_viewable_file_count_file": {
-        "string": "{viewableFileCount, plural, other {{viewableFileCount}個のファイルを閲覧できます}}"
+        "string": "可以查看{viewableFileCount, plural, other {{viewableFileCount}个文件}}"
     },
     "team_view.upgrade.for_unlimited_files_projects_and_customizable_team_libraries": {
-        "string": "数に制限のないファイル、プロジェクト、カスタマイズ可能なチームライブラリを利用できます。"
+        "string": "可享受无限的文件、项目和可定制的团队库。"
     },
     "team_view.upgrade.members_length_users": {
-        "string": "{memberLength}ユーザー"
+        "string": "{memberLength}位用户"
     },
     "team_view.upgrade.members_removed_text_removed_from_this_props_team_name": {
-        "string": "{membersRemovedText}が{teamName}から削除されました"
+        "string": "{membersRemovedText}已从{teamName}中移除"
     },
     "team_view.upgrade.pro_trials.description": {
-        "string": "ご利用いただきありがとうございます。プロフェッショナルのトライアル、その機能とファイルのすべてを最大限ご活用ください。アップグレードはいつでも可能です。"
+        "string": "感谢您的使用。专业版试用，请充分利用其功能和文件。您可以随时升级。"
     },
     "team_view.upgrade.pro_trials.title": {
-        "string": "チームの概要"
+        "string": "团队概览"
     },
     "team_view.upgrade.pro_trials.upgrade_to_professional_cta": {
-        "string": "プロフェッショナルにアップグレード"
+        "string": "升级到专业版"
     },
     "team_view.upgrade.to_continue_editing_they_need_to_verify_their_education_status_at_www_figma_com_education_apply": {
-        "string": "編集を続けるにはwww.figma.com/education/applyでエデュケーションステータスを確認する必要があります。"
+        "string": "要继续编辑，他们需要在www.figma.com/education/apply验证其教育状态。"
     },
     "team_view.upgrade.upgrade_your_team": {
-        "string": "チームをアップグレードする"
+        "string": "升级您的团队"
     },
     "templates.actions.error_connecting_to_server_to_upload_file_thumbnail": {
-        "string": "ファイルのサムネイルをアップロードするためのサーバー接続でエラーが発生しました。"
+        "string": "上传文件缩略图时连接服务器出错。"
     },
     "templates.banner.made_by_you": {
-        "string": "あなたが作成しました。"
+        "string": "由您创建。"
     },
     "templates.banner.republish.made_by_publisher_name": {
-        "string": "{publisherName}が作成した"
+        "string": "由{publisherName}创建"
     },
     "templates.banner.republish.primary_text": {
-        "string": "未公開の変更"
+        "string": "未公开的更改"
     },
     "templates.banner.republish.republish_action": {
-        "string": "変更を公開"
+        "string": "公开更改"
     },
     "templates.banner.republish.secondary_text": {
-        "string": "これらの変更を公開してテンプレートを更新します。"
+        "string": "公开这些更改以更新模板。"
     },
     "templates.banner.republish.secondary_text_not_owner": {
-        "string": "このテンプレートの古いバージョンを引き続き使用できます。"
+        "string": "您仍然可以使用此模板的旧版本。"
     },
     "templates.banner.republish.you_re_viewing_a_template": {
-        "string": "表示しているのはテンプレートです。"
+        "string": "您正在查看一个模板。"
     },
     "templates.banner.republish.you_re_viewing_a_template_made_by_publisher_name": {
-        "string": "表示しているテンプレートは、{madeByPublisherName}"
+        "string": "您正在查看{madeByPublisherName}创建的模板"
     },
     "templates.confirmation.move_from_drafts.button": {
-        "string": "ファイルを移動"
+        "string": "移动文件"
     },
     "templates.confirmation.move_from_drafts.description": {
-        "string": "このファイルをテンプレートとして公開するには、ドラフトから移動する必要があります。"
+        "string": "要将此文件作为模板公开，需要将其从草稿中移出。"
     },
     "templates.confirmation.move_from_drafts.title": {
-        "string": "ドラフトから移動"
+        "string": "从草稿中移出"
     },
     "templates.confirmation.move_to_drafts.button_v2": {
-        "string": "移動と公開取り消し"
+        "string": "移动并取消公开"
     },
     "templates.confirmation.move_to_drafts.description": {
-        "string": "このファイルをドラフトに移動すると、チームのテンプレートから削除されます。"
+        "string": "将此文件移动到草稿中会将其从团队的模板中删除。"
     },
     "templates.confirmation.move_to_drafts.description.multiselect_v2": {
-        "string": "ファイルの一部はテンプレートです。ドラフトに移動すると、チームのテンプレートから削除されます。"
+        "string": "部分文件为模板。移动到草稿中会将其从团队的模板中删除。"
     },
     "templates.confirmation.move_to_drafts.title": {
-        "string": "{count, plural, other {テンプレートを非公開にしますか?}}"
+        "string": "{count, plural, other {取消公开这些模板？}}"
     },
     "templates.confirmation.publish.secret.confirm.publish_anyway": {
-        "string": "公開"
+        "string": "公开"
     },
     "templates.confirmation.publish.secret.description": {
-        "string": "{teamName}はシークレットチームです。このテンプレートを公開すると、{orgName}のメンバーがこのチームの名前を見ることができます。"
+        "string": "{teamName}是一个秘密团队。公开此模板将允许{orgName}的成员查看此团队的名称。"
     },
     "templates.confirmation.publish.secret.title_v2": {
-        "string": "シークレットチームの名前が明かされます"
+        "string": "秘密团队的名称将被公开"
     },
     "templates.confirmation.unpublish.description_v2": {
-        "string": "{templateName}がチームのテンプレートから削除されますが、ファイルそのものは削除されません。"
+        "string": "{templateName}将从团队的模板中删除，但文件本身不会被删除。"
     },
     "templates.confirmation.unpublish.title": {
-        "string": "テンプレートの公開を取り消しますか?"
+        "string": "取消模板的公开？"
     },
     "templates.detail.publish_button": {
-        "string": "更新内容を公開"
+        "string": "公开更新内容"
     },
     "templates.detail.published_time": {
-        "string": "{time}に更新済み"
+        "string": "已于{time}更新"
     },
     "templates.detail.unpublish_button": {
-        "string": "公開を取り消す"
+        "string": "取消公开"
     },
     "templates.move_from_drafts.bell.action": {
-        "string": "テンプレートを公開"
+        "string": "公开模板"
     },
     "templates.publishing.bell.failure": {
-        "string": "テンプレートの公開に失敗しました"
+        "string": "模板公开失败"
     },
     "templates.publishing.bell.success": {
-        "string": "テンプレートを公開済み"
+        "string": "模板已公开"
     },
     "templates.publishing.bell.updated": {
-        "string": "テンプレートを更新済み"
+        "string": "模板已更新"
     },
     "templates.publishing.description.placeholder": {
-        "string": "このテンプレートの目的は?"
+        "string": "此模板的目的是什么？"
     },
     "templates.publishing.header": {
-        "string": "テンプレートを公開"
+        "string": "公开模板"
     },
     "templates.publishing.header.updates": {
-        "string": "更新を公開"
+        "string": "公开更新"
     },
     "templates.publishing.publish": {
-        "string": "公開"
+        "string": "公开"
     },
     "templates.publishing.publish.updates": {
-        "string": "更新を公開"
+        "string": "公开更新"
     },
     "templates.publishing.restore_default_thumbnail": {
-        "string": "デフォルトのサムネイルを復元"
+        "string": "恢复默认缩略图"
     },
     "templates.publishing.scope.label": {
-        "string": "公開先"
+        "string": "公开范围"
     },
     "templates.publishing.scope.organization": {
-        "string": "組織全体"
+        "string": "整个组织"
     },
     "templates.publishing.scope.team": {
-        "string": "現在のチーム"
+        "string": "当前团队"
     },
     "templates.publishing.thumbnail_size_dimension_spec": {
-        "string": "サイズ: 1920x960"
+        "string": "尺寸：1920x960"
     },
     "templates.publishing.upload_custom_thumbnail": {
-        "string": "カスタムサムネイルをアップロード"
+        "string": "上传自定义缩略图"
     },
     "templates.unpublishing.bell.failure": {
-        "string": "テンプレートの公開を取り消せませんでした"
+        "string": "无法取消模板的公开"
     },
     "templates.unpublishing.bell.success": {
-        "string": "テンプレートの公開を取り消しました"
+        "string": "模板公开已取消"
     },
     "textreview.also_turn_off_figma_spell_check": {
-        "string": "Figmaのスペルチェックもオフにする"
+        "string": "同时关闭Figma拼写检查"
     },
     "textreview.as_you_type_plugin_name_will_review_your_text_and_provide_suggestions": {
-        "string": " 入力中に、{pluginName}はテキストを確認して入力候補を表示します。"
+        "string": "输入时，{pluginName}将检查文本并提供建议。"
     },
     "textreview.use_plugin_name_confirm": {
-        "string": "{pluginName}を使用"
+        "string": "使用{pluginName}"
     },
     "textreview.use_plugin_name_confirm_default": {
-        "string": "プラグインを使用"
+        "string": "使用插件"
     },
     "textreview.use_plugin_name_title": {
-        "string": "{pluginName}を使用しますか?"
+        "string": "要使用{pluginName}吗？"
     },
     "textreview.use_plugin_name_title_default": {
-        "string": "プラグインを使用しますか?"
+        "string": "要使用此插件吗？"
     },
     "swy_tile.shared": {
-        "string": "共有済み"
+        "string": "已共享"
     },
     "swy_tile.shared_date": {
-        "string": "{shared_date}に共有"
+        "string": "已于{shared_date}共享"
     },
     "team_tile.guest.no_teams.info": {
-        "string": "{orgName}のどのチームのメンバーでもありません。"
+        "string": "您不是{orgName}的任何团队成员。"
     },
     "team_tile.members_count": {
-        "string": "{numMembers, plural, other {{numMembers}メンバー}}"
+        "string": "{numMembers, plural, other {{numMembers}位成员}}"
     },
     "team_tile.no_teams.create_team_button": {
-        "string": "チームを新規作成"
+        "string": "新建团队"
     },
     "team_tile.no_teams.empty_workspace": {
-        "string": "ワークスペースのセットアップが完了していないようです。チーム、プロジェクト、ファイルが追加されてから、もう一度確認してください。"
+        "string": "工作区尚未设置完成。请在添加团队、项目和文件后再试。"
     },
     "team_tile.no_teams.info": {
-        "string": "コラボレーターや進行中のプロジェクトが既にありますか? チームを作成すると、ファイルを整理し、作業を簡単に共有できるようになります。"
+        "string": "已有协作者或正在进行的项目吗？创建团队可帮助您组织文件并轻松共享工作。"
     },
     "team_tile.no_teams.title": {
-        "string": "チームがまだありません"
+        "string": "尚未有团队"
     },
     "team_tile.shared_by": {
-        "string": "{shared_by_text}から"
+        "string": "由{shared_by_text}共享"
     },
     "team_tile.shared_with_you.no_teams.info": {
-        "string": "共有されているチームはありません。"
+        "string": "没有与您共享的团队。"
     },
     "tile.branching.create_new_branch": {
-        "string": "新しいブランチを作成"
+        "string": "创建新分支"
     },
     "tile.branching.see_all_branches": {
-        "string": "すべてのブランチを表示"
+        "string": "查看所有分支"
     },
     "tile.copy_link.action_description": {
-        "string": "このアイテムを共有するには、リンクをコピーしてください。"
+        "string": "要共享此项目，请复制链接。"
     },
     "tile.copy_link.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "tile.dropdown.copy_link": {
-        "string": "リンクのコピー"
+        "string": "复制链接"
     },
     "tile.dropdown.create_new_branch": {
-        "string": "新しいブランチの作成"
+        "string": "创建新分支"
     },
     "tile.dropdown.delete_file": {
-        "string": "{objText}の削除"
+        "string": "删除{objText}"
     },
     "tile.dropdown.delete_file_and_branches": {
-        "string": "ファイルとブランチを削除"
+        "string": "删除文件和分支"
     },
     "tile.dropdown.delete_forever": {
-        "string": "{objectText}を完全に削除"
+        "string": "永久删除{objectText}"
     },
     "tile.dropdown.delete_single_tile": {
-        "string": "削除"
+        "string": "删除"
     },
     "tile.dropdown.duplicate": {
-        "string": "{objText}の複製"
+        "string": "复制{objText}"
     },
     "tile.dropdown.duplicate_single_tile": {
-        "string": "複製"
+        "string": "复制"
     },
     "tile.dropdown.duplicate_to_draft": {
-        "string": "{objText}をドラフトに複製"
+        "string": "复制{objText}到草稿"
     },
     "tile.dropdown.duplicate_to_draft_single_file_or_repo": {
-        "string": "ドラフトに複製"
+        "string": "复制到草稿"
     },
     "tile.dropdown.edit_workspace_pin": {
-        "string": "ワークスペースピンを編集"
+        "string": "编辑工作区固定项"
     },
     "tile.dropdown.manage_template": {
-        "string": "テンプレートを管理"
+        "string": "管理模板"
     },
     "tile.dropdown.move_file": {
-        "string": "ファイルを移動..."
+        "string": "移动文件..."
     },
     "tile.dropdown.move_file_and_branches_to_trash": {
-        "string": "ファイルとブランチをごみ箱に移動"
+        "string": "将文件和分支移动到垃圾桶"
     },
     "tile.dropdown.multiple_file_suffix": {
-        "string": " {totalSelected}ファイル"
+        "string": " {totalSelected}个文件"
     },
     "tile.dropdown.no_permission_to_delete_error": {
-        "string": "これらのファイルを削除する権限がありません。"
+        "string": "您没有删除这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_delete_error_updated": {
-        "string": "{numFiles, plural, other {これらのファイルを削除する権限がありません。}}"
+        "string": "您没有删除这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_restore_error": {
-        "string": "これらのファイルを復元する権限がありません。"
+        "string": "您没有恢复这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_restore_error_updated": {
-        "string": "{numFiles, plural, other {これらのファイルを復元する権限がありません。}}"
+        "string": "您没有恢复这些文件的权限。"
     },
     "tile.dropdown.no_permission_to_trash_error": {
-        "string": "これらのファイルをごみ箱に移動する権限がありません。"
+        "string": "您没有将这些文件移到垃圾桶的权限。"
     },
     "tile.dropdown.no_permission_to_trash_error_updated": {
-        "string": "{numFiles, plural, other {これらのファイルをごみ箱に移動する権限がありません。}}"
+        "string": "您没有将这些文件移到垃圾桶的权限。"
     },
     "tile.dropdown.open": {
-        "string": "開く"
+        "string": "打开"
     },
     "tile.dropdown.open_new_tab": {
-        "string": "新しいタブで開く"
+        "string": "在新标签页中打开"
     },
     "tile.dropdown.pin_to_project": {
-        "string": "プロジェクトにピン留め"
+        "string": "固定到项目"
     },
     "tile.dropdown.pin_to_workspace": {
-        "string": "ワークスペースにピン留め"
+        "string": "固定到工作区"
     },
     "tile.dropdown.publish_as_template": {
-        "string": "テンプレートを公開..."
+        "string": "发布为模板..."
     },
     "tile.dropdown.remove_from_recent_pluralized": {
-        "string": "{numFiles, plural, other {最近の項目から{numFiles}項目を削除}}"
+        "string": "从最近的项目中移除{numFiles}项"
     },
     "tile.dropdown.remove_project_pin": {
-        "string": "プロジェクトピンを削除"
+        "string": "移除项目固定项"
     },
     "tile.dropdown.remove_workspace_pin": {
-        "string": "ワークスペースピンを削除"
+        "string": "移除工作区固定项"
     },
     "tile.dropdown.rename": {
-        "string": "名前の変更"
+        "string": "重命名"
     },
     "tile.dropdown.rename_file": {
-        "string": "ファイル名を変更"
+        "string": "重命名文件"
     },
     "tile.dropdown.restore": {
-        "string": "{numFiles, plural, other {{objectText}を復元}}"
+        "string": "恢复{objectText}"
     },
     "tile.dropdown.restore_from_version": {
-        "string": "バージョンから復元"
+        "string": "从版本恢复"
     },
     "tile.dropdown.share": {
-        "string": "共有"
+        "string": "共享"
     },
     "tile.dropdown.show_in_project": {
-        "string": "プロジェクトに表示"
+        "string": "在项目中显示"
     },
     "tile.dropdown.trash_file": {
-        "string": "{objText}をごみ箱に移動"
+        "string": "将{objText}移到垃圾桶"
     },
     "tile.dropdown.trash_single_tile": {
-        "string": "ごみ箱に移動"
+        "string": "移到垃圾桶"
     },
     "tile.dropdown.unpublish_template": {
-        "string": "テンプレートを公開取り消し"
+        "string": "取消模板发布"
     },
     "tile.dropdown.update_template": {
-        "string": "変更を公開…"
+        "string": "发布更改..."
     },
     "tile.dropdown.use_in_new_file": {
-        "string": "新しいファイルで使用"
+        "string": "在新文件中使用"
     },
     "tile.empty.join_as_owner": {
-        "string": "オーナーとして参加"
+        "string": "以所有者身份加入"
     },
     "tile.error.permission_error_delete_file": {
-        "string": "{selectedCount, plural, other {削除する権限のないファイルが含まれています。}}"
+        "string": "{selectedCount, plural, other {包含您无权删除的文件。}}"
     },
     "tile.error.permission_error_trash_file": {
-        "string": "{selectedCount, plural, other {ごみ箱に移動する権限のないファイルが含まれています。}}"
+        "string": "{selectedCount, plural, other {包含您无权移到垃圾桶的文件。}}"
     },
     "tile.favoriting.add_to_favorites": {
-        "string": "お気に入りに追加"
+        "string": "添加到收藏夹"
     },
     "tile.favoriting.file_added_to_favorites": {
-        "string": "お気に入りにファイルが追加されました"
+        "string": "文件已添加到收藏夹"
     },
     "tile.favoriting.file_added_to_sidebar": {
-        "string": "サイドバーにファイルが追加されました"
+        "string": "文件已添加到侧边栏"
     },
     "tile.favoriting.file_removed_from_favorites": {
-        "string": "お気に入りからファイルが削除されました"
+        "string": "文件已从收藏夹中移除"
     },
     "tile.favoriting.file_removed_from_sidebar": {
-        "string": "サイドバーからファイルが削除されました"
+        "string": "文件已从侧边栏中移除"
     },
     "tile.favoriting.max_favorites": {
-        "string": "使用できるお気に入りの最大数は{maxFavorites}です。お気に入りを1つ追加するには、1つを削除してください。"
+        "string": "收藏夹的最大使用量为{maxFavorites}。要添加一个收藏，请先删除一个。"
     },
     "tile.favoriting.remove_from_favorites": {
-        "string": "お気に入りから削除"
+        "string": "从收藏夹中移除"
     },
     "tile.file_tile.branch_count": {
-        "string": "{branchCount, plural, other {{branchCount}ブランチ} }"
+        "string": "{branchCount, plural, other {{branchCount}个分支} }"
     },
     "tile.file_tile.deleted_by_other_user": {
-        "string": "{userHandle}が{time}に削除"
+        "string": "{userHandle}于{time}删除"
     },
     "tile.file_tile.deleted_by_you": {
-        "string": "自分が{time}に削除"
+        "string": "您于{time}删除"
     },
     "tile.file_tile.deleted_generic": {
-        "string": "{time}に削除"
+        "string": "{time}删除"
     },
     "tile.file_tile.edited_time": {
-        "string": "編集済み: {time}"
+        "string": "编辑时间: {time}"
     },
     "tile.file_tile.edited_time_with_separator": {
-        "string": " · 編集済み: {time}"
+        "string": " · 编辑时间: {time}"
     },
     "tile.file_tile.password_protected": {
-        "string": "パスワードで保護されたファイル"
+        "string": "受密码保护的文件"
     },
     "tile.file_tile.password_protected_prototype": {
-        "string": "このプロトタイプは、パスワードで保護されています"
+        "string": "此原型受密码保护"
     },
     "tile.file_tile.password_protected_shorter": {
-        "string": "パスワードで保護されています"
+        "string": "受密码保护"
     },
     "tile.file_tile.pinned_by_user": {
-        "string": "{name}がピン留め"
+        "string": "{name}固定"
     },
     "tile.file_tile.pinned_just_now": {
-        "string": "たった今ピン留め"
+        "string": "刚刚固定"
     },
     "tile.file_tile.published_as_library": {
-        "string": "ライブラリとして公開\n{time}"
+        "string": "作为库发布\n{time}"
     },
     "tile.file_tile.trashed_by_other_user": {
-        "string": "{userHandle}が{time}にごみ箱に移動"
+        "string": "{userHandle}于{time}移到垃圾桶"
     },
     "tile.file_tile.trashed_by_you": {
-        "string": "自分が{time}にごみ箱に移動"
+        "string": "您于{time}移到垃圾桶"
     },
     "tile.file_tile.trashed_generic": {
-        "string": "{time}にごみ箱に移動"
+        "string": "{time}移到垃圾桶"
     },
     "tile.file_tile.unsynced_changes": {
-        "string": "未同期の変更"
+        "string": "未同步的更改"
     },
     "tile.offline_file_tile.offline_created_file": {
-        "string": "オフラインで作成されたファイル"
+        "string": "离线创建的文件"
     },
     "tile.offline_file_tile.offline_upload_tooltip": {
-        "string": "オフラインファイルは、インターネットに再接続すると同期されます。"
+        "string": "离线文件将在重新连接互联网时同步。"
     },
     "tile.sort_filter.created_by_anyone": {
-        "string": "作成者: 任意のユーザー"
+        "string": "创建者: 任意用户"
     },
     "tile.sort_filter.created_by_others": {
-        "string": "作成者: 自分以外のユーザー"
+        "string": "创建者: 其他用户"
     },
     "tile.sort_filter.created_by_you": {
-        "string": "作成者: 自分"
+        "string": "创建者: 您"
     },
     "tile.sort_filter.date_shared": {
-        "string": "共有日"
+        "string": "共享日期"
     },
     "tile.sort_filter.filter_by_all_files": {
-        "string": "すべてのファイル"
+        "string": "所有文件"
     },
     "tile.sort_filter.filter_by_design_files": {
-        "string": "デザインファイル"
+        "string": "设计文件"
     },
     "tile.sort_filter.filter_by_figjam_files": {
-        "string": "FigJamボード"
+        "string": "FigJam板"
     },
     "tile.sort_filter.filter_by_prototype_files": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "tile.sort_filter.filter_by_sites_files": {
-        "string": "Webサイト"
+        "string": "网站"
     },
     "tile.sort_filter.filter_by_slides_files": {
-        "string": "スライドデッキ"
+        "string": "幻灯片"
     },
     "tile.sort_filter.filter_label": {
-        "string": "フィルター:"
+        "string": "过滤器:"
     },
     "tile.sort_filter.from": {
-        "string": "共有者:"
+        "string": "共享者:"
     },
     "tile.sort_filter.order_label": {
-        "string": "順序"
+        "string": "顺序"
     },
     "tile.sort_filter.org_deleted_drafts": {
-        "string": "表示:"
+        "string": "显示:"
     },
     "tile.sort_filter.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "tile.sort_filter.plan": {
-        "string": "チーム/組織:"
+        "string": "团队/组织:"
     },
     "tile.sort_filter.recent": {
         "string": "最近"
     },
     "tile.sort_filter.sort_alphabetical": {
-        "string": "アルファベット順"
+        "string": "按字母顺序"
     },
     "tile.sort_filter.sort_by_label": {
-        "string": "並べ替え基準"
+        "string": "排序依据"
     },
     "tile.sort_filter.sort_date_created": {
-        "string": "作成日"
+        "string": "创建日期"
     },
     "tile.sort_filter.sort_date_deleted": {
-        "string": "削除日"
+        "string": "删除日期"
     },
     "tile.sort_filter.sort_date_trashed": {
-        "string": "ごみ箱への移動日"
+        "string": "移到垃圾桶的日期"
     },
     "checkout.empty_seats": {
         "string": "{numOfEmptySeats, plural, other {空座位数: {numOfEmptySeats}}}"
@@ -36150,154 +36150,154 @@
         "string": "批准时发生错误"
     },
     "tile.sort_filter.sort_direction_a_to_z": {
-        "string": "A～Z"
+        "string": "A到Z"
     },
     "tile.sort_filter.sort_direction_ascending": {
-        "string": "昇順"
+        "string": "升序"
     },
     "tile.sort_filter.sort_direction_descending": {
-        "string": "降順"
+        "string": "降序"
     },
     "tile.sort_filter.sort_direction_newest_first": {
-        "string": "新しい順"
+        "string": "最新优先"
     },
     "tile.sort_filter.sort_direction_oldest_first": {
-        "string": "古い順"
+        "string": "最旧优先"
     },
     "tile.sort_filter.sort_direction_z_to_a": {
-        "string": "Z～A"
+        "string": "Z到A"
     },
     "tile.sort_filter.sort_label": {
-        "string": "並べ替え:"
+        "string": "排序:"
     },
     "tile.sort_filter.sort_last_modified": {
-        "string": "最終変更"
+        "string": "最后修改"
     },
     "tile.sort_filter.sort_last_viewed": {
-        "string": "最終閲覧"
+        "string": "最后查看"
     },
     "tile.sort_filter.sort_relevance": {
-        "string": "関連度"
+        "string": "相关性"
     },
     "tile.sort_filter.team": {
-        "string": "チーム"
+        "string": "团队"
     },
     "tile.sort_filter.trending": {
-        "string": "人気上昇中"
+        "string": "趋势"
     },
     "tile.tooltip.external_file": {
-        "string": "このチームの外部のプロジェクトから"
+        "string": "来自此团队外部的项目"
     },
     "time_sliced_edit_rendering.active": {
-        "string": "アプリケーションの応答速度を維持するため、一部変更の反映が遅くなっています。"
+        "string": "为了保持应用响应速度，部分更改反映较慢。"
     },
     "tokens.oauth.account": {
-        "string": "{email}としてログインしています。"
+        "string": "已登录为{email}。"
     },
     "tokens.oauth.allow": {
-        "string": "アクセスを許可"
+        "string": "允许访问"
     },
     "tokens.oauth.authorize_org_title": {
-        "string": "{app}が組織にアクセスして次の操作を実行しようとしています。"
+        "string": "{app}想要访问您的组织并执行以下操作。"
     },
     "tokens.oauth.authorize_user_title": {
-        "string": "{app}がアカウントにアクセスして次の操作を実行しようとしています。"
+        "string": "{app}想要访问您的帐户并执行以下操作。"
     },
     "tokens.oauth.create_and_modify_dev_resources": {
-        "string": "アクセス権のあるファイルの開発リソースの作成と変更を行います"
+        "string": "创建和修改您有权限访问的文件的开发资源"
     },
     "tokens.oauth.create_and_modify_variables_for_files_you_have_access_to": {
-        "string": "アクセス権のあるファイルのバリアブルの作成と変更を行います"
+        "string": "为您有权限访问的文件创建和修改变量"
     },
     "tokens.oauth.create_and_modify_webhooks": {
-        "string": "Webフックの作成と変更を行います"
+        "string": "创建和修改Webhooks"
     },
     "tokens.oauth.create_files": {
-        "string": "他社のアプリでファイルを作成します"
+        "string": "在其他应用中创建文件"
     },
     "tokens.oauth.discovery_scope_description": {
-        "string": "組織のFigmaファイル内でテキストで行われるコミュニケーションをすべて表示します。"
+        "string": "在组织的Figma文件中查看所有文本通信。"
     },
     "tokens.oauth.enumerate_files": {
-        "string": "最近のファイルを含む、アクセス権があるすべてのファイルのリストを表示します"
+        "string": "查看包括最近文件在内的所有您有权限访问的文件列表"
     },
     "tokens.oauth.go_back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "tokens.oauth.manage_related_links_webhooks": {
-        "string": "関連リンクに関連するWebフックの設定と更新を行います"
+        "string": "设置和更新相关链接的Webhooks"
     },
     "tokens.oauth.modify_comments_for_files_you_have_access_to": {
-        "string": "アクセス権のあるファイルのコメントを変更します"
+        "string": "修改您有权限访问的文件的评论"
     },
     "tokens.oauth.not_org_admin": {
-        "string": "アクセスを許可できませんでした"
+        "string": "无法授予访问权限"
     },
     "tokens.oauth.not_org_admin_explanation": {
-        "string": "アプリにこの組織へのアクセスを許可できるのは管理者だけです。"
+        "string": "只有管理员可以授予应用对此组织的访问权限。"
     },
     "tokens.oauth.read_and_modify_comments_for_files_you_have_access_to": {
-        "string": "アクセスしたファイルのコメントを読み取って変更します"
+        "string": "读取和修改您有权限访问的文件的评论"
     },
     "tokens.oauth.read_comments_for_files_you_have_access_to": {
-        "string": "アクセス権のあるファイルのコメントを読み取ります"
+        "string": "读取您有权限访问的文件的评论"
     },
     "tokens.oauth.read_components_and_styles_you_have_access_to": {
-        "string": "アクセスしたコメントやスタイルを読み取ります"
+        "string": "读取您有权限访问的组件和样式"
     },
     "tokens.oauth.read_dev_resources": {
-        "string": "アクセス権のあるファイルの開発リソースのリストアップと読み取りを行います"
+        "string": "列出并读取您有权限访问的文件的开发资源"
     },
     "tokens.oauth.read_files_you_have_access_to": {
-        "string": "アクセス権があるファイルを読み取ります"
+        "string": "读取您有权限访问的文件"
     },
     "tokens.oauth.read_library_analytics_data": {
-        "string": "アクセス権のある組織内のファイルのライブラリアナリティクスデータを読み込みます"
+        "string": "读取您有权限访问的组织文件中的库分析数据"
     },
     "tokens.oauth.read_projects_you_have_access_to": {
-        "string": "アクセスしたプロジェクトを読み取ります"
+        "string": "读取您有权限访问的项目"
     },
     "tokens.oauth.read_variables_from_files_you_have_access_to": {
-        "string": "アクセス権のあるファイルからバリアブルを読み取ります"
+        "string": "从您有权限访问的文件中读取变量"
     },
     "tokens.oauth.read_your_name_email_and_profile_image": {
-        "string": "名前、メールアドレス、プロフィール画像を読み取ります"
+        "string": "读取您的姓名、电子邮件和个人资料图片"
     },
     "tokens.oauth.select_organization": {
-        "string": "組織を選択..."
+        "string": "选择组织..."
     },
     "tokens.oauth.switch_account": {
-        "string": "アカウントを切り替え"
+        "string": "切换帐户"
     },
     "tokens.oauth.view_basic_information_about_files": {
-        "string": "ファイルの名前とサムネイルを表示します。"
+        "string": "查看文件的名称和缩略图"
     },
     "tokens.oauth.view_basic_information_about_users": {
-        "string": "ユーザーの基本情報を表示します"
+        "string": "查看用户的基本信息"
     },
     "tokens.oauth.view_user_activity_in_figma_like_opening_files_creating_projects_and_sharing_resources": {
-        "string": "Figmaでのユーザーアクティビティー(ファイルのオープン、プロジェクトの作成、リソースの共有など)を表示します"
+        "string": "查看用户在Figma中的活动，如打开文件、创建项目和共享资源"
     },
     "tokens.settings.connected_apps_description": {
-        "string": "次のアプリには、ユーザーに代わってユーザーのFigmaファイルにアクセスできる権限が付与されています。予期しないアプリが表示されている場合は、以下でそれらのアプリの権限を削除してください。"
+        "string": "以下应用程序已被授权以您的名义访问您的Figma文件。如果出现意外应用，请在下方删除其权限。"
     },
     "tokens.settings.connected_apps_title": {
-        "string": "接続しているアプリ"
+        "string": "已连接的应用"
     },
     "tokens.settings.connected_time_ago": {
-        "string": "接続済み: {timeAgo}"
+        "string": "已连接: {timeAgo}"
     },
     "tokens.settings.copy_token": {
-        "string": "このトークンをコピーします。"
+        "string": "复制此令牌"
     },
     "tokens.settings.dev_token_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "tokens.settings.dev_token_modal.cta": {
-        "string": "トークンを生成"
+        "string": "生成令牌"
     },
     "tokens.settings.dev_token_modal.description": {
-        "string": "個人アクセストークンを使用すると、シングルユーザーのようにFigma APIにアクセスできます。"
+        "string": "使用个人访问令牌可以像单个用户一样访问Figma API。"
     },
     "tokens.settings.dev_token_modal.expiration_description": {
         "string": "このトークンの有効期限は{expiry, date, ::yMMMMd}です。"
