@@ -1,152 +1,152 @@
 {
     "dev_handoff.paywall.toggle_disabled_moving_disabled": {
-        "string": "このファイルで開発モードを使用する場合は、ファイルを有料チームに移動する必要があります。"
+        "string": "要在此文件中使用开发模式，请将文件移至付费团队。"
     },
     "dev_handoff.paywall.toggle_disabled_while_file_is_being_moved": {
-        "string": "このファイルは移動中です。まもなく開発モードを使用できます。"
+        "string": "此文件正在移动中，很快就可以使用开发模式。"
     },
     "dev_handoff.paywall.upsell_modal.advanced_inspection.details": {
-        "string": "測定値、スペック、レイアウトなど、すべてをワンクリックで取得できます。また、CSS、iOS、Android向けのリリース可能なコードの生成も可能です。"
+        "string": "一键获取测量值、规格、布局等信息，还可以生成适用于CSS、iOS和Android的代码。"
     },
     "dev_handoff.paywall.upsell_modal.advanced_inspection.header": {
-        "string": "高機能のインスペクターを、Figmaで"
+        "string": "在Figma中使用高级检查功能"
     },
     "dev_handoff.paywall.upsell_modal.advanced_inspection.tab_title": {
-        "string": "高度なインスペクション"
+        "string": "高级检查"
     },
     "dev_handoff.paywall.upsell_modal.plugins_extensions.details": {
-        "string": "Jira、GitHub、Storybook、VS Codeなどのツールに接続したり、Figmaが提供するAPIを使ってプラグインを独自に作成したりできます。"
+        "string": "连接到Jira、GitHub、Storybook、VS Code等工具，或使用Figma提供的API创建自己的插件。"
     },
     "dev_handoff.paywall.upsell_modal.plugins_extensions.header": {
-        "string": "Figmaを自分に合わせる"
+        "string": "自定义Figma"
     },
     "dev_handoff.paywall.upsell_modal.plugins_extensions.tab_title": {
-        "string": "プラグインと拡張機能"
+        "string": "插件和扩展"
     },
     "dev_handoff.paywall.upsell_modal.quick_handoff.details": {
-        "string": "アノテーションや測定などの新しいツールにより、詳細を簡単かつ正確に把握できます。ハンドオフも、「開発準備完了」をクリックするだけです。"
+        "string": "新的工具如注释和测量，使您能够轻松准确地获取细节信息，只需点击“准备开发”即可进行交接。"
     },
     "dev_handoff.paywall.upsell_modal.quick_handoff.header": {
-        "string": "シンプルなデザインハンドオフ"
+        "string": "简化设计交接"
     },
     "dev_handoff.paywall.upsell_modal.quick_handoff.tab_title": {
-        "string": "迅速なハンドオフ"
+        "string": "快速交接"
     },
     "dev_handoff.paywall.upsell_modal.title": {
-        "string": "開発モードなら、コーディングが迅速"
+        "string": "开发模式让编码更快速"
     },
     "dev_handoff.paywall.upsell_modal.track_changes.details": {
-        "string": "変更履歴により、デザインのわずかな手直しもすばやく特定できます。デザインと開発の行き来がなくなり、コーディングに専念できます。"
+        "string": "更改历史记录让您快速识别设计的细微调整，减少设计与开发之间的往返，更专注于编码。"
     },
     "dev_handoff.paywall.upsell_modal.track_changes.header": {
-        "string": "直近の変更も見逃さない"
+        "string": "随时掌握最新更改"
     },
     "dev_handoff.paywall.upsell_modal.track_changes.tab_title": {
-        "string": "変更履歴"
+        "string": "更改历史"
     },
     "dev_handoff.paywall.vscode.description": {
-        "string": "FigmaのVS Code連携では、デザインとコードが左右に表示されるため、集中を切らさずに良いものを生み出すことができます。"
+        "string": "通过Figma的VS Code集成，设计和代码并排显示，让您保持专注，创造出更好的产品。"
     },
     "dev_handoff.paywall.vscode.list1": {
-        "string": "VC Codeから離れずにFigmaファイルのインスペクション"
+        "string": "无需离开VS Code即可检查Figma文件"
     },
     "dev_handoff.paywall.vscode.list2": {
-        "string": "デザインに基づくコードの候補を取得"
+        "string": "获取基于设计的代码建议"
     },
     "dev_handoff.paywall.vscode.list3": {
-        "string": "到着したばかりのコメントの確認と返信"
+        "string": "查看和回复最新的评论"
     },
     "dev_handoff.paywall.vscode.list4": {
-        "string": "デザインコンポーネントへのコードファイルのリンク"
+        "string": "链接代码文件到设计组件"
     },
     "dev_handoff.paywall.vscode.need_access": {
-        "string": "FigmaのVS Code連携機能を使用するには、{devMode}へのアクセス権が必要です。"
+        "string": "要使用Figma的VS Code集成功能，需要访问{devMode}。"
     },
     "dev_handoff.paywall.vscode.need_access_dev_mode": {
-        "string": "開発モード"
+        "string": "开发模式"
     },
     "dev_handoff.paywall.vscode.no_access": {
-        "string": "FigmaのVS Code連携機能は、このファイルでは利用できません。詳しくは、管理者に問い合わせてください。"
+        "string": "Figma的VS Code集成功能在此文件中不可用。请联系管理员了解更多详情。"
     },
     "dev_handoff.paywall.vscode.title": {
-        "string": "VS Code連携"
+        "string": "VS Code集成"
     },
     "dev_handoff.paywall.vscode.video": {
-        "string": "EmilによるVS Code連携のデモをチェック"
+        "string": "观看Emil的VS Code集成演示"
     },
     "dev_handoff.paywall.vscode.view_button": {
-        "string": "ドキュメントを表示"
+        "string": "查看文档"
     },
     "dev_handoff.playground.open_in_playground": {
-        "string": "プレイグラウンドで開く"
+        "string": "在游乐场中打开"
     },
     "dev_handoff.playground.select_parent_instance": {
-        "string": "親インスタンスを選択"
+        "string": "选择父实例"
     },
     "dev_handoff.plugin_panel.title": {
-        "string": "プラグインのアクション"
+        "string": "插件操作"
     },
     "dev_handoff.recenter": {
-        "string": "もう一度中央揃え"
+        "string": "重新居中"
     },
     "dev_handoff.related_links.plugin.auth_required": {
-        "string": "フルタイトルを表示する{button}"
+        "string": "显示完整标题{button}"
     },
     "dev_handoff.related_links.plugin.connect_to": {
-        "string": "{pluginName}に接続"
+        "string": "连接到{pluginName}"
     },
     "dev_handoff.selection_colors": {
-        "string": "選択範囲の色"
+        "string": "选择颜色"
     },
     "dev_handoff.selection_colors.gradient_angular": {
-        "string": "角形グラデーション"
+        "string": "角向渐变"
     },
     "dev_handoff.selection_colors.gradient_diamond": {
-        "string": "ひし形グラデーション"
+        "string": "菱形渐变"
     },
     "dev_handoff.selection_colors.gradient_linear": {
-        "string": "線形グラデーション"
+        "string": "线性渐变"
     },
     "dev_handoff.selection_colors.gradient_radial": {
-        "string": "放射状グラデーション"
+        "string": "径向渐变"
     },
     "dev_handoff.selection_colors.show_colors": {
-        "string": "色を表示"
+        "string": "显示颜色"
     },
     "dev_handoff.selection_effect_styles": {
-        "string": "選択範囲のエフェクトスタイル"
+        "string": "选择效果样式"
     },
     "dev_handoff.selection_text_styles": {
-        "string": "選択範囲のテキストスタイル"
+        "string": "选择文本样式"
     },
     "dev_handoff.status.completed": {
-        "string": "完了"
+        "string": "完成"
     },
     "dev_handoff.status.copy_dev_link": {
-        "string": "リンクをコピー"
+        "string": "复制开发链接"
     },
     "dev_handoff.status.copy_focus_link": {
-        "string": "フォーカスビューへのリンクをコピー"
+        "string": "复制焦点视图链接"
     },
     "dev_handoff.status.copy_summary_link": {
-        "string": "リンクをコピー"
+        "string": "复制概要链接"
     },
     "dev_handoff.status.mark_as_completed": {
-        "string": "完了にする"
+        "string": "标记为完成"
     },
     "dev_handoff.status.mark_as_ready": {
-        "string": "未完了にする"
+        "string": "标记为未完成"
     },
     "dev_handoff.status.mark_completed": {
-        "string": "完了にする"
+        "string": "标记为完成"
     },
     "dev_handoff.status.mark_status_sentence_part.completed": {
-        "string": "完了"
+        "string": "完成"
     },
     "dev_handoff.status.mark_status_sentence_part.ready_for_dev": {
-        "string": "開発準備完了"
+        "string": "开发准备就绪"
     },
     "dev_handoff.status.menu_note_button": {
-        "string": "変更完了"
+        "string": "更改完成"
     }
 }

@@ -1,152 +1,152 @@
 {
     "dev_handoff.status.menu_note_placeholder": {
-        "string": "開発者に変更点を知らせてください(オプション)"
+        "string": "请通知开发人员变更内容（可选）"
     },
     "dev_handoff.status.menu_title_design_changed_since_completed": {
-        "string": "完了にされてから、デザインに変更がありました"
+        "string": "自标记为完成以来，设计已更改"
     },
     "dev_handoff.status.menu_title_design_changed_since_ready": {
-        "string": "開発準備完了にされてから、デザインに変更がありました"
+        "string": "自标记为开发准备完成以来，设计已更改"
     },
     "dev_handoff.status.menu_title_start_handoff_title": {
-        "string": "ハンドオフプロセスを開始"
+        "string": "开始交接过程"
     },
     "dev_handoff.status.offline": {
-        "string": "オフライン中はステータスを設定できません"
+        "string": "离线时无法设置状态"
     },
     "dev_handoff.status.open_in_dev_mode": {
-        "string": "開発モードで開く"
+        "string": "在开发模式中打开"
     },
     "dev_handoff.status.ready_for_dev": {
-        "string": "開発準備完了"
+        "string": "开发准备完成"
     },
     "dev_handoff.status.ready_for_development.content": {
-        "string": "開発準備完了の部分はありません。開発準備完了にするセクションまたは最上位のフレームを選択してください。"
+        "string": "没有标记为开发准备完成的部分。请选择一个标记为开发准备完成的部分或顶级框架。"
     },
     "dev_handoff.status.remark_as_ready": {
-        "string": "完了状態を削除"
+        "string": "删除完成状态"
     },
     "dev_handoff.status.remove": {
-        "string": "ステータスを削除"
+        "string": "删除状态"
     },
     "dev_handoff.status.show_in_focus": {
-        "string": "フォーカスビューで表示"
+        "string": "在焦点视图中显示"
     },
     "dev_handoff.styles.show_more": {
-        "string": "{count, plural, other {さらに{count}種類のスタイルを表示}}"
+        "string": "显示更多{count}种样式"
     },
     "dev_handoff.styles.show_more_colors": {
-        "string": "{count, plural, other {さらに{count}色表示}}"
+        "string": "显示更多{count}种颜色"
     },
     "dev_handoff.tab.comment": {
-        "string": "コメント"
+        "string": "评论"
     },
     "dev_handoff.tab.inspect": {
-        "string": "インスペクト"
+        "string": "检查"
     },
     "dev_handoff.tab.plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "dev_handoff.tag.layers": {
-        "string": "レイヤー"
+        "string": "图层"
     },
     "dev_handoff.tag.ready_for_development": {
-        "string": "開発準備完了"
+        "string": "开发准备完成"
     },
     "dev_handoff.tag.ready_for_development.content_view_only": {
-        "string": "開発準備完了の部分はありません。"
+        "string": "没有标记为开发准备完成的部分。"
     },
     "dev_handoff.tag.ready_to_build": {
-        "string": "開発準備完了"
+        "string": "开发准备完成"
     },
     "dev_handoff.typography_preview_missing_font": {
-        "string": "次のフォントがありません: {fontFamily} {fontStyle}"
+        "string": "缺少以下字体: {fontFamily} {fontStyle}"
     },
     "dev_handoff.typography_preview_multiple_styles": {
-        "string": "混合スタイル"
+        "string": "混合样式"
     },
     "dev_handoff.typography_preview_not_available": {
-        "string": "テキストプレビューは利用できません"
+        "string": "文本预览不可用"
     },
     "dev_handoff.variables.inferred_color": {
-        "string": "カラー値に基づくバリアブルの候補"
+        "string": "基于颜色值的变量建议"
     },
     "dev_handoff.variables.inferred_text": {
-        "string": "テキスト値に基づくバリアブルの候補"
+        "string": "基于文本值的变量建议"
     },
     "dev_handoff.variables.inferred_value": {
-        "string": "値({value})に基づくバリアブルの候補"
+        "string": "基于值({value})的变量建议"
     },
     "dev_handoff.variables.matching": {
-        "string": "この値と一致するバリアブルを表示します"
+        "string": "显示与该值匹配的变量"
     },
     "dev_handoff.variables.matching_color": {
-        "string": "次の値と一致する色のバリアブル:"
+        "string": "与以下值匹配的颜色变量:"
     },
     "dev_handoff.variables.matching_number": {
-        "string": "次の値と一致する数字のバリアブル:"
+        "string": "与以下值匹配的数字变量:"
     },
     "dev_handoff.version_history.view_all_versions": {
-        "string": "すべてのバージョンを表示"
+        "string": "查看所有版本"
     },
     "dev_handoff.vscode.enter_focus_mode": {
-        "string": "フォーカスモードに移行"
+        "string": "进入焦点模式"
     },
     "dev_handoff.vscode.exit_focus_mode": {
-        "string": "フォーカスモードを終了"
+        "string": "退出焦点模式"
     },
     "dev_handoff.vscode.hint": {
-        "string": "コード案の表示、デザインの検査、コメントの投稿。どれもIDEから行えます。"
+        "string": "显示代码建议、检查设计、发表评论，所有操作都可在IDE中完成。"
     },
     "dev_handoff.vscode.hint.link": {
-        "string": "拡張機能を入手"
+        "string": "获取扩展"
     },
     "dev_handoff.vscode.hint.title": {
-        "string": "VS Code連携"
+        "string": "VS Code集成"
     },
     "dev_handoff.vscode.inspect_panel.hide_inspect_tooltip": {
-        "string": "インスペクトパネルを非表示"
+        "string": "隐藏检查面板"
     },
     "dev_handoff.vscode.inspect_panel.show_inspect_tooltip": {
-        "string": "インスペクトパネルを表示"
+        "string": "显示检查面板"
     },
     "dev_handoff.vscode.toolbar.back_button": {
-        "string": "インデックスページに戻る"
+        "string": "返回索引页"
     },
     "dev_handoff.vscode.toolbar.next_frame": {
-        "string": "次のフレーム"
+        "string": "下一个框架"
     },
     "dev_handoff.vscode.toolbar.previous_frame": {
-        "string": "前のフレーム"
+        "string": "上一个框架"
     },
     "dev_handoff.vscode.zoom_control.zoom_in_button": {
-        "string": "ズームイン"
+        "string": "放大"
     },
     "dev_handoff.vscode.zoom_control.zoom_options_actual_size": {
-        "string": "実際のサイズ(100%)"
+        "string": "实际大小(100%)"
     },
     "dev_handoff.vscode.zoom_control.zoom_options_fill_screen": {
-        "string": "画面全体に表示"
+        "string": "填满屏幕"
     },
     "dev_handoff.vscode.zoom_control.zoom_options_fit_to_screen": {
-        "string": "画面に合わせる"
+        "string": "适合屏幕"
     },
     "dev_handoff.vscode.zoom_control.zoom_options_fit_to_width": {
-        "string": "幅に合わせる"
+        "string": "适合宽度"
     },
     "dev_handoff.vscode.zoom_control.zoom_out_button": {
-        "string": "ズームアウト"
+        "string": "缩小"
     },
     "dev_handoff.workflows.edit_info.changed": {
-        "string": "デザイン変更"
+        "string": "设计更改"
     },
     "dev_handoff.workflows.edit_info.edited": {
-        "string": "{user}が{dateFromNow}にデザインを変更しました"
+        "string": "{user}在{dateFromNow}更改了设计"
     },
     "dev_handoff.workflows.edit_info.marked": {
-        "string": "{user}が{dateFromNow}に{status}に変更しました"
+        "string": "{user}在{dateFromNow}将状态更改为{status}"
     },
     "dev_handoff.workflows.edit_info.new version": {
-        "string": "デザインの新しいバージョン"
+        "string": "设计新版本"
     }
 }

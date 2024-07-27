@@ -1,152 +1,152 @@
 {
     "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode": {
-        "string": "VS Code連携"
+        "string": "VS Code 集成"
     },
     "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode_description": {
-        "string": "コードの案の入手、デザインの検査、コメントの投稿など、すべての作業をVS Codeから。"
+        "string": "从VS Code获取代码片段、检查设计、发表评论等，所有操作都可以在VS Code中完成。"
     },
     "dev_handoff.configuration_wizard.install_extensions_step.figma_for_vscode_install": {
-        "string": "拡張機能を入手"
+        "string": "获取扩展"
     },
     "dev_handoff.configuration_wizard.install_extensions_step.next_text": {
-        "string": "完了"
+        "string": "完成"
     },
     "dev_handoff.configuration_wizard.install_extensions_step.picker_title": {
-        "string": "統合をインストール"
+        "string": "安装集成"
     },
     "dev_handoff.configuration_wizard.install_extensions_step.title": {
-        "string": "最後に、Figmaはどこでも利用できます"
+        "string": "最后，Figma随处可用"
     },
     "dev_handoff.configuration_wizard.subtitle": {
-        "string": "セットアップを行います。"
+        "string": "进行设置。"
     },
     "dev_handoff.configuration_wizard.theme_step.description": {
-        "string": "ライト、ダーク、それともシステムに従いますか?"
+        "string": "浅色、深色，还是跟随系统?"
     },
     "dev_handoff.configuration_wizard.theme_step.next_text": {
-        "string": "次: プラグイン"
+        "string": "下一步：插件"
     },
     "dev_handoff.configuration_wizard.theme_step.picker_title": {
-        "string": "カラーテーマを設定"
+        "string": "设置配色主题"
     },
     "dev_handoff.configuration_wizard.theme_step.title": {
-        "string": "カラーテーマを設定"
+        "string": "设置配色主题"
     },
     "dev_handoff.configuration_wizard.title": {
-        "string": "開発モードへようこそ"
+        "string": "欢迎来到开发模式"
     },
     "dev_handoff.configuration_wizard.title_trial": {
-        "string": "開発モードのトライアルへ{lineBreak}ようこそ"
+        "string": "欢迎试用开发模式{lineBreak}"
     },
     "dev_handoff.configuration_wizard.welcome_step.description": {
-        "string": "開発モードでは、作成を始める上で必要な詳細情報を簡単に見つけることができます。画面に表示される手順に従って作業を進めてください。"
+        "string": "在开发模式下，您可以轻松找到开始创建所需的详细信息。请按照屏幕上的步骤进行操作。"
     },
     "dev_handoff.configuration_wizard.welcome_step.description_grace_period": {
-        "string": "申請が管理者に送信されました。承認され次第、お知らせします。承認を待つ間は、最大{numDays}日間、開発モードを使用できます。"
+        "string": "请求已发送给管理员。批准后会通知您。在等待批准期间，您可以使用开发模式最多{numDays}天。"
     },
     "dev_handoff.configuration_wizard.welcome_step.next_text": {
-        "string": "次: プラットフォームと単位"
+        "string": "下一步：平台和单位"
     },
     "dev_handoff.configuration_wizard.welcome_step.title": {
-        "string": "Figmaの開発者の新しいホーム"
+        "string": "Figma 开发者的新家"
     },
     "dev_handoff.copy_link": {
-        "string": "このページへのリンクをコピー"
+        "string": "复制此页面的链接"
     },
     "dev_handoff.detached_component.remove_attachment_confirm": {
-        "string": "削除"
+        "string": "删除"
     },
     "dev_handoff.detached_component.remove_attachment_text_body": {
-        "string": "デタッチメントステータスを削除しますか? このアクションは元に戻せません。"
+        "string": "要删除分离状态吗？此操作不可撤销。"
     },
     "dev_handoff.dev_handoff_view_selector.untitled": {
-        "string": "無題"
+        "string": "无标题"
     },
     "dev_handoff.developer_related_links.add_link_button": {
-        "string": "リンクを追加"
+        "string": "添加链接"
     },
     "dev_handoff.developer_related_links.additional_options": {
-        "string": "追加オプション"
+        "string": "更多选项"
     },
     "dev_handoff.developer_related_links.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "dev_handoff.developer_related_links.component_inherited_links_desc": {
-        "string": "これはメインコンポーネントのため、追加するリンクはすべてのインスタンスに表示されます。"
+        "string": "这是主组件，添加的所有链接将显示在所有实例中。"
     },
     "dev_handoff.developer_related_links.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "dev_handoff.developer_related_links.delete_link": {
-        "string": "リンクを削除"
+        "string": "删除链接"
     },
     "dev_handoff.developer_related_links.delete_link_text_body": {
-        "string": "このリンクを削除しますか? このアクションは元に戻せません。"
+        "string": "确定要删除此链接吗？此操作不可撤销。"
     },
     "dev_handoff.developer_related_links.duplicate_link_error": {
-        "string": "リンクはすでに存在します"
+        "string": "链接已存在"
     },
     "dev_handoff.developer_related_links.edit_link": {
-        "string": "リンクを編集"
+        "string": "编辑链接"
     },
     "dev_handoff.developer_related_links.empty_info": {
-        "string": "Storybook、GitHub、Jiraなどのツールへの開発リンクを追加します。"
+        "string": "添加指向Storybook、GitHub、Jira等工具的开发链接。"
     },
     "dev_handoff.developer_related_links.go_to_main_component": {
-        "string": "メインコンポーネントに移動"
+        "string": "转到主组件"
     },
     "dev_handoff.developer_related_links.invalid_link": {
-        "string": "無効なURL"
+        "string": "无效的URL"
     },
     "dev_handoff.developer_related_links.link": {
-        "string": "リンク"
+        "string": "链接"
     },
     "dev_handoff.developer_related_links.link_error": {
-        "string": "リンクを追加できませんでした: {errorMessage}"
+        "string": "无法添加链接：{errorMessage}"
     },
     "dev_handoff.developer_related_links.link_placeholder": {
-        "string": "リンクを貼り付ける"
+        "string": "粘贴链接"
     },
     "dev_handoff.developer_related_links.links": {
-        "string": "開発リソース"
+        "string": "开发资源"
     },
     "dev_handoff.developer_related_links.main_component_tooltip": {
-        "string": "メインコンポーネントから継承済み"
+        "string": "从主组件继承"
     },
     "dev_handoff.developer_related_links.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "dev_handoff.developer_related_links.open_in_new_tab": {
-        "string": "新しいタブで開く"
+        "string": "在新标签页中打开"
     },
     "dev_handoff.developer_related_links.select_frame": {
-        "string": "フレームを選択"
+        "string": "选择框架"
     },
     "dev_handoff.developer_related_links.select_layer": {
-        "string": "レイヤーを選択"
+        "string": "选择图层"
     },
     "dev_handoff.docs.links_default": {
-        "string": "ドキュメンテーション"
+        "string": "文档"
     },
     "dev_handoff.docs.links_title": {
-        "string": "コンポーネントのドキュメント"
+        "string": "组件文档"
     },
     "dev_handoff.docs.prop_boolean": {
-        "string": "ブーリアン"
+        "string": "布尔值"
     },
     "dev_handoff.docs.prop_boolean_default_false": {
-        "string": "ブーリアン(偽)"
+        "string": "布尔值（假）"
     },
     "dev_handoff.docs.prop_boolean_default_true": {
-        "string": "ブーリアン(真)"
+        "string": "布尔值（真）"
     },
     "dev_handoff.docs.prop_instance": {
-        "string": "インスタンス"
+        "string": "实例"
     },
     "dev_handoff.docs.prop_string": {
-        "string": "文字列({defaultValue})"
+        "string": "字符串（{defaultValue}）"
     },
     "dev_handoff.docs.prop_variant": {
-        "string": "バリアント({values})"
+        "string": "变体（{values}）"
     }
 }

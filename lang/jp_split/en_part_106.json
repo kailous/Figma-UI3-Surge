@@ -1,152 +1,152 @@
 {
     "dev_handoff.paywall.blocking_modal.button.start_your_free_trial": {
-        "string": "14日間の無料体験を開始"
+        "string": "开始14天免费试用"
     },
     "dev_handoff.paywall.blocking_modal.content.code": {
-        "string": "コードスニペットで実装をよりシンプルに"
+        "string": "通过代码片段使实现更简单"
     },
     "dev_handoff.paywall.blocking_modal.content.inspection": {
-        "string": "アノテーションと差分による先進のインスペクション"
+        "string": "高级检查功能，包括注释和差异"
     },
     "dev_handoff.paywall.blocking_modal.content.locked": {
-        "string": "現在このチームの作業はすべて閲覧のみです。開発モードをもう一度使用するには、このチームのアップグレードを管理者に依頼します。"
+        "string": "当前此团队的所有工作均为只读。要再次使用开发模式，请联系管理员升级此团队。"
     },
     "dev_handoff.paywall.blocking_modal.content.plugins": {
-        "string": "カスタマイズ可能なプラグイン、拡張機能、その他"
+        "string": "可定制的插件、扩展功能等"
     },
     "dev_handoff.paywall.blocking_modal.title": {
-        "string": "開発モードでコーディングをもっとスピーディに"
+        "string": "通过开发模式更快编码"
     },
     "dev_handoff.paywall.blocking_modal.title.direct_link": {
-        "string": "このファイルを開発モードで表示しますか?"
+        "string": "是否在开发模式下查看此文件？"
     },
     "dev_handoff.paywall.blocking_modal.title.locked": {
-        "string": "このファイルはロックされているチームの一部です。"
+        "string": "此文件属于锁定的团队"
     },
     "dev_handoff.paywall.blocking_modal.title.starter": {
-        "string": "アップグレードして開発モードで作業する"
+        "string": "升级以在开发模式下工作"
     },
     "dev_handoff.paywall.codegen.upsell": {
-        "string": "開発モードでは、Tailwind、React、その他のコードを生成できます"
+        "string": "在开发模式下，您可以生成Tailwind、React等代码"
     },
     "dev_handoff.paywall.direct_link_hint.description": {
-        "string": "デザインと開発モードの切り替えには、ツールバーのスイッチを使用します。"
+        "string": "使用工具栏中的开关在设计和开发模式之间切换。"
     },
     "dev_handoff.paywall.direct_link_hint.title": {
-        "string": "開発モードリンクを開きました"
+        "string": "已打开开发模式链接"
     },
     "dev_handoff.paywall.end_of_beta_modal.cta.starter": {
-        "string": "プランを見る"
+        "string": "查看计划"
     },
     "dev_handoff.paywall.end_of_beta_modal.description.restricted": {
-        "string": "開発モードのベータ期間が終了しました。アクセスが必要な場合は、管理者にお尋ねください。その間も、使用を継続できます(最大14日間)。"
+        "string": "开发模式的测试期已结束。如需访问，请联系管理员。在等待批准期间，您可以继续使用（最多14天）。"
     },
     "dev_handoff.paywall.end_of_beta_modal.description.restricted_grace_period": {
-        "string": "開発モードのベータ期間が終了しました。アクセスが必要な場合は、管理者に依頼してください。その間も、使用を継続できます (最大{numDays}日間)。"
+        "string": "开发模式的测试期已结束。如需访问，请联系管理员。在等待批准期间，您可以继续使用（最多{numDays}天）。"
     },
     "dev_handoff.paywall.end_of_beta_modal.description.starter": {
-        "string": "開発モードのベータ期間が終了しました。続けて使用する場合は、現在のプランをアップグレードする必要があります。"
+        "string": "开发模式的测试期已结束。要继续使用，需升级当前计划。"
     },
     "dev_handoff.paywall.end_of_beta_modal.description.starter_viewer": {
-        "string": "開発モードを続けて使用する場合は、管理者に詳細をお尋ねください。"
+        "string": "如需继续使用开发模式，请联系管理员了解更多详情。"
     },
     "dev_handoff.paywall.end_of_beta_modal.title": {
-        "string": "開発モードをお試しいただき、ありがとうございました"
+        "string": "感谢您试用开发模式"
     },
     "dev_handoff.paywall.external_content_control_hint": {
-        "string": "管理者が設定したポリシーにより、このファイルでは開発モードにアクセスできません"
+        "string": "由于管理员设置的策略，无法在此文件中访问开发模式"
     },
     "dev_handoff.paywall.get_dev_mode": {
-        "string": "開発モードを取得"
+        "string": "获取开发模式"
     },
     "dev_handoff.paywall.hint_in_design_mode": {
-        "string": "コーディングを開始する準備ができるたびに開発モードに切り替えます。"
+        "string": "随时准备开始编码时切换到开发模式。"
     },
     "dev_handoff.paywall.inspection.description": {
-        "string": "間隔、色、アセット、コードスニペットをわずか数クリックで取得できます。{learnMoreLink}"
+        "string": "只需点击几下即可获取间距、颜色、资产和代码片段。{learnMoreLink}"
     },
     "dev_handoff.paywall.inspection.title": {
-        "string": "高度なインスペクション"
+        "string": "高级检查功能"
     },
     "dev_handoff.paywall.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "dev_handoff.paywall.no_selection": {
-        "string": "選択されていません"
+        "string": "未选择"
     },
     "dev_handoff.paywall.org_not_member_hint": {
-        "string": "この組織のゲストまたはメンバー以外は、このファイルでは開発モードにアクセスできません。"
+        "string": "非此组织的客人或非成员无法在此文件中访问开发模式。"
     },
     "dev_handoff.paywall.panel.button": {
-        "string": "ボタン"
+        "string": "按钮"
     },
     "dev_handoff.paywall.pending_modal.grace_period.description": {
-        "string": "開発モードの使用を継続するには、チーム管理者に申請を承認するよう依頼してください。承認されるまでの間、ファイルを閲覧とコメントが可能です。"
+        "string": "要继续使用开发模式，请请求团队管理员批准申请。在等待批准期间，可以查看和评论文件。"
     },
     "dev_handoff.paywall.pending_modal.grace_period_end.title": {
-        "string": "開発モードへのアクセス権は終了しました"
+        "string": "开发模式访问已结束"
     },
     "dev_handoff.paywall.pending_modal.no_grace_period.description": {
-        "string": "開発モードの申請を管理者に送信しましたが、まだ承認されていません。承認され次第お知らせします。"
+        "string": "开发模式申请已发送给管理员，但尚未批准。批准后将通知您。"
     },
     "dev_handoff.paywall.pending_modal.no_grace_period.title": {
-        "string": "開発モードを申請中"
+        "string": "开发模式申请中"
     },
     "dev_handoff.paywall.plugin.description": {
-        "string": "開発モードでは、{plugin}など、多くの開発者向けプラグインを実行できます。{learnMoreLink}"
+        "string": "在开发模式下，您可以运行{plugin}等许多开发者插件。{learnMoreLink}"
     },
     "dev_handoff.paywall.plugins.description": {
-        "string": "Jira、GitHub、Storybookなどのツールに接続することも、FigmaのAPIを使ってプラグインを独自に作成することもできます。{learnMoreLink}"
+        "string": "可连接Jira、GitHub、Storybook等工具，或使用Figma API自行创建插件。{learnMoreLink}"
     },
     "dev_handoff.paywall.plugins.title": {
-        "string": "Figmaを自分に合わせる"
+        "string": "定制Figma"
     },
     "dev_handoff.paywall.ready_for_dev.description": {
-        "string": "構築の準備ができたデザインをすばやく見つけ、確認できます。{learnMoreLink}"
+        "string": "快速找到准备构建的设计并进行检查。{learnMoreLink}"
     },
     "dev_handoff.paywall.ready_for_dev.title": {
-        "string": "開発準備完了"
+        "string": "开发准备就绪"
     },
     "dev_handoff.paywall.ready_for_dev.upsell": {
-        "string": "開発モードへのアクセス権を取得して、構築の準備ができた項目のインスペクトと管理をしましょう。"
+        "string": "获取开发模式访问权限，检查和管理准备构建的项目。"
     },
     "dev_handoff.paywall.request_pending": {
-        "string": "申請保留中"
+        "string": "申请待处理"
     },
     "dev_handoff.paywall.start_dev_mode_starter_trial": {
-        "string": "{numDays}日間の無料体験を開始"
+        "string": "开始{numDays}天免费试用"
     },
     "dev_handoff.paywall.starter_trial_nudge.description": {
-        "string": "デザインと開発の連携をよりスムーズにするアノテーション、高度なインスペクション、その他のハンドオフツールを2週間無料でお試しいただけます。"
+        "string": "免费试用2周的注释、高级检查功能和其他交接工具，使设计和开发更顺畅。"
     },
     "dev_handoff.paywall.starter_trial_nudge.title": {
-        "string": "開発モードの無料体験"
+        "string": "免费试用开发模式"
     },
     "dev_handoff.paywall.success_modal.grace_period.button": {
-        "string": "始める"
+        "string": "开始"
     },
     "dev_handoff.paywall.success_modal.grace_period.title": {
-        "string": "開発モードへようこそ"
+        "string": "欢迎使用开发模式"
     },
     "dev_handoff.paywall.success_modal.no_grace_period.description": {
-        "string": "管理者に承認されたらお知らせします"
+        "string": "管理员批准后将通知您"
     },
     "dev_handoff.paywall.success_modal.no_grace_period.title": {
-        "string": "開発モードの申請を送信しました"
+        "string": "已提交开发模式申请"
     },
     "dev_handoff.paywall.team_not_member_hint": {
-        "string": "このチームのメンバー以外は、このファイルで開発モードにアクセスできません。"
+        "string": "非此团队成员无法在此文件中访问开发模式。"
     },
     "dev_handoff.paywall.toggle_disabled_for_personal_drafts": {
-        "string": "このファイルで開発モードを使用する場合は、ファイルを有料チームに移動します"
+        "string": "要在此文件中使用开发模式，请将文件移至付费团队"
     },
     "dev_handoff.paywall.toggle_disabled_for_personal_drafts_pre_ps": {
-        "string": "このファイルで開発モードを使用する場合は、ファイルを有料チームに移動します"
+        "string": "要在此文件中使用开发模式，请将文件移至付费团队"
     },
     "dev_handoff.paywall.toggle_disabled_go_to_drafts_to_move": {
-        "string": "「移動が必要なドラフト」にアクセス"
+        "string": "访问“需要移动的草稿”"
     },
     "dev_handoff.paywall.toggle_disabled_move_link": {
-        "string": "ファイルを移動"
+        "string": "移动文件"
     }
 }

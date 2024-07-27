@@ -1,152 +1,152 @@
 {
     "dev_handoff.layers.edit_annotation": {
-        "string": "アノテーションを編集"
+        "string": "编辑注释"
     },
     "dev_handoff.layers.expand_children": {
-        "string": "子をすべて展開"
+        "string": "展开所有子项"
     },
     "dev_handoff.library.view": {
-        "string": "ライブラリで表示"
+        "string": "在库中查看"
     },
     "dev_handoff.loading_plugin": {
-        "string": "{pluginName}を読み込み中…"
+        "string": "正在加载{pluginName}…"
     },
     "dev_handoff.nodes_panel.created": {
-        "string": "{at}に作成"
+        "string": "创建于{at}"
     },
     "dev_handoff.nodes_panel.edited": {
-        "string": "{at}に編集済み"
+        "string": "编辑于{at}"
     },
     "dev_handoff.nodes_panel.thumbnail_alt_text": {
-        "string": "サムネイル"
+        "string": "缩略图"
     },
     "dev_handoff.onboarding.pointer_modal.description": {
-        "string": "デザインから開発へのアイデアの移行がこれまで以上に簡単になりました。本番用のファイルを選定する新しい方法と、開発作業がもっと簡単になるFigmaの新しいスペース、開発モードを導入しました。"
+        "string": "将创意从设计到开发的过渡变得比以往更加简单。我们推出了一种新的方法来选择生产文件，并通过Figma的新空间——开发模式，使开发工作变得更加容易。"
     },
     "dev_handoff.onboarding.pointer_modal.not_now_button": {
-        "string": "今は使用しない"
+        "string": "暂不使用"
     },
     "dev_handoff.onboarding.pointer_modal.primary_button": {
-        "string": "開発モードを試す"
+        "string": "试用开发模式"
     },
     "dev_handoff.onboarding.pointer_modal.title": {
-        "string": "こんにちは、開発モード"
+        "string": "你好，开发模式"
     },
     "dev_handoff.open_in_figma": {
-        "string": "Figmaで開く"
+        "string": "在Figma中打开"
     },
     "dev_handoff.overrides.border": {
-        "string": "ボーダー"
+        "string": "边框"
     },
     "dev_handoff.overrides.color": {
-        "string": "色"
+        "string": "颜色"
     },
     "dev_handoff.overrides.effect": {
-        "string": "エフェクト"
+        "string": "效果"
     },
     "dev_handoff.overrides.hint": {
-        "string": "この{layerType}の{properties}はメインコンポーネントと異なります。"
+        "string": "此{layerType}的{properties}与主组件不同。"
     },
     "dev_handoff.overrides.hint_one": {
-        "string": "この{layerType}の{property}はメインコンポーネントと異なります。"
+        "string": "此{layerType}的{property}与主组件不同。"
     },
     "dev_handoff.overrides.instance": {
-        "string": "インスタンス"
+        "string": "实例"
     },
     "dev_handoff.overrides.layer": {
-        "string": "レイヤー"
+        "string": "图层"
     },
     "dev_handoff.overrides.layout": {
-        "string": "レイアウト"
+        "string": "布局"
     },
     "dev_handoff.overrides.properties2": {
-        "string": "{prop1}および{prop2}"
+        "string": "{prop1}和{prop2}"
     },
     "dev_handoff.overrides.properties3": {
-        "string": "{prop1}、{prop2}、および{prop3}"
+        "string": "{prop1}、{prop2}和{prop3}"
     },
     "dev_handoff.overrides.properties_more": {
-        "string": "{count, plural, other {{prop1}、{prop2}、{prop3}、その他{count}個のプロパティ}}"
+        "string": "{count, plural, other {{prop1}、{prop2}、{prop3}和另外{count}个属性}}"
     },
     "dev_handoff.overrides.shape": {
-        "string": "シェイプ"
+        "string": "形状"
     },
     "dev_handoff.overrides.style": {
-        "string": " スタイル"
+        "string": "样式"
     },
     "dev_handoff.overrides.text": {
-        "string": "テキスト"
+        "string": "文本"
     },
     "dev_handoff.overview_mode.design_status": {
         "string": "{status} · {fromNow}"
     },
     "dev_handoff.overview_mode.empty_page": {
-        "string": "このページに表示するフレームはありません"
+        "string": "此页面上没有可显示的框架"
     },
     "dev_handoff.overview_mode.no_status": {
-        "string": "ステータスなし"
+        "string": "无状态"
     },
     "dev_handoff.overview_mode.open_in_figma": {
-        "string": "Figmaで開く"
+        "string": "在Figma中打开"
     },
     "dev_handoff.overview_mode.page_picker": {
-        "string": "ページ: "
+        "string": "页面: "
     },
     "dev_handoff.overview_mode.ready_for_dev": {
-        "string": "開発準備完了"
+        "string": "准备开发"
     },
     "dev_handoff.overview_mode.tooltip.upgrade_mark_completed": {
-        "string": "開発モードへのアクセス権を申請してデザインのステータスを完了にします"
+        "string": "申请访问开发模式以将设计状态标记为已完成"
     },
     "dev_handoff.pages.hide_other": {
-        "string": "他のページを非表示"
+        "string": "隐藏其他页面"
     },
     "dev_handoff.pages.show_all": {
-        "string": "すべてのページを表示"
+        "string": "显示所有页面"
     },
     "dev_handoff.pages_list": {
-        "string": "このファイルのページ"
+        "string": "此文件的页面"
     },
     "dev_handoff.paywall.annotations.upsell": {
-        "string": "開発モードでは、アノテーションから詳しい情報を得ることができます"
+        "string": "在开发模式下，您可以通过注释获取详细信息"
     },
     "dev_handoff.paywall.approved.description": {
-        "string": "開発モードにより、シンプルなハンドオフ、迅速なインスペクション、お気に入りのツールの統合が実現します。\n\nこのトグルをクリックして、お試しください。"
+        "string": "开发模式提供简化的交接、快速检查和与您喜欢的工具的集成。\n\n点击此切换按钮以试用。"
     },
     "dev_handoff.paywall.approved.title": {
-        "string": "開発モードにアップグレードされました"
+        "string": "已升级到开发模式"
     },
     "dev_handoff.paywall.banner.description": {
-        "string": "{title}開発モードにより、ハンドオフの簡略化、インスペクションのスピードアップ、VS CodeやStorybookなどのツールとの連携が可能です。"
+        "string": "{title}开发模式简化了交接、加快了检查速度，并支持与VS Code、Storybook等工具的集成。"
     },
     "dev_handoff.paywall.banner.description_in_trial": {
-        "string": "{title}承認を待つ間、開発モードの使用を継続できます(最大{numDays}日間)。"
+        "string": "{title}在等待批准期间，您可以继续使用开发模式（最多{numDays}天）。"
     },
     "dev_handoff.paywall.banner.description_pending": {
-        "string": "{title}開発モードを使用する必要がある場合は、管理者に相談してください"
+        "string": "{title}如需使用开发模式，请联系管理员。"
     },
     "dev_handoff.paywall.banner.description_starter_viewer": {
-        "string": "{title}開発モードにより、ハンドオフがシンプルになり、インスペクションも迅速に行えます。試用するには、管理者に連絡してください。"
+        "string": "{title}开发模式简化了交接并加快了检查速度。如需试用，请联系管理员。"
     },
     "dev_handoff.paywall.banner.title": {
-        "string": "コーディングをもっと迅速に"
+        "string": "更快地编写代码"
     },
     "dev_handoff.paywall.blocking_modal.button.back_to_design": {
-        "string": "デザインモードに戻る"
+        "string": "返回设计模式"
     },
     "dev_handoff.paywall.blocking_modal.button.back_to_summary": {
-        "string": "開発準備完了ビューに戻る"
+        "string": "返回开发准备就绪视图"
     },
     "dev_handoff.paywall.blocking_modal.button.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "dev_handoff.paywall.blocking_modal.button.locked.reactivate": {
-        "string": "プロフェッショナルを再度有効にする"
+        "string": "重新激活专业版"
     },
     "dev_handoff.paywall.blocking_modal.button.not_now": {
-        "string": "今はしない"
+        "string": "暂不"
     },
     "dev_handoff.paywall.blocking_modal.button.request_access": {
-        "string": "アクセス権を申請"
+        "string": "请求访问权限"
     }
 }

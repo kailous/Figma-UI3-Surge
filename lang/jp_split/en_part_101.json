@@ -1,84 +1,84 @@
 {
     "dev_handoff.autorun_confirm_modal.title_stop_auto_run": {
-        "string": "このプラグインの自動実行を停止しますか?"
+        "string": "停止自动运行此插件？"
     },
     "dev_handoff.box_model.border": {
-        "string": "ボーダー"
+        "string": "边框"
     },
     "dev_handoff.box_model.border-box": {
-        "string": "border-box"
+        "string": "边框盒"
     },
     "dev_handoff.box_model.border-box-tooltip": {
-        "string": "box-sizing: border-boxの使い方"
+        "string": "如何使用box-sizing: border-box"
     },
     "dev_handoff.box_model.padding": {
-        "string": "パディング"
+        "string": "内边距"
     },
     "dev_handoff.breadcrumbs.ellipsis": {
         "string": "…"
     },
     "dev_handoff.breadcrumbs.hidden_nodes": {
-        "string": "{count}個の非表示"
+        "string": "隐藏{count}个节点"
     },
     "dev_handoff.code.hints.absolute_position": {
-        "string": "値は、親({name})からの相対値です。"
+        "string": "值是相对于父级({name})的。"
     },
     "dev_handoff.code.hints.background_blend_mode_plus_lighter_darker": {
-        "string": "{value}は通常iOSで使用され、ブラウザではまだ利用できません。より多くのブラウザとの互換性のため、別の方法を検討してください。"
+        "string": "{value}通常在iOS上使用，尚未在浏览器中实现。请考虑使用其他方法以提高兼容性。"
     },
     "dev_handoff.code.hints.borders_dont_take_up_space": {
-        "string": "このデザインではボーダーはスペースをとりません。CSSで「border」を使用するときは、デザインに合わせてサイズやパディングを適宜調整してください。"
+        "string": "在此设计中，边框不占用空间。使用CSS“border”时，请根据设计调整大小和内边距。"
     },
     "dev_handoff.code.hints.color_missing_style": {
-        "string": "この色は、デザインのスタイルやバリアブルと結びついていません"
+        "string": "此颜色未链接到任何设计样式或变量。"
     },
     "dev_handoff.code.hints.compose_blur_tip": {
-        "string": ".blur()修飾子は親のビューに適用する必要があります。"
+        "string": ".blur()修饰符应应用于父视图。"
     },
     "dev_handoff.code.hints.compose_separate_border_width": {
-        "string": "デザインではボーダーエッジごとに線の幅が異なっていますが、Composeではデフォルトで1つの幅しかサポートされません"
+        "string": "设计中的边框每边宽度不同，但Compose默认仅支持一个宽度。"
     },
     "dev_handoff.code.hints.compose_shadow_incompatibility": {
-        "string": ".shadow()修飾子は、このデザインと完全な互換性がありません。"
+        "string": ".shadow()修饰符与此设计不完全兼容。"
     },
     "dev_handoff.code.hints.display_p3_fallback": {
-        "string": "これは、P3カラーをサポートしていないブラウザ用のsRGBフォールバック値です。"
+        "string": "这是用于不支持P3颜色的浏览器的sRGB后备值。"
     },
     "dev_handoff.code.hints.leading_trim": {
-        "string": "leading-trimとtext-edgeはドラフトのCSSプロパティです"
+        "string": "leading-trim和text-edge是草案CSS属性。"
     },
     "dev_handoff.code.hints.multiple_variables": {
-        "string": "この値({value})と複数のバリアブルが一致します"
+        "string": "此值({value})与多个变量匹配。"
     },
     "dev_handoff.code.hints.plus_darker": {
-        "string": "plus-darkerは通常iOSアプリで使用され、現時点ではSafariでのみサポートされています。より多くのブラウザとの互換性のため、別の方法を検討してください。"
+        "string": "plus-darker通常在iOS应用中使用，目前仅在Safari中受支持。请考虑使用其他方法以提高兼容性。"
     },
     "dev_handoff.code.hints.single_paint": {
-        "string": "デザインで複数の色が指定されていますが、ここでは1色しかサポートされません。"
+        "string": "设计中指定了多种颜色，但这里只支持一种颜色。"
     },
     "dev_handoff.code.hints.swift_ui_blur_no_spread": {
-        "string": "デザインではシャドウのスプレッドが指定されていますが、SwiftUIではデフォルトで個別のスプレッドパラメーターがサポートされません"
+        "string": "设计中指定了阴影扩散，但SwiftUI默认不支持单独的扩散参数。"
     },
     "dev_handoff.code.hints.swift_ui_only_single_fill_for_shapes": {
-        "string": "デザインでは複数の背景色が指定されていますが、SwiftUIでは単色の塗りしかサポートされません"
+        "string": "设计中指定了多种背景颜色，但SwiftUI仅支持单一填充颜色。"
     },
     "dev_handoff.code.hints.swift_ui_separate_border_width": {
-        "string": "デザインではボーダーエッジごとに線の幅が異なっていますが、SwiftUIではデフォルトで1つの幅しかサポートされません"
+        "string": "设计中的边框每边宽度不同，但SwiftUI默认仅支持一个宽度。"
     },
     "dev_handoff.code.hints.swift_ui_separate_corner_radius": {
-        "string": "デザインでは複数の角の半径の値が指定されていますが、SwiftUIでは角の半径の値は1つしかサポートされません"
+        "string": "设计中指定了多个角半径值，但SwiftUI仅支持一个角半径值。"
     },
     "dev_handoff.code.hints.swift_ui_spacers_for_space_between": {
-        "string": "スペーサーにより、コンテンツを持たず、可能な範囲で拡張できる適応型のビューが生成されます。"
+        "string": "间隔符生成适应性视图，无内容并根据需要扩展。"
     },
     "dev_handoff.code.hints.unsupported_gradient_paint": {
-        "string": "デザインでグラデーションが使用されていますが、ここではサポートされません。グラデーションの最初の色が表示されます。"
+        "string": "设计中使用了渐变，这里不支持。显示渐变的第一个颜色。"
     },
     "dev_handoff.code.hints.unsupported_paint": {
-        "string": "ここでサポートされない色がデザインで使用されています。プレースホルダーの黒が代わりに表示されます。"
+        "string": "设计中使用了不支持的颜色。将显示占位符黑色。"
     },
     "dev_handoff.code.hints.variable_not_resolved": {
-        "string": "このプロパティで使用されているバリアブルが見つかりませんでした"
+        "string": "未找到此属性使用的变量。"
     },
     "dev_handoff.code.lang_android": {
         "string": "Android"
@@ -108,45 +108,45 @@
         "string": "UIKit"
     },
     "dev_handoff.code.language": {
-        "string": "言語"
+        "string": "语言"
     },
     "dev_handoff.code.options": {
-        "string": "オプション"
+        "string": "选项"
     },
     "dev_handoff.code.settings": {
-        "string": "コード設定"
+        "string": "代码设置"
     },
     "dev_handoff.code.settings.language": {
-        "string": "言語"
+        "string": "语言"
     },
     "dev_handoff.code.settings.set_as_default": {
-        "string": "デフォルトとして設定"
+        "string": "设为默认"
     },
     "dev_handoff.code.show_more": {
-        "string": "{count, plural, other {コードをさらに{count}行表示}}"
+        "string": "显示更多{count}行代码"
     },
     "dev_handoff.code.snippet_docs": {
-        "string": "コードスニペットAPIドキュメント"
+        "string": "代码片段API文档"
     },
     "dev_handoff.code.submit": {
-        "string": "送信"
+        "string": "提交"
     },
     "dev_handoff.code.update_prompt": {
-        "string": "このレイヤーは、コードの生成後に編集されています。"
+        "string": "此图层在生成代码后已被编辑。"
     },
     "dev_handoff.code.update_prompt_action": {
-        "string": "コードを再生成"
+        "string": "重新生成代码"
     },
     "dev_handoff.code.update_prompt_title": {
-        "string": "レイヤーの変更"
+        "string": "图层更改"
     },
     "dev_handoff.code.usage": {
-        "string": "使用状況"
+        "string": "使用情况"
     },
     "dev_handoff.code_connect.compose.add_plugin_snippet": {
-        "string": "Code Connectファイルの追加先モジュールのbuild.gradle.ktsファイルに、以下のスニペットを加えます。"
+        "string": "将以下代码片段添加到Code Connect文件所在模块的build.gradle.kts文件中。"
     },
     "dev_handoff.code_connect.entrypoint_body_text": {
-        "string": "デザインシステムをコードに接続して、開発の速度と一貫性を高めます。"
+        "string": "将设计系统连接到代码，以提高开发速度和一致性。"
     }
 }
