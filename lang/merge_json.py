@@ -27,5 +27,5 @@ def merge_json_files(input_directory, output_file):
         json.dump(merged_data, out_file, ensure_ascii=False, indent=4)
     print(f"Data merged into {output_file}")
 
-# 调用函数，假设分割文件在 'zh' 文件夹，输出文件名为 'merged_output.json'
-merge_json_files('zh', 'zh.json')
+# 调用函数，假设分割文件在 'jp_split' 文件夹，输出文件名为 'zh.json'
+merge_json_files('jp_split', 'zh.json')
