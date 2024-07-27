@@ -1,152 +1,152 @@
 {
     "slides.properties_panel.text_style.replace_style": {
-        "string": "既存のスタイルを置き換える"
+        "string": "替换现有样式"
     },
     "slides.properties_panel.text_style.save_button": {
         "string": "保存"
     },
     "slides.properties_panel.text_style.title_style": {
-        "string": "タイトル"
+        "string": "标题"
     },
     "slides.properties_panel.text_style.tooltip": {
-        "string": "テキストスタイル"
+        "string": "文本样式"
     },
     "slides.properties_panel.text_styles": {
-        "string": "テキストスタイル"
+        "string": "文本样式"
     },
     "slides.properties_panel.text_styles.styles": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "slides.properties_panel.theme.dropdown_tooltip": {
-        "string": "テンプレートの色をリミックス"
+        "string": "混合模板颜色"
     },
     "slides.properties_panel.theme.generic_theme_name": {
-        "string": "テーマ"
+        "string": "主题"
     },
     "slides.properties_panel.theme.no_swap_available": {
-        "string": "これ以上のリミックスのオプションはありません"
+        "string": "没有更多混合选项"
     },
     "slides.properties_panel.theme.panel_title": {
-        "string": "テンプレートスタイル"
+        "string": "模板样式"
     },
     "slides.properties_panel.theme.shuffle_no_change_visual_bell": {
-        "string": "このスライドではテンプレートの色は使用されていません"
+        "string": "此幻灯片未使用模板颜色"
     },
     "slides.properties_panel.visual_bell.remove_stack": {
-        "string": "オートレイアウトが削除されました。{secondaryText}"
+        "string": "已删除自动布局。{secondaryText}"
     },
     "slides.properties_panel.visual_bell.remove_stack_undo": {
-        "string": "⌘Zで元に戻せます"
+        "string": "按⌘Z撤销"
     },
     "slides.templates.add_all_slides": {
-        "string": "すべてのスライドを追加"
+        "string": "添加所有幻灯片"
     },
     "slides.templates.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "slides.templates.banner.new_deck_button": {
-        "string": "新しいデッキで使用"
+        "string": "在新演示文稿中使用"
     },
     "slides.templates.dark": {
-        "string": "ダーク"
+        "string": "深色"
     },
     "slides.templates.dev_environment_only": {
-        "string": "開発環境のみ"
+        "string": "仅限开发环境"
     },
     "slides.templates.file_picker.no_files_match": {
-        "string": "{searchQuery}に一致するファイルはありません"
+        "string": "没有与{searchQuery}匹配的文件"
     },
     "slides.templates.file_picker.no_recent_files": {
-        "string": "最近使用したFigJamファイルがここに表示されます。表示されない場合は、ファイルを検索してみてください。"
+        "string": "最近使用的FigJam文件将显示在此处。未显示时，请尝试搜索文件。"
     },
     "slides.templates.file_picker.page_selector.all_pages": {
-        "string": "すべてのページ"
+        "string": "所有页面"
     },
     "slides.templates.file_picker.page_selector.label": {
-        "string": "ページを選択"
+        "string": "选择页面"
     },
     "slides.templates.file_picker.page_selector.loading": {
-        "string": "ページを読み込んでいます..."
+        "string": "加载页面中..."
     },
     "slides.templates.file_picker.search_files": {
-        "string": "FigJamファイルを検索..."
+        "string": "搜索FigJam文件..."
     },
     "slides.templates.file_picker.submit_button.generate": {
-        "string": "アウトラインを作成"
+        "string": "创建大纲"
     },
     "slides.templates.file_picker.submit_button.pick_template": {
-        "string": "次: テンプレートを選択"
+        "string": "下一步: 选择模板"
     },
     "slides.templates.file_picker.subtitle": {
-        "string": "要約を新しいデッキのアウトラインに変換します。"
+        "string": "将摘要转换为新演示文稿的大纲。"
     },
     "slides.templates.file_picker.title": {
-        "string": "要約するFigJamボードを選択"
+        "string": "选择要摘要的FigJam板"
     },
     "slides.templates.light": {
-        "string": "ライト"
+        "string": "浅色"
     },
     "slides.templates.modal.theme_picker.body": {
-        "string": "テンプレートを使いやすくするため、選択するテーマは1つだけにしてください。"
+        "string": "为了易于使用模板，请选择一个主题。"
     },
     "slides.templates.modal.theme_picker.choose_theme_button": {
-        "string": "選択"
+        "string": "选择"
     },
     "slides.templates.modal.theme_picker.header": {
-        "string": "テンプレートのスタイルは1つだけにしましょう"
+        "string": "选择一个模板样式"
     },
     "slides.templates.org_templates": {
-        "string": "組織テンプレート"
+        "string": "组织模板"
     },
     "slides.templates.outline_with_template.button": {
-        "string": "アウトラインを作成"
+        "string": "创建大纲"
     },
     "slides.templates.presentation": {
-        "string": "プレゼンテーション"
+        "string": "演示文稿"
     },
     "slides.templates.publish_actions.publishing": {
-        "string": "テンプレートを公開しています"
+        "string": "发布模板中"
     },
     "slides.templates.publish_actions.toast.long_name_error": {
-        "string": "ページ名が長すぎます。名前を短くしてもう一度お試しください。"
+        "string": "页面名称过长。请缩短名称后重试。"
     },
     "slides.templates.publish_actions.toast.no_items_error": {
-        "string": "空のテンプレートは公開できません。スライドを1つ以上追加してください。"
+        "string": "空模板无法发布。请添加至少一个幻灯片。"
     },
     "slides.templates.publish_actions.toast.offline_error": {
-        "string": "オフライン中はテンプレートを公開または更新できません"
+        "string": "离线时无法发布或更新模板"
     },
     "slides.templates.publish_actions.toast.publish_error": {
-        "string": "テンプレートを公開できませんでした"
+        "string": "无法发布模板"
     },
     "slides.templates.publish_actions.toast.publish_success": {
-        "string": "テンプレートが公開されました"
+        "string": "模板已发布"
     },
     "slides.templates.publish_actions.toast.unpublish_error": {
-        "string": "テンプレートの公開を取り消すことができませんでした"
+        "string": "无法取消发布模板"
     },
     "slides.templates.publish_actions.toast.unpublish_success": {
-        "string": "テンプレートの公開が取り消されました"
+        "string": "模板取消发布"
     },
     "slides.templates.publish_actions.toast.update_success": {
-        "string": "テンプレートの更新が公開されました"
+        "string": "模板更新已发布"
     },
     "slides.templates.publish_actions.toasts.publish_error.generic": {
-        "string": "公開処理中に問題が発生しました。再読み込みの後、もう一度お試しください。"
+        "string": "发布过程中出现问题。请重新加载后重试。"
     },
     "slides.templates.publish_actions.unpublishing": {
-        "string": "テンプレートの公開を取り消しています"
+        "string": "取消发布模板中"
     },
     "slides.templates.recents": {
         "string": "最近"
     },
     "slides.templates.search.empty": {
-        "string": "{searchTerm}のテンプレートが見つかりませんでした"
+        "string": "找不到与{searchTerm}匹配的模板"
     },
     "slides.templates.search.empty.tip": {
-        "string": "検索条件をクリアして、閲覧してください"
+        "string": "清除搜索条件后再试"
     },
     "slides.templates.search_templates": {
-        "string": "テンプレートを検索"
+        "string": "搜索模板"
     }
 }

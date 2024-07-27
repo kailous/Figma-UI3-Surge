@@ -1,152 +1,152 @@
 {
     "proto.action_check_if_else": {
-        "string": "if/elseをチェック"
+        "string": "检查if/else"
     },
     "proto.action_check_if_else_interaction": {
-        "string": "「if/elseをチェック」インタラクション"
+        "string": "“检查if/else”交互"
     },
     "proto.action_close_overlay": {
-        "string": "オーバーレイを閉じる"
+        "string": "关闭覆盖"
     },
     "proto.action_close_overlay_interaction": {
-        "string": "「オーバーレイを閉じる」インタラクション"
+        "string": "“关闭覆盖”交互"
     },
     "proto.action_conditional": {
-        "string": "条件付きアクション"
+        "string": "条件操作"
     },
     "proto.action_conditional_interaction": {
-        "string": "条件付きインタラクション"
+        "string": "条件交互"
     },
     "proto.action_conditional_title": {
         "string": "If"
     },
     "proto.action_navigate_to": {
-        "string": "次に移動"
+        "string": "导航到"
     },
     "proto.action_navigate_to_interaction": {
-        "string": "「次に移動」インタラクション"
+        "string": "“导航到”交互"
     },
     "proto.action_navigate_to_layer": {
-        "string": "{layerName}に移動"
+        "string": "导航到{layerName}"
     },
     "proto.action_none": {
-        "string": "なし"
+        "string": "无"
     },
     "proto.action_none_interaction": {
-        "string": "「なし」インタラクション"
+        "string": "“无”交互"
     },
     "proto.action_open_link": {
-        "string": "リンクを開く"
+        "string": "打开链接"
     },
     "proto.action_open_link_interaction": {
-        "string": "「リンクを開く」インタラクション"
+        "string": "“打开链接”交互"
     },
     "proto.action_open_overlay": {
-        "string": "オーバーレイを開く"
+        "string": "打开覆盖"
     },
     "proto.action_open_overlay_interaction": {
-        "string": "「オーバーレイを開く」インタラクション"
+        "string": "“打开覆盖”交互"
     },
     "proto.action_open_url_in_new_tab": {
-        "string": "新しいタブで開く"
+        "string": "在新标签页中打开"
     },
     "proto.action_overlay_title": {
-        "string": "{overlayFrameName}をオーバーレイとして開く"
+        "string": "以覆盖形式打开{overlayFrameName}"
     },
     "proto.action_scroll_to": {
-        "string": "次にスクロール"
+        "string": "滚动到"
     },
     "proto.action_scroll_to_interaction": {
-        "string": "「次にスクロール」インタラクション"
+        "string": "“滚动到”交互"
     },
     "proto.action_set_variable": {
-        "string": "バリアブルを設定"
+        "string": "设置变量"
     },
     "proto.action_set_variable_interaction": {
-        "string": "「バリアブルを設定」インタラクション"
+        "string": "“设置变量”交互"
     },
     "proto.action_set_variable_mode": {
-        "string": "バリアブルモードを設定"
+        "string": "设置变量模式"
     },
     "proto.action_set_variable_mode_interaction": {
-        "string": "「バリアブルモードを設定」インタラクション"
+        "string": "“设置变量模式”交互"
     },
     "proto.action_set_variable_title": {
-        "string": "{variableName}を{variableValue}に設定"
+        "string": "将{variableName}设置为{variableValue}"
     },
     "proto.action_swap_overlay": {
-        "string": "オーバーレイの入れ替え"
+        "string": "切换覆盖"
     },
     "proto.action_swap_overlay_interaction": {
-        "string": "「オーバーレイの入れ替え」インタラクション"
+        "string": "“切换覆盖”交互"
     },
     "proto.action_swap_overlay_title": {
-        "string": "オーバーレイを次に入れ替える"
+        "string": "切换到覆盖"
     },
     "proto.action_update_media_backward": {
-        "string": "後ろへ"
+        "string": "向后"
     },
     "proto.action_update_media_backward_interaction": {
-        "string": "「後ろへ」インタラクション"
+        "string": "“向后”交互"
     },
     "proto.action_update_media_forward": {
-        "string": "前へ"
+        "string": "向前"
     },
     "proto.action_update_media_forward_interaction": {
-        "string": "「前へ」インタラクション"
+        "string": "“向前”交互"
     },
     "proto.action_update_media_jump": {
-        "string": "ジャンプ"
+        "string": "跳转"
     },
     "proto.action_update_media_jump_backward": {
-        "string": "後へジャンプ"
+        "string": "向后跳转"
     },
     "proto.action_update_media_jump_forward": {
-        "string": "前へジャンプ"
+        "string": "向前跳转"
     },
     "proto.action_update_media_jump_forward_backward": {
-        "string": "前/後へジャンプ"
+        "string": "前/后跳转"
     },
     "proto.action_update_media_jump_time": {
-        "string": "時間"
+        "string": "时间"
     },
     "proto.action_update_media_jump_time_interaction": {
-        "string": "「時間」インタラクション"
+        "string": "“时间”交互"
     },
     "proto.action_update_media_mute": {
-        "string": "ミュート"
+        "string": "静音"
     },
     "proto.action_update_media_mute_interaction": {
-        "string": "「ミュート」インタラクション"
+        "string": "“静音”交互"
     },
     "proto.action_update_media_mute_only": {
-        "string": "ミュートのみ"
+        "string": "仅静音"
     },
     "proto.action_update_media_mute_unmute": {
-        "string": "ミュート/ミュート解除"
+        "string": "静音/取消静音"
     },
     "proto.action_update_media_mute_unmute_interaction": {
-        "string": "「ミュート/ミュート解除」インタラクション"
+        "string": "“静音/取消静音”交互"
     },
     "proto.action_update_media_mute_unmute_video": {
-        "string": "動画をミュート/ミュート解除"
+        "string": "静音/取消静音视频"
     },
     "proto.action_update_media_pause": {
-        "string": "一時停止"
+        "string": "暂停"
     },
     "proto.action_update_media_pause_interaction": {
-        "string": "「一時停止」インストラクション"
+        "string": "“暂停”交互"
     },
     "proto.action_update_media_pause_only": {
-        "string": "一時停止のみ"
+        "string": "仅暂停"
     },
     "proto.action_update_media_play": {
-        "string": "再生"
+        "string": "播放"
     },
     "proto.action_update_media_play_interaction": {
-        "string": "「再生」インタラクション"
+        "string": "“播放”交互"
     },
     "proto.action_update_media_play_only": {
-        "string": "再生のみ"
+        "string": "仅播放"
     }
 }

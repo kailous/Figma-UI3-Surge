@@ -1,152 +1,152 @@
 {
     "rcs.account_profile_switcher.description": {
-        "string": "アカウントとプロフィールの切り替えが統合され、左上に配置されました。また、スライドバーの右下で、他のチームや組織に切り替えることができます。"
+        "string": "账户和配置文件切换已整合并放置在左上角。您还可以在滑动条的右下方切换到其他团队或组织。"
     },
     "rcs.account_profile_switcher.title": {
-        "string": "Figmaでの切り替えが簡単に"
+        "string": "在Figma中轻松切换"
     },
     "rcs.account_switching.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "rcs.account_switching.explore_files_plugins_and_widgets_created_by_the_figma_community": {
-        "string": "Figmaコミュニティが作成したファイル、プラグイン、ウィジェットを参照して、デザインのアイデアを見つけてください。"
+        "string": "浏览Figma社区创建的文件、插件和小部件，获取设计灵感。"
     },
     "rcs.account_switching.next": {
-        "string": "次へ"
+        "string": "下一步"
     },
     "rcs.account_switching.notifications_for_your_workspace_live_here": {
-        "string": "ワークスペースに関する通知はここに表示されます。"
+        "string": "工作区的通知会显示在这里。"
     },
     "rcs.account_switching.step_counter": {
         "string": "{step}/{totalSteps}"
     },
     "rcs.account_switching.this_is_where_you_access_account_settings_add_or_remove_accounts_and_see_your_figma_profiles": {
-        "string": "ここではアカウント設定にアクセスし、アカウントを追加または削除し、Figmaプロフィールを確認できます。"
+        "string": "在这里，您可以访问账户设置，添加或删除账户，并查看您的Figma配置文件。"
     },
     "rcs.autogen_password_onboarding.body": {
-        "string": "パブリックリンクのパスワードが自動生成され、より安全に共有できるようになりました。既存のパスワードはリセットされないかぎり変更されません。"
+        "string": "公共链接的密码已自动生成，以便更安全地共享。除非重置，否则现有密码不会更改。"
     },
     "rcs.autogen_password_onboarding.body.optional": {
-        "string": "セキュリティをさらに強化するため、公開リンクの共有時に自動生成パスワードを使用できます。それには、パスワードフィールドの更新アイコンをクリックします。"
+        "string": "为进一步提高安全性，可以在共享公共链接时使用自动生成的密码。点击密码字段的更新图标即可。"
     },
     "rcs.autogen_password_onboarding.header": {
-        "string": "パスワードの自動生成でセキュリティの確保が容易に"
+        "string": "通过自动生成密码简化安全性"
     },
     "rcs.back_to_file_browser.back_to_files": {
-        "string": "ファイルに戻る"
+        "string": "返回文件"
     },
     "rcs.back_to_file_browser.file_browser": {
-        "string": "ファイルブラウザ"
+        "string": "文件浏览器"
     },
     "rcs.back_to_file_browser.the_file_browser_allows_you_to": {
-        "string": "ファイルブラウザでは、アカウントでさまざまな操作を行うことができます。パーソナルファイルにアクセスし、チームを作成してチームに参加し、Figmaコミュニティにつながることができます。"
+        "string": "文件浏览器允许您在账户中执行各种操作。访问个人文件，创建和加入团队，并连接到Figma社区。"
     },
     "rcs.back_to_file_browser.you_can_head_there_by_clicking_on_option_in_the_main_menu": {
-        "string": "移動するには、メインメニューの[{optionName}]をクリックします。 "
+        "string": "要移动到那里，请点击主菜单中的[{optionName}]。"
     },
     "rcs.bigma_org_welcome.click_the_all_workspaces_button_on_the_left_to_find_teams_to_join": {
-        "string": "左側の「すべてのワークスペース」ボタンをクリックして、参加するチームを検索してください。"
+        "string": "点击左侧的「所有工作区」按钮查找可加入的团队。"
     },
     "rcs.chrome_version.if_you_have_any_questions_please_email_us_at": {
-        "string": "ご質問がある場合は、{figmaSupportEmail}までメールでお問い合わせください。"
+        "string": "如果有任何疑问，请发送邮件至{figmaSupportEmail}联系我们。"
     },
     "rcs.chrome_version.please_update_chrome_os_to_avoid_losing_work": {
-        "string": "作業内容を失わないようにするため、ChromeOSをアップデートしてください。"
+        "string": "为了避免丢失工作内容，请更新ChromeOS。"
     },
     "rcs.chrome_version.please_update_your_browser_to_avoid_losing_work": {
-        "string": "作業内容を失わないようにするため、ご使用のブラウザをアップデートしてください。"
+        "string": "为了避免丢失工作内容，请更新您的浏览器。"
     },
     "rcs.chrome_version.the_version_of_chrome_os_you_are_using_has_a_networking_issue_which_may_prevent_you_from_saving_your_work_a_patch_has_been_released_with_version_77_0_3865_120_starting_november_4_2019_make_sure_to_allow_chrome_os_to_update_automatically": {
-        "string": "ご使用のバージョンのChromeOSにはネットワークの問題があり、これが原因で作業内容を保存できない可能性があります。2019年11月4日からバージョン77.0.3865.120でパッチがリリースされています。ChromeOSの{updateAutomatically}を許可してください。"
+        "string": "您正在使用的ChromeOS版本存在网络问题，可能导致无法保存工作内容。从2019年11月4日起，版本77.0.3865.120已发布补丁。请确保允许ChromeOS自动更新。"
     },
     "rcs.chrome_version.the_version_of_chrome_you_are_using_has_a_networking_issue_which_may_prevent_you_from_saving_your_work_please_upgrade_your_browser_to_version_77_0_3865_120_or_greater_to_avoid_any_issues": {
-        "string": "ご使用のバージョンのChromeにはネットワークの問題があり、これが原因で作業内容を保存できない可能性があります。問題を回避するため、バージョン77.0.3865.120以降に{upgradeYourBrowser}してください。"
+        "string": "您正在使用的Chrome版本存在网络问题，可能导致无法保存工作内容。请将浏览器升级到版本77.0.3865.120或更高版本，以避免任何问题。"
     },
     "rcs.chrome_version.update_automatically": {
-        "string": "自動更新"
+        "string": "自动更新"
     },
     "rcs.chrome_version.upgrade_your_browser": {
-        "string": "ブラウザをアップグレード"
+        "string": "升级浏览器"
     },
     "rcs.comments.comments": {
-        "string": "コメント"
+        "string": "评论"
     },
     "rcs.comments.get_feedback_requests_and_copy_updates_where_you_ll_use_them_not_in_your_inbox": {
-        "string": "フィードバック、リクエスト、コピーの更新を、受信トレイではなく、使用する位置で確認できます。"
+        "string": "在您需要的位置获取反馈、请求和复制更新，而不是在收件箱中。"
     },
     "rcs.comments.leave_notes_right_in_your_design_files": {
-        "string": "デザインファイルに直接メモを入力できます。"
+        "string": "直接在设计文件中留下备注。"
     },
     "rcs.community_hub_file_duplicate.no_thanks": {
-        "string": "今はしない"
+        "string": "不用了"
     },
     "rcs.community_hub_file_duplicate.show_me_around": {
-        "string": "案内を見る"
+        "string": "带我看看"
     },
     "rcs.community_hub_file_duplicate.welcome_to_figma": {
-        "string": "Figmaへようこそ"
+        "string": "欢迎来到Figma"
     },
     "rcs.community_hub_file_duplicate.you_just_duplicated_this_file_from_the_community_to_get_started_let_us_show_you_some_of_the_things_that_make_figma_special_and_different_from_other_design_tools": {
-        "string": "このファイルをコミュニティから複製しました。始めるために、Figmaを他のデザインツールとは異なる特別なものにしている機能をいくつか紹介しましょう。"
+        "string": "您刚刚从社区复制了这个文件。开始使用时，让我们向您展示一些使Figma与其他设计工具不同的特别之处。"
     },
     "rcs.community_libraries.drag_components_from_a_library_onto_the_canvas_to_build_your_designs": {
-        "string": "ライブラリからコンポーネントをドラッグして、デザイン内で使用(および再利用)します。"
+        "string": "从库中拖动组件到画布上，以构建您的设计（并可重复使用）。"
     },
     "rcs.constraints.all_of_your_layers_adjust_the_way_you_expect_no_magic_you_get_full_control": {
-        "string": "レイヤーを使ってデザインを調整し、完全にコントロールできます。"
+        "string": "所有层都按您期望的方式调整，没有魔法，您完全掌控。"
     },
     "rcs.constraints.constraints": {
-        "string": "制約"
+        "string": "约束"
     },
     "rcs.constraints.setting_precise_constraints_lets_you_build_fluid_layouts_to_support_multiple_device_sizes_and_breakpoints_within_the_same_group": {
-        "string": "正確な制約を設定することで、同じグループ内で複数のデバイスサイズとブレークポイントに対応した流動的なレイアウトを作成できます。"
+        "string": "设置精确的约束，可以创建流畅的布局，以支持同一组内的多个设备大小和断点。"
     },
     "rcs.create_files.create_files_from_scratch_import_designs_from_sketch_or_jamboard_or_start_from_templates": {
-        "string": "ゼロから始めることも、SketchやJamboardからファイルをインポートすることも、テンプレートを探すこともできます。"
+        "string": "可以从头开始创建文件，从Sketch或Jamboard导入设计，或从模板开始。"
     },
     "rcs.create_files.create_files_from_scratch_import_designs_from_sketch_or_start_from_templates": {
-        "string": "ファイルを新規に作成し、Sketchからデザインをインポートし、テンプレートから開始できます。"
+        "string": "可以从头开始创建文件，从Sketch导入设计，或从模板开始。"
     },
     "rcs.create_files.files_are_great_for_collaboration_while_your_drafts_are_more_personal_if_you_share_them_they_re_view_only": {
-        "string": "ファイルはコラボレーションに最適で、ドラフトはもっと個人的なものです。共有するには閲覧限定になります。"
+        "string": "文件非常适合协作，而草稿则更为个人化。如果共享它们，则仅供查看。"
     },
     "rcs.expiring_links_onboarding.body": {
-        "string": "パブリックリンクの有効期間を設定して、ユーザーがリンクにアクセスできる期間を選択できます。設定した期間が経過すると、ファイルは以前のプライベート設定に切り替わります。"
+        "string": "设置公共链接的有效期，以选择用户可以访问链接的时间段。时间过后，文件将切换回之前的私有设置。"
     },
     "rcs.expiring_links_onboarding.header": {
-        "string": "パブリックリンクの有効期間を設定"
+        "string": "设置公共链接的有效期"
     },
     "rcs.export.export": {
-        "string": "エクスポート"
+        "string": "导出"
     },
     "rcs.export.export_your_designs_for_use_in_production_or_to_share_with_your_team": {
-        "string": "本番環境で使用するかチームと共有するデザインをエクスポートします。"
+        "string": "导出设计以用于生产或与团队共享。"
     },
     "rcs.export.figma_can_export_to_png_jpeg_svg_and_pdf": {
-        "string": "FigmaではPNG、JPEG、SVG、PDFにエクスポートできます。"
+        "string": "Figma可以导出为PNG、JPEG、SVG和PDF格式。"
     },
     "rcs.feed_onboarding.audience_selection.content": {
-        "string": "ワークスペース、チーム、またはプロジェクトを選択すると、メンバーから投稿が見えるようになります。"
+        "string": "选择工作区、团队或项目，成员将能够看到您的帖子。"
     },
     "rcs.feed_onboarding.audience_selection.title": {
-        "string": "自分のオーディエンスを選択"
+        "string": "选择您的受众"
     },
     "rcs.feed_onboarding.first_time_post.content": {
-        "string": "フィードは、アイデアの共有、最新情報の投稿、チームからのフィードバックの収集のための新しいスペースです。"
+        "string": "Feed是一个全新的空间，用于分享想法、发布最新信息和收集团队的反馈。"
     },
     "rcs.feed_onboarding.first_time_post.cta": {
-        "string": "最初の投稿を作成"
+        "string": "创建首个帖子"
     },
     "rcs.feed_onboarding.first_time_post.title": {
-        "string": "フィードバックが必要ですか? フィードをお試しください。"
+        "string": "需要反馈吗？试试Feed。"
     },
     "rcs.feed_onboarding.weekly_prompt.content": {
-        "string": "大まかなアイデアから磨き上げたデザインまで、今取り組んでいるものすべてをチームのメンバーに見せましょう。"
+        "string": "从粗略的想法到精细的设计，向团队成员展示您目前正在处理的一切。"
     },
     "rcs.feed_onboarding.weekly_prompt.cta": {
-        "string": "投稿を作成"
+        "string": "创建帖子"
     },
     "rcs.feed_onboarding.weekly_prompt.title": {
-        "string": "投稿してみる"
+        "string": "试试发布帖子"
     }
 }

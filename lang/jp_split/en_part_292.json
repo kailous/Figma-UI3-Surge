@@ -1,152 +1,152 @@
 {
     "sites.panel.toolbar_header.webpage": {
-        "string": "Webページ"
+        "string": "网页"
     },
     "sites.fullscreen_actions.copy-external-url": {
-        "string": "外部URLをコピー"
+        "string": "复制外部URL"
     },
     "sites.fullscreen_actions.copy-link": {
-        "string": "ページへのリンクをコピー"
+        "string": "复制页面链接"
     },
     "sites.fullscreen_actions.delete-selection": {
-        "string": "削除…"
+        "string": "删除..."
     },
     "sites.fullscreen_actions.duplicate-webpage": {
-        "string": "複製"
+        "string": "复制"
     },
     "sites.fullscreen_actions.external_url_copied": {
-        "string": "外部URLがクリップボードにコピーされました"
+        "string": "外部URL已复制到剪贴板"
     },
     "sites.fullscreen_actions.set-as-default-responsive-set": {
-        "string": "ホームページとして設定"
+        "string": "设为主页"
     },
     "sites.add_breakpoint_modal.button": {
         "string": "保存"
     },
     "sites.add_breakpoint_modal.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "sites.add_breakpoint_modal.title": {
-        "string": "カスタムレイアウト"
+        "string": "自定义布局"
     },
     "sites.add_breakpoint_modal.width": {
-        "string": "ブレイクポイント幅"
+        "string": "断点宽度"
     },
     "sites.breakpoint_bar.add_custom_breakpoint": {
-        "string": "設定..."
+        "string": "设置..."
     },
     "sites.breakpoint_bar.add_desktop_breakpoint": {
-        "string": "デスクトップ"
+        "string": "桌面端"
     },
     "sites.breakpoint_bar.add_mobile_breakpoint": {
-        "string": "モバイル"
+        "string": "移动端"
     },
     "sites.breakpoint_bar.add_tablet_breakpoint": {
-        "string": "タブレット"
+        "string": "平板端"
     },
     "sites.breakpoint_bar.adjust_font_size": {
-        "string": "フォントサイズ"
+        "string": "调整字体大小"
     },
     "sites.breakpoint_bar.auto_adjust": {
-        "string": "オートレイアウト"
+        "string": "自动布局"
     },
     "sites.breakpoint_bar.auto_adjust_title": {
-        "string": "新しいレイアウトに合わせて調整"
+        "string": "根据新布局调整"
     },
     "sites.toolbar.new_site_file": {
-        "string": "Webサイト"
+        "string": "新建网站"
     },
     "sites.toolbar.publish": {
-        "string": "公開"
+        "string": "发布"
     },
     "sites.toolbar.publish_disabled_tooltip": {
-        "string": "アルファ期間中は、公開機能は無効です"
+        "string": "在Alpha期间，发布功能被禁用"
     },
     "sites.toolbar.publish_modal.copy_url_tooltip": {
-        "string": "URLをクリップボードにコピー"
+        "string": "将URL复制到剪贴板"
     },
     "sites.toolbar.publish_modal.domain_header": {
-        "string": "ドメイン"
+        "string": "域名"
     },
     "sites.toolbar.publish_modal.last_published": {
-        "string": "{timeAgo}に最新版公開"
+        "string": "上次发布于{timeAgo}"
     },
     "sites.toolbar.publish_modal.last_published_with_publisher": {
-        "string": "{timeAgo}に {publishedBy}が最新版を公開"
+        "string": "{publishedBy}上次发布于{timeAgo}"
     },
     "sites.toolbar.publish_modal.no_changes": {
-        "string": "変更なし"
+        "string": "没有更改"
     },
     "sites.toolbar.publish_modal.publish_changes_label": {
-        "string": "変更を公開"
+        "string": "发布更改"
     },
     "sites.toolbar.publish_modal.publish_now_label": {
-        "string": "今すぐ公開"
+        "string": "立即发布"
     },
     "sites.toolbar.publish_modal.publishing_label": {
-        "string": "公開処理中..."
+        "string": "发布中..."
     },
     "sites.toolbar.publish_tooltip": {
-        "string": "サイトをWebに公開"
+        "string": "将网站发布到Web"
     },
     "sites.toolbar.publishing_your_site": {
-        "string": "サイトを公開..."
+        "string": "发布您的网站..."
     },
     "sites.visual_bell.auto_adjust": {
-        "string": "新しいレイアウトを追加し、調整しています..."
+        "string": "添加并调整新布局..."
     },
     "slides.carousel.add-blank-slide": {
-        "string": "空白のスライドを追加"
+        "string": "添加空白幻灯片"
     },
     "slides.carousel.add-slide-from-template": {
-        "string": "テンプレートからスライドを追加"
+        "string": "从模板添加幻灯片"
     },
     "slides.carousel.error": {
-        "string": "エラーが発生しました。"
+        "string": "发生错误。"
     },
     "slides.carousel.error_solution": {
-        "string": "もう一度読み込んでやり直してください。"
+        "string": "请重新加载并重试。"
     },
     "slides.carousel.new_slide": {
-        "string": "新しいスライド"
+        "string": "新幻灯片"
     },
     "slides.carousel.slide_stack_tooltip": {
-        "string": "スライド{min}から{max}"
+        "string": "幻灯片{min}到{max}"
     },
     "slides.flapp.alignment.neutral_label": {
-        "string": "どちらとも言えない"
+        "string": "中立"
     },
     "slides.flapp.alignment.prompt_placeholder": {
-        "string": "意見の一致度スケール"
+        "string": "意见一致性量表"
     },
     "slides.flapp.alignment.strongly_agree_label": {
-        "string": "まったくそう思う"
+        "string": "完全同意"
     },
     "slides.flapp.alignment.strongly_disagree_label": {
-        "string": "まったくそうは思わない"
+        "string": "完全不同意"
     },
     "slides.flapp.embed.add_button_invalid_link_tooltip": {
-        "string": "無効なプロトタイプリンク"
+        "string": "无效的原型链接"
     },
     "slides.flapp.embed.add_button_label": {
-        "string": "追加"
+        "string": "添加"
     },
     "slides.flapp.embed.add_prototype_link_header": {
-        "string": "リンクを使用"
+        "string": "使用链接"
     },
     "slides.flapp.embed.add_prototype_link_hint": {
-        "string": "例: {prototype_link_prefix}..."
+        "string": "例如: {prototype_link_prefix}..."
     },
     "slides.flapp.embed.modal_description": {
-        "string": "デザインファイルからプロトタイプを追加します。"
+        "string": "从设计文件中添加原型。"
     },
     "slides.flapp.embed.prototype_modal_title": {
-        "string": "プロトタイプを追加"
+        "string": "添加原型"
     },
     "slides.flapp.embed.recent_prototypes_header": {
         "string": "最近"
     },
     "slides.flapp.embed.title": {
-        "string": "スライド埋め込み"
+        "string": "幻灯片嵌入"
     }
 }

@@ -1,152 +1,152 @@
 {
     "search.preview_section.all_files": {
-        "string": "すべてのファイル"
+        "string": "所有文件"
     },
     "search.preview_section.all_resources": {
-        "string": "すべてのタイプ"
+        "string": "所有类型"
     },
     "search.preview_section.community_capitalized": {
-        "string": "コミュニティ"
+        "string": "社区"
     },
     "search.preview_section.creator": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "search.preview_section.files_capitalized": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "search.preview_section.orgs_capitalized": {
-        "string": "組織"
+        "string": "组织"
     },
     "search.preview_section.people_capitalized": {
-        "string": "ユーザー"
+        "string": "用户"
     },
     "search.preview_section.plugins_capitalized": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "search.preview_section.projects_capitalized": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "search.preview_section.recent": {
         "string": "最近"
     },
     "search.preview_section.see_all_results": {
-        "string": "結果をすべて表示"
+        "string": "查看所有结果"
     },
     "search.preview_section.see_more_files": {
-        "string": "{numResults, plural, other {さらに{numResults}個のファイルを表示}}"
+        "string": "显示更多{numResults}个文件"
     },
     "search.preview_section.see_more_hub_files": {
-        "string": "{numResults, plural, other {さらに{numResults}個のコミュニティファイルを表示}}"
+        "string": "显示更多{numResults}个社区文件"
     },
     "search.preview_section.see_more_plugins": {
-        "string": "{numResults, plural, other {さらに{numResults}個のプラグインを表示}}"
+        "string": "显示更多{numResults}个插件"
     },
     "search.preview_section.see_more_projects": {
-        "string": "{numResults, plural, other {さらに{numResults}個のプロジェクトを表示}}"
+        "string": "显示更多{numResults}个项目"
     },
     "search.preview_section.see_more_teams": {
-        "string": "{numResults, plural, other {さらに{numResults}個のチームを表示}}"
+        "string": "显示更多{numResults}个团队"
     },
     "search.preview_section.see_more_users": {
-        "string": "{numResults, plural, other {さらに{numResults}人のユーザーを表示}}"
+        "string": "显示更多{numResults}个用户"
     },
     "search.preview_section.teams_capitalized": {
-        "string": "チーム"
+        "string": "团队"
     },
     "search.recents": {
         "string": "最近"
     },
     "search.search_bar.clear": {
-        "string": "クリア"
+        "string": "清除"
     },
     "search.search_bar.placeholder": {
-        "string": "何でも検索"
+        "string": "搜索任何内容"
     },
     "search.search_filter.all_org_results": {
-        "string": "{orgName}全体"
+        "string": "整个{orgName}"
     },
     "search.search_filter.all_organizations_results": {
-        "string": "すべての組織"
+        "string": "所有组织"
     },
     "search.search_filter.non_org_teams": {
-        "string": "外部チーム"
+        "string": "外部团队"
     },
     "search.search_model_type.empty_state_creators": {
-        "string": "一致する作成者がいません"
+        "string": "没有匹配的创建者"
     },
     "search.search_model_type.empty_state_files": {
-        "string": "一致するファイルがありません"
+        "string": "没有匹配的文件"
     },
     "search.search_model_type.empty_state_hub_files": {
-        "string": "一致するファイルがありません"
+        "string": "没有匹配的社区文件"
     },
     "search.search_model_type.empty_state_people": {
-        "string": "一致するユーザーがいません"
+        "string": "没有匹配的用户"
     },
     "search.search_model_type.empty_state_private_plugins": {
-        "string": "一致するプラグインがありません"
+        "string": "没有匹配的插件"
     },
     "search.search_model_type.empty_state_private_widgets": {
-        "string": "一致するウィジェットがありません"
+        "string": "没有匹配的小部件"
     },
     "search.search_model_type.empty_state_projects": {
-        "string": "一致するプロジェクトがありません"
+        "string": "没有匹配的项目"
     },
     "search.search_model_type.empty_state_public_plugins": {
-        "string": "一致するプラグインがありません"
+        "string": "没有匹配的插件"
     },
     "search.search_model_type.empty_state_public_widgets": {
-        "string": "一致するウィジェットがありません"
+        "string": "没有匹配的小部件"
     },
     "search.search_model_type.empty_state_teams": {
-        "string": "一致するチームがありません"
+        "string": "没有匹配的团队"
     },
     "search.search_model_type.search_error": {
-        "string": "問題が発生しました。\n後でもう一度検索してみてください。"
+        "string": "出现问题。\n请稍后再试搜索。"
     },
     "search.search_model_type_header.creators": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "search.search_model_type_header.files": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "search.search_model_type_header.hub_files": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "search.search_model_type_header.people": {
-        "string": "ユーザー"
+        "string": "用户"
     },
     "search.search_model_type_header.private_plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "search.search_model_type_header.private_widgets": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "search.search_model_type_header.projects": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "search.search_model_type_header.public_plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "search.search_model_type_header.public_widgets": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "search.search_model_type_header.teams": {
-        "string": "チーム"
+        "string": "团队"
     },
     "search.search_results": {
-        "string": "検索結果"
+        "string": "搜索结果"
     },
     "search.search_results_for": {
-        "string": "検索結果"
+        "string": "搜索结果"
     },
     "search.search_scope.community": {
-        "string": "コミュニティ"
+        "string": "社区"
     },
     "search.search_scope.personal": {
-        "string": "ドラフトとチーム"
+        "string": "草稿和团队"
     },
     "search.sidebar_search_clear": {
-        "string": "クリア"
+        "string": "清除"
     }
 }

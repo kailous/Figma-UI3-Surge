@@ -1,81 +1,81 @@
 {
     "rcs.jamboard.connect_to_google_drive_disclaimer.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "rcs.jamboard.connect_to_google_drive_disclaimer.desc1": {
-        "string": "[接続]をクリックすると、Google Driveにアクセスして既存のJamboardファイルをインポートすることをFigmaに許可します。"
+        "string": "点击[连接]，允许Figma访问Google Drive并导入现有的Jamboard文件。"
     },
     "rcs.jamboard.connect_to_google_drive_disclaimer.title": {
-        "string": "Google DriveをFigJamに接続"
+        "string": "将Google Drive连接到FigJam"
     },
     "rcs.jamboard.google_drive_icon.alt": {
-        "string": "Googleドライブアイコン"
+        "string": "Google Drive图标"
     },
     "rcs.jamboard.import_button_image.alt": {
-        "string": "インポートボタンの画像"
+        "string": "导入按钮图像"
     },
     "rcs.jamboard.import_files_failed.button": {
-        "string": "もう一度試す"
+        "string": "再试一次"
     },
     "rcs.jamboard.import_files_failed.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "rcs.jamboard.import_files_failed.title": {
-        "string": "ファイルをインポートできませんでした"
+        "string": "文件导入失败"
     },
     "rcs.jamboard.import_files_failed_error.desc": {
-        "string": "問題が発生したため、すべてのファイルをインポートできませんでした。もう一度試しますか?"
+        "string": "出现问题，未能导入所有文件。要重试吗？"
     },
     "rcs.jamboard.importer_callout.desc": {
-        "string": "JamboardファイルをFigJamに取り込めるようになりました。ファイルを初めから作り直す必要がなくなりました。"
+        "string": "现在可以将Jamboard文件导入FigJam，无需从头重新创建文件。"
     },
     "rcs.jamboard.importer_callout.primary_cta": {
-        "string": "始める"
+        "string": "开始"
     },
     "rcs.jamboard.importer_callout.secondary_cta": {
-        "string": "今はしない"
+        "string": "稍后"
     },
     "rcs.jamboard.importer_callout.title": {
-        "string": "Jamboardからファイルをインポート"
+        "string": "从Jamboard导入文件"
     },
     "rcs.jamboard.later": {
-        "string": "あとで"
+        "string": "稍后"
     },
     "rcs.jamboard.open_in_browser_disclaimer.button": {
-        "string": "ブラウザを開く"
+        "string": "打开浏览器"
     },
     "rcs.jamboard.open_in_browser_disclaimer.desc1": {
-        "string": "下のボタンをクリックすると、お使いのWebブラウザでFigmaが開きます。WebブラウザでFigmaが開いたら、右上の[インポート]をクリックします。"
+        "string": "点击下面的按钮，在您的Web浏览器中打开Figma。打开后，点击右上角的[导入]按钮。"
     },
     "rcs.jamboard.open_in_browser_disclaimer.title": {
-        "string": "ブラウザで続行"
+        "string": "在浏览器中继续"
     },
     "rcs.japanese_launch_modal.body": {
-        "string": "Figma is now available in Japanese: in-product, on our website, and our help center."
+        "string": "Figma现已支持日语：产品内、网站和帮助中心。"
     },
     "rcs.japanese_launch_modal.button": {
-        "string": "Update language settings"
+        "string": "更新语言设置"
     },
     "rcs.japanese_launch_modal.title": {
-        "string": "Figma in Japanese"
+        "string": "Figma支持日语"
     },
     "rcs.launch_nux_modal.no_thanks": {
-        "string": "いいえ"
+        "string": "不用了"
     },
     "rcs.launch_nux_modal.show_me_around": {
-        "string": "はい"
+        "string": "好的"
     },
     "rcs.launch_nux_modal.take_a_quick_tour_of_figma": {
-        "string": "Figmaの機能を見てみますか?"
+        "string": "要快速浏览一下Figma的功能吗？"
     },
     "rcs.launch_nux_modal.walk_through_figma_s_unique_editor_and_collaboration_features": {
-        "string": "Figma独自のエディターとコラボレーション機能を詳しくご紹介します。"
+        "string": "我们将向您展示Figma独特的编辑器和协作功能。"
     },
     "rcs.libraries_workspace_onboarding_modal.text": {
-        "string": "ワークスペースと組織別にライブラリがグループ化され、必要なリソースを簡単に取得できるようになりました。"
+        "string": "工作区和组织的库已被分组，方便获取所需资源。"
     },
     "rcs.libraries_workspace_onboarding_modal.title": {
-        "string": "1つの場所にあるすべてのライブラリ"
+        "string": "所有库都在一个地方"
     },
     "rcs.live_device_preview.android": {
         "string": "Android"
@@ -84,69 +84,69 @@
         "string": "iOS"
     },
     "rcs.live_device_preview.live_device_preview": {
-        "string": "ライブデバイスプレビュー"
+        "string": "实时设备预览"
     },
     "rcs.live_device_preview.they_ll_update_instantly_no_matter_what_network_you_re_on_and_with_no_need_to_connect_via_usb": {
-        "string": "接続しているネットワークを問わず、ミラーリングされたアプリは即時に更新されます。USBで接続する必要はありません。"
+        "string": "无论连接的是哪个网络，镜像应用程序都会即时更新，无需通过USB连接。"
     },
     "rcs.live_device_preview.to_view_your_frames_live_on_your_device_just_download_figma_mirror": {
-        "string": "デバイスでフレームをライブ表示するには、ご使用の{linkToIOS}または{linkToAndroid}デバイスにFigma Mirrorをダウンロードします。"
+        "string": "要在设备上实时查看您的框架，只需在{linkToIOS}或{linkToAndroid}设备上下载Figma Mirror。"
     },
     "rcs.mindmaps_onboarding_step1.description": {
-        "string": "マインドマップを使用すると、アイデアをすばやく描き出し、それぞれのつながりを説明できます。"
+        "string": "使用思维导图，可以快速描绘出想法，并解释它们之间的联系。"
     },
     "rcs.mindmaps_onboarding_step1.show_me": {
-        "string": "見る"
+        "string": "查看"
     },
     "rcs.mindmaps_onboarding_step1.title": {
-        "string": "自分の考えを視覚化"
+        "string": "可视化您的思维"
     },
     "rcs.mindmaps_onboarding_step2.description": {
-        "string": "最初にマインドマッピングツールを選択します(優れたサンプルも用意されています)。"
+        "string": "首先选择一个思维导图工具（我们还提供了优质的示例）。"
     },
     "rcs.mindmaps_onboarding_step2.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "rcs.mindmaps_onboarding_step2.see_example": {
-        "string": "サンプルを見る"
+        "string": "查看示例"
     },
     "rcs.mobile_comment_announcement.description": {
-        "string": "QRコードをスキャンしてFigmaモバイルアプリを入手します。このアプリは、外出時でもファイル、プロトタイプ、コメントにアクセスし、常にチームとつながることができます。"
+        "string": "扫描二维码获取Figma移动应用程序。即使外出，也能访问文件、原型和评论，始终与团队保持联系。"
     },
     "rcs.mobile_comment_announcement.email_download_link": {
-        "string": "ダウンロードリンクをメール送信"
+        "string": "通过邮件发送下载链接"
     },
     "rcs.mobile_comment_announcement.title": {
-        "string": "外出時に返信を通知"
+        "string": "外出时接收回复通知"
     },
     "rcs.mobile_comment_reply_upsell.download_via_qr_code": {
-        "string": "QRコードでダウンロード"
+        "string": "通过二维码下载"
     },
     "rcs.mobile_comment_reply_upsell.email_me": {
-        "string": "メールで送信"
+        "string": "邮件发送给我"
     },
     "rcs.mobile_comment_reply_upsell.email_me_instead": {
-        "string": "代わりにメールで送信"
+        "string": "改为通过邮件发送"
     },
     "rcs.mobile_comment_reply_upsell.email_sent": {
-        "string": "メールを送信しました"
+        "string": "邮件已发送"
     },
     "rcs.mobile_comment_reply_upsell.title": {
-        "string": "外出中に返信の通知を受ける"
+        "string": "外出时接收回复通知"
     },
     "rcs.mobile_comment_reply_upsell_page1.description": {
-        "string": "Figmaモバイルアプリを入手してファイルにアクセスし、外出中に新規コメントや返信の通知を受け取りましょう。"
+        "string": "获取Figma移动应用程序，访问文件，并在外出时接收新评论和回复的通知。"
     },
     "rcs.mobile_comment_reply_upsell_page2.description": {
-        "string": "上のQRコードをスキャンして、iOSやAndroidにFigmaモバイルアプリをダウンロードしてください。"
+        "string": "扫描上方二维码，在iOS或Android设备上下载Figma移动应用程序。"
     },
     "rcs.modal.new": {
-        "string": "新機能"
+        "string": "新功能"
     },
     "rcs.move_drafts_nudge.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "rcs.move_drafts_nudge.dismiss": {
-        "string": "閉じる"
+        "string": "关闭"
     }
 }

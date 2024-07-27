@@ -1,152 +1,152 @@
 {
     "sites.lint.opacity-layer": {
-        "string": "レイヤーに不透明度を直接適用する"
+        "string": "直接将不透明度应用于图层"
     },
     "sites.lint.remove-action": {
-        "string": "アクションを削除"
+        "string": "删除操作"
     },
     "sites.lint.remove-alignment": {
-        "string": "位置揃えを削除"
+        "string": "删除对齐"
     },
     "sites.lint.remove-blend-mode": {
-        "string": "ブレンドモードを削除"
+        "string": "删除混合模式"
     },
     "sites.lint.remove-effect": {
-        "string": "エフェクトを削除"
+        "string": "删除效果"
     },
     "sites.lint.remove-filters": {
-        "string": "フィルターをリセット"
+        "string": "重置滤镜"
     },
     "sites.lint.remove-gradient": {
-        "string": "グラデーションを削除"
+        "string": "删除渐变"
     },
     "sites.lint.remove-image": {
-        "string": "画像を削除"
+        "string": "删除图像"
     },
     "sites.lint.remove-opacity": {
-        "string": "不透明度を削除"
+        "string": "删除不透明度"
     },
     "sites.lint.remove-rotation": {
-        "string": "回転を削除"
+        "string": "删除旋转"
     },
     "sites.lint.remove-trigger": {
-        "string": "トリガーを削除"
+        "string": "删除触发器"
     },
     "sites.lint.remove-vertical-trim": {
-        "string": "上下トリミングをオフにする"
+        "string": "关闭上下修剪"
     },
     "sites.lint.remove-video": {
-        "string": "動画を削除"
+        "string": "删除视频"
     },
     "sites.lint.reset-to-default": {
-        "string": "デフォルトにリセット"
+        "string": "重置为默认"
     },
     "sites.lint.reset-transform": {
-        "string": "変換をリセット"
+        "string": "重置变换"
     },
     "sites.lint.rotate-layer": {
-        "string": "レイヤー自体を回転"
+        "string": "旋转图层本身"
     },
     "sites.lint.scrolling/scrolling-enabled-with-clipped-content": {
-        "string": "コンテンツの表示によるスクロールのオーバーフロー"
+        "string": "通过内容溢出启用滚动"
     },
     "sites.lint.set-clip-content": {
-        "string": "「コンテンツを隠す」に設定"
+        "string": "设置为“隐藏内容”"
     },
     "sites.lint.set-corner-smoothing-zero": {
-        "string": "「0%」に設定"
+        "string": "设置为“0%”"
     },
     "sites.lint.set-spacing-auto": {
-        "string": "「自動」に設定"
+        "string": "设置为“自动”"
     },
     "sites.lint.shadows-may-look-different": {
-        "string": "シャドウがプレビューで異なって見える場合があります"
+        "string": "阴影在预览中可能看起来不同"
     },
     "sites.lint.stroke-dash-may-look-different": {
-        "string": "破線がプレビューで異なって見える場合があります"
+        "string": "虚线在预览中可能看起来不同"
     },
     "sites.lint.strokes/corner-smoothing": {
-        "string": "角のスムージング"
+        "string": "角平滑"
     },
     "sites.lint.styles/autolayout-baseline-alignment": {
-        "string": "テキストがベースライン揃えに設定されているオートテキスト。位置揃えがされているテキストレイヤーの1つがフレーム内でネストされています"
+        "string": "文本设置为基线对齐的自动文本。对齐的文本图层之一嵌套在框架内"
     },
     "sites.lint.styles/diamond-gradient-fills": {
-        "string": "変換を含むひし形グラデーション"
+        "string": "包含变换的钻石渐变"
     },
     "sites.lint.styles/image-filters": {
-        "string": "画像フィルター"
+        "string": "图像滤镜"
     },
     "sites.lint.styles/shadow-blend-mode": {
-        "string": "ブレンドモードを含むシャドウ"
+        "string": "包含混合模式的阴影"
     },
     "sites.lint.styles/strokes-blend-mode": {
-        "string": "ブレンドモードを含む線"
+        "string": "包含混合模式的描边"
     },
     "sites.lint.styles/strokes-dash-pattern": {
-        "string": "破線"
+        "string": "虚线"
     },
     "sites.lint.styles/strokes-gradient": {
-        "string": "グラデーションを含む線"
+        "string": "包含渐变的描边"
     },
     "sites.lint.styles/strokes-image": {
-        "string": "画像を含む線"
+        "string": "包含图像的描边"
     },
     "sites.lint.styles/strokes-join-miter": {
-        "string": "特殊結合を含む線"
+        "string": "包含特殊连接的描边"
     },
     "sites.lint.styles/text-background-blur": {
-        "string": "背景にぼかしを含むテキスト"
+        "string": "包含背景模糊的文本"
     },
     "sites.lint.styles/text-inner-shadows": {
-        "string": "内側にシャドウを含むテキスト"
+        "string": "包含内阴影的文本"
     },
     "sites.lint.styles/video": {
-        "string": "動画"
+        "string": "视频"
     },
     "sites.lint.text/vertical-trim": {
-        "string": "上下トリミング"
+        "string": "上下修剪"
     },
     "sites.lint.use-frame-rectangle-vector-gradient": {
-        "string": "グラデーションを含むフレーム、長方形、またはベクターシェイプを使用する"
+        "string": "使用包含渐变的框架、矩形或矢量形状"
     },
     "sites.lint.use-frame-rectangle-vector-image": {
-        "string": "画像を含むフレーム、長方形、またはベクターシェイプを使用する"
+        "string": "使用包含图像的框架、矩形或矢量形状"
     },
     "sites.lint.use-multiply": {
-        "string": "乗算を使用"
+        "string": "使用正片叠底"
     },
     "sites.lint.use-vector-shape": {
-        "string": "ベクターシェイプまたはマスクを使用する"
+        "string": "使用矢量形状或蒙版"
     },
     "sites.modal.open-full-preview": {
-        "string": "フルプレビューを開く"
+        "string": "打开全屏预览"
     },
     "sites.modal.reload": {
-        "string": "プレビューの再読み込み"
+        "string": "重新加载预览"
     },
     "sites.preview.layouts": {
-        "string": "レイアウト"
+        "string": "布局"
     },
     "sites.preview.scale": {
-        "string": "拡大縮小"
+        "string": "缩放"
     },
     "sites.alpha_cta.be_careful_when_others_can_see_your_screen_and_only_share_feedback_below": {
-        "string": "他の人に画面が見えるときには注意し、フィードバックは以下でのみ共有してください。"
+        "string": "当其他人可以看到您的屏幕时，请小心，并仅在下方分享反馈。"
     },
     "sites.alpha_cta.share_feedback": {
-        "string": "フィードバックを共有"
+        "string": "分享反馈"
     },
     "sites.alpha_cta.sites_is_still_under_wraps": {
-        "string": "サイトはまだ非公開です"
+        "string": "网站仍处于保密状态"
     },
     "sites.panel.accessibility_alt_text_label": {
-        "string": "altテキスト"
+        "string": "alt文本"
     },
     "sites.panel.accessibility_aria_label_label": {
-        "string": "ラベル(ARIA)"
+        "string": "标签（ARIA）"
     },
     "sites.panel.accessibility_header": {
-        "string": "アクセシビリティ"
+        "string": "可访问性"
     }
 }

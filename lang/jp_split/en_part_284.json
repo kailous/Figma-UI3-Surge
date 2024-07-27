@@ -1,152 +1,152 @@
 {
     "search.empty_state.search_placeholder_figma_community": {
-        "string": "Figmaコミュニティ内を検索"
+        "string": "搜索Figma社区"
     },
     "search.empty_state.try_searching_whole_org": {
-        "string": "組織全体を検索してみてください"
+        "string": "尝试在整个组织中搜索"
     },
     "search.error.max_query_length_exceeded": {
-        "string": "検索文字列を短くしてみてください。ワードやフレーズを少なくすると最適な結果が得られます"
+        "string": "请缩短搜索字符串。使用较少的词或短语可以获得最佳结果。"
     },
     "search.facet_preview_section.see_more_files": {
-        "string": "ファイルをさらに表示"
+        "string": "查看更多文件"
     },
     "search.facet_preview_section.see_more_projects": {
-        "string": "プロジェクトをさらに表示"
+        "string": "查看更多项目"
     },
     "search.facet_preview_section.see_more_teams": {
-        "string": "チームをさらに表示"
+        "string": "查看更多团队"
     },
     "search.facet_preview_section.see_more_users": {
-        "string": "ユーザーをさらに表示"
+        "string": "查看更多用户"
     },
     "search.facets.all_spaces": {
-        "string": "すべてのスペース"
+        "string": "所有空间"
     },
     "search.facets.anyone": {
-        "string": "ユーザー全員"
+        "string": "所有用户"
     },
     "search.facets.clear_all": {
-        "string": "すべて消去"
+        "string": "清除所有"
     },
     "search.facets.created_by": {
-        "string": "作成者:{creator}"
+        "string": "创建者：{creator}"
     },
     "search.facets.creator": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "search.facets.design": {
-        "string": "デザイン"
+        "string": "设计"
     },
     "search.facets.design_files": {
-        "string": "デザインファイル"
+        "string": "设计文件"
     },
     "search.facets.figjam": {
         "string": "FigJam"
     },
     "search.facets.figjam_boards": {
-        "string": "FigJamボード"
+        "string": "FigJam板"
     },
     "search.facets.filter_by_creator": {
-        "string": "ファイル作成者で絞り込む"
+        "string": "按文件创建者筛选"
     },
     "search.facets.filter_by_resource": {
-        "string": "リソースタイプで絞り込む"
+        "string": "按资源类型筛选"
     },
     "search.facets.filter_by_space": {
-        "string": "フォルダ、チーム、または組織で絞り込む"
+        "string": "按文件夹、团队或组织筛选"
     },
     "search.facets.filter_limit_reached": {
-        "string": "同じタイプのフィルターは5つまでです。1つ削除してから追加してください"
+        "string": "相同类型的过滤器最多为5个。请删除一个后再添加。"
     },
     "search.facets.filter_spaces_org": {
-        "string": "プロジェクトまたはチームで絞り込む"
+        "string": "按项目或团队筛选"
     },
     "search.facets.filter_spaces_team": {
-        "string": "プロジェクトで絞り込む"
+        "string": "按项目筛选"
     },
     "search.facets.find_someone": {
-        "string": "ユーザーを検索..."
+        "string": "搜索用户..."
     },
     "search.facets.in": {
-        "string": "場所"
+        "string": "位置"
     },
     "search.facets.multiple_creators": {
         "string": "{numCreators, plural, other {{numCreators}人}}"
     },
     "search.facets.multiple_spaces": {
-        "string": "{numSpaces, plural, other {{numSpaces}個のスペース}}"
+        "string": "{numSpaces, plural, other {{numSpaces}个空间}}"
     },
     "search.facets.name_and_you": {
-        "string": "{name} (あなた)"
+        "string": "{name}（您）"
     },
     "search.facets.people": {
-        "string": "他のユーザー"
+        "string": "其他用户"
     },
     "search.facets.projects": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "search.facets.projects_teams_orgs": {
-        "string": "プロジェクト、チーム、組織"
+        "string": "项目、团队、组织"
     },
     "search.facets.resource": {
-        "string": "タイプ"
+        "string": "类型"
     },
     "search.facets.sites": {
-        "string": "Webサイト"
+        "string": "网站"
     },
     "search.facets.slides": {
-        "string": "スライドデッキ"
+        "string": "幻灯片"
     },
     "search.facets.space": {
-        "string": "場所: {space}"
+        "string": "位置：{space}"
     },
     "search.facets.teams": {
-        "string": "チーム"
+        "string": "团队"
     },
     "search.facets.workspaces": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "search.file_move.no_results_found": {
-        "string": "{folderSearchQuery}に一致する結果が見つかりません"
+        "string": "未找到与{folderSearchQuery}匹配的结果"
     },
     "search.invalid_search_endpoint_result": {
-        "string": "無効なエンドポイント検索の結果"
+        "string": "无效的端点搜索结果"
     },
     "search.preview_item.active_from_now": {
-        "string": "アクティブな期間: {relativeTimeString}"
+        "string": "活跃时间：{relativeTimeString}"
     },
     "search.preview_item.by_publisher": {
-        "string": "公開元: {publisherName}"
+        "string": "发布者：{publisherName}"
     },
     "search.preview_item.edited_from_now": {
-        "string": "編集: {relativeTimeString}"
+        "string": "编辑时间：{relativeTimeString}"
     },
     "search.preview_item.in_folder": {
-        "string": "保存先: {folderName}"
+        "string": "文件夹：{folderName}"
     },
     "search.preview_item.in_team": {
-        "string": "チーム名: {teamName}"
+        "string": "团队名称：{teamName}"
     },
     "search.preview_item.num_duplications": {
-        "string": "{duplicateCount, plural, other {{duplicateCount}個の複製}}"
+        "string": "{duplicateCount, plural, other {{duplicateCount}个副本}}"
     },
     "search.preview_item.num_files_in_project": {
-        "string": "{fileCount, plural, other {{fileCount}個のファイル}}"
+        "string": "{fileCount, plural, other {{fileCount}个文件}}"
     },
     "search.preview_item.num_members_in_team": {
-        "string": "{memberCount, plural, other {{memberCount}人のメンバー}}"
+        "string": "{memberCount, plural, other {{memberCount}个成员}}"
     },
     "search.preview_item.num_projects_in_team": {
-        "string": "{projectCount, plural, other {{projectCount}個のプロジェクト}}"
+        "string": "{projectCount, plural, other {{projectCount}个项目}}"
     },
     "search.preview_item.num_saves_for_plugin": {
-        "string": "{installCount, plural, other {保存数: {installCount}}}"
+        "string": "{installCount, plural, other {保存次数：{installCount}}}"
     },
     "search.preview_item.private_plugin": {
-        "string": "非公開"
+        "string": "非公开"
     },
     "search.preview_item.see_all_search_results": {
-        "string": "すべての検索結果を表示"
+        "string": "查看所有搜索结果"
     }
 }

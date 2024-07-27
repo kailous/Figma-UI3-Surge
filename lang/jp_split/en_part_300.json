@@ -1,152 +1,152 @@
 {
     "fullscreen.properties_panel.stack_panel.preview": {
-        "string": "プレビュー"
+        "string": "预览"
     },
     "fullscreen.properties_panel.stack_panel.remove_auto_layout": {
-        "string": "オートレイアウトを削除"
+        "string": "删除自动布局"
     },
     "fullscreen.properties_panel.stack_panel.remove_baseline_align": {
-        "string": "ベースライン揃えを削除"
+        "string": "删除基线对齐"
     },
     "fullscreen.properties_panel.stack_panel.remove_max": {
-        "string": "最大幅・高さを削除"
+        "string": "删除最大宽度/高度"
     },
     "fullscreen.properties_panel.stack_panel.remove_min": {
-        "string": "最小幅・高さを削除"
+        "string": "删除最小宽度/高度"
     },
     "fullscreen.properties_panel.stack_panel.remove_min_and_max": {
-        "string": "最小と最大を削除"
+        "string": "删除最小和最大值"
     },
     "fullscreen.properties_panel.stack_panel.right_padding": {
-        "string": "右パディング"
+        "string": "右填充"
     },
     "fullscreen.properties_panel.stack_panel.sizing_disabled.no_fill_component": {
-        "string": "塗りは、コンポーネントには適用できません。インスタンスにのみ適用できます"
+        "string": "填充不可用于组件。仅适用于实例"
     },
     "fullscreen.properties_panel.stack_panel.sizing_disabled.select_all_fill": {
-        "string": "すべての子を選択して塗りに設定"
+        "string": "选择所有子项以填充"
     },
     "fullscreen.properties_panel.stack_panel.tooltip_old_version": {
-        "string": "更新によりレイヤーが追加されることがありますが、表示されるデザインは変わりません。"
+        "string": "更新可能会增加图层，但显示的设计不会改变。"
     },
     "fullscreen.properties_panel.stack_panel.tooltip_old_version_components": {
-        "string": "更新によりレイヤーが追加されることがありますが、表示されるデザインは変わりません。このメインコンポーネントにインスタンスが含まれている場合は、更新後にインスタンスを確認してください。"
+        "string": "更新可能会增加图层，但显示的设计不会改变。如果该主组件包含实例，请在更新后检查实例。"
     },
     "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance": {
-        "string": "このインスタンスは古いバージョンのオートレイアウトを使用しています。オートレイアウトを更新するには、メインコンポーネントを更新します。"
+        "string": "此实例使用旧版本的自动布局。要更新自动布局，请更新主组件。"
     },
     "fullscreen.properties_panel.stack_panel.tooltip_old_version_instance_overrides": {
-        "string": "このインスタンスには、古いバージョンのオートレイアウトからのオーバーライドがあります。更新すると、オーバーライドが削除されます。\\n\\nメインコンポーネントの更新が必要な場合もあります。"
+        "string": "此实例有来自旧版本自动布局的覆盖。更新后，覆盖将被移除。\n\n可能还需要更新主组件。"
     },
     "fullscreen.properties_panel.stack_panel.top_padding": {
-        "string": "上パディング"
+        "string": "上填充"
     },
     "fullscreen.properties_panel.stack_panel.undo": {
-        "string": "元に戻す"
+        "string": "撤销"
     },
     "fullscreen.properties_panel.stack_panel.update": {
         "string": "更新"
     },
     "fullscreen.properties_panel.stack_panel.use_auto_layout": {
-        "string": "オートレイアウトを使用"
+        "string": "使用自动布局"
     },
     "fullscreen.properties_panel.stack_panel.vertical_direction": {
-        "string": "縦に並べる"
+        "string": "垂直排列"
     },
     "fullscreen.properties_panel.stack_panel.vertical_padding": {
-        "string": "垂直パディング"
+        "string": "垂直填充"
     },
     "fullscreen.properties_panel.stack_panel.wrap": {
-        "string": "折り返す"
+        "string": "换行"
     },
     "fullscreen.visual_bell.could_not_suggest_auto_layout": {
-        "string": "オートレイアウトを提案できません"
+        "string": "无法建议自动布局"
     },
     "fullscreen.visual_bell.try_again_msal": {
-        "string": "選択範囲を小さくして、もう一度お試しください"
+        "string": "请缩小选择范围，然后重试"
     },
     "tax.example_vat_format_placeholder": {
-        "string": "例: {exampleFormat}"
+        "string": "例如：{exampleFormat}"
     },
     "tax.optional_vat_gst_id.input_label": {
-        "string": "{taxType} ID (オプション)"
+        "string": "{taxType} ID（可选）"
     },
     "tax.vat.input_tooltip": {
-        "string": "付加価値税(VAT)や物品サービス税(GST)のIDをお客様の税務状況の確認に使用します。"
+        "string": "增值税（VAT）或商品和服务税（GST）ID用于验证您的税务状况。"
     },
     "tax.vat.vat_gst_validation_failed": {
-        "string": "VAT/GST IDの確認中にエラーが発生しました。"
+        "string": "验证VAT/GST ID时出错。"
     },
     "change_annual_plan_modal.cancel_annual_plan_header": {
-        "string": "年間プランをキャンセルしますか?"
+        "string": "确定要取消年度计划吗？"
     },
     "change_annual_plan_modal.cancel_annual_plan_subtext": {
-        "string": "年間プランは後でいつでも追加できます。"
+        "string": "您可以随时重新添加年度计划。"
     },
     "change_annual_plan_modal.cancel_annual_plan_text.seat_rename": {
-        "string": "チーム内のFigmaデザインシートとFigJamシートについては、それぞれ{monthlyEditorCost}/月、{monthlyFigJamEditorCost}/月が毎月請求されます。"
+        "string": "对于团队中的Figma设计座位和FigJam座位，将分别按月收取{monthlyEditorCost}/月和{monthlyFigJamEditorCost}/月。"
     },
     "change_annual_plan_modal.change_annual_plan_grace_period.seat_rename": {
-        "string": "年間プランのフルシートの数は、更新の30日前まで変更できます。"
+        "string": "年度计划的座位数量可在续订前30天内更改。"
     },
     "change_annual_plan_modal.confirm_cancel_annual_plan": {
-        "string": "年間プランをキャンセル"
+        "string": "取消年度计划"
     },
     "change_annual_plan_modal.confirm_text": {
-        "string": "年間プランを更新"
+        "string": "更新年度计划"
     },
     "change_annual_plan_modal.confirmation_header_plan_started": {
-        "string": "年間プランは{startDate}に自動更新されます"
+        "string": "年度计划将于{startDate}自动续订"
     },
     "change_annual_plan_modal.confirmation_header_plan_starting": {
-        "string": "年間プランは{startDate}に開始されます"
+        "string": "年度计划将于{startDate}开始"
     },
     "change_annual_plan_modal.contact_support_link": {
-        "string": "サポートにお問い合わせください"
+        "string": "联系我们的支持团队"
     },
     "change_annual_plan_modal.contact_support_to_purchase_more_seats_error": {
-        "string": "購入するシート数が{maxAnnualSubscriptions}を超える場合は、{contactSupportLink}してください。"
+        "string": "如果购买的座位数超过{maxAnnualSubscriptions}，请{contactSupportLink}。"
     },
     "change_annual_plan_modal.dont_renew_annual_plan": {
-        "string": "年間プランを更新しない"
+        "string": "不续订年度计划"
     },
     "change_annual_plan_modal.instructions.seat_rename": {
-        "string": "年間プランに含まれていないシートについては、{monthlyEditorCost}/月({editorProduct}の場合)、{monthlyFigjamCost}/月({figJamProduct}の場合)が毎月請求されます"
+        "string": "不包括在年度计划中的座位，将按月收取费用：{monthlyEditorCost}/月（适用于{editorProduct}），{monthlyFigjamCost}/月（适用于{figJamProduct}）。"
     },
     "change_annual_plan_modal.invalid_seats_error": {
-        "string": "更新する有効なシート数を入力してください。"
+        "string": "请输入有效的座位数量进行更新。"
     },
     "change_annual_plan_modal.nevermind": {
-        "string": "キャンセルしない"
+        "string": "不取消"
     },
     "change_annual_plan_modal.number_of_editors.seat_rename": {
-        "string": "年間プランの{productType}シートの数:"
+        "string": "年度计划中的{productType}座位数："
     },
     "change_annual_plan_modal.plan_start_date": {
         "string": "{startDate, date, medium}"
     },
     "change_annual_plan_modal.remove_annual_plan": {
-        "string": "年間プランを削除する"
+        "string": "删除年度计划"
     },
     "change_annual_plan_modal.unknown_start_date": {
-        "string": "不明な日付"
+        "string": "未知日期"
     },
     "change_team_name_visual_bell.text": {
-        "string": "{oldTeamName}の名前が{newTeamName}に変更されました"
+        "string": "{oldTeamName}的名称已更改为{newTeamName}"
     },
     "change_team_name_visual_bell.undo": {
-        "string": "元に戻す"
+        "string": "撤销"
     },
     "downgrade_member_visual_bell.text": {
-        "string": "{numMembers, plural, other {{numMembers}ユーザーのチームの権限は、「閲覧のみ」にダウングレードされました}}"
+        "string": "{numMembers, plural, other {{numMembers}用户的团队权限已降级为“仅查看”}}"
     },
     "flash.team_billing_summary_fetching_error": {
-        "string": "請求の概要の取得中にエラーが発生しました。"
+        "string": "获取账单摘要时出错。"
     },
     "flash.team_deletion_file_count_fetching_error": {
-        "string": "チーム削除のためのファイル数の取得中にエラーが発生しました。"
+        "string": "获取团队删除文件数时出错。"
     },
     "flash.team_invoices_fetching_error": {
-        "string": "請求書の取得中にエラーが発生しました。"
+        "string": "获取发票时出错。"
     }
 }

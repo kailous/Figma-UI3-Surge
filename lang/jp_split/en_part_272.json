@@ -3,150 +3,150 @@
         "string": "混合"
     },
     "proto.video_dropdown.label": {
-        "string": "動画"
+        "string": "视频"
     },
     "proto.video_options.behavior": {
-        "string": "ビヘイビア"
+        "string": "行为"
     },
     "proto.video_options.direction": {
         "string": "方向"
     },
     "proto.video_options.offset": {
-        "string": "オフセット"
+        "string": "偏移"
     },
     "proto.video_options.timestamp": {
-        "string": "タイムスタンプ"
+        "string": "时间戳"
     },
     "viewer.accessibilitytree.disabled_placeholder": {
-        "string": "スクリーンリーダーのサポートは現在無効です。有効にするには、オプションメニューのアクセシビリティの設定を使用してください。"
+        "string": "屏幕阅读器支持当前已禁用。请使用选项菜单中的无障碍设置启用。"
     },
     "viewer.debug_tools.clear_tile_caches_and_take_spector_snapshot": {
-        "string": "タイルキャッシュをクリアして、Spector.jsスナップショットを取得する"
+        "string": "清除瓦片缓存并获取Spector.js快照"
     },
     "viewer.debug_tools.debug_tools": {
-        "string": "デバッグツール"
+        "string": "调试工具"
     },
     "viewer.debug_tools.disconnect_from_multiplayer": {
-        "string": "マルチプレイヤーから切断"
+        "string": "断开多人连接"
     },
     "viewer.debug_tools.reconnect_to_multiplayer": {
-        "string": "マルチプレイヤーに再接続"
+        "string": "重新连接多人游戏"
     },
     "viewer.debug_tools.render_layer_by_layer": {
-        "string": "レイヤー単位でレンダリング"
+        "string": "按层渲染"
     },
     "viewer.debug_tools.take_spector_snapshot": {
-        "string": "Spector.jsスナップショットを取得"
+        "string": "获取Spector.js快照"
     },
     "viewer.debug_tools.test_fake_web_gl_context_loss": {
-        "string": "偽のWebGLコンテキストの損失をテスト"
+        "string": "测试假WebGL上下文丢失"
     },
     "viewer.debug_tools.test_real_web_gl_context_loss": {
-        "string": "実際のWebGLコンテキストの損失をテスト"
+        "string": "测试真实WebGL上下文丢失"
     },
     "viewer.debug_tools.toggle_debug_stats": {
-        "string": "デバッグ統計の切り替え"
+        "string": "切换调试统计"
     },
     "viewer.debug_tools.toggle_render_tree_printing": {
-        "string": "レンダーツリープリントを切り替える"
+        "string": "切换渲染树打印"
     },
     "viewer.flows_sidebar.close_sidebar": {
-        "string": "サイドバーを閉じる"
+        "string": "关闭侧边栏"
     },
     "viewer.flows_sidebar.copy_link_to_flow": {
-        "string": "フローへのリンクをコピー"
+        "string": "复制流程链接"
     },
     "viewer.flows_sidebar.flows": {
-        "string": "フロー"
+        "string": "流程"
     },
     "viewer.flows_sidebar.no_description": {
-        "string": "説明なし"
+        "string": "无描述"
     },
     "viewer.flows_sidebar.open_sidebar": {
-        "string": "サイドバーを開く"
+        "string": "打开侧边栏"
     },
     "viewer.footer.accessible_label": {
-        "string": "ページ"
+        "string": "页面"
     },
     "viewer.footer.frame_progress": {
         "string": "{currentFrameIndex}/{frameCount}"
     },
     "viewer.footer.next_frame": {
-        "string": "次のフレーム"
+        "string": "下一帧"
     },
     "viewer.footer.previous_frame": {
-        "string": "前のフレーム"
+        "string": "上一帧"
     },
     "viewer.footer.r": {
         "string": "R"
     },
     "viewer.footer.readable_frame_progress": {
-        "string": "フレーム{currentFrameIndex}/{frameCount}"
+        "string": "帧{currentFrameIndex}/{frameCount}"
     },
     "viewer.footer.restart": {
-        "string": "再起動"
+        "string": "重新启动"
     },
     "viewer.loading_overlay.can_t_connect_to_the_internet": {
-        "string": "インターネットに接続できません"
+        "string": "无法连接到互联网"
     },
     "viewer.loading_overlay.check_your_connection_to_continue_with_the_prototype": {
-        "string": "プロトタイプを使用して続行するには、コネクションを確認してください。"
+        "string": "请检查连接以继续使用原型。"
     },
     "viewer.loading_overlay.reload": {
-        "string": "再読み込み"
+        "string": "重新加载"
     },
     "viewer.loading_overlay.this_is_taking_some_time_hang_on_while_this_finishes_loading": {
-        "string": "少し時間がかかります... 読み込みが終了するまでお待ちください。"
+        "string": "这需要一些时间... 请稍等，直到加载完成。"
     },
     "viewer.loading_overlay.try_again": {
-        "string": "もう一度試す"
+        "string": "再试一次"
     },
     "viewer.menu_bar.accessible_label": {
-        "string": "プロトタイプ管理"
+        "string": "原型管理"
     },
     "viewer.menu_bar.add_comment": {
-        "string": "コメントを追加{padding}{shortcut}"
+        "string": "添加评论{padding}{shortcut}"
     },
     "viewer.menu_bar.enter_full_screen": {
-        "string": "全画面を開始({shortcut})"
+        "string": "进入全屏({shortcut})"
     },
     "viewer.menu_bar.exit_full_screen": {
-        "string": "全画面を終了({shortcut})"
+        "string": "退出全屏({shortcut})"
     },
     "viewer.menu_bar.full_screen_is_not_supported_by_this_browser": {
-        "string": "全画面は、このブラウザーではサポートされていません"
+        "string": "此浏览器不支持全屏"
     },
     "viewer.menu_bar.log_in": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "viewer.menu_bar.log_in_or_create_account": {
-        "string": "ログインまたはアカウントの作成"
+        "string": "登录或创建账户"
     },
     "viewer.menu_bar.open_in_editor": {
-        "string": "エディターで開く"
+        "string": "在编辑器中打开"
     },
     "viewer.menu_bar.open_in_figma_slides": {
-        "string": "Figma Slidesで開く"
+        "string": "在Figma Slides中打开"
     },
     "viewer.menu_bar.presenter_view": {
-        "string": "オーディエンスビューを開く"
+        "string": "打开观众视图"
     },
     "viewer.menu_bar.share": {
-        "string": "共有"
+        "string": "分享"
     },
     "viewer.menu_bar.share_presentation": {
-        "string": "プレゼンテーションを共有"
+        "string": "分享演示"
     },
     "viewer.menu_bar.share_prototype": {
-        "string": "プロトタイプを共有"
+        "string": "分享原型"
     },
     "viewer.options.accessible_dom_disabled": {
-        "string": "コンテンツをスクリーンリーダーに適応させていません"
+        "string": "内容不适配屏幕阅读器"
     },
     "viewer.options.accessible_dom_enabled": {
-        "string": "コンテンツをスクリーンリーダーに適応させています"
+        "string": "内容适配屏幕阅读器"
     },
     "viewer.options.default_keyboard_navigation_disabled": {
-        "string": "Figmaショートカット無効"
+        "string": "禁用Figma快捷键"
     }
 }

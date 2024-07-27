@@ -1,152 +1,152 @@
 {
     "recordings.no_recordings_yet": {
-        "string": "記録はまだありません。"
+        "string": "还没有记录。"
     },
     "recordings.none": {
-        "string": "なし"
+        "string": "无"
     },
     "recordings.not_following_name": {
-        "string": "{name}をフォローしていません"
+        "string": "未关注{name}"
     },
     "recordings.pause": {
-        "string": "一時停止"
+        "string": "暂停"
     },
     "recordings.record": {
-        "string": "記録"
+        "string": "记录"
     },
     "recordings.recording_deleted": {
-        "string": "記録を削除しました"
+        "string": "记录已删除"
     },
     "recordings.recording_saved": {
-        "string": "記録を保存しました"
+        "string": "记录已保存"
     },
     "recordings.recordings": {
-        "string": "記録"
+        "string": "记录"
     },
     "recordings.replay_ui_canvas_loading_error": {
-        "string": "記録用のファイルのバージョンを読み込むときにエラーが発生しました"
+        "string": "加载记录文件版本时出错"
     },
     "recordings.restart_modal_confirmation": {
-        "string": "この記録を初めからやり直しますか?"
+        "string": "是否重新开始此记录？"
     },
     "recordings.restart_modal_title": {
-        "string": "記録をやり直す"
+        "string": "重新开始记录"
     },
     "recordings.resume": {
-        "string": "再開"
+        "string": "继续"
     },
     "recordings.save_recording": {
-        "string": "記録を保存"
+        "string": "保存记录"
     },
     "recordings.saving_general_error": {
-        "string": "記録を保存するときにエラーが発生しました"
+        "string": "保存记录时出错"
     },
     "recordings.stop_following": {
-        "string": "フォローを停止"
+        "string": "停止关注"
     },
     "recordings.title_field_placeholder": {
-        "string": "タイトル"
+        "string": "标题"
     },
     "recordings.toggle_video": {
-        "string": "動画のオン/オフの切り替え"
+        "string": "切换视频开/关"
     },
     "redeem_magic_link.check_your_authenticator_app": {
-        "string": "認証アプリをチェックしてください。"
+        "string": "请检查您的认证应用程序。"
     },
     "redeem_magic_link.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "redeem_magic_link.continue_as_name": {
-        "string": "{name}として続行"
+        "string": "以{name}身份继续"
     },
     "redeem_magic_link.enter_your_authentication_or_recovery_code": {
-        "string": "認証または復旧コードを入力してください"
+        "string": "请输入您的认证或恢复码"
     },
     "redeem_magic_link.is_this_you": {
-        "string": "これはあなたですか?"
+        "string": "这是您吗？"
     },
     "redeem_magic_link.please_verify_that_you_re_creating_a_figma_account_with_the_following_email": {
-        "string": "次のEメールでFigmaアカウントを作成したことを確認してください:"
+        "string": "请确认您正在使用以下电子邮件创建Figma账户："
     },
     "redeem_magic_link.please_verify_that_you_re_signing_into_figma_with_the_following_account": {
-        "string": "Figmaへのログインに使用しているアカウントであることを確認してください:"
+        "string": "请确认您正在使用以下账户登录Figma："
     },
     "redeem_magic_link.we_sent_it_to_your_phone_number_ending_in_phone_number": {
-        "string": "{phoneNumber}で終わるあなたの電話番号にこれを送信しました"
+        "string": "我们已将此发送到以{phoneNumber}结尾的电话号码"
     },
     "request_error_interstitial.refresh_and_try_again": {
-        "string": "更新して再試行"
+        "string": "刷新并重试"
     },
     "request_error_interstitial.there_was_an_error": {
-        "string": "リクエストの処理中にエラーが発生しました"
+        "string": "处理请求时出错"
     },
     "save_as_actions.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "save_as_actions.cannot_download_content": {
-        "string": "オフライン中はコンテンツをダウンロードできません"
+        "string": "离线时无法下载内容"
     },
     "save_as_actions.cannot_download_images": {
-        "string": "オフライン中は画像をダウンロードできません"
+        "string": "离线时无法下载图像"
     },
     "save_as_actions.copy_as_png_progress": {
-        "string": "PNGとしてコピーしています..."
+        "string": "正在复制为PNG..."
     },
     "save_as_actions.copy_as_svg_progress": {
-        "string": "SVGとしてコピーしています..."
+        "string": "正在复制为SVG..."
     },
     "save_as_actions.downloading_content": {
-        "string": "コンテンツのダウンロード中…"
+        "string": "正在下载内容..."
     },
     "save_as_actions.downloading_images": {
-        "string": "画像のダウンロード中…"
+        "string": "正在下载图像..."
     },
     "save_as_actions.export_without_content": {
-        "string": "エクスポートを続ける"
+        "string": "继续导出"
     },
     "save_as_actions.export_without_images": {
-        "string": "画像なしでエクスポート"
+        "string": "无图像导出"
     },
     "save_as_actions.rasterize_selection_progress": {
-        "string": "選択したレイヤーをラスタライズしています..."
+        "string": "正在光栅化选定的图层..."
     },
     "save_as_actions.save_partial_file": {
-        "string": "ファイルの一部を保存"
+        "string": "保存部分文件"
     },
     "save_as_actions.save_partial_file_name_suffix": {
-        "string": "ファイルの一部を保存しました{date}"
+        "string": "已保存部分文件{date}"
     },
     "save_as_actions.save_without_images": {
-        "string": "画像なしで保存"
+        "string": "无图像保存"
     },
     "save_status.changes_saved": {
-        "string": "変更を保存しました"
+        "string": "更改已保存"
     },
     "save_status.learn_more": {
-        "string": "詳細を表示"
+        "string": "了解更多"
     },
     "save_status.unsaved_changes": {
-        "string": "このファイルには、未保存の変更があります。"
+        "string": "此文件有未保存的更改。"
     },
     "scenegraph_validation.failed.title": {
-        "string": "変更を保存できませんでした"
+        "string": "无法保存更改"
     },
     "scenegraph_validation.failed.message": {
-        "string": "エラーが発生したため、最後の変更を保存できませんでした。このファイルで作業を続けるには、ページを再ロードしてください。"
+        "string": "由于发生错误，无法保存最后的更改。要继续在此文件上工作，请重新加载页面。"
     },
     "scenegraph_validation.failed.reload": {
-        "string": "ページを再読み込み"
+        "string": "重新加载页面"
     },
     "search.empty_state.no_file_project_team_or_people_results": {
-        "string": " {searchQuery}に一致するファイル、プロジェクト、チーム、または人の結果はありません"
+        "string": "没有与{searchQuery}匹配的文件、项目、团队或人员结果"
     },
     "search.empty_state.no_results_matching": {
-        "string": "{searchQuery}に一致する結果はありません"
+        "string": "没有与{searchQuery}匹配的结果"
     },
     "search.empty_state.no_results_no_query": {
-        "string": "入力して検索を開始"
+        "string": "输入以开始搜索"
     },
     "search.empty_state.search_placeholder": {
-        "string": "検索"
+        "string": "搜索"
     }
 }

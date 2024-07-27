@@ -1,152 +1,152 @@
 {
     "proto.starting_points.description_strikethrough_tooltip": {
-        "string": "取り消し線"
+        "string": "删除线"
     },
     "proto.starting_points.edit_description": {
-        "string": "説明を編集"
+        "string": "编辑描述"
     },
     "proto.starting_points.flow_starting_point_title": {
-        "string": "フローの開始点"
+        "string": "流程起点"
     },
     "proto.state": {
-        "string": "状態"
+        "string": "状态"
     },
     "proto.state_management": {
-        "string": "状態管理"
+        "string": "状态管理"
     },
     "proto.state_management.controls_help_link": {
-        "string": "詳細はこちら..."
+        "string": "了解更多..."
     },
     "proto.state_management.controls_help_link_new": {
-        "string": "詳細情報"
+        "string": "更多信息"
     },
     "proto.state_management.info_tooltip": {
-        "string": "最上位のフレームの名前が同じか、プリフィックスが一致すると、{PreserveScrollPositionBold}が自動的に適用されます。"
+        "string": "当顶层框架的名称相同或前缀匹配时，{PreserveScrollPositionBold}将自动应用。"
     },
     "proto.state_management.info_tooltip_learn_more": {
-        "string": "詳細情報"
+        "string": "更多信息"
     },
     "proto.state_management.mixed_state_update": {
-        "string": "混合コンテンツを変更するには、新しい状態管理にアップデートしてください。"
+        "string": "要更改混合内容，请更新到新的状态管理。"
     },
     "proto.state_management.new_controls": {
-        "string": "状態管理を更新しました。"
+        "string": "状态管理已更新。"
     },
     "proto.state_management.old_controls": {
-        "string": "古い状態管理を使用中です。"
+        "string": "使用旧状态管理。"
     },
     "proto.state_management.reset_video_state": {
-        "string": "動画の状態をリセット"
+        "string": "重置视频状态"
     },
     "proto.state_management.revert_controls": {
-        "string": "戻す"
+        "string": "还原"
     },
     "proto.state_management.update_controls": {
         "string": "更新"
     },
     "proto.state_management.visual_bell_update_all": {
-        "string": "すべて更新"
+        "string": "全部更新"
     },
     "proto.state_management.visual_bell_update_all_message": {
-        "string": "すべてのインタラクションを更新済み"
+        "string": "所有交互已更新"
     },
     "proto.state_management.visual_bell_updated_message": {
-        "string": "新しい状態管理を使用するためインタラクションを更新済み"
+        "string": "交互已更新以使用新状态管理"
     },
     "proto.status_messages.a_presentation_needs_to_have_at_least_one_slide": {
-        "string": "プレゼンテーションにはスライドが1枚以上必要です。"
+        "string": "演示文稿至少需要一张幻灯片。"
     },
     "proto.status_messages.a_prototype_needs_to_have_at_least_one_frame": {
-        "string": "プロトタイプにはフレームが1つ以上必要です。"
+        "string": "原型至少需要一个框架。"
     },
     "proto.status_messages.a_prototype_with_connections_needs_a_valid_top_level_frame_as_the_origin": {
-        "string": "コネクションが含まれているプロトタイプでは、有効な最上位フレームが基点として必要です。"
+        "string": "具有连接的原型需要一个有效的顶层框架作为起点。"
     },
     "proto.target_video_node_name_formatter.this_video": {
-        "string": "この動画"
+        "string": "此视频"
     },
     "proto.time": {
-        "string": "時間"
+        "string": "时间"
     },
     "proto.title_interactions": {
-        "string": "インタラクション"
+        "string": "交互"
     },
     "proto.tooltip_overlay_position_bottom_center": {
-        "string": "中央下"
+        "string": "底部中央"
     },
     "proto.tooltip_overlay_position_center": {
         "string": "中央"
     },
     "proto.tooltip_overlay_position_top_left": {
-        "string": "左上"
+        "string": "顶部左侧"
     },
     "proto.transition_behavior.animate": {
-        "string": "アニメーション"
+        "string": "动画"
     },
     "proto.transition_behavior.dissolve": {
-        "string": "ディゾルブ"
+        "string": "溶解"
     },
     "proto.transition_behavior.instant": {
-        "string": "即時"
+        "string": "瞬间"
     },
     "proto.transition_behavior.move_in": {
-        "string": "ムーブイン"
+        "string": "移入"
     },
     "proto.transition_behavior.move_out": {
-        "string": "ムーブアウト"
+        "string": "移出"
     },
     "proto.transition_behavior.push": {
-        "string": "プッシュ"
+        "string": "推动"
     },
     "proto.transition_behavior.slide_in": {
-        "string": "スライドイン"
+        "string": "滑入"
     },
     "proto.transition_behavior.slide_out": {
-        "string": "スライドアウト"
+        "string": "滑出"
     },
     "proto.transition_behavior.smart_animate": {
-        "string": "スマートアニメート"
+        "string": "智能动画"
     },
     "proto.trigger": {
-        "string": "トリガー"
+        "string": "触发"
     },
     "proto.trigger.add_delay_placeholder": {
-        "string": "遅延を追加"
+        "string": "添加延迟"
     },
     "proto.trigger.after_delay_timeout": {
-        "string": "ディレイタイムアウト後"
+        "string": "延迟超时后"
     },
     "proto.trigger.duration_to_jump_backward": {
-        "string": "ジャンプして戻る時間"
+        "string": "向后跳转的时间"
     },
     "proto.trigger.duration_to_jump_forward": {
-        "string": "ジャンプして進む時間"
+        "string": "向前跳转的时间"
     },
     "proto.trigger.timestamp_to_set_to": {
-        "string": "設定後のタイムスタンプ"
+        "string": "设置后的时间戳"
     },
     "proto.trigger.video_hit_time": {
-        "string": "アクションを実行する動画内の時間"
+        "string": "在视频中执行操作的时间"
     },
     "proto.trigger.x_offset": {
-        "string": "Xオフセット"
+        "string": "X偏移"
     },
     "proto.trigger.y_offset": {
-        "string": "Yオフセット"
+        "string": "Y偏移"
     },
     "proto.unpublished_variables_localized": {
-        "string": "{numberOfVariables, plural, other {このファイルに{numberOfVariables}個のバリアブルを作成しました}}"
+        "string": "{numberOfVariables, plural, other {在此文件中创建了{numberOfVariables}个变量}}"
     },
     "proto.variable": {
-        "string": "バリアブル"
+        "string": "变量"
     },
     "proto.variable.value": {
-        "string": "値"
+        "string": "值"
     },
     "proto.variable_debugger.live_preview_indicator": {
-        "string": "ライブプレビュー"
+        "string": "实时预览"
     },
     "proto.variant_actions.change_to": {
-        "string": "次に変更…"
+        "string": "更改为..."
     }
 }

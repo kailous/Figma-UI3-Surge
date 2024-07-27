@@ -1,152 +1,152 @@
 {
     "proto.interaction.type.key_gamepad": {
-        "string": "キー/ゲームパッド"
+        "string": "按键/游戏手柄"
     },
     "proto.interaction.type.mouse_down": {
-        "string": "マウスダウン"
+        "string": "鼠标按下"
     },
     "proto.interaction.type.mouse_enter": {
-        "string": "マウスエンター"
+        "string": "鼠标进入"
     },
     "proto.interaction.type.mouse_enter_deprecated": {
-        "string": "マウスイン"
+        "string": "鼠标移入"
     },
     "proto.interaction.type.mouse_leave": {
-        "string": "マウスリーブ"
+        "string": "鼠标离开"
     },
     "proto.interaction.type.mouse_leave_deprecated": {
-        "string": "マウスアウト"
+        "string": "鼠标移出"
     },
     "proto.interaction.type.mouse_up": {
-        "string": "マウスアップ"
+        "string": "鼠标抬起"
     },
     "proto.interaction.type.none": {
-        "string": "なし"
+        "string": "无"
     },
     "proto.interaction.type.on_click": {
-        "string": "クリック時"
+        "string": "点击时"
     },
     "proto.interaction.type.on_drag": {
-        "string": "ドラッグ時"
+        "string": "拖动时"
     },
     "proto.interaction.type.on_tap": {
-        "string": "タップ時"
+        "string": "轻触时"
     },
     "proto.interaction.type.on_voice": {
-        "string": "音声"
+        "string": "语音"
     },
     "proto.interaction.type.press": {
-        "string": "押す"
+        "string": "按下"
     },
     "proto.interaction.type.tap": {
-        "string": "タップ"
+        "string": "轻触"
     },
     "proto.interaction.type.touch_down": {
-        "string": "タッチダウン"
+        "string": "触摸按下"
     },
     "proto.interaction.type.touch_up": {
-        "string": "タッチアップ"
+        "string": "触摸抬起"
     },
     "proto.interaction.type.video_ends": {
-        "string": "動画終了"
+        "string": "视频结束"
     },
     "proto.interaction.type.video_hits": {
-        "string": "動画到達"
+        "string": "视频命中"
     },
     "proto.interaction.type.voice": {
-        "string": "音声"
+        "string": "语音"
     },
     "proto.interaction.type.when_video_ends": {
-        "string": "動画終了時"
+        "string": "视频结束时"
     },
     "proto.interaction.type.when_video_hits": {
-        "string": "動画到達時"
+        "string": "视频命中时"
     },
     "proto.interaction.type.while_hovering": {
-        "string": "マウスオーバー"
+        "string": "悬停时"
     },
     "proto.interaction.type.while_pressing": {
-        "string": "押下中"
+        "string": "按住时"
     },
     "proto.interaction_details.header": {
-        "string": "インタラクション"
+        "string": "交互"
     },
     "proto.interaction_details.select_n_matching_interactions": {
-        "string": "一致するインタラクションを{total_num_interactions}個選択します"
+        "string": "选择{total_num_interactions}个匹配的交互"
     },
     "proto.interaction_details.visual_bell.selected_n_matching_interactions": {
-        "string": "一致するインタラクションを{total_num_interactions}個選択しました"
+        "string": "已选择{total_num_interactions}个匹配的交互"
     },
     "proto.interaction_list.variant_interactions": {
-        "string": "バリアントインタラクション"
+        "string": "变体交互"
     },
     "proto.key": {
-        "string": "キー"
+        "string": "按键"
     },
     "proto.keyCapture.click_to_select": {
-        "string": "クリックして選択"
+        "string": "点击选择"
     },
     "proto.keyCapture.click_to_set_key": {
-        "string": "クリックしてキーを設定"
+        "string": "点击设置按键"
     },
     "proto.keyCapture.press_key": {
-        "string": "キーを押す"
+        "string": "按下按键"
     },
     "proto.keyCapture.press_key_lowercase": {
-        "string": "キーを押す"
+        "string": "按下按键"
     },
     "proto.lib.device_low_memory": {
-        "string": "デバイスのメモリーが不足しているため、一部の操作が機能しない可能性があります。"
+        "string": "由于设备内存不足，一些操作可能无法正常工作。"
     },
     "proto.menu.background": {
         "string": "背景"
     },
     "proto.menu.show_prototype_settings": {
-        "string": "プロトタイプの設定を表示"
+        "string": "显示原型设置"
     },
     "proto.mirror.are_you_sure": {
-        "string": "よろしいですか?"
+        "string": "你确定吗？"
     },
     "proto.mirror.authentication_code": {
-        "string": "認証コード"
+        "string": "认证码"
     },
     "proto.mirror.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "proto.mirror.connected_through_cellular_data": {
-        "string": "モバイルデータ通信で接続しています"
+        "string": "通过移动数据连接"
     },
     "proto.mirror.connected_through_wi_fi": {
-        "string": "WiFiで接続しています"
+        "string": "通过WiFi连接"
     },
     "proto.mirror.continue_with_google": {
-        "string": "Googleでログイン"
+        "string": "通过Google继续"
     },
     "proto.mirror.email_address": {
-        "string": "メールアドレス"
+        "string": "电子邮件地址"
     },
     "proto.mirror.figma_com": {
         "string": "figma.com"
     },
     "proto.mirror.figma_mirror_can_t_run_because_web_gl_isn_t_supported_or_is_disabled_on_your_device": {
-        "string": "Figma Mirrorを実行できません。ご使用のデバイスでWebGLがサポートされていないか、無効になっています。"
+        "string": "无法运行Figma Mirror，因为您的设备不支持或禁用了WebGL。"
     },
     "proto.mirror.figma_mirror_is_not_restricted_to_local_wi_fi": {
-        "string": "Figma MirrorはローカルWiFiネットワークに制限されていません。モバイルデータ通信プランが心配な場合は、ご使用のデバイスをWiFi経由でインターネットに接続してください。"
+        "string": "Figma Mirror不限于本地WiFi网络。如果担心数据计划，请通过WiFi连接设备。"
     },
     "proto.mirror.forgot_password": {
-        "string": "パスワードを忘れた場合"
+        "string": "忘记密码"
     },
     "proto.mirror.go_back_and_try_again": {
-        "string": "戻ってやり直す"
+        "string": "返回重试"
     },
     "proto.mirror.go_to_the_browser_to_complete_log_in": {
-        "string": "ブラウザに移動してログインしてください"
+        "string": "请前往浏览器完成登录"
     },
     "proto.mirror.log_in": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "proto.mirror.log_in_with_google_or_a_password": {
-        "string": "Googleまたはパスワードでログイン"
+        "string": "使用Google或密码登录"
     }
 }

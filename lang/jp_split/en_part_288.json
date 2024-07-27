@@ -1,152 +1,152 @@
 {
     "settings.delete_user_account.a_verified_email_is_required": {
-        "string": "確認済みのメールアドレスが必要です"
+        "string": "需要已验证的电子邮件地址"
     },
     "settings.delete_user_account.account_deletion_is_in_progress": {
-        "string": "アカウントを削除中です。この処理にはしばらくかかります。削除が完了するとリダイレクトされます。"
+        "string": "正在删除账户。此过程需要一些时间。删除完成后将重定向。"
     },
     "settings.delete_user_account.are_you_sure_you_want_to_delete_your_figma_account": {
-        "string": "Figmaアカウントを削除してよろしいですか?"
+        "string": "您确定要删除您的Figma账户吗？"
     },
     "settings.delete_user_account.delete_account": {
-        "string": "アカウントを削除"
+        "string": "删除账户"
     },
     "settings.delete_user_account.delete_my_account": {
-        "string": "自分のアカウントを削除する"
+        "string": "删除我的账户"
     },
     "settings.delete_user_account.deleting_your_this_props_user_email_account_will_delete_all_your_associated_data": {
-        "string": "{email}のアカウントを削除すると、ファイル、コンポーネント、画像などの関連データがすべて削除されます。これには、他のユーザーと共有しているコンテンツも含まれます。この操作は元に戻せません。"
+        "string": "删除{email}的账户将删除所有相关数据，包括文件、组件、图片等。这也包括与其他用户共享的内容。此操作无法撤销。"
     },
     "settings.delete_user_account.for_more_information_about_how_we_treat_your_data": {
-        "string": "Figmaによるデータの取り扱い方法の詳細は、{privacyPolicyLink}を参照してください。"
+        "string": "有关Figma如何处理您的数据的更多信息，请参阅{privacyPolicyLink}。"
     },
     "settings.delete_user_account.resend_verification_email": {
-        "string": "確認メールを再送信"
+        "string": "重新发送验证邮件"
     },
     "settings.delete_user_account.to_confirm_please_type_strong_delete_my_account_strong_below": {
-        "string": "確認するには、以下で\"{confirmationText}\"と入力してください。"
+        "string": "要确认，请在下方输入\"{confirmationText}\"。"
     },
     "settings.delete_user_account.you_must_verify_your_email_address_before_you_can_attempt_this_operation": {
-        "string": "この操作を行う前に、メールアドレスを確認する必要があります。"
+        "string": "在尝试此操作之前，您必须验证您的电子邮件地址。"
     },
     "settings.language_selector.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "settings.language_selector.modal.description": {
-        "string": "Figmaのアプリ、Webサイト、マーケティングのメールに使用する言語を選択します。"
+        "string": "选择Figma应用程序、网站和营销电子邮件使用的语言。"
     },
     "settings.language_selector.save": {
         "string": "保存"
     },
     "settings.require_password.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "settings.require_password.current_password": {
-        "string": "現在のパスワード"
+        "string": "当前密码"
     },
     "settings.require_password.for_security_purposes_please_re_enter_your_password_below": {
-        "string": "セキュリティのため、以下にパスワードをもう一度入力してください。"
+        "string": "出于安全考虑，请在下方重新输入您的密码。"
     },
     "settings.require_password.forgot_password": {
-        "string": "パスワードを忘れた場合"
+        "string": "忘记密码"
     },
     "shared_with_you.filters.all_organizations": {
-        "string": "すべての組織"
+        "string": "所有组织"
     },
     "shared_with_you.filters.org_deleted_drafts.all": {
-        "string": "すべてのプロジェクト"
+        "string": "所有项目"
     },
     "shared_with_you.filters.org_deleted_drafts.deleted_user_drafts": {
-        "string": "削除されたユーザードラフト"
+        "string": "已删除的用户草稿"
     },
     "shared_with_you.filters.org_deleted_drafts.shared": {
-        "string": "共有プロジェクト"
+        "string": "共享项目"
     },
     "shared_with_you.no_items": {
-        "string": "一致するものが見つかりませんでした。フィルターを調整してみてください。"
+        "string": "未找到匹配项。请调整过滤条件。"
     },
     "shared_with_you.toolbar.files": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "shared_with_you.toolbar.projects": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "sidebar.browse.all_teams": {
-        "string": "すべてのチーム"
+        "string": "所有团队"
     },
     "sidebar.browse.all_workspaces": {
-        "string": "すべてのワークスペース"
+        "string": "所有工作区"
     },
     "sites.lint.action-and-adjust-spacing-to-achieve-similar-result": {
-        "string": "{action}を行い、間隔を調整することで、同様の結果を得ることができます"
+        "string": "执行{action}并调整间距以达到类似效果"
     },
     "sites.lint.action-for-the-same-effect": {
-        "string": "同じエフェクトの{action}"
+        "string": "同样效果的{action}"
     },
     "sites.lint.action-to-achieve-similar-result": {
-        "string": "{action}ことで、同様の結果を得ることができます"
+        "string": "执行{action}以达到类似效果"
     },
     "sites.lint.action-to-clear-issue": {
-        "string": "{action}ことで、この問題を解決できます"
+        "string": "执行{action}以解决此问题"
     },
     "sites.lint.action-to-match-preview": {
-        "string": "{action}ことで、プレビューと一致させることができます"
+        "string": "执行{action}以匹配预览"
     },
     "sites.lint.apply-effects-on-individual-nodes": {
-        "string": "エフェクトを個々のノードに適用する"
+        "string": "将效果应用于各个节点"
     },
     "sites.lint.blendmode/plus-darker": {
-        "string": "ブレンドモードに暗さがプラスされています"
+        "string": "混合模式为加深"
     },
     "sites.lint.effects/frames-no-fills": {
-        "string": "エフェクトが塗りのないレイヤーに適用されています"
+        "string": "效果应用于无填充的图层"
     },
     "sites.lint.effects/rotation-shadow-effects": {
-        "string": "シャドウが回転したレイヤーに適用されています"
+        "string": "阴影效果应用于旋转的图层"
     },
     "sites.lint.embed-youtube-video": {
-        "string": "YouTube動画を埋め込む"
+        "string": "嵌入YouTube视频"
     },
     "sites.lint.fill/image-fills-opacity": {
-        "string": "透過(画像)"
+        "string": "填充透明度（图像）"
     },
     "sites.lint.fill/image-fills-rotation": {
-        "string": "回転(画像)"
+        "string": "填充旋转（图像）"
     },
     "sites.lint.interactions/after_delay": {
-        "string": "アフターディレイ(トリガー)"
+        "string": "延迟后（触发器）"
     },
     "sites.lint.interactions/back": {
-        "string": "戻る(アクション)"
+        "string": "返回（动作）"
     },
     "sites.lint.interactions/close_overlay": {
-        "string": "オーバーレイを閉じる(アクション)"
+        "string": "关闭覆盖层（动作）"
     },
     "sites.lint.interactions/key_gamepad": {
-        "string": "キー/ゲームパッド(トリガー)"
+        "string": "键盘/游戏手柄（触发器）"
     },
     "sites.lint.interactions/on_drag": {
-        "string": "ドラッグ時(トリガー)"
+        "string": "拖动时（触发器）"
     },
     "sites.lint.interactions/open_overlay": {
-        "string": "オーバーレイを開く(アクション)"
+        "string": "打开覆盖层（动作）"
     },
     "sites.lint.interactions/scroll_to": {
-        "string": "次にスクロール(アクション)"
+        "string": "滚动到（动作）"
     },
     "sites.lint.interactions/set_variable_mode": {
-        "string": "バリアブルモードを設定(アクション)"
+        "string": "设置变量模式（动作）"
     },
     "sites.lint.interactions/swap_overlay": {
-        "string": "オーバーレイの入れ替え(アクション)"
+        "string": "交换覆盖层（动作）"
     },
     "sites.lint.interactions/while_hovering_nested": {
-        "string": "「マウスオーバー」がネストされたレイヤーに設定されています(アクション)"
+        "string": "“悬停时”设置在嵌套图层上（动作）"
     },
     "sites.lint.interactions/while_pressing_nested": {
-        "string": "「押下中」がネストされたレイヤーに設定されています(アクション)"
+        "string": "“按下时”设置在嵌套图层上（动作）"
     },
     "sites.lint.layout/gap/space-between-legacy": {
-        "string": "間隔を空けて配置されたオートレイアウト"
+        "string": "自动布局中间距（旧版）"
     }
 }

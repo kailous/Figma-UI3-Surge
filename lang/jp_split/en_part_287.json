@@ -1,152 +1,152 @@
 {
     "settings.account_setting.submit_button": {
-        "string": "送信"
+        "string": "提交"
     },
     "settings.account_settings.account_section_header": {
-        "string": "アカウント"
+        "string": "账户"
     },
     "settings.account_settings.add_job_title": {
-        "string": "役職名を追加"
+        "string": "添加职位"
     },
     "settings.account_settings.change_email_link": {
-        "string": "メールアドレスを変更"
+        "string": "更改邮箱"
     },
     "settings.account_settings.change_email_modal_title": {
-        "string": "メールアドレスを変更"
+        "string": "更改邮箱"
     },
     "settings.account_settings.change_job_title_link": {
-        "string": "役職名を変更"
+        "string": "更改职位"
     },
     "settings.account_settings.change_job_title_modal_title": {
-        "string": "どのような仕事をしていますか?"
+        "string": "您的工作是什么？"
     },
     "settings.account_settings.change_languages": {
-        "string": "言語を変更"
+        "string": "更改语言"
     },
     "settings.account_settings.change_name_link": {
-        "string": "名前を変更"
+        "string": "更改姓名"
     },
     "settings.account_settings.change_name_modal_input_placeholder": {
-        "string": "新しい名前"
+        "string": "新姓名"
     },
     "settings.account_settings.change_name_modal_title": {
-        "string": "名前を変更"
+        "string": "更改姓名"
     },
     "settings.account_settings.change_password_link": {
-        "string": "パスワードを変更"
+        "string": "更改密码"
     },
     "settings.account_settings.closed_captions": {
-        "string": "クローズドキャプション"
+        "string": "字幕"
     },
     "settings.account_settings.delete_account": {
-        "string": "アカウントを削除"
+        "string": "删除账户"
     },
     "settings.account_settings.dev_mode_seat": {
-        "string": "開発モードシート"
+        "string": "开发模式席位"
     },
     "settings.account_settings.download_installer": {
-        "string": "インストーラーをダウンロード"
+        "string": "下载安装程序"
     },
     "settings.account_settings.downloading_speech_files_progress": {
-        "string": "スピーチファイルをダウンロード中... {installProgress}%"
+        "string": "正在下载语音文件... {installProgress}%"
     },
     "settings.account_settings.email_section_header": {
-        "string": "メール"
+        "string": "邮箱"
     },
     "settings.account_settings.enable_closed_captioning_when_using_audio": {
-        "string": "ファイル内で音声を使用する場合は、クローズドキャプションを有効にします。"
+        "string": "在文件中使用音频时启用字幕。"
     },
     "settings.account_settings.enable_libraries_for_drafts": {
-        "string": "ドラフトのすべてのファイルに対する{enableLibrariesLink}"
+        "string": "为所有草稿文件{enableLibrariesLink}"
     },
     "settings.account_settings.enable_libraries_for_drafts_clickable": {
-        "string": "ライブラリを有効にする"
+        "string": "启用库"
     },
     "settings.account_settings.figjam_role.seat_rename": {
-        "string": "FigJamシート"
+        "string": "FigJam席位"
     },
     "settings.account_settings.figma_design_role.seat_rename": {
-        "string": "デザインシート"
+        "string": "设计席位"
     },
     "settings.account_settings.fonts": {
-        "string": "フォント"
+        "string": "字体"
     },
     "settings.account_settings.help_article": {
-        "string": "ヘルプ記事"
+        "string": "帮助文章"
     },
     "settings.account_settings.here": {
-        "string": "こちら"
+        "string": "这里"
     },
     "settings.account_settings.install_font_service_for_local": {
-        "string": "現在、ローカルフォントは有効になっていません。フォントサービスをインストールして、ローカルフォントを有効にします。{learnMoreLink}"
+        "string": "本地字体当前未启用。请安装字体服务以启用本地字体。{learnMoreLink}"
     },
     "settings.account_settings.job_title_missing": {
-        "string": "仕事または役割をプロフィールに追加することで、自分が何をしているかをチームメートに伝えることができます。"
+        "string": "通过在个人资料中添加您的工作或角色，让您的团队成员了解您的职责。"
     },
     "settings.account_settings.job_title_section_header": {
-        "string": "役職名"
+        "string": "职位"
     },
     "settings.account_settings.language": {
-        "string": "言語"
+        "string": "语言"
     },
     "settings.account_settings.learn_more_about_captioning": {
-        "string": "キャプション{learnMoreLink}の詳細"
+        "string": "了解更多关于{learnMoreLink}字幕的信息"
     },
     "settings.account_settings.leave": {
-        "string": "退会"
+        "string": "离开"
     },
     "settings.account_settings.library_section_header": {
-        "string": "ライブラリ"
+        "string": "库"
     },
     "settings.account_settings.local_fonts_are_currently_not_supported_for_this_operating_system": {
-        "string": "現在、このオペレーティングシステムではローカルフォントはサポートされていません。"
+        "string": "当前，此操作系统不支持本地字体。"
     },
     "settings.account_settings.local_fonts_are_enabled_you_have_local_font_count_fonts_available_in_figma": {
-        "string": "ローカルフォントが有効になっています。Figmaでは{localFontCount}個のフォントを使用できます。"
+        "string": "本地字体已启用。在Figma中有{localFontCount}个可用字体。"
     },
     "settings.account_settings.managed_by_google": {
-        "string": "Googleによって管理"
+        "string": "由Google管理"
     },
     "settings.account_settings.managed_by_your_organization_email": {
-        "string": "組織によって管理"
+        "string": "由您的组织管理"
     },
     "settings.account_settings.name_section_header": {
-        "string": "名前"
+        "string": "姓名"
     },
     "settings.account_settings.new_features": {
-        "string": "新機能"
+        "string": "新功能"
     },
     "settings.account_settings.organizations": {
-        "string": "組織"
+        "string": "组织"
     },
     "settings.account_settings.password_section_header": {
-        "string": "パスワード"
+        "string": "密码"
     },
     "settings.account_settings.request_upgrade": {
-        "string": "アップグレードをリクエスト"
+        "string": "请求升级"
     },
     "settings.account_settings.theme_section_header": {
-        "string": "テーマ"
+        "string": "主题"
     },
     "settings.account_settings.to_disable_local_fonts_follow_the_uninstall_steps_in_the": {
-        "string": "ローカルフォントを無効にするには、{helpCenterLink}のアンインストール手順に従います"
+        "string": "要禁用本地字体，请按照{helpCenterLink}中的卸载步骤进行操作"
     },
     "settings.account_settings.upgrade_figma_plan_header": {
-        "string": "Figmaプランをアップグレード"
+        "string": "升级Figma计划"
     },
     "settings.account_settings.upgrade_figma_plan_reason": {
-        "string": "プランをアップグレードすると、チームのデザインファイル数が無制限になります"
+        "string": "升级计划后，团队的设计文件数量将不受限制"
     },
     "settings.account_settings.upgrade_request_sent": {
-        "string": "申請を送信しました"
+        "string": "升级请求已发送"
     },
     "settings.account_settings.use_a_verified_work_email_address_to_become_a_full_member": {
-        "string": "確認済みの仕事用メールアドレスを使用して正会員になります"
+        "string": "使用已验证的工作邮箱地址成为正式成员"
     },
     "settings.account_settings.view_plans": {
-        "string": "プランを表示"
+        "string": "查看计划"
     },
     "settings.any_resources_you_have_marked_for_sale": {
-        "string": "{creatorAgreement}により、販売中のリソースがすべて販売停止になります。ただし、リソースの購入者は引き続きそのリソースを利用できます。"
+        "string": "根据{creatorAgreement}，所有标记为销售的资源将被停止销售。但购买者仍然可以继续使用这些资源。"
     }
 }

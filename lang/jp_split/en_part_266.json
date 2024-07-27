@@ -1,152 +1,152 @@
 {
     "proto.action_update_media_play_pause": {
-        "string": "再生/一時停止"
+        "string": "播放/暂停"
     },
     "proto.action_update_media_play_pause_interaction": {
-        "string": "「再生/一時停止」インタラクション"
+        "string": "“播放/暂停”交互"
     },
     "proto.action_update_media_play_pause_video": {
-        "string": "動画を再生/一時停止"
+        "string": "播放/暂停视频"
     },
     "proto.action_update_media_set": {
-        "string": "設定"
+        "string": "设置"
     },
     "proto.action_update_media_set_time": {
-        "string": "時間を設定"
+        "string": "设置时间"
     },
     "proto.action_update_media_set_time_interaction": {
-        "string": "「時間を設定」インタラクション"
+        "string": "“设置时间”交互"
     },
     "proto.action_update_media_set_to_specific_time": {
-        "string": "特定の時間に設定"
+        "string": "设置为特定时间"
     },
     "proto.action_update_media_toggle": {
-        "string": "切り替え"
+        "string": "切换"
     },
     "proto.action_update_media_toggle_interaction": {
-        "string": "「切り替え」インタラクション"
+        "string": "“切换”交互"
     },
     "proto.action_update_media_unmute": {
-        "string": "ミュート解除"
+        "string": "取消静音"
     },
     "proto.action_update_media_unmute_interaction": {
-        "string": "「ミュート解除」インタラクション"
+        "string": "“取消静音”交互"
     },
     "proto.action_update_media_unmute_only": {
-        "string": "ミュート解除のみ"
+        "string": "仅取消静音"
     },
     "proto.action_url_title": {
-        "string": "開く"
+        "string": "打开"
     },
     "proto.add_background": {
-        "string": "背景を追加"
+        "string": "添加背景"
     },
     "proto.animation": {
-        "string": "アニメーション"
+        "string": "动画"
     },
     "proto.animation_panel.animate_matching_layers": {
-        "string": "マッチングレイヤーをアニメーション化"
+        "string": "动画匹配图层"
     },
     "proto.animation_panel.easing_duration_tooltip": {
-        "string": "イージングの所要時間"
+        "string": "缓动持续时间"
     },
     "proto.animation_panel.preserve_scroll_position": {
-        "string": "スクロール位置を保持する"
+        "string": "保持滚动位置"
     },
     "proto.animation_panel.reset_component_state": {
-        "string": "コンポーネントの状態をリセット"
+        "string": "重置组件状态"
     },
     "proto.animation_panel.reset_scroll_position": {
-        "string": "スクロール位置をリセット"
+        "string": "重置滚动位置"
     },
     "proto.animation_panel.reset_video_state": {
-        "string": "動画の状態をリセット"
+        "string": "重置视频状态"
     },
     "proto.animation_panel.smart_animate_matching_layers_tooltip": {
-        "string": "上の遷移を使用せずに同名のレイヤーでアニメーションを実行"
+        "string": "无需上层过渡即可对同名图层进行动画"
     },
     "proto.assign_variant": {
-        "string": "バリアブルの割り当て..."
+        "string": "分配变量..."
     },
     "proto.background": {
         "string": "背景"
     },
     "proto.close_when_clicking_outside": {
-        "string": "外部をクリックしたときに閉じる"
+        "string": "点击外部时关闭"
     },
     "proto.comment": {
-        "string": "コメント"
+        "string": "评论"
     },
     "proto.condition": {
         "string": "条件"
     },
     "proto.curve": {
-        "string": "曲線"
+        "string": "曲线"
     },
     "proto.delay": {
-        "string": "遅延"
+        "string": "延迟"
     },
     "proto.destination": {
-        "string": "移動先"
+        "string": "目的地"
     },
     "proto.device_panel.height": {
-        "string": "H"
+        "string": "高"
     },
     "proto.device_panel.width": {
-        "string": "W"
+        "string": "宽"
     },
     "proto.direction": {
         "string": "方向"
     },
     "proto.duration": {
-        "string": "所要時間"
+        "string": "持续时间"
     },
     "proto.easing_behavior.bezier": {
-        "string": "ベジェ"
+        "string": "贝塞尔"
     },
     "proto.easing_behavior.bezier_custom": {
-        "string": "カスタムベジエ"
+        "string": "自定义贝塞尔"
     },
     "proto.easing_behavior.bezier_custom_short": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "proto.easing_behavior.bezier_ease_in": {
-        "string": "イーズイン"
+        "string": "缓入"
     },
     "proto.easing_behavior.bezier_ease_in_and_out": {
-        "string": "イーズイン/イーズアウト"
+        "string": "缓入/缓出"
     },
     "proto.easing_behavior.bezier_ease_in_and_out_back": {
-        "string": "イーズイン/イーズアウトバック"
+        "string": "缓入/缓出反向"
     },
     "proto.easing_behavior.bezier_ease_in_back": {
-        "string": "イーズインバック"
+        "string": "缓入反向"
     },
     "proto.easing_behavior.bezier_ease_out": {
-        "string": "イーズアウト"
+        "string": "缓出"
     },
     "proto.easing_behavior.bezier_ease_out_back": {
-        "string": "イーズアウトバック"
+        "string": "缓出反向"
     },
     "proto.easing_behavior.linear": {
-        "string": "リニア"
+        "string": "线性"
     },
     "proto.easing_behavior.spring_bouncy": {
-        "string": "バウンス"
+        "string": "弹性"
     },
     "proto.easing_behavior.spring_custom": {
-        "string": "カスタムスプリング"
+        "string": "自定义弹簧"
     },
     "proto.easing_behavior.spring_custom_short": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "proto.easing_behavior.spring_gentle": {
-        "string": "なめらか"
+        "string": "柔和"
     },
     "proto.easing_behavior.spring_quick": {
-        "string": "速い"
+        "string": "快速"
     },
     "proto.easing_behavior.spring_slow": {
-        "string": "遅い"
+        "string": "慢速"
     }
 }

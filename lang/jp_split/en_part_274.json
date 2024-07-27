@@ -1,152 +1,152 @@
 {
     "qa.feeback_thank_you": {
-        "string": "フィードバックありがとうございます!"
+        "string": "感谢您的反馈!"
     },
     "qa.filter.all": {
-        "string": "すべて"
+        "string": "全部"
     },
     "qa.filter.development": {
-        "string": "開発"
+        "string": "开发"
     },
     "qa.filter.from_org_name": {
-        "string": "{org_name}関連"
+        "string": "{org_name}相关"
     },
     "qa.filter.plugins": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "qa.filter.widgets": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "qa.from_community": {
-        "string": "コミュニティのアイテム"
+        "string": "社区项目"
     },
     "qa.from_org_name": {
-        "string": "{org_name}のアイテム"
+        "string": "{org_name}的项目"
     },
     "qa.go_back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "qa.how_was_your_experience": {
-        "string": "ご意見をお聞かせください。"
+        "string": "请告诉我们您的体验。"
     },
     "qa.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "qa.no_ai.subtitle.org_disabled": {
-        "string": "AI機能をオンにするには管理者に依頼してください。各機能が公開され次第、ここに表示されます。"
+        "string": "要启用AI功能，请联系管理员。这些功能将在发布时显示在此处。"
     },
     "qa.no_ai.subtitle.personal_draft": {
-        "string": "ただし、このファイルでFigma AIを使用するには、ファイルをドラフトから移動する必要があります。"
+        "string": "要在此文件中使用Figma AI，请先将文件移出草稿。"
     },
     "qa.no_ai.subtitle.rolling_out": {
-        "string": "Figmaの新しいAI機能が、今後数週間にわたって順次公開されます。このスペースから目を離さないでください。"
+        "string": "Figma的全新AI功能将在未来几周内逐步推出。请持续关注此空间。"
     },
     "qa.no_ai.subtitle.team_or_org_user_no_access": {
-        "string": "{orgOrTeamName}のメンバーではないようです。Figma AIへのアクセス権がありません"
+        "string": "您似乎不是{orgOrTeamName}的成员，因此无法访问Figma AI"
     },
     "qa.no_ai.title": {
-        "string": "Figma AIがまもなく登場"
+        "string": "Figma AI即将推出"
     },
     "qa.no_ai.title.not_available_here": {
-        "string": "AI機能は利用できません"
+        "string": "AI功能不可用"
     },
     "qa.no_ai.title.org_disabled": {
-        "string": "まもなく、FIgma AIがここに表示されます"
+        "string": "Figma AI即将在此处显示"
     },
     "qa.no_ai.title.personal_draft": {
-        "string": "AI機能がここに表示されます"
+        "string": "AI功能将在此处显示"
     },
     "qa.no_ai.title.rolling_out": {
-        "string": "まもなく、FIgma AIがここに表示されます"
+        "string": "Figma AI即将在此处显示"
     },
     "qa.no_plugins_widgets_found": {
-        "string": "プラグインまたはウィジェットが見つかりません"
+        "string": "未找到插件或小部件"
     },
     "qa.other_extensions_from_org": {
-        "string": "{org_name}のその他のプラグインとウィジェット"
+        "string": "{org_name}的其他插件和小部件"
     },
     "qa.parameter.loading.plugin": {
-        "string": "プラグインを読み込んでいます..."
+        "string": "正在加载插件..."
     },
     "qa.parameter.loading.suggestions": {
-        "string": "候補を読み込んでいます..."
+        "string": "正在加载建议..."
     },
     "qa.plugins_widgets": {
-        "string": "プラグインとウィジェット"
+        "string": "插件和小部件"
     },
     "qa.rate_output": {
-        "string": "これはいかがでしょうか?"
+        "string": "您觉得这个怎么样?"
     },
     "qa.submit_feedback": {
-        "string": "フィードバックを送信"
+        "string": "提交反馈"
     },
     "qa.submit_feedback_placeholder": {
-        "string": "簡単なフィードバックをお願いします"
+        "string": "请提供简短的反馈"
     },
     "qa.suggested": {
-        "string": "候補"
+        "string": "建议"
     },
     "qa.thumbs_down": {
-        "string": "サムダウンアクション"
+        "string": "差评"
     },
     "qa.thumbs_up": {
-        "string": "サムアップアクション"
+        "string": "好评"
     },
     "qa.toast.suggestion": {
-        "string": "候補"
+        "string": "建议"
     },
     "qa.unavailable": {
-        "string": "現在利用できません"
+        "string": "当前不可用"
     },
     "qa.we_use_this_to_improve": {
-        "string": "私たちのAI機能の向上に役立てます。"
+        "string": "我们会使用这些反馈来改进我们的AI功能。"
     },
     "qa.extensions.approval_pending": {
-        "string": "承認待ち"
+        "string": "待批准"
     },
     "qa.extensions.development": {
-        "string": "開発"
+        "string": "开发"
     },
     "qa.extensions.in_review": {
-        "string": "レビュー中"
+        "string": "审核中"
     },
     "qa.extensions.locate_local_version": {
-        "string": "ローカルのバージョンを探す"
+        "string": "寻找本地版本"
     },
     "qa.extensions.needs_approval": {
-        "string": "承認が必要"
+        "string": "需要批准"
     },
     "qa.extensions.num_users": {
-        "string": "{numUsers, plural, other {ユーザー{numUsersStr}人}}"
+        "string": "{numUsers, plural, other {用户{numUsersStr}人}}"
     },
     "qa.extensions.open_in_community": {
-        "string": "コミュニティで開く"
+        "string": "在社区中打开"
     },
     "qa.extensions.plugin": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "qa.extensions.request_approval": {
-        "string": "承認を申請"
+        "string": "申请批准"
     },
     "qa.extensions.run": {
-        "string": "実行"
+        "string": "运行"
     },
     "qa.extensions.run_with_parameters": {
-        "string": "パラメーターを指定して実行"
+        "string": "使用参数运行"
     },
     "qa.extensions.tooltip_actions": {
-        "string": "アクション"
+        "string": "操作"
     },
     "qa.extensions.update_payment": {
-        "string": "支払いを更新"
+        "string": "更新付款"
     },
     "qa.extensions.view_details": {
-        "string": "詳細を表示"
+        "string": "查看详情"
     },
     "qa.extensions.widget": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "quick_reply.unable_to_load_thread": {
-        "string": "コメントスレッドを読み込めません"
+        "string": "无法加载评论线程"
     }
 }

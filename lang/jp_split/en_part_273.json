@@ -1,152 +1,152 @@
 {
     "viewer.options.default_keyboard_navigation_enabled": {
-        "string": "Figmaショートカット有効"
+        "string": "启用Figma快捷键"
     },
     "viewer.options_menu.accessibility_settings": {
-        "string": "アクセシビリティの設定..."
+        "string": "无障碍设置..."
     },
     "viewer.options_menu.actual_size_100": {
-        "string": "実際のサイズ({zoomAmount}%)"
+        "string": "实际大小({zoomAmount}%)"
     },
     "viewer.options_menu.actual_size_100_with_device": {
-        "string": "{zoomAmount}%でデバイスを表示"
+        "string": "以{zoomAmount}%显示设备"
     },
     "viewer.options_menu.device_dropdown.default": {
-        "string": "デフォルトデバイス"
+        "string": "默认设备"
     },
     "viewer.options_menu.device_dropdown.other": {
-        "string": "その他のデバイス"
+        "string": "其他设备"
     },
     "viewer.options_menu.disable_default_keyboard_navigation_v1": {
-        "string": "Figmaショートカットを有効にする"
+        "string": "启用Figma快捷键"
     },
     "viewer.options_menu.fill_screen": {
-        "string": "全画面表示"
+        "string": "全屏显示"
     },
     "viewer.options_menu.fill_screen_with_device": {
-        "string": "デバイスを画面全体にズーム"
+        "string": "设备全屏显示"
     },
     "viewer.options_menu.fit_to_screen": {
-        "string": "画面に合わせる"
+        "string": "适应屏幕"
     },
     "viewer.options_menu.fit_to_screen_with_device": {
-        "string": "デバイスを画面に合わせる"
+        "string": "设备适应屏幕"
     },
     "viewer.options_menu.fit_width": {
-        "string": "幅を合わせる"
+        "string": "适应宽度"
     },
     "viewer.options_menu.fit_width_and_height": {
-        "string": "幅と高さを合わせる"
+        "string": "适应宽度和高度"
     },
     "viewer.options_menu.fixed_size": {
-        "string": "固定サイズ"
+        "string": "固定大小"
     },
     "viewer.options_menu.frame": {
-        "string": "フレーム"
+        "string": "框架"
     },
     "viewer.options_menu.group": {
-        "string": "グループ"
+        "string": "组"
     },
     "viewer.options_menu.hide_ui": {
-        "string": "UIを表示しない"
+        "string": "隐藏UI"
     },
     "viewer.options_menu.load_all_frames": {
-        "string": "すべてのフレームを読み込む"
+        "string": "加载所有框架"
     },
     "viewer.options_menu.load_all_slides": {
-        "string": "すべてのスライドを読み込む"
+        "string": "加载所有幻灯片"
     },
     "viewer.options_menu.options": {
-        "string": "オプション"
+        "string": "选项"
     },
     "viewer.options_menu.other_scaling_options": {
-        "string": "他の拡大縮小オプション"
+        "string": "其他缩放选项"
     },
     "viewer.options_menu.recommended_scaling_options": {
-        "string": "おすすめ"
+        "string": "推荐选项"
     },
     "viewer.options_menu.responsive": {
-        "string": "レスポンシブ"
+        "string": "响应式"
     },
     "viewer.options_menu.section": {
-        "string": "セクション"
+        "string": "部分"
     },
     "viewer.options_menu.show_device_frame": {
-        "string": "デバイスフレームを表示"
+        "string": "显示设备框架"
     },
     "viewer.options_menu.show_hints_on_click": {
-        "string": "クリックでヒントを表示"
+        "string": "点击显示提示"
     },
     "viewer.popup.copy_sharing_link": {
-        "string": "共有リンクをコピー"
+        "string": "复制共享链接"
     },
     "viewer.popup.couldn_t_play_interaction_nested_instance_is_swapped_with_its_parent_instance": {
-        "string": "インタラクションを再生できませんでした。ネストしたインスタンスがその親インスタンスと入れ替えられます"
+        "string": "无法播放交互。嵌套实例已与其父实例交换"
     },
     "viewer.popup.learn_why": {
-        "string": "理由を確認"
+        "string": "了解原因"
     },
     "viewer.popup.one_or_more_images_in_this_prototype_failed_to_load": {
-        "string": "このプロトタイプの1つ以上の画像を読み込むことができませんでした"
+        "string": "无法加载此原型中的一个或多个图像"
     },
     "viewer.popup.press_key_to_show_ui_again": {
-        "string": "Figma UIを再び表示するには、{keycommand}を押してください"
+        "string": "按{keycommand}重新显示Figma UI"
     },
     "viewer.popup.some_missing_fonts_were_replaced": {
-        "string": "一部の欠落フォントが置き換えられました"
+        "string": "某些缺失的字体已被替换"
     },
     "viewer.popup.zoom_get_scaling_strings_new_scaling_mode": {
-        "string": "ズーム: {scalingMode}"
+        "string": "缩放：{scalingMode}"
     },
     "visual_bell.button_text": {
-        "string": "コンポーネントを公開"
+        "string": "发布组件"
     },
     "visual_bell.main_text": {
-        "string": "🎉 {teamName} がプロフェッショナルチームになりました"
+        "string": "🎉 {teamName} 已成为专业团队"
     },
     "qa.additional_feedback": {
-        "string": "追加のフィードバック"
+        "string": "其他反馈"
     },
     "qa.ai_beta": {
-        "string": "AIベータ"
+        "string": "AI测试版"
     },
     "qa.all": {
-        "string": "すべて"
+        "string": "全部"
     },
     "qa.assets": {
-        "string": "アセット"
+        "string": "资源"
     },
     "qa.category.collaboration_tools": {
-        "string": "コラボレーションツール"
+        "string": "协作工具"
     },
     "qa.category.common_settings": {
-        "string": "共通設定"
+        "string": "常用设置"
     },
     "qa.category.design_tools": {
-        "string": "デザインツール"
+        "string": "设计工具"
     },
     "qa.category.handoff_tools": {
-        "string": "ハンドオフツール"
+        "string": "交付工具"
     },
     "qa.category.image_editing": {
-        "string": "画像編集"
+        "string": "图像编辑"
     },
     "qa.category.recents": {
         "string": "最近"
     },
     "qa.category.riffing_and_writing": {
-        "string": "テキストの変更と作成"
+        "string": "文本修改和编写"
     },
     "qa.category.suggestions": {
-        "string": "候補"
+        "string": "建议"
     },
     "qa.category.viewer_tools": {
-        "string": "閲覧ツール"
+        "string": "查看工具"
     },
     "qa.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "qa.dismiss": {
-        "string": "閉じる"
+        "string": "关闭"
     }
 }

@@ -1,152 +1,152 @@
 {
     "slides.onboarding.views.description": {
-        "string": "シフトとピリオド(⇧.)を押してビューを切り替えます。グリッドビューでアウトラインを作成して整理し、スライドビューで細部を作成できます。"
+        "string": "按住Shift和句号(⇧.)切换视图。在网格视图中创建大纲并进行组织，在幻灯片视图中处理细节。"
     },
     "slides.onboarding.views.title": {
-        "string": "俯瞰する"
+        "string": "俯瞰"
     },
     "slides.onboarding.welcome.description": {
-        "string": "オーディエンスを対話に引き込む魅力的なプレゼンテーションを共同で作成するためのスペースです。Figma Slidesは、2025年始めまでのベータ期間は無料です。その後、新しい料金が適用される場合があります。{learn_more}"
+        "string": "这是一个共同创建引人入胜的演示文稿以吸引观众的空间。在2025年初之前，Figma Slides在Beta期间是免费的。之后可能会有新的费用。{learn_more}"
     },
     "slides.onboarding.welcome.org.footer.ai": {
-        "string": "使用を継続すると、Figmaとの他のいかなる合意にかかわらず、Figmaの{services_agreement}に同意したことになります。Figma SlidesのAI機能の使用を選択すると、FigmaのAI{subprocessors}に同意したことになります。"
+        "string": "继续使用即表示您同意Figma的{services_agreement}，无论您与Figma达成的任何其他协议。如果选择使用Figma Slides的AI功能，则表示您同意Figma的AI{subprocessors}。"
     },
     "slides.onboarding.welcome.org.footer.no_ai": {
-        "string": "使用を継続すると、Figmaとの他のいかなる合意にかかわらず、Figmaの{services_agreement}に同意したことになります。"
+        "string": "继续使用即表示您同意Figma的{services_agreement}，无论您与Figma达成的任何其他协议。"
     },
     "slides.onboarding.welcome.primary_cta": {
-        "string": "始める"
+        "string": "开始"
     },
     "slides.onboarding.welcome.secondary_cta": {
-        "string": "ファイルに戻る"
+        "string": "返回文件"
     },
     "slides.onboarding.welcome.starter.footer": {
-        "string": "Figma SlidesのAI機能の使用を選択すると、FigmaのAI{subprocessors}に同意したことになります。"
+        "string": "选择使用Figma Slides的AI功能即表示您同意Figma的AI{subprocessors}。"
     },
     "slides.onboarding.welcome.title": {
-        "string": "Figma Slidesにようこそ"
+        "string": "欢迎使用Figma Slides"
     },
     "slides.onboarding.welcome.title.jp": {
         "string": "Figma Slides"
     },
     "slides.present_summary.visual_bells.canceled_indirectly": {
-        "string": "スライドデッキのオンラインでの作成を停止しました"
+        "string": "已停止在线创建幻灯片"
     },
     "slides.present_summary.visual_bells.complete": {
-        "string": "完了!"
+        "string": "完成！"
     },
     "slides.present_summary.visual_bells.content_moderation": {
-        "string": "有害の可能性がある結果をブロックしました"
+        "string": "已阻止可能有害的内容"
     },
     "slides.present_summary.visual_bells.error_content_limit_exceeded": {
-        "string": "デッキを生成できませんでした。小さいファイルでお試しください。"
+        "string": "无法生成幻灯片。请尝试更小的文件。"
     },
     "slides.present_summary.visual_bells.error_offline": {
-        "string": "オフラインのようです。この機能を使用するには、再度接続する必要があります"
+        "string": "似乎处于离线状态。要使用此功能，请重新连接。"
     },
     "slides.present_summary.visual_bells.error_opt_out": {
-        "string": "AI機能は組織でオフになっています"
+        "string": "AI功能在组织中已被禁用"
     },
     "slides.present_summary.visual_bells.error_rate_limited": {
-        "string": "現在、要約できません。少ししてから、もう一度お試しください"
+        "string": "目前无法生成摘要。请稍后再试。"
     },
     "slides.present_summary.visual_bells.error_unknown": {
-        "string": "問題が発生しました。もう一度お試しください"
+        "string": "发生问题。请再试一次。"
     },
     "slides.present_summary.visual_bells.error_vendor": {
-        "string": "AI機能は現在利用できません。しばらくしてからお試しください"
+        "string": "AI功能当前不可用。请稍后再试。"
     },
     "slides.present_summary.visual_bells.loading": {
-        "string": "アウトラインを作成中..."
+        "string": "创建大纲中..."
     },
     "slides.present_summary.visual_bells.stop": {
         "string": "停止"
     },
     "slides.presenter_view.decrement_font_size": {
-        "string": "フォントサイズを小さくします"
+        "string": "减小字体大小"
     },
     "slides.presenter_view.increment_font_size": {
-        "string": "フォントサイズを大きくします"
+        "string": "增大字体大小"
     },
     "slides.presenter_view.modal.presenter_view_requires_desktop_update_modal_confirm_button_label": {
-        "string": "今すぐ更新"
+        "string": "立即更新"
     },
     "slides.presenter_view.modal.presenter_view_requires_desktop_update_modal_content": {
-        "string": "メモを使用してプレゼンテーションするには、Figmaアプリの最新バージョンが必要です。更新は1分ほどで終わります。"
+        "string": "要使用演讲者笔记进行演示，您需要最新版本的Figma应用程序。更新大约需要一分钟时间。"
     },
     "slides.presenter_view.modal.presenter_view_requires_desktop_update_modal_title": {
-        "string": "更新が必要です"
+        "string": "需要更新"
     },
     "slides.presenter_view.no_slides": {
-        "string": "このプレゼンテーションにスライドはありません。"
+        "string": "此演示文稿中没有幻灯片。"
     },
     "slides.presenter_view.open_popup": {
-        "string": "もう一度試す"
+        "string": "再试一次"
     },
     "slides.presenter_view.pop_up_error": {
-        "string": "プレゼンテーションを開くには、ブラウザでポップアップを許可してください。"
+        "string": "要打开演示文稿，请在浏览器中允许弹出窗口。"
     },
     "slides.presenter_view.presenter_view_backgrounded": {
-        "string": "このビューを最新に保つには、発表者タブにフォーカスを置きます"
+        "string": "要保持此视图的最新状态，请聚焦到演讲者标签。"
     },
     "slides.presenter_view.unknown_error": {
-        "string": "オーディエンスビューを開くことができません"
+        "string": "无法打开观众视图"
     },
     "slides.presenter_view.visual_bells.opened_audience_view_in_separate_window": {
-        "string": "スライドデッキを別のウィンドウで開きました"
+        "string": "在单独的窗口中打开了幻灯片"
     },
     "slides.presenter_view.visual_bells.opened_presentation_in_new_tab": {
-        "string": "スライドデッキを新しいタブで開きました"
+        "string": "在新标签页中打开了幻灯片"
     },
     "slides.presenter_view.visual_bells.opened_presenter_and_audience_views_in_new_tabs": {
-        "string": "スライドデッキと発表者のメモをそれぞれ新しいタブで開きました"
+        "string": "分别在新标签页中打开了幻灯片和演讲者笔记"
     },
     "slides.presenter_view.visual_bells.opened_presenter_view_in_separate_tab": {
-        "string": "発表者のメモを別のタブで開きました"
+        "string": "在单独的标签页中打开了演讲者笔记"
     },
     "slides.properties_panel.animate": {
-        "string": "アニメーション"
+        "string": "动画"
     },
     "slides.properties_panel.blur.label": {
-        "string": "ぼかし"
+        "string": "模糊"
     },
     "slides.properties_panel.blur.strength": {
-        "string": "ほかしの強さ"
+        "string": "模糊强度"
     },
     "slides.properties_panel.blur.title": {
-        "string": "レイヤーブラー"
+        "string": "图层模糊"
     },
     "slides.properties_panel.border_panel.color": {
-        "string": "色"
+        "string": "颜色"
     },
     "slides.properties_panel.border_panel.style_dashed_big": {
-        "string": "大きな破線"
+        "string": "大虚线"
     },
     "slides.properties_panel.border_panel.style_dashed_small": {
-        "string": "小さな破線"
+        "string": "小虚线"
     },
     "slides.properties_panel.border_panel.style_none": {
-        "string": "ボーダーなし"
+        "string": "无边框"
     },
     "slides.properties_panel.border_panel.style_solid": {
-        "string": "実線"
+        "string": "实线"
     },
     "slides.properties_panel.border_panel.style_title": {
-        "string": "種類"
+        "string": "样式"
     },
     "slides.properties_panel.border_panel.title": {
-        "string": "ボーダー"
+        "string": "边框"
     },
     "slides.properties_panel.border_panel.width_slider_tooltip": {
-        "string": "ボーダーの太さ"
+        "string": "边框宽度"
     },
     "slides.properties_panel.color_picker.add_color_aria_label": {
-        "string": "色を追加"
+        "string": "添加颜色"
     },
     "slides.properties_panel.color_picker.add_template_color_tooltip": {
-        "string": "テーマの色を追加"
+        "string": "添加主题颜色"
     },
     "slides.properties_panel.color_picker.color_toggle": {
-        "string": "色"
+        "string": "颜色"
     }
 }

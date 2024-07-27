@@ -1,152 +1,152 @@
 {
     "slides.flapp.embed.widget_alignment": {
-        "string": "意見の一致度"
+        "string": "意见一致度"
     },
     "slides.flapp.embed.widget_modal_description": {
-        "string": "プレゼンテーションの際に、簡単な投票やインタラクティブなプロトタイプなど、オーディエンスとやり取りができるようにします。"
+        "string": "在演示过程中，与观众进行互动，如投票和交互式原型。"
     },
     "slides.flapp.embed.widget_modal_title": {
-        "string": "ライブインタラクション"
+        "string": "实时互动"
     },
     "slides.flapp.embed.widget_poll": {
         "string": "投票"
     },
     "slides.flapp.embed.widget_prototype": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "slides.flapp.embed.widget_stamps": {
-        "string": "スタンプ"
+        "string": "印章"
     },
     "slides.flapp.embed.widget_youtube": {
         "string": "YouTube"
     },
     "slides.flapp.facepile.description_click_to_stamp": {
-        "string": "クリックしてフェイススタンプを押します"
+        "string": "点击添加面部印章"
     },
     "slides.flapp.facepile.prompt_placeholder": {
-        "string": "賛成ならスタンプを押してください"
+        "string": "如果同意请添加印章"
     },
     "slides.flapp.facepile.tooltip.click_to_remove": {
-        "string": "クリックして削除"
+        "string": "点击移除"
     },
     "slides.flapp.poll.option_placeholder": {
-        "string": "選択肢を追加"
+        "string": "添加选项"
     },
     "slides.flapp.poll.question_placeholder": {
-        "string": "質問を入力..."
+        "string": "输入问题..."
     },
     "slides.flapp.poll.vote_failure": {
-        "string": "投票できませんでした。ログインしてもう一度投票してみてください。"
+        "string": "投票失败。请登录后重试。"
     },
     "slides.flapp.results.multiple_other_stamps": {
-        "string": "{totalStamps, plural, other {{totalStamps}人がスタンプを押しました}}"
+        "string": "{totalStamps, plural, other {{totalStamps}人添加了印章}}"
     },
     "slides.flapp.results.multiple_other_votes": {
-        "string": "{totalVotes, plural, other {{totalVotes}人が投票しました}}"
+        "string": "{totalVotes, plural, other {{totalVotes}人投票}}"
     },
     "slides.flapp.results.multiple_stamps_including_user": {
-        "string": "{totalStamps, plural, other {あなたと他{totalStamps}人がスタンプを押しました}}"
+        "string": "{totalStamps, plural, other {你和其他{totalStamps}人添加了印章}}"
     },
     "slides.flapp.results.multiple_votes_including_user": {
-        "string": "{totalVotes, plural, other {あなたと他{totalVotes}人が投票しました}}"
+        "string": "{totalVotes, plural, other {你和其他{totalVotes}人投票}}"
     },
     "slides.flapp.results.no_stamps_yet": {
-        "string": "スタンプはまだありません"
+        "string": "还没有印章"
     },
     "slides.flapp.results.no_votes_yet": {
-        "string": "投票はまだありません"
+        "string": "还没有投票"
     },
     "slides.flapp.results.results_hidden": {
-        "string": "結果 - 非表示"
+        "string": "结果 - 隐藏"
     },
     "slides.flapp.results.results_shown": {
-        "string": "結果 - 表示中"
+        "string": "结果 - 显示"
     },
     "slides.flapp.results.single_other_stamp": {
-        "string": "{person}人がスタンプを押しました"
+        "string": "{person}人添加了印章"
     },
     "slides.flapp.results.single_other_vote": {
-        "string": "{person}人が投票しました"
+        "string": "{person}人投票"
     },
     "slides.flapp.results.single_self_stamp": {
-        "string": "スタンプを押しました"
+        "string": "你添加了印章"
     },
     "slides.flapp.results.single_self_vote": {
-        "string": "投票しました"
+        "string": "你投票了"
     },
     "slides.general.presenter": {
-        "string": "発表者"
+        "string": "演讲者"
     },
     "slides.general.slide_deck": {
-        "string": "オーディエンス"
+        "string": "观众"
     },
     "slides.general.slides": {
         "string": "Figma Slides"
     },
     "slides.inserting_embed.visual_bell": {
-        "string": "プロトタイプを読み込んでいます..."
+        "string": "加载原型中..."
     },
     "slides.inserts_menu.assets": {
-        "string": "アセット"
+        "string": "资产"
     },
     "slides.inserts_menu.design": {
-        "string": "デザインモード"
+        "string": "设计模式"
     },
     "slides.inserts_menu.design_mode_upsell": {
-        "string": "デザインモードにはFigmaデザインプランが必要です。"
+        "string": "设计模式需要Figma设计计划。"
     },
     "slides.inserts_menu.image_video": {
-        "string": "画像/動画"
+        "string": "图片/视频"
     },
     "slides.inserts_menu.interaction": {
-        "string": "ライブインタラクション"
+        "string": "实时互动"
     },
     "slides.inserts_menu.shapes": {
-        "string": "シェイプ"
+        "string": "形状"
     },
     "slides.inserts_menu.slides": {
-        "string": "スライドモードに戻る"
+        "string": "返回幻灯片模式"
     },
     "slides.onboarding.callout.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "slides.onboarding.callout.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "slides.onboarding.callout.next": {
-        "string": "次へ"
+        "string": "下一步"
     },
     "slides.onboarding.designer.tools.description": {
-        "string": "最初はスライドモードを使用し、デザインモードに切り替えてデッキの完成度を高め、さらに洗練させます。"
+        "string": "开始使用幻灯片模式，然后切换到设计模式来完善和提升幻灯片的质量。"
     },
     "slides.onboarding.designer.tools.title": {
-        "string": "モードを使い分ける"
+        "string": "使用模式"
     },
     "slides.onboarding.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "slides.onboarding.new_slide.description": {
-        "string": "すべてを備えたデッキからシンプルなスタイルまで、何十ものテンプレートから選択できます。⇧Sを押すことで、新しいスライドをすばやく追加できます。"
+        "string": "从全功能到简洁风格，选择数十种模板。按⇧S可以快速添加新幻灯片。"
     },
     "slides.onboarding.new_slide.title": {
-        "string": "状況に合ったスライドを見つける"
+        "string": "找到合适的幻灯片"
     },
     "slides.onboarding.nondesigner.tools.description": {
-        "string": "シンプルなスライドツールのほか、投票の実行、プロトタイプの埋め込み、魅力を加えるためのアセットの追加を行うことができます。"
+        "string": "使用简单的幻灯片工具，进行投票，嵌入原型，添加吸引人的资产。"
     },
     "slides.onboarding.nondesigner.tools.title": {
-        "string": "作業に合ったツールを選択"
+        "string": "选择合适的工具"
     },
     "slides.onboarding.services_agreement": {
-        "string": "ソフトウェアサービス契約"
+        "string": "软件服务协议"
     },
     "slides.onboarding.share.description": {
-        "string": "準備ができたら、別のタブのメモを読みながら1つのタブでデッキをプレゼンテーションできます。"
+        "string": "准备就绪后，在一个标签页中演示幻灯片，同时在另一个标签页中查看笔记。"
     },
     "slides.onboarding.share.title": {
-        "string": "発表する"
+        "string": "开始演示"
     },
     "slides.onboarding.subprocessors": {
-        "string": "サブプロセッサー"
+        "string": "子处理器"
     }
 }

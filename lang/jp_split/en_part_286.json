@@ -1,152 +1,152 @@
 {
     "search.sidebar_search_placeholder": {
-        "string": "検索"
+        "string": "搜索"
     },
     "search.sort_option.created_at": {
-        "string": "作成日時"
+        "string": "创建时间"
     },
     "search.sort_option.creator": {
-        "string": "作成者"
+        "string": "创建者"
     },
     "search.sort_option.email": {
-        "string": "メール"
+        "string": "邮箱"
     },
     "search.sort_option.last_active_at": {
-        "string": "最後にアクティブだった時点"
+        "string": "最后活跃时间"
     },
     "search.sort_option.last_updated": {
-        "string": "最終更新"
+        "string": "最后更新"
     },
     "search.sort_option.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "search.sort_option.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "search.sort_option.name_grid": {
-        "string": "名前(グリッド)"
+        "string": "名称（网格）"
     },
     "search.sort_option.name_list": {
-        "string": "名前(リスト)"
+        "string": "名称（列表）"
     },
     "search.sort_option.owner": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "search.sort_option.relevance": {
-        "string": "関連度"
+        "string": "相关性"
     },
     "search.sort_option.relevancy": {
-        "string": "関連度"
+        "string": "相关性"
     },
     "search.sort_option.saves": {
-        "string": "保存数"
+        "string": "保存次数"
     },
     "search.sort_option.touched_at": {
-        "string": "最終変更"
+        "string": "最后修改"
     },
     "search.sort_option.used_by": {
         "string": "使用者"
     },
     "search.user_view.last_active": {
-        "string": "直前のアクティブな{relativeTimeString}"
+        "string": "上次活跃时间：{relativeTimeString}"
     },
     "search.user_view.not_active_yet": {
-        "string": "まだアクティブではありません"
+        "string": "尚未活跃"
     },
     "search.zero_state.empty_state": {
-        "string": "結果が見つかりません。フィルターを削除してみてください"
+        "string": "未找到结果。请尝试删除筛选条件。"
     },
     "sessions.column.created": {
-        "string": "作成日時"
+        "string": "创建时间"
     },
     "sessions.column.last_accessed": {
-        "string": "最終アクセス"
+        "string": "最后访问"
     },
     "sessions.column.location_ip": {
-        "string": "場所とIP"
+        "string": "位置和IP"
     },
     "sessions.column.os_browser": {
-        "string": "OSとブラウザ"
+        "string": "操作系统和浏览器"
     },
     "sessions.column.type": {
-        "string": "タイプ"
+        "string": "类型"
     },
     "sessions.error.logged_out": {
-        "string": "ログインしていません"
+        "string": "未登录"
     },
     "sessions.error.no_sessions": {
-        "string": "セッションの読み込みに失敗しました"
+        "string": "加载会话失败"
     },
     "sessions.header.description": {
-        "string": "すべてのセッションが下にリストアップされています。認識できない、または信頼できないセッションを取り消してください。"
+        "string": "所有会话都在下面列出。请取消任何不认识或不信任的会话。"
     },
     "sessions.header.description.viewonly": {
-        "string": "すべてのセッションが下にリストアップされています。"
+        "string": "所有会话都在下面列出。"
     },
     "sessions.header.title": {
-        "string": "セッション"
+        "string": "会话"
     },
     "sessions.row.location": {
-        "string": "{country}、{city}"
+        "string": "{country}，{city}"
     },
     "sessions.session.current_session": {
-        "string": "現在"
+        "string": "当前会话"
     },
     "sessions.session.revoke_session": {
-        "string": "取り消す"
+        "string": "取消会话"
     },
     "sessions.session.revoked": {
-        "string": "取り消しました"
+        "string": "已取消"
     },
     "sessions.unknown": {
-        "string": "不明"
+        "string": "未知"
     },
     "settings.account_setting.account": {
-        "string": "アカウント"
+        "string": "账户"
     },
     "settings.account_setting.change_email_confirm_password_placeholder": {
-        "string": "Figmaパスワードを確認"
+        "string": "确认Figma密码"
     },
     "settings.account_setting.change_email_context": {
-        "string": "新しいメールアドレスに変更完了の手順を記載したメールをお送りします。"
+        "string": "我们将向您的新邮箱发送一封邮件，内含更改完成的步骤。"
     },
     "settings.account_setting.change_email_context_org_warning": {
-        "string": "新しいメールアドレスのドメインが@{orgDomain}ではない場合、組織のファイルの一部もしくは全てにアクセスできなくなる可能性があります。"
+        "string": "如果新邮箱的域名不是@{orgDomain}，您可能会失去对组织文件的部分或全部访问权限。"
     },
     "settings.account_setting.change_email_input_placeholder": {
-        "string": "メールを新規作成"
+        "string": "新建邮箱"
     },
     "settings.account_setting.change_password_confirm_password_placeholder": {
-        "string": "パスワードを確認"
+        "string": "确认密码"
     },
     "settings.account_setting.change_password_current_password_placeholder": {
-        "string": "現在のパスワード"
+        "string": "当前密码"
     },
     "settings.account_setting.change_password_modal_header": {
-        "string": "パスワードを変更"
+        "string": "更改密码"
     },
     "settings.account_setting.change_password_new_password_placeholder": {
-        "string": "新しいパスワード"
+        "string": "新密码"
     },
     "settings.account_setting.comments_from_other_users": {
-        "string": "他のユーザーからのコメント"
+        "string": "来自其他用户的评论"
     },
     "settings.account_setting.community": {
-        "string": "コミュニティ"
+        "string": "社区"
     },
     "settings.account_setting.forgot_password": {
-        "string": "パスワードを忘れた場合"
+        "string": "忘记密码"
     },
     "settings.account_setting.inactive": {
-        "string": "無効"
+        "string": "未激活"
     },
     "settings.account_setting.notifications": {
         "string": "通知"
     },
     "settings.account_setting.purchases": {
-        "string": "購入"
+        "string": "购买记录"
     },
     "settings.account_setting.sessions": {
-        "string": "セッション"
+        "string": "会话"
     }
 }

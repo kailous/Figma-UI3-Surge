@@ -1,152 +1,152 @@
 {
     "rcs.move_drafts_nudge.drafts_are_great_for_solo_work_but_teammates_can_t_find_or_contribute_to_this_file_move_it_to_team_name_to_let_others_edit": {
-        "string": "ドラフトは単独での作業に適していますが、チームのメンバーがこのファイルを見つけたり、一緒に編集したりできません。ほかのメンバーも編集できるようにするには、このファイルを{teamName}に移動します。"
+        "string": "草稿适合单独工作，但队友无法找到或贡献此文件。将其移动到{teamName}以让其他人编辑。"
     },
     "rcs.move_drafts_nudge.drafts_are_great_for_solo_work_but_teammates_can_t_find_or_contribute_to_this_file_move_it_to_your_team_to_let_others_edit": {
-        "string": "ドラフトは単独での作業に適していますが、チームのメンバーがこのファイルを見つけたり、一緒に編集したりできません。ほかのメンバーも編集できるようにするには、チームのプロジェクトに移動します。"
+        "string": "草稿适合单独工作，但队友无法找到或贡献此文件。将其移动到您的团队以让其他人编辑。"
     },
     "rcs.move_drafts_nudge.edit_with_professional_tools": {
-        "string": "このファイルをプロジェクトに追加すると、プロフェッショナルチームのすべてのツールで編集できるようになります。"
+        "string": "将此文件添加到项目中，即可使用专业团队的所有工具进行编辑。"
     },
     "rcs.move_drafts_nudge.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "rcs.move_drafts_nudge.move_file": {
-        "string": "ファイルを移動"
+        "string": "移动文件"
     },
     "rcs.move_drafts_nudge.move_file_to": {
-        "string": "ファイルの移動先:"
+        "string": "移动文件到："
     },
     "rcs.move_drafts_nudge.not_now": {
-        "string": "あとで"
+        "string": "稍后"
     },
     "rcs.move_drafts_nudge.now_that_you_ve_moved_this_file_to_projects_your_teammates_can_edit_and_collaborate_with_you": {
-        "string": "このファイルをプロジェクトに移動しました。チームのメンバーによる編集やメンバーとのコラボレーションが可能です。"
+        "string": "您已将此文件移动到项目中，您的队友现在可以与您一起编辑和协作。"
     },
     "rcs.move_drafts_nudge.okay_you_can_move_drafts_and_files_into_team_projects_here_any_time": {
-        "string": "もう、ドラフトおよびファイルを、いつでもここのチームプロジェクトに移動できます。"
+        "string": "好的，您可以随时将草稿和文件移动到此处的团队项目中。"
     },
     "rcs.move_drafts_nudge.ready_to_bring_in_your_team": {
-        "string": "チームに移動しますか?"
+        "string": "准备好邀请您的团队了吗？"
     },
     "rcs.move_drafts_nudge.team_project": {
         "string": "{teamName} / {projectName}"
     },
     "rcs.move_drafts_nudge.team_team_name_reached_the_starter_plan_file_limit_of_3_files": {
-        "string": "チーム{teamName}はスタータープランのファイル数の上限、3ファイルに到達しました。"
+        "string": "团队{teamName}已达到起步计划的文件限制（3个文件）。"
     },
     "rcs.move_drafts_nudge.upgrade_to_continue": {
-        "string": "アップグレードして続行"
+        "string": "升级以继续"
     },
     "rcs.move_drafts_nudge.want_to_get_ideas_from_teammates": {
-        "string": "チームメートに意見を聞きますか?"
+        "string": "想要获取队友的想法吗？"
     },
     "rcs.move_drafts_nudge.want_to_get_ideas_from_user_name": {
-        "string": "{userName}に意見を聞きますか?"
+        "string": "想要获取{userName}的想法吗？"
     },
     "rcs.move_drafts_nudge.when_to_draft_when_to_file": {
-        "string": "ドラフト時、ファイル時"
+        "string": "草稿时，文件时"
     },
     "rcs.move_drafts_nudge.when_to_draft_when_to_file_pro_user": {
-        "string": "ドラフトファイルで作業をしています。"
+        "string": "您正在草稿文件中工作。"
     },
     "rcs.move_drafts_nudge.you_re_currently_working_solo_on_a_draft": {
-        "string": "現在、単独でドラフトに取り組んでいます。これを自身のプロジェクトに移動して、チームでファイルの編集や管理などを実行できるようにします。"
+        "string": "您目前正在单独处理草稿。将其移动到您的项目中，以便团队可以编辑和管理文件。"
     },
     "rcs.multiplayer.collaborate_in_real_time_with_your_team_and_never_worry_about_your_files": {
-        "string": "チームとリアルタイムでコラボレーションできます。ファイルが最新かどうかを気にする必要はありません。"
+        "string": "与您的团队实时协作，无需担心您的文件是否是最新的。"
     },
     "rcs.multiplayer.multiplayer": {
-        "string": "マルチプレイヤー"
+        "string": "多人合作"
     },
     "rcs.multiplayer.no_syncing_no_waiting_no_merge_conflicts": {
-        "string": "同期する必要はありません。待機する必要もありません。マージの競合は発生しません。"
+        "string": "无需同步，无需等待，无合并冲突。"
     },
     "rcs.new_team_create_pointer.create_teams_to_share_design_libraries_with_collaborators_and_organize_files_into_projects": {
-        "string": "チームを作成してデザインライブラリをコラボレーターと共有し、ファイルをプロジェクトに整理"
+        "string": "创建团队与协作者共享设计库，并将文件组织到项目中。"
     },
     "rcs.open_file.create_file": {
-        "string": "ファイルを作成"
+        "string": "创建文件"
     },
     "rcs.open_file.edit_a_file": {
-        "string": "ファイルを編集"
+        "string": "编辑文件"
     },
     "rcs.open_file.open_a_file_to_learn_more_about_figma_s_powerful_editing_features": {
-        "string": "ファイルを開いて、Figmaの素晴らしい編集機能を体験してください!"
+        "string": "打开文件，了解更多关于Figma强大编辑功能的信息！"
     },
     "rcs.org_welcome.click_on_the_organization_button_on_the_left_to_find_teams_to_join": {
-        "string": "左側の組織ボタンをクリックして、参加するチームを検索してください。"
+        "string": "点击左侧的组织按钮查找可加入的团队。"
     },
     "rcs.org_welcome.click_the_all_teams_button_on_the_left_to_find_teams_to_join": {
-        "string": "左側の「すべてのチーム」ボタンをクリックして、参加するチームを検索してください。"
+        "string": "点击左侧的“所有团队”按钮查找可加入的团队。"
     },
     "rcs.org_welcome.click_the_current_org_name_span_button_on_the_left_to_find_teams_to_join": {
-        "string": "左側の{orgName}ボタンをクリックして、参加するチームを検索してください。"
+        "string": "点击左侧的{orgName}按钮查找可加入的团队。"
     },
     "rcs.org_welcome.figma_organization_connects_files_projects_libraries_and_teams_securely_across_your_company": {
-        "string": "Figmaビジネスは、会社全体のファイル、プロジェクト、ライブラリ、チームを安全に接続します。"
+        "string": "Figma组织安全地连接公司中的文件、项目、库和团队。"
     },
     "rcs.org_welcome.welcome_to_your_figma_organization": {
-        "string": "Figmaビジネスへようこそ"
+        "string": "欢迎来到Figma组织"
     },
     "rcs.plan_spaces.a_simpler_switcher_menu": {
-        "string": "よりシンプルな切り替えメニュー"
+        "string": "更简单的切换菜单"
     },
     "rcs.plan_spaces.a_simpler_switcher_menu.description": {
-        "string": "所属するすべてのチームと組織(ゲストの場合を含む)がスライドバーの切り替えメニューに表示されるようになります。一方、外部チームとそのドラフトスペースは表示されなくなります。"
+        "string": "您所属的所有团队和组织（包括作为客人）将显示在滑动条的切换菜单中。而外部团队及其草稿空间将不再显示。"
     },
     "rcs.plan_spaces.changes_to_your_drafts": {
-        "string": "ドラフトの変更"
+        "string": "草稿的变化"
     },
     "rcs.plan_spaces.drafts_have_a_new_home": {
-        "string": "ドラフトに新しい居場所ができました"
+        "string": "草稿有了新家"
     },
     "rcs.plan_spaces.drafts_lived_in_separate_area": {
-        "string": "今日まで、ドラフトはチーム外の別の場所に存在していました。これではどのチームがどのドラフトを所有しているかが不明瞭であったため、非公開のドラフトフォルダをチーム内に移動しました。"
+        "string": "到目前为止，草稿一直存在于团队之外的单独区域。这使得难以确定哪个团队拥有哪个草稿。因此，我们已将私有草稿文件夹移至团队内。"
     },
     "rcs.plan_spaces.file_browser_onboarding_step.seat_rename": {
-        "string": "チーム内のファイルはチームメンバーがアクセスでき、編集アクセス権のあるユーザーと共有できます。"
+        "string": "团队中的文件可由团队成员访问，并与有编辑权限的用户共享。"
     },
     "rcs.plan_spaces.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "rcs.plan_spaces.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "rcs.plan_spaces.nothing_else_has_changed": {
-        "string": "他には何も変更はありません。ドラフトは引き続き無料で、共有するまで非公開のままです。"
+        "string": "其他没有变化。草稿仍然是免费的，并且在共享之前是私有的。"
     },
     "rcs.plan_spaces.show_me_what_changed": {
-        "string": "変更の内容を見る"
+        "string": "查看更改内容"
     },
     "rcs.plan_spaces.starter_pro.onboarding_modal_body": {
-        "string": "これを解決するため、各チーム内にドラフトフォルダを追加しました。ドラフトは共有されるまで作成者以外には公開されません。ドラフト内ではチームのすべての機能を利用できるようになりました。"
+        "string": "为了解决这个问题，我们在每个团队内添加了草稿文件夹。在共享之前，草稿只对创建者可见。在草稿中，您可以使用团队的所有功能。"
     },
     "rcs.plan_spaces.starter_pro.onboarding_modal_description": {
-        "string": "今日まで、どのチ ームがどのファイ ルを所有しているのかが明確でなかったため、プロフェッショナルチー ムはドラフトで作業する際に開発モードや特殊なプロトタイピング機能を使用することができませ んでした。"
+        "string": "到目前为止，由于难以确定哪个团队拥有哪个文件，专业团队在草稿中无法使用开发模式或特定的原型制作功能。"
     },
     "rcs.plan_spaces.user_help_migrating_drafts_awareness": {
-        "string": "注: これらの変更によって、アイテムの移動が必要になる場合があります。"
+        "string": "注意：这些更改可能需要移动项目。"
     },
     "rcs.plan_spaces_new_starter_team.text": {
-        "string": "Figmaで物事をもっと整理できるようになります。お客様のためにチームをセットアップしました。このチームを使用して、いつでもプロジェクトやファイルを作成してください。"
+        "string": "Figma将帮助您更好地组织工作。我们为您设置了一个团队，您可以随时使用这个团队创建项目和文件。"
     },
     "rcs.plan_spaces_new_starter_team.title": {
-        "string": "ユーザー専用の新しいチーム"
+        "string": "为用户创建的新团队"
     },
     "rcs.plan_spaces_onboarding_sequence.drafts_in_a_team": {
-        "string": "ドラフトがチームに紐づけられるようになりました。"
+        "string": "草稿现在与团队相关联。"
     },
     "rcs.plan_spaces_onboarding_sequence.finding_the_right_home": {
-        "string": "現在チーム外にあるすべてのドラフトを移動していただく必要があります。"
+        "string": "我们需要您将目前在团队之外的所有草稿移动到合适的位置。"
     },
     "rcs.plan_spaces_onboarding_sequence.lets_move_these_files": {
-        "string": "ファイルに新しいホームが必要です"
+        "string": "这些文件需要一个新家"
     },
     "rcs.plan_spaces_onboarding_sequence.new_space_for_teams": {
-        "string": "チーム間の切り替えの新しい方法"
+        "string": "切换团队的新方法"
     },
     "rcs.plan_spaces_onboarding_sequence.private_drafts_folder": {
-        "string": "チームごとに、専用のドラフトフォルダが各ユーザー に割り当てられ、引き続きドラフトを無制限に持つことができます。"
+        "string": "每个团队的用户都有一个专用的私有草稿文件夹，仍然可以无限制地保留草稿。"
     }
 }

@@ -1,152 +1,152 @@
 {
     "rcs.plan_spaces_onboarding_sequence.switch_between_teams": {
-        "string": "スタータープランとプロフェッショナルプランのすべてのチームをここで見つけることができます。"
+        "string": "在此处查找所有入门计划和专业计划的团队。"
     },
     "rcs.playground_file.ready_to_try": {
-        "string": "試しますか?"
+        "string": "准备好尝试了吗？"
     },
     "rcs.playground_file.ready_to_try.plugin": {
-        "string": "{readyToTry}ここでプラグインを見つけることができます。"
+        "string": "{readyToTry}您可以在这里找到插件。"
     },
     "rcs.playground_file.ready_to_try.widget": {
-        "string": "{readyToTry}ここからウィジェットを取得します。"
+        "string": "{readyToTry}从这里获取小部件。"
     },
     "rcs.playground_file.switch_devmode_to_design_description": {
-        "string": "スイッチを使用して、デザインモードと開発モードを切り替えます。"
+        "string": "使用开关在设计模式和开发模式之间切换。"
     },
     "rcs.playground_file.switch_devmode_to_design_title": {
-        "string": "このプラグインはデザインモードでも動作します。"
+        "string": "此插件在设计模式下也能工作。"
     },
     "rcs.plugin_publish.if_anyone_helped": {
-        "string": "このリソースの開発をヘルプする人がいれば、許可を与えて更新できるようにします。"
+        "string": "如果有人帮助开发了这个资源，请授予他们权限以便更新。"
     },
     "rcs.plugin_publish.work_with_other_developers": {
-        "string": "他の開発者と作業しますか。"
+        "string": "与其他开发者合作吗？"
     },
     "rcs.presets_baseline.try_it": {
-        "string": "使ってみる"
+        "string": "试用"
     },
     "rcs.pro_trials_onboarding.audio_subtitle_without_multiple_users": {
-        "string": "チームメートをこのファイルに招待しましょう。"
+        "string": "邀请团队成员查看此文件。"
     },
     "rcs.pro_trials_onboarding.audio_title": {
-        "string": "会話を開始"
+        "string": "开始对话"
     },
     "rcs.pro_trials_onboarding.component_publishing_create_component_icon": {
-        "string": "コンポーネントアイコンを作成"
+        "string": "创建组件图标"
     },
     "rcs.pro_trials_onboarding.component_publishing_first_instruction_without_components": {
-        "string": "ボタンやアイコンなど、再利用するUIを選択します。"
+        "string": "选择您将重复使用的UI，例如按钮或图标。"
     },
     "rcs.pro_trials_onboarding.component_publishing_second_instruction_with_components": {
-        "string": "{teamLibraryIcon}アイコンを選択してライブラリパネルを開きます。"
+        "string": "选择{teamLibraryIcon}图标以打开库面板。"
     },
     "rcs.pro_trials_onboarding.component_publishing_second_instruction_without_components": {
-        "string": "ツールバー(または{createComponentShortcut})の{createComponentIcon}を選択し、コンポーネントに変えます。"
+        "string": "在工具栏中选择{createComponentIcon}（或使用{createComponentShortcut}），将其转换为组件。"
     },
     "rcs.pro_trials_onboarding.component_publishing_subtitle_without_components": {
-        "string": "コンポーネントを使用することで、すばやくデザインができ、ファイル間の整合性もとることができます。"
+        "string": "使用组件可以加快设计速度，并在文件之间保持一致性。"
     },
     "rcs.pro_trials_onboarding.component_publishing_team_library_icon": {
-        "string": "チームライブラリアイコン"
+        "string": "团队库图标"
     },
     "rcs.pro_trials_onboarding.component_publishing_third_instruction_with_components": {
-        "string": "現在選択しているファイルで「{publishButtonText}」ボタンをクリックします。"
+        "string": "在当前选择的文件中，点击“{publishButtonText}”按钮。"
     },
     "rcs.pro_trials_onboarding.component_publishing_title_with_components": {
-        "string": "コンポーネントを公開する"
+        "string": "发布组件"
     },
     "rcs.pro_trials_onboarding.component_publishing_title_without_components": {
-        "string": "コンポーネントの作成と共有"
+        "string": "创建和共享组件"
     },
     "rcs.pro_trials_onboarding.open_sessions_subtitle": {
-        "string": "ログアウトしているユーザーとオープンセッションをしてみましょう。"
+        "string": "尝试与已注销的用户进行开放会话。"
     },
     "rcs.pro_trials_onboarding.open_sessions_title": {
-        "string": "みんなとコラボレーション"
+        "string": "与大家协作"
     },
     "rcs.pro_trials_onboarding.password_protection_first_instruction": {
-        "string": "ドロップダウンの設定を「{linkAccessOptionText}」に更新します。"
+        "string": "将下拉菜单设置更新为“{linkAccessOptionText}”。"
     },
     "rcs.pro_trials_onboarding.password_protection_second_instruction": {
-        "string": "パスワードを設定します。"
+        "string": "设置密码。"
     },
     "rcs.pro_trials_onboarding.password_protection_title": {
-        "string": "パスワードを追加"
+        "string": "添加密码"
     },
     "rcs.pro_trials_onboarding.unlimited_pages_subtitle": {
-        "string": "このファイルに{maxFreePages}ページより多く追加できます。クリックして[ページ]メニューを表示し、[+]を選択します。"
+        "string": "您可以为此文件添加超过{maxFreePages}页。点击查看[页面]菜单并选择[+]。"
     },
     "rcs.pro_trials_onboarding.unlimited_pages_title": {
-        "string": "ファイルを構造化"
+        "string": "组织文件"
     },
     "rcs.pro_trials_onboarding.video_icon": {
-        "string": "画像と動画アイコン"
+        "string": "图像和视频图标"
     },
     "rcs.pro_trials_onboarding.video_subtitle": {
-        "string": "動画をまとめて追加するには、{imageOrVideoIcon}を選択します(コンピューターからキャンバスに動画をドラッグしても追加できます)。"
+        "string": "要批量添加视频，选择{imageOrVideoIcon}（也可以从电脑将视频拖到画布上添加）。"
     },
     "rcs.pro_trials_onboarding.video_title": {
-        "string": "デザインに動画を追加する"
+        "string": "将视频添加到设计中"
     },
     "rcs.product_and_template_picker.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "rcs.product_and_template_picker.brainstorm_diagram_and_collaborate_with_your_team": {
-        "string": "ブレインストーミングと図表作成を一緒に行う"
+        "string": "与您的团队一起进行头脑风暴和图表制作"
     },
     "rcs.product_and_template_picker.design_prototype_and_handoff_to_developers_all_in_one_tool": {
-        "string": "デザイン、プロトタイプ作成、開発者へのハンドオフ"
+        "string": "设计、制作原型和移交开发者"
     },
     "rcs.product_and_template_picker.design_with_figma": {
-        "string": "Figmaでデザイン"
+        "string": "使用Figma设计"
     },
     "rcs.product_and_template_picker.get_inspired": {
-        "string": "さまざまなアイデアを得てください"
+        "string": "获取灵感"
     },
     "rcs.product_and_template_picker.get_inspired_by_browsing_resources_in_community": {
-        "string": "コミュニティのリソースを参照して、{getInspired}"
+        "string": "浏览社区资源，{getInspired}"
     },
     "rcs.product_and_template_picker.i_ll_get_started_on_my_own": {
-        "string": "テンプレートを使用しない"
+        "string": "不使用模板"
     },
     "rcs.product_and_template_picker.new_user_whiteboard_filename": {
-        "string": "FigJamへようこそ"
+        "string": "欢迎使用FigJam"
     },
     "rcs.product_and_template_picker.save_time_with_ready_made_templates": {
-        "string": "既製のテンプレートを使って時間を節約"
+        "string": "使用现成的模板节省时间"
     },
     "rcs.product_and_template_picker.start_from_presets_and_templates": {
-        "string": "プリセットとテンプレートを使って始める"
+        "string": "从预设和模板开始"
     },
     "rcs.product_and_template_picker.start_from_presets_or_templates_from_our_community": {
-        "string": "コミュニティのプリセットとテンプレートから始めましょう"
+        "string": "从我们的社区预设或模板开始"
     },
     "rcs.product_and_template_picker.start_from_templates_made_by_figma_and_our_community": {
-        "string": "Figmaとコミュニティが作成したテンプレートから始めましょう"
+        "string": "从Figma和我们的社区制作的模板开始"
     },
     "rcs.product_and_template_picker.we_can_help_you_get_started_faster": {
-        "string": "テンプレートを使って今すぐ始めましょう"
+        "string": "使用模板快速入门"
     },
     "rcs.product_and_template_picker.what_would_you_like_to_do_first": {
-        "string": "まずどちらの作業を行いますか?"
+        "string": "您想首先做什么？"
     },
     "rcs.product_and_template_picker.whiteboard_in_fig_jam": {
-        "string": "FigJamのホワイトボード"
+        "string": "FigJam白板"
     },
     "rcs.promo_new_team_create_pointer.first_create_a_team": {
-        "string": "まず、チームを作成しましょう"
+        "string": "首先创建一个团队"
     },
     "rcs.promo_new_team_create_pointer.to_get_professional_free_for_days_you_ll_need_to_set_up_a_new_team_first_it_ll_take_less_than_a_minute": {
-        "string": "{days, plural, other {{days}日間の無料のプロフェッショナルを取得するには、まず、新しいチームを設定する必要があります。これには、1分もかかりません。}}"
+        "string": "要获得{days, plural, other {{days}天免费的专业版，您需要首先创建一个新团队。这将花费不到一分钟时间。}}"
     },
     "rcs.rcs_shared.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "rcs.rcs_shared.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "rcs.rcs_shared.next": {
-        "string": "次へ"
+        "string": "下一步"
     }
 }

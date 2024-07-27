@@ -1,126 +1,126 @@
 {
     "proto.easing_editor.spring_damping": {
-        "string": "減衰"
+        "string": "减衰"
     },
     "proto.easing_editor.spring_mass": {
-        "string": "質量"
+        "string": "质量"
     },
     "proto.easing_editor.spring_stiffness": {
-        "string": "剛性"
+        "string": "刚性"
     },
     "proto.else": {
         "string": "else"
     },
     "proto.embeds.last_edited": {
-        "string": "編集: {relativeTime}"
+        "string": "编辑: {relativeTime}"
     },
     "proto.embeds.loading": {
-        "string": "読み込んでいます..."
+        "string": "加载中..."
     },
     "proto.embeds.visible_to_everyone_in_your_org": {
-        "string": "組織のすべてのユーザーに表示"
+        "string": "对您的组织中的所有人可见"
     },
     "proto.embeds.visible_to_org_name": {
-        "string": "{orgName}に表示"
+        "string": "对{orgName}可见"
     },
     "proto.embeds.visible_to_people_invited_to_this_file": {
-        "string": "このファイルに招待されたユーザーに表示"
+        "string": "对被邀请到此文件的人员可见"
     },
     "proto.embeds.visible_to_people_invited_to_this_prototype": {
-        "string": "このプロトタイプに招待されたユーザーに表示"
+        "string": "对被邀请到此原型的人员可见"
     },
     "proto.expression_builder.ai_placeholder": {
-        "string": "必要なロジックを記述します"
+        "string": "描述所需的逻辑"
     },
     "proto.expression_builder.placeholder": {
-        "string": "式を記入"
+        "string": "输入表达式"
     },
     "proto.expression_builder_entry.generate_expression": {
-        "string": "式を生成"
+        "string": "生成表达式"
     },
     "proto.expression_builder_entry.missing": {
-        "string": "(なし)"
+        "string": "(无)"
     },
     "proto.expression_builder_entry.placeholder": {
-        "string": "条件を指定"
+        "string": "指定条件"
     },
     "proto.expression_builder_entry.placeholder_ui3_lhs": {
         "string": "..."
     },
     "proto.expression_builder_entry.placeholder_ui3_rhs": {
-        "string": "条件を指定"
+        "string": "指定条件"
     },
     "proto.expression_builder_entry.use_ai": {
-        "string": "AIを使用"
+        "string": "使用AI"
     },
     "proto.file_browser": {
-        "string": "ファイルブラウザ"
+        "string": "文件浏览器"
     },
     "proto.flow_description": {
-        "string": "フローの説明"
+        "string": "流程说明"
     },
     "proto.flows": {
-        "string": "フロー"
+        "string": "流程"
     },
     "proto.flows_panel.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "proto.flows_panel.preview": {
-        "string": "プレビュー"
+        "string": "预览"
     },
     "proto.flows_panel.select_frame": {
-        "string": "フレームを選択"
+        "string": "选择框架"
     },
     "proto.frame_preset_panel.archive": {
-        "string": "アーカイブ"
+        "string": "存档"
     },
     "proto.frame_preset_panel.custom_size": {
-        "string": "カスタムサイズ"
+        "string": "自定义尺寸"
     },
     "proto.frame_preset_panel.desktop": {
-        "string": "デスクトップ"
+        "string": "桌面"
     },
     "proto.frame_preset_panel.figma_community": {
-        "string": "Figmaコミュニティ"
+        "string": "Figma社区"
     },
     "proto.frame_preset_panel.fill": {
-        "string": "全画面"
+        "string": "填充"
     },
     "proto.frame_preset_panel.fit": {
-        "string": "自動調整"
+        "string": "适应"
     },
     "proto.frame_preset_panel.frame": {
-        "string": "フレーム"
+        "string": "框架"
     },
     "proto.frame_preset_panel.missing": {
-        "string": "(見つかりません)"
+        "string": "(未找到)"
     },
     "proto.frame_preset_panel.no_device": {
-        "string": "デバイスがありません"
+        "string": "无设备"
     },
     "proto.frame_preset_panel.none": {
-        "string": "なし"
+        "string": "无"
     },
     "proto.frame_preset_panel.paper": {
-        "string": "用紙"
+        "string": "纸张"
     },
     "proto.frame_preset_panel.phone": {
-        "string": "スマホ"
+        "string": "手机"
     },
     "proto.frame_preset_panel.presentation": {
-        "string": "プレゼンテーション"
+        "string": "演示"
     },
     "proto.frame_preset_panel.social_media": {
-        "string": "ソーシャルメディア"
+        "string": "社交媒体"
     },
     "proto.frame_preset_panel.tablet": {
-        "string": "タブレット"
+        "string": "平板"
     },
     "proto.frame_preset_panel.watch": {
-        "string": "ウォッチ"
+        "string": "手表"
     },
     "proto.header.skip_to_content": {
-        "string": "コンテンツにスキップ"
+        "string": "跳到内容"
     },
     "proto.if": {
         "string": "if"
@@ -129,24 +129,24 @@
         "string": "example.com"
     },
     "proto.interaction.interaction": {
-        "string": "インタラクション"
+        "string": "交互"
     },
     "proto.interaction.type.after_delay": {
-        "string": "アフターディレイ"
+        "string": "延迟后"
     },
     "proto.interaction.type.click": {
-        "string": "クリック"
+        "string": "点击"
     },
     "proto.interaction.type.delay": {
-        "string": "ディレイ"
+        "string": "延迟"
     },
     "proto.interaction.type.drag": {
-        "string": "ドラッグ"
+        "string": "拖拽"
     },
     "proto.interaction.type.hover": {
-        "string": "ポイント"
+        "string": "悬停"
     },
     "proto.interaction.type.key": {
-        "string": "キー"
+        "string": "按键"
     }
 }
