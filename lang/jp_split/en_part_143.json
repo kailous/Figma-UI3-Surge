@@ -1,152 +1,152 @@
 {
     "sites.breakpoint_bar.main": {
-        "string": "メイン"
+        "string": "主"
     },
     "spell_check.spell_check_disabled": {
-        "string": "スペルチェックは無効です"
+        "string": "拼写检查已禁用"
     },
     "spell_check.spell_check_enabled": {
-        "string": "スペルチェックは有効です"
+        "string": "拼写检查已启用"
     },
     "unsaved_changes.prompt.changes_may_not_be_saved": {
-        "string": "行った変更は保存されない可能性があります。"
+        "string": "更改可能未保存。"
     },
     "variables.token_name_invalid_chars": {
-        "string": "Dev名には、文字、数字、および次のシンボルのみ含むことができます: _ $ -"
+        "string": "Dev名称只能包含字母、数字和以下符号: _ $ -"
     },
     "variables.variable_limit_in_collection_reached": {
-        "string": "コレクションに{variableLimit}個より多くのバリアブルを追加することはできません"
+        "string": "集合中不能添加超过{variableLimit}个变量"
     },
     "variables.variable_name_duplicate_name": {
-        "string": "バリアブル名はコレクション内の他と重複しないようにしてください"
+        "string": "变量名称不能在集合中重复"
     },
     "variables.variable_name_invalid_chars": {
-        "string": "バリアブル名に次のシンボルを含むことはできません: { }' . $"
+        "string": "变量名称不能包含以下符号: { }' . $"
     },
     "variables.variables_detached": {
-        "string": "使用中の{numDetached}個のバリアブルを切り離しました。削除されたバリアブルがまだ{numRemaining}個使用されています。"
+        "string": "已解除{numDetached}个使用的变量。仍在使用{numRemaining}个已删除的变量。"
     },
     "visual_bell.add_file_failure_mobile_plural": {
-        "string": "{failedFileCount}ファイルを追加できませんでした"
+        "string": "无法添加{failedFileCount}个文件"
     },
     "visual_bell.add_file_failure_mobile_singular": {
-        "string": "{failedFileCount}ファイルを追加できませんでした"
+        "string": "无法添加{failedFileCount}个文件"
     },
     "visual_bell.all_objects_unlocked": {
-        "string": "すべてのオブジェクトがロック解除されました"
+        "string": "所有对象已解锁"
     },
     "visual_bell.alu_hints_off": {
-        "string": "ALUヒントはオフです"
+        "string": "ALU提示已关闭"
     },
     "visual_bell.alu_hints_on": {
-        "string": "ALUヒントはオンです"
+        "string": "ALU提示已开启"
     },
     "visual_bell.alu_visual_indicators_off": {
-        "string": "ALUビジュアルインジケーター: オフ"
+        "string": "ALU视觉指示器: 关闭"
     },
     "visual_bell.alu_visual_indicators_on": {
-        "string": "ALUビジュアルインジケーター: オン"
+        "string": "ALU视觉指示器: 开启"
     },
     "visual_bell.an_invalid_image_or_thumbnail_was_removed": {
-        "string": "無効な画像またはサムネイルが削除されました"
+        "string": "无效的图片或缩略图已被移除"
     },
     "visual_bell.an_invalid_video_was_removed": {
-        "string": "無効なビデオが削除されました"
+        "string": "无效的视频已被移除"
     },
     "visual_bell.annotations_hidden": {
-        "string": "アノテーション非表示"
+        "string": "注释已隐藏"
     },
     "visual_bell.annotations_visible": {
-        "string": "アノテーション表示中"
+        "string": "注释已显示"
     },
     "visual_bell.auto_fill_full_width_children_off": {
-        "string": "子要素を親要素の幅に自動的に広げる: オフ"
+        "string": "子元素自动填充父元素宽度: 关闭"
     },
     "visual_bell.auto_fill_full_width_children_on": {
-        "string": "子要素を親要素の幅に自動的に広げる: オン"
+        "string": "子元素自动填充父元素宽度: 开启"
     },
     "visual_bell.auto_layout_added": {
-        "string": "オートレイアウトが追加されました"
+        "string": "自动布局已添加"
     },
     "visual_bell.auto_layout_added_partial": {
-        "string": "選択したすべてのオブジェクトにオートレイアウトを追加できませんでした"
+        "string": "无法将自动布局添加到所选的所有对象"
     },
     "visual_bell.can_t_paste_between_fig_jam_and_editor_files": {
-        "string": "FigJamファイルとエディターファイルの間での貼り付けはできません"
+        "string": "无法在FigJam文件和编辑器文件之间粘贴"
     },
     "visual_bell.can_t_paste_flapps_into_design_files": {
-        "string": "Figma SlidesのウィジェットをFigmaに貼り付けることはできません"
+        "string": "无法将Figma Slides小部件粘贴到Figma中"
     },
     "visual_bell.can_t_paste_flapps_into_figjam_files": {
-        "string": "Figma SlidesのウィジェットをFigJamに貼り付けることはできません"
+        "string": "无法将Figma Slides小部件粘贴到FigJam中"
     },
     "visual_bell.can_t_paste_ss_from_fig_jam_to_design_files": {
-        "string": "FigJamファイルからデザインファイルに{typeName}を貼り付けることはできません"
+        "string": "无法将FigJam文件中的{typeName}粘贴到设计文件中"
     },
     "visual_bell.can_t_paste_this_data_between_different_file_versions_please_refresh_file_and_retry": {
-        "string": "異なるバージョンのファイル間でこのデータを貼り付けることはできません。ファイルを更新してから、もう一度お試しください"
+        "string": "无法在不同版本的文件之间粘贴此数据。请刷新文件并重试"
     },
     "visual_bell.cannot_create_symbol_from_non_matching_selection": {
-        "string": "選択内容が一致していないため、コンポーネントとインスタンスを作成できませんでした"
+        "string": "选择内容不匹配，无法创建组件和实例"
     },
     "visual_bell.cant_export_empty_or_hidden_layers_to_pdf": {
-        "string": "空または非表示のレイヤーをPDFにエクスポートできません"
+        "string": "无法将空或隐藏图层导出为PDF"
     },
     "visual_bell.comments_hidden": {
-        "string": "コメントが非表示になりました"
+        "string": "评论已隐藏"
     },
     "visual_bell.comments_visible": {
-        "string": "コメントが表示されました"
+        "string": "评论已显示"
     },
     "visual_bell.component_prop_refs_have_been_pruned": {
-        "string": "コンポーネントプロパティ参照が削除されました"
+        "string": "组件属性引用已删除"
     },
     "visual_bell.component_props_have_been_regenerated": {
-        "string": "コンポーネントプロパティが再生成されました"
+        "string": "组件属性已重新生成"
     },
     "visual_bell.component_props_in_selection_have_been_cleared": {
-        "string": "選択範囲からコンポーネントプロパティが消去されました"
+        "string": "所选内容中的组件属性已清除"
     },
     "visual_bell.components_are_either_private_or_already_published": {
-        "string": "コンポーネントがプライベートであるか、または既に公開されています"
+        "string": "组件要么是私有的，要么已经发布"
     },
     "visual_bell.components_can_t_contain_instances_of_themselves": {
-        "string": "コンポーネントにそれ自体のインスタンスを含めることはできません"
+        "string": "组件不能包含它们自己的实例"
     },
     "visual_bell.converting_to_stickies": {
-        "string": "付箋に変換しています…"
+        "string": "正在转换为便签…"
     },
     "visual_bell.copied_as_png": {
-        "string": "PNGとしてコピーされました"
+        "string": "已复制为PNG"
     },
     "visual_bell.copied_as_svg": {
-        "string": "SVGとしてコピーされました"
+        "string": "已复制为SVG"
     },
     "visual_bell.copied_color_to_clipboard": {
-        "string": "色がクリップボードにコピーされました"
+        "string": "颜色已复制到剪贴板"
     },
     "visual_bell.copy_as_file_type_failed_try_again": {
-        "string": "{fileType}としてコピーが失敗しました | もう一度お試しください"
+        "string": "复制为{fileType}失败 | 请重试"
     },
     "visual_bell.copy_as_png.retry": {
-        "string": "再試行"
+        "string": "重试"
     },
     "visual_bell.copy_as_png_failed": {
-        "string": "PNGとしてコピーできませんでした"
+        "string": "复制为PNG失败"
     },
     "visual_bell.copy_exclude_vote_stamp_from_selection": {
-        "string": "票はコピーされませんでした"
+        "string": "投票未被复制"
     },
     "visual_bell.copy_failed": {
-        "string": "コピーできませんでした。クリップボードに対して選択範囲が大きすぎる可能性があります。"
+        "string": "复制失败。选择可能太大，无法复制到剪贴板。"
     },
     "visual_bell.copy_failed_only_vote_stamps": {
-        "string": "票をコピーすることはできません"
+        "string": "无法复制投票"
     },
     "visual_bell.copy_mobile": {
-        "string": "クリップボードにコピーしました"
+        "string": "已复制到剪贴板"
     },
     "visual_bell.cut_mobile": {
-        "string": "カットしてクリップボードにコピーしました"
+        "string": "已剪切并复制到剪贴板"
     }
 }

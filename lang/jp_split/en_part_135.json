@@ -1,152 +1,152 @@
 {
     "extension_request_modal.widget_file_details": {
-        "string": "このウィジェットを{fileLink}で使用するには、事前に承認を得る必要があります。"
+        "string": "在{fileLink}中使用此小部件前需获得批准。"
     },
     "extension_request_modal.widget_workspace_details": {
-        "string": "このウィジェットは、{fileLink}およびワークスペース{workspace}の他のファイルで使用する前に、承認を受ける必要があります。"
+        "string": "在{fileLink}和工作区{workspace}的其他文件中使用此小部件前需获得批准。"
     },
     "extension_decline_modal.add_access_org": {
-        "string": "組織へのアクセス権を追加"
+        "string": "添加组织访问权限"
     },
     "extension_decline_modal.add_access_workspace": {
-        "string": "{workspace}へのアクセス権を追加"
+        "string": "添加工作区{workspace}的访问权限"
     },
     "extension_decline_modal.approved_access_org": {
-        "string": "組織へのアクセス権が承認されました"
+        "string": "已批准组织访问权限"
     },
     "extension_decline_modal.approved_access_workspace": {
-        "string": "{workspace}へのアクセス権が承認されました"
+        "string": "已批准工作区{workspace}的访问权限"
     },
     "extension_decline_modal.declined_request": {
-        "string": "申請は承認されませんでした"
+        "string": "请求被拒绝"
     },
     "extension_decline_modal.revoked_access_org": {
-        "string": "組織へのアクセス権が取り消されました"
+        "string": "组织访问权限已撤销"
     },
     "extension_decline_modal.revoked_access_workspace": {
-        "string": "{workspace}へのアクセス権が取り消されました"
+        "string": "工作区{workspace}的访问权限已撤销"
     },
     "api_user.error.cant-delete-account-in-organization": {
-        "string": "組織の一員であるため、アカウントを削除できません。サポートに連絡してください。"
+        "string": "由于是组织成员，无法删除账户。请联系支持。"
     },
     "api_user.error.please_first_verify_your_email": {
-        "string": "最初にメールを確認してください"
+        "string": "请先验证您的邮箱"
     },
     "api_user.error.please_provide_a_description": {
-        "string": "説明を入力してください"
+        "string": "请输入描述"
     },
     "auth.error.access_denied": {
-        "string": "アクセスが拒否されました。"
+        "string": "访问被拒绝。"
     },
     "auth.error.access_denied_staging": {
-        "string": "アクセスが拒否されました。@figmaドメインのみが使用可能です。"
+        "string": "访问被拒绝。仅限@figma域使用。"
     },
     "auth.error.account-exists": {
-        "string": "そのメールアドレスのアカウントは既に存在しています"
+        "string": "该邮箱地址的账户已存在"
     },
     "auth.error.account_managed_by_org": {
-        "string": "このアカウントは組織が管理しています。SAML SSOでログインしてください。"
+        "string": "此账户由组织管理。请使用SAML SSO登录。"
     },
     "auth.error.account_suspended": {
-        "string": "アカウントが停止されています。"
+        "string": "账户已被暂停。"
     },
     "auth.error.assign_new_admin_for_org_before_changing_email_domain": {
-        "string": "メールドメインを変更する前に、{currentOrgName}の新しい管理者を割り当ててください。"
+        "string": "在更改邮件域前，请为{currentOrgName}分配新的管理员。"
     },
     "auth.error.boolean_expected_for_navigation_preference": {
-        "string": "このナビゲーション設定には、ブール値を使用する必要があります。"
+        "string": "此导航设置需要使用布尔值。"
     },
     "auth.error.cannot_change_email_on_account_managed_by_google_sso": {
-        "string": "Google SSOによって管理されているアカウントのメールを変更することはできません。"
+        "string": "无法更改由Google SSO管理的账户邮箱。"
     },
     "auth.error.cannot_change_email_on_account_managed_by_your_org": {
-        "string": "組織によって管理されているアカウントのメールを変更することはできません。"
+        "string": "无法更改由组织管理的账户邮箱。"
     },
     "auth.error.cannot_change_job_title_on_account_managed_by_your_org": {
-        "string": "組織によって管理されているアカウントの役職を変更することはできません。"
+        "string": "无法更改由组织管理的账户职位。"
     },
     "auth.error.cannot_change_name_on_account_managed_by_your_org": {
-        "string": "組織によって管理されているアカウントの名前を変更することはできません。"
+        "string": "无法更改由组织管理的账户名称。"
     },
     "auth.error.cannot_change_usage_purpose_on_account_managed_by_your_org": {
-        "string": "組織によって管理されているアカウントの使用目的を変更することはできません。"
+        "string": "无法更改由组织管理的账户用途。"
     },
     "auth.error.cannot_create_account_on_admin_domain": {
-        "string": "新規アカウントを管理者ドメインで作成できません"
+        "string": "无法在管理员域创建新账户"
     },
     "auth.error.cannot_join_org_deprovisioned": {
-        "string": "ユーザー{EMAIL}は組織に参加できません - プロビジョニングが解除されています"
+        "string": "用户{EMAIL}无法加入组织 - 已取消配置"
     },
     "auth.error.cannot_verify_google": {
-        "string": "Googleログインを確認できません。"
+        "string": "无法验证Google登录。"
     },
     "auth.error.cant_change_email": {
-        "string": "メールアドレスは変更できません。"
+        "string": "无法更改邮箱地址。"
     },
     "auth.error.change_password.current_password_incorrect": {
-        "string": "入力したパスワードが現在のパスワードと一致しません。"
+        "string": "输入的密码与当前密码不符。"
     },
     "auth.error.change_password.no_current_password": {
-        "string": "現在のパスワードを入力してください。"
+        "string": "请输入当前密码。"
     },
     "auth.error.change_password.no_new_password": {
-        "string": "新しいパスワードを入力してください。"
+        "string": "请输入新密码。"
     },
     "auth.error.changing_to_figma_email_address_is_forbidden": {
-        "string": "@figma.comメールアドレスへの変更は禁止されています。"
+        "string": "禁止更改为@figma.com邮箱地址。"
     },
     "auth.error.changing_to_this_email_domain_is_forbidden": {
-        "string": "このメールドメインへの変更は禁止されています。"
+        "string": "禁止更改为此邮件域。"
     },
     "auth.error.changing_to_this_email_domain_is_forbidden_use_another_email_domain": {
-        "string": "このメールドメインへの変更は禁止されています。別のドメインのメールを使用してください。"
+        "string": "禁止更改为此邮件域，请使用其他邮件域。"
     },
     "auth.error.domain_mismatch_tf_enabled": {
-        "string": "Googleでこのアカウントにログインできません。自分のメールアドレスとパスワードでサインインしてみてください。"
+        "string": "无法通过Google登录此账户。请使用您的邮箱地址和密码登录。"
     },
     "auth.error.downgrade_self_to_member_in_org_before_changing_email_domain": {
-        "string": "メールドメインを変更する前に、{currentOrgName}で自分をメンバーにダウングレードしてください。"
+        "string": "在更改邮件域之前，请在{currentOrgName}中将自己降级为成员。"
     },
     "auth.error.edu_not_allowed": {
-        "string": "このアカウントにはFigma用のライセンスがありません。変更するには、学校の管理者に連絡する必要があります。"
+        "string": "此账户没有Figma许可。请联系学校管理员进行更改。"
     },
     "auth.error.email-cannot-equal-password": {
-        "string": "メールはパスワードと同じにできません。"
+        "string": "邮箱不能与密码相同。"
     },
     "auth.error.email-resent": {
-        "string": "メールを再送信しました!"
+        "string": "已重新发送邮件!"
     },
     "auth.error.email-taken": {
-        "string": "このメールを取得済みです。ログインしてください。"
+        "string": "此邮箱已被使用。请登录。"
     },
     "auth.error.email_already_in_use": {
-        "string": "そのメールは既に使用されています。"
+        "string": "该邮箱已被使用。"
     },
     "auth.error.email_blocked_from_org": {
-        "string": "ユーザー{EMAIL}は組織への参加をブロックされています"
+        "string": "用户{EMAIL}被阻止加入组织"
     },
     "auth.error.email_misformatted": {
-        "string": "入力したメールアドレスの形式に問題があります。アドレスを確認して、もう一度お試しください。"
+        "string": "输入的邮箱地址格式不正确。请检查并重试。"
     },
     "auth.error.email_not_added_to_org": {
-        "string": "{EMAIL}がまだFigmaに追加されていないようです。管理者に連絡して、アカウント作成プロセスを開始してください。"
+        "string": "{EMAIL}尚未被添加到Figma。请联系管理员以启动账户创建流程。"
     },
     "auth.error.email_required": {
-        "string": "メールアドレスを入力する必要があります。"
+        "string": "请输入邮箱地址。"
     },
     "auth.error.email_too_long": {
-        "string": "メールアドレスが長すぎませんか?"
+        "string": "邮箱地址太长了吧?"
     },
     "auth.error.email_verify_try_again": {
-        "string": "メールアドレスを確認して、もう一度お試しください。"
+        "string": "请验证邮箱地址并重试。"
     },
     "auth.error.enter-two-factor-code": {
-        "string": "確認コードを入力してください"
+        "string": "请输入验证代码"
     },
     "auth.error.enter_password": {
-        "string": "パスワードを入力してください。"
+        "string": "请输入密码。"
     },
     "auth.error.error_try_again": {
-        "string": "エラーが発生しました。もう一度お試しください。"
+        "string": "发生错误。请重试。"
     }
 }

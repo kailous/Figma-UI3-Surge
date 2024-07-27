@@ -1,152 +1,152 @@
 {
     "auth.error.signup_google_sso_required": {
-        "string": "組織はGoogleでサインアップすることを要求しています。"
+        "string": "组织要求使用Google注册。"
     },
     "auth.error.team_at_editor_limit": {
-        "string": "{TEAM_NAME}に編集者制限があります"
+        "string": "{TEAM_NAME}的编辑者数量已达到限制"
     },
     "auth.error.team_at_editor_limit.seat_rename": {
-        "string": "{TEAM_NAME}の有料シートの上限に達しました"
+        "string": "{TEAM_NAME}的付费席位已达到上限"
     },
     "auth.error.type-new-password": {
-        "string": "新しいパスワードを入力してください。"
+        "string": "请输入新密码。"
     },
     "auth.error.unable-to-send-email": {
-        "string": "メールを送信できません。数分間後にもう一度お試しください。"
+        "string": "无法发送邮件。请稍后再试。"
     },
     "auth.error.use-shorter-email": {
-        "string": "より短いメールを使用してください"
+        "string": "请使用更短的邮件地址"
     },
     "auth.error.use-shorter-name": {
-        "string": "より短い名前を使用してください"
+        "string": "请使用更短的名称"
     },
     "auth.error.user_not_found": {
-        "string": "ユーザーが見つかりません"
+        "string": "未找到用户"
     },
     "auth.error.we_couldn_t_find_an_account_with_that_email_try_signing_up_instead": {
-        "string": "そのEメールのアカウントを見つけることができませんでした。代わりにサインアップしてみてください。"
+        "string": "未找到该邮箱的账户，请尝试注册。"
     },
     "auth.error.wrong_password": {
-        "string": "パスワードが正しくありません"
+        "string": "密码错误"
     },
     "auth.your_account_deletion_is_being_processed": {
-        "string": "アカウントの削除が完了するまで少々お時間をいただきます。すべて完了後に、メールでお知らせいたします。"
+        "string": "账户删除正在处理，完成后将通过邮件通知您。"
     },
     "auth.your_changes_have_been_saved": {
-        "string": "変更が保存されました。"
+        "string": "更改已保存。"
     },
     "auth.two-factor-setup.error.incorrect_verification_code": {
-        "string": "確認コードが正しくありません"
+        "string": "验证码错误"
     },
     "auth.two-factor-setup.error.missing-otp": {
-        "string": "コードを入力してください"
+        "string": "请输入验证码"
     },
     "auth.two-factor-setup.error.missing-phone-number": {
-        "string": "電話番号を入力してください"
+        "string": "请输入电话号码"
     },
     "auth.two-factor-setup.error.missing-token": {
-        "string": "無効な要求です"
+        "string": "无效的请求"
     },
     "auth.two-factor-setup.error.please_enter_a_code": {
-        "string": "コードを入力してください"
+        "string": "请输入验证码"
     },
     "auth.two-factor-setup.error.sms-two-factor-already-enabled": {
-        "string": "SMSの2要素認証は既に有効です"
+        "string": "SMS双因素认证已启用"
     },
     "auth.two-factor-setup.error.two-factor-already-enabled": {
-        "string": "2要素認証は既に有効です"
+        "string": "双因素认证已启用"
     },
     "auth.two-factor-setup.generic-twilio-error": {
-        "string": "確認コードの送信エラーです"
+        "string": "发送验证码时出错"
     },
     "auth.two-factor-setup.invalid_phone_number": {
-        "string": "無効な電話番号です"
+        "string": "无效的电话号码"
     },
     "auth.two-factor-setup.twilio_unable_to_send_msg": {
-        "string": "お客様の電話番号に問題があるため、2要素認証(2FA)コードを送信できませんでした。ログインするには、復旧コードを使用するか、ログインしているデバイスから2FAをオフにしてください。サポートが必要な場合は、support@figma.comにご連絡ください。"
+        "string": "由于电话号码问题，无法发送双因素认证(2FA)验证码。请使用恢复代码登录，或从已登录设备中关闭2FA。如需帮助，请联系support@figma.com。"
     },
     "comments.ecc_comment_disabled": {
-        "string": "このファイルへのコメント入力は無効にされました。"
+        "string": "此文件的评论已禁用。"
     },
     "comments.ecc_react_disabled": {
-        "string": "このファイルへのリアクションの追加は無効にされました。"
+        "string": "此文件的反应已禁用。"
     },
     "comments.too_many_replies_in_thread": {
-        "string": "このコメントに対する返信が多過ぎます"
+        "string": "该评论的回复太多"
     },
     "comments.pinning.err.already_pinned": {
-        "string": "コメントはすでにピン留めされています"
+        "string": "评论已被固定"
     },
     "comments.pinning.err.cannot_pin_resolved_comment": {
-        "string": "解決済みのコメントはピン留めできません"
+        "string": "无法固定已解决的评论"
     },
     "comments.pinning.err.disabled_feature": {
-        "string": "コメントのピン留め機能はオフです"
+        "string": "固定评论功能已关闭"
     },
     "comments.pinning.err.fallback": {
-        "string": "コメントのピン留めに失敗しました"
+        "string": "固定评论失败"
     },
     "comments.pinning.err.not_allowed": {
-        "string": "このコメントのピン留めは許可されていません"
+        "string": "不允许固定此评论"
     },
     "comments.pinning.err.only_threads": {
-        "string": "コメントの返信はピン留めできません"
+        "string": "无法固定评论回复"
     },
     "community.search.generic_search_error": {
-        "string": "検索で問題がありました。後でもう一度お試しください。"
+        "string": "搜索时出现问题，请稍后再试。"
     },
     "community.buyer.annual_subscription_is_unavailable": {
-        "string": "年間サブスクリプションは現在ご購入いただけません。ご不便をおかけし申し訳ございません。"
+        "string": "年度订阅目前不可用，给您带来不便，敬请谅解。"
     },
     "community.buyer.block_indian_customers": {
-        "string": "Figmaコミュニティマーケットプレイスは、現時点で、インドを拠点とするクレジットカードからのお支払いを受け付けていません。"
+        "string": "Figma社区市场目前不接受来自印度的信用卡付款。"
     },
     "community.buyer.block_russian_customers": {
-        "string": "Figmaコミュニティマーケットプレイスは、現時点で、ロシア在住のお客様からのお支払いを受け付けていません。"
+        "string": "Figma社区市场目前不接受来自俄罗斯的付款。"
     },
     "community.buyer.purchasing_is_temporarily_unavailable": {
-        "string": "購入は現在一時的にご利用いただけません。ご不便をおかけしまして申し訳ございません。"
+        "string": "购买功能暂时不可用，给您带来不便，敬请谅解。"
     },
     "community.buyer.subscription_interval_required_for_purchasing_subscription": {
-        "string": "サブスクリプションを購入する際は、サブスクリプション期間が必要です。"
+        "string": "购买订阅需要订阅期限。"
     },
     "community.buyer.valid_subscription_interval_required_for_purchasing_subscription": {
-        "string": "サブスクリプションを購入する際は、有効なサブスクリプション期間が必要です。"
+        "string": "购买订阅需要有效的订阅期限。"
     },
     "community.seller.cannot_transfer_file_ownership_of_paid_file": {
-        "string": "有料ファイルとリンクされているため、このファイルのオーナーシップを移転できません。"
+        "string": "由于该文件关联有付费内容，无法转移所有权。"
     },
     "community.sinatra.blocks.block_type_not_supported": {
-        "string": "ブロックタイプ\"{blockType}\"はサポートされていません"
+        "string": "不支持的屏蔽类型\"{blockType}\""
     },
     "community.sinatra.blocks.cannot_block_yourself": {
-        "string": "自分をブロックすることはできません"
+        "string": "无法屏蔽自己"
     },
     "community.sinatra.blocks.profile_is_community_blocked": {
-        "string": "プロファイルはコミュニティによってブロックされています"
+        "string": "该个人资料已被社区屏蔽"
     },
     "community.sinatra.blocks.profile_not_found": {
-        "string": "プロフィールが見つかりません"
+        "string": "未找到个人资料"
     },
     "community.sinatra.blocks.you_havent_blocked_this_user": {
-        "string": "このユーザーをブロックしていません"
+        "string": "您未屏蔽此用户"
     },
     "community.sinatra.blocks.youve_already_blocked_this_user": {
-        "string": "このユーザーは既にブロックしています"
+        "string": "您已屏蔽此用户"
     },
     "community.sinatra.categories.category_not_found": {
-        "string": "カテゴリーが見つかりません"
+        "string": "未找到类别"
     },
     "community.sinatra.categories.invalid_editor_types": {
-        "string": "無効な編集者タイプです"
+        "string": "无效的编辑器类型"
     },
     "community.sinatra.comments.comment_contains_too_many_mentions": {
-        "string": "コメントのメンションが多すぎます"
+        "string": "评论包含过多的提及"
     },
     "community.sinatra.comments.comment_must_be_less_than_characters": {
-        "string": "コメントは{humanReadableLength}文字以内でなければなりません。"
+        "string": "评论必须少于{humanReadableLength}字符。"
     },
     "community.sinatra.comments.file_does_not_allow_canvas_comments": {
-        "string": "ファイルはキャンバスコメントを許可していません"
+        "string": "该文件不允许画布评论"
     }
 }

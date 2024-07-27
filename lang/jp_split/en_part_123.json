@@ -1,152 +1,152 @@
 {
     "fullscreen.properties_panel.page": {
-        "string": "ページ"
+        "string": "页面"
     },
     "fullscreen.properties_panel.pause": {
-        "string": "一時停止"
+        "string": "暂停"
     },
     "fullscreen.properties_panel.play": {
-        "string": "再生"
+        "string": "播放"
     },
     "fullscreen.properties_panel.presets": {
-        "string": "プリセット"
+        "string": "预设"
     },
     "fullscreen.properties_panel.preview": {
-        "string": "プレビュー"
+        "string": "预览"
     },
     "fullscreen.properties_panel.properties": {
-        "string": "プロパティ"
+        "string": "属性"
     },
     "fullscreen.properties_panel.prototype": {
-        "string": "プロトタイプ"
+        "string": "原型"
     },
     "fullscreen.properties_panel.radial": {
-        "string": "放射状"
+        "string": "径向"
     },
     "fullscreen.properties_panel.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "fullscreen.properties_panel.remove_background": {
-        "string": "背景を削除(AIベータ)"
+        "string": "删除背景（AI Beta）"
     },
     "fullscreen.properties_panel.restore_local_style": {
-        "string": "ローカルスタイルを復元"
+        "string": "恢复本地样式"
     },
     "fullscreen.properties_panel.rotate_90": {
-        "string": "90º回転"
+        "string": "旋转90º"
     },
     "fullscreen.properties_panel.saturation": {
-        "string": "彩度"
+        "string": "饱和度"
     },
     "fullscreen.properties_panel.scrolls": {
-        "string": "スクロール"
+        "string": "滚动"
     },
     "fullscreen.properties_panel.section_appearance.label_opacity": {
         "string": "不透明度"
     },
     "fullscreen.properties_panel.section_position.label_alignment": {
-        "string": "位置合わせ"
+        "string": "对齐"
     },
     "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_circle": {
-        "string": "円"
+        "string": "圆形"
     },
     "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_diamond": {
-        "string": "ひし形"
+        "string": "菱形"
     },
     "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_line": {
-        "string": "直線"
+        "string": "直线"
     },
     "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_reversed": {
-        "string": "逆三角形"
+        "string": "倒三角形"
     },
     "fullscreen.properties_panel.section_stroke.dropdown_startEndPoint.value_triangle": {
         "string": "三角形"
     },
     "fullscreen.properties_panel.select_item_using_this_color": {
-        "string": "{numItems, plural, other {この色を使用している{numItems}個を選択}}"
+        "string": "{numItems, plural, other {选择使用此颜色的{numItems}个项目}}"
     },
     "fullscreen.properties_panel.shadows": {
-        "string": "シャドウ"
+        "string": "阴影"
     },
     "fullscreen.properties_panel.show_hide": {
-        "string": "表示/非表示"
+        "string": "显示/隐藏"
     },
     "fullscreen.properties_panel.show_in_exports": {
-        "string": "エクスポートに含める"
+        "string": "在导出中显示"
     },
     "fullscreen.properties_panel.simplify_stroke": {
-        "string": "線を単純化する"
+        "string": "简化描边"
     },
     "fullscreen.properties_panel.solid": {
-        "string": "単色"
+        "string": "纯色"
     },
     "fullscreen.properties_panel.stop": {
         "string": "停止"
     },
     "fullscreen.properties_panel.stroke.center": {
-        "string": "中央"
+        "string": "居中"
     },
     "fullscreen.properties_panel.stroke.inside": {
-        "string": "内側"
+        "string": "内部"
     },
     "fullscreen.properties_panel.stroke.outside": {
-        "string": "外側"
+        "string": "外部"
     },
     "fullscreen.properties_panel.stroke_settings": {
-        "string": "線の設定"
+        "string": "描边设置"
     },
     "fullscreen.properties_panel.stroke_settings.advanced_stroke": {
-        "string": "高度な線設定"
+        "string": "高级描边设置"
     },
     "fullscreen.properties_panel.stroke_settings.bevel": {
-        "string": "ベベル"
+        "string": "斜角"
     },
     "fullscreen.properties_panel.stroke_settings.circle_arrow": {
-        "string": "円矢印"
+        "string": "圆形箭头"
     },
     "fullscreen.properties_panel.stroke_settings.custom": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "fullscreen.properties_panel.stroke_settings.dash": {
-        "string": "破線"
+        "string": "虚线"
     },
     "fullscreen.properties_panel.stroke_settings.dash_cap": {
-        "string": "線端"
+        "string": "线端"
     },
     "fullscreen.properties_panel.stroke_settings.dash_gap": {
-        "string": "破線、間隔…"
+        "string": "虚线间隔..."
     },
     "fullscreen.properties_panel.stroke_settings.dashes": {
-        "string": "破線"
+        "string": "虚线"
     },
     "fullscreen.properties_panel.stroke_settings.diamond_arrow": {
-        "string": "ひし形矢印"
+        "string": "菱形箭头"
     },
     "fullscreen.properties_panel.stroke_settings.elbowed": {
-        "string": "カギ線"
+        "string": "折线"
     },
     "fullscreen.properties_panel.stroke_settings.end_point": {
-        "string": "終了点"
+        "string": "终点"
     },
     "fullscreen.properties_panel.stroke_settings.end_points": {
-        "string": "終了点"
+        "string": "终点"
     },
     "fullscreen.properties_panel.stroke_settings.gap": {
-        "string": "間隔"
+        "string": "间隔"
     },
     "fullscreen.properties_panel.stroke_settings.join": {
-        "string": "結合"
+        "string": "连接"
     },
     "fullscreen.properties_panel.stroke_settings.line_arrow": {
-        "string": "線矢印"
+        "string": "线箭头"
     },
     "fullscreen.properties_panel.stroke_settings.miter": {
-        "string": "マイター"
+        "string": "斜接"
     },
     "fullscreen.properties_panel.stroke_settings.miter_angle": {
-        "string": "マイター結合の角度"
+        "string": "斜接角度"
     },
     "fullscreen.properties_panel.stroke_settings.none": {
-        "string": "なし"
+        "string": "无"
     }
 }

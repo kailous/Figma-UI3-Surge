@@ -1,152 +1,152 @@
 {
     "fullscreen.toolbar.integ_zoom.beta": {
-        "string": "ベータ"
+        "string": "测试版"
     },
     "fullscreen.toolbar.log_in": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "fullscreen.toolbar.log_in_or_create_an_account": {
-        "string": "ログインするかアカウントを作成してください"
+        "string": "登录或创建账户"
     },
     "fullscreen.toolbar.log_in_or_create_an_account_to_get_a_copy_of": {
-        "string": "{ file }のコピーを作成するには、ログインするかアカウントを作成してください"
+        "string": "要获取{file}的副本，请登录或创建账户"
     },
     "fullscreen.toolbar.log_in_to_do_more_with_figjam": {
-        "string": "FigJamで作業するにはログインしてください"
+        "string": "请登录以在FigJam中进行更多操作"
     },
     "fullscreen.toolbar.missing_fonts": {
-        "string": "フォントが欠落"
+        "string": "缺少字体"
     },
     "fullscreen.toolbar.missing_fonts_modal.all_pages": {
-        "string": "すべてのページ"
+        "string": "所有页面"
     },
     "fullscreen.toolbar.missing_fonts_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "fullscreen.toolbar.missing_fonts_modal.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "fullscreen.toolbar.missing_fonts_modal.current_page": {
-        "string": "このページ"
+        "string": "当前页面"
     },
     "fullscreen.toolbar.missing_fonts_modal.finding_missing_fonts": {
-        "string": "不足しているフォントを探しています"
+        "string": "正在查找缺少的字体"
     },
     "fullscreen.toolbar.missing_fonts_modal.font_name_family_font_name_style": {
-        "string": "{fontFamily}、{fontStyle}"
+        "string": "{fontFamily}，{fontStyle}"
     },
     "fullscreen.toolbar.missing_fonts_modal.font_styles_not_available": {
-        "string": "次のフォントスタイルは使用できません。テキストを編集するため、代替フォントを選んでください。"
+        "string": "以下字体样式不可用。请选择替代字体以编辑文本。"
     },
     "fullscreen.toolbar.missing_fonts_modal.fonts_and_font_styles_not_available": {
-        "string": "次のフォント/フォントスタイルは使用できません。テキストを編集するため、代替フォントを選んでください。"
+        "string": "以下字体/字体样式不可用。请选择替代字体以编辑文本。"
     },
     "fullscreen.toolbar.missing_fonts_modal.fonts_not_available": {
-        "string": "次のフォントは使用できません。テキストを編集するため、代替フォントを選んでください。"
+        "string": "以下字体不可用。请选择替代字体以编辑文本。"
     },
     "fullscreen.toolbar.missing_fonts_modal.missing_font": {
-        "string": "欠落しているフォント"
+        "string": "缺少字体"
     },
     "fullscreen.toolbar.missing_fonts_modal.missing_fonts": {
-        "string": "欠落しているフォント"
+        "string": "缺少字体"
     },
     "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.admin.link": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.admin.text": {
-        "string": "ビジネスプランの場合、フォントはすべてのチームで共有できます。{upgradeLink}"
+        "string": "商业计划允许您在所有团队中共享字体。{upgradeLink}"
     },
     "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.nonadmin.link": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "fullscreen.toolbar.missing_fonts_modal.org_upsell_banner.nonadmin.text": {
-        "string": "ビジネスプランにアップグレードすると、すべてのチームとフォントを共有できます。{learnMoreLink}"
+        "string": "升级到商业计划可以在所有团队中共享字体。{learnMoreLink}"
     },
     "fullscreen.toolbar.missing_fonts_modal.replace_fonts": {
-        "string": "フォントを置換"
+        "string": "替换字体"
     },
     "fullscreen.toolbar.missing_fonts_modal.replacement": {
-        "string": "代替フォント"
+        "string": "替代字体"
     },
     "fullscreen.toolbar.missing_fonts_modal.select_items_count_using_this_font": {
-        "string": "{numItems, plural, other {このフォントを使用している{numItems}個を選択}}"
+        "string": "选择使用此字体的{numItems}个项目"
     },
     "fullscreen.toolbar.missing_fonts_modal.sf_pro.download": {
-        "string": "AppleからSF Proフォントをダウンロードして、コンピューターにインストールしてください。"
+        "string": "请从Apple下载SF Pro字体并安装到您的计算机上。"
     },
     "fullscreen.toolbar.missing_fonts_modal.sf_pro.download_action": {
-        "string": "SF Proをダウンロード"
+        "string": "下载SF Pro"
     },
     "fullscreen.toolbar.missing_fonts_modal.sf_pro.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "fullscreen.toolbar.missing_fonts_modal.sf_pro.learn_more_help": {
-        "string": "ヘルプセンターで詳細を見る"
+        "string": "在帮助中心了解更多"
     },
     "fullscreen.toolbar.missing_fonts_modal.sf_pro.refresh_page": {
-        "string": "SF Proフォントをインストールしたら、フォントの使用を開始するには、このページの再読み込みをします。"
+        "string": "安装SF Pro字体后，请刷新页面以开始使用这些字体。"
     },
     "fullscreen.toolbar.missing_fonts_modal.sf_pro.refresh_page_action": {
-        "string": "ページの再読み込み"
+        "string": "刷新页面"
     },
     "fullscreen.toolbar.multiplayer.all_users": {
-        "string": "すべてのマルチプレイヤーユーザー"
+        "string": "所有多玩家用户"
     },
     "fullscreen.toolbar.multiplayer.enter_a_name": {
-        "string": "名前を入力"
+        "string": "输入名称"
     },
     "fullscreen.toolbar.multiplayer.follow_a_name": {
-        "string": "{name}をフォロー"
+        "string": "跟随{name}"
     },
     "fullscreen.toolbar.multiplayer.more_options": {
-        "string": "その他のオプション"
+        "string": "更多选项"
     },
     "fullscreen.toolbar.multiplayer.more_users": {
-        "string": "その他のユーザー"
+        "string": "更多用户"
     },
     "fullscreen.toolbar.multiplayer.multiplayer_tools": {
-        "string": "マルチプレイヤーツール"
+        "string": "多玩家工具"
     },
     "fullscreen.toolbar.multiplayer.open_session_in_progress": {
-        "string": "進行中のオープンセッション"
+        "string": "正在进行中的开放会话"
     },
     "fullscreen.toolbar.multiplayer.share": {
-        "string": "共有"
+        "string": "分享"
     },
     "fullscreen.toolbar.multiplayer.sharing_disabled_for_personal_drafts": {
-        "string": "共有するには、このファイルを新しいホームに移動してください。"
+        "string": "要共享此文件，请将其移至新主页。"
     },
     "fullscreen.toolbar.multiplayer.sharing_disabled_visit_drafts_to_move_link": {
-        "string": "「移動が必要なドラフト」にアクセス"
+        "string": "访问“需要移动的草稿”"
     },
     "fullscreen.toolbar.multiplayer.sharing_disabled_while_file_is_being_moved": {
-        "string": "このファイルは移動中です。まもなく共有設定を利用できます。"
+        "string": "此文件正在移动中。共享设置很快就会可用。"
     },
     "fullscreen.toolbar.multiplayer.sharing_fig_jam_files_disabled_by_your_organization": {
-        "string": "FigJamファイルの共有は組織によって無効にされています"
+        "string": "组织已禁用FigJam文件的共享"
     },
     "fullscreen.toolbar.multiplayer.sharing_sites_files_disabled_in_alpha": {
-        "string": "アルファ期間中、サイトのファイルを共有することはできません"
+        "string": "在alpha期间无法共享站点文件"
     },
     "fullscreen.toolbar.multiplayer.sharing_slides_files_disabled_by_your_organization": {
-        "string": "Figma Slidesでのデッキの共有は組織により無効になっています"
+        "string": "组织已禁用在Figma Slides中共享幻灯片"
     },
     "fullscreen.toolbar.mute-audio-button": {
-        "string": "音声をミュート"
+        "string": "静音"
     },
     "fullscreen.toolbar.pending-edit-request-tooltip": {
-        "string": "このファイルの編集者のいずれかがアクセス権を付与できます"
+        "string": "此文件的任何编辑者都可以授予访问权限"
     },
     "fullscreen.toolbar.pending-org-join-request-tooltip": {
-        "string": "{orgName}組織への参加リクエストが承認されるまで、編集は無効です"
+        "string": "在{orgName}组织批准您的加入请求之前，编辑功能不可用"
     },
     "fullscreen.toolbar.prototyping-add-interactions-tooltip": {
-        "string": "プロトタイプを作成(AIベータ)"
+        "string": "创建原型（AI测试版）"
     },
     "fullscreen.toolbar.prototyping-visibility": {
-        "string": "プロトタイピングの表示"
+        "string": "原型可见性"
     },
     "fullscreen.toolbar.reminder_sent": {
-        "string": "リマインダーが送信されました。"
+        "string": "已发送提醒"
     }
 }

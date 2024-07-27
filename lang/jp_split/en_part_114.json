@@ -1,129 +1,129 @@
 {
     "fullscreen.export.exporting": {
-        "string": "エクスポートデータの準備中…"
+        "string": "正在准备导出数据…"
     },
     "fullscreen.export.layer_export": {
-        "string": "レイヤーエクスポート"
+        "string": "图层导出"
     },
     "fullscreen.export.no_selected_layers_with_export": {
-        "string": "選択したレイヤーにエクスポート設定がありません。プロパティパネルのエクスポートセクションで[+]をクリックして追加してください。"
+        "string": "选定的图层没有导出设置。请在属性面板的导出部分单击 [+] 进行添加。"
     },
     "fullscreen.export.num_selected_of_total_selected": {
-        "string": "{numSelected}/{total}が選択されています"
+        "string": "已选择 {numSelected}/{total}"
     },
     "fullscreen.export.preparing_exporting_progress_of_exporting_total": {
-        "string": "{exportingProgress}/{exportingTotal}をエクスポート中…"
+        "string": "正在导出 {exportingProgress}/{exportingTotal}…"
     },
     "fullscreen.export.source": {
-        "string": "ソース画像ファイル"
+        "string": "源图像文件"
     },
     "fullscreen.export_panel.export_settings": {
-        "string": "エクスポートの詳細設定"
+        "string": "导出详细设置"
     },
     "fullscreen.file_import.could_not_convert_file": {
-        "string": "ファイルを変換できません"
+        "string": "无法转换文件"
     },
     "fullscreen.file_import.fig_jam_has_been_disabled_by_your_organization": {
-        "string": "FigJamは組織によって無効にされています"
+        "string": "FigJam 已被您的组织禁用"
     },
     "fullscreen.file_import.file_contains_text_either_too_big_or_too_small": {
-        "string": "フォントサイズが大きすぎるか小さすぎるか、あるいはその両方であるため、正しくインポートできません"
+        "string": "无法正确导入，因为字体大小过大或过小，或两者皆有"
     },
     "fullscreen.file_import.file_timed_out": {
-        "string": "ファイルのインポートに時間がかかりすぎました"
+        "string": "导入文件超时"
     },
     "fullscreen.file_import.go_to_drafts": {
-        "string": "ドラフトに移動"
+        "string": "前往草稿"
     },
     "fullscreen.file_import.import_invalid_images": {
-        "string": "{invalidFiles, plural, other {{invalidFiles}個の画像が無効です}}"
+        "string": "{invalidFiles} 个图像无效"
     },
     "fullscreen.file_import.import_lucid_pdf_failed": {
-        "string": " Lucid PDFをインポートできません"
+        "string": "无法导入 Lucid PDF"
     },
     "fullscreen.file_import.import_miro_pdf_failed": {
-        "string": "Miro PDFをインポートできません"
+        "string": "无法导入 Miro PDF"
     },
     "fullscreen.file_import.import_mural_pdf_failed": {
-        "string": "Mural PDFをインポートできません"
+        "string": "无法导入 Mural PDF"
     },
     "fullscreen.file_import.import_unknown_pdf_failed": {
-        "string": "PDFをインポートできません"
+        "string": "无法导入 PDF"
     },
     "fullscreen.file_import.internal_error_please_try_again_later": {
-        "string": "内部エラーです。少ししてから、もう一度お試しください"
+        "string": "内部错误。请稍后再试"
     },
     "fullscreen.file_import.jamboard_supported_only_via_separate_import": {
-        "string": "個別にインポートする必要があります。Jamboardファイルに追加するには、インポートを新たに開始してください。"
+        "string": "需要单独导入。要将其添加到 Jamboard 文件，请重新开始导入。"
     },
     "fullscreen.file_import.jamboard_warning_element_parse_failed": {
-        "string": "注: このファイルの一部をインポートできませんでした。"
+        "string": "注意：无法导入此文件的部分内容。"
     },
     "fullscreen.file_import.jamboard_warning_image_download_failed": {
-        "string": "一部の画像をダウンロードできませんでした。"
+        "string": "无法下载部分图像。"
     },
     "fullscreen.file_import.oops_this_service_is_temporarily_unavailable": {
-        "string": "サーバーが一時的に使用できなくなっています。少ししてから、もう一度お試しください"
+        "string": "服务器暂时无法使用。请稍后再试"
     },
     "fullscreen.file_import.oversized_files_images_exceeded_max_size": {
-        "string": "{oversizedFiles, plural, other {{oversizedFiles}個の画像が最大サイズ(64MB)を超えています}}"
+        "string": "{oversizedFiles} 个图像超过最大尺寸 (64MB)"
     },
     "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit": {
-        "string": "{teamName}はFigJamのファイル数の上限に達しました"
+        "string": "{teamName} 已达到 FigJam 文件上限"
     },
     "fullscreen.file_import.team_name_is_at_the_fig_jam_file_limit_go_to_drafts": {
-        "string": "{teamName}はFigJamのファイル数の上限に達しました。ドラフトへのインポートをお試しください。"
+        "string": "{teamName} 已达到 FigJam 文件上限。请尝试导入到草稿。"
     },
     "fullscreen.file_import.team_name_is_at_the_figma_file_limit": {
-        "string": "{teamName}はFigmaファイルの制限にあります。"
+        "string": "{teamName} 已达到 Figma 文件限制。"
     },
     "fullscreen.file_import.to_import_an_svg_drag_it_directly_into_an_open_figma_file": {
-        "string": "SVGをインポートするには、開いているFigmaファイルに直接追加します。"
+        "string": "要导入 SVG，请直接拖动到打开的 Figma 文件中。"
     },
     "fullscreen.file_import.unable_to_import": {
-        "string": "インポートできません"
+        "string": "无法导入"
     },
     "fullscreen.file_import.user_externally_restricted": {
-        "string": "外部のスペースにファイルをインポートする権限がありません"
+        "string": "没有权限将文件导入到外部空间"
     },
     "fullscreen.file_import.you_don_t_have_permissions_to_import": {
-        "string": "この種類のファイルをインポートする権限がありません"
+        "string": "没有权限导入此类文件"
     },
     "fullscreen.file_import.you_don_t_have_permissions_to_import_in_folder_name": {
-        "string": "この種類のファイルを{folderName}にインポートする権限がありません"
+        "string": "没有权限将此类文件导入到 {folderName}"
     },
     "fullscreen.file_import.your_pdf_is_larger_than_50mb": {
-        "string": "このファイルは最大サイズ(50MB)を超えています。ファイルを小さく分割してそれぞれを個別にインポートしてください。"
+        "string": "文件超过最大尺寸 (50MB)。请将文件拆分成较小部分，并分别导入。"
     },
     "fullscreen.file_tracker_modal.audio_conversations_in_files": {
-        "string": "ファイル内の音声会話"
+        "string": "文件中的音频对话"
     },
     "fullscreen.file_tracker_modal.compare_plans": {
-        "string": "プランを比較"
+        "string": "比较计划"
     },
     "fullscreen.file_tracker_modal.max_free_files_already_you_are_becoming_a_pro": {
-        "string": "{maxFreeFiles, plural, other {すでに{maxFreeFiles}ファイルですか? プロフェッショナルプランに近づきつつあります。無料ファイルの上限に達していますが、次のアップグレードができます。}}"
+        "string": "已经有 {maxFreeFiles} 个免费文件？您正接近专业计划的上限。虽然您达到了免费文件的上限，但可以进行下次升级。"
     },
     "fullscreen.file_tracker_modal.num_files_of_max_free_files_created": {
-        "string": "無料ファイル{maxFreeFiles}個のうち{numFiles}個が作成されました。"
+        "string": "已创建 {numFiles}/{maxFreeFiles} 个免费文件。"
     },
     "fullscreen.file_tracker_modal.starter_plans_are_free_but_they_limit_you_to_just_max_free_files": {
-        "string": "{maxFreeFiles, plural, other {スタータープランは無料ですが、{maxFreeFiles}ファイルに制限されています。アップグレードすると次のことが可能です。 }}"
+        "string": "入门计划是免费的，但限制为 {maxFreeFiles} 个文件。升级后可以进行以下操作："
     },
     "fullscreen.file_tracker_modal.this_is_your_last_free_file": {
-        "string": "これが最後の無料ファイルです。"
+        "string": "这是您的最后一个免费文件。"
     },
     "fullscreen.file_tracker_modal.unlimited_files_pages": {
-        "string": "ファイル、ページ数無制限"
+        "string": "无限制的文件和页面"
     },
     "fullscreen.file_tracker_modal.unlimited_version_history_and_more": {
-        "string": "バージョン履歴無制限など..."
+        "string": "无限的版本历史记录等等..."
     },
     "fullscreen.filename_view.archive-branch": {
-        "string": "ブランチのアーカイブ"
+        "string": "存档分支"
     },
     "fullscreen.filename_view.branch-count": {
-        "string": "{BRANCHES, plural, other {ブランチ数}}"
+        "string": "{BRANCHES} 个分支"
     },
     "fullscreen.filename_view.color_management.color_profile_display_p3": {
         "string": "Display P3"
@@ -132,21 +132,21 @@
         "string": "sRGB"
     },
     "fullscreen.filename_view.color_management.file_color_profile": {
-        "string": "ファイルのカラープロファイル"
+        "string": "文件颜色配置文件"
     },
     "fullscreen.filename_view.color_management.menu_item_title": {
-        "string": "{color_profile}に変更..."
+        "string": "更改为 {color_profile}..."
     },
     "fullscreen.filename_view.color_management.menu_item_title.legacy.assign": {
-        "string": "{color_profile}に割り当てる"
+        "string": "分配 {color_profile}"
     },
     "fullscreen.filename_view.color_management.menu_item_title.legacy_file": {
-        "string": "優先プロファイル({colorProfile})と同じ"
+        "string": "与首选配置文件 ({colorProfile}) 相同"
     },
     "fullscreen.filename_view.delete": {
-        "string": "削除…"
+        "string": "删除…"
     },
     "fullscreen.filename_view.delete-branch": {
-        "string": "完全に削除"
+        "string": "完全删除"
     }
 }

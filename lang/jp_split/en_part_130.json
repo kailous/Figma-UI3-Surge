@@ -1,152 +1,152 @@
 {
     "visual_bell.outlines_hide_hidden_layers": {
-        "string": "アウトラインから非表示レイヤーを除外します"
+        "string": "从轮廓中隐藏隐藏的图层"
     },
     "visual_bell.outlines_hide_object_bounds": {
-        "string": "アウトラインからオブジェクト境界を除外します"
+        "string": "从轮廓中隐藏对象边界"
     },
     "visual_bell.outlines_show_hidden_layers": {
-        "string": "アウトラインに非表示レイヤーを含めます"
+        "string": "在轮廓中显示隐藏的图层"
     },
     "visual_bell.outlines_show_object_bounds": {
-        "string": "アウトラインにオブジェクト境界を含めます"
+        "string": "在轮廓中显示对象边界"
     },
     "visual_bell.pixel_preview_disabled": {
-        "string": "ピクセルプレビューが無効になりました"
+        "string": "像素预览已禁用"
     },
     "visual_bell.pixel_preview_enabled": {
-        "string": "ピクセルプレビューが有効になりました({scaling})"
+        "string": "像素预览已启用 ({scaling})"
     },
     "visual_bell.render_grid_hidden": {
-        "string": "ピクセルグリッドが非表示になりました"
+        "string": "像素网格已隐藏"
     },
     "visual_bell.render_grid_visible": {
-        "string": "ピクセルグリッドが表示されました"
+        "string": "像素网格已显示"
     },
     "visual_bell.save_as_error": {
-        "string": "ファイルをダウンロードできませんでした。もう一度お試しください。"
+        "string": "无法下载文件，请重试。"
     },
     "visual_bell.saving": {
-        "string": "保存中…"
+        "string": "保存中..."
     },
     "visual_bell.show_frame_grids_hidden": {
-        "string": "レイアウトグリッドが非表示になりました"
+        "string": "布局网格已隐藏"
     },
     "visual_bell.show_frame_grids_hide_button": {
-        "string": "非表示"
+        "string": "隐藏"
     },
     "visual_bell.show_frame_grids_visible": {
-        "string": "レイアウトグリッドが表示されました"
+        "string": "布局网格已显示"
     },
     "visual_bell.show_masks_hidden": {
-        "string": "マスクアウトラインが非表示になりました"
+        "string": "蒙版轮廓已隐藏"
     },
     "visual_bell.show_masks_visible": {
-        "string": "マスクアウトラインが表示されました"
+        "string": "蒙版轮廓已显示"
     },
     "visual_bell.show_outlines_hidden": {
-        "string": "アウトラインが非表示になりました"
+        "string": "轮廓已隐藏"
     },
     "visual_bell.show_outlines_visible": {
-        "string": "アウトラインが表示されました"
+        "string": "轮廓已显示"
     },
     "visual_bell.snap_to_dot_grid_disabled": {
-        "string": "[ドットグリッドに​​スナップ]が無効になりました"
+        "string": "对齐到点网格已禁用"
     },
     "visual_bell.snap_to_dot_grid_enabled": {
-        "string": "[ドットグリッドに​​スナップ]が有効になりました"
+        "string": "对齐到点网格已启用"
     },
     "visual_bell.snap_to_geometry_disabled": {
-        "string": "[ジオメトリにスナップ]が無効になりました"
+        "string": "对齐到几何图形已禁用"
     },
     "visual_bell.snap_to_geometry_enabled": {
-        "string": "[ジオメトリにスナップ]が有効になりました"
+        "string": "对齐到几何图形已启用"
     },
     "visual_bell.snap_to_objects_disabled": {
-        "string": "[オブジェクトにスナップ]が無効になりました"
+        "string": "对齐到对象已禁用"
     },
     "visual_bell.snap_to_objects_enabled": {
-        "string": "[オブジェクトにスナップ]が有効になりました"
+        "string": "对齐到对象已启用"
     },
     "visual_bell.snap_to_pixel_grid_disabled": {
-        "string": "[ピクセルグリッドにスナップ]が無効になりました"
+        "string": "对齐到像素网格已禁用"
     },
     "visual_bell.snap_to_pixel_grid_enabled": {
-        "string": "[ピクセルグリッドに​​スナップ]が有効になりました"
+        "string": "对齐到像素网格已启用"
     },
     "visual_bell.url_copied_to_your_clipboard": {
-        "string": "\"{url}\"がクリップボードにコピーされました"
+        "string": "URL已复制到剪贴板: \"{url}\""
     },
     "visual_bell.you_are_now_able_to_make_changes": {
-        "string": "これで変更を加えることができます"
+        "string": "您现在可以进行更改"
     },
     "whiteboard.starter_kit.standup.title": {
-        "string": "スタンドアップ"
+        "string": "站立会议"
     },
     "edu.administrator": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "edu.agree_to_policy": {
-        "string": "はい、同意します"
+        "string": "是的，我同意"
     },
     "edu.almost_done_everything_look_good": {
-        "string": "完了まであと少しです。問題ありませんか?"
+        "string": "快完成了，一切看起来都好吗？"
     },
     "edu.applied.recieved_your_application": {
-        "string": "申請を受信しました。24時間以内に審査します。{email}にメールを送信し、更新情報と開始方法の手順をお知らせします。"
+        "string": "已收到您的申请。我们将在24小时内审核，并将通过{email}发送更新和入门指南。"
     },
     "edu.applied.recieved_your_application_no_email": {
-        "string": "申請を受信しました。24時間以内に審査します。メールで更新情報と開始方法の手順をお知らせします。"
+        "string": "已收到您的申请。我们将在24小时内审核，并将通过电子邮件发送更新和入门指南。"
     },
     "edu.applied.return_to_page_later": {
-        "string": "メールが届かない場合、後でこのページに戻って、確認されたかどうかを確認することもできます。"
+        "string": "如果您没有收到电子邮件，稍后可以返回此页面以查看是否已确认。"
     },
     "edu.applied.you_re_almost_there": {
-        "string": "もうすぐです"
+        "string": "快到了"
     },
     "edu.april": {
-        "string": "4月"
+        "string": "四月"
     },
     "edu.are_you_a_student_educator_or_administrator": {
-        "string": "学生、教職員、または学校管理職ですか?"
+        "string": "您是学生、教师还是学校管理员？"
     },
     "edu.art_graphic_design": {
-        "string": "アート / グラフィックスデザイン"
+        "string": "艺术/图形设计"
     },
     "edu.august": {
-        "string": "8月"
+        "string": "八月"
     },
     "edu.banner.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "edu.banner.move_or_duplicate_files_to_another_location_to_save_your_work": {
-        "string": "ファイルを別の場所に移動または複製して、作業内容を保存してください。"
+        "string": "请将文件移动或复制到其他位置以保存您的工作内容。"
     },
     "edu.banner.team_is_now_view_only_for_all_members": {
-        "string": "{teamName}はすべてのメンバーが閲覧限定になりました。"
+        "string": "{teamName}现在对所有成员只读。"
     },
     "edu.banner.team_s_education_status_has_expired": {
-        "string": "{teamName}のエデュケーションプランが終了しました"
+        "string": "{teamName}的教育计划已到期"
     },
     "edu.banner.to_keep_collaborating_upgrade_team": {
-        "string": "コラボレーションを続けるには、{teamName}をアップグレードするか、{verify}してください。"
+        "string": "要继续协作，请升级{teamName}或{verify}。"
     },
     "edu.banner.verify_your_education_status": {
-        "string": "エデュケーションプラン利用資格を確認"
+        "string": "验证您的教育身份"
     },
     "edu.banner.you_can_no_longer_edit_files": {
-        "string": "{teamName}のファイルは編集できなくなりました。"
+        "string": "您不再可以编辑{teamName}的文件。"
     },
     "edu.banner.your_education_plan_has_expired": {
-        "string": "エデュケーションプランが終了しました"
+        "string": "您的教育计划已到期"
     },
     "edu.banner.your_education_status_is_expiring_soon": {
-        "string": "まもなくエディケーションプラン利用資格がなくなります"
+        "string": "您的教育身份即将到期"
     },
     "edu.bootcamp_or_online": {
-        "string": "ブートキャンプまたはオンラインプログラム"
+        "string": "训练营或在线课程"
     },
     "edu.by_submitting_this_form_and_using_the_figma_education_plan_you_confirm_that_you_are_at_least_13_years_old": {
-        "string": "このフォームを送信してFigmaエデュケーションプランを使用するには、13歳以上であることをご確認ください。"
+        "string": "提交此表单并使用Figma教育计划即表示您确认自己至少13岁。"
     }
 }

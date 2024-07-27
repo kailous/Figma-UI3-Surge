@@ -1,45 +1,45 @@
 {
     "fullscreen.properties_panel.document_colors": {
-        "string": "ドキュメントの色"
+        "string": "文档颜色"
     },
     "fullscreen.properties_panel.effects.background_blur": {
-        "string": "背景のぼかし"
+        "string": "背景模糊"
     },
     "fullscreen.properties_panel.effects.blur": {
-        "string": "ぼかし範囲"
+        "string": "模糊范围"
     },
     "fullscreen.properties_panel.effects.drop_shadow": {
-        "string": "ドロップシャドウ"
+        "string": "投影"
     },
     "fullscreen.properties_panel.effects.inner_shadow": {
-        "string": "インナーシャドウ"
+        "string": "内阴影"
     },
     "fullscreen.properties_panel.effects.layer_blur": {
-        "string": "レイヤーブラー"
+        "string": "图层模糊"
     },
     "fullscreen.properties_panel.effects.position": {
         "string": "位置"
     },
     "fullscreen.properties_panel.effects.spread": {
-        "string": "広がり"
+        "string": "扩散"
     },
     "fullscreen.properties_panel.export": {
-        "string": "エクスポート"
+        "string": "导出"
     },
     "fullscreen.properties_panel.export_disabled": {
-        "string": "エクスポートが無効"
+        "string": "导出已禁用"
     },
     "fullscreen.properties_panel.export_layer_names_using_id_attributes": {
-        "string": "id属性を使用してレイヤー名をエクスポート"
+        "string": "使用ID属性导出图层名称"
     },
     "fullscreen.properties_panel.export_settings_color_profile": {
-        "string": "カラープロファイル"
+        "string": "颜色配置文件"
     },
     "fullscreen.properties_panel.export_settings_color_profile.display_p3": {
-        "string": "Display P3"
+        "string": "显示P3"
     },
     "fullscreen.properties_panel.export_settings_color_profile.document": {
-        "string": "ファイルと同じ({documentColorProfile})"
+        "string": "与文档相同({documentColorProfile})"
     },
     "fullscreen.properties_panel.export_settings_color_profile.p3": {
         "string": "P3"
@@ -48,7 +48,7 @@
         "string": "sRGB"
     },
     "fullscreen.properties_panel.export_settings_quality": {
-        "string": "クオリティ"
+        "string": "质量"
     },
     "fullscreen.properties_panel.export_settings_quality.high": {
         "string": "高"
@@ -60,93 +60,93 @@
         "string": "中"
     },
     "fullscreen.properties_panel.export_stroke_as_inlined_path_element": {
-        "string": "線をインライン<path>要素としてエクスポートする"
+        "string": "将描边作为内联路径元素导出"
     },
     "fullscreen.properties_panel.export_suffix": {
-        "string": "サフィックス"
+        "string": "后缀"
     },
     "fullscreen.properties_panel.export_suffix_label": {
-        "string": "サフィックス"
+        "string": "后缀"
     },
     "fullscreen.properties_panel.export_suffix_placeholder": {
-        "string": "サフィックスを追加"
+        "string": "添加后缀"
     },
     "fullscreen.properties_panel.export_text_as_outlined_path_element": {
-        "string": "テキストをアウトライン<path>要素としてエクスポートする"
+        "string": "将文本作为轮廓路径元素导出"
     },
     "fullscreen.properties_panel.export_this_props_num_selected_layers": {
-        "string": "{numSelected}レイヤーをエクスポート"
+        "string": "导出{numSelected}个图层"
     },
     "fullscreen.properties_panel.export_title": {
-        "string": "{title}をエクスポート"
+        "string": "导出{title}"
     },
     "fullscreen.properties_panel.exposure": {
-        "string": "露出"
+        "string": "曝光"
     },
     "fullscreen.properties_panel.fill.advanced_stroke_settings": {
-        "string": "線の詳細設定"
+        "string": "高级描边设置"
     },
     "fullscreen.properties_panel.fill.detach_style": {
-        "string": "スタイルを解除"
+        "string": "分离样式"
     },
     "fullscreen.properties_panel.fill.detach_variable": {
-        "string": "バリアブルを切り離す"
+        "string": "分离变量"
     },
     "fullscreen.properties_panel.fill.end_point": {
-        "string": "終了点"
+        "string": "终点"
     },
     "fullscreen.properties_panel.fill.fill": {
-        "string": "塗り"
+        "string": "填充"
     },
     "fullscreen.properties_panel.fill.include_the_canvas_or_group_background_in_exports": {
-        "string": "エクスポートにキャンバスまたはグループの背景を含める"
+        "string": "在导出中包含画布或组背景"
     },
     "fullscreen.properties_panel.fill.remove": {
-        "string": "削除"
+        "string": "移除"
     },
     "fullscreen.properties_panel.fill.see_all_x_colors": {
-        "string": "{number}色すべてを表示"
+        "string": "查看全部{number}种颜色"
     },
     "fullscreen.properties_panel.fill.see_all_x_library_colors": {
-        "string": "{number}ライブラリの色をすべて表示"
+        "string": "查看全部{number}种库颜色"
     },
     "fullscreen.properties_panel.fill.selection_colors": {
-        "string": "選択範囲の色"
+        "string": "选择的颜色"
     },
     "fullscreen.properties_panel.fill.show_in_exports": {
-        "string": "エクスポートに含める"
+        "string": "在导出中显示"
     },
     "fullscreen.properties_panel.fill.show_selection_colors": {
-        "string": "選択範囲の色を表示"
+        "string": "显示选择的颜色"
     },
     "fullscreen.properties_panel.fill.start_point": {
-        "string": "開始点"
+        "string": "起点"
     },
     "fullscreen.properties_panel.fill.stroke": {
-        "string": "線"
+        "string": "描边"
     },
     "fullscreen.properties_panel.fill.stroke_width": {
-        "string": "線幅"
+        "string": "描边宽度"
     },
     "fullscreen.properties_panel.fill.swap_start_and_end_points": {
-        "string": "開始点と終了点を入れ替える"
+        "string": "交换起点和终点"
     },
     "fullscreen.properties_panel.flip_gradient": {
-        "string": "グラデーションを反転"
+        "string": "翻转渐变"
     },
     "fullscreen.properties_panel.font_picker.font_set.all_fonts": {
-        "string": "すべてのフォント"
+        "string": "所有字体"
     },
     "fullscreen.properties_panel.font_picker.font_set.document_fonts": {
-        "string": "このファイル内"
+        "string": "文档中的字体"
     },
     "fullscreen.properties_panel.font_picker.font_set.google_fonts": {
-        "string": "Googleフォント"
+        "string": "Google字体"
     },
     "fullscreen.properties_panel.font_picker.font_set.popular_fonts": {
-        "string": "人気のフォント"
+        "string": "流行字体"
     },
     "fullscreen.properties_panel.font_picker.font_set.shared_fonts": {
-        "string": "共有フォント"
+        "string": "共享字体"
     }
 }

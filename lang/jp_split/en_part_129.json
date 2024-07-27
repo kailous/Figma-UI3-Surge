@@ -1,48 +1,48 @@
 {
     "keyboard_settings.us_dvorak": {
-        "string": "U.S. Dvorak"
+        "string": "美国 Dvorak"
     },
     "keyboard_settings.us_qwerty": {
-        "string": "U.S. QWERTY"
+        "string": "美国 QWERTY"
     },
     "properties_panel.effects.b": {
         "string": "B"
     },
     "properties_panel.effects.blur": {
-        "string": "ぼかし範囲"
+        "string": "模糊范围"
     },
     "properties_panel.effects.blur_radius": {
-        "string": "ぼかし範囲の半径"
+        "string": "模糊范围半径"
     },
     "properties_panel.effects.color": {
-        "string": "色"
+        "string": "颜色"
     },
     "properties_panel.effects.effect_settings": {
-        "string": "エフェクトの設定"
+        "string": "效果设置"
     },
     "properties_panel.effects.effects": {
-        "string": "エフェクト"
+        "string": "效果"
     },
     "properties_panel.effects.remove_effect": {
-        "string": "エフェクトを削除"
+        "string": "删除效果"
     },
     "properties_panel.effects.s": {
         "string": "S"
     },
     "properties_panel.effects.show_behind_transparent_areas": {
-        "string": "透過領域の下に表示"
+        "string": "显示在透明区域后面"
     },
     "properties_panel.effects.spread": {
-        "string": "広がり"
+        "string": "扩展"
     },
     "properties_panel.effects.spread_clip_warning": {
-        "string": "[コンテンツを隠す]が有効な場合にのみ、フレームとコンポーネントでサポートされます"
+        "string": "仅在启用“隐藏内容”时，支持框架和组件"
     },
     "properties_panel.effects.spread_fills_warning": {
-        "string": "塗りペイントが可視である場合にのみ、フレームとコンポーネントでサポートされます"
+        "string": "仅在填充可见时，支持框架和组件"
     },
     "properties_panel.effects.spread_rect_ellipse_warning": {
-        "string": "長方形、楕円、フレーム、コンポーネントでのみサポートされます"
+        "string": "仅支持矩形、椭圆、框架和组件"
     },
     "properties_panel.effects.x": {
         "string": "X"
@@ -51,102 +51,102 @@
         "string": "Y"
     },
     "properties_panel.plugin.mixed_descriptions": {
-        "string": "複数ノードの説明"
+        "string": "多节点描述"
     },
     "properties_panel.plugin.remove_tooltip": {
-        "string": "削除"
+        "string": "删除"
     },
     "properties_panel.plugin.title": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "user_facing_error.loading_a_file": {
-        "string": "ファイルの読み込み中にエラーが発生しました"
+        "string": "加载文件时出错"
     },
     "user_facing_error.new_document": {
-        "string": "新しいドキュメントの作成中にエラーが発生しました"
+        "string": "创建新文档时出错"
     },
     "user_facing_error.offline": {
-        "string": "オフラインになっているようです! 後でもう一度お試しください。"
+        "string": "看起来您已离线！请稍后再试。"
     },
     "visual_bell.adding_image": {
-        "string": "画像を追加中…"
+        "string": "正在添加图片..."
     },
     "visual_bell.adding_images": {
-        "string": "画像を追加中…"
+        "string": "正在添加图片..."
     },
     "visual_bell.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "visual_bell.copy_email": {
-        "string": "メールアドレス{email}をコピーしました"
+        "string": "已复制邮件地址{email}"
     },
     "visual_bell.copy_hyperlink": {
-        "string": "{hyperlink}へのリンクをコピーしました"
+        "string": "已复制到{hyperlink}的链接"
     },
     "visual_bell.copy_link": {
-        "string": "リンクをコピーしました"
+        "string": "已复制链接"
     },
     "visual_bell.copy_link_to_connector": {
-        "string": "コネクターへのリンクをコピーしました"
+        "string": "已复制到连接器的链接"
     },
     "visual_bell.copy_link_to_instance": {
-        "string": "ステッカーへのリンクをコピーしました"
+        "string": "已复制到实例的链接"
     },
     "visual_bell.copy_link_to_section": {
-        "string": "セクションへのリンクをコピーしました"
+        "string": "已复制到部分的链接"
     },
     "visual_bell.copy_link_to_shape": {
-        "string": "シェイプへのリンクをコピーしました"
+        "string": "已复制到形状的链接"
     },
     "visual_bell.copy_link_to_stamp": {
-        "string": "スタンプへのリンクをコピーしました"
+        "string": "已复制到印章的链接"
     },
     "visual_bell.copy_link_to_sticky": {
-        "string": "付箋へのリンクをコピーしました"
+        "string": "已复制到便签的链接"
     },
     "visual_bell.copy_link_to_table": {
-        "string": "テーブルへのリンクをコピーしました"
+        "string": "已复制到表格的链接"
     },
     "visual_bell.copy_link_to_text": {
-        "string": "テキストへのリンクをコピーしました"
+        "string": "已复制到文本的链接"
     },
     "visual_bell.copy_link_to_washi_tape": {
-        "string": "和紙テープへのリンクをコピーしました"
+        "string": "已复制到和纸胶带的链接"
     },
     "visual_bell.copy_link_to_widget": {
-        "string": "ウィジェットへのリンクをコピーしました"
+        "string": "已复制到小部件的链接"
     },
     "visual_bell.copy_phone": {
-        "string": "電話番号{number}をコピーしました"
+        "string": "已复制电话号码{number}"
     },
     "visual_bell.duplicating": {
-        "string": "ファイルを複製しています..."
+        "string": "正在复制文件..."
     },
     "visual_bell.exporting": {
-        "string": "エクスポート中…"
+        "string": "正在导出..."
     },
     "visual_bell.go_there": {
-        "string": "移動する"
+        "string": "前往"
     },
     "visual_bell.import_pdf": {
-        "string": "PDFをインポート中"
+        "string": "正在导入PDF"
     },
     "visual_bell.main_component_deleted": {
-        "string": "メインコンポーネントが削除されています。"
+        "string": "主组件已删除。"
     },
     "visual_bell.main_component_moved": {
-        "string": "メインコンポーネントは{movedToFile}に移動されています"
+        "string": "主组件已移动到{movedToFile}"
     },
     "visual_bell.moved_single_node": {
-        "string": "{nodeName}は{newPage}に移動されました"
+        "string": "{nodeName}已移动到{newPage}"
     },
     "visual_bell.multi_editing": {
-        "string": "マルチ編集"
+        "string": "多重编辑"
     },
     "visual_bell.multiplayer_cursors_hidden": {
-        "string": "マルチプレイヤーカーソルが非表示になりました"
+        "string": "多玩家光标已隐藏"
     },
     "visual_bell.multiplayer_cursors_visible": {
-        "string": "マルチプレイヤーカーソルが表示されました"
+        "string": "多玩家光标已显示"
     }
 }

@@ -1,152 +1,152 @@
 {
     "fullscreen.libraries_button.tooltip.no_updates": {
-        "string": "ライブラリ"
+        "string": "库"
     },
     "fullscreen.libraries_button.tooltip.updates_to_pull": {
-        "string": "ライブラリの更新を確認"
+        "string": "检查库更新"
     },
     "fullscreen.libraries_button.tooltip.updates_to_push": {
-        "string": "未公開の変更を確認"
+        "string": "检查未发布的更改"
     },
     "fullscreen.link_shortcuts_onboarding.create_link": {
-        "string": "リンクを作成"
+        "string": "创建链接"
     },
     "fullscreen.link_shortcuts_onboarding.description": {
-        "string": "テキストにリンクを追加するためのショートカットを変更しました:"
+        "string": "更改了添加文本链接的快捷方式："
     },
     "fullscreen.link_shortcuts_onboarding.got_it": {
         "string": "了解"
     },
     "fullscreen.link_shortcuts_onboarding.show_actions_updated": {
-        "string": "{actionsKeyCommand}でアクションを開けるようになりました"
+        "string": "现在可以通过 {actionsKeyCommand} 打开操作"
     },
     "fullscreen.link_shortcuts_onboarding.show_links_updated": {
-        "string": "「{link}」のショートカットが{linkKeyCommand}に変更されました"
+        "string": "“{link}”的快捷方式已更改为 {linkKeyCommand}"
     },
     "fullscreen.link_shortcuts_onboarding.title": {
-        "string": "新しいキーボードショートカット"
+        "string": "新的键盘快捷键"
     },
     "fullscreen.live_object_panel.detach_from_live": {
-        "string": "インスタンスを切り離す"
+        "string": "分离实例"
     },
     "fullscreen.live_object_panel.go_to_original": {
-        "string": "オリジナルを表示"
+        "string": "查看原件"
     },
     "fullscreen.live_object_panel.live_object": {
-        "string": "ライブオブジェクト"
+        "string": "实时对象"
     },
     "fullscreen.live_object_panel.live_object_options": {
-        "string": "ライブオブジェクトのオプション"
+        "string": "实时对象选项"
     },
     "fullscreen.live_object_panel.live_update_error": {
-        "string": "更新できません。後でもう一度お試しください"
+        "string": "无法更新，请稍后再试"
     },
     "fullscreen.live_object_panel.live_update_success": {
-        "string": "ライブオブジェクトを更新しました"
+        "string": "实时对象已更新"
     },
     "fullscreen.live_object_panel.reset_all_changes": {
-        "string": "すべての変更をリセット"
+        "string": "重置所有更改"
     },
     "fullscreen.live_object_panel.update_live_object": {
-        "string": "最新版に更新"
+        "string": "更新到最新版本"
     },
     "fullscreen.mask_panel.alpha": {
-        "string": "アルファ"
+        "string": "Alpha"
     },
     "fullscreen.mask_panel.alpha_extended": {
-        "string": "アルファ(透明度使用)"
+        "string": "Alpha（使用透明度）"
     },
     "fullscreen.mask_panel.luminance": {
-        "string": "ルミナンス"
+        "string": "亮度"
     },
     "fullscreen.mask_panel.luminance_extended": {
-        "string": "ルミナンス(輝度使用)"
+        "string": "亮度（使用光度）"
     },
     "fullscreen.mask_panel.mask": {
-        "string": "マスク"
+        "string": "遮罩"
     },
     "fullscreen.mask_panel.vector": {
-        "string": "ベクター"
+        "string": "矢量"
     },
     "fullscreen.mask_panel.vector_extended": {
-        "string": "ベクトル(シェイプアウトライン使用)"
+        "string": "矢量（使用形状轮廓）"
     },
     "fullscreen.menu.help_menu": {
-        "string": "ヘルプ"
+        "string": "帮助"
     },
     "fullscreen.menu.remove_mask": {
-        "string": "マスクの削除"
+        "string": "删除遮罩"
     },
     "fullscreen.mixed": {
-        "string": "混在"
+        "string": "混合"
     },
     "fullscreen.more_tracks_title": {
-        "string": "サウンドエフェクト"
+        "string": "音效"
     },
     "fullscreen.msal_onboarding.body": {
-        "string": "オートレイアウトなので、すばやく終わります。Figmaが必要なフレームを判断し、ユーザーの代わりに作成します。"
+        "string": "使用自动布局，快速完成。Figma会根据需要创建框架。"
     },
     "fullscreen.msal_onboarding.header_with_shortcut": {
-        "string": "次回は、{msalShortcut}をお試しください"
+        "string": "下次尝试使用 {msalShortcut}"
     },
     "fullscreen.notification.clipboard_data_available": {
-        "string": "別のデバイスの選択内容をコピーしました。貼り付けますか?"
+        "string": "已复制其他设备的选择内容。要粘贴吗？"
     },
     "fullscreen.nudge.big_nudge": {
-        "string": "大きな調整"
+        "string": "大调整"
     },
     "fullscreen.nudge.nudge_amount": {
-        "string": "ナッジ"
+        "string": "微调"
     },
     "fullscreen.nudge.small_nudge": {
-        "string": "小さな調整"
+        "string": "小调整"
     },
     "fullscreen.object_row.file_thumbnail": {
-        "string": "ファイルのサムネイル"
+        "string": "文件缩略图"
     },
     "fullscreen.outline_shortcuts_onboarding.changed_outline_shortcuts": {
-        "string": "アウトラインに関連する以下のショートカットを変更しました。"
+        "string": "更改了以下与轮廓相关的快捷键。"
     },
     "fullscreen.outline_shortcuts_onboarding.changed_shortcuts": {
-        "string": "以下のショートカットを変更しました。"
+        "string": "更改了以下快捷键。"
     },
     "fullscreen.outline_shortcuts_onboarding.got_it": {
         "string": "了解"
     },
     "fullscreen.outline_shortcuts_onboarding.keep_old_shortcuts": {
-        "string": "古いショートカットを維持"
+        "string": "保留旧快捷键"
     },
     "fullscreen.outline_shortcuts_onboarding.opt_out_options": {
-        "string": "古いショートカットをそのまま使い続けることもできます。基本設定でいつでも新しいショートカットに変更できます。"
+        "string": "您也可以继续使用旧的快捷键。可以随时在首选项中切换到新的快捷键。"
     },
     "fullscreen.outline_shortcuts_onboarding.outline_stroke": {
-        "string": "線のアウトライン化"
+        "string": "轮廓描边"
     },
     "fullscreen.outline_shortcuts_onboarding.outline_stroke_updated": {
-        "string": "{outlineStroke}のショートカットが{outlineStrokeKeyCommand}に変更されました"
+        "string": "{outlineStroke} 的快捷键已更改为 {outlineStrokeKeyCommand}"
     },
     "fullscreen.outline_shortcuts_onboarding.show_outlines": {
-        "string": "アウトラインの表示"
+        "string": "显示轮廓"
     },
     "fullscreen.outline_shortcuts_onboarding.show_outlines_updated": {
-        "string": "{showOutlines}のショートカットが{showOutlinesKeyCommand}に変更されました"
+        "string": "{showOutlines} 的快捷键已更改为 {showOutlinesKeyCommand}"
     },
     "fullscreen.outline_shortcuts_onboarding.team_library": {
-        "string": "チームライブラリ"
+        "string": "团队库"
     },
     "fullscreen.outline_shortcuts_onboarding.team_library_updated": {
-        "string": "{teamLibrary}は{teamLibraryKeyCommand}だけになりました"
+        "string": "{teamLibrary} 的快捷键仅为 {teamLibraryKeyCommand}"
     },
     "fullscreen.outline_shortcuts_onboarding.title": {
-        "string": "新しいキーボードショートカット"
+        "string": "新的键盘快捷键"
     },
     "fullscreen.pages_panel.add_new_page": {
-        "string": "新しいページを追加"
+        "string": "添加新页面"
     },
     "fullscreen.pages_panel.add_new_page_dropdown": {
-        "string": "新しいページの種類を選択"
+        "string": "选择新页面类型"
     },
     "fullscreen.pages_panel.all_free_pages_used": {
-        "string": "無料ページはすべて使用済みです。"
+        "string": "已使用所有免费页面。"
     }
 }

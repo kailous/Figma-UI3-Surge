@@ -1,152 +1,152 @@
 {
     "fullscreen.accessibility.reply_to_comment": {
-        "string": "コメントに返信"
+        "string": "回复评论"
     },
     "fullscreen.accessibility.reply_to_comment_with_authors": {
-        "string": "{username}とともにコメントに返信"
+        "string": "与{username}一起回复评论"
     },
     "fullscreen.accessibility.search_icon": {
-        "string": "検索アイコン"
+        "string": "搜索图标"
     },
     "fullscreen.accessibility.selection_cleared": {
-        "string": "アイテムが選択されていません"
+        "string": "未选择任何项目"
     },
     "fullscreen.accessibility.stamp_attached_announcement": {
-        "string": "{hostType}に添付されているスタンプ"
+        "string": "附加到{hostType}的印章"
     },
     "fullscreen.accessibility.tool_selected": {
-        "string": "{nodeType}を選択しました。クリックすると{nodeType}が作成されます。ESCキーでキャンセルできます。キーボードで{nodeType}を作成するには、{shortcut}を押して、「create new{nodeType}」とタイプします。"
+        "string": "已选择{nodeType}。单击以创建{nodeType}。按ESC键取消。要通过键盘创建{nodeType}，请按{shortcut}并键入“创建新的{nodeType}”。"
     },
     "fullscreen.accessibility.tool_unselected": {
-        "string": "ツールが選択されていません"
+        "string": "未选择任何工具"
     },
     "fullscreen.accessibility.view_comments": {
-        "string": "コメントを表示"
+        "string": "查看评论"
     },
     "fullscreen.accessibility.view_comments_with_unreads": {
-        "string": "未読のコメントを表示"
+        "string": "查看未读评论"
     },
     "fullscreen.accessibility_dom.comment_pin": {
-        "string": "コメント"
+        "string": "评论"
     },
     "fullscreen.accessibility_dom.current_tool": {
-        "string": "{toolName}ツールを使用中"
+        "string": "正在使用{toolName}工具"
     },
     "fullscreen.accessibility_dom.current_tool_stamp": {
-        "string": "{stampName}ツールを使用中"
+        "string": "正在使用{stampName}工具"
     },
     "fullscreen.accessibility_dom.grouped_comments": {
-        "string": "前の{groupSize}アイテムの隣接コメント"
+        "string": "之前{groupSize}个项目的相邻评论"
     },
     "fullscreen.accessibility_dom.labelled_stamp": {
-        "string": "{label}スタンプ"
+        "string": "{label}印章"
     },
     "fullscreen.accessibility_dom.node_name_canvas": {
-        "string": "ボード"
+        "string": "画布"
     },
     "fullscreen.accessibility_dom.node_name_code_block": {
-        "string": "コードブロック"
+        "string": "代码块"
     },
     "fullscreen.accessibility_dom.node_name_connector": {
-        "string": "コネクター"
+        "string": "连接器"
     },
     "fullscreen.accessibility_dom.node_name_fallback": {
-        "string": "アイテム"
+        "string": "项目"
     },
     "fullscreen.accessibility_dom.node_name_instance": {
-        "string": "カスタム項目"
+        "string": "自定义项"
     },
     "fullscreen.accessibility_dom.node_name_line": {
-        "string": "線"
+        "string": "线"
     },
     "fullscreen.accessibility_dom.node_name_section": {
-        "string": "セクション"
+        "string": "部分"
     },
     "fullscreen.accessibility_dom.node_name_shape": {
-        "string": "シェイプ"
+        "string": "形状"
     },
     "fullscreen.accessibility_dom.node_name_stamp": {
-        "string": "スタンプ"
+        "string": "印章"
     },
     "fullscreen.accessibility_dom.node_name_sticky": {
-        "string": "付箋"
+        "string": "便签"
     },
     "fullscreen.accessibility_dom.node_name_table": {
-        "string": "テーブル"
+        "string": "表格"
     },
     "fullscreen.accessibility_dom.node_name_table_cell": {
-        "string": "テーブルセル行{r}列{c}"
+        "string": "表格单元格行{r}列{c}"
     },
     "fullscreen.accessibility_dom.node_name_table_cell_generic": {
-        "string": "テーブルセル"
+        "string": "表格单元格"
     },
     "fullscreen.accessibility_dom.node_name_text": {
-        "string": "テキスト"
+        "string": "文本"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-arrow-left": {
-        "string": "矢印左"
+        "string": "左箭头"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-arrow-right": {
-        "string": "矢印右"
+        "string": "右箭头"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-chevron": {
-        "string": "シェブロン"
+        "string": "V形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-diamond": {
-        "string": "ひし形"
+        "string": "菱形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-document-multiple": {
-        "string": "複数ドキュメント"
+        "string": "多个文档"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-document-single": {
-        "string": "ドキュメント"
+        "string": "文档"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-ellipse": {
-        "string": "楕円"
+        "string": "椭圆"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-eng-database": {
-        "string": "円柱"
+        "string": "圆柱"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-eng-file": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-eng-folder": {
-        "string": "フォルダ"
+        "string": "文件夹"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-eng-queue": {
-        "string": "横向きの円柱"
+        "string": "横向圆柱"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-hexagon": {
-        "string": "六角形"
+        "string": "六边形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-internal-storage": {
-        "string": "内部ストレージ"
+        "string": "内部存储"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-manual-input": {
-        "string": "手入力"
+        "string": "手动输入"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-octagon": {
-        "string": "八角形"
+        "string": "八边形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-or": {
-        "string": "論理和"
+        "string": "或"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-parallelogram-right": {
-        "string": "平行四辺形"
+        "string": "平行四边形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-pentagon": {
-        "string": "五角形"
+        "string": "五边形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-plus": {
-        "string": "プラス"
+        "string": "加号"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-predefined-process": {
-        "string": "定義済みプロセス"
+        "string": "预定义流程"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-rounded-rectangle": {
-        "string": "角丸長方形　"
+        "string": "圆角矩形"
     },
     "fullscreen.accessibility_dom.node_name_whiteboard-shield": {
-        "string": "シールド"
+        "string": "盾牌"
     }
 }

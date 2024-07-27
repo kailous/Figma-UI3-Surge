@@ -1,152 +1,152 @@
 {
     "community.sinatra.profiles.the_selected_account_is_not_connected_to_this_profile": {
-        "string": "選択したアカウントはこのプロフィールに接続されていません"
+        "string": "选定的帐户未连接到此配置文件"
     },
     "community.sinatra.profiles.this_profile_is_already_public": {
-        "string": "このプロフィールは既に公開されています"
+        "string": "此配置文件已公开"
     },
     "community.sinatra.profiles.this_user_is_already_the_primary_profile": {
-        "string": "このユーザーは既にプライマリープロフィールです"
+        "string": "此用户已是主要配置文件"
     },
     "community.sinatra.profiles.this_user_is_not_connected_to_this_profile": {
-        "string": "このユーザーはこのプロフィールに接続されていません"
+        "string": "此用户未连接到此配置文件"
     },
     "community.sinatra.profiles.user_does_not_own_either_email": {
-        "string": "ユーザーはどのメールアドレスも所有していません"
+        "string": "用户不拥有任一电子邮件地址"
     },
     "community.sinatra.profiles.you_do_not_have_permissions_for_this_profile": {
-        "string": "このプロフィールの権限がありません"
+        "string": "您没有此配置文件的权限"
     },
     "community.sinatra.profiles.you_must_validate_your_email_first": {
-        "string": "最初にメールを検証する必要があります。"
+        "string": "您必须先验证您的电子邮件。"
     },
     "community.sinatra.promo_codes.email_already_exists": {
-        "string": "このリソースにはすでにメールが存在します。"
+        "string": "此资源中已存在电子邮件。"
     },
     "community.sinatra.promo_codes.email_not_valid": {
-        "string": "メールが無効です。"
+        "string": "电子邮件无效。"
     },
     "community.sinatra.promo_codes.not_found": {
-        "string": "プロモーションコードが見つかりません"
+        "string": "找不到促销代码"
     },
     "community.sinatra.promo_codes.used": {
-        "string": "プロモーションコードが既に使用されています"
+        "string": "促销代码已被使用"
     },
     "community.sinatra.publishers.user_cannot_accept_a_publishing_invite_without_a_public_profile": {
-        "string": "ユーザーは公開プロフィールなしで公開招待に応じることはできません"
+        "string": "用户没有公开配置文件，不能接受发布邀请"
     },
     "community.sinatra.resource_usage.user_already_used_this_resource": {
-        "string": "ユーザーが既にこのリソースを利用しています"
+        "string": "用户已使用此资源"
     },
     "community.sinatra.resources.feed_price_filter": {
-        "string": "価格は「すべて」または「有料」、「無料」にします。"
+        "string": "价格应为“所有”或“付费”、“免费”。"
     },
     "community.sinatra.resources.not_found": {
-        "string": "リソースが見つかりません"
+        "string": "找不到资源"
     },
     "community.sinatra.resources.orgs_cannot_publish_paid_resources": {
-        "string": "組織は有料リソースを公開できません。"
+        "string": "组织不能发布付费资源。"
     },
     "community.sinatra.resources.teams_cannot_publish_paid_resources": {
-        "string": "チームは有料リソースを公開できません。"
+        "string": "团队不能发布付费资源。"
     },
     "community.sinatra.resources.type_filter": {
-        "string": "タイプは「コメント」または「評価」でなければなりません。"
+        "string": "类型应为“评论”或“评分”。"
     },
     "community.sinatra.search.invalid_search_query_length": {
-        "string": "検索条件が長すぎます"
+        "string": "搜索查询过长"
     },
     "community.sinatra.seller.cannot_sell_on_community": {
-        "string": "コミュニティでリソースを販売する権限がありません"
+        "string": "没有权限在社区出售资源"
     },
     "community.sinatra.seller.only_accepted_publishers_can_publish_a_paid_resource": {
-        "string": "有料リソースを公開できるのは、承認された公開者だけです"
+        "string": "只有被接受的发布者可以发布付费资源"
     },
     "community.sinatra.seller.paid_resource_configurations_cannot_be_updated": {
-        "string": "有料リソースの設定を更新することはできません"
+        "string": "不能更新付费资源的配置"
     },
     "community.sinatra.seller.paid_resources_cannot_be_unpublished": {
-        "string": "現時点では、有料リソースを非公開にできません。support@figma.comまでお問い合わせください。"
+        "string": "目前不能取消发布付费资源。请联系support@figma.com。"
     },
     "community.sinatra.seller.paid_resources_cannot_be_updated_to_be_published_privately": {
-        "string": "プライベートでの公開用に有料リソースを更新することはできません"
+        "string": "不能将付费资源更新为私人发布"
     },
     "community.sinatra.seller.private_resources_cannot_be_monetized": {
-        "string": "プライベートリソースは有料化できません"
+        "string": "不能将私人资源货币化"
     },
     "community.sinatra.setting_already_exists_for_user": {
-        "string": "ユーザーの設定は既に存在しています。"
+        "string": "用户的设置已存在。"
     },
     "community.sinatra.tags.tag_is_invalid_word": {
-        "string": "{tag}は無効なワードです"
+        "string": "{tag}是无效词"
     },
     "design_systems.component_properties.cycle_causes_ref_deletion": {
-        "string": "コンポーネントのプロパティリンクが削除されました。コンポーネントにそれ自体のインスタンスを含めることはできません"
+        "string": "组件的属性链接被删除。组件不能包含它自己的实例"
     },
     "desktop_open_views.open_in_desktop_from_now_on_modal.visual_bell": {
-        "string": "今後はリンクがデスクトップアプリで開きます"
+        "string": "此后链接将在桌面应用程序中打开"
     },
     "dev_handoff.visual_bell.annotations_removed_count": {
-        "string": "{count, plural, other {{count}個のアノテーションが削除されました}}"
+        "string": "已删除{count}个注释"
     },
     "favorited_resources.require_file_view_access_error": {
-        "string": "このファイルを表示する権限がありません。"
+        "string": "您没有查看此文件的权限。"
     },
     "file_browser.destination_project_invalid": {
-        "string": "宛先プロジェクトが無効です"
+        "string": "目标项目无效"
     },
     "file_browser.file_browser_actions.favoriting_error": {
-        "string": "このチームをお気に入りに追加しているときにエラーが発生しました"
+        "string": "将此团队添加到收藏夹时出错"
     },
     "file_browser.file_import_view.import_files": {
-        "string": "ファイルをインポート"
+        "string": "导入文件"
     },
     "file_browser.published_file_move_error": {
-        "string": "チームがコミュニティハブに公開したファイルをそのチームの外部に移動することはできません。"
+        "string": "不能将团队在社区中心发布的文件移出该团队。"
     },
     "file_browser.published_file_move_secret_team_error": {
-        "string": "コミュニティハブに公開されたファイルをシークレットチームに移動することはできません。"
+        "string": "不能将发布在社区中心的文件移入秘密团队。"
     },
     "file_browser.published_monetized_file_move_by_not_owner_error": {
-        "string": "チームがコミュニティハブに公開したファイルをそのチームの外部に移動することはできません。"
+        "string": "不能将团队在社区中心发布的文件移出该团队。"
     },
     "file_browser.sinatra.file_unavailable": {
-        "string": "このファイルは使用できません"
+        "string": "此文件不可用"
     },
     "agenda.default_agenda_item_title": {
-        "string": "アジェンダの項目"
+        "string": "议程项目"
     },
     "collaboration.feedback.compare_changes_affected_label": {
-        "string": "影響あり"
+        "string": "受影响"
     },
     "collaboration.feedback.compare_changes_created_label": {
-        "string": "追加済み"
+        "string": "已创建"
     },
     "collaboration.feedback.compare_changes_edited_label": {
-        "string": "編集済み"
+        "string": "已编辑"
     },
     "fullscreen.android_code_gen.multiple_dropshadows_not_supported": {
-        "string": "警告: 複数のドロップシャドウエフェクトを使用することはできません。最後に表示されていたエフェクトがエレベーションとして使用されます。"
+        "string": "警告: 不支持多个投影效果。最后显示的效果将用作提升。"
     },
     "fullscreen.android_code_gen.translation_y": {
-        "string": "translationYは、テキストの行間の調整を補正します"
+        "string": "translationY补偿文本行间距调整"
     },
     "fullscreen.arc_tool.arc": {
-        "string": "円弧"
+        "string": "弧"
     },
     "fullscreen.arc_tool.ratio": {
         "string": "比率{number}%"
     },
     "fullscreen.arc_tool.start_s": {
-        "string": "開始角{number}°"
+        "string": "起始角{number}°"
     },
     "fullscreen.arc_tool.sweep_s": {
-        "string": "スイープ{number}%"
+        "string": "扫过{number}%"
     },
     "fullscreen.canvas.add_variant": {
-        "string": "バリアントを追加"
+        "string": "添加变体"
     },
     "fullscreen.canvas.auto_layout": {
-        "string": "オートレイアウト"
+        "string": "自动布局"
     }
 }

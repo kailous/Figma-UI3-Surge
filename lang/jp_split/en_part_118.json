@@ -1,152 +1,152 @@
 {
     "fullscreen.pages_panel.all_n_free_pages_used": {
-        "string": "無料の{maxFreePages}ページはすべて使用済みです。"
+        "string": "已使用所有{maxFreePages}个免费页面。"
     },
     "fullscreen.pages_panel.assets_tab": {
-        "string": "アセット"
+        "string": "资源"
     },
     "fullscreen.pages_panel.design_page": {
-        "string": "デザインページ"
+        "string": "设计页面"
     },
     "fullscreen.pages_panel.figjam_page": {
-        "string": "FigJamページ"
+        "string": "FigJam页面"
     },
     "fullscreen.pages_panel.file_tab": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "fullscreen.pages_panel.get_unlimited_pages_and_more": {
-        "string": "無制限のページ、その他を入手"
+        "string": "获取无限页面及更多"
     },
     "fullscreen.pages_panel.layers_tab": {
-        "string": "レイヤー"
+        "string": "图层"
     },
     "fullscreen.pages_panel.memory_usage": {
-        "string": "メモリ使用量"
+        "string": "内存使用量"
     },
     "fullscreen.pages_panel.memory_usage_almost_out_of_memory": {
-        "string": "利用可能なメモリーがほとんどありません"
+        "string": "可用内存几乎用完"
     },
     "fullscreen.pages_panel.memory_usage_error_contact_file_owner": {
-        "string": "オーナーに連絡してください。メモリーの使用量を管理するには、編集権限が必要です。"
+        "string": "请联系所有者。管理内存使用量需要编辑权限。"
     },
     "fullscreen.pages_panel.memory_usage_error_edit_view_version_history": {
-        "string": "現在のバージョンに戻り、メモリーの使用量を減らしてください。ファイルにアクセスできなくなる可能性があります。"
+        "string": "请恢复到当前版本以减少内存使用量。文件可能会失去访问权限。"
     },
     "fullscreen.pages_panel.memory_usage_learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "fullscreen.pages_panel.memory_usage_memory_running_low": {
-        "string": "メモリーが残り少なくなっています"
+        "string": "内存不足"
     },
     "fullscreen.pages_panel.memory_usage_read_only_view_version_history": {
-        "string": "このファイルのメモリー使用量を管理するには、編集権限が必要です。"
+        "string": "管理此文件的内存使用量需要编辑权限。"
     },
     "fullscreen.pages_panel.memory_usage_recovery_mode_exit": {
-        "string": "復元モードを終了"
+        "string": "退出恢复模式"
     },
     "fullscreen.pages_panel.memory_usage_recovery_mode_high": {
-        "string": "復元モード"
+        "string": "恢复模式"
     },
     "fullscreen.pages_panel.memory_usage_recovery_mode_high_content": {
-        "string": "不要なレイヤーとコンポーネントを削除してファイルのメモリー使用率を削減します。"
+        "string": "删除不必要的图层和组件以减少文件的内存使用量。"
     },
     "fullscreen.pages_panel.memory_usage_recovery_mode_low": {
-        "string": "準備ができました"
+        "string": "准备就绪"
     },
     "fullscreen.pages_panel.memory_usage_recovery_mode_low_content": {
-        "string": "このファイルをスムーズに実行するための十分なメモリーが確保されました。復元モードを終了できます。"
+        "string": "已腾出足够的内存以顺利运行此文件。您可以退出恢复模式。"
     },
     "fullscreen.pages_panel.memory_usage_this_file_has_enough_memory": {
-        "string": "十分なメモリがあるため、このファイルをスムーズに実行できます。このパネルを閉じることができます。"
+        "string": "已腾出足够的内存以顺利运行此文件。您可以关闭此面板。"
     },
     "fullscreen.pages_panel.memory_usage_to_avoid_losing_file_access": {
-        "string": "ファイルへのアクセスを失わないために、一部のページを別のファイルに移動するか、不要なコンテンツを削除してください。"
+        "string": "为避免失去文件访问权限，请将部分页面移至其他文件或删除不必要的内容。"
     },
     "fullscreen.pages_panel.memory_usage_try_removing_unneeded_content": {
-        "string": "不要なコンテンツを削除して利用可能なメモリー領域を増やし、作業が円滑に進むようにしてください。"
+        "string": "删除不必要的内容以增加可用内存空间，从而顺利进行工作。"
     },
     "fullscreen.pages_panel.memory_usage_warning_edit_access_needed": {
-        "string": "このファイルのメモリー使用量を減らすには、編集権限が必要です。"
+        "string": "减少此文件的内存使用量需要编辑权限。"
     },
     "fullscreen.pages_panel.memory_usage_warning_edit_view_version_history": {
-        "string": "メモリーの空き容量を増やすには、このファイルの現在のバージョンに戻ってください。"
+        "string": "请恢复到当前版本以增加内存空闲空间。"
     },
     "fullscreen.pages_panel.memory_usage_youre_good_to_go": {
-        "string": "準備ができました"
+        "string": "准备就绪"
     },
     "fullscreen.pages_panel.n_free_pages_left": {
-        "string": "{ numPagesRemaining, plural, other {無料の{numPagesRemaining}ページが残っています。} }"
+        "string": "剩余{numPagesRemaining}个免费页面。"
     },
     "fullscreen.pages_panel.page_dropdown_new": {
-        "string": "新規"
+        "string": "新建"
     },
     "fullscreen.pages_panel.pages": {
-        "string": "ページ"
+        "string": "页面"
     },
     "fullscreen.pages_panel.resources_tab": {
-        "string": "挿入"
+        "string": "资源"
     },
     "fullscreen.pages_panel.see_plans_that_offer_more": {
-        "string": "より多くのリソースを利用できるプランを見る"
+        "string": "查看提供更多资源的计划"
     },
     "fullscreen.pages_panel.slide_deck": {
-        "string": "スライドデッキ"
+        "string": "幻灯片"
     },
     "fullscreen.pages_panel.unavailable_offline": {
-        "string": "オフライン - ページを利用できません"
+        "string": "离线 - 无法使用页面"
     },
     "fullscreen.pencil_tool.advanced_stroke_settings": {
-        "string": "線の詳細設定"
+        "string": "高级线条设置"
     },
     "fullscreen.pencil_tool.hold_shift_to_draw_straight_lines": {
-        "string": "Shiftキーを押しながら直線を描画"
+        "string": "按住Shift键以画直线"
     },
     "fullscreen.pencil_tool.now_vertical_horizontal_and_diagonal_lines_are_a_breeze": {
-        "string": "縦線、横線、対角線を簡単に描画できます。"
+        "string": "现在可以轻松绘制垂直、水平和对角线。"
     },
     "fullscreen.pencil_tool.stroke": {
-        "string": "線"
+        "string": "线条"
     },
     "fullscreen.plugins.background": {
-        "string": "{plugin}がバックグラウンドで実行されています"
+        "string": "{plugin}正在后台运行"
     },
     "fullscreen.plugins.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "fullscreen.plugins.inserting": {
-        "string": "{plugin}を挿入しています"
+        "string": "正在插入{plugin}"
     },
     "fullscreen.plugins.running": {
-        "string": "{plugin}を実行しています"
+        "string": "正在运行{plugin}"
     },
     "fullscreen.plugins.stop": {
         "string": "停止"
     },
     "fullscreen.plugins.stopped": {
-        "string": "{plugin}の実行を停止しました。"
+        "string": "已停止运行{plugin}。"
     },
     "fullscreen.plugins_menu.import_plugin_from_manifest": {
-        "string": "マニフェストからプラグインをインポート…"
+        "string": "从清单导入插件…"
     },
     "fullscreen.plugins_menu.import_widget_from_manifest": {
-        "string": "マニフェストからウィジェットをインポート…"
+        "string": "从清单导入小部件…"
     },
     "fullscreen.plugins_menu.new_plugin": {
-        "string": "プラグインの新規作成..."
+        "string": "新建插件…"
     },
     "fullscreen.plugins_menu.new_widget": {
-        "string": "ウィジェットの新規作成..."
+        "string": "新建小部件…"
     },
     "fullscreen.plugins_menu.open_directory_mac": {
-        "string": "Finderで表示"
+        "string": "在Finder中显示"
     },
     "fullscreen.plugins_menu.open_directory_vscode": {
-        "string": "VS Codeで開く"
+        "string": "在VS Code中打开"
     },
     "fullscreen.plugins_menu.open_directory_win": {
-        "string": "エクスプローラーで表示"
+        "string": "在资源管理器中显示"
     },
     "fullscreen.pro_trial_upsell_modal.cta_text": {
-        "string": "今すぐアップグレード"
+        "string": "立即升级"
     }
 }
