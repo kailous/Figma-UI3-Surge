@@ -3,150 +3,150 @@
         "string": "@{communityProfileHandle}"
     },
     "file_browser.team_settings.team_name": {
-        "string": "チーム名"
+        "string": "团队名称"
     },
     "file_browser.team_settings.transfer": {
-        "string": "移転"
+        "string": "转移"
     },
     "file_browser.team_settings.transfer_team": {
-        "string": "チームを移転"
+        "string": "转移团队"
     },
     "file_browser.team_settings.transfer_team_link_to_an_external_organization": {
-        "string": "外部組織に{transferTeamLink}"
+        "string": "转移到外部组织{transferTeamLink}"
     },
     "file_browser.team_settings.view_team_figjam_palettes": {
-        "string": "チームのFigJamパレットを表示"
+        "string": "查看团队FigJam调色板"
     },
     "file_browser.team_settings.view_team_fonts": {
-        "string": "チームのフォントを表示"
+        "string": "查看团队字体"
     },
     "file_browser.team_settings.view_team_libraries": {
-        "string": "チームのライブラリを表示"
+        "string": "查看团队库"
     },
     "file_browser.team_settings_modal.admin_console_billing_button": {
-        "string": "請求に移動"
+        "string": "前往计费"
     },
     "file_browser.team_settings_modal.admin_console_billing_nudge": {
-        "string": "ご利用のプラン、請求の詳細、その他を管理します。"
+        "string": "管理您的计划、计费详情等。"
     },
     "file_browser.team_settings_modal.community_profile": {
-        "string": "コミュニティプロフィール"
+        "string": "社区个人资料"
     },
     "file_browser.team_settings_modal.libraries": {
-        "string": "ライブラリ"
+        "string": "库"
     },
     "file_browser.team_settings_modal.members_tab": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "file_browser.team_settings_modal.members_tab_header": {
-        "string": "{numMembers, plural, other { · #人のメンバー}}"
+        "string": "{numMembers, plural, other { · # 位成员}}"
     },
     "file_browser.team_settings_modal.settings_tab": {
-        "string": "設定"
+        "string": "设置"
     },
     "file_browser.team_settings_modal.upgrade": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "file_browser.team_settings_modal.upgrade_to_organization": {
-        "string": "ビジネスにアップグレードすると、チーム横断型デザインライブラリ、SSO、管理者コントロールを利用できます。"
+        "string": "升级到业务版以访问跨团队设计库、SSO和管理员控制。"
     },
     "file_browser.team_tiles.private_team_tooltip": {
-        "string": "限定チーム · メンバーのみがこのチームのコンテンツを閲覧できます。"
+        "string": "私密团队 · 只有成员可以查看此团队内容。"
     },
     "file_browser.team_tiles.secret_team_tooltip": {
-        "string": "シークレットチーム · メンバーまたは招待されたユーザーのみに見えます。"
+        "string": "秘密团队 · 仅对成员或被邀请用户可见。"
     },
     "file_browser.teams": {
-        "string": "チーム"
+        "string": "团队"
     },
     "file_browser.templates_shelf.search_tooltip": {
-        "string": "すべてのテンプレートから検索"
+        "string": "从所有模板中搜索"
     },
     "file_browser.templates_shelf.see_all": {
-        "string": "すべてのテンプレート"
+        "string": "查看所有模板"
     },
     "file_browser.templates_shelf.see_more": {
-        "string": "その他のテンプレート"
+        "string": "查看更多模板"
     },
     "file_browser.templates_shelf.title": {
-        "string": "FigJamテンプレート"
+        "string": "FigJam模板"
     },
     "file_browser.this_team": {
-        "string": "このチーム"
+        "string": "此团队"
     },
     "file_browser.tool_bar.create_new": {
-        "string": "新規作成"
+        "string": "新建"
     },
     "file_browser.tool_bar.create_new_design_file_in": {
-        "string": "場所を指定してデザインファイルを新規作成..."
+        "string": "在指定位置新建设计文件..."
     },
     "file_browser.tool_bar.create_new_figjam_board_in": {
-        "string": "場所を指定してFigJamボードを新規作成..."
+        "string": "在指定位置新建FigJam看板..."
     },
     "file_browser.tool_bar.create_new_slide_deck_in": {
-        "string": "場所を指定してスライドデッキを新規作成..."
+        "string": "在指定位置新建幻灯片..."
     },
     "file_browser.tool_bar.deleted": {
-        "string": "削除済み"
+        "string": "已删除"
     },
     "file_browser.tool_bar.deleted.aria_label": {
-        "string": "削除済みタブ"
+        "string": "已删除标签"
     },
     "file_browser.tool_bar.deleted_empty_state": {
-        "string": "削除済みのファイルはありません。"
+        "string": "没有已删除的文件。"
     },
     "file_browser.tool_bar.drafts": {
-        "string": "下書き"
+        "string": "草稿"
     },
     "file_browser.tool_bar.drafts.aria_label": {
-        "string": "ドラフトタブ"
+        "string": "草稿标签"
     },
     "file_browser.tool_bar.drafts_to_move": {
-        "string": "移動が必要なドラフト"
+        "string": "需要移动的草稿"
     },
     "file_browser.tool_bar.file_creation_dropdown_display_text": {
-        "string": "チームプロジェクトリスト"
+        "string": "团队项目列表"
     },
     "file_browser.tool_bar.new": {
-        "string": "新規作成"
+        "string": "新建"
     },
     "file_browser.tool_bar.new_design_file": {
-        "string": "デザインファイル"
+        "string": "设计文件"
     },
     "file_browser.tool_bar.new_figjam_board": {
-        "string": "FigJamボード"
+        "string": "FigJam看板"
     },
     "file_browser.tool_bar.new_slide_deck": {
-        "string": "スライド"
+        "string": "幻灯片"
     },
     "file_browser.tool_bar.recently_viewed_empty_state": {
-        "string": "最近表示したファイルがここに表示されます。"
+        "string": "最近查看的文件将显示在此处。"
     },
     "file_browser.tool_bar.recents": {
         "string": "最近"
     },
     "file_browser.tool_bar.request_sent": {
-        "string": "申請中"
+        "string": "请求已发送"
     },
     "file_browser.tool_bar.request_sent_tooltip": {
-        "string": "{editorString}のフルシートを申請中です"
+        "string": "已请求{editorString}的完整席位"
     },
     "file_browser.tool_bar.request_sent_tooltip_figjam": {
         "string": "FigJam"
     },
     "file_browser.tool_bar.request_sent_tooltip_figma_design": {
-        "string": "Figmaデザイン"
+        "string": "Figma设计"
     },
     "file_browser.tool_bar.request_sent_tooltip_figma_design_and_figjam": {
-        "string": "FigmaデザインとFigJam"
+        "string": "Figma设计和FigJam"
     },
     "file_browser.tool_bar.see_all_editable_projects": {
-        "string": "{numberOfEditableProjects}件のプロジェクトをすべて表示"
+        "string": "查看所有{numberOfEditableProjects}个可编辑项目"
     },
     "file_browser.tool_bar.trash": {
-        "string": "ごみ箱"
+        "string": "垃圾箱"
     },
     "file_browser.unavailable_view_resource": {
-        "string": "リソース"
+        "string": "资源不可用"
     }
 }

@@ -1,152 +1,152 @@
 {
     "browse_templates_modal.search_templates": {
-        "string": "テンプレートを検索"
+        "string": "搜索模板"
     },
     "browse_templates_modal.see_all": {
-        "string": "すべて表示"
+        "string": "查看全部"
     },
     "browse_templates_modal.see_more_details_in_community": {
-        "string": "コミュニティで詳細を確認する"
+        "string": "在社区查看详细信息"
     },
     "browse_templates_modal.subcategory.activity": {
-        "string": "アクティビティ別"
+        "string": "按活动"
     },
     "browse_templates_modal.subcategory.role": {
-        "string": "役割別"
+        "string": "按角色"
     },
     "browse_templates_modal.use_template": {
-        "string": "テンプレートを使用"
+        "string": "使用模板"
     },
     "browse_templates_modal.view_details": {
-        "string": "詳細を表示"
+        "string": "查看详情"
     },
     "browse_templates_modal_content.see_more_in_community": {
-        "string": "コミュニティで詳細を表示する"
+        "string": "在社区查看更多"
     },
     "browse_templates_modal_sidebar.get_started": {
-        "string": "開始"
+        "string": "开始"
     },
     "browse_templates_modal_sidebar.see_more_in_community": {
-        "string": "コミュニティで詳細を表示する"
+        "string": "在社区查看更多"
     },
     "figjam_try.already_claimed_modal.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "figjam_try.already_claimed_modal.description": {
-        "string": "現時点で、まだこのファイルにアクセスできます。アカウントにコピーを追加するには、{file_duplicate}を実行してください。"
+        "string": "您仍然可以访问此文件。要将副本添加到您的帐户，请{file_duplicate}。"
     },
     "figjam_try.already_claimed_modal.file_duplicate": {
-        "string": "[ファイル名]→[複製]"
+        "string": "[文件名] → [复制]"
     },
     "figjam_try.already_claimed_modal.header": {
-        "string": "このボードは、すでにほかのユーザーのアカウントに保存されたようです。"
+        "string": "此看板已被其他用户保存到其帐户中。"
     },
     "figjam_try.already_have_an_account": {
-        "string": "アカウントを既にお持ちですか? {log_in}"
+        "string": "已经有账户了吗? {log_in}"
     },
     "figjam_try.already_have_an_account_log_in": {
-        "string": "ログイン"
+        "string": "登录"
     },
     "figjam_try.claim_banner_title_1_hour_or_less": {
-        "string": "ジャムセッションの残り時間は1時間未満です"
+        "string": "Jam会话剩余时间不到1小时"
     },
     "figjam_try.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "figjam_try.default_filename": {
-        "string": "{userName}のボード"
+        "string": "{userName}的看板"
     },
     "figjam_try.drafts_banner_description": {
-        "string": "他のユーザーが作業を続けられるようにするため、このファイルをドラフトフォルダから移動してください。"
+        "string": "为了让其他人继续工作，请将此文件从草稿文件夹中移出。"
     },
     "figjam_try.drafts_banner_title_1_hour_or_less": {
-        "string": "他のユーザーが編集できるのはあと1時間です"
+        "string": "其他用户可以编辑的时间还剩不到1小时"
     },
     "figjam_try.drafts_banner_title_more_time": {
-        "string": "他のユーザーが編集できるのはあと{num_hours}時間です。"
+        "string": "其他用户可以编辑的时间还剩{num_hours}小时。"
     },
     "figjam_try.failed_to_create_file": {
-        "string": "ファイルの作成に失敗しました"
+        "string": "创建文件失败"
     },
     "figjam_try.google_meet_user_name": {
-        "string": "Googleデバイス"
+        "string": "Google设备"
     },
     "figjam_try.link_copied": {
-        "string": "リンクがコピーされました"
+        "string": "链接已复制"
     },
     "figjam_try.meet_hardware.board_deletion_disclaimer": {
-        "string": "その後、このボードは削除されます。"
+        "string": "之后，此看板将被删除。"
     },
     "figjam_try.meet_hardware.timer_hours_left": {
-        "string": "{hoursLeft, plural, other {{hoursLeft, number, integer}時間後に保存されます}}"
+        "string": "{hoursLeft, plural, other {将在{hoursLeft, number, integer}小时后保存}}"
     },
     "figjam_try.meet_hardware.timer_less_than_ten_minutes_left": {
-        "string": "10分以内に保存されます。"
+        "string": "将在10分钟内保存。"
     },
     "figjam_try.meet_hardware.timer_minutes_left": {
-        "string": "{minutesLeft, plural, other {{minutesLeft, number, integer}分後に保存されます}}"
+        "string": "{minutesLeft, plural, other {将在{minutesLeft, number, integer}分钟后保存}}"
     },
     "figjam_try.move_file": {
-        "string": "ファイルを移動"
+        "string": "移动文件"
     },
     "figjam_try.name_input_placeholder": {
-        "string": "例: Nathalie"
+        "string": "例如：Nathalie"
     },
     "figjam_try.onboarding_disclaimer": {
-        "string": "[続行]をクリックすると、当社の{tos}および{privacy_policy}に同意したことになります"
+        "string": "点击[继续]即表示您同意我们的{tos}和{privacy_policy}"
     },
     "figjam_try.onboarding_disclaimer_privacy_policy": {
-        "string": "プライバシーポリシー"
+        "string": "隐私政策"
     },
     "figjam_try.onboarding_disclaimer_tos": {
-        "string": "サービス利用規約"
+        "string": "服务条款"
     },
     "figjam_try.onboarding_name_validation_error": {
-        "string": "名前を入力してください"
+        "string": "请输入名字"
     },
     "figjam_try.onboarding_submit": {
-        "string": "続行"
+        "string": "继续"
     },
     "figjam_try.onboarding_subtext": {
-        "string": "優れたプランも、画期的なアイデアも、効率的なチームコラボレーションから生まれます。"
+        "string": "伟大的计划、突破性的创意都源自高效的团队协作。"
     },
     "figjam_try.onboarding_title": {
-        "string": "FigJamへようこそ"
+        "string": "欢迎使用FigJam"
     },
     "figjam_try.save_board": {
-        "string": "ボードを保存"
+        "string": "保存看板"
     },
     "figjam_try.save_modal.cta": {
-        "string": "ボードを保存"
+        "string": "保存看板"
     },
     "figjam_try.save_modal.file_duplicates": {
-        "string": "[ファイル名]→[複製]"
+        "string": "[文件名] → [复制]"
     },
     "figjam_try.save_modal.headline": {
-        "string": "よろしいですか?"
+        "string": "准备好了吗?"
     },
     "figjam_try.save_modal.new_team": {
-        "string": "下のボタンをクリックしてください。このFigJamボードが新しいチームに保存されます。"
+        "string": "点击下面的按钮将此FigJam看板保存到新团队中。"
     },
     "figjam_try.save_modal.save_one_team": {
-        "string": "このボードは1つのアカウントにのみ保存されますが、ボードを複製({file_duplicate})するか、リンクを{share}することによって、ほかのユーザーによるアクセスを許可することができます。"
+        "string": "此看板将仅保存到一个帐户中，但您可以通过{file_duplicate}或{share}链接允许其他人访问。"
     },
     "figjam_try.save_modal.share": {
-        "string": "共有"
+        "string": "分享"
     },
     "figjam_try.share_link_modal.cta": {
-        "string": "無料アカウントを作成する"
+        "string": "创建免费账户"
     },
     "figjam_try.share_link_modal.cta_description": {
-        "string": "このボードの閲覧のみのユーザーと編集できるユーザーを管理したいですか?"
+        "string": "想要管理只能查看此看板的用户和可以编辑的用户吗?"
     },
     "figjam_try.share_link_modal.title": {
-        "string": "このリンクを共有して他のユーザーと作業"
+        "string": "分享此链接以与他人协作"
     },
     "figjam_try.template_creation_failed": {
-        "string": "テンプレートを複製できません"
+        "string": "无法复制模板"
     },
     "figjam_try.this_file_has_been_saved_to_drafts": {
-        "string": "ドラフトに保存しました"
+        "string": "文件已保存到草稿"
     }
 }

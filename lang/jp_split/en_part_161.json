@@ -1,152 +1,152 @@
 {
     "file_browser.file_browser_actions.files_deleted_forever": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイルが完全に削除されました}}"
+        "string": "{numFiles, plural, other {{numFiles}个文件已被永久删除}}"
     },
     "file_browser.file_browser_actions.files_restored_success": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイルが復元されました}}"
+        "string": "{numFiles, plural, other {{numFiles}个文件已恢复}}"
     },
     "file_browser.file_browser_actions.files_trashed": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイルがごみ箱に移動しました}}"
+        "string": "{numFiles, plural, other {{numFiles}个文件已移至垃圾桶}}"
     },
     "file_browser.file_browser_actions.logout_error_with_email": {
-        "string": "{emailAddress}のログアウト中にエラーが発生しました。"
+        "string": "注销{emailAddress}时发生错误。"
     },
     "file_browser.file_browser_actions.logout_error_without_email": {
-        "string": "ログアウト中にエラーが発生しました"
+        "string": "注销时发生错误"
     },
     "file_browser.file_browser_actions.must_be_online_to_save_version": {
-        "string": "このバージョンを保存するにはオンラインになっている必要があります。"
+        "string": "保存此版本时必须在线。"
     },
     "file_browser.file_browser_actions.recently_viewed_error": {
-        "string": "{numFiles, plural, other {[最近表示したファイル] からこれらのファイルを削除しているときにエラーが発生しました。}}"
+        "string": "{numFiles, plural, other {从[最近查看的文件]中删除这些文件时发生错误。}}"
     },
     "file_browser.file_browser_actions.remove_files_from_project_permission": {
-        "string": "{projectName}からファイルを削除する権限がありません"
+        "string": "您没有权限从{projectName}中删除文件"
     },
     "file_browser.file_browser_actions.remove_files_from_this_project_permission": {
-        "string": "このプロジェクトからファイルを削除する権限がありません"
+        "string": "您没有权限从此项目中删除文件"
     },
     "file_browser.file_browser_actions.restore_team_error": {
-        "string": "チームを復元できませんでした: {errorMsg}"
+        "string": "无法恢复团队：{errorMsg}"
     },
     "file_browser.file_browser_actions.restore_team_success": {
-        "string": "チームが復元されました。"
+        "string": "团队已恢复。"
     },
     "file_browser.file_browser_actions.successfully_logged_out": {
-        "string": "{emailAddress}からログアウトしました"
+        "string": "已从{emailAddress}注销"
     },
     "file_browser.file_browser_actions.team_member_fetch_error": {
-        "string": "チームメンバーリストの取得中にエラーが発生しました。しばらくしてから、もう一度お試しください。"
+        "string": "获取团队成员列表时发生错误，请稍后重试。"
     },
     "file_browser.file_browser_actions.team_update_error": {
-        "string": "設定を更新できません"
+        "string": "无法更新设置"
     },
     "file_browser.file_browser_actions.thumbnail_set": {
-        "string": "サムネイルセット"
+        "string": "缩略图已设置"
     },
     "file_browser.file_browser_actions.unknown_error": {
-        "string": "不明なエラー"
+        "string": "未知错误"
     },
     "file_browser.file_browser_actions.update_description_error": {
-        "string": "説明を更新できません"
+        "string": "无法更新描述"
     },
     "file_browser.file_browser_actions.update_project_error": {
-        "string": "このプロジェクトの更新中にエラーが発生しました。"
+        "string": "更新此项目时发生错误。"
     },
     "file_browser.file_browser_actions.update_subscription_error": {
-        "string": "説明を更新できません"
+        "string": "无法更新描述"
     },
     "file_browser.file_browser_actions.version_restore_error": {
-        "string": "このバージョンの復元中にエラーが発生しました。"
+        "string": "恢复此版本时发生错误。"
     },
     "file_browser.file_browser_actions.version_update_error": {
-        "string": "このバージョンの更新中にエラーが発生しました。"
+        "string": "更新此版本时发生错误。"
     },
     "file_browser.file_import_view.add_from_jamboard": {
-        "string": "Jamboardファイルを追加"
+        "string": "从Jamboard添加文件"
     },
     "file_browser.file_import_view.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "file_browser.file_import_view.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "file_browser.file_import_view.failed_to_retrieve_file": {
-        "string": "Google Driveからファイルを取得できません"
+        "string": "无法从Google Drive检索文件"
     },
     "file_browser.file_import_view.file_import_cancel": {
-        "string": "インポートがキャンセルされました。"
+        "string": "导入已取消。"
     },
     "file_browser.file_import_view.file_import_failure_all": {
-        "string": "{failedFiles, plural, other {ファイルをインポートできません。}}"
+        "string": "{failedFiles, plural, other {无法导入文件。}}"
     },
     "file_browser.file_import_view.file_import_failure_partial": {
-        "string": "インポートできないファイルがあります。"
+        "string": "某些文件无法导入。"
     },
     "file_browser.file_import_view.file_import_partial_success": {
-        "string": "{totalFiles}個中{importedFiles}個のファイルがインポートされました"
+        "string": "{totalFiles}个文件中已导入{importedFiles}个"
     },
     "file_browser.file_import_view.file_import_progress": {
-        "string": "{totalFiles}個中の{processedFiles}個のファイル"
+        "string": "{totalFiles}个文件中的{processedFiles}个"
     },
     "file_browser.file_import_view.file_import_success": {
-        "string": "{totalFiles, plural, other {{totalFiles}個のファイルが正常にインポートされました}}"
+        "string": "{totalFiles, plural, other {{totalFiles}个文件已成功导入}}"
     },
     "file_browser.file_import_view.file_row_import_cancel": {
-        "string": "キャンセルされました"
+        "string": "已取消"
     },
     "file_browser.file_import_view.google_drive_access_expired": {
-        "string": "Google Driveへのアクセス期限が切れています。もう一度インポートしてみてください"
+        "string": "Google Drive访问权限已过期，请重试导入"
     },
     "file_browser.file_import_view.google_picker_select_files_title": {
-        "string": "インポートするファイルを選択"
+        "string": "选择要导入的文件"
     },
     "file_browser.file_import_view.import": {
-        "string": "インポート"
+        "string": "导入"
     },
     "file_browser.file_import_view.import_description": {
-        "string": "画像、Sketchファイル、LucidやMiro、MuralからエクスポートしたPDFをインポートします。"
+        "string": "导入图像、Sketch文件以及从Lucid、Miro和Mural导出的PDF。"
     },
     "file_browser.file_import_view.import_from_computer": {
-        "string": "コンピューターからインポート"
+        "string": "从计算机导入"
     },
     "file_browser.file_import_view.import_header": {
-        "string": "作品をFigmaやFigJamに取り組む"
+        "string": "将您的作品导入Figma和FigJam"
     },
     "file_browser.file_import_view.import_to_folder": {
-        "string": "{folderName}にインポートしています"
+        "string": "导入到{folderName}"
     },
     "file_browser.file_import_view.next": {
-        "string": "次へ"
+        "string": "下一步"
     },
     "file_browser.file_import_view.open_a_new_tab_link": {
-        "string": "新しいタブを開きます"
+        "string": "打开新标签"
     },
     "file_browser.file_import_view.select_pdf_source_description": {
-        "string": "{pdfCount, plural, other {1つ選択してください。PDFをより正確にFigJamファイルに変換できるようになります。より良い結果を得るために、PDFのインポートは作成元の製品ごとに分けて行ってください。}}"
+        "string": "{pdfCount, plural, other {选择一个选项以准确转换PDF为FigJam文件。为了获得更好的结果，请按创建产品分别导入PDF。}}"
     },
     "file_browser.file_import_view.select_pdf_source_description_within_figjam": {
-        "string": "{pdfCount, plural, other {1つ選択してください。PDFをより正確に変換できるようになります。より良い結果を得るために、PDFのインポートは作成元の製品ごとに分けて行ってください。}}"
+        "string": "{pdfCount, plural, other {选择一个选项以准确转换PDF。为了获得更好的结果，请按创建产品分别导入PDF。}}"
     },
     "file_browser.file_import_view.select_pdf_source_header": {
-        "string": "ファイルの元はどれですか?"
+        "string": "文件来源是什么？"
     },
     "file_browser.file_import_view.select_pdf_source_input_legend": {
-        "string": "PDFの入手元"
+        "string": "PDF来源"
     },
     "file_browser.file_import_view.select_pdf_source_input_unknown_disclaimer": {
-        "string": "その他のPDFも追加できますが、正確にインポートされない場合があります。"
+        "string": "您可以添加其他PDF，但可能不会准确导入。"
     },
     "file_browser.file_import_view.select_pdf_source_input_unknown_value": {
-        "string": "その他"
+        "string": "其他"
     },
     "file_browser.file_import_view.to_continue_working": {
-        "string": "作業を続けるには、 {openANewTabLink}"
+        "string": "要继续工作，请{openANewTabLink}"
     },
     "file_browser.file_list_view.header_created_column": {
-        "string": "作成"
+        "string": "创建时间"
     },
     "file_browser.file_list_view.header_last_modified_column": {
-        "string": "最終更新"
+        "string": "最后修改时间"
     }
 }

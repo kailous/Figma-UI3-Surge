@@ -1,152 +1,152 @@
 {
     "file_browser.creation_buttons.bring_in_files": {
-        "string": "外部ファイルを取り込む"
+        "string": "导入外部文件"
     },
     "file_browser.creation_buttons.build_and_publish": {
-        "string": "構築と公開"
+        "string": "构建和发布"
     },
     "file_browser.creation_buttons.design_and_prototype": {
-        "string": "デザインとプロトタイプ"
+        "string": "设计和原型"
     },
     "file_browser.creation_buttons.disabled_by_organization": {
-        "string": "組織により無効にされています"
+        "string": "已被组织禁用"
     },
     "file_browser.creation_buttons.import": {
-        "string": "インポート"
+        "string": "导入"
     },
     "file_browser.creation_buttons.new_design_file": {
-        "string": "デザインファイルを新規作成"
+        "string": "新建设计文件"
     },
     "file_browser.creation_buttons.new_fig_jam_board": {
-        "string": "FigJamボードを新規作成"
+        "string": "新建FigJam看板"
     },
     "file_browser.creation_buttons.new_slide_deck": {
-        "string": "スライドデッキを新規作成"
+        "string": "新建幻灯片"
     },
     "file_browser.creation_buttons.new_website": {
-        "string": "Webサイトを新規作成"
+        "string": "新建网站"
     },
     "file_browser.creation_buttons.present_and_share": {
-        "string": "プレゼンテーションと共有"
+        "string": "展示和分享"
     },
     "file_browser.creation_buttons.whiteboard_and_jam": {
-        "string": "ホワイトボードと図表"
+        "string": "白板和图表"
     },
     "file_browser.delete_branch_forever.confirm_text": {
-        "string": "ブランチを完全に削除"
+        "string": "永久删除分支"
     },
     "file_browser.delete_branch_forever.title": {
-        "string": "ブランチを完全に削除しますか?"
+        "string": "确定要永久删除分支吗?"
     },
     "file_browser.delete_forever.warning": {
-        "string": "{fileName}を完全に削除してもよろしいですか?"
+        "string": "确定要永久删除{fileName}吗?"
     },
     "file_browser.delete_project.generic_confirm_label": {
-        "string": "プロジェクトを削除"
+        "string": "删除项目"
     },
     "file_browser.delete_project.generic_confirm_text": {
-        "string": "プロジェクト{folderName}とそのファイルが削除されます。プロジェクトは完全に削除されますが、ファイルは、ドラフトの[削除済み]タブから復元できます。"
+        "string": "项目{folderName}及其文件将被删除。项目将被永久删除，但文件可以从草稿的[已删除]标签恢复。"
     },
     "file_browser.delete_project.one_file_confirm_label": {
-        "string": "プロジェクトと1ファイルを削除"
+        "string": "删除项目和1个文件"
     },
     "file_browser.delete_project.one_file_confirm_text": {
-        "string": "プロジェクト{folderName}と1つのファイルが削除されます。プロジェクトは完全に削除されますが、ファイルは、ドラフトの[削除済み]タブから復元できます。"
+        "string": "项目{folderName}及一个文件将被删除。项目将被永久删除，但文件可以从草稿的[已删除]标签恢复。"
     },
     "file_browser.delete_project.plural_files_confirm_label": {
-        "string": "プロジェクトと{numFiles}ファイルを削除"
+        "string": "删除项目和{numFiles}个文件"
     },
     "file_browser.delete_project.plural_files_confirm_text": {
-        "string": "プロジェクト{folderName}とその{numFiles}ファイルがすべて削除されます。プロジェクトは完全に削除されますが、ファイルは、ドラフトの[削除済み]タブから復元できます。"
+        "string": "项目{folderName}及其{numFiles}个文件将被删除。项目将被永久删除，但文件可以从草稿的[已删除]标签恢复。"
     },
     "file_browser.delete_project.title": {
-        "string": "プロジェクトとファイルを削除"
+        "string": "删除项目和文件"
     },
     "file_browser.draft_delete_modal.async_delete_drafts_scheduled": {
-        "string": "個人のドラフトを削除しています"
+        "string": "正在删除个人草稿"
     },
     "file_browser.draft_delete_modal.async_delete_drafts_scheduled_error": {
-        "string": "個人のドラフトの削除中にエラーが発生しました"
+        "string": "删除个人草稿时出错"
     },
     "file_browser.draft_delete_modal.button_delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "file_browser.draft_delete_modal.button_delete_files": {
-        "string": "{numFiles, plural, other {ファイルを削除}}"
+        "string": "{numFiles, plural, other {删除文件}}"
     },
     "file_browser.draft_delete_modal.button_permanently_delete_files": {
-        "string": "{numFiles, plural, other {ファイルを完全に削除}}"
+        "string": "{numFiles, plural, other {永久删除文件}}"
     },
     "file_browser.draft_delete_modal.draft_deletion_tooltip": {
-        "string": "ドラフトを完全に削除するには、「{deletionString}」を使用します"
+        "string": "要永久删除草稿，请使用“{deletionString}”"
     },
     "file_browser.draft_delete_modal.header_multiple_files_delete": {
-        "string": "{fileCount}ファイルを完全に削除しますか?"
+        "string": "确定要永久删除{fileCount}个文件吗?"
     },
     "file_browser.draft_delete_modal.header_multiple_files_trash": {
-        "string": "{fileCount}個のファイルを削除"
+        "string": "删除{fileCount}个文件"
     },
     "file_browser.draft_delete_modal.header_single_file_delete": {
-        "string": "{fileName}を完全に削除しますか?"
+        "string": "确定要永久删除{fileName}吗?"
     },
     "file_browser.draft_delete_modal.header_single_file_trash": {
-        "string": "ファイルを削除"
+        "string": "删除文件"
     },
     "file_browser.draft_delete_modal.permanently_delete_multiple_drafts": {
-        "string": "{fileCount}個のドラフトを完全に削除しようとしています。この操作を取り消すことはできません。"
+        "string": "您正在永久删除{fileCount}个草稿。此操作不可撤销。"
     },
     "file_browser.draft_delete_modal.permanently_delete_multiple_drafts_confirmation": {
-        "string": "続行するには、「{deletionString}」を使用します。"
+        "string": "要继续，请使用“{deletionString}”。"
     },
     "file_browser.draft_delete_modal.permanently_delete_one_draft": {
-        "string": "このドラフトを完全に削除しようとしています。この操作は元に戻せません。続行するには、このドラフトを削除することを確認してください。"
+        "string": "您正在永久删除此草稿。此操作不可撤销。要继续，请确认删除此草稿。"
     },
     "file_browser.draft_delete_modal.unable_to_delete": {
-        "string": "{maxSize}個を超えるドラフトを同時に削除することはできません"
+        "string": "无法同时删除超过{maxSize}个草稿"
     },
     "file_browser.draft_delete_modal.you_are_about_to_delete_multiple_drafts": {
-        "string": "{fileCount}個のドラフトを削除しようとしています。"
+        "string": "您即将删除{fileCount}个草稿。"
     },
     "file_browser.draft_delete_modal.you_are_about_to_delete_single_draft": {
-        "string": "ファイル{fileName}を削除しようとしています。"
+        "string": "您即将删除文件{fileName}。"
     },
     "file_browser.draft_delete_modal.you_can_access_drafts_from_deleted_drafts_section": {
-        "string": "{fileCount, plural, other {[移動が必要なドラフト]の[削除済みのドラフト]セクションから後でアクセスできます。}}"
+        "string": "稍后可以从[删除的草稿]部分访问{fileCount, plural, other {移动的草稿}}。"
     },
     "file_browser.draft_move_confirmation_modal.board": {
-        "string": "ボード"
+        "string": "看板"
     },
     "file_browser.draft_move_confirmation_modal.file": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "file_browser.draft_move_confirmation_modal.move_drafts_team_member_substring": {
-        "string": "チームはすぐには請求されません。管理者がいつでも無料シートに戻すことができます。"
+        "string": "团队不会立即被收费。管理员可以随时将其移回免费席位。"
     },
     "file_browser.draft_move_confirmation_modal.move_drafts_team_owner_substring": {
-        "string": "チームはすぐには請求されません。いつでも自分で無料シートに戻すことができます。"
+        "string": "团队不会立即被收费。您可以随时将其移回免费席位。"
     },
     "file_browser.draft_move_confirmation_modal.move_multiple_drafts_dual_upgrade": {
-        "string": "ドラフトから{draftName}と{pluralizedDraftsRemainingString}を移動すると、{teamName}の有料Figmaデザインシートと有料FigJamシートに変更されます。{roleContextSubstring}"
+        "string": "从草稿中移动{draftName}和{pluralizedDraftsRemainingString}会将{teamName}更改为付费的Figma设计席位和付费的FigJam席位。{roleContextSubstring}"
     },
     "file_browser.draft_move_confirmation_modal.move_multiple_drafts_singular_upgrade": {
-        "string": "ドラフトから{draftName}と{pluralizedDraftsRemainingString}を移動すると、{teamName}の有料{seatType}シートに変更されます。{roleContextSubstring}"
+        "string": "从草稿中移动{draftName}和{pluralizedDraftsRemainingString}会将{teamName}更改为付费的{seatType}席位。{roleContextSubstring}"
     },
     "file_browser.draft_move_confirmation_modal.move_one_draft_singular": {
-        "string": "ドラフトからこの{fileTypeMoniker}を移動すると、{teamName}の有料{seatType}シートに変更されます。{roleContextSubstring}"
+        "string": "从草稿中移动此{fileTypeMoniker}会将{teamName}更改为付费的{seatType}席位。{roleContextSubstring}"
     },
     "file_browser.draft_move_confirmation_modal.pluralized_remaining_drafts": {
-        "string": "{remainingDraftCount, plural, other {他の{remainingDraftCount}ファイル }}"
+        "string": "其他{remainingDraftCount}个文件"
     },
     "file_browser.draft_move_confirmation_modal.seat_type_design": {
-        "string": "Figmaデザイン"
+        "string": "Figma设计"
     },
     "file_browser.draft_move_confirmation_modal.seat_type_figjam": {
         "string": "FigJam"
     },
     "file_browser.draft_move_modal.a_new_starter_team": {
-        "string": "新規スターターチーム"
+        "string": "新初始团队"
     },
     "file_browser.draft_move_modal.async_draft_move_scheduled": {
-        "string": "ドラフトを移動しています"
+        "string": "正在移动草稿"
     }
 }

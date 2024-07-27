@@ -1,152 +1,152 @@
 {
     "file_browser.file_list_view.header_name_column": {
-        "string": "名前"
+        "string": "名称"
     },
     "file_browser.file_list_view.header_owner_column": {
-        "string": "オーナー"
+        "string": "所有者"
     },
     "file_browser.file_list_view.header_shared_at_column": {
-        "string": "共有日時"
+        "string": "共享时间"
     },
     "file_browser.file_list_view.header_shared_by_column": {
-        "string": "共有者"
+        "string": "共享者"
     },
     "file_browser.file_move.cant_move_a_file_into_another_file": {
-        "string": "ファイルを別のファイル内に移動することはできません"
+        "string": "无法将文件移动到另一个文件中"
     },
     "file_browser.file_move.context_menu_rename": {
-        "string": "名前の変更"
+        "string": "重命名"
     },
     "file_browser.file_move.context_menu_show_in_files": {
-        "string": "ファイルに表示..."
+        "string": "在文件中显示..."
     },
     "file_browser.file_move.create_team": {
-        "string": "チームを作成"
+        "string": "创建团队"
     },
     "file_browser.file_move.current_location": {
-        "string": "現在の場所"
+        "string": "当前位置"
     },
     "file_browser.file_move.drafts": {
-        "string": "ドラフト"
+        "string": "草稿"
     },
     "file_browser.file_move.file_count": {
-        "string": "{fileCount, plural, other {{fileCount}個のファイル}}"
+        "string": "{fileCount, plural, other {{fileCount}个文件}}"
     },
     "file_browser.file_move.files_can_only_be_moved_within_the_same_organization": {
-        "string": "ファイルは同じ組織内でのみ移動できます"
+        "string": "文件只能在同一组织内移动"
     },
     "file_browser.file_move.import": {
-        "string": "インポート"
+        "string": "导入"
     },
     "file_browser.file_move.modal_header_import_file": {
-        "string": "ファイル{fileName}をインポート"
+        "string": "导入文件{fileName}"
     },
     "file_browser.file_move.modal_header_import_files": {
-        "string": "ファイルをインポート"
+        "string": "导入文件"
     },
     "file_browser.file_move.modal_header_move_file": {
-        "string": "ファイル{fileName}を移動する"
+        "string": "移动文件{fileName}"
     },
     "file_browser.file_move.move": {
-        "string": "移動"
+        "string": "移动"
     },
     "file_browser.file_move.move_pages_to_new_file": {
-        "string": "ページを新しいファイルに移動"
+        "string": "将页面移动到新文件"
     },
     "file_browser.file_move.new_project": {
-        "string": "新規プロジェクト"
+        "string": "新项目"
     },
     "file_browser.file_move.new_team": {
-        "string": "新規チーム"
+        "string": "新团队"
     },
     "file_browser.file_move.no_folders_yet": {
-        "string": "まだフォルダがありません"
+        "string": "还没有文件夹"
     },
     "file_browser.file_move.no_project_or_team_results_matching_query": {
-        "string": "一致するプロジェクト、チームの結果はありません"
+        "string": "没有匹配的项目或团队结果"
     },
     "file_browser.file_move.no_suggestions_yet_try_moving_your_files": {
-        "string": "まだ候補はありません。{lineBreak}最も多く関わっているプロジェクトまたはチームにファイルを移動してみてください。"
+        "string": "还没有建议。{lineBreak}尝试将文件移动到您参与最多的项目或团队。"
     },
     "file_browser.file_move.paywall_team_tooltip": {
-        "string": "チームをアップグレードして、このファイルを移動します"
+        "string": "升级团队以移动此文件"
     },
     "file_browser.file_move.search_placeholder": {
-        "string": "検索"
+        "string": "搜索"
     },
     "file_browser.file_move.view_teams": {
-        "string": "チームを表示"
+        "string": "查看团队"
     },
     "file_browser.file_move.view_workspaces": {
-        "string": "ワークスペースを表示"
+        "string": "查看工作区"
     },
     "file_browser.file_move.you_dont_have_edit_access_to_this_project": {
-        "string": "このプロジェクトへの編集アクセス権がありません"
+        "string": "您没有编辑此项目的权限"
     },
     "file_browser.file_move.you_dont_have_edit_access_to_this_team": {
-        "string": "このチームへの編集アクセス権がありません"
+        "string": "您没有编辑此团队的权限"
     },
     "file_browser.file_move.zero_state": {
-        "string": "プロジェクトへの編集アクセス権がないため、このファイルを移動できません。チームとプロジェクトに参加するか、それらを新しく作成した後、もう一度お試しください。"
+        "string": "由于您没有项目的编辑权限，无法移动此文件。加入团队和项目或新建团队和项目后重试。"
     },
     "file_browser.folder.add_a_description": {
-        "string": "説明を追加"
+        "string": "添加描述"
     },
     "file_browser.folder.create_a_new_file_to_start_from_scratch_lucid": {
-        "string": "新しいファイルを作成して白紙の状態から始めます。または、{lineBreak}画像やSketchファイル、LucidやMiro、MuralからエクスポートしたPDFをインポートできます。"
+        "string": "创建一个新文件从头开始，或者{lineBreak}导入图像、Sketch文件以及从Lucid、Miro和Mural导出的PDF。"
     },
     "file_browser.folder.do_more_paid_plan": {
-        "string": "有料プランではさらに多くの機能を利用できます。ファイルの数に制限はなく、{lineBreak}作業をプロジェクトにまとめ、チーム向けにコンポーネントの共有ライブラリを作成できます。"
+        "string": "付费计划提供更多功能。没有文件数量限制，{lineBreak}可以将工作组织到项目中，为团队创建组件共享库。"
     },
     "file_browser.folder.import": {
-        "string": "インポート"
+        "string": "导入"
     },
     "file_browser.folder.join_as_owner": {
-        "string": "オーナーとして参加"
+        "string": "以所有者身份加入"
     },
     "file_browser.folder.join_this_project_to_view_files": {
-        "string": "ファイルを表示するには、このプロジェクトに参加してください"
+        "string": "加入此项目以查看文件"
     },
     "file_browser.folder.no_files_yet": {
-        "string": "ファイルがまだありません"
+        "string": "还没有文件"
     },
     "file_browser.folder.page_header_dropdown_label": {
-        "string": "プロジェクトのドロップダウンを開く"
+        "string": "打开项目下拉菜单"
     },
     "file_browser.folder.people_who_have_edited_this_project_will_appear_here": {
-        "string": "このプロジェクトを編集したユーザーがここに表示されます"
+        "string": "编辑过此项目的人将显示在这里"
     },
     "file_browser.folder.pinned": {
-        "string": "ピン留め"
+        "string": "已固定"
     },
     "file_browser.folder.ready_for_an_upgrade": {
-        "string": "アップグレードしますか?"
+        "string": "准备升级了吗？"
     },
     "file_browser.folder.recent_contributors": {
-        "string": "最近のコントリビューター"
+        "string": "最近的贡献者"
     },
     "file_browser.folder.share": {
-        "string": "共有"
+        "string": "共享"
     },
     "file_browser.folder.starter_team_overview": {
-        "string": "スターターチームの概要"
+        "string": "初始团队概述"
     },
     "file_browser.folder.this_project_doesn_t_have_any_files": {
-        "string": "このプロジェクトにはファイルがありません。"
+        "string": "此项目没有任何文件。"
     },
     "file_browser.folder.this_project_is_empty": {
-        "string": "このプロジェクトは空です!コンピューターでファイルをインポートまたは作成してください。"
+        "string": "此项目为空！请从计算机导入或创建文件。"
     },
     "file_browser.folder.view_plans": {
-        "string": "プランを表示"
+        "string": "查看计划"
     },
     "file_browser.folder_list_view.file_singular": {
-        "string": "1ファイル"
+        "string": "1个文件"
     },
     "file_browser.folder_list_view.files": {
-        "string": "{fileCount}ファイル"
+        "string": "{fileCount}个文件"
     },
     "file_browser.folder_list_view.header_created_column": {
-        "string": "作成"
+        "string": "创建时间"
     }
 }

@@ -1,152 +1,152 @@
 {
     "feature_flag_overrides.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "feature_flag_overrides.confirm_changes": {
-        "string": "変更を確認"
+        "string": "确认更改"
     },
     "feature_flag_overrides.description": {
-        "string": "ユーザーのフィーチャーフラグの検索と変更"
+        "string": "搜索和更改用户的功能标志"
     },
     "feature_flag_overrides.error": {
-        "string": "エラー"
+        "string": "错误"
     },
     "feature_flag_overrides.help_menu_button": {
-        "string": "フィーチャーフラグを表示/変更"
+        "string": "查看/更改功能标志"
     },
     "feature_flag_overrides.loaded_feature_flags": {
-        "string": "{count, plural, other {#個のフィーチャーフラグを読み込みました}}"
+        "string": "已加载{count, plural, other {#个功能标志}}"
     },
     "feature_flag_overrides.loading": {
-        "string": "読み込み中..."
+        "string": "加载中..."
     },
     "feature_flag_overrides.pending_change": {
-        "string": "変更を保留中"
+        "string": "待更改"
     },
     "feature_flag_overrides.reloading_in_seconds": {
-        "string": "{seconds, plural, other {#秒後に再読み込み...}}"
+        "string": "{seconds, plural, other {#秒后重新加载...}}"
     },
     "feature_flag_overrides.review_changes": {
-        "string": "変更を確認"
+        "string": "查看更改"
     },
     "feature_flag_overrides.review_changes_description": {
-        "string": "フィーチャーフラグに加えた変更を確認してください。"
+        "string": "请查看您对功能标志所做的更改。"
     },
     "feature_flag_overrides.search_feature_flags": {
-        "string": "フィーチャーフラグを検索..."
+        "string": "搜索功能标志..."
     },
     "feature_flag_overrides.statsig_logo": {
-        "string": "Statsigのロゴ"
+        "string": "Statsig的标志"
     },
     "feature_flag_overrides.success": {
         "string": "成功"
     },
     "feature_flag_overrides.view_and_change_feature_flags": {
-        "string": "フィーチャーフラグの表示と変更"
+        "string": "查看和更改功能标志"
     },
     "feature_flag_overrides.view_current_overrides": {
-        "string": "現在のオーバーライドを表示"
+        "string": "查看当前覆盖"
     },
     "figjam_onboarding_make_something.all.skip_intro": {
-        "string": "紹介をスキップ"
+        "string": "跳过介绍"
     },
     "figjam_onboarding_make_something.brainstorm.fig_jam_s_great_for_brainstorming": {
-        "string": "{boldText}その仕組みは、次のとおりです..."
+        "string": "{boldText}它的工作方式如下..."
     },
     "figjam_onboarding_make_something.brainstorm.fig_jam_s_great_for_brainstorming_prefix": {
-        "string": "FigJamはブレインストーミングに最適です。"
+        "string": "FigJam非常适合头脑风暴。"
     },
     "figjam_onboarding_make_something.brainstorm.go_on": {
-        "string": "続ける…"
+        "string": "继续..."
     },
     "figjam_onboarding_make_something.brainstorm.just_like_that_keep_it_to_one_idea_per_sticky_next_let_s_check_out_stamps": {
-        "string": "ただそれだけです。1つの付箋には1つのアイデアを記録します。次に{boldText}をチェックしましょう"
+        "string": "就像这样，每张便签保持一个想法。接下来，让我们看看{boldText}"
     },
     "figjam_onboarding_make_something.brainstorm.just_like_that_keep_it_to_one_idea_per_sticky_next_let_s_check_out_stamps_bold_text": {
-        "string": "スタンプ"
+        "string": "印章"
     },
     "figjam_onboarding_make_something.brainstorm.lovely_just_one_more_thing": {
-        "string": "{boldText}もう一つ…"
+        "string": "{boldText}再来一个..."
     },
     "figjam_onboarding_make_something.brainstorm.lovely_just_one_more_thing_bold_text": {
-        "string": "かわいい!"
+        "string": "可爱!"
     },
     "figjam_onboarding_make_something.brainstorm.next": {
-        "string": "次へ"
+        "string": "下一步"
     },
     "figjam_onboarding_make_something.brainstorm.share_board": {
-        "string": "ボードを共有"
+        "string": "分享板"
     },
     "figjam_onboarding_make_something.brainstorm.stamps_are_here_or_press_e_they_re_good_for_voting_go_ahead_stamp_something": {
-        "string": "スタンプはこちらです。これらは投票に適しています。どうぞ、{boldText}"
+        "string": "印章在这里或按E键，它们适合投票。去吧，{boldText}"
     },
     "figjam_onboarding_make_something.brainstorm.stamps_are_here_or_press_e_they_re_good_for_voting_go_ahead_stamp_something_bold_text": {
-        "string": "何かにスタンプを押してください!"
+        "string": "给某个东西盖章！"
     },
     "figjam_onboarding_make_something.brainstorm.start_a_brainstorm_by_inviting_a_few_people_here_that_s_it": {
-        "string": "ここに何人かを招待してブレインストーミングを開始します。これで完了です。"
+        "string": "通过邀请一些人到这里开始头脑风暴。就是这样。"
     },
     "figjam_onboarding_make_something.brainstorm.sticky_notes_let_you_share_ideas_go_ahead_drag_one_into_the_blue_box_above": {
-        "string": "付箋を使用してアイディアを共有できます。上の青いボックスに付箋を{boldText}してみましょう。"
+        "string": "便签让你分享想法。继续，将一个便签{boldText}到上面的蓝色框中。"
     },
     "figjam_onboarding_make_something.brainstorm.sticky_notes_let_you_share_ideas_go_ahead_drag_one_into_the_blue_box_above_bold_text": {
-        "string": "1つドラッグ"
+        "string": "拖动"
     },
     "figjam_onboarding_make_something.brainstorm.use_the_timer_to_keep_things_moving": {
-        "string": "動きをキープするには、{boldText}を使用します。"
+        "string": "使用{boldText}来保持进度。"
     },
     "figjam_onboarding_make_something.brainstorm.use_the_timer_to_keep_things_moving_bold_text": {
-        "string": "タイマー"
+        "string": "计时器"
     },
     "figjam_onboarding_make_something.brainstorm.when_you_re_ready": {
-        "string": "準備ができたら..."
+        "string": "准备好了..."
     },
     "figjam_onboarding_make_something.planning_ahead.and_grab_more_shapes_as_needed_from_your_toolbar": {
-        "string": "さらに、ツールバーからシェイプを必要なだけ取得できます。"
+        "string": "根据需要从工具栏中获取更多形状。"
     },
     "figjam_onboarding_make_something.planning_ahead.fig_jam_s_great_for_planning_ahead_here_s_how_it_s_done": {
-        "string": "{boldText}次のように完了できます。"
+        "string": "{boldText}这样做..."
     },
     "figjam_onboarding_make_something.planning_ahead.fig_jam_s_great_for_planning_ahead_here_s_how_it_s_done_bold_text": {
-        "string": "FigJamは事前の計画に最適です。"
+        "string": "FigJam非常适合提前规划"
     },
     "figjam_onboarding_make_something.planning_ahead.share_this_board_and_your_whole_team_can_contribute": {
-        "string": "このボードを共有すると、チーム全体が参加できます。"
+        "string": "分享此板，您的整个团队都可以参与。"
     },
     "figjam_onboarding_make_something.planning_ahead.start_with_a_simple_timeline_with_a_row_for_each_member_of_your_team": {
-        "string": "チームの各メンバーを１行で表すシンプルなタイムラインから始めましょう。"
+        "string": "从一个简单的时间轴开始，每个团队成员一行。"
     },
     "figjam_onboarding_make_something.planning_ahead.try_it_with_your_team": {
-        "string": "チーム全員でお試しください"
+        "string": "和你的团队一起试试"
     },
     "figjam_onboarding_make_something.planning_ahead.type_your_name_here_right_at_the_top": {
-        "string": "{boldText}は上部にあります。"
+        "string": "在顶部{boldText}输入您的名字。"
     },
     "figjam_onboarding_make_something.planning_ahead.type_your_name_here_right_at_the_top_bold_text": {
-        "string": "ここに名前を入力"
+        "string": "输入名字"
     },
     "figjam_onboarding_make_something.planning_ahead.what_are_you_working_on_this_month_rename_this_block_to_your_current_project": {
-        "string": "今月は何の作業を行っていますか? 現在のプロジェクトに{boldText}してください。"
+        "string": "这个月你在做什么? 将此块{boldText}为你当前的项目。"
     },
     "figjam_onboarding_make_something.planning_ahead.what_are_you_working_on_this_month_rename_this_block_to_your_current_project_bold_text": {
-        "string": "このブロックの名前を変更"
+        "string": "重命名"
     },
     "figjam_onboarding_make_something.planning_ahead.you_can_resize_blocks_by_dragging_their_ends": {
-        "string": "ブロックの端をドラッグすることでサイズを変更できます..."
+        "string": "通过拖动端点可以调整块的大小..."
     },
     "figjam_onboarding_make_something.popup.title": {
-        "string": "FigJamを試す..."
+        "string": "试试FigJam..."
     },
     "figjam_onboarding_make_something.team_chart.adding_to_a_diagram_is_simple_hover_over_a_shape_and_click_this_button_try_it": {
-        "string": "ブロックを追加するには、このシェイプをクリックし、その辺にカーソルを合わせ、{boldText}。試してみましょう。"
+        "string": "添加到图表很简单，悬停在一个形状上并点击{boldText}。试试看。"
     },
     "figjam_onboarding_make_something.team_chart.adding_to_a_diagram_is_simple_hover_over_a_shape_and_click_this_button_try_it_bold_text": {
-        "string": "矢印ボタンをクリック"
+        "string": "箭头按钮"
     },
     "figjam_onboarding_make_something.team_chart.and_use_the_connector_tool_to_connect_any_two_things_together": {
-        "string": "さらに、コネクターツールを使用して2つのものを接続することもできます。"
+        "string": "使用连接工具将任何两个东西连接在一起。"
     },
     "figjam_onboarding_make_something.team_chart.diagram_together": {
-        "string": "ダイアグラムを共同で作成"
+        "string": "一起绘制图表"
     }
 }

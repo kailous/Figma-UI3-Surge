@@ -1,152 +1,152 @@
 {
     "file_browser.api_folder.an_error_while_updating_the_folder_s_sharing_audience_control": {
-        "string": "プロジェクトの共有オーディエンスコントロールの更新中にエラーが発生しました。"
+        "string": "更新项目共享受众控制时发生错误。"
     },
     "file_browser.api_folder.an_error_while_updating_the_folder_s_team_access": {
-        "string": "プロジェクトのチームアクセス権の更新中にエラーが発生しました。"
+        "string": "更新项目的团队访问权限时发生错误。"
     },
     "file_browser.api_folder.error_when_deleting": {
-        "string": "このプロジェクトの削除中にエラーが発生しました。"
+        "string": "删除此项目时发生错误。"
     },
     "file_browser.api_folder.no_create_permissions_team_name": {
-        "string": "{teamName}にはプロジェクトを作成する権限がありません。"
+        "string": "您没有在{teamName}中创建项目的权限。"
     },
     "file_browser.api_folder.no_create_permissions_this_team": {
-        "string": "このチームにプロジェクトを作成する権限がありません。"
+        "string": "您没有在此团队中创建项目的权限。"
     },
     "file_browser.auto_accept_project_invite_modal": {
-        "string": "{projectName}への{inviteType}アクセス権を取得しました。"
+        "string": "您已获得{projectName}的{inviteType}访问权限。"
     },
     "file_browser.badge_label.admin": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "file_browser.billing_group": {
-        "string": "請求グループ"
+        "string": "账单组"
     },
     "file_browser.billing_group_capitalized": {
-        "string": "請求グループ"
+        "string": "账单组"
     },
     "file_browser.block_project_move.context_invite_only": {
-        "string": "招待専用として設定されたプロジェクトは、チーム間で移動できません。 この操作を完了するには、{projectName}のチームアクセスを有効にして、再試行してください"
+        "string": "设置为仅限邀请的项目无法在团队之间移动。要完成此操作，请启用{projectName}的团队访问权限，然后重试。"
     },
     "file_browser.block_project_move.context_view_only": {
-        "string": "表示専用として設定されたプロジェクトは、チーム間で移動できません。 この操作を完了するには、{projectName}のチーム編集アクセスを有効にして、再試行してください"
+        "string": "设置为仅查看的项目无法在团队之间移动。要完成此操作，请启用{projectName}的团队编辑访问权限，然后重试。"
     },
     "file_browser.block_project_move.title": {
-        "string": "プロジェクトを移動できません"
+        "string": "无法移动项目"
     },
     "file_browser.cant_undo": {
-        "string": "元に戻すことはできません。"
+        "string": "无法撤销。"
     },
     "file_browser.choose_file_modal.search_for_a_file": {
-        "string": "ファイルを検索"
+        "string": "搜索文件"
     },
     "file_browser.confirm_file_delete_forever_modal.about_to_delete_offline": {
-        "string": "{numFiles, plural, other {{numFilesText}を完全に削除しようとしています。これらのファイルはオフラインでかつ同期されていないため、復元することはできません。}}"
+        "string": "您即将永久删除{numFiles, plural, other {{numFilesText}}}。这些文件处于离线状态且未同步，因此无法恢复。"
     },
     "file_browser.confirm_file_delete_forever_modal.about_to_delete_online": {
-        "string": "{numFiles, plural, other {{numFilesText}を完全に削除しようとしています。これらのファイルは復元できません。}}"
+        "string": "您即将永久删除{numFiles, plural, other {{numFilesText}}}。这些文件无法恢复。"
     },
     "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete": {
-        "string": "完全に削除"
+        "string": "永久删除"
     },
     "file_browser.confirm_file_delete_forever_modal.confirm_permanently_delete_files": {
-        "string": "{numFiles, plural, other {ファイルを完全に削除}}"
+        "string": "永久删除{numFiles, plural, other {文件}}"
     },
     "file_browser.confirm_file_delete_forever_modal.title": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイルを完全に削除}}"
+        "string": "永久删除{numFiles, plural, other {{numFiles}个文件}}"
     },
     "file_browser.confirm_file_delete_modal.about_to_delete_component_unpublish": {
-        "string": "ファイル{fileNameText}を削除しようとしています。公開されているコンポーネントもすべてチームのライブラリに表示されなくなります。"
+        "string": "您即将删除文件{fileNameText}。所有已发布的组件也将从团队库中移除。"
     },
     "file_browser.confirm_file_delete_modal.about_to_delete_multiple_warnings": {
-        "string": "{numFilesText}を削除しようとしています。以下が含まれます。"
+        "string": "您即将删除{numFilesText}。包括以下内容。"
     },
     "file_browser.confirm_file_delete_modal.about_to_delete_no_warnings": {
-        "string": "{numFiles, plural, other {{numFilesText}を削除しようとしています。}}"
+        "string": "您即将删除{numFiles, plural, other {{numFilesText}}}。"
     },
     "file_browser.confirm_file_delete_modal.about_to_delete_team_template": {
-        "string": "ファイル{fileNameText}を削除しようとしています。チームのテンプレートからも削除されます。"
+        "string": "您即将删除文件{fileNameText}。它也将从团队模板中删除。"
     },
     "file_browser.confirm_file_delete_modal.components": {
-        "string": "コンポーネント"
+        "string": "组件"
     },
     "file_browser.confirm_file_delete_modal.confirm_delete_files": {
-        "string": "{numFiles, plural, other {ファイルを削除}}"
+        "string": "删除{numFiles, plural, other {文件}}"
     },
     "file_browser.confirm_file_delete_modal.deleted_tab": {
-        "string": "削除済み"
+        "string": "已删除"
     },
     "file_browser.confirm_file_delete_modal.description_restore.seat_rename": {
-        "string": "{numFiles, plural, other {これらのファイルの編集アクセス権を持つ人は、後で[{draftsText}]タブの[{deletedText}]セクションからファイルを復元できます。}}"
+        "string": "拥有这些文件编辑访问权限的人以后可以从[{draftsText}]选项卡的[{deletedText}]部分恢复文件。"
     },
     "file_browser.confirm_file_delete_modal.drafts_tab": {
-        "string": "ドラフト"
+        "string": "草稿"
     },
     "file_browser.confirm_file_delete_modal.num_files": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイル}}"
+        "string": "{numFiles, plural, other {{numFiles}个文件}}"
     },
     "file_browser.confirm_file_delete_modal.offline_files": {
-        "string": "オフラインファイル"
+        "string": "离线文件"
     },
     "file_browser.confirm_file_delete_modal.templates": {
-        "string": "テンプレート"
+        "string": "模板"
     },
     "file_browser.confirm_file_delete_modal.title": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイルを削除}}"
+        "string": "删除{numFiles, plural, other {{numFiles}个文件}}"
     },
     "file_browser.confirm_file_delete_modal.warning_component_unpublish": {
-        "string": "{componentsText}。これらは公開されているため、チームのライブラリに表示されなくなります。"
+        "string": "{componentsText}。这些是已发布的，将不再显示在团队库中。"
     },
     "file_browser.confirm_file_delete_modal.warning_team_template": {
-        "string": "{templatesText}。これらは公開されているため、チームはアクセス権を失います。"
+        "string": "{templatesText}。这些是已发布的，团队将失去访问权限。"
     },
     "file_browser.confirm_file_delete_modal.warning_unsynced_file": {
-        "string": "{offlineFilesText}。これらは同期されていないため、完全に削除されます。"
+        "string": "{offlineFilesText}。这些文件未同步，将被永久删除。"
     },
     "file_browser.confirm_file_trash_modal.about_to_trash_component_unpublish": {
-        "string": "ファイル{fileNameText}をごみ箱に移動しようとしています。公開されているコンポーネントもすべてチームのライブラリに表示されなくなります。"
+        "string": "您即将把文件{fileNameText}移到垃圾桶。所有已发布的组件也将从团队库中移除。"
     },
     "file_browser.confirm_file_trash_modal.about_to_trash_multiple_warnings": {
-        "string": "{numFilesText}をごみ箱に移動しようとしています。以下が含まれます。"
+        "string": "您即将把{numFilesText}移到垃圾桶。包括以下内容。"
     },
     "file_browser.confirm_file_trash_modal.about_to_trash_no_warnings": {
-        "string": "{numFiles, plural, other {{numFilesText}をごみ箱に移動しようとしています。}}"
+        "string": "您即将把{numFiles, plural, other {{numFilesText}}}移到垃圾桶。"
     },
     "file_browser.confirm_file_trash_modal.about_to_trash_team_template": {
-        "string": "ファイル{fileNameText}をごみ箱に移動しようとしています。チームのテンプレートからも削除されます。"
+        "string": "您即将把文件{fileNameText}移到垃圾桶。它也将从团队模板中删除。"
     },
     "file_browser.confirm_file_trash_modal.confirm_delete_files": {
-        "string": "{numFiles, plural, other {ファイルをごみ箱に移動}}"
+        "string": "将{numFiles, plural, other {文件移到垃圾桶}}"
     },
     "file_browser.confirm_file_trash_modal.description_restore": {
-        "string": "{numFiles, plural, other {これらのファイルの編集アクセス権を持つ人は、後で[{trashText}]タブからファイルを復元できます。}}"
+        "string": "拥有这些文件编辑访问权限的人以后可以从[{trashText}]选项卡恢复文件。"
     },
     "file_browser.confirm_file_trash_modal.title": {
-        "string": "{numFiles, plural, other {{numFiles}個のファイルをごみ箱に移動}}"
+        "string": "将{numFiles, plural, other {{numFiles}个文件移到垃圾桶}}"
     },
     "file_browser.confirm_file_trash_modal.trash_section": {
-        "string": "ごみ箱"
+        "string": "垃圾桶"
     },
     "file_browser.copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "file_browser.copy_link_to_project": {
-        "string": "プロジェクトへのリンクをコピー"
+        "string": "复制项目链接"
     },
     "file_browser.copy_link_to_team": {
-        "string": "チームへのリンクをコピー"
+        "string": "复制团队链接"
     },
     "file_browser.copy_link_to_workspace": {
-        "string": "ワークスペースへのリンクをコピー"
+        "string": "复制工作区链接"
     },
     "file_browser.creates_new_file": {
-        "string": "新規ファイルの作成"
+        "string": "创建新文件"
     },
     "file_browser.creation_buttons.alpha": {
-        "string": "アルファ"
+        "string": "Alpha"
     },
     "file_browser.creation_buttons.beta": {
-        "string": "ベータ"
+        "string": "Beta"
     }
 }

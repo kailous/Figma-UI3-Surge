@@ -1,152 +1,152 @@
 {
     "file_browser.request_access_modal.can_view": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "file_browser.request_access_modal.request_access_reason_placeholder": {
-        "string": "リクエストに関するメッセージを追加 (オプション)"
+        "string": "添加与请求相关的消息（可选）"
     },
     "file_browser.request_access_modal.request_edit_access": {
-        "string": "編集アクセス権限をリクエストする"
+        "string": "请求编辑访问权限"
     },
     "file_browser.request_access_modal.request_to_join_team": {
-        "string": "チームへの参加をリクエスト"
+        "string": "请求加入团队"
     },
     "file_browser.request_access_modal.request_view_access": {
-        "string": "閲覧アクセス権限をリクエストする"
+        "string": "请求查看访问权限"
     },
     "file_browser.request_access_modal.send_a_request_to_join_team": {
-        "string": "{teamName}に参加するためのリクエストを送信します。"
+        "string": "发送请求加入{teamName}。"
     },
     "file_browser.request_access_modal.you": {
-        "string": "{username} (あなた)"
+        "string": "{username}（你）"
     },
     "file_browser.settings.access": {
-        "string": "アクセス権限"
+        "string": "访问权限"
     },
     "file_browser.settings.plugins_published": {
-        "string": "{orgName}に公開されたプラグイン"
+        "string": "已发布到{orgName}的插件"
     },
     "file_browser.share_modal.everyone_at_org_can_access_this_file": {
-        "string": "{orgName}のすべてのユーザーがこのファイルにアクセスできます。"
+        "string": "{orgName}的所有用户都可以访问此文件。"
     },
     "file_browser.share_modal.everyone_at_this_org_can_access_this_file": {
-        "string": "この組織のすべてのユーザーがこのファイルにアクセスできます。"
+        "string": "该组织的所有用户都可以访问此文件。"
     },
     "file_browser.shared_projects": {
-        "string": "共有プロジェクト"
+        "string": "共享项目"
     },
     "file_browser.starter_folder.folder_upgrade_info": {
-        "string": "有料プランではさらに多くの機能を利用できます。ファイルの数に制限はなく、作業をプロジェクトにまとめ、チーム向けにコンポーネントの共有ライブラリを作成できます。"
+        "string": "付费计划提供更多功能。文件数量没有限制，可以将工作组织到项目中，并为团队创建组件共享库。"
     },
     "file_browser.starter_folder.ready_for_an_upgrade": {
-        "string": "アップグレードしますか?"
+        "string": "准备升级了吗？"
     },
     "file_browser.starter_limit.design_files": {
-        "string": "デザインファイル"
+        "string": "设计文件"
     },
     "file_browser.starter_limit.design_files.tooltip": {
-        "string": "デザイン用キャンバス"
+        "string": "用于设计的画布"
     },
     "file_browser.starter_limit.enough_for_you_to_get_started": {
-        "string": "初めはこのチームで十分ですが、次のステップに進むために、プロフェッショナルプランをご検討ください。"
+        "string": "这个团队一开始就足够了，但请考虑专业计划以进行下一步。"
     },
     "file_browser.starter_limit.figjam_boards": {
-        "string": "FigJamボード"
+        "string": "FigJam看板"
     },
     "file_browser.starter_limit.figjam_boards.tooltip": {
-        "string": "ホワイトボードとブレインストーミング"
+        "string": "白板和头脑风暴"
     },
     "file_browser.starter_limit.projects": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "file_browser.starter_limit.projects.tooltip": {
-        "string": "作業を整理するフォルダ"
+        "string": "用于组织工作的文件夹"
     },
     "file_browser.starter_limit.running_out_of_files": {
-        "string": "無料チームではファイルやプロジェクトが不足します。プロフェッショナルプランで次のステップに進みましょう。"
+        "string": "免费团队将不够用来存储文件和项目。通过专业计划进行下一步。"
     },
     "file_browser.starter_limit.trying_things_out": {
-        "string": "スタータープランは、ホワイトボードでのアイデア出しからデザイン、仕事の整理に至るまで、さまざまなことを試すのに最適です。"
+        "string": "初始计划非常适合尝试从白板头脑风暴到设计和工作组织的所有事情。"
     },
     "file_browser.starter_limit.your_starter_team_overview": {
-        "string": "スターターチームの概要"
+        "string": "初始团队概览"
     },
     "file_browser.starter_team.project_limit_info": {
-        "string": "{upgradeLink}すると、ファイルを無制限に作成し、作業をプロジェクトごとに整理し、コンポーネントのライブラリを作成してチーム内で共有することができます。"
+        "string": "{upgradeLink}后，您可以创建无限制的文件，按项目组织工作，并为团队创建组件库。"
     },
     "file_browser.starter_team.project_limit_warning": {
-        "string": "プロジェクト数の上限({maxProjects}/{maxProjects})に達しました"
+        "string": "已达到项目数上限（{maxProjects}/{maxProjects}）"
     },
     "file_browser.starter_team.project_limit_warning_over_max_projects": {
-        "string": "プロジェクトの上限に達しました"
+        "string": "已达到项目上限"
     },
     "file_browser.starter_team.upgrade_link": {
-        "string": "有料プランにアップグレード"
+        "string": "升级到付费计划"
     },
     "file_browser.starter_team.view_plans": {
-        "string": "プランを表示"
+        "string": "查看计划"
     },
     "file_browser.team": {
-        "string": "チーム"
+        "string": "团队"
     },
     "file_browser.team.add_a_description": {
-        "string": "説明を追加"
+        "string": "添加描述"
     },
     "file_browser.team.add_project": {
-        "string": "プロジェクト"
+        "string": "添加项目"
     },
     "file_browser.team.approve": {
-        "string": "承認"
+        "string": "批准"
     },
     "file_browser.team.cancel_request": {
-        "string": "リクエストをキャンセル"
+        "string": "取消请求"
     },
     "file_browser.team.cannot_leave_secret_team_as_last_team_member": {
-        "string": "シークレットチームの最後のメンバーであり、このチームにプロジェクトが含まれている場合は、シークレットチームを脱退できません。これはデータがアクセス不可にならないようにするためです。"
+        "string": "如果您是秘密团队的最后一名成员，并且该团队包含项目，则不能离开该团队。这是为了防止数据变得无法访问。"
     },
     "file_browser.team.change_access_level_or_move_or_delete_resources_to_leave_team": {
-        "string": "このチームを脱退する場合は、アクセスレベルを変更するか、すべてのプロジェクトとファイルを移動または削除してください。"
+        "string": "如果要离开此团队，请更改访问级别，或移动或删除所有项目和文件。"
     },
     "file_browser.team.change_description": {
-        "string": "説明を変更"
+        "string": "更改描述"
     },
     "file_browser.team.change_to_secret_team_confirm": {
-        "string": "シークレットに変更"
+        "string": "更改为秘密"
     },
     "file_browser.team.change_to_secret_team_confirmation_title": {
-        "string": "{teamName}をシークレットチームに変更しますか。"
+        "string": "将{teamName}更改为秘密团队吗？"
     },
     "file_browser.team.dismiss": {
-        "string": "却下"
+        "string": "拒绝"
     },
     "file_browser.team.invite": {
-        "string": "招待"
+        "string": "邀请"
     },
     "file_browser.team.join_team": {
-        "string": "チームに参加"
+        "string": "加入团队"
     },
     "file_browser.team.leave_confirm": {
-        "string": "退会"
+        "string": "确认离开"
     },
     "file_browser.team.member_list_email": {
-        "string": "メール"
+        "string": "电子邮件"
     },
     "file_browser.team.member_list_name": {
-        "string": "名前"
+        "string": "姓名"
     },
     "file_browser.team.member_list_permissions": {
-        "string": "権限"
+        "string": "权限"
     },
     "file_browser.team.move_files_out_of_team": {
-        "string": "チームから退出する前に、個人用のドラフトは他のチームに移動してください。"
+        "string": "在离开团队之前，请将个人草稿移到其他团队。"
     },
     "file_browser.team.new_project": {
-        "string": "プロジェクトの新規作成"
+        "string": "新建项目"
     },
     "file_browser.team.no_members": {
-        "string": "メンバーなし"
+        "string": "没有成员"
     },
     "file_browser.team.no_permissions_message": {
-        "string": "{teamName}のプロジェクトとファイルは、このチームのメンバーだけに表示されます。"
+        "string": "{teamName}的项目和文件仅对该团队成员可见。"
     }
 }

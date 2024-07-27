@@ -1,152 +1,152 @@
 {
     "file_browser.folder_list_view.header_files_column": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "file_browser.folder_list_view.header_name_column": {
-        "string": "名前"
+        "string": "名称"
     },
     "file_browser.folder_list_view.header_shared_at_column": {
-        "string": "共有日時"
+        "string": "共享时间"
     },
     "file_browser.folder_list_view.header_shared_by_column": {
-        "string": "共有者"
+        "string": "共享者"
     },
     "file_browser.folder_list_view.header_updated_column": {
         "string": "更新"
     },
     "file_browser.folder_move.modal_header": {
-        "string": "プロジェクト{folderName}を移動する"
+        "string": "移动项目{folderName}"
     },
     "file_browser.folder_move.move_project": {
-        "string": "プロジェクトを移動"
+        "string": "移动项目"
     },
     "file_browser.folder_move.move_project_no_edit_access_warning": {
-        "string": "プロジェクトをこのチーム移動する前に、このチームの編集アクセス権を編集する必要があります。"
+        "string": "在将项目移动到此团队之前，您需要编辑团队的访问权限。"
     },
     "file_browser.folder_move.project_moved_toast": {
-        "string": "プロジェクト{folderName}は{teamName}に移動されています"
+        "string": "项目{folderName}已移动到{teamName}"
     },
     "file_browser.folder_move.view_team": {
-        "string": "チームを表示"
+        "string": "查看团队"
     },
     "file_browser.folder_settings.change_team_access": {
-        "string": "アクセス権を変更"
+        "string": "更改访问权限"
     },
     "file_browser.folder_settings.change_team_access_team_name": {
-        "string": "{teamName}のアクセス権を変更"
+        "string": "更改{teamName}的访问权限"
     },
     "file_browser.folder_settings.change_team_access_title": {
-        "string": "{teamName}のメンバー"
+        "string": "{teamName}的成员"
     },
     "file_browser.folder_settings.revoke": {
-        "string": "取り消す"
+        "string": "撤销"
     },
     "file_browser.folder_settings.team_access_disable": {
-        "string": "無効"
+        "string": "禁用"
     },
     "file_browser.folder_settings.team_access_disabled_subtitle": {
-        "string": "このプロジェクトでのグループのデフォルトアクセス権を削除"
+        "string": "删除此项目的组默认访问权限"
     },
     "file_browser.folder_settings.team_access_same_as_team": {
-        "string": "チームと同じ"
+        "string": "与团队相同"
     },
     "file_browser.folder_settings.team_access_same_as_team_subtitle": {
-        "string": "編集可か閲覧のみかは、現在のチームの役割によります"
+        "string": "根据当前团队角色，可以编辑或仅查看"
     },
     "file_browser.folder_settings.team_access_view_only": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "file_browser.folder_settings.team_access_view_only_subtitle": {
-        "string": "現在のチームの役割にかかわらず、閲覧とコメントだけが可能です"
+        "string": "无论当前团队角色如何，只能查看和评论"
     },
     "file_browser.folder_settings.team_can_access_tooltip": {
-        "string": "アクセス権はチームレベルの権限と一致するようになります。"
+        "string": "访问权限将与团队级别权限一致。"
     },
     "file_browser.hybrid_templates_shelf.for_des": {
-        "string": "デザイナー向けのテンプレート"
+        "string": "设计师模板"
     },
     "file_browser.hybrid_templates_shelf.for_eng": {
-        "string": "開発者向けのテンプレート"
+        "string": "开发者模板"
     },
     "file_browser.hybrid_templates_shelf.for_mkt": {
-        "string": "マーケター向けのテンプレート"
+        "string": "市场人员模板"
     },
     "file_browser.hybrid_templates_shelf.for_pm": {
-        "string": "PM向けのテンプレート"
+        "string": "产品经理模板"
     },
     "file_browser.hybrid_templates_shelf.for_ur": {
-        "string": "ユーザーリサーチャー向けのテンプレート"
+        "string": "用户研究员模板"
     },
     "file_browser.hybrid_templates_shelf.generate_button": {
         "string": "生成"
     },
     "file_browser.inline_team_creation.button_text": {
-        "string": "チームを新規作成"
+        "string": "创建新团队"
     },
     "file_browser.inline_team_creation.placeholder": {
-        "string": "チーム名"
+        "string": "团队名称"
     },
     "file_browser.mobile_prompt.app_action": {
-        "string": "入手"
+        "string": "获取"
     },
     "file_browser.mobile_prompt.app_description": {
-        "string": "閲覧とコメント投稿を行うには"
+        "string": "用于查看和评论"
     },
     "file_browser.mobile_prompt.app_description_new": {
-        "string": "デザイン、コラボレーション、ミラーリング"
+        "string": "设计、协作、镜像"
     },
     "file_browser.mobile_prompt.app_image_alt": {
-        "string": "Figmaモバイルアプリのアイコン"
+        "string": "Figma移动应用图标"
     },
     "file_browser.mobile_prompt.app_title": {
-        "string": "Figmaアプリ"
+        "string": "Figma应用"
     },
     "file_browser.mobile_prompt.browser_action": {
-        "string": "続行"
+        "string": "继续"
     },
     "file_browser.mobile_prompt.browser_image_alt": {
-        "string": "Google Chromeのロゴ"
+        "string": "Google Chrome标志"
     },
     "file_browser.mobile_prompt.browser_title": {
-        "string": "ブラウザ"
+        "string": "浏览器"
     },
     "file_browser.mobile_prompt.image_alt": {
-        "string": "Figmaモバイルアプリでファイルの閲覧とコメントの投稿をしているスマートフォンの画面。"
+        "string": "在Figma移动应用上查看文件并发表评论的智能手机屏幕。"
     },
     "file_browser.mobile_prompt.modal_body": {
-        "string": "外出中にもコメント、返信、@メンションなどができるFigmaモバイルアプリをお試しください。"
+        "string": "试试Figma移动应用，可以在旅途中评论、回复、@提及等。"
     },
     "file_browser.mobile_prompt.modal_body_blocking": {
-        "string": "ファイルの閲覧、コメントへの返信、通知の確認など、すべてFigmaモバイルアプリで行うことができます。"
+        "string": "所有文件查看、评论回复、通知检查等都可以在Figma移动应用上完成。"
     },
     "file_browser.mobile_prompt.modal_title": {
-        "string": "Figmaアプリでいつでも最新情報を"
+        "string": "通过Figma应用随时保持最新"
     },
     "file_browser.mobile_prompt.modal_title_blocking": {
-        "string": "Figmaアプリを入手してモバイルで閲覧"
+        "string": "获取Figma应用并在移动设备上查看"
     },
     "file_browser.mobile_prompt.modal_title_compact": {
-        "string": "このファイルをアプリで閲覧してみる"
+        "string": "在应用上查看此文件"
     },
     "file_browser.modal.are_you_sure_to_transfer_ownership": {
-        "string": "{newOwnerName}を{resourceName}のオーナーにしてよろしいですか?"
+        "string": "确定要将{resourceName}的所有权转移给{newOwnerName}吗？"
     },
     "file_browser.modal.cannot_undo_warning": {
-        "string": "このアクションは元に戻すことができません。"
+        "string": "此操作无法撤销。"
     },
     "file_browser.modal.cant_transfer_ownership_title": {
-        "string": "オーナーは変更できません"
+        "string": "无法更改所有者"
     },
     "file_browser.modal.got_it": {
-        "string": "了解"
+        "string": "知道了"
     },
     "file_browser.modal.this_resource_is_for_sale_on_community_so_you_cant_change_ownership": {
-        "string": "このリソースはコミュニティで販売されているため、別のユーザーをオーナーにすることはできません。"
+        "string": "此资源在社区中出售，无法将其所有权更改为其他用户。"
     },
     "file_browser.modal.transfer_ownership_cta": {
-        "string": "オーナーシップを移転"
+        "string": "转移所有权"
     },
     "file_browser.modal.transfer_ownership_title": {
-        "string": "オーナーシップを移転"
+        "string": "转移所有权"
     }
 }
