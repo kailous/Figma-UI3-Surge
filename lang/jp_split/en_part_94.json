@@ -1,152 +1,152 @@
 {
     "design_systems.publishing_modal.invalid_components_with_count": {
-        "string": "無効なアセット{countString}"
+        "string": "无效的资产{countString}"
     },
     "design_systems.publishing_modal.list_item_changed_variable_count": {
-        "string": "{count, plural, other {{count}個の変更済みバリアブル}}"
+        "string": "{count, plural, other {{count}个更改的变量}}"
     },
     "design_systems.publishing_modal.marked_for_publish_header_with_count": {
-        "string": "公開用にマーク済み{countString}"
+        "string": "标记为发布{countString}"
     },
     "design_systems.publishing_modal.missing_properties": {
-        "string": "プロパティの欠落"
+        "string": "缺少属性"
     },
     "design_systems.publishing_modal.modal_header": {
-        "string": "ライブラリを公開"
+        "string": "发布库"
     },
     "design_systems.publishing_modal.modal_header_community_library": {
-        "string": "コミュニティライブラリを公開"
+        "string": "发布社区库"
     },
     "design_systems.publishing_modal.modified": {
-        "string": "変更済み"
+        "string": "已修改"
     },
     "design_systems.publishing_modal.move_components_warning": {
-        "string": "コンポーネントの移動と変更の両方を行うと、ライブラリの更新を承認するユーザーはそのコンポーネントに行った上書きを失う可能性があります。{helpArticle}"
+        "string": "同时移动和修改组件可能导致批准库更新的用户丢失对该组件所做的覆盖。{helpArticle}"
     },
     "design_systems.publishing_modal.move_to_this_file": {
-        "string": "このファイルに移動"
+        "string": "移动到此文件"
     },
     "design_systems.publishing_modal.moved_to_this_file": {
-        "string": "このファイルに移動しました"
+        "string": "已移动到此文件"
     },
     "design_systems.publishing_modal.multiple_paste": {
-        "string": "このコンポーネントは繰り返し貼り付けられました。これは新しいコンポーネントとして公開され、既存のコンポーネントのインスタンスは影響を受けません。"
+        "string": "此组件被重复粘贴。将作为新组件发布，现有组件实例不受影响。"
     },
     "design_systems.publishing_modal.multiple_paste_style": {
-        "string": "このスタイルは繰り返し貼り付けられました。これは新しいスタイルとして公開され、既存のスタイルのインスタンスは影響を受けません。"
+        "string": "此样式被重复粘贴。将作为新样式发布，现有样式实例不受影响。"
     },
     "design_systems.publishing_modal.no_changes": {
-        "string": "変更なし"
+        "string": "无更改"
     },
     "design_systems.publishing_modal.org_access_false_with_team_access": {
-        "string": "{teamName}のすべてのユーザー"
+        "string": "{teamName}的所有用户"
     },
     "design_systems.publishing_modal.org_access_false_without_team_access": {
-        "string": "このファイルに招待されているすべてのユーザー"
+        "string": "所有被邀请到此文件的用户"
     },
     "design_systems.publishing_modal.org_access_true": {
-        "string": "{orgName}のすべてのユーザー"
+        "string": "{orgName}的所有用户"
     },
     "design_systems.publishing_modal.publish_as_copy": {
-        "string": "コピーとして公開"
+        "string": "作为副本发布"
     },
     "design_systems.publishing_modal.publish_as_move_info_component": {
-        "string": "このコンポーネントは、{fileName}からこのファイルに移動され、そのインスタンスは、今後このファイルに接続されます。"
+        "string": "此组件从{fileName}移动到此文件，其实例将连接到此文件。"
     },
     "design_systems.publishing_modal.publish_as_move_info_style": {
-        "string": "このスタイルは{fileName}からこのファイルに移動されます。今後、このスタイルの使用はすべてこのファイルに影響します。"
+        "string": "此样式从{fileName}移动到此文件，所有未来使用将影响此文件。"
     },
     "design_systems.publishing_modal.publish_button_text": {
-        "string": "公開"
+        "string": "发布"
     },
     "design_systems.publishing_modal.publish_destination_as_copy_info": {
-        "string": "この新しいコピーを公開しても、インスタンスコネクションは移動されません。"
+        "string": "发布此新副本不会移动实例连接。"
     },
     "design_systems.publishing_modal.publish_source_component_as_copy_info": {
-        "string": "このコンポーネントは{fileName}に移動されました。この新しいコピーを公開しても、他のファイルのインスタンスは更新されません。"
+        "string": "此组件已移动到{fileName}。发布此新副本不会更新其他文件的实例。"
     },
     "design_systems.publishing_modal.publish_source_style_as_copy_info": {
-        "string": "このスタイルは{fileName}に移動されました。この新しいコピーを公開しても、他のファイルのインスタンスは更新されません。"
+        "string": "此样式已移动到{fileName}。发布此新副本不会更新其他文件的实例。"
     },
     "design_systems.publishing_modal.publish_styles": {
-        "string": "スタイルを公開"
+        "string": "发布样式"
     },
     "design_systems.publishing_modal.publish_to": {
-        "string": "公開対象ユーザー: {audienceDropdown}"
+        "string": "发布对象：{audienceDropdown}"
     },
     "design_systems.publishing_modal.publish_to_community": {
-        "string": "コミュニティに公開"
+        "string": "发布到社区"
     },
     "design_systems.publishing_modal.publishing_took_too_long": {
-        "string": "公開に時間がかかりすぎています。公開するスタイルとコンポーネントの数を減らして再試行してください。"
+        "string": "发布时间过长。请减少发布的样式和组件数量并重试。"
     },
     "design_systems.publishing_modal.read_the_help_article": {
-        "string": "詳細を表示 →"
+        "string": "查看详情 →"
     },
     "design_systems.publishing_modal.removed": {
-        "string": "削除済み"
+        "string": "已删除"
     },
     "design_systems.publishing_modal.reordered": {
-        "string": "並べ替え済み"
+        "string": "已重新排序"
     },
     "design_systems.publishing_modal.search_placeholder": {
-        "string": "検索"
+        "string": "搜索"
     },
     "design_systems.publishing_modal.secret_publish_warning": {
-        "string": "{orgName}の全員に公開すると、シークレットチームの名前を見られる可能性があります。それを避けるには、ファイルを公開チームまたは限定チームに移動してから公開します。"
+        "string": "发布给{orgName}的所有人可能会暴露机密团队名称。为避免此情况，请将文件移动到公开或受限团队后再发布。"
     },
     "design_systems.publishing_modal.secret_publish_warning_orgname": {
-        "string": "組織"
+        "string": "组织"
     },
     "design_systems.publishing_modal.see_variables": {
-        "string": "バリアブルを表示"
+        "string": "查看变量"
     },
     "design_systems.publishing_modal.select_component": {
-        "string": "コンポーネントを選択"
+        "string": "选择组件"
     },
     "design_systems.publishing_modal.show_when_publishing": {
-        "string": "公開時に表示"
+        "string": "发布时显示"
     },
     "design_systems.publishing_modal.standard_upsell": {
-        "string": "{numComponents, plural, other {{numComponents}個のコンポーネントが公開されません。共有ライブラリにコンポーネントを公開できるのは、プロフェッショナルチームのメンバーだけです。この機能を使用するには、{teamUpsellLink}するか、既存のチームに参加してください。}}"
+        "string": "{numComponents, plural, other {{numComponents}个组件未发布。只有专业团队成员才能将组件发布到共享库。要使用此功能，请{teamUpsellLink}或加入现有团队。}}"
     },
     "design_systems.publishing_modal.starter_library_upsell": {
-        "string": "{numComponents, plural, other {{numComponents}件のコンポーネント変更は公開されません。カスタムコンポーネントは、エデュケーション、プロフェッショナル、およびビジネスのチームでのみ公開できます。}}"
+        "string": "{numComponents, plural, other {{numComponents}个组件更改未发布。自定义组件只能在教育、专业和业务团队中发布。}}"
     },
     "design_systems.publishing_modal.styles": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "design_systems.publishing_modal.templates": {
-        "string": "テンプレート"
+        "string": "模板"
     },
     "design_systems.publishing_modal.these_wont_be_published": {
-        "string": "これらは公開されません。"
+        "string": "这些不会被发布。"
     },
     "design_systems.publishing_modal.too_many_modes_error": {
-        "string": "40モードを超えています"
+        "string": "超过40种模式"
     },
     "design_systems.publishing_modal.too_many_variables_error": {
-        "string": "バリアブルが多すぎます"
+        "string": "变量过多"
     },
     "design_systems.publishing_modal.unchanged_header_with_count": {
-        "string": "未変更{countString}"
+        "string": "未更改{countString}"
     },
     "design_systems.publishing_modal.unmovable_state_group_with_movable_state": {
-        "string": "このコンポーネントには、以前に他のファイルのコンポーネントとして公開されたバリアントが含まれています。公開するとインスタンスコネクションがこのファイルに移動されます。"
+        "string": "此组件包含以前在其他文件中发布的变体。发布后实例连接将移动到此文件。"
     },
     "design_systems.publishing_modal.unused_def_error": {
-        "string": "未使用のプロパティ"
+        "string": "未使用的属性"
     },
     "design_systems.publishing_modal.upgrade_team": {
-        "string": "チームをアップグレードする"
+        "string": "升级团队"
     },
     "design_systems.publishing_modal.variable_collections": {
-        "string": "バリアブルコレクション"
+        "string": "变量集合"
     },
     "design_systems.shared_fonts.apply_to_all_remaining_uploads": {
-        "string": "{numRemainingUploads, plural, other {残り{numRemainingUploads}個のアップロードに適用する}}"
+        "string": "应用于剩余的{numRemainingUploads, plural, other {个上传}}"
     },
     "design_systems.shared_fonts.are_you_sure_you_want_to_delete": {
-        "string": "{numFonts, plural, other {{numFonts}個のフォントを削除してよろしいですか?}}"
+        "string": "确定要删除{numFonts, plural, other {个字体}}吗？"
     }
 }

@@ -1,152 +1,152 @@
 {
     "community.seller.collect_tax_info_modal.title": {
-        "string": "はじめましょう"
+        "string": "开始吧"
     },
     "community.seller.community_payout_statements": {
-        "string": "コミュニティの支払明細書"
+        "string": "社区支付明细"
     },
     "community.seller.currency_symbol": {
         "string": "$"
     },
     "community.seller.discount_must_follow_format": {
-        "string": "整数でなければなりません"
+        "string": "必须为整数"
     },
     "community.seller.earned_this_month": {
-        "string": "今月の達成額"
+        "string": "本月收入"
     },
     "community.seller.email_where_users_can_contact_you": {
-        "string": "ユーザーから連絡できるメールアドレス"
+        "string": "用户可以联系你的电子邮件地址"
     },
     "community.seller.few_steps_left_stripe": {
-        "string": "コミュニティでリソースを販売するために必要なステップがまだ残っているようです。再開しますか?"
+        "string": "看起来你还有几步需要完成才能在社区中出售资源。要继续吗？"
     },
     "community.seller.finish_set_up": {
-        "string": "セットアップを完了"
+        "string": "完成设置"
     },
     "community.seller.finish_stripe_setup": {
-        "string": "Stripeのセットアップを完了します。"
+        "string": "完成Stripe设置"
     },
     "community.seller.finish_stripe_setup_button": {
-        "string": "Stripeのセットアップを完了"
+        "string": "完成Stripe设置"
     },
     "community.seller.freemium_file_publish_info_banner": {
-        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページをプレビューできます。"
+        "string": "用户可以在不购买文件的情况下预览文件的第一页。"
     },
     "community.seller.freemium_file_publish_info_banner_with_page_name": {
-        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。"
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。"
     },
     "community.seller.freemium_file_publish_warning_with_page_name": {
-        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。このファイルに課金する場合は、ページを追加することをお勧めします。"
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。如果要对此文件收费，建议添加页面。"
     },
     "community.seller.freemium_publishing_temporarily_restricted": {
-        "string": "Payments APIを使用するためのリソースの更新は、現在、特定のリソースのみ可能です。詳細は、support@figma.comにお問い合わせください。"
+        "string": "使用Payments API更新资源当前仅限特定资源。有关详细信息，请联系support@figma.com。"
     },
     "community.seller.freemium_required_for_migration": {
-        "string": "リソースを移行するには、マニフェスト権限でPayments APIを有効にする必要があります。"
+        "string": "要迁移资源，必须在清单权限中启用Payments API。"
     },
     "community.seller.give_yearly_discount": {
-        "string": "年間割引を指定"
+        "string": "提供年度折扣"
     },
     "community.seller.good_news": {
-        "string": "嬉しいお知らせです!"
+        "string": "好消息！"
     },
     "community.seller.head_back_to_figma_to_start_selling": {
-        "string": "Figmaに戻り、リソースの販売を開始します"
+        "string": "返回Figma开始销售资源"
     },
     "community.seller.last_updated_on": {
-        "string": "前回は{date}に更新しました"
+        "string": "上次更新于{date}"
     },
     "community.seller.monthly_subscription": {
-        "string": "月間サブスクリプション"
+        "string": "每月订阅"
     },
     "community.seller.no_payout_statements_yet": {
-        "string": "支払明細書はまだありません。支払明細書は月ごとに作成されます。後でもう一度確認してください。"
+        "string": "尚无支付明细。支付明细按月生成，请稍后再查看。"
     },
     "community.seller.one_time_payment": {
-        "string": "1回払い"
+        "string": "一次性支付"
     },
     "community.seller.only_explicit_owner_can_sell": {
-        "string": "コミュニティでリソースを販売するにはオーナーである必要があります。"
+        "string": "必须是所有者才能在社区中销售资源。"
     },
     "community.seller.only_new_resources_can_be_sold_on_community": {
-        "string": "コミュニティでは新しいリソースのみ販売できます。"
+        "string": "只能在社区中销售新资源。"
     },
     "community.seller.only_you_can_see_your_file": {
-        "string": "ファイルのレビュー中は、あなただけが表示できます。"
+        "string": "在文件审核期间，只有你可以看到你的文件。"
     },
     "community.seller.only_you_can_see_your_plugin": {
-        "string": "プラグインのレビュー中は、あなただけが表示できます。"
+        "string": "在插件审核期间，只有你可以看到你的插件。"
     },
     "community.seller.only_you_can_see_your_widget": {
-        "string": "ウィジェットのレビュー中は、あなただけが表示できます。"
+        "string": "在小部件审核期间，只有你可以看到你的小部件。"
     },
     "community.seller.orgs_cannot_sell": {
-        "string": "組織として公開しようとしているため、価格設定は無効です。このリソースを販売するには、外部チームから公開してください。"
+        "string": "由于你以组织身份发布，定价已被禁用。要销售此资源，请从外部团队发布。"
     },
     "community.seller.paid_hub_file_publish_info_banner": {
-        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページをプレビューできます。また、課金されたファイルは、後で無料にすることができません。"
+        "string": "用户可以在不购买文件的情况下预览文件的第一页。收费文件之后不能变为免费。"
     },
     "community.seller.paid_hub_file_publish_info_banner_with_page_name": {
-        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。また、課金されたファイルは、後で無料にすることができません。"
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。收费文件之后不能变为免费。"
     },
     "community.seller.paid_hub_file_publish_warning_with_page_name": {
-        "string": "ユーザーは、ファイルを購入することなくファイルの最初のページ({pageName})をプレビューできます。このファイルに課金する場合は、ページを追加することをお勧めします。なお、ここでこのリソースに課金すると、後で無料にすることはできません。"
+        "string": "用户可以在不购买文件的情况下预览文件的第一页（{pageName}）。如果要对此文件收费，建议添加页面。注意，设置收费后，之后不能变为免费。"
     },
     "community.seller.paid_resource_maximum_err": {
-        "string": "価格が$999を超えることはできません"
+        "string": "价格不能超过$999"
     },
     "community.seller.paid_resource_minimum_err": {
-        "string": "価格は$2以上にしてください"
+        "string": "价格不能低于$2"
     },
     "community.seller.payment_type": {
-        "string": "支払いタイプ"
+        "string": "支付类型"
     },
     "community.seller.payout_statement_error": {
-        "string": "支払明細書を取得できません。後でもう一度試すか、サポートに問い合わせてください"
+        "string": "无法获取支付明细。请稍后再试或联系支持。"
     },
     "community.seller.percent_discount": {
-        "string": "%割引"
+        "string": "%折扣"
     },
     "community.seller.price": {
-        "string": "価格"
+        "string": "价格"
     },
     "community.seller.price_can_only_be_increased_by_50_percent_once_every_30_days": {
-        "string": "価格は30日ごとに1回のみ50％引き上げることができます。"
+        "string": "价格每30天最多只能增加50%。"
     },
     "community.seller.price_can_only_be_increased_once_every_thirty_days": {
-        "string": "価格は30日ごとに1回しか増やせません。"
+        "string": "价格每30天只能增加一次。"
     },
     "community.seller.price_increase_limit": {
-        "string": "価格の増加は請求サイクルごとに50%に制限されています。"
+        "string": "价格增加每个账单周期限制为50%。"
     },
     "community.seller.prices_must_follow_format": {
-        "string": "価格は整数でなければなりません"
+        "string": "价格必须为整数"
     },
     "community.seller.pricing": {
-        "string": "価格設定"
+        "string": "定价"
     },
     "community.seller.pricing_is_disabled_because_your_organization_does_not_allow": {
-        "string": "組織で管理者によるパーソナルプロフィールの公開が許可されていないため、価格設定は無効になっています。これは管理者設定で変更できます。{learnMoreLink}"
+        "string": "由于你的组织不允许管理员发布个人资料，定价已被禁用。管理员可以在设置中更改此设置。{learnMoreLink}"
     },
     "community.seller.pricing_toggle_text_for_already_paid_resources": {
-        "string": "有料で公開したリソースを無料に戻すことはできません。"
+        "string": "已收费的资源不能变为免费。"
     },
     "community.seller.pricing_using_payments_api": {
-        "string": "このリソースはPayments APIを使用しているため、価格をオフにできません"
+        "string": "由于此资源使用Payments API，不能关闭定价"
     },
     "community.seller.profiles.added_some_metrics": {
-        "string": "この非公開タブに対するメトリクスを追加したため、リソースの状況を確認できます。"
+        "string": "已为此非公开标签添加了一些指标，你可以查看资源的状态。"
     },
     "community.seller.profiles.check_out_your_stats": {
-        "string": "統計を確認"
+        "string": "查看你的统计"
     },
     "community.seller.profiles.metrics": {
-        "string": "メトリクス"
+        "string": "指标"
     },
     "community.seller.publish_disclaimer_for_paid_plugins": {
-        "string": "公開後は支払いタイプを変更できません。また、このリソースをいま課金すると、後で無料にすることはできません。"
+        "string": "发布后，不能更改支付类型。设定收费后，资源不能变为免费。"
     },
     "community.seller.purchases_label": {
-        "string": "{num, plural, other {購入数}}"
+        "string": "{num, plural, other {购买数量}}"
     }
 }

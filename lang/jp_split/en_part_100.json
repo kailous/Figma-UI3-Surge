@@ -6,10 +6,10 @@
         "string": "右上"
     },
     "dev_handoff.annotations.all_properties_added": {
-        "string": "すべてのプロパティを追加済み"
+        "string": "所有属性已添加"
     },
     "dev_handoff.annotations.auto": {
-        "string": "自動"
+        "string": "自动"
     },
     "dev_handoff.annotations.autolayout_horizontal": {
         "string": "水平"
@@ -21,132 +21,132 @@
         "string": "垂直"
     },
     "dev_handoff.annotations.component": {
-        "string": "コンポーネント"
+        "string": "组件"
     },
     "dev_handoff.annotations.delete": {
-        "string": "アノテーションを削除"
+        "string": "删除注释"
     },
     "dev_handoff.annotations.font_size": {
-        "string": "フォントサイズ"
+        "string": "字体大小"
     },
     "dev_handoff.annotations.image": {
-        "string": "画像"
+        "string": "图片"
     },
     "dev_handoff.annotations.multiple": {
-        "string": "複数"
+        "string": "多个"
     },
     "dev_handoff.annotations.no_value": {
-        "string": "値なし"
+        "string": "无值"
     },
     "dev_handoff.annotations.pin_properties_label": {
-        "string": "プロパティ"
+        "string": "属性"
     },
     "dev_handoff.annotations.pin_properties_tooltip": {
-        "string": "プロパティをピン留めする"
+        "string": "固定属性"
     },
     "dev_handoff.annotations.remove_property": {
-        "string": "プロパティを削除"
+        "string": "删除属性"
     },
     "dev_handoff.annotations.shadow": {
-        "string": "シャドウ"
+        "string": "阴影"
     },
     "dev_handoff.annotations.text_align": {
-        "string": "テキスト配置"
+        "string": "文本对齐"
     },
     "dev_handoff.annotations.text_style": {
-        "string": "テキストスタイル"
+        "string": "文本样式"
     },
     "dev_handoff.annotations.video": {
-        "string": "動画"
+        "string": "视频"
     },
     "dev_handoff.annotations_introduction_overlay.description": {
-        "string": "開発モードでデザインにアノテーションやサイズを追加することで、何を作ろうとしているか明確に伝えることができます。"
+        "string": "通过在开发模式下为设计添加注释和尺寸，可以清晰地传达您正在构建的内容。"
     },
     "dev_handoff.annotations_introduction_overlay.image_alt": {
-        "string": "デザインに添付されているサイズとアノテーションテキスト。"
+        "string": "附有尺寸和注释文本的设计。"
     },
     "dev_handoff.annotations_introduction_overlay.primary_cta": {
-        "string": "表示"
+        "string": "显示"
     },
     "dev_handoff.annotations_introduction_overlay.title": {
-        "string": "開発モードのアノテーション"
+        "string": "开发模式注释"
     },
     "dev_handoff.annotations_tools_overlay.annotations.description": {
-        "string": "重要なプロパティにタグを付けたり、レイヤーにメモを添付して詳しい説明を加えたりできます。"
+        "string": "您可以为重要属性加标签，或在图层上添加注释以进行详细说明。"
     },
     "dev_handoff.annotations_tools_overlay.annotations.title": {
-        "string": "メモとプロパティのアノテーションを付ける"
+        "string": "添加注释和属性标签"
     },
     "dev_handoff.annotations_tools_overlay.measurements.description": {
-        "string": "測定ツールで点と点の間をドラッグすることで、キャンパス上に重要なサイズを表示できます。"
+        "string": "通过拖动测量工具在画布上显示重要的尺寸。"
     },
     "dev_handoff.annotations_tools_overlay.measurements.title": {
-        "string": "重要なサイズをハイライト"
+        "string": "突出显示重要尺寸"
     },
     "dev_handoff.annotations_upsell_overlay.description": {
-        "string": "このファイルにはアノテーションが含まれています。アノテーションは、詳細を簡単に確認できる開発モードの機能です。"
+        "string": "此文件包含注释。注释是开发模式的一项功能，可以轻松查看详细信息。"
     },
     "dev_handoff.annotations_upsell_overlay.primary_cta": {
-        "string": "開発モードを開く"
+        "string": "打开开发模式"
     },
     "dev_handoff.annotations_upsell_overlay.secondary_cta": {
-        "string": "今はしない"
+        "string": "稍后"
     },
     "dev_handoff.annotations_upsell_overlay.title": {
-        "string": "アノテーション"
+        "string": "注释"
     },
     "dev_handoff.assets": {
-        "string": "アセット"
+        "string": "资产"
     },
     "dev_handoff.assets.gif": {
         "string": "GIF"
     },
     "dev_handoff.assets.icon": {
-        "string": "アイコン"
+        "string": "图标"
     },
     "dev_handoff.assets.image": {
-        "string": "画像"
+        "string": "图片"
     },
     "dev_handoff.assets.instance": {
-        "string": "コンポーネントインスタンス"
+        "string": "组件实例"
     },
     "dev_handoff.assets.show_more": {
-        "string": "{count, plural, other {さらに{count}個のアセットを表示}}"
+        "string": "显示更多{count}个资产"
     },
     "dev_handoff.assets.video": {
-        "string": "動画"
+        "string": "视频"
     },
     "dev_handoff.autorun_confirm_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "dev_handoff.autorun_confirm_modal.confirm_replace": {
-        "string": "({orgName}の管理者によって現在設定されている){orgPluginName}に代わり、すべてのファイルで{newPluginName}が自動的に実行されます。"
+        "string": "将自动运行{newPluginName}替换为{orgName}的管理员当前设置的{orgPluginName}。"
     },
     "dev_handoff.autorun_confirm_modal.dont_enable": {
-        "string": "有効にしない"
+        "string": "不要启用"
     },
     "dev_handoff.autorun_confirm_modal.enable_auto_run": {
-        "string": "自動実行を有効にする"
+        "string": "启用自动运行"
     },
     "dev_handoff.autorun_confirm_modal.enable_auto_run_desc": {
-        "string": "{orgName}の管理者がファイルを開くときに{orgPluginName}を自動実行するように設定していますが、その設定が無効になりました。\nもう一度{orgPluginName}の自動実行を有効にしますか?"
+        "string": "{orgName}的管理员已设置为在打开文件时自动运行{orgPluginName}，但该设置已被禁用。要重新启用{orgPluginName}的自动运行吗？"
     },
     "dev_handoff.autorun_confirm_modal.replace": {
-        "string": "置き換える"
+        "string": "替换"
     },
     "dev_handoff.autorun_confirm_modal.stop_auto_run": {
-        "string": "自動実行を停止"
+        "string": "停止自动运行"
     },
     "dev_handoff.autorun_confirm_modal.stop_auto_run_desc": {
-        "string": "ファイルを開くときに{currentAutoRunPluginName}が自動的に実行されなくなります。"
+        "string": "在打开文件时将不再自动运行{currentAutoRunPluginName}。"
     },
     "dev_handoff.autorun_confirm_modal.stop_auto_run_from_org": {
-        "string": "{orgName}の管理者が{orgPluginName}を自動実行するように設定していますが、ファイルを開くときにそのプラグインが自動実行されなくなります。"
+        "string": "{orgName}的管理员已设置为自动运行{orgPluginName}，但在打开文件时将不再自动运行该插件。"
     },
     "dev_handoff.autorun_confirm_modal.title_enable_auto_run": {
-        "string": "{pluginName}の自動実行を有効にしますか?"
+        "string": "启用{pluginName}的自动运行吗？"
     },
     "dev_handoff.autorun_confirm_modal.title_replace_auto_run": {
-        "string": "自動実行するプラグインを置き換えますか?"
+        "string": "替换自动运行的插件吗？"
     }
 }

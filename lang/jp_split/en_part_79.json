@@ -1,152 +1,152 @@
 {
     "community.seller.resource_is_private": {
-        "string": "このリソースは非公開なようです。販売するには、コミュニティのすべてのユーザーに公開する必要があります。"
+        "string": "此资源为非公开。要出售，必须向社区中的所有用户公开。"
     },
     "community.seller.resource_metrics_coming_soon": {
-        "string": "リソースメトリクスは近日公開"
+        "string": "资源指标即将推出"
     },
     "community.seller.resources_for_sale": {
-        "string": "{numResources, plural, other {{numResources}個のリソースを販売中}}"
+        "string": "{numResources, plural, other {{numResources}个资源在售}}"
     },
     "community.seller.resources_youre_selling_will_appear_here": {
-        "string": "販売中のリソースがここに表示されます"
+        "string": "你正在出售的资源将显示在此处"
     },
     "community.seller.sell_on_community": {
-        "string": "これをコミュニティで販売"
+        "string": "在社区出售"
     },
     "community.seller.sell_on_community_v2": {
-        "string": "コミュニティで販売"
+        "string": "在社区出售"
     },
     "community.seller.set_up_stripe": {
-        "string": "Stripeをセットアップ"
+        "string": "设置Stripe"
     },
     "community.seller.setup_complete": {
-        "string": "セットアップ完了"
+        "string": "设置完成"
     },
     "community.seller.stripe_loading_text": {
-        "string": "Stripeを読み込んでいます..."
+        "string": "正在加载Stripe..."
     },
     "community.seller.stripe_needs_your_attention": {
-        "string": "Stripeの確認が必要です。"
+        "string": "需要你的Stripe注意事项。"
     },
     "community.seller.subscribers_label": {
-        "string": "{num, plural, other {サブスクライバー数}}"
+        "string": "{num, plural, other {订阅者}}"
     },
     "community.seller.teams_cannot_sell": {
-        "string": "チームとして公開しようとしているため、価格設定は無効です。このリソースを販売するには、ドラフトから公開してください。"
+        "string": "由于你正在以团队身份发布，价格设置已被禁用。要出售此资源，请从草稿发布。"
     },
     "community.seller.this_page_is_private": {
-        "string": "このページは現在非公開です"
+        "string": "此页面目前为非公开"
     },
     "community.seller.to_publish_your_first_resource": {
-        "string": "最初に支払ったプラグインやウィジェット、ファイルを公開するには、右上の[公開]をクリックして、詳細を追加し、価格を選択してから、確認用に送信します。"
+        "string": "要发布你的第一个收费插件、小部件或文件，请点击右上角的“发布”，添加详细信息并选择价格，然后提交审核。"
     },
     "community.seller.total_earned": {
-        "string": "総収益額"
+        "string": "总收入"
     },
     "community.seller.total_purchases": {
-        "string": "合計購入回数"
+        "string": "总购买次数"
     },
     "community.seller.total_purchases_includes": {
-        "string": "新しいサブスクリプション、更新、1回払いのすべてを含んでいます。"
+        "string": "包括所有新订阅、续订和一次性付款。"
     },
     "community.seller.total_views": {
-        "string": "総閲覧数"
+        "string": "总浏览量"
     },
     "community.seller.unable_to_launch_stripe_onboarding_please_check_your_details": {
-        "string": "Stripeのオンボーディングを開始できません。詳細を確認し、もう一度お試しください。"
+        "string": "无法启动Stripe入职流程。请检查你的详细信息并重试。"
     },
     "community.seller.unable_to_open_stripe_dashboard": {
-        "string": "Stripeダッシュボードが開けません"
+        "string": "无法打开Stripe仪表板"
     },
     "community.seller.usd": {
-        "string": "米ドル"
+        "string": "美元"
     },
     "community.seller.view_payout_statements": {
-        "string": "支払明細書を表示"
+        "string": "查看支付明细"
     },
     "community.seller.view_stripe_dashboard": {
-        "string": "Stripeダッシュボードを表示"
+        "string": "查看Stripe仪表板"
     },
     "community.seller.views_label": {
-        "string": "{num, plural, other {閲覧数}}"
+        "string": "{num, plural, other {浏览}}"
     },
     "community.seller.visit_stripe": {
-        "string": "Stripeにアクセス"
+        "string": "访问Stripe"
     },
     "community.seller.well_show_you_stripe_metrics": {
-        "string": "各リソースの状態が分かるStripeメトリックスを示します。"
+        "string": "我们将向你展示每个资源的状态的Stripe指标。"
     },
     "community.seller.what_are_the_fees": {
-        "string": "いくら課金されますか?"
+        "string": "收费是多少？"
     },
     "community.seller.when_you_publish_a_paid_resource_you_cant_make_it_free_again": {
-        "string": "このリソースをいま課金すると、後で無料にすることはできません。"
+        "string": "一旦你将此资源设为收费，不能再将其改为免费。"
     },
     "community.seller.why_link": {
-        "string": "その理由は?"
+        "string": "为什么？"
     },
     "community.seller.working_on_bringing_you_more_in_depth_metrics": {
-        "string": "支払い済みリソースについてさらに深くお届けする方法に取り組んでいます。ご期待ください。"
+        "string": "我们正在努力提供更深入的付费资源数据。敬请期待。"
     },
     "community.seller.you_can_only_publish_paid_resources_from_a_personal_profile": {
-        "string": "有料リソースは、コミュニティで販売が承認されているパーソナルプロフィールからのみ公開できます。{learnMoreLink}"
+        "string": "仅能从经批准的个人资料发布收费资源。{learnMoreLink}"
     },
     "community.seller.you_can_resolve": {
-        "string": "Stripeダッシュボードから問題を解決できます。"
+        "string": "你可以从Stripe仪表板解决问题。"
     },
     "community.seller.you_may_be_eligible_with_link": {
-        "string": "コミュニティでプラグインやウィジェットを販売できる可能性があります。販売を始めるには、Stripeアカウントをセットアップしてください。{learnMoreLink}"
+        "string": "你可能有资格在社区销售插件或小部件。要开始销售，请设置Stripe账户。{learnMoreLink}"
     },
     "community.seller.youre_all_set_up_to_sell_on_community": {
-        "string": "コミュニティで販売できる準備が整いました"
+        "string": "你已经准备好在社区销售了"
     },
     "config_feature_announcement.add_auto_layout_to_full_design_elements_with_a_single_click_plus_auto_layout_properties_are_now_more_responsive_by_default": {
-        "string": "ワンクリックでデザイン要素全体にオートレイアウトを追加できます。加えて、デフォルトで、オートレイアウトプロパティの応答性がさらに良くなりました。"
+        "string": "只需点击一次，即可将自动布局添加到整个设计元素。此外，默认情况下，自动布局属性现在更加灵活。"
     },
     "config_feature_announcement.and_much_more": {
-        "string": "さらに多くの機能が..."
+        "string": "更多..."
     },
     "config_feature_announcement.auto_layout_playground": {
-        "string": "オートレイアウトプレイグランド"
+        "string": "自动布局游乐场"
     },
     "config_feature_announcement.bridge_the_designer_developer_gap_with_new_tools": {
-        "string": "開発者は、新しいビューやステータスによって、開発の準備ができているもの、変更されているもの、完了したものを明確に区別できます。さらに、ベータ期間が終了したCode Connectによって、独自のコードをFigmaに取り込むことができます。"
+        "string": "开发人员现在可以通过新的视图和状态清楚地了解哪些已经准备好进行开发、哪些正在更改、哪些已经完成。此外，随着Code Connect Beta测试的结束，现在可以将自己的代码引入Figma。"
     },
     "config_feature_announcement.click_to_learn_more": {
-        "string": "クリックして詳細を表示→"
+        "string": "点击了解更多→"
     },
     "config_feature_announcement.co_create_dynamic_slide_decks_that_spark_conversation_in_our_new_presentation_tool_for_teams": {
-        "string": "Figma Slidesの高度な編集ツールとその双方向性により、プレゼンテーションのデザインと共同制作が簡単になります。"
+        "string": "通过Figma Slides的高级编辑工具及其互动性，使得演示文稿的设计和共同创作变得更加容易。"
     },
     "config_feature_announcement.dev_mode_playground": {
-        "string": "開発モードプレイグラウンド"
+        "string": "开发模式游乐场"
     },
     "config_feature_announcement.everything_we_launched_at_config": {
-        "string": "Config 2024での発表のすべて"
+        "string": "我们在Config 2024推出的所有内容"
     },
     "config_feature_announcement.experience_a_more_fluid_and_consistent_workflow_with_our_newly_redesigned_user_interface_now_everything_you_need_is_right_where_you_expect_it_across_figma_products": {
-        "string": "人間工学に基づいて再編され、より使いやすくなったインターフェイスにより、作業により集中できます。"
+        "string": "通过重新设计的人体工程学界面，更加集中精力完成工作。"
     },
     "config_feature_announcement.figma_redesigned": {
-        "string": "Figma、デザインを一新"
+        "string": "重新设计的Figma"
     },
     "config_feature_announcement.get_organized_with_pages_in_fig_jam": {
-        "string": "FigJamのページを使って整理をする"
+        "string": "使用FigJam页面进行整理"
     },
     "config_feature_announcement.introducing_figma_slides": {
-        "string": "Figma Slidesによるプレゼンテーション"
+        "string": "Figma Slides的介绍"
     },
     "config_feature_announcement.join_the_waitlist": {
-        "string": "待機リストに登録する"
+        "string": "加入候补名单"
     },
     "config_feature_announcement.joined": {
-        "string": "登録済み"
+        "string": "已加入"
     },
     "config_feature_announcement.jumpstart_designs_with_ui_kits": {
-        "string": "UIキットでデザインをすばやくスタート"
+        "string": "使用UI工具包快速启动设计"
     },
     "config_feature_announcement.meet_a_more_intuitive_auto_layout": {
-        "string": "さらに直感的になったオートレイアウトを紹介します"
+        "string": "体验更加直观的自动布局"
     }
 }

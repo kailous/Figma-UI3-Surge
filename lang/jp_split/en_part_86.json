@@ -1,152 +1,152 @@
 {
     "design_systems.component_properties.boolean_false": {
-        "string": "False"
+        "string": "否"
     },
     "design_systems.component_properties.boolean_property_default_name": {
-        "string": "{selectedNodeName}を表示"
+        "string": "显示{selectedNodeName}"
     },
     "design_systems.component_properties.boolean_property_default_name_fallback": {
-        "string": "{numSelected, plural, other {レイヤーを表示}}"
+        "string": "显示{numSelected, plural, other {层}}"
     },
     "design_systems.component_properties.boolean_true": {
-        "string": "True"
+        "string": "是"
     },
     "design_systems.component_properties.bubbled_instances": {
-        "string": "ネストされたインスタンス"
+        "string": "嵌套实例"
     },
     "design_systems.component_properties.cant_show_values": {
-        "string": "他のライブラリの値を表示できません"
+        "string": "无法显示其他库的值"
     },
     "design_systems.component_properties.choose_default_instance_value": {
-        "string": "インスタンスの選択"
+        "string": "选择实例"
     },
     "design_systems.component_properties.choose_default_instance_value_cycle": {
-        "string": "コンポーネントにそれ自体のインスタンスを含めることはできません"
+        "string": "组件不能包含其自身的实例"
     },
     "design_systems.component_properties.choose_instance": {
-        "string": "インスタンスの選択"
+        "string": "选择实例"
     },
     "design_systems.component_properties.choose_instances": {
-        "string": "ネストされたインスタンス"
+        "string": "嵌套实例"
     },
     "design_systems.component_properties.create_component_property": {
-        "string": "コンポーネントプロパティを作成"
+        "string": "创建组件属性"
     },
     "design_systems.component_properties.create_component_property_of_type": {
-        "string": "{propType}プロパティを作成"
+        "string": "创建{propType}属性"
     },
     "design_systems.component_properties.create_new_property": {
-        "string": "新しいプロパティの作成"
+        "string": "创建新属性"
     },
     "design_systems.component_properties.create_property": {
-        "string": "プロパティを作成"
+        "string": "创建属性"
     },
     "design_systems.component_properties.create_property_menu_option": {
-        "string": "プロパティを作成…"
+        "string": "创建属性..."
     },
     "design_systems.component_properties.default_value": {
-        "string": "値"
+        "string": "值"
     },
     "design_systems.component_properties.delete_property": {
-        "string": "{numSelected, plural, other {プロパティの削除}}"
+        "string": "删除{numSelected, plural, other {属性}}"
     },
     "design_systems.component_properties.detach_property": {
-        "string": "プロパティの切り離し"
+        "string": "分离属性"
     },
     "design_systems.component_properties.edit_component_property": {
-        "string": "{propType}プロパティの編集"
+        "string": "编辑{propType}属性"
     },
     "design_systems.component_properties.edit_property": {
-        "string": "プロパティを編集"
+        "string": "编辑属性"
     },
     "design_systems.component_properties.error_conflicting_name": {
-        "string": "プロパティ名が競合しています"
+        "string": "属性名称冲突"
     },
     "design_systems.component_properties.error_unused_property": {
-        "string": "コンポーネント内で使用されていません"
+        "string": "未在组件中使用"
     },
     "design_systems.component_properties.expose_nested_instances": {
-        "string": "プロパティの公開元"
+        "string": "公开属性来源"
     },
     "design_systems.component_properties.go_to_property": {
-        "string": "プロパティに移動"
+        "string": "转到属性"
     },
     "design_systems.component_properties.has_unpublished_preferred_values": {
-        "string": "非公開の優先値があります"
+        "string": "有未发布的优先值"
     },
     "design_systems.component_properties.instance_property_preview": {
-        "string": "インスタンスのプロパティのプレビュー"
+        "string": "实例属性预览"
     },
     "design_systems.component_properties.instance_swap": {
-        "string": "インスタンスの入れ替え"
+        "string": "实例交换"
     },
     "design_systems.component_properties.instance_swap_property_default_name": {
-        "string": "インスタンス"
+        "string": "实例"
     },
     "design_systems.component_properties.invalid_variant_binding": {
-        "string": "バリアブル値はバリアントにマップしません"
+        "string": "变量值未映射到变体"
     },
     "design_systems.component_properties.invalid_variant_binding_state": {
-        "string": "別の設定によって値が取り消されました"
+        "string": "值被另一个设置覆盖"
     },
     "design_systems.component_properties.link_unlinked_property": {
-        "string": "コンポーネントにプロパティを追加"
+        "string": "添加到组件的属性"
     },
     "design_systems.component_properties.link_unlinked_property_help_text": {
-        "string": "プロパティがコンポーネントで見つかりません。プロパティを追加してインスタンスのコントロールを提供します。"
+        "string": "组件中找不到属性。添加属性以提供实例控制。"
     },
     "design_systems.component_properties.missing_property": {
-        "string": "プロパティがありません"
+        "string": "缺少属性"
     },
     "design_systems.component_properties.mixed": {
         "string": "混合"
     },
     "design_systems.component_properties.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "design_systems.component_properties.new_value": {
-        "string": "新しい値"
+        "string": "新值"
     },
     "design_systems.component_properties.num_hidden": {
-        "string": "{num}個が非表示"
+        "string": "{num}个隐藏"
     },
     "design_systems.component_properties.preferred_values": {
-        "string": "優先する値"
+        "string": "优先值"
     },
     "design_systems.component_properties.properties": {
-        "string": "プロパティ"
+        "string": "属性"
     },
     "design_systems.component_properties.property_icon_tooltip": {
-        "string": "{propertyType}プロパティ"
+        "string": "{propertyType}属性"
     },
     "design_systems.component_properties.publish_preferred_values": {
-        "string": "すべての優先値を公開..."
+        "string": "发布所有优先值..."
     },
     "design_systems.component_properties.remove_value": {
-        "string": "値を削除"
+        "string": "删除值"
     },
     "design_systems.component_properties.rename_prompt": {
-        "string": "名前を変更…"
+        "string": "重命名..."
     },
     "design_systems.component_properties.see_all_layers": {
-        "string": "すべてのレイヤーを表示"
+        "string": "查看所有层"
     },
     "design_systems.component_properties.select_preferred_values": {
-        "string": "優先する値を選択"
+        "string": "选择优先值"
     },
     "design_systems.component_properties.select_variants_with_property_value": {
-        "string": "{numVariants, plural, other {{numVariants}個のバリアントを選択}}"
+        "string": "选择{numVariants, plural, other {个变体}}"
     },
     "design_systems.component_properties.show_more_nested_instances_rows": {
-        "string": "さらに{count}個のインスタンスを表示"
+        "string": "显示更多{count}个实例"
     },
     "design_systems.component_properties.show_more_properties": {
-        "string": "プロパティをさらに表示"
+        "string": "显示更多属性"
     },
     "design_systems.component_properties.show_more_property_rows": {
-        "string": "さらに{count}個のプロパティを表示"
+        "string": "显示更多{count}个属性"
     },
     "design_systems.component_properties.text": {
-        "string": "テキスト"
+        "string": "文本"
     }
 }

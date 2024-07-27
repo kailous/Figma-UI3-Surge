@@ -3,150 +3,150 @@
         "string": "CC BY 4.0"
     },
     "design_systems.internal_community_library_mode_label": {
-        "string": "(Internal) Community library mode"
+        "string": "（内部）社区库模式"
     },
     "design_systems.internal_community_library_unpublish": {
-        "string": "(Internal) Unpublish community library"
+        "string": "（内部）取消发布社区库"
     },
     "design_systems.internal_community_unpublish_warning": {
-        "string": "Unpublishing the Community library will prevent its assets from being seen in all asset consumption surfaces! If this is a UI kit, it will impact all Figma users. Be sure you want to do this."
+        "string": "取消发布社区库将使其资产在所有资产消费界面中不可见！如果这是一个UI工具包，将影响所有Figma用户。请确保您想这样做。"
     },
     "design_systems.publish_actions.cant_publish": {
-        "string": "オフラインでは公開できません"
+        "string": "无法在离线状态下发布"
     },
     "design_systems.publish_actions.cant_unpublish": {
-        "string": "オフラインでは公開取り消しできません"
+        "string": "无法在离线状态下取消发布"
     },
     "design_systems.publish_actions.payload_too_large": {
-        "string": "ページ、フレーム、またはアセットの名前が長すぎます。短い名前でやり直してください。"
+        "string": "页面、框架或资产名称过长。请使用较短的名称重试。"
     },
     "design_systems.publish_actions.publish_error": {
-        "string": "{numSkipped, plural, other {チームライブラリに{numSkipped}件の変更を公開できませんでした}}"
+        "string": "无法发布{numSkipped}项更改到团队库"
     },
     "design_systems.publish_actions.publish_failed": {
-        "string": "公開できませんでした: {reason}"
+        "string": "无法发布：{reason}"
     },
     "design_systems.publish_actions.publish_success": {
-        "string": "ライブラリの更新が公開されました"
+        "string": "库更新已发布"
     },
     "design_systems.publish_actions.publishing_library": {
-        "string": "ライブラリを公開中"
+        "string": "正在发布库"
     },
     "design_systems.publish_actions.reload": {
-        "string": "公開するにはページを再読み込みしてください。"
+        "string": "请重新加载页面以发布。"
     },
     "design_systems.publish_actions.retry": {
-        "string": "再試行"
+        "string": "重试"
     },
     "design_systems.publish_actions.savepoint_for_publish": {
-        "string": "コンポーネント公開"
+        "string": "组件发布"
     },
     "design_systems.publish_actions.savepoint_for_publish_slides": {
-        "string": "テンプレート公開"
+        "string": "模板发布"
     },
     "design_systems.publish_actions.savepoint_for_unpublish": {
-        "string": "コンポーネント公開取り消し"
+        "string": "组件取消发布"
     },
     "design_systems.publish_actions.savepoint_for_unpublish_slides": {
-        "string": "テンプレート公開取り消し"
+        "string": "模板取消发布"
     },
     "design_systems.publish_actions.unpublish_error": {
-        "string": "{numSkipped, plural, other {チームライブラリから{numSkipped}件の変更の公開を取り消すことができませんでした}}"
+        "string": "无法取消发布{numSkipped}项更改"
     },
     "design_systems.publish_actions.unpublish_failed": {
-        "string": "公開取り消しできませんでした: {reason}"
+        "string": "无法取消发布：{reason}"
     },
     "design_systems.publish_actions.unpublish_success": {
-        "string": "ライブラリの公開が取り消されました"
+        "string": "库已取消发布"
     },
     "design_systems.publish_actions.unpublishing_library": {
-        "string": "ライブラリの公開を取り消し中"
+        "string": "正在取消发布库"
     },
     "design_systems.publish_actions.validations_contact": {
-        "string": "お問い合わせ"
+        "string": "联系我们"
     },
     "design_systems.publish_actions.validations_failed": {
-        "string": "コンテンツを公開できません。Figmaにお問い合わせください。"
+        "string": "无法发布内容。请联系Figma。"
     },
     "design_systems.publish_error.generic": {
-        "string": "公開処理中に問題が発生しました。もう一度お試しください"
+        "string": "发布过程中出现问题。请再试一次。"
     },
     "design_systems.publishing_modal.added": {
-        "string": "追加済み"
+        "string": "已添加"
     },
     "design_systems.publishing_modal.assembling_components_styles_and_variables": {
-        "string": "コンポーネント、スタイル、バリアブルを準備しています"
+        "string": "正在准备组件、样式和变量"
     },
     "design_systems.publishing_modal.asset_cannot_be_published": {
-        "string": "アセットは公開できません"
+        "string": "资产无法发布"
     },
     "design_systems.publishing_modal.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "design_systems.publishing_modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "design_systems.publishing_modal.changes_header_with_count": {
-        "string": "変更{countString}"
+        "string": "更改{countString}"
     },
     "design_systems.publishing_modal.components": {
-        "string": "コンポーネント"
+        "string": "组件"
     },
     "design_systems.publishing_modal.conflicting_property_names": {
-        "string": "プロパティ名が競合しています"
+        "string": "属性名称冲突"
     },
     "design_systems.publishing_modal.conflicting_property_values": {
-        "string": "プロパティ値が競合しています"
+        "string": "属性值冲突"
     },
     "design_systems.publishing_modal.corrupt_layer_names": {
-        "string": "レイヤー名が壊れています"
+        "string": "层名称已损坏"
     },
     "design_systems.publishing_modal.count": {
-        "string": "({count})"
+        "string": "（{count}）"
     },
     "design_systems.publishing_modal.count_with_total": {
-        "string": "({count}/{total})"
+        "string": "（{count}/{total}）"
     },
     "design_systems.publishing_modal.create_a_professional_team": {
-        "string": "プロフェッショナルチームを作成する"
+        "string": "创建专业团队"
     },
     "design_systems.publishing_modal.description_placeholder": {
-        "string": "変更内容の説明(オプション)"
+        "string": "更改说明（可选）"
     },
     "design_systems.publishing_modal.empty_search_result": {
-        "string": "''{assetQuery}''に一致する結果がありません"
+        "string": "无与“{assetQuery}”匹配的结果"
     },
     "design_systems.publishing_modal.example_conversion_warning": {
-        "string": "コンポーネントは使用例に変換できません。公開前に examples/ の接頭辞を削除してください。"
+        "string": "组件无法转换为示例。在发布前，请删除examples/前缀。"
     },
     "design_systems.publishing_modal.exclude_from_publish": {
-        "string": "{assetName}を公開対象から除外する"
+        "string": "从发布中排除{assetName}"
     },
     "design_systems.publishing_modal.filename_fallback": {
-        "string": "別のファイル"
+        "string": "其他文件"
     },
     "design_systems.publishing_modal.header_changed_variable_count": {
-        "string": "{count, plural, other {({count}個の非表示のバリアブル)}}"
+        "string": "（{count}个隐藏的变量）"
     },
     "design_systems.publishing_modal.header_changed_variable_count_no_parentheses": {
-        "string": "{count, plural, other {{count}個の変更済みバリアブル}}"
+        "string": "{count}个更改的变量"
     },
     "design_systems.publishing_modal.hidden_header_with_count": {
-        "string": "非表示{countString}"
+        "string": "隐藏{countString}"
     },
     "design_systems.publishing_modal.hidden_variable_count": {
-        "string": "{count, plural, other {({count}個の非表示のバリアブル)}}"
+        "string": "（{count}个隐藏的变量）"
     },
     "design_systems.publishing_modal.hidden_variable_count_no_parentheses": {
-        "string": "{count, plural, other {{count}個の非表示のバリアブル}}"
+        "string": "{count}个隐藏的变量"
     },
     "design_systems.publishing_modal.hidden_variable_count_within_collection": {
-        "string": "{count, plural, other {{count}個の非表示のバリアブル}}"
+        "string": "{count}个隐藏的变量"
     },
     "design_systems.publishing_modal.hide_when_publishing": {
-        "string": "公開時に非表示にする"
+        "string": "发布时隐藏"
     },
     "design_systems.publishing_modal.include_in_publish": {
-        "string": "{assetName}を公開対象に含める"
+        "string": "将{assetName}包括在发布中"
     }
 }

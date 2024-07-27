@@ -1,152 +1,152 @@
 {
     "design_systems.component_properties.try_again": {
-        "string": "もう一度お試しください"
+        "string": "请再试一次"
     },
     "design_systems.component_properties.trying": {
-        "string": "再試行しています..."
+        "string": "正在重试..."
     },
     "design_systems.component_properties.unbubble_instance": {
-        "string": "インスタンスを削除"
+        "string": "删除实例"
     },
     "design_systems.component_properties.unlinked_property_help_text": {
-        "string": "このレイヤーはコンポーネントから取得したものであり、このプロパティが含まれていました。"
+        "string": "此图层从组件中提取，包含此属性。"
     },
     "design_systems.component_properties.unpublished_preferred_values": {
-        "string": "一部の優先値は公開されていないため、インスタンスに表示されません。"
+        "string": "部分优先值未发布，因此实例中不可见。"
     },
     "design_systems.component_properties.values": {
-        "string": "値"
+        "string": "值"
     },
     "design_systems.component_properties.variant": {
-        "string": "バリアント"
+        "string": "变体"
     },
     "design_systems.component_properties.variant_property_default_name": {
-        "string": "プロパティ"
+        "string": "属性"
     },
     "design_systems.component_properties.variant_property_values_delimiter": {
         "string": "、"
     },
     "design_systems.create_style.an_error_occurred_while_creating_the_style": {
-        "string": "スタイルの作成中にエラーが発生しました。"
+        "string": "创建样式时发生错误。"
     },
     "design_systems.create_style.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "design_systems.create_style.color": {
-        "string": "新しい色のスタイルを作成"
+        "string": "创建新颜色样式"
     },
     "design_systems.create_style.color_conflict": {
-        "string": "色の競合"
+        "string": "颜色冲突"
     },
     "design_systems.create_style.conflict": {
-        "string": "{conflictNodesCount, plural, other {この色を他の色と組み合わせて使用している{conflictNodesCount}個のオブジェクトがあります。他の色は削除されます。}}"
+        "string": "{conflictNodesCount, plural, other {此颜色与其他{conflictNodesCount}个对象一起使用，其他颜色将被删除。}}"
     },
     "design_systems.create_style.create_new_color_style": {
-        "string": "新しい色のスタイルを作成"
+        "string": "创建新颜色样式"
     },
     "design_systems.create_style.create_new_color_styles": {
-        "string": "新しい色のスタイルを作成"
+        "string": "创建新颜色样式"
     },
     "design_systems.create_style.create_new_style_generic": {
-        "string": "新しいスタイルを作成"
+        "string": "创建新样式"
     },
     "design_systems.create_style.create_style": {
-        "string": "スタイルの作成"
+        "string": "创建样式"
     },
     "design_systems.create_style.create_styles": {
-        "string": "スタイルの作成"
+        "string": "创建样式"
     },
     "design_systems.create_style.description": {
-        "string": "説明"
+        "string": "描述"
     },
     "design_systems.create_style.effect": {
-        "string": "新しいエフェクトのスタイルを作成"
+        "string": "创建新效果样式"
     },
     "design_systems.create_style.error_applying_style": {
-        "string": "スタイルの適用中にエラーが発生しました。"
+        "string": "应用样式时发生错误。"
     },
     "design_systems.create_style.error_creating_style": {
-        "string": "スタイルの作成中にエラーが発生しました。"
+        "string": "创建样式时发生错误。"
     },
     "design_systems.create_style.export": {
-        "string": "新しいエクスポートスタイルを作成"
+        "string": "创建新导出样式"
     },
     "design_systems.create_style.grid": {
-        "string": "新しいグリッドスタイルを作成"
+        "string": "创建新网格样式"
     },
     "design_systems.create_style.hide_options": {
-        "string": "オプションを非表示"
+        "string": "隐藏选项"
     },
     "design_systems.create_style.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "design_systems.create_style.new_folder": {
-        "string": "新しいフォルダー"
+        "string": "新建文件夹"
     },
     "design_systems.create_style.placeholder_description": {
-        "string": "何のために使用しますか?"
+        "string": "用来做什么？"
     },
     "design_systems.create_style.placeholder_name_color": {
-        "string": "新しい色のスタイル"
+        "string": "新颜色样式"
     },
     "design_systems.create_style.placeholder_name_create_new_style_generic": {
-        "string": "新しいスタイル"
+        "string": "新样式"
     },
     "design_systems.create_style.placeholder_name_effect": {
-        "string": "新しいエフェクトスタイル"
+        "string": "新效果样式"
     },
     "design_systems.create_style.placeholder_name_grid": {
-        "string": "新しいグリッドスタイル"
+        "string": "新网格样式"
     },
     "design_systems.create_style.placeholder_name_text": {
-        "string": "新しいテキストスタイル"
+        "string": "新文本样式"
     },
     "design_systems.create_style.show_me": {
-        "string": "見る"
+        "string": "展示"
     },
     "design_systems.create_style.show_more_options": {
-        "string": "その他のオプションを表示"
+        "string": "显示更多选项"
     },
     "design_systems.create_style.style": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "design_systems.create_style.text": {
-        "string": "新しいテキストのスタイルを作成"
+        "string": "创建新文本样式"
     },
     "design_systems.create_style.untitled_folder": {
-        "string": "無題"
+        "string": "无标题"
     },
     "design_systems.create_style.untitled_with_count": {
-        "string": "{index, plural, other {無題{index}}}"
+        "string": "{index, plural, other {无标题{index}}}"
     },
     "design_systems.create_style.use_style": {
-        "string": "スタイルを使用"
+        "string": "使用样式"
     },
     "design_systems.actions.return_to_instance": {
-        "string": "インスタンスに戻る"
+        "string": "返回实例"
     },
     "design_systems.actions.return_to_variant": {
-        "string": "最初のバリアントに戻る"
+        "string": "返回初始变体"
     },
     "design_systems.actions.variant_changed": {
-        "string": "バリアントが変更されました"
+        "string": "变体已更改"
     },
     "design_systems.dsa.files": {
-        "string": "ファイル"
+        "string": "文件"
     },
     "design_systems.dsa.instances_all_time": {
-        "string": "インスタンス(全期間)"
+        "string": "实例（所有时间）"
     },
     "design_systems.dsa.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "design_systems.dsa.not_visible": {
-        "string": "非表示"
+        "string": "不可见"
     },
     "design_systems.dsa.not_visible_help": {
-        "string": "アクセス権限のため、表示されていないチームやファイルがあります。"
+        "string": "由于访问权限，部分团队或文件不可见。"
     },
     "design_systems.dsa.teams": {
-        "string": "チーム"
+        "string": "团队"
     }
 }

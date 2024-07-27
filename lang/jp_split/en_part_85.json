@@ -1,152 +1,152 @@
 {
     "design_systems.assets_panel.num_templates": {
-        "string": "{numTemplates, plural, other {{numTemplates}個のテンプレート}}"
+        "string": "{numTemplates, plural, other {{numTemplates}个模板}}"
     },
     "design_systems.assets_panel.org_libraries": {
-        "string": "{orgOrTeamName}のライブラリ"
+        "string": "{orgOrTeamName}的库"
     },
     "design_systems.assets_panel.playground_label": {
-        "string": "プロパティ"
+        "string": "属性"
     },
     "design_systems.assets_panel.publish_library": {
-        "string": "ライブラリを公開"
+        "string": "发布库"
     },
     "design_systems.assets_panel.remove_library_from_file": {
-        "string": "ファイルからライブラリを削除"
+        "string": "从文件中删除库"
     },
     "design_systems.assets_panel.search": {
-        "string": "アセットを検索..."
+        "string": "搜索资产..."
     },
     "design_systems.assets_panel.search_all_libraries": {
-        "string": "すべてのライブラリを検索"
+        "string": "搜索所有库"
     },
     "design_systems.assets_panel.search_chip_label": {
-        "string": "検索フィルターを削除"
+        "string": "删除搜索过滤器"
     },
     "design_systems.assets_panel.search_library": {
-        "string": "このライブラリで検索"
+        "string": "在此库中搜索"
     },
     "design_systems.assets_panel.settings_label": {
-        "string": "ライブラリと設定"
+        "string": "库和设置"
     },
     "design_systems.assets_panel.show_as_grid": {
-        "string": "グリッドで表示"
+        "string": "网格显示"
     },
     "design_systems.assets_panel.show_as_list": {
-        "string": "リストで表示"
+        "string": "列表显示"
     },
     "design_systems.assets_panel.show_less": {
-        "string": "表示を減らす"
+        "string": "显示更少"
     },
     "design_systems.assets_panel.show_more": {
-        "string": "さらに表示"
+        "string": "显示更多"
     },
     "design_systems.assets_panel.showing_results_from_all_libraries": {
-        "string": "すべてのライブラリから結果を表示中"
+        "string": "显示所有库的结果"
     },
     "design_systems.assets_panel.templates": {
-        "string": "テンプレート"
+        "string": "模板"
     },
     "design_systems.assets_panel.ui_kit_empty_state": {
-        "string": "または、既製のUIキットを利用しましょう"
+        "string": "或者，使用现成的UI工具包"
     },
     "design_systems.assets_panel.ui_kits": {
-        "string": "UIキット"
+        "string": "UI工具包"
     },
     "design_systems.assets_panel.update_banner": {
-        "string": "アップデートが利用可能です。最新版を入手するには、いったん閉じて、もう一度開いてください。"
+        "string": "有可用更新。请关闭并重新打开以获取最新版本。"
     },
     "design_systems.assets_panel.updated_at": {
-        "string": "{updatedAt}に更新済み"
+        "string": "{updatedAt}更新"
     },
     "design_systems.assets_panel.variant_count": {
-        "string": "{numVariants, plural, other {{numVariants}個のバリアントを含みます}}"
+        "string": "包含{numVariants, plural, other {{numVariants}个变体}}"
     },
     "design_systems.assets_panel.view_details": {
-        "string": "詳細を表示"
+        "string": "查看详情"
     },
     "design_systems.assets_panel.view_toggle_grid": {
-        "string": "グリッド"
+        "string": "网格"
     },
     "design_systems.assets_panel.view_toggle_list": {
-        "string": "リスト"
+        "string": "列表"
     },
     "design_systems.assets_panel.view_toggle_show_folders": {
-        "string": "サブフォルダを表示"
+        "string": "显示子文件夹"
     },
     "design_systems.component_panel.changes_pushed_to_main_component": {
-        "string": "変更がメインコンポーネントにプッシュされました"
+        "string": "更改已推送到主组件"
     },
     "design_systems.component_panel.component_controls": {
-        "string": "コンポーネントの設定"
+        "string": "组件控制"
     },
     "design_systems.component_panel.component_documentation": {
-        "string": "コンポーネントのドキュメント"
+        "string": "组件文档"
     },
     "design_systems.component_panel.component_set": {
-        "string": "コンポーネントセット"
+        "string": "组件集"
     },
     "design_systems.component_panel.create_component_property": {
-        "string": "コンポーネントプロパティを作成"
+        "string": "创建组件属性"
     },
     "design_systems.component_panel.current_variant": {
-        "string": "現在のバリアント"
+        "string": "当前变体"
     },
     "design_systems.component_panel.description": {
-        "string": "説明"
+        "string": "描述"
     },
     "design_systems.component_panel.description_mixed": {
         "string": "混合"
     },
     "design_systems.component_panel.description_placeholder": {
-        "string": "このコンポーネントの使い方"
+        "string": "此组件的使用方法"
     },
     "design_systems.component_panel.favicon_alt": {
-        "string": "{hostName}用ファビコン"
+        "string": "{hostName}的favicon"
     },
     "design_systems.component_panel.link": {
-        "string": "リンク"
+        "string": "链接"
     },
     "design_systems.component_panel.link_to_documentation": {
-        "string": "ドキュメンテーションにリンクする"
+        "string": "链接到文档"
     },
     "design_systems.component_panel.parent_component": {
-        "string": "親コンポーネント"
+        "string": "父组件"
     },
     "design_systems.component_panel.publish_new_changes": {
-        "string": "変更を公開…"
+        "string": "发布新更改..."
     },
     "design_systems.component_panel.select_component": {
-        "string": "コンポーネントを選択"
+        "string": "选择组件"
     },
     "design_systems.component_panel.selected_variant": {
-        "string": "選択済みのバリアント"
+        "string": "选定的变体"
     },
     "design_systems.component_panel.simplify_instances": {
-        "string": "インスタンスをすべて簡略化"
+        "string": "简化所有实例"
     },
     "design_systems.component_panel.simplify_instances_help_text": {
-        "string": "プロパティのないレイヤー、および塗りつぶし、エフェクト、オートレイアウトなどの詳細を非表示にします。"
+        "string": "隐藏无属性的图层以及填充、效果、自动布局等详细信息。"
     },
     "design_systems.component_panel.view_documentation": {
-        "string": "ドキュメンテーションを表示"
+        "string": "查看文档"
     },
     "design_systems.component_panel.view_in_display_name": {
-        "string": "{displayName}に表示"
+        "string": "在{displayName}中查看"
     },
     "design_systems.component_properties.across_variants": {
-        "string": "バリアント"
+        "string": "变体"
     },
     "design_systems.component_properties.add_new_prompt": {
-        "string": "新規追加…"
+        "string": "添加新属性..."
     },
     "design_systems.component_properties.add_property": {
-        "string": "プロパティを追加"
+        "string": "添加属性"
     },
     "design_systems.component_properties.apply_component_property": {
-        "string": "{propType}プロパティを適用"
+        "string": "应用{propType}属性"
     },
     "design_systems.component_properties.boolean": {
-        "string": "ブール値"
+        "string": "布尔值"
     }
 }

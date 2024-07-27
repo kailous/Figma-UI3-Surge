@@ -1,152 +1,152 @@
 {
     "design_systems.instance_panel.component_missing": {
-        "string": "コンポーネントがありません"
+        "string": "组件丢失"
     },
     "design_systems.instance_panel.component_removed": {
-        "string": "コンポーネントがライブラリから削除されました"
+        "string": "组件已从库中删除"
     },
     "design_systems.instance_panel.deleted_source_component_message": {
-        "string": "共有コンポーネントのインスタンスは、元のコンポーネントが削除された場合、その共有コンポーネントの公開元のドキュメントに追加することはできません。"
+        "string": "共享组件的实例无法添加到其来源文档中，如果原始组件被删除。"
     },
     "design_systems.instance_panel.go_to_main_component": {
-        "string": "メインコンポーネントに移動"
+        "string": "前往主组件"
     },
     "design_systems.instance_panel.go_to_main_component_nin_library": {
-        "string": "ライブラリで\nメインコンポーネントに移動"
+        "string": "在库中前往主组件"
     },
     "design_systems.instance_panel.instance_options": {
-        "string": "インスタンスオプション"
+        "string": "实例选项"
     },
     "design_systems.instance_panel.mixed": {
         "string": "混合"
     },
     "design_systems.instance_panel.no_changes_to_reset": {
-        "string": "リセットする変更なし"
+        "string": "没有要重置的更改"
     },
     "design_systems.instance_panel.ok": {
-        "string": "OK"
+        "string": "确定"
     },
     "design_systems.instance_panel.oops": {
-        "string": "ご注意ください"
+        "string": "注意"
     },
     "design_systems.instance_panel.reset_all_changes": {
-        "string": "すべての変更をリセット"
+        "string": "重置所有更改"
     },
     "design_systems.instance_panel.reset_effects": {
-        "string": "エフェクトのリセット"
+        "string": "重置效果"
     },
     "design_systems.instance_panel.reset_exports": {
-        "string": "エクスポートのリセット"
+        "string": "重置导出"
     },
     "design_systems.instance_panel.reset_fill": {
-        "string": "塗りのリセット"
+        "string": "重置填充"
     },
     "design_systems.instance_panel.reset_interactions": {
-        "string": "インタラクションのリセット"
+        "string": "重置交互"
     },
     "design_systems.instance_panel.reset_name": {
-        "string": "名前のリセット"
+        "string": "重置名称"
     },
     "design_systems.instance_panel.reset_others": {
-        "string": "その他をリセット"
+        "string": "重置其他"
     },
     "design_systems.instance_panel.reset_overlay": {
-        "string": "オーバーレイのリセット"
+        "string": "重置覆盖"
     },
     "design_systems.instance_panel.reset_property_assignment": {
-        "string": "{assignmentName}プロパティのリセット"
+        "string": "重置{assignmentName}属性"
     },
     "design_systems.instance_panel.reset_size": {
-        "string": "サイズのリセット"
+        "string": "重置大小"
     },
     "design_systems.instance_panel.reset_stroke": {
-        "string": "線のリセット"
+        "string": "重置描边"
     },
     "design_systems.instance_panel.reset_text": {
-        "string": "テキストのリセット"
+        "string": "重置文本"
     },
     "design_systems.instance_panel.reset_text_style": {
-        "string": "テキストスタイルのリセット"
+        "string": "重置文本样式"
     },
     "design_systems.instance_panel.reset_to_default": {
-        "string": "デフォルトにリセット"
+        "string": "重置为默认"
     },
     "design_systems.instance_panel.reset_visibility": {
-        "string": "表示のリセット"
+        "string": "重置可见性"
     },
     "design_systems.instance_panel.restore_component": {
-        "string": "コンポーネントを復元"
+        "string": "恢复组件"
     },
     "design_systems.instance_panel.restore_variant": {
-        "string": "バリアントを復元"
+        "string": "恢复变体"
     },
     "design_systems.instance_panel.review_update": {
-        "string": "更新の確認"
+        "string": "查看更新"
     },
     "design_systems.instance_panel.select_instance": {
-        "string": "インスタンスを選択"
+        "string": "选择实例"
     },
     "design_systems.instance_panel.show_more": {
-        "string": "詳細を表示"
+        "string": "显示更多"
     },
     "design_systems.instance_panel.swap_instance": {
-        "string": "インスタンスの入れ替え"
+        "string": "交换实例"
     },
     "design_systems.instance_panel.the_selected_variant_is_missing_in_the_component": {
-        "string": "選択したバリアントがコンポーネントにありません。"
+        "string": "所选变体在组件中丢失。"
     },
     "design_systems.instance_panel.update_available": {
-        "string": "更新プログラムあり"
+        "string": "有更新可用"
     },
     "design_systems.instance_panel.update_selected": {
-        "string": "{numSelectedInstancesToUpdate, plural, other {選択したインスタンスの更新}}"
+        "string": "更新选定的{numSelectedInstancesToUpdate}个实例"
     },
     "design_systems.instance_panel.variant_missing": {
-        "string": "バリアントがありません"
+        "string": "变体丢失"
     },
     "design_systems.instance_panel.view_library_in_community": {
-        "string": "ライブラリをコミュニティで表示"
+        "string": "在社区中查看库"
     },
     "design_systems.instance_swap_picker.all_libraries": {
-        "string": "すべてのライブラリ"
+        "string": "所有库"
     },
     "design_systems.instance_swap_picker.browse_libraries": {
-        "string": "ライブラリを参照..."
+        "string": "浏览库..."
     },
     "design_systems.instance_swap_picker.enabled_libraries": {
-        "string": "ライブラリを有効にする"
+        "string": "启用库"
     },
     "design_systems.instance_swap_picker.go_to_main_component": {
-        "string": "メインコンポーネントに移動"
+        "string": "前往主组件"
     },
     "design_systems.instance_swap_picker.local_components": {
-        "string": "ローカルコンポーネント"
+        "string": "本地组件"
     },
     "design_systems.instance_swap_picker.mixed": {
         "string": "混合"
     },
     "design_systems.instance_swap_picker.no_components": {
-        "string": "コンポーネントなし"
+        "string": "无组件"
     },
     "design_systems.instance_swap_picker.no_results": {
-        "string": "''{query}''に一致する結果はありません"
+        "string": "没有与“{query}”匹配的结果"
     },
     "design_systems.instance_swap_picker.pick_instance": {
-        "string": "インスタンスを選ぶ"
+        "string": "选择实例"
     },
     "design_systems.instance_swap_picker.preferred": {
-        "string": "優先"
+        "string": "首选"
     },
     "design_systems.instance_swap_picker.recently_used": {
-        "string": "最近使用したコンポーネント"
+        "string": "最近使用的组件"
     },
     "design_systems.instance_swap_picker.search": {
-        "string": "検索"
+        "string": "搜索"
     },
     "design_systems.instance_swap_picker.search_all_libraries": {
-        "string": "すべてのライブラリを検索"
+        "string": "搜索所有库"
     },
     "design_systems.instance_swap_picker.search_filename": {
-        "string": "{filename}を検索"
+        "string": "搜索{filename}"
     }
 }

@@ -1,152 +1,152 @@
 {
     "design_systems.libraries_modal.open_in_file": {
-        "string": "ファイルで開く"
+        "string": "在文件中打开"
     },
     "design_systems.libraries_modal.other_libraries": {
-        "string": "他のライブラリ"
+        "string": "其他库"
     },
     "design_systems.libraries_modal.other_teams": {
-        "string": "その他のチーム"
+        "string": "其他团队"
     },
     "design_systems.libraries_modal.overview": {
-        "string": "概要"
+        "string": "概述"
     },
     "design_systems.libraries_modal.plural.component": {
-        "string": "{componentCount, plural, other {コンポーネント}}"
+        "string": "{componentCount, plural, other {组件}}"
     },
     "design_systems.libraries_modal.plural.file": {
-        "string": "{fileCount, plural, other {ファイル}}"
+        "string": "{fileCount, plural, other {文件}}"
     },
     "design_systems.libraries_modal.plural.includes_missing_library": {
-        "string": "{missingLibCount, plural, other {{missingLibCount}個の欠落したライブラリが含まれます}}"
+        "string": "{missingLibCount, plural, other {包含{missingLibCount}个缺失的库}}"
     },
     "design_systems.libraries_modal.plural.insert": {
-        "string": "{insertCount, plural, other {挿入}}"
+        "string": "{insertCount, plural, other {插入}}"
     },
     "design_systems.libraries_modal.plural.instance": {
-        "string": "{instanceCount, plural, other {インスタンス}}"
+        "string": "{instanceCount, plural, other {实例}}"
     },
     "design_systems.libraries_modal.plural.library": {
-        "string": "{libraryCount, plural, other {ライブラリ}}"
+        "string": "{libraryCount, plural, other {库}}"
     },
     "design_systems.libraries_modal.plural.missing_library": {
-        "string": "{missingLibCount, plural, other {ライブラリがありません}}"
+        "string": "{missingLibCount, plural, other {缺失的库}}"
     },
     "design_systems.libraries_modal.plural.num_component": {
-        "string": "{numComponents, plural, other {{numComponents}個のコンポーネント}}"
+        "string": "{numComponents, plural, other {{numComponents}个组件}}"
     },
     "design_systems.libraries_modal.plural.num_component_match": {
-        "string": "{numComponents, plural, other {{numComponents}個のコンポーネントが一致します}}"
+        "string": "{numComponents, plural, other {{numComponents}个匹配的组件}}"
     },
     "design_systems.libraries_modal.plural.num_components_shown": {
-        "string": "{numComponents, plural, other {{numComponents}個のライブラリコンポーネントが表示されています。現在スタイルの使用は追跡されていません。}}"
+        "string": "{numComponents, plural, other {{numComponents}个库组件已显示。当前未追踪样式的使用。}}"
     },
     "design_systems.libraries_modal.plural.num_library": {
-        "string": "{count, plural, other {{count}個のライブラリ}}"
+        "string": "{count, plural, other {{count}个库}}"
     },
     "design_systems.libraries_modal.plural.num_style": {
-        "string": "{numStyles, plural, other {{numStyles}個のスタイル}}"
+        "string": "{numStyles, plural, other {{numStyles}个样式}}"
     },
     "design_systems.libraries_modal.plural.num_style_match": {
-        "string": "{numStyles, plural, other {{numStyles}個のスタイルが一致します}}"
+        "string": "{numStyles, plural, other {{numStyles}个匹配的样式}}"
     },
     "design_systems.libraries_modal.plural.num_teams_total": {
-        "string": "{teamCount, plural, other {合計{teamCount}チーム}}"
+        "string": "{teamCount, plural, other {共{teamCount}个团队}}"
     },
     "design_systems.libraries_modal.plural.num_templates": {
-        "string": "{numTemplates, plural, other {{numTemplates}個のテンプレート}}"
+        "string": "{numTemplates, plural, other {{numTemplates}个模板}}"
     },
     "design_systems.libraries_modal.plural.num_templates_match": {
-        "string": "{numTemplates, plural, other {{numTemplates}個のテンプレートが一致します}}"
+        "string": "{numTemplates, plural, other {{numTemplates}个匹配的模板}}"
     },
     "design_systems.libraries_modal.plural.num_variable_collection_match": {
-        "string": "{numVariableCollections, plural, other {{numVariableCollections}個のバリアブルコレクションが一致します}}"
+        "string": "{numVariableCollections, plural, other {{numVariableCollections}个匹配的变量集合}}"
     },
     "design_systems.libraries_modal.plural.num_variable_match": {
-        "string": "{numVariables, plural, other {{numVariables}個のバリアブルが一致します}}"
+        "string": "{numVariables, plural, other {{numVariables}个匹配的变量}}"
     },
     "design_systems.libraries_modal.plural.num_variables": {
-        "string": "{numVariables, plural, other {{numVariables}個のバリアブル}}"
+        "string": "{numVariables, plural, other {{numVariables}个变量}}"
     },
     "design_systems.libraries_modal.plural.style": {
-        "string": "{styleCount, plural, other { スタイル}}"
+        "string": "{styleCount, plural, other {样式}}"
     },
     "design_systems.libraries_modal.plural.team": {
-        "string": "{teamCount, plural, other {チーム}}"
+        "string": "{teamCount, plural, other {团队}}"
     },
     "design_systems.libraries_modal.plural.variable_collections": {
-        "string": "{numVariableCollections, plural, other {{numVariableCollections}個のバリアブルコレクション}}"
+        "string": "{numVariableCollections, plural, other {{numVariableCollections}个变量集合}}"
     },
     "design_systems.libraries_modal.presets.explore_presets": {
-        "string": "Figmaと提携先が作成したUIキットをご確認ください。"
+        "string": "查看Figma及其合作伙伴创建的UI工具包。"
     },
     "design_systems.libraries_modal.presets.start_browsing": {
-        "string": "閲覧を開始"
+        "string": "开始浏览"
     },
     "design_systems.libraries_modal.publish": {
-        "string": "公開..."
+        "string": "发布..."
     },
     "design_systems.libraries_modal.publish_changes": {
-        "string": "変更を公開"
+        "string": "发布更改"
     },
     "design_systems.libraries_modal.publish_components_as_a_library": {
-        "string": "コンポーネントをライブラリとして公開します"
+        "string": "将组件作为库发布"
     },
     "design_systems.libraries_modal.publishing": {
-        "string": "公開中"
+        "string": "发布中"
     },
     "design_systems.libraries_modal.remove": {
-        "string": "削除"
+        "string": "移除"
     },
     "design_systems.libraries_modal.remove_library": {
-        "string": "削除"
+        "string": "移除库"
     },
     "design_systems.libraries_modal.remove_library_modal_title": {
-        "string": "ライブラリから削除しますか?"
+        "string": "是否从库中移除？"
     },
     "design_systems.libraries_modal.search_query_best_matches": {
-        "string": "''{searchQuery}''の最適な一致"
+        "string": "“{searchQuery}”的最佳匹配"
     },
     "design_systems.libraries_modal.searching": {
-        "string": "検索中..."
+        "string": "搜索中..."
     },
     "design_systems.libraries_modal.select_library": {
-        "string": "ライブラリの選択"
+        "string": "选择库"
     },
     "design_systems.libraries_modal.share_components_on_new_plan": {
-        "string": "{upgradePlanText}と、コンポーネントをチームと共有できます。"
+        "string": "{upgradePlanText}，与团队共享组件。"
     },
     "design_systems.libraries_modal.shared_fonts": {
-        "string": "共有フォント"
+        "string": "共享字体"
     },
     "design_systems.libraries_modal.show_enabled_libraries_filter": {
-        "string": "有効なライブラリのみ表示"
+        "string": "仅显示启用的库"
     },
     "design_systems.libraries_modal.showing_x_variant": {
-        "string": "{variantCount, plural, other {このコンポーネントの{variantCount}個のバリアントを表示しています。特定のバリアントを選択し、詳細を表示して使用場所を確認します。}}"
+        "string": "显示此组件的{variantCount}个变体。选择特定的变体，查看详细信息并了解其用途。"
     },
     "design_systems.libraries_modal.slides": {
-        "string": "スライドデッキ"
+        "string": "幻灯片"
     },
     "design_systems.libraries_modal.styles": {
-        "string": " スタイル"
+        "string": "样式"
     },
     "design_systems.libraries_modal.swap_asset": {
-        "string": "アセットの入れ替え"
+        "string": "交换资产"
     },
     "design_systems.libraries_modal.swap_default_styles_in_instances": {
-        "string": "インスタンスのデフォルトスタイルを入れ替えます。"
+        "string": "在实例中交换默认样式。"
     },
     "design_systems.libraries_modal.swap_library": {
-        "string": "ライブラリの入れ替え"
+        "string": "交换库"
     },
     "design_systems.libraries_modal.team": {
-        "string": "チーム"
+        "string": "团队"
     },
     "design_systems.libraries_modal.team_settings": {
-        "string": "チーム設定"
+        "string": "团队设置"
     },
     "design_systems.libraries_modal.teams_and_libraries": {
-        "string": "チームとライブラリ"
+        "string": "团队和库"
     }
 }

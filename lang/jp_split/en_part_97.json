@@ -1,152 +1,152 @@
 {
     "design_systems.styles.rename_folder": {
-        "string": "フォルダ名を変更"
+        "string": "重命名文件夹"
     },
     "design_systems.styles.review_updates": {
-        "string": "更新の確認"
+        "string": "查看更新"
     },
     "design_systems.styles.stroke_color_style": {
-        "string": "線色スタイル"
+        "string": "线条颜色样式"
     },
     "design_systems.styles.stroke_style": {
-        "string": "線スタイル"
+        "string": "线条样式"
     },
     "design_systems.styles.style": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "design_systems.styles.style_name_tooltip": {
-        "string": "保存先: {fileName}"
+        "string": "保存位置: {fileName}"
     },
     "design_systems.styles.styles": {
-        "string": "{numStyles, plural, other {スタイル}}"
+        "string": "{numStyles, plural, other {样式}}"
     },
     "design_systems.styles.text_style": {
-        "string": "{numStyles, plural, other {テキストスタイル}}"
+        "string": "{numStyles, plural, other {文本样式}}"
     },
     "design_systems.styles.tooltips.create": {
-        "string": "スタイルを作成"
+        "string": "创建样式"
     },
     "design_systems.styles.tooltips.create_style_from_section": {
-        "string": "{kind}を作成"
+        "string": "创建{kind}"
     },
     "design_systems.styles.tooltips.library": {
-        "string": "チームライブラリ"
+        "string": "团队库"
     },
     "design_systems.styles.tooltips.show_as_grid": {
-        "string": "グリッドとして表示"
+        "string": "网格显示"
     },
     "design_systems.styles.tooltips.show_as_list": {
-        "string": "リストとして表示"
+        "string": "列表显示"
     },
     "design_systems.styles.update_available": {
-        "string": "使用可能な更新あり"
+        "string": "有可用更新"
     },
     "design_systems.styles.update_selected_style": {
-        "string": "選択したスタイルの更新"
+        "string": "更新所选样式"
     },
     "design_systems.styles.view_color_style": {
-        "string": "色スタイルを表示"
+        "string": "查看颜色样式"
     },
     "design_systems.styles.view_effect_style": {
-        "string": "エフェクトスタイルを表示"
+        "string": "查看效果样式"
     },
     "design_systems.styles.view_grid_style": {
-        "string": "グリッドスタイルを表示"
+        "string": "查看网格样式"
     },
     "design_systems.styles.view_style": {
-        "string": "スタイルの表示"
+        "string": "查看样式"
     },
     "design_systems.styles.view_text_style": {
-        "string": "テキストスタイルを表示"
+        "string": "查看文本样式"
     },
     "design_systems.styles_and_variables": {
-        "string": "スタイルとバリアブル"
+        "string": "样式和变量"
     },
     "design_systems.subscriptions.inserting_instance": {
-        "string": "インスタンスを挿入しています"
+        "string": "正在插入实例"
     },
     "design_systems.subscriptions.inserting_template": {
-        "string": "テンプレートを挿入しています"
+        "string": "正在插入模板"
     },
     "design_systems.subscriptions.remap_connected": {
-        "string": "接続しました!"
+        "string": "连接成功!"
     },
     "design_systems.subscriptions.remap_connecting_fraction": {
-        "string": "接続中: {current}/{total}"
+        "string": "连接中: {current}/{total}"
     },
     "design_systems.subscriptions.remap_connection_failed": {
-        "string": "コネクションが失敗しました"
+        "string": "连接失败"
     },
     "design_systems.subscriptions.settings_updated_for": {
-        "string": "{orgOrWorkspaceName}の「{libraryName}」の設定が更新されました"
+        "string": "{orgOrWorkspaceName}的“{libraryName}”设置已更新"
     },
     "design_systems.subscriptions.this_component_is_not_available": {
-        "string": "このコンポーネントはチームライブラリにありません"
+        "string": "此组件在团队库中不可用"
     },
     "design_systems.subscriptions.unable_to_change_setting": {
-        "string": "設定を変更できません。しばらくしてからもう一度お試しください。"
+        "string": "无法更改设置，请稍后再试。"
     },
     "design_systems.template_panel.template_controls": {
-        "string": "テンプレートの設定"
+        "string": "模板控制"
     },
     "design_systems.template_panel.template_placeholder": {
-        "string": "このテンプレートの使い方"
+        "string": "此模板的用法"
     },
     "design_systems.update_actions.update_failure": {
-        "string": "更新できませんでした"
+        "string": "更新失败"
     },
     "design_systems.update_actions.update_success": {
-        "string": "アセットの更新が完了しました"
+        "string": "资产更新成功"
     },
     "design_systems.update_actions.updating_assets": {
-        "string": "アセットを更新しています"
+        "string": "正在更新资产"
     },
     "design_systems.updates.all_pages": {
-        "string": "すべてのページ"
+        "string": "所有页面"
     },
     "design_systems.updates.back_to_all_updates": {
-        "string": "すべての更新に戻る"
+        "string": "返回所有更新"
     },
     "design_systems.updates.couldn_t_load_update_descriptions_please_try_again_later": {
-        "string": "更新の説明を読み込めませんでした。しばらくしてからもう一度お試しください。"
+        "string": "无法加载更新描述，请稍后再试。"
     },
     "design_systems.updates.current": {
-        "string": "現在"
+        "string": "当前"
     },
     "design_systems.updates.current_page": {
-        "string": "現在のページ"
+        "string": "当前页面"
     },
     "design_systems.updates.go_to_current_instance": {
-        "string": "インスタンスに移動"
+        "string": "转到当前实例"
     },
     "design_systems.updates.instanceIndexOfTotal": {
-        "string": "{overallItemIndex}/{totalNumItems}インスタンス"
+        "string": "{overallItemIndex}/{totalNumItems}个实例"
     },
     "design_systems.updates.instanceName": {
-        "string": "{assetName}のインスタンス"
+        "string": "{assetName}的实例"
     },
     "design_systems.updates.maybe_updates_other_pages": {
-        "string": "他のページに更新がある場合があります。"
+        "string": "其他页面可能有更新。"
     },
     "design_systems.updates.moved_from": {
-        "string": "{movedFromFileName}から移動しました"
+        "string": "从{movedFromFileName}移动"
     },
     "design_systems.updates.next_instance": {
-        "string": "次のインスタンス"
+        "string": "下一个实例"
     },
     "design_systems.updates.no_updates_available": {
-        "string": "更新はありません"
+        "string": "无可用更新"
     },
     "design_systems.updates.no_updates_available_page": {
-        "string": "このページに更新はありません"
+        "string": "此页面无更新"
     },
     "design_systems.updates.num_outdated_instances": {
-        "string": "{numOutdatedInstances, plural, other {{numOutdatedInstances}インスタンス }}"
+        "string": "{numOutdatedInstances, plural, other {{numOutdatedInstances}个实例}}"
     },
     "design_systems.updates.preview_unavailable": {
-        "string": "プレビューは利用できません"
+        "string": "预览不可用"
     },
     "design_systems.updates.previous_instance": {
-        "string": "前のインスタンス"
+        "string": "上一个实例"
     }
 }

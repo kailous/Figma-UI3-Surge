@@ -1,87 +1,87 @@
 {
     "desktop_open_views.interstitial.opened_in_app": {
-        "string": "“{fileName}”をFigmaアプリで開きました"
+        "string": "已在Figma应用中打开“{fileName}”"
     },
     "desktop_open_views.interstitial.opened_link_in_app": {
-        "string": "リンクをFigmaアプリで開きました"
+        "string": "已在Figma应用中打开链接"
     },
     "desktop_open_views.interstitial.opening_in_app": {
-        "string": "“{fileName}”をFigmaアプリで開いています…"
+        "string": "正在Figma应用中打开“{fileName}”…"
     },
     "desktop_open_views.interstitial.opening_link_in_app": {
-        "string": "リンクをFigmaアプリで開いています..."
+        "string": "正在Figma应用中打开链接..."
     },
     "desktop_open_views.modal.dismiss_button": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "desktop_open_views.open_in_desktop_from_now_on_modal.always_open_in_app_button": {
-        "string": "常にデスクトップアプリで開く"
+        "string": "始终在桌面应用中打开"
     },
     "desktop_open_views.open_in_desktop_from_now_on_modal.preferences_message": {
-        "string": "この設定はいつでも基本設定で変更できます。"
+        "string": "此设置可随时在偏好设置中更改。"
     },
     "desktop_open_views.open_in_desktop_from_now_on_modal.title": {
-        "string": "今後はデスクトップアプリでファイルを開きますか?"
+        "string": "是否今后在桌面应用中打开文件?"
     },
     "desktop_open_views.open_in_desktop_modal.always_open_in_app_checkbox": {
-        "string": "常にアプリで開く"
+        "string": "始终在应用中打开"
     },
     "desktop_open_views.open_in_desktop_modal.open_in_app_button": {
-        "string": "アプリで開く"
+        "string": "在应用中打开"
     },
     "desktop_open_views.open_in_desktop_modal.title": {
-        "string": "デスクトップアプリでこのファイルを開きますか?"
+        "string": "是否在桌面应用中打开此文件?"
     },
     "desktop_update_modal.desktop_update.title": {
-        "string": "Figmaデスクトップアプリが最新ではありません!"
+        "string": "Figma桌面应用不是最新的!"
     },
     "desktop_update_modal.desktop_update.description": {
-        "string": "作業を続けるには、Figmaデスクトップアプリを更新する必要があります。最新バージョンを{downloadsPageLink}からダウンロードしてください。"
+        "string": "要继续工作，需要更新Figma桌面应用。请从{downloadsPageLink}下载最新版本。"
     },
     "desktop_update_modal.desktop_update.link": {
-        "string": "ダウンロードページ"
+        "string": "下载页面"
     },
     "desktop_version_support.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "desktop_version_support.get_app": {
-        "string": "アプリを入手"
+        "string": "获取应用"
     },
     "desktop_version_support.update_recommended": {
-        "string": "アップデートを推奨"
+        "string": "建议更新"
     },
     "desktop_version_support.using_figma_in_japanese": {
-        "string": "日本語版のFigmaを使用していますか? フルサポートを受けるには、ダウンロードページからデスクトップアプリの最新バージョンを入手してください。"
+        "string": "使用日文版Figma？要获得完整支持，请从下载页面获取最新版本的桌面应用。"
     },
     "dev_handoff.add_dev_resource": {
-        "string": "開発リソースを追加"
+        "string": "添加开发资源"
     },
     "dev_handoff.alternative_units.description_scale_factor_android": {
-        "string": "サイズをAndroidのdp/spに変換するための変換率"
+        "string": "转换尺寸为Android dp/sp的转换因子"
     },
     "dev_handoff.alternative_units.description_scale_factor_ios": {
-        "string": "サイズをiOSのポイントに変換するための変換率"
+        "string": "转换尺寸为iOS点的转换因子"
     },
     "dev_handoff.alternative_units.description_scale_factor_third_party": {
-        "string": "ピクセルを{unitName}単位に変換するための変換率"
+        "string": "将像素转换为{unitName}的转换因子"
     },
     "dev_handoff.alternative_units.description_scale_factor_web": {
-        "string": "ピクセルをCSSのremに変換するときのルート要素のフォントサイズ"
+        "string": "将像素转换为CSS rem的根元素字体大小"
     },
     "dev_handoff.alternative_units.dimension_unit": {
-        "string": "単位"
+        "string": "单位"
     },
     "dev_handoff.alternative_units.dp_unit": {
         "string": "dp/sp"
     },
     "dev_handoff.alternative_units.inspection_scale_factor": {
-        "string": "縮尺"
+        "string": "比例因子"
     },
     "dev_handoff.alternative_units.no_scale": {
-        "string": "拡大縮小無し"
+        "string": "无缩放"
     },
     "dev_handoff.alternative_units.only_apply_rem_on_text": {
-        "string": "{rem}をテキストプロパティにのみ適用する"
+        "string": "仅将{rem}应用于文本属性"
     },
     "dev_handoff.alternative_units.pixel_unit": {
         "string": "px"
@@ -93,60 +93,60 @@
         "string": "rem"
     },
     "dev_handoff.alternative_units.unit_settings_menu_option": {
-        "string": "単位を設定..."
+        "string": "设置单位..."
     },
     "dev_handoff.alternative_units.unit_settings_modal_title": {
-        "string": "単位の設定"
+        "string": "单位设置"
     },
     "dev_handoff.alternative_units.use_pixel_unit": {
-        "string": "pxを使用"
+        "string": "使用px"
     },
     "dev_handoff.alternative_units.use_scaled_unit": {
-        "string": "{scaledUnit}を使用"
+        "string": "使用{scaledUnit}"
     },
     "dev_handoff.annotation.number_annotations": {
-        "string": "{count, plural, other {{count}件の開発モードのアノテーション}}"
+        "string": "{count, plural, other {{count}个开发模式注释}}"
     },
     "dev_handoff.annotation.view_annotations": {
-        "string": "開発モードでアノテーションを表示"
+        "string": "在开发模式下查看注释"
     },
     "dev_handoff.annotations.add_annotation": {
-        "string": "アノテーションを追加してください"
+        "string": "添加注释"
     },
     "dev_handoff.annotations.align_left": {
-        "string": "左"
+        "string": "左对齐"
     },
     "dev_handoff.annotations.alignment": {
-        "string": "配置"
+        "string": "对齐"
     },
     "dev_handoff.annotations.alignment.baseline_center": {
-        "string": "ベースライン中央"
+        "string": "基线居中"
     },
     "dev_handoff.annotations.alignment.baseline_left": {
-        "string": "ベースライン左"
+        "string": "基线左对齐"
     },
     "dev_handoff.annotations.alignment.baseline_right": {
-        "string": "ベースライン右"
+        "string": "基线右对齐"
     },
     "dev_handoff.annotations.alignment.bottom_center": {
-        "string": "ベースライン下"
+        "string": "底部居中"
     },
     "dev_handoff.annotations.alignment.bottom_left": {
-        "string": "左下"
+        "string": "左下角"
     },
     "dev_handoff.annotations.alignment.bottom_right": {
-        "string": "右下"
+        "string": "右下角"
     },
     "dev_handoff.annotations.alignment.center": {
-        "string": "中央"
+        "string": "居中"
     },
     "dev_handoff.annotations.alignment.left": {
-        "string": "左"
+        "string": "左对齐"
     },
     "dev_handoff.annotations.alignment.right": {
-        "string": "右"
+        "string": "右对齐"
     },
     "dev_handoff.annotations.alignment.top_center": {
-        "string": "上中央"
+        "string": "顶部居中"
     }
 }
