@@ -1,152 +1,152 @@
 {
     "navbar.settings_dropdown.profile_label": {
-        "string": "プロファイル"
+        "string": "个人资料"
     },
     "navbar.settings_dropdown.settings": {
-        "string": "設定"
+        "string": "设置"
     },
     "navbar.settings_dropdown.theme": {
-        "string": "テーマ"
+        "string": "主题"
     },
     "navbar.workspaces.default_org_workspace_name": {
-        "string": "組織ワークスペース"
+        "string": "组织工作区"
     },
     "navbar.workspaces.default_team_workspace_name": {
-        "string": "チームのワークスペース"
+        "string": "团队工作区"
     },
     "navbar.workspaces.default_workspace_name": {
         "string": "Figma"
     },
     "navbar.workspaces.disabled_by_your_admins": {
-        "string": "管理者により無効にされています"
+        "string": "已被您的管理员禁用"
     },
     "onboarding.skip": {
-        "string": "スキップ"
+        "string": "跳过"
     },
     "onboarding.workspace_step.join": {
-        "string": "参加"
+        "string": "加入"
     },
     "onboarding.workspace_step.subtitle_v2": {
-        "string": "{orgName}のワークスペースを選びましょう。{tipText}: 自分に最も近い、日ごろ一緒に作業するユーザーがいる場所を選びます。"
+        "string": "选择{orgName}的工作区。{tipText}：选择您经常与之合作的用户所在的地方。"
     },
     "onboarding.workspace_step.tip": {
-        "string": "ヒント"
+        "string": "提示"
     },
     "onboarding.workspace_step.title": {
-        "string": "ようこそ!"
+        "string": "欢迎！"
     },
     "file_migration.updating.title": {
-        "string": "ファイルを更新中"
+        "string": "正在更新文件"
     },
     "file_migration.updating.message": {
-        "string": "このファイルは現在新しいファイル形式へ更新中です。この処理にはしばらく時間がかかります。更新中にタブを閉じることができます。"
+        "string": "此文件正在更新到新的文件格式。此过程需要一些时间。在更新期间，您可以关闭此标签。"
     },
     "file_migration.update_needed.copy_paste.title": {
-        "string": "ファイルを貼り付ける前に更新してください"
+        "string": "请在粘贴文件前更新"
     },
     "file_migration.update_needed.copy_paste.message": {
-        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、もう一度貼り付けてください。"
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再粘贴。"
     },
     "file_migration.update_needed.component_import.title": {
-        "string": "コンポーネントを挿入する前にファイルを更新してください"
+        "string": "请在插入组件前更新文件"
     },
     "file_migration.update_needed.component_import.message": {
-        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、コンポーネントの挿入操作を再試行してください。"
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入组件。"
     },
     "file_migration.update_needed.state_group_import.title": {
-        "string": "状態グループを挿入する前にファイルを更新してください"
+        "string": "请在插入状态组前更新文件"
     },
     "file_migration.update_needed.state_group_import.message": {
-        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、状態グループの挿入操作を再試行してください。"
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入状态组。"
     },
     "file_migration.update_needed.style_import.title": {
-        "string": "スタイルを挿入する前にファイルを更新してください"
+        "string": "请在插入样式前更新文件"
     },
     "file_migration.update_needed.style_import.message": {
-        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、スタイルの挿入操作を再試行してください。"
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入样式。"
     },
     "file_migration.update_needed.merge.title": {
-        "string": "マージ操作の前にファイルを更新してください"
+        "string": "请在合并操作前更新文件"
     },
     "file_migration.update_needed.merge.message": {
-        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、マージ操作を再試行してください。"
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试合并操作。"
     },
     "file_migration.update_needed.template_insertion.title": {
-        "string": "テンプレートを挿入する前にファイルを更新してください"
+        "string": "请在插入模板前更新文件"
     },
     "file_migration.update_needed.template_insertion.message": {
-        "string": "このファイルは最新のFigma形式に更新する必要があります。ファイルを更新してから、テンプレートの挿入操作を再試行してください。"
+        "string": "此文件需要更新到最新的Figma格式。请更新文件后再尝试插入模板。"
     },
     "file_migration.update_needed.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "file_migration.update_needed.update": {
         "string": "更新"
     },
     "finish_embed_login_app.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "finish_embed_login_app.successful_log_in": {
-        "string": "Figmaへのログインが完了しました"
+        "string": "成功登录Figma"
     },
     "finish_embed_login_app.successful_log_out": {
-        "string": "Figmaからのログアウトが完了しました"
+        "string": "成功登出Figma"
     },
     "finish_embed_login_app.this_window_will_automatically_close_in_seconds": {
-        "string": "このウィンドウは{secondsRemaining}秒後に自動的に閉じます"
+        "string": "此窗口将在{secondsRemaining}秒后自动关闭"
     },
     "first_draft.current_file": {
-        "string": "現在のファイル"
+        "string": "当前文件"
     },
     "first_draft.detect_via_prompt": {
-        "string": "プロンプトによって検出"
+        "string": "通过提示检测"
     },
     "first_draft.done_theming": {
-        "string": "完了"
+        "string": "完成"
     },
     "first_draft.generate": {
         "string": "生成"
     },
     "first_draft.kits_loading": {
-        "string": "キットを読み込んでいます..."
+        "string": "正在加载工具包..."
     },
     "first_draft.library_placeholder": {
-        "string": "ライブラリ"
+        "string": "库"
     },
     "first_draft.made_by_figma": {
-        "string": "Figmaが作成"
+        "string": "由Figma制作"
     },
     "first_draft.make_changes": {
-        "string": "変更を適用"
+        "string": "进行更改"
     },
     "first_draft.make_changes.i_cant_do_this": {
-        "string": "フォント、色、レイアウトを調整してみて"
+        "string": "调整字体、颜色和布局"
     },
     "first_draft.make_changes.prompt_labels.add": {
-        "string": "追加..."
+        "string": "添加..."
     },
     "first_draft.make_changes.prompt_labels.change_font": {
-        "string": "フォントを変更"
+        "string": "更改字体"
     },
     "first_draft.make_changes.prompt_labels.colors": {
-        "string": "色"
+        "string": "颜色"
     },
     "first_draft.make_changes.prompt_labels.imagery": {
-        "string": "画像"
+        "string": "图像"
     },
     "first_draft.make_changes.prompt_labels.replace": {
-        "string": "置換..."
+        "string": "替换..."
     },
     "first_draft.make_changes.prompt_labels.rewrite": {
-        "string": "リライト..."
+        "string": "重写..."
     },
     "first_draft.make_changes.prompt_labels.round_corners": {
-        "string": "丸角"
+        "string": "圆角"
     },
     "first_draft.make_changes.prompts.add_another_section": {
-        "string": "セクションをもう1つ追加して。内容は..."
+        "string": "再添加一个部分。内容是..."
     },
     "first_draft.make_changes.prompts.calming_colors": {
-        "string": "もっと落ち着いた色に替えて"
+        "string": "替换为更平静的颜色"
     }
 }

@@ -1,152 +1,152 @@
 {
     "first_draft.running": {
-        "string": "作業中..."
+        "string": "正在运行..."
     },
     "first_draft.share_trace": {
-        "string": "トレースを共有"
+        "string": "分享追踪"
     },
     "first_draft.share_trace_nudge_in_modal": {
-        "string": "{weirdOutput}#feat-first-draft-feedbackでシェアしてください。"
+        "string": "请在{weirdOutput}#feat-first-draft-feedback中分享。"
     },
     "first_draft.share_trace_nudge_weird_output": {
-        "string": "出力が不自然ですか?"
+        "string": "输出不正常吗？"
     },
     "first_draft.something_went_wrong": {
-        "string": "問題が発生しました"
+        "string": "出现问题"
     },
     "first_draft.style": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "first_draft.theme_panel.color": {
-        "string": "色"
+        "string": "颜色"
     },
     "first_draft.theme_panel.font": {
-        "string": "フォント"
+        "string": "字体"
     },
     "first_draft.theme_panel.label.fontBody": {
-        "string": "ボディ"
+        "string": "正文"
     },
     "first_draft.theme_panel.label.fontLabel": {
-        "string": "ラベル"
+        "string": "标签"
     },
     "first_draft.theme_panel.label.fontTitle": {
-        "string": "タイトル"
+        "string": "标题"
     },
     "first_draft.theme_panel.radius": {
         "string": "半径"
     },
     "first_draft.theme_panel.spacing": {
-        "string": "間隔"
+        "string": "间距"
     },
     "first_draft.theme_tool.close_panel": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "first_draft.theme_tool.color.dark_mode": {
-        "string": "ダーク"
+        "string": "深色模式"
     },
     "first_draft.theme_tool.color.light_mode": {
-        "string": "ライト"
+        "string": "浅色模式"
     },
     "first_draft.theme_tool.color.mode_picker": {
-        "string": "外見"
+        "string": "外观"
     },
     "first_draft.x_of_y_images": {
-        "string": "画像{loaded}/{total}"
+        "string": "图片{loaded}/{total}"
     },
     "flash.annual_plan.contact_support": {
-        "string": "購入するシート数が{maxAnnualSubscriptions}を超える場合は、{contactSupport}してください。"
+        "string": "如果购买的席位数超过{maxAnnualSubscriptions}，请{contactSupport}。"
     },
     "flash.annual_plan.contact_support_link": {
-        "string": "サポートに問い合わせる"
+        "string": "联系支持"
     },
     "flash.at_least_one_editor.seat_rename": {
-        "string": "1人分以上の編集者シートが必要です"
+        "string": "至少需要一个编辑席位"
     },
     "flash.dont_have_permission_permanently_delete_files": {
-        "string": "これらのファイルを完全に削除する権限がありません。"
+        "string": "您没有权限永久删除这些文件。"
     },
     "flash.no_negative_seats": {
-        "string": "シート数を0未満にすることはできません。"
+        "string": "席位数不能为负。"
     },
     "flash.successfully_added_an_annual_plan": {
-        "string": "年間プランが追加されました。"
+        "string": "年度计划已成功添加。"
     },
     "flash.successfully_downgraded_to_a_starter_team": {
-        "string": "スターターチームにダウングレードしました。"
+        "string": "已成功降级为初级团队。"
     },
     "flash.successfully_upgraded_to_a_professional_team": {
-        "string": "プロフェッショナルチームにアップグレードしました"
+        "string": "已成功升级为专业团队。"
     },
     "flash.successfully_upgraded_to_an_education_team": {
-        "string": "エデュケーションチームにアップグレードしました"
+        "string": "已成功升级为教育团队。"
     },
     "flash.team_join_link_actions.invite_links_reset": {
-        "string": "招待リンクのリセット"
+        "string": "邀请链接已重置"
     },
     "flash.team_name_cannot_be_empty": {
-        "string": "チーム名を空にすることはできません"
+        "string": "团队名称不能为空"
     },
     "flash.team_will_be_downgraded_at_the_end_of_the_current_subscription_period": {
-        "string": "{teamName}は、現在のサブスクリプション期間の終了時に無料のスターターチームになります"
+        "string": "{teamName}将在当前订阅期结束时降级为免费初级团队"
     },
     "flash.team_will_become_free_starter_team_on_date": {
-        "string": "{teamName}は{cancelDate, date}に無料のスターターチームになります"
+        "string": "{teamName}将在{cancelDate, date}降级为免费初级团队"
     },
     "flash.unable_to_try_resource": {
-        "string": "プラグインまたはウィジェットを試すことができません。"
+        "string": "无法尝试插件或小部件。"
     },
     "flash.updated_annual_seats": {
-        "string": "年間シート数が更新されました。"
+        "string": "年度席位已更新。"
     },
     "footer_banner.continue_with_google": {
-        "string": "Googleで続行"
+        "string": "通过Google继续"
     },
     "footer_banner.create_an_account_to_edit_and_collaborate_on_this_file": {
-        "string": "このファイルを編集し、このファイルでコラボレートするには、アカウントを作成してください。"
+        "string": "要编辑和协作此文件，请创建一个帐户。"
     },
     "footer_banner.create_an_account_to_get_your_own_copy_of_this_file": {
-        "string": "このファイルのコピーを取得するには、アカウントを作成してください。"
+        "string": "要获取此文件的副本，请创建一个帐户。"
     },
     "footer_banner.log_in_or_create_an_account_to_get_a_copy_of_file_name": {
-        "string": "{fileName}のコピーを取得するには、ログインするかアカウントを作成してください"
+        "string": "要获取{fileName}的副本，请登录或创建帐户"
     },
     "footer_banner.sign_up_with_email": {
-        "string": "メールでサインアップ"
+        "string": "通过电子邮件注册"
     },
     "footer_banner.sign_up_for_free": {
-        "string": "無料でサインアップ"
+        "string": "免费注册"
     },
     "footer_banner.welcome_to_figma": {
-        "string": "Figmaへようこそ"
+        "string": "欢迎来到Figma"
     },
     "frontend_sha_override_indicator.blocked_commit": {
-        "string": "⚠️ Error: Frontend Commit Preview is only available for valid commit SHAs. Update the `commit-sha` param, then reload the page."
+        "string": "⚠️ 错误：前端提交预览仅适用于有效的提交SHA。更新`commit-sha`参数，然后重新加载页面。"
     },
     "frontend_sha_override_indicator.blocked_flag": {
-        "string": "⚠️ Error: Frontend Commit Preview is only available for users with the `manifest_commit_sha` flag. Enable this flag, then reload the page."
+        "string": "⚠️ 错误：前端提交预览仅适用于启用了`manifest_commit_sha`标志的用户。启用此标志，然后重新加载页面。"
     },
     "frontend_sha_override_indicator.blocked_unknown": {
-        "string": "⚠️ Error: Frontend Commit Preview is unavailable due to an unknown error ({blockedReason})."
+        "string": "⚠️ 错误：由于未知错误（{blockedReason}），前端提交预览不可用。"
     },
     "frontend_sha_override_indicator.blocked_user": {
-        "string": "⚠️ Error: Frontend Commit Preview is only available for @test.figma.com and @dev.figma.com accounts. Change accounts, then reload the page."
+        "string": "⚠️ 错误：前端提交预览仅适用于@test.figma.com和@dev.figma.com帐户。切换帐户，然后重新加载页面。"
     },
     "frontend_sha_override_indicator.description": {
-        "string": "You are currently viewing frontend code from commit\n  "
+        "string": "您当前正在查看来自提交的前端代码\n  "
     },
     "frontend_sha_override_indicator.reload": {
-        "string": "再読み込み"
+        "string": "重新加载"
     },
     "frontend_sha_override_indicator.return_to_latest": {
-        "string": "Return to latest"
+        "string": "返回到最新"
     },
     "fullscreen_actions.abandon_and_reattach_multiplayer": {
-        "string": "マルチプレイヤーを破棄して再添付"
+        "string": "放弃并重新附加多人游戏"
     },
     "fullscreen_actions.add-default-cell-styles-to-tables": {
-        "string": "デフォルトのセルスタイルをテーブルに追加"
+        "string": "将默认单元格样式添加到表格中"
     },
     "fullscreen_actions.add-platform-shape-definition": {
-        "string": "Add Platform Shape Definition"
+        "string": "添加平台形状定义"
     }
 }

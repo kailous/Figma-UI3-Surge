@@ -1,152 +1,152 @@
 {
     "file_browser.unavailable_view_resource_capitalized": {
-        "string": "リソース"
+        "string": "资源"
     },
     "file_browser.unavailable_view_resource_not_found": {
-        "string": "{capitalizedResourceNoun}が見つかりません"
+        "string": "未找到{capitalizedResourceNoun}"
     },
     "file_browser.unavailable_view_text": {
-        "string": "この{resourceNoun}が存在しないか、表示する権限がありません。{resourceNoun}オーナーに、リンクの確認または権限の更新を依頼してください。"
+        "string": "此{resourceNoun}不存在或您没有查看权限。请联系{resourceNoun}所有者以确认链接或更新权限。"
     },
     "file_browser.view_mode_toggle.show_as_grid": {
-        "string": "グリッド表示"
+        "string": "网格显示"
     },
     "file_browser.view_mode_toggle.show_as_list": {
-        "string": "リスト表示"
+        "string": "列表显示"
     },
     "file_browser.workspace": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "file_browser.workspace_capitalized": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "file_browser.workspace_pinning.no_files_matching_query": {
-        "string": "このワークスペースには、{searchQuery}に一致するファイルはありません"
+        "string": "此工作区中没有与{searchQuery}匹配的文件"
     },
     "file_browser.workspace_pinning.no_suggested_files": {
-        "string": "検索を使用し、デザインライブラリやテンプレートなどのファイルを見つけてピン留めすることで、ワークスペースで簡単に参照できるようになります。"
+        "string": "使用搜索找到并固定设计库和模板等文件，以便在工作区中轻松参考。"
     },
     "file_restore_from_version_modal.restore": {
-        "string": "復元"
+        "string": "恢复"
     },
     "file_restore_from_version_modal.restore_from_version_history": {
-        "string": "バージョン履歴から復元"
+        "string": "从版本历史中恢复"
     },
     "internal_profile.add_a_description": {
-        "string": "説明を追加"
+        "string": "添加描述"
     },
     "internal_profile.an_error_occurred": {
-        "string": "エラーが発生しました"
+        "string": "发生错误"
     },
     "internal_profile.change_job_title": {
-        "string": "変更"
+        "string": "更改"
     },
     "internal_profile.file_contributions": {
-        "string": "ファイルのコントリビューター"
+        "string": "文件贡献者"
     },
     "internal_profile.file_name": {
-        "string": "ファイル名"
+        "string": "文件名"
     },
     "internal_profile.job_title_nudge.text": {
-        "string": "仕事または役割をプロフィールに追加することで、自分が何をしているかをチームメートに伝えることができます。"
+        "string": "通过在个人资料中添加工作或角色，让团队成员知道您在做什么。"
     },
     "internal_profile.job_title_nudge.title": {
-        "string": "タイトルを選択"
+        "string": "选择标题"
     },
     "internal_profile.last_activity": {
-        "string": "最後のアクティビティー"
+        "string": "最后活动"
     },
     "internal_profile.no_teams_in_common": {
-        "string": "共通のチームがありません"
+        "string": "没有共同的团队"
     },
     "internal_profile.posts": {
-        "string": "投稿"
+        "string": "帖子"
     },
     "internal_profile.profile": {
-        "string": "プロフィール"
+        "string": "个人资料"
     },
     "internal_profile.profile_image_nudge.action": {
-        "string": "写真を更新"
+        "string": "更新照片"
     },
     "internal_profile.profile_image_nudge.text": {
-        "string": "ファイルやコメントなどでアバターとして使用する写真を選択します。"
+        "string": "选择一张照片作为文件和评论中的头像。"
     },
     "internal_profile.profile_image_nudge.title": {
-        "string": "プロフィール写真を追加"
+        "string": "添加个人资料照片"
     },
     "internal_profile.project": {
-        "string": "プロジェクト"
+        "string": "项目"
     },
     "internal_profile.recent_projects": {
-        "string": "最近開いたプロジェクト"
+        "string": "最近打开的项目"
     },
     "internal_profile.teams": {
-        "string": "チーム"
+        "string": "团队"
     },
     "internal_profile.their_recent_projects_will_appear_here": {
-        "string": "最近編集したプロジェクトがここに表示されます。"
+        "string": "最近编辑的项目将显示在这里。"
     },
     "internal_profile.title": {
-        "string": "{orgName}の{userName}"
+        "string": "{orgName}的{userName}"
     },
     "internal_profile.view_community_profile": {
-        "string": "コミュニティプロフィールを表示"
+        "string": "查看社区个人资料"
     },
     "internal_profile.you_must_be_a_member_of_team_name": {
-        "string": "{teamName}のメンバーでなければなりません"
+        "string": "您必须是{teamName}的成员"
     },
     "internal_profile.you_re_not_a_member_of_this_team": {
-        "string": "このチームのメンバーではありません。"
+        "string": "您不是此团队的成员。"
     },
     "internal_profile.your_recent_projects_will_appear_here": {
-        "string": "最近編集したプロジェクトがここに表示されます。"
+        "string": "最近编辑的项目将显示在这里。"
     },
     "interstitial.comment_activity_digest": {
-        "string": "コメントダイジェスト"
+        "string": "评论摘要"
     },
     "interstitial.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "interstitial.feed_weekly_digest": {
-        "string": "フィードウィークリーダイジェスト"
+        "string": "每周摘要"
     },
     "interstitial.open_notifications_settings": {
-        "string": "通知設定を開く"
+        "string": "打开通知设置"
     },
     "interstitial.team_comment_digest": {
-        "string": "チームコメントダイジェスト"
+        "string": "团队评论摘要"
     },
     "interstitial.unsubscribe_success_header": {
-        "string": "登録を取り消しました"
+        "string": "已取消订阅"
     },
     "interstitial.unsubscribe_success_subheader_with_address": {
-        "string": "今後、{emailName}のメールが{emailAddress}に送信されることはありません。"
+        "string": "将不再向{emailAddress}发送{emailName}的邮件。"
     },
     "interstitial.workspace_activity": {
-        "string": "ワークスペースのアクティビティ"
+        "string": "工作区活动"
     },
     "mobile_tool_bar.hide_navigation": {
-        "string": "ナビゲーションを非表示"
+        "string": "隐藏导航"
     },
     "mobile_tool_bar.more_options": {
-        "string": "その他のオプション"
+        "string": "更多选项"
     },
     "mobile_tool_bar.show_navigation": {
-        "string": "ナビゲーションを表示"
+        "string": "显示导航"
     },
     "modal.are_you_sure": {
-        "string": "よろしいですか?"
+        "string": "你确定吗？"
     },
     "modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "modal.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "modal.confirm": {
-        "string": "確認"
+        "string": "确认"
     },
     "org_billing_error_default": {
-        "string": "請求データの取得中にエラーが発生しました。"
+        "string": "获取账单数据时发生错误。"
     }
 }

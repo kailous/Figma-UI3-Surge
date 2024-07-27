@@ -1,152 +1,152 @@
 {
     "team_creation.closed_team_description": {
-        "string": "メンバーのみがファイルを表示できます。参加するには承認が必要です。"
+        "string": "只有成员可以查看文件。需要批准才能加入。"
     },
     "team_creation.continue": {
-        "string": "続行"
+        "string": "继续"
     },
     "team_creation.create_a_team_title": {
-        "string": "チームを作成しましょう"
+        "string": "创建一个团队"
     },
     "team_creation.create_team": {
-        "string": "チームを作成"
+        "string": "创建团队"
     },
     "team_creation.create_team_button": {
-        "string": "チームを作成"
+        "string": "创建团队"
     },
     "team_creation.edit": {
-        "string": "編集"
+        "string": "编辑"
     },
     "team_creation.email": {
-        "string": "メール"
+        "string": "电子邮件"
     },
     "team_creation.finish_setup": {
-        "string": "セットアップの完了"
+        "string": "完成设置"
     },
     "team_creation.hidden": {
-        "string": "非表示"
+        "string": "隐藏"
     },
     "team_creation.missing_team_creation_controls": {
-        "string": "このワークスペースにチームを作成する権限がありません。"
+        "string": "您没有权限在此工作区创建团队。"
     },
     "team_creation.name": {
-        "string": "名前"
+        "string": "名称"
     },
     "team_creation.name_your_team": {
-        "string": "チーム名の指定"
+        "string": "命名您的团队"
     },
     "team_creation.next": {
-        "string": "次へ"
+        "string": "下一步"
     },
     "team_creation.only_team_members_can_find_and_access": {
-        "string": "チームの検索とアクセスは同じチームのメンバーのみが可能です。"
+        "string": "只有团队成员可以搜索和访问。"
     },
     "team_creation.open_team": {
-        "string": "公開チーム"
+        "string": "公开团队"
     },
     "team_creation.open_team_description": {
-        "string": "{orgName}のユーザー全員がファイルを表示し、参加できます。"
+        "string": "{orgName}中的所有用户都可以查看文件并加入团队。"
     },
     "team_creation.optional": {
-        "string": "必要に応じて説明を追加"
+        "string": "可选添加描述"
     },
     "team_creation.org_modal_title": {
-        "string": "チームを新規作成"
+        "string": "新建团队"
     },
     "team_creation.org_modal_title_sc": {
-        "string": "チームを作成"
+        "string": "创建团队"
     },
     "team_creation.secret_team": {
-        "string": "シークレットチーム"
+        "string": "秘密团队"
     },
     "team_creation.secret_team_description": {
-        "string": "招待したユーザーのみに表示されます(管理者にはチームの名前が表示されます)。"
+        "string": "仅对受邀用户可见（管理员可以看到团队名称）。"
     },
     "team_creation.skip_for_now": {
-        "string": "今は行わない"
+        "string": "暂时跳过"
     },
     "team_creation.step_number_of_max_steps": {
-        "string": "ステップ{currentStep}/{totalSteps}"
+        "string": "步骤 {currentStep}/{totalSteps}"
     },
     "team_creation.team_description": {
-        "string": "説明"
+        "string": "描述"
     },
     "team_creation.team_name_empty": {
-        "string": "チーム名を入力"
+        "string": "请输入团队名称"
     },
     "team_creation.team_name_input_placeholder": {
-        "string": "名前を追加"
+        "string": "添加名称"
     },
     "team_creation.team_name_label": {
-        "string": "チーム名"
+        "string": "团队名称"
     },
     "team_creation.unassigned_workspace": {
-        "string": "他のチーム"
+        "string": "其他团队"
     },
     "team_creation.view": {
-        "string": "閲覧"
+        "string": "查看"
     },
     "team_creation.visibility": {
-        "string": "表示"
+        "string": "可见性"
     },
     "team_creation.visible": {
-        "string": "表示"
+        "string": "可见"
     },
     "team_creation.what_they_can_do": {
-        "string": "権限"
+        "string": "权限"
     },
     "team_creation.who_has_access": {
-        "string": "アクセス可能なユーザー"
+        "string": "谁有权限"
     },
     "team_creation.workspace": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "team_creation.writer_s_guild_placeholder": {
-        "string": "例: 脚本家協会"
+        "string": "例如：编剧协会"
     },
     "team_creation.you_can_update_user_permissions_on_the_team_page_after_setting_up": {
-        "string": "ユーザーの権限はセットアップ完了後にチームページで更新できます。"
+        "string": "设置完成后，您可以在团队页面更新用户权限。"
     },
     "team_creation.you_have_created_a_new_team": {
-        "string": "新しいチームが作成されました。"
+        "string": "您已创建新团队。"
     },
     "team_creation.your_team_name_cannot_be_empty": {
-        "string": "チーム名は空にできません。"
+        "string": "团队名称不能为空。"
     },
     "team_list.free": {
-        "string": "無料"
+        "string": "免费"
     },
     "team_list.locked": {
-        "string": "ロック"
+        "string": "锁定"
     },
     "team_list.org_join_status_joined": {
-        "string": "参加済み"
+        "string": "已加入"
     },
     "team_list.org_join_status_leave": {
-        "string": "退会"
+        "string": "离开"
     },
     "team_list.pro_trial": {
-        "string": "プロトライアル"
+        "string": "专业版试用"
     },
     "team_list.pro_trial_expired": {
-        "string": "トライアル期間終了"
+        "string": "试用期已过"
     },
     "team_list.pro_trial_expired_tooltip": {
-        "string": "ファイルの数がスターターの上限に収まるように管理してください"
+        "string": "请确保文件数量在初级计划的上限内"
     },
     "team_list.pro_trial_time_left": {
-        "string": "あと{daysLeftText}でプロトライアルの期限が切れます。"
+        "string": "专业版试用期还剩{daysLeftText}。"
     },
     "team_list.pro_trial_time_left_days": {
-        "string": "{daysLeft, plural, other {#日}}"
+        "string": "{daysLeft, plural, other {#天}}"
     },
     "team_list.verify_that_youre_a_student_or_educator": {
-        "string": "コラボレーションを続けるには、学生または教師であることを確認してください"
+        "string": "要继续协作，请验证您是学生或教育工作者"
     },
     "team_list.your_team_is_over_the_starter_plan_s_file_limit": {
-        "string": "チームのファイル数がスタータープランの上限を超えています。"
+        "string": "您的团队文件数量已超过初级计划的上限。"
     },
     "team_restore.back": {
-        "string": "ファイルに戻る"
+        "string": "返回文件"
     }
 }

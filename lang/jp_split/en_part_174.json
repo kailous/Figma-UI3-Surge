@@ -1,152 +1,152 @@
 {
     "upgrade.ready_to_go_beyond_free_plan_upgrade_for_premium_features": {
-        "string": "この無料プランからのアップグレードを検討しませんか? アップグレードにより、より高度な機能を利用できます。"
+        "string": "准备好超越免费计划了吗？升级以使用高级功能。"
     },
     "upgrade.running_out_of_files_in_your_free_team": {
-        "string": "無料のチームでは、ファイルが不足しようとしています。"
+        "string": "您的免费团队文件即将用完。"
     },
     "upgrade.try_the_professional_plan": {
-        "string": "プロフェッショナルプランを試す"
+        "string": "试用专业计划"
     },
     "upgrade.upgrade_to_give_your_ideas_and_designs_room_to_grow_without_limits": {
-        "string": "アップグレードすると、アイデアやデザインのファイルを無制限に作成できるようになります。"
+        "string": "升级以使您的创意和设计无限增长。"
     },
     "upgrade.upgrade_to_professional": {
-        "string": "プロフェッショナルにアップグレード"
+        "string": "升级到专业版"
     },
     "upgrade.view_plans": {
-        "string": "プランを表示"
+        "string": "查看计划"
     },
     "upgrade.your_trial_has_ended": {
-        "string": "現在はスタータープランです。プロフェッショナルプランで作成したファイルやプロジェクトを編集するには、アップグレードしてください。"
+        "string": "试用期已结束。请升级以编辑专业计划创建的文件和项目。"
     },
     "user_view.disabled_by_your_organization": {
-        "string": "組織により無効にされています"
+        "string": "已被您的组织禁用"
     },
     "user_view.file_duplicated": {
-        "string": "ファイルが複製されました"
+        "string": "文件已复制"
     },
     "user_view.file_duplicated_to_your_drafts": {
-        "string": "ファイルがドラフトに複製されました"
+        "string": "文件已复制到您的草稿中"
     },
     "user_view.files_duplicated": {
-        "string": "{intArg, number, integer}ファイルが複製されました"
+        "string": "{intArg, number, integer}个文件已复制"
     },
     "user_view.files_duplicated_to_your_drafts": {
-        "string": "{intArg, number, integer}ファイルがドラフトに複製されました"
+        "string": "{intArg, number, integer}个文件已复制到您的草稿中"
     },
     "user_view.some_files_duplicated_to_your_drafts": {
-        "string": "一部のファイルがドラフトに複製されました"
+        "string": "部分文件已复制到您的草稿中"
     },
     "visual_bell.error_finding_destination_folder": {
-        "string": "ファイルの移動時、移動先プロジェクトを特定するときにエラーが発生しました。"
+        "string": "移动文件时，找到目标文件夹时发生错误。"
     },
     "visual_bell.file_move_folder": {
-        "string": "{folderName}に移動しました"
+        "string": "已移动到{folderName}"
     },
     "visual_bell.files_moved_to_folder": {
-        "string": "{fileCount, plural, other {{fileCount}ファイルを{folderName}に移動しました}}"
+        "string": "{fileCount, plural, other {{fileCount}个文件已移动到{folderName}}}"
     },
     "navbar.community.admin_label": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "navbar.community.browse_community_workspace_switcher_label": {
-        "string": "次のアカウントを使用してコミュニティを参照..."
+        "string": "使用以下账户浏览社区..."
     },
     "navbar.community.community_label": {
-        "string": "コミュニティ"
+        "string": "社区"
     },
     "navbar.navbar.community_search_placeholder": {
-        "string": "コミュニティ内を検索"
+        "string": "搜索社区"
     },
     "navbar.navbar.create_new": {
-        "string": "新規作成"
+        "string": "新建"
     },
     "navbar.navbar.disabled_by_your_admins": {
-        "string": "管理者が無効にしています"
+        "string": "已被您的管理员禁用"
     },
     "navbar.navbar.disabled_publish_button_label": {
-        "string": "組織の管理者だけがFigmaコミュニティに公開できます。"
+        "string": "只有组织管理员可以发布到Figma社区。"
     },
     "navbar.navbar.edu": {
-        "string": "エデュケーション"
+        "string": "教育"
     },
     "navbar.navbar.enterprise": {
-        "string": "エンタープライズ"
+        "string": "企业"
     },
     "navbar.navbar.everything_else_title": {
-        "string": "その他すべて"
+        "string": "其他"
     },
     "navbar.navbar.favorites_title": {
-        "string": "お気に入り"
+        "string": "收藏"
     },
     "navbar.navbar.figmascope_button_label": {
         "string": "FigmaScope"
     },
     "navbar.navbar.file_browser_search_placeholder": {
-        "string": "ファイル、チーム、ユーザーを検索"
+        "string": "搜索文件、团队、用户"
     },
     "navbar.navbar.free": {
-        "string": "無料"
+        "string": "免费"
     },
     "navbar.navbar.guest": {
-        "string": "ゲスト"
+        "string": "访客"
     },
     "navbar.navbar.locked": {
-        "string": "ロックされています"
+        "string": "已锁定"
     },
     "navbar.navbar.logout_button_label": {
-        "string": "ログアウト"
+        "string": "登出"
     },
     "navbar.navbar.notifications_disabled_tooltip": {
-        "string": "通知は一時的に無効になっています"
+        "string": "通知已暂时禁用"
     },
     "navbar.navbar.org": {
-        "string": "ビジネス"
+        "string": "组织"
     },
     "navbar.navbar.pro": {
-        "string": "プロフェッショナル"
+        "string": "专业"
     },
     "navbar.navbar.pro_trial": {
-        "string": "プロトライアル"
+        "string": "专业试用"
     },
     "navbar.navbar.publish_button_label": {
-        "string": "公開"
+        "string": "发布"
     },
     "navbar.navbar.refresh_permissions_groups_label": {
-        "string": "権限の更新"
+        "string": "刷新权限组"
     },
     "navbar.navbar.storybook_button_label": {
-        "string": "ストーリーブック"
+        "string": "故事书"
     },
     "navbar.navbar.trial_expired": {
-        "string": "トライアル期間終了"
+        "string": "试用期已结束"
     },
     "navbar.navbar.view_only_plans": {
-        "string": "閲覧専用プラン"
+        "string": "仅查看计划"
     },
     "navbar.profile_switcher.add_account": {
-        "string": "アカウントの追加"
+        "string": "添加账户"
     },
     "navbar.profile_switcher.community": {
-        "string": "コミュニティプロフィール"
+        "string": "社区资料"
     },
     "navbar.profile_switcher.create_a_community_profile": {
-        "string": "コミュニティプロフィールの作成"
+        "string": "创建社区资料"
     },
     "navbar.profile_switcher.external_teams": {
-        "string": "外部チーム"
+        "string": "外部团队"
     },
     "navbar.profile_switcher.logout_all_accounts": {
-        "string": "すべてのアカウントからログアウト"
+        "string": "退出所有账户"
     },
     "navbar.profile_switcher.your_teams": {
-        "string": "自分のチーム"
+        "string": "您的团队"
     },
     "navbar.settings_dropdown.button_label": {
-        "string": "アカウントのドロップダウンを開く"
+        "string": "打开账户下拉菜单"
     },
     "navbar.settings_dropdown.desktop_app_cta": {
-        "string": "デスクトップアプリを入手"
+        "string": "获取桌面应用"
     }
 }
