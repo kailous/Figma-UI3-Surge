@@ -48,7 +48,11 @@ Figma-UI3 = type=http-response,pattern=https:\/\/.*figma_app-.*\.min\.js\.br$,re
 
 通过以上步骤，您可以成功绕过候选名单并强制开启Figma测试版UI3。如果有任何问题或需要进一步的帮助，请随时联系我。
 
+----
+
 ### 新的汉化
+以绕过开启UI3为灵感，我想到了可以通过替换figma官方语言包的方式汉化，好处就是无需修改客户端，实现全平台汉化，如果企业可以写入路由规则的话，可以整个公司汉化也不是不可能，并且实时更新，客户端可以随着官方一起更新。
+
 使用请求拦截工具 将这个地址
 ```
 https:\/\/www\.figma\.com\/webpack-artifacts\/assets\/figma_app-[a-f0-9]{16}\.min\.en\.json\.br
@@ -57,23 +61,3 @@ https:\/\/www\.figma\.com\/webpack-artifacts\/assets\/figma_app-[a-f0-9]{16}\.mi
 ```
 https://raw.githubusercontent.com/kailous/Figma-UI3-Surge/main/lang/zh.json
 ```
-
-### 关于新的汉化方式
-以绕过开启UI3为灵感，我想到了可以通过替换figma官方语言包的方式汉化，好处就是无需修改客户端，实现全平台汉化，如果企业可以写入路由规则的话，可以整个公司汉化也不是不可能，并且实时更新，客户端可以随着官方一起更新。
-目前确认了，该方案可行并且优于原本的汉化方案，我打算使用这种方案重新汉化。我重新下载了日文语料，日文语料的汉化会更准确，能避免自动化翻译时一些不该翻译的部分。
-在 /lang/jp_split 中存放了分割成 364 个 json 词典文件，字数限制在可以保障 GPT-4o 一次可以完整翻译。
-
-### 新的汉化进度
-我打算利用休息时间汉化这些分割出来的json
-如果你想加入贡献，请联系我。
-汉化非常简单
-1. 只需要将分割的 json 丢给 GPT-4o 等待汉化完成
-2. 复制 GPT-4o 返回的代码，替换原本的代码即可。
-3. 需要注意是要求 GPT-4o 只汉化日文部分。
-4. 别忘了对比原始代码与汉化后的词典键名称 是否一致。
-
-当前进度：
-364/364 ｜ 100% 里程碑 自动化翻译完成
-之后就是漫长的人工测试和调整。
-
-![image](https://github.com/kailous/Figma-UI3-Surge/blob/main/img/%E6%B1%89%E5%8C%96%E8%BF%87%E7%A8%8B.png?raw=true)
