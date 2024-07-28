@@ -1,152 +1,152 @@
 {
     "whiteboard.inline_menu.connector_end_point_selector_label": {
-        "string": "終点、{currentEndCap}"
+        "string": "终点，{currentEndCap}"
     },
     "whiteboard.inline_menu.connector_start_point": {
-        "string": "開始点"
+        "string": "起点"
     },
     "whiteboard.inline_menu.connector_start_point_selector_label": {
-        "string": "開始点、{currentStartCap}"
+        "string": "起点，{currentStartCap}"
     },
     "whiteboard.inline_menu.create_slides_outline": {
-        "string": "Figma Slidesをオンラインで作成"
+        "string": "在线创建Figma幻灯片"
     },
     "whiteboard.inline_menu.crop_image": {
-        "string": "画像をトリミング"
+        "string": "裁剪图像"
     },
     "whiteboard.inline_menu.custom_font_size": {
-        "string": "カスタムフォントサイズ"
+        "string": "自定义字体大小"
     },
     "whiteboard.inline_menu.delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "whiteboard.inline_menu.duplicate": {
-        "string": "複製"
+        "string": "复制"
     },
     "whiteboard.inline_menu.edit_image_description": {
-        "string": "説明を編集"
+        "string": "编辑描述"
     },
     "whiteboard.inline_menu.finish_image_editing": {
-        "string": "編集を終了"
+        "string": "完成编辑"
     },
     "whiteboard.inline_menu.font_family": {
-        "string": "タイプフェース"
+        "string": "字体"
     },
     "whiteboard.inline_menu.font_family_label": {
-        "string": "タイプフェース({currentFont})"
+        "string": "字体（{currentFont}）"
     },
     "whiteboard.inline_menu.font_size": {
-        "string": "フォントサイズ"
+        "string": "字体大小"
     },
     "whiteboard.inline_menu.font_size_input": {
-        "string": "サイズ"
+        "string": "大小"
     },
     "whiteboard.inline_menu.font_size_label": {
-        "string": "フォントサイズ({currentFontSize})"
+        "string": "字体大小（{currentFontSize}）"
     },
     "whiteboard.inline_menu.font_size_mixed": {
-        "string": "混合サイズ"
+        "string": "混合大小"
     },
     "whiteboard.inline_menu.image_border": {
-        "string": "画像のボーダー"
+        "string": "图像边框"
     },
     "whiteboard.inline_menu.image_description_explanation": {
-        "string": "より多くの人が画像にアクセスできるようになります。"
+        "string": "使更多人能够访问图像。"
     },
     "whiteboard.inline_menu.image_description_placeholder": {
-        "string": "説明を追加します"
+        "string": "添加描述"
     },
     "whiteboard.inline_menu.inline_menu_label": {
-        "string": "選択範囲のプロパティメニュー"
+        "string": "选定范围的属性菜单"
     },
     "whiteboard.inline_menu.inline_menu_label_with_selected_node": {
-        "string": "{selectedNodeAriaLabel}の選択プロパティメニュー"
+        "string": "{selectedNodeAriaLabel}的选定属性菜单"
     },
     "whiteboard.inline_menu.line_shape": {
-        "string": "線の形状"
+        "string": "线形"
     },
     "whiteboard.inline_menu.line_shape_elbowed": {
-        "string": "カギ線"
+        "string": "折线"
     },
     "whiteboard.inline_menu.line_shape_selector_label": {
-        "string": "線の形状、{currentLineShape}"
+        "string": "线形，{currentLineShape}"
     },
     "whiteboard.inline_menu.line_shape_straight": {
-        "string": "直線"
+        "string": "直线"
     },
     "whiteboard.inline_menu.line_style": {
-        "string": "線のスタイル"
+        "string": "线样式"
     },
     "whiteboard.inline_menu.line_style_label_both": {
-        "string": "ラインスタイル({currentStrokeWeight}{currentStrokeStyle})"
+        "string": "线样式（{currentStrokeWeight}{currentStrokeStyle}）"
     },
     "whiteboard.inline_menu.line_style_label_singular": {
-        "string": "ラインスタイル({currentLineStyle})"
+        "string": "线样式（{currentLineStyle}）"
     },
     "whiteboard.inline_menu.organize_button_text": {
         "string": "整理"
     },
     "whiteboard.inline_menu.organize_dropdown_button_aria_label": {
-        "string": "ドロップダウンボタンを整理"
+        "string": "整理下拉按钮"
     },
     "whiteboard.inline_menu.organize_dropdown_options_aria_label": {
-        "string": "整理オプションのリスト"
+        "string": "整理选项列表"
     },
     "whiteboard.inline_menu.organize_quick_actions_button_beta_badge_text": {
-        "string": "AIベータ版"
+        "string": "AI测试版"
     },
     "whiteboard.inline_menu.programming_language": {
-        "string": "プログラミング言語"
+        "string": "编程语言"
     },
     "whiteboard.inline_menu.programming_language_label": {
-        "string": "プログラミング言語({currentLanguage})"
+        "string": "编程语言（{currentLanguage}）"
     },
     "whiteboard.inline_menu.replace_image": {
-        "string": "画像を置換"
+        "string": "替换图像"
     },
     "whiteboard.inline_menu.rotate_image": {
-        "string": "画像を回転"
+        "string": "旋转图像"
     },
     "whiteboard.inline_menu.scale_image": {
-        "string": "画像を拡大縮小"
+        "string": "缩放图像"
     },
     "whiteboard.inline_menu.see_variants": {
-        "string": "バリアントを確認"
+        "string": "查看变体"
     },
     "whiteboard.inline_menu.shape_visibility_hidden": {
-        "string": "塗りなし"
+        "string": "无填充"
     },
     "whiteboard.inline_menu.shape_visibility_transparent": {
         "string": "透明"
     },
     "whiteboard.inline_menu.shape_visibility_visible": {
-        "string": "塗り"
+        "string": "填充"
     },
     "whiteboard.inline_menu.show_additional_items": {
-        "string": "他のアイテムを表示"
+        "string": "显示更多项"
     },
     "whiteboard.inline_menu.show_hide_author": {
-        "string": "作成者を表示/非表示"
+        "string": "显示/隐藏作者"
     },
     "whiteboard.inline_menu.sort_by_dropdown_button_text": {
-        "string": "付箋を並び替える"
+        "string": "排序便签"
     },
     "whiteboard.inline_menu.sort_by_dropdown_button_text_2": {
-        "string": "付箋の並び替え基準"
+        "string": "便签排序标准"
     },
     "whiteboard.inline_menu.start_mind_map": {
-        "string": "マインドマップを開始"
+        "string": "开始思维导图"
     },
     "whiteboard.inline_menu.stroke_dashed": {
-        "string": "破線"
+        "string": "虚线"
     },
     "whiteboard.inline_menu.stroke_none": {
-        "string": "なし"
+        "string": "无"
     },
     "whiteboard.inline_menu.stroke_solid": {
-        "string": "実線"
+        "string": "实线"
     },
     "whiteboard.inline_menu.text_alignment": {
-        "string": "テキストの配置"
+        "string": "文本对齐"
     }
 }

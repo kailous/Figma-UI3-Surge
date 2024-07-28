@@ -1,152 +1,152 @@
 {
     "plan_comparison.chart.private_projects.name": {
-        "string": "プライベートプロジェクト"
+        "string": "私人项目"
     },
     "plan_comparison.chart.project_and_team_transfer.details": {
-        "string": "ビジネスプランまたはエンタープライズプランでは、チームまたはプロジェクト全体を他の人に引き継ぐことができます。"
+        "string": "在商务计划或企业计划中，您可以将整个团队或项目转移给其他人。"
     },
     "plan_comparison.chart.project_and_team_transfer.name": {
-        "string": "プロジェクトやチームの移転"
+        "string": "项目和团队转移"
     },
     "plan_comparison.chart.project_transfer.details": {
-        "string": "ビジネスプランまたはエンタープライズプランでは、プロジェクト全体を他の人に引き継ぐことができます。"
+        "string": "在商务计划或企业计划中，您可以将整个项目转移给其他人。"
     },
     "plan_comparison.chart.project_transfer.name": {
-        "string": "プロジェクトの移転"
+        "string": "项目转移"
     },
     "plan_comparison.chart.prototype_sharing_permissions.details": {
-        "string": "土台となるデザインファイルは共有せずに、プロトタイプを誰とでも共有できます。"
+        "string": "无需共享基础设计文件即可与任何人共享原型。"
     },
     "plan_comparison.chart.prototype_sharing_permissions.name": {
-        "string": "プロトタイプの共有権限"
+        "string": "原型共享权限"
     },
     "plan_comparison.chart.security.details": {
-        "string": "既存のID管理システムを使用して、SAMLシングルサインオンをセットアップします。すべてのチームメンバーがSSOを使用し、SCIMでプロビジョニングを管理します。"
+        "string": "使用现有的身份管理系统设置SAML单点登录。所有团队成员都使用SSO，并通过SCIM管理配置。"
     },
     "plan_comparison.chart.security.name": {
-        "string": "SSO、最先端のセキュリティ"
+        "string": "SSO和高级安全"
     },
     "plan_comparison.chart.shared_fonts.details": {
-        "string": "組織の全員が使用するフォントをFigmaに組み込みます。"
+        "string": "在Figma中嵌入组织所有人使用的字体。"
     },
     "plan_comparison.chart.shared_fonts.name": {
-        "string": "共有フォント"
+        "string": "共享字体"
     },
     "plan_comparison.chart.shared_libraries.company_wide": {
-        "string": "会社全体"
+        "string": "公司范围"
     },
     "plan_comparison.chart.shared_libraries.details": {
-        "string": "チームで使用する共有UIコンポーネントを使ったデザインシステムを作成します。"
+        "string": "使用共享的UI组件创建设计系统以供团队使用。"
     },
     "plan_comparison.chart.shared_libraries.name": {
-        "string": "共有ライブラリ"
+        "string": "共享库"
     },
     "plan_comparison.chart.shared_libraries.organization_wide": {
-        "string": "組織全体"
+        "string": "组织范围"
     },
     "plan_comparison.chart.single_sign_on.details": {
-        "string": "既存のID管理システムを使ったSAMLシングルサインオンを設定します。すべてのチームメンバーがSSOを使用し、プロビジョニングはSCIMで管理します。"
+        "string": "使用现有的身份管理系统设置SAML单点登录。所有团队成员都使用SSO，并通过SCIM管理配置。"
     },
     "plan_comparison.chart.single_sign_on.name": {
-        "string": "シングルサインオン"
+        "string": "单点登录"
     },
     "plan_comparison.chart.single_sign_on_v2.details": {
-        "string": "SAMLシングルサインオンをセットアップします。すべてのチームメンバーがSSOを使用し、プロビジョニングはSCIMで管理します。"
+        "string": "设置SAML单点登录。所有团队成员都使用SSO，并通过SCIM管理配置。"
     },
     "plan_comparison.chart.single_sign_on_v2.name": {
-        "string": "シングルサインオン(SSO)"
+        "string": "单点登录（SSO）"
     },
     "plan_comparison.chart.unified_admin_and_billing.details": {
-        "string": "複数のチームが1つのFigmaアカウントで連携します。ユーザーと請求は一元管理されます。"
+        "string": "多个团队在一个Figma账户中协作，用户和账单集中管理。"
     },
     "plan_comparison.chart.unified_admin_and_billing.name": {
-        "string": "統一された管理と請求"
+        "string": "统一管理和账单"
     },
     "plan_comparison.chart.usage_limits.details": {
-        "string": "複数のプロジェクトとファイルを作成し、管理します。"
+        "string": "创建和管理多个项目和文件。"
     },
     "plan_comparison.chart.usage_limits.name": {
-        "string": "使用制限"
+        "string": "使用限制"
     },
     "plan_comparison.chart.usage_limits.starter": {
-        "string": "{maxFreeFiles}ファイル、{maxFreePages}ページ、{maxFreeProjects}プロジェクト"
+        "string": "{maxFreeFiles}个文件，{maxFreePages}页，{maxFreeProjects}个项目"
     },
     "plan_comparison.chart.usage_limits.unlimited": {
-        "string": "ファイル、ページ、プロジェクトの数が無制限"
+        "string": "文件、页数和项目数量不限"
     },
     "plan_comparison.chart.usage_limits_limited_pages.starter": {
-        "string": "{maxFreeFiles}個のファイル、ページ数の制限なし、{maxFreeProjects}件のプロジェクト"
+        "string": "{maxFreeFiles}个文件，无页数限制，{maxFreeProjects}个项目"
     },
     "plan_comparison.chart.usage_limits_v2.unlimited": {
-        "string": "ファイルとプロジェクトの数が無制限"
+        "string": "文件和项目数量不限"
     },
     "plan_comparison.chart.usage_limits_v2.unlimited_teams": {
-        "string": "チーム、ファイル、プロジェクトの数が無制限"
+        "string": "团队、文件和项目数量不限"
     },
     "plan_comparison.chart.version_history.details": {
-        "string": "Figmaは30分ごとにファイルを自動的に保存してバージョン付けします。いつでも特定のバージョンに名前を付けて、過去のバージョンにリンクすることができます。"
+        "string": "Figma每30分钟自动保存并版本化文件。您可以随时为特定版本命名并链接到过去的版本。"
     },
     "plan_comparison.chart.version_history.name": {
-        "string": "バージョン履歴"
+        "string": "版本历史"
     },
     "plan_comparison.chart.version_history.starter": {
-        "string": "30日間のみ"
+        "string": "仅限30天"
     },
     "plan_comparison.chart.video_in_prototype.details": {
-        "string": "プロトタイプに動画を追加して、より豊かでリアルな体験を創出します。"
+        "string": "在原型中添加视频，创建更丰富、更真实的体验。"
     },
     "plan_comparison.chart.video_in_prototype.name": {
-        "string": "プロトタイプ内の動画"
+        "string": "原型中的视频"
     },
     "plan_comparison.chart.voting.details_with_callout": {
-        "string": "{figJamCallout}内でアイデアに投票できます。"
+        "string": "在{figJamCallout}中为想法投票。"
     },
     "plan_comparison.chart.voting.name": {
         "string": "投票"
     },
     "plan_comparison.chart.workspaces.details": {
-        "string": "ユーザーとコンテンツを組織の構造をミラーリングした複数のワークプレースに分割し、それぞれのワークスペースで集中的に作業します。"
+        "string": "将用户和内容划分到多个工作区中，反映组织结构，并在各自的工作区内进行集中工作。"
     },
     "plan_comparison.chart.workspaces.name": {
-        "string": "ワークスペース"
+        "string": "工作区"
     },
     "plan_comparison.plans.billed_yearly": {
-        "string": "年払い。"
+        "string": "按年计费"
     },
     "plan_comparison.plans.button.annual_billing_toggle": {
-        "string": "年払い。"
+        "string": "年付"
     },
     "plan_comparison.plans.button.current_plan": {
-        "string": "現在のプラン"
+        "string": "当前计划"
     },
     "plan_comparison.plans.current_trial": {
-        "string": "現在のトライアル"
+        "string": "当前试用"
     },
     "plan_comparison.plans.ent.choose_button": {
-        "string": "営業への問い合わせ"
+        "string": "联系销售"
     },
     "plan_comparison.plans.ent.description": {
-        "string": "独自のワークスペースと高度なセキュリティで会社のプロセスを拡張します。"
+        "string": "通过独立的工作区和高级安全扩展公司的流程。"
     },
     "plan_comparison.plans.most_popular": {
-        "string": "最も人気"
+        "string": "最受欢迎"
     },
     "plan_comparison.plans.most_valued": {
-        "string": "最適"
+        "string": "最具价值"
     },
     "plan_comparison.plans.or_contact_sales": {
-        "string": "または、{contactSalesLink}"
+        "string": "或{contactSalesLink}"
     },
     "plan_comparison.plans.org.annual_only_message": {
-        "string": "{billingToggle}お支払いサイクルを年払いに切り替えて、組織の価格設定を表示します。"
+        "string": "{billingToggle}将支付周期切换为年付以查看组织的定价。"
     },
     "plan_comparison.plans.org.choose_button": {
-        "string": "ビジネスにアップグレード"
+        "string": "升级到商务"
     },
     "plan_comparison.plans.org.choose_organization": {
-        "string": "ビジネスを選ぶ"
+        "string": "选择商务"
     },
     "plan_comparison.plans.org.description": {
-        "string": "チーム間の連携の実現、組織全体のデザインシステムの共有などに。"
+        "string": "实现团队之间的协作，共享组织范围内的设计系统等。"
     }
 }

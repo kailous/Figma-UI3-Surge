@@ -1,36 +1,36 @@
 {
     "whiteboard.paywall_upsell.draft.first.main.purpleSection": {
-        "string": "オープンセッション"
+        "string": "开放会话"
     },
     "whiteboard.paywall_upsell.draft.first.secondary": {
-        "string": "24時間参加できます。ログインの必要はありません。"
+        "string": "24小时内可参与。无需登录。"
     },
     "whiteboard.paywall_upsell.draft.second.main": {
-        "string": "{purpleSection}で全員の意思を1つにしましょう"
+        "string": "在{purpleSection}中统一大家的意见"
     },
     "whiteboard.paywall_upsell.draft.second.main.purpleSection": {
         "string": "投票"
     },
     "whiteboard.paywall_upsell.draft.second.secondary": {
-        "string": "全員の意見を聞き、プロジェクトを前に進めます。"
+        "string": "听取大家的意见，推动项目进展。"
     },
     "whiteboard.paywall_upsell.draft.third.main": {
-        "string": "{purpleSection}で徹底的に話し合いましょう"
+        "string": "在{purpleSection}中彻底讨论"
     },
     "whiteboard.paywall_upsell.draft.third.main.purpleSection": {
-        "string": "音声チャット"
+        "string": "语音聊天"
     },
     "whiteboard.paywall_upsell.draft.third.secondary": {
-        "string": "ファイルから出ることなく会話を続けることができます。"
+        "string": "无需离开文件即可继续对话。"
     },
     "whiteboard.paywall_upsell.team.last.main": {
-        "string": "これが無料で作成できる{purpleSection}の\nファイルです"
+        "string": "这是您可以免费创建的{purpleSection}文件"
     },
     "whiteboard.paywall_upsell.team.last.main.purpleSection": {
-        "string": "最後"
+        "string": "最后"
     },
     "whiteboard.paywall_upsell.team.main": {
-        "string": "{fileCount}個の無料ファイルを使用済みです"
+        "string": "您已使用{fileCount}个免费文件"
     },
     "whiteboard.paywall_upsell.team.main.first": {
         "string": "1/3"
@@ -39,114 +39,114 @@
         "string": "2/3"
     },
     "whiteboard.paywall_upsell.team.secondary": {
-        "string": "無制限のファイルと、より良いコラボレーション方法を手に入れませんか?"
+        "string": "想要无限制的文件和更好的协作方式吗？"
     },
     "whiteboard.reactive_guidance.view_only": {
-        "string": "現在は{permission}のみ可能です。"
+        "string": "您目前只能{permission}。"
     },
     "whiteboard.reactive_guidance.view_only_permission": {
-        "string": "閲覧"
+        "string": "查看"
     },
     "whiteboard.section_preset_picker.confirmation_modal.cancel_text": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "whiteboard.section_preset_picker.confirmation_modal.confirm_text": {
-        "string": "テンプレートを切り替える"
+        "string": "切换模板"
     },
     "whiteboard.section_preset_picker.confirmation_modal.description": {
-        "string": "注意: チームのメンバーまたは自分が追加した内容が上書きされます。"
+        "string": "注意：团队成员或您添加的内容将被覆盖。"
     },
     "whiteboard.section_preset_picker.confirmation_modal.header": {
-        "string": "テンプレートを切り替えますか?"
+        "string": "切换模板？"
     },
     "whiteboard.section_preset_picker.shelf.thumbnail": {
-        "string": "コミュニティシェルフのサムネイル"
+        "string": "社区书架缩略图"
     },
     "whiteboard.section_preset_picker.shelf.title": {
-        "string": "テンプレート"
+        "string": "模板"
     },
     "whiteboard.section_presets_onboarding.feature_announcement.description": {
-        "string": "セクションを使えば、ブレインストーミング、メンバーの紹介などの小さなテンプレートが揃ったボードを素早く作成できます。"
+        "string": "使用部分模板，您可以快速创建包含头脑风暴、成员介绍等小模板的白板。"
     },
     "whiteboard.section_presets_onboarding.feature_announcement.secondary": {
-        "string": "その方法は?"
+        "string": "怎么做？"
     },
     "whiteboard.section_presets_onboarding.feature_announcement.title": {
-        "string": "ゼロからスタートする必要はありません"
+        "string": "无需从零开始"
     },
     "whiteboard.section_presets_onboarding.picker_callout.description": {
-        "string": "アイスブレーカー、ブレインストーミングなど、必要なすべてのテンプレートがこちらに揃っています。"
+        "string": "这里有您需要的所有模板，如破冰、头脑风暴等。"
     },
     "whiteboard.section_presets_onboarding.picker_callout.title": {
-        "string": "テンプレートを試す"
+        "string": "尝试模板"
     },
     "whiteboard.shape_collection_type.basic": {
         "string": "基本"
     },
     "whiteboard.shape_collection_type.flowchart": {
-        "string": "フローチャート"
+        "string": "流程图"
     },
     "whiteboard.shape_collection_type.misc": {
-        "string": "その他"
+        "string": "其他"
     },
     "whiteboard.shape_keywords.and": {
-        "string": "And"
+        "string": "和"
     },
     "whiteboard.shape_keywords.circle": {
-        "string": "円"
+        "string": "圆"
     },
     "whiteboard.shape_keywords.comment": {
-        "string": "コメント"
+        "string": "评论"
     },
     "whiteboard.shape_keywords.connector": {
-        "string": "コネクター"
+        "string": "连接器"
     },
     "whiteboard.shape_keywords.cross": {
         "string": "十字"
     },
     "whiteboard.shape_keywords.data": {
-        "string": "データ"
+        "string": "数据"
     },
     "whiteboard.shape_keywords.database": {
-        "string": "データベース"
+        "string": "数据库"
     },
     "whiteboard.shape_keywords.decision": {
-        "string": "ディシジョン"
+        "string": "决策"
     },
     "whiteboard.shape_keywords.input": {
-        "string": "入力"
+        "string": "输入"
     },
     "whiteboard.shape_keywords.manual_operation": {
-        "string": "手作業"
+        "string": "手工操作"
     },
     "whiteboard.shape_keywords.merge": {
-        "string": "マージ"
+        "string": "合并"
     },
     "whiteboard.shape_keywords.off_page_connector": {
-        "string": "オフページコネクター"
+        "string": "页外连接器"
     },
     "whiteboard.shape_keywords.output": {
-        "string": "出力"
+        "string": "输出"
     },
     "whiteboard.shape_keywords.pill": {
-        "string": "ピル"
+        "string": "胶囊"
     },
     "whiteboard.shape_keywords.preparation": {
-        "string": "準備"
+        "string": "准备"
     },
     "whiteboard.shape_keywords.process": {
-        "string": "処理"
+        "string": "过程"
     },
     "whiteboard.shape_keywords.queue": {
-        "string": "キュー"
+        "string": "队列"
     },
     "whiteboard.shape_keywords.quote": {
         "string": "引用"
     },
     "whiteboard.shape_keywords.rectangle": {
-        "string": "長方形"
+        "string": "矩形"
     },
     "whiteboard.shape_keywords.step": {
-        "string": "ステップ"
+        "string": "步骤"
     }
 }

@@ -1,152 +1,152 @@
 {
     "whiteboard.connector_caps.circle": {
-        "string": "円"
+        "string": "圆形"
     },
     "whiteboard.connector_caps.diamond": {
-        "string": "ひし形"
+        "string": "菱形"
     },
     "whiteboard.connector_caps.line_arrow": {
-        "string": "線矢印"
+        "string": "线箭头"
     },
     "whiteboard.connector_caps.none": {
-        "string": "なし"
+        "string": "无"
     },
     "whiteboard.connector_caps.solid_arrow": {
-        "string": "塗りつぶし矢印"
+        "string": "实心箭头"
     },
     "whiteboard.connector_caps.triangle": {
         "string": "三角形"
     },
     "whiteboard.crop_presets.circle": {
-        "string": "円"
+        "string": "圆形"
     },
     "whiteboard.crop_presets.custom": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "whiteboard.crop_presets.landscape": {
-        "string": "横"
+        "string": "横向"
     },
     "whiteboard.crop_presets.original": {
-        "string": "オリジナル"
+        "string": "原始"
     },
     "whiteboard.crop_presets.portrait": {
-        "string": "縦"
+        "string": "纵向"
     },
     "whiteboard.crop_presets.square": {
         "string": "正方形"
     },
     "whiteboard.crop_presets.wide": {
-        "string": "ワイド"
+        "string": "宽"
     },
     "whiteboard.csv.importing_csv": {
-        "string": "CSVをインポート中"
+        "string": "导入CSV中"
     },
     "whiteboard.delightful_toolbar.connector": {
-        "string": "コネクター"
+        "string": "连接器"
     },
     "whiteboard.delightful_toolbar.connector_menu_label": {
-        "string": "コネクターメニュー"
+        "string": "连接器菜单"
     },
     "whiteboard.delightful_toolbar.custom_template_banner.new_file_button": {
-        "string": "新しいファイルで使用"
+        "string": "使用新文件"
     },
     "whiteboard.delightful_toolbar.custom_template_banner.youre_viewing_a_team_template": {
-        "string": "表示しているのは、{userName}が作成したテンプレートです。"
+        "string": "您正在查看{userName}创建的模板。"
     },
     "whiteboard.delightful_toolbar.custom_template_banner.youre_viewing_a_template": {
-        "string": "表示しているのはテンプレートです。"
+        "string": "您正在查看模板。"
     },
     "whiteboard.delightful_toolbar.custom_upload": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "whiteboard.delightful_toolbar.drawing_tools_label": {
-        "string": "作成ツール"
+        "string": "绘图工具"
     },
     "whiteboard.delightful_toolbar.mixed": {
         "string": "混合"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.click_tip": {
-        "string": "右クリック+ドラッグ"
+        "string": "右键点击+拖动"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.pan_section_title": {
-        "string": "移動"
+        "string": "平移"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.pinch_tip": {
-        "string": "ピンチ"
+        "string": "捏合"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.scroll_tip": {
-        "string": "スクロール"
+        "string": "滚动"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.swipe_tip": {
-        "string": "2本の指でスワイプ"
+        "string": "双指滑动"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.expanded.zoom_section_title": {
-        "string": "ズーム"
+        "string": "缩放"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.minimized.complete_text": {
-        "string": "操作方法をご存じのようですね。"
+        "string": "您似乎已经了解了操作方法。"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.minimized.move_to_take_a_look_at_this_file": {
-        "string": "ボードの残りの部分をあちこち見てみましょう"
+        "string": "看看白板的其他部分"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.pan_and_zoom.minimized.show_me_how": {
-        "string": "その方法は?"
+        "string": "怎么做？"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.react_with_stamps": {
-        "string": "{boldText}でリアクションする"
+        "string": "用{boldText}来做反应"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.stamps_bolded": {
-        "string": "スタンプ"
+        "string": "印章"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.sticky_note_tooltip": {
-        "string": "{boldText}でアイデアを追加する"
+        "string": "用{boldText}添加想法"
     },
     "whiteboard.delightful_toolbar.participant_onboarding.sticky_notes_bolded": {
-        "string": "付箋"
+        "string": "便签"
     },
     "whiteboard.delightful_toolbar.shapes_and_connectors_label": {
-        "string": "シェイプとコネクター"
+        "string": "形状和连接器"
     },
     "whiteboard.delightful_toolbar.straight_line": {
-        "string": "直線"
+        "string": "直线"
     },
     "whiteboard.delightful_toolbar.thick": {
-        "string": "太"
+        "string": "粗"
     },
     "whiteboard.delightful_toolbar.thin": {
-        "string": "細"
+        "string": "细"
     },
     "whiteboard.delightful_toolbar.version_history_banner_text": {
-        "string": "オブジェクトの選択とコピーには{selectIcon}選択ツール、ボード内での移動には{handIcon}手のひらツールを使用します。"
+        "string": "要选择和复制对象，请使用{selectIcon}选择工具；要在白板上移动，请使用{handIcon}手掌工具。"
     },
     "whiteboard.delightful_toolbar.view_only": {
-        "string": "閲覧のみ"
+        "string": "仅查看"
     },
     "whiteboard.delightful_toolbar.view_only_banner_text": {
-        "string": "まだあります。{commentKey}でコメント、{chatKey}でチャット、{emoteKey}でリアクションが可能です。"
+        "string": "还有更多功能。可以使用{commentKey}进行评论，使用{chatKey}进行聊天，使用{emoteKey}进行反应。"
     },
     "whiteboard.delightful_toolbar.view_only_banner_text_figjam_disabled_by_org": {
-        "string": "FigJamは組織によって無効にされています。引き続き{commentKey}でコメント、{chatKey}でチャット、{emoteKey}でリアクションが可能です。"
+        "string": "FigJam已被组织禁用。仍然可以使用{commentKey}进行评论，使用{chatKey}进行聊天，使用{emoteKey}进行反应。"
     },
     "whiteboard.delightful_toolbar.view_only_banner_text_figjam_disabled_by_org_no_chat": {
-        "string": "FigJamは組織によって無効にされています。引き続き{commentKey}でコメント、{emoteKey}でリアクションが可能です。"
+        "string": "FigJam已被组织禁用。仍然可以使用{commentKey}进行评论，使用{emoteKey}进行反应。"
     },
     "whiteboard.delightful_toolbar.view_only_banner_text_no_chat": {
-        "string": "まだあります。{commentKey}でコメント、{emoteKey}でリアクションが可能です。"
+        "string": "还有更多功能。可以使用{commentKey}进行评论，使用{emoteKey}进行反应。"
     },
     "whiteboard.no-edit-hidden-section-tooltip": {
-        "string": "非表示の場合は編集できません"
+        "string": "隐藏时无法编辑"
     },
     "whiteboard.editor_file_create_button.back_button_aria_label": {
-        "string": "編集者ファイル作成戻るボタン"
+        "string": "编辑文件创建返回按钮"
     },
     "whiteboard.editor_file_create_button.back_button_tooltip": {
-        "string": "ファイルに戻る"
+        "string": "返回文件"
     },
     "whiteboard.editor_file_create_button.blank_whiteboard": {
-        "string": "空白のホワイトボード"
+        "string": "空白白板"
     },
     "whiteboard.editor_file_create_button.create_button_aria_label": {
-        "string": "編集者ファイル作成ボタン"
+        "string": "编辑文件创建按钮"
     }
 }

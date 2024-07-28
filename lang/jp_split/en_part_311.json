@@ -1,126 +1,126 @@
 {
     "tokens.settings.dev_token_modal.expiration_description": {
-        "string": "このトークンの有効期限は{expiry, date, ::yMMMMd}です。"
+        "string": "此令牌的有效期为{expiry, date, ::yMMMMd}。"
     },
     "tokens.settings.dev_token_modal.expiration_description_never": {
-        "string": "このトークンに有効期限はありません。"
+        "string": "此令牌没有有效期。"
     },
     "tokens.settings.dev_token_modal.expiration_header": {
-        "string": "有効期限"
+        "string": "有效期"
     },
     "tokens.settings.dev_token_modal.expiration_option": {
-        "string": "{numDays, plural, other {{numDays}日間}}"
+        "string": "{numDays, plural, other {{numDays}天}}"
     },
     "tokens.settings.dev_token_modal.name_placeholder": {
-        "string": "トークン名"
+        "string": "令牌名称"
     },
     "tokens.settings.dev_token_modal.no_expiration_option": {
-        "string": "有効期限なし"
+        "string": "无有效期"
     },
     "tokens.settings.dev_token_modal.scope.code_connect_description": {
-        "string": "コンポーネントコードの記述と変更を行います。"
+        "string": "编写和修改组件代码。"
     },
     "tokens.settings.dev_token_modal.scope.code_connect_name": {
-        "string": "Code Connect"
+        "string": "代码连接"
     },
     "tokens.settings.dev_token_modal.scope.comments_description": {
-        "string": "ファイル内のコメントの投稿と削除を行います。"
+        "string": "在文件中发布和删除评论。"
     },
     "tokens.settings.dev_token_modal.scope.comments_name": {
-        "string": "コメント"
+        "string": "评论"
     },
     "tokens.settings.dev_token_modal.scope.dev_resources_description": {
-        "string": "ファイル内の開発リソースの読み取りと書き込みが可能です。"
+        "string": "可以读取和写入文件中的开发资源。"
     },
     "tokens.settings.dev_token_modal.scope.dev_resources_name": {
-        "string": "開発リソース"
+        "string": "开发资源"
     },
     "tokens.settings.dev_token_modal.scope.file_content_description": {
-        "string": "ファイル、プロジェクト、ユーザー、バージョン、コメント、コンポーネントおよびスタイル、Webフックを読み取ります。"
+        "string": "读取文件、项目、用户、版本、评论、组件和样式、Webhooks。"
     },
     "tokens.settings.dev_token_modal.scope.file_content_name": {
-        "string": "ファイルのコンテンツ"
+        "string": "文件内容"
     },
     "tokens.settings.dev_token_modal.scope.library_analytics_description": {
-        "string": "ライブラリアナリティクスデータを読み込みます。"
+        "string": "读取库分析数据。"
     },
     "tokens.settings.dev_token_modal.scope.library_analytics_name": {
-        "string": "ライブラリアナリティクス"
+        "string": "库分析"
     },
     "tokens.settings.dev_token_modal.scope.no_access": {
-        "string": "アクセスなし"
+        "string": "无访问权限"
     },
     "tokens.settings.dev_token_modal.scope.read_only": {
-        "string": "読み取りのみ"
+        "string": "只读"
     },
     "tokens.settings.dev_token_modal.scope.read_write": {
-        "string": "読み取りと書き込み"
+        "string": "读写"
     },
     "tokens.settings.dev_token_modal.scope.variables_description": {
-        "string": "Figmaファイル内のバリアブルの読み取りと書き込みが可能です。"
+        "string": "可以读取和写入Figma文件中的变量。"
     },
     "tokens.settings.dev_token_modal.scope.variables_name": {
-        "string": "バリアブル"
+        "string": "变量"
     },
     "tokens.settings.dev_token_modal.scope.webhooks_description": {
-        "string": "Webフックの作成と管理を行います。"
+        "string": "创建和管理Webhooks。"
     },
     "tokens.settings.dev_token_modal.scope.webhooks_name": {
-        "string": "Webフック"
+        "string": "Webhooks"
     },
     "tokens.settings.dev_token_modal.scope.write_only": {
-        "string": "書き込み"
+        "string": "仅写"
     },
     "tokens.settings.dev_token_modal.scopes_header": {
-        "string": "スコープ"
+        "string": "范围"
     },
     "tokens.settings.developer_tokens_description": {
-        "string": "個人アクセストークンを使用すると、API経由で自分自身のデータにアクセスできるようになります。ファイルにアクセスして欲しくないユーザーには、 個人アクセストークンを渡さないでください。"
+        "string": "使用个人访问令牌可以通过API访问您的数据。请不要将个人访问令牌交给您不希望访问您文件的用户。"
     },
     "tokens.settings.developer_tokens_title": {
-        "string": "個人アクセストークン"
+        "string": "个人访问令牌"
     },
     "tokens.settings.expires": {
-        "string": "{relativeTimeString}に期限切れ"
+        "string": "有效期至{relativeTimeString}"
     },
     "tokens.settings.generate_new_token": {
-        "string": "新規トークンを作成"
+        "string": "生成新令牌"
     },
     "tokens.settings.last_used": {
-        "string": "{relativeTimeString}に使用"
+        "string": "上次使用: {relativeTimeString}"
     },
     "tokens.settings.never_expires": {
-        "string": "有効期限なし"
+        "string": "无有效期"
     },
     "tokens.settings.never_used": {
-        "string": "未使用"
+        "string": "从未使用"
     },
     "tokens.settings.new_token_reminder": {
-        "string": "この操作はこの時点でのみ実行できます!"
+        "string": "此操作只能在此时执行！"
     },
     "tokens.settings.no_connected_apps": {
-        "string": "接続済みのアプリがありません。"
+        "string": "没有已连接的应用程序。"
     },
     "tokens.settings.revoke_access": {
-        "string": "アクセスを取り消す"
+        "string": "撤销访问"
     },
     "tooltips_plus_onboarding.assets_ending_step.description": {
-        "string": "必要なときはいつでも{strongAssets}タブを開いて、コンポーネントをすばやく見つけることができます。"
+        "string": "随时打开{strongAssets}选项卡，以快速找到组件。"
     },
     "tooltips_plus_onboarding.assets_ending_step.title": {
-        "string": "アセットを利用する"
+        "string": "利用资产"
     },
     "tooltips_plus_onboarding.assets_step.description": {
-        "string": "まずはチームライブラリのコンポーネントやFigmaが提供するUIキットを利用し、そのあとで独自のデザインにしていきます。"
+        "string": "首先使用团队库的组件或Figma提供的UI套件，然后再进行自定义设计。"
     },
     "tooltips_plus_onboarding.assets_step.title": {
-        "string": "構築済みアセットを使って短時間でデザインする"
+        "string": "使用预构建资产快速设计"
     },
     "tooltips_plus_onboarding.back": {
-        "string": "戻る"
+        "string": "返回"
     },
     "tooltips_plus_onboarding.change_properties_in_the_design_panel": {
-        "string": "デザインパネルでプロパティを変更する"
+        "string": "在设计面板中更改属性"
     },
     "tooltips_plus_onboarding.command_key": {
         "string": "⌘"
@@ -129,24 +129,24 @@
         "string": "Ctrl"
     },
     "tooltips_plus_onboarding.design_panel.description": {
-        "string": "フレームのサイズ、角の半径、塗りなどを調整してみましょう。"
+        "string": "调整框架的尺寸、角半径、填充等。"
     },
     "tooltips_plus_onboarding.design_panel.title": {
-        "string": "さらにプロパティも変更"
+        "string": "更改属性"
     },
     "tooltips_plus_onboarding.done": {
-        "string": "完了"
+        "string": "完成"
     },
     "tooltips_plus_onboarding.go_to_a_blank_spot_in_your_canvas": {
-        "string": "キャンバスの空白部分に移動してください"
+        "string": "转到画布中的空白区域"
     },
     "tooltips_plus_onboarding.hold_key_and_scroll": {
-        "string": "{keyboardKey}を押しながら、マウスをスクロールします。"
+        "string": "按住{keyboardKey}并滚动鼠标。"
     },
     "tooltips_plus_onboarding.hold_right_click_while_moving_mouse": {
-        "string": "右クリックしたままマウスを動かします。"
+        "string": "右键单击并移动鼠标。"
     },
     "tooltips_plus_onboarding.hold_space_and_left_click_while_moving_your_mouse": {
-        "string": "{spaceKey}を押しながら、左クリックしたままマウスを動かします。"
+        "string": "按住{spaceKey}并左键单击，移动鼠标。"
     }
 }

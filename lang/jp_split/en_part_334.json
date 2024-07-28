@@ -1,57 +1,57 @@
 {
     "whiteboard.ai_summary.nudge.subtitle": {
-        "string": "FigJam AIを使って要約しましょう。"
+        "string": "使用FigJam AI进行总结。"
     },
     "whiteboard.ai_summary.nudge.title": {
-        "string": "付箋がいっぱいになりました。"
+        "string": "便签已经很多了。"
     },
     "whiteboard.ai_summary.nudge.too_many_tokens": {
-        "string": "選択数を減らしてみてください。"
+        "string": "请尝试减少选择的便签数量。"
     },
     "whiteboard.ai_summary.out_of_date_error": {
-        "string": "要約できませんでした。ファイルの再読み込みが必要です。"
+        "string": "无法总结。需要重新加载文件。"
     },
     "whiteboard.ai_summary.rate_limit_exceeded_error": {
-        "string": "現在、要約できません。少ししてから、もう一度お試しください"
+        "string": "目前无法进行总结。请稍后再试。"
     },
     "whiteboard.clustering.dot_stamp_cluster": {
-        "string": "ドット"
+        "string": "点"
     },
     "whiteboard.clustering.face_stamp_cluster": {
-        "string": "フェイススタンプ"
+        "string": "笑脸"
     },
     "whiteboard.clustering.heart_stamp_cluster": {
-        "string": "ハート"
+        "string": "心形"
     },
     "whiteboard.clustering.no_stamps_cluster": {
-        "string": "スタンプなし"
+        "string": "无印记"
     },
     "whiteboard.clustering.other_stamp_cluster": {
-        "string": "その他"
+        "string": "其他"
     },
     "whiteboard.clustering.plus_one_stamp_cluster": {
         "string": "+1"
     },
     "whiteboard.clustering.question_mark_stamp_cluster": {
-        "string": "疑問符"
+        "string": "问号"
     },
     "whiteboard.clustering.star_stamp_cluster": {
-        "string": "星"
+        "string": "星形"
     },
     "whiteboard.clustering.thumbs_down_stamp_cluster": {
-        "string": "サムダウン"
+        "string": "差评"
     },
     "whiteboard.clustering.thumbs_up_stamp_cluster": {
-        "string": "サムアップ"
+        "string": "好评"
     },
     "whiteboard.organize_menu.onboarding_dismiss_button_text": {
-        "string": "了解"
+        "string": "知道了"
     },
     "whiteboard.organize_menu.onboarding_text_base": {
-        "string": "こちらから、もう一度{boldText}することができます。"
+        "string": "您可以在此处再次{boldText}。"
     },
     "whiteboard.organize_menu.onboarding_text_bold_text": {
-        "string": "要約"
+        "string": "总结"
     },
     "whiteboard.code_blocks.bash": {
         "string": "Bash"
@@ -84,7 +84,7 @@
         "string": "混合"
     },
     "whiteboard.code_blocks.plaintext": {
-        "string": "書式なし"
+        "string": "纯文本"
     },
     "whiteboard.code_blocks.python": {
         "string": "Python"
@@ -105,48 +105,48 @@
         "string": "TypeScript"
     },
     "whiteboard.color_palettes.color_palette_picker.team_palettes": {
-        "string": "{teamName}のパレット"
+        "string": "{teamName}的调色板"
     },
     "whiteboard.color_palettes.color_palette_picker.team_palettes_no_name": {
-        "string": "チームのパレット"
+        "string": "团队调色板"
     },
     "whiteboard.color_palettes.dropdown.manage_palettes": {
-        "string": "パレットを管理"
+        "string": "管理调色板"
     },
     "whiteboard.color_palettes.dropdown.new_palette": {
-        "string": "新しいパレット"
+        "string": "新建调色板"
     },
     "whiteboard.color_palettes.figjam_colors": {
         "string": "FigJam"
     },
     "whiteboard.color_palettes.make_default_confirmation_modal.confirm_button": {
-        "string": "デフォルトを設定"
+        "string": "设为默认"
     },
     "whiteboard.color_palettes.make_default_confirmation_modal.description": {
-        "string": "{paletteName}が、チーム{teamName}が作成したFigJamボードのデフォルトのカラーパレットになります。"
+        "string": "{paletteName}将成为团队{teamName}创建的FigJam白板的默认调色板。"
     },
     "whiteboard.color_palettes.make_default_confirmation_modal.this_palette": {
-        "string": "このパレット"
+        "string": "此调色板"
     },
     "whiteboard.color_palettes.make_default_confirmation_modal.title": {
-        "string": "デフォルトのパレットとして設定"
+        "string": "设为默认调色板"
     },
     "whiteboard.color_palettes.manage_modal.color_palettes": {
-        "string": "カラーパレット"
+        "string": "调色板"
     },
     "whiteboard.color_palettes.manage_modal.create_new_palette": {
-        "string": "パレットを新規作成"
+        "string": "新建调色板"
     },
     "whiteboard.color_palettes.manage_modal.default": {
-        "string": "デフォルト"
+        "string": "默认"
     },
     "whiteboard.color_palettes.manage_modal.manage_your_teams_color_palettes": {
-        "string": "チームのカラーパレットを管理します。"
+        "string": "管理团队的调色板。"
     },
     "whiteboard.color_palettes.modal.add_color": {
-        "string": "色を追加"
+        "string": "添加颜色"
     },
     "whiteboard.color_palettes.modal.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     }
 }

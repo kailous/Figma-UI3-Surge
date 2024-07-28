@@ -1,152 +1,152 @@
 {
     "voting.modal.end_voting_session_modal_description": {
-        "string": "これで、全員の投票セッションが終了します。結果を集計してすぐに表示します。"
+        "string": "这将结束所有人的投票会话。结果将立即汇总并显示。"
     },
     "voting.modal.end_voting_session_modal_header": {
-        "string": "ユーザー全員が終了していますか?"
+        "string": "所有用户都结束了吗？"
     },
     "voting.modal.increase_limit_tooltip_aria_label": {
-        "string": "投票数の上限を上げる"
+        "string": "提高投票数上限"
     },
     "voting.modal.medal_img_alt": {
-        "string": "最多得票のメダル"
+        "string": "最多票数的奖牌"
     },
     "voting.modal.previous_votes_null_text_title": {
-        "string": "投票がありません"
+        "string": "没有投票"
     },
     "voting.modal.reduce_limit_tooltip_aria_label": {
-        "string": "投票数の上限を下げる"
+        "string": "降低投票数上限"
     },
     "voting.modal.start_disabled_logged_out_tooltip": {
-        "string": "サインインして投票を開始"
+        "string": "登录以开始投票"
     },
     "voting.modal.start_voting_session": {
-        "string": "開始"
+        "string": "开始"
     },
     "voting.modal.voted": {
-        "string": "{numVotes}人が投票しました"
+        "string": "{numVotes}人已投票"
     },
     "voting.modal.votes": {
-        "string": "{numVotes, plural, other {{numVotesElem}票}}"
+        "string": "{numVotesElem}票"
     },
     "voting.modal.voting_limit_input_field_aria_label": {
-        "string": "投票制限の入力フィールド"
+        "string": "投票限制输入字段"
     },
     "voting.modal.voting_results_image_preview_alt": {
-        "string": "投票オブジェクトのプレビュー画像"
+        "string": "投票对象的预览图像"
     },
     "voting.modal.voting_setup_prompt_input_field_aria_label": {
-        "string": "投票プロンプトの入力フィールド"
+        "string": "投票提示输入字段"
     },
     "voting.modal.voting_setup_responsive_placeholder_prompt": {
-        "string": "{numVotes, plural, other {お気に入りを{numVotes}個スタンプ}}"
+        "string": "给您喜欢的{numVotes}个打上标记"
     },
     "voting.pin.medal_img_alt": {
-        "string": "最多得票のメダル"
+        "string": "最多票数的奖牌"
     },
     "voting.pin.stamp_preview_alt_with_type": {
-        "string": "{stampType}投票スタンプ"
+        "string": "{stampType}投票印章"
     },
     "voting.pin.stamp_preview_alt_without_type": {
-        "string": "投票スタンプ"
+        "string": "投票印章"
     },
     "voting.pin.voter_list_overflow": {
-        "string": "{numOverflowingVoters, plural, other {他に{numOverflowingVoters}人の投票者}}"
+        "string": "还有{numOverflowingVoters}名投票者"
     },
     "voting.pin.votes": {
-        "string": "{numVotes, plural, other {{numVotes}票}}"
+        "string": "{numVotes}票"
     },
     "voting.stamp_tooltip.old_stamp": {
-        "string": "昔のスタンプ"
+        "string": "旧印章"
     },
     "voting.stamp_tooltip.unavailable": {
-        "string": "使用できません"
+        "string": "不可用"
     },
     "voting.stamp_tooltip.visitor_vote": {
-        "string": "ゲストの投票"
+        "string": "访客投票"
     },
     "voting.stamp_tooltip.visitor_with_org": {
-        "string": "{orgName}のゲスト"
+        "string": "{orgName}的访客"
     },
     "voting.stamp_tooltip.visitor_without_org": {
-        "string": "ゲスト"
+        "string": "访客"
     },
     "voting.stamp_tooltip.vote": {
-        "string": "{userName}さんの投票"
+        "string": "{userName}的投票"
     },
     "voting.visual_bell.end_voting_session_failed": {
-        "string": "投票を終了できませんでした。もう一度試しますか?"
+        "string": "无法结束投票。要重试吗？"
     },
     "voting.visual_bell.start_voting_session_failed": {
-        "string": "投票を開始できませんでした。もう一度試しますか?"
+        "string": "无法开始投票。要重试吗？"
     },
     "voting.voter_username.unavailable": {
-        "string": "使用できません"
+        "string": "不可用"
     },
     "voting.voter_username.visitor": {
-        "string": "ゲスト"
+        "string": "访客"
     },
     "whiteboard.washi_tapes.checkerboard": {
-        "string": "ギンガムスタイル"
+        "string": "方格纹"
     },
     "whiteboard.washi_tapes.custom": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "whiteboard.washi_tapes.custom_aria_label": {
-        "string": "独自の和紙テープ"
+        "string": "自定义和纸胶带"
     },
     "whiteboard.washi_tapes.desert": {
-        "string": "砂漠"
+        "string": "沙漠"
     },
     "whiteboard.washi_tapes.flower": {
-        "string": "花柄"
+        "string": "花纹"
     },
     "whiteboard.washi_tapes.frog": {
-        "string": "カエル"
+        "string": "青蛙"
     },
     "whiteboard.washi_tapes.fruit": {
-        "string": "フルーツサラダ"
+        "string": "水果沙拉"
     },
     "whiteboard.washi_tapes.grid": {
-        "string": "グラフィティー"
+        "string": "涂鸦"
     },
     "whiteboard.washi_tapes.party": {
-        "string": "誕生日パーティー"
+        "string": "生日派对"
     },
     "whiteboard.washi_tapes.pride": {
-        "string": "プライド"
+        "string": "骄傲"
     },
     "whiteboard.washi_tapes.purple_grid": {
-        "string": "グラフィティ"
+        "string": "紫色方格"
     },
     "whiteboard.washi_tapes.star": {
         "string": "星空"
     },
     "whiteboard.washi_tapes.stripe": {
-        "string": "レモンライム"
+        "string": "柠檬青柠"
     },
     "whiteboard.washi_tapes.sushi": {
         "string": "寿司"
     },
     "whiteboard.washi_tapes.tree": {
-        "string": "アースデイ"
+        "string": "地球日"
     },
     "whiteboard.whats_new.brainstorm.title": {
-        "string": "FigJamでのブレインストーミング"
+        "string": "在FigJam中头脑风暴"
     },
     "whiteboard.whats_new.design.control.body": {
-        "string": "みんなでアイデアを出し合い、気に入ったアイデアに投票することができます。"
+        "string": "大家一起出主意，并为喜欢的创意投票。"
     },
     "whiteboard.whats_new.diagram.title": {
-        "string": "FigJamでの図表作成"
+        "string": "在FigJam中制作图表"
     },
     "whiteboard.whats_new.engineer.control.body": {
-        "string": "プロセス、フロー、すぐに使えるアイデアなど、どんなものでも図にできます。"
+        "string": "可以为任何内容创建流程图、流程、甚至您独特的想法。"
     },
     "whiteboard.whats_new.marketing.control.body": {
-        "string": "アイデアを出し合い、チームアクティビティーを作成し、次に向けて足並みを揃えることができます。"
+        "string": "大家一起出主意，创建团队活动，并为下一步行动协调一致。"
     },
     "whiteboard.whats_new.meeting.title": {
-        "string": "FigJamでのミーティング"
+        "string": "在FigJam中开会"
     }
 }

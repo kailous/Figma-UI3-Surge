@@ -1,33 +1,33 @@
 {
     "whiteboard.editor_file_create_button.template.brainstorm": {
-        "string": "ブレインストーミング"
+        "string": "头脑风暴"
     },
     "whiteboard.editor_file_create_button.template.diagram": {
-        "string": "図表"
+        "string": "图表"
     },
     "whiteboard.editor_file_create_button.template.meeting": {
-        "string": "ミーティング"
+        "string": "会议"
     },
     "whiteboard.editor_file_create_button.template.plan": {
-        "string": "プラン"
+        "string": "计划"
     },
     "whiteboard.editor_file_create_button.template.title": {
-        "string": "テンプレートから始める"
+        "string": "从模板开始"
     },
     "whiteboard.embed_actions.embed_failed": {
-        "string": "プレビューを作成できませんでした"
+        "string": "无法创建预览"
     },
     "whiteboard.embeds.embed_overlay_iframe_title": {
-        "string": "Figma埋め込みコンテンツ"
+        "string": "Figma嵌入内容"
     },
     "whiteboard.embeds.inline_menu.change_back_to_text": {
-        "string": "テキストに戻す"
+        "string": "改为文本"
     },
     "whiteboard.embeds.inline_menu.display_horizontal": {
-        "string": "横方向に表示"
+        "string": "横向显示"
     },
     "whiteboard.embeds.inline_menu.display_vertical": {
-        "string": "縦方向に表示"
+        "string": "纵向显示"
     },
     "whiteboard.embeds.inline_menu.maximize": {
         "string": "最大化"
@@ -36,13 +36,13 @@
         "string": "最小化"
     },
     "whiteboard.embeds.inline_menu.open_link": {
-        "string": "リンクを開く"
+        "string": "打开链接"
     },
     "whiteboard.embeds.insert_embed_modal.add": {
-        "string": "追加"
+        "string": "添加"
     },
     "whiteboard.embeds.insert_embed_modal.add_media_from_across_the_web": {
-        "string": "Webからメディアを追加できます。{learnMoreLink}"
+        "string": "可以从网络上添加媒体。{learnMoreLink}"
     },
     "whiteboard.embeds.insert_embed_modal.asana": {
         "string": "Asana"
@@ -54,25 +54,25 @@
         "string": "Figma"
     },
     "whiteboard.embeds.insert_embed_modal.invalid_link_error_message": {
-        "string": "有効なリンクではないようです。"
+        "string": "这似乎不是一个有效的链接。"
     },
     "whiteboard.embeds.insert_embed_modal.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "whiteboard.embeds.insert_embed_modal.loom": {
         "string": "Loom"
     },
     "whiteboard.embeds.insert_embed_modal.paste_a_public_link": {
-        "string": "公開リンクを貼り付け"
+        "string": "粘贴一个公开链接"
     },
     "whiteboard.embeds.insert_embed_modal.spotify": {
         "string": "Spotify"
     },
     "whiteboard.embeds.insert_embed_modal.title": {
-        "string": "リンク"
+        "string": "链接"
     },
     "whiteboard.embeds.insert_embed_modal.try_linking_to_sites_like": {
-        "string": "次のようなサイトをリンクできます..."
+        "string": "尝试链接到以下网站..."
     },
     "whiteboard.embeds.insert_embed_modal.vimeo": {
         "string": "Vimeo"
@@ -81,72 +81,72 @@
         "string": "YouTube"
     },
     "whiteboard.embeds.tooltip_help_text.audio": {
-        "string": "再生ボタンをクリックすると、オーディオが再生されます。"
+        "string": "点击播放按钮播放音频。"
     },
     "whiteboard.embeds.tooltip_help_text.file": {
-        "string": "このプレビューはあなた専用です。メディアを再生しても、他のユーザーは見ることも聞くこともできません。"
+        "string": "此预览仅供您使用。播放媒体时，其他用户无法看到或听到。"
     },
     "whiteboard.embeds.tooltip_help_text.generic": {
-        "string": "このプレビューはあなた専用です。メディアを再生しても、他のユーザーは見ることも聞くこともできません。"
+        "string": "此预览仅供您使用。播放媒体时，其他用户无法看到或听到。"
     },
     "whiteboard.embeds.tooltip_help_text.video": {
-        "string": "再生ボタンをクリックすると、ビデオが再生されます。"
+        "string": "点击播放按钮播放视频。"
     },
     "whiteboard.embeds.view_button": {
-        "string": "表示"
+        "string": "查看"
     },
     "whiteboard.figjam_export.background": {
         "string": "背景"
     },
     "whiteboard.figjam_export.content_type": {
-        "string": "コンテンツタイプ"
+        "string": "内容类型"
     },
     "whiteboard.figjam_export.csv_disabled": {
-        "string": "エクスポート対象の有効なコンテンツがない場合、CSVファイルのエクスポートオプションは無効になります。"
+        "string": "如果没有有效的内容，CSV导出选项将被禁用。"
     },
     "whiteboard.figjam_export.entire_file": {
-        "string": "ファイル全体"
+        "string": "整个文件"
     },
     "whiteboard.figjam_export.export": {
-        "string": "エクスポート"
+        "string": "导出"
     },
     "whiteboard.figjam_export.export_area": {
-        "string": "エクスポートエリア"
+        "string": "导出区域"
     },
     "whiteboard.figjam_export.exporting": {
-        "string": "エクスポート中"
+        "string": "正在导出"
     },
     "whiteboard.figjam_export.exporting_may_take_a_minute_or_two": {
-        "string": "エクスポートには数分かかる場合があります"
+        "string": "导出可能需要几分钟时间"
     },
     "whiteboard.figjam_export.file_type": {
-        "string": "ファイルの種類"
+        "string": "文件类型"
     },
     "whiteboard.figjam_export.grid": {
-        "string": "グリッド"
+        "string": "网格"
     },
     "whiteboard.figjam_export.no_background": {
-        "string": "なし"
+        "string": "无背景"
     },
     "whiteboard.figjam_export.selection_only": {
-        "string": "選択範囲のみ"
+        "string": "仅选择"
     },
     "whiteboard.figjam_export.solid": {
-        "string": "単色"
+        "string": "纯色"
     },
     "whiteboard.figjam_export.sticky": {
-        "string": "付箋"
+        "string": "便签"
     },
     "whiteboard.figjam_export.table": {
-        "string": "テーブル"
+        "string": "表格"
     },
     "whiteboard.figjam_export.transparent": {
         "string": "透明"
     },
     "whiteboard.fonts.bookish": {
-        "string": "フォーマル"
+        "string": "正式"
     },
     "whiteboard.fonts.cute": {
-        "string": "キュート"
+        "string": "可爱"
     }
 }

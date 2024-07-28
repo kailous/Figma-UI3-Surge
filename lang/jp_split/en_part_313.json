@@ -1,152 +1,152 @@
 {
     "type_settings.decoration.paragraph_indent": {
-        "string": "段落インデント"
+        "string": "段落缩进"
     },
     "type_settings.decoration.paragraph_spacing": {
-        "string": "段落間隔"
+        "string": "段落间距"
     },
     "type_settings.decoration.strikethrough": {
-        "string": "取り消し線"
+        "string": "删除线"
     },
     "type_settings.decoration.underline": {
-        "string": "下線"
+        "string": "下划线"
     },
     "type_settings.explicit_text_layout_update_desc": {
-        "string": "段落の間隔のオプションを強化するための更新です。"
+        "string": "这是为了增强段落间距选项的更新。"
     },
     "type_settings.fixed_size": {
-        "string": "固定サイズ"
+        "string": "固定尺寸"
     },
     "type_settings.font_doesn_t_support_small_caps": {
-        "string": "フォントではスモールキャップスはサポートされていません"
+        "string": "字体不支持小型大写"
     },
     "type_settings.forced_small_caps": {
-        "string": "強制スモールキャップス"
+        "string": "强制小型大写"
     },
     "type_settings.fractions": {
         "string": "分数"
     },
     "type_settings.hanging_lists": {
-        "string": "ハングリスト"
+        "string": "悬挂列表"
     },
     "type_settings.hanging_punctuation": {
-        "string": "ぶら下げ句読点"
+        "string": "悬挂标点"
     },
     "type_settings.horizontal_spacing": {
-        "string": "左右の間隔"
+        "string": "水平间距"
     },
     "type_settings.indentation": {
-        "string": "インデント"
+        "string": "缩进"
     },
     "type_settings.leading_trim": {
-        "string": "上下トリミング"
+        "string": "行距修剪"
     },
     "type_settings.leading_trim.cap_height": {
-        "string": "ベースラインまでのキャップハイト"
+        "string": "大写字母高度到基线"
     },
     "type_settings.leading_trim.font_does_not_support_leading_trim": {
-        "string": "フォントは上下トリミングをサポートしていません"
+        "string": "字体不支持行距修剪"
     },
     "type_settings.leading_trim.none": {
-        "string": "標準"
+        "string": "无"
     },
     "type_settings.letter_case": {
-        "string": "大文字/小文字"
+        "string": "字母大小写"
     },
     "type_settings.letterforms": {
         "string": "字形"
     },
     "type_settings.list_style": {
-        "string": "リストスタイル"
+        "string": "列表样式"
     },
     "type_settings.math": {
-        "string": "数式"
+        "string": "数学"
     },
     "type_settings.max_lines": {
         "string": "最大行数"
     },
     "type_settings.monospace_lowercase_old_style": {
-        "string": "等幅小文字/オールドスタイル"
+        "string": "等宽小写字母/旧样式"
     },
     "type_settings.more_features": {
-        "string": "その他の機能"
+        "string": "更多功能"
     },
     "type_settings.new_text_rendering_method_used": {
-        "string": "新しいテキストレンダリング方式が使用されています。"
+        "string": "使用了新的文本渲染方法。"
     },
     "type_settings.normal": {
-        "string": "標準"
+        "string": "正常"
     },
     "type_settings.not_applicable_for_selected_text": {
-        "string": "選択されているテキストには適用されません"
+        "string": "不适用于所选文本"
     },
     "type_settings.numbers": {
         "string": "数字"
     },
     "type_settings.numeric.font_default": {
-        "string": "フォントのデフォルト"
+        "string": "字体默认"
     },
     "type_settings.numeric.monospace_uppercase_lining": {
-        "string": "等幅大文字/ライニング"
+        "string": "等宽大写字母/对齐"
     },
     "type_settings.numeric.proportional_lowercase_old_style": {
-        "string": "プロポーショナル小文字/オールドスタイル"
+        "string": "比例小写字母/旧样式"
     },
     "type_settings.numeric.proportional_uppercase_lining": {
-        "string": "プロポーショナル大文字/ライニング"
+        "string": "比例大写字母/对齐"
     },
     "type_settings.numeric.style": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "type_settings.older_text_rendering_method_used": {
-        "string": "古いテキストレンダリング方式が使用されています。"
+        "string": "使用了旧的文本渲染方法。"
     },
     "type_settings.older_text_rendering_method_used_for_part_of_the_selection": {
-        "string": "選択範囲の一部に古いテキストレンダリング方式が使用されています。"
+        "string": "选定内容的部分使用了旧的文本渲染方法。"
     },
     "type_settings.open_type_features.above_base_forms": {
-        "string": "Above-base forms"
+        "string": "基线以上的形式"
     },
     "type_settings.open_type_features.above_base_mark_positioning": {
-        "string": "Above-base mark positioning"
+        "string": "基线以上标记定位"
     },
     "type_settings.open_type_features.above_base_substitutions": {
-        "string": "Above-base substitutions"
+        "string": "基线以上替换"
     },
     "type_settings.open_type_features.access_all_alternates": {
-        "string": "Access all alternates"
+        "string": "访问所有替代形式"
     },
     "type_settings.open_type_features.akhand_ligature_devanagari": {
-        "string": "Akhand (Ligature devanagari)"
+        "string": "连字（天城文）"
     },
     "type_settings.open_type_features.alternate_annotation_forms": {
-        "string": "代替アノテーションフォーム"
+        "string": "替代注释形式"
     },
     "type_settings.open_type_features.alternate_half_widths": {
-        "string": "Alternate half widths"
+        "string": "替代半宽"
     },
     "type_settings.open_type_features.alternate_vertical_half_metrics": {
-        "string": "Alternate vertical half metrics"
+        "string": "替代垂直半度量"
     },
     "type_settings.open_type_features.alternate_vertical_metrics": {
-        "string": "Alternate vertical metrics"
+        "string": "替代垂直度量"
     },
     "type_settings.open_type_features.alternative_fractions": {
-        "string": "Alternative fractions"
+        "string": "替代分数"
     },
     "type_settings.open_type_features.below_base_forms": {
-        "string": "Below-base forms"
+        "string": "基线以下的形式"
     },
     "type_settings.open_type_features.below_base_mark_positioning": {
-        "string": "Below-base mark positioning"
+        "string": "基线以下标记定位"
     },
     "type_settings.open_type_features.below_base_substitutions": {
-        "string": "Below-base substitutions"
+        "string": "基线以下替换"
     },
     "type_settings.open_type_features.capital_spacing": {
-        "string": "Capital spacing"
+        "string": "大写字母间距"
     },
     "type_settings.open_type_features.case_sensitive_forms": {
-        "string": "Case-sensitive forms"
+        "string": "大小写敏感形式"
     }
 }

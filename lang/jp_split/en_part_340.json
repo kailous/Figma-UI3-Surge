@@ -1,152 +1,152 @@
 {
     "whiteboard.inline_menu.text_alignment_label": {
-        "string": "テキストの配置({currentTextAlignment})"
+        "string": "文本对齐（{currentTextAlignment}）"
     },
     "whiteboard.inline_menu.text_background": {
-        "string": "テキストの背景"
+        "string": "文本背景"
     },
     "whiteboard.inline_menu.unlock": {
-        "string": "ロック解除"
+        "string": "解锁"
     },
     "whiteboard.inline_menu.variants": {
-        "string": "バリアント"
+        "string": "变体"
     },
     "whiteboard.inline_menu.washi_tape_pattern": {
-        "string": "パターン"
+        "string": "图案"
     },
     "whiteboard.inline_menu.washi_tape_pattern_selector_label": {
-        "string": "パターン、{currentPattern}"
+        "string": "图案，{currentPattern}"
     },
     "whiteboard.inserts.add_template": {
-        "string": "テンプレートを追加"
+        "string": "添加模板"
     },
     "whiteboard.inserts.add_widget": {
-        "string": "追加"
+        "string": "添加"
     },
     "whiteboard.inserts.add_your_own": {
-        "string": "自分のライブラリを追加"
+        "string": "添加您的库"
     },
     "whiteboard.inserts.all": {
-        "string": "すべて"
+        "string": "全部"
     },
     "whiteboard.inserts.and_others": {
-        "string": "およびその他"
+        "string": "及其他"
     },
     "whiteboard.inserts.browse_more_in_community": {
-        "string": "コミュニティで探す"
+        "string": "在社区中浏览更多"
     },
     "whiteboard.inserts.by_publisher": {
-        "string": "{numPublishers, plural, other {公開者: {firstPublisherName} {multiplePublisherSuffix}}}"
+        "string": "{numPublishers, plural, other {发布者：{firstPublisherName} {multiplePublisherSuffix}}}"
     },
     "whiteboard.inserts.by_publisher_name": {
-        "string": "公開者: {publisherName}"
+        "string": "发布者：{publisherName}"
     },
     "whiteboard.inserts.clear": {
-        "string": "クリア"
+        "string": "清除"
     },
     "whiteboard.inserts.clear_search": {
-        "string": "検索をクリア"
+        "string": "清除搜索"
     },
     "whiteboard.inserts.code_block_description": {
-        "string": "構文ハイライトを使用してスニペットを作成します。"
+        "string": "使用语法高亮显示创建代码片段。"
     },
     "whiteboard.inserts.code_block_title": {
-        "string": "コードブロック"
+        "string": "代码块"
     },
     "whiteboard.inserts.couldn_t_find_default_display_string_resource_type_for": {
-        "string": "{searchQuery}に一致する{resourceType}が見つかりませんでした。"
+        "string": "未找到与{searchQuery}匹配的{resourceType}。"
     },
     "whiteboard.inserts.couldn_t_find_resource_in_org_allowlist": {
-        "string": "{orgName}の許可リストには{searchQuery}が見つかりません"
+        "string": "{orgName}的允许列表中未找到{searchQuery}"
     },
     "whiteboard.inserts.custom_display_string_search_result": {
-        "string": "{searchQuery}に一致するものが見つかりませんでした。"
+        "string": "未找到与{searchQuery}匹配的内容。"
     },
     "whiteboard.inserts.custom_templates_description": {
-        "string": "お気に入りのファイルをテンプレートにすると、あなたやあなたのチームがワンクリックで再利用できます。"
+        "string": "将您最喜欢的文件作为模板，使您和您的团队可以一键重复使用。"
     },
     "whiteboard.inserts.custom_templates_header": {
-        "string": "カスタムテンプレートを作成"
+        "string": "创建自定义模板"
     },
     "whiteboard.inserts.development": {
-        "string": "開発中"
+        "string": "开发中"
     },
     "whiteboard.inserts.development_more_options": {
-        "string": "その他のオプション"
+        "string": "更多选项"
     },
     "whiteboard.inserts.development_options_import": {
-        "string": "マニフェストからインポート…"
+        "string": "从清单导入…"
     },
     "whiteboard.inserts.disabled_org_widgets_empty_state_description": {
-        "string": "ウィジェットは組織の管理者によって無効にされています。"
+        "string": "小部件已被组织管理员禁用。"
     },
     "whiteboard.inserts.dismiss": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "whiteboard.inserts.dismiss_updates": {
-        "string": "アップデートを無視"
+        "string": "忽略更新"
     },
     "whiteboard.inserts.dock_to_side": {
-        "string": "端に固定"
+        "string": "固定到侧边"
     },
     "whiteboard.inserts.faces_description": {
-        "string": "チームのフェイススタンプを押します。"
+        "string": "为团队添加面部表情符号。"
     },
     "whiteboard.inserts.faces_inline_search_image_alt_text": {
-        "string": "{user}のフェイススタンプ。"
+        "string": "{user}的面部表情符号。"
     },
     "whiteboard.inserts.faces_inline_search_no_results": {
-        "string": "{searchQuery}の検索結果はありません。"
+        "string": "未找到与{searchQuery}匹配的结果。"
     },
     "whiteboard.inserts.faces_search_placeholder": {
-        "string": "フェイスを検索"
+        "string": "搜索面部"
     },
     "whiteboard.inserts.faces_title": {
-        "string": "フェイス"
+        "string": "面部"
     },
     "whiteboard.inserts.from_community": {
-        "string": "コミュニティ"
+        "string": "来自社区"
     },
     "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the": {
-        "string": "お探しの場合は、{link}にも多数あります。"
+        "string": "如果您还在寻找，可以在{link}查看更多内容。"
     },
     "whiteboard.inserts.if_you_re_still_looking_there_s_much_more_to_see_in_the_community": {
-        "string": "コミュニティ"
+        "string": "社区"
     },
     "whiteboard.inserts.in_development_version_dropdown": {
-        "string": "開発中バージョン"
+        "string": "开发中版本"
     },
     "whiteboard.inserts.in_development_version_error_dropdown": {
-        "string": "⚠ 開発中バージョン"
+        "string": "⚠ 开发中版本"
     },
     "whiteboard.inserts.insert_template_failed_v2": {
-        "string": "テンプレートを追加できませんでした。削除されたか、移動された可能性があります。"
+        "string": "无法添加模板。它可能已被删除或移动。"
     },
     "whiteboard.inserts.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "whiteboard.inserts.libraries": {
-        "string": "ライブラリ"
+        "string": "库"
     },
     "whiteboard.inserts.links_description": {
-        "string": "Webからメディアを追加できます。"
+        "string": "可以从网络上添加媒体。"
     },
     "whiteboard.inserts.links_title": {
-        "string": "リンク"
+        "string": "链接"
     },
     "whiteboard.inserts.log_in_or_sign_up_to_use": {
-        "string": "{resourceType}を使用するには、ログインまたはサインアップしてください"
+        "string": "登录或注册以使用{resourceType}"
     },
     "whiteboard.inserts.media_description": {
-        "string": "動画、GIF、JPEGなどをアップロードします。"
+        "string": "上传视频、GIF、JPEG等。"
     },
     "whiteboard.inserts.media_title": {
-        "string": "メディア"
+        "string": "媒体"
     },
     "whiteboard.inserts.mind_map_description": {
-        "string": "思考パターンを視覚化します。"
+        "string": "将思维模式可视化。"
     },
     "whiteboard.inserts.mind_map_title": {
-        "string": "マインドマップ"
+        "string": "思维导图"
     }
 }

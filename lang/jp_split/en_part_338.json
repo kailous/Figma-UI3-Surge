@@ -1,152 +1,152 @@
 {
     "whiteboard.fonts.simple": {
-        "string": "シンプル"
+        "string": "简单"
     },
     "whiteboard.fonts.technical": {
-        "string": "テクニカル"
+        "string": "技术"
     },
     "whiteboard.google_classroom.onboarding.body": {
-        "string": "FigJamで作成している教材をGoogle Classroom (や生徒/学生)に簡単に共有できます。"
+        "string": "可以轻松地将您在FigJam中创建的材料共享到Google Classroom（和学生）中。"
     },
     "whiteboard.google_classroom.onboarding.header": {
-        "string": "Google Classroomに共有"
+        "string": "共享到Google Classroom"
     },
     "whiteboard.google_classroom.onboarding.image_alt": {
-        "string": "「Google Classroomに共有」機能のイラスト"
+        "string": "“共享到Google Classroom”功能的插图"
     },
     "whiteboard.google_classroom.onboarding.new_user.body": {
-        "string": "FigJamで作成している教材を生徒/学生に簡単に共有できるようになりました。"
+        "string": "现在，您可以轻松地将FigJam中创建的材料共享给学生。"
     },
     "whiteboard.google_classroom.onboarding.new_user.header": {
-        "string": "Google Classroomに共有"
+        "string": "共享到Google Classroom"
     },
     "whiteboard.google_classroom.onboarding.show_me": {
-        "string": "見る"
+        "string": "查看"
     },
     "whiteboard.google_classroom.pointer.body": {
-        "string": "FigJamから離れることなく、このボードをGoogle Classroomに直接共有できます。"
+        "string": "无需离开FigJam，即可直接将此白板共享到Google Classroom。"
     },
     "whiteboard.inline_menu.add_connector_text": {
-        "string": "テキストを追加"
+        "string": "添加文本"
     },
     "whiteboard.inline_menu.add_image_description": {
-        "string": "説明を追加"
+        "string": "添加描述"
     },
     "whiteboard.inline_menu.add_same_shape": {
-        "string": "もう1つ追加"
+        "string": "再添加一个"
     },
     "whiteboard.inline_menu.ai_quick_actions_beta_badge_text": {
-        "string": "ベータ"
+        "string": "测试版"
     },
     "whiteboard.inline_menu.ai_quick_actions_button_aria_label": {
-        "string": "クイックアクションツールバーのドロップダウンボタン"
+        "string": "快速操作工具栏的下拉按钮"
     },
     "whiteboard.inline_menu.ai_quick_actions_button_text": {
         "string": "FigJam AI"
     },
     "whiteboard.inline_menu.ai_quick_actions_disabled_header": {
-        "string": "FigJam AIにアクセスできません。"
+        "string": "无法访问FigJam AI。"
     },
     "whiteboard.inline_menu.ai_quick_actions_disabled_try_again_later": {
-        "string": "しばらくしてからお試しください。"
+        "string": "请稍后再试。"
     },
     "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer": {
-        "string": "AIの出力は、誤解を招くことや、間違っていることがあります。"
+        "string": "AI的输出可能会引起误解或完全错误。"
     },
     "whiteboard.inline_menu.ai_quick_actions_dropdown_disclaimer_cta": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "whiteboard.inline_menu.ai_quick_actions_dropdown_mobile_disclaimer": {
-        "string": "FigJam AI (ベータ)。注：AIの出力は、誤解を招くことや、間違っていることがあります。"
+        "string": "FigJam AI（测试版）。注意：AI的输出可能会引起误解或完全错误。"
     },
     "whiteboard.inline_menu.ai_quick_actions_dropdown_options_aria_label": {
-        "string": "クイックアクションのオプション"
+        "string": "快速操作选项"
     },
     "whiteboard.inline_menu.ai_quick_actions_generate_ideas_button": {
-        "string": "アイデアを生成"
+        "string": "生成想法"
     },
     "whiteboard.inline_menu.ai_quick_actions_generate_ideas_disabled_tooltip": {
-        "string": "テキストを含む要素を1つ選択します"
+        "string": "选择一个包含文本的元素"
     },
     "whiteboard.inline_menu.ai_quick_actions_header_text": {
         "string": "FigJam AI"
     },
     "whiteboard.inline_menu.ai_quick_actions_onboarding_badge_2": {
-        "string": "新機能"
+        "string": "新功能"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_button": {
-        "string": "付箋を並び替える"
+        "string": "排序便签"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author": {
-        "string": "作者"
+        "string": "按作者"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_author_2": {
-        "string": "作成者"
+        "string": "按创建者"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color": {
-        "string": "色"
+        "string": "按颜色"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_color_2": {
-        "string": "色"
+        "string": "按颜色"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count": {
-        "string": "スタンプの数"
+        "string": "按印章数量"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_count_2": {
-        "string": "スタンプの数"
+        "string": "按印章数量"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type": {
-        "string": "スタンプの種類"
+        "string": "按印章类型"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_stamp_type_2": {
-        "string": "スタンプの種類"
+        "string": "按印章类型"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic": {
-        "string": "トピック"
+        "string": "按主题"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_by_topic_2": {
-        "string": "トピック"
+        "string": "按主题"
     },
     "whiteboard.inline_menu.ai_quick_actions_sort_stickies_disabled_tooltip": {
-        "string": "{minSelectedStickies, plural, other {付箋を{minSelectedStickies}個以上選択してください(何も書かれていない付箋を除きます)。}}"
+        "string": "{minSelectedStickies, plural, other {请选择至少{minSelectedStickies}个便签（不包括空白便签）。}}"
     },
     "whiteboard.inline_menu.ai_quick_actions_summarize_button": {
-        "string": "要約"
+        "string": "总结"
     },
     "whiteboard.inline_menu.ai_quick_actions_summarize_disabled_tooltip": {
-        "string": "{minSelectedStickies, plural, other {付箋を{minSelectedStickies}個以上選択してください(何も書かれていない付箋を除きます)。}}"
+        "string": "{minSelectedStickies, plural, other {请选择至少{minSelectedStickies}个便签（不包括空白便签）。}}"
     },
     "whiteboard.inline_menu.alignment_button": {
-        "string": "配置"
+        "string": "对齐"
     },
     "whiteboard.inline_menu.alt_text": {
-        "string": "altテキスト"
+        "string": "替代文本"
     },
     "whiteboard.inline_menu.arrange_stickies_dropdown_button_aria_label": {
-        "string": "付箋の並べ替えサブメニューボタン"
+        "string": "便签排序子菜单按钮"
     },
     "whiteboard.inline_menu.aspect_ratio": {
-        "string": "アスペクト比"
+        "string": "宽高比"
     },
     "whiteboard.inline_menu.change_shape": {
-        "string": "シェイプ"
+        "string": "更改形状"
     },
     "whiteboard.inline_menu.change_shape_label": {
-        "string": "シェイプ、{currentShape}"
+        "string": "形状，{currentShape}"
     },
     "whiteboard.inline_menu.change_shape_search": {
-        "string": "シェイプを検索"
+        "string": "搜索形状"
     },
     "whiteboard.inline_menu.color": {
-        "string": "色"
+        "string": "颜色"
     },
     "whiteboard.inline_menu.color_list_box": {
-        "string": "色を変更"
+        "string": "更改颜色"
     },
     "whiteboard.inline_menu.color_selector_label": {
-        "string": "色、{currentColor}"
+        "string": "颜色，{currentColor}"
     },
     "whiteboard.inline_menu.connector_end_point": {
-        "string": "終了点"
+        "string": "终点"
     }
 }

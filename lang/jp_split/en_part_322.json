@@ -1,152 +1,152 @@
 {
     "universal_upgrade.currency_switcher.pricing_in_gbp": {
-        "string": "価格(イギリスポンド)"
+        "string": "价格（英镑）"
     },
     "universal_upgrade.currency_switcher.pricing_in_jpy": {
-        "string": "価格(日本円)"
+        "string": "价格（日元）"
     },
     "universal_upgrade.currency_switcher.pricing_in_usd": {
-        "string": "価格(米ドル)"
+        "string": "价格（美元）"
     },
     "universal_upgrade.currency_switcher.short_pricing_in_cad": {
-        "string": "カナダドル"
+        "string": "加元"
     },
     "universal_upgrade.currency_switcher.short_pricing_in_eur": {
-        "string": "ユーロ"
+        "string": "欧元"
     },
     "universal_upgrade.currency_switcher.short_pricing_in_gbp": {
-        "string": "イギリスポンド"
+        "string": "英镑"
     },
     "universal_upgrade.currency_switcher.short_pricing_in_jpy": {
-        "string": "¥ (日本円)"
+        "string": "¥（日元）"
     },
     "universal_upgrade.currency_switcher.short_pricing_in_usd": {
-        "string": "$ (米ドル)"
+        "string": "$（美元）"
     },
     "universal_upgrade.currency_switcher_option.british_pound": {
-        "string": "イギリスポンド"
+        "string": "英镑"
     },
     "universal_upgrade.currency_switcher_option.cad_dollar": {
-        "string": "カナダドル"
+        "string": "加元"
     },
     "universal_upgrade.currency_switcher_option.cad_symbol": {
-        "string": "カナダドル"
+        "string": "加元"
     },
     "universal_upgrade.currency_switcher_option.eur_symbol": {
-        "string": "ユーロ"
+        "string": "欧元"
     },
     "universal_upgrade.currency_switcher_option.european_euro": {
-        "string": "欧州ユーロ"
+        "string": "欧元"
     },
     "universal_upgrade.currency_switcher_option.gbp_symbol": {
-        "string": "イギリスポンド"
+        "string": "英镑"
     },
     "universal_upgrade.currency_switcher_option.japanese_yen": {
-        "string": "日本円"
+        "string": "日元"
     },
     "universal_upgrade.currency_switcher_option.jpy_symbol": {
-        "string": "¥、日本円"
+        "string": "¥，日元"
     },
     "universal_upgrade.currency_switcher_option.us_dollar": {
-        "string": "米ドル"
+        "string": "美元"
     },
     "universal_upgrade.currency_switcher_option.usd_symbol": {
-        "string": "$、米ドル"
+        "string": "$，美元"
     },
     "universal_upgrade.enterpise_plan_banner.banner_body_text": {
-        "string": "強化されたセキュリティ、会社の規模に応じて拡張可能なデザインプロセスなどに対応しています。"
+        "string": "增强的安全性、可扩展的公司级设计流程等。"
     },
     "universal_upgrade.enterpise_plan_banner.banner_header": {
-        "string": "エンタープライズプランについて"
+        "string": "关于企业计划"
     },
     "universal_upgrade.enterpise_plan_banner.contact_sales": {
-        "string": "営業への問い合わせ"
+        "string": "联系销售"
     },
     "universal_upgrade.select_team.editor_count.seat_rename": {
-        "string": "{editors, plural, other {#人分のシート}}"
+        "string": "{editors, plural, other {#个席位}}"
     },
     "universal_upgrade.select_team.files_per_team_figma_files_used": {
-        "string": "{numFreeFilesAllowed}個中{numFilesUsed}個のFigmaファイルが使用されています"
+        "string": "{numFreeFilesAllowed}个中的{numFilesUsed}个Figma文件已使用"
     },
     "universal_upgrade.select_team.upgrade": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "unsaved_changes.disconnected.autosave_disabled": {
-        "string": "このドキュメントには未保存の変更が含まれています。ディスクエラーが発生したため、変更はローカルに保存されませんでした。タブを閉じるとデータが失われます。"
+        "string": "此文档包含未保存的更改。由于磁盘错误，更改未能本地保存。关闭标签页将导致数据丢失。"
     },
     "unsaved_changes.disconnected.live_updates": {
-        "string": "変更の一部はFigmaが再接続するまで同期されません。"
+        "string": "部分更改在Figma重新连接之前不会同步。"
     },
     "unsaved_changes.disconnected.other": {
-        "string": "オフラインの変更は、オンラインになった後でFigmaと同期されます。"
+        "string": "离线更改将在重新联网后与Figma同步。"
     },
     "unsaved_changes.disconnected.server_issues": {
-        "string": "サーバーで問題が発生しています。問題の解決後に変更が同期されます。"
+        "string": "服务器出现问题。问题解决后更改将同步。"
     },
     "unsaved_changes.syncing.access_revoked": {
-        "string": "アクセスが取り消されました"
+        "string": "访问已被撤销"
     },
     "unsaved_changes.syncing.app_out_of_date": {
-        "string": "アプリがサーバーに対して古すぎます。Figmaを再読み込みして編集を続行できますが、保存されていない作業は失われます。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[.figファイルとして保存...]を選択します。"
+        "string": "应用程序版本过旧，无法连接服务器。重新加载Figma以继续编辑，但未保存的工作将丢失。要保存更改，请将内容复制到新文件或从“文件”菜单选择“保存为.fig文件...”。"
     },
     "unsaved_changes.syncing.autosave_disabled": {
-        "string": "ドキュメントを保存中です。ディスクエラーが発生したため、変更はローカルに保存されませんでした。タブを閉じるとデータが失われます。"
+        "string": "正在保存文档。由于磁盘错误，更改未能本地保存。关闭标签页将导致数据丢失。"
     },
     "unsaved_changes.syncing.changes_cannot_be_saved": {
-        "string": "変更を保存できません"
+        "string": "更改无法保存"
     },
     "unsaved_changes.syncing.experiencing_server_issues": {
-        "string": "サーバーで問題が発生しています。問題の解決後に変更が同期されます。"
+        "string": "服务器出现问题。问题解决后更改将同步。"
     },
     "unsaved_changes.syncing.figma_was_automatically_updated_to_the_latest_version": {
-        "string": "Figmaは自動的に最新バージョンに更新されました"
+        "string": "Figma已自动更新到最新版本"
     },
     "unsaved_changes.syncing.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "unsaved_changes.syncing.logged_out": {
-        "string": "ログアウトしました"
+        "string": "已注销"
     },
     "unsaved_changes.syncing.other": {
-        "string": "このドキュメントには未保存の変更が含まれています。これらの変更はローカルに保存され、Figmaの再接続時に同期されます。"
+        "string": "此文档包含未保存的更改。这些更改已本地保存，并将在Figma重新连接时同步。"
     },
     "unsaved_changes.syncing.server_issues": {
-        "string": "変更を同期中に問題が発生しました。問題の解決後に変更が同期されます。"
+        "string": "同步更改时出现问题。问题解决后更改将同步。"
     },
     "unsaved_changes.syncing.someone_revoked_access_to_the_file_you_had_open_ask_the_owner_for_access_to_open_it_again": {
-        "string": "誰かがあなたが開いていたファイルへのアクセスを取り消しました。オーナーに再度開くためのアクセス権を求めてください。"
+        "string": "有人撤销了您对打开文件的访问权限。请向所有者请求重新访问权限。"
     },
     "unsaved_changes.syncing.the_main_component_has_been_deleted": {
-        "string": "メインコンポーネントが削除されています。"
+        "string": "主组件已被删除。"
     },
     "unsaved_changes.syncing.the_main_component_has_been_moved_to_moved_to_file": {
-        "string": "メインコンポーネントは{movedToFile}に移動されています。"
+        "string": "主组件已移至{movedToFile}。"
     },
     "unsaved_changes.syncing.too_many_people_in_file": {
-        "string": "このファイルを開いている人が多すぎるため、現在、変更を保存できません。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[名前を付けて保存(.fig)…]を選択してください。"
+        "string": "打开此文件的人太多，暂时无法保存更改。要保存更改，请将内容复制到新文件或从“文件”菜单选择“另存为.fig...”"
     },
     "unsaved_changes.syncing.unsaved_not_logged_in": {
-        "string": "Figmaからログアウトしているため、現在、変更を保存できません。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[名前を付けて保存(.fig)…]を選択します。"
+        "string": "由于您已注销Figma，暂时无法保存更改。要保存更改，请将内容复制到新文件或从“文件”菜单选择“另存为.fig...”"
     },
     "unsaved_changes.syncing.unsaved_revoked_access": {
-        "string": "このファイルへのアクセス権が取り消されたため、現在変更を保存できません。変更を保存するには、コンテンツをコピーして新しいファイルに貼り付けるか、[ファイル]メニューから[.figファイルとして保存...]を選択します。"
+        "string": "由于对该文件的访问权限被撤销，当前无法保存更改。要保存更改，请将内容复制到新文件或从“文件”菜单选择“保存为.fig文件...”"
     },
     "unsaved_changes.syncing.updating_the_app": {
-        "string": "アプリを更新しています..."
+        "string": "正在更新应用程序..."
     },
     "unsaved_changes.syncing.we_re_experiencing_issues_opening_this_file_please_try_again_later": {
-        "string": "このファイルを開くときに問題が発生しています。後でもう一度お試しください。"
+        "string": "打开此文件时出现问题，请稍后重试。"
     },
     "unsaved_changes.syncing.you_have_been_converted_to_a_viewer_with_a_hidden_cursor": {
-        "string": "カーソルが非表示の閲覧者に変換されました。"
+        "string": "您已被转换为隐藏光标的查看者。"
     },
     "unsaved_changes.syncing.you_have_been_logged_out_of_figma": {
-        "string": "Figmaからログアウトしています。もう一度ログインしてください。"
+        "string": "您已注销Figma，请重新登录。"
     },
     "unsaved_changes.syncing.your_cursor_has_been_hidden_from_others_users": {
-        "string": "あなたのカーソルは他のユーザーに非表示になっています。"
+        "string": "您的光标已对其他用户隐藏。"
     },
     "unsaved_changes.syncing.your_cursor_is_now_visible_to_others_as_someone_is_observing_you": {
-        "string": "誰かがあなたを注目していると、カーソルが他のユーザーに表示されるようになります。"
+        "string": "有人在观察您时，您的光标将对其他用户可见。"
     }
 }

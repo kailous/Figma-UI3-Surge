@@ -1,152 +1,152 @@
 {
     "inline_preview.overflow_menu.actual_size_100_percent": {
-        "string": "実際のサイズ(100%)に変更"
+        "string": "更改为实际尺寸(100%)"
     },
     "inline_preview.overflow_menu.follow_active_frame": {
-        "string": "アクティブなフレームをフォロー"
+        "string": "跟随活动框架"
     },
     "inline_preview.overflow_menu.resize_to_aspect_ratio": {
-        "string": "アスペクト比に合わせる"
+        "string": "调整为纵横比"
     },
     "proto.prototype_panel.a_prototype_needs_to_have_at_least_one_frame_tooltip": {
-        "string": "プロトタイプには1つ以上のフレームが必要です。"
+        "string": "原型至少需要一个框架。"
     },
     "viewer.options_menu.disable_default_keyboard_navigation": {
-        "string": "Figmaキーボードショートカットを有効にする"
+        "string": "启用Figma键盘快捷键"
     },
     "viewer.options_menu.show_figma_ui": {
-        "string": "Figma UIを表示"
+        "string": "显示Figma UI"
     },
     "viewer.options_menu.show_hotspot_hints_on_click": {
-        "string": "クリックでホットスポットヒントを表示"
+        "string": "点击显示热点提示"
     },
     "viewer.options_menu.show_only_your_comments": {
-        "string": "自分のコメントのみを表示"
+        "string": "仅显示您的评论"
     },
     "viewer.options_menu.show_resolved_comments": {
-        "string": "解決済みコメントを表示"
+        "string": "显示已解决的评论"
     },
     "viewer.options_menu.show_sidebar": {
-        "string": "サイドバーを表示"
+        "string": "显示侧边栏"
     },
     "rcs.delayed_nux_questions.reminder_body": {
-        "string": "よろしければ、いくつかの質問にお答えください。FigJamの品質向上に役立てさせていただきます。"
+        "string": "如果可以，请回答几个问题，以帮助我们改进FigJam的质量。"
     },
     "rcs.delayed_nux_questions.reminder_header": {
-        "string": "最後に..."
+        "string": "最后..."
     },
     "rcs.delayed_nux_questions.reminder_primary_button": {
-        "string": "質問に答える"
+        "string": "回答问题"
     },
     "rcs.jamboard.connect_to_google_drive_disclaimer.desc2": {
-        "string": "注: インポートのたびに再認証が必要です。"
+        "string": "注意：每次导入时都需要重新认证。"
     },
     "rcs.jamboard.offer_onboarding_modal.cta": {
-        "string": "はじめに"
+        "string": "开始"
     },
     "rcs.jamboard.offer_onboarding_modal.desc": {
-        "string": "Jamboardをご利用ですか? ファイルをインポートすると、FigJamプロフェッショナルプランを1年間無料で利用できます。"
+        "string": "您使用Jamboard吗？导入文件即可免费使用FigJam专业版一年。"
     },
     "rcs.jamboard.offer_onboarding_modal.fine_print": {
-        "string": "この特典は日本時間2024年2月1日午前8時59分まで有効です。2023年9月28日午前9時より前に作成されたJamboardファイルを1つ以上インポートしてください。すでにFigJam有料プランをご利用中に方は対象外となります。チームあたり最大25シートをアップグレードできます。年間サブスクリプションのみです。{seeTermsLink}"
+        "string": "此优惠有效期至2024年2月1日日本时间上午8:59。请在2023年9月28日日本时间上午9:00之前创建并导入至少一个Jamboard文件。现有FigJam付费计划用户不符合条件。每个团队最多可升级25个席位。仅限年度订阅。{seeTermsLink}"
     },
     "rcs.jamboard.offer_onboarding_modal.graphic_alt_text": {
-        "string": "「プロ」というラベルの付いたテキストボックスにカーソルを置く"
+        "string": "将光标悬停在带有“Pro”标签的文本框上"
     },
     "rcs.jamboard.offer_onboarding_modal.see_terms": {
-        "string": "条件を確認"
+        "string": "查看条件"
     },
     "rcs.jamboard.offer_onboarding_modal.title": {
-        "string": "FigJamエクスペリエンスをすべてお試しください—無料"
+        "string": "体验FigJam的所有功能 - 免费"
     },
     "recordings.close": {
-        "string": "閉じる"
+        "string": "关闭"
     },
     "recordings.description_field_placeholder": {
-        "string": "説明"
+        "string": "描述"
     },
     "recordings.record_me": {
-        "string": "記録を開始"
+        "string": "开始记录"
     },
     "recordings.start_recording": {
-        "string": "記録を開始"
+        "string": "开始记录"
     },
     "recordings.stop_recording": {
-        "string": "記録を停止"
+        "string": "停止记录"
     },
     "sessions.column.location": {
-        "string": "場所"
+        "string": "位置"
     },
     "settings.account_settings.primary": {
-        "string": "(プライマリー)"
+        "string": "（主要）"
     },
     "settings.account_settings.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "sites.lint.layout/autolayout-wrap-with-negative-spacing": {
-        "string": "オートレイアウトの負の間隔"
+        "string": "自动布局负间距"
     },
     "sites.lint.negative-gap-absolute-position": {
-        "string": "絶対値を使用することで、同様の効果を得ることができます"
+        "string": "使用绝对值可以获得类似效果"
     },
     "sites.lint.scrolling/scrolling-enabled-without-clipped-content": {
-        "string": "コンテンツの表示によるスクロールのオーバーフロー"
+        "string": "通过内容显示的滚动溢出"
     },
     "sites.lint.set-gap-to-zero": {
-        "string": "間隔を0に設定"
+        "string": "将间隔设置为0"
     },
     "sites.lint.set-to-miter": {
-        "string": "「マイター」に設定"
+        "string": "设置为“斜接”"
     },
     "sites.modal.copy-link": {
-        "string": "プレビューのリンクをコピー"
+        "string": "复制预览链接"
     },
     "sites.modal.open-external-site": {
-        "string": "ブラウザでプレビューを開く"
+        "string": "在浏览器中打开预览"
     },
     "slides.properties_panel.color_picker.edit_theme": {
-        "string": "テンプレートの色を編集"
+        "string": "编辑模板颜色"
     },
     "slides.properties_panel.color_picker.edit_theme_colors.cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "slides.properties_panel.color_picker.edit_theme_colors.save": {
         "string": "保存"
     },
     "slides.properties_panel.corners_panel.corners_slider_aria": {
-        "string": "角の丸みのスライダー"
+        "string": "角圆度滑块"
     },
     "slides.properties_panel.opacity.opacity_slider_aria_label": {
-        "string": "不透明度スライダー"
+        "string": "不透明度滑块"
     },
     "team_view.upgrade.multi_team_org_upgrade": {
-        "string": "ビジネスにアップグレードすると、デザインライブラリやフォントをチーム間で共有できます。"
+        "string": "升级到Business以在团队之间共享设计库和字体。"
     },
     "team_view.upgrade.org_upgrade": {
-        "string": "ビジネスにアップグレードすると、チーム横断型デザインライブラリ、SSO、管理者コントロールを利用できます。"
+        "string": "升级到Business以获得跨团队设计库、SSO和管理员控制功能。"
     },
     "team_view.upgrade.upgrade": {
-        "string": "アップグレード"
+        "string": "升级"
     },
     "tile.file_tile.pin_opens": {
-        "string": "{numOpens, plural, other {{numOpens}個の開いているピン}}"
+        "string": "{numOpens, plural, other {{numOpens}个打开的固定项}}"
     },
     "universal_insert.get_started_with_these_popular_tools": {
-        "string": "手始めにこれらの人気ツールを試してみましょう"
+        "string": "从这些流行工具开始"
     },
     "universal_insert.supercharge_your_workflow": {
-        "string": "ワークフローを大幅に強化"
+        "string": "大幅提升您的工作流程"
     },
     "universal_inserts.browse_more_from_community": {
-        "string": "コミュニティでさらに探す"
+        "string": "在社区中查看更多"
     },
     "user_notifications.notifications": {
         "string": "通知"
     },
     "user_notifications.org_notifications": {
-        "string": "{orgName}の通知"
+        "string": "{orgName}的通知"
     },
     "whiteboard.paywall_improvement.plan_comparison.audio.title": {
-        "string": "アップグレードして徹底的に話し合う"
+        "string": "升级以进行全面讨论"
     }
 }

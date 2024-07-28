@@ -3,103 +3,103 @@
         "string": "基本"
     },
     "whiteboard.ai_modal.beta_badge": {
-        "string": "AIベータ版"
+        "string": "AI测试版"
     },
     "whiteboard.ai_modal.disclaimer": {
-        "string": "AIの出力は、誤解を招くことや、間違っていることがあります"
+        "string": "AI的输出可能具有误导性或不正确"
     },
     "whiteboard.ai_modal.expanded": {
-        "string": "展開"
+        "string": "扩展"
     },
     "whiteboard.ai_modal.generate": {
         "string": "生成"
     },
     "whiteboard.ai_modal.generate_handbrake": {
-        "string": "AI機能は現在利用できません。しばらくしてからお試しください。"
+        "string": "AI功能当前不可用。请稍后再试。"
     },
     "whiteboard.ai_modal.generate_shortcut": {
         "string": "生成 ⌘ "
     },
     "whiteboard.ai_modal.hint_tab": {
-        "string": "タブ"
+        "string": "标签"
     },
     "whiteboard.ai_modal.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "whiteboard.ai_modal.or": {
-        "string": "または"
+        "string": "或者"
     },
     "whiteboard.ai_modal.pill.keyword.1:1s": {
-        "string": "1on1"
+        "string": "一对一"
     },
     "whiteboard.ai_modal.pill.keyword.chart": {
-        "string": "チャート"
+        "string": "图表"
     },
     "whiteboard.ai_modal.pill.keyword.diagram": {
-        "string": "図表"
+        "string": "图表"
     },
     "whiteboard.ai_modal.pill.keyword.diagrams": {
-        "string": "図表"
+        "string": "图表"
     },
     "whiteboard.ai_modal.pill.keyword.flow": {
-        "string": "フロー"
+        "string": "流程"
     },
     "whiteboard.ai_modal.pill.keyword.flowchart": {
-        "string": "フローチャート"
+        "string": "流程图"
     },
     "whiteboard.ai_modal.pill.keyword.gantt": {
-        "string": "ガント"
+        "string": "甘特图"
     },
     "whiteboard.ai_modal.pill.keyword.ideas": {
-        "string": "アイデア"
+        "string": "创意"
     },
     "whiteboard.ai_modal.pill.keyword.journey": {
-        "string": "ジャーニー"
+        "string": "旅程"
     },
     "whiteboard.ai_modal.pill.keyword.meeting": {
-        "string": "ミーティング"
+        "string": "会议"
     },
     "whiteboard.ai_modal.pill.keyword.meetings": {
-        "string": "ミーティング"
+        "string": "会议"
     },
     "whiteboard.ai_modal.pill.keyword.options": {
-        "string": "オプション"
+        "string": "选项"
     },
     "whiteboard.ai_modal.pill.keyword.org": {
-        "string": "組織"
+        "string": "组织"
     },
     "whiteboard.ai_modal.pill.keyword.process": {
-        "string": "プロセス"
+        "string": "过程"
     },
     "whiteboard.ai_modal.pill.keyword.retro": {
-        "string": "振り返り"
+        "string": "回顾"
     },
     "whiteboard.ai_modal.pill.keyword.retrospective": {
-        "string": "振り返り"
+        "string": "回顾"
     },
     "whiteboard.ai_modal.pill.keyword.schedule": {
-        "string": "スケジュール"
+        "string": "日程"
     },
     "whiteboard.ai_modal.pill.keyword.sync": {
-        "string": "調整"
+        "string": "同步"
     },
     "whiteboard.ai_modal.pill.keyword.team": {
-        "string": "チーム"
+        "string": "团队"
     },
     "whiteboard.ai_modal.pill.keyword.team_retro": {
-        "string": "チームの振り返り"
+        "string": "团队回顾"
     },
     "whiteboard.ai_modal.pill.keyword.userflow": {
-        "string": "ユーザーフロー"
+        "string": "用户流程"
     },
     "whiteboard.ai_modal.pill.keyword.userjourney": {
-        "string": "ユーザージャーニー"
+        "string": "用户旅程"
     },
     "whiteboard.ai_modal.pill.keyword.weekly": {
-        "string": "週次"
+        "string": "每周"
     },
     "whiteboard.ai_modal.prompt_builder.add": {
-        "string": "追加"
+        "string": "添加"
     },
     "whiteboard.ai_modal.prompt_builder.period": {
         "string": "。"
@@ -108,45 +108,45 @@
         "string": "…"
     },
     "whiteboard.ai_modal.prompt_placeholder": {
-        "string": "作成しましょう..."
+        "string": "让我们开始吧..."
     },
     "whiteboard.ai_modal.share_trace": {
-        "string": "トレースを共有"
+        "string": "共享轨迹"
     },
     "whiteboard.ai_modal.share_trace_nudge_in_modal": {
-        "string": "{weirdOutput}#figjam-ai-feedbackでシェアしてください。"
+        "string": "请在#figjam-ai-feedback中共享 {weirdOutput}。"
     },
     "whiteboard.ai_modal.share_trace_nudge_weird_output": {
-        "string": "出力が不自然ですか?"
+        "string": "输出有点奇怪？"
     },
     "whiteboard.ai_modal.streaming": {
-        "string": "可能性を求めています..."
+        "string": "正在探索可能性..."
     },
     "whiteboard.ai_modal.style": {
-        "string": "スタイル"
+        "string": "样式"
     },
     "whiteboard.ai_modal.suggestion.1:1": {
-        "string": "1on1"
+        "string": "一对一"
     },
     "whiteboard.ai_modal.suggestion.1:1.subtitle_1": {
-        "string": "対マネージャー"
+        "string": "与经理"
     },
     "whiteboard.ai_modal.suggestion.agenda": {
-        "string": "アジェンダ"
+        "string": "议程"
     },
     "whiteboard.ai_modal.suggestion.agenda.prompt": {
-        "string": "アジェンダ"
+        "string": "议程"
     },
     "whiteboard.ai_modal.suggestion.brainstorm": {
-        "string": "ブレインストーミングをする"
+        "string": "头脑风暴"
     },
     "whiteboard.ai_modal.suggestion.brainstorm.subtitle_1": {
-        "string": "新しいプロジェクトのアイデアについて"
+        "string": "关于新项目创意"
     },
     "whiteboard.ai_modal.suggestion.calendar": {
-        "string": "カレンダー"
+        "string": "日历"
     },
     "whiteboard.ai_modal.suggestion.calendar.prompt": {
-        "string": "カレンダー"
+        "string": "日历"
     }
 }

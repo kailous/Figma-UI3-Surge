@@ -1,152 +1,152 @@
 {
     "universal_insert.organization_has_no_approved_community_widgets": {
-        "string": "組織には承認済みのコミュニティウィジェットがありません"
+        "string": "组织中没有已批准的社区小部件"
     },
     "universal_insert.plugin": {
-        "string": "プラグイン"
+        "string": "插件"
     },
     "universal_insert.plugin_not_in_allowlist": {
-        "string": "このプラグインは、組織が許可していません"
+        "string": "此插件未被组织允许"
     },
     "universal_insert.published_version": {
-        "string": "公開バージョン"
+        "string": "已发布版本"
     },
     "universal_insert.recents": {
-        "string": "最近使用したリソース"
+        "string": "最近使用的资源"
     },
     "universal_insert.recents_and_saved": {
-        "string": "最近使用および保存"
+        "string": "最近使用和已保存"
     },
     "universal_insert.remove": {
-        "string": "削除"
+        "string": "删除"
     },
     "universal_insert.remove_local_version": {
-        "string": "ローカルのバージョンを削除"
+        "string": "删除本地版本"
     },
     "universal_insert.request": {
-        "string": "リクエスト"
+        "string": "请求"
     },
     "universal_insert.request_approval": {
-        "string": "承認を申請..."
+        "string": "申请批准..."
     },
     "universal_insert.run": {
-        "string": "実行"
+        "string": "运行"
     },
     "universal_insert.saved": {
-        "string": "保存済み"
+        "string": "已保存"
     },
     "universal_insert.saved_empty_state": {
-        "string": "何も試していないか、保存していません"
+        "string": "未试用或保存任何内容"
     },
     "universal_insert.saved_for_quick_access_plugins": {
-        "string": "保存してお気に入りのプラグインにすばやくアクセス"
+        "string": "保存以快速访问收藏的插件"
     },
     "universal_insert.saved_for_quick_access_widgets": {
-        "string": "保存してお気に入りのウィジェットにすばやくアクセス"
+        "string": "保存以快速访问收藏的小部件"
     },
     "universal_insert.saved_from_community": {
-        "string": "コミュニティから保存済み"
+        "string": "从社区保存"
     },
     "universal_insert.search_all_extensions": {
-        "string": "すべての拡張機能を検索"
+        "string": "搜索所有扩展"
     },
     "universal_insert.search_all_plugins": {
-        "string": "すべてのプラグインを検索"
+        "string": "搜索所有插件"
     },
     "universal_insert.search_all_widgets": {
-        "string": "すべてのウィジェットを検索"
+        "string": "搜索所有小部件"
     },
     "universal_insert.see_details": {
-        "string": "詳細を見る"
+        "string": "查看详情"
     },
     "universal_insert.see_more_details_in_community": {
-        "string": "コミュニティで詳細を確認する"
+        "string": "在社区中查看更多详情"
     },
     "universal_insert.show_all_saved_plugins": {
-        "string": "保存済みプラグインをすべて表示"
+        "string": "显示所有已保存的插件"
     },
     "universal_insert.show_all_saved_widgets": {
-        "string": "保存済みウィジェットをすべて表示"
+        "string": "显示所有已保存的小部件"
     },
     "universal_insert.show_in_explorer": {
-        "string": "Explorerで表示"
+        "string": "在资源管理器中显示"
     },
     "universal_insert.show_in_finder": {
-        "string": "Finderで表示"
+        "string": "在Finder中显示"
     },
     "universal_insert.view_details": {
-        "string": "詳細の表示"
+        "string": "查看详情"
     },
     "universal_insert.widget": {
-        "string": "ウィジェット"
+        "string": "小部件"
     },
     "plan_comparison.billing_toggle.monthly_billing": {
-        "string": "月払い"
+        "string": "按月支付"
     },
     "plan_comparison.billing_toggle.yearly_billing": {
-        "string": "年払い{saveMessage}"
+        "string": "按年支付{saveMessage}"
     },
     "plan_comparison.billing_toggle.yearly_billing_save_message": {
-        "string": "(最大{saveAmount}%お得)"
+        "string": "(节省最多{saveAmount}%)"
     },
     "plan_comparison.chart.activity_logs.details": {
-        "string": "チームのFigmaの使用状況を確認します。"
+        "string": "查看团队的Figma使用情况。"
     },
     "plan_comparison.chart.activity_logs.name": {
-        "string": "アクティビティーログ"
+        "string": "活动日志"
     },
     "plan_comparison.chart.advanced_prototyping.details": {
-        "string": "式や条件付きロジックなどを使用して、よりリアルなプロトタイプを作成します。"
+        "string": "使用表达式和条件逻辑创建更真实的原型。"
     },
     "plan_comparison.chart.advanced_prototyping.name": {
-        "string": "高度なプロトタイピング"
+        "string": "高级原型设计"
     },
     "plan_comparison.chart.audio_conversations.details": {
-        "string": "FigmaまたはFigJamのファイル内から音声を使ってチームメートと直接会話できます。"
+        "string": "直接在Figma或FigJam文件中与团队成员进行语音对话。"
     },
     "plan_comparison.chart.audio_conversations.name": {
-        "string": "音声会話"
+        "string": "语音对话"
     },
     "plan_comparison.chart.audio_conversations_v2.details": {
-        "string": "ファイルで作業中にコラボレーターと作業内容について話し合います。"
+        "string": "在文件中工作时与协作者讨论工作内容。"
     },
     "plan_comparison.chart.audio_conversations_v2.name": {
-        "string": "音声会話"
+        "string": "语音对话"
     },
     "plan_comparison.chart.branching_and_merging.details": {
-        "string": "別のブランチで作業し、準備ができたら、変更内容をメインファイルにマージします。"
+        "string": "在单独的分支上工作，准备就绪后将更改合并到主文件中。"
     },
     "plan_comparison.chart.branching_and_merging.name": {
-        "string": "分岐とマージ"
+        "string": "分支与合并"
     },
     "plan_comparison.chart.callout.figjam": {
         "string": "FigJam"
     },
     "plan_comparison.chart.callout.figjam_board": {
-        "string": "FigJamボード"
+        "string": "FigJam看板"
     },
     "plan_comparison.chart.centralized_admin.details": {
-        "string": "複数のチームが1つのFigmaアカウントで連携します。ユーザーと請求を1箇所で管理できます。"
+        "string": "多个团队在一个Figma账户中协作，用户和账单集中管理。"
     },
     "plan_comparison.chart.centralized_admin.name": {
-        "string": "一元管理"
+        "string": "集中管理"
     },
     "plan_comparison.chart.centralized_content_management.details": {
-        "string": "ファイルとドラフトはすべて組織が所有し、いつでも復元できます。"
+        "string": "文件和草稿由组织所有，可随时恢复。"
     },
     "plan_comparison.chart.centralized_content_management.name": {
-        "string": "一元的なコンテンツ管理"
+        "string": "集中内容管理"
     },
     "plan_comparison.chart.custom_color_palettes.details_with_callout": {
-        "string": "ブランドカラーを{figJamCallout}での作業時のデフォルトに設定します。"
+        "string": "将品牌颜色设置为{figJamCallout}中的默认颜色。"
     },
     "plan_comparison.chart.custom_color_palettes.name": {
-        "string": "カスタムカラーパレット"
+        "string": "自定义颜色调色板"
     },
     "plan_comparison.chart.custom_permissions.details": {
-        "string": "チームが非公開で作業できるように招待専用スペースを作成します。"
+        "string": "创建邀请专属空间以供团队私密工作。"
     },
     "plan_comparison.chart.custom_permissions.name": {
-        "string": "ファイルとユーザーの権限の独自設定"
+        "string": "自定义文件和用户权限"
     }
 }

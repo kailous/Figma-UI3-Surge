@@ -1,152 +1,152 @@
 {
     "variables.mode_properties_panel.local_variables.subheading": {
-        "string": "ローカルバリアブル"
+        "string": "本地变量"
     },
     "variables.mode_properties_panel.select.option.auto": {
-        "string": "自動"
+        "string": "自动"
     },
     "variables.mode_properties_panel.select.option.auto_with_name": {
-        "string": "自動({modeName})"
+        "string": "自动({modeName})"
     },
     "variables.mode_properties_panel.select.option.default_with_name": {
-        "string": "デフォルト({modeName})"
+        "string": "默认({modeName})"
     },
     "variables.mode_properties_panel.select.option.deleted": {
-        "string": "削除されたモード"
+        "string": "已删除的模式"
     },
     "variables.mode_properties_panel.select.option.mixed": {
         "string": "混合"
     },
     "variables.mode_properties_panel.used_variables.subheading": {
-        "string": "使用バリアブル"
+        "string": "使用变量"
     },
     "variables.modes.option.learn_more": {
-        "string": "詳細情報"
+        "string": "了解更多"
     },
     "variables.modes.option.review_updates": {
-        "string": "更新を確認"
+        "string": "查看更新"
     },
     "variables.scopes.all_fills": {
-        "string": "塗り"
+        "string": "填充"
     },
     "variables.scopes.all_properties": {
-        "string": "サポートされているプロパティのすべてで表示"
+        "string": "显示所有支持的属性"
     },
     "variables.scopes.all_properties_color_description": {
-        "string": "「すべてで表示」を選択すると、今後公開されるものも含め、すべてのカラープロパティでこのバリアブルが表示されます。"
+        "string": "选择“显示所有”后，该变量将显示在所有颜色属性中，包括将来发布的内容。"
     },
     "variables.scopes.all_properties_number_description": {
-        "string": "「すべてで表示」を選択すると、今後公開されるものを含め、すべての数字プロパティでこのバリアブルが表示されます。"
+        "string": "选择“显示所有”后，该变量将显示在所有数字属性中，包括将来发布的内容。"
     },
     "variables.scopes.all_properties_string_description": {
-        "string": "「すべてで表示」を選択すると、今後公開されるものを含め、すべての文字列プロパティにこのバリアブルが表示されます"
+        "string": "选择“显示所有”后，该变量将显示在所有字符串属性中，包括将来发布的内容。"
     },
     "variables.scopes.auto_layout": {
-        "string": "(オートレイアウト)"
+        "string": "自动布局"
     },
     "variables.scopes.color_scoping_header": {
-        "string": "カラーの適用範囲"
+        "string": "颜色范围"
     },
     "variables.scopes.corner_radius": {
-        "string": "角の半径"
+        "string": "圆角半径"
     },
     "variables.scopes.effects": {
-        "string": "エフェクト"
+        "string": "效果"
     },
     "variables.scopes.font_family": {
-        "string": "フォントファミリー"
+        "string": "字体家族"
     },
     "variables.scopes.font_size": {
-        "string": "フォントサイズ"
+        "string": "字体大小"
     },
     "variables.scopes.font_weight": {
-        "string": "フォントの太さ"
+        "string": "字体粗细"
     },
     "variables.scopes.font_weight_or_style": {
-        "string": "フォントの太さまたはスタイル"
+        "string": "字体粗细或样式"
     },
     "variables.scopes.frame_fill": {
-        "string": "フレーム"
+        "string": "框架填充"
     },
     "variables.scopes.gap": {
-        "string": "間隔"
+        "string": "间距"
     },
     "variables.scopes.layer_opacity": {
-        "string": "レイヤー不透明度"
+        "string": "图层不透明度"
     },
     "variables.scopes.letter_spacing": {
-        "string": "文字間隔"
+        "string": "字间距"
     },
     "variables.scopes.line_height": {
-        "string": "行間"
+        "string": "行高"
     },
     "variables.scopes.number_scoping_header": {
-        "string": "数字の適用範囲"
+        "string": "数字范围"
     },
     "variables.scopes.paragraph_indent": {
-        "string": "段落インデント"
+        "string": "段落缩进"
     },
     "variables.scopes.paragraph_spacing": {
-        "string": "段落間隔"
+        "string": "段落间距"
     },
     "variables.scopes.shape_fill": {
-        "string": "シェイプ"
+        "string": "形状填充"
     },
     "variables.scopes.string_scoping_header": {
-        "string": "文字列のスコープ設定"
+        "string": "字符串范围"
     },
     "variables.scopes.stroke": {
-        "string": "線"
+        "string": "描边"
     },
     "variables.scopes.text_content": {
-        "string": "テキストコンテンツ"
+        "string": "文本内容"
     },
     "variables.scopes.text_fill": {
-        "string": "テキスト"
+        "string": "文本填充"
     },
     "variables.scopes.width_height": {
-        "string": "幅と高さ"
+        "string": "宽度和高度"
     },
     "variables.type.boolean": {
-        "string": "ブーリアン"
+        "string": "布尔"
     },
     "variables.type.color": {
-        "string": "カラー"
+        "string": "颜色"
     },
     "variables.type.font_style": {
-        "string": "フォントスタイル"
+        "string": "字体样式"
     },
     "variables.type.map": {
-        "string": "マップ"
+        "string": "地图"
     },
     "variables.type.number": {
-        "string": "数値"
+        "string": "数字"
     },
     "variables.type.string": {
-        "string": "文字列"
+        "string": "字符串"
     },
     "variables.type.string.default_value": {
-        "string": "文字列値"
+        "string": "字符串值"
     },
     "variables.type.symbolid": {
-        "string": "コンポーネント"
+        "string": "组件"
     },
     "variables.type.text_data": {
-        "string": "テキストデータ"
+        "string": "文本数据"
     },
     "variables.values.boolean.false": {
-        "string": "False"
+        "string": "假"
     },
     "variables.values.boolean.true": {
-        "string": "True"
+        "string": "真"
     },
     "variables.variable_collection": {
-        "string": "バリアブルコレクション"
+        "string": "变量集合"
     },
     "variables.variable_collection_default_name": {
-        "string": "コレクション"
+        "string": "集合"
     },
     "variables.variable_collection_extension_default_name": {
-        "string": "拡張コレクション"
+        "string": "扩展集合"
     }
 }

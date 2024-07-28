@@ -6,147 +6,147 @@
         "string": "小"
     },
     "whiteboard.text_sizes.teensy": {
-        "string": "極小"
+        "string": "极小"
     },
     "whiteboard.text_sizes.towering": {
         "string": "特大5"
     },
     "whiteboard.text_sizes.custom": {
-        "string": "カスタム"
+        "string": "自定义"
     },
     "whiteboard.music_player_select.aria_label": {
-        "string": "音楽プレーヤー厳選曲"
+        "string": "精选音乐播放器"
     },
     "whiteboard.timer.end_timer_button_new": {
-        "string": "タイマーを停止"
+        "string": "停止计时器"
     },
     "whiteboard.timer.end_timer_confirmation_new": {
-        "string": "タイマーを停止しますか?"
+        "string": "要停止计时器吗？"
     },
     "whiteboard.timer.end_timer_confirmation_subtext_new": {
-        "string": "これにより、あなただけでなく全員のタイマーが停止されます。"
+        "string": "这将停止所有人的计时器。"
     },
     "whiteboard.timer.end_timer_go_back_new": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "whiteboard.timer.end_timer_tooltip": {
-        "string": "タイマーを終了"
+        "string": "结束计时器"
     },
     "whiteboard.timer.min": {
-        "string": "{timeIncrement}分"
+        "string": "{timeIncrement}分钟"
     },
     "whiteboard.timer.minutes.aria_label": {
-        "string": "入力された分数"
+        "string": "输入的分钟数"
     },
     "whiteboard.timer.music_volume_hint_prompt_cta_v2": {
-        "string": "{promptQuestion}音楽が他の人にも聞こえます。マイクをミュートしてください。"
+        "string": "{promptQuestion}音乐将被其他人听到。请将麦克风静音。"
     },
     "whiteboard.timer.music_volume_hint_prompt_question": {
-        "string": "通話中ですか?"
+        "string": "正在通话吗？"
     },
     "whiteboard.timer.none": {
-        "string": "なし"
+        "string": "无"
     },
     "whiteboard.timer.pause_timer_tooltip": {
-        "string": "タイマーを一時停止"
+        "string": "暂停计时器"
     },
     "whiteboard.timer.resume_timer_tooltip": {
-        "string": "タイマーを再開"
+        "string": "恢复计时器"
     },
     "whiteboard.timer.seconds.aria_label": {
-        "string": "入力された秒数"
+        "string": "输入的秒数"
     },
     "whiteboard.timer.song_not_available_error": {
-        "string": "その曲は利用できないようです。別の曲を選んでください。"
+        "string": "该曲目不可用。请选择另一首曲目。"
     },
     "whiteboard.timer.start_timer_tooltip": {
-        "string": "タイマーを開始"
+        "string": "开始计时器"
     },
     "whiteboard.timer.timer_mute_tooltip": {
-        "string": "ミュート(自分のみ)"
+        "string": "静音（仅自己）"
     },
     "whiteboard.timer.timer_unmute_tooltip": {
-        "string": "ミュート解除(自分のみ)"
+        "string": "取消静音（仅自己）"
     },
     "whiteboard.timer.unmute_music_button": {
-        "string": "音楽のミュートを解除"
+        "string": "取消音乐静音"
     },
     "whiteboard.timer.unmute_music_message": {
-        "string": "再生中の音楽があります。タップしてミュートを解除してください。"
+        "string": "正在播放音乐。点击以取消静音。"
     },
     "whiteboard.ui3_left_panel.rcs_description": {
-        "string": "ファイルのオプションやページには、今までどおりここからアクセスできます。"
+        "string": "您仍然可以从这里访问文件选项和页面。"
     },
     "whiteboard.ui3_panels.rcs_title": {
-        "string": "FigJamは外観が一新されました!"
+        "string": "FigJam界面焕然一新！"
     },
     "whiteboard.ui3_right_panel.rcs_description": {
-        "string": "AI生成、テンプレート、コメントはここ、ミーティングツールの隣に移りました。"
+        "string": "AI生成、模板、评论现在已移至此处，与会议工具并列。"
     },
     "voting.csv_export.filename_no_session_title": {
-        "string": "{date}に投票"
+        "string": "{date}的投票"
     },
     "voting.csv_export.filename_with_session_title": {
-        "string": "{date} — {votingSessionTitle}に投票"
+        "string": "{date} — {votingSessionTitle}的投票"
     },
     "voting.delightful_toolbar.no_votes_remaining": {
-        "string": "完了しました"
+        "string": "完成"
     },
     "voting.delightful_toolbar.votes_remaining": {
-        "string": "{numVotes, plural, other {残り{numVotes}票}}"
+        "string": "剩余{numVotes}票"
     },
     "voting.join_bell.cancel": {
-        "string": "無視"
+        "string": "忽略"
     },
     "voting.join_bell.message_with_username": {
-        "string": "{name}が投票を開始しました"
+        "string": "{name}已开始投票"
     },
     "voting.join_bell.message_without_username": {
-        "string": "ファシリテーターが投票を開始しました"
+        "string": "主持人已开始投票"
     },
     "voting.modal.actions.delete_voting_session": {
-        "string": "削除"
+        "string": "删除"
     },
     "voting.modal.actions.export_as_csv": {
-        "string": "CSV形式でエクスポート"
+        "string": "导出为CSV"
     },
     "voting.modal.after_voting_no_one_voted": {
-        "string": "誰も投票していません"
+        "string": "没有人投票"
     },
     "voting.modal.after_you_vote_results_will_show_up_right_here": {
-        "string": "投票後、ここに結果が表示されます。"
+        "string": "投票后，结果将显示在这里。"
     },
     "voting.modal.delete_voting_session_error": {
-        "string": "投票セッションの削除中にエラーが発生しました。"
+        "string": "删除投票会话时出错。"
     },
     "voting.modal.delete_voting_session_modal_cancel_button": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "voting.modal.delete_voting_session_modal_confirm_button": {
-        "string": "結果を削除"
+        "string": "删除结果"
     },
     "voting.modal.delete_voting_session_modal_description": {
-        "string": "この投票の結果は完全に削除されます。この操作は元に戻せません。"
+        "string": "此投票结果将被完全删除，无法撤销。"
     },
     "voting.modal.delete_voting_session_modal_header": {
-        "string": "結果を削除しますか?"
+        "string": "确定要删除结果吗？"
     },
     "voting.modal.delete_voting_session_visual_bell": {
-        "string": "結果が削除されました"
+        "string": "结果已删除"
     },
     "voting.modal.during_voting_no_ones_voted": {
-        "string": "誰も投票していません"
+        "string": "没有人投票"
     },
     "voting.modal.during_voting_no_votes_dropdown": {
-        "string": "投票者はまだいません..."
+        "string": "还没有投票者..."
     },
     "voting.modal.end_disabled_logged_out_tooltip": {
-        "string": "投票を終了するには、サインインする必要があります"
+        "string": "结束投票需要登录"
     },
     "voting.modal.end_for_all": {
-        "string": "すべて終了"
+        "string": "全部结束"
     },
     "voting.modal.end_voting_session_modal_confirm_button": {
-        "string": "投票を終了"
+        "string": "结束投票"
     }
 }

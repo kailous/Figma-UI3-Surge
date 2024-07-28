@@ -1,105 +1,105 @@
 {
     "whiteboard.open_sessions.open_session_start_failed_notification": {
-        "string": "オープンセッションを開始できませんでした。しばらくしてからもう一度お試しください。"
+        "string": "无法启动开放会话。请稍后再试。"
     },
     "whiteboard.open_sessions.open_session_started_notification": {
-        "string": "オープンセッションが開始されました"
+        "string": "开放会话已启动"
     },
     "whiteboard.open_sessions.open_session_started_notification_copy_link": {
-        "string": "リンクをコピー"
+        "string": "复制链接"
     },
     "whiteboard.open_sessions.open_sessions_cancel": {
-        "string": "キャンセル"
+        "string": "取消"
     },
     "whiteboard.open_sessions.open_sessions_start": {
-        "string": "開始"
+        "string": "开始"
     },
     "whiteboard.open_sessions.remaining_duration": {
-        "string": "{remainingHours, plural, other {オープンセッション終了まで{remainingHours}時間{remainingMinutes}分}}"
+        "string": "距离开放会话结束还有{remainingHours}小时{remainingMinutes}分钟"
     },
     "whiteboard.open_sessions.share_modal_anyone_can_edit": {
-        "string": "誰でも編集できます。アカウントは不要です。セッションは24時間後に自動的に終了します。"
+        "string": "任何人都可以编辑。不需要账号。会话将在24小时后自动结束。"
     },
     "whiteboard.open_sessions.share_modal_anyone_with_link_and_password_can_edit": {
-        "string": "リンクとパスワードを知っているユーザー全員が編集できます。アカウントは不要です。セッションは24時間後に自動的に終了します。"
+        "string": "知道链接和密码的用户都可以编辑。不需要账号。会话将在24小时后自动结束。"
     },
     "whiteboard.open_sessions.share_modal_during_the_session": {
-        "string": "セッション中は、アカウントがなくてもリンクを知っているユーザーであれば、このファイルを編集できます"
+        "string": "在会话期间，任何知道链接的用户都可以编辑此文件，无需账号"
     },
     "whiteboard.open_sessions.share_modal_during_the_session_with_link_and_password": {
-        "string": "リンクとパスワードを知っているユーザー全員がファイルを編集できます"
+        "string": "任何知道链接和密码的用户都可以编辑此文件"
     },
     "whiteboard.open_sessions.share_modal_how_to_end_session": {
-        "string": "24時間後にセッションが自動的に終了しますが、[{share}]、[{end_now}]の順にクリックして早く終了させることができます。"
+        "string": "会话将在24小时后自动结束，但您可以点击[{share}]，然后点击[{end_now}]提前结束。"
     },
     "whiteboard.open_sessions.share_modal_start_session_anyone_with_link_and_password": {
-        "string": "リンクとパスワードを知っているユーザー全員"
+        "string": "知道链接和密码的所有用户"
     },
     "whiteboard.open_sessions.share_modal_start_session_end_now": {
-        "string": "今すぐ終了"
+        "string": "立即结束"
     },
     "whiteboard.open_sessions.share_modal_start_session_share": {
-        "string": "共有"
+        "string": "分享"
     },
     "whiteboard.open_sessions.share_modal_start_session_with_link": {
-        "string": "セッション中はアカウントがなくても、リンクが表示されているユーザーはファイルを編集できます。"
+        "string": "在会话期间，任何显示有链接的用户都可以编辑此文件，无需账号。"
     },
     "whiteboard.open_sessions.share_modal_start_session_with_link_and_password": {
-        "string": "オープンセッションでは、Figmaアカウントがなくても{audience}はこのファイルにアクセスして編集できます。"
+        "string": "在开放会话期间，即使没有Figma账号，{audience}也可以访问和编辑此文件。"
     },
     "whiteboard.open_sessions.start": {
-        "string": "開始"
+        "string": "开始"
     },
     "whiteboard.open_sessions.start_open_session": {
-        "string": "オープンセッションを開始"
+        "string": "启动开放会话"
     },
     "agenda.agenda_item_edit_tooltip": {
-        "string": "編集"
+        "string": "编辑"
     },
     "agenda.agenda_title": {
-        "string": "アジェンダ"
+        "string": "议程"
     },
     "agenda.agenda_item_modal_delete": {
-        "string": "削除"
+        "string": "删除"
     },
     "agenda.agenda_item_modal_remove_attached_tool_tooltip": {
-        "string": "削除"
+        "string": "删除"
     },
     "agenda.agenda_item_modal_remove_section_tooltip": {
-        "string": "削除"
+        "string": "删除"
     },
     "agenda.agenda_item_modal_save": {
         "string": "保存"
     },
     "agenda.context_menu_delete_agenda_item": {
-        "string": "トピックを削除"
+        "string": "删除议题"
     },
     "agenda.context_menu_rename_agenda_item": {
-        "string": "名前を変更"
+        "string": "重命名"
     },
     "agenda.cta_add_new": {
-        "string": "追加"
+        "string": "添加"
     },
     "agenda.cta_add_suggestions": {
-        "string": "1個のセクションを追加"
+        "string": "添加1个部分"
     },
     "agenda.cta_add_suggestions_plural": {
-        "string": "{num}個のセクションを追加"
+        "string": "添加{num}个部分"
     },
     "agenda.current_item_flag_text": {
-        "string": "現在"
+        "string": "当前"
     },
     "agenda.end_meeting_button_text": {
-        "string": "ミーティングを終了"
+        "string": "结束会议"
     },
     "agenda.metadata_overview_music": {
-        "string": "音楽"
+        "string": "音乐"
     },
     "agenda.metadata_overview_timer_length_minutes": {
-        "string": "{minutes}分"
+        "string": "{minutes}分钟"
     },
     "agenda.metadata_overview_timer_length_minutes_seconds": {
-        "string": "{minutes}分{seconds}秒"
+        "string": "{minutes}分钟{seconds}秒"
     },
     "agenda.metadata_overview_timer_length_seconds": {
         "string": "{seconds}秒"
@@ -108,45 +108,45 @@
         "string": "投票"
     },
     "agenda.null_state_description": {
-        "string": "ミーティングを行う場合は、ここにアジェンダの項目を追加し、全員で目的を共有します。"
+        "string": "在会议期间，您可以在此添加议程项目，与所有人共享目标。"
     },
     "agenda.null_state_suggestions": {
-        "string": "提案:"
+        "string": "建议："
     },
     "agenda.start_meeting_button_text": {
-        "string": "ミーティングを開始"
+        "string": "开始会议"
     },
     "pages_panel.summary_preview.last_updated": {
-        "string": "{time}に更新"
+        "string": "{time}更新"
     },
     "pages_panel.summary_preview.no_thumbnail_available": {
-        "string": "リフレッシュして更新されたプレビューを表示"
+        "string": "刷新以查看更新的预览"
     },
     "pages_panel.summary_preview.update_preview": {
-        "string": "プレビューをリフレッシュ"
+        "string": "刷新预览"
     },
     "pages_panel.toolbar.add_pages_tooltip": {
-        "string": "ページを追加"
+        "string": "添加页面"
     },
     "pages_panel.toolbar.icon.addPage.aria_label": {
-        "string": "ページ追加ツールバーアイコン"
+        "string": "添加页面工具栏图标"
     },
     "pages_panel.toolbar.icon.ellipis.aria_label": {
-        "string": "省略記号ページツールバーアイコン"
+        "string": "省略号页面工具栏图标"
     },
     "pages_panel.toolbar.icon.pageCount.aria_label": {
-        "string": "番号付きページツールバーアイコン"
+        "string": "编号页面工具栏图标"
     },
     "pages_panel.toolbar.rcs_desc": {
-        "string": "ファイルに秩序をもたらし、検討、走り書き、思いつきのためのスペースが広がります。"
+        "string": "为文件带来秩序，扩展了审阅、涂鸦和想法空间。"
     },
     "pages_panel.toolbar.rcs_title": {
-        "string": "ページがFigJamで利用可能に"
+        "string": "FigJam中可用的页面"
     },
     "pages_panel.toolbar.view_pages_tooltip": {
-        "string": "ページを表示"
+        "string": "查看页面"
     },
     "whiteboard.paywall_upsell.draft.first.main": {
-        "string": "{purpleSection}にみんなを招待しましょう"
+        "string": "邀请大家到{purpleSection}"
     }
 }

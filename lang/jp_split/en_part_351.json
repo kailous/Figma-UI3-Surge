@@ -1,152 +1,152 @@
 {
     "workspace_view.description.placeholder": {
-        "string": "このワークスペースの詳細を追加"
+        "string": "添加此工作区的详细信息"
     },
     "workspace_view.description.save": {
         "string": "保存"
     },
     "workspace_view.description.title": {
-        "string": "説明を編集"
+        "string": "编辑说明"
     },
     "workspace_view.description_modal.subtitle": {
-        "string": "説明はサイドバーの{allWorkspacesText}から見ることができます。"
+        "string": "说明可在侧边栏的{allWorkspacesText}中查看。"
     },
     "workspace_view.description_modal.title": {
-        "string": "この説明を編集"
+        "string": "编辑此说明"
     },
     "workspace_view.description_update_error": {
-        "string": "ワークスペースの説明の更新中にエラーが発生しました。"
+        "string": "更新工作区说明时发生错误。"
     },
     "workspace_view.description_update_updated": {
-        "string": "ワークスペースの説明を更新しました"
+        "string": "已更新工作区说明"
     },
     "workspace_view.members_modal.admins": {
-        "string": "管理者"
+        "string": "管理员"
     },
     "workspace_view.members_modal.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "workspace_view.members_modal.no_admins": {
-        "string": "{workspaceName}には管理者がいません"
+        "string": "{workspaceName}没有管理员"
     },
     "workspace_view.members_modal.no_members": {
-        "string": "{workspaceName}にはメンバーがいません"
+        "string": "{workspaceName}没有成员"
     },
     "workspace_view.members_modal.no_results": {
-        "string": "「{query}」に一致する結果はありません"
+        "string": "没有与“{query}”匹配的结果"
     },
     "workspace_view.members_modal.search_placeholder": {
-        "string": "メンバーを検索"
+        "string": "搜索成员"
     },
     "workspace_view.sidebar.members": {
-        "string": "メンバー"
+        "string": "成员"
     },
     "workspace_view.sidebar.see_all_members": {
-        "string": "すべて表示"
+        "string": "查看所有"
     },
     "workspace_view.toolbar.admin_settings": {
-        "string": "管理者設定"
+        "string": "管理员设置"
     },
     "workspace_view.toolbar.change_color": {
-        "string": "ワークスペースの色を変更"
+        "string": "更改工作区颜色"
     },
     "workspace_view.toolbar.no_fill": {
-        "string": "色なし"
+        "string": "无颜色"
     },
     "workspace_view.toolbar.solid": {
-        "string": "単色"
+        "string": "纯色"
     },
     "workspace_view.toolbar.workspace_color_update_error": {
-        "string": "ワークスペースの色の更新中にエラーが発生しました。"
+        "string": "更新工作区颜色时发生错误。"
     },
     "workspace_view.toolbar.workspace_color_updated": {
-        "string": "ワークスペースの色を更新しました"
+        "string": "已更新工作区颜色"
     },
     "categories.accessibility_subheader": {
-        "string": "アクセシビリティのプラグインとツールで、すべてのユーザーの力になるデザインにします。"
+        "string": "通过无障碍插件和工具，设计为所有用户赋能。"
     },
     "categories.brainstorming_subheader": {
-        "string": "創造性とコラボレーションを活気づけるブレインストーミング用のテンプレートやチャート、ツールを利用して、次の素晴らしいアイデアを見つけましょう。"
+        "string": "利用头脑风暴模板、图表和工具，激发创造力和协作，找到下一个伟大的创意。"
     },
     "categories.calendar_templates_subheader": {
-        "string": "編集可能なカレンダーテンプレートで常にイベントを整理することで、効率を高めることができます。"
+        "string": "通过可编辑的日历模板保持事件有序，提高效率。"
     },
     "categories.classroom_activities_subheader": {
-        "string": "簡単に使えるクラス活動と授業プランのテンプレートが用意されています。"
+        "string": "提供简单易用的课堂活动和课程计划模板。"
     },
     "categories.design_systems_subheader": {
-        "string": "デザインシステムの構築と管理のためのツール。"
+        "string": "用于构建和管理设计系统的工具。"
     },
     "categories.design_templates_subheader": {
-        "string": "グラフィックデザイン、ウェブデザイン、モバイルインターフェースデザインのあらゆるニーズに応えるデザインテンプレートが用意されています。"
+        "string": "提供满足所有需求的设计模板，包括平面设计、网页设计和移动界面设计。"
     },
     "categories.design_tools_subheader": {
-        "string": "ワイヤーフレームをスケッチするときも、カラーパレットを微調整するときも、ユーザーインターフェースのプロトタイプを作成するときも、デザインプロセスの力になるツールが用意されています。"
+        "string": "从草绘线框图到微调调色板，再到制作用户界面原型，这些工具都能增强您的设计过程。"
     },
     "categories.desktop_apps_websites_subheader": {
-        "string": "デスクトップアプリとウェブデザインテンプレートで、デジタルプレゼンスを高めましょう。"
+        "string": "通过桌面应用和网页设计模板提升您的数字存在感。"
     },
     "categories.development_subheader": {
-        "string": "開発者にとって使いやすいツールとテンプレートで、ハンドオフプロセスをもっとシンプルにしましょう。"
+        "string": "让开发者更轻松的工具和模板，使移交过程更加简单。"
     },
     "categories.diagramming_subheader": {
-        "string": "簡単にアイデアを視覚化できる作図とチャートのテンプレートが揃っています。"
+        "string": "提供简便的作图和图表模板，用于可视化您的想法。"
     },
     "categories.editing_effects_subheader": {
-        "string": "細部の微調整をするときも、印象的なビジュアルエフェクトを加えるときも、ここにあるツールを使えば、魅力的なデザインを手軽に作成できます。"
+        "string": "无论是微调细节还是添加令人印象深刻的视觉效果，这里都有助您轻松创建引人入胜的设计的工具。"
     },
     "categories.education_subheader": {
-        "string": "授業プランから課外活動まで、自分自身または教室で幅広く利用できる教育用テンプレートです。"
+        "string": "从课程计划到课外活动，提供广泛的教育模板，适合个人或课堂使用。"
     },
     "categories.file_organization_subheader": {
-        "string": "デザインドキュメンテーションテンプレート、セクションソーターなどのファイル整理ツールで、ワークフローをレベルアップしましょう。"
+        "string": "通过设计文档模板、部分排序器等文件组织工具提升工作流程。"
     },
     "categories.fonts_typography_subheader": {
-        "string": "次のウェブサイトやプレゼンテーション、デザインプロジェクトの印刷に使用できるタイポグラフィックのさまざまなテンプレートやツールが用意されています。"
+        "string": "提供多种排版模板和工具，适用于下一个网站、演示文稿或设计项目的印刷。"
     },
     "categories.fun_games_subheader": {
-        "string": "楽しいゲームテンプレートとツールで息抜きをしましょう。"
+        "string": "使用有趣的游戏模板和工具进行放松。"
     },
     "categories.icons_subheader": {
-        "string": "スタイリッシュでカスタマイズ可能なアイコンパックで、インターフェースを向上させましょう。"
+        "string": "通过时尚且可自定义的图标包提升界面。"
     },
     "categories.illustrations_subheader": {
-        "string": "イラストとグラフィックパックのバリアントライブラリが用意されています。"
+        "string": "提供插图和图形包的多样化库。"
     },
     "categories.import_export_subheader": {
-        "string": "デザインをHTMLに変換する、モックアップを生成する、GIFや動画をエクスポートする、その他のツールがあります。"
+        "string": "提供工具将设计转换为HTML、生成模型、导出GIF和视频等。"
     },
     "categories.libraries_subheader": {
-        "string": "UIコンポーネントからアイコンセットまで、構築済みデザインライブラリで次のプロジェクトに弾みをつけましょう。"
+        "string": "利用预构建的设计库（从UI组件到图标集）为下一个项目提供动力。"
     },
     "categories.mobile_apps_subheader": {
-        "string": "モバイルアプリデザインテンプレートで、アイデアをリアルなモバイルエクスペリエンスに変換します。"
+        "string": "通过移动应用设计模板，将您的想法转化为真实的移动体验。"
     },
     "categories.plugins_subheader": {
-        "string": "小さくても強力なアプリで、新しい機能を追加し、ワークフローをパワーアップ"
+        "string": "通过小而强大的应用添加新功能，增强工作流程。"
     },
     "categories.portfolios_subheader": {
-        "string": "プロフェッショナルなポートフォリオデザインテンプレートで自信作を売り込みましょう。"
+        "string": "通过专业的作品集设计模板展示您的杰作。"
     },
     "categories.presentations_subheader": {
-        "string": "インパクトのあるプレゼンテーションテンプレートでスライドのひとつひとつを引き立てましょう。"
+        "string": "使用具有冲击力的演示文稿模板，提升每一张幻灯片的表现。"
     },
     "categories.prototyping_animation_subheader": {
-        "string": "プロトタイプ作成とアニメーションのツールで、アイデアをインタラクティブなエクスペリエンスに変えます。"
+        "string": "通过原型制作和动画工具，将想法转化为交互式体验。"
     },
     "categories.resumes_subheader": {
-        "string": "求職活動であなたを引き立てるプロ仕様のおしゃれな履歴書テンプレートや使いやすいテンプレート。無料です。"
+        "string": "通过专业优雅的简历模板和易于使用的模板，在求职过程中脱颖而出。"
     },
     "categories.shapes_colors_subheader": {
-        "string": "基本的なシェイプから複雑なパターンまで、視覚的に素晴らしいデザインを作成するために必要なものがここにあります。"
+        "string": "从基本形状到复杂图案，这里有您创建视觉上惊艳设计所需的一切。"
     },
     "categories.stock_photography_subheader": {
-        "string": "息をのむような景色からダイナミックなポートレートまで、クリエイティブなプロジェクトを強化する質の高いストックフォトを見つけましょう。"
+        "string": "从令人惊叹的风景到动感的肖像，找到高质量的库存照片，增强您的创意项目。"
     },
     "categories.strategic_planning_subheader": {
-        "string": "プランニングプロセスを合理化してビジネス目標の達成に役立つ戦略的プランニングテンプレートとツールを使用して、アイデアを実行に移します。"
+        "string": "通过战略规划模板和工具简化规划过程，帮助实现业务目标，将创意付诸实践。"
     },
     "categories.team_meetings_subheader": {
-        "string": "コミュニケーションの改善と生産性の向上のためのミーティングアジェンダテンプレートを活用して、チームのディスカッションを合理化しましょう。"
+        "string": "利用会议议程模板简化团队讨论，改善沟通，提高生产力。"
     }
 }

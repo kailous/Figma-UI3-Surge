@@ -1,152 +1,152 @@
 {
     "user_onboarding_signals_figjam.v2.answer.diagramming": {
-        "string": "図表作成"
+        "string": "图表创建"
     },
     "user_onboarding_signals_figjam.v2.answer.learning": {
-        "string": "学習や調査"
+        "string": "学习与研究"
     },
     "user_onboarding_signals_figjam.v2.answer.meetings": {
-        "string": "ミーティング"
+        "string": "会议"
     },
     "user_onboarding_signals_figjam.v2.answer.projects": {
-        "string": "プロジェクトプランニング"
+        "string": "项目规划"
     },
     "user_onboarding_signals_figjam.v2.question.have_you_used_digital_whiteboards_before": {
-        "string": "これまでデジタルホワイトボーディングツールを使ったことがありますか?"
+        "string": "您以前使用过数字白板工具吗?"
     },
     "user_onboarding_signals_figjam.v2.question.what_will_you_use_figjam_for": {
-        "string": "FigJamを何に使う予定ですか?"
+        "string": "您打算如何使用FigJam?"
     },
     "variables.authoring_modal.context_menu.clear_alias": {
-        "string": "エイリアスをクリア"
+        "string": "清除别名"
     },
     "variables.authoring_modal.context_menu.create_alias": {
-        "string": "エイリアスを作成"
+        "string": "创建别名"
     },
     "variables.authoring_modal.context_menu.create_group": {
-        "string": "選択した内容でグループを新規作成"
+        "string": "使用所选内容创建组"
     },
     "variables.authoring_modal.context_menu.delete": {
-        "string": "バリアブルを削除"
+        "string": "删除变量"
     },
     "variables.authoring_modal.context_menu.delete_multiple": {
-        "string": "バリアブルを削除"
+        "string": "删除变量"
     },
     "variables.authoring_modal.context_menu.duplicate": {
-        "string": "{count, plural, other {バリアブルを複製}}"
+        "string": "{count, plural, other {复制变量}}"
     },
     "variables.authoring_modal.context_menu.edit": {
-        "string": "{count, plural, other {バリアブルを編集}}"
+        "string": "{count, plural, other {编辑变量}}"
     },
     "variables.authoring_modal.create_variable_button_label": {
-        "string": "バリアブルボタンを作成"
+        "string": "创建变量按钮"
     },
     "variables.authoring_modal.default_collection_name": {
-        "string": "コレクション1"
+        "string": "集合1"
     },
     "variables.authoring_modal.edit_variable_button_tooltip": {
-        "string": "バリアブルを編集"
+        "string": "编辑变量"
     },
     "variables.authoring_modal.extended_collection.extension_based_off_library_tooltip": {
-        "string": "出典: {libraryName}/{collectionName}"
+        "string": "源自: {libraryName}/{collectionName}"
     },
     "variables.authoring_modal.extended_collection.extension_based_off_local_tooltip": {
-        "string": "出典: {collectionName}"
+        "string": "源自: {collectionName}"
     },
     "variables.authoring_modal.extended_collection.missing_base_collection_name": {
-        "string": "(コレクションなし)"
+        "string": "(无集合)"
     },
     "variables.authoring_modal.group_context_menu.delete_group": {
-        "string": "グループを削除"
+        "string": "删除组"
     },
     "variables.authoring_modal.group_context_menu.delete_groups": {
-        "string": "グループを削除"
+        "string": "删除组"
     },
     "variables.authoring_modal.group_context_menu.duplicate_group": {
-        "string": "グループを複製"
+        "string": "复制组"
     },
     "variables.authoring_modal.group_context_menu.duplicate_groups": {
-        "string": "グループを複製"
+        "string": "复制组"
     },
     "variables.authoring_modal.group_context_menu.ungroup": {
-        "string": "グループ解除"
+        "string": "取消分组"
     },
     "variables.authoring_modal.mode_context_menu.delete_mode": {
-        "string": "モードを削除"
+        "string": "删除模式"
     },
     "variables.authoring_modal.mode_context_menu.duplicate_mode": {
-        "string": "モードを複製"
+        "string": "复制模式"
     },
     "variables.authoring_modal.mode_context_menu.rename_mode": {
-        "string": "モード名を変更"
+        "string": "重命名模式"
     },
     "variables.authoring_modal.mode_context_menu.set_as_default": {
-        "string": "デフォルトに設定"
+        "string": "设为默认"
     },
     "variables.authoring_modal.more_variable_set_options_tooltip": {
-        "string": "その他のオプション"
+        "string": "更多选项"
     },
     "variables.authoring_modal.new_group_tooltip": {
-        "string": "グループを新規作成"
+        "string": "新建组"
     },
     "variables.authoring_modal.new_mode_tooltip": {
-        "string": "新しいバリアブルモード"
+        "string": "新变量模式"
     },
     "variables.authoring_modal.null_state_text": {
-        "string": "ファイルとプロトタイプのすべてに適用できる再利用可能な数字、テキスト、色を作成します。"
+        "string": "创建可重复使用的数字、文本和颜色，适用于所有文件和原型。"
     },
     "variables.authoring_modal.overflow_dropdown.add_folder": {
-        "string": "フォルダに追加"
+        "string": "添加到文件夹"
     },
     "variables.authoring_modal.overflow_dropdown.create_collection": {
-        "string": "コレクションを作成"
+        "string": "创建集合"
     },
     "variables.authoring_modal.overflow_dropdown.create_extended_collection": {
-        "string": "拡張コレクションを作成"
+        "string": "创建扩展集合"
     },
     "variables.authoring_modal.overflow_dropdown.delete_collection": {
-        "string": "コレクションを削除"
+        "string": "删除集合"
     },
     "variables.authoring_modal.overflow_dropdown.duplicate_collection": {
-        "string": "コレクションを複製"
+        "string": "复制集合"
     },
     "variables.authoring_modal.overflow_dropdown.export": {
-        "string": "tokens.jsonとしてコレクションをエクスポート"
+        "string": "导出集合为tokens.json"
     },
     "variables.authoring_modal.overflow_dropdown.rename_collection": {
-        "string": "コレクション名を変更"
+        "string": "重命名集合"
     },
     "variables.authoring_modal.overflow_dropdown.reorder_collections": {
-        "string": "コレクションを並べ替え"
+        "string": "重新排序集合"
     },
     "variables.authoring_modal.reached_hard_mode_limit": {
-        "string": "{modeLimit, plural, other {モード数は{modeLimit, number, integer}に制限されています}}"
+        "string": "{modeLimit, plural, other {模式数量限制为{modeLimit, number, integer}}}"
     },
     "variables.authoring_modal.table.all_variables": {
-        "string": "すべてのバリアブル"
+        "string": "所有变量"
     },
     "variables.authoring_modal.table.create_variable": {
-        "string": "バリアブルを作成"
+        "string": "创建变量"
     },
     "variables.authoring_modal.table.detach_alias": {
-        "string": "エイリアスを切り離す"
+        "string": "分离别名"
     },
     "variables.authoring_modal.table.inaccessible_variable_tooltip": {
-        "string": "アップグレードしてより多くのモードにアクセス"
+        "string": "升级以访问更多模式"
     },
     "variables.authoring_modal.table.name_header": {
-        "string": "名前"
+        "string": "名称"
     },
     "variables.authoring_modal.title": {
-        "string": "バリアブル"
+        "string": "变量"
     },
     "variables.authoring_modal.toggle_sidebar": {
-        "string": "サイドバーを切り替える"
+        "string": "切换侧边栏"
     },
     "variables.beta": {
-        "string": "ベータ"
+        "string": "测试版"
     },
     "variables.binding_ui.create_style_or_variable_button_tooltip": {
-        "string": "新しいスタイルまたはバリアブル"
+        "string": "新建样式或变量"
     }
 }
