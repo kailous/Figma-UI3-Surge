@@ -48,6 +48,15 @@ Figma-UI3 = type=http-response,pattern=https:\/\/.*figma_app-.*\.min\.js\.br$,re
 
 通过以上步骤，您可以成功绕过候选名单并强制开启Figma测试版UI3。如果有任何问题或需要进一步的帮助，请随时联系我。
 
+### 新的汉化
+使用请求拦截工具 将这个地址
+```
+https:\/\/www\.figma\.com\/webpack-artifacts\/assets\/figma_app-[a-f0-9]{16}\.min\.en\.json\.br
+```
+替换成我的语言包地址
+```
+https://raw.githubusercontent.com/kailous/Figma-UI3-Surge/main/lang/zh.json
+```
 
 ### 关于新的汉化方式
 以绕过开启UI3为灵感，我想到了可以通过替换figma官方语言包的方式汉化，好处就是无需修改客户端，实现全平台汉化，如果企业可以写入路由规则的话，可以整个公司汉化也不是不可能，并且实时更新，客户端可以随着官方一起更新。
