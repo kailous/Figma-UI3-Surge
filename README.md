@@ -59,5 +59,5 @@ https:\/\/www\.figma\.com\/webpack-artifacts\/assets\/figma_app-[a-f0-9]{16}\.mi
 ```
 替换成我的语言包地址
 ```
-https://raw.githubusercontent.com/kailous/Figma-UI3-Surge/main/lang/zh.json
+https://raw.githubusercontent.com/kailous/Figma-UI3-Surge/main/lang/zh.json.br
 ```
