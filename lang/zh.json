@@ -1875,7 +1875,7 @@
         "string": "图层"
     },
     "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_body": {
-        "string": "通过创建自定义代码生成插件，扩展Figma的原生代码片段，以生成Figma不支持的语言或框架的代码"
+        "string": "通过创建自定义代码生成插件，扩展Figma的原生代码片段，以生成Figma不支持的语言或画框的代码"
     },
     "dev_handoff.configuration_wizard.code_language_step.custom_codegen_promo_link": {
         "string": "查看文档"
@@ -1911,7 +1911,7 @@
         "string": "首先选择平台和单位"
     },
     "dev_handoff.configuration_wizard.code_language_step.what_framework": {
-        "string": "框架"
+        "string": "画框"
     },
     "dev_handoff.configuration_wizard.code_language_step.what_platform": {
         "string": "平台"
@@ -2070,7 +2070,7 @@
         "string": "在新标签页中打开"
     },
     "dev_handoff.developer_related_links.select_frame": {
-        "string": "选择框架"
+        "string": "选择画框"
     },
     "dev_handoff.developer_related_links.select_layer": {
         "string": "选择图层"
@@ -2331,7 +2331,7 @@
         "string": "{status} · {fromNow}"
     },
     "dev_handoff.overview_mode.empty_page": {
-        "string": "此页面上没有可显示的框架"
+        "string": "此页面上没有可显示的画框"
     },
     "dev_handoff.overview_mode.no_status": {
         "string": "无状态"
@@ -2721,7 +2721,7 @@
         "string": "开发准备完成"
     },
     "dev_handoff.status.ready_for_development.content": {
-        "string": "没有标记为开发准备完成的部分。请选择一个标记为开发准备完成的部分或顶级框架。"
+        "string": "没有标记为开发准备完成的部分。请选择一个标记为开发准备完成的部分或顶级画框。"
     },
     "dev_handoff.status.remark_as_ready": {
         "string": "删除完成状态"
@@ -2814,10 +2814,10 @@
         "string": "返回索引页"
     },
     "dev_handoff.vscode.toolbar.next_frame": {
-        "string": "下一个框架"
+        "string": "下一个画框"
     },
     "dev_handoff.vscode.toolbar.previous_frame": {
-        "string": "上一个框架"
+        "string": "上一个画框"
     },
     "dev_handoff.vscode.zoom_control.zoom_in_button": {
         "string": "放大"
@@ -2964,7 +2964,7 @@
         "string": "反馈"
     },
     "dev_handoff.workflows.overview.frames_count": {
-        "string": "{count, plural, other {{count}个框架}}"
+        "string": "{count, plural, other {{count}个画框}}"
     },
     "dev_handoff.workflows.overview.learn_more": {
         "string": "了解更多"
@@ -3156,7 +3156,7 @@
         "string": "搜索"
     },
     "dev_handoff.workflows.overview.sections_count": {
-        "string": "{count, plural, other {{count}个部分}}"
+        "string": "{count, plural, other {{count}个分区}}"
     },
     "dev_handoff.workflows.overview.show_on_page_action": {
         "string": "在页面上显示"
@@ -3360,7 +3360,7 @@
         "string": "线"
     },
     "fullscreen.accessibility_dom.node_name_section": {
-        "string": "部分"
+        "string": "分区"
     },
     "fullscreen.accessibility_dom.node_name_shape": {
         "string": "形状"
@@ -4284,7 +4284,7 @@
         "string": "音效"
     },
     "fullscreen.msal_onboarding.body": {
-        "string": "使用自动布局，快速完成。Figma会根据需要创建框架。"
+        "string": "使用自动布局，快速完成。Figma会根据需要创建画框。"
     },
     "fullscreen.msal_onboarding.header_with_shortcut": {
         "string": "下次尝试使用 {msalShortcut}"
@@ -5565,7 +5565,7 @@
         "string": "反应工具"
     },
     "fullscreen.remove_group_fill_and_stroke.background_color_group_unsupported": {
-        "string": "不再支持组的背景颜色。要更改颜色，请将组转换为框架。"
+        "string": "不再支持组的背景颜色。要更改颜色，请将组转换为画框。"
     },
     "fullscreen.rename_modal.cancel": {
         "string": "取消"
@@ -6024,7 +6024,7 @@
         "string": "编辑"
     },
     "hyperlink.frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "hyperlink.invalid_link": {
         "string": "无效链接: {link}"
@@ -6186,13 +6186,13 @@
         "string": "扩展"
     },
     "properties_panel.effects.spread_clip_warning": {
-        "string": "仅在启用“隐藏内容”时，支持框架和组件"
+        "string": "仅在启用“隐藏内容”时，支持画框和组件"
     },
     "properties_panel.effects.spread_fills_warning": {
-        "string": "仅在填充可见时，支持框架和组件"
+        "string": "仅在填充可见时，支持画框和组件"
     },
     "properties_panel.effects.spread_rect_ellipse_warning": {
-        "string": "仅支持矩形、椭圆、框架和组件"
+        "string": "仅支持矩形、椭圆、画框和组件"
     },
     "properties_panel.effects.x": {
         "string": "X"
@@ -6243,7 +6243,7 @@
         "string": "已复制到实例的链接"
     },
     "visual_bell.copy_link_to_section": {
-        "string": "已复制到部分的链接"
+        "string": "已复制到分区的链接"
     },
     "visual_bell.copy_link_to_shape": {
         "string": "已复制到形状的链接"
@@ -6354,7 +6354,7 @@
         "string": "重写重复文本？"
     },
     "fullscreen_actions.ai_content_fill.select_a_stack_of_repeating_frames": {
-        "string": "选择一组重复的框架"
+        "string": "选择一组重复的画框"
     },
     "fullscreen_actions.ai_content_fill.visual_bell_suggestion": {
         "string": "建议"
@@ -8502,10 +8502,10 @@
         "string": "交换"
     },
     "fullscreen.position_panel.fixed_disabled": {
-        "string": "仅适用于顶层框架。"
+        "string": "仅适用于顶层画框。"
     },
     "fullscreen.position_panel.relative_disabled": {
-        "string": "仅适用于自动布局框架内的图层。"
+        "string": "仅适用于自动布局画框内的图层。"
     },
     "fullscreen.save_status.learn_more": {
         "string": "了解更多"
@@ -8727,10 +8727,10 @@
         "string": "已强制应用{count}个文本元素的布局"
     },
     "visual_bell.frame_outlines_hidden": {
-        "string": "框架轮廓已隐藏"
+        "string": "画框轮廓已隐藏"
     },
     "visual_bell.frame_outlines_visible": {
-        "string": "框架轮廓已显示"
+        "string": "画框轮廓已显示"
     },
     "visual_bell.generic_video_upload_error": {
         "string": "上传视频时出错。请再试一次。"
@@ -8811,7 +8811,7 @@
         "string": "此图层集中无匹配的图层可供选择"
     },
     "visual_bell.no_matching_layers_section": {
-        "string": "此部分无匹配的图层可供选择"
+        "string": "此分区无匹配的图层可供选择"
     },
     "visual_bell.no_more_children_to_select": {
         "string": "无更多子项可供选择"
@@ -8934,7 +8934,7 @@
         "string": "标尺已显示"
     },
     "visual_bell.sections_aren_t_quite_ready_for_figma_just_yet_we_pasted_your_section_as_a_group": {
-        "string": "暂不支持在Figma中粘贴部分内容。部分内容已作为组粘贴。"
+        "string": "暂不支持在Figma中粘贴分区内容。分区内容已作为组粘贴。"
     },
     "visual_bell.select_single_state_group": {
         "string": "请选择一个组件"
@@ -9021,7 +9021,7 @@
         "string": "没有可导出的表格"
     },
     "visual_bell.there_are_no_top_level_frames_on_the_current_page_to_export": {
-        "string": "当前页面上没有可导出的顶层框架"
+        "string": "当前页面上没有可导出的顶层画框"
     },
     "visual_bell.there_are_no_votes_to_export": {
         "string": "没有可导出的投票"
@@ -9114,10 +9114,10 @@
         "string": "输入消息（使用@提及成员）"
     },
     "whiteboard.immutable_frame.table_limit_reached": {
-        "string": "部分粘贴成功 - 已达到表格大小限制"
+        "string": "分区粘贴成功 - 已达到表格大小限制"
     },
     "whiteboard.jamboard_importer.numbered_frame_section_name": {
-        "string": "框架{number}"
+        "string": "画框{number}"
     },
     "whiteboard.mindmaps_onboarding_template.category_1_child_1_description": {
         "string": "过于简单。"
@@ -9171,7 +9171,7 @@
         "string": "请选择一个模板"
     },
     "whiteboard.starter_kit.body.design_crit.interop": {
-        "string": "您可以将多个框架和形状等从Figma复制并粘贴到FigJam。\r\n\r\n在这里试试。"
+        "string": "您可以将多个画框和形状等从Figma复制并粘贴到FigJam。\r\n\r\n在这里试试。"
     },
     "whiteboard.starter_kit.body.presentation": {
         "string": "演示文稿是一种用于展示、讲课、演讲或报告的交流工具，主要在观众面前展示。"
@@ -10755,22 +10755,22 @@
         "string": "添加到侧边栏"
     },
     "favorited_resources.create_a_new_section": {
-        "string": "创建新部分"
+        "string": "创建新分区"
     },
     "favorited_resources.create_a_new_section_tooltip": {
-        "string": "创建新部分"
+        "string": "创建新分区"
     },
     "favorited_resources.custom_sections_banner_body": {
-        "string": "要开始，请创建您的第一个新部分或在下方的默认部分之间点击并拖动项目。"
+        "string": "要开始，请创建您的第一个新分区或在下方的默认分区之间点击并拖动项目。"
     },
     "favorited_resources.custom_sections_banner_create_new_section_button": {
-        "string": "创建新部分"
+        "string": "创建新分区"
     },
     "favorited_resources.custom_sections_banner_header": {
         "string": "自定义侧边栏"
     },
     "favorited_resources.custom_sections_nudge_body": {
-        "string": "让我们整理一下部分。将光标悬停在部分标题上，然后单击{ellipses}以重命名部分，单击{plus}以创建新部分。通过拖放项目，可以将其移动到不同的部分。"
+        "string": "让我们整理一下分区。将光标悬停在分区标题上，然后单击{ellipses}以重命名分区，单击{plus}以创建新分区。通过拖放项目，可以将其移动到不同的分区。"
     },
     "favorited_resources.custom_sections_nudge_header": {
         "string": "侧边栏是否有点拥挤？"
@@ -10878,7 +10878,7 @@
         "string": "已删除"
     },
     "file_browser.confirm_file_delete_modal.description_restore.seat_rename": {
-        "string": "拥有这些文件编辑访问权限的人以后可以从[{draftsText}]选项卡的[{deletedText}]部分恢复文件。"
+        "string": "拥有这些文件编辑访问权限的人以后可以从[{draftsText}]选项卡的[{deletedText}]分区恢复文件。"
     },
     "file_browser.confirm_file_delete_modal.drafts_tab": {
         "string": "草稿"
@@ -11061,7 +11061,7 @@
         "string": "您即将删除文件{fileName}。"
     },
     "file_browser.draft_delete_modal.you_can_access_drafts_from_deleted_drafts_section": {
-        "string": "稍后可以从[删除的草稿]部分访问{fileCount, plural, other {移动的草稿}}。"
+        "string": "稍后可以从[删除的草稿]分区访问{fileCount, plural, other {移动的草稿}}。"
     },
     "file_browser.draft_move_confirmation_modal.board": {
         "string": "看板"
@@ -13158,7 +13158,7 @@
         "string": "删除"
     },
     "sidebar.delete_section": {
-        "string": "删除部分"
+        "string": "删除分区"
     },
     "sidebar.design_file": {
         "string": "设计文件"
@@ -13233,7 +13233,7 @@
         "string": "新建项目"
     },
     "sidebar.new_section": {
-        "string": "新建部分"
+        "string": "新建分区"
     },
     "sidebar.new_slides_file": {
         "string": "新建幻灯片"
@@ -13254,7 +13254,7 @@
         "string": "重命名"
     },
     "sidebar.rename_section": {
-        "string": "重命名部分"
+        "string": "重命名分区"
     },
     "sidebar.share": {
         "string": "共享..."
@@ -13686,7 +13686,7 @@
         "string": "{intArg, number, integer}个文件已复制到您的草稿中"
     },
     "user_view.some_files_duplicated_to_your_drafts": {
-        "string": "部分文件已复制到您的草稿中"
+        "string": "分区文件已复制到您的草稿中"
     },
     "visual_bell.error_finding_destination_folder": {
         "string": "移动文件时，找到目标文件夹时发生错误。"
@@ -13944,7 +13944,7 @@
         "string": "圆角"
     },
     "first_draft.make_changes.prompts.add_another_section": {
-        "string": "再添加一个部分。内容是..."
+        "string": "再添加一个分区。内容是..."
     },
     "first_draft.make_changes.prompts.calming_colors": {
         "string": "替换为更平静的颜色"
@@ -14439,7 +14439,7 @@
         "string": "底部对齐"
     },
     "fullscreen_actions.align-bottom-to-frame": {
-        "string": "底部对齐到框架"
+        "string": "底部对齐到画框"
     },
     "fullscreen_actions.align-center": {
         "string": "居中对齐"
@@ -14448,31 +14448,31 @@
         "string": "水平居中对齐"
     },
     "fullscreen_actions.align-horizontal-center-to-frame": {
-        "string": "水平居中对齐到框架"
+        "string": "水平居中对齐到画框"
     },
     "fullscreen_actions.align-left": {
         "string": "左对齐"
     },
     "fullscreen_actions.align-left-to-frame": {
-        "string": "左对齐到框架"
+        "string": "左对齐到画框"
     },
     "fullscreen_actions.align-right": {
         "string": "右对齐"
     },
     "fullscreen_actions.align-right-to-frame": {
-        "string": "右对齐到框架"
+        "string": "右对齐到画框"
     },
     "fullscreen_actions.align-top": {
         "string": "顶部对齐"
     },
     "fullscreen_actions.align-top-to-frame": {
-        "string": "顶部对齐到框架"
+        "string": "顶部对齐到画框"
     },
     "fullscreen_actions.align-vertical-center": {
         "string": "垂直居中对齐"
     },
     "fullscreen_actions.align-vertical-center-to-frame": {
-        "string": "垂直居中对齐到框架"
+        "string": "垂直居中对齐到画框"
     },
     "fullscreen_actions.align_centers": {
         "string": "对齐中心"
@@ -14742,7 +14742,7 @@
         "string": "将选定图层光栅化"
     },
     "fullscreen_actions.convert-to-thumbnail-frame": {
-        "string": "转换为缩略图框架"
+        "string": "转换为缩略图画框"
     },
     "fullscreen_actions.convert_to_stickies": {
         "string": "转换为便签"
@@ -14790,7 +14790,7 @@
         "string": "复制到实例的链接"
     },
     "fullscreen_actions.copy-link-to-section": {
-        "string": "复制到部分的链接"
+        "string": "复制到分区的链接"
     },
     "fullscreen_actions.copy-link-to-shape": {
         "string": "复制到形状的链接"
@@ -14871,10 +14871,10 @@
         "string": "保存到版本历史..."
     },
     "fullscreen_actions.create-section": {
-        "string": "新建部分"
+        "string": "新建分区"
     },
     "fullscreen_actions.create-section-from-selection": {
-        "string": "用新部分包围"
+        "string": "用新分区包围"
     },
     "fullscreen_actions.create-slide": {
         "string": "新建幻灯片"
@@ -14967,7 +14967,7 @@
         "string": "删除所有自动布局"
     },
     "fullscreen_actions.destroy-all-auto-layout-result-visual-bell-toast": {
-        "string": "从{numAutoLayoutsRemoved, plural, other {{numAutoLayoutsRemoved}个框架中移除}}"
+        "string": "从{numAutoLayoutsRemoved, plural, other {{numAutoLayoutsRemoved}个画框中移除}}"
     },
     "fullscreen_actions.destroy-all-auto-layout-result-visual-bell-toast-zero": {
         "string": "未找到自动布局"
@@ -14991,7 +14991,7 @@
         "string": "开发"
     },
     "fullscreen_actions.disable-all-unframed-masks": {
-        "string": "禁用所有无框架蒙版"
+        "string": "禁用所有无画框蒙版"
     },
     "fullscreen_actions.disable-cursor-chat": {
         "string": "光标聊天已被组织禁用"
@@ -15153,7 +15153,7 @@
         "string": "切换多重编辑"
     },
     "fullscreen_actions.focus-mode-exit": {
-        "string": "退出框架聚焦"
+        "string": "退出画框聚焦"
     },
     "fullscreen_actions.focus-mode-responsive-set": {
         "string": "切换布局自动聚焦设置模式"
@@ -15177,10 +15177,10 @@
         "string": "强制从主分支更新"
     },
     "fullscreen_actions.frame-selection": {
-        "string": "框架化选择"
+        "string": "画框化选择"
     },
     "fullscreen_actions.frame_tool": {
-        "string": "框架工具"
+        "string": "画框工具"
     },
     "fullscreen_actions.get_desktop_app": {
         "string": "获取桌面应用"
@@ -15189,7 +15189,7 @@
         "string": "群组选择"
     },
     "fullscreen_actions.hide-section": {
-        "string": "隐藏部分"
+        "string": "隐藏分区"
     },
     "fullscreen_actions.hide-sibling-layers": {
         "string": "隐藏其他图层"
@@ -15210,7 +15210,7 @@
         "string": "忽略约束"
     },
     "fullscreen_actions.ignore_constraints_frames_only": {
-        "string": "裁剪（图像）/忽略约束（框架）"
+        "string": "裁剪（图像）/忽略约束（画框）"
     },
     "fullscreen_actions.import": {
         "string": "导入..."
@@ -15681,7 +15681,7 @@
         "string": "重新拼写检查"
     },
     "fullscreen_actions.reflow-immutable-frames": {
-        "string": "重新布局不可变框架"
+        "string": "重新布局不可变画框"
     },
     "fullscreen_actions.regenerate-all-instances": {
         "string": "重新生成所有实例（速度慢）"
@@ -15726,7 +15726,7 @@
         "string": "移除所有垂直指南"
     },
     "fullscreen_actions.rename-section": {
-        "string": "重命名部分"
+        "string": "重命名分区"
     },
     "fullscreen_actions.rename-selection": {
         "string": "重命名所选范围"
@@ -15750,10 +15750,10 @@
         "string": "修复变量模式值"
     },
     "fullscreen_actions.replace-selected-frame-with-section": {
-        "string": "转换为部分"
+        "string": "转换为分区"
     },
     "fullscreen_actions.replace-selected-section-with-frame": {
-        "string": "转换为框架"
+        "string": "转换为画框"
     },
     "fullscreen_actions.republish-auto-layout-components": {
         "string": "重新发布自动布局组件"
@@ -16008,7 +16008,7 @@
         "string": "橡皮擦"
     },
     "fullscreen_actions.set-tool-frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "fullscreen_actions.set-tool-hand": {
         "string": "抓手工具"
@@ -16050,7 +16050,7 @@
         "string": "缩放"
     },
     "fullscreen_actions.set-tool-section": {
-        "string": "部分"
+        "string": "分区"
     },
     "fullscreen_actions.set-tool-section-description": {
         "string": "整理面板。"
@@ -16371,7 +16371,7 @@
         "string": "打开原型面板"
     },
     "fullscreen_actions.show-section": {
-        "string": "显示部分"
+        "string": "显示分区"
     },
     "fullscreen_actions.show-sidebar": {
         "string": "显示左侧边栏"
@@ -16392,7 +16392,7 @@
         "string": "显示评论"
     },
     "fullscreen_actions.show_frame_outlines": {
-        "string": "显示框架轮廓"
+        "string": "显示画框轮廓"
     },
     "fullscreen_actions.show_layers": {
         "string": "显示图层"
@@ -16797,7 +16797,7 @@
         "string": "颜色选择器"
     },
     "fullscreen_actions.toggle-dynamic-insertion-points": {
-        "string": "切换拖动到自动布局框架时显示动态堆叠插入点"
+        "string": "切换拖动到自动布局画框时显示动态堆叠插入点"
     },
     "fullscreen_actions.toggle-fake-mp-activity": {
         "string": "显示虚假的多人活动工具"
@@ -16902,7 +16902,7 @@
         "string": "注释"
     },
     "fullscreen_actions.toggle-show-artboard-outlines": {
-        "string": "框架轮廓"
+        "string": "画框轮廓"
     },
     "fullscreen_actions.toggle-show-comments": {
         "string": "评论"
@@ -16926,7 +16926,7 @@
         "string": "显示GUID"
     },
     "fullscreen_actions.toggle-show-immutable-frame-sublayers": {
-        "string": "显示不可变框架的子图层"
+        "string": "显示不可变画框的子图层"
     },
     "fullscreen_actions.toggle-show-masks": {
         "string": "遮罩轮廓"
@@ -17451,7 +17451,7 @@
         "string": "绘制矩形、圆形和其他矢量形状。"
     },
     "help_on_hover.export_a_specific_part_of_your_design": {
-        "string": "导出设计的特定部分。"
+        "string": "导出设计的特定分区。"
     },
     "help_on_hover.group_related_designs_to_organize_your_canvas_for_collaborators": {
         "string": "将相关设计分组，以便为协作者整理画布。"
@@ -18222,7 +18222,7 @@
         "string": "FigJam节点"
     },
     "inspect_panel.node_type.frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "inspect_panel.node_type.group": {
         "string": "组"
@@ -18258,7 +18258,7 @@
         "string": "矩形"
     },
     "inspect_panel.node_type.section": {
-        "string": "部分"
+        "string": "分区"
     },
     "inspect_panel.node_type.slice": {
         "string": "切片"
@@ -18303,7 +18303,7 @@
         "string": "复制/粘贴选项->复制为代码"
     },
     "inspect_panel.properties.copy_code_hint_message": {
-        "string": "如果需要代码片段，请右键点击所选部分，然后选择{menu_path}"
+        "string": "如果需要代码片段，请右键点击所选分区，然后选择{menu_path}"
     },
     "inspect_panel.properties.dev_mode_upsell_message": {
         "string": "开发模式可以简化交接，加快检查速度，并与VS Code和Storybook等工具集成。"
@@ -18684,7 +18684,7 @@
         "string": "排除"
     },
     "layer_icon.tooltip.frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "layer_icon.tooltip.group": {
         "string": "组"
@@ -18726,7 +18726,7 @@
         "string": "矩形"
     },
     "layer_icon.tooltip.section": {
-        "string": "部分"
+        "string": "分区"
     },
     "layer_icon.tooltip.shape_with_text": {
         "string": "带文字的形状"
@@ -19062,13 +19062,13 @@
         "string": "正在运行..."
     },
     "magic_link.select_a_set_of_frames": {
-        "string": "请选择一组框架"
+        "string": "请选择一组画框"
     },
     "magic_link.select_a_set_of_layers": {
         "string": "请选择一组图层"
     },
     "magic_link.tlf_selection_too_large": {
-        "string": "选择的框架不能超过10个"
+        "string": "选择的画框不能超过10个"
     },
     "manage_memory_modal.imported_components": {
         "string": "导入的组件"
@@ -19827,7 +19827,7 @@
         "string": "为学校准备!"
     },
     "new_user_experience.what_do_you_do.cursor_chat.designer": {
-        "string": "跳出框架思考..."
+        "string": "跳出画框思考..."
     },
     "new_user_experience.what_do_you_do.cursor_chat.developer": {
         "string": "准备交接..."
@@ -23307,7 +23307,7 @@
         "string": "按工作区筛选搜索结果"
     },
     "workspace.create_confirmation_modal.description.list.section": {
-        "string": "侧边栏中的{workspace}部分"
+        "string": "侧边栏中的{workspace}分区"
     },
     "workspace.create_confirmation_modal.description.list.section.workspace": {
         "string": "工作区"
@@ -23571,25 +23571,25 @@
         "string": "付费席位的详细信息"
     },
     "confirm_account_change.grant_figjam_access_description.seat_rename": {
-        "string": "{numUsers, plural, other {将这些{numUsers}个席位升级为FigJam，将允许在草稿部分之外编辑和创建FigJam文件。}}"
+        "string": "{numUsers, plural, other {将这些{numUsers}个席位升级为FigJam，将允许在草稿分区之外编辑和创建FigJam文件。}}"
     },
     "confirm_account_change.grant_figjam_access_description_single.seat_rename": {
-        "string": "将{userName}升级为FigJam，将允许在草稿部分之外创建和编辑FigJam文件。"
+        "string": "将{userName}升级为FigJam，将允许在草稿分区之外创建和编辑FigJam文件。"
     },
     "confirm_account_change.grant_figjam_access_description_single_no_username.seat_rename": {
-        "string": "将此用户升级为FigJam，将允许在草稿部分之外创建和编辑FigJam文件。"
+        "string": "将此用户升级为FigJam，将允许在草稿分区之外创建和编辑FigJam文件。"
     },
     "confirm_account_change.grant_figjam_access_title.seat_rename": {
         "string": "{numUsers, plural, other {要升级这些FigJam席位吗?}}"
     },
     "confirm_account_change.grant_figma_design_access_description.seat_rename": {
-        "string": "{numUsers, plural, other {将这些{numUsers}个用户升级为Figma设计，将允许在草稿部分之外编辑和创建设计文件。}}"
+        "string": "{numUsers, plural, other {将这些{numUsers}个用户升级为Figma设计，将允许在草稿分区之外编辑和创建设计文件。}}"
     },
     "confirm_account_change.grant_figma_design_access_description_single.seat_rename": {
-        "string": "将{userName}升级为Figma设计，将允许在草稿部分之外创建和编辑设计文件。"
+        "string": "将{userName}升级为Figma设计，将允许在草稿分区之外创建和编辑设计文件。"
     },
     "confirm_account_change.grant_figma_design_access_description_single_no_username.seat_rename": {
-        "string": "将此用户升级为Figma设计，将允许在草稿部分之外创建和编辑设计文件。"
+        "string": "将此用户升级为Figma设计，将允许在草稿分区之外创建和编辑设计文件。"
     },
     "confirm_account_change.grant_figma_design_access_title.seat_rename": {
         "string": "{numUsers, plural, other {要升级这些Figma设计席位吗?}}"
@@ -23610,7 +23610,7 @@
         "string": "将此成员降级为{viewerRestricted}席位时:"
     },
     "confirm_account_change.remove_figjam_access_description_cant_edit_outside_drafts": {
-        "string": "将无法在草稿部分之外编辑或创建FigJam文件"
+        "string": "将无法在草稿分区之外编辑或创建FigJam文件"
     },
     "confirm_account_change.remove_figjam_access_description_cant_share_new_draft_files": {
         "string": "将无法共享新的FigJam草稿文件"
@@ -23622,7 +23622,7 @@
         "string": "{numUsers, plural, other {要降级这些FigJam席位吗?}}"
     },
     "confirm_account_change.remove_figma_design_access_description_cant_edit_outside_drafts": {
-        "string": "将无法在草稿部分之外编辑或创建设计文件"
+        "string": "将无法在草稿分区之外编辑或创建设计文件"
     },
     "confirm_account_change.remove_figma_design_access_description_cant_share_new_draft_files": {
         "string": "将无法共享新的设计草稿文件"
@@ -28377,10 +28377,10 @@
         "string": "椭圆"
     },
     "fullscreen.properties_panel.layer_header.node_type_frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "fullscreen.properties_panel.layer_header.node_type_frame_auto_layout": {
-        "string": "自动布局框架"
+        "string": "自动布局画框"
     },
     "fullscreen.properties_panel.layer_header.node_type_group": {
         "string": "组"
@@ -28401,7 +28401,7 @@
         "string": "矩形"
     },
     "fullscreen.properties_panel.layer_header.node_type_section": {
-        "string": "部分"
+        "string": "分区"
     },
     "fullscreen.properties_panel.layer_header.node_type_slice": {
         "string": "切片"
@@ -28620,7 +28620,7 @@
         "string": "响应式"
     },
     "inline_preview.overflow_menu.show_device_frame": {
-        "string": "显示设备框架"
+        "string": "显示设备画框"
     },
     "inline_preview.resize_to_actual_size_visual_bell": {
         "string": "预览已调整为实际大小"
@@ -29019,7 +29019,7 @@
         "string": "预览"
     },
     "proto.flows_panel.select_frame": {
-        "string": "选择框架"
+        "string": "选择画框"
     },
     "proto.frame_preset_panel.archive": {
         "string": "存档"
@@ -29040,7 +29040,7 @@
         "string": "适应"
     },
     "proto.frame_preset_panel.frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "proto.frame_preset_panel.missing": {
         "string": "(未找到)"
@@ -29274,7 +29274,7 @@
         "string": "重新启动原型"
     },
     "proto.mirror.select_a_frame_or_component_that_s_directly_on_the_canvas": {
-        "string": "请选择直接在画布上的框架或组件。"
+        "string": "请选择直接在画布上的画框或组件。"
     },
     "proto.mirror.send_sms": {
         "string": "发送短信"
@@ -29310,13 +29310,13 @@
         "string": "运行原型"
     },
     "proto.onboarding.select_a_frame_or_object_hint": {
-        "string": "选择一个框架或框架内的对象，然后使用圆形节点将连接拖到另一个框架上。"
+        "string": "选择一个画框或画框内的对象，然后使用圆形节点将连接拖到另一个画框上。"
     },
     "proto.onboarding.to_delete_a_connection_click_and_drag_on_either_end": {
         "string": "要删除连接，请点击并拖动任一端。"
     },
     "proto.onboarding.use_the_play_button_hint": {
-        "string": "使用工具栏中的播放按钮播放原型。如果没有连接，播放按钮将用于播放框架的演示。"
+        "string": "使用工具栏中的播放按钮播放原型。如果没有连接，播放按钮将用于播放画框的演示。"
     },
     "proto.open_url.text_input_label": {
         "string": "链接"
@@ -29382,7 +29382,7 @@
         "string": "自动播放"
     },
     "proto.prototype_panel.content_needs_to_be_bigger_than_the_frame_tooltip": {
-        "string": "要使滚动在此框架中正常工作，内容需要大于框架。"
+        "string": "要使滚动在此画框中正常工作，内容需要大于画框。"
     },
     "proto.prototype_panel.create_action_button": {
         "string": "创建操作按钮"
@@ -29571,7 +29571,7 @@
         "string": "重置交互"
     },
     "proto.prototype_panel.select_the_frame_your_prototype_will_begin_with_tooltip": {
-        "string": "选择原型开始的框架。"
+        "string": "选择原型开始的画框。"
     },
     "proto.prototype_panel.sound": {
         "string": "有声"
@@ -29583,7 +29583,7 @@
         "string": "由于实例上的交互在继承的内部交互之前触发，此交互将不会被触发。"
     },
     "proto.prototype_panel.use_the_circular_node_to_connect_the_selected_object_to_another_frame_tooltip": {
-        "string": "使用圆形节点将选定的对象连接到另一个框架。"
+        "string": "使用圆形节点将选定的对象连接到另一个画框。"
     },
     "proto.prototype_panel.video": {
         "string": "视频"
@@ -29721,7 +29721,7 @@
         "string": "更多信息"
     },
     "proto.state_management.info_tooltip": {
-        "string": "当顶层框架的名称相同或前缀匹配时，{PreserveScrollPositionBold}将自动应用。"
+        "string": "当顶层画框的名称相同或前缀匹配时，{PreserveScrollPositionBold}将自动应用。"
     },
     "proto.state_management.info_tooltip_learn_more": {
         "string": "更多信息"
@@ -29757,10 +29757,10 @@
         "string": "演示文稿至少需要一张幻灯片。"
     },
     "proto.status_messages.a_prototype_needs_to_have_at_least_one_frame": {
-        "string": "原型至少需要一个框架。"
+        "string": "原型至少需要一个画框。"
     },
     "proto.status_messages.a_prototype_with_connections_needs_a_valid_top_level_frame_as_the_origin": {
-        "string": "具有连接的原型需要一个有效的顶层框架作为起点。"
+        "string": "具有连接的原型需要一个有效的顶层画框作为起点。"
     },
     "proto.target_video_node_name_formatter.this_video": {
         "string": "此视频"
@@ -30042,7 +30042,7 @@
         "string": "固定大小"
     },
     "viewer.options_menu.frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "viewer.options_menu.group": {
         "string": "组"
@@ -30051,7 +30051,7 @@
         "string": "隐藏UI"
     },
     "viewer.options_menu.load_all_frames": {
-        "string": "加载所有框架"
+        "string": "加载所有画框"
     },
     "viewer.options_menu.load_all_slides": {
         "string": "加载所有幻灯片"
@@ -30069,10 +30069,10 @@
         "string": "响应式"
     },
     "viewer.options_menu.section": {
-        "string": "部分"
+        "string": "分区"
     },
     "viewer.options_menu.show_device_frame": {
-        "string": "显示设备框架"
+        "string": "显示设备画框"
     },
     "viewer.options_menu.show_hints_on_click": {
         "string": "点击显示提示"
@@ -30690,7 +30690,7 @@
         "string": "无论连接的是哪个网络，镜像应用程序都会即时更新，无需通过USB连接。"
     },
     "rcs.live_device_preview.to_view_your_frames_live_on_your_device_just_download_figma_mirror": {
-        "string": "要在设备上实时查看您的框架，只需在{linkToIOS}或{linkToAndroid}设备上下载Figma Mirror。"
+        "string": "要在设备上实时查看您的画框，只需在{linkToIOS}或{linkToAndroid}设备上下载Figma Mirror。"
     },
     "rcs.mindmaps_onboarding_step1.description": {
         "string": "使用思维导图，可以快速描绘出想法，并解释它们之间的联系。"
@@ -31107,7 +31107,7 @@
         "string": "组件"
     },
     "canvas_search.filter.frame_or_group": {
-        "string": "框架/组"
+        "string": "画框/组"
     },
     "canvas_search.filter.image": {
         "string": "图像"
@@ -32619,7 +32619,7 @@
         "string": "角平滑"
     },
     "sites.lint.styles/autolayout-baseline-alignment": {
-        "string": "文本设置为基线对齐的自动文本。对齐的文本图层之一嵌套在框架内"
+        "string": "文本设置为基线对齐的自动文本。对齐的文本图层之一嵌套在画框内"
     },
     "sites.lint.styles/diamond-gradient-fills": {
         "string": "包含变换的钻石渐变"
@@ -32658,10 +32658,10 @@
         "string": "上下修剪"
     },
     "sites.lint.use-frame-rectangle-vector-gradient": {
-        "string": "使用包含渐变的框架、矩形或矢量形状"
+        "string": "使用包含渐变的画框、矩形或矢量形状"
     },
     "sites.lint.use-frame-rectangle-vector-image": {
-        "string": "使用包含图像的框架、矩形或矢量形状"
+        "string": "使用包含图像的画框、矩形或矢量形状"
     },
     "sites.lint.use-multiply": {
         "string": "使用正片叠底"
@@ -33087,7 +33087,7 @@
         "string": "相对"
     },
     "sites.panel.position_panel.relative_disabled": {
-        "string": "只能应用于自动布局框架中的图层。"
+        "string": "只能应用于自动布局画框中的图层。"
     },
     "sites.panel.position_panel.right": {
         "string": "右"
@@ -33633,7 +33633,7 @@
         "string": "原型"
     },
     "slides.properties_panel.embeddable_prototype.device_frame_label": {
-        "string": "设备框架"
+        "string": "设备画框"
     },
     "slides.properties_panel.embeddable_prototype.flow_label": {
         "string": "流程"
@@ -34341,7 +34341,7 @@
         "string": "移除最小宽度"
     },
     "fullscreen.properties_panel.stack_panel.msal_crated_frames_count": {
-        "string": "已创建{count}个自动布局框架"
+        "string": "已创建{count}个自动布局画框"
     },
     "fullscreen.properties_panel.stack_panel.new_auto_layout_version_available": {
         "string": "新版本的自动布局可用"
@@ -34350,7 +34350,7 @@
         "string": "仅适用于水平布局"
     },
     "categories.navbar.wireframes.subtitle": {
-        "string": "使用低保真框架探索初步想法"
+        "string": "使用低保真画框探索初步想法"
     },
     "categories.plugins": {
         "string": "插件"
@@ -35016,10 +35016,10 @@
         "string": "更改"
     },
     "team_view.change_to_editor_design_description.seat_rename": {
-        "string": "{numMembers, plural, other {升级这{numMembers}名用户为Figma设计编辑者，将允许他们在团队的“草稿”部分之外编辑和创建设计文件。}}"
+        "string": "{numMembers, plural, other {升级这{numMembers}名用户为Figma设计编辑者，将允许他们在团队的“草稿”分区之外编辑和创建设计文件。}}"
     },
     "team_view.change_to_editor_figjam_description.seat_rename": {
-        "string": "{numMembers, plural, other {升级这{numMembers}名用户为FigJam编辑者，将允许他们在团队的“草稿”部分之外编辑和创建FigJam文件。}}"
+        "string": "{numMembers, plural, other {升级这{numMembers}名用户为FigJam编辑者，将允许他们在团队的“草稿”分区之外编辑和创建FigJam文件。}}"
     },
     "team_view.downgrade_design_access_from_viewer_to_viewer_restricted": {
         "string": "将Figma设计的查看权限更改为受限查看吗？"
@@ -36429,7 +36429,7 @@
         "string": "Ctrl"
     },
     "tooltips_plus_onboarding.design_panel.description": {
-        "string": "调整框架的尺寸、角半径、填充等。"
+        "string": "调整画框的尺寸、角半径、填充等。"
     },
     "tooltips_plus_onboarding.design_panel.title": {
         "string": "更改属性"
@@ -36456,16 +36456,16 @@
         "string": "下一步"
     },
     "tooltips_plus_onboarding.next_take_some_time_to_adjust_your_frames_size": {
-        "string": "接下来，花点时间调整框架的大小、角半径和填充等。"
+        "string": "接下来，花点时间调整画框的大小、角半径和填充等。"
     },
     "tooltips_plus_onboarding.no_nav_frames_description": {
-        "string": "要绘制框架，请点击并拖动画布上的空白区域。框架是设计的容器，也可用于绘制UI元素。"
+        "string": "要绘制画框，请点击并拖动画布上的空白区域。画框是设计的容器，也可用于绘制UI元素。"
     },
     "tooltips_plus_onboarding.no_nav_frames_get_started_with_a_frame": {
-        "string": "开始使用框架"
+        "string": "开始使用画框"
     },
     "tooltips_plus_onboarding.outro.description": {
-        "string": "框架、文本、设计面板：掌握这些基础知识，您就可以开始第一个项目了。"
+        "string": "画框、文本、设计面板：掌握这些基础知识，您就可以开始第一个项目了。"
     },
     "tooltips_plus_onboarding.outro.practice_more_btn": {
         "string": "继续在这里练习"
@@ -36486,7 +36486,7 @@
         "string": "利用模板"
     },
     "tooltips_plus_onboarding.presets_frame_step.title": {
-        "string": "或者，从框架开始"
+        "string": "或者，从画框开始"
     },
     "tooltips_plus_onboarding.presets_step.description": {
         "string": "首先使用模板，然后再进行自定义设计。"
@@ -36516,7 +36516,7 @@
         "string": "使用“排版”部分和“填充”部分来更改文本的字体、大小、粗细、颜色等。"
     },
     "tooltips_plus_onboarding.text_step.description": {
-        "string": "点击框架内部并开始输入文本，将创建一个文本图层。"
+        "string": "点击画框内部并开始输入文本，将创建一个文本图层。"
     },
     "tooltips_plus_onboarding.text_step.title": {
         "string": "使用工具栏添加文本图层"
@@ -37554,7 +37554,7 @@
         "string": "更多代码生成语言"
     },
     "plan_comparison.chart.dev_mode.compare_changes.details": {
-        "string": "比较框架的各个版本，以快速查看更改。"
+        "string": "比较画框的各个版本，以快速查看更改。"
     },
     "plan_comparison.chart.dev_mode.compare_changes.name": {
         "string": "比较更改"
@@ -38916,7 +38916,7 @@
         "string": "字体粗细或样式"
     },
     "variables.scopes.frame_fill": {
-        "string": "框架填充"
+        "string": "画框填充"
     },
     "variables.scopes.gap": {
         "string": "间距"
@@ -41355,7 +41355,7 @@
         "string": "整理白板。"
     },
     "whiteboard.inserts.section_title": {
-        "string": "部分"
+        "string": "分区"
     },
     "whiteboard.inserts.see_all": {
         "string": "查看全部"
@@ -41931,10 +41931,10 @@
         "string": "添加"
     },
     "agenda.cta_add_suggestions": {
-        "string": "添加1个部分"
+        "string": "添加1个分区"
     },
     "agenda.cta_add_suggestions_plural": {
-        "string": "添加{num}个部分"
+        "string": "添加{num}个分区"
     },
     "agenda.current_item_flag_text": {
         "string": "当前"
@@ -42618,7 +42618,7 @@
         "string": "该组件已被删除"
     },
     "collaboration.branching_from_source.this_frame_was_removed": {
-        "string": "该框架已被删除"
+        "string": "该画框已被删除"
     },
     "collaboration.branching_from_source.this_layer_was_removed": {
         "string": "该图层已被删除"
@@ -42999,7 +42999,7 @@
         "string": "从课程计划到课外活动，提供广泛的教育模板，适合个人或课堂使用。"
     },
     "categories.file_organization_subheader": {
-        "string": "通过设计文档模板、部分排序器等文件组织工具提升工作流程。"
+        "string": "通过设计文档模板、分区排序器等文件组织工具提升工作流程。"
     },
     "categories.fonts_typography_subheader": {
         "string": "提供多种排版模板和工具，适用于下一个网站、演示文稿或设计项目的印刷。"
@@ -43503,13 +43503,13 @@
         "string": "更改为实际尺寸(100%)"
     },
     "inline_preview.overflow_menu.follow_active_frame": {
-        "string": "跟随活动框架"
+        "string": "跟随活动画框"
     },
     "inline_preview.overflow_menu.resize_to_aspect_ratio": {
         "string": "调整为纵横比"
     },
     "proto.prototype_panel.a_prototype_needs_to_have_at_least_one_frame_tooltip": {
-        "string": "原型至少需要一个框架。"
+        "string": "原型至少需要一个画框。"
     },
     "viewer.options_menu.disable_default_keyboard_navigation": {
         "string": "启用Figma键盘快捷键"
@@ -44247,7 +44247,7 @@
         "string": "虚线模式"
     },
     "collaboration.branching_node_treatments.property.derived_immutable_frame_data": {
-        "string": "派生不可变框架数据"
+        "string": "派生不可变画框数据"
     },
     "collaboration.branching_node_treatments.property.description": {
         "string": "描述"
@@ -44865,7 +44865,7 @@
         "string": "探索旨在改善沟通和提高生产力的付费和免费会议议程模板集合。无论您是在计划每周的团队会议、项目更新还是头脑风暴会议，我们的模板都提供了一个结构化的框架，以确保每次会议都井然有序且高效。为您的团队提供他们所需的工具，以便有效合作并实现目标。立即发现我们精选的免费会议议程模板。模板根据创建者的选择，可以免费或付费。"
     },
     "community.community_category_v2.level_up_your_workflow_with_file_organization_tools_like_design_documentation_templates_section_sorters_and_more": {
-        "string": "使用设计文档模板、部分排序器等文件组织工具提升您的工作流程。"
+        "string": "使用设计文档模板、分区排序器等文件组织工具提升您的工作流程。"
     },
     "community.community_category_v2.from_managing_style_guides_to_streamlining_design_production_organization_tools_help_you_to_stay_organized_and_focused_on_creating_remarkable_designs_explore_now_and_streamline_your_workflow_with_file_organization_tools_resources_are_paid_or_free_per_creator_choice": {
         "string": "从管理样式指南到简化设计生产，组织工具帮助您保持井然有序并专注于创建出色的设计。立即探索并使用文件组织工具简化您的工作流程。资源根据创建者的选择，可以免费或付费。"
@@ -45114,7 +45114,7 @@
         "string": "缩放"
     },
     "collaboration.branching_node_treatments.property.section_contents_hidden": {
-        "string": "隐藏部分内容"
+        "string": "隐藏分区内容"
     },
     "collaboration.branching_node_treatments.property.shape_truncates": {
         "string": "形状截断"
@@ -45471,7 +45471,7 @@
         "string": "椭圆"
     },
     "collaboration.branching_node_treatments.value.node_type.frame": {
-        "string": "框架"
+        "string": "画框"
     },
     "collaboration.branching_node_treatments.value.node_type.group": {
         "string": "组"
@@ -45510,10 +45510,10 @@
         "string": "圆角矩形"
     },
     "collaboration.branching_node_treatments.value.node_type.section": {
-        "string": "部分"
+        "string": "分区"
     },
     "collaboration.branching_node_treatments.value.node_type.section_overlay": {
-        "string": "部分覆盖"
+        "string": "分区覆盖"
     },
     "collaboration.branching_node_treatments.value.node_type.shape_with_text": {
         "string": "带文本的形状"
@@ -45867,7 +45867,7 @@
         "string": "无法加载更改，请重新加载文件并重试。"
     },
     "collaboration.feedback.compare_changes_modal.frame_created": {
-        "string": "创建框架"
+        "string": "创建画框"
     },
     "collaboration.feedback.compare_changes_modal.header": {
         "string": "比较更改"
@@ -45894,7 +45894,7 @@
         "string": "未找到图像"
     },
     "collaboration.feedback.compare_changes_modal.section_created": {
-        "string": "已创建部分"
+        "string": "已创建分区"
     },
     "collaboration.feedback.compare_changes_modal.select_a_layer": {
         "string": "选择一个已编辑的图层以查看更改"
@@ -46053,10 +46053,10 @@
         "string": "添加评论"
     },
     "fig_feed.add_frames": {
-        "string": "从其中一个Figma文件中添加框架。"
+        "string": "从其中一个Figma文件中添加画框。"
     },
     "fig_feed.add_frames_from_this_figma_file": {
-        "string": "从此Figma文件中添加框架。"
+        "string": "从此Figma文件中添加画框。"
     },
     "fig_feed.add_images_or_videos": {
         "string": "从设备添加图片或视频。"
@@ -46092,7 +46092,7 @@
         "string": "选择文件"
     },
     "fig_feed.choose_frames": {
-        "string": "选择框架"
+        "string": "选择画框"
     },
     "fig_feed.come_back_later_for_more_posts": {
         "string": "稍后查看更多帖子详情"
@@ -46236,7 +46236,7 @@
         "string": "新帖子"
     },
     "fig_feed.no_frames_matching": {
-        "string": "没有与{searchQuery}匹配的框架"
+        "string": "没有与{searchQuery}匹配的画框"
     },
     "fig_feed.no_matching_results": {
         "string": "没有匹配的结果"
@@ -46248,7 +46248,7 @@
         "string": "没有可以显示的内容"
     },
     "fig_feed.no_top_level_nodes": {
-        "string": "没有顶级部分或框架"
+        "string": "没有顶级分区或画框"
     },
     "fig_feed.num_comments": {
         "string": "{numComments, plural, other {{numComments}条评论}}"
@@ -46320,7 +46320,7 @@
         "string": "搜索文件"
     },
     "fig_feed.search_frames": {
-        "string": "搜索框架"
+        "string": "搜索画框"
     },
     "fig_feed.secret_team_tooltip": {
         "string": "此帖子仅对{containerName}的成员可见"
@@ -51945,7 +51945,7 @@
         "string": "评论现在在我们的应用中可见"
     },
     "cursor_bot.a_frame_will_hold_the_rest_of_your_design": {
-        "string": "框架就像一个容器，能容纳你的设计元素。此外，还可以像框和按钮一样用于绘制矩形UI。"
+        "string": "画框就像一个容器，能容纳你的设计元素。此外，还可以像框和按钮一样用于绘制矩形UI。"
     },
     "cursor_bot.add_words_where_needed": {
         "string": "在需要的地方添加文字"
@@ -52131,7 +52131,7 @@
         "string": "浏览库…"
     },
     "design_systems.assets_panel.frames": {
-        "string": "框架"
+        "string": "画框"
     },
     "design_systems.assets_panel.go_to_library": {
         "string": "前往库"
@@ -52506,7 +52506,7 @@
         "string": "此图层从组件中提取，包含此属性。"
     },
     "design_systems.component_properties.unpublished_preferred_values": {
-        "string": "部分优先值未发布，因此实例中不可见。"
+        "string": "分区优先值未发布，因此实例中不可见。"
     },
     "design_systems.component_properties.values": {
         "string": "值"
@@ -53412,7 +53412,7 @@
         "string": "无法在离线状态下取消发布"
     },
     "design_systems.publish_actions.payload_too_large": {
-        "string": "页面、框架或资产名称过长。请使用较短的名称重试。"
+        "string": "页面、画框或资产名称过长。请使用较短的名称重试。"
     },
     "design_systems.publish_actions.publish_error": {
         "string": "无法发布{numSkipped}项更改到团队库"
@@ -54201,7 +54201,7 @@
         "string": "查看所有页面"
     },
     "desktop_bindings.interstitial.frame_link_copied": {
-        "string": "框架链接已复制到剪贴板"
+        "string": "画框链接已复制到剪贴板"
     },
     "desktop_bindings.interstitial.page_link_copied": {
         "string": "页面链接已复制到剪贴板"
