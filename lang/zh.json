@@ -15138,7 +15138,7 @@
         "string": "转到主组件"
     },
     "fullscreen_actions.flatten-selection": {
-        "string": "扁平化选区"
+        "string": "拼合所选项"
     },
     "fullscreen_actions.flip-horizontal": {
         "string": "水平翻转"
@@ -15243,16 +15243,16 @@
         "string": "链接已复制"
     },
     "fullscreen_actions.live-boolean-intersect": {
-        "string": "交叉选择"
+        "string": "交集所选项"
     },
     "fullscreen_actions.live-boolean-subtract": {
-        "string": "减去选择"
+        "string": "减去顶层所选项"
     },
     "fullscreen_actions.live-boolean-union": {
-        "string": "联合选择"
+        "string": "连集所选项"
     },
     "fullscreen_actions.live-boolean-xor": {
-        "string": "异或选择"
+        "string": "差集所选项"
     },
     "fullscreen_actions.main-component": {
         "string": "主组件"
@@ -18267,7 +18267,7 @@
         "string": "星形"
     },
     "inspect_panel.node_type.subtract": {
-        "string": "减去"
+        "string": "减去顶层"
     },
     "inspect_panel.node_type.table": {
         "string": "表格"
@@ -18276,7 +18276,7 @@
         "string": "文本"
     },
     "inspect_panel.node_type.union": {
-        "string": "联合"
+        "string": "连集"
     },
     "inspect_panel.node_type.vector": {
         "string": "矢量"
@@ -18747,7 +18747,7 @@
         "string": "便签"
     },
     "layer_icon.tooltip.subtract": {
-        "string": "减去"
+        "string": "减去顶层"
     },
     "layer_icon.tooltip.table": {
         "string": "表格"
@@ -18759,7 +18759,7 @@
         "string": "文本"
     },
     "layer_icon.tooltip.union": {
-        "string": "联合"
+        "string": "连集"
     },
     "layer_icon.tooltip.variant": {
         "string": "变体"
