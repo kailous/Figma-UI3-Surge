@@ -54457,5 +54457,1736 @@
     },
     "community.community_category_v2.kickstart_your_designs_with_our_collection_of_prebuilt_template_libraries_from_ui_components_to_icon_sets_all_our_libraries_are_are_fully_customizable_templates_ready_to_plug_in_to_your_designs_use_them_to_make_sleek_interfaces_or_eyecatching_graphics_big_projects_and_design_systems_or_small_visuals_templates_are_paid_or_free_per_template_creator_choice_whether_youre_a_seasoned_designer_or_just_starting_out_our_collection_provides_the_tools_you_need_to_bring_your_vision_to_life": {
         "string": "使用我们预构建的模板库集合来启动您的设计。从UI组件到图标集，我们的所有模板都可以完全自定义，可以直接插入到您的设计中。无论是大型项目和设计系统，还是小型视觉元素，都可以使用它们制作出精致的界面或引人注目的图形。模板由创建者选择，可以免费或付费提供。无论您是经验丰富的设计师还是刚刚起步，我们的集合都提供了将您的愿景变为现实所需的工具。"
+    },
+    "dev_handoff.figmadocs.error_child_layer_not_found": {
+        "string": "在选定的组件/变体中未找到名为 \"{layerName}\" 的子图层"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_component": {
+        "string": "代码组件"
+    },
+    "resources_tab.libraries.changing_permissions_warning_v2": {
+        "string": "当您默认启用一个库时，{orgName} 的任何人都可以发现并查看它。"
+    },
+    "community.footer.calendar_templates": {
+        "string": "日历模板"
+    },
+    "fullscreen.dev_mode_starter_trial_upsell_modal.description": {
+        "string": "如果您喜欢 Figma 的开发工具，请升级以将开发模式添加到您团队的计划中。"
+    },
+    "file_browser.starter_limit.slides.tooltip": {
+        "string": "演示文稿和幻灯片"
+    },
+    "fullscreen.export.renaming_layers": {
+        "string": "正在重命名图层…"
+    },
+    "slides.general.copy_current_page_to_figma_slides": {
+        "string": "将当前页面复制到 Figma Slides…"
+    },
+    "slides.template.file_picker.ai_disabled.team": {
+        "string": "此板属于已禁用 AI 的团队。"
+    },
+    "locked_team.card.move_projects": {
+        "string": "{numProjects, plural, one {移动 {numProjects} 个项目} other {移动 {numProjects} 个项目}}"
+    },
+    "in_product_help_and_learning.popular_resources.video_tutorials.title": {
+        "string": "视频教程"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.left_and_right_truncated": {
+        "string": "左 + 右"
+    },
+    "fullscreen_actions.image-to-design": {
+        "string": "将图像转换为设计"
+    },
+    "first_draft.make_kit.componentize_step.running": {
+        "string": "正在组件化…"
+    },
+    "file_browser.tool_bar.trashed_empty_state": {
+        "string": "您没有任何已删除的文件。"
+    },
+    "assistant.chat.suggestion.coming_soon": {
+        "string": "即将推出"
+    },
+    "type_settings.decoration.skip_ink": {
+        "string": "跳过墨水"
+    },
+    "activity_log.enabled_mfa_required_for_guests": {
+        "string": "已为访客启用 2FA"
+    },
+    "locked_team.card.move_figma_design_files": {
+        "string": "{numDesignFiles, plural, one {移动 {numDesignFiles} 个 Figma 设计文件} other {移动 {numDesignFiles} 个 Figma 设计文件}}"
+    },
+    "dev_handoff.paywall.toggle_disabled_viewer_details": {
+        "string": "此文件需要移动到您拥有开发模式访问权限的付费团队。"
+    },
+    "design_systems.libraries_modal.recommended": {
+        "string": "推荐"
+    },
+    "fullscreen_actions.set_as_favicon": {
+        "string": "设为网站图标"
+    },
+    "type_settings.decoration.skip_ink_off": {
+        "string": "关闭跳过墨水"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.top_plus_bottom": {
+        "string": "上 + 下"
+    },
+    "domain_management.remove_domain_modal.modal_body_title": {
+        "string": "{domainCount, plural, one {您确定要移除此域吗？} other {您确定要移除这些域吗？}}"
+    },
+    "in_product_help_and_learning.more_help_resources.section_title": {
+        "string": "更多帮助资源"
+    },
+    "starting_points.mobile_app": {
+        "string": "移动应用"
+    },
+    "layer_icon.tooltip.code_component": {
+        "string": "代码组件"
+    },
+    "file_browser.starter_limit.slides": {
+        "string": "幻灯片"
+    },
+    "design_systems.instance_panel.local_instance": {
+        "string": "本地实例"
+    },
+    "file_browser.file_move.you_need_edit_access_to_project_name_to_move_this_file": {
+        "string": "要移动此文件，您需要被授予对 {projectName} 的编辑权限。"
+    },
+    "design_systems.libraries_modal.added_by_admin": {
+        "string": "由 {groupName} 管理员添加"
+    },
+    "slides.visual_bell.we_wont_ask_you_again": {
+        "string": "我们不会再次询问您"
+    },
+    "member_flyout_modal.billing_section_heading": {
+        "string": "计费"
+    },
+    "fullscreen.pages_panel.more_pages_actions": {
+        "string": "更多操作"
+    },
+    "fullscreen_actions.quick_actions.make-living-design": {
+        "string": "赋予生命"
+    },
+    "variables.invalid.less_than_one": {
+        "string": "必须 >= 1"
+    },
+    "assistant.chat.tool_result.feature_request": {
+        "string": "功能请求已提交"
+    },
+    "feature_flag_overrides.waiting_for_changes_to_propagate": {
+        "string": "您的标志更改已成功！请等待 30 秒以使更改生效，然后再重新加载…"
+    },
+    "slides.properties_panel.theme.name": {
+        "string": "名称"
+    },
+    "banner.orphaned_projects.move_to_project.member": {
+        "string": "请向任何 {orgName} 管理员请求将其移动到不同的项目中。"
+    },
+    "asset_transfers.handle_request_modal.you_will_see_this_project_in_your_team_and_can_edit_its_settings_description_and_more_at_any_time": {
+        "string": "您将在您的团队中看到此项目，您可以随时编辑其设置、描述等。"
+    },
+    "asset_transfers.handle_request_modal.accept_this_transfer": {
+        "string": "接受此转移"
+    },
+    "in_product_help_and_learning.popular_resources.design_your_first_button.title": {
+        "string": "设计您的第一个按钮"
+    },
+    "fullscreen.error.generic_panel_error_desktop": {
+        "string": "属性面板出现问题，我们已记录此问题。请尝试重新加载选项卡以恢复正常。"
+    },
+    "whiteboard.inline_menu.remove_background": {
+        "string": "移除背景"
+    },
+    "design_systems.instance_swap_picker.settings": {
+        "string": "设置"
+    },
+    "design_systems.publishing_modal.everyone_at_org": {
+        "string": "{orgName} 的所有人（组织）"
+    },
+    "bindings.new_local_font_visual_bell_single": {
+        "string": "新可用字体：{firstFont}"
+    },
+    "proto.preload.loading.tooltip.body": {
+        "string": "保持此选项卡打开——关闭它将停止您的下载"
+    },
+    "first_draft.make_kit.add_props_step.add_props_button": {
+        "string": "添加属性"
+    },
+    "slides.onboarding.ten_release.see_whats_new": {
+        "string": "查看新内容"
+    },
+    "in_product_help_and_learning.popular_resources.explore_more_features.description": {
+        "string": "使用自动布局和其他功能更快地设计。"
+    },
+    "viewer_restricted_tooltip.you_recently_shared_this_draft": {
+        "string": "您最近共享了此草稿，但 {fileOpenerName} 和其他人无法协作，除非您拥有付费席位。"
+    },
+    "fullscreen.properties_panel.cooper_export": {
+        "string": "导出"
+    },
+    "fullscreen.dev_mode_starter_trial_upsell_modal.secondary_cta_text": {
+        "string": "前往开发模式"
+    },
+    "fullscreen.canvas.auto_layout_fill_with_value_v2": {
+        "string": "{value} 填充"
+    },
+    "dev_handoff.code.hints.swift_ui_background_blur": {
+        "string": "此模糊效果应用于背景图像。"
+    },
+    "starting_points.what_do_you_want_to_make_today": {
+        "string": "您今天想做什么？"
+    },
+    "design_systems.libraries_modal.your_workspace": {
+        "string": "您的工作区"
+    },
+    "slides.template.file_picker.ai_disabled.org": {
+        "string": "此板位于已禁用 AI 的组织中。"
+    },
+    "abandoned_drafts_table.restore": {
+        "string": "恢复"
+    },
+    "fullscreen.type_panel.underline_offset": {
+        "string": "下划线偏移"
+    },
+    "type_settings.explicit_text_layout_update_tooltip": {
+        "string": "要使用 Figma 的最新文本布局，需要更新旧文本。\n\n某些文本可能会有可见的变化。"
+    },
+    "slides.properties_panel.rewrite_text.tone_presets": {
+        "string": "语气预设"
+    },
+    "fullscreen.toolbar.multiplayer.currently_viewing_users": {
+        "string": "当前查看的用户"
+    },
+    "fullscreen_actions.create-slides-outline-from-figjam": {
+        "string": "创建 Figma Slides 大纲"
+    },
+    "first_draft.link_component.link_button": {
+        "string": "链接"
+    },
+    "fullscreen_actions.slides-generate-speaker-notes": {
+        "string": "生成演讲者备注"
+    },
+    "collaboration.branching_node_treatments.property.text_decoration_thickness": {
+        "string": "文本装饰粗细"
+    },
+    "design_systems.libraries_modal.default_libraries_set_by_admins": {
+        "string": "由您的管理员设置的默认库"
+    },
+    "slides.properties_panel.rewrite_text.error.no_text_characters_found": {
+        "string": "无法更改数字或特殊字符的语气"
+    },
+    "abandoned_drafts_table.files.search.placeholder": {
+        "string": "搜索文件…"
+    },
+    "slides.templates.wizard.entry_point.title": {
+        "string": "创建模板"
+    },
+    "members_table.badge_label.blocked.description": {
+        "string": "访客可以启用 2FA 来解锁他们的账户。"
+    },
+    "slides.template.file_picker.viewer_export_restricted_disabled": {
+        "string": "此白板不允许查看者共享"
+    },
+    "assistant.chat.suggestion.request_feature": {
+        "string": "请求功能"
+    },
+    "design_systems.publishing_modal.everyone_at_workspace": {
+        "string": "工作区的所有人 {workspaceName}（工作区）"
+    },
+    "asset_transfers.handle_request_modal.the_project_will_transfer_along_with_its_current_files_but_with_no_members": {
+        "string": "项目将连同其当前文件一起复制。当您接受时，您将成为唯一的项目成员——来自 {sourceOrgOrTeam} 的原始项目成员都不会成为项目的一部分。"
+    },
+    "fullscreen.filename_view.dev_mode_trial": {
+        "string": "开发模式试用"
+    },
+    "universal_insert.locate_missing_manifest": {
+        "string": "定位缺失的清单"
+    },
+    "viewer_restricted_tooltip.request_upgrade": {
+        "string": "请求升级"
+    },
+    "fullscreen.filename_view.trash": {
+        "string": "回收站…"
+    },
+    "domain_management.remove_domain_modal.modal_body_text_with_mfa": {
+        "string": "{domainCount, plural, one {来自此域的所有成员将成为访客，除非他们启用 MFA，否则将无法查看您的组织内容。} other {来自这些域的所有成员将成为访客，除非他们启用 MFA，否则将无法查看您的组织内容。}}"
+    },
+    "slides.properties_panel.rewrite_text.tone_casual_expanded": {
+        "string": "随意且详细"
+    },
+    "starting_points.learn_the_basics": {
+        "string": "学习基础知识"
+    },
+    "mfa_required_modal.subtitle": {
+        "string": "设置 2FA 以使用此账户访问 {orgName} 的文件。"
+    },
+    "permissions.error_vr_move_drafts_into_project": {
+        "string": "受限查看者无法将文件从草稿移动到项目"
+    },
+    "file_browser.file_move.upgrade_seat_to_move_out_of_drafts": {
+        "string": "要将文件移出您的草稿，请要求您的管理员将您升级到付费席位。"
+    },
+    "abandoned_drafts_table.open": {
+        "string": "打开"
+    },
+    "org_admin_tab.people": {
+        "string": "人员"
+    },
+    "design_systems.libraries_modal.filter": {
+        "string": "过滤器"
+    },
+    "error.gone": {
+        "string": "已删除。"
+    },
+    "admin_settings.sidebar.back_to_files": {
+        "string": "返回文件"
+    },
+    "asset_transfers.request_modal.once_an_admin_accepts_a_copy_of_the_project_will_be_transferred": {
+        "string": "一旦管理员接受，项目的副本将被转移。"
+    },
+    "lab.sites_smart_animate": {
+        "string": "网站：智能动画"
+    },
+    "member_flyout_modal.remove_from_plan": {
+        "string": "从 {planName} 中移除"
+    },
+    "community.preset_modal.use_ui_kit_in_a_new_file": {
+        "string": "在新文件中使用 UI Kit"
+    },
+    "slides.general.copy_to_figma_slides": {
+        "string": "复制到 Figma Slides"
+    },
+    "sessions.bell.success": {
+        "string": "已退出会话"
+    },
+    "fullscreen.properties_panel.living_designs": {
+        "string": "构建"
+    },
+    "fullscreen_actions.clear_favicon": {
+        "string": "清除网站图标"
+    },
+    "fullscreen.properties_panel.constraints_panel.constraints.vertical.tooltip": {
+        "string": "垂直约束"
+    },
+    "dev_handoff.selection_effect_style_details": {
+        "string": "效果样式详情"
+    },
+    "activity_log.disabled_mfa_required_for_guests": {
+        "string": "已为访客禁用 2FA"
+    },
+    "file_browser.trash_project.plural_files_confirm_label": {
+        "string": "将项目和 {numFiles} 个文件移至回收站"
+    },
+    "fullscreen.export.export_frames_to_pdf": {
+        "string": "导出框架为 PDF"
+    },
+    "file_preview_onboarding.new_ways_to_preview_files": {
+        "string": "预览文件的新方法"
+    },
+    "file_browser.tool_bar.trashed_files": {
+        "string": "文件"
+    },
+    "fullscreen_actions.set-hug-width": {
+        "string": "将宽度设置为适应内容"
+    },
+    "sessions.null.location": {
+        "string": "未找到位置"
+    },
+    "viewer.options_menu.make_available_offline": {
+        "string": "使其可离线使用"
+    },
+    "dev_handoff.paywall.reminder_sent_modal.description": {
+        "string": "我们已向您的团队管理员发送了有关您的开发模式请求的提醒。同时，您仍然可以查看和评论设计文件。"
+    },
+    "fullscreen.font_settings.font_index_update_summer24.title": {
+        "string": "谷歌字体大全"
+    },
+    "locked_team.card.move_figjam_boards": {
+        "string": "{numFigjamFiles, plural, one {移动 {numFigjamFiles} 个 FigJam 白板} other {移动 {numFigjamFiles} 个 FigJam 白板}}"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.left_plus_right": {
+        "string": "左 + 右"
+    },
+    "abandoned_drafts_table.trashed": {
+        "string": "已删除"
+    },
+    "new_user_experience.user_onboarding_signals.question.what_best_describes_you": {
+        "string": "哪项最能描述您？"
+    },
+    "abandoned_drafts_table.move": {
+        "string": "移动"
+    },
+    "fullscreen.properties_panel.layer_header.node_type_image": {
+        "string": "图像"
+    },
+    "resources_tab.approved_plugins.actions.add_plugin": {
+        "string": "添加插件"
+    },
+    "inspect_panel.properties.radius.bottom_right": {
+        "string": "右下角半径"
+    },
+    "user_notifications.settings": {
+        "string": "设置"
+    },
+    "asset_transfers.handle_request_modal.keep_all_existing_collaborators": {
+        "string": "保留所有现有合作者"
+    },
+    "dev_handoff.variables.suggested_variables.matching": {
+        "string": "{count, plural, one {{count} 个匹配的变量} other {{count} 个匹配的变量}}"
+    },
+    "tile.dropdown.move_object": {
+        "string": "移动{objText}"
+    },
+    "file_browser.tool_bar.trashed_files.aria_label": {
+        "string": "文件标签页"
+    },
+    "first_draft.kits.components_count": {
+        "string": "{count, plural, one {1 个组件} other {# 个组件}}"
+    },
+    "inspect_panel.properties.radius.bottom_left": {
+        "string": "左下角半径"
+    },
+    "first_draft.make_kit.componentize_step.description": {
+        "string": "将您的设计分解为可重用的组件"
+    },
+    "sessions.column.manage": {
+        "string": "管理"
+    },
+    "slides.properties_panel.slide_transition.curve": {
+        "string": "曲线"
+    },
+    "auth.two-factor-setup.mfa_required_org.description": {
+        "string": "您的组织目前要求所有外部访客使用 2FA。如果您关闭 2FA，除非您重新激活，否则您将无法访问 {orgName} 组织中的文件。"
+    },
+    "sites.code-component-error": {
+        "string": "代码组件错误：{errorMessage}"
+    },
+    "sites.fullscreen.add-section": {
+        "string": "+ 添加部分"
+    },
+    "whiteboard.inline_menu.click_again_to_unlock": {
+        "string": "再次点击解锁"
+    },
+    "fullscreen_actions.set-tool-sites-link": {
+        "string": "链接"
+    },
+    "org_settings.guest_control.require_two_factor_auth_for_guests": {
+        "string": "要求所有访客使用两因素身份验证（2FA）？"
+    },
+    "first_draft.link_component.component_selection_instruction": {
+        "string": "选择一个组件"
+    },
+    "inspect_panel.properties.border.right": {
+        "string": "右边框"
+    },
+    "file_browser.tool_bar.new_cooper_file": {
+        "string": "Cooper"
+    },
+    "asset_transfers.handle_request_modal.the_project_will_copy_with_its_current_files": {
+        "string": "项目将与其当前文件一起复制。当您接受时，您将成为唯一的项目成员——来自 {sourcePlan} 的原始项目成员都不会成为项目的一部分。"
+    },
+    "dev_handoff.code_panel.suggested_vars_tooltip": {
+        "string": "{count, plural, one {{count} 个建议的变量} other {{count} 个建议的变量}}"
+    },
+    "file_browser.delete_project.generic_confirm_text_trash": {
+        "string": "项目 {folderName} 将被删除，其文件将被移至垃圾桶。项目将被永久删除，但您可以从侧边栏的“垃圾桶”部分恢复文件。"
+    },
+    "sessions.row.created": {
+        "string": "已创建"
+    },
+    "file_permissions_modal.library_warning_banner.everyone_at_this_file_s_workspace": {
+        "string": "此文件工作区的所有人"
+    },
+    "user_notifications.new": {
+        "string": "新"
+    },
+    "org_settings.guest_control.mfa_for_guests_setting_required": {
+        "string": "访客需要启用 2FA 才能查看您组织中的文件。"
+    },
+    "eyedropper.create_variable": {
+        "string": "创建变量"
+    },
+    "design_systems.libraries_modal.style_statistics": {
+        "string": "样式统计"
+    },
+    "abandoned_drafts_table.banner_message": {
+        "string": "您可以删除这些草稿或将它们移动，以便其他组织成员可以访问它们。"
+    },
+    "collaboration.branching_node_treatments.property.text_decoration_style": {
+        "string": "文本装饰样式"
+    },
+    "permissions.confirm_guest_invite.external_to_mfa_org_reminder_without_link": {
+        "string": "您的组织要求访客启用两因素身份验证 (2FA) 才能访问文件。"
+    },
+    "slides.properties_panel.rewrite_text.tone_grid": {
+        "string": "语气网格"
+    },
+    "viewer_restricted_tooltip.you_recently_shared_this_draft_no_name": {
+        "string": "您最近共享了此草稿，但您的团队成员无法协作，除非您拥有付费席位。"
+    },
+    "design_systems.libraries_modal.all_teams_in_your_organization": {
+        "string": "您组织中的所有团队"
+    },
+    "fullscreen.properties_panel.export_generating_name": {
+        "string": "正在生成名称…"
+    },
+    "fullscreen.toolbar_banner.you_can_only_view_and_comment_on_this_file": {
+        "string": "您只能查看和评论此文件。"
+    },
+    "assistant.debug.title": {
+        "string": "助手调试视图"
+    },
+    "fullscreen_actions.select-similar": {
+        "string": "选择相似的图层"
+    },
+    "mfa_required_modal.mfa_enabled.subtile": {
+        "string": "重新加载此标签页以查看文件"
+    },
+    "design_systems.libraries_modal.added_via_draft_defaults": {
+        "string": "通过草稿默认值添加"
+    },
+    "categories.all_presentations": {
+        "string": "所有演示文稿"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_create_slides_outline": {
+        "string": "创建 Figma Slides 大纲"
+    },
+    "org_settings.guest_control.mfa_for_guests_warning.accounts": {
+        "string": "{numGuests, plural, one {1 个账户} other {{numGuests} 个账户}}"
+    },
+    "file_browser.folder.truncated_file_count": {
+        "string": "{maxCount}+"
+    },
+    "file_browser.trash_project.anyone_with_edit_access_to_this_project_can_restore_it_from_the_trash_tab": {
+        "string": "任何对该项目有编辑权限的人都可以从 {trashStyled} 标签中恢复它。"
+    },
+    "design_systems.libraries_modal.plural.num_library_components_shown": {
+        "string": "{numItems, plural, one {显示了 {numItems} 个库组件} other {显示了 {numItems} 个库组件}}"
+    },
+    "file_permissions_modal.share_as.publish_template_slides_error_no_slides": {
+        "string": "您无法将此文件发布为模板，因为此演示文稿中没有幻灯片"
+    },
+    "fullscreen.properties_panel.font_picker.font_set.google_fonts_summer_2024": {
+        "string": "Google 字体（8/24 更新）"
+    },
+    "abandoned_drafts_table.unknown_user_drafts": {
+        "string": "未知用户的草稿"
+    },
+    "asset_transfers.request_modal.send": {
+        "string": "发送"
+    },
+    "fullscreen_actions.quick_actions.link-to-component": {
+        "string": "链接到组件..."
+    },
+    "collaboration.feedback.version_restored": {
+        "string": "已恢复版本"
+    },
+    "whiteboard.inline_menu.ai_quick_actions_create_slides_outline_disabled_tooltip": {
+        "string": "{minSelectedStickies, plural, one {至少选择 {minSelectedStickies} 个便利贴（但不能是空的）。} other {至少选择 {minSelectedStickies} 个便利贴（但不能是空的）。}}"
+    },
+    "starting_points.or_learn_the_basics": {
+        "string": "或 {learnTheBasicsLink}"
+    },
+    "variables.create_modal.create_file_variable": {
+        "string": "创建文件变量"
+    },
+    "categories.all_plugins": {
+        "string": "所有插件"
+    },
+    "assistant.chat.tool_result.success": {
+        "string": "完成"
+    },
+    "design_systems.publishing_modal.warning_banner.hidden_team_name": {
+        "string": "发布会与 {shareAudience} 共享文件，即使您的团队名称是私密的。将其移动到另一个团队以防止文件和团队被发现。"
+    },
+    "dev_handoff.selection_text_style_details": {
+        "string": "文本样式详情"
+    },
+    "in_product_help_and_learning.popular_resources.create_components.description": {
+        "string": "创建可在设计中重复使用的组件。"
+    },
+    "slides.visual_bell.making_a_presentation": {
+        "string": "正在制作演示文稿？"
+    },
+    "design_systems.libraries_modal.plural.variable": {
+        "string": "{variableCount, plural, one {变量} other {变量}}"
+    },
+    "dev_handoff.paywall.starter_trial_nudge.description_numdays": {
+        "string": "通过 {numDays} 天的交接工具（如注释、高级检查等）将设计和开发结合在一起。"
+    },
+    "file_permissions_modal.library_warning_banner.everyone_at_workspace": {
+        "string": "{workspaceName} 的所有人"
+    },
+    "member_flyout_modal.seat_select_label.figjam": {
+        "string": "FigJam 席位"
+    },
+    "dev_handoff.paywall.blocking_modal.button.upgrade_your_plan": {
+        "string": "升级您的计划"
+    },
+    "lab.ui3.library_modal_redesign": {
+        "string": "UI3：重新设计的库模态窗口"
+    },
+    "activity_log.mfa_required_setting_changed": {
+        "string": "2FA 设置已更改"
+    },
+    "slides.properties_panel.presentation_presets_entrypoint": {
+        "string": "正在制作演示文稿？在 Figma Slides 中可能更容易！"
+    },
+    "file_browser.tool_bar.trashed_projects": {
+        "string": "项目"
+    },
+    "file_browser.file_import_view.move_to_project": {
+        "string": "移动到项目"
+    },
+    "mfa_required_modal.mfa_enabled.subtile_for_file_browser": {
+        "string": "重新加载此标签页以查看来自此组织的内容"
+    },
+    "file_permissions_modal.org_admin": {
+        "string": "{orgName} 管理员"
+    },
+    "fullscreen.pages_panel.dakota_tab": {
+        "string": "Dakota"
+    },
+    "fullscreen.properties_panel.font_picker.clear_selection": {
+        "string": "清除选择"
+    },
+    "file_browser.templates_shelf.for_you": {
+        "string": "为您推荐"
+    },
+    "file_broadcast.your_closest_collaborators": {
+        "string": "您最亲近的合作者"
+    },
+    "first_draft.make_kit.x_of_y_frames": {
+        "string": "第 {loaded} 帧，共 {total} 帧"
+    },
+    "abandoned_drafts_table.banner_header_teams": {
+        "string": "这些草稿属于已从 {teamName} 移除的用户，只有团队管理员可以访问"
+    },
+    "file_browser.batch_delete_projects.confirm_text": {
+        "string": "{numProjects, plural, one {1 个项目及其文件将被删除。项目将被永久删除，但您可以从草稿中的“已删除”标签恢复文件。} other {{numProjects} 个项目及其文件将被删除。项目将被永久删除，但您可以从草稿中的“已删除”标签恢复文件。}}"
+    },
+    "bindings.new_local_font_visual_bell_two": {
+        "string": "新可用字体：{firstFont} 和 {secondFont}"
+    },
+    "auto_rename_layers.found_n_unnamed_layers": {
+        "string": "找到 {n} 个未命名的图层"
+    },
+    "design_systems.libraries_modal.upgrade": {
+        "string": "升级"
+    },
+    "mfa_required_modal.mfa_enabled.title": {
+        "string": "两因素身份验证 (2FA) 已成功启用"
+    },
+    "design_systems.libraries_modal.team_libraries": {
+        "string": "团队库"
+    },
+    "design_systems.libraries_modal.add_recommended_libraries_to_this_file": {
+        "string": "将推荐的库添加到此文件"
+    },
+    "permissions.sinatra.no_permission_to_trash_project": {
+        "string": "您没有权限将此项目移至垃圾桶。"
+    },
+    "slides.properties_panel.text_style.deleted_theme": {
+        "string": "选择一个模板样式以将文本样式添加到您的幻灯片中。"
+    },
+    "type_settings.decoration.details": {
+        "string": "下划线详情"
+    },
+    "desktop_new_tab.cooper_card.title": {
+        "string": "新 cooper"
+    },
+    "first_draft.make_kit.componentize_step.title": {
+        "string": "组件化"
+    },
+    "assistant.chat.suggestion.make_tool": {
+        "string": "创建工具"
+    },
+    "sites.panel.interaction_summary": {
+        "string": "{numActions} 个操作"
+    },
+    "fullscreen_actions.set-hug-height": {
+        "string": "将高度设置为适应内容"
+    },
+    "variables.invalid.negative_or_zero": {
+        "string": "必须 > 0"
+    },
+    "fullscreen.dev_mode_nudge_tooltip.description": {
+        "string": "进入开发模式，提醒管理员您的升级请求。"
+    },
+    "slides.general.open_figma_slides": {
+        "string": "打开 Figma Slides"
+    },
+    "dev_handoff.paywall.blocking_modal.content.ask_admin": {
+        "string": "请 {teamName} 的管理员关于升级。"
+    },
+    "asset_transfers.handle_request_modal.you_ll_become_the_owner_of_the_project_and_its_files": {
+        "string": "您将成为项目和文件的所有者，可能会升级您的席位。联系人将被添加为项目的编辑者。所有其他合作者将被移除。"
+    },
+    "asset_transfers.request_modal.you_ll_need_the_email_address_of_a_contact_person_on_that_team_as_well_as_a_link_to_the_team": {
+        "string": "您需要该团队中联系人的电子邮件地址以及团队的链接。这可确保项目转移到正确的位置。{learnMore}"
+    },
+    "file_browser.folder.number_of_files": {
+        "string": "{numFiles, plural, one {{formattedNumFiles} 个文件} other {{formattedNumFiles} 个文件}}"
+    },
+    "design_systems.libraries_modal.modes": {
+        "string": "模式"
+    },
+    "design_systems.libraries_modal.libraries_in_this_file": {
+        "string": "此文件中的库"
+    },
+    "inspect_panel.properties.padding.left": {
+        "string": "左内边距"
+    },
+    "design_systems.libraries_modal.displaying_results_for": {
+        "string": "显示“{searchQuery}”的结果"
+    },
+    "dev_handoff.paywall.blocking_modal.content.locked_upgrade": {
+        "string": "该团队的所有工作目前只能查看。升级此团队以再次使用开发模式。"
+    },
+    "abandoned_drafts_table.banner_message_teams": {
+        "string": "您可以删除这些草稿或将它们移动，以便其他团队成员可以访问它们。"
+    },
+    "sidebar.all_shared_projects": {
+        "string": "所有共享项目"
+    },
+    "inspect_panel.properties.radius.top_right": {
+        "string": "右上角半径"
+    },
+    "design_systems.libraries_modal.assets_created_in_this_file": {
+        "string": "在此文件中创建的资源"
+    },
+    "design_systems.libraries_modal.your_organization": {
+        "string": "您的组织"
+    },
+    "whiteboard.shapes.more_shapes": {
+        "string": "更多形状"
+    },
+    "design_systems.libraries_modal.teams_tab_empty_starter": {
+        "string": "您不在具有已发布库的团队中。升级以发布和共享团队库。"
+    },
+    "file_browser.delete_project.one_file_confirm_text_trash": {
+        "string": "项目 {folderName} 将被删除，并且一个文件将被移至垃圾桶。项目将被永久删除，但您可以从侧边栏的“垃圾桶”部分恢复文件。"
+    },
+    "design_systems.libraries_modal.libraries_added_to_this_file": {
+        "string": "添加到此文件的库"
+    },
+    "design_systems.libraries_modal.browse_libraries": {
+        "string": "浏览库"
+    },
+    "fullscreen.file_import.import_pdf_images_not_imported": {
+        "string": "某些图像未能导入"
+    },
+    "inspect_panel.properties.border.bottom": {
+        "string": "下边框"
+    },
+    "design_systems.publishing_modal.everyone_at_this_file_s_workspace": {
+        "string": "此文件工作区的所有人（工作区）"
+    },
+    "fullscreen.canvas.auto_layout_hug_with_value_v2": {
+        "string": "{value} 适应"
+    },
+    "community.footer.workshop_templates": {
+        "string": "研讨会模板"
+    },
+    "design_systems.instance_swap_picker.select_all_instances": {
+        "string": "选择所有实例"
+    },
+    "fullscreen_actions.notifications": {
+        "string": "通知"
+    },
+    "permissions.confirm_guest_invite.external_to_mfa_org_warning": {
+        "string": "{numEmails, plural, one {{emails} 不是 {orgName} 的成员。作为外部访客，他们可能无法访问此文件。} other {{emails} 不是 {orgName} 的成员。作为外部访客，他们可能无法访问此文件。}}"
+    },
+    "design_systems.libraries_modal.recommended_by": {
+        "string": "由 {name} 推荐"
+    },
+    "living_designs.properties_panel.interactions.add_button.label": {
+        "string": "添加交互"
+    },
+    "fullscreen_actions.set-fill-height": {
+        "string": "将高度设置为填充容器"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.select_style": {
+        "string": "选择样式"
+    },
+    "properties.dropdown.remove_blend_mode": {
+        "string": "移除混合模式"
+    },
+    "slides.properties_panel.theme.remove_style_from_deck": {
+        "string": "从幻灯片中移除样式"
+    },
+    "team_view.toolbar.drafts": {
+        "string": "未分配的草稿"
+    },
+    "categories.all_design_libraries": {
+        "string": "所有设计库"
+    },
+    "auth.marketing.subscribe-to-figma-tips-and-updates-terms-with-indicator": {
+        "string": "{indicator}通过选择加入，您同意接收来自 Figma 的产品、服务和活动更新。您可以随时取消订阅。"
+    },
+    "first_draft.make_kit.all_steps.description": {
+        "string": "执行所有步骤以制作一个 First Draft 工具包"
+    },
+    "fullscreen.properties_panel.cooper_edit": {
+        "string": "编辑"
+    },
+    "drafts_move_banner.on_free_teams_drafts_are_view_only": {
+        "string": "在免费团队中，草稿只能查看。首先将您的草稿移动到团队的项目中，然后您的编辑邀请将被发送。"
+    },
+    "in_product_help_and_learning.popular_resources.new_to_figma.description": {
+        "string": "学习基础知识并开始使用 Figma。"
+    },
+    "design_systems.component_properties.number_property_default_name": {
+        "string": "数字"
+    },
+    "project_menu.send_a_copy": {
+        "string": "发送副本"
+    },
+    "comments.mfa_required_warning_without_link": {
+        "string": "{numUsers, plural, one {由于他们是外部访客，您的组织要求访客启用两因素身份验证 (2FA) 才能访问文件。} other {由于他们是外部访客，您的组织要求访客启用两因素身份验证 (2FA) 才能访问文件。}}"
+    },
+    "org_settings.guest_control.mfa_for_guests_warning.guests_without_2fa": {
+        "string": "没有 2FA 的访客（将被阻止）"
+    },
+    "error.unprocessable_entity": {
+        "string": "无法处理的实体。"
+    },
+    "asset_transfers.handle_request_modal.the_project_will_transfer_along_with_its_current_files": {
+        "string": "项目将与其当前文件一起转移。在下一步中，您可以选择保留或移除项目成员。在 {adminSettings} 的 {members} 标签中管理任何新席位。"
+    },
+    "file_browser.trash_project.one_file_confirm_text_trash_folder": {
+        "string": "项目 {folderName} 和一个文件将被移至垃圾桶。"
+    },
+    "fullscreen.dev_mode_starter_trial_upsell_modal.title": {
+        "string": "{numOfDaysLeft, plural, one {您的试用期还剩 {numOfDaysLeft} 天} other {您的试用期还剩 {numOfDaysLeft} 天}}"
+    },
+    "ai.edit_prompt_fd": {
+        "string": "编辑提示"
+    },
+    "living_designs.properties_panel.description_input.placeholder": {
+        "string": "描述一个交互"
+    },
+    "ai.undo_make_changes": {
+        "string": "撤销"
+    },
+    "assistant.debug.null": {
+        "string": "空"
+    },
+    "auto_rename_layers.skip": {
+        "string": "跳过"
+    },
+    "variables.create.title": {
+        "string": "创建"
+    },
+    "assistant.chat.send_message": {
+        "string": "询问"
+    },
+    "starting_points.website": {
+        "string": "网站"
+    },
+    "whiteboard.inline_menu.lock": {
+        "string": "锁定"
+    },
+    "file_browser.file_move.done": {
+        "string": "完成"
+    },
+    "categories.all_assets": {
+        "string": "所有资产"
+    },
+    "mfa_required_modal.cta": {
+        "string": "设置双因素认证"
+    },
+    "assistant.debug.copy_all": {
+        "string": "复制全部"
+    },
+    "file_broadcast.broadcast": {
+        "string": "广播"
+    },
+    "assistant.chat.status.error": {
+        "string": "失败"
+    },
+    "teams_table.create_team": {
+        "string": "创建团队"
+    },
+    "eyedropper.create_style": {
+        "string": "创建样式"
+    },
+    "sessions.null.ip": {
+        "string": "未找到IP地址"
+    },
+    "upgrade.view_all_plans": {
+        "string": "查看所有计划"
+    },
+    "fullscreen.object_row.favicon": {
+        "string": "网站图标"
+    },
+    "assistant.chat.tool_result.error": {
+        "string": "错误"
+    },
+    "fullscreen.error.reload_tab": {
+        "string": "重新加载标签页"
+    },
+    "type_settings.decoration.offset": {
+        "string": "偏移"
+    },
+    "variables.authoring_modal.filter": {
+        "string": "筛选"
+    },
+    "starting_points.desktop_app": {
+        "string": "桌面应用"
+    },
+    "variables.invalid.negative": {
+        "string": "必须大于或等于0"
+    },
+    "viewer_restricted_tooltip.ignore": {
+        "string": "忽略"
+    },
+    "file_browser.file_move.moving": {
+        "string": "移动中..."
+    },
+    "design_systems.libraries_modal.type": {
+        "string": "类型"
+    },
+    "project_menu.move_to_trash": {
+        "string": "移动到垃圾箱"
+    },
+    "type_settings.no_truncation": {
+        "string": "不截断"
+    },
+    "assistant.chat.status.loading": {
+        "string": "思考中..."
+    },
+    "first_draft.make_kit.lint_step.title": {
+        "string": "检查"
+    },
+    "file_permissions_modal.share_as.move": {
+        "string": "移动"
+    },
+    "members_table.badge_label.blocked": {
+        "string": "已阻止"
+    },
+    "fullscreen.export.skip_rename": {
+        "string": "跳过重命名"
+    },
+    "design_systems.libraries_modal.teams": {
+        "string": "团队"
+    },
+    "fullscreen.error.refresh_page": {
+        "string": "刷新页面"
+    },
+    "whiteboard.inserts.comments_title": {
+        "string": "评论"
+    },
+    "fullscreen_actions.assistant-chat": {
+        "string": "询问 Figma"
+    },
+    "slides.properties_panel.theme.colors": {
+        "string": "颜色"
+    },
+    "type_settings.decoration.thickness": {
+        "string": "厚度"
+    },
+    "tile.file_tile.imported_time": {
+        "string": "导入于 {time}"
+    },
+    "categories.design_libraries": {
+        "string": "设计库"
+    },
+    "design_systems.instance_swap_picker.list": {
+        "string": "列表"
+    },
+    "community.breadcrumbs.collections": {
+        "string": "集合"
+    },
+    "dakota.collections_context_menu.delete": {
+        "string": "删除"
+    },
+    "member_flyout_modal.role_section_heading": {
+        "string": "角色"
+    },
+    "design_systems.instance_swap_picker.grid": {
+        "string": "网格"
+    },
+    "design_systems.libraries_modal.sort_by": {
+        "string": "排序方式"
+    },
+    "community.footer.data_templates": {
+        "string": "数据模板"
+    },
+    "design_systems.libraries_modal.removed": {
+        "string": "已移除"
+    },
+    "sessions.column.accessed_created": {
+        "string": "最后访问"
+    },
+    "inspect_panel.properties.border.top": {
+        "string": "上边框"
+    },
+    "dev_handoff.code_connect.error_pill_text": {
+        "string": "错误"
+    },
+    "inspect_panel.properties.padding.top": {
+        "string": "上内边距"
+    },
+    "file_browser.file_move.another_user": {
+        "string": "其他用户"
+    },
+    "design_systems.libraries_modal.see_more": {
+        "string": "查看更多"
+    },
+    "type_settings.decoration.skip_ink_on": {
+        "string": "跳过墨水开启"
+    },
+    "team_view.invoices_table.pay_invoice": {
+        "string": "支付发票"
+    },
+    "sessions.bell.fail": {
+        "string": "会话退出失败"
+    },
+    "inspect_panel.properties.border.left": {
+        "string": "左边框"
+    },
+    "mfa_required_modal.mfa_enabled.reload": {
+        "string": "重新加载标签页"
+    },
+    "dev_handoff.selection_styles_copy": {
+        "string": "复制样式名称"
+    },
+    "admin_settings.sidebar.plan_name": {
+        "string": "{planName} 管理"
+    },
+    "fullscreen.properties_panel.cooper_publish": {
+        "string": "Cooper"
+    },
+    "design_systems.component_properties.number": {
+        "string": "数字"
+    },
+    "first_draft.suggest_properties": {
+        "string": "建议属性"
+    },
+    "dev_handoff.plugin_panel.close_plugin": {
+        "string": "关闭插件"
+    },
+    "auth.two-factor-setup.disable_2fa.cta": {
+        "string": "关闭双因素认证"
+    },
+    "design_systems.libraries_modal.mode_name": {
+        "string": "模式名称"
+    },
+    "type_settings.decoration.custom_color": {
+        "string": "自定义颜色"
+    },
+    "resources_tab.shared_fonts_table.add_font": {
+        "string": "添加字体"
+    },
+    "design_systems.libraries_modal.variables": {
+        "string": "变量"
+    },
+    "type_settings.truncation_enabled": {
+        "string": "启用截断"
+    },
+    "assets_in_actions.community_section.title": {
+        "string": "社区"
+    },
+    "design_systems.libraries_modal.style_name": {
+        "string": "样式名称"
+    },
+    "member_flyout_modal.update_date": {
+        "string": "{date, date, medium}"
+    },
+    "member_flyout_modal.workspace_select_label": {
+        "string": "工作区"
+    },
+    "member_flyout_modal.job_title_select_label": {
+        "string": "职位"
+    },
+    "desktop_new_tab.cooper_card.subtitle": {
+        "string": "Cooper 是一只猫"
+    },
+    "design_systems.libraries_modal.collection": {
+        "string": "集合"
+    },
+    "inspect_panel.properties.padding.right": {
+        "string": "右内边距"
+    },
+    "dakota.properties_panel.dakota_panel.tab_title": {
+        "string": "Dakota"
+    },
+    "first_draft.make_kit.all_steps.title": {
+        "string": "以上全部"
+    },
+    "proto.option_menu.advanced_settings": {
+        "string": "高级设置"
+    },
+    "inspect_panel.properties.padding.bottom": {
+        "string": "下内边距"
+    },
+    "tooltips_plus_onboarding.outro.title_ui3": {
+        "string": "是时候设计了"
+    },
+    "lab.ui3.september_launch": {
+        "string": "UI3：九月发布功能"
+    },
+    "slides.general.copying_slides_over": {
+        "string": "复制幻灯片中…"
+    },
+    "member_flyout_modal.seat_select_label.design": {
+        "string": "设计席位"
+    },
+    "design_systems.libraries_modal.in_this_file": {
+        "string": "在此文件中"
+    },
+    "design_systems.libraries_modal.view_details": {
+        "string": "查看详情"
+    },
+    "design_systems.libraries_modal.alphabetical": {
+        "string": "按字母顺序"
+    },
+    "inspect_panel.properties.radius.top_left": {
+        "string": "左上半径"
+    },
+    "slides.speaker_notes.loading": {
+        "string": "生成演讲者备注中…"
+    },
+    "universal_insert.manifest_error_view": {
+        "string": "查看清单错误"
+    },
+    "community.footer.design_inspirations": {
+        "string": "设计灵感"
+    },
+    "fullscreen_actions.set-tool-code-component": {
+        "string": "代码组件"
+    },
+    "file_browser.file_move.users_drafts": {
+        "string": "{userHandle} 的草稿"
+    },
+    "fullscreen_actions.assistant-chat-query": {
+        "string": "询问 Figma {query}"
+    },
+    "file_browser.tool_bar.add_to_chromebook": {
+        "string": "添加到 Chromebook"
+    },
+    "file_browser.file_move.users_folder": {
+        "string": "{userHandle} 的文件夹"
+    },
+    "mfa_required_modal.account_switcher.destination": {
+        "string": "此文件"
+    },
+    "slides.onboarding.ten_release.title": {
+        "string": "您在工作的反馈"
+    },
+    "dev_handoff.inspect_panel.copy_layer_name": {
+        "string": "复制图层名称"
+    },
+    "abandoned_drafts_table.copy_to_drafts": {
+        "string": "复制到草稿"
+    },
+    "design_systems.libraries_modal.variable_name": {
+        "string": "变量名称"
+    },
+    "in_product_help_and_learning.first_level_header.title": {
+        "string": "帮助"
+    },
+    "design_systems.libraries_modal.back_to_teams": {
+        "string": "返回团队"
+    },
+    "feature_flag_overrides.copy_to_clipboard": {
+        "string": "复制到剪贴板"
+    },
+    "fullscreen.export.export_slides_to_pdf": {
+        "string": "将幻灯片导出为 PDF"
+    },
+    "assistant.chat.tool_result.selection.success": {
+        "string": "发送选择内容"
+    },
+    "proto.preload.loading.tooltip.header": {
+        "string": "正在下载原型…"
+    },
+    "dev_handoff.paywall.reminder_sent_modal.title": {
+        "string": "提醒已发送"
+    },
+    "in_product_help_and_learning.settings.section_title": {
+        "string": "设置"
+    },
+    "dev_handoff.workflows.overview.expand_page": {
+        "string": "展开 {pageName}"
+    },
+    "living_designs.properties_panel.create_button.label": {
+        "string": "生成"
+    },
+    "viewer.popup.device_scale_set_to": {
+        "string": "设备比例：{scalingMode}"
+    },
+    "member_flyout_modal.license_group_select_label": {
+        "string": "计费组"
+    },
+    "resources_tab.approved_widgets.actions.add_widget": {
+        "string": "添加小部件"
+    },
+    "member_flyout_modal.seat_select_label.dev_mode": {
+        "string": "开发模式席位"
+    },
+    "fullscreen_actions.set-fill-width": {
+        "string": "设置宽度以填充容器"
+    },
+    "first_draft.make_kit.add_props_step.running": {
+        "string": "添加属性中…"
+    },
+    "fullscreen.toolbar.missing_fonts_modal.select_font": {
+        "string": "选择字体"
+    },
+    "file_browser.tool_bar.trashed_projects.aria_label": {
+        "string": "项目标签"
+    },
+    "team_view.folder_list_card.trashed_at": {
+        "string": " · 垃圾箱于 {trashedTime}"
+    },
+    "community.footer.recommended_categories": {
+        "string": "推荐类别"
+    },
+    "fullscreen.properties_panel.layer_header.node_type_video": {
+        "string": "视频"
+    },
+    "design_systems.libraries_modal.total_variables": {
+        "string": "总变量"
+    },
+    "viewer.popup.content_scale_set_to": {
+        "string": "内容比例：{scalingMode}"
+    },
+    "upgrade.this_team_is_on_a_free_plan": {
+        "string": "此团队使用免费计划"
+    },
+    "proto.preload.error.tooltip.header": {
+        "string": "无法下载原型"
+    },
+    "member_flyout_modal.grant_admin_access_label": {
+        "string": "授予管理员权限"
+    },
+    "design_systems.libraries_modal.style_insertions": {
+        "string": "样式插入"
+    },
+    "dev_handoff.workflows.overview.collapse_page": {
+        "string": "折叠 {pageName}"
+    },
+    "design_systems.libraries_modal.remove_from_file": {
+        "string": "从文件中移除"
+    },
+    "dev_handoff.workflows.overview.back_to_page_tooltip": {
+        "string": "返回页面"
+    },
+    "design_systems.libraries_modal.usage_statistics": {
+        "string": "使用统计"
+    },
+    "activity_log.event.folder_trash": {
+        "string": "已将 {folderName} 项目移动到垃圾箱"
+    },
+    "design_systems.libraries_modal.add_to_this_file": {
+        "string": "添加到此文件"
+    },
+    "first_draft.make_changes.i_cant_do_this_font": {
+        "string": "尝试其他字体"
+    },
+    "file_browser.folder_list_view.header_trashed_at_column": {
+        "string": "垃圾箱时间"
+    },
+    "member_flyout_modal.revoke_admin_access_label": {
+        "string": "撤销管理员权限"
+    },
+    "design_systems.libraries_modal.publish_this_file": {
+        "string": "发布此文件"
+    },
+    "fullscreen.toolbar.multiplayer.currently_viewing": {
+        "string": "当前查看中"
+    },
+    "dev_handoff.status.mark_status_sentence_part.incomplete": {
+        "string": "未完成"
+    },
+    "design_systems.libraries_modal.no_team_libraries": {
+        "string": "没有团队库"
+    },
+    "abandoned_drafts_table.files.show_trashed_files": {
+        "string": "显示已删除文件"
+    },
+    "fullscreen.toolbar.multiplayer.previously_viewed": {
+        "string": "之前查看过"
+    },
+    "fullscreen.properties_panel.appearance_panel.blend_mode": {
+        "string": "混合模式"
+    },
+    "dev_handoff.workflows.focus_view.back_to_page_tooltip": {
+        "string": "返回页面"
+    },
+    "slides.properties_panel.theme.more_theme_options": {
+        "string": "更多主题选项"
+    },
+    "activity_log.event.folder_restore": {
+        "string": "已恢复 {folderName} 项目"
+    },
+    "slides.templates.wizard.entry_point.subtitle": {
+        "string": "选择颜色和样式"
+    },
+    "mfa_required_modal.account_switcher.switch_accounts": {
+        "string": "切换账户"
+    },
+    "slides.present_summary.visual_bells.error_out_of_date": {
+        "string": "需要重新加载"
+    },
+    "dev_handoff.variables.suggested_variables.title": {
+        "string": "建议的变量"
+    },
+    "fullscreen.dev_mode_starter_trial_upsell_modal.cta_text": {
+        "string": "立即升级"
+    },
+    "fullscreen.dev_mode_nudge_tooltip.title": {
+        "string": "发送提醒给您的管理员"
+    },
+    "design_systems.instance_swap_picker.show_subfolders": {
+        "string": "显示子文件夹"
+    },
+    "file_browser.limited_space_team_projects.heading": {
+        "string": "所有共享项目"
+    },
+    "first_draft.make_kit.x_of_y_components": {
+        "string": "组件 {loaded} / {total}"
+    },
+    "dev_handoff.code.unsupported": {
+        "string": "无法为此生成 {language} 代码"
+    },
+    "domain_management.remove_domain_modal.org_admin_info": {
+        "string": "{name} ({email})"
+    },
+    "slides.properties_panel.theme.edit_template_style": {
+        "string": "编辑模板样式"
+    },
+    "upgrade.work_in_one_of_your_paid_teams": {
+        "string": "在您的一个付费团队中工作"
+    },
+    "design_systems.libraries_modal.orgs_workspaces": {
+        "string": "{orgName} 的工作区"
+    },
+    "design_systems.libraries_modal.variable_insertions": {
+        "string": "变量插入"
+    },
+    "slides.properties_panel.theme.dropdown_deleted_theme_name": {
+        "string": "选择样式"
+    },
+    "file_browser.templates_shelf.interim_title": {
+        "string": "使用模板开始"
+    },
+    "lab.ui3.layers_auto_scroll": {
+        "string": "UI3：图层面板中的水平自动滚动"
+    },
+    "proto.preload.loaded.tooltip.header": {
+        "string": "离线时可用于展示"
+    },
+    "whiteboard.inserts.comments_description": {
+        "string": "留下并回复反馈。"
+    },
+    "first_draft.make_kit.add_props_step.title": {
+        "string": "向组件添加属性"
+    },
+    "file_browser.trash_project.generic_confirm_label": {
+        "string": "将项目移到垃圾箱"
+    },
+    "file_browser.trash_project.move_project_to_trash": {
+        "string": "将项目移到垃圾箱？"
+    },
+    "collaboration.feedback.version_restored_label": {
+        "string": "恢复的版本：{label}"
+    },
+    "file_browser.file_browser_actions.folder_trashed": {
+        "string": "项目已移动到垃圾箱"
+    },
+    "community.preset_modal.make_a_copy_of_this_file": {
+        "string": "复制此文件"
+    },
+    "design_systems.libraries_modal.added_by_file_editor": {
+        "string": "由文件编辑器添加"
+    },
+    "slides.properties_panel.theme.rename_template_style": {
+        "string": "重命名模板样式"
+    },
+    "file_browser.file_import_view.imported_to_folder": {
+        "string": "导入到 {folderName}"
+    },
+    "feature_flag_overrides.copied_to_clipboard": {
+        "string": "已将 {flagName} 复制到剪贴板"
+    },
+    "dev_handoff.workflows.focus_view.back_to_rfd_tooltip": {
+        "string": "查看所有准备开发的内容"
+    },
+    "first_draft.make_changes.i_cant_do_this_layout": {
+        "string": "尝试更简单的布局更改"
+    },
+    "variables.authoring_modal.context_menu.create_expression": {
+        "string": "创建表达式"
+    },
+    "fullscreen_actions.quick_actions.first-draft-make-kit": {
+        "string": "制作首次草稿工具包"
+    },
+    "variables.create_modal.create_component_property": {
+        "string": "创建组件属性"
+    },
+    "mfa_required_modal.regained_access_to_file.title": {
+        "string": "您现在可以查看此文件"
+    },
+    "slides.properties_panel.rewrite_text.tone_casual_concise": {
+        "string": "随意且简洁"
+    },
+    "consumption_paywalls.videos_in_whiteboard.title": {
+        "string": "想要在您的板中添加视频？"
+    },
+    "mfa_required_modal.title": {
+        "string": "{orgName} 需要两因素认证 (2FA)"
+    },
+    "slides.properties_panel.theme.cant_remove_used_style": {
+        "string": "无法移除正在使用的样式"
+    },
+    "dev_handoff.paywall.request_reminder_modal.title": {
+        "string": "发送开发模式提醒"
+    },
+    "file_permissions_modal.share_as.copy_presentation_link": {
+        "string": "复制演示链接"
+    },
+    "asset_transfers.handle_request_modal.remove_collaborators": {
+        "string": "移除协作者"
+    },
+    "fullscreen.toolbar.multiplayer.previously_viewed_users": {
+        "string": "之前查看过的用户"
+    },
+    "dev_handoff.paywall.blocking_modal.title.starter_viewer": {
+        "string": "获取开发模式访问权限"
+    },
+    "design_systems.publishing_modal.everyone_at_team": {
+        "string": "{teamName} 的所有人 (团队)"
+    },
+    "in_product_help_and_learning.popular_resources.section_title": {
+        "string": "热门资源"
+    },
+    "fullscreen.selection_actions.tooltip_component_actions": {
+        "string": "创建组件选项"
+    },
+    "member_flyout_modal.new_editor_fallback_upgrade_reason": {
+        "string": "{userLabel} 已升级"
+    },
+    "activity_log.filter.mfa_required_setting_change": {
+        "string": "为访客启用/禁用双因素认证 (2FA)"
+    },
+    "in_product_help_and_learning.popular_resources.new_to_figma.title": {
+        "string": "Figma 新手？"
+    },
+    "collaboration.branching_node_treatments.value.node_type.text_path": {
+        "string": "路径上的文本"
+    },
+    "fullscreen.properties_panel.layer_header.node_type_slide_skipped": {
+        "string": "幻灯片（已跳过）"
+    },
+    "design_systems.publishing_modal.warning_banner.anyone_in_org": {
+        "string": "组织中的任何人都可以访问 {orgName}"
+    },
+    "slides.keyboard_shortcuts.toggle-animate-info-description": {
+        "string": "设计 <-> 动画 选项卡"
+    },
+    "dev_handoff.paywall.toggle_disabled_viewer_title": {
+        "string": "您尚无法在开发模式中查看。"
+    },
+    "settings_tab.contact_support_to_change": {
+        "string": "联系 admin-support@figma.com 进行更改"
+    },
+    "auth.two-factor-setup.disable_2fa.title": {
+        "string": "关闭双因素认证 (2FA)？"
+    },
+    "org_settings.guest_control.mfa_for_guests_warning.guests_with_2fa": {
+        "string": "拥有 2FA 的访客"
+    },
+    "slides.keyboard_shortcuts.toggle-slide-view-short-description": {
+        "string": "幻灯片 <-> 网格视图"
+    },
+    "dev_handoff.paywall.request_reminder_modal.button.send_a_reminder": {
+        "string": "发送提醒"
+    },
+    "slides.templates.theme_picker.org_new_template_placeholder_name": {
+        "string": "{orgName} 模板"
+    },
+    "first_draft.make_kit.componentize_step.instructions": {
+        "string": "选择要组件化的设计"
+    },
+    "file_permissions_modal.library_warning_banner.everyone_at_org": {
+        "string": "组织中的所有人都可以访问 {orgName}"
+    },
+    "file_browser.trash_project.trashed_empty_state": {
+        "string": "您没有任何已删除的项目。"
+    },
+    "fullscreen.properties_panel.constraints_panel.select.top_and_bottom_truncated": {
+        "string": "顶 + 底"
+    },
+    "file_browser.file_move.current_location_project_name": {
+        "string": "当前位置：{projectName}"
+    },
+    "file_browser.trash_project.one_file_confirm_label": {
+        "string": "将项目和一个文件移到垃圾箱"
+    },
+    "slides.keyboard_shortcuts.enter-slides-design-mode-description": {
+        "string": "幻灯片 <-> 设计模式"
+    },
+    "file_permissions_modal.library_warning_banner.everyone_at_team": {
+        "string": "团队中的所有人都可以访问 {teamName}"
+    },
+    "file_permissions_modal.share_as.open_presentation_settings": {
+        "string": "打开演示设置"
+    },
+    "notification_settings_modal.error_changing_setting": {
+        "string": "无法更改设置——请重试。"
+    },
+    "variables.create_modal.component_property_or_variable_title": {
+        "string": "创建属性或变量"
+    },
+    "first_draft.make_kit.add_props_step.instructions": {
+        "string": "选择要添加属性的组件"
+    },
+    "dev_handoff.paywall.pending_modal.starter_trial_end.title": {
+        "string": "您的开发模式试用已结束"
+    },
+    "slides.templates.theme_picker.org_new_template_placeholder_primary_cta": {
+        "string": "让它成为您自己的"
+    },
+    "slides.present_summary.visual_bells.error_meter_exceeded": {
+        "string": "请稍后再试"
+    },
+    "fullscreen.visual_bell.page_contents_deletion_warning": {
+        "string": "所有页面内容已被删除"
+    },
+    "slides.properties_panel.rewrite_text.tone_professional_concise": {
+        "string": "专业且简洁"
+    },
+    "dev_handoff.workflows.focus_view.compare_previous_menu_item": {
+        "string": "与之前的版本比较"
+    },
+    "in_product_help_and_learning.popular_resources.create_components.title": {
+        "string": "创建组件"
+    },
+    "first_draft.make_changes.i_cant_do_this_component": {
+        "string": "不支持组件级编辑"
+    },
+    "slides.properties_panel.rewrite_text.tone_professional_expanded": {
+        "string": "专业且详尽"
+    },
+    "design_systems.libraries_modal.libraries_recommended_at": {
+        "string": "在 {orgName} 推荐的库"
+    },
+    "org_settings.guest_control.mfa_for_guests_setting_null": {
+        "string": "访客可以在没有 2FA 的情况下查看内容"
+    },
+    "first_draft.make_kit.lint_step.description": {
+        "string": "确保您的组件已通过检查且无错误"
+    },
+    "collaboration.branching_node_treatments.property.text_underline_offset": {
+        "string": "文本下划线偏移"
+    },
+    "first_draft.make_kit.description": {
+        "string": "创建您自己的首次草稿工具包需要以下步骤："
+    },
+    "design_systems.libraries_modal.add_team_libraries_to_this_file": {
+        "string": "将团队库添加到此文件"
+    },
+    "slides.properties_panel.theme.theme_dropdown.create_new_theme_button": {
+        "string": "创建新的模板样式"
+    },
+    "in_product_help_and_learning.popular_resources.explore_more_features.title": {
+        "string": "探索更多功能"
+    },
+    "notification_settings_modal.error_loading_settings": {
+        "string": "无法加载设置——请刷新并重试。"
+    },
+    "fullscreen.properties_panel.constraints_panel.constraints.horizontal.tooltip": {
+        "string": "水平约束"
+    },
+    "abandoned_drafts_table.team_folder_name": {
+        "string": "{abandonedDraftUserName} ({abandonedDraftUserEmail}) 的草稿"
+    },
+    "viewer_restricted_tooltip.teammates_cant_access_this_file": {
+        "string": "{planName} 队友无法访问此文件"
+    },
+    "file_browser.api_folder.error_when_moving_to_trash": {
+        "string": "将此项目移到垃圾箱时发生错误。"
+    },
+    "permissions.sinatra.no_permission_to_restore_project": {
+        "string": "您没有权限恢复此项目。"
+    },
+    "file_preview_onboarding.move_your_cursor": {
+        "string": "将光标移动到文件缩略图上以查看内部内容。"
+    },
+    "org_settings.guest_control.mfa_for_guests_description": {
+        "string": "没有 2FA 的访客将无法查看文件"
+    },
+    "mfa_required_modal.account_switcher.text": {
+        "string": "如果 {userEmail} 不是您想要使用的账户，您可以 {link}。"
+    },
+    "proto.preload.error.tooltip.body": {
+        "string": "检查您的互联网连接以确保您在线，然后重试。"
+    },
+    "first_draft.make_kit.add_props_step.description": {
+        "string": "向您的组件添加属性以使其可定制"
+    },
+    "org_upgrade.action_text.dev_mode": {
+        "string": "要在此组织中访问开发模式，请按照以下步骤升级：{requestUpgradeInstructions}。"
+    },
+    "slides.templates.theme_picker.org_new_template_placeholder_secondary_cta": {
+        "string": "快速为 {orgName} 创建模板"
+    },
+    "file_permissions_modal.share_as.nudge_to_move_text": {
+        "string": "完成草拟阶段？尝试将其移动到项目中。"
+    },
+    "proto.preload.loaded.tooltip.body": {
+        "string": "保持此标签页打开以进行演示。关闭它将清除您的离线可用性。"
+    },
+    "drafts_move_banner.you_re_working_in_drafts_on_a_free_starter_team": {
+        "string": "您正在一个免费入门团队中使用草稿"
+    },
+    "slides.keyboard_shortcuts.create-slide-description": {
+        "string": "使用当前主题快速向您的幻灯片组添加空白幻灯片。"
+    },
+    "auth.marketing.subscribe-to-figma-tips-and-updates-with-indicator": {
+        "string": "订阅 Figma 提示和更新{ indicator }"
+    },
+    "whiteboard.google_classroom.addon.submission_reminder": {
+        "string": "记住——完成后请在 Google Classroom 上提交您的作业"
+    },
+    "file_browser.file_import_view.file_import_progress_to_folder": {
+        "string": "{importedFiles} / {totalFiles} 文件已导入到 {folder}"
+    },
+    "settings.account_setting.change_email_mfa_required_warning.title": {
+        "string": "{orgName} 需要双因素认证 (2FA)"
+    },
+    "permissions.sinatra.move_file_between_different_plan_contexts": {
+        "string": "您无法在不同计划上下文之间移动此文件。"
+    },
+    "in_product_help_and_learning.popular_resources.video_tutorials.description": {
+        "string": "通过这些专家主导的教程探索 Figma。"
+    },
+    "design_systems.libraries_modal.ui_kits_description": {
+        "string": "预制的、可自定义的设计模板，适用于在 Figma 中快速进行原型设计。"
+    },
+    "community.error.slide_template_publishing_error": {
+        "string": "发布您的 Figma 幻灯片模板时出错。请重试。"
+    },
+    "design_systems.libraries_modal.approved_and_default_libraries_set_by_admins": {
+        "string": "由您的管理员设置的已批准和默认库"
+    },
+    "file_browser.trash_project.generic_confirm_text_trash_folder": {
+        "string": "项目 {folderName} 及其所有文件将被移动到垃圾箱。"
+    },
+    "file_browser.file_move.you_cant_move_files_that_are_in_others_drafts": {
+        "string": "您无法移动位于其他人草稿中的文件。"
+    },
+    "in_product_help_and_learning.popular_resources.design_your_first_button.description": {
+        "string": "学习如何创建最常见的设计元素。"
+    },
+    "slides.keyboard_shortcuts.toggle-slide-view-description": {
+        "string": "使用网格视图进行概述和组织，使用幻灯片视图深入细节。"
+    },
+    "domain_management.remove_domain_modal.confirmation_message": {
+        "string": "{domainCount, plural, one {域已移除} other {已移除 {domainCount} 个域}}"
+    },
+    "file_browser.trash_project.plural_files_confirm_text_trash_folder": {
+        "string": "项目 {folderName} 及其所有 {numFiles} 个文件将被移动到垃圾箱。"
+    },
+    "abandoned_drafts_table.banner_header": {
+        "string": "这些草稿属于已从 {orgName} 移除的用户，仅组织管理员可访问"
+    },
+    "tooltips_plus_onboarding.outro.description_ui3": {
+        "string": "您已准备好在 Figma 中进行第一个设计项目！为自己准备一个新的画布开始设计。"
+    },
+    "ui3_and_ai_tour.dev_mode_toggle_callout.description": {
+        "string": "通过工具栏或使用 {toggleDevModeKeyCommand} 轻松切换到开发模式（并返回）。"
+    },
+    "dev_handoff.paywall.request_reminder_modal.description": {
+        "string": "您的团队管理员尚未批准您的开发模式请求。要我们发送提醒给他们吗？"
+    },
+    "design_systems.libraries_modal.teams_tab_empty": {
+        "string": "您所在的团队没有发布的库。请发布一个库，或让管理员邀请您加入团队。"
+    },
+    "idle_timeout.warning_modal.body_short_duration": {
+        "string": "{orgName} 的政策要求在 {duration} 无活动后自动注销您的 Figma 账户。"
+    },
+    "design_systems.libraries_modal.plural.num_library_styles_shown": {
+        "string": "{numItems, plural, one {{numItems} 个库样式显示} other {{numItems} 个库样式显示}}"
+    },
+    "file_permissions_modal.share_as.publish_template_slides_error_skipped_slides": {
+        "string": "您无法将此文件作为模板发布，因为此演示文稿包含已跳过的幻灯片。"
+    },
+    "fullscreen.error.generic_panel_error_web": {
+        "string": "属性面板出现问题，我们已记录该问题。尝试刷新页面以恢复正常。"
+    },
+    "fullscreen.font_settings.font_index_update_summer24.body": {
+        "string": "通过 450 多种新字体和更新找到您的字体。打开菜单并选择 {siloName} 来试用它们。"
+    },
+    "design_systems.libraries_modal.plural.num_library_variables_shown": {
+        "string": "{numItems, plural, one {{numItems} 个库变量显示} other {{numItems} 个库变量显示}}"
+    },
+    "slides.onboarding.ten_release.description": {
+        "string": "更好的快捷键？完成！可隐藏的幻灯片？也是如此！我们每天都在改进 Figma 幻灯片 —— 查看自 Config 以来的所有更改。"
+    },
+    "file_browser.file_import_view.file_import_all_succeeded": {
+        "string": "{totalFiles, plural, one {{totalFiles} 个文件已导入到 {folder}} other {{totalFiles} 个文件已导入到 {folder}}}"
+    },
+    "org_settings.guest_control.mfa_for_guests_warning.description": {
+        "string": "没有启用 2FA 的组织访客将无法访问内容或协作，直到他们启用 2FA。"
+    },
+    "design_systems.publishing_modal.warning_banner.file_setting_change": {
+        "string": "继续操作将与 {shareAudience} 共享库的源文件，并使其通过搜索功能可发现。"
+    },
+    "upgrade.to_get_unlimited_files_and_features_link_switch_teams_or_upgrade_this_team_s_plan": {
+        "string": "要获得无限的文件和功能，{linkSwitchTeams} 或升级此团队的计划。"
+    },
+    "ui3_and_ai_tour.dev_mode_toggle_editor_callout.description": {
+        "string": "在开发模式中进行注释、测量等操作。您可以通过工具栏或使用 {toggleDevModeKeyCommand} 轻松切换（以及返回）。"
+    },
+    "community.seller.to_publish_your_first_extension": {
+        "string": "要发布您的第一个付费插件或小部件，只需点击右上角的发布，添加您的详细信息，选择价格，然后提交审核即可！"
+    },
+    "org_settings.guest_control.mfa_for_guests_warning.title": {
+        "string": "{numGuests, plural, one {如果您要求 2FA，{numGuests} 个访客将被阻止} other {如果您要求 2FA，{numGuests} 个访客将被阻止}}"
+    },
+    "dev_handoff.paywall.pending_modal.starter_trial_end.description": {
+        "string": "升级以继续使用开发模式 —— 还可享受专业计划的所有其他功能，如无限文件和共享库。"
+    },
+    "settings.account_setting.change_email_mfa_required_warning.description": {
+        "string": "如果您的电子邮件不匹配任何 {orgName} 域，您将成为该组织的访客。{orgName} 的访客需要启用 2FA 才能访问其文件。"
+    },
+    "design_systems.publishing_modal.warning_banner.file_setting_change.with_hidden_team_name": {
+        "string": "发布时，您将与 {shareAudience} 共享源文件。即使您的团队名称是私密的，其他人也将能够通过搜索功能发现它。"
+    },
+    "asset_transfers.handle_request_modal.no_collaborators_will_lose_access": {
+        "string": "没有协作者会失去对此项目的访问权限。然而，某些用户可能会通过转移被添加到您的团队，从而导致额外的账单费用。"
+    },
+    "file_permissions_modal.library_warning_banner.share_settings_will_change_library_publish_audience": {
+        "string": "更改此文件的共享设置将把库的发布受众从 {originalShareAudience} 更改为 {newShareAudience}。"
+    },
+    "domain_management.remove_domain_modal.modal_body_text": {
+        "string": "{domainCount, plural, one {此域的所有成员将成为您组织中的访客。} other {这些域的所有成员将成为您组织中的访客。}}"
+    },
+    "asset_transfers.request_modal.you_can_transfer_a_copy_of_this_project_and_its_content_to_another_plan": {
+        "string": "您可以将此项目及其内容的副本转移到另一个团队，只要该团队属于专业、组织或企业计划。"
+    },
+    "asset_transfers.handle_request_modal.a_source_user_email_wants_to_transfer_the_copy_project_name_to_the_team_name_team": {
+        "string": "{sourceUserName} ({sourceUserEmail}) 想要将 {projectName} 项目的副本转移到 {teamName} 团队。{learnMore}"
+    },
+    "asset_transfers.request_modal.only_those_on_the_receiving_team_will_have_access": {
+        "string": "只有接收团队或组织中的成员才能访问此副本，任何文件分支、评论和版本历史记录都不会被转移。{learnMore}"
+    },
+    "file_browser.delete_project.plural_files_confirm_text_trash": {
+        "string": "项目 {folderName} 将被删除，所有 {numFiles} 个文件将被移动到垃圾箱。该项目将被永久删除，但您可以从侧边栏的“垃圾箱”部分恢复文件。"
+    },
+    "domain_management.error_modal.body_domain_capture": {
+        "string": "{domainCount, plural, one {我们无法添加以下域，因为它与另一个组织相关联：} other {我们无法添加以下域，因为它们与另一个组织相关联：}}"
+    },
+    "domain_management.remove_domain_modal.body_text_with_warning": {
+        "string": "{domainCount, plural, one {此域的所有成员将成为您组织中的访客。以下管理员也将成为访客：} other {这些域的所有成员将成为您组织中的访客。以下管理员也将成为访客：}}"
+    },
+    "file_browser.batch_delete_projects.confirm_text_trash_section": {
+        "string": "{numProjects, plural, one {1 个项目及其文件将被删除。该项目将被永久删除，但您可以从侧边栏的“垃圾箱”部分恢复文件。} other {{numProjects} 个项目及其文件将被删除。项目将被永久删除，但您可以从侧边栏的“垃圾箱”部分恢复文件。}}"
+    },
+    "domain_management.remove_domain_modal.body_text_with_mfa_with_warning": {
+        "string": "{domainCount, plural, one {此域的所有成员将成为访客，除非他们启用了 MFA，否则将无法查看您组织的内容。此外，这些管理员也将成为访客：} other {这些域的所有成员将成为访客，除非他们启用了 MFA，否则将无法查看您组织的内容。此外，这些管理员也将成为访客：}}"
     }
 }

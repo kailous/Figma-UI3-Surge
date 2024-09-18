@@ -1,29 +1,43 @@
-import json
+import sys
+import os
+import brotli
 
-def compress_json(input_file, output_file):
-    """
-    压缩 JSON 文件，去掉所有的换行和多余的空格，但保留值中的空格。
+def compress_file(input_path):
+    if not os.path.isfile(input_path):
+        print(f"错误: 文件 '{input_path}' 不存在。")
+        sys.exit(1)
 
-    参数：
-    input_file (str): 输入的 JSON 文件路径
-    output_file (str): 输出的压缩后的 JSON 文件路径
-    """
-    # 读取 JSON 文件
-    with open(input_file, 'r', encoding='utf-8') as f:
-        data = json.load(f)
+    if not input_path.lower().endswith('.json'):
+        print(f"警告: 文件 '{input_path}' 似乎不是一个 JSON 文件。继续压缩。")
 
-    # 将 JSON 数据转换为紧凑的字符串
-    compressed_json = json.dumps(data, separators=(',', ':'))
+    output_path = input_path + '.br'
 
-    # 写入压缩后的 JSON 文件
-    with open(output_file, 'w', encoding='utf-8') as f:
-        f.write(compressed_json)
+    try:
+        with open(input_path, 'rb') as f_in:
+            data = f_in.read()
+            compressed_data = brotli.compress(data)
+        
+        with open(output_path, 'wb') as f_out:
+            f_out.write(compressed_data)
+        
+        print(f"成功: 文件已压缩为 '{output_path}'。")
+    except Exception as e:
+        print(f"压缩过程中出现错误: {e}")
+        sys.exit(1)
 
-    print(f"已将压缩后的 JSON 写入到 {output_file}")
+def print_usage():
+    script_name = os.path.basename(sys.argv[0])
+    print(f"用法: python {script_name} <path_to_json_file>")
+    print("示例: python compress_json.py data.json")
 
-# 设置变量
-input_file = 'zh.json'  # 输入的 JSON 文件路径
-output_file = 'zh.json.br'  # 输出的压缩后的 JSON 文件路径
+def main():
+    if len(sys.argv) != 2:
+        print("错误: 参数数量不正确。")
+        print_usage()
+        sys.exit(1)
+    
+    input_path = sys.argv[1]
+    compress_file(input_path)
 
-# 调用函数
-compress_json(input_file, output_file)
+if __name__ == "__main__":
+    main()
