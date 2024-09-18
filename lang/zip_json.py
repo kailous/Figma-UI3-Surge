@@ -11,8 +11,10 @@ def minify_json(input_path):
         with open(input_path, 'r', encoding='utf-8') as f_in:
             data = json.load(f_in)
         
-        minified_json = json.dumps(data, separators=(',', ':'))
+        # 最小化 JSON，移除所有不必要的空格和换行符
+        minified_json = json.dumps(data, separators=(',', ':'), ensure_ascii=False)
         
+        # 设置输出路径，添加 .br 后缀
         output_path = input_path + '.br'
         
         with open(output_path, 'w', encoding='utf-8') as f_out:
