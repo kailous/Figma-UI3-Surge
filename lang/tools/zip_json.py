@@ -9,7 +9,7 @@ JSON 最小化脚本
     最小化后的 JSON 会被保存为一个新的文件，文件名在原文件名后添加 `.br` 后缀。
 
 用法:
-    python minify_json.py <input_file> [--output <output_file>]
+    python zip_json.py <input_file> [--output <output_file>]
 
 参数:
     input_file        输入的 JSON 文件路径（必需）
