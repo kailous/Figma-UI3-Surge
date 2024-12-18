@@ -1,0 +1,3068 @@
+{
+    "proto.target": {
+        "string": "Target"
+    },
+    "auth.sign_up": {
+        "string": "Sign up"
+    },
+    "job-title.other": {
+        "string": "Other"
+    },
+    "common.loading": {
+        "string": "Loading"
+    },
+    "common.dismiss": {
+        "string": "Dismiss"
+    },
+    "auth.continue": {
+        "string": "Continue"
+    },
+    "job-title.design": {
+        "string": "Design"
+    },
+    "upgrades.request": {
+        "string": "Request"
+    },
+    "sidebar.see_less": {
+        "string": "See less"
+    },
+    "job-title.student": {
+        "string": "Student"
+    },
+    "fake_cursor.cursor": {
+        "string": "cursor"
+    },
+    "dev_handoff.mc.close": {
+        "string": "Close"
+    },
+    "dev_handoff.mc.reset": {
+        "string": "Reset"
+    },
+    "sites.panel.primary": {
+        "string": "Primary"
+    },
+    "job-title.research": {
+        "string": "Research"
+    },
+    "job-title.educator": {
+        "string": "Educator"
+    },
+    "whiteboard.colors.lime": {
+        "string": "Lime"
+    },
+    "project_menu.connect": {
+        "string": "Connect"
+    },
+    "resource_connection.host": {
+        "string": "Host"
+    },
+    "job-title.education": {
+        "string": "Education"
+    },
+    "job-title.marketing": {
+        "string": "Marketing"
+    },
+    "workspace_table.manage": {
+        "string": "Manage"
+    },
+    "fullscreen.node_type.page": {
+        "string": "Page"
+    },
+    "fullscreen.node_type.line": {
+        "string": "Line"
+    },
+    "project_menu.settings": {
+        "string": "Settings"
+    },
+    "fullscreen.node_type.star": {
+        "string": "Star"
+    },
+    "fullscreen.node_type.text": {
+        "string": "Text"
+    },
+    "plan_invoices.taxes_label": {
+        "string": "Taxes"
+    },
+    "org_admin_tab.invoices": {
+        "string": "Invoices"
+    },
+    "org_admin_tab.overview": {
+        "string": "Overview"
+    },
+    "plan_invoices.total_label": {
+        "string": "Total"
+    },
+    "job-title.ux-writing": {
+        "string": "UX Writing"
+    },
+    "dev_handoff.code.lang_html": {
+        "string": "HTML"
+    },
+    "plan_invoices.empty_details": {
+        "string": "– –"
+    },
+    "first_draft.make_edit": {
+        "string": "Make edit"
+    },
+    "plan_invoices.view_all": {
+        "string": "View all"
+    },
+    "fullscreen.node_type.stamp": {
+        "string": "Stamp"
+    },
+    "fullscreen.node_type.slide": {
+        "string": "Slide"
+    },
+    "fullscreen.node_type.table": {
+        "string": "Table"
+    },
+    "fullscreen.node_type.group": {
+        "string": "Group"
+    },
+    "lexical_editor_toolbar.bold": {
+        "string": "Bold"
+    },
+    "fullscreen.node_type.media": {
+        "string": "Media"
+    },
+    "fullscreen.node_type.slice": {
+        "string": "Slice"
+    },
+    "fullscreen.node_type.union": {
+        "string": "Union"
+    },
+    "fullscreen.node_type.frame": {
+        "string": "Frame"
+    },
+    "lexical_editor_toolbar.link": {
+        "string": "Link"
+    },
+    "team_view.toolbar.content": {
+        "string": "Content"
+    },
+    "inspect_panel.typography.wavy": {
+        "string": "Wavy"
+    },
+    "fullscreen.node_type.vector": {
+        "string": "Vector"
+    },
+    "fullscreen.node_type.widget": {
+        "string": "Widget"
+    },
+    "properties.label.rotation": {
+        "string": "Rotation"
+    },
+    "seat_billing_terms.modal.back": {
+        "string": "Back"
+    },
+    "seat_billing_terms.modal.next": {
+        "string": "Next"
+    },
+    "plan_invoices.table_label": {
+        "string": "Invoices"
+    },
+    "fullscreen.node_type.sticky": {
+        "string": "Sticky"
+    },
+    "upgrades.request_sent": {
+        "string": "Request sent"
+    },
+    "first_draft.make_kit.lint.done": {
+        "string": "Done"
+    },
+    "whiteboard.shapes_sidebar.back": {
+        "string": "Back"
+    },
+    "new_user_experience.my_file": {
+        "string": "My File"
+    },
+    "fake_cursor.hand_cursor": {
+        "string": "hand cursor"
+    },
+    "design_linter.penalty_box.fix": {
+        "string": "Apply"
+    },
+    "plan_invoices.credits_label": {
+        "string": "Credits"
+    },
+    "resource_connection.confirm": {
+        "string": "Confirm"
+    },
+    "fullscreen.toolbar.aria_label": {
+        "string": "Editor"
+    },
+    "qa.category.search_for": {
+        "string": "Search for..."
+    },
+    "auth.sign_up_to_edit": {
+        "string": "Sign up to edit"
+    },
+    "lexical_editor_toolbar.italic": {
+        "string": "Italic"
+    },
+    "new_user_experience.button.back": {
+        "string": "Back"
+    },
+    "fullscreen.node_type.section": {
+        "string": "Section"
+    },
+    "plan_invoices.status_overdue": {
+        "string": "Overdue"
+    },
+    "inspect_panel.typography.solid": {
+        "string": "Solid"
+    },
+    "fullscreen.node_type.exclude": {
+        "string": "Exclude"
+    },
+    "sites.breakpoint_bar.primary": {
+        "string": "Primary"
+    },
+    "fullscreen.node_type.polygon": {
+        "string": "Polygon"
+    },
+    "fullscreen.node_type.ellipse": {
+        "string": "Ellipse"
+    },
+    "slides.carousel.components": {
+        "string": "Components"
+    },
+    "design_systems.assets_panel.kits": {
+        "string": "Kits"
+    },
+    "community.community_license": {
+        "string": "CC BY 4.0"
+    },
+    "community.publishing.team_author": {
+        "string": "Team"
+    },
+    "plan_invoices.subtotal_label": {
+        "string": "Subtotal"
+    },
+    "collaboration.voice.creator": {
+        "string": "(creator)"
+    },
+    "campfire_banner.learn_more": {
+        "string": "Learn more"
+    },
+    "plan_invoices.pay_invoice": {
+        "string": "Pay invoice"
+    },
+    "fullscreen.node_type.document": {
+        "string": "Document"
+    },
+    "inspect_panel.typography.dotted": {
+        "string": "Dotted"
+    },
+    "comments.thread_actions": {
+        "string": "Thread actions"
+    },
+    "fullscreen.node_type.variable": {
+        "string": "Variable"
+    },
+    "properties_panel.effects.repeat": {
+        "string": "Repeat"
+    },
+    "connected_projects_table.status": {
+        "string": "Status"
+    },
+    "fullscreen.node_type.template": {
+        "string": "Template"
+    },
+    "eyedropper.click_to_copy": {
+        "string": "Click to copy"
+    },
+    "fullscreen.node_type.subtract": {
+        "string": "Subtract"
+    },
+    "layer_icon.tooltip.code_file": {
+        "string": "Code file"
+    },
+    "upgrades.request_access": {
+        "string": "Request access"
+    },
+    "first_draft.make_edits.inplace": {
+        "string": "Inplace"
+    },
+    "community.community_author": {
+        "string": "By {author}"
+    },
+    "waiting_for_sync_modal.saving": {
+        "string": "Saving..."
+    },
+    "properties_panel.effects.blur.type": {
+        "string": "Type"
+    },
+    "lexical_editor_toolbar.heading": {
+        "string": "Header 1"
+    },
+    "job-title.data-analytics": {
+        "string": "Data analytics"
+    },
+    "dev_handoff.variables.details_mode": {
+        "string": "Mode"
+    },
+    "connected_projects_table.host_plan": {
+        "string": "Host"
+    },
+    "lexical_editor_toolbar.inline_code": {
+        "string": "Code"
+    },
+    "whiteboard.connector_keywords.bent": {
+        "string": "Bent"
+    },
+    "fake_cursor.select_cursor": {
+        "string": "select cursor"
+    },
+    "whiteboard.colors.light_lime": {
+        "string": "Light lime"
+    },
+    "whiteboard.connector_keywords.line": {
+        "string": "Line"
+    },
+    "whiteboard.connector_keywords.edge": {
+        "string": "Edge"
+    },
+    "fullscreen.node_type.intersect": {
+        "string": "Intersect"
+    },
+    "fullscreen.node_type.component": {
+        "string": "Component"
+    },
+    "general.price_per_month": {
+        "string": "{priceString}/mo"
+    },
+    "connected_projects_table.project": {
+        "string": "Project"
+    },
+    "layer_icon.tooltip.code_layer": {
+        "string": "Code layer"
+    },
+    "community.publishing.copy_link": {
+        "string": "Copy link"
+    },
+    "fullscreen.node_type.rectangle": {
+        "string": "Rectangle"
+    },
+    "fullscreen.node_type.code_file": {
+        "string": "Code file"
+    },
+    "properties.label.orientation": {
+        "string": "Orientation"
+    },
+    "fullscreen.node_type.highlight": {
+        "string": "Highlight"
+    },
+    "fullscreen.node_type.slide_row": {
+        "string": "Slide row"
+    },
+    "whiteboard.inline_menu.lock_all": {
+        "string": "Lock all"
+    },
+    "request_upgrade.continue_button": {
+        "string": "Continue"
+    },
+    "dev_handoff.mc.open_cta": {
+        "string": "Open code editor"
+    },
+    "seat_billing_terms.modal.not_now": {
+        "string": "Not now"
+    },
+    "properties_panel.effects.repeat.type": {
+        "string": "Type"
+    },
+    "sites.fullscreen.code-library-local": {
+        "string": "Local"
+    },
+    "whiteboard.code_blocks.theme.dracula": {
+        "string": "Dark"
+    },
+    "dev_handoff.variables.details_scope": {
+        "string": "Scope"
+    },
+    "domain_insights.unclaimed_users.no_name": {
+        "string": "-"
+    },
+    "first_draft.make_edits.loading": {
+        "string": "Loading..."
+    },
+    "fullscreen_actions.new-site": {
+        "string": "New site file"
+    },
+    "whiteboard.shapes_sidebar.recents": {
+        "string": "Recents"
+    },
+    "dev_handoff.variables.details_value": {
+        "string": "Value"
+    },
+    "design_systems.assets_panel.embeds": {
+        "string": "Embeds"
+    },
+    "whiteboard.connector_keywords.arrow": {
+        "string": "Arrow"
+    },
+    "plan_invoices.payment_method.card.jcb": {
+        "string": "JCB"
+    },
+    "fullscreen.properties_panel.grid_panel.r": {
+        "string": "R"
+    },
+    "fullscreen.node_type.layout_set": {
+        "string": "Layout set"
+    },
+    "first_draft.kits.select-nodes": {
+        "string": "Select nodes"
+    },
+    "fullscreen.node_type.code_block": {
+        "string": "Code block"
+    },
+    "fullscreen.properties_panel.grid_panel.c": {
+        "string": "C"
+    },
+    "eyedropper.click_to_sample": {
+        "string": "Click to sample"
+    },
+    "fullscreen.node_type.washi_tape": {
+        "string": "Washi tape"
+    },
+    "fullscreen.node_type.code_layer": {
+        "string": "Code layer"
+    },
+    "community.publishing.for_figjam": {
+        "string": "For FigJam"
+    },
+    "collaboration.conflict_multipage": {
+        "string": "Multipage"
+    },
+    "settings.account_setting.security": {
+        "string": "Security"
+    },
+    "asset_transfers.destination_type.team": {
+        "string": "team"
+    },
+    "qa.rate_output_helpful": {
+        "string": "Were these helpful?"
+    },
+    "slides.speaker_notes.draft_again": {
+        "string": "Try again"
+    },
+    "auth.sign_up_to_comment": {
+        "string": "Sign up to comment"
+    },
+    "fullscreen.node_type.table_cell": {
+        "string": "Table cell"
+    },
+    "admin_dashboard.requests.view_all": {
+        "string": "View all"
+    },
+    "fullscreen.node_type.slide_grid": {
+        "string": "Slide grid"
+    },
+    "collaboration.conflict_local_styles": {
+        "string": "Styles"
+    },
+    "whiteboard.connector_keywords.curved": {
+        "string": "Curved"
+    },
+    "resource_connection.invite_sent": {
+        "string": "Invite sent"
+    },
+    "whiteboard.connector_keywords.angled": {
+        "string": "Angled"
+    },
+    "dev_handoff.annotations.copy_link": {
+        "string": "Copy link"
+    },
+    "dev_handoff.code.lang_multi_node": {
+        "string": "Multi-node"
+    },
+    "design_linter.penalty_box.title": {
+        "string": "Suggestions"
+    },
+    "resource_connection.request_modal.next": {
+        "string": "Next"
+    },
+    "plan_invoices.payment_method.card.visa": {
+        "string": "VISA"
+    },
+    "proto.select_variable_unified": {
+        "string": "Pick variable"
+    },
+    "plan_invoices.cta_download_pdf": {
+        "string": "Download PDF"
+    },
+    "properties_panel.effects.repeat.count": {
+        "string": "Count"
+    },
+    "resource_connection.request_modal.back": {
+        "string": "Back"
+    },
+    "org_admin_tab.billing_groups": {
+        "string": "Billing groups"
+    },
+    "team_view.toolbar.billing.overview": {
+        "string": "Overview"
+    },
+    "team_view.toolbar.billing.invoices": {
+        "string": "Invoices"
+    },
+    "plan_invoices.payment_method.card.amex": {
+        "string": "AMEX"
+    },
+    "plan_invoices.payment_amount": {
+        "string": "{amount} total"
+    },
+    "layer_icon.tooltip.code_library": {
+        "string": "Code library"
+    },
+    "file_browser.templates_shelf.reviews": {
+        "string": "Reviews"
+    },
+    "community.publishing.set_a_price": {
+        "string": "Set a price"
+    },
+    "whiteboard.code_blocks.theme.duotone_sea": {
+        "string": "Sea"
+    },
+    "file_browser.folder_settings_modal.name": {
+        "string": "Name"
+    },
+    "design_systems.libraries_modal.reload": {
+        "string": "Reload"
+    },
+    "first_draft.make_edits.send_image": {
+        "string": "Send image"
+    },
+    "cooper.left_panel.context_menu.delete": {
+        "string": "Delete"
+    },
+    "dev_handoff.variables.table_column_name": {
+        "string": "Name"
+    },
+    "seat_billing_terms.modal.accept": {
+        "string": "Accept terms"
+    },
+    "plan_invoices.due_date_column_label": {
+        "string": "Due date"
+    },
+    "plan_invoices.payment_method.unknown": {
+        "string": "Unknown"
+    },
+    "tile.sort_filter.can_be_viewed": {
+        "string": "Can be viewed"
+    },
+    "feature_flag_overrides.regex_mode": {
+        "string": "Regex mode"
+    },
+    "lexical_editor_toolbar.code_block": {
+        "string": "Code block"
+    },
+    "inspect_panel.typography.underline": {
+        "string": "Underline"
+    },
+    "resource_connection.aria_label.button": {
+        "string": "Button"
+    },
+    "file_browser.templates_shelf.diagram": {
+        "string": "Diagram"
+    },
+    "whiteboard.connector_keywords.elbowed": {
+        "string": "Elbowed"
+    },
+    "admin_settings.billing_plan_tier.pro": {
+        "string": "Pro Plan"
+    },
+    "collaboration.voice.file_creator": {
+        "string": "File creator"
+    },
+    "slides.speaker_notes.draft": {
+        "string": "Start with a draft"
+    },
+    "whiteboard.code_blocks.theme.figjam_dark": {
+        "string": "Dark"
+    },
+    "design_systems.assets_panel.site_kit": {
+        "string": "Site kit"
+    },
+    "fullscreen_actions.set-tool-sites-embed": {
+        "string": "Embed"
+    },
+    "variables.scopes.text_fill_dev_mode": {
+        "string": "Text fill"
+    },
+    "lab.sts_runtime_debug_tools": {
+        "string": "Sites: Figmascope"
+    },
+    "resource_connection.view_project": {
+        "string": "View project"
+    },
+    "billing.open_invoice_reminder.cta": {
+        "string": "Pay invoice"
+    },
+    "connected_projects_table.status.active": {
+        "string": "Active"
+    },
+    "qa.category.matching_actions": {
+        "string": "Matching actions"
+    },
+    "fullscreen.flyout.comment_tools": {
+        "string": "Comment tools"
+    },
+    "fullscreen.node_type.text_path": {
+        "string": "Text on a path"
+    },
+    "design_linter.penalty_box.apply_all": {
+        "string": "Apply all"
+    },
+    "fullscreen.toolbar.start_editing": {
+        "string": "Start editing"
+    },
+    "layer_icon.tooltip.code_instance": {
+        "string": "Code instance"
+    },
+    "community.publishing.upload_image": {
+        "string": "Upload image"
+    },
+    "inspect_panel.typography.decoration": {
+        "string": "Decoration"
+    },
+    "connected_projects_table.review_request": {
+        "string": "Review"
+    },
+    "community.publishing.monetization": {
+        "string": "Monetization"
+    },
+    "file_browser.templates_shelf.meetings": {
+        "string": "Meetings"
+    },
+    "fullscreen.node_type.variable_set": {
+        "string": "Variable set"
+    },
+    "properties_panel.effects.repeat.spacing": {
+        "string": "Offset"
+    },
+    "plan_invoices.payment_method.multiple": {
+        "string": "Multiple"
+    },
+    "community.publishing.for_dev_mode": {
+        "string": "For Dev Mode"
+    },
+    "file_browser.templates_shelf.planning": {
+        "string": "Planning"
+    },
+    "community.publishing.change_image": {
+        "string": "Change image"
+    },
+    "fullscreen.node_type.code_library": {
+        "string": "Code library"
+    },
+    "properties_panel.effects.repeat.units_pixels": {
+        "string": "Px"
+    },
+    "whiteboard.shapes_sidebar.connectors": {
+        "string": "Connectors"
+    },
+    "design_linter.penalty_box.select_all": {
+        "string": "Select all"
+    },
+    "properties_panel.effects.blur.end_blur": {
+        "string": "End blur"
+    },
+    "resource_connection.request_modal.cancel": {
+        "string": "Cancel"
+    },
+    "seat_billing_terms.modal.new_seat.dev": {
+        "string": "Dev seats"
+    },
+    "variables.scopes.frame_fill_dev_mode": {
+        "string": "Frame fill"
+    },
+    "fake_cursor.eyedropper_cursor": {
+        "string": "eyedropper cursor"
+    },
+    "connected_projects_table.status.pending": {
+        "string": "Pending"
+    },
+    "job-title.product-management": {
+        "string": "Product management"
+    },
+    "resource_connection.confirm_modal.accept": {
+        "string": "Accept"
+    },
+    "banner.pro_team_past_due_revamp.cta": {
+        "string": "Pay invoice"
+    },
+    "domain_insights.unclaimed_users.removed": {
+        "string": "Removed"
+    },
+    "variables.scopes.shape_fill_dev_mode": {
+        "string": "Shape fill"
+    },
+    "fullscreen.properties_panel.cooper_fields": {
+        "string": "Fields"
+    },
+    "whiteboard.code_blocks.theme.duotone_space": {
+        "string": "Space"
+    },
+    "plan_invoices.locked_subtotal": {
+        "string": "Finalized subtotal"
+    },
+    "magic_link.qa_suggestion_button": {
+        "string": "Add interactions"
+    },
+    "collaboration.branching.undo_merge_cancel": {
+        "string": "Cancel"
+    },
+    "community.publishing.for_design": {
+        "string": "For Figma Design"
+    },
+    "proto.animation_panel.transition_direction.up": {
+        "string": "Up"
+    },
+    "collaboration.conflict_local_variables": {
+        "string": "Variables"
+    },
+    "fullscreen.node_type.code_instance": {
+        "string": "Code instance"
+    },
+    "properties_panel.effects.blur.type.normal": {
+        "string": "Normal"
+    },
+    "community.publishing.for_slides": {
+        "string": "For Figma Slides"
+    },
+    "plan_invoices.reactivate_button_label": {
+        "string": "Reactivate"
+    },
+    "community.publishing.upload_images": {
+        "string": "Upload images"
+    },
+    "whiteboard.code_blocks.theme.duotone_light": {
+        "string": "Light"
+    },
+    "fullscreen.properties_panel.grid_panel.grid": {
+        "string": "Grid"
+    },
+    "team_view.settings.pending_admin": {
+        "string": "Pending (admin)"
+    },
+    "whiteboard.code_blocks.theme.duotone_earth": {
+        "string": "Earth"
+    },
+    "whiteboard.inline_menu.lock_options": {
+        "string": "Lock options"
+    },
+    "plan_invoices.projected_total": {
+        "string": "Projected subtotal"
+    },
+    "proto.action_set_variable_dropdown_option": {
+        "string": "Add new"
+    },
+    "fullscreen_actions.upscale_image": {
+        "string": "Boost resolution"
+    },
+    "plan_invoices.invoice_number_label": {
+        "string": "Invoice number"
+    },
+    "lexical_editor_toolbar.numbered_list": {
+        "string": "Ordered list"
+    },
+    "fullscreen.rename_modal.number_ascending": {
+        "string": "Number ↑"
+    },
+    "banner.cooper.alpha_banner.title": {
+        "string": "Product in Alpha"
+    },
+    "resource_connection.confirm_modal.decline": {
+        "string": "Decline"
+    },
+    "seat_billing_terms.modal.new_seat.full": {
+        "string": "Full seats"
+    },
+    "plan_invoices.payment_method_label": {
+        "string": "Payment method"
+    },
+    "domain_insights.unclaimed_users.columns.name": {
+        "string": "Name"
+    },
+    "properties_panel.effects.repeat.units_label": {
+        "string": "Units"
+    },
+    "admin_dashboard.requests.seat_title": {
+        "string": "Seat requests"
+    },
+    "fullscreen.properties_panel.effects.repeat": {
+        "string": "Repeat"
+    },
+    "design_systems.assets_panel.responsive": {
+        "string": "Responsive"
+    },
+    "auth.two-factor-setup.msft": {
+        "string": "Microsoft Authenticator"
+    },
+    "design_linter.penalty_box.loading_fix": {
+        "string": "Loading fix…"
+    },
+    "magic_link.qa_suggestion_toast": {
+        "string": "Making a prototype?"
+    },
+    "sites.panel.interactions_panel.on_scroll": {
+        "string": "On scroll"
+    },
+    "design_systems.libraries_modal.this_file": {
+        "string": "This file"
+    },
+    "file_browser.templates_shelf.brainstorm": {
+        "string": "Brainstorm"
+    },
+    "admin_dashboard.requests.all_requests": {
+        "string": "All requests"
+    },
+    "fullscreen.node_type.connector_line": {
+        "string": "Connector line"
+    },
+    "dev_handoff.variables.details_local": {
+        "string": "From this file"
+    },
+    "lexical_editor_toolbar.bulleted_list": {
+        "string": "Bulleted list"
+    },
+    "admin_settings.seat_counts.total_seats": {
+        "string": "Total seats"
+    },
+    "fullscreen.rename_modal.number_descending": {
+        "string": "Number ↓"
+    },
+    "lexical_editor_toolbar.strikethrough": {
+        "string": "Strikethrough"
+    },
+    "whiteboard.code_blocks.theme.duotone_forest": {
+        "string": "Forest"
+    },
+    "plan_invoices.payment_method.ach_debit.unknown": {
+        "string": "ACH"
+    },
+    "collaboration.branching.undo_merge_confirm": {
+        "string": "Confirm"
+    },
+    "dev_handoff.variables.table_all_vars": {
+        "string": "All variables"
+    },
+    "plan_invoices.view_new_seat_charges": {
+        "string": "View new seats"
+    },
+    "plan_invoices.payment_method.card.eftpos_au": {
+        "string": "EFTPOS"
+    },
+    "plan_invoices.zero_new_seats_quantity": {
+        "string": "No new seats"
+    },
+    "file_browser.confirm_file_delete_modal.sites": {
+        "string": "Sites"
+    },
+    "fullscreen.node_type.code_component": {
+        "string": "Code component"
+    },
+    "job-title.software-development": {
+        "string": "Software development"
+    },
+    "plan_invoices.seat_type_count": {
+        "string": "{quantity} {seatType}"
+    },
+    "job-title.other.input-placeholder": {
+        "string": "Ex: Art direction"
+    },
+    "properties_panel.effects.repeat.direction": {
+        "string": "Direction"
+    },
+    "resource_connection.connected_plans": {
+        "string": "Connected teams"
+    },
+    "seat_billing_terms.modal.price_per_month": {
+        "string": "{price}/mo"
+    },
+    "resource_connection.request_modal.web_link": {
+        "string": "Web link"
+    },
+    "plan_invoices.payment_method.card.unionpay": {
+        "string": "UNIONPAY"
+    },
+    "org_admin_settings.banners.renewal.cta": {
+        "string": "Review seats"
+    },
+    "plan_invoices.payment_method.card.discover": {
+        "string": "DISCOVER"
+    },
+    "properties_panel.effects.blur.start_blur": {
+        "string": "Start blur"
+    },
+    "design_systems.preset_libraries.tooltip.figma": {
+        "string": "Figma"
+    },
+    "user_onboarding_signals.v1.answer.research": {
+        "string": "Research"
+    },
+    "collaboration.branching.undo_merge_title": {
+        "string": "Undo merge"
+    },
+    "new_user_experience.file_username": {
+        "string": "{userName}'s File"
+    },
+    "type_settings.decoration.decoration_style.wavy": {
+        "string": "Wavy"
+    },
+    "dev_handoff.variables.details_collection": {
+        "string": "Collection"
+    },
+    "design_systems.preset_libraries.tooltip.apple": {
+        "string": "Apple"
+    },
+    "billing_modals.org_renewal.table.header.total": {
+        "string": "Total"
+    },
+    "org_admin_tab.connected_projects": {
+        "string": "Connected projects"
+    },
+    "inspect_panel.typography_text_decoration_style": {
+        "string": "Style"
+    },
+    "plan_invoices.payment_method.sepa_debit.unknown": {
+        "string": "SEPA"
+    },
+    "proto.animation_panel.transition_direction.left": {
+        "string": "Left"
+    },
+    "inspect_panel.typography.strikethrough": {
+        "string": "Strikethrough"
+    },
+    "fullscreen.node_type.shape_with_text": {
+        "string": "Shape with text"
+    },
+    "domain_management.manage_domains.label": {
+        "string": "Manage domain"
+    },
+    "fullscreen.properties_panel.cooper_variants": {
+        "string": "Variants"
+    },
+    "dev_handoff.variables.details_title": {
+        "string": "Variable details"
+    },
+    "admin_dashboard.requests.columns.requested": {
+        "string": "Requested"
+    },
+    "file_browser.folder_settings_modal.settings": {
+        "string": "Settings"
+    },
+    "fullscreen_actions.toolbar_label": {
+        "string": "Application toolbar"
+    },
+    "community.publishing.set_a_thumbnail": {
+        "string": "Set a thumbnail"
+    },
+    "community.publishing.go_to_community": {
+        "string": "Go to Community"
+    },
+    "plan_details.choose_organization": {
+        "string": "Choose Organization"
+    },
+    "plan_invoices.number_of_seats_label": {
+        "string": "{seatType} seats"
+    },
+    "fullscreen.node_type.assisted_layout": {
+        "string": "Assisted layout"
+    },
+    "settings_table.add_an_annual_plan": {
+        "string": "Add an annual plan"
+    },
+    "variables.binding_ui.variable_dakota_tab_name": {
+        "string": "Dakota"
+    },
+    "slides.properties_panel.code_block_panel.color": {
+        "string": "Color"
+    },
+    "admin_dashboard.requests.columns.seat_type": {
+        "string": "Seat type"
+    },
+    "plan_invoices.payment_method.card.diners": {
+        "string": "DINERS CLUB"
+    },
+    "fullscreen.node_type.section_overlay": {
+        "string": "Section overlay"
+    },
+    "fullscreen.properties_panel.grid.row_index": {
+        "string": "Row index"
+    },
+    "first_draft.make_kit.lint.title": {
+        "string": "Lint First Draft kit"
+    },
+    "community.publishing.and_youre_live": {
+        "string": "And you’re live!"
+    },
+    "proto.animation_panel.transition_direction.down": {
+        "string": "Down"
+    },
+    "resource_connection.invite_pending": {
+        "string": "Invite pending..."
+    },
+    "fullscreen.properties_panel.effects.symmetry": {
+        "string": "Symmetry"
+    },
+    "community.publishing.organization_author": {
+        "string": "Organization"
+    },
+    "fullscreen.properties_panel.jsx_debug.title": {
+        "string": "JSX debug"
+    },
+    "design_linter.penalty_box.no_violations": {
+        "string": "No violations"
+    },
+    "dev_handoff.variables.details_code_syntax": {
+        "string": "Code syntax"
+    },
+    "admin_settings.seat_counts.manage_button_label": {
+        "string": "Manage"
+    },
+    "dev_handoff.annotations.edit.tooltip": {
+        "string": "Edit annotations"
+    },
+    "design_systems.preset_libraries.tooltip.google": {
+        "string": "Google"
+    },
+    "upgrades.drafts_move.request_sent_header": {
+        "string": "Request sent"
+    },
+    "seat_billing_terms.modal.old_seat.figjam": {
+        "string": "Figjam seats"
+    },
+    "slides.speaker_notes.placeholder": {
+        "string": "Add presenter notes…"
+    },
+    "plan_invoices.no_invoices_to_show": {
+        "string": "No invoices to show"
+    },
+    "seat_billing_terms.modal.new_seat.collab": {
+        "string": "Collab seats"
+    },
+    "seat_billing_terms.modal.tos.invoices.header": {
+        "string": "Invoices"
+    },
+    "fullscreen_actions.quick_actions.make-edits": {
+        "string": "Make Edits"
+    },
+    "community.publishing.author_share_as": {
+        "string": "Author (Share as)"
+    },
+    "inspect_panel.typography.text_decoration_offset": {
+        "string": "Offset"
+    },
+    "admin_settings.billing_plan_tier.upgrade_label": {
+        "string": "upgrade"
+    },
+    "fullscreen.node_type.vector_operation": {
+        "string": "Vector operation"
+    },
+    "tile.file_tile.last_activity_time": {
+        "string": "Last activity {time}"
+    },
+    "fullscreen_actions.add-slide-object-animation": {
+        "string": "Animate…"
+    },
+    "admin_settings.billing_plan_tier.org": {
+        "string": "Organization Plan"
+    },
+    "file_browser.file_move.no_projects_yet": {
+        "string": "No projects yet"
+    },
+    "proto.animation_panel.transition_direction.right": {
+        "string": "Right"
+    },
+    "resource_connection.manage_modal.disconnect": {
+        "string": "Disconnect"
+    },
+    "community.publishing.resource_preview": {
+        "string": "Resource preview"
+    },
+    "seat_billing_terms.modal.plan_types.ent": {
+        "string": "Enterprise plan"
+    },
+    "resource_connection.manage_connection": {
+        "string": "Manage connection"
+    },
+    "request_upgrade.instructions": {
+        "string": "Add a note to your request"
+    },
+    "fullscreen.properties_panel.cooper_tabular": {
+        "string": "Tabular view"
+    },
+    "resource_connection.request_modal.add_a_link": {
+        "string": "Add a link"
+    },
+    "user_onboarding_signals.v1.answer.ux_writing": {
+        "string": "UX Writing"
+    },
+    "plan_invoices.payment_method.card.mastercard": {
+        "string": "MASTERCARD"
+    },
+    "plan_invoices.description.annual_invoice": {
+        "string": "Annual invoice"
+    },
+    "billing.open_invoice_reminder.title": {
+        "string": "Your team is locked"
+    },
+    "resource_connection.request_modal.learn_more": {
+        "string": "Learn more"
+    },
+    "team_view.toolbar.connected_projects": {
+        "string": "Connected projects"
+    },
+    "resource_connection.request_modal.next_steps": {
+        "string": "Next Steps"
+    },
+    "slides.properties_panel.object_animations.delete": {
+        "string": "Delete"
+    },
+    "fullscreen_actions.toggle-show-measurements": {
+        "string": "Measurements"
+    },
+    "fullscreen.node_type.rounded_rectangle": {
+        "string": "Rounded rectangle"
+    },
+    "admin_dashboard.requests.review_requests": {
+        "string": "Review requests"
+    },
+    "team_view.settings.grant_admin_access": {
+        "string": "Grant admin access"
+    },
+    "variables.binding_ui.variable_library_tab_name": {
+        "string": "Libraries"
+    },
+    "fullscreen.node_type.variable_override": {
+        "string": "Variable override"
+    },
+    "billing_modals.org_renewal.table.total_seats": {
+        "string": "Total seats"
+    },
+    "plan_invoices.seats_quantity": {
+        "string": "{quantity} {seatType} seats"
+    },
+    "settings_table.add_additional_seats": {
+        "string": "Add additional seats"
+    },
+    "starting_points_onboarding.fills_step.title": {
+        "string": "Change fills"
+    },
+    "inspect_panel.typography.text_decoration": {
+        "string": "Text decoration"
+    },
+    "design_systems.updates.show_all_updates": {
+        "string": "Show all updates"
+    },
+    "plan_invoices.payment_method.card.unknown.no_last_4": {
+        "string": "Card"
+    },
+    "connected_projects_table.status.disconnected": {
+        "string": "Disconnected"
+    },
+    "member_flyout_modal.billing_interval.month": {
+        "string": "Billed monthly"
+    },
+    "collaboration.feedback.context_menu.undo_merge": {
+        "string": "Undo merge"
+    },
+    "seat_billing_terms.modal.plan_types.org": {
+        "string": "Organization plan"
+    },
+    "billing_modals.org_renewal.table.header.assigned": {
+        "string": "Assigned"
+    },
+    "whiteboard.inline_menu.shape_visibility.legend": {
+        "string": "Visibility"
+    },
+    "seat_billing_terms.modal.old_seat.dev_mode": {
+        "string": "Dev Mode seats"
+    },
+    "fullscreen.toolbar.multi_mode_switcher.mode.design": {
+        "string": "Design"
+    },
+    "plan_invoices.description.monthly_invoice": {
+        "string": "Monthly invoice"
+    },
+    "slides.properties_panel.theme.add_color_label": {
+        "string": "Add a color"
+    },
+    "member_flyout_modal.billing_interval.year": {
+        "string": "Billed annually"
+    },
+    "slides.properties_panel.object_animations.direction.up": {
+        "string": "Up"
+    },
+    "file_browser.folder_settings_modal.description": {
+        "string": "Description"
+    },
+    "team_view.settings.revoke_admin_access": {
+        "string": "Revoke admin access"
+    },
+    "slides.properties_panel.code_block_panel.language": {
+        "string": "Language"
+    },
+    "fullscreen.filename_view.slides_pptx_export": {
+        "string": "Export to PPTX"
+    },
+    "asset_transfers.destination_type.organization": {
+        "string": "organization"
+    },
+    "starting_points_onboarding.toolbar_step.title": {
+        "string": "Switch tools"
+    },
+    "properties_panel.effects.blur.type.progressive": {
+        "string": "Progressive"
+    },
+    "community.publishing.use_file_thumbnail": {
+        "string": "Use file thumbnail"
+    },
+    "image_ai.upscale_image.instruction": {
+        "string": "Select an image to edit"
+    },
+    "slides.speaker_notes.error.default": {
+        "string": "Something went wrong..."
+    },
+    "collaboration.branching.files_trashed": {
+        "string": "Files moved to trash"
+    },
+    "inspect_panel.typography.text_decoration_skip_ink": {
+        "string": "Skip ink"
+    },
+    "assets_in_actions.browse_libraries_button": {
+        "string": "Browse libraries"
+    },
+    "fullscreen.properties_panel.grid.column_index": {
+        "string": "Column index"
+    },
+    "slides.carousel.back_to_current_slide": {
+        "string": "Back to current slide"
+    },
+    "design_linter.penalty_box.no_fix_available": {
+        "string": "No fix available"
+    },
+    "request_upgrade.header.figjam": {
+        "string": "Request FigJam to edit boards"
+    },
+    "design_linter.penalty_box.select_all_button_aria": {
+        "string": "Select all"
+    },
+    "design_linter.penalty_box.multiple_targets": {
+        "string": "Multiple targets"
+    },
+    "billing_modals.org_renewal.table.header.seat_type": {
+        "string": "Seat type"
+    },
+    "slides.properties_panel.object_animations.duration": {
+        "string": "Duration"
+    },
+    "design_systems.instance_panel.from_this_file": {
+        "string": "From this file"
+    },
+    "seat_billing_terms.modal.tos.support_link_text": {
+        "string": "Support team"
+    },
+    "request_upgrade.title_admin_slides": {
+        "string": "Upgrade your Slides seat"
+    },
+    "seat_billing_terms.modal.old_seat.design": {
+        "string": "Figma Design seats"
+    },
+    "admin_settings.billing_plan_tier.enterprise": {
+        "string": "Enterprise Plan"
+    },
+    "plan_settings.auto_approval_settings": {
+        "string": "Seat approval settings"
+    },
+    "design_linter.rules.color_tokens.name": {
+        "string": "Missing color variable"
+    },
+    "design_linter.penalty_box.refresh_button_aria": {
+        "string": "Refresh linter"
+    },
+    "plan_invoices.number_of_new_seats_label": {
+        "string": "New {seatType} seats"
+    },
+    "inspect_panel.typography.text_decoration_thickness": {
+        "string": "Thickness"
+    },
+    "file_browser.folder_settings_modal.tooltip.settings": {
+        "string": "Settings"
+    },
+    "project_menu.manage_transfer_request": {
+        "string": "Manage transfer request"
+    },
+    "design_systems.shared_fonts.checkbox_select_font": {
+        "string": "Select font"
+    },
+    "dev_handoff.variables.details_value_expand_aria_label": {
+        "string": "Expand"
+    },
+    "admin_settings.billing_plan_tier.learn_more_label": {
+        "string": "Learn more"
+    },
+    "fullscreen_actions.convert-to-code-file": {
+        "string": "Convert to code file"
+    },
+    "fullscreen.properties_panel.grid.vertical_span": {
+        "string": "Vertical span"
+    },
+    "dev_handoff.code_connect.entrypoint_text_library": {
+        "string": "Start setup"
+    },
+    "living_designs.properties_panel.settings.eval_runs": {
+        "string": "Eval runs"
+    },
+    "lab.sites_runtime_expanded_nodes": {
+        "string": "Sites: Expand runtime nodes"
+    },
+    "plan_invoices.plan_canceled.title": {
+        "string": "Your plan has been canceled"
+    },
+    "desktop_open_views.interstitial.figma_app_logo": {
+        "string": "Figma App Logo"
+    },
+    "resource_connection.request_modal.email_address": {
+        "string": "Email address"
+    },
+    "slides.properties_panel.object_animations.direction.left": {
+        "string": "Left"
+    },
+    "plan_invoices.description.plan_subscription": {
+        "string": "Plan subscription"
+    },
+    "resource_connection.invite_sent_info": {
+        "string": "{timeStamp} by {inviter}"
+    },
+    "billing_modals.org_renewal.table.header.unassigned": {
+        "string": "Unassigned"
+    },
+    "slides.properties_panel.object_animations.direction.down": {
+        "string": "Down"
+    },
+    "seat_billing_terms.banner.review_and_accept": {
+        "string": "Review and accept"
+    },
+    "fullscreen_actions.export-slides-to-pdf": {
+        "string": "Export slides to PDF…"
+    },
+    "resource_connection.pending_modal.revoke_invite": {
+        "string": "Revoke invite"
+    },
+    "slides.properties_panel.object_animations.direction": {
+        "string": "Direction"
+    },
+    "plan_invoices.description.quarterly_invoice": {
+        "string": "Quarterly invoice"
+    },
+    "member_flyout_modal.invite_admin_access_label": {
+        "string": "Invite as admin"
+    },
+    "resource_connection.request_modal.who_to_notify": {
+        "string": "Who to notify"
+    },
+    "domain_management.requires_verification": {
+        "string": "Requires verification"
+    },
+    "first_draft.kits.simple-design-system-kit": {
+        "string": "Simple Design System"
+    },
+    "community.visual_assets.license_tooltip.license_link": {
+        "string": "CC BY 4.0"
+    },
+    "fullscreen_actions.convert-to-code-layer": {
+        "string": "Convert to code layer"
+    },
+    "design_linter.penalty_box.layer_of_layers": {
+        "string": "{current} of {total}"
+    },
+    "billing.open_invoice_reminder.title_viewer": {
+        "string": "This team is locked"
+    },
+    "plan_invoices.amount_due_on": {
+        "string": "{amount} due on {date, date, long}"
+    },
+    "file_browser.batch_delete_project.generic_confirm_label": {
+        "string": "Delete"
+    },
+    "image_ai.upscale_image.processing": {
+        "string": "Boosting image resolution..."
+    },
+    "user_onboarding_signals.v1.answer.data_analytics": {
+        "string": "Data analytics"
+    },
+    "plan_invoices.payment_method.card.unknown.no_last_4.inline": {
+        "string": "card"
+    },
+    "seat_billing_terms.modal.tos.faq_link": {
+        "string": "updated seats and billing"
+    },
+    "admin_dashboard.requests.sent_a_reminder": {
+        "string": "Sent a reminder {time}"
+    },
+    "resource_connection.disconnected_at": {
+        "string": "Disconnected on {timeStamp}"
+    },
+    "role_request.edit_request_tooltip.request_access": {
+        "string": "request access"
+    },
+    "proto.animation_panel.transition_direction": {
+        "string": "Transition direction"
+    },
+    "fullscreen_actions.quick_actions.quoted-query": {
+        "string": "\"{searchQuery}\""
+    },
+    "slides.properties_panel.object_animations.direction.right": {
+        "string": "Right"
+    },
+    "admin_settings.seat_counts.available_seats": {
+        "string": "{quantity} available"
+    },
+    "dev_handoff.right_panel.accessible_label": {
+        "string": "Properties and plugins"
+    },
+    "plan_invoices.overdue_notice": {
+        "string": "This invoice is unpaid and overdue"
+    },
+    "proto.preload.loading.tooltip.header.slides": {
+        "string": "Downloading slides…"
+    },
+    "admin_dashboard.requests.product_seat": {
+        "string": "{billableProductKey} seat"
+    },
+    "collaboration.branching_chunk.local_style_type": {
+        "string": "Local {styleType}"
+    },
+    "request_upgrade.header.design": {
+        "string": "Request Figma Design to edit files"
+    },
+    "dev_handoff.code.lang_html_examples": {
+        "string": "Web Components, Vue, Angular"
+    },
+    "resource_connection.confirm_modal.if_you_accept": {
+        "string": "If you accept..."
+    },
+    "ui3_layers_horizontal_scroll_overlay.try_it_in_ui3": {
+        "string": "Try it in UI3"
+    },
+    "fullscreen.properties_panel.grid.horizontal_span": {
+        "string": "Horizontal span"
+    },
+    "fullscreen.properties_panel.ai_image_tools": {
+        "string": "Image tools (AI beta)"
+    },
+    "plan_invoices.payment_method.card.unknown": {
+        "string": "Card ending in {last4}"
+    },
+    "fullscreen_actions.find-inspiration-compact": {
+        "string": "Find similar designs"
+    },
+    "fullscreen.toolbar.multi_mode_switcher.switch_modes": {
+        "string": "Switch modes"
+    },
+    "starting_points_onboarding.assets_step.title": {
+        "string": "Find more templates"
+    },
+    "domain_management.column_header.unclaimed_users": {
+        "string": "Uncaptured users"
+    },
+    "whiteboard.inline_menu.lock_background_only": {
+        "string": "Lock background only"
+    },
+    "collaboration.branching_chunk.header_other_changes": {
+        "string": "Other changes"
+    },
+    "dev_handoff.variables.details_button_aria_label": {
+        "string": "Variable details"
+    },
+    "plan_invoices.new_seats_quantity": {
+        "string": "{quantity} new {seatType} seats"
+    },
+    "community.publishing.add_the_final_details": {
+        "string": "Add the final details"
+    },
+    "dev_handoff.configuration_wizard.step_picker_legend": {
+        "string": "Choose a step"
+    },
+    "rcs.visual_assets.drag_visual_assets_title": {
+        "string": "See an asset you like?"
+    },
+    "team_admin_people_table_changes_overlay.view_members": {
+        "string": "View members"
+    },
+    "dev_handoff.variables.table_groups_expand_aria_label": {
+        "string": "Expand group"
+    },
+    "resource_connection.request_modal.send_invitation": {
+        "string": "Send Invitation"
+    },
+    "lab.ai_features_use_bedrock_llama": {
+        "string": "AI: Use Llama on Amazon Bedrock"
+    },
+    "variables.visual_bell.expand_variable_group": {
+        "string": "Expand variable group"
+    },
+    "slides.properties_panel.variable_list.current_slide": {
+        "string": "Current slide"
+    },
+    "community.publishing.individual_creator_author": {
+        "string": "Individual Creator"
+    },
+    "community.actions.unable_to_save_resource": {
+        "string": "Unable to save resource"
+    },
+    "slides.speaker_notes.no-notes-placeholder": {
+        "string": "No notes for this slide"
+    },
+    "collaboration.branching_node_treatments.value.effect.repeat": {
+        "string": "Repeat"
+    },
+    "design_systems.libraries_modal.error_body": {
+        "string": "Try reloading the modal."
+    },
+    "slides.properties_panel.object_animations.animation_type.none": {
+        "string": "None"
+    },
+    "starting_points_onboarding.properties_step.title": {
+        "string": "Adjust properties"
+    },
+    "community.publishing.describe_your_resource": {
+        "string": "Describe your resource"
+    },
+    "fullscreen.node_type.variable_set_extension": {
+        "string": "Variable set extension"
+    },
+    "admin_dashboard.requests.youre_all_caught_up": {
+        "string": "You’re all caught up!"
+    },
+    "request_upgrade.header.dev_mode": {
+        "string": "Request Dev Mode to code and build"
+    },
+    "design_systems.assets_panel.num_results_parenthesis": {
+        "string": "({numResults})"
+    },
+    "slides.properties_panel.object_animations.animation_type.fade": {
+        "string": "Fade"
+    },
+    "slides.properties_panel.theme.add_text_style_label": {
+        "string": "Add a text style"
+    },
+    "proto.preload.error.tooltip.header.slides": {
+        "string": "Could not download slides"
+    },
+    "fullscreen.properties_panel.export_settings.slides_content": {
+        "string": "Content:"
+    },
+    "fullscreen_actions.slides-draft-speaker-notes": {
+        "string": "Draft presenter notes"
+    },
+    "banner.pro_team_charge_failed_revamp.title": {
+        "string": "Your invoice is past due"
+    },
+    "new_user_experience.what_do_you_do.sticky_note.ux_writing": {
+        "string": "Copy that"
+    },
+    "first_draft.make_kit.lint.no_lint_errors_found": {
+        "string": "No lint errors found"
+    },
+    "image_ai.upscale_image.image_too_large_error": {
+        "string": "Max resolution reached"
+    },
+    "fullscreen_actions.quick_actions.detect-violations": {
+        "string": "Find suggestions"
+    },
+    "connected_projects_table.connected_plan": {
+        "string": "Connected Team/Organization"
+    },
+    "dev_handoff.configuration_wizard.title_one_click": {
+        "string": "Dive into Dev Mode"
+    },
+    "plan_invoices.payment_amount.with_method": {
+        "string": "{amount} paid via {method}"
+    },
+    "dev_handoff.annotations.copied_link_to_clipboard": {
+        "string": "Copied link to node"
+    },
+    "starting_points_onboarding.edit_text_step.title": {
+        "string": "Select and edit text"
+    },
+    "community.publishing.additional_contributors": {
+        "string": "Additional contributors"
+    },
+    "fullscreen_actions.toggle-show-code-connect-annotations": {
+        "string": "Code Connect"
+    },
+    "auth.sign_up_to_use_inspection_tools": {
+        "string": "Sign up to use inspection tools"
+    },
+    "fullscreen.pages_panel.rename_all_layers_menu_item": {
+        "string": "Rename all layers"
+    },
+    "upgrades.auto_pathway_success_modal.header": {
+        "string": "You can now edit in Figma"
+    },
+    "resource_connection.request_modal.step_1_of_2": {
+        "string": "Step {stepNumber} of 2"
+    },
+    "design_systems.preset_libraries.tooltip.figma_license_link": {
+        "string": "CC BY 4.0"
+    },
+    "community.publishing.upload_images_or_videos": {
+        "string": "Upload images or videos"
+    },
+    "billing_modals.org_renewal.table.header.projected_cost": {
+        "string": "Projected cost"
+    },
+    "user_onboarding_signals.v1.answer.other.placeholder": {
+        "string": "Ex: Art direction"
+    },
+    "slides.properties_panel.object_animations.animation_type.slide": {
+        "string": "Slide…"
+    },
+    "design_systems.assets_panel.search_all_icon_sets": {
+        "string": "Search all icon sets"
+    },
+    "dev_handoff.variables.table_groups_collapse_aria_label": {
+        "string": "Collapse group"
+    },
+    "domain_insights.manage_unclaimed_domain_users": {
+        "string": "Manage uncaptured users"
+    },
+    "design_systems.assets_panel.created_in_this_file": {
+        "string": "Created in this file"
+    },
+    "help_widget.menu.report_translation_issues": {
+        "string": "Report a translation issue"
+    },
+    "file_browser.file_import_view.repo.success": {
+        "string": "Repo imported successfully"
+    },
+    "member_flyout_modal.upgrade_actor_name": {
+        "string": "Upgraded by {upgradeActorName}"
+    },
+    "community.sinatra.invalid_widget": {
+        "string": "Editor type does not support widgets"
+    },
+    "fullscreen_actions.quick_actions.add-interactions-v2": {
+        "string": "Add interactions"
+    },
+    "variables.visual_bell.collapse_variable_group": {
+        "string": "Collapse variable group"
+    },
+    "design_systems.instance_panel.open_community_page": {
+        "string": "Open Community page"
+    },
+    "file_browser.file_import_view.repo.attaching_branch": {
+        "string": "Attaching branch…"
+    },
+    "living_designs.eval.finished": {
+        "string": "Living Design evals created successfully!"
+    },
+    "design_systems.shared_fonts.checkbox_select_all_fonts": {
+        "string": "Select all fonts"
+    },
+    "resource_connection.request_modal.errors.user_not_found": {
+        "string": "User not found"
+    },
+    "file_browser.folder_settings_modal.manage_connection": {
+        "string": "Manage connection"
+    },
+    "fullscreen.properties_panel.effects.repeat.order_reverse": {
+        "string": "Reverse order"
+    },
+    "request_upgrade.header.slides": {
+        "string": "Request Figma Slides to edit slide decks"
+    },
+    "community.publishing.getting_everything_ready": {
+        "string": "Getting everything ready"
+    },
+    "fullscreen.properties_panel.grid.horizontal_spacing": {
+        "string": "Horizontal spacing"
+    },
+    "collaboration.branching_node_treatments.value.effect.symmetry": {
+        "string": "Symmetry"
+    },
+    "seat_billing_terms.modal.tos.ssa_link_text": {
+        "string": "Software Services Agreement"
+    },
+    "auth.sign_up_to_use_multiplayer_tools": {
+        "string": "Sign up to use multiplayer tools"
+    },
+    "plan_invoices.payment_method.card.unknown.inline": {
+        "string": "card ending in {last4}"
+    },
+    "request_upgrade.title_request_access_to_slides": {
+        "string": "Request access to Slides"
+    },
+    "slides.speaker_notes.error.rate_limit": {
+        "string": "Wait a minute before trying again"
+    },
+    "notification_settings_modal.browser_notifications": {
+        "string": "Browser notifications"
+    },
+    "resource_connection.request_modal.plan_link_verified": {
+        "string": "{planName} verified"
+    },
+    "slides.speaker_notes.error.openai_down": {
+        "string": "AI features currently unavailable"
+    },
+    "license_group_admin.billing_banner.count_title.design": {
+        "string": "Total Design seats"
+    },
+    "fullscreen.node_type.interactive_slide_element": {
+        "string": "Interactive slide element"
+    },
+    "dev_handoff.paywall.success_modal.grace_period.button_one_click": {
+        "string": "Let's go"
+    },
+    "file_browser.recents_and_sharing_view.suggested_files_tab_name": {
+        "string": "Suggested"
+    },
+    "license_group_admin.billing_banner.count_title.figjam": {
+        "string": "Total FigJam seats"
+    },
+    "plan_invoices.x_over_x_total_seats": {
+        "string": "{numerator}/{denominator} total seats"
+    },
+    "first_draft.make_kit.lint.no_kit_found": {
+        "string": "No kit found. Create a kit first."
+    },
+    "seat_billing_terms.modal.seat_features.collab": {
+        "string": "Includes FigJam and Slides"
+    },
+    "billing_modals.org_renewal.cta.confirm_seat_renewal": {
+        "string": "Confirm seat renewal"
+    },
+    "slides.speaker_notes.error.token_limit": {
+        "string": "Remove some content and try again"
+    },
+    "file_browser.file_move.no_projects_in_this_team": {
+        "string": "No projects in this team"
+    },
+    "dev_handoff.compare_changes.button.failed": {
+        "string": "Failed to open Compare Changes"
+    },
+    "dev_handoff.variables.table_collections_local": {
+        "string": "Collections from this file"
+    },
+    "fullscreen_actions.quick_actions.find-components": {
+        "string": "{searchQuery} components"
+    },
+    "fullscreen.properties_panel.export_settings.slides_content.all": {
+        "string": "All slides"
+    },
+    "living_designs.properties_panel.settings.create_evals_button": {
+        "string": "Create evals"
+    },
+    "members_table.invite_tooltip.seat": {
+        "string": "The seat type was set by the org invite"
+    },
+    "fullscreen.properties_panel.export_settings_image_sampling": {
+        "string": "Image sampling"
+    },
+    "fullscreen.properties_panel.ai_image_tools.upscale_image": {
+        "string": "Boost resolution"
+    },
+    "fullscreen.properties_panel.export_settings_image_sampling.bicubic": {
+        "string": "Smooth"
+    },
+    "billing.open_invoice_reminder.grace_period_title": {
+        "string": "Your invoice is past due"
+    },
+    "rcs.visual_assets.elevate_your_designs": {
+        "string": "Design effortlessly with icon sets"
+    },
+    "request_upgrade.placeholder.figjam": {
+        "string": "Tell your admins why you'd like FigJam"
+    },
+    "admin_dashboard.requests.requested_a_seat": {
+        "string": "{name} requested a {boldedSeat}"
+    },
+    "community.publishing.gathering_all_the_layers": {
+        "string": "Gathering all the layers..."
+    },
+    "community.publishing.compiling_all_components": {
+        "string": "Compiling all components..."
+    },
+    "request_upgrade.title_request_sent_stay_tuned": {
+        "string": "Request sent! Stay tuned..."
+    },
+    "slides.speaker_notes.error.connection": {
+        "string": "Check your connection and try again"
+    },
+    "community.publishing.description_cant_be_empty": {
+        "string": "Description can't be empty"
+    },
+    "resource_connection.request_modal.generic_plan_link_verified": {
+        "string": "Plan verified"
+    },
+    "banner.cooper.alpha_banner.prod_description": {
+        "string": "This project is in development"
+    },
+    "community.community_license_text": {
+        "string": "Licensed by Community under {licenseLink}"
+    },
+    "design_systems.libraries_modal.recommended_libraries": {
+        "string": "Recommended libraries"
+    },
+    "ai.error.not_implemented": {
+        "string": "AI feature not supported with your selected model"
+    },
+    "slides.speaker_notes.error.add-more-content": {
+        "string": "Add more content and try again"
+    },
+    "slides.properties_panel.text_style.edit_template_color": {
+        "string": "Edit template color"
+    },
+    "admin_settings.people.onboarding.easily_manage_people": {
+        "string": "Easily manage people"
+    },
+    "slides.speaker_notes.error.payload_too_large": {
+        "string": "Downsize images and try again"
+    },
+    "fullscreen.properties_panel.export_settings_image_sampling.standard": {
+        "string": "Coarse"
+    },
+    "domain_insights.unclaimed_users.search.placeholder": {
+        "string": "Search uncaptured users"
+    },
+    "design_systems.libraries_modal.last_updated_time": {
+        "string": "Last updated {timeFromNow}"
+    },
+    "magic_link.running_and_adding_back_interactions": {
+        "string": "Adding back interactions..."
+    },
+    "design_linter.rules.color_tokens.warning_label": {
+        "string": "Select or create color token"
+    },
+    "dev_handoff.variables.table_empty": {
+        "string": "No variables from this file are available"
+    },
+    "admin_dashboard.request_flyout.requested_a_seat": {
+        "string": "requested a {seatType} seat"
+    },
+    "collaboration.branching.files_permanently_deleted": {
+        "string": "Files permanently deleted"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_file": {
+        "string": "Code file"
+    },
+    "dev_handoff.upsell.user_marked_a design": {
+        "string": "{userName} marked a design {status}"
+    },
+    "collaboration.branching_chunk.fallback_missing_library_name": {
+        "string": "Library changes"
+    },
+    "domain_insights.unclaimed_users.enable_domain_capture": {
+        "string": "enable domain capture"
+    },
+    "image_ai.upscale_image.qa_suggestion_toast": {
+        "string": "Your image looks a little blurry"
+    },
+    "revoke_transfer_modal.visual_bell.transfer_revoked": {
+        "string": "Transfer request revoked"
+    },
+    "resource_connection.request_modal.connect_this_project": {
+        "string": "Connect this project"
+    },
+    "domain_insights.unclaimed_users.no_unclaimed_users": {
+        "string": "No uncaptured users found"
+    },
+    "slides.speaker_notes.placeholder-next-to-draft-button": {
+        "string": "Add presenter notes or"
+    },
+    "fullscreen.visual_bell.large_deletion_warning": {
+        "string": "{numNodes} layers were deleted"
+    },
+    "whiteboard.shapes_sidebar.see_additional_shapes_button": {
+        "string": "+{numRemainingShapes}"
+    },
+    "dev_handoff.variables.details_button_close_aria_label": {
+        "string": "Close variable details"
+    },
+    "fullscreen_actions.quick_actions.find-in-community": {
+        "string": "{searchQuery} in Community"
+    },
+    "upgrades.drafts_move.request_header": {
+        "string": "[Request full access to move from drafts]"
+    },
+    "design_systems.assets_panel.search_all_illustrations": {
+        "string": "Search all illustrations"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_layer": {
+        "string": "Code layer"
+    },
+    "design_systems.instance_swap_picker.created_in_this_file": {
+        "string": "Created in this file"
+    },
+    "plan_invoices.payment_amount.with_date": {
+        "string": "{amount} paid on {date, date, ::MMMMd}"
+    },
+    "dakota.collection_field_editor.error.duplicate_name": {
+        "string": "Field name already exists"
+    },
+    "request_upgrade.placeholder.dev_mode": {
+        "string": "Tell your admins why you'd like Dev Mode"
+    },
+    "fullscreen.properties_panel.gradient_picker.delete_stop_shorthand": {
+        "string": "Delete stop"
+    },
+    "slides.speaker_notes.error.inappropriate_input": {
+        "string": "Blocked · Try different content"
+    },
+    "admin_settings.sidebar.onboarding.welcome_to_admin": {
+        "string": "Welcome to {planName} admin"
+    },
+    "slides.speaker_notes.error.unmodified_slide": {
+        "string": "Add your own content and try again"
+    },
+    "fullscreen.properties_panel.ai_image_tools.remove_background": {
+        "string": "Remove background"
+    },
+    "seat_billing_terms.modal.finish_and_agree": {
+        "string": "Finish and agree to keep using Figma"
+    },
+    "universal_upgrade.enterpise_plan_banner_v2.banner_body_text_and_more": {
+        "string": "and more."
+    },
+    "role_request.edit_request_tooltip.wants_to_request_type": {
+        "string": "wants to {requestType}"
+    },
+    "living_designs.properties_panel.settings.backoff_delay": {
+        "string": "Eval backoff delay (ms)"
+    },
+    "community.publishing.cannot_have_more_than_5_tags": {
+        "string": "Cannot have more than 5 tags"
+    },
+    "fullscreen_actions.quick_actions.first-draft-fine-tune": {
+        "string": "First Draft (fine-tune)"
+    },
+    "resource_connection.visual_bell.connection_request_sent": {
+        "string": "Connection request sent"
+    },
+    "seat_billing_terms.modal.tos.subscription.header": {
+        "string": "Subscription terms and pricing"
+    },
+    "design_systems.libraries_modal.error_header": {
+        "string": "Encountered an error while loading."
+    },
+    "new_user_experience.what_do_you_do.sticky_note.data_analytics": {
+        "string": "Let's A/B test it"
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui3_title": {
+        "string": "<- Horizontal layer scrolling ->"
+    },
+    "request_upgrade.placeholder.design": {
+        "string": "Tell your admins why you'd like Figma Design"
+    },
+    "asset_suggestions.visual_search_icon_button_tooltip_with_beta_tag": {
+        "string": "Visual search"
+    },
+    "request_upgrade.placeholder.slides": {
+        "string": "Tell your admins why you'd like Figma Slides"
+    },
+    "banner.pro_team_past_due_revamp.title_viewer": {
+        "string": "This file is part of a locked team"
+    },
+    "fullscreen.properties_panel.transform_panel.aspect_ratio_lock": {
+        "string": "Lock aspect ratio"
+    },
+    "fullscreen.file_import.import_jamboard_pdf_failed": {
+        "string": "Unable to import Jamboard PDF"
+    },
+    "seat_billing_terms.modal.seat_features.dev": {
+        "string": "Includes Dev Mode, FigJam and Slides"
+    },
+    "living_designs.eval.error": {
+        "string": "Error creating Living Design evals. Please try again."
+    },
+    "request_upgrade.instruction_text_header_optional": {
+        "string": "{boldedInstructions} (optional)"
+    },
+    "admin_settings.seat_counts.manage_seat_type_button_label": {
+        "string": "Manage {seatType} seats"
+    },
+    "seat_billing_terms.modal.tos.additional_seats.header": {
+        "string": "Purchasing additional seats"
+    },
+    "bug_reporter.modal.search_filter_placeholder": {
+        "string": "Filter through the dropdown results"
+    },
+    "image_ai.upscale_image.image_too_small_error": {
+        "string": "Image too small to boost resolution"
+    },
+    "auth.sign_up_to_comment_edit_inspect": {
+        "string": "Sign up to comment, edit, inspect and more."
+    },
+    "settings_table.your_annual_plan_starts": {
+        "string": "Your annual plan starts {date, date, long}"
+    },
+    "role_request.edit_request_tooltip.user1_and_user2": {
+        "string": "{userHandle1} and {userHandle2}"
+    },
+    "fullscreen.properties_panel.gradient_picker.redistribute_stops": {
+        "string": "Redistribute stops"
+    },
+    "fullscreen_actions.focus-mode-responsive-set-enable": {
+        "string": "Always select matching layers"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_library": {
+        "string": "Code library"
+    },
+    "image_ai.upscale_image.image_already_max_upscaled_error.boost_anyway": {
+        "string": "Boost anyway"
+    },
+    "magic_link.running_and_adding_overlay_interactions": {
+        "string": "Adding overlay interactions..."
+    },
+    "image_ai.upscale_image.image_error": {
+        "string": "Something went wrong... Try a different image."
+    },
+    "dev_handoff.variables.suggested_variables.library_not_found": {
+        "string": "From external library"
+    },
+    "file_browser.file_import_view.repo.error": {
+        "string": "An error occurred while attaching branch"
+    },
+    "design_linter.penalty_box.fix_failed_bell": {
+        "string": "Something went wrong. Please try again."
+    },
+    "design_systems.libraries_modal.no_organization_libraries": {
+        "string": "No organization libraries"
+    },
+    "living_designs.properties_panel.settings.serializer_dropdown": {
+        "string": "Choose the serializer"
+    },
+    "dev_handoff.variables.table_collection_empty": {
+        "string": "This collection contains no variables"
+    },
+    "variables.binding_ui.set_labels.variables_created_in_file": {
+        "string": "Variables from this file"
+    },
+    "checkout.tax_disclaimer_revised": {
+        "string": "See your total (including taxes) in {checkoutStep}"
+    },
+    "fullscreen_actions.quick_actions.find-at-plan-file": {
+        "string": "{searchQuery} at {planFileName}"
+    },
+    "resource_connection.visual_bell.already_denied": {
+        "string": "This invite has already been denied"
+    },
+    "resource_connection.revoke_modal.revoke_connection_invite": {
+        "string": "Revoke connection invite"
+    },
+    "asset_suggestions.suggestion_shelf_empty_state": {
+        "string": "Click on a layer to view suggestions"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.invoice_subtotal": {
+        "string": "Invoice subtotal"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_instance": {
+        "string": "Code instance"
+    },
+    "magic_link.running_and_adding_navigate_interactions": {
+        "string": "Adding navigate interactions..."
+    },
+    "fullscreen_actions.focus-mode-responsive-set-disable": {
+        "string": "Stop selecting matching layers"
+    },
+    "slides.speaker_notes.error.opt_out": {
+        "string": "AI features are turned off for your organization"
+    },
+    "banner.pro_team_past_due_revamp.title": {
+        "string": "This file is locked due to a past due invoice"
+    },
+    "magic_link.running_and_selecting_top_level_frames": {
+        "string": "Selecting top-level frames for you"
+    },
+    "visual_bell.can_t_paste_focused_on_instance": {
+        "string": "Can't paste while focused on an instance"
+    },
+    "file_browser.folder_settings_modal.no_description_added_yet": {
+        "string": "No description added yet"
+    },
+    "resource_connection.visual_bell.already_revoked": {
+        "string": "This invite has already been revoked"
+    },
+    "community.publishing.sell_this_resource_on_community": {
+        "string": "Sell this resource on Community"
+    },
+    "dev_handoff.variables.details_scope_info": {
+        "string": "Variable only shows up for these properties"
+    },
+    "org_admin_settings.banners.renewal.body.non_auto": {
+        "string": "Please contact your account manager."
+    },
+    "fullscreen.toolbar_banner.provisional_access.dev_mode": {
+        "string": "Enjoy temporary Dev Mode access"
+    },
+    "slides.properties_panel.presentation_presets_entrypoint_header": {
+        "string": "Making a presentation?"
+    },
+    "fullscreen.properties_panel.section_layout_grid.tooltip_addLayoutGrid": {
+        "string": "Add layout grid"
+    },
+    "design_systems.libraries_modal.dsa_empty_styles": {
+        "string": "This library doesn't have any styles."
+    },
+    "file_browser.folder_settings_modal.add_description": {
+        "string": "Add a description for this project"
+    },
+    "resource_connection.disconnect_modal.disconnect_project_name": {
+        "string": "Disconnect {projectName}"
+    },
+    "resource_connection.visual_bell.connection_request_denied": {
+        "string": "Connection request declined"
+    },
+    "resource_connection.visual_bell.connection_request_revoked": {
+        "string": "Connection request revoked"
+    },
+    "fullscreen.toolbar.prototyping-add-interactions-tooltip-v2": {
+        "string": "Add interactions (AI beta)"
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui2_title": {
+        "string": "New in UI3: Horizontal layer scrolling"
+    },
+    "subscription.error.no_annual_subscription_to_cancel": {
+        "string": "No annual subscription to cancel."
+    },
+    "resource_connection.visual_bell.already_approved": {
+        "string": "This invite has already been approved"
+    },
+    "fullscreen_actions.quick_actions.first-draft-make-kit-debug": {
+        "string": "Debug Make First Draft kit"
+    },
+    "team_view.pastdue_proteam_admin_invoice_reminder_banner.title": {
+        "string": "Your invoice is past due"
+    },
+    "community.publishing.we_have_received_your_submission": {
+        "string": "We have received your submission"
+    },
+    "fullscreen.properties_panel.grid.number_of_rows_in_the_grid": {
+        "string": "Number of rows in the grid"
+    },
+    "seat_billing_terms.modal.please_review": {
+        "string": "Please review some important updates for admins"
+    },
+    "resource_connection.request_modal.learn_how_to_find_the_link": {
+        "string": "Learn how to find the link"
+    },
+    "billing_modals.org_renewal.header": {
+        "string": "Annual seats renewing {date, date, long} in {orgName}"
+    },
+    "dev_handoff.code_connect.entrypoint_title_library": {
+        "string": "Show developers this component's code"
+    },
+    "resource_connection.visual_bell.connection_request_approved": {
+        "string": "Connection request approved"
+    },
+    "community.saves.resource_saved_for_everyone_at": {
+        "string": "Resource saved for everyone at {orgName}"
+    },
+    "resource_connection.num_members": {
+        "string": "{count, plural, one {1 member} other {{count} members}}"
+    },
+    "living_designs.eval.progress": {
+        "string": "Creating Living Design evals (slow)... {completed}/{total}"
+    },
+    "slides.speaker_notes.error.switched-slides": {
+        "string": "Stay on the slide until drafting is complete"
+    },
+    "file_browser.file_import_view.jamboard_import_deprecation_message.learn_more": {
+        "string": "Learn more"
+    },
+    "tile.sort_filter.can_be_restored_permanently_deleted": {
+        "string": "Can be restored/permanently deleted"
+    },
+    "fullscreen_actions.quick_actions.find-inspiration-verbose": {
+        "string": "Search with image or selection"
+    },
+    "billing_modals.org_renewal.disclaimer_banner.manage_assigned_seats": {
+        "string": "Manage assigned seats"
+    },
+    "community.publishing.include_prototypes_in_thumbnail": {
+        "string": "Include prototypes in the thumbnail"
+    },
+    "plan_invoices.next_invoice_issued_at": {
+        "string": "Your next invoice will be issued {date, date, long}"
+    },
+    "file_browser.folder_settings_modal.connect_with_external_plan": {
+        "string": "Connect with external team"
+    },
+    "plan_invoices.locked_invoice.title": {
+        "string": "Your {date, date, ::MMMMd} invoice has been finalized"
+    },
+    "fullscreen_actions.repair-duplicate-subscribed-assets": {
+        "string": "Repair duplicate subscribed assets"
+    },
+    "fullscreen_actions.quick_actions.find-plugins-widgets": {
+        "string": "{searchQuery} in plugins & widgets"
+    },
+    "plan_invoices.total_seats": {
+        "string": "{quantity, plural, one {1 seat} other {{quantity} total seats}}"
+    },
+    "org_admin_settings.banners.renewal.header": {
+        "string": "{seatCount} seats will renew {date, date, long}"
+    },
+    "fullscreen_actions.export-all-cooper-templates-to-pdf": {
+        "string": "Export all Cooper templates to PDF…"
+    },
+    "session.expired_magic_code": {
+        "string": "The code you entered has expired. Please try logging in again."
+    },
+    "resource_connection.request_modal.add_a_message_if_you_d_like": {
+        "string": "Add a message if you'd like"
+    },
+    "settings_table.convert_all_monthly_seats": {
+        "string": "Convert all monthly seats to a lower annual rate."
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_view": {
+        "string": "{userName} seat changed"
+    },
+    "fullscreen_actions.quick_actions.find-inspiration-with-selection-vague": {
+        "string": "Find more like this"
+    },
+    "community.actions.unable_to_like_this_resource_error": {
+        "string": "Unable to like this resource: {error}"
+    },
+    "auth.create_account_to_view_reply_comments": {
+        "string": "Create an account to view and reply to comments."
+    },
+    "domain_insights.unclaimed_users.add_users": {
+        "string": "{count, plural, one {Add user} other {Add users}}"
+    },
+    "design_systems.libraries_modal.dsa_empty_variables": {
+        "string": "This library doesn't have any variables."
+    },
+    "fullscreen_actions.quick_actions.find-inspiration-with-selection": {
+        "string": "Find more like {frameName}"
+    },
+    "properties_panel.effects.repeat.units_relative": {
+        "string": "{numUnits, plural, one {Unit} other {Units}}"
+    },
+    "community.saves.resource_removed_for_everyone_at": {
+        "string": "Resource removed for everyone at {orgName}"
+    },
+    "fullscreen.properties_panel.grid.number_of_columns_in_the_grid": {
+        "string": "Number of columns in the grid"
+    },
+    "visual_bell.can_t_duplicate_focused_on_instance": {
+        "string": "Can't duplicate while focused on an instance"
+    },
+    "domain_insights.unclaimed_users.verify_domains_note": {
+        "string": "Verify domains and enable domain capture"
+    },
+    "design_systems.libraries_modal.your_admins_suggest": {
+        "string": "Your admins suggest using these libraries"
+    },
+    "community.access_needed_to_publish_in_org_modal.title": {
+        "string": "Request access to publish to Community"
+    },
+    "design_systems.libraries_modal.dsa_empty_components": {
+        "string": "This library doesn't have any components."
+    },
+    "plan_invoices.review_invoice.title_trueup": {
+        "string": "You're in your {date, date, ::MMMMd} true-up period"
+    },
+    "file_browser.team_settings_modal.paid_status_explanation.admin_dashboard_link": {
+        "string": "admin dashboard"
+    },
+    "in_product_help_and_learning.article.explore_component_properties": {
+        "string": "Explore component properties"
+    },
+    "design_systems.libraries_modal.dsa_csv_team_file_name": {
+        "string": "{libraryName}-{assetType}-team-usage.csv"
+    },
+    "plan_invoices.annual_and_monthly_quantities": {
+        "string": "{annualQuantity} annual, {monthlyQuantity} monthly"
+    },
+    "community.actions.unable_to_unlike_this_resource_error": {
+        "string": "Unable to unlike this resource: {error}"
+    },
+    "plan_invoices.plan_canceled.subtitle": {
+        "string": "Your seats will be deactivated on {expiresAt, date, long}"
+    },
+    "whiteboard.delightful_toolbar.provisional_access": {
+        "string": "Request sent—enjoy temporary access to FigJam"
+    },
+    "plan_invoices.review_invoice.subtitle": {
+        "string": "Review and confirm seats, and then finalize your invoice"
+    },
+    "slides.speaker_notes.error.switched-to-grid-view": {
+        "string": "Stay in slide view until drafting is complete"
+    },
+    "auto_rename_layers.rename_layers": {
+        "string": "{numLayers, plural, one {Rename layer} other {Rename layers}}"
+    },
+    "assets_in_actions.no_results_no_libraries.title": {
+        "string": "No results. Add a library to search components"
+    },
+    "upgrades.drafts_move.request_sent_body_figjam": {
+        "string": "Enjoy up to 3 days of temporary access to FigJam."
+    },
+    "notification_settings_modal.send_me_browser_push_notifications": {
+        "string": "Send notifications to my browser"
+    },
+    "team_admin_people_table_changes_overlay.team_permissions_have_moved": {
+        "string": "Team permissions have moved"
+    },
+    "auth.magic_link_check_email.body_login_with_code": {
+        "string": "Or, enter the code we sent to your email here."
+    },
+    "admin_settings.sidebar.onboarding.quickly_get_back_to_your_files": {
+        "string": "Quickly get back to your files"
+    },
+    "admin_dashboard.request_flyout.sent_a_reminder": {
+        "string": "{name} sent a reminder {reminderSentTimeFromNow}"
+    },
+    "admin_settings.billing_plan_tier.copy_no_upgrade": {
+        "string": "You’re currently on the {planTier}. {learnMore}"
+    },
+    "community.publishing.recommended_size_in_pixels": {
+        "string": "Recommended size: {mediaWidth} x {mediaHeight}px"
+    },
+    "slides.speaker_notes.error.meter_limit": {
+        "string": "Usage limit reached · Resets on {resetDate, date, medium}"
+    },
+    "fullscreen.toolbar_banner.provisional_access.design": {
+        "string": "Request sent—enjoy temporary access to Design"
+    },
+    "plan_invoices.total_seats_colon": {
+        "string": "{quantity, plural, one {1 seat:} other {{quantity} total seats:}}"
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.one_admin": {
+        "string": "{orgAdminName} is your admin"
+    },
+    "dev_handoff.variables.details_values_not_all_from_same_mode": {
+        "string": "Values are not all from the same mode"
+    },
+    "fullscreen.toolbar_banner.provisional_access.slides": {
+        "string": "Request sent—enjoy temporary access to Slides"
+    },
+    "dev_handoff.variables.table_collections_local_expand_aria_label": {
+        "string": "Expand collections from this file"
+    },
+    "admin_settings.billing_plan_tier.copy": {
+        "string": "You’re currently on the {planTier}. {learnMore} or {upgrade}"
+    },
+    "domain_management.unclaimed_user_count": {
+        "string": "{userCount, plural, one {1 user} other {{userCount} users}}"
+    },
+    "visual_bell.can_t_create_nodes_focused_on_instance": {
+        "string": "Can't create nodes while focused on an instance"
+    },
+    "auto_rename_layers.renamed_n_layers": {
+        "string": "{n, plural, one {Renamed {n} layer} other {Renamed {n} layers}}"
+    },
+    "tooltips_plus_onboarding.ui_kits_and_icon_packs_step.title": {
+        "string": "Design faster with UI kits and icon packs"
+    },
+    "community.visual_assets.license_tooltip": {
+        "string": "Community resource licensed by {authorName} under CC BY 4.0."
+    },
+    "seat_billing_terms.banner.info.description": {
+        "string": "These terms include changes to our prices and seat types."
+    },
+    "upgrades.drafts_move.request_sent_body_design": {
+        "string": "Enjoy up to 3 days of temporary access to Figma Design."
+    },
+    "resource_connection.visual_bell.connection_already_exists": {
+        "string": "Connection already exists for this resource"
+    },
+    "community.publishing.add_up_to_n_images_to_your_carousel": {
+        "string": "Add up to {maxMedia} images to your carousel"
+    },
+    "community.publishing.name_must_be_n_characters_long": {
+        "string": "Name must be at least {minLength} characters long"
+    },
+    "dev_handoff.variables.table_collections_local_collapse_aria_label": {
+        "string": "Collapse collections from this file"
+    },
+    "billing.open_invoice_reminder.locked_viewer_description": {
+        "string": "To unlock this team, reach out to your admin."
+    },
+    "seat_billing_terms.banner.urgent.main_text": {
+        "string": "Accept our updated contract terms to continue using Figma."
+    },
+    "upgrades.drafts_move.request_sent_body_slides": {
+        "string": "Enjoy up to 3 days of temporary access to Figma Slides."
+    },
+    "org_admin_settings.banners.renewal.header.non_auto": {
+        "string": "Your account is due for renewal {date, date, long}"
+    },
+    "plan_invoices.payment_amount.with_method_and_date": {
+        "string": "{amount} paid via {method} on {date, date, ::MMMMd}"
+    },
+    "file_browser.tiles_view.default_overfiltered_text": {
+        "string": "No matching results—clear some filters to see files"
+    },
+    "seat_billing_terms.modal.evolving_terms": {
+        "string": "We’re evolving our seats from single-product to multi-product."
+    },
+    "org_admin_settings.billing.freeze_invoice_modal.details_heading.annual": {
+        "string": "Confirm that you'd like to have:"
+    },
+    "plan_settings.auto_approval_settings_description": {
+        "string": "Configure how seat requests and upgrades are approved."
+    },
+    "org_admin_settings.billing.freeze_invoice_modal.details_heading.true_up": {
+        "string": "Confirm that you'd like to add:"
+    },
+    "dev_handoff.paywall.blocking_modal.content.curious_to_learn_more": {
+        "string": "Curious to learn more? {learnMoreLink}"
+    },
+    "resource_connection.request_modal.errors.please_use_a_valid_email_format": {
+        "string": "Please use a valid email format"
+    },
+    "image_ai.upscale_image.image_already_max_upscaled_error": {
+        "string": "Boosting resolution any further may take a while"
+    },
+    "fullscreen.properties_panel.grid.vertical_spacing_between_grid_items": {
+        "string": "Vertical spacing between grid items"
+    },
+    "resource_connection.visual_bell.generic_error": {
+        "string": "Something went wrong - check your connection and try again"
+    },
+    "resource_connection.visual_bell.project_successfully_disconnected": {
+        "string": "{projectName} successfully disconnected"
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.two_admins": {
+        "string": "{orgAdmin1Name} and {orgAdmin2Name}"
+    },
+    "community.publishing.you_must_set_a_thumbnail_for_your_resource": {
+        "string": "You must set a thumbnail for your resource"
+    },
+    "community.saves.resource_saved_for_your_profile": {
+        "string": "Resource saved to your Figma account and Community profile"
+    },
+    "plan_invoices.generic_new_seats_quantity": {
+        "string": "{quantity, plural, one {1 new seat} other {{quantity} new seats}}"
+    },
+    "request_upgrade.message_input_placeholder.dev_mode_one_click": {
+        "string": "(Optional) Add a note to speed up your request"
+    },
+    "seat_billing_terms.modal.seat_features.full": {
+        "string": "Includes all our products: Design, Dev Mode, FigJam, and Slides"
+    },
+    "abandoned_drafts_table.folder_path": {
+        "string": "{abandonedDraftUserName} ({abandonedDraftUserEmail})'s unassigned drafts"
+    },
+    "plan_invoices.new_seats_added": {
+        "string": "{quantity, plural, one {1 new seat added} other {{quantity} new seats added}}"
+    },
+    "banner.pro_team_charge_failed_revamp.subtitle.can_admin": {
+        "string": "Please pay your invoice to keep your work unlocked."
+    },
+    "fullscreen_actions.quick_actions.find-at-plan-file-and-community": {
+        "string": "{searchQuery} in Community / {planFileName}"
+    },
+    "community.publishing.name_must_be_at_most_n_characters_long": {
+        "string": "Name must be at most {maxLength} characters long"
+    },
+    "plan_invoices.review_invoice.title_renewal": {
+        "string": "Your annual renewal invoice is coming up on {date, date, ::MMMMd}"
+    },
+    "design_systems.libraries_modal.team_libraries_description": {
+        "string": "Libraries created and shared by teams you belong to"
+    },
+    "design_systems.assets_panel.num_assets": {
+        "string": "{numAssets, plural, one {{numAssets} asset} other {{numAssets} assets}}"
+    },
+    "team_view.locked_proteam_admin_invoice_reminder_banner.title": {
+        "string": "Your team is locked because of a past due invoice"
+    },
+    "new_user_experience.choose_plan_card.org.education_cta_with_verified_link": {
+        "string": "Free for Education when {verifiedLink}"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_file": {
+        "string": "You're about to move the file {fileNameText} to trash."
+    },
+    "revoke_transfer_modal.visual_bell.something_went_wrong": {
+        "string": "Something went wrong - check your connection and try again"
+    },
+    "upgrades.auto_pathway_success_modal.body.collaborator.edit": {
+        "string": "Yay! You can now create and edit in FigJam and Slides."
+    },
+    "license_group_admin.billing_banner.default_new": {
+        "string": "Your organization’s next invoice will be issued {date, date, long}"
+    },
+    "community.saves.resource_removed_from_your_profile": {
+        "string": "Resource removed from your Figma account and Community profile"
+    },
+    "community.visual_assets.license_tooltip_with_link": {
+        "string": "Community resource licensed by {authorName} under {licenseLink}"
+    },
+    "dev_handoff.variables.details_value_show_more": {
+        "string": "{count, plural, one {See {count} value} other {See {count} values}}"
+    },
+    "license_group_admin.billing_banner.completed_at_date_new": {
+        "string": "This billing group was confirmed on {date, date, ::MMMMd}"
+    },
+    "auto_rename_layers.missing_n_layer_names": {
+        "string": "{n, plural, one {Missing {n} layer name} other {Missing {n} layer names}}"
+    },
+    "request_upgrade.body.figjam": {
+        "string": "If you want full access to FigJam, you'll need to send a request to your team's admin."
+    },
+    "upgrades.auto_pathway_success_modal.body.developer": {
+        "string": "You can now use Dev Mode, plus create in FigJam and Slides, too!"
+    },
+    "community.publishing.cannot_publish_with_slides_editor_type": {
+        "string": "The 'slides' editor type is not enabled for publishing."
+    },
+    "seat_billing_terms.banner.urgent.description": {
+        "string": "Please review and accept these updates, or your account may be locked."
+    },
+    "community.publishing.you_can_only_upload_up_to_n_images": {
+        "string": "You can only upload up to {maxMedia} images. Please update."
+    },
+    "plan_invoices.new_seats_added_colon": {
+        "string": "{quantity, plural, one {1 new seat added:} other {{quantity} new seats added:}}"
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_dev": {
+        "string": "{userName} seat changed • 1 Dev seat now available"
+    },
+    "community.publish.hub_file_error.you_do_not_have_edit_permissions": {
+        "string": "You do not have the permissions to edit this file."
+    },
+    "community.publishing.you_can_only_upload_up_to_n_videos": {
+        "string": "You can only upload up to {maxVideos} videos. Please update."
+    },
+    "file_permissions_modal.external_sharing_unavailable": {
+        "string": "You can't share this file link with people outside of {planName}."
+    },
+    "subscription.error.team_is_pro_team_to_add_mid_cycle_seats": {
+        "string": "You must upgrade to Professional Team to add annual seats."
+    },
+    "dev_handoff.variables.details_value_from_other_mode": {
+        "string": "This value is from {modeName} mode in {collectionName} collection"
+    },
+    "community.publish.hub_file_error.cannot_publish_default_files": {
+        "string": "Default starter files cannot be published to Community."
+    },
+    "collaboration.branching.undo_merge_description": {
+        "string": "This will restore the version prior to the merge and reopen the branch."
+    },
+    "payments.invalid_billing_interval_error": {
+        "string": "Invalid billing interval. Please go back and select monthly or annual billing."
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_full": {
+        "string": "{userName} seat changed • 1 Full seat now available"
+    },
+    "request_upgrade.body.dev_mode": {
+        "string": "If you want full access to Dev Mode, you'll need to send a request to your team's admin."
+    },
+    "settings_table.add_seats_to_your_annual_plan": {
+        "string": "Add seats to your annual plan, convert all monthly seats to a lower rate."
+    },
+    "plan_invoices.review_invoice.title_renewal_non_actionable": {
+        "string": "Your organization is due for renewal on {date, date, ::MMMMd}"
+    },
+    "seat_billing_terms.banner.info.main_text": {
+        "string": "You have until {renewalDate, date, long} to accept our updated contract terms."
+    },
+    "design_systems.libraries_modal.loading_dsa_message_all_assets": {
+        "string": "Crunching tons of library data. This might take a minute…"
+    },
+    "file_browser.confirm_file_delete_modal.warning_published_sites": {
+        "string": "{sitesText}. These will be unpublished and taken offline."
+    },
+    "request_upgrade.body.design": {
+        "string": "If you want full access to Figma Design, you'll need to send a request to your team's admin."
+    },
+    "request_upgrade.body.slides": {
+        "string": "If you want full access to Figma Slides, you'll need to send a request to your team's admin."
+    },
+    "revoke_transfer_modal.transfer_details_team": {
+        "string": "{sourceUserEmail} requested to transfer this team to {destinationUserEmail}."
+    },
+    "design_systems.libraries_modal.team_libraries_description_org": {
+        "string": "Libraries created and shared by teams in your organization"
+    },
+    "banner.cooper.alpha_banner.staging_description": {
+        "string": "This project is still in development. Please leave feedback in {slackLink}"
+    },
+    "team_view.locked_proteam_admin_invoice_reminder_banner.cta": {
+        "string": "{invoiceCount, plural, one {Pay invoice} other {Pay invoices}}"
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_collab": {
+        "string": "{userName} seat changed • 1 Collab seat now available"
+    },
+    "community.publishing.description_must_be_at_most_n_characters_long": {
+        "string": "Description must be at most {maxLength} characters long"
+    },
+    "file_browser.trash_project.published_site_warning": {
+        "string": "Published websites in this project will be unpublished and taken offline."
+    },
+    "community.publishing.add_up_to_n_images_and_videos_to_your_carousel": {
+        "string": "Add up to {maxMedia} images and videos to your carousel"
+    },
+    "community.publishing.our_team_will_review_this_resource": {
+        "string": "Our team will review this resource and contact you when it’s ready."
+    },
+    "rcs.visual_assets.drag_visual_assets_description": {
+        "string": "Just click and drag it onto your canvas to use (and reuse) in your designs!"
+    },
+    "file_permissions_modal.invited_num_people": {
+        "string": "{num_invites, plural, one {Invited 1 person} other {Invited {num_invites} people}}"
+    },
+    "design_systems.preset_libraries.tooltip.site_kit_tooltip": {
+        "string": "This is a Figma resource. Kit licensed by Figma under {licenseLink}."
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.three_admins": {
+        "string": "{orgAdmin1Name}, {orgAdmin2Name}, and {orgAdmin3Name}"
+    },
+    "dev_handoff.figmadocs.error_child_layer_id_not_found": {
+        "string": "No layer with id \"{codeConnectId}\" found in selected component/variant"
+    },
+    "upgrades.drafts_move.request_body_figjam": {
+        "string": "To move a file from drafts to a collaborative space, you need full access to FigJam."
+    },
+    "dev_handoff.social_proof.how_many_other_people_are_using_dev_mode": {
+        "string": "{userName} and {totalActiveDevModeUsers} others use Dev Mode"
+    },
+    "upgrades.auto_pathway_success_modal.body.collaborator.organize": {
+        "string": "Yay! You can now share, organize, and edit in FigJam and Slides."
+    },
+    "resource_connection.visual_bell.pending_connection_request_exists": {
+        "string": "A pending connection request already exists for this resource"
+    },
+    "design_systems.libraries_modal.publishing_disabled_tooltip": {
+        "string": "To publish this file, first create components, variables, or styles."
+    },
+    "community.visual_assets.license_tooltip.no_author_name": {
+        "string": "Community resource licensed by a Figma Community creator under CC BY 4.0."
+    },
+    "admin_settings.people.onboarding.click_on_a_person.no_paid_status": {
+        "string": "Click on a person to manage all of their details in one place."
+    },
+    "resource_connection.visual_bell.team_at_limit": {
+        "string": "Your team has reached its limit of active connections and pending outgoing invites."
+    },
+    "file_browser.trash_project.description_restore": {
+        "string": "Anyone with project and team edit access can restore it from the {trashStyled} tab."
+    },
+    "community.publishing.support_contact_must_be_at_most_n_characters_long": {
+        "string": "Support contact must be at most {maxLength} characters long"
+    },
+    "file_browser.folder_list_view.may_not_restore_or_permanently_delete_banner": {
+        "string": "Some projects can't be restored or permanently deleted."
+    },
+    "upgrades.drafts_move.request_body_design": {
+        "string": "To move a file from drafts to a collaborative space, you need full access to Figma design."
+    },
+    "upgrades.drafts_move.request_body_slides": {
+        "string": "To move a file from drafts to a collaborative space, you need full access to Figma Slides."
+    },
+    "admin_dashboard.requests.success_approve_seat_changed": {
+        "string": "{numRequests, plural, one {Seat changed} other {{numRequests} seats changed}}"
+    },
+    "community.publish.hub_file_error.cannot_publish_password_protected_files": {
+        "string": "Password protected files cannot be published to Community."
+    },
+    "resource_connection.confirm_modal.you_can_disconnect": {
+        "string": "Once project is complete, you can disconnect and will get a copy of the project"
+    },
+    "design_systems.preset_libraries.tooltip.ui_kit_tooltip": {
+        "string": "This is a {author} resource. UI kit licensed by {author} under {licenseLink}."
+    },
+    "visual_bell.relinked_duplicate_subscribed_assets": {
+        "string": "Relinked instances of {totalDuplicateSubscribedAssets} duplicate subscribed asset(s)"
+    },
+    "org_admin_settings.banners.renewal.body": {
+        "string": "All changes made between now and {date, date, ::MMMMd} will apply to the cost of your renewal."
+    },
+    "plan_invoices.review_invoice.title_trueup_non_actionable": {
+        "string": "Your next invoice will be issued for your {date, date, ::MMMMd} true-up period"
+    },
+    "payments.errors.error_processing_upgrade_request": {
+        "string": "There was an issue with processing your upgrade request. Please refresh and try again."
+    },
+    "resource_connection.pending_modal.Invite has been sent but still awaiting a response": {
+        "string": "Invite has been sent but still awaiting a response"
+    },
+    "domain_insights.unclaimed_users.selected_user_count": {
+        "string": "{numSelected, plural, one {1 user selected:} other {{numSelected} users selected:}}"
+    },
+    "resource_connection.visual_bell.org_at_limit": {
+        "string": "Your organization has reached its limit of active connections and pending outgoing invites."
+    },
+    "community.publishing.you_can_only_upload_up_to_n_images_and_videos": {
+        "string": "You can only upload up to {maxMedia} images and videos. Please update."
+    },
+    "visual_bell.updated_max_width": {
+        "string": "{nodeCount, plural, one {Max width updated for {nodeName}} other {Max width updated for {nodeCount} nodes}}"
+    },
+    "visual_bell.updated_min_width": {
+        "string": "{nodeCount, plural, one {Min width updated for {nodeName}} other {Min width updated for {nodeCount} nodes}}"
+    },
+    "subscription.error.team_not_in_last_month_to_add_mid_cycle_seats": {
+        "string": "You cannot add annual seats in the final month of an annual subscription."
+    },
+    "upgrades.auto_pathway_success_modal.body.expert.edit": {
+        "string": "You can now create unlimited Design files—plus edit in every other Figma product, too!"
+    },
+    "community.publish.hub_file_error.remixes_unavailable_until_first_publish": {
+        "string": "Republishing an existing Community file is not currently available"
+    },
+    "community.access_needed_to_publish_in_org_modal.body": {
+        "string": "Reach out to your admin to publish as an individual or on behalf of your organization."
+    },
+    "visual_bell.updated_min_height": {
+        "string": "{nodeCount, plural, one {Min height updated for {nodeName}} other {Min height updated for {nodeCount} nodes}}"
+    },
+    "visual_bell.updated_max_height": {
+        "string": "{nodeCount, plural, one {Max height updated for {nodeName}} other {Max height updated for {nodeCount} nodes}}"
+    },
+    "community.visual_assets.license_tooltip.no_author_name_with_link": {
+        "string": "Community resource licensed by a Figma Community creator under {licenseLink}"
+    },
+    "domain_insights.unclaimed_users.description": {
+        "string": "These users have active Figma accounts on your domain, but aren’t currently in your organization."
+    },
+    "design_systems.libraries_modal.sharing_assets_with_your_team": {
+        "string": "Sharing assets with your team is available for paid plans only. {learnMoreLink}."
+    },
+    "community.publishing.you_can_also_right_click_a_frame_in_your_file": {
+        "string": "You can also right-click a frame in your file and select ‘Set as thumbnail’"
+    },
+    "fullscreen.properties_panel.vector_operation.update_button": {
+        "string": "{numNodes, plural, one {Update boolean operation} other {Update boolean operations}}"
+    },
+    "upgrades.auto_pathway_success_modal.body.expert.organize": {
+        "string": "You can now create unlimited Design files—plus edit in every other Figma product, too!"
+    },
+    "universal_upgrade.enterpise_plan_banner_v2.banner_body_text": {
+        "string": "Built for enhanced security, scalable design processes across companies, {and_more}"
+    },
+    "design_systems.libraries_modal.no_organization_libraries_subtitle": {
+        "string": "When new libraries are published in teams or workspaces, you'll find them here."
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.more_than_three_admins": {
+        "string": "{orgAdmin1Name}, {orgAdmin2Name}, and {otherAdminsCount} others"
+    },
+    "file_browser.file_import_view.import_description_with_jamboard": {
+        "string": "Import images, Sketch files, and PDF exports from Jamboard, Lucid, Miro, and Mural."
+    },
+    "resource_connection.request_modal.errors.you_don_t_need_to_connect_with_your_own_plan": {
+        "string": "You don't need to connect with your own {connectedPlanType}."
+    },
+    "resource_connection.confirm_modal.your_plan_manages_the_editors": {
+        "string": "Your {planType} manages the billing for your users who collaborate in this project"
+    },
+    "ui3_and_ai_callouts.community_fragment_search.description": {
+        "string": "Fing assets and designs-from across your team or on Community-simply by describing them."
+    },
+    "design_systems.libraries_modal.plural.insert_count": {
+        "string": "{insertCount, plural, one {{insertCount} insert} other {{insertCount, number, integer} inserts}}"
+    },
+    "resource_connection.request_modal.errors.this_link_isn_t_valid": {
+        "string": "Invalid link. Please confirm with your contact person that you have the correct URL."
+    },
+    "admin_dashboard.requests.well_let_you_know_when_new_seat_requests_come_in": {
+        "string": "We’ll let you know when new seat requests from your team members come in."
+    },
+    "activity_log.event.resource_connection_invite_sent": {
+        "string": "Requested to connect the project {folderName} with the {connectingPlanType} {connectingPlanName}"
+    },
+    "community.publishing.there_can_only_be_one_creator_for_a_paid_resource": {
+        "string": "There can only be one creator for a paid resource. Please remove co-creators."
+    },
+    "domain_management.domain_capture.all_domains_verified_body": {
+        "string": "Add all uncaptured users to your organization by enabling domain capture. {learnMoreLink}"
+    },
+    "admin_settings.sidebar.onboarding.you_can_now_manage_admin_settings_separately": {
+        "string": "You can now manage admin settings separately from your work in Figma."
+    },
+    "billing.open_invoice_reminder.locked_admin_description": {
+        "string": "Please pay your invoice to unlock this team and keep your subscription from being downgraded."
+    },
+    "billing.open_invoice_reminder.grace_period_admin_description": {
+        "string": "Please pay your invoice before your team is locked and your subscription is downgraded."
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui2_description": {
+        "string": "Scroll horizontally in the layers panel and get to deeply-nested layers when you switch to UI3."
+    },
+    "connected_projects_table.no_connections_description": {
+        "string": "Invite external teams or organizations to collaborate on projects while managing billing locally"
+    },
+    "community.publish_modal_tags_comms_banner.text": {
+        "string": "We changed the way tags work and some of your old tags may have been removed. Add some new ones below."
+    },
+    "banner.pro_team_past_due_revamp.subtitle.can_admin": {
+        "string": "All of this team’s work is currently view-only. You can edit again once your invoice has been paid."
+    },
+    "file_browser.file_import_view.jamboard_import_deprecation_message": {
+        "string": "Import from Jamboard will no longer be supported after Dec 31, 2024. {learnMoreLink}"
+    },
+    "subscription.error.team_active_annual_subscription_to_add_mid_cycle_seats": {
+        "string": "You cannot add more annual seats until your annual subscription has started."
+    },
+    "new_user_experience.user_onboarding_signals.description.help_us_create_an_experience_that_best_suits_your_needs": {
+        "string": "This helps us make Figma better for you."
+    },
+    "team_view.pastdue_proteam_admin_invoice_reminder_banner.subtitle": {
+        "string": "Please pay your invoice before your team is locked and your subscription is downgraded."
+    },
+    "activity_log.event.resource_connection_invite_received": {
+        "string": "{hostPlanType} {hostPlanName} wants to connect with your organization on the project {folderName}"
+    },
+    "admin_settings.sidebar.onboarding.when_youre_done_with_admin_tasks": {
+        "string": "When you’re done with admin tasks, you can click here to head back to your main view."
+    },
+    "seat_billing_terms.modal.tos.learn_more": {
+        "string": "Learn more about our {updatedSeatsLink}. If you have questions about these terms, reach out to our {supportLink}."
+    },
+    "domain_management.column_header.unclaimed_users_tooltip": {
+        "string": "These users have active Figma accounts on your domain, but aren't currently in your organization."
+    },
+    "rcs.visual_assets.explore_within_assets_tab": {
+        "string": "Explore Figma Community's best icon sets and illustrations to go from blank page to polished designs quickly."
+    },
+    "starting_points_onboarding.fills_step.description": {
+        "string": "From here, you can set the fill (or background) of your selection to a color, gradient, image, or video."
+    },
+    "file_browser.folder_list_view.may_not_restore_or_permanently_delete_banner_content": {
+        "string": "You'll need edit access to both the project and the team it belongs to."
+    },
+    "subscription.error.team_requires_monthly_and_annual_subscriptions_to_add_mid_cycle_seats": {
+        "string": "You must have annual and monthly subscriptions to add annual seats."
+    },
+    "plan_invoices.review_invoice.title_renewal_non_automatic": {
+        "string": "Your organization is due for renewal on {date, date, ::MMMMd}. Please contact your account manager."
+    },
+    "resource_connection.confirm_modal.you_will_be_able_to_view_the_project": {
+        "string": "All your admins and the invitee will be able to view the project owned by {hostPlan}."
+    },
+    "admin_settings.people.onboarding.click_on_a_person": {
+        "string": "Click on a person to change their seat, grant admin access, and manage all of their details in one place."
+    },
+    "dev_handoff.paywall.blocking_modal.content.explore_for_free_with_link": {
+        "string": "Explore for free while your request is pending. Curious to learn more? {learnMoreLink}"
+    },
+    "fullscreen.properties_panel.export_settings.slides_content.selected": {
+        "string": "{numSlides, plural, one {{numSlides} selected slide} other {{numSlides} selected slides}}"
+    },
+    "resource_connection.request_modal.contact_person_and_admin_will_be_notified": {
+        "string": "When you send your request, the contact person and their admins will be notified."
+    },
+    "team_admin_people_table_changes_overlay.go_to_view_members": {
+        "string": "Go to “View members” from your team to see members and change their permissions. {viewMembersLink}"
+    },
+    "subscription.error.team_not_in_last_month_to_modify_annual_subscription": {
+        "string": "You cannot modify annual subscriptions directly until the final month before renewal."
+    },
+    "banner.pro_team_past_due_revamp.subtitle.no_admin": {
+        "string": "All of this team’s work is currently view-only. You’ll need to contact your admin to get this work unlocked."
+    },
+    "dev_handoff.paywall.blocking_modal.content.one_click_request": {
+        "string": "While you wait for approval from your team admins, you can work in Dev Mode free for up to 3 days."
+    },
+    "starting_points_onboarding.properties_step.description": {
+        "string": "You can change the size, opacity, layout, and more of your current selection from this right-side panel."
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui3_description": {
+        "string": "Now you can scroll horizontally in the layers panel, making it easier to get to those deeply-nested layers."
+    },
+    "subscription.error.team_requires_monthly_to_update_annual_subscription": {
+        "string": "You must have a monthly subscription in order to modify or update an annual subscription."
+    },
+    "team_view.locked_proteam_admin_invoice_reminder_banner.subtitle": {
+        "string": "Please pay your invoice to unlock this team and to keep your subscription from being downgraded."
+    },
+    "resource_connection.request_modal.add_link_here_description": {
+        "string": "After your contact person shares the web link to their Figma plan with you, add it here. {learnMore}"
+    },
+    "starting_points_onboarding.edit_text_step.description": {
+        "string": "Click once to select text, or twice to edit it. To select text that’s deeply nested, hold ⌘ before you click."
+    },
+    "dev_handoff.configuration_wizard.welcome_step.description_one_click": {
+        "string": "You can start inspecting and developing your team’s designs while your request is under review."
+    },
+    "domain_insights.unclaimed_users.domain_capture_notice": {
+        "string": "If you want to add all uncaptured users on your verified domains to your organization, {enableDomainCaptureLink}."
+    },
+    "billing_modals.org_renewal.description": {
+        "string": "Now’s the time to decide how many seats you’ll need for your team. All changes will take effect on the date of your plan renewal."
+    },
+    "file_permissions_modal.share_as.publish_template_slides_error_symbol_in_slide": {
+        "string": "Slide templates cannot include components. Move them off the slide and try publishing again."
+    },
+    "subscription.error.team_annual_subscriptions_cannot_be_modified_within_cutoff_period_of_renewal": {
+        "string": "Your annual renewal is being processed, and no further changes are allowed."
+    },
+    "activity_log.event.resource_connection_disconnected": {
+        "string": "Disconnected the project {folderName} in {hostPlanType} {hostPlanName} with the {connectedPlanType} {connectedPlanName}"
+    },
+    "file_browser.trash_project.warning.pending_asset_transfer": {
+        "string": "There is a pending asset transfer request for this project. Moving this project to trash will cancel the transfer."
+    },
+    "file_browser.folder_settings_modal.tooltip.cannot_connect_folder_with_team_asset_transfer_request": {
+        "string": "Cannot connect project when there is pending transfer request for the team"
+    },
+    "community.publishing.you_did_it_thanks_for_putting_your_work_out_there": {
+        "string": "You did it—thanks for putting your work out there, and sharing your talents with the Figma Community."
+    },
+    "file_browser.team_settings_modal.paid_status_explanation": {
+        "string": "Manage permissions by adjusting team members' roles. To manage their seat, head to the {adminDashboardLink} instead."
+    },
+    "file_browser.folder_settings_modal.tooltip.cannot_transfer_folder_with_team_asset_transfer_request": {
+        "string": "Cannot transfer project when there is pending transfer request for the team"
+    },
+    "activity_log.event.resource_connection_invite_revoked": {
+        "string": "Revoked {hostPlanType} {hostPlanName}'s connection on project {folderName} with {connectingPlanType} {connectingPlanName}"
+    },
+    "rcs.visual_assets.grab_visual_assets": {
+        "string": "Explore Figma Community's best icon sets and illustrations in your {strongAssets} tab, and go from blank page to polished designs quickly."
+    },
+    "file_browser.trash_project.warning.active_resource_connection": {
+        "string": "There is an active resource connection for this project. Moving this project to trash will disconnect the project."
+    },
+    "file_browser.team_settings_modal.paid_status_explanation_no_link": {
+        "string": "Manage permissions by adjusting team members' roles. To manage their seat, head to the admin dashboard instead."
+    },
+    "dev_handoff.code_connect.entrypoint_body_text_library": {
+        "string": "With Code Connect, you can make sure developers see code from your repo every time they inspect this component in Dev Mode."
+    },
+    "domain_insights.unclaimed_users.adding_users": {
+        "string": "{userCount, plural, one {Adding 1 user. This may take a few moments.} other {Adding {userCount} users. This may take a few moments.}}"
+    },
+    "modify_plan_user_seat_modal.error.missing_pricing": {
+        "string": "We ran into an issue getting pricing information. This won’t impact how you’re billed, and you can continue with this seat change"
+    },
+    "seat_billing_terms.modal.renewal_price_update": {
+        "string": "At the contract renewal for {organizationName} on {renewalDate, date, long}, prices for {planTier} seats will update to the following:"
+    },
+    "file_browser.confirm_file_trash_modal.site_published_warning": {
+        "string": "This site has already been published to the web. Moving this file to trash will unpublish the site and take it offline."
+    },
+    "activity_log.event.resource_connection_invite_denied": {
+        "string": "Denied {hostPlanType} {hostPlanName}'s request to connect on project {folderName} with {connectingPlanType} {connectingPlanName}"
+    },
+    "fullscreen.properties_panel.vector_operation.update_text": {
+        "string": "{numNodes, plural, one {Update boolean operation to use all geometry.} other {Update boolean operations to use all geometry.}}"
+    },
+    "file_browser.trash_project.warning.pending_resource_connection": {
+        "string": "There is a pending resource connection for this project. Moving this project to trash will cancel the connection request."
+    },
+    "activity_log.event.resource_connection_invite_approved": {
+        "string": "Approved {hostPlanType} {hostPlanName}'s request to connect on project {folderName} with {connectingPlanType} {connectingPlanName}"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_your_team_s_admins_we_ll_let_you_know_when_they_respond": {
+        "string": "We’ve sent your request to your team’s admins. We’ll let you know when they respond."
+    },
+    "resource_connection.revoke_modal.this_will_end_the_connection_request": {
+        "string": "This will end the ability for {connectingPlanName} to connect with your {hostPlanType} on the project {projectName}."
+    },
+    "fullscreen.toolbar.your_admins_declined_your_previous_request_but_you_can_ask_for_editing_access_again": {
+        "string": "Your admins declined your previous request, but you can ask for editing access again."
+    },
+    "domain_management.domain_capture.domain_capture_enabled_body": {
+        "string": "All users on yours domains are automatically added to your organization, so you’ll never have uncaptured users. {learnMoreLink}"
+    },
+    "domain_insights.unclaimed_users.verify_domains_note_body": {
+        "string": "Automatically add all uncaptured users on this domain to your organization by verifying all org domains and enabling domain capture."
+    },
+    "resource_connection.request_modal.asset_transfer_request_will_be_revoked": {
+        "string": "There is a pending transfer request for this project. The request will be revoked if you initiate a connection request."
+    },
+    "admin_dashboard.requests.success_approve_seat_changed_async": {
+        "string": "{numRequests, plural, one {Changed seat—changes will appear shortly} other {Changed {numRequests} seats—changes will appear shortly}}"
+    },
+    "modify_plan_user_seat_modal.error.missing_seat_availability": {
+        "string": "We ran into an issue getting seat availability information. This won’t impact how you’re billed, and you can continue with this seat change"
+    },
+    "org_admin_settings.billing.freeze_invoice_modal.copy": {
+        "string": "Once you confirm, anyone who joins with a paid seat will be free until your next invoice. On {date, date, ::MMMMd}, you'll be invoiced for {amount}."
+    },
+    "starting_points_onboarding.assets_step.description": {
+        "string": "Finally, you can find more premade, reusable bits from the {strongAssets} tab of your left-side panel. Just drag and drop what you need onto the canvas."
+    },
+    "resource_connection.request_modal.you_can_connect_this_project_with_another_plan": {
+        "string": "You can connect this project with another plan so that users from the connected plan are billed by their own plan. {learnMore}"
+    },
+    "domain_management.domain_capture.some_domains_verified_body": {
+        "string": "Add all uncaptured users to your organization by enabling domain capture. In order to do this, you’ll first need to verify all domains. {learnMoreLink}"
+    },
+    "billing_modals.org_renewal.disclaimer_banner.these_numbers_may_change": {
+        "string": "These numbers may change if you upgrade or downgrade assigned seats before your {date, date, ::MMMMd} renewal date. {manageAssignedSeatsLink}"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_the_file_s_owner_you_can_create_and_edit_other_files_in_the_meantime": {
+        "string": "We’ve sent your request to the file’s owner. You can create and edit other files in the meantime."
+    },
+    "resource_connection.request_modal.errors.this_email_isn_t_associated_with_the_plan_linked_above": {
+        "string": "This email isn't associated with the {connectedPlanType} linked above. Please confirm that you have the right email."
+    },
+    "starting_points_onboarding.toolbar_step.description": {
+        "string": "Use these tools to create new frames, text, and shapes. You can also quickly find settings, components, plugins, and more with the{actionsSvg}{strongActions} tool."
+    },
+    "request_upgrade.provisional_access.design": {
+        "string": "{numDays, plural, one {You can edit files for {numDays} day while waiting for their response.} other {You can edit files for {numDays} days while waiting for their response.}}"
+    },
+    "request_upgrade.provisional_access.figjam": {
+        "string": "{numDays, plural, one {You can edit boards for {numDays} day while waiting for their response.} other {You can edit boards for {numDays} days while waiting for their response.}}"
+    },
+    "seat_billing_terms.modal.agreement_terms": {
+        "string": "By clicking “Accept terms,” you agree to the order terms outlined here and in the {softwareAgreementLink} and confirm that you have authority to act on your organization’s behalf."
+    },
+    "modify_plan_user_seat_modal.error.missing_pricing_and_seat_avability": {
+        "string": "We ran into an issue getting pricing and seat availability information. This won’t impact how you’re billed, and you can continue with this seat change"
+    },
+    "resource_connection.disconnect_modal.all_connecting_plan_members_will_lose_access": {
+        "string": "All {connectingPlanName} members will lose access to this project, all the files within, shared libraries, etc. Please proceed with caution."
+    },
+    "request_upgrade.provisional_access.dev_mode": {
+        "string": "{numDays, plural, one {You can use Dev Mode for {numDays} day while waiting for their response.} other {You can use Dev Mode for {numDays} days while waiting for their response.}}"
+    },
+    "file_browser.confirm_file_trash_modal.description_restore_drafts": {
+        "string": "{numFiles, plural, one {You can always restore it later from the {trashText} section.} other {You can always restore them later from the {trashText} section.}}"
+    },
+    "request_upgrade.provisional_access.slides": {
+        "string": "{numDays, plural, one {You can edit slide decks for {numDays} day while waiting for their response.} other {You can edit slide decks for {numDays} days while waiting for their response.}}"
+    },
+    "seat_billing_terms.modal.confirm_terms": {
+        "string": "To keep using Figma, read and confirm the updated terms about seats and pricing on the following page. If you’ve already signed a contract including these updates, that contract will apply instead."
+    },
+    "resource_connection.request_modal.you_will_need_email_address_of_a_contact_and_link_to_plan": {
+        "string": "You’ll need the email address of a contact on that plan, as well as a link to the plan. This ensures the connection request is sent to the right plan."
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_the_file_s_owner_you_can_edit_other_files_up_to_3_days_while_admins_review_your_request": {
+        "string": "We’ve sent your request to the file’s owner. You can edit other files for up to 3 days while admins review your request."
+    },
+    "resource_connection.confirm_modal.another_plan_wants_to_connect_with_your_plan": {
+        "string": "An admin from {hostPlan} wants to connect the project {projectName} with you. If you accept, you will be managing billing for your members who collaborate on the project. {learnMore}"
+    },
+    "admin_dashboard.requests.your_org_name_has_seat_request_that_need_review": {
+        "string": "{numOrgRequests, plural, one {{orgName} has 1 seat request that needs review. {reviewRequestLink}} other {{orgName} has {numOrgRequests} seat requests that need review. {reviewRequestLink}}}"
+    },
+    "resource_connection.request_modal.guests_will_become_connected_users_once_invite_accepted": {
+        "string": "Once an admin accepts, any guests that are members of the plan you connect with will be transition to “connected” users, and have their billing managed by their own plan instead."
+    },
+    "admin_dashboard.requests.your_organization_has_seat_request_that_need_review": {
+        "string": "{numOrgRequests, plural, one {Your organization has 1 seat request that needs review. {reviewRequestLink}} other {Your organization has {numOrgRequests} seat requests that need review. {reviewRequestLink}}}"
+    },
+    "file_browser.confirm_permanently_delete_file_modal.about_to_delete_online": {
+        "string": "{numFiles, plural, one {You're about to permanently delete the file {fileNameText}. You won't be able to restore it.} other {You're about to permanently delete {numFilesText}. You won't be able to restore them.}}"
+    },
+    "request_upgrade.description_dev_mode_grace_period_one_click": {
+        "string": "{numDays, plural, one {You can work in Dev Mode free for {numDays} day while you wait for approval from your team admins.} other {You can work in Dev Mode free for up to {numDays} days while you wait for approval from your team admins.}}"
+    },
+    "seat_billing_terms.modal.tos.additional_seats.terms": {
+        "string": "You can still purchase and manage seats any time in your Admin dashboard, but the way fees are calculated will change. New and upgraded seats added during your contract term will be charged from the date the seat is approved, and prorated on a daily basis until the end of your contract term."
+    },
+    "seat_billing_terms.modal.tos.invoices.terms": {
+        "string": "Your current payment method and due dates will be carried over to your future renewal and invoices. All fees will be invoiced annually in advance, with new, prorated seat additions billed in quarterly invoices when applicable. Quarterly invoices for any seat additions will be sent 3, 6, 9, and 12 months after renewal."
+    },
+    "file_browser.confirm_permanently_delete_file_modal.about_to_delete_offline": {
+        "string": "{numFiles, plural, one {You're about to permanently delete the file {fileNameText}. Because it's offline and hasn't been synced, you won't be able to restore it.} other {You're about to permanently delete {numFilesText}. Because they're offline and haven't been synced, you won't be able to restore them.}}"
+    },
+    "seat_billing_terms.modal.tos.subscription.terms": {
+        "string": "We’ll transition your {planTier} to new pricing at your next 12-month renewal on {renewalDate, date, long}. Your subscription will continue to renew for additional one-year terms on the then-current {softwareAgreementLink}, unless you give (or Figma provides) written notice of non-renewal at least 30 days before the end of the contract term. These terms will apply to your plan’s future auto-renewals."
+    },
+    "seat_billing_terms.modal.tos.subscription.pricing": {
+        "string": "At your upcoming renewal, prices will be based on the amount of seats at the renewal date multiplied by seat types’ annualized rates. In all following renewals, your subscription price for renewals will be calculated the same way it has been in the past—based on the number of seats purchased in the previous subscription period (including new seat additions) or the number of seats in {organizationName}'s account on the renewal date—whichever is greater. We’ll take that number of seats and multiply it by the applicable seat types’ prices at their annualized rates to determine your costs."
+    }
+}

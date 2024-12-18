@@ -56563,5 +56563,3071 @@
     "org_admin_onboarding.tooltip.unassigned_drafts_tab.body": { "string": "组织管理员可以访问和管理已不在组织中的人员未分配的草稿。组织管理员将不再能够移除彼此的访问权限。" },
     "fullscreen.toolbar.request_sent.dev_mode_grace_period_tooltip": { "string": "{numDays, plural, one {你可以在等待管理员批准期间使用开发模式 {numDays} 天。} other {在等待管理员批准时，你可以免费使用开发模式长达 {numDays} 天。}}" },
     "admin_dashboard.requests.cost_messaging.multi_select.no_charge_desc": { "string": "{numSeats, plural, one {此请求将使用一个未分配的席位。费用不会改变。} other {这些请求将使用 {numSeats} 个未分配的席位。费用不会改变。}}" },
-    "team_view.cost_messaging.seat_rename.charge": { "string": "{numNeeded, plural, one {当你将 {username} 转为完整 {product} 席位时，{teamName} 将从 {monthlyBill} 开始每月增加 {price}/月。} other {当你将 {numNeeded} 人转为完整 {product} 席位时，{teamName} 将从 {monthlyBill} 开始每月增加 {price}/月每席位。}}" }
+    "team_view.cost_messaging.seat_rename.charge": { "string": "{numNeeded, plural, one {当你将 {username} 转为完整 {product} 席位时，{teamName} 将从 {monthlyBill} 开始每月增加 {price}/月。} other {当你将 {numNeeded} 人转为完整 {product} 席位时，{teamName} 将从 {monthlyBill} 开始每月增加 {price}/月每席位。}}" },
+    "proto.target": {
+        "string": "目标"
+    },
+    "auth.sign_up": {
+        "string": "注册"
+    },
+    "job-title.other": {
+        "string": "其他"
+    },
+    "common.loading": {
+        "string": "加载中"
+    },
+    "common.dismiss": {
+        "string": "关闭"
+    },
+    "auth.continue": {
+        "string": "继续"
+    },
+    "job-title.design": {
+        "string": "设计"
+    },
+    "upgrades.request": {
+        "string": "请求"
+    },
+    "sidebar.see_less": {
+        "string": "查看较少"
+    },
+    "job-title.student": {
+        "string": "学生"
+    },
+    "fake_cursor.cursor": {
+        "string": "光标"
+    },
+    "dev_handoff.mc.close": {
+        "string": "关闭"
+    },
+    "dev_handoff.mc.reset": {
+        "string": "重置"
+    },
+    "sites.panel.primary": {
+        "string": "主要"
+    },
+    "job-title.research": {
+        "string": "研究"
+    },
+    "job-title.educator": {
+        "string": "教育者"
+    },
+    "whiteboard.colors.lime": {
+        "string": "青柠"
+    },
+    "project_menu.connect": {
+        "string": "连接"
+    },
+    "resource_connection.host": {
+        "string": "主机"
+    },
+    "job-title.education": {
+        "string": "教育"
+    },
+    "job-title.marketing": {
+        "string": "营销"
+    },
+    "workspace_table.manage": {
+        "string": "管理"
+    },
+    "fullscreen.node_type.page": {
+        "string": "页面"
+    },
+    "fullscreen.node_type.line": {
+        "string": "线"
+    },
+    "project_menu.settings": {
+        "string": "设置"
+    },
+    "fullscreen.node_type.star": {
+        "string": "星星"
+    },
+    "fullscreen.node_type.text": {
+        "string": "文本"
+    },
+    "plan_invoices.taxes_label": {
+        "string": "税费"
+    },
+    "org_admin_tab.invoices": {
+        "string": "发票"
+    },
+    "org_admin_tab.overview": {
+        "string": "概览"
+    },
+    "plan_invoices.total_label": {
+        "string": "总计"
+    },
+    "job-title.ux-writing": {
+        "string": "用户体验写作"
+    },
+    "dev_handoff.code.lang_html": {
+        "string": "HTML"
+    },
+    "plan_invoices.empty_details": {
+        "string": "– –"
+    },
+    "first_draft.make_edit": {
+        "string": "进行编辑"
+    },
+    "plan_invoices.view_all": {
+        "string": "查看所有"
+    },
+    "fullscreen.node_type.stamp": {
+        "string": "印章"
+    },
+    "fullscreen.node_type.slide": {
+        "string": "幻灯片"
+    },
+    "fullscreen.node_type.table": {
+        "string": "表格"
+    },
+    "fullscreen.node_type.group": {
+        "string": "分组"
+    },
+    "lexical_editor_toolbar.bold": {
+        "string": "粗体"
+    },
+    "fullscreen.node_type.media": {
+        "string": "媒体"
+    },
+    "fullscreen.node_type.slice": {
+        "string": "切片"
+    },
+    "fullscreen.node_type.union": {
+        "string": "联合"
+    },
+    "fullscreen.node_type.frame": {
+        "string": "框架"
+    },
+    "lexical_editor_toolbar.link": {
+        "string": "链接"
+    },
+    "team_view.toolbar.content": {
+        "string": "内容"
+    },
+    "inspect_panel.typography.wavy": {
+        "string": "波浪形"
+    },
+    "fullscreen.node_type.vector": {
+        "string": "矢量"
+    },
+    "fullscreen.node_type.widget": {
+        "string": "小工具"
+    },
+    "properties.label.rotation": {
+        "string": "旋转"
+    },
+    "seat_billing_terms.modal.back": {
+        "string": "返回"
+    },
+    "seat_billing_terms.modal.next": {
+        "string": "下一步"
+    },
+    "plan_invoices.table_label": {
+        "string": "发票"
+    },
+    "fullscreen.node_type.sticky": {
+        "string": "固定"
+    },
+    "upgrades.request_sent": {
+        "string": "请求已发送"
+    },
+    "first_draft.make_kit.lint.done": {
+        "string": "完成"
+    },
+    "whiteboard.shapes_sidebar.back": {
+        "string": "返回"
+    },
+    "new_user_experience.my_file": {
+        "string": "我的文件"
+    },
+    "fake_cursor.hand_cursor": {
+        "string": "手型光标"
+    },
+    "design_linter.penalty_box.fix": {
+        "string": "应用"
+    },
+    "plan_invoices.credits_label": {
+        "string": "积分"
+    },
+    "resource_connection.confirm": {
+        "string": "确认"
+    },
+    "fullscreen.toolbar.aria_label": {
+        "string": "编辑器"
+    },
+    "qa.category.search_for": {
+        "string": "搜索..."
+    },
+    "auth.sign_up_to_edit": {
+        "string": "注册以编辑"
+    },
+    "lexical_editor_toolbar.italic": {
+        "string": "斜体"
+    },
+    "new_user_experience.button.back": {
+        "string": "返回"
+    },
+    "fullscreen.node_type.section": {
+        "string": "部分"
+    },
+    "plan_invoices.status_overdue": {
+        "string": "逾期"
+    },
+    "inspect_panel.typography.solid": {
+        "string": "实线"
+    },
+    "fullscreen.node_type.exclude": {
+        "string": "排除"
+    },
+    "sites.breakpoint_bar.primary": {
+        "string": "主要"
+    },
+    "fullscreen.node_type.polygon": {
+        "string": "多边形"
+    },
+    "fullscreen.node_type.ellipse": {
+        "string": "椭圆"
+    },
+    "slides.carousel.components": {
+        "string": "组件"
+    },
+    "design_systems.assets_panel.kits": {
+        "string": "工具包"
+    },
+    "community.community_license": {
+        "string": "CC BY 4.0"
+    },
+    "community.publishing.team_author": {
+        "string": "团队"
+    },
+    "plan_invoices.subtotal_label": {
+        "string": "小计"
+    },
+    "collaboration.voice.creator": {
+        "string": "(创建者)"
+    },
+    "campfire_banner.learn_more": {
+        "string": "了解更多"
+    },
+    "plan_invoices.pay_invoice": {
+        "string": "支付发票"
+    },
+    "fullscreen.node_type.document": {
+        "string": "文档"
+    },
+    "inspect_panel.typography.dotted": {
+        "string": "虚线"
+    },
+    "comments.thread_actions": {
+        "string": "线程操作"
+    },
+    "fullscreen.node_type.variable": {
+        "string": "变量"
+    },
+    "properties_panel.effects.repeat": {
+        "string": "重复"
+    },
+    "connected_projects_table.status": {
+        "string": "状态"
+    },
+    "fullscreen.node_type.template": {
+        "string": "模板"
+    },
+    "eyedropper.click_to_copy": {
+        "string": "点击复制"
+    },
+    "fullscreen.node_type.subtract": {
+        "string": "减去"
+    },
+    "layer_icon.tooltip.code_file": {
+        "string": "代码文件"
+    },
+    "upgrades.request_access": {
+        "string": "请求访问"
+    },
+    "first_draft.make_edits.inplace": {
+        "string": "就地编辑"
+    },
+    "community.community_author": {
+        "string": "作者 {author}"
+    },
+    "waiting_for_sync_modal.saving": {
+        "string": "保存中..."
+    },
+    "properties_panel.effects.blur.type": {
+        "string": "类型"
+    },
+    "lexical_editor_toolbar.heading": {
+        "string": "标题 1"
+    },
+    "job-title.data-analytics": {
+        "string": "数据分析"
+    },
+    "dev_handoff.variables.details_mode": {
+        "string": "模式"
+    },
+    "connected_projects_table.host_plan": {
+        "string": "主机"
+    },
+    "lexical_editor_toolbar.inline_code": {
+        "string": "代码"
+    },
+    "whiteboard.connector_keywords.bent": {
+        "string": "弯曲"
+    },
+    "fake_cursor.select_cursor": {
+        "string": "选择光标"
+    },
+    "whiteboard.colors.light_lime": {
+        "string": "浅青柠"
+    },
+    "whiteboard.connector_keywords.line": {
+        "string": "线"
+    },
+    "whiteboard.connector_keywords.edge": {
+        "string": "边"
+    },
+    "fullscreen.node_type.intersect": {
+        "string": "交集"
+    },
+    "fullscreen.node_type.component": {
+        "string": "组件"
+    },
+    "general.price_per_month": {
+        "string": "{priceString}/月"
+    },
+    "connected_projects_table.project": {
+        "string": "项目"
+    },
+    "layer_icon.tooltip.code_layer": {
+        "string": "代码层"
+    },
+    "community.publishing.copy_link": {
+        "string": "复制链接"
+    },
+    "fullscreen.node_type.rectangle": {
+        "string": "矩形"
+    },
+    "fullscreen.node_type.code_file": {
+        "string": "代码文件"
+    },
+    "properties.label.orientation": {
+        "string": "方向"
+    },
+    "fullscreen.node_type.highlight": {
+        "string": "高亮"
+    },
+    "fullscreen.node_type.slide_row": {
+        "string": "幻灯片行"
+    },
+    "whiteboard.inline_menu.lock_all": {
+        "string": "锁定全部"
+    },
+    "request_upgrade.continue_button": {
+        "string": "继续"
+    },
+    "dev_handoff.mc.open_cta": {
+        "string": "打开代码编辑器"
+    },
+    "seat_billing_terms.modal.not_now": {
+        "string": "稍后再说"
+    },
+    "properties_panel.effects.repeat.type": {
+        "string": "类型"
+    },
+    "sites.fullscreen.code-library-local": {
+        "string": "本地"
+    },
+    "whiteboard.code_blocks.theme.dracula": {
+        "string": "暗黑"
+    },
+    "dev_handoff.variables.details_scope": {
+        "string": "范围"
+    },
+    "domain_insights.unclaimed_users.no_name": {
+        "string": "-"
+    },
+    "first_draft.make_edits.loading": {
+        "string": "加载中..."
+    },
+    "fullscreen_actions.new-site": {
+        "string": "新建站点文件"
+    },
+    "whiteboard.shapes_sidebar.recents": {
+        "string": "最近"
+    },
+    "dev_handoff.variables.details_value": {
+        "string": "值"
+    },
+    "design_systems.assets_panel.embeds": {
+        "string": "嵌入"
+    },
+    "whiteboard.connector_keywords.arrow": {
+        "string": "箭头"
+    },
+    "plan_invoices.payment_method.card.jcb": {
+        "string": "JCB"
+    },
+    "fullscreen.properties_panel.grid_panel.r": {
+        "string": "R"
+    },
+    "fullscreen.node_type.layout_set": {
+        "string": "布局集"
+    },
+    "first_draft.kits.select-nodes": {
+        "string": "选择节点"
+    },
+    "fullscreen.node_type.code_block": {
+        "string": "代码块"
+    },
+    "fullscreen.properties_panel.grid_panel.c": {
+        "string": "C"
+    },
+    "eyedropper.click_to_sample": {
+        "string": "点击取样"
+    },
+    "fullscreen.node_type.washi_tape": {
+        "string": "和纸胶带"
+    },
+    "fullscreen.node_type.code_layer": {
+        "string": "代码层"
+    },
+    "community.publishing.for_figjam": {
+        "string": "用于 FigJam"
+    },
+    "collaboration.conflict_multipage": {
+        "string": "多页"
+    },
+    "settings.account_setting.security": {
+        "string": "安全"
+    },
+    "asset_transfers.destination_type.team": {
+        "string": "团队"
+    },
+    "qa.rate_output_helpful": {
+        "string": "这些有帮助吗？"
+    },
+    "slides.speaker_notes.draft_again": {
+        "string": "再试一次"
+    },
+    "auth.sign_up_to_comment": {
+        "string": "注册后评论"
+    },
+    "fullscreen.node_type.table_cell": {
+        "string": "表格单元"
+    },
+    "admin_dashboard.requests.view_all": {
+        "string": "查看全部"
+    },
+    "fullscreen.node_type.slide_grid": {
+        "string": "幻灯片网格"
+    },
+    "collaboration.conflict_local_styles": {
+        "string": "样式"
+    },
+    "whiteboard.connector_keywords.curved": {
+        "string": "弯曲"
+    },
+    "resource_connection.invite_sent": {
+        "string": "邀请已发送"
+    },
+    "whiteboard.connector_keywords.angled": {
+        "string": "角度"
+    },
+    "dev_handoff.annotations.copy_link": {
+        "string": "复制链接"
+    },
+    "dev_handoff.code.lang_multi_node": {
+        "string": "多节点"
+    },
+    "design_linter.penalty_box.title": {
+        "string": "建议"
+    },
+    "resource_connection.request_modal.next": {
+        "string": "下一步"
+    },
+    "plan_invoices.payment_method.card.visa": {
+        "string": "VISA"
+    },
+    "proto.select_variable_unified": {
+        "string": "选择变量"
+    },
+    "plan_invoices.cta_download_pdf": {
+        "string": "下载 PDF"
+    },
+    "properties_panel.effects.repeat.count": {
+        "string": "计数"
+    },
+    "resource_connection.request_modal.back": {
+        "string": "返回"
+    },
+    "org_admin_tab.billing_groups": {
+        "string": "账单组"
+    },
+    "team_view.toolbar.billing.overview": {
+        "string": "概览"
+    },
+    "team_view.toolbar.billing.invoices": {
+        "string": "发票"
+    },
+    "plan_invoices.payment_method.card.amex": {
+        "string": "AMEX"
+    },
+    "plan_invoices.payment_amount": {
+        "string": "{amount} 总计"
+    },
+    "layer_icon.tooltip.code_library": {
+        "string": "代码库"
+    },
+    "file_browser.templates_shelf.reviews": {
+        "string": "评论"
+    },
+    "community.publishing.set_a_price": {
+        "string": "设置价格"
+    },
+    "whiteboard.code_blocks.theme.duotone_sea": {
+        "string": "海洋"
+    },
+    "file_browser.folder_settings_modal.name": {
+        "string": "名称"
+    },
+    "design_systems.libraries_modal.reload": {
+        "string": "重新加载"
+    },
+    "first_draft.make_edits.send_image": {
+        "string": "发送图片"
+    },
+    "cooper.left_panel.context_menu.delete": {
+        "string": "删除"
+    },
+    "dev_handoff.variables.table_column_name": {
+        "string": "名称"
+    },
+    "seat_billing_terms.modal.accept": {
+        "string": "接受条款"
+    },
+    "plan_invoices.due_date_column_label": {
+        "string": "到期日期"
+    },
+    "plan_invoices.payment_method.unknown": {
+        "string": "未知"
+    },
+    "tile.sort_filter.can_be_viewed": {
+        "string": "可查看"
+    },
+    "feature_flag_overrides.regex_mode": {
+        "string": "正则模式"
+    },
+    "lexical_editor_toolbar.code_block": {
+        "string": "代码块"
+    },
+    "inspect_panel.typography.underline": {
+        "string": "下划线"
+    },
+    "resource_connection.aria_label.button": {
+        "string": "按钮"
+    },
+    "file_browser.templates_shelf.diagram": {
+        "string": "图表"
+    },
+    "whiteboard.connector_keywords.elbowed": {
+        "string": "肘形"
+    },
+    "admin_settings.billing_plan_tier.pro": {
+        "string": "专业计划"
+    },
+    "collaboration.voice.file_creator": {
+        "string": "文件创建者"
+    },
+    "slides.speaker_notes.draft": {
+        "string": "从草稿开始"
+    },
+    "whiteboard.code_blocks.theme.figjam_dark": {
+        "string": "暗黑"
+    },
+    "design_systems.assets_panel.site_kit": {
+        "string": "站点工具包"
+    },
+    "fullscreen_actions.set-tool-sites-embed": {
+        "string": "嵌入"
+    },
+    "variables.scopes.text_fill_dev_mode": {
+        "string": "文字填充"
+    },
+    "lab.sts_runtime_debug_tools": {
+        "string": "站点：Figmascope"
+    },
+    "resource_connection.view_project": {
+        "string": "查看项目"
+    },
+    "billing.open_invoice_reminder.cta": {
+        "string": "支付发票"
+    },
+    "connected_projects_table.status.active": {
+        "string": "活跃"
+    },
+    "qa.category.matching_actions": {
+        "string": "匹配操作"
+    },
+    "fullscreen.flyout.comment_tools": {
+        "string": "评论工具"
+    },
+    "fullscreen.node_type.text_path": {
+        "string": "路径上的文本"
+    },
+    "design_linter.penalty_box.apply_all": {
+        "string": "应用全部"
+    },
+    "fullscreen.toolbar.start_editing": {
+        "string": "开始编辑"
+    },
+    "layer_icon.tooltip.code_instance": {
+        "string": "代码实例"
+    },
+    "community.publishing.upload_image": {
+        "string": "上传图片"
+    },
+    "inspect_panel.typography.decoration": {
+        "string": "装饰"
+    },
+    "connected_projects_table.review_request": {
+        "string": "审查"
+    },
+    "community.publishing.monetization": {
+        "string": "盈利化"
+    },
+    "file_browser.templates_shelf.meetings": {
+        "string": "会议"
+    },
+    "fullscreen.node_type.variable_set": {
+        "string": "变量集"
+    },
+    "properties_panel.effects.repeat.spacing": {
+        "string": "偏移"
+    },
+    "plan_invoices.payment_method.multiple": {
+        "string": "多种"
+    },
+    "community.publishing.for_dev_mode": {
+        "string": "用于开发模式"
+    },
+    "file_browser.templates_shelf.planning": {
+        "string": "规划"
+    },
+    "community.publishing.change_image": {
+        "string": "更改图片"
+    },
+    "fullscreen.node_type.code_library": {
+        "string": "代码库"
+    },
+    "properties_panel.effects.repeat.units_pixels": {
+        "string": "像素"
+    },
+    "whiteboard.shapes_sidebar.connectors": {
+        "string": "连接器"
+    },
+    "design_linter.penalty_box.select_all": {
+        "string": "全选"
+    },
+    "properties_panel.effects.blur.end_blur": {
+        "string": "结束模糊"
+    },
+    "resource_connection.request_modal.cancel": {
+        "string": "取消"
+    },
+    "seat_billing_terms.modal.new_seat.dev": {
+        "string": "开发座位"
+    },
+    "variables.scopes.frame_fill_dev_mode": {
+        "string": "框架填充"
+    },
+    "fake_cursor.eyedropper_cursor": {
+        "string": "取色光标"
+    },
+    "connected_projects_table.status.pending": {
+        "string": "待定"
+    },
+    "job-title.product-management": {
+        "string": "产品管理"
+    },
+    "resource_connection.confirm_modal.accept": {
+        "string": "接受"
+    },
+    "banner.pro_team_past_due_revamp.cta": {
+        "string": "支付发票"
+    },
+    "domain_insights.unclaimed_users.removed": {
+        "string": "已移除"
+    },
+    "variables.scopes.shape_fill_dev_mode": {
+        "string": "形状填充"
+    },
+    "fullscreen.properties_panel.cooper_fields": {
+        "string": "字段"
+    },
+    "whiteboard.code_blocks.theme.duotone_space": {
+        "string": "空间"
+    },
+    "plan_invoices.locked_subtotal": {
+        "string": "最终小计"
+    },
+    "magic_link.qa_suggestion_button": {
+        "string": "添加交互"
+    },
+    "collaboration.branching.undo_merge_cancel": {
+        "string": "取消"
+    },
+    "community.publishing.for_design": {
+        "string": "用于 Figma 设计"
+    },
+    "proto.animation_panel.transition_direction.up": {
+        "string": "向上"
+    },
+    "collaboration.conflict_local_variables": {
+        "string": "变量"
+    },
+    "fullscreen.node_type.code_instance": {
+        "string": "代码实例"
+    },
+    "properties_panel.effects.blur.type.normal": {
+        "string": "普通"
+    },
+    "community.publishing.for_slides": {
+        "string": "用于 Figma 幻灯片"
+    },
+    "plan_invoices.reactivate_button_label": {
+        "string": "重新激活"
+    },
+    "community.publishing.upload_images": {
+        "string": "上传图片"
+    },
+    "whiteboard.code_blocks.theme.duotone_light": {
+        "string": "浅色"
+    },
+    "fullscreen.properties_panel.grid_panel.grid": {
+        "string": "网格"
+    },
+    "team_view.settings.pending_admin": {
+        "string": "待处理（管理员）"
+    },
+    "whiteboard.code_blocks.theme.duotone_earth": {
+        "string": "地球"
+    },
+    "whiteboard.inline_menu.lock_options": {
+        "string": "锁定选项"
+    },
+    "plan_invoices.projected_total": {
+        "string": "预计小计"
+    },
+    "proto.action_set_variable_dropdown_option": {
+        "string": "添加新项"
+    },
+    "fullscreen_actions.upscale_image": {
+        "string": "提升分辨率"
+    },
+    "plan_invoices.invoice_number_label": {
+        "string": "发票编号"
+    },
+    "lexical_editor_toolbar.numbered_list": {
+        "string": "有序列表"
+    },
+    "fullscreen.rename_modal.number_ascending": {
+        "string": "数字 ↑"
+    },
+    "banner.cooper.alpha_banner.title": {
+        "string": "Alpha 产品"
+    },
+    "resource_connection.confirm_modal.decline": {
+        "string": "拒绝"
+    },
+    "seat_billing_terms.modal.new_seat.full": {
+        "string": "完整座位"
+    },
+    "plan_invoices.payment_method_label": {
+        "string": "支付方式"
+    },
+    "domain_insights.unclaimed_users.columns.name": {
+        "string": "名称"
+    },
+    "properties_panel.effects.repeat.units_label": {
+        "string": "单位"
+    },
+    "admin_dashboard.requests.seat_title": {
+        "string": "座位请求"
+    },
+    "fullscreen.properties_panel.effects.repeat": {
+        "string": "重复"
+    },
+    "design_systems.assets_panel.responsive": {
+        "string": "响应式"
+    },
+    "auth.two-factor-setup.msft": {
+        "string": "Microsoft 验证器"
+    },
+    "design_linter.penalty_box.loading_fix": {
+        "string": "加载修复…"
+    },
+    "magic_link.qa_suggestion_toast": {
+        "string": "正在制作原型？"
+    },
+    "sites.panel.interactions_panel.on_scroll": {
+        "string": "滚动时"
+    },
+    "design_systems.libraries_modal.this_file": {
+        "string": "此文件"
+    },
+    "file_browser.templates_shelf.brainstorm": {
+        "string": "头脑风暴"
+    },
+    "admin_dashboard.requests.all_requests": {
+        "string": "所有请求"
+    },
+    "fullscreen.node_type.connector_line": {
+        "string": "连接线"
+    },
+    "dev_handoff.variables.details_local": {
+        "string": "来自此文件"
+    },
+    "lexical_editor_toolbar.bulleted_list": {
+        "string": "项目符号列表"
+    },
+    "admin_settings.seat_counts.total_seats": {
+        "string": "总座位"
+    },
+    "fullscreen.rename_modal.number_descending": {
+        "string": "数字 ↓"
+    },
+    "lexical_editor_toolbar.strikethrough": {
+        "string": "删除线"
+    },
+    "whiteboard.code_blocks.theme.duotone_forest": {
+        "string": "森林"
+    },
+    "plan_invoices.payment_method.ach_debit.unknown": {
+        "string": "ACH"
+    },
+    "collaboration.branching.undo_merge_confirm": {
+        "string": "确认"
+    },
+    "dev_handoff.variables.table_all_vars": {
+        "string": "所有变量"
+    },
+    "plan_invoices.view_new_seat_charges": {
+        "string": "查看新座位"
+    },
+    "plan_invoices.payment_method.card.eftpos_au": {
+        "string": "EFTPOS"
+    },
+    "plan_invoices.zero_new_seats_quantity": {
+        "string": "没有新座位"
+    },
+    "file_browser.confirm_file_delete_modal.sites": {
+        "string": "站点"
+    },
+    "fullscreen.node_type.code_component": {
+        "string": "代码组件"
+    },
+    "job-title.software-development": {
+        "string": "软件开发"
+    },
+    "plan_invoices.seat_type_count": {
+        "string": "{quantity} {seatType}"
+    },
+    "job-title.other.input-placeholder": {
+        "string": "例如：艺术指导"
+    },
+    "properties_panel.effects.repeat.direction": {
+        "string": "方向"
+    },
+    "resource_connection.connected_plans": {
+        "string": "已连接团队"
+    },
+    "seat_billing_terms.modal.price_per_month": {
+        "string": "{price}/月"
+    },
+    "resource_connection.request_modal.web_link": {
+        "string": "网页链接"
+    },
+    "plan_invoices.payment_method.card.unionpay": {
+        "string": "银联"
+    },
+    "org_admin_settings.banners.renewal.cta": {
+        "string": "检查座位"
+    },
+    "plan_invoices.payment_method.card.discover": {
+        "string": "Discover"
+    },
+    "properties_panel.effects.blur.start_blur": {
+        "string": "开始模糊"
+    },
+    "design_systems.preset_libraries.tooltip.figma": {
+        "string": "Figma"
+    },
+    "user_onboarding_signals.v1.answer.research": {
+        "string": "研究"
+    },
+    "collaboration.branching.undo_merge_title": {
+        "string": "撤销合并"
+    },
+    "new_user_experience.file_username": {
+        "string": "{userName} 的文件"
+    },
+    "type_settings.decoration.decoration_style.wavy": {
+        "string": "波浪形"
+    },
+    "dev_handoff.variables.details_collection": {
+        "string": "集合"
+    },
+    "design_systems.preset_libraries.tooltip.apple": {
+        "string": "Apple"
+    },
+    "billing_modals.org_renewal.table.header.total": {
+        "string": "总计"
+    },
+    "org_admin_tab.connected_projects": {
+        "string": "已连接项目"
+    },
+    "inspect_panel.typography_text_decoration_style": {
+        "string": "样式"
+    },
+    "plan_invoices.payment_method.sepa_debit.unknown": {
+        "string": "SEPA"
+    },
+    "proto.animation_panel.transition_direction.left": {
+        "string": "向左"
+    },
+    "inspect_panel.typography.strikethrough": {
+        "string": "删除线"
+    },
+    "fullscreen.node_type.shape_with_text": {
+        "string": "带文字的形状"
+    },
+    "domain_management.manage_domains.label": {
+        "string": "管理域名"
+    },
+    "fullscreen.properties_panel.cooper_variants": {
+        "string": "变体"
+    },
+    "dev_handoff.variables.details_title": {
+        "string": "变量详情"
+    },
+    "admin_dashboard.requests.columns.requested": {
+        "string": "已请求"
+    },
+    "file_browser.folder_settings_modal.settings": {
+        "string": "设置"
+    },
+    "fullscreen_actions.toolbar_label": {
+        "string": "应用工具栏"
+    },
+    "community.publishing.set_a_thumbnail": {
+        "string": "设置缩略图"
+    },
+    "community.publishing.go_to_community": {
+        "string": "转到社区"
+    },
+    "plan_details.choose_organization": {
+        "string": "选择组织"
+    },
+    "plan_invoices.number_of_seats_label": {
+        "string": "{seatType} 座位"
+    },
+    "fullscreen.node_type.assisted_layout": {
+        "string": "辅助布局"
+    },
+    "settings_table.add_an_annual_plan": {
+        "string": "添加年度计划"
+    },
+    "variables.binding_ui.variable_dakota_tab_name": {
+        "string": "Dakota"
+    },
+    "slides.properties_panel.code_block_panel.color": {
+        "string": "颜色"
+    },
+    "admin_dashboard.requests.columns.seat_type": {
+        "string": "座位类型"
+    },
+    "plan_invoices.payment_method.card.diners": {
+        "string": "大来卡"
+    },
+    "fullscreen.node_type.section_overlay": {
+        "string": "章节叠加"
+    },
+    "fullscreen.properties_panel.grid.row_index": {
+        "string": "行索引"
+    },
+    "first_draft.make_kit.lint.title": {
+        "string": "Lint 初稿工具包"
+    },
+    "community.publishing.and_youre_live": {
+        "string": "你已上线！"
+    },
+    "proto.animation_panel.transition_direction.down": {
+        "string": "向下"
+    },
+    "resource_connection.invite_pending": {
+        "string": "邀请待处理..."
+    },
+    "fullscreen.properties_panel.effects.symmetry": {
+        "string": "对称性"
+    },
+    "community.publishing.organization_author": {
+        "string": "组织"
+    },
+    "fullscreen.properties_panel.jsx_debug.title": {
+        "string": "JSX 调试"
+    },
+    "design_linter.penalty_box.no_violations": {
+        "string": "无违规"
+    },
+    "dev_handoff.variables.details_code_syntax": {
+        "string": "代码语法"
+    },
+    "admin_settings.seat_counts.manage_button_label": {
+        "string": "管理"
+    },
+    "dev_handoff.annotations.edit.tooltip": {
+        "string": "编辑注释"
+    },
+    "design_systems.preset_libraries.tooltip.google": {
+        "string": "Google"
+    },
+    "upgrades.drafts_move.request_sent_header": {
+        "string": "请求已发送"
+    },
+    "seat_billing_terms.modal.old_seat.figjam": {
+        "string": "Figjam 座位"
+    },
+    "slides.speaker_notes.placeholder": {
+        "string": "添加演示者备注…"
+    },
+    "plan_invoices.no_invoices_to_show": {
+        "string": "无发票可显示"
+    },
+    "seat_billing_terms.modal.new_seat.collab": {
+        "string": "协作座位"
+    },
+    "seat_billing_terms.modal.tos.invoices.header": {
+        "string": "发票"
+    },
+    "fullscreen_actions.quick_actions.make-edits": {
+        "string": "进行编辑"
+    },
+    "community.publishing.author_share_as": {
+        "string": "作者（共享为）"
+    },
+    "inspect_panel.typography.text_decoration_offset": {
+        "string": "偏移"
+    },
+    "admin_settings.billing_plan_tier.upgrade_label": {
+        "string": "升级"
+    },
+    "fullscreen.node_type.vector_operation": {
+        "string": "矢量操作"
+    },
+    "tile.file_tile.last_activity_time": {
+        "string": "最后活动 {time}"
+    },
+    "fullscreen_actions.add-slide-object-animation": {
+        "string": "添加动画…"
+    },
+    "admin_settings.billing_plan_tier.org": {
+        "string": "组织计划"
+    },
+    "file_browser.file_move.no_projects_yet": {
+        "string": "尚无项目"
+    },
+    "proto.animation_panel.transition_direction.right": {
+        "string": "向右"
+    },
+    "resource_connection.manage_modal.disconnect": {
+        "string": "断开连接"
+    },
+    "community.publishing.resource_preview": {
+        "string": "资源预览"
+    },
+    "seat_billing_terms.modal.plan_types.ent": {
+        "string": "企业计划"
+    },
+    "resource_connection.manage_connection": {
+        "string": "管理连接"
+    },
+    "request_upgrade.instructions": {
+        "string": "为您的请求添加备注"
+    },
+    "fullscreen.properties_panel.cooper_tabular": {
+        "string": "表格视图"
+    },
+    "resource_connection.request_modal.add_a_link": {
+        "string": "添加链接"
+    },
+    "user_onboarding_signals.v1.answer.ux_writing": {
+        "string": "用户体验写作"
+    },
+    "plan_invoices.payment_method.card.mastercard": {
+        "string": "万事达卡"
+    },
+    "plan_invoices.description.annual_invoice": {
+        "string": "年度发票"
+    },
+    "billing.open_invoice_reminder.title": {
+        "string": "您的团队已锁定"
+    },
+    "resource_connection.request_modal.learn_more": {
+        "string": "了解更多"
+    },
+    "team_view.toolbar.connected_projects": {
+        "string": "已连接项目"
+    },
+    "resource_connection.request_modal.next_steps": {
+        "string": "下一步"
+    },
+    "slides.properties_panel.object_animations.delete": {
+        "string": "删除"
+    },
+    "fullscreen_actions.toggle-show-measurements": {
+        "string": "测量"
+    },
+    "fullscreen.node_type.rounded_rectangle": {
+        "string": "圆角矩形"
+    },
+    "admin_dashboard.requests.review_requests": {
+        "string": "审核请求"
+    },
+    "team_view.settings.grant_admin_access": {
+        "string": "授予管理员权限"
+    },
+    "variables.binding_ui.variable_library_tab_name": {
+        "string": "库"
+    },
+    "fullscreen.node_type.variable_override": {
+        "string": "变量重写"
+    },
+    "billing_modals.org_renewal.table.total_seats": {
+        "string": "总座位数"
+    },
+    "plan_invoices.seats_quantity": {
+        "string": "{quantity} {seatType} 座位"
+    },
+    "settings_table.add_additional_seats": {
+        "string": "添加额外座位"
+    },
+    "starting_points_onboarding.fills_step.title": {
+        "string": "更改填充"
+    },
+    "inspect_panel.typography.text_decoration": {
+        "string": "文本装饰"
+    },
+    "design_systems.updates.show_all_updates": {
+        "string": "显示所有更新"
+    },
+    "plan_invoices.payment_method.card.unknown.no_last_4": {
+        "string": "卡片"
+    },
+    "connected_projects_table.status.disconnected": {
+        "string": "已断开"
+    },
+    "member_flyout_modal.billing_interval.month": {
+        "string": "按月计费"
+    },
+    "collaboration.feedback.context_menu.undo_merge": {
+        "string": "撤销合并"
+    },
+    "seat_billing_terms.modal.plan_types.org": {
+        "string": "组织计划"
+    },
+    "billing_modals.org_renewal.table.header.assigned": {
+        "string": "已分配"
+    },
+    "whiteboard.inline_menu.shape_visibility.legend": {
+        "string": "可见性"
+    },
+    "seat_billing_terms.modal.old_seat.dev_mode": {
+        "string": "开发模式座位"
+    },
+    "fullscreen.toolbar.multi_mode_switcher.mode.design": {
+        "string": "设计"
+    },
+    "plan_invoices.description.monthly_invoice": {
+        "string": "月度发票"
+    },
+    "slides.properties_panel.theme.add_color_label": {
+        "string": "添加颜色"
+    },
+    "member_flyout_modal.billing_interval.year": {
+        "string": "按年计费"
+    },
+    "slides.properties_panel.object_animations.direction.up": {
+        "string": "向上"
+    },
+    "file_browser.folder_settings_modal.description": {
+        "string": "描述"
+    },
+    "team_view.settings.revoke_admin_access": {
+        "string": "撤销管理员权限"
+    },
+    "slides.properties_panel.code_block_panel.language": {
+        "string": "语言"
+    },
+    "fullscreen.filename_view.slides_pptx_export": {
+        "string": "导出为 PPTX"
+    },
+    "asset_transfers.destination_type.organization": {
+        "string": "组织"
+    },
+    "starting_points_onboarding.toolbar_step.title": {
+        "string": "切换工具"
+    },
+    "properties_panel.effects.blur.type.progressive": {
+        "string": "渐进式"
+    },
+    "community.publishing.use_file_thumbnail": {
+        "string": "使用文件缩略图"
+    },
+    "image_ai.upscale_image.instruction": {
+        "string": "选择一个图片进行编辑"
+    },
+    "slides.speaker_notes.error.default": {
+        "string": "发生了错误…"
+    },
+    "collaboration.branching.files_trashed": {
+        "string": "文件已移至回收站"
+    },
+    "inspect_panel.typography.text_decoration_skip_ink": {
+        "string": "跳过墨水"
+    },
+    "assets_in_actions.browse_libraries_button": {
+        "string": "浏览库"
+    },
+    "fullscreen.properties_panel.grid.column_index": {
+        "string": "列索引"
+    },
+    "slides.carousel.back_to_current_slide": {
+        "string": "返回当前幻灯片"
+    },
+    "design_linter.penalty_box.no_fix_available": {
+        "string": "无可用修复"
+    },
+    "request_upgrade.header.figjam": {
+        "string": "请求 FigJam 编辑面板"
+    },
+    "design_linter.penalty_box.select_all_button_aria": {
+        "string": "全选"
+    },
+    "design_linter.penalty_box.multiple_targets": {
+        "string": "多个目标"
+    },
+    "billing_modals.org_renewal.table.header.seat_type": {
+        "string": "座位类型"
+    },
+    "slides.properties_panel.object_animations.duration": {
+        "string": "持续时间"
+    },
+    "design_systems.instance_panel.from_this_file": {
+        "string": "来自此文件"
+    },
+    "seat_billing_terms.modal.tos.support_link_text": {
+        "string": "支持团队"
+    },
+    "request_upgrade.title_admin_slides": {
+        "string": "升级您的 Slides 席位"
+    },
+    "seat_billing_terms.modal.old_seat.design": {
+        "string": "Figma 设计座位"
+    },
+    "admin_settings.billing_plan_tier.enterprise": {
+        "string": "企业计划"
+    },
+    "plan_settings.auto_approval_settings": {
+        "string": "席位审批设置"
+    },
+    "design_linter.rules.color_tokens.name": {
+        "string": "缺失颜色变量"
+    },
+    "design_linter.penalty_box.refresh_button_aria": {
+        "string": "刷新检查器"
+    },
+    "plan_invoices.number_of_new_seats_label": {
+        "string": "新 {seatType} 座位"
+    },
+    "inspect_panel.typography.text_decoration_thickness": {
+        "string": "厚度"
+    },
+    "file_browser.folder_settings_modal.tooltip.settings": {
+        "string": "设置"
+    },
+    "project_menu.manage_transfer_request": {
+        "string": "管理转移请求"
+    },
+    "design_systems.shared_fonts.checkbox_select_font": {
+        "string": "选择字体"
+    },
+    "dev_handoff.variables.details_value_expand_aria_label": {
+        "string": "展开"
+    },
+    "admin_settings.billing_plan_tier.learn_more_label": {
+        "string": "了解更多"
+    },
+    "fullscreen_actions.convert-to-code-file": {
+        "string": "转换为代码文件"
+    },
+    "fullscreen.properties_panel.grid.vertical_span": {
+        "string": "垂直跨度"
+    },
+    "dev_handoff.code_connect.entrypoint_text_library": {
+        "string": "开始设置"
+    },
+    "living_designs.properties_panel.settings.eval_runs": {
+        "string": "运行评估"
+    },
+    "lab.sites_runtime_expanded_nodes": {
+        "string": "站点：展开运行时节点"
+    },
+    "plan_invoices.plan_canceled.title": {
+        "string": "您的计划已被取消"
+    },
+    "desktop_open_views.interstitial.figma_app_logo": {
+        "string": "Figma 应用标志"
+    },
+    "resource_connection.request_modal.email_address": {
+        "string": "电子邮件地址"
+    },
+    "slides.properties_panel.object_animations.direction.left": {
+        "string": "向左"
+    },
+    "plan_invoices.description.plan_subscription": {
+        "string": "计划订阅"
+    },
+    "resource_connection.invite_sent_info": {
+        "string": "{timeStamp} 由 {inviter} 发出"
+    },
+    "billing_modals.org_renewal.table.header.unassigned": {
+        "string": "未分配"
+    },
+    "slides.properties_panel.object_animations.direction.down": {
+        "string": "向下"
+    },
+    "seat_billing_terms.banner.review_and_accept": {
+        "string": "查看并接受"
+    },
+    "fullscreen_actions.export-slides-to-pdf": {
+        "string": "导出幻灯片为 PDF…"
+    },
+    "resource_connection.pending_modal.revoke_invite": {
+        "string": "撤销邀请"
+    },
+    "slides.properties_panel.object_animations.direction": {
+        "string": "方向"
+    },
+    "plan_invoices.description.quarterly_invoice": {
+        "string": "季度发票"
+    },
+    "member_flyout_modal.invite_admin_access_label": {
+        "string": "邀请为管理员"
+    },
+    "resource_connection.request_modal.who_to_notify": {
+        "string": "通知谁"
+    },
+    "domain_management.requires_verification": {
+        "string": "需要验证"
+    },
+    "first_draft.kits.simple-design-system-kit": {
+        "string": "简单设计系统"
+    },
+    "community.visual_assets.license_tooltip.license_link": {
+        "string": "CC BY 4.0"
+    },
+    "fullscreen_actions.convert-to-code-layer": {
+        "string": "转换为代码层"
+    },
+    "design_linter.penalty_box.layer_of_layers": {
+        "string": "{current} / {total}"
+    },
+    "billing.open_invoice_reminder.title_viewer": {
+        "string": "该团队已锁定"
+    },
+    "plan_invoices.amount_due_on": {
+        "string": "{amount} 到期日 {date, date, long}"
+    },
+    "file_browser.batch_delete_project.generic_confirm_label": {
+        "string": "删除"
+    },
+    "image_ai.upscale_image.processing": {
+        "string": "提升图片分辨率中…"
+    },
+    "user_onboarding_signals.v1.answer.data_analytics": {
+        "string": "数据分析"
+    },
+    "plan_invoices.payment_method.card.unknown.no_last_4.inline": {
+        "string": "卡片"
+    },
+    "seat_billing_terms.modal.tos.faq_link": {
+        "string": "更新的座位和计费"
+    },
+    "admin_dashboard.requests.sent_a_reminder": {
+        "string": "{time} 发送了提醒"
+    },
+    "resource_connection.disconnected_at": {
+        "string": "已于 {timeStamp} 断开连接"
+    },
+    "role_request.edit_request_tooltip.request_access": {
+        "string": "请求访问"
+    },
+    "proto.animation_panel.transition_direction": {
+        "string": "过渡方向"
+    },
+    "fullscreen_actions.quick_actions.quoted-query": {
+        "string": "\"{searchQuery}\""
+    },
+    "slides.properties_panel.object_animations.direction.right": {
+        "string": "向右"
+    },
+    "admin_settings.seat_counts.available_seats": {
+        "string": "可用 {quantity} 个"
+    },
+    "dev_handoff.right_panel.accessible_label": {
+        "string": "属性和插件"
+    },
+    "plan_invoices.overdue_notice": {
+        "string": "该发票未支付且已逾期"
+    },
+    "proto.preload.loading.tooltip.header.slides": {
+        "string": "下载幻灯片中…"
+    },
+    "admin_dashboard.requests.product_seat": {
+        "string": "{billableProductKey} 席位"
+    },
+    "collaboration.branching_chunk.local_style_type": {
+        "string": "本地 {styleType}"
+    },
+    "request_upgrade.header.design": {
+        "string": "请求 Figma Design 以编辑文件"
+    },
+    "dev_handoff.code.lang_html_examples": {
+        "string": "Web 组件, Vue, Angular"
+    },
+    "resource_connection.confirm_modal.if_you_accept": {
+        "string": "如果您接受..."
+    },
+    "ui3_layers_horizontal_scroll_overlay.try_it_in_ui3": {
+        "string": "在 UI3 中试试"
+    },
+    "fullscreen.properties_panel.grid.horizontal_span": {
+        "string": "水平跨度"
+    },
+    "fullscreen.properties_panel.ai_image_tools": {
+        "string": "图片工具（AI 测试版）"
+    },
+    "plan_invoices.payment_method.card.unknown": {
+        "string": "卡片尾号为 {last4}"
+    },
+    "fullscreen_actions.find-inspiration-compact": {
+        "string": "寻找相似设计"
+    },
+    "fullscreen.toolbar.multi_mode_switcher.switch_modes": {
+        "string": "切换模式"
+    },
+    "starting_points_onboarding.assets_step.title": {
+        "string": "查找更多模板"
+    },
+    "domain_management.column_header.unclaimed_users": {
+        "string": "未捕获用户"
+    },
+    "whiteboard.inline_menu.lock_background_only": {
+        "string": "仅锁定背景"
+    },
+    "collaboration.branching_chunk.header_other_changes": {
+        "string": "其他更改"
+    },
+    "dev_handoff.variables.details_button_aria_label": {
+        "string": "变量详情"
+    },
+    "plan_invoices.new_seats_quantity": {
+        "string": "{quantity} 个新 {seatType} 座位"
+    },
+    "community.publishing.add_the_final_details": {
+        "string": "添加最终细节"
+    },
+    "dev_handoff.configuration_wizard.step_picker_legend": {
+        "string": "选择步骤"
+    },
+    "rcs.visual_assets.drag_visual_assets_title": {
+        "string": "喜欢的资源？"
+    },
+    "team_admin_people_table_changes_overlay.view_members": {
+        "string": "查看成员"
+    },
+    "dev_handoff.variables.table_groups_expand_aria_label": {
+        "string": "展开组"
+    },
+    "resource_connection.request_modal.send_invitation": {
+        "string": "发送邀请"
+    },
+    "lab.ai_features_use_bedrock_llama": {
+        "string": "AI：在 Amazon Bedrock 上使用 Llama"
+    },
+    "variables.visual_bell.expand_variable_group": {
+        "string": "展开变量组"
+    },
+    "slides.properties_panel.variable_list.current_slide": {
+        "string": "当前幻灯片"
+    },
+    "community.publishing.individual_creator_author": {
+        "string": "个人创作者"
+    },
+    "community.actions.unable_to_save_resource": {
+        "string": "无法保存资源"
+    },
+    "slides.speaker_notes.no-notes-placeholder": {
+        "string": "此幻灯片无备注"
+    },
+    "collaboration.branching_node_treatments.value.effect.repeat": {
+        "string": "重复"
+    },
+    "design_systems.libraries_modal.error_body": {
+        "string": "尝试重新加载此模态框。"
+    },
+    "slides.properties_panel.object_animations.animation_type.none": {
+        "string": "无"
+    },
+    "starting_points_onboarding.properties_step.title": {
+        "string": "调整属性"
+    },
+    "community.publishing.describe_your_resource": {
+        "string": "描述您的资源"
+    },
+    "fullscreen.node_type.variable_set_extension": {
+        "string": "变量集扩展"
+    },
+    "admin_dashboard.requests.youre_all_caught_up": {
+        "string": "您已全部完成！"
+    },
+    "request_upgrade.header.dev_mode": {
+        "string": "请求开发模式以进行编码和构建"
+    },
+    "design_systems.assets_panel.num_results_parenthesis": {
+        "string": "（{numResults}）"
+    },
+    "slides.properties_panel.object_animations.animation_type.fade": {
+        "string": "淡入"
+    },
+    "slides.properties_panel.theme.add_text_style_label": {
+        "string": "添加文本样式"
+    },
+    "proto.preload.error.tooltip.header.slides": {
+        "string": "无法下载幻灯片"
+    },
+    "fullscreen.properties_panel.export_settings.slides_content": {
+        "string": "内容："
+    },
+    "fullscreen_actions.slides-draft-speaker-notes": {
+        "string": "草拟演示者备注"
+    },
+    "banner.pro_team_charge_failed_revamp.title": {
+        "string": "您的发票已逾期"
+    },
+    "new_user_experience.what_do_you_do.sticky_note.ux_writing": {
+        "string": "文案"
+    },
+    "first_draft.make_kit.lint.no_lint_errors_found": {
+        "string": "未发现 Lint 错误"
+    },
+    "image_ai.upscale_image.image_too_large_error": {
+        "string": "已达到最大分辨率"
+    },
+    "fullscreen_actions.quick_actions.detect-violations": {
+        "string": "查找建议"
+    },
+    "connected_projects_table.connected_plan": {
+        "string": "已连接团队/组织"
+    },
+    "dev_handoff.configuration_wizard.title_one_click": {
+        "string": "进入开发模式"
+    },
+    "plan_invoices.payment_amount.with_method": {
+        "string": "{amount} 通过 {method} 支付"
+    },
+    "dev_handoff.annotations.copied_link_to_clipboard": {
+        "string": "已复制链接到节点"
+    },
+    "starting_points_onboarding.edit_text_step.title": {
+        "string": "选择并编辑文本"
+    },
+    "community.publishing.additional_contributors": {
+        "string": "其他贡献者"
+    },
+    "fullscreen_actions.toggle-show-code-connect-annotations": {
+        "string": "代码连接"
+    },
+    "auth.sign_up_to_use_inspection_tools": {
+        "string": "注册使用检查工具"
+    },
+    "fullscreen.pages_panel.rename_all_layers_menu_item": {
+        "string": "重命名所有图层"
+    },
+    "upgrades.auto_pathway_success_modal.header": {
+        "string": "您现在可以在 Figma 中编辑"
+    },
+    "resource_connection.request_modal.step_1_of_2": {
+        "string": "第 {stepNumber} 步，共 2 步"
+    },
+    "design_systems.preset_libraries.tooltip.figma_license_link": {
+        "string": "CC BY 4.0"
+    },
+    "community.publishing.upload_images_or_videos": {
+        "string": "上传图片或视频"
+    },
+    "billing_modals.org_renewal.table.header.projected_cost": {
+        "string": "预计费用"
+    },
+    "user_onboarding_signals.v1.answer.other.placeholder": {
+        "string": "例如：艺术指导"
+    },
+    "slides.properties_panel.object_animations.animation_type.slide": {
+        "string": "幻灯片…"
+    },
+    "design_systems.assets_panel.search_all_icon_sets": {
+        "string": "搜索所有图标集"
+    },
+    "dev_handoff.variables.table_groups_collapse_aria_label": {
+        "string": "折叠组"
+    },
+    "domain_insights.manage_unclaimed_domain_users": {
+        "string": "管理未捕获用户"
+    },
+    "design_systems.assets_panel.created_in_this_file": {
+        "string": "在此文件中创建"
+    },
+    "help_widget.menu.report_translation_issues": {
+        "string": "报告翻译问题"
+    },
+    "file_browser.file_import_view.repo.success": {
+        "string": "仓库导入成功"
+    },
+    "member_flyout_modal.upgrade_actor_name": {
+        "string": "由 {upgradeActorName} 升级"
+    },
+    "community.sinatra.invalid_widget": {
+        "string": "编辑器类型不支持小部件"
+    },
+    "fullscreen_actions.quick_actions.add-interactions-v2": {
+        "string": "添加交互"
+    },
+    "variables.visual_bell.collapse_variable_group": {
+        "string": "折叠变量组"
+    },
+    "design_systems.instance_panel.open_community_page": {
+        "string": "打开社区页面"
+    },
+    "file_browser.file_import_view.repo.attaching_branch": {
+        "string": "附加分支中…"
+    },
+    "living_designs.eval.finished": {
+        "string": "Living Design 评估已成功创建！"
+    },
+    "design_systems.shared_fonts.checkbox_select_all_fonts": {
+        "string": "选择所有字体"
+    },
+    "resource_connection.request_modal.errors.user_not_found": {
+        "string": "未找到用户"
+    },
+    "file_browser.folder_settings_modal.manage_connection": {
+        "string": "管理连接"
+    },
+    "fullscreen.properties_panel.effects.repeat.order_reverse": {
+        "string": "逆序"
+    },
+    "request_upgrade.header.slides": {
+        "string": "请求 Figma Slides 编辑幻灯片"
+    },
+    "community.publishing.getting_everything_ready": {
+        "string": "正在准备一切"
+    },
+    "fullscreen.properties_panel.grid.horizontal_spacing": {
+        "string": "水平间距"
+    },
+    "collaboration.branching_node_treatments.value.effect.symmetry": {
+        "string": "对称"
+    },
+    "seat_billing_terms.modal.tos.ssa_link_text": {
+        "string": "软件服务协议"
+    },
+    "auth.sign_up_to_use_multiplayer_tools": {
+        "string": "注册使用多人协作工具"
+    },
+    "plan_invoices.payment_method.card.unknown.inline": {
+        "string": "尾号为 {last4} 的卡片"
+    },
+    "request_upgrade.title_request_access_to_slides": {
+        "string": "请求访问 Slides"
+    },
+    "slides.speaker_notes.error.rate_limit": {
+        "string": "稍等片刻再试"
+    },
+    "notification_settings_modal.browser_notifications": {
+        "string": "浏览器通知"
+    },
+    "resource_connection.request_modal.plan_link_verified": {
+        "string": "{planName} 已验证"
+    },
+    "slides.speaker_notes.error.openai_down": {
+        "string": "AI 功能当前不可用"
+    },
+    "license_group_admin.billing_banner.count_title.design": {
+        "string": "总设计席位"
+    },
+    "fullscreen.node_type.interactive_slide_element": {
+        "string": "互动幻灯片元素"
+    },
+    "dev_handoff.paywall.success_modal.grace_period.button_one_click": {
+        "string": "开始使用"
+    },
+    "file_browser.recents_and_sharing_view.suggested_files_tab_name": {
+        "string": "推荐"
+    },
+    "license_group_admin.billing_banner.count_title.figjam": {
+        "string": "总 FigJam 座位"
+    },
+    "plan_invoices.x_over_x_total_seats": {
+        "string": "{numerator}/{denominator} 总座位"
+    },
+    "first_draft.make_kit.lint.no_kit_found": {
+        "string": "未找到工具包，请先创建一个工具包"
+    },
+    "seat_billing_terms.modal.seat_features.collab": {
+        "string": "包括 FigJam 和 Slides"
+    },
+    "billing_modals.org_renewal.cta.confirm_seat_renewal": {
+        "string": "确认座位续订"
+    },
+    "slides.speaker_notes.error.token_limit": {
+        "string": "删除一些内容并重试"
+    },
+    "file_browser.file_move.no_projects_in_this_team": {
+        "string": "该团队没有项目"
+    },
+    "dev_handoff.compare_changes.button.failed": {
+        "string": "打开对比更改失败"
+    },
+    "dev_handoff.variables.table_collections_local": {
+        "string": "来自此文件的集合"
+    },
+    "fullscreen_actions.quick_actions.find-components": {
+        "string": "{searchQuery} 组件"
+    },
+    "fullscreen.properties_panel.export_settings.slides_content.all": {
+        "string": "所有幻灯片"
+    },
+    "living_designs.properties_panel.settings.create_evals_button": {
+        "string": "创建评估"
+    },
+    "members_table.invite_tooltip.seat": {
+        "string": "座位类型由组织邀请设置"
+    },
+    "fullscreen.properties_panel.export_settings_image_sampling": {
+        "string": "图像采样"
+    },
+    "fullscreen.properties_panel.ai_image_tools.upscale_image": {
+        "string": "提升分辨率"
+    },
+    "fullscreen.properties_panel.export_settings_image_sampling.bicubic": {
+        "string": "平滑"
+    },
+    "billing.open_invoice_reminder.grace_period_title": {
+        "string": "您的发票已逾期"
+    },
+    "rcs.visual_assets.elevate_your_designs": {
+        "string": "使用图标集轻松设计"
+    },
+    "request_upgrade.placeholder.figjam": {
+        "string": "告诉管理员您为什么需要 FigJam"
+    },
+    "admin_dashboard.requests.requested_a_seat": {
+        "string": "{name} 请求了一个 {boldedSeat}"
+    },
+    "community.publishing.gathering_all_the_layers": {
+        "string": "正在收集所有图层…"
+    },
+    "community.publishing.compiling_all_components": {
+        "string": "正在编译所有组件…"
+    },
+    "request_upgrade.title_request_sent_stay_tuned": {
+        "string": "请求已发送！请保持关注…"
+    },
+    "slides.speaker_notes.error.connection": {
+        "string": "检查您的连接并重试"
+    },
+    "community.publishing.description_cant_be_empty": {
+        "string": "描述不能为空"
+    },
+    "resource_connection.request_modal.generic_plan_link_verified": {
+        "string": "计划已验证"
+    },
+    "banner.cooper.alpha_banner.prod_description": {
+        "string": "该项目正在开发中"
+    },
+    "community.community_license_text": {
+        "string": "由社区授权 {licenseLink}"
+    },
+    "design_systems.libraries_modal.recommended_libraries": {
+        "string": "推荐库"
+    },
+    "ai.error.not_implemented": {
+        "string": "AI 功能不支持所选模型"
+    },
+    "slides.speaker_notes.error.add-more-content": {
+        "string": "添加更多内容后重试"
+    },
+    "slides.properties_panel.text_style.edit_template_color": {
+        "string": "编辑模板颜色"
+    },
+    "admin_settings.people.onboarding.easily_manage_people": {
+        "string": "轻松管理人员"
+    },
+    "slides.speaker_notes.error.payload_too_large": {
+        "string": "缩小图片后重试"
+    },
+    "fullscreen.properties_panel.export_settings_image_sampling.standard": {
+        "string": "粗糙"
+    },
+    "domain_insights.unclaimed_users.search.placeholder": {
+        "string": "搜索未捕获的用户"
+    },
+    "design_systems.libraries_modal.last_updated_time": {
+        "string": "最后更新于 {timeFromNow}"
+    },
+    "magic_link.running_and_adding_back_interactions": {
+        "string": "正在添加交互…"
+    },
+    "design_linter.rules.color_tokens.warning_label": {
+        "string": "选择或创建颜色令牌"
+    },
+    "dev_handoff.variables.table_empty": {
+        "string": "此文件没有可用变量"
+    },
+    "admin_dashboard.request_flyout.requested_a_seat": {
+        "string": "请求了一个 {seatType} 席位"
+    },
+    "collaboration.branching.files_permanently_deleted": {
+        "string": "文件已永久删除"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_file": {
+        "string": "代码文件"
+    },
+    "dev_handoff.upsell.user_marked_a design": {
+        "string": "{userName} 将一个设计标记为 {status}"
+    },
+    "collaboration.branching_chunk.fallback_missing_library_name": {
+        "string": "库更改"
+    },
+    "domain_insights.unclaimed_users.enable_domain_capture": {
+        "string": "启用域捕获"
+    },
+    "image_ai.upscale_image.qa_suggestion_toast": {
+        "string": "您的图像看起来有些模糊"
+    },
+    "revoke_transfer_modal.visual_bell.transfer_revoked": {
+        "string": "传输请求已撤销"
+    },
+    "resource_connection.request_modal.connect_this_project": {
+        "string": "连接此项目"
+    },
+    "domain_insights.unclaimed_users.no_unclaimed_users": {
+        "string": "未发现未捕获的用户"
+    },
+    "slides.speaker_notes.placeholder-next-to-draft-button": {
+        "string": "添加演示者备注或"
+    },
+    "fullscreen.visual_bell.large_deletion_warning": {
+        "string": "已删除 {numNodes} 个图层"
+    },
+    "whiteboard.shapes_sidebar.see_additional_shapes_button": {
+        "string": "+{numRemainingShapes}"
+    },
+    "dev_handoff.variables.details_button_close_aria_label": {
+        "string": "关闭变量详情"
+    },
+    "fullscreen_actions.quick_actions.find-in-community": {
+        "string": "{searchQuery} 在社区中"
+    },
+    "upgrades.drafts_move.request_header": {
+        "string": "[请求完全访问以从草稿移动]"
+    },
+    "design_systems.assets_panel.search_all_illustrations": {
+        "string": "搜索所有插图"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_layer": {
+        "string": "代码层"
+    },
+    "design_systems.instance_swap_picker.created_in_this_file": {
+        "string": "在此文件中创建"
+    },
+    "plan_invoices.payment_amount.with_date": {
+        "string": "{amount} 于 {date, date, ::MMMMd} 支付"
+    },
+    "dakota.collection_field_editor.error.duplicate_name": {
+        "string": "字段名称已存在"
+    },
+    "request_upgrade.placeholder.dev_mode": {
+        "string": "告诉管理员您为什么需要开发模式"
+    },
+    "fullscreen.properties_panel.gradient_picker.delete_stop_shorthand": {
+        "string": "删除停止点"
+    },
+    "slides.speaker_notes.error.inappropriate_input": {
+        "string": "已阻止 · 尝试不同的内容"
+    },
+    "admin_settings.sidebar.onboarding.welcome_to_admin": {
+        "string": "欢迎使用 {planName} 管理"
+    },
+    "slides.speaker_notes.error.unmodified_slide": {
+        "string": "添加自己的内容后重试"
+    },
+    "fullscreen.properties_panel.ai_image_tools.remove_background": {
+        "string": "移除背景"
+    },
+    "seat_billing_terms.modal.finish_and_agree": {
+        "string": "完成并同意继续使用 Figma"
+    },
+    "universal_upgrade.enterpise_plan_banner_v2.banner_body_text_and_more": {
+        "string": "以及更多。"
+    },
+    "role_request.edit_request_tooltip.wants_to_request_type": {
+        "string": "想要 {requestType}"
+    },
+    "living_designs.properties_panel.settings.backoff_delay": {
+        "string": "评估退避延迟（毫秒）"
+    },
+    "community.publishing.cannot_have_more_than_5_tags": {
+        "string": "不能超过 5 个标签"
+    },
+    "fullscreen_actions.quick_actions.first-draft-fine-tune": {
+        "string": "初稿（微调）"
+    },
+    "resource_connection.visual_bell.connection_request_sent": {
+        "string": "连接请求已发送"
+    },
+    "seat_billing_terms.modal.tos.subscription.header": {
+        "string": "订阅条款与定价"
+    },
+    "design_systems.libraries_modal.error_header": {
+        "string": "加载时遇到错误。"
+    },
+    "new_user_experience.what_do_you_do.sticky_note.data_analytics": {
+        "string": "让我们进行 A/B 测试"
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui3_title": {
+        "string": "<- 横向图层滚动 ->"
+    },
+    "request_upgrade.placeholder.design": {
+        "string": "告诉管理员您为什么需要 Figma Design"
+    },
+    "asset_suggestions.visual_search_icon_button_tooltip_with_beta_tag": {
+        "string": "视觉搜索"
+    },
+    "request_upgrade.placeholder.slides": {
+        "string": "告诉管理员您为什么需要 Figma Slides"
+    },
+    "banner.pro_team_past_due_revamp.title_viewer": {
+        "string": "此文件属于已锁定的团队"
+    },
+    "fullscreen.properties_panel.transform_panel.aspect_ratio_lock": {
+        "string": "锁定宽高比"
+    },
+    "fullscreen.file_import.import_jamboard_pdf_failed": {
+        "string": "无法导入 Jamboard PDF"
+    },
+    "seat_billing_terms.modal.seat_features.dev": {
+        "string": "包括开发模式、FigJam 和 Slides"
+    },
+    "living_designs.eval.error": {
+        "string": "创建 Living Design 评估时出错。请重试。"
+    },
+    "request_upgrade.instruction_text_header_optional": {
+        "string": "{boldedInstructions}（可选）"
+    },
+    "admin_settings.seat_counts.manage_seat_type_button_label": {
+        "string": "管理 {seatType} 席位"
+    },
+    "seat_billing_terms.modal.tos.additional_seats.header": {
+        "string": "购买额外席位"
+    },
+    "bug_reporter.modal.search_filter_placeholder": {
+        "string": "通过下拉结果筛选"
+    },
+    "image_ai.upscale_image.image_too_small_error": {
+        "string": "图像太小，无法提升分辨率"
+    },
+    "auth.sign_up_to_comment_edit_inspect": {
+        "string": "注册以评论、编辑、检查等。"
+    },
+    "settings_table.your_annual_plan_starts": {
+        "string": "您的年度计划开始于 {date, date, long}"
+    },
+    "role_request.edit_request_tooltip.user1_and_user2": {
+        "string": "{userHandle1} 和 {userHandle2}"
+    },
+    "fullscreen.properties_panel.gradient_picker.redistribute_stops": {
+        "string": "重新分配停止点"
+    },
+    "fullscreen_actions.focus-mode-responsive-set-enable": {
+        "string": "始终选择匹配的图层"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_library": {
+        "string": "代码库"
+    },
+    "image_ai.upscale_image.image_already_max_upscaled_error.boost_anyway": {
+        "string": "仍然提升"
+    },
+    "magic_link.running_and_adding_overlay_interactions": {
+        "string": "添加叠加交互中…"
+    },
+    "image_ai.upscale_image.image_error": {
+        "string": "出了点问题…尝试不同的图像。"
+    },
+    "dev_handoff.variables.suggested_variables.library_not_found": {
+        "string": "来自外部库"
+    },
+    "file_browser.file_import_view.repo.error": {
+        "string": "附加分支时出错"
+    },
+    "design_linter.penalty_box.fix_failed_bell": {
+        "string": "出了点问题。请重试。"
+    },
+    "design_systems.libraries_modal.no_organization_libraries": {
+        "string": "没有组织库"
+    },
+    "living_designs.properties_panel.settings.serializer_dropdown": {
+        "string": "选择序列化器"
+    },
+    "dev_handoff.variables.table_collection_empty": {
+        "string": "此集合不包含变量"
+    },
+    "variables.binding_ui.set_labels.variables_created_in_file": {
+        "string": "此文件中的变量"
+    },
+    "checkout.tax_disclaimer_revised": {
+        "string": "在 {checkoutStep} 查看您的总计（包括税费）"
+    },
+    "fullscreen_actions.quick_actions.find-at-plan-file": {
+        "string": "{searchQuery} 在 {planFileName}"
+    },
+    "resource_connection.visual_bell.already_denied": {
+        "string": "此邀请已被拒绝"
+    },
+    "resource_connection.revoke_modal.revoke_connection_invite": {
+        "string": "撤销连接邀请"
+    },
+    "asset_suggestions.suggestion_shelf_empty_state": {
+        "string": "单击图层以查看建议"
+    },
+    "org_admin_settings.billing.finalize_invoice_modal.invoice_subtotal": {
+        "string": "发票小计"
+    },
+    "collaboration.branching_node_treatments.value.node_type.code_instance": {
+        "string": "代码实例"
+    },
+    "magic_link.running_and_adding_navigate_interactions": {
+        "string": "添加导航交互中…"
+    },
+    "fullscreen_actions.focus-mode-responsive-set-disable": {
+        "string": "停止选择匹配的图层"
+    },
+    "slides.speaker_notes.error.opt_out": {
+        "string": "您的组织已禁用 AI 功能"
+    },
+    "banner.pro_team_past_due_revamp.title": {
+        "string": "由于发票逾期，此文件已锁定"
+    },
+    "magic_link.running_and_selecting_top_level_frames": {
+        "string": "正在为您选择顶级框架"
+    },
+    "visual_bell.can_t_paste_focused_on_instance": {
+        "string": "无法粘贴到实例上"
+    },
+    "file_browser.folder_settings_modal.no_description_added_yet": {
+        "string": "尚未添加描述"
+    },
+    "resource_connection.visual_bell.already_revoked": {
+        "string": "此邀请已被撤销"
+    },
+    "community.publishing.sell_this_resource_on_community": {
+        "string": "在社区出售此资源"
+    },
+    "dev_handoff.variables.details_scope_info": {
+        "string": "变量仅适用于这些属性"
+    },
+    "org_admin_settings.banners.renewal.body.non_auto": {
+        "string": "请联系您的客户经理。"
+    },
+    "fullscreen.toolbar_banner.provisional_access.dev_mode": {
+        "string": "享受临时开发模式访问权限"
+    },
+    "slides.properties_panel.presentation_presets_entrypoint_header": {
+        "string": "正在制作演示文稿？"
+    },
+    "fullscreen.properties_panel.section_layout_grid.tooltip_addLayoutGrid": {
+        "string": "添加布局网格"
+    },
+    "design_systems.libraries_modal.dsa_empty_styles": {
+        "string": "此库没有任何样式。"
+    },
+    "file_browser.folder_settings_modal.add_description": {
+        "string": "为此项目添加描述"
+    },
+    "resource_connection.disconnect_modal.disconnect_project_name": {
+        "string": "断开 {projectName}"
+    },
+    "resource_connection.visual_bell.connection_request_denied": {
+        "string": "连接请求被拒绝"
+    },
+    "resource_connection.visual_bell.connection_request_revoked": {
+        "string": "连接请求已撤销"
+    },
+    "fullscreen.toolbar.prototyping-add-interactions-tooltip-v2": {
+        "string": "添加交互（AI 测试版）"
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui2_title": {
+        "string": "UI3 新功能：横向图层滚动"
+    },
+    "subscription.error.no_annual_subscription_to_cancel": {
+        "string": "没有年度订阅可取消。"
+    },
+    "resource_connection.visual_bell.already_approved": {
+        "string": "此邀请已被批准"
+    },
+    "fullscreen_actions.quick_actions.first-draft-make-kit-debug": {
+        "string": "调试初稿工具包"
+    },
+    "team_view.pastdue_proteam_admin_invoice_reminder_banner.title": {
+        "string": "您的发票已逾期"
+    },
+    "community.publishing.we_have_received_your_submission": {
+        "string": "我们已收到您的提交"
+    },
+    "fullscreen.properties_panel.grid.number_of_rows_in_the_grid": {
+        "string": "网格中的行数"
+    },
+    "seat_billing_terms.modal.please_review": {
+        "string": "请查看一些重要的管理员更新"
+    },
+    "resource_connection.request_modal.learn_how_to_find_the_link": {
+        "string": "了解如何找到链接"
+    },
+    "billing_modals.org_renewal.header": {
+        "string": "年度席位将于 {date, date, long} 在 {orgName} 续订"
+    },
+    "dev_handoff.code_connect.entrypoint_title_library": {
+        "string": "向开发人员展示此组件的代码"
+    },
+    "resource_connection.visual_bell.connection_request_approved": {
+        "string": "连接请求已批准"
+    },
+    "community.saves.resource_saved_for_everyone_at": {
+        "string": "资源已为 {orgName} 的所有人保存"
+    },
+    "resource_connection.num_members": {
+        "string": "{count, plural, one {1 名成员} other {{count} 名成员}}"
+    },
+    "living_designs.eval.progress": {
+        "string": "创建 Living Design 评估中（较慢）… {completed}/{total}"
+    },
+    "slides.speaker_notes.error.switched-slides": {
+        "string": "停留在幻灯片上直到草稿完成"
+    },
+    "file_browser.file_import_view.jamboard_import_deprecation_message.learn_more": {
+        "string": "了解更多"
+    },
+    "tile.sort_filter.can_be_restored_permanently_deleted": {
+        "string": "可以恢复/永久删除"
+    },
+    "fullscreen_actions.quick_actions.find-inspiration-verbose": {
+        "string": "使用图像或选择搜索"
+    },
+    "billing_modals.org_renewal.disclaimer_banner.manage_assigned_seats": {
+        "string": "管理已分配的席位"
+    },
+    "community.publishing.include_prototypes_in_thumbnail": {
+        "string": "在缩略图中包含原型"
+    },
+    "plan_invoices.next_invoice_issued_at": {
+        "string": "您的下一张发票将于 {date, date, long} 开具"
+    },
+    "file_browser.folder_settings_modal.connect_with_external_plan": {
+        "string": "与外部团队连接"
+    },
+    "plan_invoices.locked_invoice.title": {
+        "string": "您的 {date, date, ::MMMMd} 发票已定稿"
+    },
+    "fullscreen_actions.repair-duplicate-subscribed-assets": {
+        "string": "修复重复的已订阅资产"
+    },
+    "fullscreen_actions.quick_actions.find-plugins-widgets": {
+        "string": "{searchQuery} 在插件和小部件中"
+    },
+    "plan_invoices.total_seats": {
+        "string": "{quantity, plural, one {1 个席位} other {{quantity} 个席位}}"
+    },
+    "org_admin_settings.banners.renewal.header": {
+        "string": "{seatCount} 个席位将于 {date, date, long} 续订"
+    },
+    "fullscreen_actions.export-all-cooper-templates-to-pdf": {
+        "string": "将所有 Cooper 模板导出为 PDF…"
+    },
+    "session.expired_magic_code": {
+        "string": "您输入的代码已过期。请尝试重新登录。"
+    },
+    "resource_connection.request_modal.add_a_message_if_you_d_like": {
+        "string": "如果需要，可以添加消息"
+    },
+    "settings_table.convert_all_monthly_seats": {
+        "string": "将所有每月席位转换为较低的年度费率。"
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_view": {
+        "string": "{userName} 的席位已更改"
+    },
+    "fullscreen_actions.quick_actions.find-inspiration-with-selection-vague": {
+        "string": "找到更多类似内容"
+    },
+    "community.actions.unable_to_like_this_resource_error": {
+        "string": "无法点赞此资源：{error}"
+    },
+    "auth.create_account_to_view_reply_comments": {
+        "string": "创建账户以查看和回复评论。"
+    },
+    "domain_insights.unclaimed_users.add_users": {
+        "string": "{count, plural, one {添加用户} other {添加用户}}"
+    },
+    "design_systems.libraries_modal.dsa_empty_variables": {
+        "string": "此库没有任何变量。"
+    },
+    "fullscreen_actions.quick_actions.find-inspiration-with-selection": {
+        "string": "找到更多像 {frameName} 的内容"
+    },
+    "properties_panel.effects.repeat.units_relative": {
+        "string": "{numUnits, plural, one {单位} other {单位}}"
+    },
+    "community.saves.resource_removed_for_everyone_at": {
+        "string": "资源已从 {orgName} 的所有人中移除"
+    },
+    "fullscreen.properties_panel.grid.number_of_columns_in_the_grid": {
+        "string": "网格中的列数"
+    },
+    "visual_bell.can_t_duplicate_focused_on_instance": {
+        "string": "在聚焦实例时无法复制"
+    },
+    "domain_insights.unclaimed_users.verify_domains_note": {
+        "string": "验证域并启用域捕获"
+    },
+    "design_systems.libraries_modal.your_admins_suggest": {
+        "string": "您的管理员建议使用这些库"
+    },
+    "community.access_needed_to_publish_in_org_modal.title": {
+        "string": "请求访问权限以发布到社区"
+    },
+    "design_systems.libraries_modal.dsa_empty_components": {
+        "string": "此库没有任何组件。"
+    },
+    "plan_invoices.review_invoice.title_trueup": {
+        "string": "您在 {date, date, ::MMMMd} 的结算期内"
+    },
+    "file_browser.team_settings_modal.paid_status_explanation.admin_dashboard_link": {
+        "string": "管理员仪表板"
+    },
+    "in_product_help_and_learning.article.explore_component_properties": {
+        "string": "探索组件属性"
+    },
+    "design_systems.libraries_modal.dsa_csv_team_file_name": {
+        "string": "{libraryName}-{assetType}-team-usage.csv"
+    },
+    "plan_invoices.annual_and_monthly_quantities": {
+        "string": "{annualQuantity} 年度，{monthlyQuantity} 每月"
+    },
+    "community.actions.unable_to_unlike_this_resource_error": {
+        "string": "无法取消对该资源的喜欢：{error}"
+    },
+    "plan_invoices.plan_canceled.subtitle": {
+        "string": "您的席位将于 {expiresAt, date, long} 停用"
+    },
+    "whiteboard.delightful_toolbar.provisional_access": {
+        "string": "请求已发送—享受对 FigJam 的临时访问"
+    },
+    "plan_invoices.review_invoice.subtitle": {
+        "string": "审核并确认席位，然后最终确定您的发票"
+    },
+    "slides.speaker_notes.error.switched-to-grid-view": {
+        "string": "在草拟完成之前，请保持在幻灯片视图中"
+    },
+    "auto_rename_layers.rename_layers": {
+        "string": "{numLayers, plural, one {重命名图层} other {重命名图层}}"
+    },
+    "assets_in_actions.no_results_no_libraries.title": {
+        "string": "没有结果。请添加一个库来搜索组件"
+    },
+    "upgrades.drafts_move.request_sent_body_figjam": {
+        "string": "享受最多 3 天的 FigJam 临时访问。"
+    },
+    "notification_settings_modal.send_me_browser_push_notifications": {
+        "string": "发送通知到我的浏览器"
+    },
+    "team_admin_people_table_changes_overlay.team_permissions_have_moved": {
+        "string": "团队权限已移动"
+    },
+    "auth.magic_link_check_email.body_login_with_code": {
+        "string": "或者，输入我们发送到您电子邮件的代码。"
+    },
+    "admin_settings.sidebar.onboarding.quickly_get_back_to_your_files": {
+        "string": "快速返回您的文件"
+    },
+    "admin_dashboard.request_flyout.sent_a_reminder": {
+        "string": "{name} 发送了一个提醒 {reminderSentTimeFromNow}"
+    },
+    "admin_settings.billing_plan_tier.copy_no_upgrade": {
+        "string": "您当前在 {planTier} 计划上。{learnMore}"
+    },
+    "community.publishing.recommended_size_in_pixels": {
+        "string": "推荐尺寸：{mediaWidth} x {mediaHeight} 像素"
+    },
+    "slides.speaker_notes.error.meter_limit": {
+        "string": "已达使用限制 · {resetDate, date, medium} 重置"
+    },
+    "fullscreen.toolbar_banner.provisional_access.design": {
+        "string": "请求已发送—享受对设计的临时访问"
+    },
+    "plan_invoices.total_seats_colon": {
+        "string": "{quantity, plural, one {1 席位：} other {{quantity} 总席位：}}"
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.one_admin": {
+        "string": "{orgAdminName} 是您的管理员"
+    },
+    "dev_handoff.variables.details_values_not_all_from_same_mode": {
+        "string": "值并非全部来自同一模式"
+    },
+    "fullscreen.toolbar_banner.provisional_access.slides": {
+        "string": "请求已发送—享受对幻灯片的临时访问"
+    },
+    "dev_handoff.variables.table_collections_local_expand_aria_label": {
+        "string": "展开来自此文件的集合"
+    },
+    "admin_settings.billing_plan_tier.copy": {
+        "string": "您当前在 {planTier} 计划上。{learnMore} 或 {upgrade}"
+    },
+    "domain_management.unclaimed_user_count": {
+        "string": "{userCount, plural, one {1 名用户} other {{userCount} 名用户}}"
+    },
+    "visual_bell.can_t_create_nodes_focused_on_instance": {
+        "string": "在聚焦实例时无法创建节点"
+    },
+    "auto_rename_layers.renamed_n_layers": {
+        "string": "{n, plural, one {已重命名 {n} 个图层} other {已重命名 {n} 个图层}}"
+    },
+    "tooltips_plus_onboarding.ui_kits_and_icon_packs_step.title": {
+        "string": "使用 UI 工具包和图标包加速设计"
+    },
+    "community.visual_assets.license_tooltip": {
+        "string": "社区资源由 {authorName} 持有，并遵循 CC BY 4.0 许可。"
+    },
+    "seat_billing_terms.banner.info.description": {
+        "string": "这些条款包括我们价格和座位类型的更改。"
+    },
+    "upgrades.drafts_move.request_sent_body_design": {
+        "string": "享受最多 3 天的 Figma Design 临时访问。"
+    },
+    "resource_connection.visual_bell.connection_already_exists": {
+        "string": "此资源已存在连接"
+    },
+    "community.publishing.add_up_to_n_images_to_your_carousel": {
+        "string": "最多添加 {maxMedia} 张图片到您的轮播中"
+    },
+    "community.publishing.name_must_be_n_characters_long": {
+        "string": "名称必须至少 {minLength} 个字符"
+    },
+    "dev_handoff.variables.table_collections_local_collapse_aria_label": {
+        "string": "折叠来自此文件的集合"
+    },
+    "billing.open_invoice_reminder.locked_viewer_description": {
+        "string": "要解锁此团队，请联系您的管理员。"
+    },
+    "seat_billing_terms.banner.urgent.main_text": {
+        "string": "接受我们的更新合同条款以继续使用 Figma。"
+    },
+    "upgrades.drafts_move.request_sent_body_slides": {
+        "string": "享受最多 3 天的 Figma Slides 临时访问。"
+    },
+    "org_admin_settings.banners.renewal.header.non_auto": {
+        "string": "您的账户需在 {date, date, long} 续订"
+    },
+    "plan_invoices.payment_amount.with_method_and_date": {
+        "string": "{amount} 通过 {method} 于 {date, date, ::MMMMd} 支付"
+    },
+    "file_browser.tiles_view.default_overfiltered_text": {
+        "string": "没有匹配结果—清除一些过滤器以查看文件"
+    },
+    "seat_billing_terms.modal.evolving_terms": {
+        "string": "我们正在将座位从单产品扩展到多产品。"
+    },
+    "org_admin_settings.billing.freeze_invoice_modal.details_heading.annual": {
+        "string": "确认您想要拥有："
+    },
+    "plan_settings.auto_approval_settings_description": {
+        "string": "配置座位请求和升级的审批方式。"
+    },
+    "org_admin_settings.billing.freeze_invoice_modal.details_heading.true_up": {
+        "string": "确认您想要添加："
+    },
+    "dev_handoff.paywall.blocking_modal.content.curious_to_learn_more": {
+        "string": "想了解更多吗？ {learnMoreLink}"
+    },
+    "resource_connection.request_modal.errors.please_use_a_valid_email_format": {
+        "string": "请输入有效的电子邮件格式"
+    },
+    "image_ai.upscale_image.image_already_max_upscaled_error": {
+        "string": "进一步提升分辨率可能需要一些时间"
+    },
+    "fullscreen.properties_panel.grid.vertical_spacing_between_grid_items": {
+        "string": "网格项之间的垂直间距"
+    },
+    "resource_connection.visual_bell.generic_error": {
+        "string": "出了点问题 - 请检查连接并重试"
+    },
+    "resource_connection.visual_bell.project_successfully_disconnected": {
+        "string": "{projectName} 成功断开连接"
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.two_admins": {
+        "string": "{orgAdmin1Name} 和 {orgAdmin2Name}"
+    },
+    "community.publishing.you_must_set_a_thumbnail_for_your_resource": {
+        "string": "您必须为资源设置缩略图"
+    },
+    "community.saves.resource_saved_for_your_profile": {
+        "string": "资源已保存到您的 Figma 账户和社区个人资料"
+    },
+    "plan_invoices.generic_new_seats_quantity": {
+        "string": "{quantity, plural, one {1 新席位} other {{quantity} 新席位}}"
+    },
+    "request_upgrade.message_input_placeholder.dev_mode_one_click": {
+        "string": "(可选) 添加备注以加速您的请求"
+    },
+    "seat_billing_terms.modal.seat_features.full": {
+        "string": "包括我们所有的产品：设计、开发模式、FigJam 和 Slides"
+    },
+    "abandoned_drafts_table.folder_path": {
+        "string": "{abandonedDraftUserName} ({abandonedDraftUserEmail}) 的未分配草稿"
+    },
+    "plan_invoices.new_seats_added": {
+        "string": "{quantity, plural, one {添加了 1 个新席位} other {添加了 {quantity} 个新席位}}"
+    },
+    "banner.pro_team_charge_failed_revamp.subtitle.can_admin": {
+        "string": "请支付您的发票以解锁您的工作。"
+    },
+    "fullscreen_actions.quick_actions.find-at-plan-file-and-community": {
+        "string": "{searchQuery} 在社区 / {planFileName}"
+    },
+    "community.publishing.name_must_be_at_most_n_characters_long": {
+        "string": "名称最多只能包含 {maxLength} 个字符"
+    },
+    "plan_invoices.review_invoice.title_renewal": {
+        "string": "您的年度续订发票将于 {date, date, ::MMMMd} 开具"
+    },
+    "design_systems.libraries_modal.team_libraries_description": {
+        "string": "由您所属的团队创建并共享的库"
+    },
+    "design_systems.assets_panel.num_assets": {
+        "string": "{numAssets, plural, one {{numAssets} 个资产} other {{numAssets} 个资产}}"
+    },
+    "team_view.locked_proteam_admin_invoice_reminder_banner.title": {
+        "string": "您的团队因逾期发票被锁定"
+    },
+    "new_user_experience.choose_plan_card.org.education_cta_with_verified_link": {
+        "string": "教育免费 {verifiedLink}"
+    },
+    "file_browser.confirm_file_trash_modal.about_to_trash_file": {
+        "string": "您即将将文件 {fileNameText} 移到垃圾箱。"
+    },
+    "revoke_transfer_modal.visual_bell.something_went_wrong": {
+        "string": "出了点问题 - 请检查连接并重试"
+    },
+    "upgrades.auto_pathway_success_modal.body.collaborator.edit": {
+        "string": "太好了！现在您可以在 FigJam 和 Slides 中创建和编辑了。"
+    },
+    "license_group_admin.billing_banner.default_new": {
+        "string": "您组织的下一张发票将于 {date, date, long} 开具"
+    },
+    "community.saves.resource_removed_from_your_profile": {
+        "string": "资源已从您的 Figma 账户和社区个人资料中移除"
+    },
+    "community.visual_assets.license_tooltip_with_link": {
+        "string": "社区资源由 {authorName} 持有，并遵循 {licenseLink} 许可"
+    },
+    "dev_handoff.variables.details_value_show_more": {
+        "string": "{count, plural, one {查看 {count} 个值} other {查看 {count} 个值}}"
+    },
+    "license_group_admin.billing_banner.completed_at_date_new": {
+        "string": "此计费组已于 {date, date, ::MMMMd} 确认"
+    },
+    "auto_rename_layers.missing_n_layer_names": {
+        "string": "{n, plural, one {缺少 {n} 个图层名称} other {缺少 {n} 个图层名称}}"
+    },
+    "request_upgrade.body.figjam": {
+        "string": "如果您希望完全访问 FigJam，您需要向团队的管理员发送请求。"
+    },
+    "upgrades.auto_pathway_success_modal.body.developer": {
+        "string": "现在您可以使用开发模式，并且可以在 FigJam 和 Slides 中创建！"
+    },
+    "community.publishing.cannot_publish_with_slides_editor_type": {
+        "string": "‘幻灯片’编辑器类型未启用发布功能。"
+    },
+    "seat_billing_terms.banner.urgent.description": {
+        "string": "请查看并接受这些更新，否则您的账户可能会被锁定。"
+    },
+    "community.publishing.you_can_only_upload_up_to_n_images": {
+        "string": "您只能上传最多 {maxMedia} 张图片。请更新。"
+    },
+    "plan_invoices.new_seats_added_colon": {
+        "string": "{quantity, plural, one {添加了 1 个新席位：} other {添加了 {quantity} 个新席位：}}"
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_dev": {
+        "string": "{userName} 的席位已更改 • 现在有 1 个开发席位可用"
+    },
+    "community.publish.hub_file_error.you_do_not_have_edit_permissions": {
+        "string": "您没有权限编辑此文件。"
+    },
+    "community.publishing.you_can_only_upload_up_to_n_videos": {
+        "string": "您只能上传最多 {maxVideos} 个视频。请更新。"
+    },
+    "file_permissions_modal.external_sharing_unavailable": {
+        "string": "您不能与 {planName} 外部的人共享此文件链接。"
+    },
+    "subscription.error.team_is_pro_team_to_add_mid_cycle_seats": {
+        "string": "您必须升级到专业团队才能添加年度席位。"
+    },
+    "dev_handoff.variables.details_value_from_other_mode": {
+        "string": "此值来自 {modeName} 模式中的 {collectionName} 集合"
+    },
+    "community.publish.hub_file_error.cannot_publish_default_files": {
+        "string": "默认起始文件不能发布到社区。"
+    },
+    "collaboration.branching.undo_merge_description": {
+        "string": "这将恢复合并前的版本并重新打开分支。"
+    },
+    "payments.invalid_billing_interval_error": {
+        "string": "无效的计费间隔。请返回并选择每月或每年计费。"
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_full": {
+        "string": "{userName} 的席位已更改 • 现在有 1 个完整席位可用"
+    },
+    "request_upgrade.body.dev_mode": {
+        "string": "如果您想完全访问开发模式，您需要向团队的管理员发送请求。"
+    },
+    "settings_table.add_seats_to_your_annual_plan": {
+        "string": "将席位添加到您的年度计划，将所有每月席位转换为较低的费率。"
+    },
+    "plan_invoices.review_invoice.title_renewal_non_actionable": {
+        "string": "您的组织将于 {date, date, ::MMMMd} 进行续订"
+    },
+    "seat_billing_terms.banner.info.main_text": {
+        "string": "您有直到 {renewalDate, date, long} 的时间来接受我们更新的合同条款。"
+    },
+    "design_systems.libraries_modal.loading_dsa_message_all_assets": {
+        "string": "正在处理大量库数据，这可能需要一些时间…"
+    },
+    "file_browser.confirm_file_delete_modal.warning_published_sites": {
+        "string": "{sitesText}。这些将被取消发布并下线。"
+    },
+    "request_upgrade.body.design": {
+        "string": "如果您想完全访问 Figma Design，您需要向团队的管理员发送请求。"
+    },
+    "request_upgrade.body.slides": {
+        "string": "如果您想完全访问 Figma Slides，您需要向团队的管理员发送请求。"
+    },
+    "revoke_transfer_modal.transfer_details_team": {
+        "string": "{sourceUserEmail} 请求将此团队转移到 {destinationUserEmail}。"
+    },
+    "design_systems.libraries_modal.team_libraries_description_org": {
+        "string": "由您组织中的团队创建并共享的库"
+    },
+    "banner.cooper.alpha_banner.staging_description": {
+        "string": "此项目仍在开发中。请在 {slackLink} 留下反馈"
+    },
+    "team_view.locked_proteam_admin_invoice_reminder_banner.cta": {
+        "string": "{invoiceCount, plural, one {支付发票} other {支付发票}}"
+    },
+    "modify_plan_user_seat_modal.visual_bell.message_with_previous_collab": {
+        "string": "{userName} 的席位已更改 • 现在有 1 个协作席位可用"
+    },
+    "community.publishing.description_must_be_at_most_n_characters_long": {
+        "string": "描述最多只能包含 {maxLength} 个字符"
+    },
+    "file_browser.trash_project.published_site_warning": {
+        "string": "此项目中的已发布网站将被取消发布并下线。"
+    },
+    "community.publishing.add_up_to_n_images_and_videos_to_your_carousel": {
+        "string": "最多添加 {maxMedia} 张图片和视频到您的轮播中"
+    },
+    "community.publishing.our_team_will_review_this_resource": {
+        "string": "我们的团队将审核此资源，并在准备好后与您联系。"
+    },
+    "rcs.visual_assets.drag_visual_assets_description": {
+        "string": "只需点击并拖动它到您的画布上，即可在您的设计中使用（并重复使用）！"
+    },
+    "file_permissions_modal.invited_num_people": {
+        "string": "{num_invites, plural, one {邀请了 1 个人} other {邀请了 {num_invites} 个人}}"
+    },
+    "design_systems.preset_libraries.tooltip.site_kit_tooltip": {
+        "string": "这是一个 Figma 资源。此工具包由 Figma 持有，遵循 {licenseLink} 许可。"
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.three_admins": {
+        "string": "{orgAdmin1Name}、{orgAdmin2Name} 和 {orgAdmin3Name}"
+    },
+    "dev_handoff.figmadocs.error_child_layer_id_not_found": {
+        "string": "在选定的组件/变体中未找到 ID 为 \"{codeConnectId}\" 的图层"
+    },
+    "upgrades.drafts_move.request_body_figjam": {
+        "string": "要将文件从草稿移动到协作空间，您需要完全访问 FigJam。"
+    },
+    "dev_handoff.social_proof.how_many_other_people_are_using_dev_mode": {
+        "string": "{userName} 和 {totalActiveDevModeUsers} 其他人使用开发模式"
+    },
+    "upgrades.auto_pathway_success_modal.body.collaborator.organize": {
+        "string": "太棒了！您现在可以在 FigJam 和 Slides 中分享、组织和编辑了。"
+    },
+    "resource_connection.visual_bell.pending_connection_request_exists": {
+        "string": "此资源已有一个待处理的连接请求"
+    },
+    "design_systems.libraries_modal.publishing_disabled_tooltip": {
+        "string": "要发布此文件，首先创建组件、变量或样式。"
+    },
+    "community.visual_assets.license_tooltip.no_author_name": {
+        "string": "社区资源由 Figma 社区创作者根据 CC BY 4.0 许可发布。"
+    },
+    "admin_settings.people.onboarding.click_on_a_person.no_paid_status": {
+        "string": "点击某人以在一个地方管理他们的所有详细信息。"
+    },
+    "resource_connection.visual_bell.team_at_limit": {
+        "string": "您的团队已达到活动连接和待处理外发邀请的限制。"
+    },
+    "file_browser.trash_project.description_restore": {
+        "string": "任何具有项目和团队编辑权限的人都可以从 {trashStyled} 标签恢复此项目。"
+    },
+    "community.publishing.support_contact_must_be_at_most_n_characters_long": {
+        "string": "支持联系信息最多只能包含 {maxLength} 个字符"
+    },
+    "file_browser.folder_list_view.may_not_restore_or_permanently_delete_banner": {
+        "string": "某些项目无法恢复或永久删除。"
+    },
+    "upgrades.drafts_move.request_body_design": {
+        "string": "要将文件从草稿移动到协作空间，您需要完全访问 Figma Design。"
+    },
+    "upgrades.drafts_move.request_body_slides": {
+        "string": "要将文件从草稿移动到协作空间，您需要完全访问 Figma Slides。"
+    },
+    "admin_dashboard.requests.success_approve_seat_changed": {
+        "string": "{numRequests, plural, one {席位已更改} other {{numRequests} 个席位已更改}}"
+    },
+    "community.publish.hub_file_error.cannot_publish_password_protected_files": {
+        "string": "密码保护文件不能发布到社区。"
+    },
+    "resource_connection.confirm_modal.you_can_disconnect": {
+        "string": "一旦项目完成，您可以断开连接，并将获得该项目的副本。"
+    },
+    "design_systems.preset_libraries.tooltip.ui_kit_tooltip": {
+        "string": "这是 {author} 的资源。UI 工具包由 {author} 持有，遵循 {licenseLink} 许可。"
+    },
+    "visual_bell.relinked_duplicate_subscribed_assets": {
+        "string": "重新链接了 {totalDuplicateSubscribedAssets} 个重复的已订阅资产"
+    },
+    "org_admin_settings.banners.renewal.body": {
+        "string": "从现在到 {date, date, ::MMMMd} 期间所做的所有更改将应用于您的续订费用。"
+    },
+    "plan_invoices.review_invoice.title_trueup_non_actionable": {
+        "string": "您的下一张发票将在 {date, date, ::MMMMd} 的结算期开具"
+    },
+    "payments.errors.error_processing_upgrade_request": {
+        "string": "处理您的升级请求时出现问题。请刷新并重试。"
+    },
+    "resource_connection.pending_modal.Invite has been sent but still awaiting a response": {
+        "string": "邀请已发送，但仍在等待回复"
+    },
+    "domain_insights.unclaimed_users.selected_user_count": {
+        "string": "{numSelected, plural, one {选中了 1 个用户} other {选中了 {numSelected} 个用户}}"
+    },
+    "resource_connection.visual_bell.org_at_limit": {
+        "string": "您的组织已达到活动连接和待处理外发邀请的限制。"
+    },
+    "community.publishing.you_can_only_upload_up_to_n_images_and_videos": {
+        "string": "您只能上传最多 {maxMedia} 张图片和视频。请更新。"
+    },
+    "visual_bell.updated_max_width": {
+        "string": "{nodeCount, plural, one {已更新 {nodeName} 的最大宽度} other {已更新 {nodeCount} 个节点的最大宽度}}"
+    },
+    "visual_bell.updated_min_width": {
+        "string": "{nodeCount, plural, one {已更新 {nodeName} 的最小宽度} other {已更新 {nodeCount} 个节点的最小宽度}}"
+    },
+    "subscription.error.team_not_in_last_month_to_add_mid_cycle_seats": {
+        "string": "您不能在年度订阅的最后一个月添加年度席位。"
+    },
+    "upgrades.auto_pathway_success_modal.body.expert.edit": {
+        "string": "您现在可以创建无限的设计文件，并且可以在所有 Figma 产品中进行编辑！"
+    },
+    "community.publish.hub_file_error.remixes_unavailable_until_first_publish": {
+        "string": "重新发布现有的社区文件目前不可用"
+    },
+    "community.access_needed_to_publish_in_org_modal.body": {
+        "string": "请联系您的管理员，以个人身份或代表组织发布资源。"
+    },
+    "visual_bell.updated_min_height": {
+        "string": "{nodeCount, plural, one {已更新 {nodeName} 的最小高度} other {已更新 {nodeCount} 个节点的最小高度}}"
+    },
+    "visual_bell.updated_max_height": {
+        "string": "{nodeCount, plural, one {已更新 {nodeName} 的最大高度} other {已更新 {nodeCount} 个节点的最大高度}}"
+    },
+    "community.visual_assets.license_tooltip.no_author_name_with_link": {
+        "string": "社区资源由 Figma 社区创作者根据 {licenseLink} 许可发布"
+    },
+    "domain_insights.unclaimed_users.description": {
+        "string": "这些用户在您的域中有活动的 Figma 账户，但当前不在您的组织内。"
+    },
+    "design_systems.libraries_modal.sharing_assets_with_your_team": {
+        "string": "与您的团队共享资产仅适用于付费计划。{learnMoreLink}。"
+    },
+    "community.publishing.you_can_also_right_click_a_frame_in_your_file": {
+        "string": "您也可以右键点击文件中的一个框架并选择‘设置为缩略图’"
+    },
+    "fullscreen.properties_panel.vector_operation.update_button": {
+        "string": "{numNodes, plural, one {更新布尔运算} other {更新布尔运算}}"
+    },
+    "upgrades.auto_pathway_success_modal.body.expert.organize": {
+        "string": "您现在可以创建无限的设计文件，并且可以在所有 Figma 产品中进行编辑！"
+    },
+    "universal_upgrade.enterpise_plan_banner_v2.banner_body_text": {
+        "string": "为增强安全性，支持公司间的可扩展设计流程，{and_more}"
+    },
+    "design_systems.libraries_modal.no_organization_libraries_subtitle": {
+        "string": "当新库在团队或工作空间中发布时，您将在此处找到它们。"
+    },
+    "community.access_needed_to_publish_in_org_modal.org_admins.more_than_three_admins": {
+        "string": "{orgAdmin1Name}、{orgAdmin2Name} 和 {otherAdminsCount} 其他人"
+    },
+    "file_browser.file_import_view.import_description_with_jamboard": {
+        "string": "从 Jamboard、Lucid、Miro 和 Mural 导入图像、Sketch 文件和 PDF 导出。"
+    },
+    "resource_connection.request_modal.errors.you_don_t_need_to_connect_with_your_own_plan": {
+        "string": "您无需与自己的 {connectedPlanType} 连接。"
+    },
+    "resource_connection.confirm_modal.your_plan_manages_the_editors": {
+        "string": "您的 {planType} 管理着参与该项目的用户的计费"
+    },
+    "ui3_and_ai_callouts.community_fragment_search.description": {
+        "string": "通过描述，快速查找团队或社区中的资产和设计。"
+    },
+    "design_systems.libraries_modal.plural.insert_count": {
+        "string": "{insertCount, plural, one {{insertCount} 个插入} other {{insertCount, number, integer} 个插入}}"
+    },
+    "resource_connection.request_modal.errors.this_link_isn_t_valid": {
+        "string": "无效链接。请确认您与联系人确认了正确的 URL。"
+    },
+    "admin_dashboard.requests.well_let_you_know_when_new_seat_requests_come_in": {
+        "string": "当有新的席位请求时，我们会通知您。"
+    },
+    "activity_log.event.resource_connection_invite_sent": {
+        "string": "请求将项目 {folderName} 与 {connectingPlanType} {connectingPlanName} 连接"
+    },
+    "community.publishing.there_can_only_be_one_creator_for_a_paid_resource": {
+        "string": "付费资源只能有一个创作者。请移除共同创作者。"
+    },
+    "domain_management.domain_capture.all_domains_verified_body": {
+        "string": "通过启用域捕获，您可以将所有未捕获的用户添加到您的组织。{learnMoreLink}"
+    },
+    "admin_settings.sidebar.onboarding.you_can_now_manage_admin_settings_separately": {
+        "string": "您现在可以单独管理管理员设置，无需进入 Figma 工作。"
+    },
+    "billing.open_invoice_reminder.locked_admin_description": {
+        "string": "请支付您的发票以解锁此团队并防止您的订阅降级。"
+    },
+    "billing.open_invoice_reminder.grace_period_admin_description": {
+        "string": "请在您的团队被锁定并且订阅降级之前支付您的发票。"
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui2_description": {
+        "string": "在层面板中水平滚动，切换到 UI3 后可以访问深层嵌套的图层。"
+    },
+    "connected_projects_table.no_connections_description": {
+        "string": "邀请外部团队或组织与您合作，您可以在本地管理计费"
+    },
+    "community.publish_modal_tags_comms_banner.text": {
+        "string": "我们更改了标签的工作方式，您的旧标签可能已经被删除。请在下方添加新的标签。"
+    },
+    "banner.pro_team_past_due_revamp.subtitle.can_admin": {
+        "string": "该团队的所有工作目前为只读模式。支付发票后您将恢复编辑权限。"
+    },
+    "file_browser.file_import_view.jamboard_import_deprecation_message": {
+        "string": "Jamboard 导入将在 2024 年 12 月 31 日后不再支持。{learnMoreLink}"
+    },
+    "subscription.error.team_active_annual_subscription_to_add_mid_cycle_seats": {
+        "string": "在您的年度订阅开始之前，不能添加更多年度席位。"
+    },
+    "new_user_experience.user_onboarding_signals.description.help_us_create_an_experience_that_best_suits_your_needs": {
+        "string": "这将帮助我们为您优化 Figma 体验。"
+    },
+    "team_view.pastdue_proteam_admin_invoice_reminder_banner.subtitle": {
+        "string": "请支付您的发票，以免您的团队被锁定且订阅降级。"
+    },
+    "activity_log.event.resource_connection_invite_received": {
+        "string": "{hostPlanType} {hostPlanName} 想要与您组织中的项目 {folderName} 连接"
+    },
+    "admin_settings.sidebar.onboarding.when_youre_done_with_admin_tasks": {
+        "string": "完成管理员任务后，您可以点击此处返回主视图。"
+    },
+    "seat_billing_terms.modal.tos.learn_more": {
+        "string": "了解更多有关我们 {updatedSeatsLink} 的信息。如果您对此条款有疑问，请联系 {supportLink}。"
+    },
+    "domain_management.column_header.unclaimed_users_tooltip": {
+        "string": "这些用户在您的域上有活动的 Figma 账户，但目前不在您的组织中。"
+    },
+    "rcs.visual_assets.explore_within_assets_tab": {
+        "string": "探索 Figma 社区中最好的图标集和插图，帮助您快速从空白页面完成设计。"
+    },
+    "starting_points_onboarding.fills_step.description": {
+        "string": "在此，您可以将选区的填充（或背景）设置为颜色、渐变、图像或视频。"
+    },
+    "file_browser.folder_list_view.may_not_restore_or_permanently_delete_banner_content": {
+        "string": "您需要对项目及其所属的团队具有编辑权限才能恢复或永久删除。"
+    },
+    "subscription.error.team_requires_monthly_and_annual_subscriptions_to_add_mid_cycle_seats": {
+        "string": "您必须同时拥有年度和月度订阅才能添加年度席位。"
+    },
+    "plan_invoices.review_invoice.title_renewal_non_automatic": {
+        "string": "您的组织将在 {date, date, ::MMMMd} 进行续订。请联系您的客户经理。"
+    },
+    "resource_connection.confirm_modal.you_will_be_able_to_view_the_project": {
+        "string": "您的所有管理员和受邀人将能够查看 {hostPlan} 所拥有的项目。"
+    },
+    "admin_settings.people.onboarding.click_on_a_person": {
+        "string": "点击某人以更改他们的席位、授予管理员权限并在一个地方管理他们的所有详细信息。"
+    },
+    "dev_handoff.paywall.blocking_modal.content.explore_for_free_with_link": {
+        "string": "在您的请求处理中，您可以免费探索。想了解更多？{learnMoreLink}"
+    },
+    "fullscreen.properties_panel.export_settings.slides_content.selected": {
+        "string": "{numSlides, plural, one {{numSlides} 选中的幻灯片} other {{numSlides} 选中的幻灯片}}"
+    },
+    "resource_connection.request_modal.contact_person_and_admin_will_be_notified": {
+        "string": "当您发送请求时，联系人和他们的管理员将收到通知。"
+    },
+    "team_admin_people_table_changes_overlay.go_to_view_members": {
+        "string": "前往团队的“查看成员”页面，查看成员并更改他们的权限。 {viewMembersLink}"
+    },
+    "subscription.error.team_not_in_last_month_to_modify_annual_subscription": {
+        "string": "在续订前的最后一个月，您不能直接修改年度订阅。"
+    },
+    "banner.pro_team_past_due_revamp.subtitle.no_admin": {
+        "string": "该团队的所有工作目前为只读模式。您需要联系管理员解锁此工作。"
+    },
+    "dev_handoff.paywall.blocking_modal.content.one_click_request": {
+        "string": "在等待团队管理员批准期间，您可以免费使用 Dev Mode 长达 3 天。"
+    },
+    "starting_points_onboarding.properties_step.description": {
+        "string": "您可以从右侧面板更改当前选择的大小、不透明度、布局等属性。"
+    },
+    "ui3_layers_horizontal_scroll_overlay.ui3_description": {
+        "string": "现在，您可以在图层面板中水平滚动，使得访问深层嵌套的图层更加容易。"
+    },
+    "subscription.error.team_requires_monthly_to_update_annual_subscription": {
+        "string": "您必须拥有月度订阅才能修改或更新年度订阅。"
+    },
+    "team_view.locked_proteam_admin_invoice_reminder_banner.subtitle": {
+        "string": "请支付发票以解锁该团队并防止订阅降级。"
+    },
+    "resource_connection.request_modal.add_link_here_description": {
+        "string": "在您的联系人将其 Figma 计划的 Web 链接与您共享后，请在此处添加该链接。 {learnMore}"
+    },
+    "starting_points_onboarding.edit_text_step.description": {
+        "string": "点击一次选择文本，或点击两次进行编辑。要选择深层嵌套的文本，点击前按住 ⌘ 键。"
+    },
+    "dev_handoff.configuration_wizard.welcome_step.description_one_click": {
+        "string": "在请求审核期间，您可以开始检查和开发团队的设计。"
+    },
+    "domain_insights.unclaimed_users.domain_capture_notice": {
+        "string": "如果您希望将您验证域上的所有未捕获用户添加到您的组织，请 {enableDomainCaptureLink}。"
+    },
+    "billing_modals.org_renewal.description": {
+        "string": "现在是决定您团队需要多少席位的时候。所有更改将在您的计划续订日期生效。"
+    },
+    "file_permissions_modal.share_as.publish_template_slides_error_symbol_in_slide": {
+        "string": "幻灯片模板不能包含组件。将它们移出幻灯片，然后重试发布。"
+    },
+    "subscription.error.team_annual_subscriptions_cannot_be_modified_within_cutoff_period_of_renewal": {
+        "string": "您的年度续订正在处理，无法进行任何更改。"
+    },
+    "activity_log.event.resource_connection_disconnected": {
+        "string": "断开了 {hostPlanType} {hostPlanName} 与 {connectedPlanType} {connectedPlanName} 项目的连接"
+    },
+    "file_browser.trash_project.warning.pending_asset_transfer": {
+        "string": "该项目有待处理的资产转移请求。将此项目移到垃圾箱将取消该转移。"
+    },
+    "file_browser.folder_settings_modal.tooltip.cannot_connect_folder_with_team_asset_transfer_request": {
+        "string": "当团队有待处理的转移请求时，无法连接项目"
+    },
+    "community.publishing.you_did_it_thanks_for_putting_your_work_out_there": {
+        "string": "您做到了——感谢将您的作品展示出来，并与 Figma 社区分享您的才华。"
+    },
+    "file_browser.team_settings_modal.paid_status_explanation": {
+        "string": "通过调整团队成员的角色来管理权限。要管理他们的席位，请转到 {adminDashboardLink}。"
+    },
+    "file_browser.folder_settings_modal.tooltip.cannot_transfer_folder_with_team_asset_transfer_request": {
+        "string": "当团队有待处理的转移请求时，无法转移项目"
+    },
+    "activity_log.event.resource_connection_invite_revoked": {
+        "string": "撤销了 {hostPlanType} {hostPlanName} 在项目 {folderName} 中与 {connectingPlanType} {connectingPlanName} 的连接"
+    },
+    "rcs.visual_assets.grab_visual_assets": {
+        "string": "在您的 {strongAssets} 标签中探索 Figma 社区最好的图标集和插图，快速将空白页面变成精美设计。"
+    },
+    "file_browser.trash_project.warning.active_resource_connection": {
+        "string": "该项目有活动的资源连接。将此项目移到垃圾箱将断开该项目的连接。"
+    },
+    "file_browser.team_settings_modal.paid_status_explanation_no_link": {
+        "string": "通过调整团队成员的角色来管理权限。要管理他们的席位，请转到管理员仪表板。"
+    },
+    "dev_handoff.code_connect.entrypoint_body_text_library": {
+        "string": "通过 Code Connect，您可以确保开发人员在检查此组件时每次都能看到您仓库中的代码。"
+    },
+    "domain_insights.unclaimed_users.adding_users": {
+        "string": "{userCount, plural, one {正在添加 1 个用户。请稍等片刻。} other {正在添加 {userCount} 个用户。请稍等片刻。}}"
+    },
+    "modify_plan_user_seat_modal.error.missing_pricing": {
+        "string": "我们在获取定价信息时遇到问题。这不会影响您的账单，您可以继续进行此席位变更"
+    },
+    "seat_billing_terms.modal.renewal_price_update": {
+        "string": "在 {organizationName} 于 {renewalDate, date, long} 的合同续订时，{planTier} 席位的价格将更新为："
+    },
+    "file_browser.confirm_file_trash_modal.site_published_warning": {
+        "string": "该站点已发布到网络。将此文件移到垃圾箱将使该站点下线并取消发布。"
+    },
+    "activity_log.event.resource_connection_invite_denied": {
+        "string": "拒绝了 {hostPlanType} {hostPlanName} 在项目 {folderName} 中与 {connectingPlanType} {connectingPlanName} 的连接请求"
+    },
+    "fullscreen.properties_panel.vector_operation.update_text": {
+        "string": "{numNodes, plural, one {更新布尔运算，使用所有几何图形。} other {更新布尔运算，使用所有几何图形。}}"
+    },
+    "file_browser.trash_project.warning.pending_resource_connection": {
+        "string": "该项目有待处理的资源连接。将此项目移到垃圾箱将取消该连接请求。"
+    },
+    "activity_log.event.resource_connection_invite_approved": {
+        "string": "批准了 {hostPlanType} {hostPlanName} 在项目 {folderName} 中与 {connectingPlanType} {connectingPlanName} 的连接请求"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_your_team_s_admins_we_ll_let_you_know_when_they_respond": {
+        "string": "我们已将您的请求发送给您的团队管理员，待他们回复时我们会通知您。"
+    },
+    "resource_connection.revoke_modal.this_will_end_the_connection_request": {
+        "string": "这将终止 {connectingPlanName} 与您的 {hostPlanType} 在项目 {projectName} 上的连接请求。"
+    },
+    "fullscreen.toolbar.your_admins_declined_your_previous_request_but_you_can_ask_for_editing_access_again": {
+        "string": "您的管理员拒绝了您之前的请求，但您可以再次请求编辑访问权限。"
+    },
+    "domain_management.domain_capture.domain_capture_enabled_body": {
+        "string": "您的域上的所有用户将自动添加到您的组织中，因此您将永远不会有未捕获的用户。{learnMoreLink}"
+    },
+    "domain_insights.unclaimed_users.verify_domains_note_body": {
+        "string": "通过验证所有组织域并启用域捕获，自动将此域上的所有未捕获用户添加到您的组织中。"
+    },
+    "resource_connection.request_modal.asset_transfer_request_will_be_revoked": {
+        "string": "该项目有待处理的转移请求。如果您发起连接请求，转移请求将被撤销。"
+    },
+    "admin_dashboard.requests.success_approve_seat_changed_async": {
+        "string": "{numRequests, plural, one {席位已变更——变更将在不久后显示} other {席位已变更——变更将在不久后显示}}"
+    },
+    "modify_plan_user_seat_modal.error.missing_seat_availability": {
+        "string": "我们在获取席位可用信息时遇到问题。这不会影响您的账单，您可以继续进行此席位变更"
+    },
+    "org_admin_settings.billing.freeze_invoice_modal.copy": {
+        "string": "一旦您确认，任何加入的付费席位将在下一个发票生成之前免费使用。在 {date, date, ::MMMMd}，您将支付 {amount} 的费用。"
+    },
+    "starting_points_onboarding.assets_step.description": {
+        "string": "最后，您可以在左侧面板的 {strongAssets} 标签中找到更多预制的、可重复使用的组件。只需将需要的组件拖放到画布上。"
+    },
+    "resource_connection.request_modal.you_can_connect_this_project_with_another_plan": {
+        "string": "您可以将此项目与另一个计划连接，以便从该计划连接的用户按自己的计划计费。{learnMore}"
+    },
+    "domain_management.domain_capture.some_domains_verified_body": {
+        "string": "通过启用域捕获，您可以将所有未捕获的用户添加到您的组织中。首先需要验证所有域。{learnMoreLink}"
+    },
+    "billing_modals.org_renewal.disclaimer_banner.these_numbers_may_change": {
+        "string": "如果您在 {date, date, ::MMMMd} 续订日期之前升级或降级了分配的席位，则这些数字可能会发生变化。{manageAssignedSeatsLink}"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_the_file_s_owner_you_can_create_and_edit_other_files_in_the_meantime": {
+        "string": "我们已将您的请求发送给文件的所有者。在此期间，您可以创建并编辑其他文件。"
+    },
+    "resource_connection.request_modal.errors.this_email_isn_t_associated_with_the_plan_linked_above": {
+        "string": "此电子邮件与上述链接的 {connectedPlanType} 无关。请确认您拥有正确的电子邮件。"
+    },
+    "starting_points_onboarding.toolbar_step.description": {
+        "string": "使用这些工具创建新框架、文本和形状。您还可以快速找到设置、组件、插件等内容。"
+    },
+    "request_upgrade.provisional_access.design": {
+        "string": "{numDays, plural, one {在等待他们的回复时，您可以编辑文件 {numDays} 天。} other {在等待他们的回复时，您可以编辑文件 {numDays} 天。}}"
+    },
+    "request_upgrade.provisional_access.figjam": {
+        "string": "{numDays, plural, one {在等待他们的回复时，您可以编辑板块 {numDays} 天。} other {在等待他们的回复时，您可以编辑板块 {numDays} 天。}}"
+    },
+    "seat_billing_terms.modal.agreement_terms": {
+        "string": "点击“接受条款”即表示您同意此处和 {softwareAgreementLink} 中列出的订单条款，并确认您有权代表您的组织采取行动。"
+    },
+    "modify_plan_user_seat_modal.error.missing_pricing_and_seat_avability": {
+        "string": "我们在获取定价和席位可用信息时遇到问题。这不会影响您的账单，您可以继续进行此席位变更"
+    },
+    "resource_connection.disconnect_modal.all_connecting_plan_members_will_lose_access": {
+        "string": "所有 {connectingPlanName} 成员将失去对该项目及其中所有文件、共享库等的访问权限。请谨慎操作。"
+    },
+    "request_upgrade.provisional_access.dev_mode": {
+        "string": "{numDays, plural, one {在等待他们的回复时，您可以使用 Dev Mode {numDays} 天。} other {在等待他们的回复时，您可以使用 Dev Mode {numDays} 天。}}"
+    },
+    "file_browser.confirm_file_trash_modal.description_restore_drafts": {
+        "string": "{numFiles, plural, one {您可以随时从 {trashText} 部分恢复它。} other {您可以随时从 {trashText} 部分恢复它们。}}"
+    },
+    "request_upgrade.provisional_access.slides": {
+        "string": "{numDays, plural, one {在等待他们的回复时，您可以编辑幻灯片 {numDays} 天。} other {在等待他们的回复时，您可以编辑幻灯片 {numDays} 天。}}"
+    },
+    "seat_billing_terms.modal.confirm_terms": {
+        "string": "要继续使用 Figma，请阅读并确认以下页面中关于席位和定价的更新条款。如果您已经签署了包括这些更新的合同，那么该合同将适用。"
+    },
+    "resource_connection.request_modal.you_will_need_email_address_of_a_contact_and_link_to_plan": {
+        "string": "您需要该计划的联系人的电子邮件地址，以及该计划的链接。这样可以确保连接请求发送到正确的计划。"
+    },
+    "fullscreen.toolbar.we_ve_sent_your_request_to_the_file_s_owner_you_can_edit_other_files_up_to_3_days_while_admins_review_your_request": {
+        "string": "我们已将您的请求发送给文件的所有者。在管理员审核您的请求时，您可以编辑其他文件，最长 3 天。"
+    },
+    "resource_connection.confirm_modal.another_plan_wants_to_connect_with_your_plan": {
+        "string": "来自 {hostPlan} 的管理员希望将项目 {projectName} 与您连接。如果您接受，您将管理您成员在此项目中的计费。{learnMore}"
+    },
+    "admin_dashboard.requests.your_org_name_has_seat_request_that_need_review": {
+        "string": "{numOrgRequests, plural, one {{orgName} 有 1 个席位请求需要审核。 {reviewRequestLink}} other {{orgName} 有 {numOrgRequests} 个席位请求需要审核。 {reviewRequestLink}}}"
+    },
+    "resource_connection.request_modal.guests_will_become_connected_users_once_invite_accepted": {
+        "string": "一旦管理员接受，任何属于您连接计划的来宾将转为“已连接”用户，并由他们自己的计划管理其账单。"
+    },
+    "admin_dashboard.requests.your_organization_has_seat_request_that_need_review": {
+        "string": "{numOrgRequests, plural, one {您的组织有 1 个席位请求需要审核。 {reviewRequestLink}} other {您的组织有 {numOrgRequests} 个席位请求需要审核。 {reviewRequestLink}}}"
+    },
+    "file_browser.confirm_permanently_delete_file_modal.about_to_delete_online": {
+        "string": "{numFiles, plural, one {您即将永久删除文件 {fileNameText}，无法恢复。} other {您即将永久删除 {numFilesText}，无法恢复。}}"
+    },
+    "request_upgrade.description_dev_mode_grace_period_one_click": {
+        "string": "{numDays, plural, one {在等待团队管理员批准期间，您可以免费使用 Dev Mode {numDays} 天。} other {在等待团队管理员批准期间，您可以免费使用 Dev Mode 最多 {numDays} 天。}}"
+    },
+    "seat_billing_terms.modal.tos.additional_seats.terms": {
+        "string": "您仍然可以随时在管理员仪表板中购买和管理席位，但费用计算方式将发生变化。在合同期内新增或升级的席位将按批准日期开始收费，并按天进行按比例计费，直到合同期结束。"
+    },
+    "seat_billing_terms.modal.tos.invoices.terms": {
+        "string": "您当前的付款方式和到期日期将延续到您的未来续订和发票。所有费用将在每年预付，新的、按比例计费的席位添加将在季度发票中开具，当适用时，每季度发票将在续订后的第 3、6、9 和 12 个月发送。"
+    },
+    "file_browser.confirm_permanently_delete_file_modal.about_to_delete_offline": {
+        "string": "{numFiles, plural, one {您即将永久删除文件 {fileNameText}。由于它离线且未同步，您将无法恢复它。} other {您即将永久删除 {numFilesText}。由于它们离线且未同步，您将无法恢复它们。}}"
+    },
+    "seat_billing_terms.modal.tos.subscription.terms": {
+        "string": "在您下次续订时，我们将把您的 {planTier} 过渡到新的定价，续订日期为 {renewalDate, date, long}。您的订阅将在接下来的 12 个月续订，除非您在合同期结束前至少 30 天书面通知 Figma 或您书面通知 Figma 不续订，否则将按照当时的 {softwareAgreementLink} 继续续订。这些条款将适用于您计划的未来自动续订。"
+    },
+    "seat_billing_terms.modal.tos.subscription.pricing": {
+        "string": "在您即将到来的续订时，价格将基于续订日期的席位数量乘以席位类型的年化费率计算。在所有后续续订中，您的订阅价格将按过去的方式计算——根据上个订阅周期购买的席位数量（包括新增席位）或续订日期 {organizationName} 账户中的席位数量——以较大者为准。我们将根据适用的席位类型价格乘以年化费率来确定费用。"
+    }
 }
